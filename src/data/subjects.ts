@@ -24,6 +24,8 @@ export const SUBJECTS: Subject[] = [
   { id: "crop-physiology", code: "DA-112", name: "Crop Physiology & Botany",        icon: "🌿", color: "emerald", description: "Photosynthesis, respiration, transpiration, plant growth", totalQuestions: 200, category: "Science" },
   { id: "seed-technology", code: "DA-113", name: "Seed Technology",                  icon: "🌰", color: "teal",    description: "Seed quality, certification, storage, germination", totalQuestions: 200, category: "Core" },
   { id: "meteorology",     code: "DA-114", name: "Ag. Meteorology & Physics",       icon: "🌦️", color: "cyan",    description: "Weather, climate, rainfall, humidity, soil physics", totalQuestions: 200, category: "Science" },
+  { id: "computer-applications", code: "DA-262", name: "Introduction to Computer Applications", icon: "💻", color: "slate",   description: "Computers, DOS, Windows, MS Office, Internet basics", totalQuestions: 50, category: "General" },
+  { id: "english-communication", code: "DA-263", name: "Communication Skills in English",       icon: "📝", color: "rose",    description: "Grammar, tenses, voices, letter writing, vocabulary", totalQuestions: 50, category: "General" },
 ];
 
 export const DEMO_SUBJECT_ID = "agronomy";

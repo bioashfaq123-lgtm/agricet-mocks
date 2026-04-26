@@ -13,6 +13,8 @@ import { extensionQuestions } from "./extension";
 import { cropPhysiologyQuestions } from "./crop-physiology";
 import { seedTechnologyQuestions } from "./seed-technology";
 import { meteorologyQuestions } from "./meteorology";
+import { computerApplicationsQuestions } from "./computer-applications";
+import { englishCommunicationQuestions } from "./english-communication";
 
 export const ALL_QUESTIONS: Record<string, Question[]> = {
   "agronomy":        [...agronomyQuestions, ...agronomyQuestions2],
@@ -28,7 +30,9 @@ export const ALL_QUESTIONS: Record<string, Question[]> = {
   "economics":       economicsQuestions,
   "crop-physiology": cropPhysiologyQuestions,
   "seed-technology": seedTechnologyQuestions,
-  "meteorology":     meteorologyQuestions,
+  "meteorology":          meteorologyQuestions,
+  "computer-applications": computerApplicationsQuestions,
+  "english-communication": englishCommunicationQuestions,
 };
 
 export function getShuffledQuestions(subjectId: string, count = 50): Question[] {
