@@ -2,7 +2,7 @@
 import Link from "next/link";
 import { useState, useEffect } from "react";
 import {
-  BookOpen, Clock, Trophy, Star, ChevronDown, CheckCircle,
+  BookOpen, Clock, Trophy, ChevronDown, CheckCircle,
   Users, BarChart2, Shield, Zap, Play, ArrowRight, Leaf,
   MessageSquare, Target, Award
 } from "lucide-react";
@@ -23,11 +23,6 @@ const STATS = [
   { label: "Success Rate",      value: "94%",     icon: Trophy },
 ];
 
-const TESTIMONIALS = [
-  { name: "Ravi Kumar", college: "RARS Guntur", score: "Secured 89%ile in AGRICET 2024", text: "AGRICET MOCKS helped me understand every concept deeply. The explanations after each question are brilliant!", avatar: "RK" },
-  { name: "Priya Devi",  college: "Ag. College Rajendranagar", score: "Got PJTAU admission", text: "I attempted all 17 subjects twice before the exam. The timed test feature really helped my time management.", avatar: "PD" },
-  { name: "Suresh Babu", college: "Diploma College Warangal", score: "AIR under 500 in AGRICET", text: "Previous year papers module is the best feature. Seeing the real exam pattern gave me huge confidence.", avatar: "SB" },
-];
 
 const FAQS = [
   { q: "What is AGRICET?", a: "AGRICET (Agriculture Common Entrance Test) is conducted by PJTAU (Prof. Jayashankar Telangana State Agricultural University) for admission into BSc (Hons) Agriculture programs. It is open to students who have completed Diploma in Agriculture." },
@@ -238,34 +233,6 @@ export default function LandingPage() {
         </div>
       </section>
 
-      {/* ── TESTIMONIALS ── */}
-      <section className="py-20 bg-gray-50">
-        <div className="max-w-5xl mx-auto px-4">
-          <h2 className="section-title">Students Who Cracked AGRICET</h2>
-          <div className="grid md:grid-cols-3 gap-6 mt-12">
-            {TESTIMONIALS.map((t) => (
-              <div key={t.name} className="card p-6">
-                <div className="flex items-center gap-3 mb-4">
-                  <div className="w-12 h-12 bg-primary-600 text-white rounded-full flex items-center justify-center font-bold text-sm">
-                    {t.avatar}
-                  </div>
-                  <div>
-                    <div className="font-semibold text-gray-900">{t.name}</div>
-                    <div className="text-xs text-gray-500">{t.college}</div>
-                  </div>
-                </div>
-                <div className="flex gap-0.5 mb-3">
-                  {Array(5).fill(0).map((_, i) => (
-                    <Star key={i} className="w-4 h-4 fill-gold-400 text-gold-400" />
-                  ))}
-                </div>
-                <p className="text-gray-600 text-sm italic mb-3">"{t.text}"</p>
-                <div className="badge bg-primary-50 text-primary-700 text-xs">🏆 {t.score}</div>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
 
       {/* ── FAQ ── */}
       <section className="py-20 bg-white">
