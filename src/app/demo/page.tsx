@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 import Link from "next/link";
 import { Play, Lock, ArrowRight, Leaf } from "lucide-react";
 import { getShuffledQuestions } from "@/data/questions";
-import { DEMO_QUESTION_LIMIT } from "@/data/subjects";
+import { DEMO_QUESTION_LIMIT, DEMO_SUBJECT_ID } from "@/data/subjects";
 import { Question } from "@/types";
 import { CheckCircle, X, AlertCircle, ChevronLeft, ChevronRight } from "lucide-react";
 
@@ -15,7 +15,7 @@ export default function DemoPage() {
   const [finished, setFinished] = useState(false);
 
   useEffect(() => {
-    setQuestions(getShuffledQuestions("agronomy", DEMO_QUESTION_LIMIT));
+    setQuestions(getShuffledQuestions(DEMO_SUBJECT_ID, DEMO_QUESTION_LIMIT));
   }, []);
 
   if (!started) {
@@ -26,7 +26,7 @@ export default function DemoPage() {
             <Leaf className="w-8 h-8 text-white" />
           </div>
           <h1 className="text-2xl font-black text-gray-900 mb-2">Free Demo Test</h1>
-          <p className="text-gray-500 mb-2">🌾 Agronomy — 10 Questions</p>
+          <p className="text-gray-500 mb-2">🌾 DA-102 Crop Production-I — 10 Questions</p>
           <p className="text-sm text-gray-400 mb-6">Experience AGRICET MOCKS quality — no signup required!</p>
 
           <div className="bg-primary-50 rounded-xl p-4 mb-6 text-left space-y-2">

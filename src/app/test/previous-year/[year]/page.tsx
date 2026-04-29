@@ -4,8 +4,7 @@ import { useParams, useRouter } from "next/navigation";
 import Link from "next/link";
 import { ChevronLeft, ChevronRight, CheckCircle, X, AlertCircle, Clock } from "lucide-react";
 import { useAuth } from "@/contexts/AuthContext";
-import { PYQ_2023 } from "@/data/previousYearPapers";
-import { PREVIOUS_YEAR_PAPERS } from "@/data/previousYearPapers";
+import { PYQ_2025, PYQ_2024, PYQ_2023, PREVIOUS_YEAR_PAPERS } from "@/data/previousYearPapers";
 
 export default function PreviousYearTestPage() {
   const params   = useParams();
@@ -16,12 +15,15 @@ export default function PreviousYearTestPage() {
   const [currentIdx, setCurrentIdx] = useState(0);
   const [answers, setAnswers]       = useState<Record<string, number>>({});
   const [finished, setFinished]     = useState(false);
-  const [timeLeft, setTimeLeft]     = useState(120 * 60);
-
   const paper = PREVIOUS_YEAR_PAPERS.find(p => p.year === year);
+  const [timeLeft, setTimeLeft]     = useState((paper?.duration ?? 100) * 60);
 
-  // For demo, use PYQ_2023 for all years
-  const questions = PYQ_2023;
+  // Pick the question array for the requested year
+  const questions =
+    year === 2025 ? PYQ_2025 :
+    year === 2024 ? PYQ_2024 :
+    year === 2023 ? PYQ_2023 :
+    [];
 
   useEffect(() => {
     const timer = setInterval(() => setTimeLeft(t => (t > 0 ? t - 1 : 0)), 1000);

@@ -7,6 +7,7 @@ import {
   signOut,
   onAuthStateChanged,
   updateProfile,
+  sendPasswordResetEmail,
 } from "firebase/auth";
 import { doc, setDoc, getDoc, updateDoc, serverTimestamp } from "firebase/firestore";
 import { auth, db } from "@/lib/firebase";
@@ -18,7 +19,7 @@ interface UserData {
   isPaid: boolean;
   sessionToken?: string;
   createdAt?: unknown;
-  progress?: Record<string, { attempted: number; correct: number; lastScore: number }>;
+  progress?: Record<string, { attempted: number; correct: number; lastScore: number; bestScore: number; testCount: number; lastAttempted?: Date }>;
 }
 
 interface AuthContextType {
@@ -29,6 +30,7 @@ interface AuthContextType {
   signup: (name: string, email: string, password: string) => Promise<void>;
   logout: () => Promise<void>;
   refreshUserData: () => Promise<void>;
+  resetPassword: (email: string) => Promise<void>;
 }
 
 const AuthContext = createContext<AuthContextType>({} as AuthContextType);
@@ -86,8 +88,12 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
     if (user) await fetchUserData(user.uid);
   };
 
+  const resetPassword = async (email: string) => {
+    await sendPasswordResetEmail(auth, email);
+  };
+
   return (
-    <AuthContext.Provider value={{ user, userData, loading, login, signup, logout, refreshUserData }}>
+    <AuthContext.Provider value={{ user, userData, loading, login, signup, logout, refreshUserData, resetPassword }}>
       {children}
     </AuthContext.Provider>
   );

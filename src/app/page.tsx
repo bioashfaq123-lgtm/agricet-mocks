@@ -31,8 +31,8 @@ const TESTIMONIALS = [
 
 const FAQS = [
   { q: "What is AGRICET?", a: "AGRICET (Agriculture Common Entrance Test) is conducted by PJTAU (Prof. Jayashankar Telangana State Agricultural University) for admission into BSc (Hons) Agriculture programs. It is open to students who have completed Diploma in Agriculture." },
-  { q: "How many questions are in AGRICET?", a: "AGRICET consists of 120 multiple choice questions from subjects covered in the Diploma in Agriculture curriculum. Each question carries 1 mark with no negative marking." },
-  { q: "What subjects are covered in this platform?", a: "All 17 core subjects of Diploma in Agriculture including Agronomy, Soil Science, Horticulture, Plant Pathology, Entomology, Genetics, Biochemistry, Microbiology, Farm Machinery, Irrigation, Animal Science, Extension Education, Agricultural Economics, Crop Physiology, Seed Technology, Forestry, and Sericulture." },
+  { q: "How many questions are in AGRICET?", a: "AGRICET consists of 100 multiple choice questions from subjects covered in the Diploma in Agriculture curriculum. Each question carries 1 mark with no negative marking." },
+  { q: "What subjects are covered in this platform?", a: "This platform covers 18 subjects: Principles of Agronomy (DA-101), Crop Production-I Kharif (DA-102), Plant Breeding & Seed Technology (DA-111), Soil Chemistry & Fertility (DA-121), Soil & Water Conservation (DA-122), General Entomology (DA-131), Crop Pests & Management (DA-132), Farm Power & Machinery (DA-151), Plant Pathology & Microbiology (DA-171), Crop Production-II Rabi & Oilseeds (DA-201), Agricultural Economics (DA-241), Survey, Levelling & Field Measurements (DA-252), Forestry & Medicinal Plants (DA-281), Horticultural Crops (DA-282), Agricultural Extension & Rural Development (DA-291), Computer Applications (DA-262), Communication Skills in English (DA-263), and General Agriculture." },
   { q: "Is there a free demo available?", a: "Yes! You can take a free demo test with 10 questions from Agronomy without registration. Full access to all 17 subjects (200 MCQs each) and previous year papers requires a one-time payment of ₹199." },
   { q: "How long is my subscription valid?", a: "Your ₹199 subscription gives you lifetime access to all content — all 17 subjects, 3,400+ MCQs, previous year papers (2023, 2024, 2025), and all future updates." },
   { q: "Can I practice on mobile?", a: "Yes! AGRICET MOCKS is fully responsive and works seamlessly on all devices — mobile phones, tablets, and desktops." },
@@ -110,9 +110,12 @@ export default function LandingPage() {
       {/* ── SUBJECTS GRID ── */}
       <section className="py-20 bg-gray-50">
         <div className="max-w-6xl mx-auto px-4">
-          <h2 className="section-title">14 Subjects, 200 MCQs Each</h2>
+          <h2 className="section-title">
+            {SUBJECTS.length} Subjects, {SUBJECTS.reduce((s, x) => s + x.totalQuestions, 0).toLocaleString()}+ MCQs
+          </h2>
           <p className="section-sub">
-            Every Diploma in Agriculture (DA) subject covered with AGRICET-standard questions
+            Every Diploma in Agriculture (DA) subject covered — including all 17 PJTSAU Diploma subjects
+            (DA-101 to DA-291) with AGRICET-standard questions
           </p>
           <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 mt-10">
             {SUBJECTS.map((sub) => (
