@@ -317,7 +317,7 @@ export default function TestPage() {
               <div className="mt-4 p-3 bg-amber-50 rounded-xl border border-amber-200">
                 <p className="text-amber-700 text-xs font-medium mb-2">🔓 Want more questions?</p>
                 <Link href="/signup" className="btn-primary text-xs py-2 text-center block">
-                  Get Full Access – ₹199
+                  Get Full Access – ₹100
                 </Link>
               </div>
             )}

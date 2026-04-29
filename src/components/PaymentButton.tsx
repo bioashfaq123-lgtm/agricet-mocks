@@ -38,7 +38,7 @@ export default function PaymentButton({ userId, userEmail, userName }: Props) {
 
     const options = {
       key:         process.env.NEXT_PUBLIC_RAZORPAY_KEY_ID,
-      amount:      19900, // ₹199 in paise
+      amount:      10000, // ₹100 in paise
       currency:    "INR",
       name:        "AGRICET MOCKS",
       description: "Lifetime Access – All 17 Subjects",
@@ -80,7 +80,7 @@ export default function PaymentButton({ userId, userEmail, userName }: Props) {
           </svg>
           Processing...
         </span>
-      ) : "Unlock All – ₹199"}
+      ) : "Unlock All – ₹100"}
     </button>
   );
 }

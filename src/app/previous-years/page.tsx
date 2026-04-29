@@ -54,7 +54,7 @@ export default function PreviousYearsPage() {
                       <Lock className="w-4 h-4" /> Requires Full Access
                     </div>
                     <Link href="/dashboard" className="text-primary-600 text-xs text-center block hover:underline">
-                      Upgrade for ₹199 →
+                      Upgrade for ₹100 →
                     </Link>
                   </div>
                 )

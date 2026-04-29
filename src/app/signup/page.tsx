@@ -8,7 +8,7 @@ import toast from "react-hot-toast";
 
 const PERKS = [
   "10 free MCQs — no payment needed",
-  "Full access for just ₹199 (one-time)",
+  "Full access for just ₹100 (one-time)",
   "3,400+ AGRICET-standard questions",
   "Previous year papers (2023–2025)",
 ];
