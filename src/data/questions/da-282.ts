@@ -197,9 +197,9 @@ export const da282Questions: Question[] = [
     id: "d282_025",
     subject: "da-282",
     question: "The recommended storage temperature for mango fruits is:",
-    options: ["0–2°C", "8–12°C", "15–18°C", "Room temperature (25°C)"],
+    options: ["0–2°C", "8–10°C", "15–18°C", "Room temperature (25°C)"],
     correct: 1,
-    explanation: "Mango fruits are stored at 8–12°C with 85–90% relative humidity to extend shelf life to 3–4 weeks. Temperatures below 8°C cause chilling injury (dark spots, pitting). Ripe mangoes can be stored at 5–8°C for 1–2 weeks."
+    explanation: "Mango fruits are stored at 8–10°C with 85–90% relative humidity to extend shelf life to 4–6 weeks depending on variety. Temperatures below 8°C cause chilling injury (dark spots, pitting)."
   },
   {
     id: "d282_026",
@@ -398,8 +398,8 @@ export const da282Questions: Question[] = [
     subject: "da-282",
     question: "The 'Nati' (country) variety of mango in Telangana/AP that is popular for pickling is:",
     options: ["Banganapalli", "Totapuri (Collector)", "Rumani", "Himayat"],
-    correct: 2,
-    explanation: "Totapuri (also called Collector or Bangalore) is a popular mango variety used for processing (pulp, juice, pickles) in Telangana and AP. It is parrot-beaked in shape, firm-fleshed, and suitable for processing. Banganapalli is for table use."
+    correct: 1,
+    explanation: "Totapuri (also called Collector or Bangalore) is a popular mango variety used for processing (pulp, juice, pickles) in Telangana and AP. It is parrot-beaked in shape, firm-fleshed, and suitable for processing. Banganapalli and Himayat are prized table varieties."
   },
   {
     id: "d282_051",
@@ -772,10 +772,10 @@ export const da282Questions: Question[] = [
   {
     id: "d282_097",
     subject: "da-282",
-    question: "The spacing recommended for high density mango planting in Telangana is:",
-    options: ["10 × 10 m (100 trees/ha)", "3 × 3 m (1111 trees/ha)", "5 × 5 m (400 trees/ha)", "15 × 15 m (44 trees/ha)"],
-    correct: 1,
-    explanation: "Ultra High Density Planting (UHDP) of mango uses 3 × 3 m spacing giving 1111 trees/ha. ICAR–IIHR, Bengaluru and state horticulture departments promote UHDP of mango (Amrapali, Mallika) in Telangana/AP for early bearing (2nd year), high yield (20–25 t/ha), and efficient land use."
+    question: "The spacing recommended for high density mango planting for Amrapali variety is:",
+    options: ["10 × 10 m", "4.5 × 4.5 m", "2.5 × 2.5 m", "7 × 7 m"],
+    correct: 2,
+    explanation: "For high density planting of Amrapali variety, a spacing of 2.5 × 2.5 m is recommended. For Manjeera and Mahamooda varieties, high density spacing is 4.5 × 4.5 m. Normal mango spacing follows a square system at 7–10 m."
   },
   {
     id: "d282_098",

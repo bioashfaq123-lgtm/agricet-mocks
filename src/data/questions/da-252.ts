@@ -140,10 +140,10 @@ export const da252Questions: Question[] = [
   {
     id: "d252_018",
     subject: "da-252",
-    question: "In land measurement, 1 guntha (cent) equals:",
+    question: "In land measurement, 1 cent equals:",
     options: ["1/10 acre", "1/100 acre", "1/1000 acre", "1 are"],
     correct: 1,
-    explanation: "1 cent (guntha in some regions) = 1/100 acre = 40.47 m². 100 cents = 1 acre. This unit is commonly used in South India (Andhra Pradesh, Telangana, Tamil Nadu, Karnataka) for measuring small land parcels."
+    explanation: "1 cent = 1/100 acre = 40.47 m². 100 cents = 1 acre. Note: 1 Guntha (Gunta) = 1/40 acre = 2.5 cents — Guntha and Cent are different units. This cent unit is commonly used in South India (Andhra Pradesh, Telangana, Tamil Nadu, Karnataka) for measuring small land parcels."
   },
   {
     id: "d252_019",
@@ -158,7 +158,7 @@ export const da252Questions: Question[] = [
     subject: "da-252",
     question: "The gradient (slope) of a channel or road is expressed as:",
     options: ["Horizontal distance / Vertical rise", "Vertical rise / Horizontal distance", "Vertical rise × Horizontal distance", "Angle in degrees only"],
-    correct: 0,
+    correct: 1,
     explanation: "Gradient = Vertical rise / Horizontal distance, expressed as 1 in N (e.g., 1 in 200 means 1 m fall for every 200 m horizontal distance). For irrigation channels, gentle gradients (1:500 to 1:2000) are used to maintain flow without erosion."
   },
   {
@@ -279,7 +279,7 @@ export const da252Questions: Question[] = [
     question: "The reduced level (RL) in levelling is the height of a point above:",
     options: ["The highest point in the area", "The sea level (mean sea level)", "The instrument station", "Nearest benchmark"],
     correct: 1,
-    explanation: "Reduced Level (RL) is the elevation of any point referred to Mean Sea Level (MSL). In India, all RLs are referred to the Great Trigonometrical Survey (GTS) datum, which is the MSL at Chennai (Madras)."
+    explanation: "Reduced Level (RL) is the elevation of any point referred to Mean Sea Level (MSL). In India, all RLs are referred to the Great Trigonometrical Survey (GTS) datum, which is the MSL at Mumbai (Bombay)."
   },
   {
     id: "d252_036",
