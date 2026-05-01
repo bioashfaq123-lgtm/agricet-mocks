@@ -27,7 +27,8 @@ export default function PreviousYearsPage() {
                 <div>
                   <div className="flex items-center gap-2 mb-1">
                     <span className="badge bg-primary-100 text-primary-700 font-bold text-base px-3 py-1">{paper.year}</span>
-                    {paper.available && <span className="badge bg-green-100 text-green-700 text-xs">Available</span>}
+                    {paper.available && paper.year === 2025 && <span className="badge bg-emerald-500 text-white text-xs font-bold">🎉 FREE</span>}
+                    {paper.available && paper.year !== 2025 && <span className="badge bg-green-100 text-green-700 text-xs">Available</span>}
                     {!paper.available && <span className="badge bg-gray-100 text-gray-500 text-xs">Coming soon</span>}
                   </div>
                   <h3 className="font-bold text-gray-900 mt-2 leading-snug">{paper.title}</h3>
@@ -43,7 +44,8 @@ export default function PreviousYearsPage() {
               </div>
 
               {paper.available ? (
-                isPaid || !user ? (
+                // 2025 paper is FREE for all logged-in users; other years require paid access
+                isPaid || !user || paper.year === 2025 ? (
                   <Link href={user ? `/test/previous-year/${paper.year}` : "/signup"}
                     className="w-full btn-primary text-center block flex items-center justify-center gap-2">
                     <Play className="w-4 h-4" /> {user ? "Start Practice" : "Sign up to Practice"}

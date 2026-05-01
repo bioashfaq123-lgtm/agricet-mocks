@@ -30,7 +30,8 @@ export default function PreviousYearTestPage() {
     return () => clearInterval(timer);
   }, []);
 
-  if (!user || !userData?.isPaid) {
+  // 2025 paper is free for all logged-in users; other years require paid access
+  if (!user || (!userData?.isPaid && year !== 2025)) {
     router.push("/dashboard");
     return null;
   }
