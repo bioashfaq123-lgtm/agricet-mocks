@@ -49,9 +49,9 @@ export default function LandingPage() {
 
       {/* Announcement Banner */}
       {showBanner && (
-        <div className="bg-primary-600 text-white text-center py-2 px-4 text-sm font-medium relative">
-          🎉 AGRICET 2025 Question Paper & Key now available! &nbsp;
-          <Link href="/test/previous-year/2025" className="underline font-bold">Practice Now →</Link>
+        <div className="bg-emerald-600 text-white text-center py-2.5 px-4 text-sm font-medium relative">
+          🎉 AGRICET 2025 Official Question Paper is <span className="font-black underline">FREE to Attempt</span> — No payment needed! &nbsp;
+          <Link href="/signup" className="inline-flex items-center gap-1 bg-white text-emerald-700 font-bold px-3 py-0.5 rounded-full text-xs hover:bg-emerald-50 transition-colors">Sign up &amp; Practice Free →</Link>
           <button onClick={() => setShowBanner(false)} className="absolute right-4 top-1/2 -translate-y-1/2 text-white/70 hover:text-white">✕</button>
         </div>
       )}
@@ -80,12 +80,18 @@ export default function LandingPage() {
             </p>
           </div>
 
-          <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
+          <div className="flex flex-col sm:flex-row gap-4 justify-center mb-6">
             <Link href="/demo" className="btn-primary text-lg px-8 py-4 inline-flex items-center gap-2 bg-gold-500 hover:bg-gold-600 border-0">
               <Play className="w-5 h-5" /> Try Free Demo Test
             </Link>
             <Link href="/signup" className="inline-flex items-center gap-2 bg-white text-primary-700 font-bold text-lg px-8 py-4 rounded-xl border-2 border-white hover:bg-primary-50 transition-all duration-200 hover:scale-105 active:scale-95 shadow-lg">
               Get Full Access – ₹100 <ArrowRight className="w-5 h-5" />
+            </Link>
+          </div>
+          {/* Free 2025 paper pill */}
+          <div className="flex justify-center mb-12">
+            <Link href="/signup" className="inline-flex items-center gap-2 bg-emerald-500 hover:bg-emerald-400 text-white font-bold px-6 py-3 rounded-full text-sm transition-all hover:scale-105 shadow-lg">
+              🎉 AGRICET 2025 Paper — FREE to Attempt &nbsp;→
             </Link>
           </div>
 
@@ -98,6 +104,33 @@ export default function LandingPage() {
                 <div className="text-xs text-primary-200">{s.label}</div>
               </div>
             ))}
+          </div>
+        </div>
+      </section>
+
+      {/* ── FREE 2025 PAPER HIGHLIGHT ── */}
+      <section className="py-12 bg-emerald-50 border-y border-emerald-200">
+        <div className="max-w-4xl mx-auto px-4">
+          <div className="flex flex-col md:flex-row items-center gap-8 bg-white rounded-2xl shadow-md p-8 border border-emerald-200">
+            <div className="text-6xl flex-shrink-0">📋</div>
+            <div className="flex-1 text-center md:text-left">
+              <div className="inline-flex items-center gap-2 bg-emerald-100 text-emerald-700 text-xs font-bold px-3 py-1 rounded-full mb-3">
+                🎉 100% FREE — No Payment Required
+              </div>
+              <h2 className="text-2xl font-black text-gray-900 mb-2">AGRICET 2025 Official Question Paper</h2>
+              <p className="text-gray-500 text-sm mb-4">
+                All 100 official questions from the AGRICET 2025 exam — with answer key and detailed explanations.
+                Just sign up for free and start practising instantly.
+              </p>
+              <div className="flex flex-wrap gap-3 justify-center md:justify-start text-sm text-gray-600 mb-5">
+                <span className="flex items-center gap-1"><BookOpen className="w-4 h-4 text-emerald-600" /> 100 Questions</span>
+                <span className="flex items-center gap-1"><Clock className="w-4 h-4 text-emerald-600" /> 100 Minutes</span>
+                <span className="flex items-center gap-1"><CheckCircle className="w-4 h-4 text-emerald-600" /> Official Paper with Key</span>
+              </div>
+              <Link href="/signup" className="inline-flex items-center gap-2 bg-emerald-600 hover:bg-emerald-700 text-white font-bold px-6 py-3 rounded-xl transition-all hover:scale-105 shadow">
+                <Play className="w-4 h-4" /> Attempt Free — Sign Up Now
+              </Link>
+            </div>
           </div>
         </div>
       </section>
@@ -191,17 +224,28 @@ export default function LandingPage() {
 
           <div className="mt-12 grid md:grid-cols-2 gap-6 max-w-2xl mx-auto">
             {/* Free */}
-            <div className="card p-8 border-2 border-gray-200">
-              <div className="text-2xl font-black text-gray-400 mb-1">Free Demo</div>
+            <div className="card p-8 border-2 border-emerald-400 relative">
+              <div className="absolute -top-3 left-1/2 -translate-x-1/2 bg-emerald-500 text-white text-xs font-bold px-4 py-1 rounded-full">
+                🎉 FREE — No Credit Card
+              </div>
+              <div className="text-2xl font-black text-emerald-600 mb-1">Free Access</div>
               <div className="text-4xl font-black text-gray-800 mb-6">₹0</div>
               <ul className="space-y-3 text-left mb-8">
-                {["10 Free MCQs (Agronomy)","Instant explanations","No registration required","Limited to 1 subject"].map((f) => (
+                {[
+                  "AGRICET 2025 Official Paper (FREE)",
+                  "100 questions with answer key",
+                  "10 Free Demo MCQs (Agronomy)",
+                  "Instant explanations",
+                  "Just sign up — no payment",
+                ].map((f) => (
                   <li key={f} className="flex items-center gap-2 text-gray-600 text-sm">
-                    <CheckCircle className="w-4 h-4 text-primary-500" />{f}
+                    <CheckCircle className="w-4 h-4 text-emerald-500" />{f}
                   </li>
                 ))}
               </ul>
-              <Link href="/demo" className="btn-secondary w-full text-center block">Try Free Demo</Link>
+              <Link href="/signup" className="w-full text-center block bg-emerald-600 hover:bg-emerald-700 text-white font-bold py-3 rounded-xl transition-all hover:scale-105">
+                Sign Up Free &amp; Attempt 2025 Paper
+              </Link>
             </div>
 
             {/* Paid */}
