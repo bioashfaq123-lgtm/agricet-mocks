@@ -1,106 +1,1304 @@
 import { Question } from "@/types";
 
-// DA-101: Principles of Agronomy — 100 questions (PJTSAU Diploma syllabus)
-// Answers randomized across A/B/C/D to prevent guessing
 export const da101Questions: Question[] = [
-  { id:"d101_001", subject:"da-101", question:"Agronomy is derived from the Greek words:", options:["Agros (field) and Nomos (to manage)","Agra (large) and Nomos (rule)","Agros (soil) and Logos (study)","Agros (crop) and Phasis (growth)"], correct:0, explanation:"Agronomy comes from Greek 'agros' (field) and 'nomos' (to manage), literally meaning 'field management'." },
-  { id:"d101_002", subject:"da-101", question:"The 'Father of Agronomy' is:", options:["Norman Borlaug", "M.S. Swaminathan", "Pietro de Crescenzi", "Justus von Liebig"], correct:2, explanation:"Pietro de Crescenzi (1230–1320), an Italian, is regarded as the Father of Agronomy. He authored 'Opus Ruralium Commodorum'." },
-  { id:"d101_003", subject:"da-101", question:"Tillage means:", options:["Application of fertilizer","Mechanical manipulation of soil for crop production","Sowing seeds","Harvesting crops"], correct:1, explanation:"Tillage is the mechanical manipulation of soil to provide a favourable environment for seed germination, root development, and crop growth." },
-  { id:"d101_004", subject:"da-101", question:"Primary tillage is also called:", options:["Secondary tillage", "Inter-cultivation", "Hoeing", "Deep tillage / ploughing"], correct:3, explanation:"Primary tillage is the first deep tillage operation done after harvest, performed to a depth of 15–30 cm to break up the soil and bury crop residues." },
-  { id:"d101_005", subject:"da-101", question:"Secondary tillage operations are aimed at:", options:["Pulverizing soil for seed bed preparation", "Deep ploughing", "Removing weeds only", "Land levelling only"], correct:0, explanation:"Secondary tillage is shallow cultivation done after primary tillage to pulverize, level, and create a fine seed bed for sowing." },
-  { id:"d101_006", subject:"da-101", question:"Tilth is:", options:["A unit of measure", "A type of plough", "Physical condition of soil resulting from tillage", "A weed"], correct:2, explanation:"Tilth refers to the physical condition of soil after tillage operations — its structure, aeration, moisture, and friability suitable for crop growth." },
-  { id:"d101_007", subject:"da-101", question:"Mould Board (MB) plough is mainly used for:", options:["Inter-culture","Inverting and turning the soil","Levelling the field","Sowing"], correct:1, explanation:"Mould Board plough is a primary tillage implement that cuts, inverts, and turns the soil, burying weeds and crop residues. Useful for first ploughing." },
-  { id:"d101_008", subject:"da-101", question:"Disc plough is preferred over MB plough in:", options:["Light sandy soils", "Wet paddy fields", "Clay soils only", "Hard, dry, stony or trash-laden soils"], correct:3, explanation:"Disc plough works well in hard, dry, root-infested, stony, or trash-laden soils where MB plough may break or chock. It rolls over obstructions." },
-  { id:"d101_009", subject:"da-101", question:"Subsoiling is done to:", options:["Break hardpans below the plough layer", "Bury weeds", "Apply manure", "Cover seeds"], correct:0, explanation:"Subsoiling is deep tillage (45–60 cm) done with a chisel plough to break compacted hardpans below the normal plough layer, improving root growth and water infiltration." },
-  { id:"d101_010", subject:"da-101", question:"Puddling is the practice of:", options:["Levelling dry land", "Removing weeds", "Mixing soil with water under flooded conditions (for rice)", "Adding gypsum"], correct:2, explanation:"Puddling is mechanical mixing of soil with water under flooded conditions, common for transplanted rice. It reduces percolation losses and creates an impermeable layer." },
-  { id:"d101_011", subject:"da-101", question:"Conservation tillage requires that:", options:["100% soil disturbance","≥30% of soil surface remains covered by crop residues after sowing","Soil should be deeply ploughed","Residues should be burnt"], correct:1, explanation:"Conservation tillage retains at least 30% of crop residues on the soil surface after sowing, conserving soil moisture and reducing erosion." },
-  { id:"d101_012", subject:"da-101", question:"Zero tillage is best suited for:", options:["Heavy clay soils", "Puddled fields", "Dryland sandy soils", "Direct sowing into undisturbed soil with herbicides for weed control"], correct:3, explanation:"Zero tillage involves direct seeding into undisturbed soil after the previous crop's harvest, using herbicides for weed control. Conserves moisture, reduces cost." },
-  { id:"d101_013", subject:"da-101", question:"Cropping intensity (%) is calculated as:", options:["(Gross cropped area / Net sown area) × 100", "(Net sown area / Gross cropped area) × 100", "(Gross cropped area / Total area) × 100", "(Irrigated area / Total area) × 100"], correct:0, explanation:"Cropping Intensity = (Gross Cropped Area / Net Sown Area) × 100. It indicates the number of crops grown on the same land in one year. India's CI is around 142%." },
-  { id:"d101_014", subject:"da-101", question:"Mono-cropping refers to:", options:["Growing many crops together", "Growing in alternate rows", "Growing one crop in a year on a piece of land", "Vertical farming"], correct:2, explanation:"Mono-cropping (or single cropping) is the practice of growing only ONE crop in a piece of land in a year, leaving the field fallow rest of the time." },
-  { id:"d101_015", subject:"da-101", question:"Multiple cropping means:", options:["Growing only one crop","Growing two or more crops on the same land in a year","Vertical cropping","Mixed planting"], correct:1, explanation:"Multiple cropping is growing 2 or more crops on the same piece of land in one year, in sequence (sequential) or simultaneously (intercropping)." },
-  { id:"d101_016", subject:"da-101", question:"Intercropping is:", options:["Crops in alternate years", "Sequential cropping", "Strip cropping", "Two or more crops grown simultaneously on the same field"], correct:3, explanation:"Intercropping is growing of two or more crops simultaneously on the same field in a definite row arrangement, e.g., 1 row maize : 2 rows soybean." },
-  { id:"d101_017", subject:"da-101", question:"Mixed cropping differs from intercropping in that:", options:["Mixed cropping has no row arrangement (random mixture)","Mixed cropping uses fewer crops","Mixed cropping is for irrigation","No difference"], correct:0, explanation:"In Mixed cropping, two or more crops are grown together with NO definite row pattern (broadcast mixture). Intercropping has a defined row arrangement." },
-  { id:"d101_018", subject:"da-101", question:"Relay cropping is:", options:["Planting one crop after harvest", "Mixed planting", "Sowing of next crop before the harvest of the standing crop", "Crop rotation"], correct:2, explanation:"Relay cropping is sowing the succeeding (relay) crop into the standing main crop just before its harvest — saving time and using residual moisture." },
-  { id:"d101_019", subject:"da-101", question:"Crop rotation primarily helps in:", options:["Increasing pest population","Maintenance of soil fertility and breaking pest/disease cycles","Increasing weed population","Reducing yield"], correct:1, explanation:"Crop rotation alternates crops with different nutrient demands and pest/disease susceptibilities — improves soil fertility, breaks pest cycles, controls weeds." },
-  { id:"d101_020", subject:"da-101", question:"Legume in crop rotation is included to:", options:["Remove phosphorus", "Add phosphorus", "Reduce organic matter", "Add nitrogen through symbiotic N-fixation"], correct:3, explanation:"Legumes (cowpea, soybean, gram) fix atmospheric N₂ via Rhizobium symbiosis, leaving residual N in soil — beneficial for the succeeding non-legume crop." },
-  { id:"d101_021", subject:"da-101", question:"Optimum sowing depth for paddy nursery seedlings is:", options:["2–3 cm", "10–15 cm", "8–10 cm", "Surface broadcasting"], correct:0, explanation:"In paddy nursery, seeds should be sown 2–3 cm deep. Surface broadcasting risks bird damage and uneven germination." },
-  { id:"d101_022", subject:"da-101", question:"Recommended seed rate for transplanted rice is approximately:", options:["100 kg/ha", "75 kg/ha", "20 kg/ha", "250 kg/ha"], correct:2, explanation:"For transplanted rice, the seed rate is about 20–25 kg/ha (fine seeded varieties) or 25–30 kg/ha (coarse). Direct seeded rice needs 60–80 kg/ha." },
-  { id:"d101_023", subject:"da-101", question:"Seed rate of wheat under irrigated timely sown condition is:", options:["20 kg/ha","100 kg/ha","250 kg/ha","400 kg/ha"], correct:1, explanation:"Seed rate of wheat under irrigated, timely sown condition is around 100 kg/ha. Late sowing increases the rate to 125–150 kg/ha." },
-  { id:"d101_024", subject:"da-101", question:"Recommended spacing for transplanted paddy is:", options:["60 × 30 cm", "90 × 60 cm", "120 × 60 cm", "15 × 10 cm or 20 × 10 cm"], correct:3, explanation:"Recommended spacing for transplanted paddy is 15 × 10 cm or 20 × 10 cm depending on variety and season — giving plant population of 50,000–66,000 hills/acre." },
-  { id:"d101_025", subject:"da-101", question:"Seed treatment with rhizobium is mainly done in:", options:["Legumes (pulses, soybean)", "Cereals", "Vegetables", "Tubers"], correct:0, explanation:"Rhizobium seed treatment is done for legumes (pulses, soybean, groundnut, lucerne). The bacteria establish symbiosis in root nodules and fix atmospheric N₂." },
-  { id:"d101_026", subject:"da-101", question:"Optimum field capacity moisture for most crops corresponds to a soil tension of:", options:["−15 atm", "Saturation", "−1/3 bar (≈ −33 kPa)", "−5 bar"], correct:2, explanation:"Field capacity is the soil moisture retained against gravity, corresponding to about −1/3 bar (−0.33 atm or −33 kPa) tension — the upper limit of available water." },
-  { id:"d101_027", subject:"da-101", question:"Permanent Wilting Point (PWP) corresponds to:", options:["−1/3 bar","−15 bars","Saturation","Field capacity"], correct:1, explanation:"Permanent Wilting Point is the soil moisture content at which plants permanently wilt, corresponding to about −15 bar (−15 atm) soil-water tension." },
-  { id:"d101_028", subject:"da-101", question:"Available soil moisture is the difference between:", options:["Saturation and FC", "Saturation and PWP", "Hygroscopic coefficient and PWP", "FC and PWP"], correct:3, explanation:"Available Soil Moisture (ASM) = Field Capacity (FC) − Permanent Wilting Point (PWP). This is the water available to plants for growth." },
-  { id:"d101_029", subject:"da-101", question:"Drip irrigation efficiency is approximately:", options:["90–95%", "30–40%", "60–70%", "20–25%"], correct:0, explanation:"Drip irrigation has the highest efficiency at 90–95% (water applied directly to root zone). Sprinkler ≈ 70–80%, surface flood ≈ 30–50%." },
-  { id:"d101_030", subject:"da-101", question:"Critical period for moisture stress in maize is:", options:["Vegetative stage", "Maturity", "Tasseling and silking stage", "Seedling stage"], correct:2, explanation:"In maize, the most critical (sensitive) stage for moisture stress is tasseling-silking-grain filling. Drought during this period severely reduces grain yield." },
-  { id:"d101_031", subject:"da-101", question:"Water Use Efficiency (WUE) is expressed as:", options:["Yield × water","Yield per unit water used (kg/m³ or kg/ha-mm)","Water used per unit yield only","Total water consumption"], correct:1, explanation:"WUE = Crop yield per unit water used (e.g., kg of grain per m³ of water or per ha-mm of water). Higher WUE means more crop per drop of water." },
-  { id:"d101_032", subject:"da-101", question:"Dry farming is practised in regions with annual rainfall of:", options:["More than 1500 mm", "750–1500 mm", "Above 2000 mm", "Less than 750 mm"], correct:3, explanation:"Dry farming is practiced in arid regions with annual rainfall less than 750 mm. Dry land farming is for 750–1150 mm; rainfed farming for >1150 mm." },
-  { id:"d101_033", subject:"da-101", question:"Sowing of seeds at double the normal depth in dryland is to:", options:["Place seeds in moist zone for better germination", "Reduce germination", "Avoid pests", "Save seed cost"], correct:0, explanation:"In dryland farming, seeds are sown deeper (5–7 cm) to place them in the moist zone of soil, ensuring better germination during low rainfall conditions." },
-  { id:"d101_034", subject:"da-101", question:"Mulching primarily helps in:", options:["Increasing soil temperature", "Increasing weed growth", "Conserving soil moisture and suppressing weeds", "Increasing evaporation"], correct:2, explanation:"Mulching (covering soil surface with crop residues, plastic, or stones) conserves soil moisture by reducing evaporation, suppresses weeds, and moderates soil temperature." },
-  { id:"d101_035", subject:"da-101", question:"Stubble mulch farming is associated with:", options:["Removing all crop residues","Retaining crop residues on the soil surface for moisture conservation","Burning of stubble","Deep ploughing"], correct:1, explanation:"Stubble mulch farming retains the previous crop's stubble/residues on the soil surface as a protective mulch, conserving moisture, reducing erosion, and adding organic matter." },
-  { id:"d101_036", subject:"da-101", question:"In a crop, the stage at which water stress causes maximum yield reduction is called:", options:["Determinate stage", "Wilting point", "Compensation point", "Critical period for moisture stress"], correct:3, explanation:"The critical period for moisture stress is the growth stage at which water deficit causes maximum yield reduction. Different for each crop — usually flowering & grain filling." },
-  { id:"d101_037", subject:"da-101", question:"Anti-transpirants reduce water loss by:", options:["Reducing transpiration through stomatal closure", "Increasing photosynthesis", "Increasing stomatal opening", "Increasing root growth"], correct:0, explanation:"Anti-transpirants (e.g., kaolin, atrazine, potassium salts) reduce transpiration by closing stomata or coating leaves — useful for moisture conservation in dryland conditions." },
-  { id:"d101_038", subject:"da-101", question:"Frequency-based irrigation is:", options:["Based on soil moisture content", "Based on crop water requirement", "Based on a fixed time interval", "Based on rainfall"], correct:2, explanation:"Frequency-based (or fixed-interval) irrigation supplies water at predetermined time intervals, irrespective of soil moisture or weather. Convenient but not always efficient." },
-  { id:"d101_039", subject:"da-101", question:"Irrigation Frequency for paddy in puddled field is approximately:", options:["Once a month","To maintain a 5 cm standing water layer continuously","Once in 7 days","Once in 30 days"], correct:1, explanation:"Transplanted paddy in puddled fields is irrigated to maintain a 5 cm standing water depth continuously throughout the growing period, except 1 week before harvest." },
-  { id:"d101_040", subject:"da-101", question:"Border strip method of irrigation is suited for:", options:["Wide-spaced row crops", "Hilly terrain", "Vegetables in raised beds", "Closely spaced crops like wheat, paddy, lucerne"], correct:3, explanation:"Border strip is a surface irrigation method where land is divided into long strips bounded by levees. Suitable for closely spaced crops like wheat, paddy, lucerne, berseem." },
-  { id:"d101_041", subject:"da-101", question:"Furrow irrigation is best suited for:", options:["Wide-spaced row crops like maize, cotton, sugarcane, vegetables", "Small grain crops", "Lawns", "Rice fields"], correct:0, explanation:"Furrow irrigation is suited for wide-spaced row crops where water flows along furrows between crop rows. Used in maize, cotton, sugarcane, potato, vegetables." },
-  { id:"d101_042", subject:"da-101", question:"Check basin irrigation is suitable for:", options:["Hilly steep terrain", "Slope land", "Levelled fields, fruit trees, and high-value crops", "Sandy areas"], correct:2, explanation:"Check basin irrigation creates small level basins around each tree or block. Suitable for orchard crops, ornamental crops, vegetables on level land." },
-  { id:"d101_043", subject:"da-101", question:"Sprinkler irrigation is most suitable for:", options:["Heavy clay soils","Sandy soils with high infiltration and uneven topography","Paddy","Rice nurseries"], correct:1, explanation:"Sprinkler irrigation simulates rainfall and is suitable for sandy soils with high infiltration rate, uneven/sloping topography, and small landholdings. Efficiency 70–80%." },
-  { id:"d101_044", subject:"da-101", question:"Crop coefficient (Kc) is the ratio of:", options:["Reference evapotranspiration to crop ET", "Yield to ET", "Rainfall to ET", "Crop ET to reference ET"], correct:3, explanation:"Crop Coefficient (Kc) = ETc / ETo, where ETc is crop evapotranspiration and ETo is reference (potential) ET. Kc varies with crop stage." },
-  { id:"d101_045", subject:"da-101", question:"In drip irrigation, lateral pipes carry water from:", options:["Mainline / submain to drippers", "Pump to mainline", "Drippers to drain", "Drain to crop"], correct:0, explanation:"In drip irrigation: pump → mainline → submain → laterals → drippers/emitters. Laterals are smaller pipes (12–16 mm) that distribute water to individual emitters." },
-  { id:"d101_046", subject:"da-101", question:"Fertigation is:", options:["Application of fertilizer at sowing", "Drip irrigation only", "Application of fertilizers along with irrigation water", "Spraying fertilizers on leaves"], correct:2, explanation:"Fertigation is the application of fertilizers through irrigation water (especially through drip system). It improves NUE (nutrient use efficiency) and saves labour." },
-  { id:"d101_047", subject:"da-101", question:"In fertilizer recommendations, 'NPK' refers to:", options:["Nitrogen, Phosphorus, Potassium", "Either A or C", "Nickel, Phosphorus, Krypton", "Nitrogen, Phosphorus, Potash"], correct:1, explanation:"NPK refers to Nitrogen (N), Phosphorus (P) and Potassium/Potash (K) — the three primary macronutrients. P is expressed as P₂O₅ and K as K₂O in fertilizer grades." },
-  { id:"d101_048", subject:"da-101", question:"A 19:19:19 fertilizer contains:", options:["19% N, 19% P, 19% K each", "19 kg of each per bag", "19% nitrogen total", "19% N, 19% P₂O₅, 19% K₂O each"], correct:3, explanation:"NPK 19:19:19 means 19% N + 19% P₂O₅ + 19% K₂O by weight (total 57% nutrients). It is a complex water-soluble fertilizer used for fertigation." },
-  { id:"d101_049", subject:"da-101", question:"Urea contains nitrogen percentage of:", options:["46%","21%","32%","18%"], correct:0, explanation:"Urea [CO(NH₂)₂] contains 46% N — the highest among solid nitrogen fertilizers. Hence it is the most economical N source per kg." },
-  { id:"d101_050", subject:"da-101", question:"DAP contains:", options:["26% N, 13% P", "21% N, 0% P", "18% N, 46% P₂O₅", "46% N only"], correct:2, explanation:"DAP (Di-Ammonium Phosphate) contains 18% N and 46% P₂O₅. It is the most popular phosphorus fertilizer, also supplying nitrogen." },
-  { id:"d101_051", subject:"da-101", question:"Single Super Phosphate (SSP) contains:", options:["46% P₂O₅","16% P₂O₅ and 12% S","20% N and 20% P","32% K"], correct:1, explanation:"SSP (Single Super Phosphate) contains 16% P₂O₅, 12% S, and ~20% Ca. It is good for sulfur-deficient oilseeds and pulses." },
-  { id:"d101_052", subject:"da-101", question:"Muriate of Potash (MoP) is:", options:["KNO₃", "K₂SO₄", "K₂CO₃", "KCl (60% K₂O)"], correct:3, explanation:"Muriate of Potash (MoP) is Potassium Chloride (KCl) containing 60% K₂O. It is the most common K fertilizer except in saline/chloride-sensitive crops where SOP is preferred." },
-  { id:"d101_053", subject:"da-101", question:"Bone meal contains approximately:", options:["20–25% P₂O₅","8–10% P₂O₅","45% N","60% K"], correct:0, explanation:"Bone meal is an organic fertilizer with 20–25% P₂O₅ (also some N and Ca). It is slow-releasing and best for acid soils where it gradually neutralizes acidity." },
-  { id:"d101_054", subject:"da-101", question:"Vermicompost is produced through:", options:["Aerobic decomposition by bacteria", "Anaerobic decomposition", "Action of earthworms on organic matter", "Sun drying"], correct:2, explanation:"Vermicompost is rich organic manure produced when earthworms (Eisenia fetida, Eudrilus eugeniae) feed on organic waste, partially digesting it into a fine, nutrient-rich compost." },
-  { id:"d101_055", subject:"da-101", question:"Green manuring is:", options:["Application of synthetic green dye","Growing leguminous crops and incorporating them in soil while still green","Application of NPK","Mulching with hay"], correct:1, explanation:"Green manuring involves growing fast-growing legumes (Sunhemp, Dhaincha, Sesbania) and ploughing them into the soil while green to add organic matter and nitrogen." },
-  { id:"d101_056", subject:"da-101", question:"Pillipesara (Phaseolus trilobus) is famous as a:", options:["Cotton variety", "Wheat", "Sugarcane variety", "Triple-purpose crop (forage, green manure, anti-erosion)"], correct:3, explanation:"Pillipesara is a triple-purpose crop — used as fodder, green manure, and an excellent anti-erosion crop due to its dense, prostrate growth covering soil." },
-  { id:"d101_057", subject:"da-101", question:"Nitrogen fixation by Rhizobium occurs in:", options:["Root nodules of legumes", "Stem", "Leaves", "Flowers"], correct:0, explanation:"Rhizobium bacteria form symbiotic associations in root nodules of legumes (pulses, soybean, groundnut), converting atmospheric N₂ into ammonia (NH₃) usable by the plant." },
-  { id:"d101_058", subject:"da-101", question:"Azotobacter is:", options:["A symbiotic N-fixer", "A fungus", "A free-living aerobic N-fixing bacterium", "A virus"], correct:2, explanation:"Azotobacter is a free-living (non-symbiotic) aerobic N-fixing bacterium that lives in the soil and fixes atmospheric N₂ independently. Used as a biofertilizer." },
-  { id:"d101_059", subject:"da-101", question:"Blue-Green Algae (BGA) and Azolla are most commonly used as biofertilizers in:", options:["Wheat", "Paddy fields (waterlogged)", "Sugarcane", "Cotton"], correct:1, explanation:"BGA (Anabaena, Nostoc) and Azolla (with symbiotic Anabaena azollae) fix N₂ in flooded paddy fields. They can supply 25–30 kg N/ha per season to rice." },
-  { id:"d101_060", subject:"da-101", question:"Soil reaction (pH) most favourable for most crops is:", options:["3.5–4.5", "8.5–9.5", "Above 10", "6.0–7.5"], correct:3, explanation:"Most crops grow best at slightly acidic to neutral soil pH of 6.0–7.5. Strong acid (<5.5) or alkaline (>8.5) soils require amendments." },
-  { id:"d101_061", subject:"da-101", question:"Lime is applied to:", options:["Acidic soils to raise pH", "Saline soils", "Alkaline soils", "Sodic soils"], correct:0, explanation:"Lime (CaCO₃, Ca(OH)₂, CaO) is applied to acidic soils to raise pH, supply Ca, and reduce Al/Mn toxicity. Application rate based on lime requirement." },
-  { id:"d101_062", subject:"da-101", question:"Gypsum is used to reclaim:", options:["Acidic soils", "Sandy soils", "Alkali (sodic) soils", "Loamy soils"], correct:2, explanation:"Gypsum (CaSO₄·2H₂O) is applied to alkali (sodic) soils to replace exchangeable Na with Ca, improving soil structure and reducing alkalinity." },
-  { id:"d101_063", subject:"da-101", question:"Weeds compete with crops for:", options:["Water and nutrients only","Water, nutrients, light, space and may harbour pests/diseases","Light only","Nothing significant"], correct:1, explanation:"Weeds compete with crops for water, nutrients, light, and space, also harbour insect pests and diseases, and reduce yield by 10–80% depending on intensity." },
-  { id:"d101_064", subject:"da-101", question:"Striga is a:", options:["Beneficial weed", "Aquatic weed", "Crop", "Parasitic weed of cereals (sorghum, maize, sugarcane)"], correct:3, explanation:"Striga (witch weed) is an obligate root parasite of cereals like sorghum, maize, sugarcane, millet. It attaches to host roots and severely reduces yield." },
-  { id:"d101_065", subject:"da-101", question:"Cuscuta (Amarbel) is:", options:["A stem parasite", "A grass", "A root parasite", "A water plant"], correct:0, explanation:"Cuscuta (Dodder) is a holoparasitic stem parasite without chlorophyll. Its haustoria penetrate host stems for nutrients. Affects pulses, niger, lucerne, etc." },
-  { id:"d101_066", subject:"da-101", question:"Parthenium is also called:", options:["Witch weed", "Lantana", "Carrot grass / Congress grass", "Dodder"], correct:2, explanation:"Parthenium hysterophorus is called 'Carrot grass' or 'Congress grass'. It is an invasive weed causing health hazards (asthma, dermatitis) and crop loss." },
-  { id:"d101_067", subject:"da-101", question:"Pre-emergence herbicide is applied:", options:["After weed emergence","After crop sowing but before weed and crop emergence","After harvesting","On growing weeds"], correct:1, explanation:"Pre-emergence herbicides are applied after sowing but before the weeds and crop emerge from the soil. They form a chemical barrier killing germinating weeds." },
-  { id:"d101_068", subject:"da-101", question:"Atrazine is a:", options:["Insecticide", "Fungicide", "Fertilizer", "Selective triazine herbicide for maize, sorghum"], correct:3, explanation:"Atrazine is a selective pre/post-emergence triazine herbicide widely used in maize, sorghum, sugarcane to control broadleaf and grass weeds." },
-  { id:"d101_069", subject:"da-101", question:"2,4-D (2,4-Dichlorophenoxyacetic acid) is a:", options:["Selective broadleaf weed killer (auxin-type)", "Non-selective herbicide", "Insecticide", "Fungicide"], correct:0, explanation:"2,4-D is a selective systemic herbicide for broad-leaf weeds (auxin mimic), widely used in cereals (rice, wheat) and lawns. Less effective on grasses." },
-  { id:"d101_070", subject:"da-101", question:"Glyphosate is a:", options:["Selective herbicide", "Pre-emergence herbicide", "Non-selective systemic herbicide", "Fungicide"], correct:2, explanation:"Glyphosate (Roundup) is a non-selective post-emergence systemic herbicide that kills almost all green plants. Used for total vegetation control before sowing or in zero-till." },
-  { id:"d101_071", subject:"da-101", question:"Critical period of crop-weed competition is:", options:["Last few days before harvest", "First 1/3 to 1/2 of crop life", "Throughout the crop life", "Only at flowering"], correct:1, explanation:"Critical period of crop-weed competition is approximately the first 1/3 to 1/2 of the crop's life cycle. Weed-free conditions during this period are essential for good yield." },
-  { id:"d101_072", subject:"da-101", question:"Allelopathy is:", options:["Crop competition", "A type of crop rotation", "Herbicide action", "Release of chemicals by one plant that affects another (positively or negatively)"], correct:3, explanation:"Allelopathy is the biological phenomenon where one organism produces biochemicals (allelochemicals) that influence the growth, survival, and reproduction of other organisms." },
-  { id:"d101_073", subject:"da-101", question:"In integrated weed management (IWM), the key principle is:", options:["Combination of cultural, mechanical, biological and chemical methods", "Use only herbicides", "Use only manual weeding", "Avoid weed control"], correct:0, explanation:"IWM combines all available weed control techniques — cultural (rotation, mulching), mechanical (hoeing), biological (insects, livestock), chemical (herbicides) — to keep weeds below ETL." },
-  { id:"d101_074", subject:"da-101", question:"Cropping system refers to:", options:["A single crop", "Tillage type", "Pattern and sequence of crops grown including their management", "Irrigation method"], correct:2, explanation:"Cropping system is the pattern of crops grown in a given farm sequentially or together, along with their management practices. Examples: rice-wheat, cotton-wheat." },
-  { id:"d101_075", subject:"da-101", question:"Rice-Wheat cropping system is dominant in:", options:["Tamil Nadu", "Indo-Gangetic Plains (Punjab, Haryana, UP, Bihar, WB)", "Kerala", "Assam"], correct:1, explanation:"Rice-Wheat is India's most important cropping system, covering ~10 m ha mostly in the Indo-Gangetic plains (Punjab, Haryana, UP, Bihar, WB). Provides food security." },
-  { id:"d101_076", subject:"da-101", question:"Drought escape mechanism in plants is:", options:["Deep rooting", "Stomatal closure", "Wilting", "Early maturity to complete life cycle before drought"], correct:3, explanation:"Drought escape: plants complete their life cycle before drought sets in (e.g., short-duration varieties). Drought avoidance: deep roots, waxy cuticle. Drought tolerance: physiological mechanisms." },
-  { id:"d101_077", subject:"da-101", question:"Harvest index (HI) is the ratio of:", options:["Economic yield to biological yield (× 100)", "Biological yield to economic yield", "Yield to area", "Yield to seed rate"], correct:0, explanation:"Harvest Index = (Economic Yield / Biological Yield) × 100. Indicates partitioning of dry matter to grain. HI for wheat ≈ 40–45%, rice ≈ 45–50%, sugarcane ≈ 60–70%." },
-  { id:"d101_078", subject:"da-101", question:"Root: Shoot ratio in dryland crops is generally:", options:["Lower than in irrigated crops", "Same", "Higher than in irrigated crops (deeper roots)", "Zero"], correct:2, explanation:"Drought stress causes plants to allocate more biomass to roots (greater R:S ratio) for water uptake at deeper layers — a drought avoidance mechanism." },
-  { id:"d101_079", subject:"da-101", question:"Critical N-content (%) in rice leaves at active tillering is approximately:", options:["1.0%","2.5%","5.0%","8.0%"], correct:1, explanation:"Critical N-content in rice leaves at active tillering stage is approximately 2.5% on dry-weight basis. Below this, N-fertilizer top-dressing is recommended." },
-  { id:"d101_080", subject:"da-101", question:"Agronomical efficiency (AE) of fertilizer is:", options:["Yield with fertilizer ÷ Yield without", "Yield × area", "Cost / yield", "Yield increase per unit of fertilizer applied (kg grain / kg nutrient)"], correct:3, explanation:"Agronomical Efficiency (AE) = (Yield with fertilizer − Yield without fertilizer) / kg of nutrient applied. It quantifies fertilizer use efficiency in terms of yield response." },
-  { id:"d101_081", subject:"da-101", question:"Recovery efficiency of N in rice is generally:", options:["30–40%", "80–90%", "100%", "Less than 5%"], correct:0, explanation:"In conventional rice cultivation, only about 30–40% of applied N is recovered by the crop; the rest is lost via denitrification, ammonia volatilization, leaching, runoff." },
-  { id:"d101_082", subject:"da-101", question:"Top dressing of nitrogen fertilizer in cereals is recommended at:", options:["Sowing only", "Maturity", "Tillering and panicle initiation stages", "After harvest"], correct:2, explanation:"In cereals, N is split-applied: 1/2 or 1/3 at sowing as basal, the rest as top dressing at active tillering and panicle initiation/booting stages for higher NUE." },
-  { id:"d101_083", subject:"da-101", question:"Dry matter accumulation in crops is highest at:", options:["Vegetative stage","Reproductive (flowering to physiological maturity) stage","Seedling stage","Pre-harvest stage"], correct:1, explanation:"Dry matter accumulation increases throughout vegetative growth, peaks at physiological maturity. Maximum accumulation rate is during flowering and grain filling." },
-  { id:"d101_084", subject:"da-101", question:"Sigmoid (S-shaped) growth curve has:", options:["Linear growth only", "Exponential decline", "No growth", "Lag, log (exponential), and stationary phases"], correct:3, explanation:"Sigmoid (S) growth curve has 3 phases: lag (slow initial growth), log/exponential (rapid growth), and stationary (slow/no growth at maturity). Typical for most crops." },
-  { id:"d101_085", subject:"da-101", question:"Photoperiod-sensitive crops are:", options:["Affected by length of day in flowering", "Day-neutral", "Not affected by light", "Affected by water"], correct:0, explanation:"Photoperiod-sensitive crops (rice, soybean, sorghum) flower in response to specific day-lengths — short-day plants (flowering when day < critical) or long-day plants (day > critical)." },
-  { id:"d101_086", subject:"da-101", question:"Vernalization is:", options:["Application of fertilizers", "Heat treatment", "Cold treatment for inducing flowering in some crops (e.g., wheat)", "Light treatment"], correct:2, explanation:"Vernalization is exposure of seedlings or seeds to low temperatures (1–7°C) to induce/accelerate flowering — essential for winter wheat, rye, and some biennials." },
-  { id:"d101_087", subject:"da-101", question:"Photosynthetically Active Radiation (PAR) is in the wavelength range:", options:["100–200 nm", "380–760 nm (visible light)", "200–280 nm (UV-C)", "800–1000 nm (IR)"], correct:1, explanation:"PAR is the wavelength of light (380–760 nm, also given as 400–700 nm) that drives photosynthesis. Plants absorb PAR via chlorophyll for energy conversion." },
-  { id:"d101_088", subject:"da-101", question:"C4 plants are more efficient than C3 plants in:", options:["Cool, moist climate", "Shade", "Aquatic environment", "Hot, dry, high-light climate"], correct:3, explanation:"C4 plants (maize, sorghum, sugarcane, bajra) have higher photosynthetic efficiency in hot, dry, high-light conditions due to CO₂ concentration mechanism in bundle sheath cells." },
-  { id:"d101_089", subject:"da-101", question:"Examples of C4 plants are:", options:["Maize, sorghum, sugarcane, bajra", "Rice, wheat, soybean", "Pulses", "Vegetables"], correct:0, explanation:"C4 plants include maize, sorghum, sugarcane, pearl millet (bajra), finger millet, and amaranth. They have higher water-use efficiency and CO₂ fixation rate than C3 plants." },
-  { id:"d101_090", subject:"da-101", question:"Examples of C3 plants are:", options:["Maize, bajra", "Sugarcane", "Rice, wheat, soybean, cotton, pulses", "Sorghum"], correct:2, explanation:"C3 plants include rice, wheat, barley, oat, soybean, cotton, all pulses, oilseeds (groundnut, mustard). About 85% of plant species are C3 with Calvin cycle photosynthesis." },
-  { id:"d101_091", subject:"da-101", question:"CAM (Crassulacean Acid Metabolism) plants open stomata at:", options:["Day","Night (to reduce water loss in arid environments)","Both","Neither"], correct:1, explanation:"CAM plants (cactus, pineapple, agave, sisal) open stomata at NIGHT to fix CO₂ as malate, then close stomata in the day to conduct photosynthesis. Highly water-efficient." },
-  { id:"d101_092", subject:"da-101", question:"Yield gap is the difference between:", options:["Theoretical and actual maximum", "Two crops", "Two seasons", "Potential yield and farmers' actual yield"], correct:3, explanation:"Yield gap is the difference between potential (experimental/maximum achievable) yield and the actual yield realized by farmers. Reducing this gap is the goal of agronomy." },
-  { id:"d101_093", subject:"da-101", question:"Crop establishment density is:", options:["Number of plants per unit area at establishment", "Total seeds sown", "Yield per area", "Number of fertilizer doses"], correct:0, explanation:"Crop establishment density is the number of plants per unit area (e.g., plants/ha) successfully established after germination. Below optimum density results in yield loss." },
-  { id:"d101_094", subject:"da-101", question:"Optimum population for paddy is approximately:", options:["10,000 hills/acre", "2 lakh hills/acre", "50,000–66,000 hills/acre", "5 lakh hills/acre"], correct:2, explanation:"For transplanted paddy at 20 × 10 cm or 15 × 10 cm spacing, optimum population is 50,000–66,000 hills/acre (5–6.6 lakhs hills/ha)." },
-  { id:"d101_095", subject:"da-101", question:"Strip cropping helps in:", options:["Increasing pests","Soil and water conservation by alternating crop strips with grasses on slopes","Increasing weeds","Reducing fertility"], correct:1, explanation:"Strip cropping is growing erosion-permitting crops (e.g., maize) in alternating strips with erosion-resistant crops (e.g., legumes, grasses) on contour lines, reducing soil erosion." },
-  { id:"d101_096", subject:"da-101", question:"Catch cropping is growing a:", options:["Cash crop", "Permanent crop", "Tree crop", "Short-duration crop in the slack period between two main crops"], correct:3, explanation:"Catch crops are short-duration, fast-growing crops grown in the slack period between two main crops to use otherwise unutilized resources. Examples: short pulses, vegetables." },
-  { id:"d101_097", subject:"da-101", question:"Trap cropping is:", options:["Growing a small area of attractive crop to lure pests away from the main crop", "Catching pests with light traps", "Crop rotation", "Weed control"], correct:0, explanation:"Trap cropping involves growing a small area of an attractive crop near the main field to lure pests, then destroying the trap crop. Example: marigold/redgram for cotton bollworms." },
-  { id:"d101_098", subject:"da-101", question:"In agronomy, 'tilth' refers to:", options:["Soil pH", "Tillage equipment", "Quality of soil for crop production after tillage", "Tillage cost"], correct:2, explanation:"Tilth refers to the physical condition of soil — its structure, friability, aeration, drainage — that results from tillage and influences crop growth." },
-  { id:"d101_099", subject:"da-101", question:"For most field crops, the recommended ratio of N:P:K under balanced nutrition is approximately:", options:["1:1:1","4:2:1","11:4:1 (current Indian average – skewed)","2:1:1"], correct:1, explanation:"The agronomically ideal balanced N:P:K ratio for most field crops is 4:2:1. India's current average is 11:4:1 — heavily skewed to N due to subsidy structure." },
-  { id:"d101_100", subject:"da-101", question:"Farmer's first agronomic decision in any season is:", options:["Choice of fertilizer", "Irrigation type", "Marketing", "Choice of crop and variety based on soil, season, and market"], correct:3, explanation:"The first decision is choice of crop and variety, which determines all subsequent management — based on land, season, irrigation availability, climate, and market demand." },
+  {
+    id: "d101_001",
+    subject: "da-101",
+    question: "The term 'Agriculture' is derived from Latin words 'ager/agri' and 'cultra' meaning respectively:",
+    options: [
+      "Soil and cultivation",
+      "Field and to manage",
+      "Crop and to grow",
+      "Land and to study"
+    ],
+    correct: 0,
+    explanation: "Agriculture is derived from Latin 'ager/agri' meaning soil and 'cultra' meaning cultivation."
+  },
+  {
+    id: "d101_002",
+    subject: "da-101",
+    question: "CRRI (Central Rice Research Institute) is located at:",
+    options: [
+      "Hyderabad, Telangana state",
+      "Karnal, Haryana state",
+      "Cuttack, Orissa state",
+      "Nagpur, Maharashtra state"
+    ],
+    correct: 2,
+    explanation: "CRRI (Central Rice Research Institute) is located at Cuttack, Orissa."
+  },
+  {
+    id: "d101_003",
+    subject: "da-101",
+    question: "The term 'Agronomy' is derived from Greek words 'Agros' and 'Nomos' meaning:",
+    options: [
+      "Soil and cultivation practice",
+      "Field and to manage",
+      "Crop and to study",
+      "Land and to grow"
+    ],
+    correct: 1,
+    explanation: "Agronomy comes from Greek 'Agros' meaning field and 'Nomos' meaning to manage."
+  },
+  {
+    id: "d101_004",
+    subject: "da-101",
+    question: "ICRISAT (International Crops Research Institute for Semi-Arid Tropics) is located at:",
+    options: [
+      "Rome, Italy",
+      "Nairobi, Kenya",
+      "Aleppo, Syria",
+      "Hyderabad, India"
+    ],
+    correct: 3,
+    explanation: "ICRISAT (International Crops Research Institute for Semi-Arid Tropics) is located at Hyderabad, India."
+  },
+  {
+    id: "d101_005",
+    subject: "da-101",
+    question: "The Northern Telangana Zone covers districts of Karimnagar, Nizamabad and:",
+    options: [
+      "Adilabad district of Telangana",
+      "Warangal district of Telangana",
+      "Medak district of Telangana",
+      "Nalgonda district of Telangana"
+    ],
+    correct: 0,
+    explanation: "The Northern Telangana Zone covers Adilabad, Karimnagar and Nizamabad districts with a total geographical area of 7.43 m. ha."
+  },
+  {
+    id: "d101_006",
+    subject: "da-101",
+    question: "Annual normal rainfall in the Central Telangana Zone (range) is:",
+    options: [
+      "700–900 mm annually",
+      "500–700 mm annually",
+      "868–1124 mm annually",
+      "1200–1400 mm annually"
+    ],
+    correct: 2,
+    explanation: "The Central Telangana Zone receives annual normal rainfall of 996 mm (range 868–1124 mm), with 88.03% from south west monsoon."
+  },
+  {
+    id: "d101_007",
+    subject: "da-101",
+    question: "The troposphere is called the 'Seat of weather phenomena' because it contains:",
+    options: [
+      "Maximum ozone and photochemical reactions",
+      "Radio-reflecting ionised layers and ions",
+      "Almost all water vapour, aerosols, and weather events",
+      "Hydrogen and helium as predominant gases"
+    ],
+    correct: 2,
+    explanation: "The troposphere contains almost all water vapour and aerosols, and all types of clouds, thunderstorms, cyclones occur here — making it the seat of weather phenomena."
+  },
+  {
+    id: "d101_008",
+    subject: "da-101",
+    question: "The average height of the troposphere above the equator is:",
+    options: [
+      "7 to 8 kilometers above sea level",
+      "50 to 55 kilometers above sea level",
+      "80 to 140 kilometers above sea level",
+      "16 kilometers above sea level"
+    ],
+    correct: 3,
+    explanation: "The average height of the troposphere is about 14 km; at the equator it is 16 kilometers, and 7–8 km at the poles."
+  },
+  {
+    id: "d101_009",
+    subject: "da-101",
+    question: "The mean lapse rate of temperature decrease in the troposphere is:",
+    options: [
+      "10°C per kilometer altitude",
+      "3.5°C per kilometer altitude",
+      "6.5°C per kilometer altitude",
+      "1°C per kilometer altitude"
+    ],
+    correct: 2,
+    explanation: "Temperature decreases with altitude in the troposphere at a mean lapse rate of about 6.5°C per kilometer (or 3.6°F per 1,000 feet)."
+  },
+  {
+    id: "d101_010",
+    subject: "da-101",
+    question: "The stratosphere is called the 'Seat of photochemical reactions' and extends up to approximately:",
+    options: [
+      "14 to 20 kilometers altitude",
+      "80 to 140 kilometers altitude",
+      "50 to 55 kilometers altitude",
+      "400 to 1000 kilometers altitude"
+    ],
+    correct: 2,
+    explanation: "The stratosphere lies above the tropopause and extends to altitudes of about 50–55 kilometers. It is called the seat of photochemical reactions."
+  },
+  {
+    id: "d101_011",
+    subject: "da-101",
+    question: "The ozonosphere (ozone layer) between 30–60 km absorbs which radiation type?",
+    options: [
+      "Infrared thermal radiation from earth",
+      "Ultraviolet rays from the sun",
+      "Long wave radiation from clouds",
+      "Visible light from the solar spectrum"
+    ],
+    correct: 1,
+    explanation: "The ozonosphere (30–60 km) has maximum ozone concentration which absorbs ultraviolet rays, protecting life on earth."
+  },
+  {
+    id: "d101_012",
+    subject: "da-101",
+    question: "The ionosphere enables long-distance radio communication and extends approximately from:",
+    options: [
+      "50 to 80 kilometers altitude",
+      "20 to 50 kilometers altitude",
+      "140 to 400 kilometers altitude",
+      "80 to 400 kilometers altitude"
+    ],
+    correct: 3,
+    explanation: "The ionosphere lies beyond the mesosphere at about 80 km above earth's surface and extends to 400 km. It reflects radio waves enabling long-distance communication."
+  },
+  {
+    id: "d101_013",
+    subject: "da-101",
+    question: "Nitrogen constitutes what percentage by volume of dry air in the lower atmosphere?",
+    options: [
+      "20.95 percent by volume",
+      "78.09 percent by volume",
+      "0.93 percent by volume",
+      "75.53 percent by volume"
+    ],
+    correct: 1,
+    explanation: "Nitrogen constitutes 78.09% by volume (and 75.53% by weight) of dry air in the lower atmosphere."
+  },
+  {
+    id: "d101_014",
+    subject: "da-101",
+    question: "The Campbell–Stokes recorder (sunshine recorder) is used for measuring:",
+    options: [
+      "Wind velocity and direction",
+      "Rainfall amount in millimeters",
+      "Atmospheric pressure in millibars",
+      "Hours of bright sunshine"
+    ],
+    correct: 3,
+    explanation: "The Campbell–Stokes recorder (sunshine recorder) measures hours of bright sunshine by burning a trace on a card through a glass sphere."
+  },
+  {
+    id: "d101_015",
+    subject: "da-101",
+    question: "Photoperiodism is defined as the physiological reaction of organisms to:",
+    options: [
+      "Length of night or dark period",
+      "Light intensity changes only",
+      "Temperature fluctuations during daytime",
+      "Solar radiation quality and wavelength"
+    ],
+    correct: 0,
+    explanation: "Photoperiodism is the physiological reaction of organisms to the length of night or dark period, governing flowering response in plants."
+  },
+  {
+    id: "d101_016",
+    subject: "da-101",
+    question: "Rice (Oryza sativa) is classified as a:",
+    options: [
+      "Long-day plant flowering in summer",
+      "Day-neutral plant unaffected by daylength",
+      "Short-day plant flowering in long nights",
+      "Long-night neutral plant with open flowering"
+    ],
+    correct: 2,
+    explanation: "Rice (Oryza) is classified as a short-day plant — it flowers when the night length exceeds its critical photoperiod."
+  },
+  {
+    id: "d101_017",
+    subject: "da-101",
+    question: "The visible part of the solar spectrum essential for all plant processes ranges from:",
+    options: [
+      "0.005 to 0.4 microns wavelength",
+      "0.4 to 0.7 microns wavelength",
+      "0.7 to 3.0 microns wavelength",
+      "3.0 to 10.0 microns wavelength"
+    ],
+    correct: 1,
+    explanation: "The visible part of the spectrum ranges from 0.4 to 0.7 microns and is essential for all plant processes including photosynthesis."
+  },
+  {
+    id: "d101_018",
+    subject: "da-101",
+    question: "Only what percentage of incident light is utilized in photosynthesis and converted to chemical energy?",
+    options: [
+      "10 percent of incident light",
+      "5 percent of incident light",
+      "20 percent of incident light",
+      "1 percent of incident light"
+    ],
+    correct: 3,
+    explanation: "Only 1% of light is utilized in photosynthesis and converted to chemical energy by plants."
+  },
+  {
+    id: "d101_019",
+    subject: "da-101",
+    question: "The Fahrenheit method of temperature measurement was coined by which scientist?",
+    options: [
+      "Anders Celsius, Swedish astronomer, 1742",
+      "Sir George Gabriel Stokes, British physicist",
+      "Daniel Gabriel Fahrenheit, German scientist, 1710",
+      "John Francis Campbell, British inventor, 1853"
+    ],
+    correct: 2,
+    explanation: "The Fahrenheit method was coined by German scientist Daniel Gabriel Fahrenheit in 1710."
+  },
+  {
+    id: "d101_020",
+    subject: "da-101",
+    question: "The correct conversion formula from Fahrenheit to Celsius is:",
+    options: [
+      "C = (F + 32) multiplied by 9/5",
+      "C = 9/5 multiplied by F minus 32",
+      "C = 5/9 multiplied by (F − 32)",
+      "C = 5/9 multiplied by (F + 32)"
+    ],
+    correct: 2,
+    explanation: "The conversion formula is C = 5/9 × (F − 32). For example, 98.6°F = 5/9 × (98.6 − 32) = 37°C."
+  },
+  {
+    id: "d101_021",
+    subject: "da-101",
+    question: "The maximum cardinal temperature for rice crop growth (above which growth ceases) is:",
+    options: [
+      "30 to 32°C maximum temperature",
+      "36 to 38°C maximum temperature",
+      "40 to 43°C maximum temperature",
+      "40°C maximum temperature"
+    ],
+    correct: 1,
+    explanation: "Cardinal temperatures for rice are: minimum 10°C, optimum 32°C, and maximum 36–38°C (above which crop growth ceases)."
+  },
+  {
+    id: "d101_022",
+    subject: "da-101",
+    question: "The maximum thermometer records the highest temperature reached in the past:",
+    options: [
+      "6 hours since last setting",
+      "12 hours since last setting",
+      "48 hours since last setting",
+      "24 hours since last setting"
+    ],
+    correct: 3,
+    explanation: "The maximum thermometer (mercury type) records the highest or maximum temperature reached during the past 24 hours or since last setting."
+  },
+  {
+    id: "d101_023",
+    subject: "da-101",
+    question: "Which thermometer has its bulb wrapped in thin muslin cloth kept wet for evaporation?",
+    options: [
+      "Maximum thermometer",
+      "Minimum thermometer",
+      "Wet bulb thermometer",
+      "Dry bulb thermometer"
+    ],
+    correct: 2,
+    explanation: "The wet bulb thermometer has thin muslin wrapped around its bulb kept wet; it acts as an evaporating surface and is used to calculate dew point, relative humidity, and vapour pressure."
+  },
+  {
+    id: "d101_024",
+    subject: "da-101",
+    question: "Chilling injury in crop plants results from moderate wind speeds when air temperature is:",
+    options: [
+      "Above 45°C for 30 minutes",
+      "Below −10°C for 1 hour",
+      "Between 10 and 20°C with still air",
+      "Between 0 and 10°C with moderate winds"
+    ],
+    correct: 3,
+    explanation: "Chilling injury results from moderate wind speeds when air temperature ranges from 0 to 10°C, causing very rapid fall in metabolic process activity especially respiration."
+  },
+  {
+    id: "d101_025",
+    subject: "da-101",
+    question: "Exposure of crop plants to temperatures over 45°C for just how long causes severe leaf damage?",
+    options: [
+      "30 minutes exposure time",
+      "3 hours exposure time",
+      "2 hours exposure time",
+      "6 hours exposure time"
+    ],
+    correct: 0,
+    explanation: "Exposure of crop plants to temperatures over 45°C for just 30 minutes can cause severe damage to the leaves of plants."
+  },
+  {
+    id: "d101_026",
+    subject: "da-101",
+    question: "The standard atmospheric pressure at sea level on Earth is:",
+    options: [
+      "980 millibars at sea level",
+      "760 millibars at sea level",
+      "1013.25 millibars at sea level",
+      "1050 millibars at sea level"
+    ],
+    correct: 2,
+    explanation: "Standard atmospheric pressure at sea level is 1013.25 millibars, or about 14.7 pounds per square inch."
+  },
+  {
+    id: "d101_027",
+    subject: "da-101",
+    question: "Atmospheric pressure is measured with which instrument?",
+    options: [
+      "Anemometer for pressure reading",
+      "Psychrometer for pressure reading",
+      "Barometer for pressure reading",
+      "Hygrometer for pressure reading"
+    ],
+    correct: 2,
+    explanation: "Atmospheric pressure is measured with a Barometer, with units of millibars or bars."
+  },
+  {
+    id: "d101_028",
+    subject: "da-101",
+    question: "Wind blowing from south to north is called:",
+    options: [
+      "North wind",
+      "West wind",
+      "East wind",
+      "South wind"
+    ],
+    correct: 3,
+    explanation: "Wind blowing from south to north is called 'South wind' — winds are named after the direction from which they blow (windward direction)."
+  },
+  {
+    id: "d101_029",
+    subject: "da-101",
+    question: "Wind velocity (air flow intensity) is measured using which instrument?",
+    options: [
+      "Robinson's cup anemometer",
+      "Wind vane instrument",
+      "Sunshine recorder instrument",
+      "Barometer pressure instrument"
+    ],
+    correct: 0,
+    explanation: "Wind velocity (air flow intensity) is measured with Robinson's cup anemometer. Wind direction is measured with a wind vane."
+  },
+  {
+    id: "d101_030",
+    subject: "da-101",
+    question: "A minimum wind speed of how many km/h is needed for winnowing operations?",
+    options: [
+      "50 kmph minimum speed",
+      "30 kmph minimum speed",
+      "15 kmph minimum speed",
+      "8 kmph minimum speed"
+    ],
+    correct: 2,
+    explanation: "A minimum wind speed of 15 kmph is needed for winnowing operations to separate grain from chaff."
+  },
+  {
+    id: "d101_031",
+    subject: "da-101",
+    question: "Wind speed more than how many km/h leads to lodging of crops and heavy losses?",
+    options: [
+      "8 kmph strong wind",
+      "15 kmph strong wind",
+      "30 kmph strong wind",
+      "50 kmph strong wind"
+    ],
+    correct: 3,
+    explanation: "Wind speed more than 50 kmph leads to lodging of crops causing heavy loss. Wind stronger than 8 kmph can lift sand in arid regions forming sand dunes."
+  },
+  {
+    id: "d101_032",
+    subject: "da-101",
+    question: "Relative humidity is expressed as the ratio of actual vapour pressure to:",
+    options: [
+      "Volume of moist air sample",
+      "Total mass of the air sample",
+      "Saturated vapour pressure in percentage",
+      "Dew point air temperature value"
+    ],
+    correct: 2,
+    explanation: "Relative humidity is expressed as the ratio of actual vapour pressure to the saturated pressure expressed as a percentage. It is the most common measure of atmospheric humidity."
+  },
+  {
+    id: "d101_033",
+    subject: "da-101",
+    question: "Absolute humidity is defined as the ratio of mass of water vapour to:",
+    options: [
+      "Percentage of total air mass",
+      "Volume of moist air (kg m⁻¹)",
+      "Millibars of vapour pressure",
+      "Grams per cubic meter dry air"
+    ],
+    correct: 1,
+    explanation: "Absolute humidity is the ratio of the mass of water vapour to the volume of moist air in which it is contained, expressed as kg m⁻¹."
+  },
+  {
+    id: "d101_034",
+    subject: "da-101",
+    question: "A Hair hygrometer measures relative humidity by means of:",
+    options: [
+      "Variation in electrical resistance of sensor",
+      "Difference between wet and dry bulb readings",
+      "Variation in length of strand of human hair",
+      "Absorption of moisture by chemical substance"
+    ],
+    correct: 2,
+    explanation: "A Hair hygrometer measures relative humidity by means of variation in length of a strand of human hair, which expands and contracts with humidity changes."
+  },
+  {
+    id: "d101_035",
+    subject: "da-101",
+    question: "High relative humidity promotes growth of which organisms that cause plant diseases?",
+    options: [
+      "Saprophytic and parasitic fungi and bacteria",
+      "Insect pests and root nematodes",
+      "Virus particles and phytoplasma organisms",
+      "Root-feeding insects in soil"
+    ],
+    correct: 0,
+    explanation: "High humidity promotes the growth of some saprophytic and parasitic fungi and bacteria which cause various plant diseases."
+  },
+  {
+    id: "d101_036",
+    subject: "da-101",
+    question: "The USWB Class A Pan Evaporimeter (standard) has dimensions of:",
+    options: [
+      "90 cm diameter and 20 cm deep",
+      "150 cm diameter and 30 cm deep",
+      "120 cm diameter and 25.2 cm deep",
+      "60 cm diameter and 15 cm deep"
+    ],
+    correct: 2,
+    explanation: "The standard USWB Class A pan evaporimeter consists of a 120 cm diameter and 25.2 cm deep pan made of 20 gauge galvanized iron sheet with a stilling well."
+  },
+  {
+    id: "d101_037",
+    subject: "da-101",
+    question: "The latent heat of evaporation for water evaporated at 100°C is approximately:",
+    options: [
+      "1000 calories per gram",
+      "270 calories per gram",
+      "540 calories per gram",
+      "80 calories per gram"
+    ],
+    correct: 2,
+    explanation: "The latent heat of evaporation is approximately 540 calories per gram of water evaporated at 100°C."
+  },
+  {
+    id: "d101_038",
+    subject: "da-101",
+    question: "Under equivalent conditions, ocean water evaporates how much less than fresh river water?",
+    options: [
+      "10 percent less than fresh water",
+      "20 percent less than fresh water",
+      "15 percent less than fresh water",
+      "5 percent less than fresh water"
+    ],
+    correct: 3,
+    explanation: "Dissolved salts decrease evaporation rate. Under equivalent conditions, ocean water evaporates 5 percent less than fresh water in rivers."
+  },
+  {
+    id: "d101_039",
+    subject: "da-101",
+    question: "The term 'Monsoon' is derived from the Arabic word 'Mausum' meaning:",
+    options: [
+      "Rain season incoming",
+      "Wind direction change",
+      "Season",
+      "Cloud formation pattern"
+    ],
+    correct: 2,
+    explanation: "The term monsoon is derived from the Arabic word 'Mausum' meaning 'Season'."
+  },
+  {
+    id: "d101_040",
+    subject: "da-101",
+    question: "The 'Thermal concept' of Indian monsoon origin was proposed by:",
+    options: [
+      "Fohlin in year 1700",
+      "Celsius in year 1742",
+      "Campbell in year 1853",
+      "Halley in year 1636"
+    ],
+    correct: 3,
+    explanation: "The 'Thermal concept' proposed by Halley in 1636 is of more practical relevance in explaining Indian monsoons than other concepts."
+  },
+  {
+    id: "d101_041",
+    subject: "da-101",
+    question: "The South-West monsoon enters which state of India first?",
+    options: [
+      "Kerala in the month of June",
+      "Tamil Nadu in the month of May",
+      "Goa in the month of July",
+      "Maharashtra in the month of June"
+    ],
+    correct: 0,
+    explanation: "The South-West monsoon enters Kerala in June and by 15 July reaches the northernmost parts of the country. It is active from June to September."
+  },
+  {
+    id: "d101_042",
+    subject: "da-101",
+    question: "The South-West monsoon provides what percentage of India's total annual rainfall?",
+    options: [
+      "10 to 20 percent",
+      "50 to 60 percent",
+      "30 to 40 percent",
+      "80 to 90 percent"
+    ],
+    correct: 3,
+    explanation: "The SW monsoon (active June to September) provides 80 to 90 percent of total annual rainfall of India covering all parts of the country."
+  },
+  {
+    id: "d101_043",
+    subject: "da-101",
+    question: "The North-East monsoon is active during which period of the year?",
+    options: [
+      "October to mid-December period",
+      "June to September period",
+      "April to June period",
+      "January to March period"
+    ],
+    correct: 0,
+    explanation: "The NE monsoon is active from October to mid-December, providing 10–20% of total annual rainfall in parts of Andhra Pradesh and Tamil Nadu."
+  },
+  {
+    id: "d101_044",
+    subject: "da-101",
+    question: "Rainfall of how many mm is necessary to wet the soil up to a depth of 15 cm?",
+    options: [
+      "10 mm of rainfall needed",
+      "30 mm of rainfall needed",
+      "20 mm of rainfall needed",
+      "50 mm of rainfall needed"
+    ],
+    correct: 2,
+    explanation: "Rainfall of 20 mm is necessary to wet the soil up to a depth of 15 cm, which helps in decomposition of organic matter and influences soil fertility by leaching nutrients."
+  },
+  {
+    id: "d101_045",
+    subject: "da-101",
+    question: "High rainfall leading to floods is defined as more than 12.5 cm occurring in:",
+    options: [
+      "6 hours or less",
+      "12 hours or less",
+      "2 hours 30 minutes or less",
+      "24 hours or less"
+    ],
+    correct: 2,
+    explanation: "High rainfall more than 12.5 cm (125 mm) in 2 hours 30 minutes is considered as high rainfall leading to floods."
+  },
+  {
+    id: "d101_046",
+    subject: "da-101",
+    question: "The North-East monsoon develops because during winter, the Indian land mass:",
+    options: [
+      "Heats faster than ocean creating low pressure over land",
+      "Ocean heats faster creating high pressure over ocean",
+      "Land cools faster creating high continental pressure",
+      "Mountain barriers deflect winds causing reversal pattern"
+    ],
+    correct: 2,
+    explanation: "During winter, the land mass over India cools more rapidly than surrounding oceans, developing a high pressure centre over the continent, driving air outward toward the sea as NE monsoon."
+  },
+  {
+    id: "d101_047",
+    subject: "da-101",
+    question: "IARI (Indian Agriculture Research Institute) is located at:",
+    options: [
+      "Coimbatore, Tamil Nadu",
+      "Pusa, New Delhi",
+      "Lucknow, Uttar Pradesh",
+      "Nagpur, Maharashtra"
+    ],
+    correct: 1,
+    explanation: "IARI (Indian Agriculture Research Institute) is located at Pusa, New Delhi."
+  },
+  {
+    id: "d101_048",
+    subject: "da-101",
+    question: "IIRR (Indian Institute of Rice Research) is located at:",
+    options: [
+      "Cuttack, Orissa",
+      "Pusa, New Delhi",
+      "Coimbatore, Tamil Nadu",
+      "Hyderabad, Telangana"
+    ],
+    correct: 3,
+    explanation: "IIRR (Indian Institute of Rice Research) is located at Hyderabad, Telangana. CRRI is at Cuttack, Orissa."
+  },
+  {
+    id: "d101_049",
+    subject: "da-101",
+    question: "IIPR (Indian Institute of Pulse Research) is located at:",
+    options: [
+      "Kanpur, Uttar Pradesh",
+      "Jabalpur, Madhya Pradesh",
+      "Jhansi, Uttar Pradesh",
+      "Indore, Madhya Pradesh"
+    ],
+    correct: 0,
+    explanation: "IIPR (Indian Institute of Pulse Research) is located at Kanpur, Uttar Pradesh."
+  },
+  {
+    id: "d101_050",
+    subject: "da-101",
+    question: "CRIDA (Central Research Institute for Dryland Agriculture) is located at:",
+    options: [
+      "Jodhpur, Rajasthan state",
+      "Jhansi, Uttar Pradesh state",
+      "Hyderabad, Telangana state",
+      "Bhopal, Madhya Pradesh state"
+    ],
+    correct: 2,
+    explanation: "CRIDA (Central Research Institute for Dryland Agriculture) is located at Hyderabad, Telangana."
+  },
+  {
+    id: "d101_051",
+    subject: "da-101",
+    question: "PJTSAU (Professor Jayashankar Telangana State Agricultural University) was established after:",
+    options: [
+      "Reorganization of Telangana districts in 2016",
+      "Bifurcation of Andhra Pradesh state in 2014",
+      "Formation of Telangana state in 2009",
+      "Merger of ANGRAU research stations in 2012"
+    ],
+    correct: 1,
+    explanation: "PJTSAU was established as a result of bifurcation of the state of Andhra Pradesh in the year 2014."
+  },
+  {
+    id: "d101_052",
+    subject: "da-101",
+    question: "Regional Agricultural Research Station for the Northern Telangana Zone is located at:",
+    options: [
+      "Warangal research station campus",
+      "Palem research station campus",
+      "Rajendranagar research station campus",
+      "Polasa, Jagtial research station"
+    ],
+    correct: 3,
+    explanation: "The RARS for Northern Telangana Zone is at Polasa, Jagtial (Dist: Jagtial 505 529), researching rice, sesame, water management, and cropping systems."
+  },
+  {
+    id: "d101_053",
+    subject: "da-101",
+    question: "The RARS at Palem (Southern Telangana Zone) focuses on sorghum, bajra, castor, and:",
+    options: [
+      "Rice, cotton, and sugarcane",
+      "Horsegram and fodder crops",
+      "Sugarcane and wheat crops",
+      "Maize and tobacco crops"
+    ],
+    correct: 1,
+    explanation: "RARS Palem (Southern Telangana Zone) researches Sorghum, Bajra, Castor, Horsegram, and Fodder crops."
+  },
+  {
+    id: "d101_054",
+    subject: "da-101",
+    question: "NRCWS (National Research Centre for Weed Science) is located at:",
+    options: [
+      "Hyderabad, Telangana state",
+      "Kanpur, Uttar Pradesh state",
+      "Jabalpur, Madhya Pradesh state",
+      "Nagpur, Maharashtra state"
+    ],
+    correct: 2,
+    explanation: "NRCWS (National Research Centre for Weed Science) is located at Jabalpur, Madhya Pradesh."
+  },
+  {
+    id: "d101_055",
+    subject: "da-101",
+    question: "The Sugarcane Breeding Institute (SBI) is located at:",
+    options: [
+      "Coimbatore, Tamil Nadu state",
+      "Lucknow, Uttar Pradesh state",
+      "Nagpur, Maharashtra state",
+      "Kasargod, Kerala state"
+    ],
+    correct: 0,
+    explanation: "Sugarcane Breeding Institute (SBI) is located at Coimbatore, Tamil Nadu. IISR (Indian Institute of Sugarcane Research) is at Lucknow, UP."
+  },
+  {
+    id: "d101_056",
+    subject: "da-101",
+    question: "The first agricultural society in India was established at Calcutta in year:",
+    options: [
+      "1788 in Calcutta",
+      "1864 in Calcutta",
+      "1827 in Calcutta",
+      "1871 in Calcutta"
+    ],
+    correct: 2,
+    explanation: "The first agricultural society was established at Calcutta in 1827. The first attempt at cotton crop improvement was in Bombay province in 1788."
+  },
+  {
+    id: "d101_057",
+    subject: "da-101",
+    question: "The first rice hybrid in India was released in which year?",
+    options: [
+      "1975 first rice hybrid",
+      "1986 first rice hybrid",
+      "1993 first rice hybrid",
+      "1998 first rice hybrid"
+    ],
+    correct: 2,
+    explanation: "The first rice hybrid in India was released in 1993. The first cotton hybrid in India was released in 1975."
+  },
+  {
+    id: "d101_058",
+    subject: "da-101",
+    question: "NABARD (National Bank for Agriculture and Rural Development) was established in:",
+    options: [
+      "1979 establishment year",
+      "1986 establishment year",
+      "1993 establishment year",
+      "1982 establishment year"
+    ],
+    correct: 3,
+    explanation: "NABARD (National Bank for Agriculture and Rural Development) was established in 1982."
+  },
+  {
+    id: "d101_059",
+    subject: "da-101",
+    question: "The Intensive Agriculture District Programme (IADP) was launched in India in:",
+    options: [
+      "1956 programme launch",
+      "1966 programme launch",
+      "1960 programme launch",
+      "1963 programme launch"
+    ],
+    correct: 2,
+    explanation: "The Intensive Agriculture District Programme (IADP) was launched in 1960. The Intensive Agriculture Area Programme (IAAP) was in 1965."
+  },
+  {
+    id: "d101_060",
+    subject: "da-101",
+    question: "The 'Grow More Food Campaign' was launched in India in which year?",
+    options: [
+      "1936",
+      "1947",
+      "1956",
+      "1942"
+    ],
+    correct: 3,
+    explanation: "The 'Grow More Food Campaign' was launched in India in 1942 to address food shortages."
+  },
+  {
+    id: "d101_061",
+    subject: "da-101",
+    question: "Isotherms on weather maps are imaginary lines connecting points of equal:",
+    options: [
+      "Rainfall amount",
+      "Atmospheric pressure",
+      "Temperature value",
+      "Wind speed"
+    ],
+    correct: 2,
+    explanation: "Isotherms are imaginary lines drawn connecting points that have equal temperature, used to show the horizontal distribution of temperature on maps."
+  },
+  {
+    id: "d101_062",
+    subject: "da-101",
+    question: "Temperature inversion refers to a condition where in the troposphere:",
+    options: [
+      "Temperature increases with altitude, reversing normal pattern",
+      "Day and night temperatures become equal",
+      "Temperature decreases more rapidly than normal",
+      "Maximum and minimum temperatures reverse seasonally"
+    ],
+    correct: 0,
+    explanation: "Temperature inversion is a reversal of the normal tropospheric behaviour, where a layer of cool air at the surface is overlaid by a layer of warmer air."
+  },
+  {
+    id: "d101_063",
+    subject: "da-101",
+    question: "The optimum cardinal temperature for sorghum crop growth is:",
+    options: [
+      "20°C optimum for sorghum",
+      "32°C optimum for sorghum",
+      "29°C optimum for sorghum",
+      "25°C optimum for sorghum"
+    ],
+    correct: 3,
+    explanation: "Cardinal temperatures for sorghum are: minimum 12–13°C, optimum 25°C, maximum 40°C."
+  },
+  {
+    id: "d101_064",
+    subject: "da-101",
+    question: "Which crop has the lowest minimum cardinal temperature among these four crops?",
+    options: [
+      "Rice with minimum 10°C",
+      "Wheat with minimum 4.5°C",
+      "Sorghum with minimum 12–13°C",
+      "Maize with minimum 8–10°C"
+    ],
+    correct: 1,
+    explanation: "Wheat has the lowest minimum cardinal temperature at 4.5°C, compared to rice (10°C), maize (8–10°C), and sorghum (12–13°C)."
+  },
+  {
+    id: "d101_065",
+    subject: "da-101",
+    question: "Heat transfer through matter without actual movement of molecules is called:",
+    options: [
+      "Conduction process of heat transfer",
+      "Convection process of heat transfer",
+      "Radiation process of heat transfer",
+      "Transpiration process of heat transfer"
+    ],
+    correct: 0,
+    explanation: "Conduction is the process of heat transfer through matter without the actual movement of molecules. Heat flows from warmer to cooler parts."
+  },
+  {
+    id: "d101_066",
+    subject: "da-101",
+    question: "Convection is the predominant form of heat transmission on earth because:",
+    options: [
+      "It occurs in vacuum without any medium",
+      "Heat moves along solid bodies only",
+      "All weather-related processes involve movement of molecules",
+      "It only operates in liquid water bodies"
+    ],
+    correct: 2,
+    explanation: "Convection is the predominant form of transmission of energy on the earth as all weather-related processes involve this process of heat transfer through actual movement of molecules."
+  },
+  {
+    id: "d101_067",
+    subject: "da-101",
+    question: "Orographic (relief) rains occur with high intensity on which side of mountains?",
+    options: [
+      "Leeward side with high intensity",
+      "Windward side with high intensity",
+      "Top of the mountain only",
+      "Both sides receive equal intensity"
+    ],
+    correct: 1,
+    explanation: "Orographic rains occur when moist air strikes a mountain, rises, cools, and condenses. Rains with high intensity occur on the windward side of the mountain."
+  },
+  {
+    id: "d101_068",
+    subject: "da-101",
+    question: "Convectional rainfall mostly occurs in which part of the world?",
+    options: [
+      "Polar regions of the earth",
+      "Temperate coastal areas",
+      "Mountain range zones",
+      "Tropical regions of the earth"
+    ],
+    correct: 3,
+    explanation: "Convectional rains occur when heated air rises, cools, condenses, and forms clouds leading to precipitation. These rains mostly occur in the tropics."
+  },
+  {
+    id: "d101_069",
+    subject: "da-101",
+    question: "Fog is formed when warm and moist air cools and tiny water droplets:",
+    options: [
+      "Fall to the ground as rainfall",
+      "Stay suspended in the atmosphere",
+      "Freeze into ice crystals immediately",
+      "Evaporate back into water vapour"
+    ],
+    correct: 1,
+    explanation: "When warm and moist air cools, tiny water droplets are formed that stay in the air (suspended), which is called fog."
+  },
+  {
+    id: "d101_070",
+    subject: "da-101",
+    question: "Clockwise movement of air is known as which type of wind?",
+    options: [
+      "Backing wind movement",
+      "Leeward wind movement",
+      "Windward current movement",
+      "Veering wind movement"
+    ],
+    correct: 3,
+    explanation: "Clockwise movement of air is known as 'Veering wind.' Anti-clockwise movement of air is known as 'Backing wind.' Adverse climatic situations occur in backing wind."
+  },
+  {
+    id: "d101_071",
+    subject: "da-101",
+    question: "The Drought Prone Area Programme was initiated in India in:",
+    options: [
+      "1965 programme year",
+      "1971 programme year",
+      "1970 programme year",
+      "1974 programme year"
+    ],
+    correct: 2,
+    explanation: "The Drought Prone Area Programme was initiated in 1970. The All India Coordinated Project for Dryland Agriculture began in 1971."
+  },
+  {
+    id: "d101_072",
+    subject: "da-101",
+    question: "The exosphere (outermost layer of earth's atmosphere) extends from:",
+    options: [
+      "80 to 140 kilometers altitude",
+      "50 to 80 kilometers altitude",
+      "140 to 400 kilometers altitude",
+      "400 to 1000 kilometers altitude"
+    ],
+    correct: 3,
+    explanation: "The exosphere is the outermost layer of earth's atmosphere, lying between 400 and 1,000 kilometres. Hydrogen and Helium gases predominate in this region."
+  },
+  {
+    id: "d101_073",
+    subject: "da-101",
+    question: "The adiabatic lapse rate for dry air in the atmosphere is approximately:",
+    options: [
+      "1°C per 100 meters altitude",
+      "6.5°C per 100 meters altitude",
+      "5°C per 100 meters altitude",
+      "3°C per 100 meters altitude"
+    ],
+    correct: 0,
+    explanation: "The adiabatic lapse rate for dry air is very nearly 1°C per 100 m. The average adiabatic lapse rate is 6.5°C per kilometre."
+  },
+  {
+    id: "d101_074",
+    subject: "da-101",
+    question: "ICARDA (International Center for Agricultural Research in Dry Areas) is located at:",
+    options: [
+      "Rome, Italy",
+      "Nairobi, Kenya",
+      "Hyderabad, India",
+      "Aleppo, Syria"
+    ],
+    correct: 3,
+    explanation: "ICARDA (International Center for Agricultural Research in the Dry Areas) is located at Aleppo, Syria."
+  },
+  {
+    id: "d101_075",
+    subject: "da-101",
+    question: "ICRAF (International Centre for Research in Agro-Forestry) is located at:",
+    options: [
+      "Nairobi, Kenya",
+      "Rome, Italy",
+      "Aleppo, Syria",
+      "Ivory Coast, West Africa"
+    ],
+    correct: 0,
+    explanation: "ICRAF (International Centre for Research in Agro-Forestry) is located at Nairobi, Kenya."
+  },
+  {
+    id: "d101_076",
+    subject: "da-101",
+    question: "The physical process in which liquid water is converted into its vapour is called:",
+    options: [
+      "Precipitation from cloud droplets",
+      "Transpiration from plant stomata",
+      "Condensation of water vapour",
+      "Evaporation from water surface"
+    ],
+    correct: 3,
+    explanation: "Evaporation is defined as 'A physical process in which liquid water is converted into its vapour.' The sun is the source of energy that activates this process."
+  },
+  {
+    id: "d101_077",
+    subject: "da-101",
+    question: "About 75 percent of total gases and most moisture is present in which atmospheric layer?",
+    options: [
+      "Stratosphere layer",
+      "Mesosphere layer",
+      "Ionosphere layer",
+      "Troposphere layer"
+    ],
+    correct: 3,
+    explanation: "In the troposphere, about 75 per cent of total gases and most of the moisture and dust particles are present."
+  },
+  {
+    id: "d101_078",
+    subject: "da-101",
+    question: "The total annual pre-harvest losses of various crops in India range from:",
+    options: [
+      "5 to 50 percent annually",
+      "10 to 100 percent annually",
+      "1 to 25 percent annually",
+      "20 to 80 percent annually"
+    ],
+    correct: 1,
+    explanation: "In India the total annual pre-harvest losses of various crops range from 10 to 100 percent, while post-harvest losses average up to 10 percent."
+  },
+  {
+    id: "d101_079",
+    subject: "da-101",
+    question: "The Arabian Sea branch of the South-West monsoon crosses which barrier?",
+    options: [
+      "Eastern Ghats mountain barrier",
+      "Vindhya ranges mountain barrier",
+      "Western Ghats mountain barrier",
+      "Aravalli ranges mountain barrier"
+    ],
+    correct: 2,
+    explanation: "There are two branches of the SW monsoon: the Arabian Sea branch crosses the Western Ghats, and the Bay of Bengal branch crosses the Gangetic plains."
+  },
+  {
+    id: "d101_080",
+    subject: "da-101",
+    question: "The Agro-Climate Research Centre at ARI Rajendranagar is primarily concerned with:",
+    options: [
+      "Testing and developing farm implements",
+      "Biological control of crop pests",
+      "Seed research and seed technology only",
+      "Agricultural climate characterization and weather forecasting"
+    ],
+    correct: 3,
+    explanation: "The Agro Climate Research Centre at ARI Rajendranagar is concerned with characterization of agricultural climate to determine crop growing season and weather forecasting."
+  },
+  {
+    id: "d101_081",
+    subject: "da-101",
+    question: "The cropping intensity of the Northern Telangana Zone is:",
+    options: [
+      "110 percent cropping intensity",
+      "85 percent cropping intensity",
+      "150 percent cropping intensity",
+      "130 percent cropping intensity"
+    ],
+    correct: 0,
+    explanation: "The Northern Telangana Zone has a cropping intensity of 110 percent. The Central Telangana Zone also has a cropping intensity of 110%."
+  },
+  {
+    id: "d101_082",
+    subject: "da-101",
+    question: "In Southern Telangana Zone, what percentage of the net sown area is under irrigation?",
+    options: [
+      "30.3 percent net sown area",
+      "25 percent net sown area",
+      "14.35 percent net sown area",
+      "40.68 percent net sown area"
+    ],
+    correct: 2,
+    explanation: "In the Southern Telangana Zone, only 14.35 per cent of the 1.68 m. ha of net sown area is under irrigation, making it largely rainfed."
+  },
+  {
+    id: "d101_083",
+    subject: "da-101",
+    question: "The main source of irrigation in the Northern Telangana Zone is:",
+    options: [
+      "Wells followed by canals",
+      "Canals followed by wells",
+      "Tanks followed by rivers",
+      "Borewells followed by lift irrigation"
+    ],
+    correct: 0,
+    explanation: "In the Northern Telangana Zone, wells are the main source of irrigation followed by canals. Red chalka soils are predominant in this zone."
+  },
+  {
+    id: "d101_084",
+    subject: "da-101",
+    question: "The Maize Research Centre at ARI Rajendranagar researches which crops?",
+    options: [
+      "Maize variety improvement and export quality",
+      "Maize genetics and molecular breeding only",
+      "Maize pest management and integrated control",
+      "Maize, maize cropping systems, and fodder maize"
+    ],
+    correct: 3,
+    explanation: "The Maize Research Centre at ARI Rajendranagar researches Maize, Maize-based Cropping Systems, and Fodder Maize."
+  },
+  {
+    id: "d101_085",
+    subject: "da-101",
+    question: "Wind is defined physically as air that moves:",
+    options: [
+      "Horizontally from high pressure to low pressure",
+      "Longitudinally due to temperature differences",
+      "Vertically from ground to upper atmosphere",
+      "Circularly around a low pressure centre"
+    ],
+    correct: 0,
+    explanation: "Wind is defined as air that moves horizontally from high pressure areas to low pressure areas. Longitudinal air movement due to pressure differences is called 'current'."
+  },
+  {
+    id: "d101_086",
+    subject: "da-101",
+    question: "What climatic characteristic defines the Northern Telangana Zone's rainfall pattern?",
+    options: [
+      "Sub-tropical dry with black cotton soils",
+      "Tropical dry below 700 mm annual rainfall",
+      "Tropical rainy with 900–1150 mm annual precipitation",
+      "Tropical semi-arid with red sandy soils"
+    ],
+    correct: 2,
+    explanation: "The Northern Telangana Zone has a typically tropical rainy climate with mean annual precipitation ranging from 900 to 1150 mm, with 82% from south west monsoon."
+  },
+  {
+    id: "d101_087",
+    subject: "da-101",
+    question: "Which atmospheric layer is called 'Chemosphere' due to preponderance of chemical processes?",
+    options: [
+      "Troposphere lowest layer",
+      "Stratosphere second layer",
+      "Ozonosphere or mesosphere layer",
+      "Ionosphere or thermosphere layer"
+    ],
+    correct: 2,
+    explanation: "The ozonosphere (mesosphere) is called 'Chemosphere' because of the preponderance of chemical processes. It has maximum ozone concentration between 30 and 60 km."
+  },
+  {
+    id: "d101_088",
+    subject: "da-101",
+    question: "IIMR (Indian Institute of Millets Research) is located at:",
+    options: [
+      "Kanpur, Uttar Pradesh state",
+      "Junagadh, Gujarat state",
+      "Hyderabad, Telangana state",
+      "Coimbatore, Tamil Nadu state"
+    ],
+    correct: 2,
+    explanation: "IIMR (Indian Institute of Millets Research) is located at Hyderabad, Telangana."
+  },
+  {
+    id: "d101_089",
+    subject: "da-101",
+    question: "The Tropopause is a thin transitional zone characterized by:",
+    options: [
+      "Maximum ozone and photochemical reactions",
+      "No major movement of air at troposphere top",
+      "Maximum wind speeds and intense storm activity",
+      "Ionisation of gases and radio wave reflection"
+    ],
+    correct: 1,
+    explanation: "The tropopause is a thin transitional zone at the top of the troposphere, distinctly characterised by no major movement of air, separating it from the stratosphere."
+  },
+  {
+    id: "d101_090",
+    subject: "da-101",
+    question: "Heaving injury in plants is specifically caused by:",
+    options: [
+      "High temperature causing stem scorching near soil",
+      "Ice crystal formation causing cell dehydration",
+      "Low temperature accumulating toxins in roots",
+      "Lifting plants upward causing roots to stretch or break"
+    ],
+    correct: 3,
+    explanation: "Heaving injury is caused by lifting of a plant upward from its normal position, causing the root to stretch or break. Sometimes roots are pushed completely above the soil surface."
+  },
+  {
+    id: "d101_091",
+    subject: "da-101",
+    question: "Tornados occurring on water bodies are known as:",
+    options: [
+      "Cyclones on water",
+      "Waterspouts on water",
+      "Anticyclones on water",
+      "Typhoons on water"
+    ],
+    correct: 1,
+    explanation: "Tornados occurring on water are known as 'Waterspouts.' A tornado is a violent destructive storm with a funnel-shaped cumulonimbus cloud and vortex of about 500 meters diameter."
+  },
+  {
+    id: "d101_092",
+    subject: "da-101",
+    question: "Advection frost (air mass frost) is specifically defined as frost which results when:",
+    options: [
+      "Temperature inversion occurs on clear nights",
+      "Cold rain is followed by evaporative cooling dry wind",
+      "Dew point falls below 0°C on calm clear nights",
+      "Temperature at the surface in an air mass is below freezing"
+    ],
+    correct: 3,
+    explanation: "Advection or air mass frost results when the temperature at the surface in an air mass is below freezing. Radiation frost occurs on clear nights with temperature inversion."
+  },
+  {
+    id: "d101_093",
+    subject: "da-101",
+    question: "The atmosphere provides carbon dioxide to crop plants specifically for:",
+    options: [
+      "Transporting pollen between flowers",
+      "Providing protection from harmful UV rays",
+      "Building biomass through photosynthesis process",
+      "Maintaining warmth to plant life"
+    ],
+    correct: 2,
+    explanation: "One important agricultural use of the atmosphere is that it provides carbon dioxide to build biomass in photosynthesis, which is the fundamental basis of crop growth."
+  },
+  {
+    id: "d101_094",
+    subject: "da-101",
+    question: "The Agricultural Research Station at Adilabad (Northern Telangana) focuses on which crops?",
+    options: [
+      "Rice, sesame, water management",
+      "Sugarcane, rice, and cropping systems",
+      "Cotton, jowar, rainfed rice, and soybean",
+      "Pulses, maize, and oilseeds"
+    ],
+    correct: 2,
+    explanation: "The Agricultural Research Station at Adilabad (Northern Telangana Zone) focuses on Cotton, Jowar, Rainfed rice, and Soybean."
+  },
+  {
+    id: "d101_095",
+    subject: "da-101",
+    question: "The Central Telangana Zone is specifically described as an important zone for growing which crop?",
+    options: [
+      "Cotton cash crop",
+      "Sugarcane cash crop",
+      "Tobacco cash crop",
+      "Turmeric spice crop"
+    ],
+    correct: 0,
+    explanation: "The Central Telangana Zone is the important Cotton growing zone of Telangana. Its principal crops include Paddy, Cotton, Red gram, Maize, Sugarcane, Black gram and Green gram."
+  },
+  {
+    id: "d101_096",
+    subject: "da-101",
+    question: "Red chalka soils are predominant in which Telangana agro-climatic zones?",
+    options: [
+      "Southern Telangana Zone only",
+      "Central Telangana Zone only",
+      "All three Telangana zones equally",
+      "Both Northern and Central Telangana Zones"
+    ],
+    correct: 3,
+    explanation: "Red chalka soils are predominant in both the Northern Telangana Zone and the Central Telangana Zone. Southern Telangana has mainly red sandy, red earths and medium black soils."
+  },
+  {
+    id: "d101_097",
+    subject: "da-101",
+    question: "The National Seed Corporation was established in India in year:",
+    options: [
+      "1963 year established",
+      "1960 year established",
+      "1966 year established",
+      "1956 year established"
+    ],
+    correct: 0,
+    explanation: "The National Seed Corporation was established in 1963. The HYV Programme and National Demonstration Programme were both launched in 1966."
+  },
+  {
+    id: "d101_098",
+    subject: "da-101",
+    question: "How many thunderstorms occur daily on Earth according to the source material?",
+    options: [
+      "4,400 thunderstorms per day",
+      "22,000 thunderstorms per day",
+      "44,000 thunderstorms per day",
+      "88,000 thunderstorms per day"
+    ],
+    correct: 2,
+    explanation: "As many as 44,000 thunderstorms occur daily on earth. Thunderstorms form due to the release of latent heat of condensation in rising humid air."
+  },
+  {
+    id: "d101_099",
+    subject: "da-101",
+    question: "Factors affecting the climate of a region (latitude, altitude, winds etc.) are collectively known as:",
+    options: [
+      "Agrometeorological indices collectively",
+      "Climatic elements collectively",
+      "Weather factors collectively",
+      "Atmospheric variables collectively"
+    ],
+    correct: 1,
+    explanation: "Factors affecting the climate of a region (latitude, altitude, land/water, winds, pressure belts, mountain barriers, ocean currents, forests) are also known as 'climatic elements'."
+  },
+  {
+    id: "d101_100",
+    subject: "da-101",
+    question: "In dust storms, dust raised by wind covers small plants and may cause:",
+    options: [
+      "Root damage due to physical abrasion",
+      "Increased photosynthesis due to light scattering",
+      "Stem lodging and physical breakage",
+      "Stomata closure and plant suffocation"
+    ],
+    correct: 3,
+    explanation: "In dust storms, the dust raised by wind covers small plants, which may cause stomata closure and suffocation. Hails cause direct damage by lodging and shattering of seeds."
+  }
 ];

@@ -1,111 +1,804 @@
 import { Question } from "@/types";
 
-// DA-281: Forestry, Medicinal and Aromatic Plants — 100 questions (PJTSAU Diploma)
-// Options balanced in length; correct answer positions randomized to prevent guessing
 export const da281Questions: Question[] = [
-  // ── FORESTRY (40 Q) ──
-  { id:"d281_001", subject:"da-281", question:"Forestry is the science of:", options:["Forest management", "Tree felling", "Wood selling", "Wildlife hunting"], correct:0, explanation:"Forestry is the scientific management of forests for sustainable production of timber, fuel, fodder, and ecological services." },
-  { id:"d281_002", subject:"da-281", question:"Silviculture deals with:", options:["Soil chemistry", "Insect pests", "Forest crop establishment", "Soil moisture"], correct:2, explanation:"Silviculture is the art and science of growing and tending forest crops to meet specific objectives of management." },
-  { id:"d281_003", subject:"da-281", question:"Forest mensuration deals with:", options:["Wildlife counting","Forest produce measurement","Soil testing","Fire control"], correct:1, explanation:"Forest mensuration is the measurement of forest produce — tree dimensions (DBH, height), volume, and growth rates." },
-  { id:"d281_004", subject:"da-281", question:"Agroforestry combines:", options:["Only trees", "Only crops", "Only livestock", "Trees and farming"], correct:3, explanation:"Agroforestry is a sustainable land-use system that integrates trees with agricultural crops and/or livestock on the same land." },
-  { id:"d281_005", subject:"da-281", question:"Agri-silvi-culture is:", options:["Trees + crops", "Trees + livestock", "Only trees", "Aquaculture"], correct:0, explanation:"Agri-silvi-culture is an agroforestry system combining trees with agricultural crops on the same piece of land." },
-  { id:"d281_006", subject:"da-281", question:"Silvi-pastoral system has:", options:["Trees + fish", "Only crops", "Trees + grass", "Only trees"], correct:2, explanation:"Silvi-pastoral system grows trees with pasture grasses for livestock grazing or fodder production." },
-  { id:"d281_007", subject:"da-281", question:"Taungya system originated in:", options:["China", "Burma", "India", "Nepal"], correct:1, explanation:"Taungya system was developed by Sir Dietrich Brandis in Burma (Myanmar) in 1856 — the modified shifting cultivation." },
-  { id:"d281_008", subject:"da-281", question:"Eucalyptus rotation for pulpwood is:", options:["1 year", "20 years", "60 years", "5–7 years"], correct:3, explanation:"Eucalyptus is harvested at 5–7 years for pulpwood. It is fast-growing and coppices well after harvesting." },
-  { id:"d281_009", subject:"da-281", question:"Casuarina is also called:", options:["Whistling pine","Royal palm","Swamp oak","Iron tree"], correct:0, explanation:"Casuarina equisetifolia is called Whistling Pine because of the whistling sound of wind through its needle-like branchlets." },
-  { id:"d281_010", subject:"da-281", question:"King of Indian Timber:", options:["Sal", "Bamboo", "Teak", "Sandalwood"], correct:2, explanation:"Teak (Tectona grandis) is the King of Indian Timber due to its strength, durability, and water resistance." },
-  { id:"d281_011", subject:"da-281", question:"Bamboo is known as:", options:["Sacred wood", "Poor man's timber", "Royal grass", "Holy wood"], correct:1, explanation:"Bamboo is the Poor Man's Timber due to low cost, fast growth, and versatility. Some species grow up to 1 m per day." },
-  { id:"d281_012", subject:"da-281", question:"Neem is famously called:", options:["Pulp wood","Royal tree","Decorative tree","Village pharmacy"], correct:3, explanation:"Neem (Azadirachta indica) is the 'Village Pharmacy' due to its medicinal and biopesticidal uses across all parts." },
-  { id:"d281_013", subject:"da-281", question:"Sandalwood is famous for:", options:["Aromatic oil", "Bark fibre", "Edible fruit", "Fodder leaves"], correct:0, explanation:"Sandalwood (Santalum album) is famed for its aromatic heartwood and the precious sandal oil used in perfumery." },
-  { id:"d281_014", subject:"da-281", question:"Pollarding means:", options:["Root removal", "Bark removal", "Top branch cutting", "Grafting"], correct:2, explanation:"Pollarding is cutting back all branches at the top of the trunk to a uniform height to encourage new shoots." },
-  { id:"d281_015", subject:"da-281", question:"Coppicing means:", options:["Pollarding", "Stump regeneration", "Pruning", "Layering"], correct:1, explanation:"Coppicing is cutting trees at ground level so that new shoots regenerate from the stump (used in eucalyptus, subabul)." },
-  { id:"d281_016", subject:"da-281", question:"DBH stands for:", options:["Density Below Height", "Distance Between Hectares", "Direct Bole Height", "Diameter at Breast Height"], correct:3, explanation:"DBH (Diameter at Breast Height) is measured at 1.37 m above ground — standard reference for tree size in mensuration." },
-  { id:"d281_017", subject:"da-281", question:"Teak rotation age in India:", options:["60–80 years", "10 years", "30 years", "120 years"], correct:0, explanation:"Standard rotation age for teak in commercial plantations is 60–80 years for high-quality timber. Coppice rotation is 40 years." },
-  { id:"d281_018", subject:"da-281", question:"World per capita forest area:", options:["0.1 ha", "8 ha", "1.6 ha", "20 ha"], correct:2, explanation:"World's per capita forest area is about 1.6 ha. India's is only ~0.06 ha — much lower than world average." },
-  { id:"d281_019", subject:"da-281", question:"Indian Forest Policy aims at forest cover:", options:["10%","33%","50%","75%"], correct:1, explanation:"India's National Forest Policy 1988 aims at maintaining 33% of geographical area under forest/tree cover." },
-  { id:"d281_020", subject:"da-281", question:"Indian Forest Service was set up in:", options:["1947", "1972", "2006", "1864"], correct:3, explanation:"IFS was constituted by Sir Dietrich Brandis in 1864 — the oldest forest service in the world." },
-  { id:"d281_021", subject:"da-281", question:"Forest Research Institute (FRI) is at:", options:["Dehradun", "Bangalore", "Coimbatore", "Kolkata"], correct:0, explanation:"FRI, founded 1906, is at Dehradun, Uttarakhand. It is the premier institute for forestry research in India." },
-  { id:"d281_022", subject:"da-281", question:"ICFRE is at:", options:["Pune", "Mumbai", "Dehradun", "Delhi"], correct:2, explanation:"Indian Council of Forestry Research and Education (ICFRE) is headquartered at Dehradun." },
-  { id:"d281_023", subject:"da-281", question:"Tropical evergreen forests of India are in:", options:["Punjab","Western Ghats","Rajasthan","Tibet"], correct:1, explanation:"Tropical evergreen forests are found in heavy rainfall (>200 cm) regions of Western Ghats, NE India, and A&N Islands." },
-  { id:"d281_024", subject:"da-281", question:"Dominant trees of dry deciduous forests:", options:["Pine", "Mango", "Eucalyptus", "Teak and Sal"], correct:3, explanation:"Tropical dry deciduous forests are dominated by Teak, Sal, Sandalwood, Mahua, and Khair — covering the largest area in India." },
-  { id:"d281_025", subject:"da-281", question:"Largest mangrove forest:", options:["Sundarbans", "Kerala", "Goa", "Mumbai"], correct:0, explanation:"Sundarbans (West Bengal-Bangladesh delta) is the world's largest mangrove forest, home to Royal Bengal Tigers." },
-  { id:"d281_026", subject:"da-281", question:"Vivipary is seen in:", options:["Pine", "Teak", "Mangroves", "Bamboo"], correct:2, explanation:"Vivipary (in-situ germination on parent tree) is characteristic of mangroves like Rhizophora — propagules drop into mud to root." },
-  { id:"d281_027", subject:"da-281", question:"Khair (Acacia catechu) yields:", options:["Latex", "Katha and Cutch", "Resin", "Sugar"], correct:1, explanation:"Katha (white extract for paan) and Cutch (dark extract for tanning) are obtained by boiling Khair heartwood." },
-  { id:"d281_028", subject:"da-281", question:"Eucalyptus bark yields:", options:["Sugar", "Latex", "Resin", "Oxalic acid"], correct:3, explanation:"Eucalyptus bark yields oxalic acid. The wood is used as the main raw material for paper industry and packing cases; leaves contain essential oil." },
-  { id:"d281_029", subject:"da-281", question:"1 kg teak seed contains approximately:", options:["2000", "100", "800", "50000"], correct:0, explanation:"One kg of teak seed contains approximately 1200–3000 seeds (about 2000 average). Seeds are large drupes." },
-  { id:"d281_030", subject:"da-281", question:"Teak seed pre-treatment uses:", options:["Hot water", "Cold storage", "Alternate wetting-drying", "Burning"], correct:2, explanation:"Teak seeds (drupes) need pre-sowing treatment — alternate wetting and drying for 1–2 weeks softens the hard endocarp." },
-  { id:"d281_031", subject:"da-281", question:"Windbreaks are planted in direction:", options:["East-West","North-South","NE-SW","Random"], correct:1, explanation:"Windbreaks are planted N-S, perpendicular to E-W prevailing winds in most of India, to reduce wind velocity effectively." },
-  { id:"d281_032", subject:"da-281", question:"Modified shifting cultivation is:", options:["Strip system","Random mix","Multistoried","Taungya"], correct:3, explanation:"Taungya is the modified, organized form of shifting cultivation — crops grown between forest tree rows till canopy closure." },
-  { id:"d281_033", subject:"da-281", question:"Bamboo flowers:", options:["Once in 30–60 yrs", "Annually", "Twice a year", "Continuously"], correct:0, explanation:"Bamboo shows monocarpic, gregarious flowering — entire population flowers once in 30–60 years, then dies after seeding." },
-  { id:"d281_034", subject:"da-281", question:"Subabul is also called:", options:["Sacred tree", "Royal tree", "Miracle tree", "Forbidden tree"], correct:2, explanation:"Subabul (Leucaena leucocephala) is the 'Miracle tree' — multipurpose: fodder, fuel, paper pulp, green manure, soil binder." },
-  { id:"d281_035", subject:"da-281", question:"Forests reducing bronchitis:", options:["Mangroves","Coniferous","Tropical","Riparian"], correct:1, explanation:"Coniferous forests (pine, fir) release phytoncides (volatile antimicrobial compounds) that benefit respiratory health." },
-  { id:"d281_036", subject:"da-281", question:"Joint Forest Management (JFM) involves:", options:["NGOs only","Govt only","Companies only","Community + Govt"], correct:3, explanation:"JFM (started 1990) is a participatory approach where Van Suraksha Samitis and Forest Department jointly manage forests." },
-  { id:"d281_037", subject:"da-281", question:"Forest Conservation Act:", options:["1980", "1927", "1988", "2006"], correct:0, explanation:"Forest (Conservation) Act, 1980 restricts use of forest land for non-forest purposes without Central Govt approval." },
-  { id:"d281_038", subject:"da-281", question:"Forest Rights Act (Tribes) was passed in:", options:["1980","1988","2006","2016"], correct:2, explanation:"Forest Rights Act 2006 recognises individual and community rights of Scheduled Tribes over forest land." },
-  { id:"d281_039", subject:"da-281", question:"Van Mahotsav is held in:", options:["January","July","October","December"], correct:1, explanation:"Van Mahotsav (tree plantation festival) is observed in the first week of July (1–7 July) annually since 1950." },
-  { id:"d281_040", subject:"da-281", question:"Sandalwood oil is from:", options:["Bark", "Roots only", "Flowers", "Heartwood"], correct:3, explanation:"Sandalwood oil is steam-distilled from the heartwood of Santalum album. Active compounds: alpha- and beta-santalol." },
-
-  // ── MEDICINAL PLANTS (30 Q) ──
-  { id:"d281_041", subject:"da-281", question:"Ashwagandha botanical name:", options:["Withania somnifera", "Centella asiatica", "Aloe vera", "Mentha piperita"], correct:0, explanation:"Ashwagandha is Withania somnifera — Indian Ginseng, a top Ayurvedic adaptogenic medicinal plant." },
-  { id:"d281_042", subject:"da-281", question:"Active principle of Ashwagandha:", options:["Capsaicin", "Curcumin", "Withanolides", "Quinine"], correct:2, explanation:"Withanolides (Withaferin A, Withanone, Withanine) are the steroidal lactones responsible for Ashwagandha's medicinal action." },
-  { id:"d281_043", subject:"da-281", question:"Tulsi belongs to genus:", options:["Lavandula", "Ocimum", "Rosa", "Mentha"], correct:1, explanation:"Tulsi (Holy Basil) is Ocimum sanctum (= O. tenuiflorum), family Lamiaceae — sacred and medicinal." },
-  { id:"d281_044", subject:"da-281", question:"Active principle of Tulsi:", options:["Reserpine", "Caffeine", "Curcumin", "Methyl eugenol"], correct:3, explanation:"Methyl eugenol is the chief active compound in Tulsi (Ocimum sanctum) essential oil — responsible for its antimicrobial and anti-inflammatory properties (as per PJTSAU study material)." },
-  { id:"d281_045", subject:"da-281", question:"Tulsi seed required per acre:", options:["200–300 g", "50–100 g", "100–150 g", "500–600 g"], correct:0, explanation:"For Tulsi nursery raising for 1 acre transplanting, ~200–300 g of seed is needed (1 g has ~12,000 small seeds)." },
-  { id:"d281_046", subject:"da-281", question:"Senna leaves are from:", options:["Mentha", "Aloe", "Cassia angustifolia", "Cymbopogon"], correct:2, explanation:"Senna leaves and pods come from Cassia angustifolia (Tinnevelly senna) — a natural laxative due to sennosides." },
-  { id:"d281_047", subject:"da-281", question:"Active principle of Senna:", options:["Forskolin","Sennosides","Eugenol","Curcumin"], correct:1, explanation:"Sennosides A and B are anthraquinone glycosides in Senna leaves — the active laxative compounds." },
-  { id:"d281_048", subject:"da-281", question:"'Sona' variety belongs to:", options:["Coleus","Aloe","Geranium","Senna"], correct:3, explanation:"'Sona' is a high-yielding cultivar of Senna (Cassia angustifolia) released by CIMAP, Lucknow." },
-  { id:"d281_049", subject:"da-281", question:"Coleus forskohlii yields:", options:["Forskolin", "Atropine", "Reserpine", "Withaferin"], correct:0, explanation:"Coleus forskohlii tubers yield Forskolin — a labdane diterpene used in glaucoma, hypertension, obesity treatment." },
-  { id:"d281_050", subject:"da-281", question:"Pashanbedi is:", options:["Senna", "Citronella", "Coleus", "Lemon grass"], correct:2, explanation:"Pashanbedi (stone-breaker) is Coleus aromaticus / amboinicus — used traditionally for kidney stones." },
-  { id:"d281_051", subject:"da-281", question:"Kalmegh is famed as:", options:["Sweetener", "King of bitters", "Aromatic", "Tonic"], correct:1, explanation:"Kalmegh (Andrographis paniculata) is the 'King of Bitters' — contains andrographolide for liver disorders, immunity." },
-  { id:"d281_052", subject:"da-281", question:"Active principle of Kalmegh:", options:["Sennosides", "Withanolides", "Forskolin", "Andrographolide"], correct:3, explanation:"Andrographolide is the principal diterpene lactone in Kalmegh — responsible for the bitter taste and medicinal effect." },
-  { id:"d281_053", subject:"da-281", question:"Aloe vera is used for:", options:["Cosmetic gel", "Edible fruits", "Latex only", "Fibre"], correct:0, explanation:"Aloe vera (Aloe barbadensis) is famous for its leaf gel/pulp used in cosmetics, drinks, and skin healing." },
-  { id:"d281_054", subject:"da-281", question:"Active compound in Aloe vera:", options:["Curcumin","Atropine","Aloin","Eugenol"], correct:2, explanation:"Aloin (anthraquinone) is the active laxative compound in Aloe vera latex; gel has acemannan polysaccharides." },
-  { id:"d281_055", subject:"da-281", question:"Karakkaya is part of:", options:["Spice blend", "Triphala", "Cereal mix", "Oil mix"], correct:1, explanation:"Karakkaya (Haritaki) is one of three fruits in Triphala (with Bibhitaki and Amla) — Ayurvedic digestive tonic." },
-  { id:"d281_056", subject:"da-281", question:"'Amrutha' is variety of:", options:["Tamarind", "Pongamia", "Jatropha", "Karakkaya"], correct:3, explanation:"Amrutha is a high-yielding variety of Karakkaya (Terminalia chebula) — a Triphala medicinal forest tree." },
-  { id:"d281_057", subject:"da-281", question:"Indian Ginseng is:", options:["Withania", "Asparagus", "Glycyrrhiza", "Panax"], correct:0, explanation:"Indian Ginseng is Withania somnifera (Ashwagandha) — distinct from Asian Panax ginseng but with similar adaptogenic uses." },
-  { id:"d281_058", subject:"da-281", question:"Brahmi is famous as:", options:["Cooking herb", "Spice", "Memory enhancer", "Decorative"], correct:2, explanation:"Brahmi (Bacopa monnieri) is a medhya rasayana — brain tonic and memory enhancer. Active: bacoside-A." },
-  { id:"d281_059", subject:"da-281", question:"Mandukaparni / Gotu kola is:", options:["Bacopa","Centella","Tinospora","Ocimum"], correct:1, explanation:"Mandukaparni / Gotu kola is Centella asiatica — used for skin healing and mental clarity. Active: asiaticoside." },
-  { id:"d281_060", subject:"da-281", question:"Sarpagandha treats:", options:["Diabetes","Skin","Cold","Hypertension"], correct:3, explanation:"Sarpagandha (Rauwolfia serpentina) yields Reserpine — used to treat hypertension and mental disorders." },
-  { id:"d281_061", subject:"da-281", question:"Active principle of Sarpagandha:", options:["Reserpine", "Caffeine", "Quinine", "Nicotine"], correct:0, explanation:"Reserpine is the major indole alkaloid in Sarpagandha roots — antihypertensive and antipsychotic agent." },
-  { id:"d281_062", subject:"da-281", question:"Cinchona is the source of:", options:["Caffeine", "Aspirin", "Quinine", "Morphine"], correct:2, explanation:"Cinchona officinalis bark yields Quinine — the classic anti-malarial alkaloid used historically against malaria." },
-  { id:"d281_063", subject:"da-281", question:"Datura/Belladonna yield:", options:["Reserpine","Atropine","Curcumin","Quinine"], correct:1, explanation:"Datura and Atropa belladonna yield tropane alkaloids — atropine, hyoscyamine, scopolamine — for ophthalmology." },
-  { id:"d281_064", subject:"da-281", question:"Opium / morphine is from:", options:["Cannabis","Glycyrrhiza","Datura","Papaver"], correct:3, explanation:"Opium and morphine are obtained from latex of Papaver somniferum (opium poppy) — narcotic analgesic." },
-  { id:"d281_065", subject:"da-281", question:"Liquorice (Mulethi) is used in:", options:["Cough syrups","Aromatic flowers","Edible fruits","Fibre"], correct:0, explanation:"Liquorice (Glycyrrhiza glabra) roots contain glycyrrhizin — used in cough syrups and as natural sweetener." },
-  { id:"d281_066", subject:"da-281", question:"Periwinkle yields anti-cancer:", options:["Atropine","Insulin","Vinblastine","Quinine"], correct:2, explanation:"Periwinkle (Catharanthus roseus) yields Vinblastine and Vincristine — anti-cancer alkaloids for leukemia and lymphoma." },
-  { id:"d281_067", subject:"da-281", question:"Stevia is a:", options:["Spice", "Sweetener", "Aromatic", "Fibre crop"], correct:1, explanation:"Stevia (Stevia rebaudiana) leaves contain steviol glycosides — natural sweeteners 200–300× sweeter than sugar." },
-  { id:"d281_068", subject:"da-281", question:"Giloy (Guduchi) is:", options:["Mentha", "Curcuma", "Withania", "Tinospora"], correct:3, explanation:"Giloy/Guduchi is Tinospora cordifolia — boosts immunity, treats fever. Active: tinosporin, palmatine." },
-  { id:"d281_069", subject:"da-281", question:"Henna (Mehndi) is:", options:["Lawsonia", "Indigofera", "Cassia", "Curcuma"], correct:0, explanation:"Henna (Mehndi) is Lawsonia inermis — leaves contain lawsone, a naphthoquinone red-orange dye." },
-  { id:"d281_070", subject:"da-281", question:"Ashwagandha root harvest stage:", options:["Vegetative", "Anytime", "Senescence", "Pre-flowering"], correct:2, explanation:"Ashwagandha roots harvested at maturity (~150–180 days) — after senescence, when withanolide content peaks." },
-
-  // ── AROMATIC PLANTS (30 Q) ──
-  { id:"d281_071", subject:"da-281", question:"Aromatic plants yield:", options:["Fibre", "Essential oils", "Timber", "Edible leaves"], correct:1, explanation:"Aromatic plants are valued for essential oils — volatile fragrance compounds used in perfumery, cosmetics, food." },
-  { id:"d281_072", subject:"da-281", question:"India's premier MAP institute:", options:["IARI", "NDRI", "CRRI", "CIMAP"], correct:3, explanation:"CIMAP (Central Institute of Medicinal and Aromatic Plants), Lucknow, est. 1959 — premier MAP research institute in India." },
-  { id:"d281_073", subject:"da-281", question:"Lemon grass oil contains:", options:["Citral", "Geraniol", "Linalool", "Eugenol"], correct:0, explanation:"Lemon grass oil is rich in Citral (geranial + neral, 70–85%) — used in mosquito repellents and perfumes." },
-  { id:"d281_074", subject:"da-281", question:"Lemon grass oil used in:", options:["Cooking oil", "Sweet syrups", "Mosquito creams", "Dyes"], correct:2, explanation:"Lemon grass oil's high citral content makes it widely used in mosquito repellent creams, sprays, and lotions." },
-  { id:"d281_075", subject:"da-281", question:"Citronella oil contains:", options:["Menthol", "Citronellal", "Linalool", "Eugenol"], correct:1, explanation:"Citronella (Cymbopogon nardus / winterianus) yields citronellal, geraniol, citronellol — natural mosquito repellent." },
-  { id:"d281_076", subject:"da-281", question:"Vetiver (Khus) is used for:", options:["Edible leaves", "Decorative flowers", "Fibre", "Khus oil"], correct:3, explanation:"Vetiver (Chrysopogon zizanioides) roots yield khus oil — for perfumery, ittar, and as summer coolant." },
-  { id:"d281_077", subject:"da-281", question:"Vetiver also helps in:", options:["Soil conservation", "Latex", "Fruits", "Fibre"], correct:0, explanation:"Vetiver has dense vertical roots (up to 4 m) — used in Vetiver System (VS) for slope stabilization and soil-water conservation." },
-  { id:"d281_078", subject:"da-281", question:"Important Mentha species:", options:["Only Spearmint","Only Peppermint","Multiple species","None"], correct:2, explanation:"Important Mentha species: Peppermint (M. piperita), Spearmint (M. spicata), Japanese mint (M. arvensis — main source of menthol)." },
-  { id:"d281_079", subject:"da-281", question:"Menthol is mainly from:", options:["Spearmint", "Japanese mint", "Lemon grass", "Peppermint"], correct:1, explanation:"Menthol is mainly from Mentha arvensis (Japanese mint / Cornmint). India is the world's largest producer of menthol." },
-  { id:"d281_080", subject:"da-281", question:"Geranium is called:", options:["Royal rose", "Rich rose", "King of fragrance", "Poor man's rose"], correct:3, explanation:"Geranium (Pelargonium graveolens) is called 'Poor man's rose' — its oil resembles rose oil but is much cheaper." },
-  { id:"d281_081", subject:"da-281", question:"Active compounds in Geranium oil:", options:["Geranial", "Linalool", "Menthol", "Citral"], correct:0, explanation:"Geranium oil (Pelargonium graveolens) contains geranial and citronellol as chief constituents — giving it a rose-like fragrance used in perfumery." },
-  { id:"d281_082", subject:"da-281", question:"Davana is famous as:", options:["Edible greens", "Fibre", "Aromatic flower", "Timber"], correct:2, explanation:"Davana (Artemisia pallens) yields a precious aromatic oil used in luxury perfumery, especially in the Middle East." },
-  { id:"d281_083", subject:"da-281", question:"Palmarosa oil is rich in:", options:["Citral", "Geraniol", "Menthol", "Linalool"], correct:1, explanation:"Palmarosa (Cymbopogon martinii) oil is rich in geraniol (75–85%) — used in perfumery as a rose oil substitute." },
-  { id:"d281_084", subject:"da-281", question:"Nutrient that increases tillers in palmarosa:", options:["Boron","Magnesium","Calcium","Zinc"], correct:3, explanation:"Application of Zinc has been found to increase the number of tillers in palmarosa, an aromatic grass." },
-  { id:"d281_085", subject:"da-281", question:"Lavender oil is rich in:", options:["Linalool", "Camphor", "Quinine", "Curcumin"], correct:0, explanation:"Lavender oil contains linalyl acetate, linalool, camphor, 1,8-cineole — used in aromatherapy and perfumery." },
-  { id:"d281_086", subject:"da-281", question:"Rosa damascena yields:", options:["Fibre","Timber","Rose oil","Fodder"], correct:2, explanation:"Rosa damascena yields the prized Rose oil (Otto/Attar) — citronellol, geraniol, nerol. Used in luxury perfumery." },
-  { id:"d281_087", subject:"da-281", question:"Tuberose flowers yield:", options:["Edible bulbs","Aromatic oil","Fibre","Timber"], correct:1, explanation:"Tuberose (Polianthes tuberosa) flowers yield a precious oil/concrete used in luxury perfumery." },
-  { id:"d281_088", subject:"da-281", question:"Jasmine flower yields:", options:["Edible fruits","Timber","Tannin","Concrete/Attar"], correct:3, explanation:"Jasmine flowers yield a high-value concrete and attar used in luxury perfumery. India produces ~80% globally." },
-  { id:"d281_089", subject:"da-281", question:"Sandalwood oil distilled from:", options:["Heartwood","Roots only","Leaves","Flowers"], correct:0, explanation:"Sandalwood oil is steam-distilled from the heartwood of Santalum album. Active: alpha- and beta-santalol." },
-  { id:"d281_090", subject:"da-281", question:"Turmeric yields:", options:["Eugenol", "Camphor", "Curcumin", "Quinine"], correct:2, explanation:"Turmeric (Curcuma longa) rhizomes contain curcumin (~5%) — yellow pigment, anti-inflammatory and antioxidant." },
-  { id:"d281_091", subject:"da-281", question:"Camphor is from:", options:["Aloe", "Cinnamomum", "Mentha", "Ocimum"], correct:1, explanation:"Camphor is steam-distilled from Cinnamomum camphora wood and leaves — used in religious rites, balms, and pharmaceuticals." },
-  { id:"d281_092", subject:"da-281", question:"Common essential oil method:", options:["Cold pressing","Steam distillation","Solvent extraction","All three used"], correct:3, explanation:"All three methods are used: steam distillation, cold pressing (citrus), solvent extraction (jasmine, tuberose)." },
-  { id:"d281_093", subject:"da-281", question:"Best aromatic harvest time:", options:["Early morning", "Late afternoon", "Midnight", "Just at sunset"], correct:0, explanation:"Aromatic herbs are harvested in early morning when essential oil content is at maximum, before evaporation losses." },
-  { id:"d281_094", subject:"da-281", question:"Chamomile is famous for:", options:["Latex", "Quinine", "Tea", "Camphor"], correct:2, explanation:"Chamomile (Matricaria chamomilla) flowers contain bisabolol — used in herbal tea, cosmetics, sleep aid." },
-  { id:"d281_095", subject:"da-281", question:"Cardamom is called:", options:["Black gold", "Queen of Spices", "White gold", "King of Spices"], correct:1, explanation:"Cardamom (Elettaria cardamomum) is the 'Queen of Spices'. India is the world's largest producer." },
-  { id:"d281_096", subject:"da-281", question:"Black Pepper is called:", options:["Sweet spice", "Queen of Spices", "White spice", "King of Spices"], correct:3, explanation:"Black Pepper (Piper nigrum) is the 'King of Spices'. Active principle: piperine. Largest producer: India." },
-  { id:"d281_097", subject:"da-281", question:"Saffron is famous as:", options:["Most expensive", "Cheapest spice", "Edible bulb", "Timber"], correct:0, explanation:"Saffron (Crocus sativus stigmas) is the world's most expensive spice (~$5000–10,000/kg). Indian saffron from Kashmir." },
-  { id:"d281_098", subject:"da-281", question:"Vanilla yields:", options:["Fibre","Edible leaves","Vanillin","Timber"], correct:2, explanation:"Vanilla (Vanilla planifolia) cured pods yield vanillin — flavouring used in food, perfumery, and pharmaceuticals." },
-  { id:"d281_099", subject:"da-281", question:"India's main aromatic exports:", options:["Only mint", "Mint, lemon grass, vetiver", "Only basil", "Only saffron"], correct:1, explanation:"India is a major exporter of mint (menthol), lemon grass, palmarosa, vetiver, sandalwood, jasmine, basil oils." },
-  { id:"d281_100", subject:"da-281", question:"AYUSH covers systems:", options:["Only Ayurveda","Only Yoga","Only Allopathy","Multiple systems"], correct:3, explanation:"AYUSH = Ayurveda, Yoga & Naturopathy, Unani, Siddha, Homeopathy — Ministry promoting these traditional systems." },
+  {
+    id: "d281_001",
+    subject: "da-281",
+    question: "The word 'Forest' is derived from which Latin word?",
+    options: ["'Foris' meaning outside the land", "'Arbor' meaning tree cover", "'Folia' meaning leaf canopy", "'Humus' meaning soil matter"],
+    correct: 0,
+    explanation: "The word 'Forest' is derived from the Latin word 'Foris' which means 'outside'."
+  },
+  {
+    id: "d281_002",
+    subject: "da-281",
+    question: "The study of description, classification and identification of tree species is called:",
+    options: ["Forest mensuration deals with measurements", "Forest utilization concerns harvesting products", "Dendrology studies tree species identification", "Silviculture manages stand reproduction"],
+    correct: 2,
+    explanation: "Dendrology is the branch of forestry dealing with the study of description, classification and identification of various tree species."
+  },
+  {
+    id: "d281_003",
+    subject: "da-281",
+    question: "Which district of Telangana occupies first position in forest area?",
+    options: ["Nalgonda district with 896 sq km", "Khammam district with 7945 sq km", "Adilabad district with 7101 sq km", "Warangal district with large forest"],
+    correct: 1,
+    explanation: "Khammam district occupies first position in forest area (7945 sq. km) in Telangana state, followed by Adilabad (7101 sq. km)."
+  },
+  {
+    id: "d281_004",
+    subject: "da-281",
+    question: "What is India's per capita forest area compared to the world average of 1.6 ha?",
+    options: ["India has 0.5 ha per capita area", "India has 0.3 ha per capita area", "India has 0.25 ha per capita area", "India has 0.11 ha per capita area"],
+    correct: 3,
+    explanation: "As compared to the world average of 1.6 hectares per capita forest area, India has only 0.11 ha per capita forest area."
+  },
+  {
+    id: "d281_005",
+    subject: "da-281",
+    question: "Silviculture is the branch of forestry dealing with which main aspect?",
+    options: ["Establishment and reproduction of timber stands", "Measurement of forest produce volume", "Harvesting and conversion of forest produce", "Identification of different tree species"],
+    correct: 0,
+    explanation: "Silviculture is the branch of forestry which deals with the establishment, development, care and reproduction of stands of timber."
+  },
+  {
+    id: "d281_006",
+    subject: "da-281",
+    question: "What percentage of India's total land area is covered by forest?",
+    options: ["About 33 percent of total area", "About 28 percent of total area", "About 23 percent of total area", "About 15 percent of total area"],
+    correct: 2,
+    explanation: "Forests in India cover about 23% of the total land area (75 million hectares) against the recommended 33.3%."
+  },
+  {
+    id: "d281_007",
+    subject: "da-281",
+    question: "India's first National Forest Policy was enacted on which date?",
+    options: ["12th May 1952 by Agriculture Ministry", "19th October 1894 as first policy", "7th December 1988 new policy", "15th August 1947 independence year"],
+    correct: 1,
+    explanation: "The first National Forest Policy of India was enunciated on 19th October, 1894. The second policy was on 12th May, 1952."
+  },
+  {
+    id: "d281_008",
+    subject: "da-281",
+    question: "The National Forest Policy of 1988 was announced in parliament by which ministry?",
+    options: ["Ministry of Agriculture announced this policy", "Ministry of Rural Development made announcement", "Ministry of Finance presented this policy", "Ministry of Environment announced this policy"],
+    correct: 3,
+    explanation: "The new forest policy of 1988 was announced in the parliament by the Minister of Environment, Government of India, on 7th December, 1988."
+  },
+  {
+    id: "d281_009",
+    subject: "da-281",
+    question: "What penalty is prescribed under the Indian Forests Act for violations?",
+    options: ["Rs. 500 fine or 6 months prison or both", "Rs. 1000 fine or 1 year prison", "Rs. 200 fine or 3 months prison", "Rs. 2000 fine or 2 years prison"],
+    correct: 0,
+    explanation: "Any person who violates the Indian Forests Act provisions is liable to pay Rs. 500 or 6 months prison or both as per court judgment."
+  },
+  {
+    id: "d281_010",
+    subject: "da-281",
+    question: "The Seedling stage of a tree is defined as growth from germination to which height?",
+    options: ["From germination to 5 feet height", "From germination to 2 feet height", "From germination to 3 feet height", "From germination to 4 feet height"],
+    correct: 2,
+    explanation: "Seedling stage is defined as from germination to 3 feet height (1 m) in the growth stages of a tree."
+  },
+  {
+    id: "d281_011",
+    subject: "da-281",
+    question: "Which type of root is a composite structure formed by non-pathogenic soil fungi invading rootlets?",
+    options: ["Adventitious roots from plant parts", "Mycorrhiza formed by soil fungi", "Pneumatophores for gas exchange", "Tap roots descending into soil"],
+    correct: 1,
+    explanation: "Mycorrhiza is the composite structure formed when non-pathogenic soil fungi invade the fine extremities of rootlets instead of root hairs."
+  },
+  {
+    id: "d281_012",
+    subject: "da-281",
+    question: "Shifting sand dunes are widely distributed in which Indian states?",
+    options: ["Kerala and Tamil Nadu states", "Assam and West Bengal states", "Gujarat and Maharashtra states", "Rajasthan and Haryana states"],
+    correct: 3,
+    explanation: "Shifting sand dunes are widely distributed in the states of Rajasthan and Haryana, characterized by annual rainfall of 150-250 mm."
+  },
+  {
+    id: "d281_013",
+    subject: "da-281",
+    question: "Which tree species gave good results when grown on lateritic soils of West Bengal?",
+    options: ["Tectona grandis provided good results", "Eucalyptus tereticornis grew well", "Acacia nilotica adapted successfully", "Dalbergia sissoo performed best"],
+    correct: 0,
+    explanation: "Tectona grandis grown on lateritic soils of West Bengal provided good results according to afforestation records."
+  },
+  {
+    id: "d281_014",
+    subject: "da-281",
+    question: "The Ring Pit method of planting is specifically recommended for which soil type?",
+    options: ["For clay soils with high moisture", "For alkaline soils with high salinity", "For laterite soils with low fertility", "For very sandy soils lacking moisture"],
+    correct: 3,
+    explanation: "Ring pit is made in very sandy areas where moisture is the most critical factor for survival of plants."
+  },
+  {
+    id: "d281_015",
+    subject: "da-281",
+    question: "In Stump planting, what are the recommended root and shoot portions respectively?",
+    options: ["Root 25-30 cm, shoot 8-10 cm", "Root 22-25 cm, shoot 5-8 cm", "Root 18-20 cm, shoot 2-5 cm", "Root 10-15 cm, shoot 3-4 cm"],
+    correct: 2,
+    explanation: "In stump planting, the root and shoot portions are about 18-20 cm and 2-5 cm respectively. The stumps should be 20-25 cm."
+  },
+  {
+    id: "d281_016",
+    subject: "da-281",
+    question: "The 'Singling' tending operation is performed when trees attain which height?",
+    options: ["When trees are 8-10 m tall", "When trees are 5-7 m tall", "When trees are 2-4 m tall", "When trees are 0.5-1 m tall"],
+    correct: 2,
+    explanation: "Singling is performed in the early stages when a tree is 2-4 m tall to reduce forked or multiple stems to a single stem."
+  },
+  {
+    id: "d281_017",
+    subject: "da-281",
+    question: "What is the scientific name and family of Teak?",
+    options: ["Tectona grandis, family Verbenaceae", "Azadirachta indica, family Meliaceae", "Dalbergia sissoo, family Leguminaceae", "Eucalyptus tereticornis, family Myrtaceae"],
+    correct: 0,
+    explanation: "The scientific name of Teak is Tectona grandis, belonging to family Verbenaceae. It is a tropical deciduous tall growing tree."
+  },
+  {
+    id: "d281_018",
+    subject: "da-281",
+    question: "What is the optimum pH range for better growth and quality of Teak?",
+    options: ["pH range of 4.5 to 5.5 is ideal", "pH range of 5.0 to 6.0 is ideal", "pH range of 6.5 to 7.5 is ideal", "pH range of 7.5 to 8.5 is ideal"],
+    correct: 2,
+    explanation: "The optimum pH range for better growth and quality of Teak is 6.5 to 7.5 and it cannot tolerate high soil pH."
+  },
+  {
+    id: "d281_019",
+    subject: "da-281",
+    question: "The chemical compound 'Tectol' present in Teak sap provides resistance to which problem?",
+    options: ["Resistance to fire damage in dry season", "Resistance to sap wood rot and termites", "Resistance to soil alkalinity and drought", "Resistance to bark borers and leaf aphids"],
+    correct: 1,
+    explanation: "Presence of 'Tectol' phenol in sap gives high resistance to sap wood rot and termites in Teak."
+  },
+  {
+    id: "d281_020",
+    subject: "da-281",
+    question: "In fast growing Teak plantations, thinning should be carried out at what interval?",
+    options: ["Thinning every 2 years interval", "Thinning every 3 years interval", "Thinning every 10 years interval", "Thinning every 5 years interval"],
+    correct: 3,
+    explanation: "In fast growing teak plantations, thinning should be carried out for every 5 years."
+  },
+  {
+    id: "d281_021",
+    subject: "da-281",
+    question: "Neem has been universally accepted as 'Wonder Tree' of which century?",
+    options: ["Wonder Tree of 21st century", "Wonder Tree of 19th century", "Wonder Tree of 20th century", "Wonder Tree of 18th century"],
+    correct: 0,
+    explanation: "Neem has been universally accepted as a 'Wonder Tree' tree of 21st century and is called 'Nature's Drugstore'."
+  },
+  {
+    id: "d281_022",
+    subject: "da-281",
+    question: "What percentage of oil is present in Neem seeds?",
+    options: ["Neem seed contains 10 percent oil", "Neem seed contains 20 percent oil", "Neem seed contains 40 percent oil", "Neem seed contains 60 percent oil"],
+    correct: 2,
+    explanation: "Neem seed contains 40% of oils. Neem oil is used for pesticide preparation and also in medicinal preparations."
+  },
+  {
+    id: "d281_023",
+    subject: "da-281",
+    question: "Which variety of Neem is mainly grown in Himalayan regions?",
+    options: ["Fruticosa variety of Neem", "Indica variety of Neem", "Hysudrica variety of Neem", "Azadira variety of Neem"],
+    correct: 2,
+    explanation: "Neem variety 'Hysudrica' is mainly grown in Himalayan regions. 'Fruticosa' is a shrub type reaching 0.9-1.2 m height."
+  },
+  {
+    id: "d281_024",
+    subject: "da-281",
+    question: "How many seeds are contained in 1 kg of Subabul seeds?",
+    options: ["Around 5000 seeds per kilogram", "Around 10000 seeds per kilogram", "Around 15000 seeds per kilogram", "Around 20000 seeds per kilogram"],
+    correct: 3,
+    explanation: "Each pod contains 15-30 seeds and 1 kg of Subabul seed contains around 20,000 seeds."
+  },
+  {
+    id: "d281_025",
+    subject: "da-281",
+    question: "The scientific name and family of Subabul is:",
+    options: ["Leucaena leucocephala, family Leguminaceae", "Eucalyptus tereticornis, family Myrtaceae", "Tectona grandis, family Verbenaceae", "Azadirachta indica, family Meliaceae"],
+    correct: 0,
+    explanation: "The scientific name of Subabul is Leucaena leucocephala, belonging to family Leguminaceae, native to Central America."
+  },
+  {
+    id: "d281_026",
+    subject: "da-281",
+    question: "What toxic alkaloid present in Subabul leaves can be injurious to cattle health?",
+    options: ["Withanine alkaloid is found in leaves", "Andrographolide is present in leaves", "Mimosine or hyosine alkaloid present", "Sennoside compound in Subabul leaves"],
+    correct: 2,
+    explanation: "A toxic alkaloid mimosine/hyosine is present in leaves of some Subabul varieties that can be injurious to cattle health."
+  },
+  {
+    id: "d281_027",
+    subject: "da-281",
+    question: "For how many years can Subabul seeds be stored under good conditions?",
+    options: ["For 3 to 5 years with treatment", "For 8 to 10 years with treatment", "For 1 to 2 years with treatment", "For 6 to 8 months with treatment"],
+    correct: 1,
+    explanation: "Subabul seeds can be stored as long as 8-10 years. Seeds are treated with insecticides before storage to prevent insect and fungal attack."
+  },
+  {
+    id: "d281_028",
+    subject: "da-281",
+    question: "The scientific name and family of Eucalyptus is:",
+    options: ["Tectona grandis, family Verbenaceae", "Leucaena leucocephala, family Leguminaceae", "Dalbergia sissoo, family Leguminaceae", "Eucalyptus tereticornis, family Myrtaceae"],
+    correct: 3,
+    explanation: "The scientific name of Eucalyptus is Eucalyptus tereticornis, belonging to family Myrtaceae, native to Australia."
+  },
+  {
+    id: "d281_029",
+    subject: "da-281",
+    question: "Eucalyptus wood is mainly used as raw material for which industry?",
+    options: ["Eucalyptus used for paper industry", "Eucalyptus used for matchstick industry", "Eucalyptus used for furniture industry", "Eucalyptus used for railway coaches"],
+    correct: 0,
+    explanation: "Eucalyptus wood is the main raw material for paper industry. Leaves contain oil and bark yields oxalic acid."
+  },
+  {
+    id: "d281_030",
+    subject: "da-281",
+    question: "Tamarind (Tamarindus indica) is native to which region of the world?",
+    options: ["Central America and Caribbean islands", "Southeast Asia and Pacific region", "Dry savanna of tropical Africa", "South Arabia and Middle East"],
+    correct: 2,
+    explanation: "Tamarind is native to dry savanna of tropical Africa. In ancient times it was introduced to Asia by Arab traders."
+  },
+  {
+    id: "d281_031",
+    subject: "da-281",
+    question: "What is the English name of Karakkaya (Terminalia chebula)?",
+    options: ["Chebulic myrobalan is English name", "Indian gooseberry is English name", "Sacred basil is the English name", "Indian coral tree is English name"],
+    correct: 0,
+    explanation: "The English name of Karakkaya (Terminalia chebula) is 'Chebulic myrobalan', also known as Haritaki in Ayurveda."
+  },
+  {
+    id: "d281_032",
+    subject: "da-281",
+    question: "Karakkaya is an important ingredient of which Ayurvedic formulation?",
+    options: ["Chyawanprash preparation for immunity", "Dashamoola root preparation", "Triphala formulation for digestion", "Trikatu preparation for digestion"],
+    correct: 2,
+    explanation: "Karakkaya is an important ingredient of 'triphala', an Ayurvedic formulation used in treatment of constipation, colic pain and kidney dysfunctions."
+  },
+  {
+    id: "d281_033",
+    subject: "da-281",
+    question: "At what spacing are pits dug for Karakkaya plantation?",
+    options: ["Pits dug at 10 x 10 m spacing", "Pits dug at 3 x 3 m spacing", "Pits dug at 4 x 4 m spacing", "Pits dug at 6 x 6 m spacing"],
+    correct: 3,
+    explanation: "Pits of 60 cm3 are dug at a spacing of 6 x 6 m for Karakkaya plantation with soil mixed with 15 kg FYM."
+  },
+  {
+    id: "d281_034",
+    subject: "da-281",
+    question: "Karakkaya (Terminalia chebula) belongs to which plant family?",
+    options: ["Combretaceae family of large trees", "Leguminaceae family of nitrogen fixers", "Meliaceae family of tropical trees", "Myrtaceae family of aromatic plants"],
+    correct: 0,
+    explanation: "Karakkaya (Terminalia chebula) belongs to family Combretaceae. The parts used are dried immature fruits (the fruit rind)."
+  },
+  {
+    id: "d281_035",
+    subject: "da-281",
+    question: "The scientific name and family of Jatropha is:",
+    options: ["Pongamia pinnata, family Leguminaceae", "Jatropha curcas, family Euphorbiaceae", "Leucaena leucocephala, family Leguminaceae", "Dalbergia sissoo, family Leguminaceae"],
+    correct: 1,
+    explanation: "The scientific name of Jatropha is Jatropha curcas, belonging to family Euphorbiaceae, native to Tropical America."
+  },
+  {
+    id: "d281_036",
+    subject: "da-281",
+    question: "For rainfed cultivation of Jatropha, pits are spaced at what distance per hectare?",
+    options: ["Pits spaced at 5 m x 5 m distance", "Pits spaced at 3 m x 3 m distance", "Pits spaced at 4 m x 2 m distance", "Pits spaced at 2 m x 2 m distance"],
+    correct: 3,
+    explanation: "For rainfed cultivation of Jatropha, pits are spaced at 2 m x 2 m to accommodate 2,500 plants per hectare."
+  },
+  {
+    id: "d281_037",
+    subject: "da-281",
+    question: "Social forestry was first recognized as important in the Interim Report of which commission?",
+    options: ["National Commission on Agriculture 1972", "National Commission on Environment forestry", "National Commission on Forestry India", "National Commission on Land Use planning"],
+    correct: 0,
+    explanation: "Social forestry was first recognized as important in the Interim Report of the National Commission on Agriculture on social forestry, 1972."
+  },
+  {
+    id: "d281_038",
+    subject: "da-281",
+    question: "Vanamahosthavam was started in the year 1950 by which minister?",
+    options: ["Sri Jawahar Lal Nehru started it", "Sri Sardar Patel launched program", "Sri K.V. Munshi the food minister", "Sri Rajendra Prasad began program"],
+    correct: 2,
+    explanation: "Vanamahosthavam was started in the year 1950 by the agricultural and food minister Sri K.V. Munshi."
+  },
+  {
+    id: "d281_039",
+    subject: "da-281",
+    question: "In energy plantations, what spacing and rotation period is recommended for fast growing plants?",
+    options: ["Spacing over 5 m, 10-15 year rotation", "Spacing 2-3 m, 5-6 year rotation period", "Spacing less than 1 m, 3-4 year rotation", "Spacing 3-4 m, 7-8 year rotation period"],
+    correct: 2,
+    explanation: "In energy plantations it is necessary to select fast growing plants with very close spacing of less than one meter and short rotations of 3 to 4 years."
+  },
+  {
+    id: "d281_040",
+    subject: "da-281",
+    question: "Freshly cut wood contains approximately what percentage of moisture content?",
+    options: ["Freshly cut wood has 5-10 percent moisture", "Freshly cut wood has 45-50 percent moisture", "Freshly cut wood has 35-40 percent moisture", "Freshly cut wood has 23-25 percent moisture"],
+    correct: 3,
+    explanation: "Freshly cut wood contains about 23-25% moisture. About 8-9% moisture is just enough for domestic wood burning stoves."
+  },
+  {
+    id: "d281_041",
+    subject: "da-281",
+    question: "Farm Forestry is defined as growing trees on farm lands for which purposes?",
+    options: ["Only timber production for commercial use", "Commercial or non-commercial varied purposes", "Only fuel wood for rural household use", "Only environmental protection purposes"],
+    correct: 0,
+    explanation: "Farm Forestry is defined as growing trees on farm lands for commercial purposes like timber production or non-commercial purposes like soil erosion control."
+  },
+  {
+    id: "d281_042",
+    subject: "da-281",
+    question: "Windbreaks should be oriented at what angle to prevailing winds for maximum effectiveness?",
+    options: ["At 30 degrees angle to wind direction", "At 45 degrees angle to wind direction", "As close to 90 degrees to prevailing winds", "Parallel to the prevailing wind direction"],
+    correct: 2,
+    explanation: "To achieve maximum effectiveness, windbreaks should be oriented as close to perpendicular (90 degrees) to the prevailing or problem winds as possible."
+  },
+  {
+    id: "d281_043",
+    subject: "da-281",
+    question: "Moderately dense windbreaks reduce wind velocities by what percentage?",
+    options: ["Reduce wind velocity by 10-20 percent", "Reduce wind velocity by 20-30 percent", "Reduce wind velocity by 50-60 percent", "Reduce wind velocity by 80-90 percent"],
+    correct: 2,
+    explanation: "Moderately dense windbreaks significantly reduce the wind velocities (50-60%) and do not cause as much downwind turbulence as dense windbreaks."
+  },
+  {
+    id: "d281_044",
+    subject: "da-281",
+    question: "Agroforestry is defined as a sustainable land management system based on which principle?",
+    options: ["Exclusive tree cultivation on farmland only", "Alternate use of forest and agriculture land", "Rotation of tree crops with food crops only", "Integration of crop, forest and animals together"],
+    correct: 3,
+    explanation: "Agroforestry combines the production of crops and forest plants and/or animals simultaneously or sequentially on the same unit of land (King & Chander, 1978)."
+  },
+  {
+    id: "d281_045",
+    subject: "da-281",
+    question: "The Taungya system of agroforestry was first evolved in which country?",
+    options: ["Burma in 1980 as first practice", "India in 1880 for afforestation", "Thailand in 1900 as agroforestry", "China in 1850 for food forestry"],
+    correct: 0,
+    explanation: "The Taungya system was first evolved in Burma in 1980 and is the first modern agroforestry practice."
+  },
+  {
+    id: "d281_046",
+    subject: "da-281",
+    question: "In multi-storied cropping, which combination example is mentioned in the text?",
+    options: ["Teak + neem + bamboo + eucalyptus crops", "Mango + guava + banana + papaya crops", "Coconut + black pepper + cocoa + pineapple", "Subabul + Agave + cotton + sorghum crops"],
+    correct: 2,
+    explanation: "Multi-storied cropping example given is: Coconut + black pepper + cocoa + pineapple, practiced mainly in Kerala."
+  },
+  {
+    id: "d281_047",
+    subject: "da-281",
+    question: "Tendu leaves (Diospyros melanoxylon) are mainly used as wrappers for which product?",
+    options: ["Making country liquor preparations", "Processing tobacco into bidi wrapper", "Tanning of leather goods products", "Producing natural dye materials"],
+    correct: 1,
+    explanation: "Tendu leaves are of great commercial importance in India and are used as wrappers of tobacco to produce bidi."
+  },
+  {
+    id: "d281_048",
+    subject: "da-281",
+    question: "Katha and cutch are produced from the heartwood of which tree species?",
+    options: ["Shorea robusta the sal tree", "Pongamia pinnata the karanj tree", "Tectona grandis the teak tree", "Acacia catechu the khair tree"],
+    correct: 3,
+    explanation: "Katha and cutch are produced from the heart wood of khair (Acacia catechu) trees. Katha is a pale brown product rich in 'catechin'."
+  },
+  {
+    id: "d281_049",
+    subject: "da-281",
+    question: "Pine resin distillation yields approximately what percentage of Rosin and Turpentine?",
+    options: ["Rosin 80 percent, turpentine 17 percent", "Rosin 50 percent, turpentine 40 percent", "Rosin 20 percent, turpentine 70 percent", "Rosin 60 percent, turpentine 30 percent"],
+    correct: 0,
+    explanation: "The important products of resin obtained by distillation are 'Rosin' about 80% and 'Turpentine' about 17%."
+  },
+  {
+    id: "d281_050",
+    subject: "da-281",
+    question: "Lac is the resinous protective secretion produced by which tiny insect?",
+    options: ["Bombyx mori the silkworm insect", "Apis mellifera the honey bee", "Laccifer lacca the lac insect", "Cochineal insect Dactylopius species"],
+    correct: 2,
+    explanation: "Lac is the resinous protective secretion of the tiny lac insect Laccifer lacca. The secretions coalesce to form a hard continuous encrustation."
+  },
+  {
+    id: "d281_051",
+    subject: "da-281",
+    question: "The scientific name and family of Ashwagandha is:",
+    options: ["Andrographis paniculata, family Acanthaceae", "Withania somnifera, family Solanaceae", "Ocimum sanctum, family Lamiaceae", "Cassia angustifolia, family Leguminaceae"],
+    correct: 1,
+    explanation: "The scientific name of Ashwagandha is Withania somnifera, belonging to family Solanaceae."
+  },
+  {
+    id: "d281_052",
+    subject: "da-281",
+    question: "What alkaloids are found in the roots of Ashwagandha plant?",
+    options: ["Andrographolide and paniculide alkaloids", "Sennoside A and Sennoside B compounds", "Forskolin and coleonol from tuberous roots", "Withanine A, Withanine B and Somniferine"],
+    correct: 3,
+    explanation: "Ashwagandha roots contain the alkaloids 'Withanine A', 'Withanine B' and Somniferine used in Ayurvedic and Unani preparations."
+  },
+  {
+    id: "d281_053",
+    subject: "da-281",
+    question: "Ashwagandha is known as 'Indian Ginseng' due to which reason?",
+    options: ["It is used as medicine for all age groups", "It grows in the same region as Ginseng", "It has similar appearance to Ginseng root", "It contains same chemical as Ginseng plant"],
+    correct: 0,
+    explanation: "Ashwagandha is used as medicine for all age groups and is known as 'Indian Ginseng'."
+  },
+  {
+    id: "d281_054",
+    subject: "da-281",
+    question: "What is the recommended soil pH range for Ashwagandha cultivation?",
+    options: ["pH range 4.5 to 5.5 is recommended", "pH range 5.0 to 6.0 is recommended", "pH range 7.5 to 8.0 is recommended", "pH range 9.0 to 10.0 is recommended"],
+    correct: 2,
+    explanation: "Ashwagandha grows successfully in sandy loam or light red soils. A soil pH range of 7.5 to 8.0 is ideal."
+  },
+  {
+    id: "d281_055",
+    subject: "da-281",
+    question: "Ashwagandha is ready for harvest how many days after sowing?",
+    options: ["Ready for harvest at 50-70 days", "Ready for harvest at 90-100 days", "Ready for harvest at 150-170 days", "Ready for harvest at 200-250 days"],
+    correct: 2,
+    explanation: "Ashwagandha harvesting starts from January and continues till March, i.e., 150-170 days after sowing."
+  },
+  {
+    id: "d281_056",
+    subject: "da-281",
+    question: "The scientific name and family of Aloe Vera is:",
+    options: ["Coleus forskohlii, family Lamiaceae", "Artemisia pallens, family Asteraceae", "Ocimum sanctum, family Lamiaceae", "Aloe barbadensis, family Liliaceae"],
+    correct: 3,
+    explanation: "The scientific name of Aloe Vera is Aloe barbadensis, belonging to family Liliaceae."
+  },
+  {
+    id: "d281_057",
+    subject: "da-281",
+    question: "The yellow bitter juice of Aloe Vera used to prepare 'Aloe' is present in which part?",
+    options: ["Specialized cells beneath thick epidermis", "Central parenchymatous mucilaginous tissue", "Vascular bundle region of the leaf", "Surface wax layer of the leaf"],
+    correct: 0,
+    explanation: "Aloe is obtained by cutting the leaves at their base and letting the yellow, bitter juice present in specialized cells beneath the thick epidermis drain out."
+  },
+  {
+    id: "d281_058",
+    subject: "da-281",
+    question: "The commercial leaf yield of Aloe Vera from second year onwards is approximately:",
+    options: ["2 to 5 tonnes per hectare per year", "7 to 10 tonnes per hectare per year", "15 to 20 tonnes per hectare per year", "30 to 40 tonnes per hectare per year"],
+    correct: 2,
+    explanation: "On an average 15-20 t/ha leaf yield can be obtained from the second year onwards from Aloe Vera."
+  },
+  {
+    id: "d281_059",
+    subject: "da-281",
+    question: "What is the scientific name and family of Sacred Basil (Tulsi)?",
+    options: ["Ocimum sanctum, family Lamiaceae", "Pelargonium graveolens, family Geraniaceae", "Artemisia pallens, family Asteraceae", "Cymbopogon flexuosus, family Graminae"],
+    correct: 0,
+    explanation: "The scientific name of Sacred Basil is Ocimum sanctum, belonging to family Lamiaceae."
+  },
+  {
+    id: "d281_060",
+    subject: "da-281",
+    question: "Which chemical compound is present in Ocimum sanctum (sacred basil)?",
+    options: ["Methyl cinnamate is present in it", "Methyl chavicol is main constituent", "Methyl eugenol is present in Ocimum sanctum", "Camphor is the main compound present"],
+    correct: 2,
+    explanation: "Ocimum sanctum (sacred basil) contains methyl eugenol. Ocimum americanum contains methyl cinnamate and O. basilicum contains methyl chavicol."
+  },
+  {
+    id: "d281_061",
+    subject: "da-281",
+    question: "Ocimum sanctum is ideally harvested at which stage for best oil yield?",
+    options: ["At vegetative stage before flowering starts", "At bud initiation stage for harvest", "At seed maturity stage after flowering", "At full bloom stage for best yield"],
+    correct: 3,
+    explanation: "Harvest at full bloom stage is ideal for Ocimum sanctum. Harvesting is done on bright sunny days for optimum oil yields."
+  },
+  {
+    id: "d281_062",
+    subject: "da-281",
+    question: "Senna (Cassia angustifolia) belongs to which plant family?",
+    options: ["Acanthaceae family of shrubs", "Solanaceae family of herbs", "Leguminaceae family of shrubs", "Asteraceae family of herbs"],
+    correct: 2,
+    explanation: "Senna (Cassia angustifolia) belongs to family Leguminaceae. It is a small perennial under shrub native of South Arabia."
+  },
+  {
+    id: "d281_063",
+    subject: "da-281",
+    question: "Which high-yielding variety of Senna was released from CIMAP Lucknow?",
+    options: ["ALFT-2 variety from Gujarat University", "Gujarat-1 variety for high yield", "Sona variety from CIMAP Lucknow", "Lucknow-3 for high leaf yield"],
+    correct: 2,
+    explanation: "'Sona' is a high yielding variety of Senna released from Central Institute of Medicinal and Aromatic Plants (CIMAP), Lucknow."
+  },
+  {
+    id: "d281_064",
+    subject: "da-281",
+    question: "The active pharmaceutical compound Forskolin is found in tuberous roots of which plant?",
+    options: ["Withania somnifera roots have Forskolin", "Andrographis paniculata roots contain it", "Cassia angustifolia pods contain Forskolin", "Coleus forskohlii tuberous roots have Forskolin"],
+    correct: 3,
+    explanation: "The tuberous roots of Coleus (Coleus forskohlii) are a rich source of Forskolin, being developed as a drug for hypertension, glaucoma, asthma and congestive heart failures."
+  },
+  {
+    id: "d281_065",
+    subject: "da-281",
+    question: "The scientific name and family of Kalmegh (Nelavemu) is:",
+    options: ["Andrographis paniculata, family Acanthaceae", "Coleus forskohlii, family Lamiaceae", "Withania somnifera, family Solanaceae", "Cassia angustifolia, family Leguminaceae"],
+    correct: 0,
+    explanation: "The scientific name of Kalmegh is Andrographis paniculata, belonging to family Acanthaceae. Common name is Nelavemu."
+  },
+  {
+    id: "d281_066",
+    subject: "da-281",
+    question: "Kalmegh is known as 'King of bitters' and by which other name in England?",
+    options: ["'Rice bitters' in West Indies and worldwide", "'Pashan Bhendi' its common trade name", "'Chiretta' in England as popular name", "'Nelavemu' name used in England"],
+    correct: 2,
+    explanation: "Kalmegh is also known as 'Rice bitters' in West Indies and 'King of bitters' or 'Chiretta' in England."
+  },
+  {
+    id: "d281_067",
+    subject: "da-281",
+    question: "The bitter principle andrographolide is distributed in which part of Kalmegh plant?",
+    options: ["Only in roots and stems of plant", "Only in flower and seed parts", "All over the plant body parts", "Only in the leaf tissue cells"],
+    correct: 2,
+    explanation: "The bitter principle andrographolide is important and is distributed all over the plant body in different proportions."
+  },
+  {
+    id: "d281_068",
+    subject: "da-281",
+    question: "Lemon grass oil is obtained from which plant species and plant parts?",
+    options: ["From Pelargonium graveolens leaves", "From Artemisia pallens flower heads", "From Coleus forskohlii tuberous roots", "From Cymbopogon flexuosus leaves and shoots"],
+    correct: 3,
+    explanation: "Lemon grass oil is obtained from the leaves and shoots of Cymbopogon flexuosus and C. pendulus, Family Graminae."
+  },
+  {
+    id: "d281_069",
+    subject: "da-281",
+    question: "Lemon grass oil called 'Cochin oil' is produced in which Indian state?",
+    options: ["Tamil Nadu state produces Cochin oil", "Karnataka state produces Cochin oil", "Kerala state produces Cochin oil", "Andhra Pradesh state produces this oil"],
+    correct: 2,
+    explanation: "The east India oil from C. flexuosus is called 'Cochin oil' since it is produced in Kerala. C. pendulus is the North Indian or Jammu lemon grass."
+  },
+  {
+    id: "d281_070",
+    subject: "da-281",
+    question: "What is the plant density of Lemon grass when spaced at 30 cm x 30 cm?",
+    options: ["5000 plants per hectare at that spacing", "20000 plants per hectare at spacing", "11000 plants per hectare at that spacing", "25000 plants per hectare at spacing"],
+    correct: 2,
+    explanation: "Lemon grass is planted at a spacing of 30 cm x 30 cm with a plant density of 11,000 per hectare."
+  },
+  {
+    id: "d281_071",
+    subject: "da-281",
+    question: "Java citronella oil is obtained from which species of Cymbopogon grass?",
+    options: ["From Cymbopogon martini var. motia", "From Cymbopogon flexuosus east India", "From Cymbopogon nardus Ceylon type", "From Cymbopogon winterianus Java type"],
+    correct: 3,
+    explanation: "Citronella oil is of two types: Ceylon citronella oil from Cymbopogon nardus and Java citronella oil from Cymbopogon winterianus (superior type)."
+  },
+  {
+    id: "d281_072",
+    subject: "da-281",
+    question: "Which perfumery chemicals in Citronella oil are used in soap and cosmetic industries?",
+    options: ["Methyl eugenol, camphor and citral present", "Andrographolide, sennoside and withanine", "Citronellal, Citronellol and Geraniol present", "Forskolin, withanine and somniferine present"],
+    correct: 2,
+    explanation: "Citronella oil contains important perfumery chemicals like Citronellal, Citronellol and Geraniol used in soap, perfumery, cosmetic and flavouring industries."
+  },
+  {
+    id: "d281_073",
+    subject: "da-281",
+    question: "Palmarosa (Cymbopogon martini) is commonly known by which popular names?",
+    options: ["Russa grass or Indian geranium grass", "Bengal grass or Deccan geranium grass", "Jammu grass or north Indian grass", "Cochin grass or Kerala geranium grass"],
+    correct: 0,
+    explanation: "Cymbopogon martini is commonly known as Russa grass or Indian geranium or Ginger grass, native to subtropical India."
+  },
+  {
+    id: "d281_074",
+    subject: "da-281",
+    question: "What is the ideal soil pH for Palmarosa cultivation?",
+    options: ["pH range of 8.5 to 9.0 is ideal", "pH range of 4.0 to 5.0 is ideal", "pH range of 9.0 to 10.0 is ideal", "pH range of 6 to 7 is ideal"],
+    correct: 3,
+    explanation: "Palmarosa grows well in well drained clay loam soils. Soil pH of 6 to 7 is ideal. A rise in pH above 8.5 decreases growth and oil yield."
+  },
+  {
+    id: "d281_075",
+    subject: "da-281",
+    question: "The oil yield of Palmarosa from irrigated crop from second year onwards is approximately:",
+    options: ["Oil yield of 50 to 80 kg per hectare", "Oil yield of 500 to 600 kg per hectare", "Oil yield of 220 to 250 kg per hectare", "Oil yield of 1000 to 1200 kg per hectare"],
+    correct: 2,
+    explanation: "Oil yield of about 220-250 kg/ha may be obtained from the second year onwards from irrigated Palmarosa crop."
+  },
+  {
+    id: "d281_076",
+    subject: "da-281",
+    question: "Geranium (Pelargonium graveolens) is also known by which popular name?",
+    options: ["Rose geranium or poor man's rose", "Indian geranium aromatic grass", "Bengal geranium aromatic shrub", "Indian ginseng medicinal plant"],
+    correct: 0,
+    explanation: "Geranium (Pelargonium graveolens) is also known as rose geranium (or poor man's rose), with a strong rose-like odour."
+  },
+  {
+    id: "d281_077",
+    subject: "da-281",
+    question: "What are the chief oil constituents of Geranium essential oil?",
+    options: ["Citronellal and limonene compounds present", "Methyl eugenol and camphor present", "Andrographolide and sennoside present", "Geranial and Citronellol as constituents"],
+    correct: 3,
+    explanation: "The chief constituents of Geranium oil are geranial and Citronellol. It is used in scenting soaps and for the isolation of Rhodinal."
+  },
+  {
+    id: "d281_078",
+    subject: "da-281",
+    question: "How many cuttings or harvests of Geranium can be obtained in a year?",
+    options: ["1 cutting per year after harvest", "7 cuttings per year after harvest", "3 cuttings per year from the crop", "5 cuttings per year from the crop"],
+    correct: 2,
+    explanation: "Geranium reaches the next harvesting stage in 4 months after each harvest, so a total of 3 harvests can be obtained in a year."
+  },
+  {
+    id: "d281_079",
+    subject: "da-281",
+    question: "The scientific name and family of Davana is:",
+    options: ["Artemisia pallens, family Asteraceae", "Pelargonium graveolens, family Geraniaceae", "Coleus forskohlii, family Lamiaceae", "Cymbopogon martini, family Poaceae"],
+    correct: 0,
+    explanation: "The scientific name of Davana is Artemisia pallens, belonging to family Asteraceae."
+  },
+  {
+    id: "d281_080",
+    subject: "da-281",
+    question: "Davana should be harvested at which flowering stage for maximum essential oil yield?",
+    options: ["At 10 percent flowering stage", "At 75 percent flowering stage", "At 100 percent seed set stage", "At 50 percent flowering stage"],
+    correct: 3,
+    explanation: "To obtain maximum essential oil yield, Davana plants should be harvested when about 50% of them have come to flowering stage."
+  },
+  {
+    id: "d281_081",
+    subject: "da-281",
+    question: "What is the average fresh herbage yield of Davana per hectare including flower heads?",
+    options: ["Around 30 to 50 tonnes per hectare", "Around 1 to 3 tonnes per hectare", "Around 25 to 30 tonnes per hectare", "Around 10 to 15 tonnes per hectare"],
+    correct: 3,
+    explanation: "The yield of fresh Davana herbage including flower heads (about 45%) is around 10-15 ton per hectare from main and ratoon crop."
+  },
+  {
+    id: "d281_082",
+    subject: "da-281",
+    question: "In Pongamia oil, what is the major fatty acid and its percentage composition?",
+    options: ["Palmitic acid as major at 11 percent", "Stearic acid as major at 7.5 percent", "Oleic acid as major at 51.59 percent", "Linoleic acid as major at 16 percent"],
+    correct: 2,
+    explanation: "In Pongamia oil, Oleic acid is the major fatty acid component at 44.5-71.3% (average 51.59%), followed by Linoleic acid at 10.8-18.3%."
+  },
+  {
+    id: "d281_083",
+    subject: "da-281",
+    question: "Pongamia (Karanja) belongs to which plant family?",
+    options: ["Leguminaceae family of flowering trees", "Euphorbiaceae family of toxic plants", "Meliaceae family of tropical trees", "Myrtaceae family of aromatic plants"],
+    correct: 0,
+    explanation: "Pongamia pinnata belongs to family Leguminaceae. It is considered to be a native of the Western Ghats."
+  },
+  {
+    id: "d281_084",
+    subject: "da-281",
+    question: "Grafted Pongamia plants start fruiting how many years after planting?",
+    options: ["Grafted plants fruit in 1-2 years", "Grafted plants fruit in 8-10 years", "Grafted plants fruit in 6-7 years", "Grafted plants fruit in 4 years after planting"],
+    correct: 3,
+    explanation: "Plants raised from seeds takes 5-6 years for fruiting whereas grafted Pongamia plants start fruiting four years after planting."
+  },
+  {
+    id: "d281_085",
+    subject: "da-281",
+    question: "What is the germination percentage of Neem seeds?",
+    options: ["Germination rate of 20-30 percent", "Germination rate of 40-50 percent", "Germination rate of 70-90 percent", "Germination rate of 90-100 percent"],
+    correct: 2,
+    explanation: "The germination percentage of Neem seeds varies from 70-90%. Neem starts bearing from 5th year onwards."
+  },
+  {
+    id: "d281_086",
+    subject: "da-281",
+    question: "The Algerian or Tunisian variety of Geranium yields how much more oil than Reunion type?",
+    options: ["Yields 10 to 20 percent more oil", "Yields 25 to 30 percent more oil", "Yields 50 to 60 percent more oil", "Yields 100 to 120 percent more oil"],
+    correct: 2,
+    explanation: "Algerian or Tunisian Geranium variety yields 50-60% more oil with a more delicate odour than that of Reunion type."
+  },
+  {
+    id: "d281_087",
+    subject: "da-281",
+    question: "Gum Karaya used in pharmaceutical industries is obtained from which tree species?",
+    options: ["Acacia nilotica the babul tree", "Sterculia urens and S. villosa trees", "Butea monosperma the flame tree", "Pterocarpus spp. Malabar Kino tree"],
+    correct: 1,
+    explanation: "The most important Indian gum is gum Karaya obtained from Sterculia urens and S. villosa, both trees of dry deciduous forests."
+  },
+  {
+    id: "d281_088",
+    subject: "da-281",
+    question: "Bombax Ceiba is cited as the most favourable raw material for which industry?",
+    options: ["Paper industry requires Bombax Ceiba", "Furniture industry requires this wood", "Railway industry uses Bombax Ceiba", "Matchstick industry uses Bombax Ceiba"],
+    correct: 3,
+    explanation: "Bombax Ceiba is the most favourable matchwood species. Main characteristics are round, soft, straight grained, light in weight and free from knots."
+  },
+  {
+    id: "d281_089",
+    subject: "da-281",
+    question: "Indian sandal wood oil is obtained by distillation of which part of the sandal tree?",
+    options: ["Heartwood of the sandal tree", "Bark of the sandal tree trunk", "Leaves and shoots of sandal tree", "Resin from tapping of sandal bark"],
+    correct: 0,
+    explanation: "Indian sandal wood oil is obtained by distillation of heartwood of sandal, an evergreen parasitic tree."
+  },
+  {
+    id: "d281_090",
+    subject: "da-281",
+    question: "The Kittal fibre of commerce is obtained from leaves of which palm species?",
+    options: ["From Arecanut palm Areca catechu leaves", "From Coconut palm Cocos nucifera leaves", "From Sago palm Caryota urens leaves", "From Date palm Phoenix dactylifera leaves"],
+    correct: 2,
+    explanation: "From the leaves of sago palm or Bustard sago Caryota urens is obtained the Kittal fibre of commerce, found in moist forests of Assam, Orissa and East Bengal."
+  },
+  {
+    id: "d281_091",
+    subject: "da-281",
+    question: "Globally what fraction of land area is forest versus India's fraction of total land?",
+    options: ["Globe has 1/3rd, India has 1/4th area", "Globe has 1/4th, India has 1/3rd area", "Globe has 1/5th, India has 1/4th area", "Globe has 1/4th, India has 1/5th area"],
+    correct: 3,
+    explanation: "Globally, 1/4th of the land area is occupied by forests whereas in India, it covers 1/5th of the total land area."
+  },
+  {
+    id: "d281_092",
+    subject: "da-281",
+    question: "A park with 50 m wide forest belt reduces traffic sound by how many decibels?",
+    options: ["5 to 10 decibels reduction in sound", "50 to 60 decibels reduction in sound", "1 to 5 decibels reduction in sound", "20 to 30 decibels reduction in sound"],
+    correct: 3,
+    explanation: "Based on a study, a park with 50 m wide reduces the traffic sound to 20-30 decibels. Some believe coniferous forests decrease Bronchitis diseases."
+  },
+  {
+    id: "d281_093",
+    subject: "da-281",
+    question: "In the Taungya system farmers are allowed to grow food crops for how many years?",
+    options: ["For 5 to 8 years food crops grown", "For 8 to 10 years food crops grown", "For 1 to 3 years before canopy closure", "For 4 to 5 years food crops grown"],
+    correct: 2,
+    explanation: "In the Taungya system, before the canopy closure (1-3 years) or shade becomes too dense, farmers are allowed to plant food crops."
+  },
+  {
+    id: "d281_094",
+    subject: "da-281",
+    question: "What type of agroforestry system integrates forest trees with fiber yielding plants?",
+    options: ["Agri-Silviculture system integrates forest arable", "Silvipastoral system integrates trees fodder", "TIMFIB system integrates timber and fibre", "Horti-Pastoral system integrates fruit grass"],
+    correct: 2,
+    explanation: "TIMFIB (Timber-cum-Fibre System) is an agroforestry system that involves integration of timber yielding tree species with fiber yielding plants."
+  },
+  {
+    id: "d281_095",
+    subject: "da-281",
+    question: "What is the average tannin content of a good commercial sample of Karakkaya (Harra) fruits?",
+    options: ["About 5 percent tannin content", "About 15 percent tannin content", "About 32 percent tannin content", "About 60 percent tannin content"],
+    correct: 2,
+    explanation: "The average tanning content of a good commercial sample of Karakkaya (Harra) is 32%. The best time of collection is January."
+  },
+  {
+    id: "d281_096",
+    subject: "da-281",
+    question: "Lemon grass requires how much nitrogen fertilizer per hectare per annum?",
+    options: ["Requires 50 kg N per ha per year", "Requires 100 kg N per ha per year", "Requires 500 kg N per ha per year", "Requires 275 kg N per ha per year"],
+    correct: 3,
+    explanation: "Lemon grass is an exhaustive crop and it requires 275 kg N, 25 kg P2O5 and 175 kg K2O per hectare per annum."
+  },
+  {
+    id: "d281_097",
+    subject: "da-281",
+    question: "What is the average yield of Lemon grass oil per hectare from second year onwards?",
+    options: ["Oil yield 350 to 400 kg per hectare", "Oil yield 50 to 80 kg per hectare", "Oil yield 800 to 1000 kg per hectare", "Oil yield 100 to 150 kg per hectare"],
+    correct: 0,
+    explanation: "An average oil yield of about 350-400 kg/ha from the second year onwards is considered satisfactory for Lemon grass."
+  },
+  {
+    id: "d281_098",
+    subject: "da-281",
+    question: "What is the average Ashwagandha dried root yield under good management practices?",
+    options: ["Around 1000 to 2000 kg per hectare", "Around 50 to 100 kg per hectare", "Around 300 to 500 kg per hectare", "Around 100 to 150 kg per hectare"],
+    correct: 2,
+    explanation: "An average yield of 300-500 kg/ha of dried roots and 50-70 kg/ha of seeds can be obtained from Ashwagandha under good management practices."
+  },
+  {
+    id: "d281_099",
+    subject: "da-281",
+    question: "Dona method of container planting uses cups made from leaves of which plants?",
+    options: ["Made from teak and bamboo leaves", "Made from neem and eucalyptus leaves", "Made from pongamia and subabul leaves", "Made from Bauhinia vahlii and Butea monosperma"],
+    correct: 3,
+    explanation: "Dona is a cup shaped structure made up of leaves of Bauhinia vahlii and Butea monosperma, filled with soil for raising seedlings."
+  },
+  {
+    id: "d281_100",
+    subject: "da-281",
+    question: "What percentage of fuel wood demand of rural India is met from forests?",
+    options: ["About 25 percent met from forests", "About 50 percent met from forests", "About 90 percent met from forests", "About 75 percent met from forests"],
+    correct: 3,
+    explanation: "About 75% of the fuel wood demand of rural people is met from the forests, which is a major reason for forest degradation."
+  },
 ];

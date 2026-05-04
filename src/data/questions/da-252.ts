@@ -4,809 +4,801 @@ export const da252Questions: Question[] = [
   {
     id: "d252_001",
     subject: "da-252",
-    question: "The science of measuring land areas and distances on earth's surface is called:",
-    options: ["Surveying", "Astronomy", "Geodesy", "Cartography"],
+    question: "Surveying is defined as the art of determination of horizontal distances, differences in elevation, directions, angles, locations, areas and volumes:",
+    options: ["on the moon's surface only", "on or near the earth's surface", "only above the earth's surface", "only beneath the earth's surface"],
     correct: 0,
-    explanation: "Surveying is the science and art of making measurements of the relative positions of points on, above, or beneath the earth's surface. It is used for preparing maps, establishing boundaries, and planning construction."
+    explanation: "Surveying is the art of determination of horizontal distances, differences in elevation, directions, angles, locations, areas and volumes on or near the surface of the earth."
   },
   {
     id: "d252_002",
     subject: "da-252",
-    question: "The standard Gunter's chain has a length of:",
-    options: ["10 metres", "20 metres", "66 feet (20.12 m)", "30 metres"],
+    question: "In which type of surveying is the curvature of the earth taken into account?",
+    options: ["Plane surveying", "Geodetic surveying", "Agricultural surveying", "Cadastral surveying"],
     correct: 2,
-    explanation: "Gunter's chain (surveyor's chain) is 66 feet (approximately 20.12 metres) long and consists of 100 links, each link being 0.66 feet (about 7.92 inches). 10 chains × 10 chains = 1 acre."
+    explanation: "Geodetic surveying (also called trigonometrical surveying) takes the curvature of the earth into account because it covers large distances and areas."
   },
   {
     id: "d252_003",
     subject: "da-252",
-    question: "One acre is equal to:",
-    options: ["100 square metres", "4047 square metres (40.47 ares)", "1000 square metres", "10000 square metres"],
+    question: "The primary object of a survey is:",
+    options: ["Measuring soil pH levels", "Preparation of a plan or map", "Determining crop yields", "Calculating water table depth"],
     correct: 1,
-    explanation: "1 acre = 4047 square metres = 40.47 ares = 0.4047 hectares. 1 hectare = 2.471 acres. In traditional units: 1 acre = 100 cents = 4 roods = 160 square chains (Gunter's)."
+    explanation: "The primary object of a survey is the preparation of a plan or map. A plan is the representation to some scale of the ground and objects upon it as projected on a horizontal plane."
   },
   {
     id: "d252_004",
     subject: "da-252",
-    question: "One hectare is equal to:",
-    options: ["1000 m²", "5000 m²", "100000 m²", "10000 m²"],
+    question: "A map differs from a plan in that a map uses:",
+    options: ["Larger scale than a plan", "Smaller scale than a plan", "The same scale as a plan", "No scale at all"],
     correct: 3,
-    explanation: "1 hectare = 10,000 square metres (100 m × 100 m). 1 hectare = 2.471 acres. The hectare is the standard unit for measuring agricultural land area in the metric system."
+    explanation: "The representation is called a map if the scale is small and a plan if the scale is large. On a plan, only horizontal distances are shown."
   },
   {
     id: "d252_005",
     subject: "da-252",
-    question: "A ranging rod is used in chain surveying for:",
-    options: ["Marking straight lines and stations", "Measuring distances", "Measuring angles", "Measuring elevations"],
+    question: "Agricultural surveying includes laying out contour and terrace lines for:",
+    options: ["Soil conservation and drainage", "Planting ornamental trees", "Measuring crop density", "Estimating harvest yield"],
     correct: 0,
-    explanation: "Ranging rods (ranging poles) are 2–3 metre long rods with alternating red and white bands, used to mark survey stations and establish straight lines between two distant points during chain surveying."
+    explanation: "Agricultural surveying is a simple plane surveying that includes laying out contour and terrace lines for soil conservation, drainage lines, profile lines for land leveling, and ditch lines for irrigation."
   },
   {
     id: "d252_006",
     subject: "da-252",
-    question: "The instrument used to set out right angles in chain surveying is:",
-    options: ["Prismatic compass", "Theodolite", "Cross staff", "Plane table"],
+    question: "Which distance measuring method uses a watch-like instrument carried in the person's pocket?",
+    options: ["Chaining method", "Passometer method", "Pacing method", "Float method"],
     correct: 2,
-    explanation: "A cross staff is a simple instrument used in chain surveying to set out right angles (90°) from the survey line. An optical square is a more accurate instrument for the same purpose."
+    explanation: "The passometer is a watch-like instrument carried in the person's pocket or tied on the leg. It records the paces when the person moves from one point to another, overcoming the monotony of counting paces."
   },
   {
     id: "d252_007",
     subject: "da-252",
-    question: "Levelling is the operation of:",
-    options: ["Measuring horizontal distances", "Determining the relative heights (elevations) of different points on earth's surface", "Setting out right angles", "Measuring land area"],
+    question: "An odometer measures distance by recording:",
+    options: ["Number of steps taken", "Number of wheel revolutions", "Time taken to travel", "Angle of slope"],
     correct: 1,
-    explanation: "Levelling is the operation of measuring the relative heights (elevations) of different points on the earth's surface with respect to a datum (reference level). It is essential for irrigation channel design and land development."
+    explanation: "An odometer is an instrument that measures the number of revolutions of a wheel. Revolutions multiplied by the circumference of the wheel gives the distance covered."
   },
   {
     id: "d252_008",
     subject: "da-252",
-    question: "Mean Sea Level (MSL) is used as the datum for levelling in India because:",
-    options: ["It is convenient", "It represents a fixed, stable reference elevation", "All of the above", "It is at zero elevation"],
+    question: "The most accurate method of measuring distances in surveying is:",
+    options: ["Pacing", "Judging by time", "Chaining", "Float method"],
     correct: 3,
-    explanation: "Mean Sea Level (MSL) at Mumbai (Bombay) is the standard datum (zero elevation reference) for all levelling in India. All elevations (Reduced Levels) in India are measured above or below this datum."
+    explanation: "Chaining is the most accurate of all the methods of measuring distance and is commonly used. A steel tape is used where great accuracy is required."
   },
   {
     id: "d252_009",
     subject: "da-252",
-    question: "The instrument used for measuring angles in the field is:",
-    options: ["Prismatic compass", "Dumpy level", "Staff", "Chain"],
+    question: "A metric chain of 20 m length has how many links?",
+    options: ["50 links", "75 links", "100 links", "150 links"],
     correct: 0,
-    explanation: "A prismatic compass measures horizontal angles (bearings) in the field. It has a magnetic needle and a prism that allows simultaneous reading of the graduated ring while sighting the object. Used in chain surveying and traversing."
+    explanation: "A 20 m metric chain is provided with 100 links, with each link being 0.2 m (20 cm) long. A 30 m chain has 150 links."
   },
   {
     id: "d252_010",
     subject: "da-252",
-    question: "The angle measured from north in a clockwise direction is called:",
-    options: ["Latitude", "Azimuth", "Bearing", "Declination"],
+    question: "Gunter's chain is also known as:",
+    options: ["Revenue chain", "Engineer's chain", "Surveyor's chain", "Steel band chain"],
     correct: 2,
-    explanation: "Bearing is the horizontal angle between the magnetic north direction and the survey line, measured clockwise. Whole Circle Bearing (WCB) ranges from 0° to 360°. Quadrantal Bearing (QB) uses N/S as reference."
+    explanation: "Gunter's chain is also called the surveyor's chain. It is 66 ft long and divided into 100 links. It is convenient for measuring distances in miles and furlongs and for measuring land in acres."
   },
   {
     id: "d252_011",
     subject: "da-252",
-    question: "A contour line connects points of:",
-    options: ["Equal rainfall", "Equal elevation (height)", "Equal slope", "Equal soil type"],
-    correct: 1,
-    explanation: "A contour line is an imaginary line connecting all points of equal elevation on a topographic map. Contour maps are used to understand terrain, plan irrigation channels, design terraces, and calculate cut-and-fill volumes."
+    question: "How many Gunter's chains equal one furlong?",
+    options: ["10 chains", "20 chains", "80 chains", "100 chains"],
+    correct: 0,
+    explanation: "10 Gunter's chains = 1 furlong, 80 Gunter's chains = 1 mile, and 10 square Gunter's chains = 1 acre."
   },
   {
     id: "d252_012",
     subject: "da-252",
-    question: "Contour lines that are close together indicate:",
-    options: ["Gentle slope", "Valley", "Flat terrain", "Steep slope"],
-    correct: 3,
-    explanation: "When contour lines are closely spaced, it indicates a steep slope (rapid change in elevation over short horizontal distance). Widely spaced contours indicate a gentle slope or nearly flat terrain."
+    question: "The Revenue chain used for cadastral surveys is:",
+    options: ["33 ft long with 16 links", "66 ft long with 100 links", "100 ft long with 100 links", "20 m long with 100 links"],
+    correct: 2,
+    explanation: "The Revenue chain is 33 ft long and divided into 16 links. It is commonly used for measuring fields in cadastral surveys."
   },
   {
     id: "d252_013",
     subject: "da-252",
-    question: "The difference in elevation between two consecutive contour lines is called:",
-    options: ["Contour interval", "Contour gradient", "Horizontal equivalent", "Reduced level"],
-    correct: 0,
-    explanation: "The contour interval is the vertical difference in elevation between two consecutive contour lines. Common intervals: 0.5 m (flat), 1–2 m (undulating), 5–10 m (hilly terrain). Smaller interval = more detailed map."
+    question: "Invar tape is made of an alloy of steel (64%) and nickel (36%). Its main advantage is:",
+    options: ["Very high tensile strength", "Very low coefficient of thermal expansion", "Resistance to corrosion in water", "Low manufacturing cost"],
+    correct: 1,
+    explanation: "Invar tape has a very low coefficient of thermal expansion (0.6 × 10⁻⁴ per °C). It is used for work of the highest precision such as measurement of base lines in triangulation."
   },
   {
     id: "d252_014",
     subject: "da-252",
-    question: "The reading taken on the levelling staff held on a point of known elevation is called:",
-    options: ["Foresight", "Intermediate sight", "Back sight", "Height of instrument"],
-    correct: 2,
-    explanation: "Back sight (BS) is the staff reading taken on a point of known elevation (benchmark or change point). It is used to calculate the Height of Instrument (HI = RL + BS). Foresight (FS) is taken on the final point."
+    question: "Ranging rods are painted alternately in which colors to make them visible at a distance?",
+    options: ["Blue and yellow alternately", "Red and white or black and white", "Green and orange alternately", "Brown and grey alternately"],
+    correct: 3,
+    explanation: "Ranging rods are painted alternately black and white, or red and white, or red, white and black successively to make them visible at a distance. Flags may also be attached at the top."
   },
   {
     id: "d252_015",
     subject: "da-252",
-    question: "A benchmark in surveying is:",
-    options: ["A survey station", "A point of known elevation permanently marked on a fixed object", "A measuring instrument", "A reference line"],
-    correct: 1,
-    explanation: "A benchmark (BM) is a permanent reference point of known elevation, marked on fixed structures like buildings, culverts, or specially constructed pillars. Survey of India benchmarks are inscribed with the reduced level above MSL."
+    question: "In chaining operations, the person at the rear end of the chain is called the:",
+    options: ["Leader or head chainman", "Follower or rear chainman", "Surveyor or observer", "Scout or pioneer"],
+    correct: 0,
+    explanation: "The chainman at the forward end is called the leader or head chainman, while the chainman at the rear end is known as the follower or rear chainman. The more experienced person should be the follower."
   },
   {
     id: "d252_016",
     subject: "da-252",
-    question: "The method of calculating area of an irregular field using the trapezoidal rule divides the field into:",
-    options: ["Triangles", "Rectangles", "Circles", "Trapezoids (strips)"],
-    correct: 3,
-    explanation: "The trapezoidal rule calculates area by dividing the field into equal-width strips (trapezoids) and summing their areas. Area = (d/2) × [first offset + last offset + 2 × (sum of intermediate offsets)], where d = strip width."
+    question: "A chain is found to be too long and needs adjustment. Which method is used?",
+    options: ["Adding extra links to the chain", "Closing up the joints of connecting rings", "Heating the chain to expand it", "Replacing the handle with a shorter one"],
+    correct: 2,
+    explanation: "If the chain is too long, it can be adjusted by closing up the joints of connecting rings, hammering back elongated rings, or removing some small rings."
   },
   {
     id: "d252_017",
     subject: "da-252",
-    question: "The area of a triangle with base b and height h is:",
-    options: ["b × h / 2", "b × h", "2 × b × h", "(b + h) / 2"],
-    correct: 0,
-    explanation: "Area of triangle = (base × height) / 2 = (b × h) / 2. For a triangle with known three sides (a, b, c), Heron's formula is used: Area = √[s(s-a)(s-b)(s-c)], where s = (a+b+c)/2."
+    question: "The operation of establishing intermediate points on a straight line between two terminal points is called:",
+    options: ["Chaining", "Offsetting", "Ranging", "Traversing"],
+    correct: 1,
+    explanation: "Ranging is the operation of establishing intermediate points on a straight line between the terminal points. It should be done prior to chaining and can be done by eye or with instruments like a line ranger or theodolite."
   },
   {
     id: "d252_018",
     subject: "da-252",
-    question: "In land measurement, 1 cent equals:",
-    options: ["1/10 acre", "1/1000 acre", "1/100 acre", "1 are"],
-    correct: 2,
-    explanation: "1 cent = 1/100 acre = 40.47 m². 100 cents = 1 acre. Note: 1 Guntha (Gunta) = 1/40 acre = 2.5 cents — Guntha and Cent are different units. This cent unit is commonly used in South India (Andhra Pradesh, Telangana, Tamil Nadu, Karnataka) for measuring small land parcels."
+    question: "Indirect ranging is used when end stations of a line are not inter-visible due to:",
+    options: ["Short distances between stations", "High ground or an intervening hill", "Flat and open terrain", "Presence of water bodies only"],
+    correct: 3,
+    explanation: "Indirect ranging is adopted when end stations are not inter-visible due to high ground or intervening hill, or when ends are not distinctly visible because the distance is too great."
   },
   {
     id: "d252_019",
     subject: "da-252",
-    question: "A dumpy level is an instrument used for:",
-    options: ["Measuring distances", "Measuring differences in elevation", "Measuring horizontal angles", "Measuring soil depth"],
-    correct: 1,
-    explanation: "A dumpy level (engineer's level) is used for measuring differences in elevation between points. It has a telescope fixed to a horizontal axis and a spirit level. It is simpler and sturdier than other levels and widely used in agriculture."
+    question: "When a chain is too short, the measured distance compared to the actual distance will be:",
+    options: ["Equal to the actual distance", "Less than the actual distance", "More than the actual distance", "Half the actual distance"],
+    correct: 2,
+    explanation: "If the chain is too long, measured distance will be less than actual. If the chain is short, the measured distance will be more than the actual distance. The correction formula uses the ratio of incorrect to correct chain length."
   },
   {
     id: "d252_020",
     subject: "da-252",
-    question: "The gradient (slope) of a channel or road is expressed as:",
-    options: ["Horizontal distance / Vertical rise", "Angle in degrees only", "Vertical rise × Horizontal distance", "Vertical rise / Horizontal distance"],
-    correct: 3,
-    explanation: "Gradient = Vertical rise / Horizontal distance, expressed as 1 in N (e.g., 1 in 200 means 1 m fall for every 200 m horizontal distance). For irrigation channels, gentle gradients (1:500 to 1:2000) are used to maintain flow without erosion."
+    question: "Cumulative errors in chaining are those that:",
+    options: ["Compensate in both directions", "Occur randomly and cancel out", "Accumulate in the same direction", "Only occur on slopes"],
+    correct: 0,
+    explanation: "Cumulative errors occur in the same direction and tend to add up or accumulate, making the apparent measurement always too long or too short. Positive errors make measured length more than actual; negative errors make it less."
   },
   {
     id: "d252_021",
     subject: "da-252",
-    question: "The method of surveying using a table and alidade in the field is called:",
-    options: ["Plane table surveying", "Chain surveying", "Theodolite surveying", "Aerial surveying"],
-    correct: 0,
-    explanation: "Plane table surveying uses a drawing board (plane table) and alidade (sighting rule) to plot the map directly in the field. It eliminates errors of computation and plotting — what you measure, you draw immediately."
+    question: "The base line in chain surveying is:",
+    options: ["Any convenient survey line", "The shortest chain line used", "The longest chain line passing through the area centre", "A line connecting two boundary stones"],
+    correct: 2,
+    explanation: "The base line is the longest chain line in chain surveying. It is the most important line on which the whole framework of triangles is based. It should pass through the centre of the area and be accurately measured."
   },
   {
     id: "d252_022",
     subject: "da-252",
-    question: "The Indian unit 'bigha' varies by state. One bigha in Telangana/Andhra Pradesh is approximately:",
-    options: ["0.1 acre", "2.5 acres", "0.5 acre", "5 acres"],
+    question: "Check lines in chain surveying are also called:",
+    options: ["Base lines", "Tie lines", "Proof lines", "Offset lines"],
     correct: 2,
-    explanation: "In Telangana and Andhra Pradesh, 1 Bigha ≈ 0.5 acres. However, the bigha varies widely across states — from 0.3 acres in some states to 1.6 acres in others. The standard unit for official records is hectares/acres."
+    explanation: "Check lines are also called proof lines. They help to check mistakes in measurement and plotting. Every triangle in the survey should be provided with a check line."
   },
   {
     id: "d252_023",
     subject: "da-252",
-    question: "What is the area of a rectangle that is 100 m long and 50 m wide?",
-    options: ["150 m²", "5000 m²", "500 m²", "10000 m²"],
+    question: "Reconnaissance in chain surveying refers to:",
+    options: ["Plotting the survey on paper", "Preliminary inspection of the area to be surveyed", "Setting up the ranging rods", "Measuring the base line"],
     correct: 1,
-    explanation: "Area of rectangle = Length × Width = 100 m × 50 m = 5000 m² = 0.5 hectares = 1.24 acres. Area calculation is fundamental in agricultural surveying for determining field size, crop area, and input requirements."
+    explanation: "Reconnaissance is the preliminary inspection of the area to be surveyed. The surveyor walks over the whole area to note boundaries, positions of buildings, roads, streams and suitable station positions."
   },
   {
     id: "d252_024",
     subject: "da-252",
-    question: "Prismatic compass works on the principle of:",
-    options: ["Sun position", "Electric current", "Gravity", "Magnetic needle pointing north"],
+    question: "A field book used for noting survey readings opens:",
+    options: ["Width-wise with vertical red lines", "Length-wise with single or double red lines", "Like a regular notebook vertically", "With a grid pattern for plotting"],
     correct: 3,
-    explanation: "A prismatic compass works on the principle that a freely suspended magnetic needle always points towards the magnetic north. The angle of the survey line with respect to magnetic north is the bearing of the line."
+    explanation: "A field book is about 22.5 cm long and 12.5 cm wide and opens lengthwise. Single or double red lines are drawn in the middle, with chainage lengths noted between them. Booking commences from the bottom of the page upward."
   },
   {
     id: "d252_025",
     subject: "da-252",
-    question: "The correction applied in chain surveying for the slope of the ground is called:",
-    options: ["Slope correction", "Sag correction", "Temperature correction", "Pull correction"],
+    question: "Simpson's rule for area calculation assumes that the boundary portions between ordinates are:",
+    options: ["Straight lines", "Circular arcs", "Parabolic curves", "Elliptical curves"],
     correct: 0,
-    explanation: "Slope correction reduces the slant measurement to horizontal distance. Slope correction (Ch) = –L × (1 – cosθ) ≈ –h²/2L, where L = slant length, θ = angle of slope, h = height difference. Horizontal distance = Slope distance – Slope correction."
+    explanation: "Simpson's rule assumes that the different parts are portions of parabolic areas, whereas the Trapezoidal rule and other rules assume that the boundaries between extremities are straight lines."
   },
   {
     id: "d252_026",
     subject: "da-252",
-    question: "The process of fixing permanent survey stations by driving pegs or pillars is called:",
-    options: ["Ranging", "Chaining", "Setting out", "Benchmarking"],
+    question: "In the Trapezoidal rule for area calculation, to the sum of first and last ordinates one adds:",
+    options: ["Four times the sum of odd ordinates", "Three times all intermediate ordinates", "Twice the sum of intermediate ordinates", "Half the sum of all ordinates"],
     correct: 2,
-    explanation: "Setting out (establishing survey stations) involves placing permanent markers (wooden pegs, concrete pillars, iron rods) at key points to be measured. Survey stations are fixed at strategic locations that provide good sighting lines."
+    explanation: "Trapezoidal rule: add twice the sum of intermediate ordinates to the sum of first and last ordinates. Multiply total by common distance and divide by 2. This is more accurate than the mid-ordinate or average ordinate rules."
   },
   {
     id: "d252_027",
     subject: "da-252",
-    question: "What is 1 square kilometre equal to in hectares?",
-    options: ["10 ha", "100 ha", "1000 ha", "10000 ha"],
+    question: "Which area calculation rule gives results that are more accurate than the Trapezoidal rule?",
+    options: ["Mid-ordinate rule", "Average ordinate rule", "Simpson's rule", "Prismoidal rule"],
     correct: 1,
-    explanation: "1 square kilometre = 1000 m × 1000 m = 1,000,000 m² = 100 hectares. 1 ha = 10,000 m². These conversions are important in agricultural planning and remote sensing area calculations."
+    explanation: "Simpson's rule gives more accurate results than the Trapezoidal rule. Where great accuracy is required, Simpson's rule should be invariably used."
   },
   {
     id: "d252_028",
     subject: "da-252",
-    question: "Offsets in chain surveying are measurements taken:",
-    options: ["Along the survey chain line", "Along the boundaries only", "At angles other than 90°", "Perpendicular to the chain line to locate boundary features"],
+    question: "The maximum length of an offset in chain surveying is generally limited to:",
+    options: ["5 metres", "10 metres", "15 metres", "30 metres"],
     correct: 3,
-    explanation: "Offsets are short measurements taken perpendicular (or at known angles) from the main chain line to locate boundary points, buildings, trees, and other features. Perpendicular offsets can be set with a cross staff or optical square."
+    explanation: "The maximum length of offset should not exceed the length of the tape used. Generally, the maximum length is limited to 15 m, depending on desired accuracy, map scale, allowable deflection and nature of ground."
   },
   {
     id: "d252_029",
     subject: "da-252",
-    question: "The method of surveying using satellites and GPS is called:",
-    options: ["GPS/GNSS surveying", "Remote sensing", "Aerial surveying", "Plane table surveying"],
+    question: "Perpendicular offsets are preferred over oblique offsets mainly because they:",
+    options: ["Are more accurate for distant objects", "Can be taken quickly and entry in field book is easy", "Require more instruments to set out", "Are only suitable for straight boundaries"],
     correct: 0,
-    explanation: "GPS (Global Positioning System) / GNSS surveying uses signals from satellites to determine precise positions (latitude, longitude, elevation) on earth's surface. Modern GPS instruments can achieve centimetre-level accuracy."
+    explanation: "Perpendicular offsets are preferred because they can be taken quickly, the progress of survey is not hampered, the entry in the field book becomes easy, and the plotting of offsets is also easy."
   },
   {
     id: "d252_030",
     subject: "da-252",
-    question: "Land records in Telangana are maintained in the document called:",
-    options: ["Khasra", "Jamabandi", "Pahani (1-B record)", "Field book"],
+    question: "The optical square works on the principle of:",
+    options: ["Refraction of light rays", "Reflection from two mirrors at 45° to each other", "Diffraction of light waves", "Absorption of infrared radiation"],
     correct: 2,
-    explanation: "In Telangana, Pahani (also called Record of Rights or 1-B) is the official land record document. It contains details of ownership, land use, crop details, and tenancy. It is essential for loans, government schemes, and legal purposes."
+    explanation: "The optical square works on the principle of reflection. It has a horizontal mirror (H) and index mirror (I) placed at an angle of 45° to each other. The mirror H is half silvered and mirror I is fully silvered."
   },
   {
     id: "d252_031",
     subject: "da-252",
-    question: "The instrument used to measure angles in a theodolite survey is:",
-    options: ["Planimeter", "Theodolite", "Alidade", "Staff"],
+    question: "In compass surveying, a closed traverse is one in which:",
+    options: ["The line returns to the starting point", "The sides form a closed polygon", "Directions are fixed by angular measurements", "The chain lines are all equal"],
     correct: 1,
-    explanation: "A theodolite is a precision optical instrument used for measuring horizontal and vertical angles. It is widely used in triangulation surveys, setting out alignments, and establishing control points for large-scale surveys."
+    explanation: "A closed traverse is a traverse in which the sides form a closed polygon. An open traverse is one in which the sides do not form a closed polygon."
   },
   {
     id: "d252_032",
     subject: "da-252",
-    question: "The unit of area used in metric system is:",
-    options: ["Acre", "Bigha", "Guntha", "Hectare"],
+    question: "In a prismatic compass, the graduated ring shows 0° at the:",
+    options: ["North end of the magnetic needle", "East end of the magnetic needle", "West end of the magnetic needle", "South end of the magnetic needle"],
     correct: 3,
-    explanation: "Hectare is the standard metric unit of area. 1 hectare = 10,000 m² = 2.471 acres. It is used in all government records, agricultural statistics, and international reports in India."
+    explanation: "In a prismatic compass, 0° is marked at the south end of the magnetic needle because readings are read at the opposite end of the object. At west it is 90°, north 180°, and east 270°."
   },
   {
     id: "d252_033",
     subject: "da-252",
-    question: "The instrument used for setting out right angles in chain surveying is:",
-    options: ["Cross staff / Optical square", "Compass", "Theodolite", "Abney level"],
+    question: "The prismatic compass has a graduated aluminum ring marked in degrees up to:",
+    options: ["90° in four quadrants", "180° in two semicircles", "270° in three quadrants", "360° in clockwise direction"],
     correct: 0,
-    explanation: "A cross staff or optical square is used to set out perpendicular (right angle, 90°) lines from the chain line. The optical square uses two mirrors inclined at 45° to each other to achieve the right angle."
+    explanation: "The prismatic compass has a graduated aluminum ring marked from 0° to 360° in the clockwise direction, with graduations in degrees to 30 minutes. The readings get reflected through a prism resulting in an erected image."
   },
   {
     id: "d252_034",
     subject: "da-252",
-    question: "The method of plotting survey data directly in the field on a drawing board is called:",
-    options: ["Chain surveying", "Theodolite traversing", "Plane table surveying", "Levelling"],
-    correct: 2,
-    explanation: "Plane table surveying is a graphical method where plotting is done directly in the field. The instrument (plane table) is set up and the observer plots the details on paper using a sighting device (alidade) while standing in the field."
+    question: "Fore bearing and back bearing of a survey line differ by:",
+    options: ["45°", "90°", "135°", "180°"],
+    correct: 3,
+    explanation: "BB = FB ± 180°. Use positive sign if FB < 180° (BB = FB + 180°) and negative sign if FB > 180° (BB = FB - 180°). Fore bearing is measured in the direction of survey progress; back bearing is opposite."
   },
   {
     id: "d252_035",
     subject: "da-252",
-    question: "The reduced level (RL) in levelling is the height of a point above:",
-    options: ["The highest point in the area", "The sea level (mean sea level)", "The instrument station", "Nearest benchmark"],
-    correct: 1,
-    explanation: "Reduced Level (RL) is the elevation of any point referred to Mean Sea Level (MSL). In India, all RLs are referred to the Great Trigonometrical Survey (GTS) datum, which is the MSL at Mumbai (Bombay)."
+    question: "A magnetic meridian is the direction indicated by:",
+    options: ["A fixed reference point on the map", "A freely suspended magnetic needle", "The north and south poles of the earth", "An assumed arbitrary reference direction"],
+    correct: 0,
+    explanation: "Magnetic meridian is the direction indicated by a freely suspended magnetic needle. True meridian is the line formed by the plane through north and south poles. Arbitrary meridian is any convenient assumed direction."
   },
   {
     id: "d252_036",
     subject: "da-252",
-    question: "A benchmark (BM) in surveying is:",
-    options: ["A mark on a bench", "The starting point of any traverse", "The highest point of a survey", "A permanent reference point with known elevation"],
-    correct: 3,
-    explanation: "A Benchmark (BM) is a permanent reference point whose elevation (RL) is accurately established. GTS benchmarks are set by the Survey of India. Temporary benchmarks (TBM) are set up for local surveys. They serve as starting points for levelling."
+    question: "A whole circle bearing of 210° falls in which quadrant bearing?",
+    options: ["N30°E quadrant", "N30°W quadrant", "S30°W quadrant", "S30°E quadrant"],
+    correct: 2,
+    explanation: "For WCB between 180° and 270° (Case III), the reduced bearing (RB) = WCB - 180° = 210° - 180° = 30°, and the quadrant is S.W. So the quadrant bearing is S30°W."
   },
   {
     id: "d252_037",
     subject: "da-252",
-    question: "The 'fly levelling' is used for:",
-    options: ["Rapid transfer of elevation from one point to another", "Determining height of trees", "Precise determination of levels", "Contouring"],
-    correct: 0,
-    explanation: "Fly levelling is a rapid form of levelling used to quickly transfer an elevation (RL) from one benchmark to another distant point. Only back sight and fore sight readings are taken; no intermediate sights. It gives approximate RL of a new TBM."
+    question: "Sheet erosion is described as:",
+    options: ["Deep channel cutting on slopes", "Uniform removal of surface soil in thin layers", "Formation of large gullies by runoff", "Wind removal of fine particles"],
+    correct: 1,
+    explanation: "Sheet erosion is the uniform removal of surface soil in thin layers by rainfall and runoff water. It is the first stage of erosion and is least conspicuous but the most extensive."
   },
   {
     id: "d252_038",
     subject: "da-252",
-    question: "The 'prismatic compass' measures angles with reference to:",
-    options: ["True north (geographic north)", "Grid north", "Magnetic north", "Benchmark"],
-    correct: 2,
-    explanation: "The prismatic compass measures magnetic bearings, i.e., angles measured from magnetic north. The prism in the compass allows the observer to sight the object and read the bearing simultaneously. It is used in reconnaissance surveys."
+    question: "Rill erosion starts when the runoff velocity exceeds approximately:",
+    options: ["0.1 to 0.3 mm/s", "0.3 to 0.7 mm/s", "1.0 to 2.0 mm/s", "5.0 to 10.0 mm/s"],
+    correct: 3,
+    explanation: "Rill erosion starts when the runoff exceeds 0.3 to 0.7 mm/s. Rills are small channels that can be removed by timely normal tillage operations. It is the second stage of erosion."
   },
   {
     id: "d252_039",
     subject: "da-252",
-    question: "A contour line on a map joins points of:",
-    options: ["Equal slope", "Equal elevation above datum", "Equal depth", "Equal distance from a reference point"],
-    correct: 1,
-    explanation: "A contour line is an imaginary line on a map joining points of equal elevation (altitude) above a datum (usually MSL). Contour maps are used for planning irrigation canals, reservoirs, roads, land levelling, and drainage systems."
+    question: "In wind erosion, the movement of soil particles in short bounces or jumps along the ground surface is called:",
+    options: ["Surface creep", "Suspension", "Saltation", "Abrasion"],
+    correct: 2,
+    explanation: "Saltation is the first stage of movement of soil particles in short bounces or jumps along the ground surface. The particle size moved by saltation is 0.1 to 0.5 mm diameter, and this process may account for 50 to 70% of total movement."
   },
   {
     id: "d252_040",
     subject: "da-252",
-    question: "Contour interval is defined as:",
-    options: ["Horizontal distance between two contours", "Distance between two benchmarks", "Scale of the map", "Vertical distance between two consecutive contours"],
-    correct: 3,
-    explanation: "Contour interval is the constant vertical distance between two consecutive contour lines on a map. A small contour interval indicates a gently sloping terrain; a large interval indicates steep terrain. Typical intervals: 0.5 m, 1 m, 2 m, 5 m."
+    question: "The minimum wind velocity required to initiate movement of most erodable soil particles (about 0.1 mm diameter) at 30.5 cm height is approximately:",
+    options: ["8 km/hr", "16 km/hr", "32 km/hr", "48 km/hr"],
+    correct: 0,
+    explanation: "The minimum wind velocity necessary for initiating movement of most erodable soil particles (about 0.1 mm diameter) is about 16 km/hr at a height of 30.5 cm. Under field conditions with mixed sizes, it is about 21 km/hr."
   },
   {
     id: "d252_041",
     subject: "da-252",
-    question: "The process of determining differences in elevation between points on the earth's surface is called:",
-    options: ["Levelling", "Surveying", "Traversing", "Ranging"],
-    correct: 0,
-    explanation: "Levelling is the branch of surveying that deals with the measurement of relative heights of points on the earth's surface. It is essential for designing irrigation channels, roads, drainage, and building projects."
+    question: "Delta in irrigation refers to:",
+    options: ["The flow rate at canal head", "Total depth of water required by a crop during its base period", "Number of hectares irrigated per cumec", "Area of command served by a canal"],
+    correct: 1,
+    explanation: "Delta is the total depth of water required by a crop during its entire base period. It is the total quantity of water (volume) divided by the total irrigated area, expressed in cm or inches."
   },
   {
     id: "d252_042",
     subject: "da-252",
-    question: "The height of the instrument (HI) in levelling is:",
-    options: ["Height of the tripod", "Length of the staff", "Elevation of the line of sight above datum", "Height of the benchmark"],
+    question: "The duty of irrigation water is expressed in units of:",
+    options: ["Litres per second", "Cubic metres per hour", "Hectares per cumec", "Millimetres per day"],
     correct: 2,
-    explanation: "Height of Instrument (HI) or Height of Collimation is the elevation of the line of sight (collimation line) above the datum. HI = RL of instrument station + Back sight reading. It is used in the HI method (collimation method) of levelling."
+    explanation: "Duty of water expresses the number of hectares of land that can be irrigated for full growth of a given crop by supplying 1 cumec water continuously during the entire base period. Its unit is hectare/cumec."
   },
   {
     id: "d252_043",
     subject: "da-252",
-    question: "In chain surveying, the area of a triangle is calculated using:",
-    options: ["Base × height", "All of the above", "Hero's formula (when three sides are known)", "Both a and c"],
+    question: "The relationship between Delta (Δ), Duty (D) and Base period (B) is expressed as:",
+    options: ["Δ = D/8.64B metres", "Δ = 8.64B/D metres", "Δ = 8.64D/B metres", "Δ = BD/8.64 metres"],
     correct: 1,
-    explanation: "Area of a triangle can be calculated using: (1) ½ × base × height when base and height are known; (2) Hero's (Heron's) formula = √[s(s-a)(s-b)(s-c)] where s = semi-perimeter, when all three sides (a, b, c) are known — commonly used in chain surveys."
+    explanation: "Delta = 8.64B/D metres, where B is the base period in days and D is the duty in hectares/cumec. This formula derives from the relationship that 1 cumec flowing for B days supplies water to D hectares."
   },
   {
     id: "d252_044",
     subject: "da-252",
-    question: "One hectare equals how many cents?",
-    options: ["100 cents", "1000 cents", "40 cents", "247.1 cents"],
+    question: "In the float method of measuring stream velocity, the surface velocity is multiplied by a factor of:",
+    options: ["0.65 to get mean velocity", "0.75 to get mean velocity", "0.85 to get mean velocity", "0.95 to get mean velocity"],
     correct: 3,
-    explanation: "1 hectare = 2.471 acres = 247.1 cents. 1 acre = 100 cents = 0.4047 hectares. The 'cent' is commonly used in South India (Tamil Nadu, Kerala, Andhra Pradesh, Telangana) for land measurement."
+    explanation: "The surface velocity is always higher than the average stream velocity. Therefore, the surface velocity is multiplied by a factor of 0.85 to get the average velocity. The cross-sectional area is measured at least in 3 places."
   },
   {
     id: "d252_045",
     subject: "da-252",
-    question: "What is the meaning of 'traverse' in surveying?",
-    options: ["A series of connected survey lines forming an open or closed polygon", "A single long survey line", "A type of compass", "The process of measuring offsets"],
+    question: "Major irrigation projects are defined as those irrigating an area greater than:",
+    options: ["500 ha", "2,000 ha", "5,000 ha", "10,000 ha"],
     correct: 0,
-    explanation: "A traverse is a series of connected survey lines (legs) forming an open or closed polygon. A closed traverse starts and ends at the same point (or at two known points). It is used to survey large areas or set out boundaries."
+    explanation: "Major irrigation projects irrigate an area of more than 10,000 ha. Medium irrigation projects cover 2,000 to 10,000 ha, and minor irrigation projects cover less than 2,000 ha."
   },
   {
     id: "d252_046",
     subject: "da-252",
-    question: "The 'magnetic declination' is the angle between:",
-    options: ["Magnetic north and south", "Grid north and true north", "True north and magnetic north", "East and west magnetic poles"],
+    question: "Flow irrigation refers to irrigation where canal water is available at a level such that it can flow:",
+    options: ["Through underground pipes to fields", "Over the adjoining land by gravity", "Only by pumping into the field", "Through sprinkler nozzles under pressure"],
     correct: 2,
-    explanation: "Magnetic declination is the horizontal angle between the direction of true (geographic) north and magnetic north at any given location. It varies with location and time. Surveyors must apply declination correction to convert magnetic bearings to true bearings."
+    explanation: "Flow irrigation is when irrigation water in canals is available at such a level that it can flow over the adjoining land by gravity. Lift irrigation requires water to be lifted before it can be applied to land."
   },
   {
     id: "d252_047",
     subject: "da-252",
-    question: "A village map showing the boundaries of all survey numbers in a village is called:",
-    options: ["Revenue map", "Village cadastral map (Tippan)", "Toposheet", "Contour map"],
+    question: "The check basin method of irrigation is most suitable for soils with:",
+    options: ["High permeability and coarse texture", "Low permeability and fine texture", "Sandy loam with moderate drainage", "Heavy clay with water repellent properties"],
     correct: 1,
-    explanation: "A village cadastral map (called Tippan in Andhra Pradesh/Telangana) shows the boundaries of all survey numbers (fields) in a village. It is prepared by the Village Revenue Officer (VRO) and maintained by the Revenue Department for land records."
+    explanation: "Check basin method is particularly useful on fine textured soils with low permeability rate where it is necessary to hold water on the surface to secure adequate penetration. It is commonly used for groundnut, finger millet, sorghum, vegetables."
   },
   {
     id: "d252_048",
     subject: "da-252",
-    question: "The Survey of India prepares topographic maps at scale:",
-    options: ["1:500", "1:10,000", "1:1,000", "1:25,000 and 1:50,000"],
+    question: "In border strip irrigation, the transverse slope should be:",
+    options: ["Greater than 2% for good drainage", "Between 1% and 3% for uniform flow", "Zero or negligible (less than 0.03%)", "Equal to the longitudinal slope"],
     correct: 3,
-    explanation: "The Survey of India prepares standard toposheets at 1:25,000 (District level) and 1:50,000 (State/National level) scales. These show relief, drainage, vegetation, settlements, roads, and other natural and cultural features."
+    explanation: "In border strip irrigation, the longitudinal slope must be uniform and the transverse slope must be zero or negligible (< 0.03%). Border strips are generally 5 to 15 m wide and 75 to 300 m long."
   },
   {
     id: "d252_049",
     subject: "da-252",
-    question: "The 'Dumpy level' is an instrument used for:",
-    options: ["Spirit levelling (height differences)", "Measuring horizontal distances", "Measuring angles", "Measuring slopes"],
+    question: "In the deep furrow method, inflow rates are normally limited to avoid overtopping and scouring to:",
+    options: ["0.5 to 2 m³/hr per furrow", "2 to 15 m³/hr per furrow", "20 to 50 m³/hr per furrow", "50 to 100 m³/hr per furrow"],
     correct: 0,
-    explanation: "A Dumpy level is a simple, robust optical levelling instrument used for spirit levelling to determine differences in elevation. It has a telescope rigidly fixed to the vertical axis and provides a horizontal line of sight when levelled."
+    explanation: "Furrow inflow rates are normally limited to 2 to 15 m³/hr per furrow to avoid overtopping and scouring problems. Slope along furrows may range from 0.2 to 2%. Furrow length ranges from 20 to 300 m or more depending on soil texture."
   },
   {
     id: "d252_050",
     subject: "da-252",
-    question: "In levelling, the reading on the staff held at a point of known elevation is called:",
-    options: ["Fore sight (FS)", "Intermediate sight (IS)", "Back sight (BS)", "Change point"],
+    question: "Sprinkler irrigation conveys water through pipes under a pressure of:",
+    options: ["0.5 to 1 kg/cm²", "1 to 2 kg/cm²", "2 to 5 kg/cm²", "10 to 15 kg/cm²"],
     correct: 2,
-    explanation: "Back Sight (BS) is the first staff reading taken from a new instrument position, on a point of known elevation (benchmark or change point). It is used to calculate the Height of Instrument (HI). It is always the 'looking back' reading."
+    explanation: "In sprinkler irrigation, water is conveyed under desired pressure (2 to 5 kg/cm²) developed by a pump through a network of pipes. Water is sprayed through nozzles at a rate less than the infiltrability of the soil."
   },
   {
     id: "d252_051",
     subject: "da-252",
-    question: "What is a 'check line' in chain surveying?",
-    options: ["The baseline of the survey", "A line drawn to verify the accuracy of the survey", "The line connecting two stations", "A line parallel to the base line"],
+    question: "A major advantage of sprinkler irrigation over surface irrigation is that conveyance losses are reduced by approximately:",
+    options: ["10% of water lost in surface methods", "35% of water lost in surface methods", "50% of water lost in surface methods", "70% of water lost in surface methods"],
     correct: 1,
-    explanation: "A check line (also called proof line) is an additional line measured in chain surveying to check the accuracy of the framework. If the check line measurement on paper matches the actual field measurement, the survey is correct."
+    explanation: "Sprinkler irrigation eliminates water losses in conveyance, which amounts to 35% in surface irrigation methods. It also provides close control over water application with no runoff losses."
   },
   {
     id: "d252_052",
     subject: "da-252",
-    question: "The scale of a map is 1:10,000. What distance on the ground does 1 cm on the map represent?",
-    options: ["10 m", "10 km", "1 km", "100 m"],
+    question: "Drip irrigation was first patented based on observations made by Symcha Blass in:",
+    options: ["1948", "1960", "1964", "1972"],
     correct: 3,
-    explanation: "Scale 1:10,000 means 1 unit on the map = 10,000 units on the ground. So 1 cm on map = 10,000 cm = 100 m on the ground. Larger scale maps (1:1000) show more detail; smaller scale maps (1:50,000) show less detail but larger area."
+    explanation: "Current drip irrigation technology dates back to the work of Symcha Blass (1964). He observed that a large tree near a leaking faucet showed more vigorous growth and developed the first patented drip irrigation system."
   },
   {
     id: "d252_053",
     subject: "da-252",
-    question: "The 'planimeter' is an instrument used for:",
-    options: ["Measuring the area of irregular figures on a map", "Measuring angles", "Measuring distances along a road", "Setting right angles"],
+    question: "The discharge rate for surface drip point-source emitters should be less than:",
+    options: ["2 L/h per emitter", "4 L/h per emitter", "8 L/h per emitter", "16 L/h per emitter"],
     correct: 0,
-    explanation: "A planimeter (also called a polar planimeter) is a mechanical instrument used to measure the area of any irregular figure drawn on paper (map or plan). The tracing point is moved along the boundary and the area is read from the dial."
+    explanation: "Surface drip irrigation applies water to soil surface through emitters with discharge rates less than 8 L/h for single outlet (point-source) emitters and less than 4 L/h for line-source emitters."
   },
   {
     id: "d252_054",
     subject: "da-252",
-    question: "In Andhra Pradesh/Telangana, the land area unit 'Guntha' (Gunta) equals:",
-    options: ["1/16 acre", "1/100 acre", "1/40 acre", "1/4 acre"],
-    correct: 2,
-    explanation: "1 Guntha (Gunta) = 1/40 acre = 2.5 cents = 101.17 m² ≈ 121 square yards. 40 Gunthas = 1 acre. The Guntha is commonly used in land transactions in Telangana and Andhra Pradesh."
+    question: "In a drip irrigation system, which filter is essential for primary filtration of water from open reservoirs where algae may develop?",
+    options: ["Screen filter with 200 mesh", "Sand or gravel media filter", "Disc filter with fine pores", "Centrifugal sand separator"],
+    correct: 3,
+    explanation: "Gravel or media filters (sand filters) are essential for primary filtration of irrigation water from open water reservoirs, canals or reservoirs where algae may develop. If head loss exceeds 30 kPa, the filter needs back washing."
   },
   {
     id: "d252_055",
     subject: "da-252",
-    question: "The baseline in chain surveying should be:",
-    options: ["Short and in any direction", "The longest line passing through the survey area", "A curved line", "Parallel to field boundaries"],
-    correct: 1,
-    explanation: "The baseline is the most important line in chain surveying. It should be the longest possible line passing through the survey area from which other triangles are formed. All other survey lines are set out in relation to the baseline."
+    question: "The centrifugal pump is so called because pressure increases within the casing due to:",
+    options: ["Atmospheric pressure acting on water", "Positive displacement of fluid", "Centrifugal forces from impeller rotation", "Bernoulli's principle of pressure reduction"],
+    correct: 2,
+    explanation: "The centrifugal pump is so called because the pressure increases within the casing due to centrifugal forces. The impeller is rotated at high speed causing water to move from the eye to the periphery, building pressure."
   },
   {
     id: "d252_056",
     subject: "da-252",
-    question: "The 'Dharani' portal is related to:",
-    options: ["Online seed purchase", "e-market for crops", "Online fertilizer subsidy", "Digital land records and registration in Telangana"],
-    correct: 3,
-    explanation: "Dharani is Telangana's integrated land records and registration platform launched in 2020. It digitised pahani records, property registrations, mutations, and layout regularizations. It replaced the old manual system with an online, transparent mechanism."
+    question: "The process of removing air from pump casing and suction pipe by filling it with water before starting a centrifugal pump is called:",
+    options: ["Priming", "Flushing", "Bleeding", "Venting"],
+    correct: 2,
+    explanation: "Priming is the process of removing air from pump casing and suction pipe by filling water in the suction pipe. The pump will not work if there is any air left in the suction pipe."
   },
   {
     id: "d252_057",
     subject: "da-252",
-    question: "The process of updating land records after transfer of ownership is called:",
-    options: ["Mutation (Daakhil Kharij)", "Survey", "Registration", "Demarcation"],
-    correct: 0,
-    explanation: "Mutation (called Daakhil Kharij or name transfer) is the process of updating land revenue records to reflect a change in ownership due to sale, inheritance, gift, or other transfer. In Telangana, mutations are done through the Dharani portal."
+    question: "Which type of impeller is used in centrifugal pumps handling water mixed with sand, gravel and other solid materials?",
+    options: ["Closed impeller with shroud on both sides", "Semi-open impeller with one side shroud", "Open impeller with no side wall", "Radial flow impeller with guide vanes"],
+    correct: 1,
+    explanation: "Open impellers have no side wall or shroud. They are used to handle water mixed with sand, gravel, clay, pebbles and other solid materials. They are made of forged steel but have a short life and are suitable for dredging works."
   },
   {
     id: "d252_058",
     subject: "da-252",
-    question: "The document of title for agricultural land in Andhra Pradesh is:",
-    options: ["Ration card", "Voter ID", "Pattadar Passbook", "Aadhaar card"],
-    correct: 2,
-    explanation: "Pattadar Passbook (also called Title Deed) is the official document issued to the land owner in Andhra Pradesh and Telangana. It serves as proof of ownership and is essential for obtaining agricultural loans, subsidies, and government scheme benefits."
+    question: "The submersible pump has a principal advantage of being usable in:",
+    options: ["Very shallow open wells only", "Very deep tube wells where a long shaft is impractical", "Horizontal pipeline systems only", "Surface irrigation channels only"],
+    correct: 3,
+    explanation: "The principal advantage of the submersible pump is that it can be used in a very deep tube well where a long shaft would not be practical. It is suitable for wells with minimum 100 mm diameter."
   },
   {
     id: "d252_059",
     subject: "da-252",
-    question: "One square metre equals how many square feet (approximately)?",
-    options: ["9 sq ft", "10.76 sq ft", "12 sq ft", "15 sq ft"],
+    question: "The formula for friction head loss in pump pipes is:",
+    options: ["hf = 2flv²/gd", "hf = 4flv²/2gd", "hf = flv²/4gd", "hf = 8flv²/3gd"],
     correct: 1,
-    explanation: "1 m² = 10.764 sq ft. Conversely, 1 sq ft = 0.0929 m². This conversion is important for land measurement in urban areas where plots are often measured in square feet."
+    explanation: "The friction head formula is hf = 4flv²/2gd, where f = constant, l = length of pipe (m), v = flow velocity (m/s), g = gravitational force, and d = diameter of pipe (m)."
   },
   {
     id: "d252_060",
     subject: "da-252",
-    question: "Which agency is responsible for the preparation of village cadastral maps in Telangana?",
-    options: ["Survey of India", "Water Resources Department", "NRSA/NRSC", "Revenue Department (under Collector/VRO)"],
-    correct: 3,
-    explanation: "Village cadastral maps are prepared and maintained by the Revenue Department through Village Revenue Officers (VROs) and Mandal Revenue Officers (MROs) under the District Collector. The maps show individual field (survey number) boundaries."
+    question: "The discharge formula for a 90° triangular (V-notch) weir is:",
+    options: ["Q = 0.0184 LH³/²", "Q = 0.0186 LH³/²", "Q = 0.0138 H⁵/²", "Q = 0.0184 (L-0.1nH) H³/²"],
+    correct: 2,
+    explanation: "For a 90° triangular V-notch weir, Q = 0.0138 H⁵/². For a suppressed rectangular weir Q = 0.0184 LH³/², for a Cipoletti weir Q = 0.0186 LH³/², and for rectangular weir with end contractions Q = 0.0184 (L-0.1nH) H³/²."
   },
   {
     id: "d252_061",
     subject: "da-252",
-    question: "The 'right of way' for irrigation canals is determined by:",
-    options: ["Irrigation Department/Engineers", "District Collector", "Panchayat", "Farmer's committee"],
-    correct: 0,
-    explanation: "The Right of Way (ROW) or canal reservation is determined by Irrigation Engineers based on the canal design, including the width of canal, berm, spoil bank, and inspection road. It is notified by the Irrigation Department and recorded in land records."
+    question: "The cipoletti weir is a type of trapezoidal weir with a side slope of:",
+    options: ["1 horizontal to 2 vertical", "1 horizontal to 4 vertical", "2 horizontal to 3 vertical", "1 horizontal to 1 vertical"],
+    correct: 1,
+    explanation: "The cipoletti weir is a trapezoidal weir where a side slope of 1 horizontal to 4 vertical is commonly used. It does not require any correction for end contractions and is used for measurement of medium discharges."
   },
   {
     id: "d252_062",
     subject: "da-252",
-    question: "The process of dividing a large agricultural land into smaller plots is called:",
-    options: ["Consolidation", "Mutation", "Fragmentation / Partition", "Alienation"],
-    correct: 2,
-    explanation: "Partition (fragmentation) is the division of a large plot of land into smaller plots, usually among heirs/co-owners. It requires partition deed execution, mutation in revenue records, and sometimes re-survey by a revenue surveyor. Excessive fragmentation reduces farm efficiency."
+    question: "In the current meter method, average velocity is obtained by taking the average of velocities at depths of:",
+    options: ["0.2 and 0.8 of depth from top", "0.3 and 0.7 of depth from top", "0.4 and 0.6 of depth from top", "0.5 of depth only (midpoint)"],
+    correct: 0,
+    explanation: "The average velocity is obtained by taking the average of velocities at 0.8 and 0.2 of the depth from the top. In shallow streams where reading at 0.8 depth is not possible, one reading may be taken at 0.6 of the depth."
   },
   {
     id: "d252_063",
     subject: "da-252",
-    question: "Land consolidation (Chakbandi) aims to:",
-    options: ["Divide land into small plots", "Merge fragmented scattered plots into fewer large compact holdings", "Redistribute land to landless", "Reduce land tax"],
-    correct: 1,
-    explanation: "Land consolidation (Chakbandi) is the rearrangement of scattered, fragmented land holdings into compact, viable units. It improves farm efficiency by reducing scattered pieces, making mechanisation possible, and reducing boundary disputes."
+    question: "The coefficient of discharge for sharp edged orifices is usually taken as:",
+    options: ["0.42", "0.52", "0.62", "0.72"],
+    correct: 2,
+    explanation: "The coefficient of discharge (Cd) is usually taken as 0.62 for sharp edged orifices. The discharge through an orifice is calculated by Q = Cd × 10³ × a × √(2gH)."
   },
   {
     id: "d252_064",
     subject: "da-252",
-    question: "The angle between consecutive survey lines in a closed traverse should sum to:",
-    options: ["(n-1) × 90°", "(2n-4) × 90°", "(n+2) × 180°", "(n-2) × 180°"],
+    question: "Carbon dioxide concentration in normal atmosphere is approximately:",
+    options: ["0.003% (30 ppm)", "0.035% (345 ppm)", "0.35% (3500 ppm)", "3.5% (35,000 ppm)"],
     correct: 3,
-    explanation: "For a closed traverse with n sides, the sum of interior angles = (n-2) × 180°. Example: 4-sided traverse: (4-2) × 180° = 360°; 5-sided: (5-2) × 180° = 540°. This is used to check the angular accuracy of the traverse."
+    explanation: "In general, the percentage of carbon dioxide in the atmosphere is 0.035% (345 ppm). During the day in greenhouses, plants draw down CO₂ to below 200 ppm through photosynthesis."
   },
   {
     id: "d252_065",
     subject: "da-252",
-    question: "Which type of surveying is done to locate boundaries of a property?",
-    options: ["Cadastral (property) surveying", "Topographic surveying", "Hydrographic surveying", "Route surveying"],
+    question: "Most greenhouse crops will respond favorably to CO₂ enrichment at concentrations of:",
+    options: ["200 to 400 ppm", "400 to 600 ppm", "600 to 800 ppm", "1000 to 1200 ppm"],
     correct: 0,
-    explanation: "Cadastral surveying (also called property or boundary surveying) is done to establish or restore property boundaries, determine the area, and prepare land records. Revenue surveyors do cadastral surveys to resolve boundary disputes and update records."
+    explanation: "Most crops will respond favorably to CO₂ at 1000 to 1200 ppm. The exact level needed for a given crop varies and must be correlated with other variables such as light, temperature, nutrient levels, cultivar and degree of maturity."
   },
   {
     id: "d252_066",
     subject: "da-252",
-    question: "The term 'gradient' in land surveying refers to:",
-    options: ["Type of soil", "Depth of a water table", "Rise or fall per unit horizontal distance (slope)", "Land revenue rate"],
+    question: "The first use of polyethylene as a greenhouse cover was in:",
+    options: ["1900", "1920", "1935", "1948"],
     correct: 2,
-    explanation: "Gradient (or grade) is the ratio of vertical rise/fall to horizontal distance = Rise/Run. Example: 1 in 100 gradient means 1 m rise for every 100 m horizontal distance. Used in designing canals, roads, and drainage channels."
-  },
-  {
-    id: "d252_066b",
-    subject: "da-252",
-    question: "The instrument used to measure distance electronically is:",
-    options: ["Chain", "Total station / EDM", "Theodolite", "Planimeter"],
-    correct: 1,
-    explanation: "Total Station and Electronic Distance Measuring (EDM) instruments measure distances electronically using infrared light or laser beams. They can measure distances up to several kilometres with millimetre accuracy, much faster than traditional chain surveying."
+    explanation: "The first use of polyethylene as a greenhouse cover was in 1948, when professor Emery Myers Emmert at the University of Kentucky used the less expensive material in place of more expensive glass."
   },
   {
     id: "d252_067",
     subject: "da-252",
-    question: "The 'Collar of Land' or 'Shambhu' in Telangana refers to:",
-    options: ["Irrigated land", "Government wasteland", "Forest land", "Dry land (rainfed / unirrigated land)"],
-    correct: 3,
-    explanation: "In Telangana revenue records, land is classified as Wet (irrigated) or Dry (rainfed). 'Dry land' (called Shambhu/Barani) depends on rainfall only. The land use classification affects assessment rates, crop loans, and insurance schemes."
+    question: "The greenhouse type suitable for hilly terrain with unequal roof widths is:",
+    options: ["Even span type greenhouse", "Lean-to type greenhouse", "Uneven span type greenhouse", "Ridge and furrow greenhouse"],
+    correct: 1,
+    explanation: "Uneven span type greenhouse is constructed on hilly terrain. The roofs are of unequal width, making the structure adaptable to the side slopes of hill. However, it is seldom used nowadays as it is not adaptable for automation."
   },
   {
     id: "d252_068",
     subject: "da-252",
-    question: "What is the purpose of land use mapping?",
-    options: ["To identify and record how land is being used (crop, fallow, forest, built-up, water body, etc.)", "Only to determine soil type", "To measure elevation", "To find mineral resources"],
-    correct: 0,
-    explanation: "Land use mapping identifies and records the current use of land parcels — agriculture (cropped/fallow), forest, built-up areas, water bodies, wastelands, etc. It is essential for planning, resource management, and policy decisions by governments."
+    question: "Ridge and furrow greenhouse design uses two or more A-frame greenhouses connected along the:",
+    options: ["Side walls of the structure", "Length of the eave (gutter)", "Ridge of the roof structure", "Foundation base of the structure"],
+    correct: 3,
+    explanation: "Ridge and furrow type uses two or more A-frame greenhouses connected along the length of the eave. The eave serves as a furrow or gutter to carry rain and melted snow away. The side wall is eliminated between greenhouses."
   },
   {
     id: "d252_069",
     subject: "da-252",
-    question: "In Telangana, agricultural land is classified as 'wet' (irrigated) if it is irrigated by:",
-    options: ["Only canals", "Only wells", "Any assured irrigation source — canal, tank, well, bore well, lift irrigation", "Only government canals"],
+    question: "For most greenhouse crops, the acceptable range of relative humidity is:",
+    options: ["20 to 40%", "30 to 50%", "50 to 80%", "80 to 100%"],
     correct: 2,
-    explanation: "In Telangana revenue classification, 'Wet' land (Nela Tota/Tari) is land irrigated by any assured source — government canal, tank, private well, bore well, or lift irrigation scheme. It attracts higher land assessment and different insurance/credit terms."
+    explanation: "For most crops, the acceptable range of relative humidity is between 50 to 80%. For plant propagation work, relative humidity up to 90% may be desirable. High relative humidity can promote disease in many crops."
   },
   {
     id: "d252_070",
     subject: "da-252",
-    question: "The 'adangal' (MR record/Form 1-B) in Telangana contains information on:",
-    options: ["Soil test results only", "Ownership, cultivation details, crop sown, and land use for each survey number", "Weather data", "Fertilizer use"],
-    correct: 1,
-    explanation: "Adangal (now called Pahani or MR Record / Form 1-B) is the village-level agricultural register maintained by the VRO for each survey number. It records owner name, cultivator, area, land use, crop sown each season, water source, and land classification."
+    question: "Air temperatures above which are generally not suited for crops in greenhouses:",
+    options: ["25°C", "30°C", "35°C", "40°C"],
+    correct: 3,
+    explanation: "Air temperatures above 35°C are generally not suited for crops in greenhouses. It is possible to bring greenhouse air temperature below this upper limit during spring and autumn simply by providing adequate ventilation."
   },
   {
     id: "d252_071",
     subject: "da-252",
-    question: "A 'field book' in surveying is used to:",
-    options: ["Prepare final maps", "Store survey instruments", "Calculate areas", "Record all measurements, observations and notes made during the survey in the field"],
-    correct: 3,
-    explanation: "A field book (survey notebook) is used to record all field measurements — chainage, offsets, bearing readings, level readings, and field sketches — made during a survey. It is the primary record from which plans and maps are plotted later in the office."
+    question: "The fan-and-pad cooling system was first made available for greenhouses in:",
+    options: ["1920", "1938", "1954", "1980"],
+    correct: 0,
+    explanation: "The fan and pad evaporative cooling system has been available since 1954 and is still the most common summer cooling system in greenhouses. The fog evaporative cooling system was introduced in greenhouses in 1980."
   },
   {
     id: "d252_072",
     subject: "da-252",
-    question: "The 'bearing' of a survey line is the angle measured from:",
-    options: ["North (or South) direction", "South direction", "East direction", "Previous survey line"],
-    correct: 0,
-    explanation: "Bearing of a survey line is the horizontal angle measured clockwise from the North (or South) meridian direction to the survey line. Whole Circle Bearing (WCB) is measured 0°–360° from North clockwise. Quadrant Bearing is measured 0°–90° from N or S."
+    question: "The fan-and-pad system can lower temperature by approximately what percentage of dry-wet bulb temperature difference?",
+    options: ["40% of difference", "60% of difference", "80% of difference", "100% of difference"],
+    correct: 2,
+    explanation: "The fan-and-pad system can lower the temperature of incoming air by about 80% of the difference between dry and wet bulb temperatures. The fog cooling system can lower temperature by nearly 100% of this difference."
   },
   {
     id: "d252_073",
     subject: "da-252",
-    question: "Remote sensing in agriculture is used mainly for:",
-    options: ["Measuring soil pH", "Testing seed germination", "Crop area estimation, crop health monitoring, and land use mapping from satellite/aircraft images", "Measuring irrigation discharge"],
+    question: "In the HAF (Horizontal Air Flow) cooling system, fans should be placed at intervals of approximately:",
+    options: ["5 m apart in two rows", "10 m apart in one row", "15 m apart in two rows", "30 m apart in multiple rows"],
     correct: 2,
-    explanation: "Remote sensing uses satellite/aerial images (in visible, infrared, microwave bands) for crop area estimation, crop health/stress monitoring, drought assessment, flood mapping, and land use/land cover classification — without physical ground contact."
+    explanation: "In the HAF system, fans of 31 to 62 W (1/30 to 1/15 hp) with 41 cm blade diameter are placed at 0.6 to 0.9 m above plant height and at intervals of 15 m in two rows directing air circulation along the greenhouse length."
   },
   {
     id: "d252_074",
     subject: "da-252",
-    question: "GIS (Geographic Information System) is used in agriculture for:",
-    options: ["Genetic crop improvement", "Spatial analysis of soils, crops, irrigation, land use, and agro-climatic zones", "Processing agricultural produce", "Providing credit to farmers"],
-    correct: 1,
-    explanation: "GIS is a computer system for capturing, storing, analysing, and displaying geographically referenced information (maps with attribute data). In agriculture, GIS is used for soil health mapping, watershed planning, agro-climatic zoning, and crop monitoring."
+    question: "A second covering of polyethylene added to a greenhouse results in heat savings of approximately:",
+    options: ["10% reduction in heat loss", "20% reduction in heat loss", "30% reduction in heat loss", "40% reduction in heat loss"],
+    correct: 3,
+    explanation: "A saving of 40% of the heat requirement can be achieved when a second covering is applied. A single layer of polyethylene loses 6.8 W/m² per hour, while two layers reduce this to only 3.97 W/m² (40% reduction)."
   },
   {
     id: "d252_075",
     subject: "da-252",
-    question: "The 'Record of Rights' (ROR) in India serves as:",
-    options: ["A bank pass book", "A soil health card", "A crop insurance document", "Legal proof of ownership and possession of land"],
-    correct: 3,
-    explanation: "Record of Rights (ROR) is the official document maintained by Revenue authorities recording ownership, possession, and land use details of each plot. In Telangana, the Pahani (1-B) serves as ROR. It is used for loans, legal transactions, and government scheme benefits."
+    question: "One kilogram of water can store heat energy of:",
+    options: ["0.83 kJ per °C rise", "2.10 kJ per °C rise", "4.23 kJ per °C rise", "8.46 kJ per °C rise"],
+    correct: 0,
+    explanation: "One kg of water can hold 4.23 kJ of heat for each 1°C rise in temperature. Rocks can store about 0.83 kJ per 1°C rise. To store equivalent amounts of heat, a rock bed must be three times as large as a water tank."
   },
   {
     id: "d252_076",
     subject: "da-252",
-    question: "Drone (UAV) survey in precision agriculture is used for:",
-    options: ["Crop monitoring, spray application, field mapping, and area estimation", "Only entertainment", "Underground water detection", "Soil testing"],
-    correct: 0,
-    explanation: "Drones (Unmanned Aerial Vehicles) equipped with cameras and sensors are used in precision agriculture for crop health monitoring (NDVI mapping), targeted pesticide/nutrient spraying, field mapping, counting plant population, and estimating area under cultivation."
+    question: "The visible light wavelength range used in photosynthesis is:",
+    options: ["100 to 300 nm (UV range)", "200 to 400 nm (near UV range)", "400 to 700 nm (visible range)", "700 to 1000 nm (near infrared)"],
+    correct: 2,
+    explanation: "Visible and white light has a wavelength of 400 to 700 nm. UV light below 400 nm (especially below 325 nm) is harmful to plants and blocked by glass. Far red light (700-750 nm) affects plants but is not primarily used in photosynthesis."
   },
   {
     id: "d252_077",
     subject: "da-252",
-    question: "SVAMITVA scheme (2020) aims at:",
-    options: ["Providing land to tribals", "Land consolidation in agriculture", "Drone-based survey and digital property rights to rural house owners", "Canal irrigation expansion"],
-    correct: 2,
-    explanation: "SVAMITVA (Survey of Villages and Mapping with Improvised Technology in Village Areas) scheme uses drones to survey abadi land (inhabited area) in villages and issue property cards (rights of record) to rural residents. Launched April 2020."
+    question: "When plants are grown under red light alone (longer wavelength), the result is:",
+    options: ["Hard, dark-coloured compact growth", "Soft growth with long internodes and tall plants", "No growth due to wavelength mismatch", "Stunted growth with small leaves"],
+    correct: 1,
+    explanation: "When plants are grown under red light (longer wavelength), growth is soft and internodes are long, resulting in tall plants. When blue light alone is supplied, the growth is retarded and the plant becomes hard and dark in colour."
   },
   {
     id: "d252_078",
     subject: "da-252",
-    question: "The term 'encroachment' in land records means:",
-    options: ["Legal purchase of government land", "Illegal occupation or unauthorised use of government or others' land", "Transfer of land ownership", "Land development activity"],
-    correct: 1,
-    explanation: "Encroachment is the illegal occupation or unauthorised use of government land (poramboke, forest, road margins, canal bunds) or neighbours' land. Revenue authorities periodically conduct anti-encroachment drives to identify and evict encroachments."
+    question: "The volume formula for water capacity estimation Q = 28AD/EH, where A is area (ha) and D is depth (cm), H is pump working hours. The denominator EH represents:",
+    options: ["Efficiency factor times head pressure", "Time of irrigation in days times pump hours", "Elevation times hydraulic head", "Evaporation times humidity index"],
+    correct: 3,
+    explanation: "In the formula Q = 28AD/EH, Q = capacity/head (lit./sec), A = Area (ha), D = Depth of irrigation (cm), E = time of irrigation (days), H = Pump working hours (hrs)."
   },
   {
     id: "d252_079",
     subject: "da-252",
-    question: "Land levelling in agriculture is done to:",
-    options: ["Increase soil organic matter", "Improve seed germination", "Control soil pH", "Smoothen the field surface for uniform irrigation and better agricultural operations"],
-    correct: 3,
-    explanation: "Land levelling removes undulations and high spots to create a smooth, uniform field surface. Benefits: uniform irrigation water distribution, reduced water wastage, easier farm operations (tillage, sowing, harvesting), and improved crop stand and yield."
+    question: "A plumb bob is used in surveying for all of the following EXCEPT:",
+    options: ["Locating points directly below another point", "Centering compass over a station mark", "Testing verticality of ranging poles", "Measuring horizontal distances on slopes"],
+    correct: 2,
+    explanation: "A plumb bob is used to locate points directly below or above another point, for accurately centering compass/level/theodolite over a station mark, and for testing the verticality of ranging poles. It is not used to measure horizontal distances."
   },
   {
     id: "d252_080",
     subject: "da-252",
-    question: "The National Remote Sensing Centre (NRSC) is located at:",
-    options: ["Hyderabad (Balanagar)", "Bengaluru", "Chennai", "Ahmedabad"],
-    correct: 0,
-    explanation: "NRSC (National Remote Sensing Centre) is an ISRO centre located at Hyderabad (Balanagar). It is the primary agency in India for satellite remote sensing data acquisition, processing, and application in agriculture, water resources, forests, and disaster management."
+    question: "A synthetic tape used in surveying is made of glass fibre with PVC coating, graduated every:",
+    options: ["1 mm, with figures at every 10 mm", "5 mm, with figures at every 50 mm", "10 mm, with metric figures at every metre in red", "20 mm, with links marked at every metre"],
+    correct: 3,
+    explanation: "Synthetic tapes are manufactured of glass fibre with PVC coating. They are graduated every 10 mm and figured every 100 mm. Metric figures are shown in red at every metre. They maintain their lengths well and are convenient for measuring short lengths."
   },
   {
     id: "d252_081",
     subject: "da-252",
-    question: "Which satellite series of ISRO is primarily used for land resources and agricultural surveys?",
-    options: ["INSAT series", "GSAT series", "IRS (Indian Remote Sensing) satellite series", "PSLV series"],
-    correct: 2,
-    explanation: "IRS (Indian Remote Sensing) satellite series (IRS-1A, 1B, 1C, 1D, P6/Resourcesat, etc.) carry sensors like LISS-III, LISS-IV, AWiFS for land resources, crop monitoring, water body mapping, and wasteland mapping. IRS is the backbone of India's earth observation programme."
+    question: "The open cross-staff for setting right angles consists of four metal arms with vertical slits arranged so that one pair makes a right angle with the other. It is mounted on a pole of approximately:",
+    options: ["0.5 m long and 25 mm diameter", "1.5 m long and 25 mm diameter", "2.5 m long and 25 mm diameter", "3.0 m long and 25 mm diameter"],
+    correct: 1,
+    explanation: "The open cross-staff is mounted on a 25 mm diameter pole about 1.5 metres long for fixing on the ground. It consists of a head with four metal arms with vertical slits, rigidly fixed so that the pairs are at right angles to each other."
   },
   {
     id: "d252_082",
     subject: "da-252",
-    question: "The 'Soil Survey of India' headquarters is located at:",
-    options: ["New Delhi", "Nagpur", "Hyderabad (Nagpur)", "Bangalore"],
+    question: "The selection of survey stations in chain surveying requires that all triangles should be well conditioned with sides that are:",
+    options: ["In ratio 1:2:3 for accuracy", "As equal as possible (nearly equilateral)", "Right-angled for easy calculation", "Obtuse-angled for best coverage"],
     correct: 1,
-    explanation: "The Soil Survey and Soil Use Planning Organisation (previously called Soil Survey of India) headquarters is located at Nagpur. It carries out soil mapping, classification, and land capability classification across India to guide agricultural development."
+    explanation: "All triangles should be well conditioned with sides almost equal. Triangles should be as nearly equilateral as possible to minimize errors. Long offsets should be avoided and the number of survey lines should be minimized."
   },
   {
     id: "d252_083",
     subject: "da-252",
-    question: "Land capability classification (LCC) classifies land into how many classes?",
-    options: ["4 classes", "6 classes", "10 classes", "8 classes (I to VIII)"],
-    correct: 3,
-    explanation: "The USDA Land Capability Classification divides land into 8 classes (I to VIII) based on the degree of limitations for agricultural use: Class I (best, suitable for all crops) to Class VIII (most severe limitations, suitable only for wildlife/recreation). Classes I-IV are arable."
+    question: "In the Mid-ordinate rule for irregular area calculation, ordinates are measured at:",
+    options: ["The starting and ending points only", "Regular intervals along the base line", "The mid-points of each division", "Points selected by the surveyor's judgment"],
+    correct: 2,
+    explanation: "In the Mid-ordinate rule, ordinates are measured at the mid-points of each division. Area = d(h₁ + h₂ + h₃ + ... + hₙ), where d is the common distance between ordinates = l/n, l is the base line length and n is number of parts."
   },
   {
     id: "d252_084",
     subject: "da-252",
-    question: "The 'registration' of agricultural land in India is done at:",
-    options: ["Sub-Registrar's office", "Panchayat office", "Revenue Divisional Office", "District Collector's office"],
-    correct: 0,
-    explanation: "Registration of land documents (sale deeds, mortgages, gifts, leases) is done at the office of the Sub-Registrar under the Indian Registration Act, 1908. After registration, the mutation of ownership change is done in revenue records by MRO."
+    question: "Which type of chain surveying obstruction applies when chaining is free but vision is blocked by a hill?",
+    options: ["Both chain and vision obstructed", "Only vision is obstructed by hill", "Only chaining is obstructed by pond", "Both chain and vision blocked by building"],
+    correct: 1,
+    explanation: "When chaining is free but vision is obstructed (e.g., raising ground or a hill intervening), end stations are not inter-visible but the chain can be laid on the ground. Indirect ranging is used in this case."
   },
   {
     id: "d252_085",
     subject: "da-252",
-    question: "In chain surveying, the method of locating a field boundary by measuring along the chain line and at right angles to it is called:",
-    options: ["Traversing", "Triangulation", "Chain triangulation with offsets", "Radiation"],
-    correct: 2,
-    explanation: "In chain surveying, the field area is divided into triangles using chain lines (framework), and the boundary points and features are located by measuring their perpendicular distances (offsets) from the chain lines. This is the fundamental method of chain triangulation with offsets."
+    question: "For measuring field channels and bunds area, check basin method in flat topography results in area loss under field channels and bunds of nearly:",
+    options: ["5% of total area", "10% of total area", "20% of total area", "30% of total area"],
+    correct: 3,
+    explanation: "A disadvantage of check basin irrigation is that considerable area (nearly 30%) is lost under field channels and bunds. Bunds also interfere with the working of inter-cultivation equipment and require more labour."
   },
   {
     id: "d252_086",
     subject: "da-252",
-    question: "What is 'poramboke' land?",
-    options: ["Private agricultural land", "Government land reserved for public purposes (roads, channels, grazing, tank beds)", "Forest land", "Waste land given to farmers"],
+    question: "Pedometer is best suited for measuring:",
+    options: ["Horizontal distances on flat terrain", "Vertical distances and elevation differences", "Angular measurements between survey lines", "Areas of irregular shaped fields"],
     correct: 1,
-    explanation: "Poramboke land is government (public) land reserved for public purposes — roads, channels, tank beds, cremation grounds, grazing lands, and village commons. It cannot be sold or privately owned. Encroachment on poramboke is illegal."
+    explanation: "Pedometer is a device similar to the passometer that automatically measures distance. A pedometer is best in measuring the vertical distances. The passometer records paces and is carried in the pocket or tied on the leg."
   },
   {
     id: "d252_087",
     subject: "da-252",
-    question: "The 'cadastral survey' number of an agricultural field in Telangana is called:",
-    options: ["Plot number", "Block number", "Khasra number", "Survey number (Sy. No.)"],
-    correct: 3,
-    explanation: "Each agricultural field in Telangana is assigned a unique Survey Number (Sy. No.) during the cadastral survey. The survey number is used in all land records, pahani, registration documents, and revenue transactions."
+    question: "The Steel Band chain (band chain) is wound on an open steel cross or metal reel, is 20 or 30 m long and:",
+    options: ["6 mm wide with studs at every 0.1 m", "16 mm wide with brass studs at every 0.2 m", "25 mm wide with links at every 0.5 m", "32 mm wide with rings at every 1.0 m"],
+    correct: 1,
+    explanation: "The steel band (band chain) consists of a ribbon of steel 20 or 30 m long and 16 mm wide. Graduations are marked by brass studs at every 0.2 m, numbered at every 1 m. Brass tallies are fixed at every 5 m length."
   },
   {
     id: "d252_088",
     subject: "da-252",
-    question: "The total area of Telangana state is approximately:",
-    options: ["1.12 lakh sq km", "2.74 lakh sq km", "1.42 lakh sq km", "0.86 lakh sq km"],
-    correct: 0,
-    explanation: "Telangana state (formed on 2 June 2014) has a total geographical area of approximately 1,12,077 sq km. Of this, about 55 lakh hectares is the gross cropped area. The state has 33 districts (after 2016 bifurcation)."
+    question: "Sub-surface drip irrigation applies water below the soil surface through emitters with discharge rate generally in the range of:",
+    options: ["0.1 to 0.5 L/h", "0.6 to 3 L/h", "5 to 10 L/h", "10 to 20 L/h"],
+    correct: 1,
+    explanation: "Subsurface drip irrigation applies water below the soil surface through emitters with discharge rates generally in the range of 0.6 to 3 L/h. Surface drip emitters have rates less than 8 L/h for point-source and 4 L/h for line-source."
   },
   {
     id: "d252_089",
     subject: "da-252",
-    question: "The practice of measuring the slope of land for planning irrigation channel alignment is done by:",
-    options: ["Resistivity survey", "GPS survey only", "Levelling with a dumpy level or hand level", "Remote sensing"],
+    question: "The triangulation method of measuring area requires that triangles formed should be:",
+    options: ["Right-angled for convenient measurement", "Isosceles for accuracy of angles", "Almost equilateral to minimize errors", "Obtuse-angled for larger coverage area"],
     correct: 2,
-    explanation: "For planning irrigation channel alignment, the slope of the land is measured by levelling using a dumpy level or hand level. The levels along the proposed canal route are measured and a longitudinal section drawn to determine the gradient and channel design."
+    explanation: "In triangulation surveying, care should be taken that triangles are almost equilateral as far as possible to minimize errors. The whole area is divided into triangles and areas of individual triangles are computed and summed."
   },
   {
     id: "d252_090",
     subject: "da-252",
-    question: "The 'Integrated Land Records Management System (ILRMS)' in Andhra Pradesh is also known as:",
-    options: ["Dharani", "Meebhoomi", "Bhoomi", "eLand"],
+    question: "The saw-tooth type greenhouse differs from ridge and furrow type by having provision for:",
+    options: ["Active heating systems inside", "Natural ventilation flow path", "Greater growing space per unit area", "Computer-controlled environment"],
     correct: 1,
-    explanation: "Meebhoomi ('My Land') is AP's online land records portal (ILRMS) where farmers can view and download pahani (ROR / 1-B), Tippan (village maps), and other land records. Telangana has a similar system, now integrated into the Dharani portal."
+    explanation: "Saw-tooth type greenhouses are similar to ridge and furrow type except that they have provision for natural ventilation. A specific natural ventilation flow path develops in a saw-tooth type greenhouse."
   },
   {
     id: "d252_091",
     subject: "da-252",
-    question: "The 'scale factor' of a map is the ratio of:",
-    options: ["Area on map to area on ground", "Number of contours to area", "Height on map to actual height", "Distance on map to corresponding distance on ground"],
-    correct: 3,
-    explanation: "Map scale = Distance on map ÷ Corresponding distance on ground. Example: 1:50,000 scale means 1 cm on map = 50,000 cm = 500 m on ground. Scale is always expressed as a dimensionless ratio or representative fraction (RF)."
+    question: "In a lean-to greenhouse, the total width of plant benches is limited to:",
+    options: ["3 to 5 feet width range", "7 to 12 feet width range", "15 to 20 feet width range", "20 to 30 feet width range"],
+    correct: 1,
+    explanation: "The lean-to type greenhouse is limited to single or double-row plant benches with a total width of 7 to 12 feet. It is built against a building and typically faces the south side. It is the least expensive structure."
   },
   {
     id: "d252_092",
     subject: "da-252",
-    question: "The instrument used for measuring vertical angles and calculating heights indirectly (without visiting the point) is:",
-    options: ["Abney level / Clinometer", "Compass", "Planimeter", "Staff"],
-    correct: 0,
-    explanation: "An Abney level (clinometer) is a hand-held instrument that measures vertical angles (angles of elevation/depression). Using trigonometry (tan of angle × horizontal distance), heights of trees, buildings, and hills can be calculated without physically reaching them."
+    question: "In Simpson's rule for area calculation, the even ordinates are multiplied by:",
+    options: ["1 (no multiplication)", "2 times the ordinate value", "3 times the ordinate value", "4 times the ordinate value"],
+    correct: 3,
+    explanation: "In Simpson's rule: add four times the sum of all even ordinates plus twice the sum of remaining odd ordinates plus sum of first and last ordinates. Multiply total by one-third of the common distance. Odd ordinates are the 3rd, 5th, 7th from end."
   },
   {
     id: "d252_093",
     subject: "da-252",
-    question: "The 'ground truthing' in remote sensing means:",
-    options: ["Satellite calibration", "Aerial photography", "Verification of satellite-interpreted data by actual field observations on the ground", "GIS data entry"],
+    question: "The Engineer's chain used on engineering surveys is:",
+    options: ["33 ft long with 16 links", "66 ft long with 100 links", "100 ft long with 100 links", "30 m long with 150 links"],
     correct: 2,
-    explanation: "Ground truthing is the process of verifying or validating the interpretation of satellite/aerial imagery by actual field observations on the ground. It ensures that the land use/cover classes identified on the image actually match field conditions."
+    explanation: "The Engineer's chain is 100 ft long and divided into 100 links, each link equal to 1 ft. It is used on all engineering surveys and distances are recorded in feet and decimals. Construction details are same as Gunter's chain."
   },
   {
     id: "d252_094",
     subject: "da-252",
-    question: "The 'NDVI' (Normalised Difference Vegetation Index) value ranges from:",
-    options: ["0 to 100", "-1 to +1", "0 to 10", "100 to 200"],
+    question: "In compass surveying, centering the prismatic compass over a station is confirmed by:",
+    options: ["Setting the needle to north reading", "Dropping a small piece of stone to fall on the peg", "Observing the ranging rod through the prism", "Adjusting the ball and socket joint to level"],
     correct: 1,
-    explanation: "NDVI = (NIR - Red) / (NIR + Red) and ranges from -1 to +1. Values near +1 indicate dense healthy vegetation; values near 0 indicate bare soil; negative values indicate water bodies. NDVI is widely used to monitor crop health and assess drought."
+    explanation: "Centering involves placing the compass over the station by dropping a small piece of stone so that it falls on the top of the peg marking the station. Then the compass is leveled using the ball and socket joint."
   },
   {
     id: "d252_095",
     subject: "da-252",
-    question: "The unit used to express irrigation water depth uniformly applied over an area is:",
-    options: ["Cubic metres", "Litres", "Hectare-metre", "Millimetre of depth"],
-    correct: 3,
-    explanation: "Irrigation water depth is expressed in millimetres (mm). 1 mm depth over 1 hectare = 10 m³ of water. Seasonal irrigation requirement of crops is expressed in mm or cm (e.g., rice needs ~1200 mm seasonal water). Delta or seasonal requirement in cm is also used."
+    question: "A quonset greenhouse uses which covering material most commonly?",
+    options: ["Rigid glass panes only", "FRP (Fiber Reinforced Plastic) sheets", "Polyethylene film covering", "Polycarbonate structured panels"],
+    correct: 2,
+    explanation: "Quonset greenhouse uses pipe arches or trusses supported by pipe purlins. The covering material used is generally polyethylene. Such greenhouses are typically less expensive than gutter-connected greenhouses."
   },
   {
     id: "d252_096",
     subject: "da-252",
-    question: "The 'Girdawari' in Telangana refers to:",
-    options: ["Seasonal crop survey/inspection conducted by VRO to record actual crop sown in each field", "Land registration document", "Soil fertility test", "Water discharge measurement"],
-    correct: 0,
-    explanation: "Girdawari is the periodic (seasonal) crop survey conducted by Village Revenue Officers (VRO) who physically visit each field to record the crop actually sown, area, and irrigation source. Data is entered in the Adangal/Pahani and used for crop statistics and insurance."
+    question: "Gully erosion differs from rill erosion in that gullies are formed when runoff is:",
+    options: ["Less than 0.3 mm/s in velocity", "Sufficient in volume and velocity to cut deep wide channels", "Only caused by wind action on slopes", "Limited to the surface of sandy soils"],
+    correct: 1,
+    explanation: "Gully erosion is the advanced stage of water erosion. Gullies are formed when channelised runoff from vast sloping land is sufficient in volume and velocity to cut deep and wide channels. If unchecked, no scope for arable crop production."
   },
   {
     id: "d252_097",
     subject: "da-252",
-    question: "The 'Fasal Bima Yojana' crop insurance scheme requires accurate area measurement using:",
-    options: ["Only farmer's self-declaration", "Manual chain surveying", "GPS-based e-crop survey (electronic crop cutting experiments)", "Aerial photography only"],
+    question: "Surface creep in wind erosion involves movement of coarse particles with diameter:",
+    options: ["Less than 0.1 mm", "0.1 to 0.5 mm", "0.5 to 2.0 mm", "Greater than 5.0 mm"],
     correct: 2,
-    explanation: "Under PMFBY (Pradhan Mantri Fasal Bima Yojana), e-crop survey using smartphones with GPS and the 'Bhuvan' app is used to record crop area. Crop Cutting Experiments (CCE) are conducted to estimate actual yield and compute insurance claims."
+    explanation: "Surface creep involves rolling and sliding of coarse particles (0.5 to 2.0 mm diameter) along the ground surface due to impact of descending saltating particles. This process accounts for 5 to 25% of the total wind erosion movement."
   },
   {
     id: "d252_098",
     subject: "da-252",
-    question: "The number of chains used as baseline in a simple chain survey of a rectangular agricultural plot is:",
-    options: ["4 chains (one for each side)", "1 chain along the longest dimension", "As many as needed to cover all boundaries", "No baseline — only perimeter chains"],
-    correct: 1,
-    explanation: "In a simple chain survey of an agricultural plot, one chain line is laid along the longest dimension as the baseline. Perpendicular offsets are taken from this baseline to locate all boundary corners and features. The entire plot is plotted from this single baseline and its offsets."
+    question: "The volumetric method of water measurement works by:",
+    options: ["Measuring current velocity and channel area", "Counting revolutions of a current meter wheel", "Dividing volume collected in a container by time taken", "Using the head over a weir crest"],
+    correct: 3,
+    explanation: "The volumetric method measures small discharge by collecting flow in a container of known volume and noting the time. Discharge = volume / time. For example, a 210 litre barrel filled in 30 seconds gives a discharge of 7 lps."
   },
   {
     id: "d252_099",
     subject: "da-252",
-    question: "The 'Assignment of Government Land to landless poor' programme in Telangana is called:",
-    options: ["Land redistribution scheme", "Ceiling surplus distribution", "Pattedar scheme", "Assigned lands / Bhodan lands / Grameen Bhoomi"],
-    correct: 3,
-    explanation: "Telangana assigns government/ceiling-surplus/Bhoodan land to landless poor (mainly SCs/STs) as 'Assigned Lands'. These are recorded in the Pahani as 'Assigned' pattadars. Assigned lands generally cannot be sold/mortgaged without government permission."
+    question: "The sub-surface irrigation method creates an artificial water table at a depth of approximately:",
+    options: ["5 to 15 cm below ground surface", "15 to 30 cm below ground surface", "30 to 75 cm below ground surface", "100 to 150 cm below ground surface"],
+    correct: 2,
+    explanation: "Sub-surface irrigation creates an artificial water surface at some pre-determined depth, about 30 to 75 cm below the ground, depending upon the texture and rooting characteristics of the crop. Application efficiencies vary from 30 to 80%."
   },
   {
     id: "d252_100",
     subject: "da-252",
-    question: "The primary purpose of a 'topographic survey' (toposheet) is to:",
-    options: ["Show the physical features of the land — relief (contours), drainage, vegetation, settlements, roads", "Determine ownership boundaries", "Measure soil fertility", "Calculate crop yield"],
-    correct: 0,
-    explanation: "Topographic survey produces topographic maps (toposheets) showing the physical and cultural features of the land — terrain relief (contour lines), rivers, forests, roads, railways, and settlements. The Survey of India produces toposheets at 1:25,000 and 1:50,000 scales."
+    question: "In the Average Ordinate Rule for irregular area computation, the area equals the average of ordinates multiplied by:",
+    options: ["Half the base line length", "The common distance between ordinates", "The length of the base line", "The number of ordinates plus one"],
+    correct: 2,
+    explanation: "In the Average Ordinate Rule: Area = (O₁ + O₂ + O₃ + ... + Oₙ) / (n+1) × L, where L is the length of the base line and n is the number of equal parts. The average of ordinates multiplied by the base line length gives the required area."
   },
 ];

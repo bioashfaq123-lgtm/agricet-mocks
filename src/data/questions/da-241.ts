@@ -5,7 +5,7 @@ export const da241Questions: Question[] = [
     id: "d241_001",
     subject: "da-241",
     question: "Agricultural economics deals with:",
-    options: ["Allocation of scarce resources in agricultural production, marketing, and consumption", "Only crop production", "Only farm machinery", "Only agricultural finance"],
+    options: ["Allocation of scarce resources in agricultural production, marketing, and consumption", "Study of plant genetics and crop improvement through hybridization and biotechnology", "Management of farm machinery and mechanization of field operations", "Planning and execution of agricultural land development and irrigation projects"],
     correct: 0,
     explanation: "Agricultural economics is the application of economic principles to the agricultural sector. It deals with allocation of scarce resources (land, labour, capital) in production, distribution, and consumption of agricultural goods."
   },
@@ -13,7 +13,7 @@ export const da241Questions: Question[] = [
     id: "d241_002",
     subject: "da-241",
     question: "Farm management is defined as:",
-    options: ["Growing more crops", "Only irrigation management", "The science and art of organising, operating, and managing a farm for maximum profit", "Record keeping in farming"],
+    options: ["Study of soil microbiology and nutrient cycles for improving crop productivity", "Practice of record-keeping and bookkeeping in agricultural farm establishments", "The science and art of organising, operating, and managing a farm for maximum profit", "Discipline of planning and executing government agricultural policy and schemes"],
     correct: 2,
     explanation: "Farm management is the science that deals with the organisation, operation, and management of a farm for maximum sustained profit consistent with the family welfare. It applies economic principles to farm decision-making."
   },
@@ -61,7 +61,7 @@ export const da241Questions: Question[] = [
     id: "d241_008",
     subject: "da-241",
     question: "The Minimum Support Price (MSP) is announced by:",
-    options: ["State government", "NABARD", "Farmers' organisations", "Central government based on CACP recommendations"],
+    options: ["State Agriculture Departments after consulting district-level farmer advisory bodies", "NABARD after evaluating crop production costs in consultation with state governments", "Farmer producer organisations based on aggregated production cost survey data", "Central government based on CACP recommendations"],
     correct: 3,
     explanation: "The Minimum Support Price (MSP) is announced by the Central Government based on recommendations of the Commission for Agricultural Costs and Prices (CACP). It ensures remunerative prices to farmers and food security."
   },
@@ -69,7 +69,7 @@ export const da241Questions: Question[] = [
     id: "d241_009",
     subject: "da-241",
     question: "The Green Revolution in India is associated with which period?",
-    options: ["Late 1960s and 1970s", "1950s", "1980s", "1990s"],
+    options: ["Late 1960s and 1970s", "Early 1950s post-independence period", "1980s liberalisation decade", "1990s economic reforms period"],
     correct: 0,
     explanation: "The Green Revolution in India occurred in the late 1960s and 1970s. It was driven by introduction of HYV seeds (wheat, rice), chemical fertilizers, irrigation, and pesticides. It made India self-sufficient in food grains."
   },
@@ -77,7 +77,7 @@ export const da241Questions: Question[] = [
     id: "d241_010",
     subject: "da-241",
     question: "A cooperative society is formed to:",
-    options: ["Earn profit for shareholders", "Compete with private companies", "Provide mutual benefit and economic protection to members", "Only export agricultural produce"],
+    options: ["Generate maximum returns for equity shareholders through agricultural commodity trading", "Compete aggressively with private agri-companies to capture market share", "Provide mutual benefit and economic protection to members", "Export surplus agricultural produce exclusively to international markets"],
     correct: 2,
     explanation: "A cooperative society is a voluntary association formed by economically weak people for their mutual economic benefit. In agriculture, cooperatives help in procurement of inputs, credit, marketing, and processing on a collective basis."
   },
@@ -93,7 +93,7 @@ export const da241Questions: Question[] = [
     id: "d241_012",
     subject: "da-241",
     question: "The primary source of institutional agricultural credit in India at the village level is:",
-    options: ["Commercial banks", "Insurance companies", "RBI", "Primary Agriculture Credit Society (PACS)"],
+    options: ["Commercial banks through priority sector lending to rural borrowers", "Insurance companies offering premium-financed agricultural credit facilities", "Reserve Bank of India through direct rural credit windows", "Primary Agriculture Credit Society (PACS)"],
     correct: 3,
     explanation: "Primary Agriculture Credit Society (PACS) is the basic unit of the cooperative credit structure, operating at village level. It provides short-term credit to farmers for crop production through the cooperative banking system."
   },
@@ -125,7 +125,7 @@ export const da241Questions: Question[] = [
     id: "d241_016",
     subject: "da-241",
     question: "The opportunity cost is defined as:",
-    options: ["The actual cost of production", "Marginal cost", "Fixed cost plus variable cost", "The value of the next best alternative forgone"],
+    options: ["The total explicit cash expenditure incurred in production", "The additional cost of producing one more unit of output", "The combined fixed and variable cost of agricultural operations", "The value of the next best alternative forgone"],
     correct: 3,
     explanation: "Opportunity cost is the value of the next best alternative foregone when a choice is made. In farming, if a farmer grows rice instead of cotton, the expected profit from cotton is the opportunity cost of growing rice."
   },
@@ -133,7 +133,7 @@ export const da241Questions: Question[] = [
     id: "d241_017",
     subject: "da-241",
     question: "The law of diminishing returns states that:",
-    options: ["As one variable input is increased while others remain constant, the marginal product eventually decreases", "Output increases proportionately with all inputs", "Fixed costs always decrease with output", "More labour always gives more output"],
+    options: ["As one variable input is increased while others remain constant, the marginal product eventually decreases", "Total output increases proportionately when all inputs are increased simultaneously", "Fixed overhead costs always decrease as level of farm output rises", "Adding more farm labour always results in proportionately more output produced"],
     correct: 0,
     explanation: "The Law of Diminishing Returns (Law of Variable Proportions) states that as more units of a variable input (e.g., fertilizer) are added to fixed inputs (land), the marginal product eventually declines. It is fundamental to farm management."
   },
@@ -141,7 +141,7 @@ export const da241Questions: Question[] = [
     id: "d241_018",
     subject: "da-241",
     question: "The 'e-NAM' platform in India was launched for:",
-    options: ["Online banking for farmers", "E-learning for farmers", "National Agriculture Market — online trading of agricultural produce", "Digital land records"],
+    options: ["Online savings and loan banking services for rural farmer communities", "Digital agricultural education and training programmes for rural youth", "National Agriculture Market — online trading of agricultural produce", "Digitization of land records and property registration for farmers"],
     correct: 2,
     explanation: "e-NAM (National Agriculture Market) is an online trading portal launched in 2016 that connects APMC mandis across India. It enables farmers to sell produce online to buyers across the country, ensuring competitive prices."
   },
@@ -149,7 +149,7 @@ export const da241Questions: Question[] = [
     id: "d241_019",
     subject: "da-241",
     question: "Land reform refers to:",
-    options: ["Soil fertility improvement", "Redistribution of land from large landowners to landless poor", "Land leveling", "Irrigation development"],
+    options: ["Improvement of soil fertility through organic manures, lime, and micronutrient application", "Redistribution of land from large landowners to landless poor", "Physical levelling and grading of agricultural land for uniform irrigation", "Construction of field channels, check dams, and irrigation infrastructure"],
     correct: 1,
     explanation: "Land reform includes measures like land ceiling (maximum land one can hold), abolition of zamindari (intermediary land tenure), redistribution of surplus land to landless poor, and tenancy reforms (security for tenant farmers)."
   },
@@ -157,7 +157,7 @@ export const da241Questions: Question[] = [
     id: "d241_020",
     subject: "da-241",
     question: "The main function of NABARD is:",
-    options: ["Retail banking", "Export promotion", "Insurance only", "Providing credit for agriculture and rural development"],
+    options: ["Providing retail banking services to farmers through brick-and-mortar branches", "Promoting export of agricultural commodities through international marketing assistance", "Offering crop insurance coverage to farmers against natural calamity risks", "Providing credit for agriculture and rural development"],
     correct: 3,
     explanation: "NABARD (National Bank for Agriculture and Rural Development) provides refinance to cooperative banks, regional rural banks, and commercial banks for agricultural and rural development activities. It also funds watershed development."
   },
@@ -165,7 +165,7 @@ export const da241Questions: Question[] = [
     id: "d241_021",
     subject: "da-241",
     question: "Farm diversification means:",
-    options: ["Growing multiple crops and enterprises to reduce risk and increase income", "Growing only one crop repeatedly", "Mechanizing all farm operations", "Only animal husbandry"],
+    options: ["Growing multiple crops and enterprises to reduce risk and increase income", "Cultivating a single profitable commodity crop on all available farm land every season", "Replacing manual operations entirely with mechanized equipment for greater efficiency", "Maintaining only livestock enterprises while eliminating all crop cultivation"],
     correct: 0,
     explanation: "Farm diversification involves growing multiple crops, rearing livestock, and engaging in various enterprises on the same farm. It reduces risk from price fluctuations and crop failures, and improves overall farm income throughout the year."
   },
@@ -173,7 +173,7 @@ export const da241Questions: Question[] = [
     id: "d241_022",
     subject: "da-241",
     question: "The term 'price support' means:",
-    options: ["Government fixing maximum price", "Market-determined price", "Government ensuring a minimum guaranteed price to prevent price fall below a certain level", "Export price subsidy only"],
+    options: ["State government imposing a statutory ceiling above which no farmer can legally sell", "Open market price determined by equilibrium of agricultural demand and supply forces", "Government ensuring a minimum guaranteed price to prevent price fall below a certain level", "Export price subsidy provided by government to enable farmers to compete globally"],
     correct: 2,
     explanation: "Price support (Minimum Support Price) is a government intervention to ensure farmers receive at least a minimum guaranteed price for their produce. It prevents market prices from falling too low during abundant harvests."
   },
@@ -181,7 +181,7 @@ export const da241Questions: Question[] = [
     id: "d241_023",
     subject: "da-241",
     question: "Contract farming is defined as:",
-    options: ["Government farming", "An agreement between farmers and buyers specifying quality, price, and quantity before production", "Cooperative farming", "Tenant farming"],
+    options: ["A scheme where government operates farms directly using agricultural department staff", "An agreement between farmers and buyers specifying quality, price, and quantity before production", "A system where farmers jointly pool resources and cultivate land as a collective enterprise", "A legal arrangement where cultivators pay rent for using land owned by absentee landlords"],
     correct: 1,
     explanation: "Contract farming is a pre-harvest agreement between farmers (producers) and buyers (agri-companies, processors, exporters) specifying the production quantity, quality standards, and price. It ensures market and reduces risk for farmers."
   },
@@ -213,7 +213,7 @@ export const da241Questions: Question[] = [
     id: "d241_027",
     subject: "da-241",
     question: "The term 'disguised unemployment' in agriculture means:",
-    options: ["Workers who hide their unemployment", "Workers engaged in farming whose removal would not reduce output", "Seasonal unemployment", "Structural unemployment"],
+    options: ["Seasonal workers who are temporarily without employment between crop seasons", "Workers engaged in farming whose removal would not reduce output", "Structural unemployment caused by mechanization replacing manual farm labour", "Educated rural youth unable to find white-collar employment in urban areas"],
     correct: 1,
     explanation: "Disguised unemployment exists when more workers are employed than actually needed — their marginal productivity is zero or near zero. Even if these workers are removed, total agricultural output would not decrease. Common in Indian agriculture."
   },
@@ -221,7 +221,7 @@ export const da241Questions: Question[] = [
     id: "d241_028",
     subject: "da-241",
     question: "The main objective of the Public Distribution System (PDS) is:",
-    options: ["To maximize government revenue", "To control inflation only", "To export surplus food", "To provide food grains at subsidised prices to the poor"],
+    options: ["To generate revenue for the government through commodity taxation and trade margins", "To control domestic food price inflation by imposing statutory ceilings on traders", "To export surplus food grains to international markets and earn foreign exchange", "To provide food grains at subsidised prices to the poor"],
     correct: 3,
     explanation: "The Public Distribution System (PDS) distributes food grains (rice, wheat, sugar, kerosene) at subsidised prices through Fair Price Shops (ration shops) to Below Poverty Line (BPL) and Antyodaya households."
   },
@@ -237,7 +237,7 @@ export const da241Questions: Question[] = [
     id: "d241_030",
     subject: "da-241",
     question: "Agricultural marketing involves:",
-    options: ["Only buying crops from farmers", "Only export of crops", "All activities from production to final consumption including processing, storage, transport, and sale", "Government procurement only"],
+    options: ["Direct purchase of agricultural produce from individual farm households only", "Exclusive licensing of agricultural commodity exports through government agencies", "All activities from production to final consumption including processing, storage, transport, and sale", "Government procurement of foodgrains at minimum support prices only"],
     correct: 2,
     explanation: "Agricultural marketing encompasses all activities involved in the movement of agricultural produce from the farm gate to the final consumer — including harvesting, threshing, storage, processing, grading, transportation, and sale."
   },
@@ -245,7 +245,7 @@ export const da241Questions: Question[] = [
     id: "d241_031",
     subject: "da-241",
     question: "The 'law of demand' states that:",
-    options: ["Higher price leads to higher demand", "As price increases, quantity demanded decreases (inverse relationship) — other things being equal", "Demand and supply are always equal", "Income has no effect on demand"],
+    options: ["Higher price leads to proportionately higher quantity demanded in normal markets", "As price increases, quantity demanded decreases (inverse relationship) — other things being equal", "Demand and supply always reach equilibrium at the prevailing market price", "Consumer income has no measurable effect on agricultural commodity demand"],
     correct: 1,
     explanation: "Law of Demand: ceteris paribus (all other factors constant), quantity demanded varies inversely with price. When price rises, demand falls; when price falls, demand rises. Exception: Giffen goods (inferior goods where demand rises with price). Represented by a downward-sloping demand curve."
   },
@@ -253,7 +253,7 @@ export const da241Questions: Question[] = [
     id: "d241_032",
     subject: "da-241",
     question: "The 'price elasticity of demand' for food grains in India is generally:",
-    options: ["Highly elastic (> 1)", "Unit elastic (= 1)", "Perfectly elastic (= infinity)", "Inelastic (< 1) — demand changes less than price change"],
+    options: ["Highly elastic (> 1) — demand changes more than price change", "Unit elastic (= 1) — demand changes equal to price change", "Perfectly elastic (= infinity) — any price rise causes demand to fall to zero", "Inelastic (< 1) — demand changes less than price change"],
     correct: 3,
     explanation: "Food grain demand in India is price inelastic (0.3–0.6) because food is a necessity — people cannot easily reduce food consumption even when prices rise. Luxury goods and non-essential items have elastic demand. Inelastic demand means price changes cause proportionately smaller quantity changes."
   },
@@ -261,7 +261,7 @@ export const da241Questions: Question[] = [
     id: "d241_033",
     subject: "da-241",
     question: "The 'farm management' is defined as the science and art of:",
-    options: ["Organizing and operating a farm for maximum continuous profit consistent with sustainable use of resources", "Government policies for farming", "Growing the maximum number of crops", "Selling farm produce at the highest price"],
+    options: ["Organizing and operating a farm for maximum continuous profit consistent with sustainable use of resources", "Formulating and implementing national government agricultural policy and extension schemes", "Cultivating the maximum possible number of crop species on available farm land", "Selling farm produce at the highest achievable market price each season"],
     correct: 0,
     explanation: "Farm management is defined as 'the science and art of organizing, operating, and directing a farm business in a way as to make use of available resources profitably on a sustained basis.' It involves decision-making on what, how, when, and how much to produce."
   },
@@ -269,7 +269,7 @@ export const da241Questions: Question[] = [
     id: "d241_034",
     subject: "da-241",
     question: "The 'principle of comparative advantage' in agricultural economics refers to:",
-    options: ["Growing crops where absolute costs are lowest", "Growing the crop with highest price", "Specializing in production of goods with lower opportunity cost — basis of trade between regions", "Government subsidy advantage"],
+    options: ["Growing only those crops where absolute production costs are lowest across all regions", "Cultivating whichever crop commands the highest prevailing market price each season", "Specializing in production of goods with lower opportunity cost — basis of trade between regions", "Government subsidy advantage given to farmers in backward agricultural districts"],
     correct: 2,
     explanation: "Law of Comparative Advantage (Ricardo): even if one region is absolutely more efficient in all crops, both regions benefit by specializing in the crop in which they have the lowest opportunity cost. Basis of inter-regional and international agricultural trade."
   },
@@ -293,7 +293,7 @@ export const da241Questions: Question[] = [
     id: "d241_037",
     subject: "da-241",
     question: "The 'cost of production' in farming includes:",
-    options: ["Variable costs + Fixed costs (interest on capital, depreciation, rent, family labour value)", "Only seed and fertilizer cost", "Only hired labour cost", "Only machinery cost"],
+    options: ["Variable costs + Fixed costs (interest on capital, depreciation, rent, family labour value)", "Seed cost and fertilizer cost only — other inputs are provided free by government", "Only hired labour cost excluding all machinery, irrigation, and overhead charges", "Only machinery and equipment cost excluding land rent and family labour value"],
     correct: 0,
     explanation: "Farm cost includes: Variable (operating) costs — seeds, fertilizers, pesticides, irrigation, hired labour, machinery hire; and Fixed costs — interest on land value, depreciation of machinery/buildings, land rent, imputed value of family labour. Total cost = A2 + FL + land rent."
   },
@@ -309,7 +309,7 @@ export const da241Questions: Question[] = [
     id: "d241_039",
     subject: "da-241",
     question: "The 'Farm Business Income' is calculated as:",
-    options: ["Gross farm income only", "Gross income minus all explicit paid-out costs (A2 costs)", "Profit after subtracting family labour value and land rent also", "Government subsidy received"],
+    options: ["Total gross receipts from crop and livestock sales before deducting any costs", "Gross income minus all explicit paid-out costs (A2 costs)", "Net income after subtracting imputed family labour value and opportunity cost of land", "Government subsidy and PM-KISAN income received by the farmer household"],
     correct: 1,
     explanation: "Farm Business Income (FBI) = Gross farm receipts – Paid-out costs (A2 — purchased inputs). It is the return to the farmer for his own resources (land, family labour, management). Net farm income further deducts imputed value of owned resources."
   },
@@ -317,7 +317,7 @@ export const da241Questions: Question[] = [
     id: "d241_040",
     subject: "da-241",
     question: "The 'Marketing margin' in agricultural marketing refers to:",
-    options: ["Profit of the farmer only", "Subsidy to farmers", "Government tax on produce", "Difference between price paid by consumer and price received by farmer — includes transportation, processing, and trader margins"],
+    options: ["Net profit earned by farmers per quintal after deducting input and land costs", "Direct subsidy provided by government to compensate farmers for low market prices", "Value added tax and cess levied by state government on agricultural commodity trade", "Difference between price paid by consumer and price received by farmer — includes transportation, processing, and trader margins"],
     correct: 3,
     explanation: "Marketing margin = Retail price (consumer) – Farm gate price (producer). It includes: transportation cost, handling, storage, processing, wholesaler/retailer profit, taxes, and losses. High marketing margins mean farmers receive a smaller share of consumer price."
   },
@@ -341,7 +341,7 @@ export const da241Questions: Question[] = [
     id: "d241_043",
     subject: "da-241",
     question: "The 'Pradhan Mantri Fasal Bima Yojana' (PMFBY) provides:",
-    options: ["Free seeds to all farmers", "Crop insurance at low premium rates with government subsidy on insurance premium", "Free irrigation water", "Loan waiver"],
+    options: ["Free certified seeds of improved varieties distributed to all registered farmers", "Crop insurance at low premium rates with government subsidy on insurance premium", "Free irrigation water through canal distribution during kharif and rabi seasons", "Complete loan waiver for crop loans taken from cooperative banks and RRBs"],
     correct: 1,
     explanation: "PMFBY (Pradhan Mantri Fasal Bima Yojana) launched 2016: crop insurance at farmer premium of 2% for Kharif, 1.5% for Rabi, 5% for commercial/horticulture. Government pays the balance premium. Covers losses from natural calamities, pests, and diseases."
   },
@@ -349,7 +349,7 @@ export const da241Questions: Question[] = [
     id: "d241_044",
     subject: "da-241",
     question: "The 'income multiplier effect' of agriculture means:",
-    options: ["Agricultural income is reduced by taxes", "Government multiplies agricultural subsidies", "Crop prices multiply annually", "Every rupee of farm income generates additional income in the rest of the economy through backward and forward linkages"],
+    options: ["Agricultural income is progressively reduced by taxes causing decline in rural purchasing power", "Government spending on agriculture subsidies multiplies to create rural non-farm employment", "Crop price inflation compounds annually to generate multiple times the original farm income", "Every rupee of farm income generates additional income in the rest of the economy through backward and forward linkages"],
     correct: 3,
     explanation: "Agricultural income multiplier: farm income stimulates demand for non-farm goods and services. Farmers buy: inputs (fertilizers, machinery), consumer goods, and services. This creates additional income in the non-farm economy. Agriculture has high multiplier due to its size and linkages."
   },
@@ -357,7 +357,7 @@ export const da241Questions: Question[] = [
     id: "d241_045",
     subject: "da-241",
     question: "The 'Engel's Law' in consumer economics states that:",
-    options: ["As income rises, proportion of income spent on food decreases (food expenditure share falls)", "As income rises, proportion of income spent on food increases", "Food prices always rise with income", "Total food expenditure decreases with income"],
+    options: ["As income rises, proportion of income spent on food decreases (food expenditure share falls)", "As income rises, the proportion of income spent on food items increases substantially", "Rising food prices are always accompanied by proportional increases in household income", "Total household food expenditure decreases in absolute terms as income rises"],
     correct: 0,
     explanation: "Engel's Law (Ernst Engel, 1857): As household income rises, the proportion of income spent on food decreases, even though the absolute amount spent on food may increase. This explains why agriculture's GDP share falls as countries develop (Structural transformation)."
   },
@@ -365,7 +365,7 @@ export const da241Questions: Question[] = [
     id: "d241_046",
     subject: "da-241",
     question: "The main function of NABARD (National Bank for Agriculture and Rural Development) is:",
-    options: ["Direct lending to farmers at branch level", "Fixing MSP for crops", "Refinancing banks for agricultural credit, rural development, and watershed projects", "Operating e-NAM portal"],
+    options: ["Direct lending to farmers through branch-level credit disbursement operations", "Fixing MSP for all notified crops based on CACP cost of production data", "Refinancing banks for agricultural credit, rural development, and watershed projects", "Operating the e-NAM digital platform for online trading of agricultural commodities"],
     correct: 2,
     explanation: "NABARD (est. 1982) functions as the apex development bank for agriculture: refinances RRBs, cooperative banks, and commercial banks for agricultural and rural credit; supervises rural cooperative banks; funds watershed development (RIDF), farmer producer organizations, and rural infrastructure."
   },
@@ -373,7 +373,7 @@ export const da241Questions: Question[] = [
     id: "d241_047",
     subject: "da-241",
     question: "The 'Net present value' (NPV) method for farm investment appraisal discounts future cash flows because:",
-    options: ["Future income is always uncertain and should be ignored", "Money received in future is worth less than money received today (time value of money)", "Inflation increases value of future money", "Government regulations require discounting"],
+    options: ["Future agricultural income is always uncertain and should be eliminated from calculations", "Money received in future is worth less than money received today (time value of money)", "Inflation consistently increases the purchasing value of money received in the future", "Government regulations require mandatory discounting of all future agricultural returns"],
     correct: 1,
     explanation: "Time value of money: Rs. 100 today is worth more than Rs. 100 next year because today's Rs. 100 can earn interest (opportunity cost). NPV = Sum of (future net cash flows / (1+r)^t) where r = discount rate, t = year. Projects with NPV > 0 are economically viable."
   },
@@ -381,7 +381,7 @@ export const da241Questions: Question[] = [
     id: "d241_048",
     subject: "da-241",
     question: "The 'terms of trade' for agriculture (Tott) refers to:",
-    options: ["Trade between farmers at local markets", "Trade agreements between countries", "Government's trade policy for exports", "The ratio of prices received by farmers (output prices) to prices paid by farmers (input prices)"],
+    options: ["Volume of agricultural commodities traded between local farming communities annually", "Bilateral trade agreements between countries governing agricultural tariffs and quotas", "Government export-import policy determining duty structure on agricultural products", "The ratio of prices received by farmers (output prices) to prices paid by farmers (input prices)"],
     correct: 3,
     explanation: "Terms of Trade (ToT) for agriculture = (Index of prices received by farmers) / (Index of prices paid by farmers) × 100. When ToT < 100, agriculture is in unfavourable terms of trade — farmers' purchasing power for inputs has declined. ToT improvement is a policy goal."
   },
@@ -389,7 +389,7 @@ export const da241Questions: Question[] = [
     id: "d241_049",
     subject: "da-241",
     question: "The APMC Act reforms allowing private markets and direct farmer-to-processor sales were promoted by:",
-    options: ["Model APMC Act (2003), Model Contract Farming Act (2018), and Farm Laws (2020 — later withdrawn)", "State governments without central guidance", "RBI monetary policy", "WTO agreements"],
+    options: ["Model APMC Act (2003), Model Contract Farming Act (2018), and Farm Laws (2020 — later withdrawn)", "State governments acting independently based on their own agricultural marketing legislation", "RBI monetary policy framework for agricultural credit and rural market development", "WTO Agreement on Agriculture requiring mandatory removal of state trading restrictions"],
     correct: 0,
     explanation: "Central government promoted APMC reforms through: Model APMC Act (2003) — for private markets, FDI in agri marketing; Model Contract Farming Act (2018); and three Farm Laws (2020 — withdrawn in 2021). States like Bihar abolished APMC entirely; most are reforming partially."
   },
@@ -397,7 +397,7 @@ export const da241Questions: Question[] = [
     id: "d241_050",
     subject: "da-241",
     question: "The 'agricultural cooperatives' in India are governed by which authority?",
-    options: ["RBI only", "SEBI (Securities Exchange Board)", "State Cooperative Acts and the Multi-State Cooperative Societies Act (2002) — registered under respective state/central laws", "Ministry of Commerce"],
+    options: ["Reserve Bank of India through Banking Regulation Act and cooperative banking norms", "Securities Exchange Board of India through commodity derivatives market regulations", "State Cooperative Acts and the Multi-State Cooperative Societies Act (2002) — registered under respective state/central laws", "Department of Financial Services, Ministry of Finance through commercial banking framework"],
     correct: 2,
     explanation: "Agricultural cooperatives are registered under State Cooperative Societies Acts. Multi-state cooperatives (like IFFCO, KRIBHCO, Amul-GCMMF) are registered under Multi-State Cooperative Societies Act 2002. Primary cooperatives — PACs (Primary Agricultural Credit Societies) — provide credit at village level."
   },
@@ -413,7 +413,7 @@ export const da241Questions: Question[] = [
     id: "d241_052",
     subject: "da-241",
     question: "The 'Green Box' subsidies in WTO/GATT agriculture agreement are:",
-    options: ["Subsidies that directly distort trade (to be reduced)", "Amber box subsidies tied to production", "Blue box subsidies limited by production", "Non-trade distorting subsidies (R&D, extension, food security stockholding, disaster relief) — exempt from reduction"],
+    options: ["Trade-distorting production subsidies that must be reduced under Amber Box commitments", "Price support payments tied directly to production output with AMS reduction obligations", "Direct payments under production-limiting programmes subject to Blue Box conditions", "Non-trade distorting subsidies (R&D, extension, food security stockholding, disaster relief) — exempt from reduction"],
     correct: 3,
     explanation: "WTO Agreement on Agriculture (1995) categorizes subsidies: Green Box = non-distorting (R&D, extension, food security stocks, disaster relief, environmental programs) — no reduction obligation; Amber Box = trade-distorting (price support, input subsidies) — must be reduced; Blue Box = partially distorting."
   },
@@ -421,7 +421,7 @@ export const da241Questions: Question[] = [
     id: "d241_053",
     subject: "da-241",
     question: "The 'opportunity cost' of using family labour on the farm is:",
-    options: ["The wage that family labour could have earned in the best alternative employment", "Zero — family labour has no cost", "Only physical fatigue cost", "Government's minimum wage rate only"],
+    options: ["The wage that family labour could have earned in the best alternative employment", "Zero — as family labour involves no direct cash outflow from the farm household", "Only the physical fatigue and health cost borne by family members doing farm work", "The statutory government minimum wage applicable in the particular state and season"],
     correct: 0,
     explanation: "Opportunity cost of family labour = the income that family members could earn in the next best alternative employment (off-farm wage). If family labour works on farm when off-farm wages are Rs.400/day, the opportunity cost is Rs.400/day even if no cash is paid."
   },
@@ -429,7 +429,7 @@ export const da241Questions: Question[] = [
     id: "d241_054",
     subject: "da-241",
     question: "The concept of 'diminishing marginal returns' in agriculture means:",
-    options: ["Crop yield always decreases with more inputs", "Returns from farming decrease every year", "Adding more of one input (e.g., fertilizer) while keeping others constant eventually adds less and less to output", "More land always gives less output"],
+    options: ["Total crop yield continuously decreases each year even when all inputs are increased", "Returns from farming decrease each successive year regardless of input management", "Adding more of one input (e.g., fertilizer) while keeping others constant eventually adds less and less to output", "Cultivating more land beyond a threshold always results in lower average crop yields"],
     correct: 2,
     explanation: "Law of Diminishing Marginal Returns: as more units of a variable input (fertilizer, labour) are added to fixed inputs (land), the marginal (additional) product eventually decreases. Example: first 50 kg N/ha adds 1000 kg grain; next 50 kg N adds 600 kg; next 50 kg adds 300 kg — diminishing returns."
   },
@@ -437,7 +437,7 @@ export const da241Questions: Question[] = [
     id: "d241_055",
     subject: "da-241",
     question: "The 'isoquant' in farm economics represents:",
-    options: ["Combinations of products giving equal total revenue", "Combinations of two inputs that produce the same level of output (equal product curve)", "Total cost of production at different output levels", "Market equilibrium between demand and supply"],
+    options: ["All combinations of two products that generate the same level of total revenue", "Combinations of two inputs that produce the same level of output (equal product curve)", "Total production cost at different output levels for a given set of input prices", "Market equilibrium between agricultural commodity demand and supply quantities"],
     correct: 1,
     explanation: "An isoquant (equal product curve) shows all combinations of two inputs (e.g., fertilizer and irrigation) that produce the same level of output. It is convex to the origin, showing diminishing marginal rate of technical substitution (MRTS) between inputs."
   },
@@ -445,7 +445,7 @@ export const da241Questions: Question[] = [
     id: "d241_056",
     subject: "da-241",
     question: "The 'Pareto optimum' concept in agricultural economics refers to:",
-    options: ["Maximizing production of all crops", "Government optimal pricing policy", "Equal distribution of agricultural income", "A resource allocation where no one can be made better off without making someone else worse off"],
+    options: ["Maximizing simultaneous production output of all crops across all farming regions", "Optimal government pricing policy that minimizes consumer prices while maximizing farm income", "Perfectly equal distribution of agricultural income among all rural farming households", "A resource allocation where no one can be made better off without making someone else worse off"],
     correct: 3,
     explanation: "Pareto optimum (Vilfredo Pareto): a situation where resource allocation cannot be changed to make any person better off without making at least one other person worse off. It is a benchmark of economic efficiency. Most agricultural markets operate below Pareto optimum."
   },
@@ -461,7 +461,7 @@ export const da241Questions: Question[] = [
     id: "d241_058",
     subject: "da-241",
     question: "The 'weighted average cost of capital' (WACC) concept is used in farm credit to:",
-    options: ["Calculate crop yield", "Fix land price", "Determine the blended interest rate on various sources of funds (owned capital + borrowed capital) for investment decisions", "Calculate subsidy amount"],
+    options: ["Estimate expected crop yield based on soil fertility, climate, and varietal potential", "Calculate fair market value of agricultural land based on productivity and location factors", "Determine the blended interest rate on various sources of funds (owned capital + borrowed capital) for investment decisions", "Estimate subsidy component in concessional loans for small and marginal farmers"],
     correct: 2,
     explanation: "WACC = weighted average of interest/return rates on all capital sources (own capital, short-term bank loans, long-term loans, cooperatives). Farm investments should earn returns above WACC. If farm ROI > WACC, the investment adds value; if ROI < WACC, it destroys value."
   },
@@ -469,7 +469,7 @@ export const da241Questions: Question[] = [
     id: "d241_059",
     subject: "da-241",
     question: "The 'land market' in India is characterized by:",
-    options: ["Free and efficient land markets like stock markets", "Imperfections — fragmented holdings, tenancy restrictions, ceilings on land ownership, and incomplete titles limiting land mobility", "Government ownership of all agricultural land", "No land transactions due to government control"],
+    options: ["Efficient price discovery mechanisms similar to commodity exchange trading of agricultural assets", "Imperfections — fragmented holdings, tenancy restrictions, ceilings on land ownership, and incomplete titles limiting land mobility", "Complete government ownership and control over all agricultural land and associated tenancy", "Unrestricted lease markets with legally enforceable tenancy contracts and clear land titles"],
     correct: 1,
     explanation: "Indian land markets have multiple imperfections: fragmentation of holdings (average 1.08 ha), land ceiling laws, restrictive tenancy legislation, land record quality, and social constraints. These imperfections prevent optimal land allocation and farm consolidation."
   },
@@ -477,7 +477,7 @@ export const da241Questions: Question[] = [
     id: "d241_060",
     subject: "da-241",
     question: "The 'crop insurance' in India aims to:",
-    options: ["Guarantee farmer profit regardless of market prices", "Subsidize all farming inputs", "Fix crop prices", "Provide financial support to farmers suffering crop loss due to natural calamities, pests, and diseases"],
+    options: ["Guarantee farmer profit regardless of market prices prevailing during any season", "Provide universal input subsidy to cover seed, fertilizer, and irrigation costs equally", "Stabilize crop prices at MSP level throughout the year through government procurement", "Provide financial support to farmers suffering crop loss due to natural calamities, pests, and diseases"],
     correct: 3,
     explanation: "Crop insurance (PMFBY, RWBCIS) provides compensation to farmers when crop yield falls below guaranteed levels due to: natural calamities (drought, flood, cyclone, hailstorm, fire), pest/disease outbreaks, or prevented sowing due to adverse weather."
   },
@@ -485,7 +485,7 @@ export const da241Questions: Question[] = [
     id: "d241_061",
     subject: "da-241",
     question: "The 'cooperative credit structure' in India has levels:",
-    options: ["Three-tier: Primary Agricultural Credit Societies (PACS) at village — District Central Cooperative Banks (DCCBs) — State Cooperative Banks (SCBs)", "Single level: primary society only", "Two-tier: commercial banks and NABARD", "NABARD directly lending to farmers"],
+    options: ["Three-tier: Primary Agricultural Credit Societies (PACS) at village — District Central Cooperative Banks (DCCBs) — State Cooperative Banks (SCBs)", "Single-tier structure with primary cooperative societies directly linked to NABARD for refinancing", "Two-tier system of commercial banks and NABARD providing all agricultural credit", "Four-tier system with national, state, district, and village level cooperative banking units"],
     correct: 0,
     explanation: "Three-tier cooperative credit structure: PACS (village/primary level) — DCCBs (district level) — SCBs (state level). NABARD refinances SCBs. PACS provide short-term crop loans to members. About 95,000 PACS serve rural India. Credit cooperatives also include cooperative land development banks (CLDBs) for long-term credit."
   },
@@ -493,7 +493,7 @@ export const da241Questions: Question[] = [
     id: "d241_062",
     subject: "da-241",
     question: "The 'break-even point' in farm management is the output level at which:",
-    options: ["Net profit is maximum", "Variable costs equal fixed costs only", "Total revenue equals total cost — no profit, no loss", "Government support price equals market price"],
+    options: ["Net profit is at its maximum possible level with optimal input combination", "Variable costs exactly equal fixed costs with zero contribution to overhead", "Total revenue equals total cost — no profit, no loss", "Government support price becomes exactly equal to the prevailing wholesale market price"],
     correct: 2,
     explanation: "Break-even point (BEP): Total Revenue = Total Cost (TC = TR). At BEP, net profit = 0. Below BEP, farm operates at a loss; above BEP, farm earns profit. BEP output = Fixed costs / (Price – Variable cost per unit). Helps determine minimum crop price for viability."
   },
@@ -501,7 +501,7 @@ export const da241Questions: Question[] = [
     id: "d241_063",
     subject: "da-241",
     question: "The 'buffer stock' maintained by FCI (Food Corporation of India) is used for:",
-    options: ["Export only", "Maintaining food security (distribution through PDS) and market price stabilization", "Only animal feed", "Seed production"],
+    options: ["Exporting surplus grain to international markets to earn foreign exchange revenue", "Maintaining food security (distribution through PDS) and market price stabilization", "Supplying subsidised grain to poultry industry and feedlot operators at reduced cost", "Production and distribution of certified foundation seeds through cooperative outlets"],
     correct: 1,
     explanation: "FCI maintains buffer stocks (strategic reserves) of wheat and rice to: 1) Ensure food security through PDS distribution, 2) Stabilize market prices (release stock when prices rise, hold when prices fall), 3) Meet emergency food requirements. Buffer stock norms are set by the government."
   },
@@ -509,7 +509,7 @@ export const da241Questions: Question[] = [
     id: "d241_064",
     subject: "da-241",
     question: "The 'Pradhan Mantri Krishi Sinchai Yojana' (PMKSY) follows the principle of:",
-    options: ["Free water for all farmers", "Flood irrigation subsidization", "Groundwater extraction promotion", "'Har Khet Ko Pani, More Crop Per Drop' — expanding irrigation coverage and improving water use efficiency"],
+    options: ["Providing free canal water to all agricultural holdings through nationalized irrigation systems", "Subsidising flood irrigation through expanded canal network construction in drought-prone regions", "Mandating compulsory groundwater recharge structures in all high water-table priority zones", "'Har Khet Ko Pani, More Crop Per Drop' — expanding irrigation coverage and improving water use efficiency"],
     correct: 3,
     explanation: "PMKSY (2015): 'Har Khet Ko Pani' (irrigation to every farm) + 'More Crop Per Drop' (microirrigation efficiency). It integrates: Accelerated Irrigation Benefits Programme, PMKSY-Watershed (erstwhile IWMP+NWDPRA), and PMKSY-HKKP (Per Drop More Crop — drip/sprinkler promotion)."
   },
@@ -517,7 +517,7 @@ export const da241Questions: Question[] = [
     id: "d241_065",
     subject: "da-241",
     question: "The 'Malthusian theory of population' relevant to agriculture states:",
-    options: ["Population grows geometrically (exponentially) while food production grows arithmetically (linearly), leading to food shortages", "Population grows arithmetically while food production grows geometrically", "Food production always exceeds population growth", "Population and food grow at the same rate"],
+    options: ["Population grows geometrically (exponentially) while food production grows arithmetically (linearly), leading to food shortages", "Population grows arithmetically in a linear progression while food production grows geometrically", "Technological progress in agriculture ensures food production always exceeds population growth", "Population and food supply both grow at an identical rate maintaining permanent equilibrium"],
     correct: 0,
     explanation: "Thomas Malthus (1798): Population grows in geometric progression (1,2,4,8...) while food supply grows in arithmetic progression (1,2,3,4...). This leads to inevitable food shortages unless population is checked by 'positive checks' (famine, disease, war) or 'preventive checks' (late marriage)."
   },
@@ -525,7 +525,7 @@ export const da241Questions: Question[] = [
     id: "d241_066",
     subject: "da-241",
     question: "The 'Agricultural Price Policy' in India aims to:",
-    options: ["Maximize farmers' income by keeping food prices high", "Fix all food prices at zero for consumers", "Balance interests of producers (remunerative prices) and consumers (affordable food prices) through MSP and public distribution", "Eliminate all price support"],
+    options: ["Maximise farmers' income by maintaining consistently high food prices throughout the year", "Provide all food items completely free to consumers by eliminating retail food prices", "Balance interests of producers (remunerative prices) and consumers (affordable food prices) through MSP and public distribution", "Eliminate all government price support and allow purely market-determined agricultural prices"],
     correct: 2,
     explanation: "India's agricultural price policy aims to: 1) Provide remunerative prices to farmers (MSP, FRP), 2) Maintain affordable food prices for consumers (PDS, buffer stocks), and 3) Control food inflation. CACP recommends MSP balancing cost of production and market conditions."
   },
@@ -533,7 +533,7 @@ export const da241Questions: Question[] = [
     id: "d241_067",
     subject: "da-241",
     question: "The 'land tenure' reforms after Indian independence included:",
-    options: ["Increasing landlord power", "Zamindari abolition, tenancy reforms, land ceiling laws, and consolidation of holdings to improve land distribution equity", "Encouraging absentee landlordism", "No land reforms were undertaken"],
+    options: ["Increasing landlord power over tenant cultivators through codified regulatory framework", "Zamindari abolition, tenancy reforms, land ceiling laws, and consolidation of holdings to improve land distribution equity", "Encouraging large-scale absentee landlordism and corporate farming on consolidated estates", "Maintaining the existing zamindari system with minor administrative modifications only"],
     correct: 1,
     explanation: "Post-independence land reforms: Zamindari abolition (1950s), Tenancy reforms (tenants got security of tenure and ownership rights), Land ceiling legislation (limiting individual holdings to 4–18 ha), Consolidation of fragmented holdings, and Bhoodan/Gramdan movements (voluntary land redistribution)."
   },
@@ -541,7 +541,7 @@ export const da241Questions: Question[] = [
     id: "d241_068",
     subject: "da-241",
     question: "The 'green marketing' of agricultural produce involves:",
-    options: ["Marketing of green-coloured vegetables only", "Using green packaging only", "Selling crops at APMC green (organic) mandis", "Selling eco-friendly, sustainably produced, and certified organic products at premium prices"],
+    options: ["Marketing exclusively green-coloured vegetables and leafy greens in specialty retail stores", "Using only biodegradable packaging materials for all agricultural commodity distribution", "Selling certified produce exclusively through government-operated organic produce mandis", "Selling eco-friendly, sustainably produced, and certified organic products at premium prices"],
     correct: 3,
     explanation: "Green marketing (eco-marketing) involves producing and marketing agricultural products that are environmentally friendly: organic farming certification, fair trade labels, sustainable packaging, reduced carbon footprint, and marketing at price premiums to conscious consumers."
   },
@@ -557,7 +557,7 @@ export const da241Questions: Question[] = [
     id: "d241_070",
     subject: "da-241",
     question: "The 'Bharat Krishi Vigyan Kendra' (KVK) network is maintained by:",
-    options: ["Ministry of Rural Development", "State Agriculture Universities", "ICAR (Indian Council of Agricultural Research) — India has 731 KVKs at district level", "NABARD"],
+    options: ["Ministry of Rural Development through District Rural Development Agencies at block level", "State Agriculture Universities through their field-level agricultural outreach programmes", "ICAR (Indian Council of Agricultural Research) — India has 731 KVKs at district level", "NABARD through its Rural Infrastructure Development Fund technical assistance programmes"],
     correct: 2,
     explanation: "KVKs (Krishi Vigyan Kendras — Farm Science Centres) are district-level technology demonstration units funded by ICAR. India has 731 KVKs (one per district). They demonstrate improved technologies, train farmers, and test new varieties under local field conditions."
   },
@@ -565,7 +565,7 @@ export const da241Questions: Question[] = [
     id: "d241_071",
     subject: "da-241",
     question: "The 'forward contract' in agricultural commodity markets allows:",
-    options: ["Farmers to always get MSP", "Buyers and sellers to agree today on price, quantity, and delivery date for future delivery of a commodity", "Only government agencies to buy futures", "Banks to lend money forward to farmers"],
+    options: ["All farmers to automatically receive MSP as floor price guaranteed by government", "Buyers and sellers to agree today on price, quantity, and delivery date for future delivery of a commodity", "Only government agencies and FCI to purchase commodities at predetermined future prices", "Banks to provide pre-season revolving credit facilities to farmers on future crop collateral"],
     correct: 1,
     explanation: "Forward contract: bilateral agreement where buyer and seller agree now on price, quantity, quality, and delivery date for a future transaction. Unlike futures (exchange-traded, standardized), forwards are customized OTC contracts. They help farmers lock in prices and manage price risk."
   },
@@ -573,7 +573,7 @@ export const da241Questions: Question[] = [
     id: "d241_072",
     subject: "da-241",
     question: "The 'Integrated Farming System' (IFS) approach integrates:",
-    options: ["Only crop production activities", "Government programs only", "Only animal husbandry with crop", "Crop cultivation + livestock + fishery + horticulture on the same farm for better income and sustainability"],
+    options: ["Exclusive crop production optimised through soil-specific nutrient management protocols", "Coordination of central government agricultural schemes for comprehensive rural development", "Animal husbandry alone integrated with crop residue utilisation for fodder production", "Crop cultivation + livestock + fishery + horticulture on the same farm for better income and sustainability"],
     correct: 3,
     explanation: "Integrated Farming System combines crop (cereals, vegetables, oilseeds) + livestock (dairy, poultry, sheep/goat) + fishery (pond) + horticulture + apiculture on the same farm. Waste from one enterprise becomes input for another. Enhances income, employment, and environmental sustainability."
   },
@@ -581,7 +581,7 @@ export const da241Questions: Question[] = [
     id: "d241_073",
     subject: "da-241",
     question: "The 'National Food Security Mission (NFSM)' focuses on:",
-    options: ["Increasing production of rice, wheat, pulses, coarse cereals, and nutri-cereals through area expansion and productivity improvement", "Increasing food import", "Government food distribution only", "Reducing farming area"],
+    options: ["Increasing production of rice, wheat, pulses, coarse cereals, and nutri-cereals through area expansion and productivity improvement", "Facilitating agricultural commodity imports to supplement domestic production shortfalls", "Strengthening government procurement and distribution network for public food security", "Reducing cultivated area in favour of high-value horticultural crops for export markets"],
     correct: 0,
     explanation: "NFSM (launched 2007): aims to increase production of rice, wheat, pulses, coarse cereals (from 2014), and nutri-cereals (from 2018) to ensure food security. It provides subsidized seeds, fertilizers (micronutrients), farm machinery, and demonstrations of improved practices."
   },
@@ -589,7 +589,7 @@ export const da241Questions: Question[] = [
     id: "d241_074",
     subject: "da-241",
     question: "The 'Soil Health Card' scheme aims to:",
-    options: ["Provide health insurance to farmers", "Map groundwater availability", "Provide soil test-based fertilizer recommendations to improve nutrient use efficiency and reduce over-fertilization", "Assess crop damage for insurance"],
+    options: ["Provide health and accident insurance coverage to all registered farming households", "Map groundwater availability and aquifer depth across agricultural districts of India", "Provide soil test-based fertilizer recommendations to improve nutrient use efficiency and reduce over-fertilization", "Assess crop damage and yield loss for crop insurance settlement under PMFBY"],
     correct: 2,
     explanation: "Soil Health Card (SHC) scheme (launched 2015): tests soil for 12 parameters (NPK, pH, EC, OC, S, Zn, Fe, Cu, Mn, B) every 3 years. Farmers receive card with soil status and fertilizer recommendations to optimize nutrient application and reduce cost."
   },
@@ -597,7 +597,7 @@ export const da241Questions: Question[] = [
     id: "d241_075",
     subject: "da-241",
     question: "The 'marketing efficiency' in agricultural marketing is measured by:",
-    options: ["Number of traders in the market", "Reduction in marketing costs for given level of service, OR increase in output (service) for given cost — technically or operationally", "Volume of produce sold at the highest price", "Number of mandis in the state"],
+    options: ["Number of licensed traders and commission agents registered in the regulated market", "Reduction in marketing costs for given level of service, OR increase in output (service) for given cost — technically or operationally", "Volume of produce sold at the highest price across all mandis during peak harvest season", "Number of government-regulated APMC mandis established per district across the state"],
     correct: 1,
     explanation: "Marketing efficiency: Technical (operational) efficiency = output of marketing services / input costs — measures cost-effectiveness. Pricing efficiency = how well prices reflect true value and transmit market signals. Both are needed for efficient agriculture marketing."
   },
@@ -605,7 +605,7 @@ export const da241Questions: Question[] = [
     id: "d241_076",
     subject: "da-241",
     question: "The 'Andhra Pradesh Rythu Bharosa' scheme provides what benefit to farmers?",
-    options: ["Free seeds annually", "Debt waiver for all loans", "Free irrigation water", "Annual income support of ₹13,500 per farmer (in addition to PM-KISAN ₹6,000)"],
+    options: ["Distribution of certified paddy and kharif crop seeds free of cost to all registered farmers", "Complete waiver of all agricultural debts including cooperative and bank loans outstanding", "Free electricity supply for agricultural irrigation pump sets up to 7.5 HP per farmer", "Annual income support of ₹13,500 per farmer (in addition to PM-KISAN ₹6,000)"],
     correct: 3,
     explanation: "Andhra Pradesh Rythu Bharosa scheme provides ₹13,500/year direct income support per farmer family — including ₹7,500 as state share + ₹6,000 as PM-KISAN central share. Total: ₹13,500/year. Telangana has a similar scheme called 'Rythu Bandhu' (₹10,000/acre/year)."
   },
@@ -613,7 +613,7 @@ export const da241Questions: Question[] = [
     id: "d241_077",
     subject: "da-241",
     question: "The 'Telangana Rythu Bandhu' scheme provides:",
-    options: ["Investment support of ₹10,000 per acre per year to land-owning farmers (two instalments of ₹5,000)", "Free seeds and fertilizers to all farmers", "Crop insurance without premium", "Free electricity for irrigation pumps"],
+    options: ["Investment support of ₹10,000 per acre per year to land-owning farmers (two instalments of ₹5,000)", "Subsidised distribution of seeds, fertilizers, and pesticides to all registered farmers", "Comprehensive crop insurance coverage without any farmer premium payment required", "Free electricity for agricultural irrigation pumps up to 9 HP connected load"],
     correct: 0,
     explanation: "Rythu Bandhu (Telangana): Provides ₹10,000 per acre per year (₹5,000 before Kharif + ₹5,000 before Rabi) to all land-owning farmers. Launched 2018. It is unique — first investment support scheme tied to landholding rather than crop loss. Excludes tenant farmers (who don't own land)."
   },
@@ -621,7 +621,7 @@ export const da241Questions: Question[] = [
     id: "d241_078",
     subject: "da-241",
     question: "The 'commodity exchanges' (NCDEX, MCX) in India trade which type of contracts?",
-    options: ["Only physical spot delivery of commodities", "Government procurement contracts only", "Futures and options contracts for standardized agricultural and non-agricultural commodities", "Only international export contracts"],
+    options: ["Physical spot delivery contracts with immediate settlement at current cash prices", "Government procurement contracts for MSP-based purchase of notified agricultural commodities", "Futures and options contracts for standardized agricultural and non-agricultural commodities", "International forward export contracts for agricultural commodity shipments"],
     correct: 2,
     explanation: "NCDEX (National Commodity and Derivatives Exchange) and MCX (Multi Commodity Exchange) trade futures and options on standardized commodities (agricultural: soybean, mustard, chana, cotton; metals: gold, silver; energy: crude oil). Forward Markets Commission (now SEBI) regulates."
   },
@@ -637,7 +637,7 @@ export const da241Questions: Question[] = [
     id: "d241_080",
     subject: "da-241",
     question: "The 'WTO Agreement on Agriculture' (AoA) signed in 1995 aims at:",
-    options: ["Increasing agricultural trade barriers", "Promoting organic farming globally", "Standardizing crop production worldwide", "Reducing domestic support subsidies, export subsidies, and import tariff barriers through multilateral negotiations"],
+    options: ["Increasing agricultural import tariff barriers to protect domestic farmers from foreign competition", "Mandating all WTO member nations to adopt certified organic farming production standards", "Harmonising crop production methods and quality standards across all member nations", "Reducing domestic support subsidies, export subsidies, and import tariff barriers through multilateral negotiations"],
     correct: 3,
     explanation: "WTO AoA (1995): bound by three pillars — 1) Market Access (reduce tariffs, increase tariff-rate quotas), 2) Domestic Support (reduce trade-distorting Amber Box subsidies, allow Green Box), 3) Export Competition (reduce export subsidies). Developing countries get special and differential treatment."
   },
@@ -645,7 +645,7 @@ export const da241Questions: Question[] = [
     id: "d241_081",
     subject: "da-241",
     question: "The 'Farmer Producer Organization' (FPO) concept helps small farmers by:",
-    options: ["Aggregating small farmers into collectively organized entities for better market power, input access, and credit", "Government buying crops directly from individual farmers", "Eliminating all middlemen from markets", "Providing free machinery"],
+    options: ["Aggregating small farmers into collectively organized entities for better market power, input access, and credit", "Enabling direct government procurement from each individual farmer household separately", "Removing all agricultural middlemen through mandatory producer-to-consumer direct sales", "Providing free agricultural mechanization services financed entirely through government grants"],
     correct: 0,
     explanation: "FPOs (Farmer Producer Companies/Cooperatives): aggregate small/marginal farmers to achieve economies of scale in: bulk input purchasing (fertilizer, seeds), collective marketing (better prices, direct sales to processors), accessing finance, and adopting technology. Government targets 10,000 FPOs by 2024."
   },
@@ -653,7 +653,7 @@ export const da241Questions: Question[] = [
     id: "d241_082",
     subject: "da-241",
     question: "The 'Index of Prices Received by Farmers (IARF)' is computed to:",
-    options: ["Fix crop insurance premium", "Fix MSP annually", "Track changes in farm gate prices received by farmers over time — used in terms of trade analysis", "Calculate agricultural GDP"],
+    options: ["Determine actuarial risk for crop insurance premium fixation by insurance companies", "Provide guidelines for fixing MSP based on current input costs and market price trends", "Track changes in farm gate prices received by farmers over time — used in terms of trade analysis", "Compute annual growth rate of agricultural production across different crop seasons"],
     correct: 2,
     explanation: "IARF (Index of Prices Received by Farmers) tracks changes in farm gate prices of agricultural produce over time. It is compared with the Index of Prices Paid by Farmers (IAPF — input prices) to compute agricultural terms of trade (ToT = IARF/IAPF × 100)."
   },
@@ -661,7 +661,7 @@ export const da241Questions: Question[] = [
     id: "d241_083",
     subject: "da-241",
     question: "The 'Direct Benefit Transfer' (DBT) system for agricultural subsidies aims to:",
-    options: ["Increase government expenditure on agriculture", "Eliminate leakages by transferring subsidies directly to beneficiaries' bank accounts, bypassing intermediaries", "Subsidize fertilizer manufacturers only", "Provide crop advisory through SMS"],
+    options: ["Increase total government fiscal expenditure on agricultural development and infrastructure", "Eliminate leakages by transferring subsidies directly to beneficiaries' bank accounts, bypassing intermediaries", "Channel all subsidies exclusively through fertilizer manufacturers and input supply chains", "Provide technology-based crop advisory services through mobile and digital platforms"],
     correct: 1,
     explanation: "DBT (Direct Benefit Transfer) system: government transfers subsidies (PM-KISAN, fertilizer subsidy, PMFBY compensation, KCC interest subvention) directly to farmer bank accounts linked to Aadhaar. It eliminates leakages, reduces corruption, and ensures subsidy reaches intended beneficiaries."
   },
@@ -669,7 +669,7 @@ export const da241Questions: Question[] = [
     id: "d241_084",
     subject: "da-241",
     question: "The 'input subsidy' to farmers in India includes:",
-    options: ["Government pays all farming costs", "Only seed subsidy", "Only fertilizer subsidy", "Subsidy on seeds, fertilizers, irrigation electricity, and credit interest — amounting to crores annually"],
+    options: ["Government paying all farming costs including labour, machinery, and harvesting charges", "Government paying only certified seed costs for approved varieties to registered farmers", "Government paying fertilizer costs only through direct benefit transfer to bank accounts", "Subsidy on seeds, fertilizers, irrigation electricity, and credit interest — amounting to crores annually"],
     correct: 3,
     explanation: "Input subsidies to Indian farmers include: Fertilizer subsidy (highest — ~₹1.5 lakh crore/yr), Power subsidy (free/subsidized electricity for irrigation pumps — state governments), Seed subsidy (subsidized certified seeds), and Interest subvention on KCC loans (2–5% interest rate reduction)."
   },
@@ -677,7 +677,7 @@ export const da241Questions: Question[] = [
     id: "d241_085",
     subject: "da-241",
     question: "The 'agricultural credit' in India is classified as short-term, medium-term, and long-term based on:",
-    options: ["Repayment period — short-term (up to 15 months), medium-term (15 months–5 years), long-term (5–20 years)", "Amount of loan only", "Type of crop grown", "Collateral provided"],
+    options: ["Repayment period — short-term (up to 15 months), medium-term (15 months–5 years), long-term (5–20 years)", "Amount of loan — small loans below ₹1 lakh, medium loans ₹1–10 lakh, large loans above ₹10 lakh", "Type of crop financed — food grain loans, cash crop loans, and horticultural crop loans", "Collateral offered — personal guarantee, hypothecation of crop, or mortgage of land property"],
     correct: 0,
     explanation: "Agricultural credit classification: Short-term (< 15 months) — crop loans (KCC), marketing; Medium-term (15 months–5 years) — purchase of equipment, land development; Long-term (5–20 years) — land purchase, deep boring, large farm machinery. Different sources serve different credit terms."
   },
@@ -685,7 +685,7 @@ export const da241Questions: Question[] = [
     id: "d241_086",
     subject: "da-241",
     question: "The main difference between 'tenant farming' and 'share cropping' is:",
-    options: ["No difference — both are the same", "Tenant owns the land while sharecropper rents", "Tenant pays fixed rent (cash or crop) while sharecropper splits the produce with landowner in agreed ratio", "Government determines both arrangements"],
+    options: ["No meaningful practical difference — both result in identical contractual land use terms", "Tenant legally owns the land after cultivating for five consecutive years; sharecropper remains landless", "Tenant pays fixed rent (cash or crop) while sharecropper splits the produce with landowner in agreed ratio", "Government legally regulates only tenant farming arrangements while ignoring sharecropping"],
     correct: 2,
     explanation: "Tenant farming: tenant pays landowner a fixed rent (cash or fixed quantity of produce) regardless of harvest outcome — bears all crop risk. Sharecropping (batai): tenant and landowner share the produce in agreed proportion (e.g., 50:50 or 60:40) — risk shared between both parties."
   },
@@ -693,7 +693,7 @@ export const da241Questions: Question[] = [
     id: "d241_087",
     subject: "da-241",
     question: "The 'total factor productivity' (TFP) in agriculture measures:",
-    options: ["Yield per acre only", "Growth in output relative to growth in ALL inputs combined — indicator of technological progress", "Labour productivity alone", "Capital productivity only"],
+    options: ["Crop yield per unit land area without accounting for labour or capital inputs used", "Growth in output relative to growth in ALL inputs combined — indicator of technological progress", "Agricultural labour productivity measured as output per person employed in crop work", "Farm machinery productivity measured as output per machine-hour of mechanized operations"],
     correct: 1,
     explanation: "TFP (Total Factor Productivity) = Output growth / Input growth (all inputs: land, labour, capital, materials). TFP growth represents gains from technological change, management improvement, and efficiency. India's agricultural TFP growth has been 1.5–2.5% annually (varying by crop/region)."
   },
@@ -701,7 +701,7 @@ export const da241Questions: Question[] = [
     id: "d241_088",
     subject: "da-241",
     question: "The 'agricultural value chain' concept includes:",
-    options: ["Only production stage", "Government procurement only", "Only marketing stages", "All stages from production to consumption: inputs → production → harvest → storage → processing → marketing → retail → consumer"],
+    options: ["Primary crop production stage alone including land preparation and crop management", "Government procurement stage from FCI mandis at minimum support price operations only", "Retail distribution stage from APMC regulated markets to final consumer outlets only", "All stages from production to consumption: inputs → production → harvest → storage → processing → marketing → retail → consumer"],
     correct: 3,
     explanation: "Agricultural value chain: Input suppliers → Farmers (production) → Post-harvest handling → Storage → Processing → Wholesale trade → Retail → Consumer. Value is added at each stage. Value chain development reduces losses, improves income sharing, and connects farmers to markets."
   },
@@ -709,7 +709,7 @@ export const da241Questions: Question[] = [
     id: "d241_089",
     subject: "da-241",
     question: "The 'gearing ratio' (leverage) in farm finance refers to:",
-    options: ["Ratio of borrowed capital to owned capital — indicates financial risk", "Tractor gear ratio for fuel efficiency", "Crop yield ratio between seasons", "Land-to-labour ratio"],
+    options: ["Ratio of borrowed capital to owned capital — indicates financial risk", "Gear ratio of farm tractor affecting fuel efficiency and field power output", "Ratio of crop yield between kharif and rabi seasons on the same land", "Ratio of cultivated land area to total farm labour employed per season"],
     correct: 0,
     explanation: "Gearing ratio = Borrowed capital / Owned capital. High gearing means heavy reliance on debt. In farming, high gearing increases financial risk — debt servicing burden persists even in bad seasons. NABARD recommends keeping farm debt-to-asset ratio below 0.4–0.5 for financial health."
   },
@@ -717,7 +717,7 @@ export const da241Questions: Question[] = [
     id: "d241_090",
     subject: "da-241",
     question: "The 'institutional finance' for agriculture includes credit from:",
-    options: ["Moneylenders and landlords (non-institutional)", "Friends and relatives only", "Commercial banks, cooperative banks, RRBs, NABARD, and microfinance institutions (institutional sources)", "Black market lenders"],
+    options: ["Moneylenders, landlords, commission agents, and relatives (non-institutional)", "Personal savings and family accumulated funds from non-agricultural income sources", "Commercial banks, cooperative banks, RRBs, NABARD, and microfinance institutions (institutional sources)", "Private finance companies, chit funds, and unregulated money lenders at market interest"],
     correct: 2,
     explanation: "Institutional credit for agriculture: Commercial banks (major source — 40+ million KCC accounts), Cooperative banks (rural cooperative structure — PACS/DCCB/SCB), Regional Rural Banks (RRBs — 43 banks serving rural areas), NBFC-MFIs (microfinance for small farmers), and NABARD (refinancing apex body)."
   },
@@ -725,7 +725,7 @@ export const da241Questions: Question[] = [
     id: "d241_091",
     subject: "da-241",
     question: "The 'Gramin Bhandaran Yojana' (Rural Godown scheme) provides subsidy for:",
-    options: ["Building roads in villages", "Construction of scientific storage structures (godowns/warehouses) in rural areas for farmers", "Rural electrification", "Irrigation canal construction"],
+    options: ["Building concrete village road networks linking farm areas to state highway junctions", "Construction of scientific storage structures (godowns/warehouses) in rural areas for farmers", "Rural electrification through solar microgrids for uninterrupted household power supply", "Construction of irrigation channels, check dams, and farm ponds for water conservation"],
     correct: 1,
     explanation: "Gramin Bhandaran Yojana (Rural Storage Scheme): provides capital investment subsidy (25% for general category, 33.33% for SC/ST) for construction of rural godowns/warehouses to prevent post-harvest losses and help farmers sell when prices are favourable rather than in distress immediately after harvest."
   },
@@ -733,7 +733,7 @@ export const da241Questions: Question[] = [
     id: "d241_092",
     subject: "da-241",
     question: "The 'seasonal price variation' in agricultural commodities occurs because:",
-    options: ["Farmers deliberately manipulate prices", "Weather affects consumer demand seasonally", "Government changes MSP seasonally", "Agricultural production is seasonal (concentrated supply at harvest) but consumption is year-round, causing price dips at harvest and rises off-season"],
+    options: ["Large traders deliberately withhold stocks to artificially create price rises through hoarding", "Differential GST rates on agricultural commodities create periodic seasonal price fluctuations", "Government revises MSP rates on a seasonal basis creating alternating price cycles", "Agricultural production is seasonal (concentrated supply at harvest) but consumption is year-round, causing price dips at harvest and rises off-season"],
     correct: 3,
     explanation: "Seasonal price variation: Most crops are harvested in 1–2 short periods (concentrated supply) but consumed throughout the year. At harvest time, supply exceeds demand → prices fall. In lean season, supply decreases while demand continues → prices rise. Storage reduces this variation."
   },
@@ -741,7 +741,7 @@ export const da241Questions: Question[] = [
     id: "d241_093",
     subject: "da-241",
     question: "The 'linear programming' method in farm planning is used to:",
-    options: ["Find the optimal combination of farm enterprises (crops, livestock) to maximize income subject to resource constraints", "Estimate rainfall patterns", "Calculate soil nutrient requirements", "Determine fertilizer prices"],
+    options: ["Find the optimal combination of farm enterprises (crops, livestock) to maximize income subject to resource constraints", "Forecast seasonal monsoon rainfall patterns and estimate impact on kharif crop yields", "Calculate soil macronutrient requirements for optimal crop production and fertility maintenance", "Determine prevailing market price trends for planning agricultural commodity procurement"],
     correct: 0,
     explanation: "Linear Programming (LP) in farm management finds the optimal enterprise mix (maximize profit Z = c₁x₁ + c₂x₂...) subject to resource constraints (land, labour, capital, water) and non-negativity conditions. Simplex method solves LP problems. Used for farm planning and resource allocation."
   },
@@ -749,7 +749,7 @@ export const da241Questions: Question[] = [
     id: "d241_094",
     subject: "da-241",
     question: "The 'Pattadar Passbook' in Telangana is given to farmers to:",
-    options: ["Provide agricultural credit", "Access crop insurance", "Document land ownership rights — contains details of land holdings, survey numbers, and ownership", "Receive PM-KISAN benefits"],
+    options: ["Provide concessional institutional credit through cooperative bank linkage programmes", "Facilitate enrolment in Pradhan Mantri Fasal Bima Yojana crop insurance scheme", "Document land ownership rights — contains details of land holdings, survey numbers, and ownership", "Enable direct cash transfers of PM-KISAN income support into farmer bank accounts"],
     correct: 2,
     explanation: "Pattadar Passbook (land title document): issued to land owners in Telangana/AP, containing survey numbers, land area, classification, and ownership details. Essential for accessing institutional credit, government schemes, and crop insurance. Telangana's Dharani portal digitized land records."
   },
@@ -757,7 +757,7 @@ export const da241Questions: Question[] = [
     id: "d241_095",
     subject: "da-241",
     question: "The 'agri-export zones' (AEZ) in India were established for:",
-    options: ["Industrial development near agriculture areas", "Developing clusters of commodity production with facilities for processing, packaging, and export of specific commodities", "Import of agricultural machinery", "Food security buffer stock maintenance"],
+    options: ["Industrial development in peri-urban zones near major agricultural production belts", "Developing clusters of commodity production with facilities for processing, packaging, and export of specific commodities", "Maintaining strategic import buffer stocks for essential agricultural goods in shortage", "Creating food security reserve zones to ensure year-round food availability in emergencies"],
     correct: 1,
     explanation: "Agri-Export Zones (AEZ): established from 2001 to develop integrated production clusters for specific commodities (mango/AP, basmati/Punjab, pepper/Kerala, grapes/Maharashtra) with: contract farming, cold chain infrastructure, certification, packaging, and export linkages."
   },
@@ -773,7 +773,7 @@ export const da241Questions: Question[] = [
     id: "d241_097",
     subject: "da-241",
     question: "The 'agricultural extension' service in India is delivered through:",
-    options: ["Multiple channels: KVK (farm science centres), state agriculture department extension workers, ATMAs, NGOs, private sector, digital advisory", "Only television and radio", "Only government agricultural officers", "Only ICAR scientists"],
+    options: ["Multiple channels: KVK (farm science centres), state agriculture department extension workers, ATMAs, NGOs, private sector, digital advisory", "Exclusively through Doordarshan agricultural programmes and All India Radio rural broadcasts", "Solely through state-employed agriculture officers posted at block and mandal headquarters", "Only through ICAR scientists visiting farms periodically for crop technology demonstration"],
     correct: 0,
     explanation: "Extension delivery channels: KVKs (ICAR), state agriculture department extension workers (AAO, ADO, AO), ATMAs (Agricultural Technology Management Agencies), NGOs, Input dealers, Private agri-business extension, Digital platforms (Kisan Call Centre, mKisan SMS portal, AgroStar, Dehaat)."
   },
@@ -781,7 +781,7 @@ export const da241Questions: Question[] = [
     id: "d241_098",
     subject: "da-241",
     question: "The 'Green Revolution' period in India (1960s–70s) increased production through:",
-    options: ["Expansion of cultivated area only", "Only organic farming improvement", "HYV seeds + chemical fertilizers + assured irrigation — primarily wheat in Punjab, Haryana, UP", "Land redistribution"],
+    options: ["Expanding total cultivated area through reclamation of fallow and forest land only", "Adopting natural farming techniques with improved traditional seed varieties and organic manures", "HYV seeds + chemical fertilizers + assured irrigation — primarily wheat in Punjab, Haryana, UP", "Redistributing agricultural land from large holdings equally to small and landless farmers"],
     correct: 2,
     explanation: "Green Revolution (1960s–70s): HYV wheat (Sonalika, Kalyan Sona) + high fertilizer use + tube-well/canal irrigation in north Indian plains. Wheat production tripled. Later extended to rice (IR-8 variety). However, it was geographically limited (mainly Punjab, Haryana) and crop-limited (wheat, rice)."
   },

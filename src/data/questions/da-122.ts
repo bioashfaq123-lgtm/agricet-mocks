@@ -1,106 +1,1406 @@
 import { Question } from "@/types";
 
 // DA-122: Manures and Fertilizers — 100 questions (PJTSAU Diploma syllabus)
-// Source: DA-122 Theory course material, PJTSAU
+// Source: DA-122 course material by Dr. S. Sridevi & Dr. G. Venugopal, PJTSAU
 export const da122Questions: Question[] = [
-  { id:"d122_001", subject:"da-122", question:"The word 'Manure' is originated from which French word?", options:["MANOEUVRER", "Fertil", "COMPONERE", "HAUNO"], correct:0, explanation:"The word 'Manure' is originated from the French word 'MANOEUVRER' which refers to 'work with soil'. It also has Latin origin from 'Manu' (hand) and 'operate' (to work)." },
-  { id:"d122_002", subject:"da-122", question:"The word 'Fertilizer' is derived from which Latin word?", options:["MANOEUVRER", "COMPONERE", "Fertil (fertile)", "HAUNO"], correct:2, explanation:"The word 'Fertilizer' is derived from the Latin word 'Fertil' meaning 'Fertile'. Fertilizers are mined or manufactured materials containing plant nutrients in available form." },
-  { id:"d122_003", subject:"da-122", question:"The word 'Compost' is derived from the Latin word:", options:["Fertil", "COMPONERE (put together)", "MANOEUVRER", "HAUNO"], correct:1, explanation:"The word 'Compost' is derived from the Latin word 'COMPONERE' meaning 'put together'. Composting is the process of converting organic matter into manure by accelerating fermentation." },
-  { id:"d122_004", subject:"da-122", question:"Manures are classified into how many basic categories?", options:["Two", "Four", "Five", "Three"], correct:3, explanation:"Manures and fertilizers are classified into three basic categories: I. Organic manures, II. Inorganic/Chemical Fertilizers, and III. Bio-fertilizers." },
-  { id:"d122_005", subject:"da-122", question:"Farm Yard Manure (FYM) prepared by the covered pit method contains approximately:", options:["0.68% N, 0.5% P, 1% K", "0.3% N, 0.2% P, 0.5% K", "1.5% N, 1.0% P, 2.0% K", "2.0% N, 1.5% P, 2.5% K"], correct:0, explanation:"FYM prepared by the covered pit method (best method) contains approximately 0.68% N, 0.5% P, and 1% K. Addition of single super phosphate to the pit improves quality further." },
-  { id:"d122_006", subject:"da-122", question:"The best method of FYM preparation among the three methods is:", options:["Heap method","Pit method","Covered pit method","Open field method"], correct:2, explanation:"The covered pit method is the best method of FYM preparation. The pit has granite stone lining on bottom and sides, a bund of 1.5 feet, and a proper roof cover, preventing nutrient losses effectively." },
-  { id:"d122_007", subject:"da-122", question:"One pair of cattle can produce approximately how much FYM per annum?", options:["1–2 tonnes", "5–6 tonnes", "3–4 tonnes", "10–12 tonnes"], correct:1, explanation:"About 5–6 tonnes of good quality manure can be obtained from each animal per annum. Two pits are sufficient to prepare manure from a farm with two cattle pairs." },
-  { id:"d122_008", subject:"da-122", question:"The recommended depth of pit in the pit method of FYM preparation is:", options:["1 foot", "2 feet", "5 feet", "3 feet"], correct:3, explanation:"A pit with a depth of 3 feet is convenient to handle in the pit method of FYM preparation. The pit is filled from one side and plastered with mud and dung when full." },
-  { id:"d122_009", subject:"da-122", question:"In rural compost preparation, which material serves as the starter?", options:["Dung and water", "Night soil", "Lime", "Urea"], correct:0, explanation:"In rural compost preparation, dung and water serve as the starter material, while bone meal or ash is sprinkled as neutralizing agent. Rural compost is prepared by farmers using farm organic wastes." },
-  { id:"d122_010", subject:"da-122", question:"In urban compost preparation, which material serves as the starter?", options:["Dung", "Lime", "Night soil", "Urea"], correct:2, explanation:"In urban compost preparation, night soil serves as the starter material. Urban compost is prepared by local bodies/municipalities using municipal rubbish and street sweepings." },
-  { id:"d122_011", subject:"da-122", question:"Urban composting should be done at what minimum distance from residential areas?", options:["500 m", "1.5 km", "1.0 km", "3.0 km"], correct:1, explanation:"Urban composting is taken up at least 1.5 km away from the residential areas/townships to avoid offensive odour and health hazards from decomposing municipal waste." },
-  { id:"d122_012", subject:"da-122", question:"The pit dimensions for urban compost preparation are:", options:["12×50×6 feet", "10×4×2 feet", "6×3×3 feet", "8×4×4 feet"], correct:3, explanation:"Urban compost is prepared in pit dimensions of 8×4×4 feet. A groove of 6×1×1 feet is made at the top in the centre and filled with night soil. The heap is moistened daily with sullage water." },
-  { id:"d122_013", subject:"da-122", question:"Which of the following is NOT a method of urban composting?", options:["Windrow process", "Indore process", "Bangalore process", "ADCO process"], correct:0, explanation:"The urban composting systems are: ADCO process, Activated compost process, Indore process, Bangalore process, and Coimbatore process. Windrow is not listed as an urban composting method in the syllabus." },
-  { id:"d122_014", subject:"da-122", question:"Rural compost is ready within:", options:["1–2 weeks","1–3 months","3 months to 1 year","2–3 years"], correct:2, explanation:"Rural compost will be ready in three months to one year depending on the material used (sugarcane trash takes longer to decompose). Urban compost is completed in 3–4 months." },
-  { id:"d122_015", subject:"da-122", question:"Nutrient composition of rural compost is approximately:", options:["1.4% N, 1.0% P, 1.4% K", "0.5% N, 0.15% P, 0.5% K", "2.0% N, 1.5% P, 2.0% K", "3.0% N, 2.0% P, 2.0% K"], correct:1, explanation:"Rural compost contains approximately 0.5% N, 0.15% P, and 0.5% K. Urban compost has higher nutrient content: 1.4% N, 1.0% P, and 1.4% K." },
-  { id:"d122_016", subject:"da-122", question:"Vermicompost pit dimensions recommended are:", options:["12×50×6 feet", "8×4×4 feet", "6×3×3 feet", "10×4×2 feet"], correct:3, explanation:"Vermicompost is prepared in beds/pits of 10×4×2 feet. The depth is kept at 2 feet because earthworm activity is confined to the 2-feet depth. Shade should be provided above the beds." },
-  { id:"d122_017", subject:"da-122", question:"Which earthworm species is most commonly used in vermicomposting?", options:["Eisenia foetida (fetida)", "Lumbricus terrestris", "Allolobophora caliginosa", "Megascolex mauritii"], correct:0, explanation:"Eisenia foetida (also Perionyx excavatus, Eudrilus eugeniae, Lampito marutii) are effective species for vermicomposting. Eisenia foetida is the most widely used commercial vermicomposting species." },
-  { id:"d122_018", subject:"da-122", question:"The optimum moisture content for vermicomposting is:", options:["20–30%","40–50%","60–70%","80–90%"], correct:2, explanation:"For vermicomposting, the waste/residues should have 60–70% moisture. Temperature should be 18–35°C and pH should be in the range of 6.5–7.5 for optimum earthworm activity." },
-  { id:"d122_019", subject:"da-122", question:"The turnover percentage of vermicompost (out-turn from total material) is:", options:["50%", "75%", "60%", "90%"], correct:1, explanation:"Vermicompost turnover is 75%. If 1000 kg of total material is accommodated in the pit, the out-turn (vermicompost produced) will be 750 kg after the earthworms process the material." },
-  { id:"d122_020", subject:"da-122", question:"1000 earthworms (approximately 1 kg) can convert how much waste per day?", options:["1 kg", "2 kg", "10 kg", "5 kg"], correct:3, explanation:"1000 earthworms weighing about 1 kilogram can convert 5 kg of waste material per day. The vermicompost is ready in about 2 months for the material in the pit." },
-  { id:"d122_021", subject:"da-122", question:"The nitrogen content of vermicompost is approximately:", options:["1.5–2.10%", "0.5–1.0%", "3.0–4.0%", "5.0–6.0%"], correct:0, explanation:"Vermicompost contains total nitrogen of 1.5–2.10%, total phosphorus 1.0–1.50%, and total potassium 0.60–0.80%. It is richer in nutrients compared to FYM." },
-  { id:"d122_022", subject:"da-122", question:"The recommended dose of vermicompost for field crops is:", options:["0.5 t/ha", "5 t/ha", "1 t/ha", "10 t/ha"], correct:2, explanation:"Vermicompost may be applied @ 1 t/ha for various field crops. For fruit crops, 5–10 kg/tree is recommended. For flowering plants in pots, 200 g/pot is recommended." },
-  { id:"d122_023", subject:"da-122", question:"Biogas slurry has higher nitrogen content than FYM because:", options:["It is heated during production","Anaerobic fermentation conserves nitrogen (1.5% N vs 0.7% N in FYM)","It is mixed with urea","It contains more plant matter"], correct:1, explanation:"Biogas slurry has higher N content (1.5%) compared to FYM (0.7%) because anaerobic fermentation in the biogas plant conserves nitrogen that would otherwise be lost to the atmosphere." },
-  { id:"d122_024", subject:"da-122", question:"In a biogas plant, dung and water are mixed in the ratio of:", options:["1:1", "2:3", "1:2", "4:5"], correct:3, explanation:"In the biogas plant, a tank is constructed adjacent to the digester to mix dung and water in 4:5 ratio. The mixed slurry is passed into the digester through a cement pipe." },
-  { id:"d122_025", subject:"da-122", question:"The thermal efficiency of cow dung when burnt in properly designed biogas burners is:", options:["60%", "11%", "25%", "40%"], correct:0, explanation:"The thermal efficiency of cow dung burnt in usual manner is around 11%, while it is 60% when burnt in properly designed biogas burners — making biogas 5–6 times more efficient." },
-  { id:"d122_026", subject:"da-122", question:"For operating a 60 cubic feet (2 m³) biogas plant, minimum dung requirement is:", options:["10 kg","25 kg","45 kg","100 kg"], correct:2, explanation:"A minimum of 45 kg dung should be available to operate the gas plant of 60 cubic feet (2 m³) capacity. A medium-sized cow/buffalo yields 10 kg fresh dung, so roughly 5 animals are needed." },
-  { id:"d122_027", subject:"da-122", question:"Sunnhemp (Crotalaria juncea) used as green manure has seed rate of:", options:["20 kg/ha", "45 kg/ha", "30 kg/ha", "60 kg/ha"], correct:1, explanation:"Sunnhemp (Crotalaria juncea) has seed rate of 45 kg/ha. Its nutrient composition is 2.3% N, 0.2% P, and 1.4% K. Green matter yield is 9–17 tonnes/ha. It has fiber, fodder, and green manure value." },
-  { id:"d122_028", subject:"da-122", question:"Daincha (Sesbania aculeata) has nutrient composition of:", options:["2.3% N, 0.2% P, 1.4% K", "1.8% N, 0.1% P, 0.3% K", "3.0% N, 0.1% P, 0.3% K", "3.5% N, 0.3% P, 1.0% K"], correct:3, explanation:"Daincha (Sesbania aculeata) has nutrient composition of 3.5% N, 0.3% P, and 1.0% K. Seed rate is 30 kg/ha and yield is 5 tonnes/ha. It corrects sodic soils and is a non-fodder crop." },
-  { id:"d122_029", subject:"da-122", question:"Pillipesara (Phaseolus trilobus) is described as a triple-purpose crop because:", options:["It serves as green manure, fodder, and minor pulse crop", "It is used as food, medicine and timber", "It is used for fiber, oil and fodder", "It is a food, cash and export crop"], correct:0, explanation:"Pillipesara (Phaseolus trilobus) is a triple-purpose crop — used as green manure, fodder/minor pulse crop, and has good ratooning capacity. Seed rate is 35 kg/ha, yield 3–5 t/ha." },
-  { id:"d122_030", subject:"da-122", question:"Green manure crops should be incorporated into the soil at:", options:["Seedling stage","30 days after sowing","50% flowering stage","100% maturity"], correct:2, explanation:"The green manure crop should be incorporated at the stage of 50% flowering. Delay in incorporation after this stage will affect the decomposition due to increasing fiber content." },
-  { id:"d122_031", subject:"da-122", question:"Green leaf manuring should be done how many days prior to sowing of main crop?", options:["5–7 days","15–20 days","30–40 days","50–60 days"], correct:1, explanation:"Green leaf manuring should be done 15–20 days prior to sowing of the main crop to allow adequate decomposition before the main crop is established. Application of SSP hastens decomposition." },
-  { id:"d122_032", subject:"da-122", question:"Nitrogen fixed by Rhizobium bacteria in legume root nodules per hectare is:", options:["10–25 kg", "150–200 kg", "300–400 kg", "50–100 kg"], correct:3, explanation:"Rhizobium can fix 50–100 kg N/ha by which application of chemical nitrogen fertilizers could be reduced. About 80–90% of nitrogen requirement of legume crop is met through N-fixation in root nodules." },
-  { id:"d122_033", subject:"da-122", question:"Rhizobium japanicum is specifically used for which crop?", options:["Soybean", "Groundnut", "Chickpea", "Berseem"], correct:0, explanation:"Rhizobium japanicum (Bradyrhizobium japonicum) is specifically used for soybean. Rhizobium meliloti is for berseem, Rhizobium phaseoli for black gram, and Rhizobium (cowpea group) for cowpea." },
-  { id:"d122_034", subject:"da-122", question:"The botanical name of Azolla is:", options:["Anabaena azollae", "Azotobacter chroococcum", "Azolla pinnata", "Nostoc commune"], correct:2, explanation:"The botanical name of Azolla is Azolla pinnata. It belongs to the family Azollaceae and is a water fern. The blue-green alga Anabaena azollae lives in the epidermal cavity of lower side of Azolla leaf." },
-  { id:"d122_035", subject:"da-122", question:"Nitrogen content of Azolla is:", options:["1–2%", "4–6%", "2–3%", "8–10%"], correct:1, explanation:"Azolla is recommended as green manure for submerged rice fields with high N content of 4–6%. The Azolla-Anabaena complex fixes atmospheric nitrogen with yield increase of 15–20%." },
-  { id:"d122_036", subject:"da-122", question:"Blue Green Algae (BGA) can fix how much nitrogen per hectare per season?", options:["5–10 kg", "50–75 kg", "100–150 kg", "25–30 kg"], correct:3, explanation:"Nitrogen fixation by BGA has been estimated to be 25–30 kg N/ha. BGA yields 10–15% increase in rice yield. Application is 10 kg/ha of flakes, applied 10 days after transplanting of rice crop." },
-  { id:"d122_037", subject:"da-122", question:"Azotobacter is recommended for non-legume crops and reduces recommended nitrogen dose by:", options:["10–20%", "5%", "30–40%", "50%"], correct:0, explanation:"Azotobacter is a free-living non-symbiotic nitrogen fixer recommended for non-legume crops. By applying Azotobacter, the recommended dose of nitrogenous fertilizers can be reduced by 10–20%." },
-  { id:"d122_038", subject:"da-122", question:"Azospirillum is classified as which type of nitrogen fixer?", options:["Symbiotic","Free-living","Associative","Parasitic"], correct:2, explanation:"Azospirillum is an associative nitrogen-fixing organism — microbes live in association with plant but without mutual benefit or interdependency. It is beneficial for sorghum, wheat, maize, barley, and grasses." },
-  { id:"d122_039", subject:"da-122", question:"VAM fungi (Vesicular Arbuscular Mycorrhizae) are classified as:", options:["Nitrogen fixers","Phosphate absorbers","Phosphate solubilizers","Denitrifiers"], correct:1, explanation:"VAM fungi are phosphate absorbers. They form vesicular-arbuscular-mycorrhizal (VAM) symbiosis, helping in uptake of P, Zn, and S. Common VAM genera are Glomus, Gigaspora, and Enterospora." },
-  { id:"d122_040", subject:"da-122", question:"Biofertilizers can add how much N per hectare (under optimum conditions)?", options:["5–10 kg", "250–300 kg", "400–500 kg", "20–200 kg"], correct:3, explanation:"Biofertilizers can add 20–200 kg N/ha by fixation under optimum conditions. They can also solubilize/mobilize 30–50 kg P₂O₅/ha and increase crop yield by 10–50%." },
-  { id:"d122_041", subject:"da-122", question:"Urea contains what percentage of nitrogen?", options:["46%", "21%", "33%", "82%"], correct:0, explanation:"Urea [CO(NH₂)₂] contains 46% N — the highest among commonly available solid nitrogen fertilizers. It is an amide nitrogen fertilizer and the most popular nitrogen fertilizer in India." },
-  { id:"d122_042", subject:"da-122", question:"Urea used as foliar spray should be at what concentration?", options:["0.5%","1%","2%","5%"], correct:2, explanation:"Urea can be used for foliar spray at 2% concentration (20 g/litre). Higher or excess concentration results in leaf scorching and defoliation. Biuret content should be below 1.5% for foliar use." },
-  { id:"d122_043", subject:"da-122", question:"Ammonium sulphate contains:", options:["33% N, 18% S", "21% N, 24% S", "46% N, 12% S", "26% N, 0% S"], correct:1, explanation:"Ammonium sulphate [(NH₄)₂SO₄] contains 21% N and 24% S. It is an ammonical nitrogen fertilizer that is acid-producing in nature. For every 100 kg of ammonium sulphate, 110 kg CaCO₃ is needed to neutralize acidity." },
-  { id:"d122_044", subject:"da-122", question:"Ammonium chloride should NOT be used for which crops?", options:["Paddy and wheat", "Pulses and oilseeds", "Rice and maize", "Tobacco and potato"], correct:3, explanation:"Ammonium chloride should not be used for tobacco and potato crops. The chlorine present affects the quality of leaf in tobacco and the shelf life of potato. Ammonium chloride can be applied in wetlands." },
-  { id:"d122_045", subject:"da-122", question:"Calcium Ammonium Nitrate (CAN) contains approximately what percentage of N?", options:["26%", "15%", "21%", "33%"], correct:0, explanation:"Calcium Ammonium Nitrate (CAN) contains 26% N. It has nitrogen in both nitrate and ammonical forms. It is highly hygroscopic and must be stored in specialized polythene bags. It is neutral in reaction." },
-  { id:"d122_046", subject:"da-122", question:"Nitrate fertilizers are NOT recommended for:", options:["Upland crops","Horticultural crops","Irrigated paddy fields","Plantation crops"], correct:2, explanation:"Nitrate fertilizers are not recommended for irrigated paddy fields because nitrate nitrogen (NO₃⁻) has negative charge, is not adsorbed by soil particles, and is lost through leaching and denitrification in waterlogged conditions." },
-  { id:"d122_047", subject:"da-122", question:"Single Super Phosphate (SSP) contains which additional nutrients besides phosphorus?", options:["Only N","Ca (21%) and S (12%)","K and Mg","Zn and Fe"], correct:1, explanation:"SSP contains 16–18% P₂O₅, 21% calcium, and 12% sulphur. The sulphur content makes SSP the preferred P source for oilseed crops like groundnut, which require sulphur for good pod filling." },
-  { id:"d122_048", subject:"da-122", question:"Rock phosphate is classified as:", options:["Water soluble P fertilizer", "Citrate soluble P fertilizer", "Liquid P fertilizer", "Water and citrate insoluble P fertilizer"], correct:3, explanation:"Rock phosphate is water and citrate insoluble (contains 20–40% P₂O₅). It is soluble only in strongly acidic or organic soils. Used in tea/coffee gardens and high-rainfall mountain areas." },
-  { id:"d122_049", subject:"da-122", question:"Dicalcium phosphate (DCP) is classified as:", options:["Citrate soluble P fertilizer", "Water soluble P fertilizer", "Water and citrate insoluble", "Organic P fertilizer"], correct:0, explanation:"Dicalcium phosphate (DCP) contains 34–39% P₂O₅ and is citrate soluble (insoluble in water). Citrate-soluble P fertilizers should be applied one month before sowing for P to become available." },
-  { id:"d122_050", subject:"da-122", question:"Muriate of Potash (MOP) contains what percentage of K₂O?", options:["40%","50%","60%","70%"], correct:2, explanation:"Muriate of Potash (KCl) contains 60% K₂O. It is the most commonly used potassic fertilizer and is quickly soluble in water. MOP is useful for all crops EXCEPT potato, tobacco, and grapes." },
-  { id:"d122_051", subject:"da-122", question:"Sulphate of Potash (SOP) is preferred over MOP for which crops?", options:["Rice and wheat", "Potato, tobacco and grapes", "Cotton and sorghum", "Maize and sunflower"], correct:1, explanation:"Sulphate of Potash (K₂SO₄) contains 50% K and 18% S and is applied to potato, tobacco, and grapes — crops sensitive to chloride. It can also be used for foliar application during drought." },
-  { id:"d122_052", subject:"da-122", question:"Potassium nitrate contains:", options:["60% K, 0% N", "50% K, 18% S", "46% K, 0% N", "39% K, 14% N"], correct:3, explanation:"Potassium nitrate contains 39% potassium and 14% nitrogen. This fertilizer can be sprayed to correct both nitrogen and potassium deficiencies, especially in high-value vegetable and fruit crops." },
-  { id:"d122_053", subject:"da-122", question:"Gypsum (CaSO₄·2H₂O) contains:", options:["22% Ca, 8% S", "70% Ca, 0% S", "50% Ca, 0% S", "36% Ca, 0% S"], correct:0, explanation:"Gypsum contains 22% Ca and 8% S. It is gaining importance especially for legume crops like groundnut (applied at pegging stage for pod filling) and for reclamation of sodic/alkali soils." },
-  { id:"d122_054", subject:"da-122", question:"Burnt lime (CaO) contains approximately what percentage of calcium?", options:["36%","50%","70%","95%"], correct:2, explanation:"Burnt lime (CaO) contains 70% calcium. Hydrated lime [Ca(OH)₂] contains 50% Ca, and Calcite lime (CaCO₃) contains 36% Ca. Lime is applied to acidic soils to raise soil pH." },
-  { id:"d122_055", subject:"da-122", question:"The harmful substance in urea that limits foliar spray application is:", options:["Amide","Biuret (should be < 1.5%)","Nitrate","Ammonia"], correct:1, explanation:"Urea contains a harmful substance called Biuret. Its concentration should be below 1.5% for use as foliar spray. Higher biuret content can cause leaf scorch and plant injury." },
-  { id:"d122_056", subject:"da-122", question:"Safflower (decorticated) oil cake has the highest nitrogen content among oil cakes at:", options:["4.4%","5.2%","6.5%","7.9%"], correct:3, explanation:"Decorticated safflower cake has the highest nitrogen content at 7.9% among all oil cakes. Nitrogen content varies from 2.5% (mahua cake) to 7.9% (decorticated safflower cake) in non-edible oil cakes." },
-  { id:"d122_057", subject:"da-122", question:"Groundnut cake (edible oil cake) contains approximately:", options:["6.5% N, 1.3% P, 1.5% K", "3.4% N, 1.5% P, 2.0% K", "4.4% N, 1.9% P, 1.4% K", "7.9% N, 2.2% P, 1.9% K"], correct:0, explanation:"Groundnut cake (edible) contains 6.5% N, 1.3% P, and 1.5% K. It is classified as edible oil cake, suitable for both cattle feed and as fertilizer. Compare neem cake (non-edible): 5.2% N, 1.1% P." },
-  { id:"d122_058", subject:"da-122", question:"Neem cake is classified as a non-edible oil cake because:", options:["Low nitrogen content", "High moisture content", "Bitter taste making it unsuitable for cattle feed", "Toxic residues from processing"], correct:2, explanation:"Neem cake cannot be used as cattle feed due to its bitter taste (contains bitter and sulphur compounds with insect repellent/insecticidal properties). Neem cake is useful for cash crops and as nitrification inhibitor." },
-  { id:"d122_059", subject:"da-122", question:"Castor cake contains:", options:["3.4% N, 1.5% P, 2.0% K","4.4% N, 1.9% P, 1.4% K","6.5% N, 1.3% P, 1.5% K","5.2% N, 1.1% P, 1.5% K"], correct:1, explanation:"Castor cake (also called castor pomace) contains 4.4% N, 1.9% P₂O₅, and 1.4% K₂O. It is poisonous to animals and hence used only as fertilizer. It is a by-product after oil extraction from castor beans." },
-  { id:"d122_060", subject:"da-122", question:"Horn meal is a slow-acting nitrogenous fertilizer containing:", options:["4–10% N", "8–15% N", "21% N", "14% N"], correct:3, explanation:"Horn meal contains 14% N. It is a slow-acting nitrogen fertilizer. About 3–4 kg of horn and hoof material can be obtained from each slaughtered animal. It is used as a long-duration N source." },
-  { id:"d122_061", subject:"da-122", question:"Blood meal has nitrogen availability efficiency of:", options:["80% as efficient as inorganic N", "30–40% as efficient as inorganic N", "50% as efficient as inorganic N", "Equal to inorganic N (100%)"], correct:0, explanation:"Dried blood (blood meal) has the highest nitrogen availability among organic manures — it is 80% as efficient as inorganic N fertilizer. It contains about 12% N. Approximately 30–40 kg dried blood is obtained from 100 kg fresh blood." },
-  { id:"d122_062", subject:"da-122", question:"Bone meal contains what percentage of phosphorus?", options:["5–8%", "30–35%", "10–25%", "40–45%"], correct:2, explanation:"Bone meal contains 1–4% N and 10–25% P₂O₅. Young bones contain less P and more N than older bones. Bone meal is particularly useful for acid soils (high Fe and Al content). It is a citrate-soluble P fertilizer." },
-  { id:"d122_063", subject:"da-122", question:"Fish meal contains approximately:", options:["2–5% N, 1–3% P","4–10% N, 3–9% P","12% N, 1.5% P","14% N, 0% P"], correct:1, explanation:"Fish meal contains 4–10% N, 3–9% P₂O₅, and 0.3–1.5% K₂O. It is prepared from non-edible fish, fish carcasses and offals. It is a quick-acting fertilizer suitable for all crops on all soils." },
-  { id:"d122_064", subject:"da-122", question:"Guano is obtained from:", options:["Decomposed fish waste", "Bat excrement in caves", "Municipal sewage sludge", "Sea bird excrement deposited over long periods"], correct:3, explanation:"Guano is a product of sea bird (Pelican, Gannets, Albatrosses) excrement covering long periods in natural deposits. The word 'Guano' originated from PERU from 'HAUNO' meaning manure. Contains 8–15% N." },
-  { id:"d122_065", subject:"da-122", question:"Poultry manure contains approximately:", options:["3.0% N, 2.0% P, 2.0% K", "0.5% N, 0.3% P, 0.5% K", "1.5% N, 1.0% P, 1.0% K", "5.0% N, 3.0% P, 3.0% K"], correct:0, explanation:"Poultry manure contains approximately 3.0% N, 2.0% P, and 2.0% K — one of the richest in nutrients among bulky organic manures. It is higher in N, P, and K compared to FYM (cattle manure)." },
-  { id:"d122_066", subject:"da-122", question:"Straight fertilizers are those that supply:", options:["Multiple nutrients", "Organic matter only", "Only one primary nutrient element", "Micronutrients only"], correct:2, explanation:"A straight fertilizer is defined as a chemical fertilizer which contains/supplies only one primary or major nutrient element. Examples: Urea (N only), SSP (P only), MOP (K only)." },
-  { id:"d122_067", subject:"da-122", question:"Complex fertilizers differ from mixed fertilizers in that:", options:["They supply only one nutrient","All nutrients are present in each granule (chemically combined)","They are organic in nature","They contain micronutrients only"], correct:1, explanation:"In complex fertilizers (e.g., DAP, 17-17-17), all declared nutrients are present in each granule in chemically combined form. In mixed/blended fertilizers, different fertilizer granules are physically mixed." },
-  { id:"d122_068", subject:"da-122", question:"DAP (Di-Ammonium Phosphate) contains:", options:["21% N, 32% P₂O₅", "46% N, 0% P", "20% N, 20% P₂O₅", "18% N, 46% P₂O₅"], correct:3, explanation:"DAP (Di-Ammonium Phosphate) contains 18% N and 46% P₂O₅. It is the most commonly used phosphatic fertilizer as it supplies both N and P. It is a complete complex (NP) fertilizer." },
-  { id:"d122_069", subject:"da-122", question:"Gaseous ammonia (anhydrous ammonia) contains what percentage of N?", options:["82%", "21%", "46%", "60%"], correct:0, explanation:"Anhydrous ammonia (NH₃) contains 82% N — the highest nitrogen percentage of any nitrogenous fertilizer. However, it requires specialized pressurized equipment for application and storage." },
-  { id:"d122_070", subject:"da-122", question:"Chelating agents used for micronutrient fertilizers include:", options:["NaCl, HCl, H₂SO₄", "SSP, TSP, DAP", "EDTA, HEDTA, DTPA", "MOP, SOP, CAN"], correct:2, explanation:"Common chelating agents for micronutrient fertilizers include EDTA (Ethylene Diamine Tetra Acetic Acid), HEDTA, EDDHA, NTA (Nitrilo Tri Acetic Acid), and DTPA. Chelates are more stable and available to plants." },
-  { id:"d122_071", subject:"da-122", question:"Ferrous sulphate (FeSO₄·7H₂O) contains what percentage of iron?", options:["10%","20%","30%","40%"], correct:1, explanation:"Ferrous sulphate (FeSO₄·7H₂O) contains 20% iron. It is the most commonly used water-soluble iron fertilizer. Iron chelate (Fe-EDTA) contains 5% Fe and Fe-EDDHA contains 6% Fe." },
-  { id:"d122_072", subject:"da-122", question:"Zinc sulphate (ZnSO₄·7H₂O) contains what percentage of zinc?", options:["13%", "36%", "50%", "23%"], correct:3, explanation:"Zinc sulphate (ZnSO₄·7H₂O) contains 23% zinc. Zinc sulphate monohydrate (ZnSO₄·H₂O) contains 36% zinc. ZnSO₄ @ 25 kg/ha corrects zinc deficiency ('khaira disease') in paddy." },
-  { id:"d122_073", subject:"da-122", question:"Borax (sodium tetraborate, Na₂B₄O₇·10H₂O) contains what percentage of boron?", options:["11%","18%","22%","35%"], correct:0, explanation:"Borax (Na₂B₄O₇·10H₂O) contains 11% boron. Anhydrous borax (Na₂B₄O₇) contains 22% B, and boric acid (H₃BO₃) contains 18% B. Boron deficiency is common in light soils and coarse textured soils." },
-  { id:"d122_074", subject:"da-122", question:"The principle of Integrated Nutrient Management (INM) is:", options:["Use only chemical fertilizers","Use only organic manures","Judicious combination of organic manures and chemical fertilizers to maintain soil fertility","Use only biofertilizers"], correct:2, explanation:"INM refers to the judicious combined use of organic manures, chemical fertilizers, and biofertilizers to maintain/improve soil fertility for sustainable and economic crop production while minimizing environmental pollution." },
-  { id:"d122_075", subject:"da-122", question:"Phosphorus fertilizers are most effectively applied as:", options:["Broadcast top dressing","Basal placement at 4–8 cm depth, 2–3 cm away from plant","Foliar spray","Through irrigation water only"], correct:1, explanation:"Phosphorus fertilizers should always be applied at the time of sowing as basal fertilizers by pocketing at 4–8 cm depth at 2–3 cm away from the plant. This reduces P fixation and improves availability." },
-  { id:"d122_076", subject:"da-122", question:"Which type of soil is best suited for water-soluble phosphate fertilizers?", options:["Acidic soils", "Waterlogged soils", "Sandy soils only", "Neutral and alkaline soils"], correct:3, explanation:"Water-soluble phosphorus fertilizers (SSP, DSP, TSP) are used in neutral and alkaline soils for all crops. In acidic soils, citrate-soluble or insoluble P fertilizers may be used." },
-  { id:"d122_077", subject:"da-122", question:"Sunnhemp (Crotalaria juncea) nitrogen composition is:", options:["2.3% N, 0.2% P, 1.4% K", "1.8% N, 0.1% P, 0.3% K", "3.5% N, 0.3% P, 1.0% K", "3.0% N, 0.1% P, 0.3% K"], correct:0, explanation:"Sunnhemp (Crotalaria juncea) has nutrient composition of 2.3% N, 0.2% P, and 1.4% K. It has unique fiber, fodder, and green manure value and can be raised beneficially under irrigated dry conditions." },
-  { id:"d122_078", subject:"da-122", question:"Ammonium nitrate (NH₄NO₃) contains what percentage of nitrogen?", options:["21%","26%","33–35%","46%"], correct:2, explanation:"Ammonium nitrate contains 33–35% N with nitrogen present in both nitrate (NO₃⁻) and ammonical (NH₄⁺) forms. It is a nitrate-ammonia nitrogen fertilizer with high nutrient use efficiency." },
-  { id:"d122_079", subject:"da-122", question:"Which composting system uses night soil and is done by local government bodies?", options:["Indore process", "Both urban composting systems using municipal rubbish", "Bangalore process", "Rural compost method"], correct:1, explanation:"Urban composting systems (ADCO, Activated, Indore, Bangalore, Coimbatore processes) are all done by local government bodies using municipal rubbish and street sweepings, with night soil as starter." },
-  { id:"d122_080", subject:"da-122", question:"The Azolla-Anabaena complex is used as biofertilizer in:", options:["Upland maize", "Cotton fields", "Wheat fields", "Submerged rice fields"], correct:3, explanation:"The Azolla-Anabaena complex is recommended as green manure for submerged rice fields. The complex fixes atmospheric nitrogen with N content of 4–6%, within a maximum temperature of 38°C. Yield increase: 15–20%." },
-  { id:"d122_081", subject:"da-122", question:"An organic manure is generally applied how many days before sowing?", options:["15–20 days before", "At sowing only", "5–7 days before", "30–40 days before"], correct:0, explanation:"Organic manures should be applied 15–20 days well in advance of sowing/planting and incorporated into soil. Chemical fertilizers can be applied at the time of planting or sowing." },
-  { id:"d122_082", subject:"da-122", question:"Double Super Phosphate (DSP) contains what percentage of P₂O₅?", options:["16–18%", "46%", "32%", "52%"], correct:2, explanation:"Double Super Phosphate (DSP) contains 32% P₂O₅. Triple Super Phosphate (TSP) also contains about 32% P₂O₅. Both are water-soluble phosphatic fertilizers used in neutral to alkaline soils." },
-  { id:"d122_083", subject:"da-122", question:"The organisms responsible for composting include:", options:["Only bacteria","Bacteria, Actinomycetes, and Fungi","Only earthworms","Only fungi"], correct:1, explanation:"Composting involves: Bacteria (Bacillus brewis, B. circulans, B. coagulans, B. subtilis), Actinomycetes (Nocardia, Streptomyces, Thermoactinomycetes), and Fungi (Mucor, Chaetomium, Penicillium, Aspergillus)." },
-  { id:"d122_084", subject:"da-122", question:"'Fertigation' refers to:", options:["Fertigation is same as green manuring", "Application of fertilizers by foliar spray", "Application of organic manures before sowing", "Application of fertilizers through irrigation water (especially drip)"], correct:3, explanation:"Fertigation is the application of fertilizers through irrigation water, especially through the drip irrigation system. It improves fertilizer use efficiency (FUE), reduces labor, and enables precise nutrient application." },
-  { id:"d122_085", subject:"da-122", question:"The nitrogen content of biogas slurry compared to FYM is:", options:["Higher than FYM (1.5% vs 0.7%)", "Same as FYM (0.7%)", "Lower than FYM", "Not comparable"], correct:0, explanation:"Biogas slurry has higher nitrogen content (1.5%) compared to FYM (0.7% N). Biogas slurry is rich in humus content, free from offensive odour, and the anaerobic process conserves nitrogen better than aerobic decomposition." },
-  { id:"d122_086", subject:"da-122", question:"Calcium cyanamide contains what percentage of nitrogen?", options:["15%", "33%", "21%", "46%"], correct:2, explanation:"Calcium cyanamide (CaCN₂) contains 21–22% N. It is an amide form nitrogen fertilizer. It has herbicidal properties when freshly applied (kills germinating weed seeds), which is lost after reaction with soil water." },
-  { id:"d122_087", subject:"da-122", question:"For every 100 kg of ammonium sulphate applied, how much lime is needed to neutralize acidity?", options:["50 kg","110 kg CaCO₃","150 kg","200 kg"], correct:1, explanation:"Ammonium sulphate is acid-producing. To neutralize the acidity, for every 100 kg of ammonium sulphate, 110 kg of calcium carbonate (lime) is required. Excessive use of ammonical fertilizers acidifies the soil." },
-  { id:"d122_088", subject:"da-122", question:"Manganous sulphate (MnSO₄·4H₂O) contains what percentage of manganese?", options:["13%", "32%", "45%", "24%"], correct:3, explanation:"Manganous sulphate (MnSO₄·4H₂O) contains 24% Mn. Manganous sulphate monohydrate (MnSO₄·H₂O) contains 32% Mn. Mn-EDTA chelate contains 13% Mn. Manganese sulphate is used as foliar spray." },
-  { id:"d122_089", subject:"da-122", question:"The 'Indore process' of composting was developed at:", options:["Indore, Madhya Pradesh", "IARI, New Delhi", "Coimbatore, Tamil Nadu", "Bangalore, Karnataka"], correct:0, explanation:"The Indore process of composting was developed at the Institute of Plant Industry, Indore, Madhya Pradesh, by Sir Albert Howard. It involves alternating layers of organic waste and soil/dung in a pit." },
-  { id:"d122_090", subject:"da-122", question:"Frankia is a symbiotic nitrogen fixer associated with:", options:["Legumes","Paddy","Casuarina (non-legume trees)","Grasses"], correct:2, explanation:"Frankia is an Actinomycetes that forms symbiotic nitrogen fixation with non-legume tree Casuarina. This is one of the important symbiotic N-fixers apart from Rhizobium (legumes) and Anabaena (Azolla)." },
-  { id:"d122_091", subject:"da-122", question:"Copper sulphate (Blue Vitriol) is the primary fertilizer used to correct:", options:["Iron deficiency", "Copper deficiency", "Zinc deficiency", "Boron deficiency"], correct:1, explanation:"Copper sulphate (CuSO₄·5H₂O, Blue Vitriol) contains 25% Cu and is the primary fertilizer for correcting copper deficiency. It can be applied as soil dressing or foliar nutrient, though its acidic effects may cause leaf scorch." },
-  { id:"d122_092", subject:"da-122", question:"Which micronutrient deficiency is corrected by liming in acid soils?", options:["Iron (Fe)", "Zinc (Zn)", "Copper (Cu)", "Molybdenum (Mo) — liming increases Mo availability"], correct:3, explanation:"Liming increases availability of molybdenum (Mo) while reducing availability of Mn, Zn, Fe, and Cu. In acid soils, Mo deficiency is corrected by liming; applying lime also reduces Mn, Zn, Fe, Cu availability." },
-  { id:"d122_093", subject:"da-122", question:"Vermicompost contains which enzymes besides nutrients?", options:["Amylase, lipase, protease, cellulase","Only urease","Only phosphatase","Only nitrate reductase"], correct:0, explanation:"Vermicompost contains enzymes like Protease, Lipase, Amylase, Cellulose, and other growth promoting hormones in addition to major and micronutrients. These enzymes enhance soil biological activity." },
-  { id:"d122_094", subject:"da-122", question:"Green manure crops are ploughed under before the main crop is transplanted. Which is the most important advantage?", options:["They eliminate all weeds", "They reduce soil temperature", "They add organic matter and nitrogen through N fixation (25–50 kg N/acre from Rhizobium)", "They increase soil pH"], correct:2, explanation:"The most important advantage of green manuring is adding organic matter and fixing atmospheric nitrogen — Rhizobium in root nodules fixes 25–50 kg nitrogen/acre. It also improves soil physical conditions and water holding capacity." },
-  { id:"d122_095", subject:"da-122", question:"Indigo (Indigofera tinctoria) used as green manure has seed rate of:", options:["10 kg/ha","20 kg/ha","35 kg/ha","45 kg/ha"], correct:1, explanation:"Indigo (Indigofera tinctoria) has seed rate of 20 kg/ha, yield of 5 tonnes/ha. It is a slow-growing, deep-rooted, drought-resistant crop not relished by cattle. Grown in fruit gardens and plantations during non-monsoon." },
-  { id:"d122_096", subject:"da-122", question:"Which biofertilizer is specifically recommended for non-legume cereal crops?", options:["Rhizobium", "VAM fungi only", "BGA only", "Azotobacter and Azospirillum"], correct:3, explanation:"Azotobacter and Azospirillum are recommended for non-legume crops (cereals, vegetables). Rhizobium is for legumes only (shows host specificity). Azotobacter reduces N requirement by 10–20%; Azospirillum saves 20–30 kg N/ha." },
-  { id:"d122_097", subject:"da-122", question:"The four factors affecting quality of FYM are:", options:["Kind of animal, age, quality of feed, storage method", "Color, smell, texture, weight", "Temperature, moisture, pH, aeration", "Crop type, soil type, season, region"], correct:0, explanation:"Quality and composition of FYM depends on: 1) Kind of animal, 2) Age and condition of the individual animal, 3) Quality and quantity of feed consumed, 4) Kind of litter used, 5) Collection, and 6) Storage method." },
-  { id:"d122_098", subject:"da-122", question:"The Fertilizer Control Order (FCO) regulates:", options:["Crop prices only", "Import of fertilizers only", "Quality, price and distribution of fertilizers", "Registration of farmers"], correct:2, explanation:"The Fertilizer Control Order (FCO) is a statutory order under the Essential Commodities Act that regulates the quality, price, and distribution of fertilizers in India, ensuring farmers get genuine quality fertilizers." },
-  { id:"d122_099", subject:"da-122", question:"Sodium molybdate contains what percentage of molybdenum?", options:["13%", "40%", "24%", "66%"], correct:1, explanation:"Sodium molybdate (Na₂MoO₄·2H₂O) contains 40% molybdenum. Ammonium molybdate contains 54% Mo, Molybdenum trioxide contains 66% Mo, and Calcium molybdate contains 48% Mo." },
-  { id:"d122_100", subject:"da-122", question:"An important benefit of organic manures over chemical fertilizers is:", options:["Higher nutrient concentration", "Faster nutrient release", "Less quantity needed", "Improves soil physical properties (structure, water holding capacity, bulk density)"], correct:3, explanation:"Organic manures improve soil physical properties: improve soil structure, improve water holding capacity, improve soil aeration, reduce bulk density, and reduce soil loss through erosion. Chemical fertilizers don't improve physical properties." },
+  {
+    id: "d122_001",
+    subject: "da-122",
+    question: "Soil fertility is defined as the ability of soil to:",
+    options: [
+      "Supply adequate nutrients for normal plant growth",
+      "Produce maximum crop yield under all conditions",
+      "Retain moisture for extended drought periods",
+      "Resist erosion from rainfall and wind",
+    ],
+    correct: 0,
+    explanation:
+      "Soil fertility is defined as the ability of soil to supply adequately the nutrients normally taken from the soil by plants.",
+  },
+  {
+    id: "d122_002",
+    subject: "da-122",
+    question: "Which crop removes the highest quantities of NPK to produce 5 tonnes of yield?",
+    options: [
+      "Rice removing 85-15-90 kg of NPK",
+      "Wheat removing 120-50-120 kg of NPK",
+      "Maize removing 175-35-175 kg of NPK",
+      "Sorghum removing 90-30-90 kg of NPK",
+    ],
+    correct: 2,
+    explanation:
+      "Maize requires 175-35-175 kg nitrogen, phosphorus and potassium to give 5 tonnes of yield, while rice removes 85-15-90 kg NPK to produce 3 tonnes.",
+  },
+  {
+    id: "d122_003",
+    subject: "da-122",
+    question: "The word 'Manure' is originally derived from which French word?",
+    options: [
+      "Fertil meaning fertile soil",
+      "Manoeuvrer meaning work with soil",
+      "Componere meaning put together",
+      "Hauno meaning excrement manure",
+    ],
+    correct: 1,
+    explanation:
+      "The word 'Manure' originated from the French word 'MANOEUVRER' which refers to 'work with soil'.",
+  },
+  {
+    id: "d122_004",
+    subject: "da-122",
+    question: "Guano is a product of excrement from which type of birds?",
+    options: [
+      "Fresh water ducks found in river deltas",
+      "Migratory birds from African grasslands",
+      "Forest birds from tropical rainforests",
+      "Sea birds like Pelicans, Gannets and Albatrosses",
+    ],
+    correct: 3,
+    explanation:
+      "Guano is a product of sea birds (Pelican, Gannets and Albatrosses) excrement covered over long periods and occurring in natural deposits along Pacific coast of Peru and Chile.",
+  },
+  {
+    id: "d122_005",
+    subject: "da-122",
+    question: "Which method of FYM preparation is considered the best quality method?",
+    options: [
+      "Covered pit method with roofing protection",
+      "Open heap method under tree shade",
+      "Pit method with soil layer additions",
+      "Field windrow method with turnings",
+    ],
+    correct: 0,
+    explanation:
+      "The covered pit method is the best method of all described. The pit has non-absorbent granite stone lining, a 1.5 feet bund, and roofing with Palmyra or phoenix leaves to control organic matter and nutrient losses.",
+  },
+  {
+    id: "d122_006",
+    subject: "da-122",
+    question: "What is the nutrient composition (N-P-K) of good quality FYM stored in covered pit?",
+    options: [
+      "0.5% N, 0.3% P and 0.8% K content",
+      "1.5% N, 1.0% P and 2.0% K content",
+      "0.68% N, 0.5% P and 1.0% K content",
+      "0.3% N, 0.2% P and 0.5% K content",
+    ],
+    correct: 2,
+    explanation:
+      "Good quality FYM stored in covered pit contains 0.68% N, 0.5% P and 1% K as stated in the course material.",
+  },
+  {
+    id: "d122_007",
+    subject: "da-122",
+    question: "The word 'Compost' is derived from Latin word 'COMPONERE' meaning:",
+    options: [
+      "Work done with organic substances",
+      "Put together different materials",
+      "Decompose under controlled temperature",
+      "Convert waste into fertile matter",
+    ],
+    correct: 1,
+    explanation:
+      "The word compost is derived from the Latin word 'COMPONERE' meaning to put together.",
+  },
+  {
+    id: "d122_008",
+    subject: "da-122",
+    question: "In urban composting, which material is used as a starter?",
+    options: [
+      "Dung mixed with biogas slurry water",
+      "Bone meal dissolved in acidic solution",
+      "Sugarcane trash soaked in urine water",
+      "Night soil from nearby human habitations",
+    ],
+    correct: 3,
+    explanation:
+      "In urban composting, night soil is used as the starter material, while rural compost uses cattle dung as the starter.",
+  },
+  {
+    id: "d122_009",
+    subject: "da-122",
+    question: "What is the nitrogen content of biogas slurry compared to FYM?",
+    options: [
+      "Biogas slurry has 1.5% N vs 0.7% in FYM",
+      "Biogas slurry has 0.5% N vs 1.5% in FYM",
+      "Both have equal nitrogen content of 1.2%",
+      "FYM has 2.0% N while biogas slurry has 1.0%",
+    ],
+    correct: 0,
+    explanation:
+      "Biogas slurry has higher nitrogen content (1.5%) as against 0.7% found in FYM, making it a better quality manure.",
+  },
+  {
+    id: "d122_010",
+    subject: "da-122",
+    question: "Thermal efficiency of cow dung burnt in properly designed burners is:",
+    options: [
+      "Around 11 per cent thermal efficiency",
+      "Equal to burning dry wood directly",
+      "Around 60 per cent thermal efficiency",
+      "Around 30 per cent thermal efficiency",
+    ],
+    correct: 2,
+    explanation:
+      "Thermal efficiency of cow dung burnt in properly designed burners is 60%, compared to 11% when burnt in the usual manner as fuel.",
+  },
+  {
+    id: "d122_011",
+    subject: "da-122",
+    question: "Which earthworm species is commonly used for vermicomposting?",
+    options: [
+      "Lumbricus terrestris found in temperate soil",
+      "Eisenia foetida used in vermicomposting beds",
+      "Megascolex coeruleus found in tropical clay",
+      "Pheretima posthuma from Indian paddy fields",
+    ],
+    correct: 1,
+    explanation:
+      "Eisenia foetida is one of the effective earthworm species used in vermicomposting along with Perionyx excavatus, Eudrilus eugeniae and Lampito marutii.",
+  },
+  {
+    id: "d122_012",
+    subject: "da-122",
+    question: "How many worms per square meter are introduced in vermicompost pits?",
+    options: [
+      "250 worms or 0.25 kg per square meter",
+      "500 worms or 0.5 kg per square meter",
+      "2000 worms or 2.0 kg per square meter",
+      "1000 worms or 1 kg per square meter",
+    ],
+    correct: 3,
+    explanation:
+      "Worms are introduced at 1m² = 1000 worms or 1 kg per tonne of residue in vermicompost pits.",
+  },
+  {
+    id: "d122_013",
+    subject: "da-122",
+    question: "Green manuring in situ can be safely adopted for which conditions?",
+    options: [
+      "Dryland crops in high rainfall above 900 mm",
+      "Hill crops grown under full shade cover",
+      "Summer crops under no irrigation availability",
+      "Sandy soils with very low moisture retention",
+    ],
+    correct: 0,
+    explanation:
+      "Green manuring can be safely adopted for irrigated crops and also under rainfed conditions when rainfall is above 900 mm.",
+  },
+  {
+    id: "d122_014",
+    subject: "da-122",
+    question: "Sunnhemp (Crotalaria juncea) has which nutrient composition?",
+    options: [
+      "3.5% N, 0.3% P and 1.0% K content",
+      "3.0% N, 0.1% P and 0.3% K content",
+      "1.8% N, 0.1% P and 0.3% K content",
+      "2.3% N, 0.2% P and 1.4% K content",
+    ],
+    correct: 3,
+    explanation:
+      "Sunnhemp (Crotalaria juncea) has nutrient composition of 2.3% N, 0.2% P and 1.4% K.",
+  },
+  {
+    id: "d122_015",
+    subject: "da-122",
+    question: "Daincha (Sesbania aculeata) seeds require scarification before sowing because:",
+    options: [
+      "Seeds are hard coated and germinate slowly",
+      "Seeds need chemical treatment for viability",
+      "Seeds are infected with soil-borne pathogens",
+      "Seeds require soaking in warm water overnight",
+    ],
+    correct: 0,
+    explanation:
+      "Daincha seeds require scarification (lightly pounding with sand) for easy germination due to their hard seed coat.",
+  },
+  {
+    id: "d122_016",
+    subject: "da-122",
+    question: "Green leaf manuring should be done how many days before sowing?",
+    options: [
+      "30-45 days prior to crop sowing",
+      "5-10 days prior to crop sowing",
+      "15-20 days prior to crop sowing",
+      "45-60 days prior to crop sowing",
+    ],
+    correct: 2,
+    explanation:
+      "Green leaf manuring should be done 15-20 days prior to sowing of the main crop.",
+  },
+  {
+    id: "d122_017",
+    subject: "da-122",
+    question: "Which plant is used as source of green leaf manure?",
+    options: [
+      "Azolla pinnata water fern species",
+      "Daincha grown in waterlogged paddy",
+      "Sunnhemp used in dryland conditions",
+      "Pillipesara grown in black cotton soils",
+    ],
+    correct: 0,
+    explanation:
+      "Azolla pinnata is listed as one of the plants used as a source of green leaf manure, along with Gliricidia maculata, Pongamia glabra, Sesbania rostrata, etc.",
+  },
+  {
+    id: "d122_018",
+    subject: "da-122",
+    question: "Which oil cake is referred to as castor pomace and is poisonous to animals?",
+    options: [
+      "Neem cake with insecticidal bitter properties",
+      "Mahua cake unsuitable for cattle feeding",
+      "Castor cake used only as crop fertilizer",
+      "Cotton seed cake toxic to grazing animals",
+    ],
+    correct: 2,
+    explanation:
+      "Castor cake (castor pomace) is a by-product of oil extraction from castor beans. It is poisonous to animals and used only as fertilizer. It contains 4.4% N, 1.9% P2O5 and 1.4% K2O.",
+  },
+  {
+    id: "d122_019",
+    subject: "da-122",
+    question: "Blood meal is described as how efficient compared to inorganic N fertilizer?",
+    options: [
+      "40 per cent efficient as inorganic nitrogen",
+      "60 per cent efficient as inorganic nitrogen",
+      "100 per cent efficient as inorganic nitrogen",
+      "80 per cent efficient as inorganic nitrogen",
+    ],
+    correct: 3,
+    explanation:
+      "Dried blood is 80% as efficient as the inorganic N fertilizer in providing nitrogen to the crop, making it the highest among protein organic manures.",
+  },
+  {
+    id: "d122_020",
+    subject: "da-122",
+    question: "Horn meal is described as a slow acting fertilizer containing which nutrient?",
+    options: [
+      "14 per cent nitrogen in horn material",
+      "10 per cent phosphorus in hoof meal",
+      "20 per cent calcium in ground horn",
+      "8 per cent potassium in horn chips",
+    ],
+    correct: 0,
+    explanation:
+      "Horn meal is a slow acting fertilizer of Nitrogen containing 14% N. About 3-4 kg horn and hoof material can be obtained from each animal.",
+  },
+  {
+    id: "d122_021",
+    subject: "da-122",
+    question: "Rhizobium can fix how much nitrogen per hectare in legume root nodules?",
+    options: [
+      "Rhizobium fixes 10-25 kg N per hectare",
+      "Rhizobium fixes 200-300 kg N per hectare",
+      "Rhizobium fixes 50-100 kg N per hectare",
+      "Rhizobium fixes 5-10 kg N per hectare",
+    ],
+    correct: 2,
+    explanation:
+      "Rhizobium establishes symbiotic relations with legumes and can fix 50-100 kg N ha⁻¹, meeting nearly 80-90% of nitrogen requirement of the crop.",
+  },
+  {
+    id: "d122_022",
+    subject: "da-122",
+    question: "Azolla is associated with rice fields due to its symbiosis with which organism?",
+    options: [
+      "Rhizobium bacteria in leaf tissue cavities",
+      "Pseudomonas present in root epidermal cells",
+      "Anabaena azollae blue green algae species",
+      "Azotobacter living freely on Azolla leaves",
+    ],
+    correct: 2,
+    explanation:
+      "Azolla pinnata has symbiotic association with Anabaena azollae (BGA) in the epidermal cavity of the lower side of the leaf. This Azolla-Anabaena complex fixes atmospheric nitrogen.",
+  },
+  {
+    id: "d122_023",
+    subject: "da-122",
+    question: "Azospirillum is classified as which type of nitrogen-fixing biofertilizer?",
+    options: [
+      "Symbiotic nitrogen fixer in root nodules",
+      "Associative nitrogen fixer with plants",
+      "Free-living nitrogen fixer without plants",
+      "Phosphate-solubilizing bacteria in soil",
+    ],
+    correct: 1,
+    explanation:
+      "Azospirillum is an associative nitrogen-fixing organism — it lives in association with plants but without mutual benefit or interdependency.",
+  },
+  {
+    id: "d122_024",
+    subject: "da-122",
+    question: "Azotobacter can reduce recommended nitrogen fertilizer doses by what percentage?",
+    options: [
+      "By 50-60 per cent of recommended dose",
+      "By 30-40 per cent of recommended dose",
+      "By 5-8 per cent of recommended dose",
+      "By 10-20 per cent of recommended dose",
+    ],
+    correct: 3,
+    explanation:
+      "By application of Azotobacter to various crops, the amount of recommended doses of nitrogenous fertilizers can be reduced by 10-20%.",
+  },
+  {
+    id: "d122_025",
+    subject: "da-122",
+    question: "BGA fixes how much nitrogen per hectare in paddy rice ecosystems?",
+    options: [
+      "BGA fixes 25-30 kg N per hectare",
+      "BGA fixes 100-150 kg N per hectare",
+      "BGA fixes 5-10 kg N per hectare",
+      "BGA fixes 50-75 kg N per hectare",
+    ],
+    correct: 0,
+    explanation:
+      "Nitrogen fixation by BGA has been estimated to be 25-30 kg N/ha in paddy rice ecosystems.",
+  },
+  {
+    id: "d122_026",
+    subject: "da-122",
+    question: "VAM fungi help plants primarily by enhancing the uptake of which nutrients?",
+    options: [
+      "Nitrogen, potassium and calcium in soils",
+      "Iron, manganese and boron micronutrients",
+      "Phosphorus, zinc and sulphur in soils",
+      "Magnesium, sodium and copper elements",
+    ],
+    correct: 2,
+    explanation:
+      "VAM fungi enhance the nutrient uptake of P, Zn and S and also enhance water uptake under drought conditions.",
+  },
+  {
+    id: "d122_027",
+    subject: "da-122",
+    question: "Nitrate fertilizers are NOT recommended for irrigated paddy because:",
+    options: [
+      "They cause soil acidification in wetland paddy",
+      "They are too costly for paddy cultivation",
+      "Nitrate nitrogen is leached and volatilized easily",
+      "Nitrate form damages tender paddy root hairs",
+    ],
+    correct: 2,
+    explanation:
+      "Nitrate nitrogen carries a negative charge, is not adsorbed onto soil particles and is subject to leaching and volatilization losses. Hence nitrate fertilizers are not recommended for irrigated paddy.",
+  },
+  {
+    id: "d122_028",
+    subject: "da-122",
+    question: "Ammonium sulphate contains which percentage of nitrogen and sulphur?",
+    options: [
+      "25% nitrogen and 20% sulphur content",
+      "26% nitrogen and 15% sulphur content",
+      "18% nitrogen and 30% sulphur content",
+      "21% nitrogen and 24% sulphur content",
+    ],
+    correct: 3,
+    explanation:
+      "Ammonium sulphate contains 21% N and 24% S. To neutralize its acidity, 110 kg of calcium carbonate is needed per 100 kg of ammonium sulphate.",
+  },
+  {
+    id: "d122_029",
+    subject: "da-122",
+    question: "Urea is not recommended for application in which specific conditions?",
+    options: [
+      "Urea should not be applied on dry soils only",
+      "Urea should not be mixed with phosphatic fertilizers",
+      "Urea should not be applied in excessive water or dry soils",
+      "Urea should not be used in alkaline calcareous soils",
+    ],
+    correct: 0,
+    explanation:
+      "Urea should be applied under optimum soil moisture (field capacity) conditions only. On application in wetlands, N is lost through leaching; in dry soils it is lost through volatilization.",
+  },
+  {
+    id: "d122_030",
+    subject: "da-122",
+    question: "Which potassic fertilizer is NOT suitable for potato, tobacco and grapes?",
+    options: [
+      "Sulphate of potash having 50% potassium",
+      "Potassium nitrate having 39% potassium",
+      "Muriate of potash containing 60% potassium",
+      "Potassium phosphate used for foliar spray",
+    ],
+    correct: 2,
+    explanation:
+      "Muriate of potash (KCl) is useful for all crops except potato, tobacco and grapes. Sulphate of potash is applied to these crops.",
+  },
+  {
+    id: "d122_031",
+    subject: "da-122",
+    question: "Single super phosphate is preferred for oilseed crops because it also contains:",
+    options: [
+      "16% P plus 21% calcium and 12% sulphur",
+      "20% P plus 15% nitrogen and 8% calcium",
+      "16% P plus 10% magnesium and 6% sulphur",
+      "18% P plus 25% calcium and 15% chloride",
+    ],
+    correct: 0,
+    explanation:
+      "SSP contains 16% P2O5, 21% calcium and 12% sulphur, making it a preferred source for oilseed crops like groundnut that require sulphur.",
+  },
+  {
+    id: "d122_032",
+    subject: "da-122",
+    question: "Rock phosphate is suitable as fertilizer mainly in which soil conditions?",
+    options: [
+      "Neutral pH soils with good drainage facilities",
+      "Waterlogged alkaline soils with high calcium",
+      "Strongly acidic soils or high rainfall areas",
+      "Sandy loam soils with low organic matter",
+    ],
+    correct: 2,
+    explanation:
+      "Rock phosphate is water and citrate insoluble. It is soluble in strongly acidic soils or organic soils, and is used in tea and coffee gardens and high rainfall mountain areas.",
+  },
+  {
+    id: "d122_033",
+    subject: "da-122",
+    question: "The Fertilizer Control Order (FCO) was originally passed on which date?",
+    options: [
+      "28th April 1957 under Essential Commodities Act",
+      "15th August 1950 under Indian Agriculture Act",
+      "26th January 1960 under Fertilizer Movement Act",
+      "1st January 1961 under Interstate Trade Act",
+    ],
+    correct: 0,
+    explanation:
+      "The Fertilizer Control Order (FCO) was passed on 28th April 1957 in exercise of the power conferred by Section III of the Essential Commodities Act of 1955, effective from May 18th 1957.",
+  },
+  {
+    id: "d122_034",
+    subject: "da-122",
+    question: "What is the nitrogen content of urea as per FCO 1957 specifications?",
+    options: [
+      "Minimum 40% nitrogen by weight content",
+      "Minimum 46% nitrogen by weight content",
+      "Minimum 44% nitrogen by weight content",
+      "Minimum 48% nitrogen by weight content",
+    ],
+    correct: 3,
+    explanation:
+      "As per FCO 1957, urea must have total nitrogen minimum 44% per cent by weight. The biuret content must be maximum 1.50%.",
+  },
+  {
+    id: "d122_035",
+    subject: "da-122",
+    question: "INM is defined as maintenance of soil fertility through optimization of benefits from:",
+    options: [
+      "All possible chemical fertilizer combinations only",
+      "Organic, inorganic and biological components together",
+      "Organic manures and biofertilizers excluding chemicals",
+      "Soil testing and site-specific nutrient management only",
+    ],
+    correct: 0,
+    explanation:
+      "INM refers to maintenance of soil fertility and plant nutrient supply through optimization of benefits from all possible sources of organic, inorganic and biological components in an integrated manner.",
+  },
+  {
+    id: "d122_036",
+    subject: "da-122",
+    question: "Rhizobium meliloti is specifically associated with which crop?",
+    options: [
+      "Soybean as host legume species",
+      "Black gram as symbiotic host crop",
+      "Berseem as the specific host legume",
+      "Cowpea as the preferred legume host",
+    ],
+    correct: 2,
+    explanation:
+      "Rhizobium meliloti is specifically associated with Berseem. Each Rhizobium species shows host specificity to its particular legume crop.",
+  },
+  {
+    id: "d122_037",
+    subject: "da-122",
+    question: "What is the vermicompost application rate recommended for fruit crops?",
+    options: [
+      "200 grams per pot for fruit trees",
+      "1 tonne per hectare for all fruit crops",
+      "5-10 kg per tree for fruit crops",
+      "50 kg per plant for large orchards",
+    ],
+    correct: 2,
+    explanation:
+      "For fruit crops, 5-10 kg/tree of vermicompost is recommended. For field crops the rate is 1 t/ha and for flowering plants in pots, 200g/pot.",
+  },
+  {
+    id: "d122_038",
+    subject: "da-122",
+    question: "Compost with commercially accepted standards must have C:N ratio of:",
+    options: [
+      "More than 50 wide C:N ratio",
+      "Between 30-50 moderate C:N ratio",
+      "Less than 20 narrow C:N ratio",
+      "Exactly 25 fixed C:N ratio",
+    ],
+    correct: 2,
+    explanation:
+      "Commercially accepted compost must have C:N ratio less than 20. Other properties include nitrogen >2%, color brown-black, moisture 10-20% and CEC 75-100 meq/100g.",
+  },
+  {
+    id: "d122_039",
+    subject: "da-122",
+    question: "Pillipesara (Phaseolus trilobus) is described as a triple purpose crop because:",
+    options: [
+      "It provides grain, fodder and green manure",
+      "It produces fiber, fodder and green manure",
+      "It supplies wood, leaf and root products",
+      "It gives vegetables, seeds and oil cakes",
+    ],
+    correct: 0,
+    explanation:
+      "Pillipesara is a regular green manure, minor pulse crop and fodder crop — hence it is a triple purpose crop. It has good ratooning capacity.",
+  },
+  {
+    id: "d122_040",
+    subject: "da-122",
+    question: "Deep placement of nitrogenous fertilizers in paddy fields is done to:",
+    options: [
+      "Speed up nitrogen release to soil surface",
+      "Reduce the cost of fertilizer application",
+      "Place ammoniacal N in soil reduction zone",
+      "Improve surface drainage of paddy fields",
+    ],
+    correct: 3,
+    explanation:
+      "Deep placement places ammoniacal nitrogenous fertilizers in the reduction zone of soil in paddy fields, where ammoniacal nitrogen remains available to the crop and prevents nutrient loss by run-off.",
+  },
+  {
+    id: "d122_041",
+    subject: "da-122",
+    question: "Which characteristic distinguishes chemical fertilizers from organic manures?",
+    options: [
+      "Chemical fertilizers improve physical soil properties",
+      "Chemical fertilizers supply only one or few nutrients",
+      "Chemical fertilizers contain wide C:N ratio matter",
+      "Chemical fertilizers support soil microbial population",
+    ],
+    correct: 0,
+    explanation:
+      "Chemical fertilizers are quick acting, have high analytical value, definite chemical composition and supply one or very few plant nutrients, but do NOT improve physical properties of soils.",
+  },
+  {
+    id: "d122_042",
+    subject: "da-122",
+    question: "What is the minimum distance for urban composting from residential areas?",
+    options: [
+      "500 meters from the residential township",
+      "3 kilometers from the nearest settlement",
+      "1.5 kilometers from residential townships",
+      "5 kilometers from the nearest habitation",
+    ],
+    correct: 2,
+    explanation:
+      "Urban composting is taken up at least 1.5 km away from the residential areas/townships to prevent nuisance and health hazards.",
+  },
+  {
+    id: "d122_043",
+    subject: "da-122",
+    question: "Ammonium chloride application results in loss of calcium from soil because:",
+    options: [
+      "Chlorine ions directly dissolve calcium particles",
+      "Calcium is replaced by ammonium on exchange sites",
+      "Chlorine forms soluble CaCl2 which leaches out",
+      "Ammonium acidifies soil causing calcium fixation",
+    ],
+    correct: 1,
+    explanation:
+      "When ammonium chloride dissociates, chlorine combines with calcium to form calcium chloride which is highly soluble and lost due to leaching, resulting in loss of calcium.",
+  },
+  {
+    id: "d122_044",
+    subject: "da-122",
+    question: "Calcium ammonium nitrate must be stored in specialized polythene bags because:",
+    options: [
+      "It reacts with carbon dioxide in open air",
+      "It is highly hygroscopic in its dry form",
+      "It releases toxic ammonia gas during storage",
+      "It decomposes rapidly at room temperature",
+    ],
+    correct: 3,
+    explanation:
+      "Calcium ammonium nitrate is highly hygroscopic in nature, hence it must be stored in specialized polythene bags to prevent moisture absorption.",
+  },
+  {
+    id: "d122_045",
+    subject: "da-122",
+    question: "What nitrogen percentage does Calcium Cyanamide contain?",
+    options: [
+      "Calcium cyanamide contains 46% nitrogen",
+      "Calcium cyanamide contains 21% nitrogen",
+      "Calcium cyanamide contains 35% nitrogen",
+      "Calcium cyanamide contains 16% nitrogen",
+    ],
+    correct: 0,
+    explanation:
+      "Calcium cyanamide contains 21% N (amide form). Urea contains 46% N and is the most popular amide form fertilizer.",
+  },
+  {
+    id: "d122_046",
+    subject: "da-122",
+    question: "In which soil type does boron availability increase while getting fixed in finer soils?",
+    options: [
+      "Heavy clay soils with montmorillonite minerals",
+      "Coarse textured soils have more boron availability",
+      "Alkaline soils with high calcium carbonate content",
+      "Waterlogged soils with low oxygen availability",
+    ],
+    correct: 1,
+    explanation:
+      "Boron availability is more in coarse textured soils and in finer textured soils it gets fixed and becomes unavailable to plants.",
+  },
+  {
+    id: "d122_047",
+    subject: "da-122",
+    question: "Organic farming as defined by FAO is a holistic system that promotes:",
+    options: [
+      "Maximum crop yield using all available inputs",
+      "Agro-ecosystem health including biodiversity and biological cycles",
+      "Complete elimination of all synthetic compounds",
+      "Traditional farming with only bullock-drawn implements",
+    ],
+    correct: 1,
+    explanation:
+      "FAO defines organic agriculture as 'a holistic production management system which promotes and enhances agro-ecosystem's health, including biodiversity, biological cycles, and soil biological activity.'",
+  },
+  {
+    id: "d122_048",
+    subject: "da-122",
+    question: "Green manure crop should be incorporated into soil at which growth stage?",
+    options: [
+      "At harvest stage with mature seeds formed",
+      "At early seedling stage within 30 days",
+      "At 50% flowering stage when crop is tender",
+      "After natural wilting and partial drying occurs",
+    ],
+    correct: 3,
+    explanation:
+      "The green manure crop should be incorporated at the stage of 50% flowering when it is tender. Delay in incorporation will affect decomposition.",
+  },
+  {
+    id: "d122_049",
+    subject: "da-122",
+    question: "What percentage of nitrogen in the atmosphere exists in gaseous form?",
+    options: [
+      "Nearly 21 per cent of atmospheric nitrogen",
+      "Nearly 78 per cent of atmospheric nitrogen",
+      "Nearly 50 per cent of atmospheric nitrogen",
+      "Nearly 90 per cent of atmospheric nitrogen",
+    ],
+    correct: 0,
+    explanation:
+      "Atmosphere contains nearly 78% of nitrogen in gaseous form, which is 1.5 times higher than the N content present in urea.",
+  },
+  {
+    id: "d122_050",
+    subject: "da-122",
+    question: "Pellet application involves placing nitrogen fertilizer at what depth in paddy?",
+    options: [
+      "2.5 to 5 cm deep between paddy rows",
+      "10 to 15 cm deep in paddy root zone",
+      "0.5 to 1 cm on soil surface near plants",
+      "15 to 20 cm deep in anaerobic zone",
+    ],
+    correct: 0,
+    explanation:
+      "Pellet application refers to placement of nitrogenous fertilizer in the form of pellets 2.5 to 5 cm deep between the rows of the paddy crop, mixed with soil in 1:10 ratio.",
+  },
+  {
+    id: "d122_051",
+    subject: "da-122",
+    question: "What is the main objective of adding conditioners to mixed fertilizers?",
+    options: [
+      "To increase the nutrient content per kilogram",
+      "To improve shelf life and reduce degradation",
+      "To reduce crystal knitting and prevent caking",
+      "To balance pH for acidic or alkaline soils",
+    ],
+    correct: 2,
+    explanation:
+      "Conditioners are added to non-granular or granular mixtures to improve physical condition and decrease caking. The actual purpose is to reduce crystal knitting. Examples include sand and silica.",
+  },
+  {
+    id: "d122_052",
+    subject: "da-122",
+    question: "In INM, reduced investment in chemical fertilizers can be up to:",
+    options: [
+      "10 per cent reduction in fertilizer investment",
+      "50 per cent reduction in fertilizer investment",
+      "30 per cent reduction in fertilizer investment",
+      "70 per cent reduction in fertilizer investment",
+    ],
+    correct: 2,
+    explanation:
+      "One of the advantages of INM is reduced investment in chemical fertilizers up to 30 per cent, along with reduced soil and ground water pollution.",
+  },
+  {
+    id: "d122_053",
+    subject: "da-122",
+    question: "Wild indigo (Tephrosia purpurea) is best suited for which soil conditions?",
+    options: [
+      "Rich alluvial soils along river flood plains",
+      "Waterlogged paddy soils in coastal areas",
+      "Hard coarse gravelly textured and poor soils",
+      "Black cotton soils with high clay content",
+    ],
+    correct: 2,
+    explanation:
+      "Wild indigo (Tephrosia purpurea) is suited for hard coarse gravelly textured soils and poor soils. It is also used as a green leaf manure and is a self-grown crop when sown once.",
+  },
+  {
+    id: "d122_054",
+    subject: "da-122",
+    question: "DAP (Di Ammonium Phosphate) has which grade of N and P2O5?",
+    options: [
+      "11-46 grade of nitrogen and phosphate",
+      "20-20 grade of nitrogen and phosphate",
+      "16-20 grade of nitrogen and phosphate",
+      "18-46 grade of nitrogen and phosphate",
+    ],
+    correct: 3,
+    explanation:
+      "DAP (Di Ammonium Phosphate) has the grade 18:46 containing 18% N and 46% P2O5, while MAP has 11:46 grade.",
+  },
+  {
+    id: "d122_055",
+    subject: "da-122",
+    question: "Sulphur coated urea (SCU) releases nitrogen slowly because:",
+    options: [
+      "SCU dissolves urea at a uniform controlled rate",
+      "Sulphur coating ruptures by microbial soil action",
+      "SCU requires high temperature before dissolving",
+      "Sulphur blocks water entry into urea granule",
+    ],
+    correct: 0,
+    explanation:
+      "In SCU, as long as urea remains coated with sulphur without rupture, it does not dissolve. When added to soil, the sulphur coating ruptures by microbial action and soil water slowly penetrates and dissolves the urea.",
+  },
+  {
+    id: "d122_056",
+    subject: "da-122",
+    question: "Phosphate solubilizing bacteria solubilize insoluble phosphates by secreting:",
+    options: [
+      "Enzymes like phosphatase and phytase proteins",
+      "Organic acids like acetic and propionic acids",
+      "Growth hormones like gibberellic acid and IAA",
+      "Nitrogenase enzyme that reduces phosphate ions",
+    ],
+    correct: 1,
+    explanation:
+      "Phosphate solubilizing bacteria (Pseudomonas and Bacillus) secrete organic acids such as acetic acid, propionic acid etc. These acids lower the pH and dissolve bound phosphate forms.",
+  },
+  {
+    id: "d122_057",
+    subject: "da-122",
+    question: "Horse gram (Dolichus biflorus) is suitable as green manure for which soils?",
+    options: [
+      "Rich alluvial soils with good moisture availability",
+      "Poor and hard soils with drought tolerance",
+      "Waterlogged heavy black cotton clay soils",
+      "Sandy loam soils with high permeability",
+    ],
+    correct: 1,
+    explanation:
+      "Horse gram is suitable as green manure for poor and hard soils. It can also withstand drought. Seed rate is 35 kg/ha and green matter yield is 3.5 tonnes/ha.",
+  },
+  {
+    id: "d122_058",
+    subject: "da-122",
+    question: "What is the N content range of guano organic manure?",
+    options: [
+      "1-4% nitrogen and 10-25% phosphorus",
+      "4-10% nitrogen and 3-9% phosphorus",
+      "8-15% nitrogen and 2.3% phosphorus",
+      "12% nitrogen and 1.5% phosphorus content",
+    ],
+    correct: 2,
+    explanation:
+      "Guano contains 8-15% nitrogen, 2.3% phosphorus and 2.4% potassium. The name Guano originated from Peru from the word 'HAUNO' meaning manure.",
+  },
+  {
+    id: "d122_059",
+    subject: "da-122",
+    question: "1000 earthworms weighing about 1 kg can convert how much waste per day?",
+    options: [
+      "1000 earthworms convert 1 kg waste daily",
+      "1000 earthworms convert 10 kg waste daily",
+      "1000 earthworms convert 20 kg waste daily",
+      "1000 earthworms convert 5 kg waste daily",
+    ],
+    correct: 3,
+    explanation:
+      "1000 earthworms may convert 5 kg waste material per day. 1000 worms weighs about one kilogram.",
+  },
+  {
+    id: "d122_060",
+    subject: "da-122",
+    question: "Complete complex fertilizers contain how many primary nutrients in combination?",
+    options: [
+      "Only one primary nutrient in large quantity",
+      "Two primary nutrients like N and P combined",
+      "All three primary nutrients N, P and K combined",
+      "Four nutrients including calcium along with NPK",
+    ],
+    correct: 2,
+    explanation:
+      "Complete complex fertilizers contain all three major nutrients N, P and K in chemical combination. Examples include 14:28:14, 17:17:17 and 19:19:19.",
+  },
+  {
+    id: "d122_061",
+    subject: "da-122",
+    question: "Vermicompost turnover percentage from total material accommodated in pit is:",
+    options: [
+      "The turnover rate of vermicompost is 50%",
+      "The turnover rate of vermicompost is 75%",
+      "The turnover rate of vermicompost is 90%",
+      "The turnover rate of vermicompost is 60%",
+    ],
+    correct: 1,
+    explanation:
+      "The turnover of vermicompost is 75%. If 1000 kg material is accommodated in the pit, the output will be 750 kg of vermicompost.",
+  },
+  {
+    id: "d122_062",
+    subject: "da-122",
+    question: "Groundnut cake is classified as an edible oil cake with which nitrogen content?",
+    options: [
+      "Groundnut cake contains 5.2% nitrogen content",
+      "Groundnut cake contains 6.5% nitrogen content",
+      "Groundnut cake contains 3.4% nitrogen content",
+      "Groundnut cake contains 4.4% nitrogen content",
+    ],
+    correct: 1,
+    explanation:
+      "Groundnut cake is an edible oil cake containing 6.5% N, 1.3% P and 1.5% K. It is suitable for cattle and poultry feeding as well as crop fertilization.",
+  },
+  {
+    id: "d122_063",
+    subject: "da-122",
+    question: "Bone meal is particularly useful for soils high in Fe and Al because:",
+    options: [
+      "Bone meal directly chelates excess iron ions",
+      "Bone P dissolves better in acidic soil conditions",
+      "Bone meal alkalizes acidic soil pH effectively",
+      "Bone meal absorbs toxic aluminium from soil",
+    ],
+    correct: 1,
+    explanation:
+      "Bone meal is a good P-fertilizer that is particularly useful for soils high in Fe and Al content (acid soils). It can be used for all crops without fear of salt damage unlike chemical fertilizers.",
+  },
+  {
+    id: "d122_064",
+    subject: "da-122",
+    question: "Sodium nitrate contains which percentage of nitrogen as a nitrate fertilizer?",
+    options: [
+      "Sodium nitrate contains 33% nitrogen content",
+      "Sodium nitrate contains 26% nitrogen content",
+      "Sodium nitrate contains 21% nitrogen content",
+      "Sodium nitrate contains 16% nitrogen content",
+    ],
+    correct: 3,
+    explanation:
+      "Sodium nitrate (NaNO3) contains 16% N. Calcium nitrate also contains 16% N. Both are nitrate form fertilizers that readily dissociate in soil solution.",
+  },
+  {
+    id: "d122_065",
+    subject: "da-122",
+    question: "Mixing ammonium sulphate with basic slag is prohibited because:",
+    options: [
+      "Both are hygroscopic and absorb excess moisture",
+      "Acidic fertilizer reacts with alkaline material",
+      "They form toxic compounds harmful to plants",
+      "Combined nitrogen content becomes too high",
+    ],
+    correct: 0,
+    explanation:
+      "Acidic natured fertilizers should not be mixed with alkaline natured fertilizers. Ammonium sulphate is acidic while basic slag is alkaline, and mixing causes chemical reactions.",
+  },
+  {
+    id: "d122_066",
+    subject: "da-122",
+    question: "The Fertilizer Movement Order (FMO) was passed on which date to regulate interstate movement?",
+    options: [
+      "15th August 1950 effective from 1951",
+      "28th April 1957 same as FCO date",
+      "31st December 1960 effective from 1-1-1961",
+      "25th September 1985 as FCO revision date",
+    ],
+    correct: 2,
+    explanation:
+      "The Fertilizer Movement Order (FMO) was passed on 31st December 1960 to regulate interstate movement of fertilizers and came into force from 1-1-1961.",
+  },
+  {
+    id: "d122_067",
+    subject: "da-122",
+    question: "BGA is applied how many days after transplanting of rice crop?",
+    options: [
+      "BGA applied 5 days after rice transplanting",
+      "BGA applied 10 days after rice transplanting",
+      "BGA applied 20 days after rice transplanting",
+      "BGA applied 30 days after rice transplanting",
+    ],
+    correct: 1,
+    explanation:
+      "BGA is applied at 10 kg/ha flakes, applied 10 days after the transplanting of rice crop.",
+  },
+  {
+    id: "d122_068",
+    subject: "da-122",
+    question: "Monocropping of the same crop leads to nutrient depletion because:",
+    options: [
+      "The same crop produces allelopathic compounds in soil",
+      "The same depth of soil is mined repeatedly for nutrients",
+      "The same crop attracts pests reducing soil organic matter",
+      "Monocropping prevents rainfall reaching the soil surface",
+    ],
+    correct: 3,
+    explanation:
+      "Monocropping of the same crop without crop rotation mines nutrients from the same depth in the soil leading to nutrient depletion. Deep rooted crops should be rotated with surface-rooted crops.",
+  },
+  {
+    id: "d122_069",
+    subject: "da-122",
+    question: "The favourable temperature range for earthworm activity in vermicompost pits is:",
+    options: [
+      "5°C to 15°C cold temperature range",
+      "18°C to 35°C moderate temperature range",
+      "40°C to 55°C thermophilic temperature range",
+      "35°C to 45°C warm temperature range",
+    ],
+    correct: 0,
+    explanation:
+      "Favourable temperature for earthworms in composting material is 18°C to 35°C. pH range should be 6.5-7.5 and moisture should be 60-70%.",
+  },
+  {
+    id: "d122_070",
+    subject: "da-122",
+    question: "Poultry manure contains which NPK percentage composition?",
+    options: [
+      "0.5% N, 0.4% P and 0.5% K nutrients",
+      "1.4% N, 1.0% P and 1.4% K nutrients",
+      "3.0% N, 2.0% P and 2.0% K nutrients",
+      "0.7% N, 0.3% P and 0.7% K nutrients",
+    ],
+    correct: 2,
+    explanation:
+      "Poultry manure contains 3.0% N, 2.0% P and 2.0% K — making it richer in nutrients than FYM (0.5-1.5% N) and sheep manure.",
+  },
+  {
+    id: "d122_071",
+    subject: "da-122",
+    question: "Vermicompost contains which range of total nitrogen percentage?",
+    options: [
+      "0.5 to 1.0 per cent total nitrogen",
+      "3.0 to 5.0 per cent total nitrogen",
+      "5.0 to 8.0 per cent total nitrogen",
+      "1.5 to 2.10 per cent total nitrogen",
+    ],
+    correct: 3,
+    explanation:
+      "Vermicompost contains 1.5 to 2.10% total nitrogen, 1.0 to 1.50% total phosphorus, and 0.60-0.80% total potassium.",
+  },
+  {
+    id: "d122_072",
+    subject: "da-122",
+    question: "What is the ratio of dung and water used in mixing tank of a biogas plant?",
+    options: [
+      "Dung and water mixed in 1:1 ratio",
+      "Dung and water mixed in 1:4 ratio",
+      "Dung and water mixed in 4:5 ratio",
+      "Dung and water mixed in 2:3 ratio",
+    ],
+    correct: 2,
+    explanation:
+      "In the mixing tank adjacent to the digester, dung and water are mixed in 4:5 ratio. The mixed slurry is then passed into the digester through a cement pipe.",
+  },
+  {
+    id: "d122_073",
+    subject: "da-122",
+    question: "How much nitrogen can biofertilizers add per hectare under optimum conditions?",
+    options: [
+      "Biofertilizers can add 5-10 kg N per hectare",
+      "Biofertilizers can add 20-200 kg N per hectare",
+      "Biofertilizers can add 300-500 kg N per hectare",
+      "Biofertilizers can add 10-15 kg N per hectare",
+    ],
+    correct: 1,
+    explanation:
+      "Biofertilizers can add 20-200 kg N ha⁻¹ (by fixation) under optimum conditions. They can also solubilize/mobilize 30-50 kg P2O5 ha⁻¹.",
+  },
+  {
+    id: "d122_074",
+    subject: "da-122",
+    question: "For broadcasting fertilizers, which condition makes this method suitable?",
+    options: [
+      "Widely spaced crops with sparse root systems",
+      "Crops needing precise nutrient placement near roots",
+      "Crops with dense stand and permeating root systems",
+      "Small farmers needing fertilizer cost savings",
+    ],
+    correct: 2,
+    explanation:
+      "Broadcasting is suitable for crops with dense stand where plant roots permeate the whole volume of soil, when large doses of fertilizers are applied, and for insoluble phosphatic fertilizers.",
+  },
+  {
+    id: "d122_075",
+    subject: "da-122",
+    question: "Urea foliar spray concentration should not exceed what percentage to prevent scorching?",
+    options: [
+      "Urea foliar spray should not exceed 5% concentration",
+      "Urea foliar spray should not exceed 2% concentration",
+      "Urea foliar spray should not exceed 10% concentration",
+      "Urea foliar spray should not exceed 0.5% concentration",
+    ],
+    correct: 1,
+    explanation:
+      "Urea can be used for foliar spray at 2% concentration (20g/l). Higher or excess concentration results in scorching and defoliation. Biuret content should be below 1.5% for foliar spray.",
+  },
+  {
+    id: "d122_076",
+    subject: "da-122",
+    question: "The Indore process is one of the systems of which type of composting?",
+    options: [
+      "Rural compost prepared by individual farmers",
+      "Vermicomposting using earthworm technology",
+      "Urban composting done by local bodies",
+      "In situ green manure incorporation method",
+    ],
+    correct: 2,
+    explanation:
+      "The Indore process, along with ADCO process, Activated compost process, Bangalore process and Coimbatore process, are different systems of urban composting.",
+  },
+  {
+    id: "d122_077",
+    subject: "da-122",
+    question: "What is the safe distance between a biogas plant and the kitchen using gas?",
+    options: [
+      "Distance should be within 20 meters from kitchen",
+      "Distance should be within 5 meters from kitchen",
+      "Distance should be within 50 meters from kitchen",
+      "Distance should be within 100 meters from kitchen",
+    ],
+    correct: 0,
+    explanation:
+      "Normally the distance between gas plant and place where gas is to be used should be within 20 meters (Kitchen to gas plant).",
+  },
+  {
+    id: "d122_078",
+    subject: "da-122",
+    question: "Non-edible oil cakes are suitable only for crop fertilization because:",
+    options: [
+      "They have too high nitrogen for animal safety",
+      "They are non-palatable or poisonous to animals",
+      "They decompose too slowly for animal digestion",
+      "They contain excess calcium harmful to livestock",
+    ],
+    correct: 3,
+    explanation:
+      "Non-edible oil cakes (Castor, Neem, Mahua, Cotton seed, Mustard, Safflower) are suitable only for crop fertilization as they are non-palatable, poisonous or bitter for animals.",
+  },
+  {
+    id: "d122_079",
+    subject: "da-122",
+    question: "Fertile soil in arid regions may not be productive because productivity depends on:",
+    options: [
+      "Soil nutrient supply capacity alone matters",
+      "Organic matter content of topsoil layer",
+      "Multiple factors including water and climate",
+      "Root depth of crops grown in that region",
+    ],
+    correct: 2,
+    explanation:
+      "Soils in arid regions may be fertile but not productive because productivity depends on multiple factors including air, heat, light, mechanical support, soil fertility and especially water — not just nutrient supply.",
+  },
+  {
+    id: "d122_080",
+    subject: "da-122",
+    question: "Safflower cake has the highest nitrogen content among oil cakes at:",
+    options: [
+      "6.9 per cent nitrogen in safflower cake",
+      "5.2 per cent nitrogen in safflower cake",
+      "7.9 per cent nitrogen in safflower cake",
+      "4.8 per cent nitrogen in safflower cake",
+    ],
+    correct: 2,
+    explanation:
+      "Safflower cake (decorticated) has the highest nitrogen content among oil cakes at 7.9% N, 2.2% P and 1.9% K.",
+  },
+  {
+    id: "d122_081",
+    subject: "da-122",
+    question: "Side dressing method of fertilizer placement refers to:",
+    options: [
+      "Placing fertilizer at the bottom of plough furrow",
+      "Spreading fertilizer in between rows and around plants",
+      "Placing fertilizer in bands one side of the plant",
+      "Injecting liquid fertilizer into soil near plant roots",
+    ],
+    correct: 1,
+    explanation:
+      "Side dressing refers to spread of fertilizer in between the rows and around the plants. It is used for placement of nitrogenous fertilizers in crops like maize, sugarcane and cotton.",
+  },
+  {
+    id: "d122_082",
+    subject: "da-122",
+    question: "What is the recommended rate of BGA application per hectare for rice crop?",
+    options: [
+      "1 kg per hectare of BGA flakes applied",
+      "5 kg per hectare of BGA flakes applied",
+      "10 kg per hectare of BGA flakes applied",
+      "25 kg per hectare of BGA flakes applied",
+    ],
+    correct: 2,
+    explanation:
+      "Application of 10 kg/ha flakes of BGA is recommended, applied 10 days after the transplanting of rice crop.",
+  },
+  {
+    id: "d122_083",
+    subject: "da-122",
+    question: "Nitrification inhibitors primarily inhibit which bacterial activity in soil?",
+    options: [
+      "Nitrobacter bacteria oxidizing nitrite to nitrate",
+      "Azotobacter bacteria fixing atmospheric nitrogen",
+      "Nitrosomonas bacteria oxidizing ammonium to nitrite",
+      "Clostridium bacteria converting organic nitrogen compounds",
+    ],
+    correct: 2,
+    explanation:
+      "Most nitrification inhibitors inhibit activity of Nitrosomonas bacteria that oxidizes ammonium to nitrite. Some inhibitors inhibit Nitrobactor bacteria that oxidizes nitrite to nitrate.",
+  },
+  {
+    id: "d122_084",
+    subject: "da-122",
+    question: "In covered pit method of FYM preparation, application of which fertilizer improves quality?",
+    options: [
+      "Urea applied at the rate of 1% by weight",
+      "Muriate of potash to improve potassium content",
+      "Single super phosphate applied to the pit",
+      "Ammonium sulphate to enrich nitrogen content",
+    ],
+    correct: 3,
+    explanation:
+      "Application of single super phosphate (SSP) to the covered pit will improve the quality of FYM manure by providing additional phosphorus to the composting material.",
+  },
+  {
+    id: "d122_085",
+    subject: "da-122",
+    question: "What is the recommended dose of Azotobacter biofertilizer per hectare?",
+    options: [
+      "10-15 packets of Azotobacter per hectare",
+      "5-8 packets of Azotobacter per hectare",
+      "2-3 packets of Azotobacter per hectare",
+      "1 packet of Azotobacter per hectare",
+    ],
+    correct: 2,
+    explanation:
+      "The recommended dose of Azotobacter is 2-3 packets per hectare. It can be applied by seed inoculation, seedling inoculation or by broadcasting after mixing with FYM.",
+  },
+  {
+    id: "d122_086",
+    subject: "da-122",
+    question: "Which chelating agent is known as Ethylene Diamine Tetra Acetic Acid?",
+    options: [
+      "HEDTA is Ethylene Diamine Tetra Acetic Acid",
+      "DTPA is Ethylene Diamine Tetra Acetic Acid",
+      "EDDHA is Ethylene Diamine Tetra Acetic Acid",
+      "EDTA is Ethylene Diamine Tetra Acetic Acid",
+    ],
+    correct: 3,
+    explanation:
+      "EDTA stands for Ethylene Diamine Tetra Acetic Acid. Other chelating agents include HEDTA, EDDHA, NTA (Nitrilo Tri Acetic Acid) and DTPA (Diethylene Triamine Penta Acetic Acid).",
+  },
+  {
+    id: "d122_087",
+    subject: "da-122",
+    question: "Urban compost is prepared by which institutions using street sweepings?",
+    options: [
+      "Individual farmers using farm organic wastes",
+      "Local bodies and municipalities using municipal waste",
+      "Agricultural universities using experimental wastes",
+      "Private companies collecting kitchen food wastes",
+    ],
+    correct: 1,
+    explanation:
+      "Urban compost is prepared by local bodies, municipalities, corporations etc. with their output of street sweepings, municipal rubbish etc. as organic matter using night soil as starter.",
+  },
+  {
+    id: "d122_088",
+    subject: "da-122",
+    question: "Phosphoric fertilizers should be placed at what depth from seeds during sowing?",
+    options: [
+      "10-15 cm below and 8-10 cm away from seed",
+      "0.5-1 cm below and 1-2 cm away from seed",
+      "2-5 cm below and 5-6 cm away from seeds",
+      "8-10 cm below and 15-20 cm away from seed",
+    ],
+    correct: 2,
+    explanation:
+      "Phosphorus fertilizers (water soluble) should be placed 2-5 cm below the soil and 5-6 cm away from the seeds to ensure maximum availability to plants.",
+  },
+  {
+    id: "d122_089",
+    subject: "da-122",
+    question: "Ferrous sulphate (FeSO4.7H2O) contains which percentage of iron?",
+    options: [
+      "Ferrous sulphate contains 5% iron content",
+      "Ferrous sulphate contains 20% iron content",
+      "Ferrous sulphate contains 35% iron content",
+      "Ferrous sulphate contains 10% iron content",
+    ],
+    correct: 1,
+    explanation:
+      "Ferrous sulphate (FeSO4.7H2O) contains 20% iron. Fe-EDTA chelate contains 5% Fe and Fe-EDDHA chelate contains 6% Fe.",
+  },
+  {
+    id: "d122_090",
+    subject: "da-122",
+    question: "Zinc sulphate should be applied at what rate for deficiency correction in soil?",
+    options: [
+      "1-5 kg ZnSO4 per hectare at last ploughing",
+      "50-100 kg ZnSO4 per hectare in soil",
+      "0.5-1 kg ZnSO4 per hectare at transplanting",
+      "10-50 kg ZnSO4 per hectare at last ploughing",
+    ],
+    correct: 3,
+    explanation:
+      "Zinc sulphate at the rate of 10-50 kg/ha should be applied at the last ploughing before sowing or transplanting for zinc deficiency correction.",
+  },
+  {
+    id: "d122_091",
+    subject: "da-122",
+    question: "Which organic manure has the highest nitrogen content among blood meal and others?",
+    options: [
+      "Fish meal with 4-10% nitrogen content",
+      "Blood meal with 12% nitrogen content",
+      "Guano with 8-15% nitrogen content",
+      "Horn meal with 14% nitrogen content",
+    ],
+    correct: 1,
+    explanation:
+      "Blood meal (dried blood) has the highest nitrogen content at 12% N among concentrated animal origin manures (excluding horn meal), and is 80% as efficient as inorganic N fertilizers.",
+  },
+  {
+    id: "d122_092",
+    subject: "da-122",
+    question: "Application of lime to problematic acidic soils is recommended because:",
+    options: [
+      "Lime provides calcium and magnesium nutrients directly",
+      "Lime improves soil structure by increasing clay content",
+      "Lime increases soil pH to improve nutrient availability",
+      "Lime kills soil-borne pathogens causing root diseases",
+    ],
+    correct: 2,
+    explanation:
+      "For acidic soils lime should be applied and for basic or alkaline soils gypsum should be applied. Lime neutralizes soil acidity and improves pH to optimum range for nutrient availability.",
+  },
+  {
+    id: "d122_093",
+    subject: "da-122",
+    question: "Rhizobium inoculation of groundnut is done by slurry method because:",
+    options: [
+      "Groundnut pods grow underground requiring deep placement",
+      "Groundnut seeds are fragile and cannot tolerate dry inoculation",
+      "Groundnut requires higher doses of inoculant than other crops",
+      "Groundnut soils have high population of competing bacteria",
+    ],
+    correct: 1,
+    explanation:
+      "For groundnut, slurry of peat based inoculant in seed furrows is recommended because the groundnut seeds are fragile. For other legumes, seed coat inoculation is the most common method.",
+  },
+  {
+    id: "d122_094",
+    subject: "da-122",
+    question: "What is the N content of Azolla (water fern) used as biofertilizer in rice?",
+    options: [
+      "Azolla has 1-2% nitrogen for rice fields",
+      "Azolla has 4-6% nitrogen for submerged rice",
+      "Azolla has 8-10% nitrogen for paddy fields",
+      "Azolla has 10-15% nitrogen in leaf tissue",
+    ],
+    correct: 1,
+    explanation:
+      "Azolla has large biomass and high N content (4-6% N) and is recommended as green manure for submerged rice fields within maximum temperature of 38°C. Yield increase is 15-20%.",
+  },
+  {
+    id: "d122_095",
+    subject: "da-122",
+    question: "When applying urea to improve use efficiency, it should be mixed with soil in ratio:",
+    options: [
+      "One part urea and 5-10 parts moist soil",
+      "One part urea and 1-2 parts moist soil",
+      "One part urea and 20-25 parts moist soil",
+      "One part urea and 50-100 parts moist soil",
+    ],
+    correct: 0,
+    explanation:
+      "To prevent nitrogen loss, one part of urea and 5-10 parts of soft moist soil are mixed properly and incubated for 20-25 hours before application. This method improves nitrogen use efficiency.",
+  },
+  {
+    id: "d122_096",
+    subject: "da-122",
+    question: "What is the grade of MAP (Mono Ammonium Phosphate) complex fertilizer?",
+    options: [
+      "MAP has 18-46 grade N and P2O5",
+      "MAP has 20-20 grade N and P2O5",
+      "MAP has 16-20 grade N and P2O5",
+      "MAP has 11-46 grade N and P2O5",
+    ],
+    correct: 3,
+    explanation:
+      "MAP (Mono Ammonium Phosphate) has 11:46 grade, while DAP (Di Ammonium Phosphate) has 18:46 grade. Both are incomplete complex fertilizers.",
+  },
+  {
+    id: "d122_097",
+    subject: "da-122",
+    question: "Rural compost pit dimensions are typically described as which standard size?",
+    options: [
+      "Rural compost pit is 8 x 4 x 4 feet size",
+      "Rural compost pit is 20 x 10 x 3 feet size",
+      "Rural compost pit is 12 x 50 x 6 feet size",
+      "Rural compost pit is 6 x 6 x 4 feet standard",
+    ],
+    correct: 2,
+    explanation:
+      "Rural compost can be done in a pit size of 12 x 50 x 6 feet located on an elevated place. Length and width are adjustable but these are the standard dimensions.",
+  },
+  {
+    id: "d122_098",
+    subject: "da-122",
+    question: "Soil productivity is considered as an economic concept that depends on:",
+    options: [
+      "Soil fertility alone as the primary determinant",
+      "Multiple factors including air, heat, light and water",
+      "Soil texture and depth as the main factors",
+      "Organic matter content and microbial population",
+    ],
+    correct: 1,
+    explanation:
+      "Soil productivity is an economic concept and not just a property of soil. It depends on all external factors that control plant growth like air, heat (temperature), light, mechanical support, soil fertility and water.",
+  },
+  {
+    id: "d122_099",
+    subject: "da-122",
+    question: "The FCO was revised in which year with effect from 25-9-1985?",
+    options: [
+      "FCO was revised in 1990 to add new fertilizers",
+      "FCO was revised in 1975 to control adulteration",
+      "FCO was revised in 1985 for updated standards",
+      "FCO was revised in 2000 for complex fertilizers",
+    ],
+    correct: 2,
+    explanation:
+      "The Fertilizer Control Order (FCO) originally passed in 1957 was revised in 1985 with effect from 25-9-1985. The Government of India has delegated powers to state governments to implement the order.",
+  },
+  {
+    id: "d122_100",
+    subject: "da-122",
+    question: "Daincha (Sesbania speciosa) is preferred for correction of sodic soils because:",
+    options: [
+      "It has very high nitrogen fixation capacity",
+      "It grows fast and produces maximum biomass",
+      "It is deep rooted improving soil drainage heavily",
+      "It is less woody, less fibrous with heavy foliage",
+    ],
+    correct: 3,
+    explanation:
+      "Sesbania speciosa corrects sodic soils because it is less woody and less fibrous, gives heavy foliage and is easily decomposable. It is an erect growing deep-rooted crop useful to improve drainage in heavy soils.",
+  },
 ];
