@@ -422,7 +422,7 @@ export const da291Questions: Question[] = [
     subject: "da-291",
     question: "The demonstration method in extension is effective because:",
     options: ["It provides farmers written instructions on how to implement new practices", "It replaces regular extension farm visits and saves extension worker time", "It is the least time-consuming method to train large numbers of farmers", "It shows farmers how to do a practice with visual evidence, reducing uncertainty"],
-    correct: 0,
+    correct: 3,
     explanation: "Demonstration (method and result demonstration) is one of the most effective extension methods — 'Show, not just tell'. It reduces uncertainty by showing farmers how to do something and what results to expect. 'Seeing is believing' principle underlies demonstrations."
   },
   {

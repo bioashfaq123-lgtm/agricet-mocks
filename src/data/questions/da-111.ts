@@ -834,7 +834,7 @@ export const da111Questions: Question[] = [
       "Multiple embryos from polyembryony phenomenon",
       "Fleshy pericarp tissue for seed dispersal"
     ],
-    correct: 3,
+    correct: 0,
     explanation: "Seed is a matured ovule that consists of an embryonic plant together with a store of food, all surrounded by a protective coat."
   },
   {

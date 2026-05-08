@@ -326,7 +326,7 @@ export const da281Questions: Question[] = [
     subject: "da-281",
     question: "Farm Forestry is defined as growing trees on farm lands for which purposes?",
     options: ["Only timber production for commercial use", "Commercial or non-commercial varied purposes", "Only fuel wood for rural household use", "Only environmental protection purposes"],
-    correct: 0,
+    correct: 1,
     explanation: "Farm Forestry is defined as growing trees on farm lands for commercial purposes like timber production or non-commercial purposes like soil erosion control."
   },
   {
