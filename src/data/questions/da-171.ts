@@ -30,7 +30,7 @@ export const da171Questions: Question[] = [
     subject: "da-171",
     question: "The most diagnostic symptom of Red Rot of sugarcane is:",
     options: ["White papery membrane covering the long whip-like black structure", "Yellowing and withering of leaves from the crown downward", "Reddening of internal tissues with cross-wise white patches inside", "Stunted tillers with narrow yellow leaves and bushy grass appearance"],
-    correct: 3,
+    correct: 2,
     explanation: "Red Rot of sugarcane (Colletotrichum falcatum) shows reddening of internal cane tissues with characteristic cross-wise white patches interrupting the reddened areas. An acidic-sour odour is also diagnostic."
   },
   {
@@ -190,7 +190,7 @@ export const da171Questions: Question[] = [
     subject: "da-171",
     question: "The 'Disease Triangle' concept in plant pathology states that disease occurs when:",
     options: ["High rainfall, high temperature and dense planting coincide together", "Infected seed, poor drainage and excess nitrogen fertilizer interact", "Susceptible host, virulent pathogen and favourable environment interact", "Primary inoculum, secondary inoculum and vector all become active"],
-    correct: 3,
+    correct: 2,
     explanation: "The Plant Disease Triangle states that disease occurs only when a susceptible host, virulent pathogen and favourable environment all interact simultaneously. Absence of any one factor prevents disease development."
   },
   {
@@ -198,7 +198,7 @@ export const da171Questions: Question[] = [
     subject: "da-171",
     question: "Bordeaux Mixture is prepared by mixing copper sulphate and:",
     options: ["Zinc sulphate and hydrated lime at 1:1:100 ratio in water", "Ferrous sulphate and sodium hydroxide at 1:1:50 ratio in water", "Quick lime (CaO) in water at 1:1:100 ratio for spray application", "Potassium permanganate and lime at 1:2:100 ratio in water"],
-    correct: 0,
+    correct: 2,
     explanation: "Bordeaux Mixture is prepared by mixing copper sulphate (CuSO₄) and quick lime (CaO, slaked to Ca(OH)₂) in water at 1:1:100 ratio. It is a contact protectant fungicide developed in Bordeaux, France for grapevine downy mildew."
   },
   {

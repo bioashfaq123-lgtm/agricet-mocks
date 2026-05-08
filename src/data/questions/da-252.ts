@@ -6,7 +6,7 @@ export const da252Questions: Question[] = [
     subject: "da-252",
     question: "Surveying is defined as the art of determination of horizontal distances, differences in elevation, directions, angles, locations, areas and volumes:",
     options: ["on the moon's surface only", "on or near the earth's surface", "only above the earth's surface", "only beneath the earth's surface"],
-    correct: 0,
+    correct: 1,
     explanation: "Surveying is the art of determination of horizontal distances, differences in elevation, directions, angles, locations, areas and volumes on or near the surface of the earth."
   },
   {
@@ -14,7 +14,7 @@ export const da252Questions: Question[] = [
     subject: "da-252",
     question: "In which type of surveying is the curvature of the earth taken into account?",
     options: ["Plane surveying", "Geodetic surveying", "Agricultural surveying", "Cadastral surveying"],
-    correct: 2,
+    correct: 1,
     explanation: "Geodetic surveying (also called trigonometrical surveying) takes the curvature of the earth into account because it covers large distances and areas."
   },
   {
@@ -30,7 +30,7 @@ export const da252Questions: Question[] = [
     subject: "da-252",
     question: "A map differs from a plan in that a map uses:",
     options: ["Larger scale than a plan", "Smaller scale than a plan", "The same scale as a plan", "No scale at all"],
-    correct: 3,
+    correct: 1,
     explanation: "The representation is called a map if the scale is small and a plan if the scale is large. On a plan, only horizontal distances are shown."
   },
   {
@@ -46,7 +46,7 @@ export const da252Questions: Question[] = [
     subject: "da-252",
     question: "Which distance measuring method uses a watch-like instrument carried in the person's pocket?",
     options: ["Chaining method", "Passometer method", "Pacing method", "Float method"],
-    correct: 2,
+    correct: 1,
     explanation: "The passometer is a watch-like instrument carried in the person's pocket or tied on the leg. It records the paces when the person moves from one point to another, overcoming the monotony of counting paces."
   },
   {
@@ -62,7 +62,7 @@ export const da252Questions: Question[] = [
     subject: "da-252",
     question: "The most accurate method of measuring distances in surveying is:",
     options: ["Pacing", "Judging by time", "Chaining", "Float method"],
-    correct: 3,
+    correct: 2,
     explanation: "Chaining is the most accurate of all the methods of measuring distance and is commonly used. A steel tape is used where great accuracy is required."
   },
   {
@@ -70,7 +70,7 @@ export const da252Questions: Question[] = [
     subject: "da-252",
     question: "A metric chain of 20 m length has how many links?",
     options: ["50 links", "75 links", "100 links", "150 links"],
-    correct: 0,
+    correct: 2,
     explanation: "A 20 m metric chain is provided with 100 links, with each link being 0.2 m (20 cm) long. A 30 m chain has 150 links."
   },
   {
@@ -94,7 +94,7 @@ export const da252Questions: Question[] = [
     subject: "da-252",
     question: "The Revenue chain used for cadastral surveys is:",
     options: ["33 ft long with 16 links", "66 ft long with 100 links", "100 ft long with 100 links", "20 m long with 100 links"],
-    correct: 2,
+    correct: 0,
     explanation: "The Revenue chain is 33 ft long and divided into 16 links. It is commonly used for measuring fields in cadastral surveys."
   },
   {
@@ -118,7 +118,7 @@ export const da252Questions: Question[] = [
     subject: "da-252",
     question: "In chaining operations, the person at the rear end of the chain is called the:",
     options: ["Leader or head chainman", "Follower or rear chainman", "Surveyor or observer", "Scout or pioneer"],
-    correct: 0,
+    correct: 1,
     explanation: "The chainman at the forward end is called the leader or head chainman, while the chainman at the rear end is known as the follower or rear chainman. The more experienced person should be the follower."
   },
   {
@@ -126,7 +126,7 @@ export const da252Questions: Question[] = [
     subject: "da-252",
     question: "A chain is found to be too long and needs adjustment. Which method is used?",
     options: ["Adding extra links to the chain", "Closing up the joints of connecting rings", "Heating the chain to expand it", "Replacing the handle with a shorter one"],
-    correct: 2,
+    correct: 1,
     explanation: "If the chain is too long, it can be adjusted by closing up the joints of connecting rings, hammering back elongated rings, or removing some small rings."
   },
   {
@@ -134,7 +134,7 @@ export const da252Questions: Question[] = [
     subject: "da-252",
     question: "The operation of establishing intermediate points on a straight line between two terminal points is called:",
     options: ["Chaining", "Offsetting", "Ranging", "Traversing"],
-    correct: 1,
+    correct: 2,
     explanation: "Ranging is the operation of establishing intermediate points on a straight line between the terminal points. It should be done prior to chaining and can be done by eye or with instruments like a line ranger or theodolite."
   },
   {
@@ -142,7 +142,7 @@ export const da252Questions: Question[] = [
     subject: "da-252",
     question: "Indirect ranging is used when end stations of a line are not inter-visible due to:",
     options: ["Short distances between stations", "High ground or an intervening hill", "Flat and open terrain", "Presence of water bodies only"],
-    correct: 3,
+    correct: 1,
     explanation: "Indirect ranging is adopted when end stations are not inter-visible due to high ground or intervening hill, or when ends are not distinctly visible because the distance is too great."
   },
   {
@@ -158,7 +158,7 @@ export const da252Questions: Question[] = [
     subject: "da-252",
     question: "Cumulative errors in chaining are those that:",
     options: ["Compensate in both directions", "Occur randomly and cancel out", "Accumulate in the same direction", "Only occur on slopes"],
-    correct: 0,
+    correct: 2,
     explanation: "Cumulative errors occur in the same direction and tend to add up or accumulate, making the apparent measurement always too long or too short. Positive errors make measured length more than actual; negative errors make it less."
   },
   {
@@ -198,7 +198,7 @@ export const da252Questions: Question[] = [
     subject: "da-252",
     question: "Simpson's rule for area calculation assumes that the boundary portions between ordinates are:",
     options: ["Straight lines", "Circular arcs", "Parabolic curves", "Elliptical curves"],
-    correct: 0,
+    correct: 2,
     explanation: "Simpson's rule assumes that the different parts are portions of parabolic areas, whereas the Trapezoidal rule and other rules assume that the boundaries between extremities are straight lines."
   },
   {
@@ -214,7 +214,7 @@ export const da252Questions: Question[] = [
     subject: "da-252",
     question: "Which area calculation rule gives results that are more accurate than the Trapezoidal rule?",
     options: ["Mid-ordinate rule", "Average ordinate rule", "Simpson's rule", "Prismoidal rule"],
-    correct: 1,
+    correct: 2,
     explanation: "Simpson's rule gives more accurate results than the Trapezoidal rule. Where great accuracy is required, Simpson's rule should be invariably used."
   },
   {
@@ -222,7 +222,7 @@ export const da252Questions: Question[] = [
     subject: "da-252",
     question: "The maximum length of an offset in chain surveying is generally limited to:",
     options: ["5 metres", "10 metres", "15 metres", "30 metres"],
-    correct: 3,
+    correct: 2,
     explanation: "The maximum length of offset should not exceed the length of the tape used. Generally, the maximum length is limited to 15 m, depending on desired accuracy, map scale, allowable deflection and nature of ground."
   },
   {
@@ -230,7 +230,7 @@ export const da252Questions: Question[] = [
     subject: "da-252",
     question: "Perpendicular offsets are preferred over oblique offsets mainly because they:",
     options: ["Are more accurate for distant objects", "Can be taken quickly and entry in field book is easy", "Require more instruments to set out", "Are only suitable for straight boundaries"],
-    correct: 0,
+    correct: 1,
     explanation: "Perpendicular offsets are preferred because they can be taken quickly, the progress of survey is not hampered, the entry in the field book becomes easy, and the plotting of offsets is also easy."
   },
   {
@@ -238,7 +238,7 @@ export const da252Questions: Question[] = [
     subject: "da-252",
     question: "The optical square works on the principle of:",
     options: ["Refraction of light rays", "Reflection from two mirrors at 45° to each other", "Diffraction of light waves", "Absorption of infrared radiation"],
-    correct: 2,
+    correct: 1,
     explanation: "The optical square works on the principle of reflection. It has a horizontal mirror (H) and index mirror (I) placed at an angle of 45° to each other. The mirror H is half silvered and mirror I is fully silvered."
   },
   {
@@ -262,7 +262,7 @@ export const da252Questions: Question[] = [
     subject: "da-252",
     question: "The prismatic compass has a graduated aluminum ring marked in degrees up to:",
     options: ["90° in four quadrants", "180° in two semicircles", "270° in three quadrants", "360° in clockwise direction"],
-    correct: 0,
+    correct: 3,
     explanation: "The prismatic compass has a graduated aluminum ring marked from 0° to 360° in the clockwise direction, with graduations in degrees to 30 minutes. The readings get reflected through a prism resulting in an erected image."
   },
   {
@@ -278,7 +278,7 @@ export const da252Questions: Question[] = [
     subject: "da-252",
     question: "A magnetic meridian is the direction indicated by:",
     options: ["A fixed reference point on the map", "A freely suspended magnetic needle", "The north and south poles of the earth", "An assumed arbitrary reference direction"],
-    correct: 0,
+    correct: 1,
     explanation: "Magnetic meridian is the direction indicated by a freely suspended magnetic needle. True meridian is the line formed by the plane through north and south poles. Arbitrary meridian is any convenient assumed direction."
   },
   {
@@ -302,7 +302,7 @@ export const da252Questions: Question[] = [
     subject: "da-252",
     question: "Rill erosion starts when the runoff velocity exceeds approximately:",
     options: ["0.1 to 0.3 mm/s", "0.3 to 0.7 mm/s", "1.0 to 2.0 mm/s", "5.0 to 10.0 mm/s"],
-    correct: 3,
+    correct: 1,
     explanation: "Rill erosion starts when the runoff exceeds 0.3 to 0.7 mm/s. Rills are small channels that can be removed by timely normal tillage operations. It is the second stage of erosion."
   },
   {
@@ -318,7 +318,7 @@ export const da252Questions: Question[] = [
     subject: "da-252",
     question: "The minimum wind velocity required to initiate movement of most erodable soil particles (about 0.1 mm diameter) at 30.5 cm height is approximately:",
     options: ["8 km/hr", "16 km/hr", "32 km/hr", "48 km/hr"],
-    correct: 0,
+    correct: 1,
     explanation: "The minimum wind velocity necessary for initiating movement of most erodable soil particles (about 0.1 mm diameter) is about 16 km/hr at a height of 30.5 cm. Under field conditions with mixed sizes, it is about 21 km/hr."
   },
   {
@@ -350,7 +350,7 @@ export const da252Questions: Question[] = [
     subject: "da-252",
     question: "In the float method of measuring stream velocity, the surface velocity is multiplied by a factor of:",
     options: ["0.65 to get mean velocity", "0.75 to get mean velocity", "0.85 to get mean velocity", "0.95 to get mean velocity"],
-    correct: 3,
+    correct: 2,
     explanation: "The surface velocity is always higher than the average stream velocity. Therefore, the surface velocity is multiplied by a factor of 0.85 to get the average velocity. The cross-sectional area is measured at least in 3 places."
   },
   {
@@ -358,7 +358,7 @@ export const da252Questions: Question[] = [
     subject: "da-252",
     question: "Major irrigation projects are defined as those irrigating an area greater than:",
     options: ["500 ha", "2,000 ha", "5,000 ha", "10,000 ha"],
-    correct: 0,
+    correct: 3,
     explanation: "Major irrigation projects irrigate an area of more than 10,000 ha. Medium irrigation projects cover 2,000 to 10,000 ha, and minor irrigation projects cover less than 2,000 ha."
   },
   {
@@ -366,7 +366,7 @@ export const da252Questions: Question[] = [
     subject: "da-252",
     question: "Flow irrigation refers to irrigation where canal water is available at a level such that it can flow:",
     options: ["Through underground pipes to fields", "Over the adjoining land by gravity", "Only by pumping into the field", "Through sprinkler nozzles under pressure"],
-    correct: 2,
+    correct: 1,
     explanation: "Flow irrigation is when irrigation water in canals is available at such a level that it can flow over the adjoining land by gravity. Lift irrigation requires water to be lifted before it can be applied to land."
   },
   {
@@ -390,7 +390,7 @@ export const da252Questions: Question[] = [
     subject: "da-252",
     question: "In the deep furrow method, inflow rates are normally limited to avoid overtopping and scouring to:",
     options: ["0.5 to 2 m³/hr per furrow", "2 to 15 m³/hr per furrow", "20 to 50 m³/hr per furrow", "50 to 100 m³/hr per furrow"],
-    correct: 0,
+    correct: 1,
     explanation: "Furrow inflow rates are normally limited to 2 to 15 m³/hr per furrow to avoid overtopping and scouring problems. Slope along furrows may range from 0.2 to 2%. Furrow length ranges from 20 to 300 m or more depending on soil texture."
   },
   {
@@ -414,7 +414,7 @@ export const da252Questions: Question[] = [
     subject: "da-252",
     question: "Drip irrigation was first patented based on observations made by Symcha Blass in:",
     options: ["1948", "1960", "1964", "1972"],
-    correct: 3,
+    correct: 2,
     explanation: "Current drip irrigation technology dates back to the work of Symcha Blass (1964). He observed that a large tree near a leaking faucet showed more vigorous growth and developed the first patented drip irrigation system."
   },
   {
@@ -422,7 +422,7 @@ export const da252Questions: Question[] = [
     subject: "da-252",
     question: "The discharge rate for surface drip point-source emitters should be less than:",
     options: ["2 L/h per emitter", "4 L/h per emitter", "8 L/h per emitter", "16 L/h per emitter"],
-    correct: 0,
+    correct: 2,
     explanation: "Surface drip irrigation applies water to soil surface through emitters with discharge rates less than 8 L/h for single outlet (point-source) emitters and less than 4 L/h for line-source emitters."
   },
   {
@@ -430,7 +430,7 @@ export const da252Questions: Question[] = [
     subject: "da-252",
     question: "In a drip irrigation system, which filter is essential for primary filtration of water from open reservoirs where algae may develop?",
     options: ["Screen filter with 200 mesh", "Sand or gravel media filter", "Disc filter with fine pores", "Centrifugal sand separator"],
-    correct: 3,
+    correct: 1,
     explanation: "Gravel or media filters (sand filters) are essential for primary filtration of irrigation water from open water reservoirs, canals or reservoirs where algae may develop. If head loss exceeds 30 kPa, the filter needs back washing."
   },
   {
@@ -446,7 +446,7 @@ export const da252Questions: Question[] = [
     subject: "da-252",
     question: "The process of removing air from pump casing and suction pipe by filling it with water before starting a centrifugal pump is called:",
     options: ["Priming", "Flushing", "Bleeding", "Venting"],
-    correct: 2,
+    correct: 0,
     explanation: "Priming is the process of removing air from pump casing and suction pipe by filling water in the suction pipe. The pump will not work if there is any air left in the suction pipe."
   },
   {
@@ -454,7 +454,7 @@ export const da252Questions: Question[] = [
     subject: "da-252",
     question: "Which type of impeller is used in centrifugal pumps handling water mixed with sand, gravel and other solid materials?",
     options: ["Closed impeller with shroud on both sides", "Semi-open impeller with one side shroud", "Open impeller with no side wall", "Radial flow impeller with guide vanes"],
-    correct: 1,
+    correct: 2,
     explanation: "Open impellers have no side wall or shroud. They are used to handle water mixed with sand, gravel, clay, pebbles and other solid materials. They are made of forged steel but have a short life and are suitable for dredging works."
   },
   {
@@ -462,7 +462,7 @@ export const da252Questions: Question[] = [
     subject: "da-252",
     question: "The submersible pump has a principal advantage of being usable in:",
     options: ["Very shallow open wells only", "Very deep tube wells where a long shaft is impractical", "Horizontal pipeline systems only", "Surface irrigation channels only"],
-    correct: 3,
+    correct: 1,
     explanation: "The principal advantage of the submersible pump is that it can be used in a very deep tube well where a long shaft would not be practical. It is suitable for wells with minimum 100 mm diameter."
   },
   {
@@ -510,7 +510,7 @@ export const da252Questions: Question[] = [
     subject: "da-252",
     question: "Carbon dioxide concentration in normal atmosphere is approximately:",
     options: ["0.003% (30 ppm)", "0.035% (345 ppm)", "0.35% (3500 ppm)", "3.5% (35,000 ppm)"],
-    correct: 3,
+    correct: 1,
     explanation: "In general, the percentage of carbon dioxide in the atmosphere is 0.035% (345 ppm). During the day in greenhouses, plants draw down CO₂ to below 200 ppm through photosynthesis."
   },
   {
@@ -518,7 +518,7 @@ export const da252Questions: Question[] = [
     subject: "da-252",
     question: "Most greenhouse crops will respond favorably to CO₂ enrichment at concentrations of:",
     options: ["200 to 400 ppm", "400 to 600 ppm", "600 to 800 ppm", "1000 to 1200 ppm"],
-    correct: 0,
+    correct: 3,
     explanation: "Most crops will respond favorably to CO₂ at 1000 to 1200 ppm. The exact level needed for a given crop varies and must be correlated with other variables such as light, temperature, nutrient levels, cultivar and degree of maturity."
   },
   {
@@ -526,7 +526,7 @@ export const da252Questions: Question[] = [
     subject: "da-252",
     question: "The first use of polyethylene as a greenhouse cover was in:",
     options: ["1900", "1920", "1935", "1948"],
-    correct: 2,
+    correct: 3,
     explanation: "The first use of polyethylene as a greenhouse cover was in 1948, when professor Emery Myers Emmert at the University of Kentucky used the less expensive material in place of more expensive glass."
   },
   {
@@ -534,7 +534,7 @@ export const da252Questions: Question[] = [
     subject: "da-252",
     question: "The greenhouse type suitable for hilly terrain with unequal roof widths is:",
     options: ["Even span type greenhouse", "Lean-to type greenhouse", "Uneven span type greenhouse", "Ridge and furrow greenhouse"],
-    correct: 1,
+    correct: 2,
     explanation: "Uneven span type greenhouse is constructed on hilly terrain. The roofs are of unequal width, making the structure adaptable to the side slopes of hill. However, it is seldom used nowadays as it is not adaptable for automation."
   },
   {
@@ -542,7 +542,7 @@ export const da252Questions: Question[] = [
     subject: "da-252",
     question: "Ridge and furrow greenhouse design uses two or more A-frame greenhouses connected along the:",
     options: ["Side walls of the structure", "Length of the eave (gutter)", "Ridge of the roof structure", "Foundation base of the structure"],
-    correct: 3,
+    correct: 1,
     explanation: "Ridge and furrow type uses two or more A-frame greenhouses connected along the length of the eave. The eave serves as a furrow or gutter to carry rain and melted snow away. The side wall is eliminated between greenhouses."
   },
   {
@@ -566,7 +566,7 @@ export const da252Questions: Question[] = [
     subject: "da-252",
     question: "The fan-and-pad cooling system was first made available for greenhouses in:",
     options: ["1920", "1938", "1954", "1980"],
-    correct: 0,
+    correct: 2,
     explanation: "The fan and pad evaporative cooling system has been available since 1954 and is still the most common summer cooling system in greenhouses. The fog evaporative cooling system was introduced in greenhouses in 1980."
   },
   {
@@ -598,7 +598,7 @@ export const da252Questions: Question[] = [
     subject: "da-252",
     question: "One kilogram of water can store heat energy of:",
     options: ["0.83 kJ per °C rise", "2.10 kJ per °C rise", "4.23 kJ per °C rise", "8.46 kJ per °C rise"],
-    correct: 0,
+    correct: 2,
     explanation: "One kg of water can hold 4.23 kJ of heat for each 1°C rise in temperature. Rocks can store about 0.83 kJ per 1°C rise. To store equivalent amounts of heat, a rock bed must be three times as large as a water tank."
   },
   {
@@ -622,7 +622,7 @@ export const da252Questions: Question[] = [
     subject: "da-252",
     question: "The volume formula for water capacity estimation Q = 28AD/EH, where A is area (ha) and D is depth (cm), H is pump working hours. The denominator EH represents:",
     options: ["Efficiency factor times head pressure", "Time of irrigation in days times pump hours", "Elevation times hydraulic head", "Evaporation times humidity index"],
-    correct: 3,
+    correct: 1,
     explanation: "In the formula Q = 28AD/EH, Q = capacity/head (lit./sec), A = Area (ha), D = Depth of irrigation (cm), E = time of irrigation (days), H = Pump working hours (hrs)."
   },
   {
@@ -630,7 +630,7 @@ export const da252Questions: Question[] = [
     subject: "da-252",
     question: "A plumb bob is used in surveying for all of the following EXCEPT:",
     options: ["Locating points directly below another point", "Centering compass over a station mark", "Testing verticality of ranging poles", "Measuring horizontal distances on slopes"],
-    correct: 2,
+    correct: 3,
     explanation: "A plumb bob is used to locate points directly below or above another point, for accurately centering compass/level/theodolite over a station mark, and for testing the verticality of ranging poles. It is not used to measure horizontal distances."
   },
   {
@@ -638,7 +638,7 @@ export const da252Questions: Question[] = [
     subject: "da-252",
     question: "A synthetic tape used in surveying is made of glass fibre with PVC coating, graduated every:",
     options: ["1 mm, with figures at every 10 mm", "5 mm, with figures at every 50 mm", "10 mm, with metric figures at every metre in red", "20 mm, with links marked at every metre"],
-    correct: 3,
+    correct: 2,
     explanation: "Synthetic tapes are manufactured of glass fibre with PVC coating. They are graduated every 10 mm and figured every 100 mm. Metric figures are shown in red at every metre. They maintain their lengths well and are convenient for measuring short lengths."
   },
   {
@@ -782,7 +782,7 @@ export const da252Questions: Question[] = [
     subject: "da-252",
     question: "The volumetric method of water measurement works by:",
     options: ["Measuring current velocity and channel area", "Counting revolutions of a current meter wheel", "Dividing volume collected in a container by time taken", "Using the head over a weir crest"],
-    correct: 3,
+    correct: 2,
     explanation: "The volumetric method measures small discharge by collecting flow in a container of known volume and noting the time. Discharge = volume / time. For example, a 210 litre barrel filled in 30 seconds gives a discharge of 7 lps."
   },
   {

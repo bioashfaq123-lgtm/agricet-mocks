@@ -166,7 +166,7 @@ export const da201Questions: Question[] = [
     subject: "da-201",
     question: "The groundnut variety Tirupati-3 has an oil content of:",
     options: ["47% oil content", "49% oil content", "52% oil content", "53% oil content"],
-    correct: 0,
+    correct: 3,
     explanation: "Tirupati-3 is a bunch type with 53% oil content, which is the highest among listed groundnut varieties. It is suitable where irrigation facilities are available as a replacement for bunch varieties susceptible to kalahasti malady."
   },
   {

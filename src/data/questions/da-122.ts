@@ -405,7 +405,7 @@ export const da122Questions: Question[] = [
       "Urea should not be applied in excessive water or dry soils",
       "Urea should not be used in alkaline calcareous soils",
     ],
-    correct: 0,
+    correct: 2,
     explanation:
       "Urea should be applied under optimum soil moisture (field capacity) conditions only. On application in wetlands, N is lost through leaching; in dry soils it is lost through volatilization.",
   },
@@ -475,7 +475,7 @@ export const da122Questions: Question[] = [
       "Minimum 44% nitrogen by weight content",
       "Minimum 48% nitrogen by weight content",
     ],
-    correct: 3,
+    correct: 2,
     explanation:
       "As per FCO 1957, urea must have total nitrogen minimum 44% per cent by weight. The biuret content must be maximum 1.50%.",
   },
@@ -489,7 +489,7 @@ export const da122Questions: Question[] = [
       "Organic manures and biofertilizers excluding chemicals",
       "Soil testing and site-specific nutrient management only",
     ],
-    correct: 0,
+    correct: 1,
     explanation:
       "INM refers to maintenance of soil fertility and plant nutrient supply through optimization of benefits from all possible sources of organic, inorganic and biological components in an integrated manner.",
   },
@@ -559,7 +559,7 @@ export const da122Questions: Question[] = [
       "Place ammoniacal N in soil reduction zone",
       "Improve surface drainage of paddy fields",
     ],
-    correct: 3,
+    correct: 2,
     explanation:
       "Deep placement places ammoniacal nitrogenous fertilizers in the reduction zone of soil in paddy fields, where ammoniacal nitrogen remains available to the crop and prevents nutrient loss by run-off.",
   },
@@ -573,7 +573,7 @@ export const da122Questions: Question[] = [
       "Chemical fertilizers contain wide C:N ratio matter",
       "Chemical fertilizers support soil microbial population",
     ],
-    correct: 0,
+    correct: 1,
     explanation:
       "Chemical fertilizers are quick acting, have high analytical value, definite chemical composition and supply one or very few plant nutrients, but do NOT improve physical properties of soils.",
   },
@@ -601,7 +601,7 @@ export const da122Questions: Question[] = [
       "Chlorine forms soluble CaCl2 which leaches out",
       "Ammonium acidifies soil causing calcium fixation",
     ],
-    correct: 1,
+    correct: 2,
     explanation:
       "When ammonium chloride dissociates, chlorine combines with calcium to form calcium chloride which is highly soluble and lost due to leaching, resulting in loss of calcium.",
   },
@@ -615,7 +615,7 @@ export const da122Questions: Question[] = [
       "It releases toxic ammonia gas during storage",
       "It decomposes rapidly at room temperature",
     ],
-    correct: 3,
+    correct: 1,
     explanation:
       "Calcium ammonium nitrate is highly hygroscopic in nature, hence it must be stored in specialized polythene bags to prevent moisture absorption.",
   },
@@ -629,7 +629,7 @@ export const da122Questions: Question[] = [
       "Calcium cyanamide contains 35% nitrogen",
       "Calcium cyanamide contains 16% nitrogen",
     ],
-    correct: 0,
+    correct: 2,
     explanation:
       "Calcium cyanamide contains 21% N (amide form). Urea contains 46% N and is the most popular amide form fertilizer.",
   },
@@ -671,7 +671,7 @@ export const da122Questions: Question[] = [
       "At 50% flowering stage when crop is tender",
       "After natural wilting and partial drying occurs",
     ],
-    correct: 3,
+    correct: 2,
     explanation:
       "The green manure crop should be incorporated at the stage of 50% flowering when it is tender. Delay in incorporation will affect decomposition.",
   },
@@ -685,7 +685,7 @@ export const da122Questions: Question[] = [
       "Nearly 50 per cent of atmospheric nitrogen",
       "Nearly 90 per cent of atmospheric nitrogen",
     ],
-    correct: 0,
+    correct: 1,
     explanation:
       "Atmosphere contains nearly 78% of nitrogen in gaseous form, which is 1.5 times higher than the N content present in urea.",
   },
@@ -909,7 +909,7 @@ export const da122Questions: Question[] = [
       "They form toxic compounds harmful to plants",
       "Combined nitrogen content becomes too high",
     ],
-    correct: 0,
+    correct: 1,
     explanation:
       "Acidic natured fertilizers should not be mixed with alkaline natured fertilizers. Ammonium sulphate is acidic while basic slag is alkaline, and mixing causes chemical reactions.",
   },
@@ -951,7 +951,7 @@ export const da122Questions: Question[] = [
       "The same crop attracts pests reducing soil organic matter",
       "Monocropping prevents rainfall reaching the soil surface",
     ],
-    correct: 3,
+    correct: 1,
     explanation:
       "Monocropping of the same crop without crop rotation mines nutrients from the same depth in the soil leading to nutrient depletion. Deep rooted crops should be rotated with surface-rooted crops.",
   },
@@ -965,7 +965,7 @@ export const da122Questions: Question[] = [
       "40°C to 55°C thermophilic temperature range",
       "35°C to 45°C warm temperature range",
     ],
-    correct: 0,
+    correct: 1,
     explanation:
       "Favourable temperature for earthworms in composting material is 18°C to 35°C. pH range should be 6.5-7.5 and moisture should be 60-70%.",
   },
@@ -1091,7 +1091,7 @@ export const da122Questions: Question[] = [
       "They decompose too slowly for animal digestion",
       "They contain excess calcium harmful to livestock",
     ],
-    correct: 3,
+    correct: 1,
     explanation:
       "Non-edible oil cakes (Castor, Neem, Mahua, Cotton seed, Mustard, Safflower) are suitable only for crop fertilization as they are non-palatable, poisonous or bitter for animals.",
   },

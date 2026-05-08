@@ -30,7 +30,7 @@ export const da151Questions: Question[] = [
     subject: "da-151",
     question: "What is the compression ratio range for a diesel engine?",
     options: ["Varies from 5:1 to 8:1 for diesel engines", "Varies from 10:1 to 12:1 for diesel engines", "Varies from 14:1 to 20:1 for diesel engines", "Varies from 22:1 to 28:1 for diesel engines"],
-    correct: 3,
+    correct: 2,
     explanation: "The compression ratio of a diesel engine varies from 14:1 to 20:1. This high compression ratio is what generates sufficient heat for auto-ignition of the fuel without a spark plug."
   },
   {
@@ -78,7 +78,7 @@ export const da151Questions: Question[] = [
     subject: "da-151",
     question: "What law governs the operation of the tractor hydraulic control system?",
     options: ["Newton's law of gravitation applies here", "Archimedes' principle of fluid buoyancy applies", "Bernoulli's principle of flowing fluid applies", "Pascal's Law of enclosed fluid pressure applies"],
-    correct: 2,
+    correct: 3,
     explanation: "The hydraulic system works on Pascal's Law, which states that pressure applied to an enclosed fluid is transmitted equally in all directions. This allows the system to raise, hold or lower mounted implements."
   },
   {
@@ -102,7 +102,7 @@ export const da151Questions: Question[] = [
     subject: "da-151",
     question: "Which type of mould board is best suited for stubble soil conditions?",
     options: ["General purpose mould board with medium curvature", "Sod and breaker type with long gentle curvature", "Stubble mould board with abrupt top edge curvature", "Slat type mould board with gaps between slats"],
-    correct: 1,
+    correct: 2,
     explanation: "The stubble mould board is adopted for ploughing old ground where good pulverization is desired. Its curvature is abrupt along the top edge, causing the furrow slice to be thrown off quickly for better pulverization."
   },
   {
@@ -110,7 +110,7 @@ export const da151Questions: Question[] = [
     subject: "da-151",
     question: "What is the disc angle range for a good disc plough?",
     options: ["Disc angle varies between 25 and 35 degrees", "Disc angle varies between 42 and 45 degrees", "Disc angle varies between 50 and 60 degrees", "Disc angle varies between 15 and 25 degrees"],
-    correct: 3,
+    correct: 1,
     explanation: "The disc angle of a good plough varies between 42 and 45 degrees. The tilt angle ranges between 15 and 25 degrees. These angles determine the cutting efficiency and penetration of the disc plough."
   },
   {
@@ -118,7 +118,7 @@ export const da151Questions: Question[] = [
     subject: "da-151",
     question: "What is the recommended tire pressure for front wheels in tractor service?",
     options: ["Front wheel pressure is 1 kg per sq cm", "Front wheel pressure is 3 kg per sq cm", "Front wheel pressure is 4 kg per sq cm", "Front wheel pressure is 2 kg per sq cm"],
-    correct: 0,
+    correct: 3,
     explanation: "During the 10-hour service check, front tyre pressure requires 2 kg/sq.cm and rear tyre requires 1 kg/sq.cm. Proper tyre pressure ensures stability and efficient tractor operation."
   },
   {
@@ -126,7 +126,7 @@ export const da151Questions: Question[] = [
     subject: "da-151",
     question: "What is the tilt angle range of a good disc plough?",
     options: ["Tilt angle varies between 30 and 40 degrees", "Tilt angle varies between 42 and 45 degrees", "Tilt angle varies between 5 and 10 degrees", "Tilt angle varies between 15 and 25 degrees"],
-    correct: 2,
+    correct: 3,
     explanation: "The tilt angle of a good disc plough varies between 15 and 25 degrees. Tilt angle is the angle at which the plane of the cutting edge of the disc is inclined to the vertical plane."
   },
   {
@@ -174,7 +174,7 @@ export const da151Questions: Question[] = [
     subject: "da-151",
     question: "What is the primary purpose of puddling paddy fields?",
     options: ["To increase soil nitrogen through biological fixation", "To reduce water leaching and kill weeds by decomposition", "To increase the hardness of the soil surface layer", "To improve germination of directly seeded paddy crops"],
-    correct: 2,
+    correct: 1,
     explanation: "The main purpose of puddling is to reduce leaching of water (decrease percolation), to kill weeds by decomposition, and to facilitate transplantation of paddy seedlings by making the soil softer. It is done in standing water of 5-10 cm depth."
   },
   {
@@ -182,7 +182,7 @@ export const da151Questions: Question[] = [
     subject: "da-151",
     question: "What is the function of the flywheel in an IC engine?",
     options: ["Regulates speed of engine by controlling fuel injection", "Controls opening and closing of intake and exhaust valves", "Stores energy in power stroke and releases during idle strokes", "Converts linear motion of piston into rotational crankshaft motion"],
-    correct: 1,
+    correct: 2,
     explanation: "The flywheel stores energy during the power stroke and returns the same energy during idle strokes, providing uniform rotary motion by virtue of its inertia. It also carries ring gear, serves as clutch plate surface, and carries timing marks."
   },
   {
@@ -190,7 +190,7 @@ export const da151Questions: Question[] = [
     subject: "da-151",
     question: "What is the alpod thresher primarily used for in Indian agriculture?",
     options: ["Threshing cotton bolls in dry zone conditions", "Shelling groundnut pods from harvested crop plants", "Threshing wheat, barley and gram using bullock power", "Decorticating castor seeds from harvested castor pods"],
-    correct: 3,
+    correct: 2,
     explanation: "The Alpod (Olpad) thresher is used for threshing wheat, barley, gram, and paddy. A pair of bullocks pulls it over dried crop spread in a circular form. It consists of about 20 circular grooved discs of 45 cm diameter placed 15 cm apart."
   },
   {
@@ -198,7 +198,7 @@ export const da151Questions: Question[] = [
     subject: "da-151",
     question: "What is the HP range recommended for small tractors used in Indian agriculture?",
     options: ["Small tractors range from 5 to 15 hp rating", "Small tractors range from 15 to 25 hp rating", "Small tractors range from 25 to 40 hp rating", "Small tractors range from 45 to 60 hp rating"],
-    correct: 0,
+    correct: 1,
     explanation: "On the basis of available power, four-wheel tractors are classified as small tractors (15 to 25 hp), medium tractors (25 to 45 hp), and large tractors (more than 45 hp)."
   },
   {
@@ -206,7 +206,7 @@ export const da151Questions: Question[] = [
     subject: "da-151",
     question: "Which cooling method uses a thermostat valve to control water flow in a tractor engine?",
     options: ["Open jacket or hopper cooling method uses thermostat", "Air cooling method using cowling and flywheel fan", "Thermo siphon cooling method relies on natural convection", "Forced circulation cooling method uses thermostat valve"],
-    correct: 2,
+    correct: 3,
     explanation: "The forced circulation system uses a thermostat valve placed at the outer end of the cylinder head to control the flow of cooling water based on temperature. A water pump forces water from radiator to water jacket."
   },
   {
@@ -222,7 +222,7 @@ export const da151Questions: Question[] = [
     subject: "da-151",
     question: "How many liters of diesel are sufficient to produce 20 hp hours of work?",
     options: ["About 10 litres produces 20 hp hours", "About 4.5 litres produces 20 hp hours", "About 7 litres produces 20 hp hours", "About 2.5 litres produces 20 hp hours"],
-    correct: 3,
+    correct: 1,
     explanation: "4.5 litres of diesel is sufficient for nearly 20 hp hours of work, while 4.5 litres of petrol will last about 12 hp hours. This demonstrates the superior fuel efficiency of diesel engines over petrol engines."
   },
   {

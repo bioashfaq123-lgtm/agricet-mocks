@@ -78,7 +78,7 @@ export const da121Questions: Question[] = [
     subject: "da-121",
     question: "A soil with base saturation greater than 80% is classified as:",
     options: ["Low fertile soil with high leaching intensity", "Medium fertile soil with moderate base saturation", "Highly fertile soil with abundant available nutrients", "Saline soil with excessive soluble salt accumulation"],
-    correct: 3,
+    correct: 2,
     explanation: "According to DA-121, >80% base saturation = highly fertile soils, 50-80% = medium fertile, <50% = low fertile. Base saturation >80% indicates high fertility not salinity."
   },
   {
@@ -118,7 +118,7 @@ export const da121Questions: Question[] = [
     subject: "da-121",
     question: "Khaira disease of rice is caused by deficiency of which micronutrient?",
     options: ["Manganese deficiency causing grey speck symptoms in rice leaves", "Iron deficiency causing interveinal chlorosis on younger rice leaves", "Zinc deficiency causing reddish brown pigmentation on young rice seedlings", "Boron deficiency causing heart rot symptoms in meristematic tissue"],
-    correct: 0,
+    correct: 2,
     explanation: "Khaira disease of rice is caused by zinc deficiency. Symptoms appear in 3-4 week old seedlings as reddish brown pigmentation appearing first in the middle of leaves, spreading over the entire lamina."
   },
   {
@@ -166,7 +166,7 @@ export const da121Questions: Question[] = [
     subject: "da-121",
     question: "The criteria of essentiality of plant nutrients as proposed by Arnon and Stout (1939) states that:",
     options: ["An element must increase yield by at least 10% above the unfertilized control treatment", "An element must be required in quantities exceeding 0.01% of plant dry weight for growth", "An element must make it impossible to complete life cycle if deficient, the deficiency must be specific, and the element must be directly involved in plant nutrition", "An element must be present in plant tissue at concentrations higher than 1000 mg kg-1 dry weight"],
-    correct: 0,
+    correct: 2,
     explanation: "Arnon and Stout (1939) proposed three criteria: (1) A deficiency makes it impossible to complete life cycle; (2) the deficiency is specific for that element; (3) the element is directly involved in plant nutrition."
   },
   {
@@ -190,7 +190,7 @@ export const da121Questions: Question[] = [
     subject: "da-121",
     question: "Nitrogen deficiency symptom in grasses shows a characteristic pattern called:",
     options: ["Interveinal chlorosis appearing first on younger leaves progressing to older leaves", "Inverted V-shaped browning starting at leaf tip and progressing along the midrib", "Marginal scorch followed by complete leaf necrosis from the leaf base upward", "Purpling of leaf lamina due to anthocyanin accumulation in nitrogen-starved cells"],
-    correct: 3,
+    correct: 1,
     explanation: "In grasses, nitrogen deficiency causes lower leaves to turn brown beginning at the leaf tip and progressing along the midrib in the form of inverted 'V' shape. General symptom is light green to pale yellow coloration of older leaves."
   },
   {
@@ -318,7 +318,7 @@ export const da121Questions: Question[] = [
     subject: "da-121",
     question: "Calcium deficiency symptom in maize is characterized by:",
     options: ["Interveinal chlorosis of older leaves starting from leaf margins and progressing inward", "Reduced seed size and shrivelled grains due to impaired translocation of sugars", "No unfolding of new leaves whose tips are colorless and covered with sticky gelatinous material", "Purple or reddish discoloration of leaf margins due to phosphorus deficiency interaction"],
-    correct: 3,
+    correct: 2,
     explanation: "In corn (maize), calcium deficiency causes no unfolding of new leaves, whose tips are colorless and are covered with sticky gelatinous material which makes them adhere to one another."
   },
   {
