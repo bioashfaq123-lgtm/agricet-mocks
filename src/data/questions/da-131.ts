@@ -486,7 +486,7 @@ export const da131Questions: Question[] = [
     subject: "da-131",
     question: "The Phylum Arthropoda is classified into how many classes?",
     options: ["10 classes", "5 classes", "7 classes", "4 classes"],
-    correct: 0,
+    correct: 2,
     explanation: "Phylum Arthropoda is classified into 7 classes: Onychophora (claw bearing), Crustacea, Arachnida, Chilopoda, Diplopoda, Trilobita (extinct), and Hexapoda (insects). Examples include peripatus, prawns/crabs, scorpions/spiders, centipedes, millipedes."
   },
   {
@@ -494,7 +494,7 @@ export const da131Questions: Question[] = [
     subject: "da-131",
     question: "The class Arachnida is named after the Greek word Arachine meaning:",
     options: ["Claw-bearing", "Spider", "Lip or legs", "Two legs"],
-    correct: 2,
+    correct: 1,
     explanation: "Class Arachnida is derived from Greek Arachine meaning spider. It includes scorpion, spider, ticks, and mites. Class Chilopoda (chilo = lip, poda = legs) includes centipedes. Diplopoda (diplo = two) includes millipedes."
   },
   {
@@ -622,7 +622,7 @@ export const da131Questions: Question[] = [
     subject: "da-131",
     question: "The Insect Attractant Methyl Eugenol is used to attract which pest and for what purpose?",
     options: ["Female whiteflies as a contact poison", "Male fruit fly and used as poison bait", "Aphids for mass trapping", "Stem borers for egg parasitoid release"],
-    correct: 2,
+    correct: 1,
     explanation: "Methyl Eugenol will attract the male fruit fly and it is used as poison bait. Geraniol and Eugenol (1:1) is used to attract Japanese beetle. Insect attractants cause insects to make oriented movements towards their source."
   },
   {
