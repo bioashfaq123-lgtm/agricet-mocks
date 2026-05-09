@@ -64,6 +64,12 @@ export default function DashboardPage() {
               <div className="bg-white/10 backdrop-blur rounded-xl p-4 text-center">
                 <p className="text-sm text-white/80 mb-2">Unlock Everything</p>
                 <PaymentButton userId={user.uid} userEmail={user.email ?? ""} userName={userData?.name ?? ""} />
+                <p className="text-xs text-white/60 mt-2">
+                  Payment issues? Call{" "}
+                  <a href="tel:+919059336236" className="text-white font-semibold underline underline-offset-2 hover:text-yellow-300 transition-colors">
+                    +91 90593 36236
+                  </a>
+                </p>
               </div>
             )}
           </div>

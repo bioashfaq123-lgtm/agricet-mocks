@@ -90,7 +90,7 @@ export default function PaymentButton({ userId, userEmail, userName }: Props) {
           const verifyData = await verifyRes.json();
 
           if (!verifyData.success) {
-            toast.error("Payment verification failed. Contact support with payment ID: " + response.razorpay_payment_id);
+            toast.error("Payment verification failed. Call helpline: +91 90593 36236 (Payment ID: " + response.razorpay_payment_id + ")");
             setLoading(false);
             return;
           }
@@ -105,7 +105,7 @@ export default function PaymentButton({ userId, userEmail, userName }: Props) {
           await refreshUserData();
           toast.success("🎉 Payment successful! Full access unlocked!");
         } catch {
-          toast.error("Payment recorded but access update failed. Contact support.");
+          toast.error("Payment recorded but access update failed. Call +91 90593 36236 for help.");
         }
         setLoading(false);
       },
