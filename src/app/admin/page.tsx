@@ -138,7 +138,7 @@ export default function AdminPage() {
   const totalUsers  = users.length;
   const paidUsers   = users.filter(u => u.isPaid).length;
   const freeUsers   = totalUsers - paidUsers;
-  const revenue     = paidUsers * 100;
+  const revenue     = paidUsers * 250;
   const avgTests    = totalUsers > 0
     ? (users.reduce((a, u) => a + getTests(u), 0) / totalUsers).toFixed(1)
     : "0";
