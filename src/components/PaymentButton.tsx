@@ -33,33 +33,83 @@ export default function PaymentButton({ userId, userEmail, userName }: Props) {
 
   const handlePayment = async () => {
     setLoading(true);
-    const ok = await loadRazorpay();
-    if (!ok) { toast.error("Payment SDK failed to load. Check internet connection."); setLoading(false); return; }
 
+    // 1. Load Razorpay checkout SDK
+    const ok = await loadRazorpay();
+    if (!ok) {
+      toast.error("Payment SDK failed to load. Check your internet connection.");
+      setLoading(false);
+      return;
+    }
+
+    // 2. Create order on server (required for UPI, Netbanking, and all payment methods)
+    let orderId: string;
+    let amount: number;
+    let currency: string;
+    try {
+      const res = await fetch("/api/create-order", { method: "POST" });
+      if (!res.ok) throw new Error("Order creation failed");
+      const data = await res.json();
+      orderId  = data.orderId;
+      amount   = data.amount;
+      currency = data.currency;
+    } catch {
+      toast.error("Could not initiate payment. Please try again.");
+      setLoading(false);
+      return;
+    }
+
+    // 3. Open Razorpay checkout with the order_id
     const options = {
       key:         process.env.NEXT_PUBLIC_RAZORPAY_KEY_ID,
-      amount:      10000, // ₹100 in paise
-      currency:    "INR",
+      order_id:    orderId,
+      amount,
+      currency,
       name:        "AGRICET MOCKS",
       description: "Lifetime Access – All 17 Subjects",
       image:       "/logo.png",
       prefill:     { name: userName, email: userEmail },
       theme:       { color: "#16a34a" },
-      handler: async (response: { razorpay_payment_id: string }) => {
+
+      handler: async (response: {
+        razorpay_payment_id: string;
+        razorpay_order_id: string;
+        razorpay_signature: string;
+      }) => {
         try {
-          // In production: verify signature on server. Here we update directly after success callback.
+          // 4. Verify payment signature on server before granting access
+          const verifyRes = await fetch("/api/verify-payment", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({
+              razorpay_order_id:   response.razorpay_order_id,
+              razorpay_payment_id: response.razorpay_payment_id,
+              razorpay_signature:  response.razorpay_signature,
+            }),
+          });
+          const verifyData = await verifyRes.json();
+
+          if (!verifyData.success) {
+            toast.error("Payment verification failed. Contact support with payment ID: " + response.razorpay_payment_id);
+            setLoading(false);
+            return;
+          }
+
+          // 5. Signature verified — grant access in Firestore
           await updateDoc(doc(db, "users", userId), {
             isPaid: true,
             paymentId: response.razorpay_payment_id,
-            paidAt: new Date().toISOString(),
+            orderId:   response.razorpay_order_id,
+            paidAt:    new Date().toISOString(),
           });
           await refreshUserData();
           toast.success("🎉 Payment successful! Full access unlocked!");
-        } catch (e) {
+        } catch {
           toast.error("Payment recorded but access update failed. Contact support.");
         }
         setLoading(false);
       },
+
       modal: {
         ondismiss: () => setLoading(false),
       },
