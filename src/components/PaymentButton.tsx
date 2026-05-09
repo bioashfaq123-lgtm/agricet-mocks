@@ -130,7 +130,7 @@ export default function PaymentButton({ userId, userEmail, userName }: Props) {
           </svg>
           Processing...
         </span>
-      ) : "Unlock All – ₹250"}
+      ) : "Unlock All – ₹100"}
     </button>
   );
 }

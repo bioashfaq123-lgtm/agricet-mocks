@@ -28,8 +28,8 @@ const FAQS = [
   { q: "What is AGRICET?", a: "AGRICET (Agriculture Common Entrance Test) is conducted by PJTAU (Prof. Jayashankar Telangana State Agricultural University) for admission into BSc (Hons) Agriculture programs. It is open to students who have completed Diploma in Agriculture." },
   { q: "How many questions are in AGRICET?", a: "AGRICET consists of 100 multiple choice questions from subjects covered in the Diploma in Agriculture curriculum. Each question carries 1 mark with no negative marking." },
   { q: "What subjects are covered in this platform?", a: "This platform covers 18 subjects: Principles of Agronomy (DA-101), Crop Production-I Kharif (DA-102), Plant Breeding & Seed Technology (DA-111), Soil Chemistry & Fertility (DA-121), Soil & Water Conservation (DA-122), General Entomology (DA-131), Crop Pests & Management (DA-132), Farm Power & Machinery (DA-151), Plant Pathology & Microbiology (DA-171), Crop Production-II Rabi & Oilseeds (DA-201), Agricultural Economics (DA-241), Survey, Levelling & Field Measurements (DA-252), Forestry & Medicinal Plants (DA-281), Horticultural Crops (DA-282), Agricultural Extension & Rural Development (DA-291), Computer Applications (DA-262), Communication Skills in English (DA-263), and General Agriculture." },
-  { q: "Is there a free demo available?", a: "Yes! You can take a free demo test with 10 questions from Agronomy without registration. Full access to all 17 subjects (200 MCQs each) and previous year papers requires a one-time payment of ₹250." },
-  { q: "How long is my subscription valid?", a: "Your ₹250 subscription gives you lifetime access to all content — all 17 subjects, 3,400+ MCQs, previous year papers (2023, 2024, 2025), and all future updates." },
+  { q: "Is there a free demo available?", a: "Yes! You can take a free demo test with 10 questions from Agronomy without registration. Full access to all 17 subjects (200 MCQs each) and previous year papers requires a one-time payment of ₹100." },
+  { q: "How long is my subscription valid?", a: "Your ₹100 subscription gives you lifetime access to all content — all 17 subjects, 3,400+ MCQs, previous year papers (2023, 2024, 2025), and all future updates." },
   { q: "Can I practice on mobile?", a: "Yes! AGRICET MOCKS is fully responsive and works seamlessly on all devices — mobile phones, tablets, and desktops." },
 ];
 
@@ -85,7 +85,7 @@ export default function LandingPage() {
               <Play className="w-5 h-5" /> Try Free Demo Test
             </Link>
             <Link href="/signup" className="inline-flex items-center gap-2 bg-white text-primary-700 font-bold text-lg px-8 py-4 rounded-xl border-2 border-white hover:bg-primary-50 transition-all duration-200 hover:scale-105 active:scale-95 shadow-lg">
-              Get Full Access – ₹250 <ArrowRight className="w-5 h-5" />
+              Get Full Access – ₹100 <ArrowRight className="w-5 h-5" />
             </Link>
           </div>
           {/* Free 2025 paper pill */}
@@ -198,7 +198,7 @@ export default function LandingPage() {
             {[
               { step: "1", title: "Sign Up Free",       desc: "Create your account in 30 seconds — just name, email, and password." },
               { step: "2", title: "Try Free Demo",      desc: "Attempt 10 free questions from Agronomy to experience the platform." },
-              { step: "3", title: "Subscribe – ₹250",  desc: "One-time payment via Razorpay for lifetime access to all 17 subjects." },
+              { step: "3", title: "Subscribe – ₹100",  desc: "One-time payment via Razorpay for lifetime access to all 17 subjects." },
               { step: "4", title: "Practice & Crack",   desc: "Take subject-wise tests, timed mocks, and previous year papers. Track progress." },
             ].map((step, i) => (
               <div key={step.step} className="flex gap-6 items-start pb-8 last:pb-0">
@@ -254,7 +254,7 @@ export default function LandingPage() {
                 MOST POPULAR
               </div>
               <div className="text-2xl font-black text-primary-600 mb-1">Full Access</div>
-              <div className="text-4xl font-black text-gray-800 mb-1">₹250</div>
+              <div className="text-4xl font-black text-gray-800 mb-1">₹100</div>
               <div className="text-sm text-gray-400 line-through mb-6">₹999 (Launch Offer)</div>
               <ul className="space-y-3 text-left mb-8">
                 {[
@@ -318,7 +318,7 @@ export default function LandingPage() {
               <Play className="w-5 h-5" /> Try Free Demo
             </Link>
             <Link href="/signup" className="inline-flex items-center gap-2 bg-gold-500 text-white font-bold px-8 py-4 rounded-xl hover:bg-gold-600 transition-all hover:scale-105">
-              Subscribe – ₹250 <ArrowRight className="w-5 h-5" />
+              Subscribe – ₹100 <ArrowRight className="w-5 h-5" />
             </Link>
           </div>
         </div>

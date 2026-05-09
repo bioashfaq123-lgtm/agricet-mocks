@@ -40,7 +40,7 @@ export default function DemoPage() {
             <Play className="w-5 h-5 inline mr-2" /> Start Free Demo
           </button>
           <Link href="/signup" className="text-primary-600 text-sm hover:underline">
-            Sign up for full access (₹250) →
+            Sign up for full access (₹100) →
           </Link>
           <div className="mt-4">
             <Link href="/" className="text-gray-400 text-sm hover:underline">← Back to home</Link>
@@ -72,11 +72,11 @@ export default function DemoPage() {
 
           <div className="bg-amber-50 border border-amber-200 rounded-xl p-4 mb-6">
             <p className="text-amber-700 font-semibold text-sm mb-1">🔓 Want 3,400+ more questions?</p>
-            <p className="text-amber-600 text-xs">Get lifetime access to all 17 subjects for just ₹250!</p>
+            <p className="text-amber-600 text-xs">Get lifetime access to all 17 subjects for just ₹100!</p>
           </div>
 
           <Link href="/signup" className="btn-primary w-full py-3.5 text-base mb-3 flex items-center justify-center gap-2">
-            Get Full Access – ₹250 <ArrowRight className="w-5 h-5" />
+            Get Full Access – ₹100 <ArrowRight className="w-5 h-5" />
           </Link>
           <button onClick={() => { setAnswers({}); setCurrentIdx(0); setFinished(false); setStarted(false); }}
             className="text-gray-500 text-sm hover:underline">Retry Demo</button>
@@ -172,7 +172,7 @@ export default function DemoPage() {
         <div className="mt-6 card p-5 bg-primary-50 border border-primary-200 text-center">
           <Lock className="w-6 h-6 text-primary-600 mx-auto mb-2" />
           <p className="text-primary-800 font-semibold text-sm">16 more subjects locked</p>
-          <p className="text-primary-600 text-xs mt-1 mb-3">3,400+ MCQs + Previous Year Papers for ₹250</p>
+          <p className="text-primary-600 text-xs mt-1 mb-3">3,400+ MCQs + Previous Year Papers for ₹100</p>
           <Link href="/signup" className="btn-primary text-sm py-2 inline-block">Unlock Full Access</Link>
         </div>
       </div>

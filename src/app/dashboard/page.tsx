@@ -117,7 +117,7 @@ export default function DashboardPage() {
                   </Link>
                 ) : (
                   <button className="w-full flex items-center justify-center gap-2 bg-gray-100 text-gray-400 rounded-xl py-2 text-sm cursor-not-allowed">
-                    <Lock className="w-4 h-4" /> Unlock for ₹250
+                    <Lock className="w-4 h-4" /> Unlock for ₹100
                   </button>
                 )}
               </div>
@@ -193,7 +193,7 @@ export default function DashboardPage() {
                       </>
                     ) : (
                       <div className="flex-1 flex items-center justify-center gap-2 bg-gray-100 text-gray-400 rounded-xl py-2 text-xs">
-                        <Lock className="w-3 h-3" /> Unlock with ₹250 plan
+                        <Lock className="w-3 h-3" /> Unlock with ₹100 plan
                       </div>
                     )}
                   </div>
