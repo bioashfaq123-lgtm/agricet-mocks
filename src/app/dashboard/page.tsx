@@ -60,18 +60,6 @@ export default function DashboardPage() {
                 {isPaid ? "Full access activated — keep practicing!" : "Free account — upgrade to unlock all subjects"}
               </p>
             </div>
-            {!isPaid && (
-              <div className="bg-white/10 backdrop-blur rounded-xl p-4 text-center">
-                <p className="text-sm text-white/80 mb-2">Unlock Everything</p>
-                <PaymentButton userId={user.uid} userEmail={user.email ?? ""} userName={userData?.name ?? ""} />
-                <p className="text-xs text-white/60 mt-2">
-                  Payment issues? Call{" "}
-                  <a href="tel:+919059336236" className="text-white font-semibold underline underline-offset-2 hover:text-yellow-300 transition-colors">
-                    +91 90593 36236
-                  </a>
-                </p>
-              </div>
-            )}
           </div>
         </div>
 
@@ -92,6 +80,30 @@ export default function DashboardPage() {
             </div>
           ))}
         </div>
+
+        {/* Subscription Payment Card — shown only to unpaid users */}
+        {!isPaid && (
+          <div className="mb-6 rounded-2xl overflow-hidden bg-gradient-to-r from-primary-700 to-primary-500 shadow-lg">
+            <div className="flex flex-col sm:flex-row items-center gap-5 p-6">
+              <div className="text-5xl shrink-0">🔓</div>
+              <div className="flex-1 text-center sm:text-left text-white">
+                <h3 className="font-black text-lg leading-tight mb-1">
+                  Unlock All 17 Subjects + Previous Year Papers
+                </h3>
+                <p className="text-primary-100 text-sm">
+                  3,400+ MCQs · PYQ 2023, 2024 &amp; 2025 · Lifetime access · Just ₹100 one-time
+                </p>
+                <p className="text-primary-200 text-xs mt-1">
+                  Payment issues? Call{" "}
+                  <a href="tel:+919059336236" className="text-white font-bold underline">+91 90593 36236</a>
+                </p>
+              </div>
+              <div className="shrink-0">
+                <PaymentButton userId={user.uid} userEmail={user.email ?? ""} userName={userData?.name ?? ""} />
+              </div>
+            </div>
+          </div>
+        )}
 
         {/* Objective Book Promo */}
         <div className="mb-8 rounded-2xl overflow-hidden border border-amber-200 bg-gradient-to-r from-amber-50 to-green-50">
