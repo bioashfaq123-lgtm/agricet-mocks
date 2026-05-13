@@ -2,6 +2,8 @@
 import { useState } from "react";
 import { BookOpen, Lock, Download, CheckCircle, ChevronDown, ChevronUp, Star } from "lucide-react";
 import { useAuth } from "@/contexts/AuthContext";
+import { doc, updateDoc } from "firebase/firestore";
+import { db } from "@/lib/firebase";
 import toast from "react-hot-toast";
 
 // ─── DA-121 Answer Key (1-indexed) ────────────────────────────────────────────
@@ -250,25 +252,32 @@ export default function BookPage() {
       notes: { user_id: user.uid, type: "book" },
       handler: async (response: { razorpay_payment_id: string; razorpay_order_id: string; razorpay_signature: string }) => {
         try {
+          // 1. Verify signature on server
           const vr = await fetch("/api/verify-book-payment", {
             method: "POST",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify({
-              razorpay_order_id: response.razorpay_order_id,
+              razorpay_order_id:   response.razorpay_order_id,
               razorpay_payment_id: response.razorpay_payment_id,
-              razorpay_signature: response.razorpay_signature,
-              userId: user.uid,
+              razorpay_signature:  response.razorpay_signature,
             }),
           });
           const vd = await vr.json();
           if (!vd.success) {
-            toast.error(`Verification failed. Call +91 90593 36236 (ID: ${response.razorpay_payment_id})`);
+            toast.error(`Verification failed. Call +91 90593 36236 (Payment ID: ${response.razorpay_payment_id})`);
             setPaying(false); return;
           }
+          // 2. Signature verified — grant book access in Firestore (client-side)
+          await updateDoc(doc(db, "users", user.uid), {
+            isBookPaid:    true,
+            bookPaymentId: response.razorpay_payment_id,
+            bookOrderId:   response.razorpay_order_id,
+            bookPaidAt:    new Date().toISOString(),
+          });
           await refreshUserData();
           toast.success("🎉 Book unlocked! Download the full PDF below.");
         } catch {
-          toast.error("Payment ok but access failed. Call +91 90593 36236");
+          toast.error("Payment recorded but access update failed. Call +91 90593 36236");
         }
         setPaying(false);
       },

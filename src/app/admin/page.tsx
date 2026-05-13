@@ -22,9 +22,11 @@ interface AdminUser {
   name: string;
   email: string;
   isPaid: boolean;
+  isBookPaid?: boolean;
   paymentId?: string;
   orderId?: string;
   paidAt?: string;
+  bookPaidAt?: string;
   createdAt: Timestamp | null;
   progress: Record<string, { attempted?: number; correct?: number; testCount?: number }>;
 }
@@ -97,6 +99,20 @@ export default function AdminPage() {
         ...(newPaid && !u.paidAt ? { paidAt: new Date().toISOString(), paymentId: "manual-grant" } : {}),
       });
       setUsers(prev => prev.map(x => x.uid === u.uid ? { ...x, isPaid: newPaid } : x));
+    } finally {
+      setToggling(null);
+    }
+  };
+
+  const toggleBookPaid = async (u: AdminUser) => {
+    setToggling(u.uid + "_book");
+    try {
+      const newVal = !u.isBookPaid;
+      await updateDoc(doc(db, "users", u.uid), {
+        isBookPaid: newVal,
+        ...(newVal && !u.bookPaidAt ? { bookPaidAt: new Date().toISOString(), bookPaymentId: "manual-grant" } : {}),
+      });
+      setUsers(prev => prev.map(x => x.uid === u.uid ? { ...x, isBookPaid: newVal } : x));
     } finally {
       setToggling(null);
     }
@@ -467,7 +483,8 @@ export default function AdminPage() {
                             {col.label} <SortIcon k={col.k} />
                           </th>
                         ))}
-                        <th className="text-left px-5 py-3.5 text-gray-500 font-semibold">Action</th>
+                        <th className="text-left px-5 py-3.5 text-gray-500 font-semibold">Mock Access</th>
+                        <th className="text-left px-5 py-3.5 text-gray-500 font-semibold">Book Access</th>
                       </tr>
                     </thead>
                     <tbody className="divide-y divide-gray-100">
@@ -512,12 +529,21 @@ export default function AdminPage() {
                               ) : <span className="text-gray-400">—</span>}
                             </td>
                             <td className="px-5 py-4">
-                              <button onClick={() => togglePaid(u)} disabled={toggling === u.uid}
+                              <button onClick={() => togglePaid(u)} disabled={!!toggling}
                                 className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-semibold transition-colors disabled:opacity-50 ${
                                   u.isPaid ? "bg-red-50 text-red-600 hover:bg-red-100" : "bg-green-50 text-green-700 hover:bg-green-100"
                                 }`}>
                                 {toggling === u.uid ? <RefreshCw className="w-3 h-3 animate-spin" /> :
-                                  u.isPaid ? <><ToggleRight className="w-3 h-3" />Revoke</> : <><ToggleLeft className="w-3 h-3" />Grant</>}
+                                  u.isPaid ? <><ToggleRight className="w-3 h-3" /> Revoke</> : <><ToggleLeft className="w-3 h-3" /> Grant</>}
+                              </button>
+                            </td>
+                            <td className="px-5 py-4">
+                              <button onClick={() => toggleBookPaid(u)} disabled={!!toggling}
+                                className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-semibold transition-colors disabled:opacity-50 ${
+                                  u.isBookPaid ? "bg-red-50 text-red-600 hover:bg-red-100" : "bg-amber-50 text-amber-700 hover:bg-amber-100"
+                                }`}>
+                                {toggling === u.uid + "_book" ? <RefreshCw className="w-3 h-3 animate-spin" /> :
+                                  u.isBookPaid ? <><ToggleRight className="w-3 h-3" /> Revoke Book</> : <><ToggleLeft className="w-3 h-3" /> Grant Book</>}
                               </button>
                             </td>
                           </tr>
