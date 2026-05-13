@@ -225,6 +225,16 @@ export default function DashboardPage() {
           </div>
         </section>
       </div>
+
+      {/* Footer credit */}
+      <div className="border-t border-gray-100 bg-white mt-8 py-4 text-center">
+        <p className="text-sm text-gray-500 font-medium">
+          Prepared by{" "}
+          <span className="text-primary-700 font-bold">NALANDA STUDY CIRCLE</span>
+          ,{" "}
+          <span className="text-gray-700 font-semibold">JAGTIAL</span>
+        </p>
+      </div>
     </div>
   );
 }
