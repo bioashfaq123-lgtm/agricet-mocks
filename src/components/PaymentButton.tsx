@@ -68,8 +68,29 @@ export default function PaymentButton({ userId, userEmail, userName }: Props) {
       name:        "AGRICET MOCKS",
       description: "Lifetime Access – All 17 Subjects",
       image:       "/logo.png",
-      prefill:     { name: userName, email: userEmail },
+      prefill:     { name: userName, email: userEmail, contact: "" },
       theme:       { color: "#16a34a" },
+
+      // Allow user to retry failed payment without closing modal
+      retry: { enabled: true, max_count: 4 },
+
+      // Better UPI experience on mobile
+      config: {
+        display: {
+          blocks: {
+            utib: { name: "Pay via UPI", instruments: [{ method: "upi" }] },
+            other: { name: "Other Payment Methods", instruments: [{ method: "card" }, { method: "netbanking" }] },
+          },
+          sequence: ["block.utib", "block.other"],
+          preferences: { show_default_blocks: false },
+        },
+      },
+
+      // Helpful notes stored with the payment in Razorpay dashboard
+      notes: {
+        user_id: userId,
+        user_email: userEmail,
+      },
 
       handler: async (response: {
         razorpay_payment_id: string;
@@ -112,6 +133,9 @@ export default function PaymentButton({ userId, userEmail, userName }: Props) {
 
       modal: {
         ondismiss: () => setLoading(false),
+        confirm_close: true,        // ask user before closing
+        escape: false,              // prevent accidental Esc close
+        animation: true,
       },
     };
 
