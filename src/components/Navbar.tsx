@@ -29,7 +29,6 @@ export default function Navbar() {
         <div className="hidden md:flex items-center gap-6">
           <Link href="/#subjects"      className="text-gray-600 hover:text-primary-600 font-medium text-sm transition-colors">Subjects</Link>
           <Link href="/previous-years" className="text-gray-600 hover:text-primary-600 font-medium text-sm transition-colors">Previous Papers</Link>
-          <Link href="/book"           className="text-gray-600 hover:text-primary-600 font-medium text-sm transition-colors">Objective Book</Link>
           <Link href="/#pricing"       className="text-gray-600 hover:text-primary-600 font-medium text-sm transition-colors">Pricing</Link>
           <Link href="/demo"           className="text-gray-600 hover:text-primary-600 font-medium text-sm transition-colors">Free Demo</Link>
         </div>
@@ -72,7 +71,6 @@ export default function Navbar() {
         <div className="md:hidden border-t border-gray-100 bg-white px-4 py-4 space-y-3">
           <Link href="/#subjects"      className="block text-gray-700 font-medium py-2" onClick={() => setOpen(false)}>Subjects</Link>
           <Link href="/previous-years" className="block text-gray-700 font-medium py-2" onClick={() => setOpen(false)}>Previous Papers</Link>
-          <Link href="/book"           className="block text-gray-700 font-medium py-2" onClick={() => setOpen(false)}>Objective Book</Link>
           <Link href="/demo"           className="block text-gray-700 font-medium py-2" onClick={() => setOpen(false)}>Free Demo</Link>
           {user ? (
             <>

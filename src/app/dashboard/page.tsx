@@ -93,6 +93,28 @@ export default function DashboardPage() {
           ))}
         </div>
 
+        {/* Objective Book Promo */}
+        <div className="mb-8 rounded-2xl overflow-hidden border border-amber-200 bg-gradient-to-r from-amber-50 to-green-50">
+          <div className="flex flex-col sm:flex-row items-center gap-4 p-5">
+            <div className="text-4xl shrink-0">📗</div>
+            <div className="flex-1 text-center sm:text-left">
+              <div className="inline-flex items-center gap-1.5 bg-amber-100 text-amber-800 text-xs font-bold px-2.5 py-1 rounded-full mb-1">
+                ✨ NEW — Free Sample Inside
+              </div>
+              <h3 className="font-black text-gray-900 text-base leading-tight">
+                AGRICET Best Objective Book — DA 121 Free Practice (150 Qs)
+              </h3>
+              <p className="text-gray-500 text-xs mt-1">
+                Practice Soil Science &amp; Fertility questions free · Unlock all 17 subjects + PYQ Papers for just ₹100
+              </p>
+            </div>
+            <Link href="/book"
+              className="shrink-0 inline-flex items-center gap-2 bg-green-600 hover:bg-green-700 text-white font-bold px-5 py-2.5 rounded-xl text-sm transition-all hover:scale-105 shadow">
+              <BookOpen className="w-4 h-4" /> Explore Book
+            </Link>
+          </div>
+        </div>
+
         {/* Previous Year Papers */}
         <section className="mb-8">
           <div className="flex items-center justify-between mb-4">
