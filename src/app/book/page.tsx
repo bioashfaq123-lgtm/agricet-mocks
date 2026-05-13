@@ -290,16 +290,30 @@ export default function BookPage() {
     if (!user) return;
     setDownloading(true);
     try {
-      const res = await fetch(`/api/download-book?userId=${user.uid}`);
-      if (!res.ok) throw new Error();
+      // Get download token from server
+      const tokenRes = await fetch("/api/book-token", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ userId: user.uid }),
+      });
+      if (!tokenRes.ok) throw new Error("Token fetch failed");
+      const { token } = await tokenRes.json();
+
+      // Download the PDF using the token
+      const res = await fetch(`/api/download-book?userId=${encodeURIComponent(user.uid)}&token=${token}`);
+      if (!res.ok) {
+        const err = await res.json().catch(() => ({}));
+        throw new Error(err.error ?? "Download failed");
+      }
       const blob = await res.blob();
-      const url = URL.createObjectURL(blob);
-      const a = document.createElement("a");
+      const url  = URL.createObjectURL(blob);
+      const a    = document.createElement("a");
       a.href = url; a.download = "AGRICET_Objective_Book.pdf"; a.click();
       URL.revokeObjectURL(url);
       toast.success("Download started!");
-    } catch {
-      toast.error("Download failed. Call +91 90593 36236");
+    } catch (e: unknown) {
+      const msg = e instanceof Error ? e.message : "Download failed";
+      toast.error(`${msg}. Call +91 90593 36236`);
     }
     setDownloading(false);
   };

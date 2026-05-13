@@ -1,42 +1,63 @@
 import { NextRequest, NextResponse } from "next/server";
-import { doc, getDoc } from "firebase/firestore";
-import { db } from "@/lib/firebase";
+import crypto from "crypto";
 import fs from "fs";
 import path from "path";
 
+// Client calls /api/download-book?token=<hmac>
+// Token = HMAC-SHA256(userId + "|book", RAZORPAY_KEY_SECRET)
+// This avoids server-side Firestore reads (which fail due to security rules)
+
 export async function GET(req: NextRequest) {
   try {
+    const token  = req.nextUrl.searchParams.get("token");
     const userId = req.nextUrl.searchParams.get("userId");
-    if (!userId) {
-      return NextResponse.json({ error: "Not authenticated" }, { status: 401 });
+
+    if (!token || !userId) {
+      return NextResponse.json({ error: "Missing parameters" }, { status: 400 });
     }
 
-    // Verify the user has paid for the book
-    const userRef  = doc(db, "users", userId);
-    const userSnap = await getDoc(userRef);
-    if (!userSnap.exists() || !userSnap.data().isBookPaid) {
-      return NextResponse.json({ error: "Book not purchased" }, { status: 403 });
+    // Verify the token — only someone who received it from verify-book-payment can have it
+    const secret   = process.env.RAZORPAY_KEY_SECRET ?? "";
+    const expected = crypto
+      .createHmac("sha256", secret)
+      .update(`${userId}|book`)
+      .digest("hex");
+
+    if (token !== expected) {
+      return NextResponse.json({ error: "Invalid token" }, { status: 403 });
     }
 
-    // Stream the PDF from the private folder
-    const pdfPath = path.join(process.cwd(), "private", "agricet-book.pdf");
-    if (!fs.existsSync(pdfPath)) {
-      return NextResponse.json({ error: "File not found" }, { status: 404 });
+    // Locate the PDF — try multiple paths for local dev vs Vercel
+    const candidates = [
+      path.join(process.cwd(), "private", "agricet-book.pdf"),
+      path.join(process.cwd(), ".next", "server", "private", "agricet-book.pdf"),
+      "/var/task/private/agricet-book.pdf",
+    ];
+
+    let fileBuffer: Buffer | null = null;
+    for (const p of candidates) {
+      if (fs.existsSync(p)) {
+        fileBuffer = fs.readFileSync(p);
+        break;
+      }
     }
 
-    const fileBuffer = fs.readFileSync(pdfPath);
+    if (!fileBuffer) {
+      console.error("PDF not found. Tried:", candidates);
+      return NextResponse.json({ error: "File not found on server" }, { status: 404 });
+    }
 
-    return new NextResponse(fileBuffer, {
+    return new NextResponse(fileBuffer.buffer as ArrayBuffer, {
       status: 200,
       headers: {
-        "Content-Type": "application/pdf",
+        "Content-Type":        "application/pdf",
         "Content-Disposition": 'attachment; filename="AGRICET_Objective_Book.pdf"',
-        "Content-Length": fileBuffer.byteLength.toString(),
-        "Cache-Control": "private, no-cache",
+        "Content-Length":      fileBuffer.byteLength.toString(),
+        "Cache-Control":       "private, no-cache",
       },
     });
   } catch (err) {
-    console.error("Book download failed:", err);
+    console.error("Book download error:", err);
     return NextResponse.json({ error: "Download failed" }, { status: 500 });
   }
 }
