@@ -17,6 +17,9 @@ interface UserData {
   email: string;
   name: string;
   isPaid: boolean;
+  isBookPaid?: boolean;
+  bookPaymentId?: string;
+  bookPaidAt?: string;
   sessionToken?: string;
   createdAt?: unknown;
   progress?: Record<string, { attempted: number; correct: number; lastScore: number; bestScore: number; testCount: number; lastAttempted?: Date }>;
