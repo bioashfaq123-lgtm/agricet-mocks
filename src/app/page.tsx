@@ -356,8 +356,14 @@ export default function LandingPage() {
             <p className="text-sm leading-relaxed">AGRICET is the entrance test conducted by PJTAU for admission to BSc (Hons) Agriculture. Prepare with the best mock tests!</p>
           </div>
         </div>
-        <div className="mt-8 pt-8 border-t border-gray-800 text-center text-sm">
-          © {new Date().getFullYear()} AGRICET MOCKS. All rights reserved. | Designed for AGRICET Aspirants.
+        <div className="mt-8 pt-8 border-t border-gray-800 text-center text-sm space-y-1">
+          <div className="text-white font-semibold">
+            Developed by{" "}
+            <span className="text-primary-400 font-bold">NALANDA STUDY CIRCLE</span>
+            ,{" "}
+            <span className="text-gray-300">JAGTIAL</span>
+          </div>
+          <div>© {new Date().getFullYear()} AGRICET MOCKS. All rights reserved. | Designed for AGRICET Aspirants.</div>
         </div>
       </footer>
     </div>
