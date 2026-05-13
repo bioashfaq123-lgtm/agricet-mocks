@@ -48,8 +48,18 @@ export default function AdminPage() {
   const [tab, setTab]           = useState<Tab>("overview");
 
   useEffect(() => {
-    if (!loading && (!user || user.email !== ADMIN_EMAIL)) router.replace("/dashboard");
+    // Wait until auth has fully loaded before deciding to redirect
+    if (loading) return;
+    if (!user || user.email !== ADMIN_EMAIL) router.replace("/dashboard");
   }, [user, loading, router]);
+
+  // Show spinner while auth is still loading — never redirect prematurely
+  if (loading) return (
+    <div className="min-h-screen bg-gray-50 flex flex-col items-center justify-center gap-4">
+      <div className="animate-spin w-10 h-10 border-4 border-primary-600 border-t-transparent rounded-full" />
+      <p className="text-gray-500 text-sm">Checking credentials…</p>
+    </div>
+  );
 
   const fetchUsers = async () => {
     setFetching(true);
@@ -242,11 +252,7 @@ export default function AdminPage() {
     a.click(); URL.revokeObjectURL(url);
   };
 
-  if (loading || !user) return (
-    <div className="min-h-screen bg-gray-50 flex items-center justify-center">
-      <div className="animate-spin w-10 h-10 border-4 border-primary-600 border-t-transparent rounded-full" />
-    </div>
-  );
+  if (!user) return null;
   if (user.email !== ADMIN_EMAIL) return null;
 
   return (

@@ -1,12 +1,15 @@
 "use client";
 import Link from "next/link";
 import { useState } from "react";
-import { Menu, X, Leaf, LogOut, User, BarChart2 } from "lucide-react";
+import { Menu, X, Leaf, LogOut, BarChart2, ShieldCheck } from "lucide-react";
 import { useAuth } from "@/contexts/AuthContext";
+
+const ADMIN_EMAIL = process.env.NEXT_PUBLIC_ADMIN_EMAIL || "bioashfaq123@gmail.com";
 
 export default function Navbar() {
   const [open, setOpen] = useState(false);
   const { user, userData, logout } = useAuth();
+  const isAdmin = user?.email === ADMIN_EMAIL;
 
   return (
     <nav className="sticky top-0 z-50 bg-white/95 backdrop-blur border-b border-gray-100 shadow-sm">
@@ -34,6 +37,11 @@ export default function Navbar() {
         <div className="hidden md:flex items-center gap-3">
           {user ? (
             <>
+              {isAdmin && (
+                <Link href="/admin" className="flex items-center gap-1.5 text-sm bg-amber-50 text-amber-700 font-semibold px-3 py-1.5 rounded-lg hover:bg-amber-100 transition-colors border border-amber-200">
+                  <ShieldCheck className="w-4 h-4" /> Admin
+                </Link>
+              )}
               <Link href="/dashboard" className="flex items-center gap-2 text-sm text-gray-700 font-medium hover:text-primary-600">
                 <BarChart2 className="w-4 h-4" /> Dashboard
               </Link>
@@ -66,6 +74,11 @@ export default function Navbar() {
           <Link href="/demo"           className="block text-gray-700 font-medium py-2" onClick={() => setOpen(false)}>Free Demo</Link>
           {user ? (
             <>
+              {isAdmin && (
+                <Link href="/admin" className="flex items-center gap-2 text-amber-700 font-semibold py-2" onClick={() => setOpen(false)}>
+                  <ShieldCheck className="w-4 h-4" /> Admin Dashboard
+                </Link>
+              )}
               <Link href="/dashboard" className="block text-gray-700 font-medium py-2" onClick={() => setOpen(false)}>Dashboard</Link>
               <button onClick={() => { logout(); setOpen(false); }} className="block text-red-500 font-medium py-2">Logout</button>
             </>
