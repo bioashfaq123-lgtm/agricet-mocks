@@ -1,12 +1,12 @@
 "use client";
-import { useEffect, useState, useMemo } from "react";
+import React, { useEffect, useState, useMemo } from "react";
 import { useRouter } from "next/navigation";
 import { collection, getDocs, doc, updateDoc, Timestamp } from "firebase/firestore";
 import { db } from "@/lib/firebase";
 import { useAuth } from "@/contexts/AuthContext";
 import {
   Users, IndianRupee, CheckCircle, XCircle, Search,
-  RefreshCw, TrendingUp, BookOpen, ShieldCheck, Download,
+  RefreshCw, TrendingUp, ShieldCheck, Download,
   ToggleLeft, ToggleRight, ChevronUp, ChevronDown,
   UserPlus, CreditCard, Activity, BarChart2, Clock,
 } from "lucide-react";
