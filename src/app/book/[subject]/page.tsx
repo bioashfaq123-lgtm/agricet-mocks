@@ -4,7 +4,7 @@ import { useRouter } from "next/navigation";
 import Link from "next/link";
 import {
   CheckCircle, ChevronDown, ChevronUp,
-  ArrowLeft, Lock, BookOpen, Download,
+  ArrowLeft, Lock, BookOpen, Download, AlertCircle,
 } from "lucide-react";
 import { useAuth } from "@/contexts/AuthContext";
 import { doc, updateDoc } from "firebase/firestore";
@@ -57,11 +57,12 @@ export default function SubjectPracticePage({
 
   const subjectData = BOOK[subject];
 
-  const [selected, setSelected]     = useState<Record<number, number>>({});
-  const [showAnswers, setShowAnswers] = useState(false);
-  const [openGroups, setOpenGroups]  = useState<Record<number, boolean>>({ 0: true });
-  const [paying, setPaying]          = useState(false);
+  const [selected, setSelected]       = useState<Record<number, number>>({});
+  const [showAnswers, setShowAnswers]  = useState(false);
+  const [openGroups, setOpenGroups]   = useState<Record<number, boolean>>({ 0: true });
+  const [paying, setPaying]           = useState(false);
   const [downloading, setDownloading] = useState(false);
+  const [showRetryTips, setShowRetryTips] = useState(false);
 
   // Redirect if invalid code
   useEffect(() => {
@@ -244,6 +245,31 @@ export default function SubjectPracticePage({
                       +91 90593 36236
                     </a>
                   </p>
+
+                  {/* Retry Tips */}
+                  <button
+                    onClick={() => setShowRetryTips(t => !t)}
+                    className="inline-flex items-center gap-1.5 text-green-300 hover:text-white text-xs font-medium transition-colors mt-1">
+                    <AlertCircle className="w-3.5 h-3.5" />
+                    Payment failed last time? See tips
+                  </button>
+                  {showRetryTips && (
+                    <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 text-xs text-left mt-1">
+                      {[
+                        { icon: "🔄", tip: "Click the button again — each click is a fresh attempt" },
+                        { icon: "📱", tip: "Try GPay, PhonePe, or Paytm instead" },
+                        { icon: "💰", tip: "Check your bank balance first" },
+                        { icon: "⏱️", tip: "Approve the UPI request within 3 minutes" },
+                        { icon: "📶", tip: "Use a stable Wi-Fi or mobile data connection" },
+                        { icon: "📞", tip: "Still failing? Call +91 90593 36236 — we'll help manually" },
+                      ].map(({ icon, tip }) => (
+                        <div key={tip} className="flex items-start gap-2 bg-white/10 rounded-lg px-3 py-2">
+                          <span>{icon}</span>
+                          <span className="text-green-100">{tip}</span>
+                        </div>
+                      ))}
+                    </div>
+                  )}
                 </div>
               ) : (
                 <div className="space-y-3">

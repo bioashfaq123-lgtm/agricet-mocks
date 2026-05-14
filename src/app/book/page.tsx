@@ -3,7 +3,7 @@ import { useState } from "react";
 import Link from "next/link";
 import {
   BookOpen, Lock, Download, CheckCircle,
-  Star, ChevronRight,
+  Star, ChevronRight, RefreshCw, AlertCircle,
 } from "lucide-react";
 import { useAuth } from "@/contexts/AuthContext";
 import { doc, updateDoc } from "firebase/firestore";
@@ -49,8 +49,9 @@ export default function BookPage() {
   const { user, userData, refreshUserData } = useAuth();
   const isBookPaid = userData?.isBookPaid === true;
 
-  const [paying, setPaying]       = useState(false);
+  const [paying, setPaying]         = useState(false);
   const [downloading, setDownloading] = useState(false);
+  const [showRetryTips, setShowRetryTips] = useState(false);
 
   const totalQs = SUBJECTS.reduce((a, s) => a + s.qs, 0);
 
@@ -226,7 +227,7 @@ export default function BookPage() {
                       disabled={paying}
                       className="mt-3 inline-flex items-center gap-2 bg-amber-400 hover:bg-amber-500 text-amber-900 font-bold px-6 py-2.5 rounded-xl transition-all hover:scale-105 disabled:opacity-60">
                       <BookOpen className="w-4 h-4" />
-                      {paying ? "Processing..." : "Unlock Now"}
+                      {paying ? "Processing..." : "Unlock Now – ₹100"}
                     </button>
                   ) : (
                     <a href="/login"
@@ -244,6 +245,35 @@ export default function BookPage() {
                   )}
                 </div>
               </div>
+
+              {/* ── Retry Tips ── */}
+              {user && (
+                <div className="border-t border-white/10 px-7 py-4">
+                  <button
+                    onClick={() => setShowRetryTips(t => !t)}
+                    className="flex items-center gap-2 text-green-300 hover:text-white text-xs font-medium transition-colors">
+                    <AlertCircle className="w-3.5 h-3.5" />
+                    Payment failed last time? Click here for tips
+                  </button>
+                  {showRetryTips && (
+                    <div className="mt-3 grid grid-cols-1 sm:grid-cols-2 gap-2 text-xs">
+                      {[
+                        { icon: "🔄", tip: 'Click "Unlock Now" again — each click creates a fresh payment' },
+                        { icon: "📱", tip: "Try a different UPI app — GPay, PhonePe, or Paytm" },
+                        { icon: "💰", tip: "Check your bank balance before paying" },
+                        { icon: "⏱️", tip: "Approve the UPI request within 3 minutes or it expires" },
+                        { icon: "📶", tip: "Use a stable internet connection while paying" },
+                        { icon: "📞", tip: "Still failing? Call +91 90593 36236 — we'll grant access manually" },
+                      ].map(({ icon, tip }) => (
+                        <div key={tip} className="flex items-start gap-2 bg-white/10 rounded-lg px-3 py-2">
+                          <span>{icon}</span>
+                          <span className="text-green-100">{tip}</span>
+                        </div>
+                      ))}
+                    </div>
+                  )}
+                </div>
+              )}
             </div>
           </div>
         )}
