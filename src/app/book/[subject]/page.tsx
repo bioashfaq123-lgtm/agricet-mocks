@@ -1,5 +1,5 @@
 "use client";
-import { use, useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import Link from "next/link";
 import {
@@ -45,9 +45,9 @@ const loadRazorpay = () =>
 export default function SubjectPracticePage({
   params,
 }: {
-  params: Promise<{ subject: string }>;
+  params: { subject: string };
 }) {
-  const { subject } = use(params);
+  const { subject } = params;
   const router = useRouter();
   const { user, userData, refreshUserData } = useAuth();
 
