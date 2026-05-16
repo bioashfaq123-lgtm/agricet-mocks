@@ -12,15 +12,17 @@ export async function POST(req: NextRequest) {
     const secret    = process.env.RAZORPAY_WEBHOOK_SECRET ?? "";
 
     // ── 1. Verify Razorpay signature ──────────────────────────────────────────
-    if (secret) {
-      const expected = crypto
-        .createHmac("sha256", secret)
-        .update(body)
-        .digest("hex");
-      if (expected !== signature) {
-        console.error("Webhook: invalid signature");
-        return NextResponse.json({ error: "Invalid signature" }, { status: 400 });
-      }
+    if (!secret) {
+      console.error("Webhook: RAZORPAY_WEBHOOK_SECRET is not set — rejecting all requests for security");
+      return NextResponse.json({ error: "Webhook not configured" }, { status: 500 });
+    }
+    const expected = crypto
+      .createHmac("sha256", secret)
+      .update(body)
+      .digest("hex");
+    if (expected !== signature) {
+      console.error("Webhook: invalid signature — possible spoofing attempt");
+      return NextResponse.json({ error: "Invalid signature" }, { status: 400 });
     }
 
     const event = JSON.parse(body);

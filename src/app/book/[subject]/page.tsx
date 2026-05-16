@@ -98,7 +98,11 @@ export default function SubjectPracticePage({
 
     let orderId: string, amount: number, currency: string;
     try {
-      const res = await fetch("/api/create-book-order", { method: "POST" });
+      const res = await fetch("/api/create-book-order", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ userId: user.uid }),
+      });
       if (!res.ok) throw new Error();
       const data = await res.json();
       orderId = data.orderId; amount = data.amount; currency = data.currency;

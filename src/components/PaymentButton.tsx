@@ -47,7 +47,11 @@ export default function PaymentButton({ userId, userEmail, userName }: Props) {
     let amount: number;
     let currency: string;
     try {
-      const res = await fetch("/api/create-order", { method: "POST" });
+      const res = await fetch("/api/create-order", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ userId }),
+      });
       if (!res.ok) throw new Error("Order creation failed");
       const data = await res.json();
       orderId  = data.orderId;
@@ -90,6 +94,7 @@ export default function PaymentButton({ userId, userEmail, userName }: Props) {
       notes: {
         user_id: userId,
         user_email: userEmail,
+        type: "subscription",
       },
 
       handler: async (response: {
