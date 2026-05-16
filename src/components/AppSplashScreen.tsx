@@ -105,13 +105,6 @@ export default function AppSplashScreen({ children }: { children: React.ReactNod
               style={{ height: "3px", width: "clamp(120px, 40vw, 280px)", background: "#FFC828" }}
             />
 
-            {/* Tagline */}
-            <p
-              className="mt-5 text-white/70 font-medium tracking-wide"
-              style={{ fontSize: "clamp(0.75rem, 3vw, 1.1rem)" }}
-            >
-              Prepared by NALANDA STUDY CIRCLE, JAGTIAL
-            </p>
           </div>
         </div>
       )}
