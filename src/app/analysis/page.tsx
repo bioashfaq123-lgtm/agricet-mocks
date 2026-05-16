@@ -3,51 +3,151 @@ import Link from "next/link";
 import { TrendingUp, TrendingDown, Minus, AlertCircle, BookOpen, BarChart2, ChevronRight } from "lucide-react";
 import Navbar from "@/components/Navbar";
 
-// ── Exact data extracted from all 3 PYQ papers ───────────────────────────────
-const SUBJECT_DATA = [
-  { key: "agronomy",            label: "Agronomy",                       code: "DA-101/102/201", y2023: 9,  y2024: 18, y2025: 14, icon: "🌾" },
-  { key: "soil-science",        label: "Soil Science & Fertility",        code: "DA-121/122",     y2023: 16, y2024: 13, y2025: 10, icon: "🌱" },
-  { key: "entomology",          label: "Entomology & Pest Management",    code: "DA-131/132",     y2023: 16, y2024: 8,  y2025: 13, icon: "🐛" },
-  { key: "horticulture",        label: "Horticulture & Forestry",         code: "DA-281/282",     y2023: 9,  y2024: 14, y2025: 13, icon: "🌿" },
-  { key: "extension",           label: "Agricultural Extension",          code: "DA-291",         y2023: 9,  y2024: 11, y2025: 11, icon: "📢" },
-  { key: "farm-machinery",      label: "Farm Power & Machinery",          code: "DA-151",         y2023: 8,  y2024: 7,  y2025: 6,  icon: "🚜" },
-  { key: "irrigation",          label: "Irrigation & Land Survey",        code: "DA-252",         y2023: 8,  y2024: 2,  y2025: 6,  icon: "💧" },
-  { key: "plant-pathology",     label: "Plant Pathology & Microbiology",  code: "DA-171",         y2023: 7,  y2024: 6,  y2025: 5,  icon: "🍄" },
-  { key: "economics",           label: "Agricultural Economics",          code: "DA-241",         y2023: 6,  y2024: 8,  y2025: 6,  icon: "💰" },
-  { key: "seed-technology",     label: "Plant Breeding & Seed Tech.",     code: "DA-111",         y2023: 3,  y2024: 3,  y2025: 5,  icon: "🌻" },
-  { key: "meteorology",         label: "Agro-Meteorology",                code: "DA-101",         y2023: 1,  y2024: 3,  y2025: 4,  icon: "⛅" },
-  { key: "genetics",            label: "Genetics",                        code: "DA-111",         y2023: 1,  y2024: 2,  y2025: 3,  icon: "🧬" },
-  { key: "computer-applications",label: "Computer Applications",          code: "DA-262",         y2023: 4,  y2024: 2,  y2025: 2,  icon: "💻" },
-  { key: "english-communication",label: "English Communication",          code: "DA-263",         y2023: 3,  y2024: 2,  y2025: 2,  icon: "📝" },
-  { key: "crop-physiology",     label: "Crop Physiology",                 code: "DA-201",         y2023: 0,  y2024: 1,  y2025: 0,  icon: "🔬" },
+// ── Subject data grouped by DA course code ────────────────────────────────────
+// Raw question counts per year (total = 100 each year)
+// Topics merged into their DA parent courses:
+//   agronomy + meteorology + crop-physiology → DA-101/102/201
+//   genetics + seed-technology              → DA-111
+const SUBJECTS = [
+  {
+    codes: "DA-101, DA-102, DA-201",
+    label: "Agronomy, Crop Production & Meteorology",
+    short: "Agronomy",
+    icon: "🌾",
+    y2023: 10,  // agronomy(9) + meteorology(1)
+    y2024: 22,  // agronomy(18) + meteorology(3) + crop-physiology(1)
+    y2025: 18,  // agronomy(14) + meteorology(4)
+  },
+  {
+    codes: "DA-121, DA-122",
+    label: "Soil Science, Fertility & Water Conservation",
+    short: "Soil Science",
+    icon: "🌱",
+    y2023: 16,
+    y2024: 13,
+    y2025: 10,
+  },
+  {
+    codes: "DA-131, DA-132",
+    label: "General Entomology & Crop Pest Management",
+    short: "Entomology",
+    icon: "🐛",
+    y2023: 16,
+    y2024: 8,
+    y2025: 13,
+  },
+  {
+    codes: "DA-281, DA-282",
+    label: "Horticultural Crops & Forestry",
+    short: "Horticulture",
+    icon: "🌿",
+    y2023: 9,
+    y2024: 14,
+    y2025: 13,
+  },
+  {
+    codes: "DA-291",
+    label: "Agricultural Extension & Rural Development",
+    short: "Extension",
+    icon: "📢",
+    y2023: 9,
+    y2024: 11,
+    y2025: 11,
+  },
+  {
+    codes: "DA-151",
+    label: "Farm Power & Machinery",
+    short: "Farm Machinery",
+    icon: "🚜",
+    y2023: 8,
+    y2024: 7,
+    y2025: 6,
+  },
+  {
+    codes: "DA-252",
+    label: "Survey, Levelling & Field Measurements",
+    short: "Irrigation & Survey",
+    icon: "💧",
+    y2023: 8,
+    y2024: 2,
+    y2025: 6,
+  },
+  {
+    codes: "DA-241",
+    label: "Agricultural Economics",
+    short: "Economics",
+    icon: "💰",
+    y2023: 6,
+    y2024: 8,
+    y2025: 6,
+  },
+  {
+    codes: "DA-171",
+    label: "Plant Pathology & Microbiology",
+    short: "Plant Pathology",
+    icon: "🍄",
+    y2023: 7,
+    y2024: 6,
+    y2025: 5,
+  },
+  {
+    codes: "DA-111",
+    label: "Plant Breeding, Genetics & Seed Technology",
+    short: "Seed Technology",
+    icon: "🌻",
+    y2023: 4,  // genetics(1) + seed-technology(3)
+    y2024: 5,  // genetics(2) + seed-technology(3)
+    y2025: 8,  // genetics(3) + seed-technology(5)
+  },
+  {
+    codes: "DA-262",
+    label: "Computer Applications in Agriculture",
+    short: "Computers",
+    icon: "💻",
+    y2023: 4,
+    y2024: 2,
+    y2025: 2,
+  },
+  {
+    codes: "DA-263",
+    label: "Communication Skills in English",
+    short: "English",
+    icon: "📝",
+    y2023: 3,
+    y2024: 2,
+    y2025: 2,
+  },
 ];
 
-function avg(s: typeof SUBJECT_DATA[0]) {
-  return Math.round(((s.y2023 + s.y2024 + s.y2025) / 3) * 10) / 10;
+const YEARS = [2023, 2024, 2025];
+
+function avg(s: typeof SUBJECTS[0]) {
+  return +((s.y2023 + s.y2024 + s.y2025) / 3).toFixed(1);
 }
 
-function trend(s: typeof SUBJECT_DATA[0]) {
-  const delta = s.y2025 - s.y2023;
-  if (delta >= 3)  return "up";
-  if (delta <= -3) return "down";
+function trend(s: typeof SUBJECTS[0]) {
+  const d = s.y2025 - s.y2023;
+  if (d >= 3) return "up";
+  if (d <= -3) return "down";
   return "stable";
 }
 
-function weightageColor(count: number) {
-  if (count >= 13) return "bg-red-100 text-red-700 font-black";
-  if (count >= 8)  return "bg-orange-100 text-orange-700 font-bold";
-  if (count >= 4)  return "bg-yellow-100 text-yellow-700 font-semibold";
-  return "bg-gray-100 text-gray-500";
+function cellBg(n: number) {
+  if (n >= 13) return "bg-red-100 text-red-700 font-black border border-red-200";
+  if (n >= 8)  return "bg-orange-100 text-orange-700 font-bold border border-orange-200";
+  if (n >= 4)  return "bg-yellow-100 text-yellow-700 font-semibold border border-yellow-200";
+  return "bg-gray-100 text-gray-500 border border-gray-200";
 }
 
-function barColor(count: number) {
-  if (count >= 13) return "bg-red-500";
-  if (count >= 8)  return "bg-orange-400";
-  if (count >= 4)  return "bg-yellow-400";
+function barCol(n: number) {
+  if (n >= 13) return "bg-red-500";
+  if (n >= 8)  return "bg-orange-400";
+  if (n >= 4)  return "bg-yellow-400";
   return "bg-gray-300";
 }
 
-const sorted = [...SUBJECT_DATA].sort((a, b) => avg(b) - avg(a));
+const sorted = [...SUBJECTS].sort((a, b) => avg(b) - avg(a));
+const maxQ   = 22;  // highest single-year count (Agronomy 2024)
 
 export default function AnalysisPage() {
   return (
@@ -56,59 +156,62 @@ export default function AnalysisPage() {
 
       <div className="max-w-5xl mx-auto px-4 py-8">
 
-        {/* Header */}
-        <div className="mb-8">
-          <div className="flex items-center gap-2 text-sm text-gray-500 mb-2">
+        {/* Breadcrumb + Header */}
+        <div className="mb-6">
+          <div className="flex items-center gap-2 text-xs text-gray-400 mb-2">
             <Link href="/previous-years" className="hover:text-primary-600">Previous Papers</Link>
             <ChevronRight className="w-3 h-3" />
-            <span>Subject Weightage Analysis</span>
+            <span>Subject Weightage</span>
           </div>
-          <h1 className="text-2xl md:text-3xl font-black text-gray-900">📊 Subject Weightage Analysis</h1>
-          <p className="text-gray-500 mt-1">
-            Based on official AGRICET papers — 2023, 2024 &amp; 2025 · 100 questions each year
+          <h1 className="text-2xl md:text-3xl font-black text-gray-900">
+            📊 Subject-wise Question Analysis
+          </h1>
+          <p className="text-gray-500 mt-1 text-sm">
+            Number of questions from each DA subject · AGRICET 2023, 2024 &amp; 2025 · 100 Qs per paper
           </p>
         </div>
 
-        {/* Key Insight Cards */}
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-8">
+        {/* Summary totals */}
+        <div className="grid grid-cols-3 gap-3 mb-6">
           {[
-            { label: "Highest Weightage",  value: "Agronomy",        sub: "Avg 13.7 Qs/year",  color: "red",    icon: "🌾" },
-            { label: "Most Consistent",    value: "Extension",       sub: "9–11 Qs every year", color: "green",  icon: "📢" },
-            { label: "Rising Trend ↑",     value: "Seed Technology", sub: "3 → 3 → 5 Qs",      color: "blue",   icon: "🌻" },
-            { label: "Falling Trend ↓",    value: "Soil Science",    sub: "16 → 13 → 10 Qs",   color: "orange", icon: "🌱" },
-          ].map((c) => (
-            <div key={c.label} className="card p-4 border-l-4 border-primary-500">
-              <div className="text-2xl mb-1">{c.icon}</div>
-              <p className="text-xs text-gray-500 font-medium">{c.label}</p>
-              <p className="font-black text-gray-900 text-sm leading-tight">{c.value}</p>
-              <p className="text-xs text-gray-400 mt-0.5">{c.sub}</p>
+            { year: 2023, bg: "from-slate-700 to-slate-900" },
+            { year: 2024, bg: "from-primary-700 to-primary-900" },
+            { year: 2025, bg: "from-emerald-600 to-emerald-900" },
+          ].map(({ year, bg }) => (
+            <div key={year} className={`rounded-2xl bg-gradient-to-br ${bg} text-white p-4 text-center`}>
+              <p className="text-sm font-medium opacity-80">AGRICET {year}</p>
+              <p className="text-3xl font-black mt-1">100</p>
+              <p className="text-xs opacity-70 mt-0.5">Total Questions</p>
             </div>
           ))}
         </div>
 
         {/* Legend */}
-        <div className="flex flex-wrap gap-3 mb-4 text-xs font-semibold">
-          <span className="flex items-center gap-1.5"><span className="w-3 h-3 rounded-full bg-red-500 inline-block"/> High (13+ Qs)</span>
-          <span className="flex items-center gap-1.5"><span className="w-3 h-3 rounded-full bg-orange-400 inline-block"/> Medium (8–12 Qs)</span>
-          <span className="flex items-center gap-1.5"><span className="w-3 h-3 rounded-full bg-yellow-400 inline-block"/> Low (4–7 Qs)</span>
-          <span className="flex items-center gap-1.5"><span className="w-3 h-3 rounded-full bg-gray-300 inline-block"/> Minimal (1–3 Qs)</span>
-          <span className="flex items-center gap-1.5 ml-auto text-green-600"><TrendingUp className="w-3 h-3"/> Rising &nbsp;</span>
-          <span className="flex items-center gap-1.5 text-red-500"><TrendingDown className="w-3 h-3"/> Falling &nbsp;</span>
-          <span className="flex items-center gap-1.5 text-gray-400"><Minus className="w-3 h-3"/> Stable</span>
+        <div className="flex flex-wrap items-center gap-3 mb-4 text-xs font-semibold">
+          <span className="text-gray-500 mr-1">Weightage:</span>
+          {[
+            { label: "13+ Qs — Very High", cls: "bg-red-100 text-red-700 border border-red-200" },
+            { label: "8–12 Qs — High",     cls: "bg-orange-100 text-orange-700 border border-orange-200" },
+            { label: "4–7 Qs — Medium",    cls: "bg-yellow-100 text-yellow-700 border border-yellow-200" },
+            { label: "1–3 Qs — Low",       cls: "bg-gray-100 text-gray-500 border border-gray-200" },
+          ].map(l => (
+            <span key={l.label} className={`px-2 py-0.5 rounded-lg ${l.cls}`}>{l.label}</span>
+          ))}
         </div>
 
-        {/* Main Table — desktop */}
-        <div className="card overflow-hidden mb-8 hidden md:block">
+        {/* ── DESKTOP TABLE ── */}
+        <div className="hidden md:block card overflow-hidden mb-8 shadow">
           <table className="w-full text-sm">
             <thead>
-              <tr className="bg-gray-900 text-white">
-                <th className="text-left px-4 py-3 font-bold">Subject</th>
-                <th className="text-center px-3 py-3 font-bold w-16">2023</th>
-                <th className="text-center px-3 py-3 font-bold w-16">2024</th>
-                <th className="text-center px-3 py-3 font-bold w-16">2025</th>
-                <th className="text-center px-3 py-3 font-bold w-20">Avg</th>
-                <th className="text-center px-3 py-3 font-bold w-20">Trend</th>
-                <th className="px-4 py-3 font-bold w-40">Visual</th>
+              <tr className="bg-gray-900 text-white text-xs uppercase tracking-wider">
+                <th className="text-left px-4 py-3">DA Course Code</th>
+                <th className="text-left px-4 py-3">Subject</th>
+                <th className="text-center px-3 py-3 w-20">2023<br/><span className="font-normal opacity-60 normal-case">(Qs)</span></th>
+                <th className="text-center px-3 py-3 w-20">2024<br/><span className="font-normal opacity-60 normal-case">(Qs)</span></th>
+                <th className="text-center px-3 py-3 w-20">2025<br/><span className="font-normal opacity-60 normal-case">(Qs)</span></th>
+                <th className="text-center px-3 py-3 w-20">Avg<br/><span className="font-normal opacity-60 normal-case">(Qs)</span></th>
+                <th className="text-center px-3 py-3 w-20">Trend</th>
+                <th className="px-4 py-3 w-36">Year-wise Bar</th>
               </tr>
             </thead>
             <tbody>
@@ -116,84 +219,128 @@ export default function AnalysisPage() {
                 const a = avg(s);
                 const t = trend(s);
                 return (
-                  <tr key={s.key} className={`border-b border-gray-100 ${i % 2 === 0 ? "bg-white" : "bg-gray-50"} hover:bg-primary-50 transition-colors`}>
+                  <tr
+                    key={s.codes}
+                    className={`border-b border-gray-100 ${i % 2 === 0 ? "bg-white" : "bg-gray-50"} hover:bg-primary-50 transition-colors`}
+                  >
+                    {/* Course codes */}
+                    <td className="px-4 py-3">
+                      <div className="flex flex-wrap gap-1">
+                        {s.codes.split(", ").map(c => (
+                          <span key={c} className="inline-block bg-primary-50 text-primary-700 border border-primary-200 rounded-md px-2 py-0.5 text-xs font-bold">
+                            {c}
+                          </span>
+                        ))}
+                      </div>
+                    </td>
+
+                    {/* Subject name */}
                     <td className="px-4 py-3">
                       <div className="flex items-center gap-2">
                         <span className="text-lg">{s.icon}</span>
-                        <div>
-                          <p className="font-semibold text-gray-900 leading-tight">{s.label}</p>
-                          <p className="text-xs text-gray-400">{s.code}</p>
-                        </div>
+                        <span className="font-semibold text-gray-800 leading-tight">{s.label}</span>
                       </div>
                     </td>
+
+                    {/* Year counts */}
                     {[s.y2023, s.y2024, s.y2025].map((v, j) => (
                       <td key={j} className="text-center px-3 py-3">
-                        <span className={`inline-block px-2 py-0.5 rounded-lg text-xs ${weightageColor(v)}`}>
-                          {v}%
+                        <span className={`inline-block rounded-lg px-2 py-1 text-sm min-w-[2.5rem] ${cellBg(v)}`}>
+                          {v}
                         </span>
                       </td>
                     ))}
+
+                    {/* Avg */}
                     <td className="text-center px-3 py-3">
-                      <span className="font-black text-gray-900">{a}%</span>
+                      <span className="font-black text-gray-900 text-base">{a}</span>
                     </td>
+
+                    {/* Trend */}
                     <td className="text-center px-3 py-3">
-                      {t === "up"     && <span className="inline-flex items-center gap-1 text-green-600 font-bold text-xs"><TrendingUp className="w-3.5 h-3.5"/> Rising</span>}
-                      {t === "down"   && <span className="inline-flex items-center gap-1 text-red-500 font-bold text-xs"><TrendingDown className="w-3.5 h-3.5"/> Falling</span>}
-                      {t === "stable" && <span className="inline-flex items-center gap-1 text-gray-400 font-bold text-xs"><Minus className="w-3.5 h-3.5"/> Stable</span>}
+                      {t === "up"     && <span className="inline-flex items-center gap-1 text-emerald-600 font-bold text-xs bg-emerald-50 px-2 py-1 rounded-full"><TrendingUp className="w-3 h-3"/>Rising</span>}
+                      {t === "down"   && <span className="inline-flex items-center gap-1 text-red-500 font-bold text-xs bg-red-50 px-2 py-1 rounded-full"><TrendingDown className="w-3 h-3"/>Falling</span>}
+                      {t === "stable" && <span className="inline-flex items-center gap-1 text-gray-400 font-bold text-xs bg-gray-100 px-2 py-1 rounded-full"><Minus className="w-3 h-3"/>Stable</span>}
                     </td>
+
+                    {/* Mini bar chart */}
                     <td className="px-4 py-3">
-                      <div className="flex gap-1 items-end h-6">
+                      <div className="flex gap-1.5 items-end h-8">
                         {[s.y2023, s.y2024, s.y2025].map((v, j) => (
-                          <div key={j} className="flex-1 flex flex-col items-center gap-0.5">
+                          <div key={j} className="flex-1 flex flex-col items-center gap-1">
+                            <span className="text-gray-400" style={{ fontSize: "9px" }}>{v}</span>
                             <div
-                              className={`w-full rounded-sm ${barColor(v)}`}
-                              style={{ height: `${Math.max(2, v * 1.2)}px` }}
+                              className={`w-full rounded-sm ${barCol(v)}`}
+                              style={{ height: `${Math.max(3, (v / maxQ) * 22)}px` }}
                             />
                           </div>
                         ))}
                       </div>
-                      <div className="flex gap-1 mt-0.5">
-                        <p className="flex-1 text-center text-gray-300" style={{fontSize:"8px"}}>23</p>
-                        <p className="flex-1 text-center text-gray-300" style={{fontSize:"8px"}}>24</p>
-                        <p className="flex-1 text-center text-gray-300" style={{fontSize:"8px"}}>25</p>
+                      <div className="flex gap-1.5 mt-0.5">
+                        {["23","24","25"].map(y => (
+                          <p key={y} className="flex-1 text-center text-gray-300" style={{ fontSize: "8px" }}>{y}</p>
+                        ))}
                       </div>
                     </td>
                   </tr>
                 );
               })}
+
+              {/* Totals row */}
+              <tr className="bg-gray-900 text-white font-black text-sm">
+                <td className="px-4 py-3" colSpan={2}>TOTAL</td>
+                <td className="text-center px-3 py-3">100</td>
+                <td className="text-center px-3 py-3">100</td>
+                <td className="text-center px-3 py-3">100</td>
+                <td className="text-center px-3 py-3">100</td>
+                <td colSpan={2} />
+              </tr>
             </tbody>
           </table>
         </div>
 
-        {/* Mobile cards */}
-        <div className="space-y-3 md:hidden mb-8">
+        {/* ── MOBILE CARDS ── */}
+        <div className="md:hidden space-y-3 mb-8">
           {sorted.map((s) => {
             const a = avg(s);
             const t = trend(s);
             return (
-              <div key={s.key} className="card p-4">
+              <div key={s.codes} className="card p-4">
+                {/* Header */}
                 <div className="flex items-start justify-between mb-3">
-                  <div className="flex items-center gap-2">
-                    <span className="text-xl">{s.icon}</span>
-                    <div>
-                      <p className="font-bold text-gray-900 text-sm leading-tight">{s.label}</p>
-                      <p className="text-xs text-gray-400">{s.code}</p>
+                  <div className="flex items-start gap-2 flex-1 min-w-0">
+                    <span className="text-xl mt-0.5">{s.icon}</span>
+                    <div className="min-w-0">
+                      <div className="flex flex-wrap gap-1 mb-1">
+                        {s.codes.split(", ").map(c => (
+                          <span key={c} className="bg-primary-50 text-primary-700 border border-primary-200 rounded px-1.5 py-0.5 text-xs font-bold">
+                            {c}
+                          </span>
+                        ))}
+                      </div>
+                      <p className="font-bold text-gray-900 text-sm leading-snug">{s.label}</p>
                     </div>
                   </div>
-                  <div className="text-right">
-                    <p className="font-black text-gray-900">Avg {a}%</p>
-                    {t === "up"     && <span className="text-green-600 text-xs font-bold flex items-center gap-0.5 justify-end"><TrendingUp className="w-3 h-3"/> Rising</span>}
-                    {t === "down"   && <span className="text-red-500 text-xs font-bold flex items-center gap-0.5 justify-end"><TrendingDown className="w-3 h-3"/> Falling</span>}
-                    {t === "stable" && <span className="text-gray-400 text-xs font-bold flex items-center gap-0.5 justify-end"><Minus className="w-3 h-3"/> Stable</span>}
+                  <div className="text-right flex-shrink-0 ml-2">
+                    <p className="font-black text-gray-900 text-lg leading-none">{a}</p>
+                    <p className="text-xs text-gray-400">avg/yr</p>
+                    <div className="mt-1">
+                      {t === "up"     && <span className="text-emerald-600 text-xs font-bold flex items-center gap-0.5 justify-end"><TrendingUp className="w-3 h-3"/>Rising</span>}
+                      {t === "down"   && <span className="text-red-500 text-xs font-bold flex items-center gap-0.5 justify-end"><TrendingDown className="w-3 h-3"/>Falling</span>}
+                      {t === "stable" && <span className="text-gray-400 text-xs font-bold flex items-center gap-0.5 justify-end"><Minus className="w-3 h-3"/>Stable</span>}
+                    </div>
                   </div>
                 </div>
+
+                {/* Year columns */}
                 <div className="grid grid-cols-3 gap-2">
-                  {[["2023", s.y2023], ["2024", s.y2024], ["2025", s.y2025]].map(([yr, v]) => (
+                  {([["2023", s.y2023], ["2024", s.y2024], ["2025", s.y2025]] as [string, number][]).map(([yr, v]) => (
                     <div key={yr} className="text-center">
-                      <p className="text-xs text-gray-400 mb-1">{yr}</p>
-                      <div className={`rounded-lg py-1 text-xs ${weightageColor(v as number)}`}>{v}%</div>
+                      <p className="text-xs text-gray-400 mb-1 font-medium">{yr}</p>
+                      <div className={`rounded-xl py-2 text-lg font-black ${cellBg(v)}`}>{v}</div>
+                      <p className="text-xs text-gray-400 mt-0.5">questions</p>
                       <div className="mt-1 h-1.5 rounded-full bg-gray-100 overflow-hidden">
-                        <div className={`h-full ${barColor(v as number)}`} style={{ width: `${Math.min(100, (v as number) * 5)}%` }} />
+                        <div className={`h-full ${barCol(v)}`} style={{ width: `${Math.min(100, (v / maxQ) * 100)}%` }} />
                       </div>
                     </div>
                   ))}
@@ -203,29 +350,31 @@ export default function AnalysisPage() {
           })}
         </div>
 
-        {/* Study Strategy Box */}
-        <div className="card p-6 border-l-4 border-red-500 bg-red-50 mb-6">
+        {/* Strategy Box */}
+        <div className="rounded-2xl border border-red-200 bg-red-50 p-5 mb-6">
           <div className="flex items-start gap-3">
             <AlertCircle className="w-5 h-5 text-red-500 flex-shrink-0 mt-0.5" />
-            <div>
-              <h3 className="font-black text-gray-900 mb-2">📌 Smart Study Strategy based on this analysis</h3>
-              <div className="grid md:grid-cols-2 gap-3 text-sm text-gray-700">
-                <div>
-                  <p className="font-bold text-red-700 mb-1">🔴 Must-Study (30–40 Qs expected)</p>
-                  <ul className="space-y-0.5 text-xs">
-                    <li>• <strong>Agronomy</strong> — avg 13.7% — highest weightage</li>
-                    <li>• <strong>Soil Science</strong> — avg 13% — always high</li>
-                    <li>• <strong>Entomology</strong> — avg 12.3% — very consistent</li>
-                    <li>• <strong>Horticulture</strong> — avg 12% — rising trend</li>
+            <div className="w-full">
+              <h3 className="font-black text-gray-900 mb-3">📌 Smart Study Strategy — based on this data</h3>
+              <div className="grid md:grid-cols-2 gap-4">
+                <div className="bg-white rounded-xl p-4 border border-red-100">
+                  <p className="font-bold text-red-700 mb-2 text-sm">🔴 Must-Study Subjects (~55–60 Qs)</p>
+                  <ul className="space-y-1 text-xs text-gray-700">
+                    <li className="flex justify-between"><span>🌾 DA-101/102/201 Agronomy</span><strong>avg 16.7 Qs</strong></li>
+                    <li className="flex justify-between"><span>🌱 DA-121/122 Soil Science</span><strong>avg 13 Qs</strong></li>
+                    <li className="flex justify-between"><span>🐛 DA-131/132 Entomology</span><strong>avg 12.3 Qs</strong></li>
+                    <li className="flex justify-between"><span>🌿 DA-281/282 Horticulture</span><strong>avg 12 Qs</strong></li>
+                    <li className="flex justify-between"><span>📢 DA-291 Extension</span><strong>avg 10.3 Qs</strong></li>
                   </ul>
                 </div>
-                <div>
-                  <p className="font-bold text-orange-600 mb-1">🟠 High Priority (20–25 Qs expected)</p>
-                  <ul className="space-y-0.5 text-xs">
-                    <li>• <strong>Extension</strong> — avg 10.3% — very consistent</li>
-                    <li>• <strong>Farm Machinery</strong> — avg 7%</li>
-                    <li>• <strong>Economics</strong> — avg 6.7%</li>
-                    <li>• <strong>Plant Pathology</strong> — avg 6%</li>
+                <div className="bg-white rounded-xl p-4 border border-orange-100">
+                  <p className="font-bold text-orange-600 mb-2 text-sm">🟠 High Priority Subjects (~25–30 Qs)</p>
+                  <ul className="space-y-1 text-xs text-gray-700">
+                    <li className="flex justify-between"><span>🚜 DA-151 Farm Machinery</span><strong>avg 7 Qs</strong></li>
+                    <li className="flex justify-between"><span>💰 DA-241 Economics</span><strong>avg 6.7 Qs</strong></li>
+                    <li className="flex justify-between"><span>💧 DA-252 Survey & Irrigation</span><strong>avg 5.3 Qs</strong></li>
+                    <li className="flex justify-between"><span>🍄 DA-171 Plant Pathology</span><strong>avg 6 Qs</strong></li>
+                    <li className="flex justify-between"><span>🌻 DA-111 Plant Breeding</span><strong>avg 5.7 Qs</strong></li>
                   </ul>
                 </div>
               </div>
@@ -233,14 +382,14 @@ export default function AnalysisPage() {
           </div>
         </div>
 
-        {/* CTA */}
+        {/* CTAs */}
         <div className="flex flex-col sm:flex-row gap-3">
           <Link href="/previous-years"
-            className="flex-1 flex items-center justify-center gap-2 bg-primary-600 hover:bg-primary-700 text-white font-bold px-5 py-3 rounded-xl transition-all hover:scale-105">
+            className="flex-1 flex items-center justify-center gap-2 bg-primary-600 hover:bg-primary-700 text-white font-bold px-5 py-3 rounded-xl transition-all hover:scale-105 shadow">
             <BookOpen className="w-4 h-4" /> Practice PYQ Papers
           </Link>
           <Link href="/dashboard"
-            className="flex-1 flex items-center justify-center gap-2 bg-gray-900 hover:bg-gray-800 text-white font-bold px-5 py-3 rounded-xl transition-all hover:scale-105">
+            className="flex-1 flex items-center justify-center gap-2 bg-gray-900 hover:bg-gray-800 text-white font-bold px-5 py-3 rounded-xl transition-all hover:scale-105 shadow">
             <BarChart2 className="w-4 h-4" /> Go to Dashboard
           </Link>
         </div>
