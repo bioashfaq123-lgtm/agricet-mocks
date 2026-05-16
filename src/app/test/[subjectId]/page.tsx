@@ -11,7 +11,7 @@ import { doc, updateDoc, addDoc, collection, serverTimestamp } from "firebase/fi
 import { db } from "@/lib/firebase";
 import toast from "react-hot-toast";
 
-const TEST_DURATION = 50 * 60; // 50 minutes for timed mode
+const TEST_DURATION = 100 * 60; // 100 minutes for timed mode (1 min per question)
 
 export default function TestPage() {
   const params       = useParams();
@@ -37,7 +37,7 @@ export default function TestPage() {
   const [loading, setLoading]           = useState(true);
   const timerRef = useRef<NodeJS.Timeout | null>(null);
 
-  const limit = isDemo ? DEMO_QUESTION_LIMIT : 50;
+  const limit = isDemo ? DEMO_QUESTION_LIMIT : 100;
 
   // Load questions
   useEffect(() => {
@@ -149,7 +149,7 @@ export default function TestPage() {
               <div className="text-xs text-gray-500">Questions</div>
             </div>
             <div className="bg-primary-50 rounded-xl p-3">
-              <div className="text-xl font-black text-primary-700">50</div>
+              <div className="text-xl font-black text-primary-700">100</div>
               <div className="text-xs text-gray-500">Minutes</div>
             </div>
             <div className="bg-primary-50 rounded-xl p-3">
