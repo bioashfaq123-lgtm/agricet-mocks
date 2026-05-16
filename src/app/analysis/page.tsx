@@ -268,7 +268,7 @@ export default function AnalysisPage() {
                       <div className="flex gap-1.5 items-end h-8">
                         {[s.y2023, s.y2024, s.y2025].map((v, j) => (
                           <div key={j} className="flex-1 flex flex-col items-center gap-1">
-                            <span className="text-gray-400" style={{ fontSize: "9px" }}>{v}</span>
+                            <span className="text-gray-700 font-bold" style={{ fontSize: "9px" }}>{v}</span>
                             <div
                               className={`w-full rounded-sm ${barCol(v)}`}
                               style={{ height: `${Math.max(3, (v / maxQ) * 22)}px` }}
@@ -278,7 +278,7 @@ export default function AnalysisPage() {
                       </div>
                       <div className="flex gap-1.5 mt-0.5">
                         {["23","24","25"].map(y => (
-                          <p key={y} className="flex-1 text-center text-gray-300" style={{ fontSize: "8px" }}>{y}</p>
+                          <p key={y} className="flex-1 text-center text-gray-600 font-semibold" style={{ fontSize: "9px" }}>{y}</p>
                         ))}
                       </div>
                     </td>
