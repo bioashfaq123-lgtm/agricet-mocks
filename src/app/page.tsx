@@ -278,6 +278,95 @@ export default function LandingPage() {
       </section>
 
 
+      {/* ── INSTALL AS APP ── */}
+      <section className="py-20 bg-gradient-to-br from-green-50 to-emerald-100 border-y border-green-200">
+        <div className="max-w-4xl mx-auto px-4 text-center">
+          <div className="text-5xl mb-4">📲</div>
+          <h2 className="text-3xl md:text-4xl font-black text-gray-900 mb-3">
+            Install AGRICET Mocks on Your Phone
+          </h2>
+          <p className="text-gray-600 mb-10 text-lg max-w-xl mx-auto">
+            No Play Store. No download. Just install straight from your browser — works like a real app!
+          </p>
+
+          <div className="grid md:grid-cols-2 gap-6 text-left">
+            {/* Android */}
+            <div className="bg-white rounded-2xl shadow-md border border-green-200 overflow-hidden">
+              <div className="bg-green-600 text-white px-6 py-4 flex items-center gap-3">
+                <span className="text-2xl">🤖</span>
+                <div>
+                  <h3 className="font-black text-lg">Android Phone</h3>
+                  <p className="text-green-200 text-xs">Open in Chrome browser</p>
+                </div>
+              </div>
+              <div className="px-6 py-5 space-y-4">
+                {[
+                  { n: "1", icon: "🌐", t: "Open this website in Chrome on your Android phone" },
+                  { n: "2", icon: "⋮",  t: "Tap the 3-dot menu (⋮) at the top-right of Chrome" },
+                  { n: "3", icon: "📲", t: 'Tap "Add to Home screen"' },
+                  { n: "4", icon: "✅", t: "Tap Add — AGRICET Mocks icon appears on your home screen!" },
+                ].map((s) => (
+                  <div key={s.n} className="flex items-start gap-3">
+                    <div className="w-7 h-7 bg-green-600 text-white rounded-full flex items-center justify-center text-xs font-black flex-shrink-0 mt-0.5">
+                      {s.n}
+                    </div>
+                    <p className="text-gray-700 text-sm leading-snug">
+                      <span className="text-base mr-1">{s.icon}</span>{s.t}
+                    </p>
+                  </div>
+                ))}
+              </div>
+            </div>
+
+            {/* iPhone */}
+            <div className="bg-white rounded-2xl shadow-md border border-green-200 overflow-hidden">
+              <div className="bg-gray-800 text-white px-6 py-4 flex items-center gap-3">
+                <span className="text-2xl"></span>
+                <div>
+                  <h3 className="font-black text-lg">iPhone / iPad</h3>
+                  <p className="text-gray-400 text-xs">Must use Safari browser</p>
+                </div>
+              </div>
+              <div className="px-6 py-5 space-y-4">
+                {[
+                  { n: "1", icon: "🧭", t: "Open this website in Safari (the default iPhone browser)" },
+                  { n: "2", icon: "⬆️", t: "Tap the Share button (box with arrow ↑) at the bottom" },
+                  { n: "3", icon: "📲", t: 'Scroll down and tap "Add to Home Screen"' },
+                  { n: "4", icon: "✅", t: "Tap Add (top-right) — AGRICET Mocks icon is on your home screen!" },
+                ].map((s) => (
+                  <div key={s.n} className="flex items-start gap-3">
+                    <div className="w-7 h-7 bg-gray-800 text-white rounded-full flex items-center justify-center text-xs font-black flex-shrink-0 mt-0.5">
+                      {s.n}
+                    </div>
+                    <p className="text-gray-700 text-sm leading-snug">
+                      <span className="text-base mr-1">{s.icon}</span>{s.t}
+                    </p>
+                  </div>
+                ))}
+                <div className="bg-amber-50 border border-amber-200 rounded-xl px-4 py-3 text-xs text-amber-800 font-medium mt-2">
+                  ⚠️ iPhone only: Must use <strong>Safari</strong>. Chrome on iPhone does not support this feature.
+                </div>
+              </div>
+            </div>
+          </div>
+
+          {/* Benefits row */}
+          <div className="mt-8 grid grid-cols-2 md:grid-cols-4 gap-4">
+            {[
+              { icon: "⚡", label: "Loads Faster" },
+              { icon: "📴", label: "Works Offline" },
+              { icon: "🖥️", label: "Full Screen" },
+              { icon: "🏠", label: "Home Screen Icon" },
+            ].map((b) => (
+              <div key={b.label} className="bg-white rounded-xl py-4 px-3 border border-green-200 shadow-sm">
+                <div className="text-3xl mb-1">{b.icon}</div>
+                <div className="text-sm font-bold text-gray-700">{b.label}</div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
       {/* ── FAQ ── */}
       <section className="py-20 bg-white">
         <div className="max-w-3xl mx-auto px-4">

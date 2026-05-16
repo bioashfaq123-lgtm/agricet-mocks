@@ -11,6 +11,7 @@ import { SUBJECTS, DEMO_SUBJECT_ID } from "@/data/subjects";
 import { PREVIOUS_YEAR_PAPERS } from "@/data/previousYearPapers";
 import Navbar from "@/components/Navbar";
 import PaymentButton from "@/components/PaymentButton";
+import PWAInstallBanner from "@/components/PWAInstallBanner";
 
 export default function DashboardPage() {
   const { user, userData, loading } = useAuth();
@@ -62,6 +63,9 @@ export default function DashboardPage() {
             </div>
           </div>
         </div>
+
+        {/* PWA Install Banner */}
+        <PWAInstallBanner />
 
         {/* Stats Row */}
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-8">
