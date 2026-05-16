@@ -133,17 +133,17 @@ function trend(s: typeof SUBJECTS[0]) {
 }
 
 function cellBg(n: number) {
-  if (n >= 13) return "bg-red-100 text-red-700 font-black border border-red-200";
-  if (n >= 8)  return "bg-orange-100 text-orange-700 font-bold border border-orange-200";
-  if (n >= 4)  return "bg-yellow-100 text-yellow-700 font-semibold border border-yellow-200";
-  return "bg-gray-100 text-gray-500 border border-gray-200";
+  if (n >= 13) return "bg-[#1e3a5f] text-white font-black";
+  if (n >= 8)  return "bg-[#1d4ed8] text-white font-bold";
+  if (n >= 4)  return "bg-[#bfdbfe] text-[#1e3a5f] font-semibold border border-[#93c5fd]";
+  return "bg-[#f1f5f9] text-[#64748b] border border-[#e2e8f0]";
 }
 
 function barCol(n: number) {
-  if (n >= 13) return "bg-red-500";
-  if (n >= 8)  return "bg-orange-400";
-  if (n >= 4)  return "bg-yellow-400";
-  return "bg-gray-300";
+  if (n >= 13) return "bg-[#1e3a5f]";
+  if (n >= 8)  return "bg-[#1d4ed8]";
+  if (n >= 4)  return "bg-[#60a5fa]";
+  return "bg-[#cbd5e1]";
 }
 
 const sorted = [...SUBJECTS].sort((a, b) => avg(b) - avg(a));
@@ -174,9 +174,9 @@ export default function AnalysisPage() {
         {/* Summary totals */}
         <div className="grid grid-cols-3 gap-3 mb-6">
           {[
-            { year: 2023, bg: "from-slate-700 to-slate-900" },
-            { year: 2024, bg: "from-primary-700 to-primary-900" },
-            { year: 2025, bg: "from-emerald-600 to-emerald-900" },
+            { year: 2023, bg: "from-[#334155] to-[#0f172a]" },
+            { year: 2024, bg: "from-[#1d4ed8] to-[#1e3a5f]" },
+            { year: 2025, bg: "from-[#1e3a5f] to-[#0f172a]" },
           ].map(({ year, bg }) => (
             <div key={year} className={`rounded-2xl bg-gradient-to-br ${bg} text-white p-4 text-center`}>
               <p className="text-sm font-medium opacity-80">AGRICET {year}</p>
@@ -190,10 +190,10 @@ export default function AnalysisPage() {
         <div className="flex flex-wrap items-center gap-3 mb-4 text-xs font-semibold">
           <span className="text-gray-500 mr-1">Weightage:</span>
           {[
-            { label: "13+ Qs — Very High", cls: "bg-red-100 text-red-700 border border-red-200" },
-            { label: "8–12 Qs — High",     cls: "bg-orange-100 text-orange-700 border border-orange-200" },
-            { label: "4–7 Qs — Medium",    cls: "bg-yellow-100 text-yellow-700 border border-yellow-200" },
-            { label: "1–3 Qs — Low",       cls: "bg-gray-100 text-gray-500 border border-gray-200" },
+            { label: "13+ Qs — Very High", cls: "bg-[#1e3a5f] text-white" },
+            { label: "8–12 Qs — High",     cls: "bg-[#1d4ed8] text-white" },
+            { label: "4–7 Qs — Medium",    cls: "bg-[#bfdbfe] text-[#1e3a5f] border border-[#93c5fd]" },
+            { label: "1–3 Qs — Low",       cls: "bg-[#f1f5f9] text-[#64748b] border border-[#e2e8f0]" },
           ].map(l => (
             <span key={l.label} className={`px-2 py-0.5 rounded-lg ${l.cls}`}>{l.label}</span>
           ))}
@@ -227,7 +227,7 @@ export default function AnalysisPage() {
                     <td className="px-4 py-3">
                       <div className="flex flex-wrap gap-1">
                         {s.codes.split(", ").map(c => (
-                          <span key={c} className="inline-block bg-primary-50 text-primary-700 border border-primary-200 rounded-md px-2 py-0.5 text-xs font-bold">
+                          <span key={c} className="inline-block bg-[#1e3a5f] text-white rounded-md px-2 py-0.5 text-xs font-bold tracking-wide">
                             {c}
                           </span>
                         ))}
@@ -258,9 +258,9 @@ export default function AnalysisPage() {
 
                     {/* Trend */}
                     <td className="text-center px-3 py-3">
-                      {t === "up"     && <span className="inline-flex items-center gap-1 text-emerald-600 font-bold text-xs bg-emerald-50 px-2 py-1 rounded-full"><TrendingUp className="w-3 h-3"/>Rising</span>}
-                      {t === "down"   && <span className="inline-flex items-center gap-1 text-red-500 font-bold text-xs bg-red-50 px-2 py-1 rounded-full"><TrendingDown className="w-3 h-3"/>Falling</span>}
-                      {t === "stable" && <span className="inline-flex items-center gap-1 text-gray-400 font-bold text-xs bg-gray-100 px-2 py-1 rounded-full"><Minus className="w-3 h-3"/>Stable</span>}
+                      {t === "up"     && <span className="inline-flex items-center gap-1 text-[#166534] font-bold text-xs bg-[#dcfce7] border border-[#86efac] px-2 py-1 rounded-full"><TrendingUp className="w-3 h-3"/>Rising</span>}
+                      {t === "down"   && <span className="inline-flex items-center gap-1 text-[#1e3a5f] font-bold text-xs bg-[#dbeafe] border border-[#93c5fd] px-2 py-1 rounded-full"><TrendingDown className="w-3 h-3"/>Falling</span>}
+                      {t === "stable" && <span className="inline-flex items-center gap-1 text-[#475569] font-bold text-xs bg-[#f1f5f9] border border-[#e2e8f0] px-2 py-1 rounded-full"><Minus className="w-3 h-3"/>Stable</span>}
                     </td>
 
                     {/* Mini bar chart */}
@@ -313,7 +313,7 @@ export default function AnalysisPage() {
                     <div className="min-w-0">
                       <div className="flex flex-wrap gap-1 mb-1">
                         {s.codes.split(", ").map(c => (
-                          <span key={c} className="bg-primary-50 text-primary-700 border border-primary-200 rounded px-1.5 py-0.5 text-xs font-bold">
+                          <span key={c} className="bg-[#1e3a5f] text-white rounded px-1.5 py-0.5 text-xs font-bold tracking-wide">
                             {c}
                           </span>
                         ))}
@@ -325,9 +325,9 @@ export default function AnalysisPage() {
                     <p className="font-black text-gray-900 text-lg leading-none">{a}</p>
                     <p className="text-xs text-gray-400">avg/yr</p>
                     <div className="mt-1">
-                      {t === "up"     && <span className="text-emerald-600 text-xs font-bold flex items-center gap-0.5 justify-end"><TrendingUp className="w-3 h-3"/>Rising</span>}
-                      {t === "down"   && <span className="text-red-500 text-xs font-bold flex items-center gap-0.5 justify-end"><TrendingDown className="w-3 h-3"/>Falling</span>}
-                      {t === "stable" && <span className="text-gray-400 text-xs font-bold flex items-center gap-0.5 justify-end"><Minus className="w-3 h-3"/>Stable</span>}
+                      {t === "up"     && <span className="text-[#166534] text-xs font-bold flex items-center gap-0.5 justify-end"><TrendingUp className="w-3 h-3"/>Rising</span>}
+                      {t === "down"   && <span className="text-[#1d4ed8] text-xs font-bold flex items-center gap-0.5 justify-end"><TrendingDown className="w-3 h-3"/>Falling</span>}
+                      {t === "stable" && <span className="text-[#475569] text-xs font-bold flex items-center gap-0.5 justify-end"><Minus className="w-3 h-3"/>Stable</span>}
                     </div>
                   </div>
                 </div>
@@ -351,14 +351,14 @@ export default function AnalysisPage() {
         </div>
 
         {/* Strategy Box */}
-        <div className="rounded-2xl border border-red-200 bg-red-50 p-5 mb-6">
+        <div className="rounded-2xl border border-[#93c5fd] bg-[#eff6ff] p-5 mb-6">
           <div className="flex items-start gap-3">
-            <AlertCircle className="w-5 h-5 text-red-500 flex-shrink-0 mt-0.5" />
+            <AlertCircle className="w-5 h-5 text-[#1d4ed8] flex-shrink-0 mt-0.5" />
             <div className="w-full">
-              <h3 className="font-black text-gray-900 mb-3">📌 Smart Study Strategy — based on this data</h3>
+              <h3 className="font-black text-[#0f172a] mb-3">📌 Smart Study Strategy — based on this data</h3>
               <div className="grid md:grid-cols-2 gap-4">
-                <div className="bg-white rounded-xl p-4 border border-red-100">
-                  <p className="font-bold text-red-700 mb-2 text-sm">🔴 Must-Study Subjects (~55–60 Qs)</p>
+                <div className="bg-white rounded-xl p-4 border border-[#bfdbfe]">
+                  <p className="font-bold text-[#1e3a5f] mb-2 text-sm">🔵 Must-Study Subjects (~55–60 Qs)</p>
                   <ul className="space-y-1 text-xs text-gray-700">
                     <li className="flex justify-between"><span>🌾 DA-101/102/201 Agronomy</span><strong>avg 16.7 Qs</strong></li>
                     <li className="flex justify-between"><span>🌱 DA-121/122 Soil Science</span><strong>avg 13 Qs</strong></li>
@@ -367,8 +367,8 @@ export default function AnalysisPage() {
                     <li className="flex justify-between"><span>📢 DA-291 Extension</span><strong>avg 10.3 Qs</strong></li>
                   </ul>
                 </div>
-                <div className="bg-white rounded-xl p-4 border border-orange-100">
-                  <p className="font-bold text-orange-600 mb-2 text-sm">🟠 High Priority Subjects (~25–30 Qs)</p>
+                <div className="bg-white rounded-xl p-4 border border-[#bfdbfe]">
+                  <p className="font-bold text-[#1d4ed8] mb-2 text-sm">🔷 High Priority Subjects (~25–30 Qs)</p>
                   <ul className="space-y-1 text-xs text-gray-700">
                     <li className="flex justify-between"><span>🚜 DA-151 Farm Machinery</span><strong>avg 7 Qs</strong></li>
                     <li className="flex justify-between"><span>💰 DA-241 Economics</span><strong>avg 6.7 Qs</strong></li>
