@@ -5,7 +5,7 @@ import { AuthProvider } from "@/contexts/AuthContext";
 import AppSplashScreen from "@/components/AppSplashScreen";
 
 export const metadata: Metadata = {
-  title: "AGRICET Mock Test Series",
+  title: "AGRICET MOCK TEST SERIES",
   description:
     "Practice all 17 Diploma Agriculture subjects for PJTSAU AGRICET. 3400+ MCQs, PYQ papers 2023-2025, instant results. Prepared by Nalanda Study Circle, Jagtial.",
   keywords: "AGRICET, mock test, agriculture, BSc Agriculture, PJTSAU, Diploma in Agriculture, Nalanda Study Circle",
@@ -14,10 +14,10 @@ export const metadata: Metadata = {
   appleWebApp: {
     capable: true,
     statusBarStyle: "default",
-    title: "AGRICET Mocks",
+    title: "AGRICET MOCK TEST SERIES",
   },
   openGraph: {
-    title: "AGRICET Mock Test Series",
+    title: "AGRICET MOCK TEST SERIES",
     description: "Practice smart, crack AGRICET, secure your BSc (Hons) Agriculture seat.",
     type: "website",
   },
@@ -31,11 +31,11 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="en">
       <head>
-        <meta name="application-name" content="AGRICET Mocks" />
+        <meta name="application-name" content="AGRICET MOCK TEST SERIES" />
         <meta name="mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="default" />
-        <meta name="apple-mobile-web-app-title" content="AGRICET Mocks" />
+        <meta name="apple-mobile-web-app-title" content="AGRICET MOCK TEST SERIES" />
         <meta name="theme-color" content="#cc1e1e" />
         <link rel="manifest" href="/manifest.json" />
         <link rel="apple-touch-icon" href="/apple-touch-icon.png" />

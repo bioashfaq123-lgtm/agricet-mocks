@@ -41,7 +41,7 @@ export default function PWAInstallBanner() {
         </div>
         <div className="flex-1 min-w-0">
           <p className="font-black text-gray-900 text-sm leading-tight">
-            📲 Install AGRICET Mocks on your phone!
+            📲 Install AGRICET MOCK TEST SERIES on your phone!
           </p>
           <p className="text-xs text-gray-500 mt-0.5">
             Works like a real app — no Play Store needed · Opens full-screen · Works faster
@@ -104,7 +104,7 @@ export default function PWAInstallBanner() {
                 { step: "1", icon: "🌐", text: "Open this website in Chrome browser on your Android phone" },
                 { step: "2", icon: "⋮",  text: 'Tap the 3-dot menu (⋮) at the top-right corner of Chrome' },
                 { step: "3", icon: "📲", text: 'Tap "Add to Home screen"' },
-                { step: "4", icon: "✅", text: 'Tap "Add" — the AGRICET Mocks icon appears on your home screen!' },
+                { step: "4", icon: "✅", text: 'Tap "Add" — the AGRICET MOCK TEST SERIES icon appears on your home screen!' },
               ].map((s) => (
                 <div key={s.step} className="flex items-start gap-3 bg-white rounded-xl px-4 py-3 border border-green-100">
                   <div className="w-6 h-6 bg-green-600 text-white rounded-full flex items-center justify-center text-xs font-black flex-shrink-0 mt-0.5">
@@ -127,7 +127,7 @@ export default function PWAInstallBanner() {
                 { step: "1", icon: "🧭", text: "Open this website in Safari (the default iPhone browser)" },
                 { step: "2", icon: "⬆️", text: "Tap the Share button (box with arrow ↑) at the bottom of Safari" },
                 { step: "3", icon: "📲", text: 'Scroll down and tap "Add to Home Screen"' },
-                { step: "4", icon: "✅", text: 'Tap "Add" (top-right) — AGRICET Mocks icon is now on your home screen!' },
+                { step: "4", icon: "✅", text: 'Tap "Add" (top-right) — AGRICET MOCK TEST SERIES icon is now on your home screen!' },
               ].map((s) => (
                 <div key={s.step} className="flex items-start gap-3 bg-white rounded-xl px-4 py-3 border border-green-100">
                   <div className="w-6 h-6 bg-green-600 text-white rounded-full flex items-center justify-center text-xs font-black flex-shrink-0 mt-0.5">
@@ -147,7 +147,7 @@ export default function PWAInstallBanner() {
           <div className="mt-4 bg-green-100 rounded-xl px-4 py-3 flex items-start gap-2">
             <span className="text-lg">🎉</span>
             <p className="text-xs text-green-800 font-medium leading-snug">
-              Once installed, open AGRICET Mocks from your home screen — it opens full-screen like a real app, loads faster, and works even with slow internet!
+              Once installed, open AGRICET MOCK TEST SERIES from your home screen — it opens full-screen like a real app, loads faster, and works even with slow internet!
             </p>
           </div>
         </div>

@@ -30,7 +30,7 @@ const FAQS = [
   { q: "What subjects are covered in this platform?", a: "This platform covers 18 subjects: Principles of Agronomy (DA-101), Crop Production-I Kharif (DA-102), Plant Breeding & Seed Technology (DA-111), Soil Chemistry & Fertility (DA-121), Soil & Water Conservation (DA-122), General Entomology (DA-131), Crop Pests & Management (DA-132), Farm Power & Machinery (DA-151), Plant Pathology & Microbiology (DA-171), Crop Production-II Rabi & Oilseeds (DA-201), Agricultural Economics (DA-241), Survey, Levelling & Field Measurements (DA-252), Forestry & Medicinal Plants (DA-281), Horticultural Crops (DA-282), Agricultural Extension & Rural Development (DA-291), Computer Applications (DA-262), Communication Skills in English (DA-263), and General Agriculture." },
   { q: "Is there a free demo available?", a: "Yes! You can take a free demo test with 10 questions from Agronomy without registration. Full access to all 17 subjects (200 MCQs each) and previous year papers requires a one-time payment of ₹100." },
   { q: "How long is my subscription valid?", a: "Your ₹100 subscription gives you lifetime access to all content — all 17 subjects, 3,400+ MCQs, previous year papers (2023, 2024, 2025), and all future updates." },
-  { q: "Can I practice on mobile?", a: "Yes! AGRICET MOCKS is fully responsive and works seamlessly on all devices — mobile phones, tablets, and desktops." },
+  { q: "Can I practice on mobile?", a: "Yes! AGRICET MOCK TEST SERIES is fully responsive and works seamlessly on all devices — mobile phones, tablets, and desktops." },
 ];
 
 export default function LandingPage() {
@@ -166,7 +166,7 @@ export default function LandingPage() {
       {/* ── FEATURES ── */}
       <section className="py-20 bg-white">
         <div className="max-w-6xl mx-auto px-4">
-          <h2 className="section-title">Why Choose AGRICET MOCKS?</h2>
+          <h2 className="section-title">Why Choose AGRICET MOCK TEST SERIES?</h2>
           <p className="section-sub">Built specifically for AGRICET aspirants by agriculture experts</p>
 
           <div className="grid md:grid-cols-3 gap-8 mt-12">
@@ -283,7 +283,7 @@ export default function LandingPage() {
         <div className="max-w-4xl mx-auto px-4 text-center">
           <div className="text-5xl mb-4">📲</div>
           <h2 className="text-3xl md:text-4xl font-black text-gray-900 mb-3">
-            Install AGRICET Mocks on Your Phone
+            Install AGRICET MOCK TEST SERIES on Your Phone
           </h2>
           <p className="text-gray-600 mb-10 text-lg max-w-xl mx-auto">
             No Play Store. No download. Just install straight from your browser — works like a real app!
@@ -304,7 +304,7 @@ export default function LandingPage() {
                   { n: "1", icon: "🌐", t: "Open this website in Chrome on your Android phone" },
                   { n: "2", icon: "⋮",  t: "Tap the 3-dot menu (⋮) at the top-right of Chrome" },
                   { n: "3", icon: "📲", t: 'Tap "Add to Home screen"' },
-                  { n: "4", icon: "✅", t: "Tap Add — AGRICET Mocks icon appears on your home screen!" },
+                  { n: "4", icon: "✅", t: "Tap Add — AGRICET MOCK TEST SERIES icon appears on your home screen!" },
                 ].map((s) => (
                   <div key={s.n} className="flex items-start gap-3">
                     <div className="w-7 h-7 bg-green-600 text-white rounded-full flex items-center justify-center text-xs font-black flex-shrink-0 mt-0.5">
@@ -332,7 +332,7 @@ export default function LandingPage() {
                   { n: "1", icon: "🧭", t: "Open this website in Safari (the default iPhone browser)" },
                   { n: "2", icon: "⬆️", t: "Tap the Share button (box with arrow ↑) at the bottom" },
                   { n: "3", icon: "📲", t: 'Scroll down and tap "Add to Home Screen"' },
-                  { n: "4", icon: "✅", t: "Tap Add (top-right) — AGRICET Mocks icon is on your home screen!" },
+                  { n: "4", icon: "✅", t: "Tap Add (top-right) — AGRICET MOCK TEST SERIES icon is on your home screen!" },
                 ].map((s) => (
                   <div key={s.n} className="flex items-start gap-3">
                     <div className="w-7 h-7 bg-gray-800 text-white rounded-full flex items-center justify-center text-xs font-black flex-shrink-0 mt-0.5">
@@ -400,7 +400,7 @@ export default function LandingPage() {
             Start Your AGRICET Journey Today
           </h2>
           <p className="text-primary-200 mb-8 text-lg">
-            Join 12,500+ students who are preparing smarter with AGRICET MOCKS
+            Join 12,500+ students who are preparing smarter with AGRICET MOCK TEST SERIES
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="/demo" className="inline-flex items-center gap-2 bg-white text-primary-700 font-bold px-8 py-4 rounded-xl hover:bg-primary-50 transition-all hover:scale-105">
@@ -419,7 +419,7 @@ export default function LandingPage() {
           <div>
             <div className="flex items-center gap-2 mb-4">
               <div className="w-8 h-8 bg-primary-600 rounded-lg flex items-center justify-center text-white text-sm font-bold">A</div>
-              <span className="text-white font-bold">AGRICET MOCKS</span>
+              <span className="text-white font-bold">AGRICET MOCK TEST SERIES</span>
             </div>
             <p className="text-sm leading-relaxed">The #1 mock test platform for Diploma in Agriculture students preparing for AGRICET exam.</p>
           </div>
@@ -452,7 +452,7 @@ export default function LandingPage() {
             ,{" "}
             <span className="text-gray-300">JAGTIAL</span>
           </div>
-          <div>© {new Date().getFullYear()} AGRICET MOCKS. All rights reserved. | Designed for AGRICET Aspirants.</div>
+          <div>© {new Date().getFullYear()} AGRICET MOCK TEST SERIES. All rights reserved. | Designed for AGRICET Aspirants.</div>
         </div>
       </footer>
     </div>
