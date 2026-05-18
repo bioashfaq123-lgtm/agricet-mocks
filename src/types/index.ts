@@ -7,6 +7,8 @@ export interface Question {
   explanation: string;
   difficulty?: "easy" | "medium" | "hard";
   tags?: string[];
+  lecture?: string;   // lecture slug e.g. "lecture-1"
+  lectureNo?: number; // lecture number for ordering
 }
 
 export interface TestSession {

@@ -217,17 +217,25 @@ export default function DashboardPage() {
                     </div>
                   )}
 
-                  <div className="flex gap-2 mt-2">
+                  <div className="flex flex-col gap-2 mt-2">
                     {hasAccess ? (
                       <>
-                        <Link href={`/test/${sub.id}?mode=practice`}
-                          className="flex-1 btn-primary text-center text-xs py-2 flex items-center justify-center gap-1">
-                          <Play className="w-3 h-3" /> Practice
+                        {/* Lecture-wise Practice — primary action */}
+                        <Link href={`/lectures/${sub.id}`}
+                          className="w-full btn-primary text-center text-xs py-2 flex items-center justify-center gap-1.5">
+                          <BookOpen className="w-3 h-3" /> Lecture-wise Practice
                         </Link>
-                        <Link href={`/test/${sub.id}?mode=timed`}
-                          className="flex-1 btn-secondary text-center text-xs py-2 flex items-center justify-center gap-1">
-                          <Clock className="w-3 h-3" /> Timed
-                        </Link>
+                        {/* Full test row */}
+                        <div className="flex gap-2">
+                          <Link href={`/test/${sub.id}?mode=practice`}
+                            className="flex-1 btn-secondary text-center text-xs py-2 flex items-center justify-center gap-1">
+                            <Play className="w-3 h-3" /> Full Practice
+                          </Link>
+                          <Link href={`/test/${sub.id}?mode=timed`}
+                            className="flex-1 btn-secondary text-center text-xs py-2 flex items-center justify-center gap-1">
+                            <Clock className="w-3 h-3" /> Timed
+                          </Link>
+                        </div>
                       </>
                     ) : (
                       <div className="flex-1 flex items-center justify-center gap-2 bg-gray-100 text-gray-400 rounded-xl py-2 text-xs">
