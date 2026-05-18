@@ -2018,8 +2018,8 @@ export const da111LectureQuestions: Question[] = [
       "80% minimum germination for certified paddy seed",
       "85% minimum germination for certified paddy seed"
     ],
-    correct: 3,
-    explanation: "The minimum germination percentage standard for paddy (rice) certified seed is 80%. For wheat and maize certified seed, the minimum germination is also 85% and 80% respectively, as per Indian Seed Certification standards."
+    correct: 2,
+    explanation: "As per Indian Seed Certification standards (Seeds Act 1966 / Central Seed Certification Board norms), the minimum germination for paddy certified seed is 80%. Wheat and maize certified seed also require 85% and 80% respectively."
   },
   {
     id: "d111l_135",

@@ -540,10 +540,10 @@ export const da102LectureQuestions: Question[] = [
   },
   {
     id: "d102l_067", subject: "da-102", lecture: "lecture-5", lectureNo: 5,
-    question: "Seed rate for Bt hybrid cotton is approximately:",
-    options: ["450 g/ha", "2.5 kg/ha", "10 kg/ha", "25 kg/ha"],
+    question: "Seed rate for Bt hybrid cotton per acre is approximately:",
+    options: ["450 g/acre (~1.1 kg/ha)", "2.5 kg/acre", "10 kg/acre", "25 kg/acre"],
     correct: 0,
-    explanation: "Bt hybrid cotton is typically sown at about 450–500 g/ha due to high seed cost.",
+    explanation: "Bt hybrid cotton seed is sold in 450 g packets that cover one acre. Per hectare this equals ~1.1 kg (since 1 ha ≈ 2.47 acres). The per-acre unit is the industry standard (CICR / seed company recommendations).",
     difficulty: "medium"
   },
   {

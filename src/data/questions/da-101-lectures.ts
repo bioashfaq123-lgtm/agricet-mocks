@@ -643,9 +643,9 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Optimum plant population for transplanted rice per hectare is approximately:",
-    options: ["50,000 hills/ha", "1,00,000 hills/ha (at 20×25 cm spacing)", "2,00,000 hills/ha", "5,00,000 hills/ha"],
-    correct: 1,
-    explanation: "At 20×25 cm spacing (standard for transplanted rice), the plant population is about 2,00,000 hills/ha. At 25×25 cm, it is 1,60,000/ha."
+    options: ["50,000 hills/ha", "1,00,000 hills/ha", "2,00,000 hills/ha (at 20×25 cm spacing)", "5,00,000 hills/ha"],
+    correct: 2,
+    explanation: "At 20×25 cm spacing (standard for transplanted rice), 10,000 m²/ha ÷ (0.20 × 0.25 m) = 2,00,000 hills/ha. At 25×25 cm it is 1,60,000/ha."
   },
 
   // ─────────────────────────────────────────────────────────────────────────────

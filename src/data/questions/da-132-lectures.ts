@@ -201,9 +201,9 @@ export const da132LectureQuestions: Question[] = [
     correct:1, explanation:"Earias vittella larva bores into cotton squares (flower buds) causing premature dropping of squares." },
 
   { id:"d132l_040", subject:"da-132", lecture:"lecture-3", lectureNo:3,
-    question:"The economic threshold for American bollworm in cotton is:",
-    options:["1 larva/plant","5 larvae/100 plants or 5% damaged bolls","50 larvae/100 plants","Any incidence"],
-    correct:1, explanation:"ETL for Helicoverpa in cotton is 1 larva/plant or 5% boll damage." },
+    question:"The economic threshold level (ETL) for American bollworm (Helicoverpa armigera) in cotton is:",
+    options:["1 larva/plant or 5% boll damage","5 larvae/100 plants","50 larvae/100 plants","Any incidence requires spraying"],
+    correct:0, explanation:"The ETL for Helicoverpa armigera (American bollworm) in cotton is 1 larva/plant or 5% boll damage, as per ICAR and state extension recommendations (AP/Telangana). Spraying is recommended only after this threshold is crossed." },
 
   { id:"d132l_041", subject:"da-132", lecture:"lecture-3", lectureNo:3,
     question:"NSKE (Neem Seed Kernel Extract) is effective against cotton sucking pests at:",
