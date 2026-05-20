@@ -135,6 +135,34 @@ export default function LandingPage() {
         </div>
       </section>
 
+      {/* ── YOUTUBE VIDEO ── */}
+      <section className="py-16 bg-white border-b border-gray-100">
+        <div className="max-w-4xl mx-auto px-4 text-center">
+          <div className="inline-flex items-center gap-2 bg-red-100 text-red-600 text-xs font-bold px-3 py-1 rounded-full mb-4">
+            <Play className="w-3 h-3 fill-red-600" /> Watch on YouTube
+          </div>
+          <h2 className="text-3xl md:text-4xl font-black text-gray-900 mb-3">
+            See What AGRICET Mock Test Series Offers
+          </h2>
+          <p className="text-gray-500 mb-8 text-base max-w-xl mx-auto">
+            Watch our quick overview — subjects, pricing, and how to get started in under 2 minutes.
+          </p>
+          <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl border border-gray-200"
+               style={{ paddingBottom: "56.25%" }}>
+            <iframe
+              className="absolute top-0 left-0 w-full h-full"
+              src="https://www.youtube.com/embed/RSzYgQiSLHw?rel=0&modestbranding=1"
+              title="AGRICET 2026 Mock Test Series"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowFullScreen
+            />
+          </div>
+          <p className="mt-5 text-sm text-gray-400">
+            Like the video? 👍 Share it with your classmates and help them prepare for AGRICET 2026!
+          </p>
+        </div>
+      </section>
+
       {/* ── SUBJECTS GRID ── */}
       <section className="py-20 bg-gray-50">
         <div className="max-w-6xl mx-auto px-4">
