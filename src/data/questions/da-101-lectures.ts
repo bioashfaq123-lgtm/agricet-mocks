@@ -11,8 +11,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "The word 'Agriculture' is derived from which two Latin words?",
-    options: ["Ager (field) and Cultura (cultivation)", "Agros (soil) and Nomos (law)", "Agri (land) and Cultura (science)", "Ager (crop) and Cultura (growth)"],
-    correct: 0,
+    options: ["Agros (soil) and Nomos (law)", "Agri (land) and Cultura (science)", "Ager (field) and Cultura (cultivation)", "Ager (crop) and Cultura (growth)"],
+    correct: 2,
     explanation: "Agriculture is derived from Latin 'Ager/Agri' meaning field/land and 'Cultura' meaning cultivation or tillage."
   },
   {
@@ -21,7 +21,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "The term 'Agronomy' is derived from Greek words 'Agros' and 'Nomos'. 'Nomos' means:",
-    options: ["Soil", "Field", "To manage", "To grow"],
+    options: ["Field", "To grow", "To manage", "Soil"],
     correct: 2,
     explanation: "'Agros' means field and 'Nomos' means to manage. So Agronomy means the science of managing fields."
   },
@@ -41,8 +41,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "Who is called the 'Father of Green Revolution in India'?",
-    options: ["Norman Borlaug", "M.S. Swaminathan", "B.P. Pal", "C. Subramaniam"],
-    correct: 1,
+    options: ["B.P. Pal", "C. Subramaniam", "Norman Borlaug", "M.S. Swaminathan"],
+    correct: 3,
     explanation: "Dr. M.S. Swaminathan is called the Father of Green Revolution in India for his role in introducing high-yielding wheat varieties."
   },
   {
@@ -51,8 +51,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "ICAR stands for:",
-    options: ["Indian Council of Agricultural Research", "International Centre for Agriculture and Research", "Indian Centre for Agronomy Research", "Integrated Council for Agricultural Resources"],
-    correct: 0,
+    options: ["Indian Centre for Agronomy Research", "International Centre for Agriculture and Research", "Integrated Council for Agricultural Resources", "Indian Council of Agricultural Research"],
+    correct: 3,
     explanation: "ICAR stands for Indian Council of Agricultural Research, headquartered at New Delhi. It coordinates agricultural research in India."
   },
   {
@@ -61,8 +61,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "PJTSAU stands for:",
-    options: ["Punjab Jawaharlal Technological & Sciences Agricultural University", "Professor Jayashankar Telangana State Agricultural University", "Pandit Jawaharlal Telangana State Agricultural University", "Pradhan Janpada Telangana State Agricultural University"],
-    correct: 1,
+    options: ["Pradhan Janpada Telangana State Agricultural University", "Pandit Jawaharlal Telangana State Agricultural University", "Professor Jayashankar Telangana State Agricultural University", "Punjab Jawaharlal Technological & Sciences Agricultural University"],
+    correct: 2,
     explanation: "PJTSAU stands for Professor Jayashankar Telangana State Agricultural University, located in Hyderabad, Telangana."
   },
   {
@@ -71,8 +71,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "ICRISAT is located at:",
-    options: ["Rome, Italy", "Washington DC, USA", "Patancheru, Hyderabad, India", "Nairobi, Kenya"],
-    correct: 2,
+    options: ["Patancheru, Hyderabad, India", "Nairobi, Kenya", "Rome, Italy", "Washington DC, USA"],
+    correct: 0,
     explanation: "ICRISAT (International Crops Research Institute for the Semi-Arid Tropics) is located at Patancheru near Hyderabad, India."
   },
   {
@@ -81,8 +81,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "The Central Rice Research Institute (CRRI) is located at:",
-    options: ["Hyderabad", "Karnal", "Cuttack", "Coimbatore"],
-    correct: 2,
+    options: ["Cuttack", "Hyderabad", "Karnal", "Coimbatore"],
+    correct: 0,
     explanation: "CRRI is located at Cuttack, Odisha. It conducts research on rice improvement and production technologies."
   },
   {
@@ -91,8 +91,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "Which branch of agriculture deals with the study of crop production and soil management?",
-    options: ["Horticulture", "Agronomy", "Silviculture", "Floriculture"],
-    correct: 1,
+    options: ["Horticulture", "Floriculture", "Agronomy", "Silviculture"],
+    correct: 2,
     explanation: "Agronomy is the branch of agriculture that deals with the theory and practice of crop production and soil management."
   },
   {
@@ -101,8 +101,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "The study of fruits and vegetables as crops is called:",
-    options: ["Agronomy", "Pomology", "Horticulture", "Olericulture"],
-    correct: 2,
+    options: ["Horticulture", "Olericulture", "Agronomy", "Pomology"],
+    correct: 0,
     explanation: "Horticulture includes the study of fruits (Pomology), vegetables (Olericulture), flowers (Floriculture), and ornamental plants."
   },
   {
@@ -111,7 +111,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "Who is called the 'Father of Indian Agriculture'?",
-    options: ["M.S. Swaminathan", "Norman Borlaug", "N.G. Ranga", "B.P. Pal"],
+    options: ["M.S. Swaminathan", "Norman Borlaug", "B.P. Pal", "N.G. Ranga"],
     correct: 0,
     explanation: "Dr. M.S. Swaminathan is widely called the Father of Indian Agriculture due to his transformative contributions to Indian farming."
   },
@@ -121,7 +121,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "National Academy of Agricultural Sciences (NAAS) is located at:",
-    options: ["Hyderabad", "New Delhi", "Pune", "Bangalore"],
+    options: ["Pune", "New Delhi", "Hyderabad", "Bangalore"],
     correct: 1,
     explanation: "NAAS is located at New Delhi and recognizes eminent scientists who have made outstanding contributions to agricultural sciences."
   },
@@ -131,8 +131,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "The branch of agriculture dealing with the management of forests is called:",
-    options: ["Agronomy", "Horticulture", "Silviculture", "Olericulture"],
-    correct: 2,
+    options: ["Silviculture", "Agronomy", "Horticulture", "Olericulture"],
+    correct: 0,
     explanation: "Silviculture is the branch of agriculture that deals with the cultivation and management of forest trees."
   },
   {
@@ -141,8 +141,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "The science of rearing silkworms for silk production is called:",
-    options: ["Apiculture", "Pisciculture", "Sericulture", "Aquaculture"],
-    correct: 2,
+    options: ["Aquaculture", "Sericulture", "Pisciculture", "Apiculture"],
+    correct: 1,
     explanation: "Sericulture is the science of rearing silkworms (Bombyx mori) for silk production."
   },
   {
@@ -151,8 +151,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "DRR (Directorate of Rice Research) is located at:",
-    options: ["Cuttack, Odisha", "Hyderabad, Telangana", "Karnal, Haryana", "Nagpur, Maharashtra"],
-    correct: 1,
+    options: ["Karnal, Haryana", "Nagpur, Maharashtra", "Hyderabad, Telangana", "Cuttack, Odisha"],
+    correct: 2,
     explanation: "DRR (Directorate of Rice Research), now ICAR-Indian Institute of Rice Research (IIRR), is located at Rajendranagar, Hyderabad."
   },
   {
@@ -161,8 +161,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "Who is known as the 'Father of Soil Science'?",
-    options: ["Dokuchaev", "Justus von Liebig", "C.F. Marbut", "M.S. Swaminathan"],
-    correct: 0,
+    options: ["M.S. Swaminathan", "C.F. Marbut", "Justus von Liebig", "Dokuchaev"],
+    correct: 3,
     explanation: "V.V. Dokuchaev, a Russian scientist, is known as the Father of Soil Science for his pioneering work on pedology."
   },
   {
@@ -171,7 +171,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "The National Institute of Agricultural Extension Management (MANAGE) is located at:",
-    options: ["Hyderabad", "New Delhi", "Anand (Gujarat)", "Bhopal"],
+    options: ["Hyderabad", "Bhopal", "Anand (Gujarat)", "New Delhi"],
     correct: 0,
     explanation: "MANAGE is located at Hyderabad, Telangana. It provides training in agricultural extension management."
   },
@@ -185,8 +185,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "The average annual rainfall of Telangana state is approximately:",
-    options: ["500–600 mm", "700–800 mm", "900–1000 mm", "1200–1400 mm"],
-    correct: 2,
+    options: ["1200–1400 mm", "500–600 mm", "700–800 mm", "900–1000 mm"],
+    correct: 3,
     explanation: "Telangana receives an average annual rainfall of about 900–1000 mm, predominantly from the South-West monsoon."
   },
   {
@@ -195,7 +195,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Which of the following is NOT one of the Agro-climatic zones of Telangana?",
-    options: ["Northern Telangana Zone (NTZ)", "Central Telangana Zone (CTZ)", "Eastern Telangana Zone (ETZ)", "Southern Telangana Zone (STZ)"],
+    options: ["Northern Telangana Zone (NTZ)", "Southern Telangana Zone (STZ)", "Eastern Telangana Zone (ETZ)", "Central Telangana Zone (CTZ)"],
     correct: 2,
     explanation: "Telangana has four agro-climatic zones: NTZ, CTZ, STZ, and High Altitude zone. There is no Eastern Telangana Zone (ETZ)."
   },
@@ -205,8 +205,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "The Northern Telangana Zone (NTZ) includes which of the following districts?",
-    options: ["Nalgonda, Suryapet", "Nizamabad, Karimnagar, Adilabad", "Rangareddy, Mahbubnagar", "Khammam, Bhadradri"],
-    correct: 1,
+    options: ["Rangareddy, Mahbubnagar", "Khammam, Bhadradri", "Nizamabad, Karimnagar, Adilabad", "Nalgonda, Suryapet"],
+    correct: 2,
     explanation: "NTZ includes Nizamabad, Karimnagar (Rajanna Sircilla), Jagitial, Peddapalli, Mancherial, Nirmal, Adilabad, Kumuram Bheem, and Asifabad districts."
   },
   {
@@ -215,8 +215,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "The difference between weather and climate is:",
-    options: ["Weather deals with long-term atmospheric conditions; climate is short-term", "Weather is the atmospheric condition at a place for a short period; climate is the average over 30+ years", "Weather and climate are the same", "Climate refers to rainfall only; weather refers to temperature only"],
-    correct: 1,
+    options: ["Weather is the atmospheric condition at a place for a short period; climate is the average over 30+ years", "Climate refers to rainfall only; weather refers to temperature only", "Weather and climate are the same", "Weather deals with long-term atmospheric conditions; climate is short-term"],
+    correct: 0,
     explanation: "Weather refers to the atmospheric conditions at a particular place for a short period (daily/weekly), whereas climate is the average weather conditions of a place over a long period (30+ years)."
   },
   {
@@ -225,8 +225,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Kharif season in Telangana corresponds to:",
-    options: ["October to March", "June to September", "March to May", "November to February"],
-    correct: 1,
+    options: ["June to September", "November to February", "March to May", "October to March"],
+    correct: 0,
     explanation: "Kharif (summer/rainy) season corresponds to June–September (SW monsoon). Crops are sown with onset of monsoon and harvested after monsoon."
   },
   {
@@ -235,8 +235,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Rabi season crops are sown in:",
-    options: ["June–July", "September–November", "February–March", "April–May"],
-    correct: 1,
+    options: ["February–March", "June–July", "September–November", "April–May"],
+    correct: 2,
     explanation: "Rabi crops are sown in October–November after the monsoon recedes and are harvested in February–March."
   },
   {
@@ -245,8 +245,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "The instrument used to measure rainfall is:",
-    options: ["Thermometer", "Hygrometer", "Rain gauge", "Barometer"],
-    correct: 2,
+    options: ["Thermometer", "Barometer", "Hygrometer", "Rain gauge"],
+    correct: 3,
     explanation: "Rainfall is measured using a rain gauge. The standard rain gauge used in India has an 8-inch diameter funnel."
   },
   {
@@ -255,7 +255,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "South-West monsoon contributes about what percentage of total annual rainfall in Telangana?",
-    options: ["30–40%", "50–60%", "70–80%", "90–95%"],
+    options: ["90–95%", "50–60%", "70–80%", "30–40%"],
     correct: 2,
     explanation: "About 70–80% of Telangana's annual rainfall is received from the South-West monsoon (June to September)."
   },
@@ -265,8 +265,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Which zone of Telangana is characterized by deep black cotton soils and moderate rainfall?",
-    options: ["Northern Telangana Zone", "Central Telangana Zone", "Southern Telangana Zone", "High Altitude Zone"],
-    correct: 1,
+    options: ["Southern Telangana Zone", "High Altitude Zone", "Central Telangana Zone", "Northern Telangana Zone"],
+    correct: 2,
     explanation: "The Central Telangana Zone (CTZ) is characterized by deep black cotton (vertisol) soils and moderate to good rainfall."
   },
   {
@@ -275,8 +275,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "The Zaid season (summer season) extends from:",
-    options: ["June to September", "October to November", "March to June", "January to February"],
-    correct: 2,
+    options: ["June to September", "January to February", "October to November", "March to June"],
+    correct: 3,
     explanation: "Zaid or summer season extends from March to June. Short-duration crops like watermelon, cucumbers, and some vegetables are grown."
   },
   {
@@ -285,8 +285,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "An agro-climatic zone is defined on the basis of:",
-    options: ["Soil texture alone", "Rainfall alone", "Temperature alone", "Homogeneity in rainfall, temperature, soil type, and cropping pattern"],
-    correct: 3,
+    options: ["Rainfall alone", "Homogeneity in rainfall, temperature, soil type, and cropping pattern", "Soil texture alone", "Temperature alone"],
+    correct: 1,
     explanation: "An agro-climatic zone is a relatively homogeneous land unit in terms of climate, soil, hydrology, and cropping pattern."
   },
   {
@@ -295,8 +295,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "The instrument used to measure atmospheric humidity is:",
-    options: ["Barometer", "Hygrometer", "Anemometer", "Thermometer"],
-    correct: 1,
+    options: ["Hygrometer", "Thermometer", "Barometer", "Anemometer"],
+    correct: 0,
     explanation: "Hygrometer (or psychrometer) is used to measure relative humidity of the atmosphere."
   },
   {
@@ -305,8 +305,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Which district of Telangana falls in the High Altitude Zone?",
-    options: ["Nizamabad", "Nalgonda", "Mulugu (Bhadrachalam Agency)", "Ranga Reddy"],
-    correct: 2,
+    options: ["Nizamabad", "Mulugu (Bhadrachalam Agency)", "Nalgonda", "Ranga Reddy"],
+    correct: 1,
     explanation: "The Tribal / High Altitude Zone of Telangana includes areas like the Agency tracts of Mulugu (Bhadrachalam), Kumuram Bheem-Asifabad districts."
   },
   {
@@ -315,7 +315,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Wind speed is measured by:",
-    options: ["Hygrometer", "Barometer", "Anemometer", "Wind vane"],
+    options: ["Hygrometer", "Wind vane", "Anemometer", "Barometer"],
     correct: 2,
     explanation: "An anemometer measures wind speed. A wind vane measures wind direction."
   },
@@ -325,8 +325,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "The phenomenon of 'El Niño' is associated with:",
-    options: ["Excess monsoon rainfall in India", "Deficit monsoon rainfall in India", "High temperatures in winter", "Increased Rabi crop production"],
-    correct: 1,
+    options: ["Increased Rabi crop production", "Excess monsoon rainfall in India", "High temperatures in winter", "Deficit monsoon rainfall in India"],
+    correct: 3,
     explanation: "El Niño (warming of Pacific Ocean waters) is often associated with weak or deficit South-West monsoon rainfall in India."
   },
   {
@@ -335,8 +335,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "The Southern Telangana Zone (STZ) covers which type of soil predominantly?",
-    options: ["Sandy loam soils", "Red sandy soils and shallow red soils", "Deep black cotton soils", "Laterite soils"],
-    correct: 1,
+    options: ["Red sandy soils and shallow red soils", "Laterite soils", "Deep black cotton soils", "Sandy loam soils"],
+    correct: 0,
     explanation: "The Southern Telangana Zone is dominated by red sandy and red loamy soils, covering districts like Mahabubnagar, Nagarkurnool, and Nalgonda."
   },
 
@@ -349,8 +349,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Tillage is defined as:",
-    options: ["Application of fertilizers to soil", "Mechanical manipulation of soil for crop production", "Irrigation of soil before sowing", "Removal of weeds from the field"],
-    correct: 1,
+    options: ["Mechanical manipulation of soil for crop production", "Irrigation of soil before sowing", "Removal of weeds from the field", "Application of fertilizers to soil"],
+    correct: 0,
     explanation: "Tillage is the mechanical manipulation of soil to create favorable conditions for seed germination, plant growth, and crop production."
   },
   {
@@ -359,8 +359,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Primary tillage is done to:",
-    options: ["Prepare a fine seedbed", "Kill weeds between rows", "Break the soil to full depth for first working", "Apply fertilizers into the soil"],
-    correct: 2,
+    options: ["Break the soil to full depth for first working", "Kill weeds between rows", "Prepare a fine seedbed", "Apply fertilizers into the soil"],
+    correct: 0,
     explanation: "Primary tillage is the initial soil working operation that breaks and loosens soil to depth, incorporating crop residues and preparing for secondary tillage."
   },
   {
@@ -369,8 +369,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Which implement is used for primary tillage?",
-    options: ["Rotavator", "Disc harrow", "Mould board plough", "Cultivator"],
-    correct: 2,
+    options: ["Mould board plough", "Rotavator", "Cultivator", "Disc harrow"],
+    correct: 0,
     explanation: "Mould board plough is used for primary tillage (deep ploughing). It inverts the soil and buries crop residues."
   },
   {
@@ -379,7 +379,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Zero tillage means:",
-    options: ["Ploughing the soil twice before sowing", "Sowing without any prior soil disturbance", "Applying herbicides before ploughing", "Subsoiling at 60 cm depth"],
+    options: ["Ploughing the soil twice before sowing", "Sowing without any prior soil disturbance", "Subsoiling at 60 cm depth", "Applying herbicides before ploughing"],
     correct: 1,
     explanation: "Zero tillage (no-till farming) involves sowing seeds directly into undisturbed soil without prior ploughing, using a zero-till seed drill."
   },
@@ -389,8 +389,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Which of the following is a benefit of zero tillage?",
-    options: ["Better weed control by soil inversion", "Conservation of soil moisture and reduced erosion", "Deeper root penetration", "Incorporation of green manures"],
-    correct: 1,
+    options: ["Better weed control by soil inversion", "Incorporation of green manures", "Conservation of soil moisture and reduced erosion", "Deeper root penetration"],
+    correct: 2,
     explanation: "Zero tillage conserves soil moisture, reduces wind and water erosion, saves fuel and time, and improves soil organic matter over time."
   },
   {
@@ -399,8 +399,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Minimum tillage aims to:",
-    options: ["Maximize soil disturbance for best seedbed", "Reduce the number of tillage operations while maintaining yields", "Increase the depth of ploughing", "Eliminate all organic matter in soil"],
-    correct: 1,
+    options: ["Eliminate all organic matter in soil", "Maximize soil disturbance for best seedbed", "Increase the depth of ploughing", "Reduce the number of tillage operations while maintaining yields"],
+    correct: 3,
     explanation: "Minimum tillage reduces tillage operations to a minimum necessary for crop establishment, saving energy, labor, and reducing erosion."
   },
   {
@@ -409,8 +409,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "A hard layer formed below the plough depth due to repeated tillage at the same depth is called:",
-    options: ["Plough sole / Hardpan", "Surface crust", "Subsoil layer", "Clay pan"],
-    correct: 0,
+    options: ["Subsoil layer", "Clay pan", "Surface crust", "Plough sole / Hardpan"],
+    correct: 3,
     explanation: "Plough sole or hardpan is a compacted layer formed just below the tillage depth due to repeated ploughing at the same depth, impeding water and root movement."
   },
   {
@@ -419,8 +419,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The soil textural class with approximately equal proportions of sand, silt, and clay is:",
-    options: ["Sandy loam", "Loam", "Clay loam", "Silt loam"],
-    correct: 1,
+    options: ["Silt loam", "Clay loam", "Loam", "Sandy loam"],
+    correct: 2,
     explanation: "Loam is the ideal soil textural class with roughly balanced proportions of sand, silt, and clay, offering good drainage and nutrient retention."
   },
   {
@@ -429,8 +429,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Which soil is commonly called 'black cotton soil' in Telangana?",
-    options: ["Alfisol", "Vertisol", "Entisol", "Inceptisol"],
-    correct: 1,
+    options: ["Vertisol", "Alfisol", "Inceptisol", "Entisol"],
+    correct: 0,
     explanation: "Vertisols are the black cotton soils of Telangana. They are characterized by high clay content (smectite), deep cracks when dry, and high water-holding capacity."
   },
   {
@@ -439,7 +439,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Conservation tillage is defined as any tillage system that:",
-    options: ["Uses the maximum number of tillage passes", "Leaves at least 30% of crop residue on the soil surface", "Inverts the soil completely with each pass", "Is performed only during drought conditions"],
+    options: ["Uses the maximum number of tillage passes", "Leaves at least 30% of crop residue on the soil surface", "Is performed only during drought conditions", "Inverts the soil completely with each pass"],
     correct: 1,
     explanation: "Conservation tillage is any tillage system that leaves at least 30% of the soil surface covered with crop residues to reduce erosion."
   },
@@ -449,8 +449,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Deep ploughing (subsoiling) is recommended for:",
-    options: ["Breaking the hardpan and improving root penetration", "Preparing a fine seedbed for small seeds", "Controlling weeds between rows", "Incorporating surface-applied fertilizers"],
-    correct: 0,
+    options: ["Preparing a fine seedbed for small seeds", "Incorporating surface-applied fertilizers", "Breaking the hardpan and improving root penetration", "Controlling weeds between rows"],
+    correct: 2,
     explanation: "Subsoiling breaks the hardpan below tillage depth, improving root penetration, water infiltration, and drainage in compact soils."
   },
   {
@@ -459,8 +459,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Puddling of soil is commonly practiced for:",
-    options: ["Dryland wheat", "Transplanted rice", "Irrigated groundnut", "Sugarcane ratoon"],
-    correct: 1,
+    options: ["Irrigated groundnut", "Sugarcane ratoon", "Dryland wheat", "Transplanted rice"],
+    correct: 3,
     explanation: "Puddling is the wet tillage of saturated soil to destroy soil structure and reduce percolation losses. It is essential for transplanted rice to maintain standing water."
   },
   {
@@ -469,8 +469,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The rotavator is used mainly for:",
-    options: ["Primary deep tillage", "Secondary tillage – fine seedbed preparation", "Harvesting operations", "Weed chemical application"],
-    correct: 1,
+    options: ["Secondary tillage – fine seedbed preparation", "Primary deep tillage", "Harvesting operations", "Weed chemical application"],
+    correct: 0,
     explanation: "The rotavator (rotary tiller) is used for secondary tillage to break clods and prepare a fine, firm seedbed, especially in hard soils."
   },
   {
@@ -479,8 +479,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Bulk density of soil is defined as:",
-    options: ["Weight of soil per unit volume of solids only", "Weight of oven-dry soil per unit bulk volume (including pore space)", "Volume of pores per volume of soil", "Ratio of solid particles to water in soil"],
-    correct: 1,
+    options: ["Weight of oven-dry soil per unit bulk volume (including pore space)", "Weight of soil per unit volume of solids only", "Ratio of solid particles to water in soil", "Volume of pores per volume of soil"],
+    correct: 0,
     explanation: "Bulk density = mass of oven-dry soil / total volume (solids + pores). Higher bulk density indicates more compaction and less pore space."
   },
   {
@@ -489,8 +489,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The optimum bulk density range for most crop soils is:",
-    options: ["0.5–0.8 g/cc", "1.1–1.3 g/cc", "1.6–1.8 g/cc", "2.0–2.2 g/cc"],
-    correct: 1,
+    options: ["1.6–1.8 g/cc", "2.0–2.2 g/cc", "1.1–1.3 g/cc", "0.5–0.8 g/cc"],
+    correct: 2,
     explanation: "Most crops grow well in soils with bulk density of 1.1–1.3 g/cc. Above 1.6 g/cc, root penetration becomes difficult."
   },
 
@@ -503,8 +503,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "In broadcasting method of sowing, seeds are:",
-    options: ["Placed in rows at uniform depth", "Scattered uniformly over the entire field surface", "Placed individually in holes at specific intervals", "Sown by transplanting from nursery"],
-    correct: 1,
+    options: ["Placed in rows at uniform depth", "Sown by transplanting from nursery", "Scattered uniformly over the entire field surface", "Placed individually in holes at specific intervals"],
+    correct: 2,
     explanation: "Broadcasting involves scattering seeds uniformly over the entire field surface by hand or mechanically. It requires more seed and gives uneven distribution."
   },
   {
@@ -513,8 +513,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "The recommended seed rate for rice (transplanting method) per acre is:",
-    options: ["5–6 kg/acre", "20–25 kg/acre", "30–36 kg/acre", "50–60 kg/acre"],
-    correct: 1,
+    options: ["30–36 kg/acre", "50–60 kg/acre", "20–25 kg/acre", "5–6 kg/acre"],
+    correct: 2,
     explanation: "For transplanted rice, 20–25 kg seed/acre is needed for nursery preparation to transplant one acre of main field."
   },
   {
@@ -533,8 +533,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "The seed rate for maize (hybrid) per acre is approximately:",
-    options: ["2–3 kg/acre", "8–10 kg/acre", "18–20 kg/acre", "25–30 kg/acre"],
-    correct: 1,
+    options: ["8–10 kg/acre", "2–3 kg/acre", "25–30 kg/acre", "18–20 kg/acre"],
+    correct: 0,
     explanation: "Hybrid maize requires about 8–10 kg seed per acre to achieve the recommended plant population of 33,000–37,000 plants/acre."
   },
   {
@@ -543,8 +543,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "The recommended seed rate for wheat per acre is:",
-    options: ["10–15 kg/acre", "35–40 kg/acre", "60–70 kg/acre", "80–100 kg/acre"],
-    correct: 1,
+    options: ["60–70 kg/acre", "10–15 kg/acre", "80–100 kg/acre", "35–40 kg/acre"],
+    correct: 3,
     explanation: "Wheat requires 35–40 kg seed per acre (87–100 kg/ha) for optimal plant stands with broadcasting or drilling method."
   },
   {
@@ -553,8 +553,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "The method of sowing best suited for paddy (rice) in SRI is:",
-    options: ["Broadcasting", "Transplanting young single seedlings (8–12 days old)", "Direct seeding by drill", "Dibbling"],
-    correct: 1,
+    options: ["Direct seeding by drill", "Broadcasting", "Transplanting young single seedlings (8–12 days old)", "Dibbling"],
+    correct: 2,
     explanation: "SRI (System of Rice Intensification) uses very young seedlings (8–12 days old, single seedling per hill) transplanted at wider spacing of 25×25 cm."
   },
   {
@@ -563,8 +563,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Optimum seed sowing depth for cotton is:",
-    options: ["0.5–1.0 cm", "1–2 cm", "3–4 cm", "5–7 cm"],
-    correct: 2,
+    options: ["5–7 cm", "3–4 cm", "0.5–1.0 cm", "1–2 cm"],
+    correct: 1,
     explanation: "Cotton seeds are sown at 3–4 cm depth to ensure adequate moisture contact and good germination."
   },
   {
@@ -583,8 +583,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Seed treatment with thiram or captan is done to protect seeds from:",
-    options: ["Insect pests during germination", "Soil-borne fungal diseases", "Nematodes", "Poor germination due to cold"],
-    correct: 1,
+    options: ["Nematodes", "Poor germination due to cold", "Insect pests during germination", "Soil-borne fungal diseases"],
+    correct: 3,
     explanation: "Thiram and captan are fungicides used as seed treatment to protect seeds and seedlings from soil-borne fungal pathogens like damping off."
   },
   {
@@ -603,8 +603,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Which sowing method is most suitable for small-seeded crops like sorghum and pearl millet?",
-    options: ["Dibbling", "Transplanting", "Drilling in rows", "Random broadcasting followed by harrowing"],
-    correct: 2,
+    options: ["Random broadcasting followed by harrowing", "Drilling in rows", "Transplanting", "Dibbling"],
+    correct: 1,
     explanation: "Drilling in rows using a seed drill ensures proper depth, spacing, and seed rate for small-seeded crops like sorghum and pearl millet."
   },
   {
@@ -613,8 +613,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "The recommended seed depth for small-seeded legumes like blackgram is:",
-    options: ["0.5–1 cm", "2–3 cm", "5–6 cm", "8–10 cm"],
-    correct: 1,
+    options: ["2–3 cm", "5–6 cm", "8–10 cm", "0.5–1 cm"],
+    correct: 0,
     explanation: "Small-seeded legumes like blackgram and greengram are sown at 2–3 cm depth to ensure good emergence without excessive energy expenditure."
   },
   {
@@ -633,8 +633,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "The seed rate for cotton (Bt hybrid) per acre is approximately:",
-    options: ["1 packet (450 g)", "5–6 kg/acre", "15–20 kg/acre", "50 g/acre"],
-    correct: 0,
+    options: ["50 g/acre", "1 packet (450 g)", "15–20 kg/acre", "5–6 kg/acre"],
+    correct: 1,
     explanation: "Bt cotton hybrid seeds are sold in packets of 450 g (one packet per acre), sufficient for the recommended plant population."
   },
   {
@@ -643,7 +643,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Optimum plant population for transplanted rice per hectare is approximately:",
-    options: ["50,000 hills/ha", "1,00,000 hills/ha", "2,00,000 hills/ha (at 20×25 cm spacing)", "5,00,000 hills/ha"],
+    options: ["5,00,000 hills/ha", "50,000 hills/ha", "2,00,000 hills/ha (at 20×25 cm spacing)", "1,00,000 hills/ha"],
     correct: 2,
     explanation: "At 20×25 cm spacing (standard for transplanted rice), 10,000 m²/ha ÷ (0.20 × 0.25 m) = 2,00,000 hills/ha. At 25×25 cm it is 1,60,000/ha."
   },
@@ -657,8 +657,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "How many essential nutrients are required by plants for their normal growth?",
-    options: ["12", "14", "17", "20"],
-    correct: 2,
+    options: ["20", "17", "12", "14"],
+    correct: 1,
     explanation: "There are 17 essential plant nutrients: C, H, O (from air/water) + N, P, K, Ca, Mg, S (macronutrients) + Fe, Mn, Zn, Cu, B, Mo, Cl, Ni (micronutrients)."
   },
   {
@@ -667,8 +667,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "The 'Law of Minimum' was given by:",
-    options: ["J.B. Lawes", "Justus von Liebig", "C.G. Hopkins", "Blackman"],
-    correct: 1,
+    options: ["Justus von Liebig", "C.G. Hopkins", "Blackman", "J.B. Lawes"],
+    correct: 0,
     explanation: "Justus von Liebig proposed the Law of Minimum – crop growth is limited by the nutrient in shortest supply relative to crop requirement."
   },
   {
@@ -677,8 +677,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Basal application of fertilizer means:",
-    options: ["Application of fertilizer after crop establishment", "Application of fertilizer at sowing/planting time in the root zone", "Foliar spray of nutrients on leaves", "Application of fertilizers through irrigation water"],
-    correct: 1,
+    options: ["Application of fertilizer at sowing/planting time in the root zone", "Application of fertilizers through irrigation water", "Foliar spray of nutrients on leaves", "Application of fertilizer after crop establishment"],
+    correct: 0,
     explanation: "Basal application involves incorporating fertilizer into the soil at the time of sowing or planting, usually as a band or broadcast before tillage."
   },
   {
@@ -687,8 +687,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Top dressing of fertilizer refers to:",
-    options: ["Applying fertilizer at the time of last ploughing", "Applying nitrogen fertilizer to standing crops after establishment", "Foliar application of micronutrients", "Deep placement of phosphate fertilizers"],
-    correct: 1,
+    options: ["Foliar application of micronutrients", "Applying fertilizer at the time of last ploughing", "Deep placement of phosphate fertilizers", "Applying nitrogen fertilizer to standing crops after establishment"],
+    correct: 3,
     explanation: "Top dressing is applying fertilizers (mainly N) to standing crops after establishment (e.g., at tillering, jointing stage) to support vegetative growth."
   },
   {
@@ -697,8 +697,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Fertigation is the practice of:",
-    options: ["Applying fertilizers deep into soil using injection machines", "Dissolving and applying fertilizers through irrigation water (drip/sprinkler)", "Broadcasting fertilizers before monsoon rains", "Burning crop residue to release nutrients"],
-    correct: 1,
+    options: ["Dissolving and applying fertilizers through irrigation water (drip/sprinkler)", "Applying fertilizers deep into soil using injection machines", "Broadcasting fertilizers before monsoon rains", "Burning crop residue to release nutrients"],
+    correct: 0,
     explanation: "Fertigation is applying water-soluble fertilizers through the irrigation system (drip/sprinkler), ensuring uniform distribution and high efficiency."
   },
   {
@@ -707,8 +707,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Which macronutrient is responsible for nodule formation and biological nitrogen fixation in legumes?",
-    options: ["Phosphorus", "Potassium", "Calcium", "Molybdenum"],
-    correct: 0,
+    options: ["Molybdenum", "Phosphorus", "Potassium", "Calcium"],
+    correct: 1,
     explanation: "Phosphorus is critical for nodule development and function in legumes. Mo is an essential micronutrient for nitrogenase enzyme, but P is the key macronutrient."
   },
   {
@@ -717,8 +717,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "The recommended NPK dose for irrigated rice in Telangana (per acre) is approximately:",
-    options: ["40:20:20 kg/acre", "20:10:10 kg/acre", "60:30:30 kg/acre", "10:5:5 kg/acre"],
-    correct: 0,
+    options: ["10:5:5 kg/acre", "40:20:20 kg/acre", "60:30:30 kg/acre", "20:10:10 kg/acre"],
+    correct: 1,
     explanation: "Irrigated rice in Telangana requires approximately 40:20:20 kg N:P₂O₅:K₂O per acre (100:50:50 kg/ha)."
   },
   {
@@ -727,8 +727,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Foliar spray of nutrients is most effective for:",
-    options: ["Major nutrients like N, P, K", "Micronutrients like Zn, Fe, B, Mn", "Organic manures", "Biofertilizers"],
-    correct: 1,
+    options: ["Micronutrients like Zn, Fe, B, Mn", "Biofertilizers", "Organic manures", "Major nutrients like N, P, K"],
+    correct: 0,
     explanation: "Foliar sprays are most effective for micronutrient deficiencies (Zn, Fe, Mn, B) because small quantities are needed and leaf absorption is efficient."
   },
   {
@@ -737,8 +737,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Split application of nitrogen fertilizer is recommended because:",
-    options: ["It reduces cost of fertilizer purchase", "It minimizes leaching losses and improves nitrogen use efficiency", "It saves labor by reducing number of operations", "Urea is not stable and must be applied at once"],
-    correct: 1,
+    options: ["It minimizes leaching losses and improves nitrogen use efficiency", "Urea is not stable and must be applied at once", "It reduces cost of fertilizer purchase", "It saves labor by reducing number of operations"],
+    correct: 0,
     explanation: "Split N application reduces leaching and volatilization losses, improves NUE, and matches nitrogen supply with crop demand at critical growth stages."
   },
   {
@@ -747,8 +747,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Nitrogen percentage in urea is:",
-    options: ["16%", "21%", "34%", "46%"],
-    correct: 3,
+    options: ["34%", "46%", "21%", "16%"],
+    correct: 1,
     explanation: "Urea (CO(NH₂)₂) contains 46% nitrogen, making it the most concentrated solid nitrogenous fertilizer."
   },
   {
@@ -757,8 +757,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Which nutrient deficiency causes yellowing of older (lower) leaves first?",
-    options: ["Iron deficiency", "Zinc deficiency", "Nitrogen deficiency", "Calcium deficiency"],
-    correct: 2,
+    options: ["Calcium deficiency", "Iron deficiency", "Zinc deficiency", "Nitrogen deficiency"],
+    correct: 3,
     explanation: "Nitrogen is mobile in plants. Its deficiency shows first on older lower leaves as yellowing (chlorosis) progressing upward."
   },
   {
@@ -767,7 +767,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "The nutrient responsible for energy transfer in plants (ATP) and stored as phytin in seeds is:",
-    options: ["Nitrogen", "Phosphorus", "Potassium", "Sulfur"],
+    options: ["Nitrogen", "Phosphorus", "Sulfur", "Potassium"],
     correct: 1,
     explanation: "Phosphorus is the key component of ATP (adenosine triphosphate), the primary energy currency of cells, and is stored as phytin in seeds."
   },
@@ -777,8 +777,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "DAP (Di-Ammonium Phosphate) contains nitrogen and phosphorus in approximately:",
-    options: ["12% N and 32% P₂O₅", "18% N and 46% P₂O₅", "20% N and 20% P₂O₅", "46% N and 0% P₂O₅"],
-    correct: 1,
+    options: ["18% N and 46% P₂O₅", "46% N and 0% P₂O₅", "12% N and 32% P₂O₅", "20% N and 20% P₂O₅"],
+    correct: 0,
     explanation: "DAP contains 18% N and 46% P₂O₅, making it the most concentrated phosphatic fertilizer with substantial nitrogen content."
   },
   {
@@ -787,8 +787,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Potassium helps in which of the following functions in plants?",
-    options: ["Chlorophyll formation", "Stomatal regulation and drought tolerance", "Protein synthesis only", "Cell division in shoot tips"],
-    correct: 1,
+    options: ["Stomatal regulation and drought tolerance", "Protein synthesis only", "Chlorophyll formation", "Cell division in shoot tips"],
+    correct: 0,
     explanation: "Potassium regulates stomatal opening/closing, improves water-use efficiency, enhances drought tolerance, and strengthens cell walls."
   },
   {
@@ -797,8 +797,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Which of the following is a slow-release nitrogen fertilizer?",
-    options: ["Urea", "Ammonium sulphate", "Neem-coated urea", "Calcium ammonium nitrate (CAN)"],
-    correct: 2,
+    options: ["Neem-coated urea", "Ammonium sulphate", "Calcium ammonium nitrate (CAN)", "Urea"],
+    correct: 0,
     explanation: "Neem-coated urea has a neem oil coating that inhibits nitrification, releasing nitrogen slowly and improving NUE compared to plain urea."
   },
 
@@ -811,8 +811,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "A weed is defined as:",
-    options: ["Any plant that is poisonous to livestock", "A plant growing where it is not wanted and causing economic loss", "Any plant growing in wasteland", "A parasitic plant only"],
-    correct: 1,
+    options: ["A plant growing where it is not wanted and causing economic loss", "Any plant growing in wasteland", "A parasitic plant only", "Any plant that is poisonous to livestock"],
+    correct: 0,
     explanation: "A weed is a plant growing where it is not wanted or desired, competing with crops and causing economic loss in yield."
   },
   {
@@ -821,8 +821,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "The critical period of weed competition in most crops is:",
-    options: ["At harvest time", "First 2–6 weeks after crop emergence", "During crop flowering", "At seed filling stage"],
-    correct: 1,
+    options: ["During crop flowering", "At harvest time", "At seed filling stage", "First 2–6 weeks after crop emergence"],
+    correct: 3,
     explanation: "The critical period of weed competition is the first 2–6 weeks after crop emergence when weeds cause maximum yield loss if not controlled."
   },
   {
@@ -831,8 +831,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Parthenium (congress grass) is classified as:",
-    options: ["Sedge weed", "Grass weed", "Broadleaf weed (dicot)", "Aquatic weed"],
-    correct: 2,
+    options: ["Broadleaf weed (dicot)", "Sedge weed", "Grass weed", "Aquatic weed"],
+    correct: 0,
     explanation: "Parthenium hysterophorus (congress grass / carrot grass) is a broadleaf (dicot) weed that causes allergic reactions in humans."
   },
   {
@@ -841,8 +841,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Which of the following herbicides is used as a pre-emergence herbicide in rice?",
-    options: ["2,4-D", "Butachlor", "Glyphosate", "Atrazine"],
-    correct: 1,
+    options: ["2,4-D", "Atrazine", "Butachlor", "Glyphosate"],
+    correct: 2,
     explanation: "Butachlor is a pre-emergence herbicide applied 3–5 days after transplanting in rice fields to control annual grasses and some broadleaf weeds."
   },
   {
@@ -851,8 +851,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "2,4-D is a selective herbicide effective against:",
-    options: ["Narrow-leaf (grass) weeds", "Broadleaf (dicot) weeds", "Sedges only", "All weeds equally"],
-    correct: 1,
+    options: ["Sedges only", "Narrow-leaf (grass) weeds", "All weeds equally", "Broadleaf (dicot) weeds"],
+    correct: 3,
     explanation: "2,4-D is a selective broadleaf herbicide (synthetic auxin) that controls dicotyledonous weeds in cereal crops like rice and wheat."
   },
   {
@@ -861,7 +861,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Glyphosate is classified as:",
-    options: ["Selective pre-emergence grass herbicide", "Non-selective, post-emergence, systemic herbicide", "Selective broadleaf herbicide", "Contact herbicide for sedges"],
+    options: ["Selective broadleaf herbicide", "Non-selective, post-emergence, systemic herbicide", "Selective pre-emergence grass herbicide", "Contact herbicide for sedges"],
     correct: 1,
     explanation: "Glyphosate is a non-selective, systemic, post-emergence herbicide that kills all actively growing plants by inhibiting the EPSPS enzyme."
   },
@@ -871,7 +871,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Cyperus rotundus (purple nutsedge / nutgrass) belongs to which weed category?",
-    options: ["Grass weeds", "Broadleaf weeds", "Sedge weeds", "Aquatic weeds"],
+    options: ["Broadleaf weeds", "Grass weeds", "Sedge weeds", "Aquatic weeds"],
     correct: 2,
     explanation: "Cyperus rotundus (nutgrass / motha) is the most problematic sedge weed, belonging to family Cyperaceae. It is very difficult to control due to tubers."
   },
@@ -881,8 +881,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "The Weed Index (WI) measures:",
-    options: ["The number of weed species in a field", "The percentage yield loss caused by weeds", "The number of herbicide applications required", "The economic threshold of weeds"],
-    correct: 1,
+    options: ["The percentage yield loss caused by weeds", "The economic threshold of weeds", "The number of weed species in a field", "The number of herbicide applications required"],
+    correct: 0,
     explanation: "Weed Index = [(Yield in weed-free − Yield in weedy plot) / Yield in weed-free] × 100. It measures % yield reduction due to weed competition."
   },
   {
@@ -891,8 +891,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Atrazine is a selective herbicide commonly used in:",
-    options: ["Rice", "Maize (corn)", "Wheat", "Sugarcane only"],
-    correct: 1,
+    options: ["Rice", "Sugarcane only", "Maize (corn)", "Wheat"],
+    correct: 2,
     explanation: "Atrazine is a triazine herbicide used as pre-emergence/early post-emergence in maize for controlling broadleaf and grass weeds."
   },
   {
@@ -901,8 +901,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Allelopathy in weed management refers to:",
-    options: ["Chemical toxicity of herbicides to weeds", "Release of chemical substances by one plant that inhibit growth of another", "Mechanical removal of weeds by hand", "Biological control using insects"],
-    correct: 1,
+    options: ["Chemical toxicity of herbicides to weeds", "Mechanical removal of weeds by hand", "Release of chemical substances by one plant that inhibit growth of another", "Biological control using insects"],
+    correct: 2,
     explanation: "Allelopathy is the phenomenon where a plant releases chemical compounds (allelochemicals) that inhibit germination or growth of neighboring plants/weeds."
   },
   {
@@ -911,8 +911,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Pendimethalin is used as a:",
-    options: ["Post-emergence broadleaf herbicide", "Pre-plant incorporated or pre-emergence herbicide", "Systemic grass herbicide", "Non-selective total herbicide"],
-    correct: 1,
+    options: ["Systemic grass herbicide", "Non-selective total herbicide", "Pre-plant incorporated or pre-emergence herbicide", "Post-emergence broadleaf herbicide"],
+    correct: 2,
     explanation: "Pendimethalin is a pre-emergence dinitroaniline herbicide applied before or at sowing to control annual grasses and broadleaf weeds in many crops."
   },
   {
@@ -921,8 +921,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "The most problematic aquatic weed in rice paddies of Telangana is:",
-    options: ["Parthenium", "Eichhornia crassipes (water hyacinth)", "Cyperus difformis", "Ageratum conyzoides"],
-    correct: 2,
+    options: ["Ageratum conyzoides", "Cyperus difformis", "Parthenium", "Eichhornia crassipes (water hyacinth)"],
+    correct: 1,
     explanation: "Cyperus difformis (flat sedge) and Echinochloa species are major paddy weeds, while Eichhornia clogs canals and reservoirs but Cyperus difformis is the key rice-paddy sedge."
   },
   {
@@ -931,8 +931,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Hand weeding is most efficient when done at:",
-    options: ["Pre-germination stage", "2–4 leaf stage of weeds", "After weeds have set seed", "At crop maturity"],
-    correct: 1,
+    options: ["After weeds have set seed", "Pre-germination stage", "At crop maturity", "2–4 leaf stage of weeds"],
+    correct: 3,
     explanation: "Hand weeding is most effective when weeds are at 2–4 leaf stage (young), before they establish deep roots or set seeds."
   },
   {
@@ -941,8 +941,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Crop rotation helps in weed management because:",
-    options: ["Same crop depletes weed seeds over seasons", "Changing crops disrupts life cycle of weed species adapted to one crop", "Rotation always involves fallow periods that kill all weeds", "Rotation reduces need for any fertilizer"],
-    correct: 1,
+    options: ["Same crop depletes weed seeds over seasons", "Rotation always involves fallow periods that kill all weeds", "Changing crops disrupts life cycle of weed species adapted to one crop", "Rotation reduces need for any fertilizer"],
+    correct: 2,
     explanation: "Crop rotation disrupts the life cycle and adaptation of weed species specific to one crop, preventing build-up of any particular weed population."
   },
   {
@@ -951,8 +951,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "A post-emergence herbicide is applied:",
-    options: ["Before sowing", "After sowing but before crop emergence", "After both crop and weed have emerged", "At the time of sowing along with seed"],
-    correct: 2,
+    options: ["At the time of sowing along with seed", "After both crop and weed have emerged", "Before sowing", "After sowing but before crop emergence"],
+    correct: 1,
     explanation: "Post-emergence herbicides are applied after both the crop and weeds have emerged from the soil to selectively control weed growth."
   },
 
@@ -965,7 +965,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Irrigation scheduling based on IW:CPE ratio of 0.75–1.0 is commonly followed for which crop?",
-    options: ["Rice", "Groundnut", "Wheat", "Cotton"],
+    options: ["Cotton", "Groundnut", "Wheat", "Rice"],
     correct: 2,
     explanation: "IW:CPE (Irrigation Water to Cumulative Pan Evaporation) ratio of 0.75–1.0 is used for scheduling irrigations in wheat to maximize water use efficiency."
   },
@@ -975,7 +975,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Drip irrigation is most efficient because:",
-    options: ["Water is sprayed over large area uniformly", "Water is applied directly to the root zone with minimal losses", "It uses gravity flow without pumping", "Water is flooded in the entire field"],
+    options: ["Water is sprayed over large area uniformly", "Water is applied directly to the root zone with minimal losses", "Water is flooded in the entire field", "It uses gravity flow without pumping"],
     correct: 1,
     explanation: "Drip irrigation delivers water slowly and directly to the plant root zone through emitters, minimizing evaporation and runoff losses. Efficiency is 85–95%."
   },
@@ -985,8 +985,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Water Use Efficiency (WUE) is expressed as:",
-    options: ["Crop yield per unit land area", "Crop yield per unit of water applied/evapotranspired", "Total water applied divided by crop duration", "Water stored in soil profile"],
-    correct: 1,
+    options: ["Crop yield per unit of water applied/evapotranspired", "Total water applied divided by crop duration", "Crop yield per unit land area", "Water stored in soil profile"],
+    correct: 0,
     explanation: "WUE = Crop yield / Water consumed (evapotranspiration). It indicates how efficiently a crop converts water into dry matter or grain."
   },
   {
@@ -995,8 +995,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "The most critical stage for irrigation in rice is:",
-    options: ["At 30 days after transplanting", "Panicle initiation to grain filling stage", "At harvest maturity", "At 10 days after transplanting"],
-    correct: 1,
+    options: ["At harvest maturity", "At 10 days after transplanting", "Panicle initiation to grain filling stage", "At 30 days after transplanting"],
+    correct: 2,
     explanation: "The most critical water requirement for rice is from panicle initiation through grain filling. Water stress at this stage causes spikelet sterility."
   },
   {
@@ -1005,7 +1005,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Sprinkler irrigation is most suitable for:",
-    options: ["Flooded paddy fields", "Undulating terrain with sandy soils and field crops like wheat, groundnut", "Orchards with heavy clay soils", "Deep-flooded sugarcane"],
+    options: ["Orchards with heavy clay soils", "Undulating terrain with sandy soils and field crops like wheat, groundnut", "Flooded paddy fields", "Deep-flooded sugarcane"],
     correct: 1,
     explanation: "Sprinkler irrigation is ideal for undulating terrain, sandy soils, and crops like wheat, groundnut, and vegetables. Efficiency is 70–80%."
   },
@@ -1015,8 +1015,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Irrigation efficiency of flood (surface) irrigation is approximately:",
-    options: ["85–95%", "70–80%", "40–60%", "95–99%"],
-    correct: 2,
+    options: ["40–60%", "95–99%", "85–95%", "70–80%"],
+    correct: 0,
     explanation: "Surface/flood irrigation has the lowest efficiency of 40–60% due to deep percolation, runoff, and evaporation losses."
   },
   {
@@ -1025,8 +1025,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Waterlogging occurs when:",
-    options: ["Rainfall exceeds crop water requirement", "The water table rises and saturates the root zone, restricting oxygen supply", "Irrigation intervals are very long", "Soil surface becomes extremely dry"],
-    correct: 1,
+    options: ["The water table rises and saturates the root zone, restricting oxygen supply", "Soil surface becomes extremely dry", "Rainfall exceeds crop water requirement", "Irrigation intervals are very long"],
+    correct: 0,
     explanation: "Waterlogging occurs when the water table rises into the root zone, saturating soil and reducing oxygen availability, causing anaerobic conditions harmful to most crops."
   },
   {
@@ -1035,8 +1035,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "The critical period of water requirement for groundnut is:",
-    options: ["At germination only", "Pegging and pod development stages", "At harvest maturity", "At 15 days after sowing"],
-    correct: 1,
+    options: ["At 15 days after sowing", "At germination only", "At harvest maturity", "Pegging and pod development stages"],
+    correct: 3,
     explanation: "For groundnut, the critical irrigation stages are pegging and pod development. Water stress at pegging reduces yield significantly."
   },
   {
@@ -1045,8 +1045,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Which method of irrigation is recommended for sugarcane?",
-    options: ["Border strip irrigation or furrow irrigation", "Overhead sprinkler only", "Sub-surface drip only", "Pitcher irrigation"],
-    correct: 0,
+    options: ["Pitcher irrigation", "Sub-surface drip only", "Overhead sprinkler only", "Border strip irrigation or furrow irrigation"],
+    correct: 3,
     explanation: "Sugarcane is commonly irrigated by furrow irrigation (water flows in furrows between rows) or border strip irrigation, conserving water compared to flood irrigation."
   },
   {
@@ -1055,8 +1055,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Sub-surface drainage is used to:",
-    options: ["Bring water to the root zone from deep water table", "Remove excess water from within the root zone using buried pipes", "Increase soil moisture retention", "Prevent water from entering canals"],
-    correct: 1,
+    options: ["Prevent water from entering canals", "Bring water to the root zone from deep water table", "Increase soil moisture retention", "Remove excess water from within the root zone using buried pipes"],
+    correct: 3,
     explanation: "Sub-surface drainage removes excess water from within the soil profile using perforated pipes or mole drains buried at depth, preventing waterlogging."
   },
   {
@@ -1065,8 +1065,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Evapotranspiration (ET) is the sum of:",
-    options: ["Rainfall + irrigation", "Evaporation from soil surface + transpiration from plants", "Runoff + percolation", "Canopy interception + deep percolation"],
-    correct: 1,
+    options: ["Rainfall + irrigation", "Canopy interception + deep percolation", "Evaporation from soil surface + transpiration from plants", "Runoff + percolation"],
+    correct: 2,
     explanation: "Evapotranspiration (ET) = Evaporation (from soil and water surfaces) + Transpiration (from plant leaves). It represents total water loss from a cropped field."
   },
   {
@@ -1089,8 +1089,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Dryland farming is practiced in areas with annual rainfall of:",
-    options: ["Less than 750 mm with no assured irrigation", "750–1500 mm with canal irrigation", "More than 2000 mm", "Any rainfall with drip irrigation"],
-    correct: 0,
+    options: ["More than 2000 mm", "Less than 750 mm with no assured irrigation", "Any rainfall with drip irrigation", "750–1500 mm with canal irrigation"],
+    correct: 1,
     explanation: "Dryland farming is practiced in rainfed areas with annual rainfall below 750 mm (or up to 1150 mm in some definitions) where irrigation is not available."
   },
   {
@@ -1099,8 +1099,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "CRIDA stands for:",
-    options: ["Central Rice Institute for Dryland Agriculture", "Central Research Institute for Dryland Agriculture", "Crop Research Institute for Dryland Areas", "Central Rainfall Institute for Dryland Agriculture"],
-    correct: 1,
+    options: ["Crop Research Institute for Dryland Areas", "Central Rice Institute for Dryland Agriculture", "Central Rainfall Institute for Dryland Agriculture", "Central Research Institute for Dryland Agriculture"],
+    correct: 3,
     explanation: "CRIDA stands for Central Research Institute for Dryland Agriculture, located at Santoshnagar, Hyderabad, Telangana."
   },
   {
@@ -1109,8 +1109,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "In-situ moisture conservation in dryland farming refers to:",
-    options: ["Storing rainwater in tanks and using it for irrigation", "Conserving rainfall where it falls in the field to maximize its use by the crop", "Spraying chemicals to reduce evaporation from soil", "Using irrigation from nearby river sources"],
-    correct: 1,
+    options: ["Conserving rainfall where it falls in the field to maximize its use by the crop", "Spraying chemicals to reduce evaporation from soil", "Storing rainwater in tanks and using it for irrigation", "Using irrigation from nearby river sources"],
+    correct: 0,
     explanation: "In-situ moisture conservation involves practices like tied ridges, broad-bed furrows, and mulching to conserve rainwater in the field where it falls."
   },
   {
@@ -1119,8 +1119,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Broad Bed and Furrow (BBF) system is recommended for:",
-    options: ["Flooded rice cultivation", "Dryland crops on Vertisols to manage excess moisture and drought", "Orchards for water harvesting", "Vegetable crops under protected cultivation"],
-    correct: 1,
+    options: ["Dryland crops on Vertisols to manage excess moisture and drought", "Orchards for water harvesting", "Vegetable crops under protected cultivation", "Flooded rice cultivation"],
+    correct: 0,
     explanation: "BBF is recommended for Vertisols (black cotton soils) in dryland areas to drain excess water during heavy rains while conserving moisture during dry spells."
   },
   {
@@ -1129,8 +1129,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Contingency crop planning in dryland farming involves:",
-    options: ["Growing high-water-requiring crops in drought years", "Selecting alternative short-duration, drought-tolerant crops if normal sowing fails", "Using cloud seeding to ensure rainfall", "Abandoning cultivation in drought years"],
-    correct: 1,
+    options: ["Growing high-water-requiring crops in drought years", "Using cloud seeding to ensure rainfall", "Selecting alternative short-duration, drought-tolerant crops if normal sowing fails", "Abandoning cultivation in drought years"],
+    correct: 2,
     explanation: "Contingency planning involves selecting alternate drought-tolerant, short-duration crops (e.g., cowpea, horsegram, castor) when normal monsoon onset is delayed."
   },
   {
@@ -1139,7 +1139,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Watershed management involves:",
-    options: ["Management of water in reservoirs only", "Integrated management of land, water, vegetation in a catchment area to optimize water use", "Irrigation of only the watershed area", "Diversion of water from one basin to another"],
+    options: ["Diversion of water from one basin to another", "Integrated management of land, water, vegetation in a catchment area to optimize water use", "Irrigation of only the watershed area", "Management of water in reservoirs only"],
     correct: 1,
     explanation: "Watershed management is the process of guiding and organizing land use and other activities in a catchment area to provide desired goods and services without adversely affecting soil and water resources."
   },
@@ -1149,8 +1149,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Mulching in dryland farming helps to:",
-    options: ["Increase runoff and erosion", "Reduce soil evaporation and conserve moisture", "Increase soil temperature uniformly", "Provide additional nitrogen to the crop"],
-    correct: 1,
+    options: ["Reduce soil evaporation and conserve moisture", "Increase soil temperature uniformly", "Provide additional nitrogen to the crop", "Increase runoff and erosion"],
+    correct: 0,
     explanation: "Mulching (covering soil with straw, polythene, or other materials) reduces evaporation from soil surface, conserves moisture, and suppresses weeds."
   },
   {
@@ -1159,7 +1159,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "The practice of collecting runoff water from a small area to irrigate a smaller crop area is called:",
-    options: ["Drip irrigation", "Water harvesting", "Sub-surface drainage", "Lift irrigation"],
+    options: ["Lift irrigation", "Water harvesting", "Sub-surface drainage", "Drip irrigation"],
     correct: 1,
     explanation: "Water harvesting involves collecting and storing rainwater/runoff for supplemental irrigation during dry spells within the dryland farming system."
   },
@@ -1169,8 +1169,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Which of the following crops is most suitable as a contingency crop during late or failed monsoon in Telangana?",
-    options: ["Transplanted rice", "Horsegram (Macrotyloma uniflorum)", "Sugarcane", "Cotton"],
-    correct: 1,
+    options: ["Cotton", "Transplanted rice", "Horsegram (Macrotyloma uniflorum)", "Sugarcane"],
+    correct: 2,
     explanation: "Horsegram is the most drought-tolerant grain legume, suitable as contingency crop when monsoon is late or erratic in Telangana dryland areas."
   },
   {
@@ -1179,8 +1179,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Tied ridges in dryland farming are used to:",
-    options: ["Prevent surface runoff by blocking furrows at regular intervals", "Guide irrigation water to crop rows", "Mark boundaries of fields", "Support creeper crops"],
-    correct: 0,
+    options: ["Support creeper crops", "Mark boundaries of fields", "Prevent surface runoff by blocking furrows at regular intervals", "Guide irrigation water to crop rows"],
+    correct: 2,
     explanation: "Tied ridges are formed by placing small earthen ties across furrows at regular intervals to impound rainwater in place and increase in-situ infiltration."
   },
   {
@@ -1189,8 +1189,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "About what percentage of India's cultivated area is under dryland / rainfed farming?",
-    options: ["20–25%", "40–45%", "60–65%", "80–85%"],
-    correct: 2,
+    options: ["20–25%", "60–65%", "40–45%", "80–85%"],
+    correct: 1,
     explanation: "About 60–65% of India's net sown area (approximately 85 million ha) is under rainfed/dryland farming, which produces nearly 40% of total food grains."
   },
   {
@@ -1199,8 +1199,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "The recommended fertilizer dose for dryland crops is generally:",
-    options: ["Same as irrigated crops", "Higher than irrigated crops", "Lower than irrigated crops due to limited moisture", "Zero because moisture is insufficient for nutrient uptake"],
-    correct: 2,
+    options: ["Zero because moisture is insufficient for nutrient uptake", "Lower than irrigated crops due to limited moisture", "Higher than irrigated crops", "Same as irrigated crops"],
+    correct: 1,
     explanation: "Fertilizer dose for dryland crops is lower than for irrigated crops because limited moisture restricts nutrient uptake and excessive fertilizer can cause osmotic stress."
   },
 
@@ -1213,7 +1213,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Land Equivalent Ratio (LER) > 1 indicates that intercropping:",
-    options: ["Is less productive than sole crops", "Is more productive than growing the crops separately in sole stands", "Has equal productivity to sole crops", "Has failed and one crop dominated the other"],
+    options: ["Has equal productivity to sole crops", "Is more productive than growing the crops separately in sole stands", "Has failed and one crop dominated the other", "Is less productive than sole crops"],
     correct: 1,
     explanation: "LER > 1 means intercropping is more efficient in using land resources than growing each crop as a sole crop. LER = 1 means no advantage; < 1 means disadvantage."
   },
@@ -1223,8 +1223,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Mixed cropping differs from intercropping in that:",
-    options: ["Mixed cropping is sowing two or more crops simultaneously without distinct row arrangement; intercropping has defined row patterns", "Mixed cropping uses same row geometry as sole cropping", "Intercropping means growing crops in sequence, not simultaneously", "There is no difference between the two terms"],
-    correct: 0,
+    options: ["Mixed cropping uses same row geometry as sole cropping", "Intercropping means growing crops in sequence, not simultaneously", "There is no difference between the two terms", "Mixed cropping is sowing two or more crops simultaneously without distinct row arrangement; intercropping has defined row patterns"],
+    correct: 3,
     explanation: "Mixed cropping involves sowing two or more crops together without specific row arrangement. Intercropping has defined spatial arrangement (alternate rows, paired rows, etc.)."
   },
   {
@@ -1233,8 +1233,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "A popular intercropping combination in Telangana for kharif season is:",
-    options: ["Wheat + Chickpea", "Cotton + Redgram (pigeonpea)", "Rice + Maize", "Sunflower + Wheat"],
-    correct: 1,
+    options: ["Sunflower + Wheat", "Rice + Maize", "Wheat + Chickpea", "Cotton + Redgram (pigeonpea)"],
+    correct: 3,
     explanation: "Cotton + Redgram (pigeonpea) is a common and productive intercropping system in Telangana, with pigeonpea in every 4th or 5th row of cotton."
   },
   {
@@ -1243,7 +1243,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Relay cropping is defined as:",
-    options: ["Growing two crops in alternate rows simultaneously throughout the season", "Sowing a second crop into a standing first crop before harvesting the first", "Sequence of crops in a 3-year rotation plan", "Mixed cropping with fixed row ratios"],
+    options: ["Growing two crops in alternate rows simultaneously throughout the season", "Sowing a second crop into a standing first crop before harvesting the first", "Mixed cropping with fixed row ratios", "Sequence of crops in a 3-year rotation plan"],
     correct: 1,
     explanation: "Relay cropping is sowing the second crop into the standing first crop before it is harvested, so both crops overlap for part of their life cycles."
   },
@@ -1263,8 +1263,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "The cropping intensity formula is:",
-    options: ["(Total area under all crops in a year / Net sown area) × 100", "Total crops grown / Total land available", "Gross sown area × 100", "Net sown area / Number of crops"],
-    correct: 0,
+    options: ["Net sown area / Number of crops", "Total crops grown / Total land available", "Gross sown area × 100", "(Total area under all crops in a year / Net sown area) × 100"],
+    correct: 3,
     explanation: "Cropping intensity = (Gross Cropped Area / Net Sown Area) × 100. If all land is double-cropped, intensity = 200%."
   },
   {
@@ -1273,7 +1273,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Alley cropping (hedgerow intercropping) involves:",
-    options: ["Growing food crops in alleys between rows of trees/shrubs", "Sowing crops in contour furrows for erosion control", "Growing crops only in raised beds", "Relay cropping in alternate rows"],
+    options: ["Growing food crops in alleys between rows of trees/shrubs", "Growing crops only in raised beds", "Relay cropping in alternate rows", "Sowing crops in contour furrows for erosion control"],
     correct: 0,
     explanation: "Alley cropping (hedgerow intercropping) grows food crops in the alleys between rows of woody trees/shrubs (like Leucaena, Sesbania) that provide mulch and nitrogen."
   },
@@ -1283,8 +1283,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "The concept of 'companion crops' in intercropping refers to:",
-    options: ["Two crops that compete intensely for the same resources", "Crops grown together that complement each other by having different resource needs", "Only legume crops grown together", "Any two crops grown in sequence"],
-    correct: 1,
+    options: ["Crops grown together that complement each other by having different resource needs", "Two crops that compete intensely for the same resources", "Any two crops grown in sequence", "Only legume crops grown together"],
+    correct: 0,
     explanation: "Companion crops are crops with complementary relationships, different rooting depths, canopy structures, or resource requirements that reduce competition and maximize land use."
   },
   {
@@ -1293,8 +1293,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "A common crop rotation for Telangana vertisols (NTZ/CTZ) is:",
-    options: ["Rice → Wheat → Chickpea", "Cotton → Chickpea / Sorghum → Greengram", "Sugarcane → Paddy → Maize (3-year rotation)", "Groundnut → Cotton → Tobacco"],
-    correct: 1,
+    options: ["Sugarcane → Paddy → Maize (3-year rotation)", "Groundnut → Cotton → Tobacco", "Cotton → Chickpea / Sorghum → Greengram", "Rice → Wheat → Chickpea"],
+    correct: 2,
     explanation: "Cotton → Sorghum (or Chickpea in rabi) is a common rotation on vertisols of Telangana, breaking pest cycles and improving soil fertility."
   },
   {
@@ -1303,7 +1303,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "The advantage of sole cropping is:",
-    options: ["Better resource use efficiency", "Simpler management and easier mechanization", "Higher LER than intercropping", "Better pest control through diversity"],
+    options: ["Better pest control through diversity", "Simpler management and easier mechanization", "Higher LER than intercropping", "Better resource use efficiency"],
     correct: 1,
     explanation: "Sole cropping (growing one crop per field) is simpler to manage, allows full mechanization, and makes pest/disease management uniform and straightforward."
   },
@@ -1313,8 +1313,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Which of the following best represents a cereal + legume intercropping combination?",
-    options: ["Maize + Sorghum", "Sorghum + Redgram (pigeonpea)", "Rice + Wheat", "Groundnut + Sunflower"],
-    correct: 1,
+    options: ["Maize + Sorghum", "Rice + Wheat", "Groundnut + Sunflower", "Sorghum + Redgram (pigeonpea)"],
+    correct: 3,
     explanation: "Sorghum + Redgram is a classic cereal-legume intercrop (4:2 or 2:1 row ratio) common in Telangana and AP, where legume fixes nitrogen benefiting the cereal."
   },
 
@@ -1327,8 +1327,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Harvest Index (HI) is defined as:",
-    options: ["Total biomass / Grain yield", "Grain yield / Total biological yield × 100", "Number of grains per panicle / Total spikelets × 100", "Grain weight at harvest / 1000-grain weight"],
-    correct: 1,
+    options: ["Grain yield / Total biological yield × 100", "Grain weight at harvest / 1000-grain weight", "Total biomass / Grain yield", "Number of grains per panicle / Total spikelets × 100"],
+    correct: 0,
     explanation: "Harvest Index = (Economic yield / Biological yield) × 100. It indicates what fraction of total biomass is in the harvestable product (grain)."
   },
   {
@@ -1337,8 +1337,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "The Harvest Index of modern high-yielding rice varieties is approximately:",
-    options: ["0.2–0.3", "0.35–0.50", "0.60–0.70", "0.80–0.90"],
-    correct: 1,
+    options: ["0.35–0.50", "0.2–0.3", "0.60–0.70", "0.80–0.90"],
+    correct: 0,
     explanation: "Modern HYV rice has a Harvest Index of 0.35–0.50, compared to 0.20–0.30 for traditional tall varieties. This improved HI was key to Green Revolution gains."
   },
   {
@@ -1347,8 +1347,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Physical maturity index for rice is:",
-    options: ["When 80% of spikelets turn golden/straw colored", "When the flag leaf turns green", "When grain moisture reaches 25%", "When 50% of panicles have emerged"],
-    correct: 0,
+    options: ["When 50% of panicles have emerged", "When 80% of spikelets turn golden/straw colored", "When the flag leaf turns green", "When grain moisture reaches 25%"],
+    correct: 1,
     explanation: "Rice is ready for harvest when 80–85% of spikelets turn golden/straw-colored, indicating physiological maturity and maximum grain dry weight."
   },
   {
@@ -1357,8 +1357,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "The safe moisture content for storage of grain cereals (rice, wheat) is:",
-    options: ["20–25%", "14% or below", "8–10%", "30–35%"],
-    correct: 1,
+    options: ["14% or below", "30–35%", "20–25%", "8–10%"],
+    correct: 0,
     explanation: "Cereal grains (rice, wheat, maize) should be stored at 14% moisture content or below to prevent fungal growth, mycotoxin development, and insect damage."
   },
   {
@@ -1367,8 +1367,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Post-harvest losses in India are estimated at approximately:",
-    options: ["2–5%", "10–15%", "30–40%", "50–60%"],
-    correct: 1,
+    options: ["2–5%", "50–60%", "30–40%", "10–15%"],
+    correct: 3,
     explanation: "Post-harvest losses in India are estimated at 10–15% for cereals and up to 25–40% for fruits and vegetables, due to improper handling, storage, and processing."
   },
   {
@@ -1377,8 +1377,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Threshing of rice is done when the grain moisture content is:",
-    options: ["5–8%", "14–16%", "20–22%", "28–30%"],
-    correct: 2,
+    options: ["20–22%", "28–30%", "14–16%", "5–8%"],
+    correct: 0,
     explanation: "Rice threshing is done when grain moisture is about 20–22%. If too dry, grains shatter; if too wet, threshing efficiency is poor and grains may be damaged."
   },
   {
@@ -1387,8 +1387,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "The black layer formation in maize grains indicates:",
-    options: ["Onset of germination", "Physiological maturity has been reached", "Poor kernel development", "Fungal infection"],
-    correct: 1,
+    options: ["Poor kernel development", "Fungal infection", "Physiological maturity has been reached", "Onset of germination"],
+    correct: 2,
     explanation: "The formation of a black layer (abscission layer) at the tip cap of maize kernels indicates physiological maturity – maximum dry matter accumulation."
   },
   {
@@ -1397,7 +1397,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Combine harvester performs which of the following operations in one pass?",
-    options: ["Sowing and fertilizing", "Reaping, threshing, and winnowing", "Ploughing, harrowing, and sowing", "Irrigation and fertilization"],
+    options: ["Ploughing, harrowing, and sowing", "Reaping, threshing, and winnowing", "Irrigation and fertilization", "Sowing and fertilizing"],
     correct: 1,
     explanation: "A combine harvester integrates reaping (cutting), threshing (separating grain from straw), and cleaning (winnowing) in one continuous field operation."
   },
@@ -1417,8 +1417,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Aflatoxin contamination in stored groundnut is caused by:",
-    options: ["Fusarium moniliforme", "Aspergillus flavus", "Rhizopus stolonifer", "Claviceps purpurea"],
-    correct: 1,
+    options: ["Aspergillus flavus", "Claviceps purpurea", "Fusarium moniliforme", "Rhizopus stolonifer"],
+    correct: 0,
     explanation: "Aspergillus flavus and A. parasiticus produce aflatoxins in stored groundnut, maize, and other grains, especially under high moisture (>14%) and temperature."
   },
   {
@@ -1427,8 +1427,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Maturity index for cotton picking is:",
-    options: ["When 50% of bolls open", "When boll moisture falls below 10%", "When leaves turn yellow", "When the plant reaches 120 cm height"],
-    correct: 0,
+    options: ["When boll moisture falls below 10%", "When the plant reaches 120 cm height", "When leaves turn yellow", "When 50% of bolls open"],
+    correct: 3,
     explanation: "Cotton is picked when 50% of bolls on the plant have opened (burst). Multiple pickings (2–3 rounds) are done 7–10 days apart."
   },
   {
@@ -1437,8 +1437,8 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "The PUSA bin was developed to store food grains at village level and is effective against:",
-    options: ["Fungal diseases only", "Moisture ingress and grain storage insects/pests", "Rodents only", "Temperature fluctuations"],
-    correct: 1,
+    options: ["Fungal diseases only", "Temperature fluctuations", "Moisture ingress and grain storage insects/pests", "Rodents only"],
+    correct: 2,
     explanation: "PUSA bin is a metallic storage structure developed by IARI that is airtight, protecting grains from moisture, insects, and to some extent rodents."
   },
 ];
