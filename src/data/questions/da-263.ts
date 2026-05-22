@@ -1,9 +1,8 @@
 import { Question } from "@/types";
 
-export const da263LectureQuestions: Question[] = [
-  // ── LECTURE 1: Parts of Speech ────────────────────────────────────────────
+export const da263Questions: Question[] = [
   {
-    id: "d263l_001", subject: "english-communication", lecture: "lecture-1", lectureNo: 1,
+    id: "d263_001", subject: "english-communication",
     question: "Identify the correct part of speech for the word 'quickly' in: 'The farmer walked quickly.'",
     options: ["Adverb", "Preposition", "Adjective", "Noun"],
     correct: 0,
@@ -11,7 +10,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_002", subject: "english-communication", lecture: "lecture-1", lectureNo: 1,
+    id: "d263_002", subject: "english-communication",
     question: "Which word is a proper noun?",
     options: ["Hyderabad", "river", "farmer", "city"],
     correct: 0,
@@ -19,7 +18,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_003", subject: "english-communication", lecture: "lecture-1", lectureNo: 1,
+    id: "d263_003", subject: "english-communication",
     question: "Choose the correct pronoun: '_____ is a good farmer.'",
     options: ["He", "Himself", "His", "Him"],
     correct: 0,
@@ -27,7 +26,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_004", subject: "english-communication", lecture: "lecture-1", lectureNo: 1,
+    id: "d263_004", subject: "english-communication",
     question: "Which word is a conjunction?",
     options: ["with", "beautifully", "fast", "and"],
     correct: 3,
@@ -35,7 +34,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_005", subject: "english-communication", lecture: "lecture-1", lectureNo: 1,
+    id: "d263_005", subject: "english-communication",
     question: "Identify the adjective: 'The green field produced a rich harvest.'",
     options: ["green", "produced", "harvest", "field"],
     correct: 0,
@@ -43,7 +42,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_006", subject: "english-communication", lecture: "lecture-1", lectureNo: 1,
+    id: "d263_006", subject: "english-communication",
     question: "Which of the following is an interjection?",
     options: ["run", "Oh!", "and", "slowly"],
     correct: 1,
@@ -51,7 +50,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_007", subject: "english-communication", lecture: "lecture-1", lectureNo: 1,
+    id: "d263_007", subject: "english-communication",
     question: "The word 'of' in 'a bag of rice' is a:",
     options: ["Preposition", "Pronoun", "Adverb", "Conjunction"],
     correct: 0,
@@ -59,7 +58,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_008", subject: "english-communication", lecture: "lecture-1", lectureNo: 1,
+    id: "d263_008", subject: "english-communication",
     question: "Choose the correct verb form: 'The crops _____ well this season.'",
     options: ["grew", "have grew", "grow", "grows"],
     correct: 0,
@@ -67,7 +66,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_009", subject: "english-communication", lecture: "lecture-1", lectureNo: 1,
+    id: "d263_009", subject: "english-communication",
     question: "'Agriculture' is an example of a/an:",
     options: ["Common noun", "Collective noun", "Proper noun", "Abstract noun"],
     correct: 0,
@@ -75,7 +74,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_010", subject: "english-communication", lecture: "lecture-1", lectureNo: 1,
+    id: "d263_010", subject: "english-communication",
     question: "'A flock of birds' — the word 'flock' is a:",
     options: ["Collective noun", "Common noun", "Proper noun", "Abstract noun"],
     correct: 0,
@@ -83,7 +82,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_011", subject: "english-communication", lecture: "lecture-1", lectureNo: 1,
+    id: "d263_011", subject: "english-communication",
     question: "Identify the verb in: 'Farmers cultivate crops during kharif season.'",
     options: ["cultivate", "farmers", "kharif", "crops"],
     correct: 0,
@@ -91,17 +90,15 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_012", subject: "english-communication", lecture: "lecture-1", lectureNo: 1,
+    id: "d263_012", subject: "english-communication",
     question: "Which article should be used? '_____ mango is a tropical fruit.'",
     options: ["No article needed", "A", "The", "An"],
     correct: 2,
     explanation: "'The' is used to refer to a specific thing in general statements about something well-known or categorized.",
     difficulty: "medium"
   },
-
-  // ── LECTURE 2: Tenses ─────────────────────────────────────────────────────
   {
-    id: "d263l_013", subject: "english-communication", lecture: "lecture-2", lectureNo: 2,
+    id: "d263_013", subject: "english-communication",
     question: "Identify the tense: 'The farmer is ploughing the field.'",
     options: ["Simple Present", "Past Continuous", "Present Continuous", "Present Perfect"],
     correct: 2,
@@ -109,7 +106,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_014", subject: "english-communication", lecture: "lecture-2", lectureNo: 2,
+    id: "d263_014", subject: "english-communication",
     question: "Which sentence is in Simple Past tense?",
     options: ["She will water the plants.", "She waters the plants daily.", "She watered the plants yesterday.", "She has watered the plants."],
     correct: 2,
@@ -117,7 +114,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_015", subject: "english-communication", lecture: "lecture-2", lectureNo: 2,
+    id: "d263_015", subject: "english-communication",
     question: "Fill in the blank: 'By next week, the farmers _____ the harvest.'",
     options: ["will have completed", "complete", "completed", "have completed"],
     correct: 0,
@@ -125,7 +122,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d263l_016", subject: "english-communication", lecture: "lecture-2", lectureNo: 2,
+    id: "d263_016", subject: "english-communication",
     question: "Present Perfect tense is formed as:",
     options: ["Subject + V2", "Subject + had + V3", "Subject + is/am/are + V-ing", "Subject + has/have + V3 (past participle)"],
     correct: 3,
@@ -133,7 +130,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d263l_017", subject: "english-communication", lecture: "lecture-2", lectureNo: 2,
+    id: "d263_017", subject: "english-communication",
     question: "'He had left the farm before the rains arrived.' — This is in:",
     options: ["Present Perfect", "Past Perfect", "Past Continuous", "Simple Past"],
     correct: 1,
@@ -141,7 +138,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d263l_018", subject: "english-communication", lecture: "lecture-2", lectureNo: 2,
+    id: "d263_018", subject: "english-communication",
     question: "Choose the correct form: 'She _____ in the fields every day.'",
     options: ["works", "work", "working", "worked"],
     correct: 0,
@@ -149,7 +146,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_019", subject: "english-communication", lecture: "lecture-2", lectureNo: 2,
+    id: "d263_019", subject: "english-communication",
     question: "The past participle of 'grow' is:",
     options: ["growing", "grew", "grown", "growed"],
     correct: 2,
@@ -157,7 +154,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_020", subject: "english-communication", lecture: "lecture-2", lectureNo: 2,
+    id: "d263_020", subject: "english-communication",
     question: "'The report will be submitted tomorrow.' — This is in:",
     options: ["Simple Present", "Simple Past", "Simple Future Passive", "Future Perfect"],
     correct: 2,
@@ -165,7 +162,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d263l_021", subject: "english-communication", lecture: "lecture-2", lectureNo: 2,
+    id: "d263_021", subject: "english-communication",
     question: "Active voice: 'The farmer grows rice.' Passive voice is:",
     options: ["Rice grew by the farmer.", "Rice was growing by the farmer.", "Rice is grown by the farmer.", "The farmer is grown by rice."],
     correct: 2,
@@ -173,17 +170,15 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d263l_022", subject: "english-communication", lecture: "lecture-2", lectureNo: 2,
+    id: "d263_022", subject: "english-communication",
     question: "Which sentence uses 'since' correctly?",
     options: ["I have been working since morning.", "I worked since yesterday.", "He works since five years.", "I have been working since two hours."],
     correct: 0,
     explanation: "'Since' is used with a specific point of time (since morning, since 2020). 'For' is used with a duration (for two hours).",
     difficulty: "medium"
   },
-
-  // ── LECTURE 3: Reading Comprehension and Vocabulary ───────────────────────
   {
-    id: "d263l_023", subject: "english-communication", lecture: "lecture-3", lectureNo: 3,
+    id: "d263_023", subject: "english-communication",
     question: "Reading comprehension tests the ability to:",
     options: ["Write essays", "Understand and interpret a given passage", "Translate languages", "Speak fluently"],
     correct: 1,
@@ -191,7 +186,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_024", subject: "english-communication", lecture: "lecture-3", lectureNo: 3,
+    id: "d263_024", subject: "english-communication",
     question: "The synonym of 'abundant' is:",
     options: ["scarce", "rare", "insufficient", "plentiful"],
     correct: 3,
@@ -199,7 +194,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_025", subject: "english-communication", lecture: "lecture-3", lectureNo: 3,
+    id: "d263_025", subject: "english-communication",
     question: "The antonym of 'fertile' is:",
     options: ["barren", "productive", "rich", "lush"],
     correct: 0,
@@ -207,7 +202,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_026", subject: "english-communication", lecture: "lecture-3", lectureNo: 3,
+    id: "d263_026", subject: "english-communication",
     question: "The meaning of 'indigenous' in agriculture is:",
     options: ["Foreign or imported", "Naturally occurring or native to a region", "Synthetic or artificial", "Expensive"],
     correct: 1,
@@ -215,7 +210,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d263l_027", subject: "english-communication", lecture: "lecture-3", lectureNo: 3,
+    id: "d263_027", subject: "english-communication",
     question: "Choose the correct word: 'The soil _____ a lot of nutrients after the flood.'",
     options: ["loosed", "loose", "lost", "losed"],
     correct: 2,
@@ -223,7 +218,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_028", subject: "english-communication", lecture: "lecture-3", lectureNo: 3,
+    id: "d263_028", subject: "english-communication",
     question: "Which word correctly fills the blank? 'Organic farming is _____ to sustainable agriculture.'",
     options: ["irrelevant", "destructive", "harmful", "essential"],
     correct: 3,
@@ -231,7 +226,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_029", subject: "english-communication", lecture: "lecture-3", lectureNo: 3,
+    id: "d263_029", subject: "english-communication",
     question: "Skimming a text means:",
     options: ["Reading every word carefully", "Reading quickly to get the general idea or main points", "Reading aloud", "Reading backwards"],
     correct: 1,
@@ -239,7 +234,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_030", subject: "english-communication", lecture: "lecture-3", lectureNo: 3,
+    id: "d263_030", subject: "english-communication",
     question: "Scanning a text means:",
     options: ["Reading quickly to find specific information (dates, names, figures)", "Avoiding difficult words", "Reading every word slowly", "Reading for general meaning"],
     correct: 0,
@@ -247,7 +242,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_031", subject: "english-communication", lecture: "lecture-3", lectureNo: 3,
+    id: "d263_031", subject: "english-communication",
     question: "The word 'precipitation' in a weather report refers to:",
     options: ["Wind speed", "Temperature", "Any form of water falling from the atmosphere (rain, snow, hail)", "Humidity level"],
     correct: 2,
@@ -255,17 +250,15 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d263l_032", subject: "english-communication", lecture: "lecture-3", lectureNo: 3,
+    id: "d263_032", subject: "english-communication",
     question: "The word 'arid' means:",
     options: ["Moderate climate", "Very wet", "Very cold", "Extremely dry (little or no rainfall)"],
     correct: 3,
     explanation: "'Arid' describes a climate or land with very little rainfall and sparse vegetation.",
     difficulty: "easy"
   },
-
-  // ── LECTURE 4: Letter Writing and Report Writing ──────────────────────────
   {
-    id: "d263l_033", subject: "english-communication", lecture: "lecture-4", lectureNo: 4,
+    id: "d263_033", subject: "english-communication",
     question: "A formal letter is written to:",
     options: ["Social media", "Officials, organizations, or institutions (professional/official)", "Friends and family (personal)", "Pen pals only"],
     correct: 1,
@@ -273,7 +266,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_034", subject: "english-communication", lecture: "lecture-4", lectureNo: 4,
+    id: "d263_034", subject: "english-communication",
     question: "The salutation in a formal letter to an unknown official is:",
     options: ["Hi there,", "Hello,", "Dear Friend,", "Dear Sir / Madam,"],
     correct: 3,
@@ -281,7 +274,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_035", subject: "english-communication", lecture: "lecture-4", lectureNo: 4,
+    id: "d263_035", subject: "english-communication",
     question: "The complimentary close of a formal letter is:",
     options: ["With love,", "See you,", "Yours faithfully / Yours sincerely,", "Cheers,"],
     correct: 2,
@@ -289,7 +282,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_036", subject: "english-communication", lecture: "lecture-4", lectureNo: 4,
+    id: "d263_036", subject: "english-communication",
     question: "An application letter for a job should include:",
     options: ["Applicant's qualifications, experience, and why they are suitable for the post", "Complaints about other candidates", "Irrelevant personal information", "Personal gossip"],
     correct: 0,
@@ -297,7 +290,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_037", subject: "english-communication", lecture: "lecture-4", lectureNo: 4,
+    id: "d263_037", subject: "english-communication",
     question: "A report is a formal document that:",
     options: ["Has no headings", "Contains only opinions", "Is written informally like a diary", "Presents information, findings, or recommendations in a structured format"],
     correct: 3,
@@ -305,7 +298,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_038", subject: "english-communication", lecture: "lecture-4", lectureNo: 4,
+    id: "d263_038", subject: "english-communication",
     question: "Which part of a report states the purpose of the report?",
     options: ["Bibliography", "Conclusion", "Appendix", "Introduction / Terms of Reference"],
     correct: 3,
@@ -313,7 +306,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d263l_039", subject: "english-communication", lecture: "lecture-4", lectureNo: 4,
+    id: "d263_039", subject: "english-communication",
     question: "The 'subject line' in a formal letter or email:",
     options: ["Is the greeting", "Is the sender's address", "Identifies the topic/purpose of the communication concisely", "Lists the enclosures"],
     correct: 2,
@@ -321,7 +314,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_040", subject: "english-communication", lecture: "lecture-4", lectureNo: 4,
+    id: "d263_040", subject: "english-communication",
     question: "CC in an email stands for:",
     options: ["Carbon Copy", "Content Checked", "Closed Communication", "Certified Copy"],
     correct: 0,
@@ -329,7 +322,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_041", subject: "english-communication", lecture: "lecture-4", lectureNo: 4,
+    id: "d263_041", subject: "english-communication",
     question: "A complaint letter should be:",
     options: ["Aggressive and threatening", "Long and filled with personal opinions", "Humorous", "Polite, factual, and clearly state the problem and desired resolution"],
     correct: 3,
@@ -337,17 +330,15 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_042", subject: "english-communication", lecture: "lecture-4", lectureNo: 4,
+    id: "d263_042", subject: "english-communication",
     question: "An official circular is issued to:",
     options: ["A group of people within an organization informing them of policy/decisions", "One person only", "Foreign organizations", "Unknown public"],
     correct: 0,
     explanation: "A circular is an official communication distributed to multiple people within or across departments.",
     difficulty: "easy"
   },
-
-  // ── LECTURE 5: Grammar – Sentence Types, Voices, and Direct-Indirect Speech ─
   {
-    id: "d263l_043", subject: "english-communication", lecture: "lecture-5", lectureNo: 5,
+    id: "d263_043", subject: "english-communication",
     question: "Change to Indirect Speech: He said, 'I am a farmer.'",
     options: ["He said that I am a farmer.", "He said that he is a farmer.", "He said that he was a farmer.", "He told that he was a farmer."],
     correct: 2,
@@ -355,7 +346,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d263l_044", subject: "english-communication", lecture: "lecture-5", lectureNo: 5,
+    id: "d263_044", subject: "english-communication",
     question: "Change to Active Voice: 'Rice is cultivated by farmers in India.'",
     options: ["Farmers cultivate rice in India.", "In India, farmers had cultivated rice.", "Rice cultivates farmers in India.", "Farmers are cultivated by rice."],
     correct: 0,
@@ -363,7 +354,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d263l_045", subject: "english-communication", lecture: "lecture-5", lectureNo: 5,
+    id: "d263_045", subject: "english-communication",
     question: "A complex sentence contains:",
     options: ["Only a main clause", "One main clause and one or more subordinate clauses", "Only subordinate clauses", "Two independent clauses joined by 'and'"],
     correct: 1,
@@ -371,7 +362,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d263l_046", subject: "english-communication", lecture: "lecture-5", lectureNo: 5,
+    id: "d263_046", subject: "english-communication",
     question: "Identify the type of sentence: 'Although it rained heavily, the farmers continued working.'",
     options: ["Compound-Complex", "Simple", "Compound", "Complex"],
     correct: 3,
@@ -379,7 +370,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d263l_047", subject: "english-communication", lecture: "lecture-5", lectureNo: 5,
+    id: "d263_047", subject: "english-communication",
     question: "Choose the correct sentence (subject-verb agreement):",
     options: ["Each of the plants need water.", "Each plants need water.", "Each of the plants needs water.", "All plant needs water."],
     correct: 2,
@@ -387,7 +378,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d263l_048", subject: "english-communication", lecture: "lecture-5", lectureNo: 5,
+    id: "d263_048", subject: "english-communication",
     question: "Reported speech of: She asked, 'Will you help me?'",
     options: ["She asked if I will help her.", "She asked if I would help her.", "She asked me that I help her.", "She asked will I help her."],
     correct: 1,
@@ -395,7 +386,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d263l_049", subject: "english-communication", lecture: "lecture-5", lectureNo: 5,
+    id: "d263_049", subject: "english-communication",
     question: "Which is grammatically correct?",
     options: ["Neither the seeds nor the fertilizer was available.", "Neither seeds nor fertilizer are available.", "Neither seeds or fertilizer was available.", "Neither the seeds nor the fertilizer were available."],
     correct: 0,
@@ -403,7 +394,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d263l_050", subject: "english-communication", lecture: "lecture-5", lectureNo: 5,
+    id: "d263_050", subject: "english-communication",
     question: "The conditional sentence 'If it rains, the crops will grow well.' is a _____ conditional.",
     options: ["Zero", "Third (Unreal past)", "First (Real)", "Second (Unreal present)"],
     correct: 2,
@@ -411,7 +402,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d263l_051", subject: "english-communication", lecture: "lecture-5", lectureNo: 5,
+    id: "d263_051", subject: "english-communication",
     question: "Choose the correct preposition: 'He was absent _____ the meeting.'",
     options: ["in", "from", "at", "on"],
     correct: 1,
@@ -419,17 +410,15 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_052", subject: "english-communication", lecture: "lecture-5", lectureNo: 5,
+    id: "d263_052", subject: "english-communication",
     question: "Which sentence has an error?",
     options: ["We discussed the problem.", "She knows how to drive.", "He has been working here since 2020.", "They have went to the field."],
     correct: 3,
     explanation: "'Have went' is incorrect — present perfect requires past participle: 'They have gone to the field.'",
     difficulty: "medium"
   },
-
-  // ── LECTURE 6: Communication Skills and Technical Writing ─────────────────
   {
-    id: "d263l_053", subject: "english-communication", lecture: "lecture-6", lectureNo: 6,
+    id: "d263_053", subject: "english-communication",
     question: "Communication is effective when:",
     options: ["The message is clearly understood by the receiver as intended", "It is very long and detailed", "It uses technical jargon always", "Only the sender speaks"],
     correct: 0,
@@ -437,7 +426,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_054", subject: "english-communication", lecture: "lecture-6", lectureNo: 6,
+    id: "d263_054", subject: "english-communication",
     question: "Non-verbal communication includes:",
     options: ["Emails", "Body language, gestures, facial expressions", "Written memos", "Telephone calls"],
     correct: 1,
@@ -445,7 +434,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_055", subject: "english-communication", lecture: "lecture-6", lectureNo: 6,
+    id: "d263_055", subject: "english-communication",
     question: "Active listening involves:",
     options: ["Interrupting frequently", "Only hearing words", "Paying full attention, understanding, and responding appropriately to the speaker", "Thinking about other things while someone speaks"],
     correct: 2,
@@ -453,7 +442,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_056", subject: "english-communication", lecture: "lecture-6", lectureNo: 6,
+    id: "d263_056", subject: "english-communication",
     question: "Technical writing in agriculture means:",
     options: ["Creative fiction about farming", "Writing poetry about crops", "Clear, precise writing for professional/technical audiences (reports, manuals, research papers)", "Writing social media posts"],
     correct: 2,
@@ -461,7 +450,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_057", subject: "english-communication", lecture: "lecture-6", lectureNo: 6,
+    id: "d263_057", subject: "english-communication",
     question: "A curriculum vitae (CV) or resume is used to:",
     options: ["Present qualifications, experience, and skills to a potential employer", "Apply for loans", "File complaints", "Apply for passports"],
     correct: 0,
@@ -469,7 +458,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_058", subject: "english-communication", lecture: "lecture-6", lectureNo: 6,
+    id: "d263_058", subject: "english-communication",
     question: "The 7 Cs of communication are: Clear, Concise, Concrete, Correct, Coherent, Complete, and:",
     options: ["Creative", "Complicated", "Courteous", "Complex"],
     correct: 2,
@@ -477,7 +466,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d263l_059", subject: "english-communication", lecture: "lecture-6", lectureNo: 6,
+    id: "d263_059", subject: "english-communication",
     question: "Feedback in communication is important because:",
     options: ["It is only for formal communication", "It delays the message", "It confirms whether the message was understood and allows correction of misunderstandings", "It is unnecessary noise"],
     correct: 2,
@@ -485,7 +474,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_060", subject: "english-communication", lecture: "lecture-6", lectureNo: 6,
+    id: "d263_060", subject: "english-communication",
     question: "Group discussion (GD) tests:",
     options: ["Only English vocabulary", "Listening alone", "Communication skills, knowledge, leadership, and team behavior", "Writing ability only"],
     correct: 2,
@@ -493,7 +482,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_061", subject: "english-communication", lecture: "lecture-6", lectureNo: 6,
+    id: "d263_061", subject: "english-communication",
     question: "Paragraph writing requires a:",
     options: ["List of words", "Topic sentence, supporting details, and a concluding sentence", "Random mix of sentences", "Only examples"],
     correct: 1,
@@ -501,17 +490,15 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_062", subject: "english-communication", lecture: "lecture-6", lectureNo: 6,
+    id: "d263_062", subject: "english-communication",
     question: "Plagiarism in writing means:",
     options: ["Citing sources properly", "Paraphrasing correctly", "Writing original content", "Copying others' work and presenting it as your own without acknowledgment"],
     correct: 3,
     explanation: "Plagiarism is using someone else's ideas or writing without proper credit — it is considered academic dishonesty.",
     difficulty: "easy"
   },
-
-  // ── LECTURE 7: Common Errors, Idioms, and Proverbs ────────────────────────
   {
-    id: "d263l_063", subject: "english-communication", lecture: "lecture-7", lectureNo: 7,
+    id: "d263_063", subject: "english-communication",
     question: "Correct the error: 'He is more taller than his brother.'",
     options: ["He is taller than his brother.", "He is most taller than his brother.", "He is tall than his brother.", "He is more tall than his brother."],
     correct: 0,
@@ -519,7 +506,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_064", subject: "english-communication", lecture: "lecture-7", lectureNo: 7,
+    id: "d263_064", subject: "english-communication",
     question: "Choose the correct spelling:",
     options: ["accommadate", "accommodate", "accomodate", "acomodate"],
     correct: 1,
@@ -527,7 +514,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_065", subject: "english-communication", lecture: "lecture-7", lectureNo: 7,
+    id: "d263_065", subject: "english-communication",
     question: "The idiom 'to beat around the bush' means:",
     options: ["To work very hard", "To hunt animals", "To avoid coming directly to the point", "To garden around trees"],
     correct: 2,
@@ -535,7 +522,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_066", subject: "english-communication", lecture: "lecture-7", lectureNo: 7,
+    id: "d263_066", subject: "english-communication",
     question: "'Actions speak louder than words' means:",
     options: ["Words are always powerful", "Physical actions make noise", "Always shout your actions", "What you do is more significant than what you say"],
     correct: 3,
@@ -543,7 +530,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_067", subject: "english-communication", lecture: "lecture-7", lectureNo: 7,
+    id: "d263_067", subject: "english-communication",
     question: "The idiom 'under the weather' means:",
     options: ["Feeling ill/unwell", "Below average temperature", "Hiding from sun", "Outdoors in rain"],
     correct: 0,
@@ -551,7 +538,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_068", subject: "english-communication", lecture: "lecture-7", lectureNo: 7,
+    id: "d263_068", subject: "english-communication",
     question: "Which sentence uses 'affect' and 'effect' correctly?",
     options: ["The drought affected the crops, and the effect was a poor harvest.", "The drought affected the effect.", "Effect of drought affected the crops.", "The drought effected the crops badly."],
     correct: 0,
@@ -559,7 +546,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d263l_069", subject: "english-communication", lecture: "lecture-7", lectureNo: 7,
+    id: "d263_069", subject: "english-communication",
     question: "'A stitch in time saves nine' implies:",
     options: ["Nine is a lucky number", "Save time for stitching", "Timely action prevents bigger problems later", "Sewing is important"],
     correct: 2,
@@ -567,7 +554,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_070", subject: "english-communication", lecture: "lecture-7", lectureNo: 7,
+    id: "d263_070", subject: "english-communication",
     question: "Identify the error: 'He didn't went to the field today.'",
     options: ["'went' should be 'go' (didn't + base verb)", "'today' should be 'yesterday'", "No error", "'He' should be 'She'"],
     correct: 0,
@@ -575,7 +562,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_071", subject: "english-communication", lecture: "lecture-7", lectureNo: 7,
+    id: "d263_071", subject: "english-communication",
     question: "'It's raining cats and dogs' is an idiom meaning:",
     options: ["It is a light drizzle", "Animals are falling from sky", "There are many pets", "It is raining very heavily"],
     correct: 3,
@@ -583,7 +570,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_072", subject: "english-communication", lecture: "lecture-7", lectureNo: 7,
+    id: "d263_072", subject: "english-communication",
     question: "The correct plural of 'datum' is:",
     options: ["datums", "data", "datae", "datum's"],
     correct: 1,
@@ -591,18 +578,15 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d263l_073", subject: "english-communication", lecture: "lecture-7", lectureNo: 7,
+    id: "d263_073", subject: "english-communication",
     question: "Choose the word that best completes: 'The _____ between supply and demand determines the market price.'",
     options: ["conflict", "gap", "problem", "interplay / balance"],
     correct: 3,
     explanation: "'Interplay' or 'balance' best describes the dynamic relationship between supply and demand.",
     difficulty: "medium"
   },
-
-
-  // ── LECTURE 14: Kinds of Nouns ───────────────────────────────────────────
   {
-    id: "d263l_074", subject: "english-communication", lecture: "lecture-14", lectureNo: 14,
+    id: "d263_074", subject: "english-communication",
     question: "Which of the following is a MATERIAL noun?",
     options: ["Honesty", "Delhi", "Water", "Team"],
     correct: 2,
@@ -610,7 +594,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_075", subject: "english-communication", lecture: "lecture-14", lectureNo: 14,
+    id: "d263_075", subject: "english-communication",
     question: "Which noun names a quality, feeling, or idea that cannot be seen or touched?",
     options: ["Proper noun", "Collective noun", "Common noun", "Abstract noun"],
     correct: 3,
@@ -618,7 +602,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_076", subject: "english-communication", lecture: "lecture-14", lectureNo: 14,
+    id: "d263_076", subject: "english-communication",
     question: "The word 'flock' (as in 'a flock of birds') is an example of:",
     options: ["Common noun", "Material noun", "Abstract noun", "Collective noun"],
     correct: 3,
@@ -626,7 +610,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_077", subject: "english-communication", lecture: "lecture-14", lectureNo: 14,
+    id: "d263_077", subject: "english-communication",
     question: "Which of the following is a COUNTABLE noun?",
     options: ["Rice", "Milk", "Chair", "Sand"],
     correct: 2,
@@ -634,16 +618,15 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_078", subject: "english-communication", lecture: "lecture-14", lectureNo: 14,
+    id: "d263_078", subject: "english-communication",
     question: "Which of the following is an UNCOUNTABLE (mass) noun?",
     options: ["Farmer", "Advice", "Book", "Village"],
     correct: 1,
     explanation: "Uncountable nouns cannot be counted directly — advice, furniture, luggage, information are uncountable nouns.",
     difficulty: "medium"
   },
-  // ── LECTURE 15: Pronouns ──────────────────────────────────────────────────
   {
-    id: "d263l_079", subject: "english-communication", lecture: "lecture-15", lectureNo: 15,
+    id: "d263_079", subject: "english-communication",
     question: "In 'The students hurt themselves', the word 'themselves' is a:",
     options: ["Reciprocal pronoun", "Emphatic pronoun", "Reflexive pronoun", "Possessive pronoun"],
     correct: 2,
@@ -651,7 +634,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d263l_080", subject: "english-communication", lecture: "lecture-15", lectureNo: 15,
+    id: "d263_080", subject: "english-communication",
     question: "Which pronoun is used to ask questions?",
     options: ["Demonstrative pronoun", "Interrogative pronoun", "Reflexive pronoun", "Indefinite pronoun"],
     correct: 1,
@@ -659,7 +642,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_081", subject: "english-communication", lecture: "lecture-15", lectureNo: 15,
+    id: "d263_081", subject: "english-communication",
     question: "In 'The boys helped each other', the phrase 'each other' is a:",
     options: ["Distributive pronoun", "Reciprocal pronoun", "Indefinite pronoun", "Relative pronoun"],
     correct: 1,
@@ -667,7 +650,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d263l_082", subject: "english-communication", lecture: "lecture-15", lectureNo: 15,
+    id: "d263_082", subject: "english-communication",
     question: "In 'She herself solved the problem', the word 'herself' is a:",
     options: ["Emphatic pronoun", "Reflexive pronoun", "Relative pronoun", "Possessive pronoun"],
     correct: 0,
@@ -675,16 +658,15 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d263l_083", subject: "english-communication", lecture: "lecture-15", lectureNo: 15,
+    id: "d263_083", subject: "english-communication",
     question: "Which of the following is a DISTRIBUTIVE pronoun?",
     options: ["Both", "Each", "Neither", "Everyone"],
     correct: 1,
     explanation: "Distributive pronouns refer to persons or things one at a time — each, either, neither are distributive pronouns.",
     difficulty: "medium"
   },
-  // ── LECTURE 16: Verbs ─────────────────────────────────────────────────────
   {
-    id: "d263l_084", subject: "english-communication", lecture: "lecture-16", lectureNo: 16,
+    id: "d263_084", subject: "english-communication",
     question: "Which verb forms its past tense by adding '-ed' or '-d'?",
     options: ["Regular (weak) verb", "Auxiliary verb", "Strong verb", "Irregular verb"],
     correct: 0,
@@ -692,7 +674,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_085", subject: "english-communication", lecture: "lecture-16", lectureNo: 16,
+    id: "d263_085", subject: "english-communication",
     question: "Which of the following is an IRREGULAR verb?",
     options: ["Went", "Played", "Worked", "Talked"],
     correct: 0,
@@ -700,7 +682,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_086", subject: "english-communication", lecture: "lecture-16", lectureNo: 16,
+    id: "d263_086", subject: "english-communication",
     question: "Which verb is used as an auxiliary verb in 'She can swim'?",
     options: ["Swim", "She", "Can", "None of these"],
     correct: 2,
@@ -708,16 +690,15 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_087", subject: "english-communication", lecture: "lecture-16", lectureNo: 16,
+    id: "d263_087", subject: "english-communication",
     question: "The past tense of the verb 'bring' is:",
     options: ["Brought", "Brang", "Bringed", "Brung"],
     correct: 0,
     explanation: "'Bring' is an irregular verb — its past tense and past participle is 'brought'.",
     difficulty: "easy"
   },
-  // ── LECTURE 17: Adjectives and Adverbs ───────────────────────────────────
   {
-    id: "d263l_088", subject: "english-communication", lecture: "lecture-17", lectureNo: 17,
+    id: "d263_088", subject: "english-communication",
     question: "Which is an adjective of QUANTITY?",
     options: ["Second", "This", "Some", "Which"],
     correct: 2,
@@ -725,7 +706,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d263l_089", subject: "english-communication", lecture: "lecture-17", lectureNo: 17,
+    id: "d263_089", subject: "english-communication",
     question: "Which is an adjective of NUMBER (numeral adjective)?",
     options: ["Some", "Much", "Three", "Beautiful"],
     correct: 2,
@@ -733,7 +714,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_090", subject: "english-communication", lecture: "lecture-17", lectureNo: 17,
+    id: "d263_090", subject: "english-communication",
     question: "The adverb 'there' in 'He lives there' is an adverb of:",
     options: ["Degree", "Manner", "Time", "Place"],
     correct: 3,
@@ -741,7 +722,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d263l_091", subject: "english-communication", lecture: "lecture-17", lectureNo: 17,
+    id: "d263_091", subject: "english-communication",
     question: "The adverb 'very' in 'He is very tall' is an adverb of:",
     options: ["Number", "Affirmation", "Time", "Degree (quantity)"],
     correct: 3,
@@ -749,16 +730,15 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d263l_092", subject: "english-communication", lecture: "lecture-17", lectureNo: 17,
+    id: "d263_092", subject: "english-communication",
     question: "Which adverb expresses NEGATION?",
     options: ["Never", "Twice", "Yesterday", "Hardly"],
     correct: 0,
     explanation: "Adverbs of negation express a negative meaning — never, not, no are adverbs of negation.",
     difficulty: "easy"
   },
-  // ── LECTURE 18: Prepositions ──────────────────────────────────────────────
   {
-    id: "d263l_093", subject: "english-communication", lecture: "lecture-18", lectureNo: 18,
+    id: "d263_093", subject: "english-communication",
     question: "Which of the following is a COMPOUND preposition?",
     options: ["At", "On", "According to", "In"],
     correct: 2,
@@ -766,7 +746,7 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d263l_094", subject: "english-communication", lecture: "lecture-18", lectureNo: 18,
+    id: "d263_094", subject: "english-communication",
     question: "Which of the following is a PARTICIPLE preposition?",
     options: ["Into", "Underneath", "Regarding", "Between"],
     correct: 2,
@@ -774,16 +754,15 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d263l_095", subject: "english-communication", lecture: "lecture-18", lectureNo: 18,
+    id: "d263_095", subject: "english-communication",
     question: "Which of the following is a SIMPLE (one-word) preposition?",
     options: ["With reference to", "Below", "In spite of", "On account of"],
     correct: 1,
     explanation: "Simple prepositions are single words — at, by, for, from, in, of, off, on, out, till, to, up, with, below are simple prepositions.",
     difficulty: "easy"
   },
-  // ── Assertion-Reason Questions ─────────────────────────────────────────────
   {
-    id: "d263l_096", subject: "english-communication", lecture: "lecture-14", lectureNo: 14,
+    id: "d263_096", subject: "english-communication",
     question: "Assertion (A): 'Gold' is a material noun.
 Reason (R): Material nouns name substances or raw materials from which things are made and are usually uncountable.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A"],
@@ -792,7 +771,7 @@ Reason (R): Material nouns name substances or raw materials from which things ar
     difficulty: "medium"
   },
   {
-    id: "d263l_097", subject: "english-communication", lecture: "lecture-16", lectureNo: 16,
+    id: "d263_097", subject: "english-communication",
     question: "Assertion (A): 'Slept' is the past tense of 'sleep'.
 Reason (R): 'Sleep' is a regular (weak) verb that forms its past tense by adding '-ed'.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A"],
@@ -801,7 +780,7 @@ Reason (R): 'Sleep' is a regular (weak) verb that forms its past tense by adding
     difficulty: "medium"
   },
   {
-    id: "d263l_098", subject: "english-communication", lecture: "lecture-17", lectureNo: 17,
+    id: "d263_098", subject: "english-communication",
     question: "Assertion (A): Adverbs can modify verbs, adjectives, and other adverbs.
 Reason (R): An adverb is a word that modifies a noun to describe or limit its meaning.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A"],
@@ -809,9 +788,8 @@ Reason (R): An adverb is a word that modifies a noun to describe or limit its me
     explanation: "A is true — adverbs modify verbs, adjectives, and other adverbs. R is false — it is ADJECTIVES (not adverbs) that modify nouns.",
     difficulty: "medium"
   },
-  // ── Three-column Matching Questions ───────────────────────────────────────
   {
-    id: "d263l_099", subject: "english-communication", lecture: "lecture-14", lectureNo: 14,
+    id: "d263_099", subject: "english-communication",
     question: "Match the noun with its KIND:
 Column A: 1. Courage  2. Milk  3. Orchestra  4. River
 Column B: P. Collective  Q. Proper  R. Abstract  S. Material",
@@ -821,7 +799,7 @@ Column B: P. Collective  Q. Proper  R. Abstract  S. Material",
     difficulty: "hard"
   },
   {
-    id: "d263l_100", subject: "english-communication", lecture: "lecture-17", lectureNo: 17,
+    id: "d263_100", subject: "english-communication",
     question: "Match the adverb with its TYPE:
 Column A: 1. Quickly  2. Yesterday  3. Twice  4. Yes
 Column B: P. Number  Q. Affirmation  R. Time  S. Manner",
@@ -829,6 +807,5 @@ Column B: P. Number  Q. Affirmation  R. Time  S. Manner",
     correct: 0,
     explanation: "Quickly=Manner (S) — how the action is done; Yesterday=Time (R) — when the action occurred; Twice=Number (P) — how many times; Yes=Affirmation (Q) — expresses affirmation.",
     difficulty: "medium"
-  },
-
+  }
 ];
