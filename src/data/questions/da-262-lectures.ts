@@ -5,47 +5,47 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_001", subject: "computer-applications", lecture: "lecture-1", lectureNo: 1,
     question: "A computer is an electronic device that:",
-    options: ["Only plays games", "Processes data according to instructions and produces output", "Only prints documents", "Only stores data"],
-    correct: 1,
+    options: ["Processes data according to instructions and produces output", "Only prints documents", "Only stores data", "Only plays games"],
+    correct: 0,
     explanation: "A computer accepts input data, processes it according to stored instructions (programs), and produces output.",
     difficulty: "easy"
   },
   {
     id: "d262l_002", subject: "computer-applications", lecture: "lecture-1", lectureNo: 1,
     question: "The full form of CPU is:",
-    options: ["Central Program Unit", "Core Processing Unit", "Computer Processing Unit", "Central Processing Unit"],
-    correct: 3,
+    options: ["Computer Processing Unit", "Core Processing Unit", "Central Processing Unit", "Central Program Unit"],
+    correct: 2,
     explanation: "CPU (Central Processing Unit) is the brain of the computer that executes instructions.",
     difficulty: "easy"
   },
   {
     id: "d262l_003", subject: "computer-applications", lecture: "lecture-1", lectureNo: 1,
     question: "RAM stands for:",
-    options: ["Rapid Access Module", "Random Access Memory", "Read All Memory", "Remote Access Memory"],
-    correct: 1,
+    options: ["Random Access Memory", "Read All Memory", "Rapid Access Module", "Remote Access Memory"],
+    correct: 0,
     explanation: "RAM (Random Access Memory) is the primary working memory where data and programs are stored temporarily.",
     difficulty: "easy"
   },
   {
     id: "d262l_004", subject: "computer-applications", lecture: "lecture-1", lectureNo: 1,
     question: "Which generation of computers used transistors?",
-    options: ["Fourth generation", "Second generation", "First generation", "Third generation"],
-    correct: 1,
+    options: ["Fourth generation", "Third generation", "Second generation", "First generation"],
+    correct: 2,
     explanation: "Second generation computers (1955–1964) used transistors, replacing vacuum tubes of the first generation.",
     difficulty: "medium"
   },
   {
     id: "d262l_005", subject: "computer-applications", lecture: "lecture-1", lectureNo: 1,
     question: "The binary number system uses digits:",
-    options: ["0 and 1", "0–7", "A–F", "0–9"],
-    correct: 0,
+    options: ["0–7", "0–9", "A–F", "0 and 1"],
+    correct: 3,
     explanation: "Binary (base-2) uses only two digits: 0 and 1. All computer data is ultimately represented in binary.",
     difficulty: "easy"
   },
   {
     id: "d262l_006", subject: "computer-applications", lecture: "lecture-1", lectureNo: 1,
     question: "1 byte =",
-    options: ["1024 bits", "8 bits", "4 bits", "16 bits"],
+    options: ["4 bits", "8 bits", "16 bits", "1024 bits"],
     correct: 1,
     explanation: "1 byte = 8 bits. Bit is the smallest unit; byte is the basic unit of storage.",
     difficulty: "easy"
@@ -53,8 +53,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_007", subject: "computer-applications", lecture: "lecture-1", lectureNo: 1,
     question: "1 KB (Kilobyte) =",
-    options: ["100 bytes", "1,024 bytes", "10,000 bytes", "1,000 bytes"],
-    correct: 1,
+    options: ["100 bytes", "1,000 bytes", "10,000 bytes", "1,024 bytes"],
+    correct: 3,
     explanation: "1 KB = 1,024 bytes (2¹⁰). 1 MB = 1,024 KB; 1 GB = 1,024 MB.",
     difficulty: "easy"
   },
@@ -69,7 +69,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_009", subject: "computer-applications", lecture: "lecture-1", lectureNo: 1,
     question: "Which of the following is an input device?",
-    options: ["Speaker", "Monitor", "Printer", "Keyboard"],
+    options: ["Printer", "Speaker", "Monitor", "Keyboard"],
     correct: 3,
     explanation: "Keyboard is an input device. Monitor, printer, and speaker are output devices.",
     difficulty: "easy"
@@ -77,24 +77,24 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_010", subject: "computer-applications", lecture: "lecture-1", lectureNo: 1,
     question: "Which of the following is an output device?",
-    options: ["Keyboard", "Scanner", "Mouse", "Monitor"],
-    correct: 3,
+    options: ["Scanner", "Monitor", "Keyboard", "Mouse"],
+    correct: 1,
     explanation: "Monitor (VDU) is an output device that displays processed information.",
     difficulty: "easy"
   },
   {
     id: "d262l_011", subject: "computer-applications", lecture: "lecture-1", lectureNo: 1,
     question: "The motherboard of a computer is:",
-    options: ["The main circuit board connecting all components", "The power supply unit", "The CPU only", "The hard disk"],
-    correct: 0,
+    options: ["The CPU only", "The main circuit board connecting all components", "The hard disk", "The power supply unit"],
+    correct: 1,
     explanation: "Motherboard is the main PCB (Printed Circuit Board) that connects and allows communication among all computer components.",
     difficulty: "easy"
   },
   {
     id: "d262l_012", subject: "computer-applications", lecture: "lecture-1", lectureNo: 1,
     question: "BIOS stands for:",
-    options: ["Binary Input Output System", "Basic Input Output System", "Basic Input Output Software", "Basic Integrated Operating System"],
-    correct: 1,
+    options: ["Basic Integrated Operating System", "Basic Input Output Software", "Basic Input Output System", "Binary Input Output System"],
+    correct: 2,
     explanation: "BIOS (Basic Input Output System) is firmware stored in ROM that initializes hardware during startup.",
     difficulty: "medium"
   },
@@ -103,7 +103,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_013", subject: "computer-applications", lecture: "lecture-2", lectureNo: 2,
     question: "An operating system is:",
-    options: ["System software that manages computer hardware and provides services to programs", "An application program", "A hardware component", "A type of memory"],
+    options: ["System software that manages computer hardware and provides services to programs", "A hardware component", "An application program", "A type of memory"],
     correct: 0,
     explanation: "OS (Operating System) is system software that manages hardware resources and provides a platform for application software.",
     difficulty: "easy"
@@ -111,56 +111,56 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_014", subject: "computer-applications", lecture: "lecture-2", lectureNo: 2,
     question: "Which is NOT an operating system?",
-    options: ["Linux", "Windows", "MS-DOS", "MS Excel"],
-    correct: 3,
+    options: ["MS Excel", "Linux", "MS-DOS", "Windows"],
+    correct: 0,
     explanation: "MS Excel is an application (spreadsheet) program. Windows, Linux, and MS-DOS are operating systems.",
     difficulty: "easy"
   },
   {
     id: "d262l_015", subject: "computer-applications", lecture: "lecture-2", lectureNo: 2,
     question: "GUI stands for:",
-    options: ["General User Interface", "Generated Utility Interface", "Graphical User Interface", "Global User Interface"],
-    correct: 2,
+    options: ["General User Interface", "Graphical User Interface", "Global User Interface", "Generated Utility Interface"],
+    correct: 1,
     explanation: "GUI (Graphical User Interface) allows users to interact with computers using icons, menus, and windows instead of text commands.",
     difficulty: "easy"
   },
   {
     id: "d262l_016", subject: "computer-applications", lecture: "lecture-2", lectureNo: 2,
     question: "Which of the following is an application software?",
-    options: ["Ubuntu", "Windows 10", "MS Word", "Linux"],
-    correct: 2,
+    options: ["MS Word", "Linux", "Ubuntu", "Windows 10"],
+    correct: 0,
     explanation: "MS Word is application software for word processing. Windows 10, Ubuntu, and Linux are operating systems.",
     difficulty: "easy"
   },
   {
     id: "d262l_017", subject: "computer-applications", lecture: "lecture-2", lectureNo: 2,
     question: "Open source software means:",
-    options: ["Software that is free to use and whose source code is openly available", "Software for outdoor activities", "Paid proprietary software", "Software that has no purpose"],
-    correct: 0,
+    options: ["Paid proprietary software", "Software that is free to use and whose source code is openly available", "Software for outdoor activities", "Software that has no purpose"],
+    correct: 1,
     explanation: "Open source software has publicly available source code that can be freely used, modified, and distributed.",
     difficulty: "easy"
   },
   {
     id: "d262l_018", subject: "computer-applications", lecture: "lecture-2", lectureNo: 2,
     question: "Android is an operating system designed for:",
-    options: ["Supercomputers", "Mobile devices (smartphones and tablets)", "Servers only", "Desktop computers only"],
-    correct: 1,
+    options: ["Mobile devices (smartphones and tablets)", "Desktop computers only", "Servers only", "Supercomputers"],
+    correct: 0,
     explanation: "Android is an open-source operating system developed by Google for mobile devices.",
     difficulty: "easy"
   },
   {
     id: "d262l_019", subject: "computer-applications", lecture: "lecture-2", lectureNo: 2,
     question: "A virus in computer terms is:",
-    options: ["An antivirus program", "A system driver", "Malicious software that replicates and damages files/systems", "A beneficial program"],
-    correct: 2,
+    options: ["A system driver", "Malicious software that replicates and damages files/systems", "A beneficial program", "An antivirus program"],
+    correct: 1,
     explanation: "Computer virus is malware that attaches to programs/files, replicates itself, and may destroy data.",
     difficulty: "easy"
   },
   {
     id: "d262l_020", subject: "computer-applications", lecture: "lecture-2", lectureNo: 2,
     question: "Antivirus software is used to:",
-    options: ["Create documents", "Speed up the computer", "Detect, prevent, and remove malicious software", "Connect to the internet"],
-    correct: 2,
+    options: ["Detect, prevent, and remove malicious software", "Connect to the internet", "Speed up the computer", "Create documents"],
+    correct: 0,
     explanation: "Antivirus software scans, detects, and removes malware (viruses, trojans, worms, spyware).",
     difficulty: "easy"
   },
@@ -175,8 +175,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_022", subject: "computer-applications", lecture: "lecture-2", lectureNo: 2,
     question: "Multitasking in an operating system means:",
-    options: ["The computer runs at multiple speeds", "Only one program runs at a time", "Multiple programs run simultaneously (concurrent execution)", "Multiple users can log in"],
-    correct: 2,
+    options: ["Only one program runs at a time", "The computer runs at multiple speeds", "Multiple users can log in", "Multiple programs run simultaneously (concurrent execution)"],
+    correct: 3,
     explanation: "Multitasking allows multiple programs to run concurrently by rapidly switching CPU time between them.",
     difficulty: "medium"
   },
@@ -185,15 +185,15 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_023", subject: "computer-applications", lecture: "lecture-3", lectureNo: 3,
     question: "MS Word is primarily used for:",
-    options: ["Creating spreadsheets", "Graphic design", "Word processing (creating, editing, formatting text documents)", "Database management"],
-    correct: 2,
+    options: ["Creating spreadsheets", "Word processing (creating, editing, formatting text documents)", "Graphic design", "Database management"],
+    correct: 1,
     explanation: "MS Word is a word processor for creating letters, reports, essays, and other text-based documents.",
     difficulty: "easy"
   },
   {
     id: "d262l_024", subject: "computer-applications", lecture: "lecture-3", lectureNo: 3,
     question: "The default file extension for MS Word 2016 documents is:",
-    options: [".txt", ".doc", ".docx", ".pdf"],
+    options: [".txt", ".pdf", ".docx", ".doc"],
     correct: 2,
     explanation: "MS Word 2007 and later saves files in .docx format (XML-based). Older versions used .doc.",
     difficulty: "easy"
@@ -201,39 +201,39 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_025", subject: "computer-applications", lecture: "lecture-3", lectureNo: 3,
     question: "The shortcut key for 'Save' in MS Word is:",
-    options: ["Alt + S", "Ctrl + O", "Ctrl + S", "Ctrl + P"],
-    correct: 2,
+    options: ["Alt + S", "Ctrl + S", "Ctrl + O", "Ctrl + P"],
+    correct: 1,
     explanation: "Ctrl + S saves the current document in MS Word.",
     difficulty: "easy"
   },
   {
     id: "d262l_026", subject: "computer-applications", lecture: "lecture-3", lectureNo: 3,
     question: "Which tab in MS Word contains font formatting options?",
-    options: ["Page Layout", "Insert", "Home", "View"],
-    correct: 2,
+    options: ["Home", "View", "Insert", "Page Layout"],
+    correct: 0,
     explanation: "The Home tab contains the Font and Paragraph groups for text formatting in MS Word.",
     difficulty: "easy"
   },
   {
     id: "d262l_027", subject: "computer-applications", lecture: "lecture-3", lectureNo: 3,
     question: "Mail Merge in MS Word is used for:",
-    options: ["Merging two documents into one", "Creating personalized letters for multiple recipients using a data source", "Merging footnotes", "Combining cells in a table"],
-    correct: 1,
+    options: ["Merging two documents into one", "Merging footnotes", "Creating personalized letters for multiple recipients using a data source", "Combining cells in a table"],
+    correct: 2,
     explanation: "Mail Merge combines a template document with a data source (Excel, Access) to produce personalized mass mailings.",
     difficulty: "medium"
   },
   {
     id: "d262l_028", subject: "computer-applications", lecture: "lecture-3", lectureNo: 3,
     question: "The shortcut key for 'Bold' in MS Word is:",
-    options: ["Ctrl + B", "Ctrl + U", "Ctrl + D", "Ctrl + I"],
-    correct: 0,
+    options: ["Ctrl + U", "Ctrl + I", "Ctrl + B", "Ctrl + D"],
+    correct: 2,
     explanation: "Ctrl + B applies bold formatting in MS Word (Ctrl + I = Italic, Ctrl + U = Underline).",
     difficulty: "easy"
   },
   {
     id: "d262l_029", subject: "computer-applications", lecture: "lecture-3", lectureNo: 3,
     question: "Which feature in MS Word checks spelling and grammar?",
-    options: ["Track Changes", "AutoCorrect only", "Spelling & Grammar (F7)", "AutoFit"],
+    options: ["AutoFit", "Track Changes", "Spelling & Grammar (F7)", "AutoCorrect only"],
     correct: 2,
     explanation: "Spelling & Grammar check (F7 shortcut) reviews text for errors in MS Word.",
     difficulty: "easy"
@@ -241,15 +241,15 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_030", subject: "computer-applications", lecture: "lecture-3", lectureNo: 3,
     question: "Print Preview in MS Word allows:",
-    options: ["Printing immediately", "Viewing how the document will look when printed before printing", "Editing the document", "Saving the document"],
-    correct: 1,
+    options: ["Printing immediately", "Saving the document", "Viewing how the document will look when printed before printing", "Editing the document"],
+    correct: 2,
     explanation: "Print Preview shows an on-screen representation of the printed page layout.",
     difficulty: "easy"
   },
   {
     id: "d262l_031", subject: "computer-applications", lecture: "lecture-3", lectureNo: 3,
     question: "Track Changes feature in MS Word is used to:",
-    options: ["Monitor file size changes", "Track printing", "Record and show changes made by multiple authors for review", "Track the time spent on a document"],
+    options: ["Track the time spent on a document", "Track printing", "Record and show changes made by multiple authors for review", "Monitor file size changes"],
     correct: 2,
     explanation: "Track Changes records all edits (insertions, deletions) so authors or reviewers can see and accept/reject changes.",
     difficulty: "medium"
@@ -257,8 +257,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_032", subject: "computer-applications", lecture: "lecture-3", lectureNo: 3,
     question: "The maximum font size available in MS Word font size box is:",
-    options: ["100 pt", "1638 pt", "72 pt", "400 pt"],
-    correct: 1,
+    options: ["400 pt", "100 pt", "72 pt", "1638 pt"],
+    correct: 3,
     explanation: "MS Word allows font sizes from 1 to 1638 points (you can type the size directly).",
     difficulty: "hard"
   },
@@ -267,7 +267,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_033", subject: "computer-applications", lecture: "lecture-4", lectureNo: 4,
     question: "MS Excel is primarily used for:",
-    options: ["Creating, organizing, and analyzing data in spreadsheets", "Presentation design", "Word processing", "Email communication"],
+    options: ["Creating, organizing, and analyzing data in spreadsheets", "Email communication", "Word processing", "Presentation design"],
     correct: 0,
     explanation: "MS Excel is a spreadsheet application used for data entry, calculations, charts, and data analysis.",
     difficulty: "easy"
@@ -275,7 +275,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_034", subject: "computer-applications", lecture: "lecture-4", lectureNo: 4,
     question: "The default file extension for MS Excel 2016 is:",
-    options: [".xlm", ".xls", ".csv", ".xlsx"],
+    options: [".xls", ".xlm", ".csv", ".xlsx"],
     correct: 3,
     explanation: "Excel 2007 and later uses .xlsx format (XML-based). Older versions used .xls.",
     difficulty: "easy"
@@ -283,32 +283,32 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_035", subject: "computer-applications", lecture: "lecture-4", lectureNo: 4,
     question: "A cell in Excel is identified by:",
-    options: ["Column letter followed by row number (e.g., A1, B5)", "Only row and column numbers", "Cell name only", "Row number only"],
-    correct: 0,
+    options: ["Cell name only", "Row number only", "Column letter followed by row number (e.g., A1, B5)", "Only row and column numbers"],
+    correct: 2,
     explanation: "Cell address = Column letter + Row number (e.g., A1, C15). Used in formulas and navigation.",
     difficulty: "easy"
   },
   {
     id: "d262l_036", subject: "computer-applications", lecture: "lecture-4", lectureNo: 4,
     question: "In Excel, a formula must start with:",
-    options: ["@", "!", "=", "#"],
-    correct: 2,
+    options: ["=", "#", "@", "!"],
+    correct: 0,
     explanation: "All Excel formulas begin with '=' to distinguish them from regular text/data.",
     difficulty: "easy"
   },
   {
     id: "d262l_037", subject: "computer-applications", lecture: "lecture-4", lectureNo: 4,
     question: "The function =SUM(A1:A10) calculates:",
-    options: ["Count of cells", "Maximum value", "Average of A1 to A10", "Sum of values in cells A1 through A10"],
-    correct: 3,
+    options: ["Sum of values in cells A1 through A10", "Count of cells", "Average of A1 to A10", "Maximum value"],
+    correct: 0,
     explanation: "=SUM(A1:A10) adds all values in the range A1 to A10.",
     difficulty: "easy"
   },
   {
     id: "d262l_038", subject: "computer-applications", lecture: "lecture-4", lectureNo: 4,
     question: "The function =AVERAGE(B1:B5) computes:",
-    options: ["Number of cells", "Minimum value", "Sum of B1 to B5", "Arithmetic mean of values in B1 to B5"],
-    correct: 3,
+    options: ["Arithmetic mean of values in B1 to B5", "Minimum value", "Number of cells", "Sum of B1 to B5"],
+    correct: 0,
     explanation: "=AVERAGE() calculates the arithmetic mean (sum ÷ count) of specified cells.",
     difficulty: "easy"
   },
@@ -323,24 +323,24 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_040", subject: "computer-applications", lecture: "lecture-4", lectureNo: 4,
     question: "VLOOKUP function in Excel is used to:",
-    options: ["Validate data", "Calculate vertical sums", "Look up a value in a column and return a value from another column in the same row", "Create vertical charts"],
-    correct: 2,
+    options: ["Validate data", "Create vertical charts", "Calculate vertical sums", "Look up a value in a column and return a value from another column in the same row"],
+    correct: 3,
     explanation: "VLOOKUP searches vertically in the first column of a table and returns a value from a specified column in the same row.",
     difficulty: "medium"
   },
   {
     id: "d262l_041", subject: "computer-applications", lecture: "lecture-4", lectureNo: 4,
     question: "Pivot Table in Excel is used for:",
-    options: ["Setting print margins", "Summarizing, analyzing, and presenting large data sets interactively", "Rotating the worksheet", "Inserting images"],
-    correct: 1,
+    options: ["Summarizing, analyzing, and presenting large data sets interactively", "Inserting images", "Rotating the worksheet", "Setting print margins"],
+    correct: 0,
     explanation: "Pivot Tables allow interactive summarization and cross-tabulation of large data sets for analysis.",
     difficulty: "medium"
   },
   {
     id: "d262l_042", subject: "computer-applications", lecture: "lecture-4", lectureNo: 4,
     question: "Conditional Formatting in Excel highlights cells based on:",
-    options: ["User-defined rules (cell value, text, date criteria)", "Random selection", "Font type only", "File size"],
-    correct: 0,
+    options: ["File size", "User-defined rules (cell value, text, date criteria)", "Random selection", "Font type only"],
+    correct: 1,
     explanation: "Conditional Formatting automatically applies color or format to cells meeting specified conditions.",
     difficulty: "medium"
   },
@@ -349,55 +349,55 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_043", subject: "computer-applications", lecture: "lecture-5", lectureNo: 5,
     question: "MS PowerPoint is used for:",
-    options: ["Spreadsheet calculations", "Word processing", "Database management", "Creating slide-based presentations"],
-    correct: 3,
+    options: ["Spreadsheet calculations", "Word processing", "Creating slide-based presentations", "Database management"],
+    correct: 2,
     explanation: "PowerPoint creates slide show presentations for lectures, meetings, and demonstrations.",
     difficulty: "easy"
   },
   {
     id: "d262l_044", subject: "computer-applications", lecture: "lecture-5", lectureNo: 5,
     question: "The default file format of MS PowerPoint 2016 is:",
-    options: [".pps", ".pptx", ".ppt", ".pot"],
-    correct: 1,
+    options: [".pptx", ".pot", ".pps", ".ppt"],
+    correct: 0,
     explanation: "PowerPoint 2007 and later uses .pptx format. Older format is .ppt.",
     difficulty: "easy"
   },
   {
     id: "d262l_045", subject: "computer-applications", lecture: "lecture-5", lectureNo: 5,
     question: "Slide Transition in PowerPoint refers to:",
-    options: ["The animation of objects within a slide", "The design template", "The slide master", "The visual effect when moving from one slide to the next"],
-    correct: 3,
+    options: ["The slide master", "The visual effect when moving from one slide to the next", "The animation of objects within a slide", "The design template"],
+    correct: 1,
     explanation: "Slide transition is the animation/effect applied when switching between slides during a presentation.",
     difficulty: "easy"
   },
   {
     id: "d262l_046", subject: "computer-applications", lecture: "lecture-5", lectureNo: 5,
     question: "Internet is best described as:",
-    options: ["A global network of interconnected computers and devices", "A local area network", "A single computer", "A type of software"],
-    correct: 0,
+    options: ["A single computer", "A local area network", "A global network of interconnected computers and devices", "A type of software"],
+    correct: 2,
     explanation: "The Internet is a global system of interconnected computer networks that communicate via TCP/IP protocol.",
     difficulty: "easy"
   },
   {
     id: "d262l_047", subject: "computer-applications", lecture: "lecture-5", lectureNo: 5,
     question: "WWW stands for:",
-    options: ["Web World Wide", "Wide Web Works", "World Wide Web", "World Wide Wire"],
-    correct: 2,
+    options: ["World Wide Web", "Web World Wide", "Wide Web Works", "World Wide Wire"],
+    correct: 0,
     explanation: "WWW (World Wide Web) is a system of interconnected hypertext documents accessible via the Internet.",
     difficulty: "easy"
   },
   {
     id: "d262l_048", subject: "computer-applications", lecture: "lecture-5", lectureNo: 5,
     question: "HTTP stands for:",
-    options: ["HyperText Transmission Program", "Hyperlink Text Transport Protocol", "HyperText Transfer Protocol", "High Transfer Text Protocol"],
-    correct: 2,
+    options: ["Hyperlink Text Transport Protocol", "High Transfer Text Protocol", "HyperText Transmission Program", "HyperText Transfer Protocol"],
+    correct: 3,
     explanation: "HTTP (HyperText Transfer Protocol) is the protocol for transmitting web pages on the internet.",
     difficulty: "easy"
   },
   {
     id: "d262l_049", subject: "computer-applications", lecture: "lecture-5", lectureNo: 5,
     question: "URL stands for:",
-    options: ["Universal Remote Link", "Universal Resource Locator", "Unified Resource Language", "Uniform Resource Locator"],
+    options: ["Universal Resource Locator", "Unified Resource Language", "Universal Remote Link", "Uniform Resource Locator"],
     correct: 3,
     explanation: "URL (Uniform Resource Locator) is the web address used to locate resources on the internet.",
     difficulty: "easy"
@@ -405,24 +405,24 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_050", subject: "computer-applications", lecture: "lecture-5", lectureNo: 5,
     question: "Email stands for:",
-    options: ["Express Mail", "Electrical Mail", "Electronic Mail", "Extended Mail"],
-    correct: 2,
+    options: ["Electronic Mail", "Express Mail", "Extended Mail", "Electrical Mail"],
+    correct: 0,
     explanation: "Email (Electronic Mail) is a method of exchanging digital messages over computer networks.",
     difficulty: "easy"
   },
   {
     id: "d262l_051", subject: "computer-applications", lecture: "lecture-5", lectureNo: 5,
     question: "A browser is software used to:",
-    options: ["Manage email", "Access and display web pages on the internet", "Store files", "Design websites"],
-    correct: 1,
+    options: ["Access and display web pages on the internet", "Design websites", "Store files", "Manage email"],
+    correct: 0,
     explanation: "Web browsers (Chrome, Firefox, Edge, Safari) retrieve and display web pages from the internet.",
     difficulty: "easy"
   },
   {
     id: "d262l_052", subject: "computer-applications", lecture: "lecture-5", lectureNo: 5,
     question: "LAN stands for:",
-    options: ["Local Area Network", "Large Access Network", "Linked Area Node", "Long Area Network"],
-    correct: 0,
+    options: ["Long Area Network", "Large Access Network", "Linked Area Node", "Local Area Network"],
+    correct: 3,
     explanation: "LAN (Local Area Network) connects computers within a limited area like a building or campus.",
     difficulty: "easy"
   },
@@ -431,72 +431,72 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_053", subject: "computer-applications", lecture: "lecture-6", lectureNo: 6,
     question: "A database is:",
-    options: ["An organized collection of structured data stored electronically", "A type of computer", "A programming language", "An operating system"],
-    correct: 0,
+    options: ["An operating system", "An organized collection of structured data stored electronically", "A programming language", "A type of computer"],
+    correct: 1,
     explanation: "A database is an organized collection of data that can be easily accessed, managed, and updated.",
     difficulty: "easy"
   },
   {
     id: "d262l_054", subject: "computer-applications", lecture: "lecture-6", lectureNo: 6,
     question: "DBMS stands for:",
-    options: ["Database Management Software", "Digital Base Management System", "Data Based Management Service", "Database Management System"],
-    correct: 3,
+    options: ["Digital Base Management System", "Database Management Software", "Database Management System", "Data Based Management Service"],
+    correct: 2,
     explanation: "DBMS (Database Management System) software manages databases, controls access, and handles queries.",
     difficulty: "easy"
   },
   {
     id: "d262l_055", subject: "computer-applications", lecture: "lecture-6", lectureNo: 6,
     question: "SQL stands for:",
-    options: ["Standard Query List", "Structured Query Language", "System Query Logic", "Simple Query Language"],
-    correct: 1,
+    options: ["Structured Query Language", "Simple Query Language", "Standard Query List", "System Query Logic"],
+    correct: 0,
     explanation: "SQL (Structured Query Language) is the standard language for managing relational databases.",
     difficulty: "medium"
   },
   {
     id: "d262l_056", subject: "computer-applications", lecture: "lecture-6", lectureNo: 6,
     question: "Which of the following is a popular DBMS?",
-    options: ["MS Word", "MySQL", "Adobe Photoshop", "VLC Media Player"],
-    correct: 1,
+    options: ["Adobe Photoshop", "VLC Media Player", "MS Word", "MySQL"],
+    correct: 3,
     explanation: "MySQL is a popular open-source relational database management system.",
     difficulty: "easy"
   },
   {
     id: "d262l_057", subject: "computer-applications", lecture: "lecture-6", lectureNo: 6,
     question: "Precision agriculture uses technology for:",
-    options: ["Reducing farm area", "Manual observation only", "Variable rate application of inputs based on spatial variability in fields", "One-size-fits-all farming"],
-    correct: 2,
+    options: ["One-size-fits-all farming", "Variable rate application of inputs based on spatial variability in fields", "Reducing farm area", "Manual observation only"],
+    correct: 1,
     explanation: "Precision agriculture uses GPS, sensors, and GIS to optimize input application according to field variability.",
     difficulty: "medium"
   },
   {
     id: "d262l_058", subject: "computer-applications", lecture: "lecture-6", lectureNo: 6,
     question: "Soil moisture sensors in precision agriculture help in:",
-    options: ["Optimizing irrigation scheduling", "Pest identification", "Weather forecasting", "Seed selection"],
-    correct: 0,
+    options: ["Weather forecasting", "Seed selection", "Optimizing irrigation scheduling", "Pest identification"],
+    correct: 2,
     explanation: "Soil moisture sensors provide real-time data to trigger irrigation only when needed, saving water.",
     difficulty: "easy"
   },
   {
     id: "d262l_059", subject: "computer-applications", lecture: "lecture-6", lectureNo: 6,
     question: "e-Crop advisory services in agriculture provide:",
-    options: ["Government job notifications", "Free seeds", "Real-time crop production advice, pest alerts, and weather updates to farmers", "Direct loans"],
-    correct: 2,
+    options: ["Real-time crop production advice, pest alerts, and weather updates to farmers", "Free seeds", "Government job notifications", "Direct loans"],
+    correct: 0,
     explanation: "e-Crop advisory services (via apps, SMS, internet) give farmers timely advice on crop management and market prices.",
     difficulty: "easy"
   },
   {
     id: "d262l_060", subject: "computer-applications", lecture: "lecture-6", lectureNo: 6,
     question: "GIS in agriculture is used for:",
-    options: ["Playing games", "Mapping soil variability, crop health, land use, and planning irrigation", "Word processing", "Accounting"],
-    correct: 1,
+    options: ["Word processing", "Playing games", "Mapping soil variability, crop health, land use, and planning irrigation", "Accounting"],
+    correct: 2,
     explanation: "GIS (Geographic Information System) integrates spatial data for precision farming, land use planning, and resource management.",
     difficulty: "medium"
   },
   {
     id: "d262l_061", subject: "computer-applications", lecture: "lecture-6", lectureNo: 6,
     question: "Cloud computing allows farmers to:",
-    options: ["Store data on local hard disks only", "Access data, apps, and services over the internet from anywhere", "Work without electricity", "Avoid using computers"],
-    correct: 1,
+    options: ["Access data, apps, and services over the internet from anywhere", "Work without electricity", "Store data on local hard disks only", "Avoid using computers"],
+    correct: 0,
     explanation: "Cloud computing provides internet-based storage, software, and services accessible from any device.",
     difficulty: "medium"
   },
@@ -505,15 +505,15 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_062", subject: "computer-applications", lecture: "lecture-7", lectureNo: 7,
     question: "Digital India programme was launched in:",
-    options: ["2020", "2005", "2010", "2015"],
-    correct: 3,
+    options: ["2005", "2015", "2010", "2020"],
+    correct: 1,
     explanation: "Digital India was launched by the Government of India on 1 July 2015 to transform India into a digitally empowered society.",
     difficulty: "easy"
   },
   {
     id: "d262l_063", subject: "computer-applications", lecture: "lecture-7", lectureNo: 7,
     question: "UPI (Unified Payments Interface) enables:",
-    options: ["Television broadcasting", "Instant real-time bank transfers using mobile phones", "Satellite communication", "Internet browsing"],
+    options: ["Television broadcasting", "Instant real-time bank transfers using mobile phones", "Internet browsing", "Satellite communication"],
     correct: 1,
     explanation: "UPI is a payment system that facilitates instant inter-bank transactions via smartphones, developed by NPCI.",
     difficulty: "easy"
@@ -521,23 +521,23 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_064", subject: "computer-applications", lecture: "lecture-7", lectureNo: 7,
     question: "Aadhaar is a:",
-    options: ["Voter ID", "Bank account", "12-digit unique biometric identity number issued to Indian residents", "Passport number"],
-    correct: 2,
+    options: ["Bank account", "12-digit unique biometric identity number issued to Indian residents", "Passport number", "Voter ID"],
+    correct: 1,
     explanation: "Aadhaar is India's biometric UID (Unique Identification) 12-digit number issued by UIDAI.",
     difficulty: "easy"
   },
   {
     id: "d262l_065", subject: "computer-applications", lecture: "lecture-7", lectureNo: 7,
     question: "PMGDISHA (Pradhan Mantri Gramin Digital Saksharta Abhiyan) aims to:",
-    options: ["Provide rural electricity", "Make rural households digitally literate across India", "Build rural roads", "Provide free computers to farmers"],
-    correct: 1,
+    options: ["Make rural households digitally literate across India", "Provide free computers to farmers", "Provide rural electricity", "Build rural roads"],
+    correct: 0,
     explanation: "PMGDISHA aims to provide digital literacy skills to six crore rural households to enable them to use digital devices.",
     difficulty: "medium"
   },
   {
     id: "d262l_066", subject: "computer-applications", lecture: "lecture-7", lectureNo: 7,
     question: "mKisan (Mobile for Agriculture) portal provides:",
-    options: ["Mobile banking only", "Mobile games", "SMS-based crop advisory, weather alerts, and market prices to farmers", "Social media access"],
+    options: ["Mobile games", "Social media access", "SMS-based crop advisory, weather alerts, and market prices to farmers", "Mobile banking only"],
     correct: 2,
     explanation: "mKisan portal delivers agricultural information directly to farmers' mobile phones via SMS in local languages.",
     difficulty: "medium"
@@ -545,7 +545,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_067", subject: "computer-applications", lecture: "lecture-7", lectureNo: 7,
     question: "IoT (Internet of Things) in agriculture refers to:",
-    options: ["Traditional farming methods", "International trade of crops", "Connected sensors, devices, and systems that collect and exchange data for smart farming", "Only internet browsing on farm"],
+    options: ["Traditional farming methods", "Only internet browsing on farm", "Connected sensors, devices, and systems that collect and exchange data for smart farming", "International trade of crops"],
     correct: 2,
     explanation: "Agricultural IoT connects field sensors, weather stations, and drones to collect and analyze farm data in real time.",
     difficulty: "medium"
@@ -553,24 +553,24 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_068", subject: "computer-applications", lecture: "lecture-7", lectureNo: 7,
     question: "Artificial Intelligence (AI) in agriculture can help with:",
-    options: ["Crop disease detection, yield prediction, and automated machinery", "Manual weeding only", "Manual irrigation", "Removing insects by hand"],
-    correct: 0,
+    options: ["Manual irrigation", "Removing insects by hand", "Crop disease detection, yield prediction, and automated machinery", "Manual weeding only"],
+    correct: 2,
     explanation: "AI enables image-based disease diagnosis, yield forecasting, robotic harvesting, and smart irrigation management.",
     difficulty: "medium"
   },
   {
     id: "d262l_069", subject: "computer-applications", lecture: "lecture-7", lectureNo: 7,
     question: "Blockchain technology in agriculture can improve:",
-    options: ["Traceability and transparency in food supply chain and transactions", "Weather prediction", "Water quality", "Soil fertility"],
-    correct: 0,
+    options: ["Water quality", "Weather prediction", "Soil fertility", "Traceability and transparency in food supply chain and transactions"],
+    correct: 3,
     explanation: "Blockchain provides an immutable record of transactions, enabling traceability from farm to consumer in food supply chains.",
     difficulty: "hard"
   },
   {
     id: "d262l_070", subject: "computer-applications", lecture: "lecture-7", lectureNo: 7,
     question: "Agri-Stack is an initiative in India to create:",
-    options: ["Agricultural building codes", "Fertilizer stacking guidelines", "Grain storage stacks", "A federated farmers' database and digital infrastructure for agricultural services"],
-    correct: 3,
+    options: ["Agricultural building codes", "A federated farmers' database and digital infrastructure for agricultural services", "Grain storage stacks", "Fertilizer stacking guidelines"],
+    correct: 1,
     explanation: "Agri-Stack is a digital public infrastructure to create a digital identity and data layer for farmers to access services.",
     difficulty: "hard"
   },
@@ -587,7 +587,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_072", subject: "da-262", lecture: "lecture-8", lectureNo: 8,
     question: "The standard keyboard used with personal computers has how many keys?",
-    options: ["104 keys", "101 keys", "96 keys", "84 keys"],
+    options: ["104 keys", "84 keys", "101 keys", "96 keys"],
     correct: 0,
     explanation: "As per DA-262 notes: The most commonly available computer keyboard has 104 keys. It includes alphanumeric keys, punctuation keys, special keys (arrow, control, function keys F1-F12, HOME, END).",
     difficulty: "easy"
@@ -595,143 +595,143 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_073", subject: "da-262", lecture: "lecture-8", lectureNo: 8,
     question: "MICR technology is primarily used in which industry?",
-    options: ["Libraries for cataloguing books", "Banking for processing cheques", "Railways for ticketing", "Supermarkets for barcode scanning"],
-    correct: 1,
+    options: ["Banking for processing cheques", "Railways for ticketing", "Libraries for cataloguing books", "Supermarkets for barcode scanning"],
+    correct: 0,
     explanation: "As per DA-262 notes: MICR (Magnetic Ink Character Recognition) is a character recognition technology used primarily by the banking industry to facilitate the processing of cheques. It can scan about 2600 cheques per minute.",
     difficulty: "easy"
   },
   {
     id: "d262l_074", subject: "da-262", lecture: "lecture-8", lectureNo: 8,
     question: "RAM (Random Access Memory) is called volatile memory because:",
-    options: ["It requires a battery to maintain data", "It stores data permanently without power", "It can read but not write data", "Data disappears from RAM as soon as power is switched off"],
-    correct: 3,
+    options: ["It stores data permanently without power", "Data disappears from RAM as soon as power is switched off", "It can read but not write data", "It requires a battery to maintain data"],
+    correct: 1,
     explanation: "As per DA-262 notes: RAM is volatile memory - storage of data and instructions in RAM is temporary, till the time the computer is running. It disappears from RAM as soon as power is switched off.",
     difficulty: "easy"
   },
   {
     id: "d262l_075", subject: "da-262", lecture: "lecture-8", lectureNo: 8,
     question: "The storage capacity of a standard CD-ROM is approximately:",
-    options: ["50 to 100 MB", "250 to 350 MB", "650 to 700 MB", "1.5 to 2 GB"],
-    correct: 2,
+    options: ["1.5 to 2 GB", "650 to 700 MB", "50 to 100 MB", "250 to 350 MB"],
+    correct: 1,
     explanation: "As per DA-262 notes: The storage capacity of most CD-ROMs is approximately 650 MB or 700 MB.",
     difficulty: "easy"
   },
   {
     id: "d262l_076", subject: "da-262", lecture: "lecture-9", lectureNo: 9,
     question: "The first Intel microprocessor (8080) was introduced in which year?",
-    options: ["1979", "1974", "1985", "1969"],
-    correct: 1,
+    options: ["1969", "1985", "1974", "1979"],
+    correct: 2,
     explanation: "As per DA-262 notes: Intel 8080 was introduced in 1974 with 6000 transistors and 2 MHz clock speed.",
     difficulty: "medium"
   },
   {
     id: "d262l_077", subject: "da-262", lecture: "lecture-9", lectureNo: 9,
     question: "The AUTOEXEC.BAT file in DOS is special because:",
-    options: ["It is automatically executed when the computer is switched on or during booting", "It stores all user passwords", "It cannot be deleted or modified", "It contains antivirus programs"],
-    correct: 0,
+    options: ["It stores all user passwords", "It contains antivirus programs", "It is automatically executed when the computer is switched on or during booting", "It cannot be deleted or modified"],
+    correct: 2,
     explanation: "As per DA-262 notes: If a batch file is given the special name AUTOEXEC.BAT, it is automatically executed when the computer is switched on or during booting.",
     difficulty: "medium"
   },
   {
     id: "d262l_078", subject: "da-262", lecture: "lecture-9", lectureNo: 9,
     question: "In Windows, the 'Recycle Bin' is used for:",
-    options: ["Organizing downloaded files", "Storing system backup files", "Storing all files and folders deleted from Windows temporarily, which can be restored", "Storing temporary internet files"],
-    correct: 2,
+    options: ["Storing temporary internet files", "Storing system backup files", "Organizing downloaded files", "Storing all files and folders deleted from Windows temporarily, which can be restored"],
+    correct: 3,
     explanation: "As per DA-262 notes: Recycle Bin is a folder that stores all the files and folders deleted from Windows temporarily, which can be restored again if needed.",
     difficulty: "easy"
   },
   {
     id: "d262l_079", subject: "da-262", lecture: "lecture-9", lectureNo: 9,
     question: "Warm Booting of a computer is done by pressing which key combination?",
-    options: ["Alt + F4", "Ctrl + Alt + Del", "Ctrl + Shift + Esc", "Win + R"],
-    correct: 1,
+    options: ["Ctrl + Alt + Del", "Alt + F4", "Win + R", "Ctrl + Shift + Esc"],
+    correct: 0,
     explanation: "As per DA-262 notes: Warm Booting is carried out by pressing Ctrl + Alt + Del simultaneously. It is preferable to cold booting as it safeguards the system from sudden power fluctuations.",
     difficulty: "easy"
   },
   {
     id: "d262l_080", subject: "da-262", lecture: "lecture-10", lectureNo: 10,
     question: "What does the DOS command 'FORMAT a:' do?",
-    options: ["Lists all files on drive A", "Copies all files to drive A", "Organizes disk A into magnetic tracks and sectors readable by DOS", "Renames the drive A label"],
-    correct: 2,
+    options: ["Copies all files to drive A", "Lists all files on drive A", "Renames the drive A label", "Organizes disk A into magnetic tracks and sectors readable by DOS"],
+    correct: 3,
     explanation: "As per DA-262 notes: FORMAT a: organizes the disk in drive A into magnetic tracks and sectors that are readable by DOS. Warning: formatting an old disk erases all existing files on it.",
     difficulty: "medium"
   },
   {
     id: "d262l_081", subject: "da-262", lecture: "lecture-10", lectureNo: 10,
     question: "The DOS command 'TREE' displays:",
-    options: ["Only hidden files", "Files in alphabetical order", "All files with size, date and time", "Directories and sub-directories in a drive without files"],
-    correct: 3,
+    options: ["Directories and sub-directories in a drive without files", "Only hidden files", "Files in alphabetical order", "All files with size, date and time"],
+    correct: 0,
     explanation: "As per DA-262 notes: TREE displays directories and sub-directories in a drive WITHOUT files. DIR command displays all files with size, date and time, and shows directories with <DIR> symbol.",
     difficulty: "medium"
   },
   {
     id: "d262l_082", subject: "da-262", lecture: "lecture-10", lectureNo: 10,
     question: "Assertion (A): Computer viruses reside in executable files (.COM or .EXE).\nReason (R): When the PC is switched on, the virus enters RAM through COMMAND.COM and starts destructive work.",
-    options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A"],
-    correct: 0,
+    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
+    correct: 3,
     explanation: "As per DA-262 notes: Viruses reside in executable files (.COM or .EXE). When PC is switched on, virus enters RAM through .COM file and starts destroying data and program files.",
     difficulty: "medium"
   },
   {
     id: "d262l_083", subject: "da-262", lecture: "lecture-10", lectureNo: 10,
     question: "Assertion (A): Windows OS supports file names up to 255 characters long.\nReason (R): MS-DOS was limited to 8 characters with 3-character extension (8:3 format), which Windows overcame.",
-    options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A"],
-    correct: 0,
+    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
+    correct: 3,
     explanation: "As per DA-262 notes: Windows supports long file names up to 255 characters long, unlike DOS which was limited to 8:3 (8 character name + 3 character extension) format.",
     difficulty: "medium"
   },
   {
     id: "d262l_084", subject: "da-262", lecture: "lecture-11", lectureNo: 11,
     question: "Match the following computer generations with their components:\n     Column-I (Generation)  |  Column-II (Component)    |  Column-III (Years)\nA.  First Generation      |  1.  Vacuum Tubes         |  i.   1946-1954\nB.  Second Generation     |  2.  Transistors           |  ii.  1955-1965\nC.  Third Generation      |  3.  Integrated Circuits   |  iii. 1968-1975\nD.  Fourth Generation     |  4.  VLSI                  |  iv.  1976-1980",
-    options: ["A-1-ii, B-2-i,  C-3-iv,  D-4-iii", "A-2-i,  B-1-ii,  C-4-iii,  D-3-iv", "A-3-i,  B-4-ii,  C-1-iii,  D-2-iv", "A-1-i,  B-2-ii,  C-3-iii,  D-4-iv"],
-    correct: 3,
+    options: ["A-1-i,  B-2-ii,  C-3-iii,  D-4-iv", "A-3-i,  B-4-ii,  C-1-iii,  D-2-iv", "A-1-ii, B-2-i,  C-3-iv,  D-4-iii", "A-2-i,  B-1-ii,  C-4-iii,  D-3-iv"],
+    correct: 0,
     explanation: "As per DA-262 notes: First Gen (1946-1954) - Vacuum tubes; Second Gen (1955-1965) - Transistors; Third Gen (1968-1975) - ICs; Fourth Gen (1976-1980) - VLSI; Fifth Gen (1980-today) - ULSI/Microprocessor.",
     difficulty: "medium"
   },
   {
     id: "d262l_085", subject: "da-262", lecture: "lecture-11", lectureNo: 11,
     question: "Match the following types of printers with their printing speeds:\n     Column-I (Printer type)  |  Column-II (Speed)     |  Column-III (Mechanism)\nA.  Dot Matrix printer     |  1.  200-700 CPS       |  i.   24-pin or 9-pin through ribbon\nB.  Ink Jet printer        |  2.  Slow, 90 CPS      |  ii.  Sprays ionized ink\nC.  Laser printer          |  3.  6-12 PPM          |  iii. Uses laser beam\nD.  Line printer           |  4.  300-600 LPM       |  iv.  Prints lines at a time",
-    options: ["A-1-iii, B-2-i, C-3-ii,  D-4-iv", "A-1-i,  B-2-ii,  C-3-iii,  D-4-iv", "A-3-iii, B-1-i, C-2-ii,  D-4-iv", "A-2-ii, B-1-i,  C-4-iv,  D-3-iii"],
-    correct: 1,
+    options: ["A-1-i,  B-2-ii,  C-3-iii,  D-4-iv", "A-1-iii, B-2-i, C-3-ii,  D-4-iv", "A-3-iii, B-1-i, C-2-ii,  D-4-iv", "A-2-ii, B-1-i,  C-4-iv,  D-3-iii"],
+    correct: 0,
     explanation: "As per DA-262 notes: Dot matrix: 200-700 CPS (24-pin/9-pin through ribbon); Ink jet: slow 90 CPS (sprays ionized ink); Laser: 6-12 PPM (laser beam); Line printer: 300-600 LPM (prints lines at a time).",
     difficulty: "medium"
   },
   {
     id: "d262l_086", subject: "da-262", lecture: "lecture-12", lectureNo: 12,
     question: "Match the following memory units and their storage capacities:\n     Column-I (Unit)   |  Column-II (Equivalent)       |  Column-III (Abbreviation)\nA.  8 bits             |  1.  1 Byte                   |  i.   B\nB.  1024 Bytes         |  2.  1 Kilobyte               |  ii.  KB\nC.  1024 KB            |  3.  1 Megabyte               |  iii. MB\nD.  1024 MB            |  4.  1 Gigabyte               |  iv.  GB",
-    options: ["A-2-i,  B-1-ii,  C-4-iii,  D-3-iv", "A-1-iii, B-2-ii, C-3-i,  D-4-iv", "A-1-i,  B-2-ii,  C-3-iii,  D-4-iv", "A-4-i,  B-3-ii,  C-2-iii,  D-1-iv"],
-    correct: 2,
+    options: ["A-2-i,  B-1-ii,  C-4-iii,  D-3-iv", "A-1-i,  B-2-ii,  C-3-iii,  D-4-iv", "A-1-iii, B-2-ii, C-3-i,  D-4-iv", "A-4-i,  B-3-ii,  C-2-iii,  D-1-iv"],
+    correct: 1,
     explanation: "As per DA-262 notes: 8 bits = 1 Byte; 1024 Bytes = 1 KB; 1024 KB = 1 MB; 1024 MB = 1 GB.",
     difficulty: "easy"
   },
   {
     id: "d262l_087", subject: "da-262", lecture: "lecture-12", lectureNo: 12,
     question: "The Windows Explorer is divided into two panes. What does the left pane display?",
-    options: ["The recently opened documents", "The contents of selected files", "The list of drives and folders on the computer", "The control panel settings"],
-    correct: 2,
+    options: ["The contents of selected files", "The recently opened documents", "The control panel settings", "The list of drives and folders on the computer"],
+    correct: 3,
     explanation: "As per DA-262 notes: Windows Explorer is divided into 2 panes. The left pane displays the list of drives and folders on the computer. The right pane displays the contents of the selected drive or folder.",
     difficulty: "easy"
   },
   {
     id: "d262l_088", subject: "da-262", lecture: "lecture-13", lectureNo: 13,
     question: "FORTRAN stands for:",
-    options: ["Forward Transfer", "Formula Translation", "Function Translation", "Formal Translation"],
-    correct: 1,
+    options: ["Formula Translation", "Formal Translation", "Forward Transfer", "Function Translation"],
+    correct: 0,
     explanation: "As per DA-262 notes: FORTRAN stands for FORmula TRANslation. Other programming languages: COBOL (Common Business Oriented Language), BASIC (Beginner's All purpose Symbolic Instruction Code), ALGOL (ALGOrithmic Language).",
     difficulty: "easy"
   },
   {
     id: "d262l_089", subject: "da-262", lecture: "lecture-13", lectureNo: 13,
     question: "The key difference between a Compiler and an Interpreter is:",
-    options: ["Compiler works only with BASIC; Interpreter works with all languages", "Compiler is faster; Interpreter is slower because it compiles twice", "There is no difference; both do the same work", "Compiler translates the whole program before execution; Interpreter translates one statement at a time"],
-    correct: 3,
+    options: ["Compiler is faster; Interpreter is slower because it compiles twice", "There is no difference; both do the same work", "Compiler translates the whole program before execution; Interpreter translates one statement at a time", "Compiler works only with BASIC; Interpreter works with all languages"],
+    correct: 2,
     explanation: "As per DA-262 notes: A compiler translates the whole program before execution and produces a list of all errors at the end. An interpreter translates one statement at a time and executes it immediately if error-free.",
     difficulty: "medium"
   },
   {
     id: "d262l_090", subject: "da-262", lecture: "lecture-13", lectureNo: 13,
     question: "DVD stands for:",
-    options: ["Data Video Drive", "Direct Video Disk", "Digital Video Display", "Digital Versatile Disc"],
+    options: ["Digital Video Display", "Direct Video Disk", "Data Video Drive", "Digital Versatile Disc"],
     correct: 3,
     explanation: "As per DA-262 notes: DVD stands for Digital Versatile Disc. Storage capacity is at least 4.7 GB, with DVDs storing up to 17 GB available. Used for large multimedia presentations and movies.",
     difficulty: "easy"
@@ -739,31 +739,31 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_091", subject: "da-262", lecture: "lecture-14", lectureNo: 14,
     question: "Which type of computer operates by 'measuring' instead of 'counting'?",
-    options: ["Hybrid computers", "Digital computers", "Analog computers", "Super computers"],
-    correct: 2,
+    options: ["Digital computers", "Analog computers", "Super computers", "Hybrid computers"],
+    correct: 1,
     explanation: "As per DA-262 notes: Analog computers operate by 'measuring' instead of 'counting'. The name is derived from Greek word 'analog' meaning similarity. They are powerful tools for solving differential equations.",
     difficulty: "medium"
   },
   {
     id: "d262l_092", subject: "da-262", lecture: "lecture-14", lectureNo: 14,
     question: "India's indigenous super computer was developed under the name:",
-    options: ["PARAM", "CRAY", "TITAN", "JAGUAR"],
-    correct: 0,
+    options: ["CRAY", "TITAN", "JAGUAR", "PARAM"],
+    correct: 3,
     explanation: "As per DA-262 notes: The first super computer was developed in USA by CRAY computers. In India, the indigenous super computer was developed under the name PARAM.",
     difficulty: "easy"
   },
   {
     id: "d262l_093", subject: "da-262", lecture: "lecture-15", lectureNo: 15,
     question: "The DOS command 'REN' is used to:",
-    options: ["Rename an old file with another name", "Run an executable file", "Remove a directory", "Restore deleted files"],
-    correct: 0,
+    options: ["Run an executable file", "Remove a directory", "Restore deleted files", "Rename an old file with another name"],
+    correct: 3,
     explanation: "As per DA-262 notes: The REN command is used to rename the old file with another name. Example: C:\> REN MATHS.TXT RESULT.TXT renames MATHS.TXT to RESULT.TXT.",
     difficulty: "easy"
   },
   {
     id: "d262l_094", subject: "da-262", lecture: "lecture-15", lectureNo: 15,
     question: "ASCII stands for:",
-    options: ["American Standard Code for Information Interchange", "Applied Standard Code for International Interchange", "Automatic System Code for Integrated Information", "Advanced Standard Code for Information Interchange"],
+    options: ["American Standard Code for Information Interchange", "Advanced Standard Code for Information Interchange", "Applied Standard Code for International Interchange", "Automatic System Code for Integrated Information"],
     correct: 0,
     explanation: "As per DA-262 notes: ASCII stands for American Standard Code for Information Interchange. In ASCII, A=65, Z=90, a=97, z=121. These codes convert alphabets to digital and binary form.",
     difficulty: "easy"
@@ -771,50 +771,1051 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_095", subject: "da-262", lecture: "lecture-15", lectureNo: 15,
     question: "The Windows feature 'Object Linking and Embedding (OLE)' allows:",
-    options: ["Creating hyperlinks to websites", "Pasting a portion of one document into another with advanced document linking", "Linking hardware components to the OS", "Embedding antivirus protection"],
-    correct: 1,
+    options: ["Creating hyperlinks to websites", "Embedding antivirus protection", "Linking hardware components to the OS", "Pasting a portion of one document into another with advanced document linking"],
+    correct: 3,
     explanation: "As per DA-262 notes: Windows provides advanced document linking features called Dynamic Data Exchange (DDE) and Object Linking and Embedding (OLE), which allow pasting portions of one document into another.",
     difficulty: "medium"
   },
   {
     id: "d262l_096", subject: "da-262", lecture: "lecture-16", lectureNo: 16,
     question: "MS-DOS was developed by Bill Gates at what age?",
-    options: ["17 years", "14 years", "19 years", "21 years"],
-    correct: 2,
+    options: ["21 years", "14 years", "17 years", "19 years"],
+    correct: 3,
     explanation: "As per DA-262 notes: MS-DOS (Disk Operating System) was developed as early as 1980 by Bill Gates at the age of 19. It is suited for personal computers and is a single user, single task operating system.",
     difficulty: "medium"
   },
   {
     id: "d262l_097", subject: "da-262", lecture: "lecture-16", lectureNo: 16,
     question: "In DOS, the command 'DIR/P' is used for:",
-    options: ["Pausing the listing whenever the screen is full", "Displaying files sorted alphabetically", "Printing the directory listing", "Displaying files in parallel/side-by-side format"],
-    correct: 0,
+    options: ["Displaying files sorted alphabetically", "Printing the directory listing", "Pausing the listing whenever the screen is full", "Displaying files in parallel/side-by-side format"],
+    correct: 2,
     explanation: "As per DA-262 notes: DIR/P pauses the listing of the directory whenever the screen is full. The next screen load of files can be displayed by pressing any key. DIR/W displays files in a five-column format.",
     difficulty: "medium"
   },
   {
     id: "d262l_098", subject: "da-262", lecture: "lecture-16", lectureNo: 16,
     question: "BIOS stands for:",
-    options: ["Basic Integrated Operating System", "Binary Input Output System", "Basic Input Output System", "Binary Integrated Output System"],
-    correct: 2,
+    options: ["Basic Input Output System", "Binary Integrated Output System", "Basic Integrated Operating System", "Binary Input Output System"],
+    correct: 0,
     explanation: "As per DA-262 notes: BIOS stands for Basic Input Output System. It is a software residing on ROM chip that carries out the booting of the computer. When PC is switched on, BIOS searches for the operating system.",
     difficulty: "easy"
   },
   {
     id: "d262l_099", subject: "da-262", lecture: "lecture-16", lectureNo: 16,
     question: "Which of the following is NOT a General Purpose data analysis software package?",
-    options: ["GENSTAT", "SPSS (Statistical Package for Social Science)", "WORDSTAR", "MSTAT"],
-    correct: 2,
+    options: ["SPSS (Statistical Package for Social Science)", "WORDSTAR", "GENSTAT", "MSTAT"],
+    correct: 1,
     explanation: "As per DA-262 notes: SPSS, MSTAT, MICROSTAT, GENSTAT, SAS are Data Analysis packages. WORDSTAR is a Word Processing package along with WORD PERFECT, MS-Word, etc.",
     difficulty: "medium"
   },
   {
     id: "d262l_100", subject: "da-262", lecture: "lecture-16", lectureNo: 16,
     question: "The Windows feature 'Taskbar' is characterized by:",
-    options: ["A toolbar that appears only when the mouse hovers over it", "A floating toolbar that can be moved anywhere", "A horizontal bar at the bottom of screen with START menu on left and Notification area on right", "A vertical bar on the left side of the screen"],
+    options: ["A vertical bar on the left side of the screen", "A floating toolbar that can be moved anywhere", "A horizontal bar at the bottom of screen with START menu on left and Notification area on right", "A toolbar that appears only when the mouse hovers over it"],
     correct: 2,
     explanation: "As per DA-262 notes: Taskbar is the rectangular bar that runs horizontally across the bottom of the screen. It has the START menu on the left and the Notification area on the right. All open applications are shown on the Taskbar.",
     difficulty: "easy"
   },
 
+
+  {
+    id: "d262x_001",
+    subject: "da-262",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "The word 'Computer' is derived from the Latin word 'Computare' which means:",
+    options: ["To display", "To store data", "To process", "To calculate"],
+    correct: 3,
+    explanation: "As per DA-262 notes: The word computer is derived from Latin 'computare' meaning to calculate."
+  },
+  {
+    id: "d262x_002",
+    subject: "da-262",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "Which of the following is NOT an advantage of computers?",
+    options: ["Accuracy", "High speed", "Diligence", "Ability to think independently"],
+    correct: 3,
+    explanation: "As per DA-262 notes: Computers cannot think. They need clear and complete instructions."
+  },
+  {
+    id: "d262x_003",
+    subject: "da-262",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "The first generation of computers (1946-1954) used which component?",
+    options: ["Vacuum tubes", "Transistors", "VLSI", "Integrated Circuits"],
+    correct: 0,
+    explanation: "As per DA-262 notes: First generation computers (1946-1954) used Vacuum tubes."
+  },
+  {
+    id: "d262x_004",
+    subject: "da-262",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "The Control Unit of a CPU acts as:",
+    options: ["Data storage", "Arithmetic processor", "Output device controller", "Central nervous system of the computer"],
+    correct: 3,
+    explanation: "As per DA-262 notes: Control Unit acts as a central nervous system and ensures information is stored correctly and program instructions are followed in proper sequence."
+  },
+  {
+    id: "d262x_005",
+    subject: "da-262",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "The Arithmetic Logic Unit (ALU) is responsible for:",
+    options: ["Managing input/output devices", "Storing data permanently", "Booting the computer", "Performing arithmetic and logical operations"],
+    correct: 3,
+    explanation: "As per DA-262 notes: ALU performs all arithmetic operations (addition, subtraction) and logical functions."
+  },
+  {
+    id: "d262x_006",
+    subject: "da-262",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "Which input device is known as the standard input device?",
+    options: ["Mouse", "Scanner", "Web camera", "Keyboard"],
+    correct: 3,
+    explanation: "As per DA-262 notes: The keyboard is used for typing text and is known as the standard input device."
+  },
+  {
+    id: "d262x_007",
+    subject: "da-262",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "Optical Mark Recognition (OMR) technology is used in:",
+    options: ["Supermarket billing", "Library documentation", "Bank cheque processing", "Aptitude tests and answer sheets"],
+    correct: 3,
+    explanation: "As per DA-262 notes: OMR senses presence or absence of marks and is used in aptitude tests."
+  },
+  {
+    id: "d262x_008",
+    subject: "da-262",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "MICR can scan approximately how many cheques per minute?",
+    options: ["2600", "5000", "1000", "500"],
+    correct: 0,
+    explanation: "As per DA-262 notes: MICR provides high speed scanning, processing about 2600 cheques/min."
+  },
+  {
+    id: "d262x_009",
+    subject: "da-262",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "VDU stands for:",
+    options: ["Variable Display Unit", "Video Data Unit", "Virtual Display Utility", "Visual Display Unit"],
+    correct: 3,
+    explanation: "As per DA-262 notes: Monitor is also referred to as Visual Display Unit (VDU)."
+  },
+  {
+    id: "d262x_010",
+    subject: "da-262",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "Which printer uses a laser beam to produce images?",
+    options: ["Line printer", "Laser printer", "Ink jet printer", "Dot-matrix printer"],
+    correct: 1,
+    explanation: "As per DA-262 notes: Laser printer (also called page printer) uses laser beam to produce an image at 6 to 12 PPM."
+  },
+  {
+    id: "d262x_011",
+    subject: "da-262",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "A dot-matrix printer uses how many pins?",
+    options: ["32 or 64 pin", "24 pin or 9 pin", "12 or 36 pin", "8 or 16 pin"],
+    correct: 1,
+    explanation: "As per DA-262 notes: Dot-matrix printer prints using either 24 pin or 9 pin, at 200/300 to 700 CPS."
+  },
+  {
+    id: "d262x_012",
+    subject: "da-262",
+    lecture: "lecture-4",
+    lectureNo: 4,
+    question: "Which of the following is the basic unit of computer memory?",
+    options: ["Kilobyte", "Byte", "Nibble", "Bit"],
+    correct: 3,
+    explanation: "As per DA-262 notes: The basic unit of memory is a bit (binary digit - 0,1). To store a character, 8 bits or 1 byte is required."
+  },
+  {
+    id: "d262x_013",
+    subject: "da-262",
+    lecture: "lecture-4",
+    lectureNo: 4,
+    question: "1 Gigabyte (GB) is equal to:",
+    options: ["1024 MB", "1024 TB", "1024 KB", "1000 MB"],
+    correct: 0,
+    explanation: "As per DA-262 notes: 1024 MB = 1 Giga Byte (GB)."
+  },
+  {
+    id: "d262x_014",
+    subject: "da-262",
+    lecture: "lecture-4",
+    lectureNo: 4,
+    question: "The ASCII code for letter A is:",
+    options: ["90", "48", "97", "65"],
+    correct: 3,
+    explanation: "As per DA-262 notes: ASCII code A=65 ...Z=90 and a=97 ...z=121."
+  },
+  {
+    id: "d262x_015",
+    subject: "da-262",
+    lecture: "lecture-4",
+    lectureNo: 4,
+    question: "ROM (Read Only Memory) is characterized as:",
+    options: ["Cache memory", "Non-volatile memory", "Virtual memory", "Volatile memory"],
+    correct: 1,
+    explanation: "As per DA-262 notes: ROM stores basic input-output instructions permanently. It does not depend on power supply - it is non-volatile memory."
+  },
+  {
+    id: "d262x_016",
+    subject: "da-262",
+    lecture: "lecture-4",
+    lectureNo: 4,
+    question: "The storage capacity of a 3.5-inch High Density floppy disk is:",
+    options: ["1.2 MB", "1.44 MB", "360 KB", "2.8 MB"],
+    correct: 1,
+    explanation: "As per DA-262 notes: High Density 3.5 inch floppy disk has storage capacity of 1.44 MB."
+  },
+  {
+    id: "d262x_017",
+    subject: "da-262",
+    lecture: "lecture-4",
+    lectureNo: 4,
+    question: "CD-R (Compact Disc Recordable) allows:",
+    options: ["Data to be written only once and then read", "Data to be written and erased multiple times", "Only reading of pre-recorded data", "Wireless data transfer"],
+    correct: 0,
+    explanation: "As per DA-262 notes: CD-R - Data can be written onto it just once. Data once written cannot be erased."
+  },
+  {
+    id: "d262x_018",
+    subject: "da-262",
+    lecture: "lecture-5",
+    lectureNo: 5,
+    question: "The storage capacity of a DVD is at least:",
+    options: ["4.7 GB", "700 MB", "17 MB", "1.44 GB"],
+    correct: 0,
+    explanation: "As per DA-262 notes: DVD storage capacity is at least 4.7 GB; some can store up to 17 GB."
+  },
+  {
+    id: "d262x_019",
+    subject: "da-262",
+    lecture: "lecture-5",
+    lectureNo: 5,
+    question: "A Flash Drive is also known as:",
+    options: ["Floppy disk", "Pen drive or USB drive", "Hard disk", "CD-ROM"],
+    correct: 1,
+    explanation: "As per DA-262 notes: Flash drive is commonly called Pen drive and also USB drive. It is plugged into the USB port."
+  },
+  {
+    id: "d262x_020",
+    subject: "da-262",
+    lecture: "lecture-5",
+    lectureNo: 5,
+    question: "The relationship between Hardware and Software is analogous to:",
+    options: ["Sun and moon", "TV and TV studio", "Seed and soil", "Rain and clouds"],
+    correct: 1,
+    explanation: "As per DA-262 notes: Without TV studio (software), the TV (hardware) is a dead machine - similar analogy."
+  },
+  {
+    id: "d262x_021",
+    subject: "da-262",
+    lecture: "lecture-5",
+    lectureNo: 5,
+    question: "UNIX and XENIX operating systems are suited for:",
+    options: ["Single user, single task", "Multi-user and multi-task", "Single user, multi-task", "Only gaming"],
+    correct: 1,
+    explanation: "As per DA-262 notes: UNIX AND XENIX are suited for multi-user and multi-task systems."
+  },
+  {
+    id: "d262x_022",
+    subject: "da-262",
+    lecture: "lecture-6",
+    lectureNo: 6,
+    question: "A Compiler translates programs:",
+    options: ["Statement by statement", "Only the first half", "The whole program before execution", "After execution"],
+    correct: 2,
+    explanation: "As per DA-262 notes: A compiler translates the whole program before execution, producing an object program if error-free."
+  },
+  {
+    id: "d262x_023",
+    subject: "da-262",
+    lecture: "lecture-6",
+    lectureNo: 6,
+    question: "COBOL stands for:",
+    options: ["Computer Binary Oriented Language", "Common Basic Object Language", "Common Business Oriented Language", "Compiler Based Object Language"],
+    correct: 2,
+    explanation: "As per DA-262 notes: COBOL = Common Business Oriented Language."
+  },
+  {
+    id: "d262x_024",
+    subject: "da-262",
+    lecture: "lecture-6",
+    lectureNo: 6,
+    question: "ALGOL stands for:",
+    options: ["Advanced Logic", "Algebraic Logic", "ALGOrithmic Language", "Automated Logic Generator"],
+    correct: 2,
+    explanation: "As per DA-262 notes: ALGOL = ALGOrithmic Language."
+  },
+  {
+    id: "d262x_025",
+    subject: "da-262",
+    lecture: "lecture-6",
+    lectureNo: 6,
+    question: "BASIC stands for:",
+    options: ["Binary Automatic Structured Instruction Code", "Basic Algorithm Symbolic Instruction Code", "Binary Arithmetic Standard Instruction Code", "Beginner's All purpose Symbolic Instruction Code"],
+    correct: 3,
+    explanation: "As per DA-262 notes: BASIC = Beginner's All purpose Symbolic Instruction Code."
+  },
+  {
+    id: "d262x_026",
+    subject: "da-262",
+    lecture: "lecture-6",
+    lectureNo: 6,
+    question: "High Level Languages (HLL) are also known as:",
+    options: ["Binary languages", "Machine dependent languages", "Problem oriented languages (POL)", "Assembly dependent languages"],
+    correct: 2,
+    explanation: "As per DA-262 notes: HLLs are referred as problem oriented languages (POL) and third generation languages."
+  },
+  {
+    id: "d262x_027",
+    subject: "da-262",
+    lecture: "lecture-7",
+    lectureNo: 7,
+    question: "Which of the following is an example of a Utility Program?",
+    options: ["Oracle database", "MS Word", "Payroll system", "COPY command"],
+    correct: 3,
+    explanation: "As per DA-262 notes: Utility programs are pre-written programs like COPY, SORT, MAILING, virus scanning software."
+  },
+  {
+    id: "d262x_028",
+    subject: "da-262",
+    lecture: "lecture-7",
+    lectureNo: 7,
+    question: "SPSS stands for:",
+    options: ["Special Package for Statistical Science", "Standard Program for Statistical Studies", "Systematic Package for Scientific Studies", "Statistical Package for Social Science"],
+    correct: 3,
+    explanation: "As per DA-262 notes: SPSS = Statistical Package for Social Science - a data analysis general purpose package."
+  },
+  {
+    id: "d262x_029",
+    subject: "da-262",
+    lecture: "lecture-7",
+    lectureNo: 7,
+    question: "Which of the following is a Spread Sheet software?",
+    options: ["LOTUS", "ORACLE", "WORDSTAR", "dBASE"],
+    correct: 0,
+    explanation: "As per DA-262 notes: LOTUS, Qpro, VP-PLANNER, SYMPHONY, MS-Excel are examples of spreadsheet software."
+  },
+  {
+    id: "d262x_030",
+    subject: "da-262",
+    lecture: "lecture-7",
+    lectureNo: 7,
+    question: "Which function of OS manages assignment of processor to different tasks?",
+    options: ["Processor management", "File management", "Memory management", "I/O management"],
+    correct: 0,
+    explanation: "As per DA-262 notes: Processor management - manages the assignment of processor to different tasks being performed."
+  },
+  {
+    id: "d262x_031",
+    subject: "da-262",
+    lecture: "lecture-8",
+    lectureNo: 8,
+    question: "Analog computers operate by:",
+    options: ["Processing binary codes", "Counting digits", "Measuring quantities", "Executing programs"],
+    correct: 2,
+    explanation: "As per DA-262 notes: Analog computers operate by measuring instead of counting."
+  },
+  {
+    id: "d262x_032",
+    subject: "da-262",
+    lecture: "lecture-8",
+    lectureNo: 8,
+    question: "The first supercomputer developed in the USA was by:",
+    options: ["IBM", "CRAY computers", "Intel", "Microsoft"],
+    correct: 1,
+    explanation: "As per DA-262 notes: The first super computer was developed in USA by CRAY computers."
+  },
+  {
+    id: "d262x_033",
+    subject: "da-262",
+    lecture: "lecture-8",
+    lectureNo: 8,
+    question: "Mini computers are characterized as:",
+    options: ["Medium sized with moderate cost used for large volume applications", "Extremely large and expensive", "Smallest general purpose systems", "Used only for weather forecasting"],
+    correct: 0,
+    explanation: "As per DA-262 notes: Mini Computer is a medium sized computer with moderate cost and used for large volume applications. It can serve multi-users simultaneously."
+  },
+  {
+    id: "d262x_034",
+    subject: "da-262",
+    lecture: "lecture-9",
+    lectureNo: 9,
+    question: "PC-AT stands for:",
+    options: ["Personal Computer with Analog Technology", "Personal Computer with Advanced Technology", "Personal Computer with Applied Technology", "Personal Computer with Automated Technology"],
+    correct: 1,
+    explanation: "As per DA-262 notes: PC-AT = PC with Advanced Technology."
+  },
+  {
+    id: "d262x_035",
+    subject: "da-262",
+    lecture: "lecture-9",
+    lectureNo: 9,
+    question: "The clock speed of the Intel Pentium 4 (introduced in 2000) was:",
+    options: ["1.5 GHZ", "60 MHZ", "233 MHZ", "450 MHZ"],
+    correct: 0,
+    explanation: "As per DA-262 notes: Pentium 4 (2000) had a clock speed of 1.5 GHZ with 42,000,000 transistors."
+  },
+  {
+    id: "d262x_036",
+    subject: "da-262",
+    lecture: "lecture-9",
+    lectureNo: 9,
+    question: "Clock speed of a computer is measured in terms of:",
+    options: ["Pages per minute", "Million pulses per second (MHz)", "Bytes per second", "Bits per second"],
+    correct: 1,
+    explanation: "As per DA-262 notes: Clock speed = number of pulses per second, measured in MHZ (million pulses per second)."
+  },
+  {
+    id: "d262x_037",
+    subject: "da-262",
+    lecture: "lecture-9",
+    lectureNo: 9,
+    question: "In a PC, the Floppy Disk Drive is referred as drive:",
+    options: ["A or B", "E", "C", "D"],
+    correct: 0,
+    explanation: "As per DA-262 notes: Floppy Disk Drive is referred as A or B; Hard Disk is C."
+  },
+  {
+    id: "d262x_038",
+    subject: "da-262",
+    lecture: "lecture-10",
+    lectureNo: 10,
+    question: "Cold Booting involves:",
+    options: ["Running BIOS update", "Switching OFF and then switching ON after some time", "Pressing Ctrl+Alt+Del", "Formatting the hard disk"],
+    correct: 1,
+    explanation: "As per DA-262 notes: Cold Booting means switching OFF the system and after some time again switching ON."
+  },
+  {
+    id: "d262x_039",
+    subject: "da-262",
+    lecture: "lecture-10",
+    lectureNo: 10,
+    question: "BIOS stands for:",
+    options: ["Binary Input Output Software", "Binary Integrated Output Software", "Basic Input Output System", "Basic Integrated Operating System"],
+    correct: 2,
+    explanation: "As per DA-262 notes: BIOS = Basic Input Output System, a software residing on ROM chip that carries out the booting process."
+  },
+  {
+    id: "d262x_040",
+    subject: "da-262",
+    lecture: "lecture-10",
+    lectureNo: 10,
+    question: "In DOS, file names can have a maximum of how many characters in the first part?",
+    options: ["16 characters", "8 characters", "3 characters", "12 characters"],
+    correct: 1,
+    explanation: "As per DA-262 notes: DOS file names should be of one to eight characters in length with option of one to three character extension."
+  },
+  {
+    id: "d262x_041",
+    subject: "da-262",
+    lecture: "lecture-10",
+    lectureNo: 10,
+    question: "The DOS command VOL is used to:",
+    options: ["Verify disk volume", "Create volumes on disk", "Display the volume label of the current disk", "Set volume (sound) level"],
+    correct: 2,
+    explanation: "As per DA-262 notes: VOL command displays the volume label of the current disk."
+  },
+  {
+    id: "d262x_042",
+    subject: "da-262",
+    lecture: "lecture-11",
+    lectureNo: 11,
+    question: "The DOS command DIR/W displays files in:",
+    options: ["Alphabetical order", "Only hidden files", "Reverse order", "A five column format without date and time"],
+    correct: 3,
+    explanation: "As per DA-262 notes: DIR/W displays files in a five column format, only file names and extensions without date and time of creation."
+  },
+  {
+    id: "d262x_043",
+    subject: "da-262",
+    lecture: "lecture-11",
+    lectureNo: 11,
+    question: "Batch files in DOS have the extension:",
+    options: [".BAT", ".COM", ".EXE", ".SYS"],
+    correct: 0,
+    explanation: "As per DA-262 notes: A batch file has the extension .BAT. If named AUTOEXEC.BAT, it executes automatically during booting."
+  },
+  {
+    id: "d262x_044",
+    subject: "da-262",
+    lecture: "lecture-11",
+    lectureNo: 11,
+    question: "The DOS command SORT arranges files in:",
+    options: ["Alphanumeric order (A to Z or Z to A)", "Random order", "Date order", "Size order"],
+    correct: 0,
+    explanation: "As per DA-262 notes: SORT command sorts files in alphanumeric order: either A to Z or Z to A."
+  },
+  {
+    id: "d262x_045",
+    subject: "da-262",
+    lecture: "lecture-11",
+    lectureNo: 11,
+    question: "The DOS command MD is used to:",
+    options: ["Move a directory", "Modify a directory", "Make a new directory", "Merge directories"],
+    correct: 2,
+    explanation: "As per DA-262 notes: MD command is used to make a new directory (or sub-directory) subordinate to the current directory."
+  },
+  {
+    id: "d262x_046",
+    subject: "da-262",
+    lecture: "lecture-12",
+    lectureNo: 12,
+    question: "In Windows, file names can have up to how many characters?",
+    options: ["8 characters", "128 characters", "64 characters", "255 characters"],
+    correct: 3,
+    explanation: "As per DA-262 notes: Windows supports long file names up to 255 characters, unlike DOS which was limited to 8."
+  },
+  {
+    id: "d262x_047",
+    subject: "da-262",
+    lecture: "lecture-12",
+    lectureNo: 12,
+    question: "DDE in Windows stands for:",
+    options: ["Digital Data Encryption", "Distributed Data Execution", "Dynamic Data Exchange", "Direct Data Entry"],
+    correct: 2,
+    explanation: "As per DA-262 notes: DDE = Dynamic Data Exchange, allows pasting portions of one document into another."
+  },
+  {
+    id: "d262x_048",
+    subject: "da-262",
+    lecture: "lecture-12",
+    lectureNo: 12,
+    question: "Which minimum RAM is required to run Windows OS?",
+    options: ["4 MB", "8 MB", "1 MB", "16 MB"],
+    correct: 1,
+    explanation: "As per DA-262 notes: Windows requires a powerful PC with a minimum RAM of 8 MB."
+  },
+  {
+    id: "d262x_049",
+    subject: "da-262",
+    lecture: "lecture-13",
+    lectureNo: 13,
+    question: "Windows Explorer displays the contents of the entire system in:",
+    options: ["Alphabetical order", "Chronological order", "Random order", "A hierarchical manner"],
+    correct: 3,
+    explanation: "As per DA-262 notes: Windows Explorer displays the contents of the entire system in a hierarchical manner."
+  },
+  {
+    id: "d262x_050",
+    subject: "da-262",
+    lecture: "lecture-13",
+    lectureNo: 13,
+    question: "In Windows Explorer, to select all files in a folder, the shortcut is:",
+    options: ["Ctrl + S", "Ctrl + F", "Shift + A", "Ctrl + A"],
+    correct: 3,
+    explanation: "As per DA-262 notes: To select all files - CTRL + A."
+  },
+  {
+    id: "d262x_051",
+    subject: "da-262",
+    lecture: "lecture-13",
+    lectureNo: 13,
+    question: "To permanently delete a file without moving to Recycle Bin in Windows:",
+    options: ["Alt + Delete", "Shift + Delete", "Delete key only", "Ctrl + D"],
+    correct: 1,
+    explanation: "As per DA-262 notes: To delete a file permanently without moving to Recycle Bin, select the file and press Shift+Del."
+  },
+  {
+    id: "d262x_052",
+    subject: "da-262",
+    lecture: "lecture-14",
+    lectureNo: 14,
+    question: "Word-wrap in word processing means:",
+    options: ["Automatically moving to next line when current line is full", "Password protecting documents", "Wrapping text in a box", "Wrapping files for transfer"],
+    correct: 0,
+    explanation: "As per DA-262 notes: Word-wrap - when line length exceeds right margin, the word is automatically adjusted to the following line."
+  },
+  {
+    id: "d262x_053",
+    subject: "da-262",
+    lecture: "lecture-14",
+    lectureNo: 14,
+    question: "Mail Merge printing is used to:",
+    options: ["Merge two documents into one", "Sort mailing lists", "Print same letter with different addresses so each is original", "Merge emails with attachments"],
+    correct: 2,
+    explanation: "As per DA-262 notes: Mail merge helps printing same original letter with different addresses, so each letter is original."
+  },
+  {
+    id: "d262x_054",
+    subject: "da-262",
+    lecture: "lecture-14",
+    lectureNo: 14,
+    question: "Thesaurus in word processing provides:",
+    options: ["Document templates", "Spell checking", "Synonyms or words with similar meanings", "Grammar rules"],
+    correct: 2,
+    explanation: "As per DA-262 notes: Thesaurus provides synonyms (words with similar meanings)."
+  },
+  {
+    id: "d262x_055",
+    subject: "da-262",
+    lecture: "lecture-14",
+    lectureNo: 14,
+    question: "A Macro in word processing is:",
+    options: ["A table format", "A large font size", "A type of header/footer", "A character or word representing a series of keystrokes"],
+    correct: 3,
+    explanation: "As per DA-262 notes: A macro is a character or word that represents a series of keystrokes, saving time by replacing common keystroke combinations."
+  },
+  {
+    id: "d262x_056",
+    subject: "da-262",
+    lecture: "lecture-15",
+    lectureNo: 15,
+    question: "In MS Word, the Title Bar displays:",
+    options: ["Document name and application", "Menu commands", "Formatting options", "Document content"],
+    correct: 0,
+    explanation: "As per DA-262 notes: Title bar displays the document name and the application."
+  },
+  {
+    id: "d262x_057",
+    subject: "da-262",
+    lecture: "lecture-15",
+    lectureNo: 15,
+    question: "In MS Word, the Formatting Toolbar contains:",
+    options: ["Internet browser buttons", "Formatting options like font, size, bold, italic", "File management options", "Database connection tools"],
+    correct: 1,
+    explanation: "As per DA-262 notes: Formatting toolbar contains a list of formatting options available inside the format menu."
+  },
+  {
+    id: "d262x_058",
+    subject: "da-262",
+    lecture: "lecture-15",
+    lectureNo: 15,
+    question: "In MS Word, the insertion point is:",
+    options: ["A toolbar button", "The cursor on taskbar", "A status bar indicator", "A blinking vertical line indicating where text will be placed"],
+    correct: 3,
+    explanation: "As per DA-262 notes: Insertion point is a blinking vertical line that indicates the position on screen where text or graphics will be placed."
+  },
+  {
+    id: "d262x_059",
+    subject: "da-262",
+    lecture: "lecture-15",
+    lectureNo: 15,
+    question: "In MS Word File Menu, Save As Web page saves the document with extension:",
+    options: [".html", ".txt", ".doc", ".pdf"],
+    correct: 0,
+    explanation: "As per DA-262 notes: Save as Web page - saves a document in a Web style with HTML extension."
+  },
+  {
+    id: "d262x_060",
+    subject: "da-262",
+    lecture: "lecture-16",
+    lectureNo: 16,
+    question: "In MS Word, to start a new page at any point, press:",
+    options: ["Alt + Enter", "Tab + Enter", "Shift + Enter", "Ctrl + Enter"],
+    correct: 3,
+    explanation: "As per DA-262 notes: To start a new page, press Ctrl + Enter (page break)."
+  },
+  {
+    id: "d262x_061",
+    subject: "da-262",
+    lecture: "lecture-16",
+    lectureNo: 16,
+    question: "The Undo shortcut in MS Word Edit Menu is:",
+    options: ["Ctrl + Z", "Alt + Z", "Ctrl + U", "Ctrl + Y"],
+    correct: 0,
+    explanation: "As per DA-262 notes: Undo = Ctrl + Z; Redo = Ctrl + Y."
+  },
+  {
+    id: "d262x_062",
+    subject: "da-262",
+    lecture: "lecture-16",
+    lectureNo: 16,
+    question: "In MS Word Edit Menu, Go To shortcut is:",
+    options: ["Ctrl + G", "Ctrl + T", "Ctrl + H", "Ctrl + F"],
+    correct: 0,
+    explanation: "As per DA-262 notes: Go To (Ctrl + G) - cursor goes to specified page, line, paragraph."
+  },
+  {
+    id: "d262x_063",
+    subject: "da-262",
+    lecture: "lecture-16",
+    lectureNo: 16,
+    question: "In MS Word Format Menu, Drop Cap is used to:",
+    options: ["Insert capital letters automatically", "Convert lowercase to uppercase", "Drop the letter to different lines", "Add drop shadow to text"],
+    correct: 2,
+    explanation: "As per DA-262 notes: Drop Cap is used to drop the letter to different lines."
+  },
+  {
+    id: "d262x_064",
+    subject: "da-262",
+    lecture: "lecture-16",
+    lectureNo: 16,
+    question: "In MS Word, Replace shortcut key is:",
+    options: ["Ctrl + R", "Ctrl + F", "Ctrl + H", "Ctrl + P"],
+    correct: 2,
+    explanation: "As per DA-262 notes: Replace (Ctrl + H) - used to replace any part of text/word/character with another."
+  },
+  {
+    id: "d262x_065",
+    subject: "da-262",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "According to DA-262 notes, the property of computers to perform same tasks repeatedly with same accuracy is called:",
+    options: ["Versatility", "Automation", "Diligence", "High speed"],
+    correct: 2,
+    explanation: "As per DA-262 notes: Diligence - computers can perform the same task repeatedly with same accuracy without getting tired."
+  },
+  {
+    id: "d262x_066",
+    subject: "da-262",
+    lecture: "lecture-4",
+    lectureNo: 4,
+    question: "Secondary memory is also referred to as:",
+    options: ["Backup storage or auxiliary storage", "Cache memory", "Primary storage", "Register memory"],
+    correct: 0,
+    explanation: "As per DA-262 notes: Secondary memory is also referred as auxiliary or secondary memory - also called backup storage."
+  },
+  {
+    id: "d262x_067",
+    subject: "da-262",
+    lecture: "lecture-9",
+    lectureNo: 9,
+    question: "The Intel 8080 microprocessor introduced in 1974 had how many transistors?",
+    options: ["275,000", "6000", "134,000", "29,000"],
+    correct: 1,
+    explanation: "As per DA-262 notes: Intel 8080 (1974) had 6000 transistors and clock speed of 2 MHZ."
+  },
+  {
+    id: "d262x_068",
+    subject: "da-262",
+    lecture: "lecture-9",
+    lectureNo: 9,
+    question: "The PC-AT type personal computer uses microprocessors ranging from:",
+    options: ["8080 to 8088", "80286 to 80486", "Pentium I to IV", "8088 to 8086"],
+    correct: 1,
+    explanation: "As per DA-262 notes: PC-AT has 1 MB to 32 MB RAM and uses 80286 to 80486 microprocessors."
+  },
+  {
+    id: "d262x_069",
+    subject: "da-262",
+    lecture: "lecture-10",
+    lectureNo: 10,
+    question: "Backup files in DOS have the extension:",
+    options: [".SYS", ".BAT", ".BAK", ".COM"],
+    correct: 2,
+    explanation: "As per DA-262 notes: Backup files have extension .BAK and their contents cannot be altered (edited)."
+  },
+  {
+    id: "d262x_070",
+    subject: "da-262",
+    lecture: "lecture-11",
+    lectureNo: 11,
+    question: "The PATH command in DOS is used to:",
+    options: ["List all files", "Display directory tree", "Provide access to files in other directories or disks", "Format the disk"],
+    correct: 2,
+    explanation: "As per DA-262 notes: PATH command provides access to files located on other directories or on other disks."
+  },
+  {
+    id: "d262x_071",
+    subject: "da-262",
+    lecture: "lecture-11",
+    lectureNo: 11,
+    question: "The difference between TREE and DIR commands in DOS is that:",
+    options: ["TREE displays directories and sub-directories without files; DIR shows files with size date time", "TREE is for hard disk; DIR is for floppy", "Both are identical", "TREE shows files; DIR shows folders"],
+    correct: 0,
+    explanation: "As per DA-262 notes: TREE displays directories and sub-directories without files; DIR displays all files with size, date and time of creation."
+  },
+  {
+    id: "d262x_072",
+    subject: "da-262",
+    lecture: "lecture-13",
+    lectureNo: 13,
+    question: "To move files in Windows, the shortcut is:",
+    options: ["Ctrl + A then Ctrl + V", "Ctrl + M then Ctrl + V", "Ctrl + C then Ctrl + V", "Ctrl + X then Ctrl + V"],
+    correct: 3,
+    explanation: "As per DA-262 notes: To cut = Ctrl + X; to paste = Ctrl + V. This moves files from one location to another."
+  },
+  {
+    id: "d262x_073",
+    subject: "da-262",
+    lecture: "lecture-7",
+    lectureNo: 7,
+    question: "Which of the following is a word processing package?",
+    options: ["LOTUS", "dBASE", "ORACLE", "WORDSTAR"],
+    correct: 3,
+    explanation: "As per DA-262 notes: Word processing packages include MSWORD, WORDSTAR, CHIRATOR, NORTON EDITOR."
+  },
+  {
+    id: "d262x_074",
+    subject: "da-262",
+    lecture: "lecture-8",
+    lectureNo: 8,
+    question: "Micro computers are also referred as:",
+    options: ["Mini computers", "Super computers", "Mainframe computers", "Personal computers (PC)"],
+    correct: 3,
+    explanation: "As per DA-262 notes: Micro computers are also referred as personal computers (PC). They are self contained units for use by one person."
+  },
+  {
+    id: "d262x_075",
+    subject: "da-262",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "Line printer prints at a speed of:",
+    options: ["90 CPS", "6-12 PPM", "300-600 LPM", "200-300 CPS"],
+    correct: 2,
+    explanation: "As per DA-262 notes: Line printer prints lines at a time and has speed of 300 to 600 LPM (Lines Per Minute)."
+  },
+  {
+    id: "d262x_076",
+    subject: "da-262",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "A Plotter is used for:",
+    options: ["Scanning images", "Producing drawings or graphs through pens", "Printing text documents", "Data storage"],
+    correct: 1,
+    explanation: "As per DA-262 notes: Plotter produces drawings or graphs through pens which are filled with different colours."
+  },
+  {
+    id: "d262x_077",
+    subject: "da-262",
+    lecture: "lecture-6",
+    lectureNo: 6,
+    question: "Machine Languages are referred as:",
+    options: ["First generation languages", "Fourth generation languages", "Third generation languages", "Second generation languages"],
+    correct: 0,
+    explanation: "As per DA-262 notes: Machine languages are referred as the first generation languages."
+  },
+  {
+    id: "d262x_078",
+    subject: "da-262",
+    lecture: "lecture-5",
+    lectureNo: 5,
+    question: "How many categories of software are there according to DA-262 notes?",
+    options: ["Six", "Three", "Five", "Four"],
+    correct: 2,
+    explanation: "As per DA-262 notes: There are five categories of software: Operating System, Translators, Utility programs, Application programs, and General purpose programs."
+  },
+  {
+    id: "d262x_079",
+    subject: "da-262",
+    lecture: "lecture-12",
+    lectureNo: 12,
+    question: "The Taskbar in Windows has the START menu on the:",
+    options: ["Center", "Left side", "Right side", "Top"],
+    correct: 1,
+    explanation: "As per DA-262 notes: Taskbar has the START menu on the left and the Notification area on the right."
+  },
+  {
+    id: "d262x_080",
+    subject: "da-262",
+    lecture: "lecture-12",
+    lectureNo: 12,
+    question: "My Documents in Windows is:",
+    options: ["The recycle bin", "The control panel", "The default storage location for files created in Windows", "An internet browser"],
+    correct: 2,
+    explanation: "As per DA-262 notes: My Documents is the default storage location for the files created in Windows."
+  },
+  {
+    id: "d262x_081",
+    subject: "da-262",
+    lecture: "lecture-13",
+    lectureNo: 13,
+    question: "Network Neighborhood in Windows displays:",
+    options: ["Local file system", "Shared printers only", "Internet websites", "All computers connected in network with our computer"],
+    correct: 3,
+    explanation: "As per DA-262 notes: Network Neighborhood is an application which displays all computers connected in network with our computer."
+  },
+  {
+    id: "d262x_082",
+    subject: "da-262",
+    lecture: "lecture-15",
+    lectureNo: 15,
+    question: "The Status bar in MS Word displays:",
+    options: ["Page number, section number, line number, column number etc.", "Internet connection status", "Formatting options", "File save options"],
+    correct: 0,
+    explanation: "As per DA-262 notes: Status bar displays page number, section number, total pages, line number, column number etc."
+  },
+  {
+    id: "d262x_083",
+    subject: "da-262",
+    lecture: "lecture-6",
+    lectureNo: 6,
+    question: "An Interpreter translates programs:",
+    options: ["One statement at a time and executes if error-free", "Only after compilation", "Only arithmetic statements", "The whole program at once"],
+    correct: 0,
+    explanation: "As per DA-262 notes: An interpreter translates one statement at a time and if error-free, executes. This continues till the last statement."
+  },
+  {
+    id: "d262x_084",
+    subject: "da-262",
+    lecture: "lecture-14",
+    lectureNo: 14,
+    question: "Text formatting in word processing includes all EXCEPT:",
+    options: ["Creating computer viruses", "Selecting font specifications", "Line spacing", "Setting left and right margins"],
+    correct: 0,
+    explanation: "As per DA-262 notes: Text formatting includes setting margins, paragraph settings, line spacing, font specifications, footnotes etc."
+  },
+  {
+    id: "d262x_085",
+    subject: "da-262",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "Optical Barcode Recognition (OBCR) is used in:",
+    options: ["Supermarkets and book shops", "Weather forecasting", "Banking cheque processing", "Medical scanning"],
+    correct: 0,
+    explanation: "As per DA-262 notes: OBCR - barcode readers read bar codes printed on product containers. Used in supermarkets, book shops etc."
+  },
+  {
+    id: "d262x_086",
+    subject: "da-262",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "Data is best described as:",
+    options: ["Processed information in organized form", "Set of computer instructions", "Collection of raw facts, figures and symbols", "Result of calculations"],
+    correct: 2,
+    explanation: "As per DA-262 notes: Data is the collection of raw facts, figures and symbols."
+  },
+  {
+    id: "d262x_087",
+    subject: "da-262",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "Information is best described as:",
+    options: ["Data that is processed and presented in an organized manner", "Binary code", "Raw data", "A computer program"],
+    correct: 0,
+    explanation: "As per DA-262 notes: Information is data that is processed and presented in an organized manner."
+  },
+  {
+    id: "d262x_088",
+    subject: "da-262",
+    lecture: "lecture-5",
+    lectureNo: 5,
+    question: "Assembly Languages use:",
+    options: ["English-like syntax", "Machine-independent codes", "Binary codes only", "Mnemonic codes instead of numeric codes"],
+    correct: 3,
+    explanation: "As per DA-262 notes: Assembly language uses mnemonic codes rather than numeric codes. E.g., Add or A is used as symbol for addition."
+  },
+  {
+    id: "d262x_089",
+    subject: "da-262",
+    lecture: "lecture-7",
+    lectureNo: 7,
+    question: "File Management function of OS allows:",
+    options: ["Creating, deleting, moving and searching for files", "Managing power supply", "Managing internet connections", "Managing hardware components only"],
+    correct: 0,
+    explanation: "As per DA-262 notes: File management allows all files to be easily changed and modified through text editors or file manipulation routines."
+  },
+  {
+    id: "d262x_090",
+    subject: "da-262",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "Scanner is an input device that:",
+    options: ["Stores data permanently", "Displays information on screen", "Prints text on paper", "Reads text or illustrations on paper and translates to digital form"],
+    correct: 3,
+    explanation: "As per DA-262 notes: Scanner reads text or illustrations printed on paper and translates into digital form. Data need not be entered separately."
+  },
+  {
+    id: "d262x_091",
+    subject: "da-262",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "Assertion (A): Computers reduce paper work and human effort, thereby reducing costs.\nReason (R): Computers have the property of Cost effectiveness as they perform tasks automatically.",
+    options: ["Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A"],
+    correct: 3,
+    explanation: "As per DA-262 notes: Cost effectiveness - computers reduce paper work and human effort, reducing costs. This is the correct explanation."
+  },
+  {
+    id: "d262x_092",
+    subject: "da-262",
+    lecture: "lecture-4",
+    lectureNo: 4,
+    question: "Assertion (A): RAM is called volatile memory.\nReason (R): Data stored in RAM disappears as soon as the power to the computer is switched off.",
+    options: ["Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A"],
+    correct: 3,
+    explanation: "As per DA-262 notes: RAM storage of data and instructions is temporary. It disappears from RAM when power is switched off - hence volatile."
+  },
+  {
+    id: "d262x_093",
+    subject: "da-262",
+    lecture: "lecture-6",
+    lectureNo: 6,
+    question: "Assertion (A): High Level Languages are machine independent.\nReason (R): A program written in HLL can run on computers of different types without any modifications.",
+    options: ["Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A"],
+    correct: 3,
+    explanation: "As per DA-262 notes: HLLs are machine independent - a program written in any HLL can run on computers of different types without modifications."
+  },
+  {
+    id: "d262x_094",
+    subject: "da-262",
+    lecture: "lecture-12",
+    lectureNo: 12,
+    question: "Assertion (A): Windows OS provides multitasking capabilities to the PC.\nReason (R): Windows runs each program or document or application in its own separate window.",
+    options: ["Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A"],
+    correct: 0,
+    explanation: "As per DA-262 notes: Both are true. Windows provides multitasking (A) and runs each program in its own window (R), but R explains the naming, not the multitasking capability."
+  },
+  {
+    id: "d262x_095",
+    subject: "da-262",
+    lecture: "lecture-10",
+    lectureNo: 10,
+    question: "Assertion (A): Warm Booting is preferable to Cold Booting.\nReason (R): Warm Booting safeguards the system from sudden power fluctuations resulting from switching ON and OFF.",
+    options: ["Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A"],
+    correct: 3,
+    explanation: "As per DA-262 notes: Warm booting (Ctrl+Alt+Del) is preferable to cold booting as it safeguards the system from sudden power fluctuations."
+  },
+  {
+    id: "d262x_096",
+    subject: "da-262",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "Assertion (A): Ink jet printers are slower than dot-matrix printers.\nReason (R): Ink jet printers work by spraying ionized ink and operate at only 90 CPS.",
+    options: ["Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A"],
+    correct: 3,
+    explanation: "As per DA-262 notes: Ink jet printer is slow at 90 CPS; Dot-matrix is 200/300 to 700 CPS. So ink jet is slower and R correctly explains A."
+  },
+  {
+    id: "d262x_097",
+    subject: "da-262",
+    lecture: "lecture-8",
+    lectureNo: 8,
+    question: "Assertion (A): Hybrid computers combine features of both analog and digital computers.\nReason (R): Hybrid computers can both measure and count, making them useful in specialized applications.",
+    options: ["Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A"],
+    correct: 3,
+    explanation: "As per DA-262 notes: Hybrid computers combine features of analog and digital computers - they can both measure (analog) and count (digital)."
+  },
+  {
+    id: "d262x_098",
+    subject: "da-262",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "Match the following:\n     Column-I (Computer Operation)      |  Column-II (Description)       |  Column-III (Example)\nA.  Input                               |  1.  Receives data from devices    |  i.   Keyboard entry\nB.  Processing                          |  2.  Executes instructions         |  ii.  CPU calculations\nC.  Output                              |  3.  Presents results to user      |  iii. Monitor display\nD.  Storage                             |  4.  Retains data for later use    |  iv.  Hard disk",
+    options: ["A-4-i, B-3-ii, C-2-iii, D-1-iv", "A-3-i, B-4-ii, C-1-iii, D-2-iv", "A-2-i, B-1-ii, C-4-iii, D-3-iv", "A-1-i, B-2-ii, C-3-iii, D-4-iv"],
+    correct: 3,
+    explanation: "As per DA-262 notes: Computer operations - Input receives data (keyboard), Processing executes instructions (CPU), Output presents results (monitor), Storage retains data (hard disk)."
+  },
+  {
+    id: "d262x_099",
+    subject: "da-262",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "Match the following printers with their printing modes and speeds:\n     Column-I (Printer)    |  Column-II (Mode)               |  Column-III (Speed)\nA.  Dot-matrix           |  1.  Uses laser beam             |  i.   6-12 PPM\nB.  Ink jet              |  2.  Prints dots via ribbon      |  ii.  200-700 CPS\nC.  Laser                |  3.  Sprays ionized ink          |  iii. 90 CPS\nD.  Line printer         |  4.  Prints lines at a time      |  iv.  300-600 LPM",
+    options: ["A-4-iv, B-3-iii, C-2-ii, D-1-i", "A-1-i,  B-2-ii, C-3-iii, D-4-iv", "A-3-iii, B-1-i, C-2-ii, D-4-iv", "A-2-ii, B-3-iii, C-1-i,  D-4-iv"],
+    correct: 3,
+    explanation: "As per DA-262 notes: Dot-matrix prints dots via ribbon (200-700 CPS), Ink jet sprays ink (90 CPS), Laser uses laser beam (6-12 PPM), Line printer prints lines (300-600 LPM)."
+  },
+  {
+    id: "d262x_100",
+    subject: "da-262",
+    lecture: "lecture-6",
+    lectureNo: 6,
+    question: "Match the following programming languages with their full forms:\n     Column-I (Abbreviation)  |  Column-II (Full Form)\nA.  FORTRAN                  |  1.  Beginner's All purpose Symbolic Instruction Code\nB.  COBOL                    |  2.  Common Business Oriented Language\nC.  BASIC                    |  3.  FORmula TRANslation\nD.  ALGOL                    |  4.  ALGOrithmic Language",
+    options: ["A-1, B-3, C-2, D-4", "A-3, B-2, C-1, D-4", "A-2, B-1, C-4, D-3", "A-4, B-3, C-1, D-2"],
+    correct: 1,
+    explanation: "As per DA-262 notes: FORTRAN=FORmula TRANslation, COBOL=Common Business Oriented Language, BASIC=Beginner's All purpose Symbolic Instruction Code, ALGOL=ALGOrithmic Language."
+  },
 ];
