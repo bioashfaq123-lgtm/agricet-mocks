@@ -844,7 +844,7 @@ export const da282Questions: Question[] = [
   {
     id: "d282_106", subject: "da-282",
     question: "ASSERTION-REASON: Assertion (A): Mango is called the King of Fruits. Reason (R): Mango is the national fruit of India with high economic importance and wide cultivation.",
-    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
+    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
     correct: 2,
     explanation: "Mango is the King of Fruits and India's national fruit. R correctly explains its importance through cultivation, variety, and economic value.",
     difficulty: "easy"
@@ -892,7 +892,7 @@ export const da282Questions: Question[] = [
   {
     id: "d282_112", subject: "da-282",
     question: "ASSERTION-REASON: Assertion (A): Post-harvest losses in horticultural crops are high (20-40%). Reason (R): Fruits, vegetables, and flowers are perishable with high moisture content, prone to mechanical damage and microbial spoilage.",
-    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
+    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
     correct: 2,
     explanation: "Post-harvest losses in horticulture are 20-40%. R correctly explains the cause — perishable nature and susceptibility to spoilage.",
     difficulty: "medium"
@@ -948,7 +948,7 @@ export const da282Questions: Question[] = [
   {
     id: "d282_119", subject: "da-282",
     question: "ASSERTION-REASON: Assertion (A): Onion is a modified underground stem. Reason (R): Onion consists of fleshy scale leaves surrounding a central bud, all attached to a flattened compressed disc (stem).",
-    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
+    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
     correct: 2,
     explanation: "Onion is a tunicated bulb — a modified stem with fleshy scale leaves on a compressed disc. R correctly explains this botanical structure.",
     difficulty: "medium"
@@ -988,7 +988,7 @@ export const da282Questions: Question[] = [
   {
     id: "d282_124", subject: "da-282",
     question: "ASSERTION-REASON: Assertion (A): Banana is a climacteric fruit. Reason (R): Climacteric fruits show a rise in respiration rate and ethylene production during ripening, and can ripen after harvest.",
-    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
+    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
     correct: 2,
     explanation: "Banana is climacteric — it ripens after harvest with a rise in ethylene. R correctly defines climacteric behavior.",
     difficulty: "medium"
@@ -1020,7 +1020,7 @@ export const da282Questions: Question[] = [
   {
     id: "d282_128", subject: "da-282",
     question: "ASSERTION-REASON: Assertion (A): Drip irrigation is highly suitable for horticultural crops. Reason (R): Drip irrigation delivers water directly to the root zone, reducing water loss and improving water use efficiency.",
-    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
+    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
     correct: 2,
     explanation: "Drip irrigation is ideal for horticulture because it precisely delivers water to roots, reducing evaporation and weed growth. R correctly explains A.",
     difficulty: "easy"
@@ -1068,7 +1068,7 @@ export const da282Questions: Question[] = [
   {
     id: "d282_134", subject: "da-282",
     question: "ASSERTION-REASON: Assertion (A): Chilli is both a vegetable and a spice. Reason (R): Green chilli is used as a vegetable while dry red chilli is used as a spice; both come from Capsicum annuum.",
-    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
+    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
     correct: 2,
     explanation: "Chilli is dual-purpose — green fruit as vegetable, dry red as spice. R correctly explains both uses come from Capsicum annuum.",
     difficulty: "medium"
@@ -1108,7 +1108,7 @@ export const da282Questions: Question[] = [
   {
     id: "d282_139", subject: "da-282",
     question: "ASSERTION-REASON: Assertion (A): Bitter gourd is used to control blood sugar. Reason (R): Bitter gourd (Momordica charantia) contains insulin-like compounds (charantin, polypeptide-p) that lower blood glucose.",
-    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
+    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
     correct: 2,
     explanation: "Bitter gourd is used in Ayurveda for diabetes management. R correctly explains the biochemical basis — charantin and polypeptide-p.",
     difficulty: "medium"
@@ -1140,7 +1140,7 @@ export const da282Questions: Question[] = [
   {
     id: "d282_143", subject: "da-282",
     question: "ASSERTION-REASON: Assertion (A): Tissue culture is used in horticulture for rapid propagation of plants. Reason (R): Tissue culture produces large numbers of disease-free, genetically uniform plants quickly from a small tissue sample.",
-    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
+    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
     correct: 2,
     explanation: "Tissue culture (micropropagation) is widely used for banana, orchid, and potato propagation. R correctly explains the advantages.",
     difficulty: "medium"
@@ -1188,7 +1188,7 @@ export const da282Questions: Question[] = [
   {
     id: "d282_149", subject: "da-282",
     question: "ASSERTION-REASON: Assertion (A): Rose is the most important commercial flower crop in India. Reason (R): Rose has the highest demand for cut flowers, loose flowers, rose water, and essential oil, making it commercially most valuable.",
-    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
+    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
     correct: 2,
     explanation: "Rose is the leading commercial flower globally and in India. R correctly explains the diverse uses that make it commercially most valuable.",
     difficulty: "medium"
@@ -1220,7 +1220,7 @@ export const da282Questions: Question[] = [
   {
     id: "d282_153", subject: "da-282",
     question: "ASSERTION-REASON: Assertion (A): Cold storage is essential for extending shelf life of horticultural produce. Reason (R): Low temperatures slow down respiration, enzymatic activity, and microbial growth in perishable horticultural crops.",
-    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
+    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
     correct: 2,
     explanation: "Cold storage extends shelf life. R correctly explains the mechanism — low temperatures slow respiration and microbial spoilage.",
     difficulty: "easy"
@@ -1252,7 +1252,7 @@ export const da282Questions: Question[] = [
   {
     id: "d282_157", subject: "da-282",
     question: "ASSERTION-REASON: Assertion (A): Grafting is commonly used for propagating mango. Reason (R): Grafting ensures that the new plant has the same desirable characteristics as the parent plant and comes to bearing earlier than seedlings.",
-    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
+    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
     correct: 2,
     explanation: "Mango is propagated by grafting (veneer/inarching) for true-to-type plants that bear fruit earlier. R correctly explains the advantages of grafting.",
     difficulty: "medium"
@@ -1292,7 +1292,7 @@ export const da282Questions: Question[] = [
   {
     id: "d282_162", subject: "da-282",
     question: "ASSERTION-REASON: Assertion (A): Vegetables are broadly classified based on edible parts. Reason (R): Different parts of vegetables (roots, stems, leaves, flowers, fruits, seeds) are consumed, and crops are classified accordingly.",
-    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
+    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
     correct: 2,
     explanation: "Vegetables are classified by edible part — root vegetables (carrot), stem (potato), leaf (cabbage), flower (cauliflower), fruit (tomato), seed (pea). R explains A.",
     difficulty: "easy"
@@ -1332,7 +1332,7 @@ export const da282Questions: Question[] = [
   {
     id: "d282_167", subject: "da-282",
     question: "ASSERTION-REASON: Assertion (A): Horticulture contributes significantly to India's export earnings. Reason (R): Horticultural products like grapes, mangoes, flowers, and spices are major export commodities from India.",
-    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
+    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
     correct: 2,
     explanation: "Horticulture is a major export sector. R correctly lists grapes, mangoes, flowers, and spices as key export commodities.",
     difficulty: "easy"
@@ -1372,7 +1372,7 @@ export const da282Questions: Question[] = [
   {
     id: "d282_172", subject: "da-282",
     question: "ASSERTION-REASON: Assertion (A): Protected cultivation (greenhouse/polyhouse) is used in horticulture. Reason (R): Protected cultivation provides controlled temperature, humidity, and light, enabling year-round production of high-value crops.",
-    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
+    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
     correct: 2,
     explanation: "Greenhouses/polyhouses control growing conditions for high-value vegetables and flowers. R correctly explains the advantages of protected cultivation.",
     difficulty: "medium"
@@ -1396,7 +1396,7 @@ export const da282Questions: Question[] = [
   {
     id: "d282_175", subject: "da-282",
     question: "ASSERTION-REASON: Assertion (A): Onion causes tears when cut. Reason (R): Cutting onion releases volatile sulphur compounds (syn-propanethial-S-oxide) that irritate the eyes and trigger tear production.",
-    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
+    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
     correct: 2,
     explanation: "Cutting onion releases volatile sulphur compounds that irritate lacrimal glands, causing tears. R correctly explains the biochemical mechanism.",
     difficulty: "medium"
@@ -1428,7 +1428,7 @@ export const da282Questions: Question[] = [
   {
     id: "d282_179", subject: "da-282",
     question: "ASSERTION-REASON: Assertion (A): Fruit ripening can be artificially induced by ethylene gas. Reason (R): Ethylene is a plant hormone that triggers the biochemical changes associated with fruit ripening, including softening and colour change.",
-    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
+    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
     correct: 2,
     explanation: "Ethylene gas is used commercially to ripen bananas and mangoes. R correctly explains ethylene's role as a ripening hormone.",
     difficulty: "medium"
@@ -1452,7 +1452,7 @@ export const da282Questions: Question[] = [
   {
     id: "d282_182", subject: "da-282",
     question: "ASSERTION-REASON: Assertion (A): Organic farming is gaining importance in horticulture. Reason (R): Organic horticultural products command premium prices in domestic and international markets, and consumers prefer chemical-free produce.",
-    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
+    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
     correct: 2,
     explanation: "Organic horticulture is growing due to premium prices and consumer health consciousness. R correctly explains the market and consumer drivers.",
     difficulty: "easy"
@@ -1492,7 +1492,7 @@ export const da282Questions: Question[] = [
   {
     id: "d282_187", subject: "da-282",
     question: "ASSERTION-REASON: Assertion (A): Brinjal (eggplant) is an indigenous crop of India. Reason (R): India is the primary centre of origin for brinjal (Solanum melongena), which has been cultivated here for thousands of years.",
-    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
+    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
     correct: 2,
     explanation: "Brinjal originated in India and Southeast Asia. R correctly states India as the primary centre of origin, explaining why there is high diversity here.",
     difficulty: "medium"
@@ -1516,7 +1516,7 @@ export const da282Questions: Question[] = [
   {
     id: "d282_190", subject: "da-282",
     question: "ASSERTION-REASON: Assertion (A): India has diverse agro-climatic zones suitable for growing a wide variety of horticultural crops. Reason (R): India's varied climate, soil, and altitude support tropical, subtropical, and temperate fruit and vegetable cultivation.",
-    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
+    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
     correct: 2,
     explanation: "India's diverse agro-climatic zones allow growing tropical (mango, banana), subtropical (citrus), and temperate (apple, pear) crops. R explains A.",
     difficulty: "easy"
@@ -1540,7 +1540,7 @@ export const da282Questions: Question[] = [
   {
     id: "d282_193", subject: "da-282",
     question: "ASSERTION-REASON: Assertion (A): India is the world's largest producer of spices. Reason (R): India produces over 50 varieties of spices and is the largest exporter of spices globally, supplying about 23% of global spice exports.",
-    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
+    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
     correct: 2,
     explanation: "India produces over 50 spice varieties and dominates global spice trade. R correctly explains India's position as the world's leading spice producer and exporter.",
     difficulty: "medium"
@@ -1588,7 +1588,7 @@ export const da282Questions: Question[] = [
   {
     id: "d282_199", subject: "da-282",
     question: "ASSERTION-REASON: Assertion (A): Mango is propagated vegetatively rather than by seeds for commercial cultivation. Reason (R): Seed-grown mango plants do not come true to type and take longer to bear fruit (10-15 years vs 3-4 years for grafted plants).",
-    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
+    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
     correct: 2,
     explanation: "Mango is propagated by grafting to maintain varietal characteristics and reduce juvenile period. R correctly explains both advantages over seedling propagation.",
     difficulty: "medium"

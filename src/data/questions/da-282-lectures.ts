@@ -1657,7 +1657,7 @@ export const da282LectureQuestions: Question[] = [
   {
     id: "d282l_165", subject: "da-282", lecture: "lecture-11", lectureNo: 11,
     question: "ASSERTION-REASON: Assertion (A): Mango is called the King of Fruits in India. Reason (R): Mango is the national fruit of India, widely cultivated, and consumed across the country with high economic importance.",
-    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is NOT the correct explanation of A"],
+    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A"],
     correct: 1,
     explanation: "Mango (Mangifera indica) is the national fruit of India and called the King of Fruits due to its wide cultivation, variety, and economic importance. R explains A.",
     difficulty: "easy"
@@ -1713,7 +1713,7 @@ export const da282LectureQuestions: Question[] = [
   {
     id: "d282l_172", subject: "da-282", lecture: "lecture-12", lectureNo: 12,
     question: "ASSERTION-REASON: Assertion (A): Banana is a climacteric fruit. Reason (R): Climacteric fruits show a sharp rise in respiration (climacteric rise) and ethylene production during ripening, and can ripen after harvest.",
-    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is NOT the correct explanation of A"],
+    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A"],
     correct: 1,
     explanation: "Banana is climacteric — it ripens after harvest with a rise in ethylene. R correctly defines and explains climacteric behavior.",
     difficulty: "medium"
@@ -1745,7 +1745,7 @@ export const da282LectureQuestions: Question[] = [
   {
     id: "d282l_176", subject: "da-282", lecture: "lecture-13", lectureNo: 13,
     question: "ASSERTION-REASON: Assertion (A): Onion is a modified underground stem (bulb). Reason (R): Onion consists of fleshy scale leaves surrounding a central bud, all attached to a flattened stem (disc).",
-    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is NOT the correct explanation of A"],
+    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A"],
     correct: 1,
     explanation: "Onion is a tunicated bulb — a modified stem with fleshy scale leaves on a compressed disc. R correctly explains the botanical structure.",
     difficulty: "medium"
@@ -1785,7 +1785,7 @@ export const da282LectureQuestions: Question[] = [
   {
     id: "d282l_181", subject: "da-282", lecture: "lecture-14", lectureNo: 14,
     question: "ASSERTION-REASON: Assertion (A): Post-harvest losses in horticultural crops are higher than in field crops. Reason (R): Horticultural produce (fruits, vegetables, flowers) are perishable, having high moisture content and being prone to mechanical damage and microbial spoilage.",
-    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is NOT the correct explanation of A"],
+    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A"],
     correct: 1,
     explanation: "Post-harvest losses in horticulture are 20-40%. R correctly explains the cause — perishable nature, high moisture, and susceptibility to spoilage.",
     difficulty: "medium"
@@ -1825,7 +1825,7 @@ export const da282LectureQuestions: Question[] = [
   {
     id: "d282l_186", subject: "da-282", lecture: "lecture-15", lectureNo: 15,
     question: "ASSERTION-REASON: Assertion (A): Chilli is a vegetable and also a spice. Reason (R): Green chilli is used as a vegetable while dry red chilli is used as a spice; both come from the same plant Capsicum annuum.",
-    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is NOT the correct explanation of A"],
+    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A"],
     correct: 1,
     explanation: "Chilli is dual-purpose — green fruit as vegetable, dry red fruit as spice. R correctly explains that both uses come from Capsicum annuum.",
     difficulty: "medium"
@@ -1897,7 +1897,7 @@ export const da282LectureQuestions: Question[] = [
   {
     id: "d282l_195", subject: "da-282", lecture: "lecture-14", lectureNo: 14,
     question: "ASSERTION-REASON: Assertion (A): Drip irrigation is highly suitable for horticultural crops. Reason (R): Drip irrigation delivers water directly to the root zone, reducing water loss and improving water use efficiency for fruit and vegetable crops.",
-    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is NOT the correct explanation of A"],
+    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A"],
     correct: 1,
     explanation: "Drip irrigation is ideal for horticulture because it precisely delivers water to roots, reducing evaporation and weed growth. R correctly explains A.",
     difficulty: "easy"
@@ -1937,7 +1937,7 @@ export const da282LectureQuestions: Question[] = [
   {
     id: "d282l_200", subject: "da-282", lecture: "lecture-13", lectureNo: 13,
     question: "ASSERTION-REASON: Assertion (A): Bitter gourd is used medicinally to control blood sugar. Reason (R): Bitter gourd (Momordica charantia) contains insulin-like compounds (charantin, polypeptide-p) that help lower blood glucose levels.",
-    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is NOT the correct explanation of A"],
+    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A"],
     correct: 1,
     explanation: "Bitter gourd is widely used in Ayurveda for diabetes management. R correctly explains the biochemical basis — charantin and polypeptide-p.",
     difficulty: "medium"

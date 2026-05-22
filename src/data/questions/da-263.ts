@@ -765,7 +765,7 @@ export const da263Questions: Question[] = [
     id: "d263_096", subject: "english-communication",
     question: "Assertion (A): 'Gold' is a material noun.
 Reason (R): Material nouns name substances or raw materials from which things are made and are usually uncountable.",
-    options: ["A is true but R is false", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true"],
+    options: ["A is true but R is false", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 1,
     explanation: "Gold is indeed a material noun naming a substance. The reason correctly explains that material nouns name raw materials and are generally uncountable — both A and R are true and R explains A.",
     difficulty: "medium"
@@ -774,7 +774,7 @@ Reason (R): Material nouns name substances or raw materials from which things ar
     id: "d263_097", subject: "english-communication",
     question: "Assertion (A): 'Slept' is the past tense of 'sleep'.
 Reason (R): 'Sleep' is a regular (weak) verb that forms its past tense by adding '-ed'.",
-    options: ["A is true but R is false", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true"],
+    options: ["A is true but R is false", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 0,
     explanation: "'Slept' is indeed the past tense of 'sleep' — A is true. However, 'sleep' is an IRREGULAR verb (sleep→slept), not a regular verb — R is false.",
     difficulty: "medium"
@@ -783,7 +783,7 @@ Reason (R): 'Sleep' is a regular (weak) verb that forms its past tense by adding
     id: "d263_098", subject: "english-communication",
     question: "Assertion (A): Adverbs can modify verbs, adjectives, and other adverbs.
 Reason (R): An adverb is a word that modifies a noun to describe or limit its meaning.",
-    options: ["A is true but R is false", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true"],
+    options: ["A is true but R is false", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 0,
     explanation: "A is true — adverbs modify verbs, adjectives, and other adverbs. R is false — it is ADJECTIVES (not adverbs) that modify nouns.",
     difficulty: "medium"
@@ -875,7 +875,7 @@ Column B: P. Number  Q. Affirmation  R. Time  S. Manner",
   {
     id: "d263_109", subject: "english-communication",
     question: "ASSERTION-REASON: Assertion (A): Communication is a two-way process. Reason (R): Effective communication requires both sending a message and receiving feedback.",
-    options: ["A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false", "Both A and R are true and R is the correct explanation of A"],
+    options: ["A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "Communication involves encoding, transmitting, receiving, and feedback. R explains why it is two-way — feedback completes the loop.",
     difficulty: "easy"
@@ -947,7 +947,7 @@ Column B: P. Number  Q. Affirmation  R. Time  S. Manner",
   {
     id: "d263_118", subject: "english-communication",
     question: "ASSERTION-REASON: Assertion (A): Simple sentences can still convey complex ideas. Reason (R): Complexity in writing always requires long compound-complex sentences.",
-    options: ["A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false", "Both A and R are true and R is the correct explanation of A"],
+    options: ["A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "Both A and R are true and R is the correct explanation of A"],
     correct: 2,
     explanation: "A is true — simple sentences can be powerful. R is false — clear writing values simplicity over unnecessarily complex sentences.",
     difficulty: "medium"
@@ -1011,7 +1011,7 @@ Column B: P. Number  Q. Affirmation  R. Time  S. Manner",
   {
     id: "d263_126", subject: "english-communication",
     question: "ASSERTION-REASON: Assertion (A): Extension workers should use simple language when communicating with farmers. Reason (R): Farmers may have low literacy levels and using technical jargon creates communication barriers.",
-    options: ["A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false", "Both A and R are true and R is the correct explanation of A"],
+    options: ["A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "R correctly explains why simple language is necessary — jargon and complex words create barriers for farmers with limited education.",
     difficulty: "easy"
@@ -1107,7 +1107,7 @@ Column B: P. Number  Q. Affirmation  R. Time  S. Manner",
   {
     id: "d263_138", subject: "english-communication",
     question: "ASSERTION-REASON: Assertion (A): Active voice is generally preferred over passive voice in writing. Reason (R): Active voice sentences are clearer, more direct, and show who is performing the action.",
-    options: ["A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false", "Both A and R are true and R is the correct explanation of A"],
+    options: ["A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "Active voice (The farmer waters plants) is clearer than passive (Plants are watered). R correctly explains why active voice is preferred.",
     difficulty: "medium"
@@ -1155,7 +1155,7 @@ Column B: P. Number  Q. Affirmation  R. Time  S. Manner",
   {
     id: "d263_144", subject: "english-communication",
     question: "ASSERTION-REASON: Assertion (A): Pronunciation and stress patterns affect the meaning of spoken English. Reason (R): Changing word stress can change a word's part of speech (e.g., REcord vs reCORD).",
-    options: ["A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false", "Both A and R are true and R is the correct explanation of A"],
+    options: ["A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "Stress does affect meaning and function. REcord (noun) vs reCORD (verb) — R correctly demonstrates and explains A.",
     difficulty: "medium"
@@ -1195,7 +1195,7 @@ Column B: P. Number  Q. Affirmation  R. Time  S. Manner",
   {
     id: "d263_149", subject: "english-communication",
     question: "ASSERTION-REASON: Assertion (A): Written communication creates a permanent record. Reason (R): Unlike oral communication, written messages can be stored, retrieved, and referenced later.",
-    options: ["A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false", "Both A and R are true and R is the correct explanation of A"],
+    options: ["A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "Written communication (letters, reports, emails) leaves a permanent record. R correctly explains why — documents can be stored and referred to later.",
     difficulty: "easy"
@@ -1315,7 +1315,7 @@ Column B: P. Number  Q. Affirmation  R. Time  S. Manner",
   {
     id: "d263_164", subject: "english-communication",
     question: "ASSERTION-REASON: Assertion (A): Listening is a passive activity. Reason (R): Good listening requires conscious effort, attention, and mental engagement with what is being said.",
-    options: ["A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false", "Both A and R are true and R is the correct explanation of A"],
+    options: ["A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "Both A and R are true and R is the correct explanation of A"],
     correct: 0,
     explanation: "A is false — listening is an active process. R is true — effective listening requires active mental engagement, contradicting A.",
     difficulty: "medium"
@@ -1403,7 +1403,7 @@ Column B: P. Number  Q. Affirmation  R. Time  S. Manner",
   {
     id: "d263_175", subject: "english-communication",
     question: "ASSERTION-REASON: Assertion (A): Oral communication is the most ancient form of communication. Reason (R): Writing was developed by humans long before spoken language.",
-    options: ["A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false", "Both A and R are true and R is the correct explanation of A"],
+    options: ["A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "Both A and R are true and R is the correct explanation of A"],
     correct: 2,
     explanation: "A is true — oral communication is the oldest form. R is false — spoken language came first; writing was developed much later.",
     difficulty: "medium"
@@ -1443,7 +1443,7 @@ Column B: P. Number  Q. Affirmation  R. Time  S. Manner",
   {
     id: "d263_180", subject: "english-communication",
     question: "ASSERTION-REASON: Assertion (A): Good oral communication requires both speaking and listening skills. Reason (R): Communication is complete only when the receiver understands the message — making listening equally important as speaking.",
-    options: ["A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false", "Both A and R are true and R is the correct explanation of A"],
+    options: ["A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "Effective oral communication is a dialogue — R correctly explains that understanding (through listening) is essential to complete the process.",
     difficulty: "easy"
@@ -1491,7 +1491,7 @@ Column B: P. Number  Q. Affirmation  R. Time  S. Manner",
   {
     id: "d263_186", subject: "english-communication",
     question: "ASSERTION-REASON: Assertion (A): Body language accounts for a major portion of communication impact. Reason (R): Non-verbal cues (posture, gestures, expressions) carry greater weight than words alone.",
-    options: ["A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false", "Both A and R are true and R is the correct explanation of A"],
+    options: ["A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "Studies show about 55% of communication is body language. R correctly explains why non-verbal communication has high impact.",
     difficulty: "medium"
@@ -1515,7 +1515,7 @@ Column B: P. Number  Q. Affirmation  R. Time  S. Manner",
   {
     id: "d263_189", subject: "english-communication",
     question: "ASSERTION-REASON: Assertion (A): Idioms should be used sparingly in technical agricultural writing. Reason (R): Technical writing aims for precision and clarity; idioms can be ambiguous, especially for non-native speakers.",
-    options: ["A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false", "Both A and R are true and R is the correct explanation of A"],
+    options: ["A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "Technical writing requires precise, unambiguous language. R correctly explains why idioms (which carry figurative meaning) should be avoided.",
     difficulty: "medium"
@@ -1555,7 +1555,7 @@ Column B: P. Number  Q. Affirmation  R. Time  S. Manner",
   {
     id: "d263_194", subject: "english-communication",
     question: "ASSERTION-REASON: Assertion (A): A curriculum vitae (CV) is longer and more detailed than a resume. Reason (R): A CV includes complete academic and professional history, while a resume is a brief summary.",
-    options: ["A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false", "Both A and R are true and R is the correct explanation of A"],
+    options: ["A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "Both statements are true. R correctly explains why a CV is longer — it provides complete academic and career details.",
     difficulty: "medium"
@@ -1595,7 +1595,7 @@ Column B: P. Number  Q. Affirmation  R. Time  S. Manner",
   {
     id: "d263_199", subject: "english-communication",
     question: "ASSERTION-REASON: Assertion (A): Extension workers should empathize with farmers. Reason (R): Empathy helps extension workers understand farmers' problems from their perspective, building trust and making communication more effective.",
-    options: ["A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false", "Both A and R are true and R is the correct explanation of A"],
+    options: ["A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "Empathy helps extension workers understand farmers context, building trust and making communication relevant — R correctly explains A.",
     difficulty: "medium"

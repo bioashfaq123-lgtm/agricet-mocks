@@ -671,7 +671,7 @@ export const da263LectureQuestions: Question[] = [
     id: "d263l_096", subject: "english-communication", lecture: "lecture-14", lectureNo: 14,
     question: "Assertion (A): 'Gold' is a material noun.
 Reason (R): Material nouns name substances or raw materials from which things are made and are usually uncountable.",
-    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
+    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "Gold is indeed a material noun naming a substance. The reason correctly explains that material nouns name raw materials and are generally uncountable — both A and R are true and R explains A.",
     difficulty: "medium"
@@ -679,7 +679,7 @@ Reason (R): Material nouns name substances or raw materials from which things ar
     id: "d263l_097", subject: "english-communication", lecture: "lecture-16", lectureNo: 16,
     question: "Assertion (A): 'Slept' is the past tense of 'sleep'.
 Reason (R): 'Sleep' is a regular (weak) verb that forms its past tense by adding '-ed'.",
-    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
+    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 0,
     explanation: "'Slept' is indeed the past tense of 'sleep' — A is true. However, 'sleep' is an IRREGULAR verb (sleep→slept), not a regular verb — R is false.",
     difficulty: "medium"
@@ -687,7 +687,7 @@ Reason (R): 'Sleep' is a regular (weak) verb that forms its past tense by adding
     id: "d263l_098", subject: "english-communication", lecture: "lecture-17", lectureNo: 17,
     question: "Assertion (A): Adverbs can modify verbs, adjectives, and other adverbs.
 Reason (R): An adverb is a word that modifies a noun to describe or limit its meaning.",
-    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
+    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 0,
     explanation: "A is true — adverbs modify verbs, adjectives, and other adverbs. R is false — it is ADJECTIVES (not adverbs) that modify nouns.",
     difficulty: "medium"
@@ -777,7 +777,7 @@ Column B: P. Number  Q. Affirmation  R. Time  S. Manner",
   {
     id: "d263l_109", subject: "english-communication", lecture: "lecture-6", lectureNo: 6,
     question: "ASSERTION-REASON: Assertion (A): Collective nouns take a singular verb when the group acts as one unit. Reason (R): A collective noun names a group of people, animals, or things.",
-    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false"],
+    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
     correct: 1,
     explanation: "R correctly defines collective nouns and explains why they can take singular verbs when acting as a unified body.",
     difficulty: "medium"
@@ -857,7 +857,7 @@ Column B: P. Number  Q. Affirmation  R. Time  S. Manner",
   {
     id: "d263l_119", subject: "english-communication", lecture: "lecture-7", lectureNo: 7,
     question: "ASSERTION-REASON: Assertion (A): In English, adjectives do not change form for singular/plural nouns. Reason (R): Unlike verbs, adjectives in English are invariable in number.",
-    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false"],
+    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
     correct: 1,
     explanation: "English adjectives remain unchanged regardless of number (a tall tree, tall trees). R correctly explains this property.",
     difficulty: "medium"
@@ -929,7 +929,7 @@ Column B: P. Number  Q. Affirmation  R. Time  S. Manner",
   {
     id: "d263l_128", subject: "english-communication", lecture: "lecture-8", lectureNo: 8,
     question: "ASSERTION-REASON: Assertion (A): Scanning is used to look for specific information in a text. Reason (R): Scanning involves reading every sentence slowly and carefully.",
-    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false"],
+    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
     correct: 3,
     explanation: "A is true — scanning searches for specific facts. R is false — scanning is quick targeted reading, not slow careful reading.",
     difficulty: "medium"
@@ -1017,7 +1017,7 @@ Column B: P. Number  Q. Affirmation  R. Time  S. Manner",
   {
     id: "d263l_139", subject: "english-communication", lecture: "lecture-9", lectureNo: 9,
     question: "ASSERTION-REASON: Assertion (A): A CV is longer and more detailed than a resume. Reason (R): A CV includes complete academic and professional history, while a resume is a brief summary.",
-    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false"],
+    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
     correct: 1,
     explanation: "Both statements are true. R correctly explains why a CV is longer — it provides complete academic and career details.",
     difficulty: "medium"
@@ -1097,7 +1097,7 @@ Column B: P. Number  Q. Affirmation  R. Time  S. Manner",
   {
     id: "d263l_149", subject: "english-communication", lecture: "lecture-10", lectureNo: 10,
     question: "ASSERTION-REASON: Assertion (A): Effective communication requires feedback. Reason (R): Without feedback, the sender cannot confirm whether the message was correctly understood.",
-    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false"],
+    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
     correct: 1,
     explanation: "Feedback is essential to confirm message receipt and understanding. R is the correct explanation of why feedback makes communication effective.",
     difficulty: "medium"
@@ -1273,7 +1273,7 @@ Column B: P. Number  Q. Affirmation  R. Time  S. Manner",
   {
     id: "d263l_171", subject: "english-communication", lecture: "lecture-7", lectureNo: 7,
     question: "ASSERTION-REASON: Assertion (A): An adverb can modify an adjective. Reason (R): Adverbs modify only verbs and cannot modify any other part of speech.",
-    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false"],
+    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
     correct: 3,
     explanation: "A is true — adverbs CAN modify adjectives (e.g., very green). R is false — adverbs modify verbs, adjectives, and other adverbs.",
     difficulty: "medium"
@@ -1337,7 +1337,7 @@ Column B: P. Number  Q. Affirmation  R. Time  S. Manner",
   {
     id: "d263l_179", subject: "english-communication", lecture: "lecture-10", lectureNo: 10,
     question: "ASSERTION-REASON: Assertion (A): Public speaking is primarily a one-way communication form. Reason (R): In public speaking, the speaker transmits messages to an audience with limited immediate feedback.",
-    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false"],
+    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
     correct: 1,
     explanation: "In a speech the speaker talks to the audience (one-way dominant). R correctly explains why — audience feedback is limited during the speech.",
     difficulty: "medium"
@@ -1433,7 +1433,7 @@ Column B: P. Number  Q. Affirmation  R. Time  S. Manner",
   {
     id: "d263l_191", subject: "english-communication", lecture: "lecture-9", lectureNo: 9,
     question: "ASSERTION-REASON: Assertion (A): Empathy is important in agricultural extension communication. Reason (R): When extension workers understand farmers from their perspective, communication becomes more effective.",
-    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false"],
+    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
     correct: 1,
     explanation: "Empathy helps extension workers understand farmers context, building trust and making communication relevant — R correctly explains A.",
     difficulty: "medium"
@@ -1489,7 +1489,7 @@ Column B: P. Number  Q. Affirmation  R. Time  S. Manner",
   {
     id: "d263l_198", subject: "english-communication", lecture: "lecture-8", lectureNo: 8,
     question: "ASSERTION-REASON: Assertion (A): Written communication creates a permanent record. Reason (R): Unlike oral communication, written messages can be stored, retrieved, and referenced later.",
-    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false"],
+    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
     correct: 1,
     explanation: "Written communication (letters, reports, emails) leaves a permanent record. R correctly explains why — documents can be stored and referred to later.",
     difficulty: "easy"

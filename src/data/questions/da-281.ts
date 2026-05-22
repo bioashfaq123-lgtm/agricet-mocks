@@ -868,7 +868,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_109", subject: "da-281",
     question: "ASSERTION-REASON: Assertion (A): Forests help maintain the water cycle. Reason (R): Trees absorb water from soil and release it through transpiration, contributing to rainfall.",
-    options: ["Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true"],
+    options: ["Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true"],
     correct: 1,
     explanation: "Forests maintain the water cycle through transpiration, reducing runoff, and promoting rainfall. R correctly explains A.",
     difficulty: "medium"
@@ -948,7 +948,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_119", subject: "da-281",
     question: "ASSERTION-REASON: Assertion (A): Neem is called the village pharmacy. Reason (R): Every part of neem has medicinal, pesticidal, or agricultural uses.",
-    options: ["Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true"],
+    options: ["Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true"],
     correct: 1,
     explanation: "Neem is the village pharmacy because its leaves, bark, seeds, and oil are used for medicine, biopesticides, and agriculture. R explains A.",
     difficulty: "easy"
@@ -1004,7 +1004,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_126", subject: "da-281",
     question: "ASSERTION-REASON: Assertion (A): Deforestation leads to increased CO2 in the atmosphere. Reason (R): Trees absorb CO2 during photosynthesis; when cut, this absorption is lost and CO2 is released.",
-    options: ["Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true"],
+    options: ["Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true"],
     correct: 1,
     explanation: "Deforestation releases stored carbon and removes CO2-absorbing trees. R correctly explains the mechanism by which deforestation increases atmospheric CO2.",
     difficulty: "medium"
@@ -1068,7 +1068,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_134", subject: "da-281",
     question: "ASSERTION-REASON: Assertion (A): Forests help prevent soil erosion. Reason (R): Tree roots bind soil particles and the canopy reduces the impact of rainfall on the soil surface.",
-    options: ["Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true"],
+    options: ["Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true"],
     correct: 1,
     explanation: "Forests prevent soil erosion through roots binding soil and canopy intercepting raindrops. R correctly explains A.",
     difficulty: "easy"
@@ -1140,7 +1140,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_143", subject: "da-281",
     question: "ASSERTION-REASON: Assertion (A): Eucalyptus is recommended for all agroforestry systems in India. Reason (R): Eucalyptus provides high biomass but is known to cause groundwater depletion and soil degradation.",
-    options: ["Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true"],
+    options: ["Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true"],
     correct: 3,
     explanation: "A is false — Eucalyptus is NOT universally recommended due to its negative environmental effects. R is true — correctly states the problems with Eucalyptus.",
     difficulty: "hard"
@@ -1180,7 +1180,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_148", subject: "da-281",
     question: "ASSERTION-REASON: Assertion (A): Bamboo is the fastest growing woody plant. Reason (R): Some species of bamboo can grow up to 90 cm per day under ideal conditions.",
-    options: ["Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true"],
+    options: ["Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true"],
     correct: 1,
     explanation: "Bamboo is indeed the fastest growing woody plant. Some tropical bamboo species can grow up to 90 cm/day. R correctly supports and explains A.",
     difficulty: "medium"
@@ -1228,7 +1228,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_154", subject: "da-281",
     question: "ASSERTION-REASON: Assertion (A): Social forestry aims to grow trees for the benefit of local communities. Reason (R): Social forestry focuses only on commercial timber production in reserved forests.",
-    options: ["Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true"],
+    options: ["Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true"],
     correct: 2,
     explanation: "A is true — social forestry benefits local communities. R is false — social forestry focuses on community land, not reserved forests, and not just for commercial timber.",
     difficulty: "medium"
@@ -1268,7 +1268,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_159", subject: "da-281",
     question: "ASSERTION-REASON: Assertion (A): Agroforestry systems improve farm income and environmental sustainability simultaneously. Reason (R): Combining trees with crops or livestock provides multiple products and ecological services while using land more efficiently.",
-    options: ["Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true"],
+    options: ["Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true"],
     correct: 1,
     explanation: "Agroforestry provides timber, fruits, fodder, and ecological services from the same land, improving income and sustainability. R correctly explains A.",
     difficulty: "medium"
@@ -1316,7 +1316,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_165", subject: "da-281",
     question: "ASSERTION-REASON: Assertion (A): Bamboo is considered a grass, not a tree. Reason (R): Bamboo belongs to the family Gramineae (Poaceae) and has hollow, jointed stems like other grasses.",
-    options: ["Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true"],
+    options: ["Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true"],
     correct: 1,
     explanation: "Bamboo is botanically a grass (Gramineae/Poaceae), not a tree. R correctly explains this through its family classification and stem structure.",
     difficulty: "medium"
@@ -1348,7 +1348,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_169", subject: "da-281",
     question: "ASSERTION-REASON: Assertion (A): India is a mega-biodiversity country. Reason (R): India contains about 7-8% of the world's recorded species despite having only 2.4% of the world's land area.",
-    options: ["Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true"],
+    options: ["Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true"],
     correct: 1,
     explanation: "India is mega-diverse with 7-8% of world's species in 2.4% of land area, making it one of the 17 megadiverse countries. R correctly explains A.",
     difficulty: "medium"
@@ -1396,7 +1396,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_175", subject: "da-281",
     question: "ASSERTION-REASON: Assertion (A): The Chipko movement was initiated by women. Reason (R): Women in Uttarakhand hills were most affected by deforestation — losing fuelwood, fodder, and water sources.",
-    options: ["Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true"],
+    options: ["Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true"],
     correct: 1,
     explanation: "Chipko was largely women-led because women suffer most from deforestation (collecting fuelwood, water, fodder). R correctly explains A.",
     difficulty: "medium"
@@ -1436,7 +1436,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_180", subject: "da-281",
     question: "ASSERTION-REASON: Assertion (A): Forest management aims for sustained yield from forests. Reason (R): Sustained yield means harvesting forest products at a rate that allows forests to regenerate, ensuring permanent forest productivity.",
-    options: ["Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true"],
+    options: ["Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true"],
     correct: 1,
     explanation: "Sustained yield is a core principle of forest management — harvest must not exceed forest regeneration capacity. R correctly explains A.",
     difficulty: "medium"
@@ -1468,7 +1468,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_184", subject: "da-281",
     question: "ASSERTION-REASON: Assertion (A): Teak is one of the most commercially valuable timber species in India. Reason (R): Teak wood is highly durable, resistant to decay and termites, making it ideal for furniture, shipbuilding, and flooring.",
-    options: ["Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true"],
+    options: ["Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true"],
     correct: 1,
     explanation: "Teak is commercially valuable. R correctly explains why — its durability, decay resistance, and termite resistance make it ideal for many applications.",
     difficulty: "easy"
@@ -1516,7 +1516,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_190", subject: "da-281",
     question: "ASSERTION-REASON: Assertion (A): Medicinal plants are an important component of forest wealth. Reason (R): About 80% of the world's population depends on plant-based medicines for primary healthcare.",
-    options: ["Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true"],
+    options: ["Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true"],
     correct: 1,
     explanation: "Medicinal plants are crucial forest resources. R (WHO statistic) correctly explains their importance — most of humanity relies on plant medicines.",
     difficulty: "medium"
@@ -1556,7 +1556,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_195", subject: "da-281",
     question: "ASSERTION-REASON: Assertion (A): Alley cropping is a type of agroforestry. Reason (R): In alley cropping, food crops are grown in alleys between rows of trees or shrubs, benefiting from shade, fallen leaves (mulch), and root competition being limited.",
-    options: ["Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true"],
+    options: ["Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true"],
     correct: 1,
     explanation: "Alley cropping is an agroforestry system where crops are planted between rows of trees. R correctly describes the system and its benefits.",
     difficulty: "medium"
@@ -1588,7 +1588,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_199", subject: "da-281",
     question: "ASSERTION-REASON: Assertion (A): Joint Forest Management (JFM) was introduced in India in 1990. Reason (R): JFM was introduced to recognize that top-down forest management alone had failed to protect forests and communities needed to be partners.",
-    options: ["Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true"],
+    options: ["Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true"],
     correct: 1,
     explanation: "JFM was introduced in 1990 recognizing the failure of centralized management. Community involvement through Village Forest Committees improved forest protection. R explains A.",
     difficulty: "medium"

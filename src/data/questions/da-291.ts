@@ -926,7 +926,7 @@ Reason (R): Even if knowledge and skills are improved in SRI method, unless farm
     id: "d291_116", subject: "Agricultural Extension Education",
     question: "Assertion (A): Lecture is the best extension teaching method to teach new practical skills to farmers.
 Reason (R): Method demonstration is described as the best extension teaching method to teach people.",
-    options: ["A is true but R is false", "A is false but R is true", "Both A and R are false", "Both A and R are true and R is the correct explanation of A"],
+    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 1,
     explanation: "A is false - lecture has limitations for teaching practical skills (it's only useful when no equipment is needed). R is true - the course material states method demonstration is the best extension teaching method.",
     difficulty: "medium"
@@ -1111,7 +1111,7 @@ Reason (R): Panchayati Raj was introduced to ensure people's participation in go
     id: "d291_138", subject: "Agricultural Extension Education",
     question: "Assertion (A): Agricultural extension was first used in America before spreading to other countries.
 Reason (R): India was the first country to implement agricultural extension services to help farmers adopt improved varieties.",
-    options: ["Both A and R are false", "A is true but R is false", "Both A and R are true", "A is false but R is true"],
+    options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 1,
     explanation: "A is true - extension was first used in America in agriculture and home science. R is false - America implemented it first, not India; the land grant college model from USA was adopted by Indian universities.",
     difficulty: "medium"
@@ -1259,7 +1259,7 @@ Col C: i-Comprehensive, authoritative document, ii-Few pages on specific topic, 
     id: "d291_155", subject: "Agricultural Extension Education",
     question: "Assertion (A): The Community Development Programme was launched on Gandhi Jayanti (2nd October) 1952.
 Reason (R): Gandhi Jayanti was chosen because Gandhiji's Sevagram experiment in 1921 inspired the CDP model.",
-    options: ["Both A and R are false", "A is true but R is false", "Both A and R are true", "A is false but R is true"],
+    options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 1,
     explanation: "A is true - CDP was launched on 2nd October 1952 (Gandhi Jayanti). R is speculative/false - the official reason for choosing this date is to honor Gandhi's birthday and his legacy of rural development, but the CDP was based on the Etawah project model, not directly the Sevagram model.",
     difficulty: "hard"
@@ -1303,7 +1303,7 @@ Col C: i-Improves community through family improvement, ii-Values each person in
     id: "d291_160", subject: "Agricultural Extension Education",
     question: "Assertion (A): The extension educational process is continuous because after reconsideration, if new situations require further work, the whole process begins again.
 Reason (R): Extension education aims at one-time technology transfer from research institutions to farmers.",
-    options: ["Both A and R are false", "A is true but R is false", "Both A and R are true", "A is false but R is true"],
+    options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 1,
     explanation: "A is true - the process is cyclical and continuous (Reconsideration reveals new situations and the process repeats). R is false - extension education is not one-time transfer but an ongoing educational process.",
     difficulty: "medium"
@@ -1459,7 +1459,7 @@ Col C: i-Suitable for creating awareness, ii-Realistic demonstration of methods,
     id: "d291_178", subject: "Agricultural Extension Education",
     question: "Assertion (A): Agricultural extension is a service to farmers on use of improved varieties and latest agricultural developments to bring desirable change.
 Reason (R): Agricultural extension was first developed in India as part of post-independence rural development.",
-    options: ["Both A and R are false", "A is true but R is false", "Both A and R are true", "A is false but R is true"],
+    options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 1,
     explanation: "A is true - agricultural extension is a service to farmers. R is false - agricultural extension was first developed in America (USA), not India.",
     difficulty: "medium"
@@ -1591,7 +1591,7 @@ Col C: i-Community improvement starts at family level, ii-Respect for each farme
     id: "d291_193", subject: "Agricultural Extension Education",
     question: "Assertion (A): Extension education sometimes compared to commercial salesmanship.
 Reason (R): Extension workers primarily aim to make commercial profits from technology transfer to farmers.",
-    options: ["Both A and R are false", "A is true but R is false", "Both A and R are true", "A is false but R is true"],
+    options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 1,
     explanation: "A is true - extension is compared to salesmanship as workers convince farmers about new technologies. R is false - extension workers aim for farmers' development, not commercial profit.",
     difficulty: "medium"

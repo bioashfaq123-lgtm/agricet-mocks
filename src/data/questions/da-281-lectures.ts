@@ -1649,7 +1649,7 @@ export const da281LectureQuestions: Question[] = [
   {
     id: "d281l_165", subject: "da-281", lecture: "lecture-11", lectureNo: 11,
     question: "ASSERTION-REASON: Assertion (A): Forests play a crucial role in maintaining the water cycle. Reason (R): Trees absorb water from the soil and release it into the atmosphere through transpiration.",
-    options: ["Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is false but R is true", "A is true but R is false"],
+    options: ["Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is false but R is true", "A is true but R is false"],
     correct: 1,
     explanation: "Forests maintain the water cycle through transpiration, reducing surface runoff, and promoting rainfall. R correctly explains A.",
     difficulty: "medium"
@@ -1705,7 +1705,7 @@ export const da281LectureQuestions: Question[] = [
   {
     id: "d281l_172", subject: "da-281", lecture: "lecture-12", lectureNo: 12,
     question: "ASSERTION-REASON: Assertion (A): Neem is called the village pharmacy in India. Reason (R): Almost every part of neem (leaves, bark, seeds, oil) has medicinal, pesticidal, or agricultural uses.",
-    options: ["Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is false but R is true", "A is true but R is false"],
+    options: ["Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is false but R is true", "A is true but R is false"],
     correct: 1,
     explanation: "Neem is called the village pharmacy because its leaves, bark, seeds, and oil are used for medicine, biopesticides, and agriculture. R explains A.",
     difficulty: "easy"
@@ -1777,7 +1777,7 @@ export const da281LectureQuestions: Question[] = [
   {
     id: "d281l_181", subject: "da-281", lecture: "lecture-14", lectureNo: 14,
     question: "ASSERTION-REASON: Assertion (A): Eucalyptus is a controversial tree for agroforestry in India. Reason (R): Eucalyptus is known to deplete groundwater and soil nutrients while providing fast growth and high biomass.",
-    options: ["Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is false but R is true", "A is true but R is false"],
+    options: ["Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is false but R is true", "A is true but R is false"],
     correct: 1,
     explanation: "Eucalyptus is controversial because while it grows fast and yields biomass, it depletes groundwater and impoverishes soil. R explains the controversy.",
     difficulty: "medium"
@@ -1825,7 +1825,7 @@ export const da281LectureQuestions: Question[] = [
   {
     id: "d281l_187", subject: "da-281", lecture: "lecture-15", lectureNo: 15,
     question: "ASSERTION-REASON: Assertion (A): Forests help in prevention of soil erosion. Reason (R): Tree roots bind the soil particles together and the canopy reduces the impact of rainfall on the soil surface.",
-    options: ["Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is false but R is true", "A is true but R is false"],
+    options: ["Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is false but R is true", "A is true but R is false"],
     correct: 1,
     explanation: "Forests prevent soil erosion through roots binding soil and canopy intercepting raindrops. R correctly explains the mechanism behind A.",
     difficulty: "easy"
@@ -1897,7 +1897,7 @@ export const da281LectureQuestions: Question[] = [
   {
     id: "d281l_196", subject: "da-281", lecture: "lecture-11", lectureNo: 11,
     question: "ASSERTION-REASON: Assertion (A): Deforestation leads to increased carbon dioxide in the atmosphere. Reason (R): Trees absorb CO2 during photosynthesis; when trees are cut, this absorption capacity is lost and CO2 released.",
-    options: ["Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is false but R is true", "A is true but R is false"],
+    options: ["Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is false but R is true", "A is true but R is false"],
     correct: 1,
     explanation: "Deforestation releases stored carbon and removes CO2-absorbing trees. R correctly explains the mechanism by which deforestation increases atmospheric CO2.",
     difficulty: "medium"
