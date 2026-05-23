@@ -131,7 +131,7 @@ Your role:
 ${context ? `Reference excerpts from PJTSAU study material:\n\n${context}\n\nUse the above excerpts as primary source. Answer in clear, exam-focused language.` : "Answer based on standard agricultural science knowledge."}`
 
     const response = await anthropic.messages.create({
-      model: "claude-haiku-3-5",
+      model: "claude-3-haiku-20240307",
       max_tokens: 600,
       system: systemPrompt,
       messages,
@@ -143,11 +143,17 @@ ${context ? `Reference excerpts from PJTSAU study material:\n\n${context}\n\nUse
       answer,
       sources: relevantChunks.map(c => c.subjectName).filter((v, i, a) => a.indexOf(v) === i),
     });
-  } catch (err) {
+  } catch (err: unknown) {
     console.error("Chat API error:", err);
-    return NextResponse.json(
-      { error: "Failed to get answer. Please try again." },
-      { status: 500 }
-    );
+    // Surface a helpful message for common errors
+    const msg = err instanceof Error ? err.message : String(err);
+    const userMsg = msg.includes("Could not resolve authentication")
+      || msg.includes("invalid x-api-key")
+      || msg.includes("authentication_error")
+      ? "Invalid API key. Please check the ANTHROPIC_API_KEY in Vercel settings."
+      : msg.includes("model")
+      ? `Model error: ${msg}`
+      : "Failed to get answer. Please try again.";
+    return NextResponse.json({ error: userMsg }, { status: 500 });
   }
 }
