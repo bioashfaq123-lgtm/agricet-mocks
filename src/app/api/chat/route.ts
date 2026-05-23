@@ -145,15 +145,9 @@ ${context ? `Reference excerpts from PJTSAU study material:\n\n${context}\n\nUse
     });
   } catch (err: unknown) {
     console.error("Chat API error:", err);
-    // Surface a helpful message for common errors
     const msg = err instanceof Error ? err.message : String(err);
-    const userMsg = msg.includes("Could not resolve authentication")
-      || msg.includes("invalid x-api-key")
-      || msg.includes("authentication_error")
-      ? "Invalid API key. Please check the ANTHROPIC_API_KEY in Vercel settings."
-      : msg.includes("model")
-      ? `Model error: ${msg}`
-      : "Failed to get answer. Please try again.";
-    return NextResponse.json({ error: userMsg }, { status: 500 });
+    const stack = err instanceof Error ? err.stack : undefined;
+    // Always surface the real error message for debugging
+    return NextResponse.json({ error: msg, debug_stack: stack?.slice(0, 500) }, { status: 500 });
   }
 }
