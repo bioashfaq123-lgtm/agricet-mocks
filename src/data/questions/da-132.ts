@@ -77,7 +77,7 @@ export const da132Questions: Question[] = [
     id: "d132_010",
     subject: "da-132",
     question: "The Climbing Cutworm (Mythimna separata) on rice appears in swarms and causes damage by:",
-    options: ["Boring into stems at nodal regions", "Climbing and cutting ear heads in addition to defoliation", "Sucking sap from basal portions", "Mining inside leaf tissue"],
+    options: ["Boring into stems at nodal regions", "Climbing and cutting ear heads in addition to defoliation", "Sucking sap from basal portions in crop production", "Mining inside leaf tissue in field conditions"],
     correct: 1,
     explanation: "Climbing Cutworm (Mythimna separata, Order Lepidoptera) appears in swarms at ear head stage in Nov-Dec. Late instars climb and cut ear heads in addition to defoliating the crop."
   },
@@ -85,7 +85,7 @@ export const da132Questions: Question[] = [
     id: "d132_011",
     subject: "da-132",
     question: "The Economic Threshold Level (ETL) for Yellow Stem Borer in the main rice crop is:",
-    options: ["10% dead hearts or 5% white ears", "1 egg mass or 1 moth per m2 or 5% dead hearts or 1% white ears", "2 egg masses per m2 or 10% dead hearts", "1 egg mass or 1 moth per 10 m2"],
+    options: ["10% dead hearts or 5% white ears in crop production", "1 egg mass or 1 moth per m2 or 5% dead hearts or 1% white ears", "2 egg masses per m2 or 10% dead hearts in field conditions", "1 egg mass or 1 moth per 10 m2 for agricultural purposes"],
     correct: 1,
     explanation: "ETL for Yellow Stem Borer in main rice crop is 1 egg mass or 1 moth per m2 or 5% dead hearts or 1% white ears. In nursery, it is 1 egg mass or 1 moth per m2."
   },
@@ -101,7 +101,7 @@ export const da132Questions: Question[] = [
     id: "d132_013",
     subject: "da-132",
     question: "The Sorghum Stem Borer (Chilo partellus) produces which distinctive symptom on leaves in the early stage?",
-    options: ["Galls at the growing point", "Shot holes due to biting across the leaf spindle", "Rolled leaves with faecal pellets", "White streaks parallel to veins"],
+    options: ["Galls at the growing point in crop production", "Shot holes due to biting across the leaf spindle", "Rolled leaves with faecal pellets in field conditions", "White streaks parallel to veins for agricultural purposes"],
     correct: 1,
     explanation: "Sorghum Stem Borer (Chilo partellus) larvae bite across the leaf spindle causing shot holes on unfolding leaves. Later they bore into the stem causing dead heart and chaffy ear heads."
   },
@@ -109,7 +109,7 @@ export const da132Questions: Question[] = [
     id: "d132_014",
     subject: "da-132",
     question: "The Sorghum Earhead Bug (Calocoris angustatus) causes damage by:",
-    options: ["Boring into the stem at internodal regions", "Mining inside developing seeds in the pod", "Sucking sap from developing milky grains causing shrivelled chaffy grains", "Defoliating the crop completely"],
+    options: ["Boring into the stem at internodal regions", "Mining inside developing seeds in the pod", "Sucking sap from developing milky grains causing shrivelled chaffy grains", "Defoliating the crop completely in crop production"],
     correct: 2,
     explanation: "Sorghum Earhead Bug (Calocoris angustatus, Order Hemiptera) nymphs and adults suck sap from tender grains at milky stage. Infested grains show red spots, turn black, shrivel, and become chaffy."
   },
@@ -157,7 +157,7 @@ export const da132Questions: Question[] = [
     id: "d132_020",
     subject: "da-132",
     question: "The Spotted Pod Borer of redgram (Maruca vitrata) causes damage by:",
-    options: ["Mining inside pods leaving no external entry holes", "Feeding only on flower petals and pollen", "Webbing flowers together and boring into pods to eat ripening seeds", "Sucking sap from pods and seeds"],
+    options: ["Mining inside pods leaving no external entry holes", "Feeding only on flower petals and pollen in crop production", "Webbing flowers together and boring into pods to eat ripening seeds", "Sucking sap from pods and seeds in field conditions"],
     correct: 2,
     explanation: "Spotted Pod Borer (Maruca vitrata, Order Lepidoptera) larvae web together flowers and feed on them, then bore into pods at one end and eat up the ripening seeds. Mass excreta visible at the larval burrow entrance."
   },
@@ -173,7 +173,7 @@ export const da132Questions: Question[] = [
     id: "d132_022",
     subject: "da-132",
     question: "The Groundnut Leaf Miner (Aproaerema modicella) causes damage by:",
-    options: ["Folding leaflets and feeding from outside", "Boring into pegs and pods underground", "Mining inside the upper epidermis of leaves causing blotches and folded dried leaves", "Sucking sap from growing tips"],
+    options: ["Folding leaflets and feeding from outside in crop production", "Boring into pegs and pods underground in field conditions", "Mining inside the upper epidermis of leaves causing blotches and folded dried leaves", "Sucking sap from growing tips for agricultural purposes"],
     correct: 2,
     explanation: "Groundnut Leaf Miner (Aproaerema modicella, Order Lepidoptera) caterpillars mine inside the upper epidermis of leaves creating characteristic blotches, and also web adjacent leaflets. Severely infested fields look as if burnt."
   },
@@ -197,7 +197,7 @@ export const da132Questions: Question[] = [
     id: "d132_025",
     subject: "da-132",
     question: "The Jewel Beetle (Sphenoptera perotetti) damages groundnut by:",
-    options: ["Sucking sap from developing pods", "Boring into the stem close to soil surface causing drying and death of plants", "Feeding on flower petals and pollen", "Mining inside leaves causing blotch mines"],
+    options: ["Sucking sap from developing pods in crop production", "Boring into the stem close to soil surface causing drying and death of plants", "Feeding on flower petals and pollen in field conditions", "Mining inside leaves causing blotch mines for agricultural purposes"],
     correct: 1,
     explanation: "Jewel Beetle (Sphenoptera perotetti, Order Coleoptera) — flattened grubs with a globular head burrow into the stem close to the soil surface causing drying and death of groundnut plants. Grubs or pupae found in the hollowed stem."
   },
@@ -221,7 +221,7 @@ export const da132Questions: Question[] = [
     id: "d132_028",
     subject: "da-132",
     question: "The Sesamum Gall Fly (Asphondylia sesami) is a specific pest of gingelly. Its maggots cause:",
-    options: ["Wilting of shoots and capsules", "Malformation of pods without proper seed setting due to feeding on the ovary", "Mining inside leaf tissue", "Dead heart in young seedlings"],
+    options: ["Wilting of shoots and capsules in crop production", "Malformation of pods without proper seed setting due to feeding on the ovary", "Mining inside leaf tissue in field conditions", "Dead heart in young seedlings for agricultural purposes"],
     correct: 1,
     explanation: "Sesamum Gall Fly (Asphondylia sesami, Order Diptera) — the fly inserts eggs into flower bud ovaries. Maggots feed on the ovary resulting in malformed pods without proper seed setting. Galled buds and flowers fade and dry."
   },
@@ -237,7 +237,7 @@ export const da132Questions: Question[] = [
     id: "d132_030",
     subject: "da-132",
     question: "The Castor Shoot and Capsule Borer (Conogethis punctiferalis) is also a pest of which other crops?",
-    options: ["Brinjal, bhendi and tomato only", "Ginger, cardamom, turmeric, guava, peaches, cacao, mango inflorescence and sorghum earheads", "Rice and wheat only", "Cotton and groundnut only"],
+    options: ["Brinjal, bhendi and tomato only in crop production", "Ginger, cardamom, turmeric, guava, peaches, cacao, mango inflorescence and sorghum earheads", "Rice and wheat only in field conditions", "Cotton and groundnut only for agricultural purposes"],
     correct: 1,
     explanation: "Castor Shoot and Capsule Borer (Conogethis punctiferalis, Order Lepidoptera) besides castor also damages ginger, cardamom, turmeric, guava, peaches, cacao, pear, mango inflorescence and sorghum earheads."
   },
@@ -245,7 +245,7 @@ export const da132Questions: Question[] = [
     id: "d132_031",
     subject: "da-132",
     question: "The Tobacco Caterpillar (Spodoptera litura) young caterpillars in early stages cause damage by:",
-    options: ["Boring into stems and shoots", "Sucking sap from underside of leaves", "Mining inside leaf tissue between epidermal layers", "Gregarious scraping of chlorophyll from leaf lamina giving papery white appearance"],
+    options: ["Boring into stems and shoots in crop production", "Sucking sap from underside of leaves in field conditions", "Mining inside leaf tissue between epidermal layers for agricultural purposes", "Gregarious scraping of chlorophyll from leaf lamina giving papery white appearance"],
     correct: 3,
     explanation: "Tobacco Caterpillar (Spodoptera litura, Order Lepidoptera) — in early stages caterpillars are gregarious and scrape the chlorophyll from leaf lamina giving a papery white appearance. Later they become voracious feeders leaving only veins and petioles."
   },
@@ -253,7 +253,7 @@ export const da132Questions: Question[] = [
     id: "d132_032",
     subject: "da-132",
     question: "The Sugarcane Early Shoot Borer (Chilo infuscatellus) is most serious at which stage and condition?",
-    options: ["After cane formation in tall crop stage", "During monsoon with high humidity", "During the hot pre-monsoon period in early stages of crop growth", "During winter with low temperature"],
+    options: ["After cane formation in tall crop stage", "During monsoon with high humidity in crop production", "During the hot pre-monsoon period in early stages of crop growth", "During winter with low temperature in field conditions"],
     correct: 2,
     explanation: "Sugarcane Early Shoot Borer (Chilo infuscatellus, Order Lepidoptera) attack is usually severe in early stages during the hot pre-monsoon period. Infestation is favoured by poor irrigation, absence of rains, high temperature and low humidity."
   },
@@ -269,7 +269,7 @@ export const da132Questions: Question[] = [
     id: "d132_034",
     subject: "da-132",
     question: "The Sugarcane Internodal Borer (Chilo sacchariphagus indicus) causes most serious damage by:",
-    options: ["Sucking sap from leaf sheaths", "Feeding on developing roots", "Boring at the nodal region where the tissue turns red and the hole is plugged with excreta", "Killing young tillers at the base"],
+    options: ["Sucking sap from leaf sheaths in crop production", "Feeding on developing roots in field conditions", "Boring at the nodal region where the tissue turns red and the hole is plugged with excreta", "Killing young tillers at the base for agricultural purposes"],
     correct: 2,
     explanation: "Internodal Borer (Chilo sacchariphagus indicus, Order Lepidoptera) caterpillar bores at the nodal region of sugarcane internodes. Tissues turn red and the hole is usually plugged with excreta. A single larva may attack multiple nodes."
   },
@@ -277,7 +277,7 @@ export const da132Questions: Question[] = [
     id: "d132_035",
     subject: "da-132",
     question: "The Sugarcane Top Shoot Borer (Scirpophaga nivella) causes bunchy top symptoms because:",
-    options: ["It sucks sap from the growing point causing leaf distortion", "It feeds on developing leaves preventing their unrolling", "It bores from the top and interferes with apical growth giving rise to side shoots and bunchy top", "It transmits a virus that causes bunching of leaves"],
+    options: ["It sucks sap from the growing point causing leaf distortion in crop production", "It feeds on developing leaves preventing their unrolling in field conditions", "It bores from the top and interferes with apical growth giving rise to side shoots and bunchy top", "It transmits a virus that causes bunching of leaves for agricultural purposes"],
     correct: 2,
     explanation: "Top Shoot Borer (Scirpophaga nivella) caterpillar first bores into the stem from top through midribs of leaves. Interference with apical growth gives rise to side shoots and bunchy top symptoms. A row of shot holes are formed on affected leaves."
   },
@@ -285,7 +285,7 @@ export const da132Questions: Question[] = [
     id: "d132_036",
     subject: "da-132",
     question: "The Sugarcane Leafhopper (Pyrilla perpusilla) damages the crop by:",
-    options: ["Transmitting mosaic virus disease", "Sucking phloem sap from leaves and excreting honeydew leading to sooty mould development", "Boring into internodes", "Feeding on growing points causing dead hearts"],
+    options: ["Transmitting mosaic virus disease in crop production", "Sucking phloem sap from leaves and excreting honeydew leading to sooty mould development", "Boring into internodes in field conditions", "Feeding on growing points causing dead hearts for agricultural purposes"],
     correct: 1,
     explanation: "Pyrilla perpusilla (sugarcane leafhopper, Order Hemiptera) adults and nymphs suck sap from the underside of leaves. Honeydew excreted by Pyrilla promotes sooty mould (black fungus) growth on leaf surfaces, reducing photosynthesis."
   },
@@ -293,7 +293,7 @@ export const da132Questions: Question[] = [
     id: "d132_037",
     subject: "da-132",
     question: "The Sugarcane Woolly Aphid (Ceratovacuna lanigera) can be identified by its production of:",
-    options: ["White waxy mealy filamentous material on nymphs from third instar", "Hard scale covering on stem", "Honeydew droplets only", "Red coloured secretions"],
+    options: ["White waxy mealy filamentous material on nymphs from third instar", "Hard scale covering on stem in crop production", "Honeydew droplets only in field conditions", "Red coloured secretions for agricultural purposes"],
     correct: 0,
     explanation: "Sugarcane Woolly Aphid (Ceratovacuna lanigera, Order Hemiptera) nymphs develop white waxy and mealy filamentous material from third instar. Adults colonise on either side of midrib covered with white puff material on underside of leaves."
   },
@@ -309,7 +309,7 @@ export const da132Questions: Question[] = [
     id: "d132_039",
     subject: "da-132",
     question: "The Cotton Leafhopper (Amrasca biguttula biguttula) injects toxin while feeding, resulting in:",
-    options: ["Silver shoot formation", "Shot holes on leaves", "White streaks on leaves", "Hopper burn — leaf margins turning yellowish then reddish and curling up"],
+    options: ["Silver shoot formation in crop production", "Shot holes on leaves in field conditions", "White streaks on leaves for agricultural purposes", "Hopper burn — leaf margins turning yellowish then reddish and curling up"],
     correct: 3,
     explanation: "Cotton Leafhopper (Amrasca biguttula biguttula, Order Hemiptera) sucks cell sap and injects toxin through saliva causing hopper burn — leaf margins turn yellowish, then reddish, with brown necrotic patches and curling up of the entire lamina."
   },
@@ -317,7 +317,7 @@ export const da132Questions: Question[] = [
     id: "d132_040",
     subject: "da-132",
     question: "The Spotted Bollworm (Earias vitella) can be distinguished from E. insulana by its forewings which are:",
-    options: ["Pale whitish with a broad greenish band in the middle", "Completely green", "Yellowish brown with dark spots", "Dark brown with white band"],
+    options: ["Pale whitish with a broad greenish band in the middle", "Completely green in crop production", "Yellowish brown with dark spots in field conditions", "Dark brown with white band for agricultural purposes"],
     correct: 0,
     explanation: "Earias vitella (Spotted Bollworm, Order Lepidoptera) has pale whitish forewings with a broad greenish band in the middle. E. insulana has completely green forewings. Both species have caterpillars with numerous black and brown spots."
   },
@@ -325,7 +325,7 @@ export const da132Questions: Question[] = [
     id: "d132_041",
     subject: "da-132",
     question: "The Pink Bollworm (Pectinophora gossypiella) causes 'Rosette Flowers' in cotton because:",
-    options: ["Adults suck nectar preventing pollination", "It transmits a virus that prevents flower opening", "It feeds on the outside of flower petals", "Larvae bore into green bolls at hatching stage and damage internal tissues causing petals to fail to open"],
+    options: ["Adults suck nectar preventing pollination in crop production", "It transmits a virus that prevents flower opening in field conditions", "It feeds on the outside of flower petals for agricultural purposes", "Larvae bore into green bolls at hatching stage and damage internal tissues causing petals to fail to open"],
     correct: 3,
     explanation: "Pink Bollworm (Pectinophora gossypiella, Order Lepidoptera) freshly hatched larvae bore into bolls whose entry holes get healed. Feeding damage causes Rosette Flowers — attacked flowers fail to open and drop prematurely."
   },
@@ -341,7 +341,7 @@ export const da132Questions: Question[] = [
     id: "d132_043",
     subject: "da-132",
     question: "The Cotton Leaf Roller (Sylepta derogata) primarily damages cotton by:",
-    options: ["Mining inside leaf tissue leaving serpentine galleries", "Sucking sap from undersides of leaves", "Boring into bolls and feeding on seeds", "Rolling leaves and feeding on green tissue, causing plants to become stunted"],
+    options: ["Mining inside leaf tissue leaving serpentine galleries in crop production", "Sucking sap from undersides of leaves in field conditions", "Boring into bolls and feeding on seeds for agricultural purposes", "Rolling leaves and feeding on green tissue, causing plants to become stunted"],
     correct: 3,
     explanation: "Cotton Leaf Roller (Sylepta derogata, Order Lepidoptera) larvae roll the leaf and feed on green tissue in early stage, then eat large portions of leaves as they grow. Severe attack results in large number of leaf rolls and stunted plants."
   },
@@ -349,7 +349,7 @@ export const da132Questions: Question[] = [
     id: "d132_044",
     subject: "da-132",
     question: "The Chilli Thrips (Scirtothrips dorsalis) cause which characteristic symptom on chilli plants?",
-    options: ["Upward curling, crumbling and shedding of infested leaves", "Round holes in fruits", "White waxy covering on stems", "Downward curling of leaves"],
+    options: ["Upward curling, crumbling and shedding of infested leaves", "Round holes in fruits in crop production", "White waxy covering on stems", "Downward curling of leaves in field conditions"],
     correct: 0,
     explanation: "Chilli Thrips (Scirtothrips dorsalis, Order Thysanoptera) lacerate leaf tissues and suck oozing sap. The infested leaves curl upward, crumble and shed. Infested buds turn brittle, petiole becomes brown and drops down."
   },
@@ -357,7 +357,7 @@ export const da132Questions: Question[] = [
     id: "d132_045",
     subject: "da-132",
     question: "The Chilli Mite (Polyphagotarsonemus latus) causes a condition called 'Murda disease'. The key symptom is:",
-    options: ["Mosaic pattern on leaves", "Downward curling of leaves making them inverted boat-shaped with elongated petioles", "White pustules on lower leaf surface", "Upward curling of leaves"],
+    options: ["Mosaic pattern on leaves in crop production", "Downward curling of leaves making them inverted boat-shaped with elongated petioles", "White pustules on lower leaf surface in field conditions", "Upward curling of leaves for agricultural purposes"],
     correct: 1,
     explanation: "Broad Mite (Polyphagotarsonemus latus, Order Acarina) causes 'Murda disease' of chillies. Toxic saliva causes downward curling of leaves making them inverted boat-shaped with elongation of petioles and clustering of younger leaves at branch tips."
   },
@@ -373,7 +373,7 @@ export const da132Questions: Question[] = [
     id: "d132_047",
     subject: "da-132",
     question: "The Epilachna Beetle (Epilachna vigintioctopunctata) on brinjal causes what type of damage?",
-    options: ["Boring into shoots and fruits", "Mining inside leaf tissue between epidermal layers", "Skeletonisation of leaves — grubs and adults feed on green matter leaving veins and veinlets", "Sucking sap from growing tips causing stunting"],
+    options: ["Boring into shoots and fruits in crop production", "Mining inside leaf tissue between epidermal layers in field conditions", "Skeletonisation of leaves — grubs and adults feed on green matter leaving veins and veinlets", "Sucking sap from growing tips causing stunting for agricultural purposes"],
     correct: 2,
     explanation: "Epilachna Beetle (Order Coleoptera) larvae and adults confine feeding to undersurface of leaves eating the green matter between veins — the damaged leaves present a lace-like appearance (skeletonisation). Severely infested plants show sickly appearance."
   },
@@ -405,7 +405,7 @@ export const da132Questions: Question[] = [
     id: "d132_051",
     subject: "da-132",
     question: "The Diamond Back Moth (Plutella xylostella) gets its name from:",
-    options: ["Diamond shaped holes it cuts in leaves", "The diamond pattern on its caterpillar body", "Diamond shaped egg mass pattern on leaves", "Pale white triangular markings on inner margin of forewings forming three diamond shapes when wings are folded"],
+    options: ["Diamond shaped holes it cuts in leaves in crop production", "The diamond pattern on its caterpillar body in field conditions", "Diamond shaped egg mass pattern on leaves for agricultural purposes", "Pale white triangular markings on inner margin of forewings forming three diamond shapes when wings are folded"],
     correct: 3,
     explanation: "Diamond Back Moth (Plutella xylostella, Order Lepidoptera) has pale white triangular markings on the inner margin of each forewing which form three diamond-shaped white patches dorsally when wings are folded over back at rest."
   },
@@ -429,7 +429,7 @@ export const da132Questions: Question[] = [
     id: "d132_054",
     subject: "da-132",
     question: "The Mango Nut Weevil (Sternochetus mangiferae) is a monophagous pest and is considered serious because:",
-    options: ["It causes fruit drop at marble stage by feeding on skin", "It transmits a viral disease to mango", "It bores into the stem killing the entire tree", "It feeds inside the mango stone on cotyledons making seeds unfit and causing export restrictions (USA does not allow mango imports from India due to this pest)"],
+    options: ["It causes fruit drop at marble stage by feeding on skin in crop production", "It transmits a viral disease to mango in field conditions", "It bores into the stem killing the entire tree for agricultural purposes", "It feeds inside the mango stone on cotyledons making seeds unfit and causing export restrictions (USA does not allow mango imports from India due to this pest)"],
     correct: 3,
     explanation: "Mango Nut Weevil (Sternochetus mangiferae, Order Coleoptera) is monophagous on mango. Grubs tunnel through pulp and feed on cotyledons inside the stone. Due to this pest, Maryland (USA) does not allow mango imports from India."
   },
@@ -437,7 +437,7 @@ export const da132Questions: Question[] = [
     id: "d132_055",
     subject: "da-132",
     question: "The Mango Fruit Fly (Bactrocera dorsalis) is trapped using:",
-    options: ["Methyl eugenol + carbofuran 3G + water in plastic containers hung from tree branches", "Cue Lure + malathion", "Yellow sticky traps coated with castor oil", "Pheromone traps with gossyplure lure"],
+    options: ["Methyl eugenol + carbofuran 3G + water in plastic containers hung from tree branches", "Cue Lure + malathion in crop production", "Yellow sticky traps coated with castor oil in field conditions", "Pheromone traps with gossyplure lure for agricultural purposes"],
     correct: 0,
     explanation: "Mango Fruit Fly (Bactrocera dorsalis, Order Diptera) is attracted to methyl eugenol. Management includes hanging plastic containers with bait (methyl eugenol 2 ml + carbofuran 3G 3 g + water 1 litre) from tree branches."
   },
@@ -445,7 +445,7 @@ export const da132Questions: Question[] = [
     id: "d132_056",
     subject: "da-132",
     question: "The Citrus Butterfly (Papilio demoleus) caterpillar has a unique defence mechanism when disturbed — it pushes out:",
-    options: ["A sticky secretion from glands on its body", "Spiny setae that cause skin irritation", "A bifid purple structure called osmeterium from the top of its prothorax that emits a distinct smell", "Bright warning colours to deter predators"],
+    options: ["A sticky secretion from glands on its body in crop production", "Spiny setae that cause skin irritation in field conditions", "A bifid purple structure called osmeterium from the top of its prothorax that emits a distinct smell", "Bright warning colours to deter predators for agricultural purposes"],
     correct: 2,
     explanation: "Citrus Butterfly (Papilio demoleus, Order Lepidoptera) caterpillar when disturbed pushes out from the top of its prothorax a bifid (two-forked) purple structure called osmeterium, which emits a distinct smell to deter predators."
   },
@@ -453,7 +453,7 @@ export const da132Questions: Question[] = [
     id: "d132_057",
     subject: "da-132",
     question: "The Citrus Leaf Miner (Phyllocnistis citrella) creates which characteristic symptom on leaves?",
-    options: ["Silvery white zigzag galleries below the epidermis of tender leaves causing leaf distortion", "Dark brown patches on leaf surface", "Skeletonisation leaving only veins", "Circular blister mines on leaflets"],
+    options: ["Silvery white zigzag galleries below the epidermis of tender leaves causing leaf distortion", "Dark brown patches on leaf surface in crop production", "Skeletonisation leaving only veins in field conditions", "Circular blister mines on leaflets for agricultural purposes"],
     correct: 0,
     explanation: "Citrus Leaf Miner (Phyllocnistis citrella, Order Lepidoptera) larvae mine in between epidermal layers in a zigzag manner. The tunnel appears silvery white — characteristic silvery white zigzag galleries below the epidermis of tender leaves."
   },
@@ -461,7 +461,7 @@ export const da132Questions: Question[] = [
     id: "d132_058",
     subject: "da-132",
     question: "The Citrus Fruit Sucking Moths (Eudocima species) are unique pests because:",
-    options: ["Both larvae and adults bore into fruits together", "Only the larvae damage the crop by boring into fruits", "Only the adult moths cause damage by piercing ripe fruits with a strong proboscis to suck juice", "Larvae damage roots and adults damage fruits"],
+    options: ["Both larvae and adults bore into fruits together in crop production", "Only the larvae damage the crop by boring into fruits in field conditions", "Only the adult moths cause damage by piercing ripe fruits with a strong proboscis to suck juice", "Larvae damage roots and adults damage fruits for agricultural purposes"],
     correct: 2,
     explanation: "Citrus Fruit Sucking Moths (Eudocima materna, E. fullonica, E. ancilla, Order Lepidoptera) — this is the only group where adult moths are harmful. Moths pierce ripe fruits with a strong proboscis and suck juice, leading to rotting and premature drop."
   },
@@ -469,7 +469,7 @@ export const da132Questions: Question[] = [
     id: "d132_059",
     subject: "da-132",
     question: "The Grapevine Flea Beetle (Scelodonta strigicollis) is described as the most destructive pest of grapevine. Adults are described as:",
-    options: ["Dark brown moth with orange-yellow wings with black dots", "Small shiny beetle with metallic bronze colour and six black patches on elytra, 4.5 mm long", "Reddish brown bug with a knobbed process on thorax", "Large brown longicorn beetle with long antennae"],
+    options: ["Dark brown moth with orange-yellow wings with black dots in crop production", "Small shiny beetle with metallic bronze colour and six black patches on elytra, 4.5 mm long", "Reddish brown bug with a knobbed process on thorax in field conditions", "Large brown longicorn beetle with long antennae for agricultural purposes"],
     correct: 1,
     explanation: "Grapevine Flea Beetle (Scelodonta strigicollis, Order Coleoptera) is a shiny flea beetle with metallic bronze colour and six black patches on elytra, 4.5 mm long. Adults have the habit of falling down and feigning death when disturbed."
   },
@@ -485,7 +485,7 @@ export const da132Questions: Question[] = [
     id: "d132_061",
     subject: "da-132",
     question: "The Pomegranate Butterfly (Virachola isocrates) causes damage to the fruit because:",
-    options: ["Adults suck juice from fruits leaving puncture marks visible from outside", "Larvae feed on the outside of fruits creating corky scab patches", "Larvae bore into the fruit, entry hole heals up — the fruit looks healthy while caterpillar feeds on seeds inside", "Adults lay eggs on fruit surface causing scab formation"],
+    options: ["Adults suck juice from fruits leaving puncture marks visible from outside in crop production", "Larvae feed on the outside of fruits creating corky scab patches in field conditions", "Larvae bore into the fruit, entry hole heals up — the fruit looks healthy while caterpillar feeds on seeds inside", "Adults lay eggs on fruit surface causing scab formation for agricultural purposes"],
     correct: 2,
     explanation: "Pomegranate Butterfly (Virachola isocrates, Order Lepidoptera) — after hatching, larva bores into fruit and the entry hole heals up. The fruit appears healthy externally while caterpillar feeds on pulp and seeds inside. Up to 50% fruit damage observed."
   },
@@ -493,7 +493,7 @@ export const da132Questions: Question[] = [
     id: "d132_062",
     subject: "da-132",
     question: "The Coconut Black Headed Caterpillar (Opisina arenosella) constructs galleries of silk and frass on coconut fronds to:",
-    options: ["Live and feed under the gallery after scraping leaf surface tissues from below", "Store food for pupation period", "Protect eggs from predators", "Attract mates for mating"],
+    options: ["Live and feed under the gallery after scraping leaf surface tissues from below", "Store food for pupation period in crop production", "Protect eggs from predators in field conditions", "Attract mates for mating for agricultural purposes"],
     correct: 0,
     explanation: "Coconut Black Headed Caterpillar (Opisina arenosella, Order Lepidoptera) constructs a gallery of silk and frass and lives and feeds under it. Larvae feed gregariously scraping surface tissues of leaflets from lower surface, turning them papery brown."
   },
@@ -501,7 +501,7 @@ export const da132Questions: Question[] = [
     id: "d132_063",
     subject: "da-132",
     question: "The Rhinoceros Beetle (Oryctes rhinoceros) on coconut causes a distinctive 'V-shaped' cut on mature leaves because:",
-    options: ["Its larval tunnels create V-shaped grooves inside the stem", "It enters the crown and bores into central shoots — the developing fronds when they open out show fan-like cuts and V-shaped cuts on mature leaves", "It bores into the base of petioles", "It lays eggs in a V-shaped pattern on leaves"],
+    options: ["Its larval tunnels create V-shaped grooves inside the stem", "It enters the crown and bores into central shoots", "It bores into the base of petioles", "It lays eggs in a V-shaped pattern on leaves"],
     correct: 1,
     explanation: "Rhinoceros Beetle (Oryctes rhinoceros, Order Coleoptera) bores into central shoots, spathes and petioles. Typical 'V' shaped clippings or cuts on mature leaves are seen in partly damaged crowns when the developing fronds open out."
   },
@@ -509,7 +509,7 @@ export const da132Questions: Question[] = [
     id: "d132_064",
     subject: "da-132",
     question: "The Red Palm Weevil (Rhynchophorus ferrugineus) can be detected in the field by:",
-    options: ["Yellowing of fronds from top downwards", "Presence of sooty mould on fronds", "Sound of feeding by the grub heard by keeping the ear on the trunk, circular holes on stem with brownish black viscous fluid", "Presence of white cottony masses on leaf bases"],
+    options: ["Yellowing of fronds from top downwards in crop production", "Presence of sooty mould on fronds in field conditions", "Sound of feeding by the grub heard by keeping the ear on the trunk, circular holes on stem with brownish black viscous fluid", "Presence of white cottony masses on leaf bases for agricultural purposes"],
     correct: 2,
     explanation: "Red Palm Weevil (Rhynchophorus ferrugineus, Order Coleoptera) — the sound of feeding by the grub can be heard by keeping ear on trunk. Other symptoms: circular holes on stem with brownish black viscous fluid, longitudinal splitting of leaf bases."
   },
@@ -517,7 +517,7 @@ export const da132Questions: Question[] = [
     id: "d132_065",
     subject: "da-132",
     question: "The Banana Aphid (Pentalonia nigronervosa) is an important pest because it acts as:",
-    options: ["A vector of sigatoka disease", "A persistent vector of Bunchy Top of banana virus disease", "A vector of banana wilt (Panama disease)", "A vector of banana streak virus"],
+    options: ["A vector of sigatoka disease in crop production", "A persistent vector of Bunchy Top of banana virus disease", "A vector of banana wilt (Panama disease)", "A vector of banana streak virus in field conditions"],
     correct: 1,
     explanation: "Banana Aphid (Pentalonia nigronervosa, Order Hemiptera) is a persistent vector of Bunchy Top of banana virus disease. Musa AAB variety of banana is resistant to aphids and thus resistant to Bunchy Top. Aphids live in colonies within leaf axils."
   },
@@ -525,7 +525,7 @@ export const da132Questions: Question[] = [
     id: "d132_066",
     subject: "da-132",
     question: "The Banana Rhizome Weevil (Cosmopolites sordidus) grubs tunnel the rhizome. Which structural consequence makes plants vulnerable?",
-    options: ["The rhizome becomes riddled with tunnels and the banana plants may break down in strong wind", "Grubs release toxic secretions that kill root cells", "Grubs transmit a fungal pathogen inside the rhizome", "Root pressure is disrupted preventing water uptake"],
+    options: ["The rhizome becomes riddled with tunnels and the banana plants may break down in strong wind", "Grubs release toxic secretions that kill root cells in crop production", "Grubs transmit a fungal pathogen inside the rhizome in field conditions", "Root pressure is disrupted preventing water uptake for agricultural purposes"],
     correct: 0,
     explanation: "Banana Rhizome Weevil (Cosmopolites sordidus, Order Coleoptera) grubs tunnel the rhizome making it riddled with tunnels. This weakens the plant structurally — banana plants may break down when there is strong wind. Leaves turn yellow and dry."
   },
@@ -533,7 +533,7 @@ export const da132Questions: Question[] = [
     id: "d132_067",
     subject: "da-132",
     question: "The Turmeric Rhizome Fly (Mimegralla coeruleifrons) maggots cause damage by:",
-    options: ["Boring into shoots causing dead hearts, then reaching rhizomes and feeding on them — in association with Pythium causing rhizome rot", "Mining inside leaf tissue creating zigzag galleries", "Feeding on leaves causing defoliation", "Sucking sap from leaf surface causing silvering"],
+    options: ["Boring into shoots causing dead hearts, then reaching rhizomes and feeding on them — in association with Pythium causing rhizome rot", "Mining inside leaf tissue creating zigzag galleries in crop production", "Feeding on leaves causing defoliation in field conditions", "Sucking sap from leaf surface causing silvering for agricultural purposes"],
     correct: 0,
     explanation: "Turmeric Rhizome Fly (Mimegralla coeruleifrons, Order Diptera) — maggots bore into shoots causing dead hearts, then reach rhizomes and feed on them. In association with Pythium, they cause rotting of rhizomes. Wilting and drying of aerial parts is seen."
   },
@@ -541,7 +541,7 @@ export const da132Questions: Question[] = [
     id: "d132_068",
     subject: "da-132",
     question: "The Grain Weevil (Sitophilus oryzae) and other stored grain weevils can be identified by:",
-    options: ["Flat body with teeth-like serrations on thorax sides", "Small reddish brown, dark brown or black beetles with a long slender snout and four light spots on wings", "Round body with head and prothorax bent downward giving humped nature", "Large body size of 15-20 mm with prominent spots on elytra"],
+    options: ["Flat body with teeth-like serrations on thorax sides in crop production", "Small reddish brown, dark brown or black beetles with a long slender snout and four light spots on wings", "Round body with head and prothorax bent downward giving humped nature in field conditions", "Large body size of 15-20 mm with prominent spots on elytra for agricultural purposes"],
     correct: 1,
     explanation: "Grain Weevils (Sitophilus oryzae, S. zeamais, S. granarius, Order Coleoptera) are small reddish brown to dark brown/black beetles with a long slender snout (rostrum). Wings have four light reddish or yellowish spots. Hollowed out grains are the damage symptom."
   },
@@ -549,7 +549,7 @@ export const da132Questions: Question[] = [
     id: "d132_069",
     subject: "da-132",
     question: "The Khapra Beetle (Trogoderma granarium) is a primary stored grain pest. Which statement about it is correct?",
-    options: ["It is most serious in coastal areas with high humidity", "Only the grub (larva) is destructive — adults do not cause damage. It is a native of India more common in dry climates", "Both adults and larvae are destructive and feed on whole grains", "It is a secondary pest that feeds only on milled products and broken grains"],
+    options: ["It is most serious in coastal areas with high humidity in crop production", "Only the grub (larva) is destructive — adults do not cause damage. It is a native of India more common in dry climates", "Both adults and larvae are destructive and feed on whole grains in field conditions", "It is a secondary pest that feeds only on milled products and broken grains for agricultural purposes"],
     correct: 1,
     explanation: "Khapra Beetle (Trogoderma granarium, Order Coleoptera) — only the grub is destructive; adults do not cause damage. It is a native of India and more common in extreme dry climates (Punjab, Haryana, UP, MP, Rajasthan). Less common in coastal areas."
   },
@@ -557,7 +557,7 @@ export const da132Questions: Question[] = [
     id: "d132_070",
     subject: "da-132",
     question: "The Lesser Grain Borer (Rhizopertha dominica) is described as 'spoiling more than it eats'. This is because:",
-    options: ["It transmits disease-causing microorganisms to grain", "It is a good flier and migratory, producing flour by boring that contaminates large quantities of grain beyond what it directly consumes", "It attracts other secondary pests that do more damage", "It produces toxic secretions inside stored grain"],
+    options: ["It transmits disease-causing microorganisms to grain in crop production", "It is a good flier and migratory, producing flour by boring that contaminates large quantities of grain beyond what it directly consumes", "It attracts other secondary pests that do more damage in field conditions", "It produces toxic secretions inside stored grain for agricultural purposes"],
     correct: 1,
     explanation: "Lesser Grain Borer (Rhizopertha dominica, Order Coleoptera) is a good flier and migratory — it spoils more than it eats. Adults bore grains producing flour; young grubs feed on this flour before boring into grain. Both adults and grubs are destructive."
   },
@@ -565,7 +565,7 @@ export const da132Questions: Question[] = [
     id: "d132_071",
     subject: "da-132",
     question: "The Flour Beetles (Tribolium castaneum and T. confusum) differ from other stored grain pests because they are:",
-    options: ["Secondary pests of all grains but primary pests of flour and milled products — cannot feed on sound grain", "Primary pests that can attack whole intact grain", "Quarantine pests that require government permits for fumigation", "Internal feeders that develop completely inside individual grain kernels"],
+    options: ["Secondary pests of all grains but primary pests of flour and milled products — cannot feed on sound grain", "Primary pests that can attack whole intact grain in crop production", "Quarantine pests that require government permits for fumigation in field conditions", "Internal feeders that develop completely inside individual grain kernels for agricultural purposes"],
     correct: 0,
     explanation: "Flour Beetles (Tribolium castaneum, T. confusum, Order Coleoptera) are secondary pests of all grains and primary pests of flour and milled products. Both adults and larvae are incapable of feeding on sound (whole) grain."
   },
@@ -581,7 +581,7 @@ export const da132Questions: Question[] = [
     id: "d132_073",
     subject: "da-132",
     question: "The recommended dosage of Carbofuran 3G granules for nursery protection in rice (against stem borer, gall midge, BPH and GLH) is:",
-    options: ["200 g per cent of nursery in a little water, 5 days before pulling the nursery", "100 g per cent, 3 days before pulling nursery", "500 g per cent, 7 days before pulling nursery", "1 kg per acre, broadcast uniformly"],
+    options: ["200 g per cent of nursery in a little water, 5 days before pulling the nursery", "100 g per cent, 3 days before pulling nursery in crop production", "500 g per cent, 7 days before pulling nursery in field conditions", "1 kg per acre, broadcast uniformly for agricultural purposes"],
     correct: 0,
     explanation: "Carbofuran 3G is applied @ 200 g per cent of nursery in a little water, 5 days before pulling the nursery. This protects the crop from stem borer, gall midge, BPH and green leafhopper for 30 days in the main field."
   },
@@ -589,7 +589,7 @@ export const da132Questions: Question[] = [
     id: "d132_074",
     subject: "da-132",
     question: "The economic injury concept of IPM states that pest control action should be taken when:",
-    options: ["Pest density reaches the Economic Threshold Level (ETL) — the point at which control cost equals damage cost", "Half the crop is damaged by pests", "Natural enemies outnumber pests by 2:1 ratio", "Any pest is seen in the field regardless of density"],
+    options: ["Pest density reaches the Economic Threshold Level (ETL)", "Half the crop is damaged by pests", "Natural enemies outnumber pests by 2:1 ratio", "Any pest is seen in the field regardless of density"],
     correct: 0,
     explanation: "IPM is based on Economic Threshold Level (ETL) — pest control should be taken when pest population reaches the level at which control cost equals damage cost (Economic Injury Level). The basic concept of IPM is containment of pests below economically damaging levels."
   },
@@ -597,7 +597,7 @@ export const da132Questions: Question[] = [
     id: "d132_075",
     subject: "da-132",
     question: "The four primary components of Integrated Pest Management (IPM) recognized in the course material include:",
-    options: ["Host plant resistance, manipulation of farming system, enhanced natural control, and selective use of biorational and synthetic pesticides", "Pheromone traps, light traps, biological control and cultural practices only", "Crop rotation, resistant varieties, natural enemies and fumigation only", "Only biological and chemical control methods"],
+    options: ["Host plant resistance, manipulation of farming system, enhanced natural control, and selective use of biorational and synthetic pesticides", "Pheromone traps, light traps, biological control and cultural practices only in crop production", "Crop rotation, resistant varieties, natural enemies and fumigation only in field conditions", "Only biological and chemical control methods for agricultural purposes"],
     correct: 0,
     explanation: "The four primary IPM components are: (1) Host plant resistance, (2) Manipulation of the farming system to minimise pest infestation or damage, (3) Enhanced natural control practice, and (4) Selective use of biorational and synthetic pesticides."
   },
@@ -621,7 +621,7 @@ export const da132Questions: Question[] = [
     id: "d132_078",
     subject: "da-132",
     question: "For controlling sorghum stem borer (Chilo partellus), carbofuran 3G granules are placed in:",
-    options: ["Leaf whorls at 35-40 DAS since first instar caterpillars congregate there", "Furrows at planting time", "Irrigation water for systemic uptake", "The soil around the plant base"],
+    options: ["Leaf whorls at 35-40 DAS since first instar caterpillars congregate there", "Furrows at planting time in crop production", "Irrigation water for systemic uptake in field conditions", "The soil around the plant base for agricultural purposes"],
     correct: 0,
     explanation: "For sorghum stem borer (Chilo partellus) management, carbofuran 3G granules @ 4 kg/ac are placed in leaf whorls at 35-40 DAS (Days After Sowing), since first instar caterpillars congregate in leaf whorls before boring into the stem."
   },
@@ -637,7 +637,7 @@ export const da132Questions: Question[] = [
     id: "d132_080",
     subject: "da-132",
     question: "The Red Gram Mite (Aceria cajani) is significant because beyond direct damage it also:",
-    options: ["Acts as a vector of bacterial blight of pigeonpea", "Transmits pigeonpea sterility mosaic virus — a single eriophyiid mite is sufficient to transmit the disease", "Causes gall formation on leaves and pods", "Spreads fusarium wilt of redgram"],
+    options: ["Acts as a vector of bacterial blight of pigeonpea in crop production", "Transmits pigeonpea sterility mosaic virus — a single eriophyiid mite is sufficient to transmit the disease", "Causes gall formation on leaves and pods in field conditions", "Spreads fusarium wilt of redgram for agricultural purposes"],
     correct: 1,
     explanation: "Red Gram Mite (Aceria cajani, Order Acarina) infests underside of tender leaves causing yellowing and suppression of flowering. It transmits pigeonpea sterility mosaic virus — even a single eriophyiid mite is sufficient to transmit the disease."
   },
@@ -653,7 +653,7 @@ export const da132Questions: Question[] = [
     id: "d132_082",
     subject: "da-132",
     question: "Seedling root-dip with chlorpyriphos 0.02% in rice protects the transplanted crop for how long?",
-    options: ["30 days in the main field against stem borer, gall midge, BPH and GLH", "60 days after transplanting", "7 days only", "15 days in main field"],
+    options: ["30 days in the main field against stem borer, gall midge, BPH and GLH", "60 days after transplanting in crop production", "7 days only in field conditions", "15 days in main field for agricultural purposes"],
     correct: 0,
     explanation: "Seedling root-dip with chlorpyriphos 0.02% @ 200 ml in 200 litres of water for 12-14 hours protects the main field for 30 days against stem borer, gall midge, Brown Plant Hopper and Green Leafhopper. Adding 3 kg urea reduces treatment time to 3 hours."
   },
@@ -661,7 +661,7 @@ export const da132Questions: Question[] = [
     id: "d132_083",
     subject: "da-132",
     question: "The Green Leafhopper (Nephotettix virescens) is more important than N. nigropictus in rice because:",
-    options: ["N. virescens transmits rice tungro and other viruses and causes more damage to rice than N. nigropictus", "It has a higher reproductive rate and more generations per year", "It causes more direct feeding damage to rice", "It is resistant to all commonly used insecticides"],
+    options: ["N. virescens transmits rice tungro and other viruses and causes more damage to rice than N. nigropictus", "It has a higher reproductive rate and more generations per year in crop production", "It causes more direct feeding damage to rice in field conditions", "It is resistant to all commonly used insecticides for agricultural purposes"],
     correct: 0,
     explanation: "N. virescens causes more damage to rice than N. nigropictus. N. nigropictus transmits rice dwarf, yellow dwarf, transitory yellowing and tungro; N. virescens transmits rice tungro, transitory yellowing and yellow dwarf. Virus transmission causes serious damage."
   },
@@ -701,7 +701,7 @@ export const da132Questions: Question[] = [
     id: "d132_088",
     subject: "da-132",
     question: "The Coconut Eriophyid Mite (Eriophyes guerreronis) causes which characteristic symptom on coconut nuts?",
-    options: ["Black sooty mould on nut surface", "White cottony mass covering the nut", "Triangular pale/yellow patches near perianth turning into brown patches with longitudinal fissures (warting), reduced nut size", "Circular holes on nut husk from feeding"],
+    options: ["Black sooty mould on nut surface in crop production", "White cottony mass covering the nut in field conditions", "Triangular pale/yellow patches near perianth turning into brown patches with longitudinal fissures (warting), reduced nut size", "Circular holes on nut husk from feeding for agricultural purposes"],
     correct: 2,
     explanation: "Coconut Eriophyid Mite (Eriophyes guerreronis) — triangular pale or yellow patches close to perianth initially, turning into brown patches with longitudinal fissures and splits on husk (warting). Symptoms include reduced nut size, malformed nuts with cracks, shedding of buttons."
   },
@@ -709,7 +709,7 @@ export const da132Questions: Question[] = [
     id: "d132_089",
     subject: "da-132",
     question: "Management of Mango Stem Borer (Batocera rufomaculata) grubs inside stem tunnels involves:",
-    options: ["Releasing biological control agents into the tunnels", "Spraying systemic insecticides on stem surface", "Applying bordeaux paste on the entire stem", "Pouring methyl parathion 1 ml/l or inserting aluminium phosphide tablet into the bore hole"],
+    options: ["Releasing biological control agents into the tunnels in crop production", "Spraying systemic insecticides on stem surface in field conditions", "Applying bordeaux paste on the entire stem for agricultural purposes", "Pouring methyl parathion 1 ml/l or inserting aluminium phosphide tablet into the bore hole"],
     correct: 3,
     explanation: "Mango Stem Borer (Batocera rufomaculata, Order Coleoptera) — affected branches with grubs are removed and destroyed. For tunnels: methyl parathion 1 ml/l is poured into the hole, or a tablet of aluminium phosphide is inserted. Superficial burrows: grubs extracted with hooked wire then bordeaux paste applied."
   },
@@ -733,7 +733,7 @@ export const da132Questions: Question[] = [
     id: "d132_092",
     subject: "da-132",
     question: "The ETL (Economic Threshold Level) for American Bollworm (Helicoverpa armigera) in cotton using pheromone traps is:",
-    options: ["8 moths per trap per day", "10 moths per trap per day consecutively for 3 days", "5 moths per trap per day", "20 moths per trap per day"],
+    options: ["8 moths per trap per day in crop production", "10 moths per trap per day consecutively for 3 days", "5 moths per trap per day in field conditions", "20 moths per trap per day for agricultural purposes"],
     correct: 1,
     explanation: "ETL for American Bollworm (Helicoverpa armigera) using pheromone traps in cotton is 10 moths per trap per day if observed consecutively for 3 days. ETL for Pink bollworm is 8 moths/trap/day; Spodoptera litura is 20 moths; Spotted bollworm is 15 moths."
   },
@@ -741,7 +741,7 @@ export const da132Questions: Question[] = [
     id: "d132_093",
     subject: "da-132",
     question: "The NPV (Nuclear Polyhedrosis Virus) used against Helicoverpa armigera in cotton IPM is applied at:",
-    options: ["50 LE per acre once at flowering", "500 LE per hectare weekly for 4 weeks", "1000 LE per hectare at ETL crossing only", "200 LE per acre in combination with jaggery 1 kg, Sandovit 100 ml, thrice at 10-15 day intervals on observing eggs or first instar larvae"],
+    options: ["50 LE per acre once at flowering in crop production", "500 LE per hectare weekly for 4 weeks in field conditions", "1000 LE per hectare at ETL crossing only for agricultural purposes", "200 LE per acre in combination with jaggery 1 kg, Sandovit 100 ml, thrice at 10-15 day intervals on observing eggs or first instar larvae"],
     correct: 3,
     explanation: "HaNPV @ 200 LE (Larval Equivalent) per acre is applied in combination with jaggery 1 kg + sandovit 100 ml or Robin Blue 50 g, thrice at 10-15 day intervals in the evening hours on observing eggs or first instar larvae of Helicoverpa armigera."
   },
@@ -749,7 +749,7 @@ export const da132Questions: Question[] = [
     id: "d132_094",
     subject: "da-132",
     question: "The Bt Cotton Bollgard I variety contains which Bt gene and provides protection against:",
-    options: ["Cry1Ac toxin protein — targets American bollworm, Spotted bollworm, Pink bollworm but not tobacco caterpillar", "Cry1Ac + Cry2Ab — broadened spectrum bollworm protection", "Cry1Ab only — mainly against European corn borer", "Cry2Ab only — protects all lepidopterous pests including tobacco caterpillar"],
+    options: ["Cry1Ac toxin protein — targets American bollworm, Spotted bollworm, Pink bollworm but not tobacco caterpillar", "Cry1Ac + Cry2Ab — broadened spectrum bollworm protection in crop production", "Cry1Ab only — mainly against European corn borer in field conditions", "Cry2Ab only — protects all lepidopterous pests including tobacco caterpillar for agricultural purposes"],
     correct: 0,
     explanation: "Bt cotton Bollgard I contains Cry1Ac toxin protein. It provides protection against American bollworm (Helicoverpa armigera), Spotted bollworm and Pink bollworm but NOT tobacco caterpillar (Spodoptera litura). Bollgard II (Cry1Ac + Cry2Ab) also offers protection against tobacco caterpillar."
   },
@@ -757,7 +757,7 @@ export const da132Questions: Question[] = [
     id: "d132_095",
     subject: "da-132",
     question: "For control of BPH in rice, what cultural practice creates alleys for basal spraying?",
-    options: ["Formation of alleys or pathways of 20 cm width for every 2 metres of planting", "Deep furrow irrigation channels every 3 metres", "Transplanting in rows of 15 cm spacing throughout the field", "Making bunds every 5 metres inside the field"],
+    options: ["Formation of alleys or pathways of 20 cm width for every 2 metres of planting", "Deep furrow irrigation channels every 3 metres in crop production", "Transplanting in rows of 15 cm spacing throughout the field in field conditions", "Making bunds every 5 metres inside the field for agricultural purposes"],
     correct: 0,
     explanation: "For BPH management in rice, formation of alleys or pathways of 20 cm width for every 2 metres of planting is recommended to facilitate aeration, light, basal spraying (directing spray towards base of plants), monitoring and other farm operations."
   },
@@ -797,7 +797,7 @@ export const da132Questions: Question[] = [
     id: "d132_100",
     subject: "da-132",
     question: "Post-harvest management of Mango Fruit Fly (Bactrocera dorsalis) using the double dip heat treatment method involves:",
-    options: ["First immersion at 40°C for 20 minutes followed by 10 minutes at 46°C for 100% mortality of Bactrocera dorsalis eggs", "Immersion at 43-46°C for 35-90 minutes in a single dip", "Fumigation with methyl bromide for 24 hours", "Immersion in hot water at 60°C for 20 minutes only"],
+    options: ["First immersion at 40°C for 20 minutes followed by 10 minutes at 46°C for 100% mortality of Bactrocera dorsalis eggs", "Immersion at 43-46°C for 35-90 minutes in a single dip in crop production", "Fumigation with methyl bromide for 24 hours in field conditions", "Immersion in hot water at 60°C for 20 minutes only for agricultural purposes"],
     correct: 0,
     explanation: "Double dip heat treatment for Mango Fruit Fly: immersion of mango fruits first in water at 40°C for 20 minutes, followed by 10 minutes at 46°C to get 100 per cent mortality of Bactrocera dorsalis eggs. Hot water treatment at 43-46.7°C for 35-90 min is the single dip method."
   },
@@ -1039,7 +1039,7 @@ export const da132Questions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Pink Borer (Sesamia inferens) larvae are characterized by which colour?",
-    options: ["white", "yellowish brown", "pale yellow with purple pink tinge", "reddish brown"],
+    options: ["white in crop production", "yellowish brown in field conditions", "pale yellow with purple pink tinge", "reddish brown for agricultural purposes"],
     correct: 2,
     explanation: "As per DA-132 notes: Sesamia inferens - larvae are pale yellow with a purple pink tinge and reddish brown head."
   },
@@ -1199,7 +1199,7 @@ export const da132Questions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Bonfires for attracting and killing Red Hairy Caterpillar moths should be lit",
-    options: ["anytime", "at noon", "at sunrise", "between 7-11 pm after monsoon rains"],
+    options: ["anytime in crop production", "at noon in field conditions", "at sunrise for agricultural purposes", "between 7-11 pm after monsoon rains"],
     correct: 3,
     explanation: "As per DA-132 notes: Bonfires at night between 7-11 pm within 48 hours after monsoon rains to attract and kill emerging red hairy caterpillar moths."
   },
@@ -1409,7 +1409,7 @@ export const da132Questions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "The egg of sorghum shootfly is described as whitish cigar shaped or",
-    options: ["flattened boat shaped with wing-like lateral projection", "elongated with spine", "round and smooth", "spherical with ridges"],
+    options: ["flattened boat shaped with wing-like lateral projection", "elongated with spine in crop production", "round and smooth in field conditions", "spherical with ridges for agricultural purposes"],
     correct: 0,
     explanation: "As per DA-132 notes: Sorghum shootfly - Egg is whitish cigar shaped or flattened boat shaped with wing like lateral projection."
   },
@@ -1479,7 +1479,7 @@ export const da132Questions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Sorghum/Corn Aphid (Rhopalosiphum maidis) causes mottled appearance with yellow patches and sooty mould in",
-    options: ["pulses", "rice", "sorghum, maize and other millets", "cotton"],
+    options: ["pulses in crop production", "rice in field conditions", "sorghum, maize and other millets", "cotton for agricultural purposes"],
     correct: 2,
     explanation: "As per DA-132 notes: Rhopalosiphum maidis is confined to unopened leaves of sorghum, maize and other millets."
   },

@@ -852,7 +852,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_107", subject: "da-281",
     question: "Silviculture is the branch of forestry concerned with:",
-    options: ["Timber measurement", "Forest animal study", "Controlling forest establishment, growth, composition and quality", "Tree identification"],
+    options: ["Timber measurement in horticultural practices", "Forest animal study for vegetable cultivation", "Controlling forest establishment, growth, composition and quality", "Tree identification in orchard management"],
     correct: 2,
     explanation: "Silviculture is the art and science of controlling the establishment, growth, composition, and quality of forests.",
     difficulty: "medium"
@@ -900,7 +900,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_113", subject: "da-281",
     question: "Agroforestry is best defined as:",
-    options: ["Cultivation of forest trees only", "A land use system combining trees with crops or livestock on the same unit of land", "Growing trees in monoculture", "Cultivation of medicinal plants only"],
+    options: ["Cultivation of forest trees only in horticultural practices", "A land use system combining trees with crops or livestock on the same unit of land", "Growing trees in monoculture for vegetable cultivation", "Cultivation of medicinal plants only in orchard management"],
     correct: 1,
     explanation: "Agroforestry combines trees with crops and/or livestock on the same land unit, providing multiple benefits.",
     difficulty: "easy"
@@ -940,7 +940,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_118", subject: "da-281",
     question: "Lemongrass is cultivated primarily for its:",
-    options: ["Fodder for cattle", "Fuelwood", "Timber", "Essential oil used in cosmetics and food flavoring"],
+    options: ["Fodder for cattle in horticultural practices", "Fuelwood for vegetable cultivation", "Timber in orchard management", "Essential oil used in cosmetics and food flavoring"],
     correct: 3,
     explanation: "Lemongrass (Cymbopogon citratus) is grown for its aromatic essential oil used in cosmetics, food, and aromatherapy.",
     difficulty: "medium"
@@ -964,7 +964,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_121", subject: "da-281",
     question: "Social forestry involves growing trees on:",
-    options: ["Himalayan forests only", "Village community land, roadsides, and farm boundaries for local needs", "Reserved forests only", "Commercial forest plantations only"],
+    options: ["Himalayan forests only in horticultural practices", "Village community land, roadsides, and farm boundaries for local needs", "Reserved forests only for vegetable cultivation", "Commercial forest plantations only in orchard management"],
     correct: 1,
     explanation: "Social forestry grows trees on community lands, roadsides, and farm boundaries to meet local needs for fuelwood, fodder, and timber.",
     difficulty: "easy"
@@ -972,7 +972,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_122", subject: "da-281",
     question: "Non-Timber Forest Products (NTFPs) include:",
-    options: ["Bamboo, honey, medicinal plants, gums, and resins", "Logs and planks only", "Heavy machinery materials", "Chemical fertilizers"],
+    options: ["Bamboo, honey, medicinal plants, gums, and resins", "Logs and planks only", "Heavy machinery materials in horticultural practices", "Chemical fertilizers for vegetable cultivation"],
     correct: 0,
     explanation: "NTFPs are all forest products other than timber — including bamboo, honey, lac, gums, resins, medicinal plants, and wild fruits.",
     difficulty: "easy"
@@ -980,7 +980,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_123", subject: "da-281",
     question: "The Chipko movement in India was a protest against:",
-    options: ["Wildlife poaching", "Forest fires", "Industrial pollution", "Commercial deforestation and tree felling in Himalayas"],
+    options: ["Wildlife poaching in horticultural practices", "Forest fires for vegetable cultivation", "Industrial pollution in orchard management", "Commercial deforestation and tree felling in Himalayas"],
     correct: 3,
     explanation: "Chipko movement (1973, Uttarakhand) — villagers hugged trees to prevent commercial felling. It was a landmark environmental movement.",
     difficulty: "easy"
@@ -988,7 +988,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_124", subject: "da-281",
     question: "Forest mensuration deals with:",
-    options: ["Growing trees in forests", "Planting trees in degraded areas", "Measurement of timber volume, tree height, diameter, and forest area", "Study of forest diseases"],
+    options: ["Growing trees in forests in horticultural practices", "Planting trees in degraded areas for vegetable cultivation", "Measurement of timber volume, tree height, diameter, and forest area", "Study of forest diseases in orchard management"],
     correct: 2,
     explanation: "Forest mensuration is the branch of forestry concerned with measuring timber volumes, tree dimensions, and forest area.",
     difficulty: "medium"
@@ -1020,7 +1020,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_128", subject: "da-281",
     question: "Joint Forest Management (JFM) in India aims to:",
-    options: ["Convert forests to agriculture", "Complete protection without human use", "Commercial timber exploitation", "Involve local communities in forest protection for shared benefits"],
+    options: ["Convert forests to agriculture in horticultural practices", "Complete protection without human use for vegetable cultivation", "Commercial timber exploitation in orchard management", "Involve local communities in forest protection for shared benefits"],
     correct: 3,
     explanation: "JFM (1990) involves local communities through Village Forest Committees in forest protection and management, sharing the benefits.",
     difficulty: "medium"
@@ -1052,7 +1052,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_132", subject: "da-281",
     question: "Bamboo is called Green Gold because:",
-    options: ["Of its rapid growth, versatility, and high commercial value", "It has yellow color", "It is used only for gold extraction", "It stores water"],
+    options: ["Of its rapid growth, versatility, and high commercial value", "It has yellow color in horticultural practices", "It is used only for gold extraction", "It stores water for vegetable cultivation"],
     correct: 0,
     explanation: "Bamboo is called Green Gold because of its rapid growth, versatility, and commercial value in construction, crafts, pulp, and furniture.",
     difficulty: "medium"
@@ -1076,7 +1076,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_135", subject: "da-281",
     question: "Lac is a forest product that is:",
-    options: ["A leaf extract from teak", "A root product of Acacia", "A sap extracted from eucalyptus", "A resinous secretion of lac insects on host trees"],
+    options: ["A leaf extract from teak in horticultural practices", "A root product of Acacia for vegetable cultivation", "A sap extracted from eucalyptus in orchard management", "A resinous secretion of lac insects on host trees"],
     correct: 3,
     explanation: "Lac is a resinous secretion produced by the lac insect (Kerria lacca) on host trees like ber, kusum, and palash. It is an important NTFP.",
     difficulty: "medium"
@@ -1084,7 +1084,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_136", subject: "da-281",
     question: "Tamarind (Tamarindus indica) in forestry and food is used for:",
-    options: ["Timber and fuel only", "Edible fruit, souring agent in cooking, and medicine", "Paper pulp only", "Fodder only"],
+    options: ["Timber and fuel only in horticultural practices", "Edible fruit, souring agent in cooking, and medicine", "Paper pulp only for vegetable cultivation", "Fodder only in orchard management"],
     correct: 1,
     explanation: "Tamarind is used as a souring agent in cooking, in medicines, for jam/candy production. Its wood is also used for fuel and tools.",
     difficulty: "easy"
@@ -1132,7 +1132,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_142", subject: "da-281",
     question: "Eucalyptus is controversial in agroforestry because:",
-    options: ["It depletes groundwater and soil nutrients despite fast growth", "It does not provide shade", "It grows very slowly", "It is difficult to plant"],
+    options: ["It depletes groundwater and soil nutrients despite fast growth", "It does not provide shade in horticultural practices", "It grows very slowly for vegetable cultivation", "It is difficult to plant in orchard management"],
     correct: 0,
     explanation: "Eucalyptus is controversial because while it grows fast and yields biomass, it depletes groundwater and impoverishes soil.",
     difficulty: "medium"
@@ -1164,7 +1164,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_146", subject: "da-281",
     question: "The primary purpose of windbreaks in agriculture is to:",
-    options: ["Provide shade to crops", "Supply timber", "Provide fuelwood", "Reduce wind speed and protect crops and soil from wind damage"],
+    options: ["Provide shade to crops in horticultural practices", "Supply timber for vegetable cultivation", "Provide fuelwood in orchard management", "Reduce wind speed and protect crops and soil from wind damage"],
     correct: 3,
     explanation: "Windbreaks (shelterbelts) are rows of trees planted perpendicular to prevailing winds to reduce wind speed, protecting crops, soil, and livestock.",
     difficulty: "easy"
@@ -1172,7 +1172,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_147", subject: "da-281",
     question: "Aloe vera is primarily used for:",
-    options: ["Windbreak protection", "Burn healing, skin care, and digestive health", "Soil nitrogen fixation", "Timber production"],
+    options: ["Windbreak protection in horticultural practices", "Burn healing, skin care, and digestive health", "Soil nitrogen fixation for vegetable cultivation", "Timber production in orchard management"],
     correct: 1,
     explanation: "Aloe vera (Aloe barbadensis) is a succulent medicinal plant widely used for treating burns, skin conditions, and digestive problems.",
     difficulty: "easy"
@@ -1188,7 +1188,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_149", subject: "da-281",
     question: "What is the main reason forests are essential for maintaining biodiversity?",
-    options: ["Forests generate electricity", "Forests provide habitat for plants, animals, microorganisms and protect ecosystems", "Forests provide only timber", "Forests provide only medicinal plants"],
+    options: ["Forests generate electricity in horticultural practices", "Forests provide habitat for plants, animals, microorganisms and protect ecosystems", "Forests provide only timber for vegetable cultivation", "Forests provide only medicinal plants in orchard management"],
     correct: 1,
     explanation: "Forests are biodiversity hotspots — they provide habitat for millions of species of plants, animals, fungi, and microorganisms.",
     difficulty: "easy"
@@ -1212,7 +1212,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_152", subject: "da-281",
     question: "Forests classified as Reserved Forests in India are:",
-    options: ["Open for all uses", "Strictly protected with all activities restricted unless permitted", "Used only for tribal people", "Available for commercial logging"],
+    options: ["Open for all uses in horticultural practices", "Strictly protected with all activities restricted unless permitted", "Used only for tribal people", "Available for commercial logging for vegetable cultivation"],
     correct: 1,
     explanation: "Reserved Forests are the most strictly protected category under the Indian Forest Act 1927 — all activities are restricted unless specifically permitted.",
     difficulty: "medium"
@@ -1236,7 +1236,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_155", subject: "da-281",
     question: "Forest mensuration tool used to measure diameter of a standing tree is:",
-    options: ["Rangefinder", "Biltmore stick or diameter tape", "Compass", "Hypsometer"],
+    options: ["Rangefinder in horticultural practices", "Biltmore stick or diameter tape", "Compass for vegetable cultivation", "Hypsometer in orchard management"],
     correct: 1,
     explanation: "A Biltmore stick or diameter tape is used to measure the diameter (girth) of standing trees in forest mensuration.",
     difficulty: "hard"
@@ -1260,7 +1260,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_158", subject: "da-281",
     question: "The primary cause of deforestation in India is:",
-    options: ["Natural forest fires only", "Climate change only", "Wildlife damage", "Agricultural expansion, urbanization, and commercial timber extraction"],
+    options: ["Natural forest fires only", "Climate change only in horticultural practices", "Wildlife damage for vegetable cultivation", "Agricultural expansion, urbanization, and commercial timber extraction"],
     correct: 3,
     explanation: "The major causes of deforestation in India are agricultural expansion, urbanization, commercial timber extraction, and fuelwood collection.",
     difficulty: "easy"
@@ -1300,7 +1300,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_163", subject: "da-281",
     question: "India's target for forest cover under the Paris Agreement (Nationally Determined Contributions) is:",
-    options: ["5 billion tonnes additional carbon sink", "0.5 billion tonnes additional carbon sink", "1 billion tonnes additional carbon sink", "2.5 to 3 billion tonnes additional carbon sink through forests"],
+    options: ["5 billion tonnes additional carbon sink in horticultural practices", "0.5 billion tonnes additional carbon sink for vegetable cultivation", "1 billion tonnes additional carbon sink in orchard management", "2.5 to 3 billion tonnes additional carbon sink through forests"],
     correct: 3,
     explanation: "India committed to create additional carbon sink of 2.5 to 3 billion tonnes CO2 equivalent through forest and tree cover by 2030 in its NDCs.",
     difficulty: "hard"
@@ -1308,7 +1308,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_164", subject: "da-281",
     question: "Which of the following statements about teak is correct?",
-    options: ["Teak is an evergreen tree", "Teak is a deciduous tree native to South and Southeast Asia with high timber value", "Teak belongs to the grass family", "Teak grows best in wet tropical conditions with waterlogged soil"],
+    options: ["Teak is an evergreen tree in horticultural practices", "Teak is a deciduous tree native to South and Southeast Asia with high timber value", "Teak belongs to the grass family for vegetable cultivation", "Teak grows best in wet tropical conditions with waterlogged soil"],
     correct: 1,
     explanation: "Teak (Tectona grandis) is a deciduous hardwood native to South and Southeast Asia, highly valued for its durability and resistance to decay.",
     difficulty: "medium"
@@ -1372,7 +1372,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_172", subject: "da-281",
     question: "Farm forestry refers to:",
-    options: ["Growing trees only in forest departments", "Growing trees on private farm land by farmers for economic benefits", "Growing trees only for wildlife", "Only planting fruit trees"],
+    options: ["Growing trees only in forest departments in horticultural practices", "Growing trees on private farm land by farmers for economic benefits", "Growing trees only for wildlife for vegetable cultivation", "Only planting fruit trees in orchard management"],
     correct: 1,
     explanation: "Farm forestry is growing trees on private farm land by farmers — combining timber, fodder, fruit trees with agriculture for additional income.",
     difficulty: "easy"
@@ -1388,7 +1388,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_174", subject: "da-281",
     question: "The term agroforestry was coined by:",
-    options: ["ICRAF (International Centre for Research in Agroforestry) in the 1970s", "National Forest Policy 1952", "Indian Forest Act 1927", "FAO in 1960"],
+    options: ["ICRAF (International Centre for Research in Agroforestry) in the 1970s", "National Forest Policy 1952 in horticultural practices", "Indian Forest Act 1927 for vegetable cultivation", "FAO in 1960 in orchard management"],
     correct: 0,
     explanation: "The term agroforestry was formally defined and popularized by ICRAF (now World Agroforestry Centre) in the 1970s.",
     difficulty: "hard"
@@ -1412,7 +1412,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_177", subject: "da-281",
     question: "The main function of roots in preventing soil erosion is:",
-    options: ["Binding soil particles and increasing infiltration", "Releasing nutrients", "Producing oxygen", "Absorbing sunlight"],
+    options: ["Binding soil particles and increasing infiltration", "Releasing nutrients in horticultural practices", "Producing oxygen for vegetable cultivation", "Absorbing sunlight in orchard management"],
     correct: 0,
     explanation: "Tree roots bind soil particles, create channels for water infiltration, and reduce surface runoff, preventing soil erosion.",
     difficulty: "easy"
@@ -1444,7 +1444,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_181", subject: "da-281",
     question: "Which tree is used as the host plant for lac insects?",
-    options: ["Eucalyptus", "Ber (Ziziphus mauritiana) and Palas (Butea monosperma)", "Teak", "Neem"],
+    options: ["Eucalyptus in horticultural practices", "Ber (Ziziphus mauritiana) and Palas (Butea monosperma)", "Teak for vegetable cultivation", "Neem in orchard management"],
     correct: 1,
     explanation: "Lac insects (Kerria lacca) thrive on host trees like ber (Ziziphus mauritiana), kusum, and palas (Butea monosperma) to produce lac.",
     difficulty: "hard"
@@ -1460,7 +1460,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_183", subject: "da-281",
     question: "The main products from bamboo include:",
-    options: ["Construction, crafts, paper pulp, food (bamboo shoots), and biofuel", "Only food", "Only paper", "Only furniture"],
+    options: ["Construction, crafts, paper pulp, food (bamboo shoots), and biofuel", "Only food in horticultural practices", "Only paper for vegetable cultivation", "Only furniture in orchard management"],
     correct: 0,
     explanation: "Bamboo is a versatile green material used for construction, furniture, handicrafts, paper pulp, bamboo shoots (food), and bioenergy.",
     difficulty: "easy"
@@ -1476,7 +1476,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_185", subject: "da-281",
     question: "The Vana Mahotsava (Festival of Trees) in India was initiated to promote:",
-    options: ["Tree planting and afforestation across India", "Wildlife protection", "Timber trade", "Forest fire control"],
+    options: ["Tree planting and afforestation across India", "Wildlife protection in horticultural practices", "Timber trade for vegetable cultivation", "Forest fire control"],
     correct: 0,
     explanation: "Vana Mahotsava was started in 1950 by K.M. Munshi to promote large-scale tree planting across India. It is celebrated every July.",
     difficulty: "easy"
@@ -1508,7 +1508,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_189", subject: "da-281",
     question: "Why is forest cover important for watershed management?",
-    options: ["Forests only produce timber", "Forests reduce surface runoff, promote groundwater recharge, and regulate stream flow", "Forests block rainfall", "Forests only provide shade"],
+    options: ["Forests only produce timber in horticultural practices", "Forests reduce surface runoff, promote groundwater recharge, and regulate stream flow", "Forests block rainfall for vegetable cultivation", "Forests only provide shade in orchard management"],
     correct: 1,
     explanation: "Forests in watersheds reduce surface runoff, increase groundwater recharge, regulate stream flow, and prevent flooding and droughts.",
     difficulty: "medium"
@@ -1524,7 +1524,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_191", subject: "da-281",
     question: "Acacia nilotica (babul tree) is primarily used for:",
-    options: ["Gum arabic, fuelwood, fodder, and tannin extraction", "Ornamental purposes", "Timber only", "Edible fruits only"],
+    options: ["Gum arabic, fuelwood, fodder, and tannin extraction", "Ornamental purposes in horticultural practices", "Timber only for vegetable cultivation", "Edible fruits only in orchard management"],
     correct: 0,
     explanation: "Acacia nilotica (babul) produces gum arabic, provides fuelwood, fodder, tannin for leather industry, and is used in social forestry.",
     difficulty: "medium"
@@ -1564,7 +1564,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_196", subject: "da-281",
     question: "The primary role of forests in the global carbon cycle is:",
-    options: ["Carbon emitters", "Carbon sinks that absorb CO2 through photosynthesis", "Carbon producers only", "Carbon neutral (no net effect)"],
+    options: ["Carbon emitters in horticultural practices", "Carbon sinks that absorb CO2 through photosynthesis", "Carbon producers only for vegetable cultivation", "Carbon neutral (no net effect)"],
     correct: 1,
     explanation: "Forests are major carbon sinks — absorbing CO2 through photosynthesis and storing it in biomass and soil, helping regulate global climate.",
     difficulty: "easy"

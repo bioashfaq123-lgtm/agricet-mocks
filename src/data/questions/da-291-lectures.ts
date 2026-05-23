@@ -70,7 +70,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "The T&V (Training and Visit) System of agricultural extension was developed by:",
-    options: ["Dr. M.S. Swaminathan", "J.P. Leagans", "Daniel Benor and James Harrison (World Bank)", "Dr. Norman Borlaug"],
+    options: ["Dr. M.S. Swaminathan in extension education", "J.P. Leagans in rural development programmes", "Daniel Benor and James Harrison (World Bank)", "Dr. Norman Borlaug under this extension approach"],
     correct: 2,
     explanation: "The Training and Visit (T&V) System was developed by Daniel Benor and James Harrison with World Bank support. It was introduced in India (AP and Rajasthan) in 1974 and implemented nationwide by 1985."
   },
@@ -80,7 +80,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "The principle of 'Cultural Differentiation' in extension means:",
-    options: ["Teaching cultural arts alongside farming", "Recognizing and respecting the different cultural backgrounds of farm families", "Differentiating between crop cultural practices", "Using only modern cultural practices"],
+    options: ["Teaching cultural arts alongside farming in extension education", "Recognizing and respecting the different cultural backgrounds of farm families", "Differentiating between crop cultural practices in rural development programmes", "Using only modern cultural practices under this extension approach"],
     correct: 1,
     explanation: "The principle of cultural differentiation recognizes that farm families differ in cultural background, values, customs and traditions. Extension programmes must respect and adapt to these differences."
   },
@@ -90,7 +90,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "Extension Education differs from formal education in that extension:",
-    options: ["Has no curriculum or learning objectives", "Focuses only on literacy", "Is non-formal, voluntary, practical and aimed at solving real-life problems", "Is only for educated adults"],
+    options: ["Has no curriculum or learning objectives in extension education", "Focuses only on literacy in rural development programmes", "Is non-formal, voluntary, practical and aimed at solving real-life problems", "Is only for educated adults under this extension approach"],
     correct: 2,
     explanation: "Extension is non-formal education (no formal classroom, no degrees), voluntary, practical, problem-solving oriented and reaches farmers in their farms and villages throughout the year."
   },
@@ -100,7 +100,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "The main aim of the 'Integrated Approach' of extension is to:",
-    options: ["Focus exclusively on large farmers", "Integrate multiple government agencies without farmer involvement", "Focus only on crop production", "Address all aspects of rural life – farming, income, health, education together"],
+    options: ["Focus exclusively on large farmers", "Integrate multiple government agencies without farmer involvement", "Focus only on crop production", "Address all aspects of rural life"],
     correct: 3,
     explanation: "The integrated approach addresses all aspects of rural life simultaneously (crop production, animal husbandry, rural health, education, credit, cooperative) in an integrated manner."
   },
@@ -110,7 +110,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "ATMA (Agricultural Technology Management Agency) was established to:",
-    options: ["Provide farm credit to farmers", "Manage agricultural research only", "Decentralize and integrate extension at the district level", "Replace all KVKs in India"],
+    options: ["Provide farm credit to farmers", "Manage agricultural research only in extension education", "Decentralize and integrate extension at the district level", "Replace all KVKs in India"],
     correct: 2,
     explanation: "ATMA was established under NATP (National Agricultural Technology Project) to decentralize and integrate extension services at the district level, bringing together all agricultural development departments."
   },
@@ -130,7 +130,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "Which approach of extension is based on 'whole family approach' emphasizing all family members?",
-    options: ["Project approach", "Whole family approach (Home economics approach)", "Commodity approach", "Area development approach"],
+    options: ["Project approach in extension education", "Whole family approach (Home economics approach)", "Commodity approach in rural development programmes", "Area development approach"],
     correct: 1,
     explanation: "The whole family approach involves all family members (men, women, youth) in extension activities, recognizing that agricultural decisions involve the entire household and not just the male farmer."
   },
@@ -160,7 +160,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "The concept of 'sustainable development' in extension education means:",
-    options: ["Only economic development of farmers", "State-funded development without farmer contribution", "Development that meets present needs without compromising future generations' ability to meet their needs", "Development of sustainable irrigation systems only"],
+    options: ["Only economic development of farmers in extension education", "State-funded development without farmer contribution in rural development programmes", "Development that meets present needs without compromising future generations' ability to meet their needs", "Development of sustainable irrigation systems only under this extension approach"],
     correct: 2,
     explanation: "Sustainable development (Brundtland Commission 1987 definition) means development that meets the needs of present generations without compromising future generations' ability to meet their own needs."
   },
@@ -182,7 +182,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "The main advantage of 'Office Call' as an extension method is:",
-    options: ["Messages can reach large audiences simultaneously", "Better demonstrations can be given on farm", "Saves extension worker's travel time and multiple farmers can be served", "Extension worker can see actual farm conditions"],
+    options: ["Messages can reach large audiences simultaneously in extension education", "Better demonstrations can be given on farm in rural development programmes", "Saves extension worker's travel time and multiple farmers can be served", "Extension worker can see actual farm conditions under this extension approach"],
     correct: 2,
     explanation: "Office call (farmer visiting extension office) saves the extension worker's travel time, allows handling multiple farmers in one location and provides access to reference materials and exhibits."
   },
@@ -192,7 +192,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "A 'Result Demonstration' shows farmers:",
-    options: ["How to do a specific operation correctly (method)", "A laboratory experiment under controlled conditions", "Government-sponsored model farms", "The results and benefits of adopting a new practice compared to old practice"],
+    options: ["How to do a specific operation correctly (method) in extension education", "A laboratory experiment under controlled conditions in rural development programmes", "Government-sponsored model farms under this extension approach", "The results and benefits of adopting a new practice compared to old practice"],
     correct: 3,
     explanation: "A result demonstration shows the results (yield, income) obtained by adopting a new practice compared to the traditional/old practice side by side on a farmer's field."
   },
@@ -222,7 +222,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "The main limitation of individual extension methods (farm visits, office calls) is:",
-    options: ["Farmers cannot ask questions or interact", "They can reach only a limited number of farmers at one time", "They are very effective for technology transfer", "They are very cheap and unlimited in scale"],
+    options: ["Farmers cannot ask questions or interact in extension education", "They can reach only a limited number of farmers at one time", "They are very effective for technology transfer in rural development programmes", "They are very cheap and unlimited in scale under this extension approach"],
     correct: 1,
     explanation: "The main limitation of individual methods is low reach – only one or a few farmers can be reached at one time. Extension workers with large jurisdictions cannot visit all farmers regularly."
   },
@@ -262,7 +262,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "A 'Contact Farmer' in the T&V extension system is:",
-    options: ["A government agricultural department employee", "A farmer who contacts scientists directly", "A progressive farmer who receives information and passes it to neighbors", "The extension officer at district level"],
+    options: ["A government agricultural department employee in extension education", "A farmer who contacts scientists directly in rural development programmes", "A progressive farmer who receives information and passes it to neighbors", "The extension officer at district level under this extension approach"],
     correct: 2,
     explanation: "In the T&V system, contact farmers (progressive farmers) receive fortnightly training from VEW (Village Extension Worker) and are expected to share this information with 8–10 neighboring farmers."
   },
@@ -364,7 +364,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Radio is preferred as an extension mass media method because it:",
-    options: ["Provides visual information to farmers", "Requires electricity always", "Is cheap, reaches remote areas and can be used by illiterate farmers", "Is very expensive and reaches few farmers"],
+    options: ["Provides visual information to farmers in extension education", "Requires electricity always in rural development programmes", "Is cheap, reaches remote areas and can be used by illiterate farmers", "Is very expensive and reaches few farmers under this extension approach"],
     correct: 2,
     explanation: "Radio is widely used in extension because it is inexpensive, reaches remote and electrification-lacking areas and can be accessed by illiterate farmers. Farm and Home broadcast programmes are popular."
   },
@@ -374,7 +374,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "What is a 'Village Meeting' in extension and how often should it be held?",
-    options: ["Meeting of all farmers in a village for agricultural advisory, monthly or as needed", "Annual general body meeting for cooperative societies", "Meeting of farmers with bank officials only", "Meeting of panchayat officials only, annually"],
+    options: ["Meeting of all farmers in a village for agricultural advisory, monthly or as needed", "Annual general body meeting for cooperative societies in extension education", "Meeting of farmers with bank officials only in rural development programmes", "Meeting of panchayat officials only, annually under this extension approach"],
     correct: 0,
     explanation: "A village meeting (Gram Sabha or informal village meeting) is a group extension method where all farmers in a village gather to discuss agricultural problems and receive advisory. Frequency varies with need."
   },
@@ -394,7 +394,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Farmers' Clubs (Krishak Clubs) organized under extension are meant to:",
-    options: ["Create a forum for group discussion, learning and collective action among farmers", "Only manage irrigation systems", "Provide only credit to farmers", "Organize political activities in villages"],
+    options: ["Create a forum for group discussion, learning and collective action among farmers", "Only manage irrigation systems in extension education", "Provide only credit to farmers in rural development programmes", "Organize political activities in villages under this extension approach"],
     correct: 0,
     explanation: "Farmers' Clubs/Krishak Clubs create forums for collective discussion of agricultural problems, sharing of experiences, adoption of new practices, group demonstrations and accessing services collectively."
   },
@@ -404,7 +404,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The main advantage of group extension methods over individual methods is:",
-    options: ["Higher quality of advice per farmer", "More farmers can be reached with less time and cost", "Better understanding by each individual farmer", "No travel needed by extension worker"],
+    options: ["Higher quality of advice per farmer in extension education", "More farmers can be reached with less time and cost", "Better understanding by each individual farmer in rural development programmes", "No travel needed by extension worker under this extension approach"],
     correct: 1,
     explanation: "Group methods reach more farmers at one time compared to individual methods, making extension more cost-effective and time-efficient, though with somewhat less personalization."
   },
@@ -424,7 +424,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "An 'Exhibition' as a mass extension method is most effective for:",
-    options: ["Resolving individual farm problems", "Providing personalized farm advice", "Displaying new varieties, technology and products to large numbers of farmers", "Training farmers in specific skills"],
+    options: ["Resolving individual farm problems in extension education", "Providing personalized farm advice in rural development programmes", "Displaying new varieties, technology and products to large numbers of farmers", "Training farmers in specific skills under this extension approach"],
     correct: 2,
     explanation: "Agricultural exhibitions display new varieties, implements, technologies, successful models and success stories, reaching large numbers of farmers simultaneously to create awareness and interest."
   },
@@ -434,7 +434,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The Kisan Call Centre (KCC – 1800-180-1551) was established to:",
-    options: ["Market agricultural produce online", "Provide free agricultural advisory to farmers through toll-free helpline", "Recruit agricultural extension workers", "Provide farm credit over phone"],
+    options: ["Market agricultural produce online in extension education", "Provide free agricultural advisory to farmers through toll-free helpline", "Recruit agricultural extension workers in rural development programmes", "Provide farm credit over phone under this extension approach"],
     correct: 1,
     explanation: "Kisan Call Centre (KCC) – toll-free number 1800-180-1551 – provides free, immediate agricultural advisory in local languages to farmers who call with queries on crop production, disease, marketing etc."
   },
@@ -444,7 +444,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Newspapers as an extension mass media method have the limitation that they:",
-    options: ["Are more effective than radio in remote areas", "Cannot carry technical agricultural information", "Are too expensive to publish", "Can only reach literate farmers and those in areas with distribution"],
+    options: ["Are more effective than radio in remote areas", "Cannot carry technical agricultural information in extension education", "Are too expensive to publish in rural development programmes", "Can only reach literate farmers and those in areas with distribution"],
     correct: 3,
     explanation: "Newspapers can only reach literate farmers and are limited to areas where distribution is available. In India, where rural literacy is not universal and distribution is uneven, this limits their extension reach."
   },
@@ -484,7 +484,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Agri Clinics and Agri Business Centres scheme was started to promote:",
-    options: ["Agripreneurship among agriculture graduates for private extension services", "Only credit services to farmers", "Government agricultural extension exclusively", "Only seed retail shops"],
+    options: ["Agripreneurship among agriculture graduates for private extension services", "Only credit services to farmers", "Government agricultural extension exclusively in extension education", "Only seed retail shops in rural development programmes"],
     correct: 0,
     explanation: "Agri Clinics and Agri Business Centres (ACABC) scheme promotes agripreneurship by supporting agriculture graduates to set up private extension clinics providing fee-based advisory and input services to farmers."
   },
@@ -496,7 +496,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "KVK (Krishi Vigyan Kendra) was established on the recommendations of which committee?",
-    options: ["Sivaraman Report", "Mehta Committee", "Kelkar Committee", "Mohan Singh Mehta Committee / Swaminathan Committee"],
+    options: ["Sivaraman Report in extension education", "Mehta Committee in rural development programmes", "Kelkar Committee under this extension approach", "Mohan Singh Mehta Committee / Swaminathan Committee"],
     correct: 3,
     explanation: "Krishi Vigyan Kendra (KVK) was established based on the recommendations of the Mohan Singh Mehta committee report (1973) submitted to ICAR. The first KVK was established in Pondicherry in 1974."
   },
@@ -506,7 +506,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "FLD (Front Line Demonstration) is conducted by:",
-    options: ["Individual farmers on their own initiative", "Only ICAR research stations", "Scientists/extension workers on farmers' fields with frontline technology", "International agricultural organizations"],
+    options: ["Individual farmers on their own initiative", "Only ICAR research stations in extension education", "Scientists/extension workers on farmers' fields with frontline technology", "International agricultural organizations in rural development programmes"],
     correct: 2,
     explanation: "Front Line Demonstrations (FLDs) are conducted by scientists of ICAR/SAU on farmers' fields using frontline (latest) technology to demonstrate its superiority over farmers' practice, filling the yield gap."
   },
@@ -536,7 +536,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "IVLP (Integrated Village Linkage Programme) was designed to:",
-    options: ["Assess location-specific technology on multi-location trials in villages before scaling", "Link irrigation villages to watershed programmes", "Integrate different crops in a village", "Link villages to urban markets only"],
+    options: ["Assess location-specific technology on multi-location trials in villages before scaling", "Link irrigation villages to watershed programmes in extension education", "Integrate different crops in a village in rural development programmes", "Link villages to urban markets only under this extension approach"],
     correct: 0,
     explanation: "IVLP was designed to assess location-specific technologies through on-farm trials in villages with farmer participation, providing feedback to researchers on technology suitability before wider promotion."
   },
@@ -556,7 +556,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "The technology transfer chain from research to farmers is typically:",
-    options: ["Farmer → KVK → SAU → ICAR (reversed)", "ICAR directly to farmers only", "International organizations → Government → Farmers", "ICAR → SAU → KVK → Extension Department → Farmer"],
+    options: ["Farmer → KVK → SAU → ICAR (reversed)", "ICAR directly to farmers only in extension education", "International organizations → Government → Farmers in rural development programmes", "ICAR → SAU → KVK → Extension Department → Farmer"],
     correct: 3,
     explanation: "The technology transfer chain: ICAR (national research) → SAU (state research adaptation) → KVK (location testing and FLD) → State Extension Department (mass dissemination) → Farmer (adoption)."
   },
@@ -576,7 +576,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Innovators in Rogers' diffusion model are characterized by:",
-    options: ["Being risk-averse and waiting for proven results", "Opposing all new agricultural technologies", "Being venturesome, educated, financially able and having wide social networks", "Being the largest group in any community"],
+    options: ["Being risk-averse and waiting for proven results", "Opposing all new agricultural technologies in extension education", "Being venturesome, educated, financially able and having wide social networks", "Being the largest group in any community"],
     correct: 2,
     explanation: "Innovators (2.5%) are venturesome, educated, financially strong, have cosmopolite social networks (beyond local community) and can absorb failure of a new technology they try."
   },
@@ -596,7 +596,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "The 'Relative Advantage' factor that influences technology adoption means:",
-    options: ["The degree to which innovation is perceived as better than the idea it supersedes", "Advantage of one crop over another", "Farmers' social status relative to neighbors", "The cost advantage for rich farmers over poor"],
+    options: ["The degree to which innovation is perceived as better than the idea it supersedes", "Advantage of one crop over another in extension education", "Farmers' social status relative to neighbors in rural development programmes", "The cost advantage for rich farmers over poor under this extension approach"],
     correct: 0,
     explanation: "Relative advantage is one of Rogers' 5 characteristics of innovations: the degree to which a new technology is perceived to be better (more profitable, easier, superior) than what it replaces."
   },
@@ -626,7 +626,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "The difference between 'Laggards' and 'Late Majority' in Rogers' adoption categories is:",
-    options: ["Laggards have tradition-bound orientation and adopt last or never; Late Majority are skeptical but adopt after majority", "No significant difference between the two", "Laggards adopt faster than Late Majority", "Laggards are younger than Late Majority"],
+    options: ["Laggards have tradition-bound orientation and adopt last or never; Late Majority are skeptical but adopt after majority", "No significant difference between the two in extension education", "Laggards adopt faster than Late Majority in rural development programmes", "Laggards are younger than Late Majority under this extension approach"],
     correct: 0,
     explanation: "Late Majority (34%) adopt after the average member of society, being skeptical and needing social pressure. Laggards (16%) are tradition-bound, suspicious of change and may never fully adopt."
   },
@@ -636,7 +636,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Under the Farmers First Programme (FFP) of ICAR, the focus is on:",
-    options: ["Farmer-scientist partnerships for technology development with farmer needs at center", "Scientists conducting research only", "Government control of technology development", "International collaboration for technology import"],
+    options: ["Farmer-scientist partnerships for technology development with farmer needs at center", "Scientists conducting research only in extension education", "Government control of technology development in rural development programmes", "International collaboration for technology import under this extension approach"],
     correct: 0,
     explanation: "Farmers First Programme (FFP) of ICAR focuses on farmer-scientist partnerships where farmers' needs drive the research agenda, and scientists work closely with farmers in technology development and testing."
   },
@@ -646,7 +646,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Which Indian programme linked village adoption of new agricultural technology with the 'package of practices'?",
-    options: ["T&V System", "Intensive Agricultural District Programme (IADP) – 1961", "National Extension Service 1953", "Community Development Programme"],
+    options: ["T&V System", "Intensive Agricultural District Programme (IADP)", "National Extension Service 1953", "Community Development Programme"],
     correct: 1,
     explanation: "The Intensive Agricultural District Programme (IADP – 1961) was the first concentrated attempt to introduce a 'package of improved practices' to selected progressive districts for rapid technology adoption."
   },
@@ -678,7 +678,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Primary social groups in rural sociology are characterized by:",
-    options: ["Large size, formal rules and impersonal relationships", "Geographical dispersion and virtual interaction", "Temporary membership and contractual relationships", "Small size, intimate face-to-face relationships and lasting bonds (family, close friends)"],
+    options: ["Large size, formal rules and impersonal relationships", "Geographical dispersion and virtual interaction", "Temporary membership and contractual relationships", "Small size, intimate face-to-face relationships and lasting bonds"],
     correct: 3,
     explanation: "Primary groups (C.H. Cooley's concept) are small, intimate groups with face-to-face interaction, emotional bonds and lasting relationships. Family and close friendship groups are primary groups."
   },
@@ -688,7 +688,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "The caste system in rural India is primarily a form of:",
-    options: ["Economic class division only", "Stratification based on hereditary occupational and social hierarchy", "Racial classification", "Religious affiliation only"],
+    options: ["Economic class division only in extension education", "Stratification based on hereditary occupational and social hierarchy", "Racial classification in rural development programmes", "Religious affiliation only under this extension approach"],
     correct: 1,
     explanation: "The caste system is a form of social stratification based on heredity that classifies Hindus into hierarchical groups (varnas and jatis) associated with traditional occupations and social rules."
   },
@@ -698,7 +698,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Rural-urban migration in India is mainly caused by:",
-    options: ["Only urbanization preference without economic reason", "Only government policy pushing people to cities", "Climate change alone", "Push factors (poverty, unemployment, lack of services) and pull factors (urban jobs, education, better wages)"],
+    options: ["Only urbanization preference without economic reason in extension education", "Only government policy pushing people to cities in rural development programmes", "Climate change alone under this extension approach", "Push factors (poverty, unemployment, lack of services) and pull factors (urban jobs, education, better wages)"],
     correct: 3,
     explanation: "Rural-urban migration is caused by both push factors (rural unemployment, low wages, poverty, lack of infrastructure) and pull factors (urban job opportunities, higher wages, better education and health services)."
   },
@@ -708,7 +708,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Social change in rural communities can be brought about through:",
-    options: ["External force only", "Education, demonstration effect, contact with outside world, economic improvement and government interventions", "Traditional systems alone", "Only religious influence"],
+    options: ["External force only in extension education", "Education, demonstration effect, contact with outside world, economic improvement and government interventions", "Traditional systems alone in rural development programmes", "Only religious influence under this extension approach"],
     correct: 1,
     explanation: "Social change in rural communities occurs through education, demonstration effect (seeing neighbors benefit from changes), contact with outside world, economic improvement and government programmes."
   },
@@ -738,7 +738,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "A 'Change Agent' in the context of rural sociology is:",
-    options: ["A government officer imposing change", "A political worker", "Any new farmer in the village", "A professional who intentionally seeks to influence innovation decisions in a desired direction"],
+    options: ["A government officer imposing change in extension education", "A political worker in rural development programmes", "Any new farmer in the village under this extension approach", "A professional who intentionally seeks to influence innovation decisions in a desired direction"],
     correct: 3,
     explanation: "A change agent (Rogers' term) is a professional (extension worker, KVK scientist, NGO worker) who intentionally seeks to influence people's innovation decisions and facilitate adoption of new practices."
   },
@@ -748,7 +748,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "The joint family system in rural India is advantageous because it:",
-    options: ["Limits individual freedom excessively", "Is incompatible with modern agriculture", "Prevents individual wealth accumulation", "Provides social security, distributes family labor, reduces risk and maintains family bonds"],
+    options: ["Limits individual freedom excessively in extension education", "Is incompatible with modern agriculture in rural development programmes", "Prevents individual wealth accumulation under this extension approach", "Provides social security, distributes family labor, reduces risk and maintains family bonds"],
     correct: 3,
     explanation: "The joint family system provides collective social security (elderly care, child care), distributes labor across the farm enterprise, shares economic risk and maintains strong social bonds."
   },
@@ -758,7 +758,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Secondary social groups in rural sociology differ from primary groups in that they are:",
-    options: ["Larger, more formal, impersonal with specific purposes (cooperatives, farmer organizations)", "Family-based only", "Always temporary and informal", "Smaller and more intimate"],
+    options: ["Larger, more formal, impersonal with specific purposes (cooperatives, farmer organizations)", "Family-based only in extension education", "Always temporary and informal in rural development programmes", "Smaller and more intimate under this extension approach"],
     correct: 0,
     explanation: "Secondary groups are larger, more formal, have specific purposes (cooperative society, farmer's organization, union) with less intimate, role-based relationships governed by formal rules."
   },
@@ -768,7 +768,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Sanskritization (concept by M.N. Srinivas) in Indian rural society means:",
-    options: ["Government scheme for rural literacy in Sanskrit language", "A process by which lower castes emulate the customs/practices of upper castes to rise socially", "Tribal people adopting Hindu customs", "Teaching Sanskrit in village schools"],
+    options: ["Government scheme for rural literacy in Sanskrit language in extension education", "A process by which lower castes emulate the customs/practices of upper castes to rise socially", "Tribal people adopting Hindu customs in rural development programmes", "Teaching Sanskrit in village schools under this extension approach"],
     correct: 1,
     explanation: "Sanskritization (M.N. Srinivas) is the process by which lower castes, tribes or other groups adopt the rituals, customs and way of life of upper castes (particularly Brahmins) to claim higher social status."
   },
@@ -778,7 +778,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Leadership in rural communities can be classified as:",
-    options: ["Formal (elected/appointed) and informal (natural leaders based on respect, knowledge, wealth)", "Only caste-based hereditary leadership", "Only religious leadership", "Only formal political leadership"],
+    options: ["Formal (elected/appointed) and informal", "Only caste-based hereditary leadership", "Only religious leadership", "Only formal political leadership"],
     correct: 0,
     explanation: "Rural leadership includes formal leaders (Sarpanch, MPP elected representatives) and informal leaders (respected community members, progressive farmers, religious figures, landlords) with natural influence."
   },
@@ -788,7 +788,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "The study of rural sociology helps extension workers by:",
-    options: ["Understanding social structure, group dynamics and how to work effectively with rural communities", "Learning agricultural technology production methods", "Enabling them to conduct agricultural research", "Managing government funds and schemes"],
+    options: ["Understanding social structure, group dynamics and how to work effectively with rural communities", "Learning agricultural technology production methods in extension education", "Enabling them to conduct agricultural research in rural development programmes", "Managing government funds and schemes under this extension approach"],
     correct: 0,
     explanation: "Rural sociology knowledge helps extension workers understand village power structures, social groups, informal leaders, barriers to change, communication networks and how to facilitate community participation."
   },
@@ -830,7 +830,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Gram Sabha, the base of Panchayati Raj, consists of:",
-    options: ["Only tax-paying residents of the gram panchayat area", "All adult males in the village only", "All elected members of Gram Panchayat only", "All voters (adults) registered in the electoral rolls of the village/gram panchayat"],
+    options: ["Only tax-paying residents of the gram panchayat area in extension education", "All adult males in the village only in rural development programmes", "All elected members of Gram Panchayat only under this extension approach", "All voters (adults) registered in the electoral rolls of the village/gram panchayat"],
     correct: 3,
     explanation: "Gram Sabha consists of all persons registered in the electoral rolls of the Gram Panchayat area (all adult voters – male and female). It is the primary forum of direct democracy at village level."
   },
@@ -840,7 +840,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "How many tiers does the Panchayati Raj system have in most Indian states?",
-    options: ["Three tiers (Gram Panchayat, Mandal/Block, Zilla Parishad)", "Five tiers", "Two tiers (Gram Panchayat and Zilla Parishad)", "Four tiers"],
+    options: ["Three tiers (Gram Panchayat, Mandal/Block, Zilla Parishad)", "Five tiers in extension education", "Two tiers (Gram Panchayat and Zilla Parishad)", "Four tiers in rural development programmes"],
     correct: 0,
     explanation: "The 73rd Amendment mandates a three-tier Panchayati Raj system: Gram Panchayat (village level), Intermediate Panchayat/Block/Mandal Parishad (block level) and Zilla Parishad (district level)."
   },
@@ -880,7 +880,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "State Election Commission (SEC) as required by the 73rd Amendment supervises:",
-    options: ["Parliamentary elections in rural areas", "State Assembly elections", "Cooperative society elections", "Elections to Panchayati Raj Institutions and Urban Local Bodies"],
+    options: ["Parliamentary elections in rural areas", "State Assembly elections in extension education", "Cooperative society elections in rural development programmes", "Elections to Panchayati Raj Institutions and Urban Local Bodies"],
     correct: 3,
     explanation: "Each state's State Election Commission (SEC) is responsible for superintendence, direction and control of preparation of electoral rolls and conduct of elections to PRIs and Urban Local Bodies."
   },
@@ -890,7 +890,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Ward Sabha in Telangana/Andhra Pradesh is a body consisting of:",
-    options: ["Only elected ward members", "All Gram Panchayat members", "District Collector appointed committee", "All voters in a ward (sub-division of Gram Panchayat)"],
+    options: ["Only elected ward members in extension education", "All Gram Panchayat members in rural development programmes", "District Collector appointed committee under this extension approach", "All voters in a ward (sub-division of Gram Panchayat)"],
     correct: 3,
     explanation: "Ward Sabha consists of all persons registered as voters in a ward (the smallest division of Gram Panchayat). Each ward elects one ward member to the Gram Panchayat."
   },
@@ -910,7 +910,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Gram Panchayat's main sources of revenue include:",
-    options: ["Income tax collected from farmers", "Company dividends", "Export duties on agricultural produce", "Property tax, profession tax, water/drainage fees and government grants"],
+    options: ["Income tax collected from farmers in extension education", "Company dividends in rural development programmes", "Export duties on agricultural produce under this extension approach", "Property tax, profession tax, water/drainage fees and government grants"],
     correct: 3,
     explanation: "Gram Panchayats collect property tax, profession tax, water/drainage user fees and receive grants from state and central governments under Finance Commission recommendations and schemes like SFC grants."
   },
@@ -940,7 +940,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Under the 73rd Amendment, which constitutional body is responsible for recommending devolution of state revenue to PRIs?",
-    options: ["Inter-State Council", "CAG (Comptroller and Auditor General)", "Planning Commission", "Finance Commission (State Finance Commission – SFC)"],
+    options: ["Inter-State Council", "CAG (Comptroller and Auditor General)", "Planning Commission", "Finance Commission (State Finance Commission"],
     correct: 3,
     explanation: "Each state must constitute a State Finance Commission (SFC) every 5 years to review the financial position of PRIs and recommend principles for devolution of state taxes and grants to them."
   },
@@ -960,7 +960,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "The 73rd Amendment was significant for agriculture because it:",
-    options: ["Nationalized all agricultural land", "Transferred 29 subjects including agriculture to Panchayats for local governance", "Established NABARD", "Abolished all agricultural taxes"],
+    options: ["Nationalized all agricultural land in extension education", "Transferred 29 subjects including agriculture to Panchayats for local governance", "Established NABARD in rural development programmes", "Abolished all agricultural taxes under this extension approach"],
     correct: 1,
     explanation: "The 73rd Amendment transferred 29 subjects (including agriculture, minor irrigation, animal husbandry, social forestry, poverty alleviation) to Panchayats, enabling local governance of rural development."
   },
@@ -982,7 +982,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "A Farmer Producer Organization (FPO) is:",
-    options: ["A producer organization where farmers are members and collectively do business", "A bank providing farm credit", "A government department managing farmers", "An NGO working for farmer welfare"],
+    options: ["A producer organization where farmers are members and collectively do business", "A bank providing farm credit in extension education", "A government department managing farmers in rural development programmes", "An NGO working for farmer welfare under this extension approach"],
     correct: 0,
     explanation: "An FPO (Farmer Producer Organization) is a legal entity formed by farmers where they are members/shareholders. FPOs collectively procure inputs, add value and sell produce for better bargaining power."
   },
@@ -1002,7 +1002,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "KVK training programmes are classified as:",
-    options: ["Only in-house training at KVK", "Only on-farm demonstration training", "Short-term (1–5 days), medium-term (2–4 weeks) and long-term (3–6 months) training", "Only online e-learning"],
+    options: ["Only in-house training at KVK in extension education", "Only on-farm demonstration training in rural development programmes", "Short-term (1–5 days), medium-term (2–4 weeks) and long-term (3–6 months) training", "Only online e-learning under this extension approach"],
     correct: 2,
     explanation: "KVK training programmes include short-term (1–5 days for awareness/skill), medium-term (2–4 weeks) and long-term (3–6 months vocational) training for farmers, farm women, youth and extension workers."
   },
@@ -1012,7 +1012,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Farmer clubs (Krishak Clubs) are linked to NABARD and are established to:",
-    options: ["Manage government procurement", "Produce seed for distribution", "Promote collective farming, peer learning and help link farmers to rural development agencies", "Provide banking services to farmers"],
+    options: ["Manage government procurement in extension education", "Produce seed for distribution in rural development programmes", "Promote collective farming, peer learning and help link farmers to rural development agencies", "Provide banking services to farmers under this extension approach"],
     correct: 2,
     explanation: "NABARD-supported Farmer Clubs (Krishak Clubs) are informal groups of 10–20 farmers promoted to facilitate collective learning, peer exchange, technology adoption and linkage with banks and government programmes."
   },
@@ -1022,7 +1022,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Exposure visits (Study tours) as a training method expose farmers to:",
-    options: ["Government offices and bureaucratic procedures", "Success stories, progressive farms and new technology in other locations", "Research station laboratories only", "Urban markets and shopping centers"],
+    options: ["Government offices and bureaucratic procedures in extension education", "Success stories, progressive farms and new technology in other locations", "Research station laboratories only in rural development programmes", "Urban markets and shopping centers under this extension approach"],
     correct: 1,
     explanation: "Exposure visits/study tours take farmers to progressive farms, KVKs, research stations and success stories in other locations to inspire adoption of new practices through seeing positive real-world results."
   },
@@ -1032,7 +1032,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "e-NAM (Electronic National Agriculture Market) is an online platform that:",
-    options: ["Creates a unified national electronic market for agricultural commodities through APMC mandis", "Provides electronic land records", "Provides e-learning to farmers", "Manages electronic FPO registration"],
+    options: ["Creates a unified national electronic market for agricultural commodities through APMC mandis", "Provides electronic land records in extension education", "Provides e-learning to farmers in rural development programmes", "Manages electronic FPO registration under this extension approach"],
     correct: 0,
     explanation: "e-NAM is an online trading platform integrating existing APMC mandis across states, creating a unified national market for agricultural commodities for transparent price discovery and better farmer income."
   },
@@ -1052,7 +1052,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "The Revised Guidelines on ATMA (2010) proposed that State Farmer Advisory Committees include:",
-    options: ["Only research scientists", "At least 60% farmer representation (including women and marginalized farmers)", "Only large farmers and industry representatives", "Only government officials"],
+    options: ["Only research scientists in extension education", "At least 60% farmer representation (including women and marginalized farmers)", "Only large farmers and industry representatives", "Only government officials in rural development programmes"],
     correct: 1,
     explanation: "ATMA revised guidelines (2010) require Farmer Advisory Committees at district, block and village levels with at least 60% farmer representatives including women, small/marginal farmers and SHGs."
   },
@@ -1072,7 +1072,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "The SAMETI (State Agricultural Management and Extension Training Institute) provides:",
-    options: ["Training to mid-level agricultural extension functionaries at state level", "Agricultural credit to farmers", "Research support to SAUs", "Marketing support for farm produce"],
+    options: ["Training to mid-level agricultural extension functionaries at state level", "Agricultural credit to farmers in extension education", "Research support to SAUs in rural development programmes", "Marketing support for farm produce under this extension approach"],
     correct: 0,
     explanation: "SAMETI (State Agricultural Management and Extension Training Institute) provides in-service training to mid-level agricultural extension functionaries at the state level under the ATMA framework."
   },
@@ -1082,7 +1082,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Community Managed Resource Centres (CMRCs) under NRLM are established to:",
-    options: ["Provide health services to SHG members", "Provide banking services", "Manage community forests", "Support SHG federations with agricultural extension and market linkages"],
+    options: ["Provide health services to SHG members", "Provide banking services in extension education", "Manage community forests in rural development programmes", "Support SHG federations with agricultural extension and market linkages"],
     correct: 3,
     explanation: "CMRCs under NRLM provide agricultural extension, technology demonstrations, input supply and market linkages to SHG (Self Help Group) federations at cluster level, particularly to women farmers."
   },
@@ -1092,7 +1092,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Farmer Field School (FFS) is a participatory extension methodology where:",
-    options: ["Farmers watch videos about farming practices", "Farmers learn by doing and discovery-based learning in their own fields through the crop season", "Scientists teach farmers in a classroom setting", "Extension workers demonstrate on research farms"],
+    options: ["Farmers watch videos about farming practices in extension education", "Farmers learn by doing and discovery-based learning in their own fields through the crop season", "Scientists teach farmers in a classroom setting in rural development programmes", "Extension workers demonstrate on research farms under this extension approach"],
     correct: 1,
     explanation: "Farmer Field Schools (FFS) are groups of 25–30 farmers who meet weekly in their fields throughout the crop season to learn by doing (IPM, agroecosystem analysis), promoted by FAO globally."
   },
@@ -1102,7 +1102,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Para-extension workers (Krishi Sakhis, Pashu Sakhis) in India are:",
-    options: ["Community-based resource persons selected from SHG members trained for peer extension", "Corporate agricultural advisors", "NGO employees only", "Government extension officers"],
+    options: ["Community-based resource persons selected from SHG members trained for peer extension", "Corporate agricultural advisors in extension education", "NGO employees only in rural development programmes", "Government extension officers under this extension approach"],
     correct: 0,
     explanation: "Para-extension workers (Krishi Sakhis for crop, Pashu Sakhis for livestock) are SHG members selected from the community, trained by KVKs/government and provide peer-level extension support to women farmers."
   },
@@ -1112,7 +1112,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "The main benefit of FPOs for small and marginal farmers is:",
-    options: ["Collective strength for bulk input purchase, processing and market access improving income", "Getting individual government subsidies", "Access to higher land holdings", "Avoiding all government regulations"],
+    options: ["Collective strength for bulk input purchase, processing and market access improving income", "Getting individual government subsidies in extension education", "Access to higher land holdings in rural development programmes", "Avoiding all government regulations under this extension approach"],
     correct: 0,
     explanation: "FPOs provide collective strength enabling small farmers to bulk-purchase inputs at lower cost, collectively process and grade produce, negotiate better prices with traders and access markets they cannot individually reach."
   },
@@ -1122,7 +1122,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Kisan Suvidha app was launched by the Government of India to provide farmers with:",
-    options: ["Aadhaar-linked farmer registration", "Digital land records only", "Weather, market prices, agro-advisories, plant protection advice and crop insurance information", "Only farm loan information"],
+    options: ["Aadhaar-linked farmer registration in extension education", "Digital land records only in rural development programmes", "Weather, market prices, agro-advisories, plant protection advice and crop insurance information", "Only farm loan information under this extension approach"],
     correct: 2,
     explanation: "Kisan Suvidha app provides farmers with location-specific weather forecasts, market prices, agro-advisories (crop and variety selection), plant protection advice, crop insurance information and dealers' list."
   },
@@ -1132,7 +1132,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "The major challenges in extension education in India include:",
-    options: ["Farmers refusing all new technologies", "Inadequate trained manpower, poor adoption rate, low budget and technology access gap for small farmers", "Excess technology supply with no farmer demand", "Too many extension workers with nothing to do"],
+    options: ["Farmers refusing all new technologies in extension education", "Inadequate trained manpower, poor adoption rate, low budget and technology access gap for small farmers", "Excess technology supply with no farmer demand in rural development programmes", "Too many extension workers with nothing to do under this extension approach"],
     correct: 1,
     explanation: "Major extension challenges in India: inadequate trained extension manpower, poor technology adoption by small/marginal farmers, insufficient budget, infrastructure gap, digital divide and technology-recommendation mismatch."
   },
@@ -1144,7 +1144,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Under PM-KISAN scheme, farmers receive direct income support of:",
-    options: ["Rs. 5000 per year in one installment", "Rs. 2000 per year in 2 installments", "Rs. 6000 per year in 3 installments of Rs. 2000 each", "Rs. 10,000 per year in 4 installments"],
+    options: ["Rs. 5000 per year in one installment in extension education", "Rs. 2000 per year in 2 installments in rural development programmes", "Rs. 6000 per year in 3 installments of Rs. 2000 each", "Rs. 10,000 per year in 4 installments under this extension approach"],
     correct: 2,
     explanation: "PM-KISAN (Pradhan Mantri Kisan Samman Nidhi) provides Rs. 6000 per year in 3 equal installments of Rs. 2000 each (every 4 months) directly into the bank accounts of farmer families."
   },
@@ -1154,7 +1154,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Under PMFBY (Pradhan Mantri Fasal Bima Yojana), the premium paid by farmers for kharif crops is:",
-    options: ["1% of sum insured", "2% of sum insured (or actuarial rate whichever is less)", "5% of sum insured", "10% of sum insured"],
+    options: ["1% of sum insured in extension education", "2% of sum insured (or actuarial rate whichever is less)", "5% of sum insured in rural development programmes", "10% of sum insured under this extension approach"],
     correct: 1,
     explanation: "Under PMFBY, farmers pay maximum 2% of sum insured for kharif crops, 1.5% for rabi crops and 5% for commercial/horticultural crops. The balance is shared by central and state governments."
   },
@@ -1164,7 +1164,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Rythu Bandhu scheme in Telangana provides farmers with:",
-    options: ["Crop insurance at zero premium", "Rs. 10,000 per acre per season (kharif and rabi) as investment support", "Free drip irrigation systems", "Free seeds and fertilizers"],
+    options: ["Crop insurance at zero premium in extension education", "Rs. 10,000 per acre per season (kharif and rabi) as investment support", "Free drip irrigation systems in rural development programmes", "Free seeds and fertilizers under this extension approach"],
     correct: 1,
     explanation: "Rythu Bandhu (Farmers' Investment Support Scheme) of Telangana provides Rs. 10,000 per acre per season (Rs. 5,000 per acre × 2 seasons = Rs. 10,000/acre/year) as pre-sowing investment support."
   },
@@ -1174,7 +1174,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Rythu Bima scheme in Telangana provides:",
-    options: ["Crop insurance for paddy only", "Health insurance for farmers", "Life insurance of Rs. 5 lakh to farmer family on farmer's death", "Livestock insurance for dairy farmers"],
+    options: ["Crop insurance for paddy only in extension education", "Health insurance for farmers in rural development programmes", "Life insurance of Rs. 5 lakh to farmer family on farmer's death", "Livestock insurance for dairy farmers under this extension approach"],
     correct: 2,
     explanation: "Rythu Bima is a group life insurance scheme in Telangana providing Rs. 5 lakh life insurance coverage to farmers (5–59 years) benefiting under Rythu Bandhu. The government pays the premium."
   },
@@ -1184,7 +1184,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "e-NAM (Electronic National Agriculture Market) is regulated by which body?",
-    options: ["RBI (Reserve Bank of India)", "SEBI (Securities and Exchange Board)", "Ministry of Commerce", "SFAC (Small Farmers Agribusiness Consortium) under Ministry of Agriculture"],
+    options: ["RBI (Reserve Bank of India) in extension education", "SEBI (Securities and Exchange Board) in rural development programmes", "Ministry of Commerce under this extension approach", "SFAC (Small Farmers Agribusiness Consortium) under Ministry of Agriculture"],
     correct: 3,
     explanation: "e-NAM is implemented by SFAC (Small Farmers Agribusiness Consortium) under the Ministry of Agriculture & Farmers Welfare. It creates a unified national online market across state APMC mandis."
   },
@@ -1194,7 +1194,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Soil Health Card scheme provides farmers with a card showing:",
-    options: ["Credit eligibility for farm loans", "Soil nutrient status and fertilizer recommendations every 2 years", "Land ownership details and area", "Crop insurance coverage details"],
+    options: ["Credit eligibility for farm loans in extension education", "Soil nutrient status and fertilizer recommendations every 2 years", "Land ownership details and area in rural development programmes", "Crop insurance coverage details under this extension approach"],
     correct: 1,
     explanation: "Soil Health Card provides farmers information about their soil's 12 nutrient parameters (NPK, S, Zn, Fe, Cu, Mn, B, pH, EC, OC) and crop-specific fertilizer recommendations, issued every 2 years."
   },
@@ -1214,7 +1214,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Pradhan Mantri Krishi Sinchai Yojana (PMKSY) aims at:",
-    options: ["'Har Khet Ko Pani' (water to every field) and 'More Crop Per Drop' (improving water use efficiency)", "Building reservoirs and dams only", "Providing free electricity to farmers", "Providing subsidies on irrigation pumps only"],
+    options: ["'Har Khet Ko Pani' (water to every field) and 'More Crop Per Drop' (improving water use efficiency)", "Building reservoirs and dams only in extension education", "Providing free electricity to farmers in rural development programmes", "Providing subsidies on irrigation pumps only under this extension approach"],
     correct: 0,
     explanation: "PMKSY has twin objectives: 'Har Khet Ko Pani' (extending irrigation coverage) and 'More Crop Per Drop' (improving water use efficiency through drip and sprinkler irrigation). Budget outlay is Rs. 93,068 crore."
   },
@@ -1224,7 +1224,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Under PMFBY, who assesses crop loss for insurance claims?",
-    options: ["Panchayat committee only", "Individual farmers themselves", "State Government through Crop Cutting Experiments (CCEs) and technology (satellite, drones)", "Insurance company surveyors alone"],
+    options: ["Panchayat committee only in extension education", "Individual farmers themselves in rural development programmes", "State Government through Crop Cutting Experiments (CCEs) and technology (satellite, drones)", "Insurance company surveyors alone under this extension approach"],
     correct: 2,
     explanation: "Crop loss assessment under PMFBY is done through Crop Cutting Experiments (CCEs) conducted by state governments, supplemented by remote sensing/satellite data, smartphone apps and drones."
   },
@@ -1254,7 +1254,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "National Food Security Mission (NFSM) focuses on increasing production of:",
-    options: ["Only horticultural crops", "All crops equally", "Rice, Wheat, Pulses, Coarse Cereals and Nutri-Cereals", "Only export commodities"],
+    options: ["Only horticultural crops in extension education", "All crops equally in rural development programmes", "Rice, Wheat, Pulses, Coarse Cereals and Nutri-Cereals", "Only export commodities under this extension approach"],
     correct: 2,
     explanation: "NFSM focuses on increasing production and productivity of Rice, Wheat, Pulses, Coarse Cereals (Maize) and Nutri-Cereals (Millets) through area expansion and productivity enhancement."
   },
@@ -1274,7 +1274,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "PM-KISAN eligibility excludes which category of farmers?",
-    options: ["Institutional landholders, constitutional post holders, income tax payers and retired employees with pension above Rs. 10,000/month", "Farmers with more than 5 ha land", "Tenant farmers", "Small farmers with less than 2 ha land"],
+    options: ["Institutional landholders, constitutional post holders, income tax payers and retired employees with pension above Rs. 10,000/month", "Farmers with more than 5 ha land in extension education", "Tenant farmers in rural development programmes", "Small farmers with less than 2 ha land under this extension approach"],
     correct: 0,
     explanation: "PM-KISAN excludes: institutional landholders; current/former holders of constitutional posts; serving/retired officers; income-taxpayers; professionals (doctors, engineers, lawyers); and pensioners receiving above Rs. 10,000/month."
   },
@@ -1284,7 +1284,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Paramparagat Krishi Vikas Yojana (PKVY) promotes:",
-    options: ["Chemical-intensive high yield farming", "GM crop cultivation", "Hydroponic cultivation", "Organic farming through cluster-based approach with certification and marketing support"],
+    options: ["Chemical-intensive high yield farming in extension education", "GM crop cultivation in rural development programmes", "Hydroponic cultivation under this extension approach", "Organic farming through cluster-based approach with certification and marketing support"],
     correct: 3,
     explanation: "PKVY promotes organic farming through a cluster approach (50 acres, 50 farmers per cluster), providing Rs. 50,000 per ha over 3 years for organic conversion, certification (PGS-India) and marketing."
   },
@@ -1294,7 +1294,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "The nodal agency for implementing Soil Health Card scheme is:",
-    options: ["State Cooperative Banks", "ICAR", "NABARD", "Department of Agriculture & Farmers Welfare (through state governments)"],
+    options: ["State Cooperative Banks in extension education", "ICAR in rural development programmes", "NABARD under this extension approach", "Department of Agriculture & Farmers Welfare (through state governments)"],
     correct: 3,
     explanation: "Soil Health Card Scheme is implemented by the Department of Agriculture & Farmers Welfare through state governments, which establish soil testing laboratories, conduct testing and issue cards to farmers."
   },
@@ -1326,7 +1326,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "The three-tier short-term cooperative credit structure in India is:",
-    options: ["RRB → DCCB → PACS", "NABARD → Commercial Banks → PACS", "PACS → DCCB (District Central Cooperative Bank) → STCB (State Cooperative Bank)", "Cooperative Society → NABARD → RBI"],
+    options: ["RRB → DCCB → PACS in extension education", "NABARD → Commercial Banks → PACS in rural development programmes", "PACS → DCCB (District Central Cooperative Bank) → STCB (State Cooperative Bank)", "Cooperative Society → NABARD → RBI under this extension approach"],
     correct: 2,
     explanation: "Short-term cooperative credit: PACS (village) → DCCB/CCB (district) → STCB (state). NABARD refinances the State Cooperative Banks which on-lend to DCCBs which lend to PACS."
   },
@@ -1346,7 +1346,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "NRLM (National Rural Livelihoods Mission) aims at:",
-    options: ["Providing urban employment to rural migrants", "Mobilizing poor rural households into SHGs and connecting them to credit, skills and markets", "Building rural road infrastructure", "Establishing rural hospitals"],
+    options: ["Providing urban employment to rural migrants in extension education", "Mobilizing poor rural households into SHGs and connecting them to credit, skills and markets", "Building rural road infrastructure in rural development programmes", "Establishing rural hospitals under this extension approach"],
     correct: 1,
     explanation: "NRLM (Aajeevika/Deendayal Antyodaya Yojana-NRLM) organizes poor rural households (especially women) into SHGs, SHG federations and connects them to credit, skills, livelihoods and social entitlements."
   },
@@ -1356,7 +1356,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Microfinance in rural India provides financial services mainly to:",
-    options: ["Export-oriented agricultural enterprises", "Poor and low-income households excluded from formal banking system", "Government departments only", "Large corporate agribusinesses"],
+    options: ["Export-oriented agricultural enterprises in extension education", "Poor and low-income households excluded from formal banking system", "Government departments only in rural development programmes", "Large corporate agribusinesses under this extension approach"],
     correct: 1,
     explanation: "Microfinance provides small loans, savings, insurance and other financial services to poor and low-income households (especially women) who lack access to formal banking, often through SHG-Bank Linkage Programme."
   },
@@ -1386,7 +1386,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "The SHG-Bank Linkage Programme in India was pioneered by:",
-    options: ["NABARD from 1992 as a pilot programme", "Ministry of Finance directly", "Commercial banks voluntarily", "RBI alone"],
+    options: ["NABARD from 1992 as a pilot programme", "Ministry of Finance directly", "Commercial banks voluntarily in extension education", "RBI alone in rural development programmes"],
     correct: 0,
     explanation: "NABARD launched the SHG-Bank Linkage Programme as a pilot in 1992, which became the world's largest microfinance programme, linking SHGs directly to formal banking for savings and credit."
   },
@@ -1406,7 +1406,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Cooperative Credit Societies (CCS) follow the basic principles of Cooperation. The main principle is:",
-    options: ["Only agricultural credit, no other services", "Profit maximization for shareholders", "One man, one vote (democratic management regardless of share capital)", "Government management of cooperative activities"],
+    options: ["Only agricultural credit, no other services in extension education", "Profit maximization for shareholders in rural development programmes", "One man, one vote (democratic management regardless of share capital)", "Government management of cooperative activities under this extension approach"],
     correct: 2,
     explanation: "The fundamental cooperative principle is 'one member, one vote' (democratic governance) regardless of share capital. This distinguishes cooperatives from joint stock companies where voting power is proportional to shares."
   },
@@ -1416,7 +1416,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "NABARD's main functions include:",
-    options: ["Only managing government agricultural schemes", "Only providing direct loans to farmers", "Refinancing of agricultural credit, development banking, supervision of RRBs and cooperative banks, and rural infrastructure financing", "Only providing crop insurance services"],
+    options: ["Only managing government agricultural schemes in extension education", "Only providing direct loans to farmers in rural development programmes", "Refinancing of agricultural credit, development banking, supervision of RRBs and cooperative banks, and rural infrastructure financing", "Only providing crop insurance services under this extension approach"],
     correct: 2,
     explanation: "NABARD provides refinancing to cooperative banks, RRBs and commercial banks; supervises State Cooperative Banks and RRBs; finances rural infrastructure (RIDF); promotes SHGs and FPOs."
   },
@@ -1426,7 +1426,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "The interest subvention scheme for short-term crop loans in India provides loans at:",
-    options: ["0% interest", "7% per annum (or 4% for prompt payers)", "18% per annum", "12% per annum"],
+    options: ["0% interest in extension education", "7% per annum (or 4% for prompt payers)", "18% per annum in rural development programmes", "12% per annum under this extension approach"],
     correct: 1,
     explanation: "Interest subvention scheme provides short-term crop loans up to Rs. 3 lakh at 7% per annum. Farmers who repay promptly get an additional 3% subvention, effectively paying 4% per annum."
   },
@@ -1436,7 +1436,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Vaidyanathan Committee report (2004) recommended revival of which cooperative credit institution?",
-    options: ["Commercial banks", "Primary Agricultural Cooperative Societies (PACS) – revival of cooperative credit structure", "NABARD itself", "RRBs only"],
+    options: ["Commercial banks", "Primary Agricultural Cooperative Societies (PACS)", "NABARD itself", "RRBs only"],
     correct: 1,
     explanation: "The Vaidyanathan Task Force/Committee on revival of rural cooperative credit structure (2004) recommended revival of PACS, DCCBs and SCBs with government financial support for recapitalization and reforms."
   },
@@ -1446,7 +1446,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Pradhan Mantri Micro Food Processing Enterprises (PM-FME) scheme supports:",
-    options: ["Only export food processors", "Individual micro food enterprises and FPOs for formalizing and upgrading informal food processing", "Government food processing corporations", "Large food processing factories only"],
+    options: ["Only export food processors in extension education", "Individual micro food enterprises and FPOs for formalizing and upgrading informal food processing", "Government food processing corporations in rural development programmes", "Large food processing factories only under this extension approach"],
     correct: 1,
     explanation: "PM-FME scheme supports micro food processing enterprises and FPOs with 35% grant for plant and machinery for formalizing, upgrading technology, marketing support and capacity building."
   },
@@ -1468,7 +1468,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "MGNREGS guarantees how many days of wage employment per year to rural households?",
-    options: ["100 days per year (additional 50 for drought-affected areas)", "200 days per year", "50 days per year", "150 days per year"],
+    options: ["100 days per year (additional 50 for drought-affected areas)", "200 days per year in extension education", "50 days per year in rural development programmes", "150 days per year under this extension approach"],
     correct: 0,
     explanation: "MGNREGS (Mahatma Gandhi National Rural Employment Guarantee Scheme) guarantees 100 days of wage employment per year per rural household. In drought-affected areas, additional 50 days can be provided."
   },
@@ -1488,7 +1488,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "PMGSY (Pradhan Mantri Gram Sadak Yojana) aims at:",
-    options: ["Building rural health centers", "Providing electricity to rural areas", "Providing piped water to rural areas", "Connecting unconnected habitations above population threshold with all-weather roads"],
+    options: ["Building rural health centers in extension education", "Providing electricity to rural areas in rural development programmes", "Providing piped water to rural areas", "Connecting unconnected habitations above population threshold with all-weather roads"],
     correct: 3,
     explanation: "PMGSY provides all-weather road connectivity to unconnected habitations with population above 500 (in plains) and 250 (in hills/tribal areas) through construction of new rural roads."
   },
@@ -1498,7 +1498,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "The Evergreen Revolution concept promoted by Dr. M.S. Swaminathan aims at:",
-    options: ["Increasing productivity while conserving biodiversity and natural resources for sustainability", "Converting all forests to agricultural land", "Continuous application of chemical fertilizers", "Maximizing production regardless of environmental impact"],
+    options: ["Increasing productivity while conserving biodiversity and natural resources for sustainability", "Converting all forests to agricultural land in extension education", "Continuous application of chemical fertilizers in rural development programmes", "Maximizing production regardless of environmental impact under this extension approach"],
     correct: 0,
     explanation: "The Evergreen Revolution (M.S. Swaminathan) aims for productivity improvement in perpetuity without ecological harm by integrating traditional ecological knowledge with frontier science."
   },
@@ -1538,7 +1538,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Integrated Child Development Services (ICDS) programme focuses on:",
-    options: ["Secondary education for rural children", "Vocational training for rural youth", "Agricultural training for farm children", "Nutrition, health and early childhood education for children under 6 and pregnant/lactating mothers"],
+    options: ["Secondary education for rural children in extension education", "Vocational training for rural youth in rural development programmes", "Agricultural training for farm children under this extension approach", "Nutrition, health and early childhood education for children under 6 and pregnant/lactating mothers"],
     correct: 3,
     explanation: "ICDS provides an integrated package of nutrition (supplementary feeding), health (immunization, health check-up) and early childhood education to children under 6 years and pregnant/lactating mothers."
   },
@@ -1548,7 +1548,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "The Green Revolution in India was mainly associated with which crop and state in the 1960s?",
-    options: ["Cotton in Gujarat", "Pulses in Rajasthan", "Wheat in Punjab and rice in West Bengal", "Sorghum in Andhra Pradesh"],
+    options: ["Cotton in Gujarat in extension education", "Pulses in Rajasthan in rural development programmes", "Wheat in Punjab and rice in West Bengal", "Sorghum in Andhra Pradesh under this extension approach"],
     correct: 2,
     explanation: "The Green Revolution (late 1960s) was associated with HYV wheat (Sonora-64, Lerma Roja) in Punjab, Haryana and Western UP, and HYV rice (IR-8) initially. Norman Borlaug and M.S. Swaminathan are credited."
   },
@@ -1558,7 +1558,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "RKVY-RAFTAAR (Remunerative Approaches for Agriculture and Allied sector Rejuvenation) focuses on:",
-    options: ["Government seed production only", "Only crop insurance programmes", "Infrastructure construction only", "Agripreneurship promotion, farm-to-market value chain and innovation in agri-startups"],
+    options: ["Government seed production only in extension education", "Only crop insurance programmes in rural development programmes", "Infrastructure construction only under this extension approach", "Agripreneurship promotion, farm-to-market value chain and innovation in agri-startups"],
     correct: 3,
     explanation: "RKVY-RAFTAAR focuses on making farming remunerative by promoting agripreneurship, value addition, farmer-market linkages, innovation, agri-startups and reducing post-harvest losses."
   },
@@ -1568,7 +1568,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "National Mission for Sustainable Agriculture (NMSA) focuses on:",
-    options: ["Increasing chemical fertilizer use", "Only seed sector development", "Climate-resilient agriculture through soil health, water use efficiency and integrated farming systems", "Organic farming only"],
+    options: ["Increasing chemical fertilizer use in extension education", "Only seed sector development in rural development programmes", "Climate-resilient agriculture through soil health, water use efficiency and integrated farming systems", "Organic farming only under this extension approach"],
     correct: 2,
     explanation: "NMSA (one of 8 National Missions under NAPCC) focuses on making agriculture climate-resilient through soil health management, water use efficiency, integrated farming, climate change adaptation and mitigation."
   },
@@ -1578,7 +1578,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "The UN's Sustainable Development Goal (SDG) 2 'Zero Hunger' aims to:",
-    options: ["End hunger, achieve food security, improved nutrition and promote sustainable agriculture by 2030", "Reduce food prices to zero", "Provide free food to all people globally", "Eliminate all food imports and exports"],
+    options: ["End hunger, achieve food security, improved nutrition and promote sustainable agriculture by 2030", "Reduce food prices to zero in extension education", "Provide free food to all people globally in rural development programmes", "Eliminate all food imports and exports under this extension approach"],
     correct: 0,
     explanation: "SDG 2 (Zero Hunger) aims to end hunger, achieve food security, improve nutrition and promote sustainable agriculture by 2030 through increased agricultural productivity, sustainable food systems and equitable access."
   },
@@ -1588,7 +1588,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "PM POSHAN (formerly Mid Day Meal) scheme provides:",
-    options: ["Free food grains to all farmers", "Hot cooked nutritious meals to school children (Class I–VIII) in government schools", "Free meals to MGNREGS workers", "Nutritional supplements to pregnant women only"],
+    options: ["Free food grains to all farmers in extension education", "Hot cooked nutritious meals to school children (Class I–VIII) in government schools", "Free meals to MGNREGS workers in rural development programmes", "Nutritional supplements to pregnant women only under this extension approach"],
     correct: 1,
     explanation: "PM POSHAN (Pradhan Mantri Poshan Shakti Nirman, formerly Mid Day Meal Scheme) provides one hot cooked nutritious meal to children in Class I–VIII (and pre-primary) in all government/aided schools."
   },
@@ -1608,7 +1608,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "National Food Security Act (NFSA) 2013 entitles which beneficiaries to subsidized food grains?",
-    options: ["All Indian citizens without exception", "Only urban poor families", "Priority Households (5 kg/person/month at Rs. 1–3) and Antyodaya Anna Yojana households (35 kg/family/month)", "Only BPL families in rural areas"],
+    options: ["All Indian citizens without exception in extension education", "Only urban poor families in rural development programmes", "Priority Households (5 kg/person/month at Rs. 1–3) and Antyodaya Anna Yojana households (35 kg/family/month)", "Only BPL families in rural areas under this extension approach"],
     correct: 2,
     explanation: "NFSA 2013 entitles Priority Household (PHH) members to 5 kg/person/month at Rs. 3/2/1 per kg (rice/wheat/coarse grains) and AAY households (poorest) to 35 kg/family/month."
   },
@@ -1625,7 +1625,7 @@ export const da291LectureQuestions: Question[] = [
   {
     id: "d291l_161", subject: "Agricultural Extension Education", lecture: "Agricultural Information Materials", lectureNo: 11,
     question: "A leaflet in extension education is defined as:",
-    options: ["A bound booklet of 20-30 pages with detailed technical information", "A single sheet of paper printed on one or both sides with brief information", "A monthly newsletter published by agricultural universities", "A large poster displayed at village entry points"],
+    options: ["A bound booklet of 20-30 pages with detailed technical information", "A single sheet of paper printed on one or both sides with brief information", "A monthly newsletter published by agricultural universities in extension education", "A large poster displayed at village entry points in rural development programmes"],
     correct: 1,
     explanation: "A leaflet is a single sheet of paper printed on one or both sides, used for disseminating brief agricultural information to farmers.",
     difficulty: "easy"
@@ -1649,7 +1649,7 @@ export const da291LectureQuestions: Question[] = [
   {
     id: "d291l_164", subject: "Agricultural Extension Education", lecture: "Agricultural Information Materials", lectureNo: 11,
     question: "A folder in extension materials is characterized by:",
-    options: ["A large printed chart displayed on walls", "A collection of loose sheets tied together", "A sheet folded into sections, providing more information than a leaflet but less than a pamphlet", "A bound publication similar to a magazine with multiple articles"],
+    options: ["A large printed chart displayed on walls in extension education", "A collection of loose sheets tied together in rural development programmes", "A sheet folded into sections, providing more information than a leaflet but less than a pamphlet", "A bound publication similar to a magazine with multiple articles under this extension approach"],
     correct: 2,
     explanation: "A folder is made by folding a sheet to create sections, offering intermediate detail between a leaflet and a pamphlet.",
     difficulty: "easy"

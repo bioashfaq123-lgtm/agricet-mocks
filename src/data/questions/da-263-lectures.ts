@@ -159,7 +159,7 @@ export const da263LectureQuestions: Question[] = [
   },  {
     id: "d263l_023", subject: "english-communication", lecture: "lecture-3", lectureNo: 3,
     question: "Reading comprehension tests the ability to:",
-    options: ["Understand and interpret a given passage", "Speak fluently", "Write essays", "Translate languages"],
+    options: ["Understand and interpret a given passage", "Speak fluently in everyday communication", "Write essays in formal language use", "Translate languages for language development"],
     correct: 0,
     explanation: "Reading comprehension assesses understanding of written text — main idea, details, inference, and vocabulary.",
     difficulty: "easy"
@@ -180,7 +180,7 @@ export const da263LectureQuestions: Question[] = [
   },  {
     id: "d263l_026", subject: "english-communication", lecture: "lecture-3", lectureNo: 3,
     question: "The meaning of 'indigenous' in agriculture is:",
-    options: ["Foreign or imported", "Naturally occurring or native to a region", "Synthetic or artificial", "Expensive"],
+    options: ["Foreign or imported in everyday communication", "Naturally occurring or native to a region", "Synthetic or artificial in formal language use", "Expensive for language development"],
     correct: 1,
     explanation: "'Indigenous' means native/originating naturally in a particular region — e.g., indigenous crop varieties.",
     difficulty: "medium"
@@ -201,28 +201,28 @@ export const da263LectureQuestions: Question[] = [
   },  {
     id: "d263l_029", subject: "english-communication", lecture: "lecture-3", lectureNo: 3,
     question: "Skimming a text means:",
-    options: ["Reading backwards", "Reading aloud", "Reading quickly to get the general idea or main points", "Reading every word carefully"],
+    options: ["Reading backwards in everyday communication", "Reading aloud in formal language use", "Reading quickly to get the general idea or main points", "Reading every word carefully for language development"],
     correct: 2,
     explanation: "Skimming is a rapid reading technique to get the gist or main ideas without reading every word.",
     difficulty: "easy"
   },  {
     id: "d263l_030", subject: "english-communication", lecture: "lecture-3", lectureNo: 3,
     question: "Scanning a text means:",
-    options: ["Reading every word slowly", "Avoiding difficult words", "Reading quickly to find specific information (dates, names, figures)", "Reading for general meaning"],
+    options: ["Reading every word slowly", "Avoiding difficult words", "Reading quickly to find specific information", "Reading for general meaning"],
     correct: 2,
     explanation: "Scanning is a technique to locate specific information quickly without reading the whole text.",
     difficulty: "easy"
   },  {
     id: "d263l_031", subject: "english-communication", lecture: "lecture-3", lectureNo: 3,
     question: "The word 'precipitation' in a weather report refers to:",
-    options: ["Wind speed", "Humidity level", "Any form of water falling from the atmosphere (rain, snow, hail)", "Temperature"],
+    options: ["Wind speed in everyday communication", "Humidity level in formal language use", "Any form of water falling from the atmosphere (rain, snow, hail)", "Temperature for language development"],
     correct: 2,
     explanation: "Precipitation is any form of water (rain, snow, drizzle) falling from clouds.",
     difficulty: "medium"
   },  {
     id: "d263l_032", subject: "english-communication", lecture: "lecture-3", lectureNo: 3,
     question: "The word 'arid' means:",
-    options: ["Extremely dry (little or no rainfall)", "Moderate climate", "Very cold", "Very wet"],
+    options: ["Extremely dry (little or no rainfall)", "Moderate climate in everyday communication", "Very cold in formal language use", "Very wet for language development"],
     correct: 0,
     explanation: "'Arid' describes a climate or land with very little rainfall and sparse vegetation.",
     difficulty: "easy"
@@ -243,35 +243,35 @@ export const da263LectureQuestions: Question[] = [
   },  {
     id: "d263l_035", subject: "english-communication", lecture: "lecture-4", lectureNo: 4,
     question: "The complimentary close of a formal letter is:",
-    options: ["Cheers,", "With love,", "Yours faithfully / Yours sincerely,", "See you,"],
+    options: ["Cheers, in everyday communication", "With love,", "Yours faithfully / Yours sincerely,", "See you,"],
     correct: 2,
     explanation: "'Yours faithfully' (unknown recipient) or 'Yours sincerely' (known recipient) close formal letters.",
     difficulty: "easy"
   },  {
     id: "d263l_036", subject: "english-communication", lecture: "lecture-4", lectureNo: 4,
     question: "An application letter for a job should include:",
-    options: ["Complaints about other candidates", "Personal gossip", "Applicant's qualifications, experience, and why they are suitable for the post", "Irrelevant personal information"],
+    options: ["Complaints about other candidates in everyday communication", "Personal gossip in formal language use", "Applicant's qualifications, experience, and why they are suitable for the post", "Irrelevant personal information for language development"],
     correct: 2,
     explanation: "A job application letter highlights relevant qualifications, skills, and experience matching the job requirements.",
     difficulty: "easy"
   },  {
     id: "d263l_037", subject: "english-communication", lecture: "lecture-4", lectureNo: 4,
     question: "A report is a formal document that:",
-    options: ["Is written informally like a diary", "Presents information, findings, or recommendations in a structured format", "Has no headings", "Contains only opinions"],
+    options: ["Is written informally like a diary", "Presents information, findings, or recommendations in a structured format", "Has no headings in everyday communication", "Contains only opinions in formal language use"],
     correct: 1,
     explanation: "A report presents factual information, analysis, and conclusions in an organized structure for decision-making.",
     difficulty: "easy"
   },  {
     id: "d263l_038", subject: "english-communication", lecture: "lecture-4", lectureNo: 4,
     question: "Which part of a report states the purpose of the report?",
-    options: ["Conclusion", "Introduction / Terms of Reference", "Bibliography", "Appendix"],
+    options: ["Conclusion in everyday communication", "Introduction / Terms of Reference", "Bibliography in formal language use", "Appendix for language development"],
     correct: 1,
     explanation: "The Introduction (or Terms of Reference) explains the purpose, scope, and background of the report.",
     difficulty: "medium"
   },  {
     id: "d263l_039", subject: "english-communication", lecture: "lecture-4", lectureNo: 4,
     question: "The 'subject line' in a formal letter or email:",
-    options: ["Identifies the topic/purpose of the communication concisely", "Is the greeting", "Lists the enclosures", "Is the sender's address"],
+    options: ["Identifies the topic/purpose of the communication concisely", "Is the greeting in everyday communication", "Lists the enclosures in formal language use", "Is the sender's address"],
     correct: 0,
     explanation: "The subject line gives a brief description of the topic so the reader knows the purpose at a glance.",
     difficulty: "easy"
@@ -285,14 +285,14 @@ export const da263LectureQuestions: Question[] = [
   },  {
     id: "d263l_041", subject: "english-communication", lecture: "lecture-4", lectureNo: 4,
     question: "A complaint letter should be:",
-    options: ["Polite, factual, and clearly state the problem and desired resolution", "Aggressive and threatening", "Long and filled with personal opinions", "Humorous"],
+    options: ["Polite, factual, and clearly state the problem and desired resolution", "Aggressive and threatening in everyday communication", "Long and filled with personal opinions", "Humorous in formal language use"],
     correct: 0,
     explanation: "Effective complaint letters are firm but polite, state facts clearly, and request specific remedial action.",
     difficulty: "easy"
   },  {
     id: "d263l_042", subject: "english-communication", lecture: "lecture-4", lectureNo: 4,
     question: "An official circular is issued to:",
-    options: ["Foreign organizations", "A group of people within an organization informing them of policy/decisions", "One person only", "Unknown public"],
+    options: ["Foreign organizations in everyday communication", "A group of people within an organization informing them of policy/decisions", "One person only in formal language use", "Unknown public for language development"],
     correct: 1,
     explanation: "A circular is an official communication distributed to multiple people within or across departments.",
     difficulty: "easy"
@@ -313,7 +313,7 @@ export const da263LectureQuestions: Question[] = [
   },  {
     id: "d263l_045", subject: "english-communication", lecture: "lecture-5", lectureNo: 5,
     question: "A complex sentence contains:",
-    options: ["Only subordinate clauses", "One main clause and one or more subordinate clauses", "Two independent clauses joined by 'and'", "Only a main clause"],
+    options: ["Only subordinate clauses in everyday communication", "One main clause and one or more subordinate clauses", "Two independent clauses joined by 'and'", "Only a main clause in formal language use"],
     correct: 1,
     explanation: "A complex sentence has one main (independent) clause and at least one dependent (subordinate) clause.",
     difficulty: "medium"
@@ -369,35 +369,35 @@ export const da263LectureQuestions: Question[] = [
   },  {
     id: "d263l_053", subject: "english-communication", lecture: "lecture-6", lectureNo: 6,
     question: "Communication is effective when:",
-    options: ["It uses technical jargon always", "Only the sender speaks", "It is very long and detailed", "The message is clearly understood by the receiver as intended"],
+    options: ["It uses technical jargon always in everyday communication", "Only the sender speaks in formal language use", "It is very long and detailed for language development", "The message is clearly understood by the receiver as intended"],
     correct: 3,
     explanation: "Effective communication ensures the message sent by the sender is received and understood correctly by the receiver.",
     difficulty: "easy"
   },  {
     id: "d263l_054", subject: "english-communication", lecture: "lecture-6", lectureNo: 6,
     question: "Non-verbal communication includes:",
-    options: ["Body language, gestures, facial expressions", "Emails", "Telephone calls", "Written memos"],
+    options: ["Body language, gestures, facial expressions", "Emails in everyday communication", "Telephone calls", "Written memos"],
     correct: 0,
     explanation: "Non-verbal communication conveys meaning through body language, gestures, eye contact, and tone rather than words.",
     difficulty: "easy"
   },  {
     id: "d263l_055", subject: "english-communication", lecture: "lecture-6", lectureNo: 6,
     question: "Active listening involves:",
-    options: ["Only hearing words", "Paying full attention, understanding, and responding appropriately to the speaker", "Interrupting frequently", "Thinking about other things while someone speaks"],
+    options: ["Only hearing words in everyday communication", "Paying full attention, understanding, and responding appropriately to the speaker", "Interrupting frequently in formal language use", "Thinking about other things while someone speaks"],
     correct: 1,
     explanation: "Active listening is a communication skill requiring full focus, understanding, and thoughtful response.",
     difficulty: "easy"
   },  {
     id: "d263l_056", subject: "english-communication", lecture: "lecture-6", lectureNo: 6,
     question: "Technical writing in agriculture means:",
-    options: ["Writing social media posts", "Creative fiction about farming", "Clear, precise writing for professional/technical audiences (reports, manuals, research papers)", "Writing poetry about crops"],
+    options: ["Writing social media posts", "Creative fiction about farming", "Clear, precise writing for professional/technical audiences", "Writing poetry about crops"],
     correct: 2,
     explanation: "Technical writing communicates complex agricultural or scientific information clearly to a specific audience.",
     difficulty: "easy"
   },  {
     id: "d263l_057", subject: "english-communication", lecture: "lecture-6", lectureNo: 6,
     question: "A curriculum vitae (CV) or resume is used to:",
-    options: ["Apply for loans", "File complaints", "Apply for passports", "Present qualifications, experience, and skills to a potential employer"],
+    options: ["Apply for loans in everyday communication", "File complaints in formal language use", "Apply for passports for language development", "Present qualifications, experience, and skills to a potential employer"],
     correct: 3,
     explanation: "A CV/resume summarizes education, work experience, and skills for job applications.",
     difficulty: "easy"
@@ -411,28 +411,28 @@ export const da263LectureQuestions: Question[] = [
   },  {
     id: "d263l_059", subject: "english-communication", lecture: "lecture-6", lectureNo: 6,
     question: "Feedback in communication is important because:",
-    options: ["It is unnecessary noise", "It confirms whether the message was understood and allows correction of misunderstandings", "It delays the message", "It is only for formal communication"],
+    options: ["It is unnecessary noise in everyday communication", "It confirms whether the message was understood and allows correction of misunderstandings", "It delays the message in formal language use", "It is only for formal communication for language development"],
     correct: 1,
     explanation: "Feedback is the receiver's response that confirms understanding and helps the sender know if communication was effective.",
     difficulty: "easy"
   },  {
     id: "d263l_060", subject: "english-communication", lecture: "lecture-6", lectureNo: 6,
     question: "Group discussion (GD) tests:",
-    options: ["Only English vocabulary", "Communication skills, knowledge, leadership, and team behavior", "Writing ability only", "Listening alone"],
+    options: ["Only English vocabulary in everyday communication", "Communication skills, knowledge, leadership, and team behavior", "Writing ability only in formal language use", "Listening alone for language development"],
     correct: 1,
     explanation: "GD evaluates multiple competencies: subject knowledge, clarity of thought, communication, listening, and teamwork.",
     difficulty: "easy"
   },  {
     id: "d263l_061", subject: "english-communication", lecture: "lecture-6", lectureNo: 6,
     question: "Paragraph writing requires a:",
-    options: ["Only examples", "Topic sentence, supporting details, and a concluding sentence", "List of words", "Random mix of sentences"],
+    options: ["Only examples in everyday communication", "Topic sentence, supporting details, and a concluding sentence", "List of words in formal language use", "Random mix of sentences for language development"],
     correct: 1,
     explanation: "A well-written paragraph has: topic sentence (main idea), supporting sentences (details/examples), and a conclusion.",
     difficulty: "easy"
   },  {
     id: "d263l_062", subject: "english-communication", lecture: "lecture-6", lectureNo: 6,
     question: "Plagiarism in writing means:",
-    options: ["Copying others' work and presenting it as your own without acknowledgment", "Writing original content", "Paraphrasing correctly", "Citing sources properly"],
+    options: ["Copying others' work and presenting it as your own without acknowledgment", "Writing original content in everyday communication", "Paraphrasing correctly in formal language use", "Citing sources properly for language development"],
     correct: 0,
     explanation: "Plagiarism is using someone else's ideas or writing without proper credit — it is considered academic dishonesty.",
     difficulty: "easy"
@@ -453,14 +453,14 @@ export const da263LectureQuestions: Question[] = [
   },  {
     id: "d263l_065", subject: "english-communication", lecture: "lecture-7", lectureNo: 7,
     question: "The idiom 'to beat around the bush' means:",
-    options: ["To work very hard", "To garden around trees", "To avoid coming directly to the point", "To hunt animals"],
+    options: ["To work very hard", "To garden around trees", "To avoid coming directly to the point", "To hunt animals in everyday communication"],
     correct: 2,
     explanation: "'Beat around the bush' means to avoid the main topic or to speak indirectly about something.",
     difficulty: "easy"
   },  {
     id: "d263l_066", subject: "english-communication", lecture: "lecture-7", lectureNo: 7,
     question: "'Actions speak louder than words' means:",
-    options: ["Always shout your actions", "What you do is more significant than what you say", "Physical actions make noise", "Words are always powerful"],
+    options: ["Always shout your actions in everyday communication", "What you do is more significant than what you say", "Physical actions make noise in formal language use", "Words are always powerful for language development"],
     correct: 1,
     explanation: "This proverb means that what a person actually does is more important than what they claim to do.",
     difficulty: "easy"
@@ -474,7 +474,7 @@ export const da263LectureQuestions: Question[] = [
   },  {
     id: "d263l_068", subject: "english-communication", lecture: "lecture-7", lectureNo: 7,
     question: "Which sentence uses 'affect' and 'effect' correctly?",
-    options: ["The drought effected the crops badly.", "The drought affected the effect.", "Effect of drought affected the crops.", "The drought affected the crops, and the effect was a poor harvest."],
+    options: ["The drought effected the crops badly. in everyday communication", "The drought affected the effect. in formal language use", "Effect of drought affected the crops. for language development", "The drought affected the crops, and the effect was a poor harvest."],
     correct: 3,
     explanation: "'Affect' (verb) = to influence; 'Effect' (noun) = the result. 'The drought affected the crops, and the effect was a poor harvest.'",
     difficulty: "medium"
@@ -488,7 +488,7 @@ export const da263LectureQuestions: Question[] = [
   },  {
     id: "d263l_070", subject: "english-communication", lecture: "lecture-7", lectureNo: 7,
     question: "Identify the error: 'He didn't went to the field today.'",
-    options: ["'He' should be 'She'", "No error", "'today' should be 'yesterday'", "'went' should be 'go' (didn't + base verb)"],
+    options: ["'He' should be 'She' in everyday communication", "No error in formal language use", "'today' should be 'yesterday' for language development", "'went' should be 'go' (didn't + base verb)"],
     correct: 3,
     explanation: "After 'didn't', use the base form of the verb: 'He didn't go to the field today.'",
     difficulty: "easy"
@@ -794,7 +794,7 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_112", subject: "english-communication", lecture: "lecture-7", lectureNo: 7,
     question: "Identify the error in: The committee have decided to postpone their meeting.",
-    options: ["decided should be decide", "committee should be followed by has as it acts as one body", "No error — committee is always plural", "their should be its"],
+    options: ["decided should be decide in everyday communication", "committee should be followed by has as it acts as one body", "No error — committee is always plural in formal language use", "their should be its for language development"],
     correct: 1,
     explanation: "When a collective noun acts as a single unit, it takes a singular verb. The committee has decided is correct.",
     difficulty: "medium"
@@ -882,7 +882,7 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_123", subject: "english-communication", lecture: "lecture-8", lectureNo: 8,
     question: "In reading comprehension, skimming means:",
-    options: ["Reading aloud", "Reading to find specific information", "Reading every word carefully", "Reading quickly to get the main idea"],
+    options: ["Reading aloud in everyday communication", "Reading to find specific information", "Reading every word carefully", "Reading quickly to get the main idea"],
     correct: 3,
     explanation: "Skimming is reading quickly to get the gist or main idea of a text without reading every word.",
     difficulty: "easy"
@@ -1026,7 +1026,7 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_141", subject: "english-communication", lecture: "lecture-10", lectureNo: 10,
     question: "Which best defines communication?",
-    options: ["Written messages only", "One-way transmission of information", "Use of technology to send data", "Exchange of information, ideas, or feelings between individuals"],
+    options: ["Written messages only in everyday communication", "One-way transmission of information in formal language use", "Use of technology to send data", "Exchange of information, ideas, or feelings between individuals"],
     correct: 3,
     explanation: "Communication is the process of exchanging information, ideas, thoughts, or feelings between sender and receiver.",
     difficulty: "easy"
@@ -1042,7 +1042,7 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_143", subject: "english-communication", lecture: "lecture-10", lectureNo: 10,
     question: "Noise in communication refers to:",
-    options: ["Any barrier that interferes with the message", "Radio static only", "Loud sounds only", "Volume of speech"],
+    options: ["Any barrier that interferes with the message", "Radio static only in everyday communication", "Loud sounds only in formal language use", "Volume of speech for language development"],
     correct: 0,
     explanation: "In communication theory, noise means any interference (physical, psychological, or semantic) that distorts the message.",
     difficulty: "medium"
@@ -1138,7 +1138,7 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_155", subject: "english-communication", lecture: "lecture-8", lectureNo: 8,
     question: "The correct meaning of burn the midnight oil is:",
-    options: ["Waste fuel", "Cause fire hazard", "Waste energy", "Work or study late at night"],
+    options: ["Waste fuel in everyday communication", "Cause fire hazard", "Waste energy in formal language use", "Work or study late at night"],
     correct: 3,
     explanation: "Burn the midnight oil means to work or study very late into the night.",
     difficulty: "medium"
@@ -1202,7 +1202,7 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_163", subject: "english-communication", lecture: "lecture-7", lectureNo: 7,
     question: "The word perennial when used in farming means:",
-    options: ["Growing year after year without replanting", "Seasonal crop", "Grown once", "Lasting only one season"],
+    options: ["Growing year after year without replanting", "Seasonal crop in everyday communication", "Grown once in formal language use", "Lasting only one season"],
     correct: 0,
     explanation: "A perennial crop (sugarcane, banana, coconut) lives for more than two years, growing year after year.",
     difficulty: "medium"
@@ -1218,7 +1218,7 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_165", subject: "english-communication", lecture: "lecture-9", lectureNo: 9,
     question: "What is the purpose of a notice in official communication?",
-    options: ["To express gratitude", "To provide detailed explanation of a topic", "To seek information from an organization", "To inform a specific group about an event or decision"],
+    options: ["To express gratitude in everyday communication", "To provide detailed explanation of a topic", "To seek information from an organization in formal language use", "To inform a specific group about an event or decision"],
     correct: 3,
     explanation: "A notice is used to officially inform a group of people about an upcoming event, meeting, or policy change.",
     difficulty: "easy"
@@ -1234,7 +1234,7 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_167", subject: "english-communication", lecture: "lecture-10", lectureNo: 10,
     question: "Oral presentations differ from written reports because they:",
-    options: ["Are less formal", "Are always shorter", "Use visual aids and allow immediate audience feedback", "Contain more data"],
+    options: ["Are less formal in everyday communication", "Are always shorter in formal language use", "Use visual aids and allow immediate audience feedback", "Contain more data for language development"],
     correct: 2,
     explanation: "Oral presentations are interactive — they use visual aids and allow real-time audience questions and feedback.",
     difficulty: "medium"
@@ -1274,7 +1274,7 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_172", subject: "english-communication", lecture: "lecture-8", lectureNo: 8,
     question: "The word infer means:",
-    options: ["Draw a conclusion from evidence", "State directly", "Repeat", "Disagree with"],
+    options: ["Draw a conclusion from evidence", "State directly", "Repeat in everyday communication", "Disagree with"],
     correct: 0,
     explanation: "To infer is to reach a conclusion based on evidence and reasoning, not explicitly stated.",
     difficulty: "medium"
@@ -1282,7 +1282,7 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_173", subject: "english-communication", lecture: "lecture-9", lectureNo: 9,
     question: "The minutes of a meeting record:",
-    options: ["Discussion points, decisions made, and action items", "Only the agenda items", "Only the names of attendees", "Financial reports"],
+    options: ["Discussion points, decisions made, and action items", "Only the agenda items", "Only the names of attendees", "Financial reports in everyday communication"],
     correct: 0,
     explanation: "Minutes of a meeting are official records of discussion points, decisions taken, and action items to be followed up.",
     difficulty: "easy"
@@ -1306,7 +1306,7 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_176", subject: "english-communication", lecture: "lecture-6", lectureNo: 6,
     question: "What is a gerund?",
-    options: ["A verb form ending in -ing used as a noun", "An adverb derived from a verb", "A verb in past tense", "A verb used as an adjective"],
+    options: ["A verb form ending in -ing used as a noun", "An adverb derived from a verb in everyday communication", "A verb in past tense in formal language use", "A verb used as an adjective for language development"],
     correct: 0,
     explanation: "A gerund is a verb form ending in -ing that functions as a noun (e.g., Farming is a noble profession).",
     difficulty: "medium"
@@ -1354,7 +1354,7 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_182", subject: "english-communication", lecture: "lecture-9", lectureNo: 9,
     question: "The primary function of the introduction in a speech is to:",
-    options: ["Give conclusions", "Gain attention and state the purpose", "Present supporting evidence", "Summarize the speech"],
+    options: ["Give conclusions in everyday communication", "Gain attention and state the purpose", "Present supporting evidence", "Summarize the speech"],
     correct: 1,
     explanation: "The introduction should capture audience attention, establish credibility, and clearly state the topic and purpose.",
     difficulty: "easy"
@@ -1370,7 +1370,7 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_184", subject: "english-communication", lecture: "lecture-10", lectureNo: 10,
     question: "Parallelism in writing means:",
-    options: ["Using the same grammatical structure for similar elements", "Comparing two subjects directly", "Writing long parallel paragraphs", "Writing two opposing ideas"],
+    options: ["Using the same grammatical structure for similar elements", "Comparing two subjects directly in everyday communication", "Writing long parallel paragraphs in formal language use", "Writing two opposing ideas for language development"],
     correct: 0,
     explanation: "Parallelism maintains consistent grammatical form in lists. The farmer ploughs, sows, and harvests — all verbs in same tense.",
     difficulty: "medium"
@@ -1386,7 +1386,7 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_186", subject: "english-communication", lecture: "lecture-8", lectureNo: 8,
     question: "Arable in farming refers to land that is:",
-    options: ["Suitable for ploughing and growing crops", "Waterlogged and unfit", "Grassland for grazing", "Forest land"],
+    options: ["Suitable for ploughing and growing crops", "Waterlogged and unfit", "Grassland for grazing", "Forest land in everyday communication"],
     correct: 0,
     explanation: "Arable land is land suitable for ploughing and growing crops — from Latin arare meaning to plough.",
     difficulty: "medium"
@@ -1434,7 +1434,7 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_192", subject: "english-communication", lecture: "lecture-10", lectureNo: 10,
     question: "Agricultural extension means:",
-    options: ["Taking education and information to farmers in rural areas", "Expanding farm land boundaries", "Building agricultural institutions", "Extending the sowing season"],
+    options: ["Taking education and information to farmers in rural areas", "Expanding farm land boundaries in everyday communication", "Building agricultural institutions in formal language use", "Extending the sowing season for language development"],
     correct: 0,
     explanation: "Agricultural extension refers to transferring knowledge, skills, and technology from research institutions to farmers in rural areas.",
     difficulty: "easy"

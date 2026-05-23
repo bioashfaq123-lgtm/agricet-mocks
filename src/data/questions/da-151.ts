@@ -901,7 +901,7 @@ export const da151Questions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Piston rings are usually made of",
-    options: ["aluminum alloy", "copper", "cast iron or pressed steel alloy", "drop forged steel"],
+    options: ["aluminum alloy in crop production", "copper in field conditions", "cast iron or pressed steel alloy", "drop forged steel"],
     correct: 2,
     explanation: "As per DA-151 notes: Piston rings are usually made of cast iron or pressed steel alloy."
   },
@@ -921,7 +921,7 @@ export const da151Questions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The crankshaft is usually made of",
-    options: ["drop forged steel or cast steel", "copper alloy", "aluminum alloy", "cast iron"],
+    options: ["drop forged steel or cast steel", "copper alloy in crop production", "aluminum alloy in field conditions", "cast iron for agricultural purposes"],
     correct: 0,
     explanation: "As per DA-151 notes: Usually the crankshaft is made of drop forged steel or cast steel."
   },
@@ -951,7 +951,7 @@ export const da151Questions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Timing gear is also called Half time gear because",
-    options: ["camshaft gear has twice as many teeth as crankshaft gear", "it works for half time", "it is half the size", "it has half efficiency"],
+    options: ["camshaft gear has twice as many teeth as crankshaft gear", "it works for half time in crop production", "it is half the size in field conditions", "it has half efficiency for agricultural purposes"],
     correct: 0,
     explanation: "As per DA-151 notes: Camshaft gear has twice as many teeth as crankshaft gear, hence commonly called Half time gear."
   },
@@ -991,7 +991,7 @@ export const da151Questions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Scavenging in IC engines refers to",
-    options: ["cooling of cylinder", "removal of burnt exhaust gases from cylinder", "lubrication of parts", "introduction of fresh fuel"],
+    options: ["cooling of cylinder in crop production", "removal of burnt exhaust gases from cylinder", "lubrication of parts in field conditions", "introduction of fresh fuel"],
     correct: 1,
     explanation: "As per DA-151 notes: Scavenging is the process of removal of burnt or exhaust gases from the engine cylinder."
   },
@@ -1041,7 +1041,7 @@ export const da151Questions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Cetane number is the measure of which property?",
-    options: ["Interval between injection and auto-ignition", "Calorific value", "Viscosity", "Boiling point"],
+    options: ["Interval between injection and auto-ignition", "Calorific value", "Viscosity in crop production", "Boiling point"],
     correct: 0,
     explanation: "As per DA-151 notes: Cetane number is the relative measure of the interval between beginning of injection and auto-ignition of fuel."
   },
@@ -1081,7 +1081,7 @@ export const da151Questions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "In the splash lubrication system, the oil is splashed using",
-    options: ["a spray nozzle", "a dipper at the lower end of connecting rod", "an oil fan", "an oil pump"],
+    options: ["a spray nozzle in crop production", "a dipper at the lower end of connecting rod", "an oil fan in field conditions", "an oil pump for agricultural purposes"],
     correct: 1,
     explanation: "As per DA-151 notes: A dipper is provided at the lower end of the connecting rod, which dips into the oil trough and splashes oil."
   },
@@ -1141,7 +1141,7 @@ export const da151Questions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "In air cooled engines, cylinders have fins to",
-    options: ["reduce weight", "strengthen the cylinder", "prevent rusting", "increase area of contact of air for speedy cooling"],
+    options: ["reduce weight in crop production", "strengthen the cylinder in field conditions", "prevent rusting for agricultural purposes", "increase area of contact of air for speedy cooling"],
     correct: 3,
     explanation: "As per DA-151 notes: The cylinder of an air cooled engine has fins to increase the area of contact of air for speedy cooling."
   },
@@ -1221,7 +1221,7 @@ export const da151Questions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Air venting of diesel fuel system is done through",
-    options: ["fuel lift pump", "priming pump through bleeding holes of injection pump", "overflow valve", "main filter"],
+    options: ["fuel lift pump in crop production", "priming pump through bleeding holes of injection pump", "overflow valve in field conditions", "main filter for agricultural purposes"],
     correct: 1,
     explanation: "As per DA-151 notes: Air is removed by the priming pump through the bleeding holes of the injection pump."
   },
@@ -1321,7 +1321,7 @@ export const da151Questions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The piston in petrol engine is preferred to be made of cast iron due to its",
-    options: ["low cost only", "high compressive strength and low expansion", "lightness", "conductivity"],
+    options: ["low cost only", "high compressive strength and low expansion", "lightness in crop production", "conductivity in field conditions"],
     correct: 1,
     explanation: "As per DA-151 notes: Cast iron is chosen for pistons due to high compressive strength, low coefficient of expansion, resistance to high temperature, ease of casting and low cost."
   },
@@ -1331,7 +1331,7 @@ export const da151Questions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Sealing effect of lubrication prevents",
-    options: ["overheating", "friction", "leakage of gases from engine cylinder", "dirt accumulation"],
+    options: ["overheating in crop production", "friction in field conditions", "leakage of gases from engine cylinder", "dirt accumulation for agricultural purposes"],
     correct: 2,
     explanation: "As per DA-151 notes: Sealing effect - lubricant enters gap between cylinder liner, piston and piston rings, preventing leakage of gases from engine cylinder."
   },
@@ -1401,7 +1401,7 @@ export const da151Questions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The function of flywheel in IC engine includes storing energy during power stroke and",
-    options: ["pumping fuel", "providing uniform rotary motion by virtue of its inertia", "lubricating parts", "cooling the engine"],
+    options: ["pumping fuel in crop production", "providing uniform rotary motion by virtue of its inertia", "lubricating parts in field conditions", "cooling the engine for agricultural purposes"],
     correct: 1,
     explanation: "As per DA-151 notes: Flywheel stores energy during power stroke and returns same energy during idle strokes, providing uniform rotary motion by virtue of its inertia."
   },
@@ -1421,7 +1421,7 @@ export const da151Questions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Fuels with low cetane numbers result in",
-    options: ["reduced power output", "easy starting", "difficult starting, noise and exhaust smoke", "better fuel economy"],
+    options: ["reduced power output", "easy starting in crop production", "difficult starting, noise and exhaust smoke", "better fuel economy"],
     correct: 2,
     explanation: "As per DA-151 notes: Fuels with low cetane numbers will result in difficult starting, noise and exhaust smoke."
   },
@@ -1431,7 +1431,7 @@ export const da151Questions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Over-cooling of IC engine is undesirable because",
-    options: ["it increases fuel consumption only", "it creates noise", "it wastes water", "neither overheating nor over-cooling is desirable for satisfactory performance"],
+    options: ["it increases fuel consumption only", "it creates noise in crop production", "it wastes water in field conditions", "neither overheating nor over-cooling is desirable for satisfactory performance"],
     correct: 3,
     explanation: "As per DA-151 notes: For satisfactory performance, neither overheating nor over-cooling is desirable."
   },
@@ -1481,7 +1481,7 @@ export const da151Questions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Pre-ignition of fuel mixture in IC engine causes",
-    options: ["engine knocking and loss of power", "increased efficiency", "lower exhaust emissions", "better cooling"],
+    options: ["engine knocking and loss of power", "increased efficiency in crop production", "lower exhaust emissions", "better cooling in field conditions"],
     correct: 0,
     explanation: "As per DA-151 notes: Pre-ignition of fuel mixture would cause engine knocking as well as loss of power - a bad effect of high temperature."
   },

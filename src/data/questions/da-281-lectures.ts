@@ -222,7 +222,7 @@ export const da281LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "The shelterwood system of silviculture involves:",
-    options: ["Removing all trees simultaneously", "Burning of forest floor after harvest", "Retaining some trees as seed bearers over the area", "Using artificial regeneration only"],
+    options: ["Removing all trees simultaneously in horticultural practices", "Burning of forest floor after harvest", "Retaining some trees as seed bearers over the area", "Using artificial regeneration only for vegetable cultivation"],
     correct: 2,
     explanation: "The shelterwood system involves the gradual removal of trees in a series of cuts, retaining enough trees to provide shelter, seed and light for regeneration before final removal."
   },
@@ -232,7 +232,7 @@ export const da281LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "In forest nurseries, the practice of 'pricking out' refers to:",
-    options: ["Sowing seeds at wide spacing", "Making holes in hardened seed coat", "Transplanting seedlings from germination bed to spacing beds", "Removing competing weeds"],
+    options: ["Sowing seeds at wide spacing", "Making holes in hardened seed coat", "Transplanting seedlings from germination bed to spacing beds", "Removing competing weeds in horticultural practices"],
     correct: 2,
     explanation: "Pricking out is the operation of transplanting tiny seedlings from a crowded germination bed to nursery beds at wider spacing to allow proper development."
   },
@@ -322,7 +322,7 @@ export const da281LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "The ideal time for transplanting nursery raised seedlings in India is:",
-    options: ["At the onset of monsoon (June–July)", "Post-monsoon (October–November)", "Winter (December–January)", "Summer (April–May)"],
+    options: ["At the onset of monsoon (June–July)", "Post-monsoon (October–November) in horticultural practices", "Winter (December–January) for vegetable cultivation", "Summer (April–May) in orchard management"],
     correct: 0,
     explanation: "The onset of monsoon (June–July) is the ideal time for transplanting forest seedlings as adequate soil moisture reduces transplanting stress and supports establishment."
   },
@@ -374,7 +374,7 @@ export const da281LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Windbreaks are planted perpendicular to the prevailing wind direction primarily to:",
-    options: ["Reduce wind speed and protect crops from wind erosion", "Attract beneficial insects for pollination", "Provide shade to crops in summer", "Increase humidity in the microclimate"],
+    options: ["Reduce wind speed and protect crops from wind erosion", "Attract beneficial insects for pollination in horticultural practices", "Provide shade to crops in summer", "Increase humidity in the microclimate for vegetable cultivation"],
     correct: 0,
     explanation: "Windbreaks (also called shelterbelts) are planted at right angles to prevailing winds to reduce wind velocity, protecting crops, soil and livestock from wind damage and erosion."
   },
@@ -414,7 +414,7 @@ export const da281LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Alley cropping (Hedgerow intercropping) in agroforestry involves:",
-    options: ["Growing crops in forested alleys", "Planting trees in alleys within grazing areas", "Random mixture of trees and crops", "Planting trees in alleys with crops between the tree rows"],
+    options: ["Growing crops in forested alleys in horticultural practices", "Planting trees in alleys within grazing areas", "Random mixture of trees and crops for vegetable cultivation", "Planting trees in alleys with crops between the tree rows"],
     correct: 3,
     explanation: "Alley cropping involves growing food/forage crops in the alleys (spaces) between rows of fast-growing multipurpose trees or shrubs (hedgerows) that are periodically pruned."
   },
@@ -444,7 +444,7 @@ export const da281LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The Wadi model integrates which main components on tribal farmland?",
-    options: ["Only fruit trees and forestry species", "Horticultural trees with agricultural crops and soil conservation", "Livestock with pasture only", "Aquaculture with paddy cultivation"],
+    options: ["Only fruit trees and forestry species", "Horticultural trees with agricultural crops and soil conservation", "Livestock with pasture only in horticultural practices", "Aquaculture with paddy cultivation for vegetable cultivation"],
     correct: 1,
     explanation: "The Wadi model integrates horticultural trees (mango, cashew, amla) with agricultural crops and soil/water conservation structures on tribal farmland, improving tribal income."
   },
@@ -536,7 +536,7 @@ export const da281LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Teak wood is highly valued because of its:",
-    options: ["Flexible and bending properties", "Very fast growth and short rotation", "High silica content making it naturally durable and weather resistant", "Light color and low density"],
+    options: ["Flexible and bending properties in horticultural practices", "Very fast growth and short rotation for vegetable cultivation", "High silica content making it naturally durable and weather resistant", "Light color and low density in orchard management"],
     correct: 2,
     explanation: "Teak wood is highly valued for its high natural oil and silica content which makes it extremely durable, weather and termite resistant, ideal for outdoor furniture and ship building."
   },
@@ -586,7 +586,7 @@ export const da281LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "The wood property 'specific gravity' indicates:",
-    options: ["The rate of drying of timber", "The resistance of wood to fungal attack", "The strength of wood under bending forces", "The weight of wood relative to water – indicating its density and hardness"],
+    options: ["The rate of drying of timber", "The resistance of wood to fungal attack", "The strength of wood under bending forces", "The weight of wood relative to water"],
     correct: 3,
     explanation: "Specific gravity of wood is the ratio of its density to water density. Higher specific gravity indicates harder, denser and generally stronger wood. Teak has specific gravity of about 0.67."
   },
@@ -658,7 +658,7 @@ export const da281LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Van Panchayats for community forest management were first established in which state?",
-    options: ["Madhya Pradesh", "Uttarakhand (formerly Uttar Pradesh hills)", "Himachal Pradesh", "Rajasthan"],
+    options: ["Madhya Pradesh", "Uttarakhand (formerly Uttar Pradesh hills)", "Himachal Pradesh", "Rajasthan in horticultural practices"],
     correct: 1,
     explanation: "Van Panchayats were established in the hill districts of Uttarakhand (then UP) under the UP Panchayat Forest Rules 1931. They are among the earliest community forest management systems in India."
   },
@@ -718,7 +718,7 @@ export const da281LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "The concept of 'protected areas' in India includes which categories?",
-    options: ["National Parks, Wildlife Sanctuaries, Conservation Reserves and Community Reserves", "National Parks only", "Reserved Forests and Protected Forests", "Tiger Reserves and Elephant Reserves only"],
+    options: ["National Parks, Wildlife Sanctuaries, Conservation Reserves and Community Reserves", "National Parks only in horticultural practices", "Reserved Forests and Protected Forests for vegetable cultivation", "Tiger Reserves and Elephant Reserves only"],
     correct: 0,
     explanation: "Protected Areas in India under Wildlife Protection Act 1972 (amended 2002) include National Parks, Wildlife Sanctuaries, Conservation Reserves and Community Reserves."
   },
@@ -738,7 +738,7 @@ export const da281LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Social forestry aims primarily at:",
-    options: ["Converting all wastelands to commercial plantations", "Establishing luxury ecotourism facilities", "Meeting the fuel, fodder and timber needs of rural communities", "Increasing timber export revenue"],
+    options: ["Converting all wastelands to commercial plantations", "Establishing luxury ecotourism facilities in horticultural practices", "Meeting the fuel, fodder and timber needs of rural communities", "Increasing timber export revenue for vegetable cultivation"],
     correct: 2,
     explanation: "Social forestry aims to meet the basic needs of rural communities (fuel, fodder, small timber, non-timber forest products) by planting trees on community and wastelands and farm bunds."
   },
@@ -758,7 +758,7 @@ export const da281LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Community forest rights under the Forest Rights Act 2006 recognize tribal rights to:",
-    options: ["Sell timber commercially", "Individual ownership of forest land", "Collect and use minor forest produce from community forests", "Convert forest land to agricultural land"],
+    options: ["Sell timber commercially in horticultural practices", "Individual ownership of forest land for vegetable cultivation", "Collect and use minor forest produce from community forests", "Convert forest land to agricultural land"],
     correct: 2,
     explanation: "Community forest rights recognize the rights of forest-dwelling communities to collect, use and dispose of minor forest produce, protect and manage community forest resources."
   },
@@ -940,7 +940,7 @@ export const da281LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "The agro-climatic zone best suited for Ashwagandha cultivation is:",
-    options: ["Humid tropical coastal areas", "Semi-arid tropical and subtropical areas with sandy loam soil", "High altitude temperate areas", "Waterlogged alluvial plains"],
+    options: ["Humid tropical coastal areas in horticultural practices", "Semi-arid tropical and subtropical areas with sandy loam soil", "High altitude temperate areas for vegetable cultivation", "Waterlogged alluvial plains in orchard management"],
     correct: 1,
     explanation: "Ashwagandha thrives in semi-arid tropical and subtropical conditions with sandy loam, well-drained soil. It is mainly grown in Rajasthan, Madhya Pradesh and Gujarat."
   },
@@ -1174,7 +1174,7 @@ export const da281LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Vetiver (Khus grass) used for essential oil extraction has the botanical name:",
-    options: ["Chrysopogon zizanioides", "Cymbopogon nardus", "Vetiveria zizanioides", "Both A and C (same species, different synonyms)"],
+    options: ["Chrysopogon zizanioides", "Cymbopogon nardus", "Vetiveria zizanioides", "Both A and C"],
     correct: 3,
     explanation: "Vetiver/Khus grass was formerly called Vetiveria zizanioides and is now classified as Chrysopogon zizanioides. Both names refer to the same species used for vetiver oil and erosion control."
   },
@@ -1194,7 +1194,7 @@ export const da281LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Geranium (Pelargonium graveolens) is mainly cultivated in India at:",
-    options: ["Coastal lowlands of Kerala", "Semi-arid areas of Rajasthan", "High altitude areas of Uttarakhand and Himachal Pradesh", "Tropical delta areas of Andhra Pradesh"],
+    options: ["Coastal lowlands of Kerala in horticultural practices", "Semi-arid areas of Rajasthan for vegetable cultivation", "High altitude areas of Uttarakhand and Himachal Pradesh", "Tropical delta areas of Andhra Pradesh"],
     correct: 2,
     explanation: "Geranium (Pelargonium graveolens) is mainly cultivated in high altitude areas of Uttarakhand (Kumaon hills), Himachal Pradesh and some parts of Nilgiris at 1000–2000 m elevation."
   },
@@ -1214,7 +1214,7 @@ export const da281LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Patchouli (Pogostemon cablin) essential oil is most commonly used in:",
-    options: ["Food flavoring and beverages", "Agricultural pesticide formulations", "Pharmaceutical antibiotics", "Perfumery as a fixative and in aromatherapy"],
+    options: ["Food flavoring and beverages", "Agricultural pesticide formulations in horticultural practices", "Pharmaceutical antibiotics for vegetable cultivation", "Perfumery as a fixative and in aromatherapy"],
     correct: 3,
     explanation: "Patchouli oil (Pogostemon cablin) is widely used in perfumery as a fixative (slowing evaporation of other fragrances) and in aromatherapy, cosmetics and incense making."
   },
@@ -1244,7 +1244,7 @@ export const da281LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Vetiver roots are used for making:",
-    options: ["Paper and cardboard only", "Medicinal tinctures only", "Cosmetic hair oils only", "Khus mats, baskets and cooling screens (khas-khas tatties)"],
+    options: ["Paper and cardboard only in horticultural practices", "Medicinal tinctures only for vegetable cultivation", "Cosmetic hair oils only in orchard management", "Khus mats, baskets and cooling screens (khas-khas tatties)"],
     correct: 3,
     explanation: "Vetiver (Khus) roots are used for making cooling screens, mats, baskets and handicrafts. When wet they give a pleasant earthy fragrance, and the roots also yield vetiver essential oil."
   },
@@ -1346,7 +1346,7 @@ export const da281LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "The Convention on Biological Diversity (CBD) was signed at:",
-    options: ["Rio de Janeiro, 1992 (Earth Summit)", "Stockholm, 1972", "Kyoto, 1997", "Paris, 2015"],
+    options: ["Rio de Janeiro, 1992 (Earth Summit)", "Stockholm, 1972 in horticultural practices", "Kyoto, 1997 for vegetable cultivation", "Paris, 2015 in orchard management"],
     correct: 0,
     explanation: "The Convention on Biological Diversity (CBD) was opened for signature at the Earth Summit in Rio de Janeiro in June 1992 and entered into force in December 1993."
   },
@@ -1386,7 +1386,7 @@ export const da281LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Ex situ conservation of plant genetic resources is done in:",
-    options: ["Seed banks, tissue culture labs and botanical gardens", "National Parks and Wildlife Sanctuaries", "Sacred groves", "Community forests only"],
+    options: ["Seed banks, tissue culture labs and botanical gardens", "National Parks and Wildlife Sanctuaries", "Sacred groves in horticultural practices", "Community forests only for vegetable cultivation"],
     correct: 0,
     explanation: "Ex situ conservation involves maintaining species outside their natural habitat in seed banks (National Gene Bank at NBPGR New Delhi), tissue culture labs, botanical gardens and zoos."
   },
@@ -1396,7 +1396,7 @@ export const da281LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Biosphere Reserves in India are established for:",
-    options: ["Commercial forestry purposes", "Exclusive settlement of tribal communities", "Industrial development in ecologically sensitive areas", "Conservation of biodiversity including species, ecosystems and genetic diversity"],
+    options: ["Commercial forestry purposes in horticultural practices", "Exclusive settlement of tribal communities for vegetable cultivation", "Industrial development in ecologically sensitive areas", "Conservation of biodiversity including species, ecosystems and genetic diversity"],
     correct: 3,
     explanation: "Biosphere Reserves are protected areas designated for conservation of biodiversity, sustainable use of resources and research. India has 18 Biosphere Reserves recognized by UNESCO."
   },
@@ -1406,7 +1406,7 @@ export const da281LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Sacred groves (Dev vans) in India represent:",
-    options: ["Social forestry plantations", "Government reserved forests", "Patches of forest protected by local communities for cultural/religious reasons", "Forests reserved for timber production"],
+    options: ["Social forestry plantations in horticultural practices", "Government reserved forests for vegetable cultivation", "Patches of forest protected by local communities for cultural/religious reasons", "Forests reserved for timber production in orchard management"],
     correct: 2,
     explanation: "Sacred groves (Dev vans, Devaravana, Orans) are patches of forest protected by local communities due to cultural, religious or traditional beliefs. They are important for biodiversity conservation."
   },
@@ -1518,7 +1518,7 @@ export const da281LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "NTFP (Non-Timber Forest Products) include which of the following?",
-    options: ["All forest products except timber – gum, resin, lac, honey, leaves, bark, roots", "Round timber and sawn wood", "Only firewood and charcoal", "Timber and bamboo only"],
+    options: ["All forest products except timber", "Round timber and sawn wood", "Only firewood and charcoal", "Timber and bamboo only"],
     correct: 0,
     explanation: "NTFPs include all products from forests except round timber – gum, resin, lac, honey, beeswax, tendu leaves, bamboo, grasses, roots, bark, fruits, seeds, medicinal plants and mushrooms."
   },
@@ -1528,7 +1528,7 @@ export const da281LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Mahua flowers (Madhuca latifolia/indica) are used by tribal communities mainly for:",
-    options: ["Only medicinal purposes", "Only as animal fodder", "Only in religious ceremonies", "Making liquor, food, and Mahua oil from seeds"],
+    options: ["Only medicinal purposes in horticultural practices", "Only as animal fodder for vegetable cultivation", "Only in religious ceremonies in orchard management", "Making liquor, food, and Mahua oil from seeds"],
     correct: 3,
     explanation: "Mahua (Madhuca latifolia) is a multipurpose tree providing tribal communities with flowers (for liquor, food), seeds (for Mahua oil – cooking/lighting), leaves (for plates) and bark (for medicine)."
   },
@@ -1538,7 +1538,7 @@ export const da281LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Sal resin (dhoop or sal dammar) collected from Shorea robusta is used for:",
-    options: ["Food preservation", "Incense, varnish and caulking of boats", "Textile dyeing", "Paper making"],
+    options: ["Food preservation in horticultural practices", "Incense, varnish and caulking of boats", "Textile dyeing for vegetable cultivation", "Paper making in orchard management"],
     correct: 1,
     explanation: "Sal resin (dammar) is collected from Shorea robusta by tapping the bark. It is used as incense, in varnishes, caulking of boats and in medicine as an astringent."
   },
@@ -1578,7 +1578,7 @@ export const da281LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Amla (Phyllanthus emblica/Emblica officinalis) is an important NTFP collected from forests primarily for:",
-    options: ["Timber and wood products", "Animal feed and fodder", "Tanning of animal hides", "Vitamin C content – used in health products and Triphala"],
+    options: ["Timber and wood products in horticultural practices", "Animal feed and fodder for vegetable cultivation", "Tanning of animal hides in orchard management", "Vitamin C content – used in health products and Triphala"],
     correct: 3,
     explanation: "Amla is extremely rich in Vitamin C and is used in Ayurvedic medicines (Triphala, Chyawanprash), health products and Amla oil for hair care. Its collection is an important source of tribal income."
   },,
@@ -1641,7 +1641,7 @@ export const da281LectureQuestions: Question[] = [
   {
     id: "d281l_164", subject: "da-281", lecture: "lecture-11", lectureNo: 11,
     question: "Silviculture in forestry refers to:",
-    options: ["Art and science of controlling the establishment, growth, composition and quality of forests", "Study of forest soils", "Measurement of timber volumes", "Study of forest animals"],
+    options: ["Art and science of controlling the establishment, growth, composition and quality of forests", "Study of forest soils in horticultural practices", "Measurement of timber volumes for vegetable cultivation", "Study of forest animals in orchard management"],
     correct: 0,
     explanation: "Silviculture is the art and science of controlling the establishment, growth, composition, health, and quality of forests to meet diverse needs.",
     difficulty: "medium"
@@ -1681,7 +1681,7 @@ export const da281LectureQuestions: Question[] = [
   {
     id: "d281l_169", subject: "da-281", lecture: "lecture-12", lectureNo: 12,
     question: "Subabul (Leucaena leucocephala) is primarily used for:",
-    options: ["Only paper pulp", "Fuelwood, fodder, and nitrogen fixation (multipurpose tree)", "Only timber production", "Only ornamental purposes"],
+    options: ["Only paper pulp in horticultural practices", "Fuelwood, fodder, and nitrogen fixation (multipurpose tree)", "Only timber production for vegetable cultivation", "Only ornamental purposes in orchard management"],
     correct: 1,
     explanation: "Subabul is a multipurpose tree used for fuelwood, fodder, green manure, nitrogen fixation, and paper pulp — a key social forestry species.",
     difficulty: "medium"
@@ -1697,7 +1697,7 @@ export const da281LectureQuestions: Question[] = [
   {
     id: "d281l_171", subject: "da-281", lecture: "lecture-12", lectureNo: 12,
     question: "Aloe vera is used medicinally primarily for:",
-    options: ["Timber production", "Soil nitrogen fixation", "Windbreak protection", "Burn healing, skin care, and digestive health"],
+    options: ["Timber production in horticultural practices", "Soil nitrogen fixation for vegetable cultivation", "Windbreak protection in orchard management", "Burn healing, skin care, and digestive health"],
     correct: 3,
     explanation: "Aloe vera (Aloe barbadensis) is a succulent medicinal plant widely used for treating burns, skin conditions, and digestive problems.",
     difficulty: "easy"
@@ -1713,7 +1713,7 @@ export const da281LectureQuestions: Question[] = [
   {
     id: "d281l_173", subject: "da-281", lecture: "lecture-13", lectureNo: 13,
     question: "Agroforestry is defined as:",
-    options: ["Cultivation of medicinal plants only", "A land use system where trees are combined with crops or livestock on the same unit of land", "Cultivation of forest trees only", "Growing trees in monoculture"],
+    options: ["Cultivation of medicinal plants only in horticultural practices", "A land use system where trees are combined with crops or livestock on the same unit of land", "Cultivation of forest trees only for vegetable cultivation", "Growing trees in monoculture in orchard management"],
     correct: 1,
     explanation: "Agroforestry is a land use management system that combines trees with crops and/or livestock on the same land unit, providing multiple benefits.",
     difficulty: "easy"
@@ -1753,7 +1753,7 @@ export const da281LectureQuestions: Question[] = [
   {
     id: "d281l_178", subject: "da-281", lecture: "lecture-14", lectureNo: 14,
     question: "Social forestry in India refers to:",
-    options: ["Growing trees on community, government wastelands, and farm boundaries for the benefit of local communities", "Commercial timber plantation only", "Forestry activities only within reserved forests", "Forest conservation for wild animals only"],
+    options: ["Growing trees on community, government wastelands, and farm boundaries for the benefit of local communities", "Commercial timber plantation only in horticultural practices", "Forestry activities only within reserved forests for vegetable cultivation", "Forest conservation for wild animals only in orchard management"],
     correct: 0,
     explanation: "Social forestry involves growing trees on village/community land, road sides, and farm boundaries to meet local needs for fuelwood, fodder, and timber.",
     difficulty: "easy"
@@ -1761,7 +1761,7 @@ export const da281LectureQuestions: Question[] = [
   {
     id: "d281l_179", subject: "da-281", lecture: "lecture-14", lectureNo: 14,
     question: "Non-Timber Forest Products (NTFPs) include:",
-    options: ["Logs and planks only", "Bamboo, honey, medicinal plants, gums, and resins (all non-wood products)", "Chemical fertilizers", "Heavy machinery materials"],
+    options: ["Logs and planks only in horticultural practices", "Bamboo, honey, medicinal plants, gums, and resins (all non-wood products)", "Chemical fertilizers for vegetable cultivation", "Heavy machinery materials in orchard management"],
     correct: 1,
     explanation: "NTFPs are all forest products other than timber — including bamboo, honey, lac, gums, resins, medicinal plants, and wild fruits.",
     difficulty: "easy"
@@ -1769,7 +1769,7 @@ export const da281LectureQuestions: Question[] = [
   {
     id: "d281l_180", subject: "da-281", lecture: "lecture-14", lectureNo: 14,
     question: "Tamarind (Tamarindus indica) is used for:",
-    options: ["Paper pulp only", "Fodder only", "Timber and fuel only", "Edible fruit, medicinal uses, and food industry (souring agent)"],
+    options: ["Paper pulp only in horticultural practices", "Fodder only for vegetable cultivation", "Timber and fuel only in orchard management", "Edible fruit, medicinal uses, and food industry (souring agent)"],
     correct: 3,
     explanation: "Tamarind is used as a souring agent in cooking, in medicines, for jam/candy production, and its wood is used for fuel and tools.",
     difficulty: "easy"
@@ -1793,7 +1793,7 @@ export const da281LectureQuestions: Question[] = [
   {
     id: "d281l_183", subject: "da-281", lecture: "lecture-14", lectureNo: 14,
     question: "Lemongrass (Cymbopogon citratus) is grown primarily for:",
-    options: ["Essential oil used in cosmetics, food flavoring, and aromatherapy", "Fuelwood", "Timber", "Fodder for cattle"],
+    options: ["Essential oil used in cosmetics, food flavoring, and aromatherapy", "Fuelwood in horticultural practices", "Timber for vegetable cultivation", "Fodder for cattle in orchard management"],
     correct: 0,
     explanation: "Lemongrass is cultivated for its aromatic essential oil, which is used in cosmetics, food flavoring, mosquito repellents, and aromatherapy.",
     difficulty: "medium"
@@ -1801,7 +1801,7 @@ export const da281LectureQuestions: Question[] = [
   {
     id: "d281l_184", subject: "da-281", lecture: "lecture-15", lectureNo: 15,
     question: "Forest mensuration deals with:",
-    options: ["Measurement of timber volume, tree height, diameter, and forest area", "Study of forest diseases", "Planting trees in degraded areas", "Growing trees in forests"],
+    options: ["Measurement of timber volume, tree height, diameter, and forest area", "Study of forest diseases in horticultural practices", "Planting trees in degraded areas for vegetable cultivation", "Growing trees in forests in orchard management"],
     correct: 0,
     explanation: "Forest mensuration is the branch of forestry concerned with measuring timber volumes, tree dimensions, and forest area to assess forest resources.",
     difficulty: "medium"
@@ -1841,7 +1841,7 @@ export const da281LectureQuestions: Question[] = [
   {
     id: "d281l_189", subject: "da-281", lecture: "lecture-15", lectureNo: 15,
     question: "The main objective of Joint Forest Management (JFM) in India is:",
-    options: ["Complete protection without human use", "Converting forests to agriculture", "Involving local communities in forest protection and management for shared benefits", "Commercial timber exploitation"],
+    options: ["Complete protection without human use in horticultural practices", "Converting forests to agriculture for vegetable cultivation", "Involving local communities in forest protection and management for shared benefits", "Commercial timber exploitation in orchard management"],
     correct: 2,
     explanation: "JFM was introduced in 1990 to involve local communities (through Village Forest Committees) in forest protection and management, sharing the benefits.",
     difficulty: "medium"
@@ -1889,7 +1889,7 @@ export const da281LectureQuestions: Question[] = [
   {
     id: "d281l_195", subject: "da-281", lecture: "lecture-15", lectureNo: 15,
     question: "Which of the following is a correct statement about mangrove forests?",
-    options: ["They are deciduous and shed leaves in winter", "They are found only in Himalayan regions", "They grow in coastal saline tidal areas and protect coastlines from erosion", "They grow in dry arid conditions"],
+    options: ["They are deciduous and shed leaves in winter in horticultural practices", "They are found only in Himalayan regions for vegetable cultivation", "They grow in coastal saline tidal areas and protect coastlines from erosion", "They grow in dry arid conditions in orchard management"],
     correct: 2,
     explanation: "Mangroves grow in coastal intertidal zones with saline water. They protect coastlines from erosion, cyclones, and tsunamis (e.g., Sundarbans).",
     difficulty: "medium"
@@ -1913,7 +1913,7 @@ export const da281LectureQuestions: Question[] = [
   {
     id: "d281l_198", subject: "da-281", lecture: "lecture-13", lectureNo: 13,
     question: "The Chipko movement in India was a protest against:",
-    options: ["Forest fires", "Industrial pollution of forests", "Commercial deforestation and felling of trees in Himalayas", "Poaching of wildlife"],
+    options: ["Forest fires in horticultural practices", "Industrial pollution of forests for vegetable cultivation", "Commercial deforestation and felling of trees in Himalayas", "Poaching of wildlife in orchard management"],
     correct: 2,
     explanation: "Chipko movement (1973, Uttarakhand) was a non-violent protest where villagers hugged trees to prevent commercial felling — a landmark environmental movement.",
     difficulty: "easy"
@@ -1921,7 +1921,7 @@ export const da281LectureQuestions: Question[] = [
   {
     id: "d281l_199", subject: "da-281", lecture: "lecture-14", lectureNo: 14,
     question: "Which international body monitors global forest resources and publishes the Global Forest Resources Assessment?",
-    options: ["FAO (Food and Agriculture Organization)", "UNDP", "World Bank", "UNEP"],
+    options: ["FAO (Food and Agriculture Organization)", "UNDP in horticultural practices", "World Bank", "UNEP for vegetable cultivation"],
     correct: 0,
     explanation: "FAO (Food and Agriculture Organization of the United Nations) publishes the Global Forest Resources Assessment periodically.",
     difficulty: "medium"

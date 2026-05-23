@@ -5,7 +5,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_001", subject: "computer-applications", lecture: "lecture-1", lectureNo: 1,
     question: "A computer is an electronic device that:",
-    options: ["Processes data according to instructions and produces output", "Only prints documents", "Only stores data", "Only plays games"],
+    options: ["Processes data according to instructions and produces output", "Only prints documents for general office use", "Only stores data in basic computer operations", "Only plays games for data management only"],
     correct: 0,
     explanation: "A computer accepts input data, processes it according to stored instructions (programs), and produces output.",
     difficulty: "easy"
@@ -85,7 +85,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_011", subject: "computer-applications", lecture: "lecture-1", lectureNo: 1,
     question: "The motherboard of a computer is:",
-    options: ["The CPU only", "The main circuit board connecting all components", "The hard disk", "The power supply unit"],
+    options: ["The CPU only for general office use", "The main circuit board connecting all components", "The hard disk in basic computer operations", "The power supply unit"],
     correct: 1,
     explanation: "Motherboard is the main PCB (Printed Circuit Board) that connects and allows communication among all computer components.",
     difficulty: "easy"
@@ -103,7 +103,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_013", subject: "computer-applications", lecture: "lecture-2", lectureNo: 2,
     question: "An operating system is:",
-    options: ["System software that manages computer hardware and provides services to programs", "A hardware component", "An application program", "A type of memory"],
+    options: ["System software that manages computer hardware and provides services to programs", "A hardware component for general office use", "An application program in basic computer operations", "A type of memory for data management only"],
     correct: 0,
     explanation: "OS (Operating System) is system software that manages hardware resources and provides a platform for application software.",
     difficulty: "easy"
@@ -135,7 +135,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_017", subject: "computer-applications", lecture: "lecture-2", lectureNo: 2,
     question: "Open source software means:",
-    options: ["Paid proprietary software", "Software that is free to use and whose source code is openly available", "Software for outdoor activities", "Software that has no purpose"],
+    options: ["Paid proprietary software for general office use", "Software that is free to use and whose source code is openly available", "Software for outdoor activities in basic computer operations", "Software that has no purpose for data management only"],
     correct: 1,
     explanation: "Open source software has publicly available source code that can be freely used, modified, and distributed.",
     difficulty: "easy"
@@ -151,7 +151,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_019", subject: "computer-applications", lecture: "lecture-2", lectureNo: 2,
     question: "A virus in computer terms is:",
-    options: ["A system driver", "Malicious software that replicates and damages files/systems", "A beneficial program", "An antivirus program"],
+    options: ["A system driver for general office use", "Malicious software that replicates and damages files/systems", "A beneficial program in basic computer operations", "An antivirus program for data management only"],
     correct: 1,
     explanation: "Computer virus is malware that attaches to programs/files, replicates itself, and may destroy data.",
     difficulty: "easy"
@@ -167,7 +167,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_021", subject: "computer-applications", lecture: "lecture-2", lectureNo: 2,
     question: "Booting a computer means:",
-    options: ["Deleting files", "Installing software", "Shutting down the computer", "Starting the computer and loading the operating system"],
+    options: ["Deleting files for general office use", "Installing software in basic computer operations", "Shutting down the computer", "Starting the computer and loading the operating system"],
     correct: 3,
     explanation: "Booting is the process of starting a computer and loading the operating system into RAM.",
     difficulty: "easy"
@@ -185,7 +185,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_023", subject: "computer-applications", lecture: "lecture-3", lectureNo: 3,
     question: "MS Word is primarily used for:",
-    options: ["Creating spreadsheets", "Word processing (creating, editing, formatting text documents)", "Graphic design", "Database management"],
+    options: ["Creating spreadsheets for general office use", "Word processing (creating, editing, formatting text documents)", "Graphic design in basic computer operations", "Database management for data management only"],
     correct: 1,
     explanation: "MS Word is a word processor for creating letters, reports, essays, and other text-based documents.",
     difficulty: "easy"
@@ -217,7 +217,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_027", subject: "computer-applications", lecture: "lecture-3", lectureNo: 3,
     question: "Mail Merge in MS Word is used for:",
-    options: ["Merging two documents into one", "Merging footnotes", "Creating personalized letters for multiple recipients using a data source", "Combining cells in a table"],
+    options: ["Merging two documents into one for general office use", "Merging footnotes in basic computer operations", "Creating personalized letters for multiple recipients using a data source", "Combining cells in a table for data management only"],
     correct: 2,
     explanation: "Mail Merge combines a template document with a data source (Excel, Access) to produce personalized mass mailings.",
     difficulty: "medium"
@@ -241,7 +241,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_030", subject: "computer-applications", lecture: "lecture-3", lectureNo: 3,
     question: "Print Preview in MS Word allows:",
-    options: ["Printing immediately", "Saving the document", "Viewing how the document will look when printed before printing", "Editing the document"],
+    options: ["Printing immediately for general office use", "Saving the document in basic computer operations", "Viewing how the document will look when printed before printing", "Editing the document for data management only"],
     correct: 2,
     explanation: "Print Preview shows an on-screen representation of the printed page layout.",
     difficulty: "easy"
@@ -249,7 +249,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_031", subject: "computer-applications", lecture: "lecture-3", lectureNo: 3,
     question: "Track Changes feature in MS Word is used to:",
-    options: ["Track the time spent on a document", "Track printing", "Record and show changes made by multiple authors for review", "Monitor file size changes"],
+    options: ["Track the time spent on a document", "Track printing for general office use", "Record and show changes made by multiple authors for review", "Monitor file size changes in basic computer operations"],
     correct: 2,
     explanation: "Track Changes records all edits (insertions, deletions) so authors or reviewers can see and accept/reject changes.",
     difficulty: "medium"
@@ -267,7 +267,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_033", subject: "computer-applications", lecture: "lecture-4", lectureNo: 4,
     question: "MS Excel is primarily used for:",
-    options: ["Creating, organizing, and analyzing data in spreadsheets", "Email communication", "Word processing", "Presentation design"],
+    options: ["Creating, organizing, and analyzing data in spreadsheets", "Email communication for general office use", "Word processing in basic computer operations", "Presentation design for data management only"],
     correct: 0,
     explanation: "MS Excel is a spreadsheet application used for data entry, calculations, charts, and data analysis.",
     difficulty: "easy"
@@ -283,7 +283,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_035", subject: "computer-applications", lecture: "lecture-4", lectureNo: 4,
     question: "A cell in Excel is identified by:",
-    options: ["Cell name only", "Row number only", "Column letter followed by row number (e.g., A1, B5)", "Only row and column numbers"],
+    options: ["Cell name only", "Row number only", "Column letter followed by row number", "Only row and column numbers"],
     correct: 2,
     explanation: "Cell address = Column letter + Row number (e.g., A1, C15). Used in formulas and navigation.",
     difficulty: "easy"
@@ -299,7 +299,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_037", subject: "computer-applications", lecture: "lecture-4", lectureNo: 4,
     question: "The function =SUM(A1:A10) calculates:",
-    options: ["Sum of values in cells A1 through A10", "Count of cells", "Average of A1 to A10", "Maximum value"],
+    options: ["Sum of values in cells A1 through A10", "Count of cells for general office use", "Average of A1 to A10", "Maximum value in basic computer operations"],
     correct: 0,
     explanation: "=SUM(A1:A10) adds all values in the range A1 to A10.",
     difficulty: "easy"
@@ -307,7 +307,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_038", subject: "computer-applications", lecture: "lecture-4", lectureNo: 4,
     question: "The function =AVERAGE(B1:B5) computes:",
-    options: ["Arithmetic mean of values in B1 to B5", "Minimum value", "Number of cells", "Sum of B1 to B5"],
+    options: ["Arithmetic mean of values in B1 to B5", "Minimum value for general office use", "Number of cells in basic computer operations", "Sum of B1 to B5"],
     correct: 0,
     explanation: "=AVERAGE() calculates the arithmetic mean (sum ÷ count) of specified cells.",
     difficulty: "easy"
@@ -323,7 +323,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_040", subject: "computer-applications", lecture: "lecture-4", lectureNo: 4,
     question: "VLOOKUP function in Excel is used to:",
-    options: ["Validate data", "Create vertical charts", "Calculate vertical sums", "Look up a value in a column and return a value from another column in the same row"],
+    options: ["Validate data for general office use", "Create vertical charts in basic computer operations", "Calculate vertical sums for data management only", "Look up a value in a column and return a value from another column in the same row"],
     correct: 3,
     explanation: "VLOOKUP searches vertically in the first column of a table and returns a value from a specified column in the same row.",
     difficulty: "medium"
@@ -331,7 +331,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_041", subject: "computer-applications", lecture: "lecture-4", lectureNo: 4,
     question: "Pivot Table in Excel is used for:",
-    options: ["Summarizing, analyzing, and presenting large data sets interactively", "Inserting images", "Rotating the worksheet", "Setting print margins"],
+    options: ["Summarizing, analyzing, and presenting large data sets interactively", "Inserting images for general office use", "Rotating the worksheet in basic computer operations", "Setting print margins for data management only"],
     correct: 0,
     explanation: "Pivot Tables allow interactive summarization and cross-tabulation of large data sets for analysis.",
     difficulty: "medium"
@@ -339,7 +339,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_042", subject: "computer-applications", lecture: "lecture-4", lectureNo: 4,
     question: "Conditional Formatting in Excel highlights cells based on:",
-    options: ["File size", "User-defined rules (cell value, text, date criteria)", "Random selection", "Font type only"],
+    options: ["File size for general office use", "User-defined rules (cell value, text, date criteria)", "Random selection in basic computer operations", "Font type only for data management only"],
     correct: 1,
     explanation: "Conditional Formatting automatically applies color or format to cells meeting specified conditions.",
     difficulty: "medium"
@@ -365,7 +365,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_045", subject: "computer-applications", lecture: "lecture-5", lectureNo: 5,
     question: "Slide Transition in PowerPoint refers to:",
-    options: ["The slide master", "The visual effect when moving from one slide to the next", "The animation of objects within a slide", "The design template"],
+    options: ["The slide master for general office use", "The visual effect when moving from one slide to the next", "The animation of objects within a slide", "The design template in basic computer operations"],
     correct: 1,
     explanation: "Slide transition is the animation/effect applied when switching between slides during a presentation.",
     difficulty: "easy"
@@ -373,7 +373,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_046", subject: "computer-applications", lecture: "lecture-5", lectureNo: 5,
     question: "Internet is best described as:",
-    options: ["A single computer", "A local area network", "A global network of interconnected computers and devices", "A type of software"],
+    options: ["A single computer for general office use", "A local area network in basic computer operations", "A global network of interconnected computers and devices", "A type of software for data management only"],
     correct: 2,
     explanation: "The Internet is a global system of interconnected computer networks that communicate via TCP/IP protocol.",
     difficulty: "easy"
@@ -413,7 +413,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_051", subject: "computer-applications", lecture: "lecture-5", lectureNo: 5,
     question: "A browser is software used to:",
-    options: ["Access and display web pages on the internet", "Design websites", "Store files", "Manage email"],
+    options: ["Access and display web pages on the internet", "Design websites for general office use", "Store files in basic computer operations", "Manage email for data management only"],
     correct: 0,
     explanation: "Web browsers (Chrome, Firefox, Edge, Safari) retrieve and display web pages from the internet.",
     difficulty: "easy"
@@ -431,7 +431,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_053", subject: "computer-applications", lecture: "lecture-6", lectureNo: 6,
     question: "A database is:",
-    options: ["An operating system", "An organized collection of structured data stored electronically", "A programming language", "A type of computer"],
+    options: ["An operating system for general office use", "An organized collection of structured data stored electronically", "A programming language in basic computer operations", "A type of computer for data management only"],
     correct: 1,
     explanation: "A database is an organized collection of data that can be easily accessed, managed, and updated.",
     difficulty: "easy"
@@ -463,7 +463,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_057", subject: "computer-applications", lecture: "lecture-6", lectureNo: 6,
     question: "Precision agriculture uses technology for:",
-    options: ["One-size-fits-all farming", "Variable rate application of inputs based on spatial variability in fields", "Reducing farm area", "Manual observation only"],
+    options: ["One-size-fits-all farming for general office use", "Variable rate application of inputs based on spatial variability in fields", "Reducing farm area in basic computer operations", "Manual observation only for data management only"],
     correct: 1,
     explanation: "Precision agriculture uses GPS, sensors, and GIS to optimize input application according to field variability.",
     difficulty: "medium"
@@ -479,7 +479,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_059", subject: "computer-applications", lecture: "lecture-6", lectureNo: 6,
     question: "e-Crop advisory services in agriculture provide:",
-    options: ["Real-time crop production advice, pest alerts, and weather updates to farmers", "Free seeds", "Government job notifications", "Direct loans"],
+    options: ["Real-time crop production advice, pest alerts, and weather updates to farmers", "Free seeds for general office use", "Government job notifications in basic computer operations", "Direct loans for data management only"],
     correct: 0,
     explanation: "e-Crop advisory services (via apps, SMS, internet) give farmers timely advice on crop management and market prices.",
     difficulty: "easy"
@@ -487,7 +487,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_060", subject: "computer-applications", lecture: "lecture-6", lectureNo: 6,
     question: "GIS in agriculture is used for:",
-    options: ["Word processing", "Playing games", "Mapping soil variability, crop health, land use, and planning irrigation", "Accounting"],
+    options: ["Word processing for general office use", "Playing games in basic computer operations", "Mapping soil variability, crop health, land use, and planning irrigation", "Accounting for data management only"],
     correct: 2,
     explanation: "GIS (Geographic Information System) integrates spatial data for precision farming, land use planning, and resource management.",
     difficulty: "medium"
@@ -495,7 +495,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_061", subject: "computer-applications", lecture: "lecture-6", lectureNo: 6,
     question: "Cloud computing allows farmers to:",
-    options: ["Access data, apps, and services over the internet from anywhere", "Work without electricity", "Store data on local hard disks only", "Avoid using computers"],
+    options: ["Access data, apps, and services over the internet from anywhere", "Work without electricity for general office use", "Store data on local hard disks only", "Avoid using computers in basic computer operations"],
     correct: 0,
     explanation: "Cloud computing provides internet-based storage, software, and services accessible from any device.",
     difficulty: "medium"
@@ -513,7 +513,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_063", subject: "computer-applications", lecture: "lecture-7", lectureNo: 7,
     question: "UPI (Unified Payments Interface) enables:",
-    options: ["Television broadcasting", "Instant real-time bank transfers using mobile phones", "Internet browsing", "Satellite communication"],
+    options: ["Television broadcasting for general office use", "Instant real-time bank transfers using mobile phones", "Internet browsing in basic computer operations", "Satellite communication for data management only"],
     correct: 1,
     explanation: "UPI is a payment system that facilitates instant inter-bank transactions via smartphones, developed by NPCI.",
     difficulty: "easy"
@@ -521,7 +521,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_064", subject: "computer-applications", lecture: "lecture-7", lectureNo: 7,
     question: "Aadhaar is a:",
-    options: ["Bank account", "12-digit unique biometric identity number issued to Indian residents", "Passport number", "Voter ID"],
+    options: ["Bank account for general office use", "12-digit unique biometric identity number issued to Indian residents", "Passport number in basic computer operations", "Voter ID for data management only"],
     correct: 1,
     explanation: "Aadhaar is India's biometric UID (Unique Identification) 12-digit number issued by UIDAI.",
     difficulty: "easy"
@@ -529,7 +529,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_065", subject: "computer-applications", lecture: "lecture-7", lectureNo: 7,
     question: "PMGDISHA (Pradhan Mantri Gramin Digital Saksharta Abhiyan) aims to:",
-    options: ["Make rural households digitally literate across India", "Provide free computers to farmers", "Provide rural electricity", "Build rural roads"],
+    options: ["Make rural households digitally literate across India", "Provide free computers to farmers", "Provide rural electricity for general office use", "Build rural roads in basic computer operations"],
     correct: 0,
     explanation: "PMGDISHA aims to provide digital literacy skills to six crore rural households to enable them to use digital devices.",
     difficulty: "medium"
@@ -537,7 +537,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_066", subject: "computer-applications", lecture: "lecture-7", lectureNo: 7,
     question: "mKisan (Mobile for Agriculture) portal provides:",
-    options: ["Mobile games", "Social media access", "SMS-based crop advisory, weather alerts, and market prices to farmers", "Mobile banking only"],
+    options: ["Mobile games for general office use", "Social media access in basic computer operations", "SMS-based crop advisory, weather alerts, and market prices to farmers", "Mobile banking only for data management only"],
     correct: 2,
     explanation: "mKisan portal delivers agricultural information directly to farmers' mobile phones via SMS in local languages.",
     difficulty: "medium"
@@ -545,7 +545,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_067", subject: "computer-applications", lecture: "lecture-7", lectureNo: 7,
     question: "IoT (Internet of Things) in agriculture refers to:",
-    options: ["Traditional farming methods", "Only internet browsing on farm", "Connected sensors, devices, and systems that collect and exchange data for smart farming", "International trade of crops"],
+    options: ["Traditional farming methods for general office use", "Only internet browsing on farm in basic computer operations", "Connected sensors, devices, and systems that collect and exchange data for smart farming", "International trade of crops for data management only"],
     correct: 2,
     explanation: "Agricultural IoT connects field sensors, weather stations, and drones to collect and analyze farm data in real time.",
     difficulty: "medium"
@@ -553,7 +553,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_068", subject: "computer-applications", lecture: "lecture-7", lectureNo: 7,
     question: "Artificial Intelligence (AI) in agriculture can help with:",
-    options: ["Manual irrigation", "Removing insects by hand", "Crop disease detection, yield prediction, and automated machinery", "Manual weeding only"],
+    options: ["Manual irrigation for general office use", "Removing insects by hand in basic computer operations", "Crop disease detection, yield prediction, and automated machinery", "Manual weeding only for data management only"],
     correct: 2,
     explanation: "AI enables image-based disease diagnosis, yield forecasting, robotic harvesting, and smart irrigation management.",
     difficulty: "medium"
@@ -561,7 +561,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_069", subject: "computer-applications", lecture: "lecture-7", lectureNo: 7,
     question: "Blockchain technology in agriculture can improve:",
-    options: ["Water quality", "Weather prediction", "Soil fertility", "Traceability and transparency in food supply chain and transactions"],
+    options: ["Water quality for general office use", "Weather prediction in basic computer operations", "Soil fertility for data management only", "Traceability and transparency in food supply chain and transactions"],
     correct: 3,
     explanation: "Blockchain provides an immutable record of transactions, enabling traceability from farm to consumer in food supply chains.",
     difficulty: "hard"
@@ -569,7 +569,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_070", subject: "computer-applications", lecture: "lecture-7", lectureNo: 7,
     question: "Agri-Stack is an initiative in India to create:",
-    options: ["Agricultural building codes", "A federated farmers' database and digital infrastructure for agricultural services", "Grain storage stacks", "Fertilizer stacking guidelines"],
+    options: ["Agricultural building codes for general office use", "A federated farmers' database and digital infrastructure for agricultural services", "Grain storage stacks in basic computer operations", "Fertilizer stacking guidelines for data management only"],
     correct: 1,
     explanation: "Agri-Stack is a digital public infrastructure to create a digital identity and data layer for farmers to access services.",
     difficulty: "hard"
@@ -603,7 +603,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_074", subject: "da-262", lecture: "lecture-8", lectureNo: 8,
     question: "RAM (Random Access Memory) is called volatile memory because:",
-    options: ["It stores data permanently without power", "Data disappears from RAM as soon as power is switched off", "It can read but not write data", "It requires a battery to maintain data"],
+    options: ["It stores data permanently without power for general office use", "Data disappears from RAM as soon as power is switched off", "It can read but not write data in basic computer operations", "It requires a battery to maintain data for data management only"],
     correct: 1,
     explanation: "As per DA-262 notes: RAM is volatile memory - storage of data and instructions in RAM is temporary, till the time the computer is running. It disappears from RAM as soon as power is switched off.",
     difficulty: "easy"
@@ -627,7 +627,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_077", subject: "da-262", lecture: "lecture-9", lectureNo: 9,
     question: "The AUTOEXEC.BAT file in DOS is special because:",
-    options: ["It stores all user passwords", "It contains antivirus programs", "It is automatically executed when the computer is switched on or during booting", "It cannot be deleted or modified"],
+    options: ["It stores all user passwords for general office use", "It contains antivirus programs in basic computer operations", "It is automatically executed when the computer is switched on or during booting", "It cannot be deleted or modified for data management only"],
     correct: 2,
     explanation: "As per DA-262 notes: If a batch file is given the special name AUTOEXEC.BAT, it is automatically executed when the computer is switched on or during booting.",
     difficulty: "medium"
@@ -635,7 +635,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_078", subject: "da-262", lecture: "lecture-9", lectureNo: 9,
     question: "In Windows, the 'Recycle Bin' is used for:",
-    options: ["Storing temporary internet files", "Storing system backup files", "Organizing downloaded files", "Storing all files and folders deleted from Windows temporarily, which can be restored"],
+    options: ["Storing temporary internet files for general office use", "Storing system backup files in basic computer operations", "Organizing downloaded files for data management only", "Storing all files and folders deleted from Windows temporarily, which can be restored"],
     correct: 3,
     explanation: "As per DA-262 notes: Recycle Bin is a folder that stores all the files and folders deleted from Windows temporarily, which can be restored again if needed.",
     difficulty: "easy"
@@ -651,7 +651,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_080", subject: "da-262", lecture: "lecture-10", lectureNo: 10,
     question: "What does the DOS command 'FORMAT a:' do?",
-    options: ["Copies all files to drive A", "Lists all files on drive A", "Renames the drive A label", "Organizes disk A into magnetic tracks and sectors readable by DOS"],
+    options: ["Copies all files to drive A for general office use", "Lists all files on drive A in basic computer operations", "Renames the drive A label for data management only", "Organizes disk A into magnetic tracks and sectors readable by DOS"],
     correct: 3,
     explanation: "As per DA-262 notes: FORMAT a: organizes the disk in drive A into magnetic tracks and sectors that are readable by DOS. Warning: formatting an old disk erases all existing files on it.",
     difficulty: "medium"
@@ -659,7 +659,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_081", subject: "da-262", lecture: "lecture-10", lectureNo: 10,
     question: "The DOS command 'TREE' displays:",
-    options: ["Directories and sub-directories in a drive without files", "Only hidden files", "Files in alphabetical order", "All files with size, date and time"],
+    options: ["Directories and sub-directories in a drive without files", "Only hidden files for general office use", "Files in alphabetical order in basic computer operations", "All files with size, date and time"],
     correct: 0,
     explanation: "As per DA-262 notes: TREE displays directories and sub-directories in a drive WITHOUT files. DIR command displays all files with size, date and time, and shows directories with <DIR> symbol.",
     difficulty: "medium"
@@ -707,7 +707,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_087", subject: "da-262", lecture: "lecture-12", lectureNo: 12,
     question: "The Windows Explorer is divided into two panes. What does the left pane display?",
-    options: ["The contents of selected files", "The recently opened documents", "The control panel settings", "The list of drives and folders on the computer"],
+    options: ["The contents of selected files for general office use", "The recently opened documents in basic computer operations", "The control panel settings for data management only", "The list of drives and folders on the computer"],
     correct: 3,
     explanation: "As per DA-262 notes: Windows Explorer is divided into 2 panes. The left pane displays the list of drives and folders on the computer. The right pane displays the contents of the selected drive or folder.",
     difficulty: "easy"
@@ -755,7 +755,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_093", subject: "da-262", lecture: "lecture-15", lectureNo: 15,
     question: "The DOS command 'REN' is used to:",
-    options: ["Run an executable file", "Remove a directory", "Restore deleted files", "Rename an old file with another name"],
+    options: ["Run an executable file", "Remove a directory for general office use", "Restore deleted files in basic computer operations", "Rename an old file with another name"],
     correct: 3,
     explanation: "As per DA-262 notes: The REN command is used to rename the old file with another name. Example: C:\> REN MATHS.TXT RESULT.TXT renames MATHS.TXT to RESULT.TXT.",
     difficulty: "easy"
@@ -771,7 +771,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_095", subject: "da-262", lecture: "lecture-15", lectureNo: 15,
     question: "The Windows feature 'Object Linking and Embedding (OLE)' allows:",
-    options: ["Creating hyperlinks to websites", "Embedding antivirus protection", "Linking hardware components to the OS", "Pasting a portion of one document into another with advanced document linking"],
+    options: ["Creating hyperlinks to websites for general office use", "Embedding antivirus protection in basic computer operations", "Linking hardware components to the OS for data management only", "Pasting a portion of one document into another with advanced document linking"],
     correct: 3,
     explanation: "As per DA-262 notes: Windows provides advanced document linking features called Dynamic Data Exchange (DDE) and Object Linking and Embedding (OLE), which allow pasting portions of one document into another.",
     difficulty: "medium"
@@ -787,7 +787,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_097", subject: "da-262", lecture: "lecture-16", lectureNo: 16,
     question: "In DOS, the command 'DIR/P' is used for:",
-    options: ["Displaying files sorted alphabetically", "Printing the directory listing", "Pausing the listing whenever the screen is full", "Displaying files in parallel/side-by-side format"],
+    options: ["Displaying files sorted alphabetically for general office use", "Printing the directory listing in basic computer operations", "Pausing the listing whenever the screen is full", "Displaying files in parallel/side-by-side format"],
     correct: 2,
     explanation: "As per DA-262 notes: DIR/P pauses the listing of the directory whenever the screen is full. The next screen load of files can be displayed by pressing any key. DIR/W displays files in a five-column format.",
     difficulty: "medium"
@@ -811,7 +811,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_100", subject: "da-262", lecture: "lecture-16", lectureNo: 16,
     question: "The Windows feature 'Taskbar' is characterized by:",
-    options: ["A vertical bar on the left side of the screen", "A floating toolbar that can be moved anywhere", "A horizontal bar at the bottom of screen with START menu on left and Notification area on right", "A toolbar that appears only when the mouse hovers over it"],
+    options: ["A vertical bar on the left side of the screen for general office use", "A floating toolbar that can be moved anywhere in basic computer operations", "A horizontal bar at the bottom of screen with START menu on left and Notification area on right", "A toolbar that appears only when the mouse hovers over it for data management only"],
     correct: 2,
     explanation: "As per DA-262 notes: Taskbar is the rectangular bar that runs horizontally across the bottom of the screen. It has the START menu on the left and the Notification area on the right. All open applications are shown on the Taskbar.",
     difficulty: "easy"
@@ -854,7 +854,7 @@ export const da262LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "The Control Unit of a CPU acts as:",
-    options: ["Data storage", "Arithmetic processor", "Output device controller", "Central nervous system of the computer"],
+    options: ["Data storage for general office use", "Arithmetic processor in basic computer operations", "Output device controller", "Central nervous system of the computer"],
     correct: 3,
     explanation: "As per DA-262 notes: Control Unit acts as a central nervous system and ensures information is stored correctly and program instructions are followed in proper sequence."
   },
@@ -984,7 +984,7 @@ export const da262LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "CD-R (Compact Disc Recordable) allows:",
-    options: ["Data to be written only once and then read", "Data to be written and erased multiple times", "Only reading of pre-recorded data", "Wireless data transfer"],
+    options: ["Data to be written only once and then read", "Data to be written and erased multiple times", "Only reading of pre-recorded data for general office use", "Wireless data transfer in basic computer operations"],
     correct: 0,
     explanation: "As per DA-262 notes: CD-R - Data can be written onto it just once. Data once written cannot be erased."
   },
@@ -1004,7 +1004,7 @@ export const da262LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "A Flash Drive is also known as:",
-    options: ["Floppy disk", "Pen drive or USB drive", "Hard disk", "CD-ROM"],
+    options: ["Floppy disk", "Pen drive or USB drive", "Hard disk", "CD-ROM for general office use"],
     correct: 1,
     explanation: "As per DA-262 notes: Flash drive is commonly called Pen drive and also USB drive. It is plugged into the USB port."
   },
@@ -1144,7 +1144,7 @@ export const da262LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Mini computers are characterized as:",
-    options: ["Medium sized with moderate cost used for large volume applications", "Extremely large and expensive", "Smallest general purpose systems", "Used only for weather forecasting"],
+    options: ["Medium sized with moderate cost used for large volume applications", "Extremely large and expensive for general office use", "Smallest general purpose systems in basic computer operations", "Used only for weather forecasting for data management only"],
     correct: 0,
     explanation: "As per DA-262 notes: Mini Computer is a medium sized computer with moderate cost and used for large volume applications. It can serve multi-users simultaneously."
   },
@@ -1194,7 +1194,7 @@ export const da262LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Cold Booting involves:",
-    options: ["Running BIOS update", "Switching OFF and then switching ON after some time", "Pressing Ctrl+Alt+Del", "Formatting the hard disk"],
+    options: ["Running BIOS update for general office use", "Switching OFF and then switching ON after some time", "Pressing Ctrl+Alt+Del in basic computer operations", "Formatting the hard disk for data management only"],
     correct: 1,
     explanation: "As per DA-262 notes: Cold Booting means switching OFF the system and after some time again switching ON."
   },
@@ -1224,7 +1224,7 @@ export const da262LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "The DOS command VOL is used to:",
-    options: ["Verify disk volume", "Create volumes on disk", "Display the volume label of the current disk", "Set volume (sound) level"],
+    options: ["Verify disk volume for general office use", "Create volumes on disk in basic computer operations", "Display the volume label of the current disk", "Set volume (sound) level for data management only"],
     correct: 2,
     explanation: "As per DA-262 notes: VOL command displays the volume label of the current disk."
   },
@@ -1234,7 +1234,7 @@ export const da262LectureQuestions: Question[] = [
     lecture: "lecture-11",
     lectureNo: 11,
     question: "The DOS command DIR/W displays files in:",
-    options: ["Alphabetical order", "Only hidden files", "Reverse order", "A five column format without date and time"],
+    options: ["Alphabetical order for general office use", "Only hidden files in basic computer operations", "Reverse order for data management only", "A five column format without date and time"],
     correct: 3,
     explanation: "As per DA-262 notes: DIR/W displays files in a five column format, only file names and extensions without date and time of creation."
   },
@@ -1254,7 +1254,7 @@ export const da262LectureQuestions: Question[] = [
     lecture: "lecture-11",
     lectureNo: 11,
     question: "The DOS command SORT arranges files in:",
-    options: ["Alphanumeric order (A to Z or Z to A)", "Random order", "Date order", "Size order"],
+    options: ["Alphanumeric order (A to Z or Z to A)", "Random order for general office use", "Date order in basic computer operations", "Size order for data management only"],
     correct: 0,
     explanation: "As per DA-262 notes: SORT command sorts files in alphanumeric order: either A to Z or Z to A."
   },
@@ -1334,7 +1334,7 @@ export const da262LectureQuestions: Question[] = [
     lecture: "lecture-14",
     lectureNo: 14,
     question: "Word-wrap in word processing means:",
-    options: ["Automatically moving to next line when current line is full", "Password protecting documents", "Wrapping text in a box", "Wrapping files for transfer"],
+    options: ["Automatically moving to next line when current line is full", "Password protecting documents for general office use", "Wrapping text in a box in basic computer operations", "Wrapping files for transfer for data management only"],
     correct: 0,
     explanation: "As per DA-262 notes: Word-wrap - when line length exceeds right margin, the word is automatically adjusted to the following line."
   },
@@ -1344,7 +1344,7 @@ export const da262LectureQuestions: Question[] = [
     lecture: "lecture-14",
     lectureNo: 14,
     question: "Mail Merge printing is used to:",
-    options: ["Merge two documents into one", "Sort mailing lists", "Print same letter with different addresses so each is original", "Merge emails with attachments"],
+    options: ["Merge two documents into one for general office use", "Sort mailing lists in basic computer operations", "Print same letter with different addresses so each is original", "Merge emails with attachments for data management only"],
     correct: 2,
     explanation: "As per DA-262 notes: Mail merge helps printing same original letter with different addresses, so each letter is original."
   },
@@ -1354,7 +1354,7 @@ export const da262LectureQuestions: Question[] = [
     lecture: "lecture-14",
     lectureNo: 14,
     question: "Thesaurus in word processing provides:",
-    options: ["Document templates", "Spell checking", "Synonyms or words with similar meanings", "Grammar rules"],
+    options: ["Document templates for general office use", "Spell checking in basic computer operations", "Synonyms or words with similar meanings", "Grammar rules for data management only"],
     correct: 2,
     explanation: "As per DA-262 notes: Thesaurus provides synonyms (words with similar meanings)."
   },
@@ -1364,7 +1364,7 @@ export const da262LectureQuestions: Question[] = [
     lecture: "lecture-14",
     lectureNo: 14,
     question: "A Macro in word processing is:",
-    options: ["A table format", "A large font size", "A type of header/footer", "A character or word representing a series of keystrokes"],
+    options: ["A table format for general office use", "A large font size in basic computer operations", "A type of header/footer for data management only", "A character or word representing a series of keystrokes"],
     correct: 3,
     explanation: "As per DA-262 notes: A macro is a character or word that represents a series of keystrokes, saving time by replacing common keystroke combinations."
   },
@@ -1384,7 +1384,7 @@ export const da262LectureQuestions: Question[] = [
     lecture: "lecture-15",
     lectureNo: 15,
     question: "In MS Word, the Formatting Toolbar contains:",
-    options: ["Internet browser buttons", "Formatting options like font, size, bold, italic", "File management options", "Database connection tools"],
+    options: ["Internet browser buttons for general office use", "Formatting options like font, size, bold, italic", "File management options in basic computer operations", "Database connection tools for data management only"],
     correct: 1,
     explanation: "As per DA-262 notes: Formatting toolbar contains a list of formatting options available inside the format menu."
   },
@@ -1394,7 +1394,7 @@ export const da262LectureQuestions: Question[] = [
     lecture: "lecture-15",
     lectureNo: 15,
     question: "In MS Word, the insertion point is:",
-    options: ["A toolbar button", "The cursor on taskbar", "A status bar indicator", "A blinking vertical line indicating where text will be placed"],
+    options: ["A toolbar button for general office use", "The cursor on taskbar in basic computer operations", "A status bar indicator for data management only", "A blinking vertical line indicating where text will be placed"],
     correct: 3,
     explanation: "As per DA-262 notes: Insertion point is a blinking vertical line that indicates the position on screen where text or graphics will be placed."
   },
@@ -1514,7 +1514,7 @@ export const da262LectureQuestions: Question[] = [
     lecture: "lecture-11",
     lectureNo: 11,
     question: "The PATH command in DOS is used to:",
-    options: ["List all files", "Display directory tree", "Provide access to files in other directories or disks", "Format the disk"],
+    options: ["List all files for general office use", "Display directory tree in basic computer operations", "Provide access to files in other directories or disks", "Format the disk for data management only"],
     correct: 2,
     explanation: "As per DA-262 notes: PATH command provides access to files located on other directories or on other disks."
   },
@@ -1524,7 +1524,7 @@ export const da262LectureQuestions: Question[] = [
     lecture: "lecture-11",
     lectureNo: 11,
     question: "The difference between TREE and DIR commands in DOS is that:",
-    options: ["TREE displays directories and sub-directories without files; DIR shows files with size date time", "TREE is for hard disk; DIR is for floppy", "Both are identical", "TREE shows files; DIR shows folders"],
+    options: ["TREE displays directories and sub-directories without files; DIR shows files with size date time", "TREE is for hard disk; DIR is for floppy", "Both are identical for general office use", "TREE shows files; DIR shows folders in basic computer operations"],
     correct: 0,
     explanation: "As per DA-262 notes: TREE displays directories and sub-directories without files; DIR displays all files with size, date and time of creation."
   },
@@ -1574,7 +1574,7 @@ export const da262LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "A Plotter is used for:",
-    options: ["Scanning images", "Producing drawings or graphs through pens", "Printing text documents", "Data storage"],
+    options: ["Scanning images for general office use", "Producing drawings or graphs through pens", "Printing text documents", "Data storage in basic computer operations"],
     correct: 1,
     explanation: "As per DA-262 notes: Plotter produces drawings or graphs through pens which are filled with different colours."
   },
@@ -1614,7 +1614,7 @@ export const da262LectureQuestions: Question[] = [
     lecture: "lecture-12",
     lectureNo: 12,
     question: "My Documents in Windows is:",
-    options: ["The recycle bin", "The control panel", "The default storage location for files created in Windows", "An internet browser"],
+    options: ["The recycle bin for general office use", "The control panel in basic computer operations", "The default storage location for files created in Windows", "An internet browser for data management only"],
     correct: 2,
     explanation: "As per DA-262 notes: My Documents is the default storage location for the files created in Windows."
   },
@@ -1624,7 +1624,7 @@ export const da262LectureQuestions: Question[] = [
     lecture: "lecture-13",
     lectureNo: 13,
     question: "Network Neighborhood in Windows displays:",
-    options: ["Local file system", "Shared printers only", "Internet websites", "All computers connected in network with our computer"],
+    options: ["Local file system for general office use", "Shared printers only in basic computer operations", "Internet websites for data management only", "All computers connected in network with our computer"],
     correct: 3,
     explanation: "As per DA-262 notes: Network Neighborhood is an application which displays all computers connected in network with our computer."
   },
@@ -1634,7 +1634,7 @@ export const da262LectureQuestions: Question[] = [
     lecture: "lecture-15",
     lectureNo: 15,
     question: "The Status bar in MS Word displays:",
-    options: ["Page number, section number, line number, column number etc.", "Internet connection status", "Formatting options", "File save options"],
+    options: ["Page number, section number, line number, column number etc.", "Internet connection status for general office use", "Formatting options in basic computer operations", "File save options for data management only"],
     correct: 0,
     explanation: "As per DA-262 notes: Status bar displays page number, section number, total pages, line number, column number etc."
   },
@@ -1644,7 +1644,7 @@ export const da262LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "An Interpreter translates programs:",
-    options: ["One statement at a time and executes if error-free", "Only after compilation", "Only arithmetic statements", "The whole program at once"],
+    options: ["One statement at a time and executes if error-free", "Only after compilation for general office use", "Only arithmetic statements in basic computer operations", "The whole program at once"],
     correct: 0,
     explanation: "As per DA-262 notes: An interpreter translates one statement at a time and if error-free, executes. This continues till the last statement."
   },
@@ -1684,7 +1684,7 @@ export const da262LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "Information is best described as:",
-    options: ["Data that is processed and presented in an organized manner", "Binary code", "Raw data", "A computer program"],
+    options: ["Data that is processed and presented in an organized manner", "Binary code for general office use", "Raw data in basic computer operations", "A computer program for data management only"],
     correct: 0,
     explanation: "As per DA-262 notes: Information is data that is processed and presented in an organized manner."
   },
@@ -1694,7 +1694,7 @@ export const da262LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Assembly Languages use:",
-    options: ["English-like syntax", "Machine-independent codes", "Binary codes only", "Mnemonic codes instead of numeric codes"],
+    options: ["English-like syntax for general office use", "Machine-independent codes in basic computer operations", "Binary codes only", "Mnemonic codes instead of numeric codes"],
     correct: 3,
     explanation: "As per DA-262 notes: Assembly language uses mnemonic codes rather than numeric codes. E.g., Add or A is used as symbol for addition."
   },
@@ -1704,7 +1704,7 @@ export const da262LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "File Management function of OS allows:",
-    options: ["Creating, deleting, moving and searching for files", "Managing power supply", "Managing internet connections", "Managing hardware components only"],
+    options: ["Creating, deleting, moving and searching for files", "Managing power supply for general office use", "Managing internet connections in basic computer operations", "Managing hardware components only"],
     correct: 0,
     explanation: "As per DA-262 notes: File management allows all files to be easily changed and modified through text editors or file manipulation routines."
   },
@@ -1714,7 +1714,7 @@ export const da262LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Scanner is an input device that:",
-    options: ["Stores data permanently", "Displays information on screen", "Prints text on paper", "Reads text or illustrations on paper and translates to digital form"],
+    options: ["Stores data permanently for general office use", "Displays information on screen in basic computer operations", "Prints text on paper for data management only", "Reads text or illustrations on paper and translates to digital form"],
     correct: 3,
     explanation: "As per DA-262 notes: Scanner reads text or illustrations printed on paper and translates into digital form. Data need not be entered separately."
   },

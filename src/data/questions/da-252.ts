@@ -165,7 +165,7 @@ export const da252Questions: Question[] = [
     id: "d252_021",
     subject: "da-252",
     question: "The base line in chain surveying is:",
-    options: ["The longest chain line passing through the area centre", "The shortest chain line used", "A line connecting two boundary stones", "Any convenient survey line"],
+    options: ["The longest chain line passing through the area centre", "The shortest chain line used in soil management", "A line connecting two boundary stones", "Any convenient survey line under field conditions"],
     correct: 0,
     explanation: "The base line is the longest chain line in chain surveying. It is the most important line on which the whole framework of triangles is based. It should pass through the centre of the area and be accurately measured."
   },
@@ -181,7 +181,7 @@ export const da252Questions: Question[] = [
     id: "d252_023",
     subject: "da-252",
     question: "Reconnaissance in chain surveying refers to:",
-    options: ["Plotting the survey on paper", "Setting up the ranging rods", "Measuring the base line", "Preliminary inspection of the area to be surveyed"],
+    options: ["Plotting the survey on paper", "Setting up the ranging rods", "Measuring the base line in soil management", "Preliminary inspection of the area to be surveyed"],
     correct: 3,
     explanation: "Reconnaissance is the preliminary inspection of the area to be surveyed. The surveyor walks over the whole area to note boundaries, positions of buildings, roads, streams and suitable station positions."
   },
@@ -229,7 +229,7 @@ export const da252Questions: Question[] = [
     id: "d252_029",
     subject: "da-252",
     question: "Perpendicular offsets are preferred over oblique offsets mainly because they:",
-    options: ["Are more accurate for distant objects", "Can be taken quickly and entry in field book is easy", "Are only suitable for straight boundaries", "Require more instruments to set out"],
+    options: ["Are more accurate for distant objects in soil management", "Can be taken quickly and entry in field book is easy", "Are only suitable for straight boundaries under field conditions", "Require more instruments to set out for soil fertility"],
     correct: 1,
     explanation: "Perpendicular offsets are preferred because they can be taken quickly, the progress of survey is not hampered, the entry in the field book becomes easy, and the plotting of offsets is also easy."
   },
@@ -237,7 +237,7 @@ export const da252Questions: Question[] = [
     id: "d252_030",
     subject: "da-252",
     question: "The optical square works on the principle of:",
-    options: ["Absorption of infrared radiation", "Reflection from two mirrors at 45° to each other", "Diffraction of light waves", "Refraction of light rays"],
+    options: ["Absorption of infrared radiation in soil management", "Reflection from two mirrors at 45° to each other", "Diffraction of light waves under field conditions", "Refraction of light rays for soil fertility"],
     correct: 1,
     explanation: "The optical square works on the principle of reflection. It has a horizontal mirror (H) and index mirror (I) placed at an angle of 45° to each other. The mirror H is half silvered and mirror I is fully silvered."
   },
@@ -325,7 +325,7 @@ export const da252Questions: Question[] = [
     id: "d252_041",
     subject: "da-252",
     question: "Delta in irrigation refers to:",
-    options: ["Number of hectares irrigated per cumec", "Total depth of water required by a crop during its base period", "Area of command served by a canal", "The flow rate at canal head"],
+    options: ["Number of hectares irrigated per cumec in soil management", "Total depth of water required by a crop during its base period", "Area of command served by a canal under field conditions", "The flow rate at canal head for soil fertility"],
     correct: 1,
     explanation: "Delta is the total depth of water required by a crop during its entire base period. It is the total quantity of water (volume) divided by the total irrigated area, expressed in cm or inches."
   },
@@ -461,7 +461,7 @@ export const da252Questions: Question[] = [
     id: "d252_058",
     subject: "da-252",
     question: "The submersible pump has a principal advantage of being usable in:",
-    options: ["Horizontal pipeline systems only", "Surface irrigation channels only", "Very shallow open wells only", "Very deep tube wells where a long shaft is impractical"],
+    options: ["Horizontal pipeline systems only in soil management", "Surface irrigation channels only under field conditions", "Very shallow open wells only for soil fertility", "Very deep tube wells where a long shaft is impractical"],
     correct: 3,
     explanation: "The principal advantage of the submersible pump is that it can be used in a very deep tube well where a long shaft would not be practical. It is suitable for wells with minimum 100 mm diameter."
   },
@@ -621,7 +621,7 @@ export const da252Questions: Question[] = [
     id: "d252_078",
     subject: "da-252",
     question: "The volume formula for water capacity estimation Q = 28AD/EH, where A is area (ha) and D is depth (cm), H is pump working hours. The denominator EH represents:",
-    options: ["Efficiency factor times head pressure", "Evaporation times humidity index", "Time of irrigation in days times pump hours", "Elevation times hydraulic head"],
+    options: ["Efficiency factor times head pressure", "Evaporation times humidity index in soil management", "Time of irrigation in days times pump hours", "Elevation times hydraulic head under field conditions"],
     correct: 2,
     explanation: "In the formula Q = 28AD/EH, Q = capacity/head (lit./sec), A = Area (ha), D = Depth of irrigation (cm), E = time of irrigation (days), H = Pump working hours (hrs)."
   },
@@ -749,7 +749,7 @@ export const da252Questions: Question[] = [
     id: "d252_094",
     subject: "da-252",
     question: "In compass surveying, centering the prismatic compass over a station is confirmed by:",
-    options: ["Adjusting the ball and socket joint to level", "Dropping a small piece of stone to fall on the peg", "Setting the needle to north reading", "Observing the ranging rod through the prism"],
+    options: ["Adjusting the ball and socket joint to level", "Dropping a small piece of stone to fall on the peg", "Setting the needle to north reading in soil management", "Observing the ranging rod through the prism under field conditions"],
     correct: 1,
     explanation: "Centering involves placing the compass over the station by dropping a small piece of stone so that it falls on the top of the peg marking the station. Then the compass is leveled using the ball and socket joint."
   },
@@ -807,7 +807,7 @@ export const da252Questions: Question[] = [
     id: "d252_101",
     subject: "da-252",
     question: "The 'Base Period' in irrigation is defined as the time between:",
-    options: ["Sowing to harvesting of a crop", "First watering at sowing to last watering before harvesting", "Start to end of irrigation season", "Canal opening to canal closure"],
+    options: ["Sowing to harvesting of a crop", "First watering at sowing to last watering before harvesting", "Start to end of irrigation season", "Canal opening to canal closure in soil management"],
     correct: 1,
     explanation: "As per DA-252 notes: Base Period is the time between first watering during sowing and last watering before harvesting. Expressed in days.",
   },
@@ -863,7 +863,7 @@ export const da252Questions: Question[] = [
     id: "d252_108",
     subject: "da-252",
     question: "Priming in a centrifugal pump means:",
-    options: ["Starting the pump without water", "Testing pump discharge capacity", "Filling water in suction pipe to remove air before starting", "Adding lubricant to bearings"],
+    options: ["Starting the pump without water in soil management", "Testing pump discharge capacity under field conditions", "Filling water in suction pipe to remove air before starting", "Adding lubricant to bearings for soil fertility"],
     correct: 2,
     explanation: "As per DA-252 notes: Priming is the process of removing air from pump casing and suction pipe by filling water. Pump will not work if air remains in suction pipe.",
   },
@@ -911,7 +911,7 @@ export const da252Questions: Question[] = [
     id: "d252_114",
     subject: "da-252",
     question: "The open impeller in centrifugal pumps is most suitable for:",
-    options: ["High-pressure deep well applications", "Pumping viscous liquids like molasses", "Pumping clear irrigation water", "Pumping water mixed with sand, gravel and solid materials"],
+    options: ["High-pressure deep well applications in soil management", "Pumping viscous liquids like molasses under field conditions", "Pumping clear irrigation water for soil fertility", "Pumping water mixed with sand, gravel and solid materials"],
     correct: 3,
     explanation: "As per DA-252 notes: Open impeller (no side wall) is used for water mixed with sand, gravel, clay and other solid materials. Suitable for dredging works. Made of forged steel with short life.",
   },
@@ -927,7 +927,7 @@ export const da252Questions: Question[] = [
     id: "d252_116",
     subject: "da-252",
     question: "The largest area under drip irrigation globally (2008 data) was in:",
-    options: ["Australia and South Africa", "China and Brazil", "USA and Spain (1.5 million ha each)", "Israel and India"],
+    options: ["Australia and South Africa", "China and Brazil in soil management", "USA and Spain (1.5 million ha each)", "Israel and India under field conditions"],
     correct: 2,
     explanation: "As per DA-252 notes: USA and Spain each had 1.5 million ha under drip irrigation, followed by India (1.43 million ha). World total grew from 4000 ha in 1972 to over 8 million ha in 2008.",
   },
@@ -975,7 +975,7 @@ export const da252Questions: Question[] = [
     id: "d252_122",
     subject: "da-252",
     question: "A key disadvantage of the Check Basin method of irrigation is:",
-    options: ["Cannot be used for fine textured soils", "Not suitable for vegetable crops", "Requires high water pressure", "About 30% of area is lost under field channels and bunds"],
+    options: ["Cannot be used for fine textured soils", "Not suitable for vegetable crops in soil management", "Requires high water pressure under field conditions", "About 30% of area is lost under field channels and bunds"],
     correct: 3,
     explanation: "As per DA-252 notes: A disadvantage of check basin method is that considerable area (nearly 30%) is lost under field channels and bunds.",
   },
@@ -983,7 +983,7 @@ export const da252Questions: Question[] = [
     id: "d252_123",
     subject: "da-252",
     question: "Wild flooding irrigation is most commonly used for which crops?",
-    options: ["Cotton, potato and citrus", "Sugarcane and vegetables", "Rice, low value pastures, lawns and millets (broadcast crops)", "Wheat, barley and groundnut"],
+    options: ["Cotton, potato and citrus in soil management", "Sugarcane and vegetables under field conditions", "Rice, low value pastures, lawns and millets (broadcast crops)", "Wheat, barley and groundnut for soil fertility"],
     correct: 2,
     explanation: "As per DA-252 notes: Wild flooding (uncontrolled, no bunds) is most commonly used for crops sown by broadcasting viz., rice, low value pastures, lawns and millets.",
   },
@@ -999,7 +999,7 @@ export const da252Questions: Question[] = [
     id: "d252_125",
     subject: "da-252",
     question: "Corrugation method of furrow irrigation is most suitable for:",
-    options: ["Close growing crops in fine textured soils that take water slowly", "Only paddy cultivation", "Row crops requiring inter-culture operations", "Coarse textured soils with high infiltration"],
+    options: ["Close growing crops in fine textured soils that take water slowly", "Only paddy cultivation in soil management", "Row crops requiring inter-culture operations under field conditions", "Coarse textured soils with high infiltration for soil fertility"],
     correct: 0,
     explanation: "As per DA-252 notes: Corrugations (shallow furrows) are used for close growing crops that do not require inter-culture operations, and in fine textured soils that take water slowly and tend to seal and crust when flooded.",
   },
@@ -1041,7 +1041,7 @@ export const da252Questions: Question[] = [
     id: "d252c_005",
     subject: "da-252",
     question: "A plumb bob is used in surveying to:",
-    options: ["Measure magnetic bearings", "Set out right angles", "Measure distances along slopes", "Locate points directly below or above another point"],
+    options: ["Measure magnetic bearings in soil management", "Set out right angles under field conditions", "Measure distances along slopes for soil fertility", "Locate points directly below or above another point"],
     correct: 3,
     explanation: "A plumb bob (brass weight with pointed end) suspended on a string is used to locate points directly below or above another point, and for accurate instrument centering."
   },
@@ -1049,7 +1049,7 @@ export const da252Questions: Question[] = [
     id: "d252c_006",
     subject: "da-252",
     question: "In chain surveying, an offset is a measurement taken:",
-    options: ["Perpendicular to the main chain line to locate a detail point", "Parallel to the survey boundary", "Along the main chain line", "Along the diagonal of the survey area"],
+    options: ["Perpendicular to the main chain line to locate a detail point", "Parallel to the survey boundary in soil management", "Along the main chain line under field conditions", "Along the diagonal of the survey area"],
     correct: 0,
     explanation: "An offset is a lateral measurement (perpendicular or oblique) from the main chain line to locate detail points (boundaries, objects) lying away from the chain line."
   },
@@ -1249,7 +1249,7 @@ export const da252Questions: Question[] = [
     id: "d252c_031",
     subject: "da-252",
     question: "The two components of survey work divided into field and office work refer to which of the following respectively?",
-    options: ["Measuring distances and measuring angles", "Reconnaissance and final survey", "Taking measurements in the field and computing/drawing in office", "Chaining and triangulation"],
+    options: ["Measuring distances and measuring angles in soil management", "Reconnaissance and final survey under field conditions", "Taking measurements in the field and computing/drawing in office", "Chaining and triangulation for soil fertility"],
     correct: 2,
     explanation: "Survey work is divided into field work (taking measurements) and office work (computing results and drawing plans/maps). Both are essential parts of the survey process."
   },
@@ -1257,7 +1257,7 @@ export const da252Questions: Question[] = [
     id: "d252c_032",
     subject: "da-252",
     question: "Which of the following is a correct statement about sprinkler irrigation components?",
-    options: ["Water drops of 5-10 mm size are applied", "Operating pressure of 0.1 to 0.5 kg/cm² is needed", "The system consists of pump, main line, sub-main line, lateral pipes and sprinkler nozzles", "Emitters and drippers are key components"],
+    options: ["Water drops of 5-10 mm size are applied in soil management", "Operating pressure of 0.1 to 0.5 kg/cm² is needed under field conditions", "The system consists of pump, main line, sub-main line, lateral pipes and sprinkler nozzles", "Emitters and drippers are key components for soil fertility"],
     correct: 2,
     explanation: "A sprinkler irrigation system consists of: pump, main line, sub-main line, lateral pipes, and sprinkler nozzles. Operating pressure is 2-5 kg/cm², applying drops of 0.5-4 mm."
   },
@@ -1265,7 +1265,7 @@ export const da252Questions: Question[] = [
     id: "d252c_033",
     subject: "da-252",
     question: "Which of the following correctly describes the principle of operation of a centrifugal pump?",
-    options: ["Gravity drives water from a high-elevation reservoir", "Compressed air forces water through the discharge pipe", "A rotating impeller imparts kinetic energy to water, which is converted to pressure in the volute casing", "Reciprocating pistons create positive displacement of water"],
+    options: ["Gravity drives water from a high-elevation reservoir", "Compressed air forces water through the discharge pipe", "A rotating impeller imparts kinetic energy to water", "Reciprocating pistons create positive displacement of water"],
     correct: 2,
     explanation: "A centrifugal pump works by a rotating impeller inside a casing. The impeller imparts kinetic energy to water; the volute casing converts this to pressure energy for discharge."
   },
@@ -1297,7 +1297,7 @@ export const da252Questions: Question[] = [
     id: "d252c_037",
     subject: "da-252",
     question: "Agricultural surveying includes which of the following specific activities?",
-    options: ["Laying out contour lines, terrace lines, drainage lines, and computing farm areas", "Photogrammetric aerial mapping", "Measuring large national boundaries", "Conducting marine surveys for navigation"],
+    options: ["Laying out contour lines, terrace lines, drainage lines, and computing farm areas", "Photogrammetric aerial mapping in soil management", "Measuring large national boundaries under field conditions", "Conducting marine surveys for navigation for soil fertility"],
     correct: 0,
     explanation: "Agricultural surveying (simple plane surveying) includes laying out contour and terrace lines for soil conservation, drainage lines, profile lines for land leveling, computing field areas, and laying out farm buildings."
   },
@@ -1305,7 +1305,7 @@ export const da252Questions: Question[] = [
     id: "d252c_038",
     subject: "da-252",
     question: "The saw-tooth greenhouse type is preferred in tropical and subtropical regions because it provides:",
-    options: ["Maximum structural strength", "Lowest construction cost", "Better natural ventilation through vertical faces and uniform light", "Best insulation in cold weather"],
+    options: ["Maximum structural strength in soil management", "Lowest construction cost under field conditions", "Better natural ventilation through vertical faces and uniform light", "Best insulation in cold weather"],
     correct: 2,
     explanation: "The saw-tooth greenhouse design provides better natural ventilation (through vertical glass faces) and more uniform light distribution, making it well-suited for tropical and subtropical climates."
   },
@@ -1329,7 +1329,7 @@ export const da252Questions: Question[] = [
     id: "d252c_041",
     subject: "da-252",
     question: "Online pressure-compensating emitters in drip irrigation are designed to:",
-    options: ["Rotate and distribute water over a wide area", "Deliver constant flow rate regardless of pressure variations along the lateral", "Filter sediment from irrigation water", "Increase operating pressure in the main line"],
+    options: ["Rotate and distribute water over a wide area", "Deliver constant flow rate regardless of pressure variations along the lateral", "Filter sediment from irrigation water in soil management", "Increase operating pressure in the main line under field conditions"],
     correct: 1,
     explanation: "Online pressure-compensating emitters maintain a constant discharge rate regardless of pressure variations along the lateral pipeline, ensuring uniform water application."
   },
@@ -1345,7 +1345,7 @@ export const da252Questions: Question[] = [
     id: "d252c_043",
     subject: "da-252",
     question: "Triangulation surveying divides the survey area into a network of:",
-    options: ["Contour intervals", "Rectangles", "Parallel strips", "Triangles with measured base lines and angles"],
+    options: ["Contour intervals in soil management", "Rectangles under field conditions", "Parallel strips for soil fertility", "Triangles with measured base lines and angles"],
     correct: 3,
     explanation: "Triangulation survey divides the area into triangles. By measuring one base line and all angles, all other distances can be computed trigonometrically, making it ideal for large areas."
   },
@@ -1369,7 +1369,7 @@ export const da252Questions: Question[] = [
     id: "d252c_046",
     subject: "da-252",
     question: "In compass surveying, reduced bearing (RB) is measured from:",
-    options: ["The West direction anticlockwise", "North or South towards East or West (0° to 90°)", "The North direction clockwise to 360°", "The East direction clockwise"],
+    options: ["The West direction anticlockwise in soil management", "North or South towards East or West (0° to 90°)", "The North direction clockwise to 360°", "The East direction clockwise under field conditions"],
     correct: 1,
     explanation: "Reduced bearing (RB) is measured from North or South (whichever is nearer) towards East or West, ranging from 0° to 90°. Whole circle bearing (WCB) is measured clockwise from North."
   },
@@ -1377,7 +1377,7 @@ export const da252Questions: Question[] = [
     id: "d252c_047",
     subject: "da-252",
     question: "Field notes (field book) in chain surveying are important because they:",
-    options: ["Provide a systematic record of all field measurements for computation and drawing", "Replace the need for any calculations", "Are required by law for all surveys", "Are used only in triangulation surveys"],
+    options: ["Provide a systematic record of all field measurements for computation and drawing", "Replace the need for any calculations in soil management", "Are required by law for all surveys under field conditions", "Are used only in triangulation surveys for soil fertility"],
     correct: 0,
     explanation: "Field notes systematically record all measurements taken in the field, providing the essential data for office work — computing areas, checking errors, and drawing accurate plans."
   },
@@ -1393,7 +1393,7 @@ export const da252Questions: Question[] = [
     id: "d252c_049",
     subject: "da-252",
     question: "The main advantage of using shade nets in horticulture is:",
-    options: ["Providing structural support for climbing crops", "Increasing light intensity for shade-sensitive crops", "Reducing excessive light and heat for crops that cannot tolerate full sunlight", "Preventing water loss through the soil"],
+    options: ["Providing structural support for climbing crops in soil management", "Increasing light intensity for shade-sensitive crops under field conditions", "Reducing excessive light and heat for crops that cannot tolerate full sunlight", "Preventing water loss through the soil for soil fertility"],
     correct: 2,
     explanation: "Shade nets reduce excessive light intensity and heat for crops that cannot tolerate full sunlight (e.g., gerbera, orchids, ferns). They are classified by the percentage of shade they provide."
   },
@@ -1417,7 +1417,7 @@ export const da252Questions: Question[] = [
     id: "d252c_052",
     subject: "da-252",
     question: "The scale of a map is defined as:",
-    options: ["The fixed relation that every distance on the map bears to the corresponding distance on the ground", "The area covered per unit area on the map", "The height difference shown per unit of horizontal distance", "The number of contour lines per unit area"],
+    options: ["The fixed relation that every distance on the map bears to the corresponding distance on the ground", "The area covered per unit area on the map in soil management", "The height difference shown per unit of horizontal distance under field conditions", "The number of contour lines per unit area for soil fertility"],
     correct: 0,
     explanation: "Scale is the fixed relation that every distance on the map bears to the corresponding distance on the ground. Example: 1 cm on map = 5 m on ground means scale is 5 m to 1 cm (1:500)."
   },
@@ -1425,7 +1425,7 @@ export const da252Questions: Question[] = [
     id: "d252c_053",
     subject: "da-252",
     question: "In a centrifugal pump, priming is necessary because:",
-    options: ["An air-filled pump casing cannot develop suction lift to draw water", "The discharge valve must be opened first", "The motor needs initial lubrication", "The impeller needs to warm up first"],
+    options: ["An air-filled pump casing cannot develop suction lift to draw water", "The discharge valve must be opened first in soil management", "The motor needs initial lubrication under field conditions", "The impeller needs to warm up first for soil fertility"],
     correct: 0,
     explanation: "Centrifugal pumps require priming (filling casing with water) because an air-filled pump cannot develop adequate suction head to lift water from the source."
   },
@@ -1433,7 +1433,7 @@ export const da252Questions: Question[] = [
     id: "d252c_054",
     subject: "da-252",
     question: "The natural ventilation in a greenhouse uses which physical principle?",
-    options: ["Evaporative cooling through wet pad walls", "Negative pressure created by the growing plants", "Stack effect (buoyancy): warm air rises and exits through upper vents, drawing in cool air from below", "Forced convection from fans"],
+    options: ["Evaporative cooling through wet pad walls in soil management", "Negative pressure created by the growing plants under field conditions", "Stack effect (buoyancy): warm air rises and exits through upper vents, drawing in cool air from below", "Forced convection from fans for soil fertility"],
     correct: 2,
     explanation: "Natural ventilation in greenhouses uses the stack effect (thermal buoyancy): warm air rises and exits through ridge vents, drawing in cooler outside air through side vents or louvers."
   },
@@ -1457,7 +1457,7 @@ export const da252Questions: Question[] = [
     id: "d252c_057",
     subject: "da-252",
     question: "Contour bunding and terracing as soil conservation practices primarily help to:",
-    options: ["Increase soil temperature for better crop growth", "Increase groundwater extraction rate", "Slow down runoff, prevent erosion, and allow water infiltration on slopes", "Drain waterlogged fields quickly"],
+    options: ["Increase soil temperature for better crop growth", "Increase groundwater extraction rate in soil management", "Slow down runoff, prevent erosion, and allow water infiltration on slopes", "Drain waterlogged fields quickly under field conditions"],
     correct: 2,
     explanation: "Contour bunding and terracing slow runoff velocity, prevent soil erosion by water, and allow rainwater to infiltrate the soil profile on sloping agricultural lands."
   },
@@ -1473,7 +1473,7 @@ export const da252Questions: Question[] = [
     id: "d252c_059",
     subject: "da-252",
     question: "Which of the following is a correct classification of surveys based on the instrument used?",
-    options: ["Archaeological, geological, mine, and military surveys", "Triangulation and traverse surveys", "Chain, theodolite, tacheometric, compass, plane table, and photographic surveys", "Land, marine, and astronomical surveys"],
+    options: ["Archaeological, geological, mine, and military surveys", "Triangulation and traverse surveys in soil management", "Chain, theodolite, tacheometric, compass, plane table, and photographic surveys", "Land, marine, and astronomical surveys under field conditions"],
     correct: 2,
     explanation: "Classification by instrument used includes: Chain surveys, Theodolite surveys, Tacheometric surveys, Compass surveys, Plane Table surveys, and Photographic/Aerial surveys."
   },
@@ -1481,7 +1481,7 @@ export const da252Questions: Question[] = [
     id: "d252c_060",
     subject: "da-252",
     question: "The magnetic meridian in compass surveying differs from the true meridian due to:",
-    options: ["Temperature effects on the compass needle", "Magnetic declination (variation between magnetic north and true north)", "Atmospheric refraction", "Curvature of the earth"],
+    options: ["Temperature effects on the compass needle", "Magnetic declination (variation between magnetic north and true north)", "Atmospheric refraction in soil management", "Curvature of the earth under field conditions"],
     correct: 1,
     explanation: "Magnetic declination is the angular difference between magnetic north (indicated by compass) and true geographic north. This declination varies by location and changes over time."
   },
@@ -1537,7 +1537,7 @@ export const da252Questions: Question[] = [
     id: "d252c_067",
     subject: "da-252",
     question: "The Parshall flume is a water measuring device used in irrigation to measure:",
-    options: ["Pump discharge pressure", "Soil moisture", "Flow rate in open channels and canals", "Groundwater level"],
+    options: ["Pump discharge pressure in soil management", "Soil moisture under field conditions", "Flow rate in open channels and canals", "Groundwater level for soil fertility"],
     correct: 2,
     explanation: "A Parshall flume is a fixed hydraulic structure used to measure the discharge (flow rate) in open channels, canals, and irrigation distribution systems."
   },
@@ -1553,7 +1553,7 @@ export const da252Questions: Question[] = [
     id: "d252c_069",
     subject: "da-252",
     question: "Computer automation in greenhouse cultivation is primarily used for:",
-    options: ["Marketing and sales management", "Harvesting operations", "Financial record keeping", "Monitoring and automatically controlling temperature, humidity, CO₂, irrigation, and lighting"],
+    options: ["Marketing and sales management in soil management", "Harvesting operations under field conditions", "Financial record keeping for soil fertility", "Monitoring and automatically controlling temperature, humidity, CO₂, irrigation, and lighting"],
     correct: 3,
     explanation: "Computer automation in greenhouses controls all environmental parameters: temperature, humidity, CO₂ concentration, irrigation scheduling, and lighting — optimizing crop growth."
   },
@@ -1585,7 +1585,7 @@ export const da252Questions: Question[] = [
     id: "d252c_073",
     subject: "da-252",
     question: "The main use of survey in agriculture (agricultural surveying) includes:",
-    options: ["Determining the altitude of mountain peaks", "Laying out contour lines, terrace lines, drainage lines, and computing farm areas", "Navigation of ships through rivers", "Exploring mineral wealth underground"],
+    options: ["Determining the altitude of mountain peaks in soil management", "Laying out contour lines, terrace lines, drainage lines, and computing farm areas", "Navigation of ships through rivers under field conditions", "Exploring mineral wealth underground for soil fertility"],
     correct: 1,
     explanation: "Agricultural surveying includes laying out contour and terrace lines for soil conservation, drainage lines, profile lines for land leveling, and computing field/farm areas."
   },

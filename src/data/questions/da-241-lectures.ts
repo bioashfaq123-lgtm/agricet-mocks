@@ -13,7 +13,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_002", subject: "da-241", lecture: "lecture-1", lectureNo: 1,
     question: "The basic economic problem is:",
-    options: ["Trade deficit", "Inflation", "Unemployment", "Scarcity of resources relative to unlimited wants"],
+    options: ["Trade deficit in the agricultural economy", "Inflation in rural economic context", "Unemployment for farm income analysis", "Scarcity of resources relative to unlimited wants"],
     correct: 3,
     explanation: "The fundamental economic problem is scarcity — limited resources vs. unlimited human wants.",
     difficulty: "easy"
@@ -21,7 +21,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_003", subject: "da-241", lecture: "lecture-1", lectureNo: 1,
     question: "GDP (Gross Domestic Product) measures:",
-    options: ["Total value of all goods and services produced in a country in a year", "Total agricultural output", "Total foreign debt", "Total exports only"],
+    options: ["Total value of all goods and services produced in a country in a year", "Total agricultural output in the agricultural economy", "Total foreign debt in rural economic context", "Total exports only for farm income analysis"],
     correct: 0,
     explanation: "GDP is the monetary value of all final goods and services produced within a country's borders in a specific period.",
     difficulty: "easy"
@@ -37,7 +37,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_005", subject: "da-241", lecture: "lecture-1", lectureNo: 1,
     question: "Opportunity cost is defined as:",
-    options: ["The value of the next best alternative foregone", "The total cost of production", "The profit earned", "The market price"],
+    options: ["The value of the next best alternative foregone", "The total cost of production", "The profit earned in the agricultural economy", "The market price in rural economic context"],
     correct: 0,
     explanation: "Opportunity cost is the value of the next best alternative that is given up when making a decision.",
     difficulty: "medium"
@@ -45,7 +45,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_006", subject: "da-241", lecture: "lecture-1", lectureNo: 1,
     question: "Microeconomics deals with:",
-    options: ["Individual units like a firm or household", "Overall economy", "International trade", "National income"],
+    options: ["Individual units like a firm or household", "Overall economy in the agricultural economy", "International trade in rural economic context", "National income for farm income analysis"],
     correct: 0,
     explanation: "Microeconomics studies individual economic units (firms, households) and specific markets.",
     difficulty: "easy"
@@ -53,7 +53,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_007", subject: "da-241", lecture: "lecture-1", lectureNo: 1,
     question: "Macroeconomics deals with:",
-    options: ["A single crop market", "A single household budget", "Economy as a whole (national income, employment, inflation)", "Individual firm decisions"],
+    options: ["A single crop market", "A single household budget", "Economy as a whole", "Individual firm decisions"],
     correct: 2,
     explanation: "Macroeconomics studies the economy as a whole — GDP, inflation, unemployment, monetary policy.",
     difficulty: "easy"
@@ -61,7 +61,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_008", subject: "da-241", lecture: "lecture-1", lectureNo: 1,
     question: "The Law of Diminishing Returns states that:",
-    options: ["As more of a variable input is added to fixed inputs, marginal product eventually decreases", "Supply always equals demand", "Output always increases with more inputs", "Fixed costs decrease with output"],
+    options: ["As more of a variable input is added to fixed inputs, marginal product eventually decreases", "Supply always equals demand in the agricultural economy", "Output always increases with more inputs in rural economic context", "Fixed costs decrease with output for farm income analysis"],
     correct: 0,
     explanation: "The Law of Diminishing Returns: beyond a point, each additional unit of variable input yields less additional output.",
     difficulty: "medium"
@@ -69,7 +69,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_009", subject: "da-241", lecture: "lecture-1", lectureNo: 1,
     question: "Utility in economics means:",
-    options: ["Market price", "Satisfaction derived from consuming a good or service", "Usefulness of a public service", "Cost of production"],
+    options: ["Market price in the agricultural economy", "Satisfaction derived from consuming a good or service", "Usefulness of a public service", "Cost of production in rural economic context"],
     correct: 1,
     explanation: "Utility is the measure of satisfaction or benefit derived from consuming a commodity.",
     difficulty: "easy"
@@ -85,7 +85,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_011", subject: "da-241", lecture: "lecture-1", lectureNo: 1,
     question: "Green Revolution in India was associated with:",
-    options: ["Environmental protection", "Organic farming movement", "Forest conservation", "High-yielding varieties of wheat and rice"],
+    options: ["Environmental protection in the agricultural economy", "Organic farming movement", "Forest conservation in rural economic context", "High-yielding varieties of wheat and rice"],
     correct: 3,
     explanation: "The Green Revolution (1960s–70s) transformed Indian agriculture through HYVs, irrigation, and chemical inputs.",
     difficulty: "easy"
@@ -103,7 +103,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_013", subject: "da-241", lecture: "lecture-2", lectureNo: 2,
     question: "The law of demand states that:",
-    options: ["Supply determines demand", "As price increases, demand increases", "As price increases, quantity demanded decreases (inverse relationship)", "Demand is always constant"],
+    options: ["Supply determines demand in the agricultural economy", "As price increases, demand increases", "As price increases, quantity demanded decreases (inverse relationship)", "Demand is always constant in rural economic context"],
     correct: 2,
     explanation: "The law of demand: there is an inverse relationship between price and quantity demanded, ceteris paribus.",
     difficulty: "easy"
@@ -127,7 +127,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_016", subject: "da-241", lecture: "lecture-2", lectureNo: 2,
     question: "The law of supply states that:",
-    options: ["Supply is fixed", "As price decreases, supply increases", "As price increases, quantity supplied increases (positive relationship)", "Supply and price are unrelated"],
+    options: ["Supply is fixed in the agricultural economy", "As price decreases, supply increases", "As price increases, quantity supplied increases (positive relationship)", "Supply and price are unrelated"],
     correct: 2,
     explanation: "The law of supply: there is a positive relationship between price and quantity supplied, ceteris paribus.",
     difficulty: "easy"
@@ -143,7 +143,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_018", subject: "da-241", lecture: "lecture-2", lectureNo: 2,
     question: "Giffen goods are goods where:",
-    options: ["Higher supply leads to lower price", "Demand never changes", "Price is regulated", "Higher price leads to higher demand (exception to law of demand)"],
+    options: ["Higher supply leads to lower price in the agricultural economy", "Demand never changes in rural economic context", "Price is regulated for farm income analysis", "Higher price leads to higher demand (exception to law of demand)"],
     correct: 3,
     explanation: "Giffen goods are inferior goods where an increase in price leads to an increase in quantity demanded (violates normal demand law).",
     difficulty: "hard"
@@ -151,7 +151,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_019", subject: "da-241", lecture: "lecture-2", lectureNo: 2,
     question: "Supply of agricultural commodities is affected by:",
-    options: ["Weather, prices, technology, cost of inputs, government policy", "Population only", "Weather/rainfall only", "Consumers' income only"],
+    options: ["Weather, prices, technology, cost of inputs, government policy", "Population only in the agricultural economy", "Weather/rainfall only in rural economic context", "Consumers' income only for farm income analysis"],
     correct: 0,
     explanation: "Agricultural supply depends on many factors: weather, input costs, technology, support prices, and policy.",
     difficulty: "medium"
@@ -167,7 +167,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_021", subject: "da-241", lecture: "lecture-2", lectureNo: 2,
     question: "Cobweb theorem in agricultural economics explains:",
-    options: ["Fixed prices", "Government pricing policy", "Cyclical price fluctuations due to lag between planting and harvesting decisions", "Long-run equilibrium"],
+    options: ["Fixed prices in the agricultural economy", "Government pricing policy in rural economic context", "Cyclical price fluctuations due to lag between planting and harvesting decisions", "Long-run equilibrium for farm income analysis"],
     correct: 2,
     explanation: "The cobweb theorem explains price cycles in agriculture where supply decisions are based on last year's price.",
     difficulty: "hard"
@@ -175,7 +175,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_022", subject: "da-241", lecture: "lecture-2", lectureNo: 2,
     question: "Consumer surplus is defined as:",
-    options: ["Total expenditure on a good", "Difference between what consumer is willing to pay and what they actually pay", "Market surplus of goods", "Producer's profit"],
+    options: ["Total expenditure on a good in the agricultural economy", "Difference between what consumer is willing to pay and what they actually pay", "Market surplus of goods in rural economic context", "Producer's profit for farm income analysis"],
     correct: 1,
     explanation: "Consumer surplus = willingness to pay − actual price paid; it represents extra benefit to consumer.",
     difficulty: "medium"
@@ -193,7 +193,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_024", subject: "da-241", lecture: "lecture-3", lectureNo: 3,
     question: "Fixed costs in farming are costs that:",
-    options: ["Change with output level", "Change with weather", "Do not change with output in the short run (rent, interest)", "Include variable inputs"],
+    options: ["Change with output level in the agricultural economy", "Change with weather in rural economic context", "Do not change with output in the short run (rent, interest)", "Include variable inputs for farm income analysis"],
     correct: 2,
     explanation: "Fixed costs remain constant regardless of output — e.g., land rent, loan interest, depreciation.",
     difficulty: "easy"
@@ -209,7 +209,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_026", subject: "da-241", lecture: "lecture-3", lectureNo: 3,
     question: "Break-even point is the level of production where:",
-    options: ["Profit is maximized", "Marginal cost is lowest", "Fixed cost is zero", "Total Revenue equals Total Cost (no profit, no loss)"],
+    options: ["Profit is maximized", "Marginal cost is lowest", "Fixed cost is zero", "Total Revenue equals Total Cost"],
     correct: 3,
     explanation: "At the break-even point, TR = TC; the farmer neither makes profit nor incurs loss.",
     difficulty: "medium"
@@ -233,7 +233,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_029", subject: "da-241", lecture: "lecture-3", lectureNo: 3,
     question: "Economics of scale refers to:",
-    options: ["Decrease in average cost as output increases (larger farm efficiency)", "Fixed production scale", "Increasing cost with expansion", "Export economics"],
+    options: ["Decrease in average cost as output increases (larger farm efficiency)", "Fixed production scale in the agricultural economy", "Increasing cost with expansion in rural economic context", "Export economics for farm income analysis"],
     correct: 0,
     explanation: "Economies of scale occur when increasing production size leads to lower average costs per unit.",
     difficulty: "medium"
@@ -249,7 +249,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_031", subject: "da-241", lecture: "lecture-3", lectureNo: 3,
     question: "Net Return (NR) per hectare is calculated as:",
-    options: ["Gross Income − Total Cost of Cultivation", "Total Revenue + Subsidies", "Gross Income only", "Market price × Area"],
+    options: ["Gross Income − Total Cost of Cultivation", "Total Revenue + Subsidies", "Gross Income only in the agricultural economy", "Market price × Area"],
     correct: 0,
     explanation: "Net Return = Gross Income − Total Cost of Cultivation per unit area.",
     difficulty: "easy"
@@ -257,7 +257,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_032", subject: "da-241", lecture: "lecture-3", lectureNo: 3,
     question: "Depreciation of farm equipment is accounted as a:",
-    options: ["Subsidy", "Fixed cost (amortized over useful life)", "Variable cost", "Revenue"],
+    options: ["Subsidy in the agricultural economy", "Fixed cost (amortized over useful life)", "Variable cost in rural economic context", "Revenue for farm income analysis"],
     correct: 1,
     explanation: "Depreciation spreads the cost of capital assets over their useful life — it is a fixed cost.",
     difficulty: "medium"
@@ -267,7 +267,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_033", subject: "da-241", lecture: "lecture-4", lectureNo: 4,
     question: "Farm management is defined as:",
-    options: ["The science and art of organizing and operating a farm for maximum profit", "Management of farm workers", "Government farm policy", "Study of crop production only"],
+    options: ["The science and art of organizing and operating a farm for maximum profit", "Management of farm workers in the agricultural economy", "Government farm policy in rural economic context", "Study of crop production only for farm income analysis"],
     correct: 0,
     explanation: "Farm management applies economic and managerial principles to optimize farm operations for profitability.",
     difficulty: "easy"
@@ -275,7 +275,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_034", subject: "da-241", lecture: "lecture-4", lectureNo: 4,
     question: "Farm budgeting is a tool for:",
-    options: ["Planning and evaluating future farm operations financially", "Soil testing", "Crop spacing decisions", "Fertilizer application"],
+    options: ["Planning and evaluating future farm operations financially", "Soil testing in the agricultural economy", "Crop spacing decisions in rural economic context", "Fertilizer application for farm income analysis"],
     correct: 0,
     explanation: "Farm budgeting is financial planning — it estimates income, costs, and profitability of farm enterprises.",
     difficulty: "medium"
@@ -283,7 +283,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_035", subject: "da-241", lecture: "lecture-4", lectureNo: 4,
     question: "Agricultural marketing refers to:",
-    options: ["Farm production only", "Import of agricultural products", "All business activities involved in the flow of goods from producer to consumer", "Farm subsidies"],
+    options: ["Farm production only in the agricultural economy", "Import of agricultural products in rural economic context", "All business activities involved in the flow of goods from producer to consumer", "Farm subsidies for farm income analysis"],
     correct: 2,
     explanation: "Agricultural marketing encompasses storage, processing, transport, and trading of farm produce from farm to consumer.",
     difficulty: "easy"
@@ -291,7 +291,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_036", subject: "da-241", lecture: "lecture-4", lectureNo: 4,
     question: "Market margin in agricultural marketing is:",
-    options: ["Taxes paid", "Difference between consumer price and producer price (middlemen's share)", "Farmer's profit", "Transportation cost only"],
+    options: ["Taxes paid in the agricultural economy", "Difference between consumer price and producer price (middlemen's share)", "Farmer's profit in rural economic context", "Transportation cost only for farm income analysis"],
     correct: 1,
     explanation: "Market margin = retail price − farm gate price; it includes costs and profits of all marketing intermediaries.",
     difficulty: "medium"
@@ -307,7 +307,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_038", subject: "da-241", lecture: "lecture-4", lectureNo: 4,
     question: "MSP (Minimum Support Price) is announced by:",
-    options: ["State government only", "RBI", "NABARD", "Government of India (Cabinet Committee on Economic Affairs)"],
+    options: ["State government only in the agricultural economy", "RBI in rural economic context", "NABARD for farm income analysis", "Government of India (Cabinet Committee on Economic Affairs)"],
     correct: 3,
     explanation: "MSP is announced by the Government of India (CCEA) based on recommendations of CACP.",
     difficulty: "medium"
@@ -331,7 +331,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_041", subject: "da-241", lecture: "lecture-4", lectureNo: 4,
     question: "Warehousing is important in agricultural marketing because it:",
-    options: ["Provides time utility by storing produce for better price realization", "Reduces production costs", "Reduces labor requirement", "Increases farm area"],
+    options: ["Provides time utility by storing produce for better price realization", "Reduces production costs in the agricultural economy", "Reduces labor requirement in rural economic context", "Increases farm area for farm income analysis"],
     correct: 0,
     explanation: "Warehousing creates time utility — farmers can store produce and sell when prices are better rather than in post-harvest glut.",
     difficulty: "medium"
@@ -339,7 +339,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_042", subject: "da-241", lecture: "lecture-4", lectureNo: 4,
     question: "Futures market in agriculture allows farmers to:",
-    options: ["Get government subsidies", "Hedge price risk by locking in prices before harvest", "Borrow money", "Grow new crop varieties"],
+    options: ["Get government subsidies in the agricultural economy", "Hedge price risk by locking in prices before harvest", "Borrow money in rural economic context", "Grow new crop varieties for farm income analysis"],
     correct: 1,
     explanation: "Futures contracts allow farmers to sell at a predetermined price, protecting against price fall after harvest.",
     difficulty: "medium"
@@ -357,7 +357,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_044", subject: "da-241", lecture: "lecture-5", lectureNo: 5,
     question: "Short-term agricultural loans are generally for a period of:",
-    options: ["Up to 15 months (for crop season)", "5–7 years", "10–15 years", "25–30 years"],
+    options: ["Up to 15 months (for crop season)", "5–7 years in the agricultural economy", "10–15 years in rural economic context", "25–30 years for farm income analysis"],
     correct: 0,
     explanation: "Short-term agricultural credit covers the crop season (up to 15 months) for seeds, fertilizers, etc.",
     difficulty: "medium"
@@ -365,7 +365,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_045", subject: "da-241", lecture: "lecture-5", lectureNo: 5,
     question: "Kisan Credit Card (KCC) is associated with:",
-    options: ["Housing loans", "Agricultural credit for crop production expenses", "Export credit", "Industrial loans"],
+    options: ["Housing loans in the agricultural economy", "Agricultural credit for crop production expenses", "Export credit in rural economic context", "Industrial loans for farm income analysis"],
     correct: 1,
     explanation: "KCC provides farmers flexible credit for crop production, post-harvest expenses, and maintenance.",
     difficulty: "easy"
@@ -373,7 +373,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_046", subject: "da-241", lecture: "lecture-5", lectureNo: 5,
     question: "Agricultural cooperative societies help farmers by:",
-    options: ["Increasing land size", "Replacing individual farming", "Reducing crop diversity", "Providing collective bargaining, inputs, credit, and marketing services"],
+    options: ["Increasing land size in the agricultural economy", "Replacing individual farming in rural economic context", "Reducing crop diversity for farm income analysis", "Providing collective bargaining, inputs, credit, and marketing services"],
     correct: 3,
     explanation: "Cooperatives pool resources and bargaining power to help farmers access inputs, credit, and better market prices.",
     difficulty: "easy"
@@ -389,7 +389,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_048", subject: "da-241", lecture: "lecture-5", lectureNo: 5,
     question: "Pradhan Mantri Fasal Bima Yojana (PMFBY) is a scheme for:",
-    options: ["Crop insurance to protect farmers against yield losses", "Free seeds distribution", "Export subsidy", "Crop loan waiver"],
+    options: ["Crop insurance to protect farmers against yield losses", "Free seeds distribution in the agricultural economy", "Export subsidy in rural economic context", "Crop loan waiver for farm income analysis"],
     correct: 0,
     explanation: "PMFBY provides comprehensive crop insurance coverage and financial support to farmers suffering crop loss.",
     difficulty: "easy"
@@ -397,7 +397,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_049", subject: "da-241", lecture: "lecture-5", lectureNo: 5,
     question: "The main source of agricultural credit in rural India is:",
-    options: ["Government directly", "Moneylenders (informal) and commercial banks/cooperatives (formal)", "Foreign banks only", "NGOs only"],
+    options: ["Government directly in the agricultural economy", "Moneylenders (informal) and commercial banks/cooperatives (formal)", "Foreign banks only", "NGOs only in rural economic context"],
     correct: 1,
     explanation: "Both formal (banks, cooperatives) and informal (moneylenders) sources provide agricultural credit in rural India.",
     difficulty: "medium"
@@ -415,7 +415,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_051", subject: "da-241", lecture: "lecture-6", lectureNo: 6,
     question: "Procurement price in India refers to the price at which:",
-    options: ["Farmers buy inputs", "Consumers buy food", "Government procures foodgrains from farmers through FCI", "Traders export grains"],
+    options: ["Farmers buy inputs in the agricultural economy", "Consumers buy food in rural economic context", "Government procures foodgrains from farmers through FCI", "Traders export grains for farm income analysis"],
     correct: 2,
     explanation: "Procurement price is the price at which the Food Corporation of India (FCI) buys foodgrains from farmers.",
     difficulty: "medium"
@@ -431,7 +431,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_053", subject: "da-241", lecture: "lecture-6", lectureNo: 6,
     question: "Issue price is the price at which foodgrains are:",
-    options: ["Sold to consumers through PDS (Public Distribution System)", "Exported", "Procured from farmers", "Sold to exporters"],
+    options: ["Sold to consumers through PDS (Public Distribution System)", "Exported in the agricultural economy", "Procured from farmers in rural economic context", "Sold to exporters for farm income analysis"],
     correct: 0,
     explanation: "Issue price is the subsidized price at which FCI supplies grains to consumers through ration shops (PDS).",
     difficulty: "medium"
@@ -439,7 +439,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_054", subject: "da-241", lecture: "lecture-6", lectureNo: 6,
     question: "Buffer stock in India is maintained to:",
-    options: ["Feed livestock", "Export surplus", "Stabilize prices and ensure food security during scarcity", "Generate profit"],
+    options: ["Feed livestock in the agricultural economy", "Export surplus in rural economic context", "Stabilize prices and ensure food security during scarcity", "Generate profit for farm income analysis"],
     correct: 2,
     explanation: "Buffer stock is a strategic grain reserve maintained to moderate price fluctuations and ensure food availability.",
     difficulty: "medium"
@@ -447,7 +447,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_055", subject: "da-241", lecture: "lecture-6", lectureNo: 6,
     question: "Which organization publishes Agricultural Statistics in India?",
-    options: ["Directorate of Economics and Statistics (DESA), Ministry of Agriculture", "SEBI", "NABARD", "RBI"],
+    options: ["Directorate of Economics and Statistics (DESA), Ministry of Agriculture", "SEBI in the agricultural economy", "NABARD in rural economic context", "RBI for farm income analysis"],
     correct: 0,
     explanation: "The Directorate of Economics and Statistics under the Ministry of Agriculture publishes agricultural statistics.",
     difficulty: "medium"
@@ -455,7 +455,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_056", subject: "da-241", lecture: "lecture-6", lectureNo: 6,
     question: "WTO's Agreement on Agriculture (AoA) covers:",
-    options: ["Forest products only", "Market access, domestic support, and export subsidies in agriculture", "Fisheries", "Only domestic food safety"],
+    options: ["Forest products only in the agricultural economy", "Market access, domestic support, and export subsidies in agriculture", "Fisheries in rural economic context", "Only domestic food safety for farm income analysis"],
     correct: 1,
     explanation: "WTO's AoA has three pillars: market access (tariff reduction), domestic support (subsidy limits), and export subsidies.",
     difficulty: "medium"
@@ -463,7 +463,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_057", subject: "da-241", lecture: "lecture-6", lectureNo: 6,
     question: "The concept of 'Price Support' for farmers aims to:",
-    options: ["Reduce farm subsidies", "Increase export taxes", "Ensure farmers receive a minimum remunerative price for their produce", "Lower food prices for consumers"],
+    options: ["Reduce farm subsidies in the agricultural economy", "Increase export taxes in rural economic context", "Ensure farmers receive a minimum remunerative price for their produce", "Lower food prices for consumers for farm income analysis"],
     correct: 2,
     explanation: "Price support (MSP) guarantees farmers a minimum price, protecting them from market price volatility.",
     difficulty: "easy"
@@ -481,7 +481,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_059", subject: "da-241", lecture: "lecture-7", lectureNo: 7,
     question: "PM-KISAN scheme provides:",
-    options: ["Free seeds to farmers", "₹6,000 per year income support in three installments to eligible farmers", "Soil testing services", "Crop insurance premium subsidy"],
+    options: ["Free seeds to farmers in the agricultural economy", "₹6,000 per year income support in three installments to eligible farmers", "Soil testing services in rural economic context", "Crop insurance premium subsidy for farm income analysis"],
     correct: 1,
     explanation: "PM-KISAN provides direct income support of ₹6,000/year in three installments to eligible small and marginal farmers.",
     difficulty: "easy"
@@ -489,7 +489,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_060", subject: "da-241", lecture: "lecture-7", lectureNo: 7,
     question: "Micro-finance refers to:",
-    options: ["Small financial services (credit, savings, insurance) to the rural poor", "Foreign direct investment", "Large loans to corporations", "Government grants"],
+    options: ["Small financial services (credit, savings, insurance) to the rural poor", "Foreign direct investment in the agricultural economy", "Large loans to corporations in rural economic context", "Government grants for farm income analysis"],
     correct: 0,
     explanation: "Micro-finance provides small-scale financial services to low-income individuals who lack access to traditional banking.",
     difficulty: "easy"
@@ -497,7 +497,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_061", subject: "da-241", lecture: "lecture-7", lectureNo: 7,
     question: "Self Help Groups (SHGs) are:",
-    options: ["Government companies", "Individual farmer clubs", "Large cooperatives", "Small informal groups that pool savings and access micro-credit"],
+    options: ["Government companies in the agricultural economy", "Individual farmer clubs in rural economic context", "Large cooperatives for farm income analysis", "Small informal groups that pool savings and access micro-credit"],
     correct: 3,
     explanation: "SHGs are small groups (10–20 members) that pool savings, extend credit, and access bank loans collectively.",
     difficulty: "easy"
@@ -513,7 +513,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_063", subject: "da-241", lecture: "lecture-7", lectureNo: 7,
     question: "Crop insurance protects farmers against:",
-    options: ["Input cost increases", "Market price fluctuations", "Crop yield losses due to natural calamities, pests, and diseases", "Labor shortages"],
+    options: ["Input cost increases in the agricultural economy", "Market price fluctuations in rural economic context", "Crop yield losses due to natural calamities, pests, and diseases", "Labor shortages for farm income analysis"],
     correct: 2,
     explanation: "Crop insurance provides financial protection against crop losses due to drought, flood, pest, and disease.",
     difficulty: "easy"
@@ -523,7 +523,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_064", subject: "da-241", lecture: "lecture-8", lectureNo: 8,
     question: "MGNREGA provides rural households:",
-    options: ["Housing assistance", "Education scholarships", "Free food grains", "At least 100 days of guaranteed wage employment per year"],
+    options: ["Housing assistance in the agricultural economy", "Education scholarships in rural economic context", "Free food grains for farm income analysis", "At least 100 days of guaranteed wage employment per year"],
     correct: 3,
     explanation: "MGNREGA (Mahatma Gandhi National Rural Employment Guarantee Act) guarantees 100 days of employment per year to rural households.",
     difficulty: "easy"
@@ -539,7 +539,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_066", subject: "da-241", lecture: "lecture-8", lectureNo: 8,
     question: "Land reform in India primarily aimed to:",
-    options: ["Promote urban migration", "Increase industrial production", "Develop highways", "Abolish zamindari and redistribute land to the landless"],
+    options: ["Promote urban migration in the agricultural economy", "Increase industrial production in rural economic context", "Develop highways for farm income analysis", "Abolish zamindari and redistribute land to the landless"],
     correct: 3,
     explanation: "Land reforms (1950s–70s) aimed to abolish intermediaries, redistribute land, and secure tenancy rights.",
     difficulty: "medium"
@@ -547,7 +547,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_067", subject: "da-241", lecture: "lecture-8", lectureNo: 8,
     question: "Value chain in agriculture refers to:",
-    options: ["Farm gate price only", "Entire sequence of activities from production to final consumption, adding value at each stage", "Retail price only", "Export price"],
+    options: ["Farm gate price only in the agricultural economy", "Entire sequence of activities from production to final consumption, adding value at each stage", "Retail price only in rural economic context", "Export price for farm income analysis"],
     correct: 1,
     explanation: "Agricultural value chain includes input supply, production, processing, marketing, and retail — value is added at each stage.",
     difficulty: "medium"
@@ -555,7 +555,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_068", subject: "da-241", lecture: "lecture-8", lectureNo: 8,
     question: "Contract farming means:",
-    options: ["Cooperative farming", "Renting farm land", "Agreement between farmer and buyer/processor specifying price and quality before harvest", "Government takeover of farms"],
+    options: ["Cooperative farming in the agricultural economy", "Renting farm land in rural economic context", "Agreement between farmer and buyer/processor specifying price and quality before harvest", "Government takeover of farms for farm income analysis"],
     correct: 2,
     explanation: "Contract farming is a pre-harvest arrangement between farmer and buyer/company specifying quality, quantity, and price.",
     difficulty: "medium"
@@ -563,7 +563,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_069", subject: "da-241", lecture: "lecture-8", lectureNo: 8,
     question: "Doubling farmers' income by 2022 was a target set by:",
-    options: ["FAO", "ICAR", "World Bank", "Government of India (announced in 2016)"],
+    options: ["FAO in the agricultural economy", "ICAR in rural economic context", "World Bank for farm income analysis", "Government of India (announced in 2016)"],
     correct: 3,
     explanation: "The Government of India announced the target to double farmers' income by 2022 (from 2015–16 base).",
     difficulty: "easy"
@@ -573,7 +573,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_070", subject: "da-241", lecture: "lecture-9", lectureNo: 9,
     question: "Agribusiness includes:",
-    options: ["Import of food only", "Farming only", "Urban food retail", "All commercial activities related to agricultural production, processing, and distribution"],
+    options: ["Import of food only in the agricultural economy", "Farming only in rural economic context", "Urban food retail for farm income analysis", "All commercial activities related to agricultural production, processing, and distribution"],
     correct: 3,
     explanation: "Agribusiness encompasses input supply, farm production, processing, marketing, and distribution of agricultural products.",
     difficulty: "easy"
@@ -597,7 +597,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_073", subject: "da-241", lecture: "lecture-9", lectureNo: 9,
     question: "Terms of Trade (ToT) for agriculture compares:",
-    options: ["Domestic and international prices", "Prices received by farmers vs. prices paid by farmers for inputs", "Export and import volumes", "Input and output prices in manufacturing"],
+    options: ["Domestic and international prices in the agricultural economy", "Prices received by farmers vs. prices paid by farmers for inputs", "Export and import volumes in rural economic context", "Input and output prices in manufacturing for farm income analysis"],
     correct: 1,
     explanation: "Agricultural terms of trade = index of prices received (outputs) / index of prices paid (inputs) × 100.",
     difficulty: "medium"
@@ -605,7 +605,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_074", subject: "da-241", lecture: "lecture-9", lectureNo: 9,
     question: "Food processing industry is important because it:",
-    options: ["Adds value, reduces post-harvest losses, and creates employment", "Reduces crop diversity", "Reduces crop area", "Increases import dependence"],
+    options: ["Adds value, reduces post-harvest losses, and creates employment", "Reduces crop diversity in the agricultural economy", "Reduces crop area in rural economic context", "Increases import dependence for farm income analysis"],
     correct: 0,
     explanation: "Food processing adds value to raw produce, reduces post-harvest losses (40% in India), and generates rural employment.",
     difficulty: "easy"
@@ -613,7 +613,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_075", subject: "da-241", lecture: "lecture-9", lectureNo: 9,
     question: "Cold chain infrastructure is critical for:",
-    options: ["Machinery storage", "Perishable commodities (fruits, vegetables, dairy, fish)", "Fuel storage", "Cereal storage"],
+    options: ["Machinery storage in the agricultural economy", "Perishable commodities (fruits, vegetables, dairy, fish)", "Fuel storage in rural economic context", "Cereal storage for farm income analysis"],
     correct: 1,
     explanation: "Cold chain (refrigerated storage and transport) maintains quality of perishable agricultural produce throughout the value chain.",
     difficulty: "easy"
@@ -623,7 +623,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_076", subject: "da-241", lecture: "lecture-10", lectureNo: 10,
     question: "Externalities in agriculture include:",
-    options: ["Farm input costs", "Direct farm subsidies", "Costs or benefits not reflected in market prices (pollution, soil degradation)", "Export revenues"],
+    options: ["Farm input costs in the agricultural economy", "Direct farm subsidies in rural economic context", "Costs or benefits not reflected in market prices (pollution, soil degradation)", "Export revenues for farm income analysis"],
     correct: 2,
     explanation: "Externalities are costs (pesticide runoff, soil degradation) or benefits (pollination) not captured in market transactions.",
     difficulty: "medium"
@@ -631,7 +631,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_077", subject: "da-241", lecture: "lecture-10", lectureNo: 10,
     question: "Natural capital in agriculture refers to:",
-    options: ["Financial capital", "Farm machinery", "Natural resources (soil, water, biodiversity) that provide ecosystem services", "Human resources"],
+    options: ["Financial capital in the agricultural economy", "Farm machinery in rural economic context", "Natural resources (soil, water, biodiversity) that provide ecosystem services", "Human resources for farm income analysis"],
     correct: 2,
     explanation: "Natural capital includes soil health, water resources, and biodiversity that underpin agricultural productivity.",
     difficulty: "medium"
@@ -639,7 +639,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_078", subject: "da-241", lecture: "lecture-10", lectureNo: 10,
     question: "Circular economy in agriculture emphasizes:",
-    options: ["Linear take-make-dispose model", "Maximum export orientation", "Reducing waste, recycling nutrients, and regenerating natural systems", "Monoculture farming"],
+    options: ["Linear take-make-dispose model in the agricultural economy", "Maximum export orientation in rural economic context", "Reducing waste, recycling nutrients, and regenerating natural systems", "Monoculture farming for farm income analysis"],
     correct: 2,
     explanation: "Circular economy principles applied to agriculture include composting, crop-livestock integration, and reducing waste.",
     difficulty: "medium"
@@ -647,7 +647,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_079", subject: "da-241", lecture: "lecture-10", lectureNo: 10,
     question: "Carbon credits in agriculture are earned by:",
-    options: ["Using more groundwater", "Burning crop residue", "Sequestering carbon through improved farming practices (agroforestry, conservation tillage)", "Increasing synthetic fertilizer use"],
+    options: ["Using more groundwater", "Burning crop residue", "Sequestering carbon through improved farming practices", "Increasing synthetic fertilizer use"],
     correct: 2,
     explanation: "Farmers can earn carbon credits by adopting practices that sequester atmospheric CO₂ in soil and biomass.",
     difficulty: "medium"
@@ -655,7 +655,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_080", subject: "da-241", lecture: "lecture-10", lectureNo: 10,
     question: "Climate-smart agriculture aims to:",
-    options: ["Achieve food security while adapting to climate change and reducing emissions", "Expand farm size indefinitely", "Promote only traditional farming", "Maximize chemical use"],
+    options: ["Achieve food security while adapting to climate change and reducing emissions", "Expand farm size indefinitely in the agricultural economy", "Promote only traditional farming in rural economic context", "Maximize chemical use for farm income analysis"],
     correct: 0,
     explanation: "Climate-smart agriculture pursues productivity, resilience to climate change, and reduction of greenhouse gas emissions.",
     difficulty: "medium"
@@ -745,7 +745,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_091", subject: "da-241", lecture: "lecture-14", lectureNo: 14,
     question: "Under 'Equitable Mortgage', registration of property is not required because:",
-    options: ["Ownership rights are clearly specified in title deeds in the borrower's name", "It is ancestrally inherited property", "The loan amount is small", "The property is leased land"],
+    options: ["Ownership rights are clearly specified in title deeds in the borrower's name", "It is ancestrally inherited property in the agricultural economy", "The loan amount is small in rural economic context", "The property is leased land for farm income analysis"],
     correct: 0,
     explanation: "As per DA-241 notes: Equitable mortgage applies when mortgaged property is self-acquired by borrower. Since ownership rights are specified in title deeds, no registration is required.",
     difficulty: "medium"
@@ -809,7 +809,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_099", subject: "da-241", lecture: "lecture-18", lectureNo: 18,
     question: "The Mac Lagan Committee (1914-1915) was appointed to review the performance of:",
-    options: ["NABARD activities", "Commercial banks in India", "Nationalized banks", "Cooperative societies under the 1912 Act"],
+    options: ["NABARD activities in the agricultural economy", "Commercial banks in India", "Nationalized banks in rural economic context", "Cooperative societies under the 1912 Act"],
     correct: 3,
     explanation: "As per DA-241 notes: In 1914, the Government appointed a committee under Edward Mac Lagan to look into the performance of cooperative societies formed after the 1912 Act. Report presented in 1915.",
     difficulty: "medium"
@@ -817,7 +817,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_100", subject: "da-241", lecture: "lecture-18", lectureNo: 18,
     question: "In hypothecated loans, the borrower retains ownership but the banker has:",
-    options: ["Right to collect rent from the property", "No rights over the property", "Legal right to possess and sell the property on default", "Full ownership of the property"],
+    options: ["Right to collect rent from the property", "No rights over the property in the agricultural economy", "Legal right to possess and sell the property on default", "Full ownership of the property in rural economic context"],
     correct: 2,
     explanation: "As per DA-241 notes: In hypothecated loans (e.g., tractor loans), borrower has ownership rights on movable property, but the banker (hypothecatee) has legal right to take possession and sell it on default.",
     difficulty: "medium"
@@ -831,7 +831,7 @@ export const da241LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "Which of the following is a 'flow resource' in agricultural production?",
-    options: ["Building", "Seeds stored for next season", "Services of a labourer on a particular day", "Land"],
+    options: ["Building in the agricultural economy", "Seeds stored for next season", "Services of a labourer on a particular day", "Land in rural economic context"],
     correct: 2,
     explanation: "Flow resources cannot be stored and must be used as and when available, e.g., services of a labourer on a particular day. Seeds can be stored, making them a stock resource."
   },
@@ -981,7 +981,7 @@ export const da241LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Returns to Scale differs from Law of Variable Proportions in that:",
-    options: ["Returns to Scale applies only in short run", "There is no difference between the two", "Returns to Scale studies single variable input", "In Returns to Scale, proportion among factors remains the same while all factors change"],
+    options: ["Returns to Scale applies only in short run in the agricultural economy", "There is no difference between the two in rural economic context", "Returns to Scale studies single variable input for farm income analysis", "In Returns to Scale, proportion among factors remains the same while all factors change"],
     correct: 3,
     explanation: "Key difference: In Law of Variable Proportions, the proportion among factors VARIES (one factor varies, others fixed - short run). In Returns to Scale, all factors change but in the SAME proportion (long run)."
   },
@@ -1011,7 +1011,7 @@ export const da241LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "'Opportunity cost' in farm management refers to:",
-    options: ["The value of return sacrificed from the next best alternative activity", "The depreciation on farm machinery", "The actual cash expenditure on farm inputs", "The cost of hired labour on the farm"],
+    options: ["The value of return sacrificed from the next best alternative activity", "The depreciation on farm machinery in the agricultural economy", "The actual cash expenditure on farm inputs in rural economic context", "The cost of hired labour on the farm"],
     correct: 0,
     explanation: "Opportunity cost is the value of return sacrificed or foregone from the next best alternative activity. In farming, owned resources like family labour, owned bullock labour, owned machinery are valued on the basis of opportunity cost."
   },
@@ -1021,7 +1021,7 @@ export const da241LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Variable costs are also known as:",
-    options: ["Working costs, operating costs, direct costs and prime costs", "Fixed costs and indirect costs", "Implicit costs and explicit costs", "Overhead costs and sunk costs"],
+    options: ["Working costs, operating costs, direct costs and prime costs", "Fixed costs and indirect costs in the agricultural economy", "Implicit costs and explicit costs in rural economic context", "Overhead costs and sunk costs for farm income analysis"],
     correct: 0,
     explanation: "Variable costs (which vary with output level) are also known as working costs, operating costs, direct costs, prime costs, circulating costs and running costs. Fixed costs are also called overhead costs, indirect costs, and sunk costs."
   },
@@ -1031,7 +1031,7 @@ export const da241LectureQuestions: Question[] = [
     lecture: "lecture-11",
     lectureNo: 11,
     question: "Total Fixed Cost (TFC) curve is graphically represented as:",
-    options: ["A horizontal straight line parallel to X-axis", "A U-shaped curve", "A downward sloping hyperbola", "An inverse S-shaped curve"],
+    options: ["A horizontal straight line parallel to X-axis", "A U-shaped curve in the agricultural economy", "A downward sloping hyperbola", "An inverse S-shaped curve"],
     correct: 0,
     explanation: "TFC is a horizontal straight line parallel to X-axis because fixed costs remain the same irrespective of level of production. TVC has inverse S-shape, AFC curve is a declining hyperbola, and AVC has U-shape."
   },
@@ -1041,7 +1041,7 @@ export const da241LectureQuestions: Question[] = [
     lecture: "lecture-11",
     lectureNo: 11,
     question: "Marginal Cost (MC) is computed using the formula:",
-    options: ["TFC / Q", "Change in TC / Change in Q (also equal to Change in TVC / Change in Q)", "TVC / Q", "( TFC + TVC) / Q"],
+    options: ["TFC / Q in the agricultural economy", "Change in TC / Change in Q (also equal to Change in TVC / Change in Q)", "TVC / Q in rural economic context", "( TFC + TVC) / Q for farm income analysis"],
     correct: 1,
     explanation: "MC = Change in Total Costs / Change in Output = deltaTC/deltaQ = deltaTVC/deltaQ. Fixed costs cannot be changed - the only component of change in TC is TVC - so MC can be computed using either TC or TVC."
   },
@@ -1341,7 +1341,7 @@ export const da241LectureQuestions: Question[] = [
     lecture: "lecture-38",
     lectureNo: 38,
     question: "Local or Village Markets primarily exist for:",
-    options: ["Perishable commodities in small lots like local milk or vegetables", "World commodities like coffee and gold", "Durable goods like jute and tea", "Industrial machinery and equipment"],
+    options: ["Perishable commodities in small lots like local milk or vegetables", "World commodities like coffee and gold in the agricultural economy", "Durable goods like jute and tea in rural economic context", "Industrial machinery and equipment for farm income analysis"],
     correct: 0,
     explanation: "Local or Village Markets: buying and selling confined among buyers and sellers drawn from same village or nearby villages. These markets exist mostly for perishable commodities in small lots, e.g., local milk market or vegetable market."
   },
@@ -1371,7 +1371,7 @@ export const da241LectureQuestions: Question[] = [
     lecture: "lecture-40",
     lectureNo: 40,
     question: "In a Perfect market, prices at different locations of the same market area are uniform:",
-    options: ["Absolutely, without any conditions", "Only when government fixes them", "Plus or minus the cost of transport between surplus and deficit areas", "Only during peak seasons"],
+    options: ["Absolutely, without any conditions in the agricultural economy", "Only when government fixes them in rural economic context", "Plus or minus the cost of transport between surplus and deficit areas", "Only during peak seasons for farm income analysis"],
     correct: 2,
     explanation: "In perfect market, prices are uniform over a geographical area, PLUS OR MINUS the cost of getting supplies from surplus to deficit areas; and uniform over time, plus or minus the cost of storage from one period to another."
   },
@@ -1391,7 +1391,7 @@ export const da241LectureQuestions: Question[] = [
     lecture: "lecture-41",
     lectureNo: 41,
     question: "Monopolistic competition in input markets for farmers is exemplified by:",
-    options: ["One government supplier of fertilizers", "Two companies selling the same pesticide", "Multiple brands of insecticides, pump sets, fertilizers at different prices", "Government price control on all inputs"],
+    options: ["One government supplier of fertilizers in the agricultural economy", "Two companies selling the same pesticide in rural economic context", "Multiple brands of insecticides, pump sets, fertilizers at different prices", "Government price control on all inputs for farm income analysis"],
     correct: 2,
     explanation: "Monopolistic competition: large number of sellers deal in heterogeneous and differentiated commodities. Example: farmers choosing between various makes of insecticides, pump sets, fertilizers and equipment - all for same basic purpose but differentiated by trade marks."
   },
@@ -1401,7 +1401,7 @@ export const da241LectureQuestions: Question[] = [
     lecture: "lecture-43",
     lectureNo: 43,
     question: "The 'Hatha System' (Under Cover of Cloth) method of buying/selling involves:",
-    options: ["Open auction where highest bidder wins", "Sample quotation method where agent visits buyers", "Settling prices by pressing/twisting fingers under cloth using code symbols", "Fixed price sales determined by government"],
+    options: ["Open auction where highest bidder wins in the agricultural economy", "Sample quotation method where agent visits buyers", "Settling prices by pressing/twisting fingers under cloth using code symbols", "Fixed price sales determined by government in rural economic context"],
     correct: 2,
     explanation: "Hatha System (Under Cover of Cloth): prices are settled by buyer and commission agent of seller by pressing/twisting fingers of each other under cover of a piece of cloth. Code symbols are associated with the twisting of fingers."
   },
@@ -1461,7 +1461,7 @@ export const da241LectureQuestions: Question[] = [
     lecture: "lecture-19",
     lectureNo: 19,
     question: "'Specialized farming' advantage of 'Allows Better Marketing' means:",
-    options: ["Farmer has to search for many different markets", "Farmer is saved from finding markets for diversified products, allowing better assembling, grading and financing", "Prices are always higher in specialized markets", "Government support is available only for specialized farmers"],
+    options: ["Farmer has to search for many different markets in the agricultural economy", "Farmer is saved from finding markets for diversified products, allowing better assembling, grading and financing", "Prices are always higher in specialized markets in rural economic context", "Government support is available only for specialized farmers for farm income analysis"],
     correct: 1,
     explanation: "Under specialized farming, on marketing front, the farmer is better placed - saved from the pressure of finding market if selling diversified products. It allows better marketing functions including assembling, grading, financing, etc."
   },
@@ -1501,7 +1501,7 @@ export const da241LectureQuestions: Question[] = [
     lecture: "lecture-21",
     lectureNo: 21,
     question: "In farm accounting, a 'Trial Balance' serves as:",
-    options: ["A summary of all income and expenses", "A forecast of future farm income", "A record of daily transactions", "A test of arithmetic accuracy of postings in the ledger"],
+    options: ["A summary of all income and expenses", "A forecast of future farm income in the agricultural economy", "A record of daily transactions in rural economic context", "A test of arithmetic accuracy of postings in the ledger"],
     correct: 3,
     explanation: "Trial balance is a list of total amounts or balances of debit and credit of ledger accounts prepared to check arithmetical accuracy of postings. It is a TEST OF ACCURACY. In single-entry system, accuracy cannot be tested by trial balance (only possible in double entry system)."
   },
@@ -1511,7 +1511,7 @@ export const da241LectureQuestions: Question[] = [
     lecture: "lecture-19",
     lectureNo: 19,
     question: "'Ranching' in the context of farming types refers to:",
-    options: ["Mixed farming with both crops and animals", "Grazing of livestock on public pastures not fit for cultivation", "Intensive dairy farming", "Growing crops on terraced hill areas"],
+    options: ["Mixed farming with both crops and animals", "Grazing of livestock on public pastures not fit for cultivation", "Intensive dairy farming in the agricultural economy", "Growing crops on terraced hill areas in rural economic context"],
     correct: 1,
     explanation: "Ranching: Grazing of livestock on public pastures is called ranching. These lands are not fit for cultivation. It is a type of farming where animals graze on natural grasslands."
   },
@@ -1531,7 +1531,7 @@ export const da241LectureQuestions: Question[] = [
     lecture: "lecture-28",
     lectureNo: 28,
     question: "Farmer Cooperative Societies (FCS) are classified into types based on:",
-    options: ["Size of farm holding only", "Need - credit societies, marketing societies, land acquisition, and sakalarta societies", "Geographic location only", "Government regulation type"],
+    options: ["Size of farm holding only in the agricultural economy", "Need - credit societies, marketing societies, land acquisition, and sakalarta societies", "Geographic location only in rural economic context", "Government regulation type for farm income analysis"],
     correct: 1,
     explanation: "Based on need, FCS are divided into: (1) Cooperative credit societies, (2) Marketing societies, (3) Land acquisition cooperative societies, and (4) Sakalarta agricultural cooperative societies (multi-purpose)."
   },
@@ -1551,7 +1551,7 @@ export const da241LectureQuestions: Question[] = [
     lecture: "lecture-30",
     lectureNo: 30,
     question: "Murray (1953) defined Agricultural Finance as:",
-    options: ["A branch of agricultural economics dealing with financial resources of individual farm units", "The study of money markets for agricultural commodities", "The analysis of government subsidies in agriculture", "An economic study of borrowing funds by farmers, organization of farm lending agencies, and society's interest in credit for agriculture"],
+    options: ["A branch of agricultural economics dealing with financial resources of individual farm units in the agricultural economy", "The study of money markets for agricultural commodities in rural economic context", "The analysis of government subsidies in agriculture for farm income analysis", "An economic study of borrowing funds by farmers, organization of farm lending agencies, and society's interest in credit for agriculture"],
     correct: 3,
     explanation: "Murray (1953): Agricultural finance is 'an economic study of borrowing funds by farmers, the organization and operation of farm lending agencies and of society's interest in credit for agriculture.' Tandon and Dhondyal (1962) defined it as a branch of agricultural economics dealing with financial resources of individual farm units."
   },
@@ -1561,7 +1561,7 @@ export const da241LectureQuestions: Question[] = [
     lecture: "lecture-30",
     lectureNo: 30,
     question: "Macro-finance in agricultural finance deals with:",
-    options: ["Total credit needs of agricultural sector, terms and methods of use of total credit", "Financial management of individual farm business units", "Personal loans of farmers for household needs", "International agricultural credit transactions"],
+    options: ["Total credit needs of agricultural sector, terms and methods of use of total credit", "Financial management of individual farm business units in the agricultural economy", "Personal loans of farmers for household needs in rural economic context", "International agricultural credit transactions for farm income analysis"],
     correct: 0,
     explanation: "Macro-finance deals with the aspects relating to total credit needs of the agricultural sector, the terms and conditions under which credit is available, and the method of use of total credit for the development of agriculture. Micro-finance refers to financial management of individual farm business."
   },
@@ -1591,7 +1591,7 @@ export const da241LectureQuestions: Question[] = [
     lecture: "lecture-13",
     lectureNo: 13,
     question: "Marginal Revenue (MR) is expressed as:",
-    options: ["P x Q", "Change in TR / Change in Q (or TRn - TRn-1)", "TR/Q", "TR - TC"],
+    options: ["P x Q in the agricultural economy", "Change in TR / Change in Q (or TRn - TRn-1)", "TR/Q in rural economic context", "TR - TC for farm income analysis"],
     correct: 1,
     explanation: "MR = deltaTR/deltaQ = Change in total revenue / Change in quantity. In other form, MRn = TRn - TRn-1. It is the net addition to total revenue by selling an additional unit of the good."
   },
@@ -1621,7 +1621,7 @@ export const da241LectureQuestions: Question[] = [
     lecture: "lecture-33",
     lectureNo: 33,
     question: "National Agricultural Credit (Stabilization Fund) was started in 1956 for:",
-    options: ["Granting medium-term loans to State Cooperative Banks during natural calamities", "Providing long-term loans to state governments for cooperative societies", "Capitalization of NABARD", "Financing individual farmers directly"],
+    options: ["Granting medium-term loans to State Cooperative Banks during natural calamities", "Providing long-term loans to state governments for cooperative societies", "Capitalization of NABARD in the agricultural economy", "Financing individual farmers directly in rural economic context"],
     correct: 0,
     explanation: "National Agricultural Credit (Stabilization Fund) started in 1956 with RBI's initial contribution of Rs.1 crore and subsequent annual contribution of Rs.1 crore. It is utilized for granting medium-term loans to State Co-operative Banks (SCBs) especially during famines, droughts and other natural calamities."
   },
@@ -1631,7 +1631,7 @@ export const da241LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "'Discontinuous or discrete production function' arises for inputs that:",
-    options: ["Are always fixed in the short run", "Cannot be divided into smaller units and hence are used in whole numbers", "Have constant marginal productivity", "Can be divided into smaller doses and measured continuously"],
+    options: ["Are always fixed in the short run in the agricultural economy", "Cannot be divided into smaller units and hence are used in whole numbers", "Have constant marginal productivity in rural economic context", "Can be divided into smaller doses and measured continuously"],
     correct: 1,
     explanation: "Discontinuous/discrete production function arises for inputs or work units which cannot be divided into smaller units and hence are used in whole numbers. Example: number of ploughings, weedings and harvestings. Continuous functions arise for divisible inputs like seeds and fertilizers."
   },
@@ -1641,7 +1641,7 @@ export const da241LectureQuestions: Question[] = [
     lecture: "lecture-43",
     lectureNo: 43,
     question: "Dara Sale Method in agricultural marketing has a disadvantage that:",
-    options: ["It requires government intervention", "It is only available in regulated markets", "Good quality and poor quality produce fetch the same price, reducing incentive for quality production", "It takes too long to sell produce"],
+    options: ["It requires government intervention in the agricultural economy", "It is only available in regulated markets in rural economic context", "Good quality and poor quality produce fetch the same price, reducing incentive for quality production", "It takes too long to sell produce for farm income analysis"],
     correct: 2,
     explanation: "Dara Sale Method: produce in different lots is mixed and sold as one lot. Disadvantage: produce of good quality and poor quality fetch the SAME price. This causes loss of incentive for the farmer to cultivate good quality products. This method is common for crops like zeera."
   },
@@ -1661,7 +1661,7 @@ export const da241LectureQuestions: Question[] = [
     lecture: "lecture-40",
     lectureNo: 40,
     question: "Under Perfect Competition, the demand curve of an individual firm is:",
-    options: ["Upward sloping showing increasing revenue", "A horizontal (perfectly elastic) straight line at the market price", "Downward sloping like the market demand curve", "Vertical (perfectly inelastic) line"],
+    options: ["Upward sloping showing increasing revenue in the agricultural economy", "A horizontal (perfectly elastic) straight line at the market price", "Downward sloping like the market demand curve", "Vertical (perfectly inelastic) line in rural economic context"],
     correct: 1,
     explanation: "While the industry demand curve is downward sloping, the demand curve for an individual perfectly competitive firm is HORIZONTAL (completely elastic) at the level of the ruling market price. This is because the firm takes price as given and can sell any amount at that price."
   },
@@ -1671,7 +1671,7 @@ export const da241LectureQuestions: Question[] = [
     lecture: "lecture-39",
     lectureNo: 39,
     question: "The 'bulkiness' characteristic of agricultural commodities primarily affects:",
-    options: ["Transportation and storage costs (restricting location to near consumption areas)", "Perishability and decay rate", "Price determination in forward markets", "Quality variation and grading"],
+    options: ["Transportation and storage costs (restricting location to near consumption areas)", "Perishability and decay rate in the agricultural economy", "Price determination in forward markets in rural economic context", "Quality variation and grading for farm income analysis"],
     correct: 0,
     explanation: "Bulkiness of most farm products makes transportation and storage difficult and expensive, restricting the location of production to somewhere near the place of consumption or processing. The price spread in bulky products is higher because of higher costs of transportation and storage."
   },
@@ -1701,7 +1701,7 @@ export const da241LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "According to Agricultural Production Economics, the subject matter relates to:",
-    options: ["Government policy on farm subsidies", "Only maximizing single crop production", "Choice of production patterns and resource use to maximize farmer's objective within limited resources", "Import and export of agricultural commodities"],
+    options: ["Government policy on farm subsidies in the agricultural economy", "Only maximizing single crop production in rural economic context", "Choice of production patterns and resource use to maximize farmer's objective within limited resources", "Import and export of agricultural commodities for farm income analysis"],
     correct: 2,
     explanation: "Agricultural Production Economics is concerned with the choice of production patterns and resource use in order to maximize the objective function of farmers, their families, the society or the nation within a framework of limited resources. It is applied principles of choice on capital, labour, land and management."
   },
@@ -1711,7 +1711,7 @@ export const da241LectureQuestions: Question[] = [
     lecture: "lecture-38",
     lectureNo: 38,
     question: "'Secular Markets' are markets that are:",
-    options: ["Permanent markets for durable goods that can be stored for many years", "Regional markets for oilseeds", "Short period markets for perishables", "Long period markets for food grains"],
+    options: ["Permanent markets for durable goods that can be stored for many years", "Regional markets for oilseeds in the agricultural economy", "Short period markets for perishables in rural economic context", "Long period markets for food grains for farm income analysis"],
     correct: 0,
     explanation: "Secular markets are of permanent nature. The commodities traded are durable in nature and can be stored for many years. Examples are markets for machinery and manufactured goods. On the basis of time, markets are: short-period, long-period, and secular."
   },
@@ -1731,7 +1731,7 @@ export const da241LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "When manufacturing costs can fall to 70-90% by doubling output due to technical economies of scale, this is because of:",
-    options: ["Reducing number of workers", "External economies with university partnerships", "Government tax incentives", "Improving efficiency of production processes and investing in efficient equipment"],
+    options: ["Reducing number of workers in the agricultural economy", "External economies with university partnerships in rural economic context", "Government tax incentives for farm income analysis", "Improving efficiency of production processes and investing in efficient equipment"],
     correct: 3,
     explanation: "Technical Economies of Scale: by improving efficiency and size of production processes, when a business doubles output, manufacturing costs can fall to 70%-90% due to investing in more efficient equipment and labour specialization. Example: dividing production processes makes workers more efficient and specialized."
   },
@@ -1751,7 +1751,7 @@ export const da241LectureQuestions: Question[] = [
     lecture: "lecture-23",
     lectureNo: 23,
     question: "The Cooperative Planning Committee (1945) under R.G. Saraiya pointed out limited progress of cooperatives was due to:",
-    options: ["High interest rates", "Laissez-faire policy of Government and illiteracy of people", "Lack of demand for cooperative credit", "Excessive government control"],
+    options: ["High interest rates in the agricultural economy", "Laissez-faire policy of Government and illiteracy of people", "Lack of demand for cooperative credit", "Excessive government control in rural economic context"],
     correct: 1,
     explanation: "The Cooperative Planning Committee (CPC) in 1945 under Sri. R.G. Saraiya pointed out that limited progress of cooperatives was due to: 1) Laissez-faire policy of Government and 2) Illiteracy of the people."
   },
@@ -1761,7 +1761,7 @@ export const da241LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "'Transformation period' or 'production period' is defined as:",
-    options: ["The market period for selling farm produce", "The time required for a resource to be completely transformed into a product", "The time between planting and harvesting", "The planning period for farm management"],
+    options: ["The market period for selling farm produce in the agricultural economy", "The time required for a resource to be completely transformed into a product", "The time between planting and harvesting in rural economic context", "The planning period for farm management for farm income analysis"],
     correct: 1,
     explanation: "Transformation period (or production period): the time required for a resource to be completely transformed into a product. There are two types: Short run (one or more resources fixed) and Long run (all resources can be varied)."
   },
@@ -1771,7 +1771,7 @@ export const da241LectureQuestions: Question[] = [
     lecture: "lecture-31",
     lectureNo: 31,
     question: "'Marketing loans' in agricultural credit are meant to:",
-    options: ["Support household consumption needs of farmers", "Purchase tractors and tube wells", "Help farmers overcome distress sales and market produce at remunerative prices", "Fund farm production operations"],
+    options: ["Support household consumption needs of farmers in the agricultural economy", "Purchase tractors and tube wells in rural economic context", "Help farmers overcome distress sales and market produce at remunerative prices", "Fund farm production operations for farm income analysis"],
     correct: 2,
     explanation: "Marketing loans are meant to help farmers overcome DISTRESS SALES and to market produce in a better way. Commercial banks advance 75% of value of produce (based on warehouse receipt). These loans help farmers clear off debts and dispose produce at remunerative prices."
   },
@@ -1781,7 +1781,7 @@ export const da241LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Stage I of production function ends when:",
-    options: ["Marginal Product becomes zero", "Total Product is maximum", "Marginal Product equals Average Product (APP is maximum)", "Average Product becomes zero"],
+    options: ["Marginal Product becomes zero in the agricultural economy", "Total Product is maximum in rural economic context", "Marginal Product equals Average Product (APP is maximum)", "Average Product becomes zero for farm income analysis"],
     correct: 2,
     explanation: "Stage I ends at the point where MPP = APP, i.e., where APP is Maximum. Stage I starts from origin (zero input) and is characterized by MPP > APP (irrational/sub-optimal zone). Stage II starts where APP is maximum and ends where TPP is maximum (MPP = 0)."
   },
@@ -1801,7 +1801,7 @@ export const da241LectureQuestions: Question[] = [
     lecture: "lecture-44",
     lectureNo: 44,
     question: "As per DA-241 notes, SFDA was recommended by:",
-    options: ["Mac Lagan Committee (1915)", "All India Rural Credit Review Committee under Venkatappaiah (1969)", "Gadgil Committee (1969)", "V.L. Mehta Committee (1959)"],
+    options: ["Mac Lagan Committee (1915) in the agricultural economy", "All India Rural Credit Review Committee under Venkatappaiah (1969)", "Gadgil Committee (1969) in rural economic context", "V.L. Mehta Committee (1959) for farm income analysis"],
     correct: 1,
     explanation: "All India Rural Credit Review Committee (AIRCRC) under Sri. B. Venkatappaiah submitted final report in 1969 and recommended: (1) Setting up of Small Farmers Development Agency (SFDA) and MFAL, (2) Setting up of Rural Electrification Corporation (REC), among other measures."
   },
@@ -1811,7 +1811,7 @@ export const da241LectureQuestions: Question[] = [
     lecture: "lecture-43",
     lectureNo: 43,
     question: "'Grading and Standardization' as a marketing function primarily helps in:",
-    options: ["Facilitating movement of produce by establishing grades enabling buyers to buy without inspecting every lot", "Reducing the number of intermediaries in marketing channel", "Providing time utility to farm produce", "Increasing the physical quantity of farm produce"],
+    options: ["Facilitating movement of produce by establishing grades enabling buyers to buy without inspecting every lot", "Reducing the number of intermediaries in marketing channel in the agricultural economy", "Providing time utility to farm produce in rural economic context", "Increasing the physical quantity of farm produce for farm income analysis"],
     correct: 0,
     explanation: "Grading and standardization is a marketing function which facilitates movement of produce by establishing uniform grades. It enables buyers to purchase without inspecting every lot, and helps quality conscious producers get premium prices."
   },

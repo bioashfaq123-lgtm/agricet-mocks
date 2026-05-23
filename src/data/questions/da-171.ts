@@ -829,7 +829,7 @@ export const da171Questions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Bacteria infect plants through",
-    options: ["wounds or natural openings (stomata and lenticels)", "root nodules", "haustoria", "cuticle penetration only"],
+    options: ["wounds or natural openings (stomata and lenticels)", "root nodules in crop production", "haustoria in field conditions", "cuticle penetration only for agricultural purposes"],
     correct: 0,
     explanation: "As per DA-171 notes: Bacteria infect plants through wounds or natural openings (eg stomata and lenticels)."
   },
@@ -839,7 +839,7 @@ export const da171Questions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Phytoplasmas are found in which plant tissue?",
-    options: ["epidermis", "sieve tube cells of phloem", "xylem vessels", "mesophyll"],
+    options: ["epidermis in crop production", "sieve tube cells of phloem", "xylem vessels", "mesophyll in field conditions"],
     correct: 1,
     explanation: "As per DA-171 notes: Phytoplasmas are found in the sieve tube cells of plant phloem tissue."
   },
@@ -849,7 +849,7 @@ export const da171Questions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Phytoplasmas are mainly transmitted by",
-    options: ["phloem-feeding leafhoppers and plant hoppers", "thrips", "aphids only", "whiteflies"],
+    options: ["phloem-feeding leafhoppers and plant hoppers", "thrips in crop production", "aphids only", "whiteflies in field conditions"],
     correct: 0,
     explanation: "As per DA-171 notes: Most phytoplasmas are transmitted by phloem-feeding leafhoppers and plant hoppers."
   },
@@ -899,7 +899,7 @@ export const da171Questions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Sign in plant pathology refers to",
-    options: ["symptom on the plant", "loss of yield", "pathogen or its parts or products seen on host plant", "disease severity"],
+    options: ["symptom on the plant in crop production", "loss of yield in field conditions", "pathogen or its parts or products seen on host plant", "disease severity for agricultural purposes"],
     correct: 2,
     explanation: "As per DA-171 notes: Sign = the pathogen or its parts or products seen on a host plant."
   },
@@ -909,7 +909,7 @@ export const da171Questions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Inoculum in plant pathology refers to",
-    options: ["the part of the pathogen which on contact with susceptible host causes infection", "any foreign material", "the chemical used for control", "the symptom"],
+    options: ["the part of the pathogen which on contact with susceptible host causes infection", "any foreign material in crop production", "the chemical used for control in field conditions", "the symptom for agricultural purposes"],
     correct: 0,
     explanation: "As per DA-171 notes: Inoculum is the part of the pathogen which on contact with susceptible host plant causes infection."
   },
@@ -929,7 +929,7 @@ export const da171Questions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "An endemic disease is one that is",
-    options: ["occurs periodically in destructive form", "occurs at irregular intervals", "very sporadic", "constantly present in moderate to severe form confined to particular area"],
+    options: ["occurs periodically in destructive form in crop production", "occurs at irregular intervals in field conditions", "very sporadic for agricultural purposes", "constantly present in moderate to severe form confined to particular area"],
     correct: 3,
     explanation: "As per DA-171 notes: Endemic - constantly present in moderate to severe form and confined to a particular country or district. Ex: Club root of cabbage in Nilgiris."
   },
@@ -949,7 +949,7 @@ export const da171Questions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Smut affected plant parts show",
-    options: ["black or purplish black dusty mass on floral organs", "red pustules", "yellow spots", "white powdery mass"],
+    options: ["black or purplish black dusty mass on floral organs", "red pustules in crop production", "yellow spots in field conditions", "white powdery mass for agricultural purposes"],
     correct: 0,
     explanation: "As per DA-171 notes: Smuts - smut affected parts show a black or purplish black dusty mass usually appearing on floral organs."
   },
@@ -969,7 +969,7 @@ export const da171Questions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Mosaic viral disease symptom shows",
-    options: ["necrosis", "uniform yellowing", "ring spots", "alternate green and yellow patches"],
+    options: ["necrosis in crop production", "uniform yellowing", "ring spots", "alternate green and yellow patches"],
     correct: 3,
     explanation: "As per DA-171 notes: Mosaic - alternate green and yellow patches. Eg. TMV."
   },
@@ -979,7 +979,7 @@ export const da171Questions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Vein clearing viral disease shows",
-    options: ["tissue along vein is green, between veins is chlorotic", "tissue close to vein is yellow, remaining area is green", "uniform yellowing", "circular chlorosis with green centre"],
+    options: ["tissue along vein is green, between veins is chlorotic", "tissue close to vein is yellow, remaining area is green", "uniform yellowing in crop production", "circular chlorosis with green centre in field conditions"],
     correct: 1,
     explanation: "As per DA-171 notes: Vein clearing - tissue close to vein is yellow and remaining area is green. Eg vein clearing of bhendi."
   },
@@ -989,7 +989,7 @@ export const da171Questions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Bacterial soft rot is characterized by",
-    options: ["dry corky tissue", "soft, watery tissue with slimy foul smelling ooze", "black pustules", "powdery masses"],
+    options: ["dry corky tissue in crop production", "soft, watery tissue with slimy foul smelling ooze", "black pustules in field conditions", "powdery masses for agricultural purposes"],
     correct: 1,
     explanation: "As per DA-171 notes: Bacterial soft rots - bacteria produce enzymes causing disintegration of cells and rotting of tissue becomes soft and watery, contains slimy foul smelling ooze."
   },
@@ -999,7 +999,7 @@ export const da171Questions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Collateral hosts in plant pathology serve as",
-    options: ["economic hosts", "resistant plants", "weed hosts that bridge gap between two crop seasons", "alternate hosts"],
+    options: ["economic hosts in crop production", "resistant plants in field conditions", "weed hosts that bridge gap between two crop seasons", "alternate hosts for agricultural purposes"],
     correct: 2,
     explanation: "As per DA-171 notes: Collateral hosts are susceptible to plant pathogens of crop plants and provide facilities for growth/reproduction during offseason; weed hosts help to bridge gap between two crop seasons."
   },
@@ -1019,7 +1019,7 @@ export const da171Questions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Autonomous/direct dispersal of plant pathogens occurs through",
-    options: ["nematodes", "soil, seed and planting material during normal agronomic operations", "insects and birds", "wind and water"],
+    options: ["nematodes in crop production", "soil, seed and planting material during normal agronomic operations", "insects and birds in field conditions", "wind and water for agricultural purposes"],
     correct: 1,
     explanation: "As per DA-171 notes: Autonomous or direct dispersal - dispersal of plant pathogens takes place through soil, seed and planting material during normal agronomic operations."
   },
@@ -1029,7 +1029,7 @@ export const da171Questions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "In pre-penetration stage, fungal pathogens undergo",
-    options: ["spore germination and growth of germ tube on host surface", "colonization", "host invasion", "toxin production"],
+    options: ["spore germination and growth of germ tube on host surface", "colonization in crop production", "host invasion in field conditions", "toxin production for agricultural purposes"],
     correct: 0,
     explanation: "As per DA-171 notes: In fungal pathogens, pre-penetration includes spore germination and growth of the resulting germ tube on the surface of the host plant."
   },
@@ -1049,7 +1049,7 @@ export const da171Questions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "In Avoidance principle of disease management, sick soils refer to fields with",
-    options: ["waterlogging", "continuous cultivation of same crop causing pathogen saturation", "chemical toxicity", "high pH"],
+    options: ["waterlogging in crop production", "continuous cultivation of same crop causing pathogen saturation", "chemical toxicity in field conditions", "high pH for agricultural purposes"],
     correct: 1,
     explanation: "As per DA-171 notes: Continuous cultivation of same crop in same field helps perpetuation of pathogen in soil; such soils are called sick soils."
   },
@@ -1059,7 +1059,7 @@ export const da171Questions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Rouging in plant disease management refers to",
-    options: ["deep ploughing", "seed treatment", "removal of diseased plants or affected parts from field", "chemical spraying"],
+    options: ["deep ploughing in crop production", "seed treatment in field conditions", "removal of diseased plants or affected parts from field", "chemical spraying for agricultural purposes"],
     correct: 2,
     explanation: "As per DA-171 notes: Rouging - Removal of diseased plants or their affected parts from field which prevents dissemination of plant pathogens."
   },
@@ -1119,7 +1119,7 @@ export const da171Questions: Question[] = [
     lecture: "lecture-12",
     lectureNo: 12,
     question: "Wilting of plants is caused by",
-    options: ["viral infection only", "injury to root system, plugging of vessels or toxic substances from pathogen", "insect damage only", "excess water"],
+    options: ["viral infection only in crop production", "injury to root system, plugging of vessels or toxic substances from pathogen", "insect damage only in field conditions", "excess water for agricultural purposes"],
     correct: 1,
     explanation: "As per DA-171 notes: Wilting may be result of injury to root system, partial plugging of water conducting vessels or toxic substances secreted by pathogen."
   },
@@ -1139,7 +1139,7 @@ export const da171Questions: Question[] = [
     lecture: "lecture-12",
     lectureNo: 12,
     question: "Cankers mostly cause localized death of which tissues?",
-    options: ["Root tissues", "Vascular tissues", "Seed tissues", "Cortical tissues of stem, fruits or leaves"],
+    options: ["Root tissues in crop production", "Vascular tissues in field conditions", "Seed tissues for agricultural purposes", "Cortical tissues of stem, fruits or leaves"],
     correct: 3,
     explanation: "As per DA-171 notes: Cankers mostly cause localized death of the cortical tissues of stem, fruits or leaves."
   },
@@ -1149,7 +1149,7 @@ export const da171Questions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Anthracnose disease appears as",
-    options: ["yellow patches", "downy growth", "circular to angular spots occurring along leaf veins, petioles, stems and fruits", "powdery growth"],
+    options: ["yellow patches in crop production", "downy growth in field conditions", "circular to angular spots occurring along leaf veins, petioles, stems and fruits", "powdery growth for agricultural purposes"],
     correct: 2,
     explanation: "As per DA-171 notes: Anthracnose - circular to angular, sometimes irregular spots occurring along the leaf veins, petioles, stems and fruits."
   },
@@ -1199,7 +1199,7 @@ export const da171Questions: Question[] = [
     lecture: "lecture-22",
     lectureNo: 22,
     question: "Groundnut Tikka disease is caused by",
-    options: ["Aspergillus niger", "Puccinia arachidis", "Cercospora arachidicola (early Tikka) and Cercosporidium personatum (late Tikka)", "Tomato spotted wilt virus"],
+    options: ["Aspergillus niger in crop production", "Puccinia arachidis in field conditions", "Cercospora arachidicola (early Tikka) and Cercosporidium personatum (late Tikka)", "Tomato spotted wilt virus for agricultural purposes"],
     correct: 2,
     explanation: "As per DA-171 notes: Groundnut - Tikka spot (early and late leaf spots) are major fungal diseases of groundnut caused by Cercospora species."
   },
@@ -1229,7 +1229,7 @@ export const da171Questions: Question[] = [
     lecture: "lecture-27",
     lectureNo: 27,
     question: "Yellow mosaic is a major disease of",
-    options: ["Sunflower", "Green gram and Black gram", "Sorghum", "Castor"],
+    options: ["Sunflower in crop production", "Green gram and Black gram", "Sorghum in field conditions", "Castor for agricultural purposes"],
     correct: 1,
     explanation: "As per DA-171 notes: Green gram and Black gram - yellow mosaic is listed as a major disease."
   },
@@ -1319,7 +1319,7 @@ export const da171Questions: Question[] = [
     lecture: "lecture-20",
     lectureNo: 20,
     question: "Green ear of pearl millet (Bajra) is an example of which symptom type?",
-    options: ["Wilt", "Damping-off", "Hypertrophy - transformation of plant parts", "Blight"],
+    options: ["Wilt in crop production", "Damping-off in field conditions", "Hypertrophy - transformation of plant parts", "Blight for agricultural purposes"],
     correct: 2,
     explanation: "As per DA-171 notes: Transformation of plant parts - earheads converted into green leaf like structures. Eg: Green ear of pearl millet."
   },
@@ -1359,7 +1359,7 @@ export const da171Questions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Bacteria enter plants most frequently through",
-    options: ["direct cuticle penetration", "wounds and less frequently through natural openings", "special infection pegs", "haustorium formation"],
+    options: ["direct cuticle penetration in crop production", "wounds and less frequently through natural openings", "special infection pegs in field conditions", "haustorium formation for agricultural purposes"],
     correct: 1,
     explanation: "As per DA-171 notes: Bacteria enter plants mostly through wounds and less frequently through natural openings."
   },
@@ -1369,7 +1369,7 @@ export const da171Questions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Primary inoculum is the inoculum that causes",
-    options: ["only soil-borne infections", "secondary infection", "only aerial infections", "the initial infection from sources of pathogen survival"],
+    options: ["only soil-borne infections in crop production", "secondary infection in field conditions", "only aerial infections for agricultural purposes", "the initial infection from sources of pathogen survival"],
     correct: 3,
     explanation: "As per DA-171 notes: Initial infection that occurs from sources of pathogen survival in the crop is primary infection and propagules causing this are called primary inoculum."
   },
@@ -1389,7 +1389,7 @@ export const da171Questions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Addition of heavy doses of organic matter (green manure crops) to soil helps in wilt management by",
-    options: ["acidifying the soil", "killing the pathogen directly", "enhancing antagonistic micro-organisms that suppress pathogen activity", "alkalizing the soil"],
+    options: ["acidifying the soil in crop production", "killing the pathogen directly", "enhancing antagonistic micro-organisms that suppress pathogen activity", "alkalizing the soil in field conditions"],
     correct: 2,
     explanation: "As per DA-171 notes: Addition of heavy doses of organic matter to soil suppresses wilt pathogen activity by enhancing antagonistic micro-organisms."
   },
@@ -1449,7 +1449,7 @@ export const da171Questions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Sporadic disease occurs",
-    options: ["periodically in destructive form", "constantly in one region", "at very irregular intervals in fewer instances", "every crop season"],
+    options: ["periodically in destructive form", "constantly in one region", "at very irregular intervals in fewer instances", "every crop season in crop production"],
     correct: 2,
     explanation: "As per DA-171 notes: Sporadic disease - occurs at very irregular intervals and locations and in relatively fewer instances. Ex: Udbatta disease of rice."
   },

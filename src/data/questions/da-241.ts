@@ -109,7 +109,7 @@ export const da241Questions: Question[] = [
     id: "d241_014",
     subject: "da-241",
     question: "The government scheme that provides crop insurance to farmers in India is:",
-    options: ["MNREGA", "PM-KISAN", "Kisan Credit Card", "Pradhan Mantri Fasal Bima Yojana (PMFBY)"],
+    options: ["MNREGA in the agricultural economy", "PM-KISAN in rural economic context", "Kisan Credit Card", "Pradhan Mantri Fasal Bima Yojana (PMFBY)"],
     correct: 3,
     explanation: "Pradhan Mantri Fasal Bima Yojana (PMFBY) was launched in 2016 to provide comprehensive crop insurance against natural calamities. Premium is subsidised — farmers pay 1.5–2% for rabi and 2% for kharif crops."
   },
@@ -229,7 +229,7 @@ export const da241Questions: Question[] = [
     id: "d241_029",
     subject: "da-241",
     question: "Which body recommends the Minimum Support Price (MSP) to the central government?",
-    options: ["NITI Aayog", "Commission for Agricultural Costs and Prices (CACP)", "NABARD", "RBI"],
+    options: ["NITI Aayog in the agricultural economy", "Commission for Agricultural Costs and Prices (CACP)", "NABARD in rural economic context", "RBI for farm income analysis"],
     correct: 1,
     explanation: "The Commission for Agricultural Costs and Prices (CACP) is a statutory body that recommends MSP for 22 mandated crops including Kharif, Rabi crops, and commercial crops. The final MSP is announced by the Cabinet Committee on Economic Affairs."
   },
@@ -349,7 +349,7 @@ export const da241Questions: Question[] = [
     id: "d241_044",
     subject: "da-241",
     question: "The 'income multiplier effect' of agriculture means:",
-    options: ["Government spending on agriculture subsidies multiplies to create rural non-farm employment", "Every rupee of farm income generates additional income in the rest of the economy through backward and forward linkages", "Crop price inflation compounds annually to generate multiple times the original farm income", "Agricultural income is progressively reduced by taxes causing decline in rural purchasing power"],
+    options: ["Government spending on agriculture subsidies multiplies to create rural non-farm employment in the agricultural economy", "Every rupee of farm income generates additional income in the rest of the economy through backward and forward linkages", "Crop price inflation compounds annually to generate multiple times the original farm income in rural economic context", "Agricultural income is progressively reduced by taxes causing decline in rural purchasing power for farm income analysis"],
     correct: 1,
     explanation: "Agricultural income multiplier: farm income stimulates demand for non-farm goods and services. Farmers buy: inputs (fertilizers, machinery), consumer goods, and services. This creates additional income in the non-farm economy. Agriculture has high multiplier due to its size and linkages."
   },
@@ -381,7 +381,7 @@ export const da241Questions: Question[] = [
     id: "d241_048",
     subject: "da-241",
     question: "The 'terms of trade' for agriculture (Tott) refers to:",
-    options: ["Volume of agricultural commodities traded between local farming communities annually", "The ratio of prices received by farmers (output prices) to prices paid by farmers (input prices)", "Bilateral trade agreements between countries governing agricultural tariffs and quotas", "Government export-import policy determining duty structure on agricultural products"],
+    options: ["Volume of agricultural commodities traded between local farming communities annually in the agricultural economy", "The ratio of prices received by farmers (output prices) to prices paid by farmers (input prices)", "Bilateral trade agreements between countries governing agricultural tariffs and quotas in rural economic context", "Government export-import policy determining duty structure on agricultural products for farm income analysis"],
     correct: 1,
     explanation: "Terms of Trade (ToT) for agriculture = (Index of prices received by farmers) / (Index of prices paid by farmers) × 100. When ToT < 100, agriculture is in unfavourable terms of trade — farmers' purchasing power for inputs has declined. ToT improvement is a policy goal."
   },
@@ -453,7 +453,7 @@ export const da241Questions: Question[] = [
     id: "d241_057",
     subject: "da-241",
     question: "PM-KISAN (Pradhan Mantri Kisan Samman Nidhi) provides an annual direct income support of:",
-    options: ["₹10,000/year", "₹6,000/year (₹2,000 every 4 months)", "₹4,000/year", "₹2,000/year"],
+    options: ["₹10,000/year in the agricultural economy", "₹6,000/year (₹2,000 every 4 months)", "₹4,000/year in rural economic context", "₹2,000/year for farm income analysis"],
     correct: 1,
     explanation: "PM-KISAN (launched December 2018): provides ₹6,000 per year to all farmer families owning cultivable land (small, marginal, and large farmers), paid in three equal installments of ₹2,000 every four months directly into bank accounts through DBT."
   },
@@ -485,7 +485,7 @@ export const da241Questions: Question[] = [
     id: "d241_061",
     subject: "da-241",
     question: "The 'cooperative credit structure' in India has levels:",
-    options: ["Two-tier system of commercial banks and NABARD providing all agricultural credit", "Four-tier system with national, state, district, and village level cooperative banking units", "Three-tier: Primary Agricultural Credit Societies (PACS) at village — District Central Cooperative Banks (DCCBs) — State Cooperative Banks (SCBs)", "Single-tier structure with primary cooperative societies directly linked to NABARD for refinancing"],
+    options: ["Two-tier system of commercial banks and NABARD providing all agricultural credit in the agricultural economy", "Four-tier system with national, state, district, and village level cooperative banking units in rural economic context", "Three-tier: Primary Agricultural Credit Societies (PACS) at village — District Central Cooperative Banks (DCCBs) — State Cooperative Banks (SCBs)", "Single-tier structure with primary cooperative societies directly linked to NABARD for refinancing for farm income analysis"],
     correct: 2,
     explanation: "Three-tier cooperative credit structure: PACS (village/primary level) — DCCBs (district level) — SCBs (state level). NABARD refinances SCBs. PACS provide short-term crop loans to members. About 95,000 PACS serve rural India. Credit cooperatives also include cooperative land development banks (CLDBs) for long-term credit."
   },
@@ -533,7 +533,7 @@ export const da241Questions: Question[] = [
     id: "d241_067",
     subject: "da-241",
     question: "The 'land tenure' reforms after Indian independence included:",
-    options: ["Zamindari abolition, tenancy reforms, land ceiling laws, and consolidation of holdings to improve land distribution equity", "Increasing landlord power over tenant cultivators through codified regulatory framework", "Maintaining the existing zamindari system with minor administrative modifications only", "Encouraging large-scale absentee landlordism and corporate farming on consolidated estates"],
+    options: ["Zamindari abolition, tenancy reforms, land ceiling laws, and consolidation of holdings to improve land distribution equity", "Increasing landlord power over tenant cultivators through codified regulatory framework in the agricultural economy", "Maintaining the existing zamindari system with minor administrative modifications only in rural economic context", "Encouraging large-scale absentee landlordism and corporate farming on consolidated estates for farm income analysis"],
     correct: 0,
     explanation: "Post-independence land reforms: Zamindari abolition (1950s), Tenancy reforms (tenants got security of tenure and ownership rights), Land ceiling legislation (limiting individual holdings to 4–18 ha), Consolidation of fragmented holdings, and Bhoodan/Gramdan movements (voluntary land redistribution)."
   },
@@ -573,7 +573,7 @@ export const da241Questions: Question[] = [
     id: "d241_072",
     subject: "da-241",
     question: "The 'Integrated Farming System' (IFS) approach integrates:",
-    options: ["Crop cultivation + livestock + fishery + horticulture on the same farm for better income and sustainability", "Coordination of central government agricultural schemes for comprehensive rural development", "Animal husbandry alone integrated with crop residue utilisation for fodder production", "Exclusive crop production optimised through soil-specific nutrient management protocols"],
+    options: ["Crop cultivation + livestock + fishery + horticulture on the same farm for better income and sustainability", "Coordination of central government agricultural schemes for comprehensive rural development in the agricultural economy", "Animal husbandry alone integrated with crop residue utilisation for fodder production in rural economic context", "Exclusive crop production optimised through soil-specific nutrient management protocols for farm income analysis"],
     correct: 0,
     explanation: "Integrated Farming System combines crop (cereals, vegetables, oilseeds) + livestock (dairy, poultry, sheep/goat) + fishery (pond) + horticulture + apiculture on the same farm. Waste from one enterprise becomes input for another. Enhances income, employment, and environmental sustainability."
   },
@@ -581,7 +581,7 @@ export const da241Questions: Question[] = [
     id: "d241_073",
     subject: "da-241",
     question: "The 'National Food Security Mission (NFSM)' focuses on:",
-    options: ["Reducing cultivated area in favour of high-value horticultural crops for export markets", "Facilitating agricultural commodity imports to supplement domestic production shortfalls", "Strengthening government procurement and distribution network for public food security", "Increasing production of rice, wheat, pulses, coarse cereals, and nutri-cereals through area expansion and productivity improvement"],
+    options: ["Reducing cultivated area in favour of high-value horticultural crops for export markets", "Facilitating agricultural commodity imports to supplement domestic production shortfalls in the agricultural economy", "Strengthening government procurement and distribution network for public food security in rural economic context", "Increasing production of rice, wheat, pulses, coarse cereals, and nutri-cereals through area expansion and productivity improvement"],
     correct: 3,
     explanation: "NFSM (launched 2007): aims to increase production of rice, wheat, pulses, coarse cereals (from 2014), and nutri-cereals (from 2018) to ensure food security. It provides subsidized seeds, fertilizers (micronutrients), farm machinery, and demonstrations of improved practices."
   },
@@ -597,7 +597,7 @@ export const da241Questions: Question[] = [
     id: "d241_075",
     subject: "da-241",
     question: "The 'marketing efficiency' in agricultural marketing is measured by:",
-    options: ["Number of licensed traders and commission agents registered in the regulated market", "Number of government-regulated APMC mandis established per district across the state", "Volume of produce sold at the highest price across all mandis during peak harvest season", "Reduction in marketing costs for given level of service, OR increase in output (service) for given cost — technically or operationally"],
+    options: ["Number of licensed traders and commission agents registered in the regulated market", "Number of government-regulated APMC mandis established per district across the state", "Volume of produce sold at the highest price across all mandis during peak harvest season", "Reduction in marketing costs for given level of service, OR increase in output (service) for given cost"],
     correct: 3,
     explanation: "Marketing efficiency: Technical (operational) efficiency = output of marketing services / input costs — measures cost-effectiveness. Pricing efficiency = how well prices reflect true value and transmit market signals. Both are needed for efficient agriculture marketing."
   },
@@ -645,7 +645,7 @@ export const da241Questions: Question[] = [
     id: "d241_081",
     subject: "da-241",
     question: "The 'Farmer Producer Organization' (FPO) concept helps small farmers by:",
-    options: ["Removing all agricultural middlemen through mandatory producer-to-consumer direct sales", "Providing free agricultural mechanization services financed entirely through government grants", "Enabling direct government procurement from each individual farmer household separately", "Aggregating small farmers into collectively organized entities for better market power, input access, and credit"],
+    options: ["Removing all agricultural middlemen through mandatory producer-to-consumer direct sales in the agricultural economy", "Providing free agricultural mechanization services financed entirely through government grants in rural economic context", "Enabling direct government procurement from each individual farmer household separately for farm income analysis", "Aggregating small farmers into collectively organized entities for better market power, input access, and credit"],
     correct: 3,
     explanation: "FPOs (Farmer Producer Companies/Cooperatives): aggregate small/marginal farmers to achieve economies of scale in: bulk input purchasing (fertilizer, seeds), collective marketing (better prices, direct sales to processors), accessing finance, and adopting technology. Government targets 10,000 FPOs by 2024."
   },
@@ -701,7 +701,7 @@ export const da241Questions: Question[] = [
     id: "d241_088",
     subject: "da-241",
     question: "The 'agricultural value chain' concept includes:",
-    options: ["Primary crop production stage alone including land preparation and crop management", "Government procurement stage from FCI mandis at minimum support price operations only", "All stages from production to consumption: inputs → production → harvest → storage → processing → marketing → retail → consumer", "Retail distribution stage from APMC regulated markets to final consumer outlets only"],
+    options: ["Primary crop production stage alone including land preparation and crop management in the agricultural economy", "Government procurement stage from FCI mandis at minimum support price operations only in rural economic context", "All stages from production to consumption: inputs → production → harvest → storage → processing → marketing → retail → consumer", "Retail distribution stage from APMC regulated markets to final consumer outlets only for farm income analysis"],
     correct: 2,
     explanation: "Agricultural value chain: Input suppliers → Farmers (production) → Post-harvest handling → Storage → Processing → Wholesale trade → Retail → Consumer. Value is added at each stage. Value chain development reduces losses, improves income sharing, and connects farmers to markets."
   },
@@ -733,7 +733,7 @@ export const da241Questions: Question[] = [
     id: "d241_092",
     subject: "da-241",
     question: "The 'seasonal price variation' in agricultural commodities occurs because:",
-    options: ["Large traders deliberately withhold stocks to artificially create price rises through hoarding", "Agricultural production is seasonal (concentrated supply at harvest) but consumption is year-round, causing price dips at harvest and rises off-season", "Differential GST rates on agricultural commodities create periodic seasonal price fluctuations", "Government revises MSP rates on a seasonal basis creating alternating price cycles"],
+    options: ["Large traders deliberately withhold stocks to artificially create price rises through hoarding in the agricultural economy", "Agricultural production is seasonal (concentrated supply at harvest) but consumption is year-round, causing price dips at harvest and rises off-season", "Differential GST rates on agricultural commodities create periodic seasonal price fluctuations in rural economic context", "Government revises MSP rates on a seasonal basis creating alternating price cycles for farm income analysis"],
     correct: 1,
     explanation: "Seasonal price variation: Most crops are harvested in 1–2 short periods (concentrated supply) but consumed throughout the year. At harvest time, supply exceeds demand → prices fall. In lean season, supply decreases while demand continues → prices rise. Storage reduces this variation."
   },
@@ -773,7 +773,7 @@ export const da241Questions: Question[] = [
     id: "d241_097",
     subject: "da-241",
     question: "The 'agricultural extension' service in India is delivered through:",
-    options: ["Multiple channels: KVK (farm science centres), state agriculture department extension workers, ATMAs, NGOs, private sector, digital advisory", "Exclusively through Doordarshan agricultural programmes and All India Radio rural broadcasts", "Only through ICAR scientists visiting farms periodically for crop technology demonstration", "Solely through state-employed agriculture officers posted at block and mandal headquarters"],
+    options: ["Multiple channels: KVK (farm science centres), state agriculture department extension workers, ATMAs, NGOs, private sector, digital advisory", "Exclusively through Doordarshan agricultural programmes and All India Radio rural broadcasts in the agricultural economy", "Only through ICAR scientists visiting farms periodically for crop technology demonstration in rural economic context", "Solely through state-employed agriculture officers posted at block and mandal headquarters for farm income analysis"],
     correct: 0,
     explanation: "Extension delivery channels: KVKs (ICAR), state agriculture department extension workers (AAO, ADO, AO), ATMAs (Agricultural Technology Management Agencies), NGOs, Input dealers, Private agri-business extension, Digital platforms (Kisan Call Centre, mKisan SMS portal, AgroStar, Dehaat)."
   },
@@ -919,7 +919,7 @@ export const da241Questions: Question[] = [
     id: "d241_115",
     subject: "da-241",
     question: "Macro-level agricultural finance deals with:",
-    options: ["Personal savings of farmers", "Financial management of individual farm units", "Day-to-day farm expenditure", "Total credit needs of the agricultural sector and lending by institutions"],
+    options: ["Personal savings of farmers in the agricultural economy", "Financial management of individual farm units in rural economic context", "Day-to-day farm expenditure for farm income analysis", "Total credit needs of the agricultural sector and lending by institutions"],
     correct: 3,
     explanation: "As per DA-241 notes: Macro-finance deals with total credit needs of the agricultural sector, terms and conditions, and methods of use of total credit for agricultural development.",
   },
@@ -935,7 +935,7 @@ export const da241Questions: Question[] = [
     id: "d241_117",
     subject: "da-241",
     question: "The Mac Lagan Committee (1914-1915) was appointed to review the performance of:",
-    options: ["Commercial banks", "NABARD activities", "Cooperative societies under the 1912 Act", "Nationalized banks"],
+    options: ["Commercial banks in the agricultural economy", "NABARD activities in rural economic context", "Cooperative societies under the 1912 Act", "Nationalized banks for farm income analysis"],
     correct: 2,
     explanation: "As per DA-241 notes: In 1914, a committee under Edward Mac Lagan was appointed to review cooperative societies formed after the 1912 Cooperative Societies Act.",
   },
@@ -951,7 +951,7 @@ export const da241Questions: Question[] = [
     id: "d241_119",
     subject: "da-241",
     question: "Complete farm planning (whole farm planning) is adopted when:",
-    options: ["Minor resource substitution is needed", "Only pest management is revised", "Major changes are contemplated in the entire farm organization", "Only one enterprise needs improvement"],
+    options: ["Minor resource substitution is needed in the agricultural economy", "Only pest management is revised in rural economic context", "Major changes are contemplated in the entire farm organization", "Only one enterprise needs improvement for farm income analysis"],
     correct: 2,
     explanation: "As per DA-241 notes: Complete or whole farm planning is adopted when major changes are contemplated in existing farm organization. Simple farm planning is for minor single-enterprise changes.",
   },
@@ -959,7 +959,7 @@ export const da241Questions: Question[] = [
     id: "d241_120",
     subject: "da-241",
     question: "In hypothecated loans, the borrower retains ownership but the banker has:",
-    options: ["Full ownership of the property", "Legal right to possess and sell the property on default", "Right to collect rent", "No rights over the property"],
+    options: ["Full ownership of the property in the agricultural economy", "Legal right to possess and sell the property on default", "Right to collect rent in rural economic context", "No rights over the property for farm income analysis"],
     correct: 1,
     explanation: "As per DA-241 notes: In hypothecated loans (tractor, machinery loans), borrower has ownership rights on movable property, but the banker has legal right to take possession and sell it on default.",
   },
@@ -986,7 +986,7 @@ export const da241Questions: Question[] = [
     id: "d241c_003",
     subject: "da-241",
     question: "Elasticity of Production (Ep) equals 1 at which stage boundary?",
-    options: ["At the end of Stage I (where MPP = APP)", "At maximum TPP", "At the end of Stage II", "At the beginning of Stage III"],
+    options: ["At the end of Stage I (where MPP = APP)", "At maximum TPP in the agricultural economy", "At the end of Stage II in rural economic context", "At the beginning of Stage III for farm income analysis"],
     correct: 0,
     explanation: "Ep = MPP/APP. Ep = 1 when MPP = APP, which is at the end of Stage I (beginning of Stage II). Ep > 1 in Stage I, 0 < Ep < 1 in Stage II, Ep = 0 at end of Stage II, Ep < 0 in Stage III."
   },
@@ -994,7 +994,7 @@ export const da241Questions: Question[] = [
     id: "d241c_004",
     subject: "da-241",
     question: "Which of the following correctly defines 'Marginal Product' (MP)?",
-    options: ["Average product multiplied by price", "Additional quantity of output resulting from one additional unit of input", "Total product divided by total input", "Minimum product at any input level"],
+    options: ["Average product multiplied by price in the agricultural economy", "Additional quantity of output resulting from one additional unit of input", "Total product divided by total input in rural economic context", "Minimum product at any input level for farm income analysis"],
     correct: 1,
     explanation: "MP = dY/dX = Change in total product / Change in input. It is the additional quantity of output resulting from an additional unit of input. AP = Y/X is Average Product."
   },
@@ -1034,7 +1034,7 @@ export const da241Questions: Question[] = [
     id: "d241c_009",
     subject: "da-241",
     question: "In the 'Open Loan' under hypothecated category, which statement is correct?",
-    options: ["Physical possession is with borrower but legal ownership with lending institution", "Crop is pledged as security to pawn brokers", "Agricultural produce is kept under bank control", "Mortgage of immovable property is created"],
+    options: ["Physical possession is with borrower but legal ownership with lending institution", "Crop is pledged as security to pawn brokers", "Agricultural produce is kept under bank control in the agricultural economy", "Mortgage of immovable property is created in rural economic context"],
     correct: 0,
     explanation: "Open loans (hypothecated): only the physical possession of the purchased machinery rests with the borrower, but the LEGAL OWNERSHIP remains with the lending institution till the loan is repaid. Borrower can use the machinery to pay loan instalments."
   },
@@ -1042,7 +1042,7 @@ export const da241Questions: Question[] = [
     id: "d241c_010",
     subject: "da-241",
     question: "A farm plan's characteristic of 'balanced combination of enterprises' helps in:",
-    options: ["Reducing government taxes", "Production of food/cash/fodder crops, maintaining soil fertility, increasing income, improving resource distribution", "Concentrating on one profitable enterprise only", "Eliminating all farm risks"],
+    options: ["Reducing government taxes in the agricultural economy", "Production of food/cash/fodder crops, maintaining soil fertility, increasing income, improving resource distribution", "Concentrating on one profitable enterprise only in rural economic context", "Eliminating all farm risks for farm income analysis"],
     correct: 1,
     explanation: "Balanced combination of enterprises ensures: a) Production of food, cash and fodder crops; b) Maintain soil fertility; c) Increase in income; d) Improve distribution of land, use of labour, power and water requirement throughout the year."
   },
@@ -1058,7 +1058,7 @@ export const da241Questions: Question[] = [
     id: "d241c_012",
     subject: "da-241",
     question: "In Short-period Markets, prices are governed mainly by:",
-    options: ["Demand forces mainly (supply is fixed in the very short term)", "Cost of production", "Government regulation", "Supply forces only"],
+    options: ["Demand forces mainly (supply is fixed in the very short term)", "Cost of production in the agricultural economy", "Government regulation in rural economic context", "Supply forces only for farm income analysis"],
     correct: 0,
     explanation: "In Short-period markets (for perishable products like fish, fresh vegetables, liquid milk), the products must be sold on that day. Supply is fixed. Hence prices are governed mainly by DEMAND rather than supply. In Long-period markets, both supply and demand govern prices."
   },
@@ -1074,7 +1074,7 @@ export const da241Questions: Question[] = [
     id: "d241c_014",
     subject: "da-241",
     question: "Agricultural Production Economics is defined as an applied field where principles of choice are applied to:",
-    options: ["International trade in farm commodities", "Use of capital, labour, land and management resources in the farming industry", "Marketing of agricultural produce only", "Government subsidy allocation"],
+    options: ["International trade in farm commodities in the agricultural economy", "Use of capital, labour, land and management resources in the farming industry", "Marketing of agricultural produce only in rural economic context", "Government subsidy allocation for farm income analysis"],
     correct: 1,
     explanation: "Agricultural Production Economics is an applied field of science wherein the principles of choice are applied to the use of CAPITAL, LABOUR, LAND and MANAGEMENT resources in the farming industry. It is concerned with productivity, use of credit, capital, risks and resource allocation."
   },
@@ -1082,7 +1082,7 @@ export const da241Questions: Question[] = [
     id: "d241c_015",
     subject: "da-241",
     question: "Under the 'Morghum Sale Method', goods are sold at:",
-    options: ["A fixed price set in advance", "The price prevailing in the market on that day (based on verbal understanding)", "Price determined by open auction", "A price set by commission agent alone"],
+    options: ["A fixed price set in advance in the agricultural economy", "The price prevailing in the market on that day (based on verbal understanding)", "Price determined by open auction in rural economic context", "A price set by commission agent alone for farm income analysis"],
     correct: 1,
     explanation: "Morghum Sale Method: sale is affected on verbal understanding that the price will be the one prevailing in the market on that day, or at the rate at which other sellers of the village sold the produce. Common in villages - farmers indebted to local money lenders."
   },
@@ -1122,7 +1122,7 @@ export const da241Questions: Question[] = [
     id: "d241c_020",
     subject: "da-241",
     question: "Which committee recommended the formation of Cooperative Credit Societies on 'Raiffeissen model' of Germany?",
-    options: ["Venkatappaiah Committee", "Mac Lagan Committee", "Indian Famine Commission and Edward Law Committee (1901)", "Gorwala Committee (AIRCSC)"],
+    options: ["Venkatappaiah Committee in the agricultural economy", "Mac Lagan Committee in rural economic context", "Indian Famine Commission and Edward Law Committee (1901)", "Gorwala Committee (AIRCSC) for farm income analysis"],
     correct: 2,
     explanation: "During 1901, Indian Famine Commission and another committee headed by Sir Edward Law recommended the formation of credit societies on Raiffeissen model. Federick Nicholson's report (1892) also raised the slogan 'Find Raiffeissen' - these recommendations resulted in 1904 Act."
   },
@@ -1138,7 +1138,7 @@ export const da241Questions: Question[] = [
     id: "d241c_022",
     subject: "da-241",
     question: "The 'Ledger' in farm accounting is described as:",
-    options: ["A trial balance sheet of income and expenses", "A cash book recording only cash transactions", "The main book containing classified record of all transactions with separate accounts", "A daily diary of all transactions"],
+    options: ["A trial balance sheet of income and expenses in the agricultural economy", "A cash book recording only cash transactions in rural economic context", "The main book containing classified record of all transactions with separate accounts", "A daily diary of all transactions for farm income analysis"],
     correct: 2,
     explanation: "Ledger is the main book of account containing a classified and summarized record of ALL transactions transferred from journal. There are separate accounts and at year-end, each account contains all transactions for that account. It serves as permanent record for debtors and creditors."
   },
@@ -1154,7 +1154,7 @@ export const da241Questions: Question[] = [
     id: "d241c_024",
     subject: "da-241",
     question: "During the Eighth Five Year Plan (1992-1997), cooperative policy emphasized:",
-    options: ["Replication of Anand Pattern for milk cooperatives and strengthening processing cooperatives", "Setting up of SFDA and MFAL", "Establishing new cooperative credit societies", "Introducing single window system of credit"],
+    options: ["Replication of Anand Pattern for milk cooperatives and strengthening processing cooperatives", "Setting up of SFDA and MFAL in the agricultural economy", "Establishing new cooperative credit societies in rural economic context", "Introducing single window system of credit for farm income analysis"],
     correct: 0,
     explanation: "Eighth Five-Year Plan (1992-1997) emphasized: (1) Replication of Anand Pattern of cooperatives for milk, and (2) Strengthening of processing cooperatives. The Seventh Plan (1985-1990) introduced the single window system of credit in Andhra Pradesh."
   },
@@ -1194,7 +1194,7 @@ export const da241Questions: Question[] = [
     id: "d241c_029",
     subject: "da-241",
     question: "The establishment of NABARD in 1982 was due to the merger of:",
-    options: ["Only ARDC with RBI", "ARDC, Agricultural Credit Department (ACD) and Rural Planning and Credit Cell (RPCC) of RBI", "All commercial banks' agricultural divisions", "State cooperative banks"],
+    options: ["Only ARDC with RBI in the agricultural economy", "ARDC, Agricultural Credit Department (ACD) and Rural Planning and Credit Cell (RPCC) of RBI", "All commercial banks' agricultural divisions in rural economic context", "State cooperative banks for farm income analysis"],
     correct: 1,
     explanation: "NABARD was formed by merging: (1) Agricultural Refinance and Development Corporation (ARDC), (2) Agricultural Credit Department (ACD) of RBI, and (3) Rural Planning and Credit Cell (RPCC) of RBI. Share capital of Rs.500 crore equally from Government of India and RBI."
   },
@@ -1202,7 +1202,7 @@ export const da241Questions: Question[] = [
     id: "d241c_030",
     subject: "da-241",
     question: "A 'Profit and Loss Account' in farm accounting determines:",
-    options: ["The total profit or loss at end of year from nominal accounts", "The daily cash receipts and payments", "The value of farm assets and liabilities", "The estimated future farm income"],
+    options: ["The total profit or loss at end of year from nominal accounts", "The daily cash receipts and payments in the agricultural economy", "The value of farm assets and liabilities in rural economic context", "The estimated future farm income for farm income analysis"],
     correct: 0,
     explanation: "Profit and Loss Account is prepared at end of year. Balances of all nominal accounts (wages, rent, gains, losses, income, expenses) are included. If debit side > credit side = net loss; if credit side > debit side = net profit."
   },
@@ -1250,7 +1250,7 @@ export const da241Questions: Question[] = [
     id: "d241c_036",
     subject: "da-241",
     question: "Which of the following is an Internal Economy of Scale?",
-    options: ["An industry cluster sharing common infrastructure", "Splitting workers to specialize in tasks in a motor vehicle factory", "Industry-wide technology improvement", "A pharmaceutical company sharing research with a university (external)"],
+    options: ["An industry cluster sharing common infrastructure in the agricultural economy", "Splitting workers to specialize in tasks in a motor vehicle factory", "Industry-wide technology improvement in rural economic context", "A pharmaceutical company sharing research with a university (external)"],
     correct: 1,
     explanation: "Internal Technical Economy of Scale example: splitting up workers to specialize in tasks in motor vehicle production (requires less training, more efficiency). External economy example: pharmaceutical company teaming up with university to share research costs."
   },
@@ -1282,7 +1282,7 @@ export const da241Questions: Question[] = [
     id: "d241c_040",
     subject: "da-241",
     question: "The 'Journal' in farm bookkeeping:",
-    options: ["Is the main permanent record for debtors and creditors", "Records only cash transactions", "Records only annual summary of income and expenses", "Records original entries from diary in classified debit/credit form in order of dates"],
+    options: ["Is the main permanent record for debtors and creditors", "Records only cash transactions in the agricultural economy", "Records only annual summary of income and expenses in rural economic context", "Records original entries from diary in classified debit/credit form in order of dates"],
     correct: 3,
     explanation: "Journal means daily record. Original entries from diary are written in journal in classified debit/credit form strictly in order of dates for easy posting to ledger. Journal records all transactions showing two-fold aspects in double entry system."
   },
@@ -1290,7 +1290,7 @@ export const da241Questions: Question[] = [
     id: "d241c_041",
     subject: "da-241",
     question: "Long-term agricultural loans are characterized as 'non-liquidating' because:",
-    options: ["They are given for activities that take a long time to generate income for repayment (5-20+ years)", "They can never be repaid", "They require no security", "They are provided free of interest"],
+    options: ["They are given for activities that take a long time to generate income for repayment (5-20+ years)", "They can never be repaid in the agricultural economy", "They require no security in rural economic context", "They are provided free of interest for farm income analysis"],
     correct: 0,
     explanation: "Long-term loans (5 to more than 20 years) are for permanent improvements like land reclamation, farm buildings, purchase of tractors, orchards. These activities require large capital and take long time to generate income. Hence longer repayment period - called non-liquidating nature."
   },
@@ -1298,7 +1298,7 @@ export const da241Questions: Question[] = [
     id: "d241c_042",
     subject: "da-241",
     question: "The 'processing' characteristic of agricultural commodities increases price spread because:",
-    options: ["Prices of raw materials are always low", "Processing is subsidized by government", "Consumers pay less for processed goods", "Processing firms enjoy monopsony/oligopsony positions and this creates disincentives for producers"],
+    options: ["Prices of raw materials are always low in the agricultural economy", "Processing is subsidized by government in rural economic context", "Consumers pay less for processed goods for farm income analysis", "Processing firms enjoy monopsony/oligopsony positions and this creates disincentives for producers"],
     correct: 3,
     explanation: "Processing function increases the price spread of agricultural commodities. Processing firms enjoy the advantage of MONOPSONY, OLIGOPSONY or DUOPOLY in the market. This creates disincentives for producers and may adversely affect production in the next year."
   },
@@ -1306,7 +1306,7 @@ export const da241Questions: Question[] = [
     id: "d241c_043",
     subject: "da-241",
     question: "Under perfect competition, the demand for an individual firm's product becomes infinitely elastic because:",
-    options: ["The product is homogeneous and the firm cannot influence market price, taking it as given", "There are only a few buyers", "Government regulates the price strictly", "The firm is very large"],
+    options: ["The product is homogeneous and the firm cannot influence market price, taking it as given", "There are only a few buyers in the agricultural economy", "Government regulates the price strictly in rural economic context", "The firm is very large for farm income analysis"],
     correct: 0,
     explanation: "Under perfect competition, the firm offers homogeneous products and is so small relative to market that it cannot affect the market price. The firm simply takes price as given. With single price prevailing, the firm's demand curve is horizontal (infinitely elastic)."
   },
@@ -1314,7 +1314,7 @@ export const da241Questions: Question[] = [
     id: "d241c_044",
     subject: "da-241",
     question: "The NCDC's proposed amendment (Ninth Plan period) included expansion of NCDC's scope to include:",
-    options: ["Only agricultural credit", "Only dairy cooperatives", "Animal husbandry, forestry, horticulture, pisciculture and livestock, industrial goods, handicrafts and services", "Only sugar cooperatives"],
+    options: ["Only agricultural credit in the agricultural economy", "Only dairy cooperatives in rural economic context", "Animal husbandry, forestry, horticulture, pisciculture and livestock, industrial goods, handicrafts and services", "Only sugar cooperatives for farm income analysis"],
     correct: 2,
     explanation: "Proposed NCDC Act amendment features: (a) expansion of scope to include animal husbandry, forestry, horticulture, pisciculture; (b) extension of coverage to livestock, industrial goods, handicrafts and services sector; (c) provision of loans directly to cooperative societies."
   },
@@ -1330,7 +1330,7 @@ export const da241Questions: Question[] = [
     id: "d241c_046",
     subject: "da-241",
     question: "Which of the following land records is useful for farm management?",
-    options: ["All of: land utilization, crop production, livestock, labour, machinery, feed, store register and farm inventory records", "Only labour and machinery records", "Only crop production records", "Only livestock production records"],
+    options: ["All of: land utilization, crop production, livestock, labour, machinery, feed, store register and farm inventory records", "Only labour and machinery records in the agricultural economy", "Only crop production records in rural economic context", "Only livestock production records for farm income analysis"],
     correct: 0,
     explanation: "Farm records useful to farmers: (1) Land utilization records, (2) Crop production and disposal records, (3) Livestock production records, (4) Labour records, (5) Machinery use records, (6) Feed records, (7) Store register, and (8) Farm inventory."
   },
@@ -1346,7 +1346,7 @@ export const da241Questions: Question[] = [
     id: "d241c_048",
     subject: "da-241",
     question: "Which committee in 1969 first recommended 'Service Area Approach' for development of financial structure?",
-    options: ["Mac Lagan Committee", "Nariman Committee", "Venkatappaiah Committee (AIRCRC)", "Gadgil Committee (National Credit Council Study Group)"],
+    options: ["Mac Lagan Committee in the agricultural economy", "Nariman Committee in rural economic context", "Venkatappaiah Committee (AIRCRC) for farm income analysis", "Gadgil Committee (National Credit Council Study Group)"],
     correct: 3,
     explanation: "The study group appointed by National Credit Council (NCC) in 1969 under chairmanship of Prof. D. R. Gadgil recommended 'Service Area Approach'. RBI then appointed Nariman Committee to examine these recommendations, which endorsed and further recommended the Lead Bank Scheme."
   },
@@ -1354,7 +1354,7 @@ export const da241Questions: Question[] = [
     id: "d241c_049",
     subject: "da-241",
     question: "In the 'Quotations on Samples' method of agricultural marketing:",
-    options: ["Open auction is conducted for each sample", "All produce is mixed and sold at one price", "Prices are settled by finger-pressing under cloth", "Commission agent takes samples to buyers' shops instead of buyers coming to commission agent"],
+    options: ["Open auction is conducted for each sample in the agricultural economy", "All produce is mixed and sold at one price in rural economic context", "Prices are settled by finger-pressing under cloth for farm income analysis", "Commission agent takes samples to buyers' shops instead of buyers coming to commission agent"],
     correct: 3,
     explanation: "Quotations on Samples taken by Commission Agent: the commission agent takes the SAMPLE of produce to the shops of the buyer instead of the buyer going to the shop of the commission agent. This is one of the methods of buying and selling of farm products."
   },
@@ -1362,7 +1362,7 @@ export const da241Questions: Question[] = [
     id: "d241c_050",
     subject: "da-241",
     question: "The objectives of Agricultural Production Economics include:",
-    options: ["Only export promotion", "Determine conditions for optimum resource use, assess deviation from optimum, analyze factors responsible, and explain means to reach optimum", "Only profit maximization for farmers", "Only food security planning"],
+    options: ["Only export promotion in the agricultural economy", "Determine conditions for optimum resource use, assess deviation from optimum, analyze factors responsible, and explain means to reach optimum", "Only profit maximization for farmers in rural economic context", "Only food security planning for farm income analysis"],
     correct: 1,
     explanation: "Four main objectives: (1) Determine and define conditions for optimum resource use, (2) Determine extent to which existing use deviates from optimum, (3) Analyze factors responsible for existing production pattern and resource use, (4) Explain means and methods for changing to optimum level."
   },
@@ -1394,7 +1394,7 @@ export const da241Questions: Question[] = [
     id: "d241c_054",
     subject: "da-241",
     question: "The Agricultural Refinance and Development Corporation (ARDC) merged into NABARD was created before NABARD. NABARD's initial share capital was:",
-    options: ["Rs. 500 crores equally from Government of India and RBI", "Rs. 100 crores (from GOI only)", "Rs. 200 crores from commercial banks", "Rs. 1000 crores from ARDC"],
+    options: ["Rs. 500 crores equally from Government of India and RBI", "Rs. 100 crores (from GOI only) in the agricultural economy", "Rs. 200 crores from commercial banks in rural economic context", "Rs. 1000 crores from ARDC for farm income analysis"],
     correct: 0,
     explanation: "NABARD was established on July 12th, 1982 with share capital of Rs.500 crore EQUALLY contributed by Government of India and RBI. ARDC, ACD and RPCC of RBI were merged with NABARD. NABARD operates through 17 regional offices and 213 district offices."
   },
@@ -1402,7 +1402,7 @@ export const da241Questions: Question[] = [
     id: "d241c_055",
     subject: "da-241",
     question: "What are the twin objectives of the Crop Loan System?",
-    options: ["Increasing farm production and reducing poverty", "Treating crop as security instead of land, and fixing finance based on cost of cultivation", "Linking cooperatives with commercial banks", "Providing subsidized credit and free inputs"],
+    options: ["Increasing farm production and reducing poverty in the agricultural economy", "Treating crop as security instead of land, and fixing finance based on cost of cultivation", "Linking cooperatives with commercial banks in rural economic context", "Providing subsidized credit and free inputs for farm income analysis"],
     correct: 1,
     explanation: "The twin objectives of crop loan system: (1) Treating the CROP as security instead of immovable property like land, and (2) Fixing the scale of finance depending on the actual farm expenditure (based on cost of cultivation)."
   },
@@ -1418,7 +1418,7 @@ export const da241Questions: Question[] = [
     id: "d241c_057",
     subject: "da-241",
     question: "In the Short Run production period, output can only be varied by:",
-    options: ["Varying all factors of production", "Adding more fixed factors", "Changing the technology used", "Intensive use of fixed resources through variable inputs"],
+    options: ["Varying all factors of production", "Adding more fixed factors in the agricultural economy", "Changing the technology used in rural economic context", "Intensive use of fixed resources through variable inputs"],
     correct: 3,
     explanation: "Short run production period: one or more resources are fixed while others are variable. Output can be varied ONLY BY INTENSIVE USE OF FIXED RESOURCES through the variable resources. In long run, all resources can be varied."
   },
@@ -1426,7 +1426,7 @@ export const da241Questions: Question[] = [
     id: "d241c_058",
     subject: "da-241",
     question: "Which of the following is an example of 'production loan' (seasonal agricultural operation loan)?",
-    options: ["Orchard establishment loan", "Crop production loan for seeds and fertilizers", "Land leveling loan", "Tractor purchase loan"],
+    options: ["Orchard establishment loan in the agricultural economy", "Crop production loan for seeds and fertilizers", "Land leveling loan in rural economic context", "Tractor purchase loan for farm income analysis"],
     correct: 1,
     explanation: "Production loans (SAO loans / short-term loans / crop loans): credit given for crop production to increase production of crops. Repayable within 6-18 months in lumpsum from sale proceeds. Tractor purchase and land improvement are investment loans; orchard is long-term."
   },
@@ -1434,7 +1434,7 @@ export const da241Questions: Question[] = [
     id: "d241c_059",
     subject: "da-241",
     question: "'Social costs' (externalities) in production economics refer to:",
-    options: ["Import duties on agricultural machinery", "Government subsidies to agriculture", "Costs borne by society such as environmental degradation, pollution, new diseases from irrigation", "Private costs of firms"],
+    options: ["Import duties on agricultural machinery in the agricultural economy", "Government subsidies to agriculture in rural economic context", "Costs borne by society such as environmental degradation, pollution, new diseases from irrigation", "Private costs of firms for farm income analysis"],
     correct: 2,
     explanation: "Social costs: private firms incur private costs, but society bears additional costs as externalities - environmental degradation, water/air/noise pollution in areas where goods are produced. Example: ill-drained irrigation projects causing new diseases in command area."
   },
@@ -1474,7 +1474,7 @@ export const da241Questions: Question[] = [
     id: "d241c_064",
     subject: "da-241",
     question: "In Agricultural Production Economics, 'productivity' refers to studying:",
-    options: ["Only crop yields per acre", "Use and incomes from farm, return to scale, leasing, production possibilities, farming efficiency, credit use, risks", "Only technology adoption", "Only macroeconomic policies affecting agriculture"],
+    options: ["Only crop yields per acre in the agricultural economy", "Use and incomes from farm, return to scale, leasing, production possibilities, farming efficiency, credit use, risks", "Only technology adoption in rural economic context", "Only macroeconomic policies affecting agriculture for farm income analysis"],
     correct: 1,
     explanation: "Production Economics is concerned with productivity covering: use and incomes from farm, return to scale, leasing, production possibilities, farming efficiency, soil conservation, use of credit and capital, risks and uncertainty which affect decision making."
   },
@@ -1482,7 +1482,7 @@ export const da241Questions: Question[] = [
     id: "d241c_065",
     subject: "da-241",
     question: "The Mac Lagan Committee (1915) observed which problems in cooperative societies?",
-    options: ["Excessive profits and poor governance", "Lack of cooperative network and poor infrastructure", "Excessive government interference and high interest rates", "Illiteracy among members, misappropriation of funds, rampant nepotism, undue delays in sanctioning loans, irregularity in repayment"],
+    options: ["Excessive profits and poor governance in the agricultural economy", "Lack of cooperative network and poor infrastructure in rural economic context", "Excessive government interference and high interest rates for farm income analysis", "Illiteracy among members, misappropriation of funds, rampant nepotism, undue delays in sanctioning loans, irregularity in repayment"],
     correct: 3,
     explanation: "Mac Lagan Committee's important observations: (1) Illiteracy among members; (2) Misappropriation of funds; (3) Rampant nepotism; (4) Undue delays in sanctioning of loans; (5) Irregularity in repayment of loans. These led to specific reform suggestions."
   },
@@ -1490,7 +1490,7 @@ export const da241Questions: Question[] = [
     id: "d241c_066",
     subject: "da-241",
     question: "The planning commission was established in March 1950, and the first five-year plan's main objectives for cooperatives included:",
-    options: ["Only consumer cooperative development", "Only price support for agricultural commodities", "Involvement of cooperatives in rural development, development of credit system, extending cooperatives to farming/industry/housing/marketing, training", "Only agricultural credit expansion"],
+    options: ["Only consumer cooperative development in the agricultural economy", "Only price support for agricultural commodities in rural economic context", "Involvement of cooperatives in rural development, development of credit system, extending cooperatives to farming/industry/housing/marketing, training", "Only agricultural credit expansion for farm income analysis"],
     correct: 2,
     explanation: "First Five-Year Plan (1951-1956) objectives for cooperatives: (1) Involvement in rural development programs; (2) Development of well-organized credit system; (3) Extending cooperatives to farming, industry, housing, marketing; (4) Training of higher-level personnel."
   },
@@ -1498,7 +1498,7 @@ export const da241Questions: Question[] = [
     id: "d241c_067",
     subject: "da-241",
     question: "The term 'Replacement cost' in farm accounting refers to:",
-    options: ["The original purchase price of an asset", "The depreciation charged each year", "The cost of maintaining farm equipment", "The difference between original purchase price and current price of the same asset"],
+    options: ["The original purchase price of an asset in the agricultural economy", "The depreciation charged each year in rural economic context", "The cost of maintaining farm equipment for farm income analysis", "The difference between original purchase price and current price of the same asset"],
     correct: 3,
     explanation: "Replacement costs: difference between the purchase price of the asset and the current price of the same asset. Example: tractor bought 10 years ago at Rs.1,50,000, current price Rs.2,50,000 - replacement cost is Rs.1,00,000. Historical cost is the original purchase price."
   },
@@ -1506,7 +1506,7 @@ export const da241Questions: Question[] = [
     id: "d241c_068",
     subject: "da-241",
     question: "Which of the following correctly describes 'Deflated Costs'?",
-    options: ["Costs expressed at constant prices (deflated by general price index to remove inflation effect)", "Costs subsidized by government", "Costs that remain fixed regardless of output", "Costs that are increasing over time"],
+    options: ["Costs expressed at constant prices (deflated by general price index to remove inflation effect)", "Costs subsidized by government in the agricultural economy", "Costs that remain fixed regardless of output in rural economic context", "Costs that are increasing over time for farm income analysis"],
     correct: 0,
     explanation: "Deflated costs: costs deflated by general price index are called deflated costs. By doing so, the effect of inflation in an economy is taken out. Example: Real cost of commodities uses deflated prices to compare costs across different time periods."
   },
@@ -1514,7 +1514,7 @@ export const da241Questions: Question[] = [
     id: "d241c_069",
     subject: "da-241",
     question: "The primary function of the 'Journal' in the double entry bookkeeping system is:",
-    options: ["Summarizing accounts at year end", "Recording original diary entries in classified debit/credit form in date order for posting to ledger", "Checking arithmetical accuracy of ledger", "Recording only cash transactions"],
+    options: ["Summarizing accounts at year end in the agricultural economy", "Recording original diary entries in classified debit/credit form in date order for posting to ledger", "Checking arithmetical accuracy of ledger in rural economic context", "Recording only cash transactions for farm income analysis"],
     correct: 1,
     explanation: "Journal (daily record): original entries from diary are written in journal in classified form of debits and credits (double entry form) strictly in order of dates, so they may be easily posted or transferred to the ledger. It is a book of original entry."
   },
@@ -1562,7 +1562,7 @@ export const da241Questions: Question[] = [
     id: "d241c_075",
     subject: "da-241",
     question: "The 'Separation of Costs' concept in theory of costs means:",
-    options: ["Fixed costs can be separated from variable costs only in short run", "Fixed and variable costs are always equal", "Separable costs can exclusively be attributed to production of specific output, while joint costs cannot", "All costs are social in nature"],
+    options: ["Fixed costs can be separated from variable costs only in short run", "Fixed and variable costs are always equal in the agricultural economy", "Separable costs can exclusively be attributed to production of specific output, while joint costs cannot", "All costs are social in nature in rural economic context"],
     correct: 2,
     explanation: "Separable costs: can exclusively be attributed to production of output separately. Common costs (joint costs) cannot be separated to production of specific output - they are involved in producing several products. Example: electricity generation, ground water use."
   },
@@ -1578,7 +1578,7 @@ export const da241Questions: Question[] = [
     id: "d241c_077",
     subject: "da-241",
     question: "The 'Complete or Whole Farm Planning' is adopted when:",
-    options: ["Major changes are contemplated in the existing organization of entire farm business", "Simple improvements are needed for one enterprise", "Minor adjustments in irrigation are required", "Only one resource needs to be substituted"],
+    options: ["Major changes are contemplated in the existing organization of entire farm business", "Simple improvements are needed for one enterprise in the agricultural economy", "Minor adjustments in irrigation are required in rural economic context", "Only one resource needs to be substituted for farm income analysis"],
     correct: 0,
     explanation: "Complete/whole farm planning: adopted when MAJOR CHANGES are contemplated in the existing organization of farm business. Simple farm planning is for a part of land, one enterprise, or substituting one resource for another. The process of change should always begin with simple plans."
   },
@@ -1602,7 +1602,7 @@ export const da241Questions: Question[] = [
     id: "d241c_080",
     subject: "da-241",
     question: "According to Prof. Galbraith's definition, credit is the:",
-    options: ["Joint venture between farmer and bank", "Temporary transfer of asset from one who has to other who has not", "Long-term investment in agricultural enterprises", "Permanent transfer of money from lender to borrower"],
+    options: ["Joint venture between farmer and bank in the agricultural economy", "Temporary transfer of asset from one who has to other who has not", "Long-term investment in agricultural enterprises in rural economic context", "Permanent transfer of money from lender to borrower for farm income analysis"],
     correct: 1,
     explanation: "According to Professor Galbraith, credit is the 'temporary transfer of asset from one who has to other who has not.' The word 'credit' comes from Latin 'Credo' meaning 'I believe.' Credit is based on belief, confidence, trust and faith."
   },

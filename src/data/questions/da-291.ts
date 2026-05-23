@@ -253,7 +253,7 @@ export const da291Questions: Question[] = [
     id: "d291_032",
     subject: "da-291",
     question: "Rogers' adoption curve classifies farmers into how many adopter categories?",
-    options: ["7 categories based on rate of adoption", "5 categories (Innovators, Early Adopters, Early Majority, Late Majority, Laggards)", "3 categories (Innovators, Majority, Laggards)", "4 categories (Early, Middle, Late, Non-adopters)"],
+    options: ["7 categories based on rate of adoption", "5 categories (Innovators, Early Adopters, Early Majority, Late Majority, Laggards)", "3 categories (Innovators, Majority, Laggards) in extension education", "4 categories (Early, Middle, Late, Non-adopters) in rural development programmes"],
     correct: 1,
     explanation: "Rogers' Adoption curve (normal distribution / S-curve) classifies adopters into 5 categories: Innovators (2.5%), Early Adopters (13.5%), Early Majority (34%), Late Majority (34%), and Laggards (16%). Extension programs target Early Adopters and Early Majority first."
   },
@@ -485,7 +485,7 @@ export const da291Questions: Question[] = [
     id: "d291_061",
     subject: "da-291",
     question: "The Self Help Group (SHG) approach in rural extension involves:",
-    options: ["Individual farmer loan schemes for purchasing agricultural equipment", "Government agencies providing direct cash transfers to rural households", "Groups of 10–20 rural members who save regularly and access institutional credit collectively", "Private company extension services for commercial crop production"],
+    options: ["Individual farmer loan schemes for purchasing agricultural equipment in extension education", "Government agencies providing direct cash transfers to rural households in rural development programmes", "Groups of 10–20 rural members who save regularly and access institutional credit collectively", "Private company extension services for commercial crop production under this extension approach"],
     correct: 2,
     explanation: "SHGs (Self Help Groups) are small groups (10–20 members, mostly women) that save regularly, manage a common fund, and after 6 months are eligible for bank linkage. SHGs are powerful platforms for extension services on nutrition, farming, health, and enterprise development."
   },
@@ -820,7 +820,7 @@ export const da291Questions: Question[] = [
   {
     id: "d291_103", subject: "Agricultural Extension Education",
     question: "Webster defined education as:",
-    options: ["Cheapest path to economic advancement", "Process of teaching to develop knowledge, skill, or character of the student", "Process of developing capability for adequate response to situations", "Process of bringing desirable change in behavior"],
+    options: ["Cheapest path to economic advancement in extension education", "Process of teaching to develop knowledge, skill, or character of the student", "Process of developing capability for adequate response to situations", "Process of bringing desirable change in behavior in rural development programmes"],
     correct: 1,
     explanation: "Webster defined education as 'the process of teaching to develop the knowledge, skill, or character of the student.'",
     difficulty: "medium"
@@ -844,7 +844,7 @@ export const da291Questions: Question[] = [
   {
     id: "d291_106", subject: "Agricultural Extension Education",
     question: "Non-formal education is defined as:",
-    options: ["Hierarchically structured education from kindergarten through university", "Lifelong incidental learning from daily experiences", "Organized and systematic education activity carried on outside the formal system to provide selected type of learning to particular groups", "Online education using modern technology"],
+    options: ["Hierarchically structured education from kindergarten through university in extension education", "Lifelong incidental learning from daily experiences in rural development programmes", "Organized and systematic education activity carried on outside the formal system to provide selected type of learning to particular groups", "Online education using modern technology under this extension approach"],
     correct: 2,
     explanation: "Non-formal education is organized and systematic education activity outside the formal system, targeting specific groups with selected learning outside schools and colleges.",
     difficulty: "easy"
@@ -868,7 +868,7 @@ export const da291Questions: Question[] = [
   {
     id: "d291_109", subject: "Agricultural Extension Education",
     question: "Extension education was defined by Leagans (1961) as 'process of teaching rural people how to live better by learning ways that improve their farm, home and community institutions.' This definition emphasizes:",
-    options: ["Government-funded rural projects", "Holistic rural development covering farm, home, and community", "Only agricultural production improvement", "Technical training in modern farming techniques"],
+    options: ["Government-funded rural projects in extension education", "Holistic rural development covering farm, home, and community", "Only agricultural production improvement in rural development programmes", "Technical training in modern farming techniques"],
     correct: 1,
     explanation: "Leagans' definition covers the holistic approach - farm (production), home (family welfare), and community institutions (social development).",
     difficulty: "medium"
@@ -892,7 +892,7 @@ export const da291Questions: Question[] = [
   {
     id: "d291_112", subject: "Agricultural Extension Education",
     question: "Individual extension teaching methods include:",
-    options: ["Radio, television, newspaper advertisements", "Farm and home visits, office visits, personal letters, mobile calls", "Method demonstrations, group discussions, general meetings", "Exhibitions, exposure visits, field trips"],
+    options: ["Radio, television, newspaper advertisements in extension education", "Farm and home visits, office visits, personal letters, mobile calls", "Method demonstrations, group discussions, general meetings in rural development programmes", "Exhibitions, exposure visits, field trips under this extension approach"],
     correct: 1,
     explanation: "Individual methods include farm and home visits, office visits, letters, mails, blogs, mobile/telephone calls, and information through school teachers and village leaders.",
     difficulty: "easy"
@@ -900,7 +900,7 @@ export const da291Questions: Question[] = [
   {
     id: "d291_113", subject: "Agricultural Extension Education",
     question: "Extension teaching methods were defined by Leagans (1961) as:",
-    options: ["Devices used to create situations in which communication can take place between an instructor and learner", "Procedures for organizing village meetings and training", "Tools used to transfer technology from research to farmers", "Methods for conducting demonstrations in farmers' fields"],
+    options: ["Devices used to create situations in which communication can take place between an instructor and learner", "Procedures for organizing village meetings and training in extension education", "Tools used to transfer technology from research to farmers in rural development programmes", "Methods for conducting demonstrations in farmers' fields under this extension approach"],
     correct: 0,
     explanation: "Leagans (1961) defined extension teaching methods as 'the devices used to create situations in which communication can take place between an instructor and learner.'",
     difficulty: "medium"
@@ -916,7 +916,7 @@ export const da291Questions: Question[] = [
   {
     id: "d291_115", subject: "Agricultural Extension Education",
     question: "The result demonstration method in extension education is best suited for:",
-    options: ["Reaching large populations through broadcast media", "Formal classroom training of extension officers", "Introducing new methods and demonstrating realistic issues or varieties to farmers", "One-on-one counseling of individual farm families"],
+    options: ["Reaching large populations through broadcast media in extension education", "Formal classroom training of extension officers in rural development programmes", "Introducing new methods and demonstrating realistic issues or varieties to farmers", "One-on-one counseling of individual farm families under this extension approach"],
     correct: 2,
     explanation: "Result demonstration is very useful to introduce new methods and habits, showing results at different stages, and can be adopted in nearby villages to educate farmers and identify local leadership.",
     difficulty: "medium"
@@ -996,7 +996,7 @@ export const da291Questions: Question[] = [
   {
     id: "d291_125", subject: "Agricultural Extension Education",
     question: "In the Gurugram experiment, a 'School of Rural Economy' was established to:",
-    options: ["Teach traditional craft skills to women", "Provide formal primary education to village children", "Train guides for development of villages in agriculture, cooperation, and sanitation", "Train agricultural extension officers in modern farming"],
+    options: ["Teach traditional craft skills to women in extension education", "Provide formal primary education to village children in rural development programmes", "Train guides for development of villages in agriculture, cooperation, and sanitation", "Train agricultural extension officers in modern farming under this extension approach"],
     correct: 2,
     explanation: "The School of Rural Economy in Gurugram experiment trained guides for village development who were trained in agriculture, cooperation, betterment of people, sanitation, etc., and then appointed as village guides.",
     difficulty: "medium"
@@ -1140,7 +1140,7 @@ export const da291Questions: Question[] = [
   {
     id: "d291_143", subject: "Agricultural Extension Education",
     question: "A newsletter in extension education is characterized as:",
-    options: ["A scientific journal with research articles", "A single-page leaflet with brief information", "A large printed poster on agricultural technology", "A periodic publication issued monthly or quarterly to keep people informed"],
+    options: ["A scientific journal with research articles in extension education", "A single-page leaflet with brief information in rural development programmes", "A large printed poster on agricultural technology under this extension approach", "A periodic publication issued monthly or quarterly to keep people informed"],
     correct: 3,
     explanation: "A newsletter is a periodic publication (monthly/quarterly) that keeps people informed about developments, events, and information in a regular manner.",
     difficulty: "easy"
@@ -1228,7 +1228,7 @@ export const da291Questions: Question[] = [
   {
     id: "d291_154", subject: "Agricultural Extension Education",
     question: "The Etawah project's major objectives included all EXCEPT:",
-    options: ["Enhancement of agricultural production", "Replacement of all traditional farming practices with modern mechanized farming", "Implementation of mother and child welfare programmes", "Controlling and preventing human tragedies"],
+    options: ["Enhancement of agricultural production in extension education", "Replacement of all traditional farming practices with modern mechanized farming", "Implementation of mother and child welfare programmes", "Controlling and preventing human tragedies in rural development programmes"],
     correct: 1,
     explanation: "Etawah project objectives included agricultural production enhancement, introduction of quality animals, cooperative credit, preventing human tragedies, mother/child welfare, and adult education - not wholesale replacement with mechanized farming.",
     difficulty: "medium"
@@ -1292,7 +1292,7 @@ export const da291Questions: Question[] = [
   {
     id: "d291_162", subject: "Agricultural Extension Education",
     question: "The concept that extension workers act as 'salesmen' for improved technology means they must:",
-    options: ["Collect market data and set prices for farm produce", "Promote government-owned agribusinesses", "Convince farmers about the benefits of new technologies similar to commercial salesmanship", "Sell agricultural inputs at subsidized rates to farmers"],
+    options: ["Collect market data and set prices for farm produce", "Promote government-owned agribusinesses in extension education", "Convince farmers about the benefits of new technologies similar to commercial salesmanship", "Sell agricultural inputs at subsidized rates to farmers"],
     correct: 2,
     explanation: "Extension education is compared to commercial salesmanship where extension workers must convince (sell the idea of) new technologies to farmers, overcoming resistance to change.",
     difficulty: "medium"
@@ -1484,7 +1484,7 @@ export const da291Questions: Question[] = [
   {
     id: "d291_186", subject: "Agricultural Extension Education",
     question: "Which factor relating to farmers' background should be considered when selecting extension teaching methods?",
-    options: ["Level of education, attitude, knowledge, family background, and opinion on government offices", "Only the farmer's crop type and farm size", "Only government directives on extension approaches", "Only the farmer's income and landholding"],
+    options: ["Level of education, attitude, knowledge, family background, and opinion on government offices", "Only the farmer's crop type and farm size", "Only government directives on extension approaches in extension education", "Only the farmer's income and landholding in rural development programmes"],
     correct: 0,
     explanation: "Selection of extension teaching methods must consider: attitude, level of education, knowledge, situation of family/background, opinion on government offices, and past experience of farmers.",
     difficulty: "medium"
@@ -1532,7 +1532,7 @@ export const da291Questions: Question[] = [
   {
     id: "d291_192", subject: "Agricultural Extension Education",
     question: "Which of the following correctly describes the 'analysis of situation' phase of extension education?",
-    options: ["Distributing leaflets and other information materials", "Gathering facts about people's situation, interests, education, needs, social customs, and type of farming", "Evaluating achievement of previously set objectives", "Selecting demonstration plots and experimental varieties"],
+    options: ["Distributing leaflets and other information materials in extension education", "Gathering facts about people's situation, interests, education, needs, social customs, and type of farming", "Evaluating achievement of previously set objectives in rural development programmes", "Selecting demonstration plots and experimental varieties under this extension approach"],
     correct: 1,
     explanation: "Analysis of situation requires gathering large amounts of facts about people's situation, interests, education, needs, social customs, habits, type of farming, markets, farm sizes, cropping systems, housing, community services, and communications.",
     difficulty: "easy"
@@ -1564,7 +1564,7 @@ export const da291Questions: Question[] = [
   {
     id: "d291_196", subject: "Agricultural Extension Education",
     question: "In the context of the Andhra Pradesh Panchayat Raj Act, a 'secondary level' (middle level) is:",
-    options: ["The state level comprising legislative assembly", "The level in-between district and village level, determined by the panchayat raj commissioner", "The village level comprising Gram Panchayat", "The district level comprising Zilla Parishad"],
+    options: ["The state level comprising legislative assembly in extension education", "The level in-between district and village level, determined by the panchayat raj commissioner", "The village level comprising Gram Panchayat in rural development programmes", "The district level comprising Zilla Parishad under this extension approach"],
     correct: 1,
     explanation: "The secondary/middle level is the level in-between district and village, determined on a note by the panchayat raj commissioner as per advice of the district collector through public notification.",
     difficulty: "hard"
@@ -1580,7 +1580,7 @@ export const da291Questions: Question[] = [
   {
     id: "d291_198", subject: "Agricultural Extension Education",
     question: "The 'multipurpose programmes' principle of community development means:",
-    options: ["Focusing all resources on one major programme at a time", "Running many separate single-purpose schemes simultaneously", "Holistic and balanced community development through multi-use programmes with combined efforts of all", "Each government department implementing its own isolated programme"],
+    options: ["Focusing all resources on one major programme at a time", "Running many separate single-purpose schemes simultaneously in extension education", "Holistic and balanced community development through multi-use programmes with combined efforts of all", "Each government department implementing its own isolated programme in rural development programmes"],
     correct: 2,
     explanation: "Multipurpose programme principle states that holistic and balanced community development is possible only by undertaking multi-use programmes with efforts of all departments/people working together.",
     difficulty: "medium"

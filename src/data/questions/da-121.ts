@@ -165,7 +165,7 @@ export const da121Questions: Question[] = [
     id: "d121_021",
     subject: "da-121",
     question: "The criteria of essentiality of plant nutrients as proposed by Arnon and Stout (1939) states that:",
-    options: ["An element must be present in plant tissue at concentrations higher than 1000 mg kg-1 dry weight", "An element must increase yield by at least 10% above the unfertilized control treatment", "An element must make it impossible to complete life cycle if deficient, the deficiency must be specific, and the element must be directly involved in plant nutrition", "An element must be required in quantities exceeding 0.01% of plant dry weight for growth"],
+    options: ["An element must be present in plant tissue at concentrations higher than 1000 mg kg-1 dry weight in crop production", "An element must increase yield by at least 10% above the unfertilized control treatment in field conditions", "An element must make it impossible to complete life cycle if deficient, the deficiency must be specific, and the element must be directly involved in plant nutrition", "An element must be required in quantities exceeding 0.01% of plant dry weight for growth for agricultural purposes"],
     correct: 2,
     explanation: "Arnon and Stout (1939) proposed three criteria: (1) A deficiency makes it impossible to complete life cycle; (2) the deficiency is specific for that element; (3) the element is directly involved in plant nutrition."
   },
@@ -1259,7 +1259,7 @@ export const da121Questions: Question[] = [
     lecture: "lecture-28",
     lectureNo: 28,
     question: "Soil test helps in:",
-    options: ["Measuring crop yield", "Predicting pest outbreaks", "Weather forecasting", "Diagnosing soil nutrient status and making fertilizer recommendations"],
+    options: ["Measuring crop yield in crop production", "Predicting pest outbreaks in field conditions", "Weather forecasting for agricultural purposes", "Diagnosing soil nutrient status and making fertilizer recommendations"],
     correct: 3,
     explanation: "As per DA-121 notes: Soil testing helps determine the nutritional status of soil and makes balanced fertilizer recommendations to achieve optimum crop production."
   },

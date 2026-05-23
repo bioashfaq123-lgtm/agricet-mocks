@@ -5,7 +5,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_001", subject: "da-252", lecture: "lecture-1", lectureNo: 1,
     question: "Surveying is defined as the art of:",
-    options: ["Designing buildings", "Determining positions of points and measuring distances, angles, and elevations on the earth's surface", "Soil testing", "Preparing maps only"],
+    options: ["Designing buildings in soil management", "Determining positions of points and measuring distances, angles, and elevations on the earth's surface", "Soil testing under field conditions", "Preparing maps only for soil fertility"],
     correct: 1,
     explanation: "Surveying involves determining the relative positions of points on or near the earth's surface through measurements.",
     difficulty: "easy"
@@ -21,7 +21,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_003", subject: "da-252", lecture: "lecture-1", lectureNo: 1,
     question: "Geodetic surveying accounts for:",
-    options: ["The curvature of the earth (for large areas)", "Only horizontal distances", "Only vertical measurements", "Only angles"],
+    options: ["The curvature of the earth (for large areas)", "Only horizontal distances in soil management", "Only vertical measurements under field conditions", "Only angles for soil fertility"],
     correct: 0,
     explanation: "Geodetic surveying considers the curvature of the earth and is used for large-scale national surveys.",
     difficulty: "medium"
@@ -29,7 +29,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_004", subject: "da-252", lecture: "lecture-1", lectureNo: 1,
     question: "The primary aim of surveying in agriculture is:",
-    options: ["Crop yield estimation", "Measurement and recording of land for planning and development", "Weather prediction", "Soil nutrient analysis"],
+    options: ["Crop yield estimation in soil management", "Measurement and recording of land for planning and development", "Weather prediction under field conditions", "Soil nutrient analysis for soil fertility"],
     correct: 1,
     explanation: "Surveying in agriculture is done to measure land areas, plan irrigation systems, and prepare farm maps.",
     difficulty: "easy"
@@ -45,7 +45,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_006", subject: "da-252", lecture: "lecture-1", lectureNo: 1,
     question: "A datum in surveying is:",
-    options: ["A chain length", "A survey instrument", "A reference level or surface from which elevations are measured", "A type of map"],
+    options: ["A chain length in soil management", "A survey instrument under field conditions", "A reference level or surface from which elevations are measured", "A type of map for soil fertility"],
     correct: 2,
     explanation: "Datum is an assumed or defined reference surface (often mean sea level) from which vertical measurements are made.",
     difficulty: "medium"
@@ -93,7 +93,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_012", subject: "da-252", lecture: "lecture-1", lectureNo: 1,
     question: "Bearing in surveying is the angle measured from:",
-    options: ["East direction", "North (or South) direction, clockwise or counter-clockwise", "Vertical downward", "The horizon"],
+    options: ["East direction in soil management", "North (or South) direction, clockwise or counter-clockwise", "Vertical downward under field conditions", "The horizon for soil fertility"],
     correct: 1,
     explanation: "Bearing is the horizontal angle of a survey line measured clockwise from north (whole circle bearing) or from N/S.",
     difficulty: "medium"
@@ -127,7 +127,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_016", subject: "da-252", lecture: "lecture-2", lectureNo: 2,
     question: "An offset in chain surveying is:",
-    options: ["The length of the chain", "A measurement along the chain line", "The angle between two chain lines", "A perpendicular (or oblique) measurement from the chain line to a detail point"],
+    options: ["The length of the chain in soil management", "A measurement along the chain line under field conditions", "The angle between two chain lines for soil fertility", "A perpendicular (or oblique) measurement from the chain line to a detail point"],
     correct: 3,
     explanation: "Offsets are lateral measurements from the chain line to locate features not on the line.",
     difficulty: "medium"
@@ -143,7 +143,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_018", subject: "da-252", lecture: "lecture-2", lectureNo: 2,
     question: "A check line in chain surveying is used to:",
-    options: ["Verify the accuracy of field work by checking closure", "Measure the main line", "Set up the chain", "Measure offsets"],
+    options: ["Verify the accuracy of field work by checking closure", "Measure the main line in soil management", "Set up the chain under field conditions", "Measure offsets for soil fertility"],
     correct: 0,
     explanation: "Check lines connect known points to verify that the framework of triangles has been accurately measured.",
     difficulty: "medium"
@@ -159,7 +159,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_020", subject: "da-252", lecture: "lecture-2", lectureNo: 2,
     question: "Ranging in chain surveying means:",
-    options: ["Taking offsets", "Plotting the chain survey", "Establishing intermediate points on a straight line between two stations", "Measuring distances"],
+    options: ["Taking offsets in soil management", "Plotting the chain survey under field conditions", "Establishing intermediate points on a straight line between two stations", "Measuring distances for soil fertility"],
     correct: 2,
     explanation: "Ranging is the process of establishing a series of intermediate points on a straight line.",
     difficulty: "medium"
@@ -167,7 +167,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_021", subject: "da-252", lecture: "lecture-2", lectureNo: 2,
     question: "Obstacles to chaining over ponds or rivers are overcome by:",
-    options: ["Geometric methods using similar triangles or Pythagoras theorem", "Stopping the survey", "Moving the survey line", "Ignoring the obstacle"],
+    options: ["Geometric methods using similar triangles or Pythagoras theorem", "Stopping the survey in soil management", "Moving the survey line under field conditions", "Ignoring the obstacle for soil fertility"],
     correct: 0,
     explanation: "Obstacles to chaining are overcome using geometric methods such as erecting perpendiculars and using similar triangles.",
     difficulty: "medium"
@@ -175,7 +175,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_022", subject: "da-252", lecture: "lecture-2", lectureNo: 2,
     question: "The area of a farm measured by chain surveying is recorded in the field book in:",
-    options: ["Square feet only", "Hectares only", "Chains and links, later converted to hectares", "Gunter's units only"],
+    options: ["Square feet only in soil management", "Hectares only under field conditions", "Chains and links, later converted to hectares", "Gunter's units only for soil fertility"],
     correct: 2,
     explanation: "Field measurements are recorded in chains and links; area is calculated from the plotted map.",
     difficulty: "medium"
@@ -185,7 +185,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_023", subject: "da-252", lecture: "lecture-3", lectureNo: 3,
     question: "A prismatic compass measures:",
-    options: ["Horizontal angles (bearings) using a magnetic needle", "Vertical angles", "Distances", "Elevations"],
+    options: ["Horizontal angles (bearings) using a magnetic needle", "Vertical angles in soil management", "Distances under field conditions", "Elevations for soil fertility"],
     correct: 0,
     explanation: "A prismatic compass measures horizontal bearings (directions) using a freely suspended magnetic needle.",
     difficulty: "easy"
@@ -209,7 +209,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_026", subject: "da-252", lecture: "lecture-3", lectureNo: 3,
     question: "Quadrantal Bearing (QB) is expressed as:",
-    options: ["Bearings from east", "N/S angle E/W (e.g., N 45° E, S 30° W)", "0°–360° from north", "Only in degrees"],
+    options: ["Bearings from east", "N/S angle E/W", "0°–360° from north", "Only in degrees"],
     correct: 1,
     explanation: "Quadrantal bearing specifies direction as angle from north or south toward east or west (0°–90° range).",
     difficulty: "medium"
@@ -225,7 +225,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_028", subject: "da-252", lecture: "lecture-3", lectureNo: 3,
     question: "Local attraction in compass surveying is caused by:",
-    options: ["Atmospheric pressure", "Presence of magnetic materials (iron, electric cables) near the compass", "Earth's rotation", "Sun's gravity"],
+    options: ["Atmospheric pressure in soil management", "Presence of magnetic materials (iron, electric cables) near the compass", "Earth's rotation under field conditions", "Sun's gravity for soil fertility"],
     correct: 1,
     explanation: "Local attraction deflects the magnetic needle due to nearby iron objects, steel structures, or power lines.",
     difficulty: "medium"
@@ -233,7 +233,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_029", subject: "da-252", lecture: "lecture-3", lectureNo: 3,
     question: "Traversing in compass survey involves:",
-    options: ["Measuring a series of connected lines with distances and bearings", "Plotting only", "Only measuring distances", "Only measuring bearings"],
+    options: ["Measuring a series of connected lines with distances and bearings", "Plotting only in soil management", "Only measuring distances under field conditions", "Only measuring bearings for soil fertility"],
     correct: 0,
     explanation: "A traverse is a series of connected survey lines; both distances and bearings are measured.",
     difficulty: "medium"
@@ -241,7 +241,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_030", subject: "da-252", lecture: "lecture-3", lectureNo: 3,
     question: "Closing error in a compass traverse is due to:",
-    options: ["Correct scale selection", "Correct measurements", "Magnetic north alignment", "Accumulation of errors in measurement and plotting"],
+    options: ["Correct scale selection in soil management", "Correct measurements under field conditions", "Magnetic north alignment for soil fertility", "Accumulation of errors in measurement and plotting"],
     correct: 3,
     explanation: "Closing error is the gap between the starting and ending point of a closed traverse, due to accumulated measurement errors.",
     difficulty: "medium"
@@ -249,7 +249,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_031", subject: "da-252", lecture: "lecture-3", lectureNo: 3,
     question: "Bowditch's rule (compass rule) for traverse adjustment distributes the closing error:",
-    options: ["Randomly", "Only to the longest side", "Proportional to the length of each traverse side", "Equally to all sides"],
+    options: ["Randomly in soil management", "Only to the longest side", "Proportional to the length of each traverse side", "Equally to all sides under field conditions"],
     correct: 2,
     explanation: "Bowditch's rule distributes the closing error in proportion to the length of each line in the traverse.",
     difficulty: "hard"
@@ -257,7 +257,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_032", subject: "da-252", lecture: "lecture-3", lectureNo: 3,
     question: "The angle of dip is the angle between:",
-    options: ["Horizontal plane and direction of earth's total magnetic field", "True north and magnetic north", "Magnetic needle and vertical", "Two traverse lines"],
+    options: ["Horizontal plane and direction of earth's total magnetic field", "True north and magnetic north in soil management", "Magnetic needle and vertical under field conditions", "Two traverse lines for soil fertility"],
     correct: 0,
     explanation: "Angle of dip (magnetic inclination) is the angle that the earth's magnetic field makes with the horizontal.",
     difficulty: "hard"
@@ -291,7 +291,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_036", subject: "da-252", lecture: "lecture-4", lectureNo: 4,
     question: "Intersection method in plane table surveying requires:",
-    options: ["Two or more instrument stations with intersecting rays to locate points", "A compass", "One instrument station", "A level"],
+    options: ["Two or more instrument stations with intersecting rays to locate points", "A compass in soil management", "One instrument station under field conditions", "A level for soil fertility"],
     correct: 0,
     explanation: "Intersection locates a point by intersecting rays from two or more instrument stations — useful when direct access is impossible.",
     difficulty: "medium"
@@ -299,7 +299,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_037", subject: "da-252", lecture: "lecture-4", lectureNo: 4,
     question: "Theodolite is used for measuring:",
-    options: ["Elevations only", "Distances only", "Both horizontal and vertical angles precisely", "Magnetic bearings"],
+    options: ["Elevations only in soil management", "Distances only under field conditions", "Both horizontal and vertical angles precisely", "Magnetic bearings for soil fertility"],
     correct: 2,
     explanation: "Theodolite is a precision optical instrument for measuring both horizontal and vertical angles.",
     difficulty: "easy"
@@ -307,7 +307,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_038", subject: "da-252", lecture: "lecture-4", lectureNo: 4,
     question: "Verniers in a theodolite are used to:",
-    options: ["Measure distances", "Read fractional parts of the main scale divisions (increase precision)", "Set the instrument level", "Measure magnetic north"],
+    options: ["Measure distances in soil management", "Read fractional parts of the main scale divisions (increase precision)", "Set the instrument level under field conditions", "Measure magnetic north for soil fertility"],
     correct: 1,
     explanation: "Vernier scales allow reading of angles to fractions of a degree on the main graduated circle.",
     difficulty: "medium"
@@ -315,7 +315,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_039", subject: "da-252", lecture: "lecture-4", lectureNo: 4,
     question: "Deflection angle is measured from:",
-    options: ["Vertical axis", "Extension of the previous survey line", "North", "Magnetic south"],
+    options: ["Vertical axis in soil management", "Extension of the previous survey line", "North under field conditions", "Magnetic south for soil fertility"],
     correct: 1,
     explanation: "Deflection angle is the angle between the extension of the preceding line and the following line.",
     difficulty: "medium"
@@ -323,7 +323,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_040", subject: "da-252", lecture: "lecture-4", lectureNo: 4,
     question: "Tacheometry is a surveying method for:",
-    options: ["Underground surveys", "Soil profiling", "Rapid determination of distances and elevations using stadia hairs in telescope", "Magnetic measurements"],
+    options: ["Underground surveys in soil management", "Soil profiling under field conditions", "Rapid determination of distances and elevations using stadia hairs in telescope", "Magnetic measurements for soil fertility"],
     correct: 2,
     explanation: "Tacheometry uses the stadia method to determine distances and elevations from staff readings without chaining.",
     difficulty: "hard"
@@ -333,7 +333,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_041", subject: "da-252", lecture: "lecture-5", lectureNo: 5,
     question: "Levelling is the process of determining:",
-    options: ["Areas of fields", "Relative heights (elevations) of points on the earth's surface", "Horizontal distances", "Magnetic bearings"],
+    options: ["Areas of fields in soil management", "Relative heights (elevations) of points on the earth's surface", "Horizontal distances under field conditions", "Magnetic bearings for soil fertility"],
     correct: 1,
     explanation: "Levelling finds the difference in elevation between points to establish levels for engineering and agricultural works.",
     difficulty: "easy"
@@ -341,7 +341,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_042", subject: "da-252", lecture: "lecture-5", lectureNo: 5,
     question: "A Bench Mark (BM) is:",
-    options: ["A farm boundary marker", "A temporary marker", "A chain length marker", "A permanent reference point of known elevation"],
+    options: ["A farm boundary marker", "A temporary marker in soil management", "A chain length marker", "A permanent reference point of known elevation"],
     correct: 3,
     explanation: "Benchmark is a permanent fixed point of known elevation (height above MSL) used as reference for levelling.",
     difficulty: "easy"
@@ -349,7 +349,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_043", subject: "da-252", lecture: "lecture-5", lectureNo: 5,
     question: "Back Sight (BS) in levelling is the reading taken on:",
-    options: ["A forward point", "The last point", "The first staff position (at known point/BM) after setting up instrument", "Any point"],
+    options: ["A forward point in soil management", "The last point under field conditions", "The first staff position (at known point/BM) after setting up instrument", "Any point for soil fertility"],
     correct: 2,
     explanation: "Back sight is taken on a point of known elevation (BM or change point) immediately after instrument setup.",
     difficulty: "medium"
@@ -365,7 +365,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_045", subject: "da-252", lecture: "lecture-5", lectureNo: 5,
     question: "Rise and Fall method in levelling calculates RL by:",
-    options: ["Compass readings", "Comparing consecutive staff readings (rise = previous IS/FS > current reading)", "Triangulation", "HI method"],
+    options: ["Compass readings in soil management", "Comparing consecutive staff readings (rise = previous IS/FS > current reading)", "Triangulation under field conditions", "HI method for soil fertility"],
     correct: 1,
     explanation: "Rise and Fall method finds rises or falls between consecutive readings and applies them to successive RLs.",
     difficulty: "medium"
@@ -381,7 +381,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_047", subject: "da-252", lecture: "lecture-5", lectureNo: 5,
     question: "Reciprocal levelling is used when:",
-    options: ["The area is flat", "The distance is short", "There are many intermediate points", "A large obstacle (river, valley) prevents direct levelling"],
+    options: ["The area is flat in soil management", "The distance is short under field conditions", "There are many intermediate points", "A large obstacle (river, valley) prevents direct levelling"],
     correct: 3,
     explanation: "Reciprocal levelling takes readings from both banks of an obstacle to eliminate errors from curvature and refraction.",
     difficulty: "medium"
@@ -405,7 +405,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_050", subject: "da-252", lecture: "lecture-5", lectureNo: 5,
     question: "A change point (CP) in levelling is a point where:",
-    options: ["Both foresight and backsight readings are taken (instrument is shifted)", "Only one reading is taken", "The staff is held vertically", "The survey ends"],
+    options: ["Both foresight and backsight readings are taken (instrument is shifted)", "Only one reading is taken in soil management", "The staff is held vertically under field conditions", "The survey ends for soil fertility"],
     correct: 0,
     explanation: "Change point is where the instrument is moved: foresight on it from old position, then backsight from new position.",
     difficulty: "medium"
@@ -413,7 +413,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_051", subject: "da-252", lecture: "lecture-5", lectureNo: 5,
     question: "Dumpy level is preferred over tilting level because:",
-    options: ["It works without a staff", "It measures horizontal distances", "It measures angles", "It has a simpler construction and is more stable for ordinary levelling"],
+    options: ["It works without a staff in soil management", "It measures horizontal distances under field conditions", "It measures angles for soil fertility", "It has a simpler construction and is more stable for ordinary levelling"],
     correct: 3,
     explanation: "Dumpy level has a simple, robust construction suitable for ordinary levelling work.",
     difficulty: "medium"
@@ -423,7 +423,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_052", subject: "da-252", lecture: "lecture-6", lectureNo: 6,
     question: "Contour lines are lines joining points:",
-    options: ["Of equal slope", "Of equal soil depth", "Of equal horizontal distance", "Of equal elevation (height) above a datum"],
+    options: ["Of equal slope in soil management", "Of equal soil depth", "Of equal horizontal distance", "Of equal elevation (height) above a datum"],
     correct: 3,
     explanation: "A contour line connects all points of the same elevation above a datum (sea level).",
     difficulty: "easy"
@@ -463,7 +463,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_057", subject: "da-252", lecture: "lecture-6", lectureNo: 6,
     question: "Contour maps are useful in agriculture for:",
-    options: ["Irrigation system design, soil conservation planning, drainage layout", "Fertilizer recommendations", "Pest scouting", "Planting decisions only"],
+    options: ["Irrigation system design, soil conservation planning, drainage layout", "Fertilizer recommendations in soil management", "Pest scouting under field conditions", "Planting decisions only for soil fertility"],
     correct: 0,
     explanation: "Contour maps guide terrace design, field levelling, irrigation channel layout, and soil conservation measures.",
     difficulty: "easy"
@@ -479,7 +479,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_059", subject: "da-252", lecture: "lecture-6", lectureNo: 6,
     question: "Gradient in agricultural land development refers to:",
-    options: ["Crop growth rate", "The slope or rate of change of elevation (rise/horizontal distance)", "Water pH", "Soil fertility level"],
+    options: ["Crop growth rate in soil management", "The slope or rate of change of elevation (rise/horizontal distance)", "Water pH under field conditions", "Soil fertility level for soil fertility"],
     correct: 1,
     explanation: "Gradient (slope) = vertical rise / horizontal distance, expressed as ratio, percentage, or angle.",
     difficulty: "easy"
@@ -521,7 +521,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_064", subject: "da-252", lecture: "lecture-7", lectureNo: 7,
     question: "Planimeter is an instrument used to:",
-    options: ["Measure elevations", "Measure distances", "Measure angles", "Measure areas of irregular figures on a map/plan"],
+    options: ["Measure elevations in soil management", "Measure distances under field conditions", "Measure angles for soil fertility", "Measure areas of irregular figures on a map/plan"],
     correct: 3,
     explanation: "A planimeter (amsler or digital) traces the boundary of an irregular figure to determine its area.",
     difficulty: "medium"
@@ -553,7 +553,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_068", subject: "da-252", lecture: "lecture-7", lectureNo: 7,
     question: "Coordinates method for area calculation uses:",
-    options: ["Chain lengths only", "X and Y coordinates of boundary points (surveyor's formula)", "Contour data", "Compass bearings only"],
+    options: ["Chain lengths only in soil management", "X and Y coordinates of boundary points (surveyor's formula)", "Contour data under field conditions", "Compass bearings only for soil fertility"],
     correct: 1,
     explanation: "The coordinate method uses X, Y coordinates of vertices to compute area using the surveyor's formula.",
     difficulty: "medium"
@@ -563,7 +563,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_069", subject: "da-252", lecture: "lecture-8", lectureNo: 8,
     question: "GPS (Global Positioning System) in surveying provides:",
-    options: ["Elevation only", "Magnetic bearings only", "Precise 3D position (latitude, longitude, elevation) anywhere on earth", "Distance measurement only"],
+    options: ["Elevation only in soil management", "Magnetic bearings only under field conditions", "Precise 3D position (latitude, longitude, elevation) anywhere on earth", "Distance measurement only for soil fertility"],
     correct: 2,
     explanation: "GPS uses satellite signals to provide accurate 3D positioning for surveying and mapping.",
     difficulty: "easy"
@@ -571,7 +571,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_070", subject: "da-252", lecture: "lecture-8", lectureNo: 8,
     question: "Total Station in surveying is an electronic instrument that:",
-    options: ["Only levels the instrument", "Measures magnetic bearings", "Measures only angles", "Measures both horizontal/vertical angles and distances simultaneously"],
+    options: ["Only levels the instrument", "Measures magnetic bearings in soil management", "Measures only angles under field conditions", "Measures both horizontal/vertical angles and distances simultaneously"],
     correct: 3,
     explanation: "Total Station is an electronic theodolite integrated with EDM (Electronic Distance Measurement) for simultaneous angle and distance measurement.",
     difficulty: "medium"
@@ -579,7 +579,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_071", subject: "da-252", lecture: "lecture-8", lectureNo: 8,
     question: "GIS (Geographic Information System) is used to:",
-    options: ["Only store maps", "Replace surveyors", "Measure gravity", "Capture, store, analyze, and display geographic/spatial data"],
+    options: ["Only store maps in soil management", "Replace surveyors under field conditions", "Measure gravity for soil fertility", "Capture, store, analyze, and display geographic/spatial data"],
     correct: 3,
     explanation: "GIS integrates hardware, software, and data to manage and analyze geographic information for decision making.",
     difficulty: "medium"
@@ -587,7 +587,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_072", subject: "da-252", lecture: "lecture-8", lectureNo: 8,
     question: "Remote sensing in agriculture uses:",
-    options: ["Magnetic instruments", "Ground-based instruments only", "Chemical sensors in soil", "Satellite/aerial sensors to gather information about land features without direct contact"],
+    options: ["Magnetic instruments in soil management", "Ground-based instruments only under field conditions", "Chemical sensors in soil for soil fertility", "Satellite/aerial sensors to gather information about land features without direct contact"],
     correct: 3,
     explanation: "Remote sensing acquires information about earth's surface using sensors on satellites or aircraft.",
     difficulty: "medium"
@@ -595,7 +595,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_073", subject: "da-252", lecture: "lecture-8", lectureNo: 8,
     question: "Adangal (or Pahani) is a land record document that contains:",
-    options: ["Field-wise crop cultivation details, ownership, area, and irrigation source", "Fertilizer use data", "Soil survey reports", "Village revenue maps"],
+    options: ["Field-wise crop cultivation details, ownership, area, and irrigation source", "Fertilizer use data in soil management", "Soil survey reports under field conditions", "Village revenue maps for soil fertility"],
     correct: 0,
     explanation: "Adangal/Pahani is the annual crop register maintained by village revenue officials showing field-wise agricultural data.",
     difficulty: "medium"
@@ -603,7 +603,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_074", subject: "da-252", lecture: "lecture-8", lectureNo: 8,
     question: "Cadastral survey is conducted for:",
-    options: ["Soil classification only", "Topographic mapping", "Weather mapping", "Fixing land boundaries, ownership, and area for legal/revenue purposes"],
+    options: ["Soil classification only in soil management", "Topographic mapping under field conditions", "Weather mapping for soil fertility", "Fixing land boundaries, ownership, and area for legal/revenue purposes"],
     correct: 3,
     explanation: "Cadastral surveys determine land ownership boundaries and areas for revenue and legal purposes.",
     difficulty: "medium"
@@ -611,7 +611,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_075", subject: "da-252", lecture: "lecture-8", lectureNo: 8,
     question: "Drone (UAV) surveying in agriculture is used for:",
-    options: ["Only entertainment", "Underground surveys", "Weather forecasting", "Crop monitoring, area mapping, and precision agriculture applications"],
+    options: ["Only entertainment in soil management", "Underground surveys under field conditions", "Weather forecasting for soil fertility", "Crop monitoring, area mapping, and precision agriculture applications"],
     correct: 3,
     explanation: "Agricultural drones equipped with cameras and sensors are used for crop health monitoring, field mapping, and precision application.",
     difficulty: "easy"
@@ -629,7 +629,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_077", subject: "da-252", lecture: "lecture-16", lectureNo: 16,
     question: "'Delta' in irrigation terminology refers to:",
-    options: ["Total area irrigated by one cumec", "Volume of water stored in a reservoir", "Total depth of water required by a crop during the entire base period", "Width of irrigation canal"],
+    options: ["Total area irrigated by one cumec in soil management", "Volume of water stored in a reservoir under field conditions", "Total depth of water required by a crop during the entire base period", "Width of irrigation canal for soil fertility"],
     correct: 2,
     explanation: "As per DA-252 notes: Delta is the total depth of water required by a crop during its entire base period. Formula: Delta (Δ) = Volume of water / Total irrigated area.",
     difficulty: "medium"
@@ -677,7 +677,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_083", subject: "da-252", lecture: "lecture-18", lectureNo: 18,
     question: "The Border Strip method of irrigation is suitable for which crops?",
-    options: ["Sparsely grown orchard crops", "Close growing crops like wheat, barley, groundnut and berseem", "Only rice fields", "Potato, sugarcane, maize and cotton"],
+    options: ["Sparsely grown orchard crops in soil management", "Close growing crops like wheat, barley, groundnut and berseem", "Only rice fields under field conditions", "Potato, sugarcane, maize and cotton for soil fertility"],
     correct: 1,
     explanation: "As per DA-252 notes: Border strip method is suitable for irrigating close growing crops such as wheat, barley, groundnut, bajra and berseem. Ring basin method is for orchard crops.",
     difficulty: "medium"
@@ -717,7 +717,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_088", subject: "da-252", lecture: "lecture-21", lectureNo: 21,
     question: "Priming in a centrifugal pump refers to:",
-    options: ["Adding lubricant to the impeller bearings", "Filling water in the suction pipe to remove air before starting", "Testing the pump discharge capacity", "Starting the pump without water"],
+    options: ["Adding lubricant to the impeller bearings in soil management", "Filling water in the suction pipe to remove air before starting", "Testing the pump discharge capacity under field conditions", "Starting the pump without water for soil fertility"],
     correct: 1,
     explanation: "As per DA-252 notes: Priming is the process of removing air from pump casing and suction pipe by filling water. The centrifugal pump will not work if there is any air left in the suction pipe.",
     difficulty: "easy"
@@ -781,7 +781,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_096", subject: "da-252", lecture: "lecture-21", lectureNo: 21,
     question: "An open impeller centrifugal pump is most suitable for:",
-    options: ["Pumping viscous liquids like molasses", "Pumping water mixed with sand, gravel and other solid materials", "Pumping clear irrigation water", "High-pressure deep well applications"],
+    options: ["Pumping viscous liquids like molasses in soil management", "Pumping water mixed with sand, gravel and other solid materials", "Pumping clear irrigation water under field conditions", "High-pressure deep well applications for soil fertility"],
     correct: 1,
     explanation: "As per DA-252 notes: Open impeller (no side wall/shroud) is used to handle water mixed with sand, gravel, clay, pebbles and other solid materials. It is made of forged steel but has a short life. Suitable for dredging works.",
     difficulty: "medium"
@@ -805,7 +805,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_099", subject: "da-252", lecture: "lecture-20", lectureNo: 20,
     question: "The largest area under drip irrigation globally (as of 2008 data) is found in which two countries?",
-    options: ["Australia and South Africa", "Israel and India", "China and Brazil", "USA and Spain (1.5 million ha each)"],
+    options: ["Australia and South Africa", "Israel and India in soil management", "China and Brazil under field conditions", "USA and Spain (1.5 million ha each)"],
     correct: 3,
     explanation: "As per DA-252 notes: At present (2008 data), the largest area under drip irrigation is in USA and Spain (1.5 million ha each), followed by India (1.43 million ha). Total world coverage increased from 4000 ha in 1972 to over 8 million ha in 2008.",
     difficulty: "medium"
@@ -813,7 +813,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_100", subject: "da-252", lecture: "lecture-22", lectureNo: 22,
     question: "A key advantage of submersible pumps over centrifugal pumps is that:",
-    options: ["They can be used in very deep tube wells where a long shaft is impractical", "They do not require any power source", "They are cheaper to install", "They are suitable only for shallow wells"],
+    options: ["They can be used in very deep tube wells where a long shaft is impractical", "They do not require any power source in soil management", "They are cheaper to install under field conditions", "They are suitable only for shallow wells for soil fertility"],
     correct: 0,
     explanation: "As per DA-252 notes: The principal advantage of submersible pump is it can be used in very deep tube wells where a long shaft would not be practical. It also has special advantage where theft is a problem since it has no above-ground working parts.",
     difficulty: "easy"
@@ -826,7 +826,7 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Surveying is defined as the art of determination of which of the following on or near the surface of the earth?",
-    options: ["Only vertical distances", "Horizontal distances, differences in elevation, directions, angles, locations, areas and volumes", "Only areas and volumes", "Only horizontal distances"],
+    options: ["Only vertical distances in soil management", "Horizontal distances, differences in elevation, directions, angles, locations, areas and volumes", "Only areas and volumes under field conditions", "Only horizontal distances for soil fertility"],
     correct: 1,
     explanation: "Surveying involves measurement and recording of horizontal distances, differences in elevation, directions, angles, locations, areas and volumes on or near the earth's surface."
   },
@@ -986,7 +986,7 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Arrows (chain pins) in chain surveying are used to:",
-    options: ["Mark contour lines", "Mark right angles", "Mark the position of the compass", "Mark the end of each chain length during chaining"],
+    options: ["Mark contour lines in soil management", "Mark right angles under field conditions", "Mark the position of the compass", "Mark the end of each chain length during chaining"],
     correct: 3,
     explanation: "Arrows (chain pins) are used to mark the end of each chain during the process of chaining. Each chain comes with 10 arrows, made of 4 mm (8 s.w.g.) metallic wire, 400 mm long."
   },
@@ -1006,7 +1006,7 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "A plumb bob in surveying is used primarily to:",
-    options: ["Range lines over obstacles", "Locate points directly below or above another point", "Measure offsets from the chain line", "Measure angles between lines"],
+    options: ["Range lines over obstacles in soil management", "Locate points directly below or above another point", "Measure offsets from the chain line", "Measure angles between lines under field conditions"],
     correct: 1,
     explanation: "A plumb bob consists of a metal weight (brass) with a pointed end suspended by a string. It is used to locate points directly below or above another point and for centering instruments."
   },
@@ -1026,7 +1026,7 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "An optical square is a surveying instrument used for:",
-    options: ["Setting out right angles more precisely than a cross-staff", "Measuring vertical angles", "Measuring distances by optical means", "Drawing plans in the office"],
+    options: ["Setting out right angles more precisely than a cross-staff", "Measuring vertical angles in soil management", "Measuring distances by optical means under field conditions", "Drawing plans in the office for soil fertility"],
     correct: 0,
     explanation: "An optical square is used for setting out right angles to a chain line. It is more precise than a cross-staff and uses the principle of double reflection by two mirrors at 45° to each other."
   },
@@ -1406,7 +1406,7 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-22",
     lectureNo: 22,
     question: "Which advantage does a submersible pump have over a surface centrifugal pump?",
-    options: ["No need for priming as both pump and motor are submerged", "Lower initial cost", "Higher maintenance requirement", "Suitable for very shallow wells only"],
+    options: ["No need for priming as both pump and motor are submerged", "Lower initial cost in soil management", "Higher maintenance requirement under field conditions", "Suitable for very shallow wells only for soil fertility"],
     correct: 0,
     explanation: "Since both the motor and pump are submerged in the water, submersible pumps do not require priming. They are suitable for deep tube wells and have lower noise levels."
   },
@@ -1436,7 +1436,7 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Ranging rods are painted alternately to improve visibility. The typical colour combinations used are:",
-    options: ["Red and white, or red, white and black, or black and white", "Silver and gold, or red and yellow", "Orange and purple, or blue and white", "Blue and green, or yellow and black"],
+    options: ["Red and white, or red, white and black, or black and white", "Silver and gold, or red and yellow in soil management", "Orange and purple, or blue and white under field conditions", "Blue and green, or yellow and black for soil fertility"],
     correct: 0,
     explanation: "Ranging rods are painted alternately black and white, or red and white, or red, white and black successively, each division being 0.2 m long, to make them visible at distance."
   },
@@ -1476,7 +1476,7 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "The two main parts of survey work are:",
-    options: ["Chaining and offsetting", "Triangulation and traversing", "Field work (taking measurements) and office work (computing and drawing)", "Ranging and chaining"],
+    options: ["Chaining and offsetting in soil management", "Triangulation and traversing under field conditions", "Field work (taking measurements) and office work (computing and drawing)", "Ranging and chaining for soil fertility"],
     correct: 2,
     explanation: "The process of survey is divided into two parts: (a) Field work — taking measurements, and (b) Office work — computing and drawing (preparing plans and maps)."
   },
@@ -1486,7 +1486,7 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "A representation to some scale of the ground and objects upon it as projected on a horizontal plane is called:",
-    options: ["A plan (if scale is large) or a map (if scale is small)", "A map (if scale is large)", "A profile", "A plan (if scale is small)"],
+    options: ["A plan (if scale is large) or a map (if scale is small)", "A map (if scale is large) in soil management", "A profile under field conditions", "A plan (if scale is small) for soil fertility"],
     correct: 0,
     explanation: "The representation is called a plan if the scale is large, and a map if the scale is small. Plans show only horizontal distances. Both are results of surveying."
   },
@@ -1496,7 +1496,7 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "The Steel Band (band chain) is preferred over an ordinary chain for accurate work because:",
-    options: ["It has more links per unit length", "It does not need to be lubricated", "It is heavier and more robust", "It is practically unalterable in length, lighter and easier to handle"],
+    options: ["It has more links per unit length in soil management", "It does not need to be lubricated under field conditions", "It is heavier and more robust for soil fertility", "It is practically unalterable in length, lighter and easier to handle"],
     correct: 3,
     explanation: "The steel band (band chain) is preferred for accurate work as it is practically unalterable in length, lighter, and easier to handle. It must be protected from rust by cleaning and oiling."
   },
@@ -1596,7 +1596,7 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-25",
     lectureNo: 25,
     question: "A Parshall flume is a water measuring device used in irrigation to measure:",
-    options: ["Soil moisture content", "Groundwater level in wells", "Pump discharge pressure", "Flow velocity in open channels and canals"],
+    options: ["Soil moisture content in soil management", "Groundwater level in wells", "Pump discharge pressure under field conditions", "Flow velocity in open channels and canals"],
     correct: 3,
     explanation: "A Parshall flume is a fixed hydraulic structure used to measure the flow rate (discharge) in open channels, canals, and irrigation systems."
   },
@@ -1616,7 +1616,7 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "An offset in chain surveying is a measurement taken:",
-    options: ["Along the main chain line", "Along a diagonal to the main line", "Parallel to the boundary of the survey area", "Perpendicular (or nearly so) to the main chain line to locate a detail point"],
+    options: ["Along the main chain line in soil management", "Along a diagonal to the main line under field conditions", "Parallel to the boundary of the survey area for soil fertility", "Perpendicular (or nearly so) to the main chain line to locate a detail point"],
     correct: 3,
     explanation: "An offset is a lateral measurement taken perpendicular (or oblique) to the main chain line to locate detail points (boundaries, objects) that are away from the chain line."
   },
@@ -1636,7 +1636,7 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Triangulation survey involves dividing the survey area into a series of:",
-    options: ["Parallel strips", "Triangles whose vertices are survey stations", "Rectangular grids", "Concentric circles"],
+    options: ["Parallel strips in soil management", "Triangles whose vertices are survey stations", "Rectangular grids under field conditions", "Concentric circles for soil fertility"],
     correct: 1,
     explanation: "Triangulation survey divides the area into a network of triangles. By measuring the angles of each triangle and one base line, all distances can be calculated trigonometrically."
   },
@@ -1696,7 +1696,7 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-19",
     lectureNo: 19,
     question: "Which crop type is most suitable for sprinkler irrigation?",
-    options: ["Aquatic plants", "Closely spaced field crops, vegetables, and orchards on undulating terrain", "Paddy (flooded field crops)", "Crops requiring waterlogged conditions"],
+    options: ["Aquatic plants in soil management", "Closely spaced field crops, vegetables, and orchards on undulating terrain", "Paddy (flooded field crops) under field conditions", "Crops requiring waterlogged conditions for soil fertility"],
     correct: 1,
     explanation: "Sprinkler irrigation is most suitable for closely spaced field crops, vegetables, orchards, and crops on undulating terrain where surface irrigation is impractical."
   },
@@ -1706,7 +1706,7 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-26",
     lectureNo: 26,
     question: "Computer automation in greenhouses is used primarily for:",
-    options: ["Processing harvested produce", "Operating farm machinery in open fields", "Managing farm accounts and billing", "Controlling temperature, humidity, CO₂, irrigation, and lighting automatically"],
+    options: ["Processing harvested produce in soil management", "Operating farm machinery in open fields", "Managing farm accounts and billing", "Controlling temperature, humidity, CO₂, irrigation, and lighting automatically"],
     correct: 3,
     explanation: "Computers in greenhouses automate the control of all environmental parameters — temperature, humidity, CO₂ levels, irrigation scheduling, and artificial lighting for optimal crop growth."
   },
@@ -1716,7 +1716,7 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-27",
     lectureNo: 27,
     question: "An uneven span greenhouse differs from an even span greenhouse in that:",
-    options: ["It is always attached to another building", "It has no roof ventilation", "One side (south-facing) has a steeper pitch to maximize solar radiation capture", "It has both sides of equal pitch and width"],
+    options: ["It is always attached to another building in soil management", "It has no roof ventilation under field conditions", "One side (south-facing) has a steeper pitch to maximize solar radiation capture", "It has both sides of equal pitch and width"],
     correct: 2,
     explanation: "In an uneven span greenhouse, one side (usually south-facing) has a steeper pitch to maximize solar radiation capture in winter. An even span has both sides of equal pitch and width."
   },
@@ -1806,7 +1806,7 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-22",
     lectureNo: 22,
     question: "The major difference between a centrifugal pump and a submersible pump installation is:",
-    options: ["Centrifugal pumps cannot be used with electricity", "Centrifugal pumps work at higher pressures than submersible pumps", "In centrifugal pumps the motor is on the surface while in submersible pumps both motor and pump are submerged", "Submersible pumps can only be used for surface water"],
+    options: ["Centrifugal pumps cannot be used with electricity in soil management", "Centrifugal pumps work at higher pressures than submersible pumps under field conditions", "In centrifugal pumps the motor is on the surface while in submersible pumps both motor and pump are submerged", "Submersible pumps can only be used for surface water for soil fertility"],
     correct: 2,
     explanation: "In centrifugal pump installations, the motor is on the surface connected via a long shaft. In submersible pumps, both the motor and pump unit are submerged in the water source."
   },

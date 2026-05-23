@@ -989,7 +989,7 @@ export const da201Questions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "In groundnut, calcium deficiency in pod zones leads to:",
-    options: ["Unfilled pods called pops and darkening of plumules", "White leaf spots on young leaves", "Root necrosis and stunting", "Premature flowering"],
+    options: ["Unfilled pods called pops and darkening of plumules", "White leaf spots on young leaves", "Root necrosis and stunting in crop production", "Premature flowering in field conditions"],
     correct: 0,
     explanation: "According to DA-201 notes, calcium deficiency in groundnut leads to unfilled pods called pops and darkening of plumules of embryo."
   },
@@ -1139,7 +1139,7 @@ export const da201Questions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "The 'seed hardening' process in sunflower involves:",
-    options: ["Pelleting seeds with lime powder", "Treating seed with fungicide solution", "Treating seed with hot water at 55°C", "Soaking seeds in fresh water for 14 hours then shade drying"],
+    options: ["Pelleting seeds with lime powder in crop production", "Treating seed with fungicide solution in field conditions", "Treating seed with hot water at 55°C", "Soaking seeds in fresh water for 14 hours then shade drying"],
     correct: 3,
     explanation: "According to DA-201 notes, seed hardening in sunflower involves soaking seeds in fresh water for about 14 hours followed by shade drying, as sunflower seeds have thick hulls."
   },
@@ -1209,7 +1209,7 @@ export const da201Questions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Sesame is regarded as 'Queen of Oilseeds' because of:",
-    options: ["Its drought tolerance", "Its quality (fatty acid composition) and resistance to oxidation and rancidity", "Its high yield potential", "Its wide adaptability"],
+    options: ["Its drought tolerance in crop production", "Its quality (fatty acid composition) and resistance to oxidation and rancidity", "Its high yield potential in field conditions", "Its wide adaptability for agricultural purposes"],
     correct: 1,
     explanation: "As per DA-201 notes, sesame is regarded as 'queen of oilseeds' because of its quality (fatty acid composition) and its resistance to oxidation and rancidity."
   },
@@ -1269,7 +1269,7 @@ export const da201Questions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "The dye 'Carthamin' extracted from safflower petals is:",
-    options: ["Blue dye used in textiles", "Red dye soluble in both water and alcohol", "Yellow pigment soluble in water", "Orange-red dye insoluble in water but soluble in alkaline solution"],
+    options: ["Blue dye used in textiles in crop production", "Red dye soluble in both water and alcohol", "Yellow pigment soluble in water in field conditions", "Orange-red dye insoluble in water but soluble in alkaline solution"],
     correct: 3,
     explanation: "As per DA-201 notes, safflower florets contain 'Carthamin' - an orange-red dye (2%) insoluble in water but readily soluble in alkaline solution, used as food, beverage, and cosmetics additive."
   },
@@ -1289,7 +1289,7 @@ export const da201Questions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "The most critical stage of safflower crop growth for irrigation is:",
-    options: ["Seed filling stage", "At sowing", "Rosette stage (21 DAS or 4-6 leaf stage)", "Flowering stage"],
+    options: ["Seed filling stage in crop production", "At sowing in field conditions", "Rosette stage (21 DAS or 4-6 leaf stage)", "Flowering stage for agricultural purposes"],
     correct: 2,
     explanation: "As per DA-201 notes, rosette stage (21 DAS or 4-6 leaf stage) is the most critical stage of safflower and yield can be increased by 40-60% with irrigation at this stage."
   },
@@ -1299,7 +1299,7 @@ export const da201Questions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "In safflower, harvesting is traditionally done in early hours of the day (before 10 AM) because:",
-    options: ["Aphids are inactive in morning", "Oil content is maximum in morning", "Dew prevents seed shattering", "Spines are soft in morning and become stiff as day advances"],
+    options: ["Aphids are inactive in morning in crop production", "Oil content is maximum in morning in field conditions", "Dew prevents seed shattering for agricultural purposes", "Spines are soft in morning and become stiff as day advances"],
     correct: 3,
     explanation: "According to DA-201 notes, safflower plants are thorny and harvesting is done before 10 AM because spines are soft in early hours and become stiff as the day advances."
   },
@@ -1399,7 +1399,7 @@ export const da201Questions: Question[] = [
     lecture: "lecture-12",
     lectureNo: 12,
     question: "To prevent bud and boll shedding in cotton, NAA-Planofix at 10 ppm is sprayed at:",
-    options: ["50-60 DAS and 15 days after first application", "100-110 DAS", "80-90 DAS", "30-40 DAS"],
+    options: ["50-60 DAS and 15 days after first application", "100-110 DAS in crop production", "80-90 DAS in field conditions", "30-40 DAS for agricultural purposes"],
     correct: 0,
     explanation: "As per DA-201 notes, spraying of NAA-Planofix @ 10 ppm at flower initiation (1 ml in 100 liter) at 50-60 DAS and 15 days after 1st application results in retention of more bolls."
   },
@@ -1489,7 +1489,7 @@ export const da201Questions: Question[] = [
     lecture: "lecture-17",
     lectureNo: 17,
     question: "In sugarcane fertilization, potassium should be applied along with nitrogen because:",
-    options: ["K and N together improve soil pH", "Better utilization of N is achieved in presence of K", "K reduces N volatilization", "K prevents N toxicity"],
+    options: ["K and N together improve soil pH", "Better utilization of N is achieved in presence of K", "K reduces N volatilization in crop production", "K prevents N toxicity in field conditions"],
     correct: 1,
     explanation: "According to DA-201 notes, potassium application is normally done along with N application because of better utilization of N in the presence of K."
   },
@@ -1992,7 +1992,7 @@ export const da201Questions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "In groundnut, calcium deficiency in pod zones leads to:",
-    options: ["Premature flowering", "Root necrosis and stunting", "White leaf spots on young leaves", "Unfilled pods called pops and darkening of plumules"],
+    options: ["Premature flowering in crop production", "Root necrosis and stunting in field conditions", "White leaf spots on young leaves", "Unfilled pods called pops and darkening of plumules"],
     correct: 3,
     explanation: "According to DA-201 notes, calcium deficiency in groundnut leads to unfilled pods called pops and darkening of plumules of embryo."
   },
@@ -2142,7 +2142,7 @@ export const da201Questions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "The seed hardening process in sunflower involves:",
-    options: ["Soaking seeds in fresh water for 14 hours then shade drying", "Pelleting seeds with lime powder", "Treating seed with fungicide solution", "Treating seed with hot water at 55 degrees C"],
+    options: ["Soaking seeds in fresh water for 14 hours then shade drying", "Pelleting seeds with lime powder in crop production", "Treating seed with fungicide solution in field conditions", "Treating seed with hot water at 55 degrees C"],
     correct: 0,
     explanation: "According to DA-201 notes, seed hardening in sunflower involves soaking seeds in fresh water for about 14 hours followed by shade drying, as sunflower seeds have thick hulls."
   },
@@ -2212,7 +2212,7 @@ export const da201Questions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Sesame is regarded as Queen of Oilseeds because of:",
-    options: ["Its drought tolerance", "Its high yield potential", "Its quality fatty acid composition and resistance to oxidation and rancidity", "Its wide adaptability"],
+    options: ["Its drought tolerance in crop production", "Its high yield potential in field conditions", "Its quality fatty acid composition and resistance to oxidation and rancidity", "Its wide adaptability for agricultural purposes"],
     correct: 2,
     explanation: "As per DA-201 notes, sesame is regarded as queen of oilseeds because of its quality (fatty acid composition) and its resistance to oxidation and rancidity."
   },
@@ -2272,7 +2272,7 @@ export const da201Questions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "The dye Carthamin extracted from safflower petals is:",
-    options: ["Yellow pigment soluble in water", "Blue dye used in textiles", "Orange-red dye insoluble in water but soluble in alkaline solution", "Red dye soluble in both water and alcohol"],
+    options: ["Yellow pigment soluble in water in crop production", "Blue dye used in textiles in field conditions", "Orange-red dye insoluble in water but soluble in alkaline solution", "Red dye soluble in both water and alcohol"],
     correct: 2,
     explanation: "As per DA-201 notes, safflower florets contain Carthamin - an orange-red dye (2%) insoluble in water but soluble in alkaline solution, used as food, beverage, and cosmetics additive."
   },
@@ -2292,7 +2292,7 @@ export const da201Questions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "The most critical stage of safflower crop growth for irrigation is:",
-    options: ["Flowering stage", "At sowing", "Seed filling stage", "Rosette stage at 21 DAS or 4-6 leaf stage"],
+    options: ["Flowering stage in crop production", "At sowing in field conditions", "Seed filling stage for agricultural purposes", "Rosette stage at 21 DAS or 4-6 leaf stage"],
     correct: 3,
     explanation: "As per DA-201 notes, rosette stage (21 DAS or 4-6 leaf stage) is the most critical stage of safflower and yield can be increased by 40-60% with irrigation at this stage."
   },
@@ -2302,7 +2302,7 @@ export const da201Questions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "In safflower, harvesting is traditionally done in early hours of the day before 10 AM because:",
-    options: ["Aphids are inactive in morning", "Spines are soft in morning and become stiff as day advances", "Dew prevents seed shattering", "Oil content is maximum in morning"],
+    options: ["Aphids are inactive in morning in crop production", "Spines are soft in morning and become stiff as day advances", "Dew prevents seed shattering in field conditions", "Oil content is maximum in morning for agricultural purposes"],
     correct: 1,
     explanation: "According to DA-201 notes, safflower plants are thorny and harvesting is done before 10 AM because spines are soft in early hours and become stiff as the day advances."
   },
@@ -2402,7 +2402,7 @@ export const da201Questions: Question[] = [
     lecture: "lecture-12",
     lectureNo: 12,
     question: "To prevent bud and boll shedding in cotton, NAA-Planofix at 10 ppm is sprayed at:",
-    options: ["100-110 DAS", "80-90 DAS", "30-40 DAS", "50-60 DAS and 15 days after first application"],
+    options: ["100-110 DAS in crop production", "80-90 DAS in field conditions", "30-40 DAS for agricultural purposes", "50-60 DAS and 15 days after first application"],
     correct: 3,
     explanation: "As per DA-201 notes, spraying of NAA-Planofix at 10 ppm at flower initiation (1 ml in 100 liter) at 50-60 DAS and 15 days after 1st application results in retention of more bolls."
   },
@@ -2492,7 +2492,7 @@ export const da201Questions: Question[] = [
     lecture: "lecture-17",
     lectureNo: 17,
     question: "In sugarcane fertilization, potassium should be applied along with nitrogen because:",
-    options: ["K reduces N volatilization", "K prevents N toxicity", "K and N together improve soil pH", "Better utilization of N is achieved in presence of K"],
+    options: ["K reduces N volatilization in crop production", "K prevents N toxicity in field conditions", "K and N together improve soil pH", "Better utilization of N is achieved in presence of K"],
     correct: 3,
     explanation: "According to DA-201 notes, potassium application is normally done along with N because of better utilization of N in the presence of K."
   },

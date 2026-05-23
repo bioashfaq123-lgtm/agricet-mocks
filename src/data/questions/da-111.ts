@@ -813,7 +813,7 @@ export const da111Questions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "Plant breeding is defined as the art, science and technology of:",
-    options: ["Developing new farming practices", "Studying plant diseases and pests", "Cultivating plants in controlled conditions", "Improving the genetic makeup of plants for economic use"],
+    options: ["Developing new farming practices in crop production", "Studying plant diseases and pests in field conditions", "Cultivating plants in controlled conditions for agricultural purposes", "Improving the genetic makeup of plants for economic use"],
     correct: 3,
     explanation: "As per DA-111 notes: Plant breeding is defined as an art, a science, and technology of improving the genetic makeup of plants in relation to their economic use for mankind."
   },
@@ -1243,7 +1243,7 @@ export const da111Questions: Question[] = [
     lecture: "lecture-16",
     lectureNo: 16,
     question: "Genetic erosion refers to:",
-    options: ["Loss of genetic diversity due to replacement of traditional varieties by modern varieties", "Physical erosion of soil reducing crop production", "Reduction in crop area due to urbanization", "Mutation-induced loss of genetic information"],
+    options: ["Loss of genetic diversity due to replacement of traditional varieties by modern varieties", "Physical erosion of soil reducing crop production in crop production", "Reduction in crop area due to urbanization in field conditions", "Mutation-induced loss of genetic information for agricultural purposes"],
     correct: 0,
     explanation: "As per DA-111 notes: Genetic erosion refers to the loss of genetic diversity when traditional varieties are replaced by modern high-yielding varieties. Conservation of genetic diversity through gene banks is important."
   },
@@ -1323,7 +1323,7 @@ export const da111Questions: Question[] = [
     lecture: "lecture-38",
     lectureNo: 38,
     question: "Seed viability refers to:",
-    options: ["The resistance of seed to diseases", "The weight of 1000 seeds", "The ability of a seed to germinate under favorable conditions", "The shelf life of seed in storage"],
+    options: ["The resistance of seed to diseases in crop production", "The weight of 1000 seeds in field conditions", "The ability of a seed to germinate under favorable conditions", "The shelf life of seed in storage"],
     correct: 2,
     explanation: "As per DA-111 notes: Seed viability refers to the ability of a seed to germinate under favorable conditions. It is a measure of the living status of seeds."
   },

@@ -85,7 +85,7 @@ export const da282Questions: Question[] = [
     id: "d282_011",
     subject: "da-282",
     question: "The botanical name of Chilli (Hot pepper) is:",
-    options: ["Capsicum annuum", "Capsicum frutescens", "Both A and B (different species)", "Solanum lycopersicum"],
+    options: ["Capsicum annuum in horticultural practices", "Capsicum frutescens for vegetable cultivation", "Both A and B (different species)", "Solanum lycopersicum in orchard management"],
     correct: 2,
     explanation: "Chilli belongs to genus Capsicum. Sweet pepper and mild chilli are Capsicum annuum. Hot (pungent) chilli is Capsicum frutescens. Andhra Pradesh is the largest chilli producer in India — 'Guntur chilli' is world-famous."
   },
@@ -149,7 +149,7 @@ export const da282Questions: Question[] = [
     id: "d282_019",
     subject: "da-282",
     question: "The botanical name of Jasmine (Mogra/Mallige) is:",
-    options: ["Polianthes tuberosa", "Both A and B are jasmine species", "Jasminum sambac", "Jasminum grandiflorum"],
+    options: ["Polianthes tuberosa in horticultural practices", "Both A and B are jasmine species", "Jasminum sambac for vegetable cultivation", "Jasminum grandiflorum in orchard management"],
     correct: 1,
     explanation: "Common jasmine species: Jasminum sambac (Mogra/Arabian jasmine — most common in India), J. grandiflorum (Spanish jasmine, used for essential oil). Both are cultivated for garlands and perfume extraction."
   },
@@ -932,7 +932,7 @@ export const da282Questions: Question[] = [
   {
     id: "d282_117", subject: "da-282",
     question: "Guava (Psidium guajava) is considered a nutritious fruit because it is high in:",
-    options: ["Calcium", "Vitamin C (highest among common fruits)", "Fat", "Vitamin A"],
+    options: ["Calcium in horticultural practices", "Vitamin C (highest among common fruits)", "Fat for vegetable cultivation", "Vitamin A in orchard management"],
     correct: 1,
     explanation: "Guava has the highest Vitamin C content among common fruits — about 4-5 times more than oranges.",
     difficulty: "medium"
@@ -980,7 +980,7 @@ export const da282Questions: Question[] = [
   {
     id: "d282_123", subject: "da-282",
     question: "Tomato is called the poor man's apple because:",
-    options: ["It resembles an apple in shape", "It is high in Vitamin C, lycopene, and widely available at affordable prices", "It is inexpensive and low in nutrition", "It is grown only by poor farmers"],
+    options: ["It resembles an apple in shape in horticultural practices", "It is high in Vitamin C, lycopene, and widely available at affordable prices", "It is inexpensive and low in nutrition for vegetable cultivation", "It is grown only by poor farmers in orchard management"],
     correct: 1,
     explanation: "Tomato is called the poor man's apple due to high Vitamin C, lycopene (antioxidant), and wide availability at affordable prices.",
     difficulty: "medium"
@@ -1084,7 +1084,7 @@ export const da282Questions: Question[] = [
   {
     id: "d282_136", subject: "da-282",
     question: "Pomegranate (Punica granatum) is used medicinally because it is rich in:",
-    options: ["Antioxidants including punicalagins and anthocyanins", "Vitamin D", "Calcium only", "Carbohydrates"],
+    options: ["Antioxidants including punicalagins and anthocyanins", "Vitamin D", "Calcium only", "Carbohydrates in horticultural practices"],
     correct: 0,
     explanation: "Pomegranate is rich in antioxidants (punicalagins, punicic acid, anthocyanins) and Vitamin C, used for heart health and immunity.",
     difficulty: "medium"
@@ -1308,7 +1308,7 @@ export const da282Questions: Question[] = [
   {
     id: "d282_164", subject: "da-282",
     question: "Which nutrient is highest in green leafy vegetables?",
-    options: ["Fat", "Carbohydrates", "Vitamin C only", "Iron, calcium, and Vitamin A (carotenoids)"],
+    options: ["Fat in horticultural practices", "Carbohydrates for vegetable cultivation", "Vitamin C only", "Iron, calcium, and Vitamin A (carotenoids)"],
     correct: 3,
     explanation: "Green leafy vegetables (spinach, fenugreek, amaranth) are excellent sources of iron, calcium, Vitamin A (as carotenoids), and folate.",
     difficulty: "medium"
@@ -1324,7 +1324,7 @@ export const da282Questions: Question[] = [
   {
     id: "d282_166", subject: "da-282",
     question: "Chrysanthemum is commercially used for:",
-    options: ["Food production", "Timber production", "Spice production", "Cut flowers, loose flowers, and potted plants"],
+    options: ["Food production in horticultural practices", "Timber production for vegetable cultivation", "Spice production in orchard management", "Cut flowers, loose flowers, and potted plants"],
     correct: 3,
     explanation: "Chrysanthemum (Dendranthema grandiflora) is commercially important as a cut flower, loose flower for garlands, and potted ornamental plant.",
     difficulty: "easy"
@@ -1340,7 +1340,7 @@ export const da282Questions: Question[] = [
   {
     id: "d282_168", subject: "da-282",
     question: "Integrated Pest Management (IPM) in horticulture involves:",
-    options: ["Eliminating all insects from the farm", "Combining biological, cultural, and chemical methods to manage pests with minimal pesticide use", "Using only biological control", "Using only chemical pesticides"],
+    options: ["Eliminating all insects from the farm in horticultural practices", "Combining biological, cultural, and chemical methods to manage pests with minimal pesticide use", "Using only biological control for vegetable cultivation", "Using only chemical pesticides in orchard management"],
     correct: 1,
     explanation: "IPM combines biological (natural enemies), cultural (crop rotation), mechanical, and chemical (when needed) methods for sustainable pest management.",
     difficulty: "medium"
@@ -1404,7 +1404,7 @@ export const da282Questions: Question[] = [
   {
     id: "d282_176", subject: "da-282",
     question: "Sprinkler irrigation in horticulture is especially suitable for:",
-    options: ["Heavy clay soils with flat terrain", "Sandy soils and undulating terrain with vegetables and flowers", "Only rice cultivation", "Flooded paddy fields"],
+    options: ["Heavy clay soils with flat terrain", "Sandy soils and undulating terrain with vegetables and flowers", "Only rice cultivation in horticultural practices", "Flooded paddy fields for vegetable cultivation"],
     correct: 1,
     explanation: "Sprinkler irrigation suits sandy soils, undulating terrain, and crops like vegetables and flowers where uniform water distribution is needed.",
     difficulty: "medium"
@@ -1444,7 +1444,7 @@ export const da282Questions: Question[] = [
   {
     id: "d282_181", subject: "da-282",
     question: "Bed formation in vegetable cultivation helps in:",
-    options: ["Reducing plant density", "Increasing weed growth", "Improving drainage, aeration, and ease of cultivation operations", "Reducing fertilizer use"],
+    options: ["Reducing plant density in horticultural practices", "Increasing weed growth for vegetable cultivation", "Improving drainage, aeration, and ease of cultivation operations", "Reducing fertilizer use in orchard management"],
     correct: 2,
     explanation: "Raised beds improve drainage, soil aeration, ease weeding and irrigation operations, and facilitate better root development in vegetable crops.",
     difficulty: "easy"
@@ -1500,7 +1500,7 @@ export const da282Questions: Question[] = [
   {
     id: "d282_188", subject: "da-282",
     question: "What is the role of mulching in horticulture?",
-    options: ["Conserves soil moisture, controls weeds, and maintains soil temperature", "Increases soil temperature only", "Replaces fertilizer completely", "Provides nutrients directly to plants"],
+    options: ["Conserves soil moisture, controls weeds, and maintains soil temperature", "Increases soil temperature only in horticultural practices", "Replaces fertilizer completely for vegetable cultivation", "Provides nutrients directly to plants in orchard management"],
     correct: 0,
     explanation: "Mulching with straw, plastic, or organic material conserves moisture, suppresses weeds, regulates soil temperature, and reduces soil erosion.",
     difficulty: "easy"
@@ -1556,7 +1556,7 @@ export const da282Questions: Question[] = [
   {
     id: "d282_195", subject: "da-282",
     question: "Which of the following is a correct feature of tropical fruits?",
-    options: ["They require frost for quality development", "They are always seedless", "They grow best in temperatures above 20°C with high humidity", "They cannot be stored in cold storage"],
+    options: ["They require frost for quality development in horticultural practices", "They are always seedless for vegetable cultivation", "They grow best in temperatures above 20°C with high humidity", "They cannot be stored in cold storage"],
     correct: 2,
     explanation: "Tropical fruits (mango, banana, papaya) require warm temperatures (above 20°C), high humidity, and are chilling-sensitive (damaged by cold storage below 10°C).",
     difficulty: "medium"
@@ -1580,7 +1580,7 @@ export const da282Questions: Question[] = [
   {
     id: "d282_198", subject: "da-282",
     question: "India's National Horticulture Board (NHB) was established to:",
-    options: ["Set up cold storage only", "Regulate timber trade", "Promote integrated development of horticulture industry in India", "Control pesticide use only"],
+    options: ["Set up cold storage only", "Regulate timber trade in horticultural practices", "Promote integrated development of horticulture industry in India", "Control pesticide use only for vegetable cultivation"],
     correct: 2,
     explanation: "National Horticulture Board (NHB), established in 1984, promotes integrated development of horticulture industry including production, processing, and marketing.",
     difficulty: "medium"

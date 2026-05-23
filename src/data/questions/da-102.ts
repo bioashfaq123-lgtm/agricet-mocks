@@ -1439,7 +1439,7 @@ export const da102Questions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "If seedling growth is slow in SRI nursery, what is sprayed at 8-10 DAS?",
-    options: ["DAP solution", "Nitrogen fertiliser only", "Phosphate solution", "0.5% urea + 0.5% zinc sulphate"],
+    options: ["DAP solution in crop production", "Nitrogen fertiliser only", "Phosphate solution in field conditions", "0.5% urea + 0.5% zinc sulphate"],
     correct: 3,
     explanation: "As per DA-102 notes: If seedling growth is slow in SRI nursery, sprinkle 0.5% urea + 0.5% zinc sulphate solution at 8-10 DAS."
   },
