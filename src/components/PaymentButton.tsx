@@ -42,7 +42,7 @@ export default function PaymentButton({ userId, userEmail, userName }: Props) {
       return;
     }
 
-    // 2. Create order on server (required for UPI, Netbanking, and all payment methods)
+    // 2. Create order on server
     let orderId: string;
     let amount: number;
     let currency: string;
@@ -63,7 +63,7 @@ export default function PaymentButton({ userId, userEmail, userName }: Props) {
       return;
     }
 
-    // 3. Open Razorpay checkout with the order_id
+    // 3. Open Razorpay checkout
     const options = {
       key:         process.env.NEXT_PUBLIC_RAZORPAY_KEY_ID,
       order_id:    orderId,
@@ -75,35 +75,23 @@ export default function PaymentButton({ userId, userEmail, userName }: Props) {
       prefill:     { name: userName, email: userEmail, contact: "" },
       theme:       { color: "#16a34a" },
 
-      // Allow user to retry failed payment without closing modal
+      // Allow user to retry on failure
       retry: { enabled: true, max_count: 4 },
 
-      // Better UPI experience on mobile
-      config: {
-        display: {
-          blocks: {
-            utib: { name: "Pay via UPI", instruments: [{ method: "upi" }] },
-            other: { name: "Other Payment Methods", instruments: [{ method: "card" }, { method: "netbanking" }] },
-          },
-          sequence: ["block.utib", "block.other"],
-          preferences: { show_default_blocks: false },
-        },
-      },
-
-      // Helpful notes stored with the payment in Razorpay dashboard
       notes: {
         user_id: userId,
         user_email: userEmail,
         type: "subscription",
       },
 
+      // Called when payment succeeds
       handler: async (response: {
         razorpay_payment_id: string;
         razorpay_order_id: string;
         razorpay_signature: string;
       }) => {
         try {
-          // 4. Verify payment signature on server before granting access
+          // 4. Verify signature on server before granting access
           const verifyRes = await fetch("/api/verify-payment", {
             method: "POST",
             headers: { "Content-Type": "application/json" },
@@ -116,14 +104,17 @@ export default function PaymentButton({ userId, userEmail, userName }: Props) {
           const verifyData = await verifyRes.json();
 
           if (!verifyData.success) {
-            toast.error("Payment verification failed. Call helpline: +91 90593 36236 (Payment ID: " + response.razorpay_payment_id + ")");
+            toast.error(
+              "Payment received but verification failed. Call helpline: +91 90593 36236 (Payment ID: " +
+              response.razorpay_payment_id + ")"
+            );
             setLoading(false);
             return;
           }
 
           // 5. Signature verified — grant access in Firestore
           await updateDoc(doc(db, "users", userId), {
-            isPaid: true,
+            isPaid:    true,
             paymentId: response.razorpay_payment_id,
             orderId:   response.razorpay_order_id,
             paidAt:    new Date().toISOString(),
@@ -131,15 +122,47 @@ export default function PaymentButton({ userId, userEmail, userName }: Props) {
           await refreshUserData();
           toast.success("🎉 Payment successful! Full access unlocked!");
         } catch {
-          toast.error("Payment recorded but access update failed. Call +91 90593 36236 for help.");
+          toast.error("Payment done but access update failed. Call +91 90593 36236 for immediate help.");
         }
         setLoading(false);
       },
 
+      // Called when payment FAILS (missing in old code — button stayed stuck in loading)
+      "payment.failed": function (response: {
+        error: {
+          code: string;
+          description: string;
+          source: string;
+          step: string;
+          reason: string;
+          metadata: { order_id: string; payment_id: string };
+        };
+      }) {
+        const reason = response.error.description || "Payment failed";
+        const payId  = response.error.metadata?.payment_id || "";
+
+        // Common reasons and friendly messages
+        let msg = `Payment failed: ${reason}.`;
+        if (reason.toLowerCase().includes("cancelled") || reason.toLowerCase().includes("canceled")) {
+          msg = "Payment was cancelled. Click the button again to retry.";
+        } else if (reason.toLowerCase().includes("insufficient") || reason.toLowerCase().includes("funds")) {
+          msg = "Insufficient funds. Please try a different UPI ID or payment method.";
+        } else if (reason.toLowerCase().includes("invalid") && reason.toLowerCase().includes("vpa")) {
+          msg = "Invalid UPI ID. Please check and try again.";
+        } else if (reason.toLowerCase().includes("timeout") || reason.toLowerCase().includes("expired")) {
+          msg = "Payment timed out. Please try again.";
+        } else if (payId) {
+          msg = `Payment failed (ID: ${payId}). Please retry or call +91 90593 36236.`;
+        }
+
+        toast.error(msg, { duration: 6000 });
+        setLoading(false); // Unlock the button so the student can try again
+      },
+
       modal: {
         ondismiss: () => setLoading(false),
-        confirm_close: true,        // ask user before closing
-        escape: false,              // prevent accidental Esc close
+        confirm_close: true,
+        escape: false,
         animation: true,
       },
     };
