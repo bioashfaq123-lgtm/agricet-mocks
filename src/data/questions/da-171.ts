@@ -1508,8 +1508,7 @@ export const da171Questions: Question[] = [
     subject: "da-171",
     lecture: "lecture-2",
     lectureNo: 2,
-    question: "Assertion (A): Bacteria are most important in tropical and subtropical areas.
-Reason (R): Bacteria favour moist or warm conditions prevailing in these climatic zones.",
+    question: "Assertion (A): Bacteria are most important in tropical and subtropical areas.\nReason (R): Bacteria favour moist or warm conditions prevailing in these climatic zones.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 0,
     explanation: "As per DA-171 notes: Bacteria are of most importance in tropical, subtropical and warm-temperate areas as they favour moist or warm conditions."
@@ -1519,8 +1518,7 @@ Reason (R): Bacteria favour moist or warm conditions prevailing in these climati
     subject: "da-171",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Assertion (A): Phytoplasmas cannot be grown in culture media.
-Reason (R): Phytoplasmas are obligate parasites that lack a rigid cell wall and cannot live freely in the environment.",
+    question: "Assertion (A): Phytoplasmas cannot be grown in culture media.\nReason (R): Phytoplasmas are obligate parasites that lack a rigid cell wall and cannot live freely in the environment.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 0,
     explanation: "As per DA-171 notes: Phytoplasmas have not been grown in culture - they are obligate parasites lacking rigid cell wall and cannot live freely in environment."
@@ -1530,8 +1528,7 @@ Reason (R): Phytoplasmas are obligate parasites that lack a rigid cell wall and 
     subject: "da-171",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Assertion (A): Viruses multiply only in living cells.
-Reason (R): Energy resources of the plant are redirected to reproduce viruses impairing normal plant functions.",
+    question: "Assertion (A): Viruses multiply only in living cells.\nReason (R): Energy resources of the plant are redirected to reproduce viruses impairing normal plant functions.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 0,
     explanation: "As per DA-171 notes: Viruses can only multiply in living cells in infected plant; energy resources of plant are redirected to reproduce viruses."
@@ -1541,8 +1538,7 @@ Reason (R): Energy resources of the plant are redirected to reproduce viruses im
     subject: "da-171",
     lecture: "lecture-6",
     lectureNo: 6,
-    question: "Assertion (A): Fungi are the only organisms that produce spores for inactive survival.
-Reason (R): These dormant spores act as source of primary infection when conditions become favourable.",
+    question: "Assertion (A): Fungi are the only organisms that produce spores for inactive survival.\nReason (R): These dormant spores act as source of primary infection when conditions become favourable.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 0,
     explanation: "As per DA-171 notes: Fungi are the only organisms that produce spores for their inactive survival and in favorable conditions act as source of primary infection."
@@ -1552,8 +1548,7 @@ Reason (R): These dormant spores act as source of primary infection when conditi
     subject: "da-171",
     lecture: "lecture-8",
     lectureNo: 8,
-    question: "Assertion (A): Non-specialized pathogens like Pythium require high density of inoculum for infection.
-Reason (R): Specialized pathogens even a single spore can cause successful infection.",
+    question: "Assertion (A): Non-specialized pathogens like Pythium require high density of inoculum for infection.\nReason (R): Specialized pathogens even a single spore can cause successful infection.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 0,
     explanation: "As per DA-171 notes: Specialized pathogens - very few or even one spore capable of causing infection; non-specialized pathogens as Pythium, Phytophthora require high density of inoculum for infection."
@@ -1563,8 +1558,7 @@ Reason (R): Specialized pathogens even a single spore can cause successful infec
     subject: "da-171",
     lecture: "lecture-9",
     lectureNo: 9,
-    question: "Assertion (A): Crop rotation is an effective method to manage soil borne diseases.
-Reason (R): Continuous cultivation of same crop in same field leads to soil saturation by the pathogen.",
+    question: "Assertion (A): Crop rotation is an effective method to manage soil borne diseases.\nReason (R): Continuous cultivation of same crop in same field leads to soil saturation by the pathogen.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 0,
     explanation: "As per DA-171 notes: Continuous cultivation of same crop helps perpetuation of pathogen in soil (sick soils). Crop rotation adopted to reduce incidence of soil borne diseases."
@@ -1574,8 +1568,7 @@ Reason (R): Continuous cultivation of same crop in same field leads to soil satu
     subject: "da-171",
     lecture: "lecture-9",
     lectureNo: 9,
-    question: "Assertion (A): Plant quarantine prevents introduction of new pests and diseases.
-Reason (R): It legally restricts movement of agricultural commodities to exclude, prevent or delay spread of plant pests.",
+    question: "Assertion (A): Plant quarantine prevents introduction of new pests and diseases.\nReason (R): It legally restricts movement of agricultural commodities to exclude, prevent or delay spread of plant pests.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 0,
     explanation: "As per DA-171 notes: Plant quarantine is defined as a legal restriction on movement of agricultural commodities for exclusion, prevention or delaying spread of plant pests and diseases."
@@ -1585,8 +1578,7 @@ Reason (R): It legally restricts movement of agricultural commodities to exclude
     subject: "da-171",
     lecture: "lecture-5",
     lectureNo: 5,
-    question: "Assertion (A): Damping-off affects seedlings at or near the soil surface.
-Reason (R): The affected portion becomes constricted and weak, causing seedlings to topple down and die.",
+    question: "Assertion (A): Damping-off affects seedlings at or near the soil surface.\nReason (R): The affected portion becomes constricted and weak, causing seedlings to topple down and die.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 0,
     explanation: "As per DA-171 notes: Damping-off - stem is attacked near soil surface; affected portion becomes constricted and weak causing seedlings to topple down and die."
@@ -1596,8 +1588,7 @@ Reason (R): The affected portion becomes constricted and weak, causing seedlings
     subject: "da-171",
     lecture: "lecture-7",
     lectureNo: 7,
-    question: "Assertion (A): Wind and irrigation water are inanimate agents of pathogen dispersal.
-Reason (R): These physical agents can carry pathogen propagules from infected to healthy plants.",
+    question: "Assertion (A): Wind and irrigation water are inanimate agents of pathogen dispersal.\nReason (R): These physical agents can carry pathogen propagules from infected to healthy plants.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 0,
     explanation: "As per DA-171 notes: Inanimate agents of passive dispersal include Wind and Irrigation water."
@@ -1607,8 +1598,7 @@ Reason (R): These physical agents can carry pathogen propagules from infected to
     subject: "da-171",
     lecture: "lecture-8",
     lectureNo: 8,
-    question: "Assertion (A): Nematodes show orientation towards root surface before penetration.
-Reason (R): This chemotactic response towards root exudates is part of pre-penetration activity.",
+    question: "Assertion (A): Nematodes show orientation towards root surface before penetration.\nReason (R): This chemotactic response towards root exudates is part of pre-penetration activity.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 0,
     explanation: "As per DA-171 notes: Nematodes show some orientation towards root surface before actual penetration - this is pre-penetration activity."
@@ -1618,8 +1608,7 @@ Reason (R): This chemotactic response towards root exudates is part of pre-penet
     subject: "da-171",
     lecture: "lecture-12",
     lectureNo: 12,
-    question: "Assertion (A): Masked viral symptoms appear in plants that contain the virus.
-Reason (R): Symptoms are absent under unfavourable conditions but reappear under favourable conditions.",
+    question: "Assertion (A): Masked viral symptoms appear in plants that contain the virus.\nReason (R): Symptoms are absent under unfavourable conditions but reappear under favourable conditions.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 0,
     explanation: "As per DA-171 notes: Masked symptoms - plants contain virus but are symptomless under unfavourable conditions; symptoms reappear under favourable conditions."
@@ -1629,8 +1618,7 @@ Reason (R): Symptoms are absent under unfavourable conditions but reappear under
     subject: "da-171",
     lecture: "lecture-5",
     lectureNo: 5,
-    question: "Assertion (A): Scab lesions are not deep seated.
-Reason (R): Sunken lesions are produced in scab, unlike cankers where infection may be deep seated.",
+    question: "Assertion (A): Scab lesions are not deep seated.\nReason (R): Sunken lesions are produced in scab, unlike cankers where infection may be deep seated.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 0,
     explanation: "As per DA-171 notes: Scab - infection is not deep seated; sunken lesions are produced. Cankers - infection may be deep seated."
@@ -1640,8 +1628,7 @@ Reason (R): Sunken lesions are produced in scab, unlike cankers where infection 
     subject: "da-171",
     lecture: "lecture-9",
     lectureNo: 9,
-    question: "Assertion (A): Eradication of alternate hosts helps manage many plant diseases.
-Reason (R): Alternate hosts provide off-season survival for pathogens when crop host is absent.",
+    question: "Assertion (A): Eradication of alternate hosts helps manage many plant diseases.\nReason (R): Alternate hosts provide off-season survival for pathogens when crop host is absent.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 0,
     explanation: "As per DA-171 notes: Eradication of alternate and collateral hosts helps management of plant diseases; alternate hosts provide off-season survival."
@@ -1651,8 +1638,7 @@ Reason (R): Alternate hosts provide off-season survival for pathogens when crop 
     subject: "da-171",
     lecture: "lecture-9",
     lectureNo: 9,
-    question: "Assertion (A): Time of sowing affects disease incidence in crops.
-Reason (R): Alteration of sowing date helps avoid coincidence of susceptible host stage with favourable conditions for pathogen.",
+    question: "Assertion (A): Time of sowing affects disease incidence in crops.\nReason (R): Alteration of sowing date helps avoid coincidence of susceptible host stage with favourable conditions for pathogen.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 0,
     explanation: "As per DA-171 notes: Time of sowing - Alteration of date helps in avoidance of coincidence of susceptible stage of host plant with favourable conditions for pathogen."
@@ -1662,8 +1648,7 @@ Reason (R): Alteration of sowing date helps avoid coincidence of susceptible hos
     subject: "da-171",
     lecture: "lecture-4",
     lectureNo: 4,
-    question: "Assertion (A): Disorder (non-infectious disease) cannot be transmitted from diseased to healthy plants.
-Reason (R): Disorders occur in the absence of pathogens, due to abiotic causes like adverse soil and environmental conditions.",
+    question: "Assertion (A): Disorder (non-infectious disease) cannot be transmitted from diseased to healthy plants.\nReason (R): Disorders occur in the absence of pathogens, due to abiotic causes like adverse soil and environmental conditions.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 0,
     explanation: "As per DA-171 notes: Disorder - non-infectious plant diseases due to abiotic causes; occur in absence of pathogens and cannot be transmitted from diseased to healthy plants."
@@ -1673,9 +1658,7 @@ Reason (R): Disorders occur in the absence of pathogens, due to abiotic causes l
     subject: "da-171",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Match the pathogen with its unique feature:
-A-Fungi, B-Bacteria, C-Phytoplasma
-1-Found in phloem sieve tubes, 2-Eukaryotic spore bearing organisms, 3-Prokaryotic rigid cell wall",
+    question: "Match the pathogen with its unique feature:\nA-Fungi, B-Bacteria, C-Phytoplasma\n1-Found in phloem sieve tubes, 2-Eukaryotic spore bearing organisms, 3-Prokaryotic rigid cell wall",
     options: ["A-1, B-2, C-3", "A-2, B-1, C-3", "A-3, B-2, C-1", "A-2, B-3, C-1"],
     correct: 3,
     explanation: "As per DA-171 notes: Fungi-eukaryotic spore bearing; Bacteria-prokaryotic with rigid cell wall; Phytoplasma-found in phloem sieve tube cells."
@@ -1685,9 +1668,7 @@ A-Fungi, B-Bacteria, C-Phytoplasma
     subject: "da-171",
     lecture: "lecture-5",
     lectureNo: 5,
-    question: "Match the fungal disease symptom with description:
-A-Downy mildew, B-Powdery mildew, C-Smut
-1-Powdery/dusty appearance on host surface, 2-Black/purplish dusty mass on floral organs, 3-White/grey bloom on underside of leaves",
+    question: "Match the fungal disease symptom with description:\nA-Downy mildew, B-Powdery mildew, C-Smut\n1-Powdery/dusty appearance on host surface, 2-Black/purplish dusty mass on floral organs, 3-White/grey bloom on underside of leaves",
     options: ["A-2, B-3, C-1", "A-3, B-1, C-2", "A-1, B-2, C-3", "A-3, B-2, C-1"],
     correct: 1,
     explanation: "As per DA-171 notes: Downy mildew-white or grey bloom on under surface of leaves; Powdery mildew-powdery/dusty appearance; Smut-black/purplish dusty mass on floral organs."
@@ -1697,9 +1678,7 @@ A-Downy mildew, B-Powdery mildew, C-Smut
     subject: "da-171",
     lecture: "lecture-5",
     lectureNo: 5,
-    question: "Match the viral symptom with description:
-A-Mosaic, B-Vein clearing, C-Vein banding
-1-Tissue along vein green, between veins chlorotic, 2-Alternate green and yellow patches, 3-Tissue close to vein yellow, rest green",
+    question: "Match the viral symptom with description:\nA-Mosaic, B-Vein clearing, C-Vein banding\n1-Tissue along vein green, between veins chlorotic, 2-Alternate green and yellow patches, 3-Tissue close to vein yellow, rest green",
     options: ["A-1, B-2, C-3", "A-2, B-1, C-3", "A-3, B-2, C-1", "A-2, B-3, C-1"],
     correct: 3,
     explanation: "As per DA-171 notes: Mosaic-alternate green and yellow patches, Vein clearing-tissue near vein yellow rest green, Vein banding-tissue along vein green between veins chlorotic."
@@ -1709,9 +1688,7 @@ A-Mosaic, B-Vein clearing, C-Vein banding
     subject: "da-171",
     lecture: "lecture-9",
     lectureNo: 9,
-    question: "Match the disease management principle with example:
-A-Avoidance, B-Exclusion, C-Eradication
-1-Rouging of diseased plants, 2-Plant quarantine, 3-Proper selection of geographical area",
+    question: "Match the disease management principle with example:\nA-Avoidance, B-Exclusion, C-Eradication\n1-Rouging of diseased plants, 2-Plant quarantine, 3-Proper selection of geographical area",
     options: ["A-2, B-3, C-1", "A-3, B-1, C-2", "A-3, B-2, C-1", "A-1, B-2, C-3"],
     correct: 2,
     explanation: "As per DA-171 notes: Avoidance-proper selection of geographical area; Exclusion-plant quarantine regulation; Eradication-rouging of diseased plants."
@@ -1721,9 +1698,7 @@ A-Avoidance, B-Exclusion, C-Eradication
     subject: "da-171",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Match the phanerogamic parasite with type:
-A-Cuscuta, B-Orabanche, C-Loranthus
-1-Stem parasite (hemi-parasite), 2-Root parasite, 3-Stem parasite (holoparasite)",
+    question: "Match the phanerogamic parasite with type:\nA-Cuscuta, B-Orabanche, C-Loranthus\n1-Stem parasite (hemi-parasite), 2-Root parasite, 3-Stem parasite (holoparasite)",
     options: ["A-2, B-3, C-1", "A-3, B-1, C-2", "A-3, B-2, C-1", "A-1, B-2, C-3"],
     correct: 2,
     explanation: "As per DA-171 notes: Stem parasites-Cuscuta (holoparasite), Loranthus (hemiparasite); Root parasites-Orabanche, Striga."
@@ -1733,9 +1708,7 @@ A-Cuscuta, B-Orabanche, C-Loranthus
     subject: "da-171",
     lecture: "lecture-5",
     lectureNo: 5,
-    question: "Match the disease symptom with example:
-A-Gall, B-Wart, C-Leaf curl
-1-Leaves twisted and curled, 2-Black wart of potato, 3-Club root of cabbage",
+    question: "Match the disease symptom with example:\nA-Gall, B-Wart, C-Leaf curl\n1-Leaves twisted and curled, 2-Black wart of potato, 3-Club root of cabbage",
     options: ["A-3, B-2, C-1", "A-3, B-1, C-2", "A-1, B-3, C-2", "A-2, B-3, C-1"],
     correct: 0,
     explanation: "As per DA-171 notes: Gall-club root of cabbage; Wart-black wart of potato; Leaf curl-leaves twisted and distorted due to localized growth."
@@ -1745,9 +1718,7 @@ A-Gall, B-Wart, C-Leaf curl
     subject: "da-171",
     lecture: "lecture-16",
     lectureNo: 16,
-    question: "Match the crop disease with causal organism type:
-A-Paddy blast, B-Paddy bacterial leaf blight, C-Paddy Tungro
-1-Virus (transmitted by leafhopper), 2-Fungus, 3-Bacterium",
+    question: "Match the crop disease with causal organism type:\nA-Paddy blast, B-Paddy bacterial leaf blight, C-Paddy Tungro\n1-Virus (transmitted by leafhopper), 2-Fungus, 3-Bacterium",
     options: ["A-1, B-2, C-3", "A-2, B-1, C-3", "A-3, B-2, C-1", "A-2, B-3, C-1"],
     correct: 3,
     explanation: "As per DA-171 notes: Paddy blast-fungus (Pyricularia oryzae), BLB-bacterium (Xanthomonas oryzae), Tungro-virus (transmitted by green leafhopper)."
@@ -1757,9 +1728,7 @@ A-Paddy blast, B-Paddy bacterial leaf blight, C-Paddy Tungro
     subject: "da-171",
     lecture: "lecture-21",
     lectureNo: 21,
-    question: "Match the sugarcane disease with causal organism:
-A-Red rot, B-Smut, C-Mycoplasma disease
-1-Phytoplasma/mycoplasma, 2-Ustilago scitaminea (fungus), 3-Colletotrichum falcatum (fungus)",
+    question: "Match the sugarcane disease with causal organism:\nA-Red rot, B-Smut, C-Mycoplasma disease\n1-Phytoplasma/mycoplasma, 2-Ustilago scitaminea (fungus), 3-Colletotrichum falcatum (fungus)",
     options: ["A-2, B-3, C-1", "A-1, B-2, C-3", "A-2, B-1, C-3", "A-3, B-2, C-1"],
     correct: 3,
     explanation: "As per DA-171 notes: Sugarcane - Red rot (Colletotrichum falcatum), Smut (Ustilago scitaminea), Mycoplasma disease (Phytoplasma)."
@@ -1769,9 +1738,7 @@ A-Red rot, B-Smut, C-Mycoplasma disease
     subject: "da-171",
     lecture: "lecture-6",
     lectureNo: 6,
-    question: "Match the pathogen survival source with example:
-A-Seed borne, B-Collateral hosts, C-Alternate hosts
-1-Wild hosts of other families (wide host range pathogens), 2-Weed hosts bridging gap between crop seasons, 3-Loose smut of wheat",
+    question: "Match the pathogen survival source with example:\nA-Seed borne, B-Collateral hosts, C-Alternate hosts\n1-Wild hosts of other families (wide host range pathogens), 2-Weed hosts bridging gap between crop seasons, 3-Loose smut of wheat",
     options: ["A-2, B-3, C-1", "A-3, B-1, C-2", "A-3, B-2, C-1", "A-1, B-2, C-3"],
     correct: 2,
     explanation: "As per DA-171 notes: Seed borne-pathogens survive in seed (eg loose smut of wheat); Collateral hosts-weed hosts bridging gap between seasons; Alternate hosts-wild hosts of other families for wide host range pathogens."
@@ -1781,9 +1748,7 @@ A-Seed borne, B-Collateral hosts, C-Alternate hosts
     subject: "da-171",
     lecture: "lecture-8",
     lectureNo: 8,
-    question: "Match the pathogen with penetration mode:
-A-Bacteria, B-Viruses, C-Fungi
-1-Direct penetration and less frequently through natural openings, 2-Mostly through wounds, 3-Through wounds made by vectors",
+    question: "Match the pathogen with penetration mode:\nA-Bacteria, B-Viruses, C-Fungi\n1-Direct penetration and less frequently through natural openings, 2-Mostly through wounds, 3-Through wounds made by vectors",
     options: ["A-1, B-2, C-3", "A-2, B-1, C-3", "A-3, B-2, C-1", "A-2, B-3, C-1"],
     correct: 3,
     explanation: "As per DA-171 notes: Bacteria-mostly through wounds; Viruses-through wounds made by vectors; Fungi-direct penetration and less frequently through natural openings."
@@ -1793,9 +1758,7 @@ A-Bacteria, B-Viruses, C-Fungi
     subject: "da-171",
     lecture: "lecture-9",
     lectureNo: 9,
-    question: "Match the disease management chemical with target disease:
-A-Oxycarboxin, B-Metalaxyl, C-Carbendazim
-1-Wilt (seed treatment), 2-Rust (foliar spray), 3-Downy mildew (seed treatment)",
+    question: "Match the disease management chemical with target disease:\nA-Oxycarboxin, B-Metalaxyl, C-Carbendazim\n1-Wilt (seed treatment), 2-Rust (foliar spray), 3-Downy mildew (seed treatment)",
     options: ["A-1, B-2, C-3", "A-2, B-1, C-3", "A-3, B-2, C-1", "A-2, B-3, C-1"],
     correct: 3,
     explanation: "As per DA-171 notes: Oxycarboxin-Rusts; Metalaxyl (Apron 35 SD)-Downy mildews seed treatment; Carbendazim-Wilts seed treatment."
@@ -1805,9 +1768,7 @@ A-Oxycarboxin, B-Metalaxyl, C-Carbendazim
     subject: "da-171",
     lecture: "lecture-5",
     lectureNo: 5,
-    question: "Match the disease symptom category with examples:
-A-Necrotic symptoms, B-Hypertrophy/Hyperplasia, C-Hypoplasia
-1-Chlorosis, dwarfing, etiolation, 2-Blight, blotch, wilt, 3-Callus, witches broom, scab",
+    question: "Match the disease symptom category with examples:\nA-Necrotic symptoms, B-Hypertrophy/Hyperplasia, C-Hypoplasia\n1-Chlorosis, dwarfing, etiolation, 2-Blight, blotch, wilt, 3-Callus, witches broom, scab",
     options: ["A-1, B-2, C-3", "A-2, B-1, C-3", "A-3, B-2, C-1", "A-2, B-3, C-1"],
     correct: 3,
     explanation: "As per DA-171 notes: Necrotic symptoms-blight, blotch, decay, dieback, spot, wilt; Hypertrophy/hyperplasia-callus, witches broom, scab; Hypoplasia-chlorosis, dwarfing, etiolation."
@@ -1817,9 +1778,7 @@ A-Necrotic symptoms, B-Hypertrophy/Hyperplasia, C-Hypoplasia
     subject: "da-171",
     lecture: "lecture-27",
     lectureNo: 27,
-    question: "Match the pulse crop disease:
-A-Redgram, B-Green gram, C-Bengal gram
-1-Ascochyta blight, 2-Sterility mosaic, 3-Yellow mosaic",
+    question: "Match the pulse crop disease:\nA-Redgram, B-Green gram, C-Bengal gram\n1-Ascochyta blight, 2-Sterility mosaic, 3-Yellow mosaic",
     options: ["A-1, B-2, C-3", "A-2, B-1, C-3", "A-3, B-2, C-1", "A-2, B-3, C-1"],
     correct: 3,
     explanation: "As per DA-171 notes: Redgram-sterility mosaic; Green gram-yellow mosaic; Bengal gram-Ascochyta blight."
@@ -1829,9 +1788,7 @@ A-Redgram, B-Green gram, C-Bengal gram
     subject: "da-171",
     lecture: "lecture-29",
     lectureNo: 29,
-    question: "Match the fruit crop with characteristic disease:
-A-Citrus, B-Banana, C-Guava
-1-Canker and wilt, 2-Sigatoka leaf spot, 3-Gummosis",
+    question: "Match the fruit crop with characteristic disease:\nA-Citrus, B-Banana, C-Guava\n1-Canker and wilt, 2-Sigatoka leaf spot, 3-Gummosis",
     options: ["A-2, B-3, C-1", "A-3, B-1, C-2", "A-3, B-2, C-1", "A-1, B-2, C-3"],
     correct: 2,
     explanation: "As per DA-171 notes: Citrus-Gummosis; Banana-Sigatoka leaf spot; Guava-canker and wilt."
@@ -1841,9 +1798,7 @@ A-Citrus, B-Banana, C-Guava
     subject: "da-171",
     lecture: "lecture-45",
     lectureNo: 45,
-    question: "Match the plantation crop with unique disease:
-A-Coconut, B-Rose, C-Turmeric
-1-Leaf spot and rhizome rot, 2-Budrot and Ganoderma root rot, 3-Powdery mildew and black spot",
+    question: "Match the plantation crop with unique disease:\nA-Coconut, B-Rose, C-Turmeric\n1-Leaf spot and rhizome rot, 2-Budrot and Ganoderma root rot, 3-Powdery mildew and black spot",
     options: ["A-1, B-2, C-3", "A-2, B-1, C-3", "A-3, B-2, C-1", "A-2, B-3, C-1"],
     correct: 3,
     explanation: "As per DA-171 notes: Coconut-Budrot, Ganoderma root rot, stem bleeding; Rose-Powdery mildew, Dieback, black spot; Turmeric-Leaf spot, rhizome rot."

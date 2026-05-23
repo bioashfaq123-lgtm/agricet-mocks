@@ -2254,8 +2254,7 @@ export const da121LectureQuestions: Question[] = [
     subject: "da-121",
     lecture: "lecture-2",
     lectureNo: 2,
-    question: "Assertion (A): Surface soil (0-30 cm) has higher CEC than subsoil.
-Reason (R): Surface soil contains more organic matter and clay colloids which have high negative charge and thus higher CEC.",
+    question: "Assertion (A): Surface soil (0-30 cm) has higher CEC than subsoil.\nReason (R): Surface soil contains more organic matter and clay colloids which have high negative charge and thus higher CEC.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-121 notes: Surface soil has higher CEC due to more organic matter and clay colloids. Both A and R are true; R correctly explains A."
@@ -2265,8 +2264,7 @@ Reason (R): Surface soil contains more organic matter and clay colloids which ha
     subject: "da-121",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Assertion (A): Clay soils have very high surface area per unit weight.
-Reason (R): Clay particles are very small (<0.002 mm), giving them enormous surface area compared to sand or silt particles.",
+    question: "Assertion (A): Clay soils have very high surface area per unit weight.\nReason (R): Clay particles are very small (<0.002 mm), giving them enormous surface area compared to sand or silt particles.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-121 notes: Clay particles (<0.002 mm) have surface area of 23,000 sq.cm/g vs sand's 21 sq.cm/g. Both A and R are true; R explains A."
@@ -2276,8 +2274,7 @@ Reason (R): Clay particles are very small (<0.002 mm), giving them enormous surf
     subject: "da-121",
     lecture: "lecture-12",
     lectureNo: 12,
-    question: "Assertion (A): Adding straw with wide C:N ratio to soil may temporarily reduce available nitrogen.
-Reason (R): Microorganisms decomposing straw immobilize soil nitrogen in their bodies because straw has insufficient N for microbial growth.",
+    question: "Assertion (A): Adding straw with wide C:N ratio to soil may temporarily reduce available nitrogen.\nReason (R): Microorganisms decomposing straw immobilize soil nitrogen in their bodies because straw has insufficient N for microbial growth.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-121 notes: Straw with wide C:N ratio causes N immobilization. Microorganisms use soil N for their growth, temporarily reducing N availability. Both A and R are true."
@@ -2287,8 +2284,7 @@ Reason (R): Microorganisms decomposing straw immobilize soil nitrogen in their b
     subject: "da-121",
     lecture: "lecture-19",
     lectureNo: 19,
-    question: "Assertion (A): Soil pH affects the availability of plant nutrients.
-Reason (R): At different pH levels, nutrients change their chemical form - some become more soluble and available while others become fixed/insoluble.",
+    question: "Assertion (A): Soil pH affects the availability of plant nutrients.\nReason (R): At different pH levels, nutrients change their chemical form - some become more soluble and available while others become fixed/insoluble.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-121 notes: pH greatly affects nutrient solubility and availability. Both A and R are true; R correctly explains A."
@@ -2298,8 +2294,7 @@ Reason (R): At different pH levels, nutrients change their chemical form - some 
     subject: "da-121",
     lecture: "lecture-22",
     lectureNo: 22,
-    question: "Assertion (A): Gypsum is used to reclaim sodic soils.
-Reason (R): Gypsum provides calcium which replaces sodium on the soil exchange complex, and the resulting sodium sulphate can be leached out.",
+    question: "Assertion (A): Gypsum is used to reclaim sodic soils.\nReason (R): Gypsum provides calcium which replaces sodium on the soil exchange complex, and the resulting sodium sulphate can be leached out.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-121 notes: Gypsum (CaSO4) provides Ca which replaces Na from exchange sites, and NaSO4 is leached. Both A and R are true; R correctly explains A."
@@ -2309,8 +2304,7 @@ Reason (R): Gypsum provides calcium which replaces sodium on the soil exchange c
     subject: "da-121",
     lecture: "lecture-24",
     lectureNo: 24,
-    question: "Assertion (A): There are 17 essential plant nutrients.
-Reason (R): Essential nutrients must satisfy three criteria: deficiency prevents normal growth, the deficiency is specific to that element, and it is directly involved in plant metabolism.",
+    question: "Assertion (A): There are 17 essential plant nutrients.\nReason (R): Essential nutrients must satisfy three criteria: deficiency prevents normal growth, the deficiency is specific to that element, and it is directly involved in plant metabolism.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-121 notes: 17 essential nutrients are accepted. Arnon's three criteria for essentiality are as stated. Both A and R are true."
@@ -2320,8 +2314,7 @@ Reason (R): Essential nutrients must satisfy three criteria: deficiency prevents
     subject: "da-121",
     lecture: "lecture-26",
     lectureNo: 26,
-    question: "Assertion (A): Nitrogen deficiency symptoms appear first on older (lower) leaves.
-Reason (R): Nitrogen is a mobile nutrient in plants; when deficient, it is relocated from older leaves to younger, growing tissues.",
+    question: "Assertion (A): Nitrogen deficiency symptoms appear first on older (lower) leaves.\nReason (R): Nitrogen is a mobile nutrient in plants; when deficient, it is relocated from older leaves to younger, growing tissues.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-121 notes: N is mobile in plants, so deficiency symptoms appear on older leaves first. Both A and R are true; R correctly explains A."
@@ -2331,8 +2324,7 @@ Reason (R): Nitrogen is a mobile nutrient in plants; when deficient, it is reloc
     subject: "da-121",
     lecture: "lecture-27",
     lectureNo: 27,
-    question: "Assertion (A): Iron deficiency symptoms appear first on young leaves.
-Reason (R): Iron is immobile in plants and cannot be translocated from older to younger leaves when deficient.",
+    question: "Assertion (A): Iron deficiency symptoms appear first on young leaves.\nReason (R): Iron is immobile in plants and cannot be translocated from older to younger leaves when deficient.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-121 notes: Fe is immobile in plants, so deficiency appears first on young leaves. Both A and R are true; R correctly explains A."
@@ -2342,8 +2334,7 @@ Reason (R): Iron is immobile in plants and cannot be translocated from older to 
     subject: "da-121",
     lecture: "lecture-21",
     lectureNo: 21,
-    question: "Assertion (A): Saline soils have higher osmotic pressure than sodic soils.
-Reason (R): High salt concentrations in saline soils create high osmotic pressure, making it difficult for plants to absorb water.",
+    question: "Assertion (A): Saline soils have higher osmotic pressure than sodic soils.\nReason (R): High salt concentrations in saline soils create high osmotic pressure, making it difficult for plants to absorb water.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-121 notes: Saline soils have high salt content (EC >4 dS/m) creating high osmotic pressure. Plants suffer from physiological drought. Both A and R are true."
@@ -2353,8 +2344,7 @@ Reason (R): High salt concentrations in saline soils create high osmotic pressur
     subject: "da-121",
     lecture: "lecture-5",
     lectureNo: 5,
-    question: "Assertion (A): Granular (crumb) soil structure is ideal for crop production.
-Reason (R): Granular structure provides optimal balance of pore space for aeration and water retention, and allows easy root penetration.",
+    question: "Assertion (A): Granular (crumb) soil structure is ideal for crop production.\nReason (R): Granular structure provides optimal balance of pore space for aeration and water retention, and allows easy root penetration.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-121 notes: Granular structure is best for crop production. Both A and R are true; R correctly explains A."
@@ -2364,8 +2354,7 @@ Reason (R): Granular structure provides optimal balance of pore space for aerati
     subject: "da-121",
     lecture: "lecture-32",
     lectureNo: 32,
-    question: "Assertion (A): Rice paddies are a significant source of methane (CH4) emissions.
-Reason (R): Under anaerobic (flooded) conditions in rice paddies, methanogenic bacteria produce methane from organic matter decomposition.",
+    question: "Assertion (A): Rice paddies are a significant source of methane (CH4) emissions.\nReason (R): Under anaerobic (flooded) conditions in rice paddies, methanogenic bacteria produce methane from organic matter decomposition.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-121 notes: Rice paddies emit CH4 from methanogenic bacteria under anaerobic conditions. Both A and R are true; R correctly explains A."
@@ -2375,8 +2364,7 @@ Reason (R): Under anaerobic (flooded) conditions in rice paddies, methanogenic b
     subject: "da-121",
     lecture: "lecture-16",
     lectureNo: 16,
-    question: "Assertion (A): Sandy soils have lower CEC than clayey soils.
-Reason (R): Sand particles are large, have small surface area per unit weight, and carry little negative charge compared to clay particles.",
+    question: "Assertion (A): Sandy soils have lower CEC than clayey soils.\nReason (R): Sand particles are large, have small surface area per unit weight, and carry little negative charge compared to clay particles.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-121 notes: Sandy soils have much lower CEC due to small surface area of sand particles. Both A and R are true; R correctly explains A."
@@ -2386,8 +2374,7 @@ Reason (R): Sand particles are large, have small surface area per unit weight, a
     subject: "da-121",
     lecture: "lecture-11",
     lectureNo: 11,
-    question: "Assertion (A): Organic matter improves soil structure.
-Reason (R): Organic matter acts as a binding agent, helping to glue soil particles into stable aggregates through microbial action and humus formation.",
+    question: "Assertion (A): Organic matter improves soil structure.\nReason (R): Organic matter acts as a binding agent, helping to glue soil particles into stable aggregates through microbial action and humus formation.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-121 notes: Organic matter improves soil structure through aggregate formation. Both A and R are true; R correctly explains A."
@@ -2397,8 +2384,7 @@ Reason (R): Organic matter acts as a binding agent, helping to glue soil particl
     subject: "da-121",
     lecture: "lecture-20",
     lectureNo: 20,
-    question: "Assertion (A): Micronutrients become deficient in highly alkaline (calcareous) soils even if present in the soil.
-Reason (R): At high pH, micronutrients like Fe, Mn, Zn precipitate as insoluble hydroxides and carbonates, making them unavailable to plants.",
+    question: "Assertion (A): Micronutrients become deficient in highly alkaline (calcareous) soils even if present in the soil.\nReason (R): At high pH, micronutrients like Fe, Mn, Zn precipitate as insoluble hydroxides and carbonates, making them unavailable to plants.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-121 notes: Micronutrient deficiency in calcareous soils occurs because high pH causes them to precipitate as insoluble compounds. Both A and R are true."
@@ -2408,8 +2394,7 @@ Reason (R): At high pH, micronutrients like Fe, Mn, Zn precipitate as insoluble 
     subject: "da-121",
     lecture: "lecture-10",
     lectureNo: 10,
-    question: "Assertion (A): Biological nitrogen fixation is an important source of nitrogen for agricultural soils.
-Reason (R): Nitrogen-fixing organisms like Rhizobium and Azotobacter convert atmospheric nitrogen gas (N2) into plant-available ammonium, enriching soil nitrogen.",
+    question: "Assertion (A): Biological nitrogen fixation is an important source of nitrogen for agricultural soils.\nReason (R): Nitrogen-fixing organisms like Rhizobium and Azotobacter convert atmospheric nitrogen gas (N2) into plant-available ammonium, enriching soil nitrogen.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-121 notes: Biological N fixation by Rhizobium, Azotobacter etc. converts N2 to NH4+, enriching soil. Both A and R are true; R explains A."
@@ -2419,12 +2404,7 @@ Reason (R): Nitrogen-fixing organisms like Rhizobium and Azotobacter convert atm
     subject: "da-121",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Match the soil particle sizes:
-     Column-I (Particle)         |  Column-II (Size range)      |  Column-III (Visibility)
-A.  Sand                         |  1.  < 0.002 mm               |  i.   Electron microscope only
-B.  Fine sand                    |  2.  0.2-2.0 mm               |  ii.  Naked eye
-C.  Silt                         |  3.  0.002-0.02 mm            |  iii. Light microscope
-D.  Clay                         |  4.  0.02-0.2 mm              |  iv.  Naked eye (finer than sand)",
+    question: "Match the soil particle sizes:\n     Column-I (Particle)         |  Column-II (Size range)      |  Column-III (Visibility)\nA.  Sand                         |  1.  < 0.002 mm               |  i.   Electron microscope only\nB.  Fine sand                    |  2.  0.2-2.0 mm               |  ii.  Naked eye\nC.  Silt                         |  3.  0.002-0.02 mm            |  iii. Light microscope\nD.  Clay                         |  4.  0.02-0.2 mm              |  iv.  Naked eye (finer than sand)",
     options: ["A-4-iv, B-3-iii, C-2-ii,   D-1-i", "A-3-iii, B-4-iv, C-1-i,    D-2-ii", "A-1-i,  B-2-ii,  C-3-iii,  D-4-iv", "A-2-ii, B-4-iv,  C-3-iii,  D-1-i"],
     correct: 3,
     explanation: "As per DA-121 notes: Sand (0.2-2.0 mm, naked eye); Fine sand (0.02-0.2 mm, naked eye); Silt (0.002-0.02 mm, light microscope); Clay (<0.002 mm, electron microscope)."
@@ -2434,12 +2414,7 @@ D.  Clay                         |  4.  0.02-0.2 mm              |  iv.  Naked e
     subject: "da-121",
     lecture: "lecture-26",
     lectureNo: 26,
-    question: "Match the nutrient deficiency symptoms:
-     Column-I (Nutrient)         |  Column-II (Symptom)         |  Column-III (Mobility)
-A.  Nitrogen                     |  1.  Interveinal chlorosis on young leaves | i. Immobile
-B.  Phosphorus                   |  2.  Yellowing from old leaves  |  ii. Mobile
-C.  Iron                         |  3.  Purple/reddish leaves      |  iii. Mobile
-D.  Potassium                    |  4.  Brown leaf tip burn         |  iv. Mobile",
+    question: "Match the nutrient deficiency symptoms:\n     Column-I (Nutrient)         |  Column-II (Symptom)         |  Column-III (Mobility)\nA.  Nitrogen                     |  1.  Interveinal chlorosis on young leaves | i. Immobile\nB.  Phosphorus                   |  2.  Yellowing from old leaves  |  ii. Mobile\nC.  Iron                         |  3.  Purple/reddish leaves      |  iii. Mobile\nD.  Potassium                    |  4.  Brown leaf tip burn         |  iv. Mobile",
     options: ["A-3-iii, B-2-ii, C-4-iv,   D-1-i", "A-2-ii, B-3-iii, C-1-i,   D-4-iv", "A-4-iv, B-1-i,   C-3-iii,  D-2-ii", "A-1-i,  B-4-iv,  C-2-ii,   D-3-iii"],
     correct: 1,
     explanation: "As per DA-121 notes: N deficiency (yellowing old leaves, mobile); P deficiency (purple/reddish leaves, mobile); Fe deficiency (interveinal chlorosis young leaves, immobile); K deficiency (brown tip burn, mobile)."
@@ -2449,12 +2424,7 @@ D.  Potassium                    |  4.  Brown leaf tip burn         |  iv. Mobil
     subject: "da-121",
     lecture: "lecture-21",
     lectureNo: 21,
-    question: "Match the problem soil types with their characteristics:
-     Column-I (Soil type)        |  Column-II (Key characteristic)|  Column-III (pH)
-A.  Saline soil                  |  1.  ESP > 15%, poor structure  |  i.   > 8.5
-B.  Sodic (Alkali) soil          |  2.  EC > 4 dS/m, white crust   |  ii.  < 8.5
-C.  Saline-Sodic soil            |  3.  EC > 4 dS/m, ESP > 15%     |  iii. < 8.5 (if well-leached)
-D.  Acid soil                    |  4.  pH < 5.5, Al toxicity       |  iv.  < 5.5",
+    question: "Match the problem soil types with their characteristics:\n     Column-I (Soil type)        |  Column-II (Key characteristic)|  Column-III (pH)\nA.  Saline soil                  |  1.  ESP > 15%, poor structure  |  i.   > 8.5\nB.  Sodic (Alkali) soil          |  2.  EC > 4 dS/m, white crust   |  ii.  < 8.5\nC.  Saline-Sodic soil            |  3.  EC > 4 dS/m, ESP > 15%     |  iii. < 8.5 (if well-leached)\nD.  Acid soil                    |  4.  pH < 5.5, Al toxicity       |  iv.  < 5.5",
     options: ["A-4-iv, B-2-ii,  C-3-iii,  D-1-i", "A-2-ii, B-1-i,   C-3-iii,  D-4-iv", "A-1-i,  B-3-iii, C-2-ii,   D-4-iv", "A-3-iii, B-4-iv, C-1-i,    D-2-ii"],
     correct: 1,
     explanation: "As per DA-121 notes: Saline soil (EC>4, white crust, pH<8.5); Sodic soil (ESP>15, poor structure, pH>8.5); Saline-Sodic (EC>4+ESP>15, pH<8.5); Acid soil (pH<5.5, Al/Mn toxicity)."
@@ -2464,12 +2434,7 @@ D.  Acid soil                    |  4.  pH < 5.5, Al toxicity       |  iv.  < 5.
     subject: "da-121",
     lecture: "lecture-22",
     lectureNo: 22,
-    question: "Match the soil reclamation methods:
-     Column-I (Soil problem)     |  Column-II (Amendment)       |  Column-III (Action)
-A.  Acid soil                    |  1.  Scraping + leaching       |  i.   Removes salts by washing
-B.  Sodic soil                   |  2.  Gypsum (CaSO4)           |  ii.  Replaces Na with Ca
-C.  Saline soil                  |  3.  Agricultural lime (CaCO3) |  iii. Neutralizes acidity
-D.  Waterlogged soil             |  4.  Open/tile drainage        |  iv.  Removes excess water",
+    question: "Match the soil reclamation methods:\n     Column-I (Soil problem)     |  Column-II (Amendment)       |  Column-III (Action)\nA.  Acid soil                    |  1.  Scraping + leaching       |  i.   Removes salts by washing\nB.  Sodic soil                   |  2.  Gypsum (CaSO4)           |  ii.  Replaces Na with Ca\nC.  Saline soil                  |  3.  Agricultural lime (CaCO3) |  iii. Neutralizes acidity\nD.  Waterlogged soil             |  4.  Open/tile drainage        |  iv.  Removes excess water",
     options: ["A-4-iv,  B-1-i,   C-3-iii, D-2-ii", "A-2-ii,  B-3-iii, C-4-iv,  D-1-i", "A-1-i,   B-4-iv,  C-2-ii,  D-3-iii", "A-3-iii, B-2-ii, C-1-i,   D-4-iv"],
     correct: 3,
     explanation: "As per DA-121 notes: Acid soil=lime (neutralizes acidity); Sodic soil=gypsum (Ca replaces Na); Saline soil=scraping+leaching (removes salts); Waterlogged=drainage (removes excess water)."
@@ -2479,12 +2444,7 @@ D.  Waterlogged soil             |  4.  Open/tile drainage        |  iv.  Remove
     subject: "da-121",
     lecture: "lecture-27",
     lectureNo: 27,
-    question: "Match the micronutrient deficiency diseases:
-     Column-I (Nutrient)         |  Column-II (Disease name)    |  Column-III (Crop affected)
-A.  Zinc                         |  1.  Grey speck disease       |  i.   Oats
-B.  Manganese                    |  2.  Khaira disease           |  ii.  Paddy/rice
-C.  Boron                        |  3.  Hollow heart             |  iii. Cauliflower/Beet
-D.  Copper                       |  4.  Reclamation disease      |  iv.  Cereals on peat soils",
+    question: "Match the micronutrient deficiency diseases:\n     Column-I (Nutrient)         |  Column-II (Disease name)    |  Column-III (Crop affected)\nA.  Zinc                         |  1.  Grey speck disease       |  i.   Oats\nB.  Manganese                    |  2.  Khaira disease           |  ii.  Paddy/rice\nC.  Boron                        |  3.  Hollow heart             |  iii. Cauliflower/Beet\nD.  Copper                       |  4.  Reclamation disease      |  iv.  Cereals on peat soils",
     options: ["A-3-iii, B-2-ii, C-4-iv,   D-1-i", "A-2-ii, B-1-i,   C-3-iii,  D-4-iv", "A-4-iv, B-3-iii, C-1-i,    D-2-ii", "A-1-i,  B-4-iv,  C-2-ii,   D-3-iii"],
     correct: 1,
     explanation: "As per DA-121 notes: Zinc deficiency=Khaira disease (paddy); Mn deficiency=Grey speck (oats); Boron deficiency=Hollow heart (cauliflower/beet); Cu deficiency=Reclamation disease (cereals on peat)."
@@ -2494,12 +2454,7 @@ D.  Copper                       |  4.  Reclamation disease      |  iv.  Cereals
     subject: "da-121",
     lecture: "lecture-24",
     lectureNo: 24,
-    question: "Match the essential nutrients with their classification:
-     Column-I (Nutrient)         |  Column-II (Classification)  |  Column-III (Example function)
-A.  Nitrogen (N)                 |  1.  Secondary macronutrient  |  i.   Cell wall formation
-B.  Calcium (Ca)                 |  2.  Primary macronutrient    |  ii.  Enzyme activation
-C.  Iron (Fe)                    |  3.  Micronutrient            |  iii. Chlorophyll precursor
-D.  Magnesium (Mg)               |  4.  Secondary macronutrient  |  iv.  Central atom of chlorophyll",
+    question: "Match the essential nutrients with their classification:\n     Column-I (Nutrient)         |  Column-II (Classification)  |  Column-III (Example function)\nA.  Nitrogen (N)                 |  1.  Secondary macronutrient  |  i.   Cell wall formation\nB.  Calcium (Ca)                 |  2.  Primary macronutrient    |  ii.  Enzyme activation\nC.  Iron (Fe)                    |  3.  Micronutrient            |  iii. Chlorophyll precursor\nD.  Magnesium (Mg)               |  4.  Secondary macronutrient  |  iv.  Central atom of chlorophyll",
     options: ["A-3-iii, B-2-ii, C-4-iv,   D-1-i", "A-2-ii, B-1-i,   C-3-iii,  D-4-iv", "A-4-iv, B-3-iii, C-1-i,    D-2-ii", "A-1-i,  B-4-iv,  C-2-ii,   D-3-iii"],
     correct: 1,
     explanation: "As per DA-121 notes: N (primary macronutrient, chlorophyll component... but function shown is protein); Ca (secondary, cell wall); Fe (micronutrient, chlorophyll precursor); Mg (secondary, central atom of chlorophyll)."
@@ -2509,12 +2464,7 @@ D.  Magnesium (Mg)               |  4.  Secondary macronutrient  |  iv.  Central
     subject: "da-121",
     lecture: "lecture-23",
     lectureNo: 23,
-    question: "Match the soil types of India with their characteristics:
-     Column-I (Soil type)        |  Column-II (Location)        |  Column-III (Key property)
-A.  Alluvial soils               |  1.  Deccan plateau, Maharashtra |  i. Rich in montmorillonite, swells
-B.  Black soils (Vertisols)      |  2.  Eastern Ghats, Kerala    |  ii. Fe, Al oxides, low fertility
-C.  Laterite soils               |  3.  Rajasthan, coastal areas  |  iii. Coarse texture, low fertility
-D.  Red soils                    |  4.  Indo-Gangetic plains     |  iv. Most fertile, river deposits",
+    question: "Match the soil types of India with their characteristics:\n     Column-I (Soil type)        |  Column-II (Location)        |  Column-III (Key property)\nA.  Alluvial soils               |  1.  Deccan plateau, Maharashtra |  i. Rich in montmorillonite, swells\nB.  Black soils (Vertisols)      |  2.  Eastern Ghats, Kerala    |  ii. Fe, Al oxides, low fertility\nC.  Laterite soils               |  3.  Rajasthan, coastal areas  |  iii. Coarse texture, low fertility\nD.  Red soils                    |  4.  Indo-Gangetic plains     |  iv. Most fertile, river deposits",
     options: ["A-1-i,  B-2-ii,  C-3-iii,  D-4-iv", "A-3-iii, B-4-iv, C-1-i,    D-2-ii", "A-2-ii, B-3-iii, C-4-iv,   D-1-i", "A-4-iv, B-1-i,   C-2-ii,   D-3-iii"],
     correct: 3,
     explanation: "As per DA-121 notes: Alluvial (Indo-Gangetic plains, most fertile); Black soil (Deccan plateau, swells when wet); Laterite (Eastern Ghats/Kerala, Fe/Al oxides); Red soils (coarse, low fertility - note positioning may vary)."
@@ -2524,12 +2474,7 @@ D.  Red soils                    |  4.  Indo-Gangetic plains     |  iv. Most fer
     subject: "da-121",
     lecture: "lecture-9",
     lectureNo: 9,
-    question: "Match the soil microorganisms with their functions:
-     Column-I (Organism)         |  Column-II (Process)         |  Column-III (Nitrogen form changed)
-A.  Nitrosomonas                 |  1.  Denitrification          |  i.   NO3- → N2
-B.  Nitrobacter                  |  2.  Ammonification           |  ii.  Organic N → NH4+
-C.  Pseudomonas/Thiobacillus     |  3.  Nitrification (stage 2)  |  iii. NO2- → NO3-
-D.  Heterotrophic bacteria       |  4.  Nitrification (stage 1)  |  iv.  NH4+ → NO2-",
+    question: "Match the soil microorganisms with their functions:\n     Column-I (Organism)         |  Column-II (Process)         |  Column-III (Nitrogen form changed)\nA.  Nitrosomonas                 |  1.  Denitrification          |  i.   NO3- → N2\nB.  Nitrobacter                  |  2.  Ammonification           |  ii.  Organic N → NH4+\nC.  Pseudomonas/Thiobacillus     |  3.  Nitrification (stage 2)  |  iii. NO2- → NO3-\nD.  Heterotrophic bacteria       |  4.  Nitrification (stage 1)  |  iv.  NH4+ → NO2-",
     options: ["A-4-iv, B-3-iii, C-1-i,   D-2-ii", "A-3-iii, B-4-iv, C-2-ii,   D-1-i", "A-1-i,  B-2-ii,  C-3-iii,  D-4-iv", "A-2-ii, B-1-i,   C-4-iv,   D-3-iii"],
     correct: 0,
     explanation: "As per DA-121 notes: Nitrosomonas (nitrification stage 1, NH4+→NO2-); Nitrobacter (stage 2, NO2-→NO3-); Pseudomonas (denitrification, NO3-→N2); Heterotrophic bacteria (ammonification, Org-N→NH4+)."
@@ -2539,12 +2484,7 @@ D.  Heterotrophic bacteria       |  4.  Nitrification (stage 1)  |  iv.  NH4+ �
     subject: "da-121",
     lecture: "lecture-8",
     lectureNo: 8,
-    question: "Match the soil moisture constants with their definitions:
-     Column-I (Moisture constant) |  Column-II (Tension)        |  Column-III (Significance)
-A.  Saturation                   |  1.  31 bars (~15 bars)       |  i.   Plants wilt permanently
-B.  Field capacity               |  2.  0 bar                    |  ii.  All pores filled, no plant use
-C.  Permanent Wilting Point      |  3.  0.1-0.33 bar             |  iii. Available water for plants
-D.  Available Water Capacity     |  4.  FC - PWP                 |  iv.  Water between FC and PWP",
+    question: "Match the soil moisture constants with their definitions:\n     Column-I (Moisture constant) |  Column-II (Tension)        |  Column-III (Significance)\nA.  Saturation                   |  1.  31 bars (~15 bars)       |  i.   Plants wilt permanently\nB.  Field capacity               |  2.  0 bar                    |  ii.  All pores filled, no plant use\nC.  Permanent Wilting Point      |  3.  0.1-0.33 bar             |  iii. Available water for plants\nD.  Available Water Capacity     |  4.  FC - PWP                 |  iv.  Water between FC and PWP",
     options: ["A-3-iii, B-2-ii, C-4-iv,   D-1-i", "A-2-ii, B-3-iii, C-1-i,   D-4-iv", "A-4-iv, B-1-i,   C-3-iii,  D-2-ii", "A-1-i,  B-4-iv,  C-2-ii,   D-3-iii"],
     correct: 1,
     explanation: "As per DA-121 notes: Saturation (0 bar, all pores filled); Field capacity (0.1-0.33 bar); Permanent Wilting Point (~15 bar, plants wilt permanently); Available Water = FC - PWP."
@@ -2554,12 +2494,7 @@ D.  Available Water Capacity     |  4.  FC - PWP                 |  iv.  Water b
     subject: "da-121",
     lecture: "lecture-19",
     lectureNo: 19,
-    question: "Match the pH levels with soil conditions:
-     Column-I (pH range)         |  Column-II (Soil condition)  |  Column-III (Management)
-A.  pH 4-5.5                     |  1.  Neutral/slightly alkaline |  i.   No amendment needed (optimal)
-B.  pH 5.5-6                     |  2.  Strongly acid             |  ii.  Apply heavy liming
-C.  pH 6.5-7.5                   |  3.  Slightly acid             |  iii. Apply moderate lime
-D.  pH 8-9                       |  4.  Alkaline/sodic            |  iv.  Apply gypsum or sulphur",
+    question: "Match the pH levels with soil conditions:\n     Column-I (pH range)         |  Column-II (Soil condition)  |  Column-III (Management)\nA.  pH 4-5.5                     |  1.  Neutral/slightly alkaline |  i.   No amendment needed (optimal)\nB.  pH 5.5-6                     |  2.  Strongly acid             |  ii.  Apply heavy liming\nC.  pH 6.5-7.5                   |  3.  Slightly acid             |  iii. Apply moderate lime\nD.  pH 8-9                       |  4.  Alkaline/sodic            |  iv.  Apply gypsum or sulphur",
     options: ["A-3-iii, B-2-ii, C-4-iv,   D-1-i", "A-2-ii, B-3-iii, C-1-i,   D-4-iv", "A-4-iv, B-1-i,   C-3-iii,  D-2-ii", "A-1-i,  B-4-iv,  C-2-ii,   D-3-iii"],
     correct: 1,
     explanation: "As per DA-121 notes: pH 4-5.5 (strongly acid, heavy liming); pH 5.5-6 (slightly acid, moderate lime); pH 6.5-7.5 (optimal, no amendment); pH 8-9 (alkaline, gypsum/sulphur)."
@@ -2569,12 +2504,7 @@ D.  pH 8-9                       |  4.  Alkaline/sodic            |  iv.  Apply 
     subject: "da-121",
     lecture: "lecture-6",
     lectureNo: 6,
-    question: "Match the soil density concepts:
-     Column-I (Concept)          |  Column-II (Value for mineral soils) | Column-III (Significance)
-A.  Particle density              |  1.  1.0-1.8 g/cm³            |  i.   Indicates compaction
-B.  Bulk density                  |  2.  ~2.65 g/cm³              |  ii.  Weight of solid particles only
-C.  Organic soils bulk density    |  3.  <1.0 g/cm³               |  iii. High OM soils are light
-D.  High bulk density (compact)   |  4.  >1.6 g/cm³               |  iv.  Root growth restricted",
+    question: "Match the soil density concepts:\n     Column-I (Concept)          |  Column-II (Value for mineral soils) | Column-III (Significance)\nA.  Particle density              |  1.  1.0-1.8 g/cm³            |  i.   Indicates compaction\nB.  Bulk density                  |  2.  ~2.65 g/cm³              |  ii.  Weight of solid particles only\nC.  Organic soils bulk density    |  3.  <1.0 g/cm³               |  iii. High OM soils are light\nD.  High bulk density (compact)   |  4.  >1.6 g/cm³               |  iv.  Root growth restricted",
     options: ["A-1-i,  B-2-ii,  C-4-iv,   D-3-iii", "A-3-iii, B-4-iv, C-1-i,    D-2-ii", "A-4-iv, B-3-iii, C-2-ii,   D-1-i", "A-2-ii, B-1-i,   C-3-iii,  D-4-iv"],
     correct: 3,
     explanation: "As per DA-121 notes: Particle density (~2.65 g/cm³, solid particles); Bulk density (1.0-1.8 g/cm³, includes pores); Organic soil BD (<1.0 g/cm³); High BD (>1.6 g/cm³, root growth restricted)."
@@ -2584,12 +2514,7 @@ D.  High bulk density (compact)   |  4.  >1.6 g/cm³               |  iv.  Root 
     subject: "da-121",
     lecture: "lecture-15",
     lectureNo: 15,
-    question: "Match the exchangeable cations with their effects:
-     Column-I (Cation)           |  Column-II (CEC position)    |  Column-III (Effect when dominant)
-A.  Calcium (Ca2+)               |  1.  Dominant in sodic soils  |  i.   Disperses soil, poor structure
-B.  Sodium (Na+)                 |  2.  Dominant in acid soils   |  ii.  Al/Mn toxicity
-C.  Hydrogen (H+)/Al3+           |  3.  Dominant in fertile soils|  iii. Good soil structure
-D.  Magnesium (Mg2+)             |  4.  Secondary basic cation   |  iv.  Contributes to good fertility",
+    question: "Match the exchangeable cations with their effects:\n     Column-I (Cation)           |  Column-II (CEC position)    |  Column-III (Effect when dominant)\nA.  Calcium (Ca2+)               |  1.  Dominant in sodic soils  |  i.   Disperses soil, poor structure\nB.  Sodium (Na+)                 |  2.  Dominant in acid soils   |  ii.  Al/Mn toxicity\nC.  Hydrogen (H+)/Al3+           |  3.  Dominant in fertile soils|  iii. Good soil structure\nD.  Magnesium (Mg2+)             |  4.  Secondary basic cation   |  iv.  Contributes to good fertility",
     options: ["A-1-i,   B-3-iii, C-4-iv,   D-2-ii", "A-2-ii,  B-4-iv,  C-1-i,    D-3-iii", "A-4-iv,  B-2-ii,  C-3-iii,  D-1-i", "A-3-iii, B-1-i,   C-2-ii,   D-4-iv"],
     correct: 3,
     explanation: "As per DA-121 notes: Ca2+ (dominant in fertile soils, good structure); Na+ (dominant in sodic soils, disperses soil); H+/Al3+ (dominant in acid soils, Al/Mn toxicity); Mg2+ (secondary basic cation, fertility)."
@@ -2599,12 +2524,7 @@ D.  Magnesium (Mg2+)             |  4.  Secondary basic cation   |  iv.  Contrib
     subject: "da-121",
     lecture: "lecture-32",
     lectureNo: 32,
-    question: "Match the greenhouse gases with their agricultural sources:
-     Column-I (Gas)              |  Column-II (Source)          |  Column-III (GWP relative to CO2)
-A.  Methane (CH4)                |  1.  Synthetic fertilizers    |  i.   298x (very high)
-B.  Nitrous oxide (N2O)          |  2.  Paddy fields             |  ii.  21x
-C.  Carbon dioxide (CO2)         |  3.  Organic matter burning   |  iii. 1x (reference)
-D.  Water vapour                 |  4.  Transpiration, evap.     |  iv.  Variable",
+    question: "Match the greenhouse gases with their agricultural sources:\n     Column-I (Gas)              |  Column-II (Source)          |  Column-III (GWP relative to CO2)\nA.  Methane (CH4)                |  1.  Synthetic fertilizers    |  i.   298x (very high)\nB.  Nitrous oxide (N2O)          |  2.  Paddy fields             |  ii.  21x\nC.  Carbon dioxide (CO2)         |  3.  Organic matter burning   |  iii. 1x (reference)\nD.  Water vapour                 |  4.  Transpiration, evap.     |  iv.  Variable",
     options: ["A-2-ii, B-1-i,   C-3-iii,  D-4-iv", "A-1-i,  B-4-iv,  C-2-ii,   D-3-iii", "A-4-iv, B-3-iii, C-2-ii,   D-1-i", "A-3-iii, B-2-ii, C-1-i,    D-4-iv"],
     correct: 0,
     explanation: "As per DA-121 notes: CH4 (paddy fields, 21x GWP); N2O (fertilizers, 298x GWP); CO2 (burning, 1x reference); Water vapour (transpiration, variable GWP)."
@@ -2614,12 +2534,7 @@ D.  Water vapour                 |  4.  Transpiration, evap.     |  iv.  Variabl
     subject: "da-121",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "Match the soil scientists with their definitions of soil:
-     Column-I (Scientist)        |  Column-II (Year)            |  Column-III (Key concept in definition)
-A.  Dokuchaev                    |  1.  1941                     |  i.   Effect of climate, organisms, relief, time
-B.  Jenny                        |  2.  1900                     |  ii.  Natural body with genesis and distinct nature
-C.  Buckman & Brady              |  3.  Modern era               |  iii. Dynamic natured body, mineral and organic
-D.  USDA definition              |  4.  20th century             |  iv.  Unconsolidated mineral matter, plant growth medium",
+    question: "Match the soil scientists with their definitions of soil:\n     Column-I (Scientist)        |  Column-II (Year)            |  Column-III (Key concept in definition)\nA.  Dokuchaev                    |  1.  1941                     |  i.   Effect of climate, organisms, relief, time\nB.  Jenny                        |  2.  1900                     |  ii.  Natural body with genesis and distinct nature\nC.  Buckman & Brady              |  3.  Modern era               |  iii. Dynamic natured body, mineral and organic\nD.  USDA definition              |  4.  20th century             |  iv.  Unconsolidated mineral matter, plant growth medium",
     options: ["A-2-ii, B-1-i,   C-3-iii,  D-4-iv", "A-4-iv, B-3-iii, C-1-i,    D-2-ii", "A-1-i,  B-2-ii,  C-4-iv,   D-3-iii", "A-3-iii, B-4-iv, C-2-ii,   D-1-i"],
     correct: 0,
     explanation: "As per DA-121 notes: Dokuchaev (1900, natural body with genesis); Jenny (1941, climate+organisms+relief+time); Buckman & Brady (dynamic body, mineral+organic); USDA (unconsolidated mineral matter, plant medium)."
@@ -2629,12 +2544,7 @@ D.  USDA definition              |  4.  20th century             |  iv.  Unconso
     subject: "da-121",
     lecture: "lecture-31",
     lectureNo: 31,
-    question: "Match the soil pollutants with their sources and effects:
-     Column-I (Pollutant)        |  Column-II (Main source)     |  Column-III (Effect)
-A.  Heavy metals (Pb, Cd, Hg)    |  1.  Excess NPK fertilizers   |  i.   Eutrophication, soil acidification
-B.  Persistent pesticides (DDT)  |  2.  Industrial effluents     |  ii.  Bioaccumulation, toxicity
-C.  Nitrates                     |  3.  Pesticide overuse        |  iii. Groundwater contamination
-D.  Plastic/polythene            |  4.  Packaging, mulching      |  iv.  Blocks water and air movement",
+    question: "Match the soil pollutants with their sources and effects:\n     Column-I (Pollutant)        |  Column-II (Main source)     |  Column-III (Effect)\nA.  Heavy metals (Pb, Cd, Hg)    |  1.  Excess NPK fertilizers   |  i.   Eutrophication, soil acidification\nB.  Persistent pesticides (DDT)  |  2.  Industrial effluents     |  ii.  Bioaccumulation, toxicity\nC.  Nitrates                     |  3.  Pesticide overuse        |  iii. Groundwater contamination\nD.  Plastic/polythene            |  4.  Packaging, mulching      |  iv.  Blocks water and air movement",
     options: ["A-3-iii, B-2-ii, C-4-iv,   D-1-i", "A-4-iv,  B-1-i,  C-3-iii,  D-2-ii", "A-1-i,   B-4-iv, C-2-ii,   D-3-iii", "A-2-ii, B-3-iii, C-1-i,   D-4-iv"],
     correct: 3,
     explanation: "As per DA-121 notes: Heavy metals (industrial effluents, bioaccumulation); Persistent pesticides (overuse, accumulate in food chain); Nitrates (excess fertilizers, groundwater contamination); Plastic (packaging/mulching, blocks water/air)."

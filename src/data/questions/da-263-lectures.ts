@@ -669,42 +669,35 @@ export const da263LectureQuestions: Question[] = [
     difficulty: "easy"
   },  {
     id: "d263l_096", subject: "english-communication", lecture: "lecture-14", lectureNo: 14,
-    question: "Assertion (A): 'Gold' is a material noun.
-Reason (R): Material nouns name substances or raw materials from which things are made and are usually uncountable.",
+    question: "Assertion (A): 'Gold' is a material noun.\nReason (R): Material nouns name substances or raw materials from which things are made and are usually uncountable.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "Gold is indeed a material noun naming a substance. The reason correctly explains that material nouns name raw materials and are generally uncountable — both A and R are true and R explains A.",
     difficulty: "medium"
   },  {
     id: "d263l_097", subject: "english-communication", lecture: "lecture-16", lectureNo: 16,
-    question: "Assertion (A): 'Slept' is the past tense of 'sleep'.
-Reason (R): 'Sleep' is a regular (weak) verb that forms its past tense by adding '-ed'.",
+    question: "Assertion (A): 'Slept' is the past tense of 'sleep'.\nReason (R): 'Sleep' is a regular (weak) verb that forms its past tense by adding '-ed'.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 0,
     explanation: "'Slept' is indeed the past tense of 'sleep' — A is true. However, 'sleep' is an IRREGULAR verb (sleep→slept), not a regular verb — R is false.",
     difficulty: "medium"
   },  {
     id: "d263l_098", subject: "english-communication", lecture: "lecture-17", lectureNo: 17,
-    question: "Assertion (A): Adverbs can modify verbs, adjectives, and other adverbs.
-Reason (R): An adverb is a word that modifies a noun to describe or limit its meaning.",
+    question: "Assertion (A): Adverbs can modify verbs, adjectives, and other adverbs.\nReason (R): An adverb is a word that modifies a noun to describe or limit its meaning.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 0,
     explanation: "A is true — adverbs modify verbs, adjectives, and other adverbs. R is false — it is ADJECTIVES (not adverbs) that modify nouns.",
     difficulty: "medium"
   },  {
     id: "d263l_099", subject: "english-communication", lecture: "lecture-14", lectureNo: 14,
-    question: "Match the noun with its KIND:
-Column A: 1. Courage  2. Milk  3. Orchestra  4. River
-Column B: P. Collective  Q. Proper  R. Abstract  S. Material",
+    question: "Match the noun with its KIND:\nColumn A: 1. Courage  2. Milk  3. Orchestra  4. River\nColumn B: P. Collective  Q. Proper  R. Abstract  S. Material",
     options: ["1-R, 2-S, 3-P, 4-Q", "1-S, 2-R, 3-Q, 4-P", "1-R, 2-P, 3-S, 4-Q", "1-P, 2-Q, 3-R, 4-S"],
     correct: 0,
     explanation: "Courage=Abstract (R), Milk=Material (S), Orchestra=Collective (P), River=Common — but 'River' as a generic word is a common noun; here 4-Q refers to proper noun only if a specific river name is given. In PJTSAU notes: courage→abstract, milk→material, orchestra→collective, river→proper (if named). Answer: 1-R, 2-S, 3-P, 4-Q.",
     difficulty: "hard"
   },  {
     id: "d263l_100", subject: "english-communication", lecture: "lecture-17", lectureNo: 17,
-    question: "Match the adverb with its TYPE:
-Column A: 1. Quickly  2. Yesterday  3. Twice  4. Yes
-Column B: P. Number  Q. Affirmation  R. Time  S. Manner",
+    question: "Match the adverb with its TYPE:\nColumn A: 1. Quickly  2. Yesterday  3. Twice  4. Yes\nColumn B: P. Number  Q. Affirmation  R. Time  S. Manner",
     options: ["1-P, 2-Q, 3-R, 4-S", "1-R, 2-S, 3-Q, 4-P", "1-S, 2-R, 3-P, 4-Q", "1-S, 2-P, 3-R, 4-Q"],
     correct: 2,
     explanation: "Quickly=Manner (S) — how the action is done; Yesterday=Time (R) — when the action occurred; Twice=Number (P) — how many times; Yes=Affirmation (Q) — expresses affirmation.",

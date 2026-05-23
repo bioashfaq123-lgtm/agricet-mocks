@@ -1640,8 +1640,7 @@ export const da291LectureQuestions: Question[] = [
   },
   {
     id: "d291l_163", subject: "Agricultural Extension Education", lecture: "Agricultural Information Materials", lectureNo: 11,
-    question: "Assertion (A): Printed agricultural information materials should be written in simple local language.
-Reason (R): Farmers are a heterogeneous group with varying educational levels, including many illiterates.",
+    question: "Assertion (A): Printed agricultural information materials should be written in simple local language.\nReason (R): Farmers are a heterogeneous group with varying educational levels, including many illiterates.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true", "Both A and R are true but R is not the correct explanation of A"],
     correct: 0,
     explanation: "Simple local language is essential because farmers vary in education level and many are illiterate, making complex technical language a barrier to communication.",
@@ -1673,10 +1672,7 @@ Reason (R): Farmers are a heterogeneous group with varying educational levels, i
   },
   {
     id: "d291l_167", subject: "Agricultural Extension Education", lecture: "Agricultural Information Materials", lectureNo: 11,
-    question: "Three-column matching: Match the extension information material, its feature, and its use:
-Col A: 1-Bulletin, 2-Newsletter, 3-Wall newspaper
-Col B: P-Monthly/quarterly publication, Q-Comprehensive technical document, R-Displayed in public places
-Col C: i-For scientific community, ii-For general awareness, iii-For keeping people informed",
+    question: "Three-column matching: Match the extension information material, its feature, and its use:\nCol A: 1-Bulletin, 2-Newsletter, 3-Wall newspaper\nCol B: P-Monthly/quarterly publication, Q-Comprehensive technical document, R-Displayed in public places\nCol C: i-For scientific community, ii-For general awareness, iii-For keeping people informed",
     options: ["1-P-i, 2-Q-ii, 3-R-iii", "1-Q-iii, 2-R-i, 3-P-ii", "1-Q-i, 2-P-iii, 3-R-ii", "1-R-iii, 2-P-i, 3-Q-ii"],
     correct: 2,
     explanation: "Bulletin is a comprehensive technical document (Q) for scientific community (i); Newsletter is monthly/quarterly (P) to keep people informed (iii); Wall newspaper is displayed in public places (R) for general awareness (ii).",
@@ -1700,8 +1696,7 @@ Col C: i-For scientific community, ii-For general awareness, iii-For keeping peo
   },
   {
     id: "d291l_170", subject: "Agricultural Extension Education", lecture: "Programme Planning and Development", lectureNo: 12,
-    question: "Assertion (A): Extension objectives should express behavioral changes in people as well as economic or social outcomes.
-Reason (R): The extension educational process is linear and does not repeat once evaluation is complete.",
+    question: "Assertion (A): Extension objectives should express behavioral changes in people as well as economic or social outcomes.\nReason (R): The extension educational process is linear and does not repeat once evaluation is complete.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true", "Both A and R are true but R is not the correct explanation of A"],
     correct: 1,
     explanation: "A is true - objectives should express behavioral AND economic/social outcomes. R is false - the extension process is cyclical; after evaluation comes reconsideration, and the process begins again.",
@@ -1733,10 +1728,7 @@ Reason (R): The extension educational process is linear and does not repeat once
   },
   {
     id: "d291l_174", subject: "Agricultural Extension Education", lecture: "Programme Planning and Development", lectureNo: 12,
-    question: "Three-column matching: Match the extension objective type, its focus, and its example:
-Col A: 1-Material, 2-Educational, 3-Social & Cultural
-Col B: P-Change in people's outlook, Q-Community development, R-Enhancement in production
-Col C: i-Higher crop yields, ii-Formation of cooperatives, iii-Positive attitude towards new technology",
+    question: "Three-column matching: Match the extension objective type, its focus, and its example:\nCol A: 1-Material, 2-Educational, 3-Social & Cultural\nCol B: P-Change in people's outlook, Q-Community development, R-Enhancement in production\nCol C: i-Higher crop yields, ii-Formation of cooperatives, iii-Positive attitude towards new technology",
     options: ["1-P-ii, 2-R-i, 3-Q-iii", "1-Q-iii, 2-P-i, 3-R-ii", "1-R-i, 2-P-iii, 3-Q-ii", "1-R-iii, 2-Q-i, 3-P-ii"],
     correct: 2,
     explanation: "Material objective focuses on production enhancement (R) with higher crop yields (i); Educational objective focuses on change in outlook (P) with positive attitude (iii); Social & Cultural focuses on community development (Q) with cooperative formation (ii).",
@@ -1800,8 +1792,7 @@ Col C: i-Higher crop yields, ii-Formation of cooperatives, iii-Positive attitude
   },
   {
     id: "d291l_182", subject: "Agricultural Extension Education", lecture: "Developmental Programmes", lectureNo: 13,
-    question: "Assertion (A): The Firka development scheme was introduced by Tongutar Prakasham Panthulu in 1946.
-Reason (R): The Firka scheme aimed at 'All round development of rural life' and was later merged into the community development scheme.",
+    question: "Assertion (A): The Firka development scheme was introduced by Tongutar Prakasham Panthulu in 1946.\nReason (R): The Firka scheme aimed at 'All round development of rural life' and was later merged into the community development scheme.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true", "Both A and R are true but R is not the correct explanation of A"],
     correct: 3,
     explanation: "Both A and R are true. The Firka scheme was introduced by Tongutar Prakasham Panthulu in 1946 with the aim of 'all round development of rural life' and was merged into the community development scheme, but R does not explain why A is true.",
@@ -1817,10 +1808,7 @@ Reason (R): The Firka scheme aimed at 'All round development of rural life' and 
   },
   {
     id: "d291l_184", subject: "Agricultural Extension Education", lecture: "Developmental Programmes", lectureNo: 13,
-    question: "Three-column matching: Match the pre-independence rural development project, its year, and its founder/location:
-Col A: 1-Srinikethan, 2-Sevagram, 3-Gurugram experiment
-Col B: P-1914, Q-1921, R-1920s
-Col C: i-F L B Brown/Punjab, ii-Rabindranath Tagore/West Bengal, iii-Gandhiji/Maharashtra",
+    question: "Three-column matching: Match the pre-independence rural development project, its year, and its founder/location:\nCol A: 1-Srinikethan, 2-Sevagram, 3-Gurugram experiment\nCol B: P-1914, Q-1921, R-1920s\nCol C: i-F L B Brown/Punjab, ii-Rabindranath Tagore/West Bengal, iii-Gandhiji/Maharashtra",
     options: ["1-R-i, 2-P-ii, 3-Q-iii", "1-P-iii, 2-Q-i, 3-R-ii", "1-P-ii, 2-Q-iii, 3-R-i", "1-Q-ii, 2-P-iii, 3-R-i"],
     correct: 2,
     explanation: "Srinikethan (P-1914, ii-Tagore/West Bengal); Sevagram (Q-1921, iii-Gandhiji/Maharashtra); Gurugram experiment (R-1920s, i-F L B Brown/Punjab).",
@@ -1852,8 +1840,7 @@ Col C: i-F L B Brown/Punjab, ii-Rabindranath Tagore/West Bengal, iii-Gandhiji/Ma
   },
   {
     id: "d291l_188", subject: "Agricultural Extension Education", lecture: "Community Development", lectureNo: 14,
-    question: "Assertion (A): Community development is defined as a process of government efforts united with those of the people to improve social, cultural and economic conditions.
-Reason (R): Community development involves technically aided and locally organized self-help.",
+    question: "Assertion (A): Community development is defined as a process of government efforts united with those of the people to improve social, cultural and economic conditions.\nReason (R): Community development involves technically aided and locally organized self-help.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
     correct: 3,
     explanation: "Both definitions are correct - A gives the official definition and R is an alternative description. But R (self-help aspect) does not explain A (government-people partnership), so they are complementary but R does not explain A.",
@@ -1885,10 +1872,7 @@ Reason (R): Community development involves technically aided and locally organiz
   },
   {
     id: "d291l_192", subject: "Agricultural Extension Education", lecture: "Community Development", lectureNo: 14,
-    question: "Three-column matching: Match the phase of CDP, its stage number, and its activity:
-Col A: 1-Emergence phase, 2-Work phase, 3-Final stage
-Col B: P-Stage 1, Q-Stage 3, R-Stage 5
-Col C: i-Finishing touches to all works, ii-Area selection, survey and planning, iii-Implementation of targeted programmes",
+    question: "Three-column matching: Match the phase of CDP, its stage number, and its activity:\nCol A: 1-Emergence phase, 2-Work phase, 3-Final stage\nCol B: P-Stage 1, Q-Stage 3, R-Stage 5\nCol C: i-Finishing touches to all works, ii-Area selection, survey and planning, iii-Implementation of targeted programmes",
     options: ["1-P-ii, 2-Q-iii, 3-R-i", "1-R-i, 2-P-ii, 3-Q-iii", "1-Q-iii, 2-P-i, 3-R-ii", "1-P-i, 2-R-ii, 3-Q-iii"],
     correct: 0,
     explanation: "Emergence phase is Stage 1 (P) with area selection/survey/planning (ii); Work phase is Stage 3 (Q) with implementation of programmes (iii); Final stage is Stage 5 (R) with finishing touches (i).",
@@ -1928,8 +1912,7 @@ Col C: i-Finishing touches to all works, ii-Area selection, survey and planning,
   },
   {
     id: "d291l_197", subject: "Agricultural Extension Education", lecture: "Panchayati Raj System", lectureNo: 15,
-    question: "Assertion (A): A gram panchayat is formed if the minimum population of a village is 250.
-Reason (R): Today every village with a population of 500 has one panchayat.",
+    question: "Assertion (A): A gram panchayat is formed if the minimum population of a village is 250.\nReason (R): Today every village with a population of 500 has one panchayat.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
     correct: 3,
     explanation: "Both A and R are true - minimum 250 for formation, and today every village with 500 population has one panchayat. But R (current practice) does not explain A (formation criterion).",
@@ -1945,10 +1928,7 @@ Reason (R): Today every village with a population of 500 has one panchayat.",
   },
   {
     id: "d291l_199", subject: "Agricultural Extension Education", lecture: "Panchayati Raj System", lectureNo: 15,
-    question: "Three-column matching: Match the Panchayati Raj tier, its level, and its geographic unit:
-Col A: 1-Gram Panchayat, 2-Panchayat Samiti, 3-Zilla Parishad
-Col B: P-Intermediate/Block level, Q-Lower/Village level, R-Upper/District level
-Col C: i-District, ii-Village, iii-Block",
+    question: "Three-column matching: Match the Panchayati Raj tier, its level, and its geographic unit:\nCol A: 1-Gram Panchayat, 2-Panchayat Samiti, 3-Zilla Parishad\nCol B: P-Intermediate/Block level, Q-Lower/Village level, R-Upper/District level\nCol C: i-District, ii-Village, iii-Block",
     options: ["1-Q-i, 2-R-ii, 3-P-iii", "1-R-i, 2-Q-ii, 3-P-iii", "1-P-ii, 2-Q-iii, 3-R-i", "1-Q-ii, 2-P-iii, 3-R-i"],
     correct: 3,
     explanation: "Gram Panchayat is at lower/village level (Q-ii); Panchayat Samiti is at intermediate/block level (P-iii); Zilla Parishad is at upper/district level (R-i).",

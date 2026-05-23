@@ -1610,8 +1610,7 @@ export const da122Questions: Question[] = [
     subject: "da-122",
     lecture: "lecture-2",
     lectureNo: 2,
-    question: "Assertion (A): Manures are slow acting while fertilizers are quick acting.
-Reason (R): Nutrients in manures are in organic form and must be mineralised by microorganisms before becoming available, while fertilizers contain nutrients in already available forms.",
+    question: "Assertion (A): Manures are slow acting while fertilizers are quick acting.\nReason (R): Nutrients in manures are in organic form and must be mineralised by microorganisms before becoming available, while fertilizers contain nutrients in already available forms.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-122 notes: Manures require mineralisation before nutrients become available. Fertilizers are in immediately available forms. Both A and R are true; R explains A."
@@ -1621,8 +1620,7 @@ Reason (R): Nutrients in manures are in organic form and must be mineralised by 
     subject: "da-122",
     lecture: "lecture-6",
     lectureNo: 6,
-    question: "Assertion (A): Biogas production from organic waste provides a dual benefit.
-Reason (R): Biogas can be used as fuel for cooking/lighting while the slurry remaining after digestion is a valuable organic manure.",
+    question: "Assertion (A): Biogas production from organic waste provides a dual benefit.\nReason (R): Biogas can be used as fuel for cooking/lighting while the slurry remaining after digestion is a valuable organic manure.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-122 notes: Biogas provides fuel energy AND valuable organic manure slurry. Both A and R are true; R correctly explains A."
@@ -1632,8 +1630,7 @@ Reason (R): Biogas can be used as fuel for cooking/lighting while the slurry rem
     subject: "da-122",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Assertion (A): Covered pit method is the best method for FYM preparation.
-Reason (R): The covered pit has non-absorbent sides and a roof cover that prevents nutrient loss from sun, rain, and leaching.",
+    question: "Assertion (A): Covered pit method is the best method for FYM preparation.\nReason (R): The covered pit has non-absorbent sides and a roof cover that prevents nutrient loss from sun, rain, and leaching.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-122 notes: Covered pit method is best because the cover and non-absorbent sides minimise nutrient losses. Both A and R are true; R explains A."
@@ -1643,8 +1640,7 @@ Reason (R): The covered pit has non-absorbent sides and a roof cover that preven
     subject: "da-122",
     lecture: "lecture-8",
     lectureNo: 8,
-    question: "Assertion (A): Vermicompost improves soil structure and stimulates plant growth beyond just nutrient supply.
-Reason (R): Vermicompost contains plant growth hormones (like auxins and cytokinins) and beneficial microorganisms in addition to plant nutrients.",
+    question: "Assertion (A): Vermicompost improves soil structure and stimulates plant growth beyond just nutrient supply.\nReason (R): Vermicompost contains plant growth hormones (like auxins and cytokinins) and beneficial microorganisms in addition to plant nutrients.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-122 notes: Vermicompost contains hormones and microorganisms beyond nutrients. Both A and R are true; R correctly explains A."
@@ -1654,8 +1650,7 @@ Reason (R): Vermicompost contains plant growth hormones (like auxins and cytokin
     subject: "da-122",
     lecture: "lecture-9",
     lectureNo: 9,
-    question: "Assertion (A): Leguminous crops are preferred as green manure crops.
-Reason (R): Leguminous crops fix atmospheric nitrogen in root nodules, and when incorporated, they add more nitrogen to the soil than they remove during growth.",
+    question: "Assertion (A): Leguminous crops are preferred as green manure crops.\nReason (R): Leguminous crops fix atmospheric nitrogen in root nodules, and when incorporated, they add more nitrogen to the soil than they remove during growth.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-122 notes: Leguminous green manure crops fix atmospheric N, resulting in net N addition when incorporated. Both A and R are true; R explains A."
@@ -1665,8 +1660,7 @@ Reason (R): Leguminous crops fix atmospheric nitrogen in root nodules, and when 
     subject: "da-122",
     lecture: "lecture-17",
     lectureNo: 17,
-    question: "Assertion (A): Urea has the highest nitrogen content among commonly used nitrogenous fertilizers.
-Reason (R): Urea [CO(NH2)2] contains 46% nitrogen by weight, which is the highest nitrogen content achievable in any solid nitrogen fertilizer.",
+    question: "Assertion (A): Urea has the highest nitrogen content among commonly used nitrogenous fertilizers.\nReason (R): Urea [CO(NH2)2] contains 46% nitrogen by weight, which is the highest nitrogen content achievable in any solid nitrogen fertilizer.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-122 notes: Urea has 46% N, highest among commonly used fertilizers. Both A and R are true; R correctly explains A."
@@ -1676,8 +1670,7 @@ Reason (R): Urea [CO(NH2)2] contains 46% nitrogen by weight, which is the highes
     subject: "da-122",
     lecture: "lecture-25",
     lectureNo: 25,
-    question: "Assertion (A): Split application of nitrogen fertilizers is recommended for most crops.
-Reason (R): Nitrogen is mobile and prone to loss through leaching and volatilization; split application matches supply with crop demand, reducing losses.",
+    question: "Assertion (A): Split application of nitrogen fertilizers is recommended for most crops.\nReason (R): Nitrogen is mobile and prone to loss through leaching and volatilization; split application matches supply with crop demand, reducing losses.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-122 notes: Split N application reduces losses and improves efficiency. Both A and R are true; R correctly explains A."
@@ -1687,8 +1680,7 @@ Reason (R): Nitrogen is mobile and prone to loss through leaching and volatiliza
     subject: "da-122",
     lecture: "lecture-29",
     lectureNo: 29,
-    question: "Assertion (A): INM can reduce the requirement of chemical fertilizers.
-Reason (R): Organic manures and biofertilizers in INM supply nutrients, improve nutrient use efficiency, and enhance soil health, partially replacing chemical fertilizers.",
+    question: "Assertion (A): INM can reduce the requirement of chemical fertilizers.\nReason (R): Organic manures and biofertilizers in INM supply nutrients, improve nutrient use efficiency, and enhance soil health, partially replacing chemical fertilizers.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-122 notes: INM can reduce chemical fertilizer needs through organic inputs and biofertilizers. Both A and R are true; R explains A."
@@ -1698,8 +1690,7 @@ Reason (R): Organic manures and biofertilizers in INM supply nutrients, improve 
     subject: "da-122",
     lecture: "lecture-19",
     lectureNo: 19,
-    question: "Assertion (A): SSP is preferred over TSP in sulphur-deficient soils.
-Reason (R): SSP contains 12% sulphur in addition to P2O5, while TSP contains no sulphur, making SSP more beneficial in sulphur-deficient soils.",
+    question: "Assertion (A): SSP is preferred over TSP in sulphur-deficient soils.\nReason (R): SSP contains 12% sulphur in addition to P2O5, while TSP contains no sulphur, making SSP more beneficial in sulphur-deficient soils.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-122 notes: SSP supplies both P and S (12%), while TSP supplies only P. Both A and R are true; R correctly explains A."
@@ -1709,8 +1700,7 @@ Reason (R): SSP contains 12% sulphur in addition to P2O5, while TSP contains no 
     subject: "da-122",
     lecture: "lecture-28",
     lectureNo: 28,
-    question: "Assertion (A): Band placement of fertilizers is more efficient than broadcasting.
-Reason (R): Band placement puts fertilizers close to the root zone, reducing fixation (P) and leaching losses (N), improving plant uptake.",
+    question: "Assertion (A): Band placement of fertilizers is more efficient than broadcasting.\nReason (R): Band placement puts fertilizers close to the root zone, reducing fixation (P) and leaching losses (N), improving plant uptake.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-122 notes: Band placement is more efficient because it reduces fixation and leaching. Both A and R are true; R correctly explains A."
@@ -1720,8 +1710,7 @@ Reason (R): Band placement puts fertilizers close to the root zone, reducing fix
     subject: "da-122",
     lecture: "lecture-16",
     lectureNo: 16,
-    question: "Assertion (A): VAM fungi are beneficial to plants in phosphorus-deficient soils.
-Reason (R): VAM fungi form an extensive network of hyphae that extends the root surface area, allowing plants to absorb phosphorus from a much larger soil volume.",
+    question: "Assertion (A): VAM fungi are beneficial to plants in phosphorus-deficient soils.\nReason (R): VAM fungi form an extensive network of hyphae that extends the root surface area, allowing plants to absorb phosphorus from a much larger soil volume.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-122 notes: VAM fungi increase P absorption through extensive hyphal network. Both A and R are true; R correctly explains A."
@@ -1731,8 +1720,7 @@ Reason (R): VAM fungi form an extensive network of hyphae that extends the root 
     subject: "da-122",
     lecture: "lecture-12",
     lectureNo: 12,
-    question: "Assertion (A): Non-edible oil cakes are more suitable for crop fertilization than edible oil cakes.
-Reason (R): Non-edible oil cakes cannot be fed to animals, so they are economically better used for crop fertilization. Edible cakes fetch higher prices as animal feed.",
+    question: "Assertion (A): Non-edible oil cakes are more suitable for crop fertilization than edible oil cakes.\nReason (R): Non-edible oil cakes cannot be fed to animals, so they are economically better used for crop fertilization. Edible cakes fetch higher prices as animal feed.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-122 notes: Non-edible oil cakes are used for crop fertilization since they cannot be fed to animals. Both A and R are true."
@@ -1742,8 +1730,7 @@ Reason (R): Non-edible oil cakes cannot be fed to animals, so they are economica
     subject: "da-122",
     lecture: "lecture-21",
     lectureNo: 21,
-    question: "Assertion (A): Chelated micronutrient fertilizers are more effective at high pH than mineral salt micronutrients.
-Reason (R): Chelating agents protect micronutrient ions from precipitation as insoluble hydroxides at high pH, keeping them in plant-available form.",
+    question: "Assertion (A): Chelated micronutrient fertilizers are more effective at high pH than mineral salt micronutrients.\nReason (R): Chelating agents protect micronutrient ions from precipitation as insoluble hydroxides at high pH, keeping them in plant-available form.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-122 notes: Chelates protect micronutrients from fixation at high pH. Both A and R are true; R correctly explains A."
@@ -1753,8 +1740,7 @@ Reason (R): Chelating agents protect micronutrient ions from precipitation as in
     subject: "da-122",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "Assertion (A): Leaching is a major cause of nitrogen loss from soil.
-Reason (R): Nitrate ions carry negative charge and are repelled by negatively charged soil colloids, making them susceptible to movement with soil water.",
+    question: "Assertion (A): Leaching is a major cause of nitrogen loss from soil.\nReason (R): Nitrate ions carry negative charge and are repelled by negatively charged soil colloids, making them susceptible to movement with soil water.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-122 notes: Leaching is a major N loss mechanism. Nitrate ions are not adsorbed by soil colloids (both negatively charged) and move freely with water. Both A and R are true."
@@ -1764,8 +1750,7 @@ Reason (R): Nitrate ions carry negative charge and are repelled by negatively ch
     subject: "da-122",
     lecture: "lecture-31",
     lectureNo: 31,
-    question: "Assertion (A): Organic farming maintains long-term soil health better than intensive chemical farming.
-Reason (R): Organic farming practices maintain and increase soil organic matter, CEC, microbial diversity, and soil structure, while minimising environmental pollution.",
+    question: "Assertion (A): Organic farming maintains long-term soil health better than intensive chemical farming.\nReason (R): Organic farming practices maintain and increase soil organic matter, CEC, microbial diversity, and soil structure, while minimising environmental pollution.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-122 notes: Organic farming maintains soil health by preserving OM, microbial diversity, and structure. Both A and R are true; R correctly explains A."
@@ -1775,12 +1760,7 @@ Reason (R): Organic farming practices maintain and increase soil organic matter,
     subject: "da-122",
     lecture: "lecture-2",
     lectureNo: 2,
-    question: "Match the organic manures with their origin:
-     Column-I (Manure)           |  Column-II (Origin)          |  Column-III (Examples)
-A.  Bulky organic manures        |  1.  Animal droppings/sea birds|  i.  Guano, fish meal
-B.  Green manures                |  2.  Plant material in situ   |  ii. Dhaincha, Pillipesara
-C.  Concentrated animal origin   |  3.  Cattle dung+urine+litter |  iii. FYM, Farmyard manure
-D.  Green leaf manures           |  4.  Leaves from tree/shrubs  |  iv. Neem, Pongamia, Gliricidia",
+    question: "Match the organic manures with their origin:\n     Column-I (Manure)           |  Column-II (Origin)          |  Column-III (Examples)\nA.  Bulky organic manures        |  1.  Animal droppings/sea birds|  i.  Guano, fish meal\nB.  Green manures                |  2.  Plant material in situ   |  ii. Dhaincha, Pillipesara\nC.  Concentrated animal origin   |  3.  Cattle dung+urine+litter |  iii. FYM, Farmyard manure\nD.  Green leaf manures           |  4.  Leaves from tree/shrubs  |  iv. Neem, Pongamia, Gliricidia",
     options: ["A-4-iv,  B-1-i,   C-4-iv,  D-2-ii", "A-3-iii, B-2-ii,  C-1-i,   D-4-iv", "A-1-i,   B-3-iii, C-2-ii,  D-4-iv", "A-2-ii,  B-4-iv,  C-3-iii, D-1-i"],
     correct: 1,
     explanation: "As per DA-122 notes: Bulky organic manures (FYM from cattle dung+urine+litter); Green manures in situ (Dhaincha, Pillipesara); Concentrated animal origin (Guano, fish meal); Green leaf manures (Neem, Pongamia, Gliricidia leaves)."
@@ -1790,12 +1770,7 @@ D.  Green leaf manures           |  4.  Leaves from tree/shrubs  |  iv. Neem, Po
     subject: "da-122",
     lecture: "lecture-18",
     lectureNo: 18,
-    question: "Match the nitrogenous fertilizers with their N content:
-     Column-I (Fertilizer)       |  Column-II (N content %)     |  Column-III (Type)
-A.  Urea                         |  1.  33-34%                   |  i.   Amide
-B.  Ammonium nitrate             |  2.  21%                      |  ii.  Ammonical-nitrate
-C.  Ammonium sulphate            |  3.  15-21%                   |  iii. Ammonical
-D.  Calcium ammonium nitrate     |  4.  46%                      |  iv.  Amide/Ammonical-nitrate",
+    question: "Match the nitrogenous fertilizers with their N content:\n     Column-I (Fertilizer)       |  Column-II (N content %)     |  Column-III (Type)\nA.  Urea                         |  1.  33-34%                   |  i.   Amide\nB.  Ammonium nitrate             |  2.  21%                      |  ii.  Ammonical-nitrate\nC.  Ammonium sulphate            |  3.  15-21%                   |  iii. Ammonical\nD.  Calcium ammonium nitrate     |  4.  46%                      |  iv.  Amide/Ammonical-nitrate",
     options: ["A-3-iii, B-4-iv, C-1-i,    D-2-ii", "A-1-i,  B-2-ii,  C-3-iii,  D-4-iv", "A-2-ii, B-3-iii, C-4-iv,   D-1-i", "A-4-i,  B-1-ii,  C-2-iii,  D-3-iv"],
     correct: 3,
     explanation: "As per DA-122 notes: Urea=46% N (amide); Ammonium nitrate=33-34% N (ammonical-nitrate); Ammonium sulphate=21% N (ammonical); Calcium ammonium nitrate=15-21% N."
@@ -1805,12 +1780,7 @@ D.  Calcium ammonium nitrate     |  4.  46%                      |  iv.  Amide/A
     subject: "da-122",
     lecture: "lecture-19",
     lectureNo: 19,
-    question: "Match the phosphatic fertilizers with their P2O5 content and solubility:
-     Column-I (Fertilizer)       |  Column-II (P2O5 %)          |  Column-III (Solubility)
-A.  Rock phosphate               |  1.  46%                      |  i.   Water soluble
-B.  Single Super Phosphate (SSP) |  2.  25-40%                   |  ii.  Citric acid insoluble
-C.  Triple Super Phosphate (TSP) |  3.  16-18%                   |  iii. Water soluble
-D.  Dicalcium phosphate (DCP)    |  4.  35-40%                   |  iv.  Citric acid soluble",
+    question: "Match the phosphatic fertilizers with their P2O5 content and solubility:\n     Column-I (Fertilizer)       |  Column-II (P2O5 %)          |  Column-III (Solubility)\nA.  Rock phosphate               |  1.  46%                      |  i.   Water soluble\nB.  Single Super Phosphate (SSP) |  2.  25-40%                   |  ii.  Citric acid insoluble\nC.  Triple Super Phosphate (TSP) |  3.  16-18%                   |  iii. Water soluble\nD.  Dicalcium phosphate (DCP)    |  4.  35-40%                   |  iv.  Citric acid soluble",
     options: ["A-3-iii, B-1-i,  C-2-ii,   D-4-iv", "A-4-iv, B-2-ii,  C-3-iii,  D-1-i", "A-1-i,  B-4-iv,  C-2-ii,   D-3-iii", "A-2-ii, B-3-iii, C-1-i,   D-4-iv"],
     correct: 3,
     explanation: "As per DA-122 notes: Rock phosphate (25-40% P2O5, citric acid insoluble); SSP (16-18% P2O5, water soluble); TSP (46% P2O5, water soluble); DCP (35-40%, citric acid soluble)."
@@ -1820,12 +1790,7 @@ D.  Dicalcium phosphate (DCP)    |  4.  35-40%                   |  iv.  Citric 
     subject: "da-122",
     lecture: "lecture-14",
     lectureNo: 14,
-    question: "Match the biofertilizers with their classification:
-     Column-I (Biofertiliser)    |  Column-II (Class)           |  Column-III (Example organism)
-A.  Rhizobium                    |  1.  Free-living N fixer      |  i.   Azotobacter chroococcum
-B.  Azotobacter                  |  2.  Symbiotic N fixer        |  ii.  Rhizobium leguminosarum
-C.  VAM fungi                    |  3.  Associative N fixer      |  iii. Azospirillum brasilense
-D.  Azospirillum                 |  4.  P absorber               |  iv.  Glomus species",
+    question: "Match the biofertilizers with their classification:\n     Column-I (Biofertiliser)    |  Column-II (Class)           |  Column-III (Example organism)\nA.  Rhizobium                    |  1.  Free-living N fixer      |  i.   Azotobacter chroococcum\nB.  Azotobacter                  |  2.  Symbiotic N fixer        |  ii.  Rhizobium leguminosarum\nC.  VAM fungi                    |  3.  Associative N fixer      |  iii. Azospirillum brasilense\nD.  Azospirillum                 |  4.  P absorber               |  iv.  Glomus species",
     options: ["A-1-i,  B-2-ii,  C-3-iii,  D-4-iv", "A-2-ii, B-1-i,   C-4-iv,   D-3-iii", "A-4-iv, B-3-iii, C-1-i,    D-2-ii", "A-3-iii, B-4-iv, C-2-ii,   D-1-i"],
     correct: 1,
     explanation: "As per DA-122 notes: Rhizobium (symbiotic N fixer, Rhizobium leguminosarum); Azotobacter (free-living N fixer); VAM fungi (P absorber, Glomus species); Azospirillum (associative N fixer)."
@@ -1835,12 +1800,7 @@ D.  Azospirillum                 |  4.  P absorber               |  iv.  Glomus 
     subject: "da-122",
     lecture: "lecture-22",
     lectureNo: 22,
-    question: "Match the complex fertilizers with their NPK grades:
-     Column-I (Fertilizer)       |  Column-II (Grade N-P-K)     |  Column-III (Type)
-A.  DAP                          |  1.  17-17-17                 |  i.   Complete NPK
-B.  MAP                          |  2.  18-46-0                  |  ii.  NP complex
-C.  Complete NPK 17              |  3.  11-52-0                  |  iii. NP complex
-D.  10-26-26                     |  4.  10-26-26                 |  iv.  NPK (K dominant)",
+    question: "Match the complex fertilizers with their NPK grades:\n     Column-I (Fertilizer)       |  Column-II (Grade N-P-K)     |  Column-III (Type)\nA.  DAP                          |  1.  17-17-17                 |  i.   Complete NPK\nB.  MAP                          |  2.  18-46-0                  |  ii.  NP complex\nC.  Complete NPK 17              |  3.  11-52-0                  |  iii. NP complex\nD.  10-26-26                     |  4.  10-26-26                 |  iv.  NPK (K dominant)",
     options: ["A-3-iii, B-2-ii, C-4-iv,   D-1-i", "A-4-iv, B-1-i,   C-3-iii,  D-2-ii", "A-2-ii, B-3-iii, C-1-i,   D-4-iv", "A-1-i,  B-4-iv,  C-2-ii,   D-3-iii"],
     correct: 2,
     explanation: "As per DA-122 notes: DAP=18-46-0 (NP complex); MAP=11-52-0 (NP complex); Complete NPK 17=17-17-17 (complete); 10-26-26 (NPK, K dominant)."
@@ -1850,12 +1810,7 @@ D.  10-26-26                     |  4.  10-26-26                 |  iv.  NPK (K 
     subject: "da-122",
     lecture: "lecture-20",
     lectureNo: 20,
-    question: "Match the secondary nutrient fertilizers with their nutrient supply:
-     Column-I (Fertilizer)       |  Column-II (Nutrient supplied)|  Column-III (Chemical formula)
-A.  Gypsum                       |  1.  Magnesium + Sulphur      |  i.   MgSO4·7H2O
-B.  Epsomite                     |  2.  Calcium + Sulphur        |  ii.  CaSO4·2H2O
-C.  Calcitic lime                |  3.  Nitrogen + Sulphur       |  iii. (NH4)2SO4
-D.  Ammonium sulphate            |  4.  Calcium only             |  iv.  CaCO3",
+    question: "Match the secondary nutrient fertilizers with their nutrient supply:\n     Column-I (Fertilizer)       |  Column-II (Nutrient supplied)|  Column-III (Chemical formula)\nA.  Gypsum                       |  1.  Magnesium + Sulphur      |  i.   MgSO4·7H2O\nB.  Epsomite                     |  2.  Calcium + Sulphur        |  ii.  CaSO4·2H2O\nC.  Calcitic lime                |  3.  Nitrogen + Sulphur       |  iii. (NH4)2SO4\nD.  Ammonium sulphate            |  4.  Calcium only             |  iv.  CaCO3",
     options: ["A-1-i,  B-2-ii,  C-3-iii,  D-4-iv", "A-2-ii, B-1-i,   C-4-iv,   D-3-iii", "A-4-iv, B-3-iii, C-1-i,    D-2-ii", "A-3-iii, B-4-iv, C-2-ii,   D-1-i"],
     correct: 1,
     explanation: "As per DA-122 notes: Gypsum (Ca+S, CaSO4.2H2O); Epsomite (Mg+S, MgSO4.7H2O); Calcitic lime (Ca only, CaCO3); Ammonium sulphate (N+S, (NH4)2SO4)."
@@ -1865,12 +1820,7 @@ D.  Ammonium sulphate            |  4.  Calcium only             |  iv.  CaCO3",
     subject: "da-122",
     lecture: "lecture-27",
     lectureNo: 27,
-    question: "Match the methods of fertilizer application with their descriptions:
-     Column-I (Method)           |  Column-II (Description)     |  Column-III (Advantage)
-A.  Broadcasting                 |  1.  Applied through irrigation |  i.  Precise timing/dose
-B.  Band placement               |  2.  Spread over soil surface   |  ii. Reduces P fixation
-C.  Fertigation                  |  3.  Sprayed on leaves          |  iii. Quick correction of deficiency
-D.  Foliar application           |  4.  Placed near root zone      |  iv. Simple, large area",
+    question: "Match the methods of fertilizer application with their descriptions:\n     Column-I (Method)           |  Column-II (Description)     |  Column-III (Advantage)\nA.  Broadcasting                 |  1.  Applied through irrigation |  i.  Precise timing/dose\nB.  Band placement               |  2.  Spread over soil surface   |  ii. Reduces P fixation\nC.  Fertigation                  |  3.  Sprayed on leaves          |  iii. Quick correction of deficiency\nD.  Foliar application           |  4.  Placed near root zone      |  iv. Simple, large area",
     options: ["A-1-i,  B-3-iii, C-4-ii,  D-2-iv", "A-4-ii, B-1-i,   C-2-iv,  D-3-iii", "A-2-iv, B-4-ii,  C-1-i,   D-3-iii", "A-3-iii, B-2-iv, C-4-ii,  D-1-i"],
     correct: 2,
     explanation: "As per DA-122 notes: Broadcasting (spread over surface, simple/large area); Band placement (near root zone, reduces P fixation); Fertigation (through irrigation, precise timing/dose); Foliar (sprayed on leaves, quick correction)."
@@ -1880,12 +1830,7 @@ D.  Foliar application           |  4.  Placed near root zone      |  iv. Simple
     subject: "da-122",
     lecture: "lecture-13",
     lectureNo: 13,
-    question: "Match the concentrated organic manures with their approximate N content:
-     Column-I (Manure)           |  Column-II (N content %)     |  Column-III (P2O5 content %)
-A.  Blood meal                   |  1.  3-4%                     |  i.   ~20%
-B.  Bone meal                    |  2.  12-14%                   |  ii.  2-3%
-C.  Fish meal                    |  3.  8-12%                    |  iii. 5-7%
-D.  Neem cake (plant origin)     |  4.  5%                       |  iv.  1-2%",
+    question: "Match the concentrated organic manures with their approximate N content:\n     Column-I (Manure)           |  Column-II (N content %)     |  Column-III (P2O5 content %)\nA.  Blood meal                   |  1.  3-4%                     |  i.   ~20%\nB.  Bone meal                    |  2.  12-14%                   |  ii.  2-3%\nC.  Fish meal                    |  3.  8-12%                    |  iii. 5-7%\nD.  Neem cake (plant origin)     |  4.  5%                       |  iv.  1-2%",
     options: ["A-3-iii, B-4-iv, C-1-i,    D-2-ii", "A-2-ii, B-1-i,   C-3-iii,  D-4-iv", "A-1-i,  B-3-iii, C-2-ii,   D-4-iv", "A-4-iv, B-2-ii,  C-1-i,    D-3-iii"],
     correct: 1,
     explanation: "As per DA-122 notes: Blood meal (12-14% N, 2-3% P2O5); Bone meal (3-4% N, ~20% P2O5); Fish meal (8-12% N, 5-7% P2O5); Neem cake (~5% N, 1-2% P2O5)."
@@ -1895,12 +1840,7 @@ D.  Neem cake (plant origin)     |  4.  5%                       |  iv.  1-2%",
     subject: "da-122",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Match the FYM preparation methods with their key features:
-     Column-I (Method)           |  Column-II (Storage)         |  Column-III (Quality)
-A.  Heap method                  |  1.  Covered pit, granite stone|  i.   Best quality, minimum loss
-B.  Pit method                   |  2.  Open air, above ground    |  ii.  Maximum nutrient loss
-C.  Covered pit method           |  3.  Open pit, below ground    |  iii. Moderate loss
-D.  All three methods            |  4.  Varying methods           |  iv.  5-6 t/animal/year",
+    question: "Match the FYM preparation methods with their key features:\n     Column-I (Method)           |  Column-II (Storage)         |  Column-III (Quality)\nA.  Heap method                  |  1.  Covered pit, granite stone|  i.   Best quality, minimum loss\nB.  Pit method                   |  2.  Open air, above ground    |  ii.  Maximum nutrient loss\nC.  Covered pit method           |  3.  Open pit, below ground    |  iii. Moderate loss\nD.  All three methods            |  4.  Varying methods           |  iv.  5-6 t/animal/year",
     options: ["A-1-i,  B-2-ii,  C-3-iii,  D-4-iv", "A-2-ii, B-3-iii, C-1-i,   D-4-iv", "A-3-iii, B-4-iv, C-2-ii,   D-1-i", "A-4-iv, B-1-i,   C-2-ii,   D-3-iii"],
     correct: 1,
     explanation: "As per DA-122 notes: Heap (above ground, maximum loss); Pit (below ground, moderate loss, 5-6 t/animal/year); Covered pit (granite stone, best quality, minimum loss)."
@@ -1910,12 +1850,7 @@ D.  All three methods            |  4.  Varying methods           |  iv.  5-6 t/
     subject: "da-122",
     lecture: "lecture-29",
     lectureNo: 29,
-    question: "Match the INM components with their functions:
-     Column-I (Component)        |  Column-II (Function)        |  Column-III (Example)
-A.  Chemical fertilizers         |  1.  Improve soil health, structure|  i.  FYM, compost, vermicompost
-B.  Organic manures              |  2.  Supply beneficial microbes   |  ii. Rhizobium, VAM, Azotobacter
-C.  Biofertilizers               |  3.  Quick supply of specific nutrients| iii. Urea, DAP, MOP
-D.  Crop residue incorporation   |  4.  Recycle nutrients in-situ    |  iv.  Paddy straw, wheat straw",
+    question: "Match the INM components with their functions:\n     Column-I (Component)        |  Column-II (Function)        |  Column-III (Example)\nA.  Chemical fertilizers         |  1.  Improve soil health, structure|  i.  FYM, compost, vermicompost\nB.  Organic manures              |  2.  Supply beneficial microbes   |  ii. Rhizobium, VAM, Azotobacter\nC.  Biofertilizers               |  3.  Quick supply of specific nutrients| iii. Urea, DAP, MOP\nD.  Crop residue incorporation   |  4.  Recycle nutrients in-situ    |  iv.  Paddy straw, wheat straw",
     options: ["A-4-iv,  B-2-ii, C-4-iv,   D-1-i", "A-2-ii,  B-3-iii, C-1-i,   D-4-iv", "A-1-i,   B-4-iv, C-3-iii,  D-2-ii", "A-3-iii, B-1-i,  C-2-ii,   D-4-iv"],
     correct: 3,
     explanation: "As per DA-122 notes: Chemical fertilizers (quick N/P/K supply); Organic manures (improve soil health/structure, e.g., FYM, compost); Biofertilizers (supply beneficial microbes); Crop residue incorporation (recycle nutrients in situ)."
@@ -1925,12 +1860,7 @@ D.  Crop residue incorporation   |  4.  Recycle nutrients in-situ    |  iv.  Pad
     subject: "da-122",
     lecture: "lecture-20",
     lectureNo: 20,
-    question: "Match the micronutrient fertilizers with their chemical form:
-     Column-I (Micronutrient)    |  Column-II (Common fertilizer)|  Column-III (Application rate typical)
-A.  Zinc                         |  1.  FeSO4                    |  i.   5-10 kg/ha
-B.  Iron                         |  2.  ZnSO4                    |  ii.  25-50 kg/ha (soil) or spray
-C.  Boron                        |  3.  MnSO4                    |  iii. 0.5-1.0 kg/ha
-D.  Manganese                    |  4.  Borax                    |  iv.  1-2 kg/ha",
+    question: "Match the micronutrient fertilizers with their chemical form:\n     Column-I (Micronutrient)    |  Column-II (Common fertilizer)|  Column-III (Application rate typical)\nA.  Zinc                         |  1.  FeSO4                    |  i.   5-10 kg/ha\nB.  Iron                         |  2.  ZnSO4                    |  ii.  25-50 kg/ha (soil) or spray\nC.  Boron                        |  3.  MnSO4                    |  iii. 0.5-1.0 kg/ha\nD.  Manganese                    |  4.  Borax                    |  iv.  1-2 kg/ha",
     options: ["A-3-iii, B-4-iv, C-1-i,    D-2-ii", "A-1-i,  B-2-ii,  C-3-iii,  D-4-iv", "A-4-iv, B-3-iii, C-2-ii,   D-1-i", "A-2-ii, B-1-i,   C-4-iv,   D-3-iii"],
     correct: 3,
     explanation: "As per DA-122 notes: Zinc (ZnSO4, 25-50 kg/ha soil or foliar spray); Iron (FeSO4, 5-10 kg/ha or foliar); Boron (Borax, 1-2 kg/ha); Manganese (MnSO4, 0.5-1.0 kg/ha or spray)."
@@ -1940,12 +1870,7 @@ D.  Manganese                    |  4.  Borax                    |  iv.  1-2 kg/
     subject: "da-122",
     lecture: "lecture-9",
     lectureNo: 9,
-    question: "Match the green manure crops with their botanical names:
-     Column-I (Common name)      |  Column-II (Botanical name)  |  Column-III (N fixation kg/ha)
-A.  Dhaincha                     |  1.  Vigna radiata var. sublobata | i.  40-80 kg/ha
-B.  Pillipesara                  |  2.  Crotalaria juncea        |  ii. 50-100 kg/ha
-C.  Sunn hemp (Crotalaria)       |  3.  Sesbania aculeata        |  iii. 60-100 kg/ha
-D.  Berseem                      |  4.  Trifolium alexandrinum   |  iv.  100-200 kg/ha",
+    question: "Match the green manure crops with their botanical names:\n     Column-I (Common name)      |  Column-II (Botanical name)  |  Column-III (N fixation kg/ha)\nA.  Dhaincha                     |  1.  Vigna radiata var. sublobata | i.  40-80 kg/ha\nB.  Pillipesara                  |  2.  Crotalaria juncea        |  ii. 50-100 kg/ha\nC.  Sunn hemp (Crotalaria)       |  3.  Sesbania aculeata        |  iii. 60-100 kg/ha\nD.  Berseem                      |  4.  Trifolium alexandrinum   |  iv.  100-200 kg/ha",
     options: ["A-4-iv, B-3-iii, C-4-iv,   D-1-i", "A-3-iii, B-1-i,   C-2-ii,   D-4-iv", "A-1-i,  B-2-ii,  C-3-iii,  D-4-iv", "A-2-ii, B-4-iv,  C-1-i,    D-3-iii"],
     correct: 1,
     explanation: "As per DA-122 notes: Dhaincha (Sesbania aculeata, 60-100 kg N/ha); Pillipesara (Vigna radiata var. sublobata, 40-80 kg N/ha); Sunn hemp (Crotalaria juncea, 50-100 kg N/ha); Berseem (Trifolium alexandrinum, 100-200 kg N/ha)."
@@ -1955,12 +1880,7 @@ D.  Berseem                      |  4.  Trifolium alexandrinum   |  iv.  100-200
     subject: "da-122",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "Match the reasons for soil fertility decline with their mechanisms:
-     Column-I (Reason)           |  Column-II (Mechanism)       |  Column-III (Prevention)
-A.  Volatilization               |  1.  Loss of top fertile soil |  i.   Erosion control
-B.  Soil erosion                 |  2.  NH3 gas loss from urea   |  ii.  Deep placement, acidic soil
-C.  Leaching                     |  3.  Downward movement of NO3-|  iii. Split application
-D.  Crop removal                 |  4.  Nutrient removal with produce|  iv. Replenishment via fertilizers",
+    question: "Match the reasons for soil fertility decline with their mechanisms:\n     Column-I (Reason)           |  Column-II (Mechanism)       |  Column-III (Prevention)\nA.  Volatilization               |  1.  Loss of top fertile soil |  i.   Erosion control\nB.  Soil erosion                 |  2.  NH3 gas loss from urea   |  ii.  Deep placement, acidic soil\nC.  Leaching                     |  3.  Downward movement of NO3-|  iii. Split application\nD.  Crop removal                 |  4.  Nutrient removal with produce|  iv. Replenishment via fertilizers",
     options: ["A-3-iii, B-4-iv, C-1-i,    D-2-ii", "A-2-ii, B-1-i,   C-3-iii,  D-4-iv", "A-1-i,  B-3-iii, C-2-ii,   D-4-iv", "A-4-iv, B-2-ii,  C-1-i,    D-3-iii"],
     correct: 1,
     explanation: "As per DA-122 notes: Volatilization (NH3 gas from urea, prevented by deep placement); Soil erosion (top soil loss, erosion control); Leaching (NO3- moved downward, split application); Crop removal (nutrients taken away, replenish via fertilizers)."
@@ -1970,12 +1890,7 @@ D.  Crop removal                 |  4.  Nutrient removal with produce|  iv. Repl
     subject: "da-122",
     lecture: "lecture-17",
     lectureNo: 17,
-    question: "Match the fertilizer types with their definitions:
-     Column-I (Type)             |  Column-II (Definition)      |  Column-III (Example)
-A.  Straight fertilizer          |  1.  2+ nutrients from reaction|  i.   DAP, complex NPK
-B.  Mixed fertilizer             |  2.  One nutrient element     |  ii.  Urea, SSP, MOP
-C.  Complex fertilizer           |  3.  Blending of straight fertils|  iii. Farm-mixed NPK
-D.  Biofertilizer                |  4.  Live microorganisms       |  iv.  Rhizobium, VAM",
+    question: "Match the fertilizer types with their definitions:\n     Column-I (Type)             |  Column-II (Definition)      |  Column-III (Example)\nA.  Straight fertilizer          |  1.  2+ nutrients from reaction|  i.   DAP, complex NPK\nB.  Mixed fertilizer             |  2.  One nutrient element     |  ii.  Urea, SSP, MOP\nC.  Complex fertilizer           |  3.  Blending of straight fertils|  iii. Farm-mixed NPK\nD.  Biofertilizer                |  4.  Live microorganisms       |  iv.  Rhizobium, VAM",
     options: ["A-3-iii, B-2-ii, C-4-iv,   D-1-i", "A-4-iv, B-1-i,   C-3-iii,  D-2-ii", "A-2-ii, B-3-iii, C-1-i,   D-4-iv", "A-1-i,  B-4-iv,  C-2-ii,   D-3-iii"],
     correct: 2,
     explanation: "As per DA-122 notes: Straight (one nutrient, e.g., urea/SSP/MOP); Mixed (blending of straight fertilizers); Complex (2+ nutrients from chemical reaction, e.g., DAP); Biofertilizer (live microorganisms, e.g., Rhizobium, VAM)."
@@ -1985,12 +1900,7 @@ D.  Biofertilizer                |  4.  Live microorganisms       |  iv.  Rhizob
     subject: "da-122",
     lecture: "lecture-30",
     lectureNo: 30,
-    question: "Match the advantages and constraints of INM:
-     Column-I (Aspect)           |  Column-II (Advantage)       |  Column-III (Constraint)
-A.  Soil health                  |  1.  Improves OM, microbial life|  i.  Bulky manures hard to transport
-B.  Nutrient supply              |  2.  Reduces fertilizer cost   |  ii. Slow nutrient release from organics
-C.  Environment                  |  3.  Reduces pollution/GHG     |  iii. Higher labour requirement
-D.  Economics                    |  4.  Optimises resource use    |  iv.  Higher initial investment",
+    question: "Match the advantages and constraints of INM:\n     Column-I (Aspect)           |  Column-II (Advantage)       |  Column-III (Constraint)\nA.  Soil health                  |  1.  Improves OM, microbial life|  i.  Bulky manures hard to transport\nB.  Nutrient supply              |  2.  Reduces fertilizer cost   |  ii. Slow nutrient release from organics\nC.  Environment                  |  3.  Reduces pollution/GHG     |  iii. Higher labour requirement\nD.  Economics                    |  4.  Optimises resource use    |  iv.  Higher initial investment",
     options: ["A-4-iv, B-4-iv,  C-2-ii,  D-1-i", "A-2-ii, B-3-iii, C-1-i,   D-4-iv", "A-1-i,  B-2-ii,  C-3-iii,  D-4-iv", "A-3-iii, B-1-i,  C-4-iv,  D-2-ii"],
     correct: 2,
     explanation: "As per DA-122 notes: INM advantages include improved soil health (OM, microbes), reduced pollution, and optimised resource use. Constraints include transport of bulky manures, slow nutrient release, and higher labour/initial investment."

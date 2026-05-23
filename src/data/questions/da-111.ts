@@ -804,7 +804,7 @@ export const da111Questions: Question[] = [
     options: ["Compulsorily certified or truthfully labelled always", "Used for human consumption as food material", "Free from pesticide treatment to ensure safety", "Produced in large quantities on commercial basis"],
     correct: 0,
     explanation: "Seed should be compulsorily certified/truthful labelled. Grain has no such condition. Seed should be viable, have maximum genetic and physical purity, and should satisfy minimum seed certification standards."
-  }
+  },
 
   // ── BATCH 2: Additional 100 questions from PJTSAU DA-111 Theory Notes (Plant Breeding, Seed Production & Certification) ──
   {
@@ -1512,8 +1512,7 @@ export const da111Questions: Question[] = [
     subject: "da-111",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "Assertion (A): Domestication is considered the most basic method of plant breeding.
-Reason (R): Domestication involves bringing wild species under human management and selecting them for desired traits over generations.",
+    question: "Assertion (A): Domestication is considered the most basic method of plant breeding.\nReason (R): Domestication involves bringing wild species under human management and selecting them for desired traits over generations.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-111 notes: Domestication is the most basic method of plant breeding. Both A and R are true; R correctly explains A."
@@ -1523,8 +1522,7 @@ Reason (R): Domestication involves bringing wild species under human management 
     subject: "da-111",
     lecture: "lecture-2",
     lectureNo: 2,
-    question: "Assertion (A): Dwarfness in cereal varieties is associated with lodging resistance.
-Reason (R): Dwarf varieties have shorter, stronger stems that can support the weight of heavy grain panicles without falling over.",
+    question: "Assertion (A): Dwarfness in cereal varieties is associated with lodging resistance.\nReason (R): Dwarf varieties have shorter, stronger stems that can support the weight of heavy grain panicles without falling over.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-111 notes: Dwarfness in cereals is generally associated with lodging resistance and better fertilizer response. Both A and R are true; R explains A."
@@ -1534,8 +1532,7 @@ Reason (R): Dwarf varieties have shorter, stronger stems that can support the we
     subject: "da-111",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Assertion (A): Monoecious plants have both male and female flowers on the same plant.
-Reason (R): Monoecious means 'one home' where both sexes are housed in the same individual plant.",
+    question: "Assertion (A): Monoecious plants have both male and female flowers on the same plant.\nReason (R): Monoecious means 'one home' where both sexes are housed in the same individual plant.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-111 notes: Monoecious plants have both male and female flowers on the same plant. The term means 'one home'. Both A and R are true."
@@ -1545,8 +1542,7 @@ Reason (R): Monoecious means 'one home' where both sexes are housed in the same 
     subject: "da-111",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Assertion (A): Each Megaspore Mother Cell (MMC) ultimately produces only one functional megaspore.
-Reason (R): MMC undergoes meiosis to produce four megaspores, but three of them degenerate, leaving only one functional megaspore.",
+    question: "Assertion (A): Each Megaspore Mother Cell (MMC) ultimately produces only one functional megaspore.\nReason (R): MMC undergoes meiosis to produce four megaspores, but three of them degenerate, leaving only one functional megaspore.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-111 notes: MMC produces four megaspores through meiosis; three degenerate, leaving one functional megaspore. Both A and R are true."
@@ -1556,8 +1552,7 @@ Reason (R): MMC undergoes meiosis to produce four megaspores, but three of them 
     subject: "da-111",
     lecture: "lecture-9",
     lectureNo: 9,
-    question: "Assertion (A): F1 hybrids show heterosis (hybrid vigor) in terms of yield and growth.
-Reason (R): Heterosis occurs due to the combination of superior alleles from both parents and dominance/overdominance effects in the F1 generation.",
+    question: "Assertion (A): F1 hybrids show heterosis (hybrid vigor) in terms of yield and growth.\nReason (R): Heterosis occurs due to the combination of superior alleles from both parents and dominance/overdominance effects in the F1 generation.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-111 notes: F1 hybrids show heterosis due to combination of superior alleles and dominance effects. Both A and R are true; R explains A."
@@ -1567,8 +1562,7 @@ Reason (R): Heterosis occurs due to the combination of superior alleles from bot
     subject: "da-111",
     lecture: "lecture-11",
     lectureNo: 11,
-    question: "Assertion (A): Mutation breeding uses both physical and chemical mutagens.
-Reason (R): Physical mutagens like X-rays and gamma rays and chemical mutagens like EMS alter DNA structure, creating new genetic variants.",
+    question: "Assertion (A): Mutation breeding uses both physical and chemical mutagens.\nReason (R): Physical mutagens like X-rays and gamma rays and chemical mutagens like EMS alter DNA structure, creating new genetic variants.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-111 notes: Mutation breeding uses both types of mutagens. H.J. Muller (1927) and L.J. Stadler (1928) laid the foundation for mutation breeding. Both A and R are true."
@@ -1578,8 +1572,7 @@ Reason (R): Physical mutagens like X-rays and gamma rays and chemical mutagens l
     subject: "da-111",
     lecture: "lecture-14",
     lectureNo: 14,
-    question: "Assertion (A): Male sterility is extensively used in hybrid seed production.
-Reason (R): Male sterile plants cannot produce pollen, so they must be fertilized by pollen from another line, ensuring all seeds are hybrids.",
+    question: "Assertion (A): Male sterility is extensively used in hybrid seed production.\nReason (R): Male sterile plants cannot produce pollen, so they must be fertilized by pollen from another line, ensuring all seeds are hybrids.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-111 notes: Male sterility prevents self-pollination, ensuring hybrid seed production when pollinated by fertile lines. Both A and R are true; R explains A."
@@ -1589,8 +1582,7 @@ Reason (R): Male sterile plants cannot produce pollen, so they must be fertilize
     subject: "da-111",
     lecture: "lecture-36",
     lectureNo: 36,
-    question: "Assertion (A): Nucleus seed is the highest quality class in the seed production chain.
-Reason (R): Nucleus seed is produced and maintained by the original plant breeder; it is the source from which all other seed classes are derived.",
+    question: "Assertion (A): Nucleus seed is the highest quality class in the seed production chain.\nReason (R): Nucleus seed is produced and maintained by the original plant breeder; it is the source from which all other seed classes are derived.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-111 notes: Nucleus seed is the highest quality class maintained by the breeder. All other seed classes (breeder, foundation, certified) are derived from it. Both A and R are true."
@@ -1600,8 +1592,7 @@ Reason (R): Nucleus seed is produced and maintained by the original plant breede
     subject: "da-111",
     lecture: "lecture-40",
     lectureNo: 40,
-    question: "Assertion (A): Seed certification ensures that only high quality seeds of notified varieties reach the farmer.
-Reason (R): Seed certification agencies conduct field inspections and laboratory tests to verify that seeds meet prescribed standards for genetic purity and quality.",
+    question: "Assertion (A): Seed certification ensures that only high quality seeds of notified varieties reach the farmer.\nReason (R): Seed certification agencies conduct field inspections and laboratory tests to verify that seeds meet prescribed standards for genetic purity and quality.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-111 notes: Seed certification ensures quality through field inspections and lab tests. Both A and R are true; R correctly explains A."
@@ -1611,8 +1602,7 @@ Reason (R): Seed certification agencies conduct field inspections and laboratory
     subject: "da-111",
     lecture: "lecture-44",
     lectureNo: 44,
-    question: "Assertion (A): Some pulse seeds have a hard seed coat that prevents germination.
-Reason (R): Hard seed dormancy is due to an impermeable seed coat that prevents water and gas uptake necessary for germination.",
+    question: "Assertion (A): Some pulse seeds have a hard seed coat that prevents germination.\nReason (R): Hard seed dormancy is due to an impermeable seed coat that prevents water and gas uptake necessary for germination.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-111 notes: Hard seed coat prevents water/gas uptake in many pulse seeds. Both A and R are true; R correctly explains A."
@@ -1622,8 +1612,7 @@ Reason (R): Hard seed dormancy is due to an impermeable seed coat that prevents 
     subject: "da-111",
     lecture: "lecture-48",
     lectureNo: 48,
-    question: "Assertion (A): Seeds should be stored at low moisture content to maintain viability.
-Reason (R): High moisture content promotes microbial activity, respiration, and fungal growth which rapidly deteriorate seeds in storage.",
+    question: "Assertion (A): Seeds should be stored at low moisture content to maintain viability.\nReason (R): High moisture content promotes microbial activity, respiration, and fungal growth which rapidly deteriorate seeds in storage.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-111 notes: Seeds at high moisture content lose viability quickly due to microbial growth and respiration. Low moisture (≤12%) is required for safe storage. Both A and R are true."
@@ -1633,8 +1622,7 @@ Reason (R): High moisture content promotes microbial activity, respiration, and 
     subject: "da-111",
     lecture: "lecture-2",
     lectureNo: 2,
-    question: "Assertion (A): Non-shattering characteristic is an important breeding objective in greengram.
-Reason (R): Shattering of pods at maturity causes significant yield loss in greengram before and during harvest.",
+    question: "Assertion (A): Non-shattering characteristic is an important breeding objective in greengram.\nReason (R): Shattering of pods at maturity causes significant yield loss in greengram before and during harvest.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-111 notes: Pod shattering is a serious problem in greengram, causing yield losses. Non-shattering is an important breeding objective. Both A and R are true."
@@ -1644,8 +1632,7 @@ Reason (R): Shattering of pods at maturity causes significant yield loss in gree
     subject: "da-111",
     lecture: "lecture-2",
     lectureNo: 2,
-    question: "Assertion (A): Development of photo and thermo-insensitive varieties helps in expanding crop cultivation area.
-Reason (R): Varieties sensitive to photoperiod and temperature are restricted to specific regions; insensitive varieties can be grown across different latitudes and seasons.",
+    question: "Assertion (A): Development of photo and thermo-insensitive varieties helps in expanding crop cultivation area.\nReason (R): Varieties sensitive to photoperiod and temperature are restricted to specific regions; insensitive varieties can be grown across different latitudes and seasons.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-111 notes: Photo and thermo-insensitive varieties of wheat and rice allowed their cultivation in new areas. Both A and R are true; R correctly explains A."
@@ -1655,8 +1642,7 @@ Reason (R): Varieties sensitive to photoperiod and temperature are restricted to
     subject: "da-111",
     lecture: "lecture-42",
     lectureNo: 42,
-    question: "Assertion (A): The tetrazolium (TZ) test is a quick method to assess seed viability.
-Reason (R): TZ salt is reduced to red-colored formazan by living (respiring) cells, staining viable embryo tissues red while dead tissue remains unstained.",
+    question: "Assertion (A): The tetrazolium (TZ) test is a quick method to assess seed viability.\nReason (R): TZ salt is reduced to red-colored formazan by living (respiring) cells, staining viable embryo tissues red while dead tissue remains unstained.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-111 notes: TZ test is a quick viability test. Living cells reduce TZ to red formazan; dead cells don't stain. Both A and R are true; R correctly explains A."
@@ -1666,8 +1652,7 @@ Reason (R): TZ salt is reduced to red-colored formazan by living (respiring) cel
     subject: "da-111",
     lecture: "lecture-61",
     lectureNo: 61,
-    question: "Assertion (A): Seed priming improves germination speed and uniformity.
-Reason (R): During priming, pre-germination metabolic activities occur within the seed, making it metabolically ready to germinate quickly when conditions are favorable.",
+    question: "Assertion (A): Seed priming improves germination speed and uniformity.\nReason (R): During priming, pre-germination metabolic activities occur within the seed, making it metabolically ready to germinate quickly when conditions are favorable.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-111 notes: Seed priming allows pre-germinative activities, improving germination speed and uniformity. Both A and R are true."
@@ -1677,12 +1662,7 @@ Reason (R): During priming, pre-germination metabolic activities occur within th
     subject: "da-111",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "Match the scientists with their contributions:
-     Column-I (Scientist)        |  Column-II (Year)            |  Column-III (Contribution)
-A.  Gregor John Mendel           |  1.  1953                     |  i.   Double helix DNA
-B.  Watson and Crick             |  2.  1914                     |  ii.  Coined 'heterosis'
-C.  G.H. Shull                   |  3.  1850                     |  iii. Laws of inheritance
-D.  Hugo de Vries                |  4.  1900                     |  iv.  First used term mutation",
+    question: "Match the scientists with their contributions:\n     Column-I (Scientist)        |  Column-II (Year)            |  Column-III (Contribution)\nA.  Gregor John Mendel           |  1.  1953                     |  i.   Double helix DNA\nB.  Watson and Crick             |  2.  1914                     |  ii.  Coined 'heterosis'\nC.  G.H. Shull                   |  3.  1850                     |  iii. Laws of inheritance\nD.  Hugo de Vries                |  4.  1900                     |  iv.  First used term mutation",
     options: ["A-1-i,   B-2-ii,  C-3-iii,  D-4-iv", "A-3-iii, B-1-i,   C-2-ii,   D-4-iv", "A-4-iv,  B-3-iii, C-1-i,    D-2-ii", "A-2-ii,  B-4-iv,  C-1-i,    D-3-iii"],
     correct: 1,
     explanation: "As per DA-111 notes: Mendel (1850) - Laws of inheritance; Watson & Crick (1953) - Double helix DNA; G.H. Shull (1914) - Coined heterosis; Hugo de Vries (1900) - First used term mutation."
@@ -1692,12 +1672,7 @@ D.  Hugo de Vries                |  4.  1900                     |  iv.  First u
     subject: "da-111",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "Match the crop breeding milestones:
-     Column-I (Crop)             |  Column-II (Year)            |  Column-III (Achievement)
-A.  Sugarcane                    |  1.  1961                     |  i.   First hybrid Ganga-1
-B.  Maize                        |  2.  1912                     |  ii.  SBI established at Coimbatore
-C.  Cotton                       |  3.  1965                     |  iii. CCRI established at Nagpur
-D.  Wheat                        |  4.  1964                     |  iv.  AICRP on wheat started",
+    question: "Match the crop breeding milestones:\n     Column-I (Crop)             |  Column-II (Year)            |  Column-III (Achievement)\nA.  Sugarcane                    |  1.  1961                     |  i.   First hybrid Ganga-1\nB.  Maize                        |  2.  1912                     |  ii.  SBI established at Coimbatore\nC.  Cotton                       |  3.  1965                     |  iii. CCRI established at Nagpur\nD.  Wheat                        |  4.  1964                     |  iv.  AICRP on wheat started",
     options: ["A-1-i,  B-2-ii,  C-4-iv,   D-3-iii", "A-4-iv, B-3-iii, C-1-i,    D-2-ii", "A-3-iii, B-4-iv, C-2-ii,   D-1-i", "A-2-ii, B-1-i,   C-3-iii,  D-4-iv"],
     correct: 3,
     explanation: "As per DA-111 notes: Sugarcane-1912 (SBI Coimbatore); Maize-1961 (Ganga-1, first hybrid); Cotton-1965 (CCRI Nagpur); Wheat-1964 (AICRP on wheat at IARI)."
@@ -1707,12 +1682,7 @@ D.  Wheat                        |  4.  1964                     |  iv.  AICRP o
     subject: "da-111",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Match the floral whorls with their components:
-     Column-I (Whorl)            |  Column-II (Components)      |  Column-III (Function)
-A.  Calyx                        |  1.  Stamens, anthers, filaments |  i.  Produces pollen
-B.  Corolla                      |  2.  Sepals               |  ii. Protects unopened bud
-C.  Androecium                   |  3.  Carpels (stigma, style, ovary) | iii. Produces ovules
-D.  Gynoecium                    |  4.  Petals               |  iv. Attracts pollinators",
+    question: "Match the floral whorls with their components:\n     Column-I (Whorl)            |  Column-II (Components)      |  Column-III (Function)\nA.  Calyx                        |  1.  Stamens, anthers, filaments |  i.  Produces pollen\nB.  Corolla                      |  2.  Sepals               |  ii. Protects unopened bud\nC.  Androecium                   |  3.  Carpels (stigma, style, ovary) | iii. Produces ovules\nD.  Gynoecium                    |  4.  Petals               |  iv. Attracts pollinators",
     options: ["A-1-i,  B-3-iii, C-2-ii,   D-4-iv", "A-2-ii, B-4-iv,  C-1-i,   D-3-iii", "A-4-iv, B-2-ii,  C-3-iii,  D-1-i", "A-3-iii, B-1-i,  C-4-iv,   D-2-ii"],
     correct: 1,
     explanation: "As per DA-111 notes: Calyx (sepals, protects bud); Corolla (petals, attracts pollinators); Androecium (stamens, produces pollen); Gynoecium (carpels, produces ovules)."
@@ -1722,12 +1692,7 @@ D.  Gynoecium                    |  4.  Petals               |  iv. Attracts pol
     subject: "da-111",
     lecture: "lecture-36",
     lectureNo: 36,
-    question: "Match the seed classes with their tag colours:
-     Column-I (Seed class)       |  Column-II (Tag colour)      |  Column-III (Produced by)
-A.  Nucleus seed                 |  1.  White                    |  i.   State Seed Corp/private
-B.  Breeder seed                 |  2.  No standard tag          |  ii.  Original plant breeder
-C.  Foundation seed              |  3.  Golden yellow            |  iii. Original plant breeder
-D.  Certified seed               |  4.  Blue                     |  iv.  Registered seed growers",
+    question: "Match the seed classes with their tag colours:\n     Column-I (Seed class)       |  Column-II (Tag colour)      |  Column-III (Produced by)\nA.  Nucleus seed                 |  1.  White                    |  i.   State Seed Corp/private\nB.  Breeder seed                 |  2.  No standard tag          |  ii.  Original plant breeder\nC.  Foundation seed              |  3.  Golden yellow            |  iii. Original plant breeder\nD.  Certified seed               |  4.  Blue                     |  iv.  Registered seed growers",
     options: ["A-3-iii, B-1-i,  C-4-iv,   D-2-ii", "A-2-ii, B-3-iii, C-1-i,   D-4-iv", "A-4-iv, B-2-ii,  C-3-iii,  D-1-i", "A-1-i,  B-4-iv,  C-2-ii,   D-3-iii"],
     correct: 1,
     explanation: "As per DA-111 notes: Nucleus seed (maintained by original breeder, no standard tag); Breeder seed (golden yellow, original breeder); Foundation seed (white, state seed corp); Certified seed (blue, registered growers)."
@@ -1737,12 +1702,7 @@ D.  Certified seed               |  4.  Blue                     |  iv.  Registe
     subject: "da-111",
     lecture: "lecture-43",
     lectureNo: 43,
-    question: "Match the dormancy types with their mechanisms:
-     Column-I (Dormancy type)    |  Column-II (Mechanism)       |  Column-III (Method to break)
-A.  Physical dormancy            |  1.  Immature embryo          |  i.   After-ripening (storage)
-B.  Physiological dormancy       |  2.  Inhibitory chemicals     |  ii.  Water washing, GA3
-C.  Chemical dormancy            |  3.  Impermeable seed coat    |  iii. Scarification
-D.  Morphological dormancy       |  4.  ABA, other inhibitors    |  iv.  Cold stratification",
+    question: "Match the dormancy types with their mechanisms:\n     Column-I (Dormancy type)    |  Column-II (Mechanism)       |  Column-III (Method to break)\nA.  Physical dormancy            |  1.  Immature embryo          |  i.   After-ripening (storage)\nB.  Physiological dormancy       |  2.  Inhibitory chemicals     |  ii.  Water washing, GA3\nC.  Chemical dormancy            |  3.  Impermeable seed coat    |  iii. Scarification\nD.  Morphological dormancy       |  4.  ABA, other inhibitors    |  iv.  Cold stratification",
     options: ["A-1-i,   B-2-ii,  C-3-iii,  D-4-iv", "A-3-iii, B-4-iv,  C-2-ii,   D-1-i", "A-2-ii,  B-3-iii, C-4-iv,   D-1-i", "A-4-iv,  B-1-i,   C-2-ii,   D-3-iii"],
     correct: 1,
     explanation: "As per DA-111 notes: Physical dormancy (impermeable coat, scarification); Physiological dormancy (ABA/inhibitors, cold stratification); Chemical dormancy (inhibitory chemicals, washing/GA3); Morphological dormancy (immature embryo, after-ripening)."
@@ -1752,12 +1712,7 @@ D.  Morphological dormancy       |  4.  ABA, other inhibitors    |  iv.  Cold st
     subject: "da-111",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Match the parts of the ovule with their descriptions:
-     Column-I (Part)             |  Column-II (Description)     |  Column-III (Function)
-A.  Funicle                      |  1.  Outer covering of ovule  |  i.   Protects ovule
-B.  Integuments                  |  2.  Stalk of ovule           |  ii.  Attachment to placenta
-C.  Micropyle                    |  3.  Female gametophyte       |  iii. Pollen tube entry
-D.  Embryo sac                   |  4.  Opening in integuments   |  iv.  Contains egg cell",
+    question: "Match the parts of the ovule with their descriptions:\n     Column-I (Part)             |  Column-II (Description)     |  Column-III (Function)\nA.  Funicle                      |  1.  Outer covering of ovule  |  i.   Protects ovule\nB.  Integuments                  |  2.  Stalk of ovule           |  ii.  Attachment to placenta\nC.  Micropyle                    |  3.  Female gametophyte       |  iii. Pollen tube entry\nD.  Embryo sac                   |  4.  Opening in integuments   |  iv.  Contains egg cell",
     options: ["A-4-iv, B-3-iii, C-2-ii,   D-1-i", "A-1-i,  B-2-ii,  C-3-iii,  D-4-iv", "A-2-ii, B-1-i,   C-4-iii,  D-3-iv", "A-3-iii, B-4-iv, C-1-i,    D-2-ii"],
     correct: 2,
     explanation: "As per DA-111 notes: Funicle (stalk, attachment to placenta); Integuments (outer covering, protection); Micropyle (opening, pollen tube entry); Embryo sac (female gametophyte, contains egg cell)."
@@ -1767,12 +1722,7 @@ D.  Embryo sac                   |  4.  Opening in integuments   |  iv.  Contain
     subject: "da-111",
     lecture: "lecture-2",
     lectureNo: 2,
-    question: "Match the breeding objectives with the crop examples:
-     Column-I (Objective)        |  Column-II (Crop)            |  Column-III (Substance/Feature)
-A.  Remove neurotoxin            |  1.  Brassica/Mustard         |  i.   Erucic acid removal
-B.  Remove erucic acid           |  2.  Cotton                   |  ii.  Gossypol removal
-C.  Remove gossypol              |  3.  Greengram                |  iii. Non-shattering
-D.  Non-shattering pods          |  4.  Khesari (Lathyrus)       |  iv.  ODAP neurotoxin removal",
+    question: "Match the breeding objectives with the crop examples:\n     Column-I (Objective)        |  Column-II (Crop)            |  Column-III (Substance/Feature)\nA.  Remove neurotoxin            |  1.  Brassica/Mustard         |  i.   Erucic acid removal\nB.  Remove erucic acid           |  2.  Cotton                   |  ii.  Gossypol removal\nC.  Remove gossypol              |  3.  Greengram                |  iii. Non-shattering\nD.  Non-shattering pods          |  4.  Khesari (Lathyrus)       |  iv.  ODAP neurotoxin removal",
     options: ["A-2-ii, B-3-iii, C-4-iv,   D-1-i", "A-3-iii, B-2-ii, C-1-i,    D-4-iv", "A-4-iv, B-1-i,   C-2-ii,   D-3-iii", "A-1-i,  B-4-iv,  C-3-iii,  D-2-ii"],
     correct: 2,
     explanation: "As per DA-111 notes: Khesari=ODAP neurotoxin removal; Brassica=Erucic acid removal; Cotton=Gossypol removal; Greengram=Non-shattering pods are key breeding objectives."
@@ -1782,12 +1732,7 @@ D.  Non-shattering pods          |  4.  Khesari (Lathyrus)       |  iv.  ODAP ne
     subject: "da-111",
     lecture: "lecture-38",
     lectureNo: 38,
-    question: "Match the seed quality tests with their parameters:
-     Column-I (Test)             |  Column-II (Parameter tested)|  Column-III (Method)
-A.  Germination test             |  1.  Seed moisture            |  i.   Hot air oven
-B.  Moisture content test        |  2.  Genetic purity           |  ii.  Field grow-out
-C.  Purity analysis              |  3.  % germination            |  iii. Sand/paper germination
-D.  Variety identification       |  4.  Physical purity          |  iv.  Blotter/mechanical separation",
+    question: "Match the seed quality tests with their parameters:\n     Column-I (Test)             |  Column-II (Parameter tested)|  Column-III (Method)\nA.  Germination test             |  1.  Seed moisture            |  i.   Hot air oven\nB.  Moisture content test        |  2.  Genetic purity           |  ii.  Field grow-out\nC.  Purity analysis              |  3.  % germination            |  iii. Sand/paper germination\nD.  Variety identification       |  4.  Physical purity          |  iv.  Blotter/mechanical separation",
     options: ["A-3-iii, B-1-i,   C-4-iv,   D-2-ii", "A-4-iv,  B-3-iii, C-1-i,    D-2-ii", "A-1-i,   B-2-ii,  C-3-iii,  D-4-iv", "A-2-ii,  B-4-iv,  C-1-i,    D-3-iii"],
     correct: 0,
     explanation: "As per DA-111 notes: Germination test (% germination, sand/blotter method); Moisture test (moisture content, hot air oven); Purity analysis (physical purity, mechanical separation); Variety identification (genetic purity, field grow-out)."
@@ -1797,12 +1742,7 @@ D.  Variety identification       |  4.  Physical purity          |  iv.  Blotter
     subject: "da-111",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "Match the sugarcane variety prefixes with their origins:
-     Column-I (Prefix)           |  Column-II (Origin state)    |  Column-III (Meaning)
-A.  CO                           |  1.  Bihar                    |  i.   Bihar Origin
-B.  BO                           |  2.  Coimbatore               |  ii.  Coimbatore Origin
-C.  TV (Tea)                     |  3.  All India                |  iii. Clonal variety
-D.  St (Tea seed)                |  4.  Jorhat                   |  iv.  Seed variety",
+    question: "Match the sugarcane variety prefixes with their origins:\n     Column-I (Prefix)           |  Column-II (Origin state)    |  Column-III (Meaning)\nA.  CO                           |  1.  Bihar                    |  i.   Bihar Origin\nB.  BO                           |  2.  Coimbatore               |  ii.  Coimbatore Origin\nC.  TV (Tea)                     |  3.  All India                |  iii. Clonal variety\nD.  St (Tea seed)                |  4.  Jorhat                   |  iv.  Seed variety",
     options: ["A-3-iii, B-4-iv, C-1-i,    D-2-ii", "A-2-ii, B-1-i,   C-3-iii,  D-4-iv", "A-1-i,  B-2-ii,  C-4-iv,   D-3-iii", "A-4-iv, B-3-iii, C-2-ii,   D-1-i"],
     correct: 1,
     explanation: "As per DA-111 notes: CO prefix=Coimbatore origin varieties; BO prefix=Bihar origin varieties; TV (tea)=clonal varieties from Jorhat; St=seed varieties from Jorhat."
@@ -1812,12 +1752,7 @@ D.  St (Tea seed)                |  4.  Jorhat                   |  iv.  Seed va
     subject: "da-111",
     lecture: "lecture-5",
     lectureNo: 5,
-    question: "Match the pollination types with their examples:
-     Column-I (Type)             |  Column-II (Crop example)    |  Column-III (Agent)
-A.  Self-pollination             |  1.  Papaya, date palm        |  i.   Insects/wind (other plant)
-B.  Cross-pollination            |  2.  Maize, castor            |  ii.  Same plant but different flowers
-C.  Allogamy (monoecious)        |  3.  Rice, wheat, pea         |  iii. Same flower
-D.  Dioecious cross              |  4.  Maize, cucumber          |  iv.  Insects/wind (separate plant)",
+    question: "Match the pollination types with their examples:\n     Column-I (Type)             |  Column-II (Crop example)    |  Column-III (Agent)\nA.  Self-pollination             |  1.  Papaya, date palm        |  i.   Insects/wind (other plant)\nB.  Cross-pollination            |  2.  Maize, castor            |  ii.  Same plant but different flowers\nC.  Allogamy (monoecious)        |  3.  Rice, wheat, pea         |  iii. Same flower\nD.  Dioecious cross              |  4.  Maize, cucumber          |  iv.  Insects/wind (separate plant)",
     options: ["A-1-i,   B-2-ii,  C-3-iii,  D-4-iv", "A-2-ii,  B-3-iii, C-4-iv,   D-1-i", "A-4-iv,  B-3-iii, C-1-i,    D-2-ii", "A-3-iii, B-1-iv,  C-2-ii,   D-4-i"],
     correct: 3,
     explanation: "As per DA-111 notes: Self-pollination (rice, wheat, pea - same flower); Cross-pollination/dioecious (papaya, date palm - separate plants, insects/wind); Monoecious allogamy (maize, castor - same plant different flowers); Dioecious cross (maize, cucumber - separate plant insects/wind)."
@@ -1827,12 +1762,7 @@ D.  Dioecious cross              |  4.  Maize, cucumber          |  iv.  Insects
     subject: "da-111",
     lecture: "lecture-10",
     lectureNo: 10,
-    question: "Match the breeding methods with the crop types:
-     Column-I (Breeding method)  |  Column-II (Suitable for)    |  Column-III (Main use)
-A.  Pure line selection          |  1.  Cross-pollinated crops   |  i.   Mass improvement
-B.  Mass selection               |  2.  Self-pollinated crops    |  ii.  Individual plant selection
-C.  Hybrid breeding              |  3.  Self-pollinated crops    |  iii. Exploiting heterosis
-D.  Backcross breeding           |  4.  Both crop types          |  iv.  Gene transfer",
+    question: "Match the breeding methods with the crop types:\n     Column-I (Breeding method)  |  Column-II (Suitable for)    |  Column-III (Main use)\nA.  Pure line selection          |  1.  Cross-pollinated crops   |  i.   Mass improvement\nB.  Mass selection               |  2.  Self-pollinated crops    |  ii.  Individual plant selection\nC.  Hybrid breeding              |  3.  Self-pollinated crops    |  iii. Exploiting heterosis\nD.  Backcross breeding           |  4.  Both crop types          |  iv.  Gene transfer",
     options: ["A-3-iii, B-4-iv, C-2-ii,   D-1-i", "A-2-ii, B-4-i,   C-1-iii,  D-3-iv", "A-1-i,  B-2-ii,  C-3-iii,  D-4-iv", "A-4-iv, B-3-iii, C-1-i,    D-2-ii"],
     correct: 1,
     explanation: "As per DA-111 notes: Pure line selection (self-pollinated, individual plant selection); Mass selection (both types, mass improvement); Hybrid breeding (cross-pollinated, exploiting heterosis); Backcross breeding (both types, gene transfer)."
@@ -1842,12 +1772,7 @@ D.  Backcross breeding           |  4.  Both crop types          |  iv.  Gene tr
     subject: "da-111",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Match the embryo sac components with their roles:
-     Column-I (Component)        |  Column-II (Number)          |  Column-III (Role/Function)
-A.  Egg cell                     |  1.  3 cells                  |  i.   Later degenerate
-B.  Synergids                    |  2.  1 cell                   |  ii.  Female gamete, forms embryo
-C.  Antipodal cells              |  3.  2 nuclei                 |  iii. Guide pollen tube
-D.  Polar nuclei                 |  4.  2 cells                  |  iv.  Fuse with sperm to form endosperm",
+    question: "Match the embryo sac components with their roles:\n     Column-I (Component)        |  Column-II (Number)          |  Column-III (Role/Function)\nA.  Egg cell                     |  1.  3 cells                  |  i.   Later degenerate\nB.  Synergids                    |  2.  1 cell                   |  ii.  Female gamete, forms embryo\nC.  Antipodal cells              |  3.  2 nuclei                 |  iii. Guide pollen tube\nD.  Polar nuclei                 |  4.  2 cells                  |  iv.  Fuse with sperm to form endosperm",
     options: ["A-1-i,  B-3-iii, C-4-iv,   D-2-ii", "A-4-iv, B-1-i,   C-2-ii,   D-3-iii", "A-2-ii, B-4-iii,  C-1-i,   D-3-iv", "A-3-iii, B-2-ii, C-1-i,    D-4-iv"],
     correct: 2,
     explanation: "As per DA-111 notes: Egg cell (1 cell, female gamete, forms embryo); Synergids (2 cells, guide pollen tube, then degenerate); Antipodal cells (3 cells, later degenerate); Polar nuclei (2 nuclei, fuse with sperm to form triploid endosperm)."
@@ -1857,12 +1782,7 @@ D.  Polar nuclei                 |  4.  2 cells                  |  iv.  Fuse wi
     subject: "da-111",
     lecture: "lecture-2",
     lectureNo: 2,
-    question: "Match the crop with maturity duration improvements through plant breeding:
-     Column-I (Crop)             |  Column-II (Original duration)|  Column-III (Reduced duration)
-A.  Cotton                       |  1.  360 days                 |  i.   270 days
-B.  Pigeonpea                    |  2.  270 days                 |  ii.  120 days
-C.  Sugarcane                    |  3.  270 days                 |  iii. 170 days
-D.  Sugarcane (further reduced)  |  4.  360 days                 |  iv.  270 days (same as C)",
+    question: "Match the crop with maturity duration improvements through plant breeding:\n     Column-I (Crop)             |  Column-II (Original duration)|  Column-III (Reduced duration)\nA.  Cotton                       |  1.  360 days                 |  i.   270 days\nB.  Pigeonpea                    |  2.  270 days                 |  ii.  120 days\nC.  Sugarcane                    |  3.  270 days                 |  iii. 170 days\nD.  Sugarcane (further reduced)  |  4.  360 days                 |  iv.  270 days (same as C)",
     options: ["A-3-iii, B-2-ii,  C-4-i,   D-1-iv", "A-4-iv,  B-1-i,   C-3-iii,  D-2-ii", "A-1-i,   B-4-iv,  C-2-iii,  D-3-ii", "A-2-iii, B-3-ii,  C-1-i,   D-4-iv"],
     correct: 0,
     explanation: "As per DA-111 notes: Cotton: 270 days → 170 days; Pigeonpea: 270 days → 120 days; Sugarcane: 360 days → 270 days."
@@ -1872,12 +1792,7 @@ D.  Sugarcane (further reduced)  |  4.  360 days                 |  iv.  270 day
     subject: "da-111",
     lecture: "lecture-37",
     lectureNo: 37,
-    question: "Match the seed quality parameters with their importance:
-     Column-I (Parameter)        |  Column-II (Standard)        |  Column-III (Test used)
-A.  Germination (rice certified) |  1.  12% or below             |  i.   Hot air oven
-B.  Germination (wheat certified)|  2.  80% minimum              |  ii.  Blotter/sand germination
-C.  Moisture content (cereals)   |  3.  85% minimum              |  iii. Blotter/sand germination
-D.  Seed vigour                  |  4.  Not fixed, high preferred|  iv.  Accelerated aging test",
+    question: "Match the seed quality parameters with their importance:\n     Column-I (Parameter)        |  Column-II (Standard)        |  Column-III (Test used)\nA.  Germination (rice certified) |  1.  12% or below             |  i.   Hot air oven\nB.  Germination (wheat certified)|  2.  80% minimum              |  ii.  Blotter/sand germination\nC.  Moisture content (cereals)   |  3.  85% minimum              |  iii. Blotter/sand germination\nD.  Seed vigour                  |  4.  Not fixed, high preferred|  iv.  Accelerated aging test",
     options: ["A-3-iii, B-2-ii,  C-1-i,   D-4-iv", "A-2-ii, B-3-iii,  C-1-i,   D-4-iv", "A-1-i,   B-4-iv,  C-2-ii,  D-3-iii", "A-4-iv,  B-1-i,   C-3-iii,  D-2-ii"],
     correct: 1,
     explanation: "As per DA-111 notes: Germination rice certified seed: 80% minimum; Germination wheat certified: 85% minimum; Moisture cereals: 12% or below (hot air oven); Seed vigour: accelerated aging test."
@@ -1887,12 +1802,7 @@ D.  Seed vigour                  |  4.  Not fixed, high preferred|  iv.  Acceler
     subject: "da-111",
     lecture: "lecture-41",
     lectureNo: 41,
-    question: "Match the seed treatment chemicals with their action:
-     Column-I (Chemical)         |  Column-II (Type)            |  Column-III (Target pathogen/pest)
-A.  Thiram (TMTD)                |  1.  Systemic fungicide       |  i.   Soil-borne and seed-borne fungi
-B.  Carbendazim                  |  2.  Contact fungicide        |  ii.  Blast, blight in cereals
-C.  Imidacloprid                 |  3.  Neonicotinoid insecticide|  iii. Sucking pests, aphids
-D.  Trichoderma viride           |  4.  Biocontrol agent         |  iv.  Soil-borne fungi (eco-friendly)",
+    question: "Match the seed treatment chemicals with their action:\n     Column-I (Chemical)         |  Column-II (Type)            |  Column-III (Target pathogen/pest)\nA.  Thiram (TMTD)                |  1.  Systemic fungicide       |  i.   Soil-borne and seed-borne fungi\nB.  Carbendazim                  |  2.  Contact fungicide        |  ii.  Blast, blight in cereals\nC.  Imidacloprid                 |  3.  Neonicotinoid insecticide|  iii. Sucking pests, aphids\nD.  Trichoderma viride           |  4.  Biocontrol agent         |  iv.  Soil-borne fungi (eco-friendly)",
     options: ["A-3-iii, B-4-iv, C-1-i,    D-2-ii", "A-2-ii, B-1-i,   C-3-iii,  D-4-iv", "A-1-i,  B-2-ii,  C-4-iv,   D-3-iii", "A-4-iv, B-3-iii, C-2-ii,   D-1-i"],
     correct: 1,
     explanation: "As per DA-111 notes: Thiram (contact fungicide, soil/seed-borne fungi); Carbendazim (systemic fungicide, blast/blight); Imidacloprid (neonicotinoid insecticide, sucking pests); Trichoderma viride (biocontrol, soil-borne fungi)."

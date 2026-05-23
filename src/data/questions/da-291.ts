@@ -883,8 +883,7 @@ export const da291Questions: Question[] = [
   },
   {
     id: "d291_111", subject: "Agricultural Extension Education",
-    question: "Assertion (A): Change in attitude is the most important behavioral change in extension education.
-Reason (R): Even if knowledge and skills are improved in SRI method, unless farmers' attitude becomes positive towards SRI, implementation does not happen.",
+    question: "Assertion (A): Change in attitude is the most important behavioral change in extension education.\nReason (R): Even if knowledge and skills are improved in SRI method, unless farmers' attitude becomes positive towards SRI, implementation does not happen.",
     options: ["A is false but R is true", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "Both are true and R directly explains A - the SRI example demonstrates that attitude change is crucial; knowledge and skills alone are insufficient for adoption of new practices.",
@@ -924,8 +923,7 @@ Reason (R): Even if knowledge and skills are improved in SRI method, unless farm
   },
   {
     id: "d291_116", subject: "Agricultural Extension Education",
-    question: "Assertion (A): Lecture is the best extension teaching method to teach new practical skills to farmers.
-Reason (R): Method demonstration is described as the best extension teaching method to teach people.",
+    question: "Assertion (A): Lecture is the best extension teaching method to teach new practical skills to farmers.\nReason (R): Method demonstration is described as the best extension teaching method to teach people.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 1,
     explanation: "A is false - lecture has limitations for teaching practical skills (it's only useful when no equipment is needed). R is true - the course material states method demonstration is the best extension teaching method.",
@@ -957,10 +955,7 @@ Reason (R): Method demonstration is described as the best extension teaching met
   },
   {
     id: "d291_120", subject: "Agricultural Extension Education",
-    question: "Three-column matching: Match the extension teaching method type, its reach, and its limitation:
-Col A: 1-Individual method, 2-Group method, 3-Mass method
-Col B: P-Reaches few people, Q-Reaches medium group, R-Reaches largest number
-Col C: i-Recommendations may not apply to individual needs, ii-Chance of disputes among people, iii-May miss targeted groups",
+    question: "Three-column matching: Match the extension teaching method type, its reach, and its limitation:\nCol A: 1-Individual method, 2-Group method, 3-Mass method\nCol B: P-Reaches few people, Q-Reaches medium group, R-Reaches largest number\nCol C: i-Recommendations may not apply to individual needs, ii-Chance of disputes among people, iii-May miss targeted groups",
     options: ["1-P-iii, 2-Q-ii, 3-R-i", "1-Q-ii, 2-R-i, 3-P-iii", "1-R-i, 2-P-iii, 3-Q-ii", "1-P-i, 2-Q-iii, 3-R-ii"],
     correct: 0,
     explanation: "Individual method reaches few people (P) with risk of missing targeted groups (iii); Group method reaches medium group (Q) with risk of disputes (ii); Mass method reaches largest number (R) with recommendations not meeting individual needs (i).",
@@ -992,8 +987,7 @@ Col C: i-Recommendations may not apply to individual needs, ii-Chance of dispute
   },
   {
     id: "d291_124", subject: "Agricultural Extension Education",
-    question: "Assertion (A): The Etawah project became the prototype for Community Development Programme.
-Reason (R): The Etawah project was later spread to 300 villages and eventually to four other centers of Uttar Pradesh.",
+    question: "Assertion (A): The Etawah project became the prototype for Community Development Programme.\nReason (R): The Etawah project was later spread to 300 villages and eventually to four other centers of Uttar Pradesh.",
     options: ["A is false but R is true", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 2,
     explanation: "Both are true. The project spread from 64 to 300 villages and to four UP centers (R) and became the prototype for CDP and NES (A). But R's spread describes its success, not why it became a prototype.",
@@ -1033,10 +1027,7 @@ Reason (R): The Etawah project was later spread to 300 villages and eventually t
   },
   {
     id: "d291_129", subject: "Agricultural Extension Education",
-    question: "Three-column matching: Match the community development principle, its requirement, and its rationale:
-Col A: 1-Local leadership, 2-Participation of women and youth, 3-Voluntary NGOs
-Col B: P-Identification and training, Q-Involvement in programmes, R-Utilization of non-government resources
-Col C: i-Ensures fruits of development for most people, ii-Works at local, national and international levels, iii-Encouragement for sustainable development",
+    question: "Three-column matching: Match the community development principle, its requirement, and its rationale:\nCol A: 1-Local leadership, 2-Participation of women and youth, 3-Voluntary NGOs\nCol B: P-Identification and training, Q-Involvement in programmes, R-Utilization of non-government resources\nCol C: i-Ensures fruits of development for most people, ii-Works at local, national and international levels, iii-Encouragement for sustainable development",
     options: ["1-P-iii, 2-Q-i, 3-R-ii", "1-P-i, 2-R-ii, 3-Q-iii", "1-R-ii, 2-Q-iii, 3-P-i", "1-Q-i, 2-P-ii, 3-R-iii"],
     correct: 0,
     explanation: "Local leadership (P-identification/training, iii-encouragement/sustainable development); Women and youth (Q-involvement, i-fruits for most people); Voluntary NGOs (R-non-government resources, ii-local/national/international).",
@@ -1076,8 +1067,7 @@ Col C: i-Ensures fruits of development for most people, ii-Works at local, natio
   },
   {
     id: "d291_134", subject: "Agricultural Extension Education",
-    question: "Assertion (A): The concept of democracy as 'of the people, for the people and by the people' was given by Abraham Lincoln.
-Reason (R): Panchayati Raj was introduced to ensure people's participation in governance at the local level.",
+    question: "Assertion (A): The concept of democracy as 'of the people, for the people and by the people' was given by Abraham Lincoln.\nReason (R): Panchayati Raj was introduced to ensure people's participation in governance at the local level.",
     options: ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"],
     correct: 1,
     explanation: "Both are true - Lincoln gave the definition of democracy (A), and Panchayati Raj ensures local participation (R). But R explains the purpose of Panchayati Raj, not the Lincoln quote.",
@@ -1109,8 +1099,7 @@ Reason (R): Panchayati Raj was introduced to ensure people's participation in go
   },
   {
     id: "d291_138", subject: "Agricultural Extension Education",
-    question: "Assertion (A): Agricultural extension was first used in America before spreading to other countries.
-Reason (R): India was the first country to implement agricultural extension services to help farmers adopt improved varieties.",
+    question: "Assertion (A): Agricultural extension was first used in America before spreading to other countries.\nReason (R): India was the first country to implement agricultural extension services to help farmers adopt improved varieties.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 1,
     explanation: "A is true - extension was first used in America in agriculture and home science. R is false - America implemented it first, not India; the land grant college model from USA was adopted by Indian universities.",
@@ -1118,10 +1107,7 @@ Reason (R): India was the first country to implement agricultural extension serv
   },
   {
     id: "d291_139", subject: "Agricultural Extension Education",
-    question: "Three-column matching: Match the development programme, its year, and its key feature:
-Col A: 1-CDP, 2-Panchayati Raj, 3-NES
-Col B: P-1952, Q-1953, R-1959
-Col C: i-Three tier local governance, ii-55 projects with 300 villages each, iii-National Extension Service",
+    question: "Three-column matching: Match the development programme, its year, and its key feature:\nCol A: 1-CDP, 2-Panchayati Raj, 3-NES\nCol B: P-1952, Q-1953, R-1959\nCol C: i-Three tier local governance, ii-55 projects with 300 villages each, iii-National Extension Service",
     options: ["1-P-ii, 2-R-i, 3-Q-iii", "1-R-i, 2-Q-iii, 3-P-ii", "1-P-iii, 2-R-ii, 3-Q-i", "1-Q-iii, 2-P-ii, 3-R-i"],
     correct: 0,
     explanation: "CDP was started in 1952 (P) with 55 projects of 300 villages each (ii); Panchayati Raj was 1959 (R) with three-tier governance (i); NES was National Extension Service 1953 (Q-iii).",
@@ -1145,8 +1131,7 @@ Col C: i-Three tier local governance, ii-55 projects with 300 villages each, iii
   },
   {
     id: "d291_142", subject: "Agricultural Extension Education",
-    question: "Assertion (A): Office visits are an advantage for extension officers as farmers come to the office to clarify their issues, saving the officer's time.
-Reason (R): Office visits ensure that the extension officer can demonstrate methods that are applicable in day-to-day life at villages.",
+    question: "Assertion (A): Office visits are an advantage for extension officers as farmers come to the office to clarify their issues, saving the officer's time.\nReason (R): Office visits ensure that the extension officer can demonstrate methods that are applicable in day-to-day life at villages.",
     options: ["Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A"],
     correct: 1,
     explanation: "A is true - office visits save extension officer's time as farmers come to them. R is false - a limitation of office visits is that 'methods available at office may not be possible to implement in day-to-day life at villages.'",
@@ -1170,10 +1155,7 @@ Reason (R): Office visits ensure that the extension officer can demonstrate meth
   },
   {
     id: "d291_145", subject: "Agricultural Extension Education",
-    question: "Three-column matching: Match the KAS behavioral change, its example, and its importance:
-Col A: 1-Knowledge change, 2-Skill change (physical), 3-Attitude change
-Col B: P-Farmers learning SRI method steps, Q-Extension worker teaching WTO to paddy farmers, R-Changing from paddy to flower cultivation
-Col C: i-Usually neglected but most important, ii-Improving awareness on facts, iii-Ability to do work physically",
+    question: "Three-column matching: Match the KAS behavioral change, its example, and its importance:\nCol A: 1-Knowledge change, 2-Skill change (physical), 3-Attitude change\nCol B: P-Farmers learning SRI method steps, Q-Extension worker teaching WTO to paddy farmers, R-Changing from paddy to flower cultivation\nCol C: i-Usually neglected but most important, ii-Improving awareness on facts, iii-Ability to do work physically",
     options: ["1-P-iii, 2-Q-ii, 3-R-i", "1-Q-i, 2-R-iii, 3-P-ii", "1-Q-ii, 2-P-iii, 3-R-i", "1-R-i, 2-Q-ii, 3-P-iii"],
     correct: 2,
     explanation: "Knowledge change: WTO training to farmers (Q) improves awareness (ii); Physical skill change: learning SRI steps (P) = physical ability (iii); Attitude change: shifting from paddy to flowers (R) is most important but neglected (i).",
@@ -1205,8 +1187,7 @@ Col C: i-Usually neglected but most important, ii-Improving awareness on facts, 
   },
   {
     id: "d291_149", subject: "Agricultural Extension Education",
-    question: "Assertion (A): In extension education, 6 to 9 different teaching methods should be used to stimulate learning.
-Reason (R): Using multiple methods compensates for limitations of individual methods and reaches different types of learners.",
+    question: "Assertion (A): In extension education, 6 to 9 different teaching methods should be used to stimulate learning.\nReason (R): Using multiple methods compensates for limitations of individual methods and reaches different types of learners.",
     options: ["A is false but R is true", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "Both are true. The course material states 6-9 methods should be used to stimulate learning (A), and R correctly explains why - multiple methods overcome limitations and reach diverse learners.",
@@ -1222,10 +1203,7 @@ Reason (R): Using multiple methods compensates for limitations of individual met
   },
   {
     id: "d291_151", subject: "Agricultural Extension Education",
-    question: "Three-column matching: Match the information material, its target audience, and its defining feature:
-Col A: 1-Leaflet, 2-Pamphlet, 3-Bulletin
-Col B: P-General farmers, Q-Literate farmers seeking detail, R-Scientific community
-Col C: i-Comprehensive, authoritative document, ii-Few pages on specific topic, iii-Single sheet with brief information",
+    question: "Three-column matching: Match the information material, its target audience, and its defining feature:\nCol A: 1-Leaflet, 2-Pamphlet, 3-Bulletin\nCol B: P-General farmers, Q-Literate farmers seeking detail, R-Scientific community\nCol C: i-Comprehensive, authoritative document, ii-Few pages on specific topic, iii-Single sheet with brief information",
     options: ["1-R-i, 2-P-iii, 3-Q-ii", "1-Q-ii, 2-P-iii, 3-R-i", "1-P-i, 2-R-iii, 3-Q-ii", "1-P-iii, 2-Q-ii, 3-R-i"],
     correct: 3,
     explanation: "Leaflet targets general farmers (P) with single-sheet brief information (iii); Pamphlet targets literate farmers (Q) with few pages on specific topic (ii); Bulletin targets scientific community (R) with comprehensive documents (i).",
@@ -1257,8 +1235,7 @@ Col C: i-Comprehensive, authoritative document, ii-Few pages on specific topic, 
   },
   {
     id: "d291_155", subject: "Agricultural Extension Education",
-    question: "Assertion (A): The Community Development Programme was launched on Gandhi Jayanti (2nd October) 1952.
-Reason (R): Gandhi Jayanti was chosen because Gandhiji's Sevagram experiment in 1921 inspired the CDP model.",
+    question: "Assertion (A): The Community Development Programme was launched on Gandhi Jayanti (2nd October) 1952.\nReason (R): Gandhi Jayanti was chosen because Gandhiji's Sevagram experiment in 1921 inspired the CDP model.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 1,
     explanation: "A is true - CDP was launched on 2nd October 1952 (Gandhi Jayanti). R is speculative/false - the official reason for choosing this date is to honor Gandhi's birthday and his legacy of rural development, but the CDP was based on the Etawah project model, not directly the Sevagram model.",
@@ -1274,10 +1251,7 @@ Reason (R): Gandhi Jayanti was chosen because Gandhiji's Sevagram experiment in 
   },
   {
     id: "d291_157", subject: "Agricultural Extension Education",
-    question: "Three-column matching: Match the principle of extension education, its focus, and its role:
-Col A: 1-Every individual has extraordinary importance, 2-The house is the basic unit of civilization, 3-Family has to be trained primarily
-Col B: P-Democracy principle, Q-Social structure principle, R-Community training principle
-Col C: i-Improves community through family improvement, ii-Values each person in democratic extension, iii-Home as foundation of society",
+    question: "Three-column matching: Match the principle of extension education, its focus, and its role:\nCol A: 1-Every individual has extraordinary importance, 2-The house is the basic unit of civilization, 3-Family has to be trained primarily\nCol B: P-Democracy principle, Q-Social structure principle, R-Community training principle\nCol C: i-Improves community through family improvement, ii-Values each person in democratic extension, iii-Home as foundation of society",
     options: ["1-P-i, 2-R-ii, 3-Q-iii", "1-R-iii, 2-Q-i, 3-P-ii", "1-Q-i, 2-P-ii, 3-R-iii", "1-P-ii, 2-Q-iii, 3-R-i"],
     correct: 3,
     explanation: "Every individual has importance (P-democracy, ii-values each person); House is basic unit (Q-social structure, iii-home as foundation); Family trained primarily (R-community training, i-improves community through family).",
@@ -1301,8 +1275,7 @@ Col C: i-Improves community through family improvement, ii-Values each person in
   },
   {
     id: "d291_160", subject: "Agricultural Extension Education",
-    question: "Assertion (A): The extension educational process is continuous because after reconsideration, if new situations require further work, the whole process begins again.
-Reason (R): Extension education aims at one-time technology transfer from research institutions to farmers.",
+    question: "Assertion (A): The extension educational process is continuous because after reconsideration, if new situations require further work, the whole process begins again.\nReason (R): Extension education aims at one-time technology transfer from research institutions to farmers.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 1,
     explanation: "A is true - the process is cyclical and continuous (Reconsideration reveals new situations and the process repeats). R is false - extension education is not one-time transfer but an ongoing educational process.",
@@ -1326,10 +1299,7 @@ Reason (R): Extension education aims at one-time technology transfer from resear
   },
   {
     id: "d291_163", subject: "Agricultural Extension Education",
-    question: "Three-column matching: Match the post-independence development program, its year, and its characteristic:
-Col A: 1-Firka scheme, 2-Etawah project, 3-Nilokheri scheme
-Col B: P-1946, Q-1947, R-1948
-Col C: i-64 villages expanding to 300, prototype for CDP, ii-Self-sufficiency for refugees called Mazdoor Manzil, iii-34 firkas for all-round development",
+    question: "Three-column matching: Match the post-independence development program, its year, and its characteristic:\nCol A: 1-Firka scheme, 2-Etawah project, 3-Nilokheri scheme\nCol B: P-1946, Q-1947, R-1948\nCol C: i-64 villages expanding to 300, prototype for CDP, ii-Self-sufficiency for refugees called Mazdoor Manzil, iii-34 firkas for all-round development",
     options: ["1-R-i, 2-Q-ii, 3-P-iii", "1-Q-ii, 2-P-iii, 3-R-i", "1-P-iii, 2-R-i, 3-Q-ii", "1-P-i, 2-Q-iii, 3-R-ii"],
     correct: 2,
     explanation: "Firka (P-1946, iii-34 firkas for all-round development); Etawah (R-1948, i-64 to 300 villages, CDP prototype); Nilokheri (Q-1947, ii-refugee self-sufficiency called Mazdoor Manzil).",
@@ -1369,8 +1339,7 @@ Col C: i-64 villages expanding to 300, prototype for CDP, ii-Self-sufficiency fo
   },
   {
     id: "d291_168", subject: "Agricultural Extension Education",
-    question: "Assertion (A): Extension education aims to bring desirable change in rural people's behavior regarding farm, home, and community.
-Reason (R): KVKs (Krishi Vigyan Kendras) were established to implement extension education at district level.",
+    question: "Assertion (A): Extension education aims to bring desirable change in rural people's behavior regarding farm, home, and community.\nReason (R): KVKs (Krishi Vigyan Kendras) were established to implement extension education at district level.",
     options: ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"],
     correct: 1,
     explanation: "Both A and R are true - extension education aims for behavioral change in farm/home/community (A), and KVKs implement extension at district level (R). But KVKs' existence does not explain the definition of extension education.",
@@ -1386,10 +1355,7 @@ Reason (R): KVKs (Krishi Vigyan Kendras) were established to implement extension
   },
   {
     id: "d291_170", subject: "Agricultural Extension Education",
-    question: "Three-column matching: Match the DA-291 chapter, its number, and its key topic:
-Col A: 1-Chapter I, 2-Chapter IV, 3-Chapter XV
-Col B: P-Education, Q-Extension Teaching Methods, R-Panchayati Raj System
-Col C: i-Gram panchayat, samiti, zilla parishad, ii-Formal/informal/non-formal education, iii-Individual/group/mass methods",
+    question: "Three-column matching: Match the DA-291 chapter, its number, and its key topic:\nCol A: 1-Chapter I, 2-Chapter IV, 3-Chapter XV\nCol B: P-Education, Q-Extension Teaching Methods, R-Panchayati Raj System\nCol C: i-Gram panchayat, samiti, zilla parishad, ii-Formal/informal/non-formal education, iii-Individual/group/mass methods",
     options: ["1-Q-iii, 2-R-i, 3-P-ii", "1-R-i, 2-P-ii, 3-Q-iii", "1-P-i, 2-Q-ii, 3-R-iii", "1-P-ii, 2-Q-iii, 3-R-i"],
     correct: 3,
     explanation: "Chapter I covers Education (P) with formal/informal/non-formal types (ii); Chapter IV covers Extension Teaching Methods (Q) with individual/group/mass methods (iii); Chapter XV covers Panchayati Raj (R) with three-tier system (i).",
@@ -1413,8 +1379,7 @@ Col C: i-Gram panchayat, samiti, zilla parishad, ii-Formal/informal/non-formal e
   },
   {
     id: "d291_173", subject: "Agricultural Extension Education",
-    question: "Assertion (A): The Panchayat Samiti operates at the block/intermediate level.
-Reason (R): The Zilla Parishad is the highest tier of the three-tier Panchayati Raj system, operating at the district level.",
+    question: "Assertion (A): The Panchayat Samiti operates at the block/intermediate level.\nReason (R): The Zilla Parishad is the highest tier of the three-tier Panchayati Raj system, operating at the district level.",
     options: ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"],
     correct: 1,
     explanation: "Both A and R are true - Panchayat Samiti is at block level (A) and Zilla Parishad is the highest tier at district level (R). But R's description of Zilla Parishad does not explain why Panchayat Samiti is at block level.",
@@ -1430,10 +1395,7 @@ Reason (R): The Zilla Parishad is the highest tier of the three-tier Panchayati 
   },
   {
     id: "d291_175", subject: "Agricultural Extension Education",
-    question: "Three-column matching: Match the advantage, the extension method it belongs to, and the reason:
-Col A: 1-Saves extension officer's time, 2-Possibility of learning by seeing at different stages, 3-Reaches largest number in shortest time
-Col B: P-Result demonstration, Q-Office calls, R-Mass methods
-Col C: i-Suitable for creating awareness, ii-Realistic demonstration of methods, iii-Farmers bring their own queries",
+    question: "Three-column matching: Match the advantage, the extension method it belongs to, and the reason:\nCol A: 1-Saves extension officer's time, 2-Possibility of learning by seeing at different stages, 3-Reaches largest number in shortest time\nCol B: P-Result demonstration, Q-Office calls, R-Mass methods\nCol C: i-Suitable for creating awareness, ii-Realistic demonstration of methods, iii-Farmers bring their own queries",
     options: ["1-Q-i, 2-R-iii, 3-P-ii", "1-Q-iii, 2-P-ii, 3-R-i", "1-P-ii, 2-Q-i, 3-R-iii", "1-R-i, 2-Q-iii, 3-P-ii"],
     correct: 1,
     explanation: "Saves time belongs to office calls (Q) where farmers come with their own queries (iii); Learning by seeing at stages belongs to result demonstration (P) with realistic demonstration (ii); Largest number belongs to mass methods (R) suitable for awareness (i).",
@@ -1457,8 +1419,7 @@ Col C: i-Suitable for creating awareness, ii-Realistic demonstration of methods,
   },
   {
     id: "d291_178", subject: "Agricultural Extension Education",
-    question: "Assertion (A): Agricultural extension is a service to farmers on use of improved varieties and latest agricultural developments to bring desirable change.
-Reason (R): Agricultural extension was first developed in India as part of post-independence rural development.",
+    question: "Assertion (A): Agricultural extension is a service to farmers on use of improved varieties and latest agricultural developments to bring desirable change.\nReason (R): Agricultural extension was first developed in India as part of post-independence rural development.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 1,
     explanation: "A is true - agricultural extension is a service to farmers. R is false - agricultural extension was first developed in America (USA), not India.",
@@ -1474,10 +1435,7 @@ Reason (R): Agricultural extension was first developed in India as part of post-
   },
   {
     id: "d291_180", subject: "Agricultural Extension Education",
-    question: "Three-column matching: Match the pre-independence project, its distinguishing feature, and its location:
-Col A: 1-Srinikethan (1914), 2-Marthandam (1921), 3-Nilokheri (1947)
-Col B: P-Self-sufficiency for refugees (Mazdoor Manzil), Q-First rural development attempt with Tagore, R-Dr Spencer H's project with cottage industries focus
-Col C: i-Kerala, ii-West Bengal, iii-Punjab/adjoining villages",
+    question: "Three-column matching: Match the pre-independence project, its distinguishing feature, and its location:\nCol A: 1-Srinikethan (1914), 2-Marthandam (1921), 3-Nilokheri (1947)\nCol B: P-Self-sufficiency for refugees (Mazdoor Manzil), Q-First rural development attempt with Tagore, R-Dr Spencer H's project with cottage industries focus\nCol C: i-Kerala, ii-West Bengal, iii-Punjab/adjoining villages",
     options: ["1-R-i, 2-Q-ii, 3-P-iii", "1-P-iii, 2-Q-ii, 3-R-i", "1-Q-ii, 2-R-i, 3-P-iii", "1-Q-i, 2-R-ii, 3-P-iii"],
     correct: 2,
     explanation: "Srinikethan (Q-first rural development with Tagore, ii-West Bengal); Marthandam (R-Dr Spencer H with cottage industries, i-Kerala); Nilokheri (P-refugee self-sufficiency/Mazdoor Manzil, iii-Punjab/India).",
@@ -1501,8 +1459,7 @@ Col C: i-Kerala, ii-West Bengal, iii-Punjab/adjoining villages",
   },
   {
     id: "d291_183", subject: "Agricultural Extension Education",
-    question: "Assertion (A): The Community Development Programme (CDP) and Panchayati Raj are separate but complementary systems.
-Reason (R): CDP without people's participation could not achieve expected results, leading to the introduction of Panchayati Raj for democratic decentralization.",
+    question: "Assertion (A): The Community Development Programme (CDP) and Panchayati Raj are separate but complementary systems.\nReason (R): CDP without people's participation could not achieve expected results, leading to the introduction of Panchayati Raj for democratic decentralization.",
     options: ["A is false but R is true", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "Both are true and R explains A - CDP could not succeed without people's participation, leading to Panchayati Raj as the democratic mechanism for local participation, making them complementary systems.",
@@ -1518,10 +1475,7 @@ Reason (R): CDP without people's participation could not achieve expected result
   },
   {
     id: "d291_185", subject: "Agricultural Extension Education",
-    question: "Three-column matching: Match the principle of community development, its core requirement, and its outcome:
-Col A: 1-Needs of people, 2-Change of attitudes, 3-Assistance by government
-Col B: P-Government support for self-help projects, Q-Meeting minimum requirements, R-Attitude change in early development stages
-Col C: i-Effective community development programmes, ii-Successful programme implementation, iii-Comprehensive and balanced development",
+    question: "Three-column matching: Match the principle of community development, its core requirement, and its outcome:\nCol A: 1-Needs of people, 2-Change of attitudes, 3-Assistance by government\nCol B: P-Government support for self-help projects, Q-Meeting minimum requirements, R-Attitude change in early development stages\nCol C: i-Effective community development programmes, ii-Successful programme implementation, iii-Comprehensive and balanced development",
     options: ["1-P-i, 2-Q-ii, 3-R-iii", "1-Q-i, 2-R-iii, 3-P-ii", "1-Q-iii, 2-R-ii, 3-P-i", "1-R-ii, 2-P-i, 3-Q-iii"],
     correct: 2,
     explanation: "Needs of people (Q-meeting requirements, iii-balanced development); Change of attitudes (R-early attitude change, ii-successful implementation); Government assistance (P-support for self-help, i-effective programmes).",
@@ -1553,8 +1507,7 @@ Col C: i-Effective community development programmes, ii-Successful programme imp
   },
   {
     id: "d291_189", subject: "Agricultural Extension Education",
-    question: "Assertion (A): Non-formal education uses evaluation more informally than formal education.
-Reason (R): Non-formal education is more problem-oriented and situation-specific, not requiring standardized formal examinations.",
+    question: "Assertion (A): Non-formal education uses evaluation more informally than formal education.\nReason (R): Non-formal education is more problem-oriented and situation-specific, not requiring standardized formal examinations.",
     options: ["A is false but R is true", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "Both are true - non-formal education uses more informal evaluation (A) because it is problem-oriented and specific to situations rather than requiring standardized exams (R), and R correctly explains why A is true.",
@@ -1562,10 +1515,7 @@ Reason (R): Non-formal education is more problem-oriented and situation-specific
   },
   {
     id: "d291_190", subject: "Agricultural Extension Education",
-    question: "Three-column matching: Match the extension principle, its statement, and its application:
-Col A: 1-Importance of individual, 2-House as basic unit, 3-Primary family training
-Col B: P-Every individual has extraordinary importance in democracy, Q-The house is the basic unit of civilization, R-Primarily family has to be trained in human society
-Col C: i-Community improvement starts at family level, ii-Respect for each farmer's views and needs, iii-Home improvement is the foundation of development",
+    question: "Three-column matching: Match the extension principle, its statement, and its application:\nCol A: 1-Importance of individual, 2-House as basic unit, 3-Primary family training\nCol B: P-Every individual has extraordinary importance in democracy, Q-The house is the basic unit of civilization, R-Primarily family has to be trained in human society\nCol C: i-Community improvement starts at family level, ii-Respect for each farmer's views and needs, iii-Home improvement is the foundation of development",
     options: ["1-P-i, 2-Q-ii, 3-R-iii", "1-R-i, 2-P-ii, 3-Q-iii", "1-Q-iii, 2-R-i, 3-P-ii", "1-P-ii, 2-Q-iii, 3-R-i"],
     correct: 3,
     explanation: "Importance of individual (P - every individual extraordinary in democracy, ii-respect for each farmer); House as basic unit (Q - house is basic unit, iii-home improvement is foundation); Family training (R - family trained primarily, i-community improvement starts at family).",
@@ -1589,8 +1539,7 @@ Col C: i-Community improvement starts at family level, ii-Respect for each farme
   },
   {
     id: "d291_193", subject: "Agricultural Extension Education",
-    question: "Assertion (A): Extension education sometimes compared to commercial salesmanship.
-Reason (R): Extension workers primarily aim to make commercial profits from technology transfer to farmers.",
+    question: "Assertion (A): Extension education sometimes compared to commercial salesmanship.\nReason (R): Extension workers primarily aim to make commercial profits from technology transfer to farmers.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 1,
     explanation: "A is true - extension is compared to salesmanship as workers convince farmers about new technologies. R is false - extension workers aim for farmers' development, not commercial profit.",
@@ -1598,10 +1547,7 @@ Reason (R): Extension workers primarily aim to make commercial profits from tech
   },
   {
     id: "d291_194", subject: "Agricultural Extension Education",
-    question: "Three-column matching: Match the objective of agricultural extension, its category, and its example:
-Col A: 1-Disseminate information, 2-Assist in problem discovery, 3-Keep researchers informed
-Col B: P-Research-farmer linkage, Q-Information dissemination, R-Problem identification
-Col C: i-Farmer reports pest outbreak to scientists, ii-Training on new paddy variety, iii-Extension worker helps farmers identify felt/unfelt needs",
+    question: "Three-column matching: Match the objective of agricultural extension, its category, and its example:\nCol A: 1-Disseminate information, 2-Assist in problem discovery, 3-Keep researchers informed\nCol B: P-Research-farmer linkage, Q-Information dissemination, R-Problem identification\nCol C: i-Farmer reports pest outbreak to scientists, ii-Training on new paddy variety, iii-Extension worker helps farmers identify felt/unfelt needs",
     options: ["1-Q-iii, 2-R-i, 3-P-ii", "1-Q-ii, 2-R-iii, 3-P-i", "1-P-i, 2-Q-ii, 3-R-iii", "1-R-iii, 2-P-i, 3-Q-ii"],
     correct: 1,
     explanation: "Disseminate information (Q-info dissemination, ii-variety training); Assist problem discovery (R-problem identification, iii-felt/unfelt needs); Keep researchers informed (P-research-farmer linkage, i-farmer reports pest outbreak).",
@@ -1625,8 +1571,7 @@ Col C: i-Farmer reports pest outbreak to scientists, ii-Training on new paddy va
   },
   {
     id: "d291_197", subject: "Agricultural Extension Education",
-    question: "Assertion (A): Extension education programs should use teaching methods that allow farmers to learn by watching, listening, and doing.
-Reason (R): Farmers as non-formal learners retain information better through multi-sensory experiences than through reading alone.",
+    question: "Assertion (A): Extension education programs should use teaching methods that allow farmers to learn by watching, listening, and doing.\nReason (R): Farmers as non-formal learners retain information better through multi-sensory experiences than through reading alone.",
     options: ["A is false but R is true", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "Both are true and R explains A - the need to use watching, listening, doing methods (A) is because non-formal learners retain information better through multi-sensory experiences (R).",
@@ -1642,10 +1587,7 @@ Reason (R): Farmers as non-formal learners retain information better through mul
   },
   {
     id: "d291_199", subject: "Agricultural Extension Education",
-    question: "Three-column matching: Match the community development programme phase, its characteristic activity, and its objective:
-Col A: 1-Early stage, 2-Integrated phase, 3-Work phase
-Col B: P-Provision of staff accommodation and transport, Q-Completing pending works, R-Implementing targeted programmes
-Col C: i-Completing pending programmes, ii-Infrastructure establishment, iii-Achievement of set development targets",
+    question: "Three-column matching: Match the community development programme phase, its characteristic activity, and its objective:\nCol A: 1-Early stage, 2-Integrated phase, 3-Work phase\nCol B: P-Provision of staff accommodation and transport, Q-Completing pending works, R-Implementing targeted programmes\nCol C: i-Completing pending programmes, ii-Infrastructure establishment, iii-Achievement of set development targets",
     options: ["1-P-ii, 2-Q-i, 3-R-iii", "1-P-iii, 2-Q-ii, 3-R-i", "1-R-iii, 2-P-ii, 3-Q-i", "1-Q-i, 2-R-iii, 3-P-ii"],
     correct: 0,
     explanation: "Early stage (P-accommodation/transport, ii-infrastructure establishment); Integrated phase (Q-completing pending works, i-completing pending programmes); Work phase (R-implementing programmes, iii-achieving targets).",

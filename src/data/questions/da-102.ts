@@ -800,7 +800,7 @@ export const da102Questions: Question[] = [
     options: ["3–4 quintal per hectare", "6–8 quintal per hectare", "8–10 quintal per hectare", "5–6 quintal per hectare"],
     correct: 0,
     explanation: "Cowpea grain yield is 3–4 q/ha. Fodder yield is much higher at 14 t/ha. Cowpea productivity averages 600–750 kg/ha in India."
-  }
+  },
 
   // ── BATCH 2: Additional 100 questions from PJTSAU DA-102 Theory Notes (Crop Production-I) ──
   {
@@ -1508,8 +1508,7 @@ export const da102Questions: Question[] = [
     subject: "da-102",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "Assertion (A): Rice is the most important food crop for Asian countries.
-Reason (R): 90% of world rice is cultivated in Asian countries, and it is the staple food for over 60% of the world population.",
+    question: "Assertion (A): Rice is the most important food crop for Asian countries.\nReason (R): 90% of world rice is cultivated in Asian countries, and it is the staple food for over 60% of the world population.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-102 notes: Both statements are true. 90% of rice is grown in Asia and it feeds 60%+ of world population. R correctly explains A."
@@ -1519,8 +1518,7 @@ Reason (R): 90% of world rice is cultivated in Asian countries, and it is the st
     subject: "da-102",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "Assertion (A): Rice is a short-day plant.
-Reason (R): Rice requires long nights (short days) to initiate flowering, though modern improved varieties are often non-sensitive to photoperiod.",
+    question: "Assertion (A): Rice is a short-day plant.\nReason (R): Rice requires long nights (short days) to initiate flowering, though modern improved varieties are often non-sensitive to photoperiod.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-102 notes: Rice is photoperiodically a short-day plant, though many modern varieties are non-sensitive. Both A and R are true."
@@ -1530,8 +1528,7 @@ Reason (R): Rice requires long nights (short days) to initiate flowering, though
     subject: "da-102",
     lecture: "lecture-2",
     lectureNo: 2,
-    question: "Assertion (A): Dry nursery for rice is prepared in dry soil conditions.
-Reason (R): Dry nursery is particularly useful during periods of delayed canal water availability.",
+    question: "Assertion (A): Dry nursery for rice is prepared in dry soil conditions.\nReason (R): Dry nursery is particularly useful during periods of delayed canal water availability.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-102 notes: Dry nursery is prepared in dry conditions and is handy in times of delayed receipt of canal water. Both A and R are true."
@@ -1541,8 +1538,7 @@ Reason (R): Dry nursery is particularly useful during periods of delayed canal w
     subject: "da-102",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Assertion (A): Shallow planting (3 cm depth) is recommended for rice transplanting.
-Reason (R): Shallow planting promotes quick establishment and encourages formation of more tillers.",
+    question: "Assertion (A): Shallow planting (3 cm depth) is recommended for rice transplanting.\nReason (R): Shallow planting promotes quick establishment and encourages formation of more tillers.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-102 notes: Shallow planting at 3 cm ensures quick establishment and more tillers. Both A and R are true; R correctly explains A."
@@ -1552,8 +1548,7 @@ Reason (R): Shallow planting promotes quick establishment and encourages formati
     subject: "da-102",
     lecture: "lecture-5",
     lectureNo: 5,
-    question: "Assertion (A): Azolla is raised as a dual crop in rice for the wet season.
-Reason (R): Azolla fixes atmospheric nitrogen and adds organic matter when incorporated, benefiting rice crop.",
+    question: "Assertion (A): Azolla is raised as a dual crop in rice for the wet season.\nReason (R): Azolla fixes atmospheric nitrogen and adds organic matter when incorporated, benefiting rice crop.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-102 notes: Azolla is raised as a dual crop in wet season rice and incorporated during weeding. It fixes N and adds OM. Both A and R are true."
@@ -1563,8 +1558,7 @@ Reason (R): Azolla fixes atmospheric nitrogen and adds organic matter when incor
     subject: "da-102",
     lecture: "lecture-8",
     lectureNo: 8,
-    question: "Assertion (A): Maize has the highest productivity among all grain crops.
-Reason (R): Maize is a C4 plant with high photosynthetic efficiency and responds well to improved management practices.",
+    question: "Assertion (A): Maize has the highest productivity among all grain crops.\nReason (R): Maize is a C4 plant with high photosynthetic efficiency and responds well to improved management practices.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-102 notes: Maize has highest productivity among grain crops. Its C4 photosynthesis contributes to high efficiency. Both A and R are true."
@@ -1574,8 +1568,7 @@ Reason (R): Maize is a C4 plant with high photosynthetic efficiency and responds
     subject: "da-102",
     lecture: "lecture-17",
     lectureNo: 17,
-    question: "Assertion (A): Ragi is considered a healthy food for diabetic patients.
-Reason (R): Ragi has a low glycaemic index and is rich in dietary fibre, which helps control blood sugar levels.",
+    question: "Assertion (A): Ragi is considered a healthy food for diabetic patients.\nReason (R): Ragi has a low glycaemic index and is rich in dietary fibre, which helps control blood sugar levels.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-102 notes: Ragi is one of the important foods for diabetic patients. Its high fibre content helps control diabetes. Both A and R are true."
@@ -1585,8 +1578,7 @@ Reason (R): Ragi has a low glycaemic index and is rich in dietary fibre, which h
     subject: "da-102",
     lecture: "lecture-18",
     lectureNo: 18,
-    question: "Assertion (A): Pulse crops generally have lower yields than cereal crops.
-Reason (R): Pulses have indeterminate growth habit, susceptibility to lodging, and pod shattering which reduce harvestable yield.",
+    question: "Assertion (A): Pulse crops generally have lower yields than cereal crops.\nReason (R): Pulses have indeterminate growth habit, susceptibility to lodging, and pod shattering which reduce harvestable yield.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-102 notes: Pulses have lower yields than cereals due to indeterminate growth, lodging, and pod shattering. Both A and R are true; R explains A."
@@ -1596,8 +1588,7 @@ Reason (R): Pulses have indeterminate growth habit, susceptibility to lodging, a
     subject: "da-102",
     lecture: "lecture-23",
     lectureNo: 23,
-    question: "Assertion (A): Minor millets are major staple food for tribal people in drought and hilly areas.
-Reason (R): Minor millets are drought-tolerant crops that can survive in low rainfall conditions and can be stored for 2-3 years.",
+    question: "Assertion (A): Minor millets are major staple food for tribal people in drought and hilly areas.\nReason (R): Minor millets are drought-tolerant crops that can survive in low rainfall conditions and can be stored for 2-3 years.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-102 notes: Minor millets are staple food for tribal people in drought areas. They are drought-tolerant and storable for 2-3 years. Both A and R are true."
@@ -1607,8 +1598,7 @@ Reason (R): Minor millets are drought-tolerant crops that can survive in low rai
     subject: "da-102",
     lecture: "lecture-4",
     lectureNo: 4,
-    question: "Assertion (A): The SRI method of rice cultivation uses very low seed rate (2 kg/acre).
-Reason (R): In SRI, young (15 days) single seedlings are transplanted with wide spacing, requiring much less seed than conventional methods.",
+    question: "Assertion (A): The SRI method of rice cultivation uses very low seed rate (2 kg/acre).\nReason (R): In SRI, young (15 days) single seedlings are transplanted with wide spacing, requiring much less seed than conventional methods.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-102 notes: SRI uses only 2 kg/acre seed because young single seedlings are transplanted at wide spacing. Both A and R are true; R explains A."
@@ -1618,8 +1608,7 @@ Reason (R): In SRI, young (15 days) single seedlings are transplanted with wide 
     subject: "da-102",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Assertion (A): Nursery/seedlings beyond 60 days should not be planted in rice.
-Reason (R): Aged seedlings have reduced tillering capacity and transplanting shock is severe, leading to poor crop establishment.",
+    question: "Assertion (A): Nursery/seedlings beyond 60 days should not be planted in rice.\nReason (R): Aged seedlings have reduced tillering capacity and transplanting shock is severe, leading to poor crop establishment.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-102 notes: Seedlings beyond 60 days should not be planted. Yield will be reduced with aged seedlings. Both A and R are true."
@@ -1629,8 +1618,7 @@ Reason (R): Aged seedlings have reduced tillering capacity and transplanting sho
     subject: "da-102",
     lecture: "lecture-5",
     lectureNo: 5,
-    question: "Assertion (A): N and K are applied in four equal splits in rice.
-Reason (R): Split application reduces nutrient loss through leaching and volatilization, ensuring nutrients are available at critical growth stages.",
+    question: "Assertion (A): N and K are applied in four equal splits in rice.\nReason (R): Split application reduces nutrient loss through leaching and volatilization, ensuring nutrients are available at critical growth stages.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-102 notes: N and K are applied in four equal splits (basal, tillering, PI, heading) to match crop demand and reduce losses. Both A and R are true."
@@ -1640,8 +1628,7 @@ Reason (R): Split application reduces nutrient loss through leaching and volatil
     subject: "da-102",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "Assertion (A): Rice cultivation extends from 8°N to 35°N latitude in India.
-Reason (R): Rice is adapted to widely varying conditions of altitude and climate, being grown from sea level up to 3000 metres.",
+    question: "Assertion (A): Rice cultivation extends from 8°N to 35°N latitude in India.\nReason (R): Rice is adapted to widely varying conditions of altitude and climate, being grown from sea level up to 3000 metres.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-102 notes: Rice cultivation in India extends from 8° to 35°N latitude and from sea level to 3000 m altitude. Both A and R are true."
@@ -1651,8 +1638,7 @@ Reason (R): Rice is adapted to widely varying conditions of altitude and climate
     subject: "da-102",
     lecture: "lecture-2",
     lectureNo: 2,
-    question: "Assertion (A): Heavy clay soils are preferred for rice cultivation.
-Reason (R): Rice requires good water retention in the soil due to its semi-aquatic nature and high water demand.",
+    question: "Assertion (A): Heavy clay soils are preferred for rice cultivation.\nReason (R): Rice requires good water retention in the soil due to its semi-aquatic nature and high water demand.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-102 notes: Soils with good water retention (heavy soils with clay and organic matter) are ideal for rice due to its semi-aquatic nature. Both A and R are true."
@@ -1662,8 +1648,7 @@ Reason (R): Rice requires good water retention in the soil due to its semi-aquat
     subject: "da-102",
     lecture: "lecture-4",
     lectureNo: 4,
-    question: "Assertion (A): MTU-1010 was replaced by Bathukamma in Rabi paddy cultivation in Telangana.
-Reason (R): MTU-1010 has a grain shedding character at harvesting time during Rabi season, causing significant yield losses.",
+    question: "Assertion (A): MTU-1010 was replaced by Bathukamma in Rabi paddy cultivation in Telangana.\nReason (R): MTU-1010 has a grain shedding character at harvesting time during Rabi season, causing significant yield losses.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-102 notes: Bathukamma (JGL 18047) was released as alternative to MTU-1010 because MTU-1010 has grain shedding character in Rabi. Both A and R are true."
@@ -1673,12 +1658,7 @@ Reason (R): MTU-1010 has a grain shedding character at harvesting time during Ra
     subject: "da-102",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "Match the crop with its scientific name and family:
-     Column-I (Crop)             |  Column-II (Scientific name) |  Column-III (Family)
-A.  Rice                         |  1.  Zea mays                 |  i.   Poaceae
-B.  Maize                        |  2.  Eleusine coracana        |  ii.  Poaceae
-C.  Ragi                         |  3.  Pennisetum glaucum       |  iii. Poaceae
-D.  Bajra                        |  4.  Oryza sativa             |  iv.  Poaceae",
+    question: "Match the crop with its scientific name and family:\n     Column-I (Crop)             |  Column-II (Scientific name) |  Column-III (Family)\nA.  Rice                         |  1.  Zea mays                 |  i.   Poaceae\nB.  Maize                        |  2.  Eleusine coracana        |  ii.  Poaceae\nC.  Ragi                         |  3.  Pennisetum glaucum       |  iii. Poaceae\nD.  Bajra                        |  4.  Oryza sativa             |  iv.  Poaceae",
     options: ["A-3-iii, B-4-iv, C-1-i,    D-2-ii", "A-2-ii, B-3-iii, C-4-iv,   D-1-i", "A-4-iv, B-1-i,   C-2-ii,   D-3-iii", "A-1-i,  B-2-ii,  C-3-iii,  D-4-iv"],
     correct: 2,
     explanation: "As per DA-102 notes: Rice (Oryza sativa, Poaceae); Maize (Zea mays, Poaceae); Ragi (Eleusine coracana, Poaceae); Bajra (Pennisetum glaucum, Poaceae)."
@@ -1688,12 +1668,7 @@ D.  Bajra                        |  4.  Oryza sativa             |  iv.  Poaceae
     subject: "da-102",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "Match the pulse crops with their scientific names:
-     Column-I (Crop)             |  Column-II (Scientific name) |  Column-III (Common name)
-A.  Redgram                      |  1.  Vigna radiata            |  i.   Moong
-B.  Blackgram                    |  2.  Cajanus cajan            |  ii.  Pigeon pea
-C.  Greengram                    |  3.  Vigna unguiculata        |  iii. Cowpea
-D.  Cowpea                       |  4.  Vigna mungo              |  iv.  Urad",
+    question: "Match the pulse crops with their scientific names:\n     Column-I (Crop)             |  Column-II (Scientific name) |  Column-III (Common name)\nA.  Redgram                      |  1.  Vigna radiata            |  i.   Moong\nB.  Blackgram                    |  2.  Cajanus cajan            |  ii.  Pigeon pea\nC.  Greengram                    |  3.  Vigna unguiculata        |  iii. Cowpea\nD.  Cowpea                       |  4.  Vigna mungo              |  iv.  Urad",
     options: ["A-4-iv, B-3-iii, C-2-ii,   D-1-i", "A-3-iii, B-1-i,  C-4-iv,   D-2-ii", "A-1-i,  B-2-ii,  C-3-iii,  D-4-iv", "A-2-ii, B-4-iv,  C-1-i,   D-3-iii"],
     correct: 3,
     explanation: "As per DA-102 notes: Redgram=Cajanus cajan (Pigeon pea); Blackgram=Vigna mungo (Urad); Greengram=Vigna radiata (Moong); Cowpea=Vigna unguiculata."
@@ -1703,12 +1678,7 @@ D.  Cowpea                       |  4.  Vigna mungo              |  iv.  Urad",
     subject: "da-102",
     lecture: "lecture-4",
     lectureNo: 4,
-    question: "Match the rice varieties with their characteristics:
-     Column-I (Variety)          |  Column-II (Code No.)        |  Column-III (Specialty)
-A.  Telangana Sona               |  1.  JGL 18047                |  i.   Alt. for MTU-1010 in Rabi
-B.  Kunaramsannalu               |  2.  WGL-44                   |  ii.  Kharif only, 150 days
-C.  Bathukamma                   |  3.  KNM 118                  |  iii. Alt. for MTU-1010, kharif+rabi
-D.  Siddi                        |  4.  RNR 15048                |  iv.  Blast resistant, 15-day dormancy",
+    question: "Match the rice varieties with their characteristics:\n     Column-I (Variety)          |  Column-II (Code No.)        |  Column-III (Specialty)\nA.  Telangana Sona               |  1.  JGL 18047                |  i.   Alt. for MTU-1010 in Rabi\nB.  Kunaramsannalu               |  2.  WGL-44                   |  ii.  Kharif only, 150 days\nC.  Bathukamma                   |  3.  KNM 118                  |  iii. Alt. for MTU-1010, kharif+rabi\nD.  Siddi                        |  4.  RNR 15048                |  iv.  Blast resistant, 15-day dormancy",
     options: ["A-1-i,  B-2-ii,  C-3-iii,  D-4-iv", "A-3-iii, B-1-i,  C-2-ii,   D-4-iv", "A-2-ii, B-4-iv,  C-3-iii,  D-1-i", "A-4-iv, B-3-iii, C-1-i,   D-2-ii"],
     correct: 3,
     explanation: "As per DA-102 notes: Telangana Sona=RNR 15048 (blast resistant, 15-day dormancy); Kunaramsannalu=KNM 118 (alt for MTU-1010); Bathukamma=JGL 18047 (alt for MTU-1010 Rabi); Siddi=WGL-44 (kharif only, 150 days)."
@@ -1718,12 +1688,7 @@ D.  Siddi                        |  4.  RNR 15048                |  iv.  Blast r
     subject: "da-102",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Match the rice variety duration with transplanting details:
-     Column-I (Variety type)     |  Column-II (Spacing)         |  Column-III (Tillers/m²)
-A.  Long duration (>150 days)    |  1.  15×10 cm                 |  i.   66
-B.  Medium duration (125-135 d)  |  2.  15×15 cm                 |  ii.  44
-C.  Short duration (110-120 d)   |  3.  20×15 cm                 |  iii. 33
-D.  Rabi season (general)        |  4.  15×10 cm                 |  iv.  Dense planting",
+    question: "Match the rice variety duration with transplanting details:\n     Column-I (Variety type)     |  Column-II (Spacing)         |  Column-III (Tillers/m²)\nA.  Long duration (>150 days)    |  1.  15×10 cm                 |  i.   66\nB.  Medium duration (125-135 d)  |  2.  15×15 cm                 |  ii.  44\nC.  Short duration (110-120 d)   |  3.  20×15 cm                 |  iii. 33\nD.  Rabi season (general)        |  4.  15×10 cm                 |  iv.  Dense planting",
     options: ["A-2-ii,  B-3-iii, C-4-iv,  D-1-i", "A-4-iv,  B-1-i,  C-2-ii,   D-3-iii", "A-1-i,   B-2-ii, C-3-iii,  D-4-iv", "A-3-iii, B-2-ii, C-1-i,   D-4-iv"],
     correct: 3,
     explanation: "As per DA-102 notes: Long duration (>150 days): 20×15 cm, 33 tillers/m²; Medium duration (125-135 days): 15×15 cm, 44 tillers/m²; Short duration: 15×10 cm, 66 tillers/m²."
@@ -1733,12 +1698,7 @@ D.  Rabi season (general)        |  4.  15×10 cm                 |  iv.  Dense 
     subject: "da-102",
     lecture: "lecture-4",
     lectureNo: 4,
-    question: "Match the rice sowing methods with their seed rates:
-     Column-I (Method)           |  Column-II (Seed rate/acre)  |  Column-III (Condition)
-A.  SRI method                   |  1.  24-30 kg                 |  i.   Normal water conditions
-B.  Broadcasting                 |  2.  20-25 kg                 |  ii.  Direct seeded
-C.  Dry paddy                    |  3.  30-36 kg                 |  iii. Rainfed with seed drill
-D.  Seed drill                   |  4.  2 kg                     |  iv.  Very low seed, young seedlings",
+    question: "Match the rice sowing methods with their seed rates:\n     Column-I (Method)           |  Column-II (Seed rate/acre)  |  Column-III (Condition)\nA.  SRI method                   |  1.  24-30 kg                 |  i.   Normal water conditions\nB.  Broadcasting                 |  2.  20-25 kg                 |  ii.  Direct seeded\nC.  Dry paddy                    |  3.  30-36 kg                 |  iii. Rainfed with seed drill\nD.  Seed drill                   |  4.  2 kg                     |  iv.  Very low seed, young seedlings",
     options: ["A-1-i,  B-4-iv,  C-3-iii,  D-2-ii", "A-2-ii, B-3-iii, C-1-i,    D-4-iv", "A-3-iii, B-2-ii, C-4-iv,   D-1-i", "A-4-iv, B-1-i,   C-2-ii,   D-3-iii"],
     correct: 3,
     explanation: "As per DA-102 notes: SRI=2 kg/acre; Broadcasting=24-30 kg/acre; Dry paddy=20-25 kg/acre; Seed drill (rainfed)=30-36 kg/acre."
@@ -1748,12 +1708,7 @@ D.  Seed drill                   |  4.  2 kg                     |  iv.  Very lo
     subject: "da-102",
     lecture: "lecture-5",
     lectureNo: 5,
-    question: "Match the biofertilisers used in rice:
-     Column-I (Biofertiliser)    |  Column-II (Rate)            |  Column-III (Application time)
-A.  Blue Green Algae             |  1.  250 kg/ha                |  i.   3-5 DAT, incorporated during weeding
-B.  Azolla                       |  2.  10 kg/ha (powder)        |  ii.  10 DAT for dry season
-C.  Azospirillum                 |  3.  2000 g/ha (10 packets)   |  iii. Before transplanting
-D.  Phosphobacteria              |  4.  2000 g/ha (10 packets)   |  iv.  Before transplanting with FYM",
+    question: "Match the biofertilisers used in rice:\n     Column-I (Biofertiliser)    |  Column-II (Rate)            |  Column-III (Application time)\nA.  Blue Green Algae             |  1.  250 kg/ha                |  i.   3-5 DAT, incorporated during weeding\nB.  Azolla                       |  2.  10 kg/ha (powder)        |  ii.  10 DAT for dry season\nC.  Azospirillum                 |  3.  2000 g/ha (10 packets)   |  iii. Before transplanting\nD.  Phosphobacteria              |  4.  2000 g/ha (10 packets)   |  iv.  Before transplanting with FYM",
     options: ["A-3-iii, B-4-iv, C-1-i,    D-2-ii", "A-2-ii, B-1-i,   C-3-iii,  D-4-iv", "A-1-i,  B-2-ii,  C-4-iv,   D-3-iii", "A-4-iv, B-3-iii, C-2-ii,   D-1-i"],
     correct: 1,
     explanation: "As per DA-102 notes: BGA: 10 kg/ha at 10 DAT (dry season); Azolla: 250 kg/ha at 3-5 DAT (wet season); Azospirillum: 2000 g/ha before transplanting; Phosphobacteria: 2000 g/ha before transplanting."
@@ -1763,12 +1718,7 @@ D.  Phosphobacteria              |  4.  2000 g/ha (10 packets)   |  iv.  Before 
     subject: "da-102",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "Match the rice by-products with their uses:
-     Column-I (By-product)       |  Column-II (Industry)        |  Column-III (Specific use)
-A.  Rice bran oil                |  1.  Poultry industry         |  i.   Litter material
-B.  Rice husk                    |  2.  Soap industry            |  ii.  Oil extraction, soap making
-C.  Paddy straw                  |  3.  Cardboard industry       |  iii. Insulating, cementing agent
-D.  Defatted rice bran           |  4.  Food industry            |  iv.  Biscuits, cattle feed",
+    question: "Match the rice by-products with their uses:\n     Column-I (By-product)       |  Column-II (Industry)        |  Column-III (Specific use)\nA.  Rice bran oil                |  1.  Poultry industry         |  i.   Litter material\nB.  Rice husk                    |  2.  Soap industry            |  ii.  Oil extraction, soap making\nC.  Paddy straw                  |  3.  Cardboard industry       |  iii. Insulating, cementing agent\nD.  Defatted rice bran           |  4.  Food industry            |  iv.  Biscuits, cattle feed",
     options: ["A-3-iii, B-4-iv, C-1-i,    D-2-ii", "A-2-ii, B-1-i,   C-3-iii,  D-4-iv", "A-1-i,  B-3-iii, C-2-ii,   D-4-iv", "A-4-iv, B-2-ii,  C-1-i,    D-3-iii"],
     correct: 1,
     explanation: "As per DA-102 notes: Rice bran oil: soap industry; Rice husk: poultry litter; Paddy straw: cardboard industry (insulating/cementing); Defatted bran: biscuits and cattle feed."
@@ -1778,12 +1728,7 @@ D.  Defatted rice bran           |  4.  Food industry            |  iv.  Biscuit
     subject: "da-102",
     lecture: "lecture-2",
     lectureNo: 2,
-    question: "Match the rice nursery types with their features:
-     Column-I (Nursery type)     |  Column-II (Water requirement)|  Column-III (Suitable condition)
-A.  Dry nursery                  |  1.  100 m² per 1 ha           |  i.   Young seedlings (15 days)
-B.  Wet nursery                  |  2.  Needs sufficient water     |  ii.  Ample water available
-C.  SRI nursery                  |  3.  Minimum water/plastic sheet|  iii. Machine transplanting possible
-D.  Mat nursery                  |  4.  Dry conditions only        |  iv.  Delayed canal water",
+    question: "Match the rice nursery types with their features:\n     Column-I (Nursery type)     |  Column-II (Water requirement)|  Column-III (Suitable condition)\nA.  Dry nursery                  |  1.  100 m² per 1 ha           |  i.   Young seedlings (15 days)\nB.  Wet nursery                  |  2.  Needs sufficient water     |  ii.  Ample water available\nC.  SRI nursery                  |  3.  Minimum water/plastic sheet|  iii. Machine transplanting possible\nD.  Mat nursery                  |  4.  Dry conditions only        |  iv.  Delayed canal water",
     options: ["A-1-i,  B-2-ii,  C-3-iii,  D-4-iv", "A-4-iv, B-2-ii,  C-1-i,   D-3-iii", "A-3-iii, B-1-i,  C-4-iv,   D-2-ii", "A-2-ii, B-4-iv,  C-3-iii,  D-1-i"],
     correct: 1,
     explanation: "As per DA-102 notes: Dry nursery (dry conditions, delayed canal water); Wet nursery (sufficient water, ample water areas); SRI nursery (100 m²/ha, young 15-day seedlings); Mat nursery (plastic sheet, for machine transplanting)."
@@ -1793,12 +1738,7 @@ D.  Mat nursery                  |  4.  Dry conditions only        |  iv.  Delay
     subject: "da-102",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "Match the crops with their primary use:
-     Column-I (Crop)             |  Column-II (Primary use)     |  Column-III (Region of importance)
-A.  Wheat                        |  1.  Staple food, Asia        |  i.   Southern India
-B.  Rice                         |  2.  Staple food, North India |  ii.  North India
-C.  Ragi                         |  3.  Fodder/beer malt         |  iii. South India (Karnataka/AP)
-D.  Barley                       |  4.  Healthy food, diabetics  |  iv.  Hilly/temperate regions",
+    question: "Match the crops with their primary use:\n     Column-I (Crop)             |  Column-II (Primary use)     |  Column-III (Region of importance)\nA.  Wheat                        |  1.  Staple food, Asia        |  i.   Southern India\nB.  Rice                         |  2.  Staple food, North India |  ii.  North India\nC.  Ragi                         |  3.  Fodder/beer malt         |  iii. South India (Karnataka/AP)\nD.  Barley                       |  4.  Healthy food, diabetics  |  iv.  Hilly/temperate regions",
     options: ["A-3-iv, B-2-ii,  C-1-i,    D-4-iii", "A-1-i,  B-4-ii,  C-2-iii,  D-3-iv", "A-2-ii, B-1-i,   C-4-iii,  D-3-iv", "A-4-iii, B-3-iv, C-1-i,    D-2-ii"],
     correct: 2,
     explanation: "As per DA-102 notes: Wheat (staple, North India); Rice (staple, Asia/South India); Ragi (healthy food for diabetics, South India); Barley (fodder/beer malt, temperate regions)."
@@ -1808,12 +1748,7 @@ D.  Barley                       |  4.  Healthy food, diabetics  |  iv.  Hilly/t
     subject: "da-102",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Match the rice sowing time in Telangana:
-     Column-I (Area)             |  Column-II (Kharif sowing)   |  Column-III (Rabi sowing)
-A.  Krishna, Godavari, Telangana  |  1.  August                   |  i.   November
-B.  North Kostha                  |  2.  September                |  ii.  November
-C.  Southern divisions            |  3.  July-August              |  iii. December
-D.  Less rainfall divisions       |  4.  July                     |  iv.  December",
+    question: "Match the rice sowing time in Telangana:\n     Column-I (Area)             |  Column-II (Kharif sowing)   |  Column-III (Rabi sowing)\nA.  Krishna, Godavari, Telangana  |  1.  August                   |  i.   November\nB.  North Kostha                  |  2.  September                |  ii.  November\nC.  Southern divisions            |  3.  July-August              |  iii. December\nD.  Less rainfall divisions       |  4.  July                     |  iv.  December",
     options: ["A-2-ii, B-3-iii, C-4-iv,   D-1-i", "A-1-i,  B-2-ii,  C-3-iii,  D-4-iv", "A-4-iv, B-1-i,   C-2-ii,   D-3-iii", "A-3-iii, B-4-iv, C-1-i,    D-2-ii"],
     correct: 2,
     explanation: "As per DA-102 notes: Krishna/Godavari/Telangana: July (Kharif), December (Rabi); North Kostha: August (Kharif), November (Rabi); Southern divisions: September (Kharif), November (Rabi); Less rainfall areas: July-August/December."
@@ -1823,12 +1758,7 @@ D.  Less rainfall divisions       |  4.  July                     |  iv.  Decemb
     subject: "da-102",
     lecture: "lecture-5",
     lectureNo: 5,
-    question: "Match the N and K application stages in rice:
-     Column-I (Split)            |  Column-II (Growth stage)    |  Column-III (Purpose)
-A.  1st split                    |  1.  Heading stage            |  i.   Grain filling support
-B.  2nd split                    |  2.  Basal application        |  ii.  Initial establishment
-C.  3rd split                    |  3.  Panicle initiation stage |  iii. Reproductive support
-D.  4th split                    |  4.  Tillering stage          |  iv.  Vegetative growth",
+    question: "Match the N and K application stages in rice:\n     Column-I (Split)            |  Column-II (Growth stage)    |  Column-III (Purpose)\nA.  1st split                    |  1.  Heading stage            |  i.   Grain filling support\nB.  2nd split                    |  2.  Basal application        |  ii.  Initial establishment\nC.  3rd split                    |  3.  Panicle initiation stage |  iii. Reproductive support\nD.  4th split                    |  4.  Tillering stage          |  iv.  Vegetative growth",
     options: ["A-2-ii, B-4-iv,  C-3-iii,  D-1-i", "A-3-iii, B-1-i,  C-4-iv,   D-2-ii", "A-1-i,  B-2-ii,  C-3-iii,  D-4-iv", "A-4-iv, B-3-iii, C-2-ii,   D-1-i"],
     correct: 0,
     explanation: "As per DA-102 notes: N and K are applied in four splits: 1st=basal (establishment), 2nd=tillering (vegetative), 3rd=panicle initiation (reproductive), 4th=heading (grain filling)."
@@ -1838,12 +1768,7 @@ D.  4th split                    |  4.  Tillering stage          |  iv.  Vegetat
     subject: "da-102",
     lecture: "lecture-4",
     lectureNo: 4,
-    question: "Match the rice varieties with their zones in Telangana:
-     Column-I (Zone)             |  Column-II (Key variety)     |  Column-III (Special feature)
-A.  Northern Telangana Zone      |  1.  Somnath (WGL 347)        |  i.   Gall midge tolerant
-B.  Central Telangana Zone       |  2.  Pranahita                |  ii.  Released for NTZ
-C.  Southern Telangana Zone      |  3.  Vijetha                  |  iii. Used in STZ
-D.  All zones                    |  4.  MTU-1010                 |  iv.  Common variety all zones",
+    question: "Match the rice varieties with their zones in Telangana:\n     Column-I (Zone)             |  Column-II (Key variety)     |  Column-III (Special feature)\nA.  Northern Telangana Zone      |  1.  Somnath (WGL 347)        |  i.   Gall midge tolerant\nB.  Central Telangana Zone       |  2.  Pranahita                |  ii.  Released for NTZ\nC.  Southern Telangana Zone      |  3.  Vijetha                  |  iii. Used in STZ\nD.  All zones                    |  4.  MTU-1010                 |  iv.  Common variety all zones",
     options: ["A-3-iii, B-4-iv, C-1-i,    D-2-ii", "A-2-ii, B-1-i,   C-3-iii,  D-4-iv", "A-1-i,  B-3-iii, C-2-ii,   D-4-iv", "A-4-iv, B-2-ii,  C-1-i,    D-3-iii"],
     correct: 1,
     explanation: "As per DA-102 notes: Pranahita is recommended for Northern TZ; Somnath (WGL 347) for Central TZ (gall midge tolerant); Vijetha for Southern TZ; MTU-1010 is common across all zones."
@@ -1853,12 +1778,7 @@ D.  All zones                    |  4.  MTU-1010                 |  iv.  Common 
     subject: "da-102",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "Match the fodder crops with their botanical names:
-     Column-I (Fodder crop)      |  Column-II (Botanical name)  |  Column-III (Type)
-A.  Napier grass                 |  1.  Trifolium alexandrinum   |  i.   Winter legume
-B.  Lucerne                      |  2.  Pennisetum purpureum     |  ii.  Tropical grass
-C.  Berseem                      |  3.  Medicago sativa          |  iii. Perennial legume
-D.  Stylosanthus                 |  4.  Stylosanthes hamata      |  iv.  Tropical legume",
+    question: "Match the fodder crops with their botanical names:\n     Column-I (Fodder crop)      |  Column-II (Botanical name)  |  Column-III (Type)\nA.  Napier grass                 |  1.  Trifolium alexandrinum   |  i.   Winter legume\nB.  Lucerne                      |  2.  Pennisetum purpureum     |  ii.  Tropical grass\nC.  Berseem                      |  3.  Medicago sativa          |  iii. Perennial legume\nD.  Stylosanthus                 |  4.  Stylosanthes hamata      |  iv.  Tropical legume",
     options: ["A-1-i,  B-2-ii,  C-3-iii,  D-4-iv", "A-2-ii, B-3-iii, C-1-i,   D-4-iv", "A-3-iii, B-4-iv, C-2-ii,   D-1-i", "A-4-iv, B-1-i,   C-2-ii,   D-3-iii"],
     correct: 1,
     explanation: "As per DA-102 notes: Napier grass=Pennisetum purpureum (tropical grass); Lucerne=Medicago sativa (perennial legume); Berseem=Trifolium alexandrinum (winter legume); Stylosanthus=Stylosanthes hamata (tropical legume)."
@@ -1868,12 +1788,7 @@ D.  Stylosanthus                 |  4.  Stylosanthes hamata      |  iv.  Tropica
     subject: "da-102",
     lecture: "lecture-2",
     lectureNo: 2,
-    question: "Match the rice nursery preparation steps in wet nursery:
-     Column-I (Step No.)         |  Column-II (Operation)       |  Column-III (Time/Details)
-A.  Step 1                       |  1.  Seed broadcasting        |  i.   After final puddling
-B.  Step 2                       |  2.  Dry ploughing + FYM      |  ii.  2 times, 1 t FYM/20 cents
-C.  Step 3                       |  3.  Puddling                 |  iii. Twice, 1 week gap
-D.  Step 4                       |  4.  Bed making (2.5 m width) |  iv.  After levelling",
+    question: "Match the rice nursery preparation steps in wet nursery:\n     Column-I (Step No.)         |  Column-II (Operation)       |  Column-III (Time/Details)\nA.  Step 1                       |  1.  Seed broadcasting        |  i.   After final puddling\nB.  Step 2                       |  2.  Dry ploughing + FYM      |  ii.  2 times, 1 t FYM/20 cents\nC.  Step 3                       |  3.  Puddling                 |  iii. Twice, 1 week gap\nD.  Step 4                       |  4.  Bed making (2.5 m width) |  iv.  After levelling",
     options: ["A-4-iv, B-1-i,   C-2-ii,  D-3-iii", "A-2-ii, B-3-iii, C-4-iv,  D-1-i", "A-3-iii, B-4-iv, C-1-i,   D-2-ii", "A-1-i,  B-2-ii,  C-3-iii,  D-4-iv"],
     correct: 1,
     explanation: "As per DA-102 notes: Wet nursery steps: 1. Dry ploughing + FYM (2 times, 1 t FYM/20 cents); 2. Puddling (twice, 1 week gap); 3. Bed making (2.5 m width, after levelling); 4. Seed broadcasting."
@@ -1883,12 +1798,7 @@ D.  Step 4                       |  4.  Bed making (2.5 m width) |  iv.  After l
     subject: "da-102",
     lecture: "lecture-5",
     lectureNo: 5,
-    question: "Match the organic inputs for rice with their application rates:
-     Column-I (Input)            |  Column-II (Rate/ha)         |  Column-III (Alternative)
-A.  FYM or compost              |  1.  20 kg/ha (in-situ)       |  i.   Press-mud or coir pith
-B.  Green manure (in-situ)      |  2.  6.25 t/ha                |  ii.  FYM alternative
-C.  Green leaf manure           |  3.  12.5 t/ha                |  iii. Compost alternative
-D.  Urea (compensation)         |  4.  22 kg/ha                 |  iv.  At first puddling for stubbles",
+    question: "Match the organic inputs for rice with their application rates:\n     Column-I (Input)            |  Column-II (Rate/ha)         |  Column-III (Alternative)\nA.  FYM or compost              |  1.  20 kg/ha (in-situ)       |  i.   Press-mud or coir pith\nB.  Green manure (in-situ)      |  2.  6.25 t/ha                |  ii.  FYM alternative\nC.  Green leaf manure           |  3.  12.5 t/ha                |  iii. Compost alternative\nD.  Urea (compensation)         |  4.  22 kg/ha                 |  iv.  At first puddling for stubbles",
     options: ["A-1-i,  B-2-ii,  C-3-iii,  D-4-iv", "A-3-iii, B-1-i,  C-2-ii,   D-4-iv", "A-2-ii, B-4-iv,  C-3-iii,  D-1-i", "A-4-iv, B-3-iii, C-1-i,    D-2-ii"],
     correct: 1,
     explanation: "As per DA-102 notes: FYM or compost=12.5 t/ha; Green manure in-situ=20 kg/ha; Green leaf manure=6.25 t/ha; Urea at first puddling=22 kg/ha for stubble decomposition."

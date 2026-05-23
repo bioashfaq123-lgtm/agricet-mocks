@@ -1318,8 +1318,7 @@ export const da132LectureQuestions: Question[] = [
     subject: "da-132",
     lecture: "lecture-2",
     lectureNo: 2,
-    question: "Assertion (A): Rice stem borer is difficult to control with insecticides.
-Reason (R): Its monophagous nature and peculiar boring habits inside the stem make chemical control difficult.",
+    question: "Assertion (A): Rice stem borer is difficult to control with insecticides.\nReason (R): Its monophagous nature and peculiar boring habits inside the stem make chemical control difficult.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 0,
     explanation: "As per DA-132 notes: Monophagous nature and peculiar boring habits of yellow stem borer make control with insecticides difficult."
@@ -1329,8 +1328,7 @@ Reason (R): Its monophagous nature and peculiar boring habits inside the stem ma
     subject: "da-132",
     lecture: "lecture-2",
     lectureNo: 2,
-    question: "Assertion (A): Rice gall midge mainly infests kharif crop.
-Reason (R): It is a major pest in Telangana and North Coastal Andhra Pradesh, endemic mainly to kharif season.",
+    question: "Assertion (A): Rice gall midge mainly infests kharif crop.\nReason (R): It is a major pest in Telangana and North Coastal Andhra Pradesh, endemic mainly to kharif season.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 0,
     explanation: "As per DA-132 notes: Rice gall midge is endemic and distributed in most parts of India, a major pest in Telangana, North Coastal AP and mainly a pest of kharif."
@@ -1340,8 +1338,7 @@ Reason (R): It is a major pest in Telangana and North Coastal Andhra Pradesh, en
     subject: "da-132",
     lecture: "lecture-2",
     lectureNo: 2,
-    question: "Assertion (A): Seedling root-dip with chlorpyriphos 0.02% provides protection against multiple pests.
-Reason (R): The treatment is effective for 30 days against stem borer, gall midge, BPH and GLH.",
+    question: "Assertion (A): Seedling root-dip with chlorpyriphos 0.02% provides protection against multiple pests.\nReason (R): The treatment is effective for 30 days against stem borer, gall midge, BPH and GLH.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 0,
     explanation: "As per DA-132 notes: Seedling root-dip is effective for 30 days in the main field against stem borer, gall midge, BPH and GLH."
@@ -1351,8 +1348,7 @@ Reason (R): The treatment is effective for 30 days against stem borer, gall midg
     subject: "da-132",
     lecture: "lecture-2",
     lectureNo: 2,
-    question: "Assertion (A): Brown Plant Hopper causes affected rice stems to turn soft and unfit for straw use.
-Reason (R): BPH sucks sap from basal portion injecting toxic saliva causing hopper burn.",
+    question: "Assertion (A): Brown Plant Hopper causes affected rice stems to turn soft and unfit for straw use.\nReason (R): BPH sucks sap from basal portion injecting toxic saliva causing hopper burn.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 0,
     explanation: "As per DA-132 notes: BPH - affected stems turn soft and are unfit for use as straw; they inject toxic saliva causing hopper burn."
@@ -1362,8 +1358,7 @@ Reason (R): BPH sucks sap from basal portion injecting toxic saliva causing hopp
     subject: "da-132",
     lecture: "lecture-2",
     lectureNo: 2,
-    question: "Assertion (A): Green Leafhopper (N.virescens) causes more damage to rice than N.nigropictus.
-Reason (R): N.virescens transmits multiple virus diseases including rice tungro.",
+    question: "Assertion (A): Green Leafhopper (N.virescens) causes more damage to rice than N.nigropictus.\nReason (R): N.virescens transmits multiple virus diseases including rice tungro.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 0,
     explanation: "As per DA-132 notes: N.virescens causes more damage to rice than N.nigropictus and transmits rice tungro, rice transitory yellowing and rice yellow dwarf."
@@ -1373,8 +1368,7 @@ Reason (R): N.virescens transmits multiple virus diseases including rice tungro.
     subject: "da-132",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Assertion (A): Rice leaf folder larva folds leaves longitudinally forming tubes.
-Reason (R): The larva lives in tubes formed by folding leaf margins with silken threads and feeds on chlorophyll within.",
+    question: "Assertion (A): Rice leaf folder larva folds leaves longitudinally forming tubes.\nReason (R): The larva lives in tubes formed by folding leaf margins with silken threads and feeds on chlorophyll within.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 0,
     explanation: "As per DA-132 notes: Rice leaf folder - folds leaf longitudinally bringing together margins with silken threads, feeds on chlorophyll from within."
@@ -1384,8 +1378,7 @@ Reason (R): The larva lives in tubes formed by folding leaf margins with silken 
     subject: "da-132",
     lecture: "lecture-4",
     lectureNo: 4,
-    question: "Assertion (A): Sorghum shootfly dead heart has an offensive smell.
-Reason (R): The maggot destroys the growing point which begins to decay, and the maggot feeds on rotting matter.",
+    question: "Assertion (A): Sorghum shootfly dead heart has an offensive smell.\nReason (R): The maggot destroys the growing point which begins to decay, and the maggot feeds on rotting matter.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 0,
     explanation: "As per DA-132 notes: Shootfly - central succulent core begins to decay, maggot feeds on rotting matter; dead heart gives offensive smell at cut end."
@@ -1395,8 +1388,7 @@ Reason (R): The maggot destroys the growing point which begins to decay, and the
     subject: "da-132",
     lecture: "lecture-4",
     lectureNo: 4,
-    question: "Assertion (A): Red Hairy Caterpillar is more serious in red soils.
-Reason (R): Red soils provide suitable pupation conditions for this pest.",
+    question: "Assertion (A): Red Hairy Caterpillar is more serious in red soils.\nReason (R): Red soils provide suitable pupation conditions for this pest.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 0,
     explanation: "As per DA-132 notes: Red soils are more suitable for Red Hairy Caterpillar. The red soil pupation connection makes both statements true."
@@ -1406,8 +1398,7 @@ Reason (R): Red soils provide suitable pupation conditions for this pest.",
     subject: "da-132",
     lecture: "lecture-5",
     lectureNo: 5,
-    question: "Assertion (A): Sorghum midge attacks earheads during flowering.
-Reason (R): Maggots feed on ovaries and destroy developing grains causing chaffy grains.",
+    question: "Assertion (A): Sorghum midge attacks earheads during flowering.\nReason (R): Maggots feed on ovaries and destroy developing grains causing chaffy grains.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 0,
     explanation: "As per DA-132 notes: Sorghum midge maggots feed on ovaries and destroy developing grains causing flattening of florets and chaffy grains."
@@ -1417,8 +1408,7 @@ Reason (R): Maggots feed on ovaries and destroy developing grains causing chaffy
     subject: "da-132",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Assertion (A): Trichogramma egg parasitoids are released inundatively in rice IPM.
-Reason (R): They parasitise eggs of rice stem borer and leaf folder reducing larval population.",
+    question: "Assertion (A): Trichogramma egg parasitoids are released inundatively in rice IPM.\nReason (R): They parasitise eggs of rice stem borer and leaf folder reducing larval population.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 0,
     explanation: "As per DA-132 notes: Inundative release of Trichogramma egg parasitoids @ 20,000/ac three times within 30-45 DAT in rice IPM."
@@ -1428,8 +1418,7 @@ Reason (R): They parasitise eggs of rice stem borer and leaf folder reducing lar
     subject: "da-132",
     lecture: "lecture-2",
     lectureNo: 2,
-    question: "Assertion (A): Rice Hispa grubs cause blister spots towards leaf tip.
-Reason (R): Grubs feed on leaf tissue inside the leaf mine causing blister spots.",
+    question: "Assertion (A): Rice Hispa grubs cause blister spots towards leaf tip.\nReason (R): Grubs feed on leaf tissue inside the leaf mine causing blister spots.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 0,
     explanation: "As per DA-132 notes: Rice Hispa - grubs feed on leaf tissue inside the leaf mine causing blister spots towards leaf tip."
@@ -1439,8 +1428,7 @@ Reason (R): Grubs feed on leaf tissue inside the leaf mine causing blister spots
     subject: "da-132",
     lecture: "lecture-5",
     lectureNo: 5,
-    question: "Assertion (A): Uniform date of sowing is recommended for sorghum midge management.
-Reason (R): This makes varieties flower at the same time preventing continuous availability of host for the midge.",
+    question: "Assertion (A): Uniform date of sowing is recommended for sorghum midge management.\nReason (R): This makes varieties flower at the same time preventing continuous availability of host for the midge.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 0,
     explanation: "As per DA-132 notes: Adoption of uniform date of sowing to make varieties flower at same time for sorghum midge management."
@@ -1450,8 +1438,7 @@ Reason (R): This makes varieties flower at the same time preventing continuous a
     subject: "da-132",
     lecture: "lecture-2",
     lectureNo: 2,
-    question: "Assertion (A): Gall midge infestation leads to vigorous subsidiary tillering in early growth period.
-Reason (R): Infested tillers do not bear panicles and the plant compensates by producing more tillers.",
+    question: "Assertion (A): Gall midge infestation leads to vigorous subsidiary tillering in early growth period.\nReason (R): Infested tillers do not bear panicles and the plant compensates by producing more tillers.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 0,
     explanation: "As per DA-132 notes: Gall midge - vigorous subsidiary tillering if infested in early growth period; infested tillers do not bear panicles."
@@ -1461,8 +1448,7 @@ Reason (R): Infested tillers do not bear panicles and the plant compensates by p
     subject: "da-132",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Assertion (A): Sheath mite causes sterile and discoloured grains in the panicle.
-Reason (R): At panicle emergence, mites enter florets and feed on ovaries and stamens causing grain sterility.",
+    question: "Assertion (A): Sheath mite causes sterile and discoloured grains in the panicle.\nReason (R): At panicle emergence, mites enter florets and feed on ovaries and stamens causing grain sterility.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 0,
     explanation: "As per DA-132 notes: At panicle emergence, sheath mites enter florets, feed on ovaries and stamens causing sterile and discoloured grains."
@@ -1472,8 +1458,7 @@ Reason (R): At panicle emergence, mites enter florets and feed on ovaries and st
     subject: "da-132",
     lecture: "lecture-4",
     lectureNo: 4,
-    question: "Assertion (A): Cowpea and castor are used as trap crops for red hairy caterpillar.
-Reason (R): These crops are preferred hosts that attract the pest away from the main crop.",
+    question: "Assertion (A): Cowpea and castor are used as trap crops for red hairy caterpillar.\nReason (R): These crops are preferred hosts that attract the pest away from the main crop.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 0,
     explanation: "As per DA-132 notes: Growing cowpea or castor as trap crops for red hairy caterpillar management."
@@ -1483,9 +1468,7 @@ Reason (R): These crops are preferred hosts that attract the pest away from the 
     subject: "da-132",
     lecture: "lecture-2",
     lectureNo: 2,
-    question: "Match the rice pest with scientific name:
-A-Rice Stem Borer, B-Brown Plant Hopper, C-Rice Gall Midge
-1-Orseolia oryzae, 2-Scirpophaga incertulas, 3-Nilaparvata lugens",
+    question: "Match the rice pest with scientific name:\nA-Rice Stem Borer, B-Brown Plant Hopper, C-Rice Gall Midge\n1-Orseolia oryzae, 2-Scirpophaga incertulas, 3-Nilaparvata lugens",
     options: ["A-1, B-2, C-3", "A-2, B-1, C-3", "A-3, B-1, C-2", "A-2, B-3, C-1"],
     correct: 3,
     explanation: "As per DA-132 notes: Rice Stem Borer-Scirpophaga incertulas, BPH-Nilaparvata lugens, Rice Gall Midge-Orseolia oryzae."
@@ -1495,9 +1478,7 @@ A-Rice Stem Borer, B-Brown Plant Hopper, C-Rice Gall Midge
     subject: "da-132",
     lecture: "lecture-2",
     lectureNo: 2,
-    question: "Match the rice pest with characteristic symptom:
-A-BPH, B-Rice Gall Midge, C-Rice Stem Borer
-1-Dead heart and white ear, 2-Silver shoot/onion shoot, 3-Hopper burn",
+    question: "Match the rice pest with characteristic symptom:\nA-BPH, B-Rice Gall Midge, C-Rice Stem Borer\n1-Dead heart and white ear, 2-Silver shoot/onion shoot, 3-Hopper burn",
     options: ["A-3, B-2, C-1", "A-3, B-1, C-2", "A-2, B-3, C-1", "A-1, B-2, C-3"],
     correct: 0,
     explanation: "As per DA-132 notes: BPH-hopper burn, Gall midge-silver shoot/onion shoot, Stem borer-dead heart and white ear."
@@ -1507,9 +1488,7 @@ A-BPH, B-Rice Gall Midge, C-Rice Stem Borer
     subject: "da-132",
     lecture: "lecture-2",
     lectureNo: 2,
-    question: "Match the rice pest with its order:
-A-Rice Hispa, B-Leaf Folder, C-Brown Plant Hopper
-1-Hemiptera, 2-Lepidoptera, 3-Coleoptera",
+    question: "Match the rice pest with its order:\nA-Rice Hispa, B-Leaf Folder, C-Brown Plant Hopper\n1-Hemiptera, 2-Lepidoptera, 3-Coleoptera",
     options: ["A-3, B-2, C-1", "A-3, B-1, C-2", "A-2, B-3, C-1", "A-1, B-2, C-3"],
     correct: 0,
     explanation: "As per DA-132 notes: Rice Hispa-Coleoptera, Leaf Folder-Lepidoptera, BPH-Hemiptera."
@@ -1519,9 +1498,7 @@ A-Rice Hispa, B-Leaf Folder, C-Brown Plant Hopper
     subject: "da-132",
     lecture: "lecture-4",
     lectureNo: 4,
-    question: "Match the sorghum pest with scientific name:
-A-Sorghum Shootfly, B-Sorghum Stem Borer, C-Sorghum Earhead Bug
-1-Calocoris angustatus, 2-Atherigona soccata, 3-Chilo partellus",
+    question: "Match the sorghum pest with scientific name:\nA-Sorghum Shootfly, B-Sorghum Stem Borer, C-Sorghum Earhead Bug\n1-Calocoris angustatus, 2-Atherigona soccata, 3-Chilo partellus",
     options: ["A-3, B-2, C-1", "A-2, B-1, C-3", "A-1, B-3, C-2", "A-2, B-3, C-1"],
     correct: 3,
     explanation: "As per DA-132 notes: Shootfly-Atherigona soccata, Stem borer-Chilo partellus, Earhead bug-Calocoris angustatus."
@@ -1531,9 +1508,7 @@ A-Sorghum Shootfly, B-Sorghum Stem Borer, C-Sorghum Earhead Bug
     subject: "da-132",
     lecture: "lecture-2",
     lectureNo: 2,
-    question: "Match the natural enemy with the pest it parasitises:
-A-Platygaster oryzae, B-Xanthopimpla emaculata, C-Trichogramma chilonis
-1-Rice leaf folder larvae, 2-Rice stem borer eggs, 3-Rice gall midge larvae",
+    question: "Match the natural enemy with the pest it parasitises:\nA-Platygaster oryzae, B-Xanthopimpla emaculata, C-Trichogramma chilonis\n1-Rice leaf folder larvae, 2-Rice stem borer eggs, 3-Rice gall midge larvae",
     options: ["A-1, B-2, C-3", "A-3, B-2, C-1", "A-3, B-1, C-2", "A-2, B-3, C-1"],
     correct: 2,
     explanation: "As per DA-132 notes: Platygaster oryzae-gall midge larvae, Xanthopimpla emaculata-leaf folder larvae, Trichogramma chilonis-stem borer eggs."
@@ -1543,9 +1518,7 @@ A-Platygaster oryzae, B-Xanthopimpla emaculata, C-Trichogramma chilonis
     subject: "da-132",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Match the crop pest with characteristic damage:
-A-Rice leaf folder, B-Rice Hispa, C-Panicle Mite
-1-Brown necrotic patches on midribs, 2-Whitish membranous folded leaves, 3-White rectangular streaks parallel to veins",
+    question: "Match the crop pest with characteristic damage:\nA-Rice leaf folder, B-Rice Hispa, C-Panicle Mite\n1-Brown necrotic patches on midribs, 2-Whitish membranous folded leaves, 3-White rectangular streaks parallel to veins",
     options: ["A-3, B-2, C-1", "A-2, B-1, C-3", "A-1, B-3, C-2", "A-2, B-3, C-1"],
     correct: 3,
     explanation: "As per DA-132 notes: Leaf folder-whitish membranous folded leaves, Rice Hispa-white rectangular streaks parallel to veins, Panicle Mite-brown necrotic patches on midribs."
@@ -1555,9 +1528,7 @@ A-Rice leaf folder, B-Rice Hispa, C-Panicle Mite
     subject: "da-132",
     lecture: "lecture-12",
     lectureNo: 12,
-    question: "Match the crop with its specific pest:
-A-Sunflower, B-Sesamum, C-Castor
-1-Semilooper and slug, 2-Bihar hairy caterpillar, 3-Sphinx caterpillar",
+    question: "Match the crop with its specific pest:\nA-Sunflower, B-Sesamum, C-Castor\n1-Semilooper and slug, 2-Bihar hairy caterpillar, 3-Sphinx caterpillar",
     options: ["A-2, B-3, C-1", "A-2, B-1, C-3", "A-3, B-2, C-1", "A-1, B-2, C-3"],
     correct: 0,
     explanation: "As per DA-132 notes: Sunflower-Bihar hairy caterpillar, Sesamum-sphinx caterpillar, Castor-semilooper and slug."
@@ -1567,9 +1538,7 @@ A-Sunflower, B-Sesamum, C-Castor
     subject: "da-132",
     lecture: "lecture-26",
     lectureNo: 26,
-    question: "Match the vegetable crop with its unique pest:
-A-Brinjal, B-Bhendi, C-Cucurbits
-1-Pumpkin beetle and fruit fly, 2-Epilachna beetle, 3-Shoot and fruit borer",
+    question: "Match the vegetable crop with its unique pest:\nA-Brinjal, B-Bhendi, C-Cucurbits\n1-Pumpkin beetle and fruit fly, 2-Epilachna beetle, 3-Shoot and fruit borer",
     options: ["A-2, B-3, C-1", "A-2, B-1, C-3", "A-3, B-2, C-1", "A-1, B-2, C-3"],
     correct: 0,
     explanation: "As per DA-132 notes: Brinjal-Epilachna beetle, Bhendi-Shoot and fruit borer, Cucurbits-Pumpkin beetles and fruitflies."
@@ -1579,9 +1548,7 @@ A-Brinjal, B-Bhendi, C-Cucurbits
     subject: "da-132",
     lecture: "lecture-32",
     lectureNo: 32,
-    question: "Match the fruit crop with its unique pest:
-A-Mango, B-Citrus, C-Pomegranate
-1-Butterfly and thrips, 2-Nut weevil and leaf gallmidge, 3-Psylla and rust mite",
+    question: "Match the fruit crop with its unique pest:\nA-Mango, B-Citrus, C-Pomegranate\n1-Butterfly and thrips, 2-Nut weevil and leaf gallmidge, 3-Psylla and rust mite",
     options: ["A-3, B-2, C-1", "A-1, B-3, C-2", "A-2, B-3, C-1", "A-1, B-2, C-3"],
     correct: 2,
     explanation: "As per DA-132 notes: Mango-nut weevil and leaf gallmidge, Citrus-psylla and rust mite, Pomegranate-butterfly and thrips."
@@ -1591,9 +1558,7 @@ A-Mango, B-Citrus, C-Pomegranate
     subject: "da-132",
     lecture: "lecture-41",
     lectureNo: 41,
-    question: "Match the plantation crop with its unique pest:
-A-Coconut, B-Banana, C-Cashew
-1-Shoot and blossom webber, 2-Rhinoceros beetle, 3-Pseudostem weevil",
+    question: "Match the plantation crop with its unique pest:\nA-Coconut, B-Banana, C-Cashew\n1-Shoot and blossom webber, 2-Rhinoceros beetle, 3-Pseudostem weevil",
     options: ["A-2, B-3, C-1", "A-2, B-1, C-3", "A-3, B-2, C-1", "A-1, B-2, C-3"],
     correct: 0,
     explanation: "As per DA-132 notes: Coconut-Rhinoceros beetle, Banana-Pseudostem weevil, Cashew-shoot and blossom webber."
@@ -1603,9 +1568,7 @@ A-Coconut, B-Banana, C-Cashew
     subject: "da-132",
     lecture: "lecture-4",
     lectureNo: 4,
-    question: "Match the sorghum pest with the characteristic of dead heart it causes:
-A-Shootfly, B-Stem borer, C-Pink borer
-1-Oblong shot holes on unfolding leaves, 2-Offensive smell at cut end, 3-No offensive smell",
+    question: "Match the sorghum pest with the characteristic of dead heart it causes:\nA-Shootfly, B-Stem borer, C-Pink borer\n1-Oblong shot holes on unfolding leaves, 2-Offensive smell at cut end, 3-No offensive smell",
     options: ["A-3, B-2, C-1", "A-2, B-1, C-3", "A-1, B-3, C-2", "A-2, B-3, C-1"],
     correct: 3,
     explanation: "As per DA-132 notes: Shootfly dead heart-offensive smell; Stem borer dead heart-no offensive smell; Pink borer-oblong and elongate shot holes on unfolding leaves."
@@ -1615,9 +1578,7 @@ A-Shootfly, B-Stem borer, C-Pink borer
     subject: "da-132",
     lecture: "lecture-16",
     lectureNo: 16,
-    question: "Match the sugarcane pest with its type:
-A-Early shoot borer, B-Woolly aphid, C-Yellow mite
-1-Acarina pest, 2-Hemipteran sucking pest, 3-Lepidopteran borer",
+    question: "Match the sugarcane pest with its type:\nA-Early shoot borer, B-Woolly aphid, C-Yellow mite\n1-Acarina pest, 2-Hemipteran sucking pest, 3-Lepidopteran borer",
     options: ["A-2, B-3, C-1", "A-2, B-1, C-3", "A-3, B-2, C-1", "A-1, B-2, C-3"],
     correct: 2,
     explanation: "As per DA-132 notes: Early shoot borer-Lepidoptera, Woolly aphid-Hemiptera, Yellow mite-Acarina."
@@ -1627,9 +1588,7 @@ A-Early shoot borer, B-Woolly aphid, C-Yellow mite
     subject: "da-132",
     lecture: "lecture-45",
     lectureNo: 45,
-    question: "Match the stored grain pest with its order:
-A-Pulse beetle, B-Angoumois grain moth, C-Saw-toothed beetle
-1-Coleoptera, 2-Lepidoptera, 3-Coleoptera",
+    question: "Match the stored grain pest with its order:\nA-Pulse beetle, B-Angoumois grain moth, C-Saw-toothed beetle\n1-Coleoptera, 2-Lepidoptera, 3-Coleoptera",
     options: ["A-1, B-3, C-2", "A-1, B-2, C-3", "A-3, B-1, C-2", "A-2, B-3, C-1"],
     correct: 1,
     explanation: "As per DA-132 notes: Pulse beetle and Saw-toothed beetle-Coleoptera, Angoumois grain moth-Lepidoptera."
@@ -1639,9 +1598,7 @@ A-Pulse beetle, B-Angoumois grain moth, C-Saw-toothed beetle
     subject: "da-132",
     lecture: "lecture-2",
     lectureNo: 2,
-    question: "Match the pest management practice with the rice pest:
-A-Clipping seedling tips, B-Forming alleys at 2m, C-Draining field mid-season
-1-BPH suppression, 2-BPH and hispa egg elimination, 3-All major rice pests",
+    question: "Match the pest management practice with the rice pest:\nA-Clipping seedling tips, B-Forming alleys at 2m, C-Draining field mid-season\n1-BPH suppression, 2-BPH and hispa egg elimination, 3-All major rice pests",
     options: ["A-2, B-3, C-1", "A-3, B-2, C-1", "A-2, B-1, C-3", "A-3, B-1, C-2"],
     correct: 2,
     explanation: "As per DA-132 notes: Clipping tips eliminates stem borer and hispa eggs, alleys for BPH management (alleys facilitate basal spraying), draining field suppresses BPH."
@@ -1651,9 +1608,7 @@ A-Clipping seedling tips, B-Forming alleys at 2m, C-Draining field mid-season
     subject: "da-132",
     lecture: "lecture-37",
     lectureNo: 37,
-    question: "Match the crop with the pest that causes galling:
-A-Rice, B-Mango, C-Sesamum
-1-Gall fly, 2-Leaf gallmidge, 3-Rice gall midge",
+    question: "Match the crop with the pest that causes galling:\nA-Rice, B-Mango, C-Sesamum\n1-Gall fly, 2-Leaf gallmidge, 3-Rice gall midge",
     options: ["A-2, B-3, C-1", "A-2, B-1, C-3", "A-3, B-2, C-1", "A-1, B-2, C-3"],
     correct: 2,
     explanation: "As per DA-132 notes: Rice-rice gall midge, Mango-leaf gallmidge, Sesamum-gall fly."

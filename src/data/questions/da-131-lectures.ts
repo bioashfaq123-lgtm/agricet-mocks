@@ -1393,8 +1393,7 @@ export const da131LectureQuestions: Question[] = [
     subject: "da-131",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "Assertion (A): Arthropods are the most successful animals on Earth.
-Reason (R): They include more species than all other animal groups combined, living in widest range of habitats.",
+    question: "Assertion (A): Arthropods are the most successful animals on Earth.\nReason (R): They include more species than all other animal groups combined, living in widest range of habitats.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 0,
     explanation: "As per DA-131 notes: Arthropods are considered most successful animals on Earth - they include more species and individuals than all other groups combined."
@@ -1404,8 +1403,7 @@ Reason (R): They include more species than all other animal groups combined, liv
     subject: "da-131",
     lecture: "lecture-2",
     lectureNo: 2,
-    question: "Assertion (A): Apterygota insects are considered primitive compared to Pterygota.
-Reason (R): Apterygota are primarily wingless, have pregenital abdominal appendages and simple or absent metamorphosis.",
+    question: "Assertion (A): Apterygota insects are considered primitive compared to Pterygota.\nReason (R): Apterygota are primarily wingless, have pregenital abdominal appendages and simple or absent metamorphosis.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 0,
     explanation: "As per DA-131 notes: Apterygota are small and primitive insects, primarily wingless with pregenital abdominal appendages and simple/absent metamorphosis."
@@ -1415,8 +1413,7 @@ Reason (R): Apterygota are primarily wingless, have pregenital abdominal appenda
     subject: "da-131",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Assertion (A): Orthoptera insects are hemimetabolous.
-Reason (R): They have three developmental stages: egg, nymph and adult, with nymphs resembling small adults.",
+    question: "Assertion (A): Orthoptera insects are hemimetabolous.\nReason (R): They have three developmental stages: egg, nymph and adult, with nymphs resembling small adults.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 0,
     explanation: "As per DA-131 notes: Orthoptera is Hemimetabolous - egg, nymph and adult stages, nymphs look like small adults with no pupa."
@@ -1426,8 +1423,7 @@ Reason (R): They have three developmental stages: egg, nymph and adult, with nym
     subject: "da-131",
     lecture: "lecture-4",
     lectureNo: 4,
-    question: "Assertion (A): Thysanoptera (thrips) reproduce by parthenogenesis.
-Reason (R): In many thrips species, males are rare and parthenogenetic reproduction is very common.",
+    question: "Assertion (A): Thysanoptera (thrips) reproduce by parthenogenesis.\nReason (R): In many thrips species, males are rare and parthenogenetic reproduction is very common.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 0,
     explanation: "As per DA-131 notes: Parthenogenesis reproduction is very common in Thysanoptera and in many species males are rare."
@@ -1437,8 +1433,7 @@ Reason (R): In many thrips species, males are rare and parthenogenetic reproduct
     subject: "da-131",
     lecture: "lecture-6",
     lectureNo: 6,
-    question: "Assertion (A): Adult Lepidoptera (butterflies and moths) are generally harmless.
-Reason (R): They have siphoning type mouthparts suitable only for nectar feeding, except citrus fruit sucking moths.",
+    question: "Assertion (A): Adult Lepidoptera (butterflies and moths) are generally harmless.\nReason (R): They have siphoning type mouthparts suitable only for nectar feeding, except citrus fruit sucking moths.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 0,
     explanation: "As per DA-131 notes: Adults of Lepidoptera are harmless, except citrus fruit sucking moths and castor semilooper."
@@ -1448,8 +1443,7 @@ Reason (R): They have siphoning type mouthparts suitable only for nectar feeding
     subject: "da-131",
     lecture: "lecture-9",
     lectureNo: 9,
-    question: "Assertion (A): Diptera insects have only one functional pair of wings.
-Reason (R): The hind pair of wings is modified into halteres which function as gyroscopic balancers.",
+    question: "Assertion (A): Diptera insects have only one functional pair of wings.\nReason (R): The hind pair of wings is modified into halteres which function as gyroscopic balancers.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 0,
     explanation: "As per DA-131 notes: In Diptera only front pair of wings is present; hind pair modified into halteres which act as balancers."
@@ -1459,8 +1453,7 @@ Reason (R): The hind pair of wings is modified into halteres which function as g
     subject: "da-131",
     lecture: "lecture-10",
     lectureNo: 10,
-    question: "Assertion (A): Cockroach (Periplaneta americana) is classified as omnivorous.
-Reason (R): Being a scavenger, cockroaches feed on various types of food materials.",
+    question: "Assertion (A): Cockroach (Periplaneta americana) is classified as omnivorous.\nReason (R): Being a scavenger, cockroaches feed on various types of food materials.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 0,
     explanation: "As per DA-131 notes: Periplaneta americana - they are omnivorous and scavenger insects."
@@ -1470,8 +1463,7 @@ Reason (R): Being a scavenger, cockroaches feed on various types of food materia
     subject: "da-131",
     lecture: "lecture-14",
     lectureNo: 14,
-    question: "Assertion (A): White ear symptom occurs in paddy during reproductive stage.
-Reason (R): Stem borer larvae feed inside the stem and the affected part wilts during reproductive stage.",
+    question: "Assertion (A): White ear symptom occurs in paddy during reproductive stage.\nReason (R): Stem borer larvae feed inside the stem and the affected part wilts during reproductive stage.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 0,
     explanation: "As per DA-131 notes: Stem borers cause white ear during reproductive stage and dead heart during vegetative stage in paddy."
@@ -1481,8 +1473,7 @@ Reason (R): Stem borer larvae feed inside the stem and the affected part wilts d
     subject: "da-131",
     lecture: "lecture-15",
     lectureNo: 15,
-    question: "Assertion (A): Cultural methods are the cheapest pest control method.
-Reason (R): They involve manipulation of farming practices without additional cost of chemicals.",
+    question: "Assertion (A): Cultural methods are the cheapest pest control method.\nReason (R): They involve manipulation of farming practices without additional cost of chemicals.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 0,
     explanation: "As per DA-131 notes: Cultural practices make environment less favorable for pests and it is the cheapest of all methods."
@@ -1492,8 +1483,7 @@ Reason (R): They involve manipulation of farming practices without additional co
     subject: "da-131",
     lecture: "lecture-17",
     lectureNo: 17,
-    question: "Assertion (A): Grapevine phylloxera introduced into France from America caused severe damage.
-Reason (R): Foreign pests inflict greater damage than indigenous ones as they lack natural enemies in the new region.",
+    question: "Assertion (A): Grapevine phylloxera introduced into France from America caused severe damage.\nReason (R): Foreign pests inflict greater damage than indigenous ones as they lack natural enemies in the new region.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 0,
     explanation: "As per DA-131 notes: Grapevine phylloxera got introduced into France from America by about 1860; foreign pests frequently inflict greater damage than indigenous ones."
@@ -1503,8 +1493,7 @@ Reason (R): Foreign pests inflict greater damage than indigenous ones as they la
     subject: "da-131",
     lecture: "lecture-18",
     lectureNo: 18,
-    question: "Assertion (A): Bt (Bacillus thuringiensis) is effective against more than 150 insect species.
-Reason (R): Bt infects through ingestion affecting midgut epithelia cells and entering haemolymph causing septicemia.",
+    question: "Assertion (A): Bt (Bacillus thuringiensis) is effective against more than 150 insect species.\nReason (R): Bt infects through ingestion affecting midgut epithelia cells and entering haemolymph causing septicemia.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 0,
     explanation: "As per DA-131 notes: B.t. can infect more than 150 species; entry is by ingestion infecting midgut epithelia cells and entering haemolymph to sporulate causing septicemia."
@@ -1514,8 +1503,7 @@ Reason (R): Bt infects through ingestion affecting midgut epithelia cells and en
     subject: "da-131",
     lecture: "lecture-18",
     lectureNo: 18,
-    question: "Assertion (A): Entomopathogenic fungi infect insects through the cuticle.
-Reason (R): They produce cuticle-digesting enzymes including proteases, lipases and chitinases.",
+    question: "Assertion (A): Entomopathogenic fungi infect insects through the cuticle.\nReason (R): They produce cuticle-digesting enzymes including proteases, lipases and chitinases.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 0,
     explanation: "As per DA-131 notes: Most entomopathogenic fungi infect hosts by penetration of cuticle by producing cuticle digesting enzymes (proteases, lipases, chitinases)."
@@ -1525,8 +1513,7 @@ Reason (R): They produce cuticle-digesting enzymes including proteases, lipases 
     subject: "da-131",
     lecture: "lecture-19",
     lectureNo: 19,
-    question: "Assertion (A): Spraying insecticide in the evening is more effective for nocturnal insects.
-Reason (R): Stomata remain open in the evening facilitating better absorption.",
+    question: "Assertion (A): Spraying insecticide in the evening is more effective for nocturnal insects.\nReason (R): Stomata remain open in the evening facilitating better absorption.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 0,
     explanation: "As per DA-131 notes: Insecticide should be sprayed in the evening when stomata will be open; spraying in evening more effective on nocturnal insects."
@@ -1536,8 +1523,7 @@ Reason (R): Stomata remain open in the evening facilitating better absorption.",
     subject: "da-131",
     lecture: "lecture-13",
     lectureNo: 13,
-    question: "Assertion (A): In rasping and sucking mouthparts of thrips, right mandible is rudimentary.
-Reason (R): Rasping and sucking type is considered asymmetrical because of this characteristic.",
+    question: "Assertion (A): In rasping and sucking mouthparts of thrips, right mandible is rudimentary.\nReason (R): Rasping and sucking type is considered asymmetrical because of this characteristic.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 0,
     explanation: "As per DA-131 notes: Rasping and sucking type is called asymmetrical type because right mandible is rudimentary."
@@ -1547,8 +1533,7 @@ Reason (R): Rasping and sucking type is considered asymmetrical because of this 
     subject: "da-131",
     lecture: "lecture-7",
     lectureNo: 7,
-    question: "Assertion (A): Coleoptera is the order with sheathed winged insects.
-Reason (R): The forewings of Coleoptera called elytra are horny and leathery, not used for flight but protecting hind wings.",
+    question: "Assertion (A): Coleoptera is the order with sheathed winged insects.\nReason (R): The forewings of Coleoptera called elytra are horny and leathery, not used for flight but protecting hind wings.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 0,
     explanation: "As per DA-131 notes: Coleoptera (Coleo: sheath, Ptera: wings) - forewings are horny, leathery not used for flight known as elytra."
@@ -1558,9 +1543,7 @@ Reason (R): The forewings of Coleoptera called elytra are horny and leathery, no
     subject: "da-131",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "Match the Arthropoda class with example:
-A-Crustacea, B-Arachnida, C-Chilopoda
-1-Centipedes, 2-Prawns, 3-Scorpion",
+    question: "Match the Arthropoda class with example:\nA-Crustacea, B-Arachnida, C-Chilopoda\n1-Centipedes, 2-Prawns, 3-Scorpion",
     options: ["A-1, B-2, C-3", "A-2, B-1, C-3", "A-3, B-1, C-2", "A-2, B-3, C-1"],
     correct: 3,
     explanation: "As per DA-131 notes: Crustacea-prawns/crabs, Arachnida-scorpion/spider/ticks, Chilopoda-centipedes."
@@ -1570,9 +1553,7 @@ A-Crustacea, B-Arachnida, C-Chilopoda
     subject: "da-131",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Match the Order with wing type:
-A-Orthoptera, B-Coleoptera, C-Diptera
-1-Halteres, 2-Tegmina, 3-Elytra",
+    question: "Match the Order with wing type:\nA-Orthoptera, B-Coleoptera, C-Diptera\n1-Halteres, 2-Tegmina, 3-Elytra",
     options: ["A-3, B-2, C-1", "A-2, B-1, C-3", "A-1, B-3, C-2", "A-2, B-3, C-1"],
     correct: 3,
     explanation: "As per DA-131 notes: Orthoptera-tegmina (leathery forewings), Coleoptera-elytra, Diptera-halteres (modified hind wings)."
@@ -1582,9 +1563,7 @@ A-Orthoptera, B-Coleoptera, C-Diptera
     subject: "da-131",
     lecture: "lecture-4",
     lectureNo: 4,
-    question: "Match the insect with its mouthpart type:
-A-Grasshopper, B-Butterfly, C-Housefly
-1-Sponging, 2-Biting and chewing, 3-Siphoning",
+    question: "Match the insect with its mouthpart type:\nA-Grasshopper, B-Butterfly, C-Housefly\n1-Sponging, 2-Biting and chewing, 3-Siphoning",
     options: ["A-3, B-2, C-1", "A-2, B-1, C-3", "A-1, B-3, C-2", "A-2, B-3, C-1"],
     correct: 3,
     explanation: "As per DA-131 notes: Grasshopper-biting and chewing, Butterfly-siphoning, Housefly-sponging type."
@@ -1594,9 +1573,7 @@ A-Grasshopper, B-Butterfly, C-Housefly
     subject: "da-131",
     lecture: "lecture-5",
     lectureNo: 5,
-    question: "Match the insect suborder with wing characteristic:
-A-Heteroptera, B-Homoptera, C-Orthoptera
-1-Wings held tent-like, 2-Wings held flat over body, 3-Hind wings fan-folded",
+    question: "Match the insect suborder with wing characteristic:\nA-Heteroptera, B-Homoptera, C-Orthoptera\n1-Wings held tent-like, 2-Wings held flat over body, 3-Hind wings fan-folded",
     options: ["A-3, B-1, C-2", "A-1, B-2, C-3", "A-2, B-1, C-3", "A-1, B-3, C-2"],
     correct: 2,
     explanation: "As per DA-131 notes: Heteroptera-wings held flat over body, Homoptera-wings held like tent, Orthoptera-hind wings broad membraneous folded fan-like."
@@ -1606,9 +1583,7 @@ A-Heteroptera, B-Homoptera, C-Orthoptera
     subject: "da-131",
     lecture: "lecture-6",
     lectureNo: 6,
-    question: "Match the damage symptom with pest type:
-A-Dead heart, B-White ear, C-Bunchy top
-1-Stem borer in sugarcane, 2-Stem borer in paddy (vegetative), 3-Stem borer in paddy (reproductive)",
+    question: "Match the damage symptom with pest type:\nA-Dead heart, B-White ear, C-Bunchy top\n1-Stem borer in sugarcane, 2-Stem borer in paddy (vegetative), 3-Stem borer in paddy (reproductive)",
     options: ["A-2, B-3, C-1", "A-2, B-1, C-3", "A-3, B-2, C-1", "A-1, B-2, C-3"],
     correct: 0,
     explanation: "As per DA-131 notes: Dead heart - stem borer vegetative stage paddy, White ear - stem borer reproductive stage paddy, Bunchy top - stem borer in sugarcane."
@@ -1618,9 +1593,7 @@ A-Dead heart, B-White ear, C-Bunchy top
     subject: "da-131",
     lecture: "lecture-7",
     lectureNo: 7,
-    question: "Match the insect order with metamorphosis type:
-A-Orthoptera, B-Coleoptera, C-Lepidoptera
-1-Complete (holometabolous), 2-Hemimetabolous, 3-Complete (holometabolous)",
+    question: "Match the insect order with metamorphosis type:\nA-Orthoptera, B-Coleoptera, C-Lepidoptera\n1-Complete (holometabolous), 2-Hemimetabolous, 3-Complete (holometabolous)",
     options: ["A-1, B-2, C-3", "A-2, B-3, C-1", "A-3, B-2, C-1", "A-2, B-1, C-3"],
     correct: 3,
     explanation: "As per DA-131 notes: Orthoptera-hemimetabolous, Coleoptera-complete metamorphosis, Lepidoptera-complete metamorphosis."
@@ -1630,9 +1603,7 @@ A-Orthoptera, B-Coleoptera, C-Lepidoptera
     subject: "da-131",
     lecture: "lecture-8",
     lectureNo: 8,
-    question: "Match the pest control method with example:
-A-Cultural, B-Biological, C-Physical
-1-Vapour Heat Treatment, 2-Bt application, 3-Crop rotation",
+    question: "Match the pest control method with example:\nA-Cultural, B-Biological, C-Physical\n1-Vapour Heat Treatment, 2-Bt application, 3-Crop rotation",
     options: ["A-2, B-3, C-1", "A-3, B-1, C-2", "A-3, B-2, C-1", "A-1, B-3, C-2"],
     correct: 2,
     explanation: "As per DA-131 notes: Crop rotation is cultural control, Bt application is biological/microbial control, VHT is physical control."
@@ -1642,9 +1613,7 @@ A-Cultural, B-Biological, C-Physical
     subject: "da-131",
     lecture: "lecture-9",
     lectureNo: 9,
-    question: "Match the insect with the scientific name:
-A-Rice gall midge, B-Jowar shoot fly, C-Indian honey bee
-1-Apis cerana indica, 2-Orseolia oryzae, 3-Atherigona soccata",
+    question: "Match the insect with the scientific name:\nA-Rice gall midge, B-Jowar shoot fly, C-Indian honey bee\n1-Apis cerana indica, 2-Orseolia oryzae, 3-Atherigona soccata",
     options: ["A-3, B-2, C-1", "A-2, B-1, C-3", "A-1, B-3, C-2", "A-2, B-3, C-1"],
     correct: 3,
     explanation: "As per DA-131 notes: Rice gall midge-Orseolia oryzae, Jowar shootfly-Atherigona soccata, Indian honey bee-Apis cerana indica."
@@ -1654,9 +1623,7 @@ A-Rice gall midge, B-Jowar shoot fly, C-Indian honey bee
     subject: "da-131",
     lecture: "lecture-10",
     lectureNo: 10,
-    question: "Match the insect larval form with order:
-A-Caterpillar, B-Grub, C-Maggot
-1-Coleoptera, 2-Diptera, 3-Lepidoptera",
+    question: "Match the insect larval form with order:\nA-Caterpillar, B-Grub, C-Maggot\n1-Coleoptera, 2-Diptera, 3-Lepidoptera",
     options: ["A-3, B-2, C-1", "A-1, B-3, C-2", "A-3, B-1, C-2", "A-2, B-1, C-3"],
     correct: 2,
     explanation: "As per DA-131 notes: Lepidoptera larvae-caterpillars, Coleoptera larvae-grubs, Diptera larvae-maggots."
@@ -1666,9 +1633,7 @@ A-Caterpillar, B-Grub, C-Maggot
     subject: "da-131",
     lecture: "lecture-11",
     lectureNo: 11,
-    question: "Match the trap crop with the main crop:
-A-Castor, B-Tomato, C-Marigold
-1-Cotton (bollworm), 2-Chillies (tobacco caterpillar), 3-Citrus (fruit sucking moths)",
+    question: "Match the trap crop with the main crop:\nA-Castor, B-Tomato, C-Marigold\n1-Cotton (bollworm), 2-Chillies (tobacco caterpillar), 3-Citrus (fruit sucking moths)",
     options: ["A-3, B-2, C-1", "A-1, B-3, C-2", "A-2, B-3, C-1", "A-1, B-2, C-3"],
     correct: 2,
     explanation: "As per DA-131 notes: Castor-Chillies against tobacco caterpillar, Tomato-Citrus against fruit sucking moths, Marigold-Cotton against bollworm."
@@ -1678,9 +1643,7 @@ A-Castor, B-Tomato, C-Marigold
     subject: "da-131",
     lecture: "lecture-12",
     lectureNo: 12,
-    question: "Match the headpart with function:
-A-Labrum, B-Mandibles,C-Hypopharynx
-1-Tongue-like structure where salivary ducts open, 2-Upper lip protecting mouthparts, 3-Paired jaws for cutting food",
+    question: "Match the headpart with function:\nA-Labrum, B-Mandibles,C-Hypopharynx\n1-Tongue-like structure where salivary ducts open, 2-Upper lip protecting mouthparts, 3-Paired jaws for cutting food",
     options: ["A-3, B-2, C-1", "A-2, B-1, C-3", "A-1, B-3, C-2", "A-2, B-3, C-1"],
     correct: 3,
     explanation: "As per DA-131 notes: Labrum is upper lip protecting mandibles, Mandibles are paired jaws for cutting food, Hypopharynx is tongue-like with salivary gland openings."
@@ -1690,9 +1653,7 @@ A-Labrum, B-Mandibles,C-Hypopharynx
     subject: "da-131",
     lecture: "lecture-13",
     lectureNo: 13,
-    question: "Match the insect species with order:
-A-Chilli thrip (Scirtothrips dorsalis), B-Stink bug (Nezara viridula), C-American bollworm (Helicoverpa armigera)
-1-Hemiptera, 2-Thysanoptera, 3-Lepidoptera",
+    question: "Match the insect species with order:\nA-Chilli thrip (Scirtothrips dorsalis), B-Stink bug (Nezara viridula), C-American bollworm (Helicoverpa armigera)\n1-Hemiptera, 2-Thysanoptera, 3-Lepidoptera",
     options: ["A-3, B-1, C-2", "A-2, B-1, C-3", "A-1, B-2, C-3", "A-2, B-3, C-1"],
     correct: 1,
     explanation: "As per DA-131 notes: Chilli thrip (Thysanoptera), Stink Bug-Nezara viridula (Hemiptera-Heteroptera), Helicoverpa (Lepidoptera)."
@@ -1702,9 +1663,7 @@ A-Chilli thrip (Scirtothrips dorsalis), B-Stink bug (Nezara viridula), C-America
     subject: "da-131",
     lecture: "lecture-14",
     lectureNo: 14,
-    question: "Match the microbial biocontrol agent with affected pest type:
-A-Bt bacteria, B-NPV virus, C-Beauveria fungus
-1-Infects through cuticle by fungal enzymes, 2-Infects 150+ Lepidoptera by ingestion, 3-Infects 200+ Lepidoptera by ingestion",
+    question: "Match the microbial biocontrol agent with affected pest type:\nA-Bt bacteria, B-NPV virus, C-Beauveria fungus\n1-Infects through cuticle by fungal enzymes, 2-Infects 150+ Lepidoptera by ingestion, 3-Infects 200+ Lepidoptera by ingestion",
     options: ["A-2, B-3, C-1", "A-2, B-1, C-3", "A-3, B-2, C-1", "A-1, B-2, C-3"],
     correct: 0,
     explanation: "As per DA-131 notes: Bt-infects 150+ species by ingestion, NPV-affects 200 species of insects by ingestion, Beauveria-entomopathogenic fungi infecting through cuticle."
@@ -1714,9 +1673,7 @@ A-Bt bacteria, B-NPV virus, C-Beauveria fungus
     subject: "da-131",
     lecture: "lecture-15",
     lectureNo: 15,
-    question: "Match the paddy variety with resistance character:
-A-GEB-24, B-Surekha, C-TKM-6
-1-Resistant to stem borer, 2-Resistant to brown plant hopper, 3-Resistant to gall midge",
+    question: "Match the paddy variety with resistance character:\nA-GEB-24, B-Surekha, C-TKM-6\n1-Resistant to stem borer, 2-Resistant to brown plant hopper, 3-Resistant to gall midge",
     options: ["A-3, B-2, C-1", "A-2, B-1, C-3", "A-1, B-3, C-2", "A-2, B-3, C-1"],
     correct: 3,
     explanation: "As per DA-131 notes: GEB-24 and MTU-5249 resistant to BPH, Surekha variety resistant to gall midge, TKM-6 and Ratna resistant to stem borer."
@@ -1726,9 +1683,7 @@ A-GEB-24, B-Surekha, C-TKM-6
     subject: "da-131",
     lecture: "lecture-16",
     lectureNo: 16,
-    question: "Match the insect abdomen structure with description:
-A-Anal cerci, B-Anal styles, C-Gonapophyses
-1-Paired jointed outgrowths from 10th tergum sensitive to sound, 2-Sclerites surrounding genital aperture, 3-Paired thin unjointed outgrowths from 9th sternum of male",
+    question: "Match the insect abdomen structure with description:\nA-Anal cerci, B-Anal styles, C-Gonapophyses\n1-Paired jointed outgrowths from 10th tergum sensitive to sound, 2-Sclerites surrounding genital aperture, 3-Paired thin unjointed outgrowths from 9th sternum of male",
     options: ["A-1, B-3, C-2", "A-2, B-3, C-1", "A-1, B-2, C-3", "A-3, B-1, C-2"],
     correct: 0,
     explanation: "As per DA-131 notes: Anal cerci-paired jointed outgrowths from 10th tergum sensitive to sound/vibration, Anal styles-paired thin unjointed from 9th sternum of male, Gonapophyses-sclerites surrounding genital aperture."

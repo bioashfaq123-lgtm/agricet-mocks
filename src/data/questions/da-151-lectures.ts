@@ -2301,8 +2301,7 @@ export const da151LectureQuestions: Question[] = [
     subject: "da-151",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Assertion (A): Diesel engines are more fuel efficient than petrol engines.
-Reason (R): Diesel engines have thermal efficiency of 32-38% versus 25-32% for petrol engines.",
+    question: "Assertion (A): Diesel engines are more fuel efficient than petrol engines.\nReason (R): Diesel engines have thermal efficiency of 32-38% versus 25-32% for petrol engines.",
     options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
     correct: 1,
     explanation: "As per DA-151 notes: Diesel engine thermal efficiency 32-38%, petrol engine 25-32%."
@@ -2312,8 +2311,7 @@ Reason (R): Diesel engines have thermal efficiency of 32-38% versus 25-32% for p
     subject: "da-151",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Assertion (A): Petrol engines start more easily than diesel engines in cold weather.
-Reason (R): Petrol vaporizes quicker than diesel oil in the engine cylinder.",
+    question: "Assertion (A): Petrol engines start more easily than diesel engines in cold weather.\nReason (R): Petrol vaporizes quicker than diesel oil in the engine cylinder.",
     options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
     correct: 1,
     explanation: "As per DA-151 notes: Petrol vaporizes quicker than diesel oil in the engine cylinder, helping easy starting of petrol engines."
@@ -2323,8 +2321,7 @@ Reason (R): Petrol vaporizes quicker than diesel oil in the engine cylinder.",
     subject: "da-151",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Assertion (A): Two stroke engines produce about 1.5 times more power than four stroke for same cylinder size.
-Reason (R): Two stroke engine completes a power stroke in every revolution of crankshaft.",
+    question: "Assertion (A): Two stroke engines produce about 1.5 times more power than four stroke for same cylinder size.\nReason (R): Two stroke engine completes a power stroke in every revolution of crankshaft.",
     options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
     correct: 1,
     explanation: "As per DA-151 notes: Two stroke engine has one power stroke per revolution while four stroke has one per two revolutions, giving 1.5 times more power."
@@ -2334,8 +2331,7 @@ Reason (R): Two stroke engine completes a power stroke in every revolution of cr
     subject: "da-151",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Assertion (A): Flywheel provides uniform rotary motion in IC engine.
-Reason (R): Flywheel stores energy during power stroke and returns it during idle strokes.",
+    question: "Assertion (A): Flywheel provides uniform rotary motion in IC engine.\nReason (R): Flywheel stores energy during power stroke and returns it during idle strokes.",
     options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
     correct: 1,
     explanation: "As per DA-151 notes: Flywheel stores energy during power stroke and returns same energy during idle strokes, providing uniform rotary motion by virtue of its inertia."
@@ -2345,8 +2341,7 @@ Reason (R): Flywheel stores energy during power stroke and returns it during idl
     subject: "da-151",
     lecture: "lecture-6",
     lectureNo: 6,
-    question: "Assertion (A): Lubrication oil has a cleaning effect on the engine.
-Reason (R): Lubrication keeps the engine clean by removing dirt or carbon from inside of the engine along with the oil.",
+    question: "Assertion (A): Lubrication oil has a cleaning effect on the engine.\nReason (R): Lubrication keeps the engine clean by removing dirt or carbon from inside of the engine along with the oil.",
     options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
     correct: 1,
     explanation: "As per DA-151 notes: Lubrication keeps the engine clean by removing dirt or carbon from inside of the engine along with the oil - cleaning effect."
@@ -2356,8 +2351,7 @@ Reason (R): Lubrication keeps the engine clean by removing dirt or carbon from i
     subject: "da-151",
     lecture: "lecture-7",
     lectureNo: 7,
-    question: "Assertion (A): Only 30% of heat in IC engine is used for useful power.
-Reason (R): 40% of heat is lost via exhaust gases and 30% is removed by the cooling system.",
+    question: "Assertion (A): Only 30% of heat in IC engine is used for useful power.\nReason (R): 40% of heat is lost via exhaust gases and 30% is removed by the cooling system.",
     options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
     correct: 1,
     explanation: "As per DA-151 notes: 40% of total heat produced is passed to atmosphere via exhaust, 30% removed by cooling system and only 30% used to produce useful power."
@@ -2367,8 +2361,7 @@ Reason (R): 40% of heat is lost via exhaust gases and 30% is removed by the cool
     subject: "da-151",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Assertion (A): Compression rings are placed in grooves nearest to the piston head.
-Reason (R): They prevent leakage of gases from the cylinder and help increasing compression pressure.",
+    question: "Assertion (A): Compression rings are placed in grooves nearest to the piston head.\nReason (R): They prevent leakage of gases from the cylinder and help increasing compression pressure.",
     options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
     correct: 1,
     explanation: "As per DA-151 notes: Compression rings are always placed in grooves of piston nearest to the piston head; they prevent leakage and help increasing compression pressure."
@@ -2378,8 +2371,7 @@ Reason (R): They prevent leakage of gases from the cylinder and help increasing 
     subject: "da-151",
     lecture: "lecture-5",
     lectureNo: 5,
-    question: "Assertion (A): Diesel engine develops more torque when heavily loaded.
-Reason (R): This characteristic is not present in carburetor/petrol engines.",
+    question: "Assertion (A): Diesel engine develops more torque when heavily loaded.\nReason (R): This characteristic is not present in carburetor/petrol engines.",
     options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
     correct: 1,
     explanation: "As per DA-151 notes: Diesel engine develops more torque when heavily loaded; this characteristic is not present in carburetor engines."
@@ -2389,8 +2381,7 @@ Reason (R): This characteristic is not present in carburetor/petrol engines.",
     subject: "da-151",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "Assertion (A): Animal power is most important farm power source particularly in India.
-Reason (R): 80% of total draft power in world agriculture is still provided by animals.",
+    question: "Assertion (A): Animal power is most important farm power source particularly in India.\nReason (R): 80% of total draft power in world agriculture is still provided by animals.",
     options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
     correct: 1,
     explanation: "As per DA-151 notes: Animal is the most important source of power on farm and nearly 80% of total draft power in agriculture throughout World is still provided by animals."
@@ -2400,8 +2391,7 @@ Reason (R): 80% of total draft power in world agriculture is still provided by a
     subject: "da-151",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Assertion (A): In diesel engine, only air is taken in during suction stroke.
-Reason (R): Fuel is injected separately into the compressed hot air at the end of compression stroke.",
+    question: "Assertion (A): In diesel engine, only air is taken in during suction stroke.\nReason (R): Fuel is injected separately into the compressed hot air at the end of compression stroke.",
     options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
     correct: 1,
     explanation: "As per DA-151 notes: In diesel engine, air alone is taken in during suction stroke; fuel is injected through fuel injectors and ignited by heat of compression."
@@ -2411,8 +2401,7 @@ Reason (R): Fuel is injected separately into the compressed hot air at the end o
     subject: "da-151",
     lecture: "lecture-7",
     lectureNo: 7,
-    question: "Assertion (A): High temperature in IC engine can cause piston seizure.
-Reason (R): Cylinder and piston may expand to such an extent that piston seizes in cylinder.",
+    question: "Assertion (A): High temperature in IC engine can cause piston seizure.\nReason (R): Cylinder and piston may expand to such an extent that piston seizes in cylinder.",
     options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
     correct: 1,
     explanation: "As per DA-151 notes: Cylinder and piston may expand to such an extent that piston would seize in the cylinder and stop the engine - a bad effect of high temperature."
@@ -2422,8 +2411,7 @@ Reason (R): Cylinder and piston may expand to such an extent that piston seizes 
     subject: "da-151",
     lecture: "lecture-6",
     lectureNo: 6,
-    question: "Assertion (A): Forced feed lubrication system is used in tractors and trucks.
-Reason (R): This system is suitable for high speed multi-cylinder engines.",
+    question: "Assertion (A): Forced feed lubrication system is used in tractors and trucks.\nReason (R): This system is suitable for high speed multi-cylinder engines.",
     options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
     correct: 1,
     explanation: "As per DA-151 notes: Forced feed system is commonly used on high speed multi-cylinder engine in tractors, trucks and automobiles."
@@ -2433,8 +2421,7 @@ Reason (R): This system is suitable for high speed multi-cylinder engines.",
     subject: "da-151",
     lecture: "lecture-5",
     lectureNo: 5,
-    question: "Assertion (A): Higher cetane number fuels have better combustibility.
-Reason (R): Higher cetane number means shorter delay interval between injection and auto-ignition.",
+    question: "Assertion (A): Higher cetane number fuels have better combustibility.\nReason (R): Higher cetane number means shorter delay interval between injection and auto-ignition.",
     options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
     correct: 1,
     explanation: "As per DA-151 notes: The higher the cetane number, the shorter the delay interval and the greater its combustibility."
@@ -2444,8 +2431,7 @@ Reason (R): Higher cetane number means shorter delay interval between injection 
     subject: "da-151",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Assertion (A): Camshaft gear is called half time gear.
-Reason (R): The camshaft gear has twice as many teeth as the crankshaft gear.",
+    question: "Assertion (A): Camshaft gear is called half time gear.\nReason (R): The camshaft gear has twice as many teeth as the crankshaft gear.",
     options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
     correct: 1,
     explanation: "As per DA-151 notes: Camshaft gear is bigger and has twice as many teeth as crankshaft gear, hence called Half time gear."
@@ -2455,8 +2441,7 @@ Reason (R): The camshaft gear has twice as many teeth as the crankshaft gear.",
     subject: "da-151",
     lecture: "lecture-7",
     lectureNo: 7,
-    question: "Assertion (A): Air cooled engines use fins on cylinders.
-Reason (R): Fins increase the area of contact with air for speedy cooling of the cylinder.",
+    question: "Assertion (A): Air cooled engines use fins on cylinders.\nReason (R): Fins increase the area of contact with air for speedy cooling of the cylinder.",
     options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
     correct: 1,
     explanation: "As per DA-151 notes: The cylinder of an air cooled engine has fins to increase the area of contact of air for speedy cooling."
@@ -2466,9 +2451,7 @@ Reason (R): Fins increase the area of contact with air for speedy cooling of the
     subject: "da-151",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "Match the farm power source with advantage:
-A-Human power, B-Animal power, C-Mechanical power
-1-Not affected by weather, 2-Easily available for all work, 3-Supplies manure to field",
+    question: "Match the farm power source with advantage:\nA-Human power, B-Animal power, C-Mechanical power\n1-Not affected by weather, 2-Easily available for all work, 3-Supplies manure to field",
     options: ["A-2, B-1, C-3", "A-2, B-3, C-1", "A-3, B-2, C-1", "A-1, B-3, C-2"],
     correct: 1,
     explanation: "As per DA-151 notes: Human power - easily available for all types of work; Animal power - supplies manure to field and lives on farm produce; Mechanical power - not affected by weather."
@@ -2478,9 +2461,7 @@ A-Human power, B-Animal power, C-Mechanical power
     subject: "da-151",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Match the engine with ignition type:
-A-Petrol engine, B-Diesel engine, C-Steam engine
-1-External combustion, 2-Compression ignition, 3-Spark ignition",
+    question: "Match the engine with ignition type:\nA-Petrol engine, B-Diesel engine, C-Steam engine\n1-External combustion, 2-Compression ignition, 3-Spark ignition",
     options: ["A-1, B-2, C-3", "A-3, B-2, C-1", "A-3, B-1, C-2", "A-2, B-3, C-1"],
     correct: 1,
     explanation: "As per DA-151 notes: Petrol engine-spark ignition, Diesel engine-compression ignition, Steam engine-external combustion."
@@ -2490,9 +2471,7 @@ A-Petrol engine, B-Diesel engine, C-Steam engine
     subject: "da-151",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Match the engine component with function:
-A-Cylinder, B-Crankshaft, C-Camshaft
-1-Raises and lowers valves, 2-Converts reciprocating to rotary motion, 3-Confines expanding gases",
+    question: "Match the engine component with function:\nA-Cylinder, B-Crankshaft, C-Camshaft\n1-Raises and lowers valves, 2-Converts reciprocating to rotary motion, 3-Confines expanding gases",
     options: ["A-1, B-2, C-3", "A-3, B-2, C-1", "A-3, B-1, C-2", "A-2, B-3, C-1"],
     correct: 1,
     explanation: "As per DA-151 notes: Cylinder-confines expanding gases, Crankshaft-converts reciprocating to rotary motion, Camshaft-raises and lowers inlet and exhaust valves."
@@ -2502,9 +2481,7 @@ A-Cylinder, B-Crankshaft, C-Camshaft
     subject: "da-151",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Match the IC engine stroke with valve status:
-A-Suction, B-Compression, C-Power
-1-Both valves closed, 2-Exhaust closed inlet open, 3-Both valves closed",
+    question: "Match the IC engine stroke with valve status:\nA-Suction, B-Compression, C-Power\n1-Both valves closed, 2-Exhaust closed inlet open, 3-Both valves closed",
     options: ["A-1, B-2, C-3", "A-2, B-1, C-3", "A-3, B-1, C-2", "A-2, B-3, C-1"],
     correct: 1,
     explanation: "As per DA-151 notes: Suction stroke-inlet open, exhaust closed; Compression stroke-both valves closed; Power stroke-both valves closed."
@@ -2514,9 +2491,7 @@ A-Suction, B-Compression, C-Power
     subject: "da-151",
     lecture: "lecture-5",
     lectureNo: 5,
-    question: "Match the fuel with calorific value:
-A-Petrol, B-Power kerosene, C-High speed diesel oil
-1-10,550 kcal/kg, 2-11,100 kcal/kg, 3-10,850 kcal/kg",
+    question: "Match the fuel with calorific value:\nA-Petrol, B-Power kerosene, C-High speed diesel oil\n1-10,550 kcal/kg, 2-11,100 kcal/kg, 3-10,850 kcal/kg",
     options: ["A-2, B-3, C-1", "A-1, B-2, C-3", "A-3, B-2, C-1", "A-2, B-1, C-3"],
     correct: 0,
     explanation: "As per DA-151 notes: Petrol-11,100 kcal/kg, Power kerosene-10,850 kcal/kg, HSD oil-10,550 kcal/kg."
@@ -2526,9 +2501,7 @@ A-Petrol, B-Power kerosene, C-High speed diesel oil
     subject: "da-151",
     lecture: "lecture-6",
     lectureNo: 6,
-    question: "Match the lubrication effect with description:
-A-Reducing friction, B-Sealing effect, C-Cleaning effect
-1-Removes dirt and carbon, 2-Prevents gas leakage, 3-Forms oil film between surfaces",
+    question: "Match the lubrication effect with description:\nA-Reducing friction, B-Sealing effect, C-Cleaning effect\n1-Removes dirt and carbon, 2-Prevents gas leakage, 3-Forms oil film between surfaces",
     options: ["A-1, B-2, C-3", "A-3, B-2, C-1", "A-3, B-1, C-2", "A-2, B-3, C-1"],
     correct: 1,
     explanation: "As per DA-151 notes: Reducing friction - forms oil film between surfaces; Sealing - prevents gas leakage from cylinder; Cleaning - removes dirt and carbon."
@@ -2538,9 +2511,7 @@ A-Reducing friction, B-Sealing effect, C-Cleaning effect
     subject: "da-151",
     lecture: "lecture-7",
     lectureNo: 7,
-    question: "Match the heat distribution in IC engine with percentage:
-A-Exhaust heat loss, B-Cooling system removal, C-Useful power
-1-30%, 2-40%, 3-30%",
+    question: "Match the heat distribution in IC engine with percentage:\nA-Exhaust heat loss, B-Cooling system removal, C-Useful power\n1-30%, 2-40%, 3-30%",
     options: ["A-2, B-3, C-1", "A-1, B-2, C-3", "A-3, B-2, C-1", "A-2, B-1, C-3"],
     correct: 0,
     explanation: "As per DA-151 notes: 40% via exhaust, 30% removed by cooling system, only 30% used to produce useful power."
@@ -2550,9 +2521,7 @@ A-Exhaust heat loss, B-Cooling system removal, C-Useful power
     subject: "da-151",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Match the engine type with fuel consumption characteristic:
-A-Four stroke, B-Two stroke, C-Diesel vs petrol
-1-Diesel uses less fuel than petrol, 2-Little fuel consumption, 3-High fuel consumption (15% more)",
+    question: "Match the engine type with fuel consumption characteristic:\nA-Four stroke, B-Two stroke, C-Diesel vs petrol\n1-Diesel uses less fuel than petrol, 2-Little fuel consumption, 3-High fuel consumption (15% more)",
     options: ["A-2, B-3, C-1", "A-1, B-2, C-3", "A-3, B-2, C-1", "A-2, B-1, C-3"],
     correct: 0,
     explanation: "As per DA-151 notes: Four stroke-little fuel consumption, Two stroke-high (15% more), Diesel-less fuel than petrol."
@@ -2562,9 +2531,7 @@ A-Four stroke, B-Two stroke, C-Diesel vs petrol
     subject: "da-151",
     lecture: "lecture-5",
     lectureNo: 5,
-    question: "Match the diesel fuel system component with function:
-A-Fuel lift pump, B-Fuel injection pump, C-Fuel injector
-1-Delivers atomized fuel to combustion chamber, 2-Supplies high pressure fuel to injectors, 3-Transfers fuel from tank to injection pump",
+    question: "Match the diesel fuel system component with function:\nA-Fuel lift pump, B-Fuel injection pump, C-Fuel injector\n1-Delivers atomized fuel to combustion chamber, 2-Supplies high pressure fuel to injectors, 3-Transfers fuel from tank to injection pump",
     options: ["A-1, B-2, C-3", "A-3, B-2, C-1", "A-3, B-1, C-2", "A-2, B-3, C-1"],
     correct: 1,
     explanation: "As per DA-151 notes: Fuel lift pump-transfers fuel from tank to injection pump, Injection pump-supplies high pressure fuel, Fuel injector-delivers atomized fuel to combustion chamber."
@@ -2574,9 +2541,7 @@ A-Fuel lift pump, B-Fuel injection pump, C-Fuel injector
     subject: "da-151",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Match the piston ring type with function:
-A-Compression ring, B-Oil ring, C-Both ring types
-1-Controls oil distribution, 2-Prevents gas leakage, 3-Placed in piston grooves",
+    question: "Match the piston ring type with function:\nA-Compression ring, B-Oil ring, C-Both ring types\n1-Controls oil distribution, 2-Prevents gas leakage, 3-Placed in piston grooves",
     options: ["A-1, B-2, C-3", "A-2, B-1, C-3", "A-3, B-1, C-2", "A-2, B-3, C-1"],
     correct: 1,
     explanation: "As per DA-151 notes: Compression ring-prevents gas leakage from cylinder; Oil ring-controls distribution of lubricating oil; Both types placed in piston grooves."
@@ -2586,9 +2551,7 @@ A-Compression ring, B-Oil ring, C-Both ring types
     subject: "da-151",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Match the engine parameter with diesel vs petrol comparison:
-A-Compression ratio, B-Engine weight/hp, C-Operating cost
-1-High for diesel, low for petrol, 2-High for petrol, low for diesel, 3-Low for diesel, high for petrol",
+    question: "Match the engine parameter with diesel vs petrol comparison:\nA-Compression ratio, B-Engine weight/hp, C-Operating cost\n1-High for diesel, low for petrol, 2-High for petrol, low for diesel, 3-Low for diesel, high for petrol",
     options: ["A-3, B-2, C-1", "A-1, B-1, C-3", "A-2, B-1, C-3", "A-1, B-2, C-3"],
     correct: 3,
     explanation: "As per DA-151 notes: Compression ratio-diesel 14:1-20:1 (high), petrol 5:1-8:1 (low); Engine weight/hp-diesel high, petrol low; Operating cost-diesel low, petrol high."
@@ -2598,9 +2561,7 @@ A-Compression ratio, B-Engine weight/hp, C-Operating cost
     subject: "da-151",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "Match the renewable energy source with application:
-A-Solar energy, B-Wind energy, C-Biogas
-1-Domestic cooking and lighting, 2-Solar dryers and cooker, 3-Water pumping and electricity",
+    question: "Match the renewable energy source with application:\nA-Solar energy, B-Wind energy, C-Biogas\n1-Domestic cooking and lighting, 2-Solar dryers and cooker, 3-Water pumping and electricity",
     options: ["A-2, B-3, C-1", "A-1, B-2, C-3", "A-3, B-2, C-1", "A-2, B-1, C-3"],
     correct: 0,
     explanation: "As per DA-151 notes: Solar energy-solar dryers, lantern, cooker; Wind energy-water pumping, electricity generation; Biomass/Biogas-gasification, cooking and lighting."
@@ -2610,9 +2571,7 @@ A-Solar energy, B-Wind energy, C-Biogas
     subject: "da-151",
     lecture: "lecture-6",
     lectureNo: 6,
-    question: "Match the oil pressure problem with cause:
-A-Low oil pressure, B-Excessive oil pressure, C-Excessive oil consumption
-1-Oil entering combustion chamber, 2-Stuck relief valve, 3-Worn oil pump",
+    question: "Match the oil pressure problem with cause:\nA-Low oil pressure, B-Excessive oil pressure, C-Excessive oil consumption\n1-Oil entering combustion chamber, 2-Stuck relief valve, 3-Worn oil pump",
     options: ["A-1, B-2, C-3", "A-3, B-2, C-1", "A-3, B-1, C-2", "A-2, B-3, C-1"],
     correct: 1,
     explanation: "As per DA-151 notes: Low oil pressure-worn oil pump; Excessive oil pressure-stuck relief valve; Excessive oil consumption-oil entering combustion chamber."
@@ -2622,9 +2581,7 @@ A-Low oil pressure, B-Excessive oil pressure, C-Excessive oil consumption
     subject: "da-151",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Match the engine classification basis with types:
-A-Based on fuel, B-Based on cooling, C-Based on combustion
-1-Internal and external, 2-Diesel, petrol, gas, 3-Air cooled and water cooled",
+    question: "Match the engine classification basis with types:\nA-Based on fuel, B-Based on cooling, C-Based on combustion\n1-Internal and external, 2-Diesel, petrol, gas, 3-Air cooled and water cooled",
     options: ["A-2, B-3, C-1", "A-1, B-2, C-3", "A-3, B-2, C-1", "A-2, B-1, C-3"],
     correct: 0,
     explanation: "As per DA-151 notes: Based on fuel-diesel/petrol/gas engines; Based on cooling-air cooled and water cooled; Based on combustion-internal and external combustion."
@@ -2634,9 +2591,7 @@ A-Based on fuel, B-Based on cooling, C-Based on combustion
     subject: "da-151",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Match the engine component with material:
-A-Connecting rod, B-Piston rings, C-Flywheel
-1-Cast iron, 2-Drop forged steel, 3-Cast iron or pressed steel alloy",
+    question: "Match the engine component with material:\nA-Connecting rod, B-Piston rings, C-Flywheel\n1-Cast iron, 2-Drop forged steel, 3-Cast iron or pressed steel alloy",
     options: ["A-2, B-3, C-1", "A-1, B-2, C-3", "A-3, B-2, C-1", "A-2, B-1, C-3"],
     correct: 0,
     explanation: "As per DA-151 notes: Connecting rod-drop forged steel; Piston rings-cast iron or pressed steel alloy; Flywheel-cast iron."

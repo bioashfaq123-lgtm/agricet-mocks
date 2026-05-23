@@ -700,7 +700,7 @@ export const da262Questions: Question[] = [
     options: ["A floating toolbar that can be moved anywhere", "A horizontal bar at the bottom of screen with START menu on left and Notification area on right", "A toolbar that appears only when the mouse hovers over it", "A vertical bar on the left side of the screen"],
     correct: 1,
     explanation: "As per DA-262 notes: Taskbar is the rectangular bar that runs horizontally across the bottom of the screen. It has the START menu on the left and the Notification area on the right. All open applications are shown on the Taskbar."
-  }
+  },
 
 
   {

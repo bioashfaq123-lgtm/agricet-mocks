@@ -2148,8 +2148,7 @@ export const da101LectureQuestions: Question[] = [
     subject: "da-101",
     lecture: "lecture-2",
     lectureNo: 2,
-    question: "Assertion (A): PJTSAU was established after the bifurcation of Andhra Pradesh in 2014.
-Reason (R): Before bifurcation, agriculture universities in the combined Andhra Pradesh served both regions.",
+    question: "Assertion (A): PJTSAU was established after the bifurcation of Andhra Pradesh in 2014.\nReason (R): Before bifurcation, agriculture universities in the combined Andhra Pradesh served both regions.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-101 notes: PJTSAU was established after Telangana became a separate state in 2014. The earlier university (ANGRAU) served combined AP. Both statements are true and R explains A."
@@ -2159,8 +2158,7 @@ Reason (R): Before bifurcation, agriculture universities in the combined Andhra 
     subject: "da-101",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Assertion (A): The troposphere is heated from below.
-Reason (R): Most solar radiation is first absorbed by the Earth's surface, which then heats the air above it.",
+    question: "Assertion (A): The troposphere is heated from below.\nReason (R): Most solar radiation is first absorbed by the Earth's surface, which then heats the air above it.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-101 notes: The troposphere is heated from below because most radiation received from the sun is absorbed by the earth's surface, which then radiates heat upward."
@@ -2170,8 +2168,7 @@ Reason (R): Most solar radiation is first absorbed by the Earth's surface, which
     subject: "da-101",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Assertion (A): The ozone layer protects life on Earth from harmful UV radiation.
-Reason (R): Ozone in the stratosphere selectively absorbs ultraviolet rays from the sun.",
+    question: "Assertion (A): The ozone layer protects life on Earth from harmful UV radiation.\nReason (R): Ozone in the stratosphere selectively absorbs ultraviolet rays from the sun.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-101 notes: The ozone layer in the stratosphere absorbs UV radiation from the sun, thus protecting life on earth. Both A and R are true, R correctly explains A."
@@ -2181,8 +2178,7 @@ Reason (R): Ozone in the stratosphere selectively absorbs ultraviolet rays from 
     subject: "da-101",
     lecture: "lecture-6",
     lectureNo: 6,
-    question: "Assertion (A): Puddling is beneficial for transplanted paddy cultivation.
-Reason (R): Puddling destroys soil structure, reduces percolation losses, and creates anaerobic conditions suitable for paddy growth.",
+    question: "Assertion (A): Puddling is beneficial for transplanted paddy cultivation.\nReason (R): Puddling destroys soil structure, reduces percolation losses, and creates anaerobic conditions suitable for paddy growth.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-101 notes: Puddling is done for transplanted paddy. It reduces percolation, creates anaerobic conditions, and controls weeds. Both A and R are true and R explains A."
@@ -2192,8 +2188,7 @@ Reason (R): Puddling destroys soil structure, reduces percolation losses, and cr
     subject: "da-101",
     lecture: "lecture-9",
     lectureNo: 9,
-    question: "Assertion (A): Weeds reduce crop yields significantly.
-Reason (R): Weeds compete with crops for nutrients, water, light, and space, reducing the resources available to the crop.",
+    question: "Assertion (A): Weeds reduce crop yields significantly.\nReason (R): Weeds compete with crops for nutrients, water, light, and space, reducing the resources available to the crop.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-101 notes: Weeds cause yield losses by competing with crops for all growth factors. Both A and R are true; R correctly explains A."
@@ -2203,8 +2198,7 @@ Reason (R): Weeds compete with crops for nutrients, water, light, and space, red
     subject: "da-101",
     lecture: "lecture-10",
     lectureNo: 10,
-    question: "Assertion (A): 2,4-D is widely used in wheat fields to control weeds.
-Reason (R): 2,4-D is a selective herbicide that kills broadleaf weeds but does not harm grassy crops like wheat.",
+    question: "Assertion (A): 2,4-D is widely used in wheat fields to control weeds.\nReason (R): 2,4-D is a selective herbicide that kills broadleaf weeds but does not harm grassy crops like wheat.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-101 notes: 2,4-D is a selective broadleaf herbicide used in wheat fields. Both A and R are true; R correctly explains A."
@@ -2214,8 +2208,7 @@ Reason (R): 2,4-D is a selective herbicide that kills broadleaf weeds but does n
     subject: "da-101",
     lecture: "lecture-11",
     lectureNo: 11,
-    question: "Assertion (A): Drip irrigation has the highest water use efficiency among all irrigation methods.
-Reason (R): In drip irrigation, water is delivered directly to the root zone, minimising evaporation and runoff losses.",
+    question: "Assertion (A): Drip irrigation has the highest water use efficiency among all irrigation methods.\nReason (R): In drip irrigation, water is delivered directly to the root zone, minimising evaporation and runoff losses.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-101 notes: Drip irrigation has the highest water use efficiency (90-95%) because water is directly applied to the root zone, reducing losses. Both A and R are true."
@@ -2225,8 +2218,7 @@ Reason (R): In drip irrigation, water is delivered directly to the root zone, mi
     subject: "da-101",
     lecture: "lecture-12",
     lectureNo: 12,
-    question: "Assertion (A): Waterlogging reduces crop productivity.
-Reason (R): Excess water in soil displaces air, creating anaerobic conditions that are harmful to most upland crops.",
+    question: "Assertion (A): Waterlogging reduces crop productivity.\nReason (R): Excess water in soil displaces air, creating anaerobic conditions that are harmful to most upland crops.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-101 notes: Waterlogging creates anaerobic conditions by displacing air from soil pores, harming crop roots. Both A and R are true and R explains A."
@@ -2236,8 +2228,7 @@ Reason (R): Excess water in soil displaces air, creating anaerobic conditions th
     subject: "da-101",
     lecture: "lecture-14",
     lectureNo: 14,
-    question: "Assertion (A): Dryland agriculture is characterised by low and uncertain productivity.
-Reason (R): Dryland areas depend entirely on rainfall which is erratic and insufficient, leading to frequent moisture stress.",
+    question: "Assertion (A): Dryland agriculture is characterised by low and uncertain productivity.\nReason (R): Dryland areas depend entirely on rainfall which is erratic and insufficient, leading to frequent moisture stress.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-101 notes: Dryland agriculture has low productivity due to dependence on erratic rainfall. Both A and R are true; R correctly explains A."
@@ -2247,8 +2238,7 @@ Reason (R): Dryland areas depend entirely on rainfall which is erratic and insuf
     subject: "da-101",
     lecture: "lecture-17",
     lectureNo: 17,
-    question: "Assertion (A): Intercropping results in higher land use efficiency compared to sole cropping.
-Reason (R): In intercropping, different crops utilise space, light, and nutrients at different times and depths, improving resource utilisation.",
+    question: "Assertion (A): Intercropping results in higher land use efficiency compared to sole cropping.\nReason (R): In intercropping, different crops utilise space, light, and nutrients at different times and depths, improving resource utilisation.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-101 notes: Intercropping improves LER (Land Equivalent Ratio) by utilizing resources more efficiently. Both A and R are true; R explains A."
@@ -2258,8 +2248,7 @@ Reason (R): In intercropping, different crops utilise space, light, and nutrient
     subject: "da-101",
     lecture: "lecture-18",
     lectureNo: 18,
-    question: "Assertion (A): Including legumes in crop rotation improves soil fertility.
-Reason (R): Leguminous crops fix atmospheric nitrogen through Rhizobium symbiosis, enriching the soil with nitrogen for subsequent crops.",
+    question: "Assertion (A): Including legumes in crop rotation improves soil fertility.\nReason (R): Leguminous crops fix atmospheric nitrogen through Rhizobium symbiosis, enriching the soil with nitrogen for subsequent crops.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-101 notes: Legumes in rotation fix nitrogen via Rhizobium, improving soil fertility for the next crop. Both A and R are true; R correctly explains A."
@@ -2269,8 +2258,7 @@ Reason (R): Leguminous crops fix atmospheric nitrogen through Rhizobium symbiosi
     subject: "da-101",
     lecture: "lecture-19",
     lectureNo: 19,
-    question: "Assertion (A): Integrated Farming System (IFS) improves farm income and reduces risk.
-Reason (R): IFS combines crop, livestock and other enterprises so that failure in one enterprise is offset by income from others.",
+    question: "Assertion (A): Integrated Farming System (IFS) improves farm income and reduces risk.\nReason (R): IFS combines crop, livestock and other enterprises so that failure in one enterprise is offset by income from others.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-101 notes: IFS reduces risk because multiple enterprises provide alternative income sources. Both A and R are true; R correctly explains A."
@@ -2280,8 +2268,7 @@ Reason (R): IFS combines crop, livestock and other enterprises so that failure i
     subject: "da-101",
     lecture: "lecture-20",
     lectureNo: 20,
-    question: "Assertion (A): Organic farming does not use any chemical inputs.
-Reason (R): Organic farming is based on the principle of using only natural and biological inputs to maintain soil health and crop productivity.",
+    question: "Assertion (A): Organic farming does not use any chemical inputs.\nReason (R): Organic farming is based on the principle of using only natural and biological inputs to maintain soil health and crop productivity.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-101 notes: Organic farming avoids synthetic chemicals. Both A and R are true and R explains the principle behind A."
@@ -2291,8 +2278,7 @@ Reason (R): Organic farming is based on the principle of using only natural and 
     subject: "da-101",
     lecture: "lecture-8",
     lectureNo: 8,
-    question: "Assertion (A): Green manuring helps improve soil organic matter and nitrogen content.
-Reason (R): Green manure crops (usually legumes) are incorporated into the soil while still green, decomposing to release nutrients.",
+    question: "Assertion (A): Green manuring helps improve soil organic matter and nitrogen content.\nReason (R): Green manure crops (usually legumes) are incorporated into the soil while still green, decomposing to release nutrients.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-101 notes: Green manuring involves incorporating green plant material into soil while still green, improving organic matter and nitrogen content. Both A and R are true."
@@ -2302,8 +2288,7 @@ Reason (R): Green manure crops (usually legumes) are incorporated into the soil 
     subject: "da-101",
     lecture: "lecture-15",
     lectureNo: 15,
-    question: "Assertion (A): Watershed management helps control soil erosion and conserve water.
-Reason (R): Watershed management treats the entire catchment area through biological and engineering measures to check runoff and erosion.",
+    question: "Assertion (A): Watershed management helps control soil erosion and conserve water.\nReason (R): Watershed management treats the entire catchment area through biological and engineering measures to check runoff and erosion.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-101 notes: Watershed management uses both biological and engineering measures to conserve soil and water in the entire catchment area. Both A and R are true."
@@ -2313,12 +2298,7 @@ Reason (R): Watershed management treats the entire catchment area through biolog
     subject: "da-101",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "Match the following research institutes:
-     Column-I (Institute)        |  Column-II (Location)        |  Column-III (Crop/Subject)
-A.  ICRISAT                      |  1.  Jodhpur, Rajasthan       |  i.   Semi-Arid Tropics crops
-B.  CAZRI                        |  2.  Hyderabad, India         |  ii.  Arid Zone Research
-C.  SBI                          |  3.  Coimbatore, Tamil Nadu   |  iii. Sugarcane Breeding
-D.  CPRI                         |  4.  Simla, H.P.              |  iv.  Potato Research",
+    question: "Match the following research institutes:\n     Column-I (Institute)        |  Column-II (Location)        |  Column-III (Crop/Subject)\nA.  ICRISAT                      |  1.  Jodhpur, Rajasthan       |  i.   Semi-Arid Tropics crops\nB.  CAZRI                        |  2.  Hyderabad, India         |  ii.  Arid Zone Research\nC.  SBI                          |  3.  Coimbatore, Tamil Nadu   |  iii. Sugarcane Breeding\nD.  CPRI                         |  4.  Simla, H.P.              |  iv.  Potato Research",
     options: ["A-4-i,  B-3-ii,  C-2-iii,  D-1-iv", "A-2-i,  B-1-ii,  C-3-iii,  D-4-iv", "A-1-i,  B-2-ii,  C-4-iii,  D-3-iv", "A-2-ii, B-1-i,   C-3-iv,   D-4-iii"],
     correct: 1,
     explanation: "As per DA-101 notes: ICRISAT-Hyderabad (Semi-Arid Tropics), CAZRI-Jodhpur (Arid Zone), SBI-Coimbatore (Sugarcane), CPRI-Simla (Potato)."
@@ -2328,12 +2308,7 @@ D.  CPRI                         |  4.  Simla, H.P.              |  iv.  Potato 
     subject: "da-101",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "Match the following agriculture milestones:
-     Column-I (Year)             |  Column-II (Event)           |  Column-III (Significance)
-A.  1788                         |  1.  NABARD established       |  i.   Financial institution for agri
-B.  1903                         |  2.  First cotton improvement  |  ii.  First systematic crop R&D
-C.  1982                         |  3.  Imperial Agri. Res. Inst. |  iii. First research institute
-D.  1972                         |  4.  ICRISAT established       |  iv.  Dryland crop research",
+    question: "Match the following agriculture milestones:\n     Column-I (Year)             |  Column-II (Event)           |  Column-III (Significance)\nA.  1788                         |  1.  NABARD established       |  i.   Financial institution for agri\nB.  1903                         |  2.  First cotton improvement  |  ii.  First systematic crop R&D\nC.  1982                         |  3.  Imperial Agri. Res. Inst. |  iii. First research institute\nD.  1972                         |  4.  ICRISAT established       |  iv.  Dryland crop research",
     options: ["A-2-ii, B-3-iii, C-1-i,   D-4-iv", "A-4-iv, B-1-i,   C-2-ii,   D-3-iii", "A-1-i,  B-4-ii,  C-3-iii,  D-2-iv", "A-3-i,  B-2-ii,  C-4-iii,  D-1-iv"],
     correct: 0,
     explanation: "As per DA-101 notes: 1788-First cotton improvement; 1903-Imperial Agri Research Institute at Pusa; 1982-NABARD; 1972-ICRISAT established."
@@ -2343,12 +2318,7 @@ D.  1972                         |  4.  ICRISAT established       |  iv.  Drylan
     subject: "da-101",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Match the atmospheric layers:
-     Column-I (Layer)            |  Column-II (Height range)    |  Column-III (Feature)
-A.  Troposphere                  |  1.  80-400 km                |  i.   Radio wave reflection
-B.  Stratosphere                 |  2.  0-14 km                  |  ii.  Weather phenomena
-C.  Ionosphere                   |  3.  20-55 km                 |  iii. Photochemical reactions
-D.  Exosphere                    |  4.  Above 400 km             |  iv.  H and He gases dominate",
+    question: "Match the atmospheric layers:\n     Column-I (Layer)            |  Column-II (Height range)    |  Column-III (Feature)\nA.  Troposphere                  |  1.  80-400 km                |  i.   Radio wave reflection\nB.  Stratosphere                 |  2.  0-14 km                  |  ii.  Weather phenomena\nC.  Ionosphere                   |  3.  20-55 km                 |  iii. Photochemical reactions\nD.  Exosphere                    |  4.  Above 400 km             |  iv.  H and He gases dominate",
     options: ["A-2-ii, B-3-iii, C-1-i,   D-4-iv", "A-4-iv, B-3-iii, C-1-i,   D-2-ii", "A-1-i,  B-2-ii,  C-3-iii,  D-4-iv", "A-3-iii, B-2-ii, C-4-iv,   D-1-i"],
     correct: 0,
     explanation: "As per DA-101 notes: Troposphere (0-14 km, weather); Stratosphere (20-55 km, photochemical); Ionosphere (80-400 km, radio reflection); Exosphere (above 400 km, H/He)."
@@ -2358,12 +2328,7 @@ D.  Exosphere                    |  4.  Above 400 km             |  iv.  H and H
     subject: "da-101",
     lecture: "lecture-4",
     lectureNo: 4,
-    question: "Match the meteorological instruments:
-     Column-I (Instrument)       |  Column-II (Measures)        |  Column-III (Unit)
-A.  Anemometer                   |  1.  Rainfall                 |  i.   mm
-B.  Barometer                    |  2.  Wind speed               |  ii.  km/h or m/s
-C.  Rain gauge                   |  3.  Sunshine duration        |  iii. Hours
-D.  Campbell Stokes recorder     |  4.  Atmospheric pressure     |  iv.  hPa or mb",
+    question: "Match the meteorological instruments:\n     Column-I (Instrument)       |  Column-II (Measures)        |  Column-III (Unit)\nA.  Anemometer                   |  1.  Rainfall                 |  i.   mm\nB.  Barometer                    |  2.  Wind speed               |  ii.  km/h or m/s\nC.  Rain gauge                   |  3.  Sunshine duration        |  iii. Hours\nD.  Campbell Stokes recorder     |  4.  Atmospheric pressure     |  iv.  hPa or mb",
     options: ["A-4-iv, B-3-iii, C-2-ii,  D-1-i", "A-2-ii, B-4-iv,  C-1-i,   D-3-iii", "A-3-iii, B-1-i,  C-2-ii,   D-4-iv", "A-1-i,  B-2-ii,  C-3-iii,  D-4-iv"],
     correct: 1,
     explanation: "As per DA-101 notes: Anemometer measures wind speed (km/h); Barometer measures atmospheric pressure (hPa); Rain gauge measures rainfall (mm); Campbell Stokes records sunshine hours."
@@ -2373,12 +2338,7 @@ D.  Campbell Stokes recorder     |  4.  Atmospheric pressure     |  iv.  hPa or 
     subject: "da-101",
     lecture: "lecture-6",
     lectureNo: 6,
-    question: "Match the tillage types:
-     Column-I (Tillage type)     |  Column-II (Purpose)         |  Column-III (Tool used)
-A.  Primary tillage              |  1.  Seed bed preparation     |  i.   Seed drill
-B.  Secondary tillage            |  2.  Deep soil breaking       |  ii.  Mouldboard plough
-C.  Puddling                     |  3.  Paddy transplanting      |  iii. Cage wheel tractor
-D.  Minimum tillage              |  4.  Reduce soil disturbance  |  iv.  Strip till cultivator",
+    question: "Match the tillage types:\n     Column-I (Tillage type)     |  Column-II (Purpose)         |  Column-III (Tool used)\nA.  Primary tillage              |  1.  Seed bed preparation     |  i.   Seed drill\nB.  Secondary tillage            |  2.  Deep soil breaking       |  ii.  Mouldboard plough\nC.  Puddling                     |  3.  Paddy transplanting      |  iii. Cage wheel tractor\nD.  Minimum tillage              |  4.  Reduce soil disturbance  |  iv.  Strip till cultivator",
     options: ["A-2-ii, B-1-i,   C-3-iii,  D-4-iv", "A-3-iii, B-4-iv, C-1-i,    D-2-ii", "A-4-iv, B-3-iii, C-2-ii,   D-1-i", "A-1-i,  B-2-ii,  C-4-iii,  D-3-iv"],
     correct: 0,
     explanation: "As per DA-101 notes: Primary tillage (deep breaking, mouldboard plough); Secondary tillage (seed bed prep); Puddling (paddy transplanting, cage wheel); Minimum tillage (reduce disturbance, strip till)."
@@ -2388,12 +2348,7 @@ D.  Minimum tillage              |  4.  Reduce soil disturbance  |  iv.  Strip t
     subject: "da-101",
     lecture: "lecture-7",
     lectureNo: 7,
-    question: "Match the sowing methods:
-     Column-I (Method)           |  Column-II (Crop example)    |  Column-III (Advantage)
-A.  Broadcasting                 |  1.  Rice, vegetables         |  i.   Maximum survival, easy gap filling
-B.  Drilling                     |  2.  Wheat, sorghum           |  ii.  Uniform spacing, less seed
-C.  Dibbling                     |  3.  Maize, cotton            |  iii. Easy to use, no spacing
-D.  Transplanting                |  4.  All small grains         |  iv.  Uniform seed placement",
+    question: "Match the sowing methods:\n     Column-I (Method)           |  Column-II (Crop example)    |  Column-III (Advantage)\nA.  Broadcasting                 |  1.  Rice, vegetables         |  i.   Maximum survival, easy gap filling\nB.  Drilling                     |  2.  Wheat, sorghum           |  ii.  Uniform spacing, less seed\nC.  Dibbling                     |  3.  Maize, cotton            |  iii. Easy to use, no spacing\nD.  Transplanting                |  4.  All small grains         |  iv.  Uniform seed placement",
     options: ["A-1-i,   B-2-ii,  C-3-iii,  D-4-iv", "A-2-ii,  B-1-i,   C-4-iv,   D-3-iii", "A-3-iii, B-4-iv,  C-2-ii,   D-1-i", "A-4-iv,  B-3-iii, C-1-i,    D-2-ii"],
     correct: 2,
     explanation: "As per DA-101 notes: Broadcasting (all small grains, easy no spacing); Drilling (wheat/sorghum, uniform placement); Dibbling (maize/cotton, uniform spacing); Transplanting (rice/vegetables, maximum survival)."
@@ -2403,12 +2358,7 @@ D.  Transplanting                |  4.  All small grains         |  iv.  Uniform
     subject: "da-101",
     lecture: "lecture-9",
     lectureNo: 9,
-    question: "Match the weed characteristics:
-     Column-I (Weed type)        |  Column-II (Example)         |  Column-III (Family)
-A.  Grassy weed                  |  1.  Cyperus rotundus         |  i.   Cyperaceae
-B.  Sedge weed                   |  2.  Echinochloa colonum      |  ii.  Poaceae
-C.  Broadleaf (dicot) weed       |  3.  Parthenium hysterophorus |  iii. Asteraceae
-D.  Parasitic weed               |  4.  Striga asiatica          |  iv.  Orobanchaceae",
+    question: "Match the weed characteristics:\n     Column-I (Weed type)        |  Column-II (Example)         |  Column-III (Family)\nA.  Grassy weed                  |  1.  Cyperus rotundus         |  i.   Cyperaceae\nB.  Sedge weed                   |  2.  Echinochloa colonum      |  ii.  Poaceae\nC.  Broadleaf (dicot) weed       |  3.  Parthenium hysterophorus |  iii. Asteraceae\nD.  Parasitic weed               |  4.  Striga asiatica          |  iv.  Orobanchaceae",
     options: ["A-4-iv, B-3-iii, C-2-ii,   D-1-i", "A-2-ii, B-1-i,   C-3-iii,  D-4-iv", "A-3-iii, B-4-iv, C-1-i,    D-2-ii", "A-1-i,  B-2-ii,  C-4-iv,   D-3-iii"],
     correct: 1,
     explanation: "As per DA-101 notes: Echinochloa colonum is a grassy weed (Poaceae); Cyperus rotundus is a sedge (Cyperaceae); Parthenium is a broadleaf weed (Asteraceae); Striga is a parasitic weed."
@@ -2418,12 +2368,7 @@ D.  Parasitic weed               |  4.  Striga asiatica          |  iv.  Orobanc
     subject: "da-101",
     lecture: "lecture-10",
     lectureNo: 10,
-    question: "Match the herbicide classifications:
-     Column-I (Herbicide)        |  Column-II (Type)            |  Column-III (Selectivity)
-A.  2,4-D                        |  1.  Non-selective             |  i.   Kills all vegetation
-B.  Glyphosate                   |  2.  Selective broadleaf       |  ii.  Kills only broadleaf weeds
-C.  Atrazine                     |  3.  Selective grass killer    |  iii. Kills grassy weeds in broadleaf crops
-D.  Quizalofop                   |  4.  Selective pre-emergence   |  iv.  Used in maize",
+    question: "Match the herbicide classifications:\n     Column-I (Herbicide)        |  Column-II (Type)            |  Column-III (Selectivity)\nA.  2,4-D                        |  1.  Non-selective             |  i.   Kills all vegetation\nB.  Glyphosate                   |  2.  Selective broadleaf       |  ii.  Kills only broadleaf weeds\nC.  Atrazine                     |  3.  Selective grass killer    |  iii. Kills grassy weeds in broadleaf crops\nD.  Quizalofop                   |  4.  Selective pre-emergence   |  iv.  Used in maize",
     options: ["A-1-i,  B-2-ii,  C-3-iii,  D-4-iv", "A-4-iv, B-3-iii, C-2-ii,   D-1-i", "A-2-ii, B-1-i,   C-4-iv,   D-3-iii", "A-3-iii, B-4-iv, C-1-i,    D-2-ii"],
     correct: 2,
     explanation: "As per DA-101 notes: 2,4-D is selective broadleaf herbicide; Glyphosate is non-selective; Atrazine is selective pre-emergence (maize); Quizalofop is selective grass killer in broadleaf crops."
@@ -2433,12 +2378,7 @@ D.  Quizalofop                   |  4.  Selective pre-emergence   |  iv.  Used i
     subject: "da-101",
     lecture: "lecture-11",
     lectureNo: 11,
-    question: "Match the irrigation methods:
-     Column-I (Method)           |  Column-II (Water efficiency)|  Column-III (Best suited for)
-A.  Flood/Surface irrigation     |  1.  90-95%                   |  i.   Orchards, vegetables
-B.  Furrow irrigation            |  2.  70-80%                   |  ii.  Row crops, vegetables
-C.  Sprinkler irrigation         |  3.  60-70%                   |  iii. Sandy soils, undulating land
-D.  Drip irrigation              |  4.  40-50%                   |  iv.  Flat land, heavy soils",
+    question: "Match the irrigation methods:\n     Column-I (Method)           |  Column-II (Water efficiency)|  Column-III (Best suited for)\nA.  Flood/Surface irrigation     |  1.  90-95%                   |  i.   Orchards, vegetables\nB.  Furrow irrigation            |  2.  70-80%                   |  ii.  Row crops, vegetables\nC.  Sprinkler irrigation         |  3.  60-70%                   |  iii. Sandy soils, undulating land\nD.  Drip irrigation              |  4.  40-50%                   |  iv.  Flat land, heavy soils",
     options: ["A-1-i,  B-2-ii,  C-3-iii,  D-4-iv", "A-2-ii, B-1-i,   C-4-iv,   D-3-iii", "A-3-iii, B-4-iv, C-1-i,    D-2-ii", "A-4-iv, B-3-ii,  C-2-iii,  D-1-i"],
     correct: 3,
     explanation: "As per DA-101 notes: Flood/Surface irrigation has ~40-50% efficiency (flat land); Furrow ~60-70% (row crops); Sprinkler ~70-80% (undulating/sandy); Drip ~90-95% (orchards, vegetables)."
@@ -2448,12 +2388,7 @@ D.  Drip irrigation              |  4.  40-50%                   |  iv.  Flat la
     subject: "da-101",
     lecture: "lecture-17",
     lectureNo: 17,
-    question: "Match the cropping systems:
-     Column-I (System)           |  Column-II (Definition)      |  Column-III (Advantage)
-A.  Monocropping                 |  1.  Two crops in same season |  i.   Maximises resources use
-B.  Intercropping                |  2.  Single crop per year     |  ii.  Simple management
-C.  Sequence cropping            |  3.  One crop after another   |  iii. Continuous land use
-D.  Relay cropping               |  4.  2nd crop sown before 1st harvest |  iv. Time-saving, soil cover",
+    question: "Match the cropping systems:\n     Column-I (System)           |  Column-II (Definition)      |  Column-III (Advantage)\nA.  Monocropping                 |  1.  Two crops in same season |  i.   Maximises resources use\nB.  Intercropping                |  2.  Single crop per year     |  ii.  Simple management\nC.  Sequence cropping            |  3.  One crop after another   |  iii. Continuous land use\nD.  Relay cropping               |  4.  2nd crop sown before 1st harvest |  iv. Time-saving, soil cover",
     options: ["A-4-iv, B-3-iii, C-2-ii,   D-1-i", "A-2-ii, B-1-i,   C-3-iii,  D-4-iv", "A-3-iii, B-4-iv, C-1-i,    D-2-ii", "A-1-i,  B-2-ii,  C-4-iv,   D-3-iii"],
     correct: 1,
     explanation: "As per DA-101 notes: Monocropping (single crop, simple management); Intercropping (two crops same season, maximises resources); Sequence cropping (one after another, continuous use); Relay cropping (2nd sown before 1st harvested)."
@@ -2463,12 +2398,7 @@ D.  Relay cropping               |  4.  2nd crop sown before 1st harvest |  iv. 
     subject: "da-101",
     lecture: "lecture-18",
     lectureNo: 18,
-    question: "Match the soil conservation measures:
-     Column-I (Measure)          |  Column-II (Type)            |  Column-III (Controls)
-A.  Contour bunding              |  1.  Biological measure       |  i.   Wind erosion
-B.  Windbreaks/shelterbelts      |  2.  Agronomic measure        |  ii.  Water erosion (slopes)
-C.  Cover cropping               |  3.  Engineering measure      |  iii. Both wind and water erosion
-D.  Terrace farming              |  4.  Engineering measure      |  iv.  Steep slope water erosion",
+    question: "Match the soil conservation measures:\n     Column-I (Measure)          |  Column-II (Type)            |  Column-III (Controls)\nA.  Contour bunding              |  1.  Biological measure       |  i.   Wind erosion\nB.  Windbreaks/shelterbelts      |  2.  Agronomic measure        |  ii.  Water erosion (slopes)\nC.  Cover cropping               |  3.  Engineering measure      |  iii. Both wind and water erosion\nD.  Terrace farming              |  4.  Engineering measure      |  iv.  Steep slope water erosion",
     options: ["A-2-ii, B-3-i,   C-1-iii,  D-4-iv", "A-3-ii, B-1-i,   C-2-iii,  D-4-iv", "A-4-iv, B-1-i,   C-3-iii,  D-2-ii", "A-1-i,  B-2-ii,  C-3-iii,  D-4-iv"],
     correct: 1,
     explanation: "As per DA-101 notes: Contour bunding (engineering, water erosion on slopes); Windbreaks (biological, wind erosion); Cover cropping (agronomic, both erosion types); Terrace farming (engineering, steep slopes)."
@@ -2478,12 +2408,7 @@ D.  Terrace farming              |  4.  Engineering measure      |  iv.  Steep s
     subject: "da-101",
     lecture: "lecture-8",
     lectureNo: 8,
-    question: "Match the biofertilisers:
-     Column-I (Biofertiliser)    |  Column-II (Mode of action)  |  Column-III (Crop/Use)
-A.  Rhizobium                    |  1.  Free-living N2 fixation  |  i.   Sugarcane, cereals
-B.  Azotobacter                  |  2.  Symbiotic N2 fixation    |  ii.  Leguminous crops
-C.  Azospirillum                 |  3.  Associative N2 fixation  |  iii. Sorghum, wheat, maize
-D.  VAM (mycorrhiza)             |  4.  Phosphorus solubilisation |  iv.  Fruit crops, vegetables",
+    question: "Match the biofertilisers:\n     Column-I (Biofertiliser)    |  Column-II (Mode of action)  |  Column-III (Crop/Use)\nA.  Rhizobium                    |  1.  Free-living N2 fixation  |  i.   Sugarcane, cereals\nB.  Azotobacter                  |  2.  Symbiotic N2 fixation    |  ii.  Leguminous crops\nC.  Azospirillum                 |  3.  Associative N2 fixation  |  iii. Sorghum, wheat, maize\nD.  VAM (mycorrhiza)             |  4.  Phosphorus solubilisation |  iv.  Fruit crops, vegetables",
     options: ["A-2-ii, B-1-i,   C-3-iii,  D-4-iv", "A-3-iii, B-4-iv, C-1-i,    D-2-ii", "A-4-iv, B-3-iii, C-2-ii,   D-1-i", "A-1-i,  B-2-ii,  C-4-iii,  D-3-iv"],
     correct: 0,
     explanation: "As per DA-101 notes: Rhizobium (symbiotic N2 fixation in legumes); Azotobacter (free-living N2 fixation, sugarcane/cereals); Azospirillum (associative fixation, cereals); VAM (phosphorus enhancement, fruit crops)."
@@ -2493,12 +2418,7 @@ D.  VAM (mycorrhiza)             |  4.  Phosphorus solubilisation |  iv.  Fruit 
     subject: "da-101",
     lecture: "lecture-2",
     lectureNo: 2,
-    question: "Match PJTSAU Research Stations with their major crops:
-     Column-I (Station)          |  Column-II (Location)        |  Column-III (Major Crop)
-A.  RARS Polasa                  |  1.  Warangal                 |  i.   Rice, Pulses, Cotton
-B.  RARS Warangal                |  2.  Jagtial                  |  ii.  Rice, Sesame
-C.  RARS Palem                   |  3.  Palem, Nalgonda          |  iii. Sorghum, Bajra, Castor
-D.  ARI Rajendranagar            |  4.  Hyderabad                |  iv.  Rice, Organic farming",
+    question: "Match PJTSAU Research Stations with their major crops:\n     Column-I (Station)          |  Column-II (Location)        |  Column-III (Major Crop)\nA.  RARS Polasa                  |  1.  Warangal                 |  i.   Rice, Pulses, Cotton\nB.  RARS Warangal                |  2.  Jagtial                  |  ii.  Rice, Sesame\nC.  RARS Palem                   |  3.  Palem, Nalgonda          |  iii. Sorghum, Bajra, Castor\nD.  ARI Rajendranagar            |  4.  Hyderabad                |  iv.  Rice, Organic farming",
     options: ["A-2-ii, B-1-i,   C-3-iii,  D-4-iv", "A-4-iv, B-3-iii, C-1-i,    D-2-ii", "A-1-i,  B-2-ii,  C-4-iv,   D-3-iii", "A-3-iii, B-4-iv, C-2-ii,   D-1-i"],
     correct: 0,
     explanation: "As per DA-101 notes: RARS Polasa-Jagtial (Rice, Sesame); RARS Warangal (Rice, Pulses, Cotton); RARS Palem (Sorghum, Bajra, Castor); ARI Rajendranagar-Hyderabad (Rice, Organic farming)."
@@ -2508,12 +2428,7 @@ D.  ARI Rajendranagar            |  4.  Hyderabad                |  iv.  Rice, O
     subject: "da-101",
     lecture: "lecture-13",
     lectureNo: 13,
-    question: "Match the post-harvest operations:
-     Column-I (Operation)        |  Column-II (Definition)      |  Column-III (Equipment)
-A.  Harvesting                   |  1.  Separating grain from chaff |  i.  Winnowing fan
-B.  Threshing                    |  2.  Cutting crop at maturity   |  ii. Sickle or combine
-C.  Winnowing                    |  3.  Separating grain from stem |  iii. Thresher
-D.  Drying                       |  4.  Reducing moisture content  |  iv.  Sun drying floor",
+    question: "Match the post-harvest operations:\n     Column-I (Operation)        |  Column-II (Definition)      |  Column-III (Equipment)\nA.  Harvesting                   |  1.  Separating grain from chaff |  i.  Winnowing fan\nB.  Threshing                    |  2.  Cutting crop at maturity   |  ii. Sickle or combine\nC.  Winnowing                    |  3.  Separating grain from stem |  iii. Thresher\nD.  Drying                       |  4.  Reducing moisture content  |  iv.  Sun drying floor",
     options: ["A-2-ii, B-3-iii, C-1-i,   D-4-iv", "A-4-iv, B-1-i,   C-2-ii,   D-3-iii", "A-1-i,  B-2-ii,  C-3-iii,  D-4-iv", "A-3-iii, B-4-iv, C-2-ii,   D-1-i"],
     correct: 0,
     explanation: "As per DA-101 notes: Harvesting (cutting at maturity, sickle/combine); Threshing (separating grain from stem, thresher); Winnowing (separating grain from chaff, winnowing fan); Drying (reducing moisture, sun drying)."
@@ -2523,12 +2438,7 @@ D.  Drying                       |  4.  Reducing moisture content  |  iv.  Sun d
     subject: "da-101",
     lecture: "lecture-20",
     lectureNo: 20,
-    question: "Match the organic farming components:
-     Column-I (Component)        |  Column-II (Material/Method) |  Column-III (Benefit)
-A.  Vermicompost                 |  1.  Trichoderma viride       |  i.   Disease control
-B.  Biopesticide                 |  2.  Earthworm-processed waste|  ii.  Improves soil structure
-C.  Green manure                 |  3.  Sesbania, Crotalaria     |  iii. Nitrogen enrichment
-D.  Compost                      |  4.  FYM + crop residue       |  iv.  Recycles waste nutrients",
+    question: "Match the organic farming components:\n     Column-I (Component)        |  Column-II (Material/Method) |  Column-III (Benefit)\nA.  Vermicompost                 |  1.  Trichoderma viride       |  i.   Disease control\nB.  Biopesticide                 |  2.  Earthworm-processed waste|  ii.  Improves soil structure\nC.  Green manure                 |  3.  Sesbania, Crotalaria     |  iii. Nitrogen enrichment\nD.  Compost                      |  4.  FYM + crop residue       |  iv.  Recycles waste nutrients",
     options: ["A-2-ii, B-1-i,   C-3-iii,  D-4-iv", "A-3-iii, B-4-iv, C-1-i,    D-2-ii", "A-4-iv, B-3-iii, C-2-ii,   D-1-i", "A-1-i,  B-2-ii,  C-4-iii,  D-3-iv"],
     correct: 0,
     explanation: "As per DA-101 notes: Vermicompost (earthworm-processed, improves structure); Biopesticide (Trichoderma, disease control); Green manure (Sesbania/Crotalaria, N enrichment); Compost (FYM+residue, recycles nutrients)."
