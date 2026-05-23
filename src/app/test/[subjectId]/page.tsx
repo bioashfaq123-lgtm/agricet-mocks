@@ -37,7 +37,8 @@ export default function TestPage() {
   const [loading, setLoading]           = useState(true);
   const timerRef = useRef<NodeJS.Timeout | null>(null);
 
-  const limit = isDemo ? DEMO_QUESTION_LIMIT : 100;
+  // Full Practice: serve all subject questions; Timed: 100 Qs (exam-like); Demo: 10 Qs
+  const limit = isDemo ? DEMO_QUESTION_LIMIT : mode === "timed" ? 100 : (subject?.totalQuestions ?? 200);
 
   // Load questions
   useEffect(() => {

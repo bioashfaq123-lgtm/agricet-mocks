@@ -1,5 +1,5 @@
 import { Question } from "@/types";
-// 15 PJTSAU Diploma DA-coded subject question banks (original 100 Qs each)
+// 15 PJTSAU Diploma DA-coded subject question banks (200 Qs each)
 import { da101Questions } from "./da-101";
 import { da102Questions } from "./da-102";
 import { da111Questions } from "./da-111";
@@ -15,7 +15,9 @@ import { da252Questions } from "./da-252";
 import { da281Questions } from "./da-281";
 import { da282Questions } from "./da-282";
 import { da291Questions } from "./da-291";
-// DA-262 (Computer Applications) and DA-263 (English Communication)
+// DA-262 (Computer Applications) and DA-263 (English Communication) — combined banks
+import { da262Questions } from "./da-262";
+import { da263Questions } from "./da-263";
 import { computerApplicationsQuestions } from "./computer-applications";
 import { englishCommunicationQuestions } from "./english-communication";
 // General Agriculture (separate bank for current affairs / GK)
@@ -41,7 +43,7 @@ import { da262LectureQuestions } from "./da-262-lectures";
 import { da263LectureQuestions } from "./da-263-lectures";
 
 export const ALL_QUESTIONS: Record<string, Question[]> = {
-  // 15 PJTSAU Diploma syllabus subjects — merged original + lecture questions
+  // 15 PJTSAU Diploma syllabus subjects — combined 200 Qs + lecture Qs
   "da-101": [...da101Questions, ...da101LectureQuestions],
   "da-102": [...da102Questions, ...da102LectureQuestions],
   "da-111": [...da111Questions, ...da111LectureQuestions],
@@ -57,9 +59,9 @@ export const ALL_QUESTIONS: Record<string, Question[]> = {
   "da-281": [...da281Questions, ...da281LectureQuestions],
   "da-282": [...da282Questions, ...da282LectureQuestions],
   "da-291": [...da291Questions, ...da291LectureQuestions],
-  // DA-262 / DA-263 — merged original + lecture questions
-  "computer-applications": [...computerApplicationsQuestions, ...da262LectureQuestions],
-  "english-communication": [...englishCommunicationQuestions, ...da263LectureQuestions],
+  // DA-262 / DA-263 — merged combined bank + old bank + lecture questions
+  "computer-applications": [...da262Questions, ...computerApplicationsQuestions, ...da262LectureQuestions],
+  "english-communication": [...da263Questions, ...englishCommunicationQuestions, ...da263LectureQuestions],
   // General Agriculture
   "general-agriculture": generalAgricultureQuestions,
 };

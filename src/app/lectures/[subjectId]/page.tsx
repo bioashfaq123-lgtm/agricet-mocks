@@ -126,7 +126,7 @@ export default function LectureBrowserPage() {
         <div className="mb-6 flex gap-3 flex-wrap">
           <Link href={`/test/${subjectId}?mode=practice`}
             className="flex items-center gap-2 bg-primary-600 hover:bg-primary-700 text-white font-semibold px-4 py-2.5 rounded-xl text-sm transition-colors">
-            <Play className="w-4 h-4" /> Full Practice Test (100 Qs)
+            <Play className="w-4 h-4" /> Full Practice Test (200 Qs)
           </Link>
           <Link href={`/test/${subjectId}?mode=timed`}
             className="flex items-center gap-2 bg-white border border-gray-300 hover:border-primary-400 text-gray-700 font-semibold px-4 py-2.5 rounded-xl text-sm transition-colors">
