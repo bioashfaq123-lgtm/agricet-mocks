@@ -3,6 +3,7 @@ import "./globals.css";
 import { Toaster } from "react-hot-toast";
 import { AuthProvider } from "@/contexts/AuthContext";
 import AppSplashScreen from "@/components/AppSplashScreen";
+import ChatBot from "@/components/ChatBot";
 
 export const metadata: Metadata = {
   title: "AGRICET MOCK TEST SERIES",
@@ -45,6 +46,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           <AppSplashScreen>
           {children}
           </AppSplashScreen>
+          <ChatBot />
           <Toaster
             position="top-right"
             toastOptions={{
