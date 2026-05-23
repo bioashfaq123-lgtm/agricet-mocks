@@ -13,7 +13,7 @@ export const englishCommunicationQuestions: Question[] = [
     id: "ec002",
     subject: "english-communication",
     question: "A Noun is defined as:",
-    options: ["A word that describes a verb", "A word that joins sentences", "A naming word — name of a person, place, thing, quality, or idea", "A word that replaces a noun"],
+    options: ["A word that describes a verb in formal communication", "A word that joins sentences in academic writing", "A naming word — name of a person, place, thing, quality, or idea", "A word that replaces a noun in language use"],
     correct: 2,
     explanation: "A Noun is any naming word. Nouns may be names of human beings, other living beings, places, things, substances, qualities, feelings, or ideas. Example: teacher, Krishna, city, happiness."
   },
@@ -29,7 +29,7 @@ export const englishCommunicationQuestions: Question[] = [
     id: "ec004",
     subject: "english-communication",
     question: "What is a Collective Noun?",
-    options: ["Name of a material substance", "Name of a group of persons or things treated as a whole", "Abstract quality", "Name of a specific person"],
+    options: ["Name of a material substance in formal communication", "Name of a group of persons or things treated as a whole", "Abstract quality in academic writing as per formal communication and English language theory", "Name of a specific person in language use"],
     correct: 1,
     explanation: "A Collective noun is the name of a group of persons or things treated as a whole. Examples: committee, government, team, army, fleet. 'The committee is submitting its report' — committee is collective noun."
   },
@@ -53,7 +53,7 @@ export const englishCommunicationQuestions: Question[] = [
     id: "ec007",
     subject: "english-communication",
     question: "The plural of 'mango' is:",
-    options: ["mangos only", "mangoes only", "mangos or mangoes (both correct)", "mangi"],
+    options: ["mangos only", "mangoes only", "mangos or mangoes (both correct)", "mangi in formal communication"],
     correct: 2,
     explanation: "Words ending in 'o' can take either 's' or 'es' in the plural. Mango → mangos/mangoes (both acceptable). Similarly buffalo → buffalos/buffaloes."
   },
@@ -85,7 +85,7 @@ export const englishCommunicationQuestions: Question[] = [
     id: "ec011",
     subject: "english-communication",
     question: "In English grammar, Tense refers to:",
-    options: ["The subject of the sentence", "The form of verb that indicates time of action (past, present, future)", "The object of the sentence", "The adjective in a sentence"],
+    options: ["The subject of the sentence in formal communication", "The form of verb that indicates time of action (past, present, future)", "The object of the sentence in academic writing", "The adjective in a sentence in language use"],
     correct: 1,
     explanation: "Tense is the form of the verb that indicates the time of action. Three main tenses: Present (happening now), Past (happened before), Future (will happen). Each has four aspects: simple, continuous, perfect, perfect continuous."
   },
@@ -101,7 +101,7 @@ export const englishCommunicationQuestions: Question[] = [
     id: "ec013",
     subject: "english-communication",
     question: "Voice in grammar refers to:",
-    options: ["Loud or soft speaking", "Form of verb showing whether subject performs or receives the action", "The tone of writing", "Punctuation marks"],
+    options: ["Loud or soft speaking in formal communication", "Form of verb showing whether subject performs or receives the action", "The tone of writing in academic writing", "Punctuation marks in language use as per formal communication and English language theory"],
     correct: 1,
     explanation: "Voice shows the relationship between subject and verb. Active Voice: subject performs action (Ram eats rice). Passive Voice: subject receives action (Rice is eaten by Ram). The verb form changes."
   },
@@ -133,7 +133,7 @@ export const englishCommunicationQuestions: Question[] = [
     id: "ec017",
     subject: "english-communication",
     question: "Question Tags are used to:",
-    options: ["Start a question", "Seek confirmation of a statement (e.g., 'It is hot, isn't it?')", "Show exclamation", "Write indirect speech"],
+    options: ["Start a question in formal communication as per formal communication and English language theory", "Seek confirmation of a statement (e.g., 'It is hot, isn't it?')", "Show exclamation in academic writing as per formal communication and English language theory", "Write indirect speech in language use as per formal communication and English language theory"],
     correct: 1,
     explanation: "Question tags are short questions added at the end of statements to seek confirmation. If the statement is positive, the tag is negative (isn't it?) and vice versa. Example: 'You are a farmer, aren't you?'"
   },
@@ -165,7 +165,7 @@ export const englishCommunicationQuestions: Question[] = [
     id: "ec021",
     subject: "english-communication",
     question: "Homophones are words that:",
-    options: ["Have the same meaning", "Sound the same but have different spelling and meaning (e.g., 'their/there/they're')", "Have opposite meanings", "Are spelled the same but have different meanings"],
+    options: ["Have the same meaning in formal communication", "Sound the same but have different spelling and meaning (e.g., 'their/there/they're')", "Have opposite meanings in academic writing as per formal communication and English language theory", "Are spelled the same but have different meanings"],
     correct: 1,
     explanation: "Homophones are words that sound alike (same pronunciation) but have different spellings and meanings. Example: 'their' (belonging to them), 'there' (place), 'they're' (they are)."
   },
@@ -173,7 +173,7 @@ export const englishCommunicationQuestions: Question[] = [
     id: "ec022",
     subject: "english-communication",
     question: "Homonyms are words that:",
-    options: ["Sound same but are spelled differently", "Are spelled the same and sound the same but have different meanings", "Have the same meaning", "Are only used in formal writing"],
+    options: ["Sound same but are spelled differently in formal communication", "Are spelled the same and sound the same but have different meanings", "Have the same meaning in academic writing", "Are only used in formal writing in language use"],
     correct: 1,
     explanation: "Homonyms are words that have the same spelling and same pronunciation but different meanings. Example: 'bank' (financial institution) and 'bank' (river bank). Context determines the meaning."
   },
@@ -181,7 +181,7 @@ export const englishCommunicationQuestions: Question[] = [
     id: "ec023",
     subject: "english-communication",
     question: "A Preposition is a word that:",
-    options: ["Describes a noun", "Shows action", "Shows relationship between a noun/pronoun and another word in the sentence", "Joins two sentences"],
+    options: ["Describes a noun in formal communication as per formal communication and English language theory", "Shows action in academic writing as per formal communication and English language theory", "Shows relationship between a noun/pronoun and another word in the sentence", "Joins two sentences in language use as per formal communication and English language theory"],
     correct: 2,
     explanation: "A Preposition shows the relationship between a noun/pronoun and another word. Examples: of, on, at, in, from, in front of. 'The book is ON the table' — 'on' is the preposition."
   },
@@ -205,7 +205,7 @@ export const englishCommunicationQuestions: Question[] = [
     id: "ec026",
     subject: "english-communication",
     question: "Précis writing means:",
-    options: ["Writing a very long essay", "Writing a precise, condensed summary of a passage in one-third of the original length", "Copying the original text", "Writing a poem"],
+    options: ["Writing a very long essay in formal communication as per formal communication and English language theory", "Writing a precise, condensed summary of a passage in one-third of the original length", "Copying the original text in academic writing as per formal communication and English language theory", "Writing a poem in language use as per formal communication and English language theory"],
     correct: 1,
     explanation: "Précis writing is the art of summarizing a given passage in about one-third of its original length. It retains the main ideas in clear, concise language without losing the essential meaning."
   },
@@ -213,7 +213,7 @@ export const englishCommunicationQuestions: Question[] = [
     id: "ec027",
     subject: "english-communication",
     question: "A Curriculum Vitae (CV) contains:",
-    options: ["Only educational qualifications", "Only work experience", "Personal details, educational qualifications, work experience, skills, and references", "Only contact information"],
+    options: ["Only educational qualifications in formal communication", "Only work experience in academic writing", "Personal details, educational qualifications, work experience, skills, and references", "Only contact information in language use"],
     correct: 2,
     explanation: "A CV (Curriculum Vitae) or Resume contains: personal details (name, address, contact), educational qualifications, work experience, skills/achievements, and references. It is used for job applications."
   },
@@ -221,7 +221,7 @@ export const englishCommunicationQuestions: Question[] = [
     id: "ec028",
     subject: "english-communication",
     question: "Reading Comprehension involves:",
-    options: ["Reading aloud only", "Reading a passage and answering questions based on understanding the content", "Memorizing the passage", "Translating to mother tongue"],
+    options: ["Reading aloud only in formal communication as per formal communication and English language theory", "Reading a passage and answering questions based on understanding the content", "Memorizing the passage in academic writing as per formal communication and English language theory", "Translating to mother tongue in language use"],
     correct: 1,
     explanation: "Reading Comprehension tests the ability to read a passage and understand its meaning, then answer questions based on that understanding. It tests both literal comprehension and inferential understanding."
   },
@@ -245,7 +245,7 @@ export const englishCommunicationQuestions: Question[] = [
     id: "ec031",
     subject: "english-communication",
     question: "Material nouns are names of:",
-    options: ["Specific persons", "Materials or substances not naturally divisible into separate objects (solids, liquids, gases)", "Groups of people", "Abstract qualities"],
+    options: ["Specific persons in formal communication as per formal communication and English language theory", "Materials or substances not naturally divisible into separate objects (solids, liquids, gases)", "Groups of people in academic writing as per formal communication and English language theory", "Abstract qualities in language use as per formal communication and English language theory"],
     correct: 1,
     explanation: "Material nouns are names of materials/substances that exist in bulk form — not counted individually. Examples: gold, rice, water, wool, oxygen, milk, sand, sugar. 'Two golds' is wrong; 'two grams of gold' is correct."
   },
@@ -269,7 +269,7 @@ export const englishCommunicationQuestions: Question[] = [
     id: "ec034",
     subject: "english-communication",
     question: "An Adverb is a word that modifies:",
-    options: ["Only nouns", "A verb, adjective, or another adverb", "Only pronouns", "Only conjunctions"],
+    options: ["Only nouns in formal communication", "A verb, adjective, or another adverb", "Only pronouns in academic writing", "Only conjunctions in language use"],
     correct: 1,
     explanation: "An Adverb modifies a verb, adjective, or another adverb. Examples: quickly, very, well, always, here, now. 'He runs QUICKLY' (modifies verb); 'very tall' (modifies adjective)."
   },
@@ -285,7 +285,7 @@ export const englishCommunicationQuestions: Question[] = [
     id: "ec036",
     subject: "english-communication",
     question: "An Interjection expresses:",
-    options: ["Action performed by subject", "Relationship between words", "Sudden strong emotion or feeling (Oh!, Ah!, Alas!)", "Time of action"],
+    options: ["Action performed by subject in formal communication", "Relationship between words in academic writing", "Sudden strong emotion or feeling (Oh!, Ah!, Alas!)", "Time of action in language use"],
     correct: 2,
     explanation: "An Interjection expresses sudden strong emotions: surprise, joy, sorrow, anger. Examples: Oh! (surprise), Alas! (sorrow), Hurrah! (joy), Ouch! (pain). They are grammatically independent from the sentence."
   },
@@ -301,7 +301,7 @@ export const englishCommunicationQuestions: Question[] = [
     id: "ec038",
     subject: "english-communication",
     question: "Synthesis in English means:",
-    options: ["Splitting one sentence into two", "Combining two or more simple sentences into one sentence", "Writing in passive voice", "Translating a passage"],
+    options: ["Splitting one sentence into two in formal communication", "Combining two or more simple sentences into one sentence", "Writing in passive voice in academic writing", "Translating a passage in language use"],
     correct: 1,
     explanation: "Synthesis (sentence combining) combines two or more simple sentences into one compound or complex sentence using conjunctions. Example: 'He worked hard. He passed.' → 'He worked hard and passed.'"
   },
@@ -309,7 +309,7 @@ export const englishCommunicationQuestions: Question[] = [
     id: "ec039",
     subject: "english-communication",
     question: "A conditional sentence using 'If' expresses:",
-    options: ["Only past events", "A condition and its result (If X happens, Y will happen)", "Commands", "Definitions"],
+    options: ["Only past events in formal communication as per formal communication and English language theory", "A condition and its result (If X happens, Y will happen)", "Commands in academic writing as per formal communication and English language theory", "Definitions in language use as per formal communication and English language theory"],
     correct: 1,
     explanation: "Conditional sentences express a condition and its probable result. Types: Type 1 (possible): 'If it rains, I will stay home.' Type 2 (unlikely): 'If I were rich, I would travel.' Type 3 (impossible): 'If I had studied, I would have passed.'"
   },
@@ -325,7 +325,7 @@ export const englishCommunicationQuestions: Question[] = [
     id: "ec041",
     subject: "english-communication",
     question: "The Pronoun is a word used to:",
-    options: ["Describe a noun", "Replace/substitute a noun to avoid repetition", "Show action", "Connect sentences"],
+    options: ["Describe a noun", "Replace/substitute a noun to avoid repetition", "Show action in formal communication", "Connect sentences in academic writing"],
     correct: 1,
     explanation: "A Pronoun replaces a noun to avoid repetition. Examples: I, you, he, she, it, we, they, me, him, her, us, them. 'Ranga went to Ranga's farm' becomes 'Ranga went to HIS farm.'"
   },
@@ -341,7 +341,7 @@ export const englishCommunicationQuestions: Question[] = [
     id: "ec043",
     subject: "english-communication",
     question: "A Report is a:",
-    options: ["Personal diary entry", "Formal document presenting facts, findings, and recommendations on a specific subject", "Creative fiction story", "Informal letter to a friend"],
+    options: ["Personal diary entry in formal communication as per formal communication and English language theory", "Formal document presenting facts, findings, and recommendations on a specific subject", "Creative fiction story in academic writing as per formal communication and English language theory", "Informal letter to a friend in language use"],
     correct: 1,
     explanation: "A Report is a formal document that presents facts, observations, findings, and often recommendations about a specific subject. Reports are used in official/professional contexts. They have title, introduction, body, conclusion."
   },
@@ -381,7 +381,7 @@ export const englishCommunicationQuestions: Question[] = [
     id: "ec048",
     subject: "english-communication",
     question: "A Verb in English is:",
-    options: ["A naming word", "A describing word", "An action or state-of-being word in a sentence", "A connecting word"],
+    options: ["A naming word in formal communication", "A describing word in academic writing", "An action or state-of-being word in a sentence", "A connecting word in language use"],
     correct: 2,
     explanation: "A Verb shows action (run, eat, write) or state of being (is, am, are, was, were). Every sentence must have a verb. Auxiliary verbs (am, is, have, can, may) help the main verb."
   },
@@ -389,7 +389,7 @@ export const englishCommunicationQuestions: Question[] = [
     id: "ec049",
     subject: "english-communication",
     question: "Using a Dictionary helps in finding:",
-    options: ["Only spelling of words", "Spelling, pronunciation, meaning, parts of speech, and usage of words", "Only pronunciation", "Only synonyms"],
+    options: ["Only spelling of words in formal communication", "Spelling, pronunciation, meaning, parts of speech, and usage of words", "Only pronunciation in academic writing as per formal communication and English language theory", "Only synonyms in language use as per formal communication and English language theory"],
     correct: 1,
     explanation: "A dictionary provides: spelling of the word, pronunciation (with phonetic symbols), meaning/definition, part of speech, etymology (origin), and example sentences showing usage."
   },
@@ -397,7 +397,7 @@ export const englishCommunicationQuestions: Question[] = [
     id: "ec050",
     subject: "english-communication",
     question: "Effective Communication Skills in English are important because:",
-    options: ["English is the only language in India", "English is essential for career growth, global interaction, job interviews, and professional success in current era", "English replaces all other languages", "Government requires English only"],
+    options: ["English is the only language in India in formal communication", "English is essential for career growth, global interaction", "English replaces all other languages in academic writing", "Government requires English only in language use"],
     correct: 1,
     explanation: "As per the DA-263 course material, English language skills are essential for career success, job interviews, group discussions, working in global environment, and higher education opportunities."
   },

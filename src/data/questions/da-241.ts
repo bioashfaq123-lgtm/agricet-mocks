@@ -1058,7 +1058,7 @@ export const da241Questions: Question[] = [
     id: "d241c_012",
     subject: "da-241",
     question: "In Short-period Markets, prices are governed mainly by:",
-    options: ["Demand forces mainly (supply is fixed in the very short term)", "Cost of production in the agricultural economy", "Government regulation in rural economic context", "Supply forces only for farm income analysis"],
+    options: ["Demand forces mainly (supply is fixed in the very short term)", "Cost of production in the agricultural economy in agriculture", "Government regulation in rural economic context under field conditions", "Supply forces only for farm income analysis for crop production"],
     correct: 0,
     explanation: "In Short-period markets (for perishable products like fish, fresh vegetables, liquid milk), the products must be sold on that day. Supply is fixed. Hence prices are governed mainly by DEMAND rather than supply. In Long-period markets, both supply and demand govern prices."
   },
@@ -1194,7 +1194,7 @@ export const da241Questions: Question[] = [
     id: "d241c_029",
     subject: "da-241",
     question: "The establishment of NABARD in 1982 was due to the merger of:",
-    options: ["Only ARDC with RBI in the agricultural economy", "ARDC, Agricultural Credit Department (ACD) and Rural Planning and Credit Cell (RPCC) of RBI", "All commercial banks' agricultural divisions in rural economic context", "State cooperative banks for farm income analysis"],
+    options: ["Only ARDC with RBI in the agricultural economy in agriculture", "ARDC, Agricultural Credit Department (ACD) and Rural Planning and Credit Cell (RPCC) of RBI", "All commercial banks' agricultural divisions in rural economic context under field conditions", "State cooperative banks for farm income analysis for crop production"],
     correct: 1,
     explanation: "NABARD was formed by merging: (1) Agricultural Refinance and Development Corporation (ARDC), (2) Agricultural Credit Department (ACD) of RBI, and (3) Rural Planning and Credit Cell (RPCC) of RBI. Share capital of Rs.500 crore equally from Government of India and RBI."
   },
@@ -1290,7 +1290,7 @@ export const da241Questions: Question[] = [
     id: "d241c_041",
     subject: "da-241",
     question: "Long-term agricultural loans are characterized as 'non-liquidating' because:",
-    options: ["They are given for activities that take a long time to generate income for repayment (5-20+ years)", "They can never be repaid in the agricultural economy", "They require no security in rural economic context", "They are provided free of interest for farm income analysis"],
+    options: ["They are given for activities that take a long time to generate income for repayment (5-20+ years)", "They can never be repaid in the agricultural economy in agriculture", "They require no security in rural economic context under field conditions", "They are provided free of interest for farm income analysis for crop production"],
     correct: 0,
     explanation: "Long-term loans (5 to more than 20 years) are for permanent improvements like land reclamation, farm buildings, purchase of tractors, orchards. These activities require large capital and take long time to generate income. Hence longer repayment period - called non-liquidating nature."
   },
@@ -1306,7 +1306,7 @@ export const da241Questions: Question[] = [
     id: "d241c_043",
     subject: "da-241",
     question: "Under perfect competition, the demand for an individual firm's product becomes infinitely elastic because:",
-    options: ["The product is homogeneous and the firm cannot influence market price, taking it as given", "There are only a few buyers in the agricultural economy", "Government regulates the price strictly in rural economic context", "The firm is very large for farm income analysis"],
+    options: ["The product is homogeneous and the firm cannot influence market price, taking it as given", "There are only a few buyers in the agricultural economy in agriculture", "Government regulates the price strictly in rural economic context under field conditions", "The firm is very large for farm income analysis for crop production"],
     correct: 0,
     explanation: "Under perfect competition, the firm offers homogeneous products and is so small relative to market that it cannot affect the market price. The firm simply takes price as given. With single price prevailing, the firm's demand curve is horizontal (infinitely elastic)."
   },
@@ -1314,7 +1314,7 @@ export const da241Questions: Question[] = [
     id: "d241c_044",
     subject: "da-241",
     question: "The NCDC's proposed amendment (Ninth Plan period) included expansion of NCDC's scope to include:",
-    options: ["Only agricultural credit in the agricultural economy", "Only dairy cooperatives in rural economic context", "Animal husbandry, forestry, horticulture, pisciculture and livestock, industrial goods, handicrafts and services", "Only sugar cooperatives for farm income analysis"],
+    options: ["Only agricultural credit in the agricultural economy in agriculture", "Only dairy cooperatives in rural economic context under field conditions", "Animal husbandry, forestry, horticulture, pisciculture and livestock, industrial goods, handicrafts and services", "Only sugar cooperatives for farm income analysis for crop production"],
     correct: 2,
     explanation: "Proposed NCDC Act amendment features: (a) expansion of scope to include animal husbandry, forestry, horticulture, pisciculture; (b) extension of coverage to livestock, industrial goods, handicrafts and services sector; (c) provision of loans directly to cooperative societies."
   },
@@ -1330,7 +1330,7 @@ export const da241Questions: Question[] = [
     id: "d241c_046",
     subject: "da-241",
     question: "Which of the following land records is useful for farm management?",
-    options: ["All of: land utilization, crop production, livestock, labour, machinery, feed, store register and farm inventory records", "Only labour and machinery records in the agricultural economy", "Only crop production records in rural economic context", "Only livestock production records for farm income analysis"],
+    options: ["All of: land utilization, crop production, livestock, labour, machinery, feed, store register and farm inventory records", "Only labour and machinery records in the agricultural economy in agriculture", "Only crop production records in rural economic context under field conditions", "Only livestock production records for farm income analysis for crop production"],
     correct: 0,
     explanation: "Farm records useful to farmers: (1) Land utilization records, (2) Crop production and disposal records, (3) Livestock production records, (4) Labour records, (5) Machinery use records, (6) Feed records, (7) Store register, and (8) Farm inventory."
   },
@@ -1362,7 +1362,7 @@ export const da241Questions: Question[] = [
     id: "d241c_050",
     subject: "da-241",
     question: "The objectives of Agricultural Production Economics include:",
-    options: ["Only export promotion in the agricultural economy", "Determine conditions for optimum resource use, assess deviation from optimum, analyze factors responsible, and explain means to reach optimum", "Only profit maximization for farmers in rural economic context", "Only food security planning for farm income analysis"],
+    options: ["Only export promotion in the agricultural economy in agriculture", "Determine conditions for optimum resource use, assess deviation from optimum", "Only profit maximization for farmers in rural economic context under field conditions", "Only food security planning for farm income analysis for crop production"],
     correct: 1,
     explanation: "Four main objectives: (1) Determine and define conditions for optimum resource use, (2) Determine extent to which existing use deviates from optimum, (3) Analyze factors responsible for existing production pattern and resource use, (4) Explain means and methods for changing to optimum level."
   },
@@ -1402,7 +1402,7 @@ export const da241Questions: Question[] = [
     id: "d241c_055",
     subject: "da-241",
     question: "What are the twin objectives of the Crop Loan System?",
-    options: ["Increasing farm production and reducing poverty in the agricultural economy", "Treating crop as security instead of land, and fixing finance based on cost of cultivation", "Linking cooperatives with commercial banks in rural economic context", "Providing subsidized credit and free inputs for farm income analysis"],
+    options: ["Increasing farm production and reducing poverty in the agricultural economy in agriculture", "Treating crop as security instead of land, and fixing finance based on cost of cultivation", "Linking cooperatives with commercial banks in rural economic context under field conditions", "Providing subsidized credit and free inputs for farm income analysis for crop production"],
     correct: 1,
     explanation: "The twin objectives of crop loan system: (1) Treating the CROP as security instead of immovable property like land, and (2) Fixing the scale of finance depending on the actual farm expenditure (based on cost of cultivation)."
   },
@@ -1434,7 +1434,7 @@ export const da241Questions: Question[] = [
     id: "d241c_059",
     subject: "da-241",
     question: "'Social costs' (externalities) in production economics refer to:",
-    options: ["Import duties on agricultural machinery in the agricultural economy", "Government subsidies to agriculture in rural economic context", "Costs borne by society such as environmental degradation, pollution, new diseases from irrigation", "Private costs of firms for farm income analysis"],
+    options: ["Import duties on agricultural machinery in the agricultural economy in agriculture", "Government subsidies to agriculture in rural economic context under field conditions", "Costs borne by society such as environmental degradation, pollution, new diseases from irrigation", "Private costs of firms for farm income analysis for crop production"],
     correct: 2,
     explanation: "Social costs: private firms incur private costs, but society bears additional costs as externalities - environmental degradation, water/air/noise pollution in areas where goods are produced. Example: ill-drained irrigation projects causing new diseases in command area."
   },
@@ -1474,7 +1474,7 @@ export const da241Questions: Question[] = [
     id: "d241c_064",
     subject: "da-241",
     question: "In Agricultural Production Economics, 'productivity' refers to studying:",
-    options: ["Only crop yields per acre in the agricultural economy", "Use and incomes from farm, return to scale, leasing, production possibilities, farming efficiency, credit use, risks", "Only technology adoption in rural economic context", "Only macroeconomic policies affecting agriculture for farm income analysis"],
+    options: ["Only crop yields per acre in the agricultural economy in agriculture", "Use and incomes from farm, return to scale, leasing, production possibilities, farming efficiency, credit use, risks", "Only technology adoption in rural economic context under field conditions", "Only macroeconomic policies affecting agriculture for farm income analysis for crop production"],
     correct: 1,
     explanation: "Production Economics is concerned with productivity covering: use and incomes from farm, return to scale, leasing, production possibilities, farming efficiency, soil conservation, use of credit and capital, risks and uncertainty which affect decision making."
   },
@@ -1482,7 +1482,7 @@ export const da241Questions: Question[] = [
     id: "d241c_065",
     subject: "da-241",
     question: "The Mac Lagan Committee (1915) observed which problems in cooperative societies?",
-    options: ["Excessive profits and poor governance in the agricultural economy", "Lack of cooperative network and poor infrastructure in rural economic context", "Excessive government interference and high interest rates for farm income analysis", "Illiteracy among members, misappropriation of funds, rampant nepotism, undue delays in sanctioning loans, irregularity in repayment"],
+    options: ["Excessive profits and poor governance in the agricultural economy in agriculture", "Lack of cooperative network and poor infrastructure in rural economic context under field conditions", "Excessive government interference and high interest rates for farm income analysis for crop production", "Illiteracy among members, misappropriation of funds, rampant nepotism, undue delays in sanctioning loans, irregularity in repayment"],
     correct: 3,
     explanation: "Mac Lagan Committee's important observations: (1) Illiteracy among members; (2) Misappropriation of funds; (3) Rampant nepotism; (4) Undue delays in sanctioning of loans; (5) Irregularity in repayment of loans. These led to specific reform suggestions."
   },
@@ -1490,7 +1490,7 @@ export const da241Questions: Question[] = [
     id: "d241c_066",
     subject: "da-241",
     question: "The planning commission was established in March 1950, and the first five-year plan's main objectives for cooperatives included:",
-    options: ["Only consumer cooperative development in the agricultural economy", "Only price support for agricultural commodities in rural economic context", "Involvement of cooperatives in rural development, development of credit system, extending cooperatives to farming/industry/housing/marketing, training", "Only agricultural credit expansion for farm income analysis"],
+    options: ["Only consumer cooperative development in the agricultural economy in agriculture", "Only price support for agricultural commodities in rural economic context under field conditions", "Involvement of cooperatives in rural development, development of credit system, extending cooperatives to farming/industry/housing/marketing, training", "Only agricultural credit expansion for farm income analysis for crop production"],
     correct: 2,
     explanation: "First Five-Year Plan (1951-1956) objectives for cooperatives: (1) Involvement in rural development programs; (2) Development of well-organized credit system; (3) Extending cooperatives to farming, industry, housing, marketing; (4) Training of higher-level personnel."
   },
@@ -1514,7 +1514,7 @@ export const da241Questions: Question[] = [
     id: "d241c_069",
     subject: "da-241",
     question: "The primary function of the 'Journal' in the double entry bookkeeping system is:",
-    options: ["Summarizing accounts at year end in the agricultural economy", "Recording original diary entries in classified debit/credit form in date order for posting to ledger", "Checking arithmetical accuracy of ledger in rural economic context", "Recording only cash transactions for farm income analysis"],
+    options: ["Summarizing accounts at year end in the agricultural economy in agriculture", "Recording original diary entries in classified debit/credit form in date order for posting to ledger", "Checking arithmetical accuracy of ledger in rural economic context under field conditions", "Recording only cash transactions for farm income analysis for crop production"],
     correct: 1,
     explanation: "Journal (daily record): original entries from diary are written in journal in classified form of debits and credits (double entry form) strictly in order of dates, so they may be easily posted or transferred to the ledger. It is a book of original entry."
   },

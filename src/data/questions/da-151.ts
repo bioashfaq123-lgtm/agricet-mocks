@@ -1141,7 +1141,7 @@ export const da151Questions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "In air cooled engines, cylinders have fins to",
-    options: ["reduce weight in crop production", "strengthen the cylinder in field conditions", "prevent rusting for agricultural purposes", "increase area of contact of air for speedy cooling"],
+    options: ["reduce weight in crop production in agriculture", "strengthen the cylinder in field conditions", "prevent rusting for agricultural purposes under field conditions", "increase area of contact of air for speedy cooling"],
     correct: 3,
     explanation: "As per DA-151 notes: The cylinder of an air cooled engine has fins to increase the area of contact of air for speedy cooling."
   },
@@ -1401,7 +1401,7 @@ export const da151Questions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The function of flywheel in IC engine includes storing energy during power stroke and",
-    options: ["pumping fuel in crop production", "providing uniform rotary motion by virtue of its inertia", "lubricating parts in field conditions", "cooling the engine for agricultural purposes"],
+    options: ["pumping fuel in crop production in agriculture", "providing uniform rotary motion by virtue of its inertia", "lubricating parts in field conditions under field conditions", "cooling the engine for agricultural purposes"],
     correct: 1,
     explanation: "As per DA-151 notes: Flywheel stores energy during power stroke and returns same energy during idle strokes, providing uniform rotary motion by virtue of its inertia."
   },
@@ -1431,7 +1431,7 @@ export const da151Questions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Over-cooling of IC engine is undesirable because",
-    options: ["it increases fuel consumption only", "it creates noise in crop production", "it wastes water in field conditions", "neither overheating nor over-cooling is desirable for satisfactory performance"],
+    options: ["it increases fuel consumption only in agriculture", "it creates noise in crop production", "it wastes water in field conditions", "neither overheating nor over-cooling is desirable for satisfactory performance"],
     correct: 3,
     explanation: "As per DA-151 notes: For satisfactory performance, neither overheating nor over-cooling is desirable."
   },

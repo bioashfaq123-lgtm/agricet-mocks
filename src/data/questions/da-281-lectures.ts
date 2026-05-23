@@ -1641,7 +1641,7 @@ export const da281LectureQuestions: Question[] = [
   {
     id: "d281l_164", subject: "da-281", lecture: "lecture-11", lectureNo: 11,
     question: "Silviculture in forestry refers to:",
-    options: ["Art and science of controlling the establishment, growth, composition and quality of forests", "Study of forest soils in horticultural practices", "Measurement of timber volumes for vegetable cultivation", "Study of forest animals in orchard management"],
+    options: ["Art and science of controlling the establishment, growth, composition and quality of forests", "Study of forest soils in horticultural practices in agriculture", "Measurement of timber volumes for vegetable cultivation under field conditions", "Study of forest animals in orchard management for crop production"],
     correct: 0,
     explanation: "Silviculture is the art and science of controlling the establishment, growth, composition, health, and quality of forests to meet diverse needs.",
     difficulty: "medium"
@@ -1713,7 +1713,7 @@ export const da281LectureQuestions: Question[] = [
   {
     id: "d281l_173", subject: "da-281", lecture: "lecture-13", lectureNo: 13,
     question: "Agroforestry is defined as:",
-    options: ["Cultivation of medicinal plants only in horticultural practices", "A land use system where trees are combined with crops or livestock on the same unit of land", "Cultivation of forest trees only for vegetable cultivation", "Growing trees in monoculture in orchard management"],
+    options: ["Cultivation of medicinal plants only in horticultural practices in agriculture", "A land use system where trees are combined with crops or livestock on the same unit of land", "Cultivation of forest trees only for vegetable cultivation under field conditions", "Growing trees in monoculture in orchard management for crop production"],
     correct: 1,
     explanation: "Agroforestry is a land use management system that combines trees with crops and/or livestock on the same land unit, providing multiple benefits.",
     difficulty: "easy"
@@ -1753,7 +1753,7 @@ export const da281LectureQuestions: Question[] = [
   {
     id: "d281l_178", subject: "da-281", lecture: "lecture-14", lectureNo: 14,
     question: "Social forestry in India refers to:",
-    options: ["Growing trees on community, government wastelands, and farm boundaries for the benefit of local communities", "Commercial timber plantation only in horticultural practices", "Forestry activities only within reserved forests for vegetable cultivation", "Forest conservation for wild animals only in orchard management"],
+    options: ["Growing trees on community, government wastelands, and farm boundaries for the benefit of local communities", "Commercial timber plantation only in horticultural practices in agriculture", "Forestry activities only within reserved forests for vegetable cultivation under field conditions", "Forest conservation for wild animals only in orchard management for crop production"],
     correct: 0,
     explanation: "Social forestry involves growing trees on village/community land, road sides, and farm boundaries to meet local needs for fuelwood, fodder, and timber.",
     difficulty: "easy"
@@ -1761,7 +1761,7 @@ export const da281LectureQuestions: Question[] = [
   {
     id: "d281l_179", subject: "da-281", lecture: "lecture-14", lectureNo: 14,
     question: "Non-Timber Forest Products (NTFPs) include:",
-    options: ["Logs and planks only in horticultural practices", "Bamboo, honey, medicinal plants, gums, and resins (all non-wood products)", "Chemical fertilizers for vegetable cultivation", "Heavy machinery materials in orchard management"],
+    options: ["Logs and planks only in horticultural practices", "Bamboo, honey, medicinal plants, gums, and resins (all non-wood products)", "Chemical fertilizers for vegetable cultivation in agriculture", "Heavy machinery materials in orchard management under field conditions"],
     correct: 1,
     explanation: "NTFPs are all forest products other than timber — including bamboo, honey, lac, gums, resins, medicinal plants, and wild fruits.",
     difficulty: "easy"
@@ -1793,7 +1793,7 @@ export const da281LectureQuestions: Question[] = [
   {
     id: "d281l_183", subject: "da-281", lecture: "lecture-14", lectureNo: 14,
     question: "Lemongrass (Cymbopogon citratus) is grown primarily for:",
-    options: ["Essential oil used in cosmetics, food flavoring, and aromatherapy", "Fuelwood in horticultural practices", "Timber for vegetable cultivation", "Fodder for cattle in orchard management"],
+    options: ["Essential oil used in cosmetics, food flavoring, and aromatherapy", "Fuelwood in horticultural practices in agriculture", "Timber for vegetable cultivation under field conditions", "Fodder for cattle in orchard management"],
     correct: 0,
     explanation: "Lemongrass is cultivated for its aromatic essential oil, which is used in cosmetics, food flavoring, mosquito repellents, and aromatherapy.",
     difficulty: "medium"
@@ -1841,7 +1841,7 @@ export const da281LectureQuestions: Question[] = [
   {
     id: "d281l_189", subject: "da-281", lecture: "lecture-15", lectureNo: 15,
     question: "The main objective of Joint Forest Management (JFM) in India is:",
-    options: ["Complete protection without human use in horticultural practices", "Converting forests to agriculture for vegetable cultivation", "Involving local communities in forest protection and management for shared benefits", "Commercial timber exploitation in orchard management"],
+    options: ["Complete protection without human use in horticultural practices", "Converting forests to agriculture for vegetable cultivation in agriculture", "Involving local communities in forest protection and management for shared benefits", "Commercial timber exploitation in orchard management under field conditions"],
     correct: 2,
     explanation: "JFM was introduced in 1990 to involve local communities (through Village Forest Committees) in forest protection and management, sharing the benefits.",
     difficulty: "medium"

@@ -53,7 +53,7 @@ export const da102LectureQuestions: Question[] = [
   {
     id: "d102l_007", subject: "da-102", lecture: "lecture-1", lectureNo: 1,
     question: "Which method of rice cultivation is water-efficient?",
-    options: ["Transplanting", "Dibbling", "SRI (System of Rice Intensification)", "Broadcast sowing"],
+    options: ["Transplanting in agricultural meteorology", "Dibbling under atmospheric conditions", "SRI (System of Rice Intensification)", "Broadcast sowing"],
     correct: 2,
     explanation: "SRI requires less water (about 50% less) and uses young seedlings with wider spacing.",
     difficulty: "medium"
@@ -565,7 +565,7 @@ export const da102LectureQuestions: Question[] = [
   {
     id: "d102l_070", subject: "da-102", lecture: "lecture-5", lectureNo: 5,
     question: "'Topping' in cotton is done to:",
-    options: ["Apply growth regulators", "Remove lower leaves", "Remove apical meristem to promote lateral branching and boll development", "Remove roots"],
+    options: ["Apply growth regulators in agricultural meteorology", "Remove lower leaves under atmospheric conditions", "Remove apical meristem to promote lateral branching and boll development", "Remove roots in weather analysis"],
     correct: 2,
     explanation: "Topping removes the terminal bud to stop upward growth and improve boll formation on laterals.",
     difficulty: "medium"
@@ -711,7 +711,7 @@ export const da102LectureQuestions: Question[] = [
   {
     id: "d102l_088", subject: "da-102", lecture: "lecture-6", lectureNo: 6,
     question: "Pod borer (Helicoverpa armigera) damage in pigeonpea occurs at:",
-    options: ["Harvesting", "Germination", "Vegetative stage", "Flowering and pod formation stage"],
+    options: ["Harvesting in agricultural meteorology", "Germination under atmospheric conditions", "Vegetative stage", "Flowering and pod formation stage"],
     correct: 3,
     explanation: "Pod borer attacks pigeonpea at the flowering and pod-fill stage, causing maximum damage.",
     difficulty: "medium"
@@ -923,7 +923,7 @@ export const da102LectureQuestions: Question[] = [
   {
     id: "d102l_114", subject: "da-102", lecture: "lecture-8", lectureNo: 8,
     question: "Soybean requires _____ soils for best growth:",
-    options: ["Highly acidic (pH 4)", "Sandy", "Well-drained loamy soils with pH 6–7", "Waterlogged clay"],
+    options: ["Highly acidic (pH 4)", "Sandy in agricultural meteorology", "Well-drained loamy soils with pH 6–7", "Waterlogged clay under atmospheric conditions"],
     correct: 2,
     explanation: "Soybean grows best on well-drained loamy soils with pH 6–7.",
     difficulty: "easy"
@@ -955,7 +955,7 @@ export const da102LectureQuestions: Question[] = [
   {
     id: "d102l_118", subject: "da-102", lecture: "lecture-8", lectureNo: 8,
     question: "Soybean is harvested when:",
-    options: ["All leaves are green", "60 DAS", "Leaves start shedding and pods turn yellow/brown", "Flowers are blooming"],
+    options: ["All leaves are green", "60 DAS in agricultural meteorology", "Leaves start shedding and pods turn yellow/brown", "Flowers are blooming under atmospheric conditions"],
     correct: 2,
     explanation: "Soybean is harvested when leaves turn yellow and start shedding, and pods turn brown.",
     difficulty: "medium"
@@ -981,7 +981,7 @@ export const da102LectureQuestions: Question[] = [
   {
     id: "d102l_121", subject: "da-102", lecture: "lecture-9", lectureNo: 9,
     question: "Sesamum (gingelly) is botanically known as:",
-    options: ["Both A and B (same species)", "Sesamum orientale", "Sesamum indicum", "Sesamum radiatum"],
+    options: ["Both A and B (same species)", "Sesamum orientale in agricultural meteorology", "Sesamum indicum under atmospheric conditions", "Sesamum radiatum in weather analysis"],
     correct: 0,
     explanation: "Sesamum indicum and Sesamum orientale are synonyms for the cultivated sesame.",
     difficulty: "easy"
@@ -1061,7 +1061,7 @@ export const da102LectureQuestions: Question[] = [
   {
     id: "d102l_131", subject: "da-102", lecture: "lecture-9", lectureNo: 9,
     question: "Sesame is harvested when:",
-    options: ["At 40 DAS", "All capsules are green", "After full yellowing", "Lower capsules begin to turn yellow and start opening"],
+    options: ["At 40 DAS in agricultural meteorology", "All capsules are green under atmospheric conditions", "After full yellowing in weather analysis", "Lower capsules begin to turn yellow and start opening"],
     correct: 3,
     explanation: "Sesame is harvested when lower capsules begin to yellow and open to avoid shattering losses.",
     difficulty: "medium"
@@ -1858,7 +1858,7 @@ export const da102LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "If seedling growth is slow in SRI nursery, what is sprayed at 8-10 DAS?",
-    options: ["DAP solution", "0.5% urea + 0.5% zinc sulphate", "Nitrogen fertiliser only", "Phosphate solution"],
+    options: ["DAP solution in agricultural meteorology", "0.5% urea + 0.5% zinc sulphate", "Nitrogen fertiliser only", "Phosphate solution under atmospheric conditions"],
     correct: 1,
     explanation: "As per DA-102 notes: If seedling growth is slow in SRI nursery, sprinkle 0.5% urea + 0.5% zinc sulphate solution at 8-10 DAS."
   },

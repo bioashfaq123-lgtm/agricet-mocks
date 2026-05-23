@@ -228,7 +228,7 @@ export const da263Questions: Question[] = [
   {
     id: "d263_029", subject: "english-communication",
     question: "Skimming a text means:",
-    options: ["Reading aloud in everyday communication", "Reading every word carefully in formal language use", "Reading backwards for language development", "Reading quickly to get the general idea or main points"],
+    options: ["Reading aloud in everyday communication in agriculture", "Reading every word carefully in formal language use", "Reading backwards for language development under field conditions", "Reading quickly to get the general idea or main points"],
     correct: 3,
     explanation: "Skimming is a rapid reading technique to get the gist or main ideas without reading every word.",
     difficulty: "easy"
@@ -244,7 +244,7 @@ export const da263Questions: Question[] = [
   {
     id: "d263_031", subject: "english-communication",
     question: "The word 'precipitation' in a weather report refers to:",
-    options: ["Temperature in everyday communication", "Wind speed in formal language use", "Humidity level for language development", "Any form of water falling from the atmosphere (rain, snow, hail)"],
+    options: ["Temperature in everyday communication in agriculture", "Wind speed in formal language use under field conditions", "Humidity level for language development for crop production", "Any form of water falling from the atmosphere (rain, snow, hail)"],
     correct: 3,
     explanation: "Precipitation is any form of water (rain, snow, drizzle) falling from clouds.",
     difficulty: "medium"
@@ -284,7 +284,7 @@ export const da263Questions: Question[] = [
   {
     id: "d263_036", subject: "english-communication",
     question: "An application letter for a job should include:",
-    options: ["Complaints about other candidates in everyday communication", "Applicant's qualifications, experience, and why they are suitable for the post", "Personal gossip in formal language use", "Irrelevant personal information for language development"],
+    options: ["Complaints about other candidates in everyday communication in agriculture", "Applicant's qualifications, experience, and why they are suitable for the post", "Personal gossip in formal language use under field conditions", "Irrelevant personal information for language development for crop production"],
     correct: 1,
     explanation: "A job application letter highlights relevant qualifications, skills, and experience matching the job requirements.",
     difficulty: "easy"
@@ -324,7 +324,7 @@ export const da263Questions: Question[] = [
   {
     id: "d263_041", subject: "english-communication",
     question: "A complaint letter should be:",
-    options: ["Humorous in everyday communication", "Aggressive and threatening in formal language use", "Polite, factual, and clearly state the problem and desired resolution", "Long and filled with personal opinions"],
+    options: ["Humorous in everyday communication in agriculture", "Aggressive and threatening in formal language use", "Polite, factual, and clearly state the problem and desired resolution", "Long and filled with personal opinions under field conditions"],
     correct: 2,
     explanation: "Effective complaint letters are firm but polite, state facts clearly, and request specific remedial action.",
     difficulty: "easy"
@@ -332,7 +332,7 @@ export const da263Questions: Question[] = [
   {
     id: "d263_042", subject: "english-communication",
     question: "An official circular is issued to:",
-    options: ["One person only in everyday communication", "Foreign organizations in formal language use", "A group of people within an organization informing them of policy/decisions", "Unknown public for language development"],
+    options: ["One person only in everyday communication in agriculture", "Foreign organizations in formal language use under field conditions", "A group of people within an organization informing them of policy/decisions", "Unknown public for language development for crop production"],
     correct: 2,
     explanation: "A circular is an official communication distributed to multiple people within or across departments.",
     difficulty: "easy"
@@ -436,7 +436,7 @@ export const da263Questions: Question[] = [
   {
     id: "d263_055", subject: "english-communication",
     question: "Active listening involves:",
-    options: ["Only hearing words in everyday communication", "Thinking about other things while someone speaks", "Interrupting frequently in formal language use", "Paying full attention, understanding, and responding appropriately to the speaker"],
+    options: ["Only hearing words in everyday communication in agriculture", "Thinking about other things while someone speaks", "Interrupting frequently in formal language use under field conditions", "Paying full attention, understanding, and responding appropriately to the speaker"],
     correct: 3,
     explanation: "Active listening is a communication skill requiring full focus, understanding, and thoughtful response.",
     difficulty: "easy"
@@ -492,7 +492,7 @@ export const da263Questions: Question[] = [
   {
     id: "d263_062", subject: "english-communication",
     question: "Plagiarism in writing means:",
-    options: ["Copying others' work and presenting it as your own without acknowledgment", "Writing original content in everyday communication", "Paraphrasing correctly in formal language use", "Citing sources properly for language development"],
+    options: ["Copying others' work and presenting it as your own without acknowledgment", "Writing original content in everyday communication in agriculture", "Paraphrasing correctly in formal language use under field conditions", "Citing sources properly for language development for crop production"],
     correct: 0,
     explanation: "Plagiarism is using someone else's ideas or writing without proper credit — it is considered academic dishonesty.",
     difficulty: "easy"

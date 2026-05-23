@@ -45,7 +45,7 @@ export const computerApplicationsQuestions: Question[] = [
     id: "ca006",
     subject: "computer-applications",
     question: "The Control Unit (CU) in a computer:",
-    options: ["Stores data permanently", "Interprets program instructions and controls input/output devices", "Performs calculations", "Displays output"],
+    options: ["Stores data permanently in computer systems", "Interprets program instructions and controls input/output devices", "Performs calculations for office applications", "Displays output in data processing"],
     correct: 1,
     explanation: "The Control Unit acts as the central nervous system of the computer. It interprets program instructions, ensures correct sequence of execution, and coordinates all input and output devices."
   },
@@ -133,7 +133,7 @@ export const computerApplicationsQuestions: Question[] = [
     id: "ca017",
     subject: "computer-applications",
     question: "Software is defined as:",
-    options: ["Physical components of computer", "Program or set of instructions that causes hardware to function in a desired way", "Only the operating system", "Input and output devices"],
+    options: ["Physical components of computer in computer systems according to standard computer science and IT principles", "Program or set of instructions that causes hardware to function in a desired way", "Only the operating system for office applications according to standard computer science and IT principles", "Input and output devices in data processing according to standard computer science and IT principles"],
     correct: 1,
     explanation: "Software is a program or set of instructions that causes the Hardware to function in a desired way. Without software, hardware is a dead machine — like a TV without TV studio programs."
   },
@@ -141,7 +141,7 @@ export const computerApplicationsQuestions: Question[] = [
     id: "ca018",
     subject: "computer-applications",
     question: "The Operating System (OS) acts as:",
-    options: ["Only a word processor", "Interface between hardware and user programs, managing computer resources", "Only an antivirus program", "A spreadsheet application"],
+    options: ["Only a word processor in computer systems", "Interface between hardware and user programs, managing computer resources", "Only an antivirus program for office applications", "A spreadsheet application in data processing"],
     correct: 1,
     explanation: "The Operating System is a bridge (interface) between the user and the hardware. It manages processor, memory, input/output operations, and file management to facilitate program execution."
   },
@@ -181,7 +181,7 @@ export const computerApplicationsQuestions: Question[] = [
     id: "ca023",
     subject: "computer-applications",
     question: "The FORMAT command in DOS is used to:",
-    options: ["Display file directory", "Copy files", "Prepare a disk to receive data by organizing it into tracks and sectors", "Delete files"],
+    options: ["Display file directory in computer systems according to standard computer science and IT principles", "Copy files for office applications according to standard computer science and IT principles", "Prepare a disk to receive data by organizing it into tracks and sectors", "Delete files in data processing according to standard computer science and IT principles"],
     correct: 2,
     explanation: "The FORMAT command prepares a disk (floppy or hard disk) to receive data by organizing it into tracks and sectors. It also checks for defective sectors. It erases all existing data."
   },
@@ -189,7 +189,7 @@ export const computerApplicationsQuestions: Question[] = [
     id: "ca024",
     subject: "computer-applications",
     question: "Booting a computer means:",
-    options: ["Shutting down the computer", "Activating the computer by loading the operating system into memory", "Formatting the hard disk", "Installing software"],
+    options: ["Shutting down the computer in computer systems", "Activating the computer by loading the operating system into memory", "Formatting the hard disk for office applications", "Installing software in data processing according to standard computer science and IT principles"],
     correct: 1,
     explanation: "Booting means activating the computer for working. When switched on, the BIOS transfers the OS from disk to primary memory (RAM). After booting, the computer is ready to accept commands."
   },
@@ -205,7 +205,7 @@ export const computerApplicationsQuestions: Question[] = [
     id: "ca026",
     subject: "computer-applications",
     question: "In Windows, the Recycle Bin is used to:",
-    options: ["Store important files permanently", "Temporarily store deleted files which can be restored if needed", "Speed up the computer", "Clean up the hard disk"],
+    options: ["Store important files permanently in computer systems", "Temporarily store deleted files which can be restored if needed", "Speed up the computer for office applications", "Clean up the hard disk in data processing"],
     correct: 1,
     explanation: "The Recycle Bin is a folder that temporarily stores all files and folders deleted from Windows. Deleted files can be restored from Recycle Bin if needed, or permanently deleted to free space."
   },
@@ -221,7 +221,7 @@ export const computerApplicationsQuestions: Question[] = [
     id: "ca028",
     subject: "computer-applications",
     question: "MS Word is used for:",
-    options: ["Creating spreadsheets", "Database management", "Word processing — creating, editing, formatting and printing documents", "Creating presentations"],
+    options: ["Creating spreadsheets in computer systems", "Database management for office applications", "Word processing — creating, editing, formatting and printing documents", "Creating presentations in data processing"],
     correct: 2,
     explanation: "MS Word is a word processor used for creating, editing, formatting, and printing documents. The extension of MS Word files is .doc or .docx. It allows inserting pictures, tables, and charts."
   },
@@ -245,7 +245,7 @@ export const computerApplicationsQuestions: Question[] = [
     id: "ca031",
     subject: "computer-applications",
     question: "MS Excel is an electronic:",
-    options: ["Word processor", "Spreadsheet application for data analysis and calculation", "Presentation software", "Database management system"],
+    options: ["Word processor in computer systems", "Spreadsheet application for data analysis and calculation", "Presentation software for office applications", "Database management system in data processing"],
     correct: 1,
     explanation: "MS Excel is an electronic spreadsheet application used for creating, editing, and saving spreadsheets. It is used for data analysis, calculations using formulas, and creating graphs."
   },
@@ -253,7 +253,7 @@ export const computerApplicationsQuestions: Question[] = [
     id: "ca032",
     subject: "computer-applications",
     question: "In MS Excel, the SUM function is used to:",
-    options: ["Find average", "Add all numbers in a specified range", "Count cells", "Find maximum value"],
+    options: ["Find average in computer systems", "Add all numbers in a specified range", "Count cells for office applications", "Find maximum value in data processing"],
     correct: 1,
     explanation: "The SUM function in MS Excel adds all numbers in a specified range. Example: =SUM(A1:A10) adds all values from A1 to A10. AVERAGE calculates mean, COUNT counts cells."
   },
@@ -261,7 +261,7 @@ export const computerApplicationsQuestions: Question[] = [
     id: "ca033",
     subject: "computer-applications",
     question: "A computer virus is:",
-    options: ["A biological organism", "A set of instructions/program prepared to destroy data and packages", "A hardware malfunction", "A type of printer error"],
+    options: ["A biological organism in computer systems", "A set of instructions/program prepared to destroy data and packages", "A hardware malfunction for office applications", "A type of printer error in data processing"],
     correct: 1,
     explanation: "A computer virus is a set of instructions (program) prepared to destroy data and program packages. Viruses reside in executable files and spread to other programs when those files are executed."
   },
@@ -285,7 +285,7 @@ export const computerApplicationsQuestions: Question[] = [
     id: "ca036",
     subject: "computer-applications",
     question: "Windows Explorer is used to:",
-    options: ["Browse the internet", "View and manage files, folders, and drives on your computer", "Play music files", "Send emails"],
+    options: ["Browse the internet in computer systems", "View and manage files, folders, and drives on your computer", "Play music files for office applications", "Send emails in data processing according to standard computer science and IT principles"],
     correct: 1,
     explanation: "Windows Explorer provides detailed information about files, folders, and drives. It displays directory structure hierarchically in two panes — left shows drives/folders, right shows contents."
   },
@@ -293,7 +293,7 @@ export const computerApplicationsQuestions: Question[] = [
     id: "ca037",
     subject: "computer-applications",
     question: "A computer program is defined as:",
-    options: ["Hardware component", "Set of instructions that enables a computer to perform a given task", "Operating system only", "Input data"],
+    options: ["Hardware component in computer systems according to standard computer science and IT principles", "Set of instructions that enables a computer to perform a given task", "Operating system only for office applications according to standard computer science and IT principles", "Input data in data processing according to standard computer science and IT principles"],
     correct: 1,
     explanation: "A program is a set of instructions that enables a computer to perform a given task. Programs are written in programming languages and must be translated to machine language for execution."
   },
@@ -309,7 +309,7 @@ export const computerApplicationsQuestions: Question[] = [
     id: "ca039",
     subject: "computer-applications",
     question: "The Clipboard in Windows is:",
-    options: ["A permanent storage location", "A temporary storage location where copied or cut information is stored", "The desktop background", "The taskbar area"],
+    options: ["A permanent storage location in computer systems", "A temporary storage location where copied or cut information is stored", "The desktop background for office applications according to standard computer science and IT principles", "The taskbar area in data processing according to standard computer science and IT principles"],
     correct: 1,
     explanation: "The Clipboard is a temporary storage area where information you copy (Ctrl+C) or cut (Ctrl+X) is stored. The stored information can then be pasted (Ctrl+V) at the desired location."
   },
@@ -317,7 +317,7 @@ export const computerApplicationsQuestions: Question[] = [
     id: "ca040",
     subject: "computer-applications",
     question: "The Taskbar in Windows is:",
-    options: ["The title bar of a window", "A horizontal bar at the bottom of screen with Start menu on left", "The menu bar of applications", "The scroll bar on right side"],
+    options: ["The title bar of a window in computer systems", "A horizontal bar at the bottom of screen with Start menu on left", "The menu bar of applications for office applications", "The scroll bar on right side in data processing"],
     correct: 1,
     explanation: "The Taskbar is a rectangular bar that runs horizontally across the bottom of the Windows screen. It has the START menu on the left and the system clock/notification area on the right."
   },
@@ -349,7 +349,7 @@ export const computerApplicationsQuestions: Question[] = [
     id: "ca044",
     subject: "computer-applications",
     question: "SPSS is an example of which type of software?",
-    options: ["Operating System", "Word processing software", "Data Analysis (Statistical Package for Social Science)", "Web browser"],
+    options: ["Operating System in computer systems", "Word processing software for office applications", "Data Analysis (Statistical Package for Social Science)", "Web browser in data processing"],
     correct: 2,
     explanation: "SPSS (Statistical Package for Social Science) is a data analysis software. Other examples include SAS, MSTAT, GENSTAT. MS-Excel also has data analysis tools for correlation, regression, and significance tests."
   },
@@ -357,7 +357,7 @@ export const computerApplicationsQuestions: Question[] = [
     id: "ca045",
     subject: "computer-applications",
     question: "The difference between a Compiler and Interpreter is that:",
-    options: ["Compiler is faster at writing programs", "Compiler translates whole program before execution; Interpreter translates one statement at a time", "Interpreter produces machine code; Compiler produces source code", "Both work identically"],
+    options: ["Compiler is faster at writing programs in computer systems", "Compiler translates whole program before execution; Interpreter translates one statement at a time", "Interpreter produces machine code; Compiler produces source code for office applications", "Both work identically in data processing"],
     correct: 1,
     explanation: "A Compiler translates the complete program to machine code before execution and gives a full error list at end. An Interpreter translates and executes one statement at a time, making error correction easier but execution slower."
   },
@@ -373,7 +373,7 @@ export const computerApplicationsQuestions: Question[] = [
     id: "ca047",
     subject: "computer-applications",
     question: "MS Access is used for:",
-    options: ["Word processing", "Spreadsheet calculations", "Database management — creating and managing databases", "Presentations"],
+    options: ["Word processing in computer systems", "Spreadsheet calculations for office applications", "Database management — creating and managing databases", "Presentations in data processing"],
     correct: 2,
     explanation: "MS Access is a database management system (DBMS) used for creating databases, structuring with different types of fields, and using Query facility for accessing information. Extension is .mdb."
   },
@@ -381,7 +381,7 @@ export const computerApplicationsQuestions: Question[] = [
     id: "ca048",
     subject: "computer-applications",
     question: "The Internet is best described as:",
-    options: ["A single large computer", "A global network of interconnected computers sharing information", "A type of software", "An operating system"],
+    options: ["A single large computer in computer systems", "A global network of interconnected computers sharing information", "A type of software for office applications", "An operating system in data processing"],
     correct: 1,
     explanation: "The Internet is a global network of interconnected computers that share information. Internet Explorer is an application used to browse the internet using search engines."
   },
@@ -397,7 +397,7 @@ export const computerApplicationsQuestions: Question[] = [
     id: "ca050",
     subject: "computer-applications",
     question: "Which of the following is an advantage of computers mentioned in DA-262 course?",
-    options: ["Computers can think creatively", "High speed, accuracy, large storage capacity, automation and diligence", "Computers can replace all human activities", "Computers are inexpensive to manufacture"],
+    options: ["Computers can think creatively in computer systems", "High speed, accuracy, large storage capacity, automation and diligence", "Computers can replace all human activities", "Computers are inexpensive to manufacture for office applications"],
     correct: 1,
     explanation: "Advantages of computers as per course material: High speed (millions of calculations/second), Accuracy, large Storage capacity, Automation (performing complex tasks automatically), and Diligence (no fatigue)."
   },

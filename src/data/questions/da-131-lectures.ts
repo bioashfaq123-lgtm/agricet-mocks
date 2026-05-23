@@ -10,7 +10,7 @@ export const da131LectureQuestions: Question[] = [
 
   { id:"d131l_002", subject:"da-131", lecture:"lecture-1", lectureNo:1,
     question:"The class Insecta is distinguished from other Arthropods by having:",
-    options:["Book lungs", "Two pairs of antennae", "Four pairs of legs", "Three pairs of legs and three body regions"],
+    options:["Book lungs in entomology", "Two pairs of antennae in crop protection", "Four pairs of legs for field crops", "Three pairs of legs and three body regions"],
     correct:3, explanation:"Insects (class Insecta) have 3 pairs of legs, 3 body regions (head, thorax, abdomen) and usually 1 pair of antennae." },
 
   { id:"d131l_003", subject:"da-131", lecture:"lecture-1", lectureNo:1,
@@ -227,7 +227,7 @@ export const da131LectureQuestions: Question[] = [
 
   { id:"d131l_045", subject:"da-131", lecture:"lecture-3", lectureNo:3,
     question:"Oenocytes in insects are associated with:",
-    options:["Cuticle synthesis and wax secretion", "Respiration", "Digestion", "Reproduction"],
+    options:["Cuticle synthesis and wax secretion", "Respiration in entomology", "Digestion in crop protection", "Reproduction for field crops"],
     correct:0, explanation:"Oenocytes are large cells associated with cuticle wax secretion and lipid metabolism." },
 
   // ── LECTURE 4: Life Cycles & Metamorphosis ───────────────────────────────
@@ -268,7 +268,7 @@ export const da131LectureQuestions: Question[] = [
 
   { id:"d131l_053", subject:"da-131", lecture:"lecture-4", lectureNo:4,
     question:"Diapause in insects is:",
-    options:["A period of dormancy due to unfavourable conditions", "A moulting process", "A feeding stage", "A type of metamorphosis"],
+    options:["A period of dormancy due to unfavourable conditions", "A moulting process in entomology", "A feeding stage in crop protection", "A type of metamorphosis for field crops"],
     correct:0, explanation:"Diapause is a period of arrested development in insects triggered by environmental cues like photoperiod and temperature." },
 
   { id:"d131l_054", subject:"da-131", lecture:"lecture-4", lectureNo:4,
@@ -298,7 +298,7 @@ export const da131LectureQuestions: Question[] = [
 
   { id:"d131l_059", subject:"da-131", lecture:"lecture-4", lectureNo:4,
     question:"Which insect order shows hypermetamorphosis?",
-    options:["Lepidoptera", "Orthoptera", "Coleoptera (oil beetles – Meloe)", "Diptera"],
+    options:["Lepidoptera in entomology", "Orthoptera in crop protection", "Coleoptera (oil beetles – Meloe)", "Diptera for field crops"],
     correct:2, explanation:"Oil beetles (Meloe, Coleoptera) show hypermetamorphosis where the first instar is triungulid larva, later instars are grubs." },
 
   { id:"d131l_060", subject:"da-131", lecture:"lecture-4", lectureNo:4,
@@ -339,7 +339,7 @@ export const da131LectureQuestions: Question[] = [
 
   { id:"d131l_067", subject:"da-131", lecture:"lecture-5", lectureNo:5,
     question:"The characteristic feature of Hemiptera is:",
-    options:["Four membranous wings", "Hardened elytra", "Scaly wings", "Piercing and sucking mouthparts with hemelytra"],
+    options:["Four membranous wings", "Hardened elytra in entomology", "Scaly wings in crop protection", "Piercing and sucking mouthparts with hemelytra"],
     correct:3, explanation:"Hemiptera have piercing-sucking mouthparts and hemelytra (fore wings – basal half leathery, apical half membranous)." },
 
   { id:"d131l_068", subject:"da-131", lecture:"lecture-5", lectureNo:5,
@@ -364,7 +364,7 @@ export const da131LectureQuestions: Question[] = [
 
   { id:"d131l_072", subject:"da-131", lecture:"lecture-5", lectureNo:5,
     question:"Distinguishing feature of order Orthoptera is:",
-    options:["Scales on wings", "Hind legs modified for jumping", "Hemelytra", "Elytra"],
+    options:["Scales on wings", "Hind legs modified for jumping", "Hemelytra in entomology", "Elytra in crop protection"],
     correct:1, explanation:"Orthoptera (grasshoppers) have hind legs modified for jumping (saltatorial), with enlarged femora." },
 
   { id:"d131l_073", subject:"da-131", lecture:"lecture-5", lectureNo:5,
@@ -496,12 +496,12 @@ export const da131LectureQuestions: Question[] = [
 
   { id:"d131l_098", subject:"da-131", lecture:"lecture-7", lectureNo:7,
     question:"Shellac is produced from lac resin of Kerria lacca. The main host trees include:",
-    options:["Cotton and tobacco", "Mango and banana", "Palas (Butea monosperma) and Ber (Ziziphus mauritiana)", "Rice and wheat"],
+    options:["Cotton and tobacco in entomology", "Mango and banana in crop protection", "Palas (Butea monosperma) and Ber (Ziziphus mauritiana)", "Rice and wheat for field crops"],
     correct:2, explanation:"Kerria lacca is mainly reared on Palas (flame of the forest) and Ber. Other hosts include kusum and ghont." },
 
   { id:"d131l_099", subject:"da-131", lecture:"lecture-7", lectureNo:7,
     question:"Royal jelly is fed to:",
-    options:["All larvae for first 3 days, then queens exclusively", "All adult bees", "Drones only", "Workers throughout larval stage"],
+    options:["All larvae for first 3 days, then queens exclusively", "All adult bees in entomology", "Drones only in crop protection", "Workers throughout larval stage for field crops"],
     correct:0, explanation:"All larvae receive royal jelly for the first 3 days. After that, only queen-destined larvae continue to receive it throughout development." },
 
   { id:"d131l_100", subject:"da-131", lecture:"lecture-7", lectureNo:7,
@@ -516,7 +516,7 @@ export const da131LectureQuestions: Question[] = [
 
   { id:"d131l_102", subject:"da-131", lecture:"lecture-7", lectureNo:7,
     question:"Honey is hygroscopic and does not ferment because of its:",
-    options:["Low water content (17-20%) and high sugar content", "Acidic pH only", "Presence of beeswax", "High water content"],
+    options:["Low water content (17-20%) and high sugar content", "Acidic pH only in entomology", "Presence of beeswax in crop protection", "High water content for field crops"],
     correct:0, explanation:"Honey has low water content (17-20%) and high sugar concentration, which prevents fermentation by osmotic inhibition of microbes." },
 
   { id:"d131l_103", subject:"da-131", lecture:"lecture-7", lectureNo:7,
@@ -537,12 +537,12 @@ export const da131LectureQuestions: Question[] = [
   // ── LECTURE 8: Insect Ecology & Population Dynamics ──────────────────────
   { id:"d131l_106", subject:"da-131", lecture:"lecture-8", lectureNo:8,
     question:"Economic Threshold Level (ETL) is defined as the pest density at which:",
-    options:["Control measures should be initiated to prevent reaching EIL", "Crop is completely destroyed", "All natural enemies are eliminated", "No damage occurs"],
+    options:["Control measures should be initiated to prevent reaching EIL", "Crop is completely destroyed in entomology", "All natural enemies are eliminated in crop protection", "No damage occurs for field crops"],
     correct:0, explanation:"ETL is the pest density at which control action must be started to prevent the population from reaching Economic Injury Level (EIL)." },
 
   { id:"d131l_107", subject:"da-131", lecture:"lecture-8", lectureNo:8,
     question:"Economic Injury Level (EIL) is:",
-    options:["Population level after which control is impossible", "Lowest pest density that causes economic damage justifying control cost", "Population level causing 100% damage", "Population at which all crops fail"],
+    options:["Population level after which control is impossible", "Lowest pest density that causes economic damage justifying control cost", "Population level causing 100% damage in entomology", "Population at which all crops fail in crop protection"],
     correct:1, explanation:"EIL is the pest population level at which the value of crop damage equals the cost of control measures." },
 
   { id:"d131l_108", subject:"da-131", lecture:"lecture-8", lectureNo:8,
@@ -567,7 +567,7 @@ export const da131LectureQuestions: Question[] = [
 
   { id:"d131l_112", subject:"da-131", lecture:"lecture-8", lectureNo:8,
     question:"Pest resurgence is caused by:",
-    options:["Crop rotation", "Indiscriminate use of pesticides killing natural enemies", "Balanced fertilizer use", "Use of resistant varieties"],
+    options:["Crop rotation in entomology", "Indiscriminate use of pesticides killing natural enemies", "Balanced fertilizer use in crop protection", "Use of resistant varieties"],
     correct:1, explanation:"Pest resurgence occurs when pesticides kill natural enemies, allowing the target pest to rebound to higher levels than before treatment." },
 
   { id:"d131l_113", subject:"da-131", lecture:"lecture-8", lectureNo:8,
@@ -577,7 +577,7 @@ export const da131LectureQuestions: Question[] = [
 
   { id:"d131l_114", subject:"da-131", lecture:"lecture-8", lectureNo:8,
     question:"Environmental resistance includes:",
-    options:["Food, weather, natural enemies and disease", "Only predators", "Only pesticides", "Only temperature"],
+    options:["Food, weather, natural enemies and disease", "Only predators in entomology", "Only pesticides in crop protection", "Only temperature for field crops"],
     correct:0, explanation:"Environmental resistance includes all biotic (predators, parasites, disease, competition) and abiotic (temperature, humidity, rainfall) factors that limit population growth." },
 
   { id:"d131l_115", subject:"da-131", lecture:"lecture-8", lectureNo:8,
@@ -588,7 +588,7 @@ export const da131LectureQuestions: Question[] = [
   // ── LECTURE 9: Pesticides ─────────────────────────────────────────────────
   { id:"d131l_116", subject:"da-131", lecture:"lecture-9", lectureNo:9,
     question:"Organochlorine insecticides act by:",
-    options:["Blocking nicotinic receptors", "Inhibiting acetylcholinesterase", "Disrupting nerve impulse transmission (sodium channel)", "Inhibiting chitin synthesis"],
+    options:["Blocking nicotinic receptors", "Inhibiting acetylcholinesterase in entomology", "Disrupting nerve impulse transmission (sodium channel)", "Inhibiting chitin synthesis"],
     correct:2, explanation:"Organochlorines (DDT, BHC) disrupt sodium channel function in nerve cells, causing hyperexcitability and death." },
 
   { id:"d131l_117", subject:"da-131", lecture:"lecture-9", lectureNo:9,
@@ -639,7 +639,7 @@ export const da131LectureQuestions: Question[] = [
   // ── LECTURE 10: Pest Management Methods ──────────────────────────────────
   { id:"d131l_126", subject:"da-131", lecture:"lecture-10", lectureNo:10,
     question:"Integrated Pest Management (IPM) is defined as a pest management system that:",
-    options:["Uses only chemical pesticides", "Relies only on biological control", "Uses no pesticides at all", "Combines all suitable pest management tactics to keep pest populations below EIL"],
+    options:["Uses only chemical pesticides as per entomology and crop pest management principles", "Relies only on biological control in crop protection", "Uses no pesticides at all for field crops", "Combines all suitable pest management tactics to keep pest populations below EIL"],
     correct:3, explanation:"IPM combines cultural, biological, mechanical and chemical methods in a compatible manner to keep pest populations below EIL with minimum environmental impact." },
 
   { id:"d131l_127", subject:"da-131", lecture:"lecture-10", lectureNo:10,
@@ -659,7 +659,7 @@ export const da131LectureQuestions: Question[] = [
 
   { id:"d131l_130", subject:"da-131", lecture:"lecture-10", lectureNo:10,
     question:"Sterile Insect Technique (SIT) is used to control pests by:",
-    options:["Releasing sterile females", "Using sterile soil", "Applying sterile pesticides", "Releasing sterile males to mate with wild females producing no offspring"],
+    options:["Releasing sterile females as per entomology and crop pest management principles", "Using sterile soil as per entomology and crop pest management principles", "Applying sterile pesticides as per entomology and crop pest management principles", "Releasing sterile males to mate with wild females producing no offspring"],
     correct:3, explanation:"SIT involves mass-rearing, sterilising (by radiation) and releasing male insects. When they mate with wild females, no offspring are produced." },
 
   { id:"d131l_131", subject:"da-131", lecture:"lecture-10", lectureNo:10,
@@ -674,12 +674,12 @@ export const da131LectureQuestions: Question[] = [
 
   { id:"d131l_133", subject:"da-131", lecture:"lecture-10", lectureNo:10,
     question:"Which cultural practice helps in reducing stem borer damage in rice?",
-    options:["Skip row sowing", "Broadcasting seeds", "Flood irrigation", "Clipping tips of seedlings during transplanting"],
+    options:["Skip row sowing", "Broadcasting seeds in entomology", "Flood irrigation in crop protection", "Clipping tips of seedlings during transplanting"],
     correct:3, explanation:"Clipping the tips of seedlings during transplanting removes eggs of stem borers laid on leaf tips, reducing early infestation." },
 
   { id:"d131l_134", subject:"da-131", lecture:"lecture-10", lectureNo:10,
     question:"Deep summer ploughing helps in pest management by:",
-    options:["Exposing soil-dwelling pests, pupae and eggs to sun and predatory birds", "Improving water retention", "Reducing weeds only", "Improving soil fertility"],
+    options:["Exposing soil-dwelling pests, pupae and eggs to sun and predatory birds", "Improving water retention as per entomology and crop pest management principles", "Reducing weeds only as per entomology and crop pest management principles", "Improving soil fertility as per entomology and crop pest management principles"],
     correct:0, explanation:"Deep summer ploughing exposes pupae, eggs and larvae of soil-dwelling pests to desiccation, extreme temperature and predators." },
 
   { id:"d131l_135", subject:"da-131", lecture:"lecture-10", lectureNo:10,

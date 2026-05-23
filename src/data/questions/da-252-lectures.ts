@@ -5,7 +5,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_001", subject: "da-252", lecture: "lecture-1", lectureNo: 1,
     question: "Surveying is defined as the art of:",
-    options: ["Designing buildings in soil management", "Determining positions of points and measuring distances, angles, and elevations on the earth's surface", "Soil testing under field conditions", "Preparing maps only for soil fertility"],
+    options: ["Designing buildings in soil management in agriculture", "Determining positions of points and measuring distances, angles, and elevations on the earth's surface", "Soil testing under field conditions", "Preparing maps only for soil fertility under field conditions"],
     correct: 1,
     explanation: "Surveying involves determining the relative positions of points on or near the earth's surface through measurements.",
     difficulty: "easy"
@@ -45,7 +45,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_006", subject: "da-252", lecture: "lecture-1", lectureNo: 1,
     question: "A datum in surveying is:",
-    options: ["A chain length in soil management", "A survey instrument under field conditions", "A reference level or surface from which elevations are measured", "A type of map for soil fertility"],
+    options: ["A chain length in soil management in agriculture", "A survey instrument under field conditions", "A reference level or surface from which elevations are measured", "A type of map for soil fertility"],
     correct: 2,
     explanation: "Datum is an assumed or defined reference surface (often mean sea level) from which vertical measurements are made.",
     difficulty: "medium"
@@ -159,7 +159,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_020", subject: "da-252", lecture: "lecture-2", lectureNo: 2,
     question: "Ranging in chain surveying means:",
-    options: ["Taking offsets in soil management", "Plotting the chain survey under field conditions", "Establishing intermediate points on a straight line between two stations", "Measuring distances for soil fertility"],
+    options: ["Taking offsets in soil management in agriculture", "Plotting the chain survey under field conditions", "Establishing intermediate points on a straight line between two stations", "Measuring distances for soil fertility under field conditions"],
     correct: 2,
     explanation: "Ranging is the process of establishing a series of intermediate points on a straight line.",
     difficulty: "medium"
@@ -225,7 +225,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_028", subject: "da-252", lecture: "lecture-3", lectureNo: 3,
     question: "Local attraction in compass surveying is caused by:",
-    options: ["Atmospheric pressure in soil management", "Presence of magnetic materials (iron, electric cables) near the compass", "Earth's rotation under field conditions", "Sun's gravity for soil fertility"],
+    options: ["Atmospheric pressure in soil management in agriculture", "Presence of magnetic materials (iron, electric cables) near the compass", "Earth's rotation under field conditions", "Sun's gravity for soil fertility under field conditions"],
     correct: 1,
     explanation: "Local attraction deflects the magnetic needle due to nearby iron objects, steel structures, or power lines.",
     difficulty: "medium"
@@ -233,7 +233,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_029", subject: "da-252", lecture: "lecture-3", lectureNo: 3,
     question: "Traversing in compass survey involves:",
-    options: ["Measuring a series of connected lines with distances and bearings", "Plotting only in soil management", "Only measuring distances under field conditions", "Only measuring bearings for soil fertility"],
+    options: ["Measuring a series of connected lines with distances and bearings", "Plotting only in soil management in agriculture", "Only measuring distances under field conditions", "Only measuring bearings for soil fertility under field conditions"],
     correct: 0,
     explanation: "A traverse is a series of connected survey lines; both distances and bearings are measured.",
     difficulty: "medium"
@@ -291,7 +291,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_036", subject: "da-252", lecture: "lecture-4", lectureNo: 4,
     question: "Intersection method in plane table surveying requires:",
-    options: ["Two or more instrument stations with intersecting rays to locate points", "A compass in soil management", "One instrument station under field conditions", "A level for soil fertility"],
+    options: ["Two or more instrument stations with intersecting rays to locate points", "A compass in soil management in agriculture", "One instrument station under field conditions", "A level for soil fertility under field conditions"],
     correct: 0,
     explanation: "Intersection locates a point by intersecting rays from two or more instrument stations — useful when direct access is impossible.",
     difficulty: "medium"
@@ -307,7 +307,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_038", subject: "da-252", lecture: "lecture-4", lectureNo: 4,
     question: "Verniers in a theodolite are used to:",
-    options: ["Measure distances in soil management", "Read fractional parts of the main scale divisions (increase precision)", "Set the instrument level under field conditions", "Measure magnetic north for soil fertility"],
+    options: ["Measure distances in soil management in agriculture", "Read fractional parts of the main scale divisions (increase precision)", "Set the instrument level under field conditions", "Measure magnetic north for soil fertility under field conditions"],
     correct: 1,
     explanation: "Vernier scales allow reading of angles to fractions of a degree on the main graduated circle.",
     difficulty: "medium"
@@ -323,7 +323,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_040", subject: "da-252", lecture: "lecture-4", lectureNo: 4,
     question: "Tacheometry is a surveying method for:",
-    options: ["Underground surveys in soil management", "Soil profiling under field conditions", "Rapid determination of distances and elevations using stadia hairs in telescope", "Magnetic measurements for soil fertility"],
+    options: ["Underground surveys in soil management in agriculture", "Soil profiling under field conditions", "Rapid determination of distances and elevations using stadia hairs in telescope", "Magnetic measurements for soil fertility under field conditions"],
     correct: 2,
     explanation: "Tacheometry uses the stadia method to determine distances and elevations from staff readings without chaining.",
     difficulty: "hard"
@@ -333,7 +333,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_041", subject: "da-252", lecture: "lecture-5", lectureNo: 5,
     question: "Levelling is the process of determining:",
-    options: ["Areas of fields in soil management", "Relative heights (elevations) of points on the earth's surface", "Horizontal distances under field conditions", "Magnetic bearings for soil fertility"],
+    options: ["Areas of fields in soil management", "Relative heights (elevations) of points on the earth's surface", "Horizontal distances under field conditions", "Magnetic bearings for soil fertility in agriculture"],
     correct: 1,
     explanation: "Levelling finds the difference in elevation between points to establish levels for engineering and agricultural works.",
     difficulty: "easy"
@@ -349,7 +349,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_043", subject: "da-252", lecture: "lecture-5", lectureNo: 5,
     question: "Back Sight (BS) in levelling is the reading taken on:",
-    options: ["A forward point in soil management", "The last point under field conditions", "The first staff position (at known point/BM) after setting up instrument", "Any point for soil fertility"],
+    options: ["A forward point in soil management in agriculture", "The last point under field conditions", "The first staff position (at known point/BM) after setting up instrument", "Any point for soil fertility under field conditions"],
     correct: 2,
     explanation: "Back sight is taken on a point of known elevation (BM or change point) immediately after instrument setup.",
     difficulty: "medium"
@@ -365,7 +365,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_045", subject: "da-252", lecture: "lecture-5", lectureNo: 5,
     question: "Rise and Fall method in levelling calculates RL by:",
-    options: ["Compass readings in soil management", "Comparing consecutive staff readings (rise = previous IS/FS > current reading)", "Triangulation under field conditions", "HI method for soil fertility"],
+    options: ["Compass readings in soil management in agriculture", "Comparing consecutive staff readings (rise = previous IS/FS > current reading)", "Triangulation under field conditions", "HI method for soil fertility under field conditions"],
     correct: 1,
     explanation: "Rise and Fall method finds rises or falls between consecutive readings and applies them to successive RLs.",
     difficulty: "medium"
@@ -413,7 +413,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_051", subject: "da-252", lecture: "lecture-5", lectureNo: 5,
     question: "Dumpy level is preferred over tilting level because:",
-    options: ["It works without a staff in soil management", "It measures horizontal distances under field conditions", "It measures angles for soil fertility", "It has a simpler construction and is more stable for ordinary levelling"],
+    options: ["It works without a staff in soil management in agriculture", "It measures horizontal distances under field conditions", "It measures angles for soil fertility under field conditions", "It has a simpler construction and is more stable for ordinary levelling"],
     correct: 3,
     explanation: "Dumpy level has a simple, robust construction suitable for ordinary levelling work.",
     difficulty: "medium"
@@ -479,7 +479,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_059", subject: "da-252", lecture: "lecture-6", lectureNo: 6,
     question: "Gradient in agricultural land development refers to:",
-    options: ["Crop growth rate in soil management", "The slope or rate of change of elevation (rise/horizontal distance)", "Water pH under field conditions", "Soil fertility level for soil fertility"],
+    options: ["Crop growth rate in soil management in agriculture", "The slope or rate of change of elevation (rise/horizontal distance)", "Water pH under field conditions", "Soil fertility level for soil fertility under field conditions"],
     correct: 1,
     explanation: "Gradient (slope) = vertical rise / horizontal distance, expressed as ratio, percentage, or angle.",
     difficulty: "easy"
@@ -563,7 +563,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_069", subject: "da-252", lecture: "lecture-8", lectureNo: 8,
     question: "GPS (Global Positioning System) in surveying provides:",
-    options: ["Elevation only in soil management", "Magnetic bearings only under field conditions", "Precise 3D position (latitude, longitude, elevation) anywhere on earth", "Distance measurement only for soil fertility"],
+    options: ["Elevation only in soil management in agriculture", "Magnetic bearings only under field conditions", "Precise 3D position (latitude, longitude, elevation) anywhere on earth", "Distance measurement only for soil fertility"],
     correct: 2,
     explanation: "GPS uses satellite signals to provide accurate 3D positioning for surveying and mapping.",
     difficulty: "easy"
@@ -587,7 +587,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_072", subject: "da-252", lecture: "lecture-8", lectureNo: 8,
     question: "Remote sensing in agriculture uses:",
-    options: ["Magnetic instruments in soil management", "Ground-based instruments only under field conditions", "Chemical sensors in soil for soil fertility", "Satellite/aerial sensors to gather information about land features without direct contact"],
+    options: ["Magnetic instruments in soil management in agriculture", "Ground-based instruments only under field conditions", "Chemical sensors in soil for soil fertility under field conditions", "Satellite/aerial sensors to gather information about land features without direct contact"],
     correct: 3,
     explanation: "Remote sensing acquires information about earth's surface using sensors on satellites or aircraft.",
     difficulty: "medium"
@@ -603,7 +603,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_074", subject: "da-252", lecture: "lecture-8", lectureNo: 8,
     question: "Cadastral survey is conducted for:",
-    options: ["Soil classification only in soil management", "Topographic mapping under field conditions", "Weather mapping for soil fertility", "Fixing land boundaries, ownership, and area for legal/revenue purposes"],
+    options: ["Soil classification only in soil management", "Topographic mapping under field conditions", "Weather mapping for soil fertility in agriculture", "Fixing land boundaries, ownership, and area for legal/revenue purposes"],
     correct: 3,
     explanation: "Cadastral surveys determine land ownership boundaries and areas for revenue and legal purposes.",
     difficulty: "medium"
@@ -813,7 +813,7 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_100", subject: "da-252", lecture: "lecture-22", lectureNo: 22,
     question: "A key advantage of submersible pumps over centrifugal pumps is that:",
-    options: ["They can be used in very deep tube wells where a long shaft is impractical", "They do not require any power source in soil management", "They are cheaper to install under field conditions", "They are suitable only for shallow wells for soil fertility"],
+    options: ["They can be used in very deep tube wells where a long shaft is impractical", "They do not require any power source in soil management in agriculture", "They are cheaper to install under field conditions", "They are suitable only for shallow wells for soil fertility under field conditions"],
     correct: 0,
     explanation: "As per DA-252 notes: The principal advantage of submersible pump is it can be used in very deep tube wells where a long shaft would not be practical. It also has special advantage where theft is a problem since it has no above-ground working parts.",
     difficulty: "easy"
@@ -826,7 +826,7 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Surveying is defined as the art of determination of which of the following on or near the surface of the earth?",
-    options: ["Only vertical distances in soil management", "Horizontal distances, differences in elevation, directions, angles, locations, areas and volumes", "Only areas and volumes under field conditions", "Only horizontal distances for soil fertility"],
+    options: ["Only vertical distances in soil management in agriculture", "Horizontal distances, differences in elevation, directions, angles, locations, areas and volumes", "Only areas and volumes under field conditions", "Only horizontal distances for soil fertility under field conditions"],
     correct: 1,
     explanation: "Surveying involves measurement and recording of horizontal distances, differences in elevation, directions, angles, locations, areas and volumes on or near the earth's surface."
   },
@@ -1406,7 +1406,7 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-22",
     lectureNo: 22,
     question: "Which advantage does a submersible pump have over a surface centrifugal pump?",
-    options: ["No need for priming as both pump and motor are submerged", "Lower initial cost in soil management", "Higher maintenance requirement under field conditions", "Suitable for very shallow wells only for soil fertility"],
+    options: ["No need for priming as both pump and motor are submerged", "Lower initial cost in soil management in agriculture", "Higher maintenance requirement under field conditions", "Suitable for very shallow wells only for soil fertility"],
     correct: 0,
     explanation: "Since both the motor and pump are submerged in the water, submersible pumps do not require priming. They are suitable for deep tube wells and have lower noise levels."
   },
@@ -1476,7 +1476,7 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "The two main parts of survey work are:",
-    options: ["Chaining and offsetting in soil management", "Triangulation and traversing under field conditions", "Field work (taking measurements) and office work (computing and drawing)", "Ranging and chaining for soil fertility"],
+    options: ["Chaining and offsetting in soil management in agriculture", "Triangulation and traversing under field conditions", "Field work (taking measurements) and office work (computing and drawing)", "Ranging and chaining for soil fertility under field conditions"],
     correct: 2,
     explanation: "The process of survey is divided into two parts: (a) Field work — taking measurements, and (b) Office work — computing and drawing (preparing plans and maps)."
   },
@@ -1696,7 +1696,7 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-19",
     lectureNo: 19,
     question: "Which crop type is most suitable for sprinkler irrigation?",
-    options: ["Aquatic plants in soil management", "Closely spaced field crops, vegetables, and orchards on undulating terrain", "Paddy (flooded field crops) under field conditions", "Crops requiring waterlogged conditions for soil fertility"],
+    options: ["Aquatic plants in soil management in agriculture", "Closely spaced field crops, vegetables, and orchards on undulating terrain", "Paddy (flooded field crops) under field conditions", "Crops requiring waterlogged conditions for soil fertility"],
     correct: 1,
     explanation: "Sprinkler irrigation is most suitable for closely spaced field crops, vegetables, orchards, and crops on undulating terrain where surface irrigation is impractical."
   },
@@ -1806,7 +1806,7 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-22",
     lectureNo: 22,
     question: "The major difference between a centrifugal pump and a submersible pump installation is:",
-    options: ["Centrifugal pumps cannot be used with electricity in soil management", "Centrifugal pumps work at higher pressures than submersible pumps under field conditions", "In centrifugal pumps the motor is on the surface while in submersible pumps both motor and pump are submerged", "Submersible pumps can only be used for surface water for soil fertility"],
+    options: ["Centrifugal pumps cannot be used with electricity in soil management in agriculture", "Centrifugal pumps work at higher pressures than submersible pumps under field conditions", "In centrifugal pumps the motor is on the surface while in submersible pumps both motor and pump are submerged", "Submersible pumps can only be used for surface water for soil fertility under field conditions"],
     correct: 2,
     explanation: "In centrifugal pump installations, the motor is on the surface connected via a long shaft. In submersible pumps, both the motor and pump unit are submerged in the water source."
   },

@@ -5,7 +5,7 @@ export const meteorologyQuestions: Question[] = [
     id: "met001",
     subject: "meteorology",
     question: "Meteorology is the science that deals with:",
-    options: ["Soil study", "Study of atmosphere and its phenomena including weather and climate", "Water bodies", "Crop production"],
+    options: ["Soil study in agricultural meteorology in meteorology", "Study of atmosphere and its phenomena including weather and climate", "Water bodies under atmospheric conditions", "Crop production in weather analysis in weather forecasting"],
     correct: 1,
     explanation: "Meteorology is the scientific study of the atmosphere, atmospheric phenomena, and weather patterns. Agricultural meteorology applies these principles to crop production."
   },
@@ -21,7 +21,7 @@ export const meteorologyQuestions: Question[] = [
     id: "met003",
     subject: "meteorology",
     question: "Relative Humidity (RH) is defined as:",
-    options: ["Actual water vapor in air", "Ratio of actual vapor pressure to saturated vapor pressure at same temperature × 100", "Dew point temperature", "Total rainfall per year"],
+    options: ["Actual water vapor in air in agricultural meteorology in meteorology", "Ratio of actual vapor pressure to saturated vapor pressure at same temperature × 100", "Dew point temperature according to standard agro-meteorological science principles", "Total rainfall per year in weather analysis in weather forecasting"],
     correct: 1,
     explanation: "Relative Humidity = (Actual vapor pressure / Saturated vapor pressure at same temperature) × 100. It expresses the percentage of moisture in air compared to maximum it can hold at that temperature."
   },
@@ -37,7 +37,7 @@ export const meteorologyQuestions: Question[] = [
     id: "met005",
     subject: "meteorology",
     question: "The wet bulb depression is used to calculate:",
-    options: ["Rainfall", "Relative humidity and dew point temperature", "Wind speed", "Solar radiation"],
+    options: ["Rainfall in agricultural meteorology", "Relative humidity and dew point temperature", "Wind speed under atmospheric conditions", "Solar radiation in weather analysis"],
     correct: 1,
     explanation: "Wet bulb depression = (Dry bulb temperature - Wet bulb temperature). This difference is used with psychrometric tables to determine relative humidity and dew point temperature."
   },
@@ -69,7 +69,7 @@ export const meteorologyQuestions: Question[] = [
     id: "met009",
     subject: "meteorology",
     question: "Soil temperature is measured using:",
-    options: ["Stevenson screen thermometer", "Soil thermometers buried at different depths (5, 10, 20, 30 cm)", "Wet bulb thermometer", "Maximum-minimum thermometer"],
+    options: ["Stevenson screen thermometer in agricultural meteorology in meteorology", "Soil thermometers buried at different depths (5, 10, 20, 30 cm)", "Wet bulb thermometer under atmospheric conditions", "Maximum-minimum thermometer in weather analysis in weather forecasting"],
     correct: 1,
     explanation: "Soil temperature is measured using special soil thermometers buried at various depths (5, 10, 20, 30, 60 cm) or with mercury-in-glass or platinum resistance thermometers."
   },
@@ -85,7 +85,7 @@ export const meteorologyQuestions: Question[] = [
     id: "met011",
     subject: "meteorology",
     question: "The lapse rate of temperature in the troposphere is approximately:",
-    options: ["1°C per 1000 m", "6.5°C per 1000 m (Environmental Lapse Rate)", "10°C per 100 m", "0.5°C per km"],
+    options: ["1°C per 1000 m", "6.5°C per 1000 m (Environmental Lapse Rate)", "10°C per 100 m", "0.5°C per km in agricultural meteorology"],
     correct: 1,
     explanation: "The Environmental Lapse Rate (ELR) is approximately 6.5°C per 1000 m altitude increase in the troposphere. Temperature decreases with increasing altitude."
   },
@@ -101,7 +101,7 @@ export const meteorologyQuestions: Question[] = [
     id: "met013",
     subject: "meteorology",
     question: "The Beaufort scale measures:",
-    options: ["Rainfall intensity", "Wind force/speed from 0 (calm) to 12 (hurricane)", "Temperature range", "Humidity"],
+    options: ["Rainfall intensity in agricultural meteorology", "Wind force/speed from 0 (calm) to 12 (hurricane)", "Temperature range under atmospheric conditions", "Humidity in weather analysis in meteorology"],
     correct: 1,
     explanation: "The Beaufort scale is a empirical measure of wind intensity based on observable conditions. Scale 0 = calm (< 1 km/h) to Scale 12 = hurricane force (> 118 km/h)."
   },
@@ -109,7 +109,7 @@ export const meteorologyQuestions: Question[] = [
     id: "met014",
     subject: "meteorology",
     question: "Dew point temperature is the temperature at which:",
-    options: ["Maximum temperature occurs", "Air becomes saturated and condensation begins when cooled", "Evaporation stops", "Frost forms"],
+    options: ["Maximum temperature occurs in agricultural meteorology", "Air becomes saturated and condensation begins when cooled", "Evaporation stops under atmospheric conditions", "Frost forms in weather analysis"],
     correct: 1,
     explanation: "Dew point is the temperature to which air must be cooled (at constant pressure and water vapor content) for saturation to occur. Below dew point, dew or frost forms."
   },
@@ -117,7 +117,7 @@ export const meteorologyQuestions: Question[] = [
     id: "met015",
     subject: "meteorology",
     question: "Insolation refers to:",
-    options: ["Soil insulation", "Incoming solar radiation received on a unit horizontal surface", "Night temperature", "Wind patterns"],
+    options: ["Soil insulation in agricultural meteorology in meteorology", "Incoming solar radiation received on a unit horizontal surface", "Night temperature under atmospheric conditions", "Wind patterns in weather analysis in weather forecasting"],
     correct: 1,
     explanation: "Insolation (INcoming SOLar radiATION) is the solar radiation energy received on a unit horizontal area on Earth's surface. It is expressed in MJ/m²/day or Langleys."
   },
@@ -141,7 +141,7 @@ export const meteorologyQuestions: Question[] = [
     id: "met018",
     subject: "meteorology",
     question: "The greenhouse effect in the atmosphere is caused by:",
-    options: ["Ozone only", "CO₂, CH₄, N₂O, and water vapor absorbing outgoing longwave radiation", "Solar radiation directly", "Wind patterns"],
+    options: ["Ozone only in agricultural meteorology in meteorology", "CO₂, CH₄, N₂O, and water vapor absorbing outgoing longwave radiation", "Solar radiation directly under atmospheric conditions", "Wind patterns in weather analysis in weather forecasting"],
     correct: 1,
     explanation: "Greenhouse gases (CO₂, CH₄, N₂O, H₂O vapor, CFCs) absorb outgoing longwave (infrared) radiation from Earth's surface and re-emit it, warming the lower atmosphere."
   },
@@ -149,7 +149,7 @@ export const meteorologyQuestions: Question[] = [
     id: "met019",
     subject: "meteorology",
     question: "Soil heat flux is maximum in which soil condition?",
-    options: ["Wet soil", "Dry sandy soil (high conductivity when dry)", "Clay soil", "Organic matter rich soil"],
+    options: ["Wet soil in agricultural meteorology", "Dry sandy soil (high conductivity when dry)", "Clay soil under atmospheric conditions", "Organic matter rich soil"],
     correct: 1,
     explanation: "Dry sandy soils have relatively higher thermal conductivity per unit heat than wet soils. However, moist soils generally have higher thermal conductivity than dry soils. Bare soils have higher flux than vegetated."
   },
@@ -165,7 +165,7 @@ export const meteorologyQuestions: Question[] = [
     id: "met021",
     subject: "meteorology",
     question: "Albedo of a surface is:",
-    options: ["Total solar radiation received", "Fraction of incoming solar radiation reflected by the surface", "Night temperature", "Soil thermal capacity"],
+    options: ["Total solar radiation received in agricultural meteorology", "Fraction of incoming solar radiation reflected by the surface", "Night temperature under atmospheric conditions", "Soil thermal capacity in weather analysis"],
     correct: 1,
     explanation: "Albedo is the reflectivity of a surface - the ratio of reflected to incident solar radiation. Fresh snow has albedo 0.80-0.90; forest 0.10-0.20; crop land 0.15-0.25; water 0.05-0.10."
   },
@@ -173,7 +173,7 @@ export const meteorologyQuestions: Question[] = [
     id: "met022",
     subject: "meteorology",
     question: "The ENSO phenomenon refers to:",
-    options: ["Eastern North Sea Oscillation", "El Niño Southern Oscillation - Pacific Ocean temperature anomaly affecting global weather", "Equatorial North South Oscillation", "Environmental Neutral Solar Output"],
+    options: ["Eastern North Sea Oscillation in agricultural meteorology in meteorology", "El Niño Southern Oscillation - Pacific Ocean temperature anomaly affecting global weather", "Equatorial North South Oscillation under atmospheric conditions", "Environmental Neutral Solar Output in weather analysis in weather forecasting"],
     correct: 1,
     explanation: "ENSO (El Niño Southern Oscillation) is irregular warming (El Niño) or cooling (La Niña) of the Pacific Ocean near the equator, significantly affecting global weather including Indian monsoon rainfall."
   },
@@ -189,7 +189,7 @@ export const meteorologyQuestions: Question[] = [
     id: "met024",
     subject: "meteorology",
     question: "The crop water stress index (CWSI) is determined using:",
-    options: ["Rainfall data", "Canopy temperature compared to non-water-stressed baseline", "Soil moisture sensors", "Root zone temperature"],
+    options: ["Rainfall data in agricultural meteorology", "Canopy temperature compared to non-water-stressed baseline", "Soil moisture sensors", "Root zone temperature"],
     correct: 1,
     explanation: "CWSI uses infrared thermometry to measure canopy temperature. Stressed plants have higher canopy temperature due to reduced transpiration. CWSI = (Tc - Tref_dry) / (Tref_wet - Tref_dry)."
   },
@@ -197,7 +197,7 @@ export const meteorologyQuestions: Question[] = [
     id: "met025",
     subject: "meteorology",
     question: "Agrometeorological advisory service (AAS) provided to farmers includes:",
-    options: ["Only rainfall data", "Weather-based advisories on sowing time, irrigation, crop protection, and harvest", "Soil analysis", "Fertilizer recommendations only"],
+    options: ["Only rainfall data in agricultural meteorology in meteorology", "Weather-based advisories on sowing time, irrigation, crop protection, and harvest", "Soil analysis under atmospheric conditions", "Fertilizer recommendations only in weather analysis in weather forecasting"],
     correct: 1,
     explanation: "AAS provides weather-based farm advisory on optimal sowing window, irrigation scheduling, pest and disease warnings, spray timing, and harvest/post-harvest operations based on weather forecasts."
   },
@@ -205,7 +205,7 @@ export const meteorologyQuestions: Question[] = [
     id: "met026",
     subject: "meteorology",
     question: "A Lysimeter is used to measure:",
-    options: ["Rainfall", "Actual evapotranspiration from a vegetated soil surface", "Wind speed", "Solar radiation"],
+    options: ["Rainfall in agricultural meteorology", "Actual evapotranspiration from a vegetated soil surface", "Wind speed under atmospheric conditions", "Solar radiation in weather analysis"],
     correct: 1,
     explanation: "A lysimeter is an enclosed soil block with growing plants used to measure actual evapotranspiration by monitoring all water inputs (rain, irrigation) and outputs (drainage, soil moisture change)."
   },
@@ -213,7 +213,7 @@ export const meteorologyQuestions: Question[] = [
     id: "met027",
     subject: "meteorology",
     question: "The concept of Growing Degree Days (GDD) is used to:",
-    options: ["Predict rainfall", "Predict crop developmental stages and maturity based on heat accumulation", "Measure humidity", "Calculate solar radiation"],
+    options: ["Predict rainfall in agricultural meteorology in meteorology", "Predict crop developmental stages and maturity based on heat accumulation", "Measure humidity under atmospheric conditions", "Calculate solar radiation in weather analysis in weather forecasting"],
     correct: 1,
     explanation: "GDD accumulates daily mean temperatures above a base temperature to predict crop development stages. GDD = Σ(Tmean - Tbase). Each crop has specific GDD requirements for each phenological stage."
   },
@@ -229,7 +229,7 @@ export const meteorologyQuestions: Question[] = [
     id: "met029",
     subject: "meteorology",
     question: "Frost damage to crops occurs when air temperature falls below:",
-    options: ["5°C", "0°C (freezing point of water)", "10°C", "15°C"],
+    options: ["5°C in agricultural meteorology", "0°C (freezing point of water)", "10°C under atmospheric conditions", "15°C in weather analysis"],
     correct: 1,
     explanation: "Frost occurs when temperature drops to 0°C or below, causing ice crystal formation in plant tissues. Tender plants can be damaged by radiation frost (clear nights) or advection frost (cold winds)."
   },
@@ -237,7 +237,7 @@ export const meteorologyQuestions: Question[] = [
     id: "met030",
     subject: "meteorology",
     question: "Hailstorm damage to crops is primarily caused by:",
-    options: ["Strong winds", "Ice pellets (hail) falling at high velocity causing physical damage to plants", "Lightning", "Heavy rainfall"],
+    options: ["Strong winds in agricultural meteorology in meteorology", "Ice pellets (hail) falling at high velocity causing physical damage to plants", "Lightning according to standard agro-meteorological science principles", "Heavy rainfall in weather analysis in weather forecasting"],
     correct: 1,
     explanation: "Hailstorms cause severe physical damage to crops through impact of ice balls (hailstones) ranging from 5mm to over 100mm diameter, destroying leaves, breaking stems, and bruising fruits."
   },
@@ -245,7 +245,7 @@ export const meteorologyQuestions: Question[] = [
     id: "met031",
     subject: "meteorology",
     question: "The net radiation (Rn) in energy balance equation is:",
-    options: ["Only incoming solar radiation", "Rn = (Incoming shortwave - Reflected shortwave) + (Incoming longwave - Outgoing longwave)", "Rainfall energy", "Wind energy"],
+    options: ["Only incoming solar radiation in agricultural meteorology in meteorology", "Rn = (Incoming shortwave - Reflected shortwave) + (Incoming longwave - Outgoing longwave)", "Rainfall energy according to standard agro-meteorological science principles", "Wind energy in weather analysis in weather forecasting"],
     correct: 1,
     explanation: "Net Radiation = (Rs↓ - Rs↑) + (RL↓ - RL↑) = Net shortwave + Net longwave. It is the balance of all incoming and outgoing radiation and drives evapotranspiration and crop growth."
   },
@@ -253,7 +253,7 @@ export const meteorologyQuestions: Question[] = [
     id: "met032",
     subject: "meteorology",
     question: "Phenology in agriculture studies:",
-    options: ["Soil properties", "Timing of periodic biological events in crops relative to weather and climate", "Plant nutrition", "Pest management"],
+    options: ["Soil properties in agricultural meteorology in meteorology", "Timing of periodic biological events in crops relative to weather and climate", "Plant nutrition according to standard agro-meteorological science principles", "Pest management in weather analysis in weather forecasting"],
     correct: 1,
     explanation: "Agricultural phenology studies the timing of periodic plant developmental events (germination, flowering, fruiting, maturity) and their relationships with seasonal weather patterns."
   },
@@ -261,7 +261,7 @@ export const meteorologyQuestions: Question[] = [
     id: "met033",
     subject: "meteorology",
     question: "A cyclone in the northern hemisphere rotates:",
-    options: ["Clockwise", "Counter-clockwise (anticlockwise) due to Coriolis effect", "Varies by season", "Straight line"],
+    options: ["Clockwise in agricultural meteorology", "Counter-clockwise (anticlockwise) due to Coriolis effect", "Varies by season", "Straight line under atmospheric conditions"],
     correct: 1,
     explanation: "In the northern hemisphere, cyclones (low pressure systems) rotate counterclockwise due to the Coriolis effect. In southern hemisphere they rotate clockwise."
   },
@@ -277,7 +277,7 @@ export const meteorologyQuestions: Question[] = [
     id: "met035",
     subject: "meteorology",
     question: "Heat index (apparent temperature) accounts for:",
-    options: ["Only temperature", "Combined effect of air temperature and humidity on human/crop thermal comfort", "Wind speed only", "Solar radiation only"],
+    options: ["Only temperature in agricultural meteorology in meteorology", "Combined effect of air temperature and humidity on human/crop thermal comfort", "Wind speed only under atmospheric conditions", "Solar radiation only in weather analysis in weather forecasting"],
     correct: 1,
     explanation: "Heat index combines air temperature and relative humidity to estimate the 'feels like' temperature. High humidity reduces evaporative cooling, making hot weather more stressful for crops and humans."
   },
@@ -285,7 +285,7 @@ export const meteorologyQuestions: Question[] = [
     id: "met036",
     subject: "meteorology",
     question: "Orographic rainfall occurs when:",
-    options: ["Hot air rises in flat areas", "Moist air is forced to rise over mountains, cooling and precipitating", "Sea breeze brings rain", "Cold fronts meet warm fronts"],
+    options: ["Hot air rises in flat areas in agricultural meteorology", "Moist air is forced to rise over mountains, cooling and precipitating", "Sea breeze brings rain under atmospheric conditions", "Cold fronts meet warm fronts in weather analysis"],
     correct: 1,
     explanation: "Orographic (relief) rainfall occurs when moisture-laden winds are forced to rise over mountains. As air rises, it cools, condenses, and produces heavy rainfall on the windward side, while the leeward side is dry (rain shadow)."
   },
@@ -293,7 +293,7 @@ export const meteorologyQuestions: Question[] = [
     id: "met037",
     subject: "meteorology",
     question: "IMD classifies drought in India based on:",
-    options: ["Only temperature", "Meteorological drought when rainfall deficiency is ≥25% of normal", "Only soil moisture", "Crop yield only"],
+    options: ["Only temperature in agricultural meteorology in meteorology", "Meteorological drought when rainfall deficiency is ≥25% of normal", "Only soil moisture under atmospheric conditions", "Crop yield only in weather analysis"],
     correct: 1,
     explanation: "IMD defines meteorological drought when rainfall deficiency from normal is 26-50% (moderate drought) or > 50% (severe drought). Hydrological and agricultural droughts are also classified."
   },
@@ -301,7 +301,7 @@ export const meteorologyQuestions: Question[] = [
     id: "met038",
     subject: "meteorology",
     question: "The daily temperature range (diurnal range) is greatest in:",
-    options: ["Coastal areas", "Desert and arid areas with clear skies and low humidity", "Humid tropical areas", "Mountainous areas"],
+    options: ["Coastal areas in agricultural meteorology in meteorology", "Desert and arid areas with clear skies and low humidity", "Humid tropical areas under atmospheric conditions", "Mountainous areas in weather analysis in weather forecasting"],
     correct: 1,
     explanation: "Deserts and arid areas have the greatest diurnal temperature range because clear skies allow intense solar heating during day and rapid radiative cooling at night, with low humidity moderating neither extreme."
   },
@@ -309,7 +309,7 @@ export const meteorologyQuestions: Question[] = [
     id: "met039",
     subject: "meteorology",
     question: "The crop season Kharif in India corresponds to:",
-    options: ["November to March", "June to November (summer monsoon season)", "March to June", "All year"],
+    options: ["November to March", "June to November (summer monsoon season)", "March to June", "All year in agricultural meteorology"],
     correct: 1,
     explanation: "Kharif season crops are sown in June-July with the onset of monsoon and harvested in September-November. Major crops: rice, sorghum, maize, cotton, groundnut, soybean."
   },
@@ -325,7 +325,7 @@ export const meteorologyQuestions: Question[] = [
     id: "met041",
     subject: "meteorology",
     question: "The Normalized Difference Vegetation Index (NDVI) uses:",
-    options: ["Only visible light", "Near-infrared (NIR) and red band reflectance to assess vegetation density and health", "Thermal infrared only", "Microwave radiation"],
+    options: ["Only visible light in agricultural meteorology in meteorology", "Near-infrared (NIR) and red band reflectance to assess vegetation density and health", "Thermal infrared only according to standard agro-meteorological science principles", "Microwave radiation in weather analysis in weather forecasting"],
     correct: 1,
     explanation: "NDVI = (NIR - Red) / (NIR + Red). Healthy green vegetation has high NIR reflectance and low red reflectance, giving NDVI values of 0.6-0.9. Used in remote sensing to monitor crop growth."
   },
@@ -333,7 +333,7 @@ export const meteorologyQuestions: Question[] = [
     id: "met042",
     subject: "meteorology",
     question: "Fog formation requires:",
-    options: ["High wind speed", "Near-saturated air (high RH) with cooling at low levels, calm conditions", "High temperature", "Low humidity"],
+    options: ["High wind speed in agricultural meteorology in meteorology", "Near-saturated air (high RH) with cooling at low levels, calm conditions", "High temperature according to standard agro-meteorological science principles", "Low humidity in weather analysis in weather forecasting"],
     correct: 1,
     explanation: "Fog forms when air near the surface is cooled to its dew point, causing water vapor to condense into tiny droplets. It requires high relative humidity, gentle winds, and suitable cooling mechanisms."
   },
@@ -341,7 +341,7 @@ export const meteorologyQuestions: Question[] = [
     id: "met043",
     subject: "meteorology",
     question: "The Stefan-Boltzmann law states that radiation emitted by a body is proportional to:",
-    options: ["Temperature (T)", "T⁴ (fourth power of absolute temperature)", "T²", "1/T"],
+    options: ["Temperature (T) in agricultural meteorology", "T⁴ (fourth power of absolute temperature)", "T² under atmospheric conditions", "1/T in weather analysis"],
     correct: 1,
     explanation: "Stefan-Boltzmann law: E = σT⁴, where E is energy emitted per unit area, σ = 5.67 × 10⁻⁸ W/m²K⁴ (Stefan-Boltzmann constant), and T = absolute temperature in Kelvin."
   },
@@ -349,7 +349,7 @@ export const meteorologyQuestions: Question[] = [
     id: "met044",
     subject: "meteorology",
     question: "Percolation of water in soil is affected by:",
-    options: ["Only rainfall intensity", "Soil texture, structure, porosity, organic matter, and prior moisture content", "Temperature only", "Crop type"],
+    options: ["Only rainfall intensity in agricultural meteorology in meteorology", "Soil texture, structure, porosity, organic matter, and prior moisture content", "Temperature only under atmospheric conditions", "Crop type in weather analysis in weather forecasting"],
     correct: 1,
     explanation: "Soil water percolation depends on texture (sandy soils faster), structure (aggregate stability), porosity, organic matter content, and antecedent soil moisture. These determine infiltration rate."
   },
@@ -357,7 +357,7 @@ export const meteorologyQuestions: Question[] = [
     id: "met045",
     subject: "meteorology",
     question: "The wind rose diagram shows:",
-    options: ["Wind speed only", "Frequency and speed of wind from different directions over a period", "Rainfall patterns", "Temperature variation"],
+    options: ["Wind speed only in agricultural meteorology in meteorology", "Frequency and speed of wind from different directions over a period", "Rainfall patterns according to standard agro-meteorological science principles", "Temperature variation in weather analysis in weather forecasting"],
     correct: 1,
     explanation: "A wind rose diagram shows the statistical distribution of wind speed and direction at a location, indicating the most prevalent wind directions and their associated speeds for climate analysis."
   },
@@ -381,7 +381,7 @@ export const meteorologyQuestions: Question[] = [
     id: "met048",
     subject: "meteorology",
     question: "Cloud seeding is done using which material to induce artificial rainfall?",
-    options: ["Common salt (NaCl)", "Silver iodide (AgI) and dry ice (solid CO₂)", "Urea", "Calcium carbide"],
+    options: ["Common salt (NaCl) in agricultural meteorology", "Silver iodide (AgI) and dry ice (solid CO₂)", "Urea under atmospheric conditions", "Calcium carbide in weather analysis"],
     correct: 1,
     explanation: "Cloud seeding uses silver iodide (AgI) or dry ice (solid CO₂) dispersed into clouds to provide condensation nuclei. AgI has a crystal structure similar to ice and promotes ice crystal formation."
   },
@@ -397,7 +397,7 @@ export const meteorologyQuestions: Question[] = [
     id: "met050",
     subject: "meteorology",
     question: "The water balance equation for agriculture is:",
-    options: ["P = ET + R + D ± ΔS (Precipitation = Evapotranspiration + Runoff + Deep percolation ± Change in soil moisture)", "P = ET only", "Rainfall = Irrigation", "ET = Rainfall - Runoff"],
+    options: ["P = ET + R + D ± ΔS", "P = ET only in agricultural meteorology", "Rainfall = Irrigation under atmospheric conditions", "ET = Rainfall - Runoff in weather analysis"],
     correct: 0,
     explanation: "Water Balance: P (Precipitation) + I (Irrigation) = ET (Evapotranspiration) + R (Runoff) + D (Deep percolation/drainage) ± ΔS (Change in soil water storage). Used for irrigation scheduling."
   },

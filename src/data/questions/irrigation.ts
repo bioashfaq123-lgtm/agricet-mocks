@@ -13,7 +13,7 @@ export const irrigationQuestions: Question[] = [
     id: "irr002",
     subject: "irrigation",
     question: "The term 'Delta' in irrigation refers to:",
-    options: ["Total area irrigated", "Depth of water applied per irrigation", "Total depth of water required by crop during entire growing period", "Water lost through evaporation"],
+    options: ["Total area irrigated in irrigation management", "Depth of water applied per irrigation for water application", "Total depth of water required by crop during entire growing period", "Water lost through evaporation under field conditions"],
     correct: 2,
     explanation: "Delta is the total depth of water (in cm) required by a crop during its entire growing period from sowing to harvest."
   },
@@ -21,7 +21,7 @@ export const irrigationQuestions: Question[] = [
     id: "irr003",
     subject: "irrigation",
     question: "Duty of water is defined as:",
-    options: ["Area of land irrigated by unit discharge of water flowing continuously for entire base period", "Volume of water required per hectare", "Depth of water applied per irrigation", "Frequency of irrigation"],
+    options: ["Area of land irrigated by unit discharge of water flowing continuously for entire base period", "Volume of water required per hectare in irrigation management in irrigation", "Depth of water applied per irrigation for water application for water management", "Frequency of irrigation as per irrigation engineering and water management norms"],
     correct: 0,
     explanation: "Duty is the area of land (in hectares) that can be irrigated by one cumec (1 m³/s) of water flowing continuously throughout the base period of the crop."
   },
@@ -61,7 +61,7 @@ export const irrigationQuestions: Question[] = [
     id: "irr008",
     subject: "irrigation",
     question: "Permanent Wilting Point (PWP) is the soil moisture content at which:",
-    options: ["Plants wilt temporarily", "Plants wilt permanently and cannot recover even with water", "Soil drainage stops", "Maximum plant growth occurs"],
+    options: ["Plants wilt temporarily in irrigation management", "Plants wilt permanently and cannot recover even with water", "Soil drainage stops for water application", "Maximum plant growth occurs under field conditions"],
     correct: 1,
     explanation: "Permanent Wilting Point is the soil moisture content at which plants wilt permanently and cannot recover even when placed in a humid atmosphere. It is approximately -15 bar soil moisture tension."
   },
@@ -117,7 +117,7 @@ export const irrigationQuestions: Question[] = [
     id: "irr015",
     subject: "irrigation",
     question: "Evapotranspiration (ET) is the combination of:",
-    options: ["Evaporation from soil + Transpiration from plants", "Rainfall + Irrigation", "Runoff + Percolation", "Infiltration + Drainage"],
+    options: ["Evaporation from soil + Transpiration from plants", "Rainfall + Irrigation in irrigation management", "Runoff + Percolation for water application", "Infiltration + Drainage under field conditions"],
     correct: 0,
     explanation: "Evapotranspiration is the total water lost from a cropped surface through evaporation from soil and transpiration from plant leaves combined."
   },
@@ -133,7 +133,7 @@ export const irrigationQuestions: Question[] = [
     id: "irr017",
     subject: "irrigation",
     question: "Critical period of irrigation for wheat is:",
-    options: ["Germination", "Crown root initiation (CRI) stage", "Tillering only", "Maturity"],
+    options: ["Germination in irrigation management", "Crown root initiation (CRI) stage", "Tillering only", "Maturity for water application"],
     correct: 1,
     explanation: "The most critical irrigation for wheat is at the Crown Root Initiation (CRI) stage, which occurs 20-25 days after sowing. Missing irrigation at this stage causes severe yield reduction."
   },
@@ -141,7 +141,7 @@ export const irrigationQuestions: Question[] = [
     id: "irr018",
     subject: "irrigation",
     question: "Waterlogging in irrigated land is caused by:",
-    options: ["Excess rainfall only", "Rise of water table above the root zone due to excessive irrigation/poor drainage", "Drought conditions", "Saline water use"],
+    options: ["Excess rainfall only in irrigation management in irrigation", "Rise of water table above the root zone due to excessive irrigation/poor drainage", "Drought conditions for water application for water management", "Saline water use as per irrigation engineering and water management norms"],
     correct: 1,
     explanation: "Waterlogging occurs when the water table rises above the root zone due to excessive irrigation, seepage from canals, poor drainage, or low permeability soils, restricting oxygen supply to roots."
   },
@@ -165,7 +165,7 @@ export const irrigationQuestions: Question[] = [
     id: "irr021",
     subject: "irrigation",
     question: "Sprinkler irrigation is most suitable for:",
-    options: ["Rice and sugarcane", "Undulating lands with sandy soils and row crops", "Heavy clay soils", "Lowland paddy"],
+    options: ["Rice and sugarcane in irrigation management", "Undulating lands with sandy soils and row crops", "Heavy clay soils for water application", "Lowland paddy under field conditions"],
     correct: 1,
     explanation: "Sprinkler irrigation is ideal for undulating lands, sandy and light-textured soils where surface irrigation is difficult, and for row crops, vegetables, and orchards."
   },
@@ -181,7 +181,7 @@ export const irrigationQuestions: Question[] = [
     id: "irr023",
     subject: "irrigation",
     question: "Water use efficiency (WUE) is defined as:",
-    options: ["Crop yield per unit area", "Crop yield per unit of water consumed or applied", "Total water applied per crop", "Evapotranspiration / Rainfall"],
+    options: ["Crop yield per unit area in irrigation management", "Crop yield per unit of water consumed or applied", "Total water applied per crop for water application", "Evapotranspiration / Rainfall under field conditions"],
     correct: 1,
     explanation: "Water Use Efficiency = Crop yield / Water consumed (ET) or water applied. It measures how efficiently water is converted to crop biomass or yield."
   },
@@ -197,7 +197,7 @@ export const irrigationQuestions: Question[] = [
     id: "irr025",
     subject: "irrigation",
     question: "Border strip irrigation is suitable for:",
-    options: ["Tree crops and orchards with slopes", "Rice cultivation", "Vegetable crops on beds", "Dryland farming"],
+    options: ["Tree crops and orchards with slopes", "Rice cultivation in irrigation management", "Vegetable crops on beds", "Dryland farming for water application"],
     correct: 0,
     explanation: "Border strip irrigation is suitable for close-growing crops, small grains, fodder crops, and orchards on gentle, uniform slopes. Water flows in strips between parallel ridges (borders)."
   },
@@ -205,7 +205,7 @@ export const irrigationQuestions: Question[] = [
     id: "irr026",
     subject: "irrigation",
     question: "Furrow irrigation is best suited for:",
-    options: ["Row crops like maize, sugarcane, cotton, vegetables", "Paddy rice", "Wheat broadcasting", "Orchards on flat land"],
+    options: ["Row crops like maize, sugarcane, cotton, vegetables", "Paddy rice in irrigation management", "Wheat broadcasting for water application", "Orchards on flat land"],
     correct: 0,
     explanation: "Furrow irrigation is ideal for row crops such as maize, sugarcane, cotton, potatoes, and vegetables where water flows in small channels (furrows) between crop rows."
   },
@@ -221,7 +221,7 @@ export const irrigationQuestions: Question[] = [
     id: "irr028",
     subject: "irrigation",
     question: "Sub-surface drip irrigation (SDI) places emitters:",
-    options: ["Above the canopy", "At soil surface", "Below the soil surface in the root zone", "In overhead pipes"],
+    options: ["Above the canopy in irrigation management", "At soil surface for water application", "Below the soil surface in the root zone", "In overhead pipes under field conditions"],
     correct: 2,
     explanation: "Sub-surface drip irrigation places drip emitters/laterals below the soil surface (15-45 cm depth) directly in the root zone, reducing evaporation losses and allowing farming operations without moving the system."
   },
@@ -293,7 +293,7 @@ export const irrigationQuestions: Question[] = [
     id: "irr037",
     subject: "irrigation",
     question: "Leaching requirement in saline soils refers to:",
-    options: ["Total irrigation water needed", "Extra water needed beyond ET to leach excess salts below root zone", "Fertilizer requirement", "Drainage capacity"],
+    options: ["Total irrigation water needed in irrigation management in irrigation", "Extra water needed beyond ET to leach excess salts below root zone", "Fertilizer requirement for water application for water management", "Drainage capacity as per irrigation engineering and water management norms"],
     correct: 1,
     explanation: "Leaching requirement is the fraction of irrigation water that must pass through the root zone to maintain soil salinity at acceptable levels by leaching excess salts below the root zone."
   },
@@ -341,7 +341,7 @@ export const irrigationQuestions: Question[] = [
     id: "irr043",
     subject: "irrigation",
     question: "Crop coefficient (Kc) is used to:",
-    options: ["Measure soil moisture", "Convert reference ET (ET₀) to crop ET (ETc)", "Calculate irrigation duration", "Determine fertilizer dose"],
+    options: ["Measure soil moisture in irrigation management", "Convert reference ET (ET₀) to crop ET (ETc)", "Calculate irrigation duration for water application", "Determine fertilizer dose under field conditions"],
     correct: 1,
     explanation: "Crop coefficient (Kc) relates reference evapotranspiration (ET₀) to actual crop evapotranspiration (ETc = Kc × ET₀). It varies with crop type and growth stage."
   },
@@ -349,7 +349,7 @@ export const irrigationQuestions: Question[] = [
     id: "irr044",
     subject: "irrigation",
     question: "Tile drainage uses:",
-    options: ["Open ditches to remove surface water", "Perforated pipes buried in soil to remove excess water", "Pumps to lower water table", "Bunds to divert water"],
+    options: ["Open ditches to remove surface water", "Perforated pipes buried in soil to remove excess water", "Pumps to lower water table in irrigation management", "Bunds to divert water for water application"],
     correct: 1,
     explanation: "Tile drainage uses perforated clay, concrete, or plastic pipes (tiles) buried in the soil at regular intervals to collect and remove excess water from the root zone."
   },
@@ -365,7 +365,7 @@ export const irrigationQuestions: Question[] = [
     id: "irr046",
     subject: "irrigation",
     question: "The main advantage of sprinkler irrigation over surface irrigation is:",
-    options: ["Lower initial cost", "Suitable for all soil types including sandy soils, undulating terrain, and reduces deep percolation", "Requires less water pressure", "No power requirement"],
+    options: ["Lower initial cost in irrigation management as per irrigation engineering and water management norms", "Suitable for all soil types including sandy soils, undulating terrain, and reduces deep percolation", "Requires less water pressure for water application for water management", "No power requirement as per irrigation engineering and water management norms"],
     correct: 1,
     explanation: "Sprinkler irrigation works on all soil types including sandy soils, is suitable for undulating terrain, reduces deep percolation losses, and gives uniform water distribution."
   },
@@ -381,7 +381,7 @@ export const irrigationQuestions: Question[] = [
     id: "irr048",
     subject: "irrigation",
     question: "Rain gun is a type of:",
-    options: ["Drip emitter", "High pressure rotating sprinkler for large areas", "Micro-sprinkler", "Subsurface irrigator"],
+    options: ["Drip emitter in irrigation management", "High pressure rotating sprinkler for large areas", "Micro-sprinkler for water application", "Subsurface irrigator under field conditions"],
     correct: 1,
     explanation: "A rain gun is a high-pressure, large-diameter rotating sprinkler that can cover a large area (up to 80m radius). It is used for sugarcane, paddy, and other field crops."
   },
@@ -389,7 +389,7 @@ export const irrigationQuestions: Question[] = [
     id: "irr049",
     subject: "irrigation",
     question: "Critical irrigation for sugarcane is required during:",
-    options: ["Germination period", "Grand growth period (tillering to elongation)", "Maturity", "Harvesting"],
+    options: ["Germination period in irrigation management", "Grand growth period (tillering to elongation)", "Maturity for water application", "Harvesting under field conditions"],
     correct: 1,
     explanation: "The grand growth period (tillering to cane elongation) is the critical stage for sugarcane irrigation. This period requires maximum water for cell elongation and sucrose accumulation."
   },

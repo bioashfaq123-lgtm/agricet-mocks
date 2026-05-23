@@ -361,7 +361,7 @@ export const da111LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Mendel's Law of Segregation states that during gamete formation:",
-    options: ["The two alleles of a gene separate and go to different gametes", "Dominant alleles always suppress recessive alleles in F2", "Alleles of two different genes assort independently", "Genes on the same chromosome always segregate together"],
+    options: ["The two alleles of a gene separate and go to different gametes", "Dominant alleles always suppress recessive alleles in F2 in agriculture", "Alleles of two different genes assort independently under field conditions", "Genes on the same chromosome always segregate together for crop production"],
     correct: 0,
     explanation: "Mendel's Law of Segregation (First Law) states that each individual has two alleles for each trait and these alleles separate (segregate) during gamete formation so each gamete carries only one allele."
   },
@@ -1540,7 +1540,7 @@ export const da111LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "Plant breeding is defined as the art, science and technology of:",
-    options: ["Cultivating plants in controlled conditions", "Studying plant diseases and pests", "Developing new farming practices", "Improving the genetic makeup of plants for economic use"],
+    options: ["Cultivating plants in controlled conditions in agriculture", "Studying plant diseases and pests under field conditions", "Developing new farming practices for crop production", "Improving the genetic makeup of plants for economic use"],
     correct: 3,
     explanation: "As per DA-111 notes: Plant breeding is defined as an art, a science, and technology of improving the genetic makeup of plants in relation to their economic use for mankind."
   },
@@ -1970,7 +1970,7 @@ export const da111LectureQuestions: Question[] = [
     lecture: "lecture-16",
     lectureNo: 16,
     question: "Genetic erosion refers to:",
-    options: ["Loss of genetic diversity due to replacement of traditional varieties by modern varieties", "Mutation-induced loss of genetic information", "Reduction in crop area due to urbanization", "Physical erosion of soil reducing crop production"],
+    options: ["Loss of genetic diversity due to replacement of traditional varieties by modern varieties", "Mutation-induced loss of genetic information in agriculture", "Reduction in crop area due to urbanization under field conditions", "Physical erosion of soil reducing crop production for crop production"],
     correct: 0,
     explanation: "As per DA-111 notes: Genetic erosion refers to the loss of genetic diversity when traditional varieties are replaced by modern high-yielding varieties. Conservation of genetic diversity through gene banks is important."
   },
@@ -2050,7 +2050,7 @@ export const da111LectureQuestions: Question[] = [
     lecture: "lecture-38",
     lectureNo: 38,
     question: "Seed viability refers to:",
-    options: ["The weight of 1000 seeds", "The resistance of seed to diseases", "The ability of a seed to germinate under favorable conditions", "The shelf life of seed in storage"],
+    options: ["The weight of 1000 seeds in agriculture", "The resistance of seed to diseases under field conditions", "The ability of a seed to germinate under favorable conditions", "The shelf life of seed in storage"],
     correct: 2,
     explanation: "As per DA-111 notes: Seed viability refers to the ability of a seed to germinate under favorable conditions. It is a measure of the living status of seeds."
   },

@@ -1297,7 +1297,7 @@ export const da252Questions: Question[] = [
     id: "d252c_037",
     subject: "da-252",
     question: "Agricultural surveying includes which of the following specific activities?",
-    options: ["Laying out contour lines, terrace lines, drainage lines, and computing farm areas", "Photogrammetric aerial mapping in soil management", "Measuring large national boundaries under field conditions", "Conducting marine surveys for navigation for soil fertility"],
+    options: ["Laying out contour lines, terrace lines, drainage lines, and computing farm areas", "Photogrammetric aerial mapping in soil management in agriculture", "Measuring large national boundaries under field conditions", "Conducting marine surveys for navigation for soil fertility under field conditions"],
     correct: 0,
     explanation: "Agricultural surveying (simple plane surveying) includes laying out contour and terrace lines for soil conservation, drainage lines, profile lines for land leveling, computing field areas, and laying out farm buildings."
   },
@@ -1305,7 +1305,7 @@ export const da252Questions: Question[] = [
     id: "d252c_038",
     subject: "da-252",
     question: "The saw-tooth greenhouse type is preferred in tropical and subtropical regions because it provides:",
-    options: ["Maximum structural strength in soil management", "Lowest construction cost under field conditions", "Better natural ventilation through vertical faces and uniform light", "Best insulation in cold weather"],
+    options: ["Maximum structural strength in soil management", "Lowest construction cost under field conditions", "Better natural ventilation through vertical faces and uniform light", "Best insulation in cold weather in agriculture"],
     correct: 2,
     explanation: "The saw-tooth greenhouse design provides better natural ventilation (through vertical glass faces) and more uniform light distribution, making it well-suited for tropical and subtropical climates."
   },
@@ -1433,7 +1433,7 @@ export const da252Questions: Question[] = [
     id: "d252c_054",
     subject: "da-252",
     question: "The natural ventilation in a greenhouse uses which physical principle?",
-    options: ["Evaporative cooling through wet pad walls in soil management", "Negative pressure created by the growing plants under field conditions", "Stack effect (buoyancy): warm air rises and exits through upper vents, drawing in cool air from below", "Forced convection from fans for soil fertility"],
+    options: ["Evaporative cooling through wet pad walls in soil management in agriculture", "Negative pressure created by the growing plants under field conditions", "Stack effect (buoyancy): warm air rises and exits through upper vents, drawing in cool air from below", "Forced convection from fans for soil fertility under field conditions"],
     correct: 2,
     explanation: "Natural ventilation in greenhouses uses the stack effect (thermal buoyancy): warm air rises and exits through ridge vents, drawing in cooler outside air through side vents or louvers."
   },
@@ -1457,7 +1457,7 @@ export const da252Questions: Question[] = [
     id: "d252c_057",
     subject: "da-252",
     question: "Contour bunding and terracing as soil conservation practices primarily help to:",
-    options: ["Increase soil temperature for better crop growth", "Increase groundwater extraction rate in soil management", "Slow down runoff, prevent erosion, and allow water infiltration on slopes", "Drain waterlogged fields quickly under field conditions"],
+    options: ["Increase soil temperature for better crop growth in agriculture", "Increase groundwater extraction rate in soil management under field conditions", "Slow down runoff, prevent erosion, and allow water infiltration on slopes", "Drain waterlogged fields quickly under field conditions"],
     correct: 2,
     explanation: "Contour bunding and terracing slow runoff velocity, prevent soil erosion by water, and allow rainwater to infiltrate the soil profile on sloping agricultural lands."
   },
@@ -1553,7 +1553,7 @@ export const da252Questions: Question[] = [
     id: "d252c_069",
     subject: "da-252",
     question: "Computer automation in greenhouse cultivation is primarily used for:",
-    options: ["Marketing and sales management in soil management", "Harvesting operations under field conditions", "Financial record keeping for soil fertility", "Monitoring and automatically controlling temperature, humidity, CO₂, irrigation, and lighting"],
+    options: ["Marketing and sales management in soil management", "Harvesting operations under field conditions", "Financial record keeping for soil fertility in agriculture", "Monitoring and automatically controlling temperature, humidity, CO₂, irrigation, and lighting"],
     correct: 3,
     explanation: "Computer automation in greenhouses controls all environmental parameters: temperature, humidity, CO₂ concentration, irrigation scheduling, and lighting — optimizing crop growth."
   },

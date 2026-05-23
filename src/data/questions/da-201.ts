@@ -1209,7 +1209,7 @@ export const da201Questions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Sesame is regarded as 'Queen of Oilseeds' because of:",
-    options: ["Its drought tolerance in crop production", "Its quality (fatty acid composition) and resistance to oxidation and rancidity", "Its high yield potential in field conditions", "Its wide adaptability for agricultural purposes"],
+    options: ["Its drought tolerance in crop production in agriculture", "Its quality (fatty acid composition) and resistance to oxidation and rancidity", "Its high yield potential in field conditions under field conditions", "Its wide adaptability for agricultural purposes for crop production"],
     correct: 1,
     explanation: "As per DA-201 notes, sesame is regarded as 'queen of oilseeds' because of its quality (fatty acid composition) and its resistance to oxidation and rancidity."
   },
@@ -2212,7 +2212,7 @@ export const da201Questions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Sesame is regarded as Queen of Oilseeds because of:",
-    options: ["Its drought tolerance in crop production", "Its high yield potential in field conditions", "Its quality fatty acid composition and resistance to oxidation and rancidity", "Its wide adaptability for agricultural purposes"],
+    options: ["Its drought tolerance in crop production in agriculture", "Its high yield potential in field conditions under field conditions", "Its quality fatty acid composition and resistance to oxidation and rancidity", "Its wide adaptability for agricultural purposes for crop production"],
     correct: 2,
     explanation: "As per DA-201 notes, sesame is regarded as queen of oilseeds because of its quality (fatty acid composition) and its resistance to oxidation and rancidity."
   },
@@ -2292,7 +2292,7 @@ export const da201Questions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "The most critical stage of safflower crop growth for irrigation is:",
-    options: ["Flowering stage in crop production", "At sowing in field conditions", "Seed filling stage for agricultural purposes", "Rosette stage at 21 DAS or 4-6 leaf stage"],
+    options: ["Flowering stage in crop production in agriculture", "At sowing in field conditions under field conditions", "Seed filling stage for agricultural purposes", "Rosette stage at 21 DAS or 4-6 leaf stage"],
     correct: 3,
     explanation: "As per DA-201 notes, rosette stage (21 DAS or 4-6 leaf stage) is the most critical stage of safflower and yield can be increased by 40-60% with irrigation at this stage."
   },

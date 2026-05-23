@@ -50,7 +50,7 @@ export const da132LectureQuestions: Question[] = [
 
   { id:"d132l_010", subject:"da-132", lecture:"lecture-1", lectureNo:1,
     question:"Rice hispa (Dicladispa armigera) causes damage by:",
-    options:["Mining inside leaves (larvae) and scraping upper epidermis (adults)", "Feeding on roots", "Sucking sap from phloem", "Boring into stems"],
+    options:["Mining inside leaves (larvae) and scraping upper epidermis (adults)", "Feeding on roots in pest management", "Sucking sap from phloem in crop protection", "Boring into stems for field crops"],
     correct:0, explanation:"Hispa adults scrape upper epidermis of rice leaves (white patches); larvae mine inside leaves causing blotchy mines." },
 
   { id:"d132l_011", subject:"da-132", lecture:"lecture-1", lectureNo:1,
@@ -60,7 +60,7 @@ export const da132LectureQuestions: Question[] = [
 
   { id:"d132l_012", subject:"da-132", lecture:"lecture-1", lectureNo:1,
     question:"Management of rice stem borer includes:",
-    options:["Clipping seedling tips, light traps, Trichogramma release", "Dense planting", "Flood irrigation only", "Excessive nitrogen application"],
+    options:["Clipping seedling tips, light traps, Trichogramma release", "Dense planting in pest management", "Flood irrigation only in crop protection", "Excessive nitrogen application for field crops"],
     correct:0, explanation:"Rice stem borer is managed by clipping seedling tips (removes eggs), installing light traps, releasing Trichogramma egg parasitoids." },
 
   { id:"d132l_013", subject:"da-132", lecture:"lecture-1", lectureNo:1,
@@ -96,7 +96,7 @@ export const da132LectureQuestions: Question[] = [
 
   { id:"d132l_019", subject:"da-132", lecture:"lecture-2", lectureNo:2,
     question:"The characteristic feature of FAW larva for identification is:",
-    options:["Yellow stripes", "Single horn on tail", "Green colour", "Inverted Y mark on head capsule and 4 spots on 8th abdominal segment"],
+    options:["Yellow stripes as per crop protection and integrated pest management principles", "Single horn on tail as per crop protection and integrated pest management principles", "Green colour as per crop protection and integrated pest management principles", "Inverted Y mark on head capsule and 4 spots on 8th abdominal segment"],
     correct:3, explanation:"FAW larva has a distinctive inverted Y mark on the front of the head and 4 dark spots arranged in a square on the 8th abdominal segment." },
 
   { id:"d132l_020", subject:"da-132", lecture:"lecture-2", lectureNo:2,
@@ -116,17 +116,17 @@ export const da132LectureQuestions: Question[] = [
 
   { id:"d132l_023", subject:"da-132", lecture:"lecture-2", lectureNo:2,
     question:"Corn earworm / American bollworm (Helicoverpa armigera) attacks maize by:",
-    options:["Feeding on tassel and cob (silk and kernels)", "Sucking sap", "Mining leaves", "Boring into stem"],
+    options:["Feeding on tassel and cob (silk and kernels)", "Sucking sap in pest management", "Mining leaves in crop protection", "Boring into stem for field crops"],
     correct:0, explanation:"Helicoverpa larvae feed on silk, entering cobs and feeding on developing kernels, causing direct grain loss." },
 
   { id:"d132l_024", subject:"da-132", lecture:"lecture-2", lectureNo:2,
     question:"Management of shoot fly in sorghum includes:",
-    options:["Waterlogging", "Early sowing after onset of rains and use of shoot fly resistant varieties", "Dense planting", "Late sowing"],
+    options:["Waterlogging as per crop protection and integrated pest management principles", "Early sowing after onset of rains and use of shoot fly resistant varieties", "Dense planting as per crop protection and integrated pest management principles", "Late sowing as per crop protection and integrated pest management principles"],
     correct:1, explanation:"Early sowing avoids peak shoot fly incidence; resistant/tolerant varieties (ICSV 745, CSV 15) and Thimet (phorate) application are recommended." },
 
   { id:"d132l_025", subject:"da-132", lecture:"lecture-2", lectureNo:2,
     question:"Hairy caterpillar (Amsacta moorei) is a pest of:",
-    options:["Groundnut and other crops in rainfed areas", "Cotton", "Rice", "Sugarcane"],
+    options:["Groundnut and other crops in rainfed areas", "Cotton in pest management", "Rice in crop protection", "Sugarcane for field crops"],
     correct:0, explanation:"Bihar hairy caterpillar (Amsacta moorei, Lepidoptera) is a polyphagous pest attacking groundnut, cowpea, castor and other crops in rainfed areas." },
 
   { id:"d132l_026", subject:"da-132", lecture:"lecture-2", lectureNo:2,
@@ -136,7 +136,7 @@ export const da132LectureQuestions: Question[] = [
 
   { id:"d132l_027", subject:"da-132", lecture:"lecture-2", lectureNo:2,
     question:"The maize aphid (Rhopalosiphum maidis) damages maize by:",
-    options:["Boring cobs", "Cutting roots", "Sucking sap from leaves and tassel", "Mining leaves"],
+    options:["Boring cobs in pest management", "Cutting roots in crop protection", "Sucking sap from leaves and tassel", "Mining leaves for field crops"],
     correct:2, explanation:"Maize aphid colonises tassel and upper leaves, sucking sap and excreting honeydew. Heavy infestation causes sooty mold." },
 
   { id:"d132l_028", subject:"da-132", lecture:"lecture-2", lectureNo:2,
@@ -146,12 +146,12 @@ export const da132LectureQuestions: Question[] = [
 
   { id:"d132l_029", subject:"da-132", lecture:"lecture-2", lectureNo:2,
     question:"Application of sand + Chlorpyrifos in the whorl of maize is recommended against:",
-    options:["Root grub", "Stalk borer", "Fall armyworm and stem borer", "Aphids"],
+    options:["Root grub", "Stalk borer", "Fall armyworm and stem borer", "Aphids in pest management"],
     correct:2, explanation:"Chlorpyrifos mixed with sand and applied in the whorl effectively controls FAW and stem borer larvae that feed in the whorl." },
 
   { id:"d132l_030", subject:"da-132", lecture:"lecture-2", lectureNo:2,
     question:"Spodoptera frugiperda can be identified by 'window pane' feeding symptom where:",
-    options:["Entire leaf is consumed", "Leaf turns white", "Larva feeds from one side leaving transparent epidermis", "Leaf rolls up"],
+    options:["Entire leaf is consumed in pest management", "Leaf turns white in crop protection", "Larva feeds from one side leaving transparent epidermis", "Leaf rolls up for field crops"],
     correct:2, explanation:"Young FAW larvae feed from one side of the leaf leaving the opposite epidermis intact ('window pane' effect). Older larvae consume entire leaf tissue." },
 
   // ── LECTURE 3: Cotton Pests ───────────────────────────────────────────────
@@ -172,7 +172,7 @@ export const da132LectureQuestions: Question[] = [
 
   { id:"d132l_034", subject:"da-132", lecture:"lecture-3", lectureNo:3,
     question:"Cotton jassid (Amrasca biguttula biguttula) causes damage by:",
-    options:["Mining leaves", "Feeding on roots", "Boring into bolls", "Sucking sap from leaves causing 'hopperburn'"],
+    options:["Mining leaves in pest management", "Feeding on roots", "Boring into bolls", "Sucking sap from leaves causing 'hopperburn'"],
     correct:3, explanation:"Cotton jassid sucks phloem sap from leaves. Saliva is toxic, causing marginal reddening and upward curling of leaves ('hopper burn')." },
 
   { id:"d132l_035", subject:"da-132", lecture:"lecture-3", lectureNo:3,
@@ -187,7 +187,7 @@ export const da132LectureQuestions: Question[] = [
 
   { id:"d132l_037", subject:"da-132", lecture:"lecture-3", lectureNo:3,
     question:"Cotton mealybug (Phenacoccus solenopsis) was introduced in India from:",
-    options:["USA", "China", "Africa", "Pakistan (via invasive route from Americas)"],
+    options:["USA in pest management", "China in crop protection", "Africa for field crops", "Pakistan (via invasive route from Americas)"],
     correct:3, explanation:"Papaya/cotton mealybug P. solenopsis invaded India through Pakistan, first reported in Gujarat in 2005, then spread across India." },
 
   { id:"d132l_038", subject:"da-132", lecture:"lecture-3", lectureNo:3,
@@ -212,17 +212,17 @@ export const da132LectureQuestions: Question[] = [
 
   { id:"d132l_042", subject:"da-132", lecture:"lecture-3", lectureNo:3,
     question:"Helicoverpa armigera is called polyphagous because:",
-    options:["It resists all pesticides", "It has many host plants (cotton, tomato, chickpea, maize, chilli etc.)", "It has multiple generations", "It breeds very fast"],
+    options:["It resists all pesticides in pest management", "It has many host plants (cotton, tomato, chickpea, maize, chilli etc.)", "It has multiple generations in crop protection", "It breeds very fast for field crops"],
     correct:1, explanation:"Helicoverpa armigera is polyphagous – it attacks over 100 host plants including cotton, tomato, chickpea, maize, chilli, sorghum." },
 
   { id:"d132l_043", subject:"da-132", lecture:"lecture-3", lectureNo:3,
     question:"Which insecticide is recommended for first spray against bollworms in cotton?",
-    options:["Endosulfan", "Bt (Bacillus thuringiensis var. kurstaki) formulations", "DDT", "Parathion"],
+    options:["Endosulfan in pest management", "Bt (Bacillus thuringiensis var. kurstaki) formulations", "DDT in crop protection", "Parathion for field crops"],
     correct:1, explanation:"Bt (Bacillus thuringiensis var. kurstaki) formulation is recommended as first spray against young bollworm larvae in cotton IPM." },
 
   { id:"d132l_044", subject:"da-132", lecture:"lecture-3", lectureNo:3,
     question:"Cotton leaf curl disease (CLCuD) is caused by a:",
-    options:["Fungus", "Phytoplasma", "Bacterium", "Begomovirus (transmitted by Bemisia tabaci)"],
+    options:["Fungus in pest management", "Phytoplasma in crop protection", "Bacterium for field crops", "Begomovirus (transmitted by Bemisia tabaci)"],
     correct:3, explanation:"Cotton leaf curl disease is caused by Cotton leaf curl Burewala virus (CLCuBuV), a Begomovirus transmitted by whitefly Bemisia tabaci." },
 
   { id:"d132l_045", subject:"da-132", lecture:"lecture-3", lectureNo:3,
@@ -273,7 +273,7 @@ export const da132LectureQuestions: Question[] = [
 
   { id:"d132l_054", subject:"da-132", lecture:"lecture-4", lectureNo:4,
     question:"Pulse crops can be protected from bruchid in storage by mixing:",
-    options:["Neem leaf powder or edible oil (5 mL/kg seed)", "Ash only", "Salt", "Water"],
+    options:["Neem leaf powder or edible oil (5 mL/kg seed)", "Ash only in pest management", "Salt as per crop protection and integrated pest management principles", "Water as per crop protection and integrated pest management principles"],
     correct:0, explanation:"Admixing 5 mL edible oil per kg seeds or neem leaf powder (10 g/kg) prevents bruchid infestation in stored pulses." },
 
   { id:"d132l_055", subject:"da-132", lecture:"lecture-4", lectureNo:4,
@@ -283,7 +283,7 @@ export const da132LectureQuestions: Question[] = [
 
   { id:"d132l_056", subject:"da-132", lecture:"lecture-4", lectureNo:4,
     question:"Tur pod borer (Exelastis atomosa) is different from Helicoverpa because:",
-    options:["It is a moth (Lepidoptera, Pterophoridae) – feathery winged moth", "It is larger", "It is a fly", "It attacks stems"],
+    options:["It is a moth (Lepidoptera, Pterophoridae) – feathery winged moth", "It is larger in pest management", "It is a fly in crop protection", "It attacks stems for field crops"],
     correct:0, explanation:"Tur/pigeon pea pod borer Exelastis atomosa is a plume moth (Pterophoridae) with distinctive feather-like divided wings." },
 
   { id:"d132l_057", subject:"da-132", lecture:"lecture-4", lectureNo:4,
@@ -298,7 +298,7 @@ export const da132LectureQuestions: Question[] = [
 
   { id:"d132l_059", subject:"da-132", lecture:"lecture-4", lectureNo:4,
     question:"Thrips (Caliothrips indicus) in groundnut causes:",
-    options:["Root damage", "Silvery appearance on leaves due to scraping", "Pod boring", "Wilting"],
+    options:["Root damage in pest management", "Silvery appearance on leaves due to scraping", "Pod boring in crop protection", "Wilting for field crops"],
     correct:1, explanation:"Thrips scrape leaf surface and suck cell sap, leaving a silvery appearance on groundnut leaves." },
 
   { id:"d132l_060", subject:"da-132", lecture:"lecture-4", lectureNo:4,
@@ -329,17 +329,17 @@ export const da132LectureQuestions: Question[] = [
 
   { id:"d132l_065", subject:"da-132", lecture:"lecture-5", lectureNo:5,
     question:"Red hairy caterpillar (Amsacta albistriga) is controlled culturally by:",
-    options:["Irrigation", "Dense planting", "Deep ploughing to expose pupae", "Chemical only"],
+    options:["Irrigation in pest management", "Dense planting", "Deep ploughing to expose pupae", "Chemical only"],
     correct:2, explanation:"Deep summer ploughing exposes pupae of red hairy caterpillar in soil to birds, sun and predators, reducing population." },
 
   { id:"d132l_066", subject:"da-132", lecture:"lecture-5", lectureNo:5,
     question:"Mustard aphid (Lipaphis erysimi) causes maximum damage during:",
-    options:["Seedling stage", "Flowering and pod filling stage", "Vegetative stage", "Harvest"],
+    options:["Seedling stage", "Flowering and pod filling stage", "Vegetative stage", "Harvest in pest management"],
     correct:1, explanation:"Mustard aphid causes maximum damage during flowering and pod filling – colonies suck sap from inflorescences, pods causing shrivelling." },
 
   { id:"d132l_067", subject:"da-132", lecture:"lecture-5", lectureNo:5,
     question:"Painted bug (Bagrada hilaris) is a serious pest of:",
-    options:["Cotton", "Maize", "Rice", "Mustard and other cruciferous crops"],
+    options:["Cotton in pest management", "Maize in crop protection", "Rice for field crops", "Mustard and other cruciferous crops"],
     correct:3, explanation:"Painted bug (Bagrada hilaris, Hemiptera) is a sucking pest of mustard, cauliflower and other Brassica crops." },
 
   { id:"d132l_068", subject:"da-132", lecture:"lecture-5", lectureNo:5,
@@ -349,7 +349,7 @@ export const da132LectureQuestions: Question[] = [
 
   { id:"d132l_069", subject:"da-132", lecture:"lecture-5", lectureNo:5,
     question:"Sunflower head borer (Helicoverpa armigera) attack on sunflower leads to:",
-    options:["Leaf curling", "Boring into capitulum/head, causing damaged florets and empty achenes", "Leaf damage only", "Stem rotting"],
+    options:["Leaf curling in pest management", "Boring into capitulum/head, causing damaged florets and empty achenes", "Leaf damage only in crop protection", "Stem rotting for field crops"],
     correct:1, explanation:"Helicoverpa larvae bore into sunflower capitulum, feeding on developing florets and seeds, causing significant yield loss." },
 
   { id:"d132l_070", subject:"da-132", lecture:"lecture-5", lectureNo:5,
@@ -365,7 +365,7 @@ export const da132LectureQuestions: Question[] = [
 
   { id:"d132l_072", subject:"da-132", lecture:"lecture-6", lectureNo:6,
     question:"DBM (Plutella xylostella) has developed resistance to many insecticides. IPM strategy includes:",
-    options:["Applying DDT", "Ignoring all damage", "Using only one insecticide", "Rotation of insecticide groups + Bt + Spinosad + conservation of natural enemies"],
+    options:["Applying DDT as per crop protection and integrated pest management principles", "Ignoring all damage as per crop protection and integrated pest management principles", "Using only one insecticide as per crop protection and integrated pest management principles", "Rotation of insecticide groups + Bt + Spinosad + conservation of natural enemies"],
     correct:3, explanation:"DBM resistance management involves rotating different insecticide groups, using Bt (Bacillus thuringiensis), Spinosad and conserving parasitoid Cotesia plutellae." },
 
   { id:"d132l_073", subject:"da-132", lecture:"lecture-6", lectureNo:6,
@@ -380,17 +380,17 @@ export const da132LectureQuestions: Question[] = [
 
   { id:"d132l_075", subject:"da-132", lecture:"lecture-6", lectureNo:6,
     question:"Tomato fruit borer (Helicoverpa armigera) is managed by:",
-    options:["Copper oxychloride", "Metalaxyl spray", "Bt spray + NPV + removal of infested fruits", "Dithane M-45"],
+    options:["Copper oxychloride in pest management", "Metalaxyl spray in crop protection", "Bt spray + NPV + removal of infested fruits", "Dithane M-45 for field crops"],
     correct:2, explanation:"Tomato fruit borer IPM includes Bt spray, NPV, removal and destruction of infested fruits, pheromone traps for monitoring." },
 
   { id:"d132l_076", subject:"da-132", lecture:"lecture-6", lectureNo:6,
     question:"Cucurbit fruit fly (Bactrocera cucurbitae) lays eggs:",
-    options:["Into developing fruits through oviposition puncture", "On flower petals", "In soil", "On leaves"],
+    options:["Into developing fruits through oviposition puncture", "On flower petals", "In soil in pest management", "On leaves in crop protection"],
     correct:0, explanation:"Female cucurbit fruit fly pierces the skin of developing fruits and lays eggs. Larvae feed inside, causing rotting and premature fruit fall." },
 
   { id:"d132l_077", subject:"da-132", lecture:"lecture-6", lectureNo:6,
     question:"Cue-lure is used in fruit fly management for:",
-    options:["Attracting male Bactrocera cucurbitae (cucurbit fruit fly)", "Repelling flies", "Attracting female flies", "Killing eggs"],
+    options:["Attracting male Bactrocera cucurbitae (cucurbit fruit fly)", "Repelling flies in pest management", "Attracting female flies in crop protection", "Killing eggs for field crops"],
     correct:0, explanation:"Cue-lure (4-(p-Hydroxyphenyl)-2-butanone acetate) attracts male Bactrocera cucurbitae and is used in monitoring and mass trapping." },
 
   { id:"d132l_078", subject:"da-132", lecture:"lecture-6", lectureNo:6,
@@ -400,18 +400,18 @@ export const da132LectureQuestions: Question[] = [
 
   { id:"d132l_079", subject:"da-132", lecture:"lecture-6", lectureNo:6,
     question:"Spiral nematode and root-knot nematode in vegetables are managed by:",
-    options:["Mancozeb spray", "Copper spray", "Carbaryl spray", "Carbofuran (soil application) + crop rotation with non-hosts"],
+    options:["Mancozeb spray in pest management", "Copper spray in crop protection", "Carbaryl spray for field crops", "Carbofuran (soil application) + crop rotation with non-hosts"],
     correct:3, explanation:"Nematode management includes soil application of carbofuran/phorate, crop rotation with resistant/non-host crops, summer ploughing." },
 
   { id:"d132l_080", subject:"da-132", lecture:"lecture-6", lectureNo:6,
     question:"Which vegetable pest causes 'Shot hole' damage on leaves?",
-    options:["Epilachna beetle and flea beetle", "Aphid", "Leafhopper", "Whitefly"],
+    options:["Epilachna beetle and flea beetle", "Aphid in pest management", "Leafhopper in crop protection", "Whitefly for field crops"],
     correct:0, explanation:"Flea beetles create shot hole appearance by eating small circular pieces from leaves. Epilachna skeletonises leaves." },
 
   // ── LECTURE 7: Stored Grain Pests ─────────────────────────────────────────
   { id:"d132l_081", subject:"da-132", lecture:"lecture-7", lectureNo:7,
     question:"Rice weevil (Sitophilus oryzae) is a __________ pest of stored grains:",
-    options:["Internal (breeds inside grain kernel)", "None of these", "External", "Surface"],
+    options:["Internal (breeds inside grain kernel)", "None of these", "External in pest management", "Surface in crop protection"],
     correct:0, explanation:"Rice weevil is an internal feeder – female deposits egg inside grain and seals it; larva develops inside, emerging as adult." },
 
   { id:"d132l_082", subject:"da-132", lecture:"lecture-7", lectureNo:7,
@@ -421,12 +421,12 @@ export const da132LectureQuestions: Question[] = [
 
   { id:"d132l_083", subject:"da-132", lecture:"lecture-7", lectureNo:7,
     question:"Khapra beetle (Trogoderma granarium) is a quarantine pest because:",
-    options:["It can destroy entire grain stocks rapidly and is difficult to eradicate", "It is large and visible", "It causes skin allergy only", "It destroys packaging"],
+    options:["It can destroy entire grain stocks rapidly and is difficult to eradicate", "It is large and visible in pest management", "It causes skin allergy only in crop protection", "It destroys packaging as per crop protection and integrated pest management principles"],
     correct:0, explanation:"Khapra beetle is a destructive quarantine pest of cereals and oilseeds. Larvae are hairy and can survive for months without food." },
 
   { id:"d132l_084", subject:"da-132", lecture:"lecture-7", lectureNo:7,
     question:"Angoumois grain moth (Sitotroga cerealella) attacks:",
-    options:["Only oilseeds", "Only pulses", "Only in field", "Stored cereals – mainly rice, sorghum, maize"],
+    options:["Only oilseeds in pest management", "Only pulses in crop protection", "Only in field for field crops", "Stored cereals – mainly rice, sorghum, maize"],
     correct:3, explanation:"Sitotroga cerealella (Lepidoptera: Gelechiidae) attacks stored cereals. Larvae feed inside grain kernels, leaving only hollow shells." },
 
   { id:"d132l_085", subject:"da-132", lecture:"lecture-7", lectureNo:7,
@@ -441,12 +441,12 @@ export const da132LectureQuestions: Question[] = [
 
   { id:"d132l_087", subject:"da-132", lecture:"lecture-7", lectureNo:7,
     question:"The flat grain beetle (Oryzaephilus surinamensis) is a:",
-    options:["Fungal feeder", "Primary pest", "Neither pest", "Secondary (feeds on grain damaged by primary pests)"],
+    options:["Fungal feeder in pest management", "Primary pest in crop protection", "Neither pest for field crops", "Secondary (feeds on grain damaged by primary pests)"],
     correct:3, explanation:"Saw-toothed grain beetle is a secondary pest that invades grain already damaged by primary pests or fungal growth." },
 
   { id:"d132l_088", subject:"da-132", lecture:"lecture-7", lectureNo:7,
     question:"Grain protectants used to prevent stored grain pests include:",
-    options:["Streptomycin", "Malathion 5% dust and Deltamethrin 1% dust", "Copper sulphate", "Bordeaux mixture"],
+    options:["Streptomycin in pest management", "Malathion 5% dust and Deltamethrin 1% dust", "Copper sulphate in crop protection", "Bordeaux mixture for field crops"],
     correct:1, explanation:"Malathion 5% dust and Deltamethrin 1% dust are safe grain protectants for treating stored grain." },
 
   { id:"d132l_089", subject:"da-132", lecture:"lecture-7", lectureNo:7,
@@ -462,12 +462,12 @@ export const da132LectureQuestions: Question[] = [
   // ── LECTURE 8: Mites & Nematodes ─────────────────────────────────────────
   { id:"d132l_091", subject:"da-132", lecture:"lecture-8", lectureNo:8,
     question:"Red spider mite (Tetranychus urticae) causes damage to crops by:",
-    options:["Sucking phloem", "Damaging roots", "Boring into stems", "Feeding on leaf undersurface causing stippling, bronzing and webbing"],
+    options:["Sucking phloem in pest management", "Damaging roots in crop protection", "Boring into stems for field crops", "Feeding on leaf undersurface causing stippling, bronzing and webbing"],
     correct:3, explanation:"Red spider mites feed on the undersurface of leaves, causing silver stippling, bronzing and fine webbing. Severe attacks cause leaf drop." },
 
   { id:"d132l_092", subject:"da-132", lecture:"lecture-8", lectureNo:8,
     question:"Mites are controlled by:",
-    options:["Acaricides (miticides) like dicofol, spiromesifen, abamectin", "NPV", "Bt formulations", "Conventional insecticides"],
+    options:["Acaricides (miticides) like dicofol, spiromesifen, abamectin", "NPV in pest management", "Bt formulations in crop protection", "Conventional insecticides for field crops"],
     correct:0, explanation:"Mites are controlled by specific acaricides (miticides) like dicofol, propargite, abamectin, spiromesifen. Most conventional insecticides are ineffective." },
 
   { id:"d132l_093", subject:"da-132", lecture:"lecture-8", lectureNo:8,
@@ -482,7 +482,7 @@ export const da132LectureQuestions: Question[] = [
 
   { id:"d132l_095", subject:"da-132", lecture:"lecture-8", lectureNo:8,
     question:"Yellow mite (Polyphagotarsonemus latus) is a serious pest of:",
-    options:["Rice", "Chilli, paprika and other solanaceous crops", "Maize", "Wheat"],
+    options:["Rice in pest management", "Chilli, paprika and other solanaceous crops", "Maize in crop protection", "Wheat for field crops"],
     correct:1, explanation:"Yellow mite (broad mite) attacks chilli, paprika, cotton and other crops. It causes leaf deformation, curling and distortion of growing points." },
 
   { id:"d132l_096", subject:"da-132", lecture:"lecture-8", lectureNo:8,
@@ -507,28 +507,28 @@ export const da132LectureQuestions: Question[] = [
 
   { id:"d132l_100", subject:"da-132", lecture:"lecture-8", lectureNo:8,
     question:"Eriophyid mite (Aceria cajani) causes which symptom in pigeonpea?",
-    options:["Leaf mining", "Pod boring", "Sterility mosaic disease (transmitted by the mite)", "Root galls"],
+    options:["Leaf mining in pest management", "Pod boring in crop protection", "Sterility mosaic disease (transmitted by the mite)", "Root galls for field crops"],
     correct:2, explanation:"Eriophyid mite (Aceria cajani) transmits Pigeonpea Sterility Mosaic Virus (PPSMV), causing sterility mosaic disease." },
 
   // ── LECTURE 9: Biological Control ────────────────────────────────────────
   { id:"d132l_101", subject:"da-132", lecture:"lecture-9", lectureNo:9,
     question:"Trichogramma chilonis is used as a biocontrol agent of:",
-    options:["Mites", "Aphids", "Nematodes", "Eggs of Lepidoptera pests (stem borer, bollworm)"],
+    options:["Mites in pest management", "Aphids in crop protection", "Nematodes for field crops", "Eggs of Lepidoptera pests (stem borer, bollworm)"],
     correct:3, explanation:"Trichogramma chilonis is a tiny egg parasitoid wasp used to control eggs of Lepidopteran pests like stem borer, bollworm." },
 
   { id:"d132l_102", subject:"da-132", lecture:"lecture-9", lectureNo:9,
     question:"Chrysoperla carnea (green lacewing) larva feeds on:",
-    options:["Soil fungi", "Soft-bodied insects like aphids, mites, whiteflies, thrips", "Plant roots", "Grain in storage"],
+    options:["Soil fungi in pest management", "Soft-bodied insects like aphids, mites, whiteflies, thrips", "Plant roots in crop protection", "Grain in storage for field crops"],
     correct:1, explanation:"Chrysoperla carnea larva is a voracious predator of soft-bodied insects – aphids, mites, whitefly nymphs, thrips, small caterpillars." },
 
   { id:"d132l_103", subject:"da-132", lecture:"lecture-9", lectureNo:9,
     question:"Bacillus thuringiensis (Bt) kills Lepidoptera larvae by:",
-    options:["Contact poison", "Causing nerve paralysis", "Skin penetration", "Crystal (Cry) protein causing gut lysis after ingestion"],
+    options:["Contact poison in pest management", "Causing nerve paralysis in crop protection", "Skin penetration for field crops", "Crystal (Cry) protein causing gut lysis after ingestion"],
     correct:3, explanation:"Bt produces delta-endotoxin (Cry proteins). When ingested, Cry proteins bind to midgut receptors, forming pores causing lysis and death." },
 
   { id:"d132l_104", subject:"da-132", lecture:"lecture-9", lectureNo:9,
     question:"NPV (Nuclear Polyhedrosis Virus) is most effective when sprayed:",
-    options:["At midday", "At any time of day", "Only once per season", "In the evening (to avoid UV degradation) when young larvae are active"],
+    options:["At midday as per crop protection and integrated pest management principles", "At any time of day in crop protection", "Only once per season for field crops", "In the evening (to avoid UV degradation) when young larvae are active"],
     correct:3, explanation:"NPV should be sprayed in the evening to prevent UV light degradation. It is most effective against early instar (young) larvae." },
 
   { id:"d132l_105", subject:"da-132", lecture:"lecture-9", lectureNo:9,
@@ -538,12 +538,12 @@ export const da132LectureQuestions: Question[] = [
 
   { id:"d132l_106", subject:"da-132", lecture:"lecture-9", lectureNo:9,
     question:"NSKE (Neem Seed Kernel Extract) at 5% is effective because it contains:",
-    options:["Azadirachtin – an insect growth disruptor and feeding deterrent", "Organic acids", "Fatty acids only", "Sugars"],
+    options:["Azadirachtin – an insect growth disruptor and feeding deterrent", "Organic acids in pest management", "Fatty acids only in crop protection", "Sugars as per crop protection and integrated pest management principles"],
     correct:0, explanation:"Azadirachtin in NSKE disrupts moulting, acts as feeding deterrent and antifeedant, and has IGR (Insect Growth Regulator) activity." },
 
   { id:"d132l_107", subject:"da-132", lecture:"lecture-9", lectureNo:9,
     question:"Cotesia flavipes released @ 50,000/ha controls which pest?",
-    options:["Cotton bollworm", "Fall armyworm", "Rice stem borer", "Sugarcane internode borer (Chilo sacchariphagus indicus)"],
+    options:["Cotton bollworm in pest management", "Fall armyworm in crop protection", "Rice stem borer", "Sugarcane internode borer (Chilo sacchariphagus indicus)"],
     correct:3, explanation:"Cotesia flavipes (braconid wasp) is a larval parasitoid of sugarcane internode borer. Mass release @ 50,000 parasitoids/ha is recommended." },
 
   { id:"d132l_108", subject:"da-132", lecture:"lecture-9", lectureNo:9,
@@ -553,23 +553,23 @@ export const da132LectureQuestions: Question[] = [
 
   { id:"d132l_109", subject:"da-132", lecture:"lecture-9", lectureNo:9,
     question:"The recommended dosage of Trichogramma chilonis for management of bollworms in cotton is:",
-    options:["1,000/ha", "10/plant", "1 crore/ha", "5,00,000 (5 lakh) eggs/ha in 10-12 releases"],
+    options:["1,000/ha in pest management", "10/plant in crop protection", "1 crore/ha for field crops", "5,00,000 (5 lakh) eggs/ha in 10-12 releases"],
     correct:3, explanation:"Trichogramma chilonis is released @ 5 lakh eggs/ha at 7-10 day intervals for 10-12 releases starting from flower formation in cotton." },
 
   { id:"d132l_110", subject:"da-132", lecture:"lecture-9", lectureNo:9,
     question:"Conservation biological control means:",
-    options:["Using pesticides that spare natural enemies", "Conserving and enhancing natural enemies already present in the field", "Introducing new biocontrol agents", "Mass rearing bioagents in lab"],
+    options:["Using pesticides that spare natural enemies in pest management", "Conserving and enhancing natural enemies already present in the field", "Introducing new biocontrol agents in crop protection", "Mass rearing bioagents in lab for field crops"],
     correct:1, explanation:"Conservation biocontrol involves protecting and enhancing existing natural enemy populations by avoiding broad-spectrum pesticides and providing habitat." },
 
   // ── LECTURE 10: IPM Principles & Pesticide Safety ─────────────────────────
   { id:"d132l_111", subject:"da-132", lecture:"lecture-10", lectureNo:10,
     question:"MRL (Maximum Residue Limit) in food means:",
-    options:["Maximum yield of a crop", "Minimum required level of pesticide", "Maximum legal pesticide application", "Maximum quantity of pesticide allowed in food legally safe for consumption"],
+    options:["Maximum yield of a crop in pest management", "Minimum required level of pesticide in crop protection", "Maximum legal pesticide application for field crops", "Maximum quantity of pesticide allowed in food legally safe for consumption"],
     correct:3, explanation:"MRL is the highest legally permissible concentration of pesticide residue in food/feed, set to ensure consumer safety." },
 
   { id:"d132l_112", subject:"da-132", lecture:"lecture-10", lectureNo:10,
     question:"PHI (Pre-Harvest Interval) is:",
-    options:["Days from sowing to flowering", "Time for pest population to recover", "Number of days between last pesticide application and harvest", "Time from transplanting to harvest"],
+    options:["Days from sowing to flowering in pest management", "Time for pest population to recover", "Number of days between last pesticide application and harvest", "Time from transplanting to harvest in crop protection"],
     correct:2, explanation:"PHI is the minimum number of days required after the last pesticide application before the crop can be harvested to ensure residues below MRL." },
 
   { id:"d132l_113", subject:"da-132", lecture:"lecture-10", lectureNo:10,
@@ -594,22 +594,22 @@ export const da132LectureQuestions: Question[] = [
 
   { id:"d132l_117", subject:"da-132", lecture:"lecture-10", lectureNo:10,
     question:"Farmer Field School (FFS) is an extension method used to teach:",
-    options:["IPM principles through field observation and group learning", "Soil testing", "Modern marketing", "Post-harvest management"],
+    options:["IPM principles through field observation and group learning", "Soil testing in pest management", "Modern marketing in crop protection", "Post-harvest management for field crops"],
     correct:0, explanation:"FFS (Farmer Field School) groups farmers to observe crop-pest-natural enemy interactions weekly, promoting IPM-based decisions." },
 
   { id:"d132l_118", subject:"da-132", lecture:"lecture-10", lectureNo:10,
     question:"Personal Protective Equipment (PPE) during pesticide application must include:",
-    options:["Rubber gloves only", "Hat only", "Any clothing", "Gloves, mask/respirator, full-body coverall, goggles, rubber boots"],
+    options:["Rubber gloves only in pest management", "Hat only in crop protection", "Any clothing for field crops", "Gloves, mask/respirator, full-body coverall, goggles, rubber boots"],
     correct:3, explanation:"Full PPE includes chemical-resistant gloves, face mask/respirator, full-body coverall, safety goggles and rubber boots." },
 
   { id:"d132l_119", subject:"da-132", lecture:"lecture-10", lectureNo:10,
     question:"WTO SPS Agreement relates to:",
-    options:["Currency exchange", "Sanitary and Phytosanitary measures (pesticide residues, food safety) in international trade", "Trade in industrial goods", "Import duties"],
+    options:["Currency exchange as per crop protection and integrated pest management principles", "Sanitary and Phytosanitary measures (pesticide residues, food safety) in international trade", "Trade in industrial goods in crop protection", "Import duties as per crop protection and integrated pest management principles"],
     correct:1, explanation:"WTO SPS (Sanitary and Phytosanitary) Agreement sets standards for food safety and animal/plant health affecting agricultural trade, including pesticide residue standards." },
 
   { id:"d132l_120", subject:"da-132", lecture:"lecture-10", lectureNo:10,
     question:"Resistance management in pest control involves:",
-    options:["Avoiding all pesticides", "Rotating pesticides of different modes of action to delay resistance development", "Using higher doses of the same pesticide", "Using the same pesticide every season"],
+    options:["Avoiding all pesticides in pest management", "Rotating pesticides of different modes of action to delay resistance development", "Using higher doses of the same pesticide", "Using the same pesticide every season in crop protection"],
     correct:1, explanation:"Resistance management involves rotating insecticide groups with different modes of action, using mixtures, and combining with non-chemical methods." },
 
   // ── BATCH 2: Additional 100 questions from PJTSAU DA-132 Theory Notes ──
@@ -849,7 +849,7 @@ export const da132LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Pink Borer (Sesamia inferens) larvae are characterized by which colour?",
-    options: ["white", "yellowish brown", "pale yellow with purple pink tinge", "reddish brown"],
+    options: ["white in pest management", "yellowish brown in crop protection", "pale yellow with purple pink tinge", "reddish brown for field crops"],
     correct: 2,
     explanation: "As per DA-132 notes: Sesamia inferens - larvae are pale yellow with a purple pink tinge and reddish brown head."
   },
@@ -1009,7 +1009,7 @@ export const da132LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Bonfires for attracting and killing Red Hairy Caterpillar moths should be lit",
-    options: ["at sunrise", "between 7-11 pm after monsoon rains", "anytime", "at noon"],
+    options: ["at sunrise in pest management", "between 7-11 pm after monsoon rains", "anytime in crop protection", "at noon for field crops"],
     correct: 1,
     explanation: "As per DA-132 notes: Bonfires at night between 7-11 pm within 48 hours after monsoon rains to attract and kill emerging red hairy caterpillar moths."
   },
@@ -1219,7 +1219,7 @@ export const da132LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "The egg of sorghum shootfly is described as whitish cigar shaped or",
-    options: ["spherical with ridges", "elongated with spine", "flattened boat shaped with wing-like lateral projection", "round and smooth"],
+    options: ["spherical with ridges in pest management", "elongated with spine in crop protection", "flattened boat shaped with wing-like lateral projection", "round and smooth for field crops"],
     correct: 2,
     explanation: "As per DA-132 notes: Sorghum shootfly - Egg is whitish cigar shaped or flattened boat shaped with wing like lateral projection."
   },
@@ -1289,7 +1289,7 @@ export const da132LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Sorghum/Corn Aphid (Rhopalosiphum maidis) causes mottled appearance with yellow patches and sooty mould in",
-    options: ["pulses", "rice", "sorghum, maize and other millets", "cotton"],
+    options: ["pulses in pest management", "rice in crop protection", "sorghum, maize and other millets", "cotton for field crops"],
     correct: 2,
     explanation: "As per DA-132 notes: Rhopalosiphum maidis is confined to unopened leaves of sorghum, maize and other millets."
   },

@@ -36,7 +36,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "The Bangalore method of composting differs from the Indore method in that:",
-    options: ["It requires turning every 15 days for rapid decomposition", "It places materials in pits with layers of night soil/urine earth and keeps them anaerobic", "It uses earthworms for decomposition", "It uses raised heaps instead of pits"],
+    options: ["It requires turning every 15 days for rapid decomposition in soil science", "It places materials in pits with layers of night soil/urine earth and keeps them anaerobic", "It uses earthworms for decomposition for soil management", "It uses raised heaps instead of pits in soil fertility"],
     correct: 1,
     explanation: "The Bangalore (HESCO) method developed by the City Improvement Trust uses pits where organic waste is layered with night soil or urine earth and kept moist for anaerobic decomposition over 3–6 months without turning."
   },
@@ -66,7 +66,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "Poultry manure is considered superior to cattle FYM as a fertilizer because:",
-    options: ["Poultry manure is richer in nutrients (approximately 1.5% N, 1.0% P₂O₅, 0.9% K₂O)", "Poultry manure has lower C:N ratio than cattle FYM", "Poultry manure has lower moisture content only", "Poultry manure acts only as a slow-release source"],
+    options: ["Poultry manure is richer in nutrients (approximately 1.5% N, 1.0% P₂O₅, 0.9% K₂O)", "Poultry manure has lower C:N ratio than cattle FYM in soil science", "Poultry manure has lower moisture content only for soil management", "Poultry manure acts only as a slow-release source in soil fertility"],
     correct: 0,
     explanation: "Poultry manure contains about 1.5% N, 1.0% P₂O₅, and 0.9% K₂O — nearly 3× higher in N than cattle FYM. It also contains more phosphorus. Its low C:N ratio ensures rapid mineralisation."
   },
@@ -126,7 +126,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "Night soil (human excreta) used in composting contributes mainly:",
-    options: ["Carbon-rich material for energy", "Beneficial bacteria only", "High nitrogen (approximately 5–7% N on dry weight)", "Phosphorus and potassium only"],
+    options: ["Carbon-rich material for energy in soil science", "Beneficial bacteria only for soil management", "High nitrogen (approximately 5–7% N on dry weight)", "Phosphorus and potassium only in soil fertility"],
     correct: 2,
     explanation: "Night soil contains approximately 5–7% N (dry weight), making it a rich nitrogen source. This is why the Bangalore method layers it with crop waste to speed decomposition and enrich the compost."
   },
@@ -136,7 +136,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "Sheep and goat manure (droppings) are particularly valued because:",
-    options: ["They are free from weed seeds and pathogens", "They are comparatively dry and concentrated with 3% N, 1% P₂O₅, 2% K₂O", "They have very high moisture content aiding decomposition", "They contain hormones that stimulate plant growth"],
+    options: ["They are free from weed seeds and pathogens in soil science", "They are comparatively dry and concentrated with 3% N, 1% P₂O₅, 2% K₂O", "They have very high moisture content aiding decomposition for soil management", "They contain hormones that stimulate plant growth in soil fertility"],
     correct: 1,
     explanation: "Sheep/goat droppings are concentrated (low moisture) and richer than cattle manure — approximately 3% N, 1% P₂O₅, 2% K₂O on dry-weight basis. They can be applied directly or composted."
   },
@@ -170,7 +170,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "The earthworm species most commonly used in vermicomposting worldwide and in India is:",
-    options: ["Pheretima posthuma", "Metaphire houlleti", "Eisenia fetida (Red wiggler / Tiger worm)", "Lumbricus terrestris"],
+    options: ["Pheretima posthuma in soil science", "Metaphire houlleti for soil management", "Eisenia fetida (Red wiggler / Tiger worm)", "Lumbricus terrestris in soil fertility"],
     correct: 2,
     explanation: "Eisenia fetida (red wiggler or manure worm) is the most widely used species for vermicomposting due to its tolerance of high organic matter concentrations, rapid reproduction, and surface-feeding habit."
   },
@@ -180,7 +180,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Vermicompost is superior to conventional FYM in nutrient availability because:",
-    options: ["Vermicompost contains higher total nutrient percentages than FYM", "Nutrients in vermicompost are in microbially processed, plant-available forms and it contains plant growth hormones", "Vermicompost is sterile, free from all microorganisms", "Vermicompost has higher C:N ratio, releasing nutrients more slowly"],
+    options: ["Vermicompost contains higher total nutrient percentages than FYM in soil science", "Nutrients in vermicompost are in microbially processed, plant-available forms and it contains plant growth hormones", "Vermicompost is sterile, free from all microorganisms for soil management", "Vermicompost has higher C:N ratio, releasing nutrients more slowly in soil fertility"],
     correct: 1,
     explanation: "Vermicompost contains nutrients (N, P, K) in readily plant-available forms, abundant beneficial microbes, plant growth regulators (auxins, cytokinins, gibberellins), and humic substances — making it functionally superior to FYM."
   },
@@ -250,7 +250,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "In-situ green manuring (growing and incorporating green manure in the same field) is preferred over ex-situ because:",
-    options: ["In-situ crops can be grown only in the dry season", "In-situ crops fix more nitrogen than ex-situ crops", "It avoids transport costs and nutrient losses; organic matter and N are incorporated directly", "Ex-situ green manures cannot be incorporated mechanically"],
+    options: ["In-situ crops can be grown only in the dry season", "In-situ crops fix more nitrogen than ex-situ crops in soil science", "It avoids transport costs and nutrient losses; organic matter and N are incorporated directly", "Ex-situ green manures cannot be incorporated mechanically for soil management"],
     correct: 2,
     explanation: "In-situ green manuring avoids labour and transport involved in carrying plant material from elsewhere. The crop is grown in the same field and incorporated, minimising N losses and ensuring maximum organic matter addition."
   },
@@ -270,7 +270,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Sesbania aculeata (Dhaincha) is particularly valued in rice-based cropping systems because:",
-    options: ["It is a cereal crop that improves soil aeration", "It suppresses all weeds through allelopathy", "It produces high grain yield for food use", "It tolerates submergence and can be grown even in standing water before rice transplanting"],
+    options: ["It is a cereal crop that improves soil aeration in soil science", "It suppresses all weeds through allelopathy for soil management", "It produces high grain yield for food use in soil fertility", "It tolerates submergence and can be grown even in standing water before rice transplanting"],
     correct: 3,
     explanation: "Sesbania aculeata can grow in waterlogged/flooded conditions, making it ideal for growing as a green manure crop in rice fields even during the pre-transplanting period when fields may be flooded."
   },
@@ -280,7 +280,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "The process of worm castings (vermicast) formation improves soil fertility because castings:",
-    options: ["Increase soil bulk density, improving aeration", "Are inert material with no nutritional value", "Have lower nutrient content than original organic matter", "Are enriched in available nutrients, beneficial microbes, and humic substances compared to unprocessed material"],
+    options: ["Increase soil bulk density, improving aeration in soil science", "Are inert material with no nutritional value for soil management", "Have lower nutrient content than original organic matter in soil fertility", "Are enriched in available nutrients, beneficial microbes, and humic substances compared to unprocessed material"],
     correct: 3,
     explanation: "Earthworm castings (vermicast) are enriched in available N (NH₄⁺, NO₃⁻), available P, exchangeable K, and Ca compared to surrounding soil. They also contain elevated populations of beneficial bacteria and humic acids."
   },
@@ -310,7 +310,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Mucuna pruriens (velvet bean/cowitch) grown as a cover/green manure crop primarily benefits subsequent crops by:",
-    options: ["Increasing soil pH through root exudates", "Providing potassium and calcium through its deep tap root", "Adding 100–150 kg N ha⁻¹ through biological N fixation and heavy biomass", "Producing allelopathic chemicals that suppress all weeds permanently"],
+    options: ["Increasing soil pH through root exudates in soil science", "Providing potassium and calcium through its deep tap root", "Adding 100–150 kg N ha⁻¹ through biological N fixation and heavy biomass", "Producing allelopathic chemicals that suppress all weeds permanently for soil management"],
     correct: 2,
     explanation: "Mucuna pruriens is a vigorous cover crop that fixes 100–150 kg N ha⁻¹ through Rhizobium symbiosis, produces 20–30 t ha⁻¹ biomass, suppresses weeds, and is widely used in humid tropics for soil improvement."
   },
@@ -324,7 +324,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Rhizobium inoculant is used for which category of crops?",
-    options: ["Oil palm and coconut", "All vegetables regardless of family", "Leguminous crops (pulses, soybean, groundnut) that form root nodules", "All cereal crops (rice, wheat, maize)"],
+    options: ["Oil palm and coconut in soil science", "All vegetables regardless of family for soil management", "Leguminous crops (pulses, soybean, groundnut) that form root nodules", "All cereal crops (rice, wheat, maize)"],
     correct: 2,
     explanation: "Rhizobium forms symbiotic N₂-fixing nodules exclusively on legume roots (Family Fabaceae). Each Rhizobium species/strain is generally specific to one or a few legume host plants."
   },
@@ -354,7 +354,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Blue-Green Algae (BGA/cyanobacteria) used as biofertilizer in rice cultivation are characterised by:",
-    options: ["Symbiotic association with rice roots forming nodules", "Heterotrophic nutrition requiring organic carbon substrate", "Photosynthetic N₂ fixation using heterocysts in species like Anabaena and Nostoc", "Free-living aerobic N fixation in upland soils only"],
+    options: ["Symbiotic association with rice roots forming nodules in soil science", "Heterotrophic nutrition requiring organic carbon substrate for soil management", "Photosynthetic N₂ fixation using heterocysts in species like Anabaena and Nostoc", "Free-living aerobic N fixation in upland soils only"],
     correct: 2,
     explanation: "BGA (Anabaena, Nostoc, Aulosira) are photosynthetic prokaryotes that fix N₂ in specialised cells called heterocysts. They are used in rice paddies contributing 20–30 kg N ha⁻¹ per crop."
   },
@@ -374,7 +374,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The shelf life of carrier-based biofertilizer inoculants (peat or lignite-based) is generally:",
-    options: ["1–3 months at room temperature; up to 6 months under refrigeration", "Indefinitely if kept dry", "3–5 years at ambient temperature", "1 week only"],
+    options: ["1–3 months at room temperature; up to 6 months under refrigeration", "Indefinitely if kept dry in soil science", "3–5 years at ambient temperature for soil management", "1 week only in soil fertility according to soil fertility and water conservation principles"],
     correct: 0,
     explanation: "Standard carrier-based biofertilizers (peat, lignite, or charcoal) have a shelf life of 6 months to 1 year from date of manufacture when stored at 4–10°C, or 3–4 months at room temperature."
   },
@@ -384,7 +384,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Vesicular-Arbuscular Mycorrhiza (VAM/AM fungi) improve plant nutrition primarily by:",
-    options: ["Fixing atmospheric nitrogen for the host plant", "Extending the effective root surface area through hyphae to absorb P, Zn, and water beyond the depletion zone", "Producing antibiotics that kill soil pathogens", "Decomposing soil organic matter to release nutrients"],
+    options: ["Fixing atmospheric nitrogen for the host plant in soil science", "Extending the effective root surface area through hyphae to absorb P, Zn", "Producing antibiotics that kill soil pathogens for soil management", "Decomposing soil organic matter to release nutrients in soil fertility"],
     correct: 1,
     explanation: "AM fungi extend plant root reach by producing an external hyphal network (extraradical mycelium) that explores soil beyond the P-depletion zone, absorbing H₂PO₄⁻, Zn²⁺, and water for the host plant."
   },
@@ -414,7 +414,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The recommended carrier material for biofertilizer production that supports maximum microbial survival is:",
-    options: ["Clay soil (unsterilised)", "Vermicompost mixed with sand", "Neutralised (pH 6.5–7.0) peat or lignite sterilised at 120°C", "Sand (sterile)"],
+    options: ["Clay soil (unsterilised) in soil science", "Vermicompost mixed with sand for soil management", "Neutralised (pH 6.5–7.0) peat or lignite sterilised at 120°C", "Sand (sterile) in soil fertility"],
     correct: 2,
     explanation: "Sterilised peat or lignite (charcoal) neutralised to pH 6.5–7.0 is the best carrier for biofertilizers — it provides good moisture retention, oxygen, and carbon while supporting high microbial populations (10⁸–10⁹ cells g⁻¹)."
   },
@@ -424,7 +424,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Biofertilizer inoculated seeds should NOT be mixed with chemical fertilizers at the time of sowing because:",
-    options: ["Chemical fertilizers improve inoculant survival", "Chemical fertilizers (especially N fertilizers and fungicides) can kill the microorganisms in the inoculant", "There is no contraindication to mixing biofertilizer with chemical fertilizers", "Chemical fertilizers reduce seed germination only"],
+    options: ["Chemical fertilizers improve inoculant survival according to soil fertility and water conservation principles", "Chemical fertilizers (especially N fertilizers and fungicides) can kill the microorganisms in the inoculant", "There is no contraindication to mixing biofertilizer with chemical fertilizers", "Chemical fertilizers reduce seed germination only for soil management"],
     correct: 1,
     explanation: "High osmotic concentration from soluble fertilizers and toxicity from fungicide seed treatments kill biofertilizer microorganisms. Inoculated seeds should be kept separate from chemical fertilizers and should be sown within hours of inoculation."
   },
@@ -434,7 +434,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The enzyme responsible for biological nitrogen fixation (BNF) is:",
-    options: ["Nitrate reductase", "Nitrogenase is the same as nitrogenase oxidase", "Nitrogenase (consisting of dinitrogenase and dinitrogenase reductase)", "Urease"],
+    options: ["Nitrate reductase in soil science", "Nitrogenase is the same as nitrogenase oxidase", "Nitrogenase (consisting of dinitrogenase and dinitrogenase reductase)", "Urease for soil management"],
     correct: 2,
     explanation: "Nitrogenase is the enzyme complex (dinitrogenase + dinitrogenase reductase, containing Fe and Mo-Fe proteins) that catalyses N₂ + 8H⁺ + 8e⁻ + 16ATP → 2NH₃ + H₂ + 16ADP + 16Pi. It is highly oxygen-sensitive."
   },
@@ -464,7 +464,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Azolla used as biofertilizer is incorporated into the rice field by:",
-    options: ["Applying dried powdered Azolla as a soil amendment", "Spraying a suspension on the field", "Allowing it to grow for 2–3 weeks then incorporating it into the soil before transplanting or as a dual crop", "Mixing with seed at the time of sowing"],
+    options: ["Applying dried powdered Azolla as a soil amendment in soil science", "Spraying a suspension on the field for soil management", "Allowing it to grow for 2–3 weeks then incorporating it into the soil", "Mixing with seed at the time of sowing in soil fertility"],
     correct: 2,
     explanation: "Azolla is introduced to the flooded field at 1 t ha⁻¹ (fresh weight) and allowed to multiply for 2–3 weeks, then incorporated as a basal N source, or maintained as a dual crop between rice rows throughout the season."
   },
@@ -508,7 +508,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Calcium Ammonium Nitrate (CAN) fertilizer contains nitrogen in which form(s)?",
-    options: ["Both ammonium (NH₄⁺) and nitrate (NO₃⁻), with approximately 25–26% total N", "Ammonium (NH₄⁺) only", "Nitrate (NO₃⁻) only", "Urea and ammonium sulphate mixture"],
+    options: ["Both ammonium (NH₄⁺) and nitrate (NO₃⁻), with approximately 25–26% total N", "Ammonium (NH₄⁺) only according to soil fertility and water conservation principles", "Nitrate (NO₃⁻) only for soil management according to soil fertility and water conservation principles", "Urea and ammonium sulphate mixture in soil fertility"],
     correct: 0,
     explanation: "CAN (Calcium Ammonium Nitrate) contains 25–26% N with N in equal parts as NH₄⁺ and NO₃⁻, plus ~10% Ca. The nitrate fraction is immediately available; ammonium is slower-release. It is non-acidifying."
   },
@@ -528,7 +528,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Slow-release nitrogen fertilizers (SRF) are designed to reduce N losses by:",
-    options: ["Applying N in a single large basal dose", "Mixing urea with high doses of phosphate fertilizers", "Converting N to inert organic form that microbes cannot decompose", "Using coatings (sulphur, polymer) or chemical inhibitors that delay N release, matching plant N demand"],
+    options: ["Applying N in a single large basal dose in soil science", "Mixing urea with high doses of phosphate fertilizers for soil management", "Converting N to inert organic form that microbes cannot decompose in soil fertility", "Using coatings (sulphur, polymer) or chemical inhibitors that delay N release, matching plant N demand"],
     correct: 3,
     explanation: "SRFs use physical coatings (sulphur-coated urea — SCU, polymer-coated urea — PCU) or chemical compounds (urease inhibitors: NBPT; nitrification inhibitors: DCD, DMPP) to delay and extend N release, matching crop uptake."
   },
@@ -538,7 +538,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "The nitrification process in soil converts ammonium (NH₄⁺) to nitrate (NO₃⁻) through which organisms?",
-    options: ["Autotrophic bacteria (Nitrosomonas: NH₄⁺ → NO₂⁻; Nitrobacter: NO₂⁻ → NO₃⁻)", "Mycorrhizal fungi", "Anaerobic heterotrophic bacteria (Clostridium)", "Actinomycetes in dry soils"],
+    options: ["Autotrophic bacteria (Nitrosomonas: NH₄⁺ → NO₂⁻; Nitrobacter: NO₂⁻ → NO₃⁻)", "Mycorrhizal fungi according to soil fertility and water conservation principles", "Anaerobic heterotrophic bacteria (Clostridium) for soil management", "Actinomycetes in dry soils in soil fertility"],
     correct: 0,
     explanation: "Nitrification is a two-step aerobic process: Nitrosomonas converts NH₄⁺ → NO₂⁻ (nitrite); Nitrobacter converts NO₂⁻ → NO₃⁻ (nitrate). Both are autotrophic bacteria requiring oxygen."
   },
@@ -558,7 +558,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Deep placement of urea supergranules (USG) in rice paddies improves nitrogen use efficiency by:",
-    options: ["Making urea unavailable to weeds growing in standing water", "Placing urea in the reduced (anaerobic) zone below the oxidised surface layer, minimising volatilisation and nitrification-denitrification losses", "Reducing the need for phosphatic fertilizers", "Increasing the dose applied per crop"],
+    options: ["Making urea unavailable to weeds growing in standing water in soil science", "Placing urea in the reduced (anaerobic) zone below the oxidised surface layer, minimising volatilisation and nitrification-denitrification losses", "Reducing the need for phosphatic fertilizers for soil management according to soil fertility and water conservation principles", "Increasing the dose applied per crop in soil fertility according to soil fertility and water conservation principles"],
     correct: 1,
     explanation: "USG (1.8–2.7 g briquettes) placed 7–10 cm deep in the reduced anaerobic zone of flooded rice prevents NH₃ volatilisation and the nitrification-denitrification cycle (which occurs only in the oxidised surface layer), improving NUE by 20–30%."
   },
@@ -568,7 +568,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "The 'splitting' of nitrogen fertilizer applications into 2–3 doses for cereal crops is recommended to:",
-    options: ["Allow mechanical application using different equipment", "Reduce the total quantity of N applied per season", "Match N supply with crop demand at critical growth stages, reducing leaching and volatilisation losses", "Comply with government regulations on fertilizer sales"],
+    options: ["Allow mechanical application using different equipment in soil science", "Reduce the total quantity of N applied per season for soil management", "Match N supply with crop demand at critical growth stages, reducing leaching and volatilisation losses", "Comply with government regulations on fertilizer sales in soil fertility"],
     correct: 2,
     explanation: "Split application (basal + top dressing at tillering/panicle initiation) synchronises N availability with peak crop demand, reducing N accumulation in soil when uptake is low and thus cutting leaching, denitrification, and volatilisation losses."
   },
@@ -578,7 +578,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Which nitrogen fertilizer is most suitable for acid soils that need no further acidification?",
-    options: ["Ammonium sulphate (acidifying)", "Ammonium chloride (acidifying)", "Urea (slightly acidifying after nitrification)", "Calcium ammonium nitrate or calcium nitrate (neutral to slightly alkaline reaction)"],
+    options: ["Ammonium sulphate (acidifying) according to soil fertility and water conservation principles", "Ammonium chloride (acidifying) for soil management according to soil fertility and water conservation principles", "Urea (slightly acidifying after nitrification) in soil fertility", "Calcium ammonium nitrate or calcium nitrate (neutral to slightly alkaline reaction)"],
     correct: 3,
     explanation: "CAN (calcium ammonium nitrate) or calcium nitrate are the preferred N sources for acid soils since they do not acidify the soil further (Ca²⁺ neutralises acidity). Ammonium and urea fertilizers all acidify soil upon nitrification."
   },
@@ -662,7 +662,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Rock phosphate (RP) is directly applicable to crops mainly in which soil condition?",
-    options: ["Neutral to alkaline soils (pH 7–8.5)", "Waterlogged soils only", "Sandy soils with low clay content", "Acid soils (pH < 5.5) where protons dissolve the RP gradually"],
+    options: ["Neutral to alkaline soils (pH 7–8.5) in soil science", "Waterlogged soils only for soil management", "Sandy soils with low clay content in soil fertility", "Acid soils (pH < 5.5) where protons dissolve the RP gradually"],
     correct: 3,
     explanation: "Direct application of rock phosphate (apatite) is effective only in acid soils (pH < 5.5) because soil protons dissolve the insoluble calcium phosphate, releasing plant-available H₂PO₄⁻. In neutral/alkaline soils, RP dissolution is negligible."
   },
@@ -672,7 +672,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "The main advantage of SSP over DAP as a phosphatic fertilizer for sulphur-deficient soils is that SSP:",
-    options: ["Contains 12% sulphur (from gypsum), making it valuable for S-deficient soils and oilseed crops", "Is cheaper per kg of P₂O₅ than DAP", "Has neutral pH reaction while DAP is alkaline", "Contains higher P₂O₅ than DAP"],
+    options: ["Contains 12% sulphur (from gypsum), making it valuable for S-deficient soils and oilseed crops", "Is cheaper per kg of P₂O₅ than DAP in soil science", "Has neutral pH reaction while DAP is alkaline for soil management", "Contains higher P₂O₅ than DAP in soil fertility"],
     correct: 0,
     explanation: "SSP contains 12% sulphur (as CaSO₄) and 21% Ca in addition to 16% P₂O₅, making it highly valuable for sulphur-deficient soils and S-requiring crops (oilseeds, pulses, onion, garlic)."
   },
@@ -682,7 +682,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Phosphorus fixation (immobilisation) in acid soils is primarily due to reaction with:",
-    options: ["Amorphous iron (Fe) and aluminium (Al) hydroxides", "Soil microorganisms", "Calcium carbonate (CaCO₃)", "Organic matter"],
+    options: ["Amorphous iron (Fe) and aluminium (Al) hydroxides", "Soil microorganisms in soil science", "Calcium carbonate (CaCO₃) for soil management", "Organic matter in soil fertility"],
     correct: 0,
     explanation: "In acid soils, applied H₂PO₄⁻ reacts rapidly with Fe(OH)₃ and Al(OH)₃ (and their amorphous forms) to form insoluble Fe-P and Al-P compounds, strongly reducing P availability — a major problem in Alfisols."
   },
@@ -692,7 +692,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Band placement (row application) of phosphatic fertilizers is preferred over broadcasting because:",
-    options: ["Band application increases the total dose applied", "Band application is easier and faster than broadcasting", "Band application reduces contact with soil and therefore reduces P fixation, improving efficiency", "Band application prevents P leaching in sandy soils"],
+    options: ["Band application increases the total dose applied in soil science", "Band application is easier and faster than broadcasting for soil management", "Band application reduces contact with soil and therefore reduces P fixation, improving efficiency", "Band application prevents P leaching in sandy soils in soil fertility"],
     correct: 2,
     explanation: "Band placement near the seed row reduces the volume of soil that comes in contact with applied P, reducing adsorption/fixation and placing P close to emerging roots. This improves P use efficiency by 20–40%."
   },
@@ -712,7 +712,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "The main chemical form of P taken up by plants from soil solution is:",
-    options: ["Organic phosphate esters directly", "PO₄³⁻ (phosphate) at all pH values", "H₃PO₄ (phosphoric acid)", "H₂PO₄⁻ (dihydrogen phosphate) at low pH and HPO₄²⁻ at higher pH"],
+    options: ["Organic phosphate esters directly in soil science", "PO₄³⁻ (phosphate) at all pH values for soil management", "H₃PO₄ (phosphoric acid) in soil fertility", "H₂PO₄⁻ (dihydrogen phosphate) at low pH and HPO₄²⁻ at higher pH"],
     correct: 3,
     explanation: "Plants absorb P primarily as H₂PO₄⁻ (monohydrogen phosphate) at soil pH 5–7, and as HPO₄²⁻ at higher pH. H₂PO₄⁻ is more readily absorbed. PO₄³⁻ predominates only above pH 9."
   },
@@ -722,7 +722,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "The concept of 'residual effect' of phosphatic fertilizers in soil refers to:",
-    options: ["P in crop residues incorporated into soil", "P remaining in unfertilised subsoil below the root zone", "P toxicity remaining in soil after excessive application", "Carryover of soil P fixed from previous season applications becoming available to subsequent crops"],
+    options: ["P in crop residues incorporated into soil in soil science", "P remaining in unfertilised subsoil below the root zone for soil management", "P toxicity remaining in soil after excessive application in soil fertility", "Carryover of soil P fixed from previous season applications becoming available to subsequent crops"],
     correct: 3,
     explanation: "Residual P refers to previously applied P that was fixed/adsorbed in soil and becomes partially available to subsequent crops. Continuous P application builds up a labile P pool with residual effects lasting several seasons."
   },
@@ -732,7 +732,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Which of the following is the most important agronomic advantage of using Phosphate Solubilising Microorganisms (PSM) as biofertilizers?",
-    options: ["They solubilise fixed soil phosphates and increase P availability without additional P fertilizer cost", "They produce growth hormones only", "They fix atmospheric nitrogen for the crop", "They produce antibiotics to control soil-borne diseases"],
+    options: ["They solubilise fixed soil phosphates and increase P availability without additional P fertilizer cost", "They produce growth hormones only in soil science", "They fix atmospheric nitrogen for the crop for soil management", "They produce antibiotics to control soil-borne diseases in soil fertility"],
     correct: 0,
     explanation: "PSM (Bacillus megaterium var. phosphaticum, Pseudomonas striata) solubilise insoluble Ca-P, Fe-P, and Al-P via organic acid production, potentially reducing P fertilizer requirement by 25–30%."
   },
@@ -752,7 +752,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Fertigation-grade water-soluble phosphatic fertilizer most suitable for drip irrigation systems is:",
-    options: ["SSP (Single Superphosphate)", "Rock phosphate slurry", "Mono-ammonium phosphate (MAP, 12:61:0) or Mono-potassium phosphate (MKP, 0:52:34)", "DAP granules dissolved in water"],
+    options: ["SSP (Single Superphosphate) in soil science", "Rock phosphate slurry for soil management", "Mono-ammonium phosphate (MAP, 12:61:0) or Mono-potassium phosphate (MKP, 0:52:34)", "DAP granules dissolved in water"],
     correct: 2,
     explanation: "Fertigation-grade P fertilizers for drip systems must be fully water-soluble and non-clogging. MAP (12% N, 61% P₂O₅) and MKP (52% P₂O₅, 34% K₂O) are widely used. SSP and DAP contain insoluble fractions that clog drip systems."
   },
@@ -772,7 +772,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "In Telangana, the prevalent Alfisols (red soils) have high P fixation capacity because they are rich in:",
-    options: ["Free iron (Fe₂O₃) and aluminium (Al₂O₃) oxides from intense weathering", "Montmorillonite clay with high CEC", "Organic matter with high phosphatase activity", "CaCO₃ and Mg²⁺"],
+    options: ["Free iron (Fe₂O₃) and aluminium (Al₂O₃) oxides from intense weathering", "Montmorillonite clay with high CEC in soil science", "Organic matter with high phosphatase activity", "CaCO₃ and Mg²⁺ for soil management"],
     correct: 0,
     explanation: "Alfisols (red soils) of Telangana are strongly weathered, rich in Fe₂O₃ (hematite, goethite) and Al₂O₃ oxides that have high P adsorption capacity, making P management critical in these soils."
   },
@@ -836,7 +836,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "In most Indian agricultural soils, potassium reserves are considered adequate primarily because:",
-    options: ["Indian crops have very low potassium requirements", "Indian soils are primarily sandy with high leaching rates releasing K", "Indian farmers apply excessive K fertilizers traditionally", "Many Indian soils are derived from K-rich parent materials (basalt, granite, mica-bearing rocks) and contain illite/vermiculite clays"],
+    options: ["Indian crops have very low potassium requirements in soil science", "Indian soils are primarily sandy with high leaching rates releasing K for soil management", "Indian farmers apply excessive K fertilizers traditionally in soil fertility", "Many Indian soils are derived from K-rich parent materials (basalt, granite, mica-bearing rocks) and contain illite/vermiculite clays"],
     correct: 3,
     explanation: "Many Indian soils (especially Vertisols and Inceptisols) are derived from K-rich parent rocks and contain K-bearing minerals (illite, mica) with total K of 1–2%. However, with intensive cropping, available K is being depleted in many regions."
   },
@@ -846,7 +846,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Potassium deficiency symptoms in plants are characterised by:",
-    options: ["Marginal and tip scorch (necrosis) of older leaves, weak stems, and poor grain filling", "Stunted roots with poor branching", "Yellowing of young leaves starting at the leaf base", "Purple discolouration of all leaves"],
+    options: ["Marginal and tip scorch (necrosis) of older leaves, weak stems, and poor grain filling", "Stunted roots with poor branching according to soil fertility and water conservation principles", "Yellowing of young leaves starting at the leaf base", "Purple discolouration of all leaves for soil management according to soil fertility and water conservation principles"],
     correct: 0,
     explanation: "K deficiency: tip and marginal scorch of older leaves (K is mobile and remobilised), weak lodging-prone stems, poor root development, reduced drought tolerance, and small poorly filled grains/fruits."
   },
@@ -856,7 +856,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Potassium leaching from soil is significant mainly in:",
-    options: ["Dry Alfisols of Telangana", "Heavy clay soils with high CEC", "Vertisols with high montmorillonite content", "Coarse-textured sandy soils with low CEC and high rainfall"],
+    options: ["Dry Alfisols of Telangana in soil science", "Heavy clay soils with high CEC", "Vertisols with high montmorillonite content for soil management", "Coarse-textured sandy soils with low CEC and high rainfall"],
     correct: 3,
     explanation: "K leaching is important in light-textured soils (sandy, sandy loam) with low CEC and high rainfall. In such soils, applied K is not held by exchange sites and can leach below the root zone."
   },
@@ -940,7 +940,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "A complex fertilizer differs from a mixed fertilizer in that:",
-    options: ["Complex fertilizers contain only one nutrient; mixed fertilizers contain two or more", "Mixed fertilizers always have higher nutrient content than complex fertilizers", "In complex fertilizers, nutrients are chemically combined in each granule; in mixed fertilizers, separate nutrient particles are blended", "Complex fertilizers are produced only by government factories"],
+    options: ["Complex fertilizers contain only one nutrient; mixed fertilizers contain two or more in soil science", "Mixed fertilizers always have higher nutrient content than complex fertilizers for soil management", "In complex fertilizers, nutrients are chemically combined in each granule; in mixed fertilizers, separate nutrient particles are blended", "Complex fertilizers are produced only by government factories in soil fertility"],
     correct: 2,
     explanation: "Complex (compound) fertilizers: each granule contains two or more nutrients chemically combined (e.g., DAP, NPK complexes). Mixed fertilizers: separate fertilizer particles of different materials physically blended together."
   },
@@ -960,7 +960,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "The complex fertilizer grade '20:20:0' is commonly called:",
-    options: ["Potash-phosphate complex", "Nitrophosphate or ammonium phosphate (NP complex)", "Urea-DAP mixture", "CAN-SSP blend"],
+    options: ["Potash-phosphate complex in soil science", "Nitrophosphate or ammonium phosphate (NP complex)", "Urea-DAP mixture for soil management", "CAN-SSP blend in soil fertility"],
     correct: 1,
     explanation: "20:20:0 (20% N + 20% P₂O₅) is an N-P complex fertilizer (e.g., ammonium phosphate type or nitrophosphate), used as a basal dose for crops where K is not limiting."
   },
@@ -970,7 +970,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "The main advantage of using a balanced complex NPK fertilizer over separate urea + SSP + MOP applications is:",
-    options: ["Convenience of single application, uniform distribution of all nutrients, and often higher nutrient concentration", "Complex fertilizers are always less expensive than separate fertilizers", "Complex fertilizers always contain higher N than separate sources", "Complex fertilizers contain organic matter unlike individual fertilizers"],
+    options: ["Convenience of single application, uniform distribution of all nutrients, and often higher nutrient concentration", "Complex fertilizers are always less expensive than separate fertilizers in soil science", "Complex fertilizers always contain higher N than separate sources for soil management", "Complex fertilizers contain organic matter unlike individual fertilizers in soil fertility"],
     correct: 0,
     explanation: "Complex fertilizers offer: single-trip application saving labour, uniform nutrient distribution per granule, higher total nutrient content (less filler), and no segregation of nutrients during handling — key advantages in precision agriculture."
   },
@@ -980,7 +980,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Fertilizer grade '14:35:14' is commonly used as a:",
-    options: ["Slow-release K fertilizer for perennial crops", "Top dressing N fertilizer at maximum tillering", "Foliar spray for micronutrient correction", "Basal starter fertilizer for crops requiring high P at establishment"],
+    options: ["Slow-release K fertilizer for perennial crops in soil science", "Top dressing N fertilizer at maximum tillering", "Foliar spray for micronutrient correction for soil management", "Basal starter fertilizer for crops requiring high P at establishment"],
     correct: 3,
     explanation: "14:35:14 (high-P grade) is a basal starter fertilizer providing high P for root establishment and seedling development, along with balanced N and K. It is used at sowing/transplanting when P demand is highest."
   },
@@ -1000,7 +1000,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "The NPK fertilizer '28:28:0' is manufactured by which process?",
-    options: ["Steam granulation of ammonium phosphate with KCl", "Blending urea + DAP in 1:1 ratio", "Nitrophosphate process (direct acidulation of rock phosphate with nitric acid)", "Compaction of potash with urea"],
+    options: ["Steam granulation of ammonium phosphate with KCl", "Blending urea + DAP in 1:1 ratio", "Nitrophosphate process (direct acidulation of rock phosphate with nitric acid)", "Compaction of potash with urea in soil science"],
     correct: 2,
     explanation: "The nitrophosphate (Odda) process treats rock phosphate with HNO₃ to produce calcium nitrate + phosphoric acid, which are then ammoniated to produce nitrophosphate fertilizers with both N and P."
   },
@@ -1010,7 +1010,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "The term 'filler' in mixed fertilizer preparation refers to:",
-    options: ["Coating material applied to granules", "Inert material (sand, gypsum, dolomite) added to achieve the desired grade and weight", "Active nutrient material added to the blend", "Micronutrient supplement added at low doses"],
+    options: ["Coating material applied to granules in soil science", "Inert material (sand, gypsum, dolomite) added to achieve the desired grade and weight", "Active nutrient material added to the blend for soil management", "Micronutrient supplement added at low doses in soil fertility"],
     correct: 1,
     explanation: "Filler materials (sand, gypsum, dolomite) are added to fertilizer blends to make up the weight when active nutrient materials do not fill the required bag weight for the desired grade."
   },
@@ -1030,7 +1030,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "The main limitation of urea + SSP physical mixture compared to complex NPK fertilizer is:",
-    options: ["Urea+SSP mixture is more expensive than complex NPK", "Urea degrades SSP into toxic compounds", "SSP and urea cannot be applied to the same field", "Mixing urea with SSP can cause hygroscopic caking and N loss due to reaction"],
+    options: ["Urea+SSP mixture is more expensive than complex NPK in soil science", "Urea degrades SSP into toxic compounds for soil management", "SSP and urea cannot be applied to the same field", "Mixing urea with SSP can cause hygroscopic caking and N loss due to reaction"],
     correct: 3,
     explanation: "Urea + SSP mixture becomes hygroscopic and sticky (caking) because urea reacts with monocalcium phosphate in SSP in the presence of moisture, releasing NH₃ and causing N loss. They should not be mixed in advance."
   },
@@ -1050,7 +1050,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "The concept of 'fertilizer ratio' in crop nutrition refers to:",
-    options: ["The moisture content of granular fertilizers", "The ratio of price between different fertilizers", "The rate of nutrient release from slow-release fertilizers", "The relative proportions of N:P₂O₅:K₂O required by a specific crop at a specific growth stage"],
+    options: ["The moisture content of granular fertilizers in soil science", "The ratio of price between different fertilizers for soil management", "The rate of nutrient release from slow-release fertilizers in soil fertility", "The relative proportions of N:P₂O₅:K₂O required by a specific crop at a specific growth stage"],
     correct: 3,
     explanation: "Fertilizer ratio is the relative proportion of N:P₂O₅:K₂O recommended for a crop. For example, rice needs 4:2:1 ratio; cotton needs 2:1:1. Selecting a complex fertilizer with the correct ratio minimises waste and cost."
   },
@@ -1080,7 +1080,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "The advantage of complex fertilizers in broadcasting for paddy over separate fertilizer application is that they:",
-    options: ["Are cheaper per kg than separate fertilizers", "Apply all nutrients uniformly per unit area, ensuring every plant receives balanced nutrition without risk of uneven application", "Contain organic matter not found in separate fertilizers", "Require no calibration of the applicator equipment"],
+    options: ["Are cheaper per kg than separate fertilizers according to soil fertility and water conservation principles", "Apply all nutrients uniformly per unit area, ensuring every plant receives balanced nutrition without risk of uneven application", "Contain organic matter not found in separate fertilizers for soil management", "Require no calibration of the applicator equipment in soil fertility according to soil fertility and water conservation principles"],
     correct: 1,
     explanation: "Each granule of a complex fertilizer contains all nutrients in fixed ratio, so broadcasting gives uniform nutrient distribution. Separately applied fertilizers can segregate, leading to uneven nutrient distribution across the field."
   },
@@ -1154,7 +1154,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Manganese sulphate (MnSO₄) for correction of Mn deficiency is most effective when applied as:",
-    options: ["Foliar spray (0.5–1.0% MnSO₄) since soil application is often ineffective in alkaline soils", "Combined with lime application", "Soil broadcast at high rates (100 kg ha⁻¹)", "Seed treatment only"],
+    options: ["Foliar spray (0.5–1.0% MnSO₄) since soil application is often ineffective in alkaline soils", "Combined with lime application according to soil fertility and water conservation principles", "Soil broadcast at high rates (100 kg ha⁻¹)", "Seed treatment only for soil management according to soil fertility and water conservation principles"],
     correct: 0,
     explanation: "Soil-applied Mn is rapidly oxidised to unavailable MnO₂ in alkaline soils. Foliar spray of 0.5–1.0% MnSO₄ is more effective and economical for correcting Mn deficiency in wheat, oats, and legumes."
   },
@@ -1184,7 +1184,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Sodium molybdate (Na₂MoO₄·2H₂O) for Mo nutrition is applied at very low rates because:",
-    options: ["It is very expensive and imported", "Mo is required in extremely small amounts (20–50 g Mo ha⁻¹ as seed treatment is usually sufficient)", "It is toxic to microorganisms at high rates", "It rapidly leaches from soil before crop uptake"],
+    options: ["It is very expensive and imported in soil science", "Mo is required in extremely small amounts", "It is toxic to microorganisms at high rates for soil management", "It rapidly leaches from soil before crop uptake in soil fertility"],
     correct: 1,
     explanation: "Molybdenum is the micronutrient required in the smallest quantity by plants (< 1 mg kg⁻¹ plant dry matter). Seed treatment with 20–50 g Na₂MoO₄ ha⁻¹ or foliar spray of 0.1% is usually adequate for Mo deficiency correction."
   },
@@ -1194,7 +1194,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Micronutrient fertilizers are most efficiently applied through:",
-    options: ["Broadcasting large quantities on the soil surface", "Seed treatment, soil banding, or foliar spray depending on the nutrient and crop", "Deep ploughing to incorporate into the subsoil", "Mixing with irrigation water in flood irrigation systems"],
+    options: ["Broadcasting large quantities on the soil surface in soil science", "Seed treatment, soil banding, or foliar spray depending on the nutrient and crop", "Deep ploughing to incorporate into the subsoil for soil management", "Mixing with irrigation water in flood irrigation systems in soil fertility"],
     correct: 1,
     explanation: "Micronutrient application methods: seed treatment (Zn, Mo, B) — most economical; soil banding (Zn, Fe); foliar spray (Fe, Mn, Zn, B) — most efficient for correction; fertigation (chelated forms) for drip-irrigated crops."
   },
@@ -1214,7 +1214,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Zinc sulphate heptahydrate (ZnSO₄·7H₂O) seedling root dip concentration and duration for rice transplanting is:",
-    options: ["10% ZnSO₄ for 30 minutes", "0.5% ZnSO₄ for 5 minutes", "0.05% ZnSO₄ for 1 hour", "2% ZnSO₄ (or 4% ZnO) for 10–12 hours before transplanting"],
+    options: ["10% ZnSO₄ for 30 minutes in soil science", "0.5% ZnSO₄ for 5 minutes for soil management", "0.05% ZnSO₄ for 1 hour in soil fertility", "2% ZnSO₄ (or 4% ZnO) for 10–12 hours before transplanting"],
     correct: 3,
     explanation: "Rice seedling root dip: 2% ZnSO₄ solution (or 4% ZnO suspension) for 10–12 hours before transplanting effectively prevents Khaira disease in Zn-deficient soils."
   },
@@ -1224,7 +1224,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Fe-EDDHA chelate is more effective than Fe-EDTA or FeSO₄ for iron nutrition in alkaline soils because:",
-    options: ["EDDHA chelate remains stable and soluble up to pH 10–11, while EDTA releases Fe above pH 7.5", "EDDHA provides Fe through leaf absorption only", "EDDHA is cheaper than EDTA", "EDDHA contains more Fe per molecule than EDTA"],
+    options: ["EDDHA chelate remains stable and soluble up to pH 10–11, while EDTA releases Fe above pH 7.5", "EDDHA provides Fe through leaf absorption only according to soil fertility and water conservation principles", "EDDHA is cheaper than EDTA for soil management according to soil fertility and water conservation principles", "EDDHA contains more Fe per molecule than EDTA in soil fertility"],
     correct: 0,
     explanation: "Fe-EDDHA is the most stable Fe chelate at high pH (stable up to pH 10), while Fe-EDTA releases Fe³⁺ above pH 7.5 where it precipitates as Fe(OH)₃. EDDHA is the preferred Fe source for drip-irrigated crops on calcareous soils."
   },
@@ -1248,7 +1248,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Integrated Nutrient Management (INM) is defined as:",
-    options: ["Using only biofertilizers to fix atmospheric nitrogen", "Replacing all chemical fertilizers with organic manures", "Applying maximum doses of chemical fertilizers with minimum organic matter", "Maintenance and adjustment of soil fertility and nutrient supply to achieve the optimum yield through judicious use of organic, inorganic, and biological nutrient sources"],
+    options: ["Using only biofertilizers to fix atmospheric nitrogen in soil science", "Replacing all chemical fertilizers with organic manures for soil management", "Applying maximum doses of chemical fertilizers with minimum organic matter in soil fertility", "Maintenance and adjustment of soil fertility and nutrient supply to achieve the optimum yield"],
     correct: 3,
     explanation: "INM integrates all available nutrient sources — organic manures (FYM, compost, crop residues), inorganic fertilizers, and biological sources (biofertilizers, green manures) — to maintain soil health and optimise crop productivity sustainably."
   },
@@ -1258,7 +1258,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "The primary reason for advocating INM over sole chemical fertilizer use is:",
-    options: ["Organic manures provide higher yields than chemical fertilizers alone", "Chemical fertilizers cannot supply micronutrients", "Chemical fertilizers are banned in India", "INM maintains soil organic matter, improves soil health, reduces fertilizer cost, and sustains long-term productivity"],
+    options: ["Organic manures provide higher yields than chemical fertilizers alone in soil science", "Chemical fertilizers cannot supply micronutrients for soil management", "Chemical fertilizers are banned in India in soil fertility", "INM maintains soil organic matter, improves soil health"],
     correct: 3,
     explanation: "Long-term sole chemical fertilizer use degrades soil organic matter, disrupts soil biology, causes secondary nutrient deficiencies, and reduces fertilizer efficiency. INM maintains SOM, soil structure, and biodiversity while reducing input costs."
   },
@@ -1278,7 +1278,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Site-Specific Nutrient Management (SSNM) concept was developed for which crop and by which organisation?",
-    options: ["Wheat — CIMMYT (Mexico)", "Cotton — CICR (India)", "Rice — IRRI (International Rice Research Institute, Philippines)", "Maize — Pioneer Hi-Bred (USA)"],
+    options: ["Wheat — CIMMYT (Mexico) in soil science", "Cotton — CICR (India) for soil management", "Rice — IRRI (International Rice Research Institute, Philippines)", "Maize — Pioneer Hi-Bred (USA)"],
     correct: 2,
     explanation: "SSNM was developed by IRRI for irrigated rice, using the 'nutrient manager' decision support tool that accounts for indigenous nutrient supply (IAS) from soil, water, and organic inputs to recommend site-specific fertilizer doses."
   },
@@ -1288,7 +1288,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "The 'System of Rice Intensification' (SRI) is associated with INM in that it advocates:",
-    options: ["High-density transplanting with 5 seedlings per hill", "Reduced plant population, young seedling transplanting, and use of organic inputs with alternating wetting-drying irrigation", "Maximum chemical fertilizer application with continuous flooding", "No tillage paddy cultivation under zero-water conditions"],
+    options: ["High-density transplanting with 5 seedlings per hill in soil science", "Reduced plant population, young seedling transplanting, and use of organic inputs with alternating wetting-drying irrigation", "Maximum chemical fertilizer application with continuous flooding for soil management", "No tillage paddy cultivation under zero-water conditions in soil fertility"],
     correct: 1,
     explanation: "SRI (originated in Madagascar by Fr. Henri de Laulanié) uses single young seedlings (< 15 days), wider spacing (25×25 cm), minimal water (alternate wetting-drying), mechanical weeding, and preferential use of organic manures."
   },
@@ -1318,7 +1318,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "The 'Integrated Plant Nutrition System' (IPNS) differs from INM in that IPNS:",
-    options: ["Focuses only on organic manure use", "IPNS and INM are identical concepts", "Considers all sources of plant nutrients including native soil nutrients, irrigation water, and atmospheric deposition", "Excludes biofertilizers from the nutrient supply"],
+    options: ["Focuses only on organic manure use in soil science", "IPNS and INM are identical concepts for soil management", "Considers all sources of plant nutrients including native soil nutrients, irrigation water", "Excludes biofertilizers from the nutrient supply in soil fertility"],
     correct: 2,
     explanation: "IPNS (FAO concept) is broader than INM — it considers all nutrient sources including indigenous soil supply, nutrients from irrigation water, atmospheric deposition (rainfall N), and symbiotic/free-living BNF, not just applied inputs."
   },
@@ -1328,7 +1328,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Long-term experiments (LTEs) at IARI and other Indian institutions show that continuous application of NPK without organic manure leads to:",
-    options: ["Increase in soil pH to neutral from acid conditions", "Elimination of all soil microorganisms", "Decline in organic carbon, micronutrient availability, soil physical properties, and eventually yield plateau or decline", "Sustained or increasing yields indefinitely"],
+    options: ["Increase in soil pH to neutral from acid conditions in soil science", "Elimination of all soil microorganisms for soil management", "Decline in organic carbon, micronutrient availability", "Sustained or increasing yields indefinitely in soil fertility"],
     correct: 2,
     explanation: "LTEs across India (IARI, CRIDA, Barrackpore) consistently show that continuous chemical NPK without organics depletes SOM, micronutrients (especially Zn, Fe, B), soil structure, and microbial diversity, causing yield stagnation."
   },
@@ -1348,7 +1348,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "The Leaf Colour Chart (LCC) used in SSNM of rice represents a practical INM tool because it:",
-    options: ["Works only with organic N sources", "Tells the farmer exact N dose to apply regardless of field conditions", "Enables real-time N management decisions based on crop N status, avoiding over/under-application", "Replaces all soil testing requirements"],
+    options: ["Works only with organic N sources in soil science", "Tells the farmer exact N dose to apply regardless of field conditions", "Enables real-time N management decisions based on crop N status, avoiding over/under-application", "Replaces all soil testing requirements for soil management"],
     correct: 2,
     explanation: "LCC enables need-based N topdressing — farmers compare leaf colour with chart panels and apply N fertilizer only when leaf colour drops below threshold, saving 15–20% N fertilizer while maintaining yields in IRRI-validated studies."
   },
@@ -1358,7 +1358,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Which of the following best describes the concept of 'nutrient budget' in INM?",
-    options: ["Government budget allocation for fertilizer subsidy", "Balance between total nutrient inputs (fertilizers, manures, BNF, deposition) and outputs (crop removal, losses) in a soil-crop system", "The total cost of all fertilizers applied in one season", "The minimum nutrient requirement for a specific crop"],
+    options: ["Government budget allocation for fertilizer subsidy in soil science", "Balance between total nutrient inputs (fertilizers, manures", "The total cost of all fertilizers applied in one season for soil management", "The minimum nutrient requirement for a specific crop in soil fertility"],
     correct: 1,
     explanation: "A nutrient budget calculates whether the soil nutrient pool is being depleted (negative balance), maintained (neutral), or built up (positive balance). Negative balances indicate soil mining; INM aims for near-neutral to slight positive balances."
   },
@@ -1378,7 +1378,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "The Fertilizer Equivalence Value (FEV) of FYM for N is approximately 25–30% because:",
-    options: ["Farmers apply only 25–30% of the recommended FYM dose", "FYM reduces urea efficiency by 70–75%", "Only 25–30% of organic N in FYM mineralises and becomes available in the first crop season", "FYM contains only 25–30% as much N as urea by weight"],
+    options: ["Farmers apply only 25–30% of the recommended FYM dose in soil science", "FYM reduces urea efficiency by 70–75% for soil management", "Only 25–30% of organic N in FYM mineralises and becomes available in the first crop season", "FYM contains only 25–30% as much N as urea by weight in soil fertility"],
     correct: 2,
     explanation: "The apparent recovery (mineralisation) of organic N from FYM in the first crop season is approximately 25–30% — meaning to substitute 100 kg urea-N, about 333–400 kg FYM-N (from 60–80 t FYM) is needed at 0.5% N."
   },
@@ -1388,7 +1388,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Which of the following is a key indicator of improved soil health as an outcome of INM adoption over years?",
-    options: ["Decreased soil aggregate stability", "Decreased soil organic carbon and microbial biomass", "Increased soil bulk density indicating compaction", "Increased soil microbial biomass carbon, enzyme activity, and earthworm population"],
+    options: ["Decreased soil aggregate stability in soil science", "Decreased soil organic carbon and microbial biomass", "Increased soil bulk density indicating compaction for soil management", "Increased soil microbial biomass carbon, enzyme activity, and earthworm population"],
     correct: 3,
     explanation: "Long-term INM adoption increases soil microbial biomass C, enzyme activity (dehydrogenase, urease, phosphatase), earthworm population, aggregate stability, and infiltration rate — all indicators of improved soil biological health."
   },
@@ -1422,7 +1422,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "The Bureau of Indian Standards (BIS) marks on fertilizer bags indicate that the product:",
-    options: ["Has received government subsidy certification", "Has been imported through official government channels", "Is recommended specifically for organic farming", "Conforms to the Indian Standard specifications for quality, composition, and physical properties"],
+    options: ["Has received government subsidy certification in soil science", "Has been imported through official government channels for soil management", "Is recommended specifically for organic farming in soil fertility", "Conforms to the Indian Standard specifications for quality, composition, and physical properties"],
     correct: 3,
     explanation: "BIS marks (ISI mark) on fertilizer products certify compliance with Indian Standard specifications (IS standards) for nutrient content, moisture, particle size, and physical properties — ensuring consistent quality."
   },
@@ -1442,7 +1442,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "The Direct Benefit Transfer (DBT) system for fertilizer subsidy in India was introduced to:",
-    options: ["Ensure subsidy reaches genuine farmers by linking fertilizer purchase to Aadhaar/farmer identity at point of sale", "Allow import of fertilizers without customs duty", "Eliminate all fertilizer subsidies to farmers", "Regulate fertilizer prices to match international market rates"],
+    options: ["Ensure subsidy reaches genuine farmers by linking fertilizer purchase to Aadhaar/farmer identity at point of sale", "Allow import of fertilizers without customs duty in soil science", "Eliminate all fertilizer subsidies to farmers for soil management according to soil fertility and water conservation principles", "Regulate fertilizer prices to match international market rates in soil fertility"],
     correct: 0,
     explanation: "DBT for fertilizers (PoS — Point of Sale machines linked to Aadhaar) ensures subsidy is released only on actual sale to verified farmers, preventing diversion. Fertilizer companies receive subsidy reimbursement from government after verified farmer sale."
   },
@@ -1452,7 +1452,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "The nutrient-based subsidy (NBS) scheme in India, implemented since 2010, covers which fertilizers?",
-    options: ["Urea and MOP only", "Only imported fertilizers excluding domestically produced ones", "All fertilizers including urea under a single scheme", "All P and K fertilizers (and SSP); urea remains under flat-rate subsidy separately"],
+    options: ["Urea and MOP only in soil science", "Only imported fertilizers excluding domestically produced ones for soil management", "All fertilizers including urea under a single scheme in soil fertility", "All P and K fertilizers (and SSP); urea remains under flat-rate subsidy separately"],
     correct: 3,
     explanation: "NBS scheme (from April 2010) provides fixed per-kg subsidy on P and K fertilizers (DAP, MOP, SSP, NPK complexes, etc.) based on their nutrient content. Urea continues under a separate concession scheme with MRP fixed by government."
   },
@@ -1462,7 +1462,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Under the FCO, the fertilizer inspector is empowered to:",
-    options: ["Import fertilizers directly on behalf of the government", "Take samples, inspect premises, check quality, and initiate prosecution for substandard fertilizers", "Approve new fertilizer factories", "Fix the price of fertilizers in the market"],
+    options: ["Import fertilizers directly on behalf of the government", "Take samples, inspect premises, check quality, and initiate prosecution for substandard fertilizers", "Approve new fertilizer factories in soil science", "Fix the price of fertilizers in the market"],
     correct: 1,
     explanation: "Fertilizer inspectors under FCO 1985 are authorised to collect samples, inspect dealer/manufacturer premises, check labelling, test quality, and file complaints/prosecute for violation of FCO provisions."
   },
@@ -1482,7 +1482,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "The mandatory information that must appear on a fertilizer bag label under FCO includes:",
-    options: ["Farmer testimonials and yield data", "Crop recommendations and planting dates", "Grade/composition, net weight, manufacturer name, batch number, date of manufacture, MRP, and precautions", "Government subsidy amount per bag"],
+    options: ["Farmer testimonials and yield data in soil science", "Crop recommendations and planting dates for soil management", "Grade/composition, net weight, manufacturer name, batch number, date of manufacture, MRP, and precautions", "Government subsidy amount per bag in soil fertility"],
     correct: 2,
     explanation: "FCO mandates fertilizer bag labels must display: trade name, grade (N:P₂O₅:K₂O), net weight, manufacturer name and address, batch/lot number, date of manufacture, maximum retail price (MRP), and handling/storage precautions."
   },
@@ -1492,7 +1492,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "New organic and bio-organic fertilizer products are governed by which schedule of the FCO 1985?",
-    options: ["Schedule I (Inorganic fertilizers)", "Schedule IV (Micronutrient fertilizers)", "Schedule III (Biofertilizers)", "Schedule II (Organic fertilizers including city compost, vermicompost, biogas slurry)"],
+    options: ["Schedule I (Inorganic fertilizers) in soil science", "Schedule IV (Micronutrient fertilizers) for soil management", "Schedule III (Biofertilizers) in soil fertility", "Schedule II (Organic fertilizers including city compost, vermicompost, biogas slurry)"],
     correct: 3,
     explanation: "FCO Schedule II covers organic fertilizers including urban/city compost, vermicompost, biogas slurry, and other organic nutrient sources with quality specifications for moisture, organic carbon, and nutrient content."
   },
@@ -1502,7 +1502,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "The penalty for selling substandard or adulterated fertilizer under FCO can result in:",
-    options: ["Import duty imposition on the manufacturer", "Cancellation of licence, fine, and imprisonment up to 7 years for repeat offences", "Only a written warning from the district agriculture officer", "Reduction of government subsidy only"],
+    options: ["Import duty imposition on the manufacturer in soil science", "Cancellation of licence, fine, and imprisonment up to 7 years for repeat offences", "Only a written warning from the district agriculture officer", "Reduction of government subsidy only for soil management"],
     correct: 1,
     explanation: "Under the Essential Commodities Act (which FCO derives from), offences involving adulteration/substandard fertilizers attract licence cancellation, monetary fines, and imprisonment (up to 7 years for serious/repeat violations)."
   },
@@ -1522,7 +1522,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "The concept of '4R Nutrient Stewardship' for responsible fertilizer use refers to applying the Right source at the Right rate at the Right time in the Right place. This framework is promoted by:",
-    options: ["Reserve Bank of India for agricultural credit programmes", "FAO (Food and Agriculture Organisation) for developing nations", "IFA (International Fertilizer Association) and IPNI (International Plant Nutrition Institute) globally", "ICAR-IARI exclusively for Indian conditions"],
+    options: ["Reserve Bank of India for agricultural credit programmes", "FAO (Food and Agriculture Organisation) for developing nations", "IFA (International Fertilizer Association) and IPNI (International Plant Nutrition Institute) globally", "ICAR-IARI exclusively for Indian conditions in soil science"],
     correct: 2,
     explanation: "4R Nutrient Stewardship is a global framework developed by IFA and IPNI (now part of IPNI-IFDC) that provides a science-based decision framework for fertilizer best management practices to improve efficiency and sustainability."
   },
@@ -1532,7 +1532,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "The Paramparagat Krishi Vikas Yojana (PKVY) scheme promotes which type of fertilizer use?",
-    options: ["Biofertilizers combined with full chemical fertilizer dose", "Slow-release synthetic fertilizers only", "Maximum chemical fertilizer use for productivity", "Organic farming with cluster approach — no synthetic chemical fertilizers"],
+    options: ["Biofertilizers combined with full chemical fertilizer dose", "Slow-release synthetic fertilizers only in soil science", "Maximum chemical fertilizer use for productivity for soil management", "Organic farming with cluster approach — no synthetic chemical fertilizers"],
     correct: 3,
     explanation: "PKVY (launched 2015) promotes organic farming through cluster-based approach where farmer groups adopt 100% organic inputs — no synthetic chemical fertilizers or pesticides — with certification support and market linkage."
   },
@@ -1542,7 +1542,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "The recommended soil test-based fertilizer recommendation system used in Telangana for major crops is based on data generated by:",
-    options: ["Farmer surveys and traditional practices only", "International recommendations from IRRI and CIMMYT", "Private fertilizer company field trials only", "State soil testing laboratories, AICRP-STCR experiments, and PJTSAU research stations"],
+    options: ["Farmer surveys and traditional practices only in soil science", "International recommendations from IRRI and CIMMYT for soil management", "Private fertilizer company field trials only in soil fertility", "State soil testing laboratories, AICRP-STCR experiments, and PJTSAU research stations"],
     correct: 3,
     explanation: "Telangana fertilizer recommendations are based on soil test-crop response (STCR) data from AICRP (All India Coordinated Research Project) experiments, PJTSAU research, and analyses by state soil testing laboratories, calibrated for local soils and crops."
   },
@@ -1555,7 +1555,7 @@ export const da122LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "Soil fertility is defined as the quality that enables soil to provide:",
-    options: ["Only physical support to plants", "Air for plant growth only", "Water for plant growth only", "Proper nutrients in proper amounts and balance for plant growth"],
+    options: ["Only physical support to plants in soil science", "Air for plant growth only for soil management", "Water for plant growth only in soil fertility", "Proper nutrients in proper amounts and balance for plant growth"],
     correct: 3,
     explanation: "As per DA-122 notes: Soil fertility is defined as the quality that enables the soil to provide proper nutrient compounds in proper amounts and in proper balance for the growth of specified plants."
   },

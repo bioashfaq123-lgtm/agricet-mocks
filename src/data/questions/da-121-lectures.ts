@@ -146,7 +146,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "The E horizon (eluvial horizon) in a soil profile is characterised by:",
-    options: ["Loss of silicate clay, Fe, and Al by leaching (eluviation)", "Maximum microbial activity", "Secondary carbonate accumulation", "Accumulation of organic matter and clay"],
+    options: ["Loss of silicate clay, Fe, and Al by leaching (eluviation)", "Maximum microbial activity in soil science", "Secondary carbonate accumulation for soil management", "Accumulation of organic matter and clay"],
     correct: 0,
     explanation: "The E horizon lies between A and B and is depleted of clay, Fe, Al, and organic matter by downward leaching (eluviation), often appearing light coloured."
   },
@@ -210,7 +210,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "The Atterberg's plastic limit of a soil is defined as the minimum moisture content at which soil:",
-    options: ["Can be rolled into a 3 mm thread without crumbling", "Reaches its maximum swelling", "Flows like a liquid under its own weight", "Becomes too dry to be moulded"],
+    options: ["Can be rolled into a 3 mm thread without crumbling", "Reaches its maximum swelling in soil science", "Flows like a liquid under its own weight", "Becomes too dry to be moulded for soil management"],
     correct: 0,
     explanation: "The plastic limit is the minimum water content at which soil can be rolled into a 3 mm thread without crumbling; below it the soil is in a semi-solid state."
   },
@@ -290,7 +290,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Soil temperature is primarily influenced by which factor at the field level?",
-    options: ["Depth of groundwater table only", "Soil colour, organic matter, moisture content, and slope aspect", "Plant species growing in the field", "Soil pH and electrical conductivity"],
+    options: ["Depth of groundwater table only in soil science", "Soil colour, organic matter, moisture content, and slope aspect", "Plant species growing in the field", "Soil pH and electrical conductivity for soil management"],
     correct: 1,
     explanation: "Soil temperature depends on solar radiation absorption (colour, aspect), evaporative cooling (moisture), and insulation effects of organic matter. Dark soils and south-facing slopes warm faster."
   },
@@ -324,7 +324,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Field capacity (FC) of a soil is defined as the moisture content retained after:",
-    options: ["The soil dries completely at 105°C in an oven", "The soil is dried at 15 bar suction", "The soil is saturated and excess water is allowed to drain for 2–3 days", "The soil is at wilting point after plant uptake"],
+    options: ["The soil dries completely at 105°C in an oven in soil science", "The soil is dried at 15 bar suction for soil management", "The soil is saturated and excess water is allowed to drain for 2–3 days", "The soil is at wilting point after plant uptake in soil fertility"],
     correct: 2,
     explanation: "Field capacity is the moisture content of a soil after free drainage has ceased (usually 1–3 days after saturation), held against gravity. It corresponds to a matric suction of about –0.033 MPa (–1/3 bar)."
   },
@@ -364,7 +364,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The pF value is defined as:",
-    options: ["Negative logarithm of soil pH", "Water potential expressed in pascals", "Logarithm of soil moisture tension expressed in cm of water column", "Ratio of field capacity to particle density"],
+    options: ["Negative logarithm of soil pH in soil science", "Water potential expressed in pascals for soil management", "Logarithm of soil moisture tension expressed in cm of water column", "Ratio of field capacity to particle density"],
     correct: 2,
     explanation: "pF = log₁₀ of the soil moisture suction expressed in cm of water column. pF 2.54 ≈ field capacity and pF 4.2 ≈ permanent wilting point."
   },
@@ -384,7 +384,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Which soil texture has the highest available water capacity for plant growth?",
-    options: ["Heavy clay soil", "Gravel soil", "Coarse sandy soil", "Medium loam to silt loam soil"],
+    options: ["Heavy clay soil", "Gravel soil in soil science", "Coarse sandy soil", "Medium loam to silt loam soil"],
     correct: 3,
     explanation: "Medium-textured soils (loam, silt loam) have the highest AWC because they balance large and small pores — more macropores than clay and more micropores than sand."
   },
@@ -394,7 +394,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Soil aeration is primarily measured by which parameter?",
-    options: ["Oxygen diffusion rate (ODR) or percentage of air-filled pores", "Electrical conductivity of soil extract", "CO₂ concentration in irrigation water", "Total nitrogen gas in soil pores"],
+    options: ["Oxygen diffusion rate (ODR) or percentage of air-filled pores", "Electrical conductivity of soil extract in soil science", "CO₂ concentration in irrigation water for soil management", "Total nitrogen gas in soil pores"],
     correct: 0,
     explanation: "Soil aeration is commonly assessed by the oxygen diffusion rate (ODR) or percentage of air-filled pores. A minimum ODR of 0.2 µg cm⁻² min⁻¹ is required for normal root function."
   },
@@ -404,7 +404,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Capillary water in soil is held between what suction range?",
-    options: ["–0.033 MPa to –1.5 MPa (0.33 to 15 bar)", "0 to –0.033 MPa", "–1.5 MPa to –3.1 MPa", "Greater than –3.1 MPa (31 bar)"],
+    options: ["–0.033 MPa to –1.5 MPa (0.33 to 15 bar)", "0 to –0.033 MPa in soil science", "–1.5 MPa to –3.1 MPa for soil management", "Greater than –3.1 MPa (31 bar)"],
     correct: 0,
     explanation: "Capillary water is held in micropores at suctions between –0.033 MPa (FC) and –1.5 MPa (PWP). This is the fraction available to plants."
   },
@@ -424,7 +424,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Waterlogged soils develop anaerobic conditions because:",
-    options: ["Water fills all pores, displacing air and restricting O₂ diffusion", "High pH inhibits oxygen availability", "Clay particles swell and block nutrient uptake", "Excess nitrogen gas is produced by denitrification"],
+    options: ["Water fills all pores, displacing air and restricting O₂ diffusion", "High pH inhibits oxygen availability in soil science", "Clay particles swell and block nutrient uptake", "Excess nitrogen gas is produced by denitrification"],
     correct: 0,
     explanation: "In waterlogged soils, all pore spaces are filled with water, preventing oxygen diffusion into the soil. Aerobic microbes deplete residual O₂, creating anaerobic conditions within hours."
   },
@@ -538,7 +538,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Soil buffer capacity refers to the ability of soil to:",
-    options: ["Store water against drainage forces", "Resist changes in pH upon addition of acid or base", "Fix nitrogen from the atmosphere", "Maintain constant temperature despite external changes"],
+    options: ["Store water against drainage forces in soil science", "Resist changes in pH upon addition of acid or base", "Fix nitrogen from the atmosphere for soil management", "Maintain constant temperature despite external changes in soil fertility"],
     correct: 1,
     explanation: "Buffer capacity is the soil's resistance to pH change when acid or base is added. Soils high in clay, organic matter, and CEC have greater buffer capacity."
   },
@@ -548,7 +548,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "The negative charge on soil colloids arises primarily from:",
-    options: ["Adsorption of anions from soil solution", "Oxidation of organic matter", "Protonation of OH groups at mineral edges", "Isomorphous substitution of higher-valence cations by lower-valence cations in clay lattice"],
+    options: ["Adsorption of anions from soil solution in soil science", "Oxidation of organic matter for soil management", "Protonation of OH groups at mineral edges", "Isomorphous substitution of higher-valence cations by lower-valence cations in clay lattice"],
     correct: 3,
     explanation: "Permanent negative charge on 2:1 clay minerals arises from isomorphous substitution (e.g., Mg²⁺ replacing Al³⁺ in octahedral sheets or Al³⁺ replacing Si⁴⁺ in tetrahedral sheets) without altering crystal structure."
   },
@@ -578,7 +578,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Anion exchange capacity (AEC) in soils is mainly associated with:",
-    options: ["Montmorillonite clay under alkaline conditions", "Variable-charge surfaces of iron/aluminium oxides and kaolinite edges at low pH", "Organic matter at neutral pH", "Calcium carbonate at high pH"],
+    options: ["Montmorillonite clay under alkaline conditions in soil science", "Variable-charge surfaces of iron/aluminium oxides and kaolinite edges at low pH", "Organic matter at neutral pH for soil management", "Calcium carbonate at high pH in soil fertility"],
     correct: 1,
     explanation: "AEC is found mainly on iron/aluminium oxide surfaces and kaolinite edges that carry positive charge at low pH, allowing anion (Cl⁻, NO₃⁻, SO₄²⁻) adsorption. It is prominent in highly weathered Oxisols."
   },
@@ -598,7 +598,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Lime requirement of an acid soil is determined by:",
-    options: ["Electrical conductivity of saturation extract", "Soil pH in water alone", "Total nitrogen content of the soil", "Buffer pH (SMP or Woodruff buffer) reflecting reserve acidity"],
+    options: ["Electrical conductivity of saturation extract in soil science", "Soil pH in water alone for soil management", "Total nitrogen content of the soil", "Buffer pH (SMP or Woodruff buffer) reflecting reserve acidity"],
     correct: 3,
     explanation: "Lime requirement depends on reserve (exchangeable) acidity measured using buffer pH methods (Shoemaker-McLean-Pratt or Woodruff buffer), since water pH alone underestimates total acidity."
   },
@@ -722,7 +722,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Soil organic matter contributes to CEC by providing:",
-    options: ["Positive charges that adsorb anions", "Neutral surfaces with no charge contribution", "Variable (pH-dependent) negative charges from carboxyl (–COOH) and phenolic (–OH) groups", "Permanent negative charges from Si-Al lattice substitution"],
+    options: ["Positive charges that adsorb anions in soil science", "Neutral surfaces with no charge contribution for soil management", "Variable (pH-dependent) negative charges from carboxyl (–COOH) and phenolic (–OH) groups", "Permanent negative charges from Si-Al lattice substitution in soil fertility"],
     correct: 2,
     explanation: "Organic matter contributes variable-charge CEC through carboxyl (–COOH) and phenolic (–OH) functional groups that dissociate H⁺ at higher pH. SOM contributes 30–70% of total CEC in many soils."
   },
@@ -742,7 +742,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "The 'priming effect' in soil organic matter refers to:",
-    options: ["Addition of fresh organic matter stimulating decomposition of existing stable humus", "Rain priming microbial activity in dry soils", "Application of fertilizers increasing crop residue production", "Temperature increase accelerating nitrification"],
+    options: ["Addition of fresh organic matter stimulating decomposition of existing stable humus", "Rain priming microbial activity in dry soils in soil science", "Application of fertilizers increasing crop residue production for soil management", "Temperature increase accelerating nitrification in soil fertility"],
     correct: 0,
     explanation: "The priming effect occurs when fresh organic matter (e.g., crop residue, manure) is added to soil, stimulating microbial activity that accelerates decomposition of otherwise stable native soil organic matter."
   },
@@ -752,7 +752,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Mull humus, found in deciduous forest soils, is characterised by:",
-    options: ["Waterlogged peat with very slow decomposition", "Thin organic layer with high fungal biomass and low earthworm activity", "Well-mixed, intimate incorporation of organic matter with mineral soil, neutral to slightly acid pH", "Thick, acidic, undecomposed litter with sharp boundary from mineral soil"],
+    options: ["Waterlogged peat with very slow decomposition in soil science", "Thin organic layer with high fungal biomass and low earthworm activity", "Well-mixed, intimate incorporation of organic matter with mineral soil, neutral to slightly acid pH", "Thick, acidic, undecomposed litter with sharp boundary from mineral soil for soil management"],
     correct: 2,
     explanation: "Mull humus (from deciduous forests) is well-decomposed, intimately mixed with mineral soil by earthworm activity, with near-neutral pH and high microbial activity — ideal for soil fertility."
   },
@@ -796,7 +796,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "The classic deficiency symptom of nitrogen in plants is:",
-    options: ["Uniform yellowing (chlorosis) starting from older (lower) leaves, proceeding upward", "Purpling of leaves due to anthocyanin accumulation", "Interveinal chlorosis starting from youngest leaves", "Brown scorched leaf margins and tips"],
+    options: ["Uniform yellowing (chlorosis) starting from older (lower) leaves, proceeding upward", "Purpling of leaves due to anthocyanin accumulation", "Interveinal chlorosis starting from youngest leaves in soil science", "Brown scorched leaf margins and tips for soil management"],
     correct: 0,
     explanation: "N is mobile in the phloem, so it is remobilised from older leaves to younger growing tissues. Deficiency shows as uniform yellowing of older (lower) leaves first, moving upward."
   },
@@ -836,7 +836,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Phosphorus deficiency in plants typically shows as:",
-    options: ["Yellow-green chlorosis of young leaves", "Interveinal chlorosis with green veins", "Brown necrotic spots on leaf margins", "Purple or reddish discolouration of leaves and stems due to anthocyanin accumulation"],
+    options: ["Yellow-green chlorosis of young leaves in soil science", "Interveinal chlorosis with green veins for soil management", "Brown necrotic spots on leaf margins in soil fertility", "Purple or reddish discolouration of leaves and stems due to anthocyanin accumulation"],
     correct: 3,
     explanation: "P deficiency causes purplish-red discolouration due to accumulation of anthocyanins (promoted by carbohydrate accumulation and blocked synthesis). Older leaves may appear dark green initially."
   },
@@ -846,7 +846,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Luxury consumption of potassium refers to:",
-    options: ["Uptake of K in excess of plant needs without beneficial effect on yield", "Excess K application causing toxicity symptoms", "K accumulation in roots at the expense of shoots", "K loss from soil by leaching beyond crop requirement"],
+    options: ["Uptake of K in excess of plant needs without beneficial effect on yield", "Excess K application causing toxicity symptoms in soil science", "K accumulation in roots at the expense of shoots for soil management", "K loss from soil by leaching beyond crop requirement in soil fertility"],
     correct: 0,
     explanation: "Luxury K consumption is the uptake of K well above the crop's physiological requirement when soil K is abundant, without proportional increase in yield. It is most pronounced in forages and grasses."
   },
@@ -896,7 +896,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Phosphorus moves to plant roots mainly by which mechanism?",
-    options: ["Root interception only", "Mass flow in soil solution (convective flow)", "Diffusion (due to very low concentration and small diffusion coefficient)", "Active pumping by root hairs only"],
+    options: ["Root interception only in soil science", "Mass flow in soil solution (convective flow)", "Diffusion (due to very low concentration and small diffusion coefficient)", "Active pumping by root hairs only for soil management"],
     correct: 2,
     explanation: "P moves primarily by diffusion because its concentration in soil solution is very low (< 1 ppm) and mass flow accounts for only a tiny fraction of P supply. Diffusion accounts for 90%+ of P uptake by roots."
   },
@@ -906,7 +906,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Ammonium fixation in soils occurs mainly due to:",
-    options: ["NH₄⁺ converting to NO₃⁻ through biological nitrification", "NH₄⁺ reacting with soil organic matter to form recalcitrant N", "NH₄⁺ being trapped in the interlayer spaces of 2:1 clay minerals (illite, vermiculite)", "NH₄⁺ volatilising as NH₃ from the soil surface"],
+    options: ["NH₄⁺ converting to NO₃⁻ through biological nitrification in soil science", "NH₄⁺ reacting with soil organic matter to form recalcitrant N", "NH₄⁺ being trapped in the interlayer spaces of 2:1 clay minerals (illite, vermiculite)", "NH₄⁺ volatilising as NH₃ from the soil surface for soil management"],
     correct: 2,
     explanation: "2:1 clay minerals such as illite and vermiculite have interlayer spacings that match the size of NH₄⁺ (and K⁺), trapping these ions between tetrahedral sheets as 'fixed' (non-exchangeable) forms."
   },
@@ -940,7 +940,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Calcium deficiency in plants typically causes:",
-    options: ["Death of growing points (meristems), curling and scorching of young leaf tips", "Purple discolouration of older leaves", "Marginal scorch of older leaves", "Interveinal chlorosis of mature leaves"],
+    options: ["Death of growing points (meristems), curling and scorching of young leaf tips", "Purple discolouration of older leaves in soil science", "Marginal scorch of older leaves for soil management", "Interveinal chlorosis of mature leaves in soil fertility"],
     correct: 0,
     explanation: "Ca is immobile in phloem; it cannot be retranslocated from older to younger tissue. Deficiency therefore affects young, rapidly growing meristematic tissues first — tip burn, blossom-end rot, bitter pit."
   },
@@ -950,7 +950,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Iron deficiency chlorosis in plants (lime-induced chlorosis) is most common in:",
-    options: ["Waterlogged soils with high Fe²⁺ toxicity", "Neutral to alkaline soils (pH > 7) where Fe³⁺ becomes insoluble", "Sandy soils with excessive leaching of iron", "Acid soils below pH 5.5 with high Fe²⁺"],
+    options: ["Waterlogged soils with high Fe²⁺ toxicity in soil science", "Neutral to alkaline soils (pH > 7) where Fe³⁺ becomes insoluble", "Sandy soils with excessive leaching of iron for soil management", "Acid soils below pH 5.5 with high Fe²⁺"],
     correct: 1,
     explanation: "Fe solubility drops 1000-fold for each unit rise in pH above 7. In calcareous alkaline soils, Fe³⁺ precipitates and becomes unavailable, causing interveinal chlorosis on young leaves."
   },
@@ -970,7 +970,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Sulphur deficiency symptoms in plants resemble nitrogen deficiency in that both cause yellowing, but sulphur deficiency differs because:",
-    options: ["S deficiency causes tip burn while N deficiency causes interveinal chlorosis", "S deficiency starts on older leaves like N deficiency", "S deficiency causes purple discolouration unlike N", "S deficiency appears on younger (upper) leaves first since S is relatively immobile in phloem"],
+    options: ["S deficiency causes tip burn while N deficiency causes interveinal chlorosis", "S deficiency starts on older leaves like N deficiency in soil science", "S deficiency causes purple discolouration unlike N for soil management", "S deficiency appears on younger (upper) leaves first since S is relatively immobile in phloem"],
     correct: 3,
     explanation: "S is relatively phloem-immobile (unlike N), so S deficiency symptoms (uniform yellowing) appear first on younger leaves at the top of the plant, distinguishing it from N deficiency which starts on older leaves."
   },
@@ -980,7 +980,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Boron deficiency in cauliflower produces a condition called:",
-    options: ["Blind seed disease", "Brown heart (Hollow stem / Browning)", "Heart rot", "Whiptail"],
+    options: ["Blind seed disease", "Brown heart (Hollow stem / Browning)", "Heart rot in soil science", "Whiptail for soil management"],
     correct: 1,
     explanation: "Boron deficiency in cauliflower causes 'browning' or 'hollow stem' (also called brown heart in turnip and swede). In sugar beet it causes 'heart rot'. In cauliflower, brown discolouration and hollow curd/stem are diagnostic."
   },
@@ -1010,7 +1010,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "The recommended method of correction for zinc deficiency in paddy nursery soil is:",
-    options: ["Application of zinc chelate (Zn-EDTA) at 2 kg ha⁻¹", "Liming the soil to pH 7.0", "Soil application of ZnSO₄ at 25 kg ha⁻¹ or seedling root dip in 2% ZnO suspension", "Foliar spray of 0.5% ZnSO₄ alone"],
+    options: ["Application of zinc chelate (Zn-EDTA) at 2 kg ha⁻¹ in soil science", "Liming the soil to pH 7.0 for soil management", "Soil application of ZnSO₄ at 25 kg ha⁻¹ or seedling root dip in 2% ZnO suspension", "Foliar spray of 0.5% ZnSO₄ alone in soil fertility"],
     correct: 2,
     explanation: "Standard recommendations for Zn deficiency in rice include: soil application of ZnSO₄ (21%) at 25 kg ha⁻¹ or seedling root dip in 2–4% ZnO (or 2% ZnSO₄) suspension for 10–12 hours before transplanting."
   },
@@ -1104,7 +1104,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "The Soil Test Crop Response (STCR) approach to fertilizer recommendation is based on:",
-    options: ["Laboratory analysis of plant tissue alone", "Blanket (fixed) recommendations irrespective of soil test values", "Targeted yield approach correlating soil test values with crop response to fertilizers", "Farmer experience and traditional practices"],
+    options: ["Laboratory analysis of plant tissue alone in soil science", "Blanket (fixed) recommendations irrespective of soil test values", "Targeted yield approach correlating soil test values with crop response to fertilizers", "Farmer experience and traditional practices for soil management"],
     correct: 2,
     explanation: "STCR uses regression equations relating soil nutrient status to crop response, recommending fertilizer dose to achieve a pre-set target yield based on available soil nutrient supply plus fertilizer need."
   },
@@ -1174,7 +1174,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "The Soil Health Card (SHC) scheme in India provides information to farmers on:",
-    options: ["Seed variety recommendations and sowing dates", "Crop insurance premium rates and subsidy eligibility", "Soil test values and fertilizer recommendations for 12 nutrient parameters", "Rainfall forecast and irrigation scheduling advice"],
+    options: ["Seed variety recommendations and sowing dates in soil science", "Crop insurance premium rates and subsidy eligibility", "Soil test values and fertilizer recommendations for 12 nutrient parameters", "Rainfall forecast and irrigation scheduling advice for soil management"],
     correct: 2,
     explanation: "The Soil Health Card (launched 2015) provides farmers with soil test results for 12 parameters (pH, EC, OC, N, P, K and 6 micronutrients) and crop-wise fertilizer recommendations every 3 years."
   },
@@ -1184,7 +1184,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Available soil nitrogen is estimated by which commonly used method in soil testing laboratories?",
-    options: ["Olsen method (NaHCO₃ extraction)", "Alkaline permanganate (KMnO₄) method by Subbiah and Asija", "DTPA extraction with atomic absorption spectrophotometry", "Boiling water extraction"],
+    options: ["Olsen method (NaHCO₃ extraction) in soil science", "Alkaline permanganate (KMnO₄) method by Subbiah and Asija", "DTPA extraction with atomic absorption spectrophotometry", "Boiling water extraction for soil management"],
     correct: 1,
     explanation: "The alkaline potassium permanganate method (Subbiah and Asija, 1956) is the standard method for available N in Indian soil testing labs. It measures NH₄⁺ released by alkaline KMnO₄ oxidation."
   },
@@ -1204,7 +1204,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "The DTPA extraction solution (Lindsay and Norvell, 1978) is used to determine plant-available:",
-    options: ["Iron (Fe), Manganese (Mn), Zinc (Zn), and Copper (Cu) micronutrients", "Calcium (Ca) and Magnesium (Mg)", "Boron (B) and Molybdenum (Mo)", "Nitrogen (N) and phosphorus (P)"],
+    options: ["Iron (Fe), Manganese (Mn), Zinc (Zn), and Copper (Cu) micronutrients", "Calcium (Ca) and Magnesium (Mg) in soil science", "Boron (B) and Molybdenum (Mo) for soil management", "Nitrogen (N) and phosphorus (P) in soil fertility"],
     correct: 0,
     explanation: "DTPA (diethylenetriaminepentaacetic acid) at pH 7.3 is the standard chelating extractant for Fe, Mn, Zn, and Cu in neutral to alkaline soils. It mimics root chelation activity."
   },
@@ -1214,7 +1214,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "The Mitscherlich equation describes the relationship between:",
-    options: ["Soil pH and nutrient availability", "Crop yield and irrigation water applied", "Soil texture and water holding capacity", "Crop yield and quantity of a limiting nutrient applied (law of diminishing returns)"],
+    options: ["Soil pH and nutrient availability in soil science", "Crop yield and irrigation water applied for soil management", "Soil texture and water holding capacity in soil fertility", "Crop yield and quantity of a limiting nutrient applied (law of diminishing returns)"],
     correct: 3,
     explanation: "Mitscherlich's equation (Y = A[1 – e^(–cx)]) describes the diminishing yield response as a nutrient is added in increasing amounts — the mathematical basis of fertilizer response curves."
   },
@@ -1224,7 +1224,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Leaf colour chart (LCC) for nitrogen management in rice is used to:",
-    options: ["Estimate crop maturity and harvest date", "Identify disease infections from leaf discolouration", "Assess water stress in rice paddies", "Determine real-time N status of the crop for split application decisions"],
+    options: ["Estimate crop maturity and harvest date in soil science", "Identify disease infections from leaf discolouration for soil management", "Assess water stress in rice paddies in soil fertility", "Determine real-time N status of the crop for split application decisions"],
     correct: 3,
     explanation: "The LCC is a simple plastic strip with colour panels (1–4 or 1–6) compared against the rice leaf. When leaf colour drops below threshold (usually panel 3 or 4), N fertilizer application is triggered."
   },
@@ -1308,7 +1308,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Acid soil toxicity is primarily caused by excess amounts of which ion in the soil solution?",
-    options: ["Fe²⁺ (ferrous iron toxicity only)", "Al³⁺ and Mn²⁺ ions (aluminium and manganese toxicity)", "H⁺ ion alone", "SO₄²⁻ (sulphate) ions"],
+    options: ["Fe²⁺ (ferrous iron toxicity only)", "Al³⁺ and Mn²⁺ ions (aluminium and manganese toxicity)", "H⁺ ion alone in soil science", "SO₄²⁻ (sulphate) ions for soil management"],
     correct: 1,
     explanation: "Below pH 5.5, Al³⁺ and Mn²⁺ become soluble in toxic concentrations. Al³⁺ is the primary toxicity factor inhibiting root elongation in acid soils globally; Mn²⁺ toxicity is also common."
   },
@@ -1318,7 +1318,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Leaching requirement (LR) in saline soil management refers to:",
-    options: ["Fraction of applied irrigation water that must pass through the root zone to prevent salt accumulation", "Amount of lime needed to neutralise soil acidity", "Electrical conductivity threshold for crop selection", "Rate of salt movement from subsoil to surface by capillary rise"],
+    options: ["Fraction of applied irrigation water that must pass through the root zone to prevent salt accumulation", "Amount of lime needed to neutralise soil acidity in soil science", "Electrical conductivity threshold for crop selection for soil management", "Rate of salt movement from subsoil to surface by capillary rise"],
     correct: 0,
     explanation: "Leaching requirement = ECw / (5 × ECe threshold – ECw), representing the fraction of irrigation water that must drain below the root zone to maintain root zone salinity at or below the crop tolerance threshold."
   },
@@ -1338,7 +1338,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Gypsum requirement (GR) for reclamation of sodic soil is determined based on:",
-    options: ["Electrical conductivity of irrigation water", "Total salt content of the soil", "Organic carbon content of the soil", "Exchangeable sodium that must be replaced to reduce ESP to a target level"],
+    options: ["Electrical conductivity of irrigation water in soil science", "Total salt content of the soil for soil management", "Organic carbon content of the soil in soil fertility", "Exchangeable sodium that must be replaced to reduce ESP to a target level"],
     correct: 3,
     explanation: "GR (t ha⁻¹) = [(Initial ESP – Target ESP) × CEC × bulk density × depth] / 100 × 0.86. It represents the Ca needed to replace excess Na⁺ from the exchange complex."
   },
@@ -1378,7 +1378,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Elemental sulphur (S) can be used for reclamation of calcareous sodic soils because:",
-    options: ["S directly precipitates Na⁺ as Na₂SO₄", "Microbial oxidation of S produces H₂SO₄ which reacts with CaCO₃ to release Ca²⁺ for Na⁺ replacement", "S provides sulphur nutrition to crops growing in alkaline soils", "S raises soil pH, improving structure"],
+    options: ["S directly precipitates Na⁺ as Na₂SO₄ in soil science", "Microbial oxidation of S produces H₂SO₄ which reacts with CaCO₃ to release Ca²⁺ for Na⁺ replacement", "S provides sulphur nutrition to crops growing in alkaline soils for soil management", "S raises soil pH, improving structure in soil fertility"],
     correct: 1,
     explanation: "In calcareous sodic soils: S + O₂ + H₂O → H₂SO₄ (microbial); H₂SO₄ + CaCO₃ → CaSO₄ + H₂O + CO₂. The CaSO₄ formed acts like applied gypsum to displace Na⁺ from exchange sites."
   },
@@ -1402,7 +1402,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "The Universal Soil Loss Equation (USLE) estimates annual soil loss as A = R × K × L × S × C × P. What does the K factor represent?",
-    options: ["Rainfall erosivity factor", "Crop and management factor", "Soil erodibility factor (resistance of soil to erosion and transport)", "Slope length and steepness factor"],
+    options: ["Rainfall erosivity factor in soil science", "Crop and management factor for soil management", "Soil erodibility factor (resistance of soil to erosion and transport)", "Slope length and steepness factor in soil fertility"],
     correct: 2,
     explanation: "K is the soil erodibility factor in USLE — the susceptibility of a specific soil to erosion based on texture, structure, organic matter, and permeability. Higher K = more erodible soil."
   },
@@ -1412,7 +1412,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Sheet erosion refers to:",
-    options: ["Relatively uniform removal of a thin layer of soil over a broad area by raindrop splash and surface runoff", "Removal of soil in distinct channels cut by concentrated water flow", "Large-scale mass movement of soil on steep slopes", "Wind removal of fine particles from the soil surface"],
+    options: ["Relatively uniform removal of a thin layer of soil over a broad area by raindrop splash and surface runoff", "Removal of soil in distinct channels cut by concentrated water flow in soil science", "Large-scale mass movement of soil on steep slopes for soil management", "Wind removal of fine particles from the soil surface in soil fertility"],
     correct: 0,
     explanation: "Sheet erosion is the least visible but most widespread erosion type — uniform removal of a thin soil layer over a wide area by rainfall splash and shallow overland flow, often going unnoticed until subsoil is exposed."
   },
@@ -1422,7 +1422,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "The T value (soil loss tolerance) in soil conservation planning refers to:",
-    options: ["Threshold rainfall intensity triggering erosion", "Maximum tolerable soil temperature for crop growth", "Total organic matter needed to maintain soil fertility", "Maximum rate of soil erosion (in t ha⁻¹ yr⁻¹) that still permits sustained crop productivity"],
+    options: ["Threshold rainfall intensity triggering erosion in soil science", "Maximum tolerable soil temperature for crop growth for soil management", "Total organic matter needed to maintain soil fertility", "Maximum rate of soil erosion (in t ha⁻¹ yr⁻¹) that still permits sustained crop productivity"],
     correct: 3,
     explanation: "T value is the maximum permissible soil loss that allows maintaining long-term soil productivity. In India, T values range from 2.5–12.5 t ha⁻¹ yr⁻¹ depending on soil depth and productivity potential."
   },
@@ -1452,7 +1452,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Windbreaks (shelterbelts) reduce wind erosion by:",
-    options: ["Reducing wind velocity near the soil surface and trapping drifting soil particles", "Increasing soil moisture to above field capacity", "Acidifying soil pH to increase cohesion", "Providing organic matter through leaf fall to bind soil particles"],
+    options: ["Reducing wind velocity near the soil surface and trapping drifting soil particles", "Increasing soil moisture to above field capacity in soil science", "Acidifying soil pH to increase cohesion for soil management", "Providing organic matter through leaf fall to bind soil particles"],
     correct: 0,
     explanation: "Windbreaks (rows of trees/shrubs) reduce wind speed for a distance of 10–15 times their height on the leeward side, protecting the soil surface from detachment and transport of particles by wind."
   },
@@ -1462,7 +1462,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "The R factor in the USLE represents:",
-    options: ["Rainfall erosivity (based on rainfall kinetic energy × intensity)", "Runoff coefficient of the watershed", "Root density factor reducing erosion", "Relief factor based on land slope"],
+    options: ["Rainfall erosivity (based on rainfall kinetic energy × intensity)", "Runoff coefficient of the watershed in soil science", "Root density factor reducing erosion for soil management", "Relief factor based on land slope"],
     correct: 0,
     explanation: "R is the rainfall erosivity index — computed as sum of products of kinetic energy (E) and maximum 30-minute intensity (I₃₀) for each storm. Higher R = more erosive rainfall climate."
   },
@@ -1492,7 +1492,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "The most effective biological measure for controlling soil erosion on degraded lands is:",
-    options: ["Construction of concrete check dams", "Deep ploughing to bury eroded material", "Application of chemical soil conditioners", "Establishment of grass cover, contour grass strips (vegetative barriers)"],
+    options: ["Construction of concrete check dams in soil science", "Deep ploughing to bury eroded material", "Application of chemical soil conditioners for soil management", "Establishment of grass cover, contour grass strips (vegetative barriers)"],
     correct: 3,
     explanation: "Permanent grass/vegetation cover is the most effective biological measure — plant roots bind soil, canopy intercepts raindrops reducing splash, and stems slow runoff. Vetiver grass strips are widely used in India."
   },
@@ -1502,7 +1502,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Raindrop splash erosion (splash detachment) is significant because:",
-    options: ["Raindrops compact the soil surface, directly causing erosion", "Raindrops create macropores that increase infiltration", "Raindrops dissolve clay and carry it in suspension immediately", "Raindrops detach soil particles on impact, making them available for transport by runoff"],
+    options: ["Raindrops compact the soil surface, directly causing erosion in soil science", "Raindrops create macropores that increase infiltration for soil management", "Raindrops dissolve clay and carry it in suspension immediately", "Raindrops detach soil particles on impact, making them available for transport by runoff"],
     correct: 3,
     explanation: "Raindrop impact detaches soil aggregates (splash detachment) at the first stage of water erosion. The detached particles are then transported by surface runoff. A good canopy cover (crops, mulch) prevents raindrop impact."
   },
@@ -1512,7 +1512,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Mulching as a soil conservation technique helps by:",
-    options: ["Compacting the surface to prevent wind erosion", "Protecting soil surface from raindrop impact, reducing runoff, and improving infiltration", "Adding nitrogen to the soil through biological fixation", "Increasing soil pH to reduce erosion"],
+    options: ["Compacting the surface to prevent wind erosion in soil science", "Protecting soil surface from raindrop impact, reducing runoff, and improving infiltration", "Adding nitrogen to the soil through biological fixation", "Increasing soil pH to reduce erosion for soil management"],
     correct: 1,
     explanation: "Mulches (crop residues, straw, plastic film) protect the soil from raindrop splash, reduce surface runoff velocity, maintain moisture, moderate temperature, and add organic matter — all reducing erosion."
   },
@@ -1532,7 +1532,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Watershed management as a soil and water conservation strategy works at the level of:",
-    options: ["Individual farm plot only", "Individual tree planting programs", "State-level policy for irrigation allocation", "An entire natural drainage unit (catchment) treating land and water resources holistically"],
+    options: ["Individual farm plot only in soil science", "Individual tree planting programs for soil management", "State-level policy for irrigation allocation in soil fertility", "An entire natural drainage unit (catchment) treating land and water resources holistically"],
     correct: 3,
     explanation: "Watershed management treats the entire catchment (watershed) as a unit, integrating conservation measures from ridge to valley — treating upper catchment (vegetation, contour bunds) and lower areas (check dams) to conserve soil and water."
   },
@@ -2005,7 +2005,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-28",
     lectureNo: 28,
     question: "Soil test helps in:",
-    options: ["Measuring crop yield", "Diagnosing soil nutrient status and making fertilizer recommendations", "Predicting pest outbreaks", "Weather forecasting"],
+    options: ["Measuring crop yield in soil science", "Diagnosing soil nutrient status and making fertilizer recommendations", "Predicting pest outbreaks for soil management", "Weather forecasting in soil fertility"],
     correct: 1,
     explanation: "As per DA-121 notes: Soil testing helps determine the nutritional status of soil and makes balanced fertilizer recommendations to achieve optimum crop production."
   },

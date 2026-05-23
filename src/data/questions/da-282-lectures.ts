@@ -30,7 +30,7 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "Veneer grafting in mango is preferred because:",
-    options: ["It is simple, has high success rate and can be done at any time", "It requires no skill or expertise in horticultural practices", "It produces seedling plants quickly for vegetable cultivation", "It requires no rootstock in orchard management"],
+    options: ["It is simple, has high success rate and can be done at any time", "It requires no skill or expertise in horticultural practices in agriculture", "It produces seedling plants quickly for vegetable cultivation under field conditions", "It requires no rootstock in orchard management for crop production"],
     correct: 0,
     explanation: "Veneer grafting in mango has a high success rate, can be performed year-round on young rootstocks, and is widely used in nurseries to produce true-to-type plants quickly."
   },
@@ -394,7 +394,7 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The main cause of fruit drop in citrus is:",
-    options: ["Hormonal imbalance – low auxin levels in developing fruits", "Nitrogen deficiency alone in horticultural practices", "Potassium excess for vegetable cultivation", "Excess irrigation in orchard management"],
+    options: ["Hormonal imbalance – low auxin levels in developing fruits", "Nitrogen deficiency alone in horticultural practices", "Potassium excess for vegetable cultivation in agriculture", "Excess irrigation in orchard management under field conditions"],
     correct: 0,
     explanation: "Citrus fruit drop is mainly due to hormonal imbalance – declining auxin levels in developing fruits. Foliar spray of 2,4-D or NAA at 10–20 ppm helps retain fruits by maintaining auxin levels."
   },
@@ -950,7 +950,7 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Pusa Jwala chilli variety is characterized by:",
-    options: ["Purple-colored fruits in horticultural practices", "Round, bell pepper type fruits for vegetable cultivation", "High pungency, long and curved fruits for dry chilli production", "Very low pungency for vegetable use"],
+    options: ["Purple-colored fruits in horticultural practices in agriculture", "Round, bell pepper type fruits for vegetable cultivation", "High pungency, long and curved fruits for dry chilli production", "Very low pungency for vegetable use under field conditions"],
     correct: 2,
     explanation: "Pusa Jwala is a high-yielding, high-pungency chilli variety developed at IARI, suitable for both fresh and dry chilli production. It has long, slender, curved fruits."
   },
@@ -1032,7 +1032,7 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "The pungency in onion is due to which sulfur compound?",
-    options: ["Allicin in horticultural practices", "Sinigrin for vegetable cultivation", "Capsaicin in orchard management", "Propanethial S-oxide (Lachrymatory factor) and alkenyl cysteine sulfoxides"],
+    options: ["Allicin in horticultural practices in agriculture", "Sinigrin for vegetable cultivation under field conditions", "Capsaicin in orchard management for crop production", "Propanethial S-oxide (Lachrymatory factor) and alkenyl cysteine sulfoxides"],
     correct: 3,
     explanation: "Onion pungency is due to alkenyl cysteine sulfoxides (mainly S-1-propenyl-L-cysteine sulfoxide). When cells are damaged, allinase enzyme converts these to the lachrymatory factor (propanethial S-oxide) and pyruvate."
   },
@@ -1346,7 +1346,7 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Crossandra (Kanakambara) is an important flower crop mainly grown in:",
-    options: ["North India in horticultural practices", "South India – Tamil Nadu, Karnataka and Andhra Pradesh", "Western India for vegetable cultivation", "Northeast India in orchard management"],
+    options: ["North India in horticultural practices in agriculture", "South India – Tamil Nadu, Karnataka and Andhra Pradesh", "Western India for vegetable cultivation under field conditions", "Northeast India in orchard management for crop production"],
     correct: 1,
     explanation: "Crossandra (Crossandra infundibuliformis) is an important flower crop grown for garlands in South India, particularly Tamil Nadu, Karnataka and Andhra Pradesh. It flowers throughout the year."
   },
@@ -1456,7 +1456,7 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Pinching in chrysanthemum cultivation refers to:",
-    options: ["Removal of the growing tip to promote lateral branching and more flowers", "Removing outer leaves to expose flowers in horticultural practices", "Tying branches to support wires for vegetable cultivation", "Removing pest-infested leaves in orchard management"],
+    options: ["Removal of the growing tip to promote lateral branching and more flowers", "Removing outer leaves to expose flowers in horticultural practices", "Tying branches to support wires for vegetable cultivation in agriculture", "Removing pest-infested leaves in orchard management under field conditions"],
     correct: 0,
     explanation: "Pinching in chrysanthemum involves removing the growing shoot tip (2–3 cm) to encourage multiple lateral branches, each producing flower buds, resulting in more flowers per plant."
   },
@@ -1889,7 +1889,7 @@ export const da282LectureQuestions: Question[] = [
   {
     id: "d282l_194", subject: "da-282", lecture: "lecture-14", lectureNo: 14,
     question: "Chrysanthemum is commercially important for:",
-    options: ["Cut flowers, loose flowers for garlands, and potted plants", "Food production in horticultural practices", "Spice production for vegetable cultivation", "Timber in orchard management"],
+    options: ["Cut flowers, loose flowers for garlands, and potted plants", "Food production in horticultural practices in agriculture", "Spice production for vegetable cultivation under field conditions", "Timber in orchard management for crop production"],
     correct: 0,
     explanation: "Chrysanthemum (Dendranthema grandiflora) is commercially important as a cut flower, loose flower for garlands, and potted ornamental plant.",
     difficulty: "easy"

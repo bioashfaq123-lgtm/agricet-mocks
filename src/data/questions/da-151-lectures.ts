@@ -140,7 +140,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "Which of the following best defines 'draft' in the context of farm power?",
-    options: ["Engine torque at the crankshaft", "Total weight of the implement", "Horizontal pull required to move an implement through soil", "Vertical force on the tractor rear axle"],
+    options: ["Engine torque at the crankshaft in plant breeding", "Total weight of the implement for crop improvement", "Horizontal pull required to move an implement through soil", "Vertical force on the tractor rear axle"],
     correct: 2,
     explanation: "Draft is the horizontal pull (force) required to move an implement through the soil at a specified speed and depth. It is measured in Newtons (N) or kilogram-force (kgf) and is a key parameter in tractor-implement matching."
   },
@@ -212,7 +212,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Belt HP (BHP) is measured at:",
-    options: ["PTO shaft", "Engine crankshaft", "Drawbar", "Belt pulley mounted on the tractor"],
+    options: ["PTO shaft in plant breeding", "Engine crankshaft for crop improvement", "Drawbar in variety development", "Belt pulley mounted on the tractor"],
     correct: 3,
     explanation: "Belt HP is the power available at the belt pulley of the tractor, used to drive stationary machinery like threshers and grain mills via a flat belt. It is slightly higher than DBHP."
   },
@@ -252,7 +252,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "The power take-off (PTO) is used to operate which type of implements?",
-    options: ["Passive implements like mould board plough", "Rotary implements requiring external power (rotavator, sprayer, combine)", "Trailed disc ploughs only", "Land levellers only"],
+    options: ["Passive implements like mould board plough", "Rotary implements requiring external power (rotavator, sprayer, combine)", "Trailed disc ploughs only in plant breeding", "Land levellers only for crop improvement"],
     correct: 1,
     explanation: "PTO drives active (powered) implements like rotavators, seed drills with power metering, mist blowers, hydraulically driven sprayers, forage harvesters and combine threshing drums that need rotary power from the tractor."
   },
@@ -262,7 +262,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "What does 'tractor HP class' primarily help a farmer decide?",
-    options: ["Number of gears in the transmission", "Fuel tank capacity", "Colour and brand of the tractor", "Matching tractor size to farm area and implement requirements"],
+    options: ["Number of gears in the transmission", "Fuel tank capacity in plant breeding", "Colour and brand of the tractor", "Matching tractor size to farm area and implement requirements"],
     correct: 3,
     explanation: "HP class guides implement matching and farm suitability. A small HP tractor cannot pull heavy implements efficiently; an oversized tractor is uneconomical on small farms. Correct matching improves efficiency and economics."
   },
@@ -282,7 +282,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Engine HP is always greater than drawbar HP because:",
-    options: ["Drawbar HP includes additional fuel consumption", "Transmission losses, rolling resistance and implement weight reduce available power at drawbar", "Drawbar is operated at higher speeds", "Engine HP does not include governor losses"],
+    options: ["Drawbar HP includes additional fuel consumption in plant breeding", "Transmission losses, rolling resistance and implement weight reduce available power at drawbar", "Drawbar is operated at higher speeds for crop improvement", "Engine HP does not include governor losses in variety development"],
     correct: 1,
     explanation: "Engine HP is the gross power. By the time power reaches the drawbar, losses occur in the transmission (gearbox, differential), rolling resistance of tractor tyres, and implement weight. DBHP = Engine HP × 0.75–0.80 approximately."
   },
@@ -302,7 +302,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Track-type (crawler) tractors are preferred for:",
-    options: ["Road transport of farm produce", "Light vegetable farming", "Orchard spraying", "Waterlogged paddy fields and heavy clay soils"],
+    options: ["Road transport of farm produce", "Light vegetable farming in plant breeding", "Orchard spraying for crop improvement", "Waterlogged paddy fields and heavy clay soils"],
     correct: 3,
     explanation: "Crawler tractors have low ground pressure due to the large track contact area, making them ideal for waterlogged, swampy and heavy clay soils where wheeled tractors would sink or slip. They are also used on steep slopes."
   },
@@ -384,7 +384,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The function of the fuel injection pump in a diesel engine is to:",
-    options: ["Cool the fuel before combustion", "Filter impurities from diesel", "Pressurise the crankcase", "Deliver metered, high-pressure fuel to injectors at correct timing"],
+    options: ["Cool the fuel before combustion in plant breeding", "Filter impurities from diesel for crop improvement", "Pressurise the crankcase in variety development", "Deliver metered, high-pressure fuel to injectors at correct timing"],
     correct: 3,
     explanation: "The fuel injection pump (FIP) delivers precisely metered quantities of diesel at very high pressure (150–300 bar) to the fuel injectors at exactly the right moment in the compression stroke for efficient combustion."
   },
@@ -414,7 +414,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The lubrication system in a tractor engine serves to:",
-    options: ["Clean the air filter", "Reduce friction, prevent wear, cool components and seal piston rings", "Cool the engine only", "Increase fuel efficiency by burning oil"],
+    options: ["Clean the air filter in plant breeding", "Reduce friction, prevent wear, cool components and seal piston rings", "Cool the engine only for crop improvement", "Increase fuel efficiency by burning oil"],
     correct: 1,
     explanation: "Engine oil reduces metal-to-metal friction, prevents wear, helps cool components (especially pistons and bearings), seals piston rings against blow-by, and removes contaminants. Regular oil changes maintain these functions."
   },
@@ -434,7 +434,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Ground-driven (ground speed) PTO differs from independent PTO because:",
-    options: ["It requires a separate diesel engine", "It has no safety guards", "It runs at 540 RPM always", "Its speed is proportional to forward speed of the tractor"],
+    options: ["It requires a separate diesel engine in plant breeding", "It has no safety guards for crop improvement", "It runs at 540 RPM always in variety development", "Its speed is proportional to forward speed of the tractor"],
     correct: 3,
     explanation: "Ground-driven (or live ground) PTO speed is proportional to the tractor's forward speed, not to engine RPM. This is useful for seed drills and fertiliser applicators where seed/fertiliser rate must be matched to forward travel speed."
   },
@@ -454,7 +454,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The final drive in a tractor transmission:",
-    options: ["Controls the hydraulic system", "Further reduces speed and increases torque to the rear axle", "Transfers power from the engine to the gearbox", "Drives the PTO shaft"],
+    options: ["Controls the hydraulic system in plant breeding", "Further reduces speed and increases torque to the rear axle", "Transfers power from the engine to the gearbox", "Drives the PTO shaft for crop improvement"],
     correct: 1,
     explanation: "The final drive (bull gear and pinion) provides the last stage of speed reduction and torque multiplication before power reaches the rear axle and wheels. It typically uses spur or helical gears in a large reduction ratio."
   },
@@ -464,7 +464,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "A turbocharger on a tractor engine primarily helps to:",
-    options: ["Improve fuel filtration", "Reduce engine noise", "Increase power output by forcing more air into the cylinders", "Cool the engine oil"],
+    options: ["Improve fuel filtration in plant breeding", "Reduce engine noise for crop improvement", "Increase power output by forcing more air into the cylinders", "Cool the engine oil in variety development"],
     correct: 2,
     explanation: "A turbocharger uses exhaust gas energy to drive a compressor that forces more air into the cylinders, enabling more fuel to be burned and increasing power output by 30–40% without increasing engine displacement."
   },
@@ -506,7 +506,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "The disc angle of a disc plough refers to:",
-    options: ["Angle of the plough with the soil surface", "Angle between disc face and vertical plane parallel to direction of travel", "Angle between successive discs", "Angle of tilt of the disc from vertical"],
+    options: ["Angle of the plough with the soil surface", "Angle between disc face and vertical plane parallel to direction of travel", "Angle between successive discs in plant breeding", "Angle of tilt of the disc from vertical"],
     correct: 1,
     explanation: "Disc angle (also called plan angle) is the acute angle between the disc face (plane) and the vertical plane parallel to the direction of travel. It typically ranges from 42–45°. Larger disc angle increases penetration but also draft."
   },
@@ -516,7 +516,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "A subsoiler is used primarily for:",
-    options: ["Forming ridges and furrows", "Surface tillage and seedbed preparation", "Breaking hard pan and compacted layers below normal ploughing depth", "Harrowing and clod breaking"],
+    options: ["Forming ridges and furrows in plant breeding", "Surface tillage and seedbed preparation for crop improvement", "Breaking hard pan and compacted layers below normal ploughing depth", "Harrowing and clod breaking in variety development"],
     correct: 2,
     explanation: "A subsoiler breaks hard pan and compacted subsoil layers at depths of 45–90 cm without inverting soil. This improves water infiltration and root penetration. It requires high draft (2–4× more than MB plough)."
   },
@@ -556,7 +556,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "A chisel plough differs from a mould board plough in that it:",
-    options: ["Inverts the soil completely", "Leaves crop residues on the surface and does not invert the soil", "Requires no tractor to operate", "Can only operate in paddy fields"],
+    options: ["Inverts the soil completely in plant breeding", "Leaves crop residues on the surface and does not invert the soil", "Requires no tractor to operate for crop improvement", "Can only operate in paddy fields in variety development"],
     correct: 1,
     explanation: "A chisel plough breaks and loosens the soil without inversion, leaving most crop residues on or near the surface. This conserves moisture, reduces erosion and maintains organic matter, making it suitable for conservation tillage."
   },
@@ -566,7 +566,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "The 'furrow wheel' in a mould board plough assembly helps to:",
-    options: ["Attach the plough to the tractor", "Pulverise clods behind the plough", "Guide the plough into the next furrow and control ploughing width", "Support the rear of the plough on the road"],
+    options: ["Attach the plough to the tractor in plant breeding", "Pulverise clods behind the plough for crop improvement", "Guide the plough into the next furrow and control ploughing width", "Support the rear of the plough on the road"],
     correct: 2,
     explanation: "The furrow wheel runs in the open furrow and helps guide the plough at correct width and depth, controlling the width of cut and preventing the plough from deflecting sideways. It also reduces side thrust on the operator."
   },
@@ -576,7 +576,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Deep tillage (subsoiling) is recommended primarily when:",
-    options: ["Soil is already well-aerated", "A hardpan exists below 20 cm that restricts root growth", "Crop requires shallow root development", "Soil is loose and sandy"],
+    options: ["Soil is already well-aerated in plant breeding", "A hardpan exists below 20 cm that restricts root growth", "Crop requires shallow root development for crop improvement", "Soil is loose and sandy in variety development"],
     correct: 1,
     explanation: "Deep tillage/subsoiling breaks impervious hardpan layers (plough pan, clay pan) at 30–90 cm depth that restrict root penetration and water drainage. It is recommended every 3–5 years in fields with such compaction."
   },
@@ -596,7 +596,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "The plough share (in MB plough) is primarily responsible for:",
-    options: ["Turning the soil upside down", "Cutting and lifting the furrow slice from the bottom", "Pressing the soil to form a firm seedbed", "Supporting the plough body"],
+    options: ["Turning the soil upside down in plant breeding", "Cutting and lifting the furrow slice from the bottom", "Pressing the soil to form a firm seedbed", "Supporting the plough body for crop improvement"],
     correct: 1,
     explanation: "The share is the cutting edge at the front bottom of the plough. It cuts horizontally under the furrow slice and lifts it, passing it to the mould board. Shares are hardened steel and replaceable when worn."
   },
@@ -636,7 +636,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Primary tillage is defined as:",
-    options: ["The first tillage to open the soil after harvest to a good depth", "Cultivation between crop rows during the season", "Tillage done with hand tools only", "Fine seedbed preparation after primary tillage"],
+    options: ["The first tillage to open the soil after harvest to a good depth", "Cultivation between crop rows during the season in plant breeding", "Tillage done with hand tools only for crop improvement", "Fine seedbed preparation after primary tillage in variety development"],
     correct: 0,
     explanation: "Primary tillage is the initial deep tillage of the soil after harvest (or before planting) using ploughs to break, invert and loosen the soil to a depth of 15–30 cm. Secondary tillage refines the seedbed afterward."
   },
@@ -658,7 +658,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "A tandem disc harrow differs from an offset disc harrow in that:",
-    options: ["Tandem has two gangs in line (front gang throws soil outward, rear throws inward); offset has the gangs shifted to one side", "Tandem has all discs in one gang; offset has discs in two gangs set at opposite angles", "Tandem discs are flat; offset discs are concave", "Tandem is pulled by animals; offset is tractor-drawn"],
+    options: ["Tandem has two gangs in line (front gang throws soil outward, rear throws inward); offset has", "Tandem has all discs in one gang; offset has discs in two gangs set at opposite angles", "Tandem discs are flat; offset discs are concave in plant breeding", "Tandem is pulled by animals; offset is tractor-drawn for crop improvement"],
     correct: 0,
     explanation: "In a tandem disc harrow, two gangs are arranged in tandem: the front gang throws soil outward and the rear gang throws it back inward, giving a more even soil finish. An offset disc harrow has all gangs shifted to one side, leaving the tractor out of tilled soil."
   },
@@ -678,7 +678,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "A spring-tyne cultivator is preferred over a rigid-tyne cultivator in:",
-    options: ["Stony or hard soils where tynes might break", "Wet paddy field intercultivation", "Deep ploughing operations", "Primary tillage after harvest"],
+    options: ["Stony or hard soils where tynes might break", "Wet paddy field intercultivation in plant breeding", "Deep ploughing operations for crop improvement", "Primary tillage after harvest in variety development"],
     correct: 0,
     explanation: "Spring-tyne cultivators have flexible spring-steel tynes that deflect when they hit stones or hard clods, preventing breakage. Rigid-tyne cultivators are better for loose soils. Spring tynes also have a vibrating action that helps break clods."
   },
@@ -688,7 +688,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Secondary tillage is carried out primarily to:",
-    options: ["Turn and invert the soil for pest control", "Prepare a fine seedbed, incorporate fertilisers and control weeds", "Form drainage channels", "Break subsoil hardpan"],
+    options: ["Turn and invert the soil for pest control", "Prepare a fine seedbed, incorporate fertilisers and control weeds", "Form drainage channels in plant breeding", "Break subsoil hardpan for crop improvement"],
     correct: 1,
     explanation: "Secondary tillage (harrowing, cultivating) follows primary tillage to break clods, prepare a fine and firm seedbed, incorporate manure and fertilisers, and control weeds before sowing. It is shallower than primary tillage."
   },
@@ -708,7 +708,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Inter-row cultivators are used at which crop growth stage?",
-    options: ["After sowing, between rows, to control weeds and aerate the soil", "Before sowing for seedbed preparation", "At harvesting time to loosen the soil", "During the first irrigation for soil cracking"],
+    options: ["After sowing, between rows, to control weeds and aerate the soil", "Before sowing for seedbed preparation in plant breeding", "At harvesting time to loosen the soil for crop improvement", "During the first irrigation for soil cracking in variety development"],
     correct: 0,
     explanation: "Intercultivation (inter-row cultivation) is done after crop establishment between rows to control weeds, break soil crust, aerate the rhizosphere and conserve moisture. It should not disturb crop roots."
   },
@@ -718,7 +718,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "A ridger (furrower) is used for:",
-    options: ["Harvesting root crops", "Levelling the field before sowing", "Forming ridges and furrows for planting row crops and irrigation", "Primary deep ploughing"],
+    options: ["Harvesting root crops in plant breeding", "Levelling the field before sowing for crop improvement", "Forming ridges and furrows for planting row crops and irrigation", "Primary deep ploughing in variety development"],
     correct: 2,
     explanation: "A ridger forms ridges (raised beds) and furrows in the field for planting row crops (sugarcane, cotton, maize), facilitating furrow irrigation between rows and providing good drainage to plant roots."
   },
@@ -738,7 +738,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "In a disc harrow, what determines the depth of penetration?",
-    options: ["Diameter of discs and angle at which they are set", "Speed of the tractor only", "Number of discs in the gang", "Length of the harrow frame"],
+    options: ["Diameter of discs and angle at which they are set", "Speed of the tractor only in plant breeding", "Number of discs in the gang for crop improvement", "Length of the harrow frame in variety development"],
     correct: 0,
     explanation: "Disc harrow penetration depth depends on disc diameter (larger discs penetrate deeper), disc concavity, gang angle (larger angle = more aggressive), soil condition, and ballast weight. Speed has a minor effect."
   },
@@ -768,7 +768,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "The number of passes of secondary tillage implements required after primary tillage depends on:",
-    options: ["Initial clod size, soil moisture content and required seedbed fineness", "Brand of tractor used", "Number of workers available", "Colour of the soil"],
+    options: ["Initial clod size, soil moisture content and required seedbed fineness", "Brand of tractor used in plant breeding", "Number of workers available for crop improvement", "Colour of the soil in variety development"],
     correct: 0,
     explanation: "More passes are needed when clods are large, soil is very dry or wet, or when a very fine seedbed is required (e.g., for small-seeded crops). Over-tillage destroys soil structure and wastes fuel and time."
   },
@@ -778,7 +778,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Conservation tillage (minimum tillage / zero tillage) is practised to:",
-    options: ["Invert soil for better weed burial", "Reduce soil disturbance, conserve moisture and reduce erosion", "Increase tractor usage", "Maximise number of tillage passes"],
+    options: ["Invert soil for better weed burial", "Reduce soil disturbance, conserve moisture and reduce erosion", "Increase tractor usage in plant breeding", "Maximise number of tillage passes"],
     correct: 1,
     explanation: "Conservation tillage minimises soil disturbance, leaving at least 30% crop residue cover, to conserve soil moisture, reduce erosion, improve soil biology and reduce energy costs. Zero tillage drills seed directly into undisturbed soil."
   },
@@ -798,7 +798,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "A blade harrow (sweep) used in dryland farming primarily:",
-    options: ["Cuts weeds below the surface without disturbing the soil much", "Creates ridges for irrigation", "Cuts soil deep and inverts it", "Pulverises surface into fine tilth"],
+    options: ["Cuts weeds below the surface without disturbing the soil much", "Creates ridges for irrigation in plant breeding", "Cuts soil deep and inverts it for crop improvement", "Pulverises surface into fine tilth in variety development"],
     correct: 0,
     explanation: "Blade harrows (duck-foot or sweep cultivators) have flat, V-shaped blades that cut weeds just below the soil surface without inverting the soil, conserving surface mulch for moisture retention in dryland areas."
   },
@@ -808,7 +808,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "What is the main purpose of 'earthing up' in sugarcane cultivation?",
-    options: ["Removing excess soil from roots", "Making ridges for drainage only", "Aerating roots by removing soil", "Building up soil around the base of sugarcane plants to support stalks and cover fertiliser"],
+    options: ["Removing excess soil from roots in plant breeding according to plant breeding and genetics science principles", "Making ridges for drainage only according to plant breeding and genetics science principles", "Aerating roots by removing soil in variety development according to plant breeding and genetics science principles", "Building up soil around the base of sugarcane plants to support stalks and cover fertiliser"],
     correct: 3,
     explanation: "Earthing up (banking up) in sugarcane uses a ridger to build soil around the base of cane plants at 30–45 days. This supports tall stalks, covers applied fertiliser, suppresses weeds and improves drainage."
   },
@@ -830,7 +830,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "A zero-till drill (ZTD) is designed to:",
-    options: ["Apply fertiliser without seeds", "Plough deep before sowing", "Sow seeds directly into undisturbed crop residue without prior tillage", "Plant rice seedlings in puddle mud"],
+    options: ["Apply fertiliser without seeds in plant breeding", "Plough deep before sowing for crop improvement", "Sow seeds directly into undisturbed crop residue without prior tillage", "Plant rice seedlings in puddle mud"],
     correct: 2,
     explanation: "A zero-till drill cuts through crop residue and undisturbed soil using narrow inverted-T or disc openers, places seeds and fertiliser at correct depth and spacing without any prior tillage. It saves time, fuel and moisture."
   },
@@ -850,7 +850,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Seed rate adjustment in a seed drill is achieved by:",
-    options: ["Changing tractor speed only", "Adjusting the furrow opener angle", "Varying the exposed length of the fluted roller or changing the gear ratio on ground wheel", "Changing seed hopper size"],
+    options: ["Changing tractor speed only in plant breeding", "Adjusting the furrow opener angle for crop improvement", "Varying the exposed length of the fluted roller", "Changing seed hopper size in variety development"],
     correct: 2,
     explanation: "Seed rate is adjusted by changing the effective length of the fluted/force-feed roller exposed to the seed flow, or by changing sprocket/gear ratios on the ground wheel drive. Both methods change seeds delivered per unit area."
   },
@@ -860,7 +860,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "A precision planter differs from a seed drill in that it:",
-    options: ["Broadcasts seeds uniformly", "Places individual seeds at pre-set spacing within the row, reducing need for thinning", "Sows only in puddled soils", "Sows seeds in rows at uniform spacing"],
+    options: ["Broadcasts seeds uniformly in plant breeding according to plant breeding and genetics science principles", "Places individual seeds at pre-set spacing within the row, reducing need for thinning", "Sows only in puddled soils for crop improvement", "Sows seeds in rows at uniform spacing in variety development"],
     correct: 1,
     explanation: "A precision planter (cell wheel or air planter) places individual seeds at exact within-row spacing (e.g., one seed every 20–30 cm), eliminating the need for thinning. Seed drills sow continuously without inter-seed spacing control."
   },
@@ -870,7 +870,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "The function of press wheels (covering wheels) in a seed drill is to:",
-    options: ["Drive the seed metering mechanism", "Apply fertiliser beside the seed", "Open the furrow for seed placement", "Cover seeds with soil and ensure good seed-soil contact"],
+    options: ["Drive the seed metering mechanism in plant breeding", "Apply fertiliser beside the seed for crop improvement", "Open the furrow for seed placement", "Cover seeds with soil and ensure good seed-soil contact"],
     correct: 3,
     explanation: "Press/covering wheels close the furrow over seeds and firm the soil around them, ensuring good seed-soil contact for capillary moisture movement and uniform germination. They follow the furrow openers."
   },
@@ -890,7 +890,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "The seed-cum-fertiliser drill places fertiliser:",
-    options: ["On top of seeds", "Broadcast on the surface", "Separately below and to the side of the seed", "Mixed with seeds in the same furrow"],
+    options: ["On top of seeds in plant breeding", "Broadcast on the surface for crop improvement", "Separately below and to the side of the seed", "Mixed with seeds in the same furrow"],
     correct: 2,
     explanation: "A seed-cum-fertiliser drill places fertiliser 2–3 cm below and 3–5 cm to the side of the seed furrow (band placement). This placement prevents seed burn from direct fertiliser contact while keeping nutrients near the root zone."
   },
@@ -910,7 +910,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Air seeder (pneumatic seed drill) uses air to:",
-    options: ["Clean seeds before sowing", "Germinate seeds in the field", "Transport seeds from the hopper to the furrow openers through tubes", "Apply herbicides with seeds"],
+    options: ["Clean seeds before sowing in plant breeding", "Germinate seeds in the field for crop improvement", "Transport seeds from the hopper to the furrow openers through tubes", "Apply herbicides with seeds in variety development"],
     correct: 2,
     explanation: "Pneumatic/air seeders use a fan/blower to create an airstream that carries seeds metered by a central meter through flexible tubes to individual row units. This allows a single, large central hopper and even seed distribution at high speed."
   },
@@ -950,7 +950,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Which instrument is used to calibrate a seed drill before field operation?",
-    options: ["Refractometer", "Soil test kit", "Hygrometer", "Canvas sheet or collection tray to count seeds dropped in measured revolutions"],
+    options: ["Refractometer in plant breeding according to plant breeding and genetics science principles", "Soil test kit according to plant breeding and genetics science principles", "Hygrometer in variety development according to plant breeding and genetics science principles", "Canvas sheet or collection tray to count seeds dropped in measured revolutions"],
     correct: 3,
     explanation: "A seed drill is calibrated by driving the ground wheel (with rear raised) for a measured number of revolutions or distance, collecting seeds on a canvas sheet, counting/weighing them and comparing to target seed rate, then adjusting roller length."
   },
@@ -960,7 +960,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "The 'Happy Seeder' is a specialised zero-till seeder designed to:",
-    options: ["Plant sugarcane sets mechanically", "Transplant paddy seedlings in rows", "Sow small vegetable seeds in raised beds", "Sow wheat directly into standing paddy stubble without prior burning"],
+    options: ["Plant sugarcane sets mechanically in plant breeding", "Transplant paddy seedlings in rows for crop improvement", "Sow small vegetable seeds in raised beds", "Sow wheat directly into standing paddy stubble without prior burning"],
     correct: 3,
     explanation: "The Happy Seeder simultaneously cuts and anchors paddy straw, and sows wheat seeds directly into the stubble field without burning. It significantly reduces stubble burning, saves time, and maintains soil health."
   },
@@ -970,7 +970,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "A drum seeder for direct-seeded rice sows pre-germinated seeds by:",
-    options: ["Drilling seeds into puddled soil with furrow openers", "Rolling perforated drums that release seeds in rows on puddled soil surface", "Broadcasting seeds from a hopper", "Transplanting seedlings from a mat"],
+    options: ["Drilling seeds into puddled soil with furrow openers", "Rolling perforated drums that release seeds in rows on puddled soil surface", "Broadcasting seeds from a hopper in plant breeding", "Transplanting seedlings from a mat for crop improvement"],
     correct: 1,
     explanation: "A drum seeder consists of perforated plastic/metal drums that roll on the puddled field surface, depositing pre-germinated rice seeds through holes in rows 20–25 cm apart. It is simple, low-cost and suitable for small farms."
   },
@@ -1002,7 +1002,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "A mist blower (motorised knapsack mist-duster) differs from a power sprayer in that it:",
-    options: ["Applies only dry dust formulations", "Requires no engine", "Uses high pressure to atomise liquid", "Uses a high-speed air blast to break liquid into fine mist and carry it to the canopy"],
+    options: ["Applies only dry dust formulations in plant breeding", "Requires no engine for crop improvement", "Uses high pressure to atomise liquid in variety development", "Uses a high-speed air blast to break liquid into"],
     correct: 3,
     explanation: "A mist blower uses a centrifugal blower/fan to generate a high-velocity air stream that atomises the spray liquid into fine mist droplets (50–100 µm) and carries them into the crop canopy. This provides better penetration than hydraulic sprayers in dense canopies."
   },
@@ -1012,7 +1012,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Sprayer calibration refers to:",
-    options: ["Adjusting the pH of the spray solution", "Selecting the type of pesticide to use", "Determining and adjusting the volume of spray liquid applied per unit area", "Cleaning the nozzles after use"],
+    options: ["Adjusting the pH of the spray solution in plant breeding", "Selecting the type of pesticide to use for crop improvement", "Determining and adjusting the volume of spray liquid applied per unit area", "Cleaning the nozzles after use in variety development"],
     correct: 2,
     explanation: "Sprayer calibration is the process of determining (measuring) and adjusting the spray volume applied per unit area (litres/ha) to match the recommended dose. It involves nozzle output rate, forward speed and swath width."
   },
@@ -1022,7 +1022,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "The hollow cone nozzle is most suitable for:",
-    options: ["Granule application", "Soil incorporation of herbicides", "Fungicide application on fruits and vegetables requiring penetration into canopy", "Band application of pesticides"],
+    options: ["Granule application in plant breeding according to plant breeding and genetics science principles", "Soil incorporation of herbicides for crop improvement", "Fungicide application on fruits and vegetables requiring penetration into canopy", "Band application of pesticides in variety development"],
     correct: 2,
     explanation: "Hollow cone nozzles produce a circular, hollow cone pattern with fine droplets. They are preferred for fungicide applications on fruits, vegetables and dense canopies as the fine droplets penetrate well and cover all leaf surfaces."
   },
@@ -1032,7 +1032,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "What is the main advantage of a boom sprayer over a knapsack sprayer?",
-    options: ["Lower cost", "Wider field coverage per unit time with uniform application", "Works without a power source", "No need for water"],
+    options: ["Lower cost in plant breeding", "Wider field coverage per unit time with uniform application", "Works without a power source", "No need for water for crop improvement"],
     correct: 1,
     explanation: "Boom sprayers cover swaths of 6–24 m wide using multiple nozzles on a horizontal boom, achieving very high output (20–50 ha/day). Knapsack sprayers cover only 0.5–1 ha/day. Boom sprayers also give more uniform application."
   },
@@ -1042,7 +1042,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Droplet size in spraying: smaller droplets (< 100 µm) have which disadvantage?",
-    options: ["Poor coverage of leaf surface", "Too heavy to be carried by the pump", "Greater risk of drift and evaporation before reaching the target", "They cannot carry systemic pesticides"],
+    options: ["Poor coverage of leaf surface in plant breeding", "Too heavy to be carried by the pump", "Greater risk of drift and evaporation before reaching the target", "They cannot carry systemic pesticides for crop improvement"],
     correct: 2,
     explanation: "Very fine droplets (<100 µm) are susceptible to wind drift (they remain airborne longer) and evaporate before reaching the target, reducing efficacy and causing off-target contamination. Coarser droplets (200–400 µm) are less drift-prone."
   },
@@ -1052,7 +1052,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "An ultra-low volume (ULV) sprayer applies pesticide at:",
-    options: ["Moderate volume (200–500 L/ha)", "Only as dry dust", "High volume (>500 L/ha) in water", "Very low volume (0.5–5 L/ha) of concentrated formulation"],
+    options: ["Moderate volume (200–500 L/ha) in plant breeding", "Only as dry dust for crop improvement", "High volume (>500 L/ha) in water", "Very low volume (0.5–5 L/ha) of concentrated formulation"],
     correct: 3,
     explanation: "ULV sprayers apply 0.5–5 litres per hectare of highly concentrated pesticide formulation (oil-based) using spinning disc atomisers to produce very fine, uniform droplets. They are used in aerial and large-scale applications."
   },
@@ -1062,7 +1062,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "What safety equipment is mandatory when operating a knapsack sprayer with toxic pesticides?",
-    options: ["Sunglasses and hat", "Life jacket", "Helmet and boots only", "Gloves, face shield/goggles, protective clothing, and respirator/mask"],
+    options: ["Sunglasses and hat in plant breeding", "Life jacket for crop improvement", "Helmet and boots only", "Gloves, face shield/goggles, protective clothing, and respirator/mask"],
     correct: 3,
     explanation: "When applying toxic pesticides, the operator must wear chemical-resistant gloves, face shield or goggles, protective coverall, boots, and respirator/nose-mouth mask to prevent dermal absorption, eye splash and inhalation of pesticide vapours."
   },
@@ -1072,7 +1072,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "A duster (power duster) is used when:",
-    options: ["Pesticide formulation is in dust form and dry application is required", "Application is in flooded field only", "Very high pressure spraying is needed", "Pesticide must be dissolved in water first"],
+    options: ["Pesticide formulation is in dust form and dry application is required", "Application is in flooded field only in plant breeding", "Very high pressure spraying is needed for crop improvement", "Pesticide must be dissolved in water first in variety development"],
     correct: 0,
     explanation: "Power dusters apply dry pesticide dust formulations (WP, DP) directly using a blower. Dusting is faster than spraying (no water needed), useful when water is scarce, but dust drift and coverage are less precise."
   },
@@ -1082,7 +1082,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "The formula for calculating spray volume (L/ha) from a boom sprayer is:",
-    options: ["Nozzle output (L/min) ÷ (Speed × Swath)", "Speed × Swath ÷ Nozzle output", "Nozzle output (L/min) × 600 ÷ (Speed km/h × Swath m)", "Nozzle output × Pressure × Swath"],
+    options: ["Nozzle output (L/min) ÷ (Speed × Swath) in plant breeding", "Speed × Swath ÷ Nozzle output for crop improvement", "Nozzle output (L/min) × 600 ÷ (Speed km/h × Swath m)", "Nozzle output × Pressure × Swath in variety development"],
     correct: 2,
     explanation: "Application rate (L/ha) = [Nozzle output (L/min) × 600] ÷ [Forward speed (km/h) × Nozzle spacing (m)]. This formula converts per-minute nozzle output to per-hectare volume based on travel speed and coverage width."
   },
@@ -1092,7 +1092,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Drone sprayers in modern agriculture offer the advantage of:",
-    options: ["Applying fertiliser to soil only", "Deep soil penetration like a plough", "No requirement for pesticide formulation", "Aerial application in tall/inaccessible crops with GPS guidance and reduced labour"],
+    options: ["Applying fertiliser to soil only in plant breeding", "Deep soil penetration like a plough for crop improvement", "No requirement for pesticide formulation in variety development", "Aerial application in tall/inaccessible crops with GPS guidance and reduced labour"],
     correct: 3,
     explanation: "Agricultural drones (UAV sprayers) can spray pesticides, fungicides and nano-fertilisers from above the crop canopy with GPS precision, especially in tall or hilly crops inaccessible to ground sprayers. They save labour and reduce operator exposure."
   },
@@ -1112,7 +1112,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Triple rinsing of pesticide containers before disposal means:",
-    options: ["Filling with pesticide three times for reuse", "Washing with three different solvents", "Washing with soap three times", "Adding water three times, shaking and emptying into the sprayer tank, each rinse"],
+    options: ["Filling with pesticide three times for reuse in plant breeding", "Washing with three different solvents for crop improvement", "Washing with soap three times in variety development", "Adding water three times, shaking and emptying into the sprayer tank, each rinse"],
     correct: 3,
     explanation: "Triple rinsing involves adding a small volume of water to the empty container, shaking well and pouring the rinse water into the sprayer tank — repeated three times. This recovers 99.9% of residual pesticide and prevents container contamination."
   },
@@ -1122,7 +1122,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "A flood jet nozzle is used for applying:",
-    options: ["Herbicides in coarse droplets directly to soil (pre-emergence) or as band spray", "Insecticides in orchards", "Fungicides in fine mist on leaf surface", "Fertiliser solution at high pressure"],
+    options: ["Herbicides in coarse droplets directly to soil (pre-emergence) or as band spray", "Insecticides in orchards in plant breeding", "Fungicides in fine mist on leaf surface for crop improvement", "Fertiliser solution at high pressure in variety development"],
     correct: 0,
     explanation: "Flood jet (even-flat-fan) nozzles produce large, coarse droplets that reduce drift, ideal for pre-emergence herbicide applications where soil coverage rather than leaf coverage is needed, and where drift to adjacent crops is a concern."
   },
@@ -1132,7 +1132,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "The 'swath width' in boom spraying refers to:",
-    options: ["Width of the tractor", "Width of land covered per pass by the sprayer (determined by number and spacing of nozzles)", "Depth of spray penetration into the canopy", "Length of the boom pipe"],
+    options: ["Width of the tractor in plant breeding", "Width of land covered per pass by the sprayer", "Depth of spray penetration into the canopy for crop improvement", "Length of the boom pipe in variety development"],
     correct: 1,
     explanation: "Swath width is the effective width of crop covered per pass, equal to the number of nozzles × nozzle spacing. A boom with 12 nozzles at 50 cm spacing has a 6 m swath. It determines field capacity along with forward speed."
   },
@@ -1144,7 +1144,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "The impeller of a centrifugal pump:",
-    options: ["Filters sediment from irrigation water", "Controls water flow rate at the outlet", "Reciprocates to push water through valves", "Rotates at high speed to impart velocity and centrifugal force to water"],
+    options: ["Filters sediment from irrigation water in plant breeding", "Controls water flow rate at the outlet for crop improvement", "Reciprocates to push water through valves in variety development", "Rotates at high speed to impart velocity and centrifugal force to water"],
     correct: 3,
     explanation: "The impeller is the rotating element of a centrifugal pump. It has vanes that spin at high speed, imparting velocity (kinetic energy) to water by centrifugal action. The diffuser/volute then converts velocity to pressure head."
   },
@@ -1154,7 +1154,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "A submersible pump differs from a centrifugal pump in that it:",
-    options: ["Uses only wind energy", "Is installed below water level in the borewell; motor and pump are in one sealed unit", "Cannot pump more than 1 m3/hr", "Is installed at the surface; pump and motor are separate"],
+    options: ["Uses only wind energy in plant breeding according to plant breeding and genetics science principles", "Is installed below water level in the borewell; motor and pump are in one sealed unit", "Cannot pump more than 1 m3/hr according to plant breeding and genetics science principles", "Is installed at the surface; pump and motor are separate in variety development"],
     correct: 1,
     explanation: "A submersible pump has the motor and pump combined in one sealed, waterproof unit installed below the water surface in borewells/deepwells. Water cools the motor. This is preferred for borewells where the water table is deep."
   },
@@ -1184,7 +1184,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "The hydraulic head (total head) a pump must overcome is the sum of:",
-    options: ["Suction head only", "Suction lift + delivery head + friction losses + velocity head", "Only pipe friction losses", "Delivery head minus suction head"],
+    options: ["Suction head only in plant breeding according to plant breeding and genetics science principles", "Suction lift + delivery head + friction losses + velocity head", "Only pipe friction losses for crop improvement", "Delivery head minus suction head in variety development"],
     correct: 1,
     explanation: "Total head = static head (suction lift + delivery height) + friction head losses in pipes and fittings + velocity head (minor term). The pump must develop sufficient head to lift water from source to delivery point against all these resistances."
   },
@@ -1194,7 +1194,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Cavitation in a centrifugal pump occurs when:",
-    options: ["Suction head is too high and water vaporises at the inlet, forming bubbles that implode", "Too much water is available", "Water temperature is too cold", "The impeller speed is too low"],
+    options: ["Suction head is too high and water vaporises at the inlet, forming bubbles that implode", "Too much water is available in plant breeding according to plant breeding and genetics science principles", "Water temperature is too cold according to plant breeding and genetics science principles", "The impeller speed is too low in variety development"],
     correct: 0,
     explanation: "Cavitation occurs when suction lift is too high or suction line is obstructed, causing pressure at the impeller eye to fall below the vapour pressure of water. Vapour bubbles form and then implode violently, causing noise, vibration, and impeller damage."
   },
@@ -1214,7 +1214,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Micro-sprinklers (mini sprinklers) are best suited for:",
-    options: ["Large field crops like wheat", "Greenhouse cooling only", "Orchards and horticultural crops requiring targeted irrigation close to trees", "Paddy fields"],
+    options: ["Large field crops like wheat in plant breeding", "Greenhouse cooling only for crop improvement", "Orchards and horticultural crops requiring targeted irrigation close to trees", "Paddy fields in variety development according to plant breeding and genetics science principles"],
     correct: 2,
     explanation: "Micro-sprinklers/mini sprinklers irrigate a small radius (1–3 m) around individual trees in orchards. They provide more uniform wetting than drip (covers wider area) but use less water than conventional sprinklers, ideal for fruit trees."
   },
@@ -1224,7 +1224,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Fertigation refers to:",
-    options: ["Soil testing before fertiliser application", "Applying fertilisers by broadcasting", "Injecting soluble fertilisers into the irrigation system for simultaneous application with water", "Fermenting organic matter for fertiliser"],
+    options: ["Soil testing before fertiliser application in plant breeding", "Applying fertilisers by broadcasting for crop improvement", "Injecting soluble fertilisers into the irrigation system for simultaneous application with water", "Fermenting organic matter for fertiliser in variety development"],
     correct: 2,
     explanation: "Fertigation is the application of water-soluble fertilisers through the drip or sprinkler irrigation system. It improves nutrient use efficiency (NUE) by placing nutrients precisely in the root zone at the right time, reducing losses."
   },
@@ -1234,7 +1234,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "The discharge of a centrifugal pump is expressed in:",
-    options: ["Kilograms per second", "Litres per second (L/s) or cubic metres per hour (m³/hr)", "Metres of head", "Kilowatts"],
+    options: ["Kilograms per second in plant breeding", "Litres per second (L/s) or cubic metres per hour (m³/hr)", "Metres of head for crop improvement", "Kilowatts in variety development according to plant breeding and genetics science principles"],
     correct: 1,
     explanation: "Pump discharge (flow rate) is measured in litres per second (L/s), litres per minute (L/min) or m³/hour. Head is measured in metres. Power is in kilowatts. These three (flow rate, head, power) define pump performance."
   },
@@ -1254,7 +1254,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "The application rate of a sprinkler system must be less than:",
-    options: ["The wind speed", "The crop evapotranspiration rate", "The atmospheric humidity", "The soil's basic infiltration rate (to avoid runoff and ponding)"],
+    options: ["The wind speed in plant breeding", "The crop evapotranspiration rate for crop improvement", "The atmospheric humidity in variety development", "The soil's basic infiltration rate (to avoid runoff and ponding)"],
     correct: 3,
     explanation: "The sprinkler application rate (mm/hr) must not exceed the soil's steady-state (basic) infiltration rate. If application is faster than infiltration, water ponds on the surface, causes runoff and erosion, and reduces efficiency."
   },
@@ -1274,7 +1274,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "A filter in a drip irrigation system is essential to:",
-    options: ["Increase water pressure", "Add fertiliser to the water", "Control timing of irrigation", "Prevent clogging of emitters by removing suspended particles and algae"],
+    options: ["Increase water pressure in plant breeding", "Add fertiliser to the water for crop improvement", "Control timing of irrigation in variety development", "Prevent clogging of emitters by removing suspended particles and algae"],
     correct: 3,
     explanation: "Drip emitters have very small openings (0.5–1.5 mm) that clog easily with sand, silt, algae and mineral deposits. Screen, disc or sand media filters are mandatory to remove particles >130 µm before the water enters the lateral lines."
   },
@@ -1294,7 +1294,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "An axial flow (propeller) pump is best suited for:",
-    options: ["Deep borewell applications", "Very high head, low discharge applications", "Very low head, very high discharge (drainage, flood irrigation)", "Sprinkler irrigation requiring 5–7 bar"],
+    options: ["Deep borewell applications in plant breeding", "Very high head, low discharge applications", "Very low head, very high discharge (drainage, flood irrigation)", "Sprinkler irrigation requiring 5–7 bar for crop improvement"],
     correct: 2,
     explanation: "Axial flow (propeller) pumps move large volumes of water at very low heads (1–5 m). They are ideal for drainage, flood irrigation, and pumping from rivers or canals where the static lift is very small but high flow rates are required."
   },
@@ -1306,7 +1306,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "The cutter bar on a reaper/combine harvester operates using:",
-    options: ["Rotating blades like a lawn mower", "Laser cutting", "Reciprocating sickle sections between stationary counter-cutters (finger bars)", "Flails on a rotating drum"],
+    options: ["Rotating blades like a lawn mower", "Laser cutting in plant breeding", "Reciprocating sickle sections between stationary counter-cutters (finger bars)", "Flails on a rotating drum"],
     correct: 2,
     explanation: "The cutter bar uses reciprocating (back-and-forth) knife sections mounted between fixed guards/counter-cutters to shear the crop stem. The knife is driven by a pitman arm or wobble box mechanism from the PTO or ground drive."
   },
@@ -1316,7 +1316,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "A combine harvester combines which three operations?",
-    options: ["Threshing, drying and bagging", "Cutting, baling and transport", "Harvesting (cutting), threshing and cleaning/separation in one pass", "Ploughing, sowing and harvesting"],
+    options: ["Threshing, drying and bagging in plant breeding", "Cutting, baling and transport for crop improvement", "Harvesting (cutting), threshing and cleaning/separation in one pass", "Ploughing, sowing and harvesting in variety development"],
     correct: 2,
     explanation: "A combine harvester simultaneously performs: (1) Cutting – header cuts the crop, (2) Threshing – threshing drum/cylinder separates grain from straw, (3) Separation/Cleaning – sieves and fans separate grain from chaff."
   },
@@ -1336,7 +1336,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "The 'header' on a combine harvester includes:",
-    options: ["Reel, cutter bar, auger and feeder house for gathering and conveying cut crop to threshing unit", "Only the threshing drum", "The grain tank and auger only", "The cleaning sieves"],
+    options: ["Reel, cutter bar, auger and feeder house for gathering", "Only the threshing drum in plant breeding", "The grain tank and auger only for crop improvement", "The cleaning sieves in variety development"],
     correct: 0,
     explanation: "The header includes: (1) Crop reel – gathers and holds crop against cutter bar, (2) Cutter bar – cuts the crop, (3) Platform auger – consolidates cut crop towards the centre, (4) Feeder house – elevates crop to the threshing unit."
   },
@@ -1346,7 +1346,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "A paddy (axial flow) thresher uses which principle to separate grain from panicle?",
-    options: ["Beating with hammers", "Electrostatic separation", "Sucking grain with a fan", "Rubbing and impact between rotating rasp bars and concave"],
+    options: ["Beating with hammers in plant breeding", "Electrostatic separation for crop improvement", "Sucking grain with a fan", "Rubbing and impact between rotating rasp bars and concave"],
     correct: 3,
     explanation: "Axial flow paddy threshers use rotating rasp bars or spike-tooth cylinders that rub and impact the paddy panicles against a concave (wire/bar), separating grains by impact, rubbing and stripping action. Some use wire-loop cylinders."
   },
@@ -1356,7 +1356,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "The cleaning unit in a combine harvester uses:",
-    options: ["Cyclones only", "Magnets to separate grain", "Only water to wash grain", "Wind from a fan and oscillating sieves to separate grain from chaff and short straw"],
+    options: ["Cyclones only in plant breeding", "Magnets to separate grain for crop improvement", "Only water to wash grain in variety development", "Wind from a fan and oscillating sieves"],
     correct: 3,
     explanation: "The cleaning unit uses an adjustable fan (winnowing) and two oscillating sieves (upper: chaffer sieve, lower: grain sieve). The fan blows chaff, light material and dust away while grain sifts through the sieves to the grain auger below."
   },
@@ -1366,7 +1366,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "A grain auger (elevator) in a combine harvester:",
-    options: ["Cuts and transports straw", "Drives the threshing drum", "Conveys threshed and cleaned grain from sieves to the grain tank", "Applies herbicide to harvested grain"],
+    options: ["Cuts and transports straw in plant breeding", "Drives the threshing drum for crop improvement", "Conveys threshed and cleaned grain from sieves to the grain tank", "Applies herbicide to harvested grain in variety development"],
     correct: 2,
     explanation: "The grain auger (also called the clean grain elevator) is a screw conveyor that transports cleaned, threshed grain from the cleaning unit below up to the grain storage tank on top of the combine harvester."
   },
@@ -1376,7 +1376,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Harvesting losses in a combine harvester are classified as:",
-    options: ["Only grain tank losses", "Header losses (cutterbar, reel), threshing losses, and separation/cleaning losses", "Only header losses", "Fuel losses only"],
+    options: ["Only grain tank losses in plant breeding", "Header losses (cutterbar, reel), threshing losses, and separation/cleaning losses", "Only header losses for crop improvement", "Fuel losses only in variety development"],
     correct: 1,
     explanation: "Combine harvesting losses include: Header losses (shatter from reel, cutting and conveying), Threshing losses (unthreshed grain), and Separation/cleaning losses (grain blown or carried over with straw/chaff). Total losses should be <1% for cereals."
   },
@@ -1386,7 +1386,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "A self-propelled combine is preferred over a tractor-drawn combine because:",
-    options: ["It can harvest crops at any moisture content without adjustments", "It has better manoeuvrability, wider cut, and the operator has better visibility and control", "It requires no skilled operator", "It is cheaper to purchase"],
+    options: ["It can harvest crops at any moisture content without adjustments", "It has better manoeuvrability, wider cut, and the operator has better visibility and control", "It requires no skilled operator in plant breeding according to plant breeding and genetics science principles", "It is cheaper to purchase according to plant breeding and genetics science principles"],
     correct: 1,
     explanation: "Self-propelled combines have the cab and controls integrated with the harvesting unit, giving the operator better visibility of the header, easier manoeuvring, wider cutting widths (5–9 m) and smoother power transmission than PTO-driven tractor-drawn models."
   },
@@ -1406,7 +1406,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "The concave clearance in a threshing unit of a combine is adjusted to:",
-    options: ["Control the gap between cylinder and concave, affecting threshing intensity and grain damage", "Control fan speed for cleaning", "Change the width of the header", "Set the height of the reel"],
+    options: ["Control the gap between cylinder and concave, affecting threshing intensity and grain damage", "Control fan speed for cleaning in plant breeding", "Change the width of the header for crop improvement", "Set the height of the reel in variety development"],
     correct: 0,
     explanation: "Concave clearance (gap between the rotating threshing cylinder and the fixed concave) determines threshing intensity. Smaller gap → more aggressive threshing (may damage grain); larger gap → gentler threshing (may leave unthreshed grain). Adjusted by crop type."
   },
@@ -1416,7 +1416,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "A crop reaper-binder simultaneously cuts the crop and:",
-    options: ["Ties cut crop into bundles with twine for collection and stooking", "Loads bundles onto a trailer automatically", "Applies herbicide to cut stubble", "Threshes and cleans the grain"],
+    options: ["Ties cut crop into bundles with twine for collection and stooking", "Loads bundles onto a trailer automatically in plant breeding", "Applies herbicide to cut stubble for crop improvement", "Threshes and cleans the grain in variety development"],
     correct: 0,
     explanation: "A reaper-binder cuts the standing crop with a reciprocating cutter bar, gathers it with a conveyor canvas and ties it into bundles with sisal or synthetic twine using a knotter mechanism. Bundles are ejected for manual collection."
   },
@@ -1426,7 +1426,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Which component of the paddy thresher is responsible for separating grain from straw after threshing?",
-    options: ["Concave only", "Straw walker and cleaning fan (aspirator)", "The feed conveyor", "The grain elevator"],
+    options: ["Concave only in plant breeding", "Straw walker and cleaning fan (aspirator)", "The feed conveyor", "The grain elevator"],
     correct: 1,
     explanation: "After the cylinder threshes paddy, the straw walker (a series of oscillating or rotating beaters) and a cleaning fan/aspirator blow chaff and light straw away while heavier grain falls through the perforated concave and sieves to the grain outlet."
   },
@@ -1436,7 +1436,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Track-type (crawler) combine harvesters are designed for:",
-    options: ["Orchard harvesting under trees", "Harvesting tall sorghum", "Dry upland wheat harvesting", "Wet paddy fields where wheeled combines would sink or slip"],
+    options: ["Orchard harvesting under trees in plant breeding", "Harvesting tall sorghum for crop improvement", "Dry upland wheat harvesting in variety development", "Wet paddy fields where wheeled combines would sink or slip"],
     correct: 3,
     explanation: "Track-type (crawler) combine harvesters distribute the machine weight over a large track area, preventing sinking in wet, muddy paddy fields. They are widely used in West Bengal, Eastern India and Southeast Asia for wet paddy harvesting."
   },
@@ -1446,7 +1446,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Groundnut combine (digger-shaker-windrower) does which operation first?",
-    options: ["Picks pods from the soil and threshes on the spot", "Sprays fungicide on pods", "Broadcasts seeds for the next crop", "Digs the groundnut plants from the soil, shakes off soil and lays them in windrows for drying"],
+    options: ["Picks pods from the soil and threshes on the spot in plant breeding", "Sprays fungicide on pods according to plant breeding and genetics science principles", "Broadcasts seeds for the next crop in variety development according to plant breeding and genetics science principles", "Digs the groundnut plants from the soil, shakes off soil and lays them in windrows for drying"],
     correct: 3,
     explanation: "A groundnut digger-shaker-windrower first uses blades/shares to dig the plant out of soil, then shakers remove loose soil from roots and pods, and the machine winrows the dug plants for field drying before pod stripping."
   },
@@ -1456,7 +1456,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "The purpose of a straw chopper/spreader on a combine harvester is:",
-    options: ["To separate straw from grain in the cleaning unit", "To load straw directly into a trailer", "To chop and uniformly spread straw on the field for mulching or incorporation", "To collect straw in a bundle for sale"],
+    options: ["To separate straw from grain in the cleaning unit in plant breeding", "To load straw directly into a trailer for crop improvement", "To chop and uniformly spread straw on the field for mulching or incorporation", "To collect straw in a bundle for sale in variety development"],
     correct: 2,
     explanation: "The straw chopper attachment behind the straw walkers of a combine chops the straw into short pieces and spreads it uniformly across the field width. This facilitates faster decomposition, acts as mulch, and improves organic matter over time."
   },
@@ -1468,7 +1468,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "A PTO safety guard (shield) is mandatory because:",
-    options: ["It protects the PTO shaft from rain and rust", "It prevents clothing or body parts from getting entangled in the rotating PTO shaft", "It improves PTO power transmission efficiency", "It increases PTO speed"],
+    options: ["It protects the PTO shaft from rain and rust", "It prevents clothing or body parts from getting entangled in the rotating PTO shaft", "It improves PTO power transmission efficiency in plant breeding", "It increases PTO speed according to plant breeding and genetics science principles"],
     correct: 1,
     explanation: "The rotating PTO shaft (540 RPM) is an extremely dangerous entanglement hazard. Loose clothing, hair or limbs caught in an unguarded PTO shaft cause severe injuries. The plastic or metal shield covers the shaft and universal joints completely."
   },
@@ -1488,7 +1488,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "The most common cause of tractor rollover (overturning) is:",
-    options: ["Operating on steep slopes, turning too fast, or front-end rearing when too heavy a load is hitched to the drawbar", "Parking on flat ground", "Travelling at low speed on level ground", "Operating in soft soil at low speed"],
+    options: ["Operating on steep slopes, turning too fast", "Parking on flat ground in plant breeding", "Travelling at low speed on level ground for crop improvement", "Operating in soft soil at low speed in variety development"],
     correct: 0,
     explanation: "Tractor rollovers occur due to: side slopes, sharp turns at speed, sudden steering on hills, rear rearing when a drawbar load is too heavy (attached too high), and front end rearing when front implements are lifted too high. Side rollovers are most common."
   },
@@ -1508,7 +1508,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Which of the following is a daily (every-shift) maintenance check for a tractor?",
-    options: ["Changing engine oil and filter", "Replacing clutch disc", "Checking engine oil level, radiator coolant level, tyre pressure, air cleaner and fuel level", "Overhauling the fuel injection pump"],
+    options: ["Changing engine oil and filter in plant breeding according to plant breeding and genetics science principles", "Replacing clutch disc according to plant breeding and genetics science principles", "Checking engine oil level, radiator coolant level, tyre pressure, air cleaner and fuel level", "Overhauling the fuel injection pump in variety development according to plant breeding and genetics science principles"],
     correct: 2,
     explanation: "Daily maintenance (before each shift) includes: checking engine oil level on the dipstick, radiator coolant level, fuel level, air cleaner (clean if dusty), tyre pressure, battery electrolyte and all fluid levels. These prevent breakdowns."
   },
@@ -1518,7 +1518,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "A farm machinery log book (machine record) is maintained to:",
-    options: ["Record hours of operation, maintenance done, repairs, fuel consumption and field operations", "Track rainfall data", "Record labour wages only", "List crop varieties grown on the farm"],
+    options: ["Record hours of operation, maintenance done, repairs, fuel consumption and field operations", "Track rainfall data in plant breeding according to plant breeding and genetics science principles", "Record labour wages only for crop improvement", "List crop varieties grown on the farm in variety development"],
     correct: 0,
     explanation: "A machinery log book records: date of operation, field worked, hours operated, fuel consumed, maintenance performed (oil change, filter change), repairs needed/done, and operator name. This helps schedule preventive maintenance and calculate machinery costs."
   },
@@ -1528,7 +1528,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Before transporting an implement on a public road, the operator should:",
-    options: ["Raise and lock the implement in transport position and attach safety SMV emblem", "Remove all lubricants from the implement", "Leave the PTO engaged for fast travel", "Keep the implement in the lowest position and at full working depth"],
+    options: ["Raise and lock the implement in transport position and attach safety SMV emblem", "Remove all lubricants from the implement in plant breeding", "Leave the PTO engaged for fast travel for crop improvement", "Keep the implement in the lowest position and at full working depth"],
     correct: 0,
     explanation: "Before road travel, mounted implements must be raised and locked in transport position (top link adjusted, transport locks engaged), PTO disengaged, and a Slow-Moving Vehicle (SMV) emblem and lights attached for road safety."
   },
@@ -1538,7 +1538,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "The air cleaner on a tractor engine must be serviced regularly because:",
-    options: ["It cools the engine oil", "It removes water from diesel fuel", "It slows down the engine to save fuel", "Dust and debris block airflow, causing rich mixture, excess fuel use, power loss and engine wear"],
+    options: ["It cools the engine oil in plant breeding", "It removes water from diesel fuel for crop improvement", "It slows down the engine to save fuel in variety development", "Dust and debris block airflow, causing rich mixture"],
     correct: 3,
     explanation: "The air cleaner prevents abrasive dust from entering the engine. In dusty farm conditions, it clogs rapidly, restricting air intake. This causes incomplete combustion, loss of power, increased fuel consumption and severe cylinder/piston wear if neglected."
   },
@@ -1548,7 +1548,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Greasing (lubricating) of tractor and implement bearing points should be done:",
-    options: ["Every 500 hours", "Every 8–10 operating hours (daily or as per manufacturer schedule)", "Once a year during off-season", "Only when the bearing squeaks"],
+    options: ["Every 500 hours in plant breeding", "Every 8–10 operating hours (daily or as per manufacturer schedule)", "Once a year during off-season for crop improvement", "Only when the bearing squeaks in variety development"],
     correct: 1,
     explanation: "Bearing greasing should be done every 8–10 hours (daily). Grease gun is used to inject grease through Zerk/grease fittings at all pivot points, bearings, joints and moving parts. Neglected greasing causes rapid bearing failure."
   },
@@ -1558,7 +1558,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "When should a tractor's valve clearances (tappet clearances) be adjusted?",
-    options: ["Every 2000 hours or never", "Every 50 hours", "Every 250–500 hours or when engine becomes noisy (tapping sound)", "Only at initial assembly"],
+    options: ["Every 2000 hours or never in plant breeding", "Every 50 hours for crop improvement", "Every 250–500 hours or when engine becomes noisy (tapping sound)", "Only at initial assembly in variety development"],
     correct: 2,
     explanation: "Valve (tappet) clearances are checked and adjusted every 250–500 hours of operation or when a characteristic ticking/tapping sound is heard. Incorrect clearances cause poor engine performance, overheating and valve burning."
   },
@@ -1568,7 +1568,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "The fuel filter in a diesel tractor must be replaced periodically to:",
-    options: ["Remove water and particles from diesel before it reaches the injection pump, preventing costly damage", "Increase fuel injection pressure", "Add cetane improver to the fuel", "Warm the fuel in cold weather"],
+    options: ["Remove water and particles from diesel before it reaches the injection pump, preventing costly damage", "Increase fuel injection pressure in plant breeding according to plant breeding and genetics science principles", "Add cetane improver to the fuel for crop improvement", "Warm the fuel in cold weather in variety development"],
     correct: 0,
     explanation: "Diesel fuel often contains water and fine particles. The fuel filter removes these before diesel reaches the high-precision fuel injection pump. Water and sediment in the FIP cause accelerated wear and failure of the injectors and pump, which are very expensive to repair."
   },
@@ -1578,7 +1578,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "A Slow Moving Vehicle (SMV) emblem fitted to farm equipment is:",
-    options: ["A green light indicating the engine is running", "A speed limit sign for the driver", "A red triangular reflective sign warning road users that the vehicle travels at <40 km/h", "A regulatory plate showing the engine HP"],
+    options: ["A green light indicating the engine is running in plant breeding", "A speed limit sign for the driver for crop improvement", "A red triangular reflective sign warning road users that the vehicle travels at <40 km/h", "A regulatory plate showing the engine HP in variety development"],
     correct: 2,
     explanation: "The SMV (Slow Moving Vehicle) emblem is a distinctive fluorescent orange-red equilateral triangle with retro-reflective border, mounted on the rear of tractors and machinery to warn road traffic that the vehicle moves at less than 40 km/h."
   },
@@ -1588,7 +1588,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "To winterise (long-term storage) a tractor, the operator should:",
-    options: ["Leave the fuel tank empty to prevent fuel degradation only", "Fill the fuel tank completely and leave the engine unlubricated", "Drain coolant, add antifreeze, change oil, lubricate all points, coat exposed metal, charge battery and store under cover", "Just remove the battery and leave everything else"],
+    options: ["Leave the fuel tank empty to prevent fuel degradation only in plant breeding", "Fill the fuel tank completely and leave the engine unlubricated for crop improvement", "Drain coolant, add antifreeze, change oil, lubricate all points, coat exposed metal, charge battery and store under cover", "Just remove the battery and leave everything else in variety development"],
     correct: 2,
     explanation: "Long-term storage winterisation includes: draining and replacing engine oil, adding antifreeze to the cooling system, lubing all grease points, protecting exposed metal with rust preventive, disconnecting/charging the battery and storing under a protective cover."
   },
@@ -1692,7 +1692,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Piston rings are usually made of",
-    options: ["cast iron or pressed steel alloy", "copper", "drop forged steel", "aluminum alloy"],
+    options: ["cast iron or pressed steel alloy", "copper in plant breeding", "drop forged steel", "aluminum alloy for crop improvement"],
     correct: 0,
     explanation: "As per DA-151 notes: Piston rings are usually made of cast iron or pressed steel alloy."
   },
@@ -1712,7 +1712,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The crankshaft is usually made of",
-    options: ["cast iron", "aluminum alloy", "drop forged steel or cast steel", "copper alloy"],
+    options: ["cast iron in plant breeding", "aluminum alloy for crop improvement", "drop forged steel or cast steel", "copper alloy in variety development"],
     correct: 2,
     explanation: "As per DA-151 notes: Usually the crankshaft is made of drop forged steel or cast steel."
   },
@@ -1742,7 +1742,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Timing gear is also called Half time gear because",
-    options: ["it is half the size", "camshaft gear has twice as many teeth as crankshaft gear", "it works for half time", "it has half efficiency"],
+    options: ["it is half the size in plant breeding", "camshaft gear has twice as many teeth as crankshaft gear", "it works for half time for crop improvement", "it has half efficiency in variety development"],
     correct: 1,
     explanation: "As per DA-151 notes: Camshaft gear has twice as many teeth as crankshaft gear, hence commonly called Half time gear."
   },
@@ -1782,7 +1782,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Scavenging in IC engines refers to",
-    options: ["cooling of cylinder", "introduction of fresh fuel", "removal of burnt exhaust gases from cylinder", "lubrication of parts"],
+    options: ["cooling of cylinder in plant breeding", "introduction of fresh fuel", "removal of burnt exhaust gases from cylinder", "lubrication of parts for crop improvement"],
     correct: 2,
     explanation: "As per DA-151 notes: Scavenging is the process of removal of burnt or exhaust gases from the engine cylinder."
   },
@@ -1832,7 +1832,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Cetane number is the measure of which property?",
-    options: ["Viscosity", "Interval between injection and auto-ignition", "Calorific value", "Boiling point"],
+    options: ["Viscosity in plant breeding", "Interval between injection and auto-ignition", "Calorific value", "Boiling point"],
     correct: 1,
     explanation: "As per DA-151 notes: Cetane number is the relative measure of the interval between beginning of injection and auto-ignition of fuel."
   },
@@ -1872,7 +1872,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "In the splash lubrication system, the oil is splashed using",
-    options: ["an oil pump", "a dipper at the lower end of connecting rod", "an oil fan", "a spray nozzle"],
+    options: ["an oil pump in plant breeding", "a dipper at the lower end of connecting rod", "an oil fan for crop improvement", "a spray nozzle in variety development"],
     correct: 1,
     explanation: "As per DA-151 notes: A dipper is provided at the lower end of the connecting rod, which dips into the oil trough and splashes oil."
   },
@@ -1932,7 +1932,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "In air cooled engines, cylinders have fins to",
-    options: ["increase area of contact of air for speedy cooling", "prevent rusting", "reduce weight", "strengthen the cylinder"],
+    options: ["increase area of contact of air for speedy cooling", "prevent rusting in plant breeding", "reduce weight for crop improvement", "strengthen the cylinder in variety development"],
     correct: 0,
     explanation: "As per DA-151 notes: The cylinder of an air cooled engine has fins to increase the area of contact of air for speedy cooling."
   },
@@ -2012,7 +2012,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Air venting of diesel fuel system is done through",
-    options: ["main filter", "overflow valve", "priming pump through bleeding holes of injection pump", "fuel lift pump"],
+    options: ["main filter in plant breeding", "overflow valve for crop improvement", "priming pump through bleeding holes of injection pump", "fuel lift pump in variety development"],
     correct: 2,
     explanation: "As per DA-151 notes: Air is removed by the priming pump through the bleeding holes of the injection pump."
   },
@@ -2112,7 +2112,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The piston in petrol engine is preferred to be made of cast iron due to its",
-    options: ["high compressive strength and low expansion", "conductivity", "lightness", "low cost only"],
+    options: ["high compressive strength and low expansion", "conductivity in plant breeding", "lightness for crop improvement", "low cost only"],
     correct: 0,
     explanation: "As per DA-151 notes: Cast iron is chosen for pistons due to high compressive strength, low coefficient of expansion, resistance to high temperature, ease of casting and low cost."
   },
@@ -2122,7 +2122,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Sealing effect of lubrication prevents",
-    options: ["overheating", "dirt accumulation", "leakage of gases from engine cylinder", "friction"],
+    options: ["overheating in plant breeding", "dirt accumulation for crop improvement", "leakage of gases from engine cylinder", "friction in variety development"],
     correct: 2,
     explanation: "As per DA-151 notes: Sealing effect - lubricant enters gap between cylinder liner, piston and piston rings, preventing leakage of gases from engine cylinder."
   },
@@ -2192,7 +2192,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The function of flywheel in IC engine includes storing energy during power stroke and",
-    options: ["lubricating parts", "pumping fuel", "cooling the engine", "providing uniform rotary motion by virtue of its inertia"],
+    options: ["lubricating parts in plant breeding", "pumping fuel for crop improvement", "cooling the engine in variety development", "providing uniform rotary motion by virtue of its inertia"],
     correct: 3,
     explanation: "As per DA-151 notes: Flywheel stores energy during power stroke and returns same energy during idle strokes, providing uniform rotary motion by virtue of its inertia."
   },
@@ -2212,7 +2212,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Fuels with low cetane numbers result in",
-    options: ["better fuel economy", "difficult starting, noise and exhaust smoke", "reduced power output", "easy starting"],
+    options: ["better fuel economy", "difficult starting, noise and exhaust smoke", "reduced power output", "easy starting in plant breeding"],
     correct: 1,
     explanation: "As per DA-151 notes: Fuels with low cetane numbers will result in difficult starting, noise and exhaust smoke."
   },
@@ -2222,7 +2222,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Over-cooling of IC engine is undesirable because",
-    options: ["it creates noise", "neither overheating nor over-cooling is desirable for satisfactory performance", "it increases fuel consumption only", "it wastes water"],
+    options: ["it creates noise in plant breeding", "neither overheating nor over-cooling is desirable for satisfactory performance", "it increases fuel consumption only", "it wastes water for crop improvement"],
     correct: 1,
     explanation: "As per DA-151 notes: For satisfactory performance, neither overheating nor over-cooling is desirable."
   },
@@ -2272,7 +2272,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Pre-ignition of fuel mixture in IC engine causes",
-    options: ["engine knocking and loss of power", "increased efficiency", "better cooling", "lower exhaust emissions"],
+    options: ["engine knocking and loss of power", "increased efficiency in plant breeding", "better cooling for crop improvement", "lower exhaust emissions"],
     correct: 0,
     explanation: "As per DA-151 notes: Pre-ignition of fuel mixture would cause engine knocking as well as loss of power - a bad effect of high temperature."
   },

@@ -116,7 +116,7 @@ export const da262Questions: Question[] = [
 {
     id: "d262_017", subject: "computer-applications",
     question: "Open source software means:",
-    options: ["Software for outdoor activities for general office use", "Software that is free to use and whose source code is openly available", "Software that has no purpose in basic computer operations", "Paid proprietary software for data management only"],
+    options: ["Software for outdoor activities for general office use in agriculture", "Software that is free to use and whose source code is openly available", "Software that has no purpose in basic computer operations under field conditions", "Paid proprietary software for data management only for crop production"],
     correct: 1,
     explanation: "Open source software has publicly available source code that can be freely used, modified, and distributed."
   },
@@ -277,7 +277,7 @@ export const da262Questions: Question[] = [
 {
     id: "d262_040", subject: "computer-applications",
     question: "VLOOKUP function in Excel is used to:",
-    options: ["Validate data for general office use", "Create vertical charts in basic computer operations", "Calculate vertical sums for data management only", "Look up a value in a column and return a value from another column in the same row"],
+    options: ["Validate data for general office use in agriculture", "Create vertical charts in basic computer operations under field conditions", "Calculate vertical sums for data management only for crop production", "Look up a value in a column and return a value"],
     correct: 3,
     explanation: "VLOOKUP searches vertically in the first column of a table and returns a value from a specified column in the same row."
   },
@@ -312,7 +312,7 @@ export const da262Questions: Question[] = [
 {
     id: "d262_045", subject: "computer-applications",
     question: "Slide Transition in PowerPoint refers to:",
-    options: ["The visual effect when moving from one slide to the next", "The animation of objects within a slide", "The design template for general office use", "The slide master in basic computer operations"],
+    options: ["The visual effect when moving from one slide to the next", "The animation of objects within a slide in agriculture", "The design template for general office use under field conditions", "The slide master in basic computer operations for crop production"],
     correct: 0,
     explanation: "Slide transition is the animation/effect applied when switching between slides during a presentation."
   },
@@ -396,7 +396,7 @@ export const da262Questions: Question[] = [
 {
     id: "d262_057", subject: "computer-applications",
     question: "Precision agriculture uses technology for:",
-    options: ["Reducing farm area for general office use", "Variable rate application of inputs based on spatial variability in fields", "One-size-fits-all farming in basic computer operations", "Manual observation only for data management only"],
+    options: ["Reducing farm area for general office use in agriculture", "Variable rate application of inputs based on spatial variability in fields", "One-size-fits-all farming in basic computer operations under field conditions", "Manual observation only for data management only for crop production"],
     correct: 1,
     explanation: "Precision agriculture uses GPS, sensors, and GIS to optimize input application according to field variability."
   },
@@ -410,14 +410,14 @@ export const da262Questions: Question[] = [
 {
     id: "d262_059", subject: "computer-applications",
     question: "e-Crop advisory services in agriculture provide:",
-    options: ["Government job notifications for general office use", "Free seeds in basic computer operations", "Real-time crop production advice, pest alerts, and weather updates to farmers", "Direct loans for data management only"],
+    options: ["Government job notifications for general office use in agriculture", "Free seeds in basic computer operations under field conditions", "Real-time crop production advice, pest alerts, and weather updates to farmers", "Direct loans for data management only for crop production"],
     correct: 2,
     explanation: "e-Crop advisory services (via apps, SMS, internet) give farmers timely advice on crop management and market prices."
   },
 {
     id: "d262_060", subject: "computer-applications",
     question: "GIS in agriculture is used for:",
-    options: ["Word processing for general office use", "Accounting in basic computer operations", "Playing games for data management only", "Mapping soil variability, crop health, land use, and planning irrigation"],
+    options: ["Word processing for general office use in agriculture", "Accounting in basic computer operations under field conditions", "Playing games for data management only for crop production", "Mapping soil variability, crop health, land use, and planning irrigation"],
     correct: 3,
     explanation: "GIS (Geographic Information System) integrates spatial data for precision farming, land use planning, and resource management."
   },
@@ -466,7 +466,7 @@ export const da262Questions: Question[] = [
 {
     id: "d262_067", subject: "computer-applications",
     question: "IoT (Internet of Things) in agriculture refers to:",
-    options: ["International trade of crops for general office use", "Traditional farming methods in basic computer operations", "Only internet browsing on farm for data management only", "Connected sensors, devices, and systems that collect and exchange data for smart farming"],
+    options: ["International trade of crops for general office use in agriculture", "Traditional farming methods in basic computer operations under field conditions", "Only internet browsing on farm for data management only for crop production", "Connected sensors, devices, and systems that collect and exchange data for smart farming"],
     correct: 3,
     explanation: "Agricultural IoT connects field sensors, weather stations, and drones to collect and analyze farm data in real time."
   },
@@ -543,7 +543,7 @@ export const da262Questions: Question[] = [
 {
     id: "d262_078", subject: "da-262",
     question: "In Windows, the 'Recycle Bin' is used for:",
-    options: ["Storing temporary internet files for general office use", "Storing system backup files in basic computer operations", "Storing all files and folders deleted from Windows temporarily, which can be restored", "Organizing downloaded files for data management only"],
+    options: ["Storing temporary internet files for general office use in agriculture", "Storing system backup files in basic computer operations under field conditions", "Storing all files and folders deleted from Windows temporarily, which can be restored", "Organizing downloaded files for data management only for crop production"],
     correct: 2,
     explanation: "As per DA-262 notes: Recycle Bin is a folder that stores all the files and folders deleted from Windows temporarily, which can be restored again if needed."
   },
@@ -1409,7 +1409,7 @@ export const da262Questions: Question[] = [
     lecture: "lecture-11",
     lectureNo: 11,
     question: "The difference between TREE and DIR commands in DOS is that:",
-    options: ["TREE is for hard disk; DIR is for floppy", "Both are identical for general office use", "TREE shows files; DIR shows folders in basic computer operations", "TREE displays directories and sub-directories without files; DIR shows files with size date time"],
+    options: ["TREE is for hard disk; DIR is for floppy in agriculture", "Both are identical for general office use under field conditions", "TREE shows files; DIR shows folders in basic computer operations", "TREE displays directories and sub-directories without files; DIR shows files with size date time"],
     correct: 3,
     explanation: "As per DA-262 notes: TREE displays directories and sub-directories without files; DIR displays all files with size, date and time of creation."
   },
@@ -1569,7 +1569,7 @@ export const da262Questions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "Information is best described as:",
-    options: ["Raw data for general office use", "Binary code in basic computer operations", "Data that is processed and presented in an organized manner", "A computer program for data management only"],
+    options: ["Raw data for general office use in agriculture", "Binary code in basic computer operations under field conditions", "Data that is processed and presented in an organized manner", "A computer program for data management only"],
     correct: 2,
     explanation: "As per DA-262 notes: Information is data that is processed and presented in an organized manner."
   },

@@ -21,7 +21,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_003", subject: "da-241", lecture: "lecture-1", lectureNo: 1,
     question: "GDP (Gross Domestic Product) measures:",
-    options: ["Total value of all goods and services produced in a country in a year", "Total agricultural output in the agricultural economy", "Total foreign debt in rural economic context", "Total exports only for farm income analysis"],
+    options: ["Total value of all goods and services produced in a country in a year", "Total agricultural output in the agricultural economy in agriculture", "Total foreign debt in rural economic context under field conditions", "Total exports only for farm income analysis for crop production"],
     correct: 0,
     explanation: "GDP is the monetary value of all final goods and services produced within a country's borders in a specific period.",
     difficulty: "easy"
@@ -61,7 +61,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_008", subject: "da-241", lecture: "lecture-1", lectureNo: 1,
     question: "The Law of Diminishing Returns states that:",
-    options: ["As more of a variable input is added to fixed inputs, marginal product eventually decreases", "Supply always equals demand in the agricultural economy", "Output always increases with more inputs in rural economic context", "Fixed costs decrease with output for farm income analysis"],
+    options: ["As more of a variable input is added to fixed inputs, marginal product eventually decreases", "Supply always equals demand in the agricultural economy in agriculture", "Output always increases with more inputs in rural economic context under field conditions", "Fixed costs decrease with output for farm income analysis for crop production"],
     correct: 0,
     explanation: "The Law of Diminishing Returns: beyond a point, each additional unit of variable input yields less additional output.",
     difficulty: "medium"
@@ -167,7 +167,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_021", subject: "da-241", lecture: "lecture-2", lectureNo: 2,
     question: "Cobweb theorem in agricultural economics explains:",
-    options: ["Fixed prices in the agricultural economy", "Government pricing policy in rural economic context", "Cyclical price fluctuations due to lag between planting and harvesting decisions", "Long-run equilibrium for farm income analysis"],
+    options: ["Fixed prices in the agricultural economy in agriculture", "Government pricing policy in rural economic context under field conditions", "Cyclical price fluctuations due to lag between planting and harvesting decisions", "Long-run equilibrium for farm income analysis for crop production"],
     correct: 2,
     explanation: "The cobweb theorem explains price cycles in agriculture where supply decisions are based on last year's price.",
     difficulty: "hard"
@@ -175,7 +175,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_022", subject: "da-241", lecture: "lecture-2", lectureNo: 2,
     question: "Consumer surplus is defined as:",
-    options: ["Total expenditure on a good in the agricultural economy", "Difference between what consumer is willing to pay and what they actually pay", "Market surplus of goods in rural economic context", "Producer's profit for farm income analysis"],
+    options: ["Total expenditure on a good in the agricultural economy", "Difference between what consumer is willing to pay and what they actually pay", "Market surplus of goods in rural economic context in agriculture", "Producer's profit for farm income analysis under field conditions"],
     correct: 1,
     explanation: "Consumer surplus = willingness to pay − actual price paid; it represents extra benefit to consumer.",
     difficulty: "medium"
@@ -267,7 +267,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_033", subject: "da-241", lecture: "lecture-4", lectureNo: 4,
     question: "Farm management is defined as:",
-    options: ["The science and art of organizing and operating a farm for maximum profit", "Management of farm workers in the agricultural economy", "Government farm policy in rural economic context", "Study of crop production only for farm income analysis"],
+    options: ["The science and art of organizing and operating a farm for maximum profit", "Management of farm workers in the agricultural economy in agriculture", "Government farm policy in rural economic context under field conditions", "Study of crop production only for farm income analysis for crop production"],
     correct: 0,
     explanation: "Farm management applies economic and managerial principles to optimize farm operations for profitability.",
     difficulty: "easy"
@@ -283,7 +283,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_035", subject: "da-241", lecture: "lecture-4", lectureNo: 4,
     question: "Agricultural marketing refers to:",
-    options: ["Farm production only in the agricultural economy", "Import of agricultural products in rural economic context", "All business activities involved in the flow of goods from producer to consumer", "Farm subsidies for farm income analysis"],
+    options: ["Farm production only in the agricultural economy in agriculture", "Import of agricultural products in rural economic context under field conditions", "All business activities involved in the flow of goods from producer to consumer", "Farm subsidies for farm income analysis for crop production"],
     correct: 2,
     explanation: "Agricultural marketing encompasses storage, processing, transport, and trading of farm produce from farm to consumer.",
     difficulty: "easy"
@@ -447,7 +447,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_055", subject: "da-241", lecture: "lecture-6", lectureNo: 6,
     question: "Which organization publishes Agricultural Statistics in India?",
-    options: ["Directorate of Economics and Statistics (DESA), Ministry of Agriculture", "SEBI in the agricultural economy", "NABARD in rural economic context", "RBI for farm income analysis"],
+    options: ["Directorate of Economics and Statistics (DESA), Ministry of Agriculture", "SEBI in the agricultural economy in agriculture", "NABARD in rural economic context under field conditions", "RBI for farm income analysis for crop production"],
     correct: 0,
     explanation: "The Directorate of Economics and Statistics under the Ministry of Agriculture publishes agricultural statistics.",
     difficulty: "medium"
@@ -523,7 +523,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_064", subject: "da-241", lecture: "lecture-8", lectureNo: 8,
     question: "MGNREGA provides rural households:",
-    options: ["Housing assistance in the agricultural economy", "Education scholarships in rural economic context", "Free food grains for farm income analysis", "At least 100 days of guaranteed wage employment per year"],
+    options: ["Housing assistance in the agricultural economy in agriculture", "Education scholarships in rural economic context under field conditions", "Free food grains for farm income analysis", "At least 100 days of guaranteed wage employment per year"],
     correct: 3,
     explanation: "MGNREGA (Mahatma Gandhi National Rural Employment Guarantee Act) guarantees 100 days of employment per year to rural households.",
     difficulty: "easy"
@@ -547,7 +547,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_067", subject: "da-241", lecture: "lecture-8", lectureNo: 8,
     question: "Value chain in agriculture refers to:",
-    options: ["Farm gate price only in the agricultural economy", "Entire sequence of activities from production to final consumption, adding value at each stage", "Retail price only in rural economic context", "Export price for farm income analysis"],
+    options: ["Farm gate price only in the agricultural economy in agriculture", "Entire sequence of activities from production to final consumption, adding value at each stage", "Retail price only in rural economic context under field conditions", "Export price for farm income analysis for crop production"],
     correct: 1,
     explanation: "Agricultural value chain includes input supply, production, processing, marketing, and retail — value is added at each stage.",
     difficulty: "medium"
@@ -555,7 +555,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_068", subject: "da-241", lecture: "lecture-8", lectureNo: 8,
     question: "Contract farming means:",
-    options: ["Cooperative farming in the agricultural economy", "Renting farm land in rural economic context", "Agreement between farmer and buyer/processor specifying price and quality before harvest", "Government takeover of farms for farm income analysis"],
+    options: ["Cooperative farming in the agricultural economy in agriculture", "Renting farm land in rural economic context under field conditions", "Agreement between farmer and buyer/processor specifying price and quality before harvest", "Government takeover of farms for farm income analysis"],
     correct: 2,
     explanation: "Contract farming is a pre-harvest arrangement between farmer and buyer/company specifying quality, quantity, and price.",
     difficulty: "medium"
@@ -623,7 +623,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_076", subject: "da-241", lecture: "lecture-10", lectureNo: 10,
     question: "Externalities in agriculture include:",
-    options: ["Farm input costs in the agricultural economy", "Direct farm subsidies in rural economic context", "Costs or benefits not reflected in market prices (pollution, soil degradation)", "Export revenues for farm income analysis"],
+    options: ["Farm input costs in the agricultural economy in agriculture", "Direct farm subsidies in rural economic context under field conditions", "Costs or benefits not reflected in market prices (pollution, soil degradation)", "Export revenues for farm income analysis for crop production"],
     correct: 2,
     explanation: "Externalities are costs (pesticide runoff, soil degradation) or benefits (pollination) not captured in market transactions.",
     difficulty: "medium"
@@ -1041,7 +1041,7 @@ export const da241LectureQuestions: Question[] = [
     lecture: "lecture-11",
     lectureNo: 11,
     question: "Marginal Cost (MC) is computed using the formula:",
-    options: ["TFC / Q in the agricultural economy", "Change in TC / Change in Q (also equal to Change in TVC / Change in Q)", "TVC / Q in rural economic context", "( TFC + TVC) / Q for farm income analysis"],
+    options: ["TFC / Q in the agricultural economy in agriculture", "Change in TC / Change in Q", "TVC / Q in rural economic context under field conditions", "( TFC + TVC) / Q for farm income analysis for crop production"],
     correct: 1,
     explanation: "MC = Change in Total Costs / Change in Output = deltaTC/deltaQ = deltaTVC/deltaQ. Fixed costs cannot be changed - the only component of change in TC is TVC - so MC can be computed using either TC or TVC."
   },
@@ -1591,7 +1591,7 @@ export const da241LectureQuestions: Question[] = [
     lecture: "lecture-13",
     lectureNo: 13,
     question: "Marginal Revenue (MR) is expressed as:",
-    options: ["P x Q in the agricultural economy", "Change in TR / Change in Q (or TRn - TRn-1)", "TR/Q in rural economic context", "TR - TC for farm income analysis"],
+    options: ["P x Q in the agricultural economy in agriculture", "Change in TR / Change in Q (or TRn - TRn-1)", "TR/Q in rural economic context under field conditions", "TR - TC for farm income analysis for crop production"],
     correct: 1,
     explanation: "MR = deltaTR/deltaQ = Change in total revenue / Change in quantity. In other form, MRn = TRn - TRn-1. It is the net addition to total revenue by selling an additional unit of the good."
   },

@@ -135,7 +135,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_017", subject: "computer-applications", lecture: "lecture-2", lectureNo: 2,
     question: "Open source software means:",
-    options: ["Paid proprietary software for general office use", "Software that is free to use and whose source code is openly available", "Software for outdoor activities in basic computer operations", "Software that has no purpose for data management only"],
+    options: ["Paid proprietary software for general office use in agriculture", "Software that is free to use and whose source code is openly available", "Software for outdoor activities in basic computer operations under field conditions", "Software that has no purpose for data management only for crop production"],
     correct: 1,
     explanation: "Open source software has publicly available source code that can be freely used, modified, and distributed.",
     difficulty: "easy"
@@ -323,7 +323,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_040", subject: "computer-applications", lecture: "lecture-4", lectureNo: 4,
     question: "VLOOKUP function in Excel is used to:",
-    options: ["Validate data for general office use", "Create vertical charts in basic computer operations", "Calculate vertical sums for data management only", "Look up a value in a column and return a value from another column in the same row"],
+    options: ["Validate data for general office use in agriculture", "Create vertical charts in basic computer operations under field conditions", "Calculate vertical sums for data management only for crop production", "Look up a value in a column and return a value"],
     correct: 3,
     explanation: "VLOOKUP searches vertically in the first column of a table and returns a value from a specified column in the same row.",
     difficulty: "medium"
@@ -365,7 +365,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_045", subject: "computer-applications", lecture: "lecture-5", lectureNo: 5,
     question: "Slide Transition in PowerPoint refers to:",
-    options: ["The slide master for general office use", "The visual effect when moving from one slide to the next", "The animation of objects within a slide", "The design template in basic computer operations"],
+    options: ["The slide master for general office use in agriculture", "The visual effect when moving from one slide to the next", "The animation of objects within a slide under field conditions", "The design template in basic computer operations for crop production"],
     correct: 1,
     explanation: "Slide transition is the animation/effect applied when switching between slides during a presentation.",
     difficulty: "easy"
@@ -463,7 +463,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_057", subject: "computer-applications", lecture: "lecture-6", lectureNo: 6,
     question: "Precision agriculture uses technology for:",
-    options: ["One-size-fits-all farming for general office use", "Variable rate application of inputs based on spatial variability in fields", "Reducing farm area in basic computer operations", "Manual observation only for data management only"],
+    options: ["One-size-fits-all farming for general office use in agriculture", "Variable rate application of inputs based on spatial variability in fields", "Reducing farm area in basic computer operations under field conditions", "Manual observation only for data management only for crop production"],
     correct: 1,
     explanation: "Precision agriculture uses GPS, sensors, and GIS to optimize input application according to field variability.",
     difficulty: "medium"
@@ -479,7 +479,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_059", subject: "computer-applications", lecture: "lecture-6", lectureNo: 6,
     question: "e-Crop advisory services in agriculture provide:",
-    options: ["Real-time crop production advice, pest alerts, and weather updates to farmers", "Free seeds for general office use", "Government job notifications in basic computer operations", "Direct loans for data management only"],
+    options: ["Real-time crop production advice, pest alerts, and weather updates to farmers", "Free seeds for general office use in agriculture", "Government job notifications in basic computer operations under field conditions", "Direct loans for data management only for crop production"],
     correct: 0,
     explanation: "e-Crop advisory services (via apps, SMS, internet) give farmers timely advice on crop management and market prices.",
     difficulty: "easy"
@@ -487,7 +487,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_060", subject: "computer-applications", lecture: "lecture-6", lectureNo: 6,
     question: "GIS in agriculture is used for:",
-    options: ["Word processing for general office use", "Playing games in basic computer operations", "Mapping soil variability, crop health, land use, and planning irrigation", "Accounting for data management only"],
+    options: ["Word processing for general office use in agriculture", "Playing games in basic computer operations under field conditions", "Mapping soil variability, crop health, land use, and planning irrigation", "Accounting for data management only for crop production"],
     correct: 2,
     explanation: "GIS (Geographic Information System) integrates spatial data for precision farming, land use planning, and resource management.",
     difficulty: "medium"
@@ -545,7 +545,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_067", subject: "computer-applications", lecture: "lecture-7", lectureNo: 7,
     question: "IoT (Internet of Things) in agriculture refers to:",
-    options: ["Traditional farming methods for general office use", "Only internet browsing on farm in basic computer operations", "Connected sensors, devices, and systems that collect and exchange data for smart farming", "International trade of crops for data management only"],
+    options: ["Traditional farming methods for general office use in agriculture", "Only internet browsing on farm in basic computer operations under field conditions", "Connected sensors, devices, and systems that collect and exchange data for smart farming", "International trade of crops for data management only for crop production"],
     correct: 2,
     explanation: "Agricultural IoT connects field sensors, weather stations, and drones to collect and analyze farm data in real time.",
     difficulty: "medium"
@@ -635,7 +635,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_078", subject: "da-262", lecture: "lecture-9", lectureNo: 9,
     question: "In Windows, the 'Recycle Bin' is used for:",
-    options: ["Storing temporary internet files for general office use", "Storing system backup files in basic computer operations", "Organizing downloaded files for data management only", "Storing all files and folders deleted from Windows temporarily, which can be restored"],
+    options: ["Storing temporary internet files for general office use in agriculture", "Storing system backup files in basic computer operations under field conditions", "Organizing downloaded files for data management only for crop production", "Storing all files and folders deleted from Windows temporarily, which can be restored"],
     correct: 3,
     explanation: "As per DA-262 notes: Recycle Bin is a folder that stores all the files and folders deleted from Windows temporarily, which can be restored again if needed.",
     difficulty: "easy"
@@ -1524,7 +1524,7 @@ export const da262LectureQuestions: Question[] = [
     lecture: "lecture-11",
     lectureNo: 11,
     question: "The difference between TREE and DIR commands in DOS is that:",
-    options: ["TREE displays directories and sub-directories without files; DIR shows files with size date time", "TREE is for hard disk; DIR is for floppy", "Both are identical for general office use", "TREE shows files; DIR shows folders in basic computer operations"],
+    options: ["TREE displays directories and sub-directories without files; DIR shows files with size date time", "TREE is for hard disk; DIR is for floppy in agriculture", "Both are identical for general office use under field conditions", "TREE shows files; DIR shows folders in basic computer operations"],
     correct: 0,
     explanation: "As per DA-262 notes: TREE displays directories and sub-directories without files; DIR displays all files with size, date and time of creation."
   },
@@ -1684,7 +1684,7 @@ export const da262LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "Information is best described as:",
-    options: ["Data that is processed and presented in an organized manner", "Binary code for general office use", "Raw data in basic computer operations", "A computer program for data management only"],
+    options: ["Data that is processed and presented in an organized manner", "Binary code for general office use in agriculture", "Raw data in basic computer operations under field conditions", "A computer program for data management only"],
     correct: 0,
     explanation: "As per DA-262 notes: Information is data that is processed and presented in an organized manner."
   },

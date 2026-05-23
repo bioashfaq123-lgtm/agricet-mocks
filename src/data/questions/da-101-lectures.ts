@@ -215,7 +215,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "The difference between weather and climate is:",
-    options: ["Climate refers to rainfall only; weather refers to temperature only", "Weather and climate are the same", "Weather deals with long-term atmospheric conditions; climate is short-term", "Weather is the atmospheric condition at a place for a short period; climate is the average over 30+ years"],
+    options: ["Climate refers to rainfall only; weather refers to temperature only in agronomy", "Weather and climate are the same under field conditions", "Weather deals with long-term atmospheric conditions; climate is short-term for crop production", "Weather is the atmospheric condition at a place for a short period; climate is the average over 30+ years"],
     correct: 3,
     explanation: "Weather refers to the atmospheric conditions at a particular place for a short period (daily/weekly), whereas climate is the average weather conditions of a place over a long period (30+ years)."
   },
@@ -285,7 +285,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "An agro-climatic zone is defined on the basis of:",
-    options: ["Homogeneity in rainfall, temperature, soil type, and cropping pattern", "Soil texture alone", "Temperature alone", "Rainfall alone"],
+    options: ["Homogeneity in rainfall, temperature, soil type, and cropping pattern", "Soil texture alone in agronomy", "Temperature alone under field conditions", "Rainfall alone for crop production"],
     correct: 0,
     explanation: "An agro-climatic zone is a relatively homogeneous land unit in terms of climate, soil, hydrology, and cropping pattern."
   },
@@ -335,7 +335,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "The Southern Telangana Zone (STZ) covers which type of soil predominantly?",
-    options: ["Laterite soils", "Red sandy soils and shallow red soils", "Sandy loam soils", "Deep black cotton soils"],
+    options: ["Laterite soils in agronomy", "Red sandy soils and shallow red soils", "Sandy loam soils under field conditions", "Deep black cotton soils"],
     correct: 1,
     explanation: "The Southern Telangana Zone is dominated by red sandy and red loamy soils, covering districts like Mahabubnagar, Nagarkurnool, and Nalgonda."
   },
@@ -359,7 +359,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Primary tillage is done to:",
-    options: ["Break the soil to full depth for first working", "Prepare a fine seedbed", "Kill weeds between rows", "Apply fertilizers into the soil"],
+    options: ["Break the soil to full depth for first working", "Prepare a fine seedbed in agronomy", "Kill weeds between rows under field conditions", "Apply fertilizers into the soil for crop production"],
     correct: 0,
     explanation: "Primary tillage is the initial soil working operation that breaks and loosens soil to depth, incorporating crop residues and preparing for secondary tillage."
   },
@@ -399,7 +399,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Minimum tillage aims to:",
-    options: ["Maximize soil disturbance for best seedbed", "Eliminate all organic matter in soil", "Reduce the number of tillage operations while maintaining yields", "Increase the depth of ploughing"],
+    options: ["Maximize soil disturbance for best seedbed", "Eliminate all organic matter in soil", "Reduce the number of tillage operations while maintaining yields", "Increase the depth of ploughing in agronomy"],
     correct: 2,
     explanation: "Minimum tillage reduces tillage operations to a minimum necessary for crop establishment, saving energy, labor, and reducing erosion."
   },
@@ -439,7 +439,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Conservation tillage is defined as any tillage system that:",
-    options: ["Inverts the soil completely with each pass", "Leaves at least 30% of crop residue on the soil surface", "Uses the maximum number of tillage passes", "Is performed only during drought conditions"],
+    options: ["Inverts the soil completely with each pass in agronomy", "Leaves at least 30% of crop residue on the soil surface", "Uses the maximum number of tillage passes under field conditions", "Is performed only during drought conditions for crop production"],
     correct: 1,
     explanation: "Conservation tillage is any tillage system that leaves at least 30% of the soil surface covered with crop residues to reduce erosion."
   },
@@ -469,7 +469,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The rotavator is used mainly for:",
-    options: ["Secondary tillage – fine seedbed preparation", "Harvesting operations", "Weed chemical application", "Primary deep tillage"],
+    options: ["Secondary tillage – fine seedbed preparation", "Harvesting operations in agronomy", "Weed chemical application", "Primary deep tillage"],
     correct: 0,
     explanation: "The rotavator (rotary tiller) is used for secondary tillage to break clods and prepare a fine, firm seedbed, especially in hard soils."
   },
@@ -523,7 +523,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Dibbling is a method of sowing where:",
-    options: ["Seeds are dropped from a moving machine randomly", "Seeds are mixed with sand and broadcast", "Seeds are sown in continuous furrows", "Seeds are placed individually in small holes made at specific intervals"],
+    options: ["Seeds are dropped from a moving machine randomly", "Seeds are mixed with sand and broadcast in agronomy", "Seeds are sown in continuous furrows under field conditions", "Seeds are placed individually in small holes made at specific intervals"],
     correct: 3,
     explanation: "Dibbling is placing one or more seeds individually in holes (dibbles) made at specific intervals in rows, ensuring precise plant population."
   },
@@ -553,7 +553,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "The method of sowing best suited for paddy (rice) in SRI is:",
-    options: ["Transplanting young single seedlings (8–12 days old)", "Dibbling", "Broadcasting", "Direct seeding by drill"],
+    options: ["Transplanting young single seedlings (8–12 days old)", "Dibbling in agronomy", "Broadcasting under field conditions", "Direct seeding by drill"],
     correct: 0,
     explanation: "SRI (System of Rice Intensification) uses very young seedlings (8–12 days old, single seedling per hill) transplanted at wider spacing of 25×25 cm."
   },
@@ -643,7 +643,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Optimum plant population for transplanted rice per hectare is approximately:",
-    options: ["1,00,000 hills/ha", "5,00,000 hills/ha", "50,000 hills/ha", "2,00,000 hills/ha (at 20×25 cm spacing)"],
+    options: ["1,00,000 hills/ha in agronomy", "5,00,000 hills/ha under field conditions", "50,000 hills/ha for crop production", "2,00,000 hills/ha (at 20×25 cm spacing)"],
     correct: 3,
     explanation: "At 20×25 cm spacing (standard for transplanted rice), 10,000 m²/ha ÷ (0.20 × 0.25 m) = 2,00,000 hills/ha. At 25×25 cm it is 1,60,000/ha."
   },
@@ -677,7 +677,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Basal application of fertilizer means:",
-    options: ["Application of fertilizer after crop establishment", "Foliar spray of nutrients on leaves", "Application of fertilizer at sowing/planting time in the root zone", "Application of fertilizers through irrigation water"],
+    options: ["Application of fertilizer after crop establishment in agronomy", "Foliar spray of nutrients on leaves under field conditions", "Application of fertilizer at sowing/planting time in the root zone", "Application of fertilizers through irrigation water for crop production"],
     correct: 2,
     explanation: "Basal application involves incorporating fertilizer into the soil at the time of sowing or planting, usually as a band or broadcast before tillage."
   },
@@ -811,7 +811,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "A weed is defined as:",
-    options: ["A plant growing where it is not wanted and causing economic loss", "A parasitic plant only", "Any plant that is poisonous to livestock", "Any plant growing in wasteland"],
+    options: ["A plant growing where it is not wanted and causing economic loss", "A parasitic plant only in agronomy", "Any plant that is poisonous to livestock under field conditions", "Any plant growing in wasteland for crop production"],
     correct: 0,
     explanation: "A weed is a plant growing where it is not wanted or desired, competing with crops and causing economic loss in yield."
   },
@@ -901,7 +901,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Allelopathy in weed management refers to:",
-    options: ["Biological control using insects", "Chemical toxicity of herbicides to weeds", "Release of chemical substances by one plant that inhibit growth of another", "Mechanical removal of weeds by hand"],
+    options: ["Biological control using insects in agronomy", "Chemical toxicity of herbicides to weeds under field conditions", "Release of chemical substances by one plant that inhibit growth of another", "Mechanical removal of weeds by hand for crop production"],
     correct: 2,
     explanation: "Allelopathy is the phenomenon where a plant releases chemical compounds (allelochemicals) that inhibit germination or growth of neighboring plants/weeds."
   },
@@ -941,7 +941,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Crop rotation helps in weed management because:",
-    options: ["Rotation reduces need for any fertilizer", "Same crop depletes weed seeds over seasons", "Rotation always involves fallow periods that kill all weeds", "Changing crops disrupts life cycle of weed species adapted to one crop"],
+    options: ["Rotation reduces need for any fertilizer in agronomy", "Same crop depletes weed seeds over seasons under field conditions", "Rotation always involves fallow periods that kill all weeds", "Changing crops disrupts life cycle of weed species adapted to one crop"],
     correct: 3,
     explanation: "Crop rotation disrupts the life cycle and adaptation of weed species specific to one crop, preventing build-up of any particular weed population."
   },
@@ -975,7 +975,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Drip irrigation is most efficient because:",
-    options: ["Water is sprayed over large area uniformly", "Water is applied directly to the root zone with minimal losses", "It uses gravity flow without pumping", "Water is flooded in the entire field"],
+    options: ["Water is sprayed over large area uniformly in agronomy", "Water is applied directly to the root zone with minimal losses", "It uses gravity flow without pumping under field conditions", "Water is flooded in the entire field for crop production"],
     correct: 1,
     explanation: "Drip irrigation delivers water slowly and directly to the plant root zone through emitters, minimizing evaporation and runoff losses. Efficiency is 85–95%."
   },
@@ -1005,7 +1005,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Sprinkler irrigation is most suitable for:",
-    options: ["Undulating terrain with sandy soils and field crops like wheat, groundnut", "Orchards with heavy clay soils", "Deep-flooded sugarcane", "Flooded paddy fields"],
+    options: ["Undulating terrain with sandy soils and field crops like wheat, groundnut", "Orchards with heavy clay soils in agronomy", "Deep-flooded sugarcane under field conditions", "Flooded paddy fields for crop production"],
     correct: 0,
     explanation: "Sprinkler irrigation is ideal for undulating terrain, sandy soils, and crops like wheat, groundnut, and vegetables. Efficiency is 70–80%."
   },
@@ -1025,7 +1025,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Waterlogging occurs when:",
-    options: ["Rainfall exceeds crop water requirement", "Soil surface becomes extremely dry", "Irrigation intervals are very long", "The water table rises and saturates the root zone, restricting oxygen supply"],
+    options: ["Rainfall exceeds crop water requirement in agronomy", "Soil surface becomes extremely dry under field conditions", "Irrigation intervals are very long for crop production", "The water table rises and saturates the root zone, restricting oxygen supply"],
     correct: 3,
     explanation: "Waterlogging occurs when the water table rises into the root zone, saturating soil and reducing oxygen availability, causing anaerobic conditions harmful to most crops."
   },
@@ -1045,7 +1045,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Which method of irrigation is recommended for sugarcane?",
-    options: ["Sub-surface drip only", "Overhead sprinkler only", "Pitcher irrigation", "Border strip irrigation or furrow irrigation"],
+    options: ["Sub-surface drip only", "Overhead sprinkler only", "Pitcher irrigation in agronomy", "Border strip irrigation or furrow irrigation"],
     correct: 3,
     explanation: "Sugarcane is commonly irrigated by furrow irrigation (water flows in furrows between rows) or border strip irrigation, conserving water compared to flood irrigation."
   },
@@ -1055,7 +1055,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Sub-surface drainage is used to:",
-    options: ["Remove excess water from within the root zone using buried pipes", "Increase soil moisture retention", "Prevent water from entering canals", "Bring water to the root zone from deep water table"],
+    options: ["Remove excess water from within the root zone using buried pipes", "Increase soil moisture retention in agronomy", "Prevent water from entering canals under field conditions", "Bring water to the root zone from deep water table"],
     correct: 0,
     explanation: "Sub-surface drainage removes excess water from within the soil profile using perforated pipes or mole drains buried at depth, preventing waterlogging."
   },
@@ -1065,7 +1065,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Evapotranspiration (ET) is the sum of:",
-    options: ["Rainfall + irrigation", "Evaporation from soil surface + transpiration from plants", "Canopy interception + deep percolation", "Runoff + percolation"],
+    options: ["Rainfall + irrigation in agronomy", "Evaporation from soil surface + transpiration from plants", "Canopy interception + deep percolation", "Runoff + percolation under field conditions"],
     correct: 1,
     explanation: "Evapotranspiration (ET) = Evaporation (from soil and water surfaces) + Transpiration (from plant leaves). It represents total water loss from a cropped field."
   },
@@ -1075,7 +1075,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Micro-irrigation (drip and sprinkler) is promoted under which Government scheme in India?",
-    options: ["RKVY", "MGNREGS", "Pradhan Mantri Krishi Sinchayee Yojana (PMKSY)", "PMFBY"],
+    options: ["RKVY in agronomy", "MGNREGS under field conditions", "Pradhan Mantri Krishi Sinchayee Yojana (PMKSY)", "PMFBY for crop production"],
     correct: 2,
     explanation: "PMKSY (Pradhan Mantri Krishi Sinchayee Yojana) with 'Har Khet Ko Pani' and 'More Crop Per Drop' components promotes micro-irrigation across India."
   },
@@ -1089,7 +1089,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Dryland farming is practiced in areas with annual rainfall of:",
-    options: ["Any rainfall with drip irrigation", "More than 2000 mm", "750–1500 mm with canal irrigation", "Less than 750 mm with no assured irrigation"],
+    options: ["Any rainfall with drip irrigation", "More than 2000 mm in agronomy", "750–1500 mm with canal irrigation", "Less than 750 mm with no assured irrigation"],
     correct: 3,
     explanation: "Dryland farming is practiced in rainfed areas with annual rainfall below 750 mm (or up to 1150 mm in some definitions) where irrigation is not available."
   },
@@ -1109,7 +1109,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "In-situ moisture conservation in dryland farming refers to:",
-    options: ["Conserving rainfall where it falls in the field to maximize its use by the crop", "Spraying chemicals to reduce evaporation from soil", "Using irrigation from nearby river sources", "Storing rainwater in tanks and using it for irrigation"],
+    options: ["Conserving rainfall where it falls in the field to maximize its use by the crop", "Spraying chemicals to reduce evaporation from soil in agronomy", "Using irrigation from nearby river sources under field conditions", "Storing rainwater in tanks and using it for irrigation for crop production"],
     correct: 0,
     explanation: "In-situ moisture conservation involves practices like tied ridges, broad-bed furrows, and mulching to conserve rainwater in the field where it falls."
   },
@@ -1119,7 +1119,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Broad Bed and Furrow (BBF) system is recommended for:",
-    options: ["Vegetable crops under protected cultivation", "Orchards for water harvesting", "Flooded rice cultivation", "Dryland crops on Vertisols to manage excess moisture and drought"],
+    options: ["Vegetable crops under protected cultivation in agronomy", "Orchards for water harvesting under field conditions", "Flooded rice cultivation for crop production", "Dryland crops on Vertisols to manage excess moisture and drought"],
     correct: 3,
     explanation: "BBF is recommended for Vertisols (black cotton soils) in dryland areas to drain excess water during heavy rains while conserving moisture during dry spells."
   },
@@ -1129,7 +1129,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Contingency crop planning in dryland farming involves:",
-    options: ["Using cloud seeding to ensure rainfall", "Growing high-water-requiring crops in drought years", "Abandoning cultivation in drought years", "Selecting alternative short-duration, drought-tolerant crops if normal sowing fails"],
+    options: ["Using cloud seeding to ensure rainfall", "Growing high-water-requiring crops in drought years", "Abandoning cultivation in drought years in agronomy", "Selecting alternative short-duration, drought-tolerant crops if normal sowing fails"],
     correct: 3,
     explanation: "Contingency planning involves selecting alternate drought-tolerant, short-duration crops (e.g., cowpea, horsegram, castor) when normal monsoon onset is delayed."
   },
@@ -1139,7 +1139,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Watershed management involves:",
-    options: ["Integrated management of land, water, vegetation in a catchment area to optimize water use", "Management of water in reservoirs only", "Irrigation of only the watershed area", "Diversion of water from one basin to another"],
+    options: ["Integrated management of land, water, vegetation in a catchment area to optimize water use", "Management of water in reservoirs only in agronomy", "Irrigation of only the watershed area under field conditions", "Diversion of water from one basin to another for crop production"],
     correct: 0,
     explanation: "Watershed management is the process of guiding and organizing land use and other activities in a catchment area to provide desired goods and services without adversely affecting soil and water resources."
   },
@@ -1179,7 +1179,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Tied ridges in dryland farming are used to:",
-    options: ["Prevent surface runoff by blocking furrows at regular intervals", "Support creeper crops", "Guide irrigation water to crop rows", "Mark boundaries of fields"],
+    options: ["Prevent surface runoff by blocking furrows at regular intervals", "Support creeper crops in agronomy", "Guide irrigation water to crop rows", "Mark boundaries of fields under field conditions"],
     correct: 0,
     explanation: "Tied ridges are formed by placing small earthen ties across furrows at regular intervals to impound rainwater in place and increase in-situ infiltration."
   },
@@ -1213,7 +1213,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Land Equivalent Ratio (LER) > 1 indicates that intercropping:",
-    options: ["Is more productive than growing the crops separately in sole stands", "Is less productive than sole crops", "Has equal productivity to sole crops", "Has failed and one crop dominated the other"],
+    options: ["Is more productive than growing the crops separately in sole stands", "Is less productive than sole crops in agronomy", "Has equal productivity to sole crops under field conditions", "Has failed and one crop dominated the other"],
     correct: 0,
     explanation: "LER > 1 means intercropping is more efficient in using land resources than growing each crop as a sole crop. LER = 1 means no advantage; < 1 means disadvantage."
   },
@@ -1223,7 +1223,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Mixed cropping differs from intercropping in that:",
-    options: ["Mixed cropping uses same row geometry as sole cropping", "Mixed cropping is sowing two or more crops simultaneously without distinct row arrangement; intercropping has defined row patterns", "Intercropping means growing crops in sequence, not simultaneously", "There is no difference between the two terms"],
+    options: ["Mixed cropping uses same row geometry as sole cropping in agronomy", "Mixed cropping is sowing two or more crops simultaneously without distinct row arrangement; intercropping has defined row patterns", "Intercropping means growing crops in sequence, not simultaneously under field conditions", "There is no difference between the two terms for crop production"],
     correct: 1,
     explanation: "Mixed cropping involves sowing two or more crops together without specific row arrangement. Intercropping has defined spatial arrangement (alternate rows, paired rows, etc.)."
   },
@@ -1243,7 +1243,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Relay cropping is defined as:",
-    options: ["Sowing a second crop into a standing first crop before harvesting the first", "Growing two crops in alternate rows simultaneously throughout the season", "Mixed cropping with fixed row ratios", "Sequence of crops in a 3-year rotation plan"],
+    options: ["Sowing a second crop into a standing first crop before harvesting the first", "Growing two crops in alternate rows simultaneously throughout the season", "Mixed cropping with fixed row ratios in agronomy", "Sequence of crops in a 3-year rotation plan under field conditions"],
     correct: 0,
     explanation: "Relay cropping is sowing the second crop into the standing first crop before it is harvested, so both crops overlap for part of their life cycles."
   },
@@ -1253,7 +1253,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "The main benefit of crop rotation with legumes is:",
-    options: ["Addition of nitrogen to soil through biological N fixation", "Control of all pest species", "Reduction in water use", "Increase in soil phosphorus content"],
+    options: ["Addition of nitrogen to soil through biological N fixation", "Control of all pest species in agronomy", "Reduction in water use under field conditions", "Increase in soil phosphorus content for crop production"],
     correct: 0,
     explanation: "Legumes in rotation fix atmospheric nitrogen through Rhizobium symbiosis, reducing the nitrogen fertilizer requirement for the subsequent crop."
   },
@@ -1263,7 +1263,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "The cropping intensity formula is:",
-    options: ["Net sown area / Number of crops", "Gross sown area × 100", "Total crops grown / Total land available", "(Total area under all crops in a year / Net sown area) × 100"],
+    options: ["Net sown area / Number of crops in agronomy", "Gross sown area × 100 under field conditions", "Total crops grown / Total land available for crop production", "(Total area under all crops in a year / Net sown area) × 100"],
     correct: 3,
     explanation: "Cropping intensity = (Gross Cropped Area / Net Sown Area) × 100. If all land is double-cropped, intensity = 200%."
   },
@@ -1283,7 +1283,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "The concept of 'companion crops' in intercropping refers to:",
-    options: ["Only legume crops grown together", "Crops grown together that complement each other by having different resource needs", "Any two crops grown in sequence", "Two crops that compete intensely for the same resources"],
+    options: ["Only legume crops grown together in agronomy", "Crops grown together that complement each other by having different resource needs", "Any two crops grown in sequence under field conditions", "Two crops that compete intensely for the same resources"],
     correct: 1,
     explanation: "Companion crops are crops with complementary relationships, different rooting depths, canopy structures, or resource requirements that reduce competition and maximize land use."
   },
@@ -1437,7 +1437,7 @@ export const da101LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "The PUSA bin was developed to store food grains at village level and is effective against:",
-    options: ["Moisture ingress and grain storage insects/pests", "Fungal diseases only", "Rodents only", "Temperature fluctuations"],
+    options: ["Moisture ingress and grain storage insects/pests", "Fungal diseases only", "Rodents only in agronomy", "Temperature fluctuations under field conditions"],
     correct: 0,
     explanation: "PUSA bin is a metallic storage structure developed by IARI that is airtight, protecting grains from moisture, insects, and to some extent rodents."
   },

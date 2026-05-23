@@ -90,7 +90,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "Lodging in wheat is primarily caused by:",
-    options: ["Deficiency of potassium in crop production", "Excess phosphorus application in field conditions", "Excess nitrogen + irrigation, causing tall, weak stems that fall over", "Late sowing of the crop for agricultural purposes"],
+    options: ["Deficiency of potassium in crop production in agriculture", "Excess phosphorus application in field conditions under field conditions", "Excess nitrogen + irrigation, causing tall, weak stems that fall over", "Late sowing of the crop for agricultural purposes"],
     correct: 2,
     explanation: "Lodging (plants falling over) occurs when excess nitrogen or high plant population creates tall, soft, weak stems that cannot support the heavy grain head in combination with strong winds or heavy rain. Dwarf varieties resist lodging better."
   },
@@ -110,7 +110,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "Which fungal disease is the most serious threat to wheat production?",
-    options: ["Charcoal rot in crop production", "Yellow (stripe) rust, brown (leaf) rust, and black (stem) rust", "Alternaria blight in field conditions", "Sclerotinia stem rot for agricultural purposes"],
+    options: ["Charcoal rot in crop production in agriculture", "Yellow (stripe) rust, brown (leaf) rust, and black (stem) rust", "Alternaria blight in field conditions under field conditions", "Sclerotinia stem rot for agricultural purposes for crop production"],
     correct: 1,
     explanation: "Rusts (caused by Puccinia spp.) are the most devastating wheat diseases. Yellow/stripe rust (P. striiformis), Brown/leaf rust (P. triticina) and Black/stem rust (P. graminis) can cause 10–100% yield loss in susceptible varieties under epidemic conditions."
   },
@@ -192,7 +192,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Rhizobium inoculation of chickpea seed is recommended because:",
-    options: ["It increases seed size in crop production", "It promotes biological N fixation through root nodule bacteria, reducing fertiliser N requirement", "It controls pod borer attack in field conditions", "It improves germination speed for agricultural purposes"],
+    options: ["It increases seed size in crop production in agriculture", "It promotes biological N fixation through root nodule bacteria, reducing fertiliser N requirement", "It controls pod borer attack in field conditions under field conditions", "It improves germination speed for agricultural purposes for crop production"],
     correct: 1,
     explanation: "Chickpea is nodulated by Mesorhizobium ciceri. Inoculation with the specific Rhizobium culture fixes atmospheric N2 biologically (50–150 kg N/ha), reducing the need for chemical N fertiliser by up to 60–80% and improving soil fertility."
   },
@@ -556,7 +556,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Safflower (Carthamus tinctorius) is particularly adapted to:",
-    options: ["Semi-arid and arid dryland areas with shallow to medium black soils", "Waterlogged paddy fields in crop production", "Humid tropical rainforest conditions in field conditions", "High-altitude cold regions for agricultural purposes"],
+    options: ["Semi-arid and arid dryland areas with shallow to medium black soils", "Waterlogged paddy fields in crop production in agriculture", "Humid tropical rainforest conditions in field conditions under field conditions", "High-altitude cold regions for agricultural purposes for crop production"],
     correct: 0,
     explanation: "Safflower is one of the most drought-hardy oilseed crops, adapted to semi-arid dryland areas with black cotton soils. It can utilise stored soil moisture and is thus ideal for rainfed rabi conditions in Telangana, AP, Maharashtra and Karnataka."
   },
@@ -626,7 +626,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Safflower flowers (petals) are commercially used for:",
-    options: ["Natural dye (carthamins), as dried petals for herbal tea, and in food colouring", "Medical surgery in crop production", "Biofuel production primarily in field conditions", "Extracting essential oil for cosmetics only for agricultural purposes"],
+    options: ["Natural dye (carthamins), as dried petals for herbal tea, and in food colouring", "Medical surgery in crop production in agriculture", "Biofuel production primarily in field conditions under field conditions", "Extracting essential oil for cosmetics only for agricultural purposes"],
     correct: 0,
     explanation: "Safflower petals contain carthamin (red-yellow dye) and water-soluble yellow carthamidin, used as natural food colouring, textile dye, cosmetics ingredient and in herbal tea (as a substitute for saffron in some regions). Seeds are pressed for oil."
   },
@@ -708,7 +708,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Castor plant (Ricinus communis) is primarily a:",
-    options: ["Wind-pollinated annual with bisexual flowers in crop production", "Vegetatively propagated perennial crop in field conditions", "Cross-pollinated (monoecious) plant with separate male and female flowers on the same plant", "Self-pollinated annual crop for agricultural purposes"],
+    options: ["Wind-pollinated annual with bisexual flowers in crop production in agriculture", "Vegetatively propagated perennial crop in field conditions under field conditions", "Cross-pollinated (monoecious) plant with separate male and female flowers on the same plant", "Self-pollinated annual crop for agricultural purposes for crop production"],
     correct: 2,
     explanation: "Castor is monoecious – male and female flowers are separate but on the same plant (female flowers at the top of the spike, male below). It is predominantly cross-pollinated by wind and insects, which is exploited in hybrid seed production using CMS lines."
   },
@@ -738,7 +738,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "The major insect pest of castor is:",
-    options: ["Tobacco caterpillar (Spodoptera litura) and semi-looper (Achaea janata)", "Aphid in crop production", "Whitefly only in field conditions", "Grasshopper for agricultural purposes"],
+    options: ["Tobacco caterpillar (Spodoptera litura) and semi-looper (Achaea janata)", "Aphid in crop production in agriculture", "Whitefly only in field conditions", "Grasshopper for agricultural purposes under field conditions"],
     correct: 0,
     explanation: "Semi-looper (Achaea janata) and tobacco caterpillar (Spodoptera litura) are the most destructive caterpillar pests of castor, causing complete defoliation. Castor capsule borer (Dichocrocis punctiferalis) damages developing seeds in capsules."
   },
@@ -850,7 +850,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Niger (Guizotia abyssinica) or ramtil is mainly grown in:",
-    options: ["Punjab and Haryana as a rabi crop in crop production", "Tamil Nadu paddy fallows in field conditions", "Tribal and upland areas of Chhattisgarh, Odisha, and Jharkhand as a kharif/pre-rabi crop", "Gujarat as an irrigated crop for agricultural purposes"],
+    options: ["Punjab and Haryana as a rabi crop in crop production", "Tamil Nadu paddy fallows in field conditions in agriculture", "Tribal and upland areas of Chhattisgarh, Odisha, and Jharkhand as a kharif/pre-rabi crop", "Gujarat as an irrigated crop for agricultural purposes under field conditions"],
     correct: 2,
     explanation: "Niger (ramtil) is primarily grown in tribal upland areas of Chhattisgarh, Odisha, Jharkhand, Maharashtra and Andhra Pradesh. It is a hardy crop adapted to shallow, poor, and laterite soils with very low inputs."
   },
@@ -1012,7 +1012,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Trash mulching in sugarcane means:",
-    options: ["Adding trash to compost pits only in crop production", "Removing all leaves (topping) during growth in field conditions", "Spreading dried sugarcane leaf trash between rows as mulch to conserve moisture and control weeds", "Burning dried sugarcane leaves before harvest for agricultural purposes"],
+    options: ["Adding trash to compost pits only in crop production in agriculture", "Removing all leaves (topping) during growth in field conditions under field conditions", "Spreading dried sugarcane leaf trash between rows as mulch to conserve moisture and control weeds", "Burning dried sugarcane leaves before harvest for agricultural purposes for crop production"],
     correct: 2,
     explanation: "Trash mulching involves spreading dried fallen sugarcane leaves (trash) between rows at 10 cm depth. It conserves soil moisture (reduces evaporation), suppresses weed growth, improves soil organic matter as it decomposes, and reduces irrigation frequency."
   },
@@ -1032,7 +1032,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "The bud chip planting method of sugarcane uses:",
-    options: ["Single-bud chips (4–5 cm) cut from the cane stalk for nursery raising or direct field planting", "Root cuttings from mature stools in crop production", "Full-length cane stalks planted horizontally in field conditions", "Seed pieces from the top of the cane for agricultural purposes"],
+    options: ["Single-bud chips (4–5 cm) cut from the cane stalk for nursery raising or direct field planting", "Root cuttings from mature stools in crop production in agriculture", "Full-length cane stalks planted horizontally in field conditions under field conditions", "Seed pieces from the top of the cane for agricultural purposes for crop production"],
     correct: 0,
     explanation: "Bud chip planting uses single-bud chips of 4–5 cm cut with a special chip budder. These are used to raise nursery seedlings in pro-trays (STP technology) or planted directly. It saves 90% of seed cane over conventional sett method."
   },
@@ -1092,7 +1092,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "What is the optimal time to harvest sugarcane for maximum sucrose content?",
-    options: ["Only after 18–24 months when all nodes are hardened in crop production", "When brix (% total soluble solids) is 18–22% and juice sucrose is 12–14% (10–12 months for subtropical, 12–14 for tropical)", "6–8 months after planting (before grand growth ends) in field conditions", "Immediately after the monsoon starts for agricultural purposes"],
+    options: ["Only after 18–24 months when all nodes are hardened in crop production in agriculture", "When brix (% total soluble solids) is 18–22% and juice sucrose is 12–14%", "6–8 months after planting (before grand growth ends) in field conditions under field conditions", "Immediately after the monsoon starts for agricultural purposes for crop production"],
     correct: 1,
     explanation: "Sugarcane reaches maximum sucrose content at maturity (10–12 months for subtropical, 12–14 months for tropical), when brix is 18–22%, pol % cane is >10%, and refractometer reading is stable for 2–3 weeks. Harvesting at optimum maturity maximises sugar recovery."
   },
@@ -1184,7 +1184,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "FC-1 is a fodder cowpea variety. Its main advantage is:",
-    options: ["Tolerance to frost in crop production", "Suitability for rabi season only in field conditions", "Very high seed yield for grain production for agricultural purposes", "High green fodder yield with good protein content (18–22%) in a short duration"],
+    options: ["Tolerance to frost in crop production in agriculture", "Suitability for rabi season only in field conditions under field conditions", "Very high seed yield for grain production for agricultural purposes", "High green fodder yield with good protein content (18–22%) in a short duration"],
     correct: 3,
     explanation: "FC-1 (Fodder Cowpea 1) produces high green fodder yield in a short duration (60–70 days). Cowpea is a legume fodder with 18–22% crude protein, improving livestock milk production and growth rates. It is grown in both kharif and summer seasons."
   },
@@ -1204,7 +1204,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "The 'Jowar-Cowpea' intercropping system is popular for fodder because:",
-    options: ["Both fix nitrogen equally in crop production", "No mixing of protein and carbohydrates is needed in animal feed", "Jowar supplies protein; cowpea supplies energy in field conditions", "Jowar supplies energy and structural carbohydrates; cowpea fixes N and supplies protein, improving overall fodder quality"],
+    options: ["Both fix nitrogen equally in crop production in agriculture", "No mixing of protein and carbohydrates is needed in animal feed under field conditions", "Jowar supplies protein; cowpea supplies energy in field conditions for crop production", "Jowar supplies energy and structural carbohydrates; cowpea fixes N and supplies protein, improving overall fodder quality"],
     correct: 3,
     explanation: "Sorghum (jowar) is a high-yielding cereal fodder rich in energy but low in protein. Intercropping with cowpea (a legume) adds protein (18–22% CP in cowpea vs 7–9% in sorghum alone), gives a balanced ration, and cowpea also fixes 50–80 kg N/ha."
   },
@@ -1234,7 +1234,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Prussic acid (HCN) poisoning in livestock fed on sorghum fodder occurs when:",
-    options: ["Plants are fully mature with high dry matter in crop production", "Silage-preserved sorghum is fed in field conditions", "Young, stressed (drought, frost) or regrowth sorghum plants are fed as there is high dhurrin content", "Plants are harvested at flowering stage for agricultural purposes"],
+    options: ["Plants are fully mature with high dry matter in crop production in agriculture", "Silage-preserved sorghum is fed in field conditions under field conditions", "Young, stressed (drought, frost) or regrowth sorghum plants are fed as there is high dhurrin content", "Plants are harvested at flowering stage for agricultural purposes for crop production"],
     correct: 2,
     explanation: "Young sorghum plants and regrowth (ratoon) shoots contain high dhurrin (cyanogenic glucoside) that hydrolyses to HCN under stress (drought, frost, nutrient deficiency). HCN causes prussic acid poisoning in livestock. Silage fermentation destroys most HCN."
   },
@@ -1274,7 +1274,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Stylosanthes hamata (stylo) is a tropical legume fodder used for:",
-    options: ["Coffee shade plant in crop production", "Dryland/rangeland improvement and as a protein bank for cattle grazing", "Irrigated cultivation only in field conditions", "Making silage only for agricultural purposes"],
+    options: ["Coffee shade plant in crop production in agriculture", "Dryland/rangeland improvement and as a protein bank for cattle grazing", "Irrigated cultivation only in field conditions under field conditions", "Making silage only for agricultural purposes for crop production"],
     correct: 1,
     explanation: "Stylosanthes (stylo) is a drought-hardy tropical legume used to improve degraded pastures and rangeland. It establishes on poor, acidic soils, fixes nitrogen (80–100 kg N/ha), provides nutritious protein-rich fodder even in dry conditions."
   },
@@ -1284,7 +1284,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Maize used for silage is harvested at which grain development stage?",
-    options: ["Full physiological maturity (black layer) in crop production", "Milk to early dough stage (30–35% dry matter in whole plant)", "Silking (pollen shedding) stage in field conditions", "Dent stage only for agricultural purposes"],
+    options: ["Full physiological maturity (black layer) in crop production", "Milk to early dough stage (30–35% dry matter in whole plant)", "Silking (pollen shedding) stage in field conditions in agriculture", "Dent stage only for agricultural purposes under field conditions"],
     correct: 1,
     explanation: "Optimum maize silage harvest is at whole-plant 30–35% dry matter (65–70% moisture), corresponding to milk to early dough grain stage (approximately 100–110 DAS). At this stage, yield, starch content, digestibility and fermentation quality are all optimised."
   },
@@ -1294,7 +1294,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Which of the following is an advantage of hay-making over silage making?",
-    options: ["Hay retains more water-soluble vitamins in crop production", "Hay-making requires no special equipment or airtight structure and can be done in small quantities", "Hay has higher digestibility than silage in field conditions", "Hay can be made from any moisture content without risk"],
+    options: ["Hay retains more water-soluble vitamins in crop production in agriculture", "Hay-making requires no special equipment or airtight structure and can be done in small quantities", "Hay has higher digestibility than silage in field conditions under field conditions", "Hay can be made from any moisture content without risk for crop production"],
     correct: 1,
     explanation: "Hay-making (sun-drying to <15% moisture) requires no airtight silo, special equipment or acidification. It is simple, low-cost and can be stored for months without special infrastructure. Silage needs airtight silos, is heavier, and requires larger quantities for efficient fermentation."
   },
@@ -1326,7 +1326,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "LCA-206 is a high-yielding chilli variety recommended for:",
-    options: ["Export fresh market in crop production", "Greenhouse cultivation only in field conditions", "North India only for agricultural purposes", "Andhra Pradesh and Telangana with high colour value and yield"],
+    options: ["Export fresh market in crop production in agriculture", "Greenhouse cultivation only in field conditions under field conditions", "North India only for agricultural purposes for crop production", "Andhra Pradesh and Telangana with high colour value and yield"],
     correct: 3,
     explanation: "LCA-206 is an improved chilli variety recommended for Andhra Pradesh and Telangana. AP is the leading chilli-producing state in India (Guntur, Krishna districts). LCA varieties are developed by PJTSAU/ANGRAU for AP conditions."
   },
@@ -1416,7 +1416,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Nematode wilt of chilli is managed by:",
-    options: ["Burning crop residues only in crop production", "Applying urea in excess in field conditions", "Overhead irrigation for agricultural purposes", "Chemical nematicide (carbofuran) soil treatment and biocontrol with Paecilomyces lilacinus"],
+    options: ["Burning crop residues only in crop production", "Applying urea in excess in field conditions", "Overhead irrigation for agricultural purposes in agriculture", "Chemical nematicide (carbofuran) soil treatment and biocontrol with Paecilomyces lilacinus"],
     correct: 3,
     explanation: "Root knot nematode (Meloidogyne incognita) causes severe wilt of chilli. Management: carbofuran 3G @ 1 kg a.i./ha at transplanting, soil application of Paecilomyces lilacinus bioagent, summer deep ploughing, and resistant rootstock grafting."
   },
@@ -1478,7 +1478,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Burley tobacco differs from FCV tobacco in its curing method:",
-    options: ["Air cured – hung in open, well-ventilated barns at ambient temperature for 4–8 weeks", "Fire cured with direct wood smoke in crop production", "Sun cured in open fields in field conditions", "Flue cured in barns with indirect heat for agricultural purposes"],
+    options: ["Air cured – hung in open, well-ventilated barns at ambient temperature for 4–8 weeks", "Fire cured with direct wood smoke in crop production in agriculture", "Sun cured in open fields in field conditions under field conditions", "Flue cured in barns with indirect heat for agricultural purposes for crop production"],
     correct: 0,
     explanation: "Burley tobacco is air cured in open barns allowing natural air circulation for 4–8 weeks. Unlike FCV, no heat is applied. Burley is low in sugar, high in nicotine, and is the main cigarette filler tobacco in American-blend cigarettes."
   },
@@ -1538,7 +1538,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "The flue curing process in tobacco preserves which property in the leaf?",
-    options: ["High fibre content for paper in crop production", "Natural yellow colour (starch to sugar conversion) and aroma by controlled temperature increase", "High protein content for nutrition in field conditions", "High moisture content for fermentation for agricultural purposes"],
+    options: ["High fibre content for paper in crop production in agriculture", "Natural yellow colour (starch to sugar conversion) and aroma by controlled temperature increase", "High protein content for nutrition in field conditions under field conditions", "High moisture content for fermentation for agricultural purposes for crop production"],
     correct: 1,
     explanation: "During flue curing (5–7 days), temperature is gradually raised: yellowing phase (38–45°C) → colour fixing phase (54–60°C) → leaf drying (71°C) → midrib drying (77°C). This converts starch to sugars (high sugar = mild smoke) and fixes the golden-yellow colour."
   },
@@ -1568,7 +1568,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Topping in tobacco cultivation refers to:",
-    options: ["Applying irrigation at the top of the field in crop production", "Harvesting only the top leaves first in field conditions", "Applying top dressing of fertiliser for agricultural purposes", "Removing the apical terminal bud/flower cluster to divert assimilates to leaf expansion and improve leaf size"],
+    options: ["Applying irrigation at the top of the field in crop production in agriculture", "Harvesting only the top leaves first in field conditions under field conditions", "Applying top dressing of fertiliser for agricultural purposes for crop production", "Removing the apical terminal bud/flower cluster to divert assimilates to leaf expansion and improve leaf size"],
     correct: 3,
     explanation: "Topping (removing the flower head) in tobacco is done when 30–50% of plants begin to flower. This stops seed formation and redirects photoassimilates to leaf enlargement and quality improvement. Topping is usually followed by sucker removal (de-suckering)."
   },
@@ -2000,7 +2000,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Sesame is regarded as Queen of Oilseeds because of:",
-    options: ["Its drought tolerance in crop production", "Its high yield potential in field conditions", "Its wide adaptability for agricultural purposes", "Its quality fatty acid composition and resistance to oxidation and rancidity"],
+    options: ["Its drought tolerance in crop production in agriculture", "Its high yield potential in field conditions under field conditions", "Its wide adaptability for agricultural purposes for crop production", "Its quality fatty acid composition and resistance to oxidation and rancidity"],
     correct: 3,
     explanation: "As per DA-201 notes, sesame is regarded as queen of oilseeds because of its quality (fatty acid composition) and its resistance to oxidation and rancidity."
   },
@@ -2080,7 +2080,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "The most critical stage of safflower crop growth for irrigation is:",
-    options: ["At sowing in crop production", "Seed filling stage in field conditions", "Rosette stage at 21 DAS or 4-6 leaf stage", "Flowering stage for agricultural purposes"],
+    options: ["At sowing in crop production in agriculture", "Seed filling stage in field conditions", "Rosette stage at 21 DAS or 4-6 leaf stage", "Flowering stage for agricultural purposes under field conditions"],
     correct: 2,
     explanation: "As per DA-201 notes, rosette stage (21 DAS or 4-6 leaf stage) is the most critical stage of safflower and yield can be increased by 40-60% with irrigation at this stage."
   },

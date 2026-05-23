@@ -29,7 +29,7 @@ export const farmMachineryQuestions: Question[] = [
     id: "fm004",
     subject: "farm-machinery",
     question: "A disc plough is preferred over mould board plough in:",
-    options: ["Soft sandy soils", "Hard, dry, rocky or sticky soils that would cause problems for mould board", "Waterlogged soils", "Well-pulverized garden soils"],
+    options: ["Soft sandy soils as per agricultural engineering and machinery standards", "Hard, dry, rocky or sticky soils that would cause problems for mould board", "Waterlogged soils as per agricultural engineering and machinery standards", "Well-pulverized garden soils as per agricultural engineering and machinery standards"],
     correct: 1,
     explanation: "Disc ploughs are preferred in hard, dry, rocky or sticky soils because the disc can roll over obstructions. They work better than mould board plough in difficult soil conditions."
   },
@@ -37,7 +37,7 @@ export const farmMachineryQuestions: Question[] = [
     id: "fm005",
     subject: "farm-machinery",
     question: "The function of a seed drill is to:",
-    options: ["Only furrow opening", "Metering, conveying and placing seeds at proper depth and spacing", "Only seed covering", "Fertilizer application only"],
+    options: ["Only furrow opening in farm operations", "Metering, conveying and placing seeds at proper depth and spacing", "Only seed covering for tractor operation", "Fertilizer application only in agricultural machinery"],
     correct: 1,
     explanation: "A seed drill performs multiple functions: furrow opening, metering the seed at correct rate, conveying seeds to furrows, placing at proper depth and spacing, and covering and firming the soil over seeds."
   },
@@ -45,7 +45,7 @@ export const farmMachineryQuestions: Question[] = [
     id: "fm006",
     subject: "farm-machinery",
     question: "Threshing efficiency is defined as:",
-    options: ["Grains recovered / total grain input × 100", "Grains threshed cleanly / total grains in crop × 100", "Speed of threshing / total time", "Total output / total input"],
+    options: ["Grains recovered / total grain input × 100", "Grains threshed cleanly / total grains in crop × 100", "Speed of threshing / total time in farm operations", "Total output / total input for tractor operation"],
     correct: 1,
     explanation: "Threshing efficiency = (Grains separated from straw / Total grains in crop) × 100. Good threshers should have efficiency above 99% with minimum grain damage."
   },
@@ -61,7 +61,7 @@ export const farmMachineryQuestions: Question[] = [
     id: "fm008",
     subject: "farm-machinery",
     question: "The hydraulic system in a tractor is used for:",
-    options: ["Steering only", "Lifting and controlling mounted implements and draft control", "Engine cooling", "Fuel injection"],
+    options: ["Steering only in farm operations", "Lifting and controlling mounted implements and draft control", "Engine cooling for tractor operation", "Fuel injection in agricultural machinery"],
     correct: 1,
     explanation: "The tractor hydraulic system is used to lift, lower and control mounted implements through the three-point hitch. It also provides draft control to maintain uniform working depth."
   },
@@ -69,7 +69,7 @@ export const farmMachineryQuestions: Question[] = [
     id: "fm009",
     subject: "farm-machinery",
     question: "Field efficiency of an implement is:",
-    options: ["Theoretical field capacity / Effective field capacity", "Effective field capacity / Theoretical field capacity × 100", "Area covered / time taken", "Fuel consumed / area covered"],
+    options: ["Theoretical field capacity / Effective field capacity", "Effective field capacity / Theoretical field capacity × 100", "Area covered / time taken in farm operations", "Fuel consumed / area covered for tractor operation"],
     correct: 1,
     explanation: "Field efficiency = (Effective field capacity / Theoretical field capacity) × 100. It accounts for time lost in turning, adjustments, and other non-productive activities."
   },
@@ -77,7 +77,7 @@ export const farmMachineryQuestions: Question[] = [
     id: "fm010",
     subject: "farm-machinery",
     question: "Rotavator is used for:",
-    options: ["Deep ploughing only", "Seedbed preparation, mixing crop residues and weeds in one pass", "Harvesting crops", "Irrigation"],
+    options: ["Deep ploughing only in farm operations", "Seedbed preparation, mixing crop residues and weeds in one pass", "Harvesting crops as per agricultural engineering and machinery standards", "Irrigation as per agricultural engineering and machinery standards"],
     correct: 1,
     explanation: "Rotavator (rotary tiller) uses powered rotating blades to prepare a fine seedbed, mix crop residues, and kill weeds in one pass. It is PTO driven and creates a good tilth."
   },
@@ -85,7 +85,7 @@ export const farmMachineryQuestions: Question[] = [
     id: "fm011",
     subject: "farm-machinery",
     question: "The three-point linkage of a tractor consists of:",
-    options: ["One top link and one lower link", "Two lower links and one top link (central)", "Three equal links", "Four links"],
+    options: ["One top link and one lower link", "Two lower links and one top link (central)", "Three equal links in farm operations", "Four links for tractor operation"],
     correct: 1,
     explanation: "The standard three-point linkage has two lower links and one central top link forming a triangle. It provides stable attachment and allows hydraulic lifting of implements."
   },
@@ -109,7 +109,7 @@ export const farmMachineryQuestions: Question[] = [
     id: "fm014",
     subject: "farm-machinery",
     question: "The efficiency of a centrifugal pump is the ratio of:",
-    options: ["Input power to output power", "Water horsepower to shaft (brake) horsepower × 100", "Head developed to speed", "Flow rate to head"],
+    options: ["Input power to output power", "Water horsepower to shaft (brake) horsepower × 100", "Head developed to speed in farm operations", "Flow rate to head for tractor operation"],
     correct: 1,
     explanation: "Pump efficiency = (Water HP / Shaft HP) × 100. Water HP is the actual power delivered to water, and shaft HP is the power input to the pump shaft."
   },
@@ -117,7 +117,7 @@ export const farmMachineryQuestions: Question[] = [
     id: "fm015",
     subject: "farm-machinery",
     question: "Zero tillage (no-till) farming helps in:",
-    options: ["Increasing soil compaction", "Conservation of soil moisture, reducing fuel cost and soil erosion", "Requiring more herbicides only", "Reducing crop yields"],
+    options: ["Increasing soil compaction in farm operations", "Conservation of soil moisture, reducing fuel cost and soil erosion", "Requiring more herbicides only for tractor operation", "Reducing crop yields in agricultural machinery"],
     correct: 1,
     explanation: "Zero tillage conserves soil moisture, reduces fuel and labor costs, prevents soil erosion, maintains soil structure, reduces weed germination, and allows timely sowing especially in rice-wheat systems."
   },
@@ -125,7 +125,7 @@ export const farmMachineryQuestions: Question[] = [
     id: "fm016",
     subject: "farm-machinery",
     question: "Specific draft of an implement is:",
-    options: ["Total draft × width", "Draft per unit cross-sectional area of soil cut (kN/m²)", "Draft / speed", "Total power required"],
+    options: ["Total draft × width in farm operations", "Draft per unit cross-sectional area of soil cut (kN/m²)", "Draft / speed for tractor operation", "Total power required in agricultural machinery"],
     correct: 1,
     explanation: "Specific draft = Total draft / (Width × Depth) = Force per unit cross-sectional area of soil cut. It is used to compare efficiency of different tillage implements."
   },
@@ -133,7 +133,7 @@ export const farmMachineryQuestions: Question[] = [
     id: "fm017",
     subject: "farm-machinery",
     question: "The main advantage of minimum tillage is:",
-    options: ["Higher pest control", "Reduces soil disturbance, erosion, fuel consumption and time", "Better aeration", "Increases weeds for control practice"],
+    options: ["Higher pest control in farm operations", "Reduces soil disturbance, erosion, fuel consumption and time", "Better aeration for tractor operation", "Increases weeds for control practice"],
     correct: 1,
     explanation: "Minimum tillage reduces soil disturbance to a minimum, conserving soil structure, reducing erosion, fuel consumption, labor costs, and time while maintaining or improving yields."
   },
@@ -141,7 +141,7 @@ export const farmMachineryQuestions: Question[] = [
     id: "fm018",
     subject: "farm-machinery",
     question: "Chaff cutter is used for:",
-    options: ["Cutting wheat crop", "Cutting fodder/straw into small pieces for animal feed", "Making compost", "Irrigation"],
+    options: ["Cutting wheat crop in farm operations", "Cutting fodder/straw into small pieces for animal feed", "Making compost for tractor operation", "Irrigation in agricultural machinery"],
     correct: 1,
     explanation: "A chaff cutter cuts green or dry fodder (crop straw) into small pieces to improve palatability, reduce wastage, and facilitate digestion when fed to livestock."
   },
@@ -149,7 +149,7 @@ export const farmMachineryQuestions: Question[] = [
     id: "fm019",
     subject: "farm-machinery",
     question: "The capacity of a tractor is generally measured in:",
-    options: ["RPM", "Kilowatts (kW) or horse power (HP)", "kg weight", "Litres of fuel tank"],
+    options: ["RPM in farm operations", "Kilowatts (kW) or horse power (HP)", "kg weight for tractor operation", "Litres of fuel tank"],
     correct: 1,
     explanation: "Tractor capacity/power is measured in kilowatts (kW) or horsepower (HP or CV). Common farm tractors range from 25 HP to 90 HP in India."
   },
@@ -157,7 +157,7 @@ export const farmMachineryQuestions: Question[] = [
     id: "fm020",
     subject: "farm-machinery",
     question: "A transplanter is used for:",
-    options: ["Broadcasting seeds", "Mechanical planting of seedlings at uniform spacing and depth", "Deep ploughing", "Harvesting"],
+    options: ["Broadcasting seeds in farm operations", "Mechanical planting of seedlings at uniform spacing and depth", "Deep ploughing for tractor operation", "Harvesting as per agricultural engineering and machinery standards"],
     correct: 1,
     explanation: "A transplanter mechanically plants seedlings (rice, vegetables) at uniform spacing and depth, replacing manual transplanting. Rice transplanters are widely used to reduce labor and ensure uniform spacing."
   },
@@ -165,7 +165,7 @@ export const farmMachineryQuestions: Question[] = [
     id: "fm021",
     subject: "farm-machinery",
     question: "The function of a subsoiler is to:",
-    options: ["Surface tillage only", "Break up hardpan/plough pan below normal ploughing depth (40-90 cm)", "Level the field", "Apply fertilizers"],
+    options: ["Surface tillage only in farm operations", "Break up hardpan/plough pan below normal ploughing depth (40-90 cm)", "Level the field for tractor operation", "Apply fertilizers as per agricultural engineering and machinery standards"],
     correct: 1,
     explanation: "A subsoiler breaks up the hard compacted layer (hardpan or plough pan) below normal ploughing depth (40-90 cm) to improve water infiltration, drainage, and root penetration."
   },
@@ -173,7 +173,7 @@ export const farmMachineryQuestions: Question[] = [
     id: "fm022",
     subject: "farm-machinery",
     question: "Water horsepower (WHP) of a pump is calculated as:",
-    options: ["WHP = Q × H / 75 (metric) or Q × H / 3960 (US)", "WHP = RPM × Torque", "WHP = Pressure × Area", "WHP = Flow rate × Efficiency"],
+    options: ["WHP = Q × H / 75 (metric) or Q × H / 3960 (US)", "WHP = RPM × Torque as per agricultural engineering and machinery standards", "WHP = Pressure × Area as per agricultural engineering and machinery standards", "WHP = Flow rate × Efficiency in agricultural machinery"],
     correct: 0,
     explanation: "Water HP = (Q × H) / 75 in metric system, where Q = discharge (litres/sec), H = total head (m). In US system, WHP = (GPM × H) / 3960."
   },
@@ -189,7 +189,7 @@ export const farmMachineryQuestions: Question[] = [
     id: "fm024",
     subject: "farm-machinery",
     question: "Winnowing is the process of:",
-    options: ["Cleaning seeds by using air current to separate grain from chaff", "Sowing seeds", "Harvesting grain", "Threshing grain"],
+    options: ["Cleaning seeds by using air current to separate grain from chaff", "Sowing seeds as per agricultural engineering and machinery standards", "Harvesting grain as per agricultural engineering and machinery standards", "Threshing grain as per agricultural engineering and machinery standards"],
     correct: 0,
     explanation: "Winnowing separates threshed grain from chaff and straw using an air current (wind or fan). Heavier grains fall while lighter chaff is blown away."
   },
@@ -197,7 +197,7 @@ export const farmMachineryQuestions: Question[] = [
     id: "fm025",
     subject: "farm-machinery",
     question: "Turbocharger in a tractor engine is used to:",
-    options: ["Cool the engine", "Increase engine power by forcing more air into cylinders", "Reduce fuel consumption", "Control engine speed"],
+    options: ["Cool the engine in farm operations", "Increase engine power by forcing more air into cylinders", "Reduce fuel consumption for tractor operation", "Control engine speed in agricultural machinery"],
     correct: 1,
     explanation: "A turbocharger uses exhaust gas to drive a compressor that forces more air into the engine cylinders, increasing power output without increasing engine size."
   },
@@ -205,7 +205,7 @@ export const farmMachineryQuestions: Question[] = [
     id: "fm026",
     subject: "farm-machinery",
     question: "The ideal soil moisture condition for primary tillage operations is:",
-    options: ["Very wet (saturated)", "Very dry", "Friable condition (neither too wet nor too dry)", "Waterlogged"],
+    options: ["Very wet (saturated) in farm operations", "Very dry for tractor operation", "Friable condition (neither too wet nor too dry)", "Waterlogged in agricultural machinery"],
     correct: 2,
     explanation: "Friable soil condition (near field capacity but not too wet) is ideal for tillage as it requires minimum draft, creates good aggregates, and reduces compaction risks."
   },
@@ -237,7 +237,7 @@ export const farmMachineryQuestions: Question[] = [
     id: "fm030",
     subject: "farm-machinery",
     question: "The purpose of differential in a tractor is to:",
-    options: ["Increase tractor speed", "Allow rear wheels to rotate at different speeds during turns", "Engage PTO", "Control hydraulics"],
+    options: ["Increase tractor speed in farm operations", "Allow rear wheels to rotate at different speeds during turns", "Engage PTO as per agricultural engineering and machinery standards", "Control hydraulics as per agricultural engineering and machinery standards"],
     correct: 1,
     explanation: "The differential allows the two rear wheels to rotate at different speeds when the tractor turns, preventing tire scuffing and wheel slip while maintaining power transmission."
   },
@@ -245,7 +245,7 @@ export const farmMachineryQuestions: Question[] = [
     id: "fm031",
     subject: "farm-machinery",
     question: "Sickle bar (reciprocating) cutter is used in:",
-    options: ["Seed drills", "Reapers and combine harvesters for cutting crops", "Threshers", "Planters"],
+    options: ["Seed drills in farm operations", "Reapers and combine harvesters for cutting crops", "Threshers for tractor operation", "Planters in agricultural machinery"],
     correct: 1,
     explanation: "Reciprocating sickle bar cutters are used in reapers and combine harvesters to cut crops. The serrated blades move back and forth to cut crop stems at the base."
   },
@@ -253,7 +253,7 @@ export const farmMachineryQuestions: Question[] = [
     id: "fm032",
     subject: "farm-machinery",
     question: "Hydraulic ram is used for:",
-    options: ["Lifting water to higher elevation using water hammer effect without external power", "Tractor hydraulics", "Pump priming", "Power generation"],
+    options: ["Lifting water to higher elevation using water hammer effect without external power", "Tractor hydraulics as per agricultural engineering and machinery standards", "Pump priming as per agricultural engineering and machinery standards", "Power generation as per agricultural engineering and machinery standards"],
     correct: 0,
     explanation: "A hydraulic ram uses the kinetic energy of falling water (water hammer effect) to pump a small portion of that water to a higher elevation without any external power source."
   },
@@ -261,7 +261,7 @@ export const farmMachineryQuestions: Question[] = [
     id: "fm033",
     subject: "farm-machinery",
     question: "The critical speed of a tractor refers to:",
-    options: ["Maximum engine speed", "Speed at which engine operates most efficiently for field work (4-8 km/h)", "Speed for road transport", "Speed for PTO operation"],
+    options: ["Maximum engine speed as per agricultural engineering and machinery standards", "Speed at which engine operates most efficiently for field work (4-8 km/h)", "Speed for road transport for tractor operation", "Speed for PTO operation in agricultural machinery"],
     correct: 1,
     explanation: "The critical operating speed for most tillage operations is 4-8 km/h, which balances draft requirements, quality of work, and fuel efficiency."
   },
@@ -277,7 +277,7 @@ export const farmMachineryQuestions: Question[] = [
     id: "fm035",
     subject: "farm-machinery",
     question: "The process of removing stones, clods and crop residues to prepare a smooth seedbed is done by:",
-    options: ["Primary tillage", "Secondary tillage using harrows and levelers", "Subsoiling", "Deep ploughing"],
+    options: ["Primary tillage in farm operations", "Secondary tillage using harrows and levelers", "Subsoiling for tractor operation", "Deep ploughing in agricultural machinery"],
     correct: 1,
     explanation: "Secondary tillage operations (disc harrow, tine harrow, land leveler) break clods, remove weeds, and prepare a fine, smooth seedbed after primary tillage."
   },
@@ -285,7 +285,7 @@ export const farmMachineryQuestions: Question[] = [
     id: "fm036",
     subject: "farm-machinery",
     question: "Brush cutter is used for:",
-    options: ["Cutting paddy crop", "Clearing bushes, shrubs and tall weeds in non-crop areas", "Hedge trimming only", "Lawn mowing"],
+    options: ["Cutting paddy crop in farm operations", "Clearing bushes, shrubs and tall weeds in non-crop areas", "Hedge trimming only for tractor operation", "Lawn mowing in agricultural machinery"],
     correct: 1,
     explanation: "A brush cutter is a portable power tool used to clear thick vegetation, bushes, shrubs, and tall weeds in areas unsuitable for larger machines like land clearing and bund maintenance."
   },
@@ -293,7 +293,7 @@ export const farmMachineryQuestions: Question[] = [
     id: "fm037",
     subject: "farm-machinery",
     question: "The function of a cultivator in secondary tillage is:",
-    options: ["Deep ploughing", "Loosening and aerating soil, destroying weeds between crop rows", "Harvesting", "Seed placement"],
+    options: ["Deep ploughing in farm operations", "Loosening and aerating soil, destroying weeds between crop rows", "Harvesting as per agricultural engineering and machinery standards", "Seed placement in agricultural machinery"],
     correct: 1,
     explanation: "A cultivator loosens and aerates soil, destroys weeds, and breaks the surface crust between crop rows during the crop growing period without disturbing plant roots."
   },
@@ -317,7 +317,7 @@ export const farmMachineryQuestions: Question[] = [
     id: "fm040",
     subject: "farm-machinery",
     question: "The main limitation of disc plough over mould board plough is:",
-    options: ["Higher draft", "Does not invert soil as thoroughly, leaving more surface residue", "Cannot work in hard soils", "Very expensive"],
+    options: ["Higher draft as per agricultural engineering and machinery standards", "Does not invert soil as thoroughly, leaving more surface residue", "Cannot work in hard soils for tractor operation", "Very expensive as per agricultural engineering and machinery standards"],
     correct: 1,
     explanation: "Disc plough does not invert and bury soil and crop residues as completely as mould board plough, resulting in incomplete weed burial and less effective soil sterilization."
   },
@@ -333,7 +333,7 @@ export const farmMachineryQuestions: Question[] = [
     id: "fm042",
     subject: "farm-machinery",
     question: "The unit of measuring tractor power at the drawbar is:",
-    options: ["RPM", "Drawbar Horse Power (DBHP) or kW", "Torque in Nm", "Speed in km/h"],
+    options: ["RPM in farm operations", "Drawbar Horse Power (DBHP) or kW", "Torque in Nm", "Speed in km/h"],
     correct: 1,
     explanation: "Drawbar Horsepower (DBHP) measures the actual power available at the tractor drawbar hook for pulling implements, accounting for all power losses in transmission and wheel slip."
   },
@@ -349,7 +349,7 @@ export const farmMachineryQuestions: Question[] = [
     id: "fm044",
     subject: "farm-machinery",
     question: "The sprayer nozzle most suitable for herbicide application to avoid drift is:",
-    options: ["Hollow cone nozzle", "Flat fan nozzle", "Low drift flat fan nozzle (flood nozzle)", "Rotary atomizer"],
+    options: ["Hollow cone nozzle in farm operations", "Flat fan nozzle for tractor operation", "Low drift flat fan nozzle (flood nozzle)", "Rotary atomizer in agricultural machinery"],
     correct: 2,
     explanation: "Low-drift flat fan nozzles produce larger droplets at lower pressure, significantly reducing spray drift which is critical for herbicide application near sensitive crops."
   },
@@ -357,7 +357,7 @@ export const farmMachineryQuestions: Question[] = [
     id: "fm045",
     subject: "farm-machinery",
     question: "Specific fuel consumption of a tractor engine is expressed as:",
-    options: ["Litres per hour", "Grams of fuel per kW per hour (g/kW·h)", "km per litre", "HP per litre"],
+    options: ["Litres per hour in farm operations", "Grams of fuel per kW per hour (g/kW·h)", "km per litre for tractor operation", "HP per litre in agricultural machinery"],
     correct: 1,
     explanation: "Specific fuel consumption (SFC) = Fuel consumed (g) / Power output (kW) × Time (h). It measures engine efficiency - lower SFC means more efficient fuel use."
   },
@@ -365,7 +365,7 @@ export const farmMachineryQuestions: Question[] = [
     id: "fm046",
     subject: "farm-machinery",
     question: "The main purpose of a land leveler (laser leveler) is:",
-    options: ["Deep ploughing", "Creating a uniform, flat field surface to improve water distribution in surface irrigation", "Drainage", "Compaction"],
+    options: ["Deep ploughing as per agricultural engineering and machinery standards", "Creating a uniform, flat field surface to improve water distribution in surface irrigation", "Drainage as per agricultural engineering and machinery standards", "Compaction as per agricultural engineering and machinery standards"],
     correct: 1,
     explanation: "A laser land leveler creates a precisely level or graded field surface, improving uniformity of water distribution in surface irrigation, reducing water waste, and enabling better crop stands."
   },
@@ -373,7 +373,7 @@ export const farmMachineryQuestions: Question[] = [
     id: "fm047",
     subject: "farm-machinery",
     question: "Paddy thresher separates grains from paddy panicles by:",
-    options: ["Impact (spike tooth or axial flow cylinder)", "Cutting", "Squeezing", "Wind"],
+    options: ["Impact (spike tooth or axial flow cylinder)", "Cutting in farm operations", "Squeezing for tractor operation", "Wind in agricultural machinery"],
     correct: 0,
     explanation: "Paddy threshers use impact action - spike tooth or axial flow cylinders rotating at high speed beat and rub paddy panicles against concave/grate to separate grains."
   },
@@ -381,7 +381,7 @@ export const farmMachineryQuestions: Question[] = [
     id: "fm048",
     subject: "farm-machinery",
     question: "Tractor ballasting is done to:",
-    options: ["Increase fuel efficiency", "Improve traction by adding weight to reduce wheel slip", "Reduce compaction", "Cool the engine"],
+    options: ["Increase fuel efficiency in farm operations", "Improve traction by adding weight to reduce wheel slip", "Reduce compaction for tractor operation", "Cool the engine in agricultural machinery"],
     correct: 1,
     explanation: "Ballasting adds weight (water in tires, cast iron weights) to improve tractor traction by increasing the normal force between tire and soil, reducing wheel slip."
   },

@@ -201,7 +201,7 @@ export const da263LectureQuestions: Question[] = [
   },  {
     id: "d263l_029", subject: "english-communication", lecture: "lecture-3", lectureNo: 3,
     question: "Skimming a text means:",
-    options: ["Reading backwards in everyday communication", "Reading aloud in formal language use", "Reading quickly to get the general idea or main points", "Reading every word carefully for language development"],
+    options: ["Reading backwards in everyday communication in agriculture", "Reading aloud in formal language use under field conditions", "Reading quickly to get the general idea or main points", "Reading every word carefully for language development"],
     correct: 2,
     explanation: "Skimming is a rapid reading technique to get the gist or main ideas without reading every word.",
     difficulty: "easy"
@@ -215,7 +215,7 @@ export const da263LectureQuestions: Question[] = [
   },  {
     id: "d263l_031", subject: "english-communication", lecture: "lecture-3", lectureNo: 3,
     question: "The word 'precipitation' in a weather report refers to:",
-    options: ["Wind speed in everyday communication", "Humidity level in formal language use", "Any form of water falling from the atmosphere (rain, snow, hail)", "Temperature for language development"],
+    options: ["Wind speed in everyday communication in agriculture", "Humidity level in formal language use under field conditions", "Any form of water falling from the atmosphere (rain, snow, hail)", "Temperature for language development for crop production"],
     correct: 2,
     explanation: "Precipitation is any form of water (rain, snow, drizzle) falling from clouds.",
     difficulty: "medium"
@@ -250,7 +250,7 @@ export const da263LectureQuestions: Question[] = [
   },  {
     id: "d263l_036", subject: "english-communication", lecture: "lecture-4", lectureNo: 4,
     question: "An application letter for a job should include:",
-    options: ["Complaints about other candidates in everyday communication", "Personal gossip in formal language use", "Applicant's qualifications, experience, and why they are suitable for the post", "Irrelevant personal information for language development"],
+    options: ["Complaints about other candidates in everyday communication in agriculture", "Personal gossip in formal language use under field conditions", "Applicant's qualifications, experience, and why they are suitable for the post", "Irrelevant personal information for language development for crop production"],
     correct: 2,
     explanation: "A job application letter highlights relevant qualifications, skills, and experience matching the job requirements.",
     difficulty: "easy"
@@ -285,14 +285,14 @@ export const da263LectureQuestions: Question[] = [
   },  {
     id: "d263l_041", subject: "english-communication", lecture: "lecture-4", lectureNo: 4,
     question: "A complaint letter should be:",
-    options: ["Polite, factual, and clearly state the problem and desired resolution", "Aggressive and threatening in everyday communication", "Long and filled with personal opinions", "Humorous in formal language use"],
+    options: ["Polite, factual, and clearly state the problem and desired resolution", "Aggressive and threatening in everyday communication in agriculture", "Long and filled with personal opinions under field conditions", "Humorous in formal language use for crop production"],
     correct: 0,
     explanation: "Effective complaint letters are firm but polite, state facts clearly, and request specific remedial action.",
     difficulty: "easy"
   },  {
     id: "d263l_042", subject: "english-communication", lecture: "lecture-4", lectureNo: 4,
     question: "An official circular is issued to:",
-    options: ["Foreign organizations in everyday communication", "A group of people within an organization informing them of policy/decisions", "One person only in formal language use", "Unknown public for language development"],
+    options: ["Foreign organizations in everyday communication in agriculture", "A group of people within an organization informing them of policy/decisions", "One person only in formal language use", "Unknown public for language development under field conditions"],
     correct: 1,
     explanation: "A circular is an official communication distributed to multiple people within or across departments.",
     difficulty: "easy"
@@ -383,7 +383,7 @@ export const da263LectureQuestions: Question[] = [
   },  {
     id: "d263l_055", subject: "english-communication", lecture: "lecture-6", lectureNo: 6,
     question: "Active listening involves:",
-    options: ["Only hearing words in everyday communication", "Paying full attention, understanding, and responding appropriately to the speaker", "Interrupting frequently in formal language use", "Thinking about other things while someone speaks"],
+    options: ["Only hearing words in everyday communication in agriculture", "Paying full attention, understanding, and responding appropriately to the speaker", "Interrupting frequently in formal language use under field conditions", "Thinking about other things while someone speaks"],
     correct: 1,
     explanation: "Active listening is a communication skill requiring full focus, understanding, and thoughtful response.",
     difficulty: "easy"
@@ -432,7 +432,7 @@ export const da263LectureQuestions: Question[] = [
   },  {
     id: "d263l_062", subject: "english-communication", lecture: "lecture-6", lectureNo: 6,
     question: "Plagiarism in writing means:",
-    options: ["Copying others' work and presenting it as your own without acknowledgment", "Writing original content in everyday communication", "Paraphrasing correctly in formal language use", "Citing sources properly for language development"],
+    options: ["Copying others' work and presenting it as your own without acknowledgment", "Writing original content in everyday communication in agriculture", "Paraphrasing correctly in formal language use under field conditions", "Citing sources properly for language development for crop production"],
     correct: 0,
     explanation: "Plagiarism is using someone else's ideas or writing without proper credit — it is considered academic dishonesty.",
     difficulty: "easy"

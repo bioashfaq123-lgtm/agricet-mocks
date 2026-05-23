@@ -899,7 +899,7 @@ export const da171Questions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Sign in plant pathology refers to",
-    options: ["symptom on the plant in crop production", "loss of yield in field conditions", "pathogen or its parts or products seen on host plant", "disease severity for agricultural purposes"],
+    options: ["symptom on the plant in crop production", "loss of yield in field conditions in plant pathology", "pathogen or its parts or products seen on host plant", "disease severity for agricultural purposes in disease management"],
     correct: 2,
     explanation: "As per DA-171 notes: Sign = the pathogen or its parts or products seen on a host plant."
   },
@@ -909,7 +909,7 @@ export const da171Questions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Inoculum in plant pathology refers to",
-    options: ["the part of the pathogen which on contact with susceptible host causes infection", "any foreign material in crop production", "the chemical used for control in field conditions", "the symptom for agricultural purposes"],
+    options: ["the part of the pathogen which on contact with susceptible host causes infection", "any foreign material in crop production in plant pathology", "the chemical used for control in field conditions in disease management", "the symptom for agricultural purposes for crop protection"],
     correct: 0,
     explanation: "As per DA-171 notes: Inoculum is the part of the pathogen which on contact with susceptible host plant causes infection."
   },
@@ -929,7 +929,7 @@ export const da171Questions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "An endemic disease is one that is",
-    options: ["occurs periodically in destructive form in crop production", "occurs at irregular intervals in field conditions", "very sporadic for agricultural purposes", "constantly present in moderate to severe form confined to particular area"],
+    options: ["occurs periodically in destructive form in crop production", "occurs at irregular intervals in field conditions in plant pathology", "very sporadic for agricultural purposes in disease management", "constantly present in moderate to severe form confined to particular area"],
     correct: 3,
     explanation: "As per DA-171 notes: Endemic - constantly present in moderate to severe form and confined to a particular country or district. Ex: Club root of cabbage in Nilgiris."
   },
@@ -949,7 +949,7 @@ export const da171Questions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Smut affected plant parts show",
-    options: ["black or purplish black dusty mass on floral organs", "red pustules in crop production", "yellow spots in field conditions", "white powdery mass for agricultural purposes"],
+    options: ["black or purplish black dusty mass on floral organs", "red pustules in crop production in plant pathology", "yellow spots in field conditions in disease management", "white powdery mass for agricultural purposes"],
     correct: 0,
     explanation: "As per DA-171 notes: Smuts - smut affected parts show a black or purplish black dusty mass usually appearing on floral organs."
   },
@@ -999,7 +999,7 @@ export const da171Questions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Collateral hosts in plant pathology serve as",
-    options: ["economic hosts in crop production", "resistant plants in field conditions", "weed hosts that bridge gap between two crop seasons", "alternate hosts for agricultural purposes"],
+    options: ["economic hosts in crop production in plant pathology", "resistant plants in field conditions in disease management", "weed hosts that bridge gap between two crop seasons", "alternate hosts for agricultural purposes for crop protection"],
     correct: 2,
     explanation: "As per DA-171 notes: Collateral hosts are susceptible to plant pathogens of crop plants and provide facilities for growth/reproduction during offseason; weed hosts help to bridge gap between two crop seasons."
   },
@@ -1019,7 +1019,7 @@ export const da171Questions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Autonomous/direct dispersal of plant pathogens occurs through",
-    options: ["nematodes in crop production", "soil, seed and planting material during normal agronomic operations", "insects and birds in field conditions", "wind and water for agricultural purposes"],
+    options: ["nematodes in crop production in plant pathology", "soil, seed and planting material during normal agronomic operations", "insects and birds in field conditions", "wind and water for agricultural purposes"],
     correct: 1,
     explanation: "As per DA-171 notes: Autonomous or direct dispersal - dispersal of plant pathogens takes place through soil, seed and planting material during normal agronomic operations."
   },
@@ -1029,7 +1029,7 @@ export const da171Questions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "In pre-penetration stage, fungal pathogens undergo",
-    options: ["spore germination and growth of germ tube on host surface", "colonization in crop production", "host invasion in field conditions", "toxin production for agricultural purposes"],
+    options: ["spore germination and growth of germ tube on host surface", "colonization in crop production in plant pathology", "host invasion in field conditions in disease management", "toxin production for agricultural purposes for crop protection"],
     correct: 0,
     explanation: "As per DA-171 notes: In fungal pathogens, pre-penetration includes spore germination and growth of the resulting germ tube on the surface of the host plant."
   },
@@ -1049,7 +1049,7 @@ export const da171Questions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "In Avoidance principle of disease management, sick soils refer to fields with",
-    options: ["waterlogging in crop production", "continuous cultivation of same crop causing pathogen saturation", "chemical toxicity in field conditions", "high pH for agricultural purposes"],
+    options: ["waterlogging in crop production in plant pathology", "continuous cultivation of same crop causing pathogen saturation", "chemical toxicity in field conditions", "high pH for agricultural purposes"],
     correct: 1,
     explanation: "As per DA-171 notes: Continuous cultivation of same crop in same field helps perpetuation of pathogen in soil; such soils are called sick soils."
   },
@@ -1059,7 +1059,7 @@ export const da171Questions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Rouging in plant disease management refers to",
-    options: ["deep ploughing in crop production", "seed treatment in field conditions", "removal of diseased plants or affected parts from field", "chemical spraying for agricultural purposes"],
+    options: ["deep ploughing in crop production in plant pathology", "seed treatment in field conditions in disease management", "removal of diseased plants or affected parts from field", "chemical spraying for agricultural purposes for crop protection"],
     correct: 2,
     explanation: "As per DA-171 notes: Rouging - Removal of diseased plants or their affected parts from field which prevents dissemination of plant pathogens."
   },
@@ -1119,7 +1119,7 @@ export const da171Questions: Question[] = [
     lecture: "lecture-12",
     lectureNo: 12,
     question: "Wilting of plants is caused by",
-    options: ["viral infection only in crop production", "injury to root system, plugging of vessels or toxic substances from pathogen", "insect damage only in field conditions", "excess water for agricultural purposes"],
+    options: ["viral infection only in crop production in plant pathology", "injury to root system, plugging of vessels or toxic substances from pathogen", "insect damage only in field conditions in disease management", "excess water for agricultural purposes for crop protection"],
     correct: 1,
     explanation: "As per DA-171 notes: Wilting may be result of injury to root system, partial plugging of water conducting vessels or toxic substances secreted by pathogen."
   },
@@ -1149,7 +1149,7 @@ export const da171Questions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Anthracnose disease appears as",
-    options: ["yellow patches in crop production", "downy growth in field conditions", "circular to angular spots occurring along leaf veins, petioles, stems and fruits", "powdery growth for agricultural purposes"],
+    options: ["yellow patches in crop production in plant pathology", "downy growth in field conditions in disease management", "circular to angular spots occurring along leaf veins, petioles, stems and fruits", "powdery growth for agricultural purposes for crop protection"],
     correct: 2,
     explanation: "As per DA-171 notes: Anthracnose - circular to angular, sometimes irregular spots occurring along the leaf veins, petioles, stems and fruits."
   },
@@ -1199,7 +1199,7 @@ export const da171Questions: Question[] = [
     lecture: "lecture-22",
     lectureNo: 22,
     question: "Groundnut Tikka disease is caused by",
-    options: ["Aspergillus niger in crop production", "Puccinia arachidis in field conditions", "Cercospora arachidicola (early Tikka) and Cercosporidium personatum (late Tikka)", "Tomato spotted wilt virus for agricultural purposes"],
+    options: ["Aspergillus niger in crop production in plant pathology", "Puccinia arachidis in field conditions in disease management", "Cercospora arachidicola (early Tikka) and Cercosporidium personatum (late Tikka)", "Tomato spotted wilt virus for agricultural purposes"],
     correct: 2,
     explanation: "As per DA-171 notes: Groundnut - Tikka spot (early and late leaf spots) are major fungal diseases of groundnut caused by Cercospora species."
   },
