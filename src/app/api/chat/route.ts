@@ -2,9 +2,8 @@ import { NextRequest, NextResponse } from "next/server";
 import Anthropic from "@anthropic-ai/sdk";
 import pdfData from "@/data/pdf-chunks.json";
 
-const anthropic = new Anthropic({
-  apiKey: process.env.ANTHROPIC_API_KEY,
-});
+// NOTE: Do NOT instantiate Anthropic at module level — if ANTHROPIC_API_KEY is
+// absent at cold-start the constructor throws before any try/catch can catch it.
 
 interface PdfChunk {
   id: string;
@@ -81,11 +80,15 @@ export async function POST(req: NextRequest) {
       return NextResponse.json({ error: "Question is required" }, { status: 400 });
     }
 
-    if (!process.env.ANTHROPIC_API_KEY) {
+    const apiKey = process.env.ANTHROPIC_API_KEY;
+    if (!apiKey) {
       return NextResponse.json({
         error: "AI service not configured. Please contact the administrator."
       }, { status: 503 });
     }
+
+    // Instantiate inside the handler so constructor errors are caught
+    const anthropic = new Anthropic({ apiKey });
 
     // Search for relevant PDF chunks
     const relevantChunks = searchChunks(question, 5);
@@ -147,7 +150,7 @@ ${context ? `Reference excerpts from PJTSAU study material:\n\n${context}\n\nUse
     console.error("Chat API error:", err);
     const msg = err instanceof Error ? err.message : String(err);
     const stack = err instanceof Error ? err.stack : undefined;
-    // Always surface the real error message for debugging
-    return NextResponse.json({ error: msg, debug_stack: stack?.slice(0, 500) }, { status: 500 });
+    // Surface real error for debugging
+    return NextResponse.json({ error: msg, debug_stack: stack?.slice(0, 600) }, { status: 500 });
   }
 }
