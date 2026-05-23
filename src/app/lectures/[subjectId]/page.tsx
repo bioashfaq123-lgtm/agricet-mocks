@@ -130,7 +130,7 @@ export default function LectureBrowserPage() {
           </Link>
           <Link href={`/test/${subjectId}?mode=timed`}
             className="flex items-center gap-2 bg-white border border-gray-300 hover:border-primary-400 text-gray-700 font-semibold px-4 py-2.5 rounded-xl text-sm transition-colors">
-            ⏱ Full Timed Test (100 Qs)
+            ⏱ Full Timed Test (100 Qs · 200 min)
           </Link>
         </div>
 
