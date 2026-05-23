@@ -149,8 +149,13 @@ ${context ? `Reference excerpts from PJTSAU study material:\n\n${context}\n\nUse
   } catch (err: unknown) {
     console.error("Chat API error:", err);
     const msg = err instanceof Error ? err.message : String(err);
-    const stack = err instanceof Error ? err.stack : undefined;
-    // Surface real error for debugging
-    return NextResponse.json({ error: msg, debug_stack: stack?.slice(0, 600) }, { status: 500 });
+    const userMsg = msg.includes("credit balance is too low") || msg.includes("insufficient_quota")
+      ? "The AI service is temporarily unavailable. Please try again later."
+      : msg.includes("invalid x-api-key") || msg.includes("authentication_error") || msg.includes("Could not resolve authentication")
+      ? "Invalid API key. Please contact the administrator."
+      : msg.includes("model")
+      ? "AI model error. Please try again."
+      : "Failed to get an answer. Please try again.";
+    return NextResponse.json({ error: userMsg }, { status: 500 });
   }
 }
