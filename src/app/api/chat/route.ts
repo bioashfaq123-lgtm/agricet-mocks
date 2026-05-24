@@ -16,7 +16,8 @@ interface PdfChunk {
 // da-241=Agricultural Economics, da-252=Soil Fertility, da-262=Computer Applications,
 // da-263=English Communication, da-281=Horticulture, da-282=Post Harvest, da-291=Extension
 const SUBJECT_BOOSTS: { keywords: string[]; subjects: string[] }[] = [
-  { keywords: ["wilt","blight","rot","disease","fungus","bacteria","virus","pathogen","symptom","infection","pathology","sclerotia","lesion","canker","mosaic","yellowing","damping","smut","rust","anthracnose","cercospora"], subjects: ["da-111","plant pathology"] },
+  // Disease content is in da-111 (pathology), da-171 (seed tech covers crop diseases), da-132 (crop protection)
+  { keywords: ["wilt","blight","rot","disease","fungus","bacteria","virus","pathogen","symptom","infection","pathology","sclerotia","lesion","canker","mosaic","yellowing","damping","smut","rust","anthracnose","cercospora","fusarium","alternaria","phytophthora"], subjects: ["da-111","da-171","da-132","plant pathology","seed technology","crop protection"] },
   { keywords: ["insect","pest","mite","aphid","bug","larva","pupa","adult","nymph","thrips","whitefly","leafhopper","entomology","metamorphosis","antenna","morphology"], subjects: ["da-121","entomology"] },
   { keywords: ["borer","shoot borer","fruit borer","beneficial insect","parasitoid","predator","biocontrol","natural enemy"], subjects: ["da-122","beneficial insect"] },
   { keywords: ["spray","fungicide","pesticide","herbicide","weedicide","insecticide","chemical control","ipm","integrated","formulation","toxicity"], subjects: ["da-132","crop protection"] },
@@ -83,9 +84,12 @@ function searchChunks(query: string, topK = 5): PdfChunk[] {
 
     // Boost if subject matches question topic
     if (boostedSubjects.some(s => subjectLower.includes(s) || chunk.subjectId?.toLowerCase().includes(s))) {
-      score *= 2.0; // Strong boost to prioritise correct subject
+      score *= 3.5; // Strong boost to prioritise correct subject
     } else if (keywords.some(kw => subjectLower.includes(kw))) {
       score *= 1.5;
+    } else if (boostedSubjects.length > 0) {
+      // Penalise clearly off-topic subjects when we know the right subject
+      score *= 0.4;
     }
 
     return { chunk, score };
