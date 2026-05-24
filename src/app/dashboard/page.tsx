@@ -95,7 +95,7 @@ export default function DashboardPage() {
                   Unlock All 17 Subjects + Previous Year Papers
                 </h3>
                 <p className="text-primary-100 text-sm">
-                  3,400+ MCQs · PYQ 2023, 2024 &amp; 2025 · Lifetime access · Just ₹100 one-time
+                  3,400+ MCQs · PYQ 2023, 2024 &amp; 2025 · Lifetime access · Just ₹199 one-time
                 </p>
                 <p className="text-primary-200 text-xs mt-1">
                   Payment issues? Call{" "}
@@ -121,7 +121,7 @@ export default function DashboardPage() {
                 AGRICET Best Objective Book — DA 121 Free Practice (150 Qs)
               </h3>
               <p className="text-gray-500 text-xs mt-1">
-                Practice Soil Science &amp; Fertility questions free · Unlock all 17 subjects + PYQ Papers for just ₹100
+                Practice Soil Science &amp; Fertility questions free · Unlock all 17 subjects + PYQ Papers for just ₹199
               </p>
             </div>
             <Link href="/book"
@@ -155,7 +155,7 @@ export default function DashboardPage() {
                   </Link>
                 ) : (
                   <button className="w-full flex items-center justify-center gap-2 bg-gray-100 text-gray-400 rounded-xl py-2 text-sm cursor-not-allowed">
-                    <Lock className="w-4 h-4" /> Unlock for ₹100
+                    <Lock className="w-4 h-4" /> Unlock for ₹199
                   </button>
                 )}
               </div>
@@ -239,7 +239,7 @@ export default function DashboardPage() {
                       </>
                     ) : (
                       <div className="flex-1 flex items-center justify-center gap-2 bg-gray-100 text-gray-400 rounded-xl py-2 text-xs">
-                        <Lock className="w-3 h-3" /> Unlock with ₹100 plan
+                        <Lock className="w-3 h-3" /> Unlock with ₹199 plan
                       </div>
                     )}
                   </div>

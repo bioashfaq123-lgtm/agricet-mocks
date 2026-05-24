@@ -11,7 +11,7 @@ export async function POST(req: NextRequest) {
       key_secret: process.env.RAZORPAY_KEY_SECRET!,
     });
     const order = await razorpay.orders.create({
-      amount: 10000,
+      amount: 19900,
       currency: "INR",
       receipt: `book_${Date.now()}`,
       notes: {

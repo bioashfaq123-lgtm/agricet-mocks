@@ -158,7 +158,7 @@ export default function AdminPage() {
   const totalUsers      = users.length;
   const paidUsers       = users.filter(u => u.isPaid).length;
   const freeUsers       = totalUsers - paidUsers;
-  const revenue         = paidUsers * 100;
+  const revenue         = paidUsers * 199;
   const conversionRate  = totalUsers > 0 ? Math.round((paidUsers / totalUsers) * 100) : 0;
 
   // Signups per day (last 14 days)
@@ -193,7 +193,7 @@ export default function AdminPage() {
       const diff = (Date.now() - d.getTime()) / 86400000;
       if (diff > 14) return;
       const key = d.toLocaleDateString("en-IN", { day: "2-digit", month: "short" });
-      if (key in map) map[key] += 100;
+      if (key in map) map[key] += 199;
     });
     return Object.entries(map).map(([date, amount]) => ({ date, amount }));
   }, [users]);
@@ -423,7 +423,7 @@ export default function AdminPage() {
                         <span className={`text-xs font-medium px-1.5 py-0.5 rounded ${
                           ev.type === "payment" ? "bg-green-100 text-green-700" : "bg-blue-100 text-blue-700"
                         }`}>
-                          {ev.type === "payment" ? "💳 Paid ₹100" : "🆕 Signed up"}
+                          {ev.type === "payment" ? "💳 Paid ₹199" : "🆕 Signed up"}
                         </span>
                         <span className="text-xs text-gray-400">{timeAgo(ev.date.toISOString())}</span>
                       </div>
@@ -631,7 +631,7 @@ export default function AdminPage() {
                             ) : <span className="text-gray-400 text-xs">manual</span>}
                           </td>
                           <td className="px-5 py-4">
-                            <span className="font-bold text-emerald-700">₹100</span>
+                            <span className="font-bold text-emerald-700">₹199</span>
                           </td>
                           <td className="px-5 py-4">
                             <button onClick={() => togglePaid(u)} disabled={toggling === u.uid}

@@ -215,7 +215,7 @@ export default function SubjectPracticePage({
           <div className="bg-gradient-to-br from-green-700 to-green-800 rounded-3xl overflow-hidden shadow-xl">
             <div className="p-8 text-center text-white">
               <div className="inline-flex items-center gap-2 bg-amber-400 text-amber-900 text-sm font-bold px-4 py-1.5 rounded-full mb-4">
-                <Lock className="w-4 h-4" /> Full Book – ₹100 One-time
+                <Lock className="w-4 h-4" /> Full Book – ₹199 One-time
               </div>
               <h3 className="text-2xl font-black mb-2">Unlock {name}</h3>
               <p className="text-green-200 mb-6 text-sm max-w-md mx-auto">
@@ -241,7 +241,7 @@ export default function SubjectPracticePage({
                   <button onClick={handleBookPayment} disabled={paying}
                     className="inline-flex items-center gap-2 bg-amber-400 hover:bg-amber-500 text-amber-900 font-bold px-10 py-3.5 rounded-2xl text-lg transition-all hover:scale-105 disabled:opacity-60 shadow-lg">
                     <BookOpen className="w-5 h-5" />
-                    {paying ? "Processing..." : "Unlock Full Book – ₹100"}
+                    {paying ? "Processing..." : "Unlock Full Book – ₹199"}
                   </button>
                   <p className="text-green-300 text-xs">
                     Payment issues? Call{" "}
@@ -280,7 +280,7 @@ export default function SubjectPracticePage({
                   <p className="text-green-200 text-sm mb-3">Login to unlock the full book</p>
                   <a href="/login"
                     className="inline-flex items-center gap-2 bg-amber-400 hover:bg-amber-500 text-amber-900 font-bold px-8 py-3 rounded-2xl transition-all hover:scale-105">
-                    Login to Purchase – ₹100
+                    Login to Purchase – ₹199
                   </a>
                 </div>
               )}

@@ -170,7 +170,7 @@ export default function BookPage() {
           <h1 className="text-3xl md:text-4xl font-black mb-3">Practice All 17 Subjects</h1>
           <p className="text-green-100 text-sm max-w-xl mx-auto">
             {totalQs.toLocaleString()} MCQs from the AGRICET Objective Book — DA 121 is free,
-            unlock all 16 other subjects with a one-time ₹100 payment.
+            unlock all 16 other subjects with a one-time ₹199 payment.
           </p>
 
           {/* Stats strip */}
@@ -178,7 +178,7 @@ export default function BookPage() {
             {[
               { n: "17",   l: "Subjects" },
               { n: totalQs.toLocaleString(), l: "Questions" },
-              { n: "₹100", l: "One-time" },
+              { n: "₹199", l: "One-time" },
             ].map(({ n, l }) => (
               <div key={l} className="bg-white/10 rounded-xl py-3 px-2">
                 <div className="text-2xl font-black">{n}</div>
@@ -223,7 +223,7 @@ export default function BookPage() {
                   </p>
                 </div>
                 <div className="shrink-0 text-center">
-                  <div className="text-4xl font-black text-amber-400">₹100</div>
+                  <div className="text-4xl font-black text-amber-400">₹199</div>
                   <div className="text-green-300 text-xs">one-time · lifetime access</div>
                   {user ? (
                     <button
@@ -231,7 +231,7 @@ export default function BookPage() {
                       disabled={paying}
                       className="mt-3 inline-flex items-center gap-2 bg-amber-400 hover:bg-amber-500 text-amber-900 font-bold px-6 py-2.5 rounded-xl transition-all hover:scale-105 disabled:opacity-60">
                       <BookOpen className="w-4 h-4" />
-                      {paying ? "Processing..." : "Unlock Now – ₹100"}
+                      {paying ? "Processing..." : "Unlock Now – ₹199"}
                     </button>
                   ) : (
                     <a href="/login"

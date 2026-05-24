@@ -228,7 +228,7 @@ export default function PaymentButton({ userId, userEmail, userName }: Props) {
             </svg>
             {loadingMsg}
           </span>
-        ) : "Unlock All – ₹100"}
+        ) : "Unlock All – ₹199"}
       </button>
 
       {/* Help text for students who paid but didn't get access */}
