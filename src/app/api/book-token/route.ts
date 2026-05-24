@@ -1,6 +1,8 @@
 import { NextRequest, NextResponse } from "next/server";
 import crypto from "crypto";
 
+export const maxDuration = 10;
+
 // Generates a download token for a verified book purchaser.
 // Token = HMAC-SHA256(userId + "|book", RAZORPAY_KEY_SECRET)
 // The download route verifies this same token before serving the PDF.

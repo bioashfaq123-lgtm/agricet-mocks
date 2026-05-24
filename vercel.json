@@ -2,5 +2,16 @@
   "framework": "nextjs",
   "buildCommand": "next build",
   "outputDirectory": ".next",
-  "installCommand": "npm install"
+  "installCommand": "npm install",
+  "regions": ["bom1"],
+  "functions": {
+    "src/app/api/chat/route.ts":                { "maxDuration": 10 },
+    "src/app/api/create-order/route.ts":        { "maxDuration": 10 },
+    "src/app/api/verify-payment/route.ts":      { "maxDuration": 10 },
+    "src/app/api/create-book-order/route.ts":   { "maxDuration": 10 },
+    "src/app/api/verify-book-payment/route.ts": { "maxDuration": 10 },
+    "src/app/api/book-token/route.ts":          { "maxDuration": 10 },
+    "src/app/api/razorpay-webhook/route.ts":    { "maxDuration": 10 },
+    "src/app/api/download-book/route.ts":       { "maxDuration": 10 }
+  }
 }

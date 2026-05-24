@@ -2,6 +2,29 @@ import { NextRequest, NextResponse } from "next/server";
 import Groq from "groq-sdk";
 import pdfData from "@/data/pdf-chunks.json";
 
+// ── Vercel function limit: Hobby plan = 10s, Pro = 60s ──────────────────────
+export const maxDuration = 10;
+
+// ── Simple in-memory rate limiter (per IP, 10 req/min) ──────────────────────
+// Prevents students from accidentally burning the Groq free-tier quota.
+const rateLimitStore = new Map<string, { count: number; resetAt: number }>();
+function isRateLimited(ip: string): boolean {
+  const now = Date.now();
+  const entry = rateLimitStore.get(ip);
+  if (!entry || now > entry.resetAt) {
+    rateLimitStore.set(ip, { count: 1, resetAt: now + 60_000 });
+    return false;
+  }
+  if (entry.count >= 10) return true;
+  entry.count++;
+  return false;
+}
+// Clean up stale entries every 5 minutes to prevent memory leak
+setInterval(() => {
+  const now = Date.now();
+  for (const [k, v] of rateLimitStore) if (now > v.resetAt) rateLimitStore.delete(k);
+}, 300_000);
+
 interface PdfChunk {
   id: string;
   subjectId: string;
@@ -217,6 +240,15 @@ function searchChunks(query: string, topK = 5): PdfChunk[] {
 
 export async function POST(req: NextRequest) {
   try {
+    // Rate limit check
+    const ip = req.headers.get("x-forwarded-for")?.split(",")[0]?.trim() ?? "unknown";
+    if (isRateLimited(ip)) {
+      return NextResponse.json(
+        { error: "Too many requests. Please wait a minute and try again." },
+        { status: 429 }
+      );
+    }
+
     const { question, history } = await req.json();
 
     if (!question || typeof question !== "string") {
@@ -256,6 +288,9 @@ export async function POST(req: NextRequest) {
 
     if (tavilyKey && (poorPDFCoverage || isFactualQuery)) {
       try {
+        // 4-second timeout — must finish well before the 10s Vercel limit
+        const tavilyController = new AbortController();
+        const tavilyTimer = setTimeout(() => tavilyController.abort(), 4000);
         const tavilyRes = await fetch("https://api.tavily.com/search", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
@@ -266,7 +301,9 @@ export async function POST(req: NextRequest) {
             max_results: 3,
             include_answer: true,
           }),
+          signal: tavilyController.signal,
         });
+        clearTimeout(tavilyTimer);
 
         if (tavilyRes.ok) {
           const tavilyData = await tavilyRes.json();
@@ -324,13 +361,18 @@ Rules:
     messages.push({ role: "user", content: question });
 
     // Groq — llama-3.1-8b-instant: 14,400 requests/day free
+    // Race with 8s timeout so we always respond before Vercel's 10s function limit
     const groq = new Groq({ apiKey });
-    const completion = await groq.chat.completions.create({
+    const groqPromise = groq.chat.completions.create({
       model: "llama-3.1-8b-instant",
       messages,
       max_tokens: 500,
       temperature: 0.3,
     });
+    const timeoutPromise = new Promise<never>((_, reject) =>
+      setTimeout(() => reject(new Error("Groq response timed out")), 8000)
+    );
+    const completion = await Promise.race([groqPromise, timeoutPromise]);
 
     const answer = completion.choices[0]?.message?.content ?? "";
 
@@ -346,10 +388,12 @@ Rules:
     const msg = err instanceof Error ? err.message : String(err);
     const userMsg =
       msg.includes("invalid_api_key") || msg.includes("401")
-        ? "Invalid API key. Please check GROQ_API_KEY in Vercel settings."
+        ? "AI service temporarily unavailable. Please try again in a moment."
         : msg.includes("rate_limit") || msg.includes("429")
         ? "Too many requests. Please wait a moment and try again."
-        : `Error: ${msg.slice(0, 200)}`;
+        : msg.includes("timed out") || msg.includes("AbortError")
+        ? "The assistant took too long to respond. Please try again."
+        : "Something went wrong. Please try again in a moment.";
     return NextResponse.json({ error: userMsg }, { status: 500 });
   }
 }
