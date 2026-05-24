@@ -11,12 +11,13 @@ export interface PreviousYearPaper {
 }
 
 export const PREVIOUS_YEAR_PAPERS: PreviousYearPaper[] = [
-  { id: "2025",   year: 2025, title: "TS AGRICET 2025 – DA Official Question Paper",        totalQuestions: 100, duration: 100, isFree: true,  badge: "🎉 FREE", description: "Official AGRICET 2025 question paper for Diploma in Agriculture candidates (PJTSAU, Telangana).", available: true  },
-  { id: "2024",   year: 2024, title: "TS AGRICET 2024 – DA Question Paper with Key",        totalQuestions: 100, duration: 100, description: "Complete 2024 question paper with official answer key (English script questions only, PJTSAU).", available: true  },
-  { id: "2023",   year: 2023, title: "TS AGRICET 2023 – DA Question Paper with Key",        totalQuestions: 100, duration: 100, description: "Full 2023 question paper with detailed official answer key (English script, PJTSAU).", available: true  },
-  { id: "2023ap", year: 2023, title: "AP AGRICET 2023 – DA Question Paper (ANGRAU)",        totalQuestions: 100, duration: 100, badge: "🆕 NEW", description: "Official ANGRAU AGRICET 2023 question paper for Diploma in Agriculture candidates (Andhra Pradesh).", available: true  },
-  { id: "2022",   year: 2022, title: "TS AGRICET 2022 – DA Question Paper",                 totalQuestions: 100, duration: 100, description: "2022 question paper for Diploma in Agriculture stream (PJTSAU).", available: false },
-  { id: "2021",   year: 2021, title: "TS AGRICET 2021 – DA Question Paper",                 totalQuestions: 100, duration: 100, description: "2021 question paper for Diploma in Agriculture stream (PJTSAU).", available: false },
+  { id: "2025",   year: 2025, title: "TS AGRICET 2025 – DA Official Question Paper",              totalQuestions: 100, duration: 100, isFree: true,  badge: "🎉 FREE", description: "Official AGRICET 2025 question paper for Diploma in Agriculture candidates (PJTSAU, Telangana).", available: true  },
+  { id: "2025ap", year: 2025, title: "AP AGRICET 2025 – DA Question Paper with Key (ANGRAU)",     totalQuestions: 120, duration: 90,  badge: "🆕 NEW", description: "Official ANGRAU AGRICET 2025 question paper with answer key (Andhra Pradesh). 120 questions, 90 minutes.", available: true  },
+  { id: "2024",   year: 2024, title: "TS AGRICET 2024 – DA Question Paper with Key",              totalQuestions: 100, duration: 100, description: "Complete 2024 question paper with official answer key (English script questions only, PJTSAU).", available: true  },
+  { id: "2023",   year: 2023, title: "TS AGRICET 2023 – DA Question Paper with Key",              totalQuestions: 100, duration: 100, description: "Full 2023 question paper with detailed official answer key (English script, PJTSAU).", available: true  },
+  { id: "2023ap", year: 2023, title: "AP AGRICET 2023 – DA Question Paper (ANGRAU)",              totalQuestions: 120, duration: 90,  badge: "🆕 NEW", description: "Official ANGRAU AGRICET 2023 question paper for Diploma in Agriculture candidates (Andhra Pradesh).", available: true  },
+  { id: "2022",   year: 2022, title: "TS AGRICET 2022 – DA Question Paper",                       totalQuestions: 100, duration: 100, description: "2022 question paper for Diploma in Agriculture stream (PJTSAU).", available: false },
+  { id: "2021",   year: 2021, title: "TS AGRICET 2021 – DA Question Paper",                       totalQuestions: 100, duration: 100, description: "2021 question paper for Diploma in Agriculture stream (PJTSAU).", available: false },
 ];
 
 export interface PYQQuestion {
@@ -732,3 +733,4 @@ export const PYQ_2025: PYQQuestion[] = [
 export { PYQ_2023 } from "./pyq2023";
 export { PYQ_2024 } from "./pyq2024";
 export { PYQ_2023_AP } from "./pyq2023ap";
+export { PYQ_2025_AP } from "./pyq2025ap";

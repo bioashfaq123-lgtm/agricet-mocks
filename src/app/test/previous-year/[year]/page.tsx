@@ -4,7 +4,7 @@ import { useParams, useRouter } from "next/navigation";
 import Link from "next/link";
 import { ChevronLeft, ChevronRight, CheckCircle, X, AlertCircle, Clock } from "lucide-react";
 import { useAuth } from "@/contexts/AuthContext";
-import { PYQ_2025, PYQ_2024, PYQ_2023, PYQ_2023_AP, PREVIOUS_YEAR_PAPERS } from "@/data/previousYearPapers";
+import { PYQ_2025, PYQ_2024, PYQ_2023, PYQ_2023_AP, PYQ_2025_AP, PREVIOUS_YEAR_PAPERS } from "@/data/previousYearPapers";
 
 export default function PreviousYearTestPage() {
   const params   = useParams();
@@ -21,6 +21,7 @@ export default function PreviousYearTestPage() {
   // Pick the question array for the requested paper ID
   const questions =
     paperId === "2025"   ? PYQ_2025 :
+    paperId === "2025ap" ? PYQ_2025_AP :
     paperId === "2024"   ? PYQ_2024 :
     paperId === "2023"   ? PYQ_2023 :
     paperId === "2023ap" ? PYQ_2023_AP :
