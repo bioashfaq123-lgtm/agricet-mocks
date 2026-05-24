@@ -61,9 +61,14 @@ export default function ChatBot() {
       const data = await res.json();
 
       if (data.error) {
+        // Always show friendly message — never show raw technical errors to students
+        const friendlyError =
+          data.error.includes("Too many requests") || data.error.includes("rate_limit")
+            ? "I'm receiving too many questions right now. Please wait a moment and try again! 🙏"
+            : "Sorry, I couldn't get an answer right now. Please try again in a moment!";
         setMessages(prev => [...prev, {
           role: "assistant",
-          content: `Sorry, I couldn't get an answer right now. ${data.error}`,
+          content: friendlyError,
         }]);
       } else {
         setMessages(prev => [...prev, {
