@@ -73,22 +73,32 @@ export async function POST(req: NextRequest) {
       );
     }
 
-    // Search for relevant PDF chunks — 2 chunks, truncated to 120 words each
-    const relevantChunks = searchChunks(question, 2);
+    // Search for relevant PDF chunks — 4 chunks, truncated to 150 words each
+    const relevantChunks = searchChunks(question, 4);
 
-    // Build context — truncate each chunk to keep tokens low
-    const truncate = (text: string, maxWords = 120) =>
+    // Truncate each chunk to keep tokens manageable
+    const truncate = (text: string, maxWords = 150) =>
       text.split(/\s+/).slice(0, maxWords).join(" ");
 
     let context = "";
     if (relevantChunks.length > 0) {
       context = relevantChunks
-        .map(c => `[${c.subjectName}]: ${truncate(c.text)}`)
-        .join("\n\n");
+        .map(c => `[${c.subjectName}]:\n${truncate(c.text)}`)
+        .join("\n\n---\n\n");
     }
 
-    const systemPrompt = `You are an AGRICET study assistant for PJTSAU Diploma students. Answer clearly and briefly.
-${context ? `\nReferences:\n${context}\n\nUse above as primary source.` : "Use standard agricultural science knowledge."}`;
+    const systemPrompt = `You are an AGRICET study assistant for PJTSAU Diploma in Agriculture students (2nd year).
+
+STRICT RULES:
+- Answer ONLY from the reference excerpts below when available
+- If the answer is clearly in the references, use it exactly — do NOT add or change information
+- If references don't contain enough info, say "This specific detail is not in your PJTSAU notes. Based on general agriculture: ..." and then answer
+- Keep answers short and exam-focused
+- Use bullet points for lists
+
+${context
+  ? `PJTSAU Reference Material:\n\n${context}\n\nAnswer strictly based on the above references.`
+  : "No specific reference found. Answer based on standard agricultural science and mention this."}`;
 
     // Build conversation history
     const messages: { role: "system" | "user" | "assistant"; content: string }[] = [
