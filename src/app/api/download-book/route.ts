@@ -3,6 +3,9 @@ import crypto from "crypto";
 import fs from "fs";
 import path from "path";
 
+export const dynamic    = "force-dynamic"; // never statically render — always runs server-side
+export const maxDuration = 10;
+
 // Client calls /api/download-book?token=<hmac>
 // Token = HMAC-SHA256(userId + "|book", RAZORPAY_KEY_SECRET)
 // This avoids server-side Firestore reads (which fail due to security rules)

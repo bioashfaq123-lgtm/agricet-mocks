@@ -1,9 +1,14 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import "./globals.css";
 import { Toaster } from "react-hot-toast";
 import { AuthProvider } from "@/contexts/AuthContext";
 import AppSplashScreen from "@/components/AppSplashScreen";
 import ChatBot from "@/components/ChatBot";
+
+// themeColor must be in viewport export (not metadata) — Next.js 14 requirement
+export const viewport: Viewport = {
+  themeColor: "#16a34a",   // primary green — matches app brand
+};
 
 export const metadata: Metadata = {
   title: "AGRICET MOCK TEST SERIES",
@@ -11,7 +16,6 @@ export const metadata: Metadata = {
     "Practice all 17 Diploma Agriculture subjects for PJTSAU AGRICET. 3400+ MCQs, PYQ papers 2023-2025, instant results. Prepared by Nalanda Study Circle, Jagtial.",
   keywords: "AGRICET, mock test, agriculture, BSc Agriculture, PJTSAU, Diploma in Agriculture, Nalanda Study Circle",
   manifest: "/manifest.json",
-  themeColor: "#cc1e1e",
   appleWebApp: {
     capable: true,
     statusBarStyle: "default",
@@ -37,7 +41,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="default" />
         <meta name="apple-mobile-web-app-title" content="AGRICET MOCK TEST SERIES" />
-        <meta name="theme-color" content="#cc1e1e" />
+        <meta name="theme-color" content="#16a34a" />
         <link rel="manifest" href="/manifest.json" />
         <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
       </head>
