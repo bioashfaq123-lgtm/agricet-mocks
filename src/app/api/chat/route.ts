@@ -131,12 +131,7 @@ ${context
   } catch (err: unknown) {
     console.error("Chat API error:", err);
     const msg = err instanceof Error ? err.message : String(err);
-    const userMsg =
-      msg.includes("API_KEY_INVALID") || msg.includes("API key not valid")
-        ? "Invalid Gemini API key. Please check GEMINI_API_KEY in Vercel settings."
-        : msg.includes("quota") || msg.includes("RESOURCE_EXHAUSTED")
-        ? "Daily question limit reached. Please try again tomorrow."
-        : "Failed to get an answer. Please try again.";
-    return NextResponse.json({ error: userMsg }, { status: 500 });
+    // Temporary debug — shows real error
+    return NextResponse.json({ error: msg }, { status: 500 });
   }
 }
