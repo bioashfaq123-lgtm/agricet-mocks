@@ -119,20 +119,80 @@ function searchChunks(query: string, topK = 5): PdfChunk[] {
 
     // Boost if subject matches question topic
     if (boostedSubjects.some(s => subjectLower.includes(s) || chunk.subjectId?.toLowerCase().includes(s))) {
-      score *= 3.5; // Strong boost to prioritise correct subject
+      score *= 5; // Strong boost to prioritise correct subject
     } else if (keywords.some(kw => subjectLower.includes(kw))) {
       score *= 1.5;
     } else if (boostedSubjects.length > 0) {
       // Penalise clearly off-topic subjects when we know the right subject
-      score *= 0.4;
+      score *= 0.2;
     }
 
     return { chunk, score };
   });
 
-  // Return top results ensuring at least 1 chunk from boosted subject if available
+  // Get top-K scoring chunks
   const filtered = scored.filter(s => s.score > 0).sort((a, b) => b.score - a.score);
-  return filtered.slice(0, topK).map(s => s.chunk);
+  const topChunks = filtered.slice(0, topK).map(s => s.chunk);
+
+  // Expand: for each top chunk, also include adjacent same-subject chunks (before/after)
+  // This captures answer details that are split across chunk boundaries
+  const seen = new Set<string>();
+  const expanded: PdfChunk[] = [];
+  const addWithNeighbors = (chunk: PdfChunk, lookAhead = 1) => {
+    const idx = chunks.indexOf(chunk);
+    for (let ni = idx - 1; ni <= idx + lookAhead; ni++) {
+      if (ni >= 0 && ni < chunks.length) {
+        const neighbor = chunks[ni];
+        const key = `${neighbor.subjectId}-${ni}`;
+        if (!seen.has(key) && neighbor.subjectId === chunk.subjectId) {
+          seen.add(key);
+          expanded.push(neighbor);
+        }
+      }
+    }
+  };
+  for (const chunk of topChunks) addWithNeighbors(chunk, 1);
+
+  // Secondary targeted search: if query contains a specific crop/organism name (>= 6 chars),
+  // find the best matching chunk in the boosted subjects that mentions that exact term,
+  // then include it + the next 3 chunks (to capture management/variety details that follow).
+  const genericTerms = new Set([
+    "disease","pathogen","variety","varieties","fungus","tolerant","resistant","spray",
+    "fertilizer","nutrient","deficiency","germination","seed","insect","plant","crop",
+    "soil","yield","water","temperature","weather","season","farmer","village",
+  ]);
+  const specificTerms = keywords.filter(kw => kw.length >= 6 && !genericTerms.has(kw));
+  if (specificTerms.length > 0 && boostedSubjects.length > 0) {
+    // Score the PRIMARY boosted subject chunks using ALL query keywords (not just long ones)
+    // This ensures we find chunks where the specific crop + disease/topic co-occur
+    const primarySubject = boostedSubjects[0];
+    const primaryChunks = chunks.filter(c => c.subjectId?.toLowerCase() === primarySubject);
+    const cropScored = primaryChunks.map(c => {
+      const textLower = c.text.toLowerCase();
+      // Must contain at least one specific term; scored by all keywords combined
+      const hasSpecific = specificTerms.some(t => textLower.includes(t));
+      if (!hasSpecific) return { c, hits: 0 };
+      const hits = keywords.reduce((n, kw) =>
+        n + (textLower.match(new RegExp(kw, "g")) || []).length, 0);
+      return { c, hits };
+    }).filter(x => x.hits > 0).sort((a, b) => b.hits - a.hits);
+
+    // Add the best crop-specific chunk plus its next 3 chunks (captures variety lists)
+    if (cropScored.length > 0) {
+      const best = cropScored[0].c;
+      const bestIdx = chunks.indexOf(best);
+      for (let ni = bestIdx; ni <= bestIdx + 3 && ni < chunks.length; ni++) {
+        const neighbor = chunks[ni];
+        const key = `${neighbor.subjectId}-${ni}`;
+        if (!seen.has(key) && neighbor.subjectId === best.subjectId) {
+          seen.add(key);
+          expanded.push(neighbor);
+        }
+      }
+    }
+  }
+
+  return expanded;
 }
 
 export async function POST(req: NextRequest) {
