@@ -76,6 +76,9 @@ function searchChunks(query: string, topK = 5): PdfChunk[] {
     "any","each","both","few","most","other","such","only","own","same",
     "so","as","up","out","if","no","nor","yet","either","neither","tolerant",
     "resistant","variety","give","name","list","mention","what",
+    // Question-framing words that inflate scores via stem matching
+    "known","called","termed","used","found","made","given","said","noted",
+    "called","called","types","type","example","examples","following",
   ]);
 
   // Important agricultural terms that should NOT be stop words
@@ -115,6 +118,17 @@ function searchChunks(query: string, topK = 5): PdfChunk[] {
         const partialCount = (textLower.match(new RegExp(stem, "g")) || []).length - count;
         score += Math.max(0, partialCount);
       }
+    }
+
+    // Coverage bonus: chunks that contain MORE unique query keywords rank higher.
+    // This prevents high-frequency single-word matches (e.g. "seed" × 50 times)
+    // from beating chunks that specifically answer the question (e.g. "father"+"seed"+"testing").
+    if (keywords.length >= 2) {
+      const uniqueMatched = keywords.filter(kw => textLower.includes(kw)).length;
+      const coverageRatio = uniqueMatched / keywords.length;
+      if (coverageRatio >= 1.0) score *= 6.0;       // matches ALL keywords — very strong signal
+      else if (coverageRatio >= 0.75) score *= 2.5;  // matches 75%+ keywords
+      else if (coverageRatio >= 0.5) score *= 1.2;   // matches half
     }
 
     // Boost if subject matches question topic
