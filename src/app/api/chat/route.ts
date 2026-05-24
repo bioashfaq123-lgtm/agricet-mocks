@@ -1,9 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
-import Anthropic from "@anthropic-ai/sdk";
+import { GoogleGenerativeAI } from "@google/generative-ai";
 import pdfData from "@/data/pdf-chunks.json";
-
-// NOTE: Do NOT instantiate Anthropic at module level — if ANTHROPIC_API_KEY is
-// absent at cold-start the constructor throws before any try/catch can catch it.
 
 interface PdfChunk {
   id: string;
@@ -12,11 +9,10 @@ interface PdfChunk {
   text: string;
 }
 
-// Simple keyword-based search — finds the most relevant chunks for a query
+// Keyword-based search — finds the most relevant chunks for a query
 function searchChunks(query: string, topK = 5): PdfChunk[] {
   const queryLower = query.toLowerCase();
 
-  // Tokenize: keep words of length >= 3, remove stop words
   const stopWords = new Set([
     "the","and","is","in","of","a","an","to","for","with","what","how",
     "are","was","were","has","have","had","be","by","at","on","or","it",
@@ -25,7 +21,7 @@ function searchChunks(query: string, topK = 5): PdfChunk[] {
     "than","but","not","your","you","please","tell","me","give","explain",
     "define","describe","what","why","when","where","who","all","some",
     "any","each","both","few","most","other","such","only","own","same",
-    "so","as","up","out","if","no","nor","yet","both","either","neither",
+    "so","as","up","out","if","no","nor","yet","either","neither",
   ]);
 
   const keywords = queryLower
@@ -37,34 +33,23 @@ function searchChunks(query: string, topK = 5): PdfChunk[] {
 
   const chunks = pdfData.chunks as PdfChunk[];
 
-  // Score each chunk
   const scored = chunks.map(chunk => {
     const textLower = chunk.text.toLowerCase();
     let score = 0;
-
     for (const kw of keywords) {
-      // Exact match: higher weight
       const count = (textLower.match(new RegExp(kw, "g")) || []).length;
       score += count * 2;
-
-      // Partial match (stem): lower weight
       if (kw.length > 4) {
         const stem = kw.slice(0, -2);
         const partialCount = (textLower.match(new RegExp(stem, "g")) || []).length - count;
         score += Math.max(0, partialCount);
       }
     }
-
-    // Boost if subject name matches query
     const subjectLower = chunk.subjectName.toLowerCase();
-    if (keywords.some(kw => subjectLower.includes(kw))) {
-      score *= 1.5;
-    }
-
+    if (keywords.some(kw => subjectLower.includes(kw))) score *= 1.5;
     return { chunk, score };
   });
 
-  // Sort by score and pick top K unique subject chunks
   return scored
     .filter(s => s.score > 0)
     .sort((a, b) => b.score - a.score)
@@ -80,15 +65,13 @@ export async function POST(req: NextRequest) {
       return NextResponse.json({ error: "Question is required" }, { status: 400 });
     }
 
-    const apiKey = process.env.ANTHROPIC_API_KEY;
+    const apiKey = process.env.GEMINI_API_KEY;
     if (!apiKey) {
-      return NextResponse.json({
-        error: "AI service not configured. Please contact the administrator."
-      }, { status: 503 });
+      return NextResponse.json(
+        { error: "AI service not configured. Please contact the administrator." },
+        { status: 503 }
+      );
     }
-
-    // Instantiate inside the handler so constructor errors are caught
-    const anthropic = new Anthropic({ apiKey });
 
     // Search for relevant PDF chunks
     const relevantChunks = searchChunks(question, 5);
@@ -101,25 +84,8 @@ export async function POST(req: NextRequest) {
         .join("\n\n---\n\n");
     }
 
-    // Build conversation history for Claude
-    const messages: Anthropic.MessageParam[] = [];
-
-    // Add previous conversation turns (last 6 messages max)
-    const recentHistory = (history || []).slice(-6);
-    for (const msg of recentHistory) {
-      messages.push({
-        role: msg.role,
-        content: msg.content,
-      });
-    }
-
-    // Add current question
-    messages.push({
-      role: "user",
-      content: question,
-    });
-
-    const systemPrompt = `You are an expert agricultural study assistant for PJTSAU AGRICET preparation.
+    // System instruction for Gemini
+    const systemInstruction = `You are an expert agricultural study assistant for PJTSAU AGRICET preparation.
 You help Diploma in Agriculture students (2nd year) understand and revise concepts from their official PJTSAU theory notes.
 
 Your role:
@@ -131,31 +97,46 @@ Your role:
 - Use bullet points for lists and comparisons
 - For formula/numerical questions, show the calculation clearly
 
-${context ? `Reference excerpts from PJTSAU study material:\n\n${context}\n\nUse the above excerpts as primary source. Answer in clear, exam-focused language.` : "Answer based on standard agricultural science knowledge."}`
+${context
+  ? `Reference excerpts from PJTSAU study material:\n\n${context}\n\nUse the above excerpts as primary source. Answer in clear, exam-focused language.`
+  : "Answer based on standard agricultural science knowledge."}`;
 
-    const response = await anthropic.messages.create({
-      model: "claude-3-haiku-20240307",
-      max_tokens: 600,
-      system: systemPrompt,
-      messages,
+    // Build conversation history for Gemini
+    const geminiHistory: { role: "user" | "model"; parts: { text: string }[] }[] = [];
+    const recentHistory = (history || []).slice(-6);
+    for (const msg of recentHistory) {
+      geminiHistory.push({
+        role: msg.role === "assistant" ? "model" : "user",
+        parts: [{ text: msg.content }],
+      });
+    }
+
+    // Initialize Gemini
+    const genAI = new GoogleGenerativeAI(apiKey);
+    const model = genAI.getGenerativeModel({
+      model: "gemini-1.5-flash",
+      systemInstruction,
     });
 
-    const answer = response.content[0].type === "text" ? response.content[0].text : "";
+    const chat = model.startChat({ history: geminiHistory });
+    const result = await chat.sendMessage(question);
+    const answer = result.response.text();
 
     return NextResponse.json({
       answer,
-      sources: relevantChunks.map(c => c.subjectName).filter((v, i, a) => a.indexOf(v) === i),
+      sources: relevantChunks
+        .map(c => c.subjectName)
+        .filter((v, i, a) => a.indexOf(v) === i),
     });
   } catch (err: unknown) {
     console.error("Chat API error:", err);
     const msg = err instanceof Error ? err.message : String(err);
-    const userMsg = msg.includes("credit balance is too low") || msg.includes("insufficient_quota")
-      ? "The AI service is temporarily unavailable. Please try again later."
-      : msg.includes("invalid x-api-key") || msg.includes("authentication_error") || msg.includes("Could not resolve authentication")
-      ? "Invalid API key. Please contact the administrator."
-      : msg.includes("model")
-      ? "AI model error. Please try again."
-      : "Failed to get an answer. Please try again.";
+    const userMsg =
+      msg.includes("API_KEY_INVALID") || msg.includes("API key not valid")
+        ? "Invalid Gemini API key. Please check GEMINI_API_KEY in Vercel settings."
+        : msg.includes("quota") || msg.includes("RESOURCE_EXHAUSTED")
+        ? "Daily question limit reached. Please try again tomorrow."
+        : "Failed to get an answer. Please try again.";
     return NextResponse.json({ error: userMsg }, { status: 500 });
   }
 }
