@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
-import { GoogleGenerativeAI } from "@google/generative-ai";
+import { GoogleGenAI } from "@google/genai";
 import pdfData from "@/data/pdf-chunks.json";
 
 interface PdfChunk {
@@ -84,7 +84,6 @@ export async function POST(req: NextRequest) {
         .join("\n\n---\n\n");
     }
 
-    // System instruction for Gemini
     const systemInstruction = `You are an expert agricultural study assistant for PJTSAU AGRICET preparation.
 You help Diploma in Agriculture students (2nd year) understand and revise concepts from their official PJTSAU theory notes.
 
@@ -101,26 +100,29 @@ ${context
   ? `Reference excerpts from PJTSAU study material:\n\n${context}\n\nUse the above excerpts as primary source. Answer in clear, exam-focused language.`
   : "Answer based on standard agricultural science knowledge."}`;
 
-    // Build conversation history for Gemini
-    const geminiHistory: { role: "user" | "model"; parts: { text: string }[] }[] = [];
+    // Build conversation history
     const recentHistory = (history || []).slice(-6);
+    const contents: { role: string; parts: { text: string }[] }[] = [];
     for (const msg of recentHistory) {
-      geminiHistory.push({
+      contents.push({
         role: msg.role === "assistant" ? "model" : "user",
         parts: [{ text: msg.content }],
       });
     }
+    contents.push({ role: "user", parts: [{ text: question }] });
 
-    // Initialize Gemini
-    const genAI = new GoogleGenerativeAI(apiKey);
-    const model = genAI.getGenerativeModel({
-      model: "gemini-2.0-flash",
-      systemInstruction,
+    // Use new @google/genai SDK (v1 API — supports all free-tier models)
+    const ai = new GoogleGenAI({ apiKey });
+    const response = await ai.models.generateContent({
+      model: "gemini-2.0-flash-lite",   // lightest free model — 30 RPM, 1500/day free
+      contents,
+      config: {
+        systemInstruction,
+        maxOutputTokens: 600,
+      },
     });
 
-    const chat = model.startChat({ history: geminiHistory });
-    const result = await chat.sendMessage(question);
-    const answer = result.response.text();
+    const answer = response.text ?? "";
 
     return NextResponse.json({
       answer,
@@ -131,7 +133,12 @@ ${context
   } catch (err: unknown) {
     console.error("Chat API error:", err);
     const msg = err instanceof Error ? err.message : String(err);
-    // Temporary debug — shows real error
-    return NextResponse.json({ error: msg }, { status: 500 });
+    const userMsg =
+      msg.includes("API_KEY_INVALID") || msg.includes("API key not valid")
+        ? "Invalid Gemini API key. Please check GEMINI_API_KEY in Vercel settings."
+        : msg.includes("RESOURCE_EXHAUSTED") || msg.includes("quota")
+        ? "Daily question limit reached. Please try again tomorrow."
+        : "Failed to get an answer. Please try again.";
+    return NextResponse.json({ error: userMsg }, { status: 500 });
   }
 }
