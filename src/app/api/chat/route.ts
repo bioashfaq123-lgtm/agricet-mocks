@@ -50,10 +50,17 @@ function searchChunks(query: string, topK = 5): PdfChunk[] {
     "resistant","variety","give","name","list","mention","what",
   ]);
 
+  // Important agricultural terms that should NOT be stop words
+  const keepWords = new Set([
+    "tolerant","resistant","variety","varieties","disease","wilt","blight","rot",
+    "pest","insect","seed","soil","fertilizer","nutrient","deficiency","spray",
+    "yield","crop","plant","leaf","stem","root","flower","fruit","seed",
+  ]);
+
   const keywords = queryLower
     .replace(/[^a-z0-9\s]/g, " ")
     .split(/\s+/)
-    .filter(w => w.length >= 3 && !stopWords.has(w));
+    .filter(w => w.length >= 3 && (!stopWords.has(w) || keepWords.has(w)));
 
   if (keywords.length === 0) return [];
 
