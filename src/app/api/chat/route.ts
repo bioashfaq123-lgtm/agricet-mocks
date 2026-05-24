@@ -9,7 +9,24 @@ interface PdfChunk {
   text: string;
 }
 
-// Keyword-based search — finds the most relevant chunks for a query
+// Subject-specific keyword boosts — routes questions to the right subject
+const SUBJECT_BOOSTS: { keywords: string[]; subjects: string[] }[] = [
+  { keywords: ["wilt","blight","rot","disease","fungus","bacteria","virus","pathogen","symptom","infection","pathology","sclerotia","lesion","canker","mosaic","yellowing","damping"], subjects: ["da-171","plant pathology","disease"] },
+  { keywords: ["insect","pest","borer","worm","aphid","bug","larva","pupa","adult","nymph","mite","thrips","whitefly","entomology","leafhopper"], subjects: ["da-131","entomology","pest"] },
+  { keywords: ["spray","fungicide","pesticide","herbicide","weedicide","insecticide","chemical control","ipm","integrated pest"], subjects: ["da-132","crop protection"] },
+  { keywords: ["variety","hybrid","breed","cross","selection","genetics","mendelian","gene","chromosome","mutation","polyploidy","breeding"], subjects: ["da-151","plant breeding","genetics"] },
+  { keywords: ["soil","fertilizer","npk","nitrogen","phosphorus","potassium","nutrient","deficiency","manure","compost","organic matter","ph","salinity"], subjects: ["da-122","soil","fertility"] },
+  { keywords: ["seed","germination","viability","vigour","certification","ista","moisture content","seed rate"], subjects: ["da-111","seed technology"] },
+  { keywords: ["irrigation","drip","sprinkler","water","delta","duty","consumptive use","evapotranspiration"], subjects: ["irrigation"] },
+  { keywords: ["harvest","post harvest","storage","ripening","grading","processing","preservation","cold storage"], subjects: ["post harvest"] },
+  { keywords: ["fruit","vegetable","horticulture","orchard","nursery","grafting","pruning","mango","banana","tomato","brinjal","chilli","onion","potato"], subjects: ["horticulture"] },
+  { keywords: ["extension","rural","community","communication","t&v","transfer of technology","adoption","diffusion"], subjects: ["extension"] },
+  { keywords: ["agronomy","kharif","rabi","cropping","tillage","sowing","transplanting","spacing","yield","intercropping"], subjects: ["agronomy","principles of agronomy"] },
+  { keywords: ["weather","temperature","rainfall","humidity","wind","climate","meteorology","evaporation"], subjects: ["meteorology"] },
+  { keywords: ["tractor","machinery","implement","plough","cultivator","harvester","thresher","farm machinery"], subjects: ["farm machinery"] },
+];
+
+// Keyword-based search with subject-aware boosting
 function searchChunks(query: string, topK = 5): PdfChunk[] {
   const queryLower = query.toLowerCase();
 
@@ -21,7 +38,8 @@ function searchChunks(query: string, topK = 5): PdfChunk[] {
     "than","but","not","your","you","please","tell","me","give","explain",
     "define","describe","what","why","when","where","who","all","some",
     "any","each","both","few","most","other","such","only","own","same",
-    "so","as","up","out","if","no","nor","yet","either","neither",
+    "so","as","up","out","if","no","nor","yet","either","neither","tolerant",
+    "resistant","variety","give","name","list","mention","what",
   ]);
 
   const keywords = queryLower
@@ -31,11 +49,21 @@ function searchChunks(query: string, topK = 5): PdfChunk[] {
 
   if (keywords.length === 0) return [];
 
+  // Find which subjects to boost based on question keywords
+  const boostedSubjects: string[] = [];
+  for (const rule of SUBJECT_BOOSTS) {
+    if (rule.keywords.some(k => queryLower.includes(k))) {
+      boostedSubjects.push(...rule.subjects);
+    }
+  }
+
   const chunks = pdfData.chunks as PdfChunk[];
 
   const scored = chunks.map(chunk => {
     const textLower = chunk.text.toLowerCase();
+    const subjectLower = chunk.subjectName.toLowerCase();
     let score = 0;
+
     for (const kw of keywords) {
       const count = (textLower.match(new RegExp(kw, "g")) || []).length;
       score += count * 2;
@@ -45,16 +73,20 @@ function searchChunks(query: string, topK = 5): PdfChunk[] {
         score += Math.max(0, partialCount);
       }
     }
-    const subjectLower = chunk.subjectName.toLowerCase();
-    if (keywords.some(kw => subjectLower.includes(kw))) score *= 1.5;
+
+    // Boost if subject matches question topic
+    if (boostedSubjects.some(s => subjectLower.includes(s) || chunk.subjectId?.toLowerCase().includes(s))) {
+      score *= 2.0; // Strong boost to prioritise correct subject
+    } else if (keywords.some(kw => subjectLower.includes(kw))) {
+      score *= 1.5;
+    }
+
     return { chunk, score };
   });
 
-  return scored
-    .filter(s => s.score > 0)
-    .sort((a, b) => b.score - a.score)
-    .slice(0, topK)
-    .map(s => s.chunk);
+  // Return top results ensuring at least 1 chunk from boosted subject if available
+  const filtered = scored.filter(s => s.score > 0).sort((a, b) => b.score - a.score);
+  return filtered.slice(0, topK).map(s => s.chunk);
 }
 
 export async function POST(req: NextRequest) {
