@@ -114,14 +114,26 @@ ${context
     }
     messages.push({ role: "user", content: question });
 
-    // Groq — free tier: 14,400 requests/day, 15,000 TPM
+    // Groq — free tier: 14,400 requests/day
     const groq = new Groq({ apiKey });
-    const completion = await groq.chat.completions.create({
-      model: "gemma2-9b-it",   // 15,000 tokens/min — 2.5x more than llama-3.1-8b
-      messages,
-      max_tokens: 500,
-      temperature: 0.3,
-    });
+    // Try primary model, fall back to secondary if it fails
+    let completion;
+    try {
+      completion = await groq.chat.completions.create({
+        model: "llama-3.1-8b-instant",
+        messages,
+        max_tokens: 500,
+        temperature: 0.3,
+      });
+    } catch {
+      // Fallback model
+      completion = await groq.chat.completions.create({
+        model: "llama3-8b-8192",
+        messages,
+        max_tokens: 500,
+        temperature: 0.3,
+      });
+    }
 
     const answer = completion.choices[0]?.message?.content ?? "";
 
@@ -134,6 +146,12 @@ ${context
   } catch (err: unknown) {
     console.error("Chat API error:", err);
     const msg = err instanceof Error ? err.message : String(err);
-    return NextResponse.json({ error: msg }, { status: 500 });
+    const userMsg =
+      msg.includes("invalid_api_key") || msg.includes("401")
+        ? "Invalid API key. Please check GROQ_API_KEY in Vercel settings."
+        : msg.includes("rate_limit") || msg.includes("429")
+        ? "Too many requests. Please wait a moment and try again."
+        : `Error: ${msg.slice(0, 200)}`;
+    return NextResponse.json({ error: userMsg }, { status: 500 });
   }
 }
