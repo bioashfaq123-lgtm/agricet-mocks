@@ -1,6 +1,6 @@
 "use client";
 import { useState, useRef, useEffect, useCallback } from "react";
-import { X, Send, MessageCircle, Loader2, BookOpen, ChevronDown } from "lucide-react";
+import { X, Send, Bot, Loader2, ChevronDown } from "lucide-react";
 
 interface Message {
   role: "user" | "assistant";
@@ -103,18 +103,19 @@ export default function ChatBot() {
 
   return (
     <>
-      {/* Floating button */}
+      {/* Floating robot button */}
       <button
         onClick={() => setIsOpen(v => !v)}
-        className="fixed bottom-6 right-6 z-50 w-14 h-14 rounded-full bg-primary-600 hover:bg-primary-700 text-white shadow-lg flex items-center justify-center transition-all hover:scale-110 active:scale-95"
+        className="fixed bottom-6 right-6 z-50 w-16 h-16 rounded-2xl bg-primary-600 hover:bg-primary-700 text-white shadow-xl flex flex-col items-center justify-center gap-0.5 transition-all hover:scale-110 active:scale-95 border-2 border-primary-400"
         aria-label="Open AI Study Assistant"
       >
         {isOpen ? (
           <X className="w-6 h-6" />
         ) : (
           <>
-            <MessageCircle className="w-6 h-6" />
-            <span className="absolute -top-1 -right-1 w-4 h-4 bg-green-500 rounded-full border-2 border-white animate-pulse" />
+            <Bot className="w-7 h-7" />
+            <span className="text-[8px] font-bold leading-none tracking-wide opacity-90">ASK ME</span>
+            <span className="absolute -top-1 -right-1 w-3.5 h-3.5 bg-green-400 rounded-full border-2 border-white animate-pulse" />
           </>
         )}
       </button>
@@ -127,7 +128,7 @@ export default function ChatBot() {
           {/* Header */}
           <div className="flex items-center gap-3 px-4 py-3 bg-primary-600 rounded-t-2xl text-white">
             <div className="w-9 h-9 bg-white/20 rounded-full flex items-center justify-center flex-shrink-0">
-              <BookOpen className="w-5 h-5" />
+              <Bot className="w-5 h-5" />
             </div>
             <div className="flex-1 min-w-0">
               <p className="font-bold text-sm leading-none">AGRICET Study Assistant</p>
@@ -157,7 +158,11 @@ export default function ChatBot() {
             {/* Welcome message */}
             {messages.length === 0 && (
               <div className="text-center py-2">
-                <div className="text-3xl mb-2">🌾</div>
+                <div className="flex justify-center mb-2">
+                  <div className="w-14 h-14 rounded-2xl bg-primary-100 flex items-center justify-center">
+                    <Bot className="w-8 h-8 text-primary-600" />
+                  </div>
+                </div>
                 <p className="text-gray-700 text-sm font-medium">Hi! I&apos;m your AGRICET study assistant.</p>
                 <p className="text-gray-500 text-xs mt-1">
                   Ask any doubt from DA-101 to DA-291.<br />
