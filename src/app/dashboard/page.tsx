@@ -141,15 +141,15 @@ export default function DashboardPage() {
           </div>
           <div className="grid md:grid-cols-3 gap-4">
             {PREVIOUS_YEAR_PAPERS.filter(p => p.available).map((paper) => (
-              <div key={paper.year} className="card p-5 border-l-4 border-primary-500">
+              <div key={paper.id} className="card p-5 border-l-4 border-primary-500">
                 <div className="flex items-center justify-between mb-2">
                   <span className="badge bg-primary-100 text-primary-700 font-bold">{paper.year}</span>
                   <span className="text-xs text-gray-500">{paper.totalQuestions} Qs</span>
                 </div>
                 <h3 className="font-semibold text-gray-800 text-sm mb-1 leading-snug">{paper.title}</h3>
                 <p className="text-xs text-gray-500 mb-4">{paper.duration} minutes</p>
-                {isPaid ? (
-                  <Link href={`/test/previous-year/${paper.year}`}
+                {isPaid || paper.isFree ? (
+                  <Link href={`/test/previous-year/${paper.id}`}
                     className="w-full btn-primary text-center block text-sm py-2">
                     <Play className="w-4 h-4 inline mr-1" /> Start Practice
                   </Link>
