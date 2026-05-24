@@ -134,12 +134,6 @@ ${context
   } catch (err: unknown) {
     console.error("Chat API error:", err);
     const msg = err instanceof Error ? err.message : String(err);
-    const userMsg =
-      msg.includes("invalid_api_key") || msg.includes("401")
-        ? "Invalid API key. Please check GROQ_API_KEY in Vercel settings."
-        : msg.includes("rate_limit") || msg.includes("429")
-        ? "Too many requests. Please wait a moment and try again."
-        : "Failed to get an answer. Please try again.";
-    return NextResponse.json({ error: userMsg }, { status: 500 });
+    return NextResponse.json({ error: msg }, { status: 500 });
   }
 }
