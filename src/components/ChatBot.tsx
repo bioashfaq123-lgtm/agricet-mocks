@@ -1,6 +1,55 @@
 "use client";
 import { useState, useRef, useEffect, useCallback } from "react";
-import { X, Send, Bot, Loader2, ChevronDown } from "lucide-react";
+import { X, Send, Loader2, ChevronDown } from "lucide-react";
+
+/* ── Custom robot SVG that matches the be10x style ─────────────────── */
+function RobotIcon({ size = 44 }: { size?: number }) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+      {/* Antenna */}
+      <line x1="28" y1="5" x2="28" y2="11" stroke="white" strokeWidth="2" strokeLinecap="round"/>
+      <circle cx="28" cy="4" r="2.5" fill="#38bdf8"/>
+
+      {/* Head */}
+      <rect x="14" y="11" width="28" height="20" rx="6" fill="white"/>
+
+      {/* Visor panel */}
+      <rect x="18" y="16" width="20" height="9" rx="3.5" fill="#0f172a"/>
+      {/* Eyes */}
+      <circle cx="23" cy="20.5" r="3" fill="#38bdf8"/>
+      <circle cx="33" cy="20.5" r="3" fill="#38bdf8"/>
+      {/* Eye glow */}
+      <circle cx="23" cy="20.5" r="1.5" fill="white" opacity="0.6"/>
+      <circle cx="33" cy="20.5" r="1.5" fill="white" opacity="0.6"/>
+
+      {/* Mouth line */}
+      <rect x="23" y="28" width="10" height="2" rx="1" fill="#cbd5e1"/>
+
+      {/* Body */}
+      <rect x="16" y="33" width="24" height="15" rx="5" fill="white"/>
+      {/* Body detail dots */}
+      <circle cx="23" cy="40" r="2" fill="#bae6fd"/>
+      <circle cx="33" cy="40" r="2" fill="#bae6fd"/>
+
+      {/* LEFT arm raised up */}
+      <path d="M14 33 Q8 28 6 20" stroke="white" strokeWidth="4.5" strokeLinecap="round"/>
+      {/* Hand/palm */}
+      <circle cx="6" cy="18" r="4.5" fill="white"/>
+      {/* Fingers */}
+      <line x1="3" y1="14" x2="2" y2="10" stroke="white" strokeWidth="2" strokeLinecap="round"/>
+      <line x1="6" y1="13" x2="6" y2="9"  stroke="white" strokeWidth="2" strokeLinecap="round"/>
+      <line x1="9" y1="14" x2="10" y2="10" stroke="white" strokeWidth="2" strokeLinecap="round"/>
+
+      {/* RIGHT arm (down) */}
+      <path d="M40 36 Q46 36 47 40" stroke="white" strokeWidth="4.5" strokeLinecap="round"/>
+      <circle cx="47" cy="42" r="4" fill="white"/>
+
+      {/* Legs */}
+      <rect x="19" y="46" width="7" height="5" rx="2.5" fill="#e2e8f0"/>
+      <rect x="30" y="46" width="7" height="5" rx="2.5" fill="#e2e8f0"/>
+    </svg>
+  );
+}
 
 interface Message {
   role: "user" | "assistant";
@@ -19,11 +68,12 @@ const SUGGESTED_QUESTIONS = [
 ];
 
 export default function ChatBot() {
-  const [isOpen, setIsOpen]       = useState(false);
-  const [messages, setMessages]   = useState<Message[]>([]);
-  const [input, setInput]         = useState("");
-  const [loading, setLoading]     = useState(false);
+  const [isOpen, setIsOpen]             = useState(false);
+  const [messages, setMessages]         = useState<Message[]>([]);
+  const [input, setInput]               = useState("");
+  const [loading, setLoading]           = useState(false);
   const [showSuggestions, setShowSuggestions] = useState(true);
+  const [showTooltip, setShowTooltip]   = useState(true);
   const bottomRef = useRef<HTMLDivElement>(null);
   const inputRef  = useRef<HTMLTextAreaElement>(null);
 
@@ -103,22 +153,42 @@ export default function ChatBot() {
 
   return (
     <>
-      {/* Floating robot button */}
-      <button
-        onClick={() => setIsOpen(v => !v)}
-        className="fixed bottom-6 right-6 z-50 w-16 h-16 rounded-2xl bg-primary-600 hover:bg-primary-700 text-white shadow-xl flex flex-col items-center justify-center gap-0.5 transition-all hover:scale-110 active:scale-95 border-2 border-primary-400"
-        aria-label="Open AI Study Assistant"
-      >
-        {isOpen ? (
-          <X className="w-6 h-6" />
-        ) : (
-          <>
-            <Bot className="w-7 h-7" />
-            <span className="text-[8px] font-bold leading-none tracking-wide opacity-90">ASK ME</span>
-            <span className="absolute -top-1 -right-1 w-3.5 h-3.5 bg-green-400 rounded-full border-2 border-white animate-pulse" />
-          </>
+      {/* Floating button + tooltip wrapper */}
+      <div className="fixed bottom-6 right-5 z-50 flex flex-col items-end gap-2">
+
+        {/* Tooltip bubble — shown until dismissed or chat opened */}
+        {showTooltip && !isOpen && (
+          <div className="relative bg-white rounded-2xl shadow-xl border border-gray-100 px-4 py-3 max-w-[190px] text-sm text-gray-700 font-medium leading-snug animate-fade-in">
+            Have doubts? We&apos;re here to help!
+            <button
+              onClick={() => setShowTooltip(false)}
+              className="absolute top-1.5 right-1.5 text-gray-400 hover:text-gray-600 transition-colors"
+              aria-label="Dismiss"
+            >
+              <X className="w-3.5 h-3.5" />
+            </button>
+            {/* Tail pointing down-right */}
+            <span className="absolute -bottom-2 right-5 w-4 h-4 bg-white border-r border-b border-gray-100 rotate-45 rounded-sm" />
+          </div>
         )}
-      </button>
+
+        {/* Dark circular robot button */}
+        <button
+          onClick={() => { setIsOpen(v => !v); setShowTooltip(false); }}
+          className="w-16 h-16 rounded-full bg-gray-900 hover:bg-gray-800 shadow-2xl flex items-center justify-center transition-all hover:scale-105 active:scale-95 relative"
+          aria-label="Open AI Study Assistant"
+        >
+          {isOpen ? (
+            <X className="w-7 h-7 text-white" />
+          ) : (
+            <RobotIcon size={46} />
+          )}
+          {/* Green online dot */}
+          {!isOpen && (
+            <span className="absolute bottom-0.5 right-0.5 w-3.5 h-3.5 bg-green-400 rounded-full border-2 border-gray-900" />
+          )}
+        </button>
+      </div>
 
       {/* Chat panel */}
       {isOpen && (
@@ -126,9 +196,9 @@ export default function ChatBot() {
           style={{ height: "clamp(400px, 65vh, 600px)" }}>
 
           {/* Header */}
-          <div className="flex items-center gap-3 px-4 py-3 bg-primary-600 rounded-t-2xl text-white">
-            <div className="w-9 h-9 bg-white/20 rounded-full flex items-center justify-center flex-shrink-0">
-              <Bot className="w-5 h-5" />
+          <div className="flex items-center gap-3 px-4 py-3 bg-gray-900 rounded-t-2xl text-white">
+            <div className="w-9 h-9 bg-white/10 rounded-full flex items-center justify-center flex-shrink-0">
+              <RobotIcon size={28} />
             </div>
             <div className="flex-1 min-w-0">
               <p className="font-bold text-sm leading-none">AGRICET Study Assistant</p>
@@ -159,8 +229,8 @@ export default function ChatBot() {
             {messages.length === 0 && (
               <div className="text-center py-2">
                 <div className="flex justify-center mb-2">
-                  <div className="w-14 h-14 rounded-2xl bg-primary-100 flex items-center justify-center">
-                    <Bot className="w-8 h-8 text-primary-600" />
+                  <div className="w-14 h-14 rounded-full bg-gray-900 flex items-center justify-center shadow-lg">
+                    <RobotIcon size={40} />
                   </div>
                 </div>
                 <p className="text-gray-700 text-sm font-medium">Hi! I&apos;m your AGRICET study assistant.</p>
