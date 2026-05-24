@@ -558,122 +558,218 @@ def slide11():
     return img
 
 # ════════════════════════════════════════════════════════════════════════════
-#  HAPPY UPBEAT MUSIC GENERATOR
+#  PLEASANT BACKGROUND MUSIC GENERATOR
+#  — Piano timbre · Warm pads with vibrato · Bell tones · Reverb · True stereo
 # ════════════════════════════════════════════════════════════════════════════
 def generate_happy_music(duration=80, path="bg_music_v3.wav"):
     SR = 44100
 
-    def tone(freq, dur, vel=0.3, atk=0.03, dcy=0.06, sus=0.75, rel=0.18):
-        n=int(SR*dur); t=np.linspace(0,dur,n,endpoint=False)
-        # Bright timbre: lots of harmonics for upbeat feel
-        w=(np.sin(2*np.pi*freq*t)
-         +0.60*np.sin(2*np.pi*freq*2*t)
-         +0.30*np.sin(2*np.pi*freq*3*t)
-         +0.15*np.sin(2*np.pi*freq*4*t)
-         +0.08*np.sin(2*np.pi*freq*5*t)
-         +0.04*np.sin(2*np.pi*freq*6*t))
-        w/=(np.max(np.abs(w))+1e-9)
-        a=int(atk*SR); d=int(dcy*SR); r=int(rel*SR); s=max(0,n-a-d-r)
-        env=np.concatenate([np.linspace(0,1,a),np.linspace(1,sus,d),
-                            np.full(s,sus),np.linspace(sus,0,r)])[:n]
-        return w*env*vel
+    # ── Instrument: Piano (natural exponential decay) ───────────────────────
+    def piano(freq, dur, vel=0.22):
+        n = int(SR * dur)
+        t = np.linspace(0, dur, n, endpoint=False)
+        # Rich harmonic series — piano-like
+        w = (1.00 * np.sin(2*np.pi*freq*1*t)
+           + 0.45 * np.sin(2*np.pi*freq*2*t)
+           + 0.20 * np.sin(2*np.pi*freq*3*t)
+           + 0.08 * np.sin(2*np.pi*freq*4*t)
+           + 0.03 * np.sin(2*np.pi*freq*5*t)
+           + 0.015* np.sin(2*np.pi*freq*1.0015*t))  # slight chorus/width
+        w /= (np.max(np.abs(w)) + 1e-9)
+        atk = max(1, int(0.007 * SR))
+        dcy = max(1, int(min(0.18 * SR, n // 3)))
+        rel = max(1, int(min(0.35 * SR, n // 4)))
+        sus_len = max(0, n - atk - dcy - rel)
+        sus_lvl = 0.38
+        env = np.concatenate([
+            np.linspace(0, 1, atk),
+            np.exp(np.linspace(0, np.log(sus_lvl + 1e-9), dcy)),
+            np.full(sus_len, sus_lvl),
+            np.linspace(sus_lvl, 0, rel)
+        ])[:n]
+        return w * env * vel
 
-    def pad(freq, dur, vel=0.08):
-        n=int(SR*dur); t=np.linspace(0,dur,n,endpoint=False)
-        w=np.sin(2*np.pi*freq*t)+0.5*np.sin(2*np.pi*freq*2*t)
-        w/=(np.max(np.abs(w))+1e-9)
-        a=int(0.6*SR); r=int(0.8*SR); s=max(0,n-a-r)
-        env=np.concatenate([np.linspace(0,1,a),np.full(s,1),
-                            np.linspace(1,0,r)])[:n]
-        return w*env*vel
+    # ── Instrument: Warm Synth Pad (slow attack, vibrato, chorus) ───────────
+    def pad(freq, dur, vel=0.07):
+        n = int(SR * dur)
+        t = np.linspace(0, dur, n, endpoint=False)
+        vib = 1 + 0.003 * np.sin(2*np.pi*4.5*t)           # gentle vibrato
+        cho = 1.008                                          # chorus detuning
+        w = (np.sin(2*np.pi*freq*vib*t)
+           + 0.55 * np.sin(2*np.pi*freq*cho*vib*t)
+           + 0.25 * np.sin(2*np.pi*freq*2*vib*t)
+           + 0.10 * np.sin(2*np.pi*freq*3*t))
+        w /= (np.max(np.abs(w)) + 1e-9)
+        atk = max(1, int(min(0.9 * SR, n // 3)))
+        rel = max(1, int(min(0.9 * SR, n // 3)))
+        sus_len = max(0, n - atk - rel)
+        env = np.concatenate([
+            np.linspace(0, 1, atk),
+            np.full(sus_len, 1.0),
+            np.linspace(1, 0, rel)
+        ])[:n]
+        return w * env * vel
 
-    def place(track,s,t):
-        i=int(t*SR); e=i+len(s)
-        if e>len(track): s=s[:len(track)-i]; e=i+len(s)
-        if i<len(track): track[i:e]+=s
+    # ── Instrument: Bell / Glockenspiel (inharmonic, sparkling) ────────────
+    def bell(freq, dur, vel=0.09):
+        n = int(SR * dur)
+        t = np.linspace(0, dur, n, endpoint=False)
+        w = (1.00 * np.sin(2*np.pi*freq*t)
+           + 0.60 * np.sin(2*np.pi*freq*2.76*t)   # inharmonic partials
+           + 0.25 * np.sin(2*np.pi*freq*5.40*t)
+           + 0.10 * np.sin(2*np.pi*freq*8.93*t))
+        w /= (np.max(np.abs(w)) + 1e-9)
+        env = np.exp(-t * 5.5)                      # fast exponential decay
+        return w * env * vel
 
-    track=np.zeros(int(SR*duration))
+    # ── Instrument: Soft Bass (warm, rounded) ───────────────────────────────
+    def bass(freq, dur, vel=0.18):
+        n = int(SR * dur)
+        t = np.linspace(0, dur, n, endpoint=False)
+        w = (np.sin(2*np.pi*freq*t)
+           + 0.30 * np.sin(2*np.pi*freq*2*t)
+           + 0.08 * np.sin(2*np.pi*freq*3*t))
+        w /= (np.max(np.abs(w)) + 1e-9)
+        atk = max(1, int(0.015 * SR))
+        rel = max(1, int(min(0.4 * SR, n // 2)))
+        sus_len = max(0, n - atk - rel)
+        env = np.concatenate([
+            np.linspace(0, 1, atk),
+            np.full(sus_len, 0.75),
+            np.linspace(0.75, 0, rel)
+        ])[:n]
+        return w * env * vel
 
-    # Note frequencies — C major (happy key)
-    C3=130.81; G3=196.00; A3=220.00; F3=174.61
-    C4=261.63; D4=293.66; E4=329.63; F4=349.23; G4=392.00; A4=440.00; B4=493.88
-    C5=523.25; D5=587.33; E5=659.25; F5=698.46; G5=783.99; A5=880.00; B5=987.77
+    def place(trk, s, t_pos):
+        i = int(t_pos * SR); e = i + len(s)
+        if e > len(trk): s = s[:len(trk) - i]; e = i + len(s)
+        if i < len(trk) and len(s) > 0: trk[i:e] += s
 
-    # BPM = 95 → beat = 60/95 = 0.632s
-    BPM=95; beat=60/BPM; half=beat/2; qtr=beat/4
+    track = np.zeros(int(SR * duration))
 
-    # ── Layer 1: Bass (punchy, every beat) ─────────────────────────────────
-    bass_prog=[C3,G3,A3,F3]   # I - V - vi - IV (most popular happy progression)
-    t=0.0; bi=0
-    while t<duration-beat:
-        place(track, tone(bass_prog[bi%4],beat*1.8,vel=0.22,atk=0.01,dcy=0.05,sus=0.6,rel=0.3), t)
-        place(track, tone(bass_prog[bi%4]*2,beat*0.9,vel=0.12,atk=0.01,dcy=0.04,sus=0.5,rel=0.25), t+beat)
-        t+=beat*2; bi+=1
+    # ── Note frequencies — D major (warm, bright, universally pleasant) ─────
+    D3=146.83; A3=220.00; B3=246.94; G3=196.00
+    D4=293.66; E4=329.63; F4s=369.99; G4=392.00; A4=440.00; B4=493.88
+    D5=587.33; E5=659.25; F5s=739.99; G5=783.99; A5=880.00; B5=987.77
+    D6=1174.66; E6=1318.51
 
-    # ── Layer 2: Chord pads (sustained, warm) ──────────────────────────────
-    chord_sets=[
-        [C4,E4,G4,C5],  # C major
-        [G3,B4,D5,G5],  # G major
-        [A3,C4,E5,A5],  # A minor
-        [F3,A4,C5,F5],  # F major
+    BPM  = 78          # relaxed, warm, professional pace
+    beat = 60 / BPM
+    half = beat / 2
+    qtr  = beat / 4
+
+    # ── Layer 1: Soft Bass (root on beat 1, fifth on beat 3) ────────────────
+    bass_prog = [D3, A3, B3, G3]   # I – V – vi – IV in D major
+    t_pos = 0.0; bi = 0
+    while t_pos < duration - beat:
+        place(track, bass(bass_prog[bi%4],        beat*1.6, vel=0.18), t_pos)
+        place(track, bass(bass_prog[bi%4] * 1.5,  beat*0.9, vel=0.10), t_pos + beat*2)
+        t_pos += beat * 4; bi += 1
+
+    # ── Layer 2: Warm Pad Chords (whole notes, slow, lush) ──────────────────
+    Cs5=554.37; E5b=659.25
+    chord_sets = [
+        [D4, F4s, A4, D5],
+        [A3, Cs5, E5b, A5],
+        [B3, D4,  F4s, B4],
+        [G3, B3,  D4,  G4],
     ]
-    t=0.0; ci=0
-    while t<duration-beat:
+    t_pos = 0.0; ci = 0
+    while t_pos < duration - beat:
         for freq in chord_sets[ci%4]:
-            place(track, pad(freq, beat*4, 0.08), t)
-        t+=beat*4; ci+=1
+            place(track, pad(freq, beat*4, vel=0.065), t_pos)
+        t_pos += beat * 4; ci += 1
 
-    # ── Layer 3: Happy arpeggio (bright, fast rhythm) ──────────────────────
-    arp_patterns=[
-        [C5,E5,G5,C5,G5,E5],   # C major up-down
-        [B4,D5,G5,B5,G5,D5],   # G major up-down
-        [A4,C5,E5,A5,E5,C5],   # A minor up-down
-        [A4,C5,F5,A5,F5,C5],   # F major up-down
+    # ── Layer 3: Piano Melody (singable, warm, memorable) ───────────────────
+    melody = [
+        (D5,  beat),   (F4s, beat),   (A4,  beat),   (D5,  beat*1.5),
+        (E5,  half),   (D5,  beat),   (B4,  beat),   (A4,  beat*2),
+        (G4,  beat),   (A4,  beat),   (B4,  beat),   (D5,  beat*1.5),
+        (E5,  half),   (D5,  beat),   (A4,  beat),   (G4,  beat*2),
+        (F4s, beat),   (G4,  beat),   (A4,  beat),   (B4,  beat*1.5),
+        (D5,  half),   (E5,  beat),   (D5,  beat),   (B4,  beat*2),
+        (A4,  beat),   (B4,  beat),   (D5,  beat),   (E5,  beat*1.5),
+        (D5,  half),   (B4,  beat),   (A4,  beat),   (D4,  beat*3),
     ]
-    t=0.2; ai=0
-    while t<duration-qtr:
-        pattern=arp_patterns[ai%4]
-        for j,freq in enumerate(pattern):
-            place(track, tone(freq,half*0.85,vel=0.14,atk=0.01,dcy=0.04,sus=0.55,rel=0.15), t+j*qtr)
-        t+=len(pattern)*qtr; ai+=1
+    t_pos = 0.6
+    while t_pos < duration - 2:
+        for freq, dur_ in melody:
+            if t_pos >= duration - 2: break
+            place(track, piano(freq, dur_ * 0.82, vel=0.21), t_pos)
+            t_pos += dur_
 
-    # ── Layer 4: Happy melody (bright, singable, upbeat) ───────────────────
-    # Melody in C major — cheerful and memorable
-    melody=[
-        (C5,beat),(E5,beat),(G5,beat),(A5,beat*1.5),
-        (G5,half),(E5,beat),(D5,beat),(C5,beat*2),
-        (E5,beat),(G5,beat),(A5,beat),(G5,beat*1.5),
-        (E5,half),(D5,beat),(E5,beat),(G5,beat*2),
-        (C5,beat),(D5,beat),(E5,beat),(G5,beat*1.5),
-        (A5,half),(G5,beat),(E5,beat),(D5,beat*2),
-        (G4,beat),(A4,beat),(B4,beat),(C5,beat*1.5),
-        (B4,half),(A4,beat),(G4,beat),(C5,beat*3),
+    # ── Layer 4: Piano inner voice / harmony (3rds below melody) ────────────
+    harmony = [
+        (B4,  beat),   (D4,  beat),   (F4s, beat),   (B4,  beat*1.5),
+        (Cs5, half),   (B4,  beat),   (G4,  beat),   (F4s, beat*2),
+        (E4,  beat),   (F4s, beat),   (G4,  beat),   (B4,  beat*1.5),
+        (Cs5, half),   (B4,  beat),   (F4s, beat),   (E4,  beat*2),
     ]
-    t=0.5
-    while t<duration-2:
-        for freq,dur_ in melody:
-            if t>=duration-2: break
-            place(track, tone(freq,dur_*0.88,vel=0.16,atk=0.02,dcy=0.06,sus=0.60,rel=0.25), t)
-            t+=dur_
+    t_pos = 0.6
+    while t_pos < duration - 2:
+        for freq, dur_ in harmony:
+            if t_pos >= duration - 2: break
+            place(track, piano(freq, dur_ * 0.75, vel=0.10), t_pos)
+            t_pos += dur_
 
-    # ── Layer 5: Bright high shimmer (sparkle effect) ──────────────────────
-    shimmer=[C5,G5,E5,A5,C5,F5,G5,B5]
-    t=1.0; si=0
-    while t<duration-half:
-        place(track, tone(shimmer[si%8],half*0.5,vel=0.05,atk=0.01,dcy=0.03,sus=0.3,rel=0.12), t)
-        t+=half*1.5; si+=1
+    # ── Layer 5: Bell counter-melody (high, sparkling, gentle) ──────────────
+    bell_notes = [
+        (D6, beat*2),(B5, beat),(A5, beat),(G5, beat*2),(E5, beat),(D5, beat*2),(A5, beat*2),(D6, beat*2)
+    ]
+    t_pos = beat * 3
+    while t_pos < duration - 2:
+        for freq, dur_ in bell_notes:
+            if t_pos >= duration - 2: break
+            place(track, bell(freq, dur_ * 1.3, vel=0.07), t_pos)
+            t_pos += dur_
 
-    # ── Normalize + master ─────────────────────────────────────────────────
-    peak=np.max(np.abs(track))
-    if peak>0: track/=peak
-    track*=0.75
+    # ── Layer 6: Piano arpeggio (gentle, fills the background) ──────────────
+    arp_sets = [
+        [D4, F4s, A4, D5, A4, F4s],
+        [A3, Cs5, E5b, A5, E5b, Cs5],
+        [B3, D4,  F4s, B4, F4s, D4],
+        [G3, B3,  D4,  G4, D4,  B3],
+    ]
+    t_pos = beat * 0.5; ai = 0
+    while t_pos < duration - qtr:
+        pattern = arp_sets[ai % 4]
+        for j, freq in enumerate(pattern):
+            place(track, piano(freq, half * 0.7, vel=0.08), t_pos + j * qtr)
+        t_pos += len(pattern) * qtr; ai += 1
 
-    # Gentle fade in (1.5s) and fade out (3s)
-    fi=int(1.5*SR); track[:fi]*=np.linspace(0,1,fi)
-    fo=int(3.0*SR); track[-fo:]*=np.linspace(1,0,fo)
+    # ── Reverb: simple comb + allpass for warmth and depth ──────────────────
+    def apply_reverb(sig, decay=0.28, delay_ms=85):
+        delay_smp = int(delay_ms * SR / 1000)
+        out = sig.copy()
+        for i in range(delay_smp, len(out)):
+            out[i] += decay * out[i - delay_smp]
+        return out
+    track = 0.65 * track + 0.35 * apply_reverb(track, decay=0.22, delay_ms=72)
 
-    audio=(track*32767).astype(np.int16)
-    stereo=np.column_stack([audio,audio])
+    # ── True Stereo (Haas effect — 14ms L/R offset for width) ───────────────
+    delay_smp = int(0.014 * SR)
+    left  = track.copy()
+    right = np.zeros_like(track)
+    right[delay_smp:] = track[:-delay_smp]
+    # slight high-freq rolloff on right for warmth
+    from numpy import convolve
+    hpf = np.array([0.15, 0.30, 0.30, 0.15, 0.10])
+    right = np.convolve(right, hpf, mode='same')
+
+    # ── Master: normalize, gentle limiter, fade in/out ──────────────────────
+    peak = max(np.max(np.abs(left)), np.max(np.abs(right))) + 1e-9
+    left  = np.clip(left  / peak * 0.70, -1, 1)
+    right = np.clip(right / peak * 0.70, -1, 1)
+
+    fi = int(2.5 * SR)
+    left[:fi]  *= np.linspace(0, 1, fi)
+    right[:fi] *= np.linspace(0, 1, fi)
+    fo = int(4.5 * SR)
+    left[-fo:]  *= np.linspace(1, 0, fo)
+    right[-fo:] *= np.linspace(1, 0, fo)
+
+    stereo = np.column_stack([(left*32767).astype(np.int16),
+                               (right*32767).astype(np.int16)])
     wavfile.write(path, SR, stereo)
     print(f"  Music: {path}  ({duration}s, BPM={BPM})")
     return path
