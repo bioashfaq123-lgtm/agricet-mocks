@@ -666,19 +666,7 @@ def generate_happy_music(duration=80, path="bg_music_v3.wav"):
         place(track, bass(bass_prog[bi%4] * 1.5,  beat*0.9, vel=0.10), t_pos + beat*2)
         t_pos += beat * 4; bi += 1
 
-    # ── Layer 2: Warm Pad Chords (whole notes, slow, lush) ──────────────────
-    Cs5=554.37; E5b=659.25
-    chord_sets = [
-        [D4, F4s, A4, D5],
-        [A3, Cs5, E5b, A5],
-        [B3, D4,  F4s, B4],
-        [G3, B3,  D4,  G4],
-    ]
-    t_pos = 0.0; ci = 0
-    while t_pos < duration - beat:
-        for freq in chord_sets[ci%4]:
-            place(track, pad(freq, beat*4, vel=0.065), t_pos)
-        t_pos += beat * 4; ci += 1
+    Cs5=554.37; E5b=659.25   # used by harmony layer below
 
     # ── Layer 3: Piano Melody (singable, warm, memorable) ───────────────────
     melody = [
