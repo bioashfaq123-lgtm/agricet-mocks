@@ -73,8 +73,8 @@ export async function POST(req: NextRequest) {
       );
     }
 
-    // Search for relevant PDF chunks
-    const relevantChunks = searchChunks(question, 5);
+    // Search for relevant PDF chunks (3 chunks to stay within token limits)
+    const relevantChunks = searchChunks(question, 3);
 
     // Build context from chunks
     let context = "";
@@ -114,12 +114,12 @@ ${context
     }
     messages.push({ role: "user", content: question });
 
-    // Groq — free tier: 14,400 requests/day, 30 RPM
+    // Groq — free tier: 14,400 requests/day, 15,000 TPM
     const groq = new Groq({ apiKey });
     const completion = await groq.chat.completions.create({
-      model: "llama-3.1-8b-instant",
+      model: "gemma2-9b-it",   // 15,000 tokens/min — 2.5x more than llama-3.1-8b
       messages,
-      max_tokens: 600,
+      max_tokens: 500,
       temperature: 0.3,
     });
 
