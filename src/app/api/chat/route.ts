@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
-import { GoogleGenAI } from "@google/genai";
+import Groq from "groq-sdk";
 import pdfData from "@/data/pdf-chunks.json";
 
 interface PdfChunk {
@@ -65,7 +65,7 @@ export async function POST(req: NextRequest) {
       return NextResponse.json({ error: "Question is required" }, { status: 400 });
     }
 
-    const apiKey = process.env.GEMINI_API_KEY;
+    const apiKey = process.env.GROQ_API_KEY;
     if (!apiKey) {
       return NextResponse.json(
         { error: "AI service not configured. Please contact the administrator." },
@@ -84,7 +84,7 @@ export async function POST(req: NextRequest) {
         .join("\n\n---\n\n");
     }
 
-    const systemInstruction = `You are an expert agricultural study assistant for PJTSAU AGRICET preparation.
+    const systemPrompt = `You are an expert agricultural study assistant for PJTSAU AGRICET preparation.
 You help Diploma in Agriculture students (2nd year) understand and revise concepts from their official PJTSAU theory notes.
 
 Your role:
@@ -101,28 +101,29 @@ ${context
   : "Answer based on standard agricultural science knowledge."}`;
 
     // Build conversation history
+    const messages: { role: "system" | "user" | "assistant"; content: string }[] = [
+      { role: "system", content: systemPrompt },
+    ];
+
     const recentHistory = (history || []).slice(-6);
-    const contents: { role: string; parts: { text: string }[] }[] = [];
     for (const msg of recentHistory) {
-      contents.push({
-        role: msg.role === "assistant" ? "model" : "user",
-        parts: [{ text: msg.content }],
+      messages.push({
+        role: msg.role === "assistant" ? "assistant" : "user",
+        content: msg.content,
       });
     }
-    contents.push({ role: "user", parts: [{ text: question }] });
+    messages.push({ role: "user", content: question });
 
-    // Use new @google/genai SDK (v1 API — supports all free-tier models)
-    const ai = new GoogleGenAI({ apiKey });
-    const response = await ai.models.generateContent({
-      model: "gemini-2.0-flash-lite",   // lightest free model — 30 RPM, 1500/day free
-      contents,
-      config: {
-        systemInstruction,
-        maxOutputTokens: 600,
-      },
+    // Groq — free tier: 14,400 requests/day, 30 RPM
+    const groq = new Groq({ apiKey });
+    const completion = await groq.chat.completions.create({
+      model: "llama-3.1-8b-instant",
+      messages,
+      max_tokens: 600,
+      temperature: 0.3,
     });
 
-    const answer = response.text ?? "";
+    const answer = completion.choices[0]?.message?.content ?? "";
 
     return NextResponse.json({
       answer,
@@ -134,10 +135,10 @@ ${context
     console.error("Chat API error:", err);
     const msg = err instanceof Error ? err.message : String(err);
     const userMsg =
-      msg.includes("API_KEY_INVALID") || msg.includes("API key not valid")
-        ? "Invalid Gemini API key. Please check GEMINI_API_KEY in Vercel settings."
-        : msg.includes("RESOURCE_EXHAUSTED") || msg.includes("quota")
-        ? "Daily question limit reached. Please try again tomorrow."
+      msg.includes("invalid_api_key") || msg.includes("401")
+        ? "Invalid API key. Please check GROQ_API_KEY in Vercel settings."
+        : msg.includes("rate_limit") || msg.includes("429")
+        ? "Too many requests. Please wait a moment and try again."
         : "Failed to get an answer. Please try again.";
     return NextResponse.json({ error: userMsg }, { status: 500 });
   }
