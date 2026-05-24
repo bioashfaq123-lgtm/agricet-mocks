@@ -52,8 +52,8 @@ PDF_MAP = [
 PDF_DIR = r"D:\Desktop\APT Notes\Diploma courses"
 OUT_FILE = r"C:\Users\bioas\Agricet Mock Test Series\src\data\pdf-chunks.json"
 
-CHUNK_WORDS = 250   # target words per chunk
-OVERLAP_WORDS = 30  # overlap between chunks
+CHUNK_WORDS = 350   # target words per chunk (larger = fewer splits of important content)
+OVERLAP_WORDS = 70  # overlap between chunks (more overlap = better context continuity)
 
 
 def clean_text(text: str) -> str:
