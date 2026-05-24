@@ -211,32 +211,83 @@ export async function POST(req: NextRequest) {
       );
     }
 
-    // Search for relevant PDF chunks — 4 chunks, truncated to 150 words each
+    // Search for relevant PDF chunks
     const relevantChunks = searchChunks(question, 4);
 
     // Truncate each chunk to keep tokens manageable
     const truncate = (text: string, maxWords = 150) =>
       text.split(/\s+/).slice(0, maxWords).join(" ");
 
-    let context = "";
+    let pdfContext = "";
     if (relevantChunks.length > 0) {
-      context = relevantChunks
+      pdfContext = relevantChunks
         .map(c => `[${c.subjectName}]:\n${truncate(c.text)}`)
         .join("\n\n---\n\n");
     }
 
-    const systemPrompt = `You are an AGRICET study assistant for PJTSAU Diploma in Agriculture students (2nd year).
+    // Web search fallback — runs when:
+    // 1. Tavily API key is configured, AND
+    // 2. PDF has poor coverage (no chunks) OR question is a factual/biographical query
+    let webContext = "";
+    let usedWebSearch = false;
+    const tavilyKey = process.env.TAVILY_API_KEY;
+    const isFactualQuery = /\b(who|father|founder|inventor|discover|origin|history|named after|first|oldest|pioneer|introduced|developed by)\b/i.test(question);
+    const poorPDFCoverage = relevantChunks.length === 0;
 
-STRICT RULES:
-- Answer ONLY from the reference excerpts below when available
-- If the answer is clearly in the references, use it exactly — do NOT add or change information
-- If references don't contain enough info, say "This specific detail is not in your PJTSAU notes. Based on general agriculture: ..." and then answer
+    if (tavilyKey && (poorPDFCoverage || isFactualQuery)) {
+      try {
+        const tavilyRes = await fetch("https://api.tavily.com/search", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            api_key: tavilyKey,
+            query: `agriculture ${question}`,
+            search_depth: "basic",
+            max_results: 3,
+            include_answer: true,
+          }),
+        });
+
+        if (tavilyRes.ok) {
+          const tavilyData = await tavilyRes.json();
+          const parts: string[] = [];
+          if (tavilyData.answer) {
+            parts.push(`Direct answer: ${tavilyData.answer}`);
+          }
+          if (tavilyData.results?.length) {
+            for (const r of tavilyData.results.slice(0, 2)) {
+              if (r.content) parts.push(`[${r.title}]: ${r.content.slice(0, 200)}`);
+            }
+          }
+          if (parts.length > 0) {
+            webContext = parts.join("\n\n");
+            usedWebSearch = true;
+          }
+        }
+      } catch (webErr) {
+        console.error("Web search error:", webErr);
+      }
+    }
+
+    // Build system prompt based on available context
+    let systemPrompt = `You are an AGRICET study assistant for PJTSAU Diploma in Agriculture students (2nd year).
+
+Rules:
+- Prefer PJTSAU notes when available — use them exactly, do not change facts
+- For questions NOT in the notes, answer confidently from general agricultural science knowledge
 - Keep answers short and exam-focused
 - Use bullet points for lists
+- Never say you cannot answer — always provide the best answer you can`;
 
-${context
-  ? `PJTSAU Reference Material:\n\n${context}\n\nAnswer strictly based on the above references.`
-  : "No specific reference found. Answer based on standard agricultural science and mention this."}`;
+    if (pdfContext && webContext) {
+      systemPrompt += `\n\nPJTSAU Notes:\n${pdfContext}\n\n---\nWeb Search Results:\n${webContext}\n\nUse PJTSAU notes first; supplement with web results if needed.`;
+    } else if (pdfContext) {
+      systemPrompt += `\n\nPJTSAU Reference Material:\n${pdfContext}`;
+    } else if (webContext) {
+      systemPrompt += `\n\nWeb Search Results (no PJTSAU notes found for this topic):\n${webContext}\n\nAnswer based on the web results above. Note that this topic may not be in PJTSAU notes.`;
+    } else {
+      systemPrompt += `\n\nNo specific notes found for this topic. Answer from your general agricultural science knowledge.`;
+    }
 
     // Build conversation history
     const messages: { role: "system" | "user" | "assistant"; content: string }[] = [
@@ -257,7 +308,7 @@ ${context
     const completion = await groq.chat.completions.create({
       model: "llama-3.1-8b-instant",
       messages,
-      max_tokens: 400,
+      max_tokens: 500,
       temperature: 0.3,
     });
 
@@ -268,6 +319,7 @@ ${context
       sources: relevantChunks
         .map(c => c.subjectName)
         .filter((v, i, a) => a.indexOf(v) === i),
+      webSearch: usedWebSearch,
     });
   } catch (err: unknown) {
     console.error("Chat API error:", err);

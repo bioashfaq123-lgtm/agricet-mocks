@@ -6,6 +6,7 @@ interface Message {
   role: "user" | "assistant";
   content: string;
   sources?: string[];
+  webSearch?: boolean;
 }
 
 const SUGGESTED_QUESTIONS = [
@@ -75,6 +76,7 @@ export default function ChatBot() {
           role: "assistant",
           content: data.answer,
           sources: data.sources,
+          webSearch: data.webSearch,
         }]);
       }
     } catch {
@@ -201,9 +203,14 @@ export default function ChatBot() {
                           <p key={li}>{line}</p>
                         ) : null
                       ))}
-                      {msg.sources && msg.sources.length > 0 && (
+                      {(msg.sources && msg.sources.length > 0 || msg.webSearch) && (
                         <p className="text-xs text-gray-500 mt-2 pt-2 border-t border-gray-200">
-                          📚 Source: {msg.sources.join(", ")}
+                          {msg.sources && msg.sources.length > 0 && `📚 ${msg.sources.join(", ")}`}
+                          {msg.webSearch && (
+                            <span className="ml-1 inline-flex items-center gap-0.5 bg-blue-100 text-blue-700 rounded px-1.5 py-0.5">
+                              🌐 Web Search
+                            </span>
+                          )}
                         </p>
                       )}
                     </div>
