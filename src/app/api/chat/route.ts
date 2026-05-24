@@ -73,32 +73,22 @@ export async function POST(req: NextRequest) {
       );
     }
 
-    // Search for relevant PDF chunks (3 chunks to stay within token limits)
-    const relevantChunks = searchChunks(question, 3);
+    // Search for relevant PDF chunks — 2 chunks, truncated to 120 words each
+    const relevantChunks = searchChunks(question, 2);
 
-    // Build context from chunks
+    // Build context — truncate each chunk to keep tokens low
+    const truncate = (text: string, maxWords = 120) =>
+      text.split(/\s+/).slice(0, maxWords).join(" ");
+
     let context = "";
     if (relevantChunks.length > 0) {
       context = relevantChunks
-        .map(c => `[From ${c.subjectName}]\n${c.text}`)
-        .join("\n\n---\n\n");
+        .map(c => `[${c.subjectName}]: ${truncate(c.text)}`)
+        .join("\n\n");
     }
 
-    const systemPrompt = `You are an expert agricultural study assistant for PJTSAU AGRICET preparation.
-You help Diploma in Agriculture students (2nd year) understand and revise concepts from their official PJTSAU theory notes.
-
-Your role:
-- Answer student doubts clearly and concisely in simple language
-- Focus on facts, definitions, and exam-relevant information
-- Use the provided reference excerpts from PJTSAU study material when relevant
-- If the answer is not clearly in the references, use your agricultural knowledge but mention it
-- Keep answers brief and focused (2-5 sentences for simple questions, up to 1 paragraph for complex ones)
-- Use bullet points for lists and comparisons
-- For formula/numerical questions, show the calculation clearly
-
-${context
-  ? `Reference excerpts from PJTSAU study material:\n\n${context}\n\nUse the above excerpts as primary source. Answer in clear, exam-focused language.`
-  : "Answer based on standard agricultural science knowledge."}`;
+    const systemPrompt = `You are an AGRICET study assistant for PJTSAU Diploma students. Answer clearly and briefly.
+${context ? `\nReferences:\n${context}\n\nUse above as primary source.` : "Use standard agricultural science knowledge."}`;
 
     // Build conversation history
     const messages: { role: "system" | "user" | "assistant"; content: string }[] = [
@@ -114,26 +104,14 @@ ${context
     }
     messages.push({ role: "user", content: question });
 
-    // Groq — free tier: 14,400 requests/day
+    // Groq — llama-3.3-70b: 100 RPM, 12000 TPM free
     const groq = new Groq({ apiKey });
-    // Try primary model, fall back to secondary if it fails
-    let completion;
-    try {
-      completion = await groq.chat.completions.create({
-        model: "llama-3.1-8b-instant",
-        messages,
-        max_tokens: 500,
-        temperature: 0.3,
-      });
-    } catch {
-      // Fallback to larger model
-      completion = await groq.chat.completions.create({
-        model: "llama-3.3-70b-versatile",
-        messages,
-        max_tokens: 500,
-        temperature: 0.3,
-      });
-    }
+    const completion = await groq.chat.completions.create({
+      model: "llama-3.3-70b-versatile",
+      messages,
+      max_tokens: 400,
+      temperature: 0.3,
+    });
 
     const answer = completion.choices[0]?.message?.content ?? "";
 
