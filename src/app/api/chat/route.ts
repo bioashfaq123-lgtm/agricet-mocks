@@ -9,29 +9,57 @@ interface PdfChunk {
   text: string;
 }
 
-// Subject-specific keyword boosts — CORRECT subject IDs from actual PDF data:
-// da-101=Agronomy, da-102=Meteorology, da-111=Plant Pathology, da-121=Entomology,
-// da-122=Beneficial Insects, da-131=Soil Science, da-132=Crop Protection Chemicals,
-// da-151=Plant Breeding, da-171=Seed Technology, da-201=Farm Management,
-// da-241=Agricultural Economics, da-252=Soil Fertility, da-262=Computer Applications,
-// da-263=English Communication, da-281=Horticulture, da-282=Post Harvest, da-291=Extension
+// ACTUAL content mapping (subjectName labels in JSON are WRONG — PDFs were mis-chunked):
+// da-101 → Agronomy (label correct)
+// da-102 → Crop Production I / Meteorology (label says Meteorology)
+// da-111 → Plant Breeding & Seed Production (label says Plant Pathology — WRONG)
+// da-121 → Soil Chemistry & Fertility (label says Entomology — WRONG)
+// da-122 → Manures & Fertilizers (label says Beneficial Insects — WRONG)
+// da-131 → Entomology & Pest Management (label says Soil Science — WRONG)
+// da-132 → Pest Management / Crop Protection (label correct)
+// da-151 → Farm Machinery & Power (label says Plant Breeding — WRONG)
+// da-171 → Plant Pathology & Diseases (label says Seed Technology — WRONG)
+// da-201 → Crop Production II (label says Farm Management — WRONG)
+// da-241 → Farm Management & Agricultural Economics (label correct)
+// da-252 → Land Surveying & Water Engineering (label says Soil Fertility — WRONG)
+// da-262 → Computer Applications (label correct)
+// da-263 → English Communication (label correct)
+// da-281 → Forestry & Medicinal Plants (label says Horticulture — WRONG)
+// da-282 → Horticultural Crops (label says Post Harvest — WRONG)
+// da-291 → Extension Education (label correct)
 const SUBJECT_BOOSTS: { keywords: string[]; subjects: string[] }[] = [
-  // Disease content is in da-111 (pathology), da-171 (seed tech covers crop diseases), da-132 (crop protection)
-  { keywords: ["wilt","blight","rot","disease","fungus","bacteria","virus","pathogen","symptom","infection","pathology","sclerotia","lesion","canker","mosaic","yellowing","damping","smut","rust","anthracnose","cercospora","fusarium","alternaria","phytophthora"], subjects: ["da-111","da-171","da-132","plant pathology","seed technology","crop protection"] },
-  { keywords: ["insect","pest","mite","aphid","bug","larva","pupa","adult","nymph","thrips","whitefly","leafhopper","entomology","metamorphosis","antenna","morphology"], subjects: ["da-121","entomology"] },
-  { keywords: ["borer","shoot borer","fruit borer","beneficial insect","parasitoid","predator","biocontrol","natural enemy"], subjects: ["da-122","beneficial insect"] },
-  { keywords: ["spray","fungicide","pesticide","herbicide","weedicide","insecticide","chemical control","ipm","integrated","formulation","toxicity"], subjects: ["da-132","crop protection"] },
-  { keywords: ["soil","texture","structure","clay","sand","loam","horizon","profile","salinity","alkali","laterite","pedology","weathering"], subjects: ["da-131","soil science"] },
-  { keywords: ["fertilizer","npk","nitrogen","phosphorus","potassium","nutrient","deficiency","manure","compost","organic matter","urea","dap","biofertilizer","micronutrient"], subjects: ["da-252","soil fertility"] },
-  { keywords: ["variety","hybrid","cross","selection","genetics","mendelian","gene","chromosome","mutation","polyploidy","breeding","heterosis","inbreeding","self","outcrossing"], subjects: ["da-151","plant breeding"] },
-  { keywords: ["seed","germination","viability","vigour","certification","ista","moisture","seed rate","seed testing","purity","dormancy","priming"], subjects: ["da-171","seed technology"] },
-  { keywords: ["irrigation","drip","sprinkler","water","delta","duty","consumptive","evapotranspiration","canal","furrow","flood"], subjects: ["da-101","irrigation","agronomy"] },
-  { keywords: ["harvest","post harvest","storage","ripening","grading","processing","preservation","cold storage","respiration","climacteric","curing"], subjects: ["da-282","post harvest"] },
-  { keywords: ["fruit","vegetable","horticulture","orchard","nursery","grafting","pruning","mango","banana","citrus","papaya","guava","tomato","brinjal","chilli","onion","potato","okra"], subjects: ["da-281","horticulture"] },
-  { keywords: ["extension","rural","community","communication","transfer of technology","adoption","diffusion","village","farmer","kisan"], subjects: ["da-291","extension"] },
-  { keywords: ["agronomy","kharif","rabi","cropping","tillage","sowing","transplanting","spacing","yield","intercropping","weed","pakka"], subjects: ["da-101","agronomy"] },
-  { keywords: ["weather","temperature","rainfall","humidity","wind","climate","meteorology","evaporation","sunshine","solar radiation"], subjects: ["da-102","meteorology"] },
-  { keywords: ["economics","cost","profit","market","price","demand","supply","income","expenditure","farm management","break even"], subjects: ["da-201","da-241","economics"] },
+  // Plant Pathology & Diseases → da-171 (actual content), da-132 (pest/disease overlap)
+  { keywords: ["wilt","blight","rot","disease","fungus","bacteria","virus","pathogen","symptom","infection","pathology","sclerotia","lesion","canker","mosaic","yellowing","damping","smut","rust","anthracnose","cercospora","fusarium","alternaria","phytophthora"], subjects: ["da-171","da-132"] },
+  // Entomology → da-131 (actual entomology content), da-132 (pest management)
+  { keywords: ["insect","pest","mite","aphid","bug","larva","pupa","adult","nymph","thrips","whitefly","leafhopper","entomology","metamorphosis","antenna","morphology"], subjects: ["da-131","da-132"] },
+  // Beneficial Insects & Biocontrol → da-131 (entomology), da-132 (pest management)
+  { keywords: ["borer","shoot borer","fruit borer","beneficial insect","parasitoid","predator","biocontrol","natural enemy"], subjects: ["da-131","da-132"] },
+  // Crop Protection / Pesticides → da-132 (actual pest management content)
+  { keywords: ["spray","fungicide","pesticide","herbicide","weedicide","insecticide","chemical control","ipm","integrated","formulation","toxicity"], subjects: ["da-132"] },
+  // Soil Science → da-121 (actual soil chemistry & fertility content)
+  { keywords: ["soil","texture","structure","clay","sand","loam","horizon","profile","salinity","alkali","laterite","pedology","weathering","ph","cation"], subjects: ["da-121"] },
+  // Manures & Fertilizers → da-122 (actual manures content), da-121 (soil fertility)
+  { keywords: ["fertilizer","npk","nitrogen","phosphorus","potassium","nutrient","deficiency","manure","compost","organic matter","urea","dap","biofertilizer","micronutrient","fym"], subjects: ["da-122","da-121"] },
+  // Plant Breeding → da-111 (actual plant breeding & seed production content)
+  { keywords: ["variety","hybrid","cross","selection","genetics","mendelian","gene","chromosome","mutation","polyploidy","breeding","heterosis","inbreeding","self","outcrossing","pollination","emasculation"], subjects: ["da-111"] },
+  // Seed Technology → also da-111 (has seed production & certification content)
+  { keywords: ["seed","germination","viability","vigour","certification","ista","moisture","seed rate","seed testing","purity","dormancy","priming","seed production"], subjects: ["da-111"] },
+  // Irrigation & Agronomy → da-101
+  { keywords: ["irrigation","drip","sprinkler","water","delta","duty","consumptive","evapotranspiration","canal","furrow","flood"], subjects: ["da-101"] },
+  // Post Harvest / Storage → da-282 (horticultural crops section covers post-harvest too)
+  { keywords: ["harvest","post harvest","storage","ripening","grading","processing","preservation","cold storage","respiration","climacteric","curing"], subjects: ["da-282"] },
+  // Horticulture & Crops → da-282 (actual horticultural crops content)
+  { keywords: ["fruit","vegetable","horticulture","orchard","nursery","grafting","pruning","mango","banana","citrus","papaya","guava","tomato","brinjal","chilli","onion","potato","okra","cucurbit"], subjects: ["da-282"] },
+  // Extension Education → da-291 (correct)
+  { keywords: ["extension","rural","community","transfer of technology","adoption","diffusion","village","farmer","kisan","krishi"], subjects: ["da-291"] },
+  // Agronomy & Crop Production → da-101, da-201 (Crop Production II), da-102
+  { keywords: ["agronomy","kharif","rabi","cropping","tillage","sowing","transplanting","spacing","intercropping","weed","pakka","crop rotation"], subjects: ["da-101","da-201","da-102"] },
+  // Weather & Meteorology → da-102
+  { keywords: ["weather","temperature","rainfall","humidity","wind","climate","meteorology","evaporation","sunshine","solar radiation","monsoon"], subjects: ["da-102"] },
+  // Farm Management & Economics → da-241 (actual farm management content)
+  { keywords: ["economics","cost","profit","market","price","demand","supply","income","expenditure","farm management","break even","benefit cost","bcr","msp"], subjects: ["da-241"] },
+  // Farm Machinery → da-151 (actual farm machinery content)
+  { keywords: ["machinery","tractor","implement","plough","harrow","cultivator","sprayer","harvester","thresher","pump","power tiller","equipment","horsepower","hp"], subjects: ["da-151"] },
 ];
 
 // Keyword-based search with subject-aware boosting
