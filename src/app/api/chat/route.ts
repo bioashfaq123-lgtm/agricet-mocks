@@ -104,10 +104,10 @@ ${context ? `\nReferences:\n${context}\n\nUse above as primary source.` : "Use s
     }
     messages.push({ role: "user", content: question });
 
-    // Groq — llama-3.3-70b: 100 RPM, 12000 TPM free
+    // Groq — llama-3.1-8b-instant: 14,400 requests/day free
     const groq = new Groq({ apiKey });
     const completion = await groq.chat.completions.create({
-      model: "llama-3.3-70b-versatile",
+      model: "llama-3.1-8b-instant",
       messages,
       max_tokens: 400,
       temperature: 0.3,
