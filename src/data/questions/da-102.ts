@@ -810,7 +810,7 @@ export const da102Questions: Question[] = [
     lectureNo: 1,
     question: "The scientific name of Rice (Paddy) is:",
     options: ["Zea mays", "Oryza sativa", "Sorghum bicolor", "Triticum aestivum"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-102 notes: The scientific name of Rice (Paddy) is Oryza sativa, belonging to family Poaceae."
   },
   {
@@ -820,7 +820,7 @@ export const da102Questions: Question[] = [
     lectureNo: 1,
     question: "Rice is the major food crop for more than what percentage of world population?",
     options: ["50%", "60%", "70%", "40%"],
-    correct: 3,
+    correct: 1,
     explanation: "As per DA-102 notes: Rice is an important staple food crop for more than 60 per cent of the world population."
   },
   {
@@ -830,7 +830,7 @@ export const da102Questions: Question[] = [
     lectureNo: 1,
     question: "What percentage of world rice is mainly cultivated in Asian countries?",
     options: ["90%", "95%", "70%", "80%"],
-    correct: 2,
+    correct: 0,
     explanation: "As per DA-102 notes: 90% of rice is mainly cultivated in Asian countries like China, India, Indonesia, Pakistan and Japan."
   },
   {
@@ -840,7 +840,7 @@ export const da102Questions: Question[] = [
     lectureNo: 1,
     question: "Rice is photoperiodically classified as:",
     options: ["Intermediate-day plant", "Long-day plant", "Short-day plant", "Day-neutral plant"],
-    correct: 1,
+    correct: 2,
     explanation: "As per DA-102 notes: Photoperiodically, rice is a short-day plant, though some varieties are non-sensitive to photoperiod."
   },
   {
@@ -850,7 +850,7 @@ export const da102Questions: Question[] = [
     lectureNo: 1,
     question: "The optimum temperature for rice crop growth is:",
     options: ["30-35°C", "15-20°C", "20-25°C", "25-30°C"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-102 notes: The optimum temperature required for rice crop growth is 25-30°C."
   },
   {
@@ -860,7 +860,7 @@ export const da102Questions: Question[] = [
     lectureNo: 2,
     question: "The preferred soil pH range for rice cultivation is:",
     options: ["4.5-5.0", "5.5-6.5", "6.5-7.5", "7.5-8.5"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-102 notes: Rice has preference to pH 5.5 to 6.5 for optimal growth."
   },
   {
@@ -870,7 +870,7 @@ export const da102Questions: Question[] = [
     lectureNo: 2,
     question: "In dry nursery preparation for rice, the nursery is ploughed how many times?",
     options: ["7-8 times", "5-6 times", "3-4 times", "2-3 times"],
-    correct: 3,
+    correct: 1,
     explanation: "As per DA-102 notes: In dry nursery preparation, the field is dry ploughed 5-6 times to acquire fine tilth."
   },
   {
@@ -880,7 +880,7 @@ export const da102Questions: Question[] = [
     lectureNo: 2,
     question: "In wet nursery for rice, beds of what width are prepared?",
     options: ["2.5 m", "3.0 m", "1.5 m", "1.0 m"],
-    correct: 3,
+    correct: 0,
     explanation: "As per DA-102 notes: After puddling, beds of convenient length (8-10 m) with width of 2.5 m are made for wet nursery."
   },
   {
@@ -890,7 +890,7 @@ export const da102Questions: Question[] = [
     lectureNo: 2,
     question: "In SRI (System of Rice Intensification), how much nursery area is prepared to plant 1 hectare?",
     options: ["500 m²", "50 m²", "200 m²", "100 m²"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-102 notes: In SRI method, 100 m² nursery is prepared to plant 1 ha area."
   },
   {
@@ -900,7 +900,7 @@ export const da102Questions: Question[] = [
     lectureNo: 3,
     question: "Shallow planting of rice seedlings at what depth ensures quick establishment and more tillers?",
     options: ["5 cm", "1 cm", "7 cm", "3 cm"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-102 notes: Shallow planting at 3 cm depth ensures quick establishment and more tillers in rice."
   },
   {
@@ -910,7 +910,7 @@ export const da102Questions: Question[] = [
     lectureNo: 3,
     question: "For medium duration rice varieties (125-135 days), the recommended transplanting distance is:",
     options: ["15×10 cm", "15×15 cm", "20×20 cm", "20×15 cm"],
-    correct: 3,
+    correct: 1,
     explanation: "As per DA-102 notes: Medium duration varieties (125-135 days) are transplanted at 15×15 cm spacing giving 44 tillers/m²."
   },
   {
@@ -920,7 +920,7 @@ export const da102Questions: Question[] = [
     lectureNo: 3,
     question: "Puddling for rice transplanting should be done how many days before transplanting?",
     options: ["5 days", "20 days", "10 days", "15 days"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-102 notes: Puddling should be done 15 days prior to transplanting for optimal soil condition."
   },
   {
@@ -930,7 +930,7 @@ export const da102Questions: Question[] = [
     lectureNo: 4,
     question: "Seed treatment for rice nursery uses Carbendazim at the rate of:",
     options: ["5 g/kg seed", "1 g/kg seed", "2 g/kg seed", "3 g/kg seed"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-102 notes: Seeds should be treated with Carbendazim @ 3 g/l water for 1 kg of seeds before sowing in nursery."
   },
   {
@@ -940,7 +940,7 @@ export const da102Questions: Question[] = [
     lectureNo: 4,
     question: "The seed rate for SRI method of rice cultivation per acre is:",
     options: ["10-15 kg", "30-36 kg", "20-25 kg", "2 kg"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-102 notes: SRI method of rice cultivation requires only 2 kg seed per acre, much lower than conventional methods."
   },
   {
@@ -950,7 +950,7 @@ export const da102Questions: Question[] = [
     lectureNo: 4,
     question: "Telangana Sona (R.N.R 15048) rice variety is resistant to:",
     options: ["Gall midge", "Sheath blight", "Rice blast", "Brown plant hopper"],
-    correct: 3,
+    correct: 2,
     explanation: "As per DA-102 notes: Telangana Sona (R.N.R 15048) is resistant to rice blast and has high yield potential of 2.6-2.8 tons/acre."
   },
   {
@@ -960,7 +960,7 @@ export const da102Questions: Question[] = [
     lectureNo: 5,
     question: "FYM or compost application rate for rice is:",
     options: ["5 t/ha", "8 t/ha", "20 t/ha", "12.5 t/ha"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-102 notes: Apply 12.5 t of FYM or compost per hectare in rice nutrient management."
   },
   {
@@ -970,7 +970,7 @@ export const da102Questions: Question[] = [
     lectureNo: 5,
     question: "Blue Green Algae (BGA) for rice is applied at the rate of:",
     options: ["50 kg/ha", "20 kg/ha", "10 kg/ha", "5 kg/ha"],
-    correct: 3,
+    correct: 2,
     explanation: "As per DA-102 notes: Broadcast 10 kg of soil-based powdered Blue Green Algae (BGA) flakes at 10 DAT for dry season rice."
   },
   {
@@ -980,7 +980,7 @@ export const da102Questions: Question[] = [
     lectureNo: 5,
     question: "In rice, nitrogen and potassium are applied in how many equal splits?",
     options: ["Three", "Five", "Two", "Four"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-102 notes: N and K are applied in four equal splits: basal, tillering, panicle initiation and heading stages."
   },
   {
@@ -990,7 +990,7 @@ export const da102Questions: Question[] = [
     lectureNo: 8,
     question: "The scientific name of Maize is:",
     options: ["Sorghum bicolor", "Pennisetum glaucum", "Oryza sativa", "Zea mays"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-102 notes: The scientific name of Maize is Zea mays, belonging to family Poaceae."
   },
   {
@@ -1000,7 +1000,7 @@ export const da102Questions: Question[] = [
     lectureNo: 8,
     question: "Among all grain crops, which crop has the highest productivity?",
     options: ["Rice", "Wheat", "Sorghum", "Maize"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-102 notes: Maize has the highest productivity among all grain crops and is the most important grain crop in the world."
   },
   {
@@ -1010,7 +1010,7 @@ export const da102Questions: Question[] = [
     lectureNo: 8,
     question: "Maize is mainly used as feed for:",
     options: ["Fish and shrimp", "Rabbits only", "Poultry and livestock", "Horses only"],
-    correct: 0,
+    correct: 2,
     explanation: "As per DA-102 notes: Maize is mainly used as feed for poultry and livestock, though also consumed as sweet corn, pop corn and baby corn."
   },
   {
@@ -1020,7 +1020,7 @@ export const da102Questions: Question[] = [
     lectureNo: 12,
     question: "The scientific name of Sorghum is:",
     options: ["Sorghum bicolor", "Pennisetum glaucum", "Oryza sativa", "Zea mays"],
-    correct: 2,
+    correct: 0,
     explanation: "As per DA-102 notes: The scientific name of Sorghum is Sorghum bicolor."
   },
   {
@@ -1030,7 +1030,7 @@ export const da102Questions: Question[] = [
     lectureNo: 12,
     question: "Sorghum is the basic food in:",
     options: ["South America only", "Australia and Japan", "Europe and America", "Asia and Africa"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-102 notes: Sorghum is the basic food in Asia and Africa. Sorghum stalks are mainly used as fodder for livestock."
   },
   {
@@ -1040,7 +1040,7 @@ export const da102Questions: Question[] = [
     lectureNo: 14,
     question: "The scientific name of Bajra (Pearl Millet) is:",
     options: ["Pennisetum glaucum", "Sorghum bicolor", "Eleusine coracana", "Oryza sativa"],
-    correct: 1,
+    correct: 0,
     explanation: "As per DA-102 notes: The scientific name of Bajra (Pearl Millet) is Pennisetum glaucum."
   },
   {
@@ -1050,7 +1050,7 @@ export const da102Questions: Question[] = [
     lectureNo: 17,
     question: "The scientific name of Ragi (Finger Millet) is:",
     options: ["Pennisetum glaucum", "Panicum miliaceum", "Eleusine coracana", "Sorghum bicolor"],
-    correct: 0,
+    correct: 2,
     explanation: "As per DA-102 notes: The scientific name of Ragi (Finger Millet) is Eleusine coracana."
   },
   {
@@ -1060,7 +1060,7 @@ export const da102Questions: Question[] = [
     lectureNo: 17,
     question: "Ragi is considered beneficial for which type of patients:",
     options: ["Diabetic patients", "Heart patients", "Liver patients", "Kidney patients"],
-    correct: 1,
+    correct: 0,
     explanation: "As per DA-102 notes: Ragi is considered one of the important foods for diabetic patients to control diabetes. It is a healthy and affordable food."
   },
   {
@@ -1070,7 +1070,7 @@ export const da102Questions: Question[] = [
     lectureNo: 18,
     question: "The scientific name of Redgram (Pigeon pea) is:",
     options: ["Cicer arietinum", "Vigna radiata", "Cajanus cajan", "Vigna mungo"],
-    correct: 0,
+    correct: 2,
     explanation: "As per DA-102 notes: The scientific name of Redgram (Pigeon pea) is Cajanus cajan."
   },
   {
@@ -1080,7 +1080,7 @@ export const da102Questions: Question[] = [
     lectureNo: 20,
     question: "The scientific name of Bengal gram (Chickpea) is:",
     options: ["Glycine max", "Cajanus cajan", "Cicer arietinum", "Vigna mungo"],
-    correct: 1,
+    correct: 2,
     explanation: "As per DA-102 notes: The scientific name of Bengal gram (Chickpea) is Cicer arietinum."
   },
   {
@@ -1090,7 +1090,7 @@ export const da102Questions: Question[] = [
     lectureNo: 20,
     question: "Kabuli chickpea differs from Desi chickpea in that it has:",
     options: ["Larger, cream-coloured seeds with smooth seed coat", "Higher protein content", "Smaller, dark-coloured seeds with rough coat", "Better drought tolerance"],
-    correct: 2,
+    correct: 0,
     explanation: "As per DA-102 notes: Kabuli variety has larger, cream-coloured seeds with smooth seed coat, while Desi variety has smaller, dark-coloured seeds with rough coat."
   },
   {
@@ -1100,7 +1100,7 @@ export const da102Questions: Question[] = [
     lectureNo: 22,
     question: "The scientific name of Soybean is:",
     options: ["Vigna radiata", "Cajanus cajan", "Glycine max", "Cicer arietinum"],
-    correct: 0,
+    correct: 2,
     explanation: "As per DA-102 notes: The scientific name of Soybean is Glycine max."
   },
   {
@@ -1110,7 +1110,7 @@ export const da102Questions: Question[] = [
     lectureNo: 23,
     question: "The scientific name of Black gram (Urad) is:",
     options: ["Vigna radiata", "Cajanus cajan", "Cicer arietinum", "Vigna mungo"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-102 notes: The scientific name of Black gram (Urad) is Vigna mungo."
   },
   {
@@ -1120,7 +1120,7 @@ export const da102Questions: Question[] = [
     lectureNo: 24,
     question: "The scientific name of Green gram (Moong) is:",
     options: ["Vigna radiata", "Vigna mungo", "Glycine max", "Cicer arietinum"],
-    correct: 1,
+    correct: 0,
     explanation: "As per DA-102 notes: The scientific name of Green gram (Moong) is Vigna radiata."
   },
   {
@@ -1130,7 +1130,7 @@ export const da102Questions: Question[] = [
     lectureNo: 25,
     question: "The scientific name of Horsegram is:",
     options: ["Macrotyloma uniflorum", "Cajanus cajan", "Vigna radiata", "Cicer arietinum"],
-    correct: 2,
+    correct: 0,
     explanation: "As per DA-102 notes: The scientific name of Horsegram is Macrotyloma uniflorum (Dolichos biflorus)."
   },
   {
@@ -1140,7 +1140,7 @@ export const da102Questions: Question[] = [
     lectureNo: 26,
     question: "The scientific name of Cowpea is:",
     options: ["Glycine max", "Cajanus cajan", "Vigna radiata", "Vigna unguiculata"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-102 notes: The scientific name of Cowpea is Vigna unguiculata."
   },
   {
@@ -1150,7 +1150,7 @@ export const da102Questions: Question[] = [
     lectureNo: 27,
     question: "Napier grass is also known as:",
     options: ["Guinea grass", "Rhodes grass", "Elephant grass", "Sudan grass"],
-    correct: 3,
+    correct: 2,
     explanation: "As per DA-102 notes: Napier grass (Pennisetum purpureum) is also known as Elephant grass due to its large size."
   },
   {
@@ -1160,7 +1160,7 @@ export const da102Questions: Question[] = [
     lectureNo: 1,
     question: "In storage, minor millets can be safely stored for how long without pest and disease infestation?",
     options: ["1-2 years", "2-3 years", "6 months to 1 year", "3-5 years"],
-    correct: 2,
+    correct: 1,
     explanation: "As per DA-102 notes: In storage, minor millets are safely stored for 2-3 years without any pest and disease infestation."
   },
   {
@@ -1170,7 +1170,7 @@ export const da102Questions: Question[] = [
     lectureNo: 2,
     question: "For rice nursery raising for machine transplanting, seed rate per 100 m² is:",
     options: ["18-25 kg", "30-35 kg", "10-12 kg", "5-8 kg"],
-    correct: 3,
+    correct: 0,
     explanation: "As per DA-102 notes: For machine transplanting, use 18-25 kg of good seed per 100 m² of nursery for each ha."
   },
   {
@@ -1180,7 +1180,7 @@ export const da102Questions: Question[] = [
     lectureNo: 3,
     question: "After transplanting, alley ways of 20 cm should be maintained at every:",
     options: ["2 metres", "1 metre", "5 metres", "3 metres"],
-    correct: 1,
+    correct: 0,
     explanation: "As per DA-102 notes: Paths/alleyways of 20 cm at every 2 metres after transplanting help aeration, ventilation and reduce pests."
   },
   {
@@ -1190,7 +1190,7 @@ export const da102Questions: Question[] = [
     lectureNo: 4,
     question: "The seed dormancy period of Telangana Sona rice variety is:",
     options: ["10 days", "7 days", "21 days", "15 days"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-102 notes: Telangana Sona (R.N.R 15048) has a seed dormancy period of 15 days."
   },
   {
@@ -1200,7 +1200,7 @@ export const da102Questions: Question[] = [
     lectureNo: 4,
     question: "Kunaramsannalu (KNM 118) rice variety has a crop duration of:",
     options: ["125 days", "90-100 days", "150 days", "110-115 days"],
-    correct: 1,
+    correct: 0,
     explanation: "As per DA-102 notes: Kunaramsannalu (KNM 118) is suitable for both kharif and rabi with 125 days crop duration."
   },
   {
@@ -1210,7 +1210,7 @@ export const da102Questions: Question[] = [
     lectureNo: 4,
     question: "Siddi (WGL-44) rice variety is suitable for:",
     options: ["Both kharif and rabi", "Perennial cultivation", "Rabi season only", "Kharif season only"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-102 notes: Siddi (WGL-44) is suitable for kharif only, with a crop duration of 150 days."
   },
   {
@@ -1220,7 +1220,7 @@ export const da102Questions: Question[] = [
     lectureNo: 4,
     question: "To break seed dormancy in rice, concentrated nitric acid is used at the rate of:",
     options: ["10 ml/litre", "2 ml/litre", "4 ml/litre", "6.3 ml/litre"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-102 notes: To break seed dormancy, 6.3 ml of concentrated nitric acid per litre water is used for less dormant seeds."
   },
   {
@@ -1230,7 +1230,7 @@ export const da102Questions: Question[] = [
     lectureNo: 5,
     question: "Azolla is inoculated in rice at what rate?",
     options: ["100 kg/ha", "500 kg/ha", "150 kg/ha", "250 kg/ha"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-102 notes: Raise Azolla as a dual crop by inoculating 250 kg/ha 3 to 5 DAT in rice for the wet season crop."
   },
   {
@@ -1240,7 +1240,7 @@ export const da102Questions: Question[] = [
     lectureNo: 1,
     question: "Rice bran oil is used in which industry?",
     options: ["Paint industry", "Soap industry", "Fertiliser industry", "Textile industry"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-102 notes: Rice bran oil is used in the soap industry. Refined oil can also be used for cooking."
   },
   {
@@ -1250,7 +1250,7 @@ export const da102Questions: Question[] = [
     lectureNo: 1,
     question: "Paddy straw is used in which industry as insulating and cementing agent?",
     options: ["Cardboard making industry", "Textile industry", "Chemical industry", "Steel industry"],
-    correct: 1,
+    correct: 0,
     explanation: "As per DA-102 notes: Paddy straw is used in cardboard making industry as insulating and cementing agent."
   },
   {
@@ -1260,7 +1260,7 @@ export const da102Questions: Question[] = [
     lectureNo: 8,
     question: "Barley malt is the basic raw material for:",
     options: ["Beer making", "Bread making", "Wine making", "Vinegar making"],
-    correct: 1,
+    correct: 0,
     explanation: "As per DA-102 notes: Barley malt is the basic raw material for beer making."
   },
   {
@@ -1270,7 +1270,7 @@ export const da102Questions: Question[] = [
     lectureNo: 30,
     question: "Lucerne (Alfalfa) is botanically known as:",
     options: ["Pennisetum purpureum", "Stylosanthes hamata", "Trifolium alexandrinum", "Medicago sativa"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-102 notes: Lucerne (Alfalfa) is botanically known as Medicago sativa and is an important perennial fodder crop."
   },
   {
@@ -1280,7 +1280,7 @@ export const da102Questions: Question[] = [
     lectureNo: 31,
     question: "Berseem (Egyptian clover) is botanically known as:",
     options: ["Stylosanthes hamata", "Pennisetum purpureum", "Medicago sativa", "Trifolium alexandrinum"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-102 notes: Berseem is botanically known as Trifolium alexandrinum (Egyptian clover), an important winter fodder crop."
   },
   {
@@ -1300,7 +1300,7 @@ export const da102Questions: Question[] = [
     lectureNo: 2,
     question: "SRI nursery soil mix contains 70% soil + 20% organic matter + 10%:",
     options: ["Rice hull", "Cocopeat", "Sand", "Vermiculite"],
-    correct: 2,
+    correct: 0,
     explanation: "As per DA-102 notes: SRI nursery soil mix is 70% soil + 20% well-decomposed pressmud/FYM + 10% rice hull."
   },
   {
@@ -1310,7 +1310,7 @@ export const da102Questions: Question[] = [
     lectureNo: 3,
     question: "For long duration rice varieties (more than 150 days), the transplanting distance is:",
     options: ["25×20 cm", "20×15 cm", "15×10 cm", "15×15 cm"],
-    correct: 2,
+    correct: 1,
     explanation: "As per DA-102 notes: Long duration varieties (>150 days) are transplanted at 20×15 cm spacing giving 33 tillers/m²."
   },
   {
@@ -1320,7 +1320,7 @@ export const da102Questions: Question[] = [
     lectureNo: 5,
     question: "Somnath (WGL 347) rice variety has a crop duration of:",
     options: ["150 days", "100-110 days", "120-125 days", "130-135 days"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-102 notes: Somnath (WGL.347) has medium duration of 130-135 days and can tolerate rice gall midge."
   },
   {
@@ -1330,7 +1330,7 @@ export const da102Questions: Question[] = [
     lectureNo: 4,
     question: "The average yield of Kunaramsannalu rice variety is:",
     options: ["1.5-2.0 tons/acre", "3.5-4.0 tons/acre", "2.8-3.2 tons/acre", "2.0-2.5 tons/acre"],
-    correct: 0,
+    correct: 2,
     explanation: "As per DA-102 notes: Kunaramsannalu (KNM 118) has an average yield of 2.8-3.2 tons per acre."
   },
   {
@@ -1340,7 +1340,7 @@ export const da102Questions: Question[] = [
     lectureNo: 2,
     question: "Rice seedlings in SRI nursery are ready for transplanting in how many days?",
     options: ["10-12 days", "15 days", "7-10 days", "25-30 days"],
-    correct: 2,
+    correct: 1,
     explanation: "As per DA-102 notes: In SRI nursery, seedlings reach sufficient height for planting at 15 days."
   },
   {
@@ -1350,7 +1350,7 @@ export const da102Questions: Question[] = [
     lectureNo: 5,
     question: "Green manure if raised in-situ is incorporated at what depth?",
     options: ["10 cm", "5 cm", "15 cm", "20 cm"],
-    correct: 1,
+    correct: 2,
     explanation: "As per DA-102 notes: Green manure raised at 20 kg/ha should be incorporated to a depth of 15 cm using a green manure trampler or tractor."
   },
   {
@@ -1360,7 +1360,7 @@ export const da102Questions: Question[] = [
     lectureNo: 1,
     question: "Rice bran is rich in protein and can be used in the preparation of:",
     options: ["Bread and pasta", "Biscuits and cattle feed", "Beer and wine", "Cooking oil only"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-102 notes: Defatted rice bran, rich in protein, can be used in the preparation of biscuits and as cattle feed."
   },
   {
@@ -1370,7 +1370,7 @@ export const da102Questions: Question[] = [
     lectureNo: 2,
     question: "Single Super Phosphate (SSP) is applied during puddling to facilitate:",
     options: ["Good decomposition of green manure", "Nitrogen fixation", "Weed control", "Reducing salinity"],
-    correct: 1,
+    correct: 0,
     explanation: "As per DA-102 notes: SSP should be applied during puddling to facilitate good decomposition of green manures incorporated."
   },
   {
@@ -1380,7 +1380,7 @@ export const da102Questions: Question[] = [
     lectureNo: 5,
     question: "Pseudomonas fluorescens (Pf1) is applied in rice at the rate of:",
     options: ["2.5 kg/ha", "5 kg/ha", "10 kg/ha", "1 kg/ha"],
-    correct: 3,
+    correct: 0,
     explanation: "As per DA-102 notes: Pseudomonas fluorescens (Pf1) is applied at 2.5 kg/ha mixed with 50 kg FYM and 25 kg soil and broadcast before transplanting."
   },
   {
@@ -1390,7 +1390,7 @@ export const da102Questions: Question[] = [
     lectureNo: 4,
     question: "Bathukamma (JGL 18047) rice variety was developed as an alternative for which popular variety?",
     options: ["MTU-1010", "Sambamashuri", "Siddi", "Somnath"],
-    correct: 1,
+    correct: 0,
     explanation: "As per DA-102 notes: Bathukamma (JGL 18047) is an alternative variety for MTU-1010, especially in Rabi as MTU-1010 has grain shedding character."
   },
   {
@@ -1400,7 +1400,7 @@ export const da102Questions: Question[] = [
     lectureNo: 3,
     question: "For aged seedlings in rice, the top leaf sheath that should be removed is:",
     options: ["7-8 inches", "3-4 inches", "5-6 inches", "1-2 inches"],
-    correct: 3,
+    correct: 1,
     explanation: "As per DA-102 notes: For aged seedlings, the top 3-4 inches leaf sheath should be removed before transplanting."
   },
   {
@@ -1410,7 +1410,7 @@ export const da102Questions: Question[] = [
     lectureNo: 4,
     question: "The seed rate for broadcasting rice is:",
     options: ["20-25 kg/acre", "35-40 kg/acre", "24-30 kg/acre", "10-15 kg/acre"],
-    correct: 3,
+    correct: 2,
     explanation: "As per DA-102 notes: Seed rate for broadcasting rice is 24-30 kg per acre."
   },
   {
@@ -1420,7 +1420,7 @@ export const da102Questions: Question[] = [
     lectureNo: 4,
     question: "Seed rate for dry paddy (direct seeded) is:",
     options: ["10-15 kg/acre", "40-50 kg/acre", "20-25 kg/acre", "30-36 kg/acre"],
-    correct: 0,
+    correct: 2,
     explanation: "As per DA-102 notes: Seed rate for dry paddy is 20-25 kg per acre, while seed drill (rainfed) requires 30-36 kg/acre."
   },
   {
@@ -1450,7 +1450,7 @@ export const da102Questions: Question[] = [
     lectureNo: 3,
     question: "The temperature requirement for rice blooming (flowering) is:",
     options: ["30-35°C", "24-26°C", "20-23°C", "26.5-29.5°C"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-102 notes: The temperature requirement for rice blooming is in the range of 26.5 to 29.5°C."
   },
   {
@@ -1460,7 +1460,7 @@ export const da102Questions: Question[] = [
     lectureNo: 1,
     question: "Rice husk is used in poultry industry as:",
     options: ["Litter", "Disease treatment", "Water filtration", "Feed"],
-    correct: 3,
+    correct: 0,
     explanation: "As per DA-102 notes: Rice husk is used in poultry industry as 'litter'; after decomposition this litter can be used as bulky organic manure."
   },
   {
@@ -1470,7 +1470,7 @@ export const da102Questions: Question[] = [
     lectureNo: 2,
     question: "Green manures should be puddled how many days prior to transplanting for good decomposition?",
     options: ["5-10 days", "15 days", "30-35 days", "20-25 days"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-102 notes: Green manures should be puddled 20-25 days prior to transplanting to facilitate good decomposition."
   },
   {
@@ -1480,7 +1480,7 @@ export const da102Questions: Question[] = [
     lectureNo: 4,
     question: "Siddi (WGL-44) rice variety has an average yield of:",
     options: ["1.5-2.0 tons/acre", "2.0-2.3 tons/acre", "3.2-3.8 tons/acre", "2.4-3.0 tons/acre"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-102 notes: Siddi (WGL-44) has a yield of 2.4-3.0 tons per acre with 150 days crop duration."
   },
   {
@@ -1490,7 +1490,7 @@ export const da102Questions: Question[] = [
     lectureNo: 5,
     question: "Azospirillum and Phosphobacteria are applied in rice at the rate of:",
     options: ["15 packets/ha each", "5 packets (1000 g)/ha each", "10 packets (2000 g)/ha each", "20 packets (4000 g)/ha each"],
-    correct: 1,
+    correct: 2,
     explanation: "As per DA-102 notes: Mix 10 packets (2000 g)/ha of Azospirillum and 10 packets (2000 g)/ha of Phosphobacteria with 25 kg FYM for broadcast in rice."
   },
   {
@@ -1500,7 +1500,7 @@ export const da102Questions: Question[] = [
     lectureNo: 3,
     question: "Temperature for rice grain ripening should be between:",
     options: ["25-30°C", "20-25°C", "18-20°C", "15-18°C"],
-    correct: 3,
+    correct: 1,
     explanation: "As per DA-102 notes: At the time of ripening, the temperature should be between 20-25°C for proper grain filling."
   },
   {

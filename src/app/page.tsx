@@ -160,6 +160,62 @@ export default function LandingPage() {
           <p className="mt-5 text-sm text-gray-400">
             Like the video? 👍 Share it with your classmates and help them prepare for AGRICET 2026!
           </p>
+
+          {/* ── Grand Mock Test Promotional Slide ── */}
+          <div className="mt-10 rounded-2xl overflow-hidden bg-gradient-to-br from-primary-700 via-primary-800 to-indigo-900 text-white shadow-2xl border border-primary-500/30">
+            {/* Top badge */}
+            <div className="bg-amber-400 text-gray-900 text-center text-xs font-black py-2 tracking-widest uppercase">
+              🆕 New Feature — Now Available for All Subscribers
+            </div>
+            <div className="p-6 md:p-8 flex flex-col md:flex-row items-center gap-6">
+              {/* Left info */}
+              <div className="flex-1 text-center md:text-left">
+                <div className="inline-flex items-center gap-2 bg-amber-400/20 text-amber-300 text-xs font-bold px-3 py-1 rounded-full mb-3">
+                  <Trophy className="w-3.5 h-3.5" /> Grand Mock Tests — AGRICET Standard
+                </div>
+                <h3 className="text-2xl md:text-3xl font-black mb-2 leading-tight">
+                  10 Full-Length Grand Tests<br />
+                  <span className="text-amber-400">1,000 Questions · All 17 Subjects</span>
+                </h3>
+                <p className="text-primary-200 text-sm mb-4 leading-relaxed">
+                  Each test: 100 Qs · 100 min · PJTSAU standard · Detailed explanations · Score analysis
+                </p>
+                {/* Feature pills */}
+                <div className="flex flex-wrap gap-2 justify-center md:justify-start mb-5">
+                  {["Question Navigator","Auto Timer","Grade Analysis","Score Analysis"].map((pill) => (
+                    <span key={pill} className="bg-white/15 text-white text-xs font-semibold px-3 py-1.5 rounded-full">
+                      {pill}
+                    </span>
+                  ))}
+                </div>
+                <div className="flex flex-col sm:flex-row gap-3 justify-center md:justify-start">
+                  <Link href="/signup"
+                    className="inline-flex items-center gap-2 bg-amber-400 hover:bg-amber-300 text-gray-900 font-black px-6 py-3 rounded-xl text-sm transition-all hover:scale-105 shadow-lg">
+                    <Play className="w-4 h-4 fill-gray-900" /> Get Access — ₹199
+                  </Link>
+                  <Link href="/grand-tests"
+                    className="inline-flex items-center gap-2 bg-white/15 hover:bg-white/25 text-white font-bold px-6 py-3 rounded-xl text-sm transition-all">
+                    View All 10 Tests <ArrowRight className="w-4 h-4" />
+                  </Link>
+                </div>
+              </div>
+              {/* Right — test cards visual */}
+              <div className="flex-shrink-0 grid grid-cols-2 gap-3 w-full md:w-56">
+                {[
+                  { n: "GT 1", tag: "Pro",    color: "from-green-500 to-emerald-600" },
+                  { n: "GT 2", tag: "Pro",    color: "from-teal-500 to-teal-600" },
+                  { n: "GT 3", tag: "Pro",    color: "from-blue-600 to-indigo-700" },
+                  { n: "GT 4", tag: "Pro",    color: "from-purple-600 to-violet-700" },
+                ].map((t) => (
+                  <div key={t.n} className={`bg-gradient-to-br ${t.color} rounded-xl p-4 text-center shadow-md`}>
+                    <div className="text-lg font-black">{t.n}</div>
+                    <div className="text-xs font-bold bg-white/20 px-2 py-0.5 rounded-full mt-1">{t.tag}</div>
+                    <div className="text-xs text-white/70 mt-1.5">100 Qs</div>
+                  </div>
+                ))}
+              </div>
+            </div>
+          </div>
         </div>
       </section>
 

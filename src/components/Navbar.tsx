@@ -1,7 +1,7 @@
 "use client";
 import Link from "next/link";
 import { useState } from "react";
-import { Menu, X, Leaf, LogOut, BarChart2, ShieldCheck } from "lucide-react";
+import { Menu, X, Leaf, LogOut, BarChart2, ShieldCheck, Trophy } from "lucide-react";
 import { useAuth } from "@/contexts/AuthContext";
 
 const ADMIN_EMAIL = process.env.NEXT_PUBLIC_ADMIN_EMAIL || "bioashfaq123@gmail.com";
@@ -28,6 +28,9 @@ export default function Navbar() {
         {/* Desktop Nav */}
         <div className="hidden md:flex items-center gap-6">
           <Link href="/#subjects"      className="text-gray-600 hover:text-primary-600 font-medium text-sm transition-colors">Subjects</Link>
+          <Link href="/grand-tests"    className="flex items-center gap-1 text-amber-600 hover:text-amber-700 font-bold text-sm transition-colors">
+            <Trophy className="w-3.5 h-3.5" /> Grand Tests
+          </Link>
           <Link href="/previous-years" className="text-gray-600 hover:text-primary-600 font-medium text-sm transition-colors">Previous Papers</Link>
           <Link href="/analysis"       className="text-gray-600 hover:text-primary-600 font-medium text-sm transition-colors">Weightage Analysis</Link>
           <Link href="/#pricing"       className="text-gray-600 hover:text-primary-600 font-medium text-sm transition-colors">Pricing</Link>
@@ -71,6 +74,9 @@ export default function Navbar() {
       {open && (
         <div className="md:hidden border-t border-gray-100 bg-white px-4 py-4 space-y-3">
           <Link href="/#subjects"      className="block text-gray-700 font-medium py-2" onClick={() => setOpen(false)}>Subjects</Link>
+          <Link href="/grand-tests"    className="flex items-center gap-2 text-amber-600 font-bold py-2" onClick={() => setOpen(false)}>
+            <Trophy className="w-4 h-4" /> Grand Tests
+          </Link>
           <Link href="/previous-years" className="block text-gray-700 font-medium py-2" onClick={() => setOpen(false)}>Previous Papers</Link>
           <Link href="/analysis"       className="block text-gray-700 font-medium py-2" onClick={() => setOpen(false)}>Weightage Analysis</Link>
           <Link href="/demo"           className="block text-gray-700 font-medium py-2" onClick={() => setOpen(false)}>Free Demo</Link>

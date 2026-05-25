@@ -142,7 +142,7 @@ export const da151Questions: Question[] = [
     subject: "da-151",
     question: "What is the working pressure range for hand operated sprayers?",
     options: ["Pressure ranges from 30 to 60 kg per cm squared", "Pressure ranges from 20 to 55 kg per cm squared", "Pressure ranges from 10 to 20 kg per cm squared", "Pressure ranges from 1 to 7 kg per cm squared"],
-    correct: 0,
+    correct: 3,
     explanation: "Hand operated sprayers are suitable for small holdings and are operated at pressure ranging from 1 to 7 kg/cm². Power operated machines are operated at much higher pressure of 20 to 55 kg/cm²."
   },
   {
@@ -150,7 +150,7 @@ export const da151Questions: Question[] = [
     subject: "da-151",
     question: "What are the three methods by which threshing can be achieved?",
     options: ["Cutting, shaking and sieving are the three methods", "Beating, trampling and rolling are three methods", "Rubbing, impact and stripping are the three methods", "Hammering, rotating and blowing are three methods"],
-    correct: 1,
+    correct: 2,
     explanation: "Threshing can be achieved by three methods: rubbing, impact and stripping. These methods loosen the grains and separate them from the stalk. Different threshers use different combinations of these principles."
   },
   {

@@ -824,7 +824,7 @@ export const da111Questions: Question[] = [
     lectureNo: 1,
     question: "The process of bringing a wild species under human management is called:",
     options: ["Domestication", "Mutation", "Selection", "Hybridization"],
-    correct: 3,
+    correct: 0,
     explanation: "As per DA-111 notes: The process of bringing a wild species under human management is referred to as domestication. Domestication may be the most basic method of plant breeding."
   },
   {
@@ -834,7 +834,7 @@ export const da111Questions: Question[] = [
     lectureNo: 1,
     question: "Mendel's laws of inheritance were rediscovered in which year?",
     options: ["1914", "1900", "1927", "1865"],
-    correct: 3,
+    correct: 1,
     explanation: "As per DA-111 notes: In 1900, Mendel's laws of inheritance were rediscovered and laid the foundation for the development of plant breeding."
   },
   {
@@ -844,7 +844,7 @@ export const da111Questions: Question[] = [
     lectureNo: 1,
     question: "Who is known as the 'Father of Botany'?",
     options: ["Hugo de Vries", "Charles Darwin", "Theophrastus", "Gregor John Mendel"],
-    correct: 3,
+    correct: 2,
     explanation: "As per DA-111 notes: Theophrastus (300 BC) is known as the Father of Botany."
   },
   {
@@ -854,7 +854,7 @@ export const da111Questions: Question[] = [
     lectureNo: 1,
     question: "Who coined the term 'heterosis'?",
     options: ["G.H. Shull (1914)", "H.J. Muller", "Hugo de Vries", "W.L. Johannsen"],
-    correct: 1,
+    correct: 0,
     explanation: "As per DA-111 notes: G.H. Shull (1914) coined the term heterosis. In maize, loss of vigor occurs due to self-pollination and hybrid vigor is more due to cross-pollination."
   },
   {
@@ -864,7 +864,7 @@ export const da111Questions: Question[] = [
     lectureNo: 1,
     question: "Who invented mutations in plants?",
     options: ["Charles Darwin", "G.H. Shull", "Watson and Crick", "Hugo de Vries (1900)"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-111 notes: Hugo de Vries (1900) used the term mutation first time and invented/discovered mutations in plants."
   },
   {
@@ -874,7 +874,7 @@ export const da111Questions: Question[] = [
     lectureNo: 1,
     question: "Watson and Crick proposed which structure in 1953?",
     options: ["Chromosome theory", "Double helix structure of DNA", "Genetic code", "Pureline theory"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-111 notes: Watson and Crick (1953) proposed the double helix structure of the DNA molecule."
   },
   {
@@ -884,7 +884,7 @@ export const da111Questions: Question[] = [
     lectureNo: 1,
     question: "Who proposed the pureline theory in 1903?",
     options: ["H.J. Muller", "W.L. Johannsen", "Hugo de Vries", "G.H. Shull"],
-    correct: 2,
+    correct: 1,
     explanation: "As per DA-111 notes: W.L. Johannsen (1903) proposed the pureline theory that provided the genetic basis for individual plant selection."
   },
   {
@@ -894,7 +894,7 @@ export const da111Questions: Question[] = [
     lectureNo: 1,
     question: "Sir T.S. Venkatraman transferred thick stem and high sugar content from tropical noble cane to North Indian canes. This process is called:",
     options: ["Backcross breeding", "Noblization of sugarcane", "Hybridization", "Mutation breeding"],
-    correct: 2,
+    correct: 1,
     explanation: "As per DA-111 notes: Sir T.S. Venkatraman transferred thick stem and high sugar contents from tropical noble cane to North Indian canes. This process is known as noblization of sugarcane."
   },
   {
@@ -904,7 +904,7 @@ export const da111Questions: Question[] = [
     lectureNo: 1,
     question: "Who coined the term 'Biotechnology'?",
     options: ["Har Gobind Khorana", "Karl Ereky", "Watson and Crick", "Hugo de Vries"],
-    correct: 2,
+    correct: 1,
     explanation: "As per DA-111 notes: Karl Ereky coined the term Biotechnology."
   },
   {
@@ -914,7 +914,7 @@ export const da111Questions: Question[] = [
     lectureNo: 1,
     question: "The first hybrid maize in India (Ganga-1) was released in:",
     options: ["1952", "1957", "1961", "1965"],
-    correct: 0,
+    correct: 2,
     explanation: "As per DA-111 notes: In collaboration with Rockefeller foundation, the first maize hybrid Ganga-1 was released in 1961 in India."
   },
   {
@@ -924,7 +924,7 @@ export const da111Questions: Question[] = [
     lectureNo: 1,
     question: "Sugarcane Breeding Institute was established at Coimbatore in:",
     options: ["1912", "1906", "1900", "1920"],
-    correct: 2,
+    correct: 0,
     explanation: "As per DA-111 notes: Sugarcane Breeding Institute was established in 1912 at Coimbatore. The CO prefix is used before sugarcane varieties released from there."
   },
   {
@@ -934,7 +934,7 @@ export const da111Questions: Question[] = [
     lectureNo: 1,
     question: "Central Potato Research Institute was originally established at Simla in:",
     options: ["1928", "1922", "1935", "1946"],
-    correct: 1,
+    correct: 2,
     explanation: "As per DA-111 notes: Central Breeding Station was established in 1935 at Simla, later changed to Central Potato Research Institute. Kufri name is used before varieties from this centre."
   },
   {
@@ -944,7 +944,7 @@ export const da111Questions: Question[] = [
     lectureNo: 1,
     question: "The first hybrid cotton (H4) for commercial cultivation was released from:",
     options: ["Hyderabad", "Dharwar", "Nagpur", "Surat"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-111 notes: Hybrid Cotton H4 from Surat was the world's first hybrid released for commercial cultivation. Later, Varalaxmi hybrid was released from Dharwar."
   },
   {
@@ -954,7 +954,7 @@ export const da111Questions: Question[] = [
     lectureNo: 2,
     question: "Which objective of plant breeding involves developing varieties tolerant to drought and salinity?",
     options: ["Determinate growth", "Biotic resistance", "Quality improvement", "Abiotic resistance"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-111 notes: Abiotic resistance breeding aims to develop resistant varieties for drought, soil salinity, extreme temperatures, heat, wind, cold and frost."
   },
   {
@@ -964,7 +964,7 @@ export const da111Questions: Question[] = [
     lectureNo: 2,
     question: "In cotton, crop maturity has been reduced from 270 days to approximately:",
     options: ["200 days", "170 days", "120 days", "180 days"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-111 notes: Through plant breeding, maturity has been reduced from 270 days to 170 days in cotton."
   },
   {
@@ -974,7 +974,7 @@ export const da111Questions: Question[] = [
     lectureNo: 2,
     question: "In pigeonpea (redgram), crop maturity has been reduced from 270 days to:",
     options: ["150 days", "90 days", "120 days", "180 days"],
-    correct: 3,
+    correct: 2,
     explanation: "As per DA-111 notes: Through plant breeding, maturity in pigeonpea has been reduced from 270 days to 120 days."
   },
   {
@@ -984,7 +984,7 @@ export const da111Questions: Question[] = [
     lectureNo: 2,
     question: "The toxic substance in Khesari (Lathyrus sativus) that causes paralysis of lower limbs is:",
     options: ["Gossypol", "Aflatoxin", "Erucic acid", "Neurotoxin (ODAP)"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-111 notes: Neurotoxin (ODAP - Oxalyl Diaminopropionic Acid) in Khesari (Lathyrus sativus) leads to paralysis of lower limbs. Its elimination is an objective of plant breeding."
   },
   {
@@ -994,7 +994,7 @@ export const da111Questions: Question[] = [
     lectureNo: 2,
     question: "Gossypol, a toxic substance found in cotton seeds, is harmful for:",
     options: ["Root fungi", "Soil bacteria", "Human consumption", "Bees"],
-    correct: 3,
+    correct: 2,
     explanation: "As per DA-111 notes: Gossypol from cotton seed is harmful for human consumption. Removal of gossypol from cotton seed would increase its nutritional value."
   },
   {
@@ -1014,7 +1014,7 @@ export const da111Questions: Question[] = [
     lectureNo: 3,
     question: "The collective term for sepals is called:",
     options: ["Androecium", "Calyx", "Corolla", "Perianth"],
-    correct: 2,
+    correct: 1,
     explanation: "As per DA-111 notes: The sepals, collectively called the calyx, help to protect the unopened bud."
   },
   {
@@ -1024,7 +1024,7 @@ export const da111Questions: Question[] = [
     lectureNo: 3,
     question: "Plants having male and female flowers borne on separate plants are called:",
     options: ["Bisexual", "Hermaphrodite", "Monoecious", "Dioecious"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-111 notes: Species with male and female flowers borne on separate plants are termed dioecious (two homes). Examples: Papaya, Cannabis, date palm."
   },
   {
@@ -1034,7 +1034,7 @@ export const da111Questions: Question[] = [
     lectureNo: 3,
     question: "Corn (maize) is an example of which type of plant?",
     options: ["Dioecious", "Hermaphrodite", "Monoecious", "Bisexual"],
-    correct: 0,
+    correct: 2,
     explanation: "As per DA-111 notes: If both male and female flowers are borne on the same plant, the species is called monoecious. Examples include corn, pea, colocasia, castor, coconut."
   },
   {
@@ -1044,7 +1044,7 @@ export const da111Questions: Question[] = [
     lectureNo: 3,
     question: "The female reproductive organ of a flower is called:",
     options: ["Androecium", "Corolla", "Perianth", "Gynoecium"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-111 notes: The innermost group of structures in the flower is the gynoecium, or the female reproductive component(s)."
   },
   {
@@ -1064,7 +1064,7 @@ export const da111Questions: Question[] = [
     lectureNo: 3,
     question: "Each Pollen Mother Cell (PMC) produces how many microspores?",
     options: ["Two", "Three", "Eight", "Four"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-111 notes: Pollen Mother Cells are in diploid (2n) condition and each PMC produces four microspores through meiosis."
   },
   {
@@ -1074,7 +1074,7 @@ export const da111Questions: Question[] = [
     lectureNo: 3,
     question: "Each Megaspore Mother Cell (MMC) produces four megaspores, of which how many survive?",
     options: ["Three", "One", "Two", "Four"],
-    correct: 3,
+    correct: 1,
     explanation: "As per DA-111 notes: Each MMC produces four megaspores, out of which three degenerate, resulting in a single functional megaspore."
   },
   {
@@ -1084,7 +1084,7 @@ export const da111Questions: Question[] = [
     lectureNo: 3,
     question: "The female gametophyte (embryo sac) is an eight-nucleate, how many-celled structure?",
     options: ["Seven cells", "Five cells", "Eight cells", "Six cells"],
-    correct: 1,
+    correct: 0,
     explanation: "As per DA-111 notes: The haploid megaspore undergoes mitosis to produce an eight-nucleate, seven-cell female gametophyte (embryo sac)."
   },
   {
@@ -1094,7 +1094,7 @@ export const da111Questions: Question[] = [
     lectureNo: 3,
     question: "The finger-like protruded structures present on synergids are called:",
     options: ["Raphe", "Funicle", "Micropyle", "Filiform apparatus"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-111 notes: Finger-like protruded structures present on synergids are called filiform apparatus. Synergids help guide the pollen tube for successful fertilization."
   },
   {
@@ -1104,7 +1104,7 @@ export const da111Questions: Question[] = [
     lectureNo: 3,
     question: "The attachment of funicle with the body of the ovule is called:",
     options: ["Chalaza", "Micropyle", "Raphe", "Hilum"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-111 notes: The point of attachment of funicle with the body of the ovule is called hilum."
   },
   {
@@ -1114,7 +1114,7 @@ export const da111Questions: Question[] = [
     lectureNo: 4,
     question: "The fusion of one sperm with the egg cell to produce a diploid zygote is called:",
     options: ["Syngamy (Generative fertilization)", "Triple fusion", "Parthenogenesis", "Double fertilization"],
-    correct: 1,
+    correct: 0,
     explanation: "As per DA-111 notes: The fusion of one of the two sperms with the egg cell producing a diploid zygote is known as fertilization (syngamy or generative fertilization)."
   },
   {
@@ -1124,7 +1124,7 @@ export const da111Questions: Question[] = [
     lectureNo: 4,
     question: "In double fertilization in angiosperms, the endosperm is formed by the fusion of:",
     options: ["Egg + one sperm nucleus", "Two sperm nuclei together", "Egg + polar nuclei", "Second sperm + diploid polar nuclei (central cell)"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-111 notes: In double fertilization, the second sperm fuses with the diploid central cell (two polar nuclei fused) to form the triploid endosperm."
   },
   {
@@ -1134,7 +1134,7 @@ export const da111Questions: Question[] = [
     lectureNo: 5,
     question: "Self-pollination (autogamy) is most common in which type of crops?",
     options: ["Rice, wheat, and peas", "Papaya and date palm", "Maize and sorghum", "Castor and coconut"],
-    correct: 2,
+    correct: 0,
     explanation: "As per DA-111 notes: Self-pollination (autogamy) is most common in rice, wheat, peas and other cereal and pulse crops."
   },
   {
@@ -1144,7 +1144,7 @@ export const da111Questions: Question[] = [
     lectureNo: 6,
     question: "Pure Line Selection is effective in which type of crop?",
     options: ["Vegetatively propagated crops", "Dioecious crops", "Cross-pollinated crops", "Self-pollinated crops"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-111 notes: Pure Line Selection is most effective in self-pollinated crops where a pure line represents a genetically uniform population."
   },
   {
@@ -1154,7 +1154,7 @@ export const da111Questions: Question[] = [
     lectureNo: 7,
     question: "Mass selection involves selection of plants based on:",
     options: ["Only phenotype", "DNA markers only", "Only genotype", "Both genotype and genotype"],
-    correct: 2,
+    correct: 0,
     explanation: "As per DA-111 notes: Mass selection involves selecting plants based on phenotype (observable characteristics) and is the simplest and oldest method of plant improvement."
   },
   {
@@ -1164,7 +1164,7 @@ export const da111Questions: Question[] = [
     lectureNo: 8,
     question: "The variety that results from crossing two genetically different parents and their F1 hybrid is used directly is called:",
     options: ["Composite variety", "Pure line variety", "Multiline variety", "Single cross hybrid"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-111 notes: A single cross hybrid is obtained by crossing two inbred lines (parents); the resulting F1 generation is used directly as the commercial hybrid variety."
   },
   {
@@ -1184,7 +1184,7 @@ export const da111Questions: Question[] = [
     lectureNo: 10,
     question: "Backcross breeding is used mainly for:",
     options: ["Inducing mutations", "Creating all new genetic combinations", "Transferring one or few genes into an adapted variety", "Developing new crop species"],
-    correct: 3,
+    correct: 2,
     explanation: "As per DA-111 notes: Backcross breeding is used for transferring one or a few genes (like disease resistance) into an already adapted variety without changing other characteristics."
   },
   {
@@ -1194,7 +1194,7 @@ export const da111Questions: Question[] = [
     lectureNo: 11,
     question: "Mutation breeding uses which type of agents to induce mutations?",
     options: ["Temperature extremes only", "Hormones only", "Natural selection only", "Physical (X-rays, gamma rays) and chemical (EMS, colchicine) mutagens"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-111 notes: Mutation breeding uses physical mutagens (X-rays, gamma rays) and chemical mutagens (EMS, colchicine) to induce mutations and create genetic variability."
   },
   {
@@ -1204,7 +1204,7 @@ export const da111Questions: Question[] = [
     lectureNo: 12,
     question: "Polyploidy involves:",
     options: ["Reduction in chromosome number", "Point mutation in single gene", "Multiplication of entire chromosome sets", "Transfer of gene between species"],
-    correct: 0,
+    correct: 2,
     explanation: "As per DA-111 notes: Polyploidy refers to the condition of having more than two complete sets of chromosomes in the nucleus. Colchicine is used to induce polyploidy."
   },
   {
@@ -1214,7 +1214,7 @@ export const da111Questions: Question[] = [
     lectureNo: 13,
     question: "Tissue culture in plant breeding is used for:",
     options: ["Rapid multiplication, production of disease-free plants, and haploid production", "Chemical analysis of plants", "Only disease diagnosis", "Weather forecasting"],
-    correct: 2,
+    correct: 0,
     explanation: "As per DA-111 notes: Tissue culture is used for rapid multiplication, production of disease-free plants, haploid production via anther culture, and somatic hybridization."
   },
   {
@@ -1224,7 +1224,7 @@ export const da111Questions: Question[] = [
     lectureNo: 14,
     question: "Male sterility in plants refers to:",
     options: ["Plants unable to produce female gametes", "Plants with no flowers", "Plants unable to produce viable pollen", "Plants with sterile seeds"],
-    correct: 0,
+    correct: 2,
     explanation: "As per DA-111 notes: Male sterility refers to plants that cannot produce functional/viable pollen. It is used in hybrid seed production to prevent self-pollination of the seed parent."
   },
   {
@@ -1234,7 +1234,7 @@ export const da111Questions: Question[] = [
     lectureNo: 15,
     question: "Cytoplasmic Male Sterility (CMS) is inherited through:",
     options: ["Nuclear chromosomes only", "Both nuclear and cytoplasmic factors equally", "Paternal inheritance only", "Cytoplasm (maternal inheritance)"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-111 notes: Cytoplasmic Male Sterility (CMS) is determined by cytoplasmic (mitochondrial) genes and follows maternal (cytoplasmic) inheritance pattern."
   },
   {
@@ -1254,7 +1254,7 @@ export const da111Questions: Question[] = [
     lectureNo: 17,
     question: "A germplasm collection is maintained to:",
     options: ["Test herbicides on different varieties", "Measure productivity of different varieties", "Produce commercial seeds only", "Preserve genetic diversity and provide material for breeding programs"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-111 notes: Germplasm collections (gene banks) are maintained to preserve genetic diversity and provide breeding material for crop improvement programs."
   },
   {
@@ -1274,7 +1274,7 @@ export const da111Questions: Question[] = [
     lectureNo: 36,
     question: "The seed chain follows the sequence:",
     options: ["Breeder → Nucleus → Foundation → Certified", "Foundation → Breeder → Certified → Nucleus", "Certified → Foundation → Breeder → Nucleus", "Nucleus → Breeder → Foundation → Certified"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-111 notes: The seed production chain follows: Nucleus seed → Breeder seed → Foundation seed → Certified seed."
   },
   {
@@ -1284,7 +1284,7 @@ export const da111Questions: Question[] = [
     lectureNo: 36,
     question: "Nucleus seed is maintained by:",
     options: ["Original breeder/plant breeder who developed the variety", "National Seeds Corporation", "State Seed Corporation", "Farmers themselves"],
-    correct: 2,
+    correct: 0,
     explanation: "As per DA-111 notes: Nucleus seed is maintained by the original plant breeder who developed the variety. It is the source of all other seed classes."
   },
   {
@@ -1294,7 +1294,7 @@ export const da111Questions: Question[] = [
     lectureNo: 37,
     question: "The tag colour for Foundation seed (class I) is:",
     options: ["Red", "Blue", "White", "Golden yellow"],
-    correct: 3,
+    correct: 2,
     explanation: "As per DA-111 notes: Foundation seed (Class I) has a White tag, while Certified seed has Blue tag."
   },
   {
@@ -1304,7 +1304,7 @@ export const da111Questions: Question[] = [
     lectureNo: 37,
     question: "The tag colour for Certified seed is:",
     options: ["Red", "Blue", "White", "Golden yellow"],
-    correct: 2,
+    correct: 1,
     explanation: "As per DA-111 notes: Certified seed has a Blue tag. Foundation seed has White tag and Breeder seed has Golden yellow tag."
   },
   {
@@ -1334,7 +1334,7 @@ export const da111Questions: Question[] = [
     lectureNo: 39,
     question: "The minimum germination percentage required for certified seed of rice is:",
     options: ["75%", "70%", "85%", "80%"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-111 notes: The minimum germination percentage required for certified seed of rice is 80%."
   },
   {
@@ -1344,7 +1344,7 @@ export const da111Questions: Question[] = [
     lectureNo: 40,
     question: "Seed certification is done by:",
     options: ["State Seed Certification Agency", "Private companies only", "ICAR directly", "Farmers themselves"],
-    correct: 3,
+    correct: 0,
     explanation: "As per DA-111 notes: Seed certification is done by State Seed Certification Agencies (SSCAs) established in each state."
   },
   {
@@ -1354,7 +1354,7 @@ export const da111Questions: Question[] = [
     lectureNo: 41,
     question: "Which method is used to test seed moisture content?",
     options: ["Hot air oven method", "Cut test", "Sand germination test", "Tetrazolium test"],
-    correct: 3,
+    correct: 0,
     explanation: "As per DA-111 notes: Seed moisture content is measured using the hot air oven method (standard method) or electric moisture meters."
   },
   {
@@ -1364,7 +1364,7 @@ export const da111Questions: Question[] = [
     lectureNo: 42,
     question: "The tetrazolium test (TZ test) is used to determine:",
     options: ["Seed germination percentage", "Seed viability and vigour (quick test)", "Seed moisture content", "Seed purity"],
-    correct: 2,
+    correct: 1,
     explanation: "As per DA-111 notes: The tetrazolium test (TZ test) is used to quickly determine seed viability and vigor. Living cells reduce TZ solution to red-colored formazan."
   },
   {
@@ -1374,7 +1374,7 @@ export const da111Questions: Question[] = [
     lectureNo: 43,
     question: "Seed dormancy is defined as:",
     options: ["The ability of a seed to germinate immediately after harvest", "Physical hardness of seed coat", "Loss of seed viability", "A state in which seeds fail to germinate even under favorable conditions"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-111 notes: Seed dormancy is a state in which seeds fail to germinate even under apparently favorable environmental conditions."
   },
   {
@@ -1384,7 +1384,7 @@ export const da111Questions: Question[] = [
     lectureNo: 44,
     question: "Hard seed coat is a type of seed dormancy in which seeds fail to germinate because:",
     options: ["Seeds have inhibitory chemicals", "Seed coat is impermeable to water and gases", "Embryo is immature", "Seeds lack nutrition"],
-    correct: 3,
+    correct: 1,
     explanation: "As per DA-111 notes: Hard seed dormancy (physical dormancy) occurs because the seed coat is impermeable to water and gases, preventing germination. Scarification helps break it."
   },
   {
@@ -1394,7 +1394,7 @@ export const da111Questions: Question[] = [
     lectureNo: 45,
     question: "Stratification is a method to break dormancy in which seeds are treated with:",
     options: ["Mechanical scarification", "Hot water for 30 minutes", "Cold and moist conditions for a period", "Strong acids"],
-    correct: 1,
+    correct: 2,
     explanation: "As per DA-111 notes: Stratification involves exposing seeds to cold moist conditions (0-10°C) for a period to break dormancy in many tree species."
   },
   {
@@ -1404,7 +1404,7 @@ export const da111Questions: Question[] = [
     lectureNo: 46,
     question: "Seed vigour refers to:",
     options: ["Only germination percentage", "Potential of seeds for rapid, uniform germination and seedling emergence", "Weight of seeds per unit volume", "The overall physical condition of seed"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-111 notes: Seed vigour refers to the sum total of properties that determine the potential for rapid, uniform germination and seedling development under a wide range of field conditions."
   },
   {
@@ -1414,7 +1414,7 @@ export const da111Questions: Question[] = [
     lectureNo: 47,
     question: "Seed priming involves:",
     options: ["Coating seeds with fungicides", "Controlled hydration of seeds to pre-germination stage without radicle emergence", "Storing seeds at high temperature", "Mechanical scarification of seeds"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-111 notes: Seed priming involves controlled hydration of seeds to allow pre-germinative metabolic processes to occur without radicle protrusion, improving germination speed and uniformity."
   },
   {
@@ -1424,7 +1424,7 @@ export const da111Questions: Question[] = [
     lectureNo: 48,
     question: "Safe storage moisture content for cereals (wheat, rice) is:",
     options: ["15-18%", "12% or below", "Above 20%", "Below 9%"],
-    correct: 3,
+    correct: 1,
     explanation: "As per DA-111 notes: For safe storage of cereal seeds, moisture content should be maintained at 12% or below to prevent deterioration and fungal growth."
   },
   {
@@ -1434,7 +1434,7 @@ export const da111Questions: Question[] = [
     lectureNo: 48,
     question: "Which chemical is commonly used as seed treatment fungicide?",
     options: ["DDT", "Thiram (TMTD)", "Paraquat", "2,4-D"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-111 notes: Thiram (TMTD - Tetramethyl thiuram disulfide) is a commonly used seed treatment fungicide to protect seeds from soil-borne and seed-borne pathogens."
   },
   {
@@ -1443,8 +1443,8 @@ export const da111Questions: Question[] = [
     lecture: "lecture-36",
     lectureNo: 36,
     question: "Which act governs seed quality and regulation in India?",
-    options: ["Insecticides Act, 1968", "Seeds Act, 1966", "Plant Quarantine Act", "Prevention of Food Adulteration Act"],
-    correct: 2,
+    options: ["Insecticides Act, 1966", "Seeds Act, 1966", "Plant Quarantine Act", "Prevention of Food Adulteration Act"],
+    correct: 1,
     explanation: "As per DA-111 notes: The Seeds Act, 1966 is the main legislation that governs seed quality, certification, and regulation in India."
   },
   {
@@ -1454,7 +1454,7 @@ export const da111Questions: Question[] = [
     lectureNo: 3,
     question: "The opening in the integuments of an ovule through which the pollen tube enters is called:",
     options: ["Hilum", "Micropyle", "Raphe", "Funicle"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-111 notes: The integuments enclose the nucellus and leave an opening at the top of the ovule called micropyle. The pollen tube enters the embryo sac through the micropyle."
   },
   {
@@ -1464,7 +1464,7 @@ export const da111Questions: Question[] = [
     lectureNo: 19,
     question: "Suvin cotton variety with 120 counts is equivalent to which country's cotton?",
     options: ["Chinese cotton", "Egyptian cotton", "Brazilian cotton", "American cotton"],
-    correct: 3,
+    correct: 1,
     explanation: "As per DA-111 notes: Suvin cotton with 120 counts is as equivalent to Egyptian cotton in quality. It was one of the greatest achievements in Cotton Research in India."
   },
   {
@@ -1474,7 +1474,7 @@ export const da111Questions: Question[] = [
     lectureNo: 1,
     question: "Har Gobind Khorana is known for:",
     options: ["Inventing electron microscope", "Proposing chromosome theory", "Proposing double helix DNA structure", "Artificial synthesis of gene"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-111 notes: Har Gobind Khorana is known for the artificial synthesis of gene, one of the landmark achievements in molecular biology."
   },
   {
@@ -1484,7 +1484,7 @@ export const da111Questions: Question[] = [
     lectureNo: 1,
     question: "Knoll and Ruska (1932) built the first:",
     options: ["Phase contrast microscope", "Scanning electron microscope", "Light microscope", "Transmission electron microscope"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-111 notes: Knoll and Ruska (1932) built the first transmission electron microscope, making study of cells and cell organelles easier."
   },
   {
@@ -1494,7 +1494,7 @@ export const da111Questions: Question[] = [
     lectureNo: 1,
     question: "Norin 10 dwarfing gene in wheat was used to develop which types of varieties?",
     options: ["Semi-dwarf high-yielding varieties", "Long-duration varieties", "Early maturing varieties", "Disease-resistant varieties"],
-    correct: 1,
+    correct: 0,
     explanation: "As per DA-111 notes: After the invention of Norin 10-dwarfing gene, development of semi-dwarf varieties of wheat was started, which became the basis of the Green Revolution."
   },
   {
@@ -1504,7 +1504,7 @@ export const da111Questions: Question[] = [
     lectureNo: 2,
     question: "Phytoremediation is the use of plants to:",
     options: ["Produce medicinal compounds", "Remove toxic substances from soil and water", "Improve soil organic matter", "Control weeds naturally"],
-    correct: 3,
+    correct: 1,
     explanation: "As per DA-111 notes: Phytoremediation involves using plants to remove, degrade, or contain toxic substances (heavy metals, pollutants) from contaminated soil and water."
   },
   {

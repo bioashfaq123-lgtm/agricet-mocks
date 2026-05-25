@@ -131,6 +131,36 @@ export default function DashboardPage() {
           </div>
         </div>
 
+        {/* Grand Tests */}
+        <section className="mb-8">
+          <div className="flex items-center justify-between mb-4">
+            <h2 className="text-xl font-bold text-gray-900">🏆 Grand Mock Tests</h2>
+            <Link href="/grand-tests" className="text-primary-600 text-sm font-medium hover:underline flex items-center gap-1">
+              View All <ChevronRight className="w-4 h-4" />
+            </Link>
+          </div>
+          <div className="rounded-2xl bg-gradient-to-br from-primary-600 via-primary-700 to-indigo-800 p-5 text-white shadow-lg flex flex-col sm:flex-row items-center gap-4">
+            <div className="flex-1">
+              <div className="flex items-center gap-2 mb-1">
+                <Trophy className="w-5 h-5 text-amber-300" />
+                <h3 className="font-black text-base">10 Full-Length AGRICET Grand Tests</h3>
+              </div>
+              <p className="text-primary-100 text-sm mb-3">
+                100 questions · 100 minutes · All 17 subjects · PJTSAU standard · With explanations
+              </p>
+              <div className="flex flex-wrap gap-2 text-xs">
+                <span className="bg-white/20 px-2 py-1 rounded-lg font-semibold">1,000 Questions</span>
+                <span className="bg-white/20 px-2 py-1 rounded-lg font-semibold">Question Navigator</span>
+                <span className="bg-white/20 px-2 py-1 rounded-lg font-semibold">Score Analysis</span>
+              </div>
+            </div>
+            <Link href="/grand-tests"
+              className="shrink-0 bg-amber-400 hover:bg-amber-300 text-gray-900 font-black px-5 py-2.5 rounded-xl text-sm flex items-center gap-2 transition-all hover:scale-105 shadow">
+              Start Now <ChevronRight className="w-4 h-4" />
+            </Link>
+          </div>
+        </section>
+
         {/* Previous Year Papers */}
         <section className="mb-8">
           <div className="flex items-center justify-between mb-4">
@@ -251,13 +281,16 @@ export default function DashboardPage() {
       </div>
 
       {/* Footer credit */}
-      <div className="border-t border-gray-100 bg-white mt-8 py-4 text-center">
+      <div className="border-t border-gray-100 bg-white mt-8 py-4 text-center space-y-2">
         <p className="text-sm text-gray-500 font-medium">
           Prepared by{" "}
           <span className="text-primary-700 font-bold">NALANDA STUDY CIRCLE</span>
           ,{" "}
           <span className="text-gray-700 font-semibold">JAGTIAL</span>
         </p>
+        <Link href="/promo" className="inline-flex items-center gap-1.5 text-xs text-primary-600 hover:underline font-medium">
+          📸 View &amp; Download Promotional Slides
+        </Link>
       </div>
     </div>
   );

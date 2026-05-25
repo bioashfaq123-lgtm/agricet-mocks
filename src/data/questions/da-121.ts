@@ -810,7 +810,7 @@ export const da121Questions: Question[] = [
     lectureNo: 1,
     question: "The word 'soil' is derived from the Latin word 'solum' which means:",
     options: ["Floor or ground", "Nutrients", "Cultivation", "Rock"],
-    correct: 2,
+    correct: 0,
     explanation: "As per DA-121 notes: The noun soil is derived through old French from the Latin word solum, which means floor or ground."
   },
   {

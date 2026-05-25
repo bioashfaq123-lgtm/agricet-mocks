@@ -404,7 +404,7 @@ export const da122Questions: Question[] = [
     subject: "da-122",
     question: "What nitrogen percentage does Calcium Cyanamide contain?",
     options: ["Calcium cyanamide contains 16% nitrogen", "Calcium cyanamide contains 21% nitrogen", "Calcium cyanamide contains 46% nitrogen", "Calcium cyanamide contains 35% nitrogen"],
-    correct: 3,
+    correct: 1,
     explanation:
       "Calcium cyanamide contains 21% N (amide form). Urea contains 46% N and is the most popular amide form fertilizer.",
   },
@@ -494,7 +494,7 @@ export const da122Questions: Question[] = [
     subject: "da-122",
     question: "Sulphur coated urea (SCU) releases nitrogen slowly because:",
     options: ["SCU dissolves urea at a uniform controlled rate", "SCU requires high temperature before dissolving", "Sulphur coating ruptures by microbial soil action", "Sulphur blocks water entry into urea granule"],
-    correct: 0,
+    correct: 2,
     explanation:
       "In SCU, as long as urea remains coated with sulphur without rupture, it does not dissolve. When added to soil, the sulphur coating ruptures by microbial action and soil water slowly penetrates and dissolves the urea.",
   },
@@ -755,7 +755,7 @@ export const da122Questions: Question[] = [
     subject: "da-122",
     question: "In covered pit method of FYM preparation, application of which fertilizer improves quality?",
     options: ["Ammonium sulphate to enrich nitrogen content", "Muriate of potash to improve potassium content", "Urea applied at the rate of 1% by weight", "Single super phosphate applied to the pit"],
-    correct: 0,
+    correct: 3,
     explanation:
       "Application of single super phosphate (SSP) to the covered pit will improve the quality of FYM manure by providing additional phosphorus to the composting material.",
   },
@@ -922,7 +922,7 @@ export const da122Questions: Question[] = [
     lectureNo: 1,
     question: "A fertile soil in an arid region without water is an example showing that fertile soil is not necessarily:",
     options: ["Rich in micronutrients", "A productive soil", "High in pH", "Poor in texture"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-122 notes: Soils in arid regions may be fertile but not productive. Fertility is one factor; water, temperature, pH etc. also affect productivity."
   },
   {
@@ -932,7 +932,7 @@ export const da122Questions: Question[] = [
     lectureNo: 1,
     question: "Rice crop removes approximately how much N, P, K (kg) to produce 3 tonnes of yield?",
     options: ["85-15-90", "175-35-175", "60-10-60", "120-20-120"],
-    correct: 2,
+    correct: 0,
     explanation: "As per DA-122 notes: Rice crop removes 85-15-90 kg of N, P, and K respectively to produce 3 tonnes of yield."
   },
   {
@@ -942,7 +942,7 @@ export const da122Questions: Question[] = [
     lectureNo: 2,
     question: "The word 'Manure' is derived from the French word 'MANOEUVRER' which means:",
     options: ["To dig", "Animal excreta", "To fertilise crops", "Work with soil"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-122 notes: The word Manure is originated from the French word 'MANOEUVRER' which refers to 'work with soil'."
   },
   {
@@ -952,7 +952,7 @@ export const da122Questions: Question[] = [
     lectureNo: 2,
     question: "Which of the following is NOT a characteristic difference between manures and fertilizers?",
     options: ["Manures improve physical properties, fertilizers generally do not", "Manures are bulky, fertilizers are non-bulky", "Both manures and fertilizers are quick acting", "Manures are organic, fertilizers are inorganic"],
-    correct: 3,
+    correct: 2,
     explanation: "As per DA-122 notes: Fertilizers are quick acting while manures are slow acting. This is a key difference, not a similarity."
   },
   {
@@ -962,7 +962,7 @@ export const da122Questions: Question[] = [
     lectureNo: 3,
     question: "The best method for FYM preparation among heap, pit and covered pit methods is:",
     options: ["Heap method", "All are equally good", "Covered pit method", "Pit method"],
-    correct: 0,
+    correct: 2,
     explanation: "As per DA-122 notes: Of all the methods, the covered pit method is the best method for FYM preparation as it minimises nutrient losses."
   },
   {
@@ -972,7 +972,7 @@ export const da122Questions: Question[] = [
     lectureNo: 3,
     question: "Good quality manure can be obtained from each pair of cattle per annum (pit method) as approximately:",
     options: ["8-10 tonnes", "12-15 tonnes", "5-6 tonnes", "2-3 tonnes"],
-    correct: 3,
+    correct: 2,
     explanation: "As per DA-122 notes: About 5-6 tonnes of good quality manure can be obtained from each animal per annum using the pit method."
   },
   {
@@ -982,7 +982,7 @@ export const da122Questions: Question[] = [
     lectureNo: 3,
     question: "In the heap method of FYM preparation, maximum losses of nutrients occur because:",
     options: ["Too many microorganisms attack the manure", "Direct exposure to sunshine and rainfall causes dryness and rapid oxidation", "Animals eat the manure", "Too much water is added"],
-    correct: 3,
+    correct: 1,
     explanation: "As per DA-122 notes: In heap method, maximum nutrient losses occur due to direct exposure to sunshine and rainfall causing dryness and rapid oxidation."
   },
   {
@@ -992,7 +992,7 @@ export const da122Questions: Question[] = [
     lectureNo: 4,
     question: "Composting is the process of:",
     options: ["Chemical treatment of organic waste", "Biological decomposition of organic materials under controlled conditions", "Storing organic waste without decomposition", "Burning organic waste"],
-    correct: 3,
+    correct: 1,
     explanation: "As per DA-122 notes: Composting is the biological decomposition of organic materials under controlled conditions to produce stable, humus-rich material."
   },
   {
@@ -1002,7 +1002,7 @@ export const da122Questions: Question[] = [
     lectureNo: 5,
     question: "Rural compost is prepared from:",
     options: ["Municipal garbage only", "Agricultural waste, crop residues, weeds, and farmyard waste", "Only animal excreta", "Industrial waste"],
-    correct: 2,
+    correct: 1,
     explanation: "As per DA-122 notes: Rural compost is prepared from agricultural waste like crop residues, weeds, farmyard waste, and other organic materials available in villages."
   },
   {
@@ -1012,7 +1012,7 @@ export const da122Questions: Question[] = [
     lectureNo: 6,
     question: "Biogas is mainly composed of:",
     options: ["Nitrogen", "Carbon dioxide", "Hydrogen", "Methane (CH4)"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-122 notes: Biogas is mainly composed of Methane (CH4, approximately 55-65%) and Carbon dioxide (35-45%), produced by anaerobic digestion of organic matter."
   },
   {
@@ -1022,7 +1022,7 @@ export const da122Questions: Question[] = [
     lectureNo: 6,
     question: "The slurry remaining after biogas production is used as:",
     options: ["Fuel", "Animal feed", "Pesticide", "Organic manure rich in nutrients"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-122 notes: Biogas slurry is the remaining material after biogas production and is a valuable organic manure rich in plant nutrients."
   },
   {
@@ -1032,7 +1032,7 @@ export const da122Questions: Question[] = [
     lectureNo: 7,
     question: "The most suitable earthworm species for vermicomposting is:",
     options: ["Lumbricus terrestris", "Eisenia fetida (Red wriggler)", "Aporrectodea caliginosa", "Pheretima posthuma"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-122 notes: Eisenia fetida (Red wriggler or Red earthworm) is the most widely used species for vermicomposting due to its high decomposition rate."
   },
   {
@@ -1042,7 +1042,7 @@ export const da122Questions: Question[] = [
     lectureNo: 8,
     question: "Vermicompost has which advantage over regular compost?",
     options: ["Faster nutrient release, better plant growth hormones, and more beneficial microorganisms", "Available in large quantities", "Cheaper to produce", "Lower nutrient content"],
-    correct: 3,
+    correct: 0,
     explanation: "As per DA-122 notes: Vermicompost has faster nutrient release, contains plant growth hormones (auxins, cytokinins), and has more beneficial microorganisms compared to regular compost."
   },
   {
@@ -1052,7 +1052,7 @@ export const da122Questions: Question[] = [
     lectureNo: 9,
     question: "Which of the following is used as a green manure crop in situ?",
     options: ["Gliricidia", "Sesbania (Dhaincha)", "Pongamia", "Neem"],
-    correct: 3,
+    correct: 1,
     explanation: "As per DA-122 notes: Sesbania (Dhaincha), Pillipesara, Crotalaria, Horsegram are used as green manure crops in situ. Neem and Pongamia are green leaf manure crops."
   },
   {
@@ -1062,7 +1062,7 @@ export const da122Questions: Question[] = [
     lectureNo: 9,
     question: "The nitrogen content in green manure crops (leguminous) is approximately:",
     options: ["8-10%", "5-7%", "1.5-3.5%", "0.5-0.8%"],
-    correct: 3,
+    correct: 2,
     explanation: "As per DA-122 notes: Green manure crops (leguminous) typically contain 1.5-3.5% nitrogen, which is released on decomposition after incorporation."
   },
   {
@@ -1072,7 +1072,7 @@ export const da122Questions: Question[] = [
     lectureNo: 11,
     question: "Which of the following is a green leaf manure crop?",
     options: ["Pillipesara", "Dhaincha (Sesbania)", "Crotalaria", "Gliricidia"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-122 notes: Gliricidia, Neem, Pongamia, and Ipomea are green leaf manure crops (branches and leaves brought from outside). Dhaincha and Pillipesara are in situ green manure crops."
   },
   {
@@ -1082,7 +1082,7 @@ export const da122Questions: Question[] = [
     lectureNo: 12,
     question: "Non-edible oil cakes suitable for crop fertilization include:",
     options: ["Mustard cake, coconut cake", "Sesame cake, sunflower cake (edible)", "Neem cake, castor cake, cotton cake", "Groundnut cake, linseed cake"],
-    correct: 3,
+    correct: 2,
     explanation: "As per DA-122 notes: Non-edible oil cakes suitable for crop fertilization include Neem cake, Castor cake, Sunflower cake, Safflower cake, Cotton cake, and Mahua cake."
   },
   {
@@ -1092,7 +1092,7 @@ export const da122Questions: Question[] = [
     lectureNo: 12,
     question: "Edible oil cakes (suitable for cattle feed) include:",
     options: ["Mustard cake, linseed cake, groundnut cake, coconut cake", "Cotton cake, sunflower cake", "Mahua cake", "Neem cake, castor cake"],
-    correct: 3,
+    correct: 0,
     explanation: "As per DA-122 notes: Edible oil cakes include Mustard cake, Linseed cake, Sesame cake, Coconut cake, and Groundnut cake - suitable for cattle and poultry feeding."
   },
   {
@@ -1102,7 +1102,7 @@ export const da122Questions: Question[] = [
     lectureNo: 13,
     question: "Blood meal is a concentrated organic manure that contains approximately what percentage of nitrogen?",
     options: ["12-14%", "16-18%", "5-7%", "10-12%"],
-    correct: 2,
+    correct: 0,
     explanation: "As per DA-122 notes: Blood meal is a concentrated organic manure containing approximately 12-14% nitrogen, making it one of the richest organic nitrogen sources."
   },
   {
@@ -1112,7 +1112,7 @@ export const da122Questions: Question[] = [
     lectureNo: 13,
     question: "Bone meal is a concentrated organic manure rich in which nutrients?",
     options: ["N and K", "P and Ca", "N and P", "K and Ca"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-122 notes: Bone meal is rich in Phosphorus (P) and Calcium (Ca). It contains approximately 20-25% P2O5 and 20-30% CaO."
   },
   {
@@ -1132,7 +1132,7 @@ export const da122Questions: Question[] = [
     lectureNo: 15,
     question: "Azospirillum is an example of which type of nitrogen-fixing biofertilizer?",
     options: ["Symbiotic fixer", "Free-living fixer", "Associative fixer", "Phosphorus mobilizer"],
-    correct: 0,
+    correct: 2,
     explanation: "As per DA-122 notes: Azospirillum is an associative nitrogen fixer that lives in close association with plant roots (but not forming true symbiosis like Rhizobium)."
   },
   {
@@ -1142,7 +1142,7 @@ export const da122Questions: Question[] = [
     lectureNo: 15,
     question: "Azotobacter is classified as which type of nitrogen fixer?",
     options: ["Associative", "Free-living", "Obligate", "Symbiotic"],
-    correct: 3,
+    correct: 1,
     explanation: "As per DA-122 notes: Azotobacter is a free-living (non-symbiotic) nitrogen-fixing bacterium that fixes atmospheric nitrogen independently in soil."
   },
   {
@@ -1152,7 +1152,7 @@ export const da122Questions: Question[] = [
     lectureNo: 16,
     question: "VAM (Vesicular Arbuscular Mycorrhizae) fungi are classified as phosphorus:",
     options: ["Leachers", "Absorbers", "Solubilizers", "Fixers"],
-    correct: 3,
+    correct: 1,
     explanation: "As per DA-122 notes: VAM fungi are phosphate absorbers - they extend the root surface area by forming a network of hyphae that absorb phosphorus from a larger soil volume."
   },
   {
@@ -1162,7 +1162,7 @@ export const da122Questions: Question[] = [
     lectureNo: 17,
     question: "Urea is classified as which type of nitrogenous fertilizer?",
     options: ["Amide fertilizer", "Ammonical fertilizer", "Slow release fertilizer", "Nitrate fertilizer"],
-    correct: 1,
+    correct: 0,
     explanation: "As per DA-122 notes: Urea [CO(NH2)2] is classified as an Amide fertilizer. It contains 46% N and is the most commonly used nitrogenous fertilizer."
   },
   {
@@ -1172,7 +1172,7 @@ export const da122Questions: Question[] = [
     lectureNo: 18,
     question: "Ammonium sulphate contains what percentage of nitrogen?",
     options: ["20%", "16%", "46%", "21%"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-122 notes: Ammonium sulphate [(NH4)2SO4] contains approximately 20.6% (21%) nitrogen and also supplies 24% sulphur."
   },
   {
@@ -1182,7 +1182,7 @@ export const da122Questions: Question[] = [
     lectureNo: 18,
     question: "Single Super Phosphate (SSP) contains approximately what percentage of P2O5?",
     options: ["16-18%", "46-48%", "28-30%", "10-12%"],
-    correct: 3,
+    correct: 0,
     explanation: "As per DA-122 notes: Single Super Phosphate (SSP) contains approximately 16-18% P2O5 (water-soluble) and also supplies about 12% Sulphur."
   },
   {
@@ -1192,7 +1192,7 @@ export const da122Questions: Question[] = [
     lectureNo: 19,
     question: "Triple Super Phosphate (TSP) contains approximately what percentage of P2O5?",
     options: ["16-18%", "46-48%", "28-32%", "38-44%"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-122 notes: Triple Super Phosphate (TSP) contains approximately 46% P2O5, which is the highest among phosphatic fertilizers."
   },
   {
@@ -1202,7 +1202,7 @@ export const da122Questions: Question[] = [
     lectureNo: 19,
     question: "Muriate of Potash (MOP) contains approximately what percentage of K2O?",
     options: ["50%", "20%", "30%", "60%"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-122 notes: Muriate of Potash (Potassium Chloride, KCl) contains approximately 60% K2O, making it the most concentrated potassic fertilizer."
   },
   {
@@ -1212,7 +1212,7 @@ export const da122Questions: Question[] = [
     lectureNo: 20,
     question: "Which fertilizer is the best source of both calcium and sulphur?",
     options: ["Ammonium nitrate", "Urea", "Muriate of potash", "Gypsum (CaSO4)"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-122 notes: Gypsum (CaSO4·2H2O) is a secondary nutrient fertilizer that supplies both Calcium (23%) and Sulphur (18%)."
   },
   {
@@ -1222,7 +1222,7 @@ export const da122Questions: Question[] = [
     lectureNo: 20,
     question: "Zinc sulphate (ZnSO4) is the most commonly used fertilizer to correct:",
     options: ["Manganese deficiency", "Iron deficiency", "Boron deficiency", "Zinc deficiency"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-122 notes: Zinc sulphate (ZnSO4) is the most commonly used fertilizer to correct zinc deficiency, especially in rice (Khaira disease)."
   },
   {
@@ -1262,7 +1262,7 @@ export const da122Questions: Question[] = [
     lectureNo: 26,
     question: "Volatilization loss of nitrogen occurs when urea is applied to:",
     options: ["Aerobic sandy soils", "Flooded paddy fields with low temperature", "Acidic soils with rain", "Alkaline soils (high pH) with high temperature"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-122 notes: Volatilization of nitrogen (as NH3 gas) from urea is high in alkaline soils, at high temperatures, especially in flooded paddy conditions."
   },
   {
@@ -1272,7 +1272,7 @@ export const da122Questions: Question[] = [
     lectureNo: 27,
     question: "Broadcasting of fertilizer refers to:",
     options: ["Placing fertilizer in holes near plant base", "Spraying liquid fertilizer on leaves", "Applying fertilizer in bands near seeds", "Spreading fertilizer uniformly over the soil surface"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-122 notes: Broadcasting is a method of fertilizer application where fertilizer is spread uniformly over the soil surface before or after planting."
   },
   {
@@ -1282,7 +1282,7 @@ export const da122Questions: Question[] = [
     lectureNo: 28,
     question: "Band placement of fertilizers is preferred over broadcasting because it:",
     options: ["Wastes more fertilizer", "Is easier to apply", "Reduces fertilizer efficiency", "Places nutrients closer to root zone, reducing fixation and improving efficiency"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-122 notes: Band placement is preferred because it places nutrients close to the root zone, reducing fixation/leaching and improving fertilizer use efficiency."
   },
   {
@@ -1292,7 +1292,7 @@ export const da122Questions: Question[] = [
     lectureNo: 29,
     question: "Integrated Nutrient Management (INM) is defined as:",
     options: ["Combined use of organic manures, biofertilizers and chemical fertilizers for sustainable crop production", "Application of only organic manures", "Use of chemical fertilizers only", "Use of only biofertilizers"],
-    correct: 2,
+    correct: 0,
     explanation: "As per DA-122 notes: INM is the combined use of organic manures, biofertilizers, and chemical fertilizers to maintain and improve soil fertility for sustainable crop production."
   },
   {
@@ -1302,8 +1302,8 @@ export const da122Questions: Question[] = [
     lectureNo: 32,
     question: "The Fertilizer Control Order (FCO) in India was established in:",
     options: ["1957", "1985", "1945", "1974"],
-    correct: 2,
-    explanation: "As per DA-122 notes: The Fertilizer Control Order (FCO) was established in 1985 to regulate the quality, prices, and sale of fertilizers in India."
+    correct: 0,
+    explanation: "As per DA-122 notes: The Fertilizer Control Order (FCO) was originally passed on 28th April 1957 under the Essential Commodities Act of 1955. It was later revised in 1985 with effect from 25-9-1985."
   },
   {
     id: "d122x_041",
@@ -1312,7 +1312,7 @@ export const da122Questions: Question[] = [
     lectureNo: 18,
     question: "Ammonium nitrate contains what percentage of nitrogen?",
     options: ["46%", "21%", "26%", "33-34%"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-122 notes: Ammonium nitrate [NH4NO3] contains approximately 33-34% nitrogen (equal parts from ammonical and nitrate forms)."
   },
   {
@@ -1322,7 +1322,7 @@ export const da122Questions: Question[] = [
     lectureNo: 18,
     question: "Which nitrogenous fertilizer has the highest nitrogen content?",
     options: ["Calcium ammonium nitrate (25%)", "Ammonium nitrate (34%)", "Ammonium sulphate (21%)", "Urea (46%)"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-122 notes: Urea [CO(NH2)2] has the highest nitrogen content at 46% among all commonly used nitrogenous fertilizers."
   },
   {
@@ -1332,7 +1332,7 @@ export const da122Questions: Question[] = [
     lectureNo: 19,
     question: "Rock phosphate is a phosphatic fertilizer that is classified as:",
     options: ["All of the above", "Citric acid insoluble P", "Water soluble P", "Citric acid soluble P"],
-    correct: 2,
+    correct: 1,
     explanation: "As per DA-122 notes: Rock phosphate is classified as citric acid insoluble phosphate. It is not readily soluble and is used mainly in acidic soils."
   },
   {
@@ -1342,7 +1342,7 @@ export const da122Questions: Question[] = [
     lectureNo: 19,
     question: "Sulphate of Potash (SOP) is preferred over Muriate of Potash (MOP) for which crops?",
     options: ["Paddy and wheat", "Pulses and oilseeds", "Chloride-sensitive crops like fruits, vegetables, and tobacco", "Sugarcane"],
-    correct: 0,
+    correct: 2,
     explanation: "As per DA-122 notes: Sulphate of Potash (K2SO4) is preferred for chloride-sensitive crops like fruits, vegetables, and tobacco as it doesn't contain chloride."
   },
   {
@@ -1352,7 +1352,7 @@ export const da122Questions: Question[] = [
     lectureNo: 20,
     question: "Borax and boric acid are the main fertilizer sources of which micronutrient?",
     options: ["Zinc", "Copper", "Iron", "Boron"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-122 notes: Borax (Na2B4O7·10H2O) and Boric acid are the main fertilizer sources used to correct Boron deficiency."
   },
   {
@@ -1362,7 +1362,7 @@ export const da122Questions: Question[] = [
     lectureNo: 21,
     question: "Chelated micronutrients are preferred over mineral salts because:",
     options: ["They are more stable and available at a wider pH range, preventing fixation", "They contain higher percentage of micronutrients", "They are cheaper", "They are easier to manufacture"],
-    correct: 2,
+    correct: 0,
     explanation: "As per DA-122 notes: Chelated micronutrients are preferred because the chelating agent (like EDTA) protects micronutrients from fixation and keeps them available over a wider pH range."
   },
   {
@@ -1372,7 +1372,7 @@ export const da122Questions: Question[] = [
     lectureNo: 31,
     question: "Organic farming avoids the use of:",
     options: ["Green manures", "Biofertilizers", "Compost and vermicompost", "Synthetic chemical pesticides and fertilizers"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-122 notes: Organic farming avoids synthetic chemical pesticides and fertilizers, relying instead on organic manures, biofertilizers, and biological pest control."
   },
   {
@@ -1392,7 +1392,7 @@ export const da122Questions: Question[] = [
     lectureNo: 13,
     question: "Guano is a concentrated organic manure derived from:",
     options: ["Droppings (excreta) of sea birds/bats", "Crop residues", "Blood of slaughtered animals", "Fish waste"],
-    correct: 3,
+    correct: 0,
     explanation: "As per DA-122 notes: Guano is a concentrated organic manure derived from the droppings (excreta) of sea birds or bats. It is rich in nitrogen and phosphorus."
   },
   {
@@ -1402,7 +1402,7 @@ export const da122Questions: Question[] = [
     lectureNo: 5,
     question: "Urban compost is prepared from:",
     options: ["Industrial waste", "Municipal waste including rubbish, street sweepings, and market wastes", "Only food processing waste", "Only crop residues"],
-    correct: 3,
+    correct: 1,
     explanation: "As per DA-122 notes: Urban compost is prepared from municipal waste including municipal rubbish, street sweepings, and market wastes."
   },
   {
@@ -1412,7 +1412,7 @@ export const da122Questions: Question[] = [
     lectureNo: 3,
     question: "In the covered pit method, the pit bottom and sides are lined with:",
     options: ["Cement", "Plastic sheets", "Clay bricks", "Granite stone lining (non-absorbent)"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-122 notes: In covered pit method, the bottom and sides of the pit are made non-absorbent by granite stone lining to prevent nutrient loss."
   },
   {
@@ -1432,7 +1432,7 @@ export const da122Questions: Question[] = [
     lectureNo: 1,
     question: "Maize crop requires approximately how much N, P, K (kg) to produce 5 tonnes of yield?",
     options: ["60-10-60", "175-35-175", "120-25-120", "85-15-90"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-122 notes: Maize requires 175-35-175 kg of nitrogen, phosphorus and potassium respectively to give 5 tonnes of yield."
   },
   {
@@ -1442,7 +1442,7 @@ export const da122Questions: Question[] = [
     lectureNo: 16,
     question: "The Bacillus and Pseudomonas species used as biofertilizers are classified as:",
     options: ["Phosphate solubilizers", "Free-living N fixers", "Symbiotic N fixers", "Phosphate absorbers"],
-    correct: 2,
+    correct: 0,
     explanation: "As per DA-122 notes: Bacillus and Pseudomonas species act as Phosphate Solubilizers - they dissolve insoluble phosphates in soil making them available to plants."
   },
   {
@@ -1462,7 +1462,7 @@ export const da122Questions: Question[] = [
     lectureNo: 28,
     question: "Foliar application of fertilizers is done when:",
     options: ["Quick correction of nutrient deficiency is needed or soil application is not effective", "Seeds are being treated", "Soil is well supplied with nutrients", "Crop is at harvest stage"],
-    correct: 2,
+    correct: 0,
     explanation: "As per DA-122 notes: Foliar application is done for quick correction of nutrient deficiencies or when soil pH makes soil application ineffective (e.g., micronutrients in alkaline soils)."
   },
   {
@@ -1472,7 +1472,7 @@ export const da122Questions: Question[] = [
     lectureNo: 20,
     question: "Epsomite (MgSO4·7H2O) is a fertilizer used to supply:",
     options: ["Zinc and Sulphur", "Magnesium and Sulphur", "Iron and Sulphur", "Calcium and Sulphur"],
-    correct: 2,
+    correct: 1,
     explanation: "As per DA-122 notes: Epsomite (Epsom salt, MgSO4·7H2O) is a secondary nutrient fertilizer used to supply Magnesium (10%) and Sulphur (13%)."
   },
   {
@@ -1482,7 +1482,7 @@ export const da122Questions: Question[] = [
     lectureNo: 22,
     question: "Mixed fertilizers are prepared by:",
     options: ["Using ore minerals directly", "Chemical reaction of individual fertilizer components", "Manufacturing in factories only", "Mechanical mixing (blending) of individual fertilizers on the farm"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-122 notes: Mixed fertilizers include farm-made mixtures (prepared by blending) and factory-made granular/pulverised mixtures of individual fertilizer components."
   },
   {
@@ -1492,7 +1492,7 @@ export const da122Questions: Question[] = [
     lectureNo: 30,
     question: "One constraint of INM is:",
     options: ["It eliminates the need for chemical fertilizers", "It improves soil health", "Availability and transportation of bulky organic manures is a major challenge", "It reduces crop yields"],
-    correct: 1,
+    correct: 2,
     explanation: "As per DA-122 notes: A major constraint of INM is the availability, transportation, and high cost of bulky organic manures, making it difficult for farmers to adopt on a large scale."
   },
   {
@@ -1502,7 +1502,7 @@ export const da122Questions: Question[] = [
     lectureNo: 6,
     question: "The biogas plant digester is constructed to maintain which type of conditions for optimal methane production?",
     options: ["Dry conditions", "Anaerobic conditions", "Partially aerobic conditions", "Aerobic conditions"],
-    correct: 3,
+    correct: 1,
     explanation: "As per DA-122 notes: The biogas plant digester is maintained under strict anaerobic conditions for optimal methane production by methanogenic bacteria."
   },
   {
@@ -1512,7 +1512,7 @@ export const da122Questions: Question[] = [
     lectureNo: 25,
     question: "Nitrification inhibitors like Neem-coated urea are used to:",
     options: ["Slow down nitrification, preventing N loss through leaching and denitrification", "Kill soil microorganisms", "Speed up conversion of urea to nitrate", "Increase alkalinity of soil"],
-    correct: 2,
+    correct: 0,
     explanation: "As per DA-122 notes: Nitrification inhibitors (like Neem-coated urea) slow down nitrification, keeping nitrogen in the ammonium form longer, reducing losses through leaching and denitrification."
   },
   {
@@ -1522,7 +1522,7 @@ export const da122Questions: Question[] = [
     lectureNo: 26,
     question: "Leaching loss of nitrogen is maximum for which type of fertilizer?",
     options: ["Ammonium nitrate", "Ammonium sulphate", "Calcium nitrate and other nitrate forms", "Urea"],
-    correct: 1,
+    correct: 2,
     explanation: "As per DA-122 notes: Nitrate forms of nitrogen (like calcium nitrate) are most susceptible to leaching as they carry negative charges and are not held by negatively-charged soil colloids."
   },
   {
@@ -1532,7 +1532,7 @@ export const da122Questions: Question[] = [
     lectureNo: 9,
     question: "Pillipesara is botanically known as:",
     options: ["Crotalaria juncea", "Sesbania aculeata", "Vigna radiata var. sublobata", "Tephrosia purpurea"],
-    correct: 0,
+    correct: 2,
     explanation: "As per DA-122 notes: Pillipesara is botanically known as Vigna radiata var. sublobata (also called wild greengram), used as an important green manure crop."
   },
   {
@@ -1542,7 +1542,7 @@ export const da122Questions: Question[] = [
     lectureNo: 7,
     question: "Vermicompost beds should be maintained at a moisture content of approximately:",
     options: ["60-70%", "20-30%", "40-50%", "80-90%"],
-    correct: 1,
+    correct: 0,
     explanation: "As per DA-122 notes: Vermicompost beds should be maintained at 60-70% moisture content for optimal earthworm activity and decomposition."
   },
   {
@@ -1552,7 +1552,7 @@ export const da122Questions: Question[] = [
     lectureNo: 11,
     question: "Which of the following is an advantage of green leaf manuring over in situ green manuring?",
     options: ["Can be applied to already standing crops (e.g., transplanted paddy) without losing a season", "Lower nitrogen content", "More expensive", "Requires more time to decompose"],
-    correct: 1,
+    correct: 0,
     explanation: "As per DA-122 notes: An advantage of green leaf manuring is that it can be applied to already standing crops without losing a season, unlike in situ green manuring which requires a separate season."
   },
   {
@@ -1562,7 +1562,7 @@ export const da122Questions: Question[] = [
     lectureNo: 14,
     question: "Blue Green Algae (BGA) used as biofertilizer in rice can fix atmospheric nitrogen because it:",
     options: ["Photosynthesises and fixes N2 through heterocysts (specialised cells)", "Works only with legume roots", "Dissolves phosphates", "Lives in soil permanently"],
-    correct: 3,
+    correct: 0,
     explanation: "As per DA-122 notes: Blue Green Algae (cyanobacteria) photosynthesize and fix atmospheric nitrogen through specialised cells called heterocysts. BGA is commonly used in flooded rice fields."
   },
   {
@@ -1572,7 +1572,7 @@ export const da122Questions: Question[] = [
     lectureNo: 17,
     question: "Straight fertilizers supply:",
     options: ["Two or more plant nutrients", "All three major nutrients (NPK)", "Only one plant nutrient element", "Organic matter along with nutrients"],
-    correct: 0,
+    correct: 2,
     explanation: "As per DA-122 notes: Straight fertilizers supply only one plant nutrient element (e.g., urea supplies only N, SSP supplies only P). Complex fertilizers supply two or more nutrients."
   },
   {
@@ -1582,7 +1582,7 @@ export const da122Questions: Question[] = [
     lectureNo: 24,
     question: "Which complex fertilizer grade is used as a complete fertilizer for rice in Telangana?",
     options: ["18-46-0 (DAP)", "17-17-17", "28-28-0", "10-26-26"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-122 notes: 17-17-17 (NPK complex) is commonly used as a complete fertilizer providing equal proportions of N, P2O5, and K2O for many crops including rice."
   },
   {
@@ -1592,7 +1592,7 @@ export const da122Questions: Question[] = [
     lectureNo: 4,
     question: "The most important factor that affects the rate of composting is:",
     options: ["Moisture content and temperature of the composting mass", "Wind speed", "Altitude", "Soil type"],
-    correct: 1,
+    correct: 0,
     explanation: "As per DA-122 notes: The most important factors affecting composting rate are moisture content (optimum 50-60%) and temperature (optimum 55-65°C for thermophilic phase)."
   },
   {
@@ -1602,7 +1602,7 @@ export const da122Questions: Question[] = [
     lectureNo: 2,
     question: "Night soil is classified under which category of organic manures?",
     options: ["Human habitation waste", "Municipal waste", "Animal origin manures", "Plant origin manures"],
-    correct: 2,
+    correct: 0,
     explanation: "As per DA-122 notes: Night soil (human excreta) is classified under human habitation waste category of organic manures. It is rich in nutrients but must be properly treated before use."
   },
   {
