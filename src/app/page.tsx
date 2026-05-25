@@ -8,6 +8,7 @@ import {
 } from "lucide-react";
 import { SUBJECTS } from "@/data/subjects";
 import Navbar from "@/components/Navbar";
+import { useAuth } from "@/contexts/AuthContext";
 
 const MOTIVATIONAL = [
   "Your agriculture dream starts here 🌱",
@@ -37,6 +38,8 @@ export default function LandingPage() {
   const [motIdx, setMotIdx] = useState(0);
   const [openFaq, setOpenFaq] = useState<number | null>(null);
   const [showBanner, setShowBanner] = useState(true);
+  const { userData } = useAuth();
+  const isPaid = userData?.isPaid ?? false;
 
   useEffect(() => {
     const timer = setInterval(() => setMotIdx((i) => (i + 1) % MOTIVATIONAL.length), 3000);
@@ -161,59 +164,105 @@ export default function LandingPage() {
             Like the video? 👍 Share it with your classmates and help them prepare for AGRICET 2026!
           </p>
 
-          {/* ── Grand Mock Test Promotional Slide ── */}
-          <div className="mt-10 rounded-2xl overflow-hidden bg-gradient-to-br from-primary-700 via-primary-800 to-indigo-900 text-white shadow-2xl border border-primary-500/30">
-            {/* Top badge */}
-            <div className="bg-amber-400 text-gray-900 text-center text-xs font-black py-2 tracking-widest uppercase">
-              🆕 New Feature — Now Available for All Subscribers
+          {/* ── Grand Tests YouTube-style Slide ── */}
+          <div className="mt-10 rounded-2xl overflow-hidden shadow-2xl border-2 border-amber-400/40"
+               style={{ background: "linear-gradient(135deg, #14532d 0%, #166534 35%, #1e1b4b 100%)" }}>
+
+            {/* TOP BANNER */}
+            <div className="bg-amber-400 text-gray-900 py-2.5 px-6 flex items-center justify-between">
+              <span className="text-xs font-black tracking-widest uppercase">🏆 AGRICET 2026 — Grand Mock Test Series</span>
+              <span className="text-xs font-bold bg-gray-900/20 px-2 py-0.5 rounded-full">NOW LIVE</span>
             </div>
-            <div className="p-6 md:p-8 flex flex-col md:flex-row items-center gap-6">
-              {/* Left info */}
-              <div className="flex-1 text-center md:text-left">
-                <div className="inline-flex items-center gap-2 bg-amber-400/20 text-amber-300 text-xs font-bold px-3 py-1 rounded-full mb-3">
-                  <Trophy className="w-3.5 h-3.5" /> Grand Mock Tests — AGRICET Standard
+
+            {/* MAIN CONTENT — YouTube 16:9 style */}
+            <div className="p-6 md:p-10 flex flex-col md:flex-row items-center gap-8">
+
+              {/* LEFT: Title + features + CTA */}
+              <div className="flex-1 text-white text-center md:text-left">
+                {/* Brand line */}
+                <div className="flex items-center gap-2 justify-center md:justify-start mb-4">
+                  <div className="w-7 h-7 bg-amber-400 rounded-lg flex items-center justify-center text-gray-900 font-black text-sm">A</div>
+                  <span className="text-xs font-bold text-green-300 tracking-wider uppercase">NALANDA STUDY CIRCLE · JAGTIAL</span>
                 </div>
-                <h3 className="text-2xl md:text-3xl font-black mb-2 leading-tight">
-                  10 Full-Length Grand Tests<br />
-                  <span className="text-amber-400">1,000 Questions · All 17 Subjects</span>
+
+                <h3 className="text-3xl md:text-4xl font-black leading-tight mb-3">
+                  10 Full-Length<br />
+                  <span className="text-amber-400">Grand Mock Tests 🏆</span>
                 </h3>
-                <p className="text-primary-200 text-sm mb-4 leading-relaxed">
-                  Each test: 100 Qs · 100 min · PJTSAU standard · Detailed explanations · Score analysis
+                <p className="text-green-200 text-sm mb-5 leading-relaxed max-w-sm mx-auto md:mx-0">
+                  100 Questions · 100 Minutes · All 17 Subjects · PJTSAU Standard · With Explanations
                 </p>
+
                 {/* Feature pills */}
-                <div className="flex flex-wrap gap-2 justify-center md:justify-start mb-5">
-                  {["Question Navigator","Auto Timer","Grade Analysis","Score Analysis"].map((pill) => (
-                    <span key={pill} className="bg-white/15 text-white text-xs font-semibold px-3 py-1.5 rounded-full">
-                      {pill}
+                <div className="flex flex-wrap gap-2 justify-center md:justify-start mb-6">
+                  {[
+                    { icon: "📚", text: "1,000 MCQs" },
+                    { icon: "⏱️", text: "Auto Timer" },
+                    { icon: "🗂️", text: "Q Navigator" },
+                    { icon: "📊", text: "Score Analysis" },
+                    { icon: "💡", text: "Explanations" },
+                    { icon: "🔁", text: "Retry Tests" },
+                  ].map(f => (
+                    <span key={f.text} className="flex items-center gap-1 bg-white/15 text-white text-xs font-semibold px-3 py-1.5 rounded-full">
+                      {f.icon} {f.text}
                     </span>
                   ))}
                 </div>
+
+                {/* Price badge */}
+                <div className="inline-flex items-center gap-3 bg-amber-400 text-gray-900 px-5 py-3 rounded-2xl mb-6">
+                  <div>
+                    <div className="text-xs font-bold">All 17 Subjects + Grand Tests + PYQ Papers</div>
+                    <div className="text-xl font-black">Only ₹199 · Lifetime Access</div>
+                  </div>
+                </div>
+
+                {/* CTAs */}
                 <div className="flex flex-col sm:flex-row gap-3 justify-center md:justify-start">
-                  <Link href="/signup"
-                    className="inline-flex items-center gap-2 bg-amber-400 hover:bg-amber-300 text-gray-900 font-black px-6 py-3 rounded-xl text-sm transition-all hover:scale-105 shadow-lg">
-                    <Play className="w-4 h-4 fill-gray-900" /> Get Access — ₹199
-                  </Link>
+                  {isPaid ? (
+                    <Link href="/grand-tests"
+                      className="inline-flex items-center gap-2 bg-amber-400 hover:bg-amber-300 text-gray-900 font-black px-6 py-3 rounded-xl text-sm transition-all hover:scale-105 shadow-lg">
+                      <Trophy className="w-4 h-4" /> Start Grand Tests
+                    </Link>
+                  ) : (
+                    <Link href="/signup"
+                      className="inline-flex items-center gap-2 bg-amber-400 hover:bg-amber-300 text-gray-900 font-black px-6 py-3 rounded-xl text-sm transition-all hover:scale-105 shadow-lg">
+                      <Play className="w-4 h-4 fill-gray-900" /> Get Access — ₹199
+                    </Link>
+                  )}
                   <Link href="/grand-tests"
-                    className="inline-flex items-center gap-2 bg-white/15 hover:bg-white/25 text-white font-bold px-6 py-3 rounded-xl text-sm transition-all">
+                    className="inline-flex items-center gap-2 bg-white/15 hover:bg-white/25 text-white font-bold px-6 py-3 rounded-xl text-sm transition-all border border-white/20">
                     View All 10 Tests <ArrowRight className="w-4 h-4" />
                   </Link>
                 </div>
               </div>
-              {/* Right — test cards visual */}
-              <div className="flex-shrink-0 grid grid-cols-2 gap-3 w-full md:w-56">
+
+              {/* RIGHT: All 10 Grand Test cards in 2×5 grid */}
+              <div className="flex-shrink-0 grid grid-cols-2 gap-2 w-full md:w-60">
                 {[
-                  { n: "GT 1", tag: "Pro",    color: "from-green-500 to-emerald-600" },
-                  { n: "GT 2", tag: "Pro",    color: "from-teal-500 to-teal-600" },
-                  { n: "GT 3", tag: "Pro",    color: "from-blue-600 to-indigo-700" },
-                  { n: "GT 4", tag: "Pro",    color: "from-purple-600 to-violet-700" },
+                  { n: "Grand Test 1",  color: "from-emerald-500 to-green-700"   },
+                  { n: "Grand Test 2",  color: "from-teal-500 to-teal-700"       },
+                  { n: "Grand Test 3",  color: "from-blue-600 to-blue-800"       },
+                  { n: "Grand Test 4",  color: "from-violet-600 to-purple-800"   },
+                  { n: "Grand Test 5",  color: "from-pink-600 to-rose-800"       },
+                  { n: "Grand Test 6",  color: "from-orange-600 to-red-700"      },
+                  { n: "Grand Test 7",  color: "from-cyan-600 to-sky-800"        },
+                  { n: "Grand Test 8",  color: "from-indigo-600 to-indigo-900"   },
+                  { n: "Grand Test 9",  color: "from-lime-600 to-green-800"      },
+                  { n: "Grand Test 10", color: "from-amber-600 to-yellow-800"    },
                 ].map((t) => (
-                  <div key={t.n} className={`bg-gradient-to-br ${t.color} rounded-xl p-4 text-center shadow-md`}>
-                    <div className="text-lg font-black">{t.n}</div>
-                    <div className="text-xs font-bold bg-white/20 px-2 py-0.5 rounded-full mt-1">{t.tag}</div>
-                    <div className="text-xs text-white/70 mt-1.5">100 Qs</div>
+                  <div key={t.n} className={`bg-gradient-to-br ${t.color} rounded-xl p-3 text-white text-center shadow-md`}>
+                    <div className="text-xs font-black leading-tight">{t.n}</div>
+                    <div className="text-xs text-white/70 mt-1">100 Qs · Pro</div>
                   </div>
                 ))}
               </div>
+            </div>
+
+            {/* BOTTOM URL bar */}
+            <div className="bg-black/40 backdrop-blur-sm py-2.5 px-6 flex items-center justify-between text-xs">
+              <span className="text-white font-bold tracking-wider">🌐 agricet.nalandaclasses.com</span>
+              <span className="text-green-300">NALANDA STUDY CIRCLE, JAGTIAL · 📞 +91 90593 36236</span>
             </div>
           </div>
         </div>

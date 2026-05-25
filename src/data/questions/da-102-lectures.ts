@@ -1229,7 +1229,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 1,
     question: "The scientific name of Rice (Paddy) is:",
     options: ["Oryza sativa", "Sorghum bicolor", "Zea mays", "Triticum aestivum"],
-    correct: 2,
+    correct: 0,
     explanation: "As per DA-102 notes: The scientific name of Rice (Paddy) is Oryza sativa, belonging to family Poaceae."
   },
   {
@@ -1239,7 +1239,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 1,
     question: "Rice is the major food crop for more than what percentage of world population?",
     options: ["60%", "50%", "40%", "70%"],
-    correct: 2,
+    correct: 0,
     explanation: "As per DA-102 notes: Rice is an important staple food crop for more than 60 per cent of the world population."
   },
   {
@@ -1249,7 +1249,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 1,
     question: "What percentage of world rice is mainly cultivated in Asian countries?",
     options: ["95%", "80%", "90%", "70%"],
-    correct: 3,
+    correct: 2,
     explanation: "As per DA-102 notes: 90% of rice is mainly cultivated in Asian countries like China, India, Indonesia, Pakistan and Japan."
   },
   {
@@ -1259,7 +1259,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 1,
     question: "Rice is photoperiodically classified as:",
     options: ["Short-day plant", "Intermediate-day plant", "Long-day plant", "Day-neutral plant"],
-    correct: 2,
+    correct: 0,
     explanation: "As per DA-102 notes: Photoperiodically, rice is a short-day plant, though some varieties are non-sensitive to photoperiod."
   },
   {
@@ -1269,7 +1269,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 1,
     question: "The optimum temperature for rice crop growth is:",
     options: ["15-20°C", "20-25°C", "30-35°C", "25-30°C"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-102 notes: The optimum temperature required for rice crop growth is 25-30°C."
   },
   {
@@ -1279,7 +1279,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 2,
     question: "The preferred soil pH range for rice cultivation is:",
     options: ["7.5-8.5", "6.5-7.5", "4.5-5.0", "5.5-6.5"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-102 notes: Rice has preference to pH 5.5 to 6.5 for optimal growth."
   },
   {
@@ -1289,7 +1289,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 2,
     question: "In dry nursery preparation for rice, the nursery is ploughed how many times?",
     options: ["5-6 times", "7-8 times", "2-3 times", "3-4 times"],
-    correct: 2,
+    correct: 0,
     explanation: "As per DA-102 notes: In dry nursery preparation, the field is dry ploughed 5-6 times to acquire fine tilth."
   },
   {
@@ -1299,7 +1299,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 2,
     question: "In wet nursery for rice, beds of what width are prepared?",
     options: ["1.5 m", "2.5 m", "3.0 m", "1.0 m"],
-    correct: 3,
+    correct: 1,
     explanation: "As per DA-102 notes: After puddling, beds of convenient length (8-10 m) with width of 2.5 m are made for wet nursery."
   },
   {
@@ -1309,7 +1309,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 2,
     question: "In SRI (System of Rice Intensification), how much nursery area is prepared to plant 1 hectare?",
     options: ["50 m²", "100 m²", "200 m²", "500 m²"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-102 notes: In SRI method, 100 m² nursery is prepared to plant 1 ha area."
   },
   {
@@ -1319,7 +1319,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 3,
     question: "Shallow planting of rice seedlings at what depth ensures quick establishment and more tillers?",
     options: ["7 cm", "1 cm", "5 cm", "3 cm"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-102 notes: Shallow planting at 3 cm depth ensures quick establishment and more tillers in rice."
   },
   {
@@ -1329,7 +1329,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 3,
     question: "For medium duration rice varieties (125-135 days), the recommended transplanting distance is:",
     options: ["20×20 cm", "15×10 cm", "20×15 cm", "15×15 cm"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-102 notes: Medium duration varieties (125-135 days) are transplanted at 15×15 cm spacing giving 44 tillers/m²."
   },
   {
@@ -1339,7 +1339,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 3,
     question: "Puddling for rice transplanting should be done how many days before transplanting?",
     options: ["20 days", "15 days", "10 days", "5 days"],
-    correct: 3,
+    correct: 1,
     explanation: "As per DA-102 notes: Puddling should be done 15 days prior to transplanting for optimal soil condition."
   },
   {
@@ -1349,7 +1349,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 4,
     question: "Seed treatment for rice nursery uses Carbendazim at the rate of:",
     options: ["1 g/kg seed", "5 g/kg seed", "2 g/kg seed", "3 g/kg seed"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-102 notes: Seeds should be treated with Carbendazim @ 3 g/l water for 1 kg of seeds before sowing in nursery."
   },
   {
@@ -1359,7 +1359,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 4,
     question: "The seed rate for SRI method of rice cultivation per acre is:",
     options: ["30-36 kg", "2 kg", "20-25 kg", "10-15 kg"],
-    correct: 2,
+    correct: 1,
     explanation: "As per DA-102 notes: SRI method of rice cultivation requires only 2 kg seed per acre, much lower than conventional methods."
   },
   {
@@ -1369,7 +1369,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 4,
     question: "Telangana Sona (R.N.R 15048) rice variety is resistant to:",
     options: ["Sheath blight", "Brown plant hopper", "Rice blast", "Gall midge"],
-    correct: 1,
+    correct: 2,
     explanation: "As per DA-102 notes: Telangana Sona (R.N.R 15048) is resistant to rice blast and has high yield potential of 2.6-2.8 tons/acre."
   },
   {
@@ -1379,7 +1379,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 5,
     question: "FYM or compost application rate for rice is:",
     options: ["8 t/ha", "20 t/ha", "5 t/ha", "12.5 t/ha"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-102 notes: Apply 12.5 t of FYM or compost per hectare in rice nutrient management."
   },
   {
@@ -1389,7 +1389,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 5,
     question: "Blue Green Algae (BGA) for rice is applied at the rate of:",
     options: ["5 kg/ha", "10 kg/ha", "50 kg/ha", "20 kg/ha"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-102 notes: Broadcast 10 kg of soil-based powdered Blue Green Algae (BGA) flakes at 10 DAT for dry season rice."
   },
   {
@@ -1399,7 +1399,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 5,
     question: "In rice, nitrogen and potassium are applied in how many equal splits?",
     options: ["Four", "Five", "Two", "Three"],
-    correct: 2,
+    correct: 0,
     explanation: "As per DA-102 notes: N and K are applied in four equal splits: basal, tillering, panicle initiation and heading stages."
   },
   {
@@ -1409,7 +1409,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 8,
     question: "The scientific name of Maize is:",
     options: ["Sorghum bicolor", "Pennisetum glaucum", "Zea mays", "Oryza sativa"],
-    correct: 3,
+    correct: 2,
     explanation: "As per DA-102 notes: The scientific name of Maize is Zea mays, belonging to family Poaceae."
   },
   {
@@ -1419,7 +1419,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 8,
     question: "Among all grain crops, which crop has the highest productivity?",
     options: ["Sorghum", "Rice", "Maize", "Wheat"],
-    correct: 1,
+    correct: 2,
     explanation: "As per DA-102 notes: Maize has the highest productivity among all grain crops and is the most important grain crop in the world."
   },
   {
@@ -1429,7 +1429,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 8,
     question: "Maize is mainly used as feed for:",
     options: ["Horses only", "Fish and shrimp", "Rabbits only", "Poultry and livestock"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-102 notes: Maize is mainly used as feed for poultry and livestock, though also consumed as sweet corn, pop corn and baby corn."
   },
   {
@@ -1439,7 +1439,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 12,
     question: "The scientific name of Sorghum is:",
     options: ["Sorghum bicolor", "Pennisetum glaucum", "Zea mays", "Oryza sativa"],
-    correct: 3,
+    correct: 0,
     explanation: "As per DA-102 notes: The scientific name of Sorghum is Sorghum bicolor."
   },
   {
@@ -1449,7 +1449,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 12,
     question: "Sorghum is the basic food in:",
     options: ["Asia and Africa", "South America only", "Australia and Japan", "Europe and America"],
-    correct: 3,
+    correct: 0,
     explanation: "As per DA-102 notes: Sorghum is the basic food in Asia and Africa. Sorghum stalks are mainly used as fodder for livestock."
   },
   {
@@ -1459,7 +1459,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 14,
     question: "The scientific name of Bajra (Pearl Millet) is:",
     options: ["Oryza sativa", "Eleusine coracana", "Sorghum bicolor", "Pennisetum glaucum"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-102 notes: The scientific name of Bajra (Pearl Millet) is Pennisetum glaucum."
   },
   {
@@ -1469,7 +1469,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 17,
     question: "The scientific name of Ragi (Finger Millet) is:",
     options: ["Panicum miliaceum", "Sorghum bicolor", "Pennisetum glaucum", "Eleusine coracana"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-102 notes: The scientific name of Ragi (Finger Millet) is Eleusine coracana."
   },
   {
@@ -1479,7 +1479,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 17,
     question: "Ragi is considered beneficial for which type of patients:",
     options: ["Heart patients", "Liver patients", "Kidney patients", "Diabetic patients"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-102 notes: Ragi is considered one of the important foods for diabetic patients to control diabetes. It is a healthy and affordable food."
   },
   {
@@ -1489,7 +1489,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 18,
     question: "The scientific name of Redgram (Pigeon pea) is:",
     options: ["Vigna mungo", "Vigna radiata", "Cicer arietinum", "Cajanus cajan"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-102 notes: The scientific name of Redgram (Pigeon pea) is Cajanus cajan."
   },
   {
@@ -1499,7 +1499,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 20,
     question: "The scientific name of Bengal gram (Chickpea) is:",
     options: ["Cicer arietinum", "Cajanus cajan", "Glycine max", "Vigna mungo"],
-    correct: 1,
+    correct: 0,
     explanation: "As per DA-102 notes: The scientific name of Bengal gram (Chickpea) is Cicer arietinum."
   },
   {
@@ -1509,7 +1509,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 20,
     question: "Kabuli chickpea differs from Desi chickpea in that it has:",
     options: ["Better drought tolerance", "Larger, cream-coloured seeds with smooth seed coat", "Higher protein content", "Smaller, dark-coloured seeds with rough coat"],
-    correct: 3,
+    correct: 1,
     explanation: "As per DA-102 notes: Kabuli variety has larger, cream-coloured seeds with smooth seed coat, while Desi variety has smaller, dark-coloured seeds with rough coat."
   },
   {
@@ -1519,7 +1519,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 22,
     question: "The scientific name of Soybean is:",
     options: ["Cajanus cajan", "Vigna radiata", "Cicer arietinum", "Glycine max"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-102 notes: The scientific name of Soybean is Glycine max."
   },
   {
@@ -1529,7 +1529,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 23,
     question: "The scientific name of Black gram (Urad) is:",
     options: ["Vigna radiata", "Cajanus cajan", "Vigna mungo", "Cicer arietinum"],
-    correct: 0,
+    correct: 2,
     explanation: "As per DA-102 notes: The scientific name of Black gram (Urad) is Vigna mungo."
   },
   {
@@ -1539,7 +1539,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 24,
     question: "The scientific name of Green gram (Moong) is:",
     options: ["Glycine max", "Cicer arietinum", "Vigna mungo", "Vigna radiata"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-102 notes: The scientific name of Green gram (Moong) is Vigna radiata."
   },
   {
@@ -1549,7 +1549,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 25,
     question: "The scientific name of Horsegram is:",
     options: ["Vigna radiata", "Macrotyloma uniflorum", "Cajanus cajan", "Cicer arietinum"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-102 notes: The scientific name of Horsegram is Macrotyloma uniflorum (Dolichos biflorus)."
   },
   {
@@ -1559,7 +1559,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 26,
     question: "The scientific name of Cowpea is:",
     options: ["Vigna radiata", "Vigna unguiculata", "Cajanus cajan", "Glycine max"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-102 notes: The scientific name of Cowpea is Vigna unguiculata."
   },
   {
@@ -1569,7 +1569,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 27,
     question: "Napier grass is also known as:",
     options: ["Guinea grass", "Sudan grass", "Elephant grass", "Rhodes grass"],
-    correct: 1,
+    correct: 2,
     explanation: "As per DA-102 notes: Napier grass (Pennisetum purpureum) is also known as Elephant grass due to its large size."
   },
   {

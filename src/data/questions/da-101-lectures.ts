@@ -1450,7 +1450,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 1,
     question: "The first agricultural society in India was established in 1827 at:",
     options: ["Mumbai", "Calcutta", "Madras", "Delhi"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-101 notes: The first agricultural society in India was established at Calcutta in 1827."
   },
   {
@@ -1470,7 +1470,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 1,
     question: "ICRISAT was established in which year?",
     options: ["1972", "1960", "1965", "1979"],
-    correct: 1,
+    correct: 0,
     explanation: "As per DA-101 notes: ICRISAT (International Crops Research Institute for Semi-Arid Tropics) was established in 1972 at Hyderabad, India."
   },
   {
@@ -1480,7 +1480,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 1,
     question: "The Imperial Agricultural Research Institute was established at Pusa, Bihar in:",
     options: ["1926", "1903", "1899", "1912"],
-    correct: 2,
+    correct: 1,
     explanation: "As per DA-101 notes: The Imperial Agricultural Research Institute was established at Pusa, Bihar in 1903."
   },
   {
@@ -1490,7 +1490,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 1,
     question: "NABARD (National Bank for Agriculture and Rural Development) was established in:",
     options: ["1986", "1974", "1982", "1979"],
-    correct: 1,
+    correct: 2,
     explanation: "As per DA-101 notes: NABARD was established in 1982."
   },
   {
@@ -1500,7 +1500,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 1,
     question: "The first cotton hybrid in India was released in:",
     options: ["1970", "1966", "1980", "1975"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-101 notes: The first cotton hybrid in India was released in 1975."
   },
   {
@@ -1510,7 +1510,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 1,
     question: "NRCWS (National Research Centre for Weed Science) is located at:",
     options: ["Hyderabad, Telangana", "Coimbatore, Tamil Nadu", "Jabalpur, M.P.", "Nagpur, Maharashtra"],
-    correct: 0,
+    correct: 2,
     explanation: "As per DA-101 notes: NRCWS is located at Jabalpur, M.P."
   },
   {
@@ -1530,7 +1530,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 2,
     question: "Telangana is divided into how many agro-climatic zones?",
     options: ["Four", "Two", "Five", "Three"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-101 notes: Telangana is divided into three agro-climatic zones: Northern, Southern, and Central Telangana Zones."
   },
   {
@@ -1540,7 +1540,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 2,
     question: "The Northern Telangana Zone has a total geographical area of approximately:",
     options: ["4.0 m. ha.", "9.0 m. ha.", "7.43 m. ha.", "3.86 m. ha."],
-    correct: 3,
+    correct: 2,
     explanation: "As per DA-101 notes: The Northern Telangana Zone has a total geographical area of 7.43 m. ha."
   },
   {
@@ -1550,7 +1550,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 2,
     question: "The mean annual precipitation in the Northern Telangana Zone ranges from:",
     options: ["700 to 900 mm", "1000 to 1200 mm", "900 to 1150 mm", "809 to 996 mm"],
-    correct: 0,
+    correct: 2,
     explanation: "As per DA-101 notes: The Northern Telangana Zone receives mean annual precipitation ranging from 900 to 1150 mm."
   },
   {
@@ -1560,7 +1560,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 2,
     question: "What percentage of rainfall in Northern Telangana Zone is received from South West Monsoon?",
     options: ["77%", "90%", "82%", "88%"],
-    correct: 0,
+    correct: 2,
     explanation: "As per DA-101 notes: 82 per cent of rainfall in Northern Telangana Zone comes from the South West Monsoon."
   },
   {
@@ -1570,7 +1570,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 2,
     question: "The Central Telangana Zone is an important growing zone for which crop?",
     options: ["Rice", "Cotton", "Groundnut", "Sugarcane"],
-    correct: 3,
+    correct: 1,
     explanation: "As per DA-101 notes: The Central Telangana Zone is the important Cotton growing zone of Telangana."
   },
   {
@@ -1580,7 +1580,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 2,
     question: "The cropping intensity in the Northern Telangana Zone is:",
     options: ["100%", "110%", "130%", "120%"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-101 notes: Cropping intensity in the Northern Telangana Zone is 110 per cent."
   },
   {
@@ -1590,7 +1590,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 3,
     question: "Which layer of the atmosphere is called the 'Seat of weather phenomena'?",
     options: ["Mesosphere", "Stratosphere", "Ionosphere", "Troposphere"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-101 notes: Troposphere is called the 'Seat of weather phenomena' because all clouds, thunderstorms and cyclones occur here."
   },
   {
@@ -1600,7 +1600,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 3,
     question: "The mean lapse rate of temperature in the troposphere is:",
     options: ["5°C per km", "3.6°C per km", "8°C per km", "6.5°C per km"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-101 notes: The mean lapse rate in the troposphere is 6.5°C per km (or 3.6°F per 1000 feet)."
   },
   {
@@ -1610,7 +1610,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 3,
     question: "The stratosphere extends from the tropopause up to an altitude of approximately:",
     options: ["30-40 km", "50-55 km", "20-30 km", "80 km"],
-    correct: 2,
+    correct: 1,
     explanation: "As per DA-101 notes: The stratosphere exists above the tropopause and extends to altitudes of about 50-55 km."
   },
   {
@@ -1620,7 +1620,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 3,
     question: "The stratosphere is called the 'Seat of photochemical reactions'. Which gas absorbs UV rays in this layer?",
     options: ["Ozone", "Argon", "Carbon dioxide", "Nitrogen"],
-    correct: 2,
+    correct: 0,
     explanation: "As per DA-101 notes: Ozone in the stratosphere absorbs ultraviolet radiation from the sun."
   },
   {
@@ -1630,7 +1630,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 3,
     question: "The Ionosphere is found at a height of approximately:",
     options: ["20-30 km", "50-55 km", "80 km and beyond", "Above 400 km"],
-    correct: 0,
+    correct: 2,
     explanation: "As per DA-101 notes: The Ionosphere starts at about 80 km above the earth's surface and extends up to 400 km."
   },
   {
@@ -1640,7 +1640,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 3,
     question: "Long distance radio communication is possible due to which layer of the atmosphere?",
     options: ["Exosphere", "Troposphere", "Stratosphere", "Ionosphere"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-101 notes: The ionosphere reflects radio waves, making long-distance radio communication possible."
   },
   {
@@ -1650,7 +1650,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 3,
     question: "The percentage of Nitrogen in dry atmospheric air by volume is approximately:",
     options: ["20.95%", "0.93%", "78.09%", "75.53%"],
-    correct: 0,
+    correct: 2,
     explanation: "As per DA-101 notes: Nitrogen comprises 78.09% of dry air by volume."
   },
   {
@@ -1660,7 +1660,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 3,
     question: "The percentage of Oxygen in dry atmospheric air by volume is approximately:",
     options: ["23.13%", "15.5%", "78.09%", "20.95%"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-101 notes: Oxygen comprises 20.95% of dry air by volume."
   },
   {
@@ -1670,7 +1670,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 4,
     question: "Which part of the solar spectrum is most effective in photosynthesis?",
     options: ["Infrared rays", "Visible light (400-700 nm)", "X-rays", "Ultraviolet rays"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-101 notes: Visible light in the wavelength range of 400-700 nm (Photosynthetically Active Radiation) is most effective for photosynthesis."
   },
   {
@@ -1680,7 +1680,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 4,
     question: "The instrument used to measure sunshine duration is called:",
     options: ["Hygrometer", "Barometer", "Campbell Stokes sunshine recorder", "Thermometer"],
-    correct: 1,
+    correct: 2,
     explanation: "As per DA-101 notes: Campbell Stokes sunshine recorder is used to measure the duration of bright sunshine."
   },
   {
@@ -1690,7 +1690,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 4,
     question: "The instrument used to measure soil temperature is:",
     options: ["Barometer", "Hygrometer", "Anemometer", "Soil thermometer"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-101 notes: Soil thermometer is used to measure soil temperature at different depths."
   },
   {
@@ -1710,7 +1710,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 5,
     question: "The instrument used to measure relative humidity is:",
     options: ["Rain gauge", "Hygrometer (Psychrometer)", "Anemometer", "Barometer"],
-    correct: 2,
+    correct: 1,
     explanation: "As per DA-101 notes: Hygrometer (or Psychrometer) is used to measure relative humidity."
   },
   {
@@ -1720,7 +1720,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 5,
     question: "Wind speed is measured by:",
     options: ["Hygrometer", "Barometer", "Thermometer", "Anemometer"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-101 notes: Anemometer is the instrument used to measure wind speed."
   },
   {
@@ -1730,7 +1730,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 5,
     question: "Atmospheric pressure is measured by:",
     options: ["Barometer", "Hygrometer", "Lysimeter", "Anemometer"],
-    correct: 3,
+    correct: 0,
     explanation: "As per DA-101 notes: Barometer is the instrument used to measure atmospheric pressure."
   },
   {
@@ -1740,7 +1740,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 5,
     question: "Rainfall is measured by:",
     options: ["Rain gauge", "Barometer", "Hygrometer", "Lysimeter"],
-    correct: 3,
+    correct: 0,
     explanation: "As per DA-101 notes: Rain gauge is used to measure the amount of rainfall."
   },
   {
@@ -1750,7 +1750,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 6,
     question: "Primary tillage refers to:",
     options: ["Deep, initial breaking of soil", "Removal of weeds from the soil", "Light surface soil stirring after initial ploughing", "Seed bed preparation for sowing"],
-    correct: 2,
+    correct: 0,
     explanation: "As per DA-101 notes: Primary tillage refers to deep initial breaking or turning of the soil, usually done with mouldboard plough or disc plough."
   },
   {
@@ -1760,7 +1760,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 6,
     question: "Puddling is done specifically for which crop?",
     options: ["Maize", "Wheat", "Sugarcane", "Rice (Paddy)"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-101 notes: Puddling is done for transplanting paddy (rice) as it reduces percolation losses and creates an ideal condition for rice growth."
   },
   {
@@ -1770,7 +1770,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 6,
     question: "Minimum tillage or conservation tillage is done to:",
     options: ["Reduce soil disturbance and conserve soil moisture", "Maximise soil disturbance", "Facilitate deep ploughing", "Increase weed germination"],
-    correct: 1,
+    correct: 0,
     explanation: "As per DA-101 notes: Minimum tillage reduces soil disturbance to the minimum necessary, conserving soil moisture and structure."
   },
   {
@@ -1780,7 +1780,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 7,
     question: "In which sowing method are seeds dropped in a continuous stream in a furrow?",
     options: ["Broadcasting", "Drilling", "Dibbling", "Transplanting"],
-    correct: 2,
+    correct: 1,
     explanation: "As per DA-101 notes: In drilling method, seeds are dropped in a continuous stream in furrows opened by a seed drill."
   },
   {
@@ -1790,7 +1790,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 7,
     question: "In which method of sowing, seeds are placed in pre-prepared holes at specific intervals?",
     options: ["Transplanting", "Dibbling", "Drilling", "Broadcasting"],
-    correct: 3,
+    correct: 1,
     explanation: "As per DA-101 notes: Dibbling is the method where seeds are placed in holes at definite spacing."
   },
   {
@@ -1800,7 +1800,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 7,
     question: "Transplanting as a method of crop establishment is most common for:",
     options: ["Sorghum", "Rice and vegetables", "Maize", "Wheat"],
-    correct: 3,
+    correct: 1,
     explanation: "As per DA-101 notes: Transplanting is most commonly used for rice, tobacco, and vegetables where seedlings are first raised in a nursery."
   },
   {
@@ -1810,7 +1810,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 8,
     question: "Soil amendments are materials added to soil to improve its:",
     options: ["Only nitrogen content", "Only pH level", "Only water holding capacity", "Physical, chemical and biological properties"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-101 notes: Soil amendments are materials added to improve the physical, chemical and biological properties of soil."
   },
   {
@@ -1820,7 +1820,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 8,
     question: "Gypsum is used as a soil amendment primarily for:",
     options: ["Sandy soils", "Alkaline (Sodic) soils", "Acidic soils", "Saline soils"],
-    correct: 2,
+    correct: 1,
     explanation: "As per DA-101 notes: Gypsum (calcium sulphate) is used to reclaim alkaline/sodic soils by replacing sodium with calcium."
   },
   {
@@ -1830,7 +1830,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 9,
     question: "Weeds are defined as plants that:",
     options: ["Grow where they are not wanted and compete with crop plants", "Are used as green manure", "Grow where they are wanted", "Are beneficial to crop growth"],
-    correct: 2,
+    correct: 0,
     explanation: "As per DA-101 notes: Weeds are plants growing where they are not wanted and compete with crops for nutrients, water, light and space."
   },
   {
@@ -1840,7 +1840,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 9,
     question: "Which of the following is a parasitic weed that attacks sugarcane?",
     options: ["Striga (Witch weed)", "Parthenium", "Lantana camara", "Cyperus rotundus"],
-    correct: 3,
+    correct: 0,
     explanation: "As per DA-101 notes: Striga (witch weed) is a parasitic weed that attacks sugarcane and other crops by attaching to their roots."
   },
   {
@@ -1850,7 +1850,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 10,
     question: "2,4-D (2,4-Dichlorophenoxyacetic acid) is classified as which type of herbicide?",
     options: ["Non-selective herbicide", "Soil-applied pre-emergence herbicide", "Graminicide", "Selective broadleaf herbicide"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-101 notes: 2,4-D is a selective herbicide that kills broadleaf weeds without harming grassy crops like wheat and rice."
   },
   {
@@ -1860,7 +1860,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 10,
     question: "Herbicides applied before the crop or weeds emerge from the soil are called:",
     options: ["Pre-emergence herbicides", "Post-emergence herbicides", "Contact herbicides", "Systemic herbicides"],
-    correct: 1,
+    correct: 0,
     explanation: "As per DA-101 notes: Pre-emergence herbicides are applied to the soil before the crop or weeds emerge."
   },
   {
@@ -1880,7 +1880,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 11,
     question: "The water requirement of rice (paddy) per crop season is approximately:",
     options: ["100-200 mm", "1200-1500 mm", "700-1000 mm", "500-600 mm"],
-    correct: 3,
+    correct: 1,
     explanation: "As per DA-101 notes: The water requirement of paddy (rice) is approximately 1200-1500 mm per crop season."
   },
   {
@@ -1890,7 +1890,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 11,
     question: "Drip irrigation is also known as:",
     options: ["Flood irrigation", "Furrow irrigation", "Trickle irrigation", "Sprinkler irrigation"],
-    correct: 0,
+    correct: 2,
     explanation: "As per DA-101 notes: Drip irrigation is also known as trickle irrigation as water is applied drop by drop near the plant roots."
   },
   {
@@ -1900,7 +1900,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 11,
     question: "Sprinkler irrigation is most suitable for:",
     options: ["Heavy clay soils only", "Waterlogged areas", "Sandy and undulating lands with irregular topography", "Flooded paddy fields"],
-    correct: 0,
+    correct: 2,
     explanation: "As per DA-101 notes: Sprinkler irrigation is most suitable for sandy and undulating lands with irregular topography."
   },
   {
@@ -1910,7 +1910,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 12,
     question: "The main objective of drainage is to:",
     options: ["Increase waterlogging", "Reduce crop growth", "Remove excess water from soil to improve aeration", "Increase soil salinity"],
-    correct: 3,
+    correct: 2,
     explanation: "As per DA-101 notes: Drainage removes excess water from the soil to improve soil aeration and make land suitable for cultivation."
   },
   {
@@ -1920,7 +1920,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 12,
     question: "Sub-surface drainage (tile drainage) removes excess water from:",
     options: ["Surface of soil", "Air above soil", "Irrigation channels", "Below the soil surface"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-101 notes: Sub-surface drainage (tile or mole drainage) removes excess water from below the soil surface."
   },
   {
@@ -1930,7 +1930,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 13,
     question: "Harvesting index (HI) is defined as the ratio of:",
     options: ["Total biomass to grain yield", "Shoot weight to root weight", "Total yield to water applied", "Grain yield to total biological yield"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-101 notes: Harvest Index = Economic yield (grain) / Total biological yield × 100."
   },
   {
@@ -1940,7 +1940,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 13,
     question: "Threshing refers to:",
     options: ["Cutting the crop at maturity", "Drying of harvested crop", "Storage of harvested produce", "Separating grain from the ear head or pod"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-101 notes: Threshing is the process of separating grain from the ear head or pod after harvesting."
   },
   {
@@ -1950,7 +1950,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 14,
     question: "Dryland agriculture is practiced in areas with annual rainfall less than:",
     options: ["1000 mm", "750 mm", "500 mm", "1200 mm"],
-    correct: 3,
+    correct: 1,
     explanation: "As per DA-101 notes: Dryland agriculture is generally practiced in areas receiving less than 750 mm of annual rainfall."
   },
   {
@@ -1960,7 +1960,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 14,
     question: "Which of the following is NOT a characteristic of dryland agriculture?",
     options: ["Uneven distribution of rainfall", "Low productivity per unit area", "Assured irrigation throughout the year", "Moisture stress conditions"],
-    correct: 0,
+    correct: 2,
     explanation: "As per DA-101 notes: Dryland agriculture is characterised by dependence on rainfall, not assured irrigation. Irrigation is not available throughout the year."
   },
   {
@@ -1970,7 +1970,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 14,
     question: "Bunding in dryland agriculture is done to:",
     options: ["Conserve rainwater and prevent runoff", "Increase soil erosion", "Reduce infiltration", "Facilitate drainage of excess water"],
-    correct: 1,
+    correct: 0,
     explanation: "As per DA-101 notes: Bunding is done to conserve rainwater in situ and prevent surface runoff in dryland areas."
   },
   {
@@ -1980,7 +1980,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 15,
     question: "Water harvesting is defined as:",
     options: ["Diversion of river water", "Irrigation of crops using canals", "Use of underground water for irrigation", "Collection and storage of rainwater runoff for later use"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-101 notes: Water harvesting is the collection and storage of rainwater from rooftops, catchment areas or fields for later use."
   },
   {
@@ -1990,7 +1990,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 15,
     question: "Contingency crop planning is done when:",
     options: ["Excess rainfall damages crops", "Monsoon fails or is delayed and alternative crops need to be chosen", "Monsoon is normal and timely", "Market prices of crops fall"],
-    correct: 2,
+    correct: 1,
     explanation: "As per DA-101 notes: Contingency crop planning involves having an alternative plan when monsoon fails or is delayed, to substitute failed crops with suitable alternatives."
   },
   {
@@ -2010,7 +2010,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 16,
     question: "The principle of 'ridges and furrows' in soil conservation aims to:",
     options: ["Reduce soil moisture", "Increase wind erosion", "Break the flow of water and reduce erosion", "Increase surface runoff"],
-    correct: 3,
+    correct: 2,
     explanation: "As per DA-101 notes: Ridge and furrow system breaks the flow of water across the slope, reducing runoff and soil erosion."
   },
   {
@@ -2020,7 +2020,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 17,
     question: "Intercropping differs from mixed cropping in that:",
     options: ["Crops are sown at different seasons", "Both crops are sown at the same time without any specific pattern", "Crops are grown in definite row arrangements with distinct inter-row spaces", "Only one crop is sown at a time"],
-    correct: 1,
+    correct: 2,
     explanation: "As per DA-101 notes: In intercropping, component crops are grown in definite row arrangements, while in mixed cropping, seeds are mixed and sown without a definite pattern."
   },
   {
@@ -2030,7 +2030,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 17,
     question: "Relay cropping refers to:",
     options: ["Growing two crops sequentially without any overlap", "Growing crops in glasshouses", "Growing only one crop per year", "Sowing the second crop into the standing first crop before its harvest"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-101 notes: Relay cropping involves sowing the second crop into the standing first crop before it is harvested."
   },
   {
@@ -2040,7 +2040,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 17,
     question: "Multiple cropping refers to:",
     options: ["Growing crops in multiple countries", "Growing more than one crop on the same land in the same year", "Growing the same crop repeatedly", "Growing only one crop per year"],
-    correct: 3,
+    correct: 1,
     explanation: "As per DA-101 notes: Multiple cropping refers to growing more than one crop on the same piece of land in the same year."
   },
   {
@@ -2050,7 +2050,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 18,
     question: "Crop rotation helps in:",
     options: ["Maintaining and improving soil fertility and breaking pest cycles", "Increasing pest and disease buildup", "Depleting soil nutrients continuously", "Reducing crop diversity"],
-    correct: 2,
+    correct: 0,
     explanation: "As per DA-101 notes: Crop rotation helps maintain soil fertility, break pest and disease cycles, and improve soil structure."
   },
   {
@@ -2060,7 +2060,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 18,
     question: "Which of the following is a principle of crop rotation?",
     options: ["Leguminous crops should never be included", "Always grow the same crop in the same field", "Irrigated crops should always follow irrigated crops", "Deep-rooted crops should follow shallow-rooted crops"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-101 notes: One principle of crop rotation is that deep-rooted crops should follow shallow-rooted crops for efficient nutrient utilisation from different soil depths."
   },
   {
@@ -2070,7 +2070,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 19,
     question: "Integrated Farming System (IFS) involves:",
     options: ["Growing a single crop throughout the year", "Using only chemical inputs", "Only crop production", "Combining crop production with livestock, fishery and other enterprises"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-101 notes: IFS combines crop production with livestock, fishery, poultry, mushroom, and other enterprises for better resource utilization and income."
   },
   {
@@ -2080,7 +2080,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 19,
     question: "Sustainable agriculture aims to:",
     options: ["Meet present needs without compromising future generations' ability to meet their needs", "Use maximum chemical fertilisers", "Eliminate traditional farming practices", "Maximise production at any cost"],
-    correct: 3,
+    correct: 0,
     explanation: "As per DA-101 notes: Sustainable agriculture aims to produce food to meet present needs while ensuring future generations can also meet their needs, maintaining environmental quality."
   },
   {
@@ -2090,7 +2090,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 20,
     question: "Organic farming relies primarily on:",
     options: ["Synthetic chemical fertilisers and pesticides", "Natural inputs like compost, FYM, biofertilisers and biopesticides", "Genetically modified organisms", "High doses of nitrogen fertilisers"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-101 notes: Organic farming uses natural inputs like farmyard manure, compost, biofertilisers and biopesticides, avoiding synthetic chemicals."
   },
   {
@@ -2100,7 +2100,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 20,
     question: "The nodule bacteria that fix atmospheric nitrogen in legume root nodules are:",
     options: ["Rhizobium", "Azotobacter", "Blue-green algae", "Azospirillum"],
-    correct: 3,
+    correct: 0,
     explanation: "As per DA-101 notes: Rhizobium bacteria form symbiotic association with legume roots and fix atmospheric nitrogen in root nodules."
   },
   {
@@ -2110,7 +2110,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 20,
     question: "VAM (Vesicular Arbuscular Mycorrhizae) is a:",
     options: ["Algal biofertiliser", "Fungal biofertiliser that helps in phosphorus uptake", "Bacterial biofertiliser", "Chemical fertiliser"],
-    correct: 2,
+    correct: 1,
     explanation: "As per DA-101 notes: VAM is a fungal biofertiliser (mycorrhizal fungus) that forms association with plant roots and enhances phosphorus uptake."
   },
   {
@@ -2120,7 +2120,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 21,
     question: "Certification of organic farm products in India is done by:",
     options: ["Ministry of Finance", "APEDA and accredited certification agencies", "FCI", "ICAR"],
-    correct: 3,
+    correct: 1,
     explanation: "As per DA-101 notes: Certification of organic farming products in India is done by APEDA and accredited certification bodies under the National Programme for Organic Production (NPOP)."
   },
   {
@@ -2130,7 +2130,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 21,
     question: "The National Project on Organic Farming (NPOF) was established at:",
     options: ["Nagpur, Maharashtra", "Ghaziabad, Uttar Pradesh", "Hyderabad, Telangana", "New Delhi"],
-    correct: 2,
+    correct: 1,
     explanation: "As per DA-101 notes: The National Project on Organic Farming (NPOF) was established at Ghaziabad, Uttar Pradesh."
   },
   {
@@ -2140,7 +2140,7 @@ export const da101LectureQuestions: Question[] = [
     lectureNo: 5,
     question: "The instrument used to measure evaporation is called:",
     options: ["Anemometer", "Barometer", "Psychrometer", "Pan Evaporimeter (Class A pan)"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-101 notes: Class A pan evaporimeter is used to measure evaporation from open water surface."
   },
   {
