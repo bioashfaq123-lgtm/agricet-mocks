@@ -1,0 +1,2237 @@
+LECTURE NOTES
+PRINCIPLES OF PLANT PATHOLOGY,DISEASES OF
+CROPS AND THEIR MANAGEMENT
+DA171
+M.ANURADHA
+AGRICULTURAL POLYTECHNIC,PALEM
+PROFESSOR JAYASHANKAR TELANGANA STATE
+AGRICULTURAL UNIVERSITY
+Lecture out lines
+1. Introduction to plant pathology, objectives
+2. Plant disease causing organisms – Fungi, bacteria
+3. Virus, nematodes, phanerogamic parasites
+4. Terms used in plant pathology
+5. Classification of plant diseases – caused by Fungi, Bacteria, virus
+6. Survival o pathogens in plants- infected host, saprophytic survival, dormant spores
+7. Dispersal of plant pathogens – Active, passive
+8. Infection process- pre penetration, penetration& post penetration process
+9. Principles of plant disease management- Avoidance, Exclusion, Eradication&
+Protection
+10. Classification of fungicides
+11. Host plant resistance
+12. Study of symtomatology- smuts, powdery mildews, Rusts, Rots, Leafblights
+13. Management methods for important diseases- wilts, canker, mosaic, Anthracnose
+14. Symptoms of nematodes and plant parasites attack, nutrient deficiencies
+15. Integrated plant disease management
+16. Paddy- Blast, Brown spot, sheath blight
+17. Paddy- Bacteria leaf blight, Tungro
+18. Jowar- Rust, downy mildew, smut, leaf blight, Ergot, Anthracnose
+19. Maize- Leaf blight, stemrot, sheath blight
+20. Bajra, downy mildew, rust, ergot . Ragi- blast,
+21. Sugarcane- Red rot, smut, mycoplasma
+22. Groundnut- Tikka spot, Rust, budnecrosis
+23. Castor- Wilt, Botrytis
+24. Gingelly- Powdery mildew, cercospora spot, Atternaria spot, Bacteria leaf blight,
+Root& stemrot, phyllody
+25. Sunflower- Rust, Alternaria spot, downy mildew, stemrot
+26. Redgram- wilt, sterility mosaic, bacteria leaf spot
+27. Green gram& Black gram- Root rot, powdery mildew, Rust, cercospora spot,
+corynospora spot, yellow mosaic, Bactria leaf spot
+28. Bengal gram- wilt, Ascocyta blight
+29. Citrus- Gummosis, wilt
+30. Citrus- Tristeza, Mosaic, Bud union creze
+31. Citrus- Nutrient deficiencies symptoms
+32. Mango- Powdery mildew. Grape- Powdery mildew
+33. Guava- canker, wilt
+34. Papaya- Powdermildew, Mosaic, Leafcurl, Stem rot
+35. Banana- Anthracnose, Sigatoka leaf spot
+36. Banana- Bacterial wilt, mosaic
+37. Pomegranate- Cercospora spot, Anthracnose
+38. Pomegranate- Bacteria leaf spot, powdery mildew
+39. Chilli- seedling rot, Dieback, Fruit rot
+40. Chilli- Powdery mildew, Alternaria blight, Bacteria leaf spot
+41. Bhendi- Powdery mildew,Yellow vein mosaic
+42. Cucurbits- Powdery mildew, Alternaria spot, Black rot
+43. Tomato- Phytophthora blight, Alternaria blight, Fusarium wilt, Bacteria wilt
+44. Tomato- Root knots, Mosaic, leaf curl
+45. Coconut- Budrot, Ganoderma root rot, stem bleeding
+46. Rose- Powdery mildew, Dieback, black spot
+47. Turmeric- Leaf spot, rhizome rot
+48. Ginger- Phyllocystca leaf spot, Rhizome rot
+Plant Pathology/Phytopathology(Phyton= plant,Pathos=suffering,ailment,Logos=study ) ie., the
+study of nature, development andmanagement of plant diseases.
+Definition: A branch of Agricultural science which deals withcause,etiology,resulting lossesand
+management of plant diseases.
+Objectives of Plant Pathology:
+Study of biotic and abiotic causes of disease
+Factors helping in disease development
+Study of Host-pathogen interaction
+Management of diseases and reduction of plant loss
+Important Phytopathogenic organisms :
+1.Fungi: Fungi are eukaryotic, spore bearing, achlorophyllous heterotrophic organisms
+thatgenerally reproduce sexually and asexually and whose filamentous, branchedsomatic structures
+are typically surrounded by cell walls consisting chitin orcellulose or both with many organic
+molecules and exhibitingabsorptive nutrition.
+2.Bacteria: Bacteria are extremely minute, prokaryotic microorganisms,rigid, essentially
+unicellular organismslackingchlorophyll and generally devoid of any photosynthetic pigment,
+characterised by rapid reproduction(mostly asexually). Bacteria are ubiquitous and physiologically
+diverse and they occupy a wide range of ecological niches.
+Bacterial diseases of plants occur worldwide. As they favour moist or warm conditions,
+bacteria are of most importance in tropical, subtropical and warm-temperate areas.Most bacteria
+can survive on crop residues, in soil, on seeds or on living plants. Bacteria infect plants through
+wounds or natural openings (eg stomata and lenticels). Infected seeds, infected propagating
+material, water splash, insects and machinery can all spread bacteria.
+3.Phytoplasma:
+Phytoplasmas, previously known as Mycoplasma-like organisms, are prokaryotes in the
+class Mollicutes. They are similar to bacteria, but lack a rigid cell wall and cannot live freely in the
+environment. They have not been grown in culture. Phytoplasmas are found in the sieve tube cells
+of plant phloem tissue and most are transmitted by phloem-feeding leafhoppers and plant hoppers.
+Phytoplasmas are obligate parasites and complete their life cycle within host tissues. They cause
+disease in a wide range of plant hosts. Symptoms commonly caused by phytoplasmas are leaf
+discolouration, stunting, dieback, reduced leaf size (‘little leaf’), witches’ broom, phyllody,
+virescence.
+4.Virus: A sub-microscopic, obligate parasite consisting of nucleic acid andprotein that multiplies
+only intracellularly and is potentially pathogenic.Virusesarecomprised of a protein coat or shell
+called a capsid, surrounding a genome of ribonucleic acid (RNA) or DNA (deoxyribonucleic acid).
+Viruses can only multiply in living cells in infected plant. The energy resources of the plant are
+thereby redirected to reproduce viruses. Viral infection impairs the plant’s normal functions, such
+as photosynthesis and growth.
+5.Nematodes:
+Nematodes are eel shaped organisms without legs or other appendages. Plant
+Pathogenic nematodes obtain their food from living plants using spears or stylets thereby
+causing diseases in plants.Some nematodes can survive as cysts or eggs in absence of host
+plants.
+Crops such as banana, citrus, coffee, cotton, fruits, peanut, pineapple, potato, rice, soybean,
+tobacco and vegetables are affected. Some nematodes have a very broad host range, while
+others have very narrow ones.All parasitic nematodes belong to the Phylum Nematoda and
+belong to orders Tylenchida and Dorylaimida.General symptoms include Stunting, yellowing
+of leaves,root knot galls, necrosis, swelling of stem, curled leaves and splitting of bulbs, rotting
+and ultimately poor growth and yield.Eg. Meloidogyne, Heterodera
+6.Phanerogamic plant parasites:
+A parasitic plant is a plant that derives some or all of its nutritional requirements from
+another living plant by establishing connections (Haustoria) with host plant vascular elements.
+Phanerogamic plant parasites are characterized by their varied dependence on host for
+water, nutrients, minerals; production of flowers and seeds; presence and absence of
+chloroplasts.Ex.Stem-Cuscuta, Loranthus, Root-Orabanche, Striga.
+Classification of diseases Based on
+1.Type of crop: Field crops, Horticultural crops etc
+2.Plant part affected: Leaves, Fruits etc
+3.Causal organism: Fungi, Bacteria, Virus
+4.Source of pathogen: Soil borne, wind borne, Seed borne
+5.Host reaction:warts, Galls, Necrosis
+6.Severity of disease occurrence:Epidemic, endemic, sporadic
+7.Symptoms of disease:Root rot, wilt, Smut, Powdery mildew, Damping off etc
+8.Disease causal organism: Infectious and non-infectious
+TERMS AND CONCEPTS USED IN PLANT PATHOLOGY
+Disease: Any malfunctioning of host cells and tissues that result from continuousirritation by
+a pathogenic agent or environmental factor and leads to development ofsymptoms
+Disorder: Non-infectious plant diseases due to abiotic causes such as adverse soil
+andenvironmental conditions are termed disorders. occur in the absence ofpathogens, and
+cannot, therefore, be transmitted from diseased to healthy plants.
+Pathogen: An entity, usually a micro-organism that can incite disease. Pathogen is any agent
+that causes pathos (ailment, suffering) or damage. However, theterm is generally used to
+denote living organisms (Fungi, bacteria, MLO’s, nematodesetc.,) and viruses but not
+nutritional deficiencies.
+Sign: The pathogen or its parts or products seen on a host plant.
+Symptom: The external or internal reactions or alterations of a plant as a result of adisease.
+Inoculum: It is the part of the pathogen which on contact with susceptible host plant
+causes infection (or) the infective propagules which on coming in contact with the host
+plant causes an infection are known as inoculum
+Epidemic disease: A disease usually occurs widely but periodically in a
+destructive form.Ex: Late blight of potato – Irish famine (1845)
+Endemic: Constantly present in a moderate to severe form and is confined to a particular
+country or district.
+Ex: Club root of cabbage in Nilgiris, Black wart of potato, Onion smut
+Sporadic disease: Occur at very irregular intervals and locations and in relatively fewer
+instances. Ex: Udbatta disease of rice, Angular leaf spot of cucumber
+SYMPTOMS OF FUNGAL DISEASES
+Downy mildews : Under low temperature &humid conditions, owing to the production
+of sporangiophores and sporangia, a white or grey bloom develops on the lesions
+produced usually on the under surface of leaves. This is called the “downy growth”.
+Pernospora and Plasmopara cause downy mildews.Ex : Downy mildew of grapevine&
+cucurbits.
+Powdery mildews : Enormous numbers of conidia are formed on superficial growth of
+the fungus giving the host surface a dusty or powdery appearance. Black minute fruiting
+bodies may also be seen.Erysiphe family pathogens cause this
+Eg : Powdery mildew of cucurbits, grapevine, chillies
+Rusts : The rusts appear as relatively small pustules of spores and red, brown, yellow or
+black in colour.
+Smuts : Smut affected parts of the plant show a black or purplish black dusty
+massusually appear on floral organs.
+Eg : Loose smut of wheat – Ustilago tritici
+Hypertrophy : Hyperplasia is the abnormal increase in the size of a plant part due to
+increase in number of cells. In hypertrophy the increased size is due to increase in the
+size of cells of a particular tissue.The over growths are of various forms in different
+diseases
+a. Galls : These are malformations of more or less globose, elongate or irregular shape.
+They may be fleshy or woody.
+Eg : Club root of cabbage,Stem gall of coriander
+b. Warts : Smaller galls are called warts Eg : Black wart of potato
+c. Leaf Curl : Leaves are twisted, curled and distorted due to growth in tissues in
+localized are of the leaf.
+d. Transormation of plant parts : The earheads are converted into green leaf like
+structures.
+Eg : Green ear of pearl millet, Green ear of Korra
+Hypoplasia or dwarfing : inhibition of growth resulting in stunting or dwarfing of
+whole plant or only certain parts.
+Leaf Spots: The shape of lesions on leaves and fruits may be round, angular or irregular.
+The dead areas are often surrounded by a purple, red, yellow or brown margin.
+Anthracnose : circular to angular, sometimes irregularspots occurring along the leaf
+veins, petioles, stems and fruits. The affected tissues are discoloured and killed resulting
+in characteristic lesions.Eg : Anthracnose of grapevine ,Anthracnose of mango
+Blight and blast : In a diseased plant, due to severity of infection the tissues are rapidly
+killed, resulting in death of foliage, blossom or other above ground plant parts. Such a
+symptom is known as blight. When the entire leaf blade, bud or other plant parts are
+involved resulting in quick death of the part of plant as a whole then it is known as blast.
+Eg : Early blight of potato and tomato,
+Cankers :. Corky growths often develop in the affected parts. Cankers mostly cause
+localized death of the cortical tissues of stem, fruits or leaves .Infection may be deep
+seated.
+Scab : The infection is not deep seated. Sunken lesions are produced.
+Damping-off : It is a condition in which the stem is attacked near the soil surface.The
+affected portion becomes constricted and weak, incapable of bearing the load of the
+upper portion. As a result the seedlings topple down and die.Pre emergence and post
+emergence damping off occur. Pythium, Phytophthora, Fusarium cause these.
+Eg : Damping-off tobacco, tomato, chilli, brinjal etc.
+Rot : The affected tissues die, decompose to greater extent, and turn brown. fungi
+dissolve the cell walls more or less completely by means of enzymes. According to the
+plant part attacked the rot may be called root rot, leaf or stem rot, bud-rot and fruit rot.
+Depending upon the type of dissolution brought about by the pathogen the rots may be
+grouped as soft rot, wet rot or dry rot.
+Eg : Bud rot of palmyrah ,Fruit rot of chilli
+Wilts :The leaves and other green or succulent parts lose their turgidity, become flaccid,
+usually seen first in some of the leaves. Later, the young growing tip or the whole plant
+may suddenly or gradually dry up. Wilting may be the result of injury to the root system,
+partial plugging of water conducting vessels or toxic substances secreted by the
+pathogen.
+Eg : Tomato wilt,Guava wilt
+SYMPTOMS OF VIRAL DISEASES
+External
+1. Mosaic: Alternate green and yellow patches. Eg. Tmv
+2. Vein clearing : Tissue close to vein is yellow and remaining area is green.Eg vein clearing of
+bhendi.
+3. Vein banding : Tissue along vein is green and tissue between veins is chlorotic.Eg tobacco
+leaf curl.
+4. Ring spot : circular chlorosis with green centre. Eg papaya ring spot.
+5. Necrosis: death of cells in the stem Eg. Top rot of potato
+6. Distortion / malformation :Leaves and flowers twisted, become narrow, end in rattail
+appearance Eg.. Leaf curl of papaya
+7. Enation : Masses of hypertrophoid tissue on leaf surface.Eg. Leaf curl of tobacco
+8. Masked symptoms : Plants contain virus , but symptomless underunfavourable conditions.
+Symptoms reappear under favourable conditions.
+9.Stunting: stoppage of plant growth. Decrease in size of leaves, flowers, fruits etc Eg:Rice
+dwarf
+Internal
+Hypertrophy, hyperplasia or hypoplasia
+SYMPTOMS OF BACTERIAL DISEASES
+Bacterial leaf spots and Blights: Spots on leaves of dicotyledonous plants initially water
+soaked and often confined between the leaf veins and will appear angular. Sometimes a
+chlorotic halo will surround the bacterial lesion of an infected leaf. Spots may coalesce causing
+large areas of necrotic tissue. If the spots appear and advance rapidly the disease is considered
+asblight. Bacterial spots will appear as streaks or stripes on monocotyledonous plants. genera
+Pseudomonas and Xanthomonas.
+Cankers: Canker symptoms can appear on stems, branches and fruits, leaves. when conditions
+are highly favourable for infection causes girdling of the branches and trunks, can result in
+corky growths.Ex: Citrus canker.
+Bacterial Soft Rots:bacteria produce enzymes that causes disintegration of cells and rotting of
+tissue becomes soft and watery, contains a slimy foul smelling ooze.Ex: Bacterial Soft Rot of
+carrot, melon.
+Bacterial Vascular Wilts: wilting and death of the aboveground parts of the plant. In some
+cases bacterial ooze seeps out through stomata or cracks onto the surface of infected deadtissue
+The causal pathogen enters, multiplies in, and moves through the xylem vessels of the host
+plant and interferes with the translocation of nutrients and water.
+Ex: Tomato wilt
+Bacterial Galls/tumors: bacteria present in the soilgain entry into the host tissue through
+wound in the host. Gall tissue in the vicinity of the wound- hyperplasia and hypertrophy.
+Ex: Crown gall of Apple.
+Study of Symptomology
+A.Necrotic symptoms eg: Blight, Blotch, Decay, Dieback, Spot, Wilt, Yellowing
+B.Hypertrophy/Hyperplasia eg; Callus, Witches broom, Scab,
+C.Hypoplasia eg:Chlorosis, Dwarfing, Etiolation,
+Signs:
+1.Vegetative structures: Haustorium, Mycelium, Rhizomorph, sclerotia etc
+2.Reproductive Products: Asci, Basidium, Conidiophores, Mildews, Mold, Sporangium,
+Pycniia Sporodochium etc
+3.Disease products: ooze in paddy blight, sugary disease in sorghum
+SURVIVAL OF PLANT PATHOGENS
+The means of survival are the first link in infection chain or disease cycle. The
+initialinfection that occurs from the sources of pathogen survival in the crop is primary
+infection and thepropagules thatcause this infection are called primary inoculum. After
+initiation of the disease in thecrop, the spores or other structures of the pathogen are sources
+of secondary inoculum
+and cause secondary infection, thereby spreading the disease in the field.
+SOURCES OF SURVIVAL OF PATHOGENS:
+1) Infected host as reservoir of inoculum:
+a) Seed: seed borne pathogenssurvive as long as seed remains viable.
+b) Collateral hosts(wild hosts of same families):Collateral hostsare those which
+aresusceptible to the plant pathogens of crop plants and provideadequate facilities for their
+growth andreproduction of these pathogens during offseason. weed hosts help tobridge the
+gap between two crop seasons.
+c) Alternate hosts (wild hosts of other families): When a pathogen has very wide host
+rangeand is tolerantto wide range of weather conditions the alternate hosts become very
+important sourceof survival of the pathogen.
+2) Saprophytic survival outside the host:
+In the absence of the cultivated host plant, fungi are capable of surviving assaprophytes and
+few in soil.
+3) Survival as dormant spores or specialized resting structuresin or on the host or
+outside the host:
+Plant viruseshave no resting stage,plant bacteriado not produce resting spores
+Nematodessurvive through dormant structures, i.e., eggs, cysts, galls, formed in host tissues.
+Thesestructures may be present in soil or in seed lots
+Phanerogamic parasites: They survive in dormant state for many years through seeds.
+Fungi are the only organisms that produce spores for their inactive survival and in favorable
+condition act as source of primary infection.
+4) Survival in association with insects, nematodes and fungi
+Several important plant pathogens may survive within the insect body and over wintertherein.
+Few plant viruses survive with nematodes or fungi found in the soil between crop seasons.
+DISPERSAL OF PLANT PATHOGENS
+Transport ofinoculum from one host to another host at variousdistances resulting in the
+spread of the disease, is called dispersalof plant pathogens. It is also importantfor continuity
+of the life cycle of the pathogen. This knowledge is essential for control of plant diseases
+becausepossibilities of preventing dispersal and therebybreaking the infection chain exist.
+The dispersal of infectious plant pathogens in space occurs through two ways:
+I) Autonomous or direct or active dispersal:
+In this method the dispersal of plant pathogens takes place through soil, seed and planting
+material during normal agronomic operations.
+1) Seed as the source of autonomous dispersal:
+2) Soil as a means of autonomous dispersal:
+a) Dispersal in soil:
+b) Dispersal by the soil:
+3) The plant and the plant parts as a means of autonomous dispersal:
+The plant parts that are used for vegetative propagation, raw fieldproduce and plant debris
+that accumulates during the course of cropping.
+II) Passive or Indirect dispersal:
+1) Animate agents: Insects,Mites,Nematodes,birds, Farm and wild animals, phanerogamic
+parasites andHuman beings inTransportation of seeds,Planting diseased seed materials
+During adoption of normal farming practices, by use of contaminated implements
+by use of diseased grafting and budding material
+Vegetatively propagated crops-banana suckers, sugarcane setts, tuber crops, fruit plants
+2) Inanimate agents: Wind and Irrigation water
+PHENOMENON OF INFECTION/ INFECTION PROCESS
+It is the third link in the infection chain.Infection process means establishment of pathogen
+in the host plant.
+The success of process of infection depends on
+Susceptibility of host: It is genetically controlled by DNA and it is an inheritablecharacter
+which is transmitted from parents to off springs.
+Virulence of the pathogen: It is determined by genetic material whichis inheritable.
+Fast multiplication rate of the pathogen: Chances of infection increases with high rateof
+multiplication. High birth rate and low death rate is highly essential for successfulinfection.
+Proper inoculum potential: In case of specialized pathogens very few or even onespore is
+capable of causing infection successfully, whereas, non-specialized pathogensas Pythium,
+Phytophthorarequire high density of inoculum for infection.
+Environmental factors: temperature, relativehumidity, moisture, etc., are very important for
+survival, dissemination and infectionprocess.
+Stages in the development of infection or disease cycle/Process of infection
+1. PRE-PENETRATION:
+Plant viruses do not have any capacity to enter the hostcell so they do not make any
+aggressive effort for entry, but depend on different insectvectors for their entry into host cell.
+Bacteria have no dormant structures; hence no prepenetrationactivity except for
+multiplication in infection drops on the natural openings.However, nematodes show some
+orientation towards root surface before actualpenetration.In fungal pathogens, pre-penetration
+includes spore germination and growth of theresulting germ tube on the surface of the host
+plant. In some fungi thehypha act in a concerted way to achieve the penetration.
+2. PENETRATION: Pathogens penetrate plant surfaces by direct penetration
+orindirectlythrough wounds or natural openings. Bacteria enter plants mostly throughwounds
+and less frequently through natural openings. Viruses,fastidious bacteria enter through
+wounds made by vectors. Fungi, nematodes and parasitichigher plants enter through direct
+penetration and less frequently through naturalopenings and wounds.
+A. Indirect Penetration
+1. Wounds: Wounds caused by farm operations, hail storms, or insect punctures, etc.will help
+in the entry of different plant pathogens into the host cells.
+2. Natural openings:a)stomatab) Lenticels:
+B) Direct penetration: Most fungi, nematodes and parasitic higher plants are capable of
+penetrating the host surface directly.
+3. POST PENETRATION
+Invasion and colonization: Infection is the process by which pathogens establish
+contactwith the susceptible cells or tissues of the host and derive nutrients from them. A
+parasiticrelationship is formed between host cytoplasm and parasite cytoplasm. During
+infection,pathogens grow and multiply within the plant tissues. Invasion of plant tissues by
+thepathogen, and growth and reproduction of the pathogen (colonization) are twoconcurrent
+stages of disease development.
+Fungi spread into all parts of host organs, either by growing directly through the cells asan
+intracellular mycelium or by growing between the cells as an intercellular mycelium.During
+establishment, pathogen produces different substances which include enzymes,toxins, growth
+hormones and polysaccharides which will help in colonization of the host.
+PRINCIPLES OF PLANT DISEASE MANAGEMENT
+It conveys a concept of continuous process which is based not on theprinciple of eradication
+of the pathogen but mainly on reducing the amount of inoculums and minimizing thedamage
+or loss below economic injury level.
+General principles of plant disease management
+I. Avoidance of the pathogen: These methods aim at avoiding the contact between
+thepathogen and susceptible stage of the crop. This is achieved by
+a) Proper selection of geographical area: Many fungal and bacterial diseases are moresevere
+in wet areas than in dry areas. Cultivation of bajra in wet areas is not profitabledue to smut
+and ergot.
+b) Proper selection of the field: This helps in the management ofmany soil borne diseases.
+Avoid raising of a particular crop year afteryear in the same field to reduce severity.
+Ex: Wilt of redgram, late blight of potato , green ear of bajra, etc.
+c) Time of sowing: Alteration of date of sowing helps in avoidance ofcoincidence of
+susceptible stage of host plant with favourable conditions for pathogen.
+Ex: Rhizoctonia root rot of redgram is more severe in the crop sown immediately after
+therains. Delayed sowing will help in reducing the incidence of disease.
+d) Disease escaping varieties: Certain varieties of crops escape the disease because of
+theirgrowth characteristics. Ex: Early maturing varieties of peaescape the damage due to
+Erysiphe polygoni.
+e) Proper selection of seed and planting material: Selection of seed and seedlingmaterial
+from healthy sources will effectively manage the diseases such as loose smut ofwheat,
+bunchy top of bananaand whip smut of sugarcane.
+II. Exclusion of the pathogen: These measures aim at preventing the inoculum from
+entering or establishing in the field or area where it does not exist.
+a) Seed inspection and certification: Crops grown for seed purpose are inspectedperiodically
+for the presence of diseases that are disseminated by seed. Necessaryprecautions are to be
+taken to remove the diseased plants in early stages, and then thecrop is certified as disease
+free.
+b) Plant quarantine regulation: Plant quarantine is defined as “ a legal restriction on the
+movement of agricultural commodities for the purpose of exclusion, prevention ordelaying
+the spread of the plant pests and diseases in uninfected areas”.
+c)Seed treatment: Seed and planting material is treated with hot air, gases or chemicals to
+destroy the pathogen.
+III. Eradication: Elimination of the pathogen from thearea by destruction of sources of
+primary and secondary inoculum.
+a) Rouging: Removal of diseased plants or their affected parts from field, whichprevent the
+dissemination of plant pathogens.
+b) Eradication of alternate and collateral hosts: Eradication of alternate hosts will help
+in management of many plant diseases.
+c) Crop rotation: Continuous cultivation of the same crop in the same field helps in the
+perpetuation of the pathogen in the soil. Soils which are saturated by the pathogen areoften
+referred as sick soils. To reduce the incidence and severity of many soil bornediseases, crop
+rotation is adopted.
+d) Biological methods: Reducing the intensity of pathogen, slowing the process of disease
+formation, prevention of inoculmn on the plants etc. eg: Trichoderma viride, Pseudomonas
+fluorescens
+IV Protection:Spraying of chemicals to manage diseases and insecticides to control vector
+transmitted viral diseases, nematicides and hot water treatment etc
+Management of Diseases
+Rusts
+➢ use of resistant varieties
+➢ Destruction of weeds and infected crop residues
+➢ Adjusting date of sowing to avoid severe infection of plants in the field
+➢ Crop rotation with non host crops
+➢ Spray application of oxy-carboxin (0.2%), mancozeb (0.2%), triadimefon (0.05%), BM
+(0.5%), COC (0.25%) and wettable S or zineb (0.2%)
+Wilts
+➢ Disease-free transplants and seed.
+➢ Use of resistant varieties
+➢ Soil solarization
+➢ Prolonged crop rotation
+➢ Soil fumigation with PCNB
+➢ Seed treatment with carbendazim@ 2g/kg seed
+➢ The use of antibiotic-producing soil fungi and bacteria i.e., Gliocladium sp., Trichoderma
+sp. Pseudomonas spp.
+➢ Addition of heavy doses of organic matter (green manure crops) to soil would suppress the
+activity of the pathogen by enhancing antagonistic micro-organisms.
+Downy mildews
+➢ Destroyal of affected plants by burning before oospore formation, reduce the inoculum
+➢ potential
+➢ Crop rotation with other crops like pulses and oilseeds.
+➢ Grow tolerant varieties
+➢ Seed treatment with Metalaxyl (Apron 35 SD) @4g/kg seed
+➢ Spray Metalaxyl (Ridomyl MZ) @0.2% or Mancozeb @0.25%.
+Powdery mildews
+➢ Removal and destruction of infected plant debris
+➢ Use of resistant varieties
+➢ Preventive sprays with wettable sulphur @0.3%
+➢ Spraying with Karathane 0.1% (Dinocap) or Benomyl
+Alternaria diseases
+➢ Removal and destruction of infected plant debris
+➢ Control of volunteers and weed hosts prior to planting the new crop
+➢ Maintenance of adequate soil fertility levels
+➢ Use of resistant varieties
+➢ Disease free or treated seed (Mancozeb @2.5g/kg seed)
+➢ Spray with mancozeb (@0.25%) or chlorothalonil (0.2%) or Iprodione (0.2%) at 10 days
+interval.
+Cercospora diseases
+➢ Removal and destruction of infected plant debris
+➢ Control of volunteers and weed hosts prior to planting the new crop
+➢ Use of resistant varieties
+➢ Spraying benomyl, Bordeaux mixture, mancozeb or chlorothalonil at 15 days interval.
+Anthracnoses (conidia within black acervuli)
+➢ Use of disease free seed
+➢ Use of resistant varieties
+➢ Destruction of collateral hosts
+➢ Spraying with 1% B.M. or combination of zineb and captan 0.2% found to be effective
+➢ Other fungicides: Benomyl, Chlorothalonil, Iprodione.
+Smuts
+➢ Control of volunteers and weed hosts prior to planting the new crop
+➢ Use of resistant varieties
+➢ Treat the seed with fine sulphur powder @0.5% or Captan or Thiram @0.3%.
+➢ Follow crop rotation.
+➢ Collect the smutted ear heads in cloth bags and dip in boiling water.
+Ergot or Sugary disease
+➢ Adjust the date of sowing so that the crop does not flower during the periods of high rainfall
+and high humidity.
+➢ Grow resistant varieties
+➢ Deep summer ploughing
+➢ Soaking seeds with 2% saline solution will aid to remove floatingergot infested seeds.
+➢ Seed treatment with fungicides such as Captan or Thiram@4g/kg seed
+➢ Spray Ziram (or) Zineb (or) Captan (or) Mancozeb @0.2% at emergence of earhead (5-10
+per cent flowering stage) followed by a spray at 50 per cent flowering and repeat the spray
+after a week, if necessary.
+➢ Control of ergot with fungicides such as Propiconazole or Tebuconazole has proved to be
+cost effective in seed production plots.
+INTEGRATED PLANT DISEASE MANAGEMENT (IPDM)
+IPDM involve management systems which utilize compatible combinations of all the
+available techniques to keep the pathogen population below the economic threshold level
+(ETL). IPDM is based on five principles of plant disease management and integrates
+multidisciplinary approaches for the management of plant diseases.
+Main components of IPDM:
+1. Cultural practices
+2. Regulatory measures (quarantine)
+3. Chemical methods
+4. Biological methods
+5. Physical methods
+6. Genetic engineering
+Cultural practices
+a) Crop sanitation: Collection and destruction of plant debris from soil will help in the
+management of soil borne facultative saprophytes. It is an important method to reduce the
+primaryinoculum.
+b) Manures and fertilizers: The deficiency or excess of a nutrient may predispose a plant
+to some diseases. Excessive nitrogen application aggravates diseases like stem rot,
+bacterial leaf blight and blast of rice. Phosphorous and potash application increases the
+resistance of the host.Addition of FYM or green manure, 60-100 t/ha,helps to manage the
+diseases like cotton wilt, Ganoderma root rot of citrus, coconut, etc.
+c) Mixed cropping: Root rot of cotton is reduced whencotton is grown along with sorghum.
+Intercropping sorghum in cluster bean reduces theincidence of root rot and wilt
+d) Summer ploughing: Ploughing the soil during summer months expose soil to hotweather
+which will eradicate heat sensitive soil borne pathogens.
+e) Soil amendments: Application of organic amendments like saw dust, straw, oil cake,
+etc., will effectively manage the diseases caused by Pythium, Phytophthora, Verticillium,
+andMacrophomina. Beneficial micro-organismsincreases in soil and helps in suppression of
+pathogenic microbes.Ex: Application of lime reduces the club root of cabbage by increasing
+soil
+pH to 8.5, Application of Sulphur to soil brings the soil pH to 5.2 and reduces the
+incidence of scab of potato
+f) Changing time of sowing: Pathogens are able to infect susceptible plants under certain
+environmental conditions. Alternation in date of sowing can help avoidance of favourable
+conditions for the pathogens.
+Ex: Rice blast can be managed by changing planting season from June toSeptember/October.
+g) Seed rate and plant density: Close spacing raises atmospheric humidity and favours
+sporulation by many pathogenic fungi. A spacing of 8’X8’ instead of 7’X7’ reduces
+sigatoka disease of banana due to better ventilation and reduced humidity. High density
+planting in chillies leads to high incidence of damping off in nurseries.
+h) Irrigation and drainage: The amount, frequency and method of irrigation may affect
+the dissemination of certain plant pathogens. Many pathogens, including, Pseudomonas
+solanacearum, X. campestris pv. oryzae and Colletotrichum falcatum are readily
+disseminated through irrigation water. High soil moisture favours root knot and other
+nematodes and the root rots caused by species of Sclerotium, Rhizoctonia, Pythium,
+Phytophthora, Phymatotrichum, etc.
+PHYSICAL METHODS: Physical methods include soil solarization and hot water
+treatments.
+i. Soil solarization: Soil solarization is the soilheating by covering moist soil with
+polyethylene sheets as soil mulchduring summer months for 4-6 weeks.
+ii. Soil sterilization: Soil can be sterilized in green houses and sometimes in seed beds by
+aerated steam or hot water. At about 500C, nematodes, some fungi are killed. At about 60 and
+720C, most of the plant pathogenic fungi andbacteria are killed. At about 820C, most weeds,
+plant pathogenic bacteria and insects arekilled. Heat tolerant weed seeds and some plant
+viruses, such as TMV are killed at ornear the boiling point (95-1000C).
+iii. Hot water or Hot air treatment: Hot water treatment or hot air treatment will
+prevent the seed borne and sett borne infectious diseases. Hot water treatment is used for
+controlling sett bornediseases of sugarcane [whip smut, grassy shoot and red rot of sugarcane
+(520C for 30min)] and loose smut of wheat (520C for 10 min).
+Biological methods:
+Def: Biological control of plant disease is a condition or practice whereby survival or
+activity of a pathogen is reduced through the agency of any other living organism , with the
+result that there is reduction in incidence of the disease caused by the pathogen.
+Mechanisms of biological control
+1. Competition: Most of the biocontrol agents are fast growing and they compete with
+plant pathogens for space, organic nutrients and minerals.
+2. Antibiosis: Antagonism mediated by specific or non-specific metabolites of microbial
+origin, by lytic agents, enzymes, volatile compounds or other toxic substances is known
+as antibiosis.
+3. Hyperparasitism: Direct parasitism or lysis and death of the pathogen by another
+micro-organism when the pathogen is in parasitic phase is known as hyperparasitism.
+Important fungal and bacterial biocontrol agents:T. virideand Pseudomonas fluorescens
+CHEMICAL CONTROL
+Fungicides are classified into three categories: Protectants, eradicants and therapeutants.
+1. Protectants: These are the chemicals which are effective only when used beforeinfection
+(prophylactic). Contact fungicides which kill the pathogen presenton the host surface when it
+comes in contact with the host are called protectants. Theseare applied to seeds, plant
+surfaces or soil. These are non-systemic in action . Ex: Zineb,sulphur, captan, Thiram, etc.
+2. Eradicants: Those chemicals which eradicate the dormant or active pathogen from thehost.
+They can remain on/in the host for some time. Ex: Lime sulphur.
+3. Therapeutants: These are the agents that inhibit the development of a diseasesyndrome in
+a plant when applied after infection by a pathogen. Therapy can be byphysical means (solar
+and hot water treatment) and chemical means (by use of systemicfungicides).
+Classification Of Fungicides Based On Chemical Nature
+COPPER FUNGICIDES
+Preparatory copper fungicides Proprietary copper fungicides or Fixed or
+insoluble copper fungicides
+1. Bordeaux mixture 1. Copper oxychloride
+2.Bordeaux paste 2. Cuprous oxide
+3.Cheshunt compound 3. Copper hydroxide
+SULPHUR FUNGICIDES
+Inorganic Sulphur Fungicides Organic Sulphur Compounds
+1. Lime sulphur Dialkyl Monoalkyl
+2. Sulphur dust Dithiocarbamates dithyiocarbamates
+3. Wettable sulphur 1. Ziram 1. Nabam -Dithane D-14
+2. Ferbam 2. Zineb- Dithane Z-78
+3. Thiram 3.Vapam or Metham
+sodium
+4. Maneb - Dithane M45
+HETROCYCLIC MISCELLANEOUS FUNGICIDES
+NITROGENOUS COMPOUNDS
+1.Captan 1. Chlorothalonil
+2. Captafol 2. Dinocap
+3. Difoltan
+SYSTEMIC FUNGICIDES
+ACYLALANINES AROMATIC HYDROCARBONS
+1. Metalaxyl 1. Chloroneb
+2. Benalaxyl
+BENZIMIDAZOLES ALIPHATICS
+1. Carbendazim 1. Prothiocarb
+2. Benomyl 2. Propamocarb
+3. Thiabendazole
+OXATHINS or IMIDAZOLES
+CARBOXIMIDES 1. Imazalil
+1. Carboxin 2. Fanapanil
+2. Oxycarboxin
+MORPHOLINES ORGANOPHOSPHATES
+1. Tridemorph 1. Kitazin
+2. Ediphenphos
+ALKYL PHOSPHONATES PYRIMIDINES
+1. Fosetyl-Al 1. Fenarimol
+THIOPHANATES STROBILURINS
+1. Thiophanate 1. Azoxystrobin
+2.Thiophanate methyl 2.Kresoxim methyl
+TRIAZOLES QUINONES
+1. Triadimefon 1.Chloranil
+2. Tricyclazole
+3.Hexaconazole
+4. Propiconazole
+MERCURIALS
+Inorganic Organic
+1.Mercuric chloride 1.Ethyl mercury chloride
+Biocontrol agents
+Fungal antagonists Bacterial antagonists
+Trichoderma viride Bacillus subtulis
+T harzianum Agrobacterium radiobacter
+T. polysporum Pseudomonas fluorescens
+Gliocladium virens
+Actinomycetes antagonists Antibiotics
+Streptomyces griseous Aureofungin
+Griseofungin
+CLASSIFICATION OF FUNGICIDES BASED ON METHOD OF APPLICATION
+1. Seed protectants: Ex. Captan, thiram, carbendazim, carboxin etc.
+2. Soil fungicides (preplant): Ex. Bordeaux mixture, copper oxy chloride, Chloropicrin,
+Formaldehyde, Vapam, etc.
+3. Soil fungicides: Ex. Bordeaux mixture, copper oxy chloride, Captan, PCNB, thirametc.
+4. Foliage and blossom: Ex. Capton, ferbam, zineb, mancozeb, chlorothalonil etc.
+5. Fruit protectants: Eg. Captan, maneb, carbendazim, mancozeb etc.
+6. Eradicants: EX. Lime sulphur
+7. Tree wound dressers: Ex. Boreaux paste, chaubattia paste, etc.
+8. General purpose sprays and dust formulations.
+Method of applications:
+1.Broadcaast
+2.Furrow application
+3.Soil drenching
+4.Fumigation
+HOST PLANT RESISTANCE (IMMUNIZATION)
+Advantages of resistant varieties:
+1. Resistant varieties can be the most simple, practical, effective and economical methodof
+plant disease management.
+2.cost effective
+3. do not pollute environment.
+Types of resistance:
+1. Genetical resistance:
+2. Biochemical resistance:
+Host plant resistance is introduced in 3 ways
+1.Selection and Hybridization: Disease tolerant low yielding variety is selected and
+hybridized with high yielding disease intolerant variety to obtain disease tolerant high
+yielding variety.
+2.Genetic engineering and Tissue culture: Genetic changes are done in plants to develop
+virus resistant, insect resistant, herbicide tolerant , disease tolerant, stress resistant, nutrient
+enriched plants.
+3.Induction of Acquired resistance: Due to some microorganisms and chemicals plants
+acquire resistance. When phosphates &carbonates are sprayed on leaves, resistant genes are
+activated.
+4.Spraying of Systemic fungicides and Antibiotics
+IPDM strategy in rice:
+1. Selection of healthy seed
+2. Selection of resistant cultivars
+3. Removal and destruction of collateral hosts
+4. Balanced fertilization
+5. Rouging of diseased plants
+6. Seed treatment with carbendazim or tricyclazole at 2g/Kg seed
+7. Need based foliar application of carbendazim@0.1% or Tricyclazole@0.06% for the
+management of blast.
+8. Need based foliar application of validamycin for the management of sheath blight and
+sheath rot.
+9. Soil application of carbofuran granules or foliar spray of any systemic fungicide is
+to manage insect vectors, thereby decreasing the spread of viral diseases.
+IPDM in sugarcane:
+1. Collection and destruction of infected crop debris
+2. Hot water treatment of setts (520C for 30 min)
+3. Hot air treatment of setts (540C for 2-3 hrs)
+4. Balanced irrigation and fertilization
+5. Avoid selection of seed material from Ratoon crop
+6. Need based spray of systemic insecticides to minimize the spread of viral and
+phytoplasmal diseases
+7. Selection of disease resistant or tolerant cultivars
+Lecture 16& 17
+DISEASES OF RICE (ORYZA SATIVA)
+Blast- Pyricularia oryzae
+Symptoms
+The fungus attacks the crop at all stages from seedlings in nursery to heading in mainfield.
+The typical symptoms appear on leaves, leaf sheath, rachis, nodes and even theglumes.
+Leaf blast: On the leaves, the lesions start as small water soaked bluish green
+specks,soonenlarge and form characteristic spindle shapedspots with grey centre and
+darkbrown margin. The spots join together as the disease progresses and large areas of
+theleaves dry up and wither. Similar spots are also formed on the sheath. Severelyinfected
+nursery and field show a burnt appearance.
+Node blast: In infected nodes, irregular black areas that encircle the nodes can benoticed.
+The affected nodes may break up and all the plant parts above the infectednodes may die
+Neck blast: At the flower emergence, the fungus attacks the peduncle which isengirdled, and
+the lesion turns to brownish-black. This stage of infection is commonlyreferred to as rotten
+neck/neck rot/neck blast/panicle blast. In early neck infection,grain filling does not occur and
+the panicle remains erect like a dead heart caused by astem borer. In the late infection, partial
+grain filling occurs. Small brown to black spotsalso may be observed on glumes of the
+heavily infected panicles.
+Fungus survives on plant residues, seeds, weeds. Air dispersal of pathogen. Fungus grows if
+favourable weather conditions prevail for a week and crop is destroyed. Closer planting, high
+N application favors disease spread. Light rainfall with Min temp 20-220c, 90%RH is
+favorable.
+Management
+Use of seeds from a disease free crop
+Grow resistant varieties like Simhapuri, Tikkana, Sriranga, Phalguna,
+Swarnadhan,Swarnamukhi, MTU 1005, Swathi, IR 64, Sravani,Jaya, Vijaya, Ratna,
+Remove and destroy the weed hosts in the field bunds and channels.
+Split application of nitrogen and judicious application of nitrogenous fertilizers
+Spray the field with Edifenphos@0.1% or Tricyclazole@0.06%
+Brown Spot or Sesame leaf spot - Helminthosporium oryzae
+Symptoms
+The fungus attacks the crop from seedling to milk stage.Symptoms most prominent on leaf
+blade and glumes as spots. several spots coalesce andthe leaf dries up. The seedlings die and
+affected nurseries can often be recognized from adistance by their brownish scorched
+appearance. Dark brown or black spots also appearon glumes. Itcauses failure of seed
+germination, seedling mortality and reduces the grain quality andweight. Deficiency of
+potassium predispose the plants to heavyinfection.
+Management
+Use disease free seeds, Field sanitation.Crop rotation,Adjustment of planting time,
+Proper fertilization, Use of slow release nitrogenous fertilizers is advisable.
+Good water management, Use of soil amendments
+Grow disease tolerant varieties viz., Bala, IR-20, Jaya, Ratna, Tellahamsaand Kakatiya.
+Treat the seeds with Thiram or Captan at 4 g/kg and with Mancozeb @0.3%
+Spray the crop in the main field twice with Mancozeb@0.2%, once after flowering and
+second spray at milky stage.
+Bacterial leaf blight-Xanthomonas oryzae
+Symptoms
+The bacterium induces either wilting of plants or leaf blight. Wilt syndrome known asKresek
+is seen in seedlings within 3-4 weeks after transplanting. The bacteriumenters through the
+hydathodes and cut wounds in the leaf tips, becomes systemic andcause death of entire
+seedling.
+The disease is usually noticed at the time of heading.In grown up plants water soaked,
+translucent lesions appear usually near the leaf margin.The lesions enlarge both in length and
+width with a wavy margin and turn straw yellowwithin a few days, covering the entire leaf.
+Milky or opaque dew drops containing bacterialmasses are formed on young lesions in the
+early morningleaving a white encrustation. The affected grains have discoloured spots
+surrounded by
+water soaked areas. If the cut end of leaf is dipped in water, bacterial ooze makes thewater
+turbid.
+Favourable Conditions
+Clipping of tip of the seedling at the time of transplanting, heavy rain, heavy dew,flooding,
+deep irrigation water, severe wind, temperature of 25-300C and application ofexcessive
+nitrogen,
+Management
+Grow resistant cultivars like MTU 9992, Swarna, Ajaya, IR 20, IR 42, IR 50, IR 54,
+TKM 6, Mashuri, IET 4141, IET 1444, IET 2508, Chinsura Boro, etc.
+Affected stubbles are to be destroyed by burning or through ploughing
+Judicious use of nitrogenous fertilizers
+Avoid clipping of tip of seedling at the time of transplanting.
+Avoid flooded conditions or drying of the field (not at the time of flowering)
+Avoid flow of irrigation water from infected to healthy field
+Remove and destroy weed hosts.
+Soaking seeds for 8 hrs in Agrimycin (0.025%) followed by hot water treatment for 10
+minutes at 52-54oC eradicates the bacterium in the seed
+Spray Streptocycline (250 ppm) along with copper oxychloride (0.3%)
+Sheath blight-Rhizoctonia solani
+Symptoms
+The fungus affects the crop from tillering to heading stage. Initial symptoms are oval or
+elliptical or irregular greenish grey spots on leaf sheaths near water level which coalesce
+causing death of the whole leaf, and in severe cases all the leaves of a plant may be blighted
+in this way. The infection extends to the inner sheaths resulting in death of the entire plant.
+Older plants are highly susceptible. Five to six week old leaf sheaths are highly susceptible.
+Plants heavily infected in the early heading and grain filling growth stages produce poorly
+filled grain, especially in the lower part of the panicle.
+spread through irrigation water. High relative humidity (96-97 per cent), high temperature
+(30-320C), closer planting and heavy doses of nitrogenous fertilizers favor disease.
+Management
+Avoid excess doses of fertilizers.
+Adopt optimum spacing.
+Eliminate weed hosts.
+Apply organic amendments.
+Avoid flow of irrigation water from infected fields to healthy fields.
+Deep ploughing in summer and burning of stubbles.
+Spray Propiconazole@0.1% or Hexaconazole@0.2% or Validamycin@0.2%
+Sheath rot-Sarocladium oryzae
+Symptoms
+Sheath rot occurs usually at the booting stage. Initial symptoms are noticed only on the upper
+most leaf sheath. The flag leaf sheath show oblong or irregular greyish brown spots. The
+young panicles may remain within the sheath or emerge partially. The affected sheath and
+panicles rot and abundant whitish powdery fungal growth is formed inside the leaf sheath.
+The grain discolours and shrivels.
+Favourable Conditions
+Closer planting, high doses of nitrogen, high humidity and temperature around 25-300C.
+Injuries made by leaf folder, brown plant hopper and mites increase infection. Spread
+Mainly through air-borne conidia and also seed-borne.
+Management
+Apply recommended doses of fertilizers.
+Adopt optimum spacing.
+Spray twice with Carbendazim @0.1% or Benomyl@0.05% or Mancozeb@0.2% or
+Chlorothalonil@0.2% at boot leaf stage and 15 days later.
+Soil application of gypsum in 2 equal splits (500 kg/ha) reduces incidence.
+Tungro disease
+Symptoms
+Infection occurs both in the nursery and in the main field. Plants are markedly stunted.
+Leaves show yellow to orange discoloration and interveinal chlorosis. Young leaves are
+often mottled with pale green to whitishinterveinal stripes and the old leaves may have rusty
+streaks of various sizes. The plantsmay be killed if infected early.Tillering is reduced with
+poor root system. The infectedplants have few spikelets and panicles are small with
+discoloured grains. spread by green leaf hoppers.
+Management
+Summer deep ploughing and burning of stubbles.
+Destroy weed hosts of the virus and vectors.
+Grow disease tolerant cultivars like MTU 9992, 1002, 1003, 1005, Suraksha,Vikramarya,
+Bharani, IR 36,vedgiri.
+Control the vectors in the nursery by application of carbofuran granules @170 g/cent,
+10 days after sowing and @10kg/ac in main filed
+Spray Monochrotophos@2.2 ml/lt or Phosphamidan @1ml/lt orEthophenphos@1.5ml/lt or
+Neem oil @3 per cent in the main field 15 and 30 DAT to control leaf hoppers.
+LECTURE 18
+DISEASES OF SORGHUM (SORGHUM BICOLOR)
+Anthracnose or red leaf spot-Colletotrichum graminicola
+Symptoms
+The fungus causes both leaf spot (anthracnose) and stalk rot (red rot) in sorghum. The
+disease appears as small spots on both surfaces of the leaf. The centre of thespot is white in
+colour encircled by red, purple or brown margin. Stalk and inflorescenceinfection can be
+characterized externally by the development of circular cankers. Infectedstem when split
+open shows discoloration.
+Management
+Destruction of infected plant debris and collateral hosts like sudan grass, Johnson grass
+Crop rotation with non-host crops
+Grow resistant varieties like SPV 162, CSV 17, CSH10, SPV475,Texas Milo and Tift sudan
+etc.
+Treat the seeds with Captan or Thiram @3 g/kg.
+Spray the crop with Mancozeb @0.25% or carbendazim@0.1%
+Rust-Puccinia purpurea
+Symptoms
+The fungus affects the crop at all stages of growth. The intensity of rust infection isgenerally
+severe after flag leaf stage . The first symptoms are smallreddish brown flecks on the lower
+surface of the leaf . Pustules appear on both surfaces of leaf as purplish spots . The pustules
+are elliptical andlie between and parallel with the leaf veins. Pustules are surrounded by a
+reddish oryellow halo. In highly susceptible cultivars, the pustules occur so densely that
+almost theentire leaf is destroyed. The pustules may also occur onthe leaf sheaths and on the
+stalks of inflorescence.
+Management
+Grow resistant varieties like CSH 5, SPV 13, 81, 126, PSH 1, CSV 17, etc.
+Remove and destroy the alternate hosts-weeds
+Spray the crop with Mancozeb @0.25%, Dusting of sulphur@25 kg/ha
+Ergot or Sugary disease-Claviceps sorghi or Sphacelia sorghi
+Symptoms
+The disease is confined to individual spikelets. The first symptom is the secretion ofhoney
+dew from infected florets attracting large number of insects and ants which help in spreading
+the disease. Under favourable conditions, grain is replaced by hard black sclerotia. white
+spots can be seen onthe soil surface, denoting the drops of honey dew.
+Management
+Adjust the date of sowing so that the crop does not flower during the periods of high
+rainfall and high humidity.
+Grow resistant varieties like SPV 191, CSH 5, SPH 1 and CS3541.
+Deep summer ploughing
+Soaking seeds with 2% saline solution will aid to remove floating ergot infested seeds.
+Seed treatment with fungicides such as Captan or Thiram@4g/kg seed
+Spray Ziram or Mancozeb @0.2% at emergence of earhead(5-10 per cent flowering stage)
+followed by a spray at 50 per cent flowering and repeatafter a week, if necessary.
+Control of ergot with fungicides such as Propiconazole or Tebuconazole has proved to
+be cost effective in seed production plots.
+Downy Mildew or Leaf shredding-Peronosclerospora sorghi
+Symptoms
+The first few leaves that show symptoms are only partially infected with green or yellow
+colouration. Abundant downy whitish growth is produced on thelower surface of the leaves,
+spreads over a major portion of the uppersurface. As the plant grows, white streaks appear
+on both the surfaces of the leaves. Thetissues then tear along the streaks causing shredding of
+the leaves which is the mostcharacteristic symptom. The tissue then turns brownin colour.
+The affected parts arestunted and sterile. More prevalent in waterlogged soils. affected
+panicle has partially filled or fully unfilled grains.
+Management
+Destroy affected plants by burning before oospore formation reduce the inoculums potential
+Crop rotation with other crops like pulses and oilseeds.
+Grow tolerant varieties like CSH 2, CSV 5, SPV 101, 165 and 190.
+Seed treatment with Metalaxyl @4g/kg seed
+Spray Metalaxyl @0.2% or Mancozeb @0.25%
+Leaf blight or leaf stripe-Exserohilum turcicum
+Symptoms
+The leaf blight pathogen also causes seed rot and seedling blight.Initially diseaseappears in
+the form of small narrow elongated spindle shaped spots later become bigger.On older plants,
+the typical symptoms are long elliptical necrotic lesions, straw colouredin the centre with
+dark margins. Manylesions may develop and coalesce on the leaves, destroying large areas of
+leaf tissue,giving the crop a distinctly burnt appearance leading to premature drying of leaves.
+Management
+Use disease free seeds, Rotation with non susceptible crops
+Collect and destroy infected plant debris,Treat the seeds with Captan or Thiram at 3 g/kg.
+Spray the crop with Mancozeb@0.25% at the age of 40 days and the spraying have to
+be repeated twice at 15 days interval
+Grain smut/Kernel smut/Covered smut/Short smut-Sphacelotheca sorghi
+Symptoms
+The disease becomes apparent only at the time of grain formation in the ear. Theindividual
+grains are replaced by smut sori(covered with white layer which often persist unbroken upto
+threshing)which can be localized at a particular part ofthe head or occur over the entire
+inflorescence. Ratoon crops exhibithigher incidence of disease.temperature below 290c,
+>80%humidity in air favor occurrence of disease
+Management
+Use disease free seeds, Follow crop rotation.sowing before onset of severe cold weather.
+Grow resistant varieties like T 29/1, PJ 7K, PJ 23K, Nandyal and Bilichigan.
+Treat the seed with fine sulphur powder @0.5% or Captan or Thiram @0.3%.
+Collect the smutted ear heads and burn them.
+Lecture 19
+DISEASES OF MAIZE (ZEA MAYS)
+Turcicum Leaf blight- Helminthosporium turcicum
+Symptoms
+Disease is characterized by long elliptical grayish green or tan lesions on the leaves. The
+fungus affects the maizeplant at young stage. The spots coalesce to form bigger spots
+andgives blighted appearance. Lesions may be extended to husk.
+Management
+Crop rotation,
+Spray Mancozeb@0.25%
+Post flowering stalk rot
+Cephalosporium wilt -Cephalosporium acremonium/ C.maydis
+Symptoms
+Infection caused by C. acremonium becomes apparent in doughstage. One of the first
+symptoms is the purpling of leaves and stalks. The mostcharacteristic symptom is the
+restricted blackening of vascular bundles through several internodes in the stalk
+withshredding of the internodal pith region. Barren plants, excessive tillering and multiple
+ears are theother symptoms.
+Symptoms caused by C. maydis appear only after flowering stage and plants start
+wiltingbasipetally giving a dull green appearance of the leaves which later dry up. The
+lowerinternode turns discoloured, become reddish brown, shrunken and soft, and
+subsequentlybecomes dry and hollow. When diseased stalks are split open, reddish brown
+vascularbundles are seen.
+Management
+Crop sanitation, Crop rotation, Avoid water stress at flowering
+Seed treatment with Thiram or captan@3g/kg seed
+Grow resistant varieties like DHM-103, DHM 105, Hi-Starch and Ganga Safed-2.
+Charcoal rot-Macrophomina phaseolina
+Symptoms
+Charcoal rot commonly attacks plants approaching maturity in rabi crops when temperatures
+are high. water soaked lesions on the roots that later turn black. As the plant matures, the
+infectionextends into the lower portions of the stem leading to premature ripening,shredding
+and breaking of thecrown. Split open stalks have numerous black sclerotia giving a charred
+appearance.
+Management
+Field sanitation, crop rotation .Avoid high nitrogen usage and potash deficiency
+Irrigate the crops at the time of earhead emergence to maturity.
+Banded leaf and sheath blight-Rhizoctonia solani
+Symptoms
+Large, discoloured areas alternating with irregular dark bands are typical symptoms of
+thedisease. Severe infection leads to blotching of the leaf sheath as well as leaves.
+Thesymptoms under favourable conditions extend upto silk, glumes and kernels. Symptoms
+also appear on stalk and theinternodes break at the point of infection. High nitrogen, cloudy
+weather, drizzling , high humidity in air, 23-250c temperature favor disease. spread by weeds,
+water and cropresiduesManagement
+Clean cultivation, Destruction of crop debris, Detrashing of leaves near to soil.
+Spray carbendazim or propiconazole@0.1%
+Lecture 20
+DISEASES OF BAJRA OR PEARL MILLET (PENNISETUM TYPHOIDES)
+Downy mildew or Green ear-Sclerospora graminicola
+Symptoms
+The firstsymptoms can appear in seedlings at three to four leaf stage. The affected leaves
+show
+patches of light green to light yellow colour on the upper surface of leaves and
+thecorresponding lower surface bears white downy growth of the fungus.The
+yellowdiscolouration often turns to streaks along veins. The infected plants tiller
+excessivelyand are dwarfed. As the diseaseadvances, the streaks turn brown and the leaves
+shred atthe tips only. Ears fail to form or if formed, they are completely or
+partiallymalformed into twisted green leafy structures; hence the name green ear disease.
+Theinfection converts the various floral parts intogreen linear leafy structures.
+Management
+Selection of seed from healthy crop,Summer deep ploughing,Rogue out infected plants
+Collect diseased plants especially before oospores are formed and burn them.
+Prolonged crop rotation
+Grow resistant varities like WCC 75, PHB 10, ICMH 451 ICTP 8203, Mallikarjuna,
+HB-1, HB 5 and PHB 14
+Grow tolerant varieties like MBH 118, CM 46, Balaji composite, Nagarjuna
+composite, Visakha composite, New vijaya composite, RBS 2, etc.
+Treat the seeds with Metalaxyl @6g/kg or Thiram or Captan@4g/kg.
+Spray Mancozeb@0.25% or Metalaxyl @0.2% starting from 30 days
+after sowing in the field.
+Rust-Puccinia penniseti
+Symptoms
+Symptoms first appear mostly on lower leaves as minute, round raised reddish
+brownpustules. The pustulesmay also be formed on stem and peduncles. In severe infections,
+whole leaf maywither completely presenting a scorched appearance to the field.cool weather
+high humidity in air favor disease spread.
+Management
+Removal and destruction of alternate hosts
+Spray thrice at 15 days interval with Wettable Sulphur@0.3% or Mancozeb@0.2%
+starting from 21 days after planting
+Grow resistant varieties like RT 814-3, PT 826/4, PT 829/5, etc.
+Ergot or Sugary disease-Claviceps fusiformis or C. microcephala
+Symptoms
+Exudation of small droplets of light pinkish or brownish stickyfluid (honey dew) from the
+infected spikelets which trickles onto the upper leaves makingthem sticky. This attracts
+several insects. In the later stages, the infected ovary turns intosmall dark brown sclerotial
+bodies larger than the seed and with a pointed apex whichprotrude from the florets in place of
+grain.Insects and air help in disease spread.
+Management
+Adjust the sowing date so that the crop does not flower during September when high
+rainfall and high relative humidity favour the disease spread.
+Collection of seeds from healthy field. Deep summer ploughing.
+Immerse the seeds in 10 per cent common salt solution and remove the floatingsclerotia.
+Eradication of collateral hosts
+Grow resistant varieties like PHB 10, 14; Co 2, 3 and Bajra 24.
+Spray with Ziram@0.2% or Carbendazim@0.1% or Mancozeb@0.2% at boot leaf and
+flowering stage
+RAGI / FINGER MILLET (Eleusine coracana)
+Blast-Pyricularia grisea
+Symptoms
+Infection may occur at all stages of plant growth. Young seedlings may be blasted orblighted
+in the nursery bed as well as developing young plants in the main field. There arethree stages
+in disease development.
+Leaf blast: It is more severe in tillering phase. Spindleshaped spots on the leaves with gray
+centres surrounded by reddish brown margins.
+Node blast: Infection on stem causes nodes breakat the point of infection. All the parts above
+the infected node die.
+Neck blast: At flowering stage, the neck just below the earhead is affected and turns sooty
+black in colour and usually breaks at this point. In early neck infections, the entire earhead
+becomes chaffy and there is no grain set at all. If grain setting occurs, they are shrivelled
+and reduced in size.
+Management
+Destruction of collateral hosts and infected plant debris
+Spray withCarbendazim@0.2% or Edifenphos@0.1%,
+first spray immediately after symptom appearance and second spray at flowering stage.
+Lecture 21
+DISEASES OF COTTON
+1) Bacterial leaf blight: Xanthomonas campestris pv. malvacearum
+symptoms
+The bacterium attacks all stages from seed to harvest.Seedling blight,Vein
+necrosis,Black arm( breaking of the stem which hang as a dry black twig), Boll rot
+Management
+Remove and destroy the infected plant debris,Rogue out the volunteer cotton plants and
+weeds Delint the cotton seeds with concentrated sulphuric acid at 125ml/kg of seed
+Soak the seeds in 1000 ppm Streptomycin sulphate overnight or treat the seedwith hot
+water at 52-560C for 10-15 minutes
+Spray with Streptomycin sulphate 500 ppm along withCOC@0.3%.
+Grow resistant varieties like HG-9 and Sujatha
+2) Fusarium wilt: Fusarium oxysporum f.sp. vasinfectum
+symptoms
+The disease affects the crop at all stages. Discolouration of young leaves from the
+margins towards midrib, gradually turn brown&dropoff ,Browning or blackening of
+vascular tissues. Black streaks or stripes may be seen extending upwards to the
+branches anddownwards to lateral roots
+Management
+Treat the acid-delinted seeds with Chlorothalonil at 4 g/kg or Carbendazim@2g/kg
+seed
+Remove and burn the infected plant debris in the soil
+Multiply Trichoderma viride (2kg) in 50 kg of FYM for 15 days and then apply to the soil
+Apply heavy doses of FYM or other organic manures at 10 t/ha
+Spot drench with 0.05 per cent Benomyl or Carbendazim.
+Grow disease resistant varieties like Varalakshmi, Vijaya, Pratap, Jayadhar, Jyothi and G
+22
+3) Verticillium wilt: Verticillium dahliae
+symptoms
+The symptoms are seen when the crop is in squares and bolls.
+Leaf margins and areas between veins turn yellowish, necrotic and fall off.
+Infected stem and roots, when split open, show a pinkish brown discolouration (Tiger
+stripe)
+Management
+Treat the delinted seeds with Carboxin@4g/kg or Carbendazim at 2 g/kg
+Remove and destroy the infected plant debris
+Apply heavy doses of FYM or compost at 10t/ha
+Spot drench with 0.05 per cent Benomyl or Carbendazim.
+Grow disease resistant varieties like Sujatha and Suvin
+4) Macrophomina root rot: Rhizoctonia bataticola
+symptoms
+sudden and complete wilting of plants in patches in concentric circles at the time of
+maturity
+rotting of entire root systemexcept tap root and few laterals
+Management
+Apply FYM@100 t/ha or neem cake at 2.5t/ha.
+Treat the seeds with Trichoderma viride @ 4g/kg or Pseudomonas fluorescens@10g/kg of
+seed
+Treat the seeds with Carboxin or Thiram at 4 g or Carbendazim at 2g/kg
+Spot drench with 0.1% Carbendazim or 0.05% Benomyl
+5) Grey/ areolate mildew: Ramularia areola
+symptoms
+The entire leaf surface is covered by white to grey powdery growth
+The affected leaves dry up from margin, turn yellowish brown and fall offprematurely
+Management
+Remove and burn the infected crop residues
+Rogue out the self-sown cotton plants during summer months.
+Avoid excessive application of nitrogenous fertilizers/manures
+Spray twice with Carbendazim@0.1% at weekly intervals
+Grow the resistant varieties like Sujatha and Varalakshmi
+6) Anthracnose: Colletotrichum capsici
+symptoms
+Small reddish circular spots are produced on the cotyledons and primaryleaves
+Girdling of the stem at collar region resulting in death of seedlings. In mature plants,
+stem splitting andshredding of bark.Small water soaked, circular, reddish brown
+depressed spots appear on thebolls which is the characteristic symptom of the disease.
+The infected bolls cease to grow and burst and dry up prematurely
+Management
+Remove and burn the infected plant debris,bolls in the soil and weeds
+Treat the delinted seeds with Carbendazim or Carboxin@2g/kg or Thiram orCaptan at
+4g/kg
+Spray the crop at boll formation stage with Mancozeb@0.25% or COC@0.3% or
+Carbendazim@0.1%
+7) Leaf spots: Alternaria macrospora
+symptoms
+Small brown, round spots surrounded by a purple margin appear on older
+leaves with concentric zonations,Several spots coalesce together to form blighted areas
+under humidconditions
+Management
+Remove and destroy the infected plant residues
+Spray Mancozeb@0.25% or Copper oxychloride@0.3% at the initiation of thedisease.
+8) Rust: Phakopsora gossypii
+symptoms
+Bright yellow orange pustules with purple borders appear under surface ofthe lower
+leaves which eventually turn brown
+Severe infections may cause defoliation and reduction in the size of the bolls
+Management
+Remove and destroy infected plant debris,Spray Mancozeb@0.25%
+DISEASES OF SUGARCANE (SACCHARUM OFFICINARUM)
+Red rot-Colletotrichum falcatum
+Symptoms
+The first external symptoms appear as discolourationof the young leaves. The marginsand
+tips of the leaves wither and the leaves droop. The discolouration and witheringcontinues
+from the tip to the leaf base until the whole crown withers away in four to eightdays.
+Symptoms observed by longitudinally splitting the internodes arereddening of the internal
+tissues. The presence ofcross-wise white patchesinterrupting the reddened tissues are the
+important diagnosticcharacter of the disease. Split open stems emit a characteristic acidic-
+sour odour. As thedisease advances the entire stem rots and the stalk becomes hollow and
+covered withwhite mycelial growth. Later the rind shrinks longitudinally with minute black,
+velvety fruiting bodies protruding out of it.
+Minute red spotsalso appear on the upper surface of leaves and centre of the mid-rib. The
+lesions are initially blood red withdark margins and later on with straw coloured centres.
+Often the infected leaves maybreak at the lesions and hang down, with large number of
+minute black dots. yield and sugar % decreases. Spreads by setts
+Management
+Removal and destruction of infected plant debris, stubbles and trash.
+Deep tillage to incorporate the left over debris.
+Adopt crop rotation by including rice and green manure crops.
+Select the setts from the disease free fields or disease free area.
+Avoid ratooning of the diseased crop.
+Avoid flow of irrigation water from diseased to healthy plants.
+Soak the setts in 0.1% Carbendazim solution for 20 minutes before planting.
+Hot water treatment of setts at 520C for 30 min or 500C for 2 hours followed by
+steeping in 0.1% carbendazim solution.
+Setts can be treated with aerated steam at 520C for 4 to 5 hours and by moist hot air at
+540C for 2 hours.
+Grow resistant varieties like CO 6907, CO 7219, CO 8013, CO 8021, CO 7706, CO A
+7602, CO A 89082, CO A 89085, 87 A 397, CO T 8201, etc.
+Whip Smut-Ustilago scitaminea
+Symptoms
+The affected plants are stunted and the central shoot is converted into a long whip-like,
+dusty black structure. In early stages, this structure is covered by a thin, white papery
+membrane. On maturity it ruptures and millions of tiny black smut spores are liberated and
+disseminated by wind. All the shoots arising from the diseased clump produce whip like
+structures. The primary spread of the disease is through diseased setts ,secondary spread is
+through the smut spores developed in the whips, aided by air . The fungus also survives on
+collateral hosts. Mono-culturing, continuous ratooning and dry weather during tillering stage
+favours the disease.
+Management
+Plant healthy setts taken from disease free area.
+Remove and destroy the smutted clump.
+Discourage ratooning of the diseased crops having more than 10 per cent infection.
+Follow crop rotation with green manure crops or dry fallowing.
+Grow redgram as a companion crop between 2 rows of sugarcane.
+Treat the setts in hot water at 500C for 2 hours.
+Grassy shoot-Phytoplasma
+Symptoms
+The disease symptoms are usually seen two months after planting. The disease
+ischaracterized by the production of numerous lanky tillersfrom the base of the
+affectedshoots. Leavesbecome yellowand narrow. The plantsappear bushyand ‘grass like’
+due to reduction in the length of internodes, premature andcontinuous tillering. The affected
+clumps are stunted and in many instances exhibitpremature proliferation of auxillary buds. In
+a diseased clump one or two thin, weakand small canes are produced.
+Management
+Plant disease free setts.Remove and burn the infected clumps periodically.
+Avoid ratooning in problem areas
+Hot Water Treatment (HWT) of setts at 520C for 30min.
+Control vector by spraying Malathion or Dimethoate@2ml/lt
+Lecture 22
+DISEASES OF GROUND NUT (Arachis hypogea)
+Tikka leaf spots
+Early leaf spot: Cercospora arachidicola Late leaf spot: Phaeoisariopsis personata
+Symptoms
+The tikka disease occurs as two types of leaf spots, caused by two species ofCercosporidium.
+Early leaf spot : Symptoms usually appear within 35 DAS on the leaflets as elongated,
+elliptical spots withdefinite border. The leaf spots areirregularly circular , reddish brown or
+dark brown on the uppersurface and are surrounded by a bright yellow halo. On the under
+surface, spots are lightbrown to tan coloured. Several spots coalesce and result in drying of
+the leaves.
+Late leaf spot : Leaf spots appearafter 35 DAS.The spots on leaves are circular with bright
+yellow halo aroundmature spots, usually darker than early leaf spots. On the under surface of
+the leaves thehalo is not seen. Severely diseased leaves dry up and results inheavy
+defoliation.
+Loss ofphotosynthetic tissue leads to reduction in yield and quality of nuts.
+Favourable Conditions
+Prolonged high relative humidity for 3 days, low temperature (25-300C) with dew on leaf
+surface, heavy doses of nitrogen and phosphorus fertilizers and deficiency of magnesium
+in soil favours the disease. Air dispersal
+Management
+Remove and destroy the infected plant debris.
+Eradicate the volunteer groundnut plants.
+Crop rotation with millets. Avoid mono cropping
+Treat the seeds with Captan or Thiram at 4g/kg or Carbendazim@0.2%
+Spray Carbendazim@0.1% or Mancozeb@0.2% or Chlorothalonil@0.2% and if
+necessary, repeat after 15 days.
+Grow resistant varieties like Vemana(early and late leaf spots), Naveen, Tirupathi-3
+(early leaf spot only).
+Rust-Puccinia arachidis
+Symptoms
+The disease is usually found when theplants are about 6 weeks old. Small, minute pale yellow
+to light brown pustulesappear on the lower surface of leaves. Corresponding to the uredosori,
+small, necrotic, brown spots appear on the uppersurface of leaves. The rust pustules may be
+seen on petioles and stem. In severe infectionlower leaves dry and drop prematurely. The
+severe infection leads to production of smalland shriveled seeds.
+Management
+Avoid mono-culturing of groundnut.
+Remove volunteer groundnut plants and collateral hosts.
+Spray Chlorothalonil or Tridemorph@0.2%.
+Bud necrosis -Tomato spotted wilt virus
+Symptoms
+First symptoms are visible 2-6 weeks after sowing as ring spots on leaves. Stem also exhibits
+necrotic streaks. As the plant matures, itbecomes generally stunted with short internodes and
+short auxillary shoots. Leafletsformed on these auxillary shoots show a wide range of
+symptoms including reduction insize, distortion of the lamina, mosaic mottling and general
+chlorosis. In advancedconditions, the necrosis of bud occurs. Drastic reduction in flowering
+is noticed andseeds produced are abnormally small and wrinkled with the dark black lesions
+on the
+testa and reduced germination capacity.The virus is transmitted by thrips. Early sown crop
+(first half of june) shows lower incidence of PBND than late sowncrop (late June)
+Management
+Uprooting and burning of diseased plants.
+Grow resistant varieties like Kadiri 3, Kadiri 4, Vemana, ICGS-11, etc.
+Maintain optimum plant population and adopt spacing of 15x15cm
+Intercropping with Bajra.
+Spray monochrotophos@1.6ml/lt or dimethoate@2ml/lt for vector control
+LECTURE 23
+DISEASES OF CASTOR (RICINUS COMMUNIS)
+Wilt-Fusarium oxysporum f.sp. ricini
+Symptoms
+The disease appears in patches. Plants are attacked at all growth stages. When seedlings
+are attacked, cotyledonary leaves turn to dull green colour, wither and die.
+Necrosis of leaves starts from margins spreadingto interveinal areas and later to the entire
+leaf. All lower leaves droop and dropoff. Subsequently plants die. Sometimes
+superficial cracks are noticed onthe stem. Split open stems show brownish discolouration and
+white cottony mycelia growth much prominently in the pith region. The fungus is seed borne.
+Management
+Select disease free seeds for planting. Rain water should not stand in field.
+Rogue out and burn disease affected plants and crop debris regularly
+Follow crop rotation for 2-3 years with non-host plants like pearl millet, finger millet
+or other cereals. tolerant varieties-Jyoti, GCH4, Jwala
+Follow intercropping with redgram
+Seed treatment with Thiram@3g/kg seed.
+Multiplication of 2 kg T. viride formulation by mixing in 50 kg FYM. Sprinkle water
+and cover with polythene sheet for 15 days and then apply between rows of the crop.
+Cultivate wilt resistant varieties, viz., Jyothi, Jwalaand hybrids, viz., DCH 32, DCH
+177, DCH 519, GCH 4, GCH 5 and GCH 6.
+Root rot/Charcoal rot-Macrophomina phaseolina
+Symptoms
+Sudden wilting of plants in patches under high soil moisture stress coupled with high soil
+temperatures is a common symptom. Within a
+week, the leaves and petiole droop down and within a fortnight the infected plants dry up.
+Dark brown lesions are seen on the stem near the ground level. The taproot shows signs of
+drying and root bark sheds off easily. Fruiting bodies (pycnidia) of the fungus are seen as
+minute black dots on woody tissues and in pith region. In severe infection entire branch or
+top of the branch withers away. Such branches die-back. Diseased plants flower prematurely.
+Incidence atmaturity causes spike blight. Seed development is affected.
+Management
+Burn crop debris containing the sclerotia of the fungus.
+Seed treatment with Trichoderma viride@4g/kg seed or carbendazim@1g/kg seed.
+Crop rotation with cereals
+Provide irrigation at critical stages of crop growth
+Soil drenching with carbendazim@0.1%, 2-3 times at 15 days interval.
+Grow tolerant and resistant varieties / hybrids like Jwala, GCH-4, and GCH-6.
+Grey mold/Grey rot/Blossom blight-Botrytis ricini
+Symptoms
+Symptoms of the disease can be seen on leaves, stem, flowers and capsules, beingprominent
+on spikes. Initially water soaked lesions form on the male flowers at the base ofthe spike.
+These flowers rot and are covered by grey coloured fungal growth. Subsequently the disease
+spreads upward infecting all flowers and capsuleswhich are covered by the fungus thereby
+involving the entire spike. This is followed bydevelopment of cottony white growth which
+later converts into grey colour due tosporulation. The infected capsules rot.
+Management
+Adjust sowing time in such a way that crop maturation occurs during dry season
+Adopt wider spacing (90 x 60cm), Remove diseased spikes and destroy them
+Grow varieties like Jwala with non-spiny capsules and less compact inflorescence.
+Seed treatment with carbendazim@3g/kg
+Spray carbendazim / Thiophanate methyl @0.1% before the onset of cyclonic rains
+based on weather forecast followed by second spray soon after rains have receded.
+Application of 20kg urea and 10kg of murate of potash after removal of diseased
+panicles may be useful for the growth of panicles that subsequently develop.
+LECTURE 24
+DISEASES OF GINGELLY (SESAMUM INDICUM)
+Alternaria leaf spot-Alternaria sesami
+Symptoms
+Initially small, circular, reddish brown spots (1-8mm) appear on leaves which enlargelater
+and cover large area with concentric rings.The lower surface of the spots are grayish brown in
+colour. In severe blighting defoliation occurs. Dark brown lesions can also beseen on
+petioles, stem and capsules. Infection of capsules results in premature splittingwith shriveled
+seeds.
+Management
+Resistant varieties-TC16, SI 156
+Treat the seeds with Captan or Thiram@0.25%
+Spray twice with Mancozeb@0.25% or Thiophanate methyl@0.25% orCarbendazim@0.1%
+Powdery mildew-Leveillula taurica
+Symptoms
+Initially greyish-white powdery growth appears on the upper surface of leaves. Whenseveral
+spots coalesce, the entire leaf surface may be covered with powdery coating. Insevere cases,
+the infection may be seen on the flowers and young capsules, leading topremature shedding.
+The severely affected leaves may be twisted and malformed. Seen in mid Aug when crop is
+45-50 days old.
+Management
+Remove the infected plant debris and destroy.
+Spray Wettable sulphur@0.2% or dust Sulphur at 25 kg/ha and repeat after 15 days.
+Grow resistant varieties like Rajeshwari, SI-1926, KRR-2, etc.
+Phyllody-Phytoplasma
+Symptoms
+The disease manifests itself mostly during flowering stage, where the floral parts
+aretransformed into green leafy structures, which grow profusely. The plants bear cluster
+ofleaves andmalformed flowers at the tip. The flower is rendered sterile. The plant is stunted
+andabnormal branching gives a bushy appearance. The infected plants generally do not
+bearcapsules, if formed they do not yield quality seeds.
+Management
+Remove all the reservoir and weed hosts.Delay sowing.
+Resistant varieties-Rajeswari, chandana, hima,YLM66
+Avoid growing sesamum near cotton, groundnut and grain legumes.
+Rogue out the infected plants periodically.
+Spray 2-3 times with Monocrotophos (0.03%) or Dimethoate@0.2% at flowering stage
+reduces the vector population.
+Root rot or stem rot or charcoal rot-Macrophomina phaseolina
+Symptoms
+The disease symptom starts as yellowing of lower leaves, followed by drooping
+anddefoliation. The stem portion near the ground level shows dark brown lesions and bark
+atthe collar region shows shredding. The sudden death of plants is seen in patches.The stem
+portion can be easily pulled out leaving the rotten root portion in thesoil. The infection when
+spreads to pods, they open prematurely and immature seedsbecome shrivelled and black in
+colour.
+Management
+Treat the seeds with Trichoderma viride at 4g/kg or Pseudomonas fluorescens 10 g/kg
+or treat the seeds with carbendazim@0.1% or Thiram at 4g/kg.
+Apply FYM or green leaf manure at 10t/ha or neem cake 250 kg/ha.
+Spot drench with Carbendazim at 0.5 g/liter.
+Intercropping sesame with moth bean at 1:1 ratio is effective in managing the disease.
+Soil solarization with transparent polythene mulch of 50μ for 6 weeks during hot
+summer after ploughing and irrigation
+Bacterial leaf spot-Pseudomonas sasami or Ralstonia syringae pv. sesami
+Symptoms
+The disease appears as watersoakedyellow specks on the upper surface of the leaves. They
+enlarge and becomeangular as restricted by veins and veinlets.The colour of spot may be dark
+brown topurple with shiny oozes of bacterial masses. Under high rainfall or high humid
+conditionsspots coalesce and ultimately defoliation occurs.
+Management
+Keep the field free of infected plant debris.Seed treatment with hot water at 520C for 10
+minutes.
+Steep the seed in Agrimycin 100 (250 ppm) or streptocycline (0.055) for 30minutes.
+Spray twice with Streptomycin sulphate or Oxy-tetracycline hydrochloride at 100g/ha
+at 15 days interval.
+LECTURE 25
+DISEASES OF SUNFLOWER (HELIANTHUS ANNUUS)
+Leaf blight-Alternaria helianthi
+Symptoms
+The fungus produces brown,circular to oval spots on the leaves, but the spots can also be
+seenon thestem, sepals and petals. The spots are often surrounded by achlorotic zone with
+necrotic center. The spots later enlarge in size with concentric ringsand become irregular in
+shape. Under high atmospheric humidity, several spots coalesceto show bigger irregular
+lesions leading to drying and defoliation. The disease sometimescause rotting of flower heads
+and affects the quality of seeds by reducing the germinationpercentage.
+Management
+Remove and destroy infected plant debris.
+Rogue out weeds at periodical intervals.
+Treat the seeds with Thiram or Carbendazim at 3 g/kg.
+Spray twice or thrice with zineb or Mancozeb at 0.2% or carbendazim@0.1% at 10
+days interval starting from first appearance of the disease or 35 DAS.
+Rust-Puccinia helianthi
+Symptoms
+Small, reddish brown pustules appear on the lowersurface of bottom leaves. Infection later
+spreads to other leaves and even to the greenparts of the head. In severe infection
+leavesbecome yellow and dry.
+Management
+Remove and burn the infected plant debris in the field.
+Remove the volunteer sunflower plants.Crop rotation for 3 years
+Grow tolerant variety like BSH-1.
+Spray Mancozeb or Zineb@0.2%, 2-3 times at 10 days interval. The first spray should
+be given as soon as the disease is noticed or 35 DAS.
+Downy mildewPlasmopara halstedii
+Symptoms
+Various kinds of symptoms are being produced by the pathogen like damping off,systemic
+infection, local lesions and basal rot or stem gall etc. In systemic infectionsplants are severely
+stunted. Chlorosis starts through midribs causing ultimatelyabnormally thick, down ward
+curled leaves that show prominent yellow and greenepiphyllous mottling. A hypophyllous
+downy growth of the fungus develops.Flower heads of affected plants remain sterile. Local
+foliar lesion symptoms arecharacterized by small angular greenish yellow spots on leaves.
+Development of basal gallsymptoms occur independently of the infection that results in
+systemic infection. In
+infected plants flower heads are erect.
+Management
+Follow spacing of 60x30cm or 45x30cm,Rogue out infected plants and destroy
+Cropping sequence of sunflower followed by groundnut reduces the disease.
+Seed treatment with Metalaxyl@0.6% followed by foliar spray with
+Metalaxyl@0.2% is effective.
+Hybrids like LSH-1, LSH-3, KBSH-1, Jwalamukhi, etc had high degree of resistance.
+Sclerotial wilt/Collar rot-Sclerotium rolfsii
+Symptoms
+Initial symptoms of the disease appear 40 days after sowing. Infected plants can be
+spotted from a distance by their sickly appearance, later the entire plant withers and dies.
+White cottony mycelium and mustard seed sized sclerotial bodies are formed on the
+affected stem near soil level. Alternate periods of high soil moisture and water stress
+conditions favor the disease.
+Management
+Collection and destruction of plant debris
+Seed treatment with captan or carboxin@0.3%
+Drench the base of the plant with cheshunt compound@0.3%
+Addition of soil amendments like oat straw and finely grounded castor and neem cakes
+reduces disease incidence.
+Use of antagonistic fungi such as T. harzianum.
+Lecture 26
+Redgram
+Wilt-Fusarium oxysporum f. sp. udum
+Symptoms
+The diseases may appear from early stages of plant growth (4-6 week old plant)
+uptoflowering and podding. Patches of dead plants in the field when the crop is flowering
+orpodding are the first indications of wilt. The most characteristic symptom is a purpleband
+extending upwards from the base of the main stem. Vascular tissues exhibit
+browndiscolouration in the region of purple band. Partial wilting of the plant associated with
+infection of lateral roots is a definiteindication of Fusarium wilt and distinguishes from
+Phytophthora blight that kills the whole plant due totap root infection.
+Management
+Follow crop rotation with tobacco, sorghum or castor. deep summer ploughing.
+Avoid successive cultivation of redgram in the same field.
+Adopt mixed cropping of sorghum in the field.
+Avoid waterlogged soils.
+Soil solarization in summer to reduce the inoculum of pathogen.
+Collect and destroy the diseased stubbles.
+Grow resistant / tolerant varieties like Asha (ICPL 87119), Maruti (ICP 8863),
+Lakshmi (ICPL 85063), Durga (ICPL 84031), PRG 100, PRG 158, Muktha, Prabhat
+and Sharada.
+Seed treatment with Thiram @0.3% or Carbendazim @0.2%
+Treat the seeds with Trichoderma viride at 4 g/kg.
+Multiply 2 Kg T. viride formulation in 50 kg of FYM and apply to soil.
+Phytophthora blight / Stem blight-Phytophthora drechsleri f. sp. cajani
+Symptoms
+Phytophthora blight resembles damping off in that it causes seedlings to die
+suddenly.Infected plants have water soaked lesions on their leaves and brown to black,
+slightlysunken lesions on their stems and petioles. Infected leaves loose turgidity, and
+becomedesiccated. Lesions girdle the affected main stems or branches which break at this
+pointand foliage above the lesion dries up. When conditions favour the pathogen, it is
+commonfor many plants to die. Pigeonpea plants that are infected by blight, but not killed
+oftenproduce large galls on their stems especially at the edges of the lesions. The
+pathogeninfects the foliage and stems but not the root system.
+Soils with poor drainage,low lying areas, heavy rain during July-September favours the
+disease.Pigeonpeas are usually not infected after they are 60 days old.
+Management
+Avoid sowing redgram in fields with low-lying patches that are prone to water logging.
+Adjust the sowing time so that crop growth should not coincide with heavy rainfall.
+Grow resistant varieties like BDN 1, ICPL 150, ICPL 288, ICPL 304, KPBR 80-1-4.
+Seed treatment with 4g Trichoderma viride formulation + 6g metalaxyl (Apron 35SD)per
+kgseedSpray Metalaxyl (Ridomyl MZ) at 0.2%.
+Sterility Mosaic-Sterility mosaic virus
+Symptoms
+The disease attack can be seen in all stages of crop growth. Plants appear as bushy, pale
+green without flowers or pods. Leaves are small and show mosaic pattern, vein-clearing. In
+severe cases, leaves become smaller andcluster near tip because of shortened internodes and
+stimulation of auxillary buds. Theplants are generally stunted and do not produce pod. Plants
+infected at early stages (upto45 days) show near complete sterility. Asplants become older
+(after 45 days), their susceptibility to the disease decreases and suchplants show partial
+sterility. If pods develop, the seeds may be small, shrivelled andimmature.
+Management
+Rogue out infected plants in early stages of disease development
+Grow tolerant genotypes like ICPL 87119 (Asha), ICPL 227, Jagruti and Bahar
+Spray Dicofol 3ml or Sulphur 3g in one liter of water to control mite vector in earlystages of
+disease development
+Bacterial leaf spot and stem canker-Xanthomonas campestris pv. cajani
+Symptoms
+Leaf infection can occur at all stages of plant growth, stem infection usually occurs in
+younger plants. In India the disease usually appears in the rainy season during July
+andAugust. It can be seen on lower leaves of plants that are about one month old as
+smallnecrotic spotssurrounded by bright yellow halos. Later, rough, raised,
+cankerouslesionsappear on the stem. Cankers can cause stemsto break, but the broken part
+usually attaches to the plant. Stems often break at the pointwhere the primary leaves are
+attached. Often, the affected plants do not break, and thestem cankers increase in size until
+they are 15-25 cm long. In cases of severe infection theaffected branches dry.
+Management
+Remove the infected plant debris and destroy.
+Spray antibiotics like Streptocycline@100ppm, 2-3 times at 10 days interval.
+Lecture 27
+BLACK GRAM (Vigna mungo)and GREEN GRAM (Vigna radiata)
+Powdery mildew-Erysiphe polygoni
+Symptoms
+Small, irregular powdery spots appear on the upper surface of the leaves. These
+spotsgradually increase in size and become circular covering the lower surface also. When
+theinfection is severe, both surfaces of the leaf are completely covered by whitish
+powderygrowth. In severe infections, foliage becomes yellow causing premature defoliation.
+Thedisease becomes severe during flowering and pod development stage. The white
+powderyspots completely cover the petioles, stem and even the pods. Often pods are
+malformed and small with few ill-filled seeds. Thedisease causes forced maturity of infected
+plants which results in heavy yield losses.
+Management
+Remove and destroy infected plant debris.
+Spray twice with Carbendazim or Thiophanate methyl or Tridemorph @0.1%, one
+immediately after disease appearance and the second after 15 days.
+Grow tolerant black gram cultivar like Krishnayya,LBG623,TM962and green gram cultivars
+like
+JGUM 1, TARM 1, Pusa 9072, WGG 48 and WGG 62.
+Rust-Uromyces phaseoli typica
+Symptoms
+The disease is mostly seen on leaves,rarely on petioles, stem and pods. The fungus produces
+small, round, reddish brownuredosori mostly on lower surface. They may appear in groups
+and several sori coalesceto cover a large area of the lamina. In the late season, teliosori
+appear on the leaves whichare linear and dark brown in colour. Intense pustule formation
+causes drying and sheddingof leaves.
+Management
+Remove and destroy the infected plant debris.
+Spray Mancozeb@0.3% or Tridemorph@0.1% or Wettable sulfur@0.3%, immediatelyon the
+set of disease and repeat after 15 days.
+Grow tolerant black gram cultivar like LBG 648.
+Cercospora leaf spot-Cercospora canescens
+Symptoms
+Small, circular spots develop on the leaves with grey centre and reddish brown margin.
+The several spots coalesce to form brown irregular lesions. Under favourable
+conditions, severe leaf spotting and defoliation occurs at the time offlowering and pod
+formation. The brown lesions may be seen on petioles, branches andpods in severe cases.
+Powdery growth of the fungus may be seen on the centre of thespots.
+Management
+Remove and burn infected plant debris.
+Spray Mancozeb@0.25% or Carbendazim@0.1%
+Grow tolerant black gram varieties like UG 135,TPU 4,TPU 5,TPU 11,TPU 12,AKU 4 and
+SP 21.
+Corynespora leaf spot-Corynespora cassicola
+Symptoms
+when the crop reaches flowering stage lesions begin asdark reddish brown circular
+spotsusually on the upper leaf surface. They expandwith marked, narrow concentric
+bandingto become larger spots. The concentric ringsare made up of dead tissue. In advanced
+stages, the spots coalesce to form patches andshotholingand severe defoliation.Yields
+decrease drastically.
+Management
+Remove and burn infected plant debris.
+Spray Mancozeb@0.25% or Carbendazim@0.1%
+Grow tolerant black gram varieties like LBG 167.
+Dry root rot-Rhizoctonia bataticola
+Symptoms
+symptom starts with yellowing and drooping of the leaves. Theleaves later fall off and the
+plant dies within week. Dark brown lesions are seen on thestem at ground level and bark
+shows shredding symptom. The affected plants can beeasily pulled out leaving dried, rotten
+root portions in the ground.
+Management
+Treat the seeds with Carbendazim or Thiram at 4 g/kg or pellet the seeds withTrichoderma
+viride at 4 g/kg or Pseudonomas fluorescens @ 10g/kg of seed.
+Apply FYM or green leaf manure (Gliricidia maculate) at 10 t/ha orneemcake at 250 kg/ha.
+Bacterial leaf spot-Xanthomonas phaseoli
+Symptoms
+The spots first appearas superficial eruptions and gradually invade the tissues giving corky
+or roughappearance. When the disease is severe spots coalesce and leaves turn yellow and
+fall off
+prematurely. The lower surface of the leaf appears red in colour due to the formation of
+raised spots. The stem and pods also get infected.
+Management
+Grow tolerant green gram varieties like LGG 407, LGG 444, JAL 781, NDM 88-14
+and ML 537.
+Soak the seed in 500 ppm streptocycline solution for 30 minutes before sowing.
+Spray twice with paushamycin or plantomycin 100 mg in combination with 3 g of
+COC per liter at an interval of 12 days.
+Yellow mosaic-Mungbean yellow mosaic virus
+Symptoms
+Initially small yellow patches or spots appear on young leaves. The next trifoliate leaves
+emerging from the growing apex show irregular yellow and green patches alternating with
+each other. The yellow discoloration slowly increases and newly formed leaves may
+completely turn yellow. Infected leaves also show necrotic symptoms. The infected plants
+normally mature late and bear a very few flowers and pods. The pods are small and
+distorted. The early infection causes death of the plant before seed set.
+Management
+Rogue out the diseased plants upto 40 DAS
+Remove the weed hosts periodically.
+Increase the seed rate (25 kg/ha).
+Grow resistant black gram varieties like Teja,T-9, PU31, LBG 752, Pant-30 and Pant-90.
+Grow resistant green gram varieties like LGG 407,LGG 460,WGG37 and ML 267.
+Cultivate the crop during rabi season.
+Follow mixed cropping by growing two rows of maize (60 x 30 cm) or sorghum (45 x15 cm)
+for every 15 rows of black gram or green gram.
+Grow seven rows of sorghum as border crop
+Treat seeds with Imidacloprid 70 WS @ 5ml/kg to control vector(whitefly).
+Give one foliar spray of systemic insecticide (Dimethoate @ 750 ml/ha) on 30 DAS.
+Lecture 28
+BENGAL GRAM (Cicer arietinum)
+Wilt-Fusarium oxysporum f.sp. ciceri
+Symptoms
+The disease occurs at two stages of crop growth, seedling stage and flowering stage. The field
+symptoms of wilt are death of seedlings or adult plants in patches.Seedlings collapse and lie
+flat on the ground retaining their dull green colour. When splitopen or cut transversely, brown
+to black discolouration of the internal tissues can be seen.Grown up plants show typical
+symptoms of wilting, i.e., drooping of petioles, rachis andleaflets. All the leaves turn yellow
+and then light brown. Vascular discolourationisobserved on longitudinal splitting of stem.
+Sometimes only a few branches are affected,resulting in partial wilt.
+Management
+Treat the seeds with Carbendazim or Thiram at 2 g/kg or treat the seeds withTrichoderma
+viride at 4 g/kg or Pseudonomas fluorescens @ 10g/kg of seed.
+Apply heavy doses of organic manure or green manure.Follow 6-year crop rotation with non-
+host crops.Grow resistant cultures like Kranthi(ICCC 37), Swetha(ICCV-2), ICCV
+10,Avrodhi, G 24, C 214, BG 244, Pusa 212 and JG 315.
+Ascochyta blight-Ascochyta rabiei
+Symptoms
+The disease is usually seen aroundflowering and podding time as patches of blighted plants in
+the field. On leaves, smallwater-soaked necrotic spots appear that enlarge rapidly under
+favourable conditionsleading to blighting of leaves. Pycnidia are observed on the blighted
+parts. On leaflets, the lesions are round or elongated, with grey centres surrounded
+bybrownish margin. similar spots on the stemand pods have pycnidia arranged in concentric
+circles as minute black dots. The stemand petioles usually break at the point of infection due
+to girdling. If the main stem isgirdled at the collar region, the whole plant dies.
+Management
+Grow resistant/tolerant varieties like Gaurav, C 235, G 543, GG 588, GG 688, BG 261
+and GNJ 214.
+Remove and destroy the infected plant debris in the field.
+Follow crop rotation with cereals.
+Deep sowing of seeds, i.e., 15cm or deeper.
+Intercropping with wheat, barley and mustard.
+Treat the seeds with Thiram 2g or Carbendazim 2 g /kg.
+Exposure of seed at 40-50 C reduced the survival of A. rabiei by about 40-70 per cent.
+0
+Spray with Carbendazim@0.1% or Chlorothalonil@0.3%.
+Lecture 29,30,31
+CITRUS
+1) Gummosis: Phytophthora palmivora
+Symptoms
+Disease starts as water soaked large patches on the basal portions of the stem nearthe ground
+level.First symptoms are dark staining of bark which progresses into the wood.Bark in such
+parts dries, cracksin lengthwise verticalstrips.Bark at the base is destroyed resulting in
+girdling and finally death of the tree.Later profuse exudation of gum from the bark of the
+trunk occurs. Infection extends to crown roots.Prior to death, plant usually blossoms heavily
+and dies before the fruitsmature. more in heavy soils with improper drainage, frequent
+irrigations, standing water at base of trunk
+Management
+Preventive measures:
+Selection of proper site with adequate drainage and high budding (30 to 46 cm orabove).
+Double ring method of irrigation.
+Avoid irrigation water from coming in direct contact with the trunk.
+Avoid injuries to crown roots or base of stem during cultural operations.
+Use resistant sour orange rootstocks for propagating economic varieties(jambheri)
+Painting Bordeaux paste or with ZnSO4, CuSO4, lime (5:1:4) to a height of about
+60 cm above the ground level at least once a year.
+Curative measures:
+Scrape the diseased portion with a sharp knife.
+Protect the cut surface with Bordeaux paste followed by spraying of Bavistin 1g/l reduces the
+spread.
+Soil drenching with 0.2% metalaxyl and 0.5% Trichoderma viride commercial
+formulation is also effective.
+2) Tristeza or quick decline: Citrus Tristeza Virus (CTV)
+Symptoms:Tristeza affected trees look chlorotic and sickly in the early stages. Gradually
+theleaves drop and the defoliated twigs show die-back. such trees diegradually butsometimes
+healthy trees die suddenly.Vein clearing in young leaves of acidlime is seen when viewed
+against light (characteristic symptom).In sweet orange, the specific symptom is
+honeycombing, fine pits on bark in the portion of trunk below the bud union. Diseased trees
+usually blossom heavily. Trees with stem pitting are stunted andset less fruits. The fruits are
+of smaller size and of poor quality. Asthe fruits develop, the tree wilts partly or completely.It
+is transmitted by the aphid and cuscuta. The virus is not seedborne.
+Management:
+For A.P, Maharashtra and Karnataka, Rangapur lime isrecommended as a root stock
+resistant to Tristeza. Periodic sprays of insecticides like Monocrotophos 0.05 % reduce s
+thesecondary spread of the disease in the orchard.
+Citrus canker: Xanthomonas axonopodis pv. citri
+Acid lime is highly susceptible to canker.
+Symptoms:
+symptoms are most conspicuous on leaves, twigs and fruits. The lesions appear as minute
+water soaked round, yellow spots which enlarge slightly and turn brown, eruptive and
+corky.Canker lesions on the fruit do not possess the yellow halo as on leaves. Several lesions
+on fruit may coalesce to form a patch. The market value of the fruits is reduced by the canker
+spots. In severe infection defoliation and die-back symptoms seen. Citrus leaf miners
+(Phyllocnistis citrella) helps in the dissemination of the pathogen. Spread by rain splashes.
+Management
+Prune out and burn all canker infected twigs before monsoon
+Use canker tolerant varieties like “Tenali selection” and “Balaji”
+Select seedlings free from canker for planting in main field
+Spray Streptocycline (1g) + Copper oxy chloride (30g) in 10 litres of water in citrus nurseries
+and in main fieldfor leaf canker &Fruit infection
+Control leaf miner when young flush is produced.
+Zinc deficiency: More in alkaline soils. Symptoms seen in young leaves. Interveinal
+chlorosis, reduction in leaf size, reduction in length of branches, drying of branches also.
+Young leaves become bushy and erect. If soil PH is >6.0 zinc in the soil becomes unavailable
+to plants. Therefore application of zinc to such soils is not of use. Spray 0.2% ZnSo4 on
+young leaves. Ziram 0.2% also can be used to correct deficiency.
+Iron deficiency: small veins in the leaf remain green and leaves turn yellow/white.No
+reduction in leaf size. Iron deficiency is seen if calcium is more in soil and in high
+P,Zn,Cu,Mn conditions.Spray Annabhedi 0.25%+0.1%citric acid to correct iron deficiency.
+LECTURE 32
+Mango
+1. Powdery mildew: Oidium mangiferae (Eyrsiphe polygoni)
+Symptoms:
+Generally the infection recognized by whitish or grayish powdery growth starts from the
+inflorescence and spreads downwardscovering the floral axis, tender leaves and stem. Leaves
+become twistedand defoliate.Infected floral parts are severely damaged and drop off. If the fruits
+are set, theydo not grow in size and may drop before attaining pea size. Fruits are
+sometimesmalformed, discolored due to severeattack.cloudy weather,high humidity, low night
+temperature spread disease. Air dispersal.
+Management
+Can be controlled with two preventive sprays with wettable sulphur 0.3% once beforethe flowers
+open and 2 after the fruit set.
+nd
+Dusting twice or thrice with fine sulphur will check the disease.
+Spraying with Karathane 0.1% before flowering and after fruit set(peanut stage).
+Resistant varieties: Neelum, Zardalu, Banglora, Torapari-khurd and Janardhan pasand
+DISEASES OF GRAPE
+1. Powdery mildew: Uncinula necator (I.S: Oidium tuckeri)
+Symptoms
+Early berry infection results in shedding of affected berries.Powdery growth is visible on
+older berries and the infection results in the cracking of skin of the berries. Floral infection
+results in shedding of flowers and poor fruit set.Powdery growth on both surface of the
+leaves- curling. Management
+Clean cultivation of vines or removal and destruction of all diseased parts
+Spray wettable sulphur @0.3% or karathane or calixin @0.1%
+Downy mildew: Plasmopara viticola
+Symptoms
+Irregular, yellowish, translucent spots on the upper surface of the leaves correspondingly on
+the lower surface, dirty white, powdery growth of fungus appears.Premature
+defoliation.Dwarfing of tender shoots.hite growth of fungus on berries which subsequently
+becomes leathery and
+shrivels. Infected berries turn hard, bluish green and then brown. Later infection of berries
+results in soft rot symptoms. Normally, the fully grown or maturing berries do not contact
+fresh infection as stomata turn non-functional. No cracking of the skin of the berries.
+Optimum temperature : 20-22°C,Relative humidity : 80-100 per cent
+Management
+Collect and burn fallen leaves and twigs
+Sanitation of the orchard
+Vine should be kept high above ground to allow circulation of air by proper spacing
+Pruning (April- may & Sep- Oct) and burning of infected twigs
+Grow resistant varieties like Amber Queen, Champa, Champion, Red Sultana
+The disease can be effectively managed by giving 3-5 prophylactic sprays with 1%
+B.M or metalaxyl + mancozeb 0.3 to 0.4% or Azoxystrobin
+Anthracnose / Birds eye disease: Elsinoe ampelina
+It is especially serious on new sprouts during rainy season. Occur from June to October
+Symptoms
+Young shoots and fruits are more susceptible than leaves. Circular, greyish black spots or red
+spots with yellow halo appear.Later the centre of the spot becomes grey, sunken and fall off
+resulting in ‘shot hole’. Black, sunken lesions appear on young shoots.Cankerous lesions on
+older shoots. Girdling and death of shoots occur.Infection on the stalk of bunches and berries
+result in the shedding of bunches and berries respectively. Sunken spots with ashy grey centre
+and dark margin on fruits (Birds eye symptom). Mummification and shedding of berries.
+No infection can take place in the absence of rain. Wind associated with warm atmosphere
+(temp.) and heavy rains favour the disease spread. More in Low lying and badly drained soils.
+Anab-e-shahi is susceptible.
+Management
+Removal of infected twigs
+Selection of cuttings from disease free areas and dipping them in 3% FeSO
+4
+solution for ½ an hour before planting.
+Spraying Bordeaux mixture 1% or COC@ 0.2% or carbendazim@0.1%.
+Lecture33
+DISEASES OF GUAVA
+1. Wilt – Fusaium oxysporum f.sp. psidii, Macrophomina phaseolina,
+Cephalosporium sp., Gliocladium roseum and Verticillium alboarum.
+Symptoms
+The affected plants show yellow colouration with slight leaf curling at the terminalbranches,
+becoming reddish at the later stage and subsequently premature sheddingof leaves. Twigs
+become bare and fail to bring forth new leaves or flowers and eventually dryup. Fruits of all
+the affected branches remain underdeveloped, become hard, blackand stony. A few plants
+also show partialwilting, which is very common symptom of wilt. The finer roots show black
+streaks which become prominent on removing the bark. The roots also show rotting at the
+basal region and the bark is easily detachablefrom the cortex.Bark splitting can be seenin
+wilted plants in later stages.The disease can be categorized into slow wilt and sudden wilt. In
+slow wilt, planttakes several months or even a year, to wilt after the appearance of
+initialsymptoms and in sudden wilt, infected plant wilts in 15 days to one month.
+Management
+Proper sanitation of orchard.
+Wilted plants should be uprooted, burnt and a trench of 1.0-1.5m should be dugaround the
+tunk. Treat the pits with formalin and cover the pit for three daysand then transplant the
+seedlings after two weeks.
+While transplanting seedlings avoid damage to the roots.
+Maintain proper tree vigour by timely and adequate manuring, inter-culture andirrigation.
+Intercropping with turmeric or marigld.
+Soil solariztion with transparent polythene sheet during summer months.
+Application of oil cakes like neem cake, mahua cake, kusum cake supplementedwith urea.
+Apply 6kg neem cake + 2kg gypsum per plant.
+Judicous ammendments of N and Zn.
+Resistant variety: Apple guava
+Drench with 0.2% Benomyl or Carbendazim, four times a year and spray twice
+with Measystox and Zinc sulphate.
+Disinfestation of soil with Metam-sodium at 252 ml/10m2 area to controlnematodes.
+Lecture 34
+DISEASES OF PAPAYA
+1. Powdery mildew: Oidium caricae
+Symptoms
+white mycelium develops on both the leaf surfaces. Lesioned areas become chlorotic and
+sometimes surrounded by a dark margin. Flower stalks and fruits are also affected.Stems of
+young seedlings are affected when grown under reduced light conditions.Severe attack leads
+to death of top portion of the seedlings
+Management
+Spray wettable Sulphur@0.3% at 10 days interval
+Spray systemic fungicides like Bayleton@0.1% or carbendazim@0.1% at monthly
+intervals
+2. Foot rot / stem rot: Pythium aphanidermatum, Rhizoctonia solani
+Symptoms
+Water soaked patches on the stem at the ground level.Patches enlarge and girdle the base of
+the stem.Diseased tissues turn brown or black and rot.Terminal leaves turn yellow, droop and
+wilt
+Fruits shrivel and drop off.Entire plant topples over and dies.Internal tissues of bark appear
+dry and give honey comb appearance.Roots deteriorate and may be destroyed
+Management
+Seedlings should be raised in well drained nursery area
+Uproot the diseased seedlings and burn
+ST with captan@4g/kg seed or chlorothalonil@2g/kg seed (R. solani)
+Drench the base of stem with COC@0.25% or metalaxyl@0.1% or Bordeaux
+mixture@1.2%
+3. Mosaic: Papaya mosaic virus or Papaya ringspot virus or Carica virus1
+Symptoms
+Mottlingand puckering of leaves, especially the young ones. The lamina is reduced and
+malformed and are often modified into tendril likestructures. Older leaves fall down and a
+small tuft of younger leaves is left at the top withupright postion. The stem, petiole and fruits
+develop elongated water soaked areas showingconcentric or circular rings.Fruit size is
+severely reduced with deformed shape. Aphids spread the disease
+Management
+Disease free seedlings, Rouging and destruction of diseased plants
+Vector control, Carica cauliflora is resistant
+Weekly sprays with 1% groundnut oil
+4. Leaf curl: Tobacco leaf curl virus or Nicotiana virus 10
+Symptoms
+Severe curling of leaves accompanied by vein clearingand reduction of leaf lamina.Leaf
+margins are rolled inward in the form of inverted cup.Leaves become leathery, brittle and
+petioles are twisted.Diseased plants fail to flower or bear fruits.In advanced stage, defoliation
+and growth is arrested. Whitefly, Bamesia tabaci and grafting spread virus
+Management
+Disease free seedlings, Rouging and destruction of diseased plants
+Vector control with monochrotophos@0.05% or Dimethoate@0.2% or
+metasystox@0.1%
+LECTURE 35 &36
+DISEASES OF BANANA
+1) Yellow Sigatoka leaf spot - Mycosphaerella musicola Black sigatoka – Mycosphaerella
+fijiensis
+Symptoms
+Small spindle shaped spots with greyish centre and yellowish halorunning parallel to veins
+ofyoung leaves.Spots coalesce and whole leaf blade dries up.On the upper surface of the
+spots, fructifications of the fungus appear as blackspecks.If the fruit is nearing maturity at the
+time of heavy infection, the flesh ripensunevenly and individual bananas appear undersized
+and their flesh develops a buffpinkish colour, and store poorly.
+Management
+Removal and destruction of affected leaves followed by spraying with BM (1%) +linseed oil
+(2%).crop rotation with maize, vegetables once after 3 seasons. spacing 2.5m between rows
+and plants.
+Prevent water accumulation around the plant and go for periodical weeding.
+Spray chlorothalonil@0.2% or carbendazim or thiophanate methyl@0.1%
+ormancozeb@0.25% along with spreading agent such as teepol orsandovit added at the rate
+of 1ml/lit of water.
+2) Moko disease / Bacterial wilt-Ralstonia solanacearum (Pseudomonas or Burkholderia)
+Symptoms
+Symptoms start on rapidly growing young plants.The youngest three to four leaves turn pale
+green or yellow and collapse near thejunction of lamina and petiole.Characteristic
+discoloration of vascular strands, wilting and blackening of suckers.Vascular discolouration
+is concentratednear the centre of the pseudostem. Greyish brown bacterial ooze is seen when
+the affected pseudostem is cut transversely.A firm brown dry rotwithin fruits
+(characteristicsymptom)
+Management
+Grow resistant varieties like poovan and monthan.
+Use of healthy planting material.
+Exposure of soil to sunlight during dry hot weather.
+Eradicate infected plants and suckers killing in situ by application of herbicides.
+Disinfestation of tools with formaldehyde diluted with water in 1:3 ratio.
+Crop rotation (3 years rotation with sugarcane or rice) & providing good drainage
+Allow fallow period or flooding during off-season
+Fumigation of infected site with Methyl Bromide or chloropicrin.
+Spray systemic insecticide to prevent transmission of disease to healthy plants.
+3) Banana Mosaic / Infectious chlorosis/ Heart rot: Cucumber mosaic virus
+Symptoms
+Typical mosaic-like or discontinuous linear streaking in bands extending frommargin to
+midrib.
+Leaf size is reduced and leaves are malformed.Chlorosis of newly formed leaves.In severe
+cases rotting of heart leaf and leaf sheaths which progressinto the pseudostem and plant dies.
+Diseased plants do not reach maturity
+Management
+Use of disease free suckers for planting, Dry heat treatment of suckers at 400C for 1 day
+Avoid growing cucurbits as intercrop
+Vector control with Methyl demeton or dimethoate@ 0.2% at 3 – 4 weeks interval
+Panama wilt- Fusarium oxysporum f.sp. cubense
+Symptoms
+Symptoms usually appear on atleast 5 months old banana plants.The earliest symptoms are
+faint yellow streaks on the petiole of oldest leaves that show progressive yellowing, break at
+the petiole and hang down along the pseudostem. Heart leaf alone remains upright.Varying
+degrees of longitudinal splitting along pseudostem are often observed. vascular
+discolouration of pseudostem appears first in the outer or oldest leaf sheath and extends upto
+the pseudostem. The fungus grows and blocks the vascular system resulting in wilting of the
+plant.Affected plants give characteristic odour of rotten fish.Affected plants do not produce
+bunches. Even if produced, fruits are malformedand ripen prematurely or irregularly.
+Poorly drained soils, acidic, light textured soils and plants with Insect injuries, wounds and
+infestation of burrowing nematode, Radopholus similis, have greater incidence.
+Spread as conidia through irrigation water or through root contact
+Management
+Use of disease free suckers for planting.
+Avoid ill drained soils, and prefer slightly alkaline soils (7-7.5 pH) for cultivation
+Flood fallowing for 6 to 24 months or crop rotation with rice.
+Application of lime (1-2 kg/pit) to the infected pits after chopping of the plants parts.
+Dipping of suckers in carbendazim (0.1%) solution before planting
+Soil drench with 0.1% carbendazim or 0.01% Vapam(8.5g/l)
+Growing resistant Cavendish varieties, viz., Basrai (Vamanakeli), Poovan
+(Karpura chakkarakeli) between June-August
+Bunchy top disease-Bunchy top virus
+Symptoms
+Prominent dark green streaks on the petioles and midrib along the leaf veins.Marginal
+chlorosis and curling of leaves.Petioles fail to elongate. Leaves are reduced in size, chlorotic,
+stand upright and become brittle and are crowded at the top (Bunchy top) and show dark
+green streaks near the midrib.Flowers display mottled and streaked discolouration. Plants
+show marked stunting
+Management
+Eradication of all infected suckers by spraying with kerosene or by injecting
+herbicide, 2, 4-D
+Use of only certified banana suckers for planting
+The new crop should be regularly inspected and the diseased plants destroyed as
+soon as noticed.
+Vector (Banana aphid, Pentalonia nigronervosa) control with systemic insecticides, Viz.,
+Phosphomidon @ 1ml/lt or Methyl demeton 2ml/l
+Lecture 37&38
+DISEASES OF POMEGRANATE
+1) Cercospora leaf spot – Cercospora punicae
+Symptoms
+Light zonate brown spots appear on the leaves and fruits.Black and elliptic spots appear on
+the twigs.The affected areas in the twigs become flattened and depressed with raised
+edge.Such infected twigs dry up.In severe cases the whole plant dies.
+Management
+Pruning and destruction of diseased twigs.
+Application of thiophanate- methyl 0.1% or chlorothalonil 0.2% or mancozeb 0.2%
+2) Anthracnose – Colletotrichum gloeosporioides
+Symptoms
+Small, regular to irregular dull violet or black spots surrounded by yellow margins on the
+leaves.Infected leaves turn yellow and drop off.Small irregular lesions on the fruit reduce
+market value
+Management
+Spray carbendazim@0.1% or Thiophanate-methyl @0.1% or mancozeb@0.2% fortnightly
+3) Bacterial leaf spot - Xanthomonas axonopodis pv. punicae
+Symptoms
+Small irregular water soaked deep red spots on leaves.Leaves distorted and malformed. On
+the stem, the disease starts as brown to black spots around the nodes.Girdling and cracking of
+nodes.Branches break down. Brown to black spots on the pericarp of fruit with L or Y shaped
+cracks
+Management
+Clean cultivation and strict sanitation in orchard
+Spray B.M @1% along with antibiotic
+LECTURE 39 & 40
+DISEASES OF CHILLI
+1) Damping off – Pythium aphanidermatum,
+Symptoms
+Pre-emergence damping off: Seedlings disintegrate before they come out of soilsurface which
+results in poor fieldemergence / poor seed germination.
+Post-emergence damping off :Development of disease afterseedlings have emerged out of
+soil surface but before the stems are lignified.
+Lesion formation at collar region.Infected areas appear brown and water soaked.Plants
+shrivel and collapse as a result of softening of tissues.Infected stems become hard, thin and
+infected seedlingstopple. Disease appear in patches both in nursery and field beds.
+Management
+Raise nursery in light soil with proper drainage
+Burning farm trash on the surface of the beds.
+Sowing seed on raised beds of 6-8” high (15cm)
+Crop rotation, avoid use of undecomposed FYM
+Using low seed rate of 650 g/cent.
+Seed dressing with Thiram or captan @ 3 g/Kg.
+Soil drenching with metalaxyl@0.2%
+2) Die-back and fruit rot – Colletotrichum capsici
+Symptoms
+December - October in transplanted crop
+Infection of growing tips leads to necrosis of branches from tip backwards
+Shedding of flowers due to the infection at pedicel and tips of branches
+Fruit symptoms
+Ripe fruits are more liable for attack than the green ones.Small, circular, yellowish to pinkish
+sunken spots appear on fruits later attain elliptical shape.Severe infection result in the
+shrivelling and drying of fruits that become white or greyish and lose their pungency.The
+affected fruits may fall off subsequently. spread by air and seeds.
+Management
+Collect and destroy all infected plant parts
+Collect seeds only from fruits without infection
+Removal and destruction of Solanaceous weed hosts and infected plant debris
+Seed treatment with captan or Thiram 3-4g/kg
+Spray thrice with propiconazole2ml/l or mancozeb@0.25%. just before flowering, at
+fruit formation stage and 15 days after second spray.
+3) Powdery mildew – Leveillula taurica
+Usually seen from December - February
+Symptoms
+White powdery coating appears mostly on the lower surface andcorrespondingly on the upper
+surface yellow patches are seen.Sometimes the powdery coating can also be seen on the
+upper leaf surface, young fruits and branches.Severe infection results in the drying and
+shedding of affected leaves&flowers.Diseased fruits do not grow further and may drop down.
+Management
+Spraying wettable S@0.3% or Dinocap or Carbendazim or Tridemorph 0.1%.
+4) Bacterial leaf spot: Xanthomoas campestris pv. vesicatoria
+Symptoms
+Lesions on leaf begin as circular, water soaked spots and become necrotic with brown center
+and chlorotic borders.Lesions are slightly raised on lower leaf surface.Severely spotted leaves
+turn yellow and drop.Raised brown lesions appear on fruits.Narrow elongated lesions or
+streaks may develop on stems. High humidity during July-Sep, 22-340C favor disease
+Management
+Seeds should be collected from healthy fruits,
+Seed treatment with copper oxychloride 2g/kg seed.
+Spray twice with plantomycin (200ppm) along with 3gCOC per litre of water at 15 days
+interval
+Lecture 41
+DISEASES OF BHENDI
+1) Yellow vein mosaic: Bhendi Yellow vein mosaic virus or bhendi vein clearingvirus
+Symptoms
+Yellowing of veins in the leaf (vein clearing) is thecharacteristic symptom. In severe
+infections the younger leaves turn yellow,become reduced in size and the plant is highly
+stunted.Infection restricts flowering and fruits are not formed, if formed, turns smaller,harder
+and rough. Loss in fruit yield ranges from 50-100% based on diseaseincidence. More in
+rainfed crop. Spread by whitefly& jassid
+Management
+Tolerant varieties: Parbhani Kranti, Pusa savani, Janardhan, Haritha, ArkaAnamika and Arka
+Abhay.Destroy wild plants/weeds on which virus survives
+The disease spread can be restricted by spraying Monocrotophos, 1.5 ml/l.
+2) Powdery mildew: Erysiphe cichoracearum
+Symptoms
+Grayish powdery growth occurs on the under as well as on the upper surface of theleaf,
+yellowing of leaves, flower drop causing severe reduction in fruit yield.More during Nov-
+Mar.
+Management
+spray wettable sulphur@0.3% orDinocap@0.1% , three to four times at 15 days intervals.
+Brinjal
+Phomopsis fruit rot or blight – Phomopsis vexans
+Symptoms
+The plants are attacked at all stages of growth, producing damping-off symptoms
+in nurseries and collar rot on young plants.On leaves, circular to irregular, clearly defined
+grayish brown spots having lightcenters appear. The diseased leaves become yellowish in
+colour and may drop off.Several black pycnidia can be seen on older spots.The lesions on
+stem are dark brown, round to oval and have grayish centers wherepycnidia develop. At the
+base of the stem, the fungus causes characteristicconstrictions leading to canker development
+and toppling of plants.On fruits, small pale sunken spots appear which on enlargement cover
+entire fruitsurface. These spots become watery leading to soft rot phase of the disease. dry rot
+and black mummified fruits. Pathogen is seed borne and also survives in plant debris as
+mycelium andpycnidia. Conidia dispersed through rain splashes, irrigation water, agricultural
+tools andinsects.
+High relative humidity coupled with higher temperatures favour diseasedevelopment.
+260C,55% R.H.
+Management
+Removal and destruction of diseased crop debris
+Practicing crop rotation and summer ploughings helps in reducing initial inoculmn.
+Use of disease free seed
+Hot water treatment of seed at 500C for 30 minutes
+Seed treatment with thiophanate methyl at 1g/kg seed
+Spray twice with thiophanate methyl or carbendazim@0.1% at 20 days interval.
+Lecture 42
+DISEASES OF CUCURBITS
+1) Downy mildew – Pseudoperonospora cubensis
+Symptoms
+Yellow, angular spots appear on upper surface of leaves.The corresponding lower surface of
+these spots shows a purplish downy growth in moist weather.The spots turn necrotic with age
+The diseased leaves become yellow and fall down.Diseased plants get stunted and die
+Fruits produced may not mature and have a poor taste
+Management
+Destruction of cucurbitaceous weeds around field
+Spray metalaxyl@0.2% or chlorothalonil@0.2%
+Spray zineb@0.3% at 10 days interval
+2) Powdery mildew: Erysiphe cichoracearum, Sphaerotheca fuligena
+Symptoms
+Whitish powdery growth on foliage, stems and young growing parts.premature defoliation
+and
+death. Fruits remain undeveloped and are deformed
+Management
+Spray Calixin 0.1% or Karathane @0.2%
+LECTURE 43& 44
+DISEASES OF TOMATO
+1) Early blight – Alternaria solani
+Symptoms
+Lowest leaves are attacked first and the disease progresses upwards. Small, isolated, scattered
+pale brown spots on the leaf.Fully developed spots are irregular, brown withconcentric rings
+inside the spot.Spots coalesce to form large patches resulting in the leaf blight.In severe
+attacks the entire plant may be defoliated.
+Zonate lesions may also develop on stems and petioles, which break at the point of
+Infection.Brown spots are also seen on calyx.Slightly dark, sunken, round to irregular lesions
+on fruit at the calyx end
+Management
+Maintain proper vigour of the plant, Use of disease free seed
+Removal and burning of diseased crop debris
+Mancozeb@0.25% or chlorothalonil@0.2% or Zineb@ 0.25% spray at weeklyintervals
+2) Tomato Mosaic – Tomato mosaic virus
+Symptoms
+The virus causes a light and dark green mosaic mottle with raised dark green areaand
+distorted to a fan leaf or tendril likeyounger leaves. The plants are stunted. Some strains
+causeyellowing or leaf mottling which may also affect the fruit.Some other strains produce
+longitudinal necroticstreaks on stem or petioles. Such diseased plants are killed. Necrotic
+sunken lesions also appear on fruits and sometimes internal necrosis orbrowning of mature
+fruit occurs.
+Management
+All collateral hosts in the vicinity should be destroyed before planting new crop
+Rouge out and destroy diseased plants
+Virus free seed should be obtained and used for sowing
+Soak the seeds in 10% Tri-sodium orthophosphate for 15 to 20 minutes prior tosowing
+Heat treatment for 2-4 days at 700C
+Cross protection of tomato seedlings by inoculating with mild strains
+Field workers should avoid using tobacco products while working in the field
+3) Bacterial fruit canker: Clavibacter michiganense subsp. michiganense
+Symptoms
+Disease appears as spots on leaves, stems and fruits and as wilting of leaves andshoots.
+White blister like spots in the margins of leaves that become brown with age and coalesce,
+but do not fall off.Light coloured streaks on stems and petioles at the joints.Cracks develop in
+streaks and form cankers.Slimy bacterial ooze through the cracks in humid weather.Birds eye
+likeappearance of spots, which have brownish centers and white halos.Vascular
+discolouration.
+Large cavities in pith and cortex which extend to outer surface of stem and causecankers
+Management
+Extraction of seed through fermentation of pulp at room temperature for 72 hourseradicates
+the bacterium from the seed.
+Hot water treatment of seed at 520
+Protective sprays with COC and streptomycin sulphate
+Three year crop rotation, Soil solarization
+4) Root knot nematode – Meloidogyne sp.
+Symptoms
+Formation of galls on host root system. Roots branch profusely starting from the gall tissue
+causing a ‘beard root’symptom.In severely infected plants the root system is reduced and the
+rootlets are almostcompletely absent. Uptakeand transport of water and nutrients hampered.
+Plants wilt during the hot part of day, especially under dry conditions and are
+oftenstunted.Seedlings infected in nursery do not normally survive transplanting and
+thosesurviving have reduced flowering and fruit production
+Management
+Crop rotation with graminaceous hosts
+Inclusion of non-preferred hosts like mustard, sesame, maize, wheat, etc., in thecropping
+system
+Intercropping of marigold with tomato reduces nematode population
+Nursery should be raised in nematode free sites or fumigated beds
+Deep ploughing of infested fields during summer. Three summer ploughings at 10days
+interval reduces juvenile population
+Flooding the field for prolonged periods
+Use of biocontrol agents like Paecilomyces lilacinus (egg parasite)
+Nursery bed treatment with metham sodium (Vapam)@25ml/m2orCarbofuran@0.39g a.i/m
+2
+Bare root dip treatment in EC formulation of systemic pesticides like Dimethoate
+or Phenemiphos for 6-8 hours before transplantation
+Grow resistant varieties like Hissar Lalit and PNR-7
+Integration of three summer ploughings or use of treated nursery with spotapplication of
+carbofuran @1 kg a.i/ha at transplanting stage.
+LECTURE 45
+DISEASES OF COCONUT
+1) Ganoderma basal stem rot– Ganoderma lucidum, G.applanatum
+Symptoms
+The fungus infects the roots and spreads upwards killing the entire root system.Older leaves
+droop and wither and remain suspended around the trunk for severalmonths. Tree become
+barren due to suppression of inflorescence.Diseased tree dies slowly in about two years and
+often the stem cracks, giving out a dark brown ooze. Extensive rotting of roots and peeling of
+stem tissues. Droping of buds and nuts also.More in light soils. Weather conditions from
+Nov-June favor spread of disease.
+Management
+Preventive measures
+Dig isolation trenches of about 50cm wide and 1m deep, 2-3 m away from diseasedpalm to
+prevent spread of fungus
+Trenches dug for replanting should be filled with FYM, 5kg neem cake andTrichoderma
+viride
+Incorporate green manure crops like sunhemp and Sesbania for moisture retentionand
+multiplication of antagonistic fungi
+Avoid deep ploughing or digging which are likely to injure roots
+Arrange separate irrigation to each tree to prevent spread of fungus
+Apply FYM (200 kg) and neem cake (5-10 kg) to each tree during June – July
+Also apply 2 kg superphosphate and 3 kg MOP in two splits, one in July and other
+in November
+Apply 40 liters of 1% BM in basin of each tree, yearly once, during August –September
+Curative measures
+Destroy infected palms
+Root feeding with tridemorph (6ml in 25 ml of water), 3-4 times an year, in earlystages of
+infection, Control bark eating caterpiller
+2) Bud rot - Phytophthora palmivora
+Symptoms
+Severe on young palms upto 25yrs old.Yellowish green discoloration of the crown leaf. The
+basal tissues of the leaf rot quickly and can be easily separated from the crown.Spindle
+withers and droop down.Older leaves develop irregular, water soaked spots which are sunken
+in nature.The leaves and sheath in the central spindle fall off leaving an outer whorl of green
+leaves. The withered central shoot can be pulled out very easily from the crown. The central
+crown may rot and in few months the tree may wilt. Young nuts fail to mature and fall.Severe
+in waterlogging areas and closely spaced plants. Attack in rainy season.
+Management
+Cutting and burning of badly infected palms. Adopt 8m spacing. Provide drainage channels.
+If the disease is detected early remove the infected portions and protect withBordeaux
+pasteSpray copper fungicides (B.M@1% or COC@0.3%) after onset of monsoon toprevent
+infection
+Keep a mixture of CuSO + NaCl (1: 3-5) parts in a cloth bag in the crown orabove bud
+4
+3) Stem bleeding – Ceratocystis paradoxa
+Symptoms
+Reddish brown ooze from the cracks near the base of the trunk.The fluid dries up to form
+black encrustations.The tissues, except vascular bundles, below infected patch show
+yellowish browndiscolouration and decay.Large cavities are formed in diseased stemfrom
+which yellowish to whitish fluidoozes out.Excess moisture, high PH or alkalinity in soil favor
+disease occurrence. Spread is more in young palms
+Management
+Avoid any mechanical injury to the stem.Cover the lower part of trunk with coal tar or
+Bordeaux paste to prevent the disease.
+Chisel out affected tissues and dress the wound with hot coal tar or Bordeauxpaste
+Apply 5 kg neem cake containing Trichoderma along with 50kg of organic manure to the
+basin during September
+LECTURE 46
+DISEASES OF ROSE
+1) Powdery mildew – Sphaerotheca pannosa var. rosae
+Symptoms
+The infected leaves show grayish powdery fungal growth.Rolling of leaf margins with the
+onset of sprouting season.Affected leaves become curled and distorted.Badly infected flower
+buds fail to open.Infected floral parts become discoloured, dwarfed and dried
+Management
+Collect and destroy infected plant debris
+Four sprays with wettable Sulphur@0.3% or carbendazim@0.1% or Dinocap@0.1% at
+10 days interval
+Resistant varieties: Ashwini, Ambika, Angeles, American pride, Surabhi
+2) Black spot – Diplocarpan rosae (Anamorph: Marssonina rosae)
+Symptoms
+Dark brown tar coloured spots with fringed borders.Spots coalesce forming large patches.
+Infected leaves turn brown and defoliate.Fungus may also attack stems and flowers.On stems,
+infected areas are blackened with blistered appearance dotted withpustules
+Management
+Affected parts should be collected and destroyed
+Spray Tridemorph @0.025% or benomyl @0.1% at weekly intervals starting withthe
+sprouting of the plants till new foliage appears.
+Shade and extensive irrigation should be avoided.
+Resistant varieties: Bebe bune, coronado ,Grand opera, sphinx.
+Radiance - escape infection due to waxy surface
+3) Die-back – Diplodia rosarum
+Symptoms
+Infection starts from the pruned surface of the twigs.Infected twig becomes brown to dark
+brown or black and dries from tip downwards. Infection spreads from twig to mainstem and
+roots and finally whole plant is killed.
+Management
+Diseased twigs should be carefully removed and destroyed
+After pruning the cut end should be protected with chaubattia paste
+Spray Difolatan@0.2% or mancozeb@0.2% or Chlorothalonil@0.2% in earlySep and lateOct
+Resistant varieties: Blue moon, Red gold, Summer queen, etc.
+Lecture 47
+DISEASES OF TURMERIC
+1) Rhizome rot – Pythium aphanidermatum, P. graminicolum
+Symptoms
+The disease occurs in patches. Infected plants show progressive drying up of the leaf first
+along the margins and later entire leaf.The root system is adversely affectedleaving few
+decaying brownroots. Infection gradually spreads to rhizomes which begin to rot, become
+soft andturn brown.
+Management
+Crop rotation with non-hosts
+Grow turmeric in light soils with good drainage
+Use disease free rhizomes for planting
+Rhizomes should be dipped in Metalaxyl@2.5g/l or Bordeaux mixture@1%
+solution for 40 minutes
+Drench the soil at root region with captan@2 g or COC@2.5 g or metalaxyl@1 g
+per liter in the initial stages of the disease
+Turmeric varieties, PCT-13 and PCT-14 are resistant to this disease.
+2) Leaf spot – Colletotrichum capsici
+Symptoms
+Fungus attacks only leaves, elliptic to oblong spotsof different sizes appear on both the
+surfaces,but more on upper surface and gradually increase in size. Mature spots have grayish
+center with dark brown margins surrounded by a yellow halo.Central portion of the spot
+becomes thin and papery.Several spots coalesce to form irregular necrotic patches
+Management
+Remove and destroy infected plant debris
+Treat rhizomes with COC@0.25% solution
+Spray Carbendazim@0.1% or Mancozeb@0.25%. during Aug-Dec along with
+sandovit@0.5 ml/lt
+Avoid excess shading
+Tolerant varieties: TS-2, TS-4, TS-9, TS-88
+Lecture 48
+DISEASES OF ZINGER
+1) Rhizome rot/soft rot – Pythium sp.
+Symptoms
+When infection takesplace through contaminated seed, sprouts fail to grow resulting in pre-
+emergencedamping off.If the disease strikes after sprouting leaves turnpale green.Yellowing
+is noticed on the top leaves followed by withering and drying of the dead area. Dead leaves
+ultimately drop off .On stem, a translucent brown lesion develop at collar region and later
+becomes water soaked and soft.Soft rot extends from the collar region to rhizomes which first
+become discolouredand gradually decompose, forming a watery mass of putrifying tissues
+enclosed bytough ring of rhizome.Roots arising from affected rhizomeundergo rotting and
+softening.
+Favourable conditions
+Mimegralla flies play a role in the spread of the pathogen
+Management
+Crop rotation for 3-5 years with non-host crops, Avoid water stagnation
+Collect the seed from disease free plots, Rhizome treatment with Metalaxyl@0.2%
+Drench the field with COC@0.3% or Metalaxyl@0.2%
+Control the Mimegralla insects by 0.05% methyl parathion
+2) Leaf spot – Phyllosticta zingiberi
+Symptoms
+Initially disease appears as small, yellowish oval to elongated spots on the leaves.The spots
+enlarge; turn to white and papery at the centre with dark brown marginsurrounded by a
+yellow halo.Spots are usually isolated but under humid conditions they coalesce with
+oneanother developing towards margin forming a big lesion.
+Management
+Growing zinger in partial shade reduces the disease incidence
+Spray Mancozeb@0.25% or COC@0.25% during monsoon

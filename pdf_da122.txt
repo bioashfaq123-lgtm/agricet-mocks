@@ -1,0 +1,2540 @@
+PROFESSOR JAYASHANKAR
+TELANGANA STATE AGRICULTURAL UNIVERSITY
+COURSE MATERIAL
+FOR
+COURSE NO. DA 122
+MANURES & FERTILIZERS
+By
+Dr. S. SRIDEVI
+PRINCIPAL, AGRICULTURE POLYTECHNIC, TORNALA
+&
+Dr. G.VENUGOPAL
+SCIENTIST (SOIL SCIENCE), ARS, MADHIRA
+1
+Course No. : DA-122
+Course Title : Manures and Fertilizers
+Credit Hours : 3 (2+1)
+Semester/Year: Second Semester/ First year
+Theory lecture outlines
+S.No . Title of the Lecture
+1 Concepts of Soil Fertility and Soil Productivity- Definitions and differences–
+Reasons for decline soil fertility and soil productivity
+2 Definition and importance of organic manures – Classification of manures &
+fertilizers
+3 Bulky organic manures – Preparation of Farm Yard Manure (FYM) – Heap
+method, Pit method and Covered pit method
+4 Compost – Different methods of composting- Factors affecting compost
+process
+5 Preparation of compost from agricultural waste (Rural compost) – Urban
+compost
+6 Biogas Plant – Construction– Precautions while preparation of biogas –
+Management
+7 Vermicompost – Preparation of vermicompost beds and suitable earthworm
+sps for vermicomposting
+8 Vermicomposting – Advantages of vermicompost & precautions
+9 Green manures – Green manuring in situ – Criteria for selection of crops –
+Crops suitable – Nutrient composition
+10 Green manuring in situ – Advantages and disadvantages- Cultivation
+techniques of green manuring crops
+11 Green leaf manuring – Advantages and limitations – Crops suitable
+12 Concentrated organic manures – Plant origin manures – Edible and non edible
+oil cakes – nutritional composition
+13 Animal origin manures – Blood meal, Bone meal, Fish meal, Horn meal and
+Guano – Nutritional composition
+14 Biofertilizers – Classification – Atmospheric nitrogen fixers
+15 Symbiotic nitrogen fixers – Associative nitrogen fixers and Free living nitrogen
+fixers
+16 Phosphorus mobilisers – Method of use of biofertilizers – Advantages
+17 Differences between organic manures and chemical fertilizers – Classification
+of fertilizers
+2
+18 Straight fertilizers – Nitrogenous fertilizers – Nitrate, Ammonical, Nitrate –
+Ammonical and Amide fertilizers
+19 Phosphatic fertilizers – Water soluble – Citric acid soluble and insoluble
+fertilizers – Potassic fertilizers
+20 Secondary nutrient fertilizers – Micronutrient fertilizers – Different types
+21 Mineral salt and chelated micronutrients – Nutritional composition
+22 Mixed fertilizers – Farm mixtures and Mechanical mixtures
+23 Calculation for preparation of mixed fertilizers
+24 Complex fertilizers – Different types – Calculation for nutritional values in
+fertilizers
+25 Fertilizer use efficiency
+26 Fertilizer application – Time of fertilizer application
+27 Methods of fertilizers application – Application of solid form fertilizers – Broad
+casting
+28 Placement of fertilizers - Localized placement – Application of liquid fertilizers
+29 Integrated nutrient Management (INM) – Concept- Factors affecting INM –
+Goals _Components
+30 Constraints and Advantages of INM
+31 Organic farming – Definition – Methods of cultivation – Merits and demerits
+32 Awareness on Fertilizer Control Order (FCO)
+PRACTICALS
+S.No outlines
+1 Collection of organic manures and chemical fertilizers
+2 Preparation of FYM
+3 Preparation of Rural compost
+4 Preparation of Urban compost
+5 Preparation of Vermicompost
+6 Identification of green manures
+7 Detection of adulteration in fertilizers
+8 Quick tests for fertilizer analysis
+9 Calculation for recommended doses of fertilizers
+10 Awareness on different methods of fertilizer application in experimental plots
+11 Precautions while using different fertilizers
+12 Experimental observation of crop response to fertilizers
+13 Estimation of nutrient contents in different fertilizers using chemical methods
+14 Awareness on integrated use of organic manures and chemical fertilizers
+15 Awareness on nutrient contents in straight fertilizers
+16 Awareness on nutrient contents in complex fertilizers
+3
+Lecture 1: Concepts of Soil Fertility and Soil Productivity- Definitions
+and differences– Reasons for decline soil fertility and soil productivity
+__________________________________________________________________
+SOIL FERTILITY is defined as the quality that enables the soil to provide proper
+nutrient compounds in proper amounts and in proper balance for the growth of
+specified plants.
+Soil fertility is also defined as the ability of soil to supply adequately the nutrients
+normally taken from the soil by plants.
+REASONS FOR DECLINING SOIL FERTILITY: The fertility of soil is declining due
+to various reasons like
+Crop removal: Different crops remove nutrients in different proportions, for example
+rice crop removes 85-15-90 kg nitrogen, phosphorus and potassium
+to produce 3 tonnes of yield while maize requires 175-35-175 kg
+nitrogen, phosphorus and potassium to give 5 tonnes of yield.
+Removal by weeds: Weeds remove more quantities of nutrients than crop plants
+Soil erosion: Due to wind, water and air erosion, the upper fertile surface soil will
+eroded leading to decline in soil fertility.
+Leaching: Soluble nutrients like nitrogen on conversion in to nitrate form are lost
+due to leaching into lower subsurface layers.
+Volatilization: On application of nitrogenous fertilizers, they are partly lost as NH
+3
+(gaseous form) due to volatilization.
+Improper method of application of fertilizers: Loss of nutrients can be reduced
+by adopting appropriate methods of fertilizer application like band
+placement or pocketing at the base of the plants.
+Use of Complex fertilizers: Indiscriminate use of complex fertilizers (Ex: 28-28-0,
+17-17-17 etc.,) leads to micro and secondary nutrient deficiencies.
+Non-application of micronutrients: Farmers are excessively applying N, P and K
+4
+fertilizers, ignoring the requirement of micro and secondary
+nutrients.
+Crop rotation: Monocropping of same crop without adopting crop rotation mines the
+nutrients from the same depth in the soil leading to nutrient depletion.
+Deep rooted crops like redgram, cotton, sunflower etc., should rotated
+with crops like rice, maize and jowar whose root system will be in the
+surface layers
+SOIL PRODUCTIVITY denotes the capacity of the soil to produce crops. Productivity
+depends on various other factors in addition to soil fertility. Few factors that
+influence productivity are as mentioned below.
+Soil pH: When the soils have neutral pH the availability of many nutrients will be in
+optimum. A decrease or increase in pH will affect the nutrient
+availability and make them either deficient or toxic.
+Soil Texture: Nutrient and moisture retentive capacity of a soil mainly depends on
+soil texture. In light textured soils nitrogen is lost through leaching
+and becomes unavailable to plants, similarly in heavy textured soils
+nutrients become unavailable due to fixation and adsorption by clay.
+Soil structure: The proportion of macro and micropores of the soils mainly influence
+the plant growth and in turn the productivity. A good structured soil
+provides good aeration and congenial conditions for microbial
+growth, which will hasten up the physical, chemical and biological
+reactions in the soil. As a result of these reactions the organic
+matter is converted in to stable humus and increases the CEC of
+the soil and in turn the nutrient availability to plants will be
+increased.
+Soil aeration: Root growth, nutrient availability, microbial population, and
+mineralization are mainly influenced by the soil aeration.
+Soil drainage: Under improper or ill drained conditions of soils, immobilization of
+nutrients takes place and plant roots cannot absorb nutrients.
+5
+Soil microbes & C: N ratio: Growth of soil microbes, decomposition of organic
+matter, conversion of humus are influenced by carbon nitrogen ratio
+and in turn they affect the productivity.
+Organic manures: The utilization of applied fertilizers can be improved through
+application of organics.
+Problematic soils: When the soils have constraints like salinity, alkalinity, acidity,
+improper drainage and very shallow depth, they cannot supply plant
+nutrients in optimum proportions, as a result the productivity of the
+soils is affected.
+DIFFERENCES BETWEEN THE SOIL FERTILITY AND SOIL PRODUCTIVITY
+Soil fertility Soil productivity
+1 It is the inherent capacity of the Soil productivity emphasizes the capacity
+soil to provide essential chemical of soil to produce crops and is expressed
+elements for plant growth in terms of yield.
+2 A combination of soil properties An economic concept and not a property
+and an aspect of soil – plant of soil
+relationships.
+3 Soil fertility is vital to a productive Soil fertility is one factor among all the
+soil. But a fertile soil is not external factors that control plant growth
+necessarily be a productive soil. like air heat (temp.), light, mechanical
+Many factors can limit production, support, soil fertility and water. Plant
+even when fertility is adequate. depends on soil for all these factors except
+For eg., soils in arid region may for light.
+be fertile but not productive.
+4 Organic matter in the soil Organic matter also improves soil
+improves soil fertility by productivity by improving soil porosity,
+mineralization of nutrients. aggregation and physical condition of soil
+thus modifying the soil environment for
+crop growth.
+6
+Lecture 2. : Definitions, Differences and classification of Manures &
+Fertilizers
+___________________________________________________________________
+The word “Manure” is originated from the French word “MANOEUVRER” which
+refers to “work with soil”. The word Manure has also origination from Latin word
+“Manu” (hand) and operate (to work).
+Manure:
+Manures are the substances which are organic in nature, capable of supplying plant
+nutrients in available form , bulky in nature having low analytical value and having no
+definite composition and most of them are obtained from animal and plant waste
+products. Manuring is the process of increasing the productive capacity of land by
+adding plant foods to the soil in different forms.
+Fertilizer:
+A fertilizer can be defined as a mined or manufactured material containing one or
+more essential plant nutrients in potentially available forms in commercially valuable
+amounts.
+Differences between manures and Fertilizers:
+MANURES FERTILIZERS
+Organic in nature Inorganic in nature
+Slow acting Quick acting
+Having low analytical value Having high analytical value
+Having no definite chemical composition Having definite chemical composition
+Obtained from plant , animal and human
+Mined or manufactured
+resources
+Don’t improve the physical properties of
+Improves physical properties of soils
+soils
+Supply almost all major, minor and
+Supply one or very few plant nutrients.
+micronutrients.
+Derived from French word Derived from Latin word
+‘MANOEUVRER’ to work with soil Fertil means Fertile
+Bulky in nature Non-bulky in nature
+Basically there are three categories of Manures & Fertilizers
+7
+I.Organic manures II. Inorganic/Chemical Fertilizers III. Bio-fertilizers
+I. Classification of Organic Manures : ORGANIC MANURES
+Bulky organic manures Concentrated organic manures
+(Slow acting with large quantity of organic matter)
+(Quick acting with small quantity of organic matter)
+Farm Yard Manure (FYM) Plant Origin
+Animal Origin
+Cattle manure, Sheep manure
+Pig manure, Poultry manure
+Blood Meal
+Composts
+Edible oil cakes
+Non –edible oil cakes
+Rural compost, Urban Compost
+(suitable for cattle a nd poultry
+(suitable for crop fertilization)
+Vermicompost
+feeding ) Bone meal
+Neem cake, Castor cake ,
+Mustard cake, Linse ed cake,
+Sunflower cake, Safflower cake,
+Biogas slurry
+Sesame cake, Coconut cake
+cotton cake, Mahua cake
+Horn meal
+Groundnut cake
+Agro-based Industry wastes- Press mud
+Fish meal
+Human habitation waste- Night soil
+Municipal wastes Green manuring in situ
+Guano
+i) Municipal rubbish ii) Street sweepings Pillipesara, Crotalaria, Horsegram, Sesbania,
+iii) Market wastes Daincha, Thephrosia, Indigo etc.,
+Green manures Green leaf manures
+Neem, Pongamia, Ipomea, Gliricidia et c.,
+8
+II. Classification of Inorganic Fertilizers: INORGANIC FERTILIZERS
+Straight Fertilizers Multi-nutrient Fertilizers
+Nitrogenous fertilizers
+Ammonical N fertilizers ; Nitrate N Complex Fertilizers
+fertilizer; Ammonical nitrate fertilizers; Mixed
+Amide N fertilizers; slow release N Fertilizers
+fertilizers
+Phosphorus Fertilizers In-complete complex fertilizers (NP) Farm
+Complete
+1.Ammonium Phosphates made
+Water soluble-P SSP, DSP & TSP, complex
+Monoammonium phosphate (MAP)
+Citrate soluble –P DCP, Basic slag fertilizers (NPK)
+Diammonium phosphate (DAP)
+Citrate insoluble -P Rock phosphate
+Ammonium phosphate sulphate (APS) 10:26:26;
+Factory
+Urea ammonium phosphate (UAP) 14-35-14; 17-17-17
+Made
+Potassic Fertilizers 2. Ammonium poly phosphates 14-28-14; 19-19-19
+Muriate of Potash (Potassium chloride) (APP) 14-14-14; 11-11-11
+Sulphate of Potash (Potassium sulphate) 3. Nitrophosphates (NP) 20-20-10; 12-32-16
+Granular
+Secondary nutrient fertilizers-
+i)Calcium - Burnt lime,Hydrated lime, Calcitic Pulverised
+lime ii) Magnesium- Epsomite
+iii) Sulphur- Gypsum
+Chelated
+Fe-chelate (Fe-EDTA)- Mn-chelates
+Cu-chelates Zn-chelates
+Micronutrient
+Direct
+fertilizers
+sulphates of i) Iron- FeSO ii) Manganese- MnSO iii) Copper- CuSO
+4), 4 4
+iv) Zinc-ZnSO v) Boron- Boric acid, Borax
+4,
+vi) Molybdenum-Na- molybdate, Ammonium molybdat etc.,
+9
+III. Classification of Biofertilizers
+BIOFERTILIZERS
+Nitrogen fixers Phosphorus
+Mobilizers
+Symbiotic fixers
+Phosphate
+solubulizers
+Ex. Bacillus,
+Pseudomonas
+Associative
+Phosphate absorbers
+Eg.VAM fungi
+Free-living
+10
+Lecture 3: Bulky Organic manures- Preparation of FYM- Heap
+method, Pit method and Covered pit method
+---------------------------------------------------------------------------------------------------------------
+MANURES
+A. Bulky organic manures:
+Bulky organic manures are those materials of plant and /or animal origin, which
+when added to the soil have tendency to decrease bulk density and to increase soil
+volume, thus providing better physical conditions for plant growth especially in
+coarse textured soils and also provide essential nutrients in smaller quantities than
+the chemical fertilizers .
+CHARACTERISTICS OF BULKY ORGANIC MANURES:
+1. Organic materials are relatively poorer in concentration of plant nutrients
+2. These materials possess wider C:N ratio and C:S ratios and so supply
+energy needed for microorganisms
+3. The mineral nutrients that are available in the organic materials become
+available to plants after mineralization.
+4. Judicious combination of organic and inorganic manures is quite essential
+to maintain fertility status.
+Ex. FYM, Composts, Green manures, Sewage sludge Biogas slurry,
+Molasses and Vermicompost. Of the various bulky organic manures
+FYM, Compost and Green manures are widely used
+ADVANTAGES OF BULKY ORGANIC MANURES
+ Bulky organic manures increase organic matter and humus content and
+hence improve the physical properties of soil viz.,
+ Improvement of soil structure,
+ Improvement of water holding capacity,
+ Improvement of soil aeration,
+ Reduction of soil loss through erosion,
+ Reduction in bulk density of soil.
+11
+ Bulky organic manures help in improvement of soil chemical properties
+through
+ Supply of essential plant nutrients in balanced ratio
+ Besides the major nutrients, they also contain traces of micro-
+nutrients
+ Slow release of nutrients
+ High residual value
+ Improvement in buffering capacity
+ Increase the use efficiency of applied nutrients
+ Improvement in the CEC of the soils
+ Promotion of mineralization, release and retention of nutrients
+ Bulky organic manures provide food for soil microorganisms. This increases
+the activity of microbes through stimulation of soil fauna and flora which in
+turn help to convert unavailable plant nutrients into available form.
+FARM YARD MANURE (CATTLE MANURE)
+Farm Yard Manure /Cattle manure is slow acting, bulky organic and a low analysis
+fertilizer, obtained from dung and urine of farm animals mixed with litter and other
+miscellaneous farm wastes.
+Quality and composition of FYM:
+The quality of manure and chemical composition in particular is highly variable
+as the following factors affect the product.
+1. Kind of animal
+2. Age and condition of the individual animal
+3. Quality and quantity of feed consumed
+4. Kind of litter used
+5. Collection and
+6. Storage of manure
+1) Kind of animal:
+The quality of manure depends on the class of manure .viz., cattle,
+horse manure. Within the same class, quality varies according to the kind of
+12
+animal, such as milch cattle, dry cattle, work cattle ,breeding bulls etc., By and
+large the dung and urine from animals, which assimilates less (little ) for their
+maintenance and production will provide better quality manure .
+2) Age and condition and individual animal:
+Growing animals ,milch cattle, pregnant or carrying cattle utilize much
+of the ingredients in the feeds for building up their growing bodies ,milk
+production and for the development of the embryo[ calf] .Old or adult animals
+kept on light work or no work utilize little from feeds and as such, most of
+nitrogen is voided through urine and dung. Eventually, the adult old cattle
+provide better manure.
+3) Quality and quantity of feed consumed:
+Nutritious and protein rich feeds like oil cakes enriches the nitrogen
+content to the resulting manure than the bulky feeds like straw and green
+grass. Animals fed on concentrated feeds yield better quality manure.
+4) Kind of litter used:
+The quality of manure depends to a considerable extent on the nature
+of litter used. Remnants of leguminous hays (Bhusa ) give richer manure than
+usual straws.
+5) Collection of manure:
+The method adopted for collection of dung, urine and litter primarily
+decide the quality of manure as the loss of nutrients particularly nitrogen
+occurs from the time urine and dung are voided by cattle .The quality of
+manure depends upon the methods of collection viz., Byre, Lose box and Dry
+earth systems
+6) Storage of Manure:
+Method of storage of manure influences the quality of manure to a large
+extent. During storage the manure undergoes fermentative changes,
+decomposition which leads to losing its original structure and shape. The
+manure stored under shade and plastered pit will have better quality
+13
+There are three methods of FYM preparation viz., pit method and heap method and
+covered pit method.
+A. Heap method (Above the ground level) :
+ This is the most common method adopted in Indian villages
+ . Manure is heaped on the ground preferably under the shade of a tree.
+ Ideal procedure is to dump the dung first and to cover it with litter soaked
+urine .This is further covered with a layer of litter/ /ash / earth to prevent the
+loss of moisture and to avoid direct exposure to sun.It is also desirable to
+put up a small bund around the base of the heap to protect against surface
+run-off washing out the manurial ingredients.
+ It is beneficial to cover the exposed portion of the heap with Palmyra
+leaves or any other available material.
+Disadvantages
+ The maximum losses of nutrients occur in this method of storage, resulting
+in poor quality manure.
+ Direct exposure to the vagaries of climate such as sunshine and rainfall
+causes looseness and dryness of manure, which hasten the losses of
+nutrients and rapid oxidation of organic matter.
+B. Pit method (Below ground level) :
+ In this method, the manure is stored in a pit with non –absorbent bottom
+and sides.
+ The pit is provided with a bund at the rim of the pit to prevent the surface
+run-off of waters during rainy season.
+ The dimensions of the pit can be variable depending on the quantity of
+dung ,urine and litter produced on the farm per day .
+ A pit with a depth of 3 feet is convenient to handle
+ The filling of the pit should be from one side and upon filling of 1/3rd of pit,
+a layer of good soil should be added followed by animal dung and litter until
+the pit is filled to half meter above the ground level. Then the pit should be
+14
+plastered with mud and dung.
+ Two pits are sufficient to prepare manure from a farm with two cattle pairs.
+About 5-6 tonnes of good quality manure can be obtained from each
+animal per annum
+ The losses also occur in this method due to exposure to sun and rain, but it
+is relatively a better method than the heap method.
+C. Covered pit method:
+ Of all the methods described, it is the best method.
+ In this method, the bottom and sides of the pit are made non-absorbent by
+granite stone lining.
+ The pit is also provided with a bund of 1½ feet height to prevent surface
+flow of water (Rain water) and a suitable cover by way of roofing with
+locally available materials like Palmyra or phoenix leaves etc.,
+ Organic matter and nutrient losses can be effectively controlled in this
+method of storage in order to obtain better quality manure [FYM: 0.68 %
+N- 0.5%P – 1 % K].
+ Application of single super phosphate to the pit will improve the quality of
+manure
+15
+Lecture 4: Compost - Different methods of composting – Factors
+affecting Composting & advantages
+__________________________________________________________________________________
+Composting: Composting is a process of converting organic matter in to manure in a
+short time by accelerating fermentation process under controlled conditions is
+called composting.
+The organic material that is usually handled for composting are waste vegetative
+material such as spoiled straw, peanut hulls, saw dust, dried leaves etc.,
+stubbles, plants, cotton stalks, tobacco stems, weeds, municipal rubbish etc.,
+according to availability.
+The word compost is derived from the Latin word “COMPONERE” to mean put
+together.
+Compost: Compost is a product of decomposition of plant and animal wastes with
+various additives .The compost had the largest variation of all organic material
+ranging from neglected garbage dumps to carefully composted and treated
+substances with high fertility.
+PURPOSE & ADVANTAGES OF COMPOSTING
+ The purpose of composting is to convert organic matter/ wastes into
+growth promoting substances, for sustained soil improvement and crop
+production.
+ It does not require any skill and accumulation of garbage in the cities
+and towns can be reduced
+ Spread of diseases due to harmful microbes that develop on garbage
+can be avoided.
+ C: N of the residues and waste material can be effectively reduced and
+be used as sources of valuable nutrients.
+ As weed seeds gets decomposed during the process of composting,
+spread of weeds can be arrested.
+ Space occupied by garbage/residues can be saved.
+16
+FACTORS AFFECTING COMPOSTING
+ Physical and chemical properties of organic waste
+ Aeration in the compost pit
+ Moisture content in the compost pit- care should be taken to maintain
+optimum moisture
+ Temperature in the compost pit.
+ pH in the compost pit.
+ Time taken for composting
+ Yeast sludge can be used to hasten the process of composting
+Bacteria like
+Bacillus brewis, Bacillus circulans, Bacillus coagulans, Bacillus subtilis:
+Actinomycetes like
+Nocardia, Streptometes rectus, and Thermoactinomycetes vulgalris and
+Thermonospora.
+Fungi like
+Mucor, Chetomium, Thermophylum, Pencilium and Aspergillus are involved
+in composting
+17
+Lecture 5: Compost - Preparation of Composts from agricultural
+Wastes (Rural Compost) & Urban Compost
+__________________________________________________________________________________
+TYPES OF COMPOSTS
+1. Rural compost
+2. Urban Compost
+RURAL COMPOST
+Compost prepared using farm organic wastes and fresh dung and /or urine soaked
+earth as starter is called as Rural Compost. This is within the reach of farmers, as
+they can individually prepare the compost in their farm sheds.
+Composting can be done in a pit size of 12 x 50 x 6 feet size located on an elevated
+place. Even length and width are adjustable depending upon the raw material
+available.
+Keep the sides of the pit slanting. When a number of pits are dug, keep 12 feet gap
+between the pits for facilitating turnings .Locate the compost pits away from the
+civilians areas.
+Basic raw material:
+1) Green succulent, non-woody and non-fibrous material, food wastes, other
+wastes generated in the villages
+2) Dry materials like sugarcane trash, cotton stubbles etc., (3" thick), crop residues,
+and animal shed waste
+Starter : Dung and water
+Neutralizing agents for organic acids: Bone meal is preferred to ash as it provides
+Ca and also phosphate, which are desirable constituents in the final product.
+Procedure:
+The organic material is spread in layers .The thickness depends upon compostability
+of materials. Green succulent non-woody materials can be laid in 12 " layer while
+tough woody materials like sugarcane trash and stubbles are spread in 3" layer.
+18
+Bone meal or ash is sprinkled in a thin layer over the
+material to provide the base for neutralizing organic
+acids produced during the decomposition. Dung and
+water is then sprinkled over the layer. Dung functions as
+starter while the water provides the moisture. The layers
+are thus built up to a height of one foot above the ground
+level. It is desirable to cover the surface of the heap with a layer of earth. Periodically
+watering is done.
+Precautions:
+ Over watering creates anaerobic decomposition.
+ Turnings are necessary to hasten the aerobic decomposition
+ After turning the compost must be re-heaped and covered
+ Use the compost immediately
+ It is to be preserved by providing suitable cover
+ The compost will be ready by three months to one year depending upon
+material (Sugarcane trash –late )
+URBAN COMPOST
+Compost prepared by local bodies, municipalities, corporations etc., with their out
+Put of street sweepings, municipal rubbish etc., as organic matter using night soil as
+starter is called urban compost
+Methods of urban composting:
+This process composting is taken up at least 1.5 km away from the residential
+areas/townships. Town refuse is heaped into a pit of dimensions of 8 x 4 x 4 feet .A
+groove measuring 6 x1 x 1 feet is made at the top in the centre and is filled up with
+night soil and covered over with refuse. Heap is moistened daily with sullage water
+and racked up once a week. For six weeks by which the decomposition process
+would be complete and the product would be ready for use as manure.
+Sprinkling of copper sulphate powder between layers will put down the offensive
+odour due putrefactive fermentation of the material
+19
+The various systems of urban composting are
+1. ADCO process (Agricultural Development Company )
+2. Activated compost process
+3. Indore process
+4. Bangalore process
+5. Coimbatore process
+The raw material and starters /catalysts used vary with various methods. Lime,
+Ammonium Sulphate, Bone meal, Urea, Oilcakes and charcoal are used hasten up
+the process. The decomposition/ composting will be completed in 3-4 months and is
+fit for application to the field.
+Comparison between rural and urban composts
+Rural compost Urban compost
+Prepared by farmers in the villages near their Prepared by local government bodies at
+farms and cattle sheds least 1.5 km away from the residential
+areas/townships
+Raw materials are green succulent, non- Raw material is Street sweepings,
+woody and non-fibrous material, food wastes, municipal rubbish etc.,
+other wastes generated in the villages and
+farms like sugarcane trash, cotton stubbles,
+crop residues, animal shed waste etc.,
+Starter material is dung Starter material is night soil
+Moisture is provided with water Moisture is provided with sullage water
+Bone meal or ash is sprinkled in a thin layer Lime, Ammonium Sulphate, Bone meal,
+over the material to provide the base for Urea, Oilcakes and charcoal are used
+neutralizing organic acids hasten up the process.
+Compost will be ready by three months to one Composting will be completed in 3-4
+year months
+20
+Benefits of composting
+ Enables clean environment
+ Absorbs odors, degrade toxic substances and heavy metals
+ Avoids un-necessary dumping of wastes
+ Supply valuable organic manure
+General Properties of Commercially Accepted Compost:
+Color Brown Black
+Nitrogen ( % ) >2
+P (%) 0.15-1.5
+C: N <20
+Odor Earthy
+Ash % 10-20
+Water Holding Capacity (%) 150-200
+Moisture % 10-20
+CEC (Meq 100 g ) 75-100
+-1
+21
+Lecture 6: Biogas- Plant construction-Precautions to be taken-
+management –Advantages
+__________________________________________________________________________________
+Use of animal waste as manure is an age old practice. However, the animal dung is
+very good source of energy and produces very high heat. The German scientists
+have identified that when dung or any other organic materials is fermented in
+absence of air, the combustible gas methane is produced and that gas can be used
+as source of energy and the left out slurry can be used as manure to agricultural
+lands. This has led to concept of development of Biogas. This concept has helped
+in a very good development of villages and the biogas unit is popularly called as
+Gruha Lakshmi.
+Construction of Biogas Plant:
+The major components of the unit are Mixing plant, Digester/Fermenter, An iron
+drum and connecting pipes.
+Digester/Fermenter
+In biogas plant, the fermentation is carried out in a brick lined well like
+concrete structure called digester/fermenter. The size of the structure/well depends
+on the quantity of biogas to be produced. Generally, the well is built with depth of 3.5
+to 6.0 m depth and with diameter of 1.2 to 6.0 m. Performance biogas unit depends
+on the digester. Internally, the digester is separated in to two compartments, on one
+side it is filled with dung made in to liquid slurry with water. The other partition of the
+well is used for filling of digested slurry. On one side, the digester is connected to the
+mixing tank and on the other side an outlet is provided for passage of digested
+effluent/biogas slurry. The slurry will be generally routed to the compost pit.
+Mixing tank/plant
+Adjacent to digester, a tank is constructed to mix dung and water (in 4:5
+ratio). A cement pipe is arranged connecting the digester and the mixing tank
+through which the mixed slurry is passed into the digester.
+The digester is covered with an iron drum introduced upside down in the well which
+serves to cut off air and provide the necessary conditions for fermentation. The
+methane gas is produced in the form of bubbles inside the drum which gradually fills
+22
+up and begins to float and rise. The gas is then taken through a wheel cock on the
+top of the drum and led to the kitchen by pipes and burned through suitable burners.
+The gas production is maintained by adding 50 kg fresh dung daily through a
+funnel pipe which carries the slurry to the bottom of the well.
+Precautions to be taken while setting up a gas plant
+1. A minimum of 45 kg dung should be available to operate the gas plant of
+23
+60 cubic feet (2 m3) capacity. Medium size cow, buffalo or bullock yield 10
+kg fresh dung and roughly 5 animals are needed.
+2. Night soil can also be used. Sixty (60) adults are needed for the above
+plant. This is normally possible in case of hotels, hostels, public lavatories
+etc.,
+3. Besides cattle dung and night soil, piggery and poultry droppings if
+available in sufficient quantities can also be utilized.
+4. The gas plant should be located in open space in order to receive
+maximum possible sunshine to ensure better fermentation and gas
+production.
+5. Normally the distance between gas plant and place where gas is to be
+used should be within 20 meters (Kitchen to gas plant).
+Advantages of Biogas Plant:
+1. The cow dung when processed through the gas plant yields enough gas
+(combustible gas) for cooking, lightening and good quality methane free
+manure.
+2. Biogas slurry is also used as bulky organic manure. The manure obtained
+from biogas plants has higher content of nitrogen (1.5%) as against 0.7%
+found in FYM.
+3. The thermal efficiency of cow dung bunt for fuel in usual manner is around
+11 per cent while it is 60 per cent when burnt in properly designed burners.
+4. Biogas digest is very rich in humus content
+5. The manure is free from offensive odour
+6. It helps in improving the sanitation by preventing fly and mosquito
+breeding.
+24
+Lecture 7 & 8: Vermicompost – Preparation of vermicompost beds and
+suitable earthworm sps for vermicomposting- Advantages of
+vermicompost & precautions
+__________________________________________________________________________________
+Vermicomposting is a method of making compost, with the use of earthworms,
+which generally live in soil, eat biomass and excrete it in digested form. This
+compost is generally called as vermicompost or Wormicompost. It Is an emerging
+technology for recycling of crop residues and other organic solid wastes.
+Definition of Vermiculture:
+Vermiculture means scientific method of breeding and rising earthworms in
+controlled conditions. The species like
+Perionyx excavatus, Eisenia foetida,
+Eudrilus eugeniae and Lampito marutii are
+effective in converting
+Vermi technology:
+Vermitechnology is the combination of vermiculture and vermicomposting. Thus,
+earthworms can be used in the following areas.
+1. For development of arable soils , turnover of soil, break down of plant
+organic matter, for improved aeration and drainage
+2. For production of useful products like vermifertilizer and worm tissue for
+animal feed.
+3. For maintenance of environmental quality and monitor of the environment
+for soil fertility, organic and heavy metal non-biodegradable toxic material
+pollution.
+Preparation of vermicompost:
+1. Basic raw material : Any organic material generated in the farm like bhusa,
+leaf fall etc.,
+2. Starter : Cow dung, Biogas slurry or urine of cattle
+3. Earth worms (Species like Eisenia foetida )
+4. Favourable conditions of earth worms in the composting material:
+25
+A. pH : Range between 6.5 and 7.5
+B. Moisture : Waste/residues should have 60-70 % moisture
+C. Aeration : 50 % aeration from the total pore space
+D. Temperature: Range between 18 0C to 35 0C
+Procedure:
+It is mostly prepared in either pit or heap method. The dimensions either heap
+or pit are generally 10 x 4 x 2 feet. The length and width can be increased or
+decreased depending on the availability of material but not the depth because the
+earthworm’s activity is confined to the 2 feet depth only. Shade should be provided
+above the beds either with thatched roof or net.
+Application of dung slurry as starter
+Provision of shade and moisture
+Spreading crop residues/ organic waste in
+layers in a pit of 10 x 4 x 2 feet size
+The raw material is spread in layers in the pit. The 1st layer is a bedding
+material of 1" thick with soft leaves/ coir /cane trash, the 2nd layer is 9" thick organic
+residue layer with finely chaffed material like shed waste, vegetable waste and crop
+residues while the third 3rd layer is with starter material (dung + water mixture)
+26
+equal of 2" layer. The waste may be pre-incubated with dung slurry before filling in
+to the pit.
+Continue to add the layers up to pile to ground level protect the worms against
+natural enemies like ants, lizards, snakes, frogs, toads etc., Maintain proper moisture
+and temperature by turnings and subsequent staking. After completely filling,
+worms are introduced in to the pit [1m2=1000 worms or 1kg per tonne of residue].
+The pit should be covered with old gunny bags or rice straw and maintained moist by
+regular sprinkling the water and moisture content of the pit should be maintained at
+30-40%. By two months, entire raw material will be turned into the vermicompost.
+The turnover of the compost is 75 % [the total material accommodated in the pit is
+1000 kg; The out turn will be 750 kg]
+Harvesting of the vermicompost from the pit:
+Stop watering before one week of harvest. All the
+worms spread across the pit come in close and
+penetrate each other in the form of ball in 2 or 3
+locations. Heap the compost by removing the balls
+and place them in a bucket, then the material is
+sieved in 2 mm sieve, the material passed through
+the sieve is called as vermicompost which is stored
+in a polythene bags
+Conversion rates: 1000 earth worms may convert 5 kg waste material per day
+1000 worms weighs about a kilogram
+Precautions to be taken
+ Vermicomposting is done under thatched roof to protect worms against rain
+and sun.
+ Plastic and glass should be carefully sorted out while adding waste in to pit.
+ Vermicompost should be harvested at appropriate time
+ Pre-incubated waste may be preferred for filling in to the pit.
+ Care and protection should be provided against ants, rats and other natural
+enemies
+27
+Advantages of vermicomposting:
+1. There will be no immobilization in compost because of narrow C:N ratio.
+2. Vermicompost is rich in nutrients when compared to FYM.
+Nutrient composition of vermicompost
+S. No. Nutrient Content
+1 Organic carbon 9.15 to 17.98 %
+2 Total nitrogen 1.5 to 2.10 %
+3 Total phosphorus 1.0 to 1.50 %
+4 Total potassium 0.60-0.80 %
+5 Ca and Mg 22.00 to 70.00 m e / 100 g
+6 Available S 128 to 548 ppm
+7 Copper 100 ppm
+8 Iron 1800 ppm
+9 Zinc 50 ppm
+3. Besides the above nutrients the vermicompost also contains the enzymes
+like Protease, Lipase, Amylase, Cellulose and other growth promoting
+hormones.
+4. Application is easy, because the compost is humified and have a structure
+of crumb and granular.
+5. It is hygienic; pathogens and weeds seeds are destroyed.
+6. No loss of nutrients
+7. Provides buffering against soil acidity and alkalinity.
+8. It improves physical properties better than compost on soil application and
+Improves water holding capacity of the soil
+9. Quality, fragrance and shelf life flowers and fruits is improved
+10. Imparts disease and pest resistance to crops
+11. Improves the yield
+12. Helps in reducing the environmental pollution and ecologically safe.
+28
+Application/dosage
+ Vermicompost may be applied @ 1 t/ha for various field crops
+ For fruit crops, 5-10 kg/tree is recommended
+ For flowering plants in pots, 200g/pot is recommended
+29
+Lecture 9: Green manures – Green manuring in situ – Criteria for
+selection of crops – Crops suitable – Nutrient composition.
+__________________________________________________________________
+Green manuring: Green manuring can be defined as growing of a green, nutrient
+rich, succulent and fast growing crop for the specific purpose of incorporating it into
+soil while green, or soon after maturity with a view to improve the soil and benefiting
+subsequent crops or Practice of ploughing or turning in to the soil undecomposed
+green plant tissues for the purpose of improving physical condition as well as fertility
+of the soil.
+Objectives of green manuring:
+i. Increasing organic matter content of soil
+ii. Maintain and improve soil structure
+iii. Reduce the loss of nutrients, particularly nitrogen
+iv. Provide a source of nitrogen for the following crop.
+v. Reduce the soil loss by erosion
+Suitability criteria of crops for growing as green manure crops
+The crops should be
+1. Fast growing and should be able to produce more biomass
+2. Should be able to grow in all soil types.
+3. Leaves should be non fibrous and succulent.
+4. Should decompose quickly
+5. Should have deep root system and be able to mine nutrients from deeper
+layers.
+6. Should grow quickly to smother the ground and control weeds
+7. Preferably a legume crop that can fix nitrogen from atmosphere through
+symbiosis.
+30
+Types of green manuring:
+The practice of green manuring is adopted in various ways in different states of
+India to suit soil and climatic conditions. Broadly speaking, the following two types of
+green manuring can be differentiated.
+1. Green manure in situ
+2. Green leaf manuring
+I. Green manuring in situ:
+In this system, green manure crops are grown and buried in the same field which is
+to be green-manured, either as a pure crop or as intercrop with the main crop. This is
+most common green manure crops grown under this system are sunnhemp
+(Crotalaria juncea), daincha (Sesabania aculeata), Pillipesera (Phaseolus trilobus)
+Indigo (Indigofera tinctoria), Wild Indigo (Thephrosia purpurea) and guar (Cyamopsis
+tetragonoloba)
+The green manure crops are mostly legumes, which are fast growing and yield
+substantial succulent vegetation. There is little or no preparatory cultivation. Sowing
+is effected by broad cast adopting a heavy seed rate. Green manuring can be safely
+adopted for irrigated and irrigated dry crops viz., rice, sugarcane, tuber crops,
+vegetables and orchards. In case of dry crops it is unsafe because of limiting
+moisture. But when rains are sufficient and evenly distributed green manuring could
+be followed even under rain fed conditions when the rain fall is above 900 mm
+(Application of lime is suggested to neutralize organic acids that are formed during
+decomposition (Bone meal preferred )
+Characters of some green manure crops
+1. Sunnhemp (Crotalaria juncea) :
+i) It is a unique crop possessing, fiber, fodder
+and green manurial value with nutrient
+composition of 2.3 % N, 0.2 % P and 1.4 %K
+ii) It can be raised beneficially for irrigated dry
+conditions
+iii) Under high rain fall conditions it is grown in dry lands
+iv) Grown in medium fertile soils
+31
+v) Seed rate is 45 kg ha -1
+vi) Green matter yield 9-17 tonnes ha -1
+2. Daincha (Sesbania aculeata) and (Sesbania speciosa)
+i. They are erect growing deep rooted crops and useful to open soil and
+improve drainage in heavy soils.
+ii. Nutrient composition(%) [3.5 N,0.3P and 1.0K]
+iii. These crops are grown on heavy soils
+iv. They are non fodder crops and non palatable
+v. They correct sodic soils specially S. speciosa as it
+is less woody and less fibrous, which gives heavy
+foliage and easily decomposable
+vi. Seed rate 30 kg ha -1
+vii. Yield 5 tonnes ha -1
+viii. Seeds require scarification for easy germination
+(Scarification means lightly pounding with sand).
+3. Indigo (Indigofera tinctoria ):
+i) Slow growing, deep rooted drought resistant crop
+ii) It is not relished by cattle
+iii) Can be grown in fruit gardens and plantations during non –monsoon
+iv) Seed rate is 20 kg ha -1
+v) Yield is 5 tonnes ha -1
+4. Wild indigo (Tephrosia purpurea )
+i) It is suited for hard coarse gravelly textured soil
+and poor soils.
+ii) It is used as a green leaf manure also
+iii) Self grown crop when sown once
+iv) Suitable for unirrigated orchards like mango,
+32
+sapota
+v) Nutrient composition (%) crop: 1.8N , 0.1 P and 0.3 K ; leaf : 3.2 N, 0.1 P
+and 1.2 K
+5. Pillipesara ( Phaseolus trilobus )
+i) Regular green manure, minor pulse crop and fodder crop ( triple purpose
+crop )
+ii) Popular green manure crop for black and alluvial soils
+iii) It has good ratooning capacity
+iv) The crop could be incorporated in to the soil after two cuttings for fodder
+v) Yield : 3-5 tonnes ha -1
+vi) Seed rate : 35 kg ha -1
+vii) Chemical composition (%): 3 N,0.1 P and 0.3 K
+6. Horse gram (Dolichus biflorus)
+i. It is suitable as green manure crop for poor and hard soils.
+ii. It can also withstands drought .
+iii. Seed rate is 35 kg ha-1 and yield a green matter of 3.5 tonnes ha -1
+33
+Lecture 10: Green manuring in situ – Advantages and Limitations–
+cultivation Techniques
+__________________________________________________________________
+Advantages of green manuring (in situ):
+1. Green manure crops can be chosen to suit the soil, season, water
+facility and cropping pattern
+2. Reduces expenditure on collection and transportation of green leaf
+3. It is easy to incorporate the green manure crop in right time
+4. It reduces the loss of nitrogen from the soil, fixes atmospheric
+nitrogen(Rhizobium fixes 25-50 kg nitrogen/acre in their root nodules)
+5. Improve soil physical conditions and water holding and infiltration capacity.
+6. Improves soil organic matter and provides good substrate for growth of
+microbes and over all soil quality will be improved.
+7. Promotes mineralization of nutrients and nutrient availability will be
+increased.
+8. Improves use efficiency of applied nutrients
+9. Availability of phosphorus and sulphur will be improved.
+10. micronutrients will be high due to formation of chelation.
+11. Crops like daincha and sesbania can reclaim the salt affected soils
+12. Crops like Crotalaria and Pillipesara are suitable as fodder for cattle
+Limitations of green manure crops (in situ)
+1. There must be sufficient time available for growing the green manure crop,
+nearly 2-3 months
+2. Extra expenditure has to be incurred for growing green manure crop
+3. Some of the green manure crops are of fodder value, they are liable for
+cattle trespass
+4. They are susceptible for pests and diseases as such they may harbour
+them as alternate hosts.
+34
+5. Need timely rainfall or irrigation etc.,
+6. Seeds may not be available in time
+Method or techniques to be followed for green manuring:
+1. Green manuring crop should be sown done immediately or prior to
+harvesting of main crop. Ex Crotalaria and Pillipesara are sown prior to
+harvest of rice
+2. If moisture is insufficient , should be sown with the start of monsoon
+3. If irrigation facilities are available a summer crop may be preferred
+4. Time gap available between two long duration crops (like sugarcane-
+February and rice-June) can be utilized
+5. Can be cultivated as intercrop in crops like turmeric, yam and cane and
+incorporated at the time flowering
+6. The crop should be tender and incorporated at the stage of 50% flowering,
+delay in incorporation will affect the decomposition.
+7. More seed rate should be adopted to promote dense and good crop
+growth.
+35
+Lecture 11: Green leaf manuring– Advantages and Limitations– crop
+suitable-Cultivation Techniques
+___________________________________________________________________
+II. Green leaf manuring:
+Green leaf manuring refers to addition of green leaves and tender twigs
+collected from shrubs and trees grown on bunds, waste lands and nearby forest
+areas and turning into the soil. In dry and rainfed areas where green manuring in
+situ is not possible, it is practicable to go for green leaf manuring 15-20 days prior to
+sowing of main crop. The common shrubs and trees used are Glyricidia , Sesbania
+speciosa , Karanj (Pongamia pinnata ) etc.,
+Plants used as a source of green leaf manure are as follows
+1 Azolla pinnata
+2 Calotropis gigantea
+3 Cassia auriculata
+4 Cassia siamea
+5 Cyamopsis tetragonoloba
+6 Ipomea carnea
+7 Gliricidia maculate
+8 Leucaena leucocephala
+9 Pongamia glabra
+10 Sesbania rostrata
+Advantages of green leaf manuring
+1. All the quantity of green leaf applied is entirely anaddition to soil –
+neither the moisture nor nutrients are utilized from the soil
+2. There is no fear of spread of pests and diseases
+3. It can be adopted at any time irrespective of the season
+Limitations of green leaf manuring:
+1. The green leaf is not available everywhere except in forest regions and
+waste lands
+36
+2. Green leaf whichever is available has to be used without choice
+3. Green leaf may not be available sufficient quantity in all seasons
+4. Extra expenditure on collection and transport has to be incurred
+Method or techniques to be followed for green leaf manuring:
+1. Green leaf manuring should be done 15-20 days prior to sowing of main
+crop.
+2. There should be optimum moisture at the time of
+incorporation.
+3. Application single super phosphate will hasten
+up the process of decomposition.
+4. The leaves and twigs should be tender.
+37
+Lecture 12: Concentrated organic manures – Plant origin manures –
+Edible and non-edible oil cakes – Nutritional composition
+__________________________________________________________________
+These are the organic manures of plant and animal origin and contain more
+quantities of major and micro plant nutrients and considerable amount of organic
+matter.
+These manures should be powdered and applied at the time of land preparation
+for thorough incorporation in the soil. These decompose quickly than the bulky
+organic manures and supply nutrients to plants.
+Nitrogen content is higher in concentrated organic manures and varied from 2.5
+per cent in mahua cake to 7.9 per cent in decorticated safflower cake. since they
+contain nitrogen in relatively large quantities, they are usually classified as organic
+nitrogenous manures . By virtue of this high nitrogen content they enrich the nitrogen
+status of soil.
+In addition to nitrogen all the oil cakes contain P O (0.8 to 2.9 %) and K O (1.2
+2 5 2
+to 2.2%).
+The classification of concentrated organic manures is as given under
+Concentrated organic manures
+(Quick acting with small quantity of organic matter)
+Plant Origin
+Animal Origin
+Blood Meal
+Edible oil cakes
+Non –edible oil cakes
+(suitable for cattle and poultry feeding )
+(suitable for crop fertilization)
+M ustard cake, Linseed cake, Sesame Bone meal
+Neem cake, Castor cake ,
+cake, Coconut cake
+Sunflower cake, Safflower cake,
+Groundnut cake
+cotton cake, Mahua cake
+Horn meal
+Fish meal
+Guano
+38
+PLANT ORIGINATED CONCENTRATED ORGANIC MANURES
+OIL CAKES: After removal of oil from seeds, the residue is made in to cakes. Oil
+cakes are used as organic fertilizers as they are rich source of organic nitrogen in
+protein form. In addition to N, small amounts of P, K and micronutrients.
+Composition of oil cakes is variable. Oil cakes are quick acting organic manures.
+The decomposability increases with decrease in oil content .They nitrify in about 30-
+45 days on addition to the soil .The rate of decomposition can be hastened by
+grinding the oil cakes into fine powder and thorough mixing with the soil .
+Oil cakes are classified into two groups viz.,
+i) Edible oil cakes: Suitable for cattle and poultry feeding and also as a
+manure/ fertilizer. Edible oil cakes serve as fertilizers, but their use is restricted due
+to economic reasons. Ex. Groundnut, Coconut, Gingelly cakes etc.,
+ii) Non –Edible oil cakes: Suitable for crop fertilization. Eg. Castor cake, neem
+cake, Mahua cake, Cotton seed cake, Mustard cake, Safflower cake etc.,
+Castor cake: it is also called as castor pomace. It is a by- product and the ground
+residue of beans from which oil has been extracted. it is poisonous to animals and
+used only as fertilizer. It contains 4.4 % N , 1.9 % P O and 1.4 % K O.
+2 5 2
+Neem cake: Cake is prepared by crushing the neem seed (with shells) in expellers
+and oil is separated. Neem cake is useful for cash crops mainly due to insect
+repellant or insecticidal properties owing to the presence of residual bitter and
+sulphur. Comparatively it contains higher N. It cannot be used as a cattle feed due to
+its bitter taste. Neem cake has also been used as coating material over urea super
+granules as the former is reported to improve the fertilizer efficiency of soil applied
+urea.
+39
+Lecture 13: Animal origin manures – Blood meal, Bone meal, Fish
+meal, Horn meal and Guano–Nutritional composition
+__________________________________________________________________________________
+ANIMAL ORIGINATED CONCENTRATED ORGANIC MANURES
+BONE MEAL: Bone meal is a white to whitish material produced by treating the bones
+obtained in abattoirs (Slaughter houses) .The bones are dried, crushed, degreased
+and cleaned to obtain bone grist. Through steaming or deamination process proteins
+are removed from the grist and are referred as steamed bone meal. Finely ground, it
+serves as an organic N- P fertilizer.
+Bone meal is a good P-fertilizer of organic origin i.e., it contains Ca (PO ) . It
+3 4 2
+has 1.0 to 4.0 per cent N and 10-25 per cent P. In general young bones contain less
+P and more nitrogen than older bones. It is particularly useful for soils high in Fe and
+Al content (acid soils) and applied along green manures with advantage prior to
+sowing or planting. It can be used for all crops rather indiscriminately without fear of
+salt damage (burning) unlike chemical fertilizers.
+HORN MEAL: Horn powder, horn grist or horn chips can be obtained depending on
+the degree of crushing and collectively termed as horn meal .This is a slow acting
+fertilizer of Nitrogen containing 14 per cent N. About 3-4 kg horn and hoof material
+can be obtained from each animal.
+BLOOD MEAL/ BLOOD POWDER: Blood is collected from abattoirs (slaughter
+houses) dried and ground. This powder is used as manure. Of all the protein organic
+manures, dried blood has the highest availability of N it is 80 per cent as efficient as
+the inorganic N fertilizer in providing the nitrogen to the crop. About 30-40 kg of dried
+blood is obtained from 100 kg fresh blood.
+FISH MEAL: The non-edible fish, fish carcasses and offels (parts of butchered
+animal) are used to prepare fish meal. Such material are crushed or powdered after
+drying. The oil is generally removed before the meal is ground and facilitate easy
+decomposition .It is quick acting fertilizer suitable for all crops on all soils .It contains
+4 to 10% N, 3 to 9 % P O and 0.3 to 1.5 % K O
+2 5 2
+GUANO: The name Guano is originated in PERU, from the word “HAUNO” to mean
+manure. GUANO is a product of sea bird (Pelican, Gannets, and Albatrosses)
+excrement covered over long periods and occurring in natural deposits. These birds
+40
+live on islands with no rain or vegetation along with the pacific ocean coasts of
+PERU and CHILE and feed on abundant fish in the sea. These deposits are treated
+with concentrated sulphuric acid and prepared as manure.
+Nutritional Composition of various Organic manures
+Organic Manure Nitrogen (%) Phosphorus (%) Potassium (%)
+Bulky Organic Manures
+Farm Yard Manure 0.5-1.5 0.3-0.9 0.5-1.9
+Poultry manure 3.0 2.0 2.0
+Sheep manure 0.5-0.7 0.4-0.6 0.1-3.0
+Pig manure 3.75 3.13 2.5
+Rural compost 0.5 0.15 0.5
+Urban compost 1.4 1.0 1.4
+Vermicompost 1.3-3.0 1.5-2.2 1.1-1.75
+Biogas slurry 2.0-2.5 1.5 1.0
+Green manures
+Crotolaria 0.75 0.12 0.51
+Dhanicha 0.62 0.15 0.46
+Pillipesara 0.72 0.10 0.53
+Cowpea 0.71 0.15 0.58
+Concentrated organic manures
+Plant origin - Edible
+Gingelly cake 4.7 2.1 1.3
+Coconut cake 3.4 1.5 2.0
+Groundnut cake 6.5 1.3 1.5
+Plant origin-Non edible
+Neem cake 5.2 1.1 1.5
+Castro cake 4.4 1.9 1.4
+Safflower cake 7.9 2.2 1.9
+Mustard cake 4.8 2.0 1.3
+Cotton seed cake 6.9 3.1 1.6
+Animal origin
+Bloodmeal 12.0 1.5 0.8
+Horn meal 14.0 - -
+Fish meal 4-10 3-9 0.3-1.5
+Bone meal 1-4 10-25 --
+Guano 8-15 2.3 2.4
+41
+Lecture 14: Bio-fertilizers – Classification – Atmospheric nitrogen
+fixers
+_________________________________________________________________________________
+The soil is packed with millions of living organisms which make it a living and
+a dynamic system. Role of high yielding varieties and use fertilizers is indispensable
+in Green revolution. However, due to non-availability of organic manures in villages
+farmers are resorting to excessive and indiscriminate of chemical fertilizers to
+achieve higher yields. But this is leading to soil, water and environmental pollution
+and the productive agricultural soils are getting degraded. Under such situations bio-
+fertilizers are good alternative sources to protect our soil.
+Bio-fertilizers or Bio-inoculants are productions containing living organisms such
+as nitrogen fixers or phosphorus solubilisers which are useful for agricultural
+production.
+Bio-fertilizers play a significant role in improving soil fertility and plant growth
+ by fixing atmospheric nitrogen both in association with plants and without
+plants
+ by solubilising insoluble soil phosphates into soluble phosphates there by
+increasing the availability of phosphorus
+ by secreting growth promoting substances and supplies to the inoculated
+plants.
+Classification of Bio-Fertilizers
+Bio-fertilizers
+Nitrogen fixers
+Phosphorus Mobilizers
+Symbiotic fixers
+Ex. Rhizobium, Azorhizobium,
+Actinimycetes, Algae
+Associative
+Phosphate solubilizes
+Ex. Azospirillum
+Ex. Bacillus, Pseudomonas,
+Pencillium, Aspergillus
+42
+Free-living
+Phosphate absorbers
+Ex. Azatobacter, Clostridium, BGA
+Eg.VAM fungi
+Nitrogen fixing bio fertilizers
+Atmosphere contains nearly 78% of nitrogen in gaseous form, and this is 1.5 times
+higher than the N content present in urea. Certain group of microbes are capable of
+fixing the gaseous nitrogen and convert into plant available form. Nitrogen fixation is
+a biochemical reaction where in the atmospheric gaseous nitrogen (N ) is reduced to
+2
+ammonia (NH +) in the presence of nitrogenase enzyme. This ammonia can be
+4
+utilized by the plants.
+A well-developed root system, slightly alkaline soil reaction and availability of
+sufficient quantities of phosphorus, calcium, sulphur iron and molybdenum in soil are
+the favourable conditions for nitrogen fixation
+Different kinds of nitrogen fixation
+Symbiotic nitrogen fixation: This kind of association is primarily seen in
+leguminous crops. Here microbes live in the roots/stems of plants and absorb their
+food from plants and in turn they fix the atmospheric nitrogen.
+Examples
+Bacteria: Rhizobium (on root nodules of legumes) and
+Azorhizobium colidans (On stem nodules of sesbania)
+Actinomycetes: Frankia on Casuarina
+Algae: Anabaena and Azolla in rice
+Associative Nitrogen Fixation
+In this the microbes will be living in association with plant but there will not be any
+mutual benefit or inter dependency.
+Ex. Azospirillum
+Free living nitrogen fixation
+In this the microbes will be living freely without any association with plant and fix the
+atmospheric nitrogen
+Ex. Azatobacter, Clostridium, BGA
+43
+Lecture 15: Symbiotic nitrogen fixers – Associative nitrogen fixers and
+free living nitrogen fixers
+__________________________________________________________________________________
+Symbiotic nitrogen fixers
+Rhizobium inoculants:
+Belongs to the family Rhizobiaceae and symbiotic in nature. Rhizobium establishes
+symbiotic relations with pulses and other legumes and can fix 50 to 100 kg N ha-1 by
+which application of chemical nitrogen fertilizers could be reduced and supplemented
+nearly 80-90 per cent of nitrogen requirement of crop is met by nitrogen fixation in
+root nodules of legume crops. On average yield increase was 15-30 % due to
+rhizobium inoculation.
+It is used for pulse legume crops like chick pea, red gram, chickpea, lentil, black
+gram etc., and oil seed legumes like soybean and groundnut and forage legumes
+like besrseem, lucerne and pillipesara. The rhizobia show host specificity to some
+extent. In other words rhizobia isolated from ground nut cannot be used for red gram.
+Rhizobium sps Specific Crop
+Rhizobium meliloti Berseem
+Rhizobium trifoli Pillipesara
+Rhizobium leguminosarum Peas& Lathyrus beans
+Rhizobium phaseoli Black gram
+Rhizobium japanicum Soybean
+Rhizobium (cowpea group) Cowpea
+Method of preparation:
+This biofertilizer is available commercially as carrier based (lignite or peat)
+biofertilizers. Direct application of rhizobium to seed is the most common form of
+legume inoculation (seed coat).
+However, for groundnut, slurry of peat based inoculam in the seed furrows is
+recommended as the seeds are fragile. Prepare a solution of jaggery/sugar by
+dissolving 50g in 1 litre of boiling water and to this solution, after cooling add 200g
+rhizobium culture and can be used as seed coat. Seed should be shade dried before
+sowing. 200g of rhizobium is sufficient to coat the seed necessary for one acre.
+44
+AZOLLA [Botanical name is Azolla pinnata] :
+It belongs to the family Azollaceae. Azolla is a water fern. It is considered as aquatic
+weed commonly found in floating in idle ponds, tanks shallow ditches and canals.
+Azolla is associated with rice field.
+A blue green algae (BGA) Anabaena azollae living in the epidermal cavity of
+lower side of the leaf of Azolla. The symbiotic association of Azolla pinnata and
+Anabaena azollae is termed as Azolla Anabaena complex. This algae fixes
+atmospheric nitrogen for Azolla and in exchange, the plant provides shelter and food
+to the algae. As this complex fixes atmospheric nitrogen, it has great potentiality for
+use, in agricultural field as biofertilizer and can be used as an alternative to nitrogen
+fertilizers. It is recommended as green manure because of its large biomass and
+high N content (4-6%N) for sub merged rice fields, with in maximum temperature of
+380C. The yield increase is 15-20%.
+Associative Nitrogen Fixers
+In this the microbes will be living in association with plant but there will not be any
+mutual benefit or dependency.
+Azospirillum Inoculant :
+It belongs to the family spirillaceae, chemoautotrophic and associative in nature. It is
+an associative nitrogen fixing organism was found to be beneficial for sorghum,
+wheat, maize, barley, fodder grasses and minor millets. Yield increase was 15-30 %.
+By the application of this fertilizer nitrogen saving is 20-30 kg /ha. It also produces
+growth regulating substances.
+Application of this biofertilzer results inIncreased mineral uptake, Increased water up
+take, good Root development and vegetative growth. Make the plant drought
+resistant
+Freeliving Nitrogen Fixers
+Azotobacter inoculant:
+Azotobacter belongs to the family Azotobacteriaceae, which is a chemoautotrophic in
+nature, frees living, non-symbiotic in nature and is recommended for application to
+non-legume crops. It thrives well in many types of soils, with a minimal dose of
+phosphorus and carbon compounds. It grows best in neutral to alkaline soils. By the
+45
+application of Azotobacter to various crops, the amount of recommended doses of
+nitrogenous fertilizers can be reduced by 10-20%. It produces plant growth
+promoting substances like vitamins of B group, Indole acetic acid, Gibberellic acid by
+which plants grow quickly and healthy. Yield increase of 10-15 % was noticed in
+some millet. This biofertilizer is recommended for rice, wheat, millets and other
+cereals, vegetables, sunflower, mustard, tobacco, sugarcane, cotton etc., and also
+fruit crops.
+Method of usage: It is carrier based biofertilizer (lignite / peat). Azotobacter can be
+applied by seed inoculation, seedling inoculation, or by broad casting in the field after
+mixing with FYM or with well decomposed compost.
+Seed inoculation: Seed is treated with Jaggery to make it sticky and then treated with
+biofertilizer and shade dried. Seedling inoculation: Make slurry of biofertilizer and dip
+the roots in it. The recommended dose of Azotobacter is 2-3 packets /ha.
+Blue green algae or Cyanobacteria:
+BGA is phototrophic in nature. These are photosynthetic, prokaryotic
+microorganisms and capable of fixing molecular nitrogen. BGA are found to grown in
+a paddy filed and marshland. It is used as biofertilizer for irrigated rice crop.
+The rice field ecosystem provides an environment favourable for the growth of BGA
+with respect to their requirements viz., light, water and temperature. Nitrogen fixation
+by BGA have been estimated to be 25-30 kg N/ha. Yield increases by 10-15 %. BGA
+has some species viz., Nostoc, Anabaena, Olocia, Calothrix, Tolipothix etc., They fix
+nitrogen in the presence of sunlight .They also contain growth promoting substances
+like auxin, Indole acetic acid and Gibberellic acid.
+Multiplication of BGA: Farmers can multiply BGA in their fields by adding 5 kg of
+culture in well puddled 40m2 pit duly adding 2 kg of single super phosphate and
+maintaining 1 inch of water regularly. 250g of carbofuran 3G granules may also be
+applied to prevent the infestation of other insects. A thick mat of BGA will be
+developed in 3-4 weeks and can harvested, dried and stored in bags for future use.
+Regular harvests can be taken at every 20 days interval by adding SSP and
+carbofuran 3G granules to the trench.
+Recommendation: application of 10 kg/ha flakes of BGA. It is applied 10 days after
+the transplanting of rice crop.
+46
+Lecture 16: Phosphorus mobilisers – Method of application –
+Advantages & Constraints
+--------------------------------------------------------------------------------------------------------------------------------------
+Phosphorus mobilisers
+Phosphate solubilizing microorganisms
+Phosphorus is present in soils in both organic and inorganic forms and most of which
+is insoluble and unavailable to plants. Several soil bacteria particularly those
+belonging to the genera Pseudomonas and Bacillus and fungi belonging to the
+genera Pencillium and Aspergillus possess the activity to bring insoluble
+phosphates in the soil to the soluble forms by secreting organic acids such as acetic
+acid, propeonic acid etc., These acids lowers the pH and bring about the dissolution
+of the bound phosphate forms.
+Phosphate absorbers
+Vesicular Arbuscular Mycorhizae:
+Mycorrhizae mean root fungi or VAM. These are obligate symbiotic. They are
+ubiquitous in nature and with very few exceptions found on a wide range of plant
+species. They form vesicular –arbuscular –mycorrhizal (VAM) symbiosis. A VAM
+fungus infects and spreads inside the root by providing an aseptate mycelium.
+Vesicles which are sac like structure provided by these fungi are known to store
+phosphorus as phospholipids. Arbuscules formed inside the cortical cells are
+attributed to help in the exchange of nutrients. Common genera that form VAM
+associations are Glomus, Gigaspora , Enterospora etc.,
+Advantages:
+1. VAM fungi enhancing the nutrient uptake of P, Zn and S.
+2. Enhances the water uptake under drought conditions.
+3. Enhances resistance to root damage.
+4. Increases the yield.
+Method of Application: 1-2 kg of Phosphorus solubilizing bacteria may be mixed
+with 20 kg of FYM and applied at the time final land preparation. Seed sufficient for
+one acre may also coated with 200g of culture.
+47
+Advantage of Biofertilizers:
+1. Absorb nitrogen from the air and make it available to plants –thus
+reducing the need for nitrogen fertilizer. They can add 20-200 kg N ha-1
+(by fixation) under optimum conditions.
+2. Make inorganic phosphate ad micronutrients soluble and available to
+plants. They can solubilise/ mobilize 30 -50 kg P O ha-1
+2 5
+3. Stimulate plant growth. They liberate growth promoting substances and
+vitamins and help to maintain soil fertility.
+4. They provide physical barriers against pathogens. Thus suppress the
+incidence of pathogens and control diseases.
+5. Enhance plant uptake of P and Zn.
+6. Collect and store available nutrients.
+7. Decompose organic residues.
+8. Increase crop yield by 10-50%
+9. They are cheaper, pollution free and based on renewable energy
+sources.
+10. They improve soil physical properties, tilth and soil health in general.
+Constraints in usage of biofertilizers
+1. Farmers acceptance has been far from satisfaction.
+2. Difficult to demonstrate striking increase in yield due to biofertilizers unlike
+chemical fertilizers.
+3. Strains fail to establish if the soil moisture in sufficient in the surface zone.
+4. Fungicide treatment is a problem in crops like groundnut.
+5. Inoculants manufacturing is far below the requirement.
+6. Availability of quality of inoculants is another problem.
+7. Seed inoculation is not suitable when seeds are sown on dry soil or when
+seeds are coated with toxic chemicals and pesticides.
+8. Soil containing higher number of ineffective native rhizobia.
+48
+9. Seeds have fragile seed coat.
+10. When seed coat is toxic to rhizobia. In such situation soil inoculation with
+granulated inoculants is followed in USA, New Zealand, France etc.,
+Granulated inoculation is prepared using grains of sand, gypsum, peat
+etc.,
+11. Problem like transport form the manufacturing centre.
+49
+Lecture 17: Differences between organic manures and chemical
+fertilizers – Classification of fertilizers
+__________________________________________________________________________________
+Organic manures Chemical fertilizers
+Organic in nature- Naturally available Inorganic in nature- Mined or
+plant, human and animal wastes and Synthetically manufactured materials
+residues. and minerals
+Supply almost all major, minor and Prepared to supply one or very few
+micronutrients but in very low quantities plant nutrients but in higher quantities
+Does not have definite chemical
+Have definite chemical composition
+composition
+Have low analytical value Have high analytical value
+Slow acting and supplies nutrients for a
+Quick acting
+longer period
+Plants cannot absorb nutrients
+Releases nutrients immediately
+immediately
+Improves physical properties of soils
+viz.,structure is improved, bulk density
+is reduced, water infiltration and holding
+Don’t improve the physical properties of
+capacity is increased, drainage facility
+soils.
+is improved, evaporation is reduced,
+loss of nutrients and soil through
+erosion is reduced
+To some extent provides nutrition to
+Acts as source of food for soil microbes
+microbes but not completely
+Indiscriminate use may affect the soil
+Helps in reclamation of problem soils. health. Soils may turn out in to acidic,
+saline and alkaline with excessive use.
+During the process of decomposition
+organic acids are released and Doesn’t help in increasing the native
+availability of nutrients like phosphorus nutrient availability.
+is increased.
+Non-bulky in nature, smaller quantities
+Bulky in nature, large quantities
+(Kilograms) are sufficient to meet the
+(tonnes) are required for application
+crop nutrient requirements
+Should be applied15-20 days well in
+Can be applied at the time of planting or
+advance of sowing/planting of the crop
+sowing.
+and should be incorporated.
+50
+Lecture 18: Straight fertilizers – Nitrogenous fertilizers – Nitrate,
+Ammonical, Nitrate – Ammonical and Amide fertilizers.
+__________________________________________________________________________________
+Plants require both macronutrients ( N, P, K, Ca, Mg and S) and micronutrients
+(Fe , Zn ,Cu ,Mn , Mo, B ,Cl, etc.,). The mineral fertilizers containing these
+nutrients are produced in plants (Industries or Factories).Chemical fertilizers are
+also called as commercial fertilizers.
+A commercial fertilizer is defined as a material containing at least one of the
+primary nutrients in assemble or available form to plants in known amounts.
+The chemical fertilizers are classified into three groups depending upon the
+nutrients
+1. Straight fertilizers
+2. Mixed fertilizers
+3. Complex fertilizers
+Straight fertilizers
+A straight fertilizer may be defined as a chemical fertilizer which contains/supplies
+only one primary or major nutrient element. These fertilizers are classified into five
+groups depending upon the nutrients which they supply.
+1. Nitrogenous fertilizers
+2. Phosphatic fertilizers
+3. Potassic fertilizers
+4. Secondary nutrient fertilizers
+5. Micronutrient fertilizers.
+Nitrogenous fertilizers
+Nitrogenous fertilizers can be classified into four classes on the basis of form of
+nitrogen present in that fertilizer:
+1. Nitrate fertilizers
+2. Ammonical fertilizers
+3. Nitrate ammonium fertilizers
+4. Amide fertilizers
+51
+Nitrate fertilizers
+These fertilizers are readily soluble in nature and immediately dissociates in soil
+solution releasing No - nitrogen. As nitrate nitrogen carriers a negative charge it is
+3
+not adsorbed onto soil particles and subjected to leaching in to deeper soil layers.
+Nitrate nitrogen can also be lost to the atmosphere through volatilization. Though
+plants absorb N in nitrate forms, because of these losses, these fertilizers are not
+preferred. These fertilizers should not be recommended for irrigated paddy.
+Ex: Calcium nitrate (15%)
+Sodium nitrate (16%)
+Ammonical fertilizers
+These fertilizers contain nitrogen in ammonium form (NH +). Due to this positive
+4
+charge they are adsorbed onto soil particles and leaching of nitrogen does not occur.
+Hence their use efficiency is more and can be considered as good source of
+nitrogenous fertilizers.
+In due course NH + is converted in to NO - form. This form of nitrogen is rapidly
+4 3
+utilized by the plants. Can be applied as basal dose or as top dressing, but should
+not be mixed with seed.
+Ex: Ammonium sulphate [21% N, 24% S]
+Ammonium chloride [25% N]
+As these fertilizers are acid producing in nature excessive application of ammonical
+fertilizers should be discouraged. To neutralize the acidity, for every 100 kg of
+ammonium sulphate 110 kg of calcium carbonate is required.
+Ammonium chloride on application dissociates in to ammonium and chlorine in soil.
+This chlorine combines with calcium present in the soil and calcium chloride being
+highly soluble in nature, is lost due to leaching. Hence application of ammonium
+chloride results in loss of calcium.
+Ammonium chloride can be applied in wetlands. However, should not be used in
+tobacco and potato crops. The chlorine present in the fertilizer, affects quality of leaf
+in tobacco and shelf life of potato.
+52
+Nitrate-Ammonia nitrogen fertilizer
+In these fertilizers nitrogen is present in both nitrate and ammonical forms. Under
+irrigated dry conditions, when these fertilizers are applied nitrate form of nitrogen will
+be taken by the plants immediately and ammonia form of nitrogen will be available
+gradually to the plants. Nutrient use efficiency is high for these fertilizers.
+Ex: Ammonium nitrate [33%N]
+Calcium ammonium nitrate [26%N]
+Ammonium Sulphate nitrate [26%N]
+Calcium ammonium nitrate is highly hygroscopic in nature, hence should be stored in
+specialized polythene bags. These fertilizers are neutral in nature,
+Amide nitrogen fertilizers
+Nitrogen is present in amide form [NH ] or Cynamide [CN ] form
+2 2
+Ex. Urea [46%N]
+Calcium Cynamide [21%N]
+Urea is the most popular amide form of fertilizer. It is highly hygroscopic and forms
+in to lumps. Slightly acidic in nature. On application in wet lands, nitrogen is lost
+through leaching and in dry soils it is lost through voltalisation. Hence optimum
+moisture and though mixing with soil should be ascertained while applying this
+fertilizer.
+As it is soluble in water can be used for foliar spray (2% urea – 20g/l). Higher or
+excess concentration results in scorching and defoliation.
+Urea contains a harmful substance called Biurette, its concentration should be below
+1.5% for its use as foliar spray.
+53
+Straight nitrogenous fertilizers
+N
+Chemical Form of
+S.No. Fertilizer Chemical formula Content
+Nitrogen
+(%)
+a) Gaseous ammonia NH 82
+3
+Ammonium b) Ammonia water NH ,NH OH 24
+3 4
+1
+[NH +] c) Ammonium sulphate (NH ) SO 21
+4 4 2 4
+d) Ammonium Chloride NH Cl 26
+4
+a) Calcium nitrate Ca(NO ) 16
+3 2
+2 Nitrate [NO 3 - ] b) Sodium nitrate Na NO 3 16
+c) Potassium nitrate K NO 13
+3
+a) Ammonium nitrate NH NO 35
+4 3
+Ammonium
+b) Calcium Ammonium
+3 +Nitrate Nitrate NH 4 NO 3 +CaCO 3 26
+[NH +] +[NO -] c) Ammonium Sulphate
+4 3 (NH ) SO +NH NO 26
+Nitrate 4 2 4 4 3
+a) Urea CO(NH ) 46
+2 2
+4 Amide [NH ]
+2
+b) Calcium cyanamide CaCN 22
+2
+54
+Lecture 19: Phosphatic fertilizers – Water soluble – Citric acid soluble
+and insoluble fertilizers – Potassic fertilizers
+--------------------------------------------------------------------------------------------------------------------------------------
+Phosphatic fertilizers
+Phosphate fertilizers are chemical substances that contain the nutrient
+element phosphorus in the form of absorbable phosphate ions (anions) or that yield
+such phosphate anions after conversion.
+Phospatic fertilizers were classified based on the form in which orthophosphoric
+acid/ phospatic acid is combined with calcium and based on relative solubility of
+phosphate
+They are classified into following three types
+1. Water soluble phosphorus fertilizers
+2. Water Insoluble but citrate soluble phosphorous fertilizers
+3. Water and citrate insoluble phosphorus fertilizers
+Water soluble phosphorus fertilizers
+Phosphorus in these fertilizers is present in water soluble form (H PO ). This form of
+2 4
+Phosphorus is generally regarded as the most readily available to plants. P is
+present in the form of mono calcium phosphate Ca(H PO )
+2 4 2.
+These fertilizers are used in neutral soils and alkaline soils for all crops.
+Ex: Single super phosphate (16-18 % P O )
+2 5
+Double Super Phosphate (32 % P O )
+2 5
+Triple Super Phosphate (32 % P O )
+2 5
+Higher content or concentrated super phosphate
+Ammonium phosphate (20% N and 20% P O )
+2 5
+In Single super phosphate, in addition to 16% of phosphorus, 21% of calcium and
+12% of sulphur are present, hence this fertilizer is preferred source for oilseed crops
+like groundnut.
+55
+Phosphorus fertilizers should always be applied at the time of sowing as basal
+fertilizers and by pocketing in 4-8 cm depth at 2-3 cm away from the plant.
+Citrate soluble phosphorus fertilizers
+Phosphorus is present as dicalcium phosphate Ca H (PO ) / CaHPO . This class of
+2 2 4 2 4
+fertilizers is not readily soluble in water and hence not readily available to plants.
+Phosphorus present in these fertilizers is soluble in 2 % ctric acid (or) neutral normal
+ammonium acetate solution. They should be applied one month before taking up the
+crop so that insoluble ‘P’ gets solubilized by the time of sowing of crop.
+Ex: Basic slag – 6- 20 % P O
+2 5
+Bone meal – 20-25 % P O
+2 5
+Steamed bone meal – 20-25 % P O
+2 5
+Di calcium phosphate – 34 – 39 % P O
+2 5
+Water and citrate insoluble phosphorus fertilizers
+Phosphorus is present in the form of tri calcium phosphate (Ca (PO ) ) or (PO )3-.
+3 4 2 4
+Phosphorus present in the fertilizers is not soluble both in water and citrate solution.
+In normal conditions these fertilizers is not available to plants. This form of fertilizers
+are soluble in strongly acidic soils (or) organic soils and hence supplies phosphorus
+to plants.
+Ex: Rock Phosphate – 20- 40 % P O
+2 5
+Finely grounded phosphorus is used as fertilizer in tea and coffee gardens and in
+high rainfall mountain areas.
+Water soluble single super phosphate can be prepared by chemical reaction of rock
+phosphate with sulphuric acid(H SO )
+2 4
+Potassic Fertilizers
+The supply of potassium to plants is expressed as K+.
+Most important potassic fertilizers are muriate of potash [KCl] ; sulphate of potash
+[K SO ] ; potassium nitrate [KNO ].
+2 4 3
+Muriate of potash contains more per cent of potassium [60% k]. and is quickly
+soluble in water. This form of potassic fertilizers is available in market with less cost
+56
+compared to other potassic fertilizers. This form of fertilizers (MOP) is useful for all
+crops except potato, tobacco, grapes.
+Sulphate of potash contains 50% potassium and 18% sulphur. This cost of this
+fertilizer is more. Sulphate of potash is applied to potato, tobacco and grapes. This
+fertilizers can be used for foliar application during the periods of rainfall scarcity and
+drought..
+Potassium nitrate contains 39% potassium and 14% nitrogen. This fertilizers can be
+sprayed in controlling of nitrogen and potassium deficiency.
+57
+Lecture 20: Secondary nutrient fertilizers – Micronutrient fertilizers –
+Different types
+_________________________________________________________________________________
+Secondary nutrient fertilizers
+Supply of secondary nutrients like calcium, magnesium and sulphur etc., through
+chemical fertilizers was not needed until 1990s because of application of organic
+wastes by the farmers and use of straight NPK fertilizers which supply some of
+these secondary nutrients. With the excessive use of complex fertilizers in place of
+straight fertilizers coupled with non-application of organic manures and cultivation
+of high yielding hybrids/ varieties, lead to secondary nutrient deficiencies.
+In acidic soils, application of Ca and Mg fertilizers should be practiced every year.
+Separate application of sulphur is not necessary as fertilizers used for correction of
+micronutrient deficiencies and chemicals used in prevention of pests and diseases
+contain some sulphur.
+Table: Sources of fertilizers for calcium, magnesium and sulphur:
+S. Ca Mg S
+Source Formula
+No. (%) (%) (%)
+1 Burnt lime CaO 70
+2 Hydrated lime Ca(OH) 50
+2
+3 Calcite lime CaCO 36
+3
+4 Dolamitic lime CaCO Mg CO 17 12
+3 3
+5 Basic slag (CaO) P O SiO 29
+5 2 5 2
+6 Gypsum CaSO 2H O 22 8
+4 2
+7 Calcium nitrate Ca(NO ) 2H O 20
+3 2 2
+8 SingleSuper phosphate Ca(H PO ) CaSO 20 12
+2 4 2 4
+9 Triple super phosphate Ca(H PO ) 13
+3 4 2
+10 Rock phosphate Ca (PO ) F 33
+5 4 3
+11 Calcium chloride CaCl 36
+2
+12 Magnesium sulphate MgSO 7H O 10.5 13
+4 2
+58
+13 Magnesium oxide MgO 45
+14 Dolamite CaCO MgCO 17 12
+3 3
+15 Ammonium sulphate (NH4) SO 23
+2 4
+16 Potassium sulphate K SO 18
+2 4
+Of the different sources of Ca, the Gypsum has been gaining importance for crops
+such as legumes. Global reserves of Ca are considerably large since whole
+mountain ranges consist of lime stone. Calcium nick named as root developer,
+which is slightly mobile in plants. Calcium deficiency in plants is rarely caused by
+shortage of available reserves in the soil, except in acidic soils.
+Elemental sulphur is also an important sulphur fertilizer with strong acidifying action.
+It can be used either directly or as an additive to other solid fertilizers eg sulphur
+coated urea. The sulphur requirements of plants are approximately 2/3 of their
+phosphorus requirements and are provided from various sources such as air, rain
+water,soil and fertilizer .Fields near Industrial zones are supplied with 10-30 kg ha -1
+per year from SO waste gases .
+2
+MICRONUTRIENT FERTILIZERS
+Higher green plants are known to require seven micronutrients viz., Fe, Mn, Cu, B,
+Mo, Cl etc. But this number may have to be increased in future.
+The need for the micronutrient fertilization has been increasing due to the
+following reasons:
+1. Change in the plants: Change in the plant varieties from traditional to high
+yielding varieties (HYV). HYV have a capacity to remove more nutrients both
+major and minor. HYV have low mobilizing capacity of micro nutrients from the
+soils hence they are to be applied through external application.
+2. Changes in soil: Change in soil condition from acid to alkaline (Increased soil
+reaction) and aeration cause greater immobilization of most micronutrients
+except molybdenum (Fe, Zn, Cu and Mn). High acidic nature of the soil induces
+both calcium and magnesium deficiency.
+3. Changes in fertilization: Using high doses of NPK in the form of complex
+59
+fertilizers, induces deficiencies of secondary and micro nutrients. Antagonistic
+action due in part to excessive fertilization with NPK Eg. Higher K content in soils
+affects the uptake of Fe, Mn, and B.
+Excess P leads to deficiencies of Zn, Fe, Cu and increases Mo availability. More
+the sulphate present in the soils, lesser the availability of Mo.
+4. Changes in overall growth conditions.
+1. Intensive cultivation: Intensive cultivation leads to micro nutrient deficiencies
+2. Non availability and application of organic manure.
+3. Under/ over limed condition.
+4. Parent material: Most of the micronutrients originates from parent material
+and influences the availability or deficiency of micronutrients to plants
+5. Land levelling and shaping: Most of the micronutrients are concentrated on
+the surface soil except Molybdenum. Levelling of land and deep tillage
+operations leads to deficiencies.
+6. Low Si/Mg ratio: Leads to fixation of Zn in soil.
+7. Calcium carbonate: More the CaCO in soils lesser the availability of Fe, Cu,
+3
+Mn, Zn.
+8. Soil texture: Boron availability is more in coarse textured soils and in finer
+textured soils it gets fixed, unavailable to plants.
+9. Secondary clay minerals: Montmorillonite clay adsorb more of Zn, Cu and
+leads to deficiency or unavailability to plants.
+10. Soil moisture: Dry conditions of soil fix more of Boran and is released under
+wet conditions. Presence of more moisture reduces the availability of Mn.
+11. Interaction with macronutrients: Heavy nitrogen interferes with availability of
+Cu, Mn, Zn and leads to deficiencies in plant.
+12. Liming reduces the availability of Mn, Zn, Fe, Cu.
+13. Seasonal variation: Nutrient deficiencies are more during cold season. Out
+break of B deficiency is common in dry seasons
+14. Summer drought aggravate Fe chlorosis.
+15. High and low soil temperatures induces Zn deficiency in soils having low
+zinc.
+60
+Lecture 21: Mineral salt and chelated micronutrients-Nutritional
+composition
+_________________________________________________________________
+Classification of micronutrient fertilizers
+Micronutrient fertilizers are classified into two broad categories :
+I. Inorganic salts
+II. Chelates
+I. Inorganic salts: Supplying micronutrients are salts like Zn SO , Cu SO
+4 4
+,Mn SO Fe SO etc., All these are readily soluble in water and can be used
+4 4
+both for soil application and foliar spray.
+II. Chelates : This is next important category of micronutrient fertilizers
+.Chelates are metallic molecules of varying sizes and shapes in which the
+organic part binds the nutrient in a ring like structure . For the chelation of
+nutrient cation the common chelating agents used in chelating micronutrients
+as follows.
+1. EDTA :Ethylene Diamine Tetra Acetic Acid
+2. HEDTA Hydroxy Ethylene Diamine Tetra Acetic Acid
+3. EDDHA Ethylene Diamine Dihyroxy Acetic Acid
+4. NTA : Nitrilo Tri Acetic Acid
+5. DTPA : Diethylene Triamine Penta Acetic Acid
+Sources of micronutrients:
+S.No. Micronutrients Formula Content (%)
+A Iron
+1.Ferrous sulphate FeSO 7H O 20
+4 2
+2.Fe-chelate Fe-EDTA 5
+3.Fe-Chelate FeEDHA 6
+B Manganese
+1. Manganous sulphate Mn SO 4 H O 24
+4 2
+2.Manganous sulphate(Monohydrate) Mn SO H O 32
+4 2
+61
+3. Mn -chelate Mn-EDTA 13
+C Zinc
+1.Zinc sulphate ZnSO 7H O 23
+4 2
+2.Zinc sulphate (Monohydrate) ZnSO H O 36
+4 2
+3.Zn-chelate Zn-EDTA 14
+D Copper
+1.Copper sulphate Cu SO 5H O 25
+4 2
+2.Copper sulphate (Monohydrate ) Cu SO H O 36
+4 2
+E Boron
+1. Borax (Na-tetra borate ) Na B O 10H O 11
+2 4 7 2
+2.Borax anhdrous Na B O 22
+2 4 7
+3.Boric acid H BO 18
+3 3
+F Molybdenum
+1 Sodium molybdate Na MoO 2H O 40
+2 4 2
+2.Ammonium molybdate (NH ) MoO 54
+4 6 24
+3. Molydenum trioxide MoO 66
+3
+4.Calcium molybdate CaMoO 48
+4
+Principles involved in micronutrient fertilization
+I. Iron fertilization :
+Majority of Fe-fertilizers are water soluble .Salts or organic complexes
+(chelates). They are predominantly applied as foliar sprays, however this
+requires repeated application. In addition to supplying iron to deficit soils, it is
+necessary to mobilize iron in the soil itself through acid –N –fertilization .Fe
+removal amounts to a few kg/ha /year
+II. Manganese fertilization :
+Manganese sulphate is the best known water soluble fertilizer and is
+suitable for leaf fertilization .It can also be used as a soil dressing, but is easily
+fixed in deficit soils when the pH is moreSoil Mn supplies can be improved by
+i) Using acid forming fertilizers
+ii) Compacting loose soils
+iii) Preventing excessive drying
+62
+iv) Supply of easily decomposed organic matter ,which on conversion
+creates reducing conditions and thus Mn released .It is a practical
+means of Mn supply than to add Mn fertilizer .About ½ to 1.0 kg of Mn
+/ha/year is removed by crops in general
+III. Copper fertilization :
+i) Copper sulphate [Blue Vitriol] is the oldest water soluble Cu-fertilizer .It
+can be applied as soil dressing or foliar nutrient .However; its acidic
+side effects are likely to cause leaf scorch on foliar application.
+ii) Hence less caustic agents like green copper Cu Cl (OH) or Cu-
+2 3
+chelates are safe to use
+iii) Copper removal by crops in general varies 30-100 g/ha /year
+iv) Copper is highly immobile in soil and as such needs thorough mixing
+with top soil
+IV. Zinc fertilization :
+i) Zinc sulphate is the simplest form of water soluble fertilizer
+ii) It is acidic in reaction and causes leaf scorch on foliar application
+unless free acidity in neutralized with lime
+iii) Improvement of natural zinc sulphate ( Soil zinc) can be done by the
+application of acid forming N -fertilizers to combat Zn-deficiency .Crop
+removal of Zn varies from 100-400 g /ha /year
+V. Boron fertilization :
+i) Borax (Na –tetra borate) is historically famous water soluble boron
+fertilizer.
+ii) The effectiveness of chile –salt peter was attributed to the presence of
+borax as natural admixture.
+iii) It can be applied to soil or foliage
+iv) Boron removal by crops is about 50 g / ha /year
+VI. Molybdenum fertilization
+i) Sodium molybdate and ammonium molybdate are the
+important Mo fertilizers suitable for soil or foliar application and also for
+seed treatment
+ii) Molybdenum removal by crops varies from 5 to 20 g/ha /year
+63
+Lecture 22: Mixed fertilizers – Farm mixtures and Mechanical
+mixtures
+Mixed fertilizers are physical mixtures of straight fertilizers like urea, SSP and MOP.
+These fertilizers are also called as bulk blended fertilizers;
+ They contain two or three primary plant nutrients.
+ Blending provides a convenient and economical means of mixing dry
+fertilizer materials to produce specified ratios and grades of varying
+nutrient percentage depending on the needs of the crops.
+ These mixed fertilizers can be made in farmer’s level also depending
+on needs of the crop.
+ Mixed fertilizers are made by thoroughly mixing the ingredients either
+mechanically or manually in small quantities in small factories and can
+be provided to farmers.
+Farm Mixtures: The manually blended fertilizers at farm are called “farm mixtures".
+Implying that these can be prepared by the farmers themselves based on the crop
+requirements.
+ The chemical fertilizers are spread in layer wise manner (placing bulky
+materials at the bottom of the floor followed by materials which are less
+bulky) and turned over number of times with spade to ensure through
+mixing.
+ These farm mixtures can be
+mixed or prepared at the time
+of application only to avoid
+the caking and other chemical
+reactions.
+Farm mixtures preparation at field level
+64
+Mechanical mixtures:
+These are prepared by mixing large quantities of different fertilizer materials to
+obtain the required grades or quantities of the product with the help of machines or
+containers.
+While mixing the mechanical mixtures the following precautions may be taken to
+avoid the caking and other chemical reactions between the fertilizers
+ The selected fertilizers for mixing should not react with each other
+ Acidic natured fertilizers should not be mixed with alkaline natured fertilizers
+Ex : Ammonium sulphate and basic slag should not be mixed together
+ Avoid mixing of high moisture containing or hygroscopic fertilizers
+Ex : Urea, Ammonium nitrate
+ In the formulation of mixtures, it is not possible to get exact quantities of major
+nutrients (NPK) in one tonne of the mixed fertilizers, therefore additional
+material called fillers and Conditioners are used . These are used to make up
+weights and to improve the physical conditions of mixed fertilizers,
+respectively. Ex: Sand, Coal, Corn husks, Dolomite, Ash Lime stone are
+added
+ Conditioners are those materials added to non-granular or granular mixtures
+to improve their physical condition and to decrease their caking .The actual
+purpose of adding conditioner is to reduce crystal knitting. Ex: Sand and
+Silica
+ While mixing the mechanical mixtures, concentrated organic manures (oil
+cakes) or soil amendments (gypsum or lime) can also be added for improving
+soil health.
+ For the purpose of soil amelioration, gypsum and lime can also be used as
+fillers
+65
+Lecture 23: Calculations for preparation of mixed fertilizers
+1. How do you prepare one tonne of the fertilizer mixtures of the fertilizer grade 10: 6: 4 [N,
+P O , K O] by using the following fertilizers and the percent nutrient content against
+2 5 2
+each.
+Required quantity of mixture is 1 tonne = 1000 kg
+a. Ammonium sulphate contains Nitrogen = 20.5 %
+b. Single Super Phosphate contains P O = 16 %
+2 5
+c. Muriate of potash contains K O = 60 %
+2
+The following are the quantities of individual fertilizers required for preparation of
+fertilizer grade of 10:6:4
+Thus to supply
+Sum of the quantities of fertilizers = [487.80 + 375 + 66.70] = 929.50 kg
+Required quantity of mixture is = 1000 kg
+Balance added filler material = 1000 kg – 929.50 kg
+= 70.5 kg
+66
+2. Calculate the quantities of different fertilizers required to prepare one tonne of the bulk
+blended fertilizers of the grade 6-4-3. The fertilizers available and their nutrient contents
+are given below.
+S.No. Fertilizer Nutrient content (%)
+1. Neem cake 5.0 %
+2. Urea 46.0%
+3. Basic slag 18.0 %
+4. TSP 45.0%
+5. Sulphate of potash 50%
+The fertilizer mixed should also have the following specified ratios
+a) Neem cake and urea 1:2
+b) Basic slag and TSP 1:3
+Total N required for the mixtures: 6 N
+Proportion of neem cake: 6 x 1/3 = 2 parts in N fertilizer grade
+Proportion of Urea : 6 x 2/3 = 4 parts in N fertilizer grade
+Quantity of neem cake required = 2 x 1000/5 = 400 kg
+Quantity of urea required = 4 x 1000/46 = 87 kg
+Total P O required for the mixture = 4 P O
+2 5 2 5
+So through basic slag: 4 x1 /4 = 1 parts in P fertilizer grade
+Through TSP = 4 x 3 /4 = 3 parts in P fertilizer grade P O
+2 5
+Quantity of basic slag required: 1 x 1000/18 = 55.5 kg
+Quantity of TSP required: 3 x1000/45 = 66.70 kg
+Quantity of SOP required: 3 x 1000/50 = 60 kg
+Sum of the quantities of N, P & K = [400 + 87 + 55.5 + 66.67+60] = 669.20
+Filler material = [1000-669.20] = 330.80
+Total quantity of fertilizer = Sum of the quantities of N, P & K + Filler material = 1000 kg
+67
+Lecture 24: Complex fertilizers – Different types – Calculation for
+nutritional values in fertilizers
+Commercial complex fertilizers are those fertilizers which contain at least two or
+three of the primary essential nutrients. When it contains only two of the primary
+nutrients (N and P or P and K etc) it is designated as incomplete complex fertilizer.
+While those contain three nutrients are designated as complete complex fertilizers.
+They are produced by a process of chemical reaction. Most important complex
+fertilizers are Nitro phosphates & polyphosphate based fertilizers etc.
+Characteristics of complex fertilizers
+1. It has high content of plant nutrients more than 30 kg/100 kg of fertilizer,
+are called high analysis fertilizers.
+2. They have uniform grain size and good physical condition so that they can
+be easily applied in fields
+3. Nutrients are equally available to each plant
+4. These type of fertilizers are nonhygroscopic, hence application is easy
+5. They are cheaper compared to individual fertilizer on the basis of per Kg
+of nutrient.
+6. Transport and distribution cost is reduced on the basis of per kg of
+nutrients
+7. They supply N and P in available form in one application. Nitrogen is
+present as NO-3 and NH+4 forms and P as water soluble form upto 50 to
+90% of total P O .
+2 5
+8. They are non-caking and non-hygroscopic, thus safe for storage
+The value of complex fertilizers is dependent on the following considerations
+a) The content of individual nutrients i.e ., N, P O , K O
+2 5 2
+b) Their ratio of N to P O or K O
+2 5 2
+c) The form in which the individual nutrients are present
+d) The resultant acid or basic residual effect
+68
+e) The contents of other trace elements
+Classification of complex fertilizers:
+The complex fertilizers being produced in India can be classified into
+A) Incomplete complex fertilizes
+B) Complete complex fertilizers
+A) Incomplete complex fertilizes: Contain only two major nutrients such as N and P O
+2 5
+in chemical combination. They are of two types
+I. Ammonium phosphates: May be present in the combination of mono or
+diammonium salt or mixture of two. Most of these formulations are in
+granular form
+MAP (Mono Ammonium Phosphate) 11:46
+DAP (Di Ammonium Phosphate) 18:46
+APS (Ammonium Phosphate Sulphate) 16:20 and
+UAP (Urea Ammonium Phosphate) 28:28:0
+II. Nitrophosphates Ex. 20:20:0, 24:24:0
+B) Complete complex fertilizers: Contains all the three major nutrients inchemical
+combination.
+E.g. 14:28:14, 14:35:14, 20:10:10, 15:15:15, 17:17:17 and 19:19: 19
+69
+Lecture: 25 Fertilizer use efficiency
+Fertilizer use efficiency: it is a measure of the increase in crop yield obtained per
+unit of fertilizer nutrient applied.
+Or
+It is expressed as units of yield increased per unit of fertilizer nutrient applied
+Important measures/practices for efficient use of organic and chemical
+fertilizers:
+In order to increase the use efficiency of fertilizers, the following measures and
+cultivation practices will help to achieve maximum agricultural production from each
+kilogram of nutrients application
+1. Site specific and crop based fertilizer recommendations’ should be
+followed.
+2. High yielding varieties give higher yields even if chemical fertilizers are not
+applied: High yielding varieties give higher yields per unit fertilizer applied
+than indigenous varieties; hence high yielding varieties should be prefered.
+3. Selection of fertilizers should be done according to the soil reaction viz.,
+acidic fertilizer for alkaline soils and basic fertilizers for acidic soil reactions.
+4. In order to get maximum produce from the unit of fertilizer timely sowing or
+transplanting should be done.
+5. For efficient fertilizer use, it is important that there is a synchrony between
+crop demand and supply. In many field situations upto 50% applied nitrogen
+is lost because of the lack of synchrony between plant nitrogen demand and
+supply. Therefore plant need-based fertilizer application is crucial for
+achieving high yield and fertilizer use efficiency.
+6. Spacing and plant density should vary depending on variety of the crop, soil
+fertility content and weather conditions. Eg: In Kharif paddy, plant spacing is
+15 cm between rows to rows and 10 cm between plants (66 tillers per
+square meter) whereas in Rabi 10 cm X 10 cm (100 bushes per square
+meter) should be planted.
+7. Addition of organic manures leads to mineralization process that in turn
+70
+improves the nutrient uptake and also provides all the nutrients in a
+balanced way to the crop that is being cultivated at any time in any season.
+8. Adequate water (optimum irrigation) should be provided to the crop. If
+excess irrigation given to crop, the nitrogen and potassium will be leached
+down into the subsoil. Excess water in the field (water logging situations)
+causes significant loss of nitrogen in the form of gases. Therefore, when
+applying chemical fertilizers, care should be taken not to add too much of
+water at the time of application of fertilizers. This applies especially to
+urea. Urea should be applied under optimum soil moisture (field capacity)
+conditions only.
+9. The crop yields are more in rabi than kharif with the application of
+phosphorus fertilizers, hence It is advisable to apply phosphorus fertilizer in
+rabi as per soil test results.
+10. The soil-test based fertilizer recommendation is scientific approach; it
+indicates the availability of nutrients in the soil. Fertilizer schedule must be
+based on the soil test values to prevent the nutrient deficiency or luxury
+consumption.
+11. Entire dose of phosphorus and potassium fertilizers are applied at the time
+of sowing or transplanting (as basal application), but in light textured soils,
+low content of available K, salt effected soils, high rainfall conditions and
+long duration crops potassium must be applied in two split basis. Whereas
+nitrogen fertilizers should be applied in 2-3 split applications depending on
+the crop requirements and soil moisture condition at different growth stages
+during the crop season.
+12. Phosphorus fertilizers (Water soluble) should be placed 2-5 cm below the
+soil and 5-6 cm away from the seeds to ensure maximum availability to
+plants. Insoluble fertilizers should be thoroughly mixed in soil.
+13. To prevent the nitrogen loss, one part of urea and 5-10 parts of soft moist
+soil are mixed properly and incubated for 20-25 hours and applied to the
+crop, by this method nitrogen use efficiency improved.
+14. If soil conditions and weather conditions are not favorable, chemical
+fertilizers can be applied in the form of foliar application in combination with
+71
+pesticides if required.
+15. Zinc deficiency is found in many places. Zinc sulphate at the rate of
+10 to 50 kg ha-1should be applied at the last ploughing before sowing or
+transplanting. If deficiency symptoms are seen on standing crops, foliar
+spray of zinc sulphate @ 2g/l water, 2-3 times in a week should be adopted.
+16. Problematic soils must be ameliorated by taking appropriate reclamation
+methods, in acidic soils lime should be applied and for basic or alkaline
+soils gypsum should be applied.
+17. Remove weeds within 10-15 days of sowing / transplanting, after that first
+top dressing of fertilizers should be done.
+18. Should not apply nitrogen fertilizers in excess dosage, all nutrients can be
+applied in balanced manner only.
+19. Zinc fertilizers should not be mixed with phosphorus fertilizers.
+20. Farmers are focusing mostly on the major nutrients like nitrogen,
+phosphorus and potash fertilizers but they should also focus on
+micronutrients.
+Slow release nitrogen fertilizers:
+Nitrogen fertilizers are more soluble in water (especially nitrate form) and are
+leached down to soil bottom layers and become unavailable to plants, in some
+cases these fertilizers are converted to gaseous form (volatilization) and lost into the
+atmosphere.
+Measures to reduce the nitrogen losses
+To reduce the losses of nitrogen some fertilizers have been developed that
+are sparingly soluble in water and thus, slowly release nitrogen to the soil solution.
+They are termed as “Slow release nitrogen fertilizers or slowly available nitrogen
+fertilizers or controlled release nitrogen fertilizers”. As mentioned above, these
+fertilizers are characterized by low solubility in water and they maybe of two types
+a) Coated urea b) Uncoated urea
+Coated urea: Sulphur coated urea (SCU) is an example of this type. Urea is coated
+with elemental sulphur. As long as urea remains coated with sulphur without its
+72
+rupture SCU does not dissolve. When added to soils, the sulphur coating ruptures
+by microbial action. Soil water slowly penetrates into the coated urea slowly and
+dissolves it. Other materials such as wax, paraffin, acrylic resin, neem, lac etc are
+sometimes used as coating materials to prepare coated urea fertilizers.
+Uncoated urea: most of these are urea-aldehyde condensation products; their
+solubility in water is very low.
+eg: Crotonylidin diurea (CDU)
+Isobutylidene diurea (IBDU)
+Urea Super Granules: By applying the large sized urea granules of 1-3 g, losses of
+nitrogen can be reduced
+Nitrification Inhibitors: Nitrogen loss is higher from nitrates (NO -) than from
+3
+ammonia (NH +), hence if nitrate formation (i.e. Nitrification) is inhibited then
+4
+nitrogen loss will occur from only ammonium (NH +) but not from nitrates (NO -).
+4 3
+Consequently nitrogen loss will be reduced; another way to reduce nitrogen loss is
+inhibiting nitrification.
+Nitrification inhibitors are synthetic chemicals or a non-synthetic substance
+that temporarily inhibits nitrite (NO -) formation from ammonium (NH +) or nitrate
+2 4
+(NO -) formation from nitrite (NO -). Most of the inhibitors inhibit activity of
+3 2
+Nitrosomonas bacteria that oxidizes ammonium to nitrite. some inhibitors inhibit
+activity of nitrobactor bacteria that oxidizes nitrite to nitrate.
+eg: N-Serves, Dicyandiamide (DCD), 2-amino-4-chloro-6-methyl pyrimidine (AM)
+neem cake, mahua cake, karanji cake etc.
+Urease inhibitors: For hydrolysis of urea, should come in contact with water and
+urease enzyme should be activated. if the contact is reduced or the enzyme activity
+is inhibited the rate of urea hydrolysis reduces that slow down ammonium (NH +)
+4
+formation. Hence, nitrate formation too occurs slowly. Consequently, nitrogen loss
+by ammonia volatilization and leaching or denitification of nitrate reduces. One way
+to reduce nitrogen loss is decreasing solubility of urea.
+Ex. Hydroxamic acid, Thiourea, Methyl urea etc.
+73
+Factors affecting efficient utilization of applied fertilizers
+a. Soil properties
+ Nutrient supplying capacity of the soils.
+ Forms of nutrients in the soil and their availability
+ Soil texture- on application of fertilizers in light textured soils nitrate
+leaches down in to lower layers and becomes unavailable.
+ In heavy textured soils phosphorus becomes unavailable due to
+fixation.
+ Soil aeration and moisture content- Under ill drained conditions, due to
+lack of oxygen nutrients become unavailable to plants
+ Organic manures should be applied 20-30 days prior to sowing of
+crops to prevent immobilization.
+ Surface application of fertilizers leads losses due to voltalisation
+ Bulk density also affects nutrient availability
+ Method of fertilizer application also decides the nutrient availability
+b. Crop factors
+ Depending on the type of root system and depth of root penetration
+the nutrient requirement varies
+ Appropriate crop rotations like cereals followed by pulses will help in
+reducing the nitrogen application.
+ Crops with mycorhizal associations also require lesser quantities of
+nutrient application
+ Depending the stage and type of crop the requirement of nutrient
+varies
+c. Fertilizer properties-management
+ For rainfed and irrigated crops nitrate is the preferred form while
+ammonia fertilizers are preferred in wetlands.
+ SSP should be applied in neutral and alkaline soils and rock phosphate
+should be preferred in acid soils
+ MOP can be applied to all crops except for tobacco and potato. SOP
+should be applied to these crops
+74
+ Micronutrients should preferably be applied in their sulphate forms
+ Split of application of nitrogen should be preferred.
+ In light textured soils potash should be applied in two splits
+ Under drought or moisture conditions foliar application of nitrogen
+should be adopted
+ Slow release fertilizers should be preferred for increased use
+efficiency.
+75
+Lecture 26: Fertilizer applications – Time of fertilizer application
+Chemical fertilizers dissolve easily and provide nutrients to plants in quick manner,
+but the risks of rapid dissolution are also very high (leaching, vaporization etc), so
+the following points should be kept in mind while applying the chemical fertilizers.
+1. Weather conditions in the area eg: season of the crop whether kharif or
+rabi
+2. Soil properties (soil composition, light soils, heavy soils, problematic soils
+etc.)
+3. Fertilizer properties: Solid, liquid, pellets - crushing, moisture absorption,
+freezing etc.
+4. Crop nutrient requirements
+5. Crop key phases (for Nutrients) - Key Phase – Importance
+6. whether the crop is under irrigated or rainfed conditions
+The time of fertilization: The following factors should be taken into consideration to
+determine the time of application of fertilizers
+a) How the plant absorbs nutrients at different crop stages
+b) Properties of the soil
+c) Properties of fertilizer
+d) Carbohydrate exchange in plants
+ Generally macro nutrients like nitrogen, phosphorus and potash are taken during
+the crop growth stages.
+ Phosphorus requirement is high in the early stages of crop growth and
+phosphorus fertilizers are not soluble in water quickly and also phosphorus
+displacement or movement in soil is very low so phosphorus can be applied
+either in the last ploughing or at the time of sowing/transplanting.
+ The requirement of nitrogen to crop is low at the initial stages, peak or highest at
+flowering or reproductive stage and again low at harvesting stage of the crop.
+ Nitrogen required for the production or synthesis of carbohydrates, fats and
+76
+proteins should be determined the doses and applied in split manner.
+ The role of potassium in plant growth and food production is significant, the
+potassium fertilizers can be applied as basal dose only, if the soils are light
+textured or low content of potassium in soils then it can be applied in split
+application.
+ Potash can be significantly affect the grain productions in grain crops like paddy
+and maize
+ For pulse crops the nitrogen requirement is less as compared to other cereal
+crops, nitrogen should be apply before formation of root nodules, after formation
+of root nodules the requirement is less.
+77
+Lecture 27: Methods Fertilizer applications – Application of solid fertilizers-
+Broad casting
+___________________________________________________________________
+Methods of fertilizer application:
+Fertilizers are applied in different ways taking into consideration of type of soils (light
+textured or heavy textured) and nature of the plant (depth of roots) to ensure timely
+and regular application of the fertilizers to the plant so that the fertilizer is not wasted
+and use efficiency can be improved.
+The different methods of fertilizer application are as follows:
+1. Broadcasting
+ It refers to spreading fertilizers uniformly all over the
+field.
+ Suitable for crops with dense stand, the plant roots
+permeate the whole volume of the soil, large doses of
+fertilizers are applied and insoluble phosphatic
+fertilizers such as rock phosphate are broadcasted.
+ This method/ practice is followed especially in closely planted crops
+78
+Broadcasting of fertilizers is of two types.
+a) Broadcasting at Sowing or Planting (Basal Application)
+The main objectives of broadcasting the fertilizers at sowing time are to
+uniformly distribute the fertilizer over the entire field and to mix it with soil.
+b) Top Dressing
+It is the broadcasting of fertilizers particularly nitrogenous fertilizers in closely
+sown crops like paddy and wheat, with the objective of supplying nitrogen in
+readily available form to growing plants.
+Disadvantages of Broadcasting:
+The main disadvantages of application of fertilizers through broadcasting are:
+ Nutrients cannot be fully utilized by plant roots as they move laterally over
+long distances.
+ The weed growth is stimulated all over the field.
+ Nutrients are fixed in the soil as they come in contact with a large mass of
+soil.
+ Some of the nutrients like P & K are largely fixed in high fixing soils, because
+of the increased contact with soil hence a little of them is absorbed by plants.
+ it is inefficient to enhance plant uptake of nutrients.
+ Losses due to voltalisation are more when broadcasted on dry soil
+ Scorching of foliage may occur when leaves moist at the time brosting of
+fertilizers like urea.
+79
+Lecture 28: Methods Fertilizer applications – Placement of
+fertilizers-Localised placement-Application of liquid fertilizers
+___________________________________________________________________
+Placement
+ It refers to the placement of fertilizers in soil at a specific place with or without
+reference to the position of the seed.
+ Placement of fertilizers is normally recommended when the quantity of
+fertilizers to apply is small, development of the root system is poor, soils have
+a low level of fertility and to apply phosphatic and potassium fertilizers.
+ The most common methods of placement are as follows:
+i) Plough sole placement
+ In this method, fertilizer is placed at the bottom of the
+plough furrow in a continuous band during the
+process of ploughing.
+ Every band is covered as the next furrow is turned.
+ This method is suitable for areas where soil becomes quite dry upto few cm
+below the soil surface and soils having a heavy clay pan just below the plough
+sole layer.
+ii) Deep Placement
+It is the placement of ammoniacal nitrogenous fertilizers in the reduction zone of
+soil particularly in paddy fields, where ammoniacal nitrogen remains available to
+the crop. This method ensures better distribution of fertilizer in the root zone soil
+and prevents loss of nutrients by run-off.
+iii) Localized placement
+It refers to the application of fertilizers into the soil close to
+the seed or plant in order to supply the nutrients in adequate
+amounts to the roots of growing plants. The common
+methods are
+80
+a. Drilling : In this method, the fertilizer is applied at the
+time of sowing by means of a seed-cum-fertilizer drill. This
+places fertilizer and the seed in the same row but at
+different depths. Although this method has been found
+suitable for the application of phosphatic and potassic
+fertilizers in cereal crops, but sometimes germination of
+seeds and young plants may get damaged due to higher
+concentration of soluble salts place fertilizers close to the
+seed or plant are as follows:
+b) Side dressing
+It refers to the spread of fertilizer in between the rows and
+around the plants. The common methods of side-dressing are
+like placement of nitrogenous fertilizers by hand in between the
+rows of crops like maize, sugarcane, cotton etc., to apply
+additional doses of nitrogen to the growing crops and
+placement of fertilizers around the trees like mango, apple,
+grapes, papaya etc.
+c) Band placement: If refers to the placement of fertilizer in bands. Band placement
+is of two types.
+i) Hill placement
+It is practiced for the application of fertilizers in orchards.
+In this method, fertilizers are placed close to the plant in
+bands on one or both sides of the plant. The length and
+depth of the band varies with the nature of the crop.
+81
+iii) Row placement
+When the crops like sugarcane, potato, maize, cereals etc., are sown close
+together in rows, the fertilizer is applied in continuous bands on one or both sides of
+the row, which is known as row placement.
+d) Pellet application
+1. It refers to the placement of nitrogenous fertilizer in the form of pellets 2.5 to 5
+cm deep between the rows of the paddy crop.
+2. The fertilizer is mixed with the soil in the ratio of 1:10 and made small pellets
+of convenient size to deposit in the mud of paddy fields.
+Advantages of placement of fertilizers
+The main advantages are as follows:
+ When the fertilizer is placed, there is minimum contact between the soil
+and the fertilizer, and thus fixation of nutrients is greatly reduced.
+ The weeds all over the field cannot make use of the fertilizers.
+ Residual response of fertilizers is usually higher.
+ Utilization of fertilizers by the plants is higher.
+ Loss of nitrogen by leaching is reduced.
+ Being immobile, phosphates are better utilized when placed.
+Foliar Application
+1. It refers to the spraying of fertilizer solutions
+containing one or more nutrients on the foliage
+of growing plants.
+2. Several nutrient elements are readily absorbed
+by leaves when they are dissolved in water and
+sprayed on them.
+82
+3. The concentration of the spray solution has to be controlled; otherwise serious
+damage may result due to scorching of the leaves.
+4. Foliar application is effective for the application of minor nutrients like iron,
+copper, boron, zinc and manganese. Sometimes insecticides are also applied
+along with fertilizers.
+Application through irrigation water (Fertigation)
+1. It refers to the application of water soluble
+fertilizers through irrigation water.
+2. The nutrients are thus carried into the soil in
+solution.
+3. Generally nitrogenous fertilizers are applied
+through irrigation water.
+83
+Lecture 29: Integrated nutrient Management (INM) – Concept- Factors
+affecting INM – Goals and Components
+Integrated Nutrient Management (INM)
+Organic farming methods were adopted by our forefathers to maintain soil
+health and to achieve quality yields. Development of high yielding varieties coupled
+with the introduction of use of chemical fertilizers helped in meeting the increasing
+food demand of the growing population of the country. However, indiscriminate of
+fertilizers coupled with no adoption of use of organics by the farmers due to
+decreased cattle population and unavailability cattle manure, the soil and
+environment are getting polluted.
+In view of these circumstances and to protect the soil fertility, the researchers
+and experienced innovative farmers together have introduced a new method of plant
+nutrition called “Integrated Nutrient Management”
+Definition of INM: Integrated Nutrient Management refers to the maintenance of soil
+fertility and of plant nutrient supply at an optimum level for sustaining the desired
+productivity through optimization of the benefits from all possible sources of organic,
+inorganic and biological components in an integrated manner.
+Concepts of INM: The main purpose of Integrated nutrient management (INM) is to
+apply the various nutrients required by the plants through the right amounts of
+organic and inorganic sources, to achieve higher yields while protecting the
+environment.
+ Regulated nutrient supply for optimum crop growth and higher
+productivity.
+ Improvement and maintenance of soil fertility.
+ Zero adverse impact on agro – ecosystem quality by balanced
+fertilization of organic manures, inorganic fertilizers and bio- inoculants
+Factors to be considered in integrated nutrient management:
+ Nutrient status of the soil
+ Nutrients added to organic sources
+84
+ Nutrients added to chemical sources
+ Nutrient loses from the soil and
+ Nutrient requirement of the particular crop
+Goals of INM:
+ Increasing soil productivity
+ Visualizing agriculture as profitable in favorable and adverse climatic
+conditions also
+ Reducing the usage of chemical fertilizers and also other input costs
+(particularly in chemical fertilizers)
+ Efficient utilization of locally available organic manures, green manure
+and biofertilizers
+ Contributing to environmental protection.
+ Improving the economic status of farmers without harming natural
+resources.
+85
+Components of INM:
+1) Organic manures
+2) Crop residues
+3) Biofertilizers
+4) Chemical Fertilizers
+5) Green manures
+6) Crop rotation/intercroppping
+Organic manures: all the possible organic manures mostly farm yard manure
+(FYM), compost and other concentrated organic manures (animal originated
+concentrated organic manures like blood meal, bone meal, horn meal etc.) may be
+used
+Green manures like Diancha, Pillipesara and green leaf manures like Gliricidia,
+Sesbania, Pongamia are good sources. Inclusion of legumes in crop rotations or
+crop sequences is also a good INM practice.
+Crop residues: After harvesting of the crop the left over crop residues like stalks
+and stubble, sugarcane trash ext, mostly low C:N ratio residues may be used.
+Bio fertilizers: Nitrogen fixing bio fertilizers like Rhizobium, Azotobacter,
+Azospirillum and Clostridium, Phosphorus solubilizing bacteria like Pseudomonas,
+Bacillus species and fungi are Asperzillus, pencilium etc.
+Chemical Fertilizers: chemical fertilizers to supply nitrogen, phosphorus, potassium
+and other secondary and micronutrient etc.
+86
+Lecture 30: Integrated nutrient Management (INM) – Advantages and
+Constraints
+Advantages of Integrated Nutrient Management:
+The combined application of organic manures and chemical fertilizers
+generally produces higher crop yields than when each is applied alone. This
+increase in crop productivity may be due to the combined effect of nutrient supply,
+synergism and improvement in soil physical and biological properties. It nurtures the
+soil rather than just a particulars crop. So the advantages of INM can be visualized
+through
+ Increased soil fertility and productivity
+ Improved soil physical, chemical and biological properties
+ Enhanced infiltration rate and water holding capacity and improvesd
+soil drainage facility
+ Increased mineralization of nutrients and ion exchange capacity
+ Increased buffering capacity of the soil
+ Increased fertilizer use efficiency
+ Reduced investment in chemical fertilizers up to 30 per cent
+ Reduced soil and ground water pollution.
+87
+Some of the economic and environmental benefits through INM practices
+Constraints in INM:
+ Availability of organic manures like FYM / Compost in sufficient quantity is
+less due to decrease in the cattle population with farming community
+ Application of bulky organic manures involves high labour and transport cost
+thus involving high expenditure.
+ Availability of green manure seeds in time.
+ Growing green manure crop for in situ application involves both time and
+money apart from the loss of cropping season. In addition it requires optimum
+moisture at the time of incorporation.
+ The bio-fertilizers may not be available in time.
+ Lack of knowledge among the farming community regarding the benefits /
+usage of bio-fertilizers
+88
+ Farmers are not having proper understanding of importance of balanced
+nutrition and sound knowledge on fertilizer use efficiency.
+ Lack of soil test base fertilizer applications
+ Increasing cost of the chemical fertilizers
+ Scarcity of ground water resources
+ Problematic soils
+89
+Lecture 31: Organic farming – Definition – Methods of cultivation –
+Merits and demerits
+Agriculture was the profession for our ancestors and livestock was reared as
+integral part. The manure generated from these cattle was used in their fields to
+increase the soil fertility and produce quality crops.
+We have achieved the green revolution due to the development of high
+yielding varieties and the use of chemical fertilizers; but on other side indiscriminate
+use of chemical fertilizers and pesticides lead to development of new health
+problems to mankind which pose a threat to human survival. To avert this menace
+and help human survival scientists, farmers and governments are once again
+welcoming our pre-traditional agriculture. For a healthier life - Healthy Food, Healthy
+Crop – Healthy soil is needed. Realisation of this fact is the beginning of organic
+farming.
+Definition of organic farming by FAO : "Organic agriculture is a holistic
+production management system which promotes and enhances agro-ecosystem’s
+health, including biodiversity, biological cycles, and soil biological activity.”
+‘it is based on minimal use of off-farm inputs and rely on management
+practices that restore, maintain and enhance ecological harmony”.
+Organic Farming - Practices to be adopted:
+1. Plough the soil only to the extent required - reduce soil erosion.
+2. Agriculture means Crop and livestock – keeping this in mind, priority should be
+given to dairy farming along with the crop production.
+3. All plant and animal wastes should be converted into organic manures.
+4. Timely inter-cultivation should be done to remove weeds and ensure adequate
+supply of nutrients to the crop.
+5. Awareness should be created on the importance of bio-fertilizers.
+6. The government should also increase the production of bio-fertilizers and provide
+them to the farmers.
+90
+7. Appropriate farming practices should be adopted to utilize water resources
+efficiently and conserve soil moisture
+8. Bio-pesticides should be used for plant protection.
+8. Plant protection should be given priority to biological control methods.
+9. Utilize natural resources without reducing crop yields and deteriorating quality
+Benefits of Organic Farming
+1. The soil is perfectly healthy.
+2. Increases "humus" reserves in the soil and provides all the nutrients to the
+crops.
+3. Soil Physical, chemical and biological properties will be improved
+91
+4. Increases water and nutrient retention properties of soil.
+5. Water storage capacity and soil drainage facilities will be improved
+6. Soil pollution will be reduced and quality will be increased
+7. Contributes to the prevention of groundwater pollution.
+8. Increases buffering capacity of the soil
+9. Reduces pest & disease infestation
+10. Helps in the development of earthworms in soil
+11. Contributes to ecological balance
+12. Provides quality safe food. .
+13. Quality and storage quality will be increase.
+14. It is the source of sustainable agriculture, farmer mental development and
+national progress.
+Barriers in organic farming:
+1. It may be difficult to collect the required organic matter for the entire cultivable
+land.
+2. Due to the change in the lifestyle of the farmers, they are not willing to produce
+organic matter.
+3. Impact of Organic manures on plant growth is slow as compared to chemical
+fertilizers so farmers are turning to chemical fertilizers only.
+4. Tenant farmers do not pay attention to organic sources fertilizers
+5. High yielding varieties and hybrids may not produce the expected results
+through the use of organic fertilizers
+6. Though quality is increased with organics, yields can be increased by the use
+chemical fertilizers.
+7. Collection of organic manures in dryland areas is quite difficult so makes
+organic farming difficult and not remunerative to farmers
+92
+Lecture 32: Awareness on Fertilizer Control Order (FCO)
+Objectives: Laws and regulations governing the manufacture and sale of fertilizers
+are imperative in order to check
+1. Spurious standards and adulterated fertilizers entering in to the market.
+2. To ensure quantity of nutrients and quality of carriers present in the fertilizer
+3. To ensure quantity of nutrients and quality of carriers present in the fertilizer
+4. To eliminate black marketers off the market
+5. The total N ,P O and K O must be guaranteed in terms of percentage of
+2 5 2
+each
+of these nutrients in a given fertilizer.
+By considering the above said objectives, the government of India passed
+The FERTILIZER CONTROL ORDER [FCO] on 28th of April, 1957 in exercise of
+the power conferred by the section III of the essential commodities act of 1955.
+This order is intended to regulate the manufacture, distribution and supply of the
+fertilizers in India at a control cost. This has been effective from May 18th 1957. It is
+revised in 1985 with effect from 25-9-1985. The Government of India has
+delegated to powers to state Governments to implement the order The Government
+of India (G O I) also passed the Fertilizer Movement Order (FMO) on 31st
+December, 1960 in order to regulate the interstate movement of fertilizers and the
+export of fertilizers which came into force with effect from 1-1-1961
+FERTILIZER CONTROL ORDER [FCO] REGULATIONS:
+1. All the fertilizer manufacturers should obtain license from the Commissioner of
+Agriculture, state Government concerned for the manufacture of fertilizer and
+mixed fertilizers
+2. The fertilizer dealers should on renewable basis, register their dealership with
+the Assistant Director of the Agriculture (ADA) Regular of the division
+concerned in a state.
+3. The terms and conditions of manufacture, distribution and sales imposed by
+the government should be followed
+93
+4. Duties of inspecting officers and the dealers are specified
+5. Fertilizer specifications and kind of package are stated
+6. Method of drawing fertilizer samples for analysis in the fertilizer testing
+laboratories is stated
+7. Powers are vested with the FCO enforcing officials to book the cases against
+the fraudulent manufacturers, distributors and dealers of fertilizers.
+Specifications and standards for important fertilizers [As per FCO, 1957]
+1. Urea Moisture per cent by weight - Maximum1.0
+Total nitrogen per cent by weight –minimum 44.0
+Biuret per cent by weight -maximum1.50
+Particle size: In the form of granule the material shall pass
+through 2.8mm and not less than 80% by weight shall be
+retained on 1mm
+2. SSP: Moisture per cent by weight, maximum 12
+Free phosphates as (P O ) percent by weight 4.0
+2 5
+Water soluble phosphates ( as P O ) by weight maximum 16.0
+2 5
+3. MOP Moisture per cent by weight -maximum 12.00
+Water soluble potassium per cent by weight- minimum 60
+4. DAP Moisture per cent by weight 1.0
+Total nitrogen per cent by weight minimum 18
+Total phosphates (as P O ) per cent by weight minimum 46.0
+2 5
+Water soluble phosphates (as P O ) per cent by weight 41.6
+2 5
+94

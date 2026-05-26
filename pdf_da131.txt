@@ -1,0 +1,1417 @@
+PROFESSOR JAYASHANKAR TELANGANA STATE AGRICULTURAL UNIVERSITY
+FACULTY OF AGRICULTURE
+DIPLOMA IN AGRICULTURE
+STUDY MATERIAL
+COURSE NO: DA – 131
+PRINCIPLES OF ENTOMOLOGY & PRODUCTIVE ENTOMOLOGY
+CREDITS: 4 (3+1)
+Prepared by
+Dr. ANUGU ANIL REDDY, Assistant Professor, APT, Malthummeda
+Dr. B. DILEEP KUMAR, Vice Principal, APT, Jammikunta
+Dr. M. ANURADHA, Principal, APT, Palem
+PROFESSOR JAYASHANKAR TELANGANA STATE AGRICULTURAL UNIVERSITY
+AGRICULTURAL POLYTECHNIC
+Detailed Lecture Outline
+DA-131 (Principles of Entomology and Productive Entomology)
+Theory:
+1. Introduction of Entomology
+2. Characters of class Insecta – Division of class Insecta into subclasses – pterygota,
+Apterygota, their characters, classifications and examples
+3. Characters of Orthoptera
+4. Orthoptera – Head, antenna, mouth parts, thorax, characters of wings, abdomen.
+Examples of agricultural importance.
+5. Characters of Thysanoptera
+6. Thysanoptera – Segmented antenna, compound eyes, asymmetrical mouth parts, wing
+characters, parthenogenetic type or reproduction.
+7. Thysanoptera – example of agricultural importance.
+8. Order Hemiptera Sub order Heteroptera characters
+9. Heteroptera – 4 to 5 segmented antenna, well developed compound eyes, sucking type of
+mouth parts, large pronotum, wing characters.
+10. Sub Order Homoptera Characters
+11. Homoptera – Head, compound eyes well developed, 3 to 10 segmented antenna. Piercing
+and sucking type of mouth parts. Thoracic characters, wing characters.
+12. Homoptera – insects sexual and parthenogenetic reproduction
+13. Homoptera – Examples of agricultural importance.
+14. Order Lepidoptera Characters
+15. Lepidoptera – Mouth parts, head, compound eyes, characters of wings.
+16. Lepidoptera – Differences between moths and butterflies
+17. Lepidoptera – examples of agricultural importance.
+18. Order Coleptera characters
+19. Coleptera – antenna, bitting type of mouth parts, thoracic characters, wing characters
+20. Coleptera - larval and pupa exarate
+21. Coleptera - examples of agricultural importance
+22. Order Hymenoptera characters
+23. Hymenoptera – Head, well developed compound eyes, antenna, mouth parts, wing
+characters, trochanter 1 or 2 segmented, abdominal characters
+24. Hymenoptera – larval and pupal characters
+25. Hymenoptera - examples of agricultural importance
+26. Order Diptera characters
+27. Diptera – Head, eyes, antenna, mouth parts, thoracic characters, wings, halters tarsus 5
+segmented
+28. Diptera – larval and pupal characters
+29. Diptera - examples of agricultural importance
+30. External characters of cockroach
+31. Cockroach – segmentation, body regions, head, throax, abdomen, head, mouth parts
+32. Cockroach- thorax – prothorax, mesothorax and metathorax,
+33. Cockroach- legs and wings. Abdomen-anal ceric and styles.
+34. Kinds of insects mouth parts
+35. Biting and chewing type, sucking type, Rasping and sucking type
+36. sponging and sucking type.
+37. Different Types of injuries caused by insects
+38. Different types of injuries and damage symptoms caused by insects
+39. Introduction to Integrated Pest Management
+40. Importance, concepts and principles of IPM
+41. Bio agents – parasitoids and predators
+42. Chemical control – Importance of pesticides
+43. Classification of insecticides
+44. Different formulations of insecticides
+45. Study of important group of insecticides and their examples
+46. Botanical insecticides – cyclodienes, organo phosphates, carbamates, synthetic
+pyrethroids, novel insecticides nematicides, rodenticides, acaricides, antifeedants,
+attractants, sex pheromones
+47. & 48. Compatibility of insecticides – insecticides mixtures, phytotoxicity
+Introduction of Arthropoda
+Arthropoda is a largest phylum in animal kingdom. The word Arthropoda was derived
+from Greek (Arthros = joint, Poda = foot/feet. In addition, the arthropods have developed a hard,
+protective exoskeleton (outer shell). Chitin is the main component in arthropod exoskeletons.
+Many familiar species belong to the phylum Arthropoda insects, spiders, scorpions,
+centipedes, and millipedes on land; crabs, crayfish, shrimp, lobsters, and barnacles in water.
+Arthropods are considered the most successful animals on Earth. The phylum includes more
+species and more individuals than all other groups of animals combined. Over 85 percent of all
+known animal species are arthropods. They live in the widest range of habitats and eat the
+greatest varieties of food. The rigid cuticle inhibits growth, so arthropods replace it periodically
+by moulting.
+General Characters of Arthropoda:
+• The body of arthropods is bilaterally symmetrical.
+• These animals are triploblastic, and the body is segmented into head, thorax, and
+abdomen.
+• They have jointed appendages that help in movements.
+• The body cavity is filled with white coloured blood that is known as haemocoel.
+• The exoskeleton structure is hard and made of complex sugar, namely chitin.
+• Arthropoda species can be both terrestrial and aquatic.
+• These animals have compound eyes on their head, capable of mosaic vision.
+• Their nervous system is well-developed.
+• Their heads bear the brain and all the sensory organs such as antennae, hair, statocysts,
+and auditory organs.
+• One of the most important features of arthropods is their open circulatory system with
+arteries and dorsal heart.
+• In an Arthropoda diagram, the digestive tract is found with the mouth at one end and the
+anus at the opposite part of the body.
+• The aquatic arthropods excrete waste through coaxal glands, and the terrestrials use
+malpighian tubule to excrete.
+• Phylum Arthropoda shows sexual dimorphism that is either internal or external.
+• These animals are unisexual.
+• With the help of trachea or book lungs, the terrestrial forms perform respiration. Their
+aquatic type uses gills or the body surface to respire.
+• Muscles are composed of striated fibres, ciliated epithelium absent
+• Development may be direct or indirect.
+Clasification of Arthopoda
+It is the largest phylum in the animal kingdom. Besides insects, many creatures like
+crayfish, crabs, lobsters, centipedes, millipedes, spiders, mites, ticks, scorpions etccome under
+this category.
+Phylum arthropoda is classified into 7 classes viz
+1 .Onychophora (claw bearing): Ex: peripatus
+2. Crustacea (crusta-shell): Ex: prawns, crabs, wood louse
+3.Arachnida (Arachine-spider): Ex: scorpion, spider, ticks, mites
+4.Chilopoda (chilo-lip,poda-legs): Ex: centipedes
+5.Diplopoda (diplo-two,poda-legs): Ex: millipedes
+6.Trilobita (an extinct group)
+7.Hexopoda (hexa-Six; poda-legs) Ex: insects
+Characters of class: Insecta (in-internal; sect-cut)
+Insects have segmented bodies, jointed legs, and external skeletons (exoskeletons).
+Insects are distinguished from other arthropods by their body, which is divided into three major
+regions:
+1. The head, which bears the mouthparts, eyes, and a pair of antennae,
+2. The three-segmented thorax, which usually has three pairs of legs (hence “Hexapoda”) in
+adults and usually one or two pairs of wings.
+3. The many-segmented abdomen, which contains the digestive, excretory, and reproductive
+organs.
+Body segmentation of Insect
+In general, insect body is divided in to a series of segments, which in primitive
+arthropods are known as “somites” or “metameres”. During the process of evolution, these
+somites gets fused with each other in different ways forming the body parts of the existing
+arthropods.
+The type of arrangement of these body segments in embryonic stage is known as primary
+segmentation while in adult insects is known as the secondary segmentation which differ from
+primary in having a sclerotized membranous intersegmental region.
+Insect body is divided in to three regions or tagmata namely head, thorax and abdomen.
+This grouping of body segments in to regions is known as tagmosis.
+Head consists of mouthparts, compound eyes, simple eyes (ocelli) and a pair of antennae.
+Thorax consists of 3 segments i.e. prothorax, mesothorax and metathorax, Meso and
+metathorax are together known as pterothorax. All the three thoracic segments possess a pair of
+legs and meso and meta thorax possess one pair of wings.
+Abdomen has 7-11 segments with genital appendages on 8th and 9th segments.
+Insect Head
+Insect head is a hard and highly sclerotized compact structure. It is the foremost part in
+insect body consisting of 6 segments that are fused to form a head capsule. The head segments
+can be divided in to two regions i.e. procephalon and gnathocephalon (mouth).
+Six segments of head are represented as.
+S.No Segment Appendages
+1 Pre antennary segment No appendages
+2 Antennary segment Antennae
+3 Intercalary segment No appendages
+4 Mandibular segment Mandibles
+5 First maxillary segment Maxillae
+6 Second maxillary/labial segment Labium
+Sclerites and sutures of head
+The head capsule is formed by the union of number of sclerites or cuticular plates or
+areas which are joined together by means of cuticular lines or ridges known as sutures.
+These sutures provide mechanical support to the cranial wall. A general insect posses the
+following sclerites.
+1. Labrum : It is small sclerite that forms the upper lip of the mouth cavity. It is freely
+attached or suspended from the lower margin of the clypeus
+2.Clypeus: It is situated above the labrum and is divided in to anterior ante-clypeus and
+posterior post-clypeus.
+3. Frons : It is the facial part of the insect consisting of median ocellus.
+4. Vertex : It is the top portion of the head behind the frons or the area between the two
+compound eyes.
+5. Epicraniun : It is the upper part of the head extending from vertex to occipital suture.
+6. Occiput : It is an inverted “U” shaped structure representing the area between the
+epicranium and post occiput.
+7. Post occiput : It is the extreme posterior part of the insect head that remains before the
+neck region.
+8. Gena : It is the area extending from below the compound eyes to just above the mandibles
+9. Occular sclerites : These are cuticular ring like structures present around each compound
+eye
+10. Antennal sclerites : These form the basis for the antennae and present around the scape
+which are well developed in Plecoptera (stone flies)
+All the above sclerites gets attached through cuticular ridges or sutures to provide the
+attachment for the muscles inside.
+The common sutures present in head are
+1) Clypeolabral suture : It is the suture present between clypeus and labrum. It remains in the
+lower margin of the clypeus from which the labrum hangs down.
+2) Clypeofrontal suture or epistomal suture: The suture present between clypeus and frons
+3) Epicranial suture: It is an inverted ‘Y’ shaped suture distributed above the facial region
+extending up to the epicranial part of the head. It consists of two arms called frontal suture
+occupying the frons and stem called as coronal suture. This epicranial suture is also known as
+line of weakness or ecdysial suture because the exuvial membrane splits along this suture
+during the process of ecdysis.
+4) Occipital suture: It is ‘U’ shaped or horseshoe shaped suture between epicranium and occiput.
+5) Post occipital suture: It is the only real suture in insect head. Posterior end of the head is
+marked by the post occipital suture to which the sclerites are attached. As this suture separates
+the head from the neck, hence named as real suture.
+6) Genal suture: It is the sutures present on the lateral side of the head i.e. gena.
+7) Occular suture: It is circular suture present around each compound eye.
+8) Antennal suture: It is a marginal depressed ring around the antennal socket.
+Thorax
+It is the middle part of the body consisting of three segments each possessing a pair of
+legs and a pair of wings on meso and meta thoracic segment. Meso and meta thoracic segments
+together known as pterothorax. Sclerite of dorsal region of thorax is tergum or notum in case of
+winged insect, ventral region is called sternum and lateral region is called pleuron.
+Abdomen
+Abdomen forms the posterior part of the insect body . Pre genital appendages are absent
+in pterygotes and present in Apterygotes. The abdomen in the embryo usually consists 12
+segments, later the last segments degenerate and appear as 7- 11 segments. Last segment is
+known as telson or tail as in case of Protura. Abdominal Segments from 1 to 7 are pregenital
+segments, eighth and ninth are known as genital segments as they form genital appendages i.e.
+ovipositor in females and aedeagus or penis in males.Tenth and eleventh segments are known as
+postgenital segments. The 10th segment in general forms the supra anal plate and 11th segment
+is represented by a pair of anal cerci (usually known as post- genital abdominal appendages).
+Pre-genital segments are represented by collophore, furcula and tenaculum in
+Collembola, styli in Thysanura and cornicles (on dorsal side of 5th and 6th abdominal segments.)
+in aphids. The abdominal segments consist of tracheal gills In immature forms of trichopterans,
+mayflies, mosquitoes etc. The last abdominal segments telescope in to each other to form a
+pseudo ovipositor in diptera. The 1st abdominal segment get fused to metathorax forming
+propodeum whereas 2nd abdominal segment forms a narrow pedicel or petiole followed by
+enlarged gaster (rest of the abdominal segments) in hymenoptera.
+Class Insecta
+Sub class Apterygota Sub class Pterygota (Metabola)
+(Ametabola) Wingless (winged insects)
+(Imm’s classification)
+1. Protura – Telson tails
+2. Diplura – Diplurans
+3. Collembola – Spring tails, snow fleas etc
+4. Thysanura –Bristle tails,Silver fish etc
+Division: Exopterygota (Hemi Division(cid:1)Endopterygota (Holo metabola
+metabloa) ( wings develop ( wings develop internally
+externally)
+5. Ephemeroptera (cid:1) May flies
+6. Odonata (cid:1) Dragon flies and Damsel flies 21. Neuroptera (cid:1) Ant lions and lace wings
+7. Plecoptera (cid:1) Stone flies 22. Mecoptera (cid:1) Scorpion flies
+8. Dictyoptera (cid:1) Cockroaches and mantids 23. Trichoptera (cid:1) Caddis flies
+9.Grylloblattodea (cid:1) Grylloblattids 24. Lepidoptera (cid:1) Moths and butteflies
+10.Orthoptera (cid:1) Grasshoppers, locusts, 25. Diptera (cid:1) Flies, mosquitoes
+Crickets , mole crickets etc.
+11.Phasmida (cid:1) Stick insects 26. Siphanoptera (cid:1) Fleas
+12. Dermaptera (cid:1) Earwigs 27. Hymenoptera –Ants, bees , wasps
+13. Embioptera (cid:1) Web spinners 28. Coleoptera(cid:1) Beetles, weevils
+14. Isoptera (cid:1) Termites 29. Strepsiptera(cid:1)Stylopids
+15. Zoraptera (cid:1) Zorapterans
+16. Psocoptera (cid:1) Book lice
+17. Mallophaga (cid:1) Bird lice
+18. Siphunculata (Anoplura) (cid:1) Sucking lice
+19. Hemiptera (cid:1) Plant bugs
+20. Thysanoptera (cid:1) Thrips
+The class insecta has two subclasses viz., Apterygota and Pterygota.
+Apterygota( Ametabola) Pterygota(Metabola)
+Small and primitive insects & Primarily Developed insects & Winged and
+wingless secondarily wingless
+Adults have pregenital abdominal Adults without pregenital abdominal
+appendages appendages
+Metamorphosis is simple or absent Metamorphosis is present and
+variable
+Mandibles articulate with head at Mandibles articulate with head at two
+single point -Monocondyle points -Dicondyle
+Exopterygota (Hemimetabola) Endopterygota (Holometabola)
+Metamorphosis simple and Complete and complex
+incomplete
+Wings develop externally internally
+Immature stages (nymphs) Immature stages (lava) differ adults
+in structure and habits
+resemble adults in structure and
+habits
+No pupal instar Pupal instar present
+CHARACTERS OF IMPORTANT ORDERS
+ORDER: ORTHOPTERA (Ortho: straight, Ptera: Wings, Straight winged Insects )
+Head is Hypognathous or Proganthous
+Large well developed compound eyes as well as three ocelli.
+Filiform Antennae
+Mouthparts Mandibulate (Chewing and biting type )
+Large pronotum
+Fore wings are long, narrow, leathery called tegmina.
+Hind wings are broad, membraneous and folded fan like beneath the forewings at rest.
+Hind legs have enlarged femur used for jumping -saltatorial in grasshoppers.
+Fore legs modified for digging (fossorial) in mole crickets.
+Tarsi 3-4 segmented
+Stridulation (sound producing) is by rubbing forewings against each other (alary type) or both
+hind femora over tegmina(femoro-alary type)
+Tympanal organs or Auditory organs are located on either side of the first abdominal segment or
+at the base of fore tibia
+Male genetalia concealed by the boat shaped 9th abdominal sternum.
+Females usually have well developed ovipositor
+Anal cerci are short and unsegmented.
+Hemimetabolous (having nymphs that look like small adults and no pupa), having three stages of
+development; egg, nymph and adult.
+Examples :Grasshoppers, Crickets, Locusts
+Rice Grasshoppers-Oxya nitidula, Heiroglyphus banian
+ORDER : THYSANOPTERA (Thysano: fringed, Ptera: Wings, Fringed-winged Insects)
+Antennae 6-10 segmented
+Conspicuous Compound eyes
+Asymmetrical mouth parts. Right mandible is absent. Lacerating or Rasping and sucking type
+Fringed wings
+Tarsus is two segmented with arolium at the pretarsus.
+Anal cerci are absent
+Metamorphosis is Intermediate between simple and complex, in which 1st and 2nd instar larvae
+are active, resembling adults (called nymphs) where as 3rd and 4th instar are inactive pre-pupal
+and pupa like stages.
+Parthenogenesis reproduction is very common, and in many species males are rare.
+Eg:Thrips
+Chilli thrip-Scirtothrips dorsais
+Tobacco thrip-Thrips tabaci
+ORDER : HEMIPTERA (Hemi: half thickened, Ptera: Wings)
+I.Sub-Order- Heteroptera
+Head Prognathous.
+Antennae fairly long with 4-5 segments
+Compound eyes well developed, 2 ocelli may be present/absent
+piercing and sucking type of mouth parts
+Pronotum Large, while meso- and meta-notum are relatively small
+Forewings are called as Hemielytra The hindwings are membranous and folded beneath the
+hemielytra at rest. wings are usually held flat over the body
+Scent glands are present
+Ovipositor with 3 pairs of valves
+Eg:True bugs
+Stink Bug-Nezara viridula
+Red Cotton bug-Dysdercus cingulatus
+II.Sub-Order- Homoptera
+Head Hypognathous / opisthognathous
+Antennae 3-10 segmented
+Compound eyes well developed, 2 ocelli may be present/absent
+piercing and sucking type of mouth parts
+forewings are uniform texture entirely sclerotized with no membranous tip.
+Wings are held over the body like a tent
+Wax glands are present
+Abdomen 11 segments; first 2 segments are modified for sound production
+Eg:Leaf Hoppers, Plant hoppers , Aphids, Mealy bugs, Scale insects , Whiteflies
+Rice green leaf hopper-Nephotettix virescens
+Castor whitefly-Trialeurodes ricini
+ORDER : LEPIDOPTERA (Lepido: Scales, Ptera: Wings, Scaly winged Insects)
+Head relatively small
+Large compound eyes, ocelli two in numbers
+Siphoning type of Mouth parts in Adults(long coiled proboscis formed by the galea of maxilla,
+mandibles are absent). Chewing and biting type in larva.
+Two pairs of membranous wings covered with scales giving beautiful color patterns. A large cell
+called distal cell is formed in the forewing due to the absence of stems of R4, R5 and the main
+stem of the median vein.
+scales known as androconia occur on upper surface of the wings in males and serve as the outlets
+of odoriferous glands.
+Larvae are called caterpillars (true legs in thorax and non-segmented legs in 3,4,5,6 and 10th
+Abdominal segments )
+Pupae are usually adecticus, obtect
+Adults Harmless, except citrus fruit sucking moths, and castor semilooper
+Complete metamorphosis
+Character Butterflies Moths
+Size Bigger smaller
+Antenna Clubbed/clavate Bipectinate antenna
+antenna
+Wing brightly colored wings. dull colored wings.
+Pupa No cocoon-Chrysalis Cocoon
+Activity Diurnal Nocturnal or crepuscular
+Ex: American bollworm/Gram caterpillar- Helicoverpa armigera
+Tobacco caterpillar-Spodoptera litura
+ORDER : COLEOPTERA (Coleo: Sheath, Ptera : Wings, Sheathed winged Insects)
+Head is highly sclerotized, normal in beetles or prolongated into snout in weevils
+Antennae usually 11 segmented
+Mouth parts are Chewing and biting type
+Prothorax large and freely movable. Mesothorax much reduced and fused with metathorax
+Forewings are horny, leathery and not used for flight known as elytra, Hind wings are
+membranous
+Tarsal segments are variable.
+Larvae are known as grubs-oligopod or apodous
+Pupa Exarate,
+Metamorphosis Complete and complex
+Eg:Mango stemborer-Batocera rufomaculata
+Coccinellid beetle-Coccinella septumpunctata
+ORDER: HYMENOPTERA ((Hymen: membrane, ptera: wings, membranous winged Insects)
+Compound eyes are large- acuteness of vision is a characteristic feature of the order
+Mouthparts either chewing type or chewing and lapping type.
+Two pairs of membranous wings. Hind wings interlocked with fore wings by means of row of
+tiny hooks (hamuli) along the costal margin.
+Trochanter 1 or 2 segmented.
+First abdominal segment which is attached to thorax is called propodaeum. The 2nd abdominal
+segment is constricted called petiole or pedicel, while all the other abdominal segments are
+collectively called gaster.
+Ovipositor is well developed and modified for sawing, boring and piercing.
+Larvae of majority of advanced hymenoptera closely resemble maggots while primitive
+hymenoptera(eg :sawflies) resemble caterpillars
+Exarate pupa and a cocoon is generally present.
+Complete Metamorphosis
+Eg:WASPS, ANTS, BEES, SAWFLIES
+Indian honey bee-Apis cerana indica
+Red ant-Oecophylla smaragdina
+ORDER: DIPTERA (Di: two; ptera: wings; two winged insects)
+Head Prominent and small neck
+Compound Eyes Large, Ptilinum or frontal sac is present
+Mostly 3 segmented Antenna ,aristate in flies, plumose & pilose in mosquitoes
+Sucking type of Mouth parts. In mosquitoes-piercing and sucking type, House flies-sponging &
+lapping type
+Mesothorax Large. Prothoracic and Meta thoracic segments are small
+Only front pair of wings present. Hind pair modified into halteres which act as balancers
+Tarsus usually 5 segmented, pulvilli and an empodium usually present
+Metamorphosis Complete
+Larva Eruciform, apodous, known as maggots,
+coarctate Pupa enclosed in puparium
+Eg: TRUE FLIES, MOSQUITOES, MIDGES
+Rice gall midge-Orseolia oryzae
+Jowar shootfly-Atherigona soccata
+Cockroach (Periplaneta americana) - External Characters
+Periplaneta americana: linneaus (1758) named as blatta Americana. Barmyster (1838)
+proposed the genus periplaneta. It is present in all over world. They are omnivorous and
+scavenger insects
+Classification:
+Kingdom: Animalia
+Phylum: Arthropoda
+Class: Insecta
+Order: Blattodea
+Family: Blattidae
+Genus: Periplaneta
+Species: P. americana
+The cockroach is divided into three sections; the body is flattened and broadly oval, with
+a shield-like pronotum covering its head. A pronotum is a plate-like structure that covers all or
+part of the dorsal surface of the thorax of certain insects. They also have chewing mouth parts,
+long, segmented antennae, and leathery fore wings with delicate hind wings. The third section of
+the cockroach is the abdomen.
+1. Segmentation:
+The body shows three regions or tagmata that includes
+the head, thorax and abdomen. Embryologically, the body is formed of 20
+segments. First 6 segments formed the head, next 3 segments formed the thorax
+and remaining 11 segments formed the abdomen. Only 10 segments are retained in
+the abdomen of the adult, in which only the first 7 are distinct in females, and the
+first 9 are distinct in males. The anus is located at the end of the abdomen and it is
+a 10th modified segment.
+2. Head:
+a. Head Capsule:
+Cockroach head is triangular and is formed by a fusion of 6 chitinous or
+sclerite plates.The head is bent downwards in a hypognathous position, i.e., at an
+angle of 900 from the long axis of the body. All sclerites of the head fuse to form
+a head capsule. The cockroach posses the following sclerites.
+1. Labrum : It is small sclerite that forms the upper lip of the mouth cavity. It is freely attached or
+suspended from the lower margin of the clypeus
+2.Clypeus: It is situated above the labrum and is divided in to anterior ante-clypeus and
+posterior post-clypeus.
+3. Frons : It is the facial part of the insect consisting of median ocellus.
+4. Vertex : It is the top portion of the head behind the frons or the area between the two
+compound eyes.
+5. Epicraniun : It is the upper part of the head extending from vertex to occipital suture.
+6. Occiput : It is an inverted “U” shaped structure representing the area between the epicranium
+and post occiput.
+7. Post occiput : It is the extreme posterior part of the insect head that remains before the
+neck region.
+8. Gena : It is the area extending from below the compound eyes to just above the mandibles
+9. Occular sclerites : These are cuticular ring like structures present around each compound
+eye
+10. Antennal sclerites : These form the basis for the antennae and present around the scape
+which are well developed in Plecoptera (stone flies)
+All the above sclerites gets attached through cuticular ridges or sutures to provide the
+attachment for the muscles inside.
+b. Appendages of Head:
+The cockroarch head consist the following appendages
+S.No Segment Appendages
+1 Pre antennary segment No appendages
+2 Antennary segment Antennae
+3 Intercalary segment No appendages
+4 Mandibular segment Mandibles
+5 First maxillary segment Maxillae
+6 Second maxillary/labial segment Labium
+A pair of antennae arises from the membranous sockets, i.e. antennal sockets
+that present in front of the eyes can move in all directions, and they are very
+sensitive. Each antenna is formed of 3 segments i.e.
+scape (largest), pedicel (narrow and elongated) and flagellum (the long and
+slender part which has many jointed parts, bearing tactile sensory setae). These
+antennae act as sense organs of touch and smell.
+c. Mouthparts:
+cockroach is having the 'biting and chewing' type of mouthparts. These mouth parts consists of
+labrum, a pair of mandibles, a pair of first maxillae, labium or pair of second maxillae and
+hypopharynx.
+a. Labrum: It is a small sclerite that forms the upper lip of the mouth cavity. It protects the
+mandibles and helps in closing of the mouth cavity and guide the food in to mouth. On its
+inner surface, labrum consists of lobe like structure called labrum – epipharynx which is
+well developed. Labrum hangs down from the clypeus through a clypeo-labral suture.
+b. Mandibles: These are the paired, unsegmented, strongest and sclerotized structures called
+jaws. They are attached to the head capsule by means of two joints known as ginglymus and
+condyle. They possess teeth like molars and incisors that help in the process of cutting the
+food material. Each mandible is moved by powerful Abductor and adductor muscles.
+c. Maxillae: These are paired homologous structures with basal triangular ‘cardo’, middle
+rectangular ‘stipes’ and the lateral ‘palpifer’ bearing maxillary palpi and lobe like inner
+‘lacinia’ and outer ‘galea’.Maxillary palps possess olfactory and gustatory sense receptors
+and function as sensory organs . These Galea and lacinia helps in holding the food material
+along with the mandibles.
+d. Labium: It is known as lower lip and is also called as second maxillae. It closes the mouth
+cavity from below.It is divided in to proximal prementum. central mentum and distal
+submentum Near the base of pre mentum, on either side lobe like ‘palpiger’ is present which
+bears labial palps. Prementum has four terminal lobes. The median pair is ‘glossae’ and
+outer ‘paraglossae’ together called ligula that function mainly as gustatory sense organs.
+e. Hypopharynx : It is a tongue like structure situated between labrum and labium and ducts of
+salivary glands open on or near its base.
+3. Neck:
+The Neck grease is a short slender feature that attacks to the head. The base is supported by
+a pair of posterior and two greiva plaques in the abdomen the muscles of the neck help the head.
+To rotate all the sides
+4. Thorax : It is the middle part of the body consisting of three segments each possessing a
+pair of legs and a pair of wings on meso and meta thoracic segment. Meso and meta thoracic
+segments together known as pterothorax. Sclerite of dorsal region of thorax is tergum or
+notum in case of winged insect, ventral region is called sternum and lateral region is called
+pleuron.
+a. Cockroach Leg : All the three thoracic segments of an insect possess a pair of legs as
+locomotory organs giving the name hexapods and the class insecta as hexapoda. Insect leg
+mainly consists of 5 parts viz. Coxa , Trochanter, Femur , Tibia and. Tarsus.
+1.Coxa: It is the functional basal segment and it is rigidly fixed to thorax or weakly articulated.
+2. Trochanter : It is very small and the second segment. It is articulated with coxa and more or
+less fixed to femur.
+3. Femur : It is the largest, strongest segment and is articulated with the tibia..
+4. Tibia : It is equal or more than the length of the femur, articulated with tarsus.
+5.Tarsus : it is the largest segment of the leg and usually devided into sub segments tarsomeres.
+The number of tarsomeres vary from 1-5 and are movable one on the other. Among the 5
+segments, 1st segment is large, big or broad in size known as basitarsus. The tarsus at it’s end
+consists of pretarsus which is in the form of a pair of claws and cushion like pulvilli. In between
+the claws, if there is lobe like structure, it is known as “aroleum” and if it is bristle like structure,
+it is called “empodium”.
+b) Wing:
+These are two pairs; the first pair is mesothoracic – attached with the tergum of the
+mesothorax and the second pair is metathoracic – connected with the tergum of the metathorax.
+Mesothoracic Wings are also called wing-covers or tegmina or elytra. These are thick, large,
+leathery, dark coloured opaque in structure which are narrow at the distal end. They are not used
+for flight but cover and protect metathoracic wings. Metathoracic wings are very delicate,
+transparent, thin and membranous with a broad terminal end. These wings are used for flight, but
+in the resting position, they lie folded below the tegmina.
+5.Abdomen:
+There are 10 tergites in both males and females. Ventrally, the abdomen has only 9
+sternites in males and seven in females. In females, the last, i.e., 7th sternite, is larger and boat-
+shaped. Together with the indistinct 8th and sternites, it forms a chamber-like structure called
+gynatrium. The posterior part of gynatrium is called the oothecal chamber because ootheca is
+formed in it. Behind this chamber, the 7th sternite bifurcates into two prominent oval plates called
+gynovalvularplates or apical lobes. These Abdominal segments lack locomotory appendages. At
+the posterior end, however, there are certain small structures associated with the gonopore. These
+are different in both sexes. It includes anal cerci, anal styles and gonapophyses. Anal Cerci are
+paired and jointed outgrowths that arise from the 10th tergum. These are sensitive to sound and
+other vibrations. Anal Styles are also paired but thin and small unjointed outgrowths that projects
+backwardly from the sides of the 9th sternum of male cockroach only and these are also sensitive
+to touch. Gonapophyses are present in both males and females; the genital aperture is surrounded
+by some sclerites called gonapophyses. In males, they arise from the 9th segment and form the
+external genitalia or external genital organs to help the insect in the copulation process. In female
+cockroaches, gonapophysis belongs to the 8th and 9th abdominal segments to form an ovipositor.
+The latter is used to guide the fertilized eggs towards the oothecal chamber for ootheca
+formation.
+Mouth parts of insects
+These are the organs primarily concerned with the uptake of food. Typical mouthpart of
+an insect consists of the following parts. (i) Labrum (upper lip) (ii) A pair of mandibles (iii) A
+pair of maxillae (iv) Labium (lower lip) (v) Hypopharynx (tongue)
+The mouth parts of insects can be basically grouped in to following types based on the
+type of food and method of feeding.
+S.No Type of Mouth parts Examples
+I Biting and chewing type Grasshoppers, cockroaches
+II Sucking type / Haustellate type
+1. Piercing and sucking type Plant Bugs and Mosquitoes
+2. Rasping and sucking type Thrips
+3. Sponging type Adult Houseflies
+4. Chewing and lapping type Honey bees
+5. Siphoning type Butterflies and moths
+III Other types
+1. Mask type Naids of Dragonflies
+2. Degenerate type Maggots of Diptera
+I. Biting and chewing type of Mouth Parts:
+This type is considered as primitive and found in Orthoptera, Isoptera and Coleoptera,
+larvae of Lepidoptera and Neuroptera etc.
+The mouth parts include following parts
+a. Labrum : It is a small sclerite that forms the upper lip of the mouth cavity. It protects the
+mandibles and helps in closing of the mouth cavity and guide the food in to mouth. On its
+inner surface, labrum consists of lobe like structure called labrum – epipharynx which is
+well developed in Hymenoptera. Labrum hangs down from the clypeus through a
+clypeo-labral suture.
+b. Mandibles: These are the paired, unsegmented, strongest and sclerotized structures
+called jaws. They are attached to the head capsule by means of two joints known as
+ginglymus and condyle. They possess teeth like molars and incisors that help in the
+process of cutting the food material. Each mandible is moved by powerful Abductor and
+adductor muscles.
+c. Maxillae: These are paired homologous structures with basal triangular ‘cardo’, middle
+rectangular ‘stipes’ and the lateral ‘palpifer’ bearing maxillary palpi and lobe like inner
+‘lacinia’ and outer ‘galea’. Maxillary palps possess olfactory and gustatory sense
+receptors and function as sensory organs . These. Galea and lacinia helps in holding the
+food material along with the mandibles.
+d. Labium: It is known as lower lip and is also called as second maxillae. It closes the
+mouth cavity from below. It is divided in to proximal prementum. central mentum and
+distal submentum Near the base of pre mentum, on either side lobe like ‘palpiger’ is
+present which bears labial palps. Prementum has four terminal lobes. The median pair is
+‘glossae’ and outer ‘paraglossae’ together called ligula that function mainly as gustatory
+sense organs.
+e. Hypopharynx: It is a tongue like structure situated between labrum and labium and
+ducts of salivary glands open on or near its base.
+II. Sucking type of Mouth Parts:
+This is considered as advanced type where the oral appendages get modified differently.
+1. Piercing and sucking type e.g.: plant bugs, mosquitoes
+They are mainly adopted for piercing the tissues and sucking either plant sap or the nectar
+or blood from the host. Mouth parts are represented by rostrum/beak which is a modification of
+Labium . It acts as a pouch for protecting the mandibular and maxillary stylets. Mandibles and
+maxillae are modified in to sharp needle like stylets. The mandibular stylets form the outer pair
+and possess serrated margins at their tip. The maxillary stylets forms the inner pair having
+smooth curved tips and combine together enclosing a food channel. The food channel is divided
+in to an upper cibarium and lower salivarium with the help of the grooves present inside the
+maxillary stylets. Salivarium is used for releasing the saliva and cibarium is used for sucking the
+sap. The hypopharynx is modified in to a pharyngeal pump and is situated at the tip of the food
+channel. Llabrum is modified into a small flap like structure at the base of rostrum. Insects with
+these type of mouthparts pierce the tissues with the mandibular stylets and suck the contents
+(sap/ blood / nectar) through cibarium with the action of pharyngeal and cibarial muscles.
+Cross section
+Piercing and sucking type
+2. Rasping and sucking type of Mouth Parts : e.g. thrips
+These are called asymmetrical type , since right mandible is rudimentary . They are in
+between the biting – chewing type; and piercing - sucking type. Mouth parts are represented by
+mouth cone which is formed by the labrum and clypeus above and labium below. Within the
+beak/mouth cone hypopharynx and left mandible is present. Right mandible is absent where as
+the left mandible is modified in to a mandibular stylet. Maxillae are modified in to maxillary
+stylets which are mainly useful for sucking the sap that is released outside due to the rasping of
+tissues by the left mandible.
+3. Sponging type of Mouth Parts: eg: housefly
+These mouthparts are represented by proboscis formed from the labium. The proboscis is
+divided into a basal rostrum, middle haustellum and a distal labellum. The labellum is a sponge
+like structure. It is traversed by a number of narrow transverse channels called pseudotrachea
+which converge at one point in the centre of the labellum. From this point, the food enters in to
+food channel which is formed by the labrum- epipharynx and hypopharynx. Mandibles are
+absent (reduced) maxillary palpi are 1-3 segmented. During feeding, the proboscis is pressed
+over the food material. The pseudo trachea gets filled with the food material by the capillary
+action and is sucked up from the central point in to the oesophagus.
+Sponging type of Mouth Parts
+5. Siphoning type of Mouth parts : eg: butterflies
+These are specially modified for taking nectar from the flowers. The galea of maxilla
+form into a slender, hollow, tubular structure which remains as an elongated coiled proboscis
+underneath the head during non feeding. Mandibles are totally absent. The labrum and maxilla
+palpi are reduced. Labium is modified in to a small basal plate possessing a three segmented
+labial palpi. The food channel is formed by the fusion of both the galea. The nectar will be
+sucked from the flowers through muscular action.
+Siphoning type of mouthparts
+Damage symptoms of different Pests and their different kinds of losses
+1. Root Grub/ feeders: Larvae feed on roots/root nodules resulting in stunted growth/poor
+tillering /drying of plants in isolated patches.
+Eg: Rice root weevil, White Grub and Banana Rhizome weevil
+2. Stem borers: Larvae enter in to the stem and feed on internal contents. As a result,
+damaged part is cut off from the main plant and affected part wilts, dries up and exhibits
+symptoms like dead heart during vegetative stage and white ear during reproductive stage
+in case of paddy due to larval feeding inside the stem and they can be easily pulled out
+and bunchy top in case of sugarcane (destruction of growing point results in the
+activation of side buds, just below the growing point and produces a bunch of side shoots
+called bunchy top).
+Eg: Stem borers of paddy, millets, sugarcane and brinjal
+3. Shoot borers: Larvae attack tender shoots and bore inside during vegetative stage of crop
+growth and cause wilting, drooping of terminal plant parts which later dry up.
+Eg: Shoot borers of brinjal, bhendi, cotton and castor
+4. Defoliators/Skeletonizers: Larvae feed on the leaves completely leaving only
+midrib/veins or scrape the chlorophyll content of leaves or cause numerous holes.
+Eg: Castor semilooper, ash weevils, tobacco caterpillar, epilachna beetle on brinjal.
+5. Leaf miners: Larvae mine leaves/leaflets between the epidermal layers and feed on
+greenish matter, resulting in the appearance of translucent mines/white patches/zig-zag
+galleries
+Eg: leaf miners of citrus, Cashew and Rice hispa.
+6. Leaf Webbers: Larvae webs leaves/leaflets by means of silken threads and feed on the
+chlorophyll content by remaining within the web. Often faecal pellets/frass are found
+within the web.
+Eg: Leaf Webbers on gingelly, groundnut, sapota, mango and cashew shoot and blossom
+webber.
+7. Leaf folders: Larvae fold leaves from tip to base /longitudinally /margin to margin there
+by giving appearance of a fold/roll and scrape the chlorophyll content remaining within
+the fold.
+Eg: rice leaf folder, Cotton leaf roller (Bell shaped rolling of leaf).
+8. Galls: Larvae feeding inside the stem/tiller/leaf/flower bud stimulates excessive growth
+of cells at the affected portion and distorts normal growth. It results in malformation of
+plant parts, exhibiting gall formation and gives shelter for the pest.
+Eg: Rice gall midge
+9. Fruit borers: Larvae enter into the tender fruits and feed on fresh matter/pulp and plug the
+larval burrow with excreta.
+Eg: Fruit borer of brinjal/bhendi/tomato, mango stone weevil, Cashew apple and nut
+borer.
+10. Bark borers: Larvae remain in a small tunnel at the axils of branches, under the bark
+constructing galleries of frassy web on the stem and near bark/angles of branches and
+move about, conceal inside the silken gallery and feed on the bark by scraping.
+Eg: Bark eating caterpillars of citrus, mango, guava, casuarina, jack etc.
+11. Tree borers: Larvae bore deep into the tree trunk, make the tunnels in zig-zag manner and
+feed on inner tissues, arresting translocation of sap to top portions of tree, there by the
+tree exhibits symptoms like yellowing, withering of leaves, drying of twigs or complete
+drying of tree. Sometimes, gummy material oozes from the affected portion on the tree
+trunk. Eg: Tree borers of mango, cashew, coconut red palm weevil etc
+12. Seed feeders (Stored grain pests): Grubs/larvae and adults feed on stored seeds either
+internally /externally by webbing the food particles.
+Eg: Rice weevil, red flour beetle, rice moth etc.,
+13. Boll worms: During the reproductive stage of the crop larvae enter in to the pods,
+capsules and feed on the seeds/lint exhibiting symptoms like webbed condition of pods
+/bolls or web few pods/capsules with frass and excreta or holes of different sizes and
+shapes/damaged tissues (chilli/lint on Cotton).
+Eg: Bollworms in cotton.
+14. Sucking Pests: Some pest in different stages attacks different parts of plants and sucks
+the sap and cause the damage to the plants
+Types of sucking pest:
+A. SEEDS: Nymphs and adults attacks the developing seeds and sucks the sap from seeds
+and seeds will loss their vigour.
+Eg: paddy and jowar sucking pest.
+B. Tender parts of plants/leaves: Both nymphs and adults suck sap from base of the plant
+/leaves /tender terminal plant parts and thereby affect the vigour and growth of plants. In
+case of severe infestation, sooty mould develops on plant parts covered with honey dew
+excreted by insects while feeding. Different insects exhibit different symptoms.
+Damage Symptoms with Examples:
+a) Sooty mould – Rice Brown plant hopper
+b) Curling of leaf margins/with necrotic patches Starting from leaf margin –Cotton leaf hopper
+c) Upward Curling- Chilli thrips
+d) Downward Curling: Chilli Mite.
+e) Uniform yellowing of leaves from mid half-Paddy leaf hopper
+f) Reduced vigour/sooty mold, square/boll drop -White flies on cotton
+g) Yellowing /reduced/stunted growth/sooty mould -Aphids
+h) Shriveled/chaffy and discolored grains/sooty mould on grain-Sorghum ear head bug/rice
+gundhy bug
+i).Mottled appearance with yellow patches on infested leaves/sooty mould/undeveloped grains
+on infested ear heads -Sorghum aphids
+j) Holes on fruits / covered by excreta - fruit Flys
+k) Decomposing of Fruits / Brown marks on fruits- Fruits sucking pest.
+INTEGRATED PEST MANAGEMENT (IPM)
+Modern concept of pest management is based on ecological principles and integration of
+different control tactics into a pest management system
+Integrated control was defined by Stern et al., (1959) as applied pest control which
+combines and integrates the biological and chemical control. Later the concept of pest
+management has gained importance.
+In 1972 the term IPM was accepted by CEQ (Council of Environmental Quality) where
+IPM includes
+I - Integration that is harmonious use of multiple methods to control the impact of single pest
+as well as multiple pests.
+P - Pest- any organism that is detrimental to humans including vertebrates and invertebrate or
+weed or pathogens.
+M - Management refers to a set of decisions or rules based on ecological principles, economic
+and social consideration.
+According to FAO (1967), IPM was defined as “a pest management system in the context
+of associated environment and population dynamics in pest species. It utilizes all suitable
+techniques and methods in as compatible manner as possible and maintains the pest population at
+levels below those cause economic injury.
+OR
+Protective management of the noxious pest in which all available techniques should be
+evaluated and consolidated to manage pest population so that economic damage is avoided and
+adverse side effects on the environment are minimized (Gieir and Clark, 1961).
+IPM CONTROL METHODS:
+In IPM There are two types of control methods
+1. NATURAL CONTROL:
+(a). Climatic conditions :
+Climatic conditions are very important for natural control of pests. Are
+effectively.Rains,the resulting soft soil are required for some types of caterpillar for the transition
+to the pupal stage and for their adults to come out of soil. however, heavy rains can reduce the
+intensity of sucking pest like thrips&aphid. Similarly, if the temperature &humidity is not
+favourable in the air pest infestation will reduce.
+(b). Natural enemies :
+Each insect has many natural enemies in nature. They can feed on insects and control them. They
+are called as predators , parasites. Some types of viruses, bacteria and fungi, can infect insects
+and cause infections. Therefore , the insect progeny is avoided in a natural way.
+(c). Natural barriers :
+Geological conditions like hills and oceans arrest the spread of insects. Soil type can also prevent
+the development of insects. example, rootgrubs are more common in light soils and red soils, but
+can not develop in black clay soils.
+2. Artificial control :
+Any factor that is capable of making life hard for the insect that will repel or interfere
+with its feeding, mating, reproduction or dispersal can be taken as a method of insect control in
+its broadest application.
+They can be divided into two major categories
+1. Natural control
+2. Applied control
+Under natural control the population is kept under check by the environmental
+resistance without the interference of man. The control measures adopted by human agency are
+called applied or artificial control measures.
+Artificial control methods are divided into 6 types given below
+1. Cultural methods
+2. Mechanical methods
+3. Physical methods
+4. Biological methods
+5. Legislative methods
+6. Chemical methods
+Cultural Methods of Pest Control:
+The manipulation of cultural practices at an appropriate time for reducing or avoiding
+pest damage to crops is known as cultural control.
+The cultural practices make the environment less favorable for the pests and or more
+favorable for its natural enemies. It is the cheapest of all methods.
+1. Proper preparatory cultivation: Several insects which live or hide in the soil get
+exposed to sun as well as predators like birds etc due to Proper preparatory cultivation.
+Eg.Pupae of moths, roots grubs etc.
+2. Clean cultivation: Removal of weeds which act as alternate hosts.
+Eg. Paddy gall fly Orseolia oryzae breeds on grasses such as Panicum sp. Cynodon
+dactylon etc.
+Fruit sucking moth larvae Eudocima ancilla on weeds of Menispermaceae
+3. Systematic cutting and removal of infested parts: Keeps down subsequent infestation.
+Eg. i. Removal of sugarcane shoots affected by borers
+ii. Cutting and removal of infested parts of brinjal attacked by Leucinodes orbonalis
+iii. Pruning of dried branches of citrus eliminates scales and stem borer.
+iv. Clipping of tips of rice seedlings before transplanting eliminate the egg masses of
+stem borer.
+v. Clipping of leaf lets in coconut reduces the black headed caterpillar
+4. Changes in the system of cultivation: Change of banana from perennial to annual crop
+reduced the infestation of banana rhizome weevil Cosmopolitus sordidus in addition to giving
+increased yields.
+Eg: Avoiding ratoon redgram crop during offseason helps in reducing the carry over of
+pod fly Melangromyza obtusa and eriophyid mite Aceria cajani
+4. Crop rotation: Crop rotation is most effective practice against pests that have a narrow
+host range and dispersal capacity. Lady’s finger followed by cotton will suffer from
+increased infestation of pests. Hence if a non-host crop is grown after a host crop, it
+reduces the pest population.
+Eg. i. Cereals followed by pulses.
+ii. Cotton should be rotated with non hosts like ragi, maize, rice to minimize the
+incidence insect pests.
+iii. Groundnut with non leguminous crops is recommended for minimizing the
+leaf miner incidence.
+5. Mixed cropping: Intended for getting some return when one crop is attacked, the other
+escapes. Eg. Garden peas and sunhemp
+6. Growing resistant varieties: certain varieties resists pest attack .
+Eg: GEB-24 and MTU–5249 resistance to paddy BPH, Surekha variety to gall
+midge, TKM -6 and Ratna for stem borer.
+7. Adjusting planting or sowing or harvesting times to avoid certain pests : The
+manipulation of planting time helps to minimize pest damage by producing asynchrony
+between host plants and the pest or synchronizing insect pests with their natural enemies.
+Eg. i. Early planting of paddy in kharif and late planting in rabi minimize
+the infestation of rice stem borer.
+ii. Delaying the sowing of sun hemp till the onset of South West
+monsoon avoids sun hemp hairy caterpillar (Utethesia lotrix) attack.
+iii. Early sown sorghum in kharif reduces the infestation of shoot fly
+iv. Timely and synchronous planting has been found to reduce
+bollworm damage in cotton and stem borer damage in sugarcane.
+8. Trap cropping: Growing of susceptible or preferred plants by important pests near a
+major crop to act as a trap and later it is destroyed or treated with insecticides. Trap crop
+may also attract natural enemies thus enhancing natural control.
+Eg: Trap crop Main crop Insect pest
+Castor Chillies Tobacco caterpillar Spodoptera litura
+Tomato Citrus Fruit sucking moths Otheris spp
+Marigold Cotton American bollworm
+(Helicoverpa armigera)
+9. Trimming field buds: Grasshopper eggs, which are laid in field bunds, are destroyed by
+trimming field bunds.
+10. Alley ways: Formation of alley ways for every 2 m in rice field reduces the BPH
+Mechanical Methods of Pest Control
+Reduction or suppression of insect pest population by means of manual devices or labour.
+1. Hand picking and collection with hand nets and killing insects: Handpicking is most
+ancient method which can prove fairly effective under certain conditions. Egg masses,
+larvae or nymphs and sluggish adults can be handpicked and destroyed.
+Eg: 1. Egg masses of paddy stem borer and groundnut hairy caterpillar.
+2. Early stages of Spodoptera litura
+2. Provision of preventive barriers: Digging of 30 -60 cm wide and 60 cm deep trenches
+or erecting 30 cm height tin sheets barriers around the fields is useful against pests like
+hairy caterpillars.
+3. Bagging / wrapping of pomegranate and mango fruits in paper bags avoids the
+infestation of pomegranate butterfly and mango fruit fly
+4. Tin bands are fixed over coconut palms to prevent damage by rats.
+5. Extraction of adult Rhinoceros beetle (Oryctes rhinoceros) from the crown of coconut
+trees using an arrow headed rod/hook.
+6. Use of an alkathene band around the tree trunks of mango to check the migration of first
+instar nymphs of mealybugs and red ants.
+7. Systematic shaking of root grub adults harbored trees during evening hours to dislodge
+and destroy by dumping in fire.
+8. Shaking of redgram plants to collect and destroy later instars of Helicoverpa armigera
+9. Light traps are arranged for attracting the insects, which are trapped by keeping water or
+oil in a container or a killing bottle below the light trap. Light traps are useful for
+monitoring the population of important insect pests in an area. Eg: Most of the moths and
+beetles.
+10. Flame thrower is a compressed air sprayer with kerosene oil for producing flames.
+There is a lance, which is fitted with a burner. When the burner is heated, the kerosene oil
+is released and it turns into flames. Used for burning locust populations, congregation of
+caterpillars, patches of weeds etc.
+Physical Methods of Pest Control
+Use of certain physical forces to minimize the pests
+1. A material called drie-die, consist of highly porous, finely divided silica gel which when
+applied
+abrades the insect cuticle thus encouraging loss of moisture resulting in death. It is mainly
+used against stored product pests.
+2. Kaolinic clay after successive activation with acid and heat can be mixed with stored
+grain. The
+clay minerals absorb the lipoid layer of the insect cuticle by which the insects lose their body
+moisture and die due to desiccation.
+3. Artificial heating and cooling of stored products will prevent insect damage. Usually high
+temperatures are more effective than low temperatures.
+4. Stored products can be exposed to 55°C for 3 hours to avoid stored product pests
+5. Vapour Heat Treatment (VHT): Heated air is saturated with water (>RH 90%) for
+specified period of 6 to 8 hours for raising pulp temperature to 43-44.5°C in case of mango
+against fruit flies.
+Legislative / Legal / Regulatory Methods of Pest Control :
+`In early days there were no restrictions on the transport of plants and animals from one
+country to another since the danger involved in it is not realized, which resulted in introduction
+of pests form one country to another. In many countries many of the dangerous pests have
+frequently been found to be foreign pests and they inflict greater damage than the indigenous
+ones.
+Plant quarantine is defined as the legal enforcement of the measures aimed to prevent
+pests from spreading or to prevent them to multiply further in case they have already gained
+entry and have established in new restricted areas.
+The importance of imposing restrictions on the movement of pest-infested plants or plant
+materials from one country to another was realized when the grapevine phylloxera got
+introduced into France from America by about 1860 and the San jose scale spread into the USA
+in the later part of the 18th century and caused severe damage.
+The first Quarantine Act in USA came into operation in 1905. While Govt. of India
+passed an Act in 1914 entitled “Destructive Insect and Pests Act of 1914” to prevent the
+introduction of any insect, fungus or other pests into our country. This was later supplemented by
+a more comprehensive act in 1917.
+The legislative measures in force now in different countries can be grouped into five
+classes. They are,
+1. Legislation to prevent the introduction of new pests and weeds etc from foreign countries
+(International quarantine)
+2. Legislation to prevent the spread of already established pests, diseases and weeds from
+one part of the country to another (Domestic quarantine)
+3. Legislation to enforce upon the farmers regarding the application of effective control
+measures to prevent damage by already established pests.
+4. Legislation to prevent the adulteration and misbranding of insecticides
+5. Legislation to regulate the activities of men engaged in pest control operations and
+application of hazardous insecticides
+1) Legislation to prevent the introduction of foreign pests:
+To prevent the entry of foreign pests all countries have restrictions. They enforce quarantine
+laws. The imported plant material has to be thoroughly examined at the ports of entry. The
+Directorate of Plant Protection Quarantine and Storage (DPPQS) was established in Faridababd
+in 1946. Prior to which customs authorities did the enforcement of quarantine laws. From 1949,
+DPPQS deals with the commercial import of consignments of grains, plants and plant products
+for consumption through its network of 35 Plant Quarantine Stations spread across the country
+including seaports, airports and land frontiers. These operate under the provisions made under
+the “Destructive Insect and Pests Act of 1914”. The importation of plant material from foreign
+countries has to be done only through any of these ports. The consignment should also be
+accompanied with the certificate issued by the Officers of agriculture department of the
+exporting country so as confirm that the consignments are pest free. This certificate is called as
+‘Phytosanitory certificate’.
+2) Legislation to prevent the spread of already established pests:
+The Destructive Insect and Pests Act, 1914, have empowered the states to enact such
+laws as are necessary to prevent the spread of dangerous insects within their jurisdiction. The
+Madras Government enacted the Madras Agricultural Pests and Diseases act in 1919 and was the
+first state to enact such laws in our country. This act was passed to prevent the spread of pests or
+diseases or weeds form one part of the state to another.
+3) Legislation to enforce the application of effective control measures to prevent the
+damage by established pests.
+Under the state pests act, the farmers were asked to remove and destroy coconut leaf lets
+infested with black headed caterpillar around Mangalore in 1923 and in 1927 in Krishna and
+Guntur districts.
+4) Legislation to prevent the adulteration and misbranding of the insecticides
+To avoid malpractices and supply of substandard chemicals and pesticide products the
+Insecticide Act, 1968 has been enforced on 2nd September, 1968 by the Government of India to
+regulate the import, manufacture, sale, transport and distribution and use of insecticides. The
+insecticide rules of 1971 framed under the Insecticides Act 1968 had come in to force in 1971.
+5) Legislation to regulate the activities of men engaged in pest control operations:
+They have to take certain precautionary measures to avoid pesticide poisoning and undergo
+regular medical checkup.
+BIOLOGICAL CONTROL
+The successful management of a pest by means of another living organism (parasitoids,
+predators and pathogens) that is encouraged and disseminated by man is called biological
+control.
+Parasite:A parasite is an organism which is usually much smaller than its host and a
+single individual usually doesn’t kill the host. Parasite may complete their entire life cycle (eg.
+Lice) or may involve several host species. (or)
+Parasite is one, which attaches itself to the body of the other living organism either
+externally or internally and gets nourishment and shelter at least for a shorter period if not for
+the entire life cycle. The organism, which is attacked by the parasites, is called hosts.
+Control of cottony cushion scale, Icerya purchasi on fruit trees by its predatory vedalia
+beetle, Rodolia cardinalis in Nilgiris. The predator was imported from California in 1929 and
+from Egypt in 1930 and multiplied in the laboratory and released. Within one year the pest was
+effectively checked.
+Apple woolly aphis, Eriosoma lanigerum in Coonor area by Aphelinus mali
+(parasitoid).
+Control of shoot borers of sugarcane, cotton bollworms, stem borers of paddy and
+sorghum with the egg parasitoid, Trichogramma australicum @ 50,000/ha/week for 4-5 weeks
+from one month after planting
+Predators: A predator is one which catches and devours smaller or more helpless
+creatures by killing them in getting a single meal. It is a free living organism throughout its life,
+normally larger than prey and requires more than one prey to develop.
+MICROBIAL CONTROL
+Microbial control refers to the exploitation of disease causing organism to reduce the
+population of insect pest below the damaging levels.
+1. Bacteria : More than 100 pathogenic bacteria were recorded of which i. Bacillus
+thuringiensis (B.t.) is important. B.t. known as a bacterial insecticide is now being using
+by farmers mostly on lepidopterous larvae. It can infect more than 150 species of
+insects. The entry of the bacteria is by ingestion of the bacteria, which infect the mid gut
+epithelia cells and enter the haemolymph to sporulate and cause septicemia.
+2. Viruses: NPV : About 300 isolates of Nuclear polyhedral virus have been isolated from
+the order Lepidoptera. Among these viruses Baculoviruses (Baculoviridae) are
+successful in IPM. The NPV is observed to affect 200 species of insects by ingestion.
+The virus infected dead larvae hanging upside down from plant parts (Tree top disease).
+The cuticle becomes fragile, rupturing easily when touched, discharges liquefied body
+fluids. NPV multiplies in insect body wall, trachea, fat bodies and blood cells. The
+polyhedra are seen in nuclei. The polyhedral bodies enlarge in size destroying the host
+nuclei to get released into the insect body cavity.
+3. Fungi:The fungal disease occurrence in insects is commonly called as mycosis. Most
+of the entomopathogenic fungi infect the host through the cuticle. Most of the
+entomopathogenic fungi infect their hosts by penetration of the cuticle by producing
+cuticle digesting enzymes ( Proteases , lipases chitinases).The typical symptoms of
+fungal infection are, mummified body of insects and it does not disintegrate in water
+and body covered with filamentous mycelium.
+Important species are Metarhizium, Beauveria, Nomuraea and Verticillium.
+CHEMICAL CONTROL
+Control of insects with chemicals is known is chemical control. The term
+pesticide is used to those chemicals which kill pests and these pests may include insects,
+animals, mites, diseases or even weeds. Chemicals which kill insects are called as
+insecticides.
+Insecticide may be defined as a substance or mixture of substances intended to
+kill, repel or otherwise prevent the insects. Similarly pesticides include nematicides –
+which kill nematodes, miticides or Acaricides which kill mites, Rodenticides – which
+kill rats, weedicides- that kill weeds,Fungicides- that kill fungus etc.
+Importance of chemical control:
+Insecticides are the most powerful tools available for use in pest management.
+They are highly effective, rapid in curative action, adoptable to most situations, flexible
+in meeting changing agronomic and ecological conditions and economical.
+Insecticides are the only tool for pest management that is reliable for emergency
+action when insect pest populations approach or exceed the economic threshold. A
+major technique such as the use of pesticides can be the very heart and core of
+integrated systems. Chemical pesticides will continue to be essential in the pest
+management programmes.
+There are many pest problems for which the use of chemicals provides the only
+acceptable solution. Contrary to the thinking of some people, the use of pesticides for
+pest control is not an ecological sin. When their use made on sound ecological
+principles, chemical pesticides provide dependable and valuable tools for the biologist.
+Their use is indispensable to modern society.
+Storing and usage of insecticides
+1. The labeled insecticide bottles should be stored in a cool, dry room under lock and key so
+that it is not accessible to children.
+2. Before preparation of spray fluid read the information on the label and mix the
+recommended dosage of insecticides with water.
+3. Under no circumstances should the insecticide spray fluid be mixed with hands.
+4. Care should be taken to avoid spilling of spray fluid during its preparation or while
+pouring it into sprayer.
+5. proper clothes and gloves should be worn while spraying the insecticides. Make sure
+that no part of the body is exposed to insecticide.
+6. Insecticides should not be sprayed or dusted against the wind.
+7. Eating, smoking beedi, cigarettes and chewing tobacco should be avoided while spraying
+insecticides
+8. Regular inspection of spraying equipment and repairs if any should be carried out.
+Sprayer nozzles should not blown with mouth.
+9. Neither cleaning the sprayer nor throwing the left over sprayfluid should be done in
+ponds or canals or it will contaminate the water.
+10. Destroy the empty insecticide bottles immediately or bury in the ground.
+11. Take a clean bath immediately after spraying to avoid pesticide residues.
+12. Inform the farmers near the sprayed field to prevent their cattle entering the field.
+Techniques in the effective use of pesticides:
+1. Hand sprayer should be used in the early stage of the crop to avoid wastage of sprayfluid
+whereas power sprayer should be used during the later stages when the crop canopy is
+more.
+2. Sucking insects like thrips and mites suck sap from lower leaf surface in crops like chilli,
+cotton, vegetables, etc., and to control them contact insecticides should be sprayed by
+directing the nozzle such that the undersurface of the leaves is fully covered with
+sprayfluid.
+3. Care should be taken such that the sprayfluid drops cover both the surfaces of leaves and
+on insects attacking flowers and fruits in bushy plants. selection of appropriate nozzle is
+very important.
+4. Uniform coverage of the crop and wide area coverage with the spray fluid depends on the
+selection of the nozzle.
+5. In crops with narrow leaves sandovit or Teepol should be mixed in the sprayfluid so that
+it adheres to the leaves.
+6. To control pupal stages of insects in the soil, dusts like carbaryl should be mixed in the
+soil.
+7. two types of insecticides should not be mixed and sprayed. chemical reactions may occur
+in the mixture and it becomes ineffective. In this regard, follow the advice of the experts
+in the field of agriculture.
+8. In order to increase the utilization efficacy of the insecticide it should be sprayed as far
+as possible in the evening when the stomata will be open.
+9. Spraying in the evening will be more effective on nocturnal insects while those sprayed
+in the afternoon lose efficacy in the form of vapors.
+10. Avoid contact of sprayfluid with body by wearing full clothing, mask, gloves and
+eyeglasses.
+11. Water added to insecticide should be clean, free of mud, rotten leaves and salt.
+12. Farmers should always buy the insecticides from licensed stores only.
+Different Classifications of Insecticides
+Insecticides are classified in several ways taking into consideration their origin, mode of
+entry, mode of action and the chemical nature of the toxicant.
+1. BASED ON TOXICITY
+2. BASED ON MODE OF ENTRY
+3. BASED ON MODE OF ACTION
+4. BASED ON CHEMICAL NATURE
+1.BASED ON TOXICITY :
+The chemical which can make changes in pest life cycle that chemical called poison. it is
+measured as L.D. . The Value of L.D.50 for a substance is the dose required to kill half
+50
+members of a tested population after a specified test. These are two types
+I.
+(a) L.D. 50 ORAL : by mouth
+(b) L.D. 50 Dermal : by contact
+II. when quantity along with the dose is also preferred as two types
+(a) ACUTE TOXICITY: Acute toxicity describes the adverse effects of a substance
+that result either from a single exposure or from multiple exposures in a short
+period of time. To be described as acute toxicity.
+(b) CHRONIC TOXICITY: Chronic toxicity is the development of adverse effects
+as the result of long term exposure to a toxicant or other stressor.
+Classification Symbol Oral LD DermalLD
+50 50
+Extremely toxic Skull & Poison 1-50 1-200
+Red
+Highly toxic Poison 51-500 201-2000
+Yellow
+Moderately toxic Danger 501-5000 2001-20,000
+Blue
+Less toxic Caution more than 5000 more than 20,000
+Green
+II.Based on the mode of entry
+A. Contact poisons: These insecticides are capable of gaining entry into the insect
+body either through spiracles and trachea or through the cuticle itself. Hence, these
+poisons can kill the insects by mere coming in contact with the body of the insects.
+Eg. DDT and HCH.
+B. Stomach poisons: The insecticides applied on the leaves and other parts of plants
+when ingested act on the digestive system of the insect and bring aboutthe kill of the
+insect. Eg: Calcium arsenate, lead arsenate.
+C. Fumigants: A fumigant is a chemical substance which is volatile at ordinary
+temperatures and sufficiently toxic to the insects. Fumigation is the process of
+subjecting the infested material to the toxic fumes or vapours of chemicals or gases
+which have insecticidal properties. Chemical used in the fumigant and a reasonably
+airtight container or room is known as fumigation chamber or “Fumigatorium”.
+Fumigants mostly gain entry into the body of the insect through spiracles in the
+trachea. Ex. Aluminium phosphide, Carbon disulphide, EDCT (Ethylene Dichloride
+Carbon Tetrachloride), EDB( Ethylene dibromide) and S
+O2.
+III.Based on mode of action:
+A. Physical poisons: Bring about the kill of insects by exerting a physical effect. Eg: Heavy
+oils, tar oils etc. which cause death by asphyxiation. Inert dusts effect loss of body moisture
+by their abrasiveness as in aluminium oxide or absorb moisture from the body as in charcoal.
+b. Protoplasmic poisons: A toxicant responsible for precipitation of protein especially
+destruction of cellular protoplasm of midgut epithelium.
+Eg. Arsenical compounds.
+c.Respiratory poisons: Chemicals which block cellular respiration as in hydrogen cyanide
+(HCN), carbon monoxide etc.
+d. Nerve poisons: Chemicals which block Acetyl cholinesterase(AChE) and effect the nervous
+system. Eg. Organophosphorous, carbamates.
+IV.Based on the Chemical nature
+a.Inorganic insecticides: comprise compounds of mineral origin and elemental sulphur. This
+group includes arsenate and fluorine compounds as insecticides. Sulphur as acaricides and zinc
+phosphide as rodenticides.
+b.Organic Insecticides:
+1. Insecticides of animal origin: Nereistoxin isolated from marine
+annelids, fish oil rosin soap from fishes etc.
+2. Plant Origin insecticides or Botanical
+insecticides:Nicotinoids, pyrethroids, Rotenoids etc.
+3. Synthetic organic insecticides: Organochlorines ,
+Organophosphorous, Carbamate insecticides etc.,
+4. Hydrocarbon oils etc.
+Insecticides of plant origin
+The insecticides of plant origin extracted from seeds, flowers, leaves, stem and roots, are
+termed as botanical insecticides. Insecticides of plant origin unlike synthetic organic insecticides
+are safer to use but since they are expensive and lack residual toxicity, their use has been limited
+in the country.
+1. Neem (Azadirachta indica)
+It posses medicinal, insecticidal, insect repellent, antifeedant, growth regulatory,
+nematicidal and antifungal properties. Neem seed extract and oil contains a number of
+components such as Azadirachtin, salannin, nimbin, epinimbin nimbidin that gives insecticidal,
+insect repellent, ovicidal, Antifeedant and growth regulator characters. Azadiractitin disrupts
+.
+moulting by antagonizing the insect hormone ecdysone
+Dried powder of neem leaves are used against stored grain insect pests. Leaf extracts
+showed insecticidal property against, Plutella xylostella, Aproaerema modicella; Spodoptera
+litura etc.
+2. Nicotine:
+Nicotine is found in the leaves of Nicotiana tabacum and N.rusticafrom 2% to 14%.
+Nicotine worked as a contact insecticide with marked fumigant action in the control of sucking
+insect’s viz., aphids, thrips, psyllids, leafminers and jassids. It affects the ganglian blocking
+conduction at higher levels.
+3. Pyrethrum: It is extracted from dried flower heads of Chrysanthemum cinerariaefolium
+(Asteraceae). The actual chemical ingredients having insecticidal action are identified as five
+esters. They are: Pyrethrin I, Pyrethrin II, cinerins-I and cinerin-II and Jasmoline, which are
+predominately found in achenes of flowers from 0.7 to 3 %. It act as a contact insecticide.The
+esters are derived from the,Two acids – Chrysanthemic acid and Pyrethric acid Three alcohols
+– Pyretholone, Cinerolone and Jasmolone
+Active principles/Esters
+Pyrethrin I = Pyrethrolone + Chrysanthemc acid
+Pyrethrin II = Pyrethrolone + Pyrethric acid
+Cinerin I = Cynerolone + Chrysanthemc acid
+Cinerin II = Cynerolone + Pyrethric acid
+Jasmolin II = Jasmolone + Pyrethric acid
+4. Rotenone:
+It is extracted from the roots of Derris and Lonchocarupus plants. Insects poisoned
+with rotenone show a steady decline in oxygen consumption followed by paralysis and deaths.
+5. Sabadilla :
+Sabadilla is derived from the seeds of Schoenocaulon officinale. Sabadilla is having the
+cevadine and veratridine alkaloids and they gives the chemical properties.
+6. Tehprosine :
+Tehprosia vogelli (leafs and seeds )
+Tehprosia toxicaria ( roots )
+Tehprosia macropoda ( stem )
+7. Ryania:
+Ryania is extracted from the stem of Ryania speciosa, The most active compound in
+ryania is the alkaloid ryanodine, which constitutes approximately 0.2% of the dry weight of stem
+wood.
+1. Organochlorines or Chlorinated Hydrocarbons Ex: DDT, BHC
+The plant protection in India owes its growth to the chemicals under this group which
+have revolutionized the control of pests. The organochlorines are stomach and contact
+insecticide and high insecticidal efficacy, long residual action, wide range of insect
+susceptibility, cheapness per unit area and available in different formulations. Highly purified
+product containing 99% of gamma isomer of HCH is known as lindane. It has been extensively
+used as soil insecticide. Now a day’s DDT is not used for control of pests.
+2. CYCLODINES :
+Due to the outstanding characteristic of the cyclodienes is their longer stability in the body,
+the insecticides were not used but only endosulfan is used for the control of pest. Endosulfan is
+poisonous to honeybees and natural enemies but not to fishes at recommended dose.
+Ex: Chlordine , Heptachlor , Aldrine , Diacridine , Endosulfan
+3. Organophosphates:
+Organophosphate came to limelight during Second World War. Organophosphate
+insecticides have two most important properties such as higher potency and low residual life.
+The organoposphates are stomach, contact and systemic insecticides. Organophosphates (OPs)
+inhibit the cholinesterase (Ch E) enzyme leading to blockage of synaptic transmission of nerve
+impulses and finally death.
+Ex: Phosphamidan ,Chloripyriphos, Dimethoate.
+4. CARBAMATES :
+All carbamates are derivatives of carbamic acid and Dithio carbamic acid. Carbamtes also act
+as a stomach, contact and systemic insecticides. Carbamates are divided into three groups.
+(a).Heterocyclic carbamates : Ex: isolan , pyrolan
+(b).Phenyl carbamates : Ex: carbaryl , propoxur , carbofuran
+(c). oxime carbamates : Ex : aldicarb , methomyl , thiodicarb
+5. Synthetic pyrethroids:
+Synthetic pyrethroids have got the properties of plant derivative pyrethrum as
+insecticides but are considerably more stable in light and air. Allethrin was first synthetic
+analogue of pyrethroids was discovered by Green and Laforz in the year 1949. Later, different
+pyrithroids are evolved to control of insects. They act on tiny channel through which sodium is
+pumped to cause excitation of neurons and prevent the sodium channels from closing,
+resulting in continual nerve trans mission , tremors and eventually death.
+Ex: Permethrin, Allethrin, Cismethrin, Resmethrin, Deltamethrin, Cypermethrin and
+Fenvalerate
+NOVEL INSECTICIDES
+6. Neonicotinoids
+They represent a novel and distinct chemical class of insecticides with remarkable chemical and
+biological properties. Similar to nicotines in activity partially to structure. Neonicotinoids
+interact with acetyl choline binding site of nicotinic Ach receptor which cause excitation and
+eventually paralysis leading to death of insects. These are selective and safe to non target
+organisms.
+Ex : Imidacloprid - Mango hoppers
+Acetamiprid - White fly
+Thiacloprid - Sucking pest like white fly and aphids
+7. Juvenile Hormone (JH)Mimics
+They do not allow Metamorphosis to take place there by forcing larva to continue as a
+larva. In case of mosquitoes metamorphosis is not take place there by forcing larva to continue as
+a larva. Ex: Juvabione, Methoprene, Hydroprene and Kinoprene
+8. Anti JH orJH Agonists or Precocenes:
+Anti-juvenile hormones found in plants that induce reversible precocious
+metamorphosis and sterilization in insects by suppressing the function of the corpora allata
+gland. Ex: Fenoxycarb and Pyriproxyfen
+9. Phenyl pyrazoles: Ex: Fipronil
+GABA receptors is the target site for fipronil. Blockage of GABA gated chloride
+channel reduces neuronal inhibition which leads to hyper exitation of the central nervous
+system, convulsions and death of an target pest.Used as a foliar application against stem borer,
+leaf miner, hoppers, root worm and mites
+Formulations: 0.3 G, 5 SC
+10. Spinosyns Ex: Spinosad
+The extract of the fermentation broth that contains spinosad is produced by the
+microorganism, Saccharopolyspora spinosa. The primary components are spinosyn A and
+spinosyn D.
+Spinosad kills insects by causing rapid excitation by activation of nicotinic
+acetylcholine receptors of the insect nervous system, leading to involuntary muscle
+contractions, prostration with tremors, and paralysis. It also effects GABA receptor
+functioning. Spinosad is a contact and stomach poison with some translaminar movement in
+leaf tissue.
+Formulations: 45 SC, 2.5 WSC
+11. Avermectins:
+These are produced by the soil microorganism Streptomyces avermitilis. Avermectins
+activate the GABA gated chloride channel, causing an inhibitory effect, which, when
+excessive, results in the insect’s death. This channel normally blocks reactions in some nerves,
+preventing excess stimulation of CNS.
+Ex: Emamectin benzoate and abamectin are the two major compounds in this
+group.These are effective against tobacco hornworm, diamondback moth, tobacco budworm,
+serpentine leaf miner and less potent against certain Homoptera (aphids) and Lepidoptera.
+12. Oxadiazines : Ex: Indoxacarb
+The active ingredient indoxacarb works by inhibiting sodium ion entry into nerve cells,
+resulting in paralysis and death of targeted pests.
+Formulations: SC 14.5, WDG 30
+13.Thio-Urea Derivatives: Ex: Diafenthiuron
+Diafenthiuron is new types of thiourea derivative which acts specially on sucking pests
+such as mites, whiteflies and aphids. Diafenthiuron is photochemically converted within a few
+hours in sunlight to its carbodimiide derivative which is much more powerful
+acaricide/insecticide than diafenthiuron. It is a inhibitor of oxidative phosphorylation, via
+distruption of ATP formation (inhibitor of ATP synthase).
+It acts as Acaricide cum-insecticide as a foliar sprays against mites, sucking pests,
+lepidopteran insect pests.
+14. Pyridine Azomethines: Ex: Pymetrozine
+Pymetrozine is a new insecticide highly active and specific against sucking insect pests.
+Pymetrozine is the only representative of the pyridine azomethine. When the insertion of the
+stylets of sucking insects into the pymetrozine treated plant tissues, stylets are almost
+immediately blocked. The sucking insects die by starvation a few days later (feeding
+depressant)
+15. Di – Acyl Hydrazones : Ex: Tebufenazyde
+They inhibit the moulting process in insects and finally lead to death of the insect.
+16. Ketoenols: Ex: Spiromesifen
+Ketoenols act as insecticide and acaricide. Their mode of action is to inhibit lipogenesis
+in treated insects, resulting in decreased lipid contents, growth inhibition of younger insects, and
+reduced ability of adult insects to reproduce. it also strongly affects fecundity of mite (and
+whitefly adults by transovariole effects).
+NEMATICIDES:
+A nematicide is a type of chemical pesticide used to kill plant-parasitic
+nematodes. Nematicides have tended to be broad-spectrum toxicants possessing high volatility or
+other properties promoting migration through the soil.
+Ex: 1.Aldicarb:
+Aldicarb is a carbamate insecticide which is the active substance in the pesticide Temik.
+It is effective against thrips, aphids, spider mites, lygus, fleahoppers, and leafminers, but is
+primarily used as a nematicide. Aldicarb is a cholinesterase inhibitor which prevents the
+breakdown of acetylcholine in the synapse.
+2. Carbofuran :
+Carbofuran is one of the most toxic carbamate pesticides. It is marketed under the trade
+names Furadan, it woks on sucking pest, Nemoticides and Midge.
+Rodenticides :
+Rodenticides are pesticides that kill rodents. Rodents include not only rats and mice, but
+also squirrels, woodchucks, chipmunks, porcupines, nutria, and beavers. Although rodents play
+important roles in nature, they may sometimes require control. these are three (3) types
+1. Acute poison Ex: zinc phosphide ,aluminumphosphide
+2. Anti coagulants Ex: bromadialone
+3. Fumigants Ex: methyl bromide
+1. Zinc phosphide:
+This chemical is in the form of black powder and has a kind of smell . pre-baiting must
+be done . first u have to Taunt Rats ( 7-8) days after that hominy ( 96 cups ) take 2 cups of
+chemical and mix it then use it as poison bait .
+2. Aluminumphosphade :
+It should be closed in a burros with Rats and then the phasphin gas release from it . this
+gas kills the Rats . it is available in the name of celphos
+3. Bromadiolone :
+This can be used as a poison bait . it can kills upto 90% of Rats it is available in the
+market like Roboncake . it should be 100 grm weight and 6 pieces . after using this with in 4-7
+days the Rats will die .
+Acaricides :
+The chemicals can kills the mites are known as Acaricides .
+Ex: Sulphur - Saltaf , Thiovit
+Dicofol - kelthane – this chemical formula looks like D.D.T. D.D.T. contains
+‘H’ part and ‘OH’ that’s why Dicofol kills the mite. This is not
+Harmful to honey bees.
+Insect Antifeedants
+Antifeedant is a chemical that inhibits feeding but does not kill the insect
+directly; the insect often may remain on the treated plant material and possibly may die
+of starvation. These are also caused as “Feeding deterrents”
+Ex: Triazines - 4 acetanilyde - red headed catter pillar
+Organotin (Brestan)- Triphenyltins - potato rhizome weevil
+Carbamate (Aprocarb ) - cotton weevil
+Advantages of Antifeedants:
+1. Antifeedants affect only the phytophagous insects and so do not harm the beneficial
+parasitoids, predators and pollinators.
+2. As the pest is not immediately killed by antifeedent, its parasites and predators continue
+to feed on it, thrive, and keep it under control.
+3. Antifeedants produce no phytotoxicity (or) pollution.
+Disadvantages of Antifeedants:
+1. Only the chewing type of insects is affected by antifeedants, the sucking pests remain
+unaffected.
+2. New growths of plant are not protected.
+Insect Attractants
+Chemicals that cause insects to make oriented movements towards their source are
+called insect attractants. They influence both gustatory (taste) and olfactory (smell) receptors
+(or) sensilla.
+Ex: Geraniol and Eugenol (1:1) is used to attract Japanese beetle
+Methyl Eugenol will attract the male fruit fly and it is used as poison bait
+Sex pheromones
+A Sex pheromone released by one sex only triggers off a series of behaviour patterns in
+the other sex of the same species and thus facilitates mating. The male insects respond to the
+odorous chemical released by the female. In certain species of insects the males are known to
+produce the sex pheromone which attracts the females. Ex: In the cotton boll weevil
+Anthonomus grandis
+The following sex pheromones have been full filled.
+1. Silkworms trans - 10 - cis – 12 – decadaienol
+2. Gypsymoth 10 acetoxy - cis - 7 - hexadecinol
+Sex pheromones in insect pest management
+1) Monitoring of insect pests: Traps baited with synthetic sex pheromones is useful in
+estimating population and detecting early stages of pests. Four pheromone traps per
+acre is recommended.
+2) Mass-trapping: (Male annihilation technique): Large number of pheromones
+baited traps can be used in the fields to capture male moths of newly emerged and
+reduce the number of males for mating.
+3) Control of pest by mating disruption: By permeating the atmosphere with
+higher concentration of the pheromone the opposite sex is rendered confused and
+unable to locate their mates.
+Formulations of Insecticides
+It is essential that the toxicant must be amenable to application in an effective manner so
+as to come into direct contact with the pest or leaf and uniform and persistent deposit upon the
+plant surface. Since very small quality of toxicant is required to be distributed over a large area,
+insecticides are formulated in a form suitable for use as a spray, dust or fumigant. Formulation is
+the processing of a compound by such methods that will improve its properties of storage,
+handling, application, effectiveness and safety to the applicator and environment and
+profitability. It is the final physical condition in which insecticide is sold.
+A single insecticide is often sold in several different formulations. Following are the
+different formulations of insecticides.
+1.Dusts (D): These are ready to use insecticides in powder form. In a dust formulation the
+toxicant is diluted either by mixing with or by impregnation on a suitable finely divided carrier
+which may be an organic flour or pulverized mineral like lime, gypsum, talc etc., or clay like
+attapulgite bentonite etc.The toxicant in a dust formulation ranges from 0.15 to 25% and the
+particle size in dust formulations is less than 100 microns and with the decrease in particle size
+the toxicity of the formulation increases. Dusts are easy to apply, less labour is required and
+water is not necessary. However if wind is there, loss of chemical occurs due to drift hence
+dusting should be done in calm weather and also in the early morning hours when the plant is
+wet with dew.
+Eg. HCH 10% dust; Endosulfan 4% D.
+2. Granules or Pelleted insecticides(G): These are also ready to use granular or pelleted forms of
+insecticides. In this formulation the particle is composed of a base such as an inert material
+impregnated or fused with the toxicant which released from the formulation in its intact form or
+as it disintegrates giving controlled release. The particle size ranges from 0.25 to 2.38 mm, or
+250 to 1250 microns and contains 1 to 10% concentration of the toxicant. The granules are
+applied in water or whorls of plants or in soil. Action may be by vapour or systemic. In
+application of granules there is very little drift and no undue lose of chemical. Undesirable
+contamination is prevented. Residue problem is less since granules do not adhere to plant
+surface. Release of toxicant is achieved over a long period. Easy for application as water is not
+required for application. Less harmful for natural enemies.
+Eg: Carbofuran 3G, Phorate10 G, Cartap hydrochloride 4G
+3. Wettable Powders (WP): It is a powder formulation which is to be diluted with water and
+applied. It yields a stable suspension with water. The active ingredient (toxicant) ranges from 15
+to 95%. It is formulated by blending the toxicant with a diluent such as attapulgite, a surface
+active agent and an auxiliary material. Sometimes stickers are added to improve retention on
+plant surface. Loss of chemical due to run off may be there and water is required for application.
+Eg: Carbaryl 50%WP, Thiodicarb 75% WP
+4. Suspension Concentrate (SC): Active ingredient is absorbed on to a filler which is then
+suspended in a liquid matrix (water).It is not dusty and easier to disperse in water. Eg:
+Imidacloprid 50 SC
+5. Emulsifiable Concentrates (EC): Here the formulation contains the toxicant, a solvent for
+the toxicant and an emulsifying agent. It is a clear solution and it yields an emulsion of oil-in
+water type, when diluted with water. The active ingredient (toxicant) ranges from 2.5 to 100
+%.When sprayed the solvent evaporates quickly leaving a deposit of toxicant from which water
+also evaporates. The emulsifying agents are alkaline soaps, organic amines alginates,
+Carbohydrates, gums, lipids, proteins etc. Eg: Endosulfan 35EC, Profenophos 50EC
+6. Concentrated insecticide liquids: The technical grade of the toxicant at highly
+concentrated level is dissolved in non-volatile solvents. Emulsifier is not added. Generally
+applied from high altitudes in extremely fine droplets without being diluted with water at ultra
+volume rates. There is greater residual toxicity and less loss through evaporation. Active
+ingredient ranges from 80-100%
+Eg: Malathion, Bifenthrin,Fenitrothion.
+7. Insecticide aerosels: The toxicant is suspended as minute particles 0.1 to 30 microns in air as
+fog or mist. The toxicant is dissolved in a liquified gas and if released through a small hole
+causes the toxicant particles to float in air with rapid evaporation of the released gas. Eg:
+Allethrin
+8. Fumigants: A chemical compound which is volatile at ordinary temperature and
+sufficiently toxic is known as fumigant. Most fumigants are liquids held in cans or tanks and
+quite often they are mixtures of two or more gases. Advantage of using fumigant is that the
+places not easily accessible to other chemicals can be easily reached due to penetration and
+dispersal effect of the gas.
+Eg; Aluminium phosphide
+COMBINATION OF INSECTICIDES
+When two chemicals are brought together in a single spray mixture, due to reaction, a
+compound differing from either parent may be formed. Knowledge of the effects of such
+compounds on the plants when applied is essential to avoid improper use.
+The different types of incompatibility are:
+i) Chemical incompatibility: Different compounds are formed due to reaction of various
+chemicals as in synthetic organic compounds with an alkaline material which causes injury to
+plants.
+ii) Phytotoxic incompatibility: The component parts though themselves are not injurious to
+the plants and do not show any chemical reaction when mixed, the mixture causes injury to
+plants.
+iii) Physical incompatibility: The chemicals change their physical form to one that is unstable
+and hazardous for application.
+Insecticide Combinations:
+Some of the important insecticide combinations are:
+Name of pesticides Trade name Recommended for pest
+1 Chloripyriphos 50% Noorel –D 505 Leaf miner , fruit borer
+cypermethrin 5% (2ml/l)
+2 Profenophos 40 % + Palithrin Fruit borer, sucking pest
+(300-400ml/l)
+cypermethrin 5%
+3 Triazophos 35% + spark White fly and leaf miner
+(300-400ml/l)
+Deltamethrin 1%+

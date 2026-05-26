@@ -1,0 +1,2391 @@
+PROFESSOR JAYASHANKAR TELANGANA STATE
+AGRICULTURAL UNIVERSITY
+DA-102
+CROP PRODUCTION-1
+Narendar Jannu
+Asst. Professor (Agronomy)
+APT, Jammikunta
+Dr.A.Madhavi Lata
+Principal, APT Malthummeda
+G. Swathi
+Asst. Professor (Hort.)
+APT, Kampasagar
+1
+Index
+Lc. No. 1 Importance of the cereal crops- paddy – area of cultivation, production and
+productivity- economic importance- climateconditions.
+Lc. No. 2 Paddy- soils, sowing time, nursery preparation, types of nursery- wet nursery,
+dry nursery, SRI method, method of transplanting with transplanter-
+precautions for healthy nursery raising.
+Lc. No. 3 Paddy- time of sowing- methods of sowing- spacing- precautions for aged
+nursery transplanting. Main field preparation.
+Lc. No. 4 Paddy- important varieties- it’s characters- seed rate, seed treatment, breaking
+seed dormancy.
+Lc. No. 5 Paddy- nutrient management (integrated nutrient management, iron, zinc
+deficiency, symptoms and its correction), weed management, water
+management.
+Lc. No. 6 Paddy- cropping systems, maturity, harvesting- storage – yield attributes-
+yield- export quality parameters.
+Lc. No. 7 Paddy- SRI method of cultivation- direct seeding method- aerobic rice (Dry
+cultivation)
+Lc. No. 8 Maize- area of cultivation, production and productivity- economicimportance-
+climate conditions.Maize varieties,sweet corn, baby corn, pop corn- soils,
+sowing time, method of sowing- spacing- field preparation, important
+varieties- characters , seed rate- seed treatment.
+Lc. No. 9 Maize- nutrient management, weed management, water management
+Lc. No. 10 Maize – cropping systems, maturity, harvesting- storage – yield attributes-
+yield- value addition by products.
+Lc. No. 11 Maize - Zero tillage cultivation
+Lc. No. 12 Sorghum -area of cultivation, production and productivity-
+economicimportance- climate conditions. Sorghum cultivated zones- soils,
+sowing time, method of sowing- spacing- field preparation, important
+varieties- characters , seed rate- seed treatment
+Lc. No. 13 Sorghum - nutrient management, weed management, water management,
+2
+maturity, harvesting- storage – yield attributes- yield- forage sorghum
+varieties.
+Lc. No. 14 Bajra- area of cultivation, production and productivity- economicimportance-
+climateconditions. soils, sowing time, method of sowing- spacing-
+Lc. No. 15 Bajra- nursery raising techniques, field preparation, important varieties, seed
+rate, seed treatment.
+Lc. No. 16 Bajra- nutrient management, weed management, water management, maturity,
+harvesting- storage – yield attributes- yield.
+Lc. No. 17 Ragi / Finger millet- area of cultivation, production and productivity-
+economicimportance- climateconditions, sowing time, method of sowing-
+spacing- field preparation, important varieties, seed rate, seed treatment.
+nutrient management, weed management, water management, maturity,
+harvesting- storage – yield attributes- yield
+Lc. No. 18 Importance of the pulses, reasons for reduction of yield losses in pulses,
+methods to improve the yields.
+Redgram- area of cultivation, production and productivity- economic
+importance- climate conditions. - soils, sowing time, method of sowing-
+spacing- field preparation, important varieties, seed rate, seed treatment.
+Lc. No. 19 Redgram- differences betweenkharif and rabi cultivation, nutrient
+management, weed management, water management, cropping system,
+maturity, harvesting (post harvest technologies) storage – yield attributes-
+yield
+Lc. No. 20 Bengalgram- area of cultivation, production and productivity- economic
+importance- climate conditions. - soils, sowing time, method of sowing-
+spacing- field preparation, important varieties, seed rate, seed treatment.
+Lc. No. 21 Bengal gram- differences between kabuli variety and local variety, nutrient
+management, weed management, water management, cropping system,
+maturity, harvesting (post harvest technologies) storage – yield attributes-
+yield
+Lc. No. 22 Soybean - area of cultivation, production and productivity-
+economicimportance- climate conditions. - soils, sowing time, method of
+3
+sowing- spacing- field preparation, important varieties, seed rate, seed
+treatment. nutrient management, weed management, water management,
+cropping system, maturity, harvesting, storage – yield attributes- yield
+Lc. No. 23 Blackgram - area of cultivation, production and productivity-
+economicimportance- climate conditions - soils, sowing time, method of
+sowing- spacing- field preparation, important varieties, seed rate, seed
+treatment. nutrient management, weed management, water management,
+cropping system, maturity, harvesting,storage – yield attributes- yield,
+problems in rice followed by black gram cultivation, control measures.
+Lc. No. 24 Greengram - area of cultivation, production and productivity-
+economicimportance- climate conditions. - soils, sowing time, method of
+sowing- spacing- field preparation, important varieties, seed rate, seed
+treatment. nutrient management, weed management, water management,
+cropping system, maturity, harvesting,storage – yield attributes- yield,
+problems in greengram cultivation, control measures.
+Lc. No. 25 Horsegram- area of cultivation, production and productivity-
+economicimportance- climate conditions. - soils, sowing time, method of
+sowing- spacing- field preparation, important varieties, seed rate, seed
+treatment. nutrient management, weed management, water management,
+cropping system, maturity, harvesting,storage – yield attributes- yield.
+Lc. No. 26 Cowpea- area of cultivation, production and productivity-
+economicimportance- climate conditions. - soils, sowing time, method of
+sowing- spacing- field preparation, important varieties, seed rate, seed
+treatment. nutrient management, weed management, water management,
+cropping system, maturity, harvesting ,storage – yield attributes- yield.
+Lc. No. 27 Forage crops – Napier grass- area of cultivation, production and productivity-
+economic importance- climate conditions. - soils, sowing time, method of
+sowing- spacing- field preparation, important varieties, seed rate, seed
+treatment. nutrient management, weed management, water management,
+cropping system, maturity, harvesting ,storage – yield attributes- yield.
+Lc. No. 28 Paragrass - area of cultivation, production and productivity- economic
+4
+importance- climate conditions. - soils, sowing time, method of sowing-
+spacing- field preparation, important varieties, seed rate, seed treatment.
+nutrient management, weed management, water management, cropping
+system, maturity, harvesting,storage – yield attributes- yield.
+Lc. No. 29 Guinea grass- area of cultivation, production and productivity- economic
+importance- climate conditions. - soils, sowing time, method of sowing-
+spacing- field preparation, important varieties, seed rate, seed treatment.
+nutrient management, weed management, water management, cropping
+system, maturity, harvesting,storage – yield attributes- yield.
+Lc. No. 30 Lucerne- area of cultivation, production and productivity-
+economicimportance- climate conditions. - soils, sowing time, method of
+sowing- spacing- field preparation, important varieties, seed rate, seed
+treatment. nutrient management, weed management, water management,
+cropping system, maturity, harvesting,storage – yield attributes- yield.
+Lc. No. 31 Berseem - area of cultivation, production and productivity-
+economicimportance- climate conditions. - soils, sowing time, method of
+sowing- spacing- field preparation, important varieties, seed rate, seed
+treatment. nutrient management, weed management, water management,
+cropping system, maturity, harvesting, storage – yield attributes- yield.
+Lc. No. 32 Stylosanthus- area of cultivation, production and productivity-
+economicimportance- climate conditions. - soils, sowing time, method of
+sowing- spacing- field preparation, important varieties, seed rate, seed
+treatment. nutrient management, weed management, water management,
+cropping system, maturity, harvesting ,storage – yield attributes- yield
+5
+Lecture No. 1
+Importance of Food crops
+1. Cereals i.e rice and wheat, millets like maize, sorghum, finger millet and other minor millets
+are major staple food for world human population.
+2. Rice is the major food crop grown in world after wheat. Rice is most important food crop for
+Asian Countries, whereas wheat consumption is high in the Western world.
+3. In India, rice is major food crop in Southern states where as in Northern states wheat is the
+major food crop.
+4. Wheat is staple food for 10 billion people in world. In India, wheat occupies second place after
+rice. .
+5. Maize is one of the most important grain crops in the world and it has highest productivity
+among all the grain crops. It is mainly used as feed for poultry and livestock. It is also
+consumed as sweet corn, pop corn and baby corn.
+6. Maize is gaining more importance as it is the basic raw material for many industries.
+7. Sorghum is the basic food in Asia and Africa. Sorghum stalks are mainly used as fodder for
+livestock.
+8. In maize and Jowar, special fodder varieties were developed and at milky stage stalks were cut
+into small pieces with chopping machine and used as feed in many places. If higher fodder
+yield is obtained it is converted into silage and used as feed to cattle to increase the milk yield.
+9. Barley and oats are majorly used as fodder and barley malt is the basic raw material for beer
+making.
+10. In South India, Ragi is the major food crop and it is considered as healthy food. Both rich and
+poor people consume Ragi as it is healthy and affordable food. It is one of the important
+foods for diabetic patients to control diabetes.
+11. Other minor millets are majorly grown in drought and hilly areas and it is the major staple
+food for tribal people. Minor millets are drought tolerant crops.
+12. In storage, minor millets are safely stored for 2-3 years without any pest and disease
+infestation. In drought years, minor millets are the major meal for human population.
+6
+13. High fibre content in minor millets enhances the human health. For labour, this food is
+considered as energy food due to hunger reduction. In world, various people consume all
+grain types in different forms prepared by different methods.
+RICE
+Scientific Name: Oryza sativa
+Family: Poaceae
+Economic importance:
+• Rice is an important staple food crop for more than 60 per cent of the world population.
+• Rice bran is used in cattle and poultry feed, defatted bran, which is rich in protein, can be
+used in the preparation of biscuits and as cattle feed.
+• Oil is extracted from rice bran.
+• Rice husk is used as fuel source. It is also used as organic matter, which improves the soil
+structure.
+• Paddy straw is used in card board making industry as insulating and cementing agent. Itis
+used as cattle feed, live stock bedding, used for thatching roof and in cottage industry for
+preparation of hats, mats, ropes, sound absorbing.
+• Rice husk is used in poultry industry as “litter”, this litter can be used as bulky organic
+manure after decomposition.
+• Rice bran oil is used in soap industry. Refined oil can be used for cooking.
+• 90% of the rice is mainly cultivated in Asian countries like China, India, Indonesia, Pakistan
+and Japan.
+Area, Production, Productivity details of rice.
+Area Production Productivity
+(M. Ha) (Mt) (kg/ ha)
+India 43.79 116.42 2659
+Telangana (Irrigated) 31.79 207.44 6525
+7
+Climate requirement
+• In India, rice is grown under widely varying conditions of altitude and climate.
+• Rice cultivation in India extends from 8 to 35°N latitude and from sea level to as high as
+3000 metres.
+• Rice crop needs a hot and humid climate. It is best suited to regions which have high
+humidity, prolonged sunshine and an assured supply of water.
+• The optimum temperature required for crop growth is 25-30 0C. But night temperatures can
+affect the starch deposition due to high respiration. Hence for better yields 25-33 0C day
+temperatures and 15-20 0C night temperatures are required.
+• An average temperature of 25-30 0C can reduce the crop duration and encourages the
+flowering. As well as average temperature less than 15oc can hinders the crop growth and
+flowering ceases.
+• Temperature requirement for blooming is in the range of 26.5 to 29.5°C.
+• At the time of ripening, the temperature should be between 20-25°C.
+• The areas where the sunlight is high is good for paddy cultivation, bright sunlight hours
+increases the photosynthesis rate.
+• High wind velocity may cause the crop lodging, grain fall in reproductive stage. Paddy is
+cultivated in different climatic conditions, hence it is difficult to fix the suitable climatic
+conditions.
+• Photo-periodically, rice is a short-day plant. However, there are varieties which are non-
+sensitive to photoperiodic conditions.
+Lecture No. 2
+Soils
+• Soils having good water retention capacity with good amount of clay and organic matter are
+ideal for rice cultivation.
+• The semi aquatic nature of the crop necessitates a heavy soil through which the irrigation or
+rain water will not be easily drained away because the demands of rice are more precise for
+water than soil conditions.
+8
+• Sandy soils to heavy soils are most preferable to rice crop cultivation.
+• The crop has preference to 5.5 to 6.5 PH. Redsoils, black soils and literate soils are
+alsosuitable.
+Sowing Time:
+• Suitable time for sowings in different areas:
+Area Kharif (Salva) Rabi (Dalva)
+Krishna, Godavari, Telangana July December
+North kostha August November
+Southern divisions September November
+Less rainfall divisions July – August December
+Nursery sowing time:
+Nursery beds are prepared and sown on receipt of showers during the month of June. 20-
+25 days old seedlings are transplanted in main field.
+Land preparation for transplanting:
+Puddling should be done before 15 days of transplanting. Puddling to be done 2-3 times, green
+manures to be puddled 20-25 days prior to transplanting, to facilitate good decomposition, Single
+super phosphate (SSP) should be applied for better decomposition. Land should be levelled with
+levelling plank before transplantation. Equal water level to be maintained in entire field. It is
+better to complete puddling 2 days before transplanting in black cotton soils
+Nursery preparation
+Seedlings can be raised by different methods in rice. Dry nursery and wet nursery
+methods are mainly used to raise the nursery.
+Dry Nursery
+• The nursery is prepared in dry soil conditions
+• The field is dry ploughed 5-6 times to acquire the fine tilth.
+• Nursery area with sand and loamy soil status is more suitable for this type of nursery.
+9
+• Plots of 1 to 1.5 m bed width and channels may be formed. Length may be according to the
+slope and soil.
+• Sowing may be dry seeding. Seeds may be covered with sand and finely powdered farm
+yard manure.
+• This type of nursery is handy in times of delayed receipt of canal water
+Wet Nursery
+• The wet-bed nursery is mainly used in areas where there is enough water.
+• Soil should be dry ploughed twice and apply 1tonne of FYM or compost to 20cents nursery.
+• Later, it should be irrigated and allowed to be wet for another two days.
+• Afterwards it should be puddled twice and the puddling may be repeated after a gap of one
+week.
+• After levelling and final puddling, beds of convenient length (8-10 m) with width of 2.5 m
+are to be made, leaving 30 - 50 cm channels in between two beds.
+• Sow the sprouted seeds uniformly on the seedbed.
+• If the seeds are required for sowing immediately, keep the soaked seed in gunny bag in dark
+room for 24hrs for sprouting.
+System of Rice Intensification (SRI) Nursery
+• Prepare 100 m2 nursery to plant 1 ha area.
+• Select a levelled area near the water source.
+• Spread a plastic sheet or used polythene gunny bags on the shallow raised bed to prevent
+roots growing deep into soil.
+• 4m3 of soil mix is needed for each 100 m2 of nursery. Mix 70% soil + 20% well-decomposed
+pressmud / bio-gas slurry / FYM + 10% rice hull.
+• Incorporate in the soil mixture 1.5 kg of powdered di-ammonium phosphate or 2 kg 17-17-
+17 NPK fertilizer.
+• Place a wooden frame of 0.5 m long, 1 m wide and 4 cm deep divided into 4 equal segments
+on the plastic sheet or banana leaves. Fill the frame almost to the top with the soil mixture.
+• Soak the seeds for 24 hr, drain and incubate the soaked seeds for 24 hr, sow when the seeds
+sprout and radical (seed root) grows to 2-3 mm long.
+10
+• Sow the pre-germinated seeds weighing 90-100 g/m2 (100g dry seed may weigh 130g after
+sprouting) uniformly and cover them with dry soil to a thickness of 5mm.
+• Sprinkle water immediately using rose can to soak the bed and remove the wooden frame
+and continue the process until the required area is completed.
+• Water the nursery with rose-can as and when needed (twice or thrice a day) to keep the soil
+moist. Protect the nursery from heavy rains for the first 5 DAS.
+• At 6 DAS, maintain thin film of water all around the seedling mats.
+• Drain the water 2 days before removing the seedling mats for transplanting.
+• If seedling growth is slow, sprinkle 0.5% urea + 0.5% zinc sulphate solution at 8-10 DAS.
+• Seedlings reach sufficient height for planting at 15 days. Lift the seedling mats and transport
+them to main field.
+Nursery raising for machine transplanting
+• Raise seedlings in special mat nurseries or in seedling trays.
+• Use 18–25 kg of good seed per 100 m2 of nursery for each ha.
+• Seedlings will be ready for transplanting in 15–20 days after seeding (DAS).
+• Load the seedling mats into the machine and transplant the seedlings at the selected
+machine setting.
+• 15–20 days aged seedlings can be transplanted in 6-8 rows at a time with the help of
+transplanters.
+Precautions to be taken for healthy nursery raising:
+• Nursery to be puddled 3-4 times with an interval of 10-12 days. Canals to be prepared to
+irrigate and drain.
+• 2kg Nitrogen (1 kg before sowing and remaining kg 15 days after sowing), 1 kg
+Phosphrous, 1 kg potash fertilizers to be added in primary tillage, phosphrous fertilizers to
+be added double in chill areas.
+• Sprouted 5kg seeds to be broadcasted evenly per cent land.
+• Regular irrigation is required till full bloom of single leaf and water level to be maintained.
+• 2grams zinc sulphate in litre water solution to be sprayed where the Zn deficiency is
+observed.
+11
+Lecture No. 3
+Transplanting methods
+Generally line sowing is beneficial in paddy cultivation, but it is expensive
+Transplanting
+• Seedlings with 4-6 leaves should be used for transplanting. Yield will be reduced with aged
+seedlings.
+• Shallow planting (3 cm) ensures quick establishment and more tillers
+• Thin layer of water should be maintained during transplanting
+• After transplanting path with20 cm (alley ways) at every 2 metres will increase aeration,
+ventilation and will reduce pests and disease incidence.
+• These paths also help in fertilizers, pesticides and herbicides application and for better
+observation of the crop.
+• Based on rice varieties crop duration ,tillers number should be decided.
+Tiller number based on rice varieties crop duration
+Crop duration Transplanting Tillers per
+distance (cm) square meter
+Long duration varieties (more than 150 days) 20 x 15 33
+Medium duration varieties (125-135 days) 15 x 15 44
+Short duration varieties (110-120 days) 15 x 10 66
+Spacing
+Kharif: 15 x 15 cm or 15 x 20 cm
+Rabi: 15 x 10 cm
+• With late tillering varieties or overaged seedlings, spacing may be even upto 15 x 10 cm or
+20 x 10 cm.
+However, avoid close planting in endemic areas of BPH incidence.
+Management of aged seedlings
+• Number of hills per unit area and number of seedlings per hill to be increased when aged
+seedlings are planted.
+• Top 3-4 inches leaf sheath should be removed.
+12
+• Nursery / seedlings beyond 60 days should not be planted.
+• Avoid cluster planting of aged seedlings which are hindering the formation of new tillers.
+• New tillers alone are capable of producing normal harvestable panicle. Weak panicle may
+appear in the mother culm within three weeks after transplanting and vanishes well before
+harvest.
+• To encourage the tiller production, enhance the basal N application by 50% from the
+recommended and thereafter follow the normal schedule recommended for other stages
+Land preparation
+• Puddling should be done 15 days prior to transplanting
+• Flood the field 1 or 2 days before ploughing and allow water to soak in. Keep the surface
+of the field covered with water.
+• Keep water to a depth of 2.5cm at the time of puddling.
+Lecture No. 4
+Seed treatment:
+3grams of Carbendazim should be mixed to 1 kg paddy seeds and seeding can be done
+after 24 hours in nursery. 1 gram carbendazim should thoroughly be mixed in 1 litre of
+water, seed to be soaked for 24 hours, and to be sown after 24 hours in dry paddy. 1 litre
+of water is enough for soaking of 1 kg of seeds.
+Breaking of seed Dormmancy:
+To get germination after harvesting of the crop to break the seed dormancy 6.3ml for less
+dormant seeds and high dormant seeds like “Vijetha” 10 ml of concentrated nitric acid
+per litre water to be used and seeds should be soaked for 24 hours and seeds should be
+sown after 24 hours.
+Seed rate : (per acre)
+For Dry paddy – 20-25kgs
+Broadcasting- 24-30 kgs
+13
+Seed drill (rainfed)- 30-36 kgs
+SRI method- 2kgs
+Recommended varieties for different Zones of Telangana:
+1. Northern Telangana zone:
+Sambamashuri, JagityalMashuri, Pranahita, Polasaprabha, JagityalSannalu, Telangana
+Sona, Anjana, Bathukamma, KunaramSannalu, MTU-1010, Manerusona, Jagityal Samba
+and Prathyumna
+2. Central Telangana Zone:
+Sidhi, Sambamashuri, Somnath,Badrakali,WarangalSannalu, Warangalsambha,
+Sheethal, Ramappa, Telangana sona, Bathukamma, Kunaramsannalu, Erramallelu,
+Prathyumna, varalu, MTU-1010 and MTU1001
+3. Southern Telangana Zone:
+Samba mashuri, Krishna, jagityalmashuri, Vijetha, Bathukamma, Kunaramsannalu,
+Telangana sona, Tellahamsa, MTU-1010 and Anjana
+Newly released varieties:
+1. Telangana Sona (R.N.R 15048):
+• Late sowing variety, hence green manure crops like Sun hemp, crotalaria
+etc can grow in June for Kharif
+• Resistant to rice blast, high yielding (2.6-2.8 tons/acre)
+• Less broken grains with good cooking quality.
+• Seed dormancy for 15 days.
+2. Kunaramsannalu (K.N.M 118):
+• Alternative variety for MTU 1010
+• Suitable for kharif and rabi with 125 days crop duration.
+• Average yield is 2.8-3.2 tons/ acre.
+• It is having 3-4 weeks of seed dormancy.
+14
+3. Bathukamma (J.G.L. 18047):
+• Alternative variety for MTU 1010, as MTU-1010 has grain shedding
+character at harvesting time in Rabi
+• Suitable for kharif and rabi with 120 days crop duration.
+• Average yield is 2.8-3.2 tons/ acre.
+• It is having 3weeks of seed dormancy.
+4. Somnath (W.G.L.347)
+• Medium quality seed, can tolerate the Rice gall midge, with medium
+duration (130-135 days).
+• Resistant to Rice blast
+• Yield is 2.6-3.0 tons/ acre.
+5. Siddi (W.G.L-44)
+• Suitable for kharif only
+• Medium sized grain with 150 days crop duration.
+• Yield 2.4-3.0 tons/ acre.
+Seed treatment
+• Treat the seeds with Carbendazim @ 3 g/l of water for 1 kg of seeds and then sow in nursery
+after 24 hours.
+• If the seeds are required for sowing immediately, keep the soaked seed in gunny in dark and
+cover with extra gunnies and leave for 24hrs for sprouting.
+Breaking dormancy in Rice
+Soak 1 kg of seed for 24 hours in 1litre nitric acid solution prepared by pouring 6.3 ml
+concentrated nitric acid in to litre of water. After soaking, sun dry seeds for about 3-7 days.
+Seed rate
+Broad casting: 24-30 kg (acre)
+Sowing with Gorru (Rainfed condition): 30-36 kg
+SRI method rice cultivation: 2 kg
+15
+Lecture No. 5
+Nutrient management (Integrated Nutrient Management)
+• Apply 12.5 t of FYM or compost; or green leaf manure @ 6.25 t/ha.
+• If green manure is raised @ 20 kg /ha, in-situ, incorporate it to a depth of 15 cm using a
+green manure trampler or tractor.
+• In the place of green manure, press-mud / composted coir-pith can also be used.
+• Apply 22 kg urea/ha at the time of first puddling while incorporating the stubbles of
+previous crop to compensate immobilization of N by the stubbles.
+• This may be done at least 10 days prior to planting of subsequent crop. This
+recommendation is more suitable for double crop wetlands, wherein, the second crop is
+transplanted in succession with short turn-around period.
+• Broadcast 10 kg of soil based powdered Blue Green Algae (BGA) flakes at 10 DAT for the
+dry season crop. Maintain a thin film of water for multiplication.
+• Raise Azolla as a dual crop by inoculating 250 kg/ha 3 to 5 DAT and then incorporate during
+weeding for the wet season crop.
+• Mix 10 packets (2000 g)/ha of Azospirillumand 10 packets (2000g/ha) of Phosphobacteria or
+20 packets (4000g/ha) of Azophosinoculants with 25 kg FYM and 25 kg of soil and
+broadcast the mixture uniformly in the main field before transplanting and Pseudomonas
+fluorescens (Pf 1) at 2.5 kg/ha mixed with 50 kg FYM and 25 kg of soil and broadcast the
+mixture uniformly before transplanting.
+• Apply N and K in four equal splits viz., basal, tillering, panicle initiation and heading stages.
+• P may be applied as basal and incorporated.
+• When the green manure is applied, rock phosphate can be used as a cheap source of P
+fertilizer. If rock phosphate is applied, the succeeding rice crop need not be supplied with P.
+Zn deficiency Symptoms
+1. The mid ribs of younger leaves especially base become chlorotic.
+2. Appearance of brown blotches and streaks on lower leaves followed by stunted growth
+3. The size of leaf blade is reduced but not leaf sheath
+4. Uneven growth and delayed maturity in the field
+16
+Correction of Zn deficiency
+1. Soil application @ 40-50 kg Zn SO4/ha. (For normal soils once in 3 years and for saline soils
+once in every year.)
+2. By dipping the seedlings in 2% suspension of ZnO is both cheap and convenient.
+3. Seed coating is a new development and is at present being used in limited scale in drilled or
+direct seeded rice production.
+Iron: If iron deficiency is noticed spray 1.5% ferrous ammonium sulphate + 75 g citric acid/1lit
+of water at 4 to 5 days interval till the leaves turn to normal growth
+Weed management
+• Manual weeding is also essential to remove the weeds closer to rice root zone.
+• Cultural practices like dual cropping of rice-Azolla, reduces the weed infestation to a greater
+extent.
+• Summer ploughing and cultivation of irrigated dry crops during post-rainy periods reduces
+the weed infestation.
+• To control the nutsedges in nursery, Butachlor 50%, 1.5 lit mix in 200 lit water 7-8 days
+DAT to be sprayed after draining the water in the field or spray the Cyhalofop-butyl10% 400
+ml mix in 200 lit of water14-15 DAT.
+• To control the sedges and annual grasses, in low land paddy fields Use Butachlor 50% 1-1.5
+liter or Anilophos 30% 500 ml or Pretilachlore 50% 500 ml. Any herbicide has to be mixed
+with 20kg of dry sand on the day of application (3-5 DAT) and applied uniformly to the
+field with thin film water on the 3 DAT. Water should not be drained for next 2 days from
+the field (or) fresh irrigation should not be given.
+• If the sedges, grasses and broad leaf weeds are equally present in the field 4 kg butachlor
+granules and 1 kg 2,4-D ethyl ester 45 granules, to be mixed in 20 kg dry sand per acre to be
+broadcasted uniformly 3-5 DAT.
+• To control the weeds Pyrazosulfuron 5% WP, 80gr/ acre 8-10DAT or Ethoxy sulphuron
+15% WDG 50gr/acre to be mixed in 200 lit of water to be sprayed 15DAT.
+17
+• Alternatively, pre-emergence application of herbicide mixture viz., Butachlor 0.6kg + 2,4
+DEE 0.75kg/ha, or Anilophos + 2, 4 DEE ‘ready-mix’ at 0.4kg/ha followed by one hand
+weeding on 30-35 DAT will have a broad spectrum of weed control.
+• If pre-emergence herbicide application is not done, hand weeding has to be done on 15th
+DAT.
+• If the field is infested with broad leafed weed (BLW) 2,4-D sodium salt (80% WP)
+400gr/acre dissolved in 200 litres water to be sprayed on the foliage, by removing the water
+level 25-30 DAT.
+Water management
+• Puddling and levelling minimizes the water requirement
+• Maintain 2.5cm of water over the puddle and allow the green manure to decompose for
+aminimum of 7 days in the case of less fibrous plants like sunnhemp and 15 days for
+morefibrous green manure plants like Kolinchi (Tephrosia purpurea).
+• At the time of transplanting, a shallow depth of 2cm of water is adequate since high depth
+ofwater will lead to deep planting resulting in reduction of tillering.
+• Maintain 2 cm of water up to seven days of transplanting.
+• About 5cm submergence has to be continued throughout the crop period.
+• Moisture stress due to inadequate water at rooting and tillering stage causes poor rootgrowth
+leading to reduction in tillering, poor stand and low yield.
+• Critical stages of water requirement in rice are, a) panicle initiation, b) booting, c)
+headingand d) flowering. During these stages, the irrigation interval should not exceed the
+stipulatedtime so as to cause the depletion of moisture below the saturation level.
+• During booting and maturity stages, continuous inundation of 5cm and above leads
+toadvancement in root decay and leaf senescence, delay in heading and reduction in
+thenumber of filled grains/panicle and poor harvest index.
+• Provide adequate drainage facilities to drain excess water or strictly follow irrigation
+schedule of one day after disappearance of ponded water. Last irrigation may be 15 days
+ahead of harvest.
+• Water requirement for the paddy crop is 1250 mm
+18
+Lecture No. 6
+Harvesting index
+• Green grains not more than four to nine per cent
+• Percentage of milky grains less than one per cent
+• Moisture content of grains less than 20 per cent
+• 80 per cent panicles straw coloured and grains in lower portion of panicle in hard dough
+stage. At least five hills are to be studied at maturity.
+Harvesting
+• Taking the average duration of the crop as an indication, drain the water from the field 7
+to10 days before the expected harvest date as draining hastens maturity and improves
+harvesting conditions.
+• When 80% of the panicles turn straw colour, the crop is ready for harvest. Even at this stage,
+the leaves of some of the varieties may remain green.
+• 20-22% moisture present in grains at the harvesting.
+• Confirm maturity by selecting the most mature tiller and dehusk a few grains. If the rice is
+clear and firm, it is in hard dough stage.
+• When most of the grains at the base of the panicle in the selected tiller are in a hard
+doughstage, the crop is ready for harvest. At this stage harvest the crop, thresh and winnow
+thegrains.
+• Dry the grains to 12% moisture level for storage. Grain yield in rice is estimated only at14%
+moisture for any comparison.
+• Maturity may be hastened by 3-4 days by spraying 20% NaCl a week before harvest
+toescape monsoon rains.
+Yield:
+• Grain yield varies between 4000 and 6000 kg/ha depending on the management and climatic
+conditions. Straw yield of 8000-10000 kg/ha can normally be obtained.
+19
+Yield attributes;
+Number of tillers per unit area(1Sq.mt.), number of grains per tiller and 1000 grain weight.
+= no. of tillers per sq.mt.X no. of grains per tiller X mature grain percent X Test weight
+Ex: Sq.mt. 400 tillers
+120 grains per tiller
+Mature grain percent 85%
+Test weight (1000 weight) - 24gr
+yield per ace?
+Per sq.mt.=400x120x85/100x24/1000 = 979.2 kgs
+Per Acre (4000 sq.mt) = 979.2x4000 = 3916.8 kg = 39.2 quintals
+One bag (75 kgs)= 3916.8/75=52 bags
+Required parameters for export:
+For export we consider 6 parameters those are..
+1. High quality rice
+2. Long grain with medium quality
+3. Short grain
+4. Parboiled rice
+5. Aroma
+6. Glutinous rice
+Physical qualities for export
+1. Long grain
+2. Milling percent
+3. Light transmit character
+4. Fragments percent (broken percent)
+20
+5. Colored or white grains
+6. Grain moisture percent and etc..
+90% of rice without aroma, high or medium quality, long grain and short grain belong to
+japonica variety are exported. This type of rice exporting countries are mainly Australia,
+Thailand, North America
+Remain 10% export are Scented/ aromatic Basmathi rice exports from India and Pakistan to
+International market.
+Threshing
+• Hand threshing of sheaves: against some hard surface like stone, wooden plank, a bench
+etc.This is practical when the quantity is small and also for when it is for seed purpose.
+• Cattle threshing: It is adopted when large quantity is to be handled. First, a threshing floor
+is prepared well by removing stubbles, compacting etc., in a circular fashion and the sheaves
+are spread and trampling under the feet of cattle is made to go round and round.
+• Tractor threshing: Now a days, it is widely adopted practice. The sheaves are heaped on
+thethreshing floor in a circular fashion and the tractor goes round and round.
+Winnowing:
+Winnowing is done to the threshed grains to separate the dust and paddy straw, against
+the wind flow. Nowadays manual or tractor operated fans are used for winnowing.
+Grain drying:
+• Grains to be dried before storage, but moisture percent should not decline rapidly, hence
+grains should not dried in the sun light.
+• Storage to be done when grain moisture should be less than 14%
+• For drying the grains machines are used i.e called dryers, grain moisture 12-14% can
+reduce the losses from insect or fungi.
+21
+Rice based cropping systems
+• Rice-Rice
+• Rice-Pulses
+• Rice-Sugarcane
+• Rice-groundnut
+• Rice-Ragi
+• Rice-Sesamum
+Lecture No. 7
+System of Rice Intensification (SRI) Method of Rice Cultivation
+The System of Rice Intensification is a new and promising resource-saving method of
+growing rice under irrigated or rain-fed conditions. This method was first time practiced in
+“Madagaskar” in 1980, this method is popularising in recent days. Higher yields can be got with
+less cost in this method.
+SRI method cultivation paddy field need not to maintain the water level as practiced in
+conventional method of paddy cultivation. Water required is 1/3 to ½ in SRI method compared
+to conventional method.
+Steps in SRI method.
+1. Early Transplanting: Transplant 8-12 day old seedlings, with only two small leaves, (
+More tillering potential and root growth potential)
+2. Careful Transplanting:Minimise trauma in transplanting. Remove plant from nursery
+with the seed, soil and roots carefully and place it in the field without pushing too deep
+into soil (More tillering potential)
+22
+3. Wide Spacing: plant single seedlings, not in clumps, and in a square pattern 25cm x
+25cm apart or wider. Do not plant in rows. (More root growth potential)
+4. Weeding and Aeration: use simple mechanical "rotating hoe" that churns up soil; 2
+weedings required, (More root growth, due to reduced weed competition, and aeration of
+soil, giving roots more Oxygen and Nitrogen due to increased microbial activity) Each
+additional weeding after two rounds results in increased productivity up to 2 t/ha /
+weeding.
+5. Water Management:Regular water application to keep soil moist but not saturated, with
+intermittent dryings, alternating aerobic and anaerobic soil conditions (More root growth
+because it avoids root degeneration, enables better abosrption of nutrients from the soil).
+6. Compost / FYM applied instead of addition of chemical fertilizer; 10 tons/ha (More
+plant growth because of better soil health and structure, and more balanced nutrient
+supply)
+7. A comparison of SRI and conventional method of rice cultivation is as follows
+Particulars Conventional SRI
+Method
+Seed requirement per acre 30 kg 2 kg
+Age of the seedlings (days) 21-30 8-12
+No. of seedlings per hill 2-3 1
+Spacing 15x10 cm 25x25 cm
+No of plants per sq.m. 66 16
+Fertilizers used Chemical fertilizers Organic fertilizers
+Aerobic Rice
+• In view of declining ground water table and without puddling, 3-4 times of tillage to obtain
+the fine tilth, the usual establishment method is dry direct seeding.
+• In this method sufficient moisture should be available for germination.
+23
+• Seed rate 25-30kgs for 1 acre, to avoid the soil born and seed born disease, seed treatment
+with 60g carbendazim 50%WP should be done for 30kg seed.
+• Aerobic rice can be rainfed or irrigated. Irrigation can be applied through flash-flooding,
+furrow irrigation (or raised beds) or sprinklers.
+• Unlike flooded rice, irrigation—when applied—is not used to flood the soil but to just bring
+the soil water content in the root zone up to field capacity.
+• Site-specific nutrient management can be used to determine the optimal management of
+fertilizers. In the absence of knowledge on SSNM, 70−90 kg N/ha could be a useful starting
+point to obtain a yield of 4−6 t/ha.
+• The first split can best be given 10−12 days after emergence, the second at active tillering,
+and the third at panicle initiation.
+• The application of Phosphorus fertilizer can be more critical to aerobic rice than to flooded
+rice.
+• Early pre-emergence herbicide Pendimethalin 1lit for 1 acre is to be sprayed in the soil to
+control the weed problem, which is very high in aerobic rice.
+• 2,4-D 800 gr per one acre to be used for control of the broad leaf weeds.
+• Rice fields that are not permanently flooded tend to experience high growth and more
+species of weed. Appropriate herbicide use and additional manual or mechanical weeding in
+the early phase of crop growth, are therefore needed to control weeds.
+• Soil-borne pests and diseases such as nematodes, root aphids, and fungi are known to occur
+more in aerobic rice than in flooded rice, especially in the tropics. It is recommended to
+grow aerobic rice in rotation with upland crops suitable in the area.
+24
+Lecture No. 8
+MAIZE
+Scientific name: Zea mays
+Family: Poaceae
+Origin
+Maize crop is found at Peru, Bolivia, mountains of Ecuador. The Centre of origin of maize
+is considered to be the CentralAmerica and Mexico.America holds first in area of cultivation
+among entire world with 57% of production. Other major countries are China, Brazil, Russia and
+India
+In India maize cultivation is in Gujrat, Rajasthan, Punjab, Haryana, MP, AP, Telangana, HP,
+Jammu, Kashmir and Bihar. In India highest cultivated area is in M.P. followed by Karnataka,
+and production is higher in Karnataka followed by M.P.
+Area (M. Ha) Production (Mt) Productivity (kg/ ha)
+India (irrigated) 9.38 28.75 3065
+Telangana 0.635 3.64 5730
+Byproducts and economic importance
+• Cobs harvested slightly ahead of maturation are grilled and consumed.Tasty soups and
+pancakes are cooked out of corn flour. Fermented corn is also common.
+• Corn is used in industries in several ways. Grains ground into flour are employed to
+prepare corn flakes. Corn germ oil is a good cooking medium. Corn starch is raw material
+in many brews and jams.
+• It is used in production of alcohol, Ethanol.
+• Glucose, sucrose, dextrose, cellulose, gums are prepared from the grain starch.
+• Edible oil is prepared from the maize in some countries, this oil is best suitable for the
+cardiac patients, due to presence of linolic, oleic acids and less cholesterols.
+• Some of the other uses of corn are in preparing starch based adhesive. Proteins are of use
+in pharmaceuticals textiles, in addition corn germ is used in the soap making industry.
+• Wet milling produces industrial starch like sweeteners, also produces various modified
+maize starch for paper lamination, textile wrap, sizing and laundry finishing.
+• Dry milled products are animal feed, brewing, breakfast cereals and other food.
+25
+Classification of maize types:
+Maize is classified in to 7 types as per the endosperm.
+1. Dent corn (Zea mays var indentata)
+This is the most common type grown in South America. Dent formation on the top of the
+kernel having yellow or white colour. The depression or dent in the corn of the seed is the result
+of rapid drying and shrinkage of the soft starch.
+2. Flint corn (Zea mays var indurata)
+It is widely grown and cultivated in India. Endosperm of kernel is soft and starchy in the
+centre and completely enclosed by a very hard outer layer. The kernel is rounded on the top. The
+colour may be white or yellow. Carbohydrates are high in this type of corn. Grown in Europe,
+Asia, Central America and South America.
+3. Popcorn (Zea mays var everta)
+It possesses exceptional qualities. Size of kernels is small but the endosperm is hard. This
+is suitable for popcorn.
+4. Flour corn ((Zea mays var amylacea )
+It possesses a soft endosperm. Kernels are soft and though all coloured corns are grown
+but white & blue are the most common. Grown in USA & S. Africa.
+5. Sweet corn (Zea mays var saccharata)
+The sugar and starch makes the major component of the endosperm that results in
+sweetish taste of the kernels before they attain the maturity and after maturity, the kernels
+become wrinkled. The cobs are picked up green for canning and table purpose.
+6. Pod corn (Zea mays var tunicata)
+Each kernel is enclosed in pod. It is best suitable for forage (cattle feed). Economically it
+is growing in large area.
+7. Waxy corn (Zea mays var ceratina)
+The endosperm of the kernel when cut or broken gives a waxy appearance. It is used in
+gums and textiles and paper making industries.
+26
+Maize varieties:
+Varieties Crop Yield Characters
+duration (Q/acre)
+(days)
+Hybrids
+DHM-103 105-120 22-25 Resistant to stem necrosis.
+DHM-105 105-120 25-30 Resistant to stem necrosis, sustainable
+higher yields.
+DHM-1 85-90 18-20 Short duration hybrid, resistant to leaf
+blight.
+Trishulatha 105-120 25-30 Resistant to stem necrosis
+DHM-107 88-95 22-25 Medium duration hybrid, cross breed
+DHM-109 85-90 22-25 Short duration hybrid
+Composite / synthetic
+Ashwini/ Harsha/ 90-100 10-20 Withstand dry conditions, high quality
+Varun and high yield
+Amber pop corn 95-100 18-20 Pop corn variety
+Madhuri sweet corn 65-70 30,000-35,000 Sweet variety,30-35% sugar content
+cobs
+Priya sweet corn 70-75 30,000-35,000 Sweet variety,30-35% sugar content,
+cobs bigger in size than Madhuri variety
+Climate conditions:
+Maize requires warm conditions, 85% of maize is cultivated in kharif season. If the night
+temperatures are less than 15.6oC, growth of the crop ceases. Maize crop will not tolerate the
+snow at any stage of the crop growth. Maize is sensitive to water logged condition. It requires the
+annual rainfall of 600 mm.
+Soils
+• Maize can be grown on a variety of soils, but it grows best on well drained soils which are
+rendered fertile by adequate supply of manures.
+• Loamy or silty loam or silty clay loam soil having fairly permeable sub soil is an ideal soil
+type. Optimum PH is 6.5-7.5
+27
+Sowing time
+• Kharif season: with onset of monsoon i.e 15-June to 15-July and harvested in late September
+or October.
+• Rabi season: Crop sown from 15-October to 15-November in Telangana and Rayalaseema.
+15-October to 15- January in Coastal areas.During dry spell period, sowing should be before
+August.
+• Sowing maize at about 5 days before onset of monsoon [i.e last week of May to the second
+week of June) and providing irrigation, results in good plant stand and highest grain yields.
+Land preparation
+At least 2-3 shallow tillage operations during summer season are essential in all maize
+growing areas. Deep ploughing is also helpful to control weeds and for efficient moisture
+conservation similarly bed and furrow or ridge and furrow systems are suitable in semi arid and
+sub humid regions.
+Plough the soil with the help of ridge plough at a distance of 60-75 cm row to row and
+20-25cm plant to plant. Sow the seeds at a height of 1/3 at right side to the ridge.
+Seed rate (kg/Acre) Spacing Plant density/ acre
+General cross breeds 8 60x20 33,333
+Sweet corn 4 60x20 33,333
+Pop corn 5 60x20 33,333
+Baby corn 10 45x20 44,444
+Fodder maize 16 45x10 88,888
+Seed treatment
+• Seed treatment with 3gr of Mancozeb or Imidacloprid per kg seed.
+Sowing
+• Dibble the seeds at a depth of 4 cm along the furrow in which fertilizers are placed and
+cover with soil.
+• Put one seed per hole if the germination is assured otherwise put two seeds per hole.
+28
+Lecture No. 9
+Manures and Fertilizers
+Fertilizer dose (kg/acre)
+Kharif Rabi
+N P K N P K
+General cross breeds 72-80 24 20 80-96 32 32
+Sweet corn 60-72 24 20 72-80 24 20
+Pop corn 32 24 20 40 24 20
+Baby corn 48 20 16 60-72 24 20
+• Apply 1/3 of nitrogen at final tillage, 1/3 at crop knee high stage and 1/3 at flowering stage.
+• Total Phosphorus at final tillage.
+• Potash ½ at final tillage and ½ at flowering.
+• Zinc sulphate 20kgs at final tillage once in 2-3 seasons.
+• Zinc deficiency leads to leafs turning to yellow colour and white bud formation. For
+correction, 2 g Zinc sulphate per litre of water should be sprayed on the foliage.
+Weed control
+• Apply the pre-emergence herbicide, Atrazine 50 WP @ 1-1.5kg /acre (200 lit of water) at 3
+days after sowing as spray on the soil surface followed by one hand weeding at 40-45 DAS.
+• Apply herbicide when there is sufficient moisture in the soil.
+• Do not disturb the soil after herbicide application.
+• Hoe and hand weeding on the 17th or 18th day of sowing, if herbicide is not applied.
+NOTE: If pulse crop is to be raised as intercrop, do not use Atrazine.
+Water Management
+• The most critical period for moisture stress is flowering stage (i.e. tasselling, silking and
+milking stage).
+• Upto 40 DAS, the crop is more sensitive to excess moisture and from pre-flowering to
+maturity, it is more sensitive to drought.
+29
+• Maize plant utilizes about half of its seasonal intake of water during the 5 weeks following
+attainment of its maximum leaf area which is before the tasselling stage.
+Lecture No. 10
+Inter Cropping
+• Intercropping system of maize + redgram or with other pulses in 2:1 ratio is
+recommended for higher net returns
+• Maize+Green Gram – 1:2
+• Maize+Black Gram – 1:2
+• Maize+Soyabean – 1:2
+• Maize can be grown as an intercrop in orchards in first 3-5 years
+Harvesting
+Stage of harvest: Observe the following symptoms, taking into consideration the average
+duration of the crop.
+• The sheath covering the cob will turn yellow and dry at maturity.
+• The seeds become fairly hard and dry. At this stage the crop is ready for harvest.
+• Harvest the cobs at moisture level of 25-30%.
+Harvesting: Tear-off the cob sheath by using the gunny needle and remove the cobs from the
+plant. Carry out harvest operations at a single stage for easy transportation.
+Threshing cobs: Dry the cobs under the sun till the grains are dry. Use mechanical threshers or
+by running the tractor over dried cobs to separate the grains from the shank. Clean the seeds by
+winnowing. Collect and store the dry grains in gunnies.
+Straw for cattle feed: Maize straw can also be used as good cattle feed when it is green. Harvest
+the crop and cut the green straw into bits with a chaff cutter or chopping knife and feed the cattle.
+Yield
+• 5 tonnes of grain yield and 10 tonnes/ha of straw yield can be obtained.
+• In case of Baby corn, about 6 tonnes/ha of cob yield with 25 tonnes/ha of green fodder yield
+is possible.
+30
+Lecture No. 11
+ZERO TILLAGE- MAIZE:
+Zero tillage is the process where the crop seed will be sown through drillers without prior land
+preparation and disturbing the soil where previous crop stubbles are present. Zero tillage not only
+reduce the cost of cultivation it also reduces the soil erosion, crop duration and irrigation
+requirement and weed control better than normal tillage. Zero Tillage (ZT) is also called as No
+Tillage or Nil Tillage.
+Zero tillage for maize has several advantages such as
+• Prevent delay in sowing, reduction in the cost of inputs for land preparation and therefore
+a saving of around 80% compared to normal tillage.
+• Reduction in the crop duration and thereby early cropping can be obtained to get higher
+yields
+• Most suitable for coarse soils, improves soil health and quality, reduce erosion.
+• Sometimes temporary water logged conditions affects the growth of maize crop. In ZT
+there is more infiltration rate due natural soil aggregation which helpful in avoiding
+anaerobic conditions due to water logging.
+• Residual moisture can be effectively utilized and number of irrigations can be reduced.
+• Dry matter and organic matter gets added to the soil.
+• Environmentally safe - Greenhouse effect will get reduced due to carbon sequestration.
+• Zero tillage has better availability of water for maize especially in residue retained
+conditions.
+• As the soil is intact and no disturbance is done, No Till lands have more useful flora and
+fauna.
+31
+Lecture No. 12
+SORGHUM
+Scientific name: Sorghum bicolor
+Family: Poaceae
+Sorghum is the most important cereal crop in India. It stands second in area (next to rice),
+but third in production after rice and wheat. It is cultivated primarily as a crop both during kharif
+and rabi which is one of the main reasons for low average yields (864 kg/ha). It is mostly grown
+in marginal lands which do not suit for wheat and maize. It is one of the major food crops of the
+world (wheat, rice, maize and sorghum). Millions of people in Africa and Asia depend on
+sorghum as their staple food.
+In India, sorghum crop (irrigated) is cultivated in an area of 5.02 M.ha, production is 4.80 M.
+tonnes and productivity is 956 kg/hectare.
+In Telangana, sorghum crop is cultivated in an area of 0.087 M.ha, production is 0.134 M. tonnes
+and productivity is 1535 kg/hectare.
+Origin: Africa
+Major Jowar growing zones:
+1. Low rainfall kharif zone: The red soil area in the districts of Mahbubnagar,
+Nalgonda and Ananthpur. 500-750 mm rainfall with 75-175 days duration.
+2. High rainfall kharif zone: 800-1000mm rainfall. It consists of the districts of
+Adilabad, Karimnagar, Medak and parts of Rangareddy, Warangal, Guntur and Prakasam where
+sowings are done during 2nd week of July. Growing period is 190-230 days.
+3. Early rabi or maghi zone: 800-900 mm rainfall. 70:30 red and black soils.
+Contiguous areas of Khammam, Warangal, Nalgonda and Krishna.
+4. Nandyal valley: 500mm rainfall. This zone includes the districts of Kurnool and
+Cuddapah where sowings are done during 2nd fortnight of September. Black cotton soils.
+5. Normal rabi zone: Light to heavy black cotton soils. Parts of Adilabad, Rangareddy,
+Karimnagar, Medak, Mahbubnagar, Nizamabad and Guntur districts. Normal sowing period is 1st
+fortnight of October.
+32
+6. Late rabi zone: The districts of Nellore and adjoining areas of Prakasam constitute this zone
+which comes under the influence of NE monsoon.
+Adaptation
+It is a sturdy crop and can withstand varied climatic hazards more than any other crop. It
+is successfully grown in arid areas of UP, Rajasthan and also in humid regions of West Bengal
+and Bihar. It is primarily a tropical warm weather crop. It can withstand wide range of
+temperatures varying from 15°C to 40°C with rainfall variations of 400-1000 mm per annum.
+Although it is a crop of plains, it grows within plateau region of South India upto an elevation of
+1000m. Sorghum is a short day plant. Flowering and grain formation starts when day length
+shortens during winter.
+Soils: Sorghum can be grown in heavy black soils to red soils, but comes up well in heavy black
+soils. Sorghum does not grow well under gravelry and marshy soils. This crop can resist slight
+acidic and alkali soils, pH ranging from 5.5 to 8.
+Sowing season:
+There are 5 seasons in an year viz.,
+Kharif - June
+Maghi - September
+Rabi - October
+Late Rabi- November
+Summer - January
+Seed rate: 3-4 kg per acre
+Spacing: 45x12-15cm
+Seed treatment: For control of shoot fly - treat one kg seed with 3 g. Thiamethoxam or 12 ml of
+Imidacloprid 5g/kg seed.
+or seed treatment with 3 g. of Thiram or Captan per kg of seed
+33
+Lecture No. 13
+Manures and Fertilizers:
+Both N & P are essential for stepping up grain yields of sorghum. The effect of P in
+increasing grain yield is more pronounced when it is applied in combination with N. Application
+of N consistently increases uptake of P at all stages of growth. N uptake is also significantly
+increased at high levels of P application even at 60 days growth stage. Response to N is better in
+hybrids than in local improved varieties.. K need not to be applied to sorghum except in areas
+known to be deficient regarding potash.
+Irrigated crop(kg) Rainfed crop(kg)
+Nitrogen 32-40 24-32
+Phosphorus 24 16
+Potassium 16 12
+Water management
+Though sorghum is drought resistant, it responds well to irrigation. It is primarily a
+rainfed crop. It has an extensive and deep fibrous root system. It is observed that on an average,
+about 6-9 irrigations, each of 5-6 cm depth are necessary depending on climate. Total water
+requirement is about 500-600mm.
+Moisture sensitive stages are flowering stage and grain filling stage.
+Inter Cropping
+Sorghum + red gram – 2:1
+Weed control
+• Apply the pre-emergence herbicide Atrazine 50 WP @ 800 g, mix in 250 lit/ ac of water,
+within 2-3 days after sowing as spray on the soil surface.
+• If pulse crop is to be raised as an inter-crop in sorghum do not use Atrazine.
+• Hoe and hand weed on the 10th day of transplanting if herbicides are not used. Hoe and weed
+between 30-35 days after transplanting and between 35-40 days for a direct sown crop, if
+necessary.
+• Striga emerges 35-40 days after sorghum seed germination. 50g ammonium sulphate is
+mixed in one litre water or 200 g urea spraying will control the striga.
+• Spray 2 g of 2,4-D sodium salt mix in one litre water to control the striga.
+34
+Harvesting and threshing
+• Consider the average duration of the crop and observe the crop. When the crop matures, the
+leaves turn yellow and present a dried up appearance.
+• The grains are hard and firm. At this stage, harvest the crop by cutting the earheads
+separately. Cut the straw after a week, allow it to dry and then stack. In the case of tall
+varieties, cut the stem at 10 to 15 cm above ground level and afterwards separate the
+earheads and stack the straw. Dry the earheads. Thresh using a mechanical thresher or by
+drawing a stone roller over the earheads or by using cattle and dry the produce and store.
+Yield:
+Rainfed: 20-25 q/ha
+Irrigated:50-60q/ha
+Lecture No. 14
+BAJRA
+Scientific Name: Pennisetum glaucum
+Family: Poaceae
+It is also called as Pearl millet, Cat tail millet, Candle millet, Spiked millet and Bulrush millet.
+Origin: Africa and India
+Bajra is one of the major coarse grain crops and is considered as poorman’s food. It is
+drought tolerant crop. Pearl millet is endowed with greater ability to withstand harsh climatic
+factors, and still yield substantially.
+In India, bajra crop is cultivated in an area of 7.44 M.ha, production is 9.09M. tonnes and
+productivity is 1222 kg/hectare.
+In Telangana, bajra crop is cultivated in an area of 0.02 M.ha, production is 0.01M. tonnes and
+productivity is 1172 kg/hectare.
+35
+Adaptation:
+The crop has wide adaptability as it may grow under different day lengths, temperatures
+and moisture stress. It has a high degree of resistance for drought. Most of the varieties
+developed in India are photo-insensitive which permits in growing the crop during Kharif, rabi
+and summer seasons. The crop requires low annual rainfall ranging between 400 to 500 mm and
+dry weather. The crop needs wet weather, light showers and bright sunshine at its grand growth
+stage. There should be no rain at flowering as the pollens are washed off and fertilization is poor,
+while at maturity it needs fairly dry weather associated with bright sunny days. The crop may
+tolerate drought but cannot withstand high rainfall of 900mm or above. The best temperature for
+the growth and development of bajra is between 30oc and 35oc.
+Soils
+Bajra can be grown on a wide variety of soils, but being sensitive to water logging, it
+does best on well drained sandy loams and clay loams. Bajra is sensitive to acidic soils. It is
+grown successfully on black cotton soils, alluvial soils and red soils of India.
+Sowing time:
+Kharif :June -July
+Rabi:Sept-Oct
+Summer: First fortnight of January
+Avoid late planting beyond July 15th (In case, sowing is delayed there is a drastic
+reduction in yield due to more incidence of diseases like downy mildew or ergot, restricted
+vegetative growth of the crop, high rate of mortality and poor grain setting).
+Spacing:
+45 cm between rows and 12 to 15 cm between plants. 58000 to 72000 plants will accommodate
+in one acre.
+36
+Lecture No. 15
+Seed Rate:
+4.0-5.0 kg/ ha (If sown by drilling)
+2.5-3.0 kg/ha (If sown by dibbling method)
+Seed treatment:
+Seed should be treated with Thiram or captan @ 3g/kg of seed.
+Method of Sowing: Broadcasting, Drilling, Dibbling and Transplanting. Of these, Drilling is
+most popular. Thinning and gap filling should be done at 10-15 DAS.
+Important varieties:
+Variety Seasons Crop Yield Characters
+duration (Q/ac)
+(days)
+WCC-75 Kharif, Summer 85-90 8-10 Grows upto 180cm, 2-3 tillers/hill.
+composite Panicle length is 25-30cm, grains
+are in gray colour. Suitable to
+cultivate in all Districts.
+ICMH-451 Kharif, Summer 85-90 10-12 2-3 tillers/hill. Medium sized
+grains with gray colour. Suitable to
+cultivate in all Districts.
+Mallikarjuna Kharif, Rabi 85-90 8-10 Drought tolerant variety. Suitable
+to cultivate in all areas.
+ICTP 8203 Kharif, Rabi 85-90 8-10 Grain size is bold with white
+colour. Drought tolerant variety.
+ICMV 221 Kharif, Rabi 85-90 8-10 Composite type, Suitable to
+cultivate in all areas. It is better
+than WCC-75
+APS 1 Kharif 80-85 8-10 Gives better yields in less rainfall
+Ananta areas also.
+37
+Lecture No. 16
+Manures and Fertilizers:
+FYM @ 4t/ac should be applied and mixed well in to the soil about 20 days before
+sowing. Fertilizer schedule is as follows:
+Rainfed crop :
+N : 24 kg /acre
+P O : 12 kg /acre
+2 5
+K O: 8 kg /acre
+2
+Irrigated :
+N : 32 kg /acre
+P O : 16 kg /acre
+2 5
+K O: 12 kg /acre
+2
+Half dose of nitrogen, full doses of phosphorus and potassium should be applied at the
+time of sowing. The remaining N is applied in 2 splits. Once at the time of thinning (3-4 weeks
+after sowing) and the rest at ear formation stage.
+Water Management:
+As Bajra is a rainfed crop, there is hardly any need for irrigation. Irrigate the crop if there
+are no rains. Generally, two irrigations during the growing period of the crop are enough.
+Moisture sensitive stages for this crop is tillering, panicle initiation stage, flowering and milky
+stage.
+Covering of ground nut husk over the field at 30 days crop age, will conserve the soil moisture
+against the evaporation.
+Bajra does not tolerate water logging. So do not allow rain water to stand in the field for more
+than few hours. Proper arrangement for draining the excess water must be made.
+Weed Control:
+The damage due to weeds is severe during 3-5 weeks after sowing. Intercultivation by
+hand hoe or wheel hoe should be done at 3-5 weeks after sowing. However, sometimes due to
+unavailability of labour or soil being too wet to permit manual weeding, timely weeding
+becomes difficult. Under such conditions the only effective way to control weeds is the use of
+38
+herbicides. Pre-emergence application of Atrazine 50% WP @0.5 kg per/ha in 600 litres of water
+controls most of the monocot and dicot weeds.
+Inter cropping: Bajra + Redgram – 2:1
+Harvesting and Threshing:
+Harvest the crop when grains become hard and contain about 20% moisture. Harvesting
+is done by cutting the entire plant or removing the ear heads first and cutting down the plants
+later on. The ear heads after harvesting, should be sun dried. The grains are separated either by
+beating the ear heads by sticks or trampling by bullocks. The threshed grain should be cleaned
+and dried in sun to bring the moisture content down to 12% for safe storage.
+Yield:
+Rainfed: Grain : 12-15 q/ha
+Dry matter : 70-75 q/ha
+Irrigated: Grain : 30-35 q/ha
+Dry matter: 100 q/ha
+Lecture No. 17
+FINGER MILLET
+S. N: Eleusine coracana
+Family: Poaceae
+Common names are Ragulu, Birds foot millet, Taidalu and African millet.
+Finger millet is commonly known as Ragi. It is an important minor millet grown in India.
+It is a staple food crop in many hilly regions of the country. It is predominantly grown as a dry
+land crop in Karnataka, Andhra Pradesh, and Tamil Nadu. Finger millet contributes nearly 40%
+of total small millet produce of India, It is cultivated for grain and forage.
+39
+Area &Production:
+Total area in India is 2.50 M ha with a production of 2.20 Mt. Karnataka is the major state for
+finger millet production in India, accounts for 55.6% of the area and60.7% of production in the
+country.
+In our Telangana Ragi is cultivated in an area of 1724 ha , with a production of 2777 tonnes and
+the productivity is 1607 kg/ha.
+Economic importance
+• Germinating grains are malted and fed to infants also.
+• It is also good for pregnant woman
+• Special pops are prepared from the grains.
+• It is a nutritive food for adults of different ages.
+• It is good for persons suffering from diabetes
+• The green straw is suitable for making silage, which gives sweet smell and consumed by
+cattle without wastage.
+• Besides vitamin A&B, phosphorus is also present in smaller quantities.
+• The grain is nutritionally rich and the richest in ‘calcium’, hence malts are prepared for the
+children.
+• Tribal’s of Bihar agency prepare the liquor from this finger millet.
+• Country wide used to control the hepatitis
+• In northern hills, grains are eaten mostly in the form of ‘Chapattis’ and halwa.
+• In South India, grains are used in many preparations like cakes, puddings, sweets etc.
+Adaptation:
+It is a crop of tropical and subtropical climate and can be grown successfully from sea
+level to an altitude of 2100 meters on hill slopes as well as in plains. It is a hardy crop. It is
+grown in areas having annual average rainfall between 500 to 1000mm. In regions of higher
+rainfall it can be raised on well drained soils as a transplanted crop. It can be grown under
+rainfed as well as irrigated conditions.
+Soils:
+It can be grown on a wide variety of soils ranging from very poor to very fertile soils. It
+thrives best on well- drained loam or clay loam soils. Clayey soils, heavy black cotton soils,
+40
+gravelly and stony soils with poor fertility and drainage are not suitable. It can tolerate salinity
+better than other cereals.
+Land preparation:
+The first ploughing with mould board plough should be done immediately after the
+harvest of the previous crop. With the onset of monsoon, field should be ploughed with local
+plough 2-3 times and finally leveled.
+Season:
+Finger millet is not a season bound crop. So, it can be grown throughout the year, if water is
+available. The main seasons are
+1. Punasa Ragi (or) Burada Chodi:
+Finger millet is grown in wetlands, prior to planting of rice in slushy conditions by taking
+advantage of monsoon rains in Srikakulam and Visakhapatnam Dist. Short duration varieties
+(AKP -2) are preferred for this season. Twenty five percent Ragi in above districts is under this
+season (May-Aug).
+2. Main Season (or) Pedda Panta:
+The main area under Ragi crop during this season (Aug-Nov) accounts for 50%area of
+Srikakulam and Visakhapantam. Suitable varieties are AKP -7 and Kalyani (WR – 652)
+3. Pyru season:
+Remaining 25% of area is under pyru season. (Nov/Dec – Feb/ March). As the crop is
+grown under assured irrigated conditions, the yields are high.VZM-2 is recommended.
+Seed rate: 4-6 kg/ha. for nursery
+7.5-10 kg/ha for broadcasting.
+Spacing:
+Adopt the 30x15cm spacing for transplanting the 21 days aged seedlings for short duration (85-
+90days) varieties, and 30 days aged seedlings for long duration (105-120 days).
+41
+Varieties:
+Varieties Season Crop duration Yield Characters
+(Days) (Q/ac)
+Bharathi All seasons 105-110 10-12 Compact panicle, tolerant to blast
+Srichaitanya Kharif 110-120 10-12 Crop grows tall, and produces many
+tillers.
+Hima Rabi 105-110 10-12 White grained variety, tolerant to blast.
+Vakhula Kharif 105-110 10-12 Tolerant to blast.
+Maruthi Kharif, 85-90 9-10 Tolerant to blast and drought.
+summer
+Manures & Fertilizers:
+For Nursery: FYM: 10t/ha Incorporation before sowing
+40-40-40 kg N, P O and K O/ha
+2 5 2
+For main field: FYM: 10t/ha – Before sowing
+60-30-30 kg N, P O and K O/ha
+2 5 2
+N is applied in 2 Splits
+1. At the time of transplanting – ½ dose of N along with full dose of P and K.
+2. Remaining dose of N at 30 DAS.
+Irrigation:
+Ragi sown during Kharif, generally does not need any irrigation. Adequate
+moisture should be provided at the time of flowering and grain setting stages. It cannot tolerate
+waterlogged conditions. Hence, drainage facilities should be provided. After establishment of
+seedlings for a week or 10 days, irrigation should be cut off. This helps in hardening of seedlings
+and for vigorous and healthy growth.
+Weed management:
+It is essential to control weeds in the initial stage of plant growth and development.
+Weeding should be done with hand hoe after 25 days of sowing. 2-3hoeings would be sufficient
+to control the weeds in problems areas. Hand weeding gives satisfactory control of weeds. Pre
+42
+emergence herbicides like metoxuran 0.75 kga.i./ha + one hand weeding gives excellent control
+of weeds.
+Harvesting and Threshing:
+The crop matures in about 4-4 ½ months depending on the tract and the variety. Irrigated
+or transplanted crop produces more tillers than that grown in dry lands. Ear heads on main shoots
+matures earlier than tillers. As & when ear heads are matured harvesting is done generally 2 or 3
+times. Harvested ear heads are kept on floor and covered by gunny bags or tarpaulins which
+brings change in colour to all the grain in ear heads. It is dried & threshed by stone roller or
+cattle.
+Yield
+Rainfed:7- 8 q/ha - grain
+11-18 q/ha – fodder
+Irrigated:30-35 q/ha - grain
+35-50 q/ha – fodder
+Lecture No. 18
+PULSES
+India pulse production (under irrigation) is 25.42 M. tones in total pulse cultivated
+area of 29.81 M.ha. and the productivity is 853kg/ha. India has lion share in area (42.6%) and
+production (28.34%) of pulses globally.
+Major pulse producing states are Madhya Pradesh, Maharashtra, Orissa, Rajasthan and
+Uttar Pradesh. Highest production of pulses is from Madhya Pradesh followed by Rajasthan and
+Uttar Pradesh. Madhya Pradesh has the highest productivity (1084 kg/ha). National average
+productivity is 5853 kg/ha. In our Telangana state, pulse cultivated area is 5.19 lakh ha., with
+3.51 lakh tones production
+Importance of Pulses:
+• They are rich source of proteins
+• The average protein available in pulses is 20-30%. Pulses are rich in ‘Ca’ & Phosphorous.
+They are also good sources of Vitamins.
+43
+• Pulses provide a superior quality of fodder & feed to the cattle, as they are good forage crops
+with proteins and mineral content.
+• They are considered as good green manure crops because of rich canopy development.
+• They improve the soil fertility by biological nitrogen fixation
+• The nitrogen requirement of pulses is low & minimizes the N requirement of succeeding
+crop by around ¼ of its total requirement.
+• Pulses help in the Soil and Water conservation.
+• They improve the physical condition of the soil like soil aeration, water holding capacity by
+improving microbial population, breaking of hard pans and moisture retention.
+• Pulses are important in crop mixtures / rotation. They act as catch crops.
+• Some crops act as smothering crops which control weeds & protects soil from erosion. e.g.
+Cowpea and Horse gram. Pulses can also be used as better intercrops.
+S. Pulse crop Protein % Cereal crops Protein %
+No.
+1 Chickpea/ Bengal gram 21 Paddy 8.5
+2 Red gram 22.3 Wheat 12.8
+3 Green gram 24 Rice 6.9
+4 Black gram 24 Maize 11.1
+5 Barley 11.5
+Constraints in pulses Production:
+Weather conditions:
+1. Mostly around 92% of pulses are cultivated under rainfed.
+2. Crop critical stages encounters with dry spells, high temperatures, uneven distribution of
+rainfall, crop lodging conditions.
+3. Cultivating in less fertile soils due to soil erosion, resulting in less yields.
+4. Pulses are more sensitive to acidity, alkalinity and lodging.
+5. Non availability of high yielding varieties (HYV).
+6. Lack of knowledge to the farmers in pulse cultivating technologies.
+44
+7. Weed infestation
+8. Losses due to Pest and disease attack.
+9. High losses from storage pests.
+10. Lack of post harvest technologies.
+The main emphasis for increasing pulses production
+1. Bringing an additional area under short duration high yielding varieties to fit in multiple
+cropping programmes as catch crop.
+2. Developing new cropping systems like companion cropping, mixed cropping (or)
+intercropping for growing pulses between widely spaced crops such as sugarcane, maize,
+potato, cotton, arhar, groundnut, bajra and jowar etc. both under irrigated and rainfed
+conditions.
+3. Developing the high yielding varieties or local suitable varieties.
+4. Adoption of efficient plant protection measures (IPM).
+5. Basal placement of phosphatise fertilizers and treating the seeds with Rhizobium culture.
+6. Growing pulses on relatively fertile lands rather than growing them on marginal and sub
+marginal lands.
+7. Adoption of improved package of practices like line sowing, control of weeds, harvesting at
+right time or at physiological maturity to avoid splitting of pods and thereby minimising
+shattering losses.
+8. Granting subsidy on Government loans to the growers and providing improved seeds,
+fertilizers and plant protection materials on concessional price to the farmers.
+9. Evolution of better plant-types of pulses for boosting pulse production.
+45
+Lecture No. 19
+REDGRAM
+Scientific name: Cajanus Cajan
+Family: Fabaceae
+Common Names - Arhar, tur, redgram, congo pea, Gungopea, no eye pea.
+Pigeonpea is the second most important pulse crop of India after chickpea.
+Origin: Africa
+Area & Production:
+• India’s cultivated area is 4.44 M. ha, production is 4.29 M. tonnes with productivity of
+967kg/ ha .(under irrigation), Maharashtra stood top in area of cultivation (1.24 M.ha)
+Production (1.13 M. tonnes) and productivity (909 kg/ha.)
+• Telangana’s cultivated area is 0.33 M. ha, production is 0.26 M. tonnes with productivity of
+798 kg/ ha.
+Distribution:
+The important Pigeonpea growing states are Maharashtra, Uttar Pradesh., Madhya
+Pradesh, Andhra Pradesh & Karnataka. In India, Maharashtra, U.P & M.P together occupy 62%
+of the area & contribute 73% of total production.
+Season:
+Southern telangana zone, Northern telangana zones and less rainfall zones in Kharif- June
+In Rabi- september
+Krishna Godavari, northern kostha zone in Kharif : June– July
+in Rabi September-October.
+The sowing time depends upon the duration of variety and rainfall pattern of the region,
+early sowings are always better. Sowings should be planned in such a way that flowering and
+pod formation should not coincide with peak rainy period.
+Climate:
+It is a quantitative short day flowering plant i.e. the onset of flowering is hastened as day
+length shortens. It is grown throughout the tropical, sub-tropical & warmer regions of the world
+between 30oN & 35oS latitude. It tolerates heat and drought. It prefers moist and warm climate
+during vegetative period and cool and dry period during reproductive stage. It is susceptible to
+46
+frost. The cloudy weather and excessive rainfall during flowering damage the crop to a great
+extent.
+Temperature requirements:
+Crop vegetative growth period: 20-25oC
+Flowering and pod formation stage: 15-18 oC
+Ripening stage: 35-40 oC
+Soils: It can be grown on a wide range from Sandy loams to clay loams. The crop performs well
+on fertile well drained loamy soils. Saline, Alkaline and waterlogged are not suitable.
+Land preparation
+• Fine seed bed with friable soil with optimum moisture – for germination &growth
+• Deep rooted crop – one deep plough fallowed with harrowing
+• Raised bed (2.7m wide), Ridges & furrow, Flat sowing & making furrows at 2.7m
+Varieties for kharif: Duration 170-180 days
+ICPL 332 (Abhaya)
+ICPL 87119 (Asha)
+LRG-41
+Early maturing varieties for Rabi: ICPL-87
+ICRISAT varieties – ICPL 870, ICPH-8 (Hybrid variety)
+Varieties Crop duration (days) Yield Characters
+(Q/ac.)
+Palnadu (LRG30) Kharif 170-180 8.8-10 Bushy type, bends to side, yellow
+colour flowers, grain medium sized
+brown in colour, resistant to wilt
+Maruthi ICPL Kharif 155-160 8 Erect growing, resistant to wilt
+8863 medium sized grain. Suitable to grow
+on the bunds of paddy fields
+Abhaya ICPL 332 Kharif 160-165 8-8.5 Erect and pod will be in clusters,
+medium sized brown in colour grain,
+resistant to pod borer
+Laxmi ICPL 85063 Kharif 160-180 7.2-8 Bushy type with many branches,
+partial resistant to wilt disease. Bold
+47
+sized grain with dark brown colour
+Asha ICPL 87119 Kharif 170-180 7.2-8 Erect and bushy growing type,
+resistant to wilt, seeds are bold and
+dark green in colour
+HY3C Kharif 190-200 6.4-7.2 Red colour flowering, green colour
+pods used for vegetable, white colour
+seeds, wilt resistant and suitable to
+grow in Telangana region.
+MRG 66 Kharif 180 8.8-9.6 Suitable to grow in black soils,
+resistant to macrophomina disease.
+LRG 38 Kharif 170-180 8-8.8 Suitable for early rabi
+Rabi 120-130
+WRG 27 Kharif 180 8-8.8 Red colour flowering, pods are in
+Rabi 120-130 green colour with brown lines. brown
+colour seeds. Tolerant to Helicoverpa
+armigera
+Durga ICPL 84031 Kharif 170-180 4.8-6 High yielding short duration variety,
+resistant to pod borer, suitable for
+Northen Telangana zone for kharif
+cultivation.
+PRG 100 Kharif 145-150 8 Show resistance to wilt to some
+extent, suitable to grow in Telangana
+and Rayalaseema in light and chalka
+soils
+Differences between kharif and rabi Redgram
+S. No. Parameter Kharif redgram Rabi redgram
+1 Season June to July Sep – Oct
+2 Seed rate 5-7 kg/ha 15-20 kg/ha
+3 Spacing 60x10cm-sole crop 45x10cm for sole crop.
+48
+1.2 to 1.5 m for Intercrop
+4 Duration 160-180 days 120-125 days
+5 Plant height >2m 1-2m
+6 Seed size Big Small
+7 No.of pods/ plant More Less
+8 Pest & Diseases More Less
+9 Yield level 10-15 q/ha 8-12 q/ha
+Spacing:
+Short duration: 60x10cm
+Medium and Long duration: 75x20 cm.
+Seed treatment:
+Seed treatment with fungicides like Bavistin 1g/ kg seed. Captan or Thiram @ 2.5 g/ kg
+before sowing effectively controls fungi and reduces incidence of both seed and soil borne fungi.
+Seed treatment with Rhizobium culture can increase the yield upto 20-30%.
+Method of sowing: Seeds are sown behind the plough or with the use of seed drills.
+Manures & Fertilizers:
+Manures: 5 tons/ ha of FYM in Kharif.
+Nitrogen: 20kg/ ha – long & Medium duration varieties
+Phosphorous: 50 kg P O /ha for phosphorous deficient soils at sowing.
+2 5
+Potassium: 20kg K O/ha for potassium deficient soils by placement at sowing.
+2
+In A.P, 20N & 50 P O in addition to 5t/ ha FYM for Kharif crop. For rabi crop, Nitrogen dose is
+2 5
+doubled (40N kg/ha).
+Water Management:
+The critical periods for Irrigation are flower-initiation and pod-filling stages. Intensive
+cropping of pigeon pea can also be achieved under tube well irrigation, with highest production
+of 4 tons/ha. Redgram grown in Kharif does not require any irrigation
+Weed management
+Fluchloralin (Basalin) 45% @ 1.5kg a.i/ha. Mix in 200 lit of water spray as pre- sowing
+herbicide.
+Pendimethalin 30% @ 1.3 to 1.6 lit/ ac. Mix in 200 lit of water spray 1 or 2 days after sowing.
+Inter-cultivation at 30 and 60 DAS with gorru or danthi.
+49
+Inter Cropping
+1. Short duration crops i.e. black gram, green gram, cereals, groundnut can be grown as inter
+crop.
+2. Red gram + Sorghum/ Maize/ Bajra – 1:2
+Red gram + Green gram/ Black gram/ Soya bean/ Ground nut- 1:7
+Harvesting, Threshing & Processing:
+• The Red gram is said to be indeterminate in growth habit where the flowering goes on
+continuously over the months on the same plant. Flowering, un-matured pods & already
+developed pods are seen at the same time. Hence, the crop is harvested in 2-3 pickings.
+• The whole plants are cut when most of the pods are dried.
+• Then the plants are bundled and staked for one week for the purpose of post harvest ripening
+of un-matured pods.The dried pods are beaten with sticks and then the seed is separated.
+• Since seeds are consumed in the form of split cotyledons and dal it is better to go for
+processing before storing.
+• Power operated hullers or processors are available for splitting of seeds into dal.
+• The de-hulled operation is usually performed in 2 steps: the first involves loosening the husk
+from Cotyledons and the second involves removing the Husk from Cotyledons and splitting
+them using a roller machine
+Yield: For irrigated – 15-18 q/ha
+Rainfed – 10-15 q/ha
+Inter/ Mixed cropping- 5 - 6 q/ha
+50
+Lecture No. 20
+BENGALGRAM/CHICK PEA
+Scientific Name: Cicer arietinum
+Family: Leguminaceae
+It is also known as Gram (or Chana).
+Origin: Western Asia (Turkey)
+Area & Production:
+• India’s cultivated area is 10.56 M. ha, production is 11.38 M. tonnes with productivity of
+1078 kg/ ha .(under irrigation), Madhya Pradesh stood top in area of cultivation (3.59 M.ha)
+Production (4.60 M. tonnes) and productivity (1280 kg/ha.) followed by Maharastra with
+area of cultivation (2.0 M.ha) Production (1.69 M. tonnes) and productivity (1074 kg/ha.)
+• Telangana’s gram cultivated area is 0.29 M. ha, production is 0.27 M. tonnes with
+productivity of 912 kg/ ha.
+Climate:
+• It is a rabi pulse crop and requires cool humid weather and mainly suitable to North India.
+• It is suited for less rainfall areas of 600-1000 mm.
+• Water-logging results into wilt diseases (when grown with Red gram)
+• Optimum temperature regime for chick pea is 24-30oC.
+• Chick pea is a long day plant and requires sufficient bright sunshine.
+• The period of cool temperature decides the duration of the crop, because of which in North
+India, it comes to harvest in 160-170 days.
+• Whereas the winter is warm in South India then the duration is shorter of about 90-110 days
+Soils:
+• It can grow on wide range of soils from medium to heavy black soils. It does well on Black
+cotton soils and sandy loams.
+• Optimum pH required for crop growth is 6.0 to 7.5 (>8.5 pH not suitable).
+• It does not withstand water -logging, saline and alkaline conditions.
+51
+Land preparation: One deep ploughing followed by two harrowings. Crop needs clod free and
+fine seed bed for aeration in root zone.
+Time of sowing: Middle October to first fortnight of November.
+• If delayed, sowing of chick pea results in possibility of effecting wilt diseases.
+• Early sowing results in excessive, vegetative growth and poor setting of pods.
+Seed rate: Desi Type 20-26 kg/ac, 20% seed rate should be increased if late sowings.
+Sowing: Seeds are sown behind the plough or with the use of seed drills
+Spacing: Desi type 30x10cm.
+Kabuli type :45x10cm.
+Lecture No. 21
+Types and Varieties in Chickpea:
+There are 2 important varietal types available in India. They are:
+1) Kabuli type
+2) Desi type.
+Mostly cultivated type of chick pea is Desi type.
+Differences between Desi type and Kabuli type:
+Characters Desi type Kabuli type
+Area under cultivation More area Less Area
+Colour of the seed Yellow to dark brown White (or) Pale cream
+Size of the seed Small Large ,bold and attractive
+Shape of the seed Irregular and wrinkled Smooth
+Plant structure Small and bushy Taller and erect
+52
+Percentage of production 85% 15%
+Yield potential High yielders Low yielders
+Adaptation Mostly to winter climates Mostly to spring
+Test weight 17-26 gm /100seeds >26 gm /100 seeds
+Varieties Jyothi (ANGRAU), Kranthi, Swetha
+Annegiri (Karnataka)
+Varieties:
+Varieties Crop Yield Characters
+duration (Q/ac)
+(days)
+Kranthi ICCC 37 100-110 7.2-10 Bushy growing, medium sized seed. Resistant to
+wilt, local variety
+Swetha ICCV 2 80-85 6-6.4 Kabuli type suitable for late sowings.
+Annegiri 100-110 7.2-10 Bushy growing with many branches, seeds are
+slender ,medium sized brown in colour
+Jyothi 100-110 6.4-7.2 many branches, bushy from the base of the plant,
+seeds are rough, medium sized brown in colour.
+ICCV 10 100-120 7.2-10 Resistant to wilt, shows slight resistant to damping
+off. suitable to sow in October.
+KAK-2 100-105 7.2-8 Kabuli type, erect growing type, white variety
+Pule G 95311 105-110 7.2-8 Kabuli type , seed is big sized
+Fertilizers:
+The crop comes up well with residual fertility. But the recommended fertilizers are:
+Fertilizer Rainfed chickpea Irrigated
+N (kg/ha) 10 20
+P (Kg/ha) 40 60
+K (Kg/ha) 20 40
+53
+Zinc deficiency can be corrected by 0.5% ZnSO spray or soil application of 25kg /ha of Zinc
+4
+Sulphate which is effective in increasing the yields.
+Bio-fertilisers: Seed treatment with the Rhizobium strain namely Cicer rhizobium will increase
+the Nitrogen fixing ability of the plant and thereby yield will be enhanced by 20-30%.
+Irrigation:
+• 55% area of chickpea is under Rainfed condition.
+• Where under drought conditions, the crop requires 2 irrigations at critical stages.
+1) At branching (45 DAS) and
+2) At pod formation (75 DAS)
+• If water is adequate then four irrigations are recommended at:
+1) Sowing
+2) Branching
+3) Flowering
+4) Pod filling
+• Evaporative demand is high in South India, Irrigation at critical time can double the yield.
+• Evaporative demand is low in North India, Irrigation can cause excessive growth leading to
+lodging.
+Weed control:
+Weeds become problematic in chickpea due to its short growing nature.
+Pre emergence herbicides are Bentazon (1.0-1.5 kg/ha)
+Pendimethalin (0.5-1.0 a.i kg/ha)
+Pendimethalin (0.5%) + Imazethpyr (50g)
+Pre-plant incorporation of Fluchloralin (0.5 – 1.0 a.i kg/ha)
+Trifluralin (0.5-0.7%)
+Harvesting:
+• In North India, chickpea duration is 160-170 days. In South India crop comes to harvesting
+within 90-110 days.
+• Crop is harvested when leaf turns to reddish brown and starts leaf shedding.
+• Harvesting is done during morning to avoid shattering of pods.
+• Plants are pulled out or cut with a sickle and carried to threshing floor.
+54
+Threshing:
+• The harvested plants are dried in sun for about a week and then it is threshed under the feet
+of cattle (or) by beating with sticks.
+• Then the grain is collected and it can be used directly (or) crushed.
+Yield: 20-25 q/ha.
+Nipping
+Plucking the apical buds of the crop at about 30 to 40 DAS is done to stop the apical
+growth. It promotes the lateral branching, plants to become more vigorous and produce more
+flowers and pods and yield per plant is increased.
+Lecture No. 22
+SOYBEAN
+Scientific Name: Glycine max
+Family: Fabaceae
+Origin: China
+Area & Production:
+• India’s cultivated area is 10.33 M. ha, production is 10.93 M. tonnes with productivity of
+1058 kg/ ha.(under irrigation), Madhya Pradesh stood top in area of cultivation (5.01 M.ha),
+Production (5.32 M. tonnes) and productivity (1062 kg/ha.) followed by Maharashtra with
+area of cultivation (3.69 M.ha), Production (3.80 M. tonnes) and productivity (1032 kg/ha.)
+• Telangana’s gram cultivated area is 0.15 M. ha, production is 0.25 M. tonnes with
+productivity of 1624 kg/ ha.
+55
+Economic Importance:
+• Soybeans are an important global crop, providing oil and protein
+• It contains about 20 % oil and 43 % high quality protein
+• It contains a good amount of minerals, salts and vitamins (thiamine and riboflavin) and its
+sprouting grains contain a considerable amount of Vitamin C
+• It can be used as fodder, forage can be made into hay, silage etc. Its forage and cake are
+excellent nutritive foods for livestock and poultry.
+• Soybean being the richest, cheapest and easiest source of best quality proteins and fats and
+having a vast multiplicity of uses as food and industrial products is sometimes called as
+wonder crop.
+Climate
+• Basically it is a tropical crop but extends to subtropics and temperate climates.
+• Soybean is short day plant, but response to day length varies with variety and temperature.
+• A temperature of 26.5 to 30°C appears to be optimum for most of the varieties.
+• Optimum day temperature is 15-32oC for higher germination.
+• Maximum flowering occurs at 30oC.
+• Temperature of 18oC or less – there is no pod setting.
+• Temperature below 24oC – delays flowering by 2-3 days.
+• A lower temperature tends to delay the flowering.
+• Average rainfall is 600-650 mm
+Soils
+• Sensitive to water logging especially during early stages .
+• Optimum soil PH range is 6.5-7.5
+• Cannot withstand acidity
+• Prefers sandy soil with more carbon content
+56
+Land Preparation
+One or two deep ploughings followed by two harrowings. later land should be levelled and seed
+should be sown.
+Varieties:
+Varieties Crop duration Yield Characters
+(days) (Q/ac)
+JS 335 90 10-12 Puff (hairs) are absent on pods, seed germination
+capacity is high, pod shedding is low, resistant to
+damping off
+PK 1029 100 10-12 Erect and medium height, fruiting is bunchy type, white
+flowering, resistant to rust disease.
+MACS 450 100 10 Erect and medium height, Puff (hairs) are brown in
+colour on pods
+MACS 58 90-100 8-10 Erect growing up to 65 cm height, pods are in brown in
+colour, pod shedding is low, seeds are attractive pale
+yellow in colour.
+PK 472 100 8-10 Erect and medium height, bunchy type, fruiting pods are
+long erect and pods are brown in colour. Puff is present
+on the pod.
+MACS 124 110-200 8-10 Short duration ,short variety, bunchy type fruiting.
+LSB 1 65 2-7 Suitable for intercropping in cotton and redgram
+Seed rate: 25-30 kg/ acre
+Seed treatment: Seed is to be treated with Thiram (2g) + Carbendazim (1 g) or Thiram (3 g) +
+Imidacloprid (5 g) or Carbosulfan (30 g / 8-10 kg of seed)
+Seed treatment with Rhizobium japanicum will increase the root nodules for nitrogen fixation
+57
+Sowing Season
+Kharif: A rainfed crop is sown from June 15 to July in light soils
+Rabi: Irrigated crop is sown from October
+Summer: Sown in January, and extends upto February
+Spacing : Heavy soils: 45 x 5 cm, Light soils: 30 x 7.5 cm.
+Fertilizer and Nutrient Management
+• For obtaining good yields, should apply 15-20 tonnes of FYM or Compost per ha.
+• But soybean being a legume crop has ability to supply their own N needs provided
+they have been inoculated .
+• Apply 12 kg Nitrogen, 24 kg phosphorus and 16 kg potassium per acre.
+Weed management
+• First 6-7 weeks after seeding is critical period, hence clean cultivation is essential.
+• Since crop is sown in lines/rows, inter-cultivation can be done 2 times, first at 20-30
+DAS, followed by second at 45 DAS along with manual weeding.
+• For wide range of weeds in soybean, foliage herbicides provide excellent weed control
+Pre emergence herbicides: Alachlor (1.5-2.0 lit/ac), Acetachlor (1-1.5lit/ac) Metachlor (1-
+1.5lit/ac) oxyflourfen (0.5-1.0 lt/ac)
+Post emergence herbicides: Quizol fop ethyl (Turgasuper) @400 ml/ac Imazythepyr (250 mg /
+ac) (Pursuit) for broad leaved weeds.
+Water Management
+The soybean crop generally does not require any irrigation during Kharif season.
+However, if there were a long spell of drought at the time of pod filling, one irrigation would be
+desirable. During excessive rains, proper drainage is also equally important. Basically it is a
+rainfed crop, in deep black soils for Kharif and rabi, the crop responds to irrigation in intensive
+cropping system. Flowering and pod development stages are sensitive stages for moisture stress.
+58
+Irrigation in Light soils can be given once in 10-12 days, in heavy soil at an interval of 18-20
+days. Irrigated by check basin or border method, but furrow method is ideal.
+Intercropping
+Soybean + pigeon pea - 7:1 or 5:1
+Soybean + cotton - 2:1or 3:1
+Harvesting
+When plants mature, leaves turn yellow, start dropping, pods dry out quickly. There is a
+rapid loss of moisture from the seed. Harvesting can be done by hand, plants are uprooted or cut
+with sickle above ground level. After cutting, plants are heaped and sun dried for one or two
+days. Threshing is usually done by beating with sticks or using mechanical threshers. Threshed
+produce is winnowed to separate seeds from chaff. Cleaned seed is dried for 1- 2 days. Seed is
+stored in moisture proof bags / seed bins. Seed moisture should be 11% for storage. Germination
+capacity of the seeds for one season only, hence proper care to be taken for storage for the
+purpose of seed sowing. Seeds should be sun dried .
+Lecture No. 23
+BLACKGRAM/ URDBEAN
+Scientific Name: Vigna mungo
+Family: Fabaceae
+Origin: India is considered as primary centre of origin and Central Asia as the secondary centre
+of origin of black gram.
+Area & Production:
+• India’s cultivated area is 47.26 lakh ha, production is 27.51 lakh. tonnes with productivity of
+632 kg/ ha.
+• In our Telangana, black gram cultivated area is 21278 ha, production is 26074 tonnes with
+productivity of 1225 kg/ ha.
+59
+Distribution
+Distribution is comparatively restricted to tropical regions i.e.India, Pakistan, Bangladesh,
+Myanmar, Srilanka. States cultivating Black gram in India are Maharashtra, Andhra Pradesh,
+Tamil Nadu, Uttar Pradesh and Orissa.
+Climate requirement:
+• It is a Tropical crop
+• Tolerates high temp, required annual rainfall is 600-1000 mm to grow this crop.
+• Also cultivated in summer season.
+• Short day plant to day neutral cultivars are available
+• Optimum temperature between 25 & 35°C
+• It can tolerate 42°C temperature.
+Sowing time
+Kharif: June-July
+Rabi: October
+Summer: February-March
+November- December in immediate harvested paddy fields.
+Soils: Ideal soils with well drained loam or sandy loam.
+Seed rate:
+Kharif – 15-18 kg/ha.
+Rabi - 18-20 kg/ha
+Spacing: Dibbling – 30x10cm.On wet land, dibble at 30cm spacing.
+Seed Treatment: Treat 1 kg seed with 30 grams Carbosulfan, 25 grams Thiram
+Fertilizer application:
+Rainfed: 12.5 kg N + 25 kg P2O5/ha
+Irrigated: 25 kg N + 50 kg P2O5/ha.
+Foliar spray of DAP and NAA (rice follows)
+• Spray 2% DAP at the time of first appearance of flower and 15 days later.
+• Spray 40ppm NAA-at the time of first flowering and 15 days later.
+60
+Irrigation:
+1. Irrigate immediately after sowing followed by life saving irrigation on third day.
+2. Irrigate at interval of 10-15 day depending on soil moisture.
+3. Flowering and pod formation are critical period for irrigation.
+4. Avoid water stagnation at all stages.
+5. Apply KCl as 0.5% foliar spray during vegetative stage if there is moisture stress.
+Weed management: Spray Fluchloralin (Basalin) 45% EC @ 1.5 lit/ha mix in 200 lit of water
+and incorporated in the soil as Pre plant incorporation
+Pendimethalin (Stomp) 2 lit/ha as pre-emergence 3 DAS followed by one hand weeding 30 DAS.
+Harvesting & threshing:
+Crop comes to maturity at 80-95 DAS. Upon ripening, black gram pods turn from green
+to yellow and then to black. In case of irrigated crop, ripened pods can be collected in one or two
+pickings. If plants come to harvest evenly , then plants are cut and spread on threshing floor to
+dry. The plants will dry and become black and pods start splitting. The plants are then beaten
+using sticks and separate seeds from pods followed by winnowing to remove debris.
+Yield:
+Rainfed: 600 -700 kg/ha
+Irrigated: 1000-1300 kg/ha.
+Rice follows: 500 kg/ha.
+Varieties:
+Varieties Crop duration Yield Characters
+(days) (Q/acre)
+LBG 20 70-75 5.6-6.4 Polish type, Puff (hairs) are absent on pods,
+Teja resistant to yellow mosaic virus
+T -9 70-75 4-4.8 Puff (hairs) are absent on pods, resistant to
+yellow mosaic virus.
+LBG-623 75-80 6-6.8 Polish type, seed size is bold, resistant to sooty
+mould.
+WRG-26 70-75 4-4.8 Puff (hairs) are absent on pods, bushy type,
+fruiting at the base of the crop and it will be
+61
+covered with leafs, resistant to yellow mosaic
+virus.
+PBG-1 70-75 4-4.8 General type, Puff (hairs) are absent on pods,
+resistant to yellow mosaic virus
+Lecture No. 24
+GREENGRAM
+Scientific Name:Vigna radiata
+Family: Leguminoseae
+Common Indian Name: Mung, Mung bean,Golden gram
+Green gram is the third most important pulse crop of India after chick pea and pigeon pea.
+The protein content in Green gram is 24 percent.
+• India’s cultivated area is 38.32 lakh. ha, production is 17.84 lakh. tonnes with productivity
+of 488 kg/ ha.
+• Telangana cultivation of green gram is 0.16 M. ha, production is 0.53 lakh tones with 812
+kg/ ha.
+Economic importance:
+• Pods are used as vegetables.
+• It is highly digestible pulse crop than any other pulse crop having 25% proteins.
+• The husk and haulms are used as good fodder for cattle.
+• The left over seed coat i.e testa is also used for milch cattle.
+62
+• Due to its shorter duration, it can be fit well in several multiple cropping systems.
+• It is also grown as a green manure crop.
+• Inclusion of green gram in cropping systems improves soil health and fertility.
+• Being a close growing crop, it helps in reducing soil erosion and also checks weed growth.
+• Being a legume crop, it fixes biological nitrogen.
+• Sprouted seeds contain Ascorbic acid, Riboflavin acid and Thiamine, which are good for
+health
+Origin and distribution:
+• The origin of greengram is India
+• Greengram is widely cultivated throughout Southern Asia. Myanmar, Pakisthan, Thailand,
+Srilanka. Indonesia and China are the principal countries of greengram cultivation.
+Climate:
+Green gram is a tropical pulse crop largely grown under semi arid and subtropical
+environment. It is well suited for all rainfed areas with Annual rainfall of 600-1000mm. It can
+tolerate high temperatures up to 40oC. It is hardiest among all the pulses
+Soils:
+• Green gram is cultivated on a wide range of soils from sandy loams to black cotton soils.
+• In North India, the crop is cultivated on well drained loamy soils where as in South India, it
+is cultivated on red soils.
+• The crop doesn’t withstand water logging.
+• Optimum soil pH: 6.5-7.5.
+• Fairly tolerant to soil salinity.
+Preparation of land:
+There is no need for a fine seed bed preparation. 1 or 2 ploughings followed by
+harrowing is adequate for a kharif crop. Green gram is cultivated on deep soils during Rabi on
+Kharif fallow soils. There is no tillage for rice fallow (Relay Crop) as the seed is broad casted in
+standing crop of Rice about a week before its harvest.
+Sowing time
+Kharif: 15-June to 15 July
+Rabi: 15- September to 15 October
+63
+Seed Rate:
+Sole Crop: Kharif 6-6.4 Kg/ac
+Green manure: 25-30 Kg/ha
+Summer Crop: 6.4-7.2 Kg/ac
+Rice fallow pulse crop: 12-14 Kg/ac
+Seed treatment: Seed should be treated with 30 grams Carbosulfan per kg seed
+Method of sowing:
+For Relay Crop: Broad casting
+For direct sown crop: Drilling in rows (or) furrows behind a plough.
+Spacing: 30X10 cm
+Fertilizers
+Rhizobium inoculations considerably minimize the need for nitrogen fertilizer application.
+Rainfed Crop: 10 kgN/ha (Starter dose (or) booster dose) & 30 P O Kg/ha (Basal)
+2 5
+Irrigated Crop: 20 kg N (Starter dose) & 40 P O Kg/ha (Basal).
+2 5
+Water management:
+• For Kharif crop, irrigation is not required but winter & summer crop require 2-3 irrigations.
+• Rice fallow green gram crop is not irrigated
+• Critical stages: Flower initiation (35 DAS) and Pod filling (55 DAS)
+• Total water requirement: 300 – 400mm
+• Water logging at flowering & pod filling reduce the yield up to 75% and more.
+Weed Management:
+• Critical Period for weed competition is up to 35 DAS
+• Herbicide recommended is Fluchloralin (Basalin) @ 1.5 Kg a.i/ha
+• Spray Pendimethalin 30% (stomp) 1.6 lit mix in 200 lit of water immediately or 1 DAS can
+control the weeds.
+• Intercultural operation with gorru at 20-25 DAS.
+Intercropping
+• Green gram can be grown as inter crop in cotton and red gram.
+• Green Gram+Cotton/ Rabi Red Gram- 3:1, Green Gram + Redgram - 7:1
+64
+• Suitable green gram varieties for intercropping are LGG-460, LGG-450, MGG-295, WGG-
+2,WGG-37 and ML-267
+Harvesting: For kharif crop, the harvesting is done by picking the pods. For Rabi &Summer
+crops, harvesting is done by cutting the whole plant to the base.
+Threshing and processing:
+The produce is cleaned and sun dried to about 12 percent moisture content and then
+stored. Green gram is primary consumed in the form of Dal. Green pods are also used as
+vegetables. Sprouted seed is consumed as salads. Dry seed is boiled and used in soups, made into
+porridge with rice and wheat. Starch is used in making noodles.
+Varieties:
+AICRP Centre: RARS, Lam
+Non-Plan Centre: ARS, Madhira
+Varieties released from A.P:
+Varieties Crop Yield Characters
+duration (Q/ac)
+(days)
+LGG 407 70-75 5.6-6.4 Resistant to yellow mosaic virus and leaf spot,
+somewhat drought resistant. Erect growing and
+fruiting on the top.
+LGG 410 70-75 5.6-6.4 Erect growing and bushy type. Resistant to yellow
+mosaic virus resistant. Entire crop matures at a time.
+LGG 450 65-70 5.2-6 Plant will grow to medium height with bushy
+Pushkara appearance. Pods and grains will not damaged to
+sudden rains at harvesting stage.
+MGG 295 60-65 5.2-6 Resistant to yellow mosaic virus and leaf spot,
+somewhat drought resistant. Erect growing and
+fruiting on the top, seed is medium sized.
+65
+WGG 37 60-65 4.8-5.6 Seeds are attractive green in colour, resistant to
+yellow mosaic virus. Suitable for all seasons.
+WGG 2 65-70 4.8-5.6 Erect and bunchy type, seeds are attractive and bushy
+type, resistant to leaf spot.
+LGG 460 60-65 4.8-6 Resistant to yellow mosaic virus and shoot rot,
+somewhat drought resistant. Erect growing and
+fruiting on the top.
+ML-2056 75 4.5 Suitable for Kharif season. Plants are of medium
+height. Each pod contains 11-12 seeds. It is tolerant
+to yellow mosaic and cercospora as well as bacterial
+leaf spots. Also it is tolerant to sucking pest like
+jassid and white fly.
+PS 16 60 3.2-4 Entire crop matures at a time, Suitable to all areas in
+the state
+Pusa 150 65-70 4.8-6 Suitable for all regions in the state Bushy type,
+occupies larger area, long pods and bunchy fruiting,
+seeds are medium sized. Entire crop matures at a
+time, susceptible to yellow mosaic virus, leaf spot
+K 851 60 4-4.8 Bushy type, long pods and bunchy fruiting, seeds are
+medium sized attractive. Entire crop matures at a
+time, susceptible to yellow mosaic virus, leaf spot
+and powdery mildew
+MGG 348 65 4-5 Short plant type, suitable for intercropping.
+Kharif: LGG450, LGG 407,LGG 460,WGG 37, MGG 295,M2 267,Pusa 105, MGG 347, MGG
+348,PDM 54.
+Rabi: Lam M2,LGG 460, LGG 410, Pusa 105,LGG 407, MGG 295, WGG 37, TM96-2
+Summer & Spring Season: Pusa Baisakhi and Co-4
+Rice fallows: LGG 410
+Tolerant to high temperature: Padma, Sunaina & Co-4
+66
+Early maturing (60-65 day): Pusa Baisakhi, K851,PS16,Padma, Sunaina & Co-4, Pusa Bold
+(Vishal), COGG 912
+First mung variety released in Orissa during 1980: Dhuli
+First Mung been variety released in India during 1948: T1.
+Resistant Varieties:
+Yellow Mosaic virus: LGG 407,LGG 460,WGG 2,WGG37,PDM 54,ML 267,
+Leaf Curl: LGG 460, MGG 295
+Angular Black Leaf Spot: LGG 407, WGG 2
+Powdery Mildew: TM 96-2, TARM 1
+Lecture No. 25
+HORSEGRAM
+Scientific Name:Dolichos biflorus (or) Macrotyloma uniflorum
+Family: Fabaceae
+Origin: India
+Other names: Rabi pulse crop, poorman’s pulse crop, test crop for drought, crop of virgin soils.
+Area, Production and Productivity:
+Horse gram is cultivated over an area of 1.7 million hectares with an estimated
+production of 0.58 million tonnes of grain in India. The largest area under this crop (0.56m.ha) is
+in Karnataka. It is extensively grown in Karnataka, Andhra Pradesh, Tamilnadu, Madhya
+Pradesh , parts of Maharashtra.
+In our Telangana black gram cultivated area is 1030 ha, production is 910 tonnes with
+productivity of 882 kg/ ha.
+Economic importance: It is consumed as a whole seed, as sprouts, or as whole meal in India,
+popular in many parts of India and also used as concentrated feed for cattle
+Climate: It can be invariably grown as rainfed crop in areas of low rainfall.
+67
+Soils: It can be grown in wide range of soils, mostly on poor lateritic soils and also grown in red
+and black soils.
+Season: It is grown mainly in August-November
+In summer- February
+Spacing: Short duration: 30x10cm, Long duration: 45x10cm.
+Seed rate:
+15-16 kg/ ha for kharif crop
+30-35 kg/ha in rice fallow horsegram
+16-18 kg/ha as summer crop.
+Fertilizers: The crop normally receives no fertilizers. A basal dose of 10kg N, 25kgP O , 20kg
+2 5
+K O/ ha are recommended.
+2
+Irrigation: This crop does not require much irrigation as it is grown as rainfed crop irrigation is
+essential at flowering and pod formation stage.
+Weed control: Weeding should be done 25-30 days after sowing. Application of pendimethalin
+@0.75kg/ha as pre emergence herbicide.
+Cropping systems:
+Crop rotation: Groundnut – Horsegram
+Sesame – Horsegram
+Mesta – Horsegram
+Upland paddy – Horsegram
+Inter cropping: Ragi + Horsegram
+Maize + Horsegram
+Niger + Horsegram
+Harvesting and storage
+Harvesting is done by pickings in the indeterminate types and cut the entire plant in
+determinate type. Threshing done with the help of sticks to separate seed. Then the seeds are
+stored in gunny bags. Protect the seed from stored grain pests by treating with edible oil.
+68
+Lecture No. 26
+COWPEA
+Scientific Name: Vigna ungiculata
+Family: Fabaceae
+Origin: Central Africa (or) India
+Other names: Black eyed pea, southern pea, china pea, Marble pea.
+It is also called as weed smothering crop.
+Area and production:
+Major area lies in Africa and few countries of Asia, America, Australia and Europe.
+Highest cowpea production nations are Nigeria, India, Brazil. In India. Cowpea is grown in about
+0.5 million ha with an average productivity of 600-750kg /ha. Major states growing cowpea are
+Maharashtra, Karnataka, Tamil Nadu, Madhya Pradesh, Rajasthan, Andhra Pradesh.
+Economic Importance:
+• It can be used as pulse, fodder, green manure crop
+• Feeding and forage value of cowpea is very high compared to other legumes.
+• Crop gives heavy vegetative growth and covers ground very quickly thus it checks weed
+growth.
+• It is a erosion resistant crop
+• It is an important alternate pulse crop on dryland areas.
+• Cowpea seeds are highly nutritious with high protein (23-24%), carbohydrates, minerals and
+vitamins.
+• Nutritive value :Protein - 22-24% ,Carbohydrate - 55-66 %, Iron - 0.005% ,Calcium - 0.08 –
+0.11 % .Essential amino acids -lysine, leucine and phenylalanine
+69
+Climate Condition:
+• Cowpea is warm weather and semi arid crop, where temperature is ranging from 20O C to
+30O C.
+• Minimum temperature for seed establishment is 20O C and above 32O C temperature
+development of root ceases. For maximum production, day temperature of 27O C and night
+temperature of 22O C is required.
+• It is sensitive to cold and below 15O C temperature the yield is adversely affected. It can
+grow under shade of tree but cannot tolerate cold or frost.
+• It can tolerate heat and dry weather and grown at low rainfall of 300-400mm (drought
+resistant)
+Soil Type & Field Preparation
+Well drained loam or slightly heavy soil are best suited. In colder climate, somewhat sandy soil
+is preferred as crop matures earlier in them. It can grow successfully in acidic soil but not in
+saline/ alkaline soil. In hard soil, one deep ploughing followed by two or three harrowing and
+planking are sufficient. In normal soil, only two harrowing & planking is enough. For summer
+season crop give a irrigation immediately after harvesting of Rabi crop.
+Varieties: Pusa 152, Pusa Sawani, Amba(V-16), PTB1 (Kanakamani), PTB 2 (Krishnamani)
+Latest varieties – Anaswara, Varun, Pusa Phalguni,P-118, Paiyur 1, Pusa Dofasali, Pusa
+Barsathi, Russian Gaint, Pusa Barsati (Cowpea fodder), Pusa Baisakhi.
+Sowing Time
+Kharif- With onset of monsoon from early June to end of July, Rabi- October- November
+(southern India), Summer - 2nd to 4th week of March (grain), February (Fodder), Hills: April-
+May, Green manure- Mid June to 1st week of July
+Seed Rate
+For pure crop: 20-25 Kg/ ha (grain), for fodder and Green Manure-30-35 kg./ha. During summer
+30 kg/ha for grain and 4kg/ha for fodder and green manure.
+70
+Seed Treatment
+Treat the seed with Thiram (2gm.) +Carbendazim (1gm.). It is also desirable to treat the seed
+with Rhizobium culture @10g/kg seed.
+Spacing: Row to row—30(Bushy) to 45 cm (spreading), Plant to Plant-10 (Bushy) to 15
+cm (spreading)
+Manure & Fertilizer
+Apply FYM/compost- 5-10 t/ha as basal in last ploughing. 15-20 kg N/ ha as starter dose in poor
+soils (organic carbon<0.5%), 50-60 kg/ha P2O5 and 50-60 kgK2O/ha. Phosphorus and Potassic
+fertilizer should be given according to soil test value.
+Micro Nutrients
+1. Zinc- Quantity of Zinc requirement is determined according to the soil type & it’s availability
+or status in the soil. Therefore, the doses of zinc should be applied based on the soil type as
+follows:
+Red sandy and loamy soils -2.5 kg Zn ha-1(12.5 kg zinc sulphate heptahydrate/ 7.5 kg zinc
+sulphate monohydrate) per hectare.
+Black soils -1.5 to 2.0 kg Zn ha-1(7.5 to 10 kg zinc sulphate heptahydrate/ 4.5 to 6.0 kg zinc
+sulphate monohydrate) per hectare.
+Laterite, medium and alluvial soils -2.5 kg Zn ha-1(12.5 kg zinc sulphate heptahydrate/ 7.5 kg
+zinc sulphate monohydrate) as basal along with 200 kg of farm yard manure.
+Low organic carbon content and hilly sandy loam soil -2.5 kg Zn ha-1(12.5 kg zinc sulphate
+heptahydrate/ 7.5 kg zinc sulphate monohydrate) as basal in every alternate year.
+2. Molybdenum - In clay loam soils, apply 0.25 kg Ammonium Molybdate ha-1as basal.
+Water Management
+For summer crop, irrigation is most critical among all inputs followed by weeding and fertilizer.
+Generally, crop requires 5-6 irrigations depending on soil, prevailing weather conditions etc, at
+an interval of 10-15 days. The response to irrigation is in order of flowering> pod
+filling>vegetative.
+Crop can tolerate flooding up to 2 days at flowering and pod setting thereafter, a marked
+decrease in yield and its attributes is noticed.
+71
+Weed management:
+Unrestricted weed competition reduces cowpea yield to extent of 70-90%
+• Presence of weeds throughout season causes 75% yield loss.
+• For higher yield, crop should be free from weeds up to 25 to 30 day crop stage. Application
+of Pendimethalin @ 0.75 - 1 kg.a.i./ha combined with one hand weeding at 35 days after
+sowing is beneficial.
+Cropping systems:
+Inter-cropping: Sorghum + cowpea
+Maize + cowpea
+Pearlmillet + cowpea
+Pigeonpea + cowpea
+Cropping sequence:
+Rice-wheat – cowpea
+Pigeonpea-wheat – cowpea
+Sorghum + Pigeonpea – cowpea
+Cowpea-wheat – Greengram
+Cowpea-cotton – wheat
+Harvesting and post harvest care
+Varieties exhibiting synchronous maturity, harvesting is done by uprooting or cutting entire plant
+at ground level when plant shows 90% maturity. Harvested produce is sundried on threshing
+yard and threshed by trampling either by animals or tractor and winnowed. If the varieties does
+not have synchronous maturity, pods have to be harvested manually.
+Yield: Fodder yield – 14t/ha.
+Grain yield – 3-4q/ha.
+72
+Lecture No. 27
+FORAGE CROPS
+Importance of Forage crops
+• Live stock production is an integral part of Indian agriculture.
+• India ranks first in live stock production and accounts for 15% of cattle production in the
+world.
+• States with largest acreage under cultivated fodders are Rajasthan, Gujarat, Haryana, Punjab,
+U.P., M.P., Maharashtra and Tamil Nadu.
+• Total area under forage crops in India is 8.3 m.ha which is 4.2 to 4.9% of total cropped area.
+• There is a need to improve the fodder acreage up to 8 to 10% of total cropped area to meet
+the deficit of green fodder for sustained live stock production in India which is considered as
+an important avocation of rural areas in India .
+Characteristic Features of Forage/ fodder Crops or ideal characters of forage /fodder crops
+1. It should be succulent and juicy and easy palatable.
+2. It should have more number of leaves i.e., high leaf-stem ratio, less shattering of leaves.
+3. It should contain high amount of carbohydrates or proteins.
+4. Resistance to pests and diseases.
+5. It should have regeneration (ratooning) capacity.
+6. It should have quick growth and smother weeds.
+7. More number of tillers and fine stem.
+8. Should be photo insensitive and give more number of cuts.
+9. Should have shorter life cycle so that it can fit in cropping systems.
+10. It should tolerate shade, drought resistant so best suited for agri-silvi pastoral conditions.
+11. Should be suited to different soil classes from III to VII.
+12. It should be free from hairs and thorns.
+73
+HYBRID BAJRA NAPIER
+Scientific Name: Pennisetum purpureum
+Common Name: Giant Napier /Pusa giant napier / Gajraj / Giant Elephant grass
+Climate:
+• It is cultivated in areas receiving more than >1000 mm rainfall.
+• It can withstand drought and recover the growth quickly with the onset of monsoons.
+• Optimum temperature is around 24-28oc.It can tolerate low air temperatures but less than
+10oc makes the crop remain dormant.
+• It is sensitive to frost. Even a light frost kills the crop but the underground rhizomes will
+sprout again when the temperature rises.
+• It performs better under long day than short day photoperiods.
+Soil: Sandy loam or clay loams are the best suitable. pH range is 6.5 – 8.0. In sandy soils, its
+vigour is low and yield is reduced. It cannot withstand flooded or water stagnated condition. It
+should be grown in well-drained soils with good moisture retention capacity. It comes up well in
+saline sodic soils better than guinea grass.
+Season: It can be grown during any part of the year provided sufficient water is provided.
+Optimum time of planting during Kharif and summer is June-July and January-February
+respectively. Winter sowing is not recommended due to low temperatures.
+Method of sowing: The seed of hybrid Napier is sterile. Therefore hybrid bajra Napieris
+multiplied only through stem cuttings or rooted slips. The stem cuttings are obtained from
+clumps grown upto 2.5 to 2 m ht. Top ¼ is removed and remaining 3/4th is used. Rooted slips
+are obtained from clumps, which are 1 m width.
+Stem cuttings: Stem cuttings can be stored for about 20 days for planting by covering with moist
+gunny bag but in sub tropics, with cold weather, they can be stored during the entire winter
+season.
+45°angle method: Stem cuttings are obtained from basal 3/4th portion of the plant. Each stem
+cutting with 2 nodes measures about 30-40 cm inserted in the soil in a slanting position at 45°
+angle. One bud should be inside the soil and one bud should be exposed over the soil surface.
+Buds inside the soil develop roots and, the bud over the soil produce shoots.
+74
+End to End Method: 2 budded or 3 budded sets are placed in the furrow such that eyes on the
+node are exposed to the sides of the furrows and then cover with soil. Then irrigation is given.
+Rooted slips: Break up the old clumps and separate the tillers along with their roots. Each slip
+should consist of 1-2 tillers measuring 10-12 cm height. Dig a small hole in the furrow and insert
+the roots into these holes. Propagation by this method is best in Summer Season. The stem
+cuttings are likely to dry up due to desiccating winds and hot summer.
+Land preparation: It needs thorough land preparation. plough the field 4-6 times followed by
+harrowing. Then made into ridges and furrows.
+Varieties:
+In India, first hybrid developed is NB-21.
+CO 1: It is profusely tillering, highly leafy, tall growing and non-lodging, yields300 t/ha.
+CO 3: It is tall growing, highly tillering and non-lodging with low oxalic acid and crude fiber
+content. Yield 300-350 t/ha.
+APBN 1:Released during 1998 by AICRP on Forage Crops, L.R.S., ANGRAU. It is tall growing
+highly tillering, more leafiness (high L:S ratio) with low oxalic acid content. It is found to be
+drought resistant and adopted for cultivation.
+IGFRI No.3: It is a profusely tillering type with erect growth habit. It is good for intercropping
+and has the capacity to yield 100-150 t /ha green fodder per year. It is suitable for NE hills, U.P.,
+M.P. hills of N. India.
+IGFRI No.7: Suitable for temperate zone of the country. It is an erect growing and leafy variety
+with high regenerative capacity. 120-150 t/ha. It may be grown under acidic conditions.
+IGFRI No.10:It can be grown throughout the country. It is also erect growing, leafy and multi-
+cut variety. It produces 100-160 t/ha green fodder per year. The variety is also suitable for acidic
+soils and sub-temperate situations
+75
+Seed rate: 80,000 rooted slips or stem cuttings/ha. Spacing is 60 x60cm.
+Spacing 90x90cm in inter cropping with cowpea in kharif and lucerne in Rabi.
+Irrigate the field through furrows and plant the one rooted slip or stem cutting per hole at a depth
+of 3-5cm on one side of the ridge
+Fertilizers:
+Being a heavy feeder this hybrid should be applied 25t/ha FYM orcompost.50kg/ha of
+nitrogen,50kg/ha of phosphorus and 40kg/ha of potassium. Band application of the fertilizer
+mixture prior to the planting is preferred. For this open furrows 5cm deep on the one side of the
+ridge, apply fertilizer mixture and cover with soil. Repeat the basal application once in year for
+the sustained higher yields. Top dress with 100 kgN/ha after each cut.
+Weeding and intercultural operations
+Hand weeding or hoeing and weeding should be followed on the 30th day. Gap fill to maintain
+population. Subsequent weeding may be carried out preferably after each harvest. Earth up once
+after three cuts and removal of dried tillers is recommended.
+Irrigation
+Irrigate immediately after sowing and give light irrigation on the 3rdday after sowing and
+thereafter can be irrigated at 10-15 days interval depending upon the requirements of crop.
+Harvesting
+When cutting the crop for forage, a fairly long stubble of 13-15cm has to be left to avoid
+damaging the growing point near the base of the plant. First cut at 70-90 days after planting and
+subsequent cuts once in 45 days. In case of sewage or high N containing effluents irrigation, the
+harvest interval may be increased to 55-60 days to minimize the nitrate/oxalate problem.
+Yield: Green fodder yield is about 250-300 t/ha in 6-8 cuttings in one year.
+76
+Lecture No. 28
+PARAGRASS
+Scientific Name: Brachiaria mutica
+Family:Poaceae
+Common name: Water grass, Buffalo grass, Mauritius grass, Angola grass,
+California grass
+Origin and Distribution:
+Though it is a native of tropical Africa and tropical south America (Brazil), it is widely distributed as
+a fodder grass in tropical and subtropical areas of the world. It grows well on moist soils (a water
+loving grass) and withstands prolonged flooding or water logging, but makes little growth during dry
+weather. More suited for water inundated condition and sewage farms. It can be used for green
+soiling, hay and should be grazed rotationally as it will not withstand heavy grazing.
+Climate and soil:
+Grows well in areas with Rainfall 1000-1500 mm. with optimum temperature around 15-38ºC. Can
+tolerate water logging and most suitable for marshy areas. Comes up well in sewage water. But
+sensitive to cold and frost. Semi-aquatic grass grows well in rice growing areas of world. Highly
+tolerant to saline and sodic soil and used for reclamation of saline soils than any other grass.
+Season:
+In irrigated condition, throughout the year it can be sown and suitable time for kharif is June - July or
+the onset of spring. In rabi conditions growth is very poor. Summer: February- March, as it is water
+loving crop. summer crop cultivation is rare phenomenon.
+Seeds & sowing:
+Propagated by seed, rooted slips and runners/ stem cuttings. Seed setting is poor and has dormancy.
+So mostly propagated by rooted slips and runners. In summer, rooted slips are safer than runners.
+Seed rate: 2.5-3.0 kg/ha. Transplanting method- 40,000-50,000 rooted slips/ha or 2-4 q/ha planting
+material is required.
+Spacing is 35cm × 35cm. Planting should be done at a depth of 3cm on the side of the ridge.
+77
+Land preparation: It needs thorough land preparation. plough the field 4-6 times followed by
+harrowing. Then made into ridges and furrows.
+Manures & Fertilizers:
+Apply 25 t/ha of FYM or compost after the second ploughing. There commended nitrogen (50kg/ha),
+phosphorus (50kg/ha) and potassium (30kg/ha) should be applied in band prior to the sowing. Top
+dressing of nitrogen 20kg/ha after each harvest.
+Weeding:
+Hand weeding or hoeing and weeding on the 30th day should be practiced. Gap fill to maintain
+population. Subsequent weeding may be carried out preferably after each harvest. Earth up once after
+three cuts and removal of dried tillers simultaneously.
+Irrigation:
+Irrigate immediately after sowing and give light irrigation on the 3rd day and thereafter can be
+irrigated as and when depending upon the requirement of crop.
+Harvesting and yield:
+The crop is ready for the first cut in the three months after the planting and subsequent cutting can be
+taken at an interval of 30-35days. Para grass is reported to have yielded 150-200 t/ha in 10-12
+cuttings/year.
+Lecture No. 29
+GUINEA GRASS
+Scientific Name: Panicum maximum
+Family:Poaceae
+Origin and Distribution :
+This grass is native of tropical Africa. Introduced in our country in 1798. It is one of the oldest
+introduced grass in our country.
+78
+Climate and soils:
+The grass thrives best in warm moist climates with annual rainfall of 600-1000 mm. Tolerates
+drought fairly but susceptible to frost. Frost burns the plant tips and leaves rapidly loose their
+succulence and stems become hard and dry. Optimum temperature is 15-380C.Best grass which suits
+under orchards or forestry trees because of shade tolerance ability. Adopted to wide range of soils
+except water logging and acidity, can tolerate medium salinity. Fertile or well drained medium loamy
+soils are most suitable. Can be grown along the field bunds and sides of irrigation channels to prevent
+erosion.
+Season:
+In South India , under irrigation all months are suitable except in Dec-Jan. Under rainfed condition it
+is sown during June-August. In North India, Mid Feb-August is favourable under irrigated
+conditions.
+Seeds & sowing:
+Propagated by seed, rooted slips and stem cuttings. In summer, Root stocks are safer than stem
+cuttings. 5-6.25 kg/ha seeds may be broad casted in the nursery bed and 40000 seedlings transplanted
+in the field with the onset of the monsoon. Plant the rooted slips to a depth of 3cm on the side of the
+ridge or sow the seeds on the marked lines or raise seed in nursery and transplant 20-25 days after
+germination.
+Land preparation:
+The land is prepared by giving 1-2 ploughings, followed by 3 to 4 harrowings.
+Varieties:
+The following are some of the commercial varieties of large or medium types.
+1) Queensland common: East African Origin. It is a well-tillered bunchy type grows to 150 cm
+height. Stem nodes are hairy and finer leaf sheath and blades.
+2) Riverdale: is a selection from 9 C made by South Johnstone Research Station at Riverdale.
+3) Makueni: Drought resistant one. Grows to a height of 1 m in height and light green in colour.
+4) Gatton panic : is a medium type variety. Easily distinguished from Queens land guinea, as the
+stem nodes are smooth. Resistant to grazing and creates less management problems.
+79
+5) Hamil: very tall variety of guinea grass. Robust, smooth, erect that grows from3 to 3.5 m height.
+Foliage is dark green than Riverdale and Makueni and stem nodes are free of exposed hairs. Well
+accepted by animals.
+6) Colonial guinea: Very palatable type but less productive than other guinea grass varieties. Very
+tall variety growing up to 3 m. Practically hairless and thick fleshy stems. Well accepted by cattle.
+The foliage is blue green and flowers later, than other varieties due to long growing season. Very
+drought resistant.
+Small types: Green panic or slender guinea var. (trichoglume). This is a French grass has an
+ascending habit crown expanding by short horizontal stems. It shows drought resistance and survives
+well in situations where Rhodes grass dries out completely. Leaves are fine and soft and stems are
+slender. Has a good (unique) regenerative capacity and most responsive to improved fertility.
+Spacing: 50 x 50 cm.
+Fertilizers:
+The grass responds well to manuring. To ensure high yields, a basal dose of FYM 10-15 t /ha or
+compost after the second ploughing should be incorporated. There commended doses of nitrogen
+50kg/ha, phosphorus 50kg/ha and potassium 40kg/ha should be applied in band prior to the sowing.
+Repeat the basal application once in a year for sustained higher yields. Top dressing of nitrogen @
+25kg/ha after each cut.
+Irrigation:
+Irrigate immediately after sowing and give light irrigation on the 3rd day and thereafter can be
+irrigated at 10-15 days interval.
+Harvesting &Yield:
+The first cut can be taken in 50days after planting. After first cut each cutting with 40 days interval.
+The average production is about 200-250t/ha/yr in 7-8 cuttings. The yield however, declines with age
+and it is advisable to replant the field with fresh slips every fifth year. Planting can be done in the
+standing field of guinea grass in between the rows and the old plants removed after the new plants
+get established. The fodder supply can be maintained at an uniform level.
+80
+Lecture No. 30
+LUCERNE
+Scientific Name: Medicago sativa
+Family: Fabaceae
+Common name: Alfalfa/ snail clover/Chilean clover
+It is regarded as QUEEN OF FORAGE crops.
+Also called as GREEN GOLD of forage crops.
+Alfalfa is an Arabic word means ‘the best’
+This crop contains 18-20%proteins, high content of amino acids, Ca and vitamins.
+Climate:
+Comes up well in tropics, sub tropics and temperate regions up to 2400m above MSL. Temperature
+in the range of 15-25oC- day time,10-20oC -night time, 20-30oC is required for seed set and 15-20oC
+is optimum for vegetative growth.
+Soils:
+Well drained deep loamy soils rich in lime, N, P, K with pH 5.5-8.5 are optimum. Do not perform
+well on sandy soils. Can tolerate drought but not water stagnation and high humidity. Remains
+dormant under conditions of drought and resume the growth with the availability of water in the soil.
+Acidic soils are not suitable. Root growth is stunted due to less concentration of Ca, S and Mg, can
+thrive on alkaline soils two.
+Season:
+It is a rabi season crop. Sowings are taken up during the months of October &November depending
+upon the prevailing temperatures.
+Seeds & sowing:
+Seed rate: for forage 15 kg/ha, for seed purpose 7.5kg/ha in line sowing would be sufficient.
+Spacing: crop is sown 25-30 cm apart in solid rows.
+81
+Seed treatment: Seed should be treated with 10% brine (salt) solution to remove the seeds and inert
+material. Scarified against hard surfaces to soften the seed coat for better germination. Seed is soaked
+in water for 10-12 hrs or soak in diluted H SO for2-3 minutes and then rinse with water 4-5 times
+2 4
+and cooling to the room temperature. Then mix with 1.25 kg Rhizobium. Seed should be treated with
+recommended rhizobium culture for nitrogen fixation if it is sown for first time in the field.
+Land preparation:
+One MB ploughing followed by 4-5 harrowing to make a fine tilth. Field is made in to rectangular
+sized plots for proper irrigation and better drainage.
+Varieties:
+Annual varieties: Anand-1,2, LLC-3, RCL-87-1 & LLC -5.
+Perennial: CO-1, T-9 or Sirsa-9, Sirsa-8, RL-88, Sri ganga sagar, IGFRI-S-244(chetak), alamdar-1 &
+IGFRI –S-54, Anand-3.
+Manures and Fertilizers:
+Lucerne responds well to manuring which needs about 25 t FYM /ha, 20-25 kg N,120 kg P O , 40 kg
+2 5
+K 0 /ha. P is applied as SSP and K as MOP.½ N, entire P and K as basal and ½ N at 30 DAS.
+2
+Weeding:
+Requires thorough weeding in the initial stages. Cuscuta is a complete stem parasite. Remedy is to
+uproot the plants along with host plants and burning. Do not allow the weed to set seed. The seed will
+live in the soil for a long time. Cultivation of Lucerne should be avoided in fields once infested with
+cuscuta at least for 3 years.
+Chemical treatment: 5 ml/ lit water of Pendimethalin as pre emergence herbicide orimazethpyr 2 ml/
+lit. of water as early post emergence (10-12 days).
+Irrigation: Water requirement is quite high. Initially at weekly interval, then at 10-12days interval.
+Crop requires 10-15 irrigations in a year.
+Harvesting & Yield:
+The first cut at 55-60 DAS or at 50% flowering stage. Subsequent cuts at 25-30 days interval.
+Yielding about 75-88 t/ha in 8-10 cuttings per year.
+82
+Lecture No. 31
+BERSEEM
+Scientific Name: Trifolium alexandrinum
+Family: Fabaceae
+Common name: Egyptian clover
+Origin and distribution
+Berseem is believed to be indigenous to Egypt. It is introduced in India from Egypt in1904 and tried
+at various centres for its performance, by 1916it was recognized as a widely adaptable and valuable
+addition to the forage crops of India. Now it is the prominent fodder legume in irrigated areas of
+Punjab, Delhi, Rajasthan and UttarPradesh
+Climate
+Grows in tropics, subtropics and temperate regions. Temperature range is 25-35°Coptimum for
+seedling growth. 15-20°C optimum for vegetative growth and branching.35-37°C optimum for
+flowering and seed setting. It cannot tolerate frost and temperature below 4-5 °C.
+Soils: Well drained deep loamy soils rich in lime, P, K with pH 5.5-8.5 are recommended. Do not
+perform well on sandy soils, water logging and acidic soils. Can tolerate salinity, alkalinity and is
+thus useful for reclaiming brackish and alkaline lands.
+Season:
+It is a rabi season crop. October to November sowings are adopted depending on prevailing
+temperatures and previous kharif crop.
+Methods of sowing: Can be sown dry or wet. The land is divided into small plots of convenient size,
+irrigate the plots to a depth of 5 cm. soak the seed in water over night and broadcast it in the standing
+water.
+Spacing: Inter row spacing of 25-30 cm is adopted in solid rows. If seed production is taken intra
+rows spacing of 10 cm is maintained.
+83
+Land preparation: One MB ploughing followed by 4-5 harrowing are required to make a fine tilth.
+Fine seed bed is prepared since the seed is small.
+Cultivar groups:
+1.Mescavi: varieties under this group develop short side branches at the base of the stem in advanced
+stage of its growth. When the plant is cut or harvested, these branches elongate and produce new
+growth. Therefore it is possible to take 5-6 cuts per year from this group.
+Varities: Wardan, JB-1, JB-2, JB-3, UPB-103.
+2.Fahl: develop small side branches in the upper portion of the stem very freely. They do not
+produce branches at the base. Therefore there is no regeneration of these varieties after harvest. They
+give only one cut.
+3.Saidi: They develop shoots for a short time. Develops branches at the upper portion less freely than
+in Fahl. They give 2-3 cuts per year. Ex: Khandwari, Pusa giant,IGFRI-99-1, IGFRI-54, Jawahar.
+Seed rate: 10- 15 kg/ha in line sowing, 20-30kg/ha in broadcasting would be sufficient. Bright
+yellow, plump seeds should be used discarding all the brown and immature seeds.
+Seed treatment: Seed should be treated with 10% brine (salt) solution to remove the seeds of
+chicory. Scarified against hard surfaces to soften the seed coat for better germination. Seed is soaked
+in water for 10-12 hrs or in diluted H2SO4 for 2-3minutes and then rinsed with water 4-5 times.10%
+jaggery solution 1.25 kg with 1.25litres of water is prepared by boiling and cooling to the room
+temperature. Then mix with 1.25 kg Rhizobium trifolii bacterial culture. Sprinkle the culture on the
+seed uniformly and dry under shade. Mix the seed with 10 kg of soil and broadcasted or drilled in the
+field.
+Manures & Fertilizer:
+Berseem responds well to manuring and need about 10 t FYM /ha, 25 – 30 kg N, 80-100 kg P O , 30-
+2 5
+40 kg K 0 kg /ha P is applied as SSP and K as MOP.½ N, total P and K as basal and remaining ½ N
+2
+should be applied 30 DAS. Micronutrient deficiencies are common with regard to B, Mo, Fe and Zn
+and has to be corrected. Boron deficiency is very common in coarse textured and soils with more
+leaching. Its deficiency causes several pale yellow spots on the leaves which resemble the leaf
+hopperdamage. Corrected by foliar application of 0.1% borax or soil application of borax@10 kg/ha
+as basal and Mo as Ammonium molybdate @1- 1.5 kg/ha.
+84
+Weeding :
+Requires thorough weeding in initial stages. Cichorium intybusis associated weed of berseem.
+Remedy is soaking in the 10% brine solution for 10-15 minutes, seeds floating on the water are
+removed. hand weeding at 30 DAS is effective. Donot allow the weed to set seed. The seed live in
+the soil for a long time.
+Chemical treatment : 0.75 -1.0 kg a.i. /ha pendimethalin as pre emergence herbicide is recommended.
+Incidence of Cuscuta is also noticed.
+Irrigation
+Water requirement is quite high. Initially irrigation is given at weekly interval later at10-12days
+interval. Crop requires 140cm of water in a year. In places where irrigation water is not sufficient for
+berseem, oats can be grown as an alternate crop.
+Harvesting:
+The first cut can be taken at 55-60 DAS or at 50% flowering stage. Subsequent cuts are obtained at
+25-30 days interval. Mescavi types are good for fodder purpose as it gives 5-6 cuttings.
+Lecture No. 32
+STYLOSANTHES
+Scientific Name: Stylosanthes sps.
+Family:Fabaceae
+This is also known as Caribbean stylo and Verano stylo.
+Being nutritive and palatable, it is used as feed for all types of animals in the form of hay, silage.
+It is herbaceous and dichotomously branched perennial. It attains a height of 1.2 meters,
+leaves are trifoliate, leaflets lanceolate, acute and glabrous with 4-6 pairs of veins. Rachis is 4-6 mm
+long and bidentate, stipules adnate to the base of the petiole with hairs on the sheath and teeth. The
+inflorescence is an oblong spike with 8-14 yellow flowers on a long stem. The pods or so-called
+seeds are medium to dark brown in colour, 2-2.5 mm long asymmetrical by reniform, radical ends
+85
+fairly prominent and beak is slightly coiled. Actual seed comes after removing the brown covering
+and is light yellow in colour.
+Origin:
+It is a native of the islands of West Indies and found generally adjacent the coastal regions of North
+and South America, and introduced in many tropical regions of Australia, Burma and India.
+Species in Stylo:
+Stylosanths scabra:It is an upright small woody shrub. Its compound leaves consist of three leaflets,
+which are loosely covered in hairs on both surfaces, some of which are sticky. It can be grown as
+inter crop.
+Stylosanthes hamata (Verano stylo): This species has creeping growth habit. leaves are thick green
+and trifoliate. it can withstand drought condition.
+Stylosanthe humilis (Townsville stylo): It is a low growing annual. The stems are narrow, hairy,
+many-branched, erect. The leaves are trifoliate and the leaflets are narrow and pointed.
+Climate:
+It thrives well in the areas receiving annual rainfall from 500 to 1270 mm with a pronounced dry
+season.
+Soils: It is adapted to a wide range of soil types and is drought resistant.
+Sowing season: Rainfedcrop: June-July, Irrigated crop: September-October
+Seed rate:12.5-15 kg/ ha for broadcasting, 5-7 kg/ ha for sowing in rows.
+Spacing:15x20 cm
+Seed treatment: Before sowing, the seeds should be scarified or treated with hot water for 1-1.5
+minutes.
+86
+Weeding and inter cultural operations:
+For better establishment, 1-2 hand weedings and inter cultivation with gorru is required for better
+growth.
+Fertilizers: At the time of field preparation and before sowing 5-8 tonnes/ha FYM + 30 kg N and 60
+kg P O /ha and 30 kg K O/ha are applied. From second year onwards, 30 kg P O and 15 kg N/ha are
+2 5 2 2 5
+sufficient.
+Harvesting: During establishment year (first year), it should not be allowed to be grazed at all but
+should be harvested at the height of 10 cm from ground level after four months of sowing. From
+second year onwards, it may be grazed or harvested 2-3 times. Rotational grazing is preferred for
+higher production.
+Yield: The green forage yield ranges from 20 - 30 t/ha in rainfed condition and 75 t/ha in irrigated
+condition. It generally produces 350 - 400 kg seeds/ha but from well-managed pasture, seed
+production reaches up to 1000 kg/ha.
+87

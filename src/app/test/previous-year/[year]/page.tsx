@@ -9,7 +9,7 @@ import { PYQ_2025, PYQ_2024, PYQ_2023, PYQ_2023_AP, PYQ_2024_AP, PYQ_2025_AP, PR
 export default function PreviousYearTestPage() {
   const params   = useParams();
   const router   = useRouter();
-  const { user, userData } = useAuth();
+  const { user, userData, loading } = useAuth();
   const paperId  = params.year as string;   // e.g. "2025", "2023", "2023ap"
 
   const [currentIdx, setCurrentIdx] = useState(0);
@@ -33,8 +33,15 @@ export default function PreviousYearTestPage() {
     return () => clearInterval(timer);
   }, []);
 
-  // Free papers accessible without paid subscription; others require paid access
+  // Wait for Firebase auth to resolve before guarding access
   const isFreeAccess = paper?.isFree ?? false;
+  if (loading) {
+    return (
+      <div className="min-h-screen bg-gray-50 flex items-center justify-center">
+        <div className="animate-spin w-10 h-10 border-4 border-primary-600 border-t-transparent rounded-full" />
+      </div>
+    );
+  }
   if (!user || (!userData?.isPaid && !isFreeAccess)) {
     router.push("/dashboard");
     return null;

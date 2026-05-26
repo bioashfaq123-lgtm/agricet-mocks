@@ -1,0 +1,1526 @@
+PROFESSOR JAYASHANKAR
+TELANGANA STATE AGRICULTURAL UNIVERSITY
+THEORY COURSE MATERIAL
+COURSE NO. DA 101
+PRINCIPLES OF AGRONOMY
+4(3+1)
+by
+DR. A. MADHAVI LATA
+PRINCIPAL, AGRICULTURAL POLYTECHNIC, MALTHUMMEDA
+NARENDER JANNU
+ASSISTANT PROFESSOR, APT, JAMMIKUNTA
+G.SWATHI
+ASSISTANT PROFESSOR, APT, KAMPASAGAR
+1
+LECTURE OUTLINES
+S.No . Title of the lecture
+1 Definition of Agriculture, Meaning and Scope of Agronomy, National and International
+research institutes
+2 Research stations at PJTSAU and their researchable items/Crops
+3 Different Agro climatic zones of Telangana state
+4 Agricultural Meteorology – Introduction - Definitions of Meteorology,
+Climatology and Agricultural Meteorology – Different layers of atmosphere –
+Climate and atmosphere
+5 Elements of climate- Solar radiation, , functions of light, Light intensity, Quality of light
+and day length, measurement of sunlight
+6 Air Temperature – Introduction –Factors effecting the Air Temperature-
+Measurement of Air temperature
+7. Thermometers – Maximum Thermometer- Minimum Thermometer – Heat
+injury – Cold injury
+8. Atmospheric Pressure - Effect of atmospheric pressure on crops-Wind waves
+– Wind Direction- Wind velocity- Effect of wind on crops- Robinson cup
+anemometer
+9. Atmospheric humidity and its expression – Wet and Dry bulb thermometers -
+Effect of Humidity on Crops
+10. Evaporation- Effect of evaporation on Crops- USWB open pan evaporimeter
+11. Rainfall- Precipitation- Fog- Types of Rainfall- Measurement of rainfall-
+Monsoons-Effect of rainfall on Crops
+12 &13 Weather Disaster Management- Rainfall, Heat and Cold Waves, Windstorms,
+Thunder Storms And Dust Storms, Tornados, Defective insolation
+14. Weather Forecasting
+15. Tillage and tilth- Primary tillage- Secondary tillage
+16. Puddling- advantages of puddling- Types of tillage
+17. Sowing and methods of sowing
+18. Plant density – Factors effecting the plant density-planting methods
+19. Soil fertility and Soil Productivity – Fertility losses
+2
+20. Maintenance of Soil fertility- Soil organic matter- Soil amendments-Bio
+fertilizers
+21. Definition of Weed – influence of weeds on crop yields- Losses and uses of weeds
+22. Different methods of weed control
+23. Classification of weedicides/Herbicides
+24. Integrated weed management
+25. Irrigation management- Definition of irrigation
+26. Critical stages for irrigation in different crops -Water requirement of different crops
+27 Different irrigation methods
+28 Sprinkler irrigation- advantages – disadvantages
+29. Drip irrigation- advantages – disadvantages
+30. Drainage- -Importance of drainage- Advantages of drainage
+31. Harvesting – Harvesting indices for different crops- types of harvesting-Threshing-
+winnowing- drying- storage
+32. Dryland Agriculture- Introduction- Types
+33. Problems in Dryland Agriculture
+34-35 Control measures taken for retaining of soil moisture in Dryland Agriculture
+36. Water harvesting – Definition- Types- Runoff farming
+37. Contingency crop planning
+38-39 Watershed- Definition- Basic information-Principles in watershed management- Different
+objectives & classes of watershed management
+40. Cropping systems – Definition – Types- Mono cropping – Intercropping - Mixed
+Cropping – Relay Cropping – Sequence Cropping – Multiple cropping – Mixed
+cropping- Multistoried Cropping.
+41. Crop rotation- Principles- Advantages
+42. Integrated farming system (IFS)- Definition and advantages
+3
+43. Types of integrated farming systems (IFS)
+44. Sustainable Agriculture
+45. Organic farming – Scope- Management – Advantages
+46. Certification of organic farming products
+47-48 National project on organic farming
+Lecture No.1
+Definition of Agriculture, Meaning and Scope of Agronomy, National and
+International research institutes
+The term agriculture is derived from the Latin words “ager”or“agri”
+meaning “soil” and ‘cultra’ meaning ‘cultivation’
+Agriculture is a very broad term encompassing all aspects of crop
+production, livestock farming, fisheries, forestry etc.
+Agriculture may be defined as the art, the science and the business of
+producing crops and livestock for man’s use and employment.
+Agriculture is the cultivation of lands for production of crops for a
+regular supply of food and other needs for progress of the nation.
+Agriculture is influenced by a large number of factors, some of which
+can be controlled by man (soil and irrigation) which others are beyond the
+control (climate)
+The term “Agronomy” is derived from Greek words “Agros” meaning
+“field” and “nomos” meaning “to manage”
+Agronomy is a branch of agricultural science which deals with
+principles and practices of soil, water and crop management.
+Agronomy deals with methods which provide favourable environment
+to the crop for higher productivity.
+Scope of Agronomy
+Agronomy is a dynamic discipline with the advancement of knowledge
+and better understanding of plant and environment, agricultural practices are
+modified and new practices developed for high productivity, for example
+availability of chemical fertilizer has necessitated the generation of knowledge
+on the method, quantity and time of application of fertilizers. Similarly
+availability of herbicides for the control of weeds has led to the development
+of knowledge about selectivity, time and method of application of herbicides.
+To overcome the problems different management practices are developed.
+Population pressure is increasing but area under cultivation is static,
+therefore more number of crops have to be grown on the same piece of land to
+4
+increase the yield. As a result, intensive cropping has come into practice.
+New technology has to be developed to overcome the effect of moisture
+stress under dryland conditions. As new varieties of crops with high yield
+potential become available package of practices have to be developed to
+exploit their full potential.
+Restoration of soil fertility, preparation of good seed bed, use of proper
+seed rates, correct dates of sowing for each improved variety, proper
+conservation and management of soil moisture and proper control of weeds
+are agronomic practices to make our limited land and water resources more
+productive.
+Relation of Agronomy to other sciences
+Agronomy is a synthesis of several disciplines like soil science,
+Agricultural chemistry, crop physiology, plant ecology, biochemistry and
+economics. Soil physical, chemical and biological properties have to be
+understood thoroughly to effect modification of soil environment. Similarly it
+is necessary to understand the physiology of crops to meet their requirements.
+Advances in economic analysis helped in production of crops economically.
+Agronomist aims to obtain maximum production at minimum cost. He
+exploits the knowledge developed by basic and applied science for higher crop
+production. Whatever may be the research findings of other scientists.
+Agronomist has to test their suitability in the field and accept them finally and
+also judge the reactions of farming community. He is a key person with
+working knowledge of all agricultural disciplines and coordinator of different
+subject matter specialists.
+5
+NATIONAL AND INTERNATIONAL RESEARCH INSTITUTES
+CAZRI : Central Arid Zone Research Institute, Jodhpur, Rajasthan
+CFTRI : Central Food Technological Research Institute, Mysore, Karnataka
+CICR : Central Institute for Cotton Research, Nagpur, Maharashtra
+CPRI : Central Potato Research Institute, Simla, H.P.
+CRIJAF :Central Research Institute for Jute and Allied Fibres,
+BarrackPore, W.B.
+CIAE : Central Institute of Agriculture Engineering, Bhopal, M.P.
+CPCRI : Central Plantation crops Research Institute, Kasargod, Kerala
+CRIDA :Central Research Institute for Dryland Agriculture, Hyderabad,
+Telangana
+CRRI : Central Rice Research Institute, Cuttack, Orissa
+CSWCRTI : Central Soil and Water Conservation Research and Training
+Institute, Dehradun, U.P.
+CTCRI : Central Tuber Crops Research Institute, Thiruvananthapuram, Kerala
+CSSRI :Central Soil Salinity Research Institute, Karnal,
+Haryana
+CTRI : Central Tobacco Research Institute, Rajahmundry,
+A.P.
+IIOR : Indian Institute of Oilseeds Research, Hyderabad,
+Telangana
+IIRR : Indian Institute of Rice Research, Hyderabad,
+Telangana
+DWR : Directorate of Wheat Research, Karnal, Haryana
+DWMR : Directorate of Water Management Research Institute, Jhansi, U.P.
+FRI : Forest Research Institute, Dehradun, U.P.
+IARI : Indian Agriculture Research Institute, Pusa, New Delhi
+IGFARI : Indian Grassland Fodder and Agroforestry Research Institute, Jhansi,
+U. P.
+IISR : Indian Institute of Sugarcane Research, Lucknow, U.P.
+IISS : Indian Institute of Soil Science, Bhopal, M.P.
+IIPR : Indian Institute of Pulse Research, Kanpur, U.P.
+IIHR : Indian Institute of Horticultural Research, Bangalore, Karnataka.
+ILRI : Indian Lac Research Institute, Ranchi, Bihar
+JTRL : Jute Technological Research Laboratory, Kolkata, W.B.
+6
+NCMRT : National Centre for Mushroom Research and Training, Solan, H.P.
+NRCG : National Research Centre for Groundnut, Junagadh, Gujarat
+IIMR : Indian Institute of Millets Reaearch, Hyderabad,
+Telangana
+IISR :Indian Institute of Soybean Research, Indore, M.P.
+IISR :Indian Institute of Spices
+Research, Calicut, Kerala
+DRC :Directorate of Cashew
+Research, Puttur, Karnataka
+CCRI : Central Citrus Research
+Institute,Nagpur, Maharashtra
+DRMR :Directorate of Rapeseed Mustard Research, Bharatpur, Rajasthan
+IIOPR :Indian Instituteof Oil Palm Research, Pedavegi, Andhra Pradesh.
+NRCWS : National Research Centre for Weed Science, Jabalpur,M.P.
+NBPGR : National Bureau of Plant Genetic Resources, New Delhi
+NAARM : National Academy of Agricultural Research Management, Hyderabad
+NBSSLUP : National Bureau of Soil Survey and Land Use Planning,
+Nagpur, Maharashtra
+NPPTI : National Plant Protection Training Institute, Hyderabad,
+Telangana
+PDCSR: Project Directorate for Cropping Systems Research, Meerut,
+U.P.
+SBI : Sugarcane Breeding Institute, Coimbatore, Tamil Nadu
+IBPGR : International Board for Plant Genetic Resources, Rome, Italy
+ICARDA: International Center for Agricultural Research in the Dry
+Areas, Aleppo, Syria
+ICRAF : International Centre for Research in Agro-Forestry, Nairobi, Kenya
+ICRISAT :International Crops Research Institute for Semi-Arid
+Tropics, Hyderabad, India
+WARDA : West Africa Rice Development Association, Ivory Coast, West Africa
+IMPORTANT EVENTS OF AGRICULTURE IN INDIA
+1788 First attempt at cotton crop improvement in Bombay
+province
+1827 First agricultural society at Calcutta
+1864 First model agricultural farm at Saidapet, Tamil Nadu
+1871 Department of Agriculture was created
+7
+1878 Higher Education in Agriculture at Coimbatore
+1880 First Report of Famine Commission (Famine during
+1876-77)
+1893 Second report of Famine Commission
+1901 Third report of Famine Commission
+1901 First Irrigation Commission
+1902 Introduction of large scale cultivation of groundnut
+1903 Imperial Agricultural research Institute at Pusa, Bihar
+1904 Introduction of Cambodia cotton
+1912 Imperial Sugarcane Breeding Station at Coimbatore
+1926 Royal Commission on Agriculture
+1929 Imperial (Indian) Council of Agricultural Research at
+Delhi
+1936 IARI shifted to Delhi
+1942 Grow More Food Campaign
+1946 Central Rice Research Institute
+1947 Fertilisers and Chemicals, Travancore
+1956 Project for Intensification of Regional Research on Oilseeds
+Cotton, Millets (PIRRCOM)
+1960 Intensive Agriculture District Programme (IADP)
+1963 National Seed Corporation
+1965 Intensive Agriculture Area Programme (IIAP)
+1965 National Demonstration Programme
+1965 All India Coordinated Rice Improvement Project,
+Hyderabad
+1966 HYV Programme
+1966 Multiple Cropping Schemes
+1970 Drought Prone Area Programme
+1971 All India Coordinated Project for Dryland Agriculture
+1972 ICRISAT
+1973 Minikit Trails Programme
+1974 Command Area Development
+1975 Release of first cotton hybrid in India
+1976 Report of National Commission on
+Agriculture
+1976 :Integrated Rural Development Programme
+(IRDP)
+1977 Training and Visit (T&V)System
+8
+1979 National Agriculture Research Project (NARP)
+1982 National Bank for Agriculture and Rural Development (NABARD)
+1986 Establishment of Technology mission on oilseeds
+1993 Release of First rice hybrid in India
+1998 :National Agricultural Technology Project
+(NATP)
+ITDA - Integrated Tribal Development Agency
+SFDA - Small Farmers Development Agency
+HADP: Hill Area Development Project Special Programme for
+Horticultural Crops
+DRDA - District Rural Development Agency
+Functions of ICAR: Coordinating Agricultural activity between states and
+centre, financing research problems.
+Maintaining National Research Centres and Institutes
+Lecture No. 2
+Research stations at PJTSAU and their researchable items/Crops
+Telangana State is apportioned into three agro-climatic zones based on the geographical
+characteristics such as rainfall, temperature, nature of soils etc. As a result of bifurcation of state
+of Andhra Pradesh in the year 2014, Professor Jayashankar Telangana State Agricultural
+University (PJTSAU) was established and it includes the different research stations at different
+locations.
+S. Researchable
+Agro-climatic zones and Research stations
+No items/Crops
+I. Research Stations in the Northern Telangana Zone
+Rice, Sesame,
+Regional Agricultural Research Station, Polasa, Jagtial 505 529 Water
+1.
+Dist: Jagtial management,
+Cropping systems
+Agricultural Research Station, Karimnagar 505002 Maize, Seed
+2.
+Dist:Karimnagar, production
+Agricultural Research Station, Kunaram - 505 174 Dist: Peddapalli-
+3. Rice
+505172
+9
+Sugarcane, Rice,
+Cropping systems
+Regional Sugarcane and Rice Research Station, Rudrur 503 188
+4. for Nizamsagar
+Dist: Nizamabad
+area, Seed
+Production
+Cotton, Jowar,
+5. Agricultural Research Station, Adilabad 504 002 Dist: Adilabad rainfed rice,
+Soybean
+6. Agricultural Research Station, Mudhole 504 102 Dist: Nirmal, Desi cotton
+II. Research Stations in the Central Telangana Zone
+Rice, Pulses,
+Regional Agricultural Research Station, Warangal-506 007 Dist:
+1. Cotton, Water
+Warangal
+management
+Pulses,
+2. Agricultural Research Station, Madhira-507 203 Dist: Khammam Maghijowar, Seed
+production
+Agricultural Research Station Basanthpur - 502 249, Mamidigi,
+3. Sugarcane, Wheat
+NyalkalMandal, Dist: Medak
+Cereals, Millets,
+Agricultural Research Station, Nathnaipally, Narsapur - 502 313
+4. Pulses and
+Dist: Medak
+Oilseeds
+Maize, Jowar,
+5. Agricultural Research Station, Tornala, Dist: Siddipeta
+Pulses
+III. Research Stations in the Southern Telangana Zone
+Sorghum, Bajra,
+Castor,
+1. Regional Agricultural Research Station, Palem 509 215
+Horsegram,
+Fodder crops
+Maintenance of
+Agricultural Research Institute, Rajendranagar 500 030 Dist: Campus, Rice
+2.
+Rangareddy based cropping
+systems
+Rice , Organic
+Rice Research Centre, ARI, Rajendranagar, 500 030 Dist:
+3. farming, Seed
+Rangareddy
+Production
+10
+Testing &
+Farm Implements and Machinery Scheme, ARI, Rajendranagar,500
+4. development of
+030 Dist: Rangareddy
+farm implements
+Soil fertility, Soil
+plant
+Radio Tracer Laboratory, ARI, Rajendranagar, 500 030 Dist: relationships, Use
+5.
+Rangareddy, of Radioactive
+Isotopes in
+Agriculture
+Soil test based
+balanced fertilizer
+AICRP for investigation on Soil Test Crop Response Correlation,
+6. recommendations
+ARI, Rajendranagar, Hyderabad - 500 030
+for different
+agricultural crops
+Micro and
+AICRP on Micro and Secondary Nutrients and Pollutant elements in
+7. secondary
+Soils and Plants, ARI, Rajendranagar, Hyderabad- 500 030
+nutrients in soil
+Forage Crops like
+AICRP on Forage Crops and Utilization, ARI, Rajendranagar Bajra, Cowpea
+8.
+Hyderabad 500 030 and Grasses. Seed
+Production
+AICRP on Biological Control , ARI, Rajendranagar Hyderabad - Biological Control
+9.
+500 030 of Crop Pests
+Characterization
+of Agricultural
+climate to
+Agro Climate Research Centre, ARI, Rajendranagar, Hyderabad-
+10. determine Crop
+500 030
+growing season,
+Weather
+forecasting
+Birds and
+vertebrate pest
+AINP on Vertebrate Pest Management, Rajendranagar, Hyderabad -
+11. damage and
+500 030
+prevention in
+Agril. Crops
+AINP on Pesticide Residues, EEI Premises Pesticide Residues
+12.
+Rajendranagar,Hyderabad - 500 030 Analysis
+11
+Testing Raw
+Food, Vegetable,
+Quality Control Lab, EEI campus Rajendranagar , Hyderabad - 500
+13. Fruit, Herbal And
+030
+Finished Food
+Product Samples
+Seed Research and Technology Centre, Rajendranagar, Hyderabad - Seed Research and
+14.
+500 030 Seed Technology
+Collection,
+Screening and
+15. AICRP on Agro-Forestry, Rajendranagar, Hyderabad - 500 030 Selection of Trees
+and Bushes for
+Agro-forestry
+Water
+Water Technology Centre, Diamond Jubilee Block ,Rajendranagar
+16. Management
+Hyderabad - 500 030
+Research
+Weed
+AICRP on Weed Management Diamond Jubilee Block,
+17. management in
+Rajendranagar, Hyderabad - 500 030
+Agricultural Crops
+AICRP on Integrated Farming Systems, Diamond Jubilee Block Cropping Systems
+18.
+Rajendranagar, Hyderabad 500 030 Research
+Improvement of
+Agricultural Crops
+19. Institute of Biotechnology Rajendranagar, Hyderabad 500 030 through Molecular
+Breeding
+Approaches
+Mushroom
+Mushroom Cultivation Scheme, Dept. of Plant Pathology, College
+20. Production
+of Agriculture, Rajendranagar, Hyderabad - 500 030
+Technologies
+Cost of
+Cost of Cultivation Scheme, College of Agriculture, Rajendranagar, Cultivation of
+21.
+Hyderabad - 500 030 Principal Crops in
+the State
+Foods and
+Nutrition, Child
+AICRP on Home Science, Post Graduate Research Centre,
+22. Development,
+Rajendranagar, Hyderabad - 500 030
+Clothing and
+Textiles, Family
+Resource
+12
+Management,
+Home Science
+Extension
+Maize, Maize
+based Cropping
+23. Maize Research Centre ARI, Rajendranagar, Hyderabad - 500 030
+Systems, Fodder
+Maize
+Safflower, Rabi
+24. Agricultural Research Station,Tandur - 501 141 Dist: Vikarabad Sorghum,
+Redgram
+Agricultural Research Station Kampasagar, Babusaipeta Post, Rice, Maize,
+25.
+TripuraramMandal, Dist: Nalgonda Farming Systems
+13
+Lecture No. 3
+Different Agro climatic zones of Telangana state
+Telangana is divided into three agro- climatic zones
+I. Northern Telangana Zone
+This zone has a total geographical area of 7.43 m. ha. covering the districts of Adilabad,
+Karimnagar and Nizamabad. The climate is typically tropical rainy. The mean annual precipitation
+ranges from 900 to 1150 mm with 82 per cent of rainfall from south west monsoon. The net sown
+area is 2.21 m. ha. of which 0.67 m. ha. is irrigated representing 30.3 per cent of the net sown area.
+The major crops grown in the zone are rice, sugarcane, jowar, pulses, maize, cotton, groundnut,
+turmeric and chillies. Cropping intensity is 110 per cent. Wells are the main source of irrigation
+followed by canals. Red chalka soils are predominant.
+II. Southern Telangana Zone
+The zone comprises of the districts of Rangareddy, Mahabubnagar (except the southern border),
+Nalgonda (except south east border), north western part of Warangal and southern part of Medak
+districts. The zone covers an area of 4.0 m. ha. The soils of the zone are mainly red sandy, red
+earths and medium black soils. The zone receives an annual normal rainfall of 809 (700—900)
+mm. About 77 percent of total rainfall is received during south west monsoon only. 14.35 per cent
+of the 1.68 m. ha. of net sown area is under irrigation. The principal crops grown in the zone are
+jowar, castor, rice, groundnut, bajra, redgram, horsegram, ragi, greengram, maize and sesamum.
+III. Central Telangana Zone
+The zone comprises of the districts of Medak, Warangal and Khammam. The zone covers an area
+of 3.86 m. ha. The soils of the zone are mainly red sandy loams, very red soils and deep black
+soils. The zone receives an annual normal rainfall of 996 (868—1124) mm. About 88.03 per cent
+of total rainfall is received during south west monsoon only. The net sown area is l.25 m. ha. of
+which 0.51 m. ha. is irrigated representing 40.68 per cent of the net sown area. The principal crops
+grown in the zone are Paddy, Cotton, Red gram, Maize, Sugarcane, Black gram and Green gram.
+It is the important Cotton growing zone of Telangana Cropping intensity is 110%. Wells are the
+main source of irrigation followed by canals. Red chalka soils are predominant.
+14
+Lecture No. 4
+Agricultural Meteorology – Introduction - Definitions of Meteorology,
+Climatology and Agricultural Meteorology – Different layers of atmosphere
+– Climate and atmosphere
+Atmosphere
+The earth is elliptical in shape. It has three spheres. They are:
+1 Hydrosphere: the water portion.
+2 Lithosphere: the solid portion.
+3 Atmosphere: the gaseous portion.
+The atmosphere is defined as “The colourless, odourless and tasteless
+physical mixture of gases which surrounds the earthon all sides”.It is mobile,
+compressible and expansible.
+Uses of atmosphere for agriculture: The uses of atmosphere are: It
+1. Provides oxygen which is useful for respiration in crops.
+2. Provides carbon-dioxide to build biomass in photosynthesis.
+3. Provides nitrogen which is essential for plant growth.
+4. Acts as a medium for transportation of pollen.
+5. Protects crop plants on earth from harmful U.V. rays.
+6. Maintains warmth to plant life.
+7. Provides rain to field crops as it is a source of water vapour, clouds etc.
+Agricultural Meteorology
+Meteorology
+Meteorology is defined as
+ "The science of atmosphere".
+ “A branch of physics of the earth dealing with physical processes in the
+atmosphere that produce weather”.
+15
+Climatology
+It is defined as “The science dealing with the factors which determine
+and control the distribution of climate over the earth's surface”. Different
+factors affecting the climate of a region are:
+1. Latitude 5. Low and high pressure belts.
+2. Altitude 6. Mountain barriers.
+3. Land and water. 7. Ocean currents.
+4. Winds and airmasses 8. Extent of forests,
+etc. The above factors are also known as “climatic
+elements”
+Agricultural Meteorology
+Agriculture is defined as “The art and science of production and
+processing of plant and animal life for the use of human beings”. It is also
+defined as “A system for harvesting or exploiting the solar radiation”.
+Agriculture deals with three most complex entities viz., soil, plant and
+atmosphere and their interactions. Among these three, atmosphere is the most
+complex entity over the other two. It is defined as
+• "The study of those aspects of meteorology that have direct relevance to
+agriculture". It is also defined as
+• “A branch of applied meteorology which investigates the responses of
+crops to the physical conditions of the environment”.
+• “An applied science which deals with the relationship between
+weather/climatic conditions and agricultural production”.
+• “A science concerned with the application of meteorology to the
+measurement and analysis of the physical environment in agricultural
+systems”.
+• The word `Agrometeorology’ is the abbreviated form of agricultural
+meteorology.
+Practical Utility / Importance / Economic Benefits / Significance of Study of
+Agricultural Meteorology:
+In a broad manner the study of agricultural meteorology helps in
+1. Planning cropping systems /patterns.
+2. Selection of sowing dates for optimum crop yields.
+3. Cost effective ploughing, harrowing, weeding etc.
+4. Reducing losses of applied chemicals and fertilizers.
+5. Judicious irrigation to crops.
+16
+6. Efficient harvesting of all crops.
+7. Reducing or eliminating outbreak of pests and diseases.
+8. Efficient management of soils which are formed out of weather action.
+9. Managing weather abnormalities like cyclones, heavy rainfall, floods,
+drought etc. This can be achieved by;
+• Protection: When rain is forecast avoid irrigation. But, when
+frost is forecast apply irrigation.
+• Avoidance: Avoid fertilizer and chemical sprays when rain is
+forecast.
+c. Mitigation: Use shelterbelts against cold and heatwaves.
+10. Effective environmental protection.
+11. Avoiding or minimising losses due to forest fires.
+Scope of agricultural meteorology
+In addition to the points mentioned above, the influence of weather on
+agriculture can be on a wide range of scales in space and time. This is
+reflected in the scope of agricultural meteorology as detailed below:
+1. At the smallest scale, the subject involves the study of microscale
+processes taking place within the layers of air adjacent to leaves of
+crops, soil surfaces, etc. The agrometeorologists have to study the
+structure of leaf canopies which effects the capture of light and how the
+atmospheric carbon dioxide may be used to determine rates of crop
+growth.
+2. On a broader scale, agrometeorologists have to use the standard
+weather records to analyse and predict responses of plants.
+3. Although the subject implies a primary concern with atmospheric
+processes the agrometeorologistis also are interested in the soil
+environment because of the large influence which the weather can have
+on soil temperature and on the availability of water and nutrients to
+plant roots.
+4. The agrometeorologist also is concerned with the study of glass houses
+and other protected environments designed for improving agricultural
+production.
+17
+Physical structure of the atmosphere
+On the basis of vertical temperature variation, the atmosphere is divided into
+different spheres or layers as detailed below:
+I Troposphere
+1. The word “Tropo” means mixing or turbulence and “Sphere” means region.
+2. The average height of this lower most layer of the atmosphere is about 14 kilometers above
+the mean sea level; at the equator it is 16 kilometers; and 7- 8 kilometers at the poles.
+3. Under normal conditions the height of the troposphere changes from place to place and
+season to season.
+4. Various types of clouds, thunderstorms, cyclones and anticyclones occur in this sphere
+because of the concentration of almost all the water vapour and aerosols in it. So, this layer
+is called as “Seat of weather phenomena”.
+5. The wind velocities increase with height and attain the maximum at the top of this layer.
+6. Another striking feature of troposphere is that there is a decrease of temperature with
+increasing elevation at a mean lapse rate of about 6.5o C per kilometer or 3.6oF per 1,000
+feet.
+7. Most of the radiation received from the sun is absorbed by the earth's surface. So the
+troposphere is heated from below.
+8. In this layer, about 75 per cent of total gases and most of the moisture and dust particles
+are present.
+9. At the top of the troposphere there is a shallow layer separating it from stratosphere which
+is known as “Tropopause”.
+10. The tropopause layer is thin and its height changes according to the latitudes and infact this
+is a transitional zone and distinctly characterised by no major movement of air.
+18
+II Stratosphere
+1. This layer exists above the tropopause (around 20 km onwards) and extends to altitudes of
+about 50-55 kilometers.
+2. This layer is called as "Seat of photochemical reactions".
+3. In any particular locality, the temperature remains practically constant at around 20
+kilometers and is characterised as Isothermal because the air is thin, clear, cold and dry.
+4. The temperature of this layer increases with height and also depends upon troposphere
+because troposphere is higher at equator than at poles.
+5. In the upper parts of the stratosphere the temperatures are almost as higher as those near
+the earth's surface, which is due to the fact that the ultra violet radiation from the sun is
+absorbed by ozone in this region.
+6. Less convection takes place in the stratosphere because it is warm at the top and cold at the
+bottom.
+7. There is also persistence of circulation patterns and high wind speeds.
+8. The upper boundary of the stratosphere is called stratopause and above this level there is a
+steep rise in temperature.
+III. Mesosphere / Ozonosphere
+1. There is a maximum concentration of ozone between 30 and 60 km above the surface of
+the earth and this layer is known as ozonosphere.
+2. A property of ozone is that it absorbs ultra violet rays. Had there been no layer of ozone in
+the atmosphere, the ultra violet rays would have reached the surface of the earth and no life
+on it.
+3. The temperature of the ozonosphere is high (warm) due to selective absorption of ultra
+violet radiation by ozone.
+4. Because of the preponderance of chemical process this sphere is called as "Chemosphere".
+5. In this layer the temperature increases with height at the rate of 5oC per each kilometer.
+6. According to some leading scientists the ionosphere is supposed to start at a height of 80
+kilometers above the earth's surface. The layer between 50 and 80 kilometers is called
+Mesosphere. In this layer the temperature decreases with height. The upper boundary of
+this layer is called the mesopause.
+19
+IV. Ionosphere/Thermosphere
+1. Ionosphere layer lies beyond ozonosphere (mesosphere) at a height of about 80 kms. above
+the earths surface and extends upto 400 kilometers.
+2. The atmosphere in ionosphere is partly ionised. Enriched ion zones exist in the form of
+distinct ionised layers. So, this layer is called as ionosphere.
+3. Above the ozonosphere the temperature falls again. According to some climatologists, the
+layer between 80 and 140 kilometers is known as “Thermosphere”.
+4. The ionosphere reflects radio waves because of one or multiple reflections of short wave
+radio beams from the ionised shells. So, long distance radio communication is possible due
+to this layer.
+V. Exosphere
+1. The outer most layer of the earth's atmosphere is named as exosphere and this layer lies
+between 400 and 1,000 kilometres.
+2. At such a greater height the density of atoms in the atmosphere is extremely low.
+3. Hydrogen and Helium gases predominate in this outer most region.
+4. At an altitude of about 500 to 600 kilometres the density of the atmosphere becomes so
+low that collisions between neutral particles become extremely rare.
+Principal gases comprising dry air in the lower atmosphere
+Sl. No. Constituent Per cent by volume Per cent by weight
+1 Nitrogen 78.09 75.53
+2 Oxygen 20.95 23.13
+3 Argon 0.93 1.28
+4 Carbon-dioxide 0.03 0.06
+20
+Differences between Weather and Climate.
+S. No. Weather Climate
+1 A typical physical condition of the Generalised condition of the
+atmosphere atmosphere which represents and
+describesthecharacteristicsofaregion
+2 Changes from place to place even in Different in different large regions
+a small locality
+3 Changes according to time (every Change requires longer (years) time
+moment)
+4 Similar numerical values of weather Similar numerical values of climate of
+ofdifferentplacesusuallyhavesame different places usually have different
+weather climates
+5 Crop growth, development and yield Selection of crops suitable for a place
+are decided by weather in a given is decided based on climate of the
+season region
+6 Under aberrant weather conditions Helps in long-term agricultural
+planners can adopt a short-term planning
+contingent planning
+Lecture No.5
+Elements of climate- Solar radiation, functions of light, Light intensity, Quality
+of light and day length, measurement of sunlight
+Elements of Climate:
+1. Solar Radiation
+2. Air Temperature
+3. Atmospheric Pressure
+4. Wind
+5. Relative Humidity
+6. Evaporation
+7. Rainfall
+Solar Radiation:
+Radiant energy is transmitted in the form of electromagnetic waves by the sun is known as
+“solar radiation”. Each day the earth receives energy in the form of incoming solar radiation from
+the sun. This insolation is absorbed by the earth’s surface and is converted to heat (long wave
+radiation).
+21
+When the soil temperature increases – heat energy reflected from soil surface in to climate
+it is known as “Terrestrial Radiation” due to this air lower layers near to surface soil get heated
+and transmitted in to upper layers. Of the total solar radiation, some amount will be absorbed and
+reflected back like given below:
+Heat energy is transmitted by three processes.
+1 Radiation
+ This is the process of transmission of energy from one body to another
+without the aid of a material medium (solid, liquid or gas).
+Example: The energy transmission through space from the sun to the earth.
+2 Conduction
+ This is the process of heat transfer through matter without the actual
+movement of molecules of the substances or matter. Heat flows from the
+warmer to cooler part of the body so that the temperature between them are
+equalised.
+Example: The energy transmission through an iron rod which is made
+warmer at one end.
+3 Convection
+ This is the process of transmission of heat through actual movement of
+molecules of the medium. This is the predominant form of transmission of
+energy on the earth as all the weather related processes involve this
+process.
+Example: Boiling of water in a beaker
+Of the above three processes of transmission of energy, convection is the
+predominant form of transmission of energy on the earth. All the weather
+related processes involve this process.
+22
+Functions of light: The functions of light are:
+1. All the plant parts are directly or indirectly influenced by light
+2. Light of correct intensity, quality and duration is essential to normal
+plant development
+3. Poor light availability causes abnormalities and disorders in plants
+4. Light is indispensable to photosynthesis
+5. Light governs the distribution of photosynthates among different organs
+of plants
+6. Effects tiller production
+7. Effects stability, strength and length of culms
+8. Effects dry matter production
+9. Effects the size of the leaves
+10. Effects the root development
+11. Effects the flowering and fruiting
+12. Effects the dormancy of the seed
+Absorbed solar radiation Reflected solar radiation
+1. Water vapor, clouds, dust particles in the 1. Reflected by clouds (-23%)
+air (+19%) 2. By dust particles in the air (-9%)
+2. Absorbed by earth (+27%) 3. Reflected by surface soil (-2%)
+3. Absorbed by environment (+20%)
+Total absorbed solar radiation (+66%) Reflected solar radiation (-34%)
+23
+Light dimensions:
+1. Light intensity
+2. Light quality
+3. Day length
+1. Light intensity:
+• Light intensity varies with the fluctuation in temperature, relative humidity.
+• Only 1% light is utilised in photosynthesis and is converted to chemical energy.
+• Less light intensity – reduces the photosynthesis rate, closes the leaf stomata,
+hence plant growth is reduced
+• High light intensity- increases the respiration rate.
+✓ Interrupts the photosynthesis and respiration.
+✓ Water losses, due to high light intensity the stomata close, where in
+sufficient Co will not enter the stomata and reduces the photosynthesis
+2
+rate.
+✓ Plant cells oxidise in environment leading to light oxidization or
+solarisation.
+✓ Some plants like paddy, sorghum, bajra will produce high dry matter.
+2. Quality of light:
+- The shorter wave lengths of the spectrum are known as U.V. rays. These are
+chemically very active. Unless these are filtered in the atmosphere, there is a
+danger for life on the earth. This band ranges between 0.005 to 0.4 microns.
+- The part of the spectrum which is visible known as `light'. It is the part of the
+spectrum which is essential for all the plant processes and ranges from 0.4 to
+0.7 microns.
+- The third part of the solar spectrum (last band) is known infra-red band. This
+is essential for thermal energy of the plant (the source of heat to the plant).
+This band is less than 0.7 microns.
+24
+3. Day length/ Photoperiodism:
+• Day length, or length of day, or length of daytime, is the time each day from the
+moment the upper limb of the sun's disk appears above the horizon during sunrise
+to the moment when the upper limb disappears below the horizon during sunset.
+OR
+Photoperiodism is the physiological reaction of organisms to the length of night or
+a dark period. It occurs in plants and animals. Photoperiodism can also be defined
+as the developmental responses of plants to the relative lengths of light and dark
+periods. They are classified under three groups according to the Photoperiodism:
+short-day plants, long-day plants, and day-neutral plants.
+a. Long-day plants: flower when the night length falls below their critical photoperiod.
+These plants typically flower during late spring or early summer as days are getting longer.
+Some long-day obligate plants are:
+• Carnation (Dianthus)
+• Henbane (Hyoscyamus)
+• Oat (Avena)
+b. Short-day plants: flower when the night length exceeds their critical photoperiod. They
+cannot flower under short nights; they require a continuous period of darkness before floral
+development can begin. Natural nighttime light, such as moonlight or lightning, is not of
+sufficient brightness or duration to interrupt flowering.
+In general, short-day (i.e.long-night) plants flower as days grow shorter.
+Photoperiodism affects flowering by inducing the shoot to produce floral buds instead of leaves
+and lateral buds.
+25
+Some short-day facultative plants are:
+• Kenaf ( Hibiscus cannabinus)
+• Marijuana (Cannabis)
+• Cotton (Gossypium)
+• Rice (Oryza)
+• Jowar (Sorghum bicolor)
+• Green Gram (Mung bean, Vigna radiata)
+• Soybeans (Glycine max)
+c. Day-neutral plants: Day neutral plants such as cucumber, roses, tomatoes, do not initiate
+flowering based on photoperiodism. Instead, they may initiate flowering after attaining a
+certain overall developmental stage or age, or in response to alternative environmental
+stimuli, such as vernalisation (a period of low temperature).
+Measurement of Sunlight:
+The Campbell–Stokes recorder (sometimes called a Stokes sphere) is a type of sunshine recorder.
+It was invented by John Francis Campbell in 1853 and modified in 1879 by Sir George Gabriel
+Stokes. The original design by Campbell consisted of a glass sphere set into a wooden bowl with
+the sun burning a trace on the bowl. Stokes's refinement was to make the housing out of metal and
+to have a card holder set behind the sphere. The unit is designed to record the hours of bright
+sunshine which will burn a hole through the card.
+Campbell sunshine recorder
+26
+Lecture No.6
+Air Temperature – Introduction –Factors effecting the Air Temperature-
+Measurement of Air temperature
+Temperature Distribution
+1. Each day the earth receives energy in the form of incoming solar radiation from the sun.
+2. This short wave solar radiation ranges mostly from ultra-violet (0.2 μm wavelength) to the
+near infrared (3.0 microns wavelength), but reaches its maximum at around 0.5 microns
+wavelength (Blue-green visible light).
+3. This insolation is absorbed by the earth’s surface and is converted to heat (long wave
+radiation)
+4. The earth’s (terrestrial) long wave radiation reaches its peak intensity at 10 microns
+wavelength (thermal infrared) and is responsible for heating the lower atmosphere.
+Factors influencing temperature:
+1. Latitude
+2. Altitude
+3. Wind flow
+4. Ocean currents
+5. Clouds,Rainfall
+6. Mountain barriers
+7. Other climatic factors.
+Latitude
+The effectiveness of insolation in heating the earth’s surface is largely determined by the
+latitude. So, there is a general decrease in temperatures from the equator to poles, which is
+a classical example of horizontal temperature distribution.
+On maps, the horizontal distribution of temperature is shown by isotherms. The isotherms
+are imaginary lines drawn the connecting points that have equal temperature.
+Altitude:
+The most common atmospheric adiabatic phenomena are those involving the change of air
+temperature due to change of pressure. When pressure is increased, the work done in the
+air mass appears as heat, causing its temperature to rise.
+The rates of adiabatic heating and cooling in the atmosphere are described as lapse rates
+and are expressed as the change of temperature with height. The adiabatic lapse rate for
+dry air is very nearly 1oC per 100 m. If condensation occurs in the air parcel, latent heat is
+released, thereby modifying the rate of temperature change. This is known as wet adiabatic
+lapse rate
+However, the average adiabatic lapse rate is 6.5oC per kilometre and it is assumed as 0.5oc
+per 100 m. Large scale atmospheric motions are approximately adiabatic and clouds and
+27
+snow or rain associated with them are primarily adiabatic phenomena in that they result
+from cooling of air associated with decreasing pressure of upward air motion.
+Wind velocity:
+If vapour is present in the air, air temperatures will vary based on wind velocity. If vapor is
+present in air, if wind velocity is less the air temperature is less, if air is dry, wind velocity is high
+the air temperature will be high.
+Ocean currents:
+Transport of ocean water in the form of currents carries heat from one part of the earth to
+another which results in less air temperature.
+Clouds, rainfall:
+When heavy clouds are thererains occur and earth will not get heated with solar radiation,
+hence air temperature will be less.
+Mountain barrier:
+Mountain ranges tend to guide the movement of cold air masses resulting in horizontal
+temperature variation. Ex: Himalayas protect India from polar air.
+Other climatic factors:
+Air temperatures will be high, due to high CO content in industrial area (Green house
+2
+effect).
+Inversion:
+Temperature inversion, a reversal of the normal behaviour of temperature in the
+troposphere (the region of the atmosphere nearest the Earth's surface), in which a layer of
+cool air at the surface is overlaid by a layer of warmer air. (Under normal conditions air
+temperature usually decreases with height.)
+The minimum, maximum (above which crop growth ceases) and optimum temperature of
+individual’s plant is called as cardinal temperature.
+Crops Minimum Optimum Maximum
+temperature ºC temperature ºC temperature ºC
+Rice 10 32 36-38
+wheat 4.5 20 30-32
+Maize 8-10 20 40-43
+Sorghum 12-13 25 40
+Tobacco 12-14 29 35
+28
+Importance of air temperature on crop plants
+1. Temperature influences distribution of crop plants and vegetation .In
+Western
+Himalayasthetemperaturefallsasaltitudeincreasesandthischangeisresponsibl
+e for the change of vegetation at differentaltitudes.
+2. The growth and development of crop plants are chiefly influenced by air
+temperature.
+3. Affects leaf production, expansion andflowering.
+4. Physicalandchemicalprocesseswithintheplantsaregovernedbyairtemperature
+5. The diffusion rate of gases and liquids changes withtemperature
+6. Solubility of different substances is dependent ontemperature
+7. Influences biochemical reactions in crops (double or triple with each 10oCrise)
+8. Equilibriumofvarioussystemsandcompoundsis afunctionoftemperature
+Temperature effects the stability of enzymatic systems in the plants.
+Measurement of temperature:
+Temperature will be measured by two units
+1. Fahrenheit (o F) 2. Centigrade (oC)
+Fahrenheitmethod was coined by German scientist Denial Gabriel Fahrenheit in 1710,
+Centigrade method was coined by Swadesh astronomer Anders Celsius in 1742
+Conversion Formulas:
+• C = 5/9 x (F-32).
+Temperature is 98.6 F. To convert into Celsius:
+• C = 5/9 x (F - 32)
+• C = 5/9 x (98.6 - 32)
+• C = 5/9 x (66.6)
+• C = 37 C
+To convert temperatures in degrees Celsius to Fahrenheit, multiply by 1.8 (or 9/5) and add 32.
+• Example: (30°C x 1.8) + 32 = 86°F
+29
+Lecture No: 7
+Thermometers – Maximum Thermometer- Minimum Thermometer – Heat
+injury – Cold injury
+Measurement of Temperature ;Thermometers, one of the most widely recognized weather
+instruments, are tools used to measure ambient air temperature. Single Stevenson screen with
+Dry bulb thermometer, Wet bulb thermometer, Minimum thermometer and Maximum
+thermometer
+1.Maximum thermometer: This is a mercury thermometer and records the highest or
+maximum temperature reached during past 24 hours or since last setting. Maximum
+temperature generally occurs in the world between 1400 to 1600 hrs
+2. Minimum thermometer: This thermometer records the lowest temperature of air reached
+during last 24 hours or since last setting. Lowest temperature of the day generally occurs just
+before sunrise or clear day and after sun rise on cloudy day
+3. Dry bulb thermometer: This is a mercury thermometer which gives the prevailing
+temperature of air at 4' 3'’ to 4' 6’’ height. It is required to calculate relative humidity and
+vapour pressure.
+4. Wet bulb thermometer: This is similar to dry bulb thermometer but the bulb of
+thermometer acts as a evaporating surface. It is used for calculating dew point, relative
+humidity and vapour pressure.
+Air temperature and plant injury
+I.Low air temperature and plant injury: On exposure of crop plants to low
+temperature the following effects are observed. The primary effect of low air
+temperature below their optimum temperature is the reduction of rates of
+growth and metabolic processes.
+1. Suffocation
+a Small plants may suffer from deficient oxygen when covered with
+densely packed snow.
+b Certain toxic substances accumulate in roots and crowns because of low
+diffusion of carbon dioxide
+2. Physiological drought
+a In middle latitudes, drought occurs under cool temperature conditions.
+30
+This is due to excessive transpiration and absence of absorption of
+moisture from the soil, when the soil is in extremely low temperature
+conditions.
+b The internal water content of crop plants is depleted which may result
+in death of leaves.
+3. Heaving
+a The injury to a plant is caused by lifting upward from the normal
+position causing the root to stretch or break at a time when the plant is
+growing.
+b Sometimes the roots are pushed completely above the soil surface.
+c It is difficult for the roots to become firmly established again and the
+plants may die because of this mechanical damage and desiccation.
+4. Chilling
+a Due to this injury some crop plants are killed and others recover under
+favourable conditions later on.
+b This injury is common in temperate climates where delayed growth and
+sterility are common symptoms.
+c Moderate wind speeds when the air temperature ranges from 0 to 10oC,
+tends to cause very rapid fall in the activity of metabolic processes,
+especially respiration in crop plants. Which is known as “chilling
+injury”. This results in severe damage and death within a few hours or
+days.
+d Chilling in the affected plants causes a phase change (“liquid” to
+“solid”) in membrane lipids resulting in inactivation of membrane
+bound enzymes.
+e Sometimes chilling results yellowing of plants.
+5. Freezing
+1 Freezing damage is caused by the formation of ice crystals in the
+intracellular spaces and extracellular spaces.
+2 Ice with in the cells cause injury by mechanical damage and plant parts
+or entire plant may be killed or damaged.
+3 If extracellular ice persists, the gradient of water vapour pressure
+between the apoplast and the cells causes water to migrate out of the
+cells and into the apoplast, where it freezes, thereby increasing the
+amount of ice, in the plant tissue.
+4 This results not only in mechanical damage to the tissue, but also brings
+about dehydration of cell contents and lead to death of the cell.
+II. High air temperature and plant injury
+1 High air temperature results in the desiccation of the crop plants also.
+2 The injury caused because of short period fluctuation (within a day
+highest in noon and lowest at early morning) in air temperature is
+known as sun clad.
+31
+3 The scorching of stem near the soil surface known as stem girdle is
+another injury at high air temperatures.
+4 Plant tissues escape from high heat by emission of long wave radiation,
+convection of heat, and transpiration.
+5 However, transpiration is the most effective process in many natural situations.
+6 High plant temperatures (> 40oC) are almost invariably due to the
+cessation of transpirational cooling, caused by stomatal closure.
+7 Exposure of crop plants to temperatures over 45oC for just 30 minutes
+can cause severe damage to the leaves of plants.
+8 The effect of high temperature are the disruption of cell metabolism
+(possibly by protein denaturation), production of toxic substances, and
+damage to cellular membranes.
+Lecture No: 8
+32
+Atmospheric Pressure - Effect of atmospheric pressure on crops-Wind waves –
+Wind Direction- Wind velocity- Effect of wind on crops- Robinson cup
+anemometer
+Air molecules will have some weight, these exhibits pressure force. Air pressure or atmospheric
+pressure is the weight of air molecules pressing down on the Earth. The pressure of the air
+molecules changes as you move upward from sea level into the atmosphere. The highest pressure
+is at sea level where the density of the air molecules is the greatest. The standard, or near-average,
+atmospheric pressure at sea level on the Earth is 1013.25 millibars, or about 14.7 pounds per
+square inch.
+Atmospheric pressure depends on the temperature and altitudes. When air gets heated air expands
+and resulting in reduction of pressure. Higher atmospheric pressure will be low temperature areas,
+as per this low air pressure is in equator. Pressure will be increased while going to north or south
+latitudes from equator.
+Atmospheric pressure will be measured with ‘Barometer’’ and units for the atmospheric pressure
+is ‘milli bars’’ or ‘bars’’
+1 inch height of mercury = 33.86 milli bars
+1 milli bar = 1/1000 bar
+1 milli bar = 0.75 mm height of mercury
+1 mm height of mercury = 1.33milli bars.
+Effect of pressure on crops:
+• In high mountain areas O and CO density is low and plant height is reduced.
+2 2
+• In these areas UV rays are high and these are not suitable for plant growth.
+• When pressure is low, due to high air intensity, only deep rooted and plants with hard
+stem can withstand.
+• Atmospheric pressure will not directly effect the crop – due to pressure differences
+blowing of winds leads to monsoons.
+WindVs Current
+• Due to pressure difference in different areas air flows from one place to another place. Air
+will be static where there is no pressure difference.
+• The air moves horizontally from high pressure areas to low pressure areas is called “Wind”
+• Longitudinal air movement due to pressure differences is called “current”. Due to these
+currents cloud formation and occur.
+• Air movement is defined in two ways
+• 1. Wind direction 2. Wind velocity
+1. Wind direction: wind blowing from south to north is called “South wind”
+“Wind ward” means from which direction the air is coming/entering
+“Leeward” means to which direction the air is going/exit
+33
+Wind direction can be known by the “wind vane’’
+Arrow edge point is showing the wind coming/ blowing direction and tail point is showing
+the wind leaving direction.
+Leeward >> ==➔ wind ward
+Wind blows/ moves in clock wise and anti clock wise.
+Clock wise movement of air - is known as “Veering wind”
+Anti clock wise movement of air - is known as “Backing wind”
+Adverse climatic situations occur in Backing wind.
+Air Intensity:
+• Intensity of air flow is known as “wind velocity”
+• In general wind speed increases with the height from the surface of the upper troposphere,
+and wind velocity is doubled at 33 ft height.
+• Wind speed is basically atmospheric quantity caused by air moving from high pressure to
+low pressure, usually due to change in temperature.
+• Air flow is measured with the help of “Robinsons cup anemometer”
+• The most common type of anemometer uses a series of three or four cups that are
+positioned around a fixed vertical rod. As the cup catches the wind, they spin around the
+rod, the fast wind blows, the faster the cups will rotate around the road. Reading will be
+noted with the help of digital meter, which is arranged below the vertical rod, while cups
+are spinning.
+• This data will be recorded for every 8 hours. With this data wind velocity is expressed for
+the past 24 hours.
+• Wind velocity units are Km/hour (kmph).
+• For Eg: one day meter reading at 8 o clock is = 9000
+The very next day meter reading at 8 o clock is= 9480
+The difference between two readings for 24 hours = 9480-9000= 480
+For 1 hour is = 480/12= 20kmph
+Robinsons cup anemometer
+34
+Effect of wind velocity on crop growth:
+Favorable effect
+• Gentle or moderate winds are useful for continuous supply and absorption of CO2 which
+is used in photosynthesis.
+• Calm or moderate blowing winds are useful for crop pollination.
+• A minimum wind speed of 15 kmph is needed for winnowing operations.
+• Ground water can be lifted up through wind mills.
+• Atmospheric temperature will be reduced reducing heat injury to plants.
+Unfavorable effect:
+• Long exposure to strong winds causes morphological changes in crop plants.
+• Exposure of growing plants to hot wind results in dwarfing due to desiccation of plant
+tissue and reduce the growth. Sand particles blows with the strong windsdamaging the
+plant tissue.
+• Wind speed more than50kmph leads to lodging of crops leading to heavy loss.
+• Horticultural crops like banana, coconut have fruit drop with heavy loss.
+• Wind stronger than 8kmph can lift the sand in arid regions leading to formation of sand
+dunes.
+• Wind increases the crop water requirement by increasing evaporation due to removal of
+accumulated humid air near the leaves.
+• Heavy wind during the flowering reduces pollination; causes flower shed increases sterility
+and reduces fruit set in all crops.
+• Heavy strong winds cause wind erosion and cover the crops with sand in desert areas.
+Lecture No: 9
+Atmospheric humidity and its expression – Wet and Dry bulb
+thermometers - Effect of Humidity on Crops
+Humidity is an important factor in crop production and it is not an independent factor but closely
+related to rainfall and temperature. It plays significant role in weather and climate. The dampness
+of air is called humidity.
+1. Absolute humidity
+It is the ratio of the mass of water vapour to the volume of moist air in which it is
+-1
+contained. Absolute humidity is expressed as kg m .
+2. Specific humidity
+35
+It is defined as the ratio of the mass of water vapour in a sample of moist air to
+the total mass of the sample. It is expressed as kg of water vapour in a kg of
+moist air.
+3. Relative humidity
+It is expressed as the ratio of actual vapor pressure to the saturated pressure expressed in
+terms of percentage. It is most common measure of atmospheric humidity.
+Dry and Wet bulb Thermometer:
+An instrument used to measure the amount of water vapor or relative humidity in the air. It is a
+combination of wet-and-dry –bulb thermometers mounted on a frame. It essentially consists of
+two ordinary, accurate, mercury thermometers. One has thin muslin wrapped around it and is kept
+wet; it is called a wet bulb thermometer. The other is dry bulb thermometer this shows the current
+temperature, where as wet bulb thermometer shows a somewhat lower temperature, the result of
+the latent heat of evaporation, which depends on the relative humidity of the air. The difference
+between the two thermometers is a measure of relative humidity of air, which is calculated by
+formula.
+Hair hygrometer:
+A Hair hygrometer that measures relative humidity by means of variation in length of a stand of
+human hair.
+36
+Effects of humidity on crops
+a. Humidity is the invisible vapour content of the air and is of great
+importance in determining the vegetation of a region.
+b. It affects the internal water potential of plants.
+c. Humidity is a major determinant of potential evapotranspiration. So, it
+determines the water requirement of crops.
+d. It influences certain physiological phenomena including transpiration.
+e. Change in relative humidity can produce various morphological and
+anatomical changes in the plants. For example, orchids grow
+abundantly in humid forests as epiphytes depend for their moisture
+supply on the atmosphere by developing certain morphological and
+anatomical characteristics that are not found in other plants
+(hygroscopic aerial roots).
+f. Xerophytes in desert region where relative humidity is low show certain
+adaptations to conserve water.
+g. High relative humidity can prolong the survival of crops under moisture stress.
+h. Relative humidity plays a significant role in the outbreak of disease and
+pest epidemics. High humidity promotes the growth of some
+saprophytic and parasitic fungi and bacteria which cause various plant
+diseases.
+i. Very high or very low relative humidity is not conductive for higher yields.
+Lecture No: 10
+Evaporation- Effect of evaporation on Crops- USWB open pan evaporimeter
+Evaporation
+The sun is the source of energy that activates the hydrologic cycle i.e. the
+heat required for evaporation is supplied by the sun. The moisture in the
+atmosphere is supplied by evaporation.
+Evaporation is defined as “A physical process in which liquid water is
+converted into its vapour”.
+In this process molecules of water having sufficient kinetic energy to
+overcome the attractive forces tending to hold them within the body of liquid
+37
+water are projected through the water surfaces.
+Factors affecting the evaporation
+Evaporation losses from a fully exposed water surface are essentially
+the functions of several factors.
+I Environmental factors
+1. Water temperature: With an increase of temperature the kinetic energy of
+water molecules increases and surface tension decreases. So, the rate of
+evaporation increases with a rise in temperature. The maximum amount of
+water vapour that can exist in any given space is a function of temperature.
+2. Wind: The velocity of wind is directly proportional to evaporation from a
+fully exposed surface and vice versa. The reason is that the dry wind replaces
+the moist air near the water. The process of evaporation takes place
+continuously when there is a supply of energy to provide latent heat of
+evaporation (approximately 540 calories per gram of water evaporated at
+100oC).
+3.Relative humidity: A mechanism to remove the vapour so that the vapour
+pressure of the water vapour in the moist layer adjacent to the liquid surface is
+less than the saturated vapour pressure of the liquid i.e., a vertical gradient of
+vapour pressure exists above the surface.
+When the air above water is dry or has low relative humidity, the
+evaporation will be greater than when air has high relative humidity over the
+water.
+4.Pressure: The evaporation is more at low pressure and vice versa.
+II Water factors
+1. Composition of water
+The dissolved salts and other impurities decreases the rate of evaporation.
+Evaporation is inversely proportional to the salinity of water. The rate of
+evaporation from the surface of the sea is less than that of fresh water in
+rivers. Under equivalent conditions ocean water evaporates 5 per cent less
+than fresh water in rivers.
+2. Area of evaporation
+If two volumes of water are equal in two containers evaporation will be greater for
+the one having the larger exposed surface
+Effect of Evaporation on crops:
+• Evaporation decides the water requirement of crop.
+• It changes the micro environment of the crop.
+• Evaporation is the major factor in heat budget.
+• It plays a vital role in water saving / moisture conservation activity.
+38
+USWB CLASS A PAN EVAPORIMETER:
+• A standard USWB class- A pan evaporimeter is the most widely used evaporimeter in the
+world for finding evaporation from the free water surface. It consists of a 120 cm diameter
+and 25.2 cm deep pan made of 20gauge galvanized iron sheet with a stilling well. A
+vertical pointer is provided in the stilling well to show the level of water maintained in the
+pan. The pan is painted white and is placed on wooden frame so that air may circulate
+beneath the pan.
+• Daily evaporation rate is given by the fall of water level in the stilling well during 24 hours
+period. Measurement of the fall of water level may be made at closer intervals to know the
+evaporation rate during different parts of the day.
+• Volume of the water = area X depth
+Lecture No: 11
+Rainfall- Precipitation- Fog- Types of Rainfall- Measurement of
+rainfall- Monsoons-Effect of rainfall on Crops
+Generally the terms precipitation and rainfall are used as synonyms with each other. Precipitation
+is defined as "Earthward falling of water drops or ice particles that have formed by rapid
+condensation in the atmosphere and are too large to remain suspended in the atmosphere". In
+condensation the water vapor is suspended in the air in different forms. But, in the precipitation an
+appreciable deposit either in solid or liquid form takes place on the earth surface. There are some
+common forms and different types in precipitation.
+Rainfall:
+Hot air moves up from the earth surface, condenses the water vapor to small water droplets in the
+atmosphere. These water droplet size reaches to 0.2 mm reaches down to the earth by the
+gravitational force is called rainfall.
+Favourable points to from water vapour to liquid:
+1. Presence of condensation nuclei like dust, smoke, pollen grains in air.
+2. Sufficient vapour moisture in air
+3. Due point temperature.
+39
+Fog: when warm and moist air cools, tiny water droplets are formed that stay in the air is
+called “fog”
+Types of rainfall
+There are mainly 3 types of rainfall which are as follows:
+1. Convectional rains
+1 The air near the ground become shot and light due to heating. Then it starts
+upward movement. This process is known as convection (This differs
+slightly from ‘Convection'.
+2 As the air moves upward it cools at about 10oC per kilometre i.e., at dry
+adiabatic lapse rate.
+3 As it becomes saturated, relative humidity reaches to 100 percent and dew
+point is reached where the condensation begins. This level (height) is
+known as condensation level.
+4 Above this level, air cools at about 4oC per kilometre slightly less than i.e.,
+saturated adiabatic lapse rate. First, cloud is formed.
+5 Then, the further condensation results into precipitation. These rains are
+known as convectional rains and mostly occurs in the tropics.
+2. Orographic rains
+1 When moist air coming from the sea or ocean strikes mountain it cannot
+move horizontally. It has to overcome the mountains.
+2 When this air rises upward, cools down, cloud is formed and condensation
+starts giving precipitation.
+3 These rains are known as orographic rains.
+4 These are also known as `relief rains" as the rains also occurs when the air
+from sea or ocean strike or pass over relief barriers.
+5 Due to these processes rains with high intensity are possible on the
+windward side of the mountain.
+3. Cyclonic and frontal rains
+1 The rains received from cyclones are known as` cyclonic rains’
+2 When two opposing air currents with different temperatures meet, vertical
+lifting takes place.
+40
+3 This convection gives rise to condensation and precipitation which is
+known as frontal precipitation.
+OROGRAPHIC RAINFALL
+CONVECTIONAL RAINFALL
+Rain gauge:
+A rain gauge is a metrological instrument to measures the precipitating rain in given time per unit
+area. The instrument consists of a collection container which is placed in an open area. The
+precipitation is measured in terms of the height of the precipitated water accumulated in the
+container per given time and is expressed in millimeters. Since the same amount of rain
+precipitation is assumed to be occurring around the container, the area of collection is not a factor.
+However, it should not be too small, neither should it be too large.
+41
+Monsoons
+The term monsoon is derived from an Arabic word “Mausum” means
+“Season”. There are different concepts to explain Indian monsoons. Of them
+the “Thermal concept” proposed by Halley in 1636 is of more practical
+relevance than other concepts like aero logical, Flohinsetc. The two types of
+distinguished monsoons over India are
+a. South-West monsoon (SW), 2. North-East monsoon(NE)
+42
+1. South-West monsoon(SW)
+1 In summer the land mass of India heats quickly and develops a strong
+low pressure centre, particularly over north-west India during April and
+it exists up to September.
+2 As the pressure over the adjacent oceans is high, as to land pressure
+gradient is established.
+3 Therefore, the surface air flow is from the high pressure areas over the
+oceans towards the low pressure areas over the heated land.
+4 Even though India should have North east monsoon winds throughout
+the year due to its position in NE trade wind zone the SW winds
+predominate because of the low pressure through lessing along Ganges
+and upper India.
+5 Theairthatisattractedintothecentresoflowpressurefromovertheoceansis
+“Warm and moist”.
+6 This monsoon is active from June to September.
+7 The rainfall received is 80 to 90 per cent of the total annual rainfall of
+India covering all parts.
+8 This monsoon enters Kerala on June and by 15 July reaches the
+northern most parts of the country.
+9 There are two branches of the South West Monsoon.
+a. The Arabian Sea branch: This branch crosses Western ghats.
+b. The Bay of Bengal branch: This branch crosses Gangetic plains.
+Onset of SW- Monsoon
+43
+North-East monsoon
+1. A complete reversal of the South west monsoon winds takes place during winter.
+2. In this season the land mass over India cools more rapidly than the
+surrounding oceans.
+3. So, a strong high pressure centre develops over the continent.
+4. On the other hand, the pressure over the adjacent oceans is relatively lower.
+5. As a consequence, the pressure gradient is directed from land to sea and
+winds flow in North-East direction.
+6. Therefore, there is an outflow of air from the continental land mass to the
+adjacent oceans.
+7. The air flow brings “Cold dry” air towards low latitudes.
+8. This monsoon is active from October to mid-December.
+9. The rainfall received is 10 to 20 per cent of the total annual rainfall of
+India covering parts of Andhra Pradesh (Nellore, Chittoor) and Tamil
+Nadu.
+10. The driving mechanisms of monsoon
+• Differential heating of land and ocean masses causes a pressure
+gradient and wind is driven accordingly.
+• Twist to wind by rotation of earth.
+• Moist process determines strength, vigour, location etc.
+11. The path of monsoon air is distributed by diverse features like
+• Earth’s rotation
+• Mountain barriers
+• The retarding effect of friction as winds blow overland.
+44
+Fig: Onset of NE-Monsoon
+Withdrawal of monsoon
+1. The monsoon withdraws from northern India around mid-September.
+2. The monsoon withdraws from extreme South of Indian Peninsula by December.
+Break and Active in monsoon
+1 A period of lean rainfall occurs when “Trough” shifts towards foot hills of
+Himalayas which is known as break in the monsoon over Indiansub-
+continent.
+2 When the “Trough” shifts south of its normal position, monsoon becomes
+active over India.
+Economic importance and influence of monsoon rains on farm operations
+1 Nearly 54 per cent of population of the world depends on monsoon for
+their income.
+2 Monsoon rains are considered as life giving rains. Rice or paddy which is a
+major food crop depends on only rainfall for its yield. If rainfall is not
+uniformly distributed, it results in huge loss of rice crop in particular and
+all other crops in general.
+3 Heavy rain during harvesting causes lodging of crop and seed germination.
+If rainfall does not occur immediately after sowing, it results in
+germination failure.
+4 As in the case of other weather elements the amount and distribution of
+rainfall influence the crop yield considerably.
+45
+Example: Paddy and sugarcane require high amount of water as compared
+to groundnut and castor.
+5 Timely and evenly distributed rainfall during the crop growth is more
+beneficial than heavy rainfall occurring at once.
+6 Rainfall of 20 mm is necessary to wet the soil up to a depth of 15cmwhich
+rainfall helps in decomposition of organic matter and also influences the
+fertility status of the soil by way of leaching of nutrients.
+7 Many farm operations such as seed bed preparation, sowing,
+intercultivation etc. depend on rainfall.
+High rainfall effects:
+1. High rainfall effects the infiltration due to saturation of soil, with this aeration to the root
+zone is effected as a result crop dies. Not only that the plant nutrients leaches to the lower
+layers resulting in nutrient deficiency.
+Low rainfall effects:
+1. Low and uneven distribution ofrainfall resultsin dry spells. In this dry spell plant growth
+and yields will get reduced, due to non availability of nutrients.
+2. During the dry spells evapo-transpiration is high than the soil moisture.
+Lecture No: 12 & 13
+Weather Disaster Management- Rainfall, Heat and Cold Waves,
+Windstorms, Thunder Storms And Dust Storms, Tornados, Defective
+insolation
+The deviation of climatic factors considerably from their normal values is
+referred as "Adverse weather" or" Adverse climate" depending on duration
+of such impact.
+The following are the adverse weather conditions and the possible management
+strategies
+1.Rainfall:
+a. High rainfall- floods
+High rainfall in less time leads to floods, with this water moves to low lying areas and
+causes floods as a result leading to crop lodging and losses. High rainfall more than
+12.5 cm(125 mm) in 2 hours 30 min is considered as high rainfall.
+Losses: crop lodging, sand Dunes, losses to agricultural properties, soil erosion,
+mortality oflivestock.
+Management
+1. Construction of major irrigation projects.
+2. Afforestation
+3. Construction of drainage channels in crop field.
+46
+4. Contour cultivation in low lying areas.
+b.Low rainfall- dry spells/ drought
+a. Low and uneven distribution of rainfall resultsin dry spells, main reasons for this is
+improper land preparation – resulting to hindrance in infiltration
+b. Not practicing the methods to arrest the soil moisture losses.
+c. High seed rate and high density planting.
+Management
+a. Collecting the runoff into tanks and utilization in dry spells.
+b. Cultivation of grasses on bunds to arrest the bunds damage.
+c. Planting the wind brakes/ fencing plants to reduce the evaporation.
+d. Cultivation of suitable crop varieties in drought prone areas.
+e. Selection of short duration crop varieties.
+2. Cold Waves
+During winter (December - February), temperature decreases generally
+over the Indian subcontinent. It is lower in northern-India and higher in
+southern- India. This
+fallintemperaturemaycausedamagetothecrops.Ifthetemperaturedropsonfreezing
+or below, a frost may occur which causes severe damage to the crops/crop
+plants. Threat of frost is danger tocrops.
+1. Frostisaformofcondensationthatformsoncoldobjectswhenthedewpointis
+below freezing
+2. Frosts are of twotypes.
+a. Advection or air mass frost: Which results when the temperature at
+the surface in an airmass is belowfreezing
+b. Radiationfrost:Whichoccursonclearnightswithatemperatureinversion
+3. There is a special case of frost caused by loss of heat by evaporation.
+This occurs when cold rain showers wet the leaves and are then
+followed by dry wind.
+Management
+• Maintenance of soilmoisture.
+• Wrapping plants with insulating material and enclosing the basal part of
+the plant.
+• Proper siteselection.
+• Choice of growingseason.
+• Breeding of cold resistantvarieties.
+3. Heat Waves
+These are very harmful during summer. These are experienced over
+Deccan and Central parts of India during March to May. The harmful effects
+47
+include shedding of fruits, plants drying of water resources.
+1 Loss of water by evaporation from irrigationchannels.
+2 Transpiration increases from plants beyond recoupinglevels
+3 Plants tend to wilt and die owing to rapiddesiccation.
+4 Hotwindscauseshrivellingeffectatmilkstageofallagriculturalcrops.
+Management
+Adoption of specific agronomic practices like, shelterbelts, choice of varieties etc.
+4. Thunderstorms, dust storms and hailstorms
+These storms are known as local severe storms. As many as 44,000
+thunder storms occur daily on earth.
+1 These are formed in a situation where a great deal of the energy for their
+genesis and development comes from the release of the latent heat of
+condensation in rising humidair.
+2 These local storms cause severe damage to the standing crop by causing
+mechanical injury to theplants.
+3 In dust storms, the dust is raised by the wind covers small plants, which
+may cause stomata closure andsuffocation.
+4 Hailscausedirectdamagetocropsbylodging,shatteringofseedsetc.,depending
+on theirintensity.
+Management
+1 Prevention of hails by hail suppressiontechniques.
+2 Following forecasts of weather and protectingcrops.
+3 Spraying of salt on harvested paddy, to prevent the germination / sprouting
+of harvestedproduce.
+5.Tornado
+This is a violent, destructive storm of small horizontal dimensions. A
+cumulonimbuscloudformsintoafunnelshapewithanvortexextendingfromthebase
+of the storm to the surface. The Whirl-wind encircles a small dimension of
+about 500 meters. These are capable of causing severe structural and other
+damages. The violent winds associated with this abnormality are strong
+upward air currents. The tornados occurring on water are known as
+“Waterspouts”.
+Management
+1 Warning inadvance
+2 Precautionstoprotecttheagriculturalproduceliketransportationtosafetyplac
+es etc.
+3 Quick removal of debris immediately afterdamage.
+48
+6.Excessive or defectiveinsolation
+Excessive solar radiation results in rise of soil and air temperatures. Defective
+insolation with consistently cloudy weather on one hand and consistently bright and
+high intensity sunshine on the other hand causes enormous damage to crop plants.
+1 Cloudy weather retard growth, affect pollination and cause disease and
+pest incidence.
+2 High solar radiation intensity cause pollen burst or flowerdrop.
+Management
+Since, these are very rare, the location specific solutions like
+1 Proper siteselection.
+2 Allowing airdrainage.
+3 Adequate watersupply.
+4 Pruning of orchardtrees.
+5 Spray of chemicals and planthormones.
+6 Covering plants with "hot caps" (covering plants with some standard and
+recommended material) may provebeneficial.
+Lecture No.14
+Weather Forecasting
+The weather elements which influence the agricultural operations and crop
+production can be forecast upto different spans of time. Weather forecast is defined as
+“prediction of weather for the next few days to follow”.
+49
+Utility of weather forecasts
+In India the total annual pre harvest losses of various crops range from 10 to 100
+percent. Similarly, the post harvest losses average upto 10 percent.When an accurate
+weather forecast is given for the needs of agriculture it contributes immensely to the
+monetary benefits of the farmers.
+• Short term adjustments in daily and weekly agricultural operations.
+If heavy rain occurs immediately after sowing of seeds the seeds are
+washed away. If a hail storm occurs during harvesting it causes shedding
+of grains and fruits. If warned in time the farmer would hurry up some of
+the operations or postpone them suitably adjusting the cropping
+operations to weather conditions.
+• Minimising input losses resulting from adverse weather (seeds,
+chemicals, fertilizers, diesel or electric power used for irrigation etc).
+The critical periods for normal growth of the crop can be adjusted for
+healthy growth and development of crop.
+• Markedly improve the yields of crops both qualitatively and quantitatively.
+The yield of the crop is determined by weather conditions to a greater
+extent, seeds, chemicals fertilizers etc. If weather is predicted in advance
+the amount spent on irrigation, electricity, labour can be reduced
+substantially. Nearly, 50per cent of farmers will definitely be benefited if
+warnings are given well in advance to them.
+If farmer knows when the monsoon rains are likely to commence and
+how the rainfall could be from time to time in the season he would be
+able to plan his agricultural operations like preparation of seed bed,
+manuring, intercultivation including drying and threshing of the produce.
+Prime requirements for weather forecasting
+1. A good dataset
+2. A good method which can be used toforecast.
+Weather data used in forecasting
+The following weather elements are measured routinely.
+1. Pressure, temperature, wind (speed and direction)humidity.
+2. Rainfall, cloud (type and amount), visibility pressure change, present
+and past weather, maximum and minimum temperaturesetc.
+Types of observations
+The main observations used in different weather forecasting types are as follows:
+1. Surface observations
+2. Upper air observations
+3. Aircraft observations
+4. Radar observations
+50

@@ -1,0 +1,2732 @@
+PROFESSOR JAYASHANKAR TELANGANA STATE AGRICULTURAL
+UNIVERSITY
+Land Surveying, Water Engineering and
+Green House Technology
+(Course No. DA-252 )
+Course No. DA-252 3(2+1)
+Land Surveying, Water Engineering and Green house Technology
+Theory Lecture Outlines
+S.No. Topic Page No.
+1 Basic formulas in measurements- Basic units of length, area and volumes 1-2
+2 Surveying – definition and objectives of survey, Types of Surveying.
+3 Measurements of distance
+4 Chain survey
+5 Cross-Staff and Optical Square working Mechanism
+6 Errors in chaining/surveying obstruct
+7 Main lines, offsets in surveying
+8 Field notes
+9 Triangulation survey area Identification
+10 Offset Survey
+11 Offset Survey Area Identification problems
+12 Compass survey- Prismatic Compass.
+13 Concept of Meridian, True Median, -Bearing, Reduced Bearing-Fore and
+Back Bearing
+14 Compass Surveying-Problems
+15 Soil and water conservation
+16 Crop-Water Management
+17 Crop-Water Management-Problems
+18 Irrigation Methods
+19 Sprinkler Method of Irrigation
+20 Drip Irrigation Method -Introduction-Advantages
+21 Pumps –Centrifugal pumps working method
+22 Submersible pumps
+23 Losses due to friction in pumps Problems
+24
+25 Irrigation water Measuring devises
+26 Green houses, advantages of green houses.
+27 Brief description of types of green houses, greenhouses based on shape,
+utility, construction, covering materials and cost, shade nets.
+28 Plant growth greenhouse environment
+29 Plant response to greenhouse environments
+30 Carbon dioxide Enrichment and Ventilation
+31 Computers use in Green Houses and Equipment required for controlling
+green house environment – summer cooling and winter cooling systems
+32 Green house construction
+Lecture No. 1
+Basic formulas-measurements, Basic units of length, area and volumes
+1. Area and Perimeter of Rectangle 4. Area and Perimeter of Trapezoid
+2. Area of Parallelogram
+5. Circumference (C) of a Circle and
+Area (A) of a Circular Region
+3. Area and Perimeter of
+Triangle 6. Volume and Surface Area of a
+Right Circular Cylinder
+1
+7. Volume and Surface Area of a Sphere
+2
+2
+Lecture No. 2
+Surveying & Levelling. Surveying– definition and objectives of survey, primary divisions of surveying,
+geodetic and plane surveys, classification, uses of surveys.
+1. Surveying It is the art of determination of horizontal distances, differences in elevation,
+directions, angles, locations, areas and volumes on or near the surface of the earth. It involves the
+measurement and recording of the size and shape (including the vertical shape) of an area on the
+earth‟s surface. The process of survey divided into two parts:
+(a) Field work- taking measurements
+(b) Office work- computing and drawing
+1.1 Object of survey :
+The primary object of survey is the preparation of plan or map. The results of surveys
+when plotted and drawn on paper constitute a plan. A plan is, the representation to some
+scale, of the ground and the objects upon it as projected on a horizontal plane, which is
+represented by the plane of the paper on which the plan is drawn. The representation is called
+a map, if the scale is small. If the scale is large, it is called a plan. On plan, only horizontal
+distances are shown. The scale of a map is the fixed relation that, every distance on the map
+bears to the corresponding distance on the ground. Suppose, if one cm on a map represents 5
+m on the ground, the scale of a map is 5m to 1 cm.
+1.2 Primary division of surveying
+Surveying may be divided into two general classes:
+(a) Geodetic surveying
+(b) Plane surveying
+1.2.1 Geodetic surveying
+It is also called trigonometrically surveying. The object of a geodetic surveying is to
+determine the precise positions on the surface of the earth of a system of widely distant
+points and the dimensions of areas. In this survey, the curvature of the earth is taken into
+account, since large distances and areas are covered. Artificial earth satellites have come
+into wide use in this survey.
+1.2.2 Plane surveying
+In this survey, the earth‟s surface is considered as a plane. The curvature of the earth is
+not taken into account, as the surveys extend only to small areas. The line joining any two
+points as a straight line, and all angles are plane angles. Surveys normally carried out for the
+location and construction of roads, canals and, buildings. In general, the surveys necessary
+for the works of man are plane surveys.
+3
+Types of Surveying
+1.3 Classification: Surveys may be classified in a variety of ways.
+I. Classification based upon the nature of the field of survey:
+(a) Land Surveys.
+(b) Marine or Navigation Surveys.
+(c) Astronomical Surveys.
+II. Classification upon the object of survey:
+(i) Archaeological surveys.
+(ii)Geological Surveys -for determining different strata in the earth‟s crust.
+(iii) Mine Surveys- for exploring mineral wealth such as gold, coal, etc.
+(iv) Military Surveys- for determining points of strategic importance both offensive and
+defensive.
+III. Classification based upon the methods employed in survey:
+(a) Triangulation Surveys.
+(b) Traverse Surveys.
+IV. Classification based upon the instrument employed:
+(i) Chain Surveys.
+(ii)Theodolite Surveys.
+(iii)Tacheometric Surveys.
+(iv) Compass Surveys.
+(v) Plane Table Surveys.
+(vi) Photographic and Aerial Surveys.
+1.4 Agricultural surveying It is a simple plane surveying. It includes laying out contour and
+terrace lines for soil conservation, drainage lines, profile lines for land leveling and ditch
+lines for irrigation, computing field and farm areas and laying out farm buildings and roads.
+1.5 Uses of survey The planning of all engineering and construction projects extending over
+large areas, such as highways, railways, irrigation, water supply etc., are based upon
+elaborate and complete surveys.
+4
+Lecture No. 3
+Measuring of distances
+Four main direct methods that are available for measuring distance. The direct methods
+are: 1. Pacing 2. Instrumental Method 3. Judging Distance and Time Measurements 4. Chaining.
+1. Pacing
+The pacing technique is mostly employed in preliminary surveys and explorations. In this
+method, the surveyor is required to conduct a rough survey quickly. This also roughly check the
+distance measured by other means.
+Fig,3.1. Pacing in Surveying
+In this method, the number of paces between the two points of the line is counted. Knowing the
+average length of the pace helps to know the length of the line. The length of the pace is
+dependent on the person who is measuring, the ground, the speed of pacing and the slope of the
+country.
+By walking on an approximate level ground over various lines of known lengths helps to
+determine the length of one‟s natural step. Performing pacing over rough ground or on slopes is a
+difficult process.
+2. Instrumental Method
+2.1 Passometer
+The passometer is a watch like instrument that is carried on the person‟s pocket or tied on the
+man‟s leg. This instrument records the paces when the man moves from one point to another.
+5
+Fig.3.2 Passometer
+This technique hence overcomes the monotony and strain in counting the paces by the
+surveyor. The distance is calculated as the product of the number of paces and the average length
+of the pace.
+2.2. Pedometer
+Pedometer is a similar device like passometer that automatically measures the distance. A
+pedometer is best in measuring the vertical distances.
+Fig.3.3 Pedometer
+2.3 Odometer
+Odometer is an instrument that measures the number of revolutions of a wheel. The
+number of revolutions taken to cover the length multiplied by the circumference of the wheel
+gives the value of the distance covered.
+Fig.3.4 Odometer in Surveying
+3. Judging Distance and Time Measurements:
+For very approximate results such as in reconnaissance survey, the distances may be
+determined by judgement only. The distances are also roughly determined by knowing the
+average time taken per km by a person at walk or a horse at trot and the total time taken to cover
+that distance.
+6
+4. Chaining:
+The operation of measuring distance with the help of a chain or a tape is called chaining.
+It is the most accurate of all the methods of measuring distance and is commonly used.
+Ordinarily a chain is used for measuring the distance but where great accuracy is required, a steel
+tape is invariably used
+7
+Lecture No. 4
+Chain survey
+4. Chaining:
+It is the method of measuring distance with a chain or tape. Of the various methods of
+determining distance, chaining is the most accurate and common method. For work of ordinary
+precision, a chain is used. But, where great accuracy is required, a steel tape is invariably used.
+4.1 Instruments used in Chain survey
+Instruments used for measuring distances
+1. Chain
+2. Tape
+Instruments used for marking survey stations
+1. Ranging rod
+2. Offset rod
+3. Laths and whites
+4. Pegs
+Instruments used for setting right angles
+1. Cross staff
+2. Optical square
+Other instruments:
+1. Arrow
+2. Plumb bob
+4.1.1 Chain
+The chain is composed of 100 or 150 pieces of links, made up of 4 mm diameter
+galvanized mild steel wire. The ends of each link bent into a loop and connected together by
+means of three oval rings which offered flexibility to the chain and make less liable to become
+kinked. The joints of the links are usually open, but in the best chains they are welded so as to
+render the chain less liable to stretching. The ends of the chain provided with brass handles for
+dragging the chain on the ground, each with a swivel joint, so that the chain can be turned round
+without twisting. The length of a link is the distance between the centers of the two consecutive
+middle rings. The end links include the handles. Metallic tags or indicators of distinctive pattern
+are fixed at various distinctive points of the chain to felicitate quick reading of fraction of a chain
+in surveying measurements.
+4.1.2 Metric chain
+IS 1492-1956 covers requirement of chains in metric units. The chains are made in length
+of 20 and 30 meters .To enable the reading of fractions of a chain without much difficulty, tallies
+are fixed at every five-meter length and small brass rings are provided at every meter length,
+except where tallies are attached. Connecting links between two large links are oval in shape, the
+central one being a circular ring. The length of the chain is marked over the handle to indicate
+the length and also to distinguish from non-metallic chains. The length of each link is 0.2 m
+8
+(20cm) in 20m chain is provided with 100 links and 30 m chain divided into 150 links (Fig. 4.1).
+The advantages of the chain are :
+(i) it is very suitable for rough usage
+(ii) it can be easily repaired in the field
+(iii) it can be easily read.
+Fig.4.1 Metric chain
+4.1.3 Types of chains
+(1) Gunter’s Chain: It is also called surveyor‟s chain. The Gunter‟s chain is 66 ft. long and is
+divided into 100 links. Therefore, each end link is equal to 0.66 ft. long. It is very convenient for
+measuring distances in miles and furlongs and for measuring land when the unit of area is an
+acre, on account of its simple relation to the mile and the acre.
+i. 10 Guntur‟s chains – 1 furlong
+ii. 80 Guntur‟s chains- 1 mile
+iii. 10 square Guntur‟s chains – 1 acre
+9
+(2) Revenue Chain: The revenue chain is commonly used for measuring fields in cadastral
+survey. It is 33 ft. long and divided into 16 links.
+(3) Engineers’ Chain: The engineer‟s chain is 100 ft. long and is divided into 100 links each
+link is equal to 1 ft. The construction details are same as that of a Gunter‟s chain. It is used on all
+engineering surveys. The distances measured with the engineer‟s chain are recorded in feet and
+decimals.
+(4) Steel Band: The steel band, also called the band chain, consists of a ribbon of steel with a
+brass swivel handle at each end. It is 20 or 30 m long and 16 mm wide. It is wound on open steel
+cross, or on a metal reel in a closed case. The graduations are marked in two ways: (a) The band
+is divided by brass studs at every 0.2 m and numbered at every l m, the first and the last link
+being subdivided into cm and mm, (b) The graduations are etched as meters, decimeters,
+centimeters on one side and 0.2 m links on the other. Brass tallies are fixed at every 5 m length
+of the band. It is best adapted to general field work and rough usage. For accurate work, the steel
+band is now preferred. It is lighter and easier to handle than the chain. It is practically unalterable
+in length. It must be protected from rust by frequent cleaning and oiling.
+4.1.4 Tapes: When greater accuracy is required in measurement and the ground to be surveyed
+is not very rough, the tapes can be used. Tapes are available both in ft. and meters. For
+surveying, mostly 30 m tape is used. Tapes made of various materials and are, therefore, divided
+into five classes:
+(1) Cloth or linen,
+(2) Metallic,
+(3) Steel,
+(4) Invar and
+(5) Synthetic material.
+(1) Cloth or linen Tape: It is made of varnished strip of woven linen 12 to 16 mm wide with a
+brass handle at zero ends, whose length is also included in the length of the tape. The tape is
+attached to a spindle and is wound in a leather case. It is very light and handy, but not so
+accurate. For very precise measurements, it is not used. The linen tape may be used for taking
+subsidiary measurements such as offsets. It is easily affected by damp. When the tape gets wet, it
+shrinks and care should be taken that it is not wound up until is cleaned and dried. It stretches
+easily and is likely to twist and tangle. It is therefore little used in surveying.
+(2) Metallic Tape: It is made from good quality cotton or linen and is reinforced with fine brass
+or copper wires. This prevents stretching of fibers and is therefore, better than simple linen tapes.
+They are also not suited for very precise measurements. It is made in lengths of 2, 5, 10, 20, 30
+and 50 meters.
+10
+(3) Steel Tape: It is made of steel ribbon or stainless steel, or may be provided with vinyl
+coating and is very accurate. It is used for very precise measurements and for checking the
+accuracy of chain lengths. The denominations of the tape measures are 1, 2, 10, 30, and 50 m.
+The outer end of the tape is provided with a ring or other device facilitating withdrawal. The ring
+or the device is fastened to the tape by a metal strip of the same width as the tape. The length of
+the tape includes the metal ring when provided (Fig.4.2).
+Fig.4.2. Steel tape
+(4) Invar Tape: For work of the highest precision, the invar tape is generally used as in
+measurement of base lines in triangulation and in city work. It is made of an alloy of steel (64%)
+and nickel (36%) and possesses a very low coefficient of thermal expansion (0.6 ×10-4 for 1°C).
+It is 6 mm wide and may be obtained in lengths of 30 m, 50 m and 100 m.
+(5) Synthetic Tape: The tapes are manufactured of glass fibre having a PVC coating. They are
+graduated every 10 mm and figured every 100 mm whose metric figures are shown in red at
+every metre. The tapes maintain their lengths well and are convenient for measuring short
+lengths.
+4.1.5 Ranging Rods: The ranging rods are used for ranging lines and to mark stations which are
+at greater distance (Fig.4.3). They are made of well seasoned straight grained timber of teak, blue
+pine, sisso or deodar. They are circular or octagonal in cross section of 3 cm nominal diameter
+and pointed metal shoe of 15 cm long is provided at the lower end to facilitate fixing in the
+ground. They are made of two sizes namely one of 2 m and the other of 3 m and are divided into
+equal parts each 0.2 m long. In order to make them visible at a distance, they are painted
+11
+alternately black and white, or red and white or red, white, and black successively. When they
+are at a considerable distance, red and white and yellow flags about 25 cm square be fastened at
+the top to improve the visibility.
+4.1.6 Arrows (Chain pins): Accompanying each chain are 10 arrows. They are also called
+marking or chaining pins, and are used to mark the end of each chain during the process of
+chaining. They are made of good quality metallic wires of 4 mm (8 s. w. g.) in diameter and of a
+minimum tensile strength of 700N/ mm2. The wire is black enameled. The arrows are made 400
+mm in length, are pointed at one end for inserting into the ground and bent into a ring at the other
+end for facility of carrying. They should have a piece of white or red tape tied to the ring so that
+they can be made easily visible at a distance. To mark the end of each chain length, the arrow is
+inserted in the ground, but when the ground is hard, a scratch may be made with the pointed end
+(Fig.4.4)
+Fig.4.3 Ranging Rods
+4.1.7 Plumb bob: A plumb bob consists of a metal weight made of brass with a pointed end
+(Fig.4.5). It is suspended by a string and is used to locate points directly below or above another
+point. It is also used for accurately centering of compass or level or theodolite over a station
+mark, and for testing the verticality of ranging poles.
+4.1.8 Pegs: Wooden pegs are used to mark the positions of stations. They are made of hard
+timber and are tapered at one end (Fig.4.6). They are usually, 2.5 cm square and 15 cm long, but
+in soft ground, pegs 40 to 60 cm long and 4 to 5 cm square suitable.
+12
+Fig.4.4 Arrows Fig.4.5 Plumb bob
+4.1.9 Off-set rod: The off-set rod is similar to the ranging rod but is usually 3 m long and is
+divided into parts each 0.2 m in length. It is chiefly used for aligning the off-set line and
+measuring short off-sets.
+Fig.4.6 Peg
+13
+Lecture No. 5
+Cross-Staff and Optical Square working Mechanism
+5.1 Cross-Staff
+Cross-staff is used for (i) finding the foot of the perpendicular from a given point to a
+line, and (ii) setting out a right angle at a given point on a line. There are two types of cross-staff,
+namely, (1) the open and
+(2) the French, the first one being in common use.
+5.1.1 Open cross-staff:
+The simplest form of cross staff is the open cross staff. It consists of two parts (1) the
+head and (2) the leg. The head consists of four metal arms with vertical slits. The arms are rigidly
+fixed in such a manner so that the center of one pair of arms forming a straight line makes right
+angle with the other pair of arms. In one line, one of the slits is narrower than the other. One
+horse hair is fixed at the center of the wider slit. The object is sighted from the narrow slit in line
+with the hair. The cross staff is mounted on 25 mm diameter, about 1.5 metre long pole for fixing
+on the ground (Fig.5.1).
+For laying out a right angle at a point on the chain line, the cross staff is held vertically on
+the supporting pole at the given point. Ranging rod is fixed on the chain line on either side of the
+cross staff and sighted through the slit and horse hair. The cross staff is turned till the ranging rod
+is visible. At this time, one sight through the other pair of slits and another person fixes a ranging
+rod in this line of sight. Foot of the cross staff joined with the ranging rod gives perpendicular
+line with the chain line.
+Fig. 5.1 Open cross-staff
+14
+5.1.2 Optical Square: It is more accurate than the cross staff and it can be used for locating
+objects situated at larger distances. It is small and compact hand instrument (Fig.5.2) and works
+on the principle of reflection. Generally it is a round brass box about 5 cm in diameter and 1.25
+cm deep. There is also a metal cover to protect it from dust, moisture etc. As shown in fig. 8, it
+consists of horizontal mirror (H) and index mirror (1) placed at an angle of 450 to each other.
+The mirror H is half silvered and the upper half is plain while the mirror I is fully silvered. There
+are three openings a, b and c on the sides. Let AB is the chain line and it is required to locate an
+object O during the process of surveying. The optical square is held in such a manner that a ray
+of light from object O passes through slot c, strikes the mirror, gets reflected and strikes the
+silvered portion of the mirror H. After being reflected from H, the ray passes through the pin
+hole and becomes visible to the eye. The observer looking through the hole a can directly see the
+ranging rod at B through the un-silvered portion of the mirror H and he image of the ranging rod
+placed at O. Thus when both the ranging rods coincide, the line OD becomes perpendicular to
+the chain line. If they do not coincide, the optical square has to move back and forth to get the
+correct position of D.
+Fig. 5.2 Optical square
+15
+Lecture No. 6
+Errors in chaining/surveying obstruct
+6.1 Errors in chaining
+The errors that occur in chaining are classified as
+i.) compensating and
+ii.) cumulative. These errors may be due to variation in temperature, defects in
+construction and personal defects in vision.
+6.1.1 Compensating errors: are those which are liable to occur in either direction and hence
+tend to compensate i.e. they are not likely to make the apparent result too large or too
+small. Compensating errors are caused due to incorrect holding of the chain, fractional
+part of the chain may not be correct and during stepping operation, crude method of
+plumbing is adopted.
+6.1.2 Cumulative errors: are those which occur in the same direction and tend to add up or
+accumulate i. e., either to make the apparent measurement always too long or too short.
+(i) Positive errors - These errors makes the measured length more than actual length.
+(ii) Negative errors - making the measured length less than the actual.
+6.2 Chaining a line
+In all chaining operations two men, called chainmen, are required. The chainman at the
+forward end of the chain is called the leader or head chainman, while the chainman at the rear
+end the chain is known as the follower or rear chainman. The duties of the leader are ;
+(i) to drag the chain forward,
+(ii) to insert arrows at the end of every chain, and
+(iii) to obey instructions of the follower,
+While the duties of the follower are;
+(i) to place the leader in line with the ranging rod or pole at the forward station,
+(ii) to call out instructions to the leader,
+(iii) always to carry the rear handle in his hand and not to allow it to drag on the
+ground, and
+(iv) to pick up the arrows inserted by the leader. The chainman who is more intelligent
+and experienced be selected as the follower, as upon his care and judgment
+depends the accuracy of measurements.
+6.2.1 Unfolding the Chain
+To lay out the chain on the ground, remove the leather strap, take both the handles in the
+left hand and throw the chain well forward with the right hand. The leader, taking one handle of
+the chain may then be examined to see if there are any kinks or bent links. This operation is also
+called unfolding the chain.
+16
+6.2.2 Testing of a chain
+It is always necessary to check the length of chain before commencing each day‟s work
+and at frequent intervals; otherwise the measurement will become unreliable. Before testing the
+chain, the surveyor should see that the links and rings are free from mud that there are no links or
+bent links.
+The chain is tested by comparing it with
+(i) the chain standard (standard chain length)
+(ii) with the steel tape which should be kept in the surveyor‟s office for this sole purpose.
+If these are not available at hand, a test gauge may be established by driving two stout
+pegs in the required distance apart (20 m or 30m) and inserting nails into their tops to mark exact
+distance. It is advisable to have a permanent test gauge established in close proximity to the
+surveyors office.
+During the first use, the links become bent and, consequently the chain is shortened. It is
+also shortened by mud clogging the links when working over muddy ground. On the other hand,
+it gets elongated due to wear of many wearing surfaces, stretching of the links and joints, and
+opening out of the small rings and rough handling in pulling it through hedges and fences.
+6.3 Adjusting the chain
+If the chain is found to be too long, it may be adjusted by
+i) Closing up the joints of the connecting rings (that may be opened out)
+ii) Hammering back to the shape of the elongated rings
+iii) Replacing some of the worn out rings with new ones
+iv) Removing one or more of the small rings.
+If the chain is found to be too short, it may be adjusted by
+i) Straightening any bent links
+ii) Flattening some of the small connecting rings
+iii) Replacing some of the worn out rings with new ones
+iv) Replacing a few of the rings by those of the larger size
+v) Inserting new rings as required
+6.4 Ranging: During measurement of the length of a line, it is necessary that the chain should be
+laid out on the ground in a straight line between the end stations. If the chain is long or end
+station is not clearly visible, it is necessary to place intermediate ranging rods to maintain the
+direction. The operation of establishing intermediate points on a straight line between the
+terminal points is known as ranging. Ranging should be done prior to chaining. Ranging is
+usually done by eye or by using instruments like line ranger and theodolite. Ranging is of two
+kinds, namely, direct and indirect ranging.
+17
+6.4.1 Direct ranging: When the end points are visible from one another, intermediate ranging
+rods are placed in line by direct observation, the process is known as direct ranging. Procedure
+Let us assume that A and B are end points of a survey line visible from one another. Fix two
+ranging rods vertically at stations A and B of survey line. The surveyor standing behind the
+ranging rod at A and looks towards B, directs the assistant to move in the chain line and
+establishes an intermediate station “P”. The point “P” should lie in the straight line joining AB.
+The surveyor then directs the assistant to move his ranging rod to right or left until the three
+ranging rods at A, P and B appear to be exactly in a straight line. Similarly, any number of
+intermediate stations can be established between two end stations. Measure the distance between
+A and B and record it in observation sheet.
+6.4.2 Indirect ranging: When the end stations of a line are not intervisible due to high ground or
+intervening hill and also when the ends of a line are not distinctly visible from one another due to
+distance being too great, then indirect ranging can be adopted. Various obstructions, such as
+ponds, hills, buildings, rivers are continuously come across in chaining process. It is however
+essential that chaining should be continued in a straight line, special methods are therefore
+employed in measuring distances across the obstructions. The various cases may be classified as:
+i) Chaining is free, vision is obstructed, eg. raising ground (or) a hill intervening.
+ii) Chaining obstructed but vision free, eg. pond, river, plantations, and tank.
+iii) Both chain and vision are obstructed, eg. buildings.
+i) Chaining is free vision is obstructed: In this case, the ends of a line are not inter visible.
+There are two cases to be considered.
+Case-1: Both ends may be visible from intermediate points on the line.
+Case-2: Both ends may not be visible from any intermediate point.
+Procedure for case-1: Let A and B are the two stations across a hill. Ranging rods are placed at
+one of them is not visible from other. The following may be followed for ranging.
+1) As shown in fig.4.9(a), select two intermediate points C and D such that ranging rods at B
+and D are visible from C and ranging rods at A and C are visible from D. Also A, C, D, B
+should be nearly as possible in a straight line.
+2) The person at C looks towards B and directs the man at D to fix his ranging rod in a manner
+such that C, D, B are in one straight line.
+3) Now the person at D looks towards the ranging rod at A and directs the man at C to fix his
+ranging rod at a place such that A, C and D are in one straight line.
+4) Steps 2 and 3 above are repeated till the person at C finds C, D,. B to form a straight line and
+simultaneously, the person at D finds A, C, D also to form a straight line, then all the four
+points A, C, D, and B are lie in straight line.
+18
+Fig. 4.9 (a). Indirect method of ranging
+Procedure for case 2: This case occurs, when it desired to run a line across a wooded field, the
+trees and under-bush preventing the fixing of intermediate stations. In such a case, the method of
+random line is the most suitable.
+Fig.4.9 (b). Random method of ranging
+As shown in fig. 4.9 (b), let AB be the line whose length is required. From A, run a line
+(AB ), called a random line in any convenient direction, but as nearly towards B as can be
+1
+judged and continue until the point B is visible from B . Chain the line to B , where BB is
+1 1 1
+perpendicular to AB and measure BB , then
+1 1
+AB =
+ii) Chaining obstructed, but vision free: This problem is to find out the distance between two
+convenient points on the chain line on either side of the obstruction. There are two cases:
+Case-1: In which, it is possible to chain round the obstruction.
+Ex: A thorny hedge, a pond, a bend in the river.
+Case-2: In which, it is not possible to chain round the obstruction.
+Ex: River
+Procedure for Case-1: Select two convenient points A and B on the chain line PR and on either side of
+the obstruction (Fig.4.10). Then, erect equal perpendiculars AC and BD and measure the length CD. Then
+AB=CD.
+19
+Fig. 4.10 Chaining obstructed but vision free (Case-1)
+Procedure for Case-2: Select two points A and B on the chain line PR on opposite banks of river
+(Fig.4.11). Set out a perpendicular AD and bisect it at C. At D, erect a perpendicular DE and mark the
+point E in line with C and B. Measure DE, since the triangles ABC and CED are similar, then AB=DE.
+Fig. 4.11 Chaining obstructed but vision free (Case-2)
+iii) Both chaining and vision both obstructed: In this case the problem consists in
+prolonging the line beyond the obstruction and determining the distance across it. A building is a
+typical example of this class of obstruction.
+Procedure: Choose two points A and B on the chain line PR (Fig.4.12). At A and B, erect
+perpendiculars AE and BF of equal lengths. Check the diagonals BE and AF, which should be
+equal and also EF, should be equal to AB. Prolong the line EF past the obstruction and select two
+points G and H on it. At G and H, set out perpendiculars GC and HD are equal in length to AE.
+The points C and D are obviously on the chain line PR and BC=FG. Great care must be taken in
+setting out perpendiculars and to see that their lengths are exactly equal.
+20
+Fig. 4.12 Both chaining and vision are obstructed
+4.7 Errors in measurement due to incorrect length of chain
+The length of a chain may be correct at the beginning, but it may change with time as
+more and more used. Due to continuous use of the chain over rough ground, the oval shaped
+rings get elongated and thus the length of the chain increases. On the other hand some of the
+links may get bent for there may be kinks. As a result the chain length reduces. In a very old
+chain, some ring or links may be missing. Therefore, before the start of the work the correctness
+of the chain length should be tested with a steel or invar tape. If the chain is too long, measured
+distance will be less and if the chain is short, the measured distance will be more than the actual
+distance. However, the measured distance can be corrected by using the formula:
+Correct distance = [ ] × measured distance
+Where = incorrect length of a chain,
+L= normal correct length of a chain which may be 20m, 30m,etc.
+Therefore, correct distance ×correct length of chain= Incorrect distance × incorrect length
+of chain. If „e‟ is elongation or shortening of chain length, = (L+ e) , plus sign is used when
+the chain is too long and minus sign is used when the chain is too short.
+Example 1: The length of a line was found to be 600m when measured with 20 m chain. If the
+chain is 15 cm short, find the correct length of line.
+Solution:
+True length of the chain, L = 20 m
+21
+The chain is 15 cm short.
+Measured distance = 600 m
+Incorrect length of chain, = 20 – = 19.85 cm
+(minus sign is used because the chain is short)
+⸫ Correct distance = [ ] × measured distance
+= x 600 = 595.5m
+Example 2: The area of a field was found to be 4000 m2 when measured with 30m chain. If the
+length of the chain was 0.11m too short, find the correct area.
+Solution: True length of the chain,
+L = 30 m the chain is 0.11 m short.
+Measured area = 4000 m2
+Incorrect length of chain,
+= 30 – 0.11 = 29.89 m
+(minus sign is used because the chain is too short)
+[ ]2
+Correct area = × measured area
+[ ]2x
+= 4000 = 3970.72 m2
+22
+Lecture No. 7
+Main lines, offsets in surveying
+7.1 Base Line: The longest chain line in chain surveying is called the base line. This is the most
+important line and the whole framework of triangles is based on this line and therefore, the
+baseline should be very accurately measured (Fig.7.1). It should be passing through the centre of
+the area.
+Fig. 7.1 Base, check and tie lines in triangulation survey
+7.1.1 Subsidiary or tie lines: When numbers of features are to be located and they are far away
+from the main chain lines, then subsidiary or tie lines are used to locate such details. In fig.13.,
+tie line FG is used to locate number of features. Tie line is obtained by joining two fixed points
+on the main survey line. Tie lines can also be used as check lines to check the accuracy of
+measurements and plotting.
+7.1.2 Check lines: Check lines are also called as proof lines. The mistakes of the measurement
+and plotting can be easily checked with the help of check lines. The check line is a line joining
+the apex of a triangle to some fixed points on the opposite side, a line joining some fixed points
+on any two sides of a triangle. Every triangle should be provided with a check line.
+7.2 A chain survey may be executed in the following steps:
+7.2.1 Reconnaissance: The preliminary instruction of the area to be surveyed is called
+reconnaissance. It is essential that the surveyor should have a thorough knowledge of the ground
+to be surveyed and its principle features. On arriving at the ground, the surveyor should
+23
+therefore, walk over the whole area and thoroughly examine the ground, so as to decide upon the
+best possible arriving of the work. The surveyor should note the various boundaries, the positions
+of buildings, roads, streams etc., various difficulties that may intervene the proposed chain lines
+and the suitable positions of the stations. During the reconnaissance, the surveyor should prepare
+a neat hand sketch called an index sketch or key plan fairly resembling the plan of the ground,
+showing the boundaries, the principles features such as buildings, roads, tanks, etc., the positions
+of the stations and chain lines. The sketch is drawn in the field.
+7.3 Marketing stations: Having completed the reconnaissance and the index sketch, survey
+stations should be marked on the ground by fixing vertically a ranging rod or a pole at each
+station if the survey is only of a temporary character.
+7.4 Reference sketches: After the stations are marked, they should be referred i.e., located the
+measurements called ties, taken from three permanent points which are definite and easily
+recognized i.e., corners of buildings, gate pillars, boundary stones, fence posts. Reference
+sketches in case the station marks are displaced or lost or required at a future data.
+7.5 Running survey lines: Having finished the preliminary work, chaining may be commenced
+from the base line and carried through all the lines of the frame work as continuously as possible
+24
+Lecture No. 8
+Field notes
+4.13 Booking field notes
+A field book is used for noting the readings when the survey is carried out. The field
+book is about 22.5 cm long and 12.5 cm (Fig.8.2) wide and opens length wise. Generally single
+or double red lines are drawn in the middle. Chainage lengths are noted in between the two red
+lines and the space on either side is used for writing the offset lengths and for drawing rough
+sketches of figures. The booking is commenced from the bottom of the page and work upward.
+The initial and final chainage should be marked with a symbol ∆ and capital letters like A, B, C
+etc., should be used to mark the stations. While noting the readings, the surveyor should face the
+direction of chaining and offsets should be entered on the left or right side as they are situated.
+The conventional symbols (Fig.8.1) should be used for recording different features. Each new
+chain line should be started from a new page. One sample page of a field book is shown in
+fig.15. At the commencement of the line in the book is written: the name (or) numbers of the
+survey line, the name (or) number of station, the symbol perpendicular donating the station, tie
+(or) subsidiary station should be indicated by a circle (or) a oval round their chainage figures, all
+around the chain line are entered in the central column and offset retain opposite them on the
+right (or) left of the column according as they are right (or) left of the survey line.
+25
+Fig. 8.1 Common symbols
+26
+Fig.8.2. Field book entry
+27
+Lecture No. 9
+Triangulation survey area Identification
+9.0 Measurement of areas
+One of the main purpose of surveying is to measure the area of an agricultural farm, area
+of plots to be used for construction purposes, command area of tube wells, canals etc. Two
+general methods for measuring areas are: i) Triangulation, and ii) Traversing. In traversing, the
+length of connected lines as well as their directions are measured by chain and compass
+respectively.
+9.1 Triangulation survey
+Triangulation is the basis of trigonometrical or geometric surveys. As such triangulation
+refers to a system of surveying in which one line is measured with a chain and all the three
+angles are measured correctly by compass or theodolite. In case, only the sides of the triangles
+are directly measured in the field and no angular measurement is taken, it is called triangulation
+(or) chain surveying. The whole area is suitably divided into number of triangles and computes
+the area of individual triangles and added to get total area. In dividing the total area into
+triangles, care should be taken to see that the triangles are almost equilateral as far as possible to
+minimum the errors. Although, the chain triangulation is very simple, but it is suitable only for
+small plane areas without much obstruction.
+9.2 Survey stations
+A survey station is a point of reference at the beginning and end of a chain line. Stations are of
+two types, they are:
+i) Main stations
+ii) Subsidiary on tie stations.
+Main stations are the ends of the lines which connect the boundaries of the survey, and the lines
+joining the main stations are called the main survey or chain lines. Subsidiary or tie stations are
+the points selected on main survey lines to run auxiliary lines to locate the interior details such as
+fences, hedges, buildings etc. when they are distant from the main lines. The symbol “O” is used
+to denote stations. Capital and small letters are used to represent main and tie stations
+respectively.
+9.3 Selection of stations
+While arranging the frame work of survey by selecting different stations, the following
+points should be kept in mind:
+1) All the main stations should be inter-visible.
+2) The first principle in surveying is the working from whole to part and not from part to
+whole. This should be strictly followed.
+28
+3) Generally, a long line (base line) should be run approximately through the centre and the
+whole length of the area.
+4) All triangles should be well conditioned to make their sides almost equal.
+5) Long offsets should be avoided.
+6) As far as possible, the no. of survey lines should be minimized.
+9.4 Plotting procedure of chain survey
+After the survey is completed, the recorded information is taken to the office and they
+are plotted on a drawing sheet using a suitable scale. While plotting a chain survey, the following
+steps are to be followed:
+(i) Depending upon the area covered in the survey and its importance, a suitable scale is
+chosen. Boundary lines are drawn leaving a suitable margin all around.
+(ii) The base line which is the mainline in the survey should be suitably located in the map to
+accommodate the whole plotting easily in the drawing sheet. The base line should be
+most accurately plotted.
+(iii)The intermediate stations are marked on the base line and the frame work of triangles is
+completed.
+(iv) Chainage lengths are measured along the chain lines for various offsets and points are
+marked. From these points perpendiculars of suitable lengths are drawn to locate the
+offsets.
+(v) The accuracy of plotted frame work may be checked by means of check and tie lines.
+(vi) The field book should be kept side by side in the same direction as the survey proceeded
+in the field parallel to the chain line to be plotted.
+(vii) For drawing different objects, conventional symbols should be used.
+(viii) The title of the survey, name of the surveyor, date etc., should be written at the right
+hand bottom corner. The scale is drawn below the map.
+9.5 Drawing instruments required
+The following drawing instruments are generally used in drawing office works.
+1. Drawing table (size 2.4 × 1.2m)
+2. A drawing board of good quality (900 × 850m)
+3. The square with ebony edge (lengths vary from 500 × 150m)
+4. Set squares – required for drawing parallel and perpendicular lines.
+5. An instrument box
+6. Protractor
+7. Four set of French curves – required for drawing irregular and curved figures.
+8. A standard straight edge of 2m long for drawing long lines.
+29
+Areas of irregularly bounded fields - different methods.
+9.6 Measurement of areas of irregularly bounded fields
+Various formulae such as Mid-ordinate rule or Average ordinate rule, Trapezoidal rule
+and Simpson‟s rule are applied for computation of areas of irregular bounded fields. All these
+methods are suitable for long narrow strips such as grounds occupied by a railway or road. A
+base line is drawn through the area and the area is divided into a number of equal parts.
+Simpson‟s rule assumes that the different parts are portions of parabolic areas, where as the other
+rules assume that the boundaries between the extremities are straight.
+9.6.1 The Mid-ordinate Rule: In this method, the ordinates are measured at the mid-points of
+each division (Fig.16) and the area is calculated by the formula,
+Area ( ∆)
+=
+Where
+h1, h2, h3 etc., are the ordinates at the mid-points of each division
+l = the length of the base line
+n = the number of equal parts into which the base line is divided
+d = the common distance between the ordinates =
+Fig.9.1. Mid ordinate rule
+9.6.2 The Average Ordinate Rule: In this method, the ordinates are drawn and scaled at each of
+the points of division of the base line (Fig.17). The average of these ordinates multiplied by the
+length of the base line gives the required area.
+30
+Fig.9.2. Average ordinate rule
+Area ( ∆) = O + O + O + ………………+O
+1 2 3 n X
+n+1
+O , O , O etc., are the ordinates at each of the points of division
+1 2 3
+= the length of the base line
+n = the number of equal parts into which the base line is divided
+9.6.3 The Trapezoidal Rule: This rule is more accurate than the first two ones. In this method,
+the area is divided into a series of trapezoids (Fig.18). The rule may be stated as follows:
+“To the sum of the first and the last ordinates, add twice, the sum of the intermediate ordinates.
+Multiply the total sum thus obtained by the common distance between the ordinates. One half of
+this product gives the required area.”
+i.e., Area (∆) = O +2O + 2O + 2O + ………+ 2O +O
+0 1 2 3 n-1 n X
+2
+= Ø +2O + 2O + 2O + ………+ 2O +O
+0 1 2 3 n-1 n
+= d O + O +O + O + O + ………+ O
+0 n 1 2 3 n-1
+2
+31
+Fig. 9.3. Trapezoidal rule
+Note: When the base line cuts the boundary at one or both ends of the figure, O0 or On or both
+are zero. However, they must not be omitted from the formula.
+9.6.4 Simpson’s Rule: It may be stated as follows:
+“To the sum of the first and the last ordinates, add twice the sum of the remaining odd ordinates
+and four times the sum of all the even ordinates. Multiply the total sum thus obtained by one-
+third of the common distance between the ordinates, and the result gives the required area
+(Fig.19).”
+Area (∆) = O +4O + 4O + 4O + ………+ 2O +4O +O
+0 1 2 3 n-2 n-1 n
+Fig. 9.4 Simpson‟s rule
+Note: O , O , O , etc., ( the 2nd, 4th , 6th, etc., from the end) are even ordinates, and O , O , O ,
+1 3 5 2 4 6
+etc., ( the 3rd , 5th , 7th, etc., from the end) are odd ordinates.
+9.6.5 Comparison of Rules: The results obtained using Simpson‟s rule are greater or less than
+those obtained by using the Trapezoidal rule according as the curve of the boundary is concave
+or convex towards the base line. The results obtained by using the Simpson‟s rule are more
+accurate and, therefore, where great accuracy is required, it should be invariably used.
+For the application of the Trapezoidal rule and Simpson‟s rules, the interval between
+successive ordinates must be uniform throughout the length of the base line. If it is not the same,
+the base line may be divided into different sections, each having the same interval.
+32
+Lecture No. 10
+Offset Survey
+10 .1. Offsetting
+This technique may be employed as an independent method, but is more commonlyused
+in association with compass traverse work. It is particularly useful for filling in the fine detail
+missed by the compass traverse and accurately plotting the shape of linear features eg a river
+bank or morphological boundary.
+The technique requires that a straight base is established in the field (eg. one 'leg' of a
+compass traverse). Often a surveyors chain is used rather than a tape as it is less likely to flex,
+and the technique is often referred to as 'chain and offset'. The distance from this base line to the
+point of interest is then measured (the offset).
+Offsets may be taken objectively or subjectively. In the former case offsets are taken at
+fixed and regular intervals. In the latter, they are taken at points that the surveyor deems
+significant. In most cases a combination of the two works best.
+10.1.1Method
+1. Lay out a straight base line (as for a single leg of a compass traverse) as close to the features to
+be recorded as possible - the shorter the offset, the less room for error. Record the length and
+bearing of this base line.
+2. At each determined point measure the distance to the point of interest at 90o to the base line.
+3. Record the ground length along the base line to the offset.
+10.1.2.Plotting
+1. Reconstruct the base line of the survey, at the selected scale and in relation to North, as for a
+compass traverse.
+2. Plot offset data as recorded, identifying each offset point as a dot.
+3. If you were mapping a linear feature - join the dots !
+The above methods allow us to plot the spatial location of points of interest relative to one
+another. What they do not allow us to do is record any information about the shape of the land
+we are working on and the nature of any slopes at the site, normally essential information. The
+following method allows us to construct a cross-section of the slope, or slope profile.
+10.2. Chainage
+It is the distance of a well defined point from the starting point. In chain surveying it is normally
+referred to as the distance of the foot of the offset from the starting point on the chain line
+33
+10.3. Offset
+The lateral measurement taken from an object to the chain line is known as „offset‟. Offsets are
+taken to locate objects with reference to the chain line. They may be of two kinds -
+perpendicular and oblique.
+10.3.1. Perpendicular offsets When the lateral measurements are taken perpendicular to the
+chain line, they are known as perpendicular offsets
+Perpendicular offsets may be taken in the following ways:
+(a) By setting a perpendicular by swinging a tape from the object to the chain line. The point of
+minimum reading on the tape will be the base of the perpendicular
+(b) By setting a right angle in the ratio 3 : 4 : 5
+(c) By setting a right angle with the help of builder‟s square or tri-square
+(d) By setting a right angle by cross-staff or optical square.
+10.3.2. Oblique offsets Any offset not perpendicular to the chain line is said to be oblique.
+Oblique offsets are taken when the objects are at a long distance from the chain line or when it is
+not possible to set up a right angle due to some difficulties. Such offsets are taken in the
+following manner.
+Suppose AB is a chain line and p is the corner of a building. Two points „a‟ and „b‟ are
+taken on the chain line. The chainages of „a‟ and „b‟ are noted. The distances „ap‟ and „bp‟ are
+measured and noted in the field book. Then „ap‟ and „bp‟ are the oblique offsets. When the
+triangle abp is plotted, the apex point p will represent the position of the corner of the the
+building.
+Perpendicular offsets are preferred for the following reasons:
+(a) They can be taken very quickly
+(b) The progress of survey is not hampered
+(c) The entry in the field book becomes easy
+(d) The plotting of the offsets also becomes easy
+3. Number of offsets The offsets should be taken according to the nature of the object. So, there
+is no hard and fast rule regarding the number of offsets. It should be remembered that the
+objects are to be correctly represented and hence the number of offsets should be decided on the
+field. Some guidelines are given below:
+(a) When the boundary of the object is approximately parallel to the chain line, perpendicular
+offsets are taken at regular intervals
+(b) When the boundary is straight, perpendicular offsets are taken at both ends of it
+(c) When the boundary line is zigzag, perpendicular offsets are taken at every point of bend to
+represent the shape of the boundary accurately. In such a case, the interval of the offsets may be
+irregular
+34
+(d) When a road crosses the chain line perpendicularly, the chainage of the intersection point is
+to be noted
+(e) When a road crosses a chain line obliquely, the chainages of intersection points „a‟ and „b‟
+are noted. Then at least one offset is taken on both sides of the inter-section points. More offsets
+may be taken depending on the nature of the road. Here, perpendicular offsets are taken at „c‟
+and „d‟
+(f) When the building is small, its corners are fixed by perpendicular or oblique offsets and the
+other dimensions are taken directly on the field and noted in the field book.
+(g) When the building is large, zigzag in shape and oblique to the chain line, then the corners are
+fixed by perpendicular or oblique offsets. Then the full plan of the building is drawn on a
+separate page along with all the dimensions. This page should be attached with the field book at
+the proper place.
+(h) When the object is circular, perpendicular offsets are taken at short and regular intervals
+4. Limiting length of offset The maximum length of the offset should not be more than the
+length of the tape used in the survey. Generally, the maximum length of offset is limited to 15m.
+However, this length also depends upon the following factors:
+(a) The desired accuracy of the map
+(b) The scale of the map
+(c) The maximum allowable deflection of the offset from its true direction and
+(d) The nature of the ground
+Various instruments are used in chain survey.
+They are (1) Chain (2) Arrows (3) Pegs (4) Ranging rods (5) Offset rods (6) Plasterer's laths and
+whites (7) Plumb bob
+The following are the precise instruments used for setting out right angles :-
+1. Cross staff
+2. French cross staff
+3. Adjustable cross staff
+4. Optical square
+5. Prism square
+35
+Lecture No. 11
+Offset Survey Area Identification
+36
+Lecture No. 12
+Compass survey- Prismatic Compass
+In troduction
+According to the method employed, surveying is classified into Triangulation surveying
+and Traverse surveying. A series of connected survey lines of known lengths and directions is
+called a traverse. When triangulation is not possible, traversing method is used. In traversing,
+when compass is used for making angular measurements, it is known as compass traversing or
+compass surveying.
+Principle of Compass Surveying
+In compass traversing the directions of survey lines are fixed by angular measurements
+and not by forming a network of triangles. A compass survey is one in which the traverse work
+consists of series of lines the lengths and directions of which are measured with a chain or a tape,
+and with an angular instrument respectively.
+A traverse may be classified as:
+a) Closed traverse
+b) Open traverse
+A) Closed traverse: A closed traverse is a traverse in which the sides of a traverse form a closed
+polygon.
+B) Open traverse: An open traverse is a traverse in which the sides of traverse do not form a
+closed polygon.
+Description of Prismatic Compass
+The prismatic compass consists of a circular box about 85 to 110 mm diameter. At the
+center of metal box a needle and pivot is provided. The pivot balances the magnetic needle
+which is attached to graduated aluminum ring. The graduations are in degrees to 30 minuets and
+from 00 to 3600 in the clock wise direction. The 00 is marked at south end of magnetic needle
+because the readings are read at the opposite end of the object. At west it is marked 900 , north
+1800 and east 2700 respectively. The graduations are marked inverted because they are viewed
+through a prism which is cut to 450 on one face and 900 for other two faces (Fig 5.1). The
+readings get reflected through prism resulting in erected image. A sighting slit is provided in the
+box carrying the prism. This box can be moved up and down for focusing by means of stud. The
+prism box is hinged so that it can be folded to the rim of the compass box. Two sun glasses are
+provided to observe bright objects. An object vane is provided in line of sighting slit. It is an
+open frame with a central vertical horse hair for sighting the object. The object vane is hinged to
+compass. When it is not in use, it is folded flat on the glass cover. The base of object vane
+presses the lifting pin bringing the magnetic needle to rest with the help of lifting lever. A brake
+pin is provided to stop the oscillations of the graduated ring to facilitate the reading of the
+graduated ring. A glass cover is fitted over the box to protect the needle from dust. The compass
+37
+is fitted to a tripod stand. A tripod stand consists of a ball and socket joint which helps in
+leveling the compass quickly.
+Fig 5.1 Prismatic Compass
+Method of using Prismatic Compass:
+The compass may be held in the hand, but for better results, it is usually mounted on a
+tripod which carries a vertical spindle in a ball and socket joint to which the box is screwed. By
+means of this arrangement the instrument can be quickly leveled and also rotated in a horizontal
+plane and clamped in any position.
+Working of Prismatic Compass
+This can be used while holding it in hand, but for better accuracy, it is usually mounted
+on a light tripod which carries a vertical spindle in the ball and socket arrangement to which
+compass is screwed. By means of this arrangement the compass can be placed in position easily.
+Its working involves the following steps. (i) Centering (ii) Levelling, and (iii) observing the
+bearing
+(i) Centering The compass should be centered over the station where the bearing is to be taken
+by dropping a small piece of stone so that it falls on the top of the peg marking the station.
+(ii) Levelling The compass should then be leveled by eye, by means of a ball and socket joint so
+that the ring may swing quite freely. It should be clamped when leveled.
+(iii) Observing the bearing. To observe the bearing of a line AB
+1) Centre the compass over the station A and level it.
+2) Having turned up vertical prism and the sighting vane, raise or lower the prism until the
+graduations are clearly visible.
+3) Turn the compass box until the ranging rod at the station B is bisected by the hair when
+looked through the slit above the prism.
+38
+4) When the needle comes to rest, look through the prism and note the reading at which the hair
+line produced appears to cut the image of the graduated ring which gives the required bearing of
+the line AB. Readings are usually estimated to the nearest 15‟.
+39
+Lecture No. 13
+Concept of Meridian, True Median, -Bearing, Reduced Bearing-Fore and Back Bearing
+C oncept of Meridian, True Median, Magnetic Meridian and Arbitary Meridian
+Meridian: Meridian is a standard direction from which, the bearings of survey lines are
+measured. There are three types of meridians (Fig.5.2).
+1) True meridian
+2) Magnetic meridian
+3) Arbitrary meridian.
+True meridian: It is a line of intersection of earth‟s surface formed by a plane passing through
+north and south poles and the given place.
+Magnetic meridian: It is the direction indicted by a freely suspended magnetic needle.
+Arbitrary meridian: It is any convenient direction assumed as meridian for measuring bearings
+of survey lines.
+Bearing It is a horizontal angle made by the survey line with reference to the meridian, based on
+the meridian
+Fig.5.2 Meridians
+Representation of Bearing
+Bearings are expressed in the following two systems.
+1) Whole circle bearings system.
+2) Quadrantal bearings system.
+1) Whole Circle Bearing
+In this system, the bearing of a line is always measured clock wise from the direction of
+the north of the meridian towards the line around the circle. Whole circle bearings of lines have
+been shown in fig 5.3
+2) Quadrantal Bearings
+In this system the bearings of a line is measured from either the north or the south, clock
+wise or counter clockwise whichever is nearer to the line towards the east or west. The angle at
+40
+any station in a plane is divided into four quadrants by two lines at right angles to each other.
+These are the north south and east west lines. The bearing is reckoned from 00 to 900 in each
+quadrant. Quadrantal bearings of lines have been shown in fig 3.4 Quadrantel bearings are also
+called as reduced bearings.
+Fig 5.3 Whole Circle bearings and Quadrantal Bearings
+Conversion of Whole Circle bearings into Quadrantal Bearings
+The whole circle bearing of a line can be converted to quadrantal bearing by reducing it
+to an angle less than 900 which has the same numerical value of the trigonometric functions.
+Rule of conversion of whole circle bearings into quadrantial bearing.
+Case W.C.B. between Rule for R.B. Quadrant
+I 00 and 900 Same as W.C.B. N.E.
+II 900 and 1800 1800 - W.C.B. S.E.
+III 1800 and 2700 W.C.B. -1800 S.W.
+IV 2700 and 3600 3600 - W.C.B. S.W.
+Fore Bearing to Back Bearing
+ Fore Bearing (F.B)- Bearing measured in the direction of progress of survey
+ Back Bearing(B.B)- Bearing measured opposite to the direction of survey
+BB = FB ± 180°
+ Use positive sign of FB < 180°
+BB = FB + 180° (FB < 180°)
+ Use negative sign of FB > 180°
+BB = FB - 180° (FB > 180°)
+41
+Lecture 14
+Compass Surveying-Problems
+42
+Lecture 15
+Soil and water conservation
+Definition
+Soil erosion is the process of detachment of soil particles from the top soil and transportation of
+the detached soil particles by wind and / or water. The agents causing erosion are wind and
+water. The detaching agents are falling raindrop, channel flow and wind. The transporting agents
+are flowing water, rain splash and wind.
+Types of erosion:
+There are two major types of soil erosion
+a) Geological erosion (Natural or normal erosion): is said to be in equilibrium with soil
+forming process. It takes place under natural vegetative cover completely undisturbed by biotic
+factors. This is very slow process.
+b) Accelerated erosion: is due to disturbance in natural equilibrium by the activities of man and
+animals through land mismanagement, destructing of forests over grazing etc., Soil loss through
+erosion is more than the soil formed due to soil forming process.
+Based on the agents causing erosion, erosion is divided into
+a. Water erosion
+b. Wind erosion
+a. Water erosion: Major erosive agents in water erosion are impacting/ falling raindrops
+and runoff water flowing over soil surface.
+Process of water erosion
+Detachment of soil particles is by either raindrop impact or flowing water. Individual
+raindrops strike the soil surface at velocities up to 9 m/s creating very intensive hydrodynamic
+force at the point of impact leading to soil particle detachment. Over land flow detaches soil
+particles when their erosive hydrodynamic force exceeds the resistance of soil to erosion.
+Detached soil particles are transported by raindrop splash and runoff. The amount of soil
+transported by runoff is more than due to raindrop splash. Thus the falling raindrops break the
+soil aggregates and detach soil particles from each other. The finer particles (silt and clay) block
+the soil pores and increase the rate of runoff and hence loss of water and soil.
+Forms of water erosion
+Water erosion occurs in stages identified as sheet erosion, rills, gullies, ravines, landslides and
+stream bank erosion.
+a) Sheet erosion: It is the uniform removal of surface soil in thin layers by rainfall and runoff
+water. The breaking action of raindrop combined with surface flow is the major cause of sheet
+erosion. It is the first stage of erosion and is least conspicuous, but the most extensive.
+43
+b) Rill erosion: When runoff starts, channelisation begins and erosion is no longer uniform.
+Raindrop impact does not directly detach any particles below flow line in rills but increases the
+detachment and transportation capacity of the flow. Rill erosion starts when the runoff exceeds
+0.3 to 0.7 mm/s. Incisions are formed on the ground due to runoff and erosion is more apparent
+than sheet erosion. This is the second stage of erosion. Rills are small channels, which can be
+removed by timely normal tillage operations.
+c) Gully erosion: It is the advanced stage of water erosion. Size of the unchecked rills increase
+due to runoff. Gullies are formed when channelised runoff form vast sloping land is sufficient in
+volume and velocity to cut deep and wide channels. Gullies are the spectacular symptoms of
+erosion. If unchecked in time no scope for arable crop production.
+d) Ravines: They are the manifestations of a prolonged process of gully erosion. They are
+typically found in deep alluvial soils. They are deep and wide gullies indicating advanced stage
+of gully erosion.
+e) Landslides: Landslides occur in mountain slopes, when the slope exceeds 20% and width is
+6m. Generally land slides cause blockage of traffic in ghat roads.
+f) Stream bank erosion: Small streams, rivulets, torrents (hill streams) are subjected to stream
+bank erosion due to obstruction of their flow. Vegetation sprouts when streams dry up and
+obstructs the flow causing cutting of bank or changing of flow course.
+Losses due to erosion:
+i) Loss of fertile top soil
+ii) Loss of rain water
+iii) Loss of nutrients
+iv) Silting up of reservoirs
+v) Damage to forests
+vi) Reduction in soil depth
+vii) Floods
+viii) Adverse effect on public health
+ix) Loss of fertile land
+x) Economic losses
+b. Wind erosion
+Erosion of soil by the action of wind is known as wind erosion. It is a serious problem on lands
+devoid of vegetation. It is more common in arid and semi arid regions. It is essentially a dry
+weather phenomenon stimulated by the soil moisture deficiency. The process of wind erosion
+consists of three phases: initiation of movement, transportation and deposition. About 33 m.ha
+in India is affected by wind erosion. This includes 23.49 m.ha of desert and about 6.5 m.ha of
+coastal sands. The Thar Desert is formed mainly by blow in sand.
+44
+Mechanism of wind erosion
+Lifting and abrasive action of wind results in detachment of tiny soil particles from the granules
+or clods. The impact of these rapidly moving particles dislodge other particles from clods and
+aggregates. These dislodged particles are ready for movement. Movement of soil particles in
+wind erosion is initiated when the pressure by the wind against the surface soil grains overcomes
+the force of gravity on the grains. Minimum wind velocity necessary for initiating the movement
+of most erodable soil particles (about 0.1 mm diameter) is about 16 km /hr at a height of 30.5 cm.
+Most practical limit under field conditions, where a mixture of sizes of single grained material
+present is about 21 km/hr at a height of 30.5 cm.
+In general movement of soil particles by wind takes place in three stages: saltation,
+surface creep and suspension.
+a. Saltation: It is the first stage of movement of soil particles in a short series of bounces or
+jumps along the ground surface. After being rolled by the wind, soil particles suddenly leap
+almost vertically to form the initial stage of movement in saltation. The size of soil particles
+moved by saltation is between 0.1 to 0.5 mm in diameter. This process may account for 50 to
+70% of the total movement by wind erosion.
+b. Surface creep: Rolling and sliding of soil particles along the ground surface due to impact of
+particles descending and hitting during saltation is called surface creep. Movement of particles
+by surface creep causes an abrasive action of soil surface leading to break down of non-erodable
+soil aggregates. Coarse particles longer than 0.5 to 2.0 mm diameter are moved by surface creep.
+This process may account for 5 to 25% of the total movement.
+c. Suspension: Movement of fine dust particles smaller than 0.1 mm diameter by floating in the
+air is known as suspension. Soil particles carried in suspension are deposited when the
+sedimentation force is greater than the force holding the particles in suspension. This occurs with
+decrease in wind velocity. Suspension usually may not account for more than 15% of total
+movement.
+45
+Lecture No. 16
+Crop-Water Management
+16.1 Base Period:
+it is the time period between the first watering of the crop during its sowing to last watering
+before its harvesting. It is generally expressed in 'days'.
+16.2 Delta:
+It is the total depth of water required by a crop during entire base period.
+Some quantity of water is required for any crop to come to its maturity. The total quantity of
+water required for any crop during its base period (B) for its full fledged nourishment when expressed in
+depth of water(i.e. in 'cm' or in 'inches') is called its Delta. The total quantity of water(i.e. volume of
+water) is divided by the total irrigated area to obtain Delta of crop of the irrigated area.
+“Δ‟= volume of water/ total irrigated area
+16.3 Crop period:
+Crop period is the time period between sowing of a crop to its harvesting.
+The another related term is Crop period. For practical purpose Base period and Crop period are taken as
+same but they have a little difference. In this manner, Crop period is slightly greater than the Base period.
+16.4 Duty:
+Duty of a water simply expresses the number of hectare of land that can be irrigated for the full growth of
+the given crop by supplying 1 cumec water continuously during the entire base period of that crop. It is
+generally represented by 'D'.
+Its unit is hectare/cumec.
+For example, if water flowing at the rate of 1 cumec, runs continuously for B days of the crop matures
+100 hectares then Duty of that crop is 100 hectare/cumec to the base of B days.
+Duty varies from point to point. It increases as one moves to downstream from the head of main canal to
+the head of branches. It is due to the transmission losses in the channels.
+16.5 Relation between Delta and Duty:
+Let a crop of Base period B for which 1 cumec water is supplied continuously for its full growth.
+Then the total volume of water supplied during B days for that Crop = (1X B X 24 X 60 X60)
+cubic meter.
+46
+By the definition of duty, it is clear that it matures D hectares of land.
+Then the total depth of water supplied during base period B = (1*B*24*60*60)/(D*10000)
+=8.64(B/D) meters
+OR
+We know total depth of water supplied during base period of a crop is Delta.
+Then, Delta= 8.64B/D meters.
+Factors on which duty depends
+ Type of crop
+ Climate and season
+ Useful rainfall
+ Type of soil
+ Efficiency of cultivation method
+Importance of Duty
+It helps us in designing an efficient canal irrigation system. Knowing the total available
+water at the head of a main canal, and the overall duty for all the crops required to be irrigated in
+different seasons of the year, the area which can be irrigated can be worked out. Inversely, if we
+know the crops area required to be irrigated and their duties, we can work out the discharge
+required for designing the channel.
+Measurement of irrigation water – importance. Methods of measuring water
+16. 6 Water measuring devices
+Day to day water is becoming a costly input in agriculture and other enterprises. The
+knowledge of soil, water and plant is highly essential to apply water to the crops precisely as per
+required quantity. The planning of cropping system of irrigation project and design of irrigation
+method is depends upon the available discharge. Most of the drainage projects and public health
+engineering water supply system require discharge measurement. The measurement of discharge
+is also essential, if the government agencies desire to charge the water rates to the farmers on
+volume basis.
+16.6.1 Units of measurement Water can be measured on volume basis if it is at rest or on
+discharge basis if it is in motion. Volume is measured in litres, milliliters, ha-cm, ha-m, cubic
+metre etc., depending upon the magnitude and purpose of measurement. Large quantity of water
+present in a reservoir may be measured in m3. Volume of water applied to a field can be suitably
+measured as ha-cm. Water in motion or discharge can be measured as litres per second (lps),
+litres per minute (lpm), cubic metre per hour (m3/hr) etc. It is the volume of water passing
+through a section per unit time.
+47
+16.6.2 Methods of measuring water
+Different methods are used for measurement of water and they depend on the size of the
+stream and the available facility. The commonly used methods are
+(i) volumetric method,
+(ii) velocity-area method in which velocity is measured by using float, current-meter
+etc.,
+(iii) measuring structures like weir, orifice, parshall flame etc.
+16.6.2.1 Volumetric method of water measurement This is the most simple and accurate
+method and can be used to measure small discharge flowing through a channel or a pipe. In case
+of flow through a channel, some drop is necessary to allow the container to be placed below the
+channel level for collection of the discharge. Time to fill a known volume of the container is
+noted with the help of a stop watch. Discharge is obtained by dividing the volume of fill by the
+required time (Fig.34). For example, if a 210 litres capacity barrel is filled in 30 seconds, the
+discharge is 7 lps.
+16.6.2.2 Float method
+This is one of the simplest methods and gives appropriate velocity of flow in a channel if
+no other means is available. Any object that flows in water but does not obstruct wind or get
+carried away by it, can be used as a float. A dry wood of about 1 cm3 size serves the purpose
+best. A straight section of the channel of about 30 meter length is selected such that the
+crosssection is almost uniform through the length. The float is allowed to move from the
+upstream to the downstream end and time taken to move this 30 meter distance is measured.
+Several measurements are taken and the average time is noted. The distance divided by the time
+gives the average surface velocity. The surface velocity is always higher than the average stream
+velocity. Therefore, the surface velocity is multiplied by a factor of 0.85 to get the average
+velocity.
+The cross-sectional area of the stream is measured at least in 3 places and the average is
+taken. The average velocity is multiplied by the average cross-sectional area gives the discharge:
+Q =A×V
+Where, Q= discharge, m3/s,
+A= cross-sectional area, m2
+V= average velocity of flow, m/s.
+48
+Lecture No. 17
+Crop-Water Management-Problems
+49
+Lecture No.18
+Irrigation - definition, classification of irrigation projects based on Culturable Command
+Area (CCA) and expenditure, benefits of irrigation, ill effects of irrigation, flow irrigation
+and lift irrigation. Water sources. Irrigation Methods
+18.0 Irrigation
+Irrigation is an artificial application of water for the purpose of crop production.
+Irrigation water is supplied to supplement the water available from (i) rainfall and (ii)
+contribution of soil moisture from ground water. In many areas, the amount and timing of
+rainfall are not adequate to meet the moisture requirement of the crops. Hence irrigation is
+essential. Scientific management of irrigation water provides best insurance against weather
+induced fluctuations in total food production. Water is being a limited source, it should not only
+meet the requirement of crop production, but also meet the requirement of
+(i) growing industry
+(ii) human and live stock consumption
+(iv) hydro electric power generation and
+(v) navigation.
+18.1 Classification of irrigation works
+Irrigation projects are classified into three categories based on culturable command area
+(CCA) and the financial limits on expenditure involved in project cost. Based on CCA, the
+irrigation projects are classified into:
+(i) Major irrigation projects: Irrigated area of > 10,000 ha.
+(ii) Medium irrigation projects: Irrigated area between 2000 to 10,000 ha.
+(iii) Minor irrigation projects: less than < 2,000 ha.
+Based on financial limits on expenditure involved in the project, irrigation works are classified
+into: (i) Major irrigation project: Project cost above Rs. 50 million
+(ii) Medium irrigation project: Project cost in between Rs. 2.5 to 50 million
+(iii) Minor irrigation project: Project cost less than Rs. 2.5 million.
+Major and medium irrigation projects are generally ground together for the purpose of
+execution. Mostly the project execution is taken up by state irrigation departments. These
+projects comprise of dams, network of canals and related structures. They require substantial
+financial investments and are therefore, constructed only by government organizations. The
+minor irrigation projects consist of irrigation tanks, canals, diversion works, antisea intrusion
+works and almost all the ground water schemes.
+Main types of irrigation:
+50
+I Direct Irrigation or river - canal irrigation phases:
+(a) Diversion of water from river
+(b) Conveyance of water to land
+(c) Application of water to land
+II. Storage Irrigation phases:
+(a) Diversion of water from river
+(b) Conveyance of water to land
+(c) Application of water to land
+III Sub soil water irrigation phases:
+(a) Lifting of water from wells
+(b) Application of water to land
+18.1.1 Benefits of irrigation
+a) It assures proper and successful growth of crop because of assured supply of water.
+b) Irrigation protects people from the occurrence of famines, when rain water is severely
+deficient.
+c) The owner of agricultural land is a gainer as the value of the land increases if it is situated
+nearer to the canal.
+d) Hydro-electric power can be generated from the falls on some canal or by the water stored in
+a storage reservoir.
+e) Some large canals can serve the dual purpose of irrigation and land navigation purpose.
+f) Irrigation works are a paying concern to the government.
+18.1.2 Disadvantages of irrigation:
+(i) The land become alkaline and water logged if excess irrigation water is applied to the land, as
+a result the land become infertile and barren.
+(ii) Excess irrigation water remains into pools on the surface of the ground, will breed
+mosquitoes, and cause malaria in the nearby areas.
+18.1.3 Water sources
+Water for irrigation is obtained from natural streams or rivers, from surface reservoirs
+and from underground reservoirs. Flood water from rivers is collected in surface reservoirs by
+constructing dams at suitable sites. Runoff water from small areas can also be collected by
+constructing ponds or tanks. Water from underground reservoirs is utilized by constructing wells
+and installing pumps or other water lifts. Water from surface reservoirs is taken through canals.
+Canals run from higher to lower elevations, and water flows in them by the force of gravity.
+Based on whether the source of water is above or below the field surface, irrigation is classified
+into two types: (i) flow irrigation and (ii) lift irrigation.
+51
+18.1.4 Flow irrigation When irrigation water in canals is available at such a level that it can
+flow over the adjoining land by gravity is known as flow irrigation.
+18.1.5 Lift irrigation When water has to be lifted up before it could be applied on land by
+gravity is called lift irrigation.
+Surface Methods of Irrigation
+18.2 Introduction
+Surface irrigation method refers to the manner or plan of water application by gravity
+flow to the cultivated land wetting either the entire field (uncontrolled flooding) or part of the
+field (furrows, basins, border strips). Most irrigated areas have characteristic land features and
+differ from those in other areas. Hence, for efficient application of water it is important to select
+such method of irrigation, which fits one‟s own land. In doing so it may be necessary, or
+desirable, to use more than one method of irrigation in an area or a given farm.
+The adoption of a certain method need not be necessarily based on convention or that
+followed in the adjoining farm. The factors, which determine the suitable method of irrigation
+are local conditions (soil type - its permeability & water storage capacity; land topography,
+climate, water availability & water quality), crop type, type of technology, previous experience
+with irrigation, required labour inputs etc. Good yield of crops can be obtained from irrigated
+land only if the water is applied judiciously to meet the needs of the plant, but not to cause waste
+and damage. Irrigation water is applied to cultivated land by the following surface methods of
+irrigation:
+Surface Irrigation Methods
+Uncontrolled Surface flooding
+Controlled Surface flooding
+Basin Border Strip Furrows
+C h e c k Ring
+Deep
+Corrugation
+Basin Basin
+Furrow
+18.3 Wild flooding
+It consists of applying water to the field without any bunds to guide the flow of water
+wetting the soil surface completely. Generally it is practiced only when irrigation water is
+abundant and where land leveling is not followed. Sometimes it is also adopted in the initial
+52
+stages of land development. This method is most commonly used for irrigation of crops sown by
+broadcasting method viz., rice, low value pastures, lawns and millets etc.
+Advantages
+1. No land leveling & land shaping
+2. Low labour and land preparation costs
+3. Less skill required by irrigator
+Disadvantages
+1. Applied water is lost by deep percolation & surface runoff
+2. Low irrigation application efficiency
+18.4 Controlled flooding
+18.4.1 Check basin method
+In this method the field is divided into square or rectangular plots of 4 to 4000 m2 guided
+by bunds on all the sides (Fig. 18.1). This method is usually practiced in nearly levelled lands,
+thus no run-off of soil or water takes place and wetting depth is more uniform. However, it is
+particularly useful on fine textured soils with low permeability rate where it is necessary to hold
+the water on the surface to secure adequate penetration. The field channels supply water to each
+basin, during which the basins are filled to desired depth and water is retained until it infiltrates
+into the soil. This method is most commonly used for irrigating crops like groundnut, finger
+millet, sorghum, vegetable crops etc. Check basins are also used for leaching salts below the crop
+root zone depth by percolating water in the reclamation of saline soils.
+Advantages
+1. Water can be applied uniformly.
+2. Even small streams can be used for irrigation of crops efficiently.
+3. Simple and cheap when equipment is used for constructing bunds
+Disadvantages
+1. Unless the land is levelled, distribution of water in plot is uneven.
+2. Considerable area is lost under field channels and bunds i.e. nearly 30% of area.
+3. Bunds interfere in working of inter-cultivation equipment
+4. More labour is required for field layout and irrigation
+18.4.2 Ring basin method This method is a modification of check basin method and is suitable
+for sparsely grown orchard crops and cucurbits (Fig. 18.2).
+53
+Fig. 18.1. Check basin method of irrigation Fig. 18.2 Ring basin method of irrigation
+In this method a circular bund is constructed around each tree/plant or group of
+plants/trees to create a basin for irrigation. These basins are suitably connected to irrigation
+conveyance channels is such a way that either each basin is irrigated separately or group of
+basins by flowing water from one basin to another through inter- connections.
+Advantages
+1. High irrigation application efficiency can be achieved with properly designed system
+2. Unskilled labour can be used, as there is no danger of erosion
+Disadvantages
+1. High labour requirement
+2. Bunds restrict use of modern machinery in the field
+3. Limited to relatively uniform lands
+18.4.3 Border strip method The cultivated field to be irrigated is divided into a number of long
+parallel strips, generally 5 to 15 m in width and 75 to 300 m in length separated by small border
+ridges or low dykes of about 15 cm high, laid out in the direction of the slope (Fig. 18.3).
+The objective is to advance a sheet of water down the narrow strip of land, allowing it to
+enter the soil as the sheet advances. Irrigation water is released into each strip connected directly
+to irrigation channel situated at the upstream end of the border strip. After sufficient water has
+been applied to one strip, the irrigation stream is turned into another strip. A specific requirement
+in border irrigation is that the longitudinal slope must be uniform, and the transverse slope must
+be zero or negligible (< 0.03%). This method is suitable for irrigating a wide variety of close
+growing crops such as wheat, barley, groundnut, bajra and berseem.
+Advantages
+1. Large water streams can be used safely
+2. Provides uniform wetting of soil profile
+3. Low labour requirement
+54
+Fig. 18.3. Border strip method of irrigation Fig. 8.4 Furrow method of irrigation
+Disadvantages
+1. Requires relatively large water streams for quick advance of water to minimize deep
+percolation losses at the upper end of the border strip.
+2. Wastage of water by deep percolation in coarse textured soils.
+18.4.4 Deep furrow method
+In furrow method of irrigation, the flat bed surface is converted into a series of ridges and
+furrows running down the slope (Fig. 18.4). The spacing of the furrow is ordinarily determined
+by the spacing of row crop. The length of the furrow and slope depends on several factors viz.,
+texture, intake rate etc.
+Depending on the soil, crop spacing, farm equipment used etc spacing between furrows
+varies from 60 to 120 cm. Depending on the soil texture furrow length ranges from 20 to 300 m
+or even more. To avoid overtopping and scouring problems furrow inflow rates are normally
+limited to 2 to 15 m3/hr/furrow. This method can be used either with small or large streams of
+irrigation water because it can be diverted into any number of furrows. Slope along the furrows
+may range from 0.2 to 2%. Where the land is too slopy (>5%), the furrows must be constructed
+on contours. Among the various surface irrigation methods, there is a relative saving of water in
+furrow method; hence efficient use of water is possible. In case of limited water, alternate
+furrows may be irrigated without much adverse effect on the crop yield. This method is
+commonly used for irrigating crops like potato, sugarcane, maize, cotton, melons, sugar beets
+and vegetables like lettuce.
+When furrow irrigation is practiced under saline and alkaline conditions, the lateral
+movement of soil moisture coupled with evaporation causes salt to accumulate in the ridges
+between furrows. If the salt accumulation reaches harmful levels, planting is advocated on the
+relatively salt free bottom of the furrows following pre-plant irrigation.
+Advantages
+1. Fairly high irrigation application efficiency among surface irrigation methods
+55
+2. Furrows serve as field drains in areas of heavy rainfall
+3. Low evaporation losses
+Disadvantages
+1. Not suitable in coarse textured soils with high infiltration rates
+2. Possibility of intra-furrow soil erosion
+3. Labour intensive
+18.4.5 Corrugations
+This is a special method of furrow irrigation. Corrugations or rills are shallow furrows running
+down the slope from head ditches or laterals, which are sometimes very close to each other.
+Water moves down through several corrugations simultaneously and soaks laterally
+through the soil, wetting the area between the corrugations. This method is used for irrigating
+close growing crops, which do not require inter-culture operations and may also be used in
+conjunction with border irrigation. Corrugations are often used in fine textured soils that take
+water slowly and in soils, which tend to seal over and crust when flooded. The spacing and size
+of the corrugations vary with soil type, but in general, the more porous the soil, the more closely
+spaced the corrugations to permit rapid wetting between them without excessive deep percolation
+losses. The length of the corrugations should be such that upper end of the field has not been
+over irrigated by the time the lower end has received sufficient water.
+18.5 Sub-surface irrigation
+Sub-surface irrigation is the method of applying water beneath the soil surface; close to
+the plant roots so that either water seeps from the sides of the channels towards the plant roots or
+through capillary movement upward. It is usually done by creating an artificial water surface at
+some pre-determined depth, about 30 – 75 cm below the ground, depending upon the texture and
+rooting characteristics of the crop. Application efficiencies vary from 30-80% depending upon
+conditions. Water having high salt content cannot be used. This method is expensive, difficult to
+maintain and operate, and suitable only for few crops. Because of high investment required, it
+has not been widely adopted in India.
+56
+Lecture No.19
+Sprinkler Method of Irrigation
+19.1 Sprinkler Method of Irrigation
+19.1.1 Introduction
+Sprinkler irrigation is a method of applying irrigation water which is similar to natural
+rainfall (Fig. 8.6). Water is conveyed under desired pressure (2 to 5 kg/cm2) developed by a
+pump through a network of pipes, called mainlines and sub mains to one or more laterals and is
+sprayed in to the air through sprinkler nozzles or perforations so that it breaks up in to small
+water drops (0.5 to 4mm in size) which fall over the land or crop surface in an uniform pattern at
+a rate (0.06-5000 LPH) less than the infiltrability of soil. The pump supply system, sprinklers
+and operating conditions must be designed to enable a uniform application of water.
+Sprinkler irrigation systems may be classified as portable, semiportable, semipermanent
+or permanent. They are also classified as set-move (hand-move, tow-move, side-roll and gun-
+type systems), solid-set or continuous move sprinkler (center-pivot, traveler and linear-move)
+systems (Fig. 19.1).
+Fig. 19.1 Sprinkler irrigation systems
+19.1.2 Advantages
+a) Elimination of field channels and their maintenance, which increase the production area
+b) Harmful ditch weeds, which have allelopethic effects, do not appear with sprinkler irrigation.
+c) No water losses in conveyance, which amounts to 35% in surface irrigation methods
+d) Close control over water application i.e., no runoff losses because water is applied below or
+equal to infiltration rate.
+e) Convenient for giving light and frequent irrigations.
+f) Higher application efficiency over surface methods of irrigation.
+g) Sprinklers give a gentle rain that does not clog or compact the soil ensuring better and quicker
+germination of seeds resulting in more plants per unit area
+h) Suitable in undulated lands, soils with shallow depth and areas located at higher elevation than
+the water source.
+57
+i) Feasibility of frequent, short water applications for germination, cooling & frost protection to
+plants, etc.
+j) Higher yield and water saving over surface irrigation methods
+19.1.3 Limitations
+a) Uneven distribution of water due to high wind velocities particularly during summer season.
+b) Higher evaporation losses when operating under high temperatures.
+c) Mechanical difficulties such as sprinklers fail to rotate, nozzles may clog, couplers may leak
+or engine may require repair.
+d) Initial investment and recurrent operating costs are much higher than in surface irrigation
+methods.
+e) Moving the portable lines, when the soil is wet results in the destruction of soil structure
+f) Use of saline water for irrigation is not possible since it will be harmful to crops
+g) Higher water pressure required hence extra energy cost
+19.1.4 Sprinkler System Components & Layout
+A typical sprinkler irrigation system consists of a pumping unit, pump connector, non-
+return valve, water meter, pressure gauge, pressure regulators, mainline & submainlines, laterals,
+control valves, hydrants, sprinkler base, sprinkler heads, bends, tees, reducers, end plug, nipples,
+flanges etc (Fig. 19.2).
+The most common type of sprinkler system layout is shown below in Fig. 19.3. The
+pump unit is usually a centrifugal pump which takes water from the source and provides
+adequate pressure for delivery into the pipe system.
+Fig. 19.2 Sprinkler System Components
+58
+Fig. 19.3 Sprinkler System Components
+19.2 Suitable crops
+Sprinkler irrigation is suited for most field crops viz., wheat, lucerne, groundnut, bengal
+gram, green gram, black gram, potato, leafy vegetables, sunflower, barley, bajra, maize, wheat
+etc wherein water can be sprayed over the crop canopy (Fig. 22.5). However, large sprinklers are
+not recommended for irrigation of delicate crops such as lettuce because the large water drops
+produced by the sprinklers may damage the crop. Water containing specific ions such as sodium
+and chlorides in concentration of more than 3 meq/litre are not suitable for irrigation by overhead
+sprinklers.
+59
+Lecture No. 20
+Drip Irrigation Method -Introduction-Advantages
+Drip Method of Irrigation
+20.1. Introduction
+Irrigation advancements within the last 2 decades have been astounding. Drip or trickle
+irrigation is one of the latest innovations for applying water, and represents a definite
+advancement in irrigation technology. Drip irrigation is defined as the precise, slow and frequent
+application of small quantities of water to the soil in the form of discrete drops, continuous
+drops, and tiny streams through emitters located at selected points along a water delivery lateral
+line. It differs from sprinkler irrigation by the fact that only part of the soil surface is wetted.
+Current drip irrigation technology dates back to the work of Symcha Blass (1964). Based on the
+observation that a large tree near a leaking faucet exhibited a more vigorous growth than other
+trees in the area, he developed the first patented drip irrigation system. From Israel, the concept
+spread to Australia, North America and South Africa by the late 1960s, and eventually
+throughout the world. The availability of low cost plastic pipe for water delivery lateral lines
+helped to speed up the field use of drip irrigation system. At present the largest area is in the
+USA and Spain (1.5 million ha each) followed by India (1.43 million ha). Total coverage in the
+world has increased from 4000 ha in 1972 to over 8 million ha in 2008.
+20.1.1 Surface drip irrigation:
+The application of water to the soil surface as drops or tiny streams through emitters with
+discharges rate for point-source emitters less than 8 L/h for single outlet emitter and for line-
+source emitters less than 4 L/h (Fig. 20.1). Often the terms drip and trickle irrigation are
+considered synonymous.
+Fig 20.1 Surface drip irrigation in bhendi and Mango crop
+60
+20.1.2 Subsurface drip irrigation: The application of water below the soil surface through
+emitters, with discharge rate generally in the range of 0.6 to 3 L/h. This method of water
+application is different from and not to be confused with the method where the root zone is
+irrigated by water table control, herein referred to as subirrigation (Fig. 23.2).
+Fig.20.2 Subsurface drip irrigation in Potato
+20.2 Advantages
+Many reports have listed and summarized potential advantages of drip irrigation as compared to
+other irrigation methods.
+a) Enhanced plant growth, crop yield and premium quality produce
+b) Water Saving due to increased beneficial use of available water and higher water application
+efficiency
+c) Precise and uniform delivery of water to crops due to controlled water application
+d) Maintenance of higher soil water potential in the root zone
+e) Compact and efficient root system
+f) Combined water and fertilizer (fertigation) application minimizes nutrient losses and improves
+fertilizer use efficiency and contributes to fertilizer saving in some crops
+g) Reduced salinity hazards to crop plants when low quality saline water is used for irrigation
+h) Suitable for irrigating high-value crops raised in greenhouses, plastic tunnels, potted plants
+and under plastic mulches
+i) Lower operating pressures means reduced pumping energy costs
+j) Limited weed growth because only a fraction of the soil surface is irrigated
+61
+k) Reduced operational and labour costs due to improved weed control and simultaneous
+application of water, fertilizers, herbicide, insecticide, fungicide and other additives through the
+drip irrigation system
+l) Feasible to irrigate crops raised in small & irregularly shaped narrow lawns, and on undulated
+land terrains
+m) Maintenance of dry foliage means improved disease and pest management
+n) Suitable to highly permeable & low water holding sandy and desert soils, saline and slowly
+permeable alkaline soils, wastelands, slopy lands and rocky hills, road embankments, abandoned
+mine areas etc
+o) Improved and continuous cultural operations such as spraying, weeding, thinning and
+harvesting of tree and row crops is possible without interrupting the drip irrigation cycle for any
+prolonged period of time.
+p) Environmental protection and ecological security
+20.3 Limitations
+Despite observed successes, some important possible limitations of drip irrigation as compared
+to other irrigation methods have been encountered for some soils, water quality and
+environmental conditions, which include:
+a) Sensitivity to emitter clogging
+b) Salt accumulation in soil
+c) Mechanical damage to system components
+d) Lack of microclimate control such as frost protection and evaporative cooling.
+e) Operational constraints such as high technical skills, stringent filtration and operating
+pressures etc
+20.4 Drip Irrigation System Layout and Components
+The drip irrigation system consists of three subsystems viz., control head unit, water carrier
+system and water distribution system besides water source & pumping station (Fig. 20.3).
+a) Head control unit – Non return valve, Air release valve, Vacuum breaker, Filtration unit,
+Fertigation unit, Throttle valve, Pressure gauge, Water meter, Pressure regulator and Pressure
+relief valve.
+b) Water carrier system – PVC main pipeline, PVC submain pipeline, Control valve, Flush valve
+and other fittings
+c) Water distribution system – Drip lateral, Emitters, Grommet, Start connecter, Nipple, End cap.
+62
+Fig.20.3 Drip head control unit and System Components
+20.5 Suitable crops
+Drip irrigation, like other irrigation methods, will not fit every agricultural crop, specific site or
+objective. Presently drip irrigation has the greatest potential in the following crops:
+a) Fruit crops – Mango, citrus, grapes, guava, pomegranate, banana, papaya, watermelon, Litchi,
+Fig, Ber, Amla, Sapota etc
+b) Vegetable crops – Tomato, Brinjal, Bhendi, Cabbage, Cauliflower, Capsicum, Chillies gourds
+etc
+c) Plantation crops – Oil palm, Coconut, Arecanut, Cashewnut, Coffee, Tea etc
+d) Field crops – Cotton, Sugarcane, Tobacco, Sugarbeet, Castor etc
+e) Tuber & Bulb crops – Potato, Cassava, Onion, Sweet potato, Radish, Colocasia etc
+f) Spices – Turmeric, Ginger, Cardamom etc
+g) Flowers – Roses, Rose, Gerbera, Orchids, Anthurium, Gladiolus, Carnations, Jasmine,
+Chrysanthemum, Marigold etc.
+Further this method of irrigation continuous to be important in greenhouse production of
+vegetables & flowers. Drip irrigation is also used for landscaping of parks, highways,
+commercial developments and residences. As labour, water and land preparation costs increase,
+more drip irrigation systems will be substituted for conventional irrigation methods.
+63
+20.6. Drip irrigation components
+The components of micro irrigation system can be grouped into two major groups (Fig.50):
+i) Head control unit and
+ii) Distribution network.
+Head control unit: The head control unit consists of micro irrigation system includes the
+following components.
+1. Pump/overhead tank: It is required to provide sufficient pressure in the system. Centrifugal
+pumps are generally used for low pressure trickle systems. Overhead tanks can be used for small
+areas or orchard crops with comparatively lesser water requirements.
+2. Fertilizer applicator: Application of fertilizer into pressurized irrigation system is done by
+either a by-pass pressure tank or by venture injector or direct injection system.
+3. Filters: The hazard of blocking or clogging necessitates the use of filters for efficient and
+trouble free operation of the micro irrigation system. The different types of filters used in micro
+irrigation system are described below.
+a) Gravel or media filter: Media filters consists of fine gravel or coarse quartz sand, of selected
+sizes (usually 1.5 to 4 mm in diameter), free of calcium carbonate placed in a cylindrical tank.
+These filters are effective in removing light suspended materials such as algae and other organic
+materials, fine sand and silt particles. This type of filtration is essential for primary filtration of
+irrigation water from open water reservoirs, canals or reservoirs in which algae may develop.
+Water is introduced at the top, while a layer of coarse gravel is put near the outlet bottom.
+Reversing the direction of flow and opening the water drainage valve cleans the filters. Pressure
+gauges are placed at the inlet and at the outlet ends of the filter to measure the head loss across
+the filter. If the head loss exceeds more than 30 kPa filter needs back washing.
+b) Screen filters: Screen filters are always installed for final filtration as an additional safeguard
+against clogging. While majority of impurities are filtered by sand filter, minute sand particles
+and other small impurities pass through it. The screen filter, containing screen strainer, which
+filters physical impurities allows only clean water to enter into the micro irrigation system. The
+screens are usually cylindrical and made of noncorrosive metal or plastic material. These are
+available in a wide variety of types and flow rate capacities with screen sizes ranging from 20
+mesh to 200 mesh. The aperture size of the screen opening should be between 1/7th and 1/10th
+of the orifice size of emission device.
+4. Pressure relief valves, regulators or bye pass arrangement: These valves may be installed
+at any point where possibility exists for excessively high pressures, either static or surge
+pressures to occur. A bye pass arrangement is simplest and cost effective means to avoid
+problems of high pressures instead of using costly pressure relief valves.
+64
+5. Check valves or non return valves: These valves are used to prevent unwanted flow
+reversal. They are used to prevent damaging back flow from the system to avoid return flow of
+chemicals and fertilizers from the system into the water source itself to avoid contamination of
+water source.
+Distribution network: It mainly constitutes main line, sub mains, line and laterals with drippers
+and other accessories (Fig.50).
+1. Main line: The main line transports water within the field and distribute to sub mains. Main
+line is made of rigid PVC and high density polyethylene (HDPE). Pipe lines of 65 mm diameter
+and above with a pressure rating of 4 to 6 kg/cm2 are used as main pipes.
+2. Sub mains: Sub mains distribute water evenly to a number of lateral pipes. For sub main
+pipes, rigid PVC, HDPE or LDPE (Low density polyethylene) of diameter ranging from 32 mm
+to 75 mm having pressure rating of 2.5 kg/cm2 are used.
+3. Laterals: Laterals distribute the water uniformly along their length by means of drippers or
+emitters. These are normally manufactured from LDPE. Generally pipes having 10, 12 and 16
+mm internal diameter with wall thickness varying from 1 to 3 mm are used as lateral.
+4. Drippers: They function as energy dissipaters, reducing the inlet pressure head ( 0.5 to 1.5
+atmospheres) to zero atmospheres at the outlet.
+The commonly used drippers are online pressure compensating or online non-pressure
+compensating, in-time dripper, adjustable discharge type drippers and micro tubing of 1 to 4 mm
+diameter. These are manufactured from poly-propylene or LDPE.
+a) Online pressure compensating drippers: A pressure compensating type dripper supplies
+water uniformly on long rows and on uneven slopes. These are most suitable on slopes and
+difficult topographic terrains.
+b) Online non-pressure compensating drippers: In such type of drippers, discharge tends to
+vary with operating pressure. These are cheap and available in affordable price.
+c) In line drippers or In line tubes: These are fixed along with the line i.e., the pipe is cut and
+dripper is fixed in between the cut ends, such that it makes a continuous row after fixing the
+dripper. These types of drippers are suitable for row crops.
+65
+Lecture No. 21
+Pumps –Centrifugal pumps working method
+21.0 Pumps
+Lift irrigation requires that water be raised from its source to the field surface. Whatever
+the source of water in a lift irrigation project, the efficiency of the system depends on the
+application of sound principles in the design and construction of utilization structure, usually the
+well, and the characteristics of the water lifting device in relation the source of water. Devices
+for irrigation water lifting range from age-old indigenous water lifts to highly efficient pumps.
+Pumps operated by electric motors or engines have come into prominence in all large scale lift
+irrigation schemes. This is because high output and efficiency levels can be more easily attained
+and controlled, using mechanically powered water lifts.
+Basically, there are four principles involved in pumping water from source. These are
+atmospheric pressure, positive displacement, centrifugal force, and movement of columns of
+water caused by difference in specific gravity. Numerous kinds of pumps are available, all of
+which use one or more of these principles. The classification of commonly used irrigation water
+lifts is shown in fig.21.1. Selection of a suitable water lifting device for a particular situation
+depends on the characteristics of the source of water and the lifting device, the amount of water
+to be lifted, the depth to the pumping water level, type and amount of power available and the
+economic status of the farmer. Most commonly used pumps are centrifugal pumps, vertical
+turbine pumps, and submerged pumps. Pump is a machine that lifts water from source (open
+wells, tube wells or deep wells) to ground surface. Pumps are generally two types:
+1) Indigenous water lifts.
+2) Highly efficient irrigation pumps.
+Fig.21.1 Classification Pumps
+66
+21.1 Centrifugal pumps In modern times, centrifugal pump is most commonly used for
+irrigation purpose. During the last 60 years, centrifugal pumps have replaced most of the other
+types of pumps and today they are the most popular pumps. Centrifugal pumps usually give
+efficient operation over relatively wide range of operating conditions especially if the total head
+exceeds 4 meters. The centrifugal pump draws water from the source of supply to the pump.
+Therefore, its use is limited to locations where this distance is within the limits of suction. Where
+this limit exceeds, horizontal centrifugal pumps cannot be used and deep well turbine pumps or
+submersible pumps should be used.
+21.2 Advantages of centrifugal pump This pump is very popular due to: (i) lower initial cost,
+(ii) greater flexibility in application, (iii) wide working range in size and capacity, (iv) simplicity
+in construction, (v) constant steady discharge, and (vi) easy in operation, and (v) easy in
+operation, maintenance and repair.
+21.3 Principle of operation The pump consists of two basic components: (i) Impeller, and (ii)
+Casing. The impeller is rotated at high speed by an electric motor or an engine. As soon as the
+impeller starts rotating, the blades cause the water to rotate with the impeller and impart high
+velocity to the water. Hence, water in the impeller (filled up by priming in the beginning) moves
+from the eye (centre of the impeller) to the periphery, negative pressure is created at the eye due
+to which water rushes from the water source to the eye or outside the casing where pressure head
+is built up. The static water in the well is at the atmospheric pressure, so the water rushes into the
+suction pipe due to difference of pressure. In this way, continuous flow of water is maintained in
+the pump. The centrifugal pump so called because the pressure increases with in the casing due
+to centrifugal forces. The pump will not work until the casing and the suction pipe are full of
+water by priming. Priming: It is the process of removing air from pump casing and suction pipe
+by filling water in the suction pipe. The ump will not work if there is any air left in the suction
+pipe.
+67
+21.4 Classification of centrifugal pump Centrifugal pumps can be classified on the following
+basis;
+a) Type of energy conversion: (a) volute, and (b) diffuser
+b) Working head: (a) low lift, (b) medium lift, (c) high lift.
+c) Number of impellers per shaft: (a) single stage and (b) multi-stage.
+d) Relative direction of flow through impeller: (a) radial flow, (b) mixed flow and (c)axial
+flow.
+e) Type of suction inlet: (a) single suction and (b) double suction.
+f) Axis of rotation: (a) horizontal and (b) vertical.
+g) Impeller types: (a) closed impeller, (b) semi-open impeller, (c) open impeller.
+h) Method of drive: (a) direct coupled, (b) gear-driven and (c) belt-driven.
+21.5 Components and accessories of centrifugal pump
+The following are the important components and accessories of a pumping unit (Fig.30): 1.
+Impeller. 2. Impeller shaft. 3. Casing. 4. Stuffing box. 5. Suction pipe. 6. Foot valve. 7. Delivery
+pipe. 8. Delivery valve. 9. Bearings.
+21.5.1 Impeller: It is a wheel or disc mounted on the dry shaft and provided with a no. of curved
+blades/ vanes. The impeller is fitted on the shaft with the help of suitable bearing. It is rotated at
+high speed with the help of mortar or an IC engine.
+Types of impellers
+a) Closed,
+b) Semi-open and
+c) Open impeller pumps
+Depending upon the viscosity of the liquid and the solid matter content in the liquid, different
+types of impellers namely closed, semi-open and open types are used.
+a. Open impeller The impeller is not provided with any side wall or shroud (Fig.21.2). They
+are used to handle where water is mixed with sand, gravel, clay, pebbles and other solid
+materials. It is generally made of forged steel and it has a short life. These are suitable for
+dredging works.
+b. Semi-open impeller The impeller is provided with side wall or shroud on one side only
+(Fig.21.2). The number of vanes is reduced and their length is increased to reduce the chance of
+impeller clogging. Such impellers are suitable for pumping viscous liquids such as paper pulp,
+molasses, and sewage water containing foreign materials.
+c. Closed impeller The impeller is provided with side wall or shroud on both sides of the vanes
+(Fig.21.2). All ordinary centrifugal pumps used to pump clear irrigation water have closed
+68
+impellers. This is suitable for handling nonviscous liquids free from foreign materials such as
+ordinary water, acids, oils etc. The efficiency of semi-open impeller pump is lower than the
+closed impeller pumps and higher than the open impeller pump.
+Fig.21.2. Types of impellers
+21.5.2 Casing: It is a spiral shaped cover having gradually increasing cross sectional area
+towards the discharge end. The casing receives water from the impeller and discharges it to the
+delivery pipe.
+21.5.3 Suction pipe: It is a suitable pipe for limiting water from the well or stream. It is fitted
+with suitable foot valve with strainer.
+21.5.4 Stainer with foot valve: It is a non return or one way type valve operating towards. The
+water will pass through the valve upwards and it won‟t allow water to move downwards. It is
+fitted at the bottom of the suction pipe which remains submerged in water. A suitable strainer is
+provided at the bottom of the foot valve to prevent floating bodies like leaves or wooden pieces
+from entering into suction pipe.
+21.5.5 Stuffing box: It is a portion of casing through which the pump shaft extends and in which
+the packing and mechanical seal is placed to prevent the leakage.
+21.5.6 Delivery pipe: Delivery pipe is a pipe used to deliver water from pump to the desired or
+delivery place.
+21.5.7 Delivery valve: It is a regulating valve used on the delivery side of the pump. It remains
+closed at the start of the pump.
+21.5.8 Bearings: Bearings are used to keep the shaft of the pump in correct position.
+Couplings are most commonly used to connect pump shaft to motor or engine shaft.
+69
+Lecture No. 22
+Submersible pumps
+22. Submersible pumps
+A vertical turbine pump close coupled to a small diameter submersible electric motor is
+termed a submersible pump, in which both motor and pump are installed inside the well (Fig.33).
+The motor is fixed directly below the intake of the pump. The pump element and the motor
+operate entirely submerged. The submersible pump has special advantage in a location where
+theft is a problem. The principal advantage of the submersible pump is that it can be used in a
+very deep tube well where a long shaft would not be practical. These pumps are also less affected
+by deviations in vertical alignment of wells. As the submersible pump has no above-ground
+working parts, it can be used where flooding may be a hazard. It is suitable for installation in
+small diameter wells of up to a minimum 100 mm. In India, private tube wells constructed by the
+farmers are of shallow type with their diameters in the range of 75 to 100 mm. They are
+generally operated by centrifugal pumps installed on the ground surface. The performance
+characteristics of the submersible pump are similar to the vertical turbine pump.
+22.1 Pump construction It consists of a Pump and motor assembly, a head assembly, a
+discharge column and a water proof cable to supply power to the submerged motor.
+Pump element: The construction of the pump element is similar to the vertical turbine pump.
+The propelling shaft, usually made of stainless steel, is very short and on which the bronze
+impellers are mounted. The impellers may be closed semi-open or open. The closed impeller is
+generally used where it is necessary for the pump to develop high pressure. Water enters the
+pump through a screen located between motor and the pump.
+Electric motor
+The submersible electric motor has the same diameter as the pump bowl, but it is longer
+than the ordinary motor. These motors usually are of dry type. The dry motor is enclosed in a
+steel case filled with a light oil of high dielectric strength. A mercury seal placed directly above
+the armature prevents oil leakage or water entrance at that point where the drive shaft passes
+through the case to the impellers. Submersible electrical motors are designed for long service
+without attention. If the motor failure occurs, the entire pump must be lifted from the well.
+The stator windings are continuous for the whole length of the motor. The electrical
+cables, leading from the motor to the starting box on the ground surface, are water-proof and are
+placed outside the discharge pipe.
+22.2 Installation
+A concrete base is constructed on the surface which covers the well casing and the head
+assembly rests on it. The head assembly is connected to the pump with the help of the discharge
+pipe. The pump assembly should be sufficiently lowered inside the well by using a long pipe so
+that it is always submerged. No pump-house is required as the pump and motor assembly
+remains in the well. The control panel consisting of the switch, meter, and starter are enclosed in
+a water-proof box.
+70
+Lecture No. 23
+Losses due to friction in pumps Problems
+This kinetic energy of a liquid coming out of an impeller is harnessed by creating a
+resistance to the flow. The first resistance is created by the pump volute (casing) that catches the
+liquid and slows it down. In the discharge nozzle, the liquid further decelerates and its velocity is
+converted to pressure according to Bernoulli‟s principle. Therefore, the head (pressure in terms
+of height of liquid) developed is approximately equal to the velocity energy at the periphery of
+the impeller expressed by the following well-known formula:
+H=
+H= Total head developed in feet.
+v= Velocity at periphery of impeller in m/sec.
+g= Acceleration due to gravity 9.81 m/sec
+d= Diameter of the pipe (in meters)
+23.1. Friction Head (h): The head required to overcome the resistance to flow in the pipe and
+f
+fittings. It is dependent upon the size, condition and type of pipe, number and type of
+pipefittings, flow rate, and nature of the liquid.
+h = Friction Head
+f
+f = Constant
+l = length of pipe (in mtrs)
+v = flow velocity (in m/sec)
+g = gravitational force
+d = density of pipe (in mtrs)
+h = 4flv2/2gd
+f
+23.2. Capacity
+Capacity means the flow rate with which liquid is moved or pushed by the pump to the desired
+point in the process. It is commonly measured in either gallons per minute (gpm) or cubic meters
+per hour (m3/hr). The capacity usually changes with the changes in operation of the process. For
+example, a boiler feed pump is an application that needs a constant pressure with varying
+capacities to meet a changing steam demand.
+The capacity depends on a number of factors like:
+ Process liquid characteristics i.e. density, viscosity
+ Size of the pump and its inlet and outlet sections
+ Impeller size
+ Impeller rotational speed RPM
+ Size and shape of cavities between the vanes
+71
+ Pump suction and discharge temperature and pressure conditions
+Q = Capacity /head (in lit./sec)
+A = Area (in hectares)
+D = Depth of irrigation (in cms)
+E = time of irrigation (in days)
+H = Pump working hours (in hrs)
+Q = 28AD/EH
+72
+Lecture No. 24
+73
+Lecture No. 25
+Irrigation water Measuring devises
+25.1Measurement of irrigation water -Direct discharge methods - water meter, weirs,
+orifices.
+25.1.1 Current meter method
+Two types of current meters namely; the cup type (Fig.35) and the propeller type (Fig.36)
+are used for measurement of velocity in irrigation channels, flumes, streams or rivers. The cup
+type current meter consists of a wheel having several cups and the propeller type consists of
+vanes or propeller attached to a rod. When the meter is placed in flowing water, the velocity of
+water rotates the wheel or the vane. In case of shallow streams, the current meter is suspended
+from a rod and for measurement in deep water, a cable is used to suspend the meter. In large
+rivers, a boat is used to take readings inside the river. Sometimes the current meter is suspended
+from a bridge if available. As the wheel rotates, the revolution is recorded in a counter. A
+calibration chart or a graph gives the relationship between the revolution per minute and the
+velocity. The average velocity is obtained by taking the average of the velocities at 0.8 and 0.2 of
+the depth from the top. In case of shallow stream, if it is not possible to take the reading at 0.8 of
+the depth from the surface, only one reading may be taken at 0.6 of the depth from the surface.
+25.1.2 Weirs
+A weir is a notch or opening of some definite shape installed on a channel or a stream
+through which water falls. May materials like wood, concrete, mild steel, rigid PVC etc. can be
+used for construction of a weir. Mainly a cut on a sheet metal is used for fabrication of weirs, to
+be installed at various locations in a channel. Weirs can be classified as (i) broad crested and (ii)
+sharp crested weirs. The sharp crested weir is mostly used for measurement of irrigation water. It
+is nothing but, a weir with thin edge such that the sheet of water flowing over it has the minimum
+contact area with it.
+The bottom most portion of the weir in touch with the water is called the weir crest. The
+sheet of water flowing over the weir is called the nappe (Fig.31.3). The top surface is the upper
+nappe and the bottom surface is the lower nappe. The depth of flow over the crest is known as
+head (H). It is measured at a minimum distance of 4 H upstream from the crest. The horizontal
+distance from the end of the crest to the side of the channel is known as end contraction. If both
+ends of the crest are away from the sides of the channel, then there are two end contractions. If
+the length of the crest is same as the width of the channel, then there is no end contraction. The
+weir is said to have free flow condition, if the surface of water downstream is below the crest
+level so that the nappe is surrounded by air. If the downstream water level is higher than the weir
+crest level then it is a submerged flow condition.
+74
+Fig. 31.4 Profile of a Sharp-crested weir
+Apart from being classified as sharp crested and broad crested, weirs can also be
+classified according to the shape of the notch.
+25.1.2.1 Rectangular weir
+The rectangular weir (Fig.31.5a) is used to measure high discharge. Its crest is horizontal
+and the sides are vertical. In case, the crest length is same as that of the channel width, it is
+known as suppressed weir, otherwise contracted weir.
+25.1.2.2 Trapezoidal weir
+The trapezoidal weir (Fig.31.5b) has a horizontal crest and the slides slope outward to
+give the notch a trapezoidal cross-section Commonly a side slope of 1 horizontal to 4 vertical is
+used and it is named as cipoletti weir. It does not require any correction for end contractions and
+is used for measurement of medium discharges. Normally it is a sharp crested weir.
+25.1.2.3 Triangular or V-notch weir
+It is used to measure small to medium discharges. The 90º V-notch weir (Fig.31.5c) is
+used to measure low discharges accurately. Thus the sides of the notch make an angle 45 º with
+the vertical which gives a slope of 1 horizontal to 1 vertical.
+Fig. 6.2. Sharp created weirs (a) rectangular, (b) Cipoletti or trapezoidal and (c) V-notch
+or triangular
+75
+25.1.3 Discharge formulae for weirs.
+The basic equation for calculating the discharge through a weir is
+Q = CLHm
+When Q is the discharge, C is the coefficient which depends upon the nature of the crest
+and approach condition, L is the length of the weir crest, H is the head on the crest and m is an
+exponent which depends upon the type of weir opening.
+The formula for calculating discharge through rectangular weirs with n number of end
+contractions is
+Q = 0.0184 (L - 0.1 nH) H3/2
+Where Q is the discharge in litre per second., L is the length of crest in centimeter and H
+is the head on the crest in centimeter.
+In case of suppressed weir, number of end contraction is zero and obviously equation is
+changed to
+Q = 0.0184 LH3/2
+The formula for calculating discharge over a Cipoletti weir is
+Q = 0.0186 LH3/2
+In case of 90 º triangular weir, the discharge equation is
+Q = 0.0138 H5/2.
+25.1.4 Orifices
+An orifice (Fig.41) is an opening in a bulk-head with closed perimeter usually circular or
+rectangular cross-section through which water flows. For measurement of water, orifices are
+fabricated by making an accurate cut of proper size and shape in a mild steel sheet, aluminum
+plate etc. Proper machining is done to have a sharp edge through which water flows. The orifice
+flow formulae can be applied only when the orifice flows fully. If it flows partially, it behaves
+like a weir.
+If the downstream water level is lower than the bottom of the orifice opening, the water
+jet discharges freely into the air and then it is said to have a free discharge. If the orifice
+discharges under a condition of submergence, it is called submerged weir. In case of free
+discharge, the depth of water on the upstream side of the orifice that causes the flow is called the
+head. In case of submerged office, the difference of water level in the upstream and downstream
+sides is known as the head. No drop as in case of a weir is required for installation of orifices and
+therefore, this can be used more widely. The submerged orifice generally has a rectangular
+shape.
+The discharge through an orifice can be calculated by the following formula:
+Q = C X 103 X a
+d
+76
+Q = discharge, liters per second
+C = Coefficient of discharge, usually taken as 0.62 for sharp edged orifices
+d
+a = Cross-sectional area of orifice, cm2
+g = acceleration due to gravity, cm/s2
+H = head of water causing the flow, cm
+77
+Lecture 26
+Introduction to green houses-history, definition, greenhouse effect, advantages of green
+houses.
+After the advent of green revolution, more emphasis is laid on the quality of the product
+along with the quantity of production to meet the ever- growing food requirements. Both these
+demands can be met when the environment for the plant growth is suitably controlled. The need
+to protect the crops against unfavorable environmental conditions led to the development of
+protected agriculture. Greenhouse is the most practical method of achieving the objectives of
+protected agriculture, where the natural environment is modified by using sound engineering
+principles to achieve optimum plant growth and yields.
+26.1 History
+A greenhouse is a framed or an inflated structure covered with a transparent or
+translucent material in which crops could be grown under the conditions of at least partially
+controlled environment and which is large enough to permit persons to work within it to carry
+out cultural operations.
+The growing of off - season cucumbers under transparent stone for Emperor Tiberius in
+the 1st century, is the earliest reported protected agriculture. The technology was rarely
+employed during the next 1500 years. In the 16th century, glass lanterns, bell jars and hot beds
+covered with glass were used to protect horticultural crops against cold. In the 17th century, low
+portable wooden frames covered with an oiled translucent paper were used to warm the plant
+environment.
+In Japan, primitive methods using oil -paper and straw mats to protect crops from the
+severe natural environment were used as long ago the early 1960s. Greenhouses in France and
+England during the same century were heated by manure and covered with glass panes. The first
+greenhouse in the 1700s used glass on one side only as a sloping roof. Later in the century, glass
+was used on both sides. Glasshouses were used for fruit crops such as melons, grapes, peaches
+and strawberries, and rarely for vegetable production.
+Protected agriculture was fully established with the introduction of polyethylene after the
+World war II. The first use of polyethylene as a greenhouse cover was in 1948, when professor
+Emery Myers Emmert, at the University of Kentucky, used the less expensive material in place
+of more expensive glass.
+The total area of glasshouses in the world (1987) was estimated to be 30,000 ha and most
+of these were found in North- Western Europe. In contrast to glasshouses, more than half of the
+world area of plastic green houses is in Asia, in which China has the largest area. According to
+1999 estimates, an area of 6, 82,050 ha were under plastic greenhouses (Table 1.1). In most of
+the countries, green houses are made of plastic and glass; the majority is plastic.
+78
+Glasshouses and rigid plastic houses are longer-life structures, and therefore are most
+located in cold regions where these structures can be used throughout the year. In Japan, year
+round use of greenhouses is becoming predominant, but in moderate and warm climate regions,
+they are still provisional and are only used in winter.
+In India, the cultivation in the plastic greenhouses is of recent origin. As per 1994-95
+estimates, approximately 100 ha of India are under greenhouse cultivation.
+Table 1. Estimated world use of plastic greenhouses (1999)
+Region Area (ha)
+Europe 1,80,000
+Africa and the Middle East 55,000
+America 22,350
+Asia 4,50,000
+China 3,80,000
+Japan 51,042
+Korea 2,200
+World Total 6,82,050
+Since 1960, the greenhouse has evolved into more than a plant protector. It is now better
+understood as a system of controlled environment agriculture (CEA), with precise control of air
+and root temperature, water, humidity, plant nutrition, carbon dioxide and light. The greenhouses
+of today can be considered as plant or vegetable factories. Almost every aspect of the production
+system is automated, with the artificial environment and growing system under nearly total
+computer control.
+26.2 Greenhouse Effect
+In general, the percentage of carbon dioxide in the atmosphere is 0.035% (345 ppm). But,
+due to the emission of pollutants and exhaust gases into the atmosphere, the percentage of carbon
+dioxide increases which forms a blanket in the outer atmosphere. This causes the entrapping of
+the reflected solar radiation from the earth surface. Due to this, the atmospheric temperature
+increases, causing global warming, melting of ice caps and rise in the ocean levels which result
+in the submergence of coastal lines. This phenomenon of increase in the ambient temperature,
+due to the formation of the blanket of carbon dioxide is known as greenhouse effect.
+The greenhouse covering material acts in a similar way, as it is transparent to shorter
+wave radiation and opaque to long wave radiation.
+During the daytime, the shorter wave radiation enters into the greenhouse and gets
+reflected from the ground surface. This reflected radiation becomes long wave radiation and is
+entrapped inside the greenhouse by the covering material. This causes the increase in the
+greenhouse temperature. It is desirable effect from point of view of crop growth in the cold
+regions.
+79
+26.3 Advantages of Greenhouses
+The following are the different advantages of using the green house for growing crops
+under controlled environment:
+1. Throughout the year four to five crops can be grown in a green house due to availability of
+required plant environmental conditions.
+2. The productivity of the crop is increased considerably.
+3. Superior quality produce can be obtained as they are grown under suitably controlled
+environment.
+4. Gadgets for efficient use of various inputs like water, fertilizers, seeds and plant protection
+chemicals can be well maintained in a green house.
+5. Effective control of pests and diseases is possible as the growing area is enclosed.
+6. Percentage of germination of seeds is high in greenhouses.
+7. The acclimatization of plantlets of tissue culture technique can be carried out in a green house.
+8. Agricultural and horticultural crop production schedules can be planned to take advantage of
+the market needs.
+9. Different types of growing medium like peat mass, vermiculate, rice hulls and compost that
+are used in intensive agriculture can be effectively utilized in the greenhouse.
+10.Export quality produce of international standards can be produced in a green house.
+11. When the crops are not grown, drying and related operations of the harvested produce can be
+taken up utilizing the entrapped heat.
+12.Greenhouses are suitable for automation of irrigation, application of other inputs and
+environmental controls by using computers and artificial intelligence techniques.
+13. Self-employment for educated youth on farm can be increased.
+80
+Lecture 27
+Brief description of types of green houses, greenhouses based on shape, utility, construction,
+covering materials and cost, shade nets.
+Greenhouse structures of various types are used successfully for crop production. Although there
+are advantages in each type for a particular application, in general there is no single type
+greenhouse, which can be considered as the best. Different types of greenhouses are designed to
+meet the specific needs.
+27.1 Greenhouse type based on shape
+Greenhouses can be classified based on their shape or style. For the purpose of
+classification, the uniqueness of the cross section of the greenhouses can be considered as a
+factor. As the longitudinal section tend to be approximately the same for all types, the
+longitudinal section of the greenhouse cannot be used for classification. The cross sections depict
+the width and height of the structure and the length is perpendicular to the plane of cross section.
+Also, the cross section provides information on the overall shape of the structural members, such
+as truss or hoop, which will be repeated on every day.
+The commonly followed types of greenhouse based on shape are lean-to, even span,
+uneven span, ridge and furrow, saw tooth and quonset.
+27.1.1 Lean-to type greenhouse
+A lean-to design is used when a greenhouse is placed against the side of an existing
+building. It is built against a building, using the existing structure for one or more of its sides
+(Fig.27.1). It is usually attached to a house, but may be attached to other buildings. The roof of
+the building is extended with appropriate greenhouse covering material and the area is properly
+enclosed. It is typically facing south side. The lean-to type greenhouse is limited to single or
+double-row plant benches with a total width of 7 to 12 feet. It can be as long as the building it is
+attached to. It should face the best direction for adequate sun exposure.
+The advantage of the lean-to type greenhouse is that, it usually is close to available
+electricity, water, and heat. It is a least expensive structure. This design makes the best use of
+sunlight and minimizes the requirement of roof supports. It has the following disadvantages:
+limited space, limited light, limited ventilation and temperature control. The height of the
+supporting wall limits the potential size of the design. Temperature control is more difficult
+because the wall that the greenhouse is built on, may collect the sun's heat while the translucent
+cover of the greenhouse may lose heat rapidly. It is a half greenhouse, split along the peak of the
+roof.
+81
+27.1.2 Even span type greenhouse
+The even-span is the standard type and full-size structure, the two roof slopes are of
+equal pitch and width (Fig.27.1). This design is used for the greenhouse of small size, and it is
+constructed on level ground. It is attached to a house at one gable end. It can accommodate 2 or 3
+rows of plant benches. The cost of an even-span greenhouse is more than the cost of a lean-to
+type, but it has greater flexibility in design and provides for more plants. Because of its size and
+greater amount of exposed glass area, the even-span will cost more to heat. The design has a
+better shape than a lean-to type for air circulation to maintain uniform temperatures during the
+winter heating season. A separate heating system is necessary unless the structure is very close to
+a heated building. It will house 2 side benches, 2 walks, and a wide center bench. Several single
+and multiple span types are available for use in various regions of India. For single span type the
+span in general, varies from 5 to 9 m, whereas the length is around 24 m. The height varies from
+2.5 to 4.3 m.
+82
+Fig. 27.1. Lean-to-type and Even span type Fig.27.2.Uneven and Ridge and furrow type
+greenhouses greenhouses
+27.1.3 Uneven span type greenhouse
+This type of greenhouse is constructed on hilly terrain. The roofs are of unequal width;
+make the structure adaptable to the side slopes of hill (Fig. 27.2). This type of greenhouses is
+seldom used now-a-days as it is not adaptable for automation.
+27.1.4 Ridge and furrow type greenhouse
+Designs of this type use two or more A-frame greenhouses connected to one another
+along the length of the eave (Fig. 27.2). The eave serves as furrow or gutter to carry rain and
+melted snow away. The side wall is eliminated between the greenhouses, which results in a
+structure with a single large interior, Consolidation of interior space reduces labour, lowers the
+cost of automation, improves personal management and reduces fuel consumption as there is less
+exposed wall area through which heat escapes. The snow loads must be taken into the frame
+specifications of these greenhouses since the snow cannot slide off the roofs as in case of
+individual free standing greenhouses, but melts away. In spite of snow loads, ridge and furrow
+83
+greenhouses are effectively used in northern countries of Europe and in Canada and are well
+suited to the Indian conditions.
+27.1.5 Saw tooth type Greenhouse
+These are also similar to ridge and furrow type greenhouses except that, there is provision
+for natural ventilation in this type. Specific natural ventilation flow path (Fig. 3) develops in a
+saw- tooth type greenhouse.
+27.1.6 Quonset greenhouse
+This is a greenhouse, where the pipe arches or trusses are supported by pipe purling
+running along the length of the greenhouse (Fig 27.3). In general, the covering material used for
+this type of greenhouses is polyethylene. Such greenhouses are typically less expensive than the
+gutter connected greenhouses and are useful when a small isolated cultural area is required.
+These houses are connected either in free, standing style or arranged in an interlocking ridge and
+furrow.
+In the interlocking type, truss members overlap sufficiently to allow a bed of plants to
+grow between the overlapping portions of adjacent houses. A single large cultural space thus
+exists for a set of houses in this type, an arrangement that is better adapted to the automation and
+movement of labour.
+Fig. 27.3. Quonset and Saw tooth type greenhouses
+27.2 Greenhouse type based on utility
+84
+Classification of greenhouses can be made depending on the functions or utilities. Of the
+different utilities, artificial cooling and heating of the greenhouse are more expensive and
+elaborate. Hence based on the artificial cooling and heating, greenhouses are classified as green
+houses for active heating and active cooling system.
+27.2.1 Greenhouses for active heating
+During the night time, air temperature inside greenhouse decreases. To avoid the cold
+bite to plants due to freezing, some amount of heat has to be supplied. The requirements for
+heating greenhouse depend on the rate at which the heat is lost to the outside environment.
+Various methods are adopted to reduce the heat losses, viz., using double layer polyethylene,
+thermo pane glasses (Two layers of factory sealed glass with dead air space) or to use heating
+systems, such as unit heaters, central heat, radiant heat and solar heating system.
+27.2.2 Greenhouses for active cooling
+During summer season, it is desirable to reduce the temperatures of greenhouse than the
+ambient temperatures, for effective crop growth. Hence suitable modifications are made in the
+green house so that large volumes of cooled air is drawn into greenhouse, This type of
+greenhouse either consists of evaporative cooling pad with fan or fog cooling. This greenhouse is
+designed in such a way that it permits a roof opening of 40% and in some cases nearly 100%.
+85
+Lecture No. 28
+Plant growth greenhouse environment
+86
+Lecture No. 29
+Plant response to greenhouse environments-light, temperature, relative humidity, ventilation
+and carbon dioxide and environmental requirement of agriculture and horticulture crops inside
+green houses.
+The productivity of a crop is influenced not only by its heredity but also by the
+microclimate around it. The components of crop microclimate are light, temperature, air
+compositions and the nature of the root medium. In open fields, only manipulation of nature of
+the root medium by tillage, irrigation and fertilizer application is possible. The closed boundaries
+in greenhouse permit control of any one or more of the components of the micro climate.
+29.1 Light
+The visible light of the solar radiation is a source of energy for plants. Light energy,
+carbon dioxide (Co2) and water all enter in to the process of photosynthesis through which
+carbohydrates are formed. The production of carbohydrates from carbon dioxide and water in the
+presence of chlorophyll, using light energy is responsible for plant growth and reproduction. The
+rate of photosynthesis is governed by available fertilizer elements, water, carbon dioxide, light
+and temperature.
+The photosynthesis reaction can be represented as follows
+Chlorophyll
+CO + water+ light energy ------------------- carbohydrates + oxygen
+2
+Plant nutrients
+Considerable energy is required to reduce the carbon that is combined with oxygen in
+CO gas to the state in which it exists in the carbohydrate. The light energy thus utilized is
+2
+trapped in the carbohydrate. If the light intensity is diminished, photosynthesis slows down and
+hence the growth. If higher than optimal light intensities are provided, growth again slows down
+because of the injury to the chloroplasts.
+The light intensity is measured by the international unit known as Lux. It is direct
+illumination on the surrounding surface that is one meter from a uniform point source of 1
+international candle. Green house crops are subjected to light intensities varying from 129.6klux
+on clear summer days to 3.2 Klux on cloudy winter days. For most crops, neither condition is
+ideal. Many crops become light saturated, in other words, photosynthesis does not increase at
+light intensities higher than 32.2klux. Rose and carnation plants will grow well under summer
+light intensities. In general, for most other crops foliage is deeper green if the greenhouse is
+shaded to the extent of about 40% from mid spring (May) to mid fall (August and September).
+87
+Thus, it is apparent that light intensity requirements of photosynthesis are vary considerably from
+crop to crop.
+Light is classified according to its wave length in nanometers (nm). Not all light useful in
+photosynthesis process. UV light is available in the shorter wavelength range, i.e less than
+400nm. Large of quantities of it is harmful to the plants. Glass screens are opaque to the most
+UV light and light below the range of 325nm. Visible and white light has wavelength of 400 to
+700nm.Far red light (700 to 750nm) affects plants, besides causing photosynthesis. Infrared rays
+of longer wavelengths are not involved in the plant process. It is primarily, the visible spectrum
+of light that is used in photosynthesis. In the blue and red bands, the photosynthesis activity is
+higher, when the blue light (shorter wavelength) alone is supplied to plants, the growth is
+retarded, and the plant becomes hard and dark in colour. When the plants are grown under red
+light (longer wavelength), growth is soft and internodes are long, resulting in tall plants. Visible
+light of all wavelengths is readily utilized in photosynthesis.
+29.2 Temperature
+Temperature is a measure of level of the heat present. All crops have temperature range
+in which they can grow well. Below this range, the plant life process stop due to ice formation
+within the tissue and cells are possibly punctured by ice crystals. At the upper extreme, enzymes
+become inactive, and again process essential for life cease. Enzymes are biological reaction
+catalyst and are heat sensitive. All biochemical reactions in the plant are controlled by the
+enzymes. The rate of reactions controlled by the enzyme often double or triple for each rise of
+temperature by 100C, until optimum temperature is reached. Further, increase in temperature
+begins to suppress the reaction and finally stop it.
+As a general rule, green house crops are grown at a day temperature, which are 3 to 60C
+higher than the night temperature on cloudy days and 80C higher on clear days. The night
+temperature of green house crops is generally in the range of 7 to 210C. Primula, mathiola incana
+and calceolaria grow best at 70C, carnation and cineraria at 100C, rose at 160C, chrysanthemum
+and poinsettia at 17 to 180C and African violet at 21 to 220C.
+29.3 Relative humidity
+As the green house is a closed space, the relative humidity of the green house air will be
+more when compared to the ambient air, due to the moisture added by the evapo-transpiration
+process. Some of this moisture is taken away by the air leaving from the green house due to
+ventilation. Sensible heat inputs also lower the relative humidity of the air to some extent. In
+order to maintain the desirable relative humidity levels in the green houses, processes like
+humidification or dehumidification are carried out. For most crops, the acceptable range of
+relative humidity is between 50 to 80%. However for plant propagation work, relative humidity
+up to 90% may be desirable.
+In summer, due to sensible heat addition in the daytime, and in winters for increasing the
+night time temperatures of the green house air, more sensible heat is added causing a reduction in
+88
+the relative humidity of the air. For this purpose, evaporative cooling pads and fogging system of
+humidification are employed. When the relative humidity is on the higher side, ventilators,
+chemical dehumidifiers and cooling coils are used for de- humidification.
+89
+Lecture No. 30
+Carbon dioxide Enrichment and Ventilation
+30.1 Ventilation
+A green house is ventilated for either reducing the temperature of the green house air or
+for replenishing carbon dioxide supply or for moderating the relative humidity of the air. Air
+temperatures above 350C are generally not suited for the crops in green house. It is quite possible
+to bring the green house air temperature below this upper limit during spring and autumn seasons
+simply by providing adequate ventilation to the green house. The ventilation in a green house can
+either be natural or forced. In case of small green houses (less than 6m wide) natural ventilation
+can be quite effective during spring and autumn seasons. However, fan ventilation is essential to
+have precise control over the air temperature, humidity and carbon dioxide levels.
+30.2 Carbon dioxide
+Carbon is an essential plant nutrient and is present in the plant in greater quantity than
+any other nutrient. About 40% of the dry matter of the plant is composed of carbon. Under
+normal conditions, carbon dioxide (CO ) exits as a gas in the atmosphere slightly above 0.03%
+2
+or 345ppm. During the day, when photosynthesis occurs under natural light, the plants in a green
+house draw down the level of CO to below 200ppm. Under these circumstances, infiltration or
+2
+ventilation increases carbon dioxide levels, when the outside air is brought in, to maintain the
+ambient levels of CO . If the level of CO is less than ambient levels, CO may retard the plant
+2 2 2
+growth. In cold climates, maintaining ambient levels of CO by providing ventilation may be un-
+2
+economical, due to the necessity of heating the incoming air in order to maintain proper growing
+temperatures. In such regions, enrichment of the green house with CO is followed. The exact
+2
+CO level needed for a given crop will vary, since it must be correlated with other variables in
+2
+greenhouse production such as light, temperature, nutrient levels, cultivar and degree of maturity.
+Most crops will respond favorably to CO at 1000 to 1200 ppm.
+2
+30.3 Green house ventilation
+Ventilation is the process of allowing the fresh air to enter in to the enclosed area by
+driving out the air with undesirable properties. In the green house context, ventilation is essential
+for reducing temperature, replenishing CO and controlling relative humidity. Ventilation
+2
+requirements for green houses vary greatly, depending on the crop grown and the season of
+production. The ventilation system can be either a passive system (natural Ventilation) or an
+active system (forced ventilation) using fans. Usually green houses that are used seasonally
+employ natural ventilation only. The plant response to specific environment factor is related to
+the physiological processes and hence the latter affects the yield and quality. Hence, controlling
+of environment is of great importance to realize the complete benefit of CEA. Manual
+maintenance of uniform environmental condition inside the green house is very difficult and
+90
+cumbersome. A poor maintenance results in less crop production, low quality and low income.
+For effective control of automatic control systems like micro processor and computer are used
+presently to maintain the environment.
+30.4. Natural ventilation
+In the tropics, the sides of greenhouse structures are often left open for natural
+ventilation. Tropical greenhouse is primarily a rain shelter, a cover of polyethylene over the crop
+to prevent rainfall from entering the growing area. This mitigates the problem of foliage diseases.
+Ventilators were located on both roof slopes adjacent to the ridge and also on both side walls of
+the greenhouse. The ventilators on the roof as well as those on the side wall accounts, each about
+10% of the total roof area. During winter cooling phase, the south roof ventilator was opened in
+stages to meet cooling needs. When greater cooling was required, the north ventilator was
+opened in addition to the south ventilator. In summer cooling phase, the south ventilator was
+opened first, followed by the north ventilator. As the incoming air moved across the greenhouse,
+it was warmed by sunlight and by mixing with the warmer greenhouse air. With the increase in
+temperature, the incoming air becomes lighter and rises up and flows out through the roof
+ventilators. This sets up a chimney effect (Fig. 7), which in turn draws in more air from the side
+ventilators creating a continuous cycle. This system did not adequately cool the greenhouse. On
+hot days, the interior walls and floor were frequently injected with water to help cooling.
+Fig.30.1.Chimney effect in general passive ventilation
+30.4.1. Roll up side passive ventilation in poly houses
+In roll up method of ventilation, allowing the air to flow across the plants. The amount of
+ventilation on one side, or both sides, may be easily adjusted in response to temperature,
+prevailing wind and rain (Fig.30.2). During the periods of excessive heat, it may be necessary to
+roll the sides up almost to the top. Passive ventilation can also be accomplished by manually
+raising or parting the polyethylene sheet. The open vent areas must be covered with screens to
+91
+prevent virus diseases. The holes must be large enough to permit free flow of air. Screens with
+small holes blocks air movement and cause a build up of dust. Rollup side passive ventilation on
+plastic greenhouses is only effective on free standing greenhouses and not on gutter connected
+greenhouses.
+Fig. 30.2 Roll up side passive ventilation and fan-and-pad cooling system
+30.5 Forced Ventilation
+In forced or active ventilation, mechanical devices such as fans are used to expel the air.
+This type of ventilation can achieve uniform cooling. These include summer fan-and-pad and fog
+cooling systems and the winter convection tube and horizontal airflow systems. For mechanical
+ventilation, low pressure, medium volume propeller blade fans, both directly connected and belt
+driven are used for greenhouse ventilation. They are placed at the end of the green house
+opposite to the air intake, which is normally covered by gravity or motorized louvers. The fans
+vents, or louvers, should be motorized, with their action controlled by fan operation. Motorized
+louvers prevent the wind from opening the louvers, especially when heat is being supplied to the
+green house. Wall vents should be placed continuously across the end of the greenhouse to avoid
+hot areas in the crop zone. Evaporative cooling in combination with the fans is called as fan-and-
+pad cooling system. The fans and pads are usually arranged on opposite walls of the greenhouse
+(Fig.8). The common types of cooling pads are made of excelsior (wood fiber), aluminum fiber,
+glass fiber, plastic fiber and cross-fluted cellulose material.
+Evaporative cooling systems are especially efficient in low humidity environments. There
+is growing interest in building greenhouses combining both passive (natural) and active (forced)
+systems of ventilation. Passive ventilation is utilized as the first stage of cooling, and the fan-pad
+evaporative cooling takes over when the passive system is not providing the needed cooling. At
+this stage, the vents for natural ventilation are closed. When both options for cooling are
+designed in greenhouse construction, initial costs of installation will be more. But the operational
+costs are minimized in the long run, since natural ventilation will, most often meet the needed
+ventilation requirements.
+92
+Fogging systems is an alternative to evaporative pad cooling. They depend on absolutely
+clean water, Free of any soluble salts, in order to prevent plugging of the mist nozzles. Such
+cooling systems are not as common as evaporative cooling pads, but when they become more
+cost competitive, they will be adopted widely. Fogging systems are the second stage of cooling
+when passive systems are inadequate.
+93
+Lecture No. 31
+Computers use in Green Houses and Equipment required for controlling green house
+environment – summer cooling and winter cooling systems
+31.1 Computers
+Now-a-days, computer control systems are common in greenhouse installation
+throughout Europe, Japan and the United States. Computer systems can provide fully integrated
+control of temperature, humidity, irrigation and fertilization, CO2, light and shade levels for
+virtually any size growing facility. Precise control over a growing operation enables growers to
+realize saving of 15 to 50% in energy, water, chemical and pesticide applications. Computer
+controls normally help to achieve greater plant consistency, on-schedule production, higher
+overall plant quality and environmental purity.
+A computer can control hundreds of devices within a green house (vents, heaters, fans,
+hot water mixing valves, irrigation valves, curtains and lights) by utilizing dozens of input
+parameters, such as outside and inside temperatures, humidity, outside wind direction and
+velocity, CO levels and even the time of the day or night. Computer systems receive signals
+2
+from all sensors, evaluate all conditions and send appropriate commands every minute to each
+piece of equipment in the greenhouse range thus maintaining ideal conditions in each of the
+various independent greenhouse zones defined by the grower. Computers collect and record data
+provided by greenhouse production managers. Such a data acquisition system will enable the
+grower to gain a comprehensive knowledge of all factors affecting the quality and timeliness of
+the product. A computer produces graphs of past and current environmental conditions both
+inside and outside the greenhouse complex. Using a data printout option, growers can produce
+reports and summaries of environmental conditions such as temperature, humidity and the CO2
+status for the given day, or over a longer period of time for current or later use.
+As more environmental factor in the greenhouse is controlled, there comes a stage when
+individual controls cannot be coordinated to prevent system overlap. An example is the
+greenhouse thermostat calling for heating while the exhaust fans are still running. With proper
+software program, which uses the environmental parameters as input from different sensors, can
+effectively coordinate all the equipment without overlap and precisely control all parameters
+affecting plant development as desired. Despite the attraction of the computer systems, it should
+be remembered that the success of any production system is totally dependent on the grower‟s
+knowledge of the system and the crop management. Computers can only assist by adding
+precision to the overall greenhouse production practice, and they are only as effective as the
+software it runs and the effectively of the operator. The advantages and disadvantages of
+computerized control system are as follows:
+Advantages
+94
+1. The computer always knows what all systems are doing and, if programmed properly,
+can coordinate these systems without overlap to provide the optimum environment.
+2. The computer can record the environmental data, which can be displayed to show current
+conditions or stored and processed ones to provide a history of the cropping period, and if
+desired it may also be displayed in table or graph form.
+3. A high-speed computer with networking facility can control several remotely located
+greenhouses, by placing the computer in a central area and the results can be monitored
+frequently by the management.
+4. With proper programming and sensing systems, the computer can anticipate weather
+changes and make adjustments in heating and ventilation systems, thus saving the energy.
+5. The computer can be programmed to sound an alarm if conditions become unacceptable
+to and to detect sensor and equipment failure.
+Disadvantages
+1. High initial cost investment.
+2. Requires qualified operators.
+3. High maintenance, care and precautions are required.
+4. Not economical for small scale and seasonal production.
+31.2 Microprocessors
+Dedicated microprocessors can be considered as simple computers. A typical
+microprocessor will have a keypad and a two or three line liquid crystal display of, sometimes,
+80-character length for programming. They generally do not have a floppy disk drive. They have
+more output connections and can control up to 20 devices. With this number of devices, it is
+cheaper to use a microprocessor. They can receive signals of several types, such as, temperature,
+light intensity, rain and wind speed. They permit integration of the diverse range of devices,
+which is not possible with thermostats. The accuracy of the microprocessor for temperature
+control is quite good. Unlike a thermostat, which is limited to a bimetallic strip or metallic tube
+for temperature sensing and its mechanical displacement for activation, the microprocessor often
+uses a thermistor. The bimetallic strip sensor has less reproducibility and a greater range between
+the ON and OFF steps. Microprocessors can be made to operate various devices, for instance, a
+microprocessor can operate the ventilators based on the information from the sensor for the wind
+direction and speed. Similarly a rain sensor can also activate the ventilators to prevent the
+moisture sensitive crop from getting wet. A microprocessor can be set to activate the CO
+2
+generator when the light intensity exceeds a given set point, a minimum level for photosynthesis.
+Precise control of various parameters of green house environment is necessary to
+optimize energy inputs and thereby maximize the economic returns. Basically, the objective of
+environmental control is to maximize the plant growth. The control of green house environment
+means the control of temperature, light, air composition and nature of the root medium. A green
+house is essentially meant to permit at least partial control of microclimate within it. Obviously
+green houses with partial environmental control are more common and economical. From the
+95
+origin of greenhouse to the present there has been a steady evolution of controls. Five stages in
+this evolution include manual controls, thermostats, step-controllers, dedicated micro processors
+and computers. This chain of evolution has brought about a reduction in control labour and an
+improvement in the conformity of green house environments to their set points. The benefits
+achieved from green house environmental uniformity are better timing and good quality of crops,
+disease control and conservation of energy.
+31.3 Active summer cooling systems
+Active summer cooling is achieved by evaporative cooling process .The evaporative
+cooling systems developed are to reduce the problem of excess heat in green house. In this
+process cooling takes place when the heat required for moisture evaporation is derived from the
+surrounding environment causing a depression in its temperature. The two active summer
+cooling systems in use presently are fan-and pad and fog systems. In the evaporative cooling
+process the cooling is possible only up to the wet bulb temperature of the incoming air.
+31.3.1 Fan-and Pad cooling system
+The fan and pad evaporative cooling system has been available since 1954 and is still the
+most common summer cooling system in green houses (Fig.5). Along one wall of the green
+house, water is passed through a pad that is usually placed vertically in the wall. Traditionally,
+the pad was composed of excelsior (wood shreds), but today it is commonly made of a cross-
+flutedcellulose material some what similar in appearance to corrugated card board. Exhaust
+fans are placed on the opposite wall. Warm outside air is drawn in through the pad. The supplied
+water in the pad, through the process of evaporation, absorbs heat from the air passing through
+the pad as well as from surroundings of the pad and frame, thus causing the cooling effect. Khus-
+khus grass mats can also be used as cooling pads.
+31.3.2 Fog cooling system
+The fog evaporative cooling system, introduced in green houses in 1980, operates on the
+same cooling principle as the fan and pad cooling system but uses quite different arrangement
+(Fig.5). A high pressure pumping apparatus generates fog containing water droplets with a mean
+size of less than 10 microns using suitable nozzles. These droplets are sufficiently small to stay
+suspended in air while they are evaporating. Fog is dispersed throughout the green house,
+cooling the air everywhere. As this system does not wet the foliage, there is less scope for
+disease and pest attack. The plants stay dry throughout the process. This system is equally useful
+for seed germination and propagation since it eliminates the need for a mist system.
+Both types of summer evaporative cooling system can reduce the greenhouse air
+temperature. The fan-and pad system can lower the temperature of incoming air by about 80% of
+the difference between the dry and wet bulb temperatures while the fog cooling system can lower
+the temperature by nearly 100% difference. This is, due to the fact that complete evaporation of
+the water is not taking place because of bigger droplet size in fad and pad, whereas in the fog
+96
+cooling system, there will be complete evaporation because of the minute size of the water
+droplets. Thus lesser the dryness of the air, greater evaporative cooling is possible.
+31.4 Active winter cooling systems
+Excess heat can be a problem during the winter. In the winter, the ambient temperature
+will be below the desired temperature inside the green house. Owing to the green house effect
+the entrapment of solar heat can rise the temperature to an injurious level if the green house is
+not ventilated. The actual process in winter cooling is tempering the excessively cold ambient air
+before it reaches the plant zone. Otherwise, hot and cold spots in the green house will lead to
+uneven crop timing and quality .This mixing of low temperature ambient air with the warm
+inside air cools the green house in the winter. Two active winter cooling systems commonly
+employed are convection tube cooling and horizontal air flow (HAF) fan cooling systems.
+97
+Fig. 31.1. Components of fan-and-pad and fog cooling systems in a greenhouse
+31.4.1 Convection tube cooling
+The general components of convection tube are the louvered air inlet, a polyethylene
+convection tube with air distribution holes, a pressurizing fan to direct air in to the tube under
+98
+pressure, and an exhaust fan to create vacuum. When the air temperature inside the green house
+exceeds the set point, the exhaust fan starts functioning thus creating vacuum inside the green
+house. The louver of the inlet in the gable is then opened through which cold air enters due to the
+vacuum. The pressurizing fan at the end of the clear polyethylene convection tube, operates to
+pick up the cool air entering the louver. A proper gap is available for the air entry, as the end of
+the convection tube is separated from the louvered inlet by 0.3 to 0.6m and the other end of the
+tube is sealed. Round holes of 5 to 8 cm in diameter are provided in pairs at opposite sides of the
+tube spaced at 0.5 to 1m along the length of the tube.
+Cold air under pressure in the convection tube shoots out of holes on either side of the
+tube in turbulent jets. In this system, the cold air mixes with the warm greenhouse air well above
+the plant height. The cool mixed air, being heavier gently flows down to the floor level, effects
+the complete cooling of the plant area. The pressurizing fan forcing the incoming cold air in to
+the convection tube must be capable of moving at least the same volume of air as that of the
+exhaust fan, thereby avoiding the development of cold spots in the house. When cooling is not
+required, the inlet louver closes and the pressurizing fan continues to circulate the air within the
+greenhouse. The process minimizes the temperature gradient at difference levels. The circulation
+of air using convection tube consumes more power than a circulation system.
+31.4.2 Horizontal air flow cooling
+HAF cooling system uses small horizontal fans for moving the air mass and is considered
+to be an alternative to convection tube for the air distribution. In this method the green house
+may be visualized as a large box containing air and the fans located strategically moves the air in
+a circular pattern. This system should move air at 0.6 to 0.9 m3/min/m2 of the green house floor
+area. Fractional horse power of fans is 31 to 62 W (1/30 to 1/15hp) with a blade diameter of
+41cm are sufficient for operation. The fans should be arranged in such a way that air flows are
+directed along the length of the greenhouse and parallel to the ground. The fans are placed at 0.6
+to 0.9m above plant height and at intervals of 15m.They are arranged such that the air flow is
+directed by one row of the fans along the length of the greenhouse down one side to the opposite
+end and then back along the other side by another row of fans (Fig. 31.2). Greenhouses of larger
+widths may require more number of rows of fans along its length.
+Temperatures at plant height are more uniform with HAF system than with convection
+tube system. The HAF system makes use of the same exhaust fans, inlet louvers and controls as
+the convection tube system. The only difference is the use of HAF fans in the place of
+convection tubes for the air distribution. Cold air entering through the louvers located at the
+higher level in the gables of the green house is drawn by the air circulation created by the net
+work of HAF fans and to complete the cycle, proper quantity of air is let out through the exhaust
+fans. The combined action of louvered inlet, HAF fans and the exhaust fans distribute the cold
+air throughout the greenhouse.
+Similarly to the convection tubes, the HAF fans can be used to distribute heat in the
+green house When neither cooling nor heating is required, the HAF fans or convection tube can
+99
+be used to bring warm air down from the upper level of the gable and to provide uniform
+temperature in the plant zone. It is possible to integrate summer and winter cooling systems with
+heating arrangements inside a green house for the complete temperature control requirements for
+certain days of the season.
+Fig. 31.2 HAF system in different sizes of greenhouses
+The northern parts of our country experience cold winters, where heating system need to
+be employed in the greenhouses along with cooling systems for summer. Whereas the southern
+region greenhouses need only cooling systems since the winter cold effect is not that severe.
+Greenhouse heating is required in cold weather conditions, if the entrapped heat is not sufficient
+during the nights. The heat is always lost from the greenhouse when the surroundings are
+relatively cooler. Heat must be supplied to a greenhouse at the same rate with which it is lost in
+order to maintain a desired temperature: Heat losses can occur in three different modes of heat
+transfer, namely conduction, convection, and radiation. Maintenance of desired higher
+temperature, compared with the surroundings needs heating systems and heat distribution
+systems. For the purpose of greenhouse heating, apart from conventional systems, solar energy
+can also be used and the heat can be stored using water and rock storage. Different heat
+conservation practices are available to effectively utilize the heat energy.
+31.5 Modes of heat loss
+The heating systems, in a continuous process, should supply the heat just enough to
+compensate which is lost. Most heat is lost by conduction through the covering materials of the
+greenhouse. Different materials, such as aluminum sash bars, glass polyethylene, and cement
+partition walls, vary in conduction according to the rate at which each conducts heat from the
+warm interior to the colder exterior. A good conductor of heat looses more heat in a shorter time
+100
+than a bad conductor and vice versa. There are only limited ways of insulating the covering
+material without blocking the light transmission. A dead air space between two coverings
+appears to be the best system. A saving of 40% of the heat requirement can be achieved when a
+second covering in applied. For example greenhouse covered with one layer of polyethylene
+loses, 6.8 W of heat through each square meter of covering every hour when the outside
+temperature is 1oC lower than the inside. When second layer of polyethylene is added, only 3.97
+W/m2 is lost (40% reduction).
+A second mode of heat loss is that of convection (air infiltration). Spaces between panes
+of glass or FRP and ventilators and doors permit the passage of warm air outward and cold air
+inward. A general assumption holds that the volume of air held in a greenhouse can be lost as
+often as once very 60 minutes in a double layer film plastic or polycarbonate panel greenhouse,
+every 40 minutes in a FROP or a new glass greenhouse every 30 minutes in an old well
+maintained glass greenhouse, and every 15 minutes in an old poorly maintained glass
+greenhouse. About 10% of total heat loss from a structurally tight glass greenhouse occurs
+through infiltration loss.
+A third mode of heat loss from a greenhouse is that of radiation. Warm objects emit radiant
+energy, which passes through air to colder objects without warming the air significantly. The
+colder objects become warmer. Glass, vinyl plastic, FRP, and water are relatively opaque to
+radiant energy, whereas polyethylene is not. Polyethylene, greenhouses can lose considerable
+amounts of heat through radiation to colder objects outside, unless a film of moisture forms on
+the polyethylene to provide a barrier.
+31.5.1. Heating systems The heating system must provide heat to the greenhouse at the same
+rate at which it is lost by co0nductin, infiltration, and radiation. There are three popular types of
+heating systems for greenhouses. The most common and least expensive is the unit heater
+system. In this system, warm air is blown from unit heaters that have self contained fireboxes.
+These heaters consist of three functional parts. Fuel is combusted in a firebox to provide heat.
+The heat is initially contained in the exhaust, which rises through the inside of a set of thin
+walled metal tubes on it way to the exhaust stack. The warm exhaust transfers heat to the cooler
+metal walls of the tubes. Much of the heat is removed from the exhaust by the time it reaches the
+stack through which it leaves the greenhouse. A fan in the back of the unit heater draws in
+greenhouse air, passing it over the exterior side of the tubes and then out from the heater to the
+greenhouse environment again. The cool air passing over hot metal tubes is warmed and the air
+is circulated. A second type of system is central heating system, which consists of a central boiler
+than produces steam or hot water, plus a radiating mechanism in the greenhouse to dissipate the
+heat. A central heating system can be more efficient than unit heaters, especially in large
+greenhouse ranges. In this system, two or more large boilers are in a single location. Heat is
+transported in the form of hot water or steam through pipe mains to be growing area, and several
+arrangements of heating pipes in greenhouse is possible (Fig. 31.3). The heat is exchanged from
+the hot water in a pipe coil located across the greenhouse or an in-bed pipe coil located in the
+101
+plant zone. Some greenhouses have a third pipe coil embedded in a concrete floor. A set of unit
+heaters can be used in the place of the overhead pipe coil, obtaining heat from hot water or steam
+from the central boiler. The third type of system is radiation heating system. In this system, gas is
+burned within pipes suspended overhead in the greenhouse. The warm pipes supply heat to the
+plants. Low intensity infrared radiant heaters can save 30% or more, of fuel compared to
+conventional heaters. Several of these heaters are installed in tandem in the greenhouse. Lower
+air temperatures are possible since only the plants and root substrate are heated directly by this
+mode of heating. The fourth possible type of system is the solar heating system, but it is still too
+expensive to be a viable option. Solar heating systems are found in hobby greenhouses and small
+commercial firms. Both water and rock energy storage systems are used in combination with
+solar energy. The high cost of solar heating systems discourages any significant use by the
+greenhouse industries.
+31.5.2 Heat distribution systems
+Heat is distributed from the unit heaters by one of two common methods. In the convection tube
+method, warm air from unit heaters are distributed through a transparent polyethylene tube
+running through the length of the greenhouse. Heat escapes from the tube through holes on either
+side of the tube in small jet streams, which rapidly mix with the surrounding air and set up a
+circulation pattern to minimize temperature gradients. The second method of heat distribution is
+horizontal airflow. In this system, the greenhouse may be visualized as a large box containing
+air, and it uses small horizontal fans for moving the air mass. The fans are located above plant
+height and are spaced about 15 m (50 ft) apart in two rows. Their arrangement is tha, the heat
+originating at one corner of the greenhouse is directed from one side of the greenhouse to the
+opposite end and then back along the other side of the greenhouse. Proper arrangement of fans is
+necessary for effective distribution in horizontal airflow system for various greenhouse sizes.
+Both of these distribution systems can also be used for general circulation of air and for
+introducing cold outside air during winter cooling.
+31.5.3. Solar heating system Solar heating is often used as a partial or total alternative to fossil
+fuel heating systems. Few solar heating systems exist in greenhouses today. The general
+components of solar heating system (Fig. 31.3) are collector, heat storage facility, exchange to
+transfer the solar derived heat to the greenhouse air, backup heater to take over when solar
+heating does not suffice and set of controls. Various solar heat collectors are in existence, but the
+flat plate collector has received greatest attention. This consists of a flat black plate (rigid plastic,
+film plastic, sheet metal, or board) for absorbing solar energy. The plate is covered on the sun
+side by two or more transparent glass or plastic layers and on the backside by insulation. The
+enclosing layers serve to hold the collected heat within the collector. Water or air is passed
+through the copper tubes placed over the black plate and absorb the entrapped heat and carry it to
+the storage facility. A greenhouse itself can be considered as a solar collector. Some of its
+collected heat is stored in the soil, plants, greenhouse frame, floor, and so on. The remaining heat
+is excessive for plant growth and is therefore vented to the outside. The excess vented heat could
+102
+just as well be directed to a rock bed for storage and subsequent use during a period of heating.
+Collection of heat by flat-plate collection is most efficient when the collector is positioned
+perpendicular to the sun at solar noon. Based on the locations, the heat derived can provide 20 to
+50% of the heat requirement.
+31.6. Water and rock storage
+Water and rocks are the two most common materials for the storage of heat in the greenhouse.
+One kg of water can hold 4.23 kJ of heat for each 1oC rise in temperature. Rocks can store about
+0.83 kJ for each 1oC. To store equivalent amounts of heat, a rock bed would have to be three
+times as large as a water tank. A water storage system is well adapted to a water collector and a
+greenhouse heating system which consists of a pipe coil or a unit heater which contains a water
+coil. Heated water from the collector is pumped to the storage tank during the day. As and when
+heat is required, warm water is pumped form the storage tank to a hot water or steam boiler or
+into the hot water coil within a unit heater. Although the solar heated water will be cooler than
+the thermostat setting on the boiler, heat can be saved, since the temperature of this water need
+be raised as high as to reach the output temperature of water or steam from the boiler. A
+temperature rise of 17oC above the ambient condition is expected during the daytime in solar
+storage units. Each kilogram of water can supply 71.1 kJ of heat, and each kilogram of rock can
+supply14.2 kJ of heat, as it cools by 17oC.
+A rock storage bed can be used with an air-collector and forced air heating system. In this
+case, heated air form the collector, along with air excessively heated inside the greenhouse
+during the day, is forced through a bed of rocks (Fig. 31.3). The rocks absorb much of the heat.
+The rock bed may be located beneath the floor of the greenhouse or outside the greenhouse, and
+it should be well insulated against heat loss. During the night, when heat is required in the
+greenhouse, cool air from inside the greenhouse is forced through the rocks, where it is warmed
+and the passed back into the greenhouse. A clear polyethylene tube with holes along either side
+serves well to distribute the warm air uniformly along the length of the greenhouse.
+Conventional convection tubes can be used for distributing solar heated air. The water or rock
+storage unit occupies a large amount of space and a considerable amount of insulation is
+provided if the unit is placed outside. Placing it inside the greenhouse offers an advantage in that
+escaping heat is beneficial during heating periods, but it is detrimental when heating is not
+required. Rock beds can pose a problem in that they must remain relatively dry. Water
+evaporating from these beds will remove considerable heat.
+103
+Fig. 31.3 Solar heating system for greenhouse and cross section of a typical rock storage unit
+104
+Lecture No. 32
+Materials utilized for Green house construction
+32.1 Greenhouse type based on construction
+The type of construction is predominantly influenced by the structural material, though
+the covering material also influences the type. Span of the house inurn dictates the selection of
+structural members and their construction. Higher the span, stronger should be the material and
+more structural members are used to make sturdy truss type frames. For smaller spans, simpler
+designs like hoops can be followed. Therefore based on construction, greenhouses can be
+broadly classified as wooden framed, pipe framed and truss framed structures.
+32.1.1 Wooden framed structures In general, for the greenhouses with span less than 6 m, only
+wooden framed structures are used. Side posts and columns are constructed of wood without the
+use of a truss. Pine wood is commonly used as it is inexpensive and possesses the required
+strength. Timber locally available, with good strength, durability and machinability also can be
+used for the construction.
+32.1.2 Pipe framed structures
+Pipes are used for construction of greenhouses, when the clear span is around 12m (Fig.
+32.1). In general, the side posts, columns, cross ties and purlins are constructed using pipes. In
+this type, the trusses are not used.
+32.1.3 Truss framed structures
+If the greenhouse span is greater than or equal to 15m, truss frames are used. Flat steel,
+tubular steel or angular iron is welded together to form a truss encompassing rafters, chords and
+struts (Fig. 32.1). Struts are support members under compression and chords are support
+members under tension. Angle iron purlins running throughout the length of greenhouse are
+bolted to each truss. Columns are used only in very wide truss frame houses of 21.3 m or more.
+Most of the glass houses are of truss frame type, as these frames are best suited for pre-
+fabrication.
+105
+Fig 32.1. Pipe framed and Truss framed green house structures
+32.2 Greenhouse type based on covering materials
+Covering materials are the major and important component of the greenhouse structure.
+Covering materials have direct influence on the greenhouse effect inside the structure and they
+alter the air temperature inside the house. The types of frames and method of fixing also varies
+with the covering material. Based on the type of covering materials, the greenhouses are
+classified as glass, plastic film and rigid panel greenhouses.
+32.2.1 Glass greenhouses
+Only glass greenhouses with glass as the covering material existed prior to 1950. Glass as
+covering material has the advantage of greater interior light intensity. These greenhouses have
+higher air infiltration rate which leads to lower interior humidity and better disease prevention.
+Lean-to type, even span, ridge and furrow type of designs are used for construction of glass
+greenhouse.
+32.2.2 Plastic film greenhouses
+Flexible plastic films including polyethylene, polyester and polyvinyl chloride are used as
+covering material in this type of greenhouses. Plastics as covering material for greenhouses have
+become popular, as they are cheap and the cost of heating is less when compared to glass
+106
+greenhouses. The main disadvantage with plastic films is its short life. For example, the best
+quality ultraviolet (UV) stabilized film can last for four years only. Quonset design as well as
+gutter-connected design is suitable for using this covering material.
+32.2.3 Rigid panel greenhouses
+Polyvinyl chloride rigid panels, fibre glass-reinforced plastic, acrylic and polycarbonate
+rigid panels are employed as the covering material in the quonset type frames or ridge and
+furrow type frame. This material is more resistant to breakage and the light intensity is uniform
+throughout the greenhouse when compared to glass or plastic. High grade panels have long life
+even up to 20 years. The main disadvantage is that these panels tend to collect dust as well as to
+harbor algae, which results in darkening of the panels and subsequent reduction in the light
+transmission. There is significant danger of fire hazard.
+32.3 Shading nets
+There are a great number of types and varieties of plants that grow naturally in the most
+diverse climate conditions that have been transferred by modern agriculture from their natural
+habitats to controlled crop conditions. Therefore, conditions similar to the natural ones must be
+created for each type and variety of plant. Each type of cultivated plant must be given the
+specific type of shade required for the diverse phases of its development. The shading nets fulfill
+the task of giving appropriate micro-climate conditions to the plants.
+Shade nettings are designed to protect the crops and plants from UV radiation, but they
+also provide protection from climate conditions, such as temperature variation, intensive rain and
+winds. Better growth conditions can be achieved for the crop due to the controlled micro-climate
+conditions “created” in the covered area, with shade netting, which results in higher crop yields.
+All nettings are UV stabilized to fulfill expected lifetime at the area of exposure. They are
+characterized of high tear resistance, low weight for easy and quick installation with a 30-90%
+shade value range. A wide range of shading nets are available in the market which are defined on
+the basis of the percentage of shade they deliver to the plant growing under them.
+32.4. Design criteria of construction For locating the greenhouse, a piece of land larger than the
+grower‟s immediate need should be acquired. The ultimate size of the greenhouse range should
+be estimated. Area should then be added to this estimated figure to accommodate service
+buildings, storage, access drives and a parking lot. The floor area of service buildings required
+for small firms is about 13% of the greenhouse floor area, and it decreases with the increase in
+size of the firm. On an average, service buildings occupy 10% of the growing area. The service
+building is centrally located in a nearly square design of the firm, which minimizes distance of
+movement of plants and materials. Doors between the service buildings and the greenhouse
+should be wide enough to facilitate full use of the corridor width. Doors at least 3.1 m wide and
+2.7 m high are common. It is good to have the greenhouse gutter at least 3.7 m above the floor to
+accommodate automation and thermal blanket and still leave the room for future innovations.
+107
+32.5. Construction of glass greenhouses Glass greenhouses have an advantage of greater
+interior light intensity over plastic panel and film plastic covered greenhouses. Glass
+greenhouses tend to have a higher air infiltration rate, which leads to lower interior humidity,
+which is advantageous for disease prevention. On the other hand, glass greenhouses have a
+higher initial cost than double-layer film plastic greenhouses. While comparing the price of a
+glass greenhouse to a film plastic greenhouse, one needs to take into account the initial purchase
+price of each as well as the cost of re-covering the film plastic greenhouse every three to four
+years.
+Several types of glass greenhouses are designed to meet specific needs. A lean-to-type
+design is used when a greenhouse is placed against the side of an existing building. This design
+makes the best use of sunlight and minimizes the requirements for roof supports. It is found
+mostly in the retail industry. An even-span greenhouse is one in which the two roof slopes are of
+equal pitch and width. By comparison, a un-even-span greenhouse has roofs of unequal width,
+which makes the structure adaptable to the side of a hill. This style is seldom used today because
+such greenhouses are not adaptable to automation. Finally, a ridge-and-furrow design uses, two
+or more A- frame greenhouses connected to one another along the length of the eave. The
+sidewall is eliminated between greenhouses, which results in a structure with a single large
+interior. Basically, three frame types are used in glass greenhouses, which are wood frames ( 6.1
+m in width), pipe frames ( 12.2 m in width) and truss frames (15.2 m in width). Latest glass
+greenhouses are primarily of the truss frame type. Truss frame greenhouses are best suited for
+prefabrication. All-metal greenhouses proved cheaper to maintain since they required no
+painting. At present, virtually all glass greenhouse construction is of the metal type. The
+structural members of the glass greenhouse cast shadows that reduce plant growth during the
+dark months of the year. Aluminum sash bars are stronger than wooden ones; hence wider panels
+of glass can be used with aluminum bars. The reduction in materials and the reflectance of
+aluminum have given these metal greenhouses a great advantage over wooden greenhouses in
+terms of higher interior light intensity.
+Glass greenhouse construction of today can be categorized as high profile or low profile.
+The low profile greenhouse is most popular in the Netherlands and is known as the Venlo
+greenhouse. The low profile greenhouses uses single panels of glass extend from eave to ridge.
+The low profile greenhouse slightly reduces exposed surface area, thereby reducing the heating
+cost, but more expensive to cool. The high profile greenhouses require more than single panel to
+cover the eave to ridge. A problem with this design is the unsealed junction between pieces of
+glass in the inner layer. Moisture and dust may enter between the layers and reduce light
+transmission.
+32.6 Construction of pipe framed greenhouses The choice of construction of pipe
+framed greenhouses often favours low initial investment and relatively long life. Galvanized mild
+steel pipe as a structural member in association with wide width UV- stabilized low density
+polyethylene (LDPE) film is a common option of greenhouse designers.
+108
+Material requirement
+The structural members of greenhouse are
+(a) hoops
+(b) foundation
+(c) lateral supports
+(d) polygrip assembly
+(e) end frame
+109

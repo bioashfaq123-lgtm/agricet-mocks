@@ -1,0 +1,1780 @@
+ACHARYA N.G.RANGA AGRICULTURAL UNIVERSITY
+LECTURE NOTES
+Course No : STCA-301
+Introduction to Computer Applications
+Prepared by
+P. Sumathi
+M.Sc, M.Phil
+Assistant professor
+Department of Statistics & Mathematics
+S. V. Agricultural College
+Tirupati
+LECTURE OUTLINE
+Course No. STCA-301 Credits: 2 (1+1)
+Course Title: Introduction to Computer Applications
+THEORY
+S. No. Topic/Lesson
+1 Introduction to Computers, Definition, Advantages & Limitations
+2 Anatomy of Computers – Components of Computers and its functions -
+Overview of Input devices of Computer
+3 Overview of Output devices of Computer, Memory, Processors, Hardware,
+Software & Speed
+4 Types of Software – Operating System, Translators & Programming languages
+5 Types of Software – Application Programmes, Utility Programmes & General
+Purpose Programmes, Classification of Computers
+6 Operating System – Functions of OS – Types of OS-DOS and WINDOWS,
+Booting process
+7 Some fundamental DOS commands – FORMAT, DIR, COPY, PATH,
+LABEL, VOL, MD, CD, DEL and TREE
+8 WINDOWS:GUI, Desktop and its elements, Anatomy of a window – Title
+Bar, Minimize, Maximize, Restore and Close Buttons, Scroll Bars, Menus and
+Tool - Starting and shutting down of windows
+9 WINDOWS Explorer , working with organization of files and folders, Copy,
+Move and Print files – setting time and date
+10 MSWORD: Word processing and units of document, features of word-
+processing packages
+11 MSWORD: Creating, Editing, Formatting and Saving a document in
+MSWORD – Features of File, Edit and Format menus
+12 MSEXCEL: Electronic Spreadsheets – concept, packages, creating, editing and
+saving a spreadsheet with MSEXCEL
+13 MSEXCEL: Use of in-built Statistical and other functions and writing
+expressions, Creating Data Analysis option in Tools Menu, Use of Data
+Analysis Tools – Correlation and Regression, t-test for two samples, Creating
+Graphs
+14 MSACCESS: Concept of Database, Units of database
+15 MSACCESS: creating database
+16 Internet - World Wide Web (WWW), Concepts
+1
+PRACTICALS
+S .No. Topic
+1 Study of Computer Components – Booting of Computer and its Shut
+Down
+2 Practice of some fundamental DOS commands – TIME, DATE, DIR,
+MD, CD, RD, DEL, TREE, COPY, VOL and LABEL
+3 Practicing WINDOWS Operating System – Use of Mouse, Title Bar,
+Minimum, Maximum and Close Buttons, Scroll Bars, Menus and Tool
+Bars
+4 WINDOWS Explorer – Creating Folders, COPY and PASTE functions
+5 MSWORD – Creating a Document, Editing and Saving
+6 MSWORD: Use of options from the Tool Bars – Format, Insert and Tools
+(Spell Check), Alignment of paragraphs and Text
+7 MSWORD: Creating a Table, Merging of Cells, Columns and Row
+Width
+8 MSEXCEL: Creating a Spreadsheet, Alignment of Rows, Columns and
+Cells using Format Tool Bar
+9 MSEXCEL: Entering formula expression through the formula tool bar
+and use of inbuilt functions – SUM, AVERAGE and STDEV
+10 MSEXCEL: Data Analysis using inbuilt Tool Packs – Correlation and
+Regression
+11 MSEXCEL: Data Analysis using inbuilt Tool Packs – tests of
+significance
+12 MSEXCEL: Creating and Saving Graphs
+13 MSACCESS: Creating Database, structuring with different types of fields
+MSACCESS: use of Query facility for accessing the information
+14 Transforming the data of WORD and EXCEL to other forms
+15 MSEXCEL: Data Analysis using inbuilt Tool Packs – tests of
+significance
+16 Internet Explorer – Using Search Engines
+2
+INTRODUCTION
+Definition : A Computer is an electronic device that can perform activities that involve Mathematical,
+Logical and graphical manipulations. Generally, the term is used to describe a collection of devices that
+function together as a system.
+It performs the following three operations in sequence.
+1. It receives data & instructions from the input device.
+2. Processes the data as per instructions.
+3. Provides the result (output) in a desired form.
+Data : It is the collection of raw facts, figures & symbols.
+Ex : Names of students and their marks in different subjects listed in random order.
+Information : It is the data that is processed & presented in an organized manner.
+Ex : When the names of students are arranged in alphabetical order, total and average marks are
+calculated & presented in a tabular form, it is information.
+Program : Set of instructions that enables a computer to perform a given task.
+Advantages of computers :
+1. High speed : Computers have the ability to perform routine tasks at a greater speed than human
+beings. They can perform millions of calculations in seconds.
+2. Accuracy : Computers are used to perform tasks in a way that ensures accuracy.
+3. Storage : Computers can store large amount of information. Any item of data or any instruction
+stored in the memory can be retrieved by the computer at lightning speeds.
+4. Automation : Computers can be instructed to perform complex tasks automatically ( which
+increases the productivity).
+5. Diligence : Computers can perform the same task repeatedly & with the same accuracy without
+getting tired.
+6. Versatility : Computers are flexible to perform both simple and complex tasks.
+7. Cost effectiveness : Computers reduce the amount of paper work and human effort, thereby
+reducing costs.
+Limitations of computers :
+1. Computers need clear & complete instructions to perform a task accurately. If the instructions
+are not clear & complete, the computer will not produce the required result.
+2. Computers cannot think.
+3. Computers cannot learn by experience.
+Generations of computers :
+Generation Component used
+First Generation Vacuum tubes
+(1946-1954 )
+Second Generation Transistors
+(1955-1965)
+Third Generation Integrated Circuits (IC)
+(1968-1975 )
+Fourth Generation Very Large Scale Integrated Circuits
+( 1976-1980) (VLSI)
+Fifth Generation Ultra Scale Integrated Circuits (ULSI)
+(1980 – till today ) Micro Processor (SILICON CHIP)
+******
+3
+ANATOMY OF COMPUTERS
+The computer system consists of three units:
+1. Input device 2. Central Processing Unit (CPU) 3. Output device
+Block diagram of a Computer :
+CENTRAL PROCESSING UNIT
+Memory unit
+INPUT DEVICE ALU
+OUT PUT DEVICE
+Control Unit
+The various functions of these units can be summarized as:
+Unit Function
+1.Input device : Reads information from input media and enters to the
+computer in a coded form
+2.CPU
+(a) Memory unit : Stores program and data
+(b) Arithmetic Logic unit : Performs arithmetic and logical functions
+(c) Control Unit : Interprets program instructions and controls the input and
+output devices
+3. Output device : decodes information and presents it to the user
+Central Processing Unit: It is the part of the computer that carries out the instructions of a
+computer program. It is the unit that reads and executes program instructions. Hence it is known as the
+―brain‖ of the computer. The CPU consists of storage or memory unit, Arithmetic Logic Unit (ALU)
+and control unit.
+(a). Memory Unit: It is also known as the primary storage or main memory. It stores data, program
+instructions, internal results and final output temporarily before it is sent to an appropriate output
+device. It consists of thousands of cells called ―storage locations‖. These cells activate with ―off-on‖
+or binary digits(0,1) mechanism. Thus a character either a letter or numerical digit is stored as a string
+of (0,1) Binary digits ( BITS). These bits are used to store instructions and data by their combinations.
+(b) Arithmetic and Logical Unit(ALU): It is the unit where all Arithmetic operations (addition,
+subtraction etc.) and logical functions such as true or false, male or female are performed. Once data are
+fed into the main memory from input devices, they are held and transferred as needed to ALU where
+processing takes place. No process occurs in primary storage. Intermediate generated results in ALU
+4
+are temporarily placed in memory until needed at later time. Data may move from primary memory to
+ALU and back again to storage many times before the process is finalized.
+(c).Control Unit : It acts as a central nervous system and ensures that the information is stored
+correctly and the program instructions are followed in proper sequence as well as the data are selected
+from the memory as necessary. It also coordinates all the input and output devices of a system .
+5
+Input Devices
+Devices used to provide data and instructions to the computer are called Input devices.
+Some important input devices are
+Key board, Mouse, Scanner, MICR, Web camera, Microphone etc.
+1. Keyboard: The Key board is used for typing text into the computer. It is also known as standard
+Input device. A computer keyboard is similar to that of a type writer with additional keys. The
+most commonly available computer keyboard has 104 keys.
+There are different types of keys on the keyboard. The keys are categorized as :
+ Alphanumeric keys , including letters & numbers.
+ Punctuation keys, such as colon (:), semicolon (;) Question mark (?), Single & double
+quotes (‗,‖)
+ Special keys such as arrow keys, control keys, function keys (F1 to F12), HOME, END etc.
+2.. Mouse: It is a device that controls the movement of the cursor on a monitor. A mouse will have 2
+buttons on its top. The left button is the most frequently used button. There will be a wheel between the
+left and right buttons. This wheel enables us to smoothly scroll through screens of information. As we
+move the mouse, the pointer on the monitor moves in the same direction. Optical mouse is another
+advanced pointing device that uses a light emitting component instead of the mouse ball. Mouse cannot
+be used for entering the data. It is only useful to select the options on the screen.
+3. Scanner: : It is an input device that can read text or illustrations printed on paper and translate into
+digital form. The main advantage of these scanners is that the data need not be entered separately
+resulting in saving lot of time.
+Scanners are of two types: i) optical scanners ii) MICR
+i) Optical scanners:
+a. Optical character Recognition(OCR): In this, characters are read with the help of a light. This is
+used in office atomization, documentation in library etc.
+b. Optical mark recognition(OMR): It is a technology where an OMR device senses the presence or
+absence of a mark such as a pencil mark. OMR is used in tests such as aptitude tests.
+c. Optical barcode recognition(OBCR): Barcode readers are photoelectric scanners that read the bar
+codes or vertical zebra striped marks printed on product containers. This is used in super markets, book
+shops etc.
+ii. MICR: This is widely used in banks to process the cheques. This allows the computer to recognize
+characters printed using magnetic ink.
+6
+4. Magnetic Ink Character Recognition(MICR): : It is a character recognition technology used
+primarily by the banking industry to facilitate the processing of the cheques. MICR characters ( cheque
+No., Acc.No.etc) are printed in special ink usually containing iron oxide. When a document that
+contains the ink needs to be read, it passes through a machine which magnetizes the ink and there will
+be a reader sorter unit which translates the magnetic information into characters. MICR provides a
+secure, high speed of scanning and processing information. It scans about 2600 cheques/min.
+Output devices
+Any device that is capable of representing information on a computer is called an Output device.
+Output devices receive information from the CPU and present it to the user in the desired form.
+Some important Output devices are : Monitor, Printer
+1 .Terminal/Monitor: It is similar to TV screen- either a monochrome (black & white) or colour – and
+it displays the output. It is also referred as Visual Display Unit(VDU). Several types of monitors are in
+use. Some of them are Colour Graphic Adapter(CGA), Enhanced Graphics Adaptor(EGA) , Video
+Graphics Adapter (VGA) and Super Video Graphics Adapter (SVGA).
+The screen sizes differ from system to system. The standard size is 24 lines by 80 characters. Most
+systems have provision for scrolling which helps in moving the text vertically or horizontally on the
+screen.
+2 . Printer: A printer is used to transfer data from a computer onto paper. The paper copy obtained
+from a printer is often referred as ―printout‖. The different printers and their speeds are as follows:
+S. No. Type Mode of Printing Speed
+1 Dot – Matrix Prints the character in dotted pattern 200/300 to 700
+printer through printer ribbon using either 24 CPS
+pin or 9 pin
+2 Ink Jet printer Work by spraying ionized ink Slow, 90 CPS
+3 Laser printer Also called page printer. Uses laser 6 to 12 PPM
+beam to produce an image.
+4 Line printer Prints lines at a time instead of single 300 to 600 LPM
+characters.
+5 Plotter Produces drawings or graphs through
+pens which are filled with different
+colours.
+( CPS: Characters Per Second; PPM: Pages Per Minutes; LPM : Lines Per Minute)
+Laser printer
+******
+7
+MEMORY OF THE COMPUTER
+Memory or storage capacity is one of the important components of a computer. Any storage
+unit of a computer system is classified on the basis of the following criteria:
+1. Access time: This is the time required to locate and retrieve stored data from the storage unit in
+response to program instructions.
+2. Storage capacity: It is the amount of data that can be stored in the storage unit.
+3. Cost per bit of storage.
+Units of memory: The computer stores a character in the storage cells with binary (0,1) mechanism.
+Thus the basic unit of memory is a bit (binary digit – 0,1). To store a character, a computer requires 8
+bits or 1 byte. This is called the ― word length‖ of the storage unit. Hence the storage capacity of the
+computer is measured in the number of words it can store and is expressed in terms of bytes. The
+different units of measurement are
+8 Bits = 1 Byte
+210 (or) 1024 Bytes = 1 Kilo Byte (KB)
+210 (or)1024 KB = 1 Mega Byte (MB)
+210 (or)1024 MB = 1 Gega Byte (GB)
+Conversion :
+ASCII – American Standard Code for Information Interchange.
+This code has given alphabets like some numbers which can be converted to Binary form.
+A- 65 …….Z – 90 and a – 97 ………. z – 121
+By using these codes the alphabets can be converted to digital & hence to Binary form.
+Types of Memory : A computer memory is of two types
+1. Primary Memory ( Internal storage) 2. Secondary Memory ( External storage)
+Primary Memory : Primary memory is also called internal memory and is an important part of a
+computer. It is the main area in a computer where the data is stored. The stored data can be recalled
+instantly and correctly whenever desired. This memory can be quickly accessed by the CPU for reading
+or storing information. Primary memory is further classified into two types:
+Random Access Memory (RAM) and Read- Only Memory (ROM )
+RAM:
+RAM is also known as read/write memory as information can be read from and written onto it. RAM is
+a place in a computer that holds instructions for the computer, its programs and the data. The CPU can
+directly access the data from RAM almost immediately. However, the storage of data and instructions in
+RAM is temporary, till the time the computer is running. It disappears from RAM as soon as the power
+to the computer is switched off. i.e it is volatile memory.
+8
+ROM:
+It is called Read-only memory as information can only be read from and not written or changed onto
+ROM. ROM is the ‗built-in‘ memory of a computer. It stores some basic input – output instructions put
+by the manufacturer to operate the computer. The storage of data and instructions in ROM is permanent.
+It does not depend on the power supply. i.e it is non-volatile memory.
+Secondary memory: The primary memory which is faster (and hence expensive) is generally not
+sufficient for large storage of data. As a result, additional memory, called the ―auxiliary‖ or ―secondary
+memory‖ is used. It is also referred as ―backup storage‖ as it is used to store large volume of data on a
+permanent basis which can be transferred to the primary memory whenever required for processing.
+Data are stored in secondary storage in the same binary codes as in the main (primary memory) storage.
+Some of the devices of secondary storages are Floppy Disk, Hard Disk, CD-ROM, DVD and Flash
+drive.
+1. Floppy Disk: It is also referred as ―Diskette: and is made of flexible Vinyl material. It has a small
+hole on one side called ―Right protect notch‖, Which protects accidental writing/deleting the
+information from the disk. There is a hole in the centre through which the spindle of drive unit rotates
+the disk. The disks are available in two sizes of 5.25 and 3.5 inches and these could be either low-
+density or high-density floppies. Storage capacity of floppies are measured in kilobytes (KB) and
+megabytes (MB). The details about the storage capacities of the floppies are presented below:
+Floppy Disk Storage Capacity Size (Diameter)
+Low Density 360 KB 5.25 inches
+High Density 1.2 MB 5.25 inches
+High Density 1.44 MB 3.5 inches
+Extended 2.8 MB 3.5 inches
+2. Hard Disk: The hard disk can hold more information than the floppy disk and the retrieval of
+information from hard disk is faster when compared to floppies or tapes. A hard disk is fixed inside the
+CPU and its capacity ranges from 20 MB onwards. The hard disk is made up of a collection of discs
+(one below the other) known as platters on which the data is recorded. These platters are coated with
+magnetic material. It is less sensitive to external environmental disorders and hence the storage in hard
+disk is safe. A small hard disk might be as much as 25 times larger than a floppy disk. Storage Capacity
+of hard disks varies from 20 MB to several Gega bytes like 80GB, 160GB.
+9
+3. CD-ROM: CD-ROM stands for Compact Disk–Read Only Memory. It is used to store a wide variety
+of information. Its main advantage is that it is portable and can hold a large amount of data.. The storage
+capacity of most CD-ROMs is approximately 650 MB or 700 MB.
+CD-ROMs have the following variations:
+(i) CD-R(Compact disc Recordable): Data can be written onto it just once. The stored data can be read.
+Data once written onto it cannot be erased.
+(ii) CD-RW(Compact disc Rewritable): It is also called erasable CD. Data once written onto it can be
+erased to write or record new information many times.
+To use a CD-ROM, a device called CD drive is needed.
+4. DVD: DVD stands for Digital Versatile Disc. It is similar to a CD-ROM, except that it can store
+larger amounts of data. The storage capacity of a DVD is at least 4.7MB. DVDs that can store up to
+17GBs are also available. Because of their capacity, DVDs are generally used to store a very large
+multimedia presentations and movies that combine high quality sound and graphics.
+5. Flash Drive: It is a small, portable device that can be used to store, access and transfer data. Due to
+its small size, it is commonly called Pen drive. It is also called USB drive. We can read, write, copy,
+delete, and move data from computer to pen drive or pen drive to computer. It comes in various storage
+capacities of 2GB, 4GB, 8GB etc. It is popular because it is easy to use and small enough to be carried
+in a pocket. This device is plugged into the USB port of the computer and the computer automatically
+detects this device.
+******
+10
+HARDWARE and SOFTWARE
+Hardware: The physical components of the computer are known as ―Hardware‖. It refers to the objects
+that we can actually touch.
+Ex: input and output devices, processors, circuits and the cables.
+Software: Software is a program or set of instructions that causes the Hardware to function in a desired
+way. The basic difference between the Hardware and Software is just the same as that exists between
+TV and TV studio. Without TV studio (software) from where the programs are telecast, the TV
+(Hardware) is a dead machine.
+There are five categories of software. They are:
+1. Operating System 2. Translators 3. Utility programs 4. Application programs
+5. General purpose programs
+1. Operating System (OS) : The software that manages the resources of a computer system and
+schedules its operation is called Operating system. The operating system acts as interface between
+the hardware and the user programs and facilitates the execution of programs.
+Generally the OS acts as an interface between the user and the Hardware of the computer.
+i.e It is a bridge between the user and the Hardware.
+The User interface provided by the OS can be character based or graphical.
+CUI -- Character user Interface
+GUI -- Graphical user Interface
+CUI : It is operated with keyboard only. Ex: MS-DOS, UNIX
+GUI : The system can be operated with mouse and keyboard. Ex: Windows 95, Windows XP etc
+ Disk Operating System (DOS): It was developed as early as 1980 by Bill Gates at the age of
+19. It is suited for personal computers. Dos is a single user and single task operating system
+ WINDOWS : It works with DOS and it supports single user and multitask system. It
+requires a powerful PC with a minimum RAM of 8 MB .
+ UNIX AND XENIX: It is suited for multi-user and multi-task system
+2. Translators : Computers can understand instructions only when they are written in their own
+language – the machine language . Therefore, a program written in any other language should be
+translated into machine language. The software that ―translates‖ the instructions of different
+languages is known as translators .
+There are two types of translators. They are compilers and Interpreters
+A Compiler checks the entire user – written program (known as the source program) and if it is
+error free, produces a complete program in machine language (known as object program). The source
+program is retained for possible modifications and corrections and the object program is loaded into the
+computer for execution. If the source program contains errors, the compilers produce a list of errors at
+the end of the execution of the program. i.e a compiler translates the whole program before execution.
+An interpreter does a similar job but in a different style. The interpreter translates one statement
+at a time and if it is error – free, executes. This continues till the last statement. Thus an interpreter
+11
+translates or executes the first instruction before it goes to the second, while a compiler translates the
+whole program before execution.
+The major difference between compiler and interpreter is
+1. Error correction is very much simpler in the case of interpreter as it translates the
+statements in stages. The compiler produces an error list of the entire program at the end.
+2. Interpreter takes more time for the execution of the program compared to compilers as it
+translates one statement at a time
+Programming Languages: There are three types of programming languages.
+1. Machine Languages: Computers respond only to machine language. This language is in terms of
+binary codes (0,1). i.e. all programs should be written with these codes, which is difficult, time
+consuming and leading to errors while writing the programs. There is no unique standard
+machine language. Rather there are many machine languages. These are machine dependent.
+These are referred as the first generation languages.
+2. Assembly Languages : It uses mnemonic codes rather than numeric codes (as in machine
+languages). Ex. Add or A is used as a symbol for addition. It requires translators to convert into
+machine language. Like machine language, writing program in assembly language is also time
+consuming. These are also machine dependent.
+3. High Level Languages (HLL): These are referred as problem oriented languages (POL). These
+are referred as third generation languages. The advantages of these languages are
+ The high level languages are convenient for writing programs as they can be written without
+any codes. These languages follow rules like ―English‖ language.
+ Because of their English like nature, less time is required to write a program.
+ They are machine independent. A program written in any HLL can be run on computers of
+different types without any modifications.
+Several High Level Languages which are in common use:
+FORTRAN : FORmula TRANslation
+COBOL : Common Business Oriented Language
+BASIC : Beginner‘s All purpose Symbolic Instruction Code
+PROLOG: PROgramming in LOGic
+ALGOL : ALGOrithmic Language
+3. Utility Programs: These are pre-written programs supplied by the manufacturer for maintaining day
+to day activities of computer system.
+Example: COPY, SORT, MAILING, virus scanning software etc.,
+4. Application Programs: These are user written programs to do a specific job which can be changed to
+meet the individual needs. These programs are written in different languages such as BASIC or C or by
+using database packages like dBASE, Oracle.
+Example: Payroll, Billing, Railway Reservation etc.
+12
+5. General Purpose Packages: These packages are developed to suit the needs of research workers /
+scientists in different fields. These packages are categorized as :
+i) Data Analysis ii) Word Processing iii) Spread Sheet iv) Graphics and v) Databases
+Data Analysis
+Ex: SPSS (Statistical Package for Social Science),
+MSTAT, MICROSTAT, GENSTAT, SAS etc.
+Word Processing
+Ex: WORD PERFECT, WORDSTAR, MS-Word, CHIRATOR, NORTON EDITOR etc.
+Spread Sheet
+Ex: LOTUS, Qpro, VP-PLANNER, SYMPHONY, MS-Excel etc.
+Graphics
+Ex: LOTUS, STORY-BOARD, POWER-POINT etc.
+Databases
+Ex: dBASE, FOX-BASE, FOX-PRO, ORACLE, MS-Access etc.
+Functions of Operating System :
+Today most operating systems perform the following important functions :
+1. Processor management : It manages the assignment of processor to different tasks being
+performed by the computer system.
+2. Memory management : It manages the allocation of main memory and other storage areas to the
+system programmes as well as user programmes and data.
+3. Input / Output management : It manages the co-ordination and assignment of different Input and
+Output devices while one or more programmes are executed.
+4. File management : It allows all files to be easily changed and modified through the use of text
+editors or some other file manipulation routines.
+5. Establishment and enforcement of a priority system : It determines and maintains the order in
+which jobs are to be executed in the computer system.
+6. Interpretation of commands and instructions.
+7. Facilitates easy communication between the computer system and the computer operator.
+*******
+13
+Classification of Computers
+Computers are classified according to the storage capacity, speed and the purpose for which they
+are developed. These can be classified into three types:
+1. Analog Computes 2. Digital Computers 3. Hybrid Computers
+1. Analog computers: They operate by ―measuring‖ instead of ―counting‖. The name (derived
+from greek word analog) denotes that the computer functions by establishing similarities between
+the two quantities. They are powerful tools for solving differential equations.
+2. Digital Computers: These computers operate by ―counting‖. All quantities are expressed as
+discrete digits or numbers. These are useful for evaluating arithmetic expressions and
+manipulations of data.
+3. Hybrid Computers: Computers which combine the features of analog and digital computers are
+known as Hybrid computers.
+A majority of the computers that are in use are digital. These computers were essentially developed
+for computations. Later, the developments in the computers led to the use of digital computers in
+variety of applications. Depending on the use of applications, the digital computers are classified
+into 1) Special Purpose Computers and 2) General Purpose Computers
+1. Special Purpose Computers: These are developed with a specific purpose. Some of the areas
+where these computers are being used are – soil testing, drip irrigation, medical scanning, traffic
+signals, spacecraft, rocket technology etc.,
+2. General Purpose Computers: These are developed to meet the requirements of several areas such
+as simulation, solving mathematical equations, payroll and personnel database. These computers
+are available in different sizes and capabilities and are further classified (based on memory,
+speed, storage) as follows.
+a) Super Computers b) Mainframe Computers c) Mini Computers d) Micro Computers
+a) Super Computers: These have extremely large storage capacities and computing speeds
+which are atleast 10 times faster than other computers. These are used for large scale
+numerical problems in scientific and engineering disciplines such as electronics, weather
+forecasting etc.,. The first super computer was developed in U.S.A. by CRAY
+computers. In India the indigenous super computer was developed under the name
+Param.
+b) Mainframe Computers: They also have large storage and high computing speed (but
+relatively lower than the super computers). They are used in applications like weather
+forecasting, space applications etc., they support a large number of terminals for use by a
+variety of users simultaneously, but are expensive
+c) Mini Computers: It is a medium sized computer with moderate cost, available
+indigenously and used for large volume applications. It can serve multi-users
+simultaneously
+14
+d) Micro Computers: A micro computer is the smallest general purpose processing system.
+Micro computers are also referred as ―personal computers‖(PC). These are self
+contained units and usually developed for use by one person at a time but can be linked
+to very large systems. They are cheap, easy to use even at homes and can be read for
+variety of applications from small to medium range. These are available in three models:
+1. PC : Personal Computer
+2. PC-XT : PC with Extended Technology
+3. PC-AT : PC with Advanced Technology
+*****
+15
+PERSONAL COMPUTERS
+Personal Computer: A personal computer has a Monitor (VDU), a keyboard , Disk Drive (s), printer
+and CPU. The CPU of PC has a mother board with several chips mounted on a circuit board. The
+major components of the circuit board are : Microprocessor, RAM and ROM chips and other supporting
+circuits.
+Microprocessor: The Microprocessor chip is like a brain of human being which contains circuits and
+registers to perform arithmetic, logic and control functions. i.e it contains ALU & CU. These chips will
+be able to retrieve data from the input output devices, store, manipulate and process a byte of data at a
+time. There is an address bus which is built into these chips to determine the storage locations (of
+RAM) of the data and the instructions of the program.
+Over the years, different microprocessors were developed and the first in the series is INTEL
+8080. The other procesors are 8088, 80286, 80386, 80486, Pentium I, II, III and Pentium 4. The Pentium
+4 can execute any piece of code that ran on the original 8088, but it does it about 5000 times faster.
+Clock Speed: The speed with which the instruction is executed or number of pulses per second is called
+the clock speed. It is measured in terms of million pulses per second (MHZs).
+The following table gives the differences among the different processors that intel has introduced over
+the years :
+S.No. Microprocessor Date Transistors Clock speed Data width
+1 8080 1974 6000 2MHZ 8 bits
+2 8088 1979 29,000 5 MHZ 16 bits
+8-bit bus
+3 80286 1982 134,000 6 MHZ 16 bits
+4 80386 1985 275,000 16 MHZ 32 bits
+5 80486 1989 1,200,000 25 MHZ 32 bits
+6 Pentium I 1993 3,100,000 60 MHZ 32 bits
+64-bit bus
+7 Pentium II 1997 7,500,000 233 MHZ 32 bits
+64-bit bus
+8 Pentium III 1999 9,500,000 450 MHZ 32 bits
+64-bit bus
+9 Pentium 4 2000 42,000,000 1.5 GHZ 32 bits
+64-bit bus
+10 Pentium 4 2004 125,000,000 3.6 GHZ 32 bits
+―Prescott‖ 64-bit bus
+Peripherals: The input, output and secondary storage units like floppy drives, keyboard, mouse, etc., are called
+peripherals.
+Classification of PCs: PCs are mainly classified on the basis of primary memory (RAM), Microprocessor, clock
+speed and peripherals. The classification is presented in the following table:
+S.No. PC-Type RAM Microprocessor Clock speed Peripherals
+1 PC 640 KB 8088/8086 8 MHZ Floppy Drives, key
+board and printer
+2 PC-XT 1 MB 8088/8086 18 MHZ Floppy Drives, Hard-
+Disk Drive, Key board
+and printer
+3 PC-AT 1 MB to 80286 to 80486 25 MHZ and Floppy drives, Hard
+32 MB above disk, Keyboard,
+Mouse and Printer
+16
+Working with personal computers
+Drives of the computer: A computer can have Floppy Disk Drive along with Hard Disk drives in the
+system. These are referred as follows:
+Floppy Disk Drive : A or B
+Hard Disk : C
+Booting of the Computer: Booting imply ―activating‖ the computer for working. Thus, when the
+computer is switched on, the operating system residing in the floppy or in the hard disk is transferred
+into the primary memory. After this, the computer is ready to accept the commands at user terminal. If
+OS is not existing either in floppy drive or in the hard disk drive, ― non-system or disk error‖ is flashed
+on the screen. The booting of the computer is carried out with a software which resides on ROM chip
+called BIOS ( Basic Input Output System). Thus when a PC with system disk either in Hard-Disk Drive
+or Floppy Drive is switched ―on‖, the screen finally displays one of the following symbols with a
+blinking cursor at its end:
+a) A:\> This imply that the computer is booted through Floppy drive `A‘ and is ready to accept
+DOS commands. The symbol ―\>‖ is referred as DOS prompt from where DOS commands can
+be entered.
+b) C:\> It imply that the PC is booted through the Hard-Disk Drive `C‘.
+Booting is essential whenever the system is locked or switched-off. A PC can be booted through
+two ways: a) Cold Booting b) Warm Booting.
+a) Cold Booting: It is only switching OFF the system and after some time again switching ON.
+b) Warm Booting: It is carried out by pressing the following three keys simultaneously :
+Ctrl + Alt + Del. It is preferable to cold booting as it safeguards the system from sudden power
+fluctuations resulting out of switching ON and OFF the system.
+******
+17
+MS-DOS
+MS-DOS is a collection of programs and other files. It is a single user and single programming
+environment.
+MS-DOS is designed to provide a method of organizing and using the information stored on disks,
+application programs, system programs and the computer itself.
+Files and File names: A file is a collection of related information. The files should have suitable names
+for their identification in later use.
+Rules for naming the files:
+1. File names should be of one to eight characters in length with an option of one to three character
+extension
+2. File names can include any one of the following characters:
+A to Z (or a to z) 0 to 9, $, &, #, @. %, ( ), { }
+The characters which are not allowed are:
+:, ; + / \ * as these have special meaning
+3. A period (.) is used to separate the first part of a file name from the extension. (LETTER.TXT,
+RAMA.WK1, etc.,)
+4. When a file name includes an extension, it should be referred along with its extension and not
+only with the first part
+5. Reserved devices names are not allowed. (COMMAND.COM, DATE, etc.,
+Types of files in DOS: -
+There are different types of files you can create in your computer, according to the usage. To
+differentiate each file, the computer will give an extension to identify the different types of files you
+have created.
+Executable Files: The files with extension of either .COM or .EXE are called executable files. These
+files are directly executed by typing their names (without the extension) by the computer. A file with
+.COM extension refers to COMMAND file name and the other with .EXE extension refers
+EXECUTABLE program file.
+Batch Files: the file containing a series of DOS commands, which are executed automatically one at a
+time in the order entered, is known as the batch file. A batch file has the extension .BAT. If the batch
+file is given a special name AUTOEXEC.BAT, it is automatically executed when the computer is
+switched on or during booting.
+Backup Files: These are backup files of a file and have extension .BAK. These files are such that their
+contents can not be altered (edited). These files are created while working with WORDSTAR package
+for typing a document.
+System Files: These are program files developed for system control. They have .SYS extension.
+Directory: It is a collection of files, size, date and time of creation of files. The relation between files,
+directories and disk is similar to the relation between papers, filing folders and filling cabinets. Just as a
+cabinet contain papers and other folders, a directory may contain directories also. The main directory of
+a drive is called Root Directory into which several directories and sub-directories may exist.
+18
+Types of DOS commands: There are two types of commands: i) internal and ii) external
+i) Internal DOS commands: Internal commands are those commands which manage files. They are
+loaded into the memory of the PC when PC is booted. These are stored in a large file with file name
+COMMAND.COM, when a PC is booted.
+1. DIR: Dir displays continuously the directory of file names, file size, date and time of creation.
+C:\>dir a:
+This command displays the list of files and directories from the drive A i.e. the floppy drive.
+It can be specified with two options:
+i) Dir/p: It pauses the listing of the directory whenever the screen is full. The next screen load of
+files can be displayed by pressing any key.
+ii) Dir/w: displays the files of the directory in a five column format. Only file names and their
+extensions will be displayed without the date and time of creation.
+The total number of files and remaining bytes are listed.
+In addition, DIR can also be specified with wildcard characters (such as * or ?) to list files
+sharing a common element in the file name or extension.
+Eg: DIR STATS.* : lists all files with STATS and other combinations along with the extensions.
+DIR *.COM : lists all files with extension .COM
+2. DEL: Deletes a specified file. Syntax: DEL {filename}
+Del stats deletes the file ―stats‖.
+Del stats.* deletes all extensions of the file ―stats‖.
+Suppose you want to delete a file COMPUTER.DOC on A drive, the command will be:
+C:> DEL A: COMPUTER.DOC 
+3. COPY: The COPY command is used to copy files from one place to another. The way to execute
+copy command is to type COPY leave a space followed by the source file name again a
+space followed by destination file.
+Syntax: copy {Drive name} <source file> {Drive name} <target file name>
+Ex: 1. COPY STATS MATHS copies a file ―STATS‖ with the name ―MATHS‖ on the same drive
+2. COPY PATH A:ENTO copies a file ―PATH‖ from the current drive to drive ―A‖ with
+the file name ―ENTO‖.
+3. COPY A:MATHS C:STATS copies a file ―MATHS‖ form drive ―A‖ to drive ―C‖ with the
+file name ―STATS‖
+4. COPY A:MATHS.* C:STATS.* copies all extensions of file ―MATHS‖ form drive A to
+drive C with name ―STATS‖.
+4. REN: The REN command is used to rename the old file with another name. The way to execute
+Rename command is to type REN leave a space followed by the old file name again followed
+by a space and new file name.
+Ex: Suppose if you want to change the name of a file MATHS.TXT to STATS.TXT the
+following command will work:
+C:\> REN MATHS.TXT RESULT.TXT
+19
+5.DATE: It displays current date and asks for new date in (mm)-(dd)-(YY) format. If no date is to be
+changed, the old date can be retained by pressing ―enter‖ key.
+Syntax: C:\> Date
+6.TIME: displays current time and asks for new tine and if no new time is to be entered, pressing
+―enter‖ retains the old time
+Syntax: C:\> Time
+7.VER: displays the version of DOS
+8.CLS : when you want to clear the screen, type in the following command:
+C:\> CLS 
+ii) External commands: External commands are small file programs used for doing specific jobs.
+Some of the useful commands :
+1. SORT: It sorts the files in alphanumeric order: either A to Z or Z to A
+DIR| SORT (or) DIR/ON : Displays all the files in A to Z order
+DIR| SORT/R (or) DIR/O-N: Displays all the files in reverse order (i.e Z to A)
+2. FORMAT: Formatting a (new) disk imply organizing the new disk into magnetic tracks and
+sectors that are readable by DOS. The PC copies files only on a formatted disk.
+However, if an old disk is formatted, all the existing files on it would be erased.
+Hence this command should be used carefully.
+FORMAT a: formats disk in drive ―A‖
+3. VOL: This command displays the volume label of the current disk
+4. LABEL: It is used to create, change or delete the volume label on the disk
+5. PATH: It is used to provide access to files located on other directories or on other disks.
+Thus while in ―C‖ drive, one can directly invoke files of DOS, WORDSTAR (WS)
+(or) LOTUS directories by giving the following command:
+PATH = C:\DOS; C:\WS; C:\LOTUS
+This command is generally listed in the AUTOEXEC.BAT files for its execution when the PC is
+booted
+6. MD: It is used to make a new directory (or sub-directory) which is subordinate to the current
+(or root) directory. It is specified as follows:
+C:\> MD\STATS (or) MD STATS : This command makes (creates) a new directory with
+the name ― STATS‖.
+7. CD : It is used to change from one directory to the other.
+If we have to work with files in the directory ―STATS‖, the directory has to be changed
+to ―STATS‖
+Ex: C:\>CD\ STATS (or) CD STATS : This command changes the root directory to the
+directory ―STATS‖.
+8. RD: It removes or deletes a directory. To remove a directory, it is essential to first delete all
+the files in the directory.
+To remove the directory STATS, the command is C:\> RD STATS
+20
+9. TREE: It displays the directories and sub-directories existing in a drive with a ―TREE‖
+diagram. The difference between TREE and DIR commands is that: DIR displays all files with
+its size, date and time of creation. It also displays only directories with symbol <DIR>
+(without files and sub directories in that directory) whereas, TREE displays directories
+and sub directories in a drive without files.
+*********
+Computer viruses and Vaccines:
+Def: A VIRUS is a set of instructions (or program) or software prepared to destroy a package and
+data.
+A virus kills data and program files. Although the purpose for developing such softwares is not
+known, they appear to be basically developed for a check against the ―piracy‖ of program packages.
+Functioning of viruses: viruses reside in executable files such as .COM or .EXE. Thus when PC is
+switched on, the virus enters the RAM through .COM (COMMAND.COM) file and starts
+destructive work of killing data and program files. Whenever the PC is switched off, they again go
+back to the executable files.
+More than 1000 computer viruses have been identified. They are classified as :
+i) File Allocation Table (FAT) based viruses ii )Key board viruses and
+ii) File based viruses
+Some of the well known viruses are:
+Joshi, Die_Hard-2, Jerusalem, Generic, Brain, May_5th, Gumnam, World peace etc.,
+VACCINE: It is a software developed for removing the viruses.
+In DOS version, there are in-built programs to guard against computer viruses. These are
+anti-virus programs for both DOS and WINDOWS and a memory resident virus-safe program that
+guards against the introduction of files that may be affected by virus.
+Some of the anti-virus vaccines are: NASHSOFT, UTSCAN, AVG, AVIRA, Meccaf etc.
+*****
+21
+WINDOWS
+Salient features of Windows Operating System:
+1. It converts the plain character based user interface provided by DOS into a Graphical User
+Interface(GUI) such as pictures, symbols and words on your screen that can be controlled by the
+mouse.
+2. It provides a multitasking capabilities to the PC.
+3. It supports long file name rather than the limited 8 characters with extension of three letter file
+name (8:3) as used by DOS. In Windows file name can have name up to 255 characters long.
+4. Windows owes its name to the fact that it runs each program or document or application in its
+own separate window.
+5. Windows have the facility of accessories such as Word pad, Note pad, Calculator and Paint.
+6. User can paste portion of one document into another by utilizing more advanced document linking
+features called Dynamic Data Exchange (DDE), Object Linking and Embedding (OLE).
+7. It provides a big facility of plug and play standard. It allows user to simply plug a new board such
+as a video, audio or network card into the computer without having a set of switches or making
+other settings.
+8. If a program crashes, then it will display fault error message about its crash and you can eliminate
+the crashed program from the task list without affecting other running applications.
+Hardware required for Windows:
+1. MS-DOS version 6.0, 6.2, 6.22
+2. A PC with atleast 80386 processor.
+3. Atleast 8 MB RAM.
+4. A Hard disk with atleast 40-MB of free space to install Windows.
+5. Monitor (Super VGA , Monochrome or Multicolored)
+6. Mouse.
+7. CD drive.
+Parts of a window screen:
+Desktop: The desktop is the on-screen work area on which Windows, Icons, menus & dialog boxes
+appear. The Desktop can have several components. Parts of the desktop include Icons & the
+taskbar.
+Components of the Desktop:
+ Icons
+ Taskbar
+Icons: Icon is a small image that represents a file, folder or program.
+The text below each icon is the name of the Icon. When we rest the mouse pointer on an icon,
+a rectangular box appears. This is referred to as Tooltip. It gives a brief description of the Icon.
+By default, there will be 4-5 icons on the desktop.
+They are:
+ My Computer
+ My documents
+ Internet Explorer
+ Recycle bin
+ Network Neighborhood
+22
+My Computer: This is the icon which represents all the files & folders which can be used in the system.
+It is used to access the drives, folders & files on the computer. i.e Floppy drive(A), Local C, D, E,
+Printer, Control panel etc.
+My Documents: This is the default storage location for the files created in the windows.
+Internet Explorer: This is an application used to browse the internet.
+Recycle bin: This is a folder that stores all the files & folders deleted from windows temporarily, which
+can be restored again if needed.
+Network Neighborhood: This is an application which display all the computers connected in network
+with our computer.
+Taskbar: The rectangular bar that runs horizontally across the bottom of the screen is called Taskbar.
+The Taskbar has the START menu on the left & the Notification area on the right. We can start an
+application using the start menu.
+Notification area holds system icons that allow for functions such as changing the time & Volume of
+the Computer.
+All the open applications are available on the Taskbar.
+Anatomy of a Window:
+The window on a desktop is the rectangular area displaying content independently of other areas of the
+screen.
+The different parts of a window are the Title bar, Menu bar, the Toolbar, and the min, max & close
+buttons. These tools are used to manage the window & the components within it.
+Title bar – This is the title of the window, like your name at the top of a piece of paper. The Title
+bar is also the handle for the window. If you click and hold the mouse button down on the title bar,
+you can move it around the screen.
+ Minimize – To have a window take the minimum amount of desktop space possible, click the
+minimize button. This drops the window into the Task bar like a piece of paper going into a
+drawer. The Task bar will show the task whether or not the window is minimized.
+ Maximize – To have a window take the maximum desktop space, click the maximize button.
+This stretches the window out like an architect‘s floor plan being rolled out over the desk.
+ Restore – A maximized window will cover over all the other windows and icons on the desktop.
+The Restore button places the window back so that more than one window can display at a time.
+ Close (X) – When done with a window, you can have it taken completely off the desktop by
+closing it. Use the X button to do this.
+Menu bar: The Menu bar displays a list of commands that can be used to perform various tasks. ( this
+will be below the Title bar). Menu items are commands within the menu bar that allow choosing of
+functions & tasks.
+23
+Tool bar: contains a set of buttons for frequently used commands.
+Scroll Bars: On the bottom and right edges of a window we find scroll bars. They are used to pan
+across the information in the window, when we have information which won‘t fit into the window. The
+Status Bar :The Status bar appears at the very bottom of the window and provides such information as
+the cursor position, current page number, the number of words in the document etc.
+Booting in Windows:
+ When the computer is switched on, the BIOS is activated.
+ The BIOS present in ROM searches for the operating system and drives.
+ If there is no OS, it shows non-system or disk error.
+ If OS is present, then it transfers the OS from ROM to RAM.
+ Then the desktop is displayed on the monitor.
+*******
+24
+WINDOWS EXPLORER
+Windows Explorer is an application that provides detailed information about your files, folders, and
+drives. You can use it to see how your files are organized and to copy, move, and rename files, as well
+as perform other tasks pertaining to files, folders, and drives.
+Explorer uses the directory windows to graphically display the directory structure of your disk and files.
+Windows Explorer displays the contents of the entire system in a hierarchical manner.
+To open Windows Explorer, click Start  All programs  Accessories  Windows Explorer
+Windows Explorer is divided into 2 panes. The left pane displays the list of drives & folders on the
+computer. The right pane displays the contents of the selected drive or folder. By using these two panes,
+you can browse through the contents of your computer in a single window. Folder is a list of files
+(similar to Directory in MS-DOS)
+Working with Folders:
+Creating a Folder:
+1. From the tree pane : select the directory under which you want to create a sub directory.
+2. Choose FileNewFolder. On the right pane of the screen, a new folder is created.
+3. Type in the name of the directory and press ENTER. You can notice the change in the tree
+structure immediately.
+Creating files:
+After creating a folder, we can move files into it or create new files within the folder.
+Selecting files & folders:
+i) To select all the files in a folder:
+Click the folder in the left pane  All the files will be displayed in the right pane.
+To select all --CTRL + A
+ii) To select consecutive files:
+Use shift key + arrow keys
+iii) To select non-consecutive files:
+ In the right pane of Windows Explorer, click the first item to be selected.
+ Hold down CTRL
+ Click all other items that need to be selected.
+25
+Copying Files & Folders:
+Once we select the files to be copied, the next step is to copy the files.
+To copy the files & folders:
+i) In Windows Explorer, select the file or folder to be copied.
+ii) On the edit menu click copy
+( the files are copied to the clip board. The clip board is a location where the information you
+copy or cut is temporarily stored)
+iii) Click the destination folder in the left pane.
+iv) In W.Exp, click paste in the Edit menu.
+Alternatively, to copy a file or folder, select it and then press ctrl +C. To paste, press ctrl+ V
+To move the files or folders:
+i) select the folder to be moved.
+ii) On the edit menu, click cut
+iii) Click the destination folder in the left pane
+iv) On the edit menu, click paste.
+Alternatively, to cut a file or folder, select and press ctrl +X & then to paste, press ctrl +V.
+Renaming files or folders:
+i) Select the item to be renamed
+ii) Choose File  Rename
+iii) Current name gets selected, Type in the new name
+iv) Press Enter.
+Deleting files or folders:
+If you do not want certain files or folders, you can delete them. All the files & folders which are
+deleted are moved to the recycle bin.
+To delete:
+i) Select
+ii) On the file menu, click delete or press delete.
+A warning appears prompting you to confirm the file deletion.
+iii) If you want to delete, click yes otherwise No.
+Note: To delete a file permanently without moving it to the Recycle bin, select the file & then press
+Shift+ Del.
+******
+26
+WORD PROCESSING
+Definition: Word-processing is essentially typing, editing, and manipulation of a document in a desired
+form.
+Units of the Document:
+Since word-processing is concerned with preparation of a document (in a desired form), it is
+essential to know the units of the document:
+1. Character: It refers to the alphabets, numerical digits, punctuations and other special symbols which
+are commonly used in the text.
+2. Word: A word is group of characters that are separated from other group of characters by some
+delimiters like, comma, full stop and space.
+3. Sentence: A sentence is a group of words preceded and followed by appropriate delimiting characters.
+4. Paragraph: It is a group of one or more sentences, paragraphs are separated by leaving blank lines
+between them.
+5. Pages: It is the amount of text that can be printed on one page of a paper.
+6. Chapters: It is a collection of pages
+7. Documents and files: It is a group of chapters. Usually, a complete document may be very short such
+as a memo(or letter) or very long such as a book consisting of several chapters. These documents are
+referred as ―Files‖.
+Features of Word-processing:
+1. Word-wrap
+2. cursor control
+3. editing
+4. formatting
+5. spell-check
+6. thesaurus
+7. macros
+8. printing
+9. file management
+10. mail merge printing
+1. Word-wrap: In word-processing packages, the text can be continuously typed and the computer
+automatically starts a fresh line when a line is filled up. As soon as the length of a sentence
+exceeds the right margin, the corresponding word is automatically adjusted in the following line.
+This is called ―word-wrap‖. A paragraph is created only when carriage control is externally
+given for a sentence.
+2. Cursor Control: The four directional keys of the keyboard ( ) helps in locating the text
+for editing in much the similar manner as that of a pointer or pencil.
+3. Editing: Words or lines can be entered (inserted) or deleted in any part of the text with proper
+alignment . Similarly, there is a facility to ‗recover‘ the text which is deleted by mistake or
+accidentally. Another important facility is that any ‗word‘ can be replaced by a new word
+through out the file, wherever the old word appears. In addition to these, a block of text(which is
+frequently used) can be prepared and moved or copied wherever desired in the file.
+27
+4. Formatting : The text formatting refers to the way the text is desired to appear on a page. This
+includes following functions
+ setting left and right margins
+ paragraph settings
+ line spacing
+ selecting font specifications such as underline, bold, italics, superscripts and
+subscripts
+ setting foot-notes
+ number of lines per page
+ printing page numbers and headings for ‗Header‘ and ‗Footer‘
+ table of contents
+ indexing the text
+5. Spell-check: Word-processing packages provide checking of spellings facility
+6. Thesaurus: It provides synonyms (or words with similar meanings)
+7. Macros: A macro is a character or word that represents a series of keystrokes. The ability to
+define macros allows us to save a lot of time by replacing common combinations of keystrokes.
+8. Printing: It gives a ‗hard‘ copy of the text. The printing can be controlled after printing a fixed
+number of pages or can be resumed from any specified page number.
+9. File management: This facility allows to create, delete, move & search for files.
+10. Mail merge printing: This facility helps in printing same ―original‖ letter with different
+addresses, so that each letter is ―original‖ and not a carbon copy.
+Word-processing Packages: Several word-processing packages are available. Some of these are listed
+below:
+1. MSWORD (SOFT WORD) 2. WORDSTAR 3. CHIRATOR 4. NORTON EDITOR
+*******
+28
+MS-WORD
+MS- Word is a word processor. The extension name of MS- word is .doc. It is an application used to
+create, edit, print and save a document. It allows the user to insert pictures, tables, charts, drawings &
+features that will make the text richer & more interactive.
+( The term document refers to a file created using word processor)
+Starting MS-Word:
+Start  All Programs  MS-office MS-word
+MS-word icon is w.
+The default Word document includes the following layout tools:
+ Title bar: displays the document name and the application.
+ Menu bar: Contains the list of menus available inside word, each menu contains a specific set
+of commands.
+ Standard toolbar: provides shortcuts in the form of buttons for frequently performed tasks.
+ Formatting toolbar: Contains a list of formatting options available inside the format menu.
+ Horizontal & Vertical rulers: used for measurement purposes like any normal ruler; the
+default unit of measure is in inches.
+ White page area: is the space area where you type, edit and format your document.
+ Insertion point : is the blinking vertical line that indicates the position on the screen where text
+or graphics will be placed.
+ Task pane : is a small window within the word window that provides shortcuts to commonly
+used tasks.
+ Scroll bars : are used to move up and down or left and right in a document.
+ Status bar: displays the details such as the page number the user is working on, section no.,
+page no. out of the total pages found in the document, line number, column number etc.
+29
+Standard Toolbar:
+This toolbar contains buttons to allow you to perform the basic operations such as opening and closing a
+document, moving and printing data.
+Function of commonly used buttons
+ New: Creates a new blank document based on the default template
+ Open: Opens or finds an existing file
+ Save: Saves the active file with its current file name, location and file format
+ Print: Prints the active file - for more print options go to the File menu and select Print
+ Print preview : Shows how the document will look when you print it.
+ Spelling & Grammer: Spelling, grammar and writing style checker
+ Cut : Removes the selection from the document and places it on the clipboard
+ Copy : Copies the selected item(s) to the clipboard
+ Paste : Places the content of the clipboard at the insertion point
+ Format painter : Copies the format from a selected object or text and applies to other objects
+ Undo : Reverses the last command, use pull-down menu to undo several steps
+ Redo : Reverses the action of the Undo button, use the pull-down menu to redo several steps
+ Insert table: Insert a table into the document, or make a table of selected text
+ Insert Excel worksheet: Inserts an Excel spreadsheet into the Word document
+ Columns : Changes the number of columns in a document
+ Drawing: Displays or hides the Drawing toolbar
+ Zoom (100%): Enlarge or reduce the display of the active document
+Formatting Toolbar:
+The formatting Tool bar is the easiest way to change many attributes of a text.
+ Style menu: Allows you to make your text Bold, Italic, underlined… depending on the style you
+choose.
+ Font : Allows you to change the font by clicking on the drop-down arrow on the right of the
+font name box. You can view a list of fonts available, you can scroll down to view more fonts
+and select the font name you wish to use by clicking on its name.
+ Font size : Allows you to change the font size by clicking inside the Font size box and entering a
+value or by clicking on the drop-down arrow on the right of the box to view a list of sizes
+available. Select then a size by clicking on it.
+Note : A Font size of 11 or 12 is best for paragraphs of text.
+ Bold, Italic, Underline : Each button respectively allows you to make your text appear as bold,
+italic or underlined.
+ Alignment : Each button respectively allows you to make your text aligned to the left, center or
+right side of the page. You can also justify the text across the page using the justify button.
+ Line spacing : Allows you to set the amount of space that word puts when go to a new line.
+ Text orientation : Allows you to change the typing direction of your text, from left to right or
+right to left manner.
+30
+ Numbering, Bullets : Allows you to make your text appear as a bullets list or as a numbering
+list.
+ Increase / Decrease indent : Allows you to increase or decrease the indentation of your
+paragraph in relation to the side of the page.
+ Outside Border : Allows you to add a border around a text selection.
+ Highlight color : Allows you to change the color behind a text selection.
+ Font colour : Allows you to change the colour of the text.
+Features of FILE MENU ( ALT F):
+1. New - Opens new Word file (Blank Document file)
+2. Open - Opens the existing files
+3. Save - Saves the file with one name
+4. Save as -Saves the file with more than one name( with different formats)
+5. Save as Web page – This is used to save a document in a Web style. (with HTML extension)
+6. Versions - This is used to do the parts of work in small parts. i.e a bulk ( big/ more) work can be
+done in small parts.
+7. Web Page Preview – This shows the web page in printable form.
+8. Page set up - To set the margin, paper size, Orientation
+9. Print - To get the printout.( Specified pages and no. of copies).
+10. Properties - This gives the details about the document ( the type of file, the size of file, the date of
+creation, date of modification and file location)
+11. Send - This is used to send the file document to internet mail to some other person.
+12. Exit - To close the Ms-word.
+To insert a new page, press Ctrl + Enter
+31
+Features of EDIT MENU (ALT E):
+Undo - Will take the previous command (ctrl +Z)
+Redo - Will take the opposite action of undo ( Ctrl + Y)
+Cut - Can cut a selected text ( Ctrl + X)
+Copy - Can copy a selected text ( Ctrl + C)
+Paste - Can paste the selected text ( Ctrl + V)
+Del - Removes the selected text
+Find - Used to find the part of text word \ character in the file (Ctrl + F)
+Find Next – (F3) Finding \ finding next : Used to repeat the finding process.
+Replace - Used to replace any part of Text / word / Character with another word/ character.(Ctrl + H)
+Paste special – This will paste the copied (or) cut text in a form of an object. It will paste in box which
+Cannot be altered.
+Go To - Curser goes to the specified page, specified line, specified paragraph.(Ctrl + G)
+Features of FORMAT MENU ( ALT + O)
+1. Font - used to change the font face, style, size etc.
+2. Paragraph - Used to set the space between paragraphs and also between the lines
+3. Bullets - Used to highlight points in number wise / bullet wise.
+4. Borders & Shades - Used to apply different borders to the table / to the page.
+5. Columns – Used to write the text in column wise.
+To have a break in columns, a column break is used ( insert menu  break  Columns)
+Ctrl + Shift + Enter
+6. Drop Cap - Used to drop the letter to different lines.
+32
+7. Text direction - Used to change the direction of drop cap (Note : To use text direction, drop
+cap must be used first)
+8. Change case - Used to change the case of the text.
+9. Toggle – This converts lower case letters to upper case & vice –versa in a word.
+10. Back Ground - This is used to change the back ground colour of the document but the color
+can be seen only in the web layout.
+11. Theme - This is used to change the document, backgrounds with some existing design
+background. This shows the background only in the web layout.
+12. Style - This is used to change the writing fashion of the document which are already existing.
+13. Frames - Frames are used to write different documents in one single document.
+Some important features of Tools menu:
+Spelling &Grammar : Used to check the spelling and correct the words with related word. ( F7)
+Thesaurus : Used to know the synonym (meaning) of the word. (Shift +F7)
+Mail merge : used to type the letters with the same matter but different addresses.
+MS WORD – working with files:
+Creating a New document:
+ Click the New Blank document button on the standard tool bar. (or)
+ From the Menu bar, choose File  New, the New document task pane will open, and select
+Blank document.
+Opening Existing documents:
+ Click the open button found on the Standard tool bar. (or)
+ From the task pane, select getting started and the select more (or)
+ From the Menu bar, select File  Open
+Saving a document:
+ Click the Save button on the Tool bar. (or)
+ From the Menu bar, select File  Save (or)
+ Follow the key sequence Ctrl + S
+Save dialog box appears. Type the name and click Save.
+Printing a document :
+ Select File  Print (or)
+ Click on the Print button on the Standard Tool bar (or)
+ Click Ctrl + P
+Print dialog box appears. Select All pages (or) Current page (or) type the page numbers and
+also select number of copies according to the requirement and click O.K
+Closing a document:
+ Select File  close
+ Click on the small X found on the right top next to the Menu bar and the Title bar.
+MS WORD - Editing Text :
+Typing and Inserting Text:
+To enter text in your document, position the insertion point i.e a vertical blinking line, where you want
+the text to appear and type it in.
+Word will automatically wrap text as it reaches the end of a line. Press enter to start a
+new paragraph. When you reach the end of a page, word will automatically break text onto the next
+page. If you want, you can start a new page at any point by inserting a page break. To do so, press ctrl +
+Enter.
+33
+Word offers two modes for adding text to your documents: Insert mode and overwrite
+mode. In Insert mode, characters typed are inserted into the text to the left of the insertion point, pushing
+any characters to the right of the insertion point further to the right. In overtype mode, the text you type
+will replace the existing text.
+Note: The Insert key is a toggle key. This means that the same key can be used to switch back and forth
+between two different modes.
+Selecting Text:
+In order to change the format of the text you just typed, it must be first highlighted, i.e selected with the
+mouse cursor.
+To highlight the whole text or part of it, locate the mouse at the start of the text you wish to highlight
+and click the left button, then drag the mouse over the desired text while keeping the left mouse button
+pressed.
+Shortcuts used for selecting a portion of the text:
+ Whole word : Double click within the word.
+ Whole paragraph: Triple click within the paragraph.
+ Sentence : ctrl + click in a sentence
+ Entire document : Edit  select all ( ctrl + A)
+Deleting text:
+ Use the BACKSPACE or the DELETE key to delete text.
+ BACKSPACE key will delete text to the left of the cursor and DELETE key will erase text to
+the right.
+ To delete a large section of text, highlight the text using any of the methods outlined above and
+press the DELETE key.
+Moving, copying and pasting text:
+Cut text:
+Highlight the text you need to move and follow one of the methods listed below:
+ From the Menu bar, select Edit  cut (or)
+ From the standard tool bar, click on the cut button. (or)
+ Follow the key sequence Ctrl + X
+Copy text:
+ From the Menu bar, select Edit  copy (or)
+ From the standard toolbar, click the Copy button (or)
+ Follow the key sequence Ctrl + C
+Paste Text:
+To paste previously cut or copied text, move the cursor to the location you want to move the text to and
+follow one of the methods listed below:
+ From the menu bar, select Edit  Paste (or)
+ From the standard Tool bar, click the Paste button (or)
+ Follow the key sequence Ctrl + V
+*******
+34
+MS -EXCEL
+Spreadsheet is a software that helps to substitute the paper worksheets in the offices. Spreadsheet
+displays data in the form of rows and columns. An intersection of row and column is known as a cell.
+MS-Excel is a window based spreadsheet developed by Microsoft corporation. It includes all features of
+a spreadsheet package like recalculation, graphs & functions. It also provides many Mathematical,
+Financial & Statistical functions. Thus it is used in many scientific and engineering environments for
+analyzing data. Excel can even hold graphic objects like pictures & images.
+Some important features of MS-Excel:
+1. Window based application: Excel like all other applications has Toolbars, Shortcut Menus,
+Auto correct, Online help and Wizards.
+2. Workbooks: Workbooks are the files in which worksheets related to a project are held.
+3. OLE support: Object linking and Embedding is a feature through which Excel can contain any
+object like a document, a picture etc.
+4. Maintaining high volume of data: Excel can contain large volume of data. A worksheet can
+contain 65536 rows and 256 columns. A single cell can contain a maximum of 255 characters.
+One workbook can contain a maximum of 256 worksheets.
+5. Availability of functions: Several Mathematical, financial & statistical functions are available
+in an Excel package.
+6. Availability of Charts & Graphs: MS-Excel allows users to view data entered as tables in a
+graphical form as charts, which helps the user to easily understand, analyze data & compare data.
+7. Data Analysis Tools: MS-Excel provides a set of data analysis tools called Analysis Tool pack.
+8. Sorting capability: Excel has the capability of sorting any data in Ascending or Descending
+order.
+9. Auto fill feature: Excel has the feature which allows to fill cells with repetitive data such as
+chronological dates or numbers and repeated text.
+Getting started with Excel:
+An Excel document is called a workbook. By default, Excel workbook contains 3 worksheets
+designated as sheet 1, sheet 2, sheet 3.
+The extension name of excel workbook is .xls
+We can start excel in many ways:
+1. Start  Programs  Microsoft office  Microsoft Excel  hit enter.
+2. Start  Run  Type Excel  hit enter
+3. Double click on the Microsoft application Icon.
+35
+Components of the Excel window:
+An Excel window has several unique elements identified in the figure below:
+ Rows, columns & cell: In a worksheet rows are numbered from top to bottom. The columns are
+labeled with letters from left to right. Rows are numbered from 1 to 65,536 and columns labeled
+from A to IV (256 columns).
+ Title bar: The title bar contains the name of the program Microsoft Excel and the default name
+of the workbook Book1 that would change as soon as you save your file and give another name.
+ Menu bar : The Menu bar contains menus that include all the commands you need to use to
+work your way through Excel such as File, Edit, View, Insert, Format, Tools, Data, Window and
+Help.
+ Tool Bar: Tool Bars are usually shortcuts for menu items. Standard and formatting toolbars are
+displayed by default.
+ Active cell: The cell in which you are currently working.
+ Formula bar: displays the contents of the active cell.
+ Name box: displays the cell address of the active cell. Column letter followed by the row
+number. Ex: B6
+ Worksheet area: The middle portion of screen which occupies a major area is called worksheet
+area. In this area, information or data (i.e.) either textual or numerical can be entered and the
+results can be displayed. A worksheet is a large work area of 65,536 rows and 256 columns.
+ Status bar: located at the very bottom of the screen displays brief information about activating
+features within the worksheet area.
+ Sheet tabs: appear above the status bar displaying the names of the worksheets.
+Standard Toolbar
+The Standard toolbar, located beneath the menu bar, has buttons for commonly performed tasks like
+adding a column of numbers, printing, sorting, and other operations. Excel let's you customize the
+toolbar or even display multiple toolbars at the same time. The Standard Excel XP toolbar appears in the
+figure below.
+36
+Formatting toolbar
+The Formatting toolbar, located beneath the Standard toolbar bar, has buttons for various formatting
+operations like changing text size or style, formatting numbers and placing borders around cells.
+Formula bar & Name box
+The formula bar is located beneath the toolbar at the top of the Excel worksheet. Use the formula bar to
+enter and edit worksheet data. The contents of the active cell always appear in the formula bar. When
+you click the mouse in the formula bar, an X and a check mark appear. You can click the check icon to
+confirm and completes editing, or the X to abandon editing.
+Name box
+The Name box displays the reference of the selected cells in the form of column label followed by row
+number.
+Creating a New Workbook:
+The steps to create a new workbook are,
+1. On the File menu, click New.
+The new workbook task pane appears at the right side of the screen. Click blank workbook.
+A new workbook with 3 worksheets appears. By default, the workbook is named as Book 1, and
+sheet 1 is the active worksheet & A1 is the active cell.
+Entering data:
+You can enter text, numbers and dates in an Excel worksheet.
+To enter data of any type,
+1. Select the cell by clicking on it.
+2. Type in the information.
+3. Press the Enter key.
+When you begin typing, your data also appears in the formula bar.
+Editing text:
+The easiest way to edit the contents of a cell is to select the cell and then retype the entry. The new
+entry replaces the old contents.
+Alternatively, to edit the data in a cell, press F2.
+Ex: Suppose you find that in the cell A6, you have entered the marks as 78 instead of 87, then click
+on A6 and type 87 enter
+37
+You can also edit part of the data in a cell:
+1. Double click the cell you want to edit. The insertion point appears within the cell.
+2. Delete the part of the data that you do not wish to keep.
+3. Retype the data & press enter.
+Formatting a worksheet:
+Changing the style or appearance of data in a worksheet is called formatting. You can format the data
+in a worksheet by:
+ Changing the position of data in a cell
+ Changing the font, size, style & colour.
+Aligning data:
+By default, any text you enter in Excel is aligned to the left and any value or number is aligned to the
+Right. To change the default alignment, you can use the alignment buttons on the formatting tool bar.
+Formatting Numbers:
+Formatting data in a worksheet includes changing the number of decimal places, displaying dates, times
+& fractions and adding currency symbols.
+To format the number in a cell, the steps are: Format/Cell/N/umber/Decimal places/2
+Formatting Text: Text can be formatted using the buttons on the formatting toolbar. Font of a cell,
+font size can be changed. The font style can also be changed to bold, Italic etc.
+Inserting Rows & Columns:
+In Excel, rows & columns can be inserted or deleted without affecting the surrounding rows, columns &
+cells.
+To insert a row,
+1. Rest the mouse pointer over the row above which you want to insert the new row.
+2. On the Insert menu, click rows.
+A row is inserted and the existing row moves down after the new row.
+Similarly, to insert a column,
+1. Rest the mouse pointer over the column before which you want to insert the new Column.
+2. On the Insert menu, click columns.
+Changing Row height & Column width:
+By default, every row is 12.75 points high and every column is 8.43 characters wide. As you fill it with
+data, however you have to change the size of rows & columns so that it is fitted to the length of the data.
+To Resize a column:
+1. Rest the mouse pointer on the column boundary on the right side.
+2. The shape of the mouse pointer changes to
+3. Drag the boundary until the required width is obtained.
+38
+(OR)
+1. The column which is to be adjusted is made active by clicking on column letter.
+2. The column option is selected from the Format menu.
+3. Click on the width option. A dialogue box is displayed.
+4. Type in the required size of the column in the text box column width.
+Similarly, Row height can also be adjusted by selecting the rows.
+Sorting: Highlight the cells that should be sorted and click the sort Ascending (A-Z) button or Sort
+Descending (Z-A) button found on the Standard toolbar.
+Printing: To print the worksheet, select File  Print from the Menu bar (or) click on the Print button
+from the Standard Toolbar (or) follow the key sequence Ctrl + p
+Inserting Page breaks: To set the page breaks within the worksheet, select the row you want to appear
+just below the page break by clicking the row‘s label. Then choose Insert  page break from the
+Menu bar.
+When you attempt to print a worksheet Excel automatically inserts page breaks view.
+File menu  page break preview
+The page breaks are shown in dasher lines. If the automatic allocation of page breaks does not satisfy
+with your requirements, you can add the page breaks in the required space.
+Step 1: select a cell above which the page break is needed. After that, select the full row until the data in
+the sheet exists.
+Step 2: select insert  page break
+Saving a workbook:
+To save a workbook,
+ File  Save (or)
+ Ctrl +S (or)
+ click on the save button on the Tool bar.
+Save dialogue box appears. Type the name and click Save.
+Formulas:
+In Excel. One of the powerful features is formulas. A formula is an equation that is used to perform
+calculations on data in a worksheet. We can use formula to perform Mathematical, Statistical &
+date/time operations on a single value or a set of values by using operators.
+The cells in which formulas are stored, display the result of the calculation and not the formula.
+In Excel, a formula starts with an equal (=) sign and should be followed by the operation to be
+performed. We can use any number of operators in a single formula. MS- Excel evaluates the
+formula according to the order of precedence of the operators.
+Operator Operation Order of precedence
+( ) Bracket 1
+^ Exponentiation 2
+* , / Multiplication , Division 3
++ / - Addition, Subtraction 4
+& Concatenation 5
+= / > /< Comparisons 6
+39
+Examples of the formula expressions:
+1. Suppose the values in the cells B2, C2, D2 are 34, 28, 56 respectively. To add these values and
+to have the result in the cell F2,
+Step i) Click on the cell in which total marks is to be displayed, i.e F2
+ii) Type ― = ( B2 + C2 + D2 )‖
+iii) Press Enter
+The value ―118‖ will be displayed in F2.
+2. Suppose the value of the cell B6 is 78345. Divide the value by 5 and have it in the cell E6:
+Step i) Click the cell E6.
+ii) Type ― = (B6/5) ―
+iii) Press Enter
+The value ―15669‖ will be displayed in the cell E6.
+3. Multiply the value 549 of the cell C3 with the value 43 of the cell F3 and have the result in
+the cell I3.
+Step i) Click the cell I3
+ii) Type ― = ( C3 * F3)
+iii) press Enter
+The result ―23607‖ will be displayed in the cell I3.
+Functions :
+A function is a built-in, readymade and frequently used formula that accepts data, perform calculations
+& returns results.
+To enter a function in a cell,
+i) Click the cell in which you want the result of the function to be displayed.
+ii) Type ―=‖ sign.
+iii) Type the function name.
+iv) Type the cell range & other arguments within brackets.
+v) Press Enter.
+Note : To specify a range of cells, a colon (:) is used between the first & last cell addresses.
+Example: =Average(B1: B10)
+Calculates the average of the values in the cells B1 to B10
+Mathematical functions with syntax and purpose:
+i) Sum( number1, number2,…) – gives the sum of the values in a specified range
+ii) Abs( number) - gives the absolute value of the number
+iii) Fact( number) - gives the factorial of the number
+iv) Sqrt(number) - gives the square root of the number
+v) Log(number) - gives the logarithm of the number
+Statistical functions with syntax and purpose:
+i) Average( range of cells) - calculates the average of the values in a specified range
+ii) Stdev(range of cells) - calculates the standard deviation of the given data
+iii) Mean( range of cells) - calculates the mean of the given data
+iv) Max( range of cells) - gives the maximum value within the range specified
+v) count( ) - counts how many numbers are there in the list of arguments
+40
+Function Wizard :
+The Function Wizard is a tool in Excel through which a user can enter formulas in the correct format
+without any errors. It contains all the functions according to the type such as Mathematical, Statistical,
+Date/time, Financial etc.
+Steps to use the function Wizard:
+1. The cell in which the function is to be inserted, is selected.
+2. Select the function option from the Insert menu. The Function Wizard screen is displayed. It lists
+all the functions available.
+3. The function needed is selected. Click O.K
+4. A dialogue box is displayed in which arguments are accepted.
+5. Enter the arguments. The selected cell on the worksheet will automatically contain the formula.
+6. Click O.K. The result is shown in the selected cell.
+Creating Charts :
+Charts in Excel are used to represent data pictorially. We can use different types of charts to represent
+data.
+Types of charts which are available in Excel:
+1. Column charts
+2. Bar charts
+3. Line
+4. pie
+5. XY (scatter)
+6. Area
+7. Doughnut
+8. Radar
+9. Surface
+10. Bubble
+11. Stock
+12. Cylinder, Cone & Pyramid
+Creating a Chart :
+Step i) Enter the data in a table.
+ii) Open the Insert Menu and select Chart
+iii) In the Chart Wizard – Step 1 of 4, select the type of chart you want to make and click Next
+iv) In the step 2 of 4, enter chart source data and click Next
+vi) In the step 3 of 4, enter the chart options like label of the chart and click Next
+vii) In the step 4 of 4, give the chart location where you want the chart to be located and press
+Finish.
+41
+Column Chart: Column charts are one of the most common types of graphs used to display data.
+A column chart represents data in the form of a series of vertical bars. Each bar represents a value.
+For example, to draw a column chart for the production of different crops in a region:
+S.No. A B
+crop Production(tons)
+1 Paddy 53
+2 Wheat 24
+3 Maize 18
+4 Groundnut 82
+To construct a bar chart for the above data:
+Step i) Enter the data in a table.
+ii) Open the Insert Menu and select Chart
+iii) In the Chart Wizard – Step 1 of 4, select Column chart and click Next
+iv) In the step 2 of 4, enter chart source data
+v) In the step 3 of 4, enter the chart options like label of the chart
+vi) In the step 4 of 4, give the chart location where you want the chart to be located and press
+Finish.
+production of crops
+90
+80
+)s 70
+n
+n 60
+o
+t(n 50
+o Series1
+itc 40
+u
+d 30
+o
+rp
+20
+10
+0
+paddy wheat maize groundnut
+type of crop
+42
+Pie Chart:
+A Pie chart is used to represent the distribution of a categorical data. In this chart, a circle is divided
+into sectors, whose area are proportional to the frequencies or percentages of cases under various
+categories.
+Data on each variable is entered in the Excel worksheet in a row or column with suitable headings.
+Then we select the data of the first series and choose pie chart and proceed as per the options given in
+the dialogue box. A separate chart pie chart should be drawn for each data set.
+For example, to draw a pie chart for the production of different crops in a region:
+S.No. A B
+crop Production(tons)
+1 Paddy 53
+2 Wheat 24
+3 Maize 18
+4 Groundnut 82
+production of crops
+30%
+paddy
+46% wheat
+maize
+groundnut
+14%
+10%
+*******
+43
+Statistical Analysis Tools
+Microsoft Excel provides a set of data analysis tools— called the Analysis Tool Pak— that you can use
+to save steps when you develop complex statistical or engineering analyses. You provide the data and
+parameters for each analysis; the tool uses the appropriate statistical or engineering macro functions and
+then displays the results in an output table. Some tools generate charts in addition to output tables.
+Related to worksheet functions, Excel provides many other statistical, financial, and engineering
+worksheet functions. Some of the statistical functions are built-in and others become available when you
+install the Analysis Tool Pak.
+Accessing the data analysis tools: The Analysis Tool Pak includes the tools described below. To
+access these tools, click Data Analysis on the Tools menu. If the Data Analysis command is not
+available, you need to load the Analysis Tool Pak add-in program.
+Analysis Tools:
+ANOVA: Single factor
+ANOVA: Two-Factor with replication
+ANOVA: Two-Factor without replication
+Correlation
+Covariance
+Descriptive statistics
+F-test two-sample for variances
+Histogram
+Regression
+t-test: two sample assuming equal variances
+t-test: two sample assuming unequal variances
+Z-test: two sample for means
+Steps to use Analysis Tools:
+Step i) From the Menu bar choose Tools and click on Data Analysis
+ii) When the Data Analysis dialogue box appears, click on the one you want.
+iii) The corresponding dialogue box appears. Enter the Input range and Output range (addresses
+of the cells)
+iv) give the address of the cell where you want the result to be shown.
+iv) click OK
+v) The result will be given in the corresponding output format.
+44
+Ex 1: The following are the results of 5 preschool going children at different levels of protein content in
+diet. Compute the correlation coefficient using Excel
+Protein content (%) Gain in weight(gm)
+5 30
+7 40
+10 80
+12 100
+13 120
+Step i) From the Menu bar, choose Tools and click on Data Analysis.
+ii) Select Correlation in the Data Analysis Dialogue box and click OK.
+iii) When the Correlation dialogue box appears, enter the Input range and also give the output range
+where you want the result to be shown, clock OK.
+v) the result will be shown in the following format:
+Summary output:
+Protein gain in
+content weight
+Protein
+content 1
+gain in
+weight 0.989783 1
+Ex 2: Following is the data of head and body weights of 5 insects. Find the regression equation of
+y on x.
+Head weight Body weight
+(X) (Y)
+20 60
+22 64
+25 72
+27 80
+31 84
+Step i) From the Menu bar, choose Tools and click on Data Analysis.
+ii) Select Regression in the Data Analysis Dialogue box and click OK.
+iii) When the Regression dialogue box appears, enter the Input Y range and input X range.
+iv) give the output range where you want the result to be shown, clock OK.
+45
+v) The result will be shown in the following format.
+SUMMARY OUTPUT
+Regression Statistics
+Multiple R 0.980316
+R Square 0.961019
+Adjusted R
+Square 0.948025
+Standard
+Error 2.324953
+Observations 5
+ANOVA
+Significance
+df SS MS F F
+Regression 1 399.7838 399.7838 73.96 0.003305
+Residual 3 16.21622 5.405405
+Total 4 416
+Standard Upper Lower Upper
+Coefficients Error t Stat P-value Lower 95% 95% 95.0% 95.0%
+Intercept 13.89189 6.836289 2.032081 0.135073 -7.86423 35.64801 -7.86423 35.64801
+(X) 2.324324 0.27027 8.6 0.003305 1.464204 3.184445 1.464204 3.184445
+Ex 3:
+The daily production of two pesticide factories is recorded as follows.
+Factory 1 2 3 4 5 6 7 8
+A 12 16 9 13 15 17 20 23
+B 8 13 21 16 11 12
+Test whether there is any significant difference between two factories at probability level 0.05.
+Solution:
+Step i) From the Menu bar, choose Tools and click on Data Analysis.
+ii)Select t-test; two samples assuming equal variances in the Data Analysis Dialogue box and
+click OK.
+iii) Enter the variable 1 range, variable 2 range and set Hypothesized mean difference as zero.
+iv) Click the check box against Labels in the First row.
+iv) Give the output range where you want the result to be shown, click O.K
+46
+v) the result will be shown in the following format.
+t-Test: Two-Sample Assuming Equal Variances
+A B
+Mean 15.625 13.5
+Variance 19.98214 20.3
+Observations 8 6
+Pooled Variance 20.11458
+Hypothesized Mean Difference 0
+df 12
+t Stat 0.877324
+P(T<=t) one-tail 0.198768
+t Critical one-tail 1.782288
+P(T<=t) two-tail 0.397535
+t Critical two-tail 2.178813
+******
+47
+MS-ACCESS
+The Database is an organized collection of data related to a particular topic or purpose. The
+database serves as a base from which a desired information can be retrieved, many meaningful
+conclusions can be drawn. A database stored electronically has distinct advantages over a manually
+organized system. A database can be maintained in a computer by using a database management
+system(DBMS).
+DBMS is an application that enables to maintain data in a database. Maintaining data involves
+storing, organizing and retrieving data.
+MS-Access is a Relational Database Management System (RDBMS) that is used to store and
+manipulate large amount of information. The extension name of Ms-Access file is .mdb.
+To start MS-Access:
+1. Start Programs MS office  Ms-Access  Enter
+2. Start  Run Ms-Access Enter
+An Access Database consists of 7 different Database objects.
+1. Tables : Store database data in Rows (records) and columns (fields). Every row represents a
+Record. Each piece of information in a record is called a Field.
+Ex: A table can contain personal information about all the students in a college.
+Every row containing information about a student represents a record. The records in the
+student table can include fields such as Admission number, Student name, Address, Phone
+number etc.
+2. Queries : used to retrieve information from a database based on specific conditions.
+Ex: A Query can be used to extract details about students studying in a particular class.
+3. Forms : used as interfaces for users to enter, view and modify data in a Table.
+4. Reports : used to present data from tables or Queries in a format of our choice. i.e the printable
+form of the table or query or form. We cannot make changes to the data in a report. We can
+format the data in a report.
+5. Pages : display shortcuts to data access pages in the database. A data access page displays data
+stored in a database over the internet.
+6. Macros : used to automate frequently performed tasks.
+Ex: we can create a macro to print a report automatically.
+7. Modules : used to perform advanced database operations, such as validating data against
+complex conditions.
+Creating a Database :
+A Database can be created by using the database Wizard or by using the Blank Database
+command.
+ The database Wizard is used to create tables, forms, queries and reports by following a series of
+steps provided by the wizard.
+ The Blank Database command is used to create a blank database. All database objects should be
+created manually.
+Click on File menu  New  Enter
+A window appears  give a name to the database
+48
+Creating a Table :
+1. Open the database in which the table is to be created.
+The database window appears.
+2. under objects, click Tables and then click New on the database window toolbar.
+The New Table dialog box appears.
+Commands in the New Table dialog box
+Command Purpose
+Create table by Used to create a table by entering values directly in a row and column format
+entering data
+Design view Used to assign fields for the new table and modify field properties
+Table wizard Used to create a table through a guided sequence of steps
+I. Create Table by entering data:
+ Click on Table (object) in the main switch board.
+ Click on create table on Datasheet view  now a window appears  here we find fields ( field1,
+field2,……)
+ Give the field names ( Name, roll no., marks etc)
+ Click on close button of the table and save the table with some name
+ To enter details into the table, click on table in the main switch board and double click on the
+table name.
+ Enter the details
+Working with Database Fields :
+Microsoft Access database fields are created by entering a field name and a field data type in each row
+of the field entry area of the database table window.
+49
+Data types in MS-Access :
+The following list summarizes all the field data types available in MS- Access, their uses and their
+storage sizes.
+ Text : used for text or combinations of text and numbers, such as addresses or for numbers that
+do not require calculations, such as phone numbers, or postal codes.
+Stores up to 255 characters.
+ Memo : Used for lengthy text and numbers, such as notes or descriptions. Stores upto 64,000
+characters.
+ Number : used for data to be included in Mathematical calculations, except calculations
+involving money. Stores 1,2,4 or 8 bytes.
+ Date / Time : used for dates and times. Stores 8 bytes.
+ Currency : used for currency values and to prevent rounding off during calculations. Stores 8
+bytes.
+ Auto Number : used for unique sequential or random numbers that are automatically inserted
+when a record is added.
+ Yes /No : used for data that can be only one of two possible values, such as yes/ No, True/False,
+On/Off.
+ OLE object : used for OLE objects like pictures, graphs and other binary data. Stores up to
+1 GB.
+II. Create a table in Design view:
+1. click on table (object) in the main switch board.
+2. Here click on ― create table in design view‖ Now a window appears  here type the field
+names and their data types respectively.
+Ex:
+Field name Data types
+Roll No Auto Number
+Name Text
+Marks Number
+3. click on the close button of the table and save it with some name
+4. To enter data into the table, double click on the table created.
+5. Now enter the details.
+Primary & Foreign keys:
+Data should be checked for redundancy before it is stored in a database. Keys are used to maintain
+the integrity of data. Keys contain unique values that help to filter redundant information from the
+input data. Keys are of two types: primary & foreign.
+Primary key: The field in a table that uniquely identifies each record is called the primary key.
+Usually this field is sequentially numbered.
+Ex : Admission number field
+Foreign key : When a primary key of one table appears as a field in another table, the field is called
+the foreign key in the second table.
+50
+Queries :
+ By using queries we can view, change and analyze data in different ways. You can also use
+them as the source of records for forms and reports.
+ You can bring together data from multiple tables and sort it in a particular order.
+ You can perform calculations on groups of records.
+Forms :
+ In a table, number of records are displayed at a time. But, if the table has many fields, then it
+may not be possible for a user to view all of them. The screen may be too small to fit it. The
+user may have to scroll horizontally or vertically to view the rest of the fields/ records.
+ In forms, the data can be displayed as per the users requirement. The records are generally
+displayed one at a time. The fields can be arranged as the user wants it. Pictures can be added
+to a form. The display and contents of the form is controlled fully by the user.
+ In forms there are 3 views,
+i. Design ii. Datasheet & iii. Form view
+ The datasheet view shows many records whereas form view displays single record. You can
+toggle between these three views using the View Tool.
+Report:
+The data shown in a table, Query and forms are meant for displaying it on screen, but when you
+take the printout or the Hard copy, it is known as Report. In the database window, the open
+button is replaced by the preview button, when you click the report tab. Reports can be viewed
+either in print preview mode or design mode. Data cannot be edited in the reports. The report
+preview shows how the data will appear on taking out the printouts.
+******
+51
+Networking and Internet
+A network is an arrangement that enables two or more computers to communicate (talk) to each
+other.
+Types of Networks
+Networks can range from a small group of computers linked together in a class room to
+thousands of computers linked together across the globe. Depending on the geographical location,
+networks can be classified as
+a) LAN ( Local Area Network)
+b) MAN ( Metropolitan Area Network)
+c) WAN (Wide Area Network)
+Local Area Network: If a network is confined to a single location, typically a building, it is called a
+LAN.
+Ex : Set of interconnected computers within an office.
+Metropolitan Area Network: A metropolitan area network is a network that is larger than a LAN, it
+connects the computers distributed across multiple buildings.
+Ex: the computers in all branches of an office within a city.
+Wide Area Network: When a network is located over wide areas such as cities, states, countries or
+even continents, it is called a WAN.
+Ex : i. Computers in different branches of a Globalised company.
+ii. Internet
+INTERNET
+The internet is a global connection of computers. These computers are connected via a huge
+network of telecommunication links. The internet allows you to access to a whole resource of data and
+information stored at different sites (called hosts) and locations around the world. The communication
+links which inter connect each host computer use a common method of transmission known as TCP/IP,
+which stands for Transmission Control Protocol / Internet Protocol.
+Internet connection helps us to:
+1. Read information on a wide range of topics
+2. Send or receive E-mail
+3. Down load useful programs such as virus detectors, file compression, decompression utility etc.,
+4. Share your opinions and your knowledge on a variety of topics through various new groups.
+5. Chat with other people any where in the world
+6. View interesting video‘s listen to music or wander through a 3-D world.
+Requirements for connecting to the Internet:
+a) Modem: A modem is a peripheral device that allows a computer to connect and
+communicate with other computers. Modem stands for Modulator Demodulator.
+b) Web Browser: A browser is a software program that is necessary in order to view web
+pages on the web. Ex: Internet Explorer, Netscape Navigator, Mozilla Firefox,
+Microsoft outlook express etc.
+c) Telephone line: A telephone line is required to transfer data from one computer to
+another. The computer is connected to a modem, which, in turn, connected to a telephone
+line.
+52
+d) Subscription with Internet service provider (ISP): ISP‘s are companies that provide
+access to the internet. We need subscription with any ISP to get an Internet connection.
+Some of the ISPs in India are VSNL, MTNL, Sify, Specrta Net etc.
+World Wide Web (WWW):
+It refers to the collection of information accessible on the internet. The web is similar to a library. It
+consists of millions & millions of pages of text, pictures, sounds and animation on various topics. These
+pages, called web pages are stored on different computers that are connected to the internet. The web
+pages have links between them i.e when we click a certain word or picture in a page, it will take us to
+another page. These words or pictures that help to move from one page to another are called hyperlinks.
+A collection of related web pages is known as a web site. A web site can be accessed by means of a
+unique name assigned to it.
+Internet was initially designed for the transmission of text basing on the protocols mentioned.
+In order to transmit a graphically designed web page complete with pictures, embedded sound and
+animation a special language was designed which is referred to as Hyper Text Mark up Language
+(HTML). HTML uses special text codes to define the various elements of a web page.
+The WWW support a protocol called Hyper Text Transfer Protocol (HTTP). All internet
+servers cannot support HTTP and so the web can be regarded as a subset of the larger internet.
+HTTP provides a method of transmitting a professionally laid out page over the text based internet.
+Uniform Resource Locator: (URL): Each web site has a unique address commonly referred to as a
+URL. A URL specifies the exact location of the web page on the internet.
+A typical web address or URL looks as http:// www.microsoft.com/catalog/navigation.asp
+Explanation of the example URL:
+URL Element Explanation
+http Identifies protocol necessary to retrieve the file.
+WWW Indicates that the site is on the world wide web
+Microsoft Indicates the name of the web site
+.com Indicates the domain type of the web site
+/catalog/navigation.asp Specifies the path of the file stored on the web server‘s hard disk
+E-Mail
+E-mail or electronic mail is a service for sending or receiving messages electronically through a
+computer network. The electronic mail uses various technologies that support electronic transmission of
+text, data and graphics.
+Some of the features of E-mail are
+1. it is much faster than the normal mail. Messages can be sent within a matter of seconds to any
+part in the world.
+2. it can be sent to many people at the same time
+3. E-mail is cheaper than a phone call and an ordinary mail
+4. it can access information and file libraries on request
+5. E-mail user can have a mail box which is accessed through a computer terminal
+6. an E-mail message consists of two parts
+a) a header specifying the address of the sender and the address of the receiver
+b) the text of the message
+53
+7. The mailing system allows selecting messages for reading, displaying, saving, deleting,
+forwarding and replying.
+8. Mailing list can be created to send the same message to a group of people
+E-Mail Address: An E-Mail address consists of three parts
+1. The person‘s Login name
+2. @ sign
+3. Domain name
+A domain represents organization, network, and country name
+Ex: Statisitcs@hotmial.com in this Statistics is the user name and his account is in the domain
+hotmail.com. Both the names are separated by the @symbol.
+Search Engines :
+Search engines are utilities used to search for information on the web. A user interface is provided
+where you can enter the word or phrase you are searching for. The search engine looks for the keywords
+we have entered and returns the results of the search, providing links to relevant Web sites for us to
+choose from. Some commonly used search engines are MSN, Alta Vista, Google, Yahoo! search and
+Infoseek etc.
+*******
+54

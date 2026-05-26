@@ -1,0 +1,3035 @@
+C. No. DA 151 4 (2+2)
+FARM MACHINERY AND POWER
+Lecture Outlines
+S.No. Topic Page No.
+1 Farm power - sources of different farm power, advantages and
+disadvantages
+2. Farm power - sources of different farm power, advantages and
+disadvantages
+3 Types of Engines – Parts of Oil Engine, Technical Terms Used,
+Working Principle Of Petrol And Diesel Engine
+4 Types of Engines – Parts of Oil Engine, Technical Terms Used,
+Working Principle of Petrol And Diesel Engine
+5 Fuel supply system of I.C. engine – Quality characteristics of
+fuel- Ignition and power transmission system of I.C. engine
+6 Lubrication System - Objectives of Lubrication - Oil Testing --
+Lubrication System on Engine
+7 Engine Cooling System- Need of Cooling
+8 Tractors- Different Types of Tractors – Tractor Parts And
+Maintenance of Tractor
+9 Tractors- Different Types of Tractors – Tractor Parts And
+Maintenance of Tractor
+10 Tractors- Different Types of Tractors – Tractor Parts And
+Maintenance of Tractor
+11 Tractors- Different Types of Tractors – Tractor Parts And
+Maintenance of Tractor
+12 Working and Management of Power Tiller
+13 Traditional and Modern Agricultural Tools
+14 Disc Ploughs-Disc Angle
+15 Secondary Tillage Implements- Spike Tooth Harrow, Spring Tooth
+Harrow
+S.No. Topic Page No.
+16 Bund Former- Ridger- Cultivator Types
+17 Sowing Equipments- Seed Drills- Types
+18 Sprayers And Dusters
+19 Weed Control – Inter Cultivation Equipment
+20 Threshers- Combined Harvesters- Threshing types- Alpod
+thresher- Types of Cylinders
+21 Threshers- Combined Harvesters- Threshing types- Alpod
+thresher- Types of Cylinders
+22 Winnowing, Chaff cutter-Sugarcane crusher
+23 Winnowing, Chaff cutter-Sugarcane crusher
+24 Castor Decorticator-Maize Sheller
+25 Groundnut Decorticator
+26 Drying-Types of Drying- LSU Dryer
+27 Drying-Types of Drying- LSU Dryer
+28 Rice Milling
+29 Grain Storage structures
+30 Godowns- Types, Problems
+31 Godowns- Types, Problems
+32
+Storage Of Fodder-Types Of Silos
+LECTURE NO. 1& 2
+ENERGY SOURCES - SOURCES OF DIFFERENT FARM POWER
+ADVANTAGES AND DISADVANTAGES.
+1.0 Farm power
+India is agricultural dependent country and 65 to 75 % population in India dependents on
+agriculture as main employment. India has 329 m ha of land but very less per cent of land is
+cultivable hence there is need to bring the uncultivable land into cultivable land. Farm Power is an
+essential input in agriculture for timely field operations for increasing production and productivity
+of land. Farm power is used for operating different types of machinery like tillage, planting, plant
+protection, harvesting and threshing.
+SOURCES OF FARM POWER There are different sources of farm power available in India
+which are classified as:
+1. Human power
+2. Animal power
+3. Mechanical power (Tractors, Power tillers, Oil engines, etc.)
+4. Electrical power
+5. Renewable energy (Biogas, Solar energy, Wind energy, etc.)
+HUMAN POWER
+Human beings are the main source of power for operating small tools and implements at
+the farm. They are also employed for doing stationary work like threshing, winnowing,
+chaff cutting and lifting irrigation water. Of the total rural population in India, only 30%
+are involved for farm work. On an average, a man develops nearly 0.1 horse power (hp).
+Advantages: Easily available and used for all types of work.
+Disadvantages: Costliest power compared to all other farms of power, very low efficiency,
+requires full maintenance, when not in use and affected by weather condition and seasons.
+Nursery Pulling Transplanting Weedding
+3
+Animal power
+The most important source of power on the farm all over the world and particularly in
+India is animal. It is estimated that, nearly 80% of the total draft power used in agriculture
+throughout the World is still provided by animals. India has 22.68 crore cattle, which is the
+highest in the World. Mainly, bullocks and buffaloes happen to be the principle sources of
+animal power on Indian farms. However, camels, horses, donkeys and elephants are also
+used for the farm work. The average force a bullock can exert is nearly equal to one tenth
+of its body weight. Power developed by an average pair of bullocks is about 1 hp for usual
+farm work.
+Advantages:
+1. Easily available
+2. Used for all types of work
+3. Low initial investment
+4. Supplies manure to the field and fuels to farmers
+5. Live on farm produce
+Disadvantages:
+1. Not very efficient
+2. Efficiency will be affected by seasons and weather
+3. Can not perform the work continuously
+4. Require full maintenance even when there is no farm work
+5. Creates unhealthy and dirty atmosphere near the residence
+6. Very slow at work
+Ploughing with bullocks Transportion purpose
+Mechanical power
+Mechanical power includes movable oil engines are tractors, power tillers and self
+propelled combines and non movable stationary oil engines are flour mills, cotton gins,
+sugarcane crusher and sprayers. Based on type of fuel used, engines they are broadly classified
+into two types
+4
+1. Spark ignition engines (Petrol/ Kerosene engine)
+2. Compression ignition engines (Diesel engines)
+The oil engine is a highly efficient device for converting fuel into useful work.
+Thermal efficiency of diesel engine varies from 32 to 38 per cent while that of petrol
+engine varies from 25 to 32 per cent. In modern days, almost all the tractors and power
+tillers are operated by diesel engines. Diesel engines are used for operating irrigation
+pumps, flour mills, oil ghanis, cotton gins, chaff cutter, sugarcane crusher, threshers,
+winnowers, etc. In recent years, diesel engines, tractors and power tillers have gained
+considerable popularity in agricultural operations.
+Advantages:
+Highly efficient
+Not affected by weather
+Continuously perform the work; requires less space and cheaper form of power
+Different sizes are available depending on the power required
+Disadvantages:
+Initial capital investment is high;
+Fuel is costly and
+Repairs and maintenance needs technical knowledge.
+The above mentioned two types of engines are called internal and external
+combustion engines. They convert the thermal energy into mechanical energy.
+Tractor with Leveling blade Power Tiller Maize Sheller
+ELECTRICAL POWER
+Recently, Electricity became very important source of power in the country. It is used for
+irrigation and domestic water supply in the rural areas. Electrical power is used widely for
+running electrical motors for pumping water, dairy industry, cold storage, farm product
+processing, and cattle feed grinding. It is clean source of power and smooth running. Its
+maintenance and operation need less attention and care. On an average, about 1/10th of the total
+electrical power generated in India will be consuming for the farm work (approximately it is 4600
+mega watt).
+5
+Advantages:
+Very cheap form of power
+Highly efficient (can work at a stretch)
+Maintenance and operating cost is very low
+Not affected by weather conditions.
+Disadvantages:
+Initial capital investment is high
+Require good amount of technical knowledge
+Causes great danger, if handled without care,
+Electric motor + pump Chaff cutter Chaff cutter – motor driven
+WIND ENERGY
+Wind turbines works with wind energy. This is limited only to high winds. Wind speeds
+must be 8 to 10 km per hour to operate the wind turbines. They are used as a tool to draw the
+water from the wells, to run the flour grinding machines and to convert the wind energy into
+electrical energy. The coastal highlands and mountain areas are ideal places for this energy.
+RENEWABLE ENERGY
+The energy mainly obtained from renewable sources of energy like sun, wind, biomass
+etc. Biogas energy, wind energy and solar energy are used in agriculture and domestic
+purposes with suitable devices. Renewable energy can be used for lighting, cooking, water
+heating, space heating, water distillation, food processing, water pumping, and electric
+generation. This type of energy is inexhaustible in nature.
+Usage of renewable energy sources
+• Solar energy- Solar dryers, lantern, cooker, solar still, solar refrigeration, solar lighting
+etc.
+• Wind energy- Water pumping, electricity generation, etc.
+• Biomass energy- Gasifies to produce producer gas, pyrolysis to produce liquid fuels,
+Biogas, etc.
+• Tidal energy – electricity generation
+• Geothermal energy- Heat and electricity production
+Wind Fans Solar panel for solar energy Bio gas plant
+6
+LECTURE NO. 3 &4
+TYPES OF ENGINES – PARTS OF OIL ENGINE, TECHNICAL TERMS USED,
+WORKING PRINCIPLE OF PETROL AND DIESEL ENGINE
+Fuel is chemical substance which burns in the air that chemical energy turns into
+thermal energy. It can be available into liquid, solid and gaseous state. Solid fuels are coal
+and cock and liquid fuels include Acetone (C H ), Butane (C H ) and Methane (CH ).
+2 2 4 10 4
+Engine:
+Engine is a machine which is converting heat that was developed by burning fuel into
+useful work (or) it is equipment which generates thermal energy and transforms it into
+mechanical energy. Engine are classified into 4 types
+1. Based on combustion of fuel: (i) External combustion engine (ii) Internal combustion
+engine.
+External combustion engine: It is the engine designed to derive its power from the fuel
+which is burnt outside the engine cylinder. Combustion process utilizes heat in the form of
+steam, which is generated in a boiler which is placed separately from the working cylinder.
+Eg. Railway engine, steam engine
+Internal combustion engine (I. C. Engine): It is the engine designed to derive its power
+from the fuel, burnt within the engine cylinder. Combustion of fuel and generation of heat
+takes place within the cylinder of the engine.
+Eg. Oil engines, Motor car engine
+2. Based on fuel used 1. Diesel engine 2. Petrol engine 3. Gas engine
+Diesel engine – Diesel is used as fuel
+Petrol engine – Petrol is used as fuel
+Gas engines – Propane, Butane or Methane gases.
+3. Based on Cylinder number
+1. Single cylinder oil engine
+2. Double cylinder oil engine
+3. Four cylinder oil engine
+4. Multiple cylinder oil engine (more than 4)
+4. Based on cooling system
+1. Air cooled engine
+2. Water cooled engine
+Principle of I.C. Engine
+A mixture of fuel with correct amount of air is exploded in an engine cylinder which is
+closed at one end. Due to explosion, heat is released that causes the pressure of the burning
+gases to increase. The increased pressure, forces a close fitting piston to move down the
+cylinder. This movement of piston is transmitted to a crank shaft by a connecting rod so
+that the crankshaft turns a flywheel. This explosion has to be repeated to obtain continuous
+rotation of the crankshaft. Prior to this, the burnt gases have to be expelled from the
+cylinder. At the same time the fresh charge of fuel and air must be admitted and the piston
+must be returns back to its starting position. The sequence of events is known as working
+cycle.
+Working of I.C. Engine
+I.C. engine converts the reciprocating motion of piston into rotary motion of the crankshaft
+by means of connecting rod. The piston which reciprocates in the cylinder is very close fit
+in the cylinder. Rings are inserted in the circumferential grooves of the piston to prevent
+7
+leakage of gases from sides of the piston. Usually a cylinder is bored in a cylinder block. A
+gasket made of copper sheet or asbestos is inserted between the cylinder and the cylinder
+head. The combustion space is provided at the top of the cylinder head where combustion
+takes place. There is a rod called connecting rod for connecting the piston and the
+crankshaft. A pin called gudgeon pin or wristpin is provided for connecting the piston
+and the connecting rod of the engine. The end of the connecting rod which fits over the
+gudgeon pin is called small end of the connecting rod. The other end which fits over the
+crank pin is called big end of the connecting rod. The crankshaft rotates in main bearings
+which are fitted in the crankcase. A flywheel is provided at one end of the crankshaft for
+smoothening the uneven torque, produced by the engine. There is an oil sump at the
+bottom of the engine which contains lubricating oil for lubricating different parts of the
+engine.
+Fig. Working components of I.C. Engine
+Engine components
+Internal combustion engine consists of the following parts:
+Cylinder: It is the basic part of the engine which confines the expanding gases and forms
+the combustion space. It provides space in which piston operates to suck the air or air-fuel
+mixture. The piston compresses the charge and the gas is allowed to expand in the
+cylinder, transmitting power for useful work. Cylinders are usually made of high grade
+cast-iron.
+8
+Fig. Components of I.C. Engine
+Cylinder block: It is the solid casting which includes the cylinder and water jackets
+(cooling fins in the air cooled engines).
+Cylinder head: It is detachable portion of an engine which covers the cylinder and
+includes the combustion chamber, spark plugs and valves.
+Cylinder liner or sleeve: It is a cylindrical lining either wet or dry which is inserted in the
+cylinder block in which the piston slides. Cylinder liners are fitted in the cylinder bore and
+they are easily replaceable. Liners are classified as dry liner, and wet liner. Dry liner makes
+metal to metal contact with the cylinder block casting. Wet liners come in contact with the
+cooling water, whereas dry liners do not come in contact with cooling water.
+Piston: It is a cylindrical part closed at one end which maintains a close sliding fit in the
+engine cylinder. It is connected to the connecting rod by a piston pin. The force of the
+expanding gases against the closed end of the piston, forces the piston down in the
+cylinder. This causes the connecting rod to rotate the crankshaft. Cast iron is chosen due
+to its high compressive strength, low coefficient of expansion, resistance to high
+temperature, ease of casting and low cost. Aluminum and its alloys are preferred mainly
+due to its lightness.
+Head (crown) of piston: It is top of the piston.
+Skirt: It is that portion of the piston below the piston pin which is designed to absorb the
+side movements of the piston.
+Piston ring: It is a split expansion ring, placed in the groove of the piston. Piston rings are
+fitted in the grooves, made in the piston. They are usually made of cast iron or pressed
+steel alloy. The functions of the ring are as follows:
+(a) Forms a gas tight combustion chamber for all positions of piston.
+(b) Reduces contact area between cylinder wall and piston wall for preventing friction
+losses and excessive wear.
+(c) Controls the cylinder lubrication.
+(d) Transmits the heat away from the piston to the cylinder walls.
+Piston rings are of two types:
+(a) Compression ring
+(b) Oil ring.
+(a) Compression ring. Compression rings are usually plain made up of cast iron, when
+two ends of the ring joints there will be small gap and it is single piece and are always
+placed in the grooves of the piston nearest to the piston head. They prevent leakage of
+gases from the cylinder and helps increasing compression pressure inside the cylinder.
+Commonly two to three rings are used.
+(b) Oil ring. Oil rings are grooved or slotted and are located either in lowest groove above
+the piston pin or in a groove above the piston skirt. They control the distribution of
+lubrication oil in the cylinder and the piston. They prevent excessive oil consumption. Oil
+ring is provided with small holes through which excess oil returns back to the crankcase
+chamber.
+Piston pin: It is also called wrist pin or gudgeon pin. It is used to join the connecting rod
+to the piston. It provides a flexible or hinge like connection between the piston and the
+connecting rod. It is usually made of case hardened alloy steel.
+Connecting rod: It is a special type of rod, one end of which is attached to the piston and
+the other end to the crankshaft. It transmits the power of combustion to the crankshaft and
+makes it rotate continuously. It is usually made of drop forged steel.
+Crankshaft: It is the main shaft of an engine which converts the reciprocating motion of
+the piston into rotary motion of the flywheel. Usually the crankshaft is made of drop forged
+steel or cast steel. The space that supports the crankshaft in the cylinder block is called
+main journal, whereas the part to which connecting rod is attached is known as crank
+journal.
+9
+Fly wheel: Fly wheel is made of cast iron. Its main functions are as follows:
+(a) It stores energy during power stroke and returns back the same energy during the idle
+strokes, providing a uniform rotary motion by virtue of its inertia.
+(b) It also carries ring gear that meshes with the pinion of the starting motor.
+(c) The rear surface of the flywheel serves as one of the pressure surfaces for the clutch
+plate.
+(d) Engine timing marks are usually stamped on the flywheel, which helps in adjusting the
+timing of the engine.
+(e) Some times the flywheel serves the purpose of a pulley for transmitting power.
+Crankcase: The crankcase is that part of the engine which supports and encloses the
+crankshaft and camshaft. It provides a reservoir for the lubricating oil of the engine.
+Cam shaft: It is a shaft which raises and lowers the inlet and exhaust valves at proper
+time. Camshaft is driven by crankshaft by means of gears, chains or sprockets. The speed
+of the camshaft is exactly half the speed of the crankshaft in four stroke engine. Camshaft
+operates the ignition timing mechanism, lubricating oil pump and fuel pump. It is mounted
+in the crankcase, parallel to the crank shaft.
+Timing gear: Timing gear is a combination of gears, one gear of which is mounted at one
+end of the camshaft and other gear on the end of the end of the crankshaft. Camshaft gear
+is bigger in size than that of the crankshaft gear and it has twice as many teeth as that of
+the losing crankshaft gear. For this reason, this gear is commonly called Half time gear.
+Timing gear controls the timing of ignition, timing of opening and closing of valves as
+well as fuel injection timing.
+Inlet manifold: It is that part of the engine through which air or air-fuel mixture enters into
+the engine cylinder. It is fitted by the side of the cylinder head.
+Exhaust manifold: It is that part of the engine through which exhaust gases go out of the
+engine cylinder. It is capable of with-standing high temperature of burnt gases. It is fitted
+by the side of the cylinder head.
+Top Dead Centre - When the piston is at the top of its stroke, it is said to be at the Top Dead
+Centre (TDC),
+Bottom Dead Centre - when the piston is at the bottom of its stroke, it is said to be at its Bottom
+Dead Centre (BDC).
+In two stroke cycle engine both the sides of the piston are effective which is not the case in four
+stroke cycle engine.
+Stroke - It is the linear distance travelled by the piston from Top dead centre (TDC) to Bottom
+dead centre (BDC).
+Clearance volume: It is the gap between the cylinder bottom and cylinder when it reaches to the
+top dead center.
+Classification of Internal Combustion Engine
+Internal combustion engines are classified in two types depending on the period required to
+complete a cycle of operation. They are four stroke and two stroke engines.
+1. When the cycle is completed in two revolutions of the crankshaft, it is called four
+stroke cycle engines.
+2. When the cycle is completed in one revolution of the crankshaft, it is called
+two stroke cycle engines.
+I.C. engines are of two types:
+(i) Petrol engine (carburetor type, spark ignition engine)
+(ii) Diesel engine (compression ignition engine).
+Petrol engine: It is the engine, in which liquid fuel is atomized, vaporized and mixed with
+air in correct proportion before entering onto the engine cylinder during suction stroke.
+The fuel is ignited in the cylinder by an electric spark.
+10
+Diesel engine: During suction stroke, only air is entered into the cylinder and compressed.
+The fuel is injected through fuel injectors and ignited by heat of compression.
+Working of four stroke cycle engine
+In four stroke cycle engine, all the events taking place inside the engine cylinder are
+completed in four strokes of the piston i.e., suction, compression, power and exhaust stroke
+(Fig.3). This engine valves for controlling the inlet of charge and outlet of exhaust gases.
+In two stroke cycle engine, all the events take place in two strokes of the piston.
+The four strokes of the piston are as follows:
+1. Suction stroke: During this stroke, only air or mixture of air and fuel are drawn inside
+the cylinder. The charge enters the engine through inlet valve which remains open during
+admission of charge. The exhaust valve remains closed during this stroke. The pressure in
+the engine cylinder is less than atmospheric pressure during this stroke.
+2. Compression strike: The charge taken in the cylinder is compressed by the piston
+during this stroke. The entire charge of the cylinder is compressed to a small volume
+contained in the clearance volume of the cylinder. If only air is compressed in the cylinder
+(as in the case of diesel engine), the fuel is injected at the end of the compression stroke.
+The ignition takes place due to high pressure and temperature. If the mixture of air and fuel
+is compressed in the cylinder (as in the case of spark ignition engine i.e., petrol engine), the
+mixture is ignited by spark plug. After ignition, tremendous amount of heat is generated,
+causing very high pressure in the cylinder which pushes the piston backward for useful
+work. Both valves are closed during this stroke.
+3. Power stroke: During power stroke, the high pressure developed due to combustion of
+fuel causes the piston to be forced downwards. The connecting rod with the help of
+crankshaft transmits the power to the transmission system for useful work. Both valves are
+closed during this stroke.
+4. Exhaust stroke: Exhaust gases go out through exhaust valves during this stroke. All
+the burnt gases go out of the engine and the cylinder becomes ready to receive the fresh
+charge. The inlet valve is closed and exhaust valve remains open during this stroke. The
+exhaust valve is closed just after the end of the exhaust stroke and the inlet valve is opened
+just before the burning of the suction stroke to repeat the cycle of operation.
+Thus it is found that out of four strokes, there is only one power stroke and three
+idle strokes. The power stroke supplies necessary momentum for useful work.
+Fig. Working of four stroke cycle engine
+Two stroke cycle engine
+Whole sequence of events i.e. suction, compression, power and exhaust are completed in
+two strokes of the piston and in one complete revolution of the crankshaft in this type of
+engines. There is no valve in this type of engine. Gas movement takes place through holes
+called ports in the cylinder. The crankcase of the engine is gas tight in which the crankshaft
+rotates.
+11
+Fig.4. Working of two stroke cycle engine
+First stroke (suction + compression): When the piston moves up the cylinder, it covers
+two of the ports, the exhaust port and the transfer port, which are normally almost opposite
+to each other. This traps a charge of fresh mixture in the cylinder and further upward
+movement of the piston compresses this charge. Further movement of the piston also
+uncovers a third port in the cylinder suction port. More fresh mixture is drawn through this
+port into the crankcase. Just before the end of this stroke, the mixture in the cylinder is
+ignited as in the four stroke cycle.
+Second stroke (Power + exhaust): The rise in pressure in the cylinder caused by the
+burning gases forces the piston to move down the cylinder. When the piston goes down, it
+covers and closes the suction port, trapping the mixture drawn into the crankcase during
+the previous stroke then compressing it. Further downward movements of the piston
+uncover first the exhaust port and then transfer port. This allows the burnt gases to flow out
+through exhaust port. Also the fresh mixture under pressure in the crankcase is transferred
+into the cylinder through transfer port during this stroke. Special shaped piston crown
+deflect the incoming mixture up around the cylinder so that it can help in driving out the
+exhaust gases.
+When the piston is at the top of its stroke, it is said to be at the top dead centre (TDC).
+When the piston is at the bottom of its stroke, it is said to be at its bottom dead centre
+(BDC). In two stroke cycle engine, both the sides of the piston are effective, which is not
+the case in case of four stroke cycle engine.
+Scavenging: The process of removal of burnt or exhaust gases from the engine cylinder is
+known as scavenging. Entire burnt gases do not go out in normal stroke, hence some type
+of blower or compressor is used to remove the exhaust gases in two stroke cycle engine.
+12
+Comparison between diesel and petrol (carburetor) engines
+S. Diesel engine Petrol engine
+No.
+1. Diesel is used as fuel. Petrol or kerosene are used.
+2. Air alone is taken in during Mixture of air and fuel is taken in.
+suction stroke.
+3. Fuel is injected into super heated air of Air-fuel is compressed in the
+the combustion space where burning combustion chamber where it is
+takes place. ignited by an electric spark.
+4. Air-fuel ratio is not constant Air and fuel are almost always in the
+ratio of 15:1, but to vary the engine
+power, quantity of mixture is varied.
+5. Compression ratio of the engine varies Compression ratio of the engine varies
+from 14:1 to 20:1. from 5:1 to 8:1.
+6. Specific fuel consumption is about 0.2 kg Specific fuel consumption is about
+per BHP per hour. 0.29 kg per BHP per hour.
+7. 4.5 litres of fuel is sufficient for nearly 20 4.5 litres of fuel will last about 12 hp
+hp hour. hour.
+8. Diesel engine develops more torque, This characteristic is not present in
+when it is heavily loaded. carburetor engines.
+9. Thermal efficiency varies between Thermal efficiency varies between 25
+32 and 38%. and 32%.
+10. It runs at a lower Combustion gas temperature is slightly higher under partload.
+temperature
+11. Engine weight per horse power is high. Engine weight per horse power is
+comparatively low.
+12. High initial cost. Low initial cost.
+13. Low operating cost. High operating cost.
+13
+Comparison between two stroke and four stroke engines
+S. Particulars Four stroke engine Two stroke engine
+No.
+1. No. of power strokes one power stroke for every one power stroke for each
+two revolutions revolutions
+of the crankshaft of the crankshaft
+2. Power for the same Small Large (about 1.5 times of 4 stroke)
+cylinder volume
+3. Valve mechanism Present Ports instead of valves
+4. Construction and cost Complicated and expensive Simple, cheap
+5. Fuel consumption Little High (about 15% more)
+6. Removal of exhaust Easy Difficult
+gases
+7. Durability Good Poor
+8. Stability of operation High Low
+9. Lubrication Equipped with an Using fuel, mixed with
+independent lubricating oil
+lubricating oil circuit
+10. Oil consumption Little Much
+11. Carbon deposit inside Not so much Much because of mixed fuel
+cylinder
+12. Noise Suction & exhaust is Suction & exhaust is noiseless,
+noiseless, but other working is but other working is noise less
+noisy
+13. Air tight of crankcase Un necessary Must be sealed
+14. Cooling Normal Chances of overheating
+15. Self weight and size Heavy & large Light & small
+14
+LECTURE NO.5
+FUEL SUPPLY SYSTEM OF I.C. ENGINE – QUALITY CHARACTERISTICS
+OF FUEL- IGNITION AND POWER TRANSMISSION SYSTEM OF I.C ENGINE
+Fuel and fuel supply system
+Fuel is a substance consumed by the engine to produce energy. The common fuels for IC
+engines are: (i) petrol (ii) power kerosene, (iii) high speed diesel oil (H.S.D oil) and (iv)
+light diesel oil (L.D.O)
+S.No Fuel American Specific Calorific
+Petroleum gravity value
+Institute Degree
+1. Light diesel oil (LSD) 22 0.920 10300
+2. High speed diesel oil (HSD) 31 0.820 10550
+3 Power kerosene 40 0.827 10850
+4 Petrol 63 0.730 11100
+Quality of fuel
+The quality of fuel mainly depends upon the following properties: (i) Volatility of fuel, (ii)
+Calorific value and (iii) Ignition quality of fuel. A good fuel contains a combination of
+qualities such as good volatility, high antiknock value, chemical purity, and freedom from
+gum.
+Volatility of fuel
+Volatility of fuel has considerable effect on the performance of the engine by affecting the
+following:
+(i) Ease of starting the engine.
+(ii) Degree of crankcase oil dilution,
+(iii) Formation of vapour lock in the fuel system
+(iv) Accelerating characteristics of the engine
+(v) Distribution of fuel in multi-cylinder engine.
+In I. C. engine, all the liquid fuel must be converted into vapor fuel before burning. High
+speed diesel oil is most difficult to vaporize. Vaporizing temperature of high speed diesel oil is
+higher than that of the petrol, Hence petrol vaporizes quicker than diesel oil in the engine
+cylinder. This helps in easy starting of petrol engines.
+Calorific value
+The heat liberated by combustion of a fuel is known as calorific value or heat value of the
+fuel. It is expressed in kcal/kg of the fuel. Calorific values (kcal/kg) of different fuels are
+as follows:
+1) Petrol – 11,100 (highest)
+2) Power kerosene –10,850
+3) High speed diesel oil (HSD oil)-10,550
+4) Light diesel oil (LDO oil) –10,300
+Ignition quality
+It refers to ease of burning the oil in the combustion chamber. Octane number and cetane
+number are the measures of ignition quality of the fuel. Octane number is standard yardstick
+for measuring knock characteristics of fuels.
+Cetane number is the relative measure of the interval between the beginning of injection
+and auto-ignition of the fuel. The higher the cetane number, the shorter the delay interval and
+the greater its combustibility. Fuels with low cetane Numbers will result in difficult starting,
+noise and exhaust smoke.
+15
+Quality of the fuel can be tested by using the following tests fuel:
+1. Gravity test
+2. Distillation test
+3. Vapour pressure test
+4. Sulphur test
+5. Carbon test
+6. Colour test
+7. Gum test
+8. Flash test
+Important Properties of diesel engine
+1. High speed diesel oil (HSD)
+2. Light diesel oil (LDO)
+High speed diesel oil is used in high speed engine vehicles and it is
+Lighter weight than LDO. Light diesel oil is used in low speed engine vehicles.
+Fuel supply system in compression ignition engine or diesel engine
+The main components of the fuel supply system in diesel engine are:
+(i) Fuel tank, (ii) Primary fuel filter, (iii) Fuel transfer pump or fuel lift pump, (iv) Secondary
+fuel filter, (v) Fuel injection pump, (vi) High pressure pipes, (vii) Fuel injection nozzles or fuel
+injectors and over flow pipe.
+Fuel is drawn from fuel tank by fuel feed pump and forced to injection pump through fuel
+filter. The injection pump supplies high pressure fuel to injection nozzles through delivery valves
+and high pressure pipes. Fuel is injected into the combustion chamber through injection nozzles.
+The fuel that leaks out from the injection nozzles passes out through leakage pipe and returns to
+the fuel tank through the over flow pipe. Over flow valve installed at the top of the filter keeps the
+feed pressure under specified limit. If the feed pressure exceeds the specified limit, the over flow
+valve opens and then the excess fuel returns to fuel tank through over flow pipe.
+During engine operation, the fuel is supplied by gravity from fuel tank to the
+primary filter where coarse impurities are removed. From the primary filter, the fuel is
+drawn by fuel transfer pump. This pump is also known as fuel lift pump, is activated by a
+cam on the engine camshaft. The fuel lift pump forces fuel under low pressure (2.5kg/cm2)
+through the secondary fuel.
+Fuel tank: It is a storage tank for diesel. A wire gauge strainer is provided under the cap to
+prevent foreign particles entering the tank.
+Fuel lift pump: It transfers fuel from fuel tank to inlet gallery of fuel injection pump.
+Preliminary filter (sediment bowl assembly): This filter is mostly fitted on fuel lift pump. It
+prevents foreign materials from reaching inside the fuel line. It consists of a glass cap with a
+gasket.
+Fuel filter: Mostly two stage filters are used in diesel engines
+1. Primary filter
+2. Secondary filter
+16
+Primary filter removes course materials, water and dust while,Secondary filter removes
+fine dust particles.
+Fuel injection pump: It is a high pressure pump which supplies fuel to the injectors according to
+the firing order of the engine. It is used to create pressure varying from 120 kg/cm2 to 300 kg/cm2.
+It supplies the required quantity of fuel to each cylinder at appropriate time.
+Air venting of fuel system: When air has entered the fuel lines or suction chamber of the
+injection pump, venting should be done properly. Air is removed by the priming pump through
+the bleeding holes of the injection pump.
+Fuel injector: It is the component which delivers finely atomized fuel under high pressure to
+combustion chamber of the engine. Modern tractor engines use fuel injectors which have multiple
+holes.
+Main parts of injectors are nozzle body, and needle valve. The needle valve is pressed
+against a conical seat in the nozzle body by a spring. The injection pressure is adjusted by
+adjusting a screw. In operation, fuel from injection pump enters the nozzle body through high
+pressure pipe. When fuel pressure becomes so high that it exceeds the set spring pressure, the
+needle valve lifts off its seat. The fuel is forced out of the nozzle spray holes into the combustion
+chamber.
+FUEL SUPPLY SYSTEM IN SPARK IGNITION ENGINE
+The fuel supply system of spark ignition engine consists of
+(i) Fuel tank
+(ii) Fuel filter
+(iii) Sediment bowl
+(iv) Fuel lift pump
+(v) Carburetor
+(vi) Fuel pipes
+(vii) Inlet manifold
+In some spark ignition engine, the fuel tank is placed above the level of the carburetor.
+The fuel flows from the fuel tank to the carburetor under the action of gravity. There are one or
+two filters between the fuel tank and the carburetor. A transparent sediment bowl is also provided
+to hold the dust and dirt of the fuel. If the tank is below the level of the carburetor, a lift pump is
+provided in between the tank and the carburetor for forcing fuel from the tank to the carburetor of
+the engine. The fuel comes from the fuel tank to the sediment bowl and then to the lift pump.
+From there the fuel goes to the carburetor through suitable pipe. From the carburetor, the fuel
+goes to the engine cylinder, through the inlet manifold of the engine.
+Fig. Fuel supply system in diesel engine
+filter to the injection pump, which is generally driven by the camshaft. The purpose of fuel
+injection pump is to deliver a metered quantity of fuel at a predetermined time under
+pressure (120 to 175 kg/cm2 or more) through the high pressure tubes to the injection
+17
+nozzles or injectors. The fuel that leaks out from the injection nozzles passes out through
+leakage pipe and returns to the fuel tank through the over flow pipe. In some tractors and
+industrial engines, the fuel supply is by gravity and hence no fuel lift pump is provided.
+Two conditions are essential for efficient operation of the system:
+(a) The fuel should be clean, free from water, suspended dirt, sand or other foreign matter.
+(b) The fuel injection pump should create proper pressure, so that diesel fuel may be
+perfectly atomized by injectors at proper time and quantity.
+18
+LECTURE NO.6
+LUBRICATION SYSTEM - OBJECTIVES OF LUBRICATION - OIL TESTING -
+- LUBRICATION SYSTEM ON ENGINE
+I. C. engine is made of many moving parts. Due to continuous movement of two metallic
+surfaces over each other, there is wearing moving parts, generation of heat and loss of power in
+the engine lubrication of moving parts is essential to prevent all these harmful effects.
+PURPOSE OF LUBRICATION
+Lubrication produces the following effects: (a) Reducing friction effect (b) Cooling effect (c)
+Sealing effect (d) Cleaning effect.
+(a) Reducing frictional effect: The primary purpose of the lubrication is to reduce friction and
+wear between two rubbing surfaces. Two rubbing surfaces always produce friction. The
+continuous friction produce heat which causes wearing of parts and loss of power. In order to
+avoid friction, the contact of two sliding surfaces must be reduced as far a possible. This can be
+done by proper lubrication only. Lubrication forms an oil film between two moving surfaces.
+Lubrication also reduces noise produced by the movement of two metal surfaces over each other.
+(b) Cooling effect: The heat, generated by piston, cylinder, and bearings is removed by
+lubrication to a great extent. Lubrication creates cooling effect on the engine parts.
+(c) Sealing effect: The lubricant enters into the gap between the cylinder liner, piston and piston
+rings. Thus, it prevents leakage of gases from the engine cylinder.
+(d) Cleaning effect: Lubrication keeps the engine clean by removing dirt or carbon from inside of
+the engine along with the oil.
+Engine lubrication system The lubricating system of an engine is an arrangement of mechanisms
+which maintains the supply of lubricating oil to the rubbing surfaces of an engine at correct
+pressure and temperature. The parts which require lubrication are
+1. Cylinder walls and piston
+2. Piston pin
+3. Crankshaft and connecting rod bearings
+4. Camshaft bearings
+5. Valve operating mechanism
+6. Cooling fan
+7. Water pump and
+8. Ignition mechanism
+ENGINE LUBRICATING SYSTEM
+The lubricating system of an engine is an arrangement of mechanism and devices which maintains
+supply of lubricating oil to the rubbing surface of an engine at correct pressure and temperature.
+The parts which require lubrication are:
+(i) cylinder walls and piston (ii) piston pin (iii) crankshaft and connecting rod bearings (iv)
+camshaft bearings (v) valves and valve operating mechanism (vi) cooling fan(vii) water pump and
+(viii) ignition mechanism.
+There are three common systems of lubrication used on stationary engines, tractor engines and
+automobiles:
+(i) Splash system (ii) Forced feed system.
+SPLASH SYSTEM
+In this system, there is an oil trough, provided below the connecting rod. Oil is maintained at a
+uniform level in the oil trough. This is obtained by maintaining a continuous flow of oil from the
+oil sump or reservoir into a splash pan, which has a depression or a trough like arrangement under
+each connecting rod. This pan receives its oil supply from the oil sump either by means of a gear
+19
+pump or by gravity. A dipper is provided at the lower end of the connecting rod. This dipper dips
+into to oil trough and splashes oil out of the pan. The splashing action of oil maintains a fog or
+mist of oil that drenches the inner parts of the engine such as bearings, cylinder walls, pistons,
+piston pins, timing gears etc
+.
+Splash lubrication system
+This system is usually used on single cylinder engine with closes crankcase. For effective
+functioning of the engine, proper level of oil maintained in the oil pan. Lubrication depends
+largely upon the size of oil holes and clearances. This system is very effective if the oil is clean
+and undiluted. Its disadvantages are that lubrication is not very uniform and when the rings are
+worn, the oil passes the piston into combustion chamber, causing carbon deposition, blue smoke
+and spoiling the plugs. There is every possibility that oil may become very thin through crankcase
+dilution. The worn metal, dust and carbon may be collected in the oil chamber and be carried to
+different parts of the engine, causing wear and tear.
+FORCED FEED SYSTEM
+In this system, the oil is pumped directly to the crankshaft, connecting rod, piston pin, timing
+gears and camshaft of the engine through suitable paths of oil. Usually the oil first enters the main
+gallery, which maybe a pipe or a channel in the crankcase casting. From this pipe, it goes to each
+of the main bearings through holes. From main bearings, it goes to big end bearings of connecting
+rod through drilled holes in the crankshaft. From there, it goes to lubricate the walls, pistons and
+rings. There is separate oil gallery to lubricate timing gears. Lubricating oil pump is a positive
+displacement pump, usually gear type or vane type. The oil also goes to valve stem and rocker
+arm shaft under pressure through an oil gallery.
+The excess oil comes back from the cylinder head to the crankcase. The pump discharges
+oil into oil pipes, oil galleries or ducts, leading different parts of the engine. This system is
+commonly used on high speed multi-cylinder engine in tractors, trucks and automobiles.
+20
+TROUBLES IN LUBRICATION SYSTEM
+There are a few common troubles in lubrication system such as: (1) Excessive oil
+consumption (2) Low oil pressure and (3) Excessive oil pressure
+Excessive oil consumption: When there is excessive oil consumption in the engine, the reasons
+are :
+(a) More oil goes to combustion chamber and gets burnt
+(b) Some leakage occurs in some part of the line and
+(c) Loss of oil in form of vapour through ventilating system. Oil can enter the combustion
+chamber through rings and cylinder walls, worn piston rings and worn bearings.
+Low oil pressure: Low oil pressure can result due to:
+(i) weak relief valve spring
+(ii) worn oil pump
+(iii) cracked oil line
+(iv) obstruction in the oil lines
+(v) very thin oil and
+(vi) worn out bearings.
+Care should be taken to remove these defects as far as possible to increase the oil pressure in
+the lubricating system. Sometimes defective oil pressure indicator shows low oil pressure. This
+should be checked.
+Excessive oil pressure: Excessive oil pressure may result due to :
+(i) stuck relief valve
+(ii) strong valve spring
+(iii) clogged oil line and
+(iv) very heavy oil.
+These defects should be removed to reduce the excessive oil pressure in the lubricating system.
+Sometimes defective oil pressure indicator records high oil pressure. Care should be taken to
+check this defect.
+CARE AND MAINTENANCE OF LUBRICATION SYSTEM
+The following are few suggestions for good lubrication system:
+• A good design of oil circulation system should be chosen.
+• Correct grade of lubricant ensures long and trouble free service.
+• Oil should be maintained at desired level in the oil chamber.
+• Oil should be cleaned regularly and after specified period of use, old filters should be
+replaced by new filters.
+• Connections, pipings, valves and pressure gauge should be checked regularly.
+• Oil should be changed regularly after specified interval of time. Before putting the new
+oil, the crankcase should be cleaned and flushed well with flushing oil.
+• Precautions should be taken to keep the oil free from dust and water.
+21
+LECTURE NO.7
+ENGINE COOLING SYSTEM- NEED OF COOLING
+Fuel is burnt inside the cylinder of an internal combustion engine to produce power.
+The temperature produced on the power stroke of an engine can be as high as 1600ºC and
+this is greater than melting point of engine parts.
+The cylinder and cylinder head are usually made of cast iron and pistons in most cases
+are made of aluminum alloy. It is estimated that about 40 % of total heat produced is
+passed to the atmosphere via exhaust, 30 % is removed by cooling system and only about
+30% is used to produce useful power.
+Bad effects of high temperature in the engine
+(i) Cylinder and piston may expand to such an extent that the piston would seize in the
+cylinder and stop the engine.
+(ii) Lubricating quality of the oil inside the cylinder would be destroyed due to high
+temperature and there may not be sucking of air in the cylinder.
+(iii) Pre-ignition of fuel mixture would take place and would cause engine knocking as
+well as loss of power.
+For satisfactory performance of the engine, neither overheating nor over- cooling is
+desirable. Experiments have shown that best operating temperature of I.C engine lies
+between 140ºF to 200 ºF, depending upon types of engines and load conditions.
+Purpose of cooling
+(i) To maintain optimum temperature of engine for efficient operation under all
+conditions.
+(ii) To dissipate surplus heat for protection of engine components like cylinder, cylinder
+head, piston, piston rings and valves.
+(iii) To maintain the lubricating property of the oil inside the engine cylinder for normal
+functioning of the engine.
+There are two different methods of cooling: (i) air cooling and (ii) water cooling.
+Air cooling
+Heat is conducted from the working components of the engine to the atmosphere
+directly. In such engines, cylinders are generally not grouped in a block.
+Principle of air cooling
+The cylinder of an air cooled engine has fins to increase the area of contact of air for
+speedy cooling. The cylinder is normally enclosed in a sheet metal casing called Cowling.
+The flywheel has blades projecting from its face, so that it acts like a fan drawing air
+through a hole in the cowling and directing it around the finned cylinder. For maintenance
+of air cooling system, passage of air is kept clean by removing grasses etc. This is done by
+removing the cowling and cleaning out the dirt by a stiff brush or compressed air. When
+separate fan is provided, the belt tension is to be checked and adjusted if necessary.
+Advantages of air cooled engine
+1. It is simple in design and construction
+2. Water jackets, radiators, water pump, thermostat, pipes, hoses are not required
+3. It is more compact
+4. Lighter in weight
+Disadvantages
+1. There is uneven cooling of engine parts
+2. Engine temperature is generally high during working period
+22
+WATER COOLING SYSTEM Engines using water as cooling medium are called water cooled
+engines. Water is circulated round the cylinders to absorb heat from the cylinder walls. The heated
+water is conducted through a radiator to remove the heat and cool the water.
+Methods of water cooling
+1. Open jacket or hopper method
+2. Thermo siphon method
+3. Forced circulation method
+1. Open jacket method There is a hopper or jacket containing water which surrounds the engine
+cylinder. So long as the hopper contains water the engine continues to operate satisfactorily. As
+soon as the water starts boiling it is replaced by cold water. The hopper is large enough to run for
+several hours without refilling. A drain plug is provided in a low accessible position for draining
+water as and when required.
+2. Thermo siphon method It consists of a radiator, water jacket, fan, temperature gauge and hose
+connections. The system is based on the principle that heated water which surrounds the cylinder
+becomes lighter and it rises upwards in liquid column. Hot water goes to the radiator where it
+passes through tubes surrounded by air. Circulation of water takes place due to the reason that
+water jacket and radiator are connected at both sides i.e. at top and bottom. A fan is driven with
+the help of a V belt to suck air through tubes of the radiator unit, cooling radiator water. The
+disadvantage of the system is that circulation of water is greatly reduced by accumulation of scale
+or foreign matter in the passage and consequently causing over heating of the engine.
+3. Forced Circulation system In this method, a water pump is used to force water from radiator
+to the water jacket of the engine. After circulating the entire run of water jacket, water comes back
+to the radiator where it loses its heat by the process of radiation. To maintain the correct engine
+temperature, a thermostat valve is placed at the outer end of cylinder head. Cooling liquid is by-
+passed through the water jacket of the engine until the engine attains the desired temperature. The
+thermostat valve opens and the by-pass is closed, allowing the water to go to the radiator. The
+system consists of the following components
+1. Water pump 2. Radiator 3. Fan 4. Fan-belt
+5. Water jacket 6. Thermostat valve 7. Temperature gauge 8. Hose pipe
+Water pump It is a centrifugal pump. It draws the cooled water from bottom of the radiator and
+delivers it to the water jackets surrounding the engine. Thermostat valve It is a control valve
+used in cooling system to control the flow of water when activated by a temperature signal. Fan
+The fan is mounted on the water pump shaft. It is driven by the same belt that drives the pump and
+dynamo. The purpose of radiator is to provide strong draft of air through the radiator to improve
+engine cooling Water jacket - Water jackets are passages cored out around the engine cylinder as
+well as around the valve opening
+GOVERNOR: Governor is mechanical device, designed to control the speed of the engine with
+in specified limit., used on tractor or stationary engine for
+23
+1. Maintaining a nearly constant speed of engine under different load conditions
+2. Protecting the engine and attached equipments against high speeds, when the load is removed
+or reduced
+Fig. Working of forced circulation cooling system
+Power transmission system
+Transmission is a speed reducing mechanism, equipped with several gears. It may be
+called a sequence of gears and shafts, through which the engine power is transmitted to the
+tractor wheels. The system consists of various devices that cause forward and backward
+movement of tractor to suit different field condition. The complete path of power from the
+engine to the wheels is called power train.
+Fig. Power transmission system of tractor
+Function of power transmission system
+(i) To transmit power from the engine to the rear wheels of the tractor.
+(ii) To make reduced speed available, to rear wheels of the tractor.
+(iii) To alter the ratio of wheel speed and engine speed in order to suit the field conditions.
+(iv) To transmit power through right angle drive, because the crankshaft and rear axle are
+normally at right angles to each other.
+24
+The power transmission system consists of:
+(a) Clutch
+(b) Transmission gears
+(c) Differential
+(d) Final drive
+(e) Rear axle
+(f) Rear wheels.
+Combination of all these components is responsible for transmission of power.
+Clutch
+Clutch is a device, used to connect and disconnect the tractor engine from the
+transmission gears and drive wheels. Clutch transmits power by means of friction between
+driving members and driven members.
+Necessity of clutch in a tractor
+Clutch in a tractor is essential for the following reasons:
+(i) Engine needs cranking by any suitable device. For easy cranking, the engine is
+disconnected from the rest of the transmission unit by a suitable clutch. After starting the
+engine, the clutch is engaged to transmit power from the engine to the gear box.
+(ii) In order to change the gears, the gear box must be kept free from the engine power,
+otherwise the gear teeth will be damaged and engagement of gear will not be perfect. This
+work is done by a clutch.
+(iii) When the belt pulley of the tractor works in the field it needs to be stopped without
+stopping the engine. This is done by a clutch.
+25
+LECTURE NO. 8, 9, 10 and 11
+TRACTORS- DIFFERENT TYPES OF TRACTORS –
+TRACTOR PARTS AND MAI NTENANCE OF TRACTOR
+Farm tractor
+Tractor is a self propelled power unit having wheels or tracks for operating agricultural
+implements and machines including trailers. Tractor engine is used as a prime mover for
+active tools and stationary farm machinery through power take-off shaft (PTO) or belt
+pulley.
+Tractor development
+The present tractor is the result of gradual development of machine in different stages.
+History of tractor development is given below in chronological order.
+1890: The word tractor appeared first on record in a patent issued on a tractor or tractor
+engine invented by George H.Harris of Chicago.
+1906: Successful gasoline tractor was introduced by Charles W. Hart and Charles H.
+Parr of Charles city, Iowa (48A).
+1920-1924: All purpose tractor was developed.
+1936-1937: Diesel engine was used in tractor and pneumatic tires were introduced.
+1960-61: Tractor manufacturing was started in India by first manufacturer M/s Eicher
+Good Earth.
+1971: Escorts tractor Ltd started producing ford tractor.
+1982: Universal tractors were established.
+The tractors are classified into three classes on the basis of type of construction, type of
+drive and purpose.
+Based on type of construction:
+(a) Riding type tractors – Tractors in which a driver can sit and drive Eg. General
+purpose four wheel tractors.
+(b) Walking type tractors – Tractors with which the operator walks along Eg. Garden
+tractors, power tillers.
+Power Tillers
+Based on type of drive:
+(a) Track / crawler type tractors – In this type of tractors, one track is fitted instead of
+wheels on either side. This track gets drive from the sprocket run by rear axle shaft. To
+steer the tractor, there is not steering gear fitted. The tractor is steered by applying brakes
+to one side of the track with the other track moving. These are used for bulldozing or land
+clearing work.
+26
+(b) Wheel type of tractors – These are most commonly used agricultural tractors. They
+can run fast and wheel tyres absorb a certain amount of field shocks also. These can be
+further divided as :
+1) Two-wheel tractors – These tractors are used for small farms, hilly area and gardening
+purposes and are called power tillers.
+2) Three-wheel tractors – These tractors were very popular 15 years back but now its
+place has been taken by four wheel tractors. These tractors had single or dual wheel
+fitted at the front end in the centre and were considered good for negotiable shorter
+turns.
+Three wheel tractor
+3) Four-wheel tractors – These are most commonly used tractors in the country. These are
+also known as all purpose tractors. On the basis of available power, these have been
+classified as
+(1) Small tractors – 15 to 25 hp.
+(2) Medium tractors – 25 to 45 hp.
+(3) Large tractors – more than 45 hp.
+Four Wheel Tractor
+On the basis of purpose, wheeled tractor is classified into
+1. Utility Tractor 2. Row Crop Tractor 3. Orchard Tractor
+4. Industrial Tractor 5. Garden Tractor 6. Rotary Tractor 7. Earth moving Tractors
+27
+(a) Utility tractors / All purpose tractor –It is designed in such a way that it can meet
+practically all the demands for agricultural purposes such as ploughing, harrowing, leveling,
+pulling, seed drill, operating threshers, and pumps through its P.T.O. These are provided with
+three point linkages
+(b) Row crop tractors: It is mainly designed to work in rows like planting, inter culture
+etc. Such tractor is provided with replaceable driving wheels of different thread widths. It
+has high ground clearance to save damage of crops. Wide wheel track can be adjusted to
+suit inter row distance
+(c) Orchard type tractors - These are special types of tractors used in orchards. These are
+made very high in height so that driver while sitting on the seat, the operations on the trees
+could be performed. No part of the tractor is protruded outside so that tractor can go easily in
+between trees safely.
+(D) Industrial Tractors - these are special type tractors used in the Industrial purpose like
+pulling loads or fitted with crane boom for lifting loads and transporting of loads from one
+place to other place. Such tractors have i) low ground clearance ii) Increased engine power
+iii) good adhesion and iv) wide tyres
+28
+(d) Garden tractors - These tractors are in the range of 1 to 10 hp and are very small in
+construction.These are mostly used for kitchen or vegetable gardens.
+(e) Rotary Tillers - These are walking type of tractors and are used in small fields or on hills
+where fields are very small and are at different levels where ordinary tractors cannot work
+efficiently. Tined blades are fitted to the tillers to prepare the seedbeds quite effectively by
+pulverizing the soil. These are also used in rice fields for paddling and other operations.
+(f) Earth Moving tractors - These tractors are heavy in weight and strongly built available
+both is tract and tyre type. These are used for earth moving work on dams, quarries and other
+constructional works.
+Selection of tractor
+(i) Land holding: Under a single cropping pattern, it is normally recommended to
+consider 1hp for every 2 hectares of land. In other words, one tractor of 20-25 hp is
+suitable for 40 hectares farm.
+(ii) Cropping pattern: Generally,1.5 hectare/hp has been recommended where adequate
+irrigation facilities are available and more than one crop is taken. So a 30-35 hp tractor is
+suitable for 40 hectares farm.
+(iii) Soil condition: A tractor with less wheel base, higher ground clearance and low
+overall weight may work successfully in lighter soil but it will not be able to give sufficient
+depth in black cotton soil.
+(iv) Climatic conditions: For very hot zone and desert area, air cooled engines are
+preferred over water cooled engines. Similarly for higher altitude, air cooled engines are
+preferred because water is liable to be frozen at higher altitude.
+29
+(v) Repairing facilities: It should be ensured that the tractor to be purchased has a dealer
+at nearby place with all the technical skills for repair and maintenance of machine.
+(vi) Running cost: Tractors with less specific fuel consumption should be preferred over
+others so that running cost may belles.
+(vii) Initial cost and resale value: While keeping the resale value in mind, the initial cost
+should not be very high, otherwise higher amount of interest will have to be paid.
+(viii) Test report: Test report of tractors released from farm machinery testing stations
+should be consulted for guidance.
+Components of a Tractor:
+1. Engine
+2. Clutch
+3. Transmission
+4. Wheels
+5. Final drive
+6. Steering system
+7. Break systems
+8. Battery system
+9. Hydraulic lift
+10. Radiator
+11. P.T.O Shaft
+1. I.C engine
+Internal combustion of suitable horse power is used as a prime mover in a tractor. Engines
+ranging from 8 to 200 hp are used in agricultural tractors. In India, four wheel tractors for
+agricultural operations are fitted with 25-80 hp. Walking type tractors are fitted with 8-12 hp
+engines
+2. Clutch
+Clutch is a device, used to connect and disconnect the tractor engine from the transmission
+gears and drive wheels. Clutch transmits power by means of friction between driving members
+and driven members
+Necessity of clutch in a tractor
+1. Engine needs cranking by any suitable device. For easy cranking, the engine is disconnected
+from the rest of the transmission unit by the clutch. After starting the starting the engine, the
+clutch is engaged to transmit the power from engine to gear box
+2. In order to change the gears, the gear box must be kept free from engine power, otherwise the
+gear teeth will be damaged and engagement of gears will be difficult. This work is done by clutch
+3. When the belt pulley of the tractor works in the field it needs to be stopped with out stopping
+the engine. This is done by a clutch.
+3. Transmission gears
+A tractor runs at high speed, but the rear wheel of the tractor requires power at low speed and high
+torque. That’s why it becomes essential to reduce the engine speed and increase the torque
+available at the rear wheel of the tractor because If engine power is constant, it is obvious that for
+higher torque at wheels , low speed is required and vice versa.. So gear box is fitted between
+engine and rear wheels for variable speed and torque.
+4 wheels
+The front axle of the tractor has two wheels on both sides and two side wheels on the rear
+axle. These wheels propel the tractor through the power available from the engine
+5. Final drive
+Final drive is a gear reduction unit in the power trains between differentials and drive wheels.
+Final drive transmits the power finally to the rear axle and the wheels. The tractor rear wheels are
+not directly attached to the half shafts but the drive is taken through a pair of spur gears. Each half
+shaft terminates in a small gear which meshes with a large gear called bull gear. The bull gear is
+mounted on a shaft, carrying the tractor rear wheel. The device for final speed reduction, suitable
+for tractor rear wheels is known as final drive mechanism.
+6. Steering mechanism
+The system, governing the angular movement of front wheels of a tractor is called
+steering system. This system minimizes the efforts of the operator in turning the front wheels
+with the application of leverages. The different components of steering system are i)steering
+30
+wheel ii) steering shaft iii) steering gear iv) drag link v) steering arm vii) tie rod viii) king pin
+When the operator turns the steering wheel, the motion is transmitted through the steering shaft to
+the angular motion of the pitman arm through a set of gears. The angular movement of the pitman
+arm is further transmitted to the steering arm through drag link and tie rods. Steering arm are
+keyed to the respective king pins which are integral part of the stub axle on which wheels are
+mounted. The movement of steering arm affects the movement of front wheel.
+7. Brakes
+Brake is used to stop or slow down the motion of the tractor. It is mounted on the driving
+axle and operated by two independent pedals. Each pedal can be operated independently to assist
+the turning of tractor during field work or locked together by means of a lock. Types of brakes –
+a) Mechanical brake b) hydraulic brake
+8. Battery system
+Since the source of electricity in a tractor is the battery, An electric motor called a self-starter
+is fitted to the tractor to start the tractor engine. It is engine powered by a battery mounted on
+the tractor to provide electrical power to the engine. It is also used to illuminate the tractor
+front lights. Similarly, a charging dynamo can be fitted to the tractor to allow the battery to run
+longer. The electric power generated by this can be returned to the battery to keep them in
+working condition
+9. Hydraulic control system
+It is a mechanism in a tractor to raise, hold or lower the mounted implement or semi-mounted
+equipments by hydraulic means. All tractors are equipped with hydraulic control system for
+operating three point hitch of the tractor. Hydraulic system works on PASCAL‟s Law which
+states that pressure applied to an enclosed fluid is transmitted equally in all directions.
+Basic components of hydraulic system
+1. Hydraulic pump
+2. Hydraulic cylinder and piston
+3. Hydraulic tank
+4. Control valve
+5. Safety valve
+6. Hose pipe and fittings
+7. Lifting arms
+The hydraulic pump draws up oil from the oil reservoir and sends it to the control valve
+under high pressure. From the control valve, the oil goes to the hydraulic cylinder to operate the
+piston, which in turn, raises the arms. The implements attached with the arms are lifted up.
+10. Radiator
+The purpose of the radiator is to cool down the water received from the engine. The
+radiator consists of three main parts: (i) upper tank, (ii) lower tank and (iii) tubes. Hot water from
+the upper tank, which comes from the engine, flows downwards through the tubes. The heat
+contained in the hot water is conducted to the copper fins provided around the tubes. An overflow
+pipe, connected to the upper tank, permits excess water or steam to escape. There are three types
+of radiators: (i) grilled tube radiator, (ii) tubular radiator and (iii) honey comb or cellular radiator
+11. P.T.O Shaft
+PTO shaft is a standard fitting in all the tractors as special power transmission system
+provided with standard splined shaft at the rear of tractor after differential assembly system for
+special types of PTO operated machines for stationary as well as tractive works such as to run
+thresher, water lifting pump, centrifugal pumps, chaff cutter, electric motor, power generator,
+harvester etc. the PTO shaft is always kept covered at the exposed end to avoid accidents during
+operation. PTO drives consists of drive shaft, flexible couplings by the use of one or more
+universal joints, tractor pulley for belt drive rotary power transmission etc., it also provided with
+an additional gear unit and a tractor pulley to operate belt driven machines. The standard rpm
+developed at PTO shaft is 1000 rpm and directly proportionate to engine speed.
+31
+IMPORTANT TERMS CONNECTED WITH TRACTORS
+1. Wheel base: Wheel base is the horizontal distance between the front and rear wheels of a
+tractor
+2. Ground clearance: It is the height of the lowest point of the tractor from the ground surface,
+the tractor being loaded to its permissible weight
+3. Track: Track in the distance between the two wheels of the tractor on the same axle., measured
+at the ground contact
+4. Turning space: It is the diameter of the smallest circle, described by the outer most point of
+the tractor, while moving at a speed not exceeding 3 km/hr with the steering wheels in full lock.
+5. Cage wheels: It is a wheel or an attachment to a wheel with spaced cross bars for improving
+traction of the tractor in a wet field. It is generally used in paddy field
+POWER TRANSMISSION SYSTEM
+Transmission is a speed reducing mechanism, equipped with several gears. It may be called a
+sequence of gears and shafts, through which the engine power is transmitted to the tractor wheels.
+The system consists of various devices that cause forward and backward movement of tractor to
+suit different field condition. The complete path of power from the engine to the wheels is called
+power train.
+Function of power transmission system: (i) to transmit power from the engine to the rear wheels
+of the tractor, (ii) to make reduced speed available, to rear wheels of the tractor, (ii) to alter the
+ratio of wheel speed and engine speed in order to suit the field conditions and (iv) to transmit
+32
+power through right angle drive, because the crankshaft and rear axle are normally at right angles
+to each other. The power transmission system consists of: (a) Clutch (b) Transmission gears (c)
+Differential (d) Final drive (e) Rear axle (f) Rear wheels. Combination of all these components is
+responsible for transmission of power.
+Gears and Types of Gears:
+A gear is a toothed wheel designed to transmit torque to another gear or toothed
+component. The teeth (or cogs) of a gear are shaped to minimize wear, vibration and noise, and to
+maximize the efficiency of power transmission.
+Types of gear:
+a) Spur gears:
+These are Flat with teeth projecting radially in the plane of the wheel, "straight-cut gears". These
+gears can be fitted only to parallel axles.
+b) Helical gears:
+A refinement over spur gears. The teeth are cut at an angle, allowing for more gradual, hence
+smoother meshing between gear wheels, eliminating the whine characteristic of straight-cut gears.
+- Double helical gears - Also known as herringbone gears. These gears have teeth that are 'V'
+shaped. Each gear in a double helical gear can be thought of as two standard, but mirror image,
+helical gears stacked. This cancels out the thrust since each half of the gear thrusts in the opposite
+direction. They can be directly interchanged with spur gears without any need for different
+bearings.
+Periodic Operation and Maintenance service of tractor systems
+Servicing after each 10 working hours
+• Check crankcase oil and fill it to the normal level mark indicated on the dip stick.
+• Check the fuel level in the fuel tank and fill it if required.
+• Check water in the radiator and fill it if required.
+• Check the oil level in air cleaner, clean and refill it to the normal level indicated on the
+bowl.
+• Check the battery terminal and water level in the battery, top up to the distilled water
+about 3mm above the plates.
+• Check the gear box oil level and refill if it necessary.
+• Check the front and rear tyre pressure, normally, requires 2 kg/sq.cm in front wheel tyre
+and 1 kg/sq.cm in rear wheel tyre.
+• Check all nuts and bolts to keep in normal tight.
+• Inspect the tractor carefully and ensure for no leakage of oil.
+Servicing after each 60 hours of operation
+• Check fan – belt tension and adjust it if required.
+• Check water pump cooling system.
+• Check the primary fuel filter, loosen the vent plug and drain tap.
+• Check ad adjust the breaks for proper operation.
+• Check the transmission oil level.
+• Clean air cleaner.
+• Check the fuel line for any leakage.
+• Clean radiator pins.
+Servicing after each 250 hours of operation
+• Replace lubricating oil filter element.
+• Repack the front wheel bearings with fresh grease.
+• Oil the starter and dynamo bearings.
+• Clean the sump strainer.
+• Clean the strainer of fuel sediment bowl and carryout other servicing of fuel filter.
+33
+• Wash the fuel injection pump breather with kerosene.
+• Check the hydraulic oil level in hydraulic lift housing.
+Servicing after every 1000 hours of operation
+• Change the transmission oil.
+• Change the oil of steering gear box.
+• Drain the fuel tank and clean it.
+• Renew the secondary fuel filter element.
+• Remove the cylinder head cover and examine the valves springs and check the tappet
+clearance.
+• Inspect the rocker arm assembly for proper lubrication.
+• Get the cylinder lines checked for wear and tear.
+• Get the piston and rings checked for wear and tear.
+• Get rear axle bearing checked and repacked with recommended grade of grease through
+dealer.
+• Clean front axle bearings and repack them with grease.
+34
+LECTURE. 12
+Working and Management of Power Tiller
+Weeding with the use of manual tools requires high labour force. Mechanical weeders are
+used to complete the weeding operation in due time at less cost. Environmental pollution caused
+by chemical is also reduced by the use of mechanical weeder / tiller.
+Power weeders/tillers are devices used for removing the weeds, stirring and pulverizing
+the soil and for loosening the soil after the crop has begun to grow. These machines are widely
+used for weeding in cotton, tomato, tapioca, paddy, sugarcane, pulses and various other plant
+fields. This rotary power weeder/tillers consists of high speed motors, tiling width of these power
+weeder/tillers ranges from 30-60 cm and the tiling depth ranges from 10-15 cm. The motors in
+these machines are diesel operated or petrol operated and can work efficiently for a longer time.
+These power weeders/tillers are self propelled with a fully functional gear box having one forward
+and reverse gear transmission with clutch.
+POWER TILLER
+35
+LECTURE NO. 13
+TRADITIONAL AND MODERN AGRICULTURAL TOOLS
+Tillage
+It is a mechanical manipulation of soil to provide favourable condition for crop production.
+Soil tillage consists of breaking the compact surface of earth to a certain depth and to
+loosen the soil mass, so as to enable the roots of the crops to penetrate and spread into the
+soil. Tillage may be called the practice of modifying the state of soil to provide favourable
+conditions for plant growth. Tillage operation is most labour consuming and difficult
+operation, compared to all subsequent operation in the field.
+Objective of tillage
+1. To obtain deep seed bed, suitable for different type of crops.
+2. To add more humus and fertility to soil by covering the vegetation.
+3. To destroy and prevent weeds.
+4. To aerate the soil for proper growth of crops.
+5. To increase water absorbing capacity of the soil.
+6. To destroy the insects, pests and their breeding places and
+7. To reduce the soil erosion.
+Classification and types of tillage
+Tillage is divided into two classes: 1. Primary tillage, 2. Secondary tillage
+Primary tillage: It constitutes the initial major soil working operation. It is normally
+designed to reduce soil strength, cover plant materials, and rearrange aggregates. The
+operations performed to open up any cultivable land with a view to prepare a seed bed for
+growing crops in known as Primary tillage. Implements may be tractor drawn or animal
+drawn implements. Animal drawn implements mostly include indigenous plough and
+mould- board plough. Tractor drawn implements include mould-board plough, disc plough,
+subsoil plough, chisel plough and other similar implements.
+Secondary tillage: Tillage operations following primary tillage which are performed to
+crease proper soil tilth for seeding and planting are Secondary tillage. These are lighter and
+finer operations, performed on the soil after primary tillage operations. Secondary tillage
+consists of conditioning the soil to meet the different tillage objectives of the farm. The
+implements used for secondary tillage operations are called Secondary tillage implements.
+They include different types of harrow, cultivators, levelers, cited crushers and similar
+implements. These operations are generally done on the surface soil of the farm. Secondary
+tillage operations do not cause much soil inversion and shifting of soil from one place to
+other. These operations consume less power per unit area compared to primary tillage
+operations. Secondary tillage implements may be tractor drawn or bullock drawn
+implements. Bullock drawn implements include harrows, cultivators, hoes etc.
+PRIMARY TILLAGE IMPLEMENTS:
+Indigenous plough
+Indigenous plough is one of the most common implements used by Indian farmers.
+There are about 40 or more different types of indigenous ploughs in this country which are
+basically the same, but with variations in their shape, size and weight. These variations are
+due to soil types and tillage requirements of various crops.
+In addition to ploughing, the plough is used for sowing crops like wheat, barley, gram
+etc., for inter culture and for harvesting the underground part of crops.
+The main parts of the plough are i) body ii) shoe iii) share iv) beam and v) handle. The
+body is the main part of the plough to which the shoe, beam and handle are generally
+36
+attached. The share is the working part of the plough, and is attached to the shoe, which
+penetrates into the soil and breaks it open. The shoe also helps in stabilizing and balancing
+the plough while in operation. The beam is generally a long wooden piece which connects
+the main body of the plough to the yoke. A wooden piece which is attached vertically to
+the body to enable the operator to control the plough is called the handle.
+Ploughing by indigenous plough
+When the plough is pulled forward, the shoe and share enter the soil and separate the
+furrow slice from the main body of the soil. A portion of the soil rides over the shoe, but
+the larger portion is pushed aside to both sides. After the plough has moved ahead leaving
+the furrow behind, some of the cut soil falls back into the furrow. It has been observed that
+an indigenous plough cuts a trapezoidal furrow cross section and leaves some un ploughed
+land between the two adjacent furrows. To plough almost every bit of soil in the field, an
+indigenous plough has to be used three times. This is the main reason for the high energy
+and time requirements in using an indigenous plough as compared to other types. For
+complete and through ploughing of a field, the indigenous plough must be operated three
+times: first ploughing, then cross ploughing and finally ploughing along the corners.
+Mould board plough
+Moldboard plough is one of the oldest of all agricultural implements and is generally
+considered to be the important tillage implement. Ploughing accounts for more traction energy
+than any other field operation. Mould board ploughs are available for animals, power tiller and
+tractor operation. While working, a mould board plough does four jobs namely a) cutting the
+furrow slice b) lifting the furrow slice c) inverting the furrow slice and d) pulverizing the
+furrow slice.
+Components
+M.B. Plough consists of (a) Share, (b) Mould Board, (c) Landside and (d) Frog (Fig.15).
+Fig. Components of mould board plough
+37
+Share
+It is the part of the plough bottom that penetrates into the soil and cut the soil in horizontal
+direction below the soil surface is called share. It is a sharp, well polished and pointed
+component.
+Fig. Parts of share
+Different portions of the share are called by different names such as (I) share point, (ii) cutting
+edge, (iii) wing of the share (iv) gunnel (v) clevage edge.
+The forward end of the cutting edge which actually penetrates into the soil is called share
+point. The front edge of the share which makes horizontal cut in the soil is called cutting edge
+if the share. The outer end of the cutting edge of the share is called wing of the share. It
+supports the plough bottom.
+The vertical face of the share which slides along the furrow well is called gunnel. It
+takes the side thrust of the soil and supports the plough bottom against the furrow wall.
+The edge of the share which forms joint between mould board and share on the frog. The
+shares are made of chilled cast iron or steel. The steel mainly contains about 0.7-0.8% carbon
+and about 0.5-0.8% manganese besides other minor elements.
+Types of share
+Share is of different such as (a) slip share (b) slip nose share (c) shin share (d) bar share
+and (e) bar point share (Fig.17).
+a) Slip share: it is one piece with curved cutting edge having no additional part. It is a
+common type of share, mostly used by the farmers. It is simple in design, but it has got the
+disadvantage that the entire share has to be replaced if it is worn out due to constantuse.
+b) Slip nose share: It is a share in which the point of the share is provided by a small
+detachable piece. It has the advantage that the share point can be replaced as and when
+required. If the point is worn out, it can be changed without replacing the entire share,
+effecting considerable economy.
+c) Shin share: It is a share, having a shin as an additional part. It is similar to the slip share
+with the difference that an extension is provided to fit by the side of the mould board. This
+prevents the mould board from wearing along its cutting edge.
+d) Bar share : It is provided with an extension on its gunnel side which acts as the landside
+of the plough bottom. It does not offer any advantage over the other types.
+e) Bar point share: it is a share, in which the point of the share is provided by an adjustable
+and replaceable bar. This bar serves the purpose of point of the share and landside of the
+plough. As the point wears out, it is pushed forward.
+Fig. Types of shares
+38
+Mould Board
+Mould board is the part of the plough, which receives the furrow slice from the share, it
+lifted, turns and breaks the furrow slice. Different soil conditions require mould boards of
+varying shapes and sizes to carryout a good job of ploughing. The texture of the soil,
+amount of moisture and extent of vegetative cover on the surface determine the soil
+pulverization. The pulverization and inversion depend upon the curvature of the mould
+board. A long, gradual curved mould board turns the furrow gently and does not break the
+soil much. Short, abruptly curved mould boards twist and shear the soil and pulverize it.
+Mould boards for general use fall between the two extremes of the conditions. Mould
+boards are made of cast iron.
+The mould board is of following types
+(i) General purpose (ii) stubble (iii) sod and breaker (iv) slat and (v) high speed.
+(i) General purpose mould board
+It is the best for all round general farm use to give through pulverization. It is a mould
+board having medium curvature lying between stubble and sod. The sloping of the surface
+is gradual. It turns the well-defined furrow slice and pulverizes the soil thoroughly. It has a
+fairly long mould board with a gradual twist, the surface being slightly convex.
+(ii) Stubble mould board
+It is adopted for ploughing an old ground where good pulverization is desired. Its curvature
+is not gradual, but it is abrupt along the top edge. This causes the furrow slice to be
+thrown off quickly, pulverization is much better than
+the other type of mould board. It is best suited in stubble soil i. e under cultivation for
+years together. Stubble soil is that, soil in which stubble of the plants from the previous
+crop is still left on the land at the time of ploughing. This type of mould board is not
+suitable for lands with full of grasses.
+(iii) Sod and breaker type mould board
+It is a long mould board with gentle curvature which lifts and inverts the furrow slice. It is
+used in tough soils of grasses. It turns over thickly covered soil. This is very useful where
+complete inversion of soil is required by the farmer. This type has been designed for use in
+sod soils.
+(iv) Slat type mould board
+It is a mould board whose surface is made of slats placed along the length of the mould
+board, so that there are gaps between the slats. This type of mould board is often used,
+where the soil is sticky, because the solid mould board does not score well in sticky soils.
+(v) High speed type mould board
+Most of the high speed bottoms are used on tractor ploughs for general farm use.
+Fig. Types of mould board
+39
+Land side
+Landside is the part of the plough bottom, which slides along the furrow wall,
+providing stability against tilting sideways, due to soil pressure acting on the mould board.
+The width of the landside of animal drawn plough varies between 5 and 10 cm. It also
+helps in stabilizing the plough while in operation. Landside fastened to the frog with the
+help of plough bolts. The rear bottom of the landside is known as heal which rubs against
+the furrow sole.
+Frog
+Frog is the part of the plough bottom to which the share, mould board and land side are
+attached rigidly. It is an irregular piece of metal casting and heart of the plough bottom. It
+may be made of either cast iron or steel.
+Plough accessories: There are few accessories are necessary for plough such as: (a)
+coulter, (ii) jointer and (iii) gauge wheel.
+Coulter
+It is device used to cut the furrow slice vertically from the land ahead of the plough
+bottom. It cut the furrow slice from the land and leaves a clear wall. It also cuts trashes
+which are covered under the soil by the plough. The coulter may be a) rolling type b)
+sliding type.
+(a) Rolling coulter
+It is round steel disc, used on ploughs to cut trash and help to keep the plough from
+clogging. In general, the coulters should be set about 5cm shallower than the depth of
+ploughing. To obtain a neat furrow wall, the coulter is usually set 2 cm outside the landside
+of the plough. It is so fitted that it can be adjusted up and down and sideways.
+(b) Sliding coulter
+It is a stationery knife fixed downward in a vertical position on the ground. It includes
+knife, which does not roll over the ground but slides on the ground, the knife may be
+different shapes and sizes.
+Jointer
+It is a small irregular piece of metal having a shape similar to an ordinary plough bottom.
+It looks like a miniature plough. The jointer should be set to cut 4 to 5 cm deep. The
+purpose of the jointer is to cut a small furrow off the main furrow slice and throw it
+towards the furrow. The jointer should be set as near the coulter as possible.
+Gauge wheel
+It is an auxiliary wheel of an implement, helps to maintain uniformity in respect of depth
+of ploughing in different soil conditions it is usually placed in hanging position.
+40
+Throat clearance
+Fig. Plough accessories of M.B.Plough
+7.5 Adjustments of mould board plough
+For proper penetration and efficient work by the mould board plough, some adjustments are made
+from time to time. They are (i) Vertical suction and (ii) Horizontal suction.
+A) Vertical suction (Vertical clearance) It is the maximum clearance under the land side and the
+horizontal surface when the plough is resting on a horizontal surface in the working position. It is
+also defined as the vertical distance from the ground, measured at the joining point of share and
+land side. It helps the plough to penetrate into the soil to a proper depth. This clearance varies
+according to the size of the plough.
+b) Horizontal suction (Horizontal clearance) It is the maximum clearance between the land side
+and the furrow wall. This suction helps the plough to cut the proper width of furrow slice. This
+clearance also varies according to the size of the plough. It is also known as side clearance.
+Throat clearance
+It is the perpendicular distance between point of share and lower position of the beam of
+the plough.
+(b)
+Fig. (a) Vertical suction, horizontal suction and (b) throat clearance of M.B.Plough
+Plough size
+The size of mould board is expressed by the width of furrow that is designed to cut. It
+is the perpendicular distance from the wing of the share to the line joining the point of
+share and the heel of the landside. Animal drawn ploughs are usually available in the range
+between 15 and 20 cm. The size of the light plough is above 100 mm width but below 150
+mm; medium plough is 150 to 200 mm and heavy plough is 200 mm and above.
+Vertical clevis: it is a vertical plate with a no of holes at the end of the beam to control the
+depth of operation and to adjust the line of pull.
+Horizontal clevis: it is a device to make the lateral adjustment of the plough relative to the
+line of pull.
+41
+The centre of pull or resistance: It is the point where all the forces on a plough are act.
+The centre lies at a distance equal to 3/4th size of the plough from wing of the share.
+LECTURE.No.14
+DISC PLOUGHS-DISC ANGLE
+DISC PLOUGHS
+Disc ploughs
+It is a plough which cuts, turns and in some cases breaks furrow slices by means of
+separately mounted large steel discs. A disc plough is designed with a view to reduce
+friction by making a rolling plough bottom. A disc plough works well in the conditions
+where mould board plough does not work satisfactorily.
+Fig. Parts of disc plough
+Advantages of disc plough
+(i) A disc plough can be forced to penetrate into the soil which is too hard and dry.
+(ii) It works well in sticky soil in which a mould board plough does not scour. It is more
+useful for deep ploughing.
+(iii) It can be used safely in stony and stumpy soil without much danger of breakage.
+(iv) A disc plough works well even after a considerable part of a disc is worn off in
+abrasive soil.
+(v) It works in loose soil also (such as peat) without much clogging.
+Disadvantages of disc plough
+• It is not suitable for covering surface trash and weeds affectively as mould
+board plough does.
+• Comparatively, the disc plough leaves the soil in rough and cloddy condition
+than that of mould board plough.
+• Disc plough is much heavier than mould board plough for equal capacities
+because penetration of this plough is affected largely by its weight rather than
+suction. There is one significant difference between mould board plough and
+disc plough i.e. mould board plough forced into the ground by the suction of
+the plough, while the disc plough is forced into the ground by its own weight.
+Disc: It is a circular, concave revolving steel plate used for cutting and inverting the soil. It
+is made of heat treated steel of 5 to 10 mm thickness. The edge of the disc is well
+sharpened to cut the soil.
+42
+Disc angle: It is the angle at which the plane of the cutting edge of the disc is inclined to
+the direction of travel. Usually, the disc angle of good plough varies between 42 and 450.
+Tilt angle: It is the angle at which the plane of the cutting edge of the disc is inclined to
+vertical plane. Usually, the tilt angle of good plough varies between 15 and 250.
+Fig. Tilt angle and disc angle of disc plough
+Scraper: It is a device to remove soil that tends to stick to the working surface of a disc.
+Concavity: It is the depth measured at the center of the disc by placing its concave side on
+a flat surface.
+Disc ploughs are favoured in areas where the climate is dry and where the soil is rough
+and stony. They also work well in heavy clay, hard pan and loose sandy soils. Such soil
+conditions do not permit the operation of mould board ploughs to good advantage. It is also
+preferred for land infested with heavy growth of vegetation and for land requiring deep
+ploughing for reclamation purposes. It leaves the trash on top of the ground to conserve
+soil moisture. Penetration of the disc plough depends mainly on the weight of the plough as
+a whole. Tractor drawn disk ploughs weigh between 180 and 540 kg per disk. But the
+animal drawn plough weighs about 30 kg per disk.
+Disc ploughs are broadly classified as:
+1. Standard disc plough - animal drawn and tractor drawn
+2. Vertical disc plough or harrow ploughs
+Animal drawn standard disc plough
+It is attached to a universal frame which is mounted on two wheels. The frame is pulled by
+a pair of bullocks and it is provided with a seat for the operator. There is only one disk
+blade on these ploughs and it can be tilted back ward from 15 to 250 (tilt angle) in the
+vertical plane. It also makes an angle of about 450 (disk angle) with the direction of
+motion. The diameter of the disk is 45 cm. A rear furrow wheel provided with the plough
+takes care of the side thrust of the plough.
+8.3.1 Tractor drawn standard disc plough
+It consists of one to seven disk blades which have the same tilt and disk angles as the
+animal drawn plough. The diameter of the disk blades varies between 60 and 90 cm. The
+perfectly round concave steel disks sharpened on the edges are bolted to the cast iron
+supports which are individually suspended from the main frame. Taper roller bearings or
+thrust type ball bearings are used on the ploughs. These ploughs are provided with a front
+furrow wheel, a rear furrow wheel and a land wheel. There are also provided with depth
+adjusting levers, drag links and scrapers on the plough. When the plough is pulled forward,
+43
+the individual disk rotates on its own axis. The furrow slice rides along the curvature and is
+pulverized to some extent. In order to cut a deeper furrow slice, the tilt angle of the disk is
+reduced. The other method of increasing the penetration is by adding weights to the plough
+frame. If the soil condition is favourable, the tilt angle should be increased to achieve
+better turning of the furrow slice. If the soil conditionis not favourable, the disk angle
+should be increased to improve the penetration, but the width of cut should be reduced.
+Fig. Standard disc plough
+8.4 Vertical disk plough
+It is known as harrow plough or one way disc plough. Its action is intermediate between
+regular disc plough and disc harrow. It is similar to standard disk plough, major difference
+is that, all the disk blades are mounted on a common axle and they rotate as one unit. The
+diameter & curvature of the individual disk of the plough is slightly smaller. All the disks
+are fixed to throw the furrow slice is only one direction. It may have 2 to 32 disks, spaced
+about 20 to 25 cm apart on a gang. These are used for shallow ploughing and are preferred
+in wheat growing areas, where moisture conservation for winter crops is the main
+objective. Diameter of the disk varies between 50 and 65 cm and the disk angle ranges
+from 40 to 450. Disc angle of 40 to 45° gives the minimum draft for a given width of cut.
+Fig. Vertical disc plough
+The following adjustments that are done on the disk ploughs to control the depth or
+width of ploughing or to increase the pulverization:
+(i) by increasing the tilt angle, penetration is improved.
+(ii) by increasing the disk angle, penetration is improved but the width of cut is reduced.
+(iii) by adding weights to the plough, penetration can be increased.
+(iv) the width of the cut by the plough may be adjusted by adjusting the angle between the
+frame and land wheel axle.
+44
+LECTURE.No.15
+SECONDARY TILLAGE IMPLEMENTS- SPIKE TOOTH HARROW, SPRING
+TOOTH HARROW
+SECONDARY TILLAGE
+Tillage operations performed after primary tillage to create proper soil tilth for seeding and
+planting are called secondary tillage. These operations are lighter and finer operations performed
+on the soil after primary tillage operations. Secondary tillage operations do not cause much soil
+inversion and shifting of soil from one place to another place. These operations consume less
+power per unit area compared to primary tillage operations. The implements used for secondary
+tillage operations are called secondary tillage implements they include different types of harrows,
+rollers and pulverizers, rotary tillers, tools for mulching and fallowing, cage wheels etc.
+The objectives of secondary tillage
+1. To improve the seed bed by greater pulverization of the soil
+2. To destroy grasses and weed seeds in the field
+3. To cut crop residues and mix them with top soil
+4. To break the big clods and to make the field surface uniform and levelled.
+Harrowing
+It is secondary tillage operation which pulverizes, smoothens and packs the soil in seed
+bed preparation and/or to control weeds.
+Harrow
+A harrow is an implement that cuts the soil to a shallow depth for smoothening and
+pulverizing the soil as well as to cut the weeds and to mix materials with soil. It is an
+implement used to break the clods after ploughing, to collect trash from the ploughed land
+and to level the seed bed. There are many kinds of harrows namely, the disc harrow, spike
+tooth harrow, spring tooth harrow, rotary cross- harrow, soil surgeon, triangular harrow,
+acme harrow, blade harrow , reciprocating power harrow etc
+Disc harrow
+It is harrow which performs the harrowing operations by means of a set (or a number of
+sets) of rotating steel discs, each set being mounted on a common shaft. Disc harrows are
+of two types depending upon the sources of power:
+1. Animal drawn
+2. Tractor drawn
+Tractor drawn disc harrow: Disc harrow is found very suitable for hard ground, full of
+stalks and grasses. It cuts the lumps of soil, clods and roots. Discs are mounted on one, two
+or more axles which may be set at a variable angle to the line of motion. As the harrow is
+pulled ahead, the discs rotate on the ground. Depending upon the disc arrangements, disc
+harrows are divided into two classes:
+(i) Single action (ii) double action and
+iii) Off set Disc harrow
+Single action disc harrow
+It is a harrow with two gangs placed end to end, which throw the soil in opposite
+directions. The discs are arranged in such a way that right side gang throws the soil
+towards right, and left side gang throws the soil towards left.
+Double action disc harrow
+A disc harrow consisting of two or more gangs, in which a set of one or two gangs
+follow behind the set of the other one or two, arranged in such a way that the front and
+back gangs throw the soil in opposite directions. Thus the entire field is worked twice in
+each trip. It may be of two types:
+45
+(i) Tandem
+(ii) Off-set.
+Tandem disc harrow
+It is a disc harrow comprising of four gangs in which each gang can be angled in
+opposite direction.
+Off-set disc harrow
+It is a disc harrow with two gangs in tandem, capable of being off-set to either side of
+the centre line of pull. Two gangs are fitted one behind the other. The soil is thrown in both
+directions because discs of both gangs face in opposite directions. It is very useful for
+orchards and gardens. It travels left or right of the tractor. The line of pull is not in the
+middle, that‟s why it is called off-set disc harrow.
+Fig. Tractor drawn disc harrows
+Components of disc harrow
+A disc harrow mainly consists of: (i) disc, (ii) gang, (iii) gang bolt or arbor bolt, (iv) gang
+angle, (v) gang control lever, (vi) spools or spacer, (vii) bearings, (viii) transport wheels,
+(ix) scraper and (x) weight box.
+1. Disc: It is a circular, concave revolving steel plate used for cutting and inverting the
+soil. Disc is made of high grade heat treated hardened steel. Tractor drawn disc harrows
+have concave discs of size varying from 35 to 70 cm diameter. Concavity of the disc
+affects penetration and pulverization of soil. Usually two types of disc are used in disc
+harrows:(a) Plain disc and (b) Cut-away disc.
+Plain discs have plain edges and they are used for all normal works. Most of the
+harrows are fitted with plain discs only. Cut-away discs have serrated edges and they cut
+stalks, grasses and other vegetative matter better than plain discs. Cut-away discs are not
+very effective for pulverization of soil but it is very useful for pudding the field especially
+for paddy cultivation.
+2.Gang: It is an assembly of concave discs mounted on a common shaft with spools in
+between.
+3. Gang axle or arbor axle: It is a shaft on which a set of discs are mounted. The spacing
+between the discs on the gang bolt ranges from 15cm to 23cm for light duty harrows and
+25 to 30 cm for heavy duty harrows.
+4. Gang angle: The angle between the axis of the gang and the line perpendicular to the
+direction of travel is called Gang angle.
+5. Gang control lever: A lever which operates the angling mechanism of disc harrow is
+called Gang control ever.
+6. Spool or Spacer: The flanged tube, mounted on the gang axle between every two discs
+to retain them at fixed position laterally on the shaft is called spool or spacer. It is just a
+device for keeping the discs at equal spacing on the axle. It is usually cast in special shapes
+and sizes and is generally made of cast iron.
+46
+7. Bearing: Bearing is essential to counteract the end thrust of the gangs due to soil thrust.
+Disc harrow bearings are subjected to heavy radial and thrust loads. Chilled cast iron
+bearings, ball bearings or tapered roller bearings may be used on disc harrows. Oil soaked
+wooden bearings are very common for disc harrows, because they are cheaply available.
+Chilled cast iron bearings are also used due to their durability.
+8. Transport wheel: In trailing type discs harrows, transport wheels are provided for
+transport work on roads and for preventing the damage of the roads. This also helps in
+protecting the edges of the discs. Mounted type disc harrows do not require wheels for
+transport purpose.
+9. Scraper: Scraper prevents the discs from clogging. It removes the soil that may stick to
+the concave side of the disc.
+10. Weight box: A box like frame is provided on the main frame of the harrow for
+putting additional weight on the implement. Additional weight helps in increasing the
+penetration of the discs in the soil.
+Animal drawn disc harrow: It consists of:
+(iii) (i) disc, (ii) gang frame, (iii) beam, (iv) gang angle mechanism, (v) scraper, (vi)
+spacer(spool), (vii) clevis, (viii) axle, (ix) middle tyne, and (x) bearings.
+1. Disc: Disc is the main part of the harrow which cuts and pulverizes the soil. In this 6 to
+8 Discs are arranged in two gangs. The thickness of the material used for disc is at least
+3.15 nm. The cutting edge is beveled for easy penetration. The disc has a square opening in
+the centre to allow the passage of the axle. The disc is usually made of steel with carbon
+content ranging from 0.80 to0.90%.
+2. Gang frame: All the gangs are mounted on a frame, called Gang frame. It is usually
+made of sturdy mild steel structure. The gang frame is bolted to the beam of the
+implement.
+3. Beam: It is that part of the harrow which connects the implement with the yoke. The
+rear end of the beam has a clevis to fix its height of hitching to suit the size of animals. It is
+made of wood which is locally available in the area.
+4. Gang angle mechanism: It is a mechanism by means of which the gang angles are
+adjusted. Arranged of adjusted the width and depth of cuts of the implement, is done by
+gang mechanism. The lever of the gang angle is usually made of mild steel flat with a
+wooden handle. The gang angle can be adjusted approximately in the range from
+0º to 27 ºonly.
+5. Scraper: It is that part of the harrow which scrapes the soil from the concave side of the
+disc and keeps it clean for effective working of the harrow in the field.
+6. Spacer (spool): Spacer is used to separate the two adjacent discs and to keep them in
+position. It is usually made of cast iron. The spacer has a suitable square opening in the
+middle to allow the passage of the axle.
+7. Clevis: Clevis is the part fitted to the beam and the frame which permits vertical
+hitching of the harrow.
+8. Axle: The axle is usually 20 × 20 mm square section. The length of axis depends upon
+the size of the harrow.
+9. Middle tyne: The tyne which breaks the unbroken strip of soil left in between two
+gangs of the harrow during operation is called middle tyne. This tyne is suitable fixed to
+the rear end of the gang frame in such a way that it is replaced easily.
+10. Bearing: There is one or two bearings, made of cast iron or wood fitted at each end of
+the gang.
+47
+Fig. Animal drawn disc harrow
+Drag harrows
+Drag harrows have been used since ancient times; early farmers used to cut branches from
+the trees for use in leveling the soil. Even today in some places farmers drag long bamboo
+pieces with long nails to break the soil crust and stir the surface. These harrows are used to
+break the clods, to stir the soil, to uproot the early weeds, to level the ground, to break the
+soil crust and to cover the seeds. There are two principal kinds of drag harrows, namely,
+(1) spike tooth and (2) spring type harrow.
+Spike tooth harrow
+It is a harrow with peg shaped teeth of diamond cross section to a rectangular frame.
+It is used to break the clod, stir the soil, uproot the weeds, level the ground, break the soil and
+cover the seeds. Its principle is to smoothen and level the soil directly after ploughing. Spike
+tooth harrows may be of rigid type and flexible type. Tractor drawn harrows are usually
+flexible type. It has got the advantage of being turned up for transporting purpose
+This harrow mainly consists of teeth, tooth bar frame, clamps, guard, braces, levers and
+hooks.
+1.3 Spring tooth harrow
+It is a harrow with tough flexible teeth, suitable to work in hard and stony soils.
+Spring tooth harrow is fitted with springs having loops of elliptical shape. It gives a spring
+action in working condition. It is used in the soil when obstructions like stone, roots and weeds
+are hidden below the ground surface. This type pulverizes the soil and helps in killing weeds.
+The levers are provided for setting the teeth for varying the depth of harrowing. For
+light harrowing, the adjustment is done in slanting position. Draft hooks on each corner of
+every section for hitching purpose.
+Fig. Spike tooth harrow Fig. Spring tooth harrow
+48
+10.6.1 Blade harrows
+The blade harrows popularly known as bakhar, is the most common type of harrow used
+by Indian farmers. It is generally used in clay soils for preparing seedbeds of both kharif
+(rainy season) and Rabi (winter) crops. It is also used for covering the seed in Kharif
+sowing. The action of blade harrow is like that of sweep, moving into the top surface of the
+soil without inverting it. Sometimes, it is used to chisel out the uncut portion left after
+ploughing by an indigenous plough. Thus the primary function of the implement is to
+pulverize the soil and create soil mulch. The blade is made of steel. Shisham or Babool
+wood is used for making the body and the beam. The width cut by the harrow varies from
+38 to 105 cm. Guntaka also is an improved type of this implement.
+Frequent clogging with the roots and weeds which wrap along the edge of blade
+possess a serious problem and stoppage of work. However, the improved V-shaped blade if
+fitted on the implement can provide relief from clogging.. Besides, it offers the advantage
+of reduction in draft, easy penetration and smooth working in the field.
+Fig. Blade harrow
+49
+LECTURE NO. 16
+BUND FORMER- RIDGER- CULTIVATOR TYPES
+Bund former
+It is used for making bunds or ridges by collecting the soil. Bunds are required to
+hold water in the soil, thereby one can conserve moisture and prevent run-off. The size of the
+bund former is determined by measuring the maximum horizontal distance between the two
+rear ends of the farming boards. Bund former consists of forming board, beam and handle.
+Fig. Bund former
+3. Ridger
+It is an implement importantly used to form ridges required for sowing row crop seeds
+and plants in well-tilled soil. The ridger is also used for forming field or channels, earthing
+up and similar other operations. Ridger is also known as ridging plough and double mould
+board plough. The ridger generally has ’V’ shaped or wedge shaped share fitted to the frog.
+The nose or tip of share penetrates into the soil and breaks the earth. The mould boards lift,
+invert and also cast aside the soil, forming deep channels and ridges of the required size. A
+ridger consists of beam, clevis, frog, handle, mould boards, share and sliding share.
+4. Puddler
+Puddler is an implement for churning the soil with water. It is used to prepare paddy
+fields with standing water after initial ploughing with country plough. It breaks up the clods
+and churns the soil. The main purpose of puddling is to reduce leaching of water or decrease
+percolation of water, to kill the weeds by decomposition and to facilitate transplantation of
+paddy seedlings by making the soil softer. Puddling is done in standing water of 5-10 cm
+depth. A common puddler has puddling units each having four straight blades or paddles or
+fan type blades or squirrel type blade mounted on an axle. The axle with the puddling units is
+fully mounted on two bearings fitted on a frame made of metal or wood. The weight of the
+puddler is 30-40 kg. A puddler consists of a frame, puddling unit, axle, metal cross beam and
+handle.
+5. Leveller
+Land levelling is expected to bring permanent improvement in the value of land.
+Levelling work is carried out to modify the existing contours of land so as to achieve certain
+objectives desired for efficient agricultural production system. These objectives include
+(i) efficient application of irrigation water,
+(ii) improved surface drainage,
+(iii) minimum soil erosion
+(iv) increased conservation of rain water specially on dry lands and
+(v) provision of an adequate field size and even topography for efficient mechanisation.
+6. Cultivator
+It is an implement for inter cultivation with laterally adjustable tines or discs to work
+between crop rows. The cultivator stirs the soil, and breaks the clods. The tines fitted on the
+frame of the cultivator comb the soil deeply in the field. A cultivator performs functions
+intermediate between those of plough and the harrow. Destruction of weeds is the primary
+function of a cultivator. The following are a few important functions performed by a
+cultivator.
+1. Interculture the fields.
+2. Destroy the weeds in the field.
+3. Aerate the soil for proper growth of crops.
+4. Conserve moisture by preparing mulch on the surface.
+5. To sow seeds when it is provided with sowing attachments.
+6. To prevent surface evaporation and encourage rapid infiltration of rain water
+into the soil.
+50
+Cultivator with spring loaded tines
+A tine hinged to the frame and loaded with a spring so that it swings back when an
+obstacle is encountered, is called spring loaded tine. Each tine of this cultivator is provided
+with two heavy coil springs, tensioned to ensure minimum movement except when an obstacle
+is encountered. The springs operate, when the points strike roots or large stones by allowing
+the tines to ride over the obstruction, thus preventing damage. On passing over the
+obstruction, the tines are automatically reset and work continues without interruption. The
+tines are made of high carbon steel and are held in proper alignment on the main frame
+members. This type of cultivator is particularly recommended for soils which are embedded
+with stones or stumps. A pair of gauge wheel is provided on the cultivator for controlling the
+depth of operation. The cultivator may be fitted with 7, 9, 11, 13 tynes or more depending
+upon the requirement.
+Fig. Cultivator with spring loaded tines
+Cultivator with rigid tines
+Rigid tines of the cultivator are those tines which do not deflect during the work in the
+field. The tynes are bolted between angle braces, fastened to the main bars by sturdy clamps
+and bolts. Spacing of the tynes are changed simply by slackening the bolts and sliding the
+braces to the desired position. Since rigid tines are mounted on the front and rear tool bars, the
+spacing between the tynes can be easily adjusted without getting the tines chocked with
+stubbles of the previous crop or weed growth. A pair of gauge wheel is used for controlling
+the depth of operation.
+Fig. Cultivator with rigid tines
+Puddlers
+Puddling of soil is one of the most common farm operations in paddy growing areas.
+The most desirable soil conditions at the time of transplanting appears to be one having
+semi-pervious hard pan covered with approximately 10 to 15 cm dense mud and very little
+free water on the surface.It usually refers to the churning of soil in the presence of excess
+water by means of a puddler or any other implement for that purpose. Purpose of puddling
+51
+is to reduce leaching of water, to kill weeds by decomposing and to facilitate the
+transplanting of paddy seedlings by making the soil softer. It is done in a standing water of
+5 to 10 cm depth in the field, which has already received one ploughing by the mould
+board plough. In some areas, an indigeneous plough is used as a puddler by some farmers.
+Puddlers are classified as: (i) hand operated puddlers, (ii) animal drawn puddlers,
+and (iii) tractor drawn puddlers. Among the various types, animal drawn puddlers are
+mostly used in the country. The indigenous plough and
+peg tooth harrow are used for puddling in paddy growing areas. None of these implements
+are as effective as the rotating blade type puddlers.
+The open blade type implement is commonly used for puddling in south India. It
+consists of series of steel or cast iron blades fastened to a cast iron hub at an angle. The
+number of cast iron hubs may be two or more. These hubs revolve on a steel shaft to which
+the wooden beam and the operator‟s seat are attached. Sometimes, these hubs form an
+integral part of the shaft which revolves either in wooden or metallic bearings at the ends
+in the frame. This type of implement is generally a walking type. The effective width of the
+puddler varies between 0.9 and 1.2 m.
+Fig. Open blade puddler
+Rotavator
+It is an implement that cuts and pulverizes the soil by impact forces through a number
+of rotary times or knives mounted as a horizontal shaft. It is also called “rotary tiller”. It is
+suitable for shallow cultivation and weed control. It consists of a power driven shaft on
+which knives or tines are mounted to cut the soil and trash. Rotor has got several types of
+tines fitted on the shaft having a speed of 200-300 rpm. Generally, sharp edged L-shaped
+blades are used on the rotor. According to power used, rotavators are classified as animal-
+drawn, engine operated and tractor-drawn rotavators. One or two operations of this
+implement are sufficient for good pulverization of soil depending upon soil and crop
+conditions. It is not meant for sandy soil. The power from the engine to rotor shaft is
+transmitted through chain. A clutch is provided in transmission system for engaging and
+disengaging power. The speed of rotor is kept at about 350 rpm for rated rpm of 1500 of
+prune mover. The depth of penetration can be adjusted up to 12.5 cm. The suitable
+protective cover is provided at the rear to prevent under scattering of soil. It can cover
+about 1.5-2.0 ha/day. Bullock-drawn engine operated rotary tiller is quite useful for timely
+preparation of seedbed particularly in rice-wheat rotation. Power tiller operated rotary
+tillers are also quite useful for hilly areas and small hand holdings.
+52
+LECTURE NO.17
+SOWING EQUIPMENTS- SEED DRILLS- TYPES
+Seeding or sowing is an art of placing seeds in the soil to have good germination in the field. A
+perfect seeding gives
+a. Correct amount of seed per unit area.
+b. Correct depth at which seed is placed in the soil.
+c. Correct spacing between row-to-row and plant-to-plant.
+Sowing methods
+(i) Broadcasting
+Broadcasting is the process of random scattering of seed on the surface of seedbeds. It can
+be done manually or mechanically both. When broadcasting is done manually, uniformity of seed
+depends upon skill of the man. Soon after broadcasting the seeds are covered by planking or some
+other devices. Usually higher seed rate is obtained in this system. Mechanical broadcasters are
+used for large-scale work. This machine scatters the seeds on the surface of the seedbed at
+controlled rates.
+(ii) Dibbling
+Dibbling is the process of placing and seeds in holes made in seedbed and covering them.
+In this method, seeds are placed in holes make at definite depth at fixed spacing. The equipment
+used for dibbling is called dibbler. It is a conical instrument used to make proper holes in the
+field. Small hand dibblers are made with several conical projections made in a frame. This is very
+time consuming process, so it is not suitable for small seeds. Mostly vegetables are sown in this
+way.
+(iii) Drilling
+Drilling consists of dropping the seeds in furrow lines in a continuous flow and covering
+them with soil. Seed metering may be done either manually or mechanically. The number of rows
+planted may be one or more. This method is very helpful in achieving proper depth, proper
+spacing and proper amount of seed to be sown in the field. Drilling can be done by (1) Sowing
+behind the plough (2) Bullock drawn seed drills (3) Tractor drawn seed drills.
+(iv) Seed dropping behind the plough
+It is very common method used in villages. It is used for seed like maize, gram, peas,
+wheat and barley. A man drops seeds in the furrow behind the plough. Sowing behind the plough
+can be done by a device known as malobansa. It consists of a bamboo tube provided with a funnel
+shaped mouth. One man drops the seeds through the funnel and other man handles the plough and
+the bullocks. This is a slow and laborious method.
+(v) Transplanting
+Transplanting consists of preparing seedlings in nursery and then planting these seedlings
+in the prepared field. It is commonly done for paddy, vegetable and flowers. It is very time
+consuming operation. Equipment for placing plants in the soil is called trans planter.
+(vi) Hill dropping
+In this method, seeds are dropped at fixed spacing and not in a continuous stream. Thus
+the spacing between plant to plant in a row is constant. In case of drills, the seeds are dropped in
+continuous stream and the spacing between plant to plant in a row is not constant.
+(vii) Check row planting
+It is a method of planting, in which row-to-row and plant-to-plant distance is uniform. In
+this method, seeds are planted precisely along straight parallel furrows. The rows are always in
+two perpendicular directions. A machine used for check row planting is called check row planter.
+SEED DRILL
+Seed drill is a machine used for placing the seeds in a continuous stream in furrows at
+uniform rate and at controlled depth with an arrangement of covering the seeds with soil.
+According to the power source used, seed drills may be classified in to (i) Bullock drawn seed
+drills (ii) Tractor drawn seed drills.. According to the type of seed metering done animal drawn
+seed drills may be classified into i) manually metered seed drills and ii) mechanically metered
+seed drill. . In manually metered seed drills a person drops the seeds in the furrows, in
+mechanically metered seed drills a mechanical device called seed metering mechanism is used to
+meter the seeds. There are many designs of bullock drawn seed drills and tractor drawn seed drills
+which are used for sowing.
+53
+Gorru Animal Drawn seed drill Tractor drawn seed drill
+Functions of a seed drill: Seed drill performs the following functions
+1. To carry the seeds
+2. To open furrows at uniform depths
+3. To meter the seeds
+4. To deposit the seeds in furrows in an acceptable pattern
+5. To cover the seeds and compact the soil around the seed
+SEED CUM FERTILIZER DRILL Seed drills fitted with fertilizer dropping attachments are
+called seed-cum-fertilizer drills. They deliver both the seeds and fertilizers simultaneously in an
+acceptable pattern. Seed cum fertilizer drill has a large seed box which is divided lengthwise into
+two compartments, one for seed and another for fertilizers distribution.
+Seed-cum-fertilizer drill:
+Functions: Seed cum fertilizer drill performs the following functions
+1. To carry the seeds and fertilizer in separate compartments.
+2. To open furrows at uniform depths
+3. To meter the seeds and fertilizers
+4. To deposit the seed and fertilizer in the furrows in an acceptable pattern
+5. To cover the seed and fertilizer and compact the soil around the seed
+Components of seed drill
+A seed drill with mechanical seed metering device mainly consists of: (i) Frame, (ii) Seed
+box, (iii) Seed metering mechanism, (iv) Furrow openers, (v) Covering device, and (vi)
+Transport wheels.
+Frame. The frame is usually made angle iron with suitable braces and brackets. The frame
+is strong enough to withstand all types of loads inn working condition.
+Seed box. It may be made of mild steel sheet or galvanized iron with a suitable cover. A
+small agitator is sometimes provided to prevent clogging of seeds.
+Covering device. It is a device to refill a furrow after the seed has been placed in it.
+Covering the seeds are usually done by patta, chains, drags, packers, rollers and press
+wheels, designed in various sizes and shapes.
+Transport wheel. There are two wheels fitted on the main axle. Some seed drills have got
+pneumatic wheels also. The wheels have suitable attachments to transmit power to operate
+seed dropping mechanism.
+54
+Seed metering mechanism
+The mechanism of a seed drill or fertilizer distributor which delivers seeds or
+fertilizers from the hopper at selected rates is called Seed metering mechanism. Seed
+metering mechanism may be of several types: (i) Fluted feed type, (ii) Internal double run
+type, (iii) Cup feed type, (iv) Cell feed mechanism, (v) Brush feed mechanism, (vi) Auger
+feed mechanism, (vii) Picker wheel mechanism, and (viii) Star wheel mechanism.
+Most common type of metering devices that delivers a more or less
+continuous flow of seeds is fluted roller type or internal double run type. These metering
+devices are driven by ground wheel. Some of above metering devices have not been
+commercially accepted and popularized.
+Rice transplanter
+Two methods are used for raising rice cop in India, namely upland cultivation (direct
+seeding) and wetland cultivation (direct seeding and seedling transplanting). Rice
+transplanting by hand is very tedious, expensive and labour consuming operation. Many
+attempts have been made to develop manual as well as self-propelled rice transplanter for
+transplanting of rice seedlings in rice growing countries such as Japan, China, Korea and
+India. The manual rice transplanter consists of frame, movable tray and seed picking
+fingers. Mat type seedlings are placed in the inclined trays. Fingers pick up the seedlings
+when they are pushed downward and place them in the prepared soil. Plant-to-plant
+spacing can be controller by the operator. Transplanters are available in 5-6 rows with
+comb type fingers. It‟s working capacity varied from 0.3-0.4 ha/day and requires two
+persons, one for operating the transplanter and other for filling the tray with mat seedlings.
+The self propelled rice transplanter consists of air-cooled gas olines engine, main
+clutch, running clutch, planting clutch, seeding table, float, star wheel, accelerator lever,
+ground wheel, and handle and linkage mechanism. Seedlings are grown in special seedling
+trays in controlled environment called mat seedlings. When seedlings are 25-30 day-old,
+they are uprooted and placed in slanting seedling trays. Power from the engine is
+transferred to main clutch from where it is transferred to planting and a running clutch. The
+fingers on four bar linkage mechanism catch 3-4 seedlings at a time separate them from the
+mat and place it in the puddle soil. A float supports the machine on the water while
+working in the field. There are two end wheels that facilitate the movement of the
+transplanter. A marker is provided to demarcate the transplanting width during operation.
+The machine maintains row to row and plant to plant spacing. The planting capacity of the
+machine is about 0.05-0.1 ha/hr. These transplanters are now commercially available in
+India.
+Fig. Manual rice transplanter
+55
+LECTURE. 18
+SPRAYERS AND DUSTERS
+SPRAYERS
+Insect pests and weeds cause considerable damage to the commercial crops. If not
+controlled in time, the entire crop gets lost and, therefore, farmers are likely to suffer in
+many ways. The mechanical control of weeds is most widely used in India and in many
+developing countries due to the availability of farm labour at relatively low rates of wages.
+Whereas, the chemical method of plant protection has been universally accepted due to
+saving of time, labour and its effectiveness with relatively low expenditure. In developing
+countries, combination of chemical and mechanical methods of weed control has been
+successfully accepted. The chemicals for protecting the plants from various injurious or
+organisms need to be applied on plant surfaces in the form of sprays, dusts, mist etc.
+Sprayers and dusters are available in many forms for this purpose.
+Sprayer is a machine to apply fluids in the form of droplets. Sprayer is used for the
+following purpose: (i) application of fungicides to minimize fungal diseases, (ii)
+application of insecticides to control insect pests, (iii) application of herbicides to remove
+weeds and (iv) application of micronutrients on the plants. The main functions of sprayer
+are: (i) to break the liquid into droplets of effective size, (ii) to distribute them uniformly
+over the plants, and (iii) to regulate the amount of liquid to avoid excessive application
+Desirable quality of sprayer
+(a) The sprayer should produce a steady stream of spray materials in the desired fineness
+of the particle so that the plants to be treated may be covered uniformly.
+(b) It should deliver the liquid at sufficient pressure so that it reaches all the foliage and
+spreads uniformely over the surface of the plant
+(c) It should be light weight, sufficiently strong, easily workable and repairable.
+Sprayer’s classification
+Based on power source, sprayers may be classified as:
+(i) Hand operated machines – suitable for small holdings. They are operated at pressure
+ranging from 1 to 7kg/cm2.
+(ii) Power operated machines – suitable for treating a large area. They are operated at
+pressure ranging from 20 to 55kg/cm2.
+(iii) Air planes – suitable for large scale work.
+Based on spray volume, sprayers may be classified as:
+(i) High volume sprayer - More than 400 litres of spray liquid per hectare is used.
+(ii) Low volume sprayer – Spray volume ranges between 5 to 400 litres per hectare is
+used.
+(iii) Ultra-Low volume sprayer – Spray volume less than 5 litres per hectare is used.
+Hand operated sprayers may be classified as:
+(i) Bucket sprayers
+(ii) Knapsack sprayers
+(iii) Compression sprayers
+Bucket types prayer
+It consists of a hand operated single or double acting pump which may be placed into
+any ordinary bucket containing spraying solution. Plunger rod is hollow and serves as the
+compression chamber. Liquid is discharged in both suction and delivery strokes, hence a
+continuous application can be made. One hand operates plunger, while another hand keeps
+56
+the pump in stable position. This pump is mostly made of brass. It is very light and easily
+handled and develops sufficient pressure to spray small gardens and low trees. It develops
+a pressure of 4 -10kg/cm2.
+Fig. Line diagram of bucket type sprayer
+Knap sacks prayer
+It is very common type of sprayer, is provided with a pump and a large air chamber
+permanently mounted in a 9 to 22.5 lit. tank. The handle of the pump extending over the
+shoulder or under the arm of operator, which makes it possible to pump with one hand and
+spray with other hand. Spray liquid is delivered through the delivery system, consisting of
+lance and nozzle, which is connected with the pump by a flexible hose. A uniform pressure
+can be maintained by keeping the pump in operation. It is generally carried on the back of
+the operator. It is quite useful for spraying small trees, shrubs and row crops up to 2.5 m
+height. These sprayers are useful because of their simplicity in operation, durability and for
+diverse use including spraying bushes of tea and coffee. One man can spray about 0.4 – 0.5
+ha in a day, thus spraying about 90 lit. of spray liquid. A pressure of 3 -5 kg/cm2 is
+maintained in the pressure chamber.
+Fig. Diagram of knapsack sprayer
+Compression Sprayers
+In these types of sprayers, air is compressed into the container by the compression air
+pump. When sufficient pressure is developed, then the delivery system is operated to
+obtain spray in the form of fine droplets. The compressed air forces the liquid through the
+nozzle and the desired type of spray is achieved. For this purpose, the tank is usually filled
+to three fourths of its capacity, leaving one-fourth volume for the compressed air. The air
+57
+pump is fitted vertically inside the container which acts as a force pump.
+These can be classified into: i) Hand operated ii) Foot operated iii) Rocker sprayer
+Hand operated compression sprayer
+These sprayers are similar to the hand atomizer but are adopted for spraying large
+quantities of liquids. They are more easily operated than the knapsack sprayer. The typical hand
+compression sprayer comprises a tank for holding spray material and compressed air, vertical air
+pump with a handle, filling port, spray lance with nozzle and release and shut-off devices.
+Besides, it has a metal or plastic skirt which protects the bottom of the tank of the sprayer against
+wear and makes the sprayer stable when placed on the ground. It also serves as a base for the
+back- rest. In addition, it has adjustable straps. These should be made of cotton belt, leather on
+plastic. As the spraying proceeds, the pumping is required to maintain the normal pressure of 2.0
+– 3.5 kg/cm2.
+Fig. Line diagram of hand compression sprayer
+Foot – operated sprayer
+It is also called pedal pump. It consists of a plunger assembly, stand, suction hose,
+delivery hose and an extension rod with nozzle. One end of suction hose is fitted with a
+strainer and other end with a flexible coupling. Similarly, one end of delivery hose is fitted
+with a cut-off valve and other end with a flexible coupling. An additional container is
+required to hold spray fluid, as this sprayer does not have a built-in tank. Continuous
+pedaling is required for uniform spray. It can develop a pressure of 17-21 kg/cm2. It is easy
+to operate and can be used for spraying tall crops and fruit trees up to 4 m height. Sprayer
+can be used to spray trees up to 6 m height with additional hose.
+Fig. Line diagram of foot operated sprayer
+58
+Rocking sprayer
+This type of sprayer consists of a lever operated pump assembly which rests on a
+wooden platform. Suction hose with a strainer is immersed in a separate container
+containing the spray liquid. Delivery system consists of a separate pressure chamber, a
+flexible hose, spray lance, and a spray nozzle. The lever attached to the pump is operated
+by the rocking- forward and backward movement of the handle. Pressure is developed in
+the pressure chamber, which may attain pressure of 14-18 kg/cm2. Such sprayers are used
+for spraying tall plants like coconut, arecanut trees and sugar cane plants. Uniform
+spraying can be done if sufficient pressure is maintained in the pressure chamber. It needs
+two persons to operate the sprayer, one for operating the pumping system and another for
+the application of spray liquid.
+Fig. Line diagram of rocking sprayer
+HAND ATOMIZER
+This sprayer is also ideally suited for home gardens and small fields. It consists of a
+container of 0.5 to 3.51it capacity a built in air pump, pressure gauge, nozzle and flow cut off
+lever. The tank is to be filled with 3/4th volume. The pump is operated to build pressure in the tank
+of 0.15-0.3 kg/cm2. When the flow cut off lever is pressed, the fluid passes through the nozzle and
+spraying is done. The application rate ranges from 45 to 100 lit /ha.
+59
+6 Power sprayers
+i) Motorized power sprayer
+It is the simplest engine driven sprayer used in agriculture. Power sprayers are operated
+usually with IC engines. The prime mower capacity varies from 1 to 5 hp. The pressure pump
+is operated by a small power unit ensuring a constant steady pressure. These sprayers are
+essentially high volume sprayers and operated at pressure ranges from 20 to 55 kg/cm2. These
+machines are usually portable type. It is carried on the back of the operator. It is used for
+spraying to all types of field crops most popularly to paddy, groundnut, cotton and vegetable
+crops. It consists of a 1.2- 3.0 hp high speed petrol engine, a blower, a 12 lit chemical tank,
+delivery hose, fleeted air hose, flow regulator knob and a plastic atomizer grate. The tank is
+filled with the required chemical solution. When the engine is started, the blower generates a
+high velocity air to which the chemical solution is fed. The chemical mixed air stream is
+broken in to fine droplets at the atomizer grate and sprayed.
+Motorized Knapsack sprayer
+Tractor operated power sprayers
+Sometimes, power sprayers are operated by the PTO shaft of the tractor. Power sprayers
+can cover much larger area, and do the job efficiently.
+A power sprayer essentially consists of: (i) prime mower (ii) tank (iii) agitator (iv)
+air chamber (v) pressure gauge (vi) pressure regulator (vii) strainer (viii) boom and (ix)
+nozzles.
+Prime mower: Prime mower is needed to supply power to the power sprayer. It is usually
+internal combustion engine. The power generally varies from 1 to 5HP.
+Tank: Steel tank is widely used to prevent corrosion. Plastic tanks are also getting popular
+due to freedom from corrosion and ease of moulding into smooth shape. A covered
+opening, fitted with a removable strainer is provided for easy filling, inspection and
+cleaning. A drain plug is provided at the bottom of tank for draining the liquid.
+Agitator: Agitators are needed to agitate the liquid in the tank. Propeller or paddle type
+mechanical agitators are provided to agitate the liquid. Horizontal shaft with flat blades
+rotating at about 100 to 200 rpm may be used. Paddle tip speed in excess of 2.5 m/s may
+cause foaming.
+Air chamber: An air chamber is provided on the discharge line of the pump to level out
+the pulsations of the pump thereby providing a constant nozzle pressure,
+Pressure gauge: It is provided on the discharge line to guide the operator regarding spray
+pressure. It should be under specified limit.
+Strainer: It is provided in the suction line between the tank and the pump to remove dust,
+dirt and other foreign materials.
+Boom: It is driven by a tractor, has a long boom in a horizontal plane on which nozzles are
+fixed at specified spacing. The boom can be adjusted vertically to suit the height of plants
+in different fields.
+Nozzle: It is used to break the liquid into the desired spray and deliver it to plants.
+60
+Fig. Line diagram of power sprayer
+6.1 Care and maintenance of sprayer
+(i) All washers and packing’s should be soaked in oil or water before use.
+(ii) The ends of the nozzle should be unscrewed and cleaned before starting the work.
+(iii) When spraying is over, the sprayer should be operated for some time with clean water
+to remove sediments from the pressure vessel and the discharge tube.
+Special attention has to be paid in case of power sprayers for the following:
+(a) Lubricating oil of the engine should be changed for every 100 working hours unless
+otherwise advised by the manufacturers.
+(b) Do not disturb the packing until a leak is observed.
+(c) The spray pump should not be worked at more than recommended pressure.
+(d) Oil level in the pump of the engine should be checked every time and all grease points
+should be greased once in a day.
+(e) Recommended oils and fuels should always be used in the engine.
+(f) Nozzle should be thoroughly cleaned after use by blowing air through it.
+DUSTERS :
+Duster is a machine to apply chemical in dust form. Dusters make use of air streams to
+carry pesticides in finely divided dry form on the plants. A duster essentially consists of:
+(a) hopper (b) agitator (c) feed control (d) fan or blower and (e) delivery nozzle.
+Types of dusters
+Dusters are mainly classified in to 2 types i) Hand operated dusters ii) power operated
+duster
+Hand operated dusters :
+i) Plunger type hand duster
+ii) Rotar duster
+Plunger type hand duster
+This machine consists of a chamber for the dust, outlet, a cylinder with piston, piston
+rod and handle. Sometimes the dust chamber is placed below the cylinder. By moving the
+piston back and forth in the cylinder, dust is forced through the outlet. This type of duster
+is suitable for dusting a small area.
+Rotary type hand duster
+This type of duster is provided with an enclosed fan geared to a hand crank and a
+hopper holding the dust. It is equipped with an agitator to stir the dust and a regulator to
+control the discharge opening. The duster is usually fastened to the operator by means of
+61
+shoulder strips. The right hand is used for cranking and the left hand to guide the discharge
+tube. These dusters can hold about 3.6 to 4.5 kg of dust and are large enough to treat 0.4 to
+0.6 hectare of cropped area in a day. Ordinarily they are not found suitable for dusting over
+3 meters height.
+Fig. Line diagram of rotary duster
+Power operated dusters
+The power duster of small capacity is generally mounted on the back of the operator. It
+consists of cylindrical container, blower, high speed engine and discharge hose pipe. The
+cylindrical container is provided with two compartments, one for gasoline, and the other
+for the powder to be dusted. The blower is directly mounted on the crankshaft of the high
+speed (4000 rpm) air cooled engine. The air pressure is utilized to agitate the dust in the
+container in order to blow it through the flexible hose pipe. The direction of the dust is
+regulated by a movable delivery spout suitably fitted with the unit. The dust can be blown
+up to about 6 meters height. Such a duster can cover about a hectare in a day. This type of
+duster can be converted into a sprayer with little modifications. Portable type power
+dusters are also in use. They are mounted on two wheel trolleys.
+Care and maintenance of dusters
+(i) Duster should be thoroughly cleaned before and after use with a suitable brush
+(ii) The hopper should be filled with dust about half of its capacity
+(iii) The lid of the hopper should be closed during the operation
+(iv) In rotary dusters, the handle should be cranked at 30 to 35 rpm for efficient
+performance
+(v) Before and after use of the duster, the dust from the fan box, suction pipe and hopper
+should be thoroughly blown out
+(vi) Pieces of paper, gunny bag and other foreign materials should be prevented from
+getting into the hopper
+(vii) The agitator parts and dust feed should be occasionally checked for blockage by
+foreign matter
+62
+LECTURE NO.19
+WEED CONTROL – INTER CULTIVATION EQUIPMENT
+INTERCULTURE TOOLS AND IMPLEMENTS
+Weeds can compete with productive crops or pasture, or convert productive land into
+unusable scrub. Weeds are also often poisonous, distasteful, produce burrs, thorns or other
+damaging body parts or otherwise interfere with the use and management of desirable plants by
+contaminating harvests or excluding livestock. They provide competition for space, nutrients,
+water and light.
+The operations performed in the field after sowing but before harvesting the crop are
+called as intercultural operations. Inter culturing is described as breaking the upper surface of soil,
+uprooting the weeds (unwanted plants), aerating the soil, thereby promoting the activities of
+microorganism and making good mulch, so that moisture inside the field is properly retained from
+evaporation.. These operations are accomplished by means of many tools and equipments, such as
+hoes, cultivators, harrows, rotary hoes etc.
+Implements used for inter cultivation
+They are classified into 3
+1. Hand hoe
+i) Japan harrow
+ii) Wheel hoe
+iii) Star weeder
+2. Animal operated
+3. Tractor operated
+Hand hoe
+Hand hoe is the most popular manually operated weeding tool use in the farm. It consists
+of an iron blade and a wooden handle. The operator holds the handle and cuts the soil with the
+blade to a shallow depth of 2-3 cm thereby weeds are cut and soil is stirred. The handle is short
+(30-40cm long) hence the operator uses the tool in bending posture. The coverage is 5-7 cents per
+day.
+Japan Harrow / Cono Weeder
+It is useful for uprooting and burying weeds in between standing rows of rice crop in
+wetlands. It disturbs the topsoil and increases the aeration. The unit consists of a long handle
+made of mild steel tube. Two truncated rollers one behind other are fitted at the bottom of the long
+handle. The conical rollers have serrated projections on the periphery. A float provided in the
+front portion prevents the unit from sinking into, the puddled soil. The cono weeder can also be
+used for trampling the green manure crop in addition to weeding operation. They are more
+efficient than manual pulling of weeds.
+Wheel Hoe
+The wheel hoe is a widely accepted weeding tool for weeding and intercultural in row
+crops. It is a long handled tool operated by pushes and pull action. The general construction of
+wheel hoe comprises of a wheel, tool frame, a set of replaceable tools and a handle Different types
+of soil working tools such as straight blade, V -blade, sweep, shovel, etc. can be used for different
+63
+works namely weeding , soil mulching, stirring etc. .Long handle reduces drudgery to operator.
+Wheel reduces energy requirement for pushing. All the soil working components of the tool are
+made from medium carbon steel. The coverage is 0.05 ha/day.
+Star type weeder : It is suitable for weeding in dry lands. It can be used in garden lands also
+when the soil moisture is low (10-15 %). One limitation is that it works well in line sown crops
+and not in broadcasted fields. It consists of a blade for cutting the weeds, a fulcrum wheel for
+push-pull movement and a long handle for easy operation. Long handle reduces strain on the
+operator. The radial arms of the fulcrum wheel are cut in to star like projections and hence the
+name star type weeder. Star wheel is designed for loamy soils. The operating width of the
+blade is 120 mm. The coverage is 0.05 ha/day.
+b) Peg type weeder: It is suitable for weeding in dry lands. It can be used in garden lands also
+when the soil moisture is low (10-15 %). One limitation is that it works well in line sown crops
+and not in broadcasted fields. It consists of a blade for cutting the weeds, a fulcrum wheel for
+push-pull movement and a long handle for easy operation. Long handle reduces strain on the
+operator. There are pegs welded on the periphery of the wheel hence the name peg type
+weeder. Peg type wheel is designed for clayey soils. The operating width of the blade is 120
+mm. The coverage is 0.05 ha/day. Both star type and peg type weeders are also called as dry
+land weeders.
+64
+LECTURE -20 & 21
+THRESHERS-COMBINED HARVESTERS- THRESHING TYPES- ALPOD
+THRESHER- TYPES OF CYLINDERS
+Threshing
+It is the process of detaching grains from ear heads or from the plants. Threshing can be
+achieved by three methods namely rubbing, impact and stripping. Threshing loosens the grains
+and separates from the stalk
+Threshing can be done by 3 ways
+i) Manual threshing
+ii) Threshing by using animals
+iii) Machine threshing
+Manual Threshing
+After harvesting the crop is cut into small bundles and flattened on a flat tabletop stone to
+separate grains from the straw. This method is often used in this area where the most harvested
+crop is grown.
+If the harvested crop is low, the crop is cut into small bundles and beaten with wooden
+sticks to separate the seeds. Approximately, 15-20 kg. of seed can be threshed in an hour.
+Threshing by using animals:
+The harvested produce is dumped on the threshing yard and by suing the animals threshing
+can be done by trampling under feet of animals running on the harvested crop. Around 100- 140
+kg. of grains can be separated from the straw mainly paddy wheat are threshed under this method
+in an hour.
+Machine threshing:
+Threshers are the most important component of farm mechanization. If threshing is not done
+timely, all efforts made by farmers and inputs given to crop goes wasted. Traditional method of
+threshing by animal is very slow. It gives low output. Due to low output, the cost of operation is
+high and there is a huge loss of grains because of rodents, birds, insects, wind, and untimely rain
+and fire hazards. Wheat threshers overcome these difficulties to a great extent. Wheat threshers
+are of two type viz. animal-drawn and power threshers. In animal-drawn threshers, Alpod thresher
+is a common machine used in different parts of the country. Power wheat thresher is a machine,
+which thresh the wheat crop and performs several other functions such as:
+• Feed the harvest crop to the threshing cylinder
+• Thresh the grain out of the ear head
+• Separate the grain from the straw
+• Clean the grain
+• Make ‘bhusa’ suitable of animal feeding.
+ALPOD THRESHER
+Threshing of paddy, wheat and barely requires very less energy and low cost for this in
+Gujarat state in alpod village one farmer has developed a machine which is called as alpod
+thresher
+‘Olpad’ threshers are also used for threshing wheat crop. A pair of bullocks pulls it around
+over the dried crop spread in a circular form on the threshing ground. Threshing is continued till
+the entire material becomes a homogeneous mixture of grain and ‘bhusa’ (chaff). It consists of
+about 20 circular grooved discs each of 45-cm diameter and 3-mm thickness placed 15 cm apart
+in three rows. An operator’s seat is provided on the frame to control the movement of animals. All
+discs are mounted staggered to give more effective cutting of the straw. It has 3 or 4 wheels to
+facilitate its movement from one place to other. Threshing by this thresher is fairly efficient and
+cheap but is quite slow with low output capacity. This machine can be used for threshing wheat,
+barley, gram etc.
+65
+Pedal operated Paddy Threshers:
+Paddy thresher of pedal operated type consists of mainly a well-balanced cylinder with a
+series of wire loops fixed on wooden slates. It has got gear drive mechanism to transmit power.
+While cylinder is kept in rotary motion at high speed, the paddy bundles of suitable sizes are
+applied to the teeth. The grains are separated by combining as well as by hammering action of
+threshing teeth. Paddy is threshed due to impact and rubbing action between threshing drawn
+loops and concave screen. The grains are cleaned with the help of a fan and cleaned grain goes
+down through the grain outlet at the bottom of the thresher. They are available in different horse
+power range.
+Pedal operated paddy thresher.
+Power thresher
+Different parts of a thresher and their functions
+A mechanical thresher consists of the following parts:
+i). Feeding device (chute/tray/trough/hopper /conveyor)
+ii). Threshing cylinder (hammers/spikes/rasp-bars/wire-loops/syndicator)
+iii). Concave (woven wire mesh/punched sheet/welded square bars)
+iv). Blower/aspirator
+v). Sieve-shaker/straw-walker.
+Working principle of a thresher
+During operation, the crop material is slightly pushed into the threshing cylinder through
+the feeding chute, which gets into the working slit created between the circumference of the
+revolving drum having attached spikes and the upper casing. The speed of the spikes is greater
+than the plant mass due to which they strike the latter which results in part of the grain being
+separated from straw. Simultaneously, the drum pulls the mass through the gap between the
+spikes and the upper casing with a varying speed. The angle iron ribs on the other hand, restrain
+the speed of the travelling of stalks clamped by the spikes. Due to this the spikes move in the
+working slit with a varying speed in relation to the shifting mass of material, which is
+simultaneously shifted, with a varying speed with respect to the upper casing. As a result, the
+material layer is struck several times by the spikes against the ribs, causing threshing of the major
+66
+amount of grains and breaking stalks into pieces. As the material layer shifts towards the
+progressively converging slit of lower concave, its size reduces. The vibration amplitudes,
+therefore, decrease where as the speed of the layer increases. This causes mutual rubbing of the
+ear stalks, as well as rubbing of the ears against the edges of the concave bars and causes breaking
+of stalks depending on the concave clearance. Since the system is closed, the thicker stalk, which
+cannot be sieved through the concave, again joins the fresh stalk and the same process is repeated
+until the stalk size is reduced to the extent that it can pass through the concave apertures. Thus
+fine bruised straw is produced. The effective threshing process means that the loss of un-threshed
+kernels ejected with the straw through the concave and the loss of grain damage should be low
+and the amount of the material passed through the concave should be high.
+Threshing cylinder
+It is the most important component of thresher. It has balanced rotating assembly
+comprising rasp beater bar or spikes on its periphery and their support for threshing the crop
+Types of Cylinders
+1) Peg tooth
+2) Wire loop
+3) Rasp bar
+4) Angle bar
+5) Hammer mill
+67
+Peg tooth
+• The teeth on the concave & cylinder are so arranged that the cylinder teeth pass
+midway between the staggered teeth on the concave
+• The clearance between the cylinder & the concave is adjusted according to the
+requirement
+• As the stalks pass through the clearance space, the grains get separated from the head
+due to impact action between the teeth
+Wire loop
+• Cylinder is studded with number of wire loops through out its outer periphery
+• Mostly used on paddy thresher
+Angle bar
+• Cylinder is equipped with angle iron bars, helically fitted on the cylinder
+The bars have rubber pads on their faces
+• The clearance between cylinder and concave unit at the entrance is from 13 mm to 19 mm
+and reduces to 6 to 9 mm only
+Hammer mill type
+• Beaters are in the shape of hammer mill
+• Beaters are attached with the beater arm at the tip
+o Beater arms are rigidly fixed to a hub which is mounted on main shaft
+Rasp bar cylinder
+o Cylinder has corrugated bars round it
+o Threshing is accomplished between corrugated cylinder bars and stationary bars of
+the concave portion
+o Rotating cylinder takes the grains out from the head as it is drawn over the bars on
+the concave unit
+o Usually 6 to 8 bars are spirally fixed on the cylinder
+Safety precautions in threshing operation: -
+1. Leave all guards and shields in place when operating the machine
+2. Before cleaning, servicing, or repairing the machine, disconnect the power to the unit.
+3. Use only properly grounded outlet (electric only)
+4. Keep hands out of threshing belt entry area
+5. Do not wear loose clothing when operating this machine. Clothing can be grabbed by
+chain drives or rotating shafts and severe injury can result
+6. Keep hands and feet away from chain drives and v-belts when machine is running
+7. Lock brake when using (if equipped).
+Guide lines for maintenance of a crop thresher:
+1. Lubricate cylinder and fan bearings with good-quality general purpose grease every 25
+hours of operation. Periodically apply a small amount of oil to all hinge points.
+2. Inspect the machine regularly for loose, worn, or damaged peg teeth, concave bars,
+cylinder, discharge paddles and other parts, and tighten, repair, or replace them
+immediately. Missing bolts or nuts must also be replaced.
+3. Reduce belt tensions by loosening the idler pulley and engine mounting bolts when the
+machine will not be used for an extended period to minimize deterioration.
+4. Check engine crankcase oil level at least every 4 operating hours and follow the engine
+manufacturer’s recommendations for oil change intervals and oil grade. Be sure the
+Recommended oil level is to be maintained.
+5. Service the air cleaner, fuel filter, fuel line, carburetor, and spark plug regularly
+according to engine manufacturer’s instructions.
+68
+Guide lines for storage of a threshing machine
+1. Clean the machine thoroughly.
+2. Remove belts and store in a dry place.
+3. Store the machine in a clean, dry location and cover to reduce damage from dust
+accumulation.
+4. Paint the parts which need repainting.
+5. Clean and apply oil to exposed metal surfaces to prevent rusting.
+6. Follow the manufacturer’s recommendations on engine storage.
+All crop thresher- Component of a thresher and Working principle:
+A mechanical crop thresher mainly consists of the following component/ devices:
+a) Feeding device (chute/tray/trough/hopper/conveyor)
+b) Threshing cylinder (hammers/spikes/rasp-bars/wire-loops/syndicator)
+c) Concave (woven-wire mesh/punched sheet/welded square bars)
+d) Blower/aspirator
+e) Sieve-shaker/straw-walker.
+Working Principle of thresher:
+The crop is fed from the feeding tray into the threshing cylinder. The threshing cylinder is
+fitted with spikes/bars/hammers or wire-loops around its periphery according to the type of
+thresher. During operation, the crop material is slightly pushed into the threshing cylinder through
+the feeding chute, which gets into the working slit created between the circumference of the
+revolving drum having attached spikes and the upper casing. The speed of the spikes is greater
+than the plant mass due to which they strike the latter which results in part of the grain being
+separated from straw. Simultaneously, the drum pulls the mass through the gap between the
+spikes and the upper casing with a varying speed. The angle iron ribs on the other hand, restrain
+the speed of the travelling of stalks clamped by the spikes. Due to this the spikes move in the
+working slit with a varying speed in relation to the shifting mass of material, which is
+simultaneously shifted, with a varying speed with respect to the upper casing. As a result, the
+material layer is struck several times by the spikes against the ribs, causing threshing of the major
+amount of grains and breaking stalks into pieces, and also accelerating them into the inlet of the
+lower concave.
+As the material layer shifts towards the progressively converging slit of lower concave, its
+size reduces. The vibration amplitudes, therefore, decrease, where as the speed of the layer
+increases. This causes mutual rubbing of the ear stalks, as well as rubbing of the ears against the
+edges of the concave bars and causes breaking of stalks depending on the concave clearance.
+Since the system is closed, the thicker stalk, which cannot be sieved through the concave, again
+joins the fresh stalk and the same process is repeated until the stalk size is reduced to the extent
+that it compass through the concave apertures. Thus fine bruised straw is produced.
+The entire or a portion of threshed material falls from the concave on to top sieve of the
+cleaning system. Due to reciprocating motion of top sieve lighter accumulate at the top and grain
+falls on to the bottom sieve. In case of spike tooth thresher, an aspirator blower sucks out the
+lighter material from the top sieve and throws it out from blower outlet. The sieves help in further
+cleaning of the grain by allowing heavier straw to overflow.
+69
+LECTURE -22 & 23
+WINNOWING, CHAFF CUTTER AND SUGARCANE CRUSHER
+Wind winnowing is an agricultural method developed by ancient cultures for separating
+grain from chaff. It is also used to remove weevils or other pests from stored grain. Threshing, the
+separation of grain or seeds from the husks and straw is the step in the chaff-removal process that
+comes before winnowing. Winnowing can be done by manually with a shaped basket shaken to
+raise the chaff, a winnowing fork or shovel, winnowing Fans and by using winnowers’
+"Winnowing the chaff" is a common expression. In its simplest form it involves throwing
+the mixture into the air so that the wind blows away the lighter chaff, while the heavier grains fall
+back down for recovery. Techniques included using a winnowing fan (a shaped basket shaken to
+raise the chaff) or using a tool (a winnowing fork or shovel) on a pile of harvested grain
+Winnowing, the process of separating quality grains from chaff, is a crucial process in the
+cultivation of paddy. The traditional way of winnowing is making the dried grains fall from a
+height using shovels and a sieve. The quality grains which are heavy fall vertically while the
+weightless chaff and straw get blown away by the wind. Thus, winnowing is effective only when
+there is a wind. Farmers often have to wait for hours for the wind to blow before they could start
+the process of winnowing
+Winnowing by Fan:
+Winnowing fan are various type of hand operated and pedal operated being manufactured
+by many firms in India. The number of the blades on their impellers is either 3 or 4.The diameter
+of the impeller is varies about .90 to 1.25 m pedal operated winnowing fan at about 350 rpm
+indicate that the maximum air velocity is found in a zone of 1.2 to 1.8 m distance from the fan.
+Mostly the blades are made of mild steel sheet and their frames are made of either wood or
+welded steel or a combination of the two in order to increase the speed of rotation various driving
+mechanism are employed, namely chain and sprocket, V belt pulleys and single or double
+reduction gear.
+Grain winnower
+This machine winnows the paddy already threshed by a paddy thresher or other means. It
+has a feeding hopper at the top to receive the threshed paddy with other impurities. It discharges
+the threshed paddy over a scalper and removes bigger size impurities. A blower provided at
+bottom sends a stream of air against the grain falling through the scalper, which separates the
+straw, chaff and other impurities. The dust, chaff and straw are collected separately and cleaned
+paddy is taken out through another outlet near the bottom of the unit. The capacity of unit is 625
+kg/h and the unit is operated by one hp motor.
+70
+Paddy winnower
+The machine winnows paddy already threshed by the paddy thresher or by other means. It
+has a feed hopper at the top to receive the threshed paddy, chaff and straw bit. A blower provided
+at the bottom sends a stream of air which separates straw, chaff and other impurities. The dust,
+chaff and straw come out through an opening and cleaned paddy is taken out through another
+spout. The unit is continuous type and operated by one hp electric motor.
+Chaff Cutter
+Green fodder crops are essential food requirement for on-farm animals. These fodder crops
+are harvested from the field daily either by sickles or reapers. Then crop is collected from the field
+and carried to the farmhouse where it is cut into small pieces. This is done to save storage, to aid
+in curing and to make it more palatable. The cutting of fodder into small pieces is done either
+manually using ‘Gandasa’ or by using manually or power operated chaff cutters. Depending on
+the type of cutting head, chaff cutters may be classified as cylinder cutting head machine and
+flywheel type cutting head machine. According to power used chaff cutters are classified as hand
+chaff cutters, animal operated chaff cutters and power chaff cutters or silage cutters.
+Cylinder type cutting head chaff cutter: It is commonly used on power chaff cutters. This type
+of cutting heads is sometimes used on field forage harvesters that cut the fodder crop from the
+field, chop and blow into wagon. The machine consists of four spiral-shaped knives on a
+revolving cylinder, which looks like the rotary lawnmower. The knives can be sharpened without
+being removed from the cylinder. The size of chaff can be adjusted by changing the speed of feed
+rollers provided adjacent to the shear plate. The chopped material fall into housing from where it
+is stored at a proper place. This type of machine is not commonly used in India and is more costly
+as compared to flywheel type machine.
+71
+Flywheel type chaff cutter:
+It consists of a cast iron flywheel and radial mounted knives. Straight knives are used on
+power chaff cutters and curved knives on hand chaff cutters. The number of knives varies from
+two to six depending upon the type of chaff cutters and size of chaff desired. Hand operated chaff
+cutters are provided with two knives only. Some power chaff cutters of large size have blower
+used for silo filling. The average working speed of hand chaff cutter is 50 rpm with one knife and
+35 rpm with two knives. The power operated chaff cutters are operated at working speed of 600-
+1000 rpm. For proper cutting of silage, knife should operate close to the shear plate without
+striking. Clearance between the shear plate and knife can be adjusted by a set of screws provided
+for the purpose. The knife is fastened on the flywheel by means of two or three counter sunk
+bolts.
+The size of chaff or length of cut can be changed by changing the speed of feed rollers.
+Hand operated chaff cutters are provided with a two speed worm for adjusting the length of cut
+where as two or three speed gearbox has been provided on power operated chaff cutters. Reducing
+or increasing the number of knives on the flywheel can also changes the length of cut of silage.
+This can be done easily on the hand operated chaff cutters. On power operated chaff cutters,
+length of cut of silage can be adjusted by increasing the speed of cutter head. The length of cut of
+silage varies from 20-40 mm and for green fodder 25-50 mm or sometimes more.
+The feeding mechanism of a power operated chaff cutter consists of an apron and two feed
+rollers. Aprons are generally provided with metal or wooden slates to give a positive feed. The
+length of the table on which the apron moves is about 2 m so as to accommodate tall grasses or
+fodder crops. Spring-loaded feed rollers are provided to compress and feed the uncut material to
+the cutting head. Generally, corrugated or toothed rolls are preferred. Hand operated machines are
+not provided with aprons. A feed-table or merely a feed box is considered to be enough for this
+machine and the feeding is done by hand. Feed rollers of the hand-operated machine have variable
+spacing and the worm mounted on the flywheel shaft operates them. The bullock operated chaff
+cutters is similar to hand operated one but it is provided with a smaller diameter flywheel on
+which two or three knives are mounted. By means of a set of gears and universal joints, the slow
+speed of bullocks is utilized to operate the machine at about 250 rpm and thus its capacity
+becomes 4 to 6 times more than that of the hand operated machine.
+72
+The capacity of field chopper can be calculated by:
+C = WHLNRK
+Where,
+C = capacity of field chopper, kg/h or tones /h
+L = length of Chaff cut, cm
+W = width of throat, cm
+H = height of throat, cm
+N = number of knives
+R = rpm of flywheel
+K Constant value 20 x 10-6
+Care and adjustments of hand chaff cutter:
+Since the hand operated chaff cutter is a simple and useful machine, it is very popular among
+Indian farmers. In order to get the most efficient operation for a long time; it must be properly
+installed on a rigid foundation preferably under shed. Many farmers have converted hand chaff
+cutters into power chaff cutters by using 1 hp electric motor or small engine.
+The following general procedure of maintenance and lubrication should be followed:
+1. Before the machine is put into operation, its gears and bearings should be lubricated
+2. The knives should be sharpened by hand filing. If the cutting edge has become too
+blunt, it should be sharpened on a grinder to the proper bevel only on one side
+3. The clearance between the knives and the shear plate should be adjusted for the
+effective cutting
+4. Loose nuts, bolts, and screws should be tightened to avoid accidents
+5. After the day’s work is over, dirt from the gears and bearing parts and moisture from the
+knives should be wiped off
+6. While the machine is idle, its flywheel should be kept locked so that the children do not
+operate it
+7. Most of the cast iron parts and particularly the flywheel of the machine are quite
+susceptible to breakage by hammering, which should always be avoided
+8. The moving parts should be properly lubricated
+9.
+Problem 1: Find the capacity of a field chopper by using following data
+Chaffer width while coming from roller / width of throat in cm = 25 cm
+Thickness of the chaffer / length of the throat = 12 cm
+Length of the chaff cut in cm = 1.25 cm
+Number of knives = 3
+Fly wheel rpm = 750 rpm
+Constant value K = 20 X 10-6 ( Answer : 16.875 tones /h)
+73
+Sugarcane crusher machine
+Based on the energy used the crushers are
+1. Man operated
+2. Animal operated
+3. Power operated
+They are two types
+1. Vertical Roller type
+2. Horizontal roller type
+Main parts are:
+In every engine 3 types of rollers are arranged
+1. King roller
+2. Crushing roller
+3. Extraction roller
+4. Bucket
+5. Electric Motor
+In the power operated machine the king roller is connected to the motor with help of the
+shaft and wheels of the machine. The compression roller and extraction rollers are connected to
+the king roller with the help of the wheels. But the crushing roller and extraction roller are not
+connected with the help of wheels. The King Roller is in a stable position. The remaining two
+rollers are separated by a size of cane to make the space between the roller for shorter or longer.
+Two or more canes are sent between the King Roller and the Crushing Roller to squeeze
+the juice. This results in a thicker layer on top of the cane and the juice is better squeezed out. The
+remaining juice is then rolled by the King Roller and the Extraction Roller comes out. The juice is
+thus rolled into a bucket mounted on the bottom of the machine by a plate placed under the roller.
+As a result, the roller is used to hold the mine vertically or horizontally due to which the canes are
+crushed hardly.
+Care should be taken while running the Crusher:
+1. The gap between the roller is very less then quantity of the juice will be less
+2. The motor runs with speed of 3km/hr in that at a time we can feed the canes at a time.
+3. Rollers need to make sure the speed is high or low.
+4. If the grooves on the roller are broken, replace the roller immediately.
+5. Canes should be placed between the rollers without stopping.
+74
+LECTURE. 24
+CASTOR DECORTICATOR-MAIZE SHELLER
+Castor decorticator
+Castor seed can be separated by following methods
+1. Beating by wooden sticks
+2. Hand operated machines
+3. Power operated machines
+Beating by wooden sticks :
+When less quantity to be threshed the castor nuts to be spread on the threshing yard and
+beaten with the wooden sticks to separate the seed from the castor nuts. A man can thresh 100
+to 125 kg. in a day and there is a chance of damage of seed.
+Castor sheller cum winnower
+The machine consists of a teak wood cylinder and concave, a feed hopper, blower, sieve
+assembly and 2 hp electric motor. Unthreshed pods are retained on the top of sieve and come
+out from chute at the end of the sieve. Partially and completely shelled one pass through the
+top sieve. The middle sieve retains the partially shelled pods and allows the shelled beans to
+pass through. The partially shelled pods come out from chute at the end of middle sieve. The
+lighter hulls are blown out by the blast of air form the blower. The shelled bean comes out
+form the chute at the middle of the bottom perforated sheet. The perforations allow sand
+particles; weed seed etc. to be sieved out of the threshed castor bean. Capacity of the unit is
+250 kg/hr.
+Castor Sheller
+The sheller consists of a wooden ribbed cylinder of 320 mm length and 380 mm diameter,
+concave, cylinder cover, feeding chute discharge cute, drive mechanism and crank. The clearance
+between the concave and cylinder adjustable depending on the size of bean. Shelling drum is
+operated by crank through a gear unit which shells the castor pods. Manual clearing is done. The
+unit is operated by two labours. Capacity of the unit is one quintal per day.
+75
+Castor Sheller
+Maize Sheller (Power operated)
+Maize Sheller is used to separate grain from cobs. Before shelling, the foliage is removed
+manually. Maize shellers are either manually operated or power operated. A power operated
+maize Sheller uses 30-36 cm diameter cylinder of 80-100 cm lengths. On the periphery of the
+cylinder, there are pegs that remove the grain from cobs using axial flow movement. The cylinder
+speed is maintained in between 500-600 rpm. The cob moves toward the end of sheller from
+feeding side and during this process grains are rubbed against drum and posses through the
+concave. Blower is provided to remove lighter material. Concave clearance and cylinder speed
+can vary and adjusted as per recommendation.
+Maize shellers are used for all types of maize varieties local as well as hybrid and
+composites. Maize shellers are of two types viz. spring type and cylinder type. Spring-type sheller
+consists a rotating fluted cylinder, a rotating disc and a spring pressure plate. The cobs are fed to
+rotating fluted cylinder and kernels are removed from cobs as they move in between cylinder and
+disc. Blower blow off the light material and clean grain is collected separately. These shellers are
+available in various sizes such as domestic shellers, single-hole and double-hole shellers.
+Domestic sheller is a hand operated and available with small farmer for shelling of small quantity
+of maize.
+The cylinder-type sheller consists of a cylinder with lugs, concave assembly and a blower
+unit. Spiral ribs are provided in the cylinder for smooth movement of cobs. Cobs are fed in
+between cylinder and concave and kernels are removed by the action of lugs. Blower cleans the
+lighter materials and small pieces of cobs and clean grain is collected. The 5-10 hp electric motor
+or tractor can operate the machine.
+76
+LECTURE. 25
+GROONDNUT DECORTICATOR
+Groundnut decorticator
+It used for taking ground nut kernels from pods. It can be operated by a tractor PTO an
+electric motor or a diesel engine. It consists of a hopper, double crank lever mechanism, an
+oscillating sector and a blower. On oscillating sector cast iron shoes with projecting pegs are
+fitted. Pods fed through hopper are shelled between oscillating sector and fixed perforated
+concave. Mixture of kernels and shells is subjected to air blast from blower. Kernels are collected
+through o spout at bottom shells are blown-off clearance between concave and oscillating sector
+can be adjusted to suit pods of varying sizes and varieties.
+77
+LECTURE 26 & 27
+DRYING-TYPES OF DRYING-LSU DRYER
+Generally, the crop is harvested when the moisture content is between 24 to 25 percent.
+This reduces the rate of grain loss and minimizes grain loss during harvesting, but the amount of
+moisture content of the grain should be 12 to 14 % required to be stored for long periods of time
+is safe. Drying is the phase of the post-harvest system during which the product is rapidly dried
+until it reaches the “safe-moisture” level. The aim of drying is to lower the moisture content of the
+grain for safe storage and further processing.
+Importance of drying
+• Permits long time storage of grain without deterioration
+• Permits continuous supply of product thro’ out the year
+• Permits early harvest which reduces field damage and shattering loss
+• Permits the farmers to have better quality product
+• Makes products available during off season
+Methods of drying
+For drying grain, essentially two methods
+• Natural drying and Artificial drying
+Natural Drying:
+The natural drying method consists essentially of exposing the threshed products to the air
+(in sun or shade). To obtain the desired moisture content, the grain is spread in thin layers on a
+drying-floor, where it is exposed to the air. The duration may vary depending upon the moisture
+content required for safe storage. To achieve uniform drying, the grain must be stirred frequently,
+especially if it is in direct sunlight. The relative humidity of the ambient air must not be higher
+than 70% for effective drying.
+Some important points to remember:
+1) Uncontrolled, non uniform drying resulting in sun checks or cracks in kernels. When the dried
+grains are milled, they yield large quantities of broken. 2) The process is dependent on the suns
+energy which is normally not available during the monsoon season 3) Sun drying requires large
+numbers of unskilled labours
+4) Considerable amount of paddy is lost to birds, rats, during sun drying
+5) Sun drying requires fuel neither nor mechanical energy, and hence the cost of drying per unit of
+paddy is relatively low 6) Sun drying requires large areas hence not suitable for rice mills located
+in cities (due to scarcity of space).
+Sun drying of raw paddy is done either before the stacks are cut or drying the grains after harvest
+and threshing
+Advantages
+• Very low initial cost
+• Reduces the cost of drying
+• Flexible capacity
+Disadvantages
+• Slow drying process
+• Depends on the weather
+• High risk of contamination e Possible loss due to birds and rodents
+• High labour input
+78
+Mechanical drying
+This process utilize mechanical means for paddy by ventilating natural or heated air
+through the grains mass to accomplish the removal of excess moisture from it Its features are
+1) The rate of drying grain can be controlled by adjusting the temperature of hot air ventilating
+through the grain mass. The process therefore marked possible the reduction of temperature and
+moisture stresses developed during the drying process which are responsible for the cracks in the
+kernels
+2) Grains can be dried irrespective of weather conditions.
+3) The process is automatic and requires unskilled labor, except a trained person to operate the
+dryer
+4) There are practically no losses to insects, birds and rodents.
+5) The process requires fuel and electrical or mechanical power to drive the air blower, elevators,
+etc. Therefore the cost of drying per unit of paddy is relatively higher compared to sun drying
+6) Mechanical drying requires very little space for operation hence suitable for modern rice
+complexes
+7) Mechanical drying in conjunction with early harvest improves the milling quality of paddy
+considerably
+Drying systems
+A) Thin layer drying
+Thin layer drying refers to the drying of grains which are entirely exposed to the air, moving
+through the grains
+Special features of thin layer drying
+1) Grain depth should be not more than 20 cm
+2) At a given relative humidity, the drying rate is proportional to the difference between grain
+moisture content (MC) and equilibrium moisture content (Dry basis)
+3) Rate of drying is proportional to the difference between vapor pressure of grain and vapor
+pressure of drying air
+4) At given moisture content the drying rate is proportional to the difference between the dry bulb
+temperature of air in equilibrium with the grain
+The drier which uses the principles of thin layer drying is known as continuous flow drier.
+Continuous flow drier is of two types
+1) Non mixing columnar drier
+2) Mixing drier
+B) Deep bed drying process
+Deep bed drying process includes bin or batch type driers. When the drying air has to pass
+through a layer of more than 20 cm thickness of grain, it is called deep bed drying process. The
+natural or heated air is forced through the bottom of the bin upward through the wet grain. The
+temperature humidity saturated vapor pressure and specific volume of drying air change as the air
+passes through the grain. Consequently, the drying potential of air decreases as it moves upwards.
+Deep bed drying method may be thought as a process of drying grain in several thin layers, in
+which the temperature and humidity of air, entering and leaving each layer vary with time
+depending upon the stage of drying.
+This type of drying system consists of the following:
+a) Structure for holding grain
+b) Suitable fan or blower for supplying air
+c) Air distribution system
+d) Heating unit
+Circular bins made of plain or corrugated steel sheets are commonly used in this system. The
+main consideration is to provide a tight structure, which prevents leakage of air and moisture
+through floors and walls
+Two types of air distribution system may be used for this drier
+a) Perforated or bottom open ducts placed on a solid floor
+b) Perforated false floor with air introduced below it
+79
+Types of dryers:
+1. Sack dryer 2. Bin dryer 3. Continuous flow dryer or
+1. Sack dryer
+Sack dryer is best for small quantity of grains to dry. In this process large rooms are prepared
+with big holes and are covered with the steel frame with wholes on it for the air flow. The air will
+be passed into this with the help of the power operated motor attached blower will blow the air
+into it which will touches the grain their by the moisture will be evaporated by this grain moisture
+will be reduced. Generally 45oc temperature air will be bowled into it.
+2. Louisiana State University (LSU) dryer:
+This is a continuous flow – mixing type of grain dryer which is popular in India and the
+U.S.A. It was developed at Louisiana State University Baton Rouge, USA in 1949.
+Construction- It consists of:
+(1) A rectangular drying chamber fitted with air ports and the holding bin.
+(2) An air blower with duct.
+(3) Grain discharging mechanism with a hopper bottom and
+(4) An air heating system
+(1) Rectangular bin : Usually the following top square sections of the bin ate used for the design
+of LSU dryers:
+(i) 1.2 m x1.2 m, (ii) 1.5 m x 2.1 m.
+(ii) 1.8 m x 1.8 m and (iv) 2.1 m x 2.1 m.
+The rectangular bin can be divided into two sections, namely, top holding bin and bottom
+drying chamber. (2) Air Distribution system: Layers of inverted though or V-shaped channels
+(called inverted V-ports) are installed in the drying chamber. Alternate rows of these ports are
+opened on the blower and closed on the exhaust end. These are called inlet ports Hot air enters
+the drying chamber through these ports. The other alternative rows of ports are closed on the
+blower end and are opened on the exhaust end. These are called outlet or exhaust ports as the
+drying air goes out though these ports. The inlet and outlet ports are of uniform sizes and
+equal in number with equal in number with equal spacing in between them. Usually the inlet
+ports are given in 3 columns and outlet ports in 4 columns (2 columns of full size ports and 2
+column of half-size ports). The number of ports containing a dryer varies widely depending on
+the size of the dryer. The inlet and outlet ports are arranged one below the other in a zig-zag
+path, so that when paddy flows down between these ports, it takes a zig-zag path. Hot air
+enters the inlet ports from the blower end. Since these ports are closed on exhaust end, the hot
+air from these channels or ports flows down through the paddy and enter the outlet ports and
+leave the drying Chamber through exhaust side. Some degree of mixing of hot air and paddy
+occurs in this chamber while air is flowing across it in zig-zag path and paddy flowing
+downwards. Three fluted rolls are attached at the bottom, which are rotated at a slow speed.
+The discharge of the paddy is regulated with these fluted rolls. To provide hot air for drying,
+fuel is burnt to raise the ambient air temperature. Heat may be supplied by the direct fired
+burners or director or indirect heat exchangers.
+80
+In general, the capacity of the dryer varies from 2 to 12 ton of grain, but sometimes dryers
+of higher capacities are also installed. Accordingly power requirement varies widely.
+Recommended air flow rate is 70 m3/min/ton of dry paddy and optimum air temperatures are
+60-700 C and 850 C for raw and parboiled paddy respectively.
+81
+LECTURE 28
+RICE MILLING
+Rice milling is the process of removing the husk and bran layer to produce white rice. Rice
+milling can be undertaken as:
+• A one step milling process where the husk and the bran are removed in one pass and white rice
+is produced directly from the paddy.
+• A two-step process where the husk and the bran are removed separately and brown rice is
+produced as an intermediate product.
+• A multistage process where rice passes through a number of different operations and machines
+from paddy to white rice.
+The shell covering the rice grain kernel is known as husk and the process by which this is
+removed without to be objected damage in the rice kernel is what is termed as deshelling
+operation and the machines employed to carry out this are named either as huskers or as shellers.
+At present three types of such machines are used in India for the purpose and they are
+i) Under runner disc shellers
+ii) Rubber roller shellers
+iii) Hullers
+Under runner disc sheller
+The under-runner husker is very common in Asia. This machine has two steel discs, which
+have an emery coating. The upper disc is stationary and fixed to the cast iron housing. Paddy
+flows from a centrally located hopper between the abrasive surfaces of the revolving lower disc
+and the stationary upper disc. Resistance between the emery surface on the discs and the paddy
+grains removes the husk leaving the brown rice kernel. Brown rice and husks are then discharged
+circumferentially over the revolving disc and exit through an outlet. This machine is very
+economical to run, produces a moderate amount of cracked or broken grain, and has a hulling
+efficiency of about 85-90%.
+Advantages:
+• Capacity is higher than steel huller type.
+• Cracked and broken grain is less than steel huller type.
+• More power efficient than steel huller type.
+• Easy to operate.
+• Low operation cost.
+• Machine is very durable.
+• It is nearly comparable to rubber rolls huller
+Disadvantages:
+• Machine is very heavy and requires a moderate size operating space.
+• This process scratches the rice kernel.
+• As the abrasive stone wears, sand and silicon dislodges and mixes with rice and bran.
+• Rice recovery less than the rubber rolls huller.
+• Huller efficiency in this machine is 85-90%
+82
+Rubber roller huller:
+The rubber-roller huller is the most efficient hulling machine. As the name suggests two
+rubber rollers of the same diameter are operated at different speeds to remove the husk from the
+paddy. One roller has a fixed position and the other is adjustable to meet the desired clearance.
+The adjustable roller rotates slightly slower than the fixed roller. Rubber-roll hullers have an
+aspirator in the base of the machine to separate the hulls from the brown rice. The roll diameter
+varies from 150 to 250 mm and the roller width from 60 to 250 mm. The correct clearance is
+dependent on the varietal characteristics and the width and length of paddy. This method of
+hulling can achieve hulling efficiencies of 85% to 90% with minimum broken or cracked grain.
+This type of machine is now widely used in developed countries.
+Advantages:
+• Reduce breakage of milled kernels.
+• High hulling efficiency.
+• By-products are free from sand and silicon.
+• Bran also in higher quantities compared to disc huller
+• Very compact in comparison to disc huller.
+• Less vibration
+Disadvantages:
+• Cost to purchase
+• Cost of rubber rollers
+Hullers
+Almost all the huller rice mills are having one or more hullers with winnower grader. The
+huller consists of a solid fluted cylinder rotating at 700 to 800 rpm within a hollow stationery
+cylinder in the lower half of which is the perforated iron sieve with slots of 1.5- 7.5 mm. The flute
+on the cylinder is so arranged as to carry the paddy to the centre from the feeding end, get it
+milled by scoring action at the centre of the cylinder and then to carry it to the other end where the
+milled rice is discharged. The hullers are used first for shelling by keeping a wide clearance
+between the cylinder and the blade. Each huller is driven by a 20 to 25 hp motor using belt drive.
+The winnower has got a blower which is driven normally by a 50 hp motor. The husk is blown off
+and the result mixture of rice and broken is graded by a reciprocating motion of the grader
+attached with the winnower. The eccentric shaft attached with blower shakes the grader. The
+grader is fitted with two or three sets of sieves for grading the rice into various fractions
+Advantages of Hullers
+i) Investment required for unit capacity is extremely low
+ii) It is manufactured in India without any foreign collaboration
+iii) It needs very small space to be installed
+iv)It is very single in design
+v) It can be used both as whitener or polisher
+Disadvantages:
+83
+i) It gives low head yield, and large brokens and low total yield of rice from paddy
+ii) During the first shelling operation, the outer layers of the rice kernel and along with it 20 to
+30% of the total oil are also removed and thrown away along with husk
+iii) Germs, bran and husks get mixed together
+iv) Separation of paddy from rice cannot be achieved in the machine
+v) Power consumption per ton of paddy is quite high
+Polishing
+A paddy grain after being properly deshelled, remains coated with a thin layer of bran, the
+germ being loosely adhered to the rice kernel. This bran layer displays a dull appearance to rice
+grains, minimum fraction of which is to be removed to bring about the acceptable appearance to
+the consumers and at the same time to make the grain suitable for human consumption, since bran
+content of rice, as it is a bit too much to be easily digested by human beings. The process by
+which this removal of bran is accomplished is known as whitening of rice and the machine doing
+this operation a rice whitener
+Types of rice whiteners:
+i) Grinding type
+ii) Friction type
+iii) Combination of friction and grinding type
+Grinding type can be grouped into two categories:
+a) Vertical cone rice whitening machine
+b) Horizontal rice whitening machine, Huller is included under the friction type units
+84
+LESSON NO – 29
+GRAIN STORAGE STRUCTURES
+Grain is generally stored either in bags or in bulk. A combined system of bag-cum-bulk
+storage is also practiced in some parts of the country. In villages the bulk storage system is more
+common than the storage in bags which is considered to be a practicable method· of storing grain
+in the government go downs as well as in trade. The following three types of storage structures for
+storage of grains.
+• Traditional storage structures
+• Improved storage structures
+• Modern storage structures
+• Farm Silos
+•
+DIFFERENT TYPES OF STORAGE STRUCTURES
+Morai type storage structure
+Morai type of structure is used for the storage of paddy, maize and sorghum (jowar) in the
+rural areas of eastern and southern regions of India. Its capacity varies from 3·5 to 18 ton. These
+structures are very similar to the shape of an inverted cone. They are placed on a raised platform
+supported on wooden or masonry pillars. The improved type of structure consists of a circular
+wooden plank floor supported on pillars by means of timber joints. The planks are joined together
+with lap joints. All around the wooden floor a 22 gauge corrugated metal cylinder of 90 cm height
+is nailed to it. The edge of the cylinder is flushed with the bottom end of the floor. Inside the
+cylinder, 7·5 cm diameter ropes made of paddy straw or similar material are placed, beginning
+from the floor level upto a height of 90 cm. Then bamboo splits are placed vertically along the
+inner surface without leaving any gap between them. The height of the bamboo splits is equal to
+the total height of the structure. Keeping the bamboo splits in position, the grain is poured in up to
+the height of the metal cylinder. By then the bamboo splits are held erect in position. Now the
+winding of the rope as well as the pouring in of grain are done simultaneously. This process
+continues tiIl the required height is attained. The top most ring of the rope is secured in position
+by tying to the lower four rings. To provide a smooth surface, about 1 cm thick layer of mud
+plaster is applied over the rope. A conical roof is placed on the top of the structure having an
+ample overhang all around.
+Bukhari type storage structure
+Bukhari type storage structures are cylindrical in shape and are used for storage of
+sorghum, wheat, padd)" Bengalgram, maize etc. Bukhari structures generally have capacities
+between 3.5 to 18 tonnes, however, smaller capacity structures also exist. This may be made by
+mud alone or by mud and bamboo. The cylindrical storage structures are raised above the ground
+by wooden or masonry platform. The floor of the bin is made either by timber planks or by
+bamboo splits, plastered over with mud mixed with dung and paddy straw. The walls of the
+structure are made of timber or bamboo frame work and bamboo matting. Over the walls, mud-
+85
+straw plaster is applied on both sides. An overhanging cone type roof is provided on the
+cylindrical structure. The roof is generally made of bamboo framework and straw.
+In improved bukhari type structure, the basic shape remains the same but the material and
+method of construction have been improved to make the structure more safe and durable. The
+circular floor of structure is either made of wooden planks joined by lap joints or by a double
+layer of bamboo splits closely set at right angles to each other. Over the floor, about 5 cm thick
+mud plastering is provided. The walls of structure are made of two sets of strong bamboo
+framework. The inter-space is filled with mud. The walls on both sides are plastered with mud.
+The roof is conical and made of bamboo frame-work and covered with paddy straw or similar
+other thatching material. The top of the conical roof is covered with 4 to 5 cm thick mud layer to
+provide additional protection from rains. The structure is raised on timber or masonry pillars to a
+height of about 1.5 m from ground level. Rat proofing cones are placed on all the four pillars to
+avoid rats entering the storage structure.
+Kothar type storage structure
+These are used to store paddy, maize, sorghum, wheat etc. Their capacity varies between
+9 to 35 ton. The storage structure is box like made of wood and raised on pillars. Both the floor
+and walls are made of wooden planks whereas the thatched or tiled roof is placed over it to protect
+the grains from the sun or rain. The improved Kothar structure is generally made of 5 cm thick
+wooden planks and beams. The walls and floor are made in such a way that no gap exists between
+the planks. The gabled roof on the top may be made of planks or corrugated metal sheets and
+should be sufficiently overhang on all sides. The storage structure is raised on timber post to a
+height of about 1.5 m above the ground. Rat proofing cones are provided on all posts to avoid
+entry of rats in the structure.
+Cylindrical Structure
+86
+Cylindrical bulk storage structures are being commonly used for storing different varieties
+of grain. Depending upon the size the capacity may vary from 10 to 40 tones. This structure may
+be used for storing 10 tons of grain at a time. The foundation is made of rain forced concrete. The
+minimum height of the bottom edge of spout should be about 1.2 m above the ground level. The
+entire structure rests on supporting the columns. There are two opening provided in the structure
+for filling in the grain and taking it out. Top hole is made large enough to let a man enter for
+cleaning purposes. The size of the out let is comparatively smaller. It is placed at a point where
+the slope from all sides of the floor converges. It should have a hinged cap shutter with a locking
+device. The roof on the top is provided with enough space on all the sides and it overhangs to the
+extent of about 30cm.
+Rectangular grain bin
+On the farm where several grain crops are raised different grain bins are made under the
+same shed to store all verities of grain separately. The size of the bin is determined on the basis of
+expected average yield of the crop from the total area under the particular crop. The bin walls are
+made 11.5 cm thick laid in cement morter of 1:3 ratio. The bin walls are kept 2.4m high near the
+outer wall dropping down to 1.6m in front. The front wall is provided with a rectangular hole on
+the floor level for taking out the grain. The hole can be closed or partially open from the inside of
+the bin by a wooden board. The height of the bin wall is low so that the work man may drop the
+head load of the grain directly in to the bins.
+87
+LECTURE 30 & 31
+GODOWNS- TYPES, PROBLEMS
+Design of Warehouses (Shed)
+The following important points to be considered during design of godowns.
+• The go downs side walls are of brick or stone masonary and sloped roofing in asbestos
+or Corrugated Galvanized Iron (CGI) sheets over steel trusses.
+• Generally a go down has a capacity of 5000 ton and consists of 3 compartments each
+having a span of not less than 21·7 m with a clear height of 5·4 m.
+• Air circulation is maintained through steel ventilators and air inlets of rolled steel
+sections.
+• Requirement of steel and cement is about 50 and 300 MT respectively.
+• Bagged food grains are arranged in stacks with a base of 6 m x 9 m with a stack height
+varying from 4 to 5 m, leaving 27 per cent free space of the floor area for alley ways
+generally.
+• It should be leave a free space of 2 m between the stacks and 0.8 to 1.0 m between wall
+to stack for easily moving of person for observation.
+• There should be 2.4 x 2.4 m size two large doors of opposite direction and top
+Ventilators are used.
+• Each door is provided with a light overhanging hood of 3.6 m long and 2.4 m wide.
+• A ground ventilator having an opening of 30 x 30 cm is provided below each
+• corresponding top ventilator. The top of ventilator is kept at height of 60 cm above the
+floor level. It is also provided with iron rods, wire netting and shutter.
+• The thickness of wall is kept minimum of 37.5 cm and maximum of 45 cm.
+• The height of wall on which trusses are placed is generally kept about 5.5 m.
+• The roof is either gabled or flat. The gable roof is covered with corrugated metal sheet
+with maximum precautions taken to make it leak proof. However, flat roof is more
+• durable as it is made of either reinforced brick or reinforced concrete of about 10 to 12.5
+cm thickness.
+• Wheat can be held in bags under dry climatic conditions for a period up to 2 years.
+(This period is shortened to 8 to 12 months in humid conditions).
+• Wheat can be kept in bulk any for 5 years.
+A Problem regarding Design of Storage Structure
+Design a bag storage structures for storing 250 ton. of Paddy. Assume reasonable data where ever
+necessary.
+Solution.
+Design capacity of the storage structure = 250 T = 250,000 kg
+Capacity of a bag of 100 x 60 x 30 cm = 75 kg. of Paddy
+Hence, number of bags required for storage of 250 T paddy i.e. 250,000 kg. of paddy
+=
+= 3340 bags required for storage of 250 T paddy.
+Bags are arranged in number of Stacks.
+Let there be 10 bags in length and 10 bags in width in one stack.
+So, No of bags/layer = 10 x 10 = 100
+If there are 12 layers in a stack, total number of bags/stack
+= 100 x 12 = 1200
+88
+Hence, the number of stacks required
+= 2.78 ≈ 3 Stacks required for storage of 250 T of paddy
+Space required by each stack
+Length of stack l = 10 x 1.0 = 10.0 m
+Width of stack w = 10 x 0.6 = 6.0 m
+Height of stack h = 12 x 0.3 = 3.6 m
+The clear distance between the walls and the end of stack = 0.8 m
+The clear distance between the stacks i.e. between two stack = 2.0 m
+Hence, the length of floor L is
+L = (3 x 6.0) + (2 x 2.0) + (2 x 0.8)
+= 23.6 m ≈ 24.0 m
+The width of floor W is
+W = (10 x 1.0) + (2 x 0.8)
+= 11.6 m ≈ 12.0 m
+Therefore, the overall dimensions of the go down may be taken as 24.0 m length, 12.0 m
+width and the height of the walls may be kept as 5.0 m above the floor level.
+The floor plan of the go down is shown in following Figure
+89
+LECTURE. NO. 32
+STORAGE OF FODDER-TYPES OF SILOS
+Fodder storage
+Conserving the green fodder in the form of silage is one of the best options available to
+ensure regular supply of quality fodder through different seasons of the year. Silage is the
+conserved green fodder having moisture content in the range of 65 to 70 percent. Fodder crops
+rich in soluble carbohydrates are incubated after chaffing for 45-50 days under anaerobic
+conditions. Under proper storage conditions, silage can be stored up to two years; good quality
+silage should not have any butyric acid, which gives off flavor to silage. If proper anaerobic
+conditions are not maintained, silage produced would have butyric acid content in it. The fodder
+crops such as maize, sorghum, oats, pearl millet, and hybrid napier rich in soluble carbohydrates
+are most suitable for fodder ensiling. Quality of silage can be improved with the use of suitable
+additives such as molasses, urea, salt, formic acid etc.,
+Silo can be prepared by two methods
+1. Tower silo
+2. Horizontal Silo
+Tower silo
+Storage silos are cylindrical structures, typically 10 to 90 ft (3 to 27 m) in diameter and 30
+to 275 ft (10 to 90 m) in height with the slip form larger diameter and taller silos. They can be
+made of many materials. Wood staves, concrete staves, cast concrete, and steel panels have all
+been used, and have varying cost, durability, and air tightness trade offs. Silos storing grain,
+cement and woodchips are typically unloaded with air slides or augers. Silos can be unloaded into
+rail cars, trucks or conveyors.
+Tower silos containing silage are usually unloaded from the top of the pile, originally by
+hand using a silage fork which has many more tines than the common pitchfork; In modern times
+using mechanical un loaders. These are being used while Bottom silo unloaders were utilized at
+times, which have problems with difficulty of repair.
+Horizontal silos
+In –ground storages are suitable for both long and short term storage of silage. Silage
+being used in the short-term need only be sealed with plastic as for the bunker system. For long-
+term storage, the plastic has to cover with a layer of soil. Regular monitoring is recommended to
+ensure burrowing animals have not disturbed the soil layer, allowing air and water into the silage.
+Pit Silo
+Underground pits are dug into flat ground with the silage stored completely below ground
+level or mounded. The soil removed from the hole should be mounded over the top of the pit to
+shed water. If the stack shrinks below ground level then more soil should be added. They are
+usually used for long term or drought storage and are only recommended for drier areas. Feeding
+out from the pits should take place during dry weather. If the pits are open during wet weather
+means raining season they will fill with water, making it impossible to remove the silage and
+causing large losses. Underground pits should not be constructed in areas where a high water table
+allows water to seep into the pit resulting losses of DM and quality.
+Trench:
+Trenches are usually comprise of the construction between pits and above the ground
+walled bunkers, where the silage is stored partly below ground. The trench silo is a popular
+method of storage particularly for producers making silage for the first time. A low –cost unlined
+silo can be made with a tractor and blade. It can be built as temporary silo and lined at a later date.
+They are quick to construct and repairs are limited to smoothing he walls and base.
+90
+References
+1. Nakra, C. P. 1986. Farm Machinery and Equipment. Dhanpat Rai and Sons, New
+Delhi.
+2. Klenin, N.I., Popov, I.F., and Sakun, V. A. 1985. Agricultural Machines. Amerind
+publishing Co. Pvt. Ltd., New Delhi.
+3. Jagdishwar Sahay. 2006. Elements of Agricultural Engineering. Standard
+Publishers and Distributors, New Delhi.
+4. Michal, A. M., and Ojha, T. P. 2008. Principles of Agricultural Engineering, Vol. I.
+Jain Brothers, New Delhi.
+5. Kepner, R. A., Roy Bainer, and Barger, B. L. 1978. Principles of farm machinery.
+CBS publishers and Distributors, New Delhi.
+6. Jain, S. C. 2003. Farm Machinery - An Approach. Standard Publishers and
+Distributors, New Delhi.
+7. Surendar Singh. 2007. Farm Machinery-Principles and Applications. Indian
+Council of Agricultural Research, New Delhi.
+91

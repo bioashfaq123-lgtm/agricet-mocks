@@ -1,0 +1,2879 @@
+PROFESSOR JAYASHANKAR TELANGANA STATE
+AGRICULTURAL UNIVERSITY
+DA 121
+SOIL CHEMISTRY &
+FERTILITY
+THEORY
+S. Sridevi
+V. Sri Ramya
+&
+K. Kalyani
+R A J END R A NA GA R , H Y D ER ABA D - 500030
+PROFESSOR JAYASHANKAR TELANGANA STATE
+AGRICULTURAL UNIVERSITY
+DA-121
+SOIL CHEMISTRY AND FERTILITY
+By
+Smt. V. SRI RAMYA
+ASST. PROFESSOR (SS&AC), APT, KAMPASAGAR
+&
+Dr. S. SRIDEVI
+PRINCIPAL, APT, TORNALA
+&
+Dr. K. KALYANI
+ASST. PROFESSOR (SS&AC), APT, PALEM
+LECTURE OUTLINES
+S. No . Title of the Lecture
+1 Introduction to soil science
+2 Soil - Definition- Properties- Difference between soil and sub soil
+3 Components of soil- Mineral matter- Organic matter, water and air
+4 Soil physical properties- soil texture – Importance- Nature and properties of soil
+separates- Methods of estimation of soil texture- Soil textural classes
+5 Soil structure- Classification- Importance of soil structure and its management
+6 Soil density- Bulk density and particle density- Factors affecting soil density
+7 Soil pore space- Importance- Calculation of porosity- Soil colour – Its significance-
+Soil temperature-Importance
+Soil water- Importance- Soil moisture constants- Infiltration – Percolation
+8
+Permeability – Drainage, Importance of drainage
+9 Soil biology- Classification of soil microbes
+10 Role of beneficial microorganisms in various processes of soil- Harmful
+microorganisms in soil
+11 Soil organic matter- Various sources - Compounds in plant residues - Their
+decomposability
+12 C:N ratio- Significance of C:N ration in soil fertility
+13 Humus- its importance on soil properties- Care and management of soil humus
+14 Soil colloids- Properties of soil colloids
+15 Ion exchange in soil – Cation exchange
+16 Cation Exchange Capacity (CEC) -Factors affecting CEC- Importance
+17 Anion Exchange capacity (AEC) - Factors affecting AEC
+18 Base saturation - buffering capacity-its importance
+19 Soil Reaction – pH scale- factors affecting soil pH
+20 Effect of pH on nutrient availability
+Problem soils: Units of expression for salinity and alkalinity - Characteristics of
+21
+Acid, Saline, Saline Sodic, Sodic and Calcareous soils - Formation & Nutrient
+availability in problem soils
+Reclamation of Problematic Soils – Mechanical, Chemical and Biological methods
+22
+Important soil groups of India; Alluvial soils, Black soils, red soils, laterite soils and
+23
+coastal sands
+24 Essential Nutrients for plants- Criteria of essentiality of nutrients – Classification of
+essential nutrients- Forms of nutrients in soil
+25 Importance of essential nutrients to plants
+26 Functions, Deficiency symptoms and corrective measures of N,P,K, Ca, Mg and S
+27 Functions, Deficiency symptoms and corrective measures of Micronutrients
+28 Soil fertility - reasons for soil fertility reduction- Management practices to improve
+soil fertility
+29 Soil testing objectives- Importance
+30 Site Specific Nutrient Management
+31 Environmental pollution- Soil pollution- Soil pollutants and management practices
+32 Greenhouse effect – Greenhouse gases- Management Practices to reduce GHG
+emissions
+REFERENCES:
+S.No. Name of the Book Name of the Authors
+1 Introductory Soil Science Dilip Kumar Das, 2004, Kalyani Publishers,
+Ludhiana.
+2 Text book of soil science Biswas T.D and Mukherjee S.K. 1987. Tata
+McGraw Hill Publishing Co.Ltd., New Delhi
+3 Soil Physics Ghildyal B.P and Tripati R.P.1987. Wiley Eastern
+Ltd. New Delhi.
+4 Soil Fertility : Theory and J.S. Kanwar (Ed). 1976. ICAR, New Delhi
+Practice
+5 Soil Fertility and Tisdale S.L., Nelson, W.L. and Beaton, J.D. (1993).
+Fertilizers Macmillan Publishing Company, New York
+6. Yawalkar K.S, Agarwal, T.P and Bokde, S 1995.
+Manures and fertilisers
+Nagpur
+7 Fundamentals of Soil Published by Indian Society of Soil Science, 1998,
+Science IARI, New Delhi.
+8 Fertilizers Guide Tandon HLS 1994, Fertilizers Development
+Consulation Organization, New Delhi
+Lecture. 1. Introduction to Soil Science
+Soil plays a vital role in earth’s ecosystem. The soil is important to human and all living
+things on earth. From the agriculture, cultivators recognized good soils being attracted to the
+fertile soils of river valleys. Most great civilizations have depended on good soils. Continuous
+replenishment of fertility by natural flooding made possible the stable, organized communities
+and even cities, in contrast to the nomadic, shifting societies. Mismanagement of fertile soils is
+the only contributing factor for the down fall of the society. The careful preservation of the soil
+mantle can be the difference between a prosperous society and poverty.
+The noun soil is derived through old French from the latin word solum, which means
+floor or ground.
+Soil may be defined as an accumulation of natural bodies which has been synthesized
+in profile form from a diversified mixture of disintegrated and weathered minerals and
+decaying organic matter which covers the surface of the earth, and which supplies, when
+containing the optimum amounts of air and water, mechanical support and sustenance for
+plants.
+The soil serves not only as a medium for plant growth and for microbiological
+activity but also as a sink and recycling factory for numerous waste products which might
+otherwise accumulate to poison our environment. Moreover, the soil supports our buildings
+and provides material for the construction of earthen structures such as dams and road beds.
+Shifting Cultivation-Sustainable Agriculture
+Shifting cultivation, a primitive system of Agriculture, the first step in transition from
+food gathering and hunting to food production nearly 9000 years old agricultural practice. This
+is extensively practiced by the tribals throughout the tropical and subtropical region.
+Shifting cultivation is a form of agricultural
+practice or a cultivation system in which an area of
+ground is cleared of vegetation and cultivated for a
+few years and then abandoned for a new area until its
+fertility has been naturally restored.
+Conventionally, shifting cultivation has been
+interpreted and inefficient (economically) and destructive (ecologically) form of Agriculture.
+After that, the Rainfed based farming shifted to sustainable farming through the availability of
+water source.
+Sustainable agriculture is the practice of farming using principles of ecology, the
+study of relationships between organisms and their environment. An integrated system of plant
+and the animal production practices having site-specific application that will, over the long
+term. A sustainable agricultural system involves the modification of agricultural techniques in
+both existing industrialized and traditional agricultural systems in order to provide for the
+needs of current and future generations while conserving natural resources. Thus, the man
+realized soil properties, soil fertility and soil production.
+Reasons for Soil Degradation
+There are several physical factors contributing to soil degradation distinguished by the
+manners in which they change the natural composition and structure of the soil. Rainfall,
+surface runoff, floods, wind erosion, tillage, and mass movements result in the loss of fertile
+top spoil thereby declining soil quality. The reasons are
+1. Deforestation: Over cutting of vegetation may accelerate the soil erosion process,
+especially during rainy season.
+2. Industrialization: Development of the industries for the economic growth of the
+country lead to excessive deforestation and utilization of such in soil as way that has
+lost its natural upgradation quality.
+3. Improper Crop Rotation: Due to shortage of land, increase of population and
+economic pressure the farmers have adopted intensive cropping pattern of commercial
+crops in place of more balanced cereal-legume rotations
+4. Urbanization: Urban growth, road construction are major causes in soil degradation.
+For this valuable agricultural land is often lost.
+5. Over Grazing: In India pasture land is decreasing day by day due to expansion of
+agricultural land. Over grazing directly leads to disappearance of vegetation which is
+one of the important causes of wind and water erosion in dry lands.
+6. Mining: Mining disturbs the physical, chemical and biological features of the soil. The
+erodible material is almost devoid of organic matter and lacks in mineral plant
+nutrition.
+7. Improper use of fertilizers: Soil fertility is reduced due to prolonged intensive
+cultivation. The farmers maintain the productivity of soil by applying organic manures
+and fertilizers instead of using chemical fertilizers.
+Farmer vs Agricultural Scientists –Their Role in Agriculture
+Agriculture is the process of producing food, feed, fiber and many other desired
+products by the cultivation of certain plants and the raising of domesticated animals
+(livestock).
+The practice of agriculture is also known as "farming", while scientists, inventors and others
+devoted to improving farming methods and implements are also said to be engaged in
+agriculture.
+Subsistence farming, who farms a small area with limited resource inputs, and produces
+only enough food to meet the needs of his/her family.
+At the other end is commercial intensive agriculture, including industrial agriculture.
+Such farming involves large fields and/or numbers of animals, large resource inputs
+(pesticides, fertilizers, etc.), and a high level of mechanization. These operations generally
+attempt to maximize financial income from grain, produce, or livestock.
+Modern agriculture extends well beyond the traditional production of food for humans
+and animal feeds.
+Other agricultural production goods include timber, fertilizers, animal hides, leather,
+industrial chemicals (starch, sugar, alcohols and resins), fibers (cotton, wool, hemp, silk and
+flax), fuels (methane from biomass, ethanol, biodiesel), cut flowers, ornamental and nursery
+plants, tropical fish and birds for the pet trade, and both legal and illegal drugs
+(biopharmaceuticals, tobacco, marijuana, opium, cocaine).
+Lecture 2. Soil-Definition-Properties-Differences
+between Surface and Sub–Surface Soil
+Soil is a three dimensional body having length, breadth and depth. It forms a continuation over
+the land surface and differs in properties from place to place. Its upper boundary is air or water
+and lower boundary is the rock lithosphere
+Soil can be compared to various systems of animals
+Digestive system : Organic matter decomposition
+Respiratory system : Air circulation & exchange of gases
+Circulatory system (blood): Water movement within the soil
+Excretory system : Leaching out of excess salts
+Brain : Soil clay
+Colour : Soil colour
+Height : Soil depth
+SOIL- DEFINITIONS
+“Soil is a natural body composed of inorganic and organic constituents, having a definite
+genesis and a distinct nature of its own”-- Dokuchaev (1900) a Russian scientist - Father of
+Soil Science
+“Soil is a natural occurring body that has been evolved owing to combined influence of climate
+and other organisms, acting on parent material, as conditioned by relief over a period of time” -
+Jenny (1941)
+“Soil may be defined as "A dynamic natured body on the surface of the earth in which plants
+grow, composed of mineral and organic materials and living forms" - Buckman & Brady
+“Soil is the unconsolidated mineral matter on the immediate surface of the earth that serves as
+a natural medium for the growth of land plants”
+SOIL PROPERTIES
+Soil can be defined in terms of soil forming factors. “Soil is a dynamic natural body having
+properties derived from the combined effect of climate and biotic activities as modified by
+topography acting on parent materials over a period of time.
+1. Soil is a medium for crop germination, growth and yield.
+2. It acts as a storage reservoir for nutrients and water needed for plant growth.
+3. It improves physical, chemical properties of soils and enhances nutrient availability
+to plants.
+Differences between Surface and Sub -Surface Soils
+S.No. Property Surface Soil Sub Surface Soil
+1. Depth (cm) 0-30 >30
+2. Organic matter content (%) More Less
+3. Physical Appearance Loose and granular Compact
+4. Porosity Porous Massive
+5. Colour Dark Light
+6. Biological activity High Low
+7. Utilization More Less
+8. Root activity More Less
+9. Essential nutrients are More Less
+present in available form
+10. Cation Exchange Capacity Very High Low
+11. Water Holding Capacity More Less
+12. Nutrient Availability More Less
+Lecture 3. Components of Soil- Mineral Matter- Organic
+Matter, Water and Air
+SOIL COMPONENTS
+Mineral soil consists of four major components i.e., inorganic or mineral materials,
+organic matter, water and air. In a representative loam
+surface soil, the solid mineral particles comprise about
+45% of the soil volume and organic matter 5%. At
+optimum moisture for plant growth, the pore space is
+divided roughly in half, 25 % of volume being water
+space and 25 % air. The proportions of air and water are
+subjected to rapid and great fluctuations. The four soil
+components occur in a thoroughly mixed condition in
+soil and this mixture encourages interactions within and between the groups and permits
+marked variations in the environment for the growth of plants.
+MINERAL MATTER
+The Inorganic portion of soils is quite variable in size and composition. It is composed of small
+rock fragments and minerals of various kinds.
+Rock Fragments
+2.0 - 75.0 mm - Gravel or pebbles
+75.0 - 250.0 mm - Cobbles (round) flags (flat)
+> 250.0 mm - Stones or boulders - Used for Agriculture
+Soil Particles
+Particle Name Size in mm Particles Area Surface Visibility
+number per (sq.cm/g)
+gram soil
+Sand (gritty) 0.2 - 2.0 mm 5.4X102 21 Visible directly
+Fine sand (gritty) 0.02 - 0.2 mm 5.4X105 210 Visible directly
+Silt (powdery) 0.002 - 0.02 mm 5.4X108 2100 Visible with Microscope
+Clay (sticky) < 0.002 mm 7.2X1011 23000 Visible with Electron
+Microscope
+The proportion of different sized particles (texture) determines the nutrient supplying
+power of the soil, considerably. Primary minerals (original) are prominent in sand and silt
+fractions; whereas the secondary minerals (formed) dominate in clay fraction and in some
+cases the silt fraction. The inorganic fraction of soil is the original source of most of the
+mineral elements that are essential for plant growth. The air and water are extremely variable
+and their proportions determine in large degree the soil’s suitability for the plant growth.
+ORGANIC MATTER
+It comprises an accumulation of partially disintegrated and decomposed plant and
+animal residues and other organic compounds synthesized by soil microbes as the decay
+occurs. It is a transitory soil constituent as it is continuously broken down by soil organisms
+and lasts from few hours to several hundred years. It requires maintenance by regular addition
+to the soil of plant and/ or animal residues. Organic matter content varies from 1.0 to 6.0 % by
+weight in top soil and very less in sub soil. In respect of soil productivity organic matter plays
+an indispensable role.
+SOIL AIR
+The content and composition of soil air are determined largely by the water content of
+the soil, since the air occupies those soil pores not filled with water. Soil air always differs
+from atmosphere air in composition because of moisture content, root and microbial activities.
+Relative humidity may approach 100% at optimum soil moisture, CO content is often several
+2
+hundred times higher than 0.033%, Oxygen content usually < 20%. In extreme cases only 5-
+10%. In cases of low soil air, the diffusion rate of air in to and out of the soil would be slow
+and this leads to unsatisfactory conditions for optimum plant growth.
+Gases Soil air (%) Atmospheric air (%)
+Nitrogen 79.20 79.00
+Oxygen 20.60 20.97
+Carbon dioxide 0.50 (variable) 0.033
+CO content vary from 10-10000 times to that of atmospheric air
+2
+SOIL WATER
+Soil water is held in soil pores with varying degrees of tenacity depending on the
+amount of water present and size of the pores. Soil water with its soluble constituents
+(nutrients) makes up soil solution, which is the critical medium for supplying nutrients to
+growing plants. Soil water plays significant role in controlling energy balance of the soil and
+regulates the gaseous exchange in the upper layer of the soil. The presence of water in different
+amounts in soil governs its thermal, mechanical, physical, chemical and biological properties.
+SOIL MICROORGANISMS
+There are enormous numbers of microorganisms like Fungi, Bacteria, Algae,
+Actinomycetes, Nematodes etc. in soil depends on availability of organic matter, air and water.
+They provide nutrients to plants in readily available forms and decompose the organic matter
+in to humus through various biological activities.
+Lecture 4. Soil Physical Properties-Soil Texture-
+Importance-Nature and Properties of Soil
+Separates-Methods of Estimation of Soil
+Texture-Soil Textural Classes
+PHYSICAL PROPERTIES OF SOIL
+ Soil Texture
+ Soil Structure
+ Bulk Density and Particle Density
+ Macro and Micro Pores
+ Soil Color
+ Soil Temperature
+ Soil Water
+SOIL TEXTURE
+Soil texture may be defined as the relative proportion of particles of various sizes (soil
+separates /mechanical fractions) such as sand, silt and clay. It is almost a permanent property of
+the soil and may change slowly with time.
+The soil properties like porosity, aeration, water retention capacity, infiltration capacity,
+water flow, water supply mainly depends on soil texture.
+The particle size of a mineral soil does not change readily. For example, a clayey soil
+remains clayey, a loamy soil remains loamy and a sandy soil remains sandy over many years.
+As the texture of a soil (i.e. proportion of different sized particles in a soil) cannot be easily
+altered, it is considered a basic property of a soil.
+IMPORTANCE OF SOIL TEXTURE
+1. Knowledge of texture of the soil is important to assess the value of the land
+2. Land capability and methods of soil management are determined by soil texture.
+3. Texture determines the suitability of land to raise different crops in different seasons
+4. Its suitability for foundation of buildings and construction of roads.
+5. Texture determines the total pore space and the distribution of macro and micro pores of
+soil, which in turn influence the retention and transmission of water as well as air.
+6. Soil texture largely governs the nutrient holding and nutrient supplying abilities of the
+soils.
+7. It is the most stable property and used as an index of several other properties of soils,
+which determines the agricultural potential of the soils.
+8. It helps in evaluating the amount of amendment needed for the soil reclamation
+Ex: Acid soils (<6.0 PH) Reclamation materials: Calcium Carbonate, Calcium Oxide,
+Calcium Hydroxide, Basic slag of liming materials
+Ex: Basic soils (>8.5-10 PH) Reclamation materials: Zypsum (CaSO . 2H O)
+4 2
+9. Soil texture is of considerable importance in the study of morphology, genesis of soil,
+classification and mapping.
+10. Texture has pronounced effect on soil temperature.
+CLASSIFICATION OF SOIL SEPARATES
+Scientists separated the mineral particles of a soil into various groups on the basis of
+their size. These groups are referred to as soil separates. Thus soil separates may be defined as
+the individual size groups of mineral soil particles which are 2 mm or less in diameter. Soil
+separates are also known as fine earth.
+There are two most important systems of classification of soil separates are described
+below
+1. ISSS (International Society of Soil Science) classification
+2. USDA (United States Department of Agriculture) classification
+Soil Separates ISSS system (mm) USDA system (mm)
+Very Coarse Sand - 2.00 – 1.00
+Coarse Sand 2.00 – 0.20 1.00 – 0.50
+Medium Sand - 0.50 – 0.25
+Fine Sand 0.20 – 0.02 0.25 – 0.10
+Very Fine Sand - 0.10 – 0.05
+Silt 0.02 – 0.002 0.05 – 0.002
+Clay < 0.002 < 0.002
+PROPERTIES OF SOIL SEPERATES
+1. Sand: Sand particles may be rounded or irregular with quite jagged surfaces depending on
+the abrasion they receive. These particles exhibit no plasticity and stickiness and hence less
+influenced by changes in moisture content. Their water holding capacity is low, percolation
+rate is high and facilitate good drainage and good air movement. Soils dominated by sand and
+other particles bigger than sand are invariably open, loose and in friable condition. As these
+fractions are the fragments of the rocks with quartz as chief component, they are chemically
+inactive and insoluble.
+2. Silt is intermediate between sand and clay in size (ISSS – 0.02 – 0.002 mm; USDA – 0.05 –
+0.002 mm) and irregular in shape. Mineralogically and physically, silt particles greatly
+resemble sand particles, but since they are smaller and have a greater surface area per unit mass
+and are often coated with strongly adherent clay, they may exhibit some of the physico-
+chemical attributes of clay. Silt is dominated by quartz and micas like primary minerals; and
+posses some plasticity, cohesion and adsorption. They hold moisture but lesser than clay.
+3. Clay fraction is less than 0.002 mm in size and forms the decisive fraction of the soil, which
+has most influence on soil behavior. Clay particles are characteristically plate like or needle
+like in shape. Clay particles adsorb water and hydrate, thereby causing the soil to swell upon
+wetting and then shrink upon drying. They are very plastic and sticky in moist condition; and
+become hard and cloddy when dry. High tenacity of clay makes the cultivation difficult. The
+relatively inert sand and silt fractions can be called the ‘Soil Skeleton”, while the clay, by
+analogy, can be thought of as the “Flesh” of the soil.
+Stones, cobbles and Gravel: Because of their sizes, function as separate particles. Stones,
+cobbles and gravel may be more or less rounded, irregularly angular or even flat.
+DIFFERENCES BETWEEN SOIL SEPERATES
+S. Property Sand Silt Clay
+No.
+1 Size 2.00 – 0.02 0.02 – 0.002 < 0.002
+2 Specific Surface Area Low Medium High
+3 Shape Round Shapeless Flaky shape
+4 Reactivity Low Medium High
+5 Micro pores type High Medium Low
+6 Micro pores Porosity Low Medium High
+7 Water holding Capacity Low Medium to high High
+8 Drainage Facility High Slow to medium Very slow
+9 Plasticity Non plastic Slightly plasticity Very plasticity
+10 Stickiness Non sticky slightly sticky Very sticky
+11 Tillage Easy Medium Tough
+12 Cation Exchange Capacity Low Medium High
+13 Soil Fertility Low Medium High
+The relatively inert sand and silt fractions can be called the ‘Soil Skeleton”, while the clay, by
+analogy, can be thought of as the “Flesh” of the soil.
+Soil particle divisions
+Different types of soil particles, their sizes and ratios
+Soil Class Size (mm) Sandy Soil Loamy soil Black soil
+Coarse Sand 2.00 – 0.20 85.1 27.1 0.9
+Fine Sand 0.20 – 0.02 8.2 30.3 7.1
+Silt 0.02 – 0.002 1.4 20.2 21.4
+Clay < 0.002 3.4 19.3 65.8
+Sandy soil: These soils include soils having more sand (85.1+8.2=93.3) percentage and less
+silt and clay (1.4+3.4=4.8) percentage. As the soils of this group have very low water holding
+capacity and nutrient retention capacity but drainage condition and aeration status is high.
+Clay soil: These soils contain soils having less sand (0.9+7.1=8.0) percentage and more silt
+and clay (21.4+65.8=87.2) percentage. As they have high water holding capacity and nutrient
+retention capacity but internal drainage condition or soil aeration is very poor.
+Loamy soil: These soils contains soils having (27.1+30.3=57.4) sand percentage and silt, clay
+(20.2+19.3=39.5) percentage. As they have high have high water holding capacity and nutrient
+retention capacity, and good internal drainage condition. This soil has medium plant available
+water and fair drainage condition for getting better plant growth and yield.
+METHODS OF ESTIMATION OF SOIL TEXTURE
+Soil texture may be assessed subjectively in the field or more rigorously by particle size
+analysis in the laboratory.
+Field or Feel Method
+The common field method of determining the textural class of a soil is by its FEEL. Feel
+method is of great practical value in Soil Survey, Soil Classification and in any other
+investigation in which Soil Texture may play a role. Accuracy depends on experience. A soil
+surveyor determines texture by moistening a soil sample and kneading it between fingers and
+thumb until aggregates are broken down and the soil grains thoroughly wetted. The way the
+wet soil sticks out gives a good idea of the quantity of clay content. The sand particles are
+gritty, the silt has a floury or talcum powder feel when dry and is only moderately plastic and
+sticky when wet, persistent cloddiness generally is imparted by silt and clay.
+Laboratory Method
+Particle Size Analysis / Mechanical Analysis: The procedure of separating out different sized
+soil fractions i.e., sand, silt and clay and of measuring their proportional distribution is called
+particle size analysis or mechanical analysis. The result is expressed as Mechanical
+composition of soil or Soil Texture.
+There are two steps in mechanical analysis
+a. Dispersion
+b. Sedimentation
+Dispersion
+Dispersion of soil particles is achieved by breaking down the cementing agents viz., organic
+matter, calcium carbonate and iron oxides; and flocculating agents like salts and ions. Removal
+of organic matter is usually achieved by oxidation with hydrogen peroxide and calcium
+carbonate can be dissolved by addition of dilute hydrochloric acid. Treating the soil
+withsodiumcitrate. Sodium bicarbonate and sodium dithionate does remove iron and aluminum
+oxides, which are significantly present in red and laterite soils. Through repeated washings
+salts and ions can be eliminated. Dispersion or deflocculation is carried by means of a chemical
+dispersing agent like sodium hexametaphosphate and by mechanical agitation. Other peptizing
+agents or deflocculating agents, which are commonly used, are sodium oxalate, sodium
+phosphate, and sodium metaphosphate and sodium pyrophosphate.
+Now particles of 2 to 0.2 mm (coarse sand) are separated by sieving through 0.2 mm
+sieve. For separation of remaining particle sedimentation technique is used
+Sedimentation
+It is based on measuring the relative settling velocities of particles of various sizes from
+aqueous suspension in a given medium larger particles settle more quickly than smaller ones of
+the same density. The relation between particle density and rate of fall is expressed by Stokes’
+law.
+There are two widely accepted methods, which obey Stoke’s law of sedimentation
+Robinson’s Pipette Method
+Also known as International pipette method. It is based on the sedimentation principle i.e.,
+particles with different sizes and weights fall at different
+velocities. If a sample of soil suspension is taken at a
+given depth at particular time interval, this contains all
+the particles which are in suspension at that time at that
+depth. In this method a definite volume of soil
+suspension is taken from a required depth at definite
+time intervals using Robinson’s pipette.
+At 25ºC a sample collected at 4min 15 sec time at 10 cm depth in the sedimentation
+cylinder contains silt and clay particles, while sample collected at 7 hrs 6 min interval contains
+only clay fraction. After drying the samples to constant weight silt and clay contents can be
+calculated. Fine sand left at the bottom can be separated out, dried and weighed.
+The pipette method is regarded as the standard method for particle size analysis because
+of its accuracy. It is however very time consuming and difficult to be employed in mechanical
+analysis of large number of samples.
+Bouyoucos Hydrometer Method
+It is based on the principle that there is a continuous
+decrease in the density of soil suspension over a period of
+time. So by knowing the density of soil suspension at
+required time intervals with a calibrated hydrometer the proportion of different fractions can be
+known.
+The hydrometer method is rapid but less accurate than the pipette method. This method
+gives erroneous results in soils having high CaCO and organic matter contents and high
+3
+salinity.
+1st Reading at 40 seconds (Sand fraction) or reading at 4min. (Silt +Clay)
+2nd reading after two hours (Clay fraction) : Silt = (Silt+Clay) – Clay
+Silt = 100 – [Sand + Clay];
+Sand =100 – (Silt + Clay)
+Robinson’s Pipette Method Bouyoucos Hydrometer Method
+It is based on the sedimentation principle i.e., It is based on the principle that there is a
+particles with different sizes and weights fall continuous decrease in the density of soil
+at different velocities. suspension over a period of time.
+In this method a definite volume of soil By knowing the density of soil suspension at
+suspension is taken from a required depth at required time intervals with a calibrated
+definite time intervals using Robinson’s hydrometer the proportion of different
+pipette. fractions can be known.
+It takes more time to complete the process Fast method - It takes less time to complete
+the process
+Difficult to be employed in mechanical This method gives erroneous results in soils
+analysis of large no. of samples. having high CaCO and organic matter
+3
+contents and high salinity.
+Accurate results seen in this method Errors may be seen in this method
+SOIL TEXTURAL CLASSES
+Textural names are given to the soils based on each of the three soil separates – sand,
+silt and clay. Soils that are preponderantly clay are called clay; Those with high silt content are
+silt and those with high sand percentage are sand. Three broad and fundamental groups of soil
+textural classes are recognized: sands, loams and clays.
+SOIL TEXTURAL DIAGRAM
+Considering the amounts of sand, silt and clay soil textural class can be determined with the
+help of textural triangle. The three sides of the equilateral triangle represent percent by weight
+of clay (left side), silt (right side) and sand (base side).
+Lecture . 5. Soil Structure- Classification- Importance
+of Soil Structure and it’s Management
+SOIL STRUCTURE
+Soil Structure may be defined as ‘the arrangement of primary particles (sand, silt and
+clay), secondary particles (aggregates) and voids (pores) in to a certain definite pattern under
+field conditions’.
+In the broad sense soil structure denotes:
+a) The size, shape and arrangement of particles and aggregates
+b) The size, shape and arrangement of the voids or spaces separating the particles and
+aggregates
+c) The combination of voids and aggregates in to various types of structures.
+Peds – Natural aggregates which vary in their water stability.
+Clod – It is used for a coherent mass of soil broken in to any shape by artificial means such as
+by tillage.
+Fragment - It is a broken ped.
+Concretion – It is a coherent mass formed with in the soil by the precipitation of certain
+chemicals dissolved in percolating waters. Concretions are usually small like
+shotgun lead pellets.
+CLASSIFICATION OF STRUCTURE
+Classification of soil structure for field description is based on
+i) The type as determined by the shape and arrangement of peds
+ii) The class, as differentiated by the size of the peds and
+iii) The grade, as determined by distinctness and durability of peds.
+TYPES: As per the geometric shape, the aggregates can be broadly divided in to two types.
+1. Simple structure 2. Compound structure
+1. Simple structure: In this the natural cleavage plains are absent or indistinct.
+a. Single grain structure: Occur in sandy soils
+b. Massive structure: Coherent mass with high bulk density occur in soil crusts, paddy
+soils
+c. Vesicular or honeycomb structure: Massive or loose aggregates of nodular
+ferruginous mass. Seen in laterites.
+2. Compound Structure: The natural cleavage plains are distinct. Described with relative
+length of horizontal and vertical axes and shape of peds. There are mainly four types of soil
+structure.
+1. Plate like: In this structural type aggregates are arranged in relatively thin horizontal plates
+or leaflets. Horizontal dimensions are much more developed than vertical.
+a) Platy: Thick horizontal units are called platy.
+b) Laminar: Thinner horizontal units are called laminar.
+2. Prism – Like: In this structural type vertical axis are more developed than horizontal axis
+giving a pillar like appearance. The vertically oriented aggregates occur in sub surface or B
+horizon. This structure present in arid and semiarid regions of Rajatan and also present in
+poorly drained soils of humid regions with swelling clay.
+a) Prismatic: The prism having flat or level tops
+b) Columnar: The prism having rounded tops. This structure mostly present in sodic
+soils of B horizon (Natric horizon).
+3. Block Like: The aggregates look like blocks having more or less equal in all dimensions.
+Peds are cube like with flat or rounded faces.
+a) Angular blocky: The cubes have sharp edges and distinct rectangular faces.
+b) Subangular blocky: Faces and edges are mainly rounded. These types are usually
+found in sub soil or B horizons, where they promote good drainage, aeration and root
+penetration.
+4. Spheroidal: Small rounded peds with irregular faces and are usually separated from each
+other in a loosely packed arrangement.
+a) Crumb: When the granules are spheroidal and porous.
+b) Granular: When the granules are spheroidal and non-porous.
+Granular and crumb structures are characteristic of many surface soils (A horizon)
+particularly those high in organic matter. They are prominent in grassland soils and soils that
+have been worked by earth worms. Usually granular peds are <1cm, while crumb peds are <0.5
+cm in diameter.
+ii) CLASS: Based on the size of the individual peds, the primary structural types are
+differentiated in to five sub-classes.
+Size or class Granular Platy Blocky Prismatic
+(mm) (mm) (mm) (mm)
+1. Very fine or very thin <1 <1 <5 <10
+2. Fine or thin 1-2 1-2 5-10 10-20
+3. Medium 2-5 2-5 1-20 20-50
+4. Coarse or thick 5-10 5-10 20-50 50-100
+5. Very coarse or very thick >10 >10 >50 >100
+In case of crumb structure, less than 1.0 mm is very fine; 1-2 mm is fine and 2-5 mm is
+medium class. The terms thin and thick are used for platy type (very fine <1 mm and very thick
+>10 mm), while the terms fine and coarse are used for other structural types (very fine blocky
+<5 mm and very coarse blocky >50 mm)
+iii) GRADES: Grade determines the degree of distinctness and durability of individual peds.
+ Structure less or simple structure: In this structure the natural cleavage plains are absent
+or indistinct e.g. single grain, soil particles in sand dune areas and massive structure (no
+cleavage lines) in puddle soil from a rice field.
+ Weak: Poorly formed, non-durable, indistinct peds and break in to a mixture of a few
+entire and many broken peds and much unaggregated material.
+ Moderate: Moderately well-developed peds which are fairly durable and distinct.
+ Strong: Very well formed peds, which are quite durable and distinct.
+IMPORTANCE OF SOIL STRUCTURE
+ Soil structure Influences the amount and nature of porosity in soils.
+ Governs the water and air permeability in to soils. Available water is more in soils
+having high amount of micro pores.
+ Influences water holding capacity, soil-water relationship and growth of
+microorganisms.
+ Influences soil drainage and availability of plant nutrients.
+ Soil structure has a pronounced effect on erodibility of soil
+ Seedling emergence and crop yield is highly affected by soil structure.
+ Soil texture is almost a permanent property of the soil but soil structure can be altered
+by farming practices.
+Soil structure- Importance of Microorganisms
+ Collectively, soil microorganisms play an essential role in decomposing organic matter,
+cycling nutrients and fertilizing the soil.
+ Soil microbes are of prime importance in this process.
+ Soil microbes are also important for the development of healthy soil structure.
+ They are responsible for mineralization of organic matter, element circulation,
+synthesis of proteins, and nucleic acids, as well as transformation of phosphorus forms.
+ Soil microorganisms play an important role in the formation and stabilization of
+aggregates. In sandy soils and black soils they improves water holding capacity and
+drainage facility of the soil.
+ Constituents of soil are organic matter, Polysaccharides, lignins and gums synthesized
+by soil microbes plays important role in cementing of soil particles.
+ Cells and mycelia strands of fungi and actinomycetes play important role in soil
+aggregation.
+ Contribute to nutrient availability in soil organic matter decomposition, humic acid,
+colloidal proteins, Cellulose, humus formation, N-Fixation, seed germination.
+ Earthworms also play important role in soil aggregation.
+MANAGEMENT OF SOIL STRUCTURE
+Soil structure management aims at the improvement and maintenance of soil structure, which
+are the major challenges in cultivated lands. The general principles of management are
+ The management and cultural practices for crop production have a great effect on the
+formation and stability of soil structure.
+ Tilling soils at optimum moisture conditions to ensure least destruction of soil structure.
+ Suitable tillage and minimum tillage practices to minimize the loss of aggregate
+stabilizing organic substances.
+ Covering soil surface with organic materials (mulch) to mitigate the beating action of
+rain and to add organics to soil.
+ Cultivation of suitable legume in a crop rotation is the most effective way of improving
+and maintaining soil structure.
+ Incorporation of crop residues and animal manures in to soil, which upon
+decomposition, would stabilize soil aggregates.
+ Suitable cropping systems, application of phosphatic fertilizers, inclusion of grasses
+and sod crops in the rotation, would enhance organic matter and favor stable
+aggregation.
+ Green manuring and cover crops are good sources of organic matter.
+ Use of synthetic organic amendments or soil conditioners.
+ Use of well decomposed organic manures improves the soil structure by increase in
+macropores percentage.
+ Use of phosphatic fertilizers.
+Lecture 6. Soil Density- Bulk Density and Particle
+Density- Factors Affecting Soil Density
+DENSITY OF SOIL
+Density is the weight per unit volume of a substance. It is expressed as gram per cubic
+centimeter or pound per cubic feet or mega gram per cubic meter (Mg m-3). Two density
+measurements like particle density and bulk density are common for soils.
+BULK DENSITY
+It is the mass per unit volume of dry soil (volume of solid and pore spaces). The bulk
+density of a soil is always smaller than its particle density.
+Loose and porous soils have low bulk densities as compared to compacted soils. Bulk
+density is of importance than particle density in understanding physical behaviour of soils.
+Generally in normal soils bulk density ranges from 1.0 to 1.60 Mgm-3. Finer the texture of the
+soil, lesser is the bulk density.
+Sand dominated soils 1.7 Mgm-3
+Organic peat soils 0.5 Mgm-3
+Compacted sub soils 2.0 Mgm-3
+FACTORS AFFECTING BULK DENSITY
+ Fine textured soils such as clay, clay loam soils have lower bulk density than coarse
+textured soils such as sandy, sandy loam.
+ More is the pore space, per unit volume of soil, less is the bulk density.
+ Well aggregated structured soils have lower bulk densities than poorly aggregated
+soils.
+ Bulk density of surface soil is generally lower than that of sub surface soils and it
+increases with increase in soil depth.
+ Organic matter content of the soil increases, bulk density of the soil decreases.
+ Crumb soil structure shows low bulk density than that of platy structure.
+ Tillage temporarily reduces the bulk density but long term intense tillage increases
+bulk density of soils due to reduction of soil organic matter and weakening of soil
+structure.
+ Cropping increases the bulk density of top soils because of destruction of soil
+aggregates.
+IMPORTANCE OF BULK DENSITY
+ Bulk density is an indicator of soil compaction and soil health. It affects infiltration,
+rooting depth/restrictions, available water capacity, soil porosity, plant nutrient
+availability, and soil microorganism activity, which influence key soil processes and
+productivity
+ Bulk density of the soil determines not only total pore space but the macro and micro
+pore space also, which in turn governs the soil – water – air relationship, thereby
+facilitate better crop growth.
+ Infiltration, permeability, percolation of water and water retention in soil system, has
+direct relation with bulk density of soil.
+PARTICLE DENSITY
+Particle density may be defined as the mass of soil solid or mass of dry soil per unit
+volume of soil solids. Particle density is essentially the same as the specific gravity of solid
+substances. The chemical composition and crystal structure of a mineral determines its particle
+density. Particle density is not affected by pore space and therefore is not related to particle
+size or to the arrangement of particles (soil structure).
+Particle densities for most mineral soils vary between the narrow limits of 2.60 to 2.75
+Mg m-3. The particle density of soils with very high organic matter content may vary from 0.9
+to 1.3 Mgm-3. Particle density of soils is almost a permanent character which is not influenced
+by addition of organic matter, tillage or depth. Particle density is always higher than bulk
+density.
+Lecture. 7. Soil Pore Space- Importance- Calculation of
+Porosity- Soil Colour – It’s Significance-Soil
+Temerature-Importance
+POROSITY OF SOIL
+The pore space (Voids) or Porosity of soil is that portion of the total soil volume not occupied
+by solid particles either mineral or organic but occupied by air and/or water. It is normally
+expressed in percentage.
+The pore spaces under field conditions are occupied at all times by air and water. Pore
+spaces directly control the amount of water and air in the soil and indirectly influence the plant
+growth and crop production.
+Soil pores are two types a. Macro pores
+b. Micro pores or capillary pores
+Macro pores: Large sized pores (>0.06mm) invariably exist in between sand sized granules
+and allow air and water movement readily.
+Micro or capillary pores: Smaller sized pores (<0.06mm) in which movement of air and
+water are restricted to some extent. These pores are very important for crop growth. Generally
+clays and clayey soils have a greater number of capillary pores.
+The existence of approximately equal number of macro and micro pores would facilitate
+better aeration, permeability, drainage and water retention. Porosity of soil is always prone for
+changes.
+Porosity percentage in different soils
+S. No. Soil type Porosity
+percentage
+1. Sandy soil 30
+2. Shallow Black soil 35
+3. Medium Black soil 40
+4. Deep Black soil 45
+5. Black cotton soil 47-50
+6. Clay soil 50
+7. Deep clay soils 66
+Calculation of porosity
+In any soil % Pore space + % solid space = 100
+% Solid space = Bulk density / Particle density x 100
+% Pore space = 100 - % solid space
+= 100 - (B.D/P.D) x 100
+= 100 [1-BD/PD]
+FACTORS AFFECTING POROSITY
+Soil Structure: A soil having granular or crumb structure contains more pore spaces than that
+of prismatic and platy soil structure. So the well aggregated soil structure has more
+porosity than that of structure less or single grained soils.
+Soil Texture: In sandy soils the total pore space is small; whereas in fine textured clay and
+clay loams total pore space and micro pores are higher.
+Organic Matter Content: OM facilitates more aggregation there by more porosity.
+Depth of Soil: With increase in depth of soil the porosity will decrease because of
+compactness in sub -soil.
+Organisms: Macro organisms like earth worms, rodents, and insects etc., increase macro
+pores.
+Cultivation: Intensive cultivation tends to lower the porosity of soil as compared to fallow
+soils. The decrease in porosity is due to reduction in organic matter content.
+SOIL COLOUR
+The colour is one of the most obvious characteristics of soil and is frequently used to
+describe soil, than any other. Soil color, as such, does not have any influence on plant growth,
+but through its influence on soil temperature and soil moisture, it indirectly influences the plant
+growth. The colour is the property of an object that depends on the wavelength of light it
+reflects or emits.
+Soil colour can be an indicator of the climatic condition (acquired or pedochromic) color
+under which a soil was developed or of its parent material (litho chromic color). Soil color is
+also taken as criteria for assessing soil productivity.
+Practically all colours occur in soils, except pure blue and pure green. Predominantly,
+soil colors are not pure but mixtures, such as grey, brown and rust. Frequently, two or three
+colours occur in patches, which is called as “mottling”.
+The colour of the soil is a composite of the colours of its components. Soils display a
+variety of colours like red, brown, yellow, green, grey, black, white etc. The effect of these
+components on the color of the composite soil is roughly proportional to their total surface,
+which is equal to their specific surface times their volume percentage in the soil. So- the
+colloidal material will have greatest impact on soil color i.e., iron oxides and humus.
+Humus – brown or dark brown.
+Iron oxides – red, rust – brown, or yellow depending upon degree of hydration.
+Reduced iron – blue green
+Quartz – white
+Lime stones – white, gray or sometimes olive green.
+Humid temperate regions – Grayish
+Tropics and sub tropics – red and yellow
+SIGNIFICANCE OF SOIL COLOUR
+ Colour is taken as a diagnostic criterion for classifying soils e.g. the comprehensive
+system uses color as formative element in its nomenclature as alb (white), ochr
+(light coloured), umbr (dark), sambr (dark).
+ Soil color can be guide to the climatic soil group, to the parent material, or to the
+physiographic location.
+ Humid temperate regions – Grayish;
+ Tropics and sub tropics – red and yellow
+ The productivity of the soils is assessed based on soil color e.g. dark color is an
+indication of high productivity.
+ Colour indicates the presence / domination of the const ituent minerals in the soil
+e.g. light colour results from preponderance of quartz mineral, red colour remits
+from domination of iron rich compounds.
+ Colour is used to describe soil profile.
+ Soil color is indicative of presence of excessive salts.
+ Soils in depression are darker than adjacent uplands.
+ Soils derived from basic rocks are darker than soils derived from acidic rocks.
+SOIL TEMPERATURE
+Temperature is the measure of hotness of a body. In more appropriate words,
+temperature is a thermal condition of a body which determines whether the body will
+communicate the heat to or receive heat from another body, if two bodies having different
+temperatures are put together for for thermal communication. Heat is a form of energy and
+temperature is a measure of the heat energy. The heat energy refers to kinetic energy or random
+motion (vibration) of molecules of a substance. The speed of vibration is directly proportional
+to temperature.
+Solar radiation is the source of soil heat. The flux of heat (calories or joules) into and out
+of the soil determines the soil thermal regime, which is characterized in terms of soil
+temperature (°C).
+On an average only 50% of solar radiation reaches the earth, because of clouds and dust
+particles intercept the sun rays. This energy is primarily utilized to evaporate water from soil or
+leaf surface or is radiated or reflected back to the sky. Only about 10% is absorbed by soil,
+which is of critical importance to soil processes and to plants growing on the soil.
+Importance of Temperature:
+ Soil temperature and soil water generally controls the intensity of physical, chemical
+and biological processes occur in the soil.
+ Encourages the physical disintegration of rocks and minerals
+ Evaporation and soil aeration generally increases with increase in soil temperature.
+ Soil temperature also affects the soil structure through freezing and thawing.
+ Microbial activity, nutrient transformation due to decomposition of organic matter,
+germination of seed, root growth are highly dependent on temperature.
+Lecture 8. Soil water-Importance-Soil moisture constants–
+Infiltration–Percolation–Permeability–Drainage,
+Importance of drainage
+SOIL WATER
+Soil serves as a regulated reservoir for water, as it receives precipitation and irrigation.
+Water is an excellent solvent of most of the plant nutrients and is a primary requisite for plant
+growth.
+The water that fills part of the pore spaces established between the solid particles of soil
+is known as soil water. It is the liquid phase of the soil and is important as the other two phases
+of the soil system. It has profound influence on the life of the plant, at all the stages.
+Importance of soil water
+ It dissolves and carries nutrients to the plant.
+ It helps in soil formation
+ It makes soil biological active by supporting flora and fauna.
+ It carries dissolved oxygen in to the soil
+ It keeps soil from getting too cold or too hot.
+Soil Moisture Constants
+Knowledge about amount of water held by the soil at various tensions is required to
+calculate the amount of water available to plants, the amount of water retained by the soil
+before percolation starts and the amount of water that is favourable for irrigation.
+Soil moisture constants are expressed in terms of the energy with which the water is
+held at that moisture content and the relationship is a continuous function without break. For
+practical use and tabulate the moisture data, it is necessary to compare moisture tension with
+some reference points. These reference points are known as ‘Moisture Constants’.
+Soil moisture constants: Amount of water that soil contains at each of these equilibrium
+points is called as Soil moisture constants
+1. Saturation - “O”
+2. Field capacity -1/3 bars
+3. Wilting coefficient -15 bars
+4. Hygroscopic coefficient -31 bars
+5. Air dry soil -1,000 bars
+6. Oven dry soil -10,000 bars
+Saturation
+Saturation water content is the amount of moisture present, when all the pores are filled
+with water. A soil whose pore spaces are completely filled with water is said to be saturated
+soil and the water is at zero tension. Such a condition is established only in coarse textured
+soils but not in fine textured soils as some fine capillary pores are filled with air.
+So the soil normally flooded with water will not be saturated as some air is blocked.
+Hence it is better to define a soil as saturated when the water is at zero tension and majority of
+its pores are filled with water.
+Field Capacity
+After heavy rain or irrigation to the soil the water drains off rapidly for the first few
+hours and then starts to drain slowly. After two or three days, this rapid movement becomes
+slow and negligible later. The soil is said to be at field capacity. At this condition water moves
+out of macro pores and air occupies their places. The micro pores are still filled with water,
+which is available to plants. Moisture movement continues but very slowly. The moisture
+tension at field capacity is 1/3 bars.
+Permanent Wilting Point
+It is the soil moisture content at which plants show wilting symptoms and can’t recoup
+or recover even though it is kept in humid chamber. Soil moisture tension at this point is 15
+bars. The ease of release of water to the plant roots is just barely too small to counter balance
+the transpiration losses.
+Available water
+Available water is defined as that portion of water which is retained in the soil between field
+capacity and the permanent wilting point.
+Hygroscopic Coefficient
+Hygroscopicity is the ability of a body to adsorb moisture from the atmosphere. It
+largely depends on amount and type of clay, exchangeable cations and presence of free
+electrolytes. Soils high in expanding type of clay minerals and organic matter have a high
+hygroscopic coefficient. This water is not available to plants, but available to certain microbes.
+The soil moisture tension at this point is equal to 31 bars.
+Air dry soil
+Moisture in air dryness is held with a force of -1000 bars of soil water potential. This water is
+not available to plants
+Oven dry soil
+The equilibrium tension of the moisture at oven dryness is -10,000 bars of soil moisture
+potential. It is determined by placing the water in an oven at 105oC until it loses no more water.
+INFILTRATION: Infiltration is the downward entry of water or movement of water into the
+soil surface. Vertical flow of water though the soil Column.
+ Soil surface with vegetation cover has more infiltration rate than bare soil. High organic
+matter in soil helps to increase infiltration.
+ Irrespective of soil texture, the infiltration rate in a dry soil would be high, initially and the
+infiltration rate reduces exponentially with time and attains a steady rate after a long lapse
+of time. It is expressed as millimeters per hour. Infiltrate rate is high and constant in
+nonswelling clay soil i.e., laterite soils.
+PERCOLATION: The down ward movement of water below the root zone depth. This is the
+only source of recharging ground water. Percolation occurs when the water is under pressure or
+when the tension is smaller than about ½ atmosphere or when the hydraulic gradient of the
+order of 1.0 or less.
+PERMEABILITY: The ease with which water pass through a bulk mass of soil or a layer of
+soil is the permeability of the soil.
+SOIL DRAINAGE: When rainfall intensity exceeds the infiltrability of soil or the amount
+of rainfall exceeds the storage capacity of soil, the excess water accumulates at the soil surface
+and may keep the soil under saturated condition for longer time.
+IMPORTANCE OF DRAINAGE
+1. Drainage is essential, as the crop growth will be drastically affected by continuous soil
+saturation with water.
+2. Soil saturation may encourage certain diseases and parasites.
+3. Poor drainage leads to the development of salt affected soils.
+4. High water table may limit root penetration.
+5. Soil saturation stops the gaseous exchange causing oxygen deficiency and accumulation of
+CO to toxic levels in root zone.
+2
+6. Wet soil requires more heat to warm up than dry soil, due to high specific heat of water, the
+growing season for winter crops is shortened in poorly drained soils.
+7. Under poor drainage conditions / anaerobic conditions many organic and inorganic
+compounds will be reduced to toxic levels and inhibit crop growth.
+8. Denitrification occurs in anaerobic conditions.
+9. Some micronutrients will become unavailable.
+Lecture 9. Soil biology- Classification of soil microbes
+Soil is an ecosystem capable of producing the resources necessary for the development
+of the living organisms. The soil is teeming with millions of living organisms which make it a
+living and a dynamic system. Under microscope it reveals a complex arrangement of soil
+particles and pore spaces filled with air and water. It is in these pore spaces that plant roots and
+millions of organisms develop, ranging from microscopic to macroscopic in size. Soil
+microorganisms (bacteria and fungi) are responsible for biomass decomposition, biogenic
+element circulation, which makes nutrients available to plants, biodegradation of impurities,
+and maintenance of soil structure. The organisms in the soil, not only help in development of
+soils but carryout a number of transformations facilitating the availability of nutrients to the
+plants. In the absence of the activities of these organisms, in soil, life on earth would have
+come to a halt, as all available nutrients would have ended up locked in the organic, disrupting
+the nutrient cycles. Greek word Bios= life, logos=study
+The study of living organisms in soil is called Soil biology.
+Biomass: Weight of the organisms per unit weight of soil is known as biomass
+Factors affecting microbial activity and growth
+1. Type and quantity of organic matter added to soil
+2. Physical and chemical properties of soil
+3. Environmental factors (Temperature, Rainfall)
+4. Crops grown (Cereals, Pulses)
+5. Indiscriminate use of chemical fertilizers and pesticides
+6. Lack of proper drainage system
+Classification of soil organisms:
+Soil Organisms
+Soil flora (Plant kingdom) Soil fauna (Animal kingdom)
+Micro-flora Macro-flora Micro fauna Macro-fauna: Earth-
+Eg: Pl ant Eg: worm s, Termites, Ants,
+roots, Macro
+Protozoa, Grubs, Slugs, Snails,
+algae
+namatodes Centipedes, Millipedes
+Bacteria Actinimycetes, Fungi Algae: BGA,
+a Streptomyces Diatoms
+IMPORTANT SOIL ORGANISMS
+1. Bacteria: Bacteria are single cell/unicellular organisms. They are known for rapid
+proliferation. They adjust quickly to changes in environment. Size will seldom exceed 4-5 μm
+(length). Shape may be round, rod like or spiral. In the soil, the rod shaped ones seem to
+predominate Bacterial population vary from few billion to three trillion in each kilogram of
+soil.
+2. Fungi: Like bacteria and actinomycetes, fungi contain no chlorophyll. They are longer than
+bacteria and heterotrophic in nature (Saprophytic in nature). Fungi are broadly grouped in to
+yeasts, molds and mushrooms, out of which molds and mushrooms are important in soils.
+3. Actinomycetes: Thread / Filamentous bacteria. Next to bacteria in abundance. A common
+genus is streptomyces. Actinomyctes helps in for decomposition of resistant components of
+plants and animals.
+4. Algae: Chlorophyll containing organism. Aerobic, Photoautotrophic Ex:- Blue green algae
+(Anabaena, Nostoc, Oscillatoria, Tolypothrix etc)
+CLASSIFICATION OF SOIL MICROORGANISMS
+soil microorganisms classified into different groups.
+i) Photoautotroph
+1. Based on nutrition and energy iiI) Chemoautotroph
+iii) Heterotroph
+i) Photoautotroph: The source of energy of these microorganisms is Sunlight and source
+of nutritive carbon from CO and organic matter.
+2
+ii) Chemoautotroph: The source of energy of these microorganisms is oxidation of
+inorganic substances and source of nutritive carbon from CO .
+2
+iii) Heterotroph: The source of energy and source of nutritive carbon from CO .
+2
+i) Aerobic
+2. Based on nutrition and energy iiI) Anaerobic
+iii) Facultative Anaerobic
+i) Psychrophiles – <10oC
+3. Based on temperature iiI) Mesophiles – 20 to 40 oC
+iii) Thermophiles - >40 oC
+4. Based on pH i) Acidophiles
+iiI) Alkaliphiles
+5. Based on relation ship i) Symbiotic association
+iiI) Non-symbiotic association
+Lecture. 10. Role of beneficial microorganisms in various
+processes of soil- Harmful microorganisms in soil
+Importance/Role of Microorganisms
+1. Formation of humus through organic matter decomposition
+O.M  humus
+2. Supplies nutrients to plants in a readily available form
+3. Inorganic nitrogen transformations NH4+  NO - Ex: Nitrozomonas and Nitrobactor
+3
+Urea
+Urease
+- Amides
+Aminase
+Ammonia
+Nitrogenase (Nitrosomonas)
+Nitrite
+Nitrobacter
+Nitrate
+4. Nitrogen fixation Ex: Rhizobium, Azatobactor, Azospirillum
+5. Solubilisation of insoluble phosphorous compounds Ex: Bacillus and Pseudomonas
+6. Solubilisation of insoluble Sulphur
+S oxidizing and reducing organisms S So 2- and SO 2- - S
+4 4
+Ex: Thiobacillus, Desuphovibrio and Desulphomaculam
+7. Formation and development of soil
+8. Production of soil enzymes, growth promoting substances and antibiotics
+9. Detoxification of soil pollutants
+10. Protect plant roots from invasion by soil parasites and pathogens.
+Denitrification: Denitrification process is defined as the microbial reduction of nitrate and
+nitrite with the release and loss of molecular nitrogen, in some substances of NO .
+2
+Harmful activities of soil organisms
+ However, some soil organisms are detrimental or harmful to plant production. Many
+species of insects or mites attack plants. For example ants, aphids and phytophagous
+nematodes can be serious pests, and some micro-
+organisms, bacteria and actinomycetes cause plant diseases.
+ Rodents, snails, slugs, termites, insect larvae a nd nematodes cause great · damage to
+plants
+ Mainly fungi, but bacteria and actinomycetes, also, are responsible for many soil borne
+diseases of crop plants.
+ Offer lot of competition to higher plants in utilizing the soil available nutrients,
+particularly in the presence of carbon sources in the soil.
+ Under conditions of poor drainage, depletes the available oxygen and hampers the
+normal growth of plants.
+ Under anaerobic conditions, bacteria transform some of the nutrients to unavailable
+form (k & Zn etc.) and some nutrients to be available in toxic levels ( Fe & Mn etc.).
+Lecture. 11 Soil organic matter- Various sources -
+Compounds in plant residues - Their
+decomposability
+Soil Organic Matter
+Sources of soil organic matter:- The original source of soil organic matter is plant
+tissue (leaves, roots and left outs of harvested crops). Animals are the secondary sources of
+organic matter (their bodies when their life cycles are consummated)
+Decomposability of Plant Residues
+Different organic residues (plants and animals) contain different groups of organic
+compounds. So, different groups of compounds have their different ease of decomposition.
+Lignin, fats, waxes increasing rate of crude proteins, simple proteins
+Cellulose and hemicelluloses sugars, sugars, starches, etc
+(very slowly decomposed) decomposition (rapidly decomposed)
+Organic Matter Decomposition
+When fresh organic materials (plants and animals) are incorporated in to the soil, three
+separate processes occur simultaneously as follows:
+1. Plant and animal tissue constituents disappear under the influence of microbial enzymes
+undergoes enzymatic oxidation and new biological tissue, new microbial cells are formed
+bringing about an increase in soil of proteins, polysaccharides and nucleic acids along with
+energy and heat as the major products etc.
+2. Breakdown of so formed organic compounds (according to their ease of decomposition) by
+different groups of microorganisms and release of different essential plant nutrients like N,
+P, S, etc. into the soil or immobilization may take place by a series of specific reactions.
+3. Compounds very resistant to microbial actions are formed either through modification of
+compounds in the original plant tissue or by microbial synthesis.
+The native flora of soil i.e. bacteria, fungi and actinomycetes are involved in the decomposition
+of organic matter. Different soil enzymes (protein substances) produced by these
+microorganisms are directly responsible for the decomposition by reducing the activation
+energy, necessary to breakdown the bonds of different organic materials.
+An enzyme is a substance, composed of proteins that are capable of lowering the
+activation energy of other selective compounds enough to allow the breaking of a particular
+bond under a particular environment.
+The action of enzyme to make a split easier does not use up the enzyme. An activator
+that is not consumed or changed by such a process is called catalyst. Many different enzymes
+are produces by a single organism and many organisms produce the same enzyme.
+The simple end products of decomposition of organic matter under aerobic soil
+situations are CO , NH +, NO -, H PO -, SO 2-, H O, resistant residues and various other
+2 4 3 2 4 4 2
+essential plant nutrients like Ca2+, Mg2+, Fe2+, Mn2+, Zn2+, Cu2+ etc.,.
+Under anaerobic conditions the end products are CH (swamp gas), some organic acids
+4
+(R-COOH) eg. lactic, propionic and butyric acid etc., NH4+, various amine residues (R-NH ),
+2
+toxic gas H S and ethylene (H C=CH ) and the resistant humus substance.
+2 2 2
+Mineralization: Mineralization is the conversion of an element from an organic form to an
+inorganic as a result of microbial decomposition. The heterogeneous group of heterotrophic
+soil micro-organisms takes part in mineralization of organic nitrogen and converts it to
+inorganic nitrogen.
+Aminification: Process of conversion of proteins to amino acids and amines
+Enzymatic reaction Enzymatic hydrolysis
+Protein    Polypeptides    Amino acids, Amines + CO + Energy
+2
+Ammonification: Process of conversion of amino acids to ammonia.
+Enzymatic hydrolysis
+RNH + HOH    NH + R – OH + Energy
+2 3
+NH + H O   NH + + OH- or NH + H CO   2NH + + CO 2-
+3 2 4 3 2 3 4 3
+Nitrification: The biological oxidation of NH + released by the process of ammonification
+4
+to nitrate is known as nitrification. It is a two step process in which NH + is first converted to
+4
+nitrite (NO -) and then to nitrate (NO -). Conversion to nitrite is brought about largely by a
+2 3
+group of obligate autotrophic bacteria known as Nitrosomonas as
+2 NH + + 3 O 2 NO - + 2 H O + 4H+
+4 2 2 2
+The conversion from nitrite to nitrate is affected by Nitrobacter as follows:
+2 NO - + O 2 NO -
+2 2 3
+Immobilization: The conversion of the element from the inorganic to the organic form in
+microbial tissues or in plant tissues, thus rendering the element not readily available to other
+organisms or to plants, is called immobilization.
+Lecture 11. Carbon : Nitrogen ratio- Significance of C:N
+ratio in soil fertility
+Nitrogen is more important nutrient for crop growth along with Carbon, PH , Oxygen.
+ Nitrogen occurs in soils mainly in the form of nitrate (NO3-) and Ammonium (NH4+)
+ions. It is known to be a very mobile element circulated between the atmosphere, the
+soil and living organisms.
+ C:N ratio is the intimate relationship between organic matter and nitrogen contents of
+soil. The ratio of the weight of organic carbon to the weight of total nitrogen in a soil
+or organic material is known as C:N ratio.
+ In general, the C:N ratio of humus is 10:1 to 12:1
+ It is usually found that most of the applied fresh organic materials in soils carry large
+amounts of carbon with relatively very small amounts of total nitrogen.(100:1)
+ Large amount of fresh organic materials like crop residues, animal and human
+wastages, organic materials having wide C:N ratio(100:1) are incorporated into the
+soil under favourable soil conditions for decomposition. A rapid change will found.
+The heterotrophic micro-organisms, bacteria, fungi and actinomycetes become active
+and increases their population with the production of large amount of CO .
+2
+ Under, these conditions, nitrate nitrogen (NO -N) disappears from the soil because of
+3
+the urgent needs by the micro-organisms. And for the time being, little or no nitrogen
+is available to plants.
+ As the decomposition proceeds, the C:N ratio of the organic materials decreased with
+the loss of carbon and conservation of nitrogen.
+The quantity of carbon declines with the advancement of decomposition process.
+Similarly, the inorganic element released during mineralization process is also lost, by several
+means i.e. plant utilization, leaching, volatilization, conversion to insoluble compounds etc.,. It
+results in a stabilized C:N ratio to the soil i.e. 10:1 or 12:1(Humus) in which nutrients released
+(Mineralization) and readily available to plants.
+Mineralization: The conversion of organic forms of C, N, P and S to inorganic or mineral
+forms as a result of microbial decomposition is called Mineralization. The heterogeneous group
+of heterotrophic soil micro-organisms takes part in mineralization of organic nitrogen and
+converts it to inorganic nitrogen. The reactions go uninterrupted, as long as carbon source is
+available for microbes. C : N ratio < 20:1
+Enzymatic reaction Enzymatic Hydrolysis
+Proteins Peptones, Peptides Aminoacids
+S o m e a r e h ighly
+susceptible to
+Some are
+d e c omposition initial
+resistant to
+breakdown
+decomposition
+deaminization
+(oxidative and
+reductive)
+Immobilization: The conversion of the inorganic forms of those elements to the organic
+form in microbial tissues or in plant tissues, thus rendering the element not readily available to
+other organisms or to plants, is called immobilization. C : N ratio > 30:1
+Significance of C: N ratio in Soil Fertility
+1. C : N ratio determines the microbial activity and their proliferation
+2. C:N ratio of organic residues determines the rate of decomposition of organic residues.
+3. C : N ratio determines the net availability of nutrients to plan
+4. The supply of nitrogen, phosphorus and sulphur are largely determined by C:N ratio of
+organic residues.
+C:N ratios of some organic materials
+Material C:N ratio
+Sewage, Sludge 5-14 : 1
+Microbial tissues 6-12 : 1
+Soil Humus 10-12 : 1
+Legume residues and green manures 13-25 : 1
+Cereal residues and straws 60-80 : 1
+Forest Wastes 150-500 : 1
+Lecture.13 Humus- its importance on soil
+properties- Care and management of soil
+humus
+SOIL HUMUS
+Humus is a complex and rather resistant mixture of brown or dark brown amorphous
+and colloidal organic substances that results from microbial decomposition and synthesis and
+has chemical and physical properties of great significance to soils and plants.
+Soil humus, the complex array of substances left after extensive chemical and biological break
+down of fresh plant and animal residues, makes up 60-70% of the total organic carbon in soil.
+IMPORTANCE OF HUMUS
+Influence of Humus / Organic matter on soil physical, biological and chemical properties
+1. Imparts dark color to soils
+2. Supplies polysaccharides for binding soil particles for formation of aggregates (genesis of
+good soil structure)
+3. Increases infiltration rate of water and provides better drainage
+4. Increases water holding capacity
+5. Reduces plasticity, cohesion, stickiness etc in clay soils
+6. Reduces bulk density, there by influence porosity favorably
+7 .Through granulation, reduces wind erosion losses
+8. Provides mulching (raw organic matter) and lowers soil temperature during summer. Acts as
+an insulator and retards heat movement between atmosphere and soil
+9 .Reduces alkalinity in soils by releasing organic acids and CO2
+10. With high adsorption capacity, it accounts for 30 -90% of the adsorbing power of mineral
+soils (Carboxylic group – 54% ; phenolic & enolic groups – 36%; imide group – 10%)
+11. Acts as a buffering agent and reduces the likelihood damage from acids and alkalis.
+12. With its solubilising effect, increses the availability of nutrients
+13. Acts as a store house for nutrients. Organic matter is the source of 90-95% of nitrogen in
+unfertilized soils. Also supplies available P,S and micro nutrients like Fe, Mn, Cu and Zn
+etc.
+14. Adsorbs temporarily the heavy metal pollutants and cleans the contaminated waters.
+15. Serves as a source of energy for macro and micro organisms in soils and helps in
+performing various beneficial functions in soils (N - fixation, mineralization etc.)
+16. Acts as a chelate and increases the availability of micro nutrients
+17. Various organic substances like vitamins, antibiotics and growth promoting substances
+namely auxins are produced by different micro organisms during decomposition of organic
+matter. Also some fungi-toxins are produced to control diseases.
+Lecture 14. Soil colloids- Properties of soil colloids
+SOIL COLLOIDS
+The colloidal state refers to a two phase system in which one material (or materials) in
+a very finely divided state is dispersed through a second. Few examples of the colloidal state –
+milk and cheese, clouds and fog, starch, gelatin, rubber, proteins, blood and soil etc.
+The rapidly diffusing substances, mostly of crystalline nature in the solid state, are
+called crystalloids while starch and proteins are called colloids. Colloidal particles float in a
+medium and do not tend to settle. Therefore, colloids are referred to as dispersed systems. The
+substance in solution is called dispersed phase, while the medium in which the particles are
+dispersed is called the dispersion medium.
+Soil particles less than 0.001 mm size possess colloidal properties and are
+known as soil colloids. There are four major types of colloids present in soil
+1. Layer silicate clays
+2. Iron and aluminum oxide clays (sesquioxide clays)
+3. Allophane and associated amorphous clays
+4. Humus
+GENERAL PROPERTIES OF COLLOIDS
+1. Shape
+2. Size
+3. Surface area
+4. Electrical charge
+5. Adsorption
+6. Plasticity
+7. Cohesion and Adhesion
+8. Swelling & Shrinkage
+9. Flocculation & Deflocculation
+10. Brownian movement
+11. Tyndal effect
+12. Non permeability
+1. Shape: The mineral colloids are laminated, made up of layers of plates or flakes or even
+rods. The different units or flakes of clay minerals are held together with varying degrees of
+force depending upon the nature of the clay mineral. The edges of clay minerals are of clean
+cut or frayed or fluffy. In all cases clay minerals are developed more in the horizontal axis than
+of vertical axis.
+Kaolinite-------- Hexagonal crystals
+Montmorillonite -- Flakes
+Humus------------Variable
+Halloysite----- ---Rod shaped
+Layer silicate clays, iron and aluminum oxide clays, allophane and associated
+amorphous clays are inorganic colloids while humus is an organic colloid. These are in
+Crystalline and Amorphous form.
+2. Size: The inorganic and organic colloids are extremely small size - smaller than 2
+micrometers in diameter (0.001 to 0.2 μ). These particles cannot be seen using an ordinary
+light microscope but can be seen only with an electron microscope.
+3. Surface Area: The colloids expose a large surface area per unit mass. The external
+surface area of one gram of clay colloid is at least 1000 times that of one gram of sand.
+Certain silicate clays with expanding plate like makeup offer internal surfaces besides
+external surface area. The total surface area of soil colloids ranges from 10m2/g for clays
+with only external surfaces to more than 800 m2/g for clays with extensive internal surfaces.
+4. Electrical charge: Colloidal particles usually have an electrical charge-some positive
+and some negative when clay colloids suspended in water, it carries a negative electric charge
+and there by attracts positively charged ions (cations).
+5. Adsorption: Adsorption of cations / anions and water is the important consequence of
+the charges on colloids. The negatively charged colloids are of practical significance, as they
+attract hundreds of thousands of positively charged ions (cations). This gives rise to an ionic
+double layer. The adsorption of ions is governed by the type and nature of ion, ion
+concentration and the type of colloidal particle.
+ Higher is valency, higher the adsorption (excepting H+)
+ With same valency, the ion with more atomic weight is preferred.
+ Concentration of the ion in the solution also determines the adsorption rate.
+6. Plasticity: Soils containing more than 15% of colloidal clay exhibit plasticity . Plasticity
+occurs only when soils are moist or wet. Due to this property clay colloids can be molded to
+any shape. Plasticity phenomenon is extremely important because it encourages a change in
+soil structure which is most related to the tillage operations.
+Montmorillonite > Illite > Kaolinite
+7. Cohesion and Adhesion: Colloidal clay particles exhibit the properties of cohesion
+and adhesion. Due to cohesion force clay particles are able to form aggregates and also due to
+adhesive force clay particles envelop sand particles. Both the forces develop in the presence of
+water and these two forces help in the retention of water in the soil as well as absorption to the
+plants and microorganisms.
+8. Swelling and shrinkage: Contraction and expansion in volume of soil with the
+variation in moisture are influenced by the presence of colloidal clay particles in soil. Swelling
+phenomenon occurs when colloidal clay particles are allowed to be placed in contact with
+moisture due to imbibition of water. Whereas shrinkage occurs in dry condition of the soils
+containing sufficient amount of colloidal particles and causes decrease in volume with cracks
+in variable nature.
+Shrinkage and swelling are more pronounced in Montmorillonite clays (expanding 2:1
+type) than that of Kaolinite (Non expanding 1:1 type) clays and these phenomenon play a
+significant role in the formation of soil structure.
+9. Flocculation and Deflocculation:
+Aggregation or clumping together of individual, tiny soil particles is called flocculation.
+Clay particles by virtue of carrying negative charge on its surface repel each other and disperse
+in the medium. When the negative charge is satisfied by cations, which are tightly held on clay
+surface, the repulsive forces would be very minimum. It leads to coagulation or flocculation of
+soil particles.
+The colloidal particles are coagulated by adding an oppositely charged ion. This
+process of formation of flocs is known as flocculation. As for example, clay is coagulated by
+the use of aluminium (Al3+).this condition is generally beneficial in relation to agriculture since
+it is the first step in the formation of stable aggregates or granules. The ability of common
+cations to flocculate soil colloids is in the order of,
+Al3+>Ca2+> and H+>Mg2+>K+>Na+
+Deflocculation is the dispersion of colloidal particles, due to the repulsion of negatively
+charged particles. Under deflocculated condition particles move away from each other, and act
+independently. Poor physical condition of the soil develops resulting from the dispersion of the
+soil colloids which is not desirable.
+So the phenomenon of flocculation plays an important role in the field of agriculture by
+improving the physical condition as well as other related condition of the soil which is
+beneficial for the plant growth.
+Ex: Organic matter - flocculation of soil particles
+Ca - flocculation of soil particles
+Na - dispersion or deflocculation of soil particles
+10. Brownian Movement: The continuous rapid zigzag movement executed by a
+colloidal particle in the dispersion medium is called Brownian movement or Motion (Robert
+Brown, 1927). In a colloid suspension, the colloidal particles are under constant rapid motion.
+They move in a short straight line path in the medium and change their path abruptly due to
+collision with other colloidal particles or molecules of dispersion medium. The smaller the
+particle, the more rapid is its movement and more often does it collide. The Brownian
+movement is mainly responsible for the coagulation or flocculation of colloidal particles.
+11. Tyndall Effect: The Tyndall Effect is the effect of light scattering in colloidal
+dispersion, while showing no light in a true solution. This effect is used to determine whether a
+mixture is a true solution or a colloid.
+The Tyndall effect is an easy way of determining whether a mixture is colloidal or not. When
+light is shined through a true solution, the light passes cleanly through the solution, however
+when light is passed through a colloidal solution, the substance in the dispersed phases scatters
+the light in all directions, making it readily seen.
+Ex: For example, light being shined through water and milk. The light is not reflected when
+passing through the water because it is not a colloid. It is however reflected in all directions
+when it passes through the milk, which is colloidal.
+12. Non- Permeability: Colloids are unable to pass through a semi permeable membrane
+and this membrane allows to pass water and other dissolved substances but retains colloidal
+materials.
+Lecture. 15. Ion exchange in soils – Cation exchange
+ION EXCHANGE IN SOILS
+Ion exchange is defined as a reversible process by which cations and anions are
+exchanged between solid and liquid phases and between solid phases, if in close contact with
+each other.
+Adsorption is defined as a phenomenon by which an increase in concentration or an
+accumulation of an ion on a solid occurs due to ion exchange or other reactions. Desorption is
+a phenomenon by which the replacement or release of an adsorbed ion species occurs.
+Ion exchange property is almost entirely to the clay and silt fractions and the organic
+matter. The soil particles are amphoteric in nature and soil particles have the power to hold
+both cations and anions. The charge density and potential are higher on edges and corners and
+in furrows and cavities as compared to flat (plane) surfaces and consequently in exchange
+phenomena are probably concentrated more in those sites. The exchangeable ions are held to
+the surface by coulomb forces and van-der-waal’s forces. In most of the soils the exchangeable
+cations are Ca 2+, Mg2+, H+, K+, Na+ and NH4+, of which Ca 2+ is the dominant exchangeable
+ion. In strong acid soils Al(OH) + may act as a dominant exchangeable ion. In alkali soil Na+
+2
+becomes dominant and the most common anion SO 2-, Cl- and HCO - etc.
+4 3
+Cation Exchange
+The process of replacement of cations adsorbed on exchange complex by other cations is
+called cation exchange. The reaction of cation exchange takes place rapidly and the inter
+change is chemically equivalent. The exchange of cations in the soil takes place between.
+1. Cations in the soil solution and those on the exchange complexes of soil (clay crystal and
+humus)
+2. Cations released by plant roots and those on the exchange complexes of soil.
+3. Cation on the surface of either two clay crystals, two organic colloids; or a clay and humus
+particle.
+All the cations are not adsorbed with equal tenacity, and the exchange complex does
+not possess same strength of negative charge at all points. The cation with less size and higher
+charge per unit size are held more strongly than other cations.
+Power or replacement of cation: H +=Al3+>Ca2+ >Mg2+ > K + = NH4+ > Na+
+Lecture. 16. Cation Exchange Capacity (CEC)-Factors
+affecting CEC- Importance
+Cation Exchange capacity of soils (Thomas Way, 1850)
+The sum total of the exchangeable cations that a soil can absorb is known as “Cation
+Exchange Capacity” of that soil. It is the amount of exchangeable cations per unit weight of
+dry soil. It is measured in mill equivalents of cations per 100 grams of soil (Recently cmol [p+]
+kg-1) The mill equivalent is used because the number of negative charge sites in a given sample
+does not change, but the weights of cations, that may be adsorbed to those sites at one time do
+change because they have different weights.
+Importance of CEC
+1. The most important reaction in nature after photosynthesis.
+2. It is an important reaction in correcting soil acidity and basicity
+3. It alters soil physical properties
+4. Through cation exchange mechanism (large cation exchanger), the percolating waters will
+be purified or altered (Ground water pollution is checked)
+5. Plants absorb exchangeable cations by interchange or contact between the root hairs and
+colloidal complex
+6. The amounts of cations in the soil solution are intimately related to the exchangeable
+cations.
+7. Offers buffering capacity to soils.
+Factors affecting CEC
+1. Soils with large amounts of clay and organic matter will have higher cation exchange
+capacity. More fine the soil more is the CEC.
+2. More humus (Humus = >150 me/100gr) content more is the CEC
+3.2:1 clay minerals i.e. Montmorillonite = 100-150 me/100gr have more CEC than 1:1 type
+minerals i.e. Kaolinite = 3-15 me/100gr
+4. Cation exchange capacity increases with decrease in the size of the particle.
+5. In alkaline PH range, CEC would be more. Increase in PH increases Cation exchange
+capacity.
+6. Liming & Fertilization increases the CEC.
+Lecture.17 Anion Exchange capacity (AEC) - Factors
+affecting AEC
+ANION EXCHANGE CAPACITY OF SOIL
+The total amount of exchangeable anions held by a unit mass of soil, is termed as its Anion
+exchange capacity.
+Anion exchange capacities are generally low and increases as the pH decreases or acidity
+increases.
+Preference of anions for the positive sites
+SiO 4 - > PO 3- >> SO 2- > NO3- = Cl-
+4 4 4
+Factors affecting AEC
+1. The capacity for retaining anions increases with a decrease in soil PH
+2. AEC increases with the valency of the anion but decreases with increasing valency of the
+cation.
+3. AEC is much greater in soils high in 1:1 type i.e. Kaolinite = >43 me/100gr clay minerals
+and those containing hydrous oxides of iron and aluminium than that of soils containing high
+amounts of 2:1 type i.e. Montmorillonite = < 5 me/100gr of clay minerals.
+4. Anion exchange generally decreases with increasing salt concentration.
+OH - > H PO - >> SO4 2- > NO - = Cl-
+2 4 3
+5. As the ratio of CEC/A EC of a layer silicate mineral increase, the adsorption of anions
+decreases.
+6. Acid soils in tropical and sub-tropical regions containing hydrous oxides of Al and Fe
+exhibit much higher AEC than alkaline and calcareous young soils of arid and semi-arid
+regions.
+Lecture.18. Base saturation - buffering capacity-its
+importance
+BASE SATURATION
+The percentage of total CEC satisfied with basic cations is termed base saturation. It is defined
+as the extent to which the exchange complex of a soil is saturated with exchangeable cations
+other than hydrogen and aluminum and it is expressed as a percentage of the total cation
+exchange capacity.
+% Base Saturation = m eq of basic cations per g soil x 100
+Total CEC in m eq per g soil
+The degree of base saturation is an important property of soil which usually reflects the extent
+of leaching and weathering of soils. It is an indication of soil fertility. The ease with which
+adsorbed cations are released to plants depends on the degree of base saturation.
+>80% - Highly fertile soils
+50-80% - Medium fertile
+<50% - Low fertile
+Liming is the common means by which the percent base saturation of soils is increased.
+As a general rule, the degree of base saturation of normal cultivated soils is higher for arid than
+humid region soils. Also, the degree of base saturation of soils formed from lime stones or
+basic igneous rocks is greater than that of soils formed from sand stones or acid igneous rocks.
+Soils with larger amounts of organic colloids or 1:1 type clay colloids can supply the
+nutrient cations to plants at a much lower degree of base saturation than soils high in 2:1 type
+clay colloids.
+Kind of adsorbed cations also affects the soil PH. With same base saturation percentage,
+the soil dominated by Na+ cation presents higher PH values than the soil dominated by Ca2+ and
+Mg2+ cations.
+BUFFERING CAPACITY
+Buffering capacity is the ability of the soil to resist change. In the case of acidity, it is the
+ability of the soil to resist change in PH.
+ A higher buffer capacity means that the soil can absorb more acid and/or base without a
+significant change in PH. In general, clay soils have higher buffer capacity than sandy
+soils, and a higher organic matter content tends to increase buffering capacity.
+ Buffering capacity is important because it helps to stabilize the PH. Changes in PH can
+affect plants in a variety of ways, especially by diminishing the fraction of nutrients in
+soil that are available to the plants and increasing uptake of undesirable minerals like
+aluminum.
+ The amounts of amendments necessary to affect a given alteration in soil reaction also
+relate to the effectiveness of PH stabilization.
+Lecture.19 Soil Reaction – pH scale- factors affecting
+soil pH
+SOIL REACTION
+The “Soil Reaction” or “soil PH” describes the degree of acidity or alkalinity of a soil and is
+determined by the hydrogen ion (H+) concentration in the soil solution. pH is H+ ion
+concentration in soil solution. It indicates weather the soil is acidic, alkaline or neutral.
+Soil PH is defined as the negative logarithm of the hydrogen ion concentration.
+The pH of solution has been defined as negative logarithm of hydrogen ion activity
+which in very dilute solution is expressed as g ions L-1 or g mol L-1.
+p H = - log [H+] or log (1/H+)
+10
+[H+] = 10-pH
+pH SCALE
+The concept of pH was given by Sorensen in 1909. The term pH (pH puissance dehydrogen or
+pourvoir hydrogen), which means the power of hydrogen.
+The PH scale goes from 0 to 14 and normally falls between 3 and 10 with pH 7 as the
+neutral point. As the amount of hydrogen ions in the soil increases the soil PH decreases thus
+becoming more acidic.
+It is found that in aqueous system at 22oC
+[H+] [OH-] = 10-14 Which is called ionic product of water.
+i.e., pH + pOH = 14
+An acid soil has more H+ than OH- ions, while a basic or alkaline soil has more OH-
+than H+ ions.
+CLASSIFICATION OF SOILS BASED ON pH
+Based on the pH value of soil solution, the soils have been classified into the following
+categories.
+pH Range Category (Rating)
+< 4.5 Extremely acidic
+4.6 – 5.0 Very strongly acidic
+5.1 – 5.5 Strongly acidic
+5.6 – 6.0 Medium acidic
+6.1 – 6.5 Slightly acidic
+6.6 – 7.5 Neutral
+7.5 – 7.8 Mildly alkaline
+7.9 – 8.4 Moderately alkaline
+8.5 – 9.0 Strongly alkaline
+> 9.1 Very strongly alkaline
+Factors affecting soil pH
+1. The colloidal particles of soil (clay and humus) influence soil reaction to a great extent.
+When hydrogen (H+) ion forms the predominant adsorbed cations on soil colloids (clay and
+humus) the soil reaction becomes acidic.
+5. Soils having low percentage base saturation show acidic reaction. Sodium saturated soils
+have much higher PH values than those dominated by calcium and magnesium.
+6. Rainfall plays an important role in determining the soil reaction. In general soils formed in
+regions of high rainfall are acidic (low PH value) while those formed in low rainfall regions
+are alkaline (PH value high).
+7. Cultural operations in general tend to increase soil acidity. As a result of constant
+cultivation, basic cations are lost from the soil through leaching and crop removal. Besides,
+the continual use of fertilizers is also responsible for the changes in soil reaction.
+8. Soil formed in regions of high rainfall are acidic (low PH) while those formed in low rainfall
+regions are alkaline (high pH).
+Lecture 20. Effect of soil reaction on nutrient
+availability and plant growth
+Soil reaction is the important factor which governs the availability of various nutrients by
+influencing the soil properties like physical, chemical and biological etc.
+Soil reaction and microbial activity: The activity of microbes is influenced by the
+variations in soil pH.
+ Bacteria and actinomycetes prefer near neutral to slightly alkaline reaction (pH 6.5 –
+8.0). Bacteria resoponsible for conversion of N & S from organic to inorganic are less
+active in acidic soil.
+ Fungi work satisfactorily at all pH ranges. They face a large competition at higher pH
+values with bacteria and actinomycetes. Hence they grow better in acidic reaction of pH
+between 4.5 to 6.5.
+Nitrogen: Plants absorb nitrogen in the form of NO-3 whose formation depends on the
+ability of nitrifying bacteria. nitrification slowsdown below pH 5.5. The microbes responsible
+for nitrification are active when the soil pH is between 6.5 to 7.5. Nitrogen fixing bacteria also
+fail to function below a soil pH of 6.0.
+Phosphorus: Phosphorus availability is high when soil pH is between 6.0 to 7.5.
+ At pH values less than 5.0, soluble phosphates are fixed as complex and insoluble
+compounds of Fe, Al and Mn.
+ At pH values of more than 7.5, complex insoluble calcium phosphates like apatites.
+ Excess calcium also hinders the phosphorus absorption and utilisation by the plants.
+Calcium, magnesium potassium: Become deficient due to their leaching.
+Sulphur: The bacteria responsible for the oxidation of sulphides to sulphates can function
+satisfactorily at all pH values.
+Micronutrients: The availability of micronutrients like zinc, iron, copper and manganese
+are more in the acidic range. Under acidic conditions as in the humid regions because of high
+rainfall due to leaching of bases, aluminium, iron and micro nutrients become toxic. They are
+more soluble at low pH. At a soil pH of less than 5.5, aluminium starts to leave the structure of
+silicate clays. High levels of soluble aluminium are injurious to crops. Aluminium toxicity
+increases water stress during dry period. The availability of molybdenum increases under
+alkaline condition.
+Lecture. 21. Problem soils: Units of expression for
+salinity and alkalinity - Characteristics of Acid,
+Saline, Saline Sodic, Sodic and Calcareous soils-
+Formation and Nutrient availability in problem
+soils
+PROBLEM SOILS
+The ‘problem soil’ herein means the soil that has agricultural problems due to the soil’s
+unsuitable physical and chemical properties, or less suitable for cultivation, resulting in that
+crops are not able to grow and produce yields as normal.
+1. Acid Soils
+2. Salt affected soils
+3. Less Water and Nutrient Retention capacity soils
+4. Less drainage facility soils
+1. ACID SOILS
+Acid soil is a base unsaturated soil which has got enough of adsorbed exchangeable H+ ions
+so that to give soil a PH of lower than 6.5.
+Soils with pH < 5.5 have been defined as acid soils by USDA. However, soils with pH < 6.5
+can also be categorized as acidic soils. The following important sources which are responsible
+for the development of acidic soils.
+Sources of Acidity
+1. Soils which are developed from Acidic Parent material
+2. Leaching of basic elements (Ca, Mg) due to heavy Rainfall
+3. Excess application of Acid forming fertilizers and soluble salts
+4. Excess moisture condition
+5. Acid rains
+6. Humus and other organic acids
+7. Podzolization: The major process involved in the formation of acid soils is podzolization in
+areas of temperate climate.
+The Acidity and Alkalinity of the soil has been indicated by soil PH
+S.No. PH Acidity
+1. <4.5 Extremely acid
+2. 4.6-5.0 Very strongly acid
+3. 5.1-5.5 Strongly acid
+4. 5.6-6.0 Moderately acid
+5. 6.0-6.5 Slightly Acid
+6. 6.6-7.0 Neutral
+Nutrient Availability in Acid Soils
+Low pH, high exchangeable H+ and Al3+, low CEC and high base unsaturation are the
+characteristics of acid soils. Adverse effect is due to toxic concentration of Al, Mn and Fe and
+deficiency of Ca and Mg. Acid soils are low in available P and have high P fixing capacity.
+Available micronutrient status is adequate except molybdenum. The population of bacteria and
+actinomycetes is lower and those of fungi higher.
+Management of Acid Soils
+Acid soils can be managed by either growing crops suitable for particular soil pH or by
+ameliorating the soils through the application of amendments which will counteract soil
+acidity. Acid soils are made more suitable for agricultural use by liming which raises the soil
+pH. Liming increases the exchangeable base status, influences nutrient uptake, reduces toxic
+concentration of aluminium and manganese by neutralizing effect, improves the soil structure
+and promotes root distribution.
+Liming Materials
+1. Calcium Carbonate (CaCO )
+3
+2. Calcium Magnesium Carbonate (CaCO MgCO )
+3 3
+3. Calcium Oxide (CaO)
+4. Calcium Hydroxide (Ca (OH ))
+2
+5. Basic Slag
+Precautions - during liming:
+1.The amount of finer fraction of liming materials will be required much less as compared to
+coarser fractions of the material to achieve a certain PH. Liming material should be in powder
+farm, so that liming reaction can occur in a faster rate.
+2. Lime should be applied well ahead of the crop cultivation and broadcasted limes are to be
+well mixed with the whole plough layer soil so that liming reaction can occur in a faster
+rate.
+3. Application of lime of no till field soils may not be as effective as application to an
+equivalent cultivated soil.
+4. During liming the field should be in wet condition for proper utilization of liming material.
+5.The application of 3-6 tones/acre of lime of strongly acid soils has been found to be most
+effective.
+2. SALT EFFECTED SOILS
+Soluble salts in these soils are predominant with chlorides and sulphates of sodium, calcium
+and magnesium. The PH is usually more than 7.
+The presence of salt in the soil solution reduces the ability of the seed to germinate, crop
+growth and yield.
+The responsible factors:
+1. Weathering of rocks and minerals: The soluble salts released during weathering leach
+down with rain water, but again move upward due to high temperature and accumulate as
+white crust forming a saline soil.
+2. Hydrolysis of sodium saturated exchange complex in the formation of an alkali soil:
+Sodium carbonate undergoes hydrolysis to form sodium hydroxide, which dissociates to
+increase concentration of hydroxyl ions in soil solution.
+3. Salty underground water: If the ground water is salty, the salts move upward with water
+and get deposited when water evaporates.
+4. Arid and semi arid climate: The low rainfall is not sufficient to leach down the soluble
+weathered products and hence the salts accumulate in the soil.
+5. Quality of irrigation water: If water contains excessive amounts of Ca2+, Mg2+, Na+, Cl-,
+HCO -, CO =, BO = their continuous application develops salt affected soils. Besides this, a
+3 3 3
+rise in the groundwater level, poor drainage which prevents leaching of salts and
+continuous use of bad quality irrigation water lead to the secondary salinisation and
+alkalisation.
+6. Use of basic fertilizer: Basic fertilizers like NaNO and basic slag may develop soil
+3
+alkalinity.
+7. Ocean or Sea water
+8. Imperfect or poor drainage conditions
+9. Old lake bottoms
+10. Alluvial deposits along the sea coasts
+The ground water containing high salts moves in an upward direction by capillary
+action. The water on evaporation leaves the salts behind, which accumulate at the surface or at
+some depth depending upon the capillary fringe. Surface accumulation of salts gives white
+appearance to soils. Hence the soils are called as white alkali soils. These soils can be managed
+by leaching of salts followed by provision of sub-surface drainage.
+In 1954, the US Salinity Laboratory Staff grouped salt affected soils into 3 classes
+A) Saline soils
+B) Alkali soils.
+C) Saline Alkali soils.
+Units of expression for salinity and alkalinity:
+1. Electrical Conductivity (EC): Salinity is measured in terms of electrical
+conductivity (EC) which is the ability of salt solution to conduct electricity. It is expressed in
+terms of deci Siemens per metre (dS m-1).
+Salinity Class EC (dSm-1)
+Salinity effect negligible : 0 – 2
+Yield of very sensitive crops restricted : 2 - 4
+Yield of many crops restricted : 4 - 8
+Only tolerant crop yields are satisfactory : 8 – 16
+Yield of a few tolerant crops are satisfactory : > 16
+Critical value for EC : 4
+2. Exchangeable Sodium Percentage (ESP): It is defined as percentage of CEC
+occupied by Na. Sodium is involved in alkalinity. It is expressed in terms of exchangeable
+sodium percentage (ESP) that is the degree of saturation of exchangeable complex with sodium
+and sodium adsorption ratio (SAR).
+Exchangeable Na [c mol (p+) kg-1)]
+ESP = ---------------------------------------------- x 100
+CEC [c mol (p+) kg-1)]
+3. Sodium Adsorption Ratio (SAR): This is relative proportion of Na with respect to
+Ca and Mg in the soil solution.
+SAR =
+C a 2
+N
+
+a
+
+2
+
+M g 2 
+Characteristics of salt affected soils
+AA.. Saline Soils
+A.
+It is the process of accumulation of salts such as Sulphates, Chlorides of Calcium, Magnesium,
+A.
+Sodium and Potassium in soils in the form of salty (salic) horizon. As a result of the
+A.
+accumulation of salts, solon chalks or saline soils develop with an electrical conductivity of
+A.
+> 4 dSm-1. The soils are called saline soils, which have ESP less than15 per cent and pH
+A.
+between 7and 8.5. Because of the presence of excess salts and low amount of Na+, these soils
+A.
+Aar.e in a flocculated state and their permeability is higher than alkali soils.
+A.
+Their physical condition is good and water can pass through them. These soils have a
+A.
+white crust of salts on their surface. Salinisation refers to the accumulation of neutral soluble
+A.
+salts in soils.
+A.
+AB. Alk ali Soils
+A.
+The process involves the accumulation of sodium ions on the exchange complex of the clay to
+A.
+an extent of >15%, resulting in the formation of sodic soils (solonetz) under arid and semi-arid
+A.
+conditions. This occurs when anions like carbonates and bicarbonates predominate in soil. The
+A.
+Aca.l cium and magnesium in soil solution will precipitate as corresponding carbonates or
+Abi.c arbon ate whenever the ionic product of solution exceeds the solubility products of
+Are.s pecti ve carbonates. This reduces the concentration of Ca and Mg in soil solution, there by
+A
+re
+.
+l easin g them from exchange complex. As this process continues, the sodium concentration
+A.
+A.
+A.
+A.
+A.
+on exchangeable complex increase. When the ESP in soils exceeds 15 %, the soil is designated
+as alkali soil with a high pH of >8.5, which results in less nutrient availability.
+Such soils are not in a good physical condition and the surface of these soils is
+sometimes black due to dispersion of organic matter and humus. Such soils if ploughed when
+wet, turn into slick furrow slice referred to as slick spots.
+C. Saline Alkali soils:
+These soils form as a result of the combined process of salinization and alkalinization. These
+soils are both saline and non-saline alkali soils. It is a stage of transition.
+Affected soil with a content of exchangeable sodium greater than 15, with much soluble salts,
+and with a pH value usually less than 8.5.
+They are transitional soils that they may be converted into saline or into sodic soils.
+These soils have both soluble salts and exchangeable sodium. The soil reaction becomes
+strongly alkaline because of hydrolysis of exchangeable sodium. The physical condition of the
+soil is deteriorated
+Comparison of characteristics of salt affected soils
+Characteristic Saline soil Alkali soil Saline - alkali
+Content in soil Excess soluble salts of Presence of excess These are transition
+calcium, magnesium and exchangeable sodium soils. They contain
+sodium on the exchange sodium saturation and
+complex excess soluble salts
+Dominant cation Exchangeable calcium Exchangeable sodium ---
+Dominant salts Sulphates, chlorides and Sodium carbonate and
+nitrates of calcium, bicarbonate
+magnesium and sodium
+Colour White Black ---
+SAR <13 >13 >13
+ESP <15 >15 >15
+Soil pH <8.5 >8.5 ~8.5
+EC >4 dS m-1 <4 dS m-1 >4 dS m-1
+Total soluble salt >0.1 % <0.1% >0.1%
+content
+Physical Flocculated, permeable Deflocculated, Flocculated or
+condition of the to water and air permeability to water deflocculated
+soil and air is poor.
+Morphological White crust on the High amounts of ---
+character surface exchangeable sodium
+leads to dispersion of
+the clay, which
+together with humates
+may form dark
+colored soil
+Organic matter Slightly less than normal Very low Variable
+content soil
+Nutrient availability in saline and alkali soils:
+Saline soil: Presence of excessive quantities of salts in saline soils result in an increase in
+osmotic pressure of soil solution (osmotic effect). This results in the movement of water from
+plant cell into the more concentrated soil solution. This inhibits uptake of water and nutrients
+into the plant cell.
+Alkali soils: Alkali soils adversely affect plant growth in many ways.
+ Such soils are in poor physical condition. The presence of high Na+ keeps the soil
+particles suspended.
+ Soils contain excessive amounts of boron, bicarbonates and sodium.
+ Active sodium ions interfere with plant nutrition and metabolism. It adversely affects
+Ca2+ and Mg2+ nutrition of plants.
+ Due to high pH, availability of phosphorus and micronutrients becomes low; the soils
+encounter Fe, Cu, Zn and Mn deficiencies.
+ Plant suffers oxygen deficiency as soil structure is adversely affected due to the
+dominance of sodium.
+CALCAREOUS SOILS
+Calcareous soils are soils in which a high amount of calcium carbonate dominates the
+problems related to agricultural land use. They are characterized by the presence of calcium
+carbonate in the parent material and by a calcic horizon, a layer of secondary accumulation of
+carbonates (usually Ca or Mg) in excess of 15% calcium carbonate equivalent and at least 5%
+more carbonate than an underlying layer.
+Main Production Constraints
+Calcareous soils develop in regions of low rainfall and must be irrigated to be productive.
+1. The main production constraints are the availability of water for irrigation. The quality
+of the irrigation water is of crucial importance for sustainable agricultural production
+on calcareous soils.
+2. Crusting of the surface may affect not only infiltration and soil aeration but also the
+emergence of seedlings.
+3. Cemented conditions of the subsoil layers may hamper root development and water
+movement characteristics.
+4. Calcareous soils tend to be low in organic matter and available nitrogen.
+5. The high pH level results in unavailability of phosphate i.e. P fixation (formation of
+unavailable calcium phosphates as apatite)
+6. Reduced micronutrient availability, e.g. zinc and iron (lime induced chlorosis).
+7. They may also potassium and magnesium nutrition due to nutritional imbalance
+between these elements and calcium.
+Management
+ Addition of copious amounts of organic matter which release organic acids during
+decomposition for solubilising CaCO and to release the fixed P.
+3
+ Regular application of ZnSO @ 25 – 50 kg ha-1
+4
+ Application of phosphatic fertilisers by Placement method to overcome the problem of
+P fixation.
+ Foliar application of micronutrients in their respective sulphate form.
+LESS WATER AND NUTRIENT RETENTION CAPACITY SOILS
+The utilization of Silty soil deposited from organic fertilizers, Ponds and check dams will
+improve the Water and nutrient retention capacity of soil.
+LESS DRAINAGE FACILITY SOILS
+ Application of Organic fertilizers
+ Provide drainage facility, for easy flow of water through ponds
+Lecture. 22 Reclamation of Problematic Soils –
+Mechanical, Chemical and Biological methods
+RECLAMATION OF SALT AFFECTED SOILS:
+Before proceeding for reclamation of salt affected soils, the following points should be
+considered and available information should be collected with regard to
+i) Nature and extent of salinity.
+ii) Quality of irrigation water with respect to sodium, boron and bicarbonate and
+It’s salt content.
+iii) Drainage conditions.
+iv) Nature and distribution of salts in the root zone.
+v) Calcium carbonate content of the soil.
+I. MECHANICAL AMELIORATION OF SALT AFFECTED SOILS:
+The commonly followed physical or mechanical method of amelioration of salt affected
+soils include deep ploughing, sub soiling, sanding, profile inversion and scraping.
+ Deep ploughing and sub soiling break the impermeable layer, hard pan or cemented sub
+soil layer existing at various depths in soil profile to improve the internal drainage of the
+soil and to facilitate the transportation of salts dissolved in water to deeper layers.
+ Incorporation of sand in salt affected soils is done to bring about permanent changes in
+texture, increase permeability and to improve water relations in the root zone.
+ Profile inversion can be adopted only under conditions where surface soil is good but the
+soil below is sodic or saline.
+ Scraping is adopted to remove the few centimeters of salt encrustation.
+II. CHEMICAL AMELIORATION:
+A. Reclamation of a saline soil (Leaching): The main objective in reclamation of these soils
+is to leach the salts below the root zone (hence, drainage system should be installed if
+necessary).
+Leaching requirement (LR): It has been defined as that fraction of water that must be leached
+through the root zone to control soil salinity at a specified level.
+This is achieved by flooding and draining. To make it effective, bunds are raised
+around plots prepared and water is applied depending on their water requirement to leach salts.
+Leaching requirement (LR) = ECaw / EC dw
+ECaw is the EC of applied water.
+ECdw is the EC of drainage water.
+B. Reclamation of alkali (Sodic) soil: Reclamation of sodic soils involves two stages. First,
+the replacement of sodium by another cation and second, the leaching of the desorbed sodium
+salts out of the root zone. This may be done with gypsum (CaSO . 2 H O) and leaching with
+4 2
+good quality irrigation water.
+2 Na – X + Ca2+ (solution) → Ca – X + 2 Na+ (solution)
+Where X is the soil exchange complex
+Gypsum requirement: Gypsum requirement is the calculated amount of gypsum necessary to
+add to reclaim the soil. It is the amount of gypsum required to be added to a sodic soil to lower
+its ESP (Exchangeable Sodium Percentage) to a desired level.
+ESP (initial) – ESP (final) x CEC
+Gypsum requirement = --------------------------------------------
+(me of Ca/ 100 soil) 100
+ESP (Initial) is the ESP of soil before application of gypsum
+ESP (Final) is the ESP of soil after bringing it to desired level.
+2 NaHCO + CaSO  CaCO + Na SO + CO
+3 4 3 2 4 2
+Na CO + CaSO  CaCO + Na SO
+2 3 4 3 2 4
+Micelle ] Na + CaSO  Micelle] Ca + Na SO
+4 2 4
+This should be followed by application of good quality water to leach salts. Rate of
+gypsum application depends on soil pH and the amount of exchangeable sodium present on the
+soil exchangeable complex. Gypsum is suitable for alkali soils upto a pH of 9.0.
+Elemental sulphur or pyrites are effective on alkali soils which are calcareous (contain
+calcium carbonate) in nature
+2 S + 3 O  2 SO (microbial oxidation)
+2 3
+2 SO + 3 H O  2 H SO
+3 2 2 4
+H SO + CaCO + H O  CaSO . 3 H O + CO
+2 4 3 2 4 2 2
+H SO produced also reduces soil pH.
+2 4
+III. BIOLOGICAL AMELIORATION
+Organic materials and the activity of plant roots improve biological activity in the soil. During
+the decomposition of organic materials CO is released which forms carbonic acid thus
+2
+dissolving calcium compounds. This can be accomplished by greenmanuring, incorporation of
+crop residues, application of FYM, pressmud and other organic materials.
+Green manure crop is to be raised and incorporated at flowering stage into the soil immediately
+after reclamation. Rice crop is preferred to be grown after the green manure crop owing to its
+high tolerance to soil sodicity.
+METHODOLOGY OF RECLAMATION
+Saline soils
+ Saline soils cannot be reclaimed by chemical amendments, conditioners or fertilizers.
+ A field can only be reclaimed by removing salts from the plant root zone. In some
+cases, selecting salt-tolerant crops may be needed in addition to managing soils.
+ There are three ways to manage saline soils.
+ First, salts can be moved below the root zone by applying more water than the plant
+needs. This method is called the leaching requirement method.
+ The second method, where soil moisture conditions dictate, combines the leaching
+requirement method with artificial drainage.
+ Third, salts can be moved away from the root zone to locations in the soil, other than
+below the root zone, where they are not harmful. This third method is called managed
+accumulation.
+Alkali soils
+ Application of organic or chemical amendments
+ Amendments mobilize divalent cations for the replacement of sodium from the
+exchangeable complex.
+ Gypsum is most commonly used.
+ Gypsum should be broadcast & incorporated in the surface 0-10cms by discing or by
+using cultivar.
+ Use of gypsum: In water containing excess of sodium (when RSC > 4 me L-1),
+gypsum can be successfully used.
+ With the addition of gypsum, the adverse effects of sodium can be mitigated.
+ Gypsum can be applied by
+a) Keeping gypsum lumps or powdered gypsum in bags in small tanks constructed at
+the mouth of the tube well or water passage.
+ b) Application of gypsum @ 2 tones ha-1 for each irrigation
+ c) A saturated solution of gypsum may be added at a constant rate to the flowing water.
+ Due to the reaction that occurs as
+ 2 Na CO + CaSO Ca CO + Na SO
+2 3 4 3 2 4
+Leachable
+ Na SO being soluble can be leached.
+2 4
+ Water containing toxic amounts of boron can be reduced by mixing with gypsum.
+Sodium borate is converted to calcium borate which being soluble can be leached out of
+root zone.
+Saline alkali soils
+ Saline - sodic soils must be treated as sodic soils first.
+ These soils require calcium to correct a sodium problem, followed by leaching to
+remove salts.
+ Sodium must be made soluble in a saline-sodic soil before the soil is leached with clean
+(low-salt) irrigation water.
+ If salts are leached with clean water while sodium is insoluble, the result may be a sodic
+soil.
+ It is extremely important to know how much of a sodium problem exists before
+applying clean irrigation water to leach salts.
+ High EC irrigation water and soil helps maintain soil structure, increase water
+infiltration, and prevent sodium from dominating soil characteristics.
+ However, except for its positive effect on soil structure, high EC (salt) irrigation water
+is not beneficial for crop production.
+ Many of these soils are the result of natural events, and no amount of reclamation will
+return them to a satisfactory level of productivity.
+ Under these conditions, use tolerant vegetation (e.g., pasture) to maintain soil cover.
+Lecture. 23 Important soil groups of India; Alluvial
+soils, Black soils, Red soils, Laterite soils and
+Coastal sands
+India has a geograpghical area of 329 mha and the major soil groups are
+1. ALLUVIAL SOILS: Extent: 75 mha
+Salient features: Texture is variable. Coarser near source & finer in proximity to the sea
+(delta) Fluvial in nature, stratified which is reflected in their texture and OM distribution.
+ Colour depends on parent material
+ Depth depends on geographic position,
+ Calcium carbonate content is variable
+ Mostly alkaline (aridic & ustic SMR) or acidic (udic SMR only) in reaction.
+ Profile development is variable A – C to A -B-C profiles
+ Inherently rich in nutrients – fairly sufficient in P and K but deficient in N and OM.
+Potentialities: River alluviums and deltaic alluviums are best agricultural soils. Wheat,
+rice, sugarcane and other crops can be grown well
+Constraints: Stratification restricts leaching and drainage Extreme sandy nature that
+promotes excessive leaching of water and plant nutrients Hydromorphic condition that
+promotes reduction and results in poor aeration for plant growth.
+ They can be rendered saline where evaporation exceeds rainfall (aridic).
+ The river alluviums and deltaic alluviums are becoming waterlogged and salt affected
+due to injudicious use of irrigation water.
+ Due to intensive use for cultivation, secondary problems are arising like deficiency of S
+and Zn.
+ Receding ground water and rising ground level in some areas.
+Management: Judicious use of I.W & fertilizers. Providing drainage facilities
+ Requires drainage facility
+ Application of green manure crops are more useful.
+ Application of gypsum in small quantities will provide entry of water in to soil and
+maintains the soil moisture retention.
+ Rice, Turmeric, Sugarcane, Banana, Chilly, Vegetables, Maize and Cotton crops are
+grown in this soils.
+2. BLACK SOILS: Extent: 74Mha
+Salient features:
+ Black colour - clay humus complex / titaniferous magnetite,
+ 30-80%clay (highly argillaceous), clay - clay loam, smectite clay,
+ Extremely hard on drying and very sticky and very plastic on wetting
+ Because of swell-shrink nature, they develop deep wide cracks, gilgai relief,
+slickensides in lower depths due to churning / argillopedoturbation.
+ SiO /R O :3 –3.5, high B.D (1.5 – 1.8 Mg m-3) due to compaction in lower layers, high
+2 2 3
+total pore psace, pH (7.8 - 8.7/9.5), CEC (35 – 55 cmol/kg), BS up to 100%, CaCO (up
+3
+to 40%), WHC (150 - 250 mm/m)
+ Generally low OM. High nutrient hodling capacity.
+ Low HC and permeability. Hence ill drained and more runoff.
+Constraints:
+ Deep black soils: Narrow workable moisture, poor traficcability, high draft power
+(heavy soils), low permeability, poor drainage, low HC, High EC and salinity in sub-
+soil.
+ Micronutrient deficiency in calcareous soils.
+Potentialities & Land Use: Inherently fertile, suitable for dry farming, under rainfed
+conditions cotton and millets, under irrigation rice, sugarcane etc., can be grown
+ Black soils with moderate depth are heavy soils, depth ranging from 60-120 cm occur
+in the districts of Adilabad, Nijamabad, Karimnagar, Khammam, Warangal, Medak,
+Rangareddy, Mahaboobnagar
+ Deep Black cotton soils with depth more than 120 cm occur in the districts of
+Mahaboobnagar and Khammam
+Management: ICRISAT – Dry season / pre-monsoon sowing, BBF.
+3. RED SOILS: Extent: 25 to 30% of GPA of the country. 70Mha
+Salient features:
+ Red to yellow (hydration & coatings of Fe and Al oxides 30 – 40%), ls to c texture,
+Shallow to deep, Low to high clay, kaolinitic / illitic, low WHC & NHC Well to
+excessively drained as evident from their colour,
+ CN ratio 10:1, pH 6 -7.5,
+ CEC low (25–40 cmol/kg of clay) and BS is low to medium,
+ SiO /R O :2.5 –3.0, Low nutrient status (O.C, N, P, K, lime)
+2 2 3
+Constraints: Shallow depth if formed on elevations, soil erosion, sub-surface hardening,
+sub-surface ahrd pans, surface crusting, rapid drying, excessive drainage or some times runoff,
+high surface soil temperature in dry areas, deficient in OM, N, P Ca. High in Fe O & Al O ,
+2 3 2 3
+kaolikinite, allophanes - P fixation, though K is sufficient - fast depletion due to continuous
+cropping.
+Crusting and hardening of red sandy soils (chalkas): Reasons:
+ Proportion of clay to sand +silt ratio (3:7) – strenghth 36kg/cm2 on drying
+ Presence of free iron oxides which form irreversible bonds with clay fraction
+ Sealing pores by rain drops force – dispersion of soil particles.
+ Management: tillage with spike roller, pulling thorny bush to break the crust.
+ Mulching of seed lines Sowing on the sides of the ridges
+ Incorporation of slowly decomposable organic residues – paddy husk, grounut pod
+shells, coir pith etc.
+Potentialities & Land use: Under good mangement practices, these soils are good for
+agricultural, horticultural and plantation crops.
+ These occur in the districts of Rangareddy, Mahboobnagar, Medak,
+ Deep ploughing of soils once in a three years gives high moisture retention capacity to
+soil .
+ Application of silt gives good condition to this soil
+ Under Rainfed condition Sorghum, Bajra, Redgram, Castor, Groundnt, under irrigation
+ Rice can be grown
+4. LATERITE SOILS: Extent: 25 Mha
+Salient features: Red colour (5YR or redder), highly weathered hence very deep soils,
+high clay % (not due to migration but due to in situ alteration), open texture, massive structure,
+narrow SiO /R O (<2) ratio , strongly acidic, LAC (<16cmol/kg clay), BS = 40% (low),
+2 2 3
+kaolinite dominant, low OM
+Constraints: High permeability, low AWC, highly leached, Chemically degraded, low
+nutrient reserve, deficiency of P, K, Ca, Zn, B etc., Strongly acidic, high P fixation, Al & Mn
+toxicity.
+Land Use: Generally usaed for plantation crops & shifting cultivation (should be 20 years or
+more), In low level areas - rice, banana coconut & high level areas - coffee, cocoa, rubber, tea
+are grown
+ Generally these have an depth ranging from 45-90 cm
+ These soils are commonly found in Medak, Jaheerabad, Narayan khed, Rangareddy,
+Vikarabad in Telangana
+As laterite soils are acidic, Poor in nutrient status
+ Needs incorporation of Farm yard manure, compost, greenmanures to soil
+ Requires major and secondary nutrients for crop gowth
+ Need to apply more nitrogenous fertilizers
+Management: Liming and fertilization (rock phosphates and silicates)
+5. COASTAL SANDS:
+Salient features: Deep to very deep, Ground water at as depth of 2to 5 mts. Brackish
+ground water, Occasionally saline with neutral pH. Sandy texture with neglisible clay content,
+Single grain structure. Loose consistence, Light soils. Rapid permeability, excessively drained.
+Low WHC and NHC. Low OM, low fertility, low CEC and BS
+Land use: Owing to extreme sandy nature, these soils are able to withstand irrigation with
+high saline water – Doruvu technology can be followed
+ Requires frequent irrigation
+ Sprinkler and Drip irrigations are most suitable for this soils
+ Practicing of mulching to this soils, gives good results
+ Application of organic fertilizers
+ Suitable for the growth of Rice and tobacco seedlings and also useful for growing of
+Vegetables and flower gardens.
+ These soils are favourable for Cashewnut and Casurina orchards.
+Constraints: During cyclone periods – these soils are inundated due to tidal over – flow,
+Lecture 24. Essential Nutrients for plants- Criteria of
+essentiality of nutrients – Classification of
+essential nutrients- Forms of nutrients in soil
+Plant nutrition is defined as the supply and absorption of chemical compounds required for
+plant growth and metabolism. It is the process of absorption and utilization of essential
+elements for plant growth and reproduction.
+“Nutrients” may be defined as the chemical compounds required by an organism. The
+mechanisms by which nutrients are converted to cellular material or used for energetic
+purposes are known as ‘ Metabolic Processes’.
+The essential nutrient elements required by higher plants are exclusively of inorganic nature.
+For an element to be considered an essential plant nutrient, three criteria as proposed by
+Arnon and Stout (1939) must be satisfied. These are
+1. A deficiency of the element makes it impossible for the plant to complete its life cycle.
+2. The deficiency is specific for the element in question.
+3. The element is directly involved in the nutrition of the plant as for example as a constituent
+of an essential metabolite or required for the action of an enzyme system.
+Essential Elements in Plant Nutrition:
+Previously there were 16 essential elements for the plant nutrition, but recently the number of
+essential elements for plant nutrition has been increased to 20, although more than 90 elements
+can be absorbed by plants.
+Beneficial Elements:
+Beneficial nutrients: These are not included in essential nutrients, but their application
+increases the yield up to some extent. Ex: Sodium, Silicon, and Vanadium.
+Classification of Essential Nutrients
+There are different basis of classification of essential nutrients:
+1. Quantity of nutrient required
+2. Ionic nature of element
+3. Mobility of nutrient in soil
+4. Mobility of nutrient with in plant
+5. Functions in plant
+I. Classification of the essential elements based on the quantity
+required by plants
+Nutrients are chemical compounds needed for growth and metabolic activities of an
+organism. The essential plant nutrients may be divided into macronutrients (primary and
+secondary nutrients) and micronutrients depending upon the quantity of nutrient required by
+the plant.
+A. Macronutrients: Macronutrients or major nutrients are so called because they are
+required by plants in larger amounts. These are found and needed in plants in relatively higher
+amounts than micronutrients. They include C, H, O, N, P, K, Ca, Mg and S. C, H and O
+constitute 90 – 95 per cent of the plant drymatter weight and supplied through CO and water.
+2
+Remaining six macronutrients are further sub divided into primary and secondary nutrients.
+i) Primary nutrients: Nitrogen, phosphorus and potassium are termed as primary
+nutrients because of their larger requirement by the plants and the correction of their wide
+spread deficiencies are often necessary through the application of commercial fertilisers of
+which these are the major constituents.
+ii) Secondary nutrients: Calcium, magnesium and sulphur are termed as secondary
+nutrients because of their moderate requirement by plants, localised deficiencies and their
+inadvertent accretions through carriers of the primary nutrients. For example, the
+phosphatic fertiliser, single super phosphate (SSP) contains both Ca and S. Similarly,
+ammonium sulphate, a nitrogenous fertiliser also supplements S.
+B. Micronutrients: Micronutrient is an element that is required in relatively small
+quantities but is as essential as macronutrients. These elements have often been called
+trace elements. They are again classified into micronutrient cations and micronutrient
+anions depending upon the form in which they are available.
+Primary nutrients (N, P, K)
+Macronutrients
+Secondary nutrients (Ca, Mg, S)
+Plant nutrients
+Cationic micronutrients Eg: Fe, Mn, Cu, Zn
+Micronutrients
+Anionic micronutrients Eg: Mo, B, V, Cl, Co
+Forms of nutrient elements absorbed by plants
+i) Absorbed as single nutrient ion
+Nutrient element Forms absorbed by plants
+Potassium K+
+Calcium Ca2+
+Magnesium Mg2+
+Iron Fe2+
+Manganese Mn2+
+Copper Cu2+
+Zinc Zn2+
+Chlorine Cl-
+Silicon Si4+
+Cobalt Co2+
+Sodium Na+
+ii) Absorbed in a combined form
+Nutrient element Forms absorbed by plants
+Nitrogen Ammonium (NH +) and Nitrate (NO -)
+4 3
+Phosphorus H PO -, HPO =
+2 4 4
+Sulphur SO =
+4
+Boron H BO , H BO -, HBO 2-, BO 3-
+3 3 2 3 3 3
+Molybdenum MoO = (Molybdate)
+4
+Carbon CO
+2
+Hydrogen H O
+2
+II. Classification on the basis of ionic nature:
+1. Cations: K, Ca, Mg, Fe, Mn, Zn, Cu
+2. Anions: NO - , H PO -, SO -2
+3 2 4 4
+3. Metal elements: K, Ca, Mg, Fe, Mn, Zn, Cu
+4. Non Metal elements: N, P, S, B, Mo, Cl
+III. Classification on the basis of mobility of nutrient in the soil
+Mobile nutrients
+The nutrients are highly soluble and these are not adsorbed on clay complexes.
+Example: NO -, SO 2-, BO 2-, Cl- and Mn+2
+3 4 3
+Less mobile nutrients
+They are soluble, but they are adsorbed on clay complex, so their mobility is reduced.
+Example: NH +, K+, Ca+, Mg2+, Cu2+
+4
+Immobile nutrients
+Nutrient ions are highly reactive and get fixed in the soil.
+Example: H PO -,HPO 2-, Zn2+
+2 4 4
+IV. Classification on the basis of mobility with in plant
+Highly mobile : N, P and K.
+Moderately mobile : Zn
+Less mobile : S, Fe, Mn, Cl, Mo and Cu
+Immobile : Ca and B
+V. Classification on the basis of functions in the plant:
+1. Elements that provide basic structure to plant
+Ex: Carbon, Hydrogen and Oxygen
+2. Elements useful in energy storage, transfer and bonding: These are accessory structural
+elements which are more active and vital for living tissues.
+Ex: N, S and P.
+3. Elements necessary for charge balance.
+Ex: K, Ca and Mg.
+4. Elements involved in enzyme activation and electron transfer.
+Ex: Fe, Mn, Zn, Cu, B, Mo and Cl.
+Lecture.25 Functions/Importance, Deficiency
+Symptoms and Correction of deficiencies of N,
+P, K, Ca, Mg and S
+MACRO NUTRIENTS
+Functions of N in plants: Cell cytoplasm and organelles contain N in combination with
+C, H, O, P and S.
+1. It’s an essential component of amino acids, proteins, nucleic acids, porphyrins, flavins,
+purines and pyrimidine nucleotides, flavin nucleotides, enzymes, coenzymes and
+alkaloids.
+2. N containing chlorophyll fixes atmospheric CO2 through photosynthesis.
+3. Being a constituent of RNA and DNA, N is responsible for transfer of genetic code.
+4. Improves the quality of leafy vegetables and fodders.
+5. Improves the quality by increasing protein content.
+Deficiency symptoms of N in plants: Plants having less than 1 % nitrogen are
+usually regarded as deficient in N.
+1. Due to high mobility of N in plants, its deficiency symptoms first appear on the older
+leaves in the form of light green to pale yellow coloration due to proteolysis.
+2. Stunted growth is the manifestation.
+3. In grasses, the lower leaves usually fire or turn brown beginning at the leaf tip, and
+progressing along the midrib in the form of inverted ‘V’ shape.
+4. Reduction in flowering and crop yields and lower protein content are associated with N
+deficiency.
+Corrective measures: Nitrogen in the form of NO - is more prone for leaching
+3
+especially on light textured soils with more permeability. So, split application of nitrogen is
+recommended. Foliar application in the form of urea @ 2 percent concentration is advocated in
+dry land areas.
+N Source % N
+Ammonium sulfate 21.0
+Ammonium chloride 25 – 26.0
+Ammonium nitrate sulfate 30
+Diammonium phosphate (DAP) 18
+Urea 46
+Toxicity symptoms of N plants: Toxicity of nitrogen leads to
+Excess vegetative growth
+Succulence of the plant increases;
+Taller plants and heavier heads cause lodging.
+Delayed maturity.
+A nitrogen rich, luxuriant crop is more susceptible to insect pest and disease attacks.
+Functions of phosphorus in plants: Phosphorus is the second most abundant
+mineral in human body making up for more than 20 % of body minerals. It is largely absorbed
+by the plant roots as dihydrogen orthophosphate ion (H PO -).
+2 4
+The following are the functions of phosphorus in plant system
+1. Constituent of nucleoproteins, phytins and phospholipids.
+2. Essential constituent of number of enzymes -important in energy transfer.
+3. Essential for cell division and development.
+4. Stimulates root development and growth.
+5. Responsible for early establishment of seedlings.
+6. Strengthens the straw and decreases lodging.
+7. Brings about early maturity.
+8. Counteracts the effect of excessive nitrogen.
+9. Increases grain to straw ratio.
+10. Improves the quality of food grain.
+11. Increases rhizobial activity, increases the formation of root nodules thus helping in
+more N - fixation.
+Deficiency symptoms of phosphorus in plants: Because of its faster mobility in
+plants, P gets translocated from older tissues to the meristematic tissue. Therefore, deficiency
+symptoms of P first appear on the older leaves.
+P deficiency results in
+1. The production of dark green color leaves.
+2. Severe restriction of root growth.
+3. Thin, erect and spindly plants with sparse and restricted foliage.
+4. Suppressed lateral bud production.
+5. Bluish green foliage, and under continued deficiency the older leaves become bronzed or
+develop reddish purple tip or leaf margins.
+Toxicity symptoms of phosphorus in plants
+ Excess of P causes trace element deficiency particularly Fe and Zn.
+Correction of deficiency: Generally, P is applied as a basal application by band
+placement. The following are the phosphatic fertilizers.
+1. Single Super Phosphate (SSP) contains 16 to 22% P2O5
+2. Rock phosphate contains 30-38 % P2O5
+3. Triple Super Phosphate contains 46 % P2O5
+4. Diammonium phosphate contains 46 % P2O5
+5. Monoammonium phosphate contains 52 % P2O5
+6. Basic slag contains 10-20 % P2O5
+Functions of K in plants: K is absorbed by the plant as K+. Potassium is a unique
+element that plants can accumulate it in abundant amounts without exhibiting any toxicity
+symptoms. This behavior is referred to as luxury consumption. Potassium plays a regulatory
+role in plant metabolism. Potassium is not a component of any organic compound in plants.
+1. It regulates the opening and closing of stomata.
+2. Plays a major role in transport of water and nutrients throughout the plant in xylem.
+3. It improves drought tolerance.
+4. Enhances crop quality, shelf life of fruits and vegetables.
+5. Reduces lodging of crops, enhances winter hardiness.
+6. Imparts disease resistance.
+7. Neutralizes organic anions and other compounds and maintains the pH of cytoplasm in
+the range of 7-8.
+8. Activates > 60 enzymes, including starch synthetase, K is responsible for the activation
+of nitrate reductase enzyme.
+Deficiency symptoms of K in plants
+Potassium deficiency does not manifest immediately in the form of visible symptoms.
+First growth rate decreases and later deficiency symptoms appear. Deficiency symptoms first
+develop on the older leaves.
+1. Chlorosis along the margins followed by scorching and browning of tips of older leaves
+which gradually progresses inwards giving burning appearance. Slow and stunted
+growth of the plant and crop lodging.
+2. Shrivelled fruits and seeds.
+3. Reduced crop yields without the appearance of definite symptoms; the phenomenon is
+called hidden hunger.
+4. Decrease in resistance to certain plant diseases
+5. Decrease in the quality of fruits and vegetables.
+6. Potassium deficiency disturbs the overall physiological activity within the plant system
+by altering the activities of enzymes like invertase, catalase in crops like sugarcane.
+Correction measures
+ Potassium chloride or muriate of potash constitutes 99% of usage of K fertilizer and
+potassium sulphate accounts for 1%. Muriate of potash contains 60% K O or 50% K
+2
+and sulphate of potash contains 50 % K O or 41.5% K.
+2
+ Some crops are sensitive to high amounts of potassium chloride. These include tobacco,
+grapes, cotton, fruit trees, sugarcane, potatoes, tomatoes, straw berries, onion and
+cucumber. Oil palm and coconut on the contrary appear to be chloride loving crops.
+ Generally, potassic fertilizers are applied as basal dose, but for light textured soils, split
+application is advocated. In Andhra Pradesh split application of N and K are
+recommended for light soils.
+SECONDARY NUTRIENTS
+Functions of Ca in plants
+Calcium is absorbed by the plant as calcium ions (Ca2+).
+1. Essential for the formation of cell wall and calcium pectate in the middle lamella of the
+cell wall which regulates the entry of only those nutrients which are not toxic to plants.
+In seeds, calcium is present as calcium phytate.
+2. In root tip, calcium is very essential for the meristematic activity.
+3. Provides a base for neutralisation of organic acids and other toxins (like Al) produced in
+plants.
+4. It plays a role in mitosis (cell division) and helps to maintain the chromosome structure.
+5. Essential co-factor or an activator of a number of enzymes like hydrolases. It activates
+phospholipase, argnine kinase, amylase and Adenosine tri phosphatase (ATPase)
+enzymes.
+6. Favours the assimilation of nitrogen into organic constituents especially proteins.
+Deficiency symptoms of Ca in plants
+Though calcium is highly mobile in soil, in the plant system it is the immobile nutrient and
+hence the deficiency symptoms manifest at the growing tips of shoots and youngest
+leaves.
+Deficiency of calcium is characterized by a reduction in meristematic tissue.
+2. Failure or desiccation of terminal bud development.
+3. Chlorosis of young leaves followed by distortion of the growing points of the stem.
+4. Blossom end rot in tomato is due to Ca deficiency
+5. In fruit trees, the death of growing points followed by dies back.
+6. In apple, the discoloration of the fruit meat, the condition referred as “bitter pit”.
+7. In guava, the old leaves are chlorotic with red brown spots.
+8. In Brassica, severe loss of color in young leaves, terminal bud leaves are hooked, leaves
+become cup shaped. Old leaves collapse due to terminal bud disintegration.
+9. No unfolding of new leaves in corn, whose tips are colorless and are covered with sticky
+gelatinous material which makes them adhere to one another.
+Correction measures
+ The application of carbonate or sulphate salts of calcium @ 2 – 4 q ha-1 in furrows
+could increase the yield by 48 %.
+Functions of Mg in plants
+The usual concentration of Mg+2 in crops varies between 0.1 and 0.4 per cent. A large
+part of Mg is associated with organic anions like malate.
+1. Mg is the only mineral constituent of chlorophyll located at its centre.
+2. Chlorophyll formation usually accounts for about 15 to 20 % of total Mg content of
+plants as Mg - porphyrin.
+3. It promotes uptake and translocation of phosphorus and movement of sugars within the
+plants.
+4. Serves as a structural component of ribosomes. Mg activates the formation of
+polypeptide chains to form amino acids. About 70 % of Mg is associated with anions
+such as malate and citrate.
+5. Seeds contain Mg as salt of phytic acids. Mg is required for phosphate transfer from
+ATP (Phosphorylation) in carbohydrate metabolism.
+6. Several enzymes (eg : Ribulose carboxylose) require Mg+2 as Cofactor.
+Deficiency symptoms of Mg in plants: Mg+2 is a mobile element and is readily
+translocated from older to younger plant parts in the event of deficiency and hence deficiency
+symptoms are manifested in the older leaves. The magnesium deficient plants usually have less
+than 0.1% Mg. Magnesium deficiency is common in the plants grown on coarse textured acidic
+soils.
+1. As a consequence of Mg+2 deficiency, the proportion of protein nitrogen decreases and
+that of non protein nitrogen increases in plants.
+2. Shortage of Mg+2 results in an interveinal chlorosis of the leaf in which only the veins
+remain green and the interveinal areas turn yellow with streaky or patchy appearance.
+In more advanced stages the leaf tissue becomes uniformly pale yellow, then brown
+and necrotic.
+3. Affected leaves turn small in final stage and curve upwards at the margins.
+4. In some vegetables, interveinal chlorosis with tints of red, orange and purple colors is
+observed.
+5. Grass tetany: Cattle consuming forages with low Mg may suffer from
+“Hypomagnesemia” (low level of blood Mg) commonly known as Grass tetany. This
+happens due to high levels of NH4+ -N and K application.
+Correction measures:
+ Use of dolomitic lime stone Ca Mg (CO )
+3 2
+ Magnesia - Mgo -55 % (Mg)
+ Basic slag 3-4 % Mg
+At a dose of 30 - 50 kg ha-1
+Functions of sulphur in plants:
+1. It is required for the synthesis of the S containing amino acids cystein, cystine and
+methionine and for protein synthesis.
+2. It increases oil content of crops like flax, soybean, groundnut etc.
+3. It is required for N fixation in legumes and is a part of nitrogenase enzyme system.
+4. It is a constituent of certain vitamins viz., Thiamine and biotin, coenzymes and
+glutathione, Acetyl coenz A (precursor for fatty acid synthesis), ferredoxin.
+5. It is present in the crops like onion, mustard, cabbage and cauliflower as polysulfides.
+6. It activates certain proteolytic enzymes such as papainase and synthesis of papain.
+7. Disulfide linkages have been associated with the structure of proteins.
+8. Sulfhydryl (-SH) groups in plants are related to increased cold resistance.
+Deficiency symptoms of sulphur in plants:
+Sulphur content in plants ranges between 0.1 to 0.4 %. In view of the large field scale
+occurrences of sulphur deficiencies in India, it has been described as the fourth major nutrient
+after N, P and K. Plants suffering sulphur deficiency accumulate non protein nitrogen in the
+form of nitrate and amide. N:S ratio of plants is between 9 to 12 : 1. As sulphur is immobile in
+the plant, its deficiency is manifested on young leaves.
+1. The fading of normal green colour of the young meristem followed by chlorosis.
+2. Shoot growth is restricted.
+3. Reduced synthesis of proteins and oil.
+4. In Brassica, the lamina is restricted and the leaves show cupping owing to the curling of
+leaves.
+5. The older leaves become puckered inwardly with raised areas between veins.
+6. The older leaves may develop orange or reddish tints and may be shed prematurely.
+7. The stem and leaf petiole may become brittle and may collapse.
+Management of sulphur or correction measures for S deficiency:
+ Application of elemental sulphur or gypsum particularly on alkaline soils.
+ Application of sulphur containing fertilizers like single super phosphate (12-14% S),
+Magnesium sulphate (30 % S), Ammonium sulphate (24.2% S).
+ For correcting deficiencies of sulphur on the standing crop, foliar application of
+sulphate containing salts like Ferrous sulphate (32.8% S) and ferrous ammonium
+sulphate (16% S) etc.
+Lecture. 27 Functions, Deficiency Symptoms and
+Corrective Measures of Micronutrients
+Functions of Zinc
+1. Zinc influences the formation of some growth hormones in the plant.
+2. It is associated with water uptake and water relations in the plants.
+3. It governs the utilization of nitrogen phosphorous and other elements.
+4. It is involved in auxin metabolism like, tryptophan synthetase, tryptamine
+metabolism. Zinc also influences the activity of dehydrogenase enzymes e.g.
+pyridine nucleotide, glucose- 6 phosphate and triose phosphate etc.
+5. The other roles attributed to zinc includes phosphodiesterase, carbonic anhydrase ,
+synthesis of cytochrome C etc.
+6. Zinc also stabilizes ribosomal fractions.
+Zinc Deficiency symptoms:
+Zn deficiency symptoms show wide variation in different plant species. The common
+symptoms are chlorosis between the veins, reduction in the size of the young leaves, which are
+often clustered, bronzing, purple, violet, reddish brown or brown coloration of the foliage.
+1) Khaira disease of rice: The first symptom of zinc deficiency appear in 3 – 4 week
+old seedlings when the young leaves develop reddish brown pigmentation. The
+pigmentation appears first in the middle of the leaves, then intensifies and spreads over the
+entire lamina. The affected tissue becomes papery and necrotic and under conditions of
+severe deficiency, the entire mass of leaves collapses and further growth of the plant is
+arrested.
+2) White bud of maize : Soon after the emergence of seedlings, areas between the veins
+of old leaves become light yellow and develop white necrotic spots, which later develop
+dark brown necrotic areas that enlarge and coalesce, resulting in the necrosis (death of the
+entire leaf). Leaves that emerge and unroll subsequently appear yellow and white.
+3) Mottle leaf or Frenching of citrus
+4) Reduced leaf size and shortening of internodes in brinjal and mango called as
+little leaf.
+Correction measures:
+1. Soil application of zinc sulphate (21% Zn) @ 50 kg ha-1 once for three crops or
+years is effective and economic to overcome its deficiency. Zinc sulphate need to
+be applied on the surface and mixed in the soil through light harrowing.
+2. In case of rice, zinc sulphate can be broadcast after final puddling before
+transplanting.
+3.When deficiency appears on standing crop, spraying of 0.2 % ZnSO4 twice or
+thrice at weekly intervals or at 0.5 per cent concentration with lime.
+4. Zinc is also available as zinc chelate (mostly Zn - EDTA form). In case of highly
+alkaline soils (pH>8.0) zinc chelate is better source than zinc
+sulphate.
+5. In calcareous soils, Zn- HEDTA (Hydroxy Ethylene Diamine Tetra Acetic acid)
+form is efficient for soil application.
+Functions of Iron
+1. Iron helps in the formation of chlorophyll.
+2. Iron is a constituent of enzyme systems and so it helps for carrying out different
+enzymatic reactions in plants like, cytochrome oxidase, catalase, peroxidase ,
+acotinase, nitrogenase etc.
+3. Iron is a structural component of porphyrin molecules like cytochromes, hemes,
+hematin, ferrichrome and leghemoglobin. These substances are involved in
+oxidation reduction in respiration and photosynthesis.
+4. Iron helps in absorption of other nutrient elements.
+Iron Deficiency symptoms:
+1. The critical limit of iron in plant is 30 ppm, the sufficiency range being 50 and
+250 ppm.
+2. It has been established that Fe2+ content of the plant rather than total Fe content
+resolves Fe deficiency.
+3. Deficiency of Fe results in interveinal chlorosis appearing first on the younger
+leaves with leaf margins and veins remaining green. Plants having less than 50
+ppm of Fe are usually classified as iron deficient.
+4. In later stage burning of the chlorotic leaves start from the tips and margin, spread
+inwards.
+5. The chlorotic leaves may become white and the leaf tissues devoid of chlorophyll
+die.
+6. Leaves with large necrotic areas fall off and twigs defoliate.
+7. In mild cases, mottled pattern may be seen with primary and secondary veins
+retaining their green color.
+8. In graminaceous crops, chlorosis consists of alternate strips with green veins and
+yellow interveinal tissues.
+9. In case of barley, maize and jowar, leaves show reddish brown spots on leaves
+away from the base on margin.
+10. Under conditions of severe deficiency, growth cessation occurs with the whole
+plant turning necrotic.
+Correction measures: In general soil application of iron salts such as ferrous sulfate is
+not practiced because of their rapid oxidation to much less soluble ferric iron.
+Correction of Fe deficiency is generally done by foliar sprays.
+Fe deficiency is generally seen in paddy nursery, sugarcane, fruit trees in dry weather
+conditions.
+Sources
+1. FeSO .7 H O : 19 % Fe
+4 2
+2. Iron chelates NaFe EDTA : 5-14 % Fe
+3. Fe – EDDHA (Ethylene Diamine Dihydroxy acetic acid salt of Fe) for calcareous soils
+4. Fe DTPA (Diethylene Triamine Penta Acetate salt of Fe) for alkaline soils
+5. Fe HEDTA (Hydroxy Ethylene Diamine Tetra Acetate salt of Fe) for alkalisoils
+6. Fe EDTA (Ethylene Diamine Tetra Acetate salt of Fe) for acid soils
+Functions of Copper
+1. Copper has an unique involvement in enzyme systems of plants like, oxidase
+enzymes, terminal oxidation by cytochrome oxidase, photosynthetic electron
+transport mediated by plastocyanin etc.
+2. Copper forms various compounds with amino acids and proteins in the plant.
+3. Copper helps in the utilization of iron during chlorophyll synthesis. Lack of
+copper causes iron to accumulate in the nodes of plants.
+4. Copper has some indirect effects on nodule formation.
+5. It also acts as “electron carrier” in enzymes which bring about oxidation-
+reduction reactions in plants.
+Copper Deficiency symptoms
+1. Plants having a copper content of less than 5 ppm are regarded as Cudeficient.
+2. Male flowers’ sterility, delayed flowering and senescence are the most
+important effects of Cu deficiency.
+3. Chlorosis of the younger shoot tissue, white tips, reclamation disease, necrosis,
+leaf distortion and die back are characteristics of Cu deficiency. Necrosis of
+apical meristem results in elongation of shoot in cereals and auxiliary shoots in
+dicots.
+4. The shoot apex may cease to grow, resulting in the development of several
+auxiliary bunds.
+5. In cereals symptoms appear as bleaching and withering of young leaves.
+6. Exanthema and dieback in citrus which manifests as dark brown spots on the
+leaves, terminal twigs and fruits.
+6. Yellowish brown blotches on the leaf particularly in legumes.
+7. Tip drying and bluish green leaf tips are the symptoms in rice.
+8. Empty glumes in wheat
+9. Total amino nitrogen accumulates in plants
+Correction measures:
+ Soil and foliar application are both effective. Soil application @ 1.0 – 5 kg /ha
+of CuSO4. 5 H2O (24 % Cu).
+ Foliar application of CuSO4 @ 0.2 % concentration.
+ Cu-EDTA contains 9-13 % Cu.
+Functions of Manganese
+1. The role of manganese is regarded as being closely associated with that of iron.
+2. Manganese helps in Ascarbic acid formation.
+3. Manganese also takes part in oxidation- reduction processes and decarboxylation
+and hydrolysis reactions.
+4. Manganese is needed for maximal activity of many enzyme reactions in the citric
+acid cycle.
+5. Manganese influences auxin levels in plants and high concentrations of Mn favor
+the breakdown of Indole Acetic Acid (IAA).
+6. It takes part in electron transport in photosystem II.
+7. It also takes part in enzyme systems like, chromatin-bound RNA polymerase,
+synthesis of tRNA.
+Manganese Deficiency symptoms : Mn deficient plants contain less than 25 ppm
+Mn. Deficiency symptoms of Mn are more severe on middle leaves than on the younger ones
+because Mn is preferentially translocated to the younger tissues. Interveinal chlorosis in
+dicotyledons is characterized by the appearance of chlorotic and necrotic spots in the
+interveinal areas. In monocotyledonous plants like cereals, Mn deficiency symptoms appear as
+greenish grey spots, fleeks and stripes more on the basal leaves (Grey speck). Chlorotic leaf
+areas soon become necrotic and turn red, reddish brown or brown. Symptoms of Mn deficiency
+are popularly known as Grey speck of Oats
+ Speckled yellow of sugar beet
+ Marsh spot of peas
+ Pahala blight of sugar cane
+ Frenching of tung grass
+Correction Measures:
+Application of 20-40 kg Manganese Sulphate to soil , Foliar application of
+Manganese Sulphate @ 2 percent concentration is recommended.
+Functions of Boron
+1. The primary role of boron is associated with the calcium metabolism.
+2. Boron increases the solubility of calcium as well as mobility of calcium in the
+plant.
+3. It acts as a regulator of K/Ca ratio in the plant.
+4. It helps in the absorption of nitrogen.
+5. It is necessary for the translocation of sugars, starches, phosphorus etc.
+6. Boron is required for the development of new cells in meristematic tissue.
+7. Boron is necessary for proper pollination and fruit or seed setting.
+8. It helps for the formation of nodules in leguminous plants.
+9. Boron regulates carbohydrate metabolism.
+Boron Deficiency symptoms
+Plants having B concentration in the order of 5 to 30 ppm are suspected to be boron deficient.
+Critical deficiency range of B varies from 5 to 10 ppm in graminae plants and 20 to 70 ppm in
+dicotyledons.
+1. Boron deficiency symptoms are conspicuous on the terminal buds or the youngest
+leaves; which become discolored and may die under acute deficiency.
+2. Internodes become shorter and give appearance of a bush or rosette.
+3. Increased diameter of stem and petiole gives rise to the typical cracked stem of
+celery.
+4.Specific names given to B deficiency in different crops are
+Heart rot of sugar beet.
+Browning or hollow stem of cauliflower.
+Top sickness of tobacco
+Internal cork of apple.
+Boron fertilizers : Generally crops like alfalfa and other legumes, cruciferous plants such
+as cabbage, cauliflower and turnip and fruit trees such as apple, need boron fertilization.
+i) Foliar aplication of Borax (Na2B4 O7 10 H2O which contains 10.6 % B) at 0.1
+% concentration.
+ii) Calmonite Ca2B4O7 5 H2O is suitable for sandy soils due to slow solubility.
+iii) Boric acid H3BO3 contains 17 % B
+iv) Solubor : Na B 07. 5 H O + Na B1006 10 H O contains 20-21 %
+2 4 2 2 2
+Functions of Molybdenum
+1. Molybdenum is an essential component of the major enzyme nitrate reductase
+in plants.
+2. The molybdenum requirement of plants is influenced by the form of inorganic
+nitrogen supplied to plants, with either nitrate (NO3-) OR ammonium (NH4+)
+effectively lowering its need.
+3. Molybdenum is also a structural component of nitrogenase, the enzyme actively
+involved in nitrogen fixation by root-nodule bacteria of leguminous crops, by
+some algae and actinomycetes, and by free-living-nitrogen fixing organisms
+such as Azotobacter.
+4. Molybdenum is also reported to have an essential role in iron absorption and
+translocation in plants.
+Molybdenum Deficiency Symptoms:
+1. In most plants with reticulate venation, the first effect of Mo deficiency appears
+as chlorotic mottling between the veins.
+2. Brassica crops are very susceptible to Mo deficiency, the symptoms developing
+in 3-4 week old plants.
+3.Tomato, lettuce, spinach, beet root and Brassica speces especially cauliflower,
+broccoli and rape seed are very sensitive to restricted Mo supply.
+4. Legumes develop symptoms which resemble N deficiency.
+5. Grasses seem to have low Mo requirement.
+6. Citrus plants develop ‘yellow spot’.
+7. Cauliflower exhibits whiptail (leaves get twisted elongated)
+8. Cabbage shows cupping, veins become purple, leaves become necrotic
+and malformed along the margins.
+9. Tomato – chlorotic mottling – old leaves roll inwards along leafmargin.
+10.In rice, slight chlorosis between the vein in the middle of the upper and middle
+leaves and extending across the width.
+Correction measures
+1. Application of 400 -500 gm of sodium molybdate (Na2MoO4) along with super
+phosphate to the soil.
+2. Mo deficiency can be corrected by spraying 0.1 % sodium molybdate.
+3. Liming of acid soils helps in correcting Mo deficiency.
+4.Seed treatment with Mo as sodium molybdate is very effective method of
+correcting the deficiency.
+Functions of Chlorine
+1. Chlorine has been shown to be involved in the oxygen evolution in photosynthetic
+reactions.
+2. Claimed to be involved in photophosphorylation.
+3. In microorganisms, chlorine containing metabolically active compounds like
+chlorometabolites were found.
+4. In higher plants, chlorides largely accumulate in free ionic form in cell vacuoles.
+Chlorine Deficiency symptoms:
+1. Common symptoms are wilted appearance of the foliage and stuffy roots with
+laterals showing branching.
+2. Tomato leaves show chlorotic mottling, bronzing and tissue necrosis.
+Chloride is beneficial for some salt loving plants like beetroot, spinach,
+cabbage etc. There is a negative interaction between chloride and nitrate (NO -
+3
+) ions in plants
+Lecture.28. Soil fertility - reasons for soil fertility
+reduction- Management practices to improve
+soil fertility
+SOIL FERTILITY
+Literally the word fertile means ‘bearing abundantly’ and a fertile soil is considered to be one
+that produces abundant crops under suitable environmental conditions.
+Soil fertility is concerned with the inherent capacity of soil to provide nutrients in adequate
+amounts and in proper balance for the growth of specified plants when other factors such as
+light, moisture, temperature and the physical condition of the soil are favourable.
+Reasons for soil fertility Reduction
+The fertility of soil is declining due to various reasons like
+1. Crop removal
+Different crops remove nutrients in different proportions, for example rice crop removes 85-
+15-90 kg nitrogen, phosphorus and potassium to produce 3 tonnes of yield while maize
+requires 175-35-175 kg nitrogen, phosphorus and potassium to give 5 tonnes of yield.
+2. Removal by weeds
+Weeds remove more quantities of nutrients than crop plants
+3. Soil erosion
+Due to wind, water and air erosion, the upper fertile surface soil will eroded leading to decline
+in soil fertility.
+4. Leaching
+Soluble nutrients like nitrogen on conversion in to nitrate form are lost due to leaching into
+lower subsurface layers.
+5. Volatilization
+On application of nitrogenous fertilizers, they are partly lost as NH (gaseous form) due to
+3
+volatilization.
+6. Improper method of application of fertilizers
+Loss of nutrients can be reduced by adopting appropriate methods of fertilizer application like
+band placement or pocketing at the base of the plants.
+7. Use of Complex fertilizers
+Indiscriminate use of complex fertilizers (Ex: 28-28-0, 17-17-17 etc.,) leads to micro and
+secondary nutrient deficiencies.
+8. Non-application of micronutrients
+Farmers are excessively applying N, P and K 5 fertilizers, ignoring the requirement of micro
+and secondary nutrients.
+9. Crop rotation
+Monocropping of same crop without adopting crop rotation mines the nutrients from the same
+depth in the soil leading to nutrient depletion. Deep rooted crops like redgram, cotton,
+sunflower etc., should rotated with crops like rice, maize and jowar whose root system will be
+in the surface layers.
+Management practices to improve soil fertility
+Efficient nutrient management is the prime concern in the management of optimum soil
+fertility. It has received maximum attention during the past four decades, as is evidence from
+the fertilizer consumption pattern and its contribution to increasing crop production. In a
+successful management of soil fertility, following aspects need consideration.
+ Optimum fertilizer rates
+ Balanced use of fertilizer nutrients
+ Efficient use of fertilizers
+ Nutrient needs of cropping system, and
+a. Optimum fertilizer rates:
+The amount fertilizer needed by a soil depends upon its nutrient supplying capacity to crop and
+the requirement of crop per se. It is also influenced by soil and climatic conditions and
+management practices.
+b. Balanced use of fertilizer nutrients
+Crops remove nutrients continuously from the soils and therefore, their replenishment through
+fertilizers and manures is essential. The ideal ratio of nutrients for optimal growth varies with
+soil type, available nutrient status, crops and cropping systems, weather, amounts and kinds of
+fertilizers applied and their time of application, and use of soil amendments.
+c. Efficient use of fertilizer
+Increasing nutrient efficiency is the key to the management of soil fertility. The proportion of
+the added fertilizer actually used by plants is a measure of the fertilizer efficiency. Soil
+characteristics, crop characteristics and fertilizer management characteristics are the major
+factors that determine fertilizer efficiency.
+i. Soil characteristics: Soil characteristics like nutrient status of soil, forms of
+nutrients, nutrient losses and transformations, soil organic matter, soil moisture and
+physical condition of soil affect the efficiency of fertilizer
+ii. Crop characteristics: Nutrient uptake, root characteristics, crop rotation affects
+fertilizer use efficiency
+iii. Fertilizer characteristics and management techniques: The efficiency of a fertilizer
+varies to a large extent on the type of fertilizer, time of application and method of
+application.
+d. Nutrient needs of cropping system:
+The needs of a cropping system should be taken into account in view of the long-term
+implications of nutrient management where direct, residual, and cumulative effects of applied
+fertilizers are taken into consideration.
+e. Integrated Nutrient Management:
+Integrated nutrient management (INM) envisages the use of chemical fertilizers in conjuction
+with organic manures, legumes in cropping systems, biofertilizers, crop residues and other
+locally available nutrient sources for sustaining soil health and productivity.
+Lecture 29. Soil testing objectives- Importance
+SOIL TESTING
+Soil testing is useful tool for making recommendations for the application of fertilizers to
+crops. It gives a measure of the availability of nutrients to crops.
+Soil testing Objectives
+1. Grouping soils into classes relative to the levels of nutrients for suggesting fertilizer
+practices.
+2. Predicting the probability of getting profitable responses.
+3. Helping to evaluate soil productivity.
+4. Determining specific soil conditions like alkali, salinity and acidity which limits crop yields.
+Definition
+A rapid chemical analysis to assess the available nutrient status and reaction of a soil.
+(or)
+Inclusions of interpretations and evaluations of the soil test values and fertilizer
+recommendations based on the results of the chemical analysis and on other considerations.
+There are 20 elements known to be essential for crop growth. Three of these elements N,P and
+K are widely deficient in the soil. Soil pH also is a common limitations to plant growth. Soil
+testing, therefore, chiefly involves N,P,K and pH. Secondary and micro-nutrient analysis may
+be done on a regional basis.
+Soil testing is a programme that may be divided into four phases:
+(i) Collecting the soil samples,
+(ii) Extraction and determining the available nutrients,
+(iii) Calibrating and interpreting the analytical results, and
+(iv) Making the fertilizer recommendations.
+Lecture No. 30 Site Specific Nutrient Management
+Fertilizer application recommendations are often based on crop response data averaged over
+large areas, though farmers’ fields show large variability in terms of nutrient-supplying
+capacity and crop response to nutrients. Thus, blanket fertilizer application recommendations
+may lead farmers to over-fertilize in some areas and under-fertilize in others, or apply an
+improper balance of nutrients for their soil or crop. An alternative to blanket guidance,
+SiteSpecific Nutrient Management (SSNM) aims to optimize the supply of soil nutrients over
+time and space to match the requirements of crops through four key principles. The principles,
+called as the “4 Rs”. They are:
+Right product: Match the fertilizer product or nutrient source to crop needs and soil type
+to ensure balanced supply of nutrients.
+Right rate: Match the quantity of fertilizer applied to crop needs, taking into account the
+current supply of nutrients in the soil. Too much fertilizer leads to environmental losses,
+including runoff, leaching and gaseous emissions, as well as wasting money. Too little
+fertilizer exhausts soils, leading to soil degradation.
+Right time: Ensure nutrients are available when crops need them by assessing crop nutrient
+dynamics. This may mean using split applications of mineral fertilizers or combining organic
+and mineral nutrient sources to provide slow-releasing sources of nutrients.
+Right place: Placing and keeping nutrients at the optimal distance from the crop and soil
+depth so that crops can use them is key to minimizing nutrient losses. Generally, incorporating
+nutrients into the soil is recommended over applying them to the surface. The ideal method
+depends on characteristics of the soil, crop, tillage regime and type of fertilizer.
+Advantages of SSNM:
+Higher profits: SSNM can increase and maintain yields by optimizing the balance
+between supply and demand of nutrients and providing more balanced plant nutrition. In
+general, it improves nutrient use efficiency and provides greater returns on investments in
+fertilizer.
+Reduced nitrous oxide emissions: Agriculture contributes 70-90% of nitrous oxide
+(N O) emissions, mostly from N fertilizer. SSNM reduces N O emissions by reducing total N
+2 2
+application and/or timing applications to crop needs, thus avoiding N losses to volatilization,
+leaching and runoff.
+Improved disease resistance: The more balanced NPK nutrition that comes with
+SSNM may lead to improved resistance to plant diseases.
+Challenges to adoption of SSNM:
+Technology and knowledge requirements: SSNM requires knowledge of underlying soil
+properties and the ability to monitor crops’ nutrient status and adjust fertilizer inputs
+accordingly. While the need to conduct on-farm nutrient trials and soil tests has historically
+been a barrier to implementation of SSNM, the development of decision support systems and
+farmer-friendly tools and techniques that use proxy information to calculate nutrient
+requirements make SSNM more accessible to farmers and farm advisors (see “Tools for
+implementing SSNM”, below). Availability of fertilizers. Cost and access to fertilizers—
+whether synthetic or organic—is not universal. Development of input markets or identification
+of on-farm nutrient sources may be a necessary precursor to adoption of SSNM, though SSNM
+can help farmers make best use of limited nutrient resources.
+Variable economic benefit: For SSNM to increase farmers’ profits, SSNM must
+deliver either a) savings from reduced fertilizer use without a reduction in yields, or b) yield
+increases that are valued higher than the costs of acquiring and using SSNM technology.
+Farmers are more likely to see positive net returns with high-value crops, where yield increases
+can substantially increase profits, or when fertilizer prices are high.
+Lecture.31 Environmental Pollution
+Environmental pollution is defined as “the contamination of the physical and biological
+components of the earth/atmosphere system to such an extent that normal environmental
+processes are adversely affected.
+ Sewage and industrial effluents which pollute the soil ultimately affect human health.
+ Various types of chemicals like acids, alkalis, pesticides, insecticides, weedicides,
+fungicides, heavy metals etc. in the industrial discharges affect soil fcertility by causing
+changes in physical, chemical and biological properties.
+ Some of the persistent toxic chemicals inhibit the non-target organisms, soil flora and
+fauna and reduce soil productivity
+ These chemicals accumulate in food chain and ultimately affect human health
+ Indiscriminate use of pesticides causes pollution
+ Sewage sludge has many types of pathogenic bacteria , viruses and intenstinal worms
+which may cause various types of diseases
+ Decomposing organic matter in soil also produces toxic vapours
+ Radioactive fallout on vegetation is the source of radio- isotopes which enter the food
+chain in the grazing animals
+ Man made sources include thermal power plants, industrial units, plastics, vehicular
+emissions, fossil fuel burning, agricultural activities etc. causes environmental
+pollution
+ Causes depletion of ozone layer. The ozone layer absorbs infrared radiation emitted by
+the Earth’s surface, effectively trapping heat in the atmosphere.
+Soil Pollution
+There are generally six different kinds of pollution
+1. Pesticides Pesticides include insecticides, fungicides, herbicides, rodenticides and
+nematicides and many other chemicals like disinfectants, antibiotics, defoliants,
+chemosterilants and juvenile harmones.
+Ex: DDT, BHC, 2,4,5,-T, Chemical granules - Thimet, Carbofuran, mercury related fungicides
+bio degradation is most important by which removed from soils.
+2. Heavy metal Pollution: The application of potentially toxic elements (Cadmium,
+Arsenic, Chromium, Mercury, Lead, Nickel, Molybdenum, Florine, Boran, Copper,
+Manganese, Zinc) to the soil through compost, sewage – sludge and other waste materials may
+increase heavy metal concentration in crops. By consumption of these heavy metal containing
+food causes health disorders to human.
+3. Organic Wastes: Different organic waste materials are rich source for building up soil
+fertility but these soils are contaminated with plastic wastages. Organic wastes contain
+detergents, water softners, borates, phosphates cause a serious soil pollution. Soil erosion is
+also a major problem.
+4. Effect of Salts: Salts accumulated in coastal regions causes effect on crop growth.
+Accumulation of salts in the plant root zone may be a serious problem due to application of
+salt-laden irrigation water in soil. High concentration salts are unwanted because they reduce
+or inhibit plant growth.
+5. Acid Rains: Acid rain, also called acid precipitation or acid deposition, primarily
+produced from the emission of sulfur dioxide (SO ) and nitrogen oxides ( the combination of
+2
+NO and NO ) from human activities, Industries, mostly the combustion of fossil fuels.
+2
+6. Radio Nuclides: The main concern with the radio activity is the fall out of radioactive
+materials produced from explosions and hazards associated with it the other source of pollution
+is through the dumping of the waste materials from the nuclear power plants, nuclear reactors,
+and wastes from the medical and other research laboratories. The radioactive materials are
+Strontium – 90, Secium-137 causes pollution.
+The Natural radioactive materials are Potassium-40, Rubidium-87, Carbon-14 causes
+pollution.
+Effect of Fertilizers
+Nitrate pollution of ground water
+High soil nitrate level and sufficient downward movement of water to move nitrate below the
+rooting depth are often encountered. The consumption of water containing high levels of
+nitrate -N leads to ‘methaemoglobinemia’ called as ‘blue baby syndrome’ in infants in the age
+of < 6 months.
+The World Health Organisation standard for drinking water is 10 mg NO3 --N/L. An excessive
+ingestion of nitrates may also increase the risk of cancer in humans due to the formation of
+nitrosamines.
+Eutrophication
+It refers to the process of enrichment of surface water bodies with nutrients. The nutrient
+enrichment of water bodies results in intense proliferation and accumulation of algae and
+higher aquatic plants in excessive quantities that can result in detrimental changes in the water
+quality. Estimates indicated that more than 80% of N entering the surface waters originates
+from agricultural activities. Both N and P are important in stimulating eutrophication.
+Pollution controlling Measures
+ Effluents should be properly treated before discharging them on the soil
+ Adopting IPM and INM practices to reduce reliance on pesticides
+ Siting of industries after proper environmental impact assessment studies
+ Solid Wastes should be properly collected and disposed off by appropriate method
+ Biodegradable organic waste should be used for generation of biogas
+ Using low sulphur coal in industries
+ Use of nitrogen fixing plants to supplement the use of fertilizers
+ Planting trees would reduce pollution by sediments and also prevent soil erosion.
+ Separate drainage of sewage and rain water should be provided to prevent over flow of
+sewage with rain water
+ Precautions should be followed to prevent radioactive contamination
+Lecture. 32 Green House Effect
+The greenhouse effect is the process by which radiation from a planet's atmosphere warms the
+planet's surface to a temperature above what it would be without this atmosphere.
+Green House Effect
+When sunlight reaches Earth's surface some is absorbed and warms the earth and most
+of the rest is radiated back to the atmosphere at a longer wavelength than the sun light. Some of
+these longer wavelengths are absorbed by greenhouse gases in the atmosphere before they are
+lost to space. The absorption of this long wave radiant energy warms the atmosphere. These
+greenhouse gases act like a mirror and reflect back to the Earth some of the heat energy which
+would otherwise be lost to space. The reflecting back of heat energy by the atmosphere is
+called the "greenhouse effect".
+Greenhouse gases are those gases that contribute to the greenhouse effect. The major
+natural greenhouse gases are water vapor, which causes about 36-70% of the greenhouse effect
+on earth (not including clouds); carbon dioxide (CO ), which causes 50%; carbon monoxide
+2
+(CO), which causes 20%, methane, Methanol, Chloro floro Carbons and Hydro floro carbons,
+which causes 12%, Nitrogen Oxides, which causes 7%, other gases, which causes 11% and
+ozone, which causes 3-7%. Almost 100% of the observed temperature increase over the last 50
+years has been due to the increase in the atmosphere of greenhouse gas concentrations like
+water vapour, carbon dioxide (CO ), methane and ozone. The largest contributing source of
+2
+greenhouse gas is the burning of fossil fuels leading to the emission of carbon dioxide.
+Effects of Green House effect
+1. The rise in temperature empowers the greenhouse effect and the thawing of the ice mass
+causing rise in sea level.
+2. Flooding in coastal areas
+3. Changes occur in weather conditions
+4. Disruption of the water cycle
+5. Effect on the ozone layer
+6. Effect on the oceanic climate
+Control Measures of Global Warming
+1. Forest protection /Reforestation reduces greenhouse gases
+2. Composting and recycling of agricultural waste materials
+3. Use alternative sources of energy, instead of using coolers, fridges and air conditioners
+which releases greenhouse gases like CFC, HFC
+4. Recovery of Methane from garbage
+5. Following of Anti-pollution measures controls global warming

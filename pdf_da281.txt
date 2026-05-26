@@ -1,0 +1,2245 @@
+PROFESSOR JAYASHANKAR TELANGANA STATE
+AGRICULTURAL UNIVERSITY
+AGRICULTURAL POLYTECHNIC
+DETAILED LECTURE NOTES ON
+FORESTRY, MEDICINAL AND AROMATIC PLANTS
+Course No. DA-281 3 (2+1)
+Dr. K. SWATHI
+Asst. Professor (Horti.),
+Agricultural Polytechnic, Jagtial
+&
+Dr. K. SUKUMAR
+Vice-Principal,
+Agricultural Polytechnic, Jagtial
+C. No. DA 281 3 (2+1)
+FORESTRY, MEDICINAL AND AROMATIC PLANTS
+Lecture Outlines
+S.No. Topic Page No.
+1 Introduction to Forestry- Forests, Climate, Soils, Floods
+2 Introduction to Forestry- Forests, Climate, Soils, Floods
+3 National Forest Policies- Indian Forest Act
+4 Trees- Growth Stages- Principles of Silviculture and Afforestation
+on Different Sites
+5 Principles of Nursery Raising – Types of Forest Nurseries-
+Selection of Site or Nursery- Management
+6 Planting- Digging of Pits Based on Soils- Planting Types
+7 Tending Operations
+8 Cultivation, Climate, Soils, Morphological Characteristics of
+Trees- Nursery Management – Inter Cultivation- Yield In Teak
+9 Neem, Bamboo
+10 Subabul, Eucalyptus
+11 Tamarind
+12
+Karakkaya
+13 Jatropha- Management
+14 Pongamia (Pungam)
+15 Social Farm Forestry
+16 Vanamahosthavam
+17 Energy Plantations
+18 Farm Forestry- Definition, Scope- Commercial And Non
+Commercial Farm Forestry
+19 Wind Breaks And Shelter Belts- Important Points- Type of
+Planting- Advantages
+20 Agroforestry- Definition- Types- Advantages
+21 Timber Based Forest Products- Good Quality Timber
+22 Minor Forest Products- Tendu Leaves, Lac, Natural Colours,
+Oils, Katha And Cutch- Tannins- Incense Products
+23 Importance of Medicinal And Aromatic Plants
+24 Ashwagandha
+25 Aloe Vera
+26 Sacred Basil
+27 Senna, Coleus
+28 Kalmegh
+29 Lemon Grass
+30 Citronella
+31 Palmarosa, Geranium
+32 Davana
+LECTURE 1 & 2
+INTRODUCTION TO FORESTRY- FORESTS, CLIMATE, SOILS, FLOODS,
+IMPACT ON HUMAN
+Forests have been occupied on the earth surface from immortal time and provide habitat
+for the wildlife. At the dawn of civilization, when man first took to settled cultivation, trees were
+cleared to pave the way for agriculture. In fact, patches of cultivated land were surrounded by
+dense forests. Gradually as the population of human beings grew, more and more forests were
+cleared. Many centuries later, vast patches of forest land had been cleared and were being used to
+grow food. With the depletion and degradation of natural resources by overuse we are still
+lagging far behind in the process of development through modernization.
+Forest:
+The word ‘Forest’ is derived from Latin word ‘Foris’ which means “outside”. Forest has
+been defined as an area which is set aside for the production of timber and other forest produce
+(or) maintained under woody vegetation for certain indirect benefits which it provides example
+climatic or protective.
+(or)
+Forest is an area of land where it occupied by tall and dense trees in an uncultivable land.
+Forestry:
+Forestry has been defined as the theory and practice of all that constitutes the creation,
+conservation and scientific management of forests and perfect utilization of their resources.
+It is an applied science which is concerned not only with the raising or cultivation of
+forest crops but their protection, perpetuation, mensuration, management, valuation and finance
+as well as utilization of the forest products for the service of the nation.
+It may be intensive offering the practices for obtaining maximum in volume and quality
+of products per unit area within a specified period of time.
+History of Indian Forestry:
+In India, the area under forest cover and the forest products are very meager. Forests in
+India cover about 23.8%. Estimates of the area currently classified as forest land in India is
+around 75 million hectares. This represents 23 % of total land area of the country (327.7 million
+hectares) as against 331/3% enunciated in the National forest policy, 1988.
+Telangana state has a geographical area of 112077 sq. km. Forest area in the state is
+28,854 sq. km, covering 25.11 % of the total geographical area of the state. Khammam district
+occupies first position in forest area (7945 sq. km), followed by Adilabad district (7101 sq. km)
+and Nalgonda district is in the last position (896 sq. km).
+As compared to the world average of 1.6 hectares per capita forest area, India has only
+0.11 ha per capita forest area. The country has lost about 43.4 m ha of forest area during 1951-52
+to 1982-83 at an average of 1.5 m ha per annum. The main reasons for lost of forest area are
+undue biotic interference, excessive cutting of trees and diversion of area for agriculture for river
+valley projects and industries, etc.
+Measures have been taken during the five year plans for large scale development and
+rehabilitation works were launched in the forestry.
+Branches of forestry:
+1. Silviculture: Silviculture is the branch of forestry which deals with the establishment,
+development, care and reproduction of stands of timber.
+2. Forestry soils: The branch of forestry deals with the composition, physical and chemical characters of
+soil where the forest is to be established.
+3. Dendrology: Study of description, classification and identification of various tree species.
+4. Forest mensuration: Deals with the measurement of forest produce.
+5. Forest management: Forest management is defined as the practical application of the scientific,
+technical and economic principles to a forest estate for the production of certain desired results.
+6. Forest utilization: The branch of forestry concerned with the harvesting, conversion of the forest
+produce for a variety of uses like timber, fuel, pulp, wood, etc.
+7. Wood Technology: Deals with the structural, physical and mechanical properties and behaviour of
+wood under varying conditions.
+8. Forest Policy & Administration: A set of rules, regulations, laws and procedures adopted by a
+Government to attain fixed objectives in forestry for the welfare of the nation.
+9. Forest Protection: Concerned with the activities directed towards the prevention and control
+of damage to forests by man, animals, fire, insects, disease or other injurious and destructive
+agencies.
+10. Agroforestry: Cultivation of crops and forest plants either sequentially or simultaneously on
+the same piece of land for sustainable land management.
+Forest environment:
+Globally, 1/4 th of the land area is occupied by forests whereas in India, it covers 1/5th of the total
+land area. Forests greatly affect the climate, wind velocity and soil erosion.
+1) Forests – climate: Microclimate of a place mainly depends on the latitude and altitude of that
+place. In the similar manner, microclimate also depends on the topography and trees present in
+that area.
+2) Temperature: Trees with thick foliage of dense forests greatly influence the air temperature
+where it reduces the maximum temperature and rises the minimum temperature. Temperature
+effect is more in evergreen forests than deciduous forests.
+3) Wind movement: Forests act as mechanical barriers for wind and control the high wind
+velocity. The studies on wind velocity in different heights of a tree as follows below:
+a) Foliage at crown – 43% (outer side)
+b) Middle of the foliage - 14%
+c) Below the foliage – 20%
+4) Humidity: Humidity will be more inside the forest which ranges from 5-10% compared to
+outside area. This is due to the transpiration from stomata of plants trees.
+Soil characters (Physical and chemical):
+1) Soil texture and soil structure: Forest soils are more friable and crumby in nature. Forests
+alter the sandy soils to clay and vice verse. Roots of the trees loosen the soil and the dead plants
+supplies organic matter to the forest soil.
+2) Soil temperature: Foliage, humus, leaf litter (acts as insulators) influences the soil
+temperature.
+3) Soil moisture: As water deposits on the leaf litter and transpiration from leaves gradually
+reduces the soil moisture but increases the soil water. Forests help in reduction of surface run off,
+evaporation losses though permeability and water holding capacity are increases which
+ultimately increases the water level of the soil.
+4) Water table: Forests reduce the water table of soils irrespective its type. This is mainly due to
+presence of various species like Sal, Teak and Oak in which roots distribute to 100 m2 area and
+penetrates up to 8 m. depth.
+Chemical properties of soil
+Forests improve the chemical properties of soils which consist of N, Ca, P, K, Mg and
+other elements. Forest soils are acidic in nature (acidic PH).
+Forests and Floods:
+Forest plays important role in reduction of floods in the below mentioned ways
+1. Utilizes most of the moisture for the process of evapotranspiration.
+2. Leaf litter restricts the water to enter into the soil.
+3. Increases the infiltration capacity of soil.
+4. Reduces silting in coastal places by control of soil erosion.
+Role of forest on human health
+• Noise and air pollution are the major causes for main diseases. Generally forests filter
+the air. Air with dust particles enters into forests and deposits these particles at stem,
+branches, and leaves. According to a scientist, the dust filtering capacity of forests is
+incredible. For example one hectare area of pine trees filters 32 ton of dust.
+• Forests directly protects from harmful gases which inhales the Co and releases O , even
+2 2
+forests filter the hazardous gases like SO .
+2
+• Noise released from machines, industries and vehicles affects the blood pressure of
+human beings. Forests can absorb the sound to some extent.
+Based on a study, a park with 50 m wide reduces the traffic sound to 20-30 decibels where
+as some people believe that coniferous forests decreases the Bronchitis diseases due to release
+of ethereal oil.
+LECTURE -3
+NATIONAL FOREST POLICIES- INDIAN FOREST ACT
+Although the forest management in India has been on a sound footing since 1864, the
+condition of the forests continued to deteriorate through over exploitation. Efforts were made to
+conserve the forest resources when the policies were formulated. Forest policy promotes actions
+of a Government for the preservation, maintenance, enhancement of forests and the optimum
+utilization of forest resources to attain national welfare. The first effort in this direction was
+made by enunciating the first forest policy of India in India on 19th, October, 1894.
+The important features of this policy:
+1. The state forests are to be administered for the benefit of the public.
+2. Forests on hill slopes may be protected.
+3. Whenever an effective demand for cultivable land exists, the needed land can only be supplied
+from the forest area without habitation.
+4. Royalty for the government must be collected for various facilities enjoyed by people.
+The main aim of the first forest policy was to collect revenue from the forests and please
+the local population by granting rights and concessions. There was no intention to improve the
+forestry management in general. After independence the Government of India, ministry of
+Agriculture enunciated the second National Forest Policy on 12th May, 1952 on the basis of six
+dominant needs of the country,
+1. The need for evolving a balanced and complementary land use, so that each land allotted
+should produce most and deteriorate least.
+a) The need for checking erosion, progressing place along the treeless bank areas of rivers and
+on vast stretches of undulating waste lands leading to ravine formation.
+b) Denudation in mountain regions on which depends the perennial water supply of the river
+system.
+c) Invasions of seas and on coastal tracts and shifting sand dunes.
+2. The need for establishing tree lands wherever possible for public use ensuring increasing
+supplies of grazing, small wood for agricultural implements and in particular of fire wood to
+release the cow dung as a manure.
+3. The need for sustained supply of timber and other forest produce required for defense,
+industry etc.
+4. The need for the realization of the maximum annual revenue.
+The policy recommends that India should aim at maintaining one third (1/3rd) of its land
+area under forest. But this policy mainly aims at conservation forestry and there is no emphasis
+on production forestry. Therefore to make the existing forest with their low productivity should
+be converted into plantation forestry of high productivity which is possible only through
+enunciation of new forest policy of 1988, which has been announced in the parliament by the
+Minister of Environment, Government of India, on 7th December, 1988.
+The main objectives of this policy are:
+1. The national goal should be to have 1/3rd of the total land area of the country under forest to
+save fragile ecosystems.
+2. Forests that clothe steep slopes, catchments of rivers, lakes, and reservoirs should be protected
+and checking extension of sand dunes.
+3. Raising of plants on waste lands for fire wood and fuel wood purpose.
+4. Construction of dams, reservoirs, mining and expansion of agriculture should be consistent
+with the needs for conservation of trees and forests.
+5. Restrictions on grazing, browsing in forest areas by levying grazing fee to discourage people
+in forests area from raising large herds of essential livestock.
+6. The new forest policy also invites a special care for the needs of wild life conservation.
+Indian Forests Act (1972)
+To consolidate the law relating to forests, the transit of forest produce and the duty
+leviable on timber and other forest produce. This law also discusses the measures to be taken for
+the area expansion under forest cover.
+Duties of Indian Forests Act:
+1. Deforestation in restricted areas.
+2. Allowing the animals for grazing illegally.
+3. Demolition of trees, cutting of timber due to negligence.
+4. Firing of trees without the instruction of forest officers.
+5. Removal of bark of trees or removal of leaves.
+6. Without bounding to the rules, hunting, shooting, fish catching, polluting the water, erection of
+fish nets or arranging the cages.
+7. Catching of elephants in the areas of elephants protection act.
+If any person violates the above, he will be liable for the punishments like to pay Rs. 500
+or 6 months prison or both and they have to pay according to the judgment given by the orders of
+the court.
+LECTURE. 4
+TREES- GROWTH STAGES- PRINCIPLES OF SILVICULTURE
+AND AFFORESTATION ON DIFFERENT SITES
+TITLE
+Stages of a tree: There are four stages from growth to development of a tree which are
+1. Seedling: Germination to 3 feet height (1 m)
+2. Sapling: From 3 feet to the height where the lower branches are emerged excluding the dead bark.
+3. Pole: Flowering to crown expansion stage.
+4. Tree: After reaching the Pole stage there will be a reduction in the growth rate and subsequently crown
+portion will be developed.
+Parts of a tree
+1. Crown: Crown is defined as the upper branchy part of a tree above bole comprising of
+branches and foliage springing from the bole.
+Bole: Lower portion of the stem upto the point where the main branches are given off is known
+as the bole. Some trees have inherent tendency to form a tall, erect, straight bole with relatively
+small branches when grown even in open.
+2. Stem: Stem is the principal axis of plant from which buds and shoots are developed. In trees,
+stem, bole and trunk are synonymous but bole is sometimes used to refer to only lower part of
+the stem upto a point where the main branches are given off.
+Tapered stem: Decrease in diameter of the stem of a tree from base to apex is known as tapered
+stem.
+Buttressed stem: In many species of wet tropical forests and few in drier tropics, the swellings
+at the base of the stem is far more pronounced and may even extended upto 15 feet or more up
+the stem. This form is called buttressed.
+Fluted stem: Bole above the basal swell may be smoothly rounded in section or it may show
+irregular involutions and swellings which are referred as fluted stem.
+3. Root: Root is that portion of the plant which develops inside the soil and away from light. The
+roots of trees support them firmly to the ground, absorb soil moisture containing mineral salts
+and send it to stem for onward transmission to the leaves.
+Kinds of roots:
+Tap root: Tap root is the primary descending root formed by direct prolongation of the radical
+of the embryo. In trees, it is the main axis of the large root system and descends vertically below
+the stem. It is conical in shape, develops towards the permanent moisture in the soil and
+sometimes attains considerable height.
+Eg. Tap root system goes up to 100 ft. in Prosopis specigera and Acacia Arabica
+Lateral roots: Roots arise from the tap root and spread laterally to support the tree. As the tap
+root grows, it develops lateral roots which are branched and re-branched and ultimately form
+rootlets.
+Mycorrhiza: In certain species, fine extremities of rootlets are formed behind root cap instead of
+being covered with root hairs are found to be invaded by specific non-pathogenic soil fungi. The
+invasion results in the formation of composite structures which are neither roots nor fungi. This
+composite structure or invaded rootlets is called Mycorrhiza.
+Mangrove roots: In water logged and submerged soils, the Rhizophores are supported on a
+system of aerial stilt roots, while in some species send up peg like projections from their roots
+consists of sponge soft tissue called Pneumatophores. This kind of roots helps in the exchange of
+gases and prevents plants from rottening.
+Adventitious roots: Adventitious roots are the roots produced from parts of the plants other than
+the radical or subdivision.
+Principles of silviculture:
+Siliviculture is the theory and practice of raising forest crops is known as Silviculture. It is
+the science that combines biology, mathematics, management and economics. Hence, study of
+Silviculture signifies the following objects:
+1. To derive environmental benefits.
+2. Rising of tree species which have more economic value.
+3. Production of high quality timber
+4. Production of more timber per unit area
+5. Reduction of rotation period
+6. Afforestation of blank areas
+7. Production of new species
+8. Introduction of exotic species
+9. Increase in the production of fuel and fodder
+10. Development of forest based industries
+Afforestation on different sites:
+1. Shifting sand dunes: Sand dunes lack in humus and soil moisture. These are widely
+distributed in the states of Rajasthan and Haryana. These areas are characterized by
+annual rainfall of 150-250 mm and temperature of 490C and faces high wind velocity.
+Growing of shelter belts reduces the wind velocity to some extent.
+Eg. Acacia nilotica, Ziziphus, etc.
+2. Saline and alkaline soils: These soils are mainly found in humid and sub humid areas.
+Due to high salt concentration these soils lack soil moisture, poor in gaseous exchange
+also have high pH. All these restrict the elements like Na. growing of salt resistant plants
+is good in these areas.
+Eg: Acacia nilotica, Prosopis juliflora, Azadaricta indica, Butea monosperma, Pongamea
+pinnata, Ailanthus excelasa
+3. Ravine Lands: Ravine means a group of small canals which forms gullies. This type of
+soils is mainly found in Uttar Pradesh, Gujarat and Madhya Pradesh.
+Eg: Eucalyptus, Dalbergia sisso, Dendrocalamus strictus, Acasia nilotica, Prosopis julifera
+4. Lateritic soils: In India, these soils are present in northern and southern parts. These are
+low fertile, lack of soil moisture restricts the plant growth.
+Tectona grandis grown in in laterictic soils of West Bengal provided good results. Other species
+like Agave sisalina, Agave cantula, eucalyptus, Grevillea robusta, Anacardium occidentalis are
+suitable for these soils.
+5. Coastal Sea Sands: North and west coast of India are mainly consists of this type of soils.
+Soils are characterized by alkaline nature, availability of lower amount of nutrients and less
+water holding capacity.
+Eg: Casurina equsitufolia, Avecenia officinalis, Eucalyptus
+6. Dry rocky and Murrumy areas: These are the problematic soils, also known as skeletal
+soils. These soils are present in high and low rainfall areas.
+Eg: In low rainfall areas – Eucalyptus teritiocornis, Dalbergia strictus, Ailanthus excela,
+Hardwickia binnata
+In high rainfall areas- Eucalyptus, Acasia
+7. Wet Lands: Soils present in submerged areas are called wet lands. These are mainly present
+in high rainfall areas.
+Eg: Aerobusta
+8. Grass Lands: Grasslands appear in some places. These grow in very thick and cause
+restriction for tree growth. In Imperata, Cymbopogan, Saccharus species roots grow at a very
+depth and cannot be removable with ploughing.
+Selection of fast growing species helps in the restriction of grasses growth.
+Eg: Sisso, Ailanthus excelsa, Bombex ceiba
+9. Denuded and Eroded Hill slope: These are mainly present in sub tropical and tropical areas
+of the country. The hilly tracks generally face the soil erosion. Denuded hill slopes are mainly
+found in western Himalayas. These soils are formed due to heavy grazing, forest fires.
+Eg : Pinus roxiburgi, Acasia modesta, Casia siamea, Albizzia lebbeck
+10. Canal banks: Area beside the large canals is left for the management of canals. In Uttar
+Pradesh larger area is found under canal banks.
+Eg: Dalbergia sissoo, Acacia nilotica, Syzygium cumini
+11. Road side areas: Trees grown on road sides should be protected from stray animals. Quick
+grown, compact crown should not be of climbing nature, tolerant to wind speed and evergreen
+tree species are suitable.
+Eg: Mangifera indica, Tamarindus indica, Dalbergia sissoo
+12. Bio-Aesthetic plantations: Growing of plants for beautification of the surroundings is
+known as bio- aesthetic plantation. These are grown in different shapes. It beautifies the
+unattractive areas.
+Eg: 1. For shade purpose - Mangifera indica, Acasia indica, Tamarindus indica
+2. For bole and crown shape - Michalea champaka, Saraca indica
+3. Flowering trees – Delonix regia, Peltoforum, Casia fistula, Erythrina indica
+LECTURE -5
+PRINCIPLES OF NURSERY RAISING – TYPES OF FOREST
+NURSERIES- SELECTION OF SITE OR NURSERY- MANAGEMENT
+PRINCIPLES OF NURSERY RAISING:
+1. Produce seeds to give healthy and vigorous plants
+2. Production of seedlings for distribution among people
+3. Produce seedling to give tall and sturdy plants which benefits in
+a. control weed growth
+b. can be grown along the highways
+4. To facilitate growth of exotic species in indigenous climatic conditions, initial care can be
+taken in the nursery itself.
+5. Raising of species which do not produce the seeds give good results.
+6. Plants to be grown on low fertile soils can be raised artificially in nursery.
+7. Some forest species do not produce seeds every year and storage of seeds is difficult in some
+species in such species raising of seedlings can be done in nursery.
+Type of forest nurseries:
+Nurseries are either temporary or permanent depending upon the duration of their use.
+1. Temporary Nurseries: It is also called field nursery as it is always adjacent to the planting
+area. These are established temporarily to meet the requirements of stock for difficult and limited
+areas; as soon as the demand is met it is abandoned or shifted to another place.
+Advantages:
+a. Establishment of these nurseries in hilly areas provides opportunity to supply plants to
+the difficult sites.
+b. Reduction of transport charges as these are adjacent to the planting area.
+c. Reduce the time from sowing in nursery beds to transplanting in main field.
+Disadvantages:
+a. Supervision is difficult as many as nurseries are located in a single sub-division.
+b. Cost of production sometimes rises exponentially.
+Permanent Nursery: Permanent nursery is established to supply nursery stock on a long term
+basis. These are established in larger area and also have constant supervision. A permanent
+nursery should have a large fenced area, road and inspection paths, well laid out irrigation
+system and shading facilities.
+Advantages:
+a. Transportation of seedlings to all possible planting sites is easy.
+b. The initial cost seems to be high as these are established on a long term basis.
+c. Cost of production of seedlings in a permanent nursery is comparatively less.
+d. Facilitates constant supervision.
+On the basis of irrigation facility, nurseries are classified into:
+1. Dry Nursery: A nursery that is maintained without any irrigation or other artificial
+watering. These are not much succeeded and the plants which require negligible amount
+of water are raised in this type of nurseries.
+2. Wet Nurseries: A nursery that is maintained by irrigation or other artificial watering
+during the dry months. These nurseries have permanent water source and facilitates to
+raise seedlings in large quantity.
+Selection of site: Careful consideration must be given to the selection of the nursery site. It is
+difficult to provide all the congenial conditions at one place. The following factors influence
+the site for a nursery:
+Soil: Soil is the most important factor especially the physical properties of soil plays role
+than that of chemical properties for successful production of plants. The fertile and well
+drained soils with sandy loam texture, good tilth, medium to small blocky structure, pH
+varying from 5.5 to 7.5, organic content at least of 2.5% should always be preferred for
+nursery sites. Deep digging of clay soils is necessary since these do not have the proper
+permeability and porosity. The site should be quite free from stones, pebbles or coarse gravel
+as these restrict the root distribution.
+Water supply: Sustained supply of water throughout the year must be available at the site.
+Alkaline and polluted water should not be used for watering plants.
+Natural Zonation: As far as possible nurseries should be established under the climatic
+conditions where the different species are grown.
+Transport: The nursery should be readily accessible all the year round in order to facilitate
+transportation of materials required in the nursery and dispatch of seedlings from there.
+Size of the Nursery: Size of the nursery depends on
+1. Number of seedlings to be produced
+2. Age of seedlings or transplants at the time of planting out
+3. Type of nurseries (either temporary or permanent)
+4. Spacing used in plantation.
+Out of the total area laid out for a nursery only about 50% is available for sowing and
+raising seedlings, the rest being occupied for permanent roads, inspection paths, irrigation
+channels, heaps of organic matter, sand, etc.
+Protection of Nursery Area: The nursery should be protected from the stray, wild animals.
+The following protection measures have to be taken:
+1. Fence with barbed wire should be erected at a height of 1.5 m.
+2. Fence or stone wall around permanent nursery beds should be erected to protect from
+grazing.
+3. Wherever there is threat from elephants, trenches are to be dugged.
+4. In dry area to protect the nursery beds from hot winds and high wind velocity it is better
+to establish wind breaks and shelter belts.
+5. Planting of thorny shrubs around nursery beds will protect the plants from birds.
+Principles of Nursery Management:
+1. Nurseries should be established near the planting area.
+2. Permanent water source should be there at nursery area. Permanent shading to be provided
+for shade loving plants.
+3. Plants should be kept at least for one day at the planting site before planting to adopt for the
+local climate.
+4. Seedlings raised in nurseries will grow luxuriantly at outside environment.
+LECTURE -6
+PLANTING- DIGGING OF PITS BASED ON SOILS- PLANTING TYPES
+Various sizes of pits will be dug depending upon the depth of soil and availability of
+moisture. The usual sizes are 1x1x1 feet (30 cm x 30 cm x30 cm) and 2x2x2 feet (60 x 60 x 60)
+cm3. When large polythene bags are to be used for planting, the size of the pits is enlarged
+correspondingly.
+1. Ordinary Pits: Ordinary pits are recommended for clayey and saline/alkaline soils in almost
+all rainfall areas. The pits are dug on flat ground or levelled areas.
+2. Saucer Shape Pits: Pits of 30 cm3 are dug at the planting site, seeds are dibbled or seedlings
+are planted in the refilled pits. The area around the pit is scrapped to form a shallow saucer of
+1 m radius. The saucer being deepest (15 cm) towards the centre where the plant is situated helps
+in the effective trapping and conservation of moisture. The erection of a small ridge along the
+edge of the saucer helps to contain the moisture collected within the saucer even in cases where
+the land surface is slightly undulating.
+3. Ring Pits: Ring pit is made in very sandy areas where moisture is the most critical factor for
+survival of plants. In this case a circular trench about 20 cm away from the pit is made all
+rounds. The depth of circular trench is from 30 cm to 40 cm. the circular trench collects rain
+water for the plant. The crescent need not be very high, because deep planting will be necessary
+in order to place the main mass of roots about 30 cm below the surface where the moisture
+accumulation usually occurs in case of very sandy soils.
+4. Ridge Ditch: Ridge ditch is a partly filled trench with a ridge along it. It is suitable for
+sloping ground in which the ridge is always made on the lower side of the trench. Ridge is made
+lower the slope whereas ditch is made at upper side of the slope.
+5. Double Trenches: These are prepared in very stoney and slopy areas where the soil
+availability is very less here and there in between the scattered stones, the water holding capacity
+of the soil is extremely low. In this case, there is a provision for two trenches one filled in and
+the other unfilled. The filled trench with worked up soil is used for planting and the unfilled
+trench is kept for water storage and hence constructed on the upper side of the filled in trench.
+Also suitable for murramy areas and where hard pan formation exists in sub soil.
+6. Contour Trenches: Suitable for hilly areas.
+7. Brick Planting: Suitable for sandy coastal areas. In desert sands and mobile sand dunes, the
+sand dunes should be first stabilized by spreading leaf litter or brush wood etc.
+8. Drainage: For successful plantation drainage channels should be opened in water logged areas.
+Planting Methods:
+1. Planting with roots: While planting with naked roots, the important considerations are
+• Collar should be at the level of soil surface
+• The tap and sinker roots are not doubled up
+• The planting pits should be at least as deep as the length of roots of seedlings
+2. Planting with ball of earth: Many species do not tolerate the exposure of the root system
+especially when they grow large. Plant must be uprooted in such a way from the nursery that the
+roots come out in natural position with ball of earth.
+3. Container Planting:
+a. Dona method of planting: Dona is a cup shaped structure made up of leaves of Bauhinia
+vahlii and Butea monosperma. The donas are placed on the ground and watered after sowing
+seeds until the seedlings are well rooted. The seedlings are then planted out.
+b. Baskets: Baskets are made with bamboo strips or tamarix may be used as containers. These
+are filled with soil and manure and seedlings are planted. Baskets may be buried into the soil
+together with the plant while planting.
+c. Polythene bags: These are most commonly used containers. The plants are developed with
+minimum disturbance when used the polythene bags. The bottom of the bags is opened while
+planting out. These are filled with soil and manure and planting out the seedlings.
+4. Stump Planting: The advantages of stump planting are
+• Practically no damage in transport
+• Handling and planting are easy
+• Lot of reserve food materials in stumps.
+The stumps should be 20 – 25 cm. The root and shoot portions are about 18-20 cm and 2-
+5 cm respectively.
+Eg. Tectona, Sissoo, Albizzia species are planted by this method.
+5. Vegetative Propagation: Various vegetative propagules like root suckers, branch and stem
+cuttings, root cuttings, layering, grafting and budding are most commonly used for vegetative
+propagation of forest plants.
+LECTURE -7
+TENDING OPERATIONS
+Tending is a broad term which involves various types of operations needs to be done for
+promotion of growth at different stages of development of crop after planting. Tending is an
+important method of Silviculture. On most plantation sites, tending is mostly concerned with
+preventing the plants from being suppressed by competing weed vegetation. Tending helps in
+production of high quality timber as well as maximum timber production per unit area. The
+following are some of the tending operations:
+1. Irrigation: Watering is advisable to ensure establishment of avenue plantations. Incase of
+block planting on village lands and in forest area it is better to plant a greater number to allow for
+causality. In forest watering is rarely done as it is a costly operation.
+2. Weeding: Weeding involves the removal / suppressing undesirable vegetation to reduce the
+competition for light, water and nutrients with the forest crop a diameter of 1.5 m all around the
+plant is cleared off. This operation is done once in a month.
+3. Soil working: Loosening the soil around the plant and working up the soil around the plant in
+order to prevent the moisture loss. Mulching with paddy straw, husk, twigs etc. also carried out
+to prevent soil from hardening.
+4. Fire tracing: A belt of 2 m. diameter cleaned on all sides of the plant will prevent any direct
+damage from the fires whereas in block plantings a fire line of 4 meters width around the area
+should be cleared, so that no fire enters the area.
+5. Singling: singling is performed in the early stages of the life of a tree when it is 2-4 m tall,
+whereby forked or multiple stems are reduced to a single stem to improve tree form and to
+accelerate linear and straight growth.
+6. Brashing or low pruning: Low pruning consists of the removal of lower branches with the
+help of a saw when the trees attained 2nd or 3rd year. It should be done without damaging the
+plant upto a height of 2 m or just after the time of canopy closure. This helps for straight and
+better growth of the tree.
+7. Climber cutting: Generally, fresh growth of vines, climbers are often profuse and fast which
+cover the forest trees. The climbers are particularly harmful when trees are young. In older trees,
+they constrict the stems and deteriorate the value of wood. It is desirable to launch early weeding
+operations to include uprooting and grubbing of vines and creepers. When cutting vines,
+a section of climber’s stem should be removed, simple severance is not sufficient as regrowth at
+the cut end is fast. Following are some climbers which reduces the timber value
+ex: Bauhinia vahli, Butea parkiflora, Vitis, Acasia
+LECTURE -8
+TEAK
+Scientific Name: Tectona grandis
+Family: Verbenaceae
+Botanical Description: Teak is tropical, deciduous tall growing tree. It has small, fragrant white
+flowers arranged in dense clusters at the end of the branches. The large papery leaves of are often
+hairy on the lower surface. The canopy is round. Teak wood has leather like smell when it is
+freshly milled and is particularly valued for its durability and water resistance.
+Teak is one of the famous timber species of India as well as the globe. Teak wood is
+known as the king. The wood is used for boat building, exterior construction, furniture, carving,
+railway carriages and for construction of houses.
+Distribution: Widely distributed in islands of India and Burma. It is naturalized and cultivated
+in Central India, West Bengal, Assam, Bihar, Orissa and Andaman.
+Climate: It prefers moist, warm tropical climate. It can withstand extremes of temperature but
+maximum and minimum temperatures of 39-440C and 13-170C respectively are the most
+favorable for its growth. It grows well in rainfall zone of 1200-2500 mm. Teak has been
+classified as pioneer species as it requires a high light intensity for its growth and development.
+Soil: Teak grows best on deep, well drained alluvial soils also grow on undulated lands. Good
+drainage system should be established. The optimum pH range for better growth and quality is
+6.5 – 7.5 and it can not tolerate high soil pH.
+Important characters/ special features:
+Teak has high resistance to fires and easily grazed by animals.Presence of “Tectol”
+phenol in sap gives high resistance to sap wood rot and termites.As it is deciduous in nature, in
+dry climate leaf fall starts from November-January months whereas in moist climate leaves
+remain till March. Emergence of new leaves starts from April – June. Generally planting is taken
+up during monsoon season. Fruiting starts from November and remains till January thereafter
+fruits will drop down.
+Propagation: Generally, teak is propagated through seeds but have low viability. Vegetative
+propagation by soft wood cuttings is also practiced though coppice and pollard shoots are quite
+effective in rooting. Teak has high coppicing capacity for longer duration.
+Collection and storage of seeds: Collection of fruits starts from January – February and 1 kg. of
+seed contains around 1200 – 3000 seeds.
+Nursery practices: 2.5 -3 kg seeds are required to prepare for one mother bed and derived 1000-
+1500 seedlings. Stumps are prepared out of seedlings that are of 2.5 cm long, collar (2-3 cm) and
+22 – 23 cm of tap root.
+Planting: Generally, initial spacing of 1.8 x 1.8 m , 2 x 2 m is followed depending on many
+factors as site quality, cost of establishment, thinning regime, small wood utilization, planting
+system etc.
+Intercultural operations: Teak is a light demanding species and its growth and development are
+reduced sharply under poor light conditions. Hence, intensive weeding is very necessary during
+the early establishment of the plantation. i.e. 1-3 years.
+Thinning: The first thinning is conducted in teak plantation at 5-10 years after planting of teak
+depending on site quality and the size of initial spacing. Generally, under good site and close
+spacing, the first and second thinning are conducted at 5 and 10 years respectively and continues
+to 25-30 years. About 25% of the trees are left for further growth and development after the
+second thinning. In fast growing plantations, thinning should be carried out for every 5 years.
+LECTURE -9
+NEEM
+Scientific Name: Azadirachta indica
+Family: Meliaceae
+Native: India
+Neem has been universally accepted as a “Wonder Tree” tree of 21st century. In India,
+the tree is variously known as “Divine tree”, “Nature’s Drugstore” and Panacea for all
+diseases”.
+Description: Medium to large sized, evergreen, semi deciduous tree (under water stress
+conditions, falls its leaves), grows upto 30 m tall and has 80 cm diameter. Bark smooth, fissured
+and flaking in old woods, pinkish-brown, inner bark orange-red, with sticky foetid sap. Leaves
+are alternate, imparipinnate. New growth initiates from February – March and the flowering
+appear during April – May and bears fruits in the months of July – August.
+Important characters:
+• Neem responds well to sunlight but cannot tolerate to shade condition.
+• Tender buds are susceptible to cold.
+• Resistance to drought conditions.
+• Susceptible to water logging conditions. Produces more shoots once the tree is cut down
+• The interesting fact about neem tree is that it releases a higher amount of oxygen than
+other trees during the day.
+Distribution: In India, it grows in dry areas. In villages and in urban areas it grows as
+avenue along the road side for shade purpose.
+Climate: Normally it thrives in areas with sub – arid to sub-humid conditions, with an annual
+rainfall between 400 – 1200 mm. It can tolerate high to very high temperatures but does not
+tolerate temperature below 40C (leaf shedding and death may ensure).
+Soil: Neem can grow in different type of soil ranging from shallow, deep and on well drained
+sandy and laterite soils the suitable pH varies from 6.2 - 7.0.
+Establishment:
+Natural regeneration/ reproduction: Mature neem tree produce profuse seeds. Seed is
+dispersed mainly by birds. Natural regeneration is plentiful under the protection of thorny
+bushes and hedges. It also regenerates well by coppice and root suckers.
+Artificial regeneration : Neem can be propagated by several methods, viz., direct sowing,
+planting of young seedlings, stump planting, root and shoot cuttings. In these, sowing of
+freshly collected seeds gives maximum regeneration.
+Collection of seeds: Neem starts bearing from 5th year onwards. Well ripened fruits are
+harvested during July – August and these are washed with water thoroughly to separate seed
+from pulp. 1 kg of fruits contains 4500 seeds and these seeds are sown within 150 days. The
+germination percentage varies from 70 %-90 %.
+Method of sowing:
+Direct sowing: In dry areas seeds are sown in the pits. In direct sowing seeds are sown at 33
+m distance in rows. 3-4 kg of seed is required per hectare.
+Transplanting: In nursery beds seeds are sown at 15-20 cm distance and 1 cm deep.
+Germination takes place in 30 -45 days. After 3 months when the seedlings reach 7 – 10 cm
+height are transplanted in the main field. In main field pits of 30 cm x 30 cm x 30 cm are
+dugged at a distance of 3 m x 3m and 1 year old seedlings can be planted. Annual crops can
+be grown to utilize the inter space.
+Uses of Bark: Fibre extracted from the bark can be used for making ropes. Bark has
+medicinal property and used in various preparations. Leaves contain the anti septic
+properties.
+Wood: Neem wood is blood red in colour and it has very strong and permanent nature.
+Termites and other insects are not harmful for wood hence it is used for furniture and for
+boats.
+Oil: Neem seed contains 40 % of oils. Neem oil is used for pesticide preparation and also
+in medicinal preparations.
+Neem Cake: Neem cake contains higher Nitrogen and has pesticidal property hence it is
+used as organic manure. Fresh or dried leaves are used in storage of grains to reduce the
+attack of stored grain pests. Leaves also have the nematicidal property.
+Varieties:
+1. Hysudrica: This variety mainly grown in Himalayan regions.
+2. Fruticosa: This is a shrub reaches up to 0.9 – 1.2 m height. Fruits are big in size and
+oval shaped has 0.8 – 1.3 cm inner diameter.
+BAMBOO
+Scientific Name: Dendrocalamus strictus and
+Bamboosa arundanaceae
+Family: Poaceae
+Bamboo is known in various names as Green Gold.
+Description: Bamboo is perennial in nature. Culms are round at nodes. The basal portion of the
+culm containing very short internodes which grows almost horizontally and remains at level to
+the soil surface or little below it is known as rhizomes. The buds on rhizome nodes enlarge for
+many months in the soil and tender shoots emerge as pointed cones completely covered with
+imbricate sheaths from 50 to 60 days. Rains in May –July strongly induce sprouting. These
+shoots elongate rapidly and in about 3-4 months the young culm grows to its full height before
+branching.
+Bamboo is used for several purposes hence it is known as “Poor man’s timber”. In Telangana
+state, it is grown mainly in Khammam and Adilabad districts. It forms rich belt of vegetation in
+moist deciduous, semi-evergreen, tropical, sub tropical and temperate forests.
+Types:
+1. Solid Bamboo (Dendrocalamus strictus): Bamboo does not possess any hollow.
+2. Hollow Bamboo (Bambusa arundinacea): This kind of bamboo has hollow. Grows
+straight without any curving and lighter in weight. Because of hollow it can be separated
+and used for various purposes.
+Climate: Bamboo is grown in tropical and sub tropical regions. It grows luxuriantly in moist
+areas to an altitude of 1200 m from Mean Sea Level.
+Soil: Bamboo can be grown in all type of soil however loamy soils are best suited. Saline and
+acidic soils are not suitable. Soil pH of 6.5 – 7.5 is suitable.
+Growing areas: Along the field bunds these are planted at 4 m distance whereas in plantations it
+can be planted at a spacing of 5 m x 5m.
+Planting: Pits of 30 x 30 x 30 cm are to be dugged, the dugout soil should be mixed with 4 kg of
+farm yard manure before filling the pits. 50 g of 3 % folidal powder is applied to each pit. 1-2
+years old seedlings are planted out early in July.
+Cutting of bamboo: Seven (7) years after planting bamboo can be cut down leaving 50-75 cm
+from the soil surface. Stubbles should be cleaned after the harvest. Care must be taken that below
+7 years culms and, before drying of new growth cutting of bamboo should be avoided.
+Intercultural operations: Cultivation of arid crops can be taken up in between the rows up to 2
+years.
+LECTURE -10
+SUBABUL
+Scientific Name: Leucaena leucocephala
+Family: Legiminaceae
+Origin: Central America
+Description: It is one of the fast growing hardy evergreen species. Height depends on the types.
+Generally Hawaiian types grows up to 5 m while Salvador types goes upto 20 m. leaves are
+bipinnate, 15-20 cm long with 10-15 pairs of pinnate leaves. Inflorescence is globular and
+flowers are white.
+Types:
+1. Hawaiian: The plants are short, bushy and remarkably drought tolerant grows up to 5m. It is
+suited to hilly terrains in drought prone areas. It is a prolific seed producer and is good for fodder
+purpose. Also used as fuel wood.
+2. Peru: Medium to tall growing species grows up to 15 m. tall and extensively branching type
+and ideal for fodder purpose.
+3. Salvador: Tall, tree like and fast growing and having maximum annual biomass production.
+This type possesses large leaves, pods and seeds than Hawaiian types. Responds to high
+fertilization. Mainly it is grown for wood purpose.
+Cunningham: It is a cross between Salvador and Peru types.
+Hybrid types: Hawaiian Giant
+Subabul is a vigorous coppice and responds well to pollarding, lopping and pruning. It
+has deep and strong tap root and even the seedlings are deep rooted. It produces flowers and
+fruits at a very early age. In the very first or second year in the case of Hawaiian type. It seeds
+twice a year, July – November and February – May however the latter collection is better. Ripe
+pods are collected before they open and spread to dry and stirred to separate seed. Each pod
+contains 15-30 seeds. Unripe pods are greenish in colour and ripen ones are brown.
+Characteristics:
+1. Leucaena is a light demander, frost –tender, drought –resistant. Though prolonged
+drought may kill the seedlings and young twigs. It tolerates shade to some extent.
+2. Partially on clay soils it is a good coppice.
+3. Stand repeated harvests of firewood, small timber and forage.
+4. Produces plenty of seed in the very first or second year.
+Distribution: Earlier types are growing naturally in East coast areas, while Hawaiian Giant is
+being widely cultivated in most states under social forestry and agro-forestry schemes.
+Climate: It grows best up to 500 m altitude, grows fairly up to 800 m in the tropical and sub
+tropical belts. Can tolerate 400C but susceptible to frost. It can be grown successfully in areas
+receiving annual rainfall of 250 mm to 600-700 mm. it is a good drought resistance species. It
+grows well in areas of 100 m MSL.
+Soil: It grows in various types of soils but neutral to slightly alkaline soils are fairly suitable but
+difficult to survive in acidic soils.
+Uses:
+Firewood: Subabul wood is a good source of firewood and coal. Thermal energy of wood is
+4200-4600 KJ/Kg and thermal energy of coal is 7000 kg calories per every 1 kg of coal.
+Wood: Subabul wood is strong, hard, heavy and easily workable for a variety of carpentry
+purposes. It makes cheap constructional timber used for poles, fence and posts.
+Fodder: Leaves, pods, seeds are nutritious fodder and relished by cattle, sheep and goats.
+However a toxic alkaloid mimosine/hyosine is present in leaves of some varieties that can be
+injurious to cattle health. It is important to use lower mimosine strain. If the fodder contains
+more than 50% mimosine, which is used for more than 6 months it is injurious to cattle health.
+Other uses:
+1. Its pulp is used in manufacture of paper in conjunction with long fibred bamboo pulp.
+2. Pods yield a dye which is used to colour wool, cotton and fishing nets.
+3. Powdered seed make good manure.
+4. It is suitable foe afforestation of grass lands, denuded water sheds and hill slopes. It is also
+used as wind breaker, fire breaks in agro-forestry plantings.
+5. Due to the content of high nitrogen it is used as manure as well as mulch.
+Establishment:
+Natural Regeneration: Leucaena reproduces itself naturally through seed and coppice freely.
+It seeds profusely and seeds get dispersed after spontaneous splitting of pods.
+Artificial Regeneration: It can be raised artificially by direct sowing as well as planting out
+seedlings entire from container or nursery beds.
+Collection and storage of seeds: It produces seeds twice a year i.e. during July – November and
+February – May. Seeds can be extracted by collecting and drying of pods. Seed is liable to insect
+and fungal attack. Hence, seeds are treated with insecticides before storage. Seeds can be stored
+as long as 8 -10 years. Each pod contains 15-30 seeds and 1 kg of seed contains around 20,000
+seeds.
+Seed treatment: Seeds are to be treated for obtaining early and good germination percentage.
+For this seeds are presoaked for 48 hours in normal water. Seed coat is removed by knife, seeds
+require inoculation with Rhizobium culture to ensure nodulation and nitrogen fixation. For this,
+280 g culture is required for 20 kg of seed.
+Direct sowing: Seeds are sown at 1-5 cm depth. Seed rate may be 10-20 kg/ha for line sowing
+by following 2 x 3 m spacing. Spacing varies with planting objective. A closer spacing may be
+followed for soil conservation and forage production than for timber, for which 3 x 3 m to 5 x 5
+m spacing may be adopted. For forage, furrows may be as close as 75 cm and seeds dibbled 10
+cm apart.
+Nursery Techniques: Plants may be raised in nursey beds or in containers. Pretreated and
+preferably inoculated seeds are sown in beds in March –April in lines spaced 30 cm apart and
+seeds 5 cm apart in lines and about 1.2- 1.5 cm deep. Beds are irrigated regularly but lightly.
+Germination commences in 4-6 days. Beds should be kept well weeded.
+To raise the seedlings in containers, which may be polythene bags, bamboo pots etc. two
+pretreated seeds are sown in each during March- April at a depth of about 1.5 cm and watered
+regularly but lightly. Thinning is carried out to remain one plant for container. Seedlings attain to
+plantable size by three months.
+Planting: Pits of 30 cm3 are dug out during summer and planting may be taken up in the months
+of June-July.
+Intercultural operations: Regular weeding is necessary in nursery, natural regeneration areas as
+well as in plantations in early stages. Thinning may be carried out later to the desired intensity.
+Management of plantations:
+• Plantations can be harvested for every 2-5 years depending on variety and objectives of
+management. Firewood plantations can be worked on 2-3 years in coppice rotations
+method, irrigated timber plantations on a 6 year rotation. By cutting close to the ground
+for every 5 years, it has remained in vigorous conditions for 55 years. For forage purpose,
+cutting height may be as low as 10-15 cm at frequencies of 1-3 months depending on
+growth rates.
+• Due to faster growth and high nitrogen fixation it can be planted as legume crop. In
+coffee, tea and rubber plantations it is used for alley cropping. It is also used as wind
+break to check soil erosion.
+• Growth rate: Growth and yield vary widely according to variety, site factors, spacing and
+management. Height growth may exceed 4 m per year initially, attaining up to 20 m in 5
+– 6 years.
+Yield: In dry land areas, as average of 12-24 ton of charcoal can be produced per hectare.
+Fodder yield of 25 -30 ton per hectare can be obtained per one year.
+EUCALYPTUS
+Scientific Name: Eucalyptus tereticornis
+Family: Myrtaceae
+Eucalyptus is native to Australia.
+Description: It is a tall tree with stout trunk, attains a height of 50 cm. It is an evergreen,
+glabrous tree usually secreting an aromatic gum. The leaves and flowers contain conspicuous oil
+glands. White coloured flowers are borne in umbels usually pedunculate. Calyx tube encloses
+the ovary which is covered with a deciduous operculum. Fruit consisting of the enlarged calyx
+tube is usually hard and woody, full of resin sacs. Bark is grey, exfoliating in long flakes.
+Special features: Eucalyptus is a light demander. It produces good coppice freely and
+vigorously.
+Climate: It grows up to an altitude of 500 m. it is sensitive to frost. It grows in alluvial, black
+cotton, gravelly, lateritic, skeletal rocky and murram soils even on shifting sand dunes. It comes
+well in plains receiving a rainfall of 800 – 1000 mm.
+Soil: Deep, fertile and well drained loamy soil gives best growth. The tree prefers sandy loam to
+loamy soils within a pH range of 6.0 -7.5.
+Nursery raising: Seeds are viable upto three months. Seeds are sown in raised beds. seeds are
+mixed with sand and broadcasted over the bed then cover with thin layer of soil.
+Planting: six months old seedlings are used for planting.
+Utilization: Eucalyptus wood is the main raw material for paper industry. It is used for making
+packing cases. Leaves contain oil. Bark yields oxalic acid. It is preferred by the farmers by
+virtue of several characters like fast growth, non browsable, immunity to pest and diseases and
+good coppicing ability.
+LECTURE - 11
+TAMARIND
+Scientific Name: Tamarindus indica
+Family: Leguminaceae
+Distribution: Tamarind is native to dry savanna of tropical Africa. In ancient times it was
+introduced to Asia by Arab traders. In India, it is widely grown in rural areas along the road side.
+In South India, it grows naturally.
+Description: It is an evergreen tree grows up to 24 m tall and 7 m in girth with round canopy.
+The bark is brownish or dark grey and fissured longitudinally and horizontally. Leaves are
+paripinnate and 15 cm long. Leaflets vary from 10-20 pairs, oblong. Flowers are borne in small
+terminal, drooping racemes on current season’s growth. Pods are 7.5 – 20 cm long, 2.5 cm broad
+and 1 cm thick, more or less constricted between the seeds, slightly curved, brownish – ash in
+colour.
+Climate and Soil: Tamarind is tropical tree. The maximum temperature varies from 36- 470 C
+and the absolute minimum temperature varies from 0-17.50 C. Rainfall required for its successful
+growth is 500 – 1500 mm. It can be grown on variety of soils ranging from poor degraded,
+eroded, gravelly, saline and alkaline soils. Growing in deep loamy soils gives better productivity.
+To some extent it tolerates alkalinity and salinity.
+Propagation: It is propagated through seed and air layering methods. Softwood grafting can
+also be practiced.
+LECTURE -12
+KARAKKAYA
+Scientific Name: Terminalia chebula
+Family: Combretacae
+Parts used: Dried immature fruits( generally the fruit rind)
+English Name: Chebulic myroban
+Vernacular names: Abhayam, Haritaki, Jayashta Pasya, Amrutha, Kayashta, Hemavathi, Shiva,
+Jeevanthi.
+Uses:
+• It possesses a great therapeutic value and is widely distributed in India. Uses of its
+varieties with their sources, identifying features and therapeutic uses mentioned in
+ayurveda., Unani and Homeopathic medicine due to its wide spectrum of
+pharmacological activities associated with the biologically active ingredients.
+• Fruit has the properties of antiseptic, diuretic, astringent, cardiotonic and febrifuge in
+action.
+• It is a safe and effective purgative, laxative. It is an important ingredient of ‘triphala’ an
+ayurvedic formulation used in the treatment of constipation, colic pain and kidney
+dysfunctions, eye diseases and sore throat.
+• Unripe fruits are more purgative and the ripe ones are astringent.
+Description: Chebulic myrobalan is a large tree with umbrella shaped crown and crowded
+branches, growing up to 25 m height with a bole girth of 2.5 m. bark is dark brown colour.
+Leaves are sub opposite, ovate or oblong- ovate and deciduous during cold season. The species is
+identified by dark brown exfoliating in irregular woody scales and the presence of a pair of large
+glands at the top of the petiole. Flowers are yellowish-white and emit a strong offensive odour.
+Fruit is drupe, yellowish-green, obovoid or ellipsoid, hard and 5-6 ribbed when dry.
+Varieties: Vijaya, Rohini, Poothana, Amrutha, Abhaya, Jeevanthi, Chetaki.
+Soil: It can be grown on a wide range of soils from loam to lateritic soils with moderate fertility.
+The plant attains the best development on loose, well drained soil. Average temperature ranging
+Climate: The tree is a strong light demander. It requires direct overhead light and cannot tolerate
+shade of cramped situation. It is frost hardy and drought resistant to a considerable extent.
+Temperature between 36 – 450C and rainfall ranges from 1200 – 3000 mm between 10-48 0C is
+suitable for its good growth.
+Propagation: It is propagated by seed. Good quality seed can be collected as soon as they fall
+on the ground during May –June and are dried under shade. The seeds can be stored in gunny
+bags for one year but fresh seeds germinate quicker.
+Nursery Technique:
+Raising propagules: The saplings are raised from seeds in a nursery in July with the onset of
+monsoon season. About 5 kg seeds are required for raising plants in 1 hectare of land. The
+depulped seeds should be either treated by fermentation process for a period of 15-20 days or
+presoaked in water for a period of two days before sowing. Those seeds may be sown in prepared
+beds or polybags.
+Land preparation: the land is tilled and leveled properly to make it porous and friable. Pits of
+60 cm3 are dug at a spacing of 6 x 6 m. the soil of each pit is mixed with 15 kg FYM and a
+mixture of NPK @ 75:30:30 g and refilled before transplanting of seedlings.
+Intercropping: Since it is a long term crop, intercropping with short duration crops are
+preferable particularly with climbers and shade loving crops like Turmeric, Zinger.
+Aftercare: for the first three to four years organic manure (FYM) @ 3 kg per plant is applied per
+pit. During the initial years it is necessary to keep the plantation weed free. Irrigation is required
+for the initial 3-4 years depending on the soil moisture and season. The plants may be irrigated at
+least once a week in summers.
+Harvesting: Flowering and fruiting commences after 8-10 years of planting in the summer
+season. The tree lives for more than 50 years and continue to yield fruits every year. The
+collected fruits are well dried in shade for a few days, with moisture content less than 10% and
+stored in well ventilated containers in a cool room.
+Chemical constituents: the main constituents in the fruit are anthraquinone, glycoside,
+chebulic acid, tannic acid (20 -40%), mucilage, carbohydrates, amino acids, phosphoric acid and
+vitamin C.
+Yield: On an average 40-50 kg of dry fruits /tree/year are obtained after it attains six years of
+age.
+LECTURE -13
+JATROPA
+Scientific name: Jatropa curcas
+Family: Euphorbiaceae
+Origin: Tropical America
+Jatropa is a small tree like shrub. It grows in different climatic conditions. Its natural habitation
+found in Eastern Ghats mainly the hills of Vishakapatnam, Vizayanagaram, Srikakulam and
+Khammam.
+Characteristics: it is a small tree or shrub with smooth grey bark, profusely branched from main
+stem grows up to 6 m height. Leaves are green to pale-green, alternate to suboppsite, 10-15 cm
+length, 7-12 cm width, 3-5 lobed with a spiral phyllotaxis. Inflorescence is formed in the leaf
+axil. Yellowish green flowers are formed terminally, individually with female flowers usually
+slightly larger and flowering occurs in March – April, September – October months. Fruits are
+ovoid shape, when it ripens the colour changes from green to yellow colour. Seeds resembles as
+castor seeds, 1.8 – 2.0 cm long and ovoid in shape with black coloured layer.
+Climate and soil: Jatropa can be grown in medium to dry arid and semi arid regions with annual
+rainfall of about 500 – 1200 mm. it can grow at an altitude of about 500 m with the average
+temperature of 20 0 C. Frost will affect the young plants and severe cold can defoliate the plant
+and destroy the trees. High temperature and humidity hastens the germination.
+Various soils ranging from rocky, red, sandy, crevices of rocks are suitable for its successful
+growth.
+Propagation: Jatropa is successfully propagated through seed and stem cuttings. When it is
+propagated through stem cuttings which lack tap root and contains adventitious root system and
+hence growth is restricted in arid regions.
+Nursery Management: Collection of good quality seed is important. For raising seeds,
+polythene bags of 5 x 9 cm size, 200 gauge are required. These polythene bags are filled with
+soil, sand, FYM in 3:2:1 proportion. Seeds are presoaked in water for 12 hours and heavy seeds
+are selected then the seeds are sown in poythene bags during February – March. Watering is
+given twice a day up to one week. It takes 5-6 days for germination. After 2 months, watering is
+given for every 2 days. Seedlings reach a height of 35-45 cm within three months. When the
+roots come out from the bottom of the bag these are planted after 10-15 days in the main field.
+Stem cuttings are also placed in the polythene bags and watering is given every day. Plantlets are
+ready for transplanting within three months. Transplanting can be done in the month of June.
+Land preparation: It grows in marginal lands or rocky soils hence thorny shrubs should be
+removed thereafter ploughing is done across the slope to increase the water infiltration rate.
+Digging of pits: Pits of 30 cm x 30 cm x 45 cm are dugout during summer months. For rainfed
+cultivation pits are spaced at 2 m x 2 m to accommodate 2,500 plants per hectare. If intercrops
+are grown, the pits are spaced at 3 m x 2 m.
+LECTURE -14
+PONGAMIA (PUNGAM)
+Scientific Name: Pongamia pinnata
+Family: Leguminaceae
+Description: Full grown pongamia is a medium sized tree grows up to 18 feet with trunk
+diameter of more than 50 cm, trunk is generally short with stout branches and spreading thick
+crown. The bark is thin, smooth, grey and yellowish inside. Leaves are imparipinnate, glabrous
+and light green, leaflets are opposite, without stipules, 5-12 cm long and shortly acuminate.
+Inflorescence is raceme, flowers are pink or purple in colour. Pods are indehiscent, turgid almost
+woody pointed at ends, 4-5 cm long and 1.7 – 3.2 cm width. Seed is compressed, wrinkled,
+reddish brown and oily.
+Growing areas: Pongamia grows throughout the greater part of the country chiefly along
+streams and rivers and in beach and tidal forests. It is considered to be a native of the Western
+Ghats. In South India it grows from Eastern side of Ravi river to an altitude of 1200 m MSL
+and in Himalayas up to an altitude of 610 m MSL. Under the shade of this tree, grass is grown
+luxuriantly hence it has been widely planted in different parts of the country ranging from river
+banks to low rainfall areas viz., Andhra Pradesh, Haryana, Karnataka, Madhya Pradesh, Orissa,
+Rajasthan, Tamil Nadu, Uttar Pradesh are the growing states.
+Climate and Soil: Its wide distribution in the country shows that it can adapt itself to a spectrum
+of climatic conditions. An area receiving 500 -2500 mm rainfall and temperature varies between
+27 to 380C are suitable.
+It can be grown on a wide variety of soils, ranging from sandy to black cotton soils even
+on sandy , alkaline soils but it grows best on deep and well drained alluvial soils with abundant
+supply of soil moisture. It tolerates drought and alkaline conditions too.
+Propagation: Pongamia can be successfully propagated through seed, stem cuttings and
+Grafting.
+a. Through seed: Pod collection is done by beating the branches or from ground. Seeds are
+sown during July – August months in well prepared nursery beds or in polythene bags of 20 x 15
+cm or directly sown in the main field. Presoaking of seeds in 30 ppm IBA solution for 24 hours
+hastens the germination percentage. To get quality seedlings, nursery beds should be mixed with
+fertile soil, sand and FYM in 2:1:1 ratio.
+b. Through stem cuttings: Stem cuttings of 1-2 cm diameter and 15-25 cm length are to be
+prepared from healthy plants. For better rooting, cuttings are to be dipped in 800 ppm IBA or
+NAA solution.
+c. Layering/grafting: Karanja can be propagated through air layering and cleft grafting. In
+cleft grafting, one year old rootstocks are used. Size and girth of the stock and scion should be
+same. Softwood of rootstock is split longitudinally in the middle in the form of cleft to a length
+of 4-5 cm downward with sharp knife. The cleft looks like a fork or letter ‘V’. Scion is prepared
+by giving a cut gently sloping wedge of about 5 cm by removing the bark and liitle wood from
+opposite sides of scion. The wedge shaped scion thus prepared is inserted in the ‘V’ shaped slit
+of the stock. After insertion, the joint is tied firmly with polythene film. After 15 days new
+growth will be observed at union and these give grafts produce healthy plants.
+Nursery Management:
+Seed: Fresh seeds are to be sown in the nursery beds by following a spacing of 7.5 cm x 15 cm.
+Seeds are sown during monsoon season in July-August months seeds are sown in polythene
+bags. Germination starts from 10-30 days after sowing.
+Planting: One year old seedlings which attain a height of about 50-60 cm are planted out. Pits of
+60 cm3 are dug for planting and filled with soil and 5 kg of farm yard manure. A spacing of 5 m
+between rows and 4 m between plants is adopted.
+Stem cuttings of 60 cm length, stump and suckers can also be used for planting. These are
+planted during June-July and three irrigations are given per year.
+Inter crops: in the initial 4-5 years after planting, short duration crops like oil seeds, pulses,
+mustard, ground nut, sesame, Bengal gram, cow pea, horse gram, beans, bajra and
+sorghum can be grown successfully.
+Flowering and Fruiting: Flowering season remains from April to June. Flowers are white, pink
+or light purple in color. Plants raised from seeds takes 5-6 years for fruiting whereas grafted
+plants starts fruiting four years after planting. Mature pods ripen during December – January and
+each tree yields about 8-24 kg of seed.
+Collection of seed and processing: When fruiting is considered it is not uniform in karanja.
+Pods are collected by beating the branches or from ground. Then the pods are dried in the sun,
+thrashed to extract the seeds from machine and seeds are dried for 2-3 days. Seed yield of 40-90
+quintals can be obtained from one hectare.
+Seed characters: Seeds are reddish brown in colour. Dried seed contains 19% moisture, 27-
+39% oil, 17.4% protein, 6.6 % starch, 7.3% fibre, 2.3% ash. Seeds also contain 13.5% gum
+and essential oils and an amino acid called glabrin.
+Physical and Chemical characteristics of Pongam oil: Karanj oil is popularly known as
+pongum oil. Freshly extracted oil is yellowish to brown in colour. Solvent extraction method
+gives good quality oil than ordinary extraction methods.
+a) Characteristics of oil:
+Odour Characteristic odd odour
+Colour Yellowish red
+Density 0.924 gm/cc
+Refractin index (at 400C) 1.434- 1.4790
+Specific gravity (at 300C) 0.925- 0.940
+Iodine value 80-96
+Saponification value 184-189
+Unsaponifiable matter 2.9
+b) Fatty Acid composition
+Palmitic Acid 3.7-7.9 % 11.65%
+Stearic Acid 2.4-8.9 % 7.50%
+Oleic Acid 44.5- 71.3% 51.59%
+Linoleic Acid 10.8-18.3% 16.64%
+Lignociric Acid 1.1-3.5% -
+Eicosanoic Acid 9.5- 12.4% 1.35%
+Aracidic Acid 2.2-4.7%
+Oudhanic Acid 4.2-5.3%
+Uses of Pongamia pinnata:
+1. Pongamia is used for aesthetic purpose in gardens and as avenue along the roads for shade and
+fragrant flowers.
+2. Dried leaves and flowers are used as manure. Bark is used in rope making. Black gum
+extracted from bark is used against wounds caused by poisonous fishes.
+3. Dried leaves act as insecticides. Leaves can be used as green manure and to control
+Nematodes. Fresh leaves also serve as fodder.
+4. Karanj oil has insecticidal property. (Bacillus anthrasis, B. pulilus, E. coli, Pseudomonas
+mangifera, Salmonella typhi, Sarsina lutea, stephylococus albus, stephylococus aurius,
+Xanthomonas campestris)
+5. Due to hard nature of the timber it can be used for making furniture and wheels of bullock
+cart. Timber also serves the purpose of fuel wood and fire wood.
+6. After extraction of oil from seed, oil cake is used as manure and it can be mixed with poultry
+feed.
+7. Oil has bitter taste and brown colour. Presence of non edible oil (27%) is used in
+manufacturing of soaps, varnishes, paints, for lighting of lamps and it also serves as the
+control of skin diseases.
+8. Juice extracted from leaves is useful in control of cough, diarrhea, indigestion, gastric, leprosy
+diseases. Roots are used for tooth cleaning and gums. Seed powder is used as remedy for fever,
+dry cough. Flowers act against diabetis while the bark is used for treatment of beri-beri.
+9. In Ayurveda, karanja ash is used for healthy tooth, to treat ear problems, chest pain, back pain.
+Oil is used for the treatment of fever, ailment for skin diseases.
+LECTURE -15
+SOCIAL FARM FORESTRY
+Wide spread loss of tree vegetation in the developing countries in the past few decades
+led to the emergence of social forestry. This approach of social forestry is to meet the problem of
+fuel scarcity, other forest products and to preserve the environment with the participation of rural
+people who would plant, tend and maintain trees by themselves.
+Social forestry was first recognized as an important component of forestry development
+and meeting the rural need in the Interim Report of the National Commission on Agriculture
+on social forestry, 1972. The commission stressed on the socioeconomic importance of social
+forestry for rural community as well as in the management of forest resources. It was felt that by
+taking up the programme of raising of trees, grasses and fodder in the farmers own lands, village
+commons, wastelands and degraded forests close to habitations, it would be possible to meet the
+requirements of fuel wood, fodder, small timber for rural housing and agricultural implements.
+Objectives of Social Farm Forestry:
+1. Create awareness among the people about tree growing and develop interest on tree growing.
+2. To supplement the production of fuel wood and small timber to meet the increasing
+requirements of local people.
+3. Development of small scale industries at village level.
+4. Fuel wood supply to the rural area and replacement of cow dung, expansion of agricultural
+crops.
+5. To grow trees in urban areas for recreational purpose.
+6. Growing of tree belt around industries in order to reduce air and sound pollution.
+7. Development of every piece of land to benefit the farmers to get high returns.
+8. To increase the land value and to grow trees to provide shelter to the people
+9. To achieve the rural development in all the ways.
+10. To supplement the timber requirement of industries by growing at social farm forestries
+11. To help the people for upliftment of the economy
+12. To supply raw material required for need based industries
+13. To bring the unutilized saline soils into agricultural lands
+14. To grow the trees in eroded soils to bring them into agricultural lands
+According to the statistics the current area under forest cover is about 75 m ha. The
+estimated area under forests is to be 33% of the total land area to balance the environment
+though the area under forests is around 22.8%.
+Reasons for forest degradation:
+1. To meet the fuel wood demand of the rural people they solely depend on forests. About 75%
+of the fuel wood is met from the forests.
+2. Grazing of animals in protected areas also a reason for degradation of forests.
+Types of Social Farm Forestry practices in different areas:
+In areas like saline, gravel, submerged and runoff, forests can be grown with proper care
+and maintenance. In such areas plant species are to be selected on soil and climate and proper
+management practices are to be followed in order to improve the fertility status of the soils.
+LECTURE -16
+VANAMAHOSTHAVAM
+Planting of trees once in a year is known as Vanamahosthavam. It has been stared in the year of
+1950 by the agricultural and food minister Sri K.V. Munshi. The main objective of this
+programme is, planting of trees in fields, private, public compounds, along the road sides, around
+the digs wherever the open land is available. Generally, this programme starts in the month of
+June –July. This programme not only meant for planting of trees particularly on that day, it
+involves the management and growth of trees. Frequent examination of officials of central
+Government provides trophy in the name of Jawahar, Rajendra, Sardar Patel,Munshi to the
+people who take up the planting, best village, District, organization and University to promote
+the tree plantations.
+Main objectives:
+1. To achieve the environmental / ecological balance by extending the area under tree planting
+2. Fuel wood, fodder and wood for agricultural implements etc. and planting of trees for the
+small based timber products
+3. Employment generation during the offseason
+4. Control of soil erosion by planting of trees
+5. Development of deteriorated lands by planting of trees
+6. Production of food and other small scale forest based products for rising the socio-econoical
+level of the rural people
+Planting of trees:
+At first, thorny shrubs, weeds, stubbles should be removed ploughing can be done as per
+need in the selected land for planting. Pits of 30 x 30 x 45 cm are to dugged during the months of
+May – June and the number of pits per acre may depend on the species to be planted.
+Spacing between pits is to be 2-4 m from all the sides. 4 kg farm yard manure, ½ kg neem cake,
+50 g DAP, 50 g 3% Lindane powder and required quantity of black soil is application for each
+pit. Thereafter planting can be taken up during June-July months.
+Management of social forests:
+Manures: After the onset of monsoon, 100 g of DAP should be applied twice, one during the
+month of July and the second application during the month of December. The same application
+dosage is continued till two years.
+Water management: after planting, if the dry situation prevails for 2-3 weeks watering
+should be given to each plant by any one of the method. During summer months, for every 15-20
+intervals watering is to be given for 7-8 times depends on the requirement.
+Weed management: Regular weeding operations are to be carried out for better growth of the
+plants.
+Trimming /cutting of branches: Removal of side branches is to be done to allow the upright
+growth of the plants.
+Moisture conservation methods: Majority of the forests grown in light and less fertile soils
+which have less moisture holding capacity. Due to this, it is necessary to conserve the moisture.
+Paddy husk, jalashakti chemical or earthen pots are different moisture conserving materials
+which are available at cheaper cost. Earthen pots which releases the water drop by drop
+conserves more moisture for longer period.
+Paddy husk is applied at 8 cm thickness at the base of the plants helps in the conservation
+of moisture for longer time. For every three weeks watering is given to the plants when husk is
+used for moisture conservation. To avoid the husk from termites 50 g 3% lindane powder is
+applied at the basins. Husk not only conserves the moisture, also helps in the checking of weed
+growth and it serves as organic manure by decomposition process.
+LECTURE -17
+ENERGY PLANTATIONS
+These include high technology electricity from nuclear fuels to rurally available Energy
+continues and will continue to play a vital role in the world’s economic development. India like
+many developing countries, consumes energy in a variety of biological products like fuel wood,
+agricultural residues and animal dung. The available fuels come into two classes, coal, oil and
+electricity constitute commercial sources, while fuel wood, agricultural residues and animal dung
+are non- commercial sources of energy. Natural energy forms i.e. forest and trees have supplies
+fuel wood to produce light, heat energy since the dawn of civilization. Few decades ago, wood
+was the main source of energy both for domestic and industrial uses all over the world. The oil
+crisis and rapid depletion of fossil fuels have focused on the need to develop and better manage
+the sources of energy. M.S. Swaminathan has approached in the introduction to the report of the
+fuel wood study committee, 1982 of the planning commission has pointed out, India is
+bestowed with abundant sunlight which provides enormous opportunities for harnessing this
+energy through the photosynthetic pathway of biomass production. Biomass being a renewable
+organic matter a product of biological conversion of solar energy is likely to play a strategic role
+in the future in view of the particular attention being given to plantations as a dependable
+renewable source. The sixth five year plan outlined a detailed strategy for self reliance in the
+energy sector. The plan had made a special provision for the establishment of energy plantation
+and emphasis has given to harnessing the sources of energy to meet the energy requirement of
+rural communities.
+An energy plantation is one that is grown purely for plant material for their fuel value
+than for fibre content. For efficient utilization of solar light for biomass production it is important
+to select choice of species and planting site. This concept is based on the principle that yield of
+dry matter of certain fast growing species of forest is independent of spacing. In energy
+plantations it is necessary to select fast growing plants with very close spacing of less than one
+meter and short rotations of 3 to 4 years. Energy plantations can be taken up in open places with
+annual, perennial trees or with shrubs for year round. The biomass obtained from these plants
+can directly be used as fuel. The available alternatives for securing land for energy plantations,
+diversion of agricultural land in the food surplus areas for energy plantations, diverting marginal
+and wastelands, planting on boundaries of agricultural holdings, community lands, roadsides,
+canal banks and sides of railway lines. These energy plantations will serve as alternative source
+to meet the fuel wood demand of rural people.
+Selection of village and place: before taking up the energy plantations it is necessary to select the
+right place and the size i.e. quantity of the plantation.
+The choice of place depends on household needs, soil characters and market demands.
+These can plant in marginal and wastelands. If these are used as wind breaks, selection of site
+depends on the protection to be provided for buildings, lands, orchards, grasslands.
+The size of the plantation varies from small to large and it also depends on the size of the
+land. Generally, the size of the plantation is to 1/3 rd of the total land available.
+Properties of fuel wood:
+1. The value of a wood as fuel depends mainly on its combustibility (i.e. regardless with
+which it catches fire and having caught fire, continues to burn until only the ash remains).
+2. Heating power or calorific value (calorific value is the quantity of heat emitted by a given
+weight of wood during the process of combustion).
+3. The overall efficiency of wood utilization depends upon the moisture content of the fuel.
+Freshly cut wood contains about 23-25% moisture. About 8-9% moisture is just
+enough for domestic wood burning stoves.
+4. The heartwood possess high heat value than the sapwood as it contains greater
+concentration of organic substances such as tannins, salts etc.. that enhances the heat
+value.
+5. Hardwoods are better fuel woods than soft woods, as the former gives out more lasting
+and uniform heat and are therefore preferred for domestic use.
+6. Freedom from smoke, crackling and sparking, ease and completeness of combustion,
+rapidity of burning etc. must also be considered for selection of species for fuel wood
+plantations.
+LECTURE 18
+FARM FORESTRY- DEFINITION, SCOPE- COMMERCIAL AND NON
+COMMERCIAL FARM FORESTRY
+Farm Forestry can be defined as growing trees on farm lands for commercial, purposes
+like timber production or variety of non commercial purposes like ground water control, soil
+erosion control, etc.
+Objectives of Farm Forestry:
+1. To meet the demand of organic fertilizers
+2. Increase of productivity through balanced fertilizer use and Reduction of soil erosion
+3. To meet fodder demand and wood for preparation of small agricultural implements
+4. To protect the crop from dry winds and reduction of extremities of weather conditions
+5. Increase of ground water table
+6. Reduction of Soil erosion
+7. Use of FYM to improve soil fertility status
+Advantages of Farm Forestry:
+1. Production of quality timber products
+2. Increases farm income
+3. Environmental benefit
+4. Promotes afforestation
+5. Supports community development
+Farm Forestry- Principles for the Success:
+1. Selection trees which are deciduous, erect growing, with small canopy otherwise Kharif
+grown plants will not grow satisfactorily
+2. Use implements to cut the roots which otherwise will compete with the crop plants
+3. Grow the trees with large canopy and fruit trees around wells, tanks, farm buildings and
+human habitats
+4. Take up timely sprayings to control pests and diseases
+5. Grow small canopy trees in saline affected areas which prevent the bird habitat
+Selection of Tree species suitable for Farm Forestry:
+1. Fast growth
+2. Good timber quality
+3. High calorific value
+4. Easy method of Propagation
+5. Less cost of management for the production
+6. Easy availability of seed
+7. Permit the adoption of new technology
+Eg. Acacia sp., Albizzia lebek, Azadirachta indica, Cassia siame, Casuarina equisitifolia,
+Dalbergia sisoo, Eucalyptus globules, Zizypus Spp.
+Types of Farm Forestry:
+1. Commercial farm Forestry: Areas near to the market area will be selected and the
+Farmers grow the trees on a commercial scale. These are near to road ways, rail ways and
+water ways. The type has the following characteristics
+a. Finance viability: Cost of production include labour cost, input and material cost and
+management practices involved in rising the tress while, Returns include growth rate
+of trees and yield. These farmers have better management ability to have have better
+returns which is an indication of finance viability.
+b. Input levels: Progressive farmers get the better returns by way of :
+i. Taking up Forestry in fertile soils
+ii. Timely supply of water and irrigation
+iii. Demand based utility of labour force
+iv. Sale during the time which fetches better market price
+2. Non Commercial farm Forestry:
+These areas are far away from the market. These will be taken up where there are too
+high or too low temperatures. Small and marginal farmers can not afford to have high
+input levels. However, they go for low input levels.
+i. Farmers look for other enterprises and do not grow trees in fertile areas
+ii. Soils with poor fertility will be utilised for growing trees
+iii. Farmers can not wait for longer periods to reap the harvest
+iv. Due to high risk in commercial farm forestry, these farmers will not come forward
+to take up the risk.
+LECTURE -19
+WIND BREAKS AND SHELTER BELTS- IMPORTANT POINTS- TYPE OF
+PLANTING- ADVANTAGES
+The term wind break refers to one or two rows of protective planting of trees whereas
+shelterbelts is a line of trees or shrubs planted to protect an area, especially a field of crops from
+fierce weather.
+Importance of Wind Breaks and Shelter Belts:
+Windbreaks form efficient soil protection against wind erosion particularly at the time
+when soil cover is not protected by the cultivated plant vegetation cover. Strong winds may
+cause 70% to 100% of a crop to be lost or damaged. Windbreaks may reduce wind speed by 60
+to 80%. Other benefits include the generation of a favourable microclimate for plant
+development and reduction of wind erosion. As a result of scarce vegetation cover that can alter
+the movement of wind, dry land areas are predominantly windy.
+Shelter belts established for the purpose 1) to deflect air currents 2) to reduce the
+velocity of winds 3) to provide general protection to the leeward areas against the effects of wind
+erosion 4) to protect the leeward areas from desiccating effects of hot wind.
+Generally in our country the windbreaks are planted in North – South direction to meet the
+wind forces from Southwest and Northeast.
+Properly designed shelterbelts have shown the effect over a distance of 40 times the
+height of the windbreak. There are two zones in a shelterbelt 1) a triangular quiet zone starting
+from to of the windbreak and extending near to the ground level of a distance of 8 h (i.e. 8 times
+the height of the windbreak), where the turbulence velocity fluctuations of wind are reduced and
+below the values of approach flow. 2) above and downwind of the quiet zone is a wake zone
+where the turbulent fluctuations are greater than those in approach flow.
+The degree of protection offered by a windbreak depends upon the orientation, height,
+density, species composition and spacing of the windbreak.
+1) Orientation: To achieve maximum effectiveness, windbreaks should be oriented as close to
+perpendicular (90 degrees) to the prevailing or problem winds as possible. To allow for changes
+in wind direction windbreaks are often planted I multiple directions such as L, U or E shapes.
+2) Height: A windbreak protects a distance from 2 to 10 times it’s height. So a 5 m high
+windbreak would protect a distance up to 50 meters away. The best windbreaks are multi-layered
+comprising various trees to block wind at multiple heights.
+3) Density: The density of a windbreak determines how effective it is at reducing the speed of
+the wind. Moderately dense windbreaks significantly reduce the wind velocities (50-60%).
+Windbreaks with lower densities are generally ineffective for most crop protection purposes. The
+moderately dense windbreaks do not cause, as much downwind turbulence as dense windbreaks,
+hence they are more effective.
+4) Species selection: The most desirable plants for a variety of field windbreaks are those that
+have a density of about 50-80% in single row planting. Their spread not exceeding 3 m and
+should and should have a potential height of 5-30 m. Tall, narrow crowned species usually
+provided the greatest benefit for the amount of land taken out of production. Casuarina,
+Eucalyptus, Sesbania, Parkinsonia aculeate are highly suitable wind breaks.
+5) Spacing: In general, within the row spacing is 1 - 2.5 m for shrubs, 1.5 – 2.5 m for small
+trees, 2 – 6 m for medium to tall trees. Normally the spacing between the rows varies from 2-6
+m.
+Characteristics of tree species suitable for wind breaks
+1. Resistance to drought.
+2. Resistance to frost and wind throw i.e., should be deep rooted.
+3. Tolerance to temperature extremes.
+4. Easy to establish and long lived.
+5. Fast growing with tall uniform shape.
+6. Resistance to pests and diseases.
+7. Should not serve as alternate host for fungi, insects and other pests.
+Advantages of windbreaks and shelterbelts:
+1. Shelterbelts have influence on agricultural crops by preventing soil erosion and by modifying
+microclimate of the fields. Changes in air temperature and soil temperature are moderate.
+2. They reduce wind velocity and consequent movement of the sand and soil is arrested.
+3. At higher wind velocities, the activity of stomatal apparatus tends to be decreased, the belts
+create more favorable conditions for the plant growth in the sheltered area.
+4. They slow down the wind and conserve precipitation.
+5. Dewfall in sheltered areas has been found to be 200% greater than on exposed ground.
+6. The increase in soil moisture content on the protected areas varied from 0.3 to 7.8%.
+7. Shelterbelts also protect the cattle from the ill effects of hot and cold winds.
+8. Shelterbelts can protect orchards as they reduce wind damage to flower and fruits.
+9. Shelterbelts supply fuel and also increase the bird population, which kills the pests.
+10. Fruit production is enhanced in the leeward side of windbreaks and shelterbelts.
+LECTURE -20
+AGROFORESTRY- DEFINITION- TYPES- ADVANTAGES
+Agroforestry is a sustainable land management system which increases the overall yield
+of the land, combines the production of crops (including tree crops) and forest plants and /or
+animals simultaneously or sequentially on the same unit of land and applies management
+practices that are compatible with the cultural practices of the local population (King & Chander,
+1978).
+Thus agro-forestry system is an integrated system in which the cultivator works in a tree-
+crop-livestock system. It is symbiosis of tree growing, crop production and livestock raising
+none of the practices being detrimental to any other, but in fact often being complementary and
+beneficial to each other. It is a form of multiple land use for maximization of production for the
+diverse requirements of rural communities.
+Need of Agro-forestry:
+Agro-forestry is a multiple and intensive land use both for the forest areas and
+agricultural lands. Planting trees on agricultural fields have the usual benefits by reduction of soil
+erosion, run-off and floods and moisture conservation which in turn has benefits for crop
+production.
+The productivity of soils is also improved through recycling of nutrients by leaf –litter.
+The nutrient status of the soil is improved or kept in a balanced state as the trees and agri-crops
+have different demands of nutrients both in space and time.
+Important benefits to farm community will be release of cow dung for the agricultural
+land with the increased availability of fuel wood by agro-forestry techniques. The cattle will get
+fodder, in all seasons, thereby increasing milk yield of milch cattle and motive power of drought
+animals.
+Agro-forestry will also provide additional employment opportunities and result in
+increased source of income.
+Agro-forestry systems are sustainable in drought prone areas where small and marginal
+farmers are unable to increase their income. During drought years, when grain yield reduces to a
+minimum, especially under rainfed conditions, trees in the field generate produce for sustenance
+of the farmer and his cattle.
+Different agro-forestry methods: Agro-forestry methods are categorized based on temporal
+arrangement of crops, based on physical structure, based on components.
+I. Based on temporal arrangement of crops: On the basis of crop rotation systems it is again
+classified as two types. This system includes all agro-forestry systems/ types where annual food
+or cash crops are alternated with tree crops over time. The two types under this are:
+a. Shifting cultivation: Practice of shifting cultivation is said to be as old as agriculture itself
+(Mayer, 1980), when man changed from the food gathering to food production habits. The
+practice consist in clearing of forests, setting fire to the felled material after it becomes dry and
+raising agricultural crops for one or more years, followed by a fallow period (8-10 years).
+Meanwhile, forest trees are rejuvenating the soil and get it ready for the next cycle of burning
+and cropping. Continued soil fertility depends on the return of vegetative detritus to the surface
+and the assimilation of the litter breakdown products by the soil. In the past, this cultivation
+system was well adapted to environment under certain socio-economic conditions of the tribal
+people. However, with the increase of population and diminishing carrying capacity of forest
+lands this use has lost its relevance and become a menace.
+B. Taungya system: Taungya system is the modification of the shifting cultivation in which
+trees are grown in conjunction with agricultural crops. It differs slightly from shifting cultivation
+regarding, i) there is a temporary overlap between the crops ii) trees in crops during the follow
+consists of systematically spaced and selected tree species under taungya system.
+This system was first evolved in Burma in 1980 and this first modern agro-forestry
+practice. The main aim of this system is afforestation of open lands with a low cost governmental
+approach. Farmers are temporarily allotted government lands and contracted to plant desired tree
+species while the trees are young and before the canopy closure (1-3 years) or shade becomes too
+dense. The farmers are allowed to plant food crops the yield of which becomes their entirely and
+is regarded as their compensation for planting trees. When food crop is no longer possible due to
+shading, the farmers are transferred to another open area where they repeat the process. A large
+variety of crops and trees depending on the soil and climatic conditions are grown. Meanwhile
+the abandoned area is by then a well established forest and will not be cultivated for annual food
+crop again until the planted area reaches the maturity and is harvested.
+II. Based on Physical Structure/Inter-Cropping: Inter cropping is of four types
+A. Border Tree Plantations: planting trees along the border of a crop (plot) is known as border
+tree plantations. This border trees act as fence, protects the crop from wind and fire hazards.
+Additionally these trees produce green manure as organic matter, fodder for farm animals and
+produce fire wood.
+B. Alternate strip or Alternate row planting: each strip consists of two or more rows and is
+known as Alley cropping or Avenue Corridor Zonal Cropping or Hedge row cropping. When
+positioned across the slopes and along the contours they are found most effective for erosion
+control and slope stabilization. Most modern agroforestry system being advance through
+government programmes are of these two sub systems and the multiple objectives are food,
+fodder production and site stabilization.
+They are more favored agroforestry system because the rows act as contour hedge rows which
+help in stabilization and conserve soil on slopes and act as terracing. They are easy and less
+laborious to undertake. If the trees planted are nitrogen fixing and are able to generate by
+coppicing they would serve as a steady source of organic manure to rehabilitate degraded sites.
+C. Random mix: this method does not follow any specific or orderly placement of the
+component crops while the arrangement appears in utter confusion, the plants actually their own
+special ecological nich and are able to coexist very well. For badly eroded and depleted soils
+random mix may not be as effective as alley cropping.
+D. Multi storied cropping: growing plants of different height in the same field at same time is
+termed as multistoried cropping. It is mostly practiced in orchards and plantation crops for
+maximum use of solar energy even under high planting density. It is the practice of different
+crops of varying height, rooting pattern and duration to cultivate together. The objective of this
+system of cropping is to utilize the vertical space more effectively and efficient utilization of soil
+surface, nutrients, moisture and solar energy. In this system, the tallest components have foliage
+of strong light and high evaporative demand and shorter components with foliage requiring
+shade or relatively high humidity. This system is mostly practiced in Kerala.
+Eg. Coconut + black pepper + cocoa + pineapple
+III. Based on components:
+a. Agri-silviculture: this system is the integration of forestry trees with arable crops mostly on
+the arable lands to get both food and wood. Mostly nitrogen fixing trees are intercropped with
+arable crops which not only provide rich organic matter and atmospheric nitrogen but also
+improve the soil structure. Nitrogen fixing trees offer immense possibility of supplementing the
+nitrogen requirements of crops through leaf fall loppings or green leaf manuring.
+b. Alley cropping: it is a type of agri-silviculture system where food crops are grown in alley
+formed by hedge rows of trees or shrubs. The space between two hedge rows of trees is called
+“Alley”. Here hedge rows are cut back and kept pruned during cropping to prevent shading to
+reduce the competition with food crops. This system is mostly suitable for arable lands especially
+for marginal and sub marginal lands of arid regions.
+Advantages: 1. It provides higher total biomass per unit area than arable crops alone.
+2. It provides green fodder during lean period.
+3. It utilizes the off season precipitation which otherwise would go waste.
+4. Reduces soil temperature and provides favourable conditions for soil macro and micro
+organisms.
+c. Agri-Horticulture System: it is a system of integration of fruit trees with food crops. It is also
+known as food fruit system in which short duration arable crops are grown in inter spaces of fruit
+trees. Most of the fruit trees develop full canopy after several years and some of them required
+regular pruning thus permitting an intercrop. Intercropping provides weed free area and yield
+obtained will be a bonus to the farmers.
+Eg. Growing legume vegetables in between the rows of short duration fruit crops like Ber Guava,
+Pomegranate and Custard apple.
+It is not advisable to grow food crops in between the fruit crops.
+d. Silvipastoral System: this system is suitable for class IV and above lands. It is comprised of
+growing forest trees along with the fodder crops and this system essentially integrates top-feed
+tree species with ground storey forage crops to support livestock and to prevent land degradation.
+This system is essentially suitable for fodder scarcity areas.
+e. Horti Pastoral System: It is a two tier model for fruit-cum-fodder based agroforestry system
+which integrates fruit trees with grasses/pasture species. Slow growing and lateral bearing fruit
+tree species like Tamarind, Jamun, Aonla, Bael, Cashew, Wood apple are highly suitable. This
+system works best in medium soils.
+f. TIMFIB (Timber-cum-Fibre System): this is one of the agroforestry systems most suitable
+for degraded soils. It involves integration of some timber yielding tree species with fiber yielding
+plants. It was proved more remunerative than arable cropping. In Bijapur dry farming research
+station, Karnataka intercropping of subabul with Agave is found to be beneficial than arable
+farming.
+g. Agri-Silvipastoral system: as the term suggests, this system incorporates agriculture, forest
+and fruit trees. The trees, both fruit and forest, may be planted in rows with intercropping of
+agricultural crops including pulses, cereals and vegetables. In areas, where high winds blow, tall
+trees may be planted to serve as windbreaks and shelterbelts around the horticulture plantation.
+Eg. In European countries, coniferous growing of Panicum grass under coniferous trees like
+Larches, Alnus
+Disadvantages of Agroforestry systems:
+The following are certain disadvantages encountered in Agroforestry systems along with many
+advantages.
+1. Profile seedling habit of Subabul resulting in weedy growth depresses the yield of arable
+crops.
+2. In cultivated soils, trees occupy a larger area even up to 20 m in case of Acacia nilotica
+which gives shade effect on cultivable crops.
+3. In long run some trees may serve as host for pests and diseases.
+4. Allelopathic effect of trees in crops Eg. Eucalyptus spp.
+5. Agroforestry systems are labour intensive and reduce the scope of farm mechanization.
+Benefits of Agroforestry:
+1. Multiple needs: it yields extended range of products viz., food, fodder, fuel, fibre,
+manure, fruits, fence etc. presence of trees gives extended range of management options
+and trees can be harvested as per farmers choice and market demands.
+2. Soil and water conservation: trees stabilize the soil conservation structures and make
+productive use of land. Act as vegetative barrier and check run off. Reduce rain drop
+impact and control soil loss. Trees utilize off season precipitation. Serves as a shelter belt
+and reduce wind velocity.
+3. Nutrient recycling: trees recycle the nutrients both from atmosphere and lower soil
+layers. In situ green leaf manuring through leaf drop. Trees check the increase in soil
+temperature especially in summer months there by protect the soil microflora and fauna.
+4. Employment generation: utilization of family labour during off season. Agroforestry
+helps in provision of assured income to the labourers throughout the year and also
+prevents the labour migration.
+5. Drought Proofing: it stabilizes the income even in risk conditions even one component
+fails the other would give a harvest results in improved and stable income.
+6. Bioaesthetic: besides conserving the ecosystem, it beautifies the country side which
+provides recreation and increase aesthetic value.
+LECTURE -21
+TIMBER BASED FOREST PRODUCTS- GOOD QUALITY TIMBER
+Industrial plantations have come to be recognized as an essential part of Indian forestry in
+the recent part to meet the growing needs of the industry with the rising population and the living
+standards of people. The important among the forest based products are classified as Timber
+based forest products and Non -Timber based forest products. Timber based forest products are
+pulp and paper, veneer, plywood, particle boards and fibre boards, sawmilling, plywood
+including blackboards and flush doors. Apart from these, tans and dyes, gums and resins, tendu
+leaves, honey, lac and silk and medicines and drugs are comes under the category of Non -
+Timber based forest products.
+Characteristic of good quality timber:
+1. Hardness
+2. Strength
+3. Elasticity
+4. Specific gravity
+5. Toughness
+6. Colour
+7. Anatomical structure
+8. Flexibility
+9. Durability
+10. Adaptability to working with tools, machines
+Paper and pulpwood: Paper is the most essential commodity in the civilized world today. In
+paper industry, wood represents about 30 to 50 % of the total production cost. The conventional
+source of cellulose fibres for paper has been softwoods (pine, spruce, fir etc.) and hardwoods
+(Shorea robusta, Madhica latifolia, Casuarina equisetifoila, Boswellia serrata). Conversion of
+raw material into paper involves a number of steps. The first important step is to achieve
+separation of cellulose fibres, which in turn are converted into paper mat. In chemical separation
+of cellulose fibres, over 50 percent material goes into solution. This spent liquor contains
+uncooked chemicals and organic matter which is mainly lignin. In an integerated mill this spent
+liquor is processed to recover cooking chemicals and heat, on which is based the entire
+economics of the process. The pulp is processed to run on a paper machine for conversion into
+paper. The physical strength of paper and runnability depends upon the fibre characteristics. It
+therefore, can be seen that the properties of raw material both physical and chemical, have basic
+bearing on end product quality and overall processing. Uniformity of raw material is a very
+important aspect for pulp production. For these, Eucalyptus and poplars are the most promising
+raw materials for pulp and paper manufacture because of their astonishing growth. Other suitable
+species are Casuarina, Bamboo
+For paper and pulpwood plantations, the fitness of the species from technological point of
+view is highly essential. Technological properties like consistency, handling, chemical
+properties, fibre properties, processing qualities and rate of return.
+Match sticks: Matchwood industry is one of the oldest wood based industries in India. The
+principal raw materials required for the manufacture of safety matches are wood, red
+phosphorous, sulphur, potassium chlorate and match paper. Main characteristics of a match
+log are that is should be round, soft and straight grained, light in weight, free from knots and
+cracks. Eg. Bombax Ceiba is the most favourable matchwood species. Other suitable species are
+Ailanthus melabarica, Evodia roxburghiana
+Playing Toys: For manufacturing of toys the wood should be smooth, white in nature. Eg. Salix
+alba, Morus alba
+Packing cases: Wooden packaging is preferred for fresh fruits, machinery, plate glass and
+precision instruments etc. the primary requirements for wood packing cases are lightness
+combined To store fruits, glass vessels and other packing items, wooden made packing cases are
+used. For manufacturing of packing case the wood should be light in weight (400 kg/cm3),
+strength, nailing and screw holding power. Eg. Spruce
+Pit props: Pit prop is a length of lumber used to prop up the roofs of tunnels in coal mines. Pit
+props are generally used in the round form in lengths of 1.8 to 3.6 m. The wood has to have long
+durability, resistant to pressure and gravity. Eg. Tectona grandis, Shorea robusta, Acacia
+nilotica, Diospyros melanoxylon
+Railway coaches: Railway coach building is an important timber utilizing industry. For these,
+the wood should be strong but not very heavy. Tectona grandis, Pterocarpus dalbergioides,
+Dalbergia latifolia, Pterocarpus marsupium are the main timber used for railway coaches. For
+accessories of different nature, Cedrus deodara, Lagestroemia lanceolata, Calophyllum elatum,
+Dalbergia sissoo etc ., are suitable.
+LECTURE -22
+MINOR FOREST PRODUCTS- TENDU LEAVES, LAC, NATURAL COLOURS,
+OILS, KATHA AND CUTCH- TANNINS- INCENSE PRODUCTS
+Non -Timber based/ minor forest products have been mentioned below.
+1. Tendu Leaves: Tendu (Diospyros melanoxylon) leaves are of great commercial importance in
+India and are used as wrappers of tobacco to produce bidi. Coppice shoots and root suckers of
+the tree produce good quality leaves and hence pollarding and pruning are practiced in certain
+parts of the country. Pollarding should be done in March while plucking starts about the middle
+of the April and continues up to the end of May, with onset of monsoon, collection of leaves
+stops because of difficult in drying.
+2 Katha and Cutch: Katha and cutch are produced from the heart wood of khair (Acacia
+catechu) trees. Katha is a pale brown product rich in ‘catechin’. It is used in pan (betal leaf),
+cutch is a dark brown product obtained from bark of tree rich in ‘catechu’ tannic essence has
+preservative properties and is used for dyeing canvass, fishing nets mail bags and sail clothes and
+also used as a boiler compound and in drilling operations. Maximums yields of Katha are
+obtained from the trees felled in autumn and winter. The yields from freshly felled trees is
+higher.
+3 Resins: Resins may be grouped into 1) Pine-resins 2) Resins from broad leaved tree species. A
+very important pine resin is obtained from tapping chirpine (Pinus roxburghii and blue pine
+(pinus wallichiana) trees occurring in Himalayan forests. It is an important forestry industry.
+Pine trees are regularly tapped making blazes which are freshened every week and over a period
+of 8 or 9 months the resin being collected in earthen or tine pots fixed at the bottom of the
+channels on the tree. The important products of resin obtained by distillation are ‘Rosin’ about
+80% and ‘turpentine’ about 17%. Rosin is used in the manufacture of paper and other
+derivatives. Turpentine is used in a large no. of chemical industries like ester, gum, rubber,
+emulsifiers, camphor, varnish, phenyl etc.
+The Resin from broad leaved species are called ‘daminers’ through true dammar comes
+from a coniferous tree not found in India. They are obtained from Hopea odorat, Shorea robusta
+and Indian coral tree and used for varnish, caulking boats and ships for burning as incense and in
+medicine.
+4 Edible fruits: Forests supply large no. of edible fruits which occur naturally and are being
+increasingly cultivated in forest areas now. Among the important of these is Tamarind, Ber,
+Cashew, Aonla, Wood apple, Custard apple, Jamun, Chiranji and Jack fruit etc. Mahua is also
+important for its flowers.
+5. Incense Products: Obtained from a tall evergreen tree of eastern Himalaya Assam, Eastern
+Bengal etc. It furnishes the eagle wood or agarwood of commerce occurring in the form of dark
+coloured resinous fragrant masses in the centre of bole these are used for burning as incense
+while the light coloured wood in which the masses are embedded is distilled into on oil called
+agar attar. Which is used as a perfume. The eagle wood is obtained from ‘Aquilaria agallocha’
+(Eagle wood or Agar). Similarly Benzoin, a balsamic resin is obtained from incisions of bark of
+tree Styrax benzoin (Dryander) is a tree of Malay Peninsula which is used medicinally and in the
+preparation of incense wood powder.
+6. Bamboos: Bamboo is called the poor man’s timber. India has rich bamboo resources. The
+most valuable and universally used species i.e., Dendrocalamus strictus a comparatively small,
+solid or hallow bamboo found all over India. Other common species are Bamboosa arundinecea,
+B. nutens, B. tilda, Ochlandra ebracteatea O. Seriptoria, etc.
+The strength of bamboo culms, their straightness, lightness combined with hardness
+range in size abundance, easy propagation and short period in which they attain maturity make
+them suitable for a variety of purposes including house mats, scaffoldings ladders, bridges,
+fences, sticks, tools handles, toys, sports goods, furniture, musical instruments and in paper
+manufacture.
+7. Oil seeds: The forest oil seeds can make a sizeable contribution in meeting the vegetable oil
+demands of the country. The important oilseeds of forest origin are Mahua (Madhuca latifolia),
+Sal (Shorea robusta), Karanj (Pongamia pinnata), neem (Azadirechta indica) Kusum
+(Schleichera olesa), Dhupa (Vateria indica) Palu (Salvodara oleoides) and Kokam (Garcinia
+indica). These trees occur both in the forests and on village lands road sides. Sal is a very
+important forest tree occurring gregariously. The sal seed (Kernal) has an oil content of about
+12.5%. The oil extracted from the sal seed is now acceptable in the soap industry and it’s de-
+oiled meal is used as a cattle or poultry feed. Sal oil is a substitute for cocoa butter in making
+chocolate which is used for export for this purpose and thus assumed great importance. Oils
+produced from most of the seeds referred to above are sued in various industries particularly in
+soap industry.
+8. Essential Oils: Among the important essential oils is the Indian sandal wood. This oil is
+obtained by distillation of heartwood of sandal and evergreen parasitic tree. Besides sandal wood
+oil the other essential oils of forest origin are lemon grass Palmarosa grass and Eucalyptus oils.
+The oils from these grasses and E. globulus are extracted by distillation and in Eucalyptus the
+leaves are suctioned. Oil is also produced from the leaves of E citriodora where the species is
+pollarded annually and maintained as bush. There is a good future of Linaloo (Bursera
+penicillata) tree, extracted from heart wood by distillation (Karnataka state).
+9. Tans and Dyes: The important tanning materials are the myrabolans nut obtained form Harra
+(Terminalia chebula) and bahara (T.bellirica). Among these the first one is most important
+(Harra) which is large deciduous tree mostly found in the states of M.P. The best time of
+collection of harra fruits from the point of tannin content in January fruits collected later or
+earlier being considered inferior. The average tanning content of a good commercial sample is
+32%.
+Dyes: The well know Kamala powder obtained from the fruit glands of Mallotus spp. a small
+tree found all over India is extensively collected and yields a red dye. The pulp of seeds of Bixa
+orellana yields Ornatto dye of commerce with which silks are dyed yellow and red. Native series
+and clothes are often dyed with the flower of palas or Dhak tree. The yellow dye obtained from
+the flowers of Cedrela toona is also used for this purpose.
+10. Gums: Certain valuable gums are extracted in India’s forests which ooze out from the trees
+either naturally or on making artificial incision known as exudates gums. Technically the term
+refers to plant ‘polysaccharides’ or their derivatives which are dispersible either in cold or hot
+water to produce viscous mixtures or solutions. All gums are not soluble in water. Some of them
+merely swell up in water and form a sort of gel while other are completely soluble. The
+important Indian gums are Malabar Kino (Pterocarpus spp), Bengal Kino (Butea monosperma)
+Ghatti (Anogeisus spp) and gum Arabic from babul tree (Acacia nilotica). True gum Arabic is
+obtained from Acacia Sonegal in which Sudan has world monopoly. The most important of all
+the Indian gums is however gum Karaya obtained from Sterculia urens and S.villosa both trees
+of dry deciduous forests. Gum karaya is important for pharmaceutical industries both industries
+consumption and for export. Generally trees of about 90 cm. girth or more in girth are tapped.
+Rectangular blazes 10 x 15 cm are prescribed which are freshened upwards at fortnightly
+intervals extending by 4 cm. with each freshening.
+11. Lac: Lac is the resinous protective secretion of the tiny lac insect Laccifer lacca. The
+ministered coloured larvae of the insect settle on young shoots of the host plants in myriads. The
+secretions from the individual insects. Coalesce and form a hard continuous encrustation over the
+twigs. After the completion of life cycle and just about the time the adults of the next generation
+begin to emerge the resinous encrustation is scrapped from the twigs and branches of host trees
+giving what is called sticklac. Shollac is obtained by either melting or extracting the resins by
+solvents from seedling. Lac finds a wide variety of application in plastics electrical adhesives
+leather and wood finishing printing ink and other industries. It is also the principal ingredient of
+sealing wax. There are well over 100 species of plant on which the insect has been recorded but
+the major hosts are Palas or Dhak and Ber (Zizyphus spp) in the case of Rangeen strain and
+Kusum in the case of Kusum strain.
+12. Fibers: From the leaves of sago palm or Bustard sago Caryota urens is obtained the Kittal
+fibre of commerce. This palm is found growing scattered in the moist forests of Assam, Orissa,
+East Bengal, etc. The fiber is of considerable value being strong and lengthy. It is used by
+fishermen in preparing nets fishing lines for bristles of cloth and sari and in rope making. There
+are several species of well known Agave (Sisal) plant yielding Sisal fiber is also important.
+LECTURE 23
+IMPORTANCE OF MEDICINAL AND AROMATIC PLANTS
+Medicinal plants: The plants in which any one of the organs or whole plant has pharmaceutical
+or Chemo Pharmaceutical utilities will be considered as Medicinal plants. These plants have the
+rich sources of ingredients for drug development and synthesis. It has been estimated that around
+13,000 plant species have the medicinal values. The plants have the ability to neutralize or
+eliminate negative effects caused by various factors thus have the potential roles as synergistic
+medicine. These also have ability to support the official medicines for the treatment of cancer.
+The plants also have the ability prevent the appearance of the diseases.
+Uses of Medicinal plants:
+1. Used as Diuretics: Mono or poly herbal preparations have been used as Diuretics. Eg.
+Mangifera indica, Mimosa pudica.etc.
+2. Spermicidal activity: Root extracts of Achyranthes aspera have the Spermicidal activity
+in human and Rats.
+3. Anti inflammatory activity: Due to the inhibitory effect on NO production and other
+scavenging activity of ROS the plants have the anti inflammatory effect.
+Eg. Moringa olifera, Momordica, Curcuma longa, etc.
+It is well known that most allopathic medicines produce many morbid side-effects. It is
+for this reason that more and more people in the western societies are showing increasing interest
+and preference for organic drugs and their preparations. Cultivation of medicinal plants offers
+considerable scope for rural employment and export for foreign-ex-change earnings. India is
+already a major exporter of medicinal plants. It is estimated that rupees 86 crores worth of raw
+materials and drugs from medicinal plants are exported from India.
+Aromatic plants: The plants which possess odorous volatile substances like essential oil, gum
+exudates, balsam and Oleoresin are known as Aromatic plants. It is estimated that world
+production of essential oil varies from 40,000 to 60,000 ton per year. Around 1500 Aromatic
+plant species serve as raw material for perfume industry.
+Uses of aromatic crops:
+1. In food and flavour industry – spices and condiments
+2. In perfumery, soap, cosmetics and ice-creams, aerated waters disinfectants, tobacco,
+Agarbattis, etc.
+3. Pharmaceutical and drug industries.
+4. To manufacture pesticides, disinfectants due to antifungal, antiseptic and insecticidal
+properties.
+5. In pain industry – as solvents.
+6. Distilled wastes are used in manufacture of card boards, cheap paper, packing material.
+LECTURE -24
+ASHWAGANDHA
+Scientific Name: Withania somnifera
+Family: Solanaceae
+Common Name: Ashwagandha, Penneru gaddalu
+Ashwagandha is an important medicinal crop of India. Due to the presence of several types of
+alkaloids it is used as important source of drug in ancient Ayurvedic literature. Its roots contain
+the alkaloid ‘Withanine A’ and ‘Withanine B’ and Somniferine have the potential use in
+many ayurvedic and unani preparations.
+Uses:
+• Green berries are the rich source of amino acids. Fruits and seeds are diuretic in nature.
+• Leaves are reported to possess anti helmenthic and febrifuge properties. An infusion of
+leaves is given for fevers. For the treatment of piles, a decoction of the leaves is used
+both internally and externally.
+• Roots have the property of antibiotic and antitumor. Roots are mostly used for curing
+general and sexual debility.
+• The leaf paste is used for curing inflammations of tubercular glands and that of roots for
+curing skin diseases, bronchitis and ulcers.
+• Ahwagandha is used as medicine for all the age groups. Hence it is known as Indian
+Ginseng.
+Distribution: Ashwagandha is found wild in grazing grounds and forest lands of Madhya
+Pradesh, foothills of Punjab, Himachal Pradesh and Western Uttar Pradesh. Its cultivation has
+been reported in Madhya Pradesh, Karnataka, Rajasthan and Punjab.
+Description of the Plant: Ashwagandha is an erect, herbaceous, evergreen, tomentose shrub, all
+parts are clothed with whitish, stellate hairs. Branching is extensive, the leaf is ovate, entire, thin,
+its base is cuneate and is densely hairy beneath. The flowers are bisexual, greenish, axillary, in
+clusters forming umbellate cymes. Fruits turn ornge-red in colour when they mature.
+Soil: it grows successfully in sandy loam or light red soils with organic matter and drainage. A
+soil pH range of 7.5 to 8.0 is ideal.
+Climate: Ashwagandha prefers a subtropical climate grows luxuriantly in areas receiving
+rainfall of 65-70 cm. It is planted during the late rainy season and prefers dry weather for its
+successful growth.
+Varieties: Jawahar Ashwagandha -20, Poshita, rashmita and Nagore.
+Cultivation:
+Propagation: It is propagated through seed.
+The crop can be grown by direct sowing into the field as well as by raising seedlings and
+transplanting them. A seed rate of 10-12 kg is required for one hectare incase of direct sowing
+while 5 kg of seeds are required to provide enough seedlings for one hectare in case of the
+transplanted crop. Seeds should be mixed with sand and broadcasted to maintain high plant
+population. Since it is largely grown as a rainfed crop seeds are sown during July-August while
+under irrigated conditions seeds are sown during October-November.
+Manures and Fertilizers: At the time of last ploughing, 4-5 tonnes of farm yard manure, 20 kg
+Phosphorous and 16 kg Potash fertilizers are to be applied.
+Spacing (cm): 30x30.
+Interculture: The directly sown crop is thinned at 25-30 days to maintain a plant population of
+20,000 to 25,000 per hectare. Hand weeding at 30 days interval helps to control the weeds
+effectively.
+Irrigation: 2-3 irrigations are required during 3rd , 4th and 5th months under rainfed conditions.
+Plant protection: Seed rotting, seedling blight and leaf blight are common diseases affecting
+Aswagandha. They reduce the plant population drastically, ultimately reducing yield. their
+incidence can be minimized by treating the seeds before sowing with Captan @ 3 g/kg of seeds,
+followed by spraying the crop with Dithane M-45 @ 3 g/l of water when the crop is 30 days old.
+The spray should be repeated at an interval of 7-10 days if the disease is not controlled.
+Harvesting: Harvesting starts from January and continues till March (150-170 days after
+sowing). The maturity of the crop is judged by the drying out of the leaves and the berries
+turning red. The entire plant is uprooted and the roots are separated from the aerial parts by
+cutting the stem 1-2 cm above the crown. The berries are plucked from the dried plants and are
+threshed to obtain the seeds.
+Yield: An average yield of 300 - 500 kg/ha of dried roots and 50-70 kg/ha of seeds can be
+obtained under good management practices.
+LECTURE 25
+ALOE VERA
+Scientific Name: Aloe barbadensis
+Family: Liliaceae
+Major products derived from the leaves of Aloe vera are Aloe and Aloe vera gel. Of
+which Aloe is obtained by cutting the leaves at their base and letting the yellow, bitter juice
+present in specialized cells beneath the thick epidermis is drain out. Parenchymatous tissue in the
+centre of the leaf contains a mucilaginous gel which yields aloe gel or Aloe vera gel.
+Uses: Fresh aloe gel is well known for its domestic medicinal value. When freshly obtained, the
+gel has the property of relieving thermal burns and sunburn as well as promoting wound healing.
+It also has moisturizing and emollient properties, for this reason it is used in various cosmetic
+and pharmaceutical formulations. Gel is used in for the preparation of various beauty products.
+Cultivation Practices:
+Soil: Aloe is grown in wide range of soils with a pH range of 8.5.
+Climate: Areas receiving rainfall of 35-40 cm to 150-200 cm are suitable.
+Planting time: July- August for better survival
+Planting material: 3-4 months old suckers with 4-5 leaves and 20-25 cm length
+Propagation: Root suckers or root cuttings
+Spacing: 60 x 60 cm spacing and irrigate the field immediately.
+Manuring: 10-15 ton FYM per ha. Wood ash to be applied at time of planting for better
+establishment and subsequent growth.
+Inter cultural operations: The field should be kept weed free throughout its growth period.
+Two to three hand weedings followed by hoeing per year promote good growth and suckering.
+Harvesting and Yield:
+Commercial yield will be obtained from 2-5 years. Generally, 3-4 pickings per year can be taken
+up. On an average 15-20 t/ha leaf yield can be obtained from second year onwards,.
+Uses:
+1. Heals burns: Due to its soothing, moisturizing and cooling properties it will be usesful to
+heal the burns
+2. Improves digestive health
+3. Promotes oral health
+4. Clears acne
+5. Relieves anal fissure
+6. Cool drink in Western countries
+7. As cosmetic in Pakistan and Arabian countries
+8. In Ayurvedic medicine preparations
+9. Use in conjunctivitis, ear pains and also useful to treat the sun stroke affected persons
+LECTURE - 26
+SACRED BASIL
+Scientific Name: Ocimum sanctum
+Family: Lamiaceae
+Sacred basil is known as tulsi is a well known sacred plant of the Hindus, widely used in
+religious rites since vedic times. The plant is used as a household remedy against various
+ailments and is considered as a veritable drug.
+Basil is an erect herbaceous much branched, strongly aromatic, soft hairy annual,
+growing up to 30-75 cm in height. Stem and foliage are green or dark purple. Leaves are simple,
+opposite, elliptic oblong, acute, entire or subserrate, hairy on upper and lower surfaces. Flowers
+are small, purplish or crimson in terminal or auxillary racemes and close whorled.
+Species and their chemical composition:
+Ociumum americanum – methyl cinnamate
+O. sanctum – sacred basil – methyl eugenol
+O. basilicum – sweet basil – methyl chavicol
+O. gratissimum – thymol, eugenol
+O. kilimandscharucum – camphor basil
+Crop production and management:
+Soil and climate: Ocimum can be cultivated in tropical and subtropical areas. Long days and
+temperature ranging from 14-30 0C are favourable for plant growth and high oil production but
+susceptible to winter frost.
+Wide range of soils is suitable for its cultivation including rich loam to poor laterite and
+moderately acidic soils with a pH of 5.0 – 8.5 well suited for its cultivation. Water logging
+conditions greatly affect the growth and causes root rot and stunted growth.
+Propagation: Sacred basil is propagated through seeds. Crop can be raised either by direct
+sowing or by raising seedlings in nursery and then transplanting. 200-300 g of seed is required
+for one acre area. During direct sowing, seeds are mixed with dry sand and sown to ensure even
+distribution. When transplanted, nursery is prepared by making raised seed beds to which farm
+yard manure is incorporated. Seeds are sown in nursery during February – March. Seeds
+germinate in about 8-12 days and are ready for transplanting in about 6 weeks time.
+Planting: Main field is prepared after thorough ploughing and made into ridges and furrows.
+When seedlings attain 4-5 leaf stage are to be transplanted during April by following a spacing of
+40 cm x 40 cm.
+Manures and Fertilizers: 6-8 ton of farm yard manure is applied during last plough. N:P: K at
+48:120:24 kg per acre is recommended to obtain good yield. Increased application of nitrogen
+progressively increases the herbage yield and oil content although higher levels of nitrogen
+decreases the eugenol content. Besides major nutrients, application of micronutrients like Co and
+Mn increases the oil yield.
+Irrigation: After transplanting regular irrigation is given twice a week up to establishment. After
+that irrigation has to be given as per the need.
+Inter cultivation: After 20-25 days, when seedlings are sufficiently grown, first weeding and
+thinning are done. Second weeding has to be carried out after one month of first weeding
+thereafter fertilizers are to be applied as per the schedule.
+Harvesting: Ocimum species are ready for first harvest in about 90-95 days after planting.
+Harvest at full bloom stage is ideal for Ocimum sanctum. Harvesting is usually done on bright
+sunny days to ensure drug quality and to obtain optimum oil yields. The crop should be cut 15-20
+cm above ground level.
+Leaves on steam distillation, yield a yellow volatile oil possessing a pleasant odour
+characteristic of the plant with a clove like odour. Oil yield varies with type, season and place of
+origin. Oil yield and quality do not deteriorate up to 6-8 hours after harvesting.further delay
+causes considerable loss in yield and quality of oil.
+Uses: The plant has a whole is an important ingredient in many Ayurvedic formulations. Whole
+plant is antibacterial, antiperiodic, demulcent, expectorant, stomachic and a mosquito repellant.
+Paste prepared from tulsi leaves and lime juice is applied externally for curing skin diseases.
+LECTURE -27
+SENNA
+Common Name: Senna, Sunamukhi
+Species: Cassia angustifolia
+Family: Leguminaceae
+Senna is a small perennial under shrub, a native of South Arabia. The leaves and pods
+contain Sennosides used for their laxative properties.
+Uses: Senna is used in medicine as a cathartic. It is especially useful in habitual constipation.
+• It increases the peristaltic movement of the colon.
+• Sennosides are used in the form of decoctions, powders, confections and many other
+household preparations.
+• Pods, leaves have antibacterial property.
+• The powder acts as a good conditioner, combats hair loss and used for strong and
+thickening the hair.
+Varieties: ALFT-2 is a late flowering type released from Gujarat Agricultural University.
+Sona is a high yielding variety released from Central Institute of Medicinal and
+Aromatic Plants (CIMAP), Lucknow.
+Soil: The crop can thrive on a variety of soils, but is largely grown on red loams, alluvial loams
+and the rich clayey rice fields.
+Climate: Senna is a sun loving crop and requires bright sunshine for its successful growth.
+Heavy rains and cloudy weather during growth are harmful to the crop.
+Cultivation:
+Propagation: The crop is raised from seeds. Since the seeds have a tough seed coat a certain
+amount of abrading of its surface is necessary to induce quick germination. This is achieved by
+pounding the seeds lightly with coarse sand in a mortar. Soaking the seeds for 10-12 hours
+before sowing also enhance the germination. About 5-6 kg seed is required for one acre. The
+seeds are broadcasted at a distance of 30 cm in lines made at 30 cm apart at 1.5 to 2.5 cm depth
+on well prepared land.
+The seeds can also be dibbled on the inner sides of the ridges opened at 45 cm distance,
+maintaining a plant to plant spacing of 30 cm. only about 5 kg of seeds are required for this
+method.
+Manures and Fertilizers: Farm yard manure @ 4 t/ac is to be applied at the time of last plough.
+In addition to this, a fertilizer dose of 80 kg N and 40 kg each of P and K may be applied for the
+optimum production of leaf, pod and total alkaloids. Of these, the entire dose of P and K and
+50% of N should be applied at the time of sowing, and the remaining 50% of N is to be applied
+90 days after sowing.
+Crop rotation and intercropping: Senna is grown after the paddy and intercrop cultivation in
+between rows of cotton, Sesamum, Chillies, Brinjal and Tomato is to be done.
+Irrigation: Senna can be economically grown under rainfed conditions. 5-8 light irrigations are
+enough to raise a good crop as heavy irrigations are injurious to the crop.
+Interculture: When the plants begin to grow, once or twice inter culturing is given after which
+the rows close up. The first weeding cum hoeing is done at 25-30 days, a second at 75-80 days
+and a third at 110 days to keep the soil free from weeds.
+Plant Protection: The larvae of several leaf eating caterpillars and pod borers feed on the crop.
+Usually, spraying of Carbaryl 4 g/l periodically controls the infestation. The white butterfly
+attack on this crop can be minimized by sowing the crop in March-April instead of June-July in
+North India.
+Leaf spot, Damping off and Leaf blight are the most serious diseases and causes severe damage
+to the crop. Leaf spot can be controlled by spraying Ditane M-45 at 0.15% at fortnight intervals
+for 3 times after the observation of the incidence. Seed treatment with Captan at 2.5 g/kg of the
+seed protects the growing seedlings.
+Harvesting: The first picking of the foliage crop should be done at 50-70 days age depending on
+the total plant growth. The picking of the leaves is done by hand so that most of the growing tops
+are removed at harvest. This also induces more branching. A second picking is taken at 90-100
+days and the third picking between 130-150 days when the entire plants are removed so that the
+harvested material includes both leaves and pods together.
+The harvested crop should be dried for 10-12 days. The dry leaves and pods should have a light
+green to greenish yellow colour. The pods are threshed during drying to remove the seeds.
+Yield: A good crop of Senna can give 8 q/ac of dry leaves and 3-4 q/ ac of pods under irrigated
+and good management conditions. Under rainfed conditions, the yield is about 2 q/ac of leaves
+and 1 q/ac of pods.
+COLEUS
+Common Name: Pashan Bhendi
+Species: Coleus barbatus Syn.Coleus forskohlii
+Family: Lamiaceae
+Coleus is one of the most significant potential medicinal crops of the trade as its
+pharmaceutical properties. The tuberous roots are found to be a rich source of Forskolin which
+is being developed as a drug for hypertension, glaucoma, asthma, congestive heart failures and
+certain types of cancers.
+Distribution: the crop has been distrtibuted all over the tropical and sub tropical regions of
+India. It is cultivated in parts of Rajasthan, Maharashtra, Karnataka, Deccan Plateau, Bihar and
+Tamil Nadu.
+Description of the plant: Coleus barbatus is an aromatic perennial plant 0.5 m tall with thick
+tubers and with very showy bluish to pale lavender coloured flowers, arranged in whorls on a
+long spike racemes. The roots are tuberous, 20 cm long and 0.5-2.5 cm thick, they are conical,
+fusiform, straight, orangish and strongly aromatic.
+Varieties: A selection from Karnataka, K-8 is reported to give 0.5% Forskolin and a higher
+tuber yield.
+Soil: it thrives best in porous and well drained soils ranging from red and sandy loam with a pH
+of 5.5 to 7.0. It can be successfully grown even marginal fertile soils however black soils are not
+much suitable.
+Climate: Coleus is a crop of the tropics and is found growing ell on barren hills at an altitude of
+about 2400 m. it requires a temperature of 10-250C and annual rainfall of 100 to 160 centimeter
+mainly between June – September. It also performs well in less humid and warmer regions of
+South India.
+Cultivation:
+Propagation: Coleus can be propagated by seed as well as by stem cuttings. However,
+propagation through seed is little difficult. Whereas, propagation by cuttings is very easy and
+economical to raise the crop on large scale. For this, terminal cuttings of 10-12 cm long,
+compressing of 3-4 pairs of leaves are commonly used the cuttings established well in about a
+month. When the cuttings have produced sufficient roots they are transplanted to the main field.
+Planting: In most area the crop is planted during June-July, August months at a spacing of 45 x
+45 cm or 60 x 25 cm distance to maintain an average plant population of 20,000-25,000.
+Unrooted cuttings can also be planted on flat bed or ridges.
+Manures and Fertilizers: At the time lost ploughing 5-6 tonnes of farm yard manure, 20 kg
+Nitrogen, 25 kg Phosphorus and 20 kg Potash per acre are added to main field. After one month
+of planting additional 20kg nitrogen as to be given per acre.
+Irrigation: The first irrigation is given immediately after transplanting, if there are no rains.
+During the first two weeks after planting the crop is irrigated one in three days and there after
+weekly irrigation is enough to obtain to good growth and yield.
+Interculture: In order to obtain economic yields, frequent weeding during the early growth
+period is desirable.
+Plant Protection: Leaf eating caterpillars, mealy bugs and root-knot nematodes are important
+pests. This can be controlled by sparing the plants and drenching their roots with 0.1% methyl
+parathion. While, nematodes can be controlled by addition of neem cake 100 kg per acre during
+last plough. It can also be controlled by growing marigold crop. The seeds of marigold are broad
+casted during June there after it is incorporated in soil. Among the diseases, bacterial wilt is the
+major one. It can be controlled by sparing and drenching the soil with 1g Carbendazim or 1g
+benomil.
+Harvesting: The crop is ready for harvest within 150-160 days after planting. The plants are
+loosened, uprooted, the tubers separated, cleaned and shade dried for the extraction of Forskolin.
+Yield: On an average, yield of 1500-2000 Kg /ha of dry tubers may be obtained.
+LECTURE -28
+KALMEGH
+Scientific Name: Andrographis paniculata
+Family: Acanthaceae
+Common Name: Nelavemu
+The plant is also known as ‘Rice bitters’ in West Indies and ‘King of bitters’ or ‘Chiretta’ in
+England. The whole herb is the source of several diterpenoids. The bitter principle present in the
+kalmegh is andrographolide is important and is distributed all over the plant body in different
+proportions.
+Distribution: It grows wild as an under shrub in tropical, moist, deciduous forests. The plant is
+found in the plains throughout India and Sri Lanka. In India, it is distributed in the states of
+Andhra Pradesh, Assam, Bihar, Karnataka, Kerala, Madhya Pradesh and West Bengal.
+Description of the plant: It is an annual herbaceous or shrubby recumbent or erect plant, 0.3 –
+1.0 m height. The branches are quadrangular, often narrowly winged towards the apical region.
+Leaves are lanceolate and acute. The flowers are small, solitary, in panicles with a rose coloured
+corolla which is hairy externally. The fruit is linear-oblong and acute at both ends. Seeds are
+numerous, yellowish-brown and glabrous.
+Soil: Kalmegh is a hardy plant and can be grown on a variety of soils. Sandy loamy soil rich in
+organic matter is good for its growth and yield. Soils with water logged conditions and
+problematic soils are not suited for its cultivation.
+Climate: This crop comes up well in tropical and subtropical regions. However cooler climates
+with well distributed rainfall are ideal. It tolerates the high temperatures up to 40 – 45 0C.
+Propagation: Kalmegh is propagated either by seeds or cuttings. However, for commercial
+purpose the crop is raised from seeds.
+Nursery raising: Seeds are either sown directly in the main field or nursery raised seedlings are
+transplanted. About 160 g seed is required for one acre. While for transplanted crop, seeds are
+sown in lines 5 cm apart in well prepared nursery beds of 3 x 1.5 x 0.15 m size. The seeds
+germinate in about 8-10 days and the seedlings will be ready for transplanting into the main field
+when they are 45-50 days old.
+Sowing/Transplanting: For direct sowing, furrows are made at a distance of 30 cm and about 3-
+4 seeds are sown in each spot maintain a distance of 15 cm between two plants to maintain a
+plant population of 88,000. While the seedlings are transplanted at a spacing of 30 x 15 cm or
+15 x 15 cm to maintain a plant population of 88,000 – 1,33,000 per acre.
+LECTURE - 29
+LEMON GRASS
+Species and varities : Cymbopogan flexuosus
+C . pendulus
+Family: Graminae
+Lemon grass is the source of lemon grass oil obtained from the lives and shoots of the
+plant. Oil is mainly used in the manufacture of perfumes for soap, hair oils, scents and
+medicines. It also has antibacterial properties. Ionouine prepared from the citran present in lemon
+grass oil is one of the most important raw materials for the preparation of vitamin A. in addition
+to its use in perfumineary, confectionary and liquors. It can also be used for headaches,
+toothache, baths, as a diuretic agent for fever and as an insect repellents.
+Distribution :
+Traditionally, India has been the largest supplier of lemon grass oil to the world market but has
+ceased to be so any longer. The India monopoly in the lemon grass trade in the world market has
+been broken due to the entry of Guatemala and a few other Latin American states including
+brazail and mexico, Puetro rico, Dominica, Haiti and china
+Descripition of the plant ;
+C.flexuousus var. flexuosus grow to a height of about 3 m. the leaves of the plant are linear,
+lanceolte 125cm long and 1.7cm broad
+Types of varieties;
+There are two mainly types of lemon grass namely, the east India or true lemon
+grass[C.flexuosus ness ex. Stedu wats] and the west India [south American] lemon grass
+[C.citratus[D.c] stapf]. The oil obtained by the distillation of the grass of c.flexuous, called the
+east india oil’ is the genuine oil of the commercial importance. It is produced in kerala and is
+popularly called the Cochin oil, since it is also obtained from C. pendulus,popularly known
+assnorth Indian lemon grass or jammu lemon grass, since it is grown mainly in jammu and other
+Sugandhi [OD-19], Pragathi, RRL-16, CKP-25
+Cultivation :
+Propagation
+Lemon grass is generally propagated through seed, vegetative propagation and rooted slip. Direct
+seeding is widely pracitised, especially over the plains and terraced lands. For raising the crop by
+direct seeding, seed rate of 20to 25kg/ ha. The seeds are uniformly broadcasted on the beds and
+are covered with a thin layer of soil, followed by watering at regular intervals the seed collected
+during the months of January-February are usually sown in the nursery during April-may
+Planting:
+Land is prepared by repeated ploughing and harrowing, and beds of 1-1.5 m width and
+convenient length are made with a spacing of 30 to50 cm between beds. Three-four-leaved, 50 to
+70 day-old seedlings, are planted during the monsoon season (May-June). Spacing of 30
+cm x 30 cm with a plant density of 11000/ ha .
+Manures and fertilizers:
+Lemon garss is an exhauastive crop and it requires 275 kg N, 25 kg P O and 175 kg
+2 5
+k2o/ha/annum.
+Soils:
+It comes up on a wide variety of soils ranging from rich loam to poor laterate. Calcareous and
+water-logged soils should be avoided as they are unsustainable foe its cultivation.
+Climate:
+It requires warm, humid climate with plenty of sunshine and a rain fall ranging from
+about 200-250 cm, well distributed aver the year
+Interculture:
+Earthing-up of the plant after about 4 months of planting and again after every harvest is
+beneficial, as root region lemon grass has a tendency to grow above the soil. The field is kept
+stubble free. Generally, 2-3 weeding are necessary during the year.
+Irrigation:
+After planting, if there are no rains, the crop should be irrigated every alternate day
+for about a month. It is recommended that 4 to 6 irrigations and give during the period February
+to June under north Indian conditions, for an optimum yield.
+Harvesting and yield:
+The crop is perennial in nature and gives good yields for 5 years. Harvest is done by
+cutting the grass 10 cm above the ground level during the first year of planting, 3 cuttings are
+obtained and, subsequently, 5-6 cuttings per year are taken subject to weather conditions. The
+harvesting season begins in May and continues till the end of January. The first harvest is done
+about 90 days after planting both immature and over-matured grass give a lower quantity if oil.na
+herbage yield of 15t/ harvest and a recovery of oil about 0.3-0.5% from fresh grass. The oil is
+obtained by stem- distillation. On an average Oil yields of about 350-400 kg/ ha from the second
+year onwards is considered satisfactory.
+LECTURE -30
+CITRONELLA
+Species and varieties: Cymbopogon winterianus
+C. nardus
+Family: Poaceae
+Citronella is an aromatic grass, gives an essential oil has great demand in the national and
+international market. The oil is used extensively as a source of important perfumery chemicals
+like Citronellal, Citronellol and Geraniol which finds use in soap, perfumery, cosmetic and
+flavouring industries throughout the world. Citronella oil is classified in trade into two types i.e.
+Ceylon citronella oil obtained from Cymbopogon nardus while the Java citronella oil obtained
+from Cymbopogon winterianus is considered to be a superior type.
+Distribution: It is distributed in tropical and subtropical countries like India, Taian, Guatemala,
+Honduras, Malaysia and Brazil. The National Botanical Research Institute, Lucknow introduced
+citronella into India.
+Uses: The oil of Java citronella is used in many industries. It is mainly used in soaps, mosquito
+repellant creams, aromatic oils, cosmetics attar’s and flavouring industries throughout the world.
+Chemical composition: Citronella oil contains Geranyl acetate, citronellyl acetate, limonene,
+elemol, β- elemene, r-cardinene and traces of cubebene, calamenene, bourbonene, eugenol,
+bissabolene, nerol, linalool, methyl heptenone, myrcene and α-pinene.
+LECTURE -31
+PALMAROSA
+Species and varieties: Cymbopogon martini var. motia
+C. martini var. sofia
+Family: Poaceae
+Cymbopogan is commonly known as Russa grass or Indian geranium or Ginger grass
+is a native of most parts of subtropical India and it grows in arm humid areas since from ancient
+times. It grows naturally in open scrub forests, in parts of Madhya Pradesh, Maharastra and
+Andhra Pradesh. It also found to extent in some places of Tamil Nadu, Karnataka and Uttar
+Pradesh. Now, the cultivated area has been extended to the states of Uttar Pradesh, Andhra
+Pradesh, Rajasthan, Karnataka, Maharashtra, Madhya Pradesh and Tamil Nadu. In other
+countries, it is grown commercially in Indonesia, East African countries, Cuba and Brazil.
+Palmarosa is an aromatic perennial grass, which attains a height of 2.5 to 3.0 m. the aerial
+parts die in the winter. It tolerates drought to some extent but very susceptible to frost, its leaves
+and shoots may dry up even in November when there is early frost, but usually withering starts in
+December and by the end of January the plant dries up completely.
+Climate: Palmarosa prefers warm tropical and subtropical conditions with an elevation of up to
+300 m. A temperature of 10-380C and rainfall around 150 cm with ample sunshine are the best
+suited for its cultivation. Areas which are affected by severe frost are not suitable, as the frost
+kills the grass and reduces the oil content.
+Soil: It grows well in well drained clay loam soils, free from water logging and with good
+irrigation facilities. Soil pH of 6 to 7 is ideal. A rise in pH above 8.5 is found to decrease the
+growth and consequently the oil yield.
+Cultivation:
+Propagation: Palmarosa is propagated by seed, root cuttings and through slips. For commercial
+planting, the crop is propagated through seeds.
+Nursery Raising: The nursery beds are prepared in May. Raised beds are preferable as the seeds
+are not washed off by irrigation. One kg of seed is enough for per acre. As the seeds are small
+and light, they are mixed with fine soil in the ratio of 1:10 for even distribution and ease in
+sowing. Seeds are pre soaked in water for one night before sowing and then they are sown in
+lines at 15-20 cm apart and 2-3 cm deep. In about 3 to 4 weeks, the seedlings are ready for
+transplanting.
+Planting: The land should be prepared well by deep ploughings and by removal of weeds and
+stubbles. FYM @ 4 ton per acre is applied at the time of last ploughing. The seedlings are
+transplanted into the prepared fields during the months of June-July. Seedlings of 15 cm height
+are to be planted at a spacing of 45 cm between the rows and 30 cm in the rows.
+Manures and Fertilizers: As the grass is perennial, it is necessary to replenish the soil. In rich
+soils, manuring may not be required for the first two years. Excessive fertilization results in
+increased vegetative growth and the oil content is reduced. However, for deficient and medium
+fertile soils manures and fertilizers are to be added.
+• Well decomposed Farm Yard Manure @ 4 ton and NPK fertilizers in the ratio of
+15:20:16 kg per acre is applied.
+• After one month of planting 15 kg nitrogen is applied as top dressing.
+• Complex fertilizers are given in every year when the new leaves emerge.
+• Ammonium sulphate @ 8 kg per acre increases the herbage as well as oil yield.
+• A foliar spray of FeSo and MnSo has been found to improve the plant growth, herbage
+4 4
+and oil yield.
+• The CIMAP, Lucknow has also recommended an application of 10 kg per ha of Zinc
+which significantly increase number of tillers, herbage and oil yield without affecting the
+oil content and quality.
+Irrigation: After transplanting irrigation is required for every 3-4 days intervals. Thereafter
+irrigation has to be given for every 8-10 days during the growing season. However, irrigation
+should be stopped before harvesting.
+Harvesting: The essential oil is distributed in all parts of the grass viz., the flower heads, leaves
+and stems. The flower heads containing the major portion. The grass is harvested when it is 4
+months old and in full bloom. Usually, the grass is cut at a height of 5-8 cm from the ground
+level and the whole plant is used for distillation. The number of harvests depends upon the
+climatic conditions. During the first year, one crop is obtained during October – November
+whereas 2-3 crops are obtained in the subsequent years.
+Distillation: Oil is obtained by steam distillation. For this, after harvesting the grass is chopped
+into shorter lengths. The grass should be packed firmly as this prevents formation of steam
+channels. Steam is allowed to pass into the still with a pressure from 18-32 kg in the boiler. The
+mixtures of the vapours of Palmarosa oil pass into the condenser. As the distillation proceeds, the
+distillate collects in the separator. The oil, being lighter than water and insoluble, floats on the
+top of the separator and is continuously drawn off. The oil is then decanted and filtered. Then the
+oil is stored either in aluminum containers or amber coloured bottles.
+Yield: The yield of oil is low in the first year. It increases with the age of the plantation,
+economical yield can be obtained up to four years. Oil yield of about 220-250 kg/ha may be
+obtained from the second year onwards from irrigated crop.
+GERANIUM
+Speices: Pelargonium graveolens
+P.radula, P. fragrance
+Family: Geraniaceae
+Geranium is one of the important aromatic plants, yielding an essential oil which is
+highly priced for its very profound and strong rose like odour. The plant is also known as rose
+geranium (or poor man’s rose). The chief constituents of the oil are geranial and Citronellol. It
+is ideally used in scenting soaps and for the isolation of Rhodinal which forms part of most high
+grade perfumes.
+Description of the Plant: Geranium is a perennial bushy plant. The stem is cylindrical, woody
+at the base, pubescent, green hen young and turning brown with age. The leaves are alternate,
+simple with 5 primary lobes and highly aromatic. The inflorescence is umbellate and hairy,
+flowers are bisexual.
+Varieties:
+Algerian or Tunisian: This type of geranium is slender with flowers of a dark pink colour. It is
+being grown in the Nilgiris and is unsuitable for wet conditions. This variety yields 50-60%
+more oil with a more delicate odour than that of Reunion type.
+Reunion or Bourbon: Grown in the Niligiris and Anamalais, the plant is more sturdy with light
+pink flowers and more suitable for wet conditions. The oil content is higher during summer
+months. The terminal portion with 6 to 12 leaves contains more oil than the middle and basal
+portions.
+Soil: It is a shallow rooted crop, requires a well drained porous soil. Light to deep red chalkas
+soils are more suitable however the black, black cotton soils are much suitable. Soil pH of 5.5 –
+8.0 is ideal.
+Climate: Geranium can be grown in temperate, subtropical and tropical climates at various
+altitudes from 1000 to 2200 m. it thrives best in subtropical climates with a temperature ranging
+from 50C to 230C. In our state, it can be grown successfully in the districts of Ranga Reddy,
+Mahabubnagar and Medak.
+Cultivation:
+Propagation: Since there is no seed setting, it is easily propagated by cuttings. Terminal cuttings
+about 20 cm long and consisting of about 8 nodes are the best suited material for propagation.
+The cuttings are planted in raised beds 3 m long and 1 m wide. The soil should be well mixed
+with powdered FYM. The cuttings are planted closely at a spacing of 8-10 cm. before planting,
+the cut ends of the cuttings are dipped in 2000 ppm IBA solution. Before root initiation,
+temporary shade is provided and the beds are watered regularly. The cuttings strike roots in 40
+days, after about 60 days the cuttings are ready for transplanting.
+Planting: Before planting the land should be properly prepared, ridges and furrows are made, the
+application of fertilizer and irrigation should be done a day prior to planting. The cuttings are
+carefully dug out from the nursery and planted at a spacing of 60 cm x 60 cm. about 15000
+cuttings are required for one acre.
+Manures and Fertilizers: Prior to transplanting the cuttings, 4 t of FYM, 30 kg Urea, 80 kg SSP
+and 20 kg MOP are applied at the time of last ploughing. A second dose of Urea @ 30 kg is
+applied 2 months after planting. The same dosage of Urea will be given after every harvest.
+Irrigation: irrigation must be given immediately after planting. Thereafter irrigation has to be
+given for every 3 days intervals up to one month. Additional irrigations are depends on the
+weather conditions. Though geranium tolerates short periods of drought, water logging of the
+crop must be completely avoided.
+Interculture: Field should be kept weed free for about 2-3 months during the crop season for
+this regular weeding has to be done at regular intervals.
+Plant protection: It is found to be affected by wilt disease, caused by Fusarium sp. and Botrytis
+sp. which are soil borne fungi. Affected plants show yellow coloured leaves, drying of branches
+and finally the whole plant will die. It can be minimized by dipping the cuttings in 0.03%
+Benlate solution at the time of planting. Drenching and spraying the plants with 0.1 %
+Carbendazim.
+Harvesting: Geranium is harvested 4 months after transplanting, when the leaves begin to turn
+light-green and exhibit a change from lemon like odour of that rose. The crop should be
+harvested using a sharp sickle and sent for distillation immediately. After every harvest, hoeing,
+fertilizer application and irrigation are done according to the schedule. The plant then puts forth
+fresh shoots, grows faster and reaches the next harvesting stage in 4 months. Thus, a total of 3
+harvests can be obtained in a year. Since it is a perennial crop, a good harvest can be obtained for
+3-6 years.
+Distillation of Oil: The freshly harvested terminals are used for the distillation of oil. The oil is
+extracted by a simple distillation method. The herbage is tightly packed in a still over the
+perforated grid and tamped down tightly and the still head is clamped shut and the oil is
+separated by condenser method. Care should be taken to separate water and other inert material
+and the oil is stored in a clean glass or aluminum drums.
+Yield: an average oil yield of 8-10 kg can be obtained from a well maintained crop.
+LECTURE -32
+DAVANA
+Scientific Name: Artemisia pallens
+Family: Asteraceae
+Davana is an important aromatic erect herb, about 60 cm tall, with much divided leaves and
+small yellow flowers. The stem and leaves are covered with grayish-white tomentum. The leaves
+are alternate, petiolate and lobed. Inflorescence is capitulate with flowers which are peduncle to
+sessile, axillary or forming lax racemes, simple, heterogamous having bisexual disc florets in the
+centre and a few pistillate ray florets on the periphery.
+Uses:
+✓ Davana sprigs are commonly used in garlands, bouquets and religious offerings in most
+parts of the country.
+✓ The leaves and flowers contain the essential oil valued for its exquisite and delicate
+aroma and is used in high grade perfumes and cosmetics.
+✓ The essential oil of Davana which is a brown, viscous liquid with a rich, fruity odour is
+being used for flavouring food, pastries, tobacco and beverages.
+✓ The oil has the property of energy booster and also pain reliever of ears, joints and
+digestive problems.
+✓ Oil also possesses antifungal and antibacterial property.
+Origin and Distribution: The plant grows wild in temperate Himalayas. It is being
+commercially cultivated in south Indian states viz., Karnataka, Maharashtra, Kerala, Tamil Nadu
+and Andhra Pradesh and Telangana.
+Climate: Growing season greatly influence the essential oil content. It can be grown in any
+season while the oil content in the plants is maximum when the crop grown during the winter
+season compared to the other seasons. Thus, when the crop is grown for the production of oil, it
+should be planted during the first week of November to February. A few light showers with
+moderate winter conditions and no frost is conducive to the good growth of the plant.
+Soil: the crop is found grown on various types of soils from sandy loam to medium black.
+However, a fertile, well drained, sandy loam to red loam with good drainage is ideal. It cannot
+withstand for water logging conditions.
+Cultivation:
+Nursery Raising: Davana is propagated by seed and cuttings. For commercial cultivation seeds
+are used. Usually, nursery beds of 2 m long and 1m wide are preferred. The surface of the beds
+should be clod free. It is then incorporated with finely prepared FYM at the rate of 10 kg per bed.
+As the seeds lose viability rapidly, only the seeds from the previous season’s crop should only be
+used for sowing. About 600 g seed is enough to transplant into an area of one acre. Seeds should
+be treated with captan @ 3 g per kg of seed and seeds are thoroughly mixed with sand @ 10
+times of their volume. To this mixture, water is added so that the sand is sufficiently wet. It is
+then tied in a cloth bag and stored in a warm place for 48 hours. the nursery bed is then flooded
+with water to make a pool and the sprouting seed and sand mixture is broadcasted all over the
+bed. When the seeds have settled down, a thin layer of sand is spread over just enough to cover
+them. The seeds will germinate within 2-3 days of sowing. Hand watering is done till the
+seedlings establish themselves. Initially there is a very slow growth of seedlings, foliar sprays of
+urea (0.1%) at weekly intervals 3 weeks after sowing may be given to boost their growth.
+Seedlings will be ready for transplanting in about 6-8 weeks old which attains a height of 10-12
+cm.
+Transplanting: Before transplanting, the field is thoroughly prepared by bringing the land to a
+fine tilth with repeated ploughings. It is then laid out into plots of convenient size by laying out
+bunds and channels. The plots are irrigated a prior to transplanting. The seedlings are then
+transplanted at a spacing of 15 cm between rows and 7.5 cm between plants.
+Manures and Fertilizers: Well decomposed FYM at the rate of 6 t per ha is incorporated into
+the soil at the time of land preparation. Subsequently, a fertilizer dose of 48 kg N, 16 kg P and 16
+kg K per acre is recommended. The total P and K fertilizers are given at the time of land
+preparation while N is applied in three equal split doses. The first dose is given at 10 days after
+transplanting and the subsequent two doses are given at 15 days intervals.
+Irrigation: Immediately after transplanting, light irrigation is to be given. Later, irrigation is
+provided daily till the seedlings are well established and subsequently, once in 3-4 days
+depending on the weather conditions.
+Interculture: The field is kept weed free by regular weeding as and when required even after
+harvest. Weeding is done at 30, 60 days after transplanting. After each weeding, Urea is applied
+at 20 kg per acre. Apply 10-20 kg ZnS0 if Zinc deficiency is observed. Regular application of
+4
+Growth Regulators (GA) and Micronutrients will increase the herb and essential oil yield.
+Harvesting and yield: The crop starts flowering after 110-115 days of sowing. To obtain the
+maximum essential oil yield, the plants should be harvested when about 50 % of them have come
+to flowering stage. Harvesting is done by cutting the plants from the base.
+The yield of fresh herbage, including flower heads (about 45%), is around 10-15 ton per hectare
+which comprises the main and ratoon crop. From this essential oil of 8 -10 kg is obtained after
+distillation.
+The average market price for oil is around Rs. 10,000/- per kg which accounts
+Rs. 80, 000 /- to 1, 00,000/- per acre per year.
