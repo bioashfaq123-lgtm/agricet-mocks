@@ -159,8 +159,8 @@ export default function LandingPage() {
               <div className="text-3xl mb-3">🏛️</div>
               <h3 className="text-lg font-black text-gray-900 mb-2">What is AEO?</h3>
               <p className="text-gray-600 text-sm leading-relaxed">
-                Agricultural Extension Officer (AEO) is a Group-B gazetted government post under the
-                <strong> Department of Agriculture, Telangana</strong>. AEOs work at the mandal level,
+                Agricultural Extension Officer (AEO) is a government post under the
+                <strong> Department of Agriculture, Telangana</strong>. AEOs work at the <strong>village level</strong>,
                 providing technical guidance to farmers on modern farming techniques, government schemes,
                 and crop management.
               </p>
@@ -172,7 +172,7 @@ export default function LandingPage() {
                 <li className="flex items-start gap-2"><span className="text-amber-500 font-bold mt-0.5">▶</span> <span><strong>Conducting Body:</strong> TGPSC (Telangana Public Service Commission)</span></li>
                 <li className="flex items-start gap-2"><span className="text-amber-500 font-bold mt-0.5">▶</span> <span><strong>Post:</strong> Agricultural Extension Officer</span></li>
                 <li className="flex items-start gap-2"><span className="text-amber-500 font-bold mt-0.5">▶</span> <span><strong>Department:</strong> Agriculture, Telangana</span></li>
-                <li className="flex items-start gap-2"><span className="text-amber-500 font-bold mt-0.5">▶</span> <span><strong>Eligibility:</strong> BSc Agriculture / BSc (Hons) Agriculture</span></li>
+                <li className="flex items-start gap-2"><span className="text-amber-500 font-bold mt-0.5">▶</span> <span><strong>Eligibility:</strong> Diploma in Agriculture (Minimum)</span></li>
                 <li className="flex items-start gap-2"><span className="text-amber-500 font-bold mt-0.5">▶</span> <span><strong>Status:</strong> Notification Expected Soon 🔔</span></li>
               </ul>
             </div>
