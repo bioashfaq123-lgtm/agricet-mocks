@@ -24,12 +24,12 @@ export default function GrandTestsPage() {
     );
   }
 
-  if (!user) { router.push("/login"); return null; }
+  // Don't redirect non-logged-in users — they can still see and take the free live test
 
   const isPaid = userData?.isPaid ?? false;
 
-  // All grand tests require a paid subscription
-  const FREE_COUNT = 0;
+  // IDs that are always free for everyone
+  const FREE_TEST_IDS = ["gtlive"];
 
   return (
     <div className="min-h-screen bg-gray-50">
@@ -45,6 +45,22 @@ export default function GrandTestsPage() {
       </div>
 
       <div className="max-w-4xl mx-auto px-4 py-6 space-y-5">
+
+        {/* ── FREE LIVE MOCK TEST BANNER ── */}
+        <div className="rounded-2xl bg-gradient-to-br from-green-500 via-emerald-600 to-teal-700 p-5 text-white shadow-lg border-2 border-green-400">
+          <div className="flex items-center gap-2 mb-1">
+            <span className="text-2xl">🔴</span>
+            <span className="bg-red-500 text-white text-xs font-black px-2 py-0.5 rounded-full animate-pulse">LIVE</span>
+            <span className="bg-white/20 text-white text-xs font-bold px-2 py-0.5 rounded-full">100% FREE</span>
+          </div>
+          <h2 className="text-lg font-black mb-1">FREE Live Mock Test — 8th June 2026</h2>
+          <p className="text-green-100 text-xs mb-3">8:00 PM – 9:40 PM · 100 Questions · 100 Minutes · All Telangana Rank</p>
+          <Link href="/grand-tests/gtlive"
+            className="inline-flex items-center gap-2 bg-white text-green-700 font-black px-5 py-2 rounded-xl text-sm hover:bg-green-50 transition-colors">
+            Start FREE Test <ChevronRight className="w-4 h-4" />
+          </Link>
+        </div>
+
         {/* Banner */}
         <div className="rounded-2xl bg-gradient-to-br from-primary-600 via-primary-700 to-indigo-800 p-6 text-white shadow-lg">
           <div className="flex items-center gap-3 mb-2">
@@ -72,8 +88,8 @@ export default function GrandTestsPage() {
 
         {/* Tests Grid */}
         <div className="grid gap-3">
-          {GRAND_TESTS.map((test, idx) => {
-            const isFree   = idx < FREE_COUNT;
+          {GRAND_TESTS.filter(t => t.id !== "gtlive").map((test, idx) => {
+            const isFree   = FREE_TEST_IDS.includes(test.id);
             const locked   = !isPaid && !isFree;
             const diff     = difficultyConfig[test.difficulty];
 

@@ -105,8 +105,8 @@ export default function GrandTestPage() {
       </div>
     );
   }
-  if (!user) { router.push("/login"); return null; }
-  if (!isPaid && !isFree) { router.push("/grand-tests"); return null; }
+  if (!user && !isFree) { router.push("/login"); return null; }
+  if (user && !isPaid && !isFree) { router.push("/grand-tests"); return null; }
   if (!meta || questions.length === 0) {
     return (
       <div className="min-h-screen bg-gray-50 flex items-center justify-center p-4">
