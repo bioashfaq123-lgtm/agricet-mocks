@@ -732,8 +732,10 @@ export const PYQ_2025: PYQQuestion[] = [
 
 // ── AEO (Agricultural Extension Officer) Previous Papers ─────────────────────
 export const AEO_PAPERS: PreviousYearPaper[] = [
-  { id: "aeo-1", year: 2017, title: "AEO Model Paper 1 — TGPSC/APPSC Pattern", totalQuestions: 100, duration: 120, isFree: true, badge: "🆓 FREE", description: "100-question model paper based on TGPSC/APPSC Agricultural Extension Officer exam pattern. Covers Extension, Agronomy, Soil Science, Entomology, Horticulture & Govt. Schemes.", available: true },
-  { id: "aeo-2", year: 2019, title: "AEO Model Paper 2 — Advanced Level", totalQuestions: 100, duration: 120, isFree: true, badge: "🆓 FREE", description: "Advanced 100-question model paper with higher-level AEO exam questions on Extension, Agronomy, Soil Science, Plant Protection, Horticulture, Rural Development & Policies.", available: true },
+  { id: "aeo-2016", year: 2016, title: "TGPSC AEO Exam 2016 — Official Pattern Paper", totalQuestions: 100, duration: 150, isFree: true, badge: "🆓 FREE", description: "Previous year paper based on TGPSC AEO 2016 exam pattern. Part-A: General Studies & Telangana (30 Qs) + Part-B: Agriculture Technical (70 Qs). 150 minutes.", available: true },
+  { id: "aeo-2017", year: 2017, title: "TGPSC AEO Exam 2017 — Official Pattern Paper", totalQuestions: 100, duration: 150, isFree: true, badge: "🆓 FREE", description: "Previous year paper based on TGPSC AEO 2017 exam pattern. Part-A: General Studies & Telangana (30 Qs) + Part-B: Agriculture Technical (70 Qs). 150 minutes.", available: true },
+  { id: "aeo-1", year: 2016, title: "AEO Model Paper 1 — Practice Set", totalQuestions: 100, duration: 120, isFree: true, badge: "🆓 FREE", description: "Additional practice paper based on TGPSC/APPSC AEO exam pattern. Covers Extension, Agronomy, Soil Science, Entomology, Horticulture & Govt. Schemes.", available: true },
+  { id: "aeo-2", year: 2017, title: "AEO Model Paper 2 — Advanced Practice Set", totalQuestions: 100, duration: 120, isFree: true, badge: "🆓 FREE", description: "Advanced practice paper with AEO-level questions on Extension, Agronomy, Soil Science, Plant Protection, Horticulture, Rural Development & Policies.", available: true },
 ];
 
 // Re-export PYQ arrays for previous years (kept in separate files for maintainability)
@@ -743,3 +745,5 @@ export { PYQ_2023_AP } from "./pyq2023ap";
 export { PYQ_2024_AP } from "./pyq2024ap";
 export { PYQ_2025_AP } from "./pyq2025ap";
 export { AEO_PAPER_1, AEO_PAPER_2 } from "./aeo-pyq";
+export { AEO_2016 } from "./aeo-2016";
+export { AEO_2017 } from "./aeo-2017";
