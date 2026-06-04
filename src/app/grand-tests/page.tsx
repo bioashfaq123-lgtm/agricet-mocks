@@ -74,7 +74,7 @@ export default function GrandTestsPage() {
               <span className="bg-green-500 text-white text-xs font-black px-2 py-0.5 rounded-full">FREE</span>
               <span className="bg-yellow-500 text-black text-xs font-black px-2 py-0.5 rounded-full">UPCOMING</span>
             </div>
-            <h2 className="text-lg font-black text-white mb-1">FREE Live Mock Test — 8th June 2026</h2>
+            <h2 className="text-lg font-black text-white mb-1">FREE Live Mock Test — 8th June 2026 (Monday)</h2>
             <p className="text-gray-400 text-xs mb-3">8:00 PM – 9:40 PM IST · 100 Questions · 100 Minutes · All Telangana Rank</p>
             <div className="grid grid-cols-4 gap-2 mb-4">
               {[{v:liveState.d,l:"Days"},{v:liveState.h,l:"Hrs"},{v:liveState.m,l:"Min"},{v:liveState.s,l:"Sec"}].map(({v,l})=>(

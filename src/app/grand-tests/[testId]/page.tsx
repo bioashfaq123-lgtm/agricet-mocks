@@ -161,7 +161,7 @@ export default function GrandTestPage() {
 
           <div className="bg-green-900/30 border border-green-700 rounded-xl p-4 mb-6 text-left space-y-2">
             <div className="flex items-center gap-2 text-green-400 text-sm">
-              <span>📅</span><span className="font-semibold">Date: 8th June 2026 (Sunday)</span>
+              <span>📅</span><span className="font-semibold">Date: 8th June 2026 (Monday)</span>
             </div>
             <div className="flex items-center gap-2 text-green-400 text-sm">
               <span>⏰</span><span className="font-semibold">Time: 8:00 PM – 9:40 PM IST</span>
