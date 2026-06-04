@@ -67,6 +67,32 @@ function formatTime(secs: number) {
   return `${String(m).padStart(2, "0")}:${String(s).padStart(2, "0")}`;
 }
 
+// ── Live test window (IST = UTC+5:30) ───────────────────────────────────────
+// June 8 2026  20:00 IST → UTC 14:30  |  21:40 IST → UTC 16:10
+const LIVE_START_UTC = new Date("2026-06-08T14:30:00Z"); // 8 PM IST
+const LIVE_END_UTC   = new Date("2026-06-08T16:10:00Z"); // 9:40 PM IST
+
+function getLiveStatus(): "before" | "live" | "ended" {
+  const now = new Date();
+  if (now < LIVE_START_UTC) return "before";
+  if (now > LIVE_END_UTC)   return "ended";
+  return "live";
+}
+
+function useCountdown(target: Date) {
+  const [diff, setDiff] = useState(() => Math.max(0, target.getTime() - Date.now()));
+  useEffect(() => {
+    const t = setInterval(() => setDiff(Math.max(0, target.getTime() - Date.now())), 1000);
+    return () => clearInterval(t);
+  }, [target]);
+  const totalSecs = Math.floor(diff / 1000);
+  const d = Math.floor(totalSecs / 86400);
+  const h = Math.floor((totalSecs % 86400) / 3600);
+  const m = Math.floor((totalSecs % 3600) / 60);
+  const s = totalSecs % 60;
+  return { d, h, m, s };
+}
+
 export default function GrandTestPage() {
   const params   = useParams();
   const router   = useRouter();
@@ -76,14 +102,18 @@ export default function GrandTestPage() {
   const meta      = GRAND_TESTS.find(t => t.id === testId);
   const questions = TEST_DATA[testId] ?? [];
 
-  const isFree   = FREE_IDS.includes(testId);
-  const isPaid   = userData?.isPaid ?? false;
+  const isFree    = FREE_IDS.includes(testId);
+  const isLive    = testId === "gtlive";
+  const isPaid    = userData?.isPaid ?? false;
+  const liveStatus = getLiveStatus();
 
   const [currentIdx, setCurrentIdx]   = useState(0);
   const [answers, setAnswers]         = useState<Record<string, number>>({});
   const [finished, setFinished]       = useState(false);
   const [showNavigator, setShowNavigator] = useState(false);
   const [timeLeft, setTimeLeft]       = useState((meta?.duration ?? 100) * 60);
+
+  const countdown = useCountdown(LIVE_START_UTC);
 
   // Timer
   useEffect(() => {
@@ -107,6 +137,76 @@ export default function GrandTestPage() {
   }
   if (!user && !isFree) { router.push("/login"); return null; }
   if (user && !isPaid && !isFree) { router.push("/grand-tests"); return null; }
+
+  // ── Date-gate for live test ──────────────────────────────────────────────
+  if (isLive && liveStatus === "before") {
+    return (
+      <div className="min-h-screen bg-gray-900 flex items-center justify-center p-4">
+        <div className="max-w-md w-full text-center">
+          <div className="text-6xl mb-4">⏳</div>
+          <h1 className="text-2xl font-black text-white mb-1">FREE Live Mock Test</h1>
+          <p className="text-gray-400 text-sm mb-6">AGRICET 2026 · All Telangana Rank · 100 Questions</p>
+
+          <div className="bg-gray-800 rounded-2xl p-6 mb-6 border border-gray-700">
+            <p className="text-gray-400 text-xs font-semibold uppercase tracking-widest mb-4">Test starts in</p>
+            <div className="grid grid-cols-4 gap-3">
+              {[{v: countdown.d, l:"Days"},{v: countdown.h, l:"Hours"},{v: countdown.m, l:"Mins"},{v: countdown.s, l:"Secs"}].map(({v,l}) => (
+                <div key={l} className="bg-gray-900 rounded-xl p-3 border border-gray-600">
+                  <div className="text-3xl font-black text-green-400">{String(v).padStart(2,"0")}</div>
+                  <div className="text-gray-500 text-xs mt-1">{l}</div>
+                </div>
+              ))}
+            </div>
+          </div>
+
+          <div className="bg-green-900/30 border border-green-700 rounded-xl p-4 mb-6 text-left space-y-2">
+            <div className="flex items-center gap-2 text-green-400 text-sm">
+              <span>📅</span><span className="font-semibold">Date: 8th June 2026 (Sunday)</span>
+            </div>
+            <div className="flex items-center gap-2 text-green-400 text-sm">
+              <span>⏰</span><span className="font-semibold">Time: 8:00 PM – 9:40 PM IST</span>
+            </div>
+            <div className="flex items-center gap-2 text-green-400 text-sm">
+              <span>📝</span><span className="font-semibold">100 Questions · 100 Minutes</span>
+            </div>
+            <div className="flex items-center gap-2 text-green-400 text-sm">
+              <span>🏆</span><span className="font-semibold">All Telangana Ranking</span>
+            </div>
+            <div className="flex items-center gap-2 text-green-400 text-sm">
+              <span>💰</span><span className="font-semibold">Absolutely FREE</span>
+            </div>
+          </div>
+
+          <Link href="/grand-tests" className="text-sm text-gray-500 hover:text-gray-300">
+            ← Back to Grand Tests
+          </Link>
+        </div>
+      </div>
+    );
+  }
+
+  if (isLive && liveStatus === "ended") {
+    return (
+      <div className="min-h-screen bg-gray-900 flex items-center justify-center p-4">
+        <div className="max-w-md w-full text-center">
+          <div className="text-6xl mb-4">🏁</div>
+          <h1 className="text-2xl font-black text-white mb-2">Live Mock Test Has Ended</h1>
+          <p className="text-gray-400 text-sm mb-6">
+            The FREE Live Mock Test conducted on 8th June 2026 has concluded.<br/>
+            Thank you to all students who participated!
+          </p>
+          <div className="bg-gray-800 rounded-xl p-4 mb-6 text-left text-sm text-gray-300 space-y-1 border border-gray-700">
+            <p>📅 Conducted: 8th June 2026, 8 PM – 9:40 PM IST</p>
+            <p>📝 100 Questions · 100 Minutes</p>
+            <p>🌐 agricet-mocks-8mry.vercel.app</p>
+          </div>
+          <Link href="/grand-tests" className="btn-primary inline-block px-6 py-3">
+            Explore More Tests →
+          </Link>
+        </div>
+      </div>
+    );
+  }
   if (!meta || questions.length === 0) {
     return (
       <div className="min-h-screen bg-gray-50 flex items-center justify-center p-4">
