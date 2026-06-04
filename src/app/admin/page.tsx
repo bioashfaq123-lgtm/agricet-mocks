@@ -1,4 +1,4 @@
-"use client";
+﻿"use client";
 import React, { useEffect, useState, useMemo } from "react";
 import { useRouter } from "next/navigation";
 import { collection, getDocs, doc, updateDoc, Timestamp } from "firebase/firestore";
@@ -280,7 +280,7 @@ export default function AdminPage() {
           <ShieldCheck className="w-6 h-6 text-yellow-400" />
           <div>
             <h1 className="font-black text-lg leading-none">Admin Dashboard</h1>
-            <p className="text-primary-300 text-xs mt-0.5">AGRICET MOCKS — Real-time Overview</p>
+            <p className="text-primary-300 text-xs mt-0.5">AEO & AGRICET Mocks — Real-time Overview</p>
           </div>
         </div>
         <div className="flex items-center gap-3">

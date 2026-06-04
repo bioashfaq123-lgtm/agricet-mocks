@@ -1,4 +1,4 @@
-"use client";
+﻿"use client";
 import { useState } from "react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
@@ -31,7 +31,7 @@ export default function SignupPage() {
     setLoading(true);
     try {
       await signup(name.trim(), email.trim(), password);
-      toast.success("Account created! Welcome to AGRICET MOCKS 🌱");
+      toast.success("Account created! Welcome to AEO & AGRICET Mocks 🌱");
       router.push("/dashboard");
     } catch (err: unknown) {
       const msg = err instanceof Error ? err.message : "";
@@ -52,7 +52,7 @@ export default function SignupPage() {
             <div className="w-10 h-10 bg-primary-600 rounded-xl flex items-center justify-center">
               <Leaf className="w-6 h-6 text-white" />
             </div>
-            <span className="font-black text-2xl text-gray-900">AGRICET MOCKS</span>
+            <span className="font-black text-2xl text-gray-900">AEO & AGRICET Mocks</span>
           </Link>
           <h2 className="text-3xl font-black text-gray-900 mb-3">
             Crack AGRICET &<br />
@@ -79,7 +79,7 @@ export default function SignupPage() {
               <div className="w-8 h-8 bg-primary-600 rounded-lg flex items-center justify-center">
                 <Leaf className="w-4 h-4 text-white" />
               </div>
-              <span className="font-black text-lg text-gray-900">AGRICET MOCKS</span>
+              <span className="font-black text-lg text-gray-900">AEO & AGRICET Mocks</span>
             </Link>
           </div>
           <h1 className="text-xl font-bold text-gray-900 mb-6">Create Free Account</h1>

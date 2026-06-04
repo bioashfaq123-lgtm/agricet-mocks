@@ -1,4 +1,4 @@
-"use client";
+﻿"use client";
 import { useState } from "react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
@@ -42,7 +42,7 @@ export default function LoginPage() {
             <div className="w-10 h-10 bg-primary-600 rounded-xl flex items-center justify-center">
               <Leaf className="w-6 h-6 text-white" />
             </div>
-            <span className="font-black text-2xl text-gray-900">AGRICET MOCKS</span>
+            <span className="font-black text-2xl text-gray-900">AEO & AGRICET Mocks</span>
           </Link>
           <h1 className="text-2xl font-bold text-gray-900">Welcome back!</h1>
           <p className="text-gray-500 mt-1">Login to continue your preparation</p>
@@ -94,7 +94,7 @@ export default function LoginPage() {
                   </svg>
                   Logging in...
                 </span>
-              ) : "Login to AGRICET MOCKS"}
+              ) : "Login to AEO & AGRICET Mocks"}
             </button>
           </form>
 

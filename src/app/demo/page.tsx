@@ -1,4 +1,4 @@
-"use client";
+﻿"use client";
 import { useEffect, useState } from "react";
 import Link from "next/link";
 import { Play, Lock, ArrowRight, Leaf } from "lucide-react";
@@ -27,7 +27,7 @@ export default function DemoPage() {
           </div>
           <h1 className="text-2xl font-black text-gray-900 mb-2">Free Demo Test</h1>
           <p className="text-gray-500 mb-2">🌾 DA-102 Crop Production-I — 10 Questions</p>
-          <p className="text-sm text-gray-400 mb-6">Experience AGRICET MOCKS quality — no signup required!</p>
+          <p className="text-sm text-gray-400 mb-6">Experience AEO & AGRICET Mocks quality — no signup required!</p>
 
           <div className="bg-primary-50 rounded-xl p-4 mb-6 text-left space-y-2">
             <p className="text-primary-700 text-sm font-medium">Demo includes:</p>
@@ -95,7 +95,7 @@ export default function DemoPage() {
         <div className="max-w-2xl mx-auto px-4 h-14 flex items-center justify-between">
           <Link href="/" className="flex items-center gap-2">
             <Leaf className="w-5 h-5 text-primary-600" />
-            <span className="font-bold text-gray-800 text-sm">AGRICET MOCKS</span>
+            <span className="font-bold text-gray-800 text-sm">AEO & AGRICET Mocks</span>
           </Link>
           <div className="flex items-center gap-3">
             <span className="text-sm text-gray-500">{Object.keys(answers).length}/{questions.length}</span>

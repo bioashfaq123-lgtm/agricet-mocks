@@ -1,4 +1,4 @@
-import type { Metadata, Viewport } from "next";
+﻿import type { Metadata, Viewport } from "next";
 import "./globals.css";
 import { Toaster } from "react-hot-toast";
 import { AuthProvider } from "@/contexts/AuthContext";
@@ -11,18 +11,18 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  title: "AGRICET MOCK TEST SERIES",
+  title: "AEO & AGRICET Mock Test Series",
   description:
     "Practice all 17 Diploma Agriculture subjects for PJTSAU AGRICET. 3400+ MCQs, PYQ papers 2023-2025, instant results. Prepared by Nalanda Study Circle, Jagtial.",
-  keywords: "AGRICET, mock test, agriculture, BSc Agriculture, PJTSAU, Diploma in Agriculture, Nalanda Study Circle",
+  keywords: "AGRICET, AEO, Agricultural Extension Officer, TGPSC AEO, mock test, agriculture, BSc Agriculture, PJTSAU, Diploma in Agriculture, Telangana agriculture jobs, Nalanda Study Circle",
   manifest: "/manifest.json",
   appleWebApp: {
     capable: true,
     statusBarStyle: "default",
-    title: "AGRICET MOCK TEST SERIES",
+    title: "AEO & AGRICET Mock Test Series",
   },
   openGraph: {
-    title: "AGRICET MOCK TEST SERIES",
+    title: "AEO & AGRICET Mock Test Series",
     description: "Practice smart, crack AGRICET, secure your BSc (Hons) Agriculture seat.",
     type: "website",
   },
@@ -36,11 +36,11 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="en">
       <head>
-        <meta name="application-name" content="AGRICET MOCK TEST SERIES" />
+        <meta name="application-name" content="AEO & AGRICET Mock Test Series" />
         <meta name="mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="default" />
-        <meta name="apple-mobile-web-app-title" content="AGRICET MOCK TEST SERIES" />
+        <meta name="apple-mobile-web-app-title" content="AEO & AGRICET Mock Test Series" />
         <meta name="theme-color" content="#16a34a" />
         <link rel="manifest" href="/manifest.json" />
         <link rel="apple-touch-icon" href="/apple-touch-icon.png" />

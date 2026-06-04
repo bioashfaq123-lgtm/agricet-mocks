@@ -1,4 +1,4 @@
-"use client";
+﻿"use client";
 import { useState } from "react";
 import { doc, updateDoc, collection, addDoc } from "firebase/firestore";
 import { db } from "@/lib/firebase";
@@ -122,7 +122,7 @@ export default function PaymentButton({ userId, userEmail, userName }: Props) {
       order_id:    orderId,
       amount,
       currency,
-      name:        "AGRICET MOCKS",
+      name:        "AEO & AGRICET Mocks",
       description: "Lifetime Access – All 17 Subjects",
       image:       "/logo.png",
       prefill:     { name: userName, email: userEmail, contact: "" },

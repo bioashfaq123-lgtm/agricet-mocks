@@ -1,4 +1,4 @@
-"use client";
+﻿"use client";
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import Link from "next/link";
@@ -114,7 +114,7 @@ export default function SubjectPracticePage({
     const rzp = new window.Razorpay({
       key: process.env.NEXT_PUBLIC_RAZORPAY_KEY_ID,
       order_id: orderId, amount, currency,
-      name: "AGRICET MOCKS",
+      name: "AEO & AGRICET Mocks",
       description: "AGRICET Objective Book – All 17 Subjects",
       prefill: { name: userData?.name ?? "", email: user?.email ?? "" },
       theme: { color: "#16a34a" },

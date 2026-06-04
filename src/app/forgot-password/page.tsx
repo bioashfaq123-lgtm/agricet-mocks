@@ -1,4 +1,4 @@
-"use client";
+﻿"use client";
 import { useState } from "react";
 import Link from "next/link";
 import { Leaf, Mail, ArrowLeft, CheckCircle } from "lucide-react";
@@ -42,7 +42,7 @@ export default function ForgotPasswordPage() {
             <div className="w-10 h-10 bg-primary-600 rounded-xl flex items-center justify-center">
               <Leaf className="w-6 h-6 text-white" />
             </div>
-            <span className="font-black text-2xl text-gray-900">AGRICET MOCKS</span>
+            <span className="font-black text-2xl text-gray-900">AEO & AGRICET Mocks</span>
           </Link>
           <h1 className="text-2xl font-bold text-gray-900">Reset your password</h1>
           <p className="text-gray-500 mt-1">
@@ -66,7 +66,7 @@ export default function ForgotPasswordPage() {
               <div className="bg-amber-50 border border-amber-200 rounded-xl p-4 mb-6 text-left">
                 <p className="text-amber-700 text-sm font-medium mb-1">📌 Next steps:</p>
                 <ol className="text-amber-600 text-sm space-y-1 list-decimal list-inside">
-                  <li>Open the email from Firebase / AGRICET MOCKS</li>
+                  <li>Open the email from Firebase / AEO & AGRICET Mocks</li>
                   <li>Click the reset link inside</li>
                   <li>Set a new password</li>
                   <li>Come back and login</li>

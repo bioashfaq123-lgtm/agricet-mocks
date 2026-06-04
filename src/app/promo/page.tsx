@@ -1,4 +1,4 @@
-"use client";
+﻿"use client";
 import Link from "next/link";
 import { Trophy, BookOpen, Clock, Zap, BarChart2, CheckCircle, Star, ArrowRight } from "lucide-react";
 
@@ -126,7 +126,7 @@ export default function PromoPage() {
           <div className="flex items-center gap-2 mb-5">
             <div className="w-10 h-10 bg-amber-400 rounded-xl flex items-center justify-center text-gray-900 font-black">A</div>
             <div className="text-left">
-              <div className="text-xs font-bold text-primary-200">AGRICET MOCK TEST SERIES</div>
+              <div className="text-xs font-bold text-primary-200">AEO & AGRICET Mock Test Series</div>
               <div className="text-xs text-primary-300">by NALANDA STUDY CIRCLE</div>
             </div>
           </div>

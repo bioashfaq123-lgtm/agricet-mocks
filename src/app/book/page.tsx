@@ -1,4 +1,4 @@
-"use client";
+﻿"use client";
 import { useState } from "react";
 import Link from "next/link";
 import {
@@ -80,7 +80,7 @@ export default function BookPage() {
     const rzp = new window.Razorpay({
       key: process.env.NEXT_PUBLIC_RAZORPAY_KEY_ID,
       order_id: orderId, amount, currency,
-      name: "AGRICET MOCKS",
+      name: "AEO & AGRICET Mocks",
       description: "AGRICET Objective Book – All 17 Subjects + PYQ Papers",
       prefill: { name: userData?.name ?? "", email: user.email ?? "" },
       theme: { color: "#16a34a" },

@@ -1,4 +1,4 @@
-"use client";
+﻿"use client";
 import Link from "next/link";
 import { useState, useEffect } from "react";
 import {
@@ -31,7 +31,7 @@ const FAQS = [
   { q: "What subjects are covered in this platform?", a: "This platform covers 18 subjects: Principles of Agronomy (DA-101), Crop Production-I Kharif (DA-102), Plant Breeding & Seed Technology (DA-111), Soil Chemistry & Fertility (DA-121), Soil & Water Conservation (DA-122), General Entomology (DA-131), Crop Pests & Management (DA-132), Farm Power & Machinery (DA-151), Plant Pathology & Microbiology (DA-171), Crop Production-II Rabi & Oilseeds (DA-201), Agricultural Economics (DA-241), Survey, Levelling & Field Measurements (DA-252), Forestry & Medicinal Plants (DA-281), Horticultural Crops (DA-282), Agricultural Extension & Rural Development (DA-291), Computer Applications (DA-262), Communication Skills in English (DA-263), and General Agriculture." },
   { q: "Is there a free demo available?", a: "Yes! You can take a free demo test with 10 questions from Agronomy without registration. Full access to all 17 subjects (200 MCQs each) and previous year papers requires a one-time payment of ₹199." },
   { q: "How long is my subscription valid?", a: "Your ₹199 subscription gives you lifetime access to all content — all 17 subjects, 3,400+ MCQs, previous year papers (2023, 2024, 2025), and all future updates." },
-  { q: "Can I practice on mobile?", a: "Yes! AGRICET MOCK TEST SERIES is fully responsive and works seamlessly on all devices — mobile phones, tablets, and desktops." },
+  { q: "Can I practice on mobile?", a: "Yes! AEO & AGRICET Mock Test Series is fully responsive and works seamlessly on all devices — mobile phones, tablets, and desktops." },
 ];
 
 export default function LandingPage() {
@@ -138,6 +138,102 @@ export default function LandingPage() {
         </div>
       </section>
 
+      {/* ── AEO SECTION ── */}
+      <section id="aeo" className="py-16 bg-gradient-to-br from-orange-50 via-amber-50 to-yellow-50 border-y border-amber-200">
+        <div className="max-w-5xl mx-auto px-4">
+          {/* Header */}
+          <div className="text-center mb-10">
+            <div className="inline-flex items-center gap-2 bg-orange-100 text-orange-700 text-xs font-black px-4 py-1.5 rounded-full mb-4 uppercase tracking-wide">
+              🔥 New Opportunity — TGPSC
+            </div>
+            <h2 className="text-3xl font-black text-gray-900 mb-3">AEO — Agricultural Extension Officer</h2>
+            <p className="text-gray-600 text-base max-w-2xl mx-auto">
+              TGPSC (Telangana Government Public Service Commission) is set to release <strong>AEO posts</strong> very soon.
+              Start your preparation now and get ahead of the competition!
+            </p>
+          </div>
+
+          {/* What is AEO */}
+          <div className="grid md:grid-cols-2 gap-6 mb-8">
+            <div className="bg-white rounded-2xl p-6 shadow-md border border-amber-200">
+              <div className="text-3xl mb-3">🏛️</div>
+              <h3 className="text-lg font-black text-gray-900 mb-2">What is AEO?</h3>
+              <p className="text-gray-600 text-sm leading-relaxed">
+                Agricultural Extension Officer (AEO) is a Group-B gazetted government post under the
+                <strong> Department of Agriculture, Telangana</strong>. AEOs work at the mandal level,
+                providing technical guidance to farmers on modern farming techniques, government schemes,
+                and crop management.
+              </p>
+            </div>
+            <div className="bg-white rounded-2xl p-6 shadow-md border border-amber-200">
+              <div className="text-3xl mb-3">📋</div>
+              <h3 className="text-lg font-black text-gray-900 mb-2">Recruitment Details</h3>
+              <ul className="text-sm text-gray-600 space-y-2">
+                <li className="flex items-start gap-2"><span className="text-amber-500 font-bold mt-0.5">▶</span> <span><strong>Conducting Body:</strong> TGPSC (Telangana Public Service Commission)</span></li>
+                <li className="flex items-start gap-2"><span className="text-amber-500 font-bold mt-0.5">▶</span> <span><strong>Post:</strong> Agricultural Extension Officer</span></li>
+                <li className="flex items-start gap-2"><span className="text-amber-500 font-bold mt-0.5">▶</span> <span><strong>Department:</strong> Agriculture, Telangana</span></li>
+                <li className="flex items-start gap-2"><span className="text-amber-500 font-bold mt-0.5">▶</span> <span><strong>Eligibility:</strong> BSc Agriculture / BSc (Hons) Agriculture</span></li>
+                <li className="flex items-start gap-2"><span className="text-amber-500 font-bold mt-0.5">▶</span> <span><strong>Status:</strong> Notification Expected Soon 🔔</span></li>
+              </ul>
+            </div>
+          </div>
+
+          {/* Exam Syllabus */}
+          <div className="bg-white rounded-2xl p-6 shadow-md border border-amber-200 mb-8">
+            <div className="text-3xl mb-3">📚</div>
+            <h3 className="text-lg font-black text-gray-900 mb-4">AEO Exam Syllabus Topics</h3>
+            <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
+              {[
+                { icon: "🌾", topic: "Agronomy & Crop Production" },
+                { icon: "🌱", topic: "Soil Science & Fertilizers" },
+                { icon: "🐛", topic: "Entomology & Pest Management" },
+                { icon: "🍅", topic: "Horticulture" },
+                { icon: "🧬", topic: "Plant Breeding & Genetics" },
+                { icon: "🍃", topic: "Plant Pathology" },
+                { icon: "💧", topic: "Irrigation & Farm Machinery" },
+                { icon: "📢", topic: "Agricultural Extension" },
+                { icon: "💰", topic: "Agricultural Economics" },
+                { icon: "🌳", topic: "Forestry & Agroforestry" },
+                { icon: "🌦️", topic: "Agro-Meteorology" },
+                { icon: "📜", topic: "Govt. Schemes & Policies" },
+              ].map(({ icon, topic }) => (
+                <div key={topic} className="flex items-center gap-2 bg-amber-50 rounded-xl px-3 py-2 border border-amber-100">
+                  <span className="text-base">{icon}</span>
+                  <span className="text-xs font-semibold text-gray-700">{topic}</span>
+                </div>
+              ))}
+            </div>
+          </div>
+
+          {/* Why practice here */}
+          <div className="bg-gradient-to-r from-orange-500 to-amber-500 rounded-2xl p-6 text-white shadow-lg">
+            <div className="flex flex-col md:flex-row items-center gap-6">
+              <div className="flex-1">
+                <h3 className="text-xl font-black mb-2">🎯 Prepare for AEO with Us!</h3>
+                <p className="text-orange-100 text-sm mb-4">
+                  Our mock tests cover the <strong>exact same subjects</strong> as the AEO exam syllabus.
+                  3,400+ MCQs across all 17 Agriculture subjects — perfect for both AGRICET and AEO preparation.
+                </p>
+                <div className="flex flex-wrap gap-2 text-xs">
+                  <span className="bg-white/25 px-3 py-1 rounded-lg font-semibold">✅ 3,400+ MCQs</span>
+                  <span className="bg-white/25 px-3 py-1 rounded-lg font-semibold">✅ 17 Subjects</span>
+                  <span className="bg-white/25 px-3 py-1 rounded-lg font-semibold">✅ PJTSAU Standard</span>
+                  <span className="bg-white/25 px-3 py-1 rounded-lg font-semibold">✅ With Explanations</span>
+                </div>
+              </div>
+              <div className="flex flex-col gap-3 shrink-0">
+                <Link href="/signup" className="bg-white text-orange-600 font-black px-6 py-3 rounded-xl text-sm hover:bg-orange-50 transition-all hover:scale-105 shadow text-center">
+                  Start AEO Prep — Free 🚀
+                </Link>
+                <Link href="/grand-tests" className="bg-white/20 text-white font-bold px-6 py-2.5 rounded-xl text-sm hover:bg-white/30 transition-all text-center border border-white/30">
+                  Try Grand Tests →
+                </Link>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* ── YOUTUBE VIDEO ── */}
       <section className="py-16 bg-white border-b border-gray-100">
         <div className="max-w-4xl mx-auto px-4 text-center">
@@ -145,7 +241,7 @@ export default function LandingPage() {
             <Play className="w-3 h-3 fill-red-600" /> Watch on YouTube
           </div>
           <h2 className="text-3xl md:text-4xl font-black text-gray-900 mb-3">
-            See What AGRICET Mock Test Series Offers
+            See What AEO & AGRICET Mock Test Series Offers
           </h2>
           <p className="text-gray-500 mb-8 text-base max-w-xl mx-auto">
             Watch our quick overview — subjects, pricing, and how to get started in under 2 minutes.
@@ -299,7 +395,7 @@ export default function LandingPage() {
       {/* ── FEATURES ── */}
       <section className="py-20 bg-white">
         <div className="max-w-6xl mx-auto px-4">
-          <h2 className="section-title">Why Choose AGRICET MOCK TEST SERIES?</h2>
+          <h2 className="section-title">Why Choose AEO & AGRICET Mock Test Series?</h2>
           <p className="section-sub">Built specifically for AGRICET aspirants by agriculture experts</p>
 
           <div className="grid md:grid-cols-3 gap-8 mt-12">
@@ -416,7 +512,7 @@ export default function LandingPage() {
         <div className="max-w-4xl mx-auto px-4 text-center">
           <div className="text-5xl mb-4">📲</div>
           <h2 className="text-3xl md:text-4xl font-black text-gray-900 mb-3">
-            Install AGRICET MOCK TEST SERIES on Your Phone
+            Install AEO & AGRICET Mock Test Series on Your Phone
           </h2>
           <p className="text-gray-600 mb-10 text-lg max-w-xl mx-auto">
             No Play Store. No download. Just install straight from your browser — works like a real app!
@@ -437,7 +533,7 @@ export default function LandingPage() {
                   { n: "1", icon: "🌐", t: "Open this website in Chrome on your Android phone" },
                   { n: "2", icon: "⋮",  t: "Tap the 3-dot menu (⋮) at the top-right of Chrome" },
                   { n: "3", icon: "📲", t: 'Tap "Add to Home screen"' },
-                  { n: "4", icon: "✅", t: "Tap Add — AGRICET MOCK TEST SERIES icon appears on your home screen!" },
+                  { n: "4", icon: "✅", t: "Tap Add — AEO & AGRICET Mock Test Series icon appears on your home screen!" },
                 ].map((s) => (
                   <div key={s.n} className="flex items-start gap-3">
                     <div className="w-7 h-7 bg-green-600 text-white rounded-full flex items-center justify-center text-xs font-black flex-shrink-0 mt-0.5">
@@ -465,7 +561,7 @@ export default function LandingPage() {
                   { n: "1", icon: "🧭", t: "Open this website in Safari (the default iPhone browser)" },
                   { n: "2", icon: "⬆️", t: "Tap the Share button (box with arrow ↑) at the bottom" },
                   { n: "3", icon: "📲", t: 'Scroll down and tap "Add to Home Screen"' },
-                  { n: "4", icon: "✅", t: "Tap Add (top-right) — AGRICET MOCK TEST SERIES icon is on your home screen!" },
+                  { n: "4", icon: "✅", t: "Tap Add (top-right) — AEO & AGRICET Mock Test Series icon is on your home screen!" },
                 ].map((s) => (
                   <div key={s.n} className="flex items-start gap-3">
                     <div className="w-7 h-7 bg-gray-800 text-white rounded-full flex items-center justify-center text-xs font-black flex-shrink-0 mt-0.5">
@@ -533,7 +629,7 @@ export default function LandingPage() {
             Start Your AGRICET Journey Today
           </h2>
           <p className="text-primary-200 mb-8 text-lg">
-            Join 12,500+ students who are preparing smarter with AGRICET MOCK TEST SERIES
+            Join 12,500+ students who are preparing smarter with AEO & AGRICET Mock Test Series
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="/demo" className="inline-flex items-center gap-2 bg-white text-primary-700 font-bold px-8 py-4 rounded-xl hover:bg-primary-50 transition-all hover:scale-105">
@@ -552,7 +648,7 @@ export default function LandingPage() {
           <div>
             <div className="flex items-center gap-2 mb-4">
               <div className="w-8 h-8 bg-primary-600 rounded-lg flex items-center justify-center text-white text-sm font-bold">A</div>
-              <span className="text-white font-bold">AGRICET MOCK TEST SERIES</span>
+              <span className="text-white font-bold">AEO & AGRICET Mock Test Series</span>
             </div>
             <p className="text-sm leading-relaxed">The #1 mock test platform for Diploma in Agriculture students preparing for AGRICET exam.</p>
           </div>
@@ -585,7 +681,7 @@ export default function LandingPage() {
             ,{" "}
             <span className="text-gray-300">JAGTIAL</span>
           </div>
-          <div>© {new Date().getFullYear()} AGRICET MOCK TEST SERIES. All rights reserved. | Designed for AGRICET Aspirants.</div>
+          <div>© {new Date().getFullYear()} AEO & AGRICET Mock Test Series. All rights reserved. | Designed for AGRICET Aspirants.</div>
         </div>
       </footer>
     </div>

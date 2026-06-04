@@ -1,4 +1,4 @@
-"use client";
+﻿"use client";
 import Link from "next/link";
 import { useState } from "react";
 import { Menu, X, Leaf, LogOut, BarChart2, ShieldCheck, Trophy } from "lucide-react";
@@ -20,13 +20,14 @@ export default function Navbar() {
             <Leaf className="w-5 h-5 text-white" />
           </div>
           <div>
-            <span className="font-black text-gray-900 text-lg leading-none block">AGRICET</span>
-            <span className="text-primary-600 font-bold text-xs leading-none block">MOCKS</span>
+            <span className="font-black text-gray-900 text-sm leading-none block">AEO & AGRICET</span>
+            <span className="text-primary-600 font-bold text-xs leading-none block">Mock Test Series</span>
           </div>
         </Link>
 
         {/* Desktop Nav */}
         <div className="hidden md:flex items-center gap-6">
+          <Link href="/#aeo"           className="flex items-center gap-1 text-orange-600 hover:text-orange-700 font-bold text-sm transition-colors">🔥 AEO</Link>
           <Link href="/#subjects"      className="text-gray-600 hover:text-primary-600 font-medium text-sm transition-colors">Subjects</Link>
           <Link href="/grand-tests"    className="flex items-center gap-1 text-amber-600 hover:text-amber-700 font-bold text-sm transition-colors">
             <Trophy className="w-3.5 h-3.5" /> Grand Tests
