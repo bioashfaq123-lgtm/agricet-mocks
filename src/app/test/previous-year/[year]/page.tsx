@@ -47,7 +47,7 @@ export default function PreviousYearTestPage() {
       </div>
     );
   }
-  if (!user || (!userData?.isPaid && !isFreeAccess)) {
+  if (!isFreeAccess && (!user || !userData?.isPaid)) {
     router.push("/dashboard");
     return null;
   }

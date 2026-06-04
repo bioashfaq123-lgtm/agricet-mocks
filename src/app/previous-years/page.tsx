@@ -3,7 +3,7 @@ import { useRouter } from "next/navigation";
 import Link from "next/link";
 import { Play, Lock, Clock, BookOpen, ChevronLeft, FileText, Star } from "lucide-react";
 import { useAuth } from "@/contexts/AuthContext";
-import { PREVIOUS_YEAR_PAPERS, AEO_PAPERS } from "@/data/previousYearPapers";
+import { PREVIOUS_YEAR_PAPERS } from "@/data/previousYearPapers";
 import Navbar from "@/components/Navbar";
 
 export default function PreviousYearsPage() {
@@ -20,51 +20,26 @@ export default function PreviousYearsPage() {
         </div>
         <p className="text-gray-500 mb-8 ml-8">Practice with official AGRICET question papers to understand the real exam pattern</p>
 
-        {/* ── AEO Papers Section ── */}
-        <div className="mb-10">
-          <div className="flex items-center gap-3 mb-4">
-            <div className="w-2 h-8 bg-orange-500 rounded-full"></div>
-            <div>
-              <h2 className="text-xl font-black text-gray-900">🏛️ AEO — Agricultural Extension Officer</h2>
-              <p className="text-gray-500 text-sm">Model papers based on TGPSC/APPSC AEO exam pattern — 100% FREE</p>
-            </div>
-            <span className="ml-auto bg-orange-100 text-orange-700 text-xs font-black px-3 py-1 rounded-full">TGPSC</span>
-          </div>
-          <div className="grid md:grid-cols-2 gap-6">
-            {AEO_PAPERS.map((paper) => (
-              <div key={paper.id} className="card p-6 border-2 border-orange-200 bg-orange-50">
-                <div className="flex items-start justify-between mb-4">
-                  <div>
-                    <div className="flex items-center gap-2 mb-1">
-                      <span className="badge bg-orange-500 text-white font-bold text-base px-3 py-1">AEO</span>
-                      <span className="badge bg-green-500 text-white text-xs font-bold">🆓 FREE</span>
-                    </div>
-                    <h3 className="font-bold text-gray-900 mt-2 leading-snug">{paper.title}</h3>
-                  </div>
-                  <FileText className="w-8 h-8 text-orange-300 flex-shrink-0" />
-                </div>
-                <p className="text-gray-500 text-sm mb-4">{paper.description}</p>
-                <div className="flex items-center gap-4 text-sm text-gray-500 mb-5">
-                  <span className="flex items-center gap-1"><BookOpen className="w-4 h-4" /> {paper.totalQuestions} Questions</span>
-                  <span className="flex items-center gap-1"><Clock className="w-4 h-4" /> {paper.duration} minutes</span>
-                </div>
-                <Link href={user ? `/test/previous-year/${paper.id}` : "/signup"}
-                  className="w-full bg-orange-500 hover:bg-orange-600 text-white font-bold py-3 rounded-xl text-center block flex items-center justify-center gap-2 transition-colors">
-                  <Play className="w-4 h-4" /> {user ? "Start AEO Practice" : "Sign up to Practice"}
-                </Link>
+        {/* ── AEO Practice Papers Banner ── */}
+        <div className="mb-8 rounded-2xl bg-gradient-to-r from-orange-500 to-amber-500 p-5 text-white shadow-lg">
+          <div className="flex flex-col sm:flex-row items-center gap-4">
+            <div className="flex-1">
+              <div className="flex items-center gap-2 mb-1">
+                <span className="text-xl">🏛️</span>
+                <span className="bg-white/25 text-white text-xs font-black px-2 py-0.5 rounded-full">TGPSC AEO</span>
+                <span className="bg-green-400 text-white text-xs font-black px-2 py-0.5 rounded-full">100% FREE</span>
               </div>
-            ))}
+              <h3 className="font-black text-lg mb-1">AEO Practice Papers Available!</h3>
+              <p className="text-orange-100 text-sm">4 practice papers (150 Qs each) based on TGPSC AEO exam pattern — No login required</p>
+            </div>
+            <Link href="/aeo-papers"
+              className="shrink-0 bg-white text-orange-600 font-black px-6 py-3 rounded-xl text-sm hover:bg-orange-50 transition-all hover:scale-105 shadow">
+              View AEO Papers →
+            </Link>
           </div>
         </div>
 
         {/* ── AGRICET Papers Section ── */}
-        <div className="flex items-center gap-3 mb-4">
-          <div className="w-2 h-8 bg-primary-600 rounded-full"></div>
-          <div>
-            <h2 className="text-xl font-black text-gray-900">🎓 AGRICET Previous Year Papers</h2>
-            <p className="text-gray-500 text-sm">Official PJTSAU & ANGRAU question papers with answer keys</p>
-          </div>
-        </div>
         <div className="grid md:grid-cols-2 gap-6">
           {PREVIOUS_YEAR_PAPERS.map((paper) => (
             <div key={paper.id} className={`card p-6 ${!paper.available ? "opacity-60" : ""}`}>
@@ -89,7 +64,6 @@ export default function PreviousYearsPage() {
               </div>
 
               {paper.available ? (
-                // Free papers are accessible to all logged-in users; others require paid access
                 isPaid || !user || paper.isFree ? (
                   <Link href={user ? `/test/previous-year/${paper.id}` : "/signup"}
                     className="w-full btn-primary text-center block flex items-center justify-center gap-2">
@@ -114,7 +88,6 @@ export default function PreviousYearsPage() {
           ))}
         </div>
 
-        {/* Info box */}
         <div className="mt-8 card p-6 bg-blue-50 border border-blue-200">
           <div className="flex items-start gap-3">
             <Star className="w-5 h-5 text-blue-600 flex-shrink-0 mt-0.5" />

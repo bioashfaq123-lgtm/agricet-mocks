@@ -222,7 +222,7 @@ export default function LandingPage() {
                 </div>
               </div>
               <div className="flex flex-col gap-3 shrink-0">
-                <Link href="/signup" className="bg-white text-orange-600 font-black px-6 py-3 rounded-xl text-sm hover:bg-orange-50 transition-all hover:scale-105 shadow text-center">
+                <Link href="/aeo-papers" className="bg-white text-orange-600 font-black px-6 py-3 rounded-xl text-sm hover:bg-orange-50 transition-all hover:scale-105 shadow text-center">
                   Start AEO Prep — Free 🚀
                 </Link>
                 <Link href="/grand-tests" className="bg-white/20 text-white font-bold px-6 py-2.5 rounded-xl text-sm hover:bg-white/30 transition-all text-center border border-white/30">
