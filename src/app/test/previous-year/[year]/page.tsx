@@ -4,7 +4,7 @@ import { useParams, useRouter } from "next/navigation";
 import Link from "next/link";
 import { ChevronLeft, ChevronRight, CheckCircle, X, AlertCircle, Clock } from "lucide-react";
 import { useAuth } from "@/contexts/AuthContext";
-import { PYQ_2025, PYQ_2024, PYQ_2023, PYQ_2023_AP, PYQ_2024_AP, PYQ_2025_AP, PREVIOUS_YEAR_PAPERS } from "@/data/previousYearPapers";
+import { PYQ_2025, PYQ_2024, PYQ_2023, PYQ_2023_AP, PYQ_2024_AP, PYQ_2025_AP, AEO_PAPER_1, AEO_PAPER_2, PREVIOUS_YEAR_PAPERS, AEO_PAPERS } from "@/data/previousYearPapers";
 
 export default function PreviousYearTestPage() {
   const params   = useParams();
@@ -15,7 +15,8 @@ export default function PreviousYearTestPage() {
   const [currentIdx, setCurrentIdx] = useState(0);
   const [answers, setAnswers]       = useState<Record<string, number>>({});
   const [finished, setFinished]     = useState(false);
-  const paper = PREVIOUS_YEAR_PAPERS.find(p => p.id === paperId);
+  const allPapers = [...PREVIOUS_YEAR_PAPERS, ...AEO_PAPERS];
+  const paper = allPapers.find(p => p.id === paperId);
   const [timeLeft, setTimeLeft]     = useState((paper?.duration ?? 100) * 60);
 
   // Pick the question array for the requested paper ID
@@ -26,6 +27,8 @@ export default function PreviousYearTestPage() {
     paperId === "2024ap" ? PYQ_2024_AP :
     paperId === "2023"   ? PYQ_2023 :
     paperId === "2023ap" ? PYQ_2023_AP :
+    paperId === "aeo-1"  ? AEO_PAPER_1 :
+    paperId === "aeo-2"  ? AEO_PAPER_2 :
     [];
 
   useEffect(() => {
