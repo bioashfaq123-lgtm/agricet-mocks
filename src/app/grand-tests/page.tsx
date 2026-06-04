@@ -38,7 +38,11 @@ export default function GrandTestsPage() {
   const { user, userData, loading } = useAuth();
   const router = useRouter();
 
-  // Wait for Firebase auth to finish loading before redirecting
+  // ── ALL hooks must be called before any early return ──
+  const liveState = useLiveBannerState();
+  const isPaid    = userData?.isPaid ?? false;
+  const FREE_TEST_IDS = ["gtlive"];
+
   if (loading) {
     return (
       <div className="min-h-screen bg-gray-50 flex items-center justify-center">
@@ -46,14 +50,7 @@ export default function GrandTestsPage() {
       </div>
     );
   }
-
-  // Don't redirect non-logged-in users — they can still see and take the free live test
-
-  const isPaid = userData?.isPaid ?? false;
-  const liveState = useLiveBannerState();
-
-  // IDs that are always free for everyone
-  const FREE_TEST_IDS = ["gtlive"];
+  // Non-logged-in users can see the page and take the free live test
 
   return (
     <div className="min-h-screen bg-gray-50">

@@ -13,6 +13,67 @@ import Navbar from "@/components/Navbar";
 import PaymentButton from "@/components/PaymentButton";
 import PWAInstallBanner from "@/components/PWAInstallBanner";
 
+// ── Live test date gate ──────────────────────────────────────────────────────
+const LIVE_START = new Date("2026-06-08T14:30:00Z"); // 8 PM IST
+const LIVE_END   = new Date("2026-06-08T16:10:00Z"); // 9:40 PM IST
+
+function LiveTestBanner() {
+  const [now, setNow] = useState(() => new Date());
+  useEffect(() => {
+    const t = setInterval(() => setNow(new Date()), 1000);
+    return () => clearInterval(t);
+  }, []);
+
+  if (now > LIVE_END) return null; // Hide after test ends
+
+  if (now >= LIVE_START && now <= LIVE_END) {
+    return (
+      <div className="mb-6 rounded-2xl bg-gradient-to-br from-green-500 via-emerald-600 to-teal-700 p-5 text-white shadow-xl border-2 border-green-300">
+        <div className="flex items-center gap-2 mb-2">
+          <span className="text-xl">🔴</span>
+          <span className="bg-red-500 text-white text-xs font-black px-2 py-0.5 rounded-full animate-pulse">LIVE NOW</span>
+          <span className="bg-white/25 text-white text-xs font-bold px-2 py-0.5 rounded-full">100% FREE</span>
+        </div>
+        <h3 className="text-lg font-black mb-1">FREE Live Mock Test is LIVE!</h3>
+        <p className="text-green-100 text-xs mb-4">100 Questions · 100 Minutes · All Telangana Rank · Ends 9:40 PM IST</p>
+        <Link href="/grand-tests/gtlive"
+          className="inline-flex items-center gap-2 bg-white text-green-700 font-black px-5 py-2.5 rounded-xl text-sm hover:bg-green-50 transition-all hover:scale-105 shadow">
+          Start FREE Test Now <ChevronRight className="w-4 h-4" />
+        </Link>
+      </div>
+    );
+  }
+
+  // Before test — show countdown
+  const diff   = Math.max(0, LIVE_START.getTime() - now.getTime());
+  const totSec = Math.floor(diff / 1000);
+  const d = Math.floor(totSec / 86400);
+  const h = Math.floor((totSec % 86400) / 3600);
+  const m = Math.floor((totSec % 3600) / 60);
+  const s = totSec % 60;
+  const pad = (n: number) => String(n).padStart(2, "0");
+
+  return (
+    <div className="mb-6 rounded-2xl bg-gradient-to-br from-gray-900 to-gray-800 p-5 text-white shadow-xl border-2 border-green-500">
+      <div className="flex items-center gap-2 mb-2">
+        <span className="bg-green-500 text-white text-xs font-black px-2 py-0.5 rounded-full">FREE</span>
+        <span className="bg-yellow-400 text-black text-xs font-black px-2 py-0.5 rounded-full">UPCOMING</span>
+      </div>
+      <h3 className="text-base font-black text-white mb-1">FREE Live Mock Test — 8th June 2026</h3>
+      <p className="text-gray-400 text-xs mb-3">8 PM – 9:40 PM IST · 100 Questions · All Telangana Rank · Absolutely FREE</p>
+      <div className="grid grid-cols-4 gap-2 mb-3">
+        {[{v:d,l:"Days"},{v:h,l:"Hrs"},{v:m,l:"Min"},{v:s,l:"Sec"}].map(({v,l}) => (
+          <div key={l} className="bg-gray-700 rounded-xl p-2 text-center border border-gray-600">
+            <div className="text-2xl font-black text-green-400">{pad(v)}</div>
+            <div className="text-gray-400 text-xs">{l}</div>
+          </div>
+        ))}
+      </div>
+      <p className="text-gray-500 text-xs">📢 Share with friends — Open to all Diploma students across Telangana</p>
+    </div>
+  );
+}
+
 export default function DashboardPage() {
   const { user, userData, loading } = useAuth();
   const router = useRouter();
@@ -130,6 +191,9 @@ export default function DashboardPage() {
             </Link>
           </div>
         </div>
+
+        {/* ── FREE LIVE MOCK TEST CARD ── */}
+        <LiveTestBanner />
 
         {/* Grand Tests */}
         <section className="mb-8">
