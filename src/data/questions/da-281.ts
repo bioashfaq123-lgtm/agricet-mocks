@@ -1602,4 +1602,4 @@ export const da281Questions: Question[] = [
     difficulty: "hard"
   }
 
-];
+] as Question[];

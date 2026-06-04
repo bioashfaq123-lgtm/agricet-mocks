@@ -18,21 +18,23 @@ import { GRAND_TEST_7  } from "@/data/grandTest7";
 import { GRAND_TEST_8  } from "@/data/grandTest8";
 import { GRAND_TEST_9  } from "@/data/grandTest9";
 import { GRAND_TEST_10 } from "@/data/grandTest10";
+import { GRAND_TEST_LIVE } from "@/data/grandTestLive";
 
 const TEST_DATA: Record<string, GrandTestQuestion[]> = {
-  gt1:  GRAND_TEST_1,
-  gt2:  GRAND_TEST_2,
-  gt3:  GRAND_TEST_3,
-  gt4:  GRAND_TEST_4,
-  gt5:  GRAND_TEST_5,
-  gt6:  GRAND_TEST_6,
-  gt7:  GRAND_TEST_7,
-  gt8:  GRAND_TEST_8,
-  gt9:  GRAND_TEST_9,
-  gt10: GRAND_TEST_10,
+  gt1:    GRAND_TEST_1,
+  gt2:    GRAND_TEST_2,
+  gt3:    GRAND_TEST_3,
+  gt4:    GRAND_TEST_4,
+  gt5:    GRAND_TEST_5,
+  gt6:    GRAND_TEST_6,
+  gt7:    GRAND_TEST_7,
+  gt8:    GRAND_TEST_8,
+  gt9:    GRAND_TEST_9,
+  gt10:   GRAND_TEST_10,
+  gtlive: GRAND_TEST_LIVE,
 };
 
-const FREE_IDS: string[] = []; // All grand tests require paid subscription
+const FREE_IDS: string[] = ["gtlive"]; // Live mock test is free for all
 
 // subject → short colour label
 const SUBJECT_COLORS: Record<string, string> = {

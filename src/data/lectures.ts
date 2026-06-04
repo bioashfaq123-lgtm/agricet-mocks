@@ -191,9 +191,14 @@ export const DA281_LECTURES: Lecture[] = [
   lec("da-281", 5, "Social Forestry & JFM", "Van Panchayat, joint forest management, farm forestry, participatory forestry"),
   lec("da-281", 6, "Medicinal Plants – I", "Ashwagandha, Brahmi, Aloe vera, Senna – cultivation, active principles, uses"),
   lec("da-281", 7, "Medicinal Plants – II", "Neem, Tulsi, Kalmegh, Isabgol, Stevia – cultivation and medicinal uses"),
-  lec("da-281", 8, "Aromatic Plants", "Lemongrass, palmarosa, Vetiver, Rose, Geranium, Davana – oil extraction, uses"),
-  lec("da-281", 9, "Conservation & Forest Policies", "National Forest Policy 1988, Wildlife Protection Act, biodiversity conservation"),
+  lec("da-281", 8,  "Aromatic Plants", "Lemongrass, palmarosa, Vetiver, Rose, Geranium, Davana – oil extraction, uses"),
+  lec("da-281", 9,  "Conservation & Forest Policies", "National Forest Policy 1988, Wildlife Protection Act, biodiversity conservation"),
   lec("da-281", 10, "Non-Timber Forest Products (NTFP)", "Tendu, honey, gum, resin, bamboo products, medicinal herbs – collection and trade"),
+  lec("da-281", 11, "Silviculture & Tree Improvement", "Seed orchards, clonal propagation, vegetative propagation, progeny trials"),
+  lec("da-281", 12, "Timber Trees – Advanced Topics", "Teak, Rosewood, Sandalwood, Bamboo – wood properties, harvesting, uses, markets"),
+  lec("da-281", 13, "Ecology & Environmental Services", "Carbon sequestration, watershed functions, biodiversity, JFM, Chipko movement"),
+  lec("da-281", 14, "Minor Forest Produce & Trade", "NTFP collection, processing, value addition, tribal livelihoods, international trade"),
+  lec("da-281", 15, "Revision & Mixed Topics", "Mixed questions covering all DA-281 topics – forest types, trees, medicinal, aromatic"),
 ];
 
 // ── DA-282: Horticultural Crops & Their Management ──────────────────────────
