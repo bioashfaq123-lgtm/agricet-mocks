@@ -1581,7 +1581,7 @@ export const da281LectureQuestions: Question[] = [
     options: ["Timber and wood products in horticultural practices", "Animal feed and fodder for vegetable cultivation", "Tanning of animal hides in orchard management", "Vitamin C content – used in health products and Triphala"],
     correct: 3,
     explanation: "Amla is extremely rich in Vitamin C and is used in Ayurvedic medicines (Triphala, Chyawanprash), health products and Amla oil for hair care. Its collection is an important source of tribal income."
-  },,
+  },
   {
     id: "d281l_157", subject: "da-281", lecture: "lecture-10", lectureNo: 10,
     question: "The botanical name of teak is:",

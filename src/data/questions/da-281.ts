@@ -800,7 +800,7 @@ export const da281Questions: Question[] = [
     options: ["About 90 percent met from forests", "About 25 percent met from forests", "About 75 percent met from forests", "About 50 percent met from forests"],
     correct: 2,
     explanation: "About 75% of the fuel wood demand of rural people is met from the forests, which is a major reason for forest degradation."
-  },,
+  },
   {
     id: "d281_101", subject: "da-281",
     question: "The word forest is derived from the Latin word foris meaning:",
