@@ -4,7 +4,7 @@ import { useParams, useRouter } from "next/navigation";
 import Link from "next/link";
 import { ChevronLeft, ChevronRight, CheckCircle, X, AlertCircle, Clock } from "lucide-react";
 import { useAuth } from "@/contexts/AuthContext";
-import { PYQ_2025, PYQ_2024, PYQ_2023, PYQ_2023_AP, PYQ_2024_AP, PYQ_2025_AP, AEO_PAPER_1, AEO_PAPER_2, AEO_2016, AEO_2017, PREVIOUS_YEAR_PAPERS, AEO_PAPERS } from "@/data/previousYearPapers";
+import { PYQ_2025, PYQ_2024, PYQ_2023, PYQ_2023_AP, PYQ_2024_AP, PYQ_2025_AP, AEO_PAPER1_GS, AEO_PAPER2_AGRI, PREVIOUS_YEAR_PAPERS, AEO_PAPERS } from "@/data/previousYearPapers";
 
 export default function PreviousYearTestPage() {
   const params   = useParams();
@@ -27,10 +27,8 @@ export default function PreviousYearTestPage() {
     paperId === "2024ap" ? PYQ_2024_AP :
     paperId === "2023"   ? PYQ_2023 :
     paperId === "2023ap" ? PYQ_2023_AP :
-    paperId === "aeo-2016" ? AEO_2016 :
-    paperId === "aeo-2017" ? AEO_2017 :
-    paperId === "aeo-1"    ? AEO_PAPER_1 :
-    paperId === "aeo-2"    ? AEO_PAPER_2 :
+    paperId === "aeo-p1-gs"   ? AEO_PAPER1_GS :
+    paperId === "aeo-p2-agri" ? AEO_PAPER2_AGRI :
     [];
 
   useEffect(() => {

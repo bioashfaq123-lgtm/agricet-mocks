@@ -732,10 +732,10 @@ export const PYQ_2025: PYQQuestion[] = [
 
 // ── AEO (Agricultural Extension Officer) Previous Papers ─────────────────────
 export const AEO_PAPERS: PreviousYearPaper[] = [
-  { id: "aeo-2016", year: 2016, title: "TGPSC AEO Exam 2016 — Previous Year Paper", totalQuestions: 150, duration: 150, isFree: true, badge: "🆓 FREE", description: "150-question paper based on TGPSC AEO 2016 exam pattern. Part-A: General Studies & Telangana (45 Qs) + Part-B: Agriculture Technical (105 Qs). Duration: 150 minutes.", available: true },
-  { id: "aeo-2017", year: 2017, title: "TGPSC AEO Exam 2017 — Previous Year Paper", totalQuestions: 150, duration: 150, isFree: true, badge: "🆓 FREE", description: "150-question paper based on TGPSC AEO 2017 exam pattern. Part-A: General Studies & Telangana (45 Qs) + Part-B: Agriculture Technical (105 Qs). Duration: 150 minutes.", available: true },
-  { id: "aeo-1", year: 2016, title: "AEO Model Paper 1 — Practice Set", totalQuestions: 100, duration: 120, isFree: true, badge: "🆓 FREE", description: "Additional practice paper based on TGPSC/APPSC AEO exam pattern. Covers Extension, Agronomy, Soil Science, Entomology, Horticulture & Govt. Schemes.", available: true },
-  { id: "aeo-2", year: 2017, title: "AEO Model Paper 2 — Advanced Practice Set", totalQuestions: 100, duration: 120, isFree: true, badge: "🆓 FREE", description: "Advanced practice paper with AEO-level questions on Extension, Agronomy, Soil Science, Plant Protection, Horticulture, Rural Development & Policies.", available: true },
+  // Paper 1 — General Studies
+  { id: "aeo-p1-gs",   year: 2024, title: "AEO Paper 1 — General Studies Practice Paper",         totalQuestions: 150, duration: 150, isFree: true, badge: "🆓 FREE", description: "150 questions — Telangana GK, Indian Polity & Economy, General Science, Current Affairs, and Mental Ability/Reasoning. Based on TGPSC AEO Paper 1 syllabus.", available: true },
+  // Paper 2 — Agriculture
+  { id: "aeo-p2-agri", year: 2024, title: "AEO Paper 2 — Agriculture Diploma Syllabus Practice Paper", totalQuestions: 150, duration: 150, isFree: true, badge: "🆓 FREE", description: "150 questions — Agronomy, Soil Science, Entomology, Plant Pathology, Horticulture, Extension, Economics, Animal Husbandry. Based on TGPSC AEO Paper 2 (Diploma Agriculture) syllabus.", available: true },
 ];
 
 // Re-export PYQ arrays for previous years (kept in separate files for maintainability)
@@ -744,6 +744,5 @@ export { PYQ_2024 } from "./pyq2024";
 export { PYQ_2023_AP } from "./pyq2023ap";
 export { PYQ_2024_AP } from "./pyq2024ap";
 export { PYQ_2025_AP } from "./pyq2025ap";
-export { AEO_PAPER_1, AEO_PAPER_2 } from "./aeo-pyq";
-export { AEO_2016 } from "./aeo-2016";
-export { AEO_2017 } from "./aeo-2017";
+export { AEO_PAPER1_GS } from "./aeo-paper1-gs";
+export { AEO_PAPER2_AGRI } from "./aeo-paper2-agri";

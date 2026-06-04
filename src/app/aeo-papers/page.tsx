@@ -1,8 +1,65 @@
 "use client";
 import Link from "next/link";
-import { Play, Clock, BookOpen, ChevronLeft, FileText } from "lucide-react";
-import { AEO_PAPERS } from "@/data/previousYearPapers";
+import { Play, Clock, BookOpen, ChevronLeft } from "lucide-react";
 import Navbar from "@/components/Navbar";
+
+const PAPERS = [
+  {
+    paper: "Paper 1",
+    id: "aeo-p1-gs",
+    title: "General Studies",
+    subtitle: "TGPSC AEO Paper 1 — General Studies Practice Paper",
+    questions: 150,
+    duration: 150,
+    color: "blue",
+    icon: "📋",
+    topics: [
+      "Telangana History, Culture & Geography (30 Qs)",
+      "Indian Polity & Constitution (20 Qs)",
+      "Indian Economy & Agriculture Policy (20 Qs)",
+      "General Science & Environment (25 Qs)",
+      "Current Affairs & Govt. Schemes (20 Qs)",
+      "Mental Ability & Reasoning (25 Qs)",
+      "Telangana Govt. Schemes & Current Events (10 Qs)",
+    ],
+  },
+  {
+    paper: "Paper 2",
+    id: "aeo-p2-agri",
+    title: "Agriculture (Diploma Syllabus)",
+    subtitle: "TGPSC AEO Paper 2 — Agriculture Diploma Syllabus Practice Paper",
+    questions: 150,
+    duration: 150,
+    color: "green",
+    icon: "🌾",
+    topics: [
+      "Agronomy & Crop Production (30 Qs)",
+      "Soil Science & Fertilizers (25 Qs)",
+      "Entomology & Pest Management (20 Qs)",
+      "Plant Pathology (20 Qs)",
+      "Horticulture (20 Qs)",
+      "Agricultural Extension & Economics (20 Qs)",
+      "Animal Husbandry, Irrigation & Seed Tech (15 Qs)",
+    ],
+  },
+];
+
+const colorMap: Record<string, { bg: string; border: string; badge: string; btn: string; tag: string }> = {
+  blue: {
+    bg: "bg-blue-50",
+    border: "border-blue-300",
+    badge: "bg-blue-600 text-white",
+    btn: "bg-blue-600 hover:bg-blue-700 text-white",
+    tag: "bg-blue-100 text-blue-700",
+  },
+  green: {
+    bg: "bg-green-50",
+    border: "border-green-300",
+    badge: "bg-green-600 text-white",
+    btn: "bg-green-600 hover:bg-green-700 text-white",
+    tag: "bg-green-100 text-green-700",
+  },
+};
 
 export default function AEOPapersPage() {
   return (
@@ -18,106 +75,110 @@ export default function AEOPapersPage() {
           <h1 className="text-2xl font-black text-gray-900">AEO Practice Papers</h1>
         </div>
         <p className="text-gray-500 mb-8 ml-8">
-          Practice papers based on TGPSC Agricultural Extension Officer exam pattern — No login required
+          TGPSC Agricultural Extension Officer — Practice papers for both papers. No login required.
         </p>
 
-        {/* Info Banner */}
-        <div className="mb-8 rounded-2xl bg-gradient-to-br from-orange-500 to-amber-500 p-6 text-white shadow-lg">
+        {/* Exam Structure Banner */}
+        <div className="mb-8 rounded-2xl bg-gradient-to-r from-orange-500 to-amber-500 p-6 text-white shadow-lg">
           <div className="flex items-start gap-4">
             <div className="text-4xl">🏛️</div>
             <div>
-              <h2 className="text-xl font-black mb-1">TGPSC AEO — Agricultural Extension Officer</h2>
-              <p className="text-orange-100 text-sm mb-3">
-                Practice papers covering the complete AEO exam syllabus — Part A (General Studies &amp; Telangana)
-                + Part B (Agriculture Technical). All papers are FREE with no login required.
+              <h2 className="text-xl font-black mb-1">TGPSC AEO Exam Structure</h2>
+              <p className="text-orange-100 text-sm mb-4">
+                The AEO exam is conducted in <strong className="text-white">two separate papers</strong>.
+                Both papers must be appeared in to qualify.
               </p>
-              <div className="flex flex-wrap gap-2 text-xs">
-                <span className="bg-white/20 px-3 py-1 rounded-lg font-semibold">✅ 150 Questions Each</span>
-                <span className="bg-white/20 px-3 py-1 rounded-lg font-semibold">✅ 150 Minutes</span>
-                <span className="bg-white/20 px-3 py-1 rounded-lg font-semibold">✅ TGPSC Standard</span>
-                <span className="bg-white/20 px-3 py-1 rounded-lg font-semibold">✅ With Explanations</span>
-                <span className="bg-white/20 px-3 py-1 rounded-lg font-semibold">✅ 100% FREE</span>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        {/* Exam Pattern Info */}
-        <div className="mb-8 grid md:grid-cols-2 gap-4">
-          <div className="bg-white rounded-2xl p-5 border border-orange-200 shadow-sm">
-            <h3 className="font-black text-gray-900 mb-3">📋 Part A — General Studies (45 Qs)</h3>
-            <ul className="text-sm text-gray-600 space-y-1.5">
-              <li className="flex items-start gap-2"><span className="text-orange-500 font-bold">•</span> Telangana History &amp; Culture</li>
-              <li className="flex items-start gap-2"><span className="text-orange-500 font-bold">•</span> Telangana Geography &amp; Districts</li>
-              <li className="flex items-start gap-2"><span className="text-orange-500 font-bold">•</span> Indian Polity &amp; Constitution</li>
-              <li className="flex items-start gap-2"><span className="text-orange-500 font-bold">•</span> Current Affairs &amp; Govt. Schemes</li>
-              <li className="flex items-start gap-2"><span className="text-orange-500 font-bold">•</span> Aptitude &amp; Reasoning</li>
-            </ul>
-          </div>
-          <div className="bg-white rounded-2xl p-5 border border-orange-200 shadow-sm">
-            <h3 className="font-black text-gray-900 mb-3">🌾 Part B — Agriculture Technical (105 Qs)</h3>
-            <ul className="text-sm text-gray-600 space-y-1.5">
-              <li className="flex items-start gap-2"><span className="text-orange-500 font-bold">•</span> Agricultural Extension &amp; Schemes</li>
-              <li className="flex items-start gap-2"><span className="text-orange-500 font-bold">•</span> Agronomy &amp; Crop Production</li>
-              <li className="flex items-start gap-2"><span className="text-orange-500 font-bold">•</span> Soil Science &amp; Fertilizers</li>
-              <li className="flex items-start gap-2"><span className="text-orange-500 font-bold">•</span> Entomology &amp; Plant Pathology</li>
-              <li className="flex items-start gap-2"><span className="text-orange-500 font-bold">•</span> Horticulture &amp; Animal Husbandry</li>
-            </ul>
-          </div>
-        </div>
-
-        {/* Papers Grid */}
-        <h2 className="text-xl font-black text-gray-900 mb-4 flex items-center gap-2">
-          <FileText className="w-5 h-5 text-orange-500" /> Available Practice Papers
-        </h2>
-        <div className="grid md:grid-cols-2 gap-6 mb-8">
-          {AEO_PAPERS.map((paper) => (
-            <div key={paper.id}
-              className="bg-white rounded-2xl p-6 border-2 border-orange-200 shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all">
-              <div className="flex items-start justify-between mb-4">
-                <div>
-                  <div className="flex items-center gap-2 mb-2">
-                    <span className="bg-orange-500 text-white text-xs font-black px-3 py-1 rounded-full">AEO</span>
-                    <span className="bg-green-500 text-white text-xs font-black px-2 py-0.5 rounded-full">🆓 FREE</span>
-                    <span className="bg-orange-100 text-orange-700 text-xs font-bold px-2 py-0.5 rounded-full">{paper.year}</span>
-                  </div>
-                  <h3 className="font-black text-gray-900 text-base leading-snug">{paper.title}</h3>
+              <div className="grid grid-cols-2 gap-3">
+                <div className="bg-white/20 rounded-xl p-3">
+                  <div className="font-black text-base mb-1">📋 Paper 1</div>
+                  <div className="text-orange-100 text-xs">General Studies<br/>150 Qs · 150 Minutes</div>
                 </div>
-                <FileText className="w-8 h-8 text-orange-200 flex-shrink-0" />
+                <div className="bg-white/20 rounded-xl p-3">
+                  <div className="font-black text-base mb-1">🌾 Paper 2</div>
+                  <div className="text-orange-100 text-xs">Agriculture Diploma Syllabus<br/>150 Qs · 150 Minutes</div>
+                </div>
               </div>
-
-              <p className="text-gray-500 text-sm mb-4 leading-relaxed">{paper.description}</p>
-
-              <div className="flex items-center gap-4 text-sm text-gray-500 mb-5">
-                <span className="flex items-center gap-1.5">
-                  <BookOpen className="w-4 h-4 text-orange-400" />
-                  {paper.totalQuestions} Questions
-                </span>
-                <span className="flex items-center gap-1.5">
-                  <Clock className="w-4 h-4 text-orange-400" />
-                  {paper.duration} minutes
-                </span>
-              </div>
-
-              {/* No login required — direct link to test */}
-              <Link href={`/test/previous-year/${paper.id}`}
-                className="w-full bg-orange-500 hover:bg-orange-600 text-white font-black py-3 rounded-xl text-center flex items-center justify-center gap-2 transition-colors">
-                <Play className="w-4 h-4" /> Start Practice
-              </Link>
             </div>
-          ))}
+          </div>
         </div>
 
-        {/* Tip Box */}
-        <div className="rounded-2xl bg-amber-50 border border-amber-200 p-5">
-          <h3 className="font-bold text-amber-800 mb-2">💡 AEO Exam Tips</h3>
-          <ul className="text-amber-700 text-sm space-y-1.5">
-            <li>• <strong>Part A</strong> (General Studies): Focus on Telangana history, current affairs, and government schemes</li>
-            <li>• <strong>Part B</strong> (Agriculture): Agricultural Extension and Agronomy carry maximum weightage</li>
-            <li>• Practice previous papers to understand the difficulty level and question types</li>
-            <li>• Time management is key — 150 Qs in 150 minutes = 1 minute per question</li>
-            <li>• Our AGRICET mock tests cover the same agriculture subjects — use them for AEO prep too!</li>
-          </ul>
+        {/* Paper Cards */}
+        <div className="space-y-6">
+          {PAPERS.map((p) => {
+            const c = colorMap[p.color];
+            return (
+              <div key={p.id}
+                className={`rounded-2xl border-2 ${c.border} ${c.bg} p-6 shadow-sm`}>
+
+                {/* Paper Header */}
+                <div className="flex items-start justify-between mb-5">
+                  <div className="flex items-center gap-3">
+                    <div className={`w-14 h-14 rounded-2xl flex items-center justify-center text-3xl ${c.badge}`}>
+                      {p.icon}
+                    </div>
+                    <div>
+                      <div className="flex items-center gap-2 mb-1">
+                        <span className={`text-xs font-black px-3 py-1 rounded-full ${c.badge}`}>{p.paper}</span>
+                        <span className="bg-green-500 text-white text-xs font-black px-2 py-0.5 rounded-full">🆓 FREE</span>
+                      </div>
+                      <h2 className="text-xl font-black text-gray-900">{p.title}</h2>
+                      <p className="text-gray-500 text-sm">{p.subtitle}</p>
+                    </div>
+                  </div>
+                </div>
+
+                {/* Stats */}
+                <div className="flex items-center gap-6 mb-5">
+                  <span className="flex items-center gap-2 text-sm text-gray-600 font-semibold">
+                    <BookOpen className="w-4 h-4" /> {p.questions} Questions
+                  </span>
+                  <span className="flex items-center gap-2 text-sm text-gray-600 font-semibold">
+                    <Clock className="w-4 h-4" /> {p.duration} Minutes
+                  </span>
+                  <span className="text-sm text-gray-600 font-semibold">
+                    ⏱ 1 minute per question
+                  </span>
+                </div>
+
+                {/* Topics Grid */}
+                <div className="mb-5">
+                  <p className="text-xs font-black text-gray-500 uppercase tracking-wide mb-3">Topics Covered</p>
+                  <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
+                    {p.topics.map((t) => (
+                      <div key={t} className={`flex items-center gap-2 px-3 py-2 rounded-xl text-xs font-semibold ${c.tag}`}>
+                        <span className="w-1.5 h-1.5 rounded-full bg-current flex-shrink-0"></span>
+                        {t}
+                      </div>
+                    ))}
+                  </div>
+                </div>
+
+                {/* CTA Button */}
+                <Link href={`/test/previous-year/${p.id}`}
+                  className={`w-full flex items-center justify-center gap-2 py-3.5 rounded-xl font-black text-base transition-all hover:scale-[1.02] shadow-md ${c.btn}`}>
+                  <Play className="w-5 h-5" />
+                  Start {p.paper} Practice — Free
+                </Link>
+              </div>
+            );
+          })}
+        </div>
+
+        {/* Tips */}
+        <div className="mt-8 rounded-2xl bg-amber-50 border border-amber-200 p-5">
+          <h3 className="font-bold text-amber-800 mb-3">💡 AEO Exam Preparation Tips</h3>
+          <div className="grid md:grid-cols-2 gap-4 text-sm text-amber-700">
+            <ul className="space-y-1.5">
+              <li>• <strong>Paper 1:</strong> Focus on Telangana history, current affairs, and government schemes</li>
+              <li>• <strong>Paper 2:</strong> Agricultural Extension and Agronomy carry maximum weightage</li>
+              <li>• Time management: 1 minute per question for both papers</li>
+            </ul>
+            <ul className="space-y-1.5">
+              <li>• Revise all 17 Diploma Agriculture subjects for Paper 2</li>
+              <li>• Practice AGRICET mock tests — same agriculture syllabus!</li>
+              <li>• Both papers are qualifying — attempt both seriously</li>
+            </ul>
+          </div>
         </div>
 
         <div className="mt-6 text-center">
