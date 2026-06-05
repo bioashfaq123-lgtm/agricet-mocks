@@ -241,23 +241,81 @@ export default function LandingPage() {
             <Play className="w-3 h-3 fill-red-600" /> Watch on YouTube
           </div>
           <h2 className="text-3xl md:text-4xl font-black text-gray-900 mb-3">
-            See What AEO & AGRICET Mock Test Series Offers
+            See What AEO &amp; AGRICET Mock Test Series Offers
           </h2>
-          <p className="text-gray-500 mb-8 text-base max-w-xl mx-auto">
+          <p className="text-gray-500 mb-6 text-base max-w-2xl mx-auto">
             Watch our quick overview — subjects, pricing, and how to get started in under 2 minutes.
+            Also covering <strong>AEO (Agricultural Extension Officer)</strong> preparation!
           </p>
+
+          {/* AEO Job Alert Banner */}
+          <div className="mb-6 rounded-2xl bg-gradient-to-r from-orange-500 to-amber-500 p-5 text-white text-left shadow-lg">
+            <div className="flex items-start gap-4">
+              <div className="text-4xl shrink-0">🔔</div>
+              <div>
+                <div className="flex items-center gap-2 mb-1 flex-wrap">
+                  <span className="bg-white text-orange-600 text-xs font-black px-2 py-0.5 rounded-full">TGPSC</span>
+                  <span className="bg-red-500 text-white text-xs font-black px-2 py-0.5 rounded-full animate-pulse">UPCOMING</span>
+                </div>
+                <h3 className="text-lg font-black mb-2">AEO Posts Being Released by Govt of Telangana — Prepare Now!</h3>
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 text-sm text-orange-100">
+                  <div className="flex items-start gap-2">
+                    <span className="text-white font-bold mt-0.5">✅</span>
+                    <span><strong className="text-white">Post:</strong> Agricultural Extension Officer (AEO)</span>
+                  </div>
+                  <div className="flex items-start gap-2">
+                    <span className="text-white font-bold mt-0.5">✅</span>
+                    <span><strong className="text-white">Conducting Body:</strong> TGPSC (Telangana Public Service Commission)</span>
+                  </div>
+                  <div className="flex items-start gap-2">
+                    <span className="text-white font-bold mt-0.5">✅</span>
+                    <span><strong className="text-white">Department:</strong> Agriculture, Government of Telangana</span>
+                  </div>
+                  <div className="flex items-start gap-2">
+                    <span className="text-white font-bold mt-0.5">✅</span>
+                    <span><strong className="text-white">Work Level:</strong> Village Level — Direct farmer contact</span>
+                  </div>
+                  <div className="flex items-start gap-2">
+                    <span className="text-white font-bold mt-0.5">✅</span>
+                    <span><strong className="text-white">Eligibility:</strong> Diploma in Agriculture (Minimum)</span>
+                  </div>
+                  <div className="flex items-start gap-2">
+                    <span className="text-white font-bold mt-0.5">✅</span>
+                    <span><strong className="text-white">Exam:</strong> Paper 1 (General Studies) + Paper 2 (Agriculture)</span>
+                  </div>
+                  <div className="flex items-start gap-2">
+                    <span className="text-white font-bold mt-0.5">✅</span>
+                    <span><strong className="text-white">Syllabus:</strong> Same 17 subjects as AGRICET Diploma — start now!</span>
+                  </div>
+                  <div className="flex items-start gap-2">
+                    <span className="text-white font-bold mt-0.5">🎯</span>
+                    <span><strong className="text-white">Our Platform:</strong> Covers full AEO syllabus — 3,400+ MCQs ready!</span>
+                  </div>
+                </div>
+                <div className="mt-4 flex flex-wrap gap-3">
+                  <Link href="/aeo-papers" className="bg-white text-orange-600 font-black px-5 py-2 rounded-xl text-sm hover:bg-orange-50 transition-all hover:scale-105 shadow">
+                    Start AEO Practice — Free →
+                  </Link>
+                  <Link href="/#aeo" className="bg-white/20 text-white font-bold px-5 py-2 rounded-xl text-sm hover:bg-white/30 transition-all border border-white/30">
+                    Learn More About AEO
+                  </Link>
+                </div>
+              </div>
+            </div>
+          </div>
+
           <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl border border-gray-200"
                style={{ paddingBottom: "56.25%" }}>
             <iframe
               className="absolute top-0 left-0 w-full h-full"
               src="https://www.youtube.com/embed/TiDxtHvtmUc?rel=0&modestbranding=1"
-              title="AGRICET 2026 Mock Test Series"
+              title="AEO & AGRICET Mock Test Series 2026"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
               allowFullScreen
             />
           </div>
           <p className="mt-5 text-sm text-gray-400">
-            Like the video? 👍 Share it with your classmates and help them prepare for AGRICET 2026!
+            Like the video? 👍 Share it with your classmates — prepare for both <strong>AGRICET 2026</strong> and <strong>AEO</strong>!
           </p>
 
           {/* ── Grand Tests YouTube-style Slide ── */}
