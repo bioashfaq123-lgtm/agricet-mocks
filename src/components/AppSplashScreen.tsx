@@ -80,6 +80,13 @@ export default function AppSplashScreen({ children }: { children: React.ReactNod
 
           {/* ── Text block ── */}
           <div className="relative z-10 flex flex-col items-center text-center px-8">
+            {/* AEO badge above */}
+            <div
+              className="font-black tracking-widest mb-2"
+              style={{ fontSize: "clamp(0.9rem, 3.5vw, 1.5rem)", color: "#FFC828", textShadow: "0 2px 8px rgba(0,0,0,0.8)", letterSpacing: "0.25em" }}
+            >
+              AEO &amp;
+            </div>
             <h1
               className="font-black text-white leading-none tracking-wide"
               style={{ fontSize: "clamp(2.8rem, 12vw, 5.5rem)", textShadow: "0 2px 12px rgba(0,0,0,0.8)" }}
@@ -104,7 +111,6 @@ export default function AppSplashScreen({ children }: { children: React.ReactNod
               className="mt-4 rounded-full"
               style={{ height: "3px", width: "clamp(120px, 40vw, 280px)", background: "#FFC828" }}
             />
-
           </div>
         </div>
       )}

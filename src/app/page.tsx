@@ -70,12 +70,12 @@ export default function LandingPage() {
 
         <div className="relative max-w-6xl mx-auto px-4 py-20 md:py-28 text-center">
           <div className="inline-flex items-center gap-2 bg-white/20 backdrop-blur px-4 py-1.5 rounded-full text-sm font-medium mb-6">
-            <Leaf className="w-4 h-4" /> PJTAU-AGRICET Preparation Platform
+            <Leaf className="w-4 h-4" /> PJTSAU — AGRICET &amp; AEO Preparation Platform
           </div>
           <h1 className="text-4xl md:text-6xl font-black leading-tight mb-4">
-            Crack AGRICET &<br />
-            <span className="text-gold-400">Secure Your BSc (Hons)</span><br />
-            Agriculture Seat 🌱
+            Crack <span className="text-gold-400">AGRICET &amp; AEO</span><br />
+            Secure Your Dream<br />
+            Government Career 🌱
           </h1>
           <div className="h-8 mb-8">
             <p className="text-lg md:text-xl text-primary-100 transition-all duration-500 key={motIdx}">
