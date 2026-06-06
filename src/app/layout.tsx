@@ -4,6 +4,7 @@ import { Toaster } from "react-hot-toast";
 import { AuthProvider } from "@/contexts/AuthContext";
 import AppSplashScreen from "@/components/AppSplashScreen";
 import ChatBot from "@/components/ChatBot";
+import AnnouncementBanner from "@/components/AnnouncementBanner";
 
 // themeColor must be in viewport export (not metadata) — Next.js 14 requirement
 export const viewport: Viewport = {
@@ -47,6 +48,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       </head>
       <body className="bg-gray-50 text-gray-900 antialiased">
         <AuthProvider>
+          <AnnouncementBanner />
           <AppSplashScreen>
           {children}
           </AppSplashScreen>
