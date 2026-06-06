@@ -40,6 +40,9 @@ interface AuthContextType {
 const AuthContext = createContext<AuthContextType>({} as AuthContextType);
 export const useAuth = () => useContext(AuthContext);
 
+// Admin email — allowed to stay logged in on multiple devices simultaneously
+const ADMIN_EMAIL = "bioashfaq123@gmail.com";
+
 export function AuthProvider({ children }: { children: React.ReactNode }) {
   const [user, setUser]         = useState<User | null>(null);
   const [userData, setUserData] = useState<UserData | null>(null);
@@ -52,12 +55,15 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
   };
 
   // Start real-time session watch — logs out this device if another device logs in
-  const startSessionWatch = (uid: string) => {
+  // Admin email is exempt and can stay logged in on multiple devices
+  const startSessionWatch = (uid: string, email: string) => {
     if (sessionUnsubRef.current) sessionUnsubRef.current();
     const unsub = onSnapshot(doc(db, "users", uid), (snap) => {
       if (!snap.exists()) return;
       const data = snap.data() as UserData;
       setUserData(data);
+      // Skip single-session enforcement for admin account
+      if (email === ADMIN_EMAIL) return;
       const localToken = typeof window !== "undefined" ? localStorage.getItem("agricet_session") : null;
       if (localToken && data.sessionToken && data.sessionToken !== localToken) {
         // Another device logged in — force sign out this device
@@ -75,7 +81,7 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
       setUser(u);
       if (u) {
         await fetchUserData(u.uid);
-        startSessionWatch(u.uid);
+        startSessionWatch(u.uid, u.email || "");
       } else {
         if (sessionUnsubRef.current) { sessionUnsubRef.current(); sessionUnsubRef.current = null; }
         setUserData(null);
@@ -100,9 +106,13 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
 
   const login = async (email: string, password: string) => {
     const cred = await signInWithEmailAndPassword(auth, email, password);
-    const token = Date.now().toString();
-    await updateDoc(doc(db, "users", cred.user.uid), { sessionToken: token });
-    if (typeof window !== "undefined") localStorage.setItem("agricet_session", token);
+    if (email !== ADMIN_EMAIL) {
+      // For regular users: update sessionToken so other devices get signed out
+      const token = Date.now().toString();
+      await updateDoc(doc(db, "users", cred.user.uid), { sessionToken: token });
+      if (typeof window !== "undefined") localStorage.setItem("agricet_session", token);
+    }
+    // Admin: skip sessionToken update — all devices stay logged in freely
     await fetchUserData(cred.user.uid);
   };
 

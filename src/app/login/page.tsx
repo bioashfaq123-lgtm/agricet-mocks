@@ -104,7 +104,9 @@ export default function LoginPage() {
           </div>
 
           <div className="mt-4 p-3 bg-primary-50 rounded-xl text-xs text-primary-700 text-center">
-            🔒 Single-session security: Logging in will sign out any other active session
+            {email === "bioashfaq123@gmail.com"
+              ? "✅ Admin account: You can stay logged in on multiple devices"
+              : "🔒 Single-session security: Logging in will sign out any other active session"}
           </div>
         </div>
 
