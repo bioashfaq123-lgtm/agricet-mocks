@@ -9,6 +9,7 @@ export default function AnnouncementBanner() {
   if (!visible) return null;
 
   return (
+    <>
     <div className="relative bg-green-600 text-white text-sm font-semibold overflow-hidden" style={{ height: "36px" }}>
       {/* Scrolling text */}
       <div className="flex items-center h-full">
@@ -39,5 +40,19 @@ export default function AnnouncementBanner() {
         }
       `}</style>
     </div>
+
+    {/* Registration link bar */}
+    <div className="bg-green-50 border-b border-green-200 text-center py-1.5 px-4 text-sm text-green-800">
+      📝 Register for FREE Live Mock Test (8th June) →{" "}
+      <a
+        href="https://forms.gle/YNr8vqXKBFvTRgXW9"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="font-bold underline text-green-700 hover:text-green-900"
+      >
+        Click here to Register
+      </a>
+    </div>
+    </>
   );
 }
