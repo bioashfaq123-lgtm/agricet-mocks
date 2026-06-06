@@ -1,5 +1,5 @@
 "use client";
-import React, { createContext, useContext, useEffect, useState } from "react";
+import React, { createContext, useContext, useEffect, useRef, useState } from "react";
 import {
   User,
   createUserWithEmailAndPassword,
@@ -9,8 +9,9 @@ import {
   updateProfile,
   sendPasswordResetEmail,
 } from "firebase/auth";
-import { doc, setDoc, getDoc, updateDoc, serverTimestamp } from "firebase/firestore";
+import { doc, setDoc, getDoc, updateDoc, onSnapshot, serverTimestamp } from "firebase/firestore";
 import { auth, db } from "@/lib/firebase";
+import toast from "react-hot-toast";
 
 interface UserData {
   uid: string;
@@ -43,41 +44,65 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
   const [user, setUser]         = useState<User | null>(null);
   const [userData, setUserData] = useState<UserData | null>(null);
   const [loading, setLoading]   = useState(true);
+  const sessionUnsubRef         = useRef<(() => void) | null>(null);
 
   const fetchUserData = async (uid: string) => {
     const snap = await getDoc(doc(db, "users", uid));
     if (snap.exists()) setUserData(snap.data() as UserData);
   };
 
+  // Start real-time session watch — logs out this device if another device logs in
+  const startSessionWatch = (uid: string) => {
+    if (sessionUnsubRef.current) sessionUnsubRef.current();
+    const unsub = onSnapshot(doc(db, "users", uid), (snap) => {
+      if (!snap.exists()) return;
+      const data = snap.data() as UserData;
+      setUserData(data);
+      const localToken = typeof window !== "undefined" ? localStorage.getItem("agricet_session") : null;
+      if (localToken && data.sessionToken && data.sessionToken !== localToken) {
+        // Another device logged in — force sign out this device
+        toast.error("You have been signed out because your account was accessed on another device.", { duration: 5000 });
+        signOut(auth);
+        localStorage.removeItem("agricet_session");
+        setUserData(null);
+      }
+    });
+    sessionUnsubRef.current = unsub;
+  };
+
   useEffect(() => {
     const unsub = onAuthStateChanged(auth, async (u) => {
       setUser(u);
-      if (u) await fetchUserData(u.uid);
-      else setUserData(null);
+      if (u) {
+        await fetchUserData(u.uid);
+        startSessionWatch(u.uid);
+      } else {
+        if (sessionUnsubRef.current) { sessionUnsubRef.current(); sessionUnsubRef.current = null; }
+        setUserData(null);
+      }
       setLoading(false);
     });
-    return unsub;
-  }, []);
+    return () => { unsub(); if (sessionUnsubRef.current) sessionUnsubRef.current(); };
+  }, []); // eslint-disable-line react-hooks/exhaustive-deps
 
   const signup = async (name: string, email: string, password: string) => {
     const cred = await createUserWithEmailAndPassword(auth, email, password);
     await updateProfile(cred.user, { displayName: name });
+    const token = Date.now().toString();
     const newUser: UserData = {
       uid: cred.user.uid, email, name, isPaid: false,
-      progress: {}, createdAt: serverTimestamp(),
+      progress: {}, createdAt: serverTimestamp(), sessionToken: token,
     };
     await setDoc(doc(db, "users", cred.user.uid), newUser);
+    if (typeof window !== "undefined") localStorage.setItem("agricet_session", token);
     setUserData(newUser);
   };
 
   const login = async (email: string, password: string) => {
     const cred = await signInWithEmailAndPassword(auth, email, password);
-    // Single session enforcement: store session token in Firestore
     const token = Date.now().toString();
     await updateDoc(doc(db, "users", cred.user.uid), { sessionToken: token });
-    if (typeof window !== "undefined") {
-      localStorage.setItem("agricet_session", token);
-    }
+    if (typeof window !== "undefined") localStorage.setItem("agricet_session", token);
     await fetchUserData(cred.user.uid);
   };
 
