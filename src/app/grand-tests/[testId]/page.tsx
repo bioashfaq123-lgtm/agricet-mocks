@@ -8,7 +8,7 @@ import {
 } from "lucide-react";
 import { useAuth } from "@/contexts/AuthContext";
 import { db } from "@/lib/firebase";
-import { collection, addDoc, doc, updateDoc, serverTimestamp } from "firebase/firestore";
+import { collection, addDoc, serverTimestamp } from "firebase/firestore";
 import { GRAND_TESTS, GrandTestQuestion } from "@/data/grandTestMeta";
 import { GRAND_TEST_1  } from "@/data/grandTest1";
 import { GRAND_TEST_2  } from "@/data/grandTest2";
@@ -147,41 +147,59 @@ export default function GrandTestPage() {
         const unattempted = questions.length - attemptedNow;
         const score     = Math.round((correct / questions.length) * 100);
 
-        const docRef = await addDoc(collection(db, "liveTestAttempts"), {
-          uid: user.uid,
-          name: userData?.name ?? user.displayName ?? "Student",
-          email: userData?.email ?? user.email ?? "",
-          score, correct, wrong, unattempted,
-          total: questions.length,
-          answers,
-          emailSent: false,
-          completedAt: serverTimestamp(),
-        });
+        const name = userData?.name ?? user.displayName ?? "Student";
+        const to   = userData?.email ?? user.email ?? "";
+
+        // ── Primary path: server-side API persists the attempt (via Admin SDK,
+        // bypassing Firestore security rules) AND emails the result. This must not
+        // depend on the client being able to write directly to Firestore — direct
+        // client writes can silently fail (permission-denied) under strict rules,
+        // which would otherwise block both the save AND the email. ──
+        if (to) {
+          try {
+            const res = await fetch("/api/send-live-results", {
+              method: "POST",
+              headers: { "Content-Type": "application/json" },
+              body: JSON.stringify({
+                to,
+                name,
+                uid: user.uid,
+                score, correct, wrong, unattempted,
+                total: questions.length,
+                answers,
+                questions: questions.map(q => ({
+                  qNo: q.qNo,
+                  question: q.question,
+                  options: q.options,
+                  correct: q.correct,
+                  chosen: answers[q.id] ?? null,
+                  explanation: q.explanation,
+                })),
+              }),
+            });
+            if (!res.ok) console.error("send-live-results API returned non-OK:", res.status);
+          } catch (apiErr) {
+            console.error("send-live-results API call failed:", apiErr);
+          }
+        }
         if (cancelled) return;
 
-        const to = userData?.email ?? user.email;
-        if (to) {
-          const res = await fetch("/api/send-live-results", {
-            method: "POST",
-            headers: { "Content-Type": "application/json" },
-            body: JSON.stringify({
-              to,
-              name: userData?.name ?? user.displayName ?? "Student",
-              score, correct, wrong, unattempted,
-              total: questions.length,
-              questions: questions.map(q => ({
-                qNo: q.qNo,
-                question: q.question,
-                options: q.options,
-                correct: q.correct,
-                chosen: answers[q.id] ?? null,
-                explanation: q.explanation,
-              })),
-            }),
+        // ── Best-effort client-side write as a fallback (in case the Admin SDK
+        // is ever unavailable). Wrapped separately so its failure can never block
+        // the API call / email above. ──
+        try {
+          await addDoc(collection(db, "liveTestAttempts"), {
+            uid: user.uid,
+            name,
+            email: to,
+            score, correct, wrong, unattempted,
+            total: questions.length,
+            answers,
+            emailSent: true,
+            completedAt: serverTimestamp(),
           });
-          if (res.ok) {
-            await updateDoc(doc(db, "liveTestAttempts", docRef.id), { emailSent: true });
-          }
+        } catch (writeErr) {
+          console.error("Client-side liveTestAttempts write failed (expected if rules restrict it):", writeErr);
         }
       } catch (e) {
         console.error("Failed to save/email live test result:", e);

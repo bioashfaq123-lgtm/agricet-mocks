@@ -1,5 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 import nodemailer from "nodemailer";
+import { adminDb } from "@/lib/firebase-admin";
+import admin from "firebase-admin";
 
 export const maxDuration = 30;
 
@@ -21,6 +23,8 @@ interface SendResultsBody {
   unattempted: number;
   total: number;
   questions: QuestionResult[];
+  uid?: string;
+  answers?: Record<string, number>;
 }
 
 function letter(i: number) {
@@ -81,10 +85,52 @@ export async function POST(req: NextRequest) {
     });
 
     const body: SendResultsBody = await req.json();
-    const { to, name, score, correct, wrong, unattempted, total, questions } = body;
+    const { to, name, score, correct, wrong, unattempted, total, questions, uid, answers } = body;
 
     if (!to || !questions || !Array.isArray(questions)) {
       return NextResponse.json({ success: false, error: "Invalid request" }, { status: 400 });
+    }
+
+    // ── Server-side persistence (uses Admin SDK — bypasses client Firestore rules) ──
+    // This is the authoritative save: even if the client-side addDoc fails (e.g. due to
+    // security rules denying the write), the result still lands in liveTestAttempts so
+    // it shows up on the admin dashboard. De-duped by uid (one attempt per student).
+    let attemptDocId: string | null = null;
+    if (adminDb) {
+      try {
+        const existing = uid
+          ? await adminDb.collection("liveTestAttempts").where("uid", "==", uid).limit(1).get()
+          : null;
+        if (existing && !existing.empty) {
+          attemptDocId = existing.docs[0].id;
+          await adminDb.collection("liveTestAttempts").doc(attemptDocId).set(
+            {
+              uid: uid ?? "",
+              name: name ?? "—",
+              email: to,
+              score, correct, wrong, unattempted, total,
+              answers: answers ?? {},
+              emailSent: false,
+            },
+            { merge: true }
+          );
+        } else {
+          const ref = await adminDb.collection("liveTestAttempts").add({
+            uid: uid ?? "",
+            name: name ?? "—",
+            email: to,
+            score, correct, wrong, unattempted, total,
+            answers: answers ?? {},
+            emailSent: false,
+            completedAt: admin.firestore.FieldValue.serverTimestamp(),
+          });
+          attemptDocId = ref.id;
+        }
+      } catch (e) {
+        console.error("send-live-results: failed to persist attempt via Admin SDK:", e);
+      }
+    } else {
+      console.warn("send-live-results: adminDb unavailable — skipping server-side persistence");
     }
 
     const grade =
@@ -183,7 +229,15 @@ export async function POST(req: NextRequest) {
       html,
     });
 
-    return NextResponse.json({ success: true });
+    if (adminDb && attemptDocId) {
+      try {
+        await adminDb.collection("liveTestAttempts").doc(attemptDocId).set({ emailSent: true }, { merge: true });
+      } catch (e) {
+        console.error("send-live-results: failed to mark emailSent:", e);
+      }
+    }
+
+    return NextResponse.json({ success: true, attemptDocId });
   } catch (err) {
     console.error("send-live-results failed:", err);
     return NextResponse.json({ success: false, error: "Failed to send result email" }, { status: 500 });
