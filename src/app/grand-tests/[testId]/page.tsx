@@ -7,6 +7,8 @@ import {
   Clock, LayoutGrid, Trophy, RotateCcw,
 } from "lucide-react";
 import { useAuth } from "@/contexts/AuthContext";
+import { db } from "@/lib/firebase";
+import { collection, addDoc, doc, updateDoc, serverTimestamp } from "firebase/firestore";
 import { GRAND_TESTS, GrandTestQuestion } from "@/data/grandTestMeta";
 import { GRAND_TEST_1  } from "@/data/grandTest1";
 import { GRAND_TEST_2  } from "@/data/grandTest2";
@@ -241,6 +243,56 @@ export default function GrandTestPage() {
       score >= 55 ? "👍 Good Effort!" :
       score >= 40 ? "📚 Keep Practising!" :
                     "💪 Don't Give Up!";
+
+    // ── For the FREE LIVE mock test only: persist the attempt + email results ──
+    useEffect(() => {
+      if (testId !== "gtlive" || !user) return;
+      let cancelled = false;
+      (async () => {
+        try {
+          const docRef = await addDoc(collection(db, "liveTestAttempts"), {
+            uid: user.uid,
+            name: userData?.name ?? user.displayName ?? "Student",
+            email: userData?.email ?? user.email ?? "",
+            score, correct, wrong, unattempted,
+            total: questions.length,
+            answers,
+            emailSent: false,
+            completedAt: serverTimestamp(),
+          });
+          if (cancelled) return;
+
+          const to = userData?.email ?? user.email;
+          if (to) {
+            const res = await fetch("/api/send-live-results", {
+              method: "POST",
+              headers: { "Content-Type": "application/json" },
+              body: JSON.stringify({
+                to,
+                name: userData?.name ?? user.displayName ?? "Student",
+                score, correct, wrong, unattempted,
+                total: questions.length,
+                questions: questions.map(q => ({
+                  qNo: q.qNo,
+                  question: q.question,
+                  options: q.options,
+                  correct: q.correct,
+                  chosen: answers[q.id] ?? null,
+                  explanation: q.explanation,
+                })),
+              }),
+            });
+            if (res.ok) {
+              await updateDoc(doc(db, "liveTestAttempts", docRef.id), { emailSent: true });
+            }
+          }
+        } catch (e) {
+          console.error("Failed to save/email live test result:", e);
+        }
+      })();
+      return () => { cancelled = true; };
+      // eslint-disable-next-line react-hooks/exhaustive-deps
+    }, []);
 
     return (
       <div className="min-h-screen bg-gray-50 flex items-center justify-center p-4">

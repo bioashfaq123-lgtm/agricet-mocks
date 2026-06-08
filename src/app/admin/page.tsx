@@ -1,7 +1,7 @@
 ﻿"use client";
 import React, { useEffect, useState, useMemo } from "react";
 import { useRouter } from "next/navigation";
-import { collection, getDocs, doc, updateDoc, Timestamp } from "firebase/firestore";
+import { collection, getDocs, doc, updateDoc, Timestamp, onSnapshot, query, orderBy } from "firebase/firestore";
 import { db } from "@/lib/firebase";
 import { useAuth } from "@/contexts/AuthContext";
 import {
@@ -9,6 +9,7 @@ import {
   RefreshCw, TrendingUp, ShieldCheck, Download,
   ToggleLeft, ToggleRight, ChevronUp, ChevronDown,
   UserPlus, CreditCard, Activity, BarChart2, Clock,
+  Radio, Mail, Trophy,
 } from "lucide-react";
 import {
   AreaChart, Area, XAxis, YAxis, CartesianGrid,
@@ -33,7 +34,21 @@ interface AdminUser {
 
 type SortKey = "name" | "email" | "createdAt" | "isPaid" | "paidAt" | "tests" | "accuracy";
 type SortDir  = "asc" | "desc";
-type Tab      = "overview" | "signups" | "payments";
+type Tab      = "overview" | "signups" | "payments" | "live";
+
+interface LiveAttempt {
+  id: string;
+  uid: string;
+  name: string;
+  email: string;
+  score: number;
+  correct: number;
+  wrong: number;
+  unattempted: number;
+  total: number;
+  emailSent?: boolean;
+  completedAt: Timestamp | null;
+}
 
 export default function AdminPage() {
   const { user, loading } = useAuth();
@@ -48,6 +63,35 @@ export default function AdminPage() {
   const [toggling, setToggling] = useState<string | null>(null);
   const [lastRefresh, setLastRefresh] = useState(new Date());
   const [tab, setTab]           = useState<Tab>("overview");
+  const [liveAttempts, setLiveAttempts] = useState<LiveAttempt[]>([]);
+  const [liveLoading,  setLiveLoading]  = useState(true);
+
+  // Real-time listener for live mock test attempts
+  useEffect(() => {
+    if (!user || user.email !== ADMIN_EMAIL) return;
+    const q = query(collection(db, "liveTestAttempts"), orderBy("completedAt", "desc"));
+    const unsub = onSnapshot(q, (snap) => {
+      const list: LiveAttempt[] = snap.docs.map(d => {
+        const data = d.data();
+        return {
+          id: d.id,
+          uid: data.uid ?? "",
+          name: data.name ?? "—",
+          email: data.email ?? "—",
+          score: data.score ?? 0,
+          correct: data.correct ?? 0,
+          wrong: data.wrong ?? 0,
+          unattempted: data.unattempted ?? 0,
+          total: data.total ?? 0,
+          emailSent: data.emailSent ?? false,
+          completedAt: data.completedAt ?? null,
+        };
+      });
+      setLiveAttempts(list);
+      setLiveLoading(false);
+    }, () => setLiveLoading(false));
+    return () => unsub();
+  }, [user]);
 
   useEffect(() => {
     // Wait until auth has fully loaded before deciding to redirect
@@ -325,6 +369,7 @@ export default function AdminPage() {
             { id: "overview",  label: "Overview",  icon: BarChart2 },
             { id: "signups",   label: "All Users", icon: Users },
             { id: "payments",  label: "Payments",  icon: CreditCard },
+            { id: "live",      label: "Live Test", icon: Radio },
           ] as { id: Tab; label: string; icon: React.ElementType }[]).map(t => (
             <button key={t.id} onClick={() => setTab(t.id)}
               className={`flex items-center gap-2 px-5 py-2.5 rounded-lg text-sm font-semibold transition-all ${
@@ -654,6 +699,114 @@ export default function AdminPage() {
             <div className="px-5 py-3 border-t border-gray-100 text-xs text-gray-400 flex justify-between">
               <span>{paidUsers} payments recorded</span>
               <span className="font-bold text-emerald-700">Total: ₹{revenue.toLocaleString("en-IN")}</span>
+            </div>
+          </div>
+        )}
+
+        {/* ════════════════════════════════════════════════════════════ */}
+        {/* LIVE TEST TAB                                                */}
+        {/* ════════════════════════════════════════════════════════════ */}
+        {tab === "live" && (
+          <div className="space-y-6">
+            {/* Stat cards */}
+            <div className="grid grid-cols-2 sm:grid-cols-4 gap-4">
+              <div className="bg-white rounded-2xl border border-gray-200 p-5">
+                <div className="flex items-center gap-2 text-gray-400 text-xs font-semibold uppercase tracking-wide mb-2">
+                  <Radio className="w-4 h-4 text-red-500 animate-pulse" /> Live Attempts
+                </div>
+                <div className="text-3xl font-black text-gray-900">{liveAttempts.length}</div>
+                <p className="text-xs text-gray-400 mt-1">Students who finished the test</p>
+              </div>
+              <div className="bg-white rounded-2xl border border-gray-200 p-5">
+                <div className="flex items-center gap-2 text-gray-400 text-xs font-semibold uppercase tracking-wide mb-2">
+                  <Trophy className="w-4 h-4 text-amber-500" /> Avg Score
+                </div>
+                <div className="text-3xl font-black text-gray-900">
+                  {liveAttempts.length
+                    ? Math.round(liveAttempts.reduce((s, a) => s + a.score, 0) / liveAttempts.length)
+                    : 0}%
+                </div>
+                <p className="text-xs text-gray-400 mt-1">Across all attempts</p>
+              </div>
+              <div className="bg-white rounded-2xl border border-gray-200 p-5">
+                <div className="flex items-center gap-2 text-gray-400 text-xs font-semibold uppercase tracking-wide mb-2">
+                  <CheckCircle className="w-4 h-4 text-green-600" /> Highest Score
+                </div>
+                <div className="text-3xl font-black text-gray-900">
+                  {liveAttempts.length ? Math.max(...liveAttempts.map(a => a.score)) : 0}%
+                </div>
+                <p className="text-xs text-gray-400 mt-1">Top performer</p>
+              </div>
+              <div className="bg-white rounded-2xl border border-gray-200 p-5">
+                <div className="flex items-center gap-2 text-gray-400 text-xs font-semibold uppercase tracking-wide mb-2">
+                  <Mail className="w-4 h-4 text-blue-500" /> Result Emails Sent
+                </div>
+                <div className="text-3xl font-black text-gray-900">
+                  {liveAttempts.filter(a => a.emailSent).length} / {liveAttempts.length}
+                </div>
+                <p className="text-xs text-gray-400 mt-1">Auto-sent after submission</p>
+              </div>
+            </div>
+
+            {/* Attempts table */}
+            <div className="bg-white rounded-2xl border border-gray-200 overflow-hidden">
+              <div className="px-5 py-4 border-b border-gray-100 flex items-center justify-between">
+                <h2 className="font-bold text-gray-900 flex items-center gap-2">
+                  <Radio className="w-4 h-4 text-red-500" /> Live Mock Test — Attempts (real-time)
+                </h2>
+                <span className="text-xs text-gray-400">Updates automatically</span>
+              </div>
+              {liveLoading ? (
+                <div className="py-16 text-center text-gray-400 text-sm">Loading attempts…</div>
+              ) : liveAttempts.length === 0 ? (
+                <div className="py-16 text-center text-gray-400">
+                  <Radio className="w-10 h-10 mx-auto mb-3 opacity-30" />
+                  <p className="text-sm">No one has attempted the live test yet</p>
+                </div>
+              ) : (
+                <div className="overflow-x-auto">
+                  <table className="w-full text-sm">
+                    <thead className="bg-gray-50 text-gray-400 text-xs uppercase tracking-wide">
+                      <tr>
+                        <th className="text-left px-5 py-3">Student</th>
+                        <th className="text-left px-5 py-3">Email</th>
+                        <th className="text-center px-5 py-3">Score</th>
+                        <th className="text-center px-5 py-3">Correct</th>
+                        <th className="text-center px-5 py-3">Wrong</th>
+                        <th className="text-center px-5 py-3">Skipped</th>
+                        <th className="text-center px-5 py-3">Result Email</th>
+                        <th className="text-right px-5 py-3">Submitted</th>
+                      </tr>
+                    </thead>
+                    <tbody className="divide-y divide-gray-50">
+                      {liveAttempts.map(a => (
+                        <tr key={a.id} className="hover:bg-gray-50/60">
+                          <td className="px-5 py-3 font-semibold text-gray-900">{a.name}</td>
+                          <td className="px-5 py-3 text-gray-500">{a.email}</td>
+                          <td className="px-5 py-3 text-center">
+                            <span className={`font-bold px-2.5 py-1 rounded-full text-xs ${
+                              a.score >= 70 ? "bg-green-100 text-green-700"
+                              : a.score >= 50 ? "bg-amber-100 text-amber-700"
+                              : "bg-red-100 text-red-700"
+                            }`}>{a.score}%</span>
+                          </td>
+                          <td className="px-5 py-3 text-center text-green-700 font-semibold">{a.correct}</td>
+                          <td className="px-5 py-3 text-center text-red-600 font-semibold">{a.wrong}</td>
+                          <td className="px-5 py-3 text-center text-gray-400">{a.unattempted}</td>
+                          <td className="px-5 py-3 text-center">
+                            {a.emailSent
+                              ? <span className="inline-flex items-center gap-1 text-green-700 text-xs font-semibold"><CheckCircle className="w-3.5 h-3.5" /> Sent</span>
+                              : <span className="inline-flex items-center gap-1 text-gray-400 text-xs font-semibold"><XCircle className="w-3.5 h-3.5" /> Pending</span>}
+                          </td>
+                          <td className="px-5 py-3 text-right text-gray-400 text-xs">
+                            {a.completedAt ? timeAgo(a.completedAt.toDate().toISOString()) : "—"}
+                          </td>
+                        </tr>
+                      ))}
+                    </tbody>
+                  </table>
+                </div>
+              )}
             </div>
           </div>
         )}
