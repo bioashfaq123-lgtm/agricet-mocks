@@ -73,7 +73,7 @@ function formatTime(secs: number) {
 // ── Live test window (IST = UTC+5:30) ───────────────────────────────────────
 // June 8 2026  20:00 IST → UTC 14:30  |  22:00 IST → UTC 16:30  (extended due to live technical issue)
 const LIVE_START_UTC = new Date("2026-06-08T14:30:00Z"); // 8 PM IST
-const LIVE_END_UTC   = new Date("2026-06-08T18:30:00Z"); // 12:00 AM IST (re-extended for late joiners)
+const LIVE_END_UTC   = new Date("2026-06-09T06:30:00Z"); // 12:00 PM IST, 9th June (extended for late joiners)
 
 function getLiveStatus(): "before" | "live" | "ended" {
   const now = new Date();
@@ -246,7 +246,7 @@ export default function GrandTestPage() {
               <span>📅</span><span className="font-semibold">Date: 8th June 2026 (Monday)</span>
             </div>
             <div className="flex items-center gap-2 text-green-400 text-sm">
-              <span>⏰</span><span className="font-semibold">Time: 8:00 PM – 12:00 AM IST</span>
+              <span>⏰</span><span className="font-semibold">Time: 8 PM (8th) – 12:00 PM (9th June) IST</span>
             </div>
             <div className="flex items-center gap-2 text-green-400 text-sm">
               <span>📝</span><span className="font-semibold">100 Questions · 100 Minutes</span>
@@ -278,7 +278,7 @@ export default function GrandTestPage() {
             Thank you to all students who participated!
           </p>
           <div className="bg-gray-800 rounded-xl p-4 mb-6 text-left text-sm text-gray-300 space-y-1 border border-gray-700">
-            <p>📅 Conducted: 8th June 2026, 8 PM – 12:00 AM IST</p>
+            <p>📅 Conducted: 8th June 2026, 8 PM – 9th June 2026, 12:00 PM IST</p>
             <p>📝 100 Questions · 100 Minutes</p>
             <p>🌐 agricet-mocks-8mry.vercel.app</p>
           </div>
