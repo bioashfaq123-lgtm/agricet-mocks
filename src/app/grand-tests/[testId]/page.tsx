@@ -57,6 +57,7 @@ const SUBJECT_COLORS: Record<string, string> = {
   "horticulture":           "bg-fuchsia-100 text-fuchsia-700",
   "extension":              "bg-sky-100 text-sky-700",
   "agro-meteorology":       "bg-violet-100 text-violet-700",
+  "english":                "bg-stone-100 text-stone-700",
 };
 
 function formatSubject(s: string) {
