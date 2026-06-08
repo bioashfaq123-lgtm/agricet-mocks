@@ -130,6 +130,67 @@ export default function GrandTestPage() {
     return () => clearInterval(timer);
   }, [finished]);
 
+  // ── For the FREE LIVE mock test only: persist the attempt + email results ──
+  // NOTE: must be declared unconditionally at top level (Rules of Hooks) —
+  // calling useEffect inside `if (finished) {...}` caused a hook-count mismatch
+  // ("Rendering more hooks than during the previous render") which crashed the
+  // page with "Application error: a client-side exception has occurred" for
+  // every student as soon as they finished the test.
+  useEffect(() => {
+    if (!finished || testId !== "gtlive" || !user) return;
+    let cancelled = false;
+    (async () => {
+      try {
+        const attemptedNow = Object.keys(answers).length;
+        const correct   = questions.filter(q => answers[q.id] === q.correct).length;
+        const wrong     = attemptedNow - correct;
+        const unattempted = questions.length - attemptedNow;
+        const score     = Math.round((correct / questions.length) * 100);
+
+        const docRef = await addDoc(collection(db, "liveTestAttempts"), {
+          uid: user.uid,
+          name: userData?.name ?? user.displayName ?? "Student",
+          email: userData?.email ?? user.email ?? "",
+          score, correct, wrong, unattempted,
+          total: questions.length,
+          answers,
+          emailSent: false,
+          completedAt: serverTimestamp(),
+        });
+        if (cancelled) return;
+
+        const to = userData?.email ?? user.email;
+        if (to) {
+          const res = await fetch("/api/send-live-results", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({
+              to,
+              name: userData?.name ?? user.displayName ?? "Student",
+              score, correct, wrong, unattempted,
+              total: questions.length,
+              questions: questions.map(q => ({
+                qNo: q.qNo,
+                question: q.question,
+                options: q.options,
+                correct: q.correct,
+                chosen: answers[q.id] ?? null,
+                explanation: q.explanation,
+              })),
+            }),
+          });
+          if (res.ok) {
+            await updateDoc(doc(db, "liveTestAttempts", docRef.id), { emailSent: true });
+          }
+        }
+      } catch (e) {
+        console.error("Failed to save/email live test result:", e);
+      }
+    })();
+    return () => { cancelled = true; };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [finished]);
+
   // Auth / access guard — wait for Firebase to finish loading first
   if (loading) {
     return (
@@ -244,56 +305,6 @@ export default function GrandTestPage() {
       score >= 55 ? "👍 Good Effort!" :
       score >= 40 ? "📚 Keep Practising!" :
                     "💪 Don't Give Up!";
-
-    // ── For the FREE LIVE mock test only: persist the attempt + email results ──
-    useEffect(() => {
-      if (testId !== "gtlive" || !user) return;
-      let cancelled = false;
-      (async () => {
-        try {
-          const docRef = await addDoc(collection(db, "liveTestAttempts"), {
-            uid: user.uid,
-            name: userData?.name ?? user.displayName ?? "Student",
-            email: userData?.email ?? user.email ?? "",
-            score, correct, wrong, unattempted,
-            total: questions.length,
-            answers,
-            emailSent: false,
-            completedAt: serverTimestamp(),
-          });
-          if (cancelled) return;
-
-          const to = userData?.email ?? user.email;
-          if (to) {
-            const res = await fetch("/api/send-live-results", {
-              method: "POST",
-              headers: { "Content-Type": "application/json" },
-              body: JSON.stringify({
-                to,
-                name: userData?.name ?? user.displayName ?? "Student",
-                score, correct, wrong, unattempted,
-                total: questions.length,
-                questions: questions.map(q => ({
-                  qNo: q.qNo,
-                  question: q.question,
-                  options: q.options,
-                  correct: q.correct,
-                  chosen: answers[q.id] ?? null,
-                  explanation: q.explanation,
-                })),
-              }),
-            });
-            if (res.ok) {
-              await updateDoc(doc(db, "liveTestAttempts", docRef.id), { emailSent: true });
-            }
-          }
-        } catch (e) {
-          console.error("Failed to save/email live test result:", e);
-        }
-      })();
-      return () => { cancelled = true; };
-      // eslint-disable-next-line react-hooks/exhaustive-deps
-    }, []);
 
     return (
       <div className="min-h-screen bg-gray-50 flex items-center justify-center p-4">
