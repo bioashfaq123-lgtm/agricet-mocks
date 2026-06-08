@@ -916,6 +916,28 @@ export default function AdminPage() {
 
                       {isOpen && (
                         <div className="px-4 pb-4 space-y-2">
+                          {q.matchTable && (
+                            <div className="overflow-x-auto mb-1 rounded-xl border border-gray-200">
+                              <table className="w-full text-sm">
+                                <thead>
+                                  <tr className="bg-primary-50">
+                                    {q.matchTable.headers.map((h, i) => (
+                                      <th key={i} className="text-left font-bold text-primary-800 px-3 py-2 border-b border-gray-200">{h}</th>
+                                    ))}
+                                  </tr>
+                                </thead>
+                                <tbody>
+                                  {q.matchTable.rows.map((row, ri) => (
+                                    <tr key={ri} className={ri % 2 === 0 ? "bg-white" : "bg-gray-50"}>
+                                      {row.map((cell, ci) => (
+                                        <td key={ci} className="px-3 py-2 text-gray-700 border-b border-gray-100 last:border-b-0">{cell}</td>
+                                      ))}
+                                    </tr>
+                                  ))}
+                                </tbody>
+                              </table>
+                            </div>
+                          )}
                           {q.options.map((opt, i) => (
                             <div
                               key={i}

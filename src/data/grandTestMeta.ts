@@ -31,4 +31,9 @@ export interface GrandTestQuestion {
   options: string[];
   correct: number;   // 0-indexed
   explanation: string;
+  /** Optional structured match-the-following table for "match the columns" type questions */
+  matchTable?: {
+    headers: [string, string, string];
+    rows: [string, string, string][];
+  };
 }

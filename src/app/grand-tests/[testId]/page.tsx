@@ -434,9 +434,37 @@ export default function GrandTestPage() {
             </div>
 
             {/* Question text */}
-            <p className="text-gray-900 font-semibold text-base sm:text-lg leading-relaxed mb-6">
+            <p className="text-gray-900 font-semibold text-base sm:text-lg leading-relaxed mb-3">
               {current?.question}
             </p>
+
+            {/* Optional match-the-following table */}
+            {current?.matchTable && (
+              <div className="overflow-x-auto mb-6 rounded-xl border border-gray-200">
+                <table className="w-full text-sm">
+                  <thead>
+                    <tr className="bg-primary-50">
+                      {current.matchTable.headers.map((h, i) => (
+                        <th key={i} className="text-left font-bold text-primary-800 px-3 py-2.5 border-b border-gray-200">
+                          {h}
+                        </th>
+                      ))}
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {current.matchTable.rows.map((row, ri) => (
+                      <tr key={ri} className={ri % 2 === 0 ? "bg-white" : "bg-gray-50"}>
+                        {row.map((cell, ci) => (
+                          <td key={ci} className="px-3 py-2.5 text-gray-700 border-b border-gray-100 last:border-b-0">
+                            {cell}
+                          </td>
+                        ))}
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            )}
 
             {/* Options */}
             <div className="space-y-3">
