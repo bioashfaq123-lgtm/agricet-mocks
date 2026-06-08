@@ -9,14 +9,40 @@ import {
   RefreshCw, TrendingUp, ShieldCheck, Download,
   ToggleLeft, ToggleRight, ChevronUp, ChevronDown,
   UserPlus, CreditCard, Activity, BarChart2, Clock,
-  Radio, Mail, Trophy,
+  Radio, Mail, Trophy, ListChecks, ChevronRight,
 } from "lucide-react";
+import { GRAND_TEST_LIVE } from "@/data/grandTestLive";
 import {
   AreaChart, Area, XAxis, YAxis, CartesianGrid,
   Tooltip, ResponsiveContainer, BarChart, Bar,
 } from "recharts";
 
 const ADMIN_EMAIL = process.env.NEXT_PUBLIC_ADMIN_EMAIL || "bioashfaq123@gmail.com";
+
+// subject → short colour label (for Live Questions tab)
+const SUBJECT_COLORS: Record<string, string> = {
+  "agronomy":               "bg-green-100 text-green-700",
+  "kharif-crops":           "bg-lime-100 text-lime-700",
+  "rabi-crops":             "bg-yellow-100 text-yellow-700",
+  "genetics":               "bg-purple-100 text-purple-700",
+  "seed-technology":        "bg-teal-100 text-teal-700",
+  "soil-science":           "bg-amber-100 text-amber-700",
+  "soil-fertility":         "bg-orange-100 text-orange-700",
+  "entomology":             "bg-pink-100 text-pink-700",
+  "crop-pests":             "bg-rose-100 text-rose-700",
+  "farm-machinery":         "bg-cyan-100 text-cyan-700",
+  "plant-pathology":        "bg-red-100 text-red-700",
+  "agricultural-economics": "bg-blue-100 text-blue-700",
+  "surveying":              "bg-indigo-100 text-indigo-700",
+  "forestry":               "bg-emerald-100 text-emerald-700",
+  "horticulture":           "bg-fuchsia-100 text-fuchsia-700",
+  "extension":              "bg-sky-100 text-sky-700",
+  "agro-meteorology":       "bg-violet-100 text-violet-700",
+};
+
+function formatSubject(s: string) {
+  return s.replace(/-/g, " ").replace(/\b\w/g, l => l.toUpperCase());
+}
 
 interface AdminUser {
   uid: string;
@@ -34,7 +60,7 @@ interface AdminUser {
 
 type SortKey = "name" | "email" | "createdAt" | "isPaid" | "paidAt" | "tests" | "accuracy";
 type SortDir  = "asc" | "desc";
-type Tab      = "overview" | "signups" | "payments" | "live";
+type Tab      = "overview" | "signups" | "payments" | "live" | "questions";
 
 interface LiveAttempt {
   id: string;
@@ -65,6 +91,9 @@ export default function AdminPage() {
   const [tab, setTab]           = useState<Tab>("overview");
   const [liveAttempts, setLiveAttempts] = useState<LiveAttempt[]>([]);
   const [liveLoading,  setLiveLoading]  = useState(true);
+  const [qSearch,      setQSearch]      = useState("");
+  const [qSubject,     setQSubject]     = useState("all");
+  const [qExpanded,    setQExpanded]    = useState<string | null>(null);
 
   // Real-time listener for live mock test attempts
   useEffect(() => {
@@ -370,6 +399,7 @@ export default function AdminPage() {
             { id: "signups",   label: "All Users", icon: Users },
             { id: "payments",  label: "Payments",  icon: CreditCard },
             { id: "live",      label: "Live Test", icon: Radio },
+            { id: "questions", label: "Live Questions", icon: ListChecks },
           ] as { id: Tab; label: string; icon: React.ElementType }[]).map(t => (
             <button key={t.id} onClick={() => setTab(t.id)}
               className={`flex items-center gap-2 px-5 py-2.5 rounded-lg text-sm font-semibold transition-all ${
@@ -810,6 +840,117 @@ export default function AdminPage() {
             </div>
           </div>
         )}
+
+        {/* ════════════════════════════════════════════════════════════ */}
+        {/* LIVE QUESTIONS TAB                                           */}
+        {/* ════════════════════════════════════════════════════════════ */}
+        {tab === "questions" && (() => {
+          const subjects = Array.from(new Set(GRAND_TEST_LIVE.map(q => q.subject)));
+          const filtered = GRAND_TEST_LIVE.filter(q => {
+            const matchesSubject = qSubject === "all" || q.subject === qSubject;
+            const s = qSearch.trim().toLowerCase();
+            const matchesSearch = !s ||
+              q.question.toLowerCase().includes(s) ||
+              q.options.some(o => o.toLowerCase().includes(s)) ||
+              String(q.qNo).includes(s);
+            return matchesSubject && matchesSearch;
+          });
+
+          return (
+            <div className="space-y-5">
+              <div className="bg-white rounded-2xl border border-gray-200 p-5">
+                <div className="flex items-center gap-2 mb-1">
+                  <ListChecks className="w-5 h-5 text-primary-600" />
+                  <h2 className="text-lg font-black text-gray-900">Live Mock Test — All Questions</h2>
+                </div>
+                <p className="text-sm text-gray-500">
+                  {GRAND_TEST_LIVE.length} questions total · showing {filtered.length}
+                </p>
+
+                <div className="flex flex-col sm:flex-row gap-3 mt-4">
+                  <div className="relative flex-1">
+                    <Search className="w-4 h-4 text-gray-400 absolute left-3 top-1/2 -translate-y-1/2" />
+                    <input
+                      type="text"
+                      value={qSearch}
+                      onChange={(e) => setQSearch(e.target.value)}
+                      placeholder="Search by question text, option, or question number…"
+                      className="w-full pl-9 pr-3 py-2 rounded-xl border border-gray-200 text-sm focus:outline-none focus:ring-2 focus:ring-primary-200"
+                    />
+                  </div>
+                  <select
+                    value={qSubject}
+                    onChange={(e) => setQSubject(e.target.value)}
+                    className="px-3 py-2 rounded-xl border border-gray-200 text-sm focus:outline-none focus:ring-2 focus:ring-primary-200"
+                  >
+                    <option value="all">All Subjects</option>
+                    {subjects.map(s => (
+                      <option key={s} value={s}>{formatSubject(s)}</option>
+                    ))}
+                  </select>
+                </div>
+              </div>
+
+              <div className="space-y-3">
+                {filtered.map((q) => {
+                  const isOpen = qExpanded === q.id;
+                  return (
+                    <div key={q.id} className="bg-white rounded-2xl border border-gray-200 overflow-hidden">
+                      <button
+                        onClick={() => setQExpanded(isOpen ? null : q.id)}
+                        className="w-full flex items-start gap-3 p-4 text-left hover:bg-gray-50 transition-colors"
+                      >
+                        <span className="shrink-0 mt-0.5 text-xs font-black bg-primary-100 text-primary-700 rounded-full w-7 h-7 flex items-center justify-center">
+                          {q.qNo}
+                        </span>
+                        <div className="flex-1 min-w-0">
+                          <div className="flex items-center gap-2 mb-1 flex-wrap">
+                            <span className={`text-[11px] font-bold px-2 py-0.5 rounded-full ${SUBJECT_COLORS[q.subject] ?? "bg-gray-100 text-gray-600"}`}>
+                              {formatSubject(q.subject)}
+                            </span>
+                          </div>
+                          <p className="text-sm font-semibold text-gray-900 leading-relaxed">{q.question}</p>
+                        </div>
+                        <ChevronRight className={`w-5 h-5 text-gray-400 shrink-0 transition-transform ${isOpen ? "rotate-90" : ""}`} />
+                      </button>
+
+                      {isOpen && (
+                        <div className="px-4 pb-4 space-y-2">
+                          {q.options.map((opt, i) => (
+                            <div
+                              key={i}
+                              className={`text-sm rounded-lg px-3 py-2 border ${
+                                i === q.correct
+                                  ? "bg-green-50 border-green-200 text-green-800 font-semibold"
+                                  : "bg-gray-50 border-gray-100 text-gray-600"
+                              }`}
+                            >
+                              <span className="font-bold mr-1.5">{String.fromCharCode(65 + i)}.</span>
+                              {opt}
+                              {i === q.correct && <span className="ml-2 text-xs font-bold text-green-600">✓ Correct Answer</span>}
+                            </div>
+                          ))}
+                          {q.explanation && (
+                            <div className="bg-blue-50 border border-blue-100 rounded-lg px-3 py-2.5 mt-2">
+                              <span className="text-xs font-bold text-blue-700">💡 Explanation: </span>
+                              <span className="text-sm text-blue-900 leading-relaxed">{q.explanation}</span>
+                            </div>
+                          )}
+                        </div>
+                      )}
+                    </div>
+                  );
+                })}
+
+                {filtered.length === 0 && (
+                  <div className="bg-white rounded-2xl border border-gray-200 p-10 text-center text-gray-400 text-sm">
+                    No questions match your search/filter.
+                  </div>
+                )}
+              </div>
+            </div>
+          );
+        })()}
 
       </div>
     </div>
