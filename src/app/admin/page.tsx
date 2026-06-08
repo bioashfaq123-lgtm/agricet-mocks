@@ -785,7 +785,36 @@ export default function AdminPage() {
                 <h2 className="font-bold text-gray-900 flex items-center gap-2">
                   <Radio className="w-4 h-4 text-red-500" /> Live Mock Test — Attempts (real-time)
                 </h2>
-                <span className="text-xs text-gray-400">Updates automatically</span>
+                <div className="flex items-center gap-3">
+                  <span className="text-xs text-gray-400">Updates automatically</span>
+                  {liveAttempts.length > 0 && (
+                    <button
+                      onClick={() => {
+                        const ranked = [...liveAttempts].sort((a, b) =>
+                          b.score - a.score || b.correct - a.correct || a.wrong - b.wrong
+                        );
+                        const rows = [
+                          ["Rank", "Name", "Email", "Score (%)", "Correct", "Wrong", "Unattempted", "Total", "Completed At", "Result Email Sent"],
+                          ...ranked.map((a, i) => [
+                            String(i + 1), a.name, a.email,
+                            String(a.score), String(a.correct), String(a.wrong), String(a.unattempted), String(a.total),
+                            a.completedAt?.toDate ? a.completedAt.toDate().toLocaleString("en-IN") : "—",
+                            a.emailSent ? "Yes" : "No",
+                          ]),
+                        ];
+                        const csv = rows.map(r => r.map(c => `"${String(c).replace(/"/g, '""')}"`).join(",")).join("\n");
+                        const blob = new Blob([csv], { type: "text/csv" });
+                        const url = URL.createObjectURL(blob);
+                        const a = document.createElement("a");
+                        a.href = url; a.download = `agricet-live-test-rank-list-${new Date().toISOString().slice(0,10)}.csv`;
+                        a.click(); URL.revokeObjectURL(url);
+                      }}
+                      className="inline-flex items-center gap-1.5 bg-primary-600 hover:bg-primary-700 text-white text-xs font-bold px-3 py-1.5 rounded-lg transition-colors"
+                    >
+                      <Download className="w-3.5 h-3.5" /> Export Rank List CSV
+                    </button>
+                  )}
+                </div>
               </div>
               {liveLoading ? (
                 <div className="py-16 text-center text-gray-400 text-sm">Loading attempts…</div>
