@@ -284,6 +284,18 @@ export default function GrandTestPage() {
   }
 
   const current   = questions[currentIdx];
+
+  // Defensive guard — if for any reason the current question can't be resolved
+  // (bad index, empty data, race condition on slow connections), show a
+  // friendly loading state instead of crashing with "Application error".
+  if (!current) {
+    return (
+      <div className="min-h-screen bg-gray-50 flex items-center justify-center">
+        <div className="animate-spin w-10 h-10 border-4 border-primary-600 border-t-transparent rounded-full" />
+      </div>
+    );
+  }
+
   const answered  = answers[current?.id];
   const attempted = Object.keys(answers).length;
 
@@ -480,7 +492,7 @@ export default function GrandTestPage() {
 
             {/* Options */}
             <div className="space-y-3">
-              {current?.options.map((opt, idx) => {
+              {current?.options?.map((opt, idx) => {
                 let cls = "w-full text-left flex items-start gap-3 px-4 py-3.5 rounded-xl border-2 transition-all cursor-pointer ";
                 if (answered === undefined) {
                   cls += "border-gray-200 hover:border-primary-400 hover:bg-primary-50 bg-white";
