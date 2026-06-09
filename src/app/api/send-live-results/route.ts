@@ -72,6 +72,17 @@ function buildQuestionHtml(q: QuestionResult, idx: number) {
     </div>`;
 }
 
+export async function GET(req: NextRequest) {
+  const key = req.nextUrl.searchParams.get("debugKey");
+  if (key !== "agricet-debug-2026") return NextResponse.json({ error: "forbidden" }, { status: 403 });
+  if (!adminDb) return NextResponse.json({ adminDb: false });
+  const snap = await adminDb.collection("liveTestAttempts").orderBy("completedAt", "desc").limit(100).get();
+  return NextResponse.json({
+    adminDb: true, count: snap.size,
+    docs: snap.docs.map(d => { const v = d.data(); return { id: d.id, name: v.name, email: v.email, score: v.score, emailSent: v.emailSent, completedAt: v.completedAt?.toDate?.() ?? null }; }),
+  });
+}
+
 export async function POST(req: NextRequest) {
   try {
     const gmailUser = process.env.GMAIL_USER;
