@@ -11,8 +11,8 @@ WHITE = (255, 255, 255)
 LINES = ["AEO &", "AGRICET", "MOCK TEST", "SERIES"]
 
 def try_font(pt):
-    for p in ["C:/Windows/Fonts/ariblk.ttf", "C:/Windows/Fonts/arialbd.ttf",
-              "C:/Windows/Fonts/calibrib.ttf", "C:/Windows/Fonts/verdanab.ttf"]:
+    for p in ["C:/Windows/Fonts/arialbd.ttf", "C:/Windows/Fonts/calibrib.ttf",
+              "C:/Windows/Fonts/verdanab.ttf", "C:/Windows/Fonts/ariblk.ttf"]:
         try: return ImageFont.truetype(p, pt)
         except: pass
     return ImageFont.load_default()
