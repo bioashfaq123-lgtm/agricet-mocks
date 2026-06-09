@@ -2,10 +2,11 @@
 import { useState, useEffect, useCallback } from "react";
 import Link from "next/link";
 import Navbar from "@/components/Navbar";
-import { ChevronLeft, ChevronRight, CheckCircle, XCircle, RotateCcw, Trophy, BookOpen, Clock, FileImage } from "lucide-react";
+import { ChevronLeft, ChevronRight, CheckCircle, XCircle, RotateCcw, Trophy, BookOpen, Clock, FileImage, Lock } from "lucide-react";
 import { pyqP1GS2016 } from "@/data/pyq-p1-gs-2016";
 import { pyqP2Agri2016 } from "@/data/pyq-p2-agri-2016";
 import { pyqP3Agri2017 } from "@/data/pyq-p3-agri-2017";
+import { useAuth } from "@/contexts/AuthContext";
 
 // Returns the original exam page number for a given question index (0-based)
 function getPageNum(paperId: string, qIdx: number): number {
@@ -23,6 +24,7 @@ const PAPERS = [
     icon: "📋",
     data: pyqP1GS2016,
     duration: 150,
+    free: false,
   },
   {
     id: "p2",
@@ -32,6 +34,7 @@ const PAPERS = [
     icon: "🌾",
     data: pyqP2Agri2016,
     duration: 150,
+    free: true,
   },
   {
     id: "p3",
@@ -41,6 +44,7 @@ const PAPERS = [
     icon: "🌱",
     data: pyqP3Agri2017,
     duration: 150,
+    free: false,
   },
 ];
 
@@ -53,6 +57,9 @@ const colorMap: Record<string, { badge: string; btn: string; bg: string; border:
 type Mode = "select" | "test" | "result";
 
 export default function PYQPracticePage() {
+  const { userData } = useAuth();
+  const isPaid = userData?.isPaid ?? false;
+
   const [mode, setMode] = useState<Mode>("select");
   const [selectedPaper, setSelectedPaper] = useState(0);
   const [currentQ, setCurrentQ] = useState(0);
@@ -138,15 +145,26 @@ export default function PYQPracticePage() {
           <div className="space-y-4">
             {PAPERS.map((p, i) => {
               const cc = colorMap[p.color];
+              const isLocked = !p.free && !isPaid;
               return (
-                <div key={p.id} className={`rounded-2xl border-2 ${cc.border} ${cc.bg} p-5`}>
+                <div key={p.id} className={`rounded-2xl border-2 ${isLocked ? "border-gray-300 bg-gray-50 opacity-90" : `${cc.border} ${cc.bg}`} p-5 relative`}>
+                  {/* FREE / PRO badge */}
+                  <div className="absolute top-4 right-4">
+                    {p.free
+                      ? <span className="bg-green-500 text-white text-xs font-black px-3 py-1 rounded-full">FREE</span>
+                      : <span className={`text-xs font-black px-3 py-1 rounded-full flex items-center gap-1 ${isPaid ? "bg-blue-600 text-white" : "bg-gray-300 text-gray-600"}`}>
+                          {isPaid ? null : <Lock className="w-3 h-3" />}
+                          {isPaid ? "PRO ✅" : "PRO"}
+                        </span>
+                    }
+                  </div>
                   <div className="flex items-center gap-3 mb-3">
-                    <span className="text-3xl">{p.icon}</span>
-                    <div className="flex-1">
-                      <span className={`text-xs font-bold px-2 py-0.5 rounded-full ${cc.badge}`}>
+                    <span className="text-3xl">{isLocked ? "🔒" : p.icon}</span>
+                    <div className="flex-1 pr-16">
+                      <span className={`text-xs font-bold px-2 py-0.5 rounded-full ${isLocked ? "bg-gray-300 text-gray-600" : cc.badge}`}>
                         {p.id === "p1" ? "GS Paper 1" : p.id === "p2" ? "Agriculture 2016" : "Agriculture 2017"}
                       </span>
-                      <h2 className="font-black text-gray-900 text-base mt-1">{p.label}</h2>
+                      <h2 className={`font-black text-base mt-1 ${isLocked ? "text-gray-500" : "text-gray-900"}`}>{p.label}</h2>
                       <p className="text-gray-500 text-xs">{p.subtitle}</p>
                     </div>
                   </div>
@@ -155,12 +173,24 @@ export default function PYQPracticePage() {
                     <span className="flex items-center gap-1"><Clock className="w-3.5 h-3.5" /> 150 Minutes</span>
                     <span>✅ With answer key</span>
                   </div>
-                  <button
-                    onClick={() => startTest(i)}
-                    className={`w-full py-3 rounded-xl font-bold text-sm ${cc.btn} transition-all hover:scale-[1.01]`}
-                  >
-                    Start Practice Test →
-                  </button>
+                  {isLocked ? (
+                    <div className="space-y-2">
+                      <div className="flex items-center gap-2 bg-amber-50 border border-amber-200 rounded-xl px-4 py-3 text-sm text-amber-800">
+                        <Lock className="w-4 h-4 flex-shrink-0" />
+                        <span>This paper requires a <strong>paid subscription</strong> (₹199 one-time)</span>
+                      </div>
+                      <Link href="/signup" className="w-full py-3 rounded-xl font-bold text-sm bg-amber-500 hover:bg-amber-600 text-white transition-all hover:scale-[1.01] flex items-center justify-center gap-2">
+                        🔓 Subscribe ₹199 to Unlock →
+                      </Link>
+                    </div>
+                  ) : (
+                    <button
+                      onClick={() => startTest(i)}
+                      className={`w-full py-3 rounded-xl font-bold text-sm ${cc.btn} transition-all hover:scale-[1.01]`}
+                    >
+                      Start Practice Test →
+                    </button>
+                  )}
                 </div>
               );
             })}

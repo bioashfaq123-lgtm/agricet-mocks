@@ -209,20 +209,23 @@ export default function LandingPage() {
             <div className="p-6">
               <div className="grid md:grid-cols-3 gap-4 mb-5">
                 {[
-                  { year: "2016", paper: "Paper 1", desc: "General Studies", q: 150, icon: "📋", href: "/aeo-papers/pyq/practice?paper=p1" },
-                  { year: "2016", paper: "Paper 2", desc: "Agriculture", q: 150, icon: "🌾", href: "/aeo-papers/pyq/practice?paper=p2" },
-                  { year: "2017", paper: "Paper 3", desc: "Agriculture", q: 150, icon: "🌱", href: "/aeo-papers/pyq/practice?paper=p3" },
+                  { year: "2016", paper: "Paper 1", desc: "General Studies", q: 150, icon: "📋", href: "/aeo-papers/pyq/practice?paper=p1", free: false },
+                  { year: "2016", paper: "Paper 2", desc: "Agriculture", q: 150, icon: "🌾", href: "/aeo-papers/pyq/practice?paper=p2", free: true },
+                  { year: "2017", paper: "Paper 3", desc: "Agriculture", q: 150, icon: "🌱", href: "/aeo-papers/pyq/practice?paper=p3", free: false },
                 ].map((p) => (
                   <Link key={p.href} href={p.href}
-                    className="flex flex-col items-center gap-2 bg-amber-50 hover:bg-amber-100 border border-amber-200 rounded-xl p-4 transition-all hover:scale-105 hover:shadow-md group">
+                    className="flex flex-col items-center gap-2 bg-amber-50 hover:bg-amber-100 border border-amber-200 rounded-xl p-4 transition-all hover:scale-105 hover:shadow-md group relative">
+                    <span className={`absolute top-2 right-2 text-xs font-black px-2 py-0.5 rounded-full ${p.free ? "bg-green-500 text-white" : "bg-gray-300 text-gray-700"}`}>
+                      {p.free ? "FREE" : "PRO"}
+                    </span>
                     <span className="text-3xl">{p.icon}</span>
                     <div className="text-center">
                       <div className="font-black text-gray-800 text-sm">{p.paper} ({p.year})</div>
                       <div className="text-xs text-gray-500">{p.desc}</div>
                       <div className="text-xs text-amber-600 font-bold mt-1">{p.q} Questions</div>
                     </div>
-                    <span className="bg-orange-500 group-hover:bg-orange-600 text-white text-xs font-bold px-4 py-1.5 rounded-full transition-colors">
-                      Start Practice →
+                    <span className={`text-white text-xs font-bold px-4 py-1.5 rounded-full transition-colors ${p.free ? "bg-green-500 group-hover:bg-green-600" : "bg-orange-500 group-hover:bg-orange-600"}`}>
+                      {p.free ? "Start Free →" : "🔒 Subscribe →"}
                     </span>
                   </Link>
                 ))}
