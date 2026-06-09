@@ -73,17 +73,16 @@ def make_icon(size: int) -> Image.Image:
 
     cx = size // 2
 
-    # ── Font sizes: auto-fit AGRICET, scale others proportionally ───────────
+    # ── All 4 lines same font size — auto-fit so widest line fits ────────────
+    LINES_ALL = ["AEO &", "AGRICET", "MOCK TEST", "SERIES"]
     target_w = int(size * 0.88)
-    pt_ag = size
-    while pt_ag > 4:
-        f = try_font(pt_ag)
-        if measure(draw, "AGRICET", f)[0] <= target_w:
+    pt = size
+    while pt > 4:
+        f = try_font(pt)
+        if max(measure(draw, line, f)[0] for line in LINES_ALL) <= target_w:
             break
-        pt_ag -= 1
-    f_agricet = try_font(pt_ag)
-    f_aeo     = try_font(max(4, pt_ag // 2))          # half size of AGRICET
-    f_sub     = try_font(max(4, int(pt_ag * 0.60)))   # 60% of AGRICET
+        pt -= 1
+    f_aeo = f_agricet = f_sub = try_font(pt)
 
     def tw(text, font):
         return measure(draw, text, font)[0]
