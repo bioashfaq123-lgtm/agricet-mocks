@@ -85,6 +85,14 @@ export default function AEOPYQPage() {
           <BookOpen className="w-5 h-5 text-gray-500" />
           <span className="font-bold text-gray-800 text-sm">AEO Previous Year Question Papers</span>
           <span className="text-gray-400 text-sm hidden sm:inline">— Original Exam Papers with Answers</span>
+          <div className="ml-auto">
+            <Link
+              href="/aeo-papers/pyq/practice"
+              className="flex items-center gap-2 bg-green-600 hover:bg-green-700 text-white font-bold text-xs px-4 py-2 rounded-xl transition-colors shadow"
+            >
+              🎯 Practice Test (English)
+            </Link>
+          </div>
         </div>
       </div>
 
