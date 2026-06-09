@@ -6,7 +6,7 @@ import type { PYQQuestion } from "./pyq-p2-agri-2016";
 
 export const pyqP1GS2016: PYQQuestion[] = [
   // Q1-Q10: Telangana History & Current Affairs
-  { q: 1, question: "Who contested against Nehru in the 1952 general elections from Phulpur constituency?", options: ["Veni Ram Chandra Reddy", "Kota Raghunadha Reddy", "Vumunadu Chandra Reddy", "Muniski Krishnamurti"], answer: 1 },
+  { q: 1, question: "Who contested against Nehru in the 1952 general elections from Phulpur constituency?", options: ["Veni Ram Chandra Reddy", "Kota Raghunadha Reddy", "Vumunadu Chandra Reddy", "Muniski Krishnamurti"], answer: 0 },
   { q: 2, question: "The Planning Commission of India was replaced by which body?", options: ["Economic Advisory Council", "NITI Aayog", "National Planning Board", "Central Planning Authority"], answer: 1 },
   { q: 3, question: "In the number series 5, 14, 41, 122, the next number is:", options: ["216", "365", "243", "260"], answer: 1 },
   { q: 4, question: "Forward Bloc party was founded by:", options: ["M.N. Roy", "Bal Gangadhar Tilak", "Mahatma Gandhi", "Netaji Subhas Chandra Bose"], answer: 3 },
@@ -180,8 +180,8 @@ export const pyqP1GS2016: PYQQuestion[] = [
   { q: 144, question: "Which cricketer from Hyderabad/Telangana captained India's ODI team?", options: ["V.V.S. Laxman", "M. Azharuddin", "Shikhar Dhawan", "Rohit Sharma"], answer: 1 },
   { q: 145, question: "The 'Telangana Thalli' statue symbolises:", options: ["A mother goddess representing Telangana's culture and spirit", "A farmer", "The Kakatiya dynasty", "The Nizams"], answer: 0 },
   { q: 146, question: "Pochampally Ikat silk sarees from Telangana received which GI tag?", options: ["National tag only", "UNESCO recognition and Geographical Indication (GI) tag", "AGMARK certification", "ISO certification"], answer: 1 },
-  { q: 147, question: "The founder of the Forward Bloc Party was:", options: ["M.N. Roy", "Bal Gangadhar Tilak", "Lala Lajpat Rai", "Subhas Chandra Bose"], answer: 3 },
-  { q: 148, question: "'Rythu Nestham' (Farmer's Friend) in Telangana is:", options: ["A government scheme", "A news channel for farmers", "An agricultural newspaper/magazine", "A mobile app for farmers"], answer: 2 },
-  { q: 149, question: "The founder of the Forward Bloc Party established it in the year:", options: ["1937", "1939", "1941", "1943"], answer: 1 },
-  { q: 150, question: "Which of the following is NOT a Kharif crop?", options: ["Paddy", "Cotton", "Maize", "Mustard"], answer: 3 },
+  { q: 147, question: "Who was the first Deputy Chief Minister of Telangana State (2014)?", options: ["Kadiyam Srihari", "Mohammad Ali Shabbir", "T. Harish Rao", "Sirikonda Madhusudhana Chary"], answer: 0 },
+  { q: 148, question: "Mahatma Gandhi's 'Dandi March' (1930) was part of which Satyagraha movement?", options: ["Bardoli Satyagraha", "Salt (Uyyu) Satyagraha", "Veda Satyagraha", "Ahmedabad Satyagraha"], answer: 1 },
+  { q: 149, question: "The Forward Bloc Party was founded by:", options: ["M.N. Roy", "Bal Gangadhar Tilak", "Mahatma Gandhi", "Netaji Subhas Chandra Bose"], answer: 3 },
+  { q: 150, question: "'Rythu Nestham' in Telangana is:", options: ["An agricultural newspaper/magazine", "An agriculture news channel", "A Telangana Govt. farmer welfare scheme", "A Central Govt. farmer insurance scheme"], answer: 0 },
 ];

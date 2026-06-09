@@ -180,8 +180,8 @@ export const pyqP3Agri2017: PYQQuestion[] = [
   { q: 144, question: "The recommended NPK dose (kg/ha) for cotton (hybrid Bt) in Telangana is:", options: ["60:30:30", "100:50:50", "120:60:60", "150:75:75"], answer: 2 },
   { q: 145, question: "Which crop is recommended for saline-affected soils in Telangana?", options: ["Paddy", "Wheat", "Barley and sugar beet", "Cotton"], answer: 2 },
   { q: 146, question: "Zero-tillage technology reduces production cost in wheat by approximately:", options: ["5%", "10%", "20–25%", "40%"], answer: 2 },
-  { q: 147, question: "Which grafting method is used when the scion and rootstock have similar diameter?", options: ["Cleft grafting", "Tongue (splice) grafting", "Whip and tongue grafting", "Crown grafting"], answer: 2 },
-  { q: 148, question: "In floriculture, a 'single bloom' type chrysanthemum produces:", options: ["Multiple small flowers", "One flower per stem", "Two flowers per stem", "Clusters of flowers"], answer: 1 },
-  { q: 149, question: "The chemical formula of common salt (sodium chloride) used in soil reclamation is:", options: ["NaHCO₃", "Na₂CO₃", "NaCl", "CaSO₄"], answer: 2 },
-  { q: 150, question: "The recommended market price (support price) for farm produce in India is called:", options: ["Minimum Support Price (MSP)", "Maximum Retail Price (MRP)", "Wholesale price", "Issue price"], answer: 0 },
+  { q: 147, question: "In a threshing machine, which component is responsible for separating grain from straw and chaff?", options: ["Collar", "Gauge mill", "Jointer", "Chaff board (lapa)"], answer: 3 },
+  { q: 148, question: "The excessive abnormal thickening/enlargement of plant cells or organs is termed:", options: ["Hydrotropy", "Hypertrophy", "Hydroponics", "Hyperplasia"], answer: 1 },
+  { q: 149, question: "The price at which the quantity demanded by buyers equals the quantity supplied by sellers in a market is called:", options: ["Floor price", "Equilibrium price", "Marketing cost", "Ceiling price"], answer: 1 },
+  { q: 150, question: "The recommended quantity of carrier-based biofertilizer (Rhizobium) required per kg of seed for legume crops is approximately:", options: ["400 g", "700 g", "1000 g", "900 g"], answer: 2 },
 ];

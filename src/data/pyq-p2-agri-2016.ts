@@ -185,8 +185,8 @@ export const pyqP2Agri2016: PYQQuestion[] = [
   { q: 144, question: "The Telangana state food crop with the highest cultivated area is:", options: ["Maize", "Cotton", "Paddy (rice)", "Sorghum"], answer: 2 },
   { q: 145, question: "Which district of Telangana is the largest producer of cotton?", options: ["Nalgonda", "Adilabad", "Karimnagar", "Warangal"], answer: 1 },
   { q: 146, question: "The 'Dalit Bandhu' scheme of Telangana aims to:", options: ["Provide agricultural land to Dalits", "Empower Dalit families through ₹10 lakh investment support", "Give free seeds to SC farmers", "Build houses for Dalits"], answer: 1 },
-  { q: 147, question: "Telangana's major irrigation project 'Kaleshwaram' is built on which river?", options: ["Krishna", "Tungabhadra", "Godavari", "Manjeera"], answer: 2 },
-  { q: 148, question: "Which crop is known as 'Andhra Gold' or 'White Gold' in Telangana?", options: ["Paddy", "Sugarcane", "Cotton", "Turmeric"], answer: 2 },
-  { q: 149, question: "The main objective of the 'Farmer Producer Organisation (FPO)' is to:", options: ["Provide credit", "Collectively strengthen farmers' bargaining power in markets", "Build warehouses", "Subsidise inputs"], answer: 1 },
-  { q: 150, question: "Which of the following is the correct sequence of crop production operations?", options: ["Sowing → Ploughing → Harvesting → Threshing", "Ploughing → Sowing → Irrigation → Harvesting", "Harvesting → Ploughing → Sowing → Irrigation", "Irrigation → Ploughing → Sowing → Harvesting"], answer: 1 },
+  { q: 147, question: "Integrated Pest Management (IPM) aims to keep pest populations:", options: ["Completely eradicated from the field", "Below the Economic Threshold Level (ETL)", "At zero tolerance using chemicals only", "Controlled exclusively by biological means"], answer: 1 },
+  { q: 148, question: "The Kaleshwaram Lift Irrigation Scheme (KLIS) in Telangana is built on which river?", options: ["Krishna", "Tungabhadra", "Godavari", "Manjeera"], answer: 2 },
+  { q: 149, question: "Which crop is known as 'White Gold' or 'Andhra Gold' in Telangana?", options: ["Paddy", "Sugarcane", "Cotton", "Turmeric"], answer: 2 },
+  { q: 150, question: "Which of the following is the correct sequence of field crop production operations?", options: ["Sowing → Ploughing → Harvesting → Threshing", "Ploughing → Sowing → Irrigation → Harvesting", "Harvesting → Ploughing → Sowing → Irrigation", "Irrigation → Ploughing → Sowing → Harvesting"], answer: 1 },
 ];
