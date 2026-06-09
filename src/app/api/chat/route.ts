@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
 import Groq from "groq-sdk";
+import { GoogleGenerativeAI } from "@google/generative-ai";
 import pdfData from "@/data/pdf-chunks.json";
 
 // ── Vercel function limit: Hobby plan = 10s, Pro = 60s ──────────────────────
@@ -360,21 +361,61 @@ Rules:
     }
     messages.push({ role: "user", content: question });
 
-    // Groq — llama-3.1-8b-instant: 14,400 requests/day free
-    // Race with 8s timeout so we always respond before Vercel's 10s function limit
-    const groq = new Groq({ apiKey });
-    const groqPromise = groq.chat.completions.create({
-      model: "llama-3.1-8b-instant",
-      messages,
-      max_tokens: 500,
-      temperature: 0.3,
-    });
-    const timeoutPromise = new Promise<never>((_, reject) =>
-      setTimeout(() => reject(new Error("Groq response timed out")), 8000)
-    );
-    const completion = await Promise.race([groqPromise, timeoutPromise]);
+    // ── LLM: Try Groq first, fall back to Gemini Flash if rate-limited ──────
+    const fullPrompt = systemPrompt + "\n\nQuestion: " + question;
+    let answer = "";
 
-    const answer = completion.choices[0]?.message?.content ?? "";
+    // 1️⃣ Groq — llama-3.3-70b-versatile (higher quality, 30 RPM free)
+    const groqAttempt = async (): Promise<string> => {
+      const groq = new Groq({ apiKey });
+      const timeoutPromise = new Promise<never>((_, reject) =>
+        setTimeout(() => reject(new Error("Groq response timed out")), 7500)
+      );
+      const completion = await Promise.race([
+        groq.chat.completions.create({
+          model: "llama-3.3-70b-versatile",
+          messages,
+          max_tokens: 500,
+          temperature: 0.3,
+        }),
+        timeoutPromise,
+      ]);
+      return completion.choices[0]?.message?.content ?? "";
+    };
+
+    // 2️⃣ Gemini Flash — fallback when Groq is rate-limited
+    const geminiAttempt = async (): Promise<string> => {
+      const geminiKey = process.env.GEMINI_API_KEY;
+      if (!geminiKey) throw new Error("No Gemini key");
+      const genAI = new GoogleGenerativeAI(geminiKey);
+      const model = genAI.getGenerativeModel({ model: "gemini-2.0-flash" });
+      const timeoutPromise = new Promise<never>((_, reject) =>
+        setTimeout(() => reject(new Error("Gemini response timed out")), 7500)
+      );
+      const result = await Promise.race([
+        model.generateContent(fullPrompt),
+        timeoutPromise,
+      ]);
+      return result.response.text();
+    };
+
+    try {
+      answer = await groqAttempt();
+    } catch (groqErr: unknown) {
+      const groqMsg = groqErr instanceof Error ? groqErr.message : String(groqErr);
+      const isRateLimit = groqMsg.includes("rate_limit") || groqMsg.includes("429") || groqMsg.includes("timed out");
+      console.warn("Groq attempt failed:", groqMsg, "— trying Gemini fallback");
+      if (isRateLimit || groqMsg.includes("model")) {
+        try {
+          answer = await geminiAttempt();
+        } catch (geminiErr) {
+          console.error("Gemini fallback also failed:", geminiErr);
+          throw groqErr; // re-throw original error
+        }
+      } else {
+        throw groqErr;
+      }
+    }
 
     return NextResponse.json({
       answer,
@@ -390,7 +431,7 @@ Rules:
       msg.includes("invalid_api_key") || msg.includes("401")
         ? "AI service temporarily unavailable. Please try again in a moment."
         : msg.includes("rate_limit") || msg.includes("429")
-        ? "Too many requests. Please wait a moment and try again."
+        ? "I'm busy right now — please try again in a moment! 🙏"
         : msg.includes("timed out") || msg.includes("AbortError")
         ? "The assistant took too long to respond. Please try again."
         : "Something went wrong. Please try again in a moment.";
