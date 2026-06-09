@@ -5,6 +5,7 @@ import { AuthProvider } from "@/contexts/AuthContext";
 import AppSplashScreen from "@/components/AppSplashScreen";
 import ChatBot from "@/components/ChatBot";
 import AnnouncementBanner from "@/components/AnnouncementBanner";
+import PWAInstallBanner from "@/components/PWAInstallBanner";
 
 // themeColor must be in viewport export (not metadata) — Next.js 14 requirement
 export const viewport: Viewport = {
@@ -49,6 +50,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body className="bg-gray-50 text-gray-900 antialiased">
         <AuthProvider>
           <AnnouncementBanner />
+          <PWAInstallBanner />
           <AppSplashScreen>
           {children}
           </AppSplashScreen>

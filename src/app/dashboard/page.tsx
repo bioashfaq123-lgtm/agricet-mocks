@@ -11,7 +11,6 @@ import { SUBJECTS, DEMO_SUBJECT_ID } from "@/data/subjects";
 import { PREVIOUS_YEAR_PAPERS } from "@/data/previousYearPapers";
 import Navbar from "@/components/Navbar";
 import PaymentButton from "@/components/PaymentButton";
-import PWAInstallBanner from "@/components/PWAInstallBanner";
 
 // ── Live test date gate ──────────────────────────────────────────────────────
 const LIVE_START = new Date("2026-06-08T14:30:00Z"); // 8 PM IST
@@ -124,9 +123,6 @@ export default function DashboardPage() {
             </div>
           </div>
         </div>
-
-        {/* PWA Install Banner */}
-        <PWAInstallBanner />
 
         {/* Stats Row */}
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-8">
