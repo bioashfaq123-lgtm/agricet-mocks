@@ -2,10 +2,17 @@
 import { useState, useEffect, useCallback } from "react";
 import Link from "next/link";
 import Navbar from "@/components/Navbar";
-import { ChevronLeft, ChevronRight, CheckCircle, XCircle, RotateCcw, Trophy, BookOpen, Clock } from "lucide-react";
+import { ChevronLeft, ChevronRight, CheckCircle, XCircle, RotateCcw, Trophy, BookOpen, Clock, FileImage } from "lucide-react";
 import { pyqP1GS2016 } from "@/data/pyq-p1-gs-2016";
 import { pyqP2Agri2016 } from "@/data/pyq-p2-agri-2016";
 import { pyqP3Agri2017 } from "@/data/pyq-p3-agri-2017";
+
+// Returns the original exam page number for a given question index (0-based)
+function getPageNum(paperId: string, qIdx: number): number {
+  if (paperId === "p1") return Math.min(30, Math.ceil((qIdx + 1) / 5));         // 150 Q / 30 pages = 5/page
+  if (paperId === "p2") return Math.min(24, Math.ceil((qIdx + 1) / 6.25));      // 150 Q / 24 pages
+  return Math.min(22, Math.ceil((qIdx + 1) / 6.82));                            // 150 Q / 22 pages (p3)
+}
 
 const PAPERS = [
   {
@@ -53,6 +60,7 @@ export default function PYQPracticePage() {
   const [submitted, setSubmitted] = useState(false);
   const [timeLeft, setTimeLeft] = useState(0);
   const [timerActive, setTimerActive] = useState(false);
+  const [showTelugu, setShowTelugu] = useState(false);
 
   const paper = PAPERS[selectedPaper];
   const c = colorMap[paper.color];
@@ -348,12 +356,35 @@ export default function PYQPracticePage() {
                   {isCorrect ? "✅ Correct!" : `❌ Incorrect. Correct answer: ${["A","B","C","D"][q.answer]}. ${q.options[q.answer]}`}
                 </div>
               )}
+
+              {/* Telugu original page */}
+              <div className="mt-4 border-t border-gray-100 pt-4">
+                <button
+                  onClick={() => setShowTelugu(v => !v)}
+                  className="flex items-center gap-2 text-xs font-bold text-blue-600 hover:text-blue-800 transition-colors"
+                >
+                  <FileImage className="w-4 h-4" />
+                  {showTelugu ? "Hide Telugu Original ▲" : "📄 Show Original Telugu Question ▼"}
+                </button>
+                {showTelugu && (
+                  <div className="mt-3 rounded-xl overflow-hidden border border-gray-200">
+                    <div className="bg-amber-50 px-3 py-1.5 text-xs text-amber-700 font-semibold border-b border-amber-100">
+                      📄 Original Telugu — Page {getPageNum(paper.id, currentQ)} of {paper.id === "p1" ? 30 : paper.id === "p2" ? 24 : 22} · ✅ Green tick = correct answer
+                    </div>
+                    <img
+                      src={`/aeo-papers/${paper.id}/${paper.id}_page${String(getPageNum(paper.id, currentQ)).padStart(2, "0")}.png`}
+                      alt={`Telugu original page ${getPageNum(paper.id, currentQ)}`}
+                      className="w-full h-auto"
+                    />
+                  </div>
+                )}
+              </div>
             </div>
 
             {/* Navigation */}
             <div className="flex justify-between gap-3">
               <button
-                onClick={() => setCurrentQ(q => Math.max(0, q - 1))}
+                onClick={() => { setCurrentQ(q => Math.max(0, q - 1)); setShowTelugu(false); }}
                 disabled={currentQ === 0}
                 className="flex items-center gap-2 px-4 py-2.5 bg-white border border-gray-200 rounded-xl text-sm font-semibold text-gray-700 hover:bg-gray-50 disabled:opacity-40"
               >
@@ -361,7 +392,7 @@ export default function PYQPracticePage() {
               </button>
               {currentQ < questions.length - 1 ? (
                 <button
-                  onClick={() => setCurrentQ(q => q + 1)}
+                  onClick={() => { setCurrentQ(q => q + 1); setShowTelugu(false); }}
                   className={`flex items-center gap-2 px-5 py-2.5 rounded-xl text-sm font-semibold ${c.btn}`}
                 >
                   Next <ChevronRight className="w-4 h-4" />
@@ -388,7 +419,7 @@ export default function PYQPracticePage() {
                   return (
                     <button
                       key={qi}
-                      onClick={() => setCurrentQ(qi)}
+                      onClick={() => { setCurrentQ(qi); setShowTelugu(false); }}
                       className={`text-xs py-1.5 rounded-lg font-bold transition-all ${
                         isCur ? `${c.badge} ring-2 ring-offset-1 ring-blue-400` :
                         isAns ? "bg-green-500 text-white" :
