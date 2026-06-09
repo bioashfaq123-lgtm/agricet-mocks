@@ -96,7 +96,7 @@ def make_icon(size: int) -> Image.Image:
     gap        = int(size * 0.025)
 
     gold_h   = max(2, size // 55)
-    gold_gap = int(size * 0.03)
+    gold_gap = int(size * 0.07)
 
     total_h = lh_aeo + gap + lh_agricet + gap + lh_sub + gap + lh_sub + gold_gap + gold_h
 
@@ -118,7 +118,7 @@ def make_icon(size: int) -> Image.Image:
     draw_text_centred(y, "MOCK TEST",f_sub,     WHITE)
     y += lh_sub + gap
     draw_text_centred(y, "SERIES",   f_sub,     WHITE)
-    y += lh_sub + gold_gap
+    y += lh_sub + gold_gap  # gold line AFTER series text
 
     # ── Gold underline ─────────────────────────────────────────────────────
     lw2 = int(size * 0.28)
