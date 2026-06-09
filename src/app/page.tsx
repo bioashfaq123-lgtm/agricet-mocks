@@ -196,6 +196,50 @@ export default function LandingPage() {
             </div>
           </div>
 
+          {/* AEO PYQ Practice Tests — Prominent Card */}
+          <div className="bg-white rounded-2xl shadow-lg border-2 border-orange-400 mb-6 overflow-hidden">
+            <div className="bg-gradient-to-r from-orange-500 to-amber-500 px-6 py-3 flex items-center gap-3">
+              <span className="text-2xl">📝</span>
+              <div>
+                <div className="text-white font-black text-base">AEO Previous Year Question Papers</div>
+                <div className="text-orange-100 text-xs">Official AEO Exam Papers with Answer Keys — Practice Now!</div>
+              </div>
+              <span className="ml-auto bg-white text-orange-600 text-xs font-black px-3 py-1 rounded-full">FREE</span>
+            </div>
+            <div className="p-6">
+              <div className="grid md:grid-cols-3 gap-4 mb-5">
+                {[
+                  { year: "2016", paper: "Paper 1", desc: "General Studies", q: 150, icon: "📋", href: "/aeo-papers/pyq/practice?paper=p1" },
+                  { year: "2016", paper: "Paper 2", desc: "Agriculture", q: 150, icon: "🌾", href: "/aeo-papers/pyq/practice?paper=p2" },
+                  { year: "2017", paper: "Paper 3", desc: "Agriculture", q: 150, icon: "🌱", href: "/aeo-papers/pyq/practice?paper=p3" },
+                ].map((p) => (
+                  <Link key={p.href} href={p.href}
+                    className="flex flex-col items-center gap-2 bg-amber-50 hover:bg-amber-100 border border-amber-200 rounded-xl p-4 transition-all hover:scale-105 hover:shadow-md group">
+                    <span className="text-3xl">{p.icon}</span>
+                    <div className="text-center">
+                      <div className="font-black text-gray-800 text-sm">{p.paper} ({p.year})</div>
+                      <div className="text-xs text-gray-500">{p.desc}</div>
+                      <div className="text-xs text-amber-600 font-bold mt-1">{p.q} Questions</div>
+                    </div>
+                    <span className="bg-orange-500 group-hover:bg-orange-600 text-white text-xs font-bold px-4 py-1.5 rounded-full transition-colors">
+                      Start Practice →
+                    </span>
+                  </Link>
+                ))}
+              </div>
+              <div className="flex flex-col sm:flex-row gap-3 justify-center">
+                <Link href="/aeo-papers/pyq/practice"
+                  className="inline-flex items-center justify-center gap-2 bg-orange-500 hover:bg-orange-600 text-white font-black px-6 py-3 rounded-xl text-sm transition-all hover:scale-105 shadow">
+                  <Play className="w-4 h-4" /> Start AEO PYQ Practice
+                </Link>
+                <Link href="/aeo-papers/pyq"
+                  className="inline-flex items-center justify-center gap-2 bg-amber-50 hover:bg-amber-100 text-amber-700 font-bold px-6 py-3 rounded-xl text-sm border border-amber-300 transition-all">
+                  <BookOpen className="w-4 h-4" /> View Original Papers
+                </Link>
+              </div>
+            </div>
+          </div>
+
           {/* Why practice here */}
           <div className="bg-gradient-to-r from-orange-500 to-amber-500 rounded-2xl p-6 text-white shadow-lg">
             <div className="flex flex-col md:flex-row items-center gap-6">
