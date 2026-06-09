@@ -1,7 +1,7 @@
 ﻿"use client";
 import React, { useEffect, useState, useMemo } from "react";
 import { useRouter } from "next/navigation";
-import { collection, getDocs, doc, updateDoc, Timestamp, onSnapshot, query, orderBy } from "firebase/firestore";
+import { collection, getDocs, doc, updateDoc, Timestamp } from "firebase/firestore";
 import { db } from "@/lib/firebase";
 import { useAuth } from "@/contexts/AuthContext";
 import {
@@ -96,32 +96,36 @@ export default function AdminPage() {
   const [qSubject,     setQSubject]     = useState("all");
   const [qExpanded,    setQExpanded]    = useState<string | null>(null);
 
-  // Real-time listener for live mock test attempts
-  useEffect(() => {
+  // Fetch live mock test attempts via server-side API (Admin SDK bypasses Firestore security rules)
+  const fetchLiveAttempts = React.useCallback(async () => {
     if (!user || user.email !== ADMIN_EMAIL) return;
-    const q = query(collection(db, "liveTestAttempts"), orderBy("completedAt", "desc"));
-    const unsub = onSnapshot(q, (snap) => {
-      const list: LiveAttempt[] = snap.docs.map(d => {
-        const data = d.data();
-        return {
-          id: d.id,
-          uid: data.uid ?? "",
-          name: data.name ?? "—",
-          email: data.email ?? "—",
-          score: data.score ?? 0,
-          correct: data.correct ?? 0,
-          wrong: data.wrong ?? 0,
-          unattempted: data.unattempted ?? 0,
-          total: data.total ?? 0,
-          emailSent: data.emailSent ?? false,
-          completedAt: data.completedAt ?? null,
-        };
+    try {
+      const token = await user.getIdToken();
+      const res = await fetch("/api/admin/live-attempts", {
+        headers: { Authorization: `Bearer ${token}` },
       });
+      if (!res.ok) { setLiveLoading(false); return; }
+      const json = await res.json();
+      const list: LiveAttempt[] = (json.docs ?? []).map((d: {
+        id: string; uid: string; name: string; email: string;
+        score: number; correct: number; wrong: number; unattempted: number;
+        total: number; emailSent: boolean; completedAt: number | null;
+      }) => ({
+        ...d,
+        completedAt: d.completedAt ? Timestamp.fromMillis(d.completedAt) : null,
+      }));
       setLiveAttempts(list);
       setLiveLoading(false);
-    }, () => setLiveLoading(false));
-    return () => unsub();
+    } catch { setLiveLoading(false); }
   }, [user]);
+
+  useEffect(() => {
+    if (!user || user.email !== ADMIN_EMAIL) return;
+    fetchLiveAttempts();
+    // Poll every 30 seconds for new submissions
+    const interval = setInterval(fetchLiveAttempts, 30000);
+    return () => clearInterval(interval);
+  }, [user, fetchLiveAttempts]);
 
   useEffect(() => {
     // Wait until auth has fully loaded before deciding to redirect
@@ -361,7 +365,7 @@ export default function AdminPage() {
           <span className="text-primary-300 text-xs hidden sm:flex items-center gap-1">
             <Clock className="w-3 h-3" /> {lastRefresh.toLocaleTimeString("en-IN")}
           </span>
-          <button onClick={fetchUsers} disabled={fetching}
+          <button onClick={() => { fetchUsers(); fetchLiveAttempts(); }} disabled={fetching}
             className="flex items-center gap-1.5 bg-primary-700 hover:bg-primary-600 px-3 py-2 rounded-lg text-sm font-medium transition-colors disabled:opacity-50">
             <RefreshCw className={`w-4 h-4 ${fetching ? "animate-spin" : ""}`} /> Refresh
           </button>
