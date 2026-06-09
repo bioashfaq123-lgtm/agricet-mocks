@@ -12,7 +12,7 @@ export const GRAND_TEST_8: GrandTestQuestion[] = [
   {
     id: "gt8_002", qNo: 2, subject: "agronomy",
     question: "The Dalton's law states that evaporation is proportional to the difference between:",
-    options: ["Solar radiation and albedo", "Wind speed and temperature", "Saturation vapour pressure and actual vapour pressure (vapour pressure deficit)", "Air temperature and soil temperature"],
+    options: ["Solar radiation and albedo application", "Wind speed and temperature application", "Saturation vapour pressure and actual vapour pressure", "Air temperature and soil temperature crop"],
     correct: 2,
     explanation: "Dalton's law of evaporation states E ∝ (es − ea), where es = saturation vapour pressure and ea = actual vapour pressure. The larger the vapour pressure deficit (VPD), the faster evaporation."
   },
@@ -40,7 +40,7 @@ export const GRAND_TEST_8: GrandTestQuestion[] = [
   {
     id: "gt8_006", qNo: 6, subject: "agronomy",
     question: "The soil moisture potential at which 50% of the available water has been depleted is called:",
-    options: ["Field capacity", "Saturation point", "Management Allowed Depletion (MAD)", "Turgor loss point"],
+    options: ["Field capacity method", "Saturation point crop", "Management Allowed Depletion", "Turgor loss point crop"],
     correct: 2,
     explanation: "Management Allowed Depletion (MAD) is typically set at 50% of Available Water Capacity for most crops. Irrigation is triggered when 50% of soil water has been depleted."
   },
@@ -84,7 +84,7 @@ export const GRAND_TEST_8: GrandTestQuestion[] = [
   {
     id: "gt8_012", qNo: 12, subject: "kharif-crops",
     question: "Hibiscus sabdariffa (Roselle) is grown for which product?",
-    options: ["Fibre and calyces (for beverages)", "Oilseed", "Fodder only", "Grain"],
+    options: ["Fibre and calyces", "Oilseed plant", "Fodder only crop", "Grain variety"],
     correct: 0,
     explanation: "Roselle (Hibiscus sabdariffa) is grown for: (1) bast fibre from stems, (2) fleshy calyces used to make herbal tea (Hibiscus tea), jam, and beverages due to high anthocyanin content."
   },
@@ -128,7 +128,7 @@ export const GRAND_TEST_8: GrandTestQuestion[] = [
   {
     id: "gt8_018", qNo: 18, subject: "rabi-crops",
     question: "The 'Indo-Gangetic Plain' is the most important wheat-growing region in India because of:",
-    options: ["High rainfall throughout the year", "High humidity suitable for wheat", "Deep alluvial soils, moderate winter temperatures, and irrigation availability", "Tropical climate"],
+    options: ["High rainfall throughout the year", "High humidity suitable for wheat", "Deep alluvial soils and others", "Tropical climate"],
     correct: 2,
     explanation: "The Indo-Gangetic Plain (IGP) has deep alluvial soils, moderate winter temperatures ideal for wheat growth and vernalisation, and extensive canal and groundwater irrigation infrastructure."
   },
@@ -158,7 +158,7 @@ export const GRAND_TEST_8: GrandTestQuestion[] = [
   {
     id: "gt8_022", qNo: 22, subject: "genetics",
     question: "The 'hybrid seed production' using CMS (Cytoplasmic Male Sterility) system requires:",
-    options: ["A-line and R-line only", "A-line only", "A-line (CMS), B-line (maintainer), and R-line (restorer)", "Self-incompatibility and pollinator lines"],
+    options: ["A-line and R-line only", "A-line only", "A-line (CMS), B-line (maintainer), and R-line", "Self-incompatibility and pollinator lines"],
     correct: 2,
     explanation: "CMS-based hybrid seed production uses three lines: A-line (CMS, male-sterile), B-line (maintainer, male-fertile, maintains CMS), and R-line (restorer, restores male fertility in F1 hybrid)."
   },
@@ -276,14 +276,14 @@ export const GRAND_TEST_8: GrandTestQuestion[] = [
   {
     id: "gt8_038", qNo: 38, subject: "soil-fertility",
     question: "Integrated Nutrient Management (INM) aims to:",
-    options: ["Maximise chemical fertiliser use", "Use only biofertilisers", "Optimise combined use of organic, inorganic, and biofertilisers for sustainability", "Replace chemical fertilisers entirely with organic sources"],
+    options: ["Maximise chemical fertiliser use", "Use only biofertilisers", "Optimise combined use of organic and inorganic, etc.", "Replace chemical fertilisers entirely with organic sources"],
     correct: 2,
     explanation: "INM integrates organic manures, chemical fertilisers, and biofertilisers in an optimal combination to meet crop nutrient requirements while maintaining long-term soil health and productivity."
   },
   {
     id: "gt8_039", qNo: 39, subject: "soil-fertility",
     question: "The 'Kjeldahl method' is used to determine:",
-    options: ["Organic carbon", "Available potassium", "Available phosphorus", "Total nitrogen in soil and plant material"],
+    options: ["Organic carbon application", "Available potassium application", "Available phosphorus application", "Total nitrogen in soil and plant material"],
     correct: 3,
     explanation: "The Kjeldahl method (1883) digests organic nitrogen compounds with H₂SO₄, then distils and titrates the ammonia to determine total nitrogen in soils, plant tissues, and food."
   },
@@ -329,7 +329,7 @@ export const GRAND_TEST_8: GrandTestQuestion[] = [
   {
     id: "gt8_045", qNo: 45, subject: "crop-pests",
     question: "The 'Red hairy caterpillar' (Amsacta moorei) is a major pest of:",
-    options: ["Mango", "Wheat", "Cotton and groundnut (defoliator in polyphagous manner)", "Rice"],
+    options: ["Mango treatment", "Wheat treatment", "Cotton and groundnut", "Rice application"],
     correct: 2,
     explanation: "Amsacta moorei (red hairy caterpillar) is a polyphagous defoliator pest of groundnut, cotton, and other crops in peninsular India. It appears in large numbers after the first rains."
   },
@@ -438,7 +438,7 @@ export const GRAND_TEST_8: GrandTestQuestion[] = [
   {
     id: "gt8_060", qNo: 60, subject: "plant-pathology",
     question: "Which of the following is a 'soil-borne' pathogen?",
-    options: ["Albugo candida (white rust)", "Sclerotinia sclerotiorum (white mould)", "Pseudomonas syringae pv. tabaci", "Pyricularia oryzae (rice blast)"],
+    options: ["Albugo candida (white rust)", "Sclerotinia sclerotiorum", "Pseudomonas syringae pv. tabaci", "Pyricularia oryzae (rice blast)"],
     correct: 1,
     explanation: "Sclerotinia sclerotiorum is a soil-borne (and airborne) pathogen producing sclerotia that persist in soil for years and produce apothecia. It causes white mould/stem rot of many crops."
   },
@@ -489,7 +489,7 @@ export const GRAND_TEST_8: GrandTestQuestion[] = [
   {
     id: "gt8_067", qNo: 67, subject: "agricultural-economics",
     question: "The 'World Trade Organization (WTO)' Agreement on Agriculture includes provisions on:",
-    options: ["Labour standards in agriculture", "Intellectual property in agriculture", "Trade in services only", "Market access, domestic support, and export competition/subsidies"],
+    options: ["Labour standards in agriculture", "Intellectual property in agriculture", "Trade in services only", "Market access and domestic support, etc."],
     correct: 3,
     explanation: "WTO Agreement on Agriculture (1995) has three pillars: Market Access (tariff reduction), Domestic Support (reduction of production-linked subsidies), and Export Competition (reduction of export subsidies)."
   },
@@ -533,7 +533,7 @@ export const GRAND_TEST_8: GrandTestQuestion[] = [
   {
     id: "gt8_073", qNo: 73, subject: "surveying",
     question: "The 'GIS (Geographic Information System)' integrates:",
-    options: ["Satellite images only", "GPS signals only", "Statistical data only", "Spatial data with attribute (non-spatial) data for analysis and mapping"],
+    options: ["Satellite images only crop", "GPS signals only variety", "Statistical data only crop", "Spatial data with attribute (non"],
     correct: 3,
     explanation: "GIS integrates spatial data (maps, satellite imagery) with attribute data (soil type, crop area, yield) enabling spatial analysis, thematic mapping, and decision support for agriculture and land use planning."
   },
@@ -584,7 +584,7 @@ export const GRAND_TEST_8: GrandTestQuestion[] = [
   {
     id: "gt8_080", qNo: 80, subject: "forestry",
     question: "The 'Wildlife Protection Act 1972' in India provides for the establishment of:",
-    options: ["National Parks, Wildlife Sanctuaries, Conservation Reserves, and Community Reserves", "Social forestry programmes only", "Carbon credit markets", "Commercial timber reserves"],
+    options: ["National Parks and others", "Social forestry programmes only", "Carbon credit markets", "Commercial timber reserves"],
     correct: 0,
     explanation: "Wildlife Protection Act 1972 (amended 2002, 2006) provides for Protected Areas: National Parks (strict protection), Wildlife Sanctuaries, Conservation Reserves, and Community Reserves."
   },
@@ -621,7 +621,7 @@ export const GRAND_TEST_8: GrandTestQuestion[] = [
   {
     id: "gt8_085", qNo: 85, subject: "horticulture",
     question: "The 'parthenocarpy' in fruit development refers to fruit formation:",
-    options: ["Only after double fertilisation", "Using artificial pollination only", "Without fertilisation (seedless fruit)", "After cross-pollination"],
+    options: ["Only after double fertilisation", "Using artificial pollination only", "Without fertilisation", "After cross-pollination"],
     correct: 2,
     explanation: "Parthenocarpy is fruit development without fertilisation, resulting in seedless fruit. Natural parthenocarpy occurs in banana; induced parthenocarpy uses GA₃ or 4-CPA (in tomato, grape, etc.)."
   },

@@ -19,7 +19,7 @@ export const GRAND_TEST_10: GrandTestQuestion[] = [
   {
     id: "gt10_003", qNo: 3, subject: "agronomy",
     question: "In 'paired row planting' of maize, the configuration used is typically:",
-    options: ["30 cm single row", "60 cm uniform rows", "45 cm + 75 cm alternating inter-row spacing", "75 cm × 75 cm spacing"],
+    options: ["30 cm single row method", "60 cm uniform rows crop", "45 cm + 75 cm alternating inter", "75 cm × 75 cm spacing crop"],
     correct: 2,
     explanation: "Paired row planting uses alternating narrow (45 cm) and wide (75 cm) inter-row spacing. The wide rows allow machinery operation while the narrow rows achieve higher plant density and canopy closure."
   },
@@ -137,7 +137,7 @@ export const GRAND_TEST_10: GrandTestQuestion[] = [
   {
     id: "gt10_019", qNo: 19, subject: "genetics",
     question: "The 'synthetic variety' in plant breeding is developed by:",
-    options: ["Mutation breeding followed by selection", "Random mating of selected parents and multiplication in isolation", "Interspecific hybridisation", "Hybridising two inbred lines"],
+    options: ["Mutation breeding followed by selection application", "Random mating of selected parents and multiplication in isolation", "Interspecific hybridisation application", "Hybridising two inbred lines application"],
     correct: 1,
     explanation: "A synthetic variety is developed by allowing selected parent genotypes to randomly mate among themselves in isolation. Each generation involves natural random mating — it is not a F1 hybrid but maintains diversity."
   },
@@ -218,21 +218,21 @@ export const GRAND_TEST_10: GrandTestQuestion[] = [
   {
     id: "gt10_030", qNo: 30, subject: "soil-science",
     question: "The 'DTPA extraction method' is used to determine available forms of which nutrients?",
-    options: ["N, P, K", "Ca, Mg, S", "Fe, Mn, Zn, Cu (DTPA-extractable micronutrients)", "B, Mo, Cl"],
+    options: ["N, P, K crop", "Ca, Mg, S crop", "Fe and others", "B, Mo, Cl crop"],
     correct: 2,
     explanation: "DTPA (Diethylenetriaminepentaacetic acid) extraction at pH 7.3 is the standard method for extractable micronutrients — Fe, Mn, Zn, and Cu. Critical levels: Zn < 0.6 mg/kg, Fe < 4.5, Mn < 2.0, Cu < 0.2 mg/kg."
   },
   {
     id: "gt10_031", qNo: 31, subject: "soil-science",
     question: "The 'Exchangeable Sodium Percentage (ESP)' is used to identify:",
-    options: ["Saline soils", "Organic soils", "Sodic (alkali) soils — ESP > 15% indicates sodic soil", "Acidic soils"],
+    options: ["Saline soils crop", "Organic soils crop", "Sodic (alkali) soils", "Acidic soils crop"],
     correct: 2,
     explanation: "ESP = (Exchangeable Na⁺ / CEC) × 100. Sodic soil: ESP > 15%, pH > 8.5, dispersed clay, poor structure. SAR (Sodium Adsorption Ratio) is the equivalent water quality parameter."
   },
   {
     id: "gt10_032", qNo: 32, subject: "soil-science",
     question: "Which factor in USLE accounts for the effect of topography on erosion?",
-    options: ["P factor (support practices)", "C factor (cover management)", "K factor (soil erodibility)", "LS factor (slope length and steepness)"],
+    options: ["P factor (support practices)", "C factor (cover management)", "K factor (soil erodibility)", "LS factor"],
     correct: 3,
     explanation: "In USLE (A = R×K×L×S×C×P): L = Slope length factor, S = Slope steepness factor. LS is combined as the topographic factor. Steeper and longer slopes generate more erosive runoff velocity and volume."
   },
@@ -299,7 +299,7 @@ export const GRAND_TEST_10: GrandTestQuestion[] = [
   {
     id: "gt10_041", qNo: 41, subject: "entomology",
     question: "The 'Lac insect' (Kerria lacca) produces lac on which host plants?",
-    options: ["Ber (Ziziphus), Kusum (Schleichera oleosa), Palas (Butea monosperma), and others", "Mango and cashew only", "Rice and wheat", "Eucalyptus and teak"],
+    options: ["Ber (Ziziphus) and others", "Mango and cashew only", "Rice and wheat", "Eucalyptus and teak"],
     correct: 0,
     explanation: "Lac insect (Kerria lacca) breeds on specific host plants: Ber (Ziziphus mauritiana), Kusum (Schleichera oleosa), Palas (Butea monosperma), and Ghont (Ziziphus jujuba). These are primary or secondary lac host plants."
   },
@@ -410,7 +410,7 @@ export const GRAND_TEST_10: GrandTestQuestion[] = [
   {
     id: "gt10_056", qNo: 56, subject: "plant-pathology",
     question: "The 'Phytophthora capsici' causes diseases in which crop(s)?",
-    options: ["Mango only", "Capsicum, tomato, pumpkin, cucumber (Phytophthora blight)", "Wheat only", "Rice only"],
+    options: ["Mango only crop", "Capsicum and others", "Wheat only crop", "Rice only crop"],
     correct: 1,
     explanation: "Phytophthora capsici causes Phytophthora blight in capsicum (chilli), tomato, and cucurbits (pumpkin, cucumber, melon). It thrives in warm, wet conditions causing damping-off, fruit rot, and foliar blight."
   },
@@ -459,7 +459,7 @@ export const GRAND_TEST_10: GrandTestQuestion[] = [
   {
     id: "gt10_063", qNo: 63, subject: "plant-pathology",
     question: "The 'Phoma blight' (Ascochyta blight) of chickpea is caused by:",
-    options: ["Fusarium oxysporum", "Botrytis cinerea", "Sclerotinia sclerotiorum", "Ascochyta rabiei (Phoma rabiei)"],
+    options: ["Fusarium oxysporum", "Botrytis cinerea", "Sclerotinia sclerotiorum", "Ascochyta rabiei"],
     correct: 3,
     explanation: "Ascochyta blight (blight, leaf spot, stem canker, pod rot) of chickpea is caused by Ascochyta rabiei (teleomorph: Didymella rabiei, synonym Phoma rabiei). It is a major threat in cool, wet environments."
   },
@@ -577,7 +577,7 @@ export const GRAND_TEST_10: GrandTestQuestion[] = [
   {
     id: "gt10_079", qNo: 79, subject: "forestry",
     question: "The 'Silviculture' is defined as the art and science of:",
-    options: ["Forest economics and timber trade", "Measuring forest resources", "Wildlife management in forests", "Controlling the establishment, growth, composition, health, and quality of forests"],
+    options: ["Forest economics and timber trade", "Measuring forest resources", "Wildlife management in forests", "Controlling the establishment and others"],
     correct: 3,
     explanation: "Silviculture is the practice of controlling forest establishment, composition, structure, and growth to meet diverse management objectives (timber, water, wildlife, carbon, biodiversity)."
   },
@@ -607,7 +607,7 @@ export const GRAND_TEST_10: GrandTestQuestion[] = [
   {
     id: "gt10_083", qNo: 83, subject: "horticulture",
     question: "The 'Regulated Deficit Irrigation' (RDI) strategy in fruit crops works by:",
-    options: ["Irrigating only at flowering stage", "Intentionally applying less water than full ET during specific non-critical growth stages", "Alternate row irrigation throughout season", "Applying full irrigation throughout the season"],
+    options: ["Irrigating only at flowering stage application", "Intentionally applying less water than full ET during specific non", "Alternate row irrigation throughout season variety", "Applying full irrigation throughout the season crop"],
     correct: 1,
     explanation: "RDI intentionally induces mild water stress during non-critical periods (early vegetative growth, post-harvest) to reduce vegetative vigour and improve fruit quality, while maintaining full irrigation during critical fruit development."
   },
@@ -628,7 +628,7 @@ export const GRAND_TEST_10: GrandTestQuestion[] = [
   {
     id: "gt10_086", qNo: 86, subject: "horticulture",
     question: "The 'Zero-energy cool chamber' (ZECC) developed by NHB/ICAR maintains cool temperature by:",
-    options: ["Evaporative cooling using wet sand and brick walls", "Solar-powered refrigeration", "Phase-change materials", "Underground insulation"],
+    options: ["Evaporative cooling using wet sand and brick walls", "Solar-powered refrigeration application", "Phase-change materials application", "Underground insulation application"],
     correct: 0,
     explanation: "ZECC is a simple low-cost structure with walls of sand-filled brick double walls kept moist by watering. Evaporation from wet sand reduces temperature inside by 10–15°C compared to outside, suitable for vegetable storage."
   },
@@ -702,5 +702,5 @@ export const GRAND_TEST_10: GrandTestQuestion[] = [
   { id:"gt10_097", qNo:97, subject:"general-agriculture", question:"MANAGE (National Institute of Agricultural Extension Management) is located at:", options: ["Bengaluru", "Bhopal", "Rajendranagar, Hyderabad", "New Delhi"], correct: 2, explanation:"MANAGE is located at Rajendranagar, Hyderabad. It is the apex national institute for agricultural extension management training, research, and consultancy in India, established in 1987 under the Ministry of Agriculture." },
   { id:"gt10_098", qNo:98, subject:"general-agriculture", question:"The International Year of Millets was declared by the UN for the year:", options: ["2022", "2021", "2024", "2023"], correct: 3, explanation:"The UN declared 2023 as the International Year of Millets (IYM 2023) on India's proposal. India is the largest producer of millets globally (40% share) and used this platform to promote millets as nutritious and climate-resilient 'Shree Anna'." },
   { id:"gt10_099", qNo:99, subject:"general-agriculture", question:"The National Education Policy (NEP) 2020 reforms in agricultural universities focus on:", options: ["Reducing the duration of B.Sc. Agriculture to 2 years", "Integrating multidisciplinary curriculum, choice", "Shifting all agriculture courses to online mode only", "Eliminating practical training from agriculture courses"], correct: 1, explanation:"NEP 2020 recommendations for agriculture universities include multidisciplinary approach, choice-based credit system (CBCS), integration of technology, internships, and entrepreneurship to produce industry-ready agriculture graduates." },
-  { id:"gt10_100", qNo:100, subject:"general-agriculture", question:"FAO publishes the annual flagship report on global food and agriculture titled:", options: ["World Food Report", "State of Food and Agriculture (SOFA)", "Global Agricultural Outlook", "Food Security Index Report"], correct: 1, explanation:"FAO's flagship annual publication 'The State of Food and Agriculture (SOFA)' reports on major issues affecting global food security and agriculture. Other key FAO reports include SOFI (State of Food Security and Nutrition in the World)." },
+  { id:"gt10_100", qNo:100, subject:"general-agriculture", question:"FAO publishes the annual flagship report on global food and agriculture titled:", options: ["World Food Report", "State of Food and Agriculture", "Global Agricultural Outlook", "Food Security Index Report"], correct: 1, explanation:"FAO's flagship annual publication 'The State of Food and Agriculture (SOFA)' reports on major issues affecting global food security and agriculture. Other key FAO reports include SOFI (State of Food Security and Nutrition in the World)." },
 ];

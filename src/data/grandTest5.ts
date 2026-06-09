@@ -165,7 +165,7 @@ export const GRAND_TEST_5: GrandTestQuestion[] = [
   {
     id: "gt5_023", qNo: 23, subject: "genetics",
     question: "Nucleosome core particle consists of:",
-    options: ["H3 + H4 tetramer + 80 bp DNA", "H1, H2A, H2B, H3, H4 + 200 bp DNA", "H1 + 146 bp DNA", "H2A, H2B, H3, H4 each × 2 + 147 bp DNA"],
+    options: ["H3 + H4 tetramer + 80 bp DNA", "H1, H2A, H2B, H3, H4 + 200 bp DNA", "H1 + 146 bp DNA", "H2A and H2B, etc."],
     correct: 3,
     explanation: "The nucleosome core particle consists of an octamer of histones (2 each of H2A, H2B, H3, H4) wrapped with 147 bp of DNA. H1 is the linker histone."
   },
@@ -320,7 +320,7 @@ export const GRAND_TEST_5: GrandTestQuestion[] = [
   {
     id: "gt5_044", qNo: 44, subject: "entomology",
     question: "The hormone responsible for metamorphosis in insects by preventing juvenile characters is:",
-    options: ["Ecdysone (moulting hormone)", "Juvenile hormone", "Bursicon", "Brain hormone (PTTH)"],
+    options: ["Ecdysone", "Juvenile hormone", "Bursicon", "Brain hormone (PTTH)"],
     correct: 0,
     explanation: "Ecdysone (moulting hormone / 20-hydroxyecdysone) triggers moulting and metamorphosis. When juvenile hormone levels are low, ecdysone promotes adult development."
   },
@@ -424,7 +424,7 @@ export const GRAND_TEST_5: GrandTestQuestion[] = [
   {
     id: "gt5_058", qNo: 58, subject: "plant-pathology",
     question: "The Koch's postulates were originally established while working on:",
-    options: ["Late blight of potato", "Anthrax (Bacillus anthracis)", "Tobacco mosaic virus", "Wheat rust"],
+    options: ["Late blight of potato", "Anthrax", "Tobacco mosaic virus", "Wheat rust"],
     correct: 1,
     explanation: "Robert Koch formulated his famous postulates in 1884 while studying anthrax caused by Bacillus anthracis, establishing proof of microbial pathogenicity."
   },
@@ -452,7 +452,7 @@ export const GRAND_TEST_5: GrandTestQuestion[] = [
   {
     id: "gt5_062", qNo: 62, subject: "plant-pathology",
     question: "Erwinia stewartii causes what disease in maize?",
-    options: ["Stalk rot", "Charcoal rot", "Stewart's wilt and leaf blight", "Downy mildew"],
+    options: ["Stalk rot application", "Charcoal rot application", "Stewart's wilt and leaf blight", "Downy mildew application"],
     correct: 2,
     explanation: "Erwinia stewartii (Pantoea stewartii) causes Stewart's wilt and leaf blight of maize, spread by corn flea beetles that overwinter the bacterium."
   },

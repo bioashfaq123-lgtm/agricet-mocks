@@ -121,7 +121,7 @@ export const GRAND_TEST_6: GrandTestQuestion[] = [
   {
     id: "gt6_017", qNo: 17, subject: "rabi-crops",
     question: "Coriander (dhaniya) is botanically a:",
-    options: ["Leaf vegetable", "Flower crop", "Spice with both leaf and seed use", "Root vegetable"],
+    options: ["Leaf vegetable application", "Flower crop application", "Spice with both leaf and seed use", "Root vegetable application"],
     correct: 2,
     explanation: "Coriander (Coriandrum sativum) is a dual-purpose crop — its leaves are used as a herb (fresh) and seeds are used as a spice. It belongs to family Apiaceae."
   },
@@ -151,7 +151,7 @@ export const GRAND_TEST_6: GrandTestQuestion[] = [
   {
     id: "gt6_021", qNo: 21, subject: "genetics",
     question: "The genetic map distance between two genes is measured in:",
-    options: ["Angstroms (Å)", "Centimorgans (cM) or map units (m.u.)", "Nucleotide pairs (bp)", "Nanometres (nm)"],
+    options: ["Angstroms (Å) treatment", "Centimorgans (cM) or map units", "Nucleotide pairs (bp) crop", "Nanometres (nm) variety"],
     correct: 1,
     explanation: "Genetic map distances are measured in centimorgans (cM), also called map units. 1 cM = 1% recombination frequency. Named after T.H. Morgan."
   },
@@ -380,7 +380,7 @@ export const GRAND_TEST_6: GrandTestQuestion[] = [
   {
     id: "gt6_052", qNo: 52, subject: "farm-machinery",
     question: "The capacity of a sprayer is measured in:",
-    options: ["Litres per hectare (L/ha)", "Both L/min (discharge rate) and L/ha (application rate)", "kg/ha", "Litres per minute (L/min)"],
+    options: ["Litres per hectare (L/ha) crop", "Both L/min (discharge rate) and L/ha", "kg/ha application", "Litres per minute (L/min) crop"],
     correct: 1,
     explanation: "Sprayer capacity is measured in L/min for discharge rate (pump capacity) and L/ha for application rate. Both are important for calibration and scheduling."
   },
@@ -445,7 +445,7 @@ export const GRAND_TEST_6: GrandTestQuestion[] = [
   {
     id: "gt6_061", qNo: 61, subject: "plant-pathology",
     question: "The hyperparasite Trichoderma controls plant pathogens through:",
-    options: ["Only direct contact lysis", "Only enzyme production", "Competing for light", "Mycoparasitism, antibiosis, and induced resistance"],
+    options: ["Only direct contact lysis", "Only enzyme production", "Competing for light", "Mycoparasitism and others"],
     correct: 3,
     explanation: "Trichoderma spp. control soil-borne pathogens through multiple mechanisms: mycoparasitism (coiling around pathogen hyphae), production of antibiotics, competition for nutrients, and inducing plant resistance."
   },
@@ -628,7 +628,7 @@ export const GRAND_TEST_6: GrandTestQuestion[] = [
   {
     id: "gt6_086", qNo: 86, subject: "horticulture",
     question: "The edible part of cauliflower is the:",
-    options: ["Root", "Leaf", "Stem", "Inflorescence (modified flower buds)"],
+    options: ["Root plant", "Leaf plant", "Stem plant", "Inflorescence"],
     correct: 3,
     explanation: "The edible portion of cauliflower (Brassica oleracea var. botrytis) is the curd — a dense, compact mass of undeveloped modified flower buds (pre-floral meristematic tissue)."
   },
@@ -679,7 +679,7 @@ export const GRAND_TEST_6: GrandTestQuestion[] = [
   {
     id: "gt6_093", qNo: 93, subject: "extension",
     question: "The 'method demonstration' in extension is different from 'result demonstration' in that it focuses on:",
-    options: ["Showing final results", "Showing how to do a particular practice step-by-step", "Measuring farm income", "Comparing different varieties"],
+    options: ["Showing final results application", "Showing how to do a particular practice step-by-step", "Measuring farm income application", "Comparing different varieties application"],
     correct: 1,
     explanation: "Method demonstration teaches HOW to perform a particular practice (e.g., how to apply fertiliser, how to prepare nursery). Result demonstration shows the outcome — the final result of a technology."
   },
@@ -701,6 +701,6 @@ export const GRAND_TEST_6: GrandTestQuestion[] = [
   { id:"gt6_096", qNo:96, subject:"general-agriculture", question:"The Kisan Credit Card (KCC) scheme was launched in India in:", options: ["2004", "1991", "1995", "1998"], correct: 3, explanation:"The Kisan Credit Card (KCC) scheme was launched in 1998 (based on R.V. Gupta Committee recommendations) to provide farmers with timely and adequate credit for agricultural operations through a simplified banking procedure." },
   { id:"gt6_097", qNo:97, subject:"general-agriculture", question:"The First Five Year Plan (1951–56) in India gave highest priority to:", options: ["Agriculture and community development", "Defence modernisation", "Infrastructure development", "Industrial development"], correct: 0, explanation:"India's First Five Year Plan (1951–56), drafted by K.N. Raj, gave top priority to agriculture and community development to address food scarcity following partition and to achieve self-sufficiency." },
   { id:"gt6_098", qNo:98, subject:"general-agriculture", question:"APEDA (Agricultural and Processed Food Products Export Development Authority) is under:", options: ["Ministry of External Affairs", "Ministry of Commerce and Industry", "Ministry of Food Processing Industries", "Ministry of Agriculture"], correct: 1, explanation:"APEDA was established in 1985 under the Ministry of Commerce and Industry to promote export of agricultural and processed food products. It supports quality upgradation and market development." },
-  { id:"gt6_099", qNo:99, subject:"general-agriculture", question:"India is the world's largest producer and consumer of:", options: ["Spices (overall)", "Black pepper", "Turmeric", "Cardamom"], correct: 0, explanation:"India is the world's largest producer, consumer and exporter of spices overall. India produces about 75 varieties of spices and accounts for approximately 23% of global spice exports." },
+  { id:"gt6_099", qNo:99, subject:"general-agriculture", question:"India is the world's largest producer and consumer of:", options: ["Spices", "Black pepper", "Turmeric", "Cardamom"], correct: 0, explanation:"India is the world's largest producer, consumer and exporter of spices overall. India produces about 75 varieties of spices and accounts for approximately 23% of global spice exports." },
   { id:"gt6_100", qNo:100, subject:"general-agriculture", question:"The 'Genome India Project' was launched to:", options: ["Sequence genomes of major crop plants", "Develop GM crop varieties", "Create a comprehensive catalogue of human genetic variation in Indians", "Map soil microbial genomes"], correct: 2, explanation:"The Genome India Project (launched 2020) aims to sequence the whole genomes of 10,000 individuals representing diverse Indian populations to create a comprehensive reference database for health and disease research." },
 ];

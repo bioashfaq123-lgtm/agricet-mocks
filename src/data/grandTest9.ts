@@ -5,7 +5,7 @@ export const GRAND_TEST_9: GrandTestQuestion[] = [
   {
     id: "gt9_001", qNo: 1, subject: "agronomy",
     question: "The 'Net Field Water Requirement' (NFWR) for a crop is calculated as:",
-    options: ["Crop Evapotranspiration (ETc)", "ETc + Percolation", "ETc − Effective Rainfall", "ETc − Effective Rainfall − Soil Moisture contribution"],
+    options: ["Crop Evapotranspiration (ETc) application", "ETc + Percolation application", "ETc − Effective Rainfall application", "ETc − Effective Rainfall − Soil Moisture contribution"],
     correct: 3,
     explanation: "NFWR = ETc − Effective Rainfall − Soil Moisture contribution. It represents the actual irrigation water needed after accounting for all natural water contributions."
   },
@@ -84,7 +84,7 @@ export const GRAND_TEST_9: GrandTestQuestion[] = [
   {
     id: "gt9_012", qNo: 12, subject: "kharif-crops",
     question: "The 'castor' crop (Ricinus communis) is cultivated primarily for its oil which is used in:",
-    options: ["Vegetable ghee production", "Edible oil production", "Lubricants, pharmaceuticals, plastics, and biodiesel (non-edible)", "Paint pigments"],
+    options: ["Vegetable ghee production", "Edible oil production", "Lubricants and others", "Paint pigments"],
     correct: 2,
     explanation: "Castor oil is non-edible (contains ricin in seeds) but highly valuable for industrial uses: high-temperature lubricants, pharmaceuticals (laxative), plastics, biodiesel, and cosmetics."
   },
@@ -179,7 +179,7 @@ export const GRAND_TEST_9: GrandTestQuestion[] = [
   {
     id: "gt9_025", qNo: 25, subject: "genetics",
     question: "The 'Restriction enzymes' (restriction endonucleases) were discovered by:",
-    options: ["Fred Sanger (Nobel 1958, 1980)", "James Watson and Francis Crick", "Kary Mullis (Nobel 1993)", "Werner Arber, Daniel Nathans, and Hamilton Smith (Nobel 1978)"],
+    options: ["Fred Sanger (Nobel 1958, 1980)", "James Watson and Francis Crick", "Kary Mullis (Nobel 1993)", "Werner Arber and others"],
     correct: 3,
     explanation: "Restriction enzymes were discovered by Werner Arber (bacteria), Daniel Nathans and Hamilton Smith (type II restriction enzymes). They shared the Nobel Prize in 1978 for this discovery."
   },
@@ -225,7 +225,7 @@ export const GRAND_TEST_9: GrandTestQuestion[] = [
   {
     id: "gt9_031", qNo: 31, subject: "soil-science",
     question: "The 'Stokes' law' applied in soil texture analysis (hydrometer method) relates particle settling velocity to:",
-    options: ["Particle weight and soil pH", "Particle radius squared and viscosity of the fluid", "Surface area and temperature only", "Soil aggregate stability"],
+    options: ["Particle weight and soil pH application", "Particle radius squared and viscosity of the fluid", "Surface area and temperature only crop", "Soil aggregate stability application"],
     correct: 1,
     explanation: "Stokes' law: v = 2r²(ρs−ρl)g / 9η, where v = settling velocity, r = particle radius, ρs = particle density, ρl = liquid density, g = gravity, η = viscosity. Larger particles settle faster."
   },
@@ -276,7 +276,7 @@ export const GRAND_TEST_9: GrandTestQuestion[] = [
   {
     id: "gt9_038", qNo: 38, subject: "soil-fertility",
     question: "The 'Phosphate Solubilising Bacteria' (PSB) primarily solubilise phosphate through:",
-    options: ["Production of organic acids (gluconic, citric, oxalic) that lower pH and release phosphate", "Nitrogen fixation linked to phosphorus release", "Producing phosphatase enzymes only", "Physical disruption of rock phosphate"],
+    options: ["Production of organic acids (gluconic and others", "Nitrogen fixation linked to phosphorus release", "Producing phosphatase enzymes only", "Physical disruption of rock phosphate"],
     correct: 0,
     explanation: "PSB (e.g., Bacillus, Pseudomonas, Aspergillus) produce organic acids (principally gluconic acid by glucose oxidation) that acidify the rhizosphere, solubilising insoluble Ca-phosphates and rock phosphate."
   },
@@ -438,7 +438,7 @@ export const GRAND_TEST_9: GrandTestQuestion[] = [
   {
     id: "gt9_060", qNo: 60, subject: "plant-pathology",
     question: "The 'Stylet-borne transmission' of plant viruses by aphids is characterised by:",
-    options: ["Only seed-to-plant transmission", "Long acquisition and inoculation periods (hours to days)", "Very short acquisition and inoculation periods (minutes to seconds)", "Circulative, propagative virus replication in aphid"],
+    options: ["Only seed-to-plant transmission", "Long acquisition and inoculation periods (hours to days)", "Very short acquisition and inoculation periods", "Circulative, propagative virus replication in aphid"],
     correct: 2,
     explanation: "Stylet-borne (non-persistent) transmission: Very short acquisition feeding period (seconds to minutes), short inoculation period, virus is at stylet tip, no latent period, virus not retained after moult."
   },
@@ -466,7 +466,7 @@ export const GRAND_TEST_9: GrandTestQuestion[] = [
   {
     id: "gt9_064", qNo: 64, subject: "plant-pathology",
     question: "The 'Monocyclic disease' is one in which:",
-    options: ["Only one infection cycle occurs per season (single cycle)", "Multiple infection cycles occur in a season", "Disease occurs in alternate years", "Disease spreads through seeds only"],
+    options: ["Only one infection cycle occurs per season", "Multiple infection cycles occur in a season", "Disease occurs in alternate years", "Disease spreads through seeds only"],
     correct: 0,
     explanation: "Monocyclic diseases have only one infection cycle per season (e.g., smuts, many soil-borne diseases). Polycyclic diseases (e.g., rusts, blights) have multiple cycles per season and can cause epidemics rapidly."
   },
@@ -526,7 +526,7 @@ export const GRAND_TEST_9: GrandTestQuestion[] = [
   {
     id: "gt9_072", qNo: 72, subject: "surveying",
     question: "The 'Remote Sensing' satellite data is primarily used in agriculture for:",
-    options: ["Weather forecasting only", "Underground water mapping only", "Crop area estimation, yield forecasting, drought monitoring, and land use mapping", "Measuring soil temperature at depth"],
+    options: ["Weather forecasting only", "Underground water mapping only", "Crop area estimation and others", "Measuring soil temperature at depth"],
     correct: 2,
     explanation: "Remote sensing satellites provide multi-spectral data used for: crop area estimation, yield forecasting, crop health monitoring, drought/flood assessment, land use/land cover mapping, and soil mapping."
   },
@@ -665,7 +665,7 @@ export const GRAND_TEST_9: GrandTestQuestion[] = [
   {
     id: "gt9_091", qNo: 91, subject: "extension",
     question: "The 'MGNREGS (Mahatma Gandhi National Rural Employment Guarantee Scheme)' is relevant to agriculture because:",
-    options: ["It provides crop insurance", "It subsidises seeds and fertilisers", "It provides crop loans", "It funds watershed development, land levelling, and farm pond construction as permissible activities"],
+    options: ["It provides crop insurance", "It subsidises seeds and fertilisers", "It provides crop loans", "It funds watershed development and others"],
     correct: 3,
     explanation: "MGNREGS provides 100 days of guaranteed wage employment per rural household. Permissible works include watershed development, irrigation canals, farm ponds, land levelling — directly benefiting agriculture."
   },
@@ -693,7 +693,7 @@ export const GRAND_TEST_9: GrandTestQuestion[] = [
   {
     id: "gt9_095", qNo: 95, subject: "extension",
     question: "The 'Competency-Based Training' in extension refers to training that focuses on:",
-    options: ["Only on-farm demonstrations", "Theoretical knowledge only", "Development of specific skills, knowledge, and attitudes needed for effective job performance", "Duration-based training programmes"],
+    options: ["Only on-farm demonstrations", "Theoretical knowledge only", "Development of specific skills and others", "Duration-based training programmes"],
     correct: 2,
     explanation: "Competency-Based Training (CBT) focuses on developing measurable, observable competencies (skills + knowledge + attitudes) required for effective performance of specific job tasks."
   },

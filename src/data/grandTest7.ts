@@ -63,7 +63,7 @@ export const GRAND_TEST_7: GrandTestQuestion[] = [
   {
     id: "gt7_009", qNo: 9, subject: "kharif-crops",
     question: "The 'Bt cotton' transgenic variety in India expresses the insecticidal protein from:",
-    options: ["Bacillus thuringiensis var. kurstaki (cry1Ac gene)", "Bacillus subtilis", "Pseudomonas fluorescens", "Trichoderma viride"],
+    options: ["Bacillus thuringiensis var. kurstaki", "Bacillus subtilis treatment", "Pseudomonas fluorescens crop", "Trichoderma viride practice"],
     correct: 0,
     explanation: "Bt cotton in India (introduced in 2002) contains cry1Ac gene from Bacillus thuringiensis var. kurstaki, producing Cry1Ac protein effective against bollworms (Lepidoptera)."
   },
@@ -107,7 +107,7 @@ export const GRAND_TEST_7: GrandTestQuestion[] = [
   {
     id: "gt7_015", qNo: 15, subject: "rabi-crops",
     question: "Which variety of wheat was responsible for the 'Green Revolution' breakthrough in India?",
-    options: ["NP 809", "C 306", "Sonora 64 / Lerma Rojo (Mexican dwarf wheat)", "HD 2329"],
+    options: ["NP 809 treatment", "C 306 application", "Sonora 64 / Lerma Rojo", "HD 2329 practice"],
     correct: 2,
     explanation: "Mexican semi-dwarf wheat varieties (Sonora 64 and Lerma Rojo) introduced by Dr. M.S. Swaminathan from Norman Borlaug's programme sparked the Green Revolution in India (1965–66)."
   },
@@ -239,7 +239,7 @@ export const GRAND_TEST_7: GrandTestQuestion[] = [
   {
     id: "gt7_033", qNo: 33, subject: "soil-science",
     question: "The 'Universal Soil Loss Equation (USLE)' was developed by:",
-    options: ["Zingg (1940)", "Renard et al. (1997)", "Wischmeier and Smith (1965)", "Musgrave (1947)"],
+    options: ["Zingg (1940)", "Renard et al. (1997)", "Wischmeier and Smith", "Musgrave (1947)"],
     correct: 2,
     explanation: "USLE was developed by Wischmeier and Smith (1965, revised 1978). It predicts annual soil loss as: A = R×K×L×S×C×P, where each factor represents rainfall, soil, slope, cover, and practice."
   },
@@ -292,7 +292,7 @@ export const GRAND_TEST_7: GrandTestQuestion[] = [
   {
     id: "gt7_040", qNo: 40, subject: "entomology",
     question: "The 'tympanic organ' in locusts is located on the:",
-    options: ["Antennae", "Thorax", "Head", "First abdominal segment"],
+    options: ["Antennae practice", "Thorax application", "Head application", "First abdominal segment"],
     correct: 3,
     explanation: "The tympanic (auditory) organ of locusts (grasshoppers) is located on the first abdominal segment. It detects sound vibrations, important for mating and alarm responses."
   },
@@ -313,14 +313,14 @@ export const GRAND_TEST_7: GrandTestQuestion[] = [
   {
     id: "gt7_043", qNo: 43, subject: "entomology",
     question: "The organophosphate insecticide 'Monocrotophos' primarily acts as:",
-    options: ["Repellent", "Fumigant only", "Contact and systemic insecticide", "Stomach poison only"],
+    options: ["Repellent application", "Fumigant only application", "Contact and systemic insecticide", "Stomach poison only crop"],
     correct: 2,
     explanation: "Monocrotophos is an organophosphate insecticide that acts as both a contact and systemic poison. It inhibits acetylcholinesterase, causing nerve impulse accumulation."
   },
   {
     id: "gt7_044", qNo: 44, subject: "entomology",
     question: "The pheromone trap used in IPM is used for:",
-    options: ["Monitoring pest population, mass trapping, and mating disruption", "Attracting beneficial insects", "Mass trapping only", "Only repelling pests"],
+    options: ["Monitoring pest population and others", "Attracting beneficial insects", "Mass trapping only", "Only repelling pests"],
     correct: 0,
     explanation: "Sex pheromone traps are used in IPM for: (1) monitoring/forecasting pest populations, (2) mass trapping to reduce populations, and (3) mating disruption to reduce reproduction."
   },
@@ -401,7 +401,7 @@ export const GRAND_TEST_7: GrandTestQuestion[] = [
   {
     id: "gt7_055", qNo: 55, subject: "farm-machinery",
     question: "For a combine harvester, the 'grain loss' is measured at which points?",
-    options: ["Only at the threshing cylinder", "Only at the grain tank", "Only at the rear of the machine", "At cutter bar, cylinder, and sieves/separation (total field loss)"],
+    options: ["Only at the threshing cylinder", "Only at the grain tank", "Only at the rear of the machine", "At cutter bar and cylinder, etc."],
     correct: 3,
     explanation: "Total combine harvester grain losses are measured at: (1) Cutter bar (header) loss, (2) Threshing cylinder loss (unthreshed grain), and (3) Separation/cleaning sieve loss."
   },
@@ -445,7 +445,7 @@ export const GRAND_TEST_7: GrandTestQuestion[] = [
   {
     id: "gt7_061", qNo: 61, subject: "plant-pathology",
     question: "Foot and stem rot of rice caused by Sclerotium oryzae is characterised by:",
-    options: ["Orange pustules on leaves", "Black sclerotia in decayed tissue and stem rot", "White downy growth on panicle", "Yellow streaks on leaves"],
+    options: ["Orange pustules on leaves treatment", "Black sclerotia in decayed tissue and stem rot", "White downy growth on panicle plant", "Yellow streaks on leaves application"],
     correct: 1,
     explanation: "Sclerotium oryzae causes stem rot of rice. Characteristic features are small black sclerotia (resting bodies) embedded in the decayed stem tissue below the water line."
   },
@@ -517,7 +517,7 @@ export const GRAND_TEST_7: GrandTestQuestion[] = [
   {
     id: "gt7_071", qNo: 71, subject: "agricultural-economics",
     question: "The 'National Food Security Act 2013' entitles households to subsidised food grain at:",
-    options: ["At MSP prices", "₹2/kg for wheat, ₹3/kg for rice, ₹1/kg for millets", "₹1/kg for wheat, ₹2/kg for rice", "₹5/kg for all food grains"],
+    options: ["At MSP prices", "₹2/kg for wheat and others", "₹1/kg for wheat, ₹2/kg for rice", "₹5/kg for all food grains"],
     correct: 1,
     explanation: "Under NFSA 2013, eligible households receive wheat at ₹2/kg, rice at ₹3/kg, and coarse grains (millets) at ₹1/kg through the PDS. Priority Households get 5 kg/person/month."
   },
@@ -526,7 +526,7 @@ export const GRAND_TEST_7: GrandTestQuestion[] = [
   {
     id: "gt7_072", qNo: 72, subject: "surveying",
     question: "The 'Gunter's chain' has a total length of:",
-    options: ["20 m", "20.117 m (66 feet)", "30 m", "10 m"],
+    options: ["20 m crop", "20.117 m", "30 m crop", "10 m crop"],
     correct: 1,
     explanation: "Gunter's chain = 66 feet = 20.117 metres, consisting of 100 links each 7.92 inches (0.201 m) long. It was designed to relate to acres: 10 chains × 1 chain = 1 acre."
   },
@@ -656,7 +656,7 @@ export const GRAND_TEST_7: GrandTestQuestion[] = [
   {
     id: "gt7_090", qNo: 90, subject: "agro-meteorology",
     question: "Phenology in agricultural meteorology refers to the study of:",
-    options: ["Periodic biological events in crops in relation to seasonal climate changes", "Crop yield forecasting using satellite imagery", "Leaf area index measurement methods", "Soil-atmosphere gas exchange"],
+    options: ["Periodic biological events in crops in relation to seasonal climate changes", "Crop yield forecasting using satellite imagery application", "Leaf area index measurement methods application", "Soil-atmosphere gas exchange application"],
     correct: 0,
     explanation: "Agro-phenology studies the timing of crop developmental stages (sowing, emergence, tillering, flowering, maturity) in relation to temperature, photoperiod and rainfall. Phenological data is essential for scheduling farm operations, pest prediction and climate change impact assessment."
   },
