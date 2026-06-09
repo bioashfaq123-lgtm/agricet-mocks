@@ -102,6 +102,34 @@ export default function AEOPapersPage() {
           </div>
         </div>
 
+        {/* ── ACTUAL PYQ PAPERS (PDF-based) ── */}
+        <div className="mb-8 rounded-2xl border-2 border-red-200 bg-red-50 p-5">
+          <div className="flex items-start gap-4">
+            <div className="text-4xl">📄</div>
+            <div className="flex-1">
+              <div className="flex items-center gap-2 mb-1">
+                <span className="bg-red-600 text-white text-xs font-black px-2 py-0.5 rounded-full">NEW</span>
+                <h2 className="font-black text-gray-900 text-base">Actual Previous Year Papers — Telugu</h2>
+              </div>
+              <p className="text-sm text-gray-600 mb-3">
+                Original TSPSC AEO exam papers (2016 & 2017) in Telugu — with correct answers marked in <strong className="text-green-700">green ✅</strong>.
+                Paper 1 General Studies + Paper 2 Agriculture — all 3 papers, 150 questions each.
+              </p>
+              <div className="flex flex-wrap gap-2 mb-4 text-xs text-gray-600">
+                <span className="bg-white border border-red-200 px-2 py-1 rounded-lg">📋 AEO 2016 Paper 1 – General Studies</span>
+                <span className="bg-white border border-red-200 px-2 py-1 rounded-lg">🌾 AEO 2016 Paper 2 – Agriculture</span>
+                <span className="bg-white border border-red-200 px-2 py-1 rounded-lg">🌾 AEO 2017 Paper 2 – Agriculture</span>
+              </div>
+              <Link
+                href="/aeo-papers/pyq"
+                className="inline-flex items-center gap-2 bg-red-600 hover:bg-red-700 text-white font-black text-sm px-5 py-2.5 rounded-xl transition-colors shadow-md"
+              >
+                📖 View Original PYQ Papers →
+              </Link>
+            </div>
+          </div>
+        </div>
+
         {/* Paper Cards */}
         <div className="space-y-6">
           {PAPERS.map((p) => {
