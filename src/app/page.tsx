@@ -37,7 +37,6 @@ const FAQS = [
 export default function LandingPage() {
   const [motIdx, setMotIdx] = useState(0);
   const [openFaq, setOpenFaq] = useState<number | null>(null);
-  const [showBanner, setShowBanner] = useState(true);
   const { userData } = useAuth();
   const isPaid = userData?.isPaid ?? false;
 
@@ -50,14 +49,6 @@ export default function LandingPage() {
     <div className="min-h-screen bg-white">
       <Navbar />
 
-      {/* Announcement Banner */}
-      {showBanner && (
-        <div className="bg-emerald-600 text-white text-center py-2.5 px-4 text-sm font-medium relative">
-          🎉 AGRICET 2025 Official Question Paper is <span className="font-black underline">FREE to Attempt</span> — No payment needed! &nbsp;
-          <Link href="/signup" className="inline-flex items-center gap-1 bg-white text-emerald-700 font-bold px-3 py-0.5 rounded-full text-xs hover:bg-emerald-50 transition-colors">Sign up &amp; Practice Free →</Link>
-          <button onClick={() => setShowBanner(false)} className="absolute right-4 top-1/2 -translate-y-1/2 text-white/70 hover:text-white">✕</button>
-        </div>
-      )}
 
       {/* ── HERO ── */}
       <section className="relative bg-gradient-to-br from-primary-900 via-primary-800 to-primary-600 text-white overflow-hidden">
