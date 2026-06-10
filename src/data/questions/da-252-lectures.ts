@@ -13,24 +13,24 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_002", subject: "da-252", lecture: "lecture-1", lectureNo: 1,
     question: "Plane surveying assumes the earth's surface to be:",
-    options: ["Spherical", "Irregular", "Cylindrical", "Flat (plane)"],
-    correct: 3,
+    options: ["Spherical", "Irregular", "Flat (plane)", "Cylindrical"],
+    correct: 2,
     explanation: "Plane surveying ignores earth's curvature — suitable for areas up to about 260 km².",
     difficulty: "easy"
   },
   {
     id: "d252l_003", subject: "da-252", lecture: "lecture-1", lectureNo: 1,
     question: "Geodetic surveying accounts for:",
-    options: ["The curvature of the earth (for large areas)", "Only horizontal distances in soil management", "Only vertical measurements under field conditions", "Only angles for soil fertility"],
-    correct: 0,
+    options: ["Only horizontal distances in soil management", "The curvature of the earth (for large areas)", "Only vertical measurements under field conditions", "Only angles for soil fertility"],
+    correct: 1,
     explanation: "Geodetic surveying considers the curvature of the earth and is used for large-scale national surveys.",
     difficulty: "medium"
   },
   {
     id: "d252l_004", subject: "da-252", lecture: "lecture-1", lectureNo: 1,
     question: "The primary aim of surveying in agriculture is:",
-    options: ["Crop yield estimation in soil management", "Measurement and recording of land for planning and development", "Weather prediction under field conditions", "Soil nutrient analysis for soil fertility"],
-    correct: 1,
+    options: ["Measurement and recording of land for planning and development", "Crop yield estimation in soil management", "Weather prediction under field conditions", "Soil nutrient analysis for soil fertility"],
+    correct: 0,
     explanation: "Surveying in agriculture is done to measure land areas, plan irrigation systems, and prepare farm maps.",
     difficulty: "easy"
   },
@@ -45,16 +45,16 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_006", subject: "da-252", lecture: "lecture-1", lectureNo: 1,
     question: "A datum in surveying is:",
-    options: ["A chain length in soil management in agriculture", "A survey instrument under field conditions", "A reference level or surface from which elevations are measured", "A type of map for soil fertility"],
-    correct: 2,
+    options: ["A chain length in soil management in agriculture", "A survey instrument under field conditions", "A type of map for soil fertility", "A reference level or surface from which elevations are measured"],
+    correct: 3,
     explanation: "Datum is an assumed or defined reference surface (often mean sea level) from which vertical measurements are made.",
     difficulty: "medium"
   },
   {
     id: "d252l_007", subject: "da-252", lecture: "lecture-1", lectureNo: 1,
     question: "MSL (Mean Sea Level) in India is determined at:",
-    options: ["Karachi", "Kolkata", "Chennai", "Mumbai"],
-    correct: 3,
+    options: ["Mumbai", "Kolkata", "Chennai", "Karachi"],
+    correct: 0,
     explanation: "The MSL datum for India is determined at the Mumbai tidal gauge station.",
     difficulty: "medium"
   },
@@ -69,32 +69,32 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_009", subject: "da-252", lecture: "lecture-1", lectureNo: 1,
     question: "A large-scale map shows:",
-    options: ["Less area with more detail", "More area with less detail", "Equal area and detail", "Only rivers"],
-    correct: 0,
+    options: ["More area with less detail", "Less area with more detail", "Equal area and detail", "Only rivers"],
+    correct: 1,
     explanation: "Large-scale maps (1:1000, 1:5000) cover smaller areas but show more detail than small-scale maps.",
     difficulty: "medium"
   },
   {
     id: "d252l_010", subject: "da-252", lecture: "lecture-1", lectureNo: 1,
     question: "RF (Representative Fraction) of 1:50,000 means:",
-    options: ["1 m on ground = 50,000 m on map", "1 cm on map = 500 m on ground", "1:50,000 is a large scale", "1 cm on map = 50,000 m on ground"],
-    correct: 1,
+    options: ["1 cm on map = 500 m on ground", "1 m on ground = 50,000 m on map", "1:50,000 is a large scale", "1 cm on map = 50,000 m on ground"],
+    correct: 0,
     explanation: "1:50,000 means 1 unit on map = 50,000 units on ground (1 cm = 50,000 cm = 500 m).",
     difficulty: "medium"
   },
   {
     id: "d252l_011", subject: "da-252", lecture: "lecture-1", lectureNo: 1,
     question: "Which of the following is NOT a survey instrument?",
-    options: ["Level", "Piezometer", "Theodolite", "Chain"],
-    correct: 1,
+    options: ["Level", "Theodolite", "Piezometer", "Chain"],
+    correct: 2,
     explanation: "Piezometer measures water pressure/depth; it is a hydrological instrument, not a surveying tool.",
     difficulty: "medium"
   },
   {
     id: "d252l_012", subject: "da-252", lecture: "lecture-1", lectureNo: 1,
     question: "Bearing in surveying is the angle measured from:",
-    options: ["East direction in soil management", "North (or South) direction, clockwise or counter-clockwise", "Vertical downward under field conditions", "The horizon for soil fertility"],
-    correct: 1,
+    options: ["North (or South) direction, clockwise or counter-clockwise", "East direction in soil management", "Vertical downward under field conditions", "The horizon for soil fertility"],
+    correct: 0,
     explanation: "Bearing is the horizontal angle of a survey line measured clockwise from north (whole circle bearing) or from N/S.",
     difficulty: "medium"
   },
@@ -103,72 +103,72 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_013", subject: "da-252", lecture: "lecture-2", lectureNo: 2,
     question: "Standard chain length used in India is:",
-    options: ["20 m (Gunter's chain = 66 ft)", "10 m", "50 m", "30 m (metric chain)"],
-    correct: 3,
+    options: ["20 m (Gunter's chain = 66 ft)", "30 m (metric chain)", "50 m", "10 m"],
+    correct: 1,
     explanation: "The standard metric chain used in India is 30 m long (divided into 150 links of 20 cm each).",
     difficulty: "medium"
   },
   {
     id: "d252l_014", subject: "da-252", lecture: "lecture-2", lectureNo: 2,
     question: "A Gunter's chain is _____ long:",
-    options: ["100 m", "50 feet", "20 m / 66 feet", "30 m"],
-    correct: 2,
+    options: ["100 m", "50 feet", "30 m", "20 m / 66 feet"],
+    correct: 3,
     explanation: "Gunter's chain is 66 feet (20.12 m) long with 100 links, useful for area measurement in acres.",
     difficulty: "medium"
   },
   {
     id: "d252l_015", subject: "da-252", lecture: "lecture-2", lectureNo: 2,
     question: "In chain surveying, the main lines form a:",
-    options: ["Circle", "Network of well-conditioned triangles", "Spiral", "Grid"],
-    correct: 1,
+    options: ["Circle", "Grid", "Spiral", "Network of well-conditioned triangles"],
+    correct: 3,
     explanation: "Chain surveying is based on a framework of triangles that are 'well-conditioned' (angles 30°–120°).",
     difficulty: "medium"
   },
   {
     id: "d252l_016", subject: "da-252", lecture: "lecture-2", lectureNo: 2,
     question: "An offset in chain surveying is:",
-    options: ["The length of the chain in soil management", "A measurement along the chain line under field conditions", "The angle between two chain lines for soil fertility", "A perpendicular (or oblique) measurement from the chain line to a detail point"],
-    correct: 3,
+    options: ["A perpendicular (or oblique) measurement from the chain line to a detail point", "A measurement along the chain line under field conditions", "The angle between two chain lines for soil fertility", "The length of the chain in soil management"],
+    correct: 0,
     explanation: "Offsets are lateral measurements from the chain line to locate features not on the line.",
     difficulty: "medium"
   },
   {
     id: "d252l_017", subject: "da-252", lecture: "lecture-2", lectureNo: 2,
     question: "The instrument used to set out right angles in chain surveying is:",
-    options: ["Theodolite", "Compass", "Cross-staff or optical square", "Level"],
-    correct: 2,
+    options: ["Cross-staff or optical square", "Compass", "Theodolite", "Level"],
+    correct: 0,
     explanation: "Cross-staff and optical square are simple instruments used to set perpendicular offsets in chain surveying.",
     difficulty: "medium"
   },
   {
     id: "d252l_018", subject: "da-252", lecture: "lecture-2", lectureNo: 2,
     question: "A check line in chain surveying is used to:",
-    options: ["Verify the accuracy of field work by checking closure", "Measure the main line in soil management", "Set up the chain under field conditions", "Measure offsets for soil fertility"],
-    correct: 0,
+    options: ["Set up the chain under field conditions", "Measure the main line in soil management", "Verify the accuracy of field work by checking closure", "Measure offsets for soil fertility"],
+    correct: 2,
     explanation: "Check lines connect known points to verify that the framework of triangles has been accurately measured.",
     difficulty: "medium"
   },
   {
     id: "d252l_019", subject: "da-252", lecture: "lecture-2", lectureNo: 2,
     question: "A tie line in chain surveying connects:",
-    options: ["Two subsidiary points to provide additional checks", "End points of the survey", "Two main stations on the main line", "Two benchmarks"],
-    correct: 0,
+    options: ["End points of the survey", "Two subsidiary points to provide additional checks", "Two main stations on the main line", "Two benchmarks"],
+    correct: 1,
     explanation: "Tie lines join subsidiary (detail) points and help locate more detail features near the main framework.",
     difficulty: "medium"
   },
   {
     id: "d252l_020", subject: "da-252", lecture: "lecture-2", lectureNo: 2,
     question: "Ranging in chain surveying means:",
-    options: ["Taking offsets in soil management in agriculture", "Plotting the chain survey under field conditions", "Establishing intermediate points on a straight line between two stations", "Measuring distances for soil fertility under field conditions"],
-    correct: 2,
+    options: ["Taking offsets in soil management in agriculture", "Plotting the chain survey under field conditions", "Measuring distances for soil fertility under field conditions", "Establishing intermediate points on a straight line between two stations"],
+    correct: 3,
     explanation: "Ranging is the process of establishing a series of intermediate points on a straight line.",
     difficulty: "medium"
   },
   {
     id: "d252l_021", subject: "da-252", lecture: "lecture-2", lectureNo: 2,
     question: "Obstacles to chaining over ponds or rivers are overcome by:",
-    options: ["Geometric methods using similar triangles or Pythagoras theorem", "Stopping the survey in soil management", "Moving the survey line under field conditions", "Ignoring the obstacle for soil fertility"],
-    correct: 0,
+    options: ["Ignoring the obstacle for soil fertility", "Stopping the survey in soil management", "Moving the survey line under field conditions", "Geometric methods using similar triangles or Pythagoras theorem"],
+    correct: 3,
     explanation: "Obstacles to chaining are overcome using geometric methods such as erecting perpendiculars and using similar triangles.",
     difficulty: "medium"
   },
@@ -185,32 +185,32 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_023", subject: "da-252", lecture: "lecture-3", lectureNo: 3,
     question: "A prismatic compass measures:",
-    options: ["Horizontal angles (bearings) using a magnetic needle", "Vertical angles in soil management", "Distances under field conditions", "Elevations for soil fertility"],
-    correct: 0,
+    options: ["Distances under field conditions", "Vertical angles in soil management", "Horizontal angles (bearings) using a magnetic needle", "Elevations for soil fertility"],
+    correct: 2,
     explanation: "A prismatic compass measures horizontal bearings (directions) using a freely suspended magnetic needle.",
     difficulty: "easy"
   },
   {
     id: "d252l_024", subject: "da-252", lecture: "lecture-3", lectureNo: 3,
     question: "Magnetic declination is the angle between:",
-    options: ["Magnetic north and south", "Magnetic east and true east", "True north and magnetic north", "True north and geographic east"],
-    correct: 2,
+    options: ["Magnetic north and south", "True north and magnetic north", "Magnetic east and true east", "True north and geographic east"],
+    correct: 1,
     explanation: "Magnetic declination = horizontal angle between true geographic north and magnetic north at a location.",
     difficulty: "medium"
   },
   {
     id: "d252l_025", subject: "da-252", lecture: "lecture-3", lectureNo: 3,
     question: "Whole Circle Bearing (WCB) is measured:",
-    options: ["From any direction", "From south only", "From north, clockwise, 0°–360°", "From east, counter-clockwise"],
-    correct: 2,
+    options: ["From any direction", "From north, clockwise, 0°–360°", "From south only", "From east, counter-clockwise"],
+    correct: 1,
     explanation: "WCB (azimuth) is measured from north in a clockwise direction from 0° to 360°.",
     difficulty: "medium"
   },
   {
     id: "d252l_026", subject: "da-252", lecture: "lecture-3", lectureNo: 3,
     question: "Quadrantal Bearing (QB) is expressed as:",
-    options: ["Bearings from east", "N/S angle E/W", "0°–360° from north", "Only in degrees"],
-    correct: 1,
+    options: ["N/S angle E/W", "Bearings from east", "0°–360° from north", "Only in degrees"],
+    correct: 0,
     explanation: "Quadrantal bearing specifies direction as angle from north or south toward east or west (0°–90° range).",
     difficulty: "medium"
   },
@@ -225,8 +225,8 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_028", subject: "da-252", lecture: "lecture-3", lectureNo: 3,
     question: "Local attraction in compass surveying is caused by:",
-    options: ["Atmospheric pressure in soil management in agriculture", "Presence of magnetic materials (iron, electric cables) near the compass", "Earth's rotation under field conditions", "Sun's gravity for soil fertility under field conditions"],
-    correct: 1,
+    options: ["Presence of magnetic materials (iron, electric cables) near the compass", "Atmospheric pressure in soil management in agriculture", "Earth's rotation under field conditions", "Sun's gravity for soil fertility under field conditions"],
+    correct: 0,
     explanation: "Local attraction deflects the magnetic needle due to nearby iron objects, steel structures, or power lines.",
     difficulty: "medium"
   },
@@ -249,8 +249,8 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_031", subject: "da-252", lecture: "lecture-3", lectureNo: 3,
     question: "Bowditch's rule (compass rule) for traverse adjustment distributes the closing error:",
-    options: ["Randomly in soil management", "Only to the longest side", "Proportional to the length of each traverse side", "Equally to all sides under field conditions"],
-    correct: 2,
+    options: ["Proportional to the length of each traverse side", "Only to the longest side", "Randomly in soil management", "Equally to all sides under field conditions"],
+    correct: 0,
     explanation: "Bowditch's rule distributes the closing error in proportion to the length of each line in the traverse.",
     difficulty: "hard"
   },
@@ -267,24 +267,24 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_033", subject: "da-252", lecture: "lecture-4", lectureNo: 4,
     question: "Plane table surveying combines:",
-    options: ["Compass and level work", "Distance and elevation measurement", "Field measurement and map drawing simultaneously", "Chaining and levelling"],
-    correct: 2,
+    options: ["Compass and level work", "Distance and elevation measurement", "Chaining and levelling", "Field measurement and map drawing simultaneously"],
+    correct: 3,
     explanation: "Plane table surveying allows direct plotting of the survey map in the field as measurements are taken.",
     difficulty: "easy"
   },
   {
     id: "d252l_034", subject: "da-252", lecture: "lecture-4", lectureNo: 4,
     question: "The instrument used for sighting in plane table surveying is:",
-    options: ["Level staff", "Compass", "Cross-staff", "Alidade"],
-    correct: 3,
+    options: ["Alidade", "Compass", "Cross-staff", "Level staff"],
+    correct: 0,
     explanation: "Alidade is a sighting device placed on the plane table to draw rays toward survey points.",
     difficulty: "medium"
   },
   {
     id: "d252l_035", subject: "da-252", lecture: "lecture-4", lectureNo: 4,
     question: "Radiation method in plane table surveying is used when:",
-    options: ["Points are in multiple locations requiring traversing", "Underground surveys are done", "All points are visible from one station", "Levelling is needed"],
-    correct: 2,
+    options: ["Points are in multiple locations requiring traversing", "Underground surveys are done", "Levelling is needed", "All points are visible from one station"],
+    correct: 3,
     explanation: "Radiation method: all detail points are sighted from a single instrument station — suitable for small open areas.",
     difficulty: "medium"
   },
@@ -299,32 +299,32 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_037", subject: "da-252", lecture: "lecture-4", lectureNo: 4,
     question: "Theodolite is used for measuring:",
-    options: ["Elevations only in soil management", "Distances only under field conditions", "Both horizontal and vertical angles precisely", "Magnetic bearings for soil fertility"],
-    correct: 2,
+    options: ["Both horizontal and vertical angles precisely", "Distances only under field conditions", "Elevations only in soil management", "Magnetic bearings for soil fertility"],
+    correct: 0,
     explanation: "Theodolite is a precision optical instrument for measuring both horizontal and vertical angles.",
     difficulty: "easy"
   },
   {
     id: "d252l_038", subject: "da-252", lecture: "lecture-4", lectureNo: 4,
     question: "Verniers in a theodolite are used to:",
-    options: ["Measure distances in soil management in agriculture", "Read fractional parts of the main scale divisions (increase precision)", "Set the instrument level under field conditions", "Measure magnetic north for soil fertility under field conditions"],
-    correct: 1,
+    options: ["Measure distances in soil management in agriculture", "Measure magnetic north for soil fertility under field conditions", "Set the instrument level under field conditions", "Read fractional parts of the main scale divisions (increase precision)"],
+    correct: 3,
     explanation: "Vernier scales allow reading of angles to fractions of a degree on the main graduated circle.",
     difficulty: "medium"
   },
   {
     id: "d252l_039", subject: "da-252", lecture: "lecture-4", lectureNo: 4,
     question: "Deflection angle is measured from:",
-    options: ["Vertical axis in soil management", "Extension of the previous survey line", "North under field conditions", "Magnetic south for soil fertility"],
-    correct: 1,
+    options: ["Extension of the previous survey line", "Vertical axis in soil management", "North under field conditions", "Magnetic south for soil fertility"],
+    correct: 0,
     explanation: "Deflection angle is the angle between the extension of the preceding line and the following line.",
     difficulty: "medium"
   },
   {
     id: "d252l_040", subject: "da-252", lecture: "lecture-4", lectureNo: 4,
     question: "Tacheometry is a surveying method for:",
-    options: ["Underground surveys in soil management in agriculture", "Soil profiling under field conditions", "Rapid determination of distances and elevations using stadia hairs in telescope", "Magnetic measurements for soil fertility under field conditions"],
-    correct: 2,
+    options: ["Rapid determination of distances and elevations using stadia hairs in telescope", "Soil profiling under field conditions", "Underground surveys in soil management in agriculture", "Magnetic measurements for soil fertility under field conditions"],
+    correct: 0,
     explanation: "Tacheometry uses the stadia method to determine distances and elevations from staff readings without chaining.",
     difficulty: "hard"
   },
@@ -333,24 +333,24 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_041", subject: "da-252", lecture: "lecture-5", lectureNo: 5,
     question: "Levelling is the process of determining:",
-    options: ["Areas of fields in soil management", "Relative heights (elevations) of points on the earth's surface", "Horizontal distances under field conditions", "Magnetic bearings for soil fertility in agriculture"],
-    correct: 1,
+    options: ["Relative heights (elevations) of points on the earth's surface", "Areas of fields in soil management", "Horizontal distances under field conditions", "Magnetic bearings for soil fertility in agriculture"],
+    correct: 0,
     explanation: "Levelling finds the difference in elevation between points to establish levels for engineering and agricultural works.",
     difficulty: "easy"
   },
   {
     id: "d252l_042", subject: "da-252", lecture: "lecture-5", lectureNo: 5,
     question: "A Bench Mark (BM) is:",
-    options: ["A farm boundary marker", "A temporary marker in soil management", "A chain length marker", "A permanent reference point of known elevation"],
-    correct: 3,
+    options: ["A farm boundary marker", "A temporary marker in soil management", "A permanent reference point of known elevation", "A chain length marker"],
+    correct: 2,
     explanation: "Benchmark is a permanent fixed point of known elevation (height above MSL) used as reference for levelling.",
     difficulty: "easy"
   },
   {
     id: "d252l_043", subject: "da-252", lecture: "lecture-5", lectureNo: 5,
     question: "Back Sight (BS) in levelling is the reading taken on:",
-    options: ["A forward point in soil management in agriculture", "The last point under field conditions", "The first staff position (at known point/BM) after setting up instrument", "Any point for soil fertility under field conditions"],
-    correct: 2,
+    options: ["A forward point in soil management in agriculture", "The first staff position (at known point/BM) after setting up instrument", "The last point under field conditions", "Any point for soil fertility under field conditions"],
+    correct: 1,
     explanation: "Back sight is taken on a point of known elevation (BM or change point) immediately after instrument setup.",
     difficulty: "medium"
   },
@@ -365,48 +365,48 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_045", subject: "da-252", lecture: "lecture-5", lectureNo: 5,
     question: "Rise and Fall method in levelling calculates RL by:",
-    options: ["Compass readings in soil management in agriculture", "Comparing consecutive staff readings (rise = previous IS/FS > current reading)", "Triangulation under field conditions", "HI method for soil fertility under field conditions"],
-    correct: 1,
+    options: ["Comparing consecutive staff readings (rise = previous IS/FS > current reading)", "Compass readings in soil management in agriculture", "Triangulation under field conditions", "HI method for soil fertility under field conditions"],
+    correct: 0,
     explanation: "Rise and Fall method finds rises or falls between consecutive readings and applies them to successive RLs.",
     difficulty: "medium"
   },
   {
     id: "d252l_046", subject: "da-252", lecture: "lecture-5", lectureNo: 5,
     question: "Arithmetic check in levelling (HI method): Sum of BS – Sum of FS =",
-    options: ["Sum of all RLs", "Zero always", "Sum of IS", "Last RL – First RL"],
-    correct: 3,
+    options: ["Last RL – First RL", "Zero always", "Sum of IS", "Sum of all RLs"],
+    correct: 0,
     explanation: "Arithmetic check: ΣBS − ΣFS = Last RL − First RL. This verifies the arithmetic but not field accuracy.",
     difficulty: "medium"
   },
   {
     id: "d252l_047", subject: "da-252", lecture: "lecture-5", lectureNo: 5,
     question: "Reciprocal levelling is used when:",
-    options: ["The area is flat in soil management", "The distance is short under field conditions", "There are many intermediate points", "A large obstacle (river, valley) prevents direct levelling"],
-    correct: 3,
+    options: ["A large obstacle (river, valley) prevents direct levelling", "The distance is short under field conditions", "There are many intermediate points", "The area is flat in soil management"],
+    correct: 0,
     explanation: "Reciprocal levelling takes readings from both banks of an obstacle to eliminate errors from curvature and refraction.",
     difficulty: "medium"
   },
   {
     id: "d252l_048", subject: "da-252", lecture: "lecture-5", lectureNo: 5,
     question: "Curvature correction in levelling is:",
-    options: ["–0.0785 D² (subtractive)", "–D/4", "+0.0785 D² (additive)", "+D/2"],
-    correct: 0,
+    options: ["+D/2", "–D/4", "+0.0785 D² (additive)", "–0.0785 D² (subtractive)"],
+    correct: 3,
     explanation: "Curvature makes staff readings too high; curvature correction C = −0.0785D² (m) where D is in km, so it is subtracted.",
     difficulty: "hard"
   },
   {
     id: "d252l_049", subject: "da-252", lecture: "lecture-5", lectureNo: 5,
     question: "The permissible closing error for ordinary levelling is:",
-    options: ["6√K mm", "Zero", "12√K mm", "24√K mm"],
-    correct: 3,
+    options: ["6√K mm", "24√K mm", "12√K mm", "Zero"],
+    correct: 1,
     explanation: "Permissible closing error for ordinary levelling = 24√K mm (where K = distance in km).",
     difficulty: "hard"
   },
   {
     id: "d252l_050", subject: "da-252", lecture: "lecture-5", lectureNo: 5,
     question: "A change point (CP) in levelling is a point where:",
-    options: ["Both foresight and backsight readings are taken (instrument is shifted)", "Only one reading is taken in soil management", "The staff is held vertically under field conditions", "The survey ends for soil fertility"],
-    correct: 0,
+    options: ["The staff is held vertically under field conditions", "Only one reading is taken in soil management", "Both foresight and backsight readings are taken (instrument is shifted)", "The survey ends for soil fertility"],
+    correct: 2,
     explanation: "Change point is where the instrument is moved: foresight on it from old position, then backsight from new position.",
     difficulty: "medium"
   },
@@ -423,32 +423,32 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_052", subject: "da-252", lecture: "lecture-6", lectureNo: 6,
     question: "Contour lines are lines joining points:",
-    options: ["Of equal slope in soil management", "Of equal soil depth", "Of equal horizontal distance", "Of equal elevation (height) above a datum"],
-    correct: 3,
+    options: ["Of equal slope in soil management", "Of equal elevation (height) above a datum", "Of equal horizontal distance", "Of equal soil depth"],
+    correct: 1,
     explanation: "A contour line connects all points of the same elevation above a datum (sea level).",
     difficulty: "easy"
   },
   {
     id: "d252l_053", subject: "da-252", lecture: "lecture-6", lectureNo: 6,
     question: "Contour interval is:",
-    options: ["Scale of the map", "Vertical difference in elevation between successive contour lines", "Number of contours on map", "Distance between contour lines on map"],
-    correct: 1,
+    options: ["Scale of the map", "Distance between contour lines on map", "Number of contours on map", "Vertical difference in elevation between successive contour lines"],
+    correct: 3,
     explanation: "Contour interval is the fixed vertical height difference between consecutive contour lines.",
     difficulty: "easy"
   },
   {
     id: "d252l_054", subject: "da-252", lecture: "lecture-6", lectureNo: 6,
     question: "Closely spaced contour lines indicate:",
-    options: ["Steep slope", "Uniform slope", "Flat terrain", "Gentle slope"],
-    correct: 0,
+    options: ["Gentle slope", "Uniform slope", "Flat terrain", "Steep slope"],
+    correct: 3,
     explanation: "Close contour lines = steep slope; widely spaced contours = gentle/flat slope.",
     difficulty: "easy"
   },
   {
     id: "d252l_055", subject: "da-252", lecture: "lecture-6", lectureNo: 6,
     question: "Contour lines NEVER:",
-    options: ["Cross each other (except for overhangs)", "Curve around valleys", "Close on themselves", "Bend around ridges"],
-    correct: 0,
+    options: ["Bend around ridges", "Curve around valleys", "Close on themselves", "Cross each other (except for overhangs)"],
+    correct: 3,
     explanation: "Contour lines never cross each other because a point cannot have two different elevations (except cliffs/overhangs which is rare).",
     difficulty: "medium"
   },
@@ -463,16 +463,16 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_057", subject: "da-252", lecture: "lecture-6", lectureNo: 6,
     question: "Contour maps are useful in agriculture for:",
-    options: ["Irrigation system design, soil conservation planning, drainage layout", "Fertilizer recommendations in soil management", "Pest scouting under field conditions", "Planting decisions only for soil fertility"],
-    correct: 0,
+    options: ["Fertilizer recommendations in soil management", "Irrigation system design, soil conservation planning, drainage layout", "Pest scouting under field conditions", "Planting decisions only for soil fertility"],
+    correct: 1,
     explanation: "Contour maps guide terrace design, field levelling, irrigation channel layout, and soil conservation measures.",
     difficulty: "easy"
   },
   {
     id: "d252l_058", subject: "da-252", lecture: "lecture-6", lectureNo: 6,
     question: "The method of contouring by indirect method involves:",
-    options: ["Eye sketching only", "Grid/section levelling and interpolating contour positions", "Direct spot height measurement on contour", "Aerial photography"],
-    correct: 1,
+    options: ["Eye sketching only", "Direct spot height measurement on contour", "Grid/section levelling and interpolating contour positions", "Aerial photography"],
+    correct: 2,
     explanation: "Indirect contouring: spot heights are taken on a grid; contour lines are interpolated between these points.",
     difficulty: "medium"
   },
@@ -487,8 +487,8 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_060", subject: "da-252", lecture: "lecture-6", lectureNo: 6,
     question: "A contour interval suitable for a flat agricultural terrain (slope < 1%) would be:",
-    options: ["25 m", "0.5 m", "100 m", "5 m"],
-    correct: 1,
+    options: ["25 m", "5 m", "100 m", "0.5 m"],
+    correct: 3,
     explanation: "Small contour intervals (0.25–0.5 m) are used for flat land; large intervals for hilly terrain.",
     difficulty: "medium"
   },
@@ -497,24 +497,24 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_061", subject: "da-252", lecture: "lecture-7", lectureNo: 7,
     question: "Area of a triangle by surveying field notes is calculated by:",
-    options: ["Side²", "½ × Base × Perpendicular height", "½ × diagonal × sum of offsets", "Both A and B depending on shape"],
-    correct: 1,
+    options: ["Side²", "Both A and B depending on shape", "½ × diagonal × sum of offsets", "½ × Base × Perpendicular height"],
+    correct: 3,
     explanation: "Area of triangle = ½ × base × perpendicular height. For complex shapes, offsets and mid-ordinates are used.",
     difficulty: "easy"
   },
   {
     id: "d252l_062", subject: "da-252", lecture: "lecture-7", lectureNo: 7,
     question: "Mid-ordinate rule for area calculation uses:",
-    options: ["End ordinates only", "Average of end ordinates", "Ordinates at mid-points of each division", "Diagonal lengths"],
-    correct: 2,
+    options: ["End ordinates only", "Ordinates at mid-points of each division", "Average of end ordinates", "Diagonal lengths"],
+    correct: 1,
     explanation: "Mid-ordinate rule: Area = Width of strip × sum of mid-ordinates.",
     difficulty: "medium"
   },
   {
     id: "d252l_063", subject: "da-252", lecture: "lecture-7", lectureNo: 7,
     question: "Simpson's rule for area computation requires the number of ordinates to be:",
-    options: ["Any number", "At least 10", "Odd", "Even"],
-    correct: 2,
+    options: ["Any number", "Odd", "At least 10", "Even"],
+    correct: 1,
     explanation: "Simpson's rule requires an odd number of ordinates (even number of equal divisions).",
     difficulty: "medium"
   },
@@ -537,8 +537,8 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_066", subject: "da-252", lecture: "lecture-7", lectureNo: 7,
     question: "1 acre equals approximately:",
-    options: ["10,000 m²", "1,000 m²", "4,047 m²", "2,000 m²"],
-    correct: 2,
+    options: ["10,000 m²", "4,047 m²", "1,000 m²", "2,000 m²"],
+    correct: 1,
     explanation: "1 acre = 4,047 m² (or 43,560 sq.ft). 1 hectare ≈ 2.47 acres.",
     difficulty: "easy"
   },
@@ -571,16 +571,16 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_070", subject: "da-252", lecture: "lecture-8", lectureNo: 8,
     question: "Total Station in surveying is an electronic instrument that:",
-    options: ["Only levels the instrument", "Measures magnetic bearings in soil management", "Measures only angles under field conditions", "Measures both horizontal/vertical angles and distances simultaneously"],
-    correct: 3,
+    options: ["Only levels the instrument", "Measures both horizontal/vertical angles and distances simultaneously", "Measures only angles under field conditions", "Measures magnetic bearings in soil management"],
+    correct: 1,
     explanation: "Total Station is an electronic theodolite integrated with EDM (Electronic Distance Measurement) for simultaneous angle and distance measurement.",
     difficulty: "medium"
   },
   {
     id: "d252l_071", subject: "da-252", lecture: "lecture-8", lectureNo: 8,
     question: "GIS (Geographic Information System) is used to:",
-    options: ["Only store maps in soil management", "Replace surveyors under field conditions", "Measure gravity for soil fertility", "Capture, store, analyze, and display geographic/spatial data"],
-    correct: 3,
+    options: ["Only store maps in soil management", "Replace surveyors under field conditions", "Capture, store, analyze, and display geographic/spatial data", "Measure gravity for soil fertility"],
+    correct: 2,
     explanation: "GIS integrates hardware, software, and data to manage and analyze geographic information for decision making.",
     difficulty: "medium"
   },
@@ -595,24 +595,24 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_073", subject: "da-252", lecture: "lecture-8", lectureNo: 8,
     question: "Adangal (or Pahani) is a land record document that contains:",
-    options: ["Field-wise crop cultivation details, ownership, area, and irrigation source", "Fertilizer use data in soil management", "Soil survey reports under field conditions", "Village revenue maps for soil fertility"],
-    correct: 0,
+    options: ["Soil survey reports under field conditions", "Fertilizer use data in soil management", "Field-wise crop cultivation details, ownership, area, and irrigation source", "Village revenue maps for soil fertility"],
+    correct: 2,
     explanation: "Adangal/Pahani is the annual crop register maintained by village revenue officials showing field-wise agricultural data.",
     difficulty: "medium"
   },
   {
     id: "d252l_074", subject: "da-252", lecture: "lecture-8", lectureNo: 8,
     question: "Cadastral survey is conducted for:",
-    options: ["Soil classification only in soil management", "Topographic mapping under field conditions", "Weather mapping for soil fertility in agriculture", "Fixing land boundaries, ownership, and area for legal/revenue purposes"],
-    correct: 3,
+    options: ["Soil classification only in soil management", "Topographic mapping under field conditions", "Fixing land boundaries, ownership, and area for legal/revenue purposes", "Weather mapping for soil fertility in agriculture"],
+    correct: 2,
     explanation: "Cadastral surveys determine land ownership boundaries and areas for revenue and legal purposes.",
     difficulty: "medium"
   },
   {
     id: "d252l_075", subject: "da-252", lecture: "lecture-8", lectureNo: 8,
     question: "Drone (UAV) surveying in agriculture is used for:",
-    options: ["Only entertainment in soil management", "Underground surveys under field conditions", "Weather forecasting for soil fertility", "Crop monitoring, area mapping, and precision agriculture applications"],
-    correct: 3,
+    options: ["Crop monitoring, area mapping, and precision agriculture applications", "Underground surveys under field conditions", "Weather forecasting for soil fertility", "Only entertainment in soil management"],
+    correct: 0,
     explanation: "Agricultural drones equipped with cameras and sensors are used for crop health monitoring, field mapping, and precision application.",
     difficulty: "easy"
   },
@@ -621,8 +621,8 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_076", subject: "da-252", lecture: "lecture-16", lectureNo: 16,
     question: "The 'Base Period' in irrigation is defined as the time period between:",
-    options: ["First watering during sowing to last watering before harvesting", "Start of the irrigation season to end of the season", "Canal opening to canal closure", "Sowing to harvesting of a crop"],
-    correct: 0,
+    options: ["Canal opening to canal closure", "Start of the irrigation season to end of the season", "First watering during sowing to last watering before harvesting", "Sowing to harvesting of a crop"],
+    correct: 2,
     explanation: "As per DA-252 notes: Base Period is the time period between the first watering of the crop during sowing to last watering before harvesting. It is expressed in days.",
     difficulty: "medium"
   },
@@ -637,56 +637,56 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_078", subject: "da-252", lecture: "lecture-16", lectureNo: 16,
     question: "The relationship between Delta (Δ), Duty (D) and Base Period (B) is:",
-    options: ["Delta = B/D x 10", "Delta = D x B", "Delta = 8.64 x B/D meters", "Delta = D/(8.64 x B)"],
-    correct: 2,
+    options: ["Delta = 8.64 x B/D meters", "Delta = D x B", "Delta = B/D x 10", "Delta = D/(8.64 x B)"],
+    correct: 0,
     explanation: "As per DA-252 notes: Delta = 8.64B/D meters, where B is base period in days and D is duty in ha/cumec.",
     difficulty: "hard"
   },
   {
     id: "d252l_079", subject: "da-252", lecture: "lecture-15", lectureNo: 15,
     question: "The process of soil erosion by wind that accounts for 50 to 70% of total wind erosion movement is:",
-    options: ["Surface creep", "Suspension", "Deflation", "Saltation"],
-    correct: 3,
+    options: ["Saltation", "Suspension", "Deflation", "Surface creep"],
+    correct: 0,
     explanation: "As per DA-252 notes: Saltation (short bounces/jumps of soil particles along ground surface) accounts for 50 to 70% of total movement in wind erosion. Suspension accounts for up to 15%.",
     difficulty: "medium"
   },
   {
     id: "d252l_080", subject: "da-252", lecture: "lecture-15", lectureNo: 15,
     question: "The minimum wind velocity at a height of 30.5 cm necessary for initiating movement of most erodible soil particles (0.1 mm diameter) is approximately:",
-    options: ["16 km/hr", "35 km/hr", "25 km/hr", "8 km/hr"],
-    correct: 0,
+    options: ["35 km/hr", "16 km/hr", "25 km/hr", "8 km/hr"],
+    correct: 1,
     explanation: "As per DA-252 notes: Minimum wind velocity necessary for initiating movement of most erodible soil particles (about 0.1 mm diameter) is about 16 km/hr at height of 30.5 cm.",
     difficulty: "hard"
   },
   {
     id: "d252l_081", subject: "da-252", lecture: "lecture-18", lectureNo: 18,
     question: "Irrigation projects with Culturable Command Area (CCA) between 2000 to 10,000 ha are classified as:",
-    options: ["Minor irrigation projects", "Medium irrigation projects", "Major irrigation projects", "Micro irrigation projects"],
-    correct: 1,
+    options: ["Minor irrigation projects", "Major irrigation projects", "Medium irrigation projects", "Micro irrigation projects"],
+    correct: 2,
     explanation: "As per DA-252 notes: Medium irrigation projects have CCA between 2000 to 10,000 ha. Major: > 10,000 ha. Minor: < 2,000 ha.",
     difficulty: "easy"
   },
   {
     id: "d252l_082", subject: "da-252", lecture: "lecture-18", lectureNo: 18,
     question: "The Check Basin method of surface irrigation is most commonly used for which crops?",
-    options: ["Wheat, barley and berseem", "Rice, sugarcane and maize", "Groundnut, finger millet, sorghum and vegetables", "Cotton, potato and citrus"],
-    correct: 2,
+    options: ["Groundnut, finger millet, sorghum and vegetables", "Rice, sugarcane and maize", "Wheat, barley and berseem", "Cotton, potato and citrus"],
+    correct: 0,
     explanation: "As per DA-252 notes: Check basin method is most commonly used for irrigating crops like groundnut, finger millet, sorghum and vegetable crops. Also used for leaching salts in saline soil reclamation.",
     difficulty: "medium"
   },
   {
     id: "d252l_083", subject: "da-252", lecture: "lecture-18", lectureNo: 18,
     question: "The Border Strip method of irrigation is suitable for which crops?",
-    options: ["Sparsely grown orchard crops in soil management", "Close growing crops like wheat, barley, groundnut and berseem", "Only rice fields under field conditions", "Potato, sugarcane, maize and cotton for soil fertility"],
-    correct: 1,
+    options: ["Sparsely grown orchard crops in soil management", "Only rice fields under field conditions", "Close growing crops like wheat, barley, groundnut and berseem", "Potato, sugarcane, maize and cotton for soil fertility"],
+    correct: 2,
     explanation: "As per DA-252 notes: Border strip method is suitable for irrigating close growing crops such as wheat, barley, groundnut, bajra and berseem. Ring basin method is for orchard crops.",
     difficulty: "medium"
   },
   {
     id: "d252l_084", subject: "da-252", lecture: "lecture-19", lectureNo: 19,
     question: "In sprinkler irrigation, water is conveyed under which pressure range?",
-    options: ["10 to 15 kg/cm2", "0.5 to 1 kg/cm2", "7 to 10 kg/cm2", "2 to 5 kg/cm2"],
-    correct: 3,
+    options: ["10 to 15 kg/cm2", "0.5 to 1 kg/cm2", "2 to 5 kg/cm2", "7 to 10 kg/cm2"],
+    correct: 2,
     explanation: "As per DA-252 notes: In sprinkler irrigation, water is conveyed under pressure of 2 to 5 kg/cm2 developed by a pump through a network of pipes to laterals and sprinkler nozzles.",
     difficulty: "medium"
   },
@@ -701,8 +701,8 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_086", subject: "da-252", lecture: "lecture-20", lectureNo: 20,
     question: "Drip irrigation technology was first patented by Symcha Blass in:",
-    options: ["1972", "1955", "1945", "1964"],
-    correct: 3,
+    options: ["1964", "1955", "1945", "1972"],
+    correct: 0,
     explanation: "As per DA-252 notes: Current drip irrigation technology dates back to the work of Symcha Blass (1964), based on his observation that a large tree near a leaking faucet showed more vigorous growth.",
     difficulty: "medium"
   },
@@ -717,24 +717,24 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_088", subject: "da-252", lecture: "lecture-21", lectureNo: 21,
     question: "Priming in a centrifugal pump refers to:",
-    options: ["Adding lubricant to the impeller bearings in soil management", "Filling water in the suction pipe to remove air before starting", "Testing the pump discharge capacity under field conditions", "Starting the pump without water for soil fertility"],
-    correct: 1,
+    options: ["Adding lubricant to the impeller bearings in soil management", "Starting the pump without water for soil fertility", "Testing the pump discharge capacity under field conditions", "Filling water in the suction pipe to remove air before starting"],
+    correct: 3,
     explanation: "As per DA-252 notes: Priming is the process of removing air from pump casing and suction pipe by filling water. The centrifugal pump will not work if there is any air left in the suction pipe.",
     difficulty: "easy"
   },
   {
     id: "d252l_089", subject: "da-252", lecture: "lecture-21", lectureNo: 21,
     question: "Assertion (A): A closed impeller centrifugal pump is most suitable for handling clear irrigation water.\nReason (R): Closed impellers have shrouds on both sides of vanes and are suitable for non-viscous liquids free from foreign materials.",
-    options: ["Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true", "A is true but R is false", "Both A and R are true and R is the correct explanation of A"],
-    correct: 3,
+    options: ["Both A and R are true and R is the correct explanation of A", "A is false but R is true", "A is true but R is false", "Both A and R are true but R is NOT the correct explanation of A"],
+    correct: 0,
     explanation: "As per DA-252 notes: All ordinary centrifugal pumps used to pump clear irrigation water have closed impellers. Closed impeller has side walls on both sides and is suitable for non-viscous liquids free from foreign materials.",
     difficulty: "medium"
   },
   {
     id: "d252l_090", subject: "da-252", lecture: "lecture-22", lectureNo: 22,
     question: "Assertion (A): Submersible pumps can be used in very deep tube wells where a long shaft would not be practical.\nReason (R): In submersible pumps, both motor and pump are installed inside the well, fully submerged.",
-    options: ["Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true", "A is true but R is false", "Both A and R are true and R is the correct explanation of A"],
-    correct: 3,
+    options: ["Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true"],
+    correct: 1,
     explanation: "As per DA-252 notes: The principal advantage of submersible pump is that it can be used in very deep tube wells. Both pump and motor operate entirely submerged, making a long shaft unnecessary.",
     difficulty: "medium"
   },
@@ -749,8 +749,8 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_092", subject: "da-252", lecture: "lecture-19", lectureNo: 19,
     question: "Match the following surface irrigation methods with their suitable conditions:\n     Column-I (Method)     |  Column-II (Crop type)                |  Column-III (Key feature)\nA.  Check basin          |  1.  Groundnut, vegetables            |  i.   Square/rectangular plots\nB.  Ring basin           |  2.  Orchard/cucurbit crops           |  ii.  Circular bund per plant\nC.  Border strip         |  3.  Wheat, barley, berseem           |  iii. Long parallel strips\nD.  Furrow method        |  4.  Potato, sugarcane, maize         |  iv.  Ridges and furrows",
-    options: ["A-2-ii, B-1-i,  C-4-iv,  D-3-iii", "A-1-i,  B-2-ii,  C-3-iii,  D-4-iv", "A-4-iv, B-3-iii, C-2-ii, D-1-i", "A-1-iii, B-2-i, C-3-ii,  D-4-iv"],
-    correct: 1,
+    options: ["A-2-ii, B-1-i,  C-4-iv,  D-3-iii", "A-4-iv, B-3-iii, C-2-ii, D-1-i", "A-1-i,  B-2-ii,  C-3-iii,  D-4-iv", "A-1-iii, B-2-i, C-3-ii,  D-4-iv"],
+    correct: 2,
     explanation: "As per DA-252 notes: Check basin (square/rectangular plots) for groundnut/vegetables; Ring basin (circular bund) for orchards/cucurbits; Border strip (long parallel strips) for wheat/barley; Furrow method (ridges and furrows) for potato/sugarcane/maize.",
     difficulty: "medium"
   },
@@ -765,40 +765,40 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_094", subject: "da-252", lecture: "lecture-16", lectureNo: 16,
     question: "Duty of irrigation water increases as one moves downstream from the head of the main canal because:",
-    options: ["More water is available downstream", "Crops downstream need less water", "Transmission losses in channels reduce the water volume", "Transmission losses reduce effective delivery"],
-    correct: 2,
+    options: ["More water is available downstream", "Transmission losses in channels reduce the water volume", "Crops downstream need less water", "Transmission losses reduce effective delivery"],
+    correct: 1,
     explanation: "As per DA-252 notes: Duty varies from point to point. It increases as one moves downstream from head of main canal to head of branches due to transmission losses in channels (water lost in transit reduces effective supply).",
     difficulty: "hard"
   },
   {
     id: "d252l_095", subject: "da-252", lecture: "lecture-20", lectureNo: 20,
     question: "In drip irrigation, screen filter aperture size should be between:",
-    options: ["Equal to the orifice size", "1/3 to 1/5 of orifice size of emission device", "1/7 to 1/10 of orifice size of emission device", "1/2 to 1/3 of orifice size of emission device"],
-    correct: 2,
+    options: ["Equal to the orifice size", "1/7 to 1/10 of orifice size of emission device", "1/3 to 1/5 of orifice size of emission device", "1/2 to 1/3 of orifice size of emission device"],
+    correct: 1,
     explanation: "As per DA-252 notes: The aperture size of the screen filter opening should be between 1/7th and 1/10th of the orifice size of the emission device to properly filter impurities.",
     difficulty: "hard"
   },
   {
     id: "d252l_096", subject: "da-252", lecture: "lecture-21", lectureNo: 21,
     question: "An open impeller centrifugal pump is most suitable for:",
-    options: ["Pumping viscous liquids like molasses in soil management", "Pumping water mixed with sand, gravel and other solid materials", "Pumping clear irrigation water under field conditions", "High-pressure deep well applications for soil fertility"],
-    correct: 1,
+    options: ["Pumping viscous liquids like molasses in soil management", "Pumping clear irrigation water under field conditions", "Pumping water mixed with sand, gravel and other solid materials", "High-pressure deep well applications for soil fertility"],
+    correct: 2,
     explanation: "As per DA-252 notes: Open impeller (no side wall/shroud) is used to handle water mixed with sand, gravel, clay, pebbles and other solid materials. It is made of forged steel but has a short life. Suitable for dredging works.",
     difficulty: "medium"
   },
   {
     id: "d252l_097", subject: "da-252", lecture: "lecture-15", lectureNo: 15,
     question: "In wind erosion, 'Surface creep' involves movement of soil particles of diameter:",
-    options: ["0.1 to 0.5 mm", "0.5 to 2.0 mm", "Less than 0.1 mm", "Greater than 2.0 mm"],
-    correct: 1,
+    options: ["0.1 to 0.5 mm", "Greater than 2.0 mm", "Less than 0.1 mm", "0.5 to 2.0 mm"],
+    correct: 3,
     explanation: "As per DA-252 notes: Surface creep involves rolling and sliding of coarse particles 0.5 to 2.0 mm in diameter along ground surface due to impact of descending particles in saltation. Accounts for 5-25% of total movement.",
     difficulty: "hard"
   },
   {
     id: "d252l_098", subject: "da-252", lecture: "lecture-18", lectureNo: 18,
     question: "The Furrow method of irrigation is commonly used for which crops?",
-    options: ["Wheat, barley, groundnut and berseem", "Groundnut, finger millet and sorghum", "Only paddy fields", "Potato, sugarcane, maize, cotton, melons and vegetables"],
-    correct: 3,
+    options: ["Wheat, barley, groundnut and berseem", "Potato, sugarcane, maize, cotton, melons and vegetables", "Only paddy fields", "Groundnut, finger millet and sorghum"],
+    correct: 1,
     explanation: "As per DA-252 notes: Furrow method is commonly used for irrigating crops like potato, sugarcane, maize, cotton, melons, sugar beets and vegetables like lettuce.",
     difficulty: "easy"
   },
@@ -813,8 +813,8 @@ export const da252LectureQuestions: Question[] = [
   {
     id: "d252l_100", subject: "da-252", lecture: "lecture-22", lectureNo: 22,
     question: "A key advantage of submersible pumps over centrifugal pumps is that:",
-    options: ["They can be used in very deep tube wells where a long shaft is impractical", "They do not require any power source in soil management in agriculture", "They are cheaper to install under field conditions", "They are suitable only for shallow wells for soil fertility under field conditions"],
-    correct: 0,
+    options: ["They are cheaper to install under field conditions", "They do not require any power source in soil management in agriculture", "They can be used in very deep tube wells where a long shaft is impractical", "They are suitable only for shallow wells for soil fertility under field conditions"],
+    correct: 2,
     explanation: "As per DA-252 notes: The principal advantage of submersible pump is it can be used in very deep tube wells where a long shaft would not be practical. It also has special advantage where theft is a problem since it has no above-ground working parts.",
     difficulty: "easy"
   },
@@ -826,8 +826,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Surveying is defined as the art of determination of which of the following on or near the surface of the earth?",
-    options: ["Only vertical distances in soil management in agriculture", "Horizontal distances, differences in elevation, directions, angles, locations, areas and volumes", "Only areas and volumes under field conditions", "Only horizontal distances for soil fertility under field conditions"],
-    correct: 1,
+    options: ["Only vertical distances in soil management in agriculture", "Only areas and volumes under field conditions", "Horizontal distances, differences in elevation, directions, angles, locations, areas and volumes", "Only horizontal distances for soil fertility under field conditions"],
+    correct: 2,
     explanation: "Surveying involves measurement and recording of horizontal distances, differences in elevation, directions, angles, locations, areas and volumes on or near the earth's surface."
   },
   {
@@ -846,8 +846,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "In plane surveying, the earth's surface is considered as:",
-    options: ["A sphere", "A curved surface", "An ellipsoid", "A plane"],
-    correct: 3,
+    options: ["A plane", "A curved surface", "An ellipsoid", "A sphere"],
+    correct: 0,
     explanation: "In plane surveying, the earth's surface is considered as a plane and the curvature of the earth is not taken into account, as the surveys extend only to small areas."
   },
   {
@@ -866,8 +866,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Agricultural surveying is a form of which type of surveying?",
-    options: ["Marine surveying", "Geodetic surveying", "Astronomical surveying", "Simple plane surveying"],
-    correct: 3,
+    options: ["Marine surveying", "Simple plane surveying", "Astronomical surveying", "Geodetic surveying"],
+    correct: 1,
     explanation: "Agricultural surveying is a simple plane surveying that includes laying out contour lines, terrace lines, drainage lines, and computing field and farm areas."
   },
   {
@@ -876,8 +876,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Which of the following is the most accurate method of measuring distance in surveying?",
-    options: ["Chaining", "Judging distance", "Odometer method", "Pacing"],
-    correct: 0,
+    options: ["Judging distance", "Chaining", "Odometer method", "Pacing"],
+    correct: 1,
     explanation: "Chaining (measuring distance with chain or tape) is the most accurate of all direct methods of measuring distance and is commonly used in surveying."
   },
   {
@@ -886,8 +886,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "A passometer is a watch-like instrument used in surveying primarily to:",
-    options: ["Measure number of wheel revolutions", "Measure vertical distances", "Record the number of paces automatically", "Set right angles in the field"],
-    correct: 2,
+    options: ["Measure number of wheel revolutions", "Measure vertical distances", "Set right angles in the field", "Record the number of paces automatically"],
+    correct: 3,
     explanation: "The passometer is carried in a person's pocket or tied on the leg. It records paces automatically, overcoming the monotony and strain of counting manually."
   },
   {
@@ -896,8 +896,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "An odometer in surveying measures:",
-    options: ["The number of revolutions of a wheel", "The number of paces of the surveyor", "The horizontal angle between two lines", "The vertical height of terrain"],
-    correct: 0,
+    options: ["The number of paces of the surveyor", "The number of revolutions of a wheel", "The horizontal angle between two lines", "The vertical height of terrain"],
+    correct: 1,
     explanation: "An odometer measures the number of revolutions of a wheel. The number of revolutions multiplied by the circumference of the wheel gives the distance covered."
   },
   {
@@ -906,8 +906,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "A metric chain as per IS 1492-1956 is made in lengths of:",
-    options: ["50 and 100 meters", "20 and 30 meters", "10 and 20 meters", "30 and 50 meters"],
-    correct: 1,
+    options: ["50 and 100 meters", "30 and 50 meters", "10 and 20 meters", "20 and 30 meters"],
+    correct: 3,
     explanation: "IS 1492-1956 specifies that chains are made in lengths of 20 and 30 meters. A 20m chain has 100 links and a 30m chain has 150 links."
   },
   {
@@ -926,8 +926,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Gunter's chain is also called:",
-    options: ["Engineer's chain", "Steel band", "Revenue chain", "Surveyor's chain"],
-    correct: 3,
+    options: ["Engineer's chain", "Steel band", "Surveyor's chain", "Revenue chain"],
+    correct: 2,
     explanation: "Gunter's chain is also called the surveyor's chain. It is 66 ft long and divided into 100 links. It is convenient for measuring distances in miles and furlongs."
   },
   {
@@ -946,8 +946,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "The Revenue chain is commonly used for measuring fields in cadastral survey. Its length is:",
-    options: ["33 ft with 16 links", "100 ft with 100 links", "20 m with 100 links", "66 ft with 100 links"],
-    correct: 0,
+    options: ["100 ft with 100 links", "33 ft with 16 links", "20 m with 100 links", "66 ft with 100 links"],
+    correct: 1,
     explanation: "The Revenue chain is 33 ft long and divided into 16 links. It is commonly used for measuring fields in cadastral survey."
   },
   {
@@ -956,8 +956,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "The Engineer's chain is used on all engineering surveys and has dimensions of:",
-    options: ["33 ft, 16 links", "20 m, 100 links", "100 ft, 100 links", "66 ft, 100 links"],
-    correct: 2,
+    options: ["100 ft, 100 links", "20 m, 100 links", "33 ft, 16 links", "66 ft, 100 links"],
+    correct: 0,
     explanation: "The Engineer's chain is 100 ft long and divided into 100 links (each link = 1 ft). Distances measured with it are recorded in feet and decimals."
   },
   {
@@ -986,8 +986,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Arrows (chain pins) in chain surveying are used to:",
-    options: ["Mark contour lines in soil management", "Mark right angles under field conditions", "Mark the position of the compass", "Mark the end of each chain length during chaining"],
-    correct: 3,
+    options: ["Mark contour lines in soil management", "Mark right angles under field conditions", "Mark the end of each chain length during chaining", "Mark the position of the compass"],
+    correct: 2,
     explanation: "Arrows (chain pins) are used to mark the end of each chain during the process of chaining. Each chain comes with 10 arrows, made of 4 mm (8 s.w.g.) metallic wire, 400 mm long."
   },
   {
@@ -996,8 +996,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "How many arrows accompany each chain in chain surveying?",
-    options: ["5", "10", "8", "12"],
-    correct: 1,
+    options: ["5", "12", "8", "10"],
+    correct: 3,
     explanation: "Accompanying each chain are 10 arrows (also called marking or chaining pins). They are made of 4 mm diameter metallic wire, 400 mm in length."
   },
   {
@@ -1016,8 +1016,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "A cross-staff in chain surveying is used for:",
-    options: ["Measuring angles between two chain lines", "Measuring the length of chain lines", "Setting out right angles to a chain line", "Recording the number of chains measured"],
-    correct: 2,
+    options: ["Setting out right angles to a chain line", "Measuring the length of chain lines", "Measuring angles between two chain lines", "Recording the number of chains measured"],
+    correct: 0,
     explanation: "A cross-staff is used for setting out right angles (perpendicular offsets) to a chain line. Types include open cross-staff and French cross-staff."
   },
   {
@@ -1026,8 +1026,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "An optical square is a surveying instrument used for:",
-    options: ["Setting out right angles more precisely than a cross-staff", "Measuring vertical angles in soil management", "Measuring distances by optical means under field conditions", "Drawing plans in the office for soil fertility"],
-    correct: 0,
+    options: ["Measuring vertical angles in soil management", "Setting out right angles more precisely than a cross-staff", "Measuring distances by optical means under field conditions", "Drawing plans in the office for soil fertility"],
+    correct: 1,
     explanation: "An optical square is used for setting out right angles to a chain line. It is more precise than a cross-staff and uses the principle of double reflection by two mirrors at 45° to each other."
   },
   {
@@ -1046,8 +1046,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-13",
     lectureNo: 13,
     question: "In compass surveying, the bearing of a line measured from the north in a clockwise direction is called:",
-    options: ["Fore bearing", "Reduced bearing", "Back bearing", "Whole circle bearing"],
-    correct: 3,
+    options: ["Fore bearing", "Whole circle bearing", "Back bearing", "Reduced bearing"],
+    correct: 1,
     explanation: "A whole circle bearing (WCB) is the angle measured from the North direction in a clockwise direction, ranging from 0° to 360°. Reduced bearing is measured from N or S towards E or W."
   },
   {
@@ -1056,8 +1056,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-13",
     lectureNo: 13,
     question: "The fore bearing and back bearing of a line differ by:",
-    options: ["180°", "360°", "45°", "90°"],
-    correct: 0,
+    options: ["45°", "360°", "180°", "90°"],
+    correct: 2,
     explanation: "The back bearing of a line differs from the fore bearing by exactly 180°. If the fore bearing is θ, then the back bearing is (θ + 180°) if θ < 180°, or (θ - 180°) if θ > 180°."
   },
   {
@@ -1066,8 +1066,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-15",
     lectureNo: 15,
     question: "Soil and water conservation practices are primarily aimed at:",
-    options: ["Preventing erosion and conserving moisture for sustainable agriculture", "Increasing groundwater extraction", "Increasing rainfall in dry areas", "Draining excess water from waterlogged areas only"],
-    correct: 0,
+    options: ["Draining excess water from waterlogged areas only", "Increasing groundwater extraction", "Increasing rainfall in dry areas", "Preventing erosion and conserving moisture for sustainable agriculture"],
+    correct: 3,
     explanation: "Soil and water conservation aims to prevent soil erosion, conserve moisture, maintain soil fertility, and ensure sustainable agricultural productivity."
   },
   {
@@ -1076,8 +1076,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-18",
     lectureNo: 18,
     question: "Which irrigation method involves applying water directly to the soil surface in channels or borders?",
-    options: ["Sprinkler irrigation", "Drip irrigation", "Sub-surface irrigation", "Surface irrigation"],
-    correct: 3,
+    options: ["Sprinkler irrigation", "Drip irrigation", "Surface irrigation", "Sub-surface irrigation"],
+    correct: 2,
     explanation: "Surface irrigation involves applying water directly to the soil surface through channels, borders, basins, or furrows. It is the most traditional and widely used irrigation method."
   },
   {
@@ -1086,8 +1086,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-19",
     lectureNo: 19,
     question: "In sprinkler irrigation, water is applied in the form of drops of size:",
-    options: ["0.05 to 0.25 mm", "4 to 10 mm", "0.5 to 4 mm", "10 to 20 mm"],
-    correct: 2,
+    options: ["0.5 to 4 mm", "4 to 10 mm", "0.05 to 0.25 mm", "10 to 20 mm"],
+    correct: 0,
     explanation: "In sprinkler irrigation, water is applied in the form of drops of 0.5 to 4 mm size, similar to rainfall. The operating pressure is typically 2 to 5 kg/cm²."
   },
   {
@@ -1096,8 +1096,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-19",
     lectureNo: 19,
     question: "The operating pressure required for sprinkler irrigation systems is typically:",
-    options: ["2 to 5 kg/cm²", "0.5 to 1.0 kg/cm²", "10 to 15 kg/cm²", "0.2 to 0.5 kg/cm²"],
-    correct: 0,
+    options: ["0.2 to 0.5 kg/cm²", "0.5 to 1.0 kg/cm²", "10 to 15 kg/cm²", "2 to 5 kg/cm²"],
+    correct: 3,
     explanation: "Sprinkler irrigation systems require an operating pressure of 2 to 5 kg/cm² to propel water through nozzles and form the fine droplet spray pattern."
   },
   {
@@ -1116,8 +1116,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-20",
     lectureNo: 20,
     question: "Drip irrigation was developed by:",
-    options: ["William Shockley in 1955", "Dr. M.S. Swaminathan in 1970", "Dr. Norman Borlaug in 1960", "Symcha Blass in 1964"],
-    correct: 3,
+    options: ["Symcha Blass in 1964", "Dr. M.S. Swaminathan in 1970", "Dr. Norman Borlaug in 1960", "William Shockley in 1955"],
+    correct: 0,
     explanation: "Drip irrigation (trickle irrigation) was developed by Symcha Blass in 1964. It involves applying water directly to the root zone through emitters at low pressure."
   },
   {
@@ -1126,8 +1126,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-20",
     lectureNo: 20,
     question: "Which two countries have the largest area under drip irrigation in the world at approximately 1.5 million hectares each?",
-    options: ["China and India", "Brazil and Mexico", "USA and Spain", "Israel and Australia"],
-    correct: 2,
+    options: ["China and India", "USA and Spain", "Brazil and Mexico", "Israel and Australia"],
+    correct: 1,
     explanation: "USA and Spain each have approximately 1.5 million hectares under drip irrigation, making them the top two countries globally. India has about 1.43 million hectares."
   },
   {
@@ -1136,8 +1136,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-20",
     lectureNo: 20,
     question: "Online pressure-compensating emitters in drip irrigation are designed to:",
-    options: ["Filter sediment from irrigation water", "Deliver a constant flow rate regardless of pressure variations", "Increase water pressure in the main line", "Rotate to distribute water over a wide area"],
-    correct: 1,
+    options: ["Filter sediment from irrigation water", "Increase water pressure in the main line", "Deliver a constant flow rate regardless of pressure variations", "Rotate to distribute water over a wide area"],
+    correct: 2,
     explanation: "Online pressure-compensating emitters deliver a constant flow rate regardless of pressure variations along the lateral line, ensuring uniform water distribution."
   },
   {
@@ -1146,8 +1146,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-21",
     lectureNo: 21,
     question: "The working principle of a centrifugal pump involves:",
-    options: ["Impeller rotation imparting kinetic energy to water", "Reciprocating pistons creating positive displacement", "Air pressure forcing water upward", "Gravity flow from an elevated tank"],
-    correct: 0,
+    options: ["Gravity flow from an elevated tank", "Reciprocating pistons creating positive displacement", "Air pressure forcing water upward", "Impeller rotation imparting kinetic energy to water"],
+    correct: 3,
     explanation: "A centrifugal pump works by an impeller rotating inside a casing. The impeller imparts kinetic energy to water, which is then converted to pressure energy in the casing."
   },
   {
@@ -1156,8 +1156,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-21",
     lectureNo: 21,
     question: "Which type of centrifugal pump impeller is most suitable for pumping water containing sand and gravel (dredging)?",
-    options: ["Open impeller", "Semi-open impeller", "Closed impeller", "Mixed-flow impeller"],
-    correct: 0,
+    options: ["Closed impeller", "Semi-open impeller", "Open impeller", "Mixed-flow impeller"],
+    correct: 2,
     explanation: "Open impellers are most suitable for pumping water containing sand, gravel, or debris (dredging). Closed impellers are used for clear water, and semi-open for moderately dirty water."
   },
   {
@@ -1166,8 +1166,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-21",
     lectureNo: 21,
     question: "Priming of a centrifugal pump refers to:",
-    options: ["Adjusting the impeller speed", "Connecting the discharge pipe to the motor", "Adding oil to the pump bearings", "Filling the pump casing with water before starting"],
-    correct: 3,
+    options: ["Adjusting the impeller speed", "Connecting the discharge pipe to the motor", "Filling the pump casing with water before starting", "Adding oil to the pump bearings"],
+    correct: 2,
     explanation: "Priming involves filling the pump casing and suction pipe with water before starting. Centrifugal pumps cannot self-prime (unlike positive displacement pumps) and require priming."
   },
   {
@@ -1196,8 +1196,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-26",
     lectureNo: 26,
     question: "Which of the following is an advantage of greenhouse cultivation?",
-    options: ["Only one crop can be grown per year", "Lower initial investment compared to open field", "4 to 5 crops can be grown per year", "Requires no environmental control systems"],
-    correct: 2,
+    options: ["Only one crop can be grown per year", "Lower initial investment compared to open field", "Requires no environmental control systems", "4 to 5 crops can be grown per year"],
+    correct: 3,
     explanation: "Greenhouse cultivation allows 4 to 5 crops per year (compared to 1-2 in open field), produces superior quality produce, enables pest control, and allows computer automation."
   },
   {
@@ -1206,8 +1206,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-27",
     lectureNo: 27,
     question: "A lean-to greenhouse is a type classified based on:",
-    options: ["Size of the greenhouse", "Type of crops grown", "Covering material used", "Shape of the structure"],
-    correct: 3,
+    options: ["Size of the greenhouse", "Type of crops grown", "Shape of the structure", "Covering material used"],
+    correct: 2,
     explanation: "Lean-to, even span, uneven span, ridge-and-furrow, saw-tooth, and quonset greenhouses are all classified based on the shape of the structure."
   },
   {
@@ -1216,8 +1216,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-27",
     lectureNo: 27,
     question: "Which greenhouse type is formed by joining two or more even span or uneven span greenhouses along their sides?",
-    options: ["Lean-to", "Quonset", "Saw-tooth", "Ridge-and-furrow (Gutter-connected)"],
-    correct: 3,
+    options: ["Lean-to", "Quonset", "Ridge-and-furrow (Gutter-connected)", "Saw-tooth"],
+    correct: 2,
     explanation: "Ridge-and-furrow (also called gutter-connected) greenhouses are formed by joining two or more even span or uneven span units along their sides, sharing gutters/eaves for drainage."
   },
   {
@@ -1226,8 +1226,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-28",
     lectureNo: 28,
     question: "The ambient concentration of carbon dioxide (CO₂) in the atmosphere is approximately:",
-    options: ["500 ppm", "200 ppm", "280 ppm", "345 ppm"],
-    correct: 3,
+    options: ["500 ppm", "345 ppm", "280 ppm", "200 ppm"],
+    correct: 1,
     explanation: "The ambient (outside) concentration of CO₂ in the atmosphere is approximately 345 ppm. During active photosynthesis, plants draw greenhouse CO₂ down to below 200 ppm."
   },
   {
@@ -1236,8 +1236,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-30",
     lectureNo: 30,
     question: "The optimal CO₂ enrichment level in greenhouses for maximum plant growth is:",
-    options: ["1000-1200 ppm", "345 ppm (ambient level)", "2000-3000 ppm", "500-700 ppm"],
-    correct: 0,
+    options: ["345 ppm (ambient level)", "1000-1200 ppm", "2000-3000 ppm", "500-700 ppm"],
+    correct: 1,
     explanation: "The optimal CO₂ enrichment level for greenhouse plant growth is 1000-1200 ppm. Plants can draw CO₂ down below 200 ppm during photosynthesis, so enrichment boosts yield."
   },
   {
@@ -1246,8 +1246,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-29",
     lectureNo: 29,
     question: "The acceptable range of relative humidity inside a greenhouse for most crops is:",
-    options: ["95-100%", "80-95%", "50-80%", "20-40%"],
-    correct: 2,
+    options: ["50-80%", "80-95%", "95-100%", "20-40%"],
+    correct: 0,
     explanation: "The acceptable range of relative humidity (RH) inside a greenhouse is 50-80%. Too high RH promotes fungal diseases; too low increases plant water stress."
   },
   {
@@ -1276,8 +1276,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-29",
     lectureNo: 29,
     question: "Which greenhouse crop requires the highest night temperature of approximately 21-22°C?",
-    options: ["Carnation", "Chrysanthemum and Poinsettia", "Primula and Mathiola", "African violet"],
-    correct: 3,
+    options: ["Carnation", "Chrysanthemum and Poinsettia", "African violet", "Primula and Mathiola"],
+    correct: 2,
     explanation: "African violet requires the highest night temperature of 21-22°C. In contrast: Primula/Mathiola need 7°C, Carnation 10°C, Rose 16°C, and Chrysanthemum/Poinsettia 17-18°C."
   },
   {
@@ -1296,8 +1296,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-30",
     lectureNo: 30,
     question: "Assertion (A): CO₂ enrichment in greenhouses significantly enhances crop yield and quality.\nReason (R): During active photosynthesis, plants can draw down greenhouse CO₂ levels to below 200 ppm, which is limiting for growth.",
-    options: ["Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A"],
-    correct: 3,
+    options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A"],
+    correct: 0,
     explanation: "CO₂ enrichment boosts yield because plants actively deplete greenhouse CO₂ below 200 ppm (limiting level) during photosynthesis. Supplementing to 1000-1200 ppm overcomes this limitation."
   },
   {
@@ -1306,8 +1306,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-19",
     lectureNo: 19,
     question: "Assertion (A): Sprinkler irrigation is more efficient than surface irrigation in undulating terrain.\nReason (R): Sprinkler systems distribute water uniformly regardless of land slope without requiring land leveling.",
-    options: ["Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A"],
-    correct: 3,
+    options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A"],
+    correct: 0,
     explanation: "Sprinkler irrigation is efficient in undulating terrain because it distributes water uniformly without needing land leveling. Surface irrigation requires leveled land for uniform water distribution."
   },
   {
@@ -1316,8 +1316,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-21",
     lectureNo: 21,
     question: "Assertion (A): Centrifugal pumps require priming before operation.\nReason (R): Centrifugal pumps cannot develop suction lift if the casing is filled with air instead of water.",
-    options: ["Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A"],
-    correct: 3,
+    options: ["Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false", "Both A and R are true and R is the correct explanation of A", "A is false but R is true"],
+    correct: 2,
     explanation: "Centrifugal pumps require priming because an air-filled casing cannot develop the suction needed to lift water. The impeller must be surrounded by water to function effectively."
   },
   {
@@ -1326,8 +1326,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Match the following chains with their lengths:\n     Column-I (Chain Type)  |  Column-II (Length)  |  Column-III (Links)\nA.  Gunter's Chain  |  1.  33 ft  |  i.  100 links\nB.  Revenue Chain  |  2.  100 ft  |  ii.  16 links\nC.  Engineer's Chain  |  3.  66 ft  |  iii.  100 links",
-    options: ["A-3-i, B-1-ii, C-2-iii", "A-1-i, B-3-ii, C-2-iii", "A-3-iii, B-2-ii, C-1-i", "A-2-iii, B-1-ii, C-3-i"],
-    correct: 0,
+    options: ["A-3-iii, B-2-ii, C-1-i", "A-1-i, B-3-ii, C-2-iii", "A-3-i, B-1-ii, C-2-iii", "A-2-iii, B-1-ii, C-3-i"],
+    correct: 2,
     explanation: "Gunter's Chain: 66 ft, 100 links. Revenue Chain: 33 ft, 16 links. Engineer's Chain: 100 ft, 100 links."
   },
   {
@@ -1336,8 +1336,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Match the following tapes with their characteristics:\n     Column-I (Tape Type)  |  Column-II (Material)  |  Column-III (Use)\nA.  Cloth tape  |  1.  Steel (64%) + Nickel (36%)  |  i.  Subsidiary measurements/offsets\nB.  Invar tape  |  2.  Varnished woven linen  |  ii.  Highest precision base lines\nC.  Steel tape  |  3.  Steel ribbon/stainless steel  |  iii.  Precise measurements, checking chains",
-    options: ["A-2-iii, B-3-ii, C-1-i", "A-1-ii, B-2-i, C-3-iii", "A-2-i, B-1-ii, C-3-iii", "A-3-iii, B-1-ii, C-2-i"],
-    correct: 2,
+    options: ["A-2-i, B-1-ii, C-3-iii", "A-1-ii, B-2-i, C-3-iii", "A-2-iii, B-3-ii, C-1-i", "A-3-iii, B-1-ii, C-2-i"],
+    correct: 0,
     explanation: "Cloth tape: varnished linen, used for subsidiary measurements. Invar tape: steel+nickel alloy, for highest precision base line measurements. Steel tape: stainless steel, for precise work."
   },
   {
@@ -1346,8 +1346,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-27",
     lectureNo: 27,
     question: "Match the following greenhouse types with their descriptions:\n     Column-I (Type)  |  Column-II (Description)\nA.  Lean-to  |  1.  Two or more spans joined at gutters\nB.  Even span  |  2.  Built against a wall, one sloping roof\nC.  Ridge-and-furrow  |  3.  Both sides of equal pitch and width\nD.  Quonset  |  4.  Semicircular (hoop) cross-section",
-    options: ["A-2, B-3, C-1, D-4", "A-1, B-2, C-3, D-4", "A-4, B-3, C-2, D-1", "A-3, B-2, C-4, D-1"],
-    correct: 0,
+    options: ["A-4, B-3, C-2, D-1", "A-1, B-2, C-3, D-4", "A-2, B-3, C-1, D-4", "A-3, B-2, C-4, D-1"],
+    correct: 2,
     explanation: "Lean-to: built against a wall with one sloping roof. Even span: both sides equal pitch. Ridge-and-furrow: multiple spans joined at gutters. Quonset: semicircular hoop design."
   },
   {
@@ -1376,8 +1376,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The pacing technique in surveying is mostly employed in:",
-    options: ["Triangulation surveys", "Preliminary surveys and explorations", "Cadastral surveys", "Final detailed surveys"],
-    correct: 1,
+    options: ["Preliminary surveys and explorations", "Triangulation surveys", "Cadastral surveys", "Final detailed surveys"],
+    correct: 0,
     explanation: "The pacing technique is mostly used in preliminary surveys and explorations where a quick rough survey is needed. It is not used for precise measurements."
   },
   {
@@ -1406,8 +1406,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-22",
     lectureNo: 22,
     question: "Which advantage does a submersible pump have over a surface centrifugal pump?",
-    options: ["No need for priming as both pump and motor are submerged", "Lower initial cost in soil management in agriculture", "Higher maintenance requirement under field conditions", "Suitable for very shallow wells only for soil fertility"],
-    correct: 0,
+    options: ["Higher maintenance requirement under field conditions", "Lower initial cost in soil management in agriculture", "No need for priming as both pump and motor are submerged", "Suitable for very shallow wells only for soil fertility"],
+    correct: 2,
     explanation: "Since both the motor and pump are submerged in the water, submersible pumps do not require priming. They are suitable for deep tube wells and have lower noise levels."
   },
   {
@@ -1426,8 +1426,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Tallies in a metric chain are fixed at every:",
-    options: ["5 metre", "1 metre", "10 metre", "2 metre"],
-    correct: 0,
+    options: ["2 metre", "1 metre", "10 metre", "5 metre"],
+    correct: 3,
     explanation: "In metric chains, tallies are fixed at every 5-metre length to enable quick reading of fractions. Small brass rings are provided at every metre length except where tallies are attached."
   },
   {
@@ -1436,8 +1436,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Ranging rods are painted alternately to improve visibility. The typical colour combinations used are:",
-    options: ["Red and white, or red, white and black, or black and white", "Silver and gold, or red and yellow in soil management", "Orange and purple, or blue and white under field conditions", "Blue and green, or yellow and black for soil fertility"],
-    correct: 0,
+    options: ["Silver and gold, or red and yellow in soil management", "Red and white, or red, white and black, or black and white", "Orange and purple, or blue and white under field conditions", "Blue and green, or yellow and black for soil fertility"],
+    correct: 1,
     explanation: "Ranging rods are painted alternately black and white, or red and white, or red, white and black successively, each division being 0.2 m long, to make them visible at distance."
   },
   {
@@ -1486,8 +1486,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "A representation to some scale of the ground and objects upon it as projected on a horizontal plane is called:",
-    options: ["A plan (if scale is large) or a map (if scale is small)", "A map (if scale is large) in soil management", "A profile under field conditions", "A plan (if scale is small) for soil fertility"],
-    correct: 0,
+    options: ["A plan (if scale is small) for soil fertility", "A map (if scale is large) in soil management", "A profile under field conditions", "A plan (if scale is large) or a map (if scale is small)"],
+    correct: 3,
     explanation: "The representation is called a plan if the scale is large, and a map if the scale is small. Plans show only horizontal distances. Both are results of surveying."
   },
   {
@@ -1496,8 +1496,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "The Steel Band (band chain) is preferred over an ordinary chain for accurate work because:",
-    options: ["It has more links per unit length in soil management", "It does not need to be lubricated under field conditions", "It is heavier and more robust for soil fertility", "It is practically unalterable in length, lighter and easier to handle"],
-    correct: 3,
+    options: ["It has more links per unit length in soil management", "It does not need to be lubricated under field conditions", "It is practically unalterable in length, lighter and easier to handle", "It is heavier and more robust for soil fertility"],
+    correct: 2,
     explanation: "The steel band (band chain) is preferred for accurate work as it is practically unalterable in length, lighter, and easier to handle. It must be protected from rust by cleaning and oiling."
   },
   {
@@ -1526,8 +1526,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-26",
     lectureNo: 26,
     question: "Which of the following is NOT a characteristic advantage of greenhouse cultivation?",
-    options: ["Elimination of all labour costs", "Effective pest management", "Growing crops out of season", "Production of superior quality products"],
-    correct: 0,
+    options: ["Growing crops out of season", "Effective pest management", "Elimination of all labour costs", "Production of superior quality products"],
+    correct: 2,
     explanation: "Greenhouse cultivation does not eliminate labour costs — it may actually require more skilled labour. Key advantages are quality produce, off-season production, pest control, and computer automation."
   },
   {
@@ -1536,8 +1536,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-30",
     lectureNo: 30,
     question: "Ventilation in greenhouses can be of two types, which are:",
-    options: ["Overhead and side ventilation only", "Natural and forced (mechanical) ventilation", "Active and passive ventilation", "Wet-wall and dry ventilation"],
-    correct: 1,
+    options: ["Overhead and side ventilation only", "Active and passive ventilation", "Natural and forced (mechanical) ventilation", "Wet-wall and dry ventilation"],
+    correct: 2,
     explanation: "Greenhouse ventilation can be natural (using ridge vents, side vents, and stack effect) or forced/mechanical (using fans and blowers). Both help control temperature and humidity."
   },
   {
@@ -1576,8 +1576,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-15",
     lectureNo: 15,
     question: "Which of the following soil and water conservation measures is used to slow down runoff and allow water infiltration on slopes?",
-    options: ["Tube well installation", "Contour bunding and terracing", "Canal lining", "Field drainage"],
-    correct: 1,
+    options: ["Tube well installation", "Canal lining", "Contour bunding and terracing", "Field drainage"],
+    correct: 2,
     explanation: "Contour bunding and terracing are key soil and water conservation measures that slow runoff, prevent erosion, and allow rainwater to infiltrate the soil on sloping land."
   },
   {
@@ -1596,8 +1596,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-25",
     lectureNo: 25,
     question: "A Parshall flume is a water measuring device used in irrigation to measure:",
-    options: ["Soil moisture content in soil management", "Groundwater level in wells", "Pump discharge pressure under field conditions", "Flow velocity in open channels and canals"],
-    correct: 3,
+    options: ["Soil moisture content in soil management", "Flow velocity in open channels and canals", "Pump discharge pressure under field conditions", "Groundwater level in wells"],
+    correct: 1,
     explanation: "A Parshall flume is a fixed hydraulic structure used to measure the flow rate (discharge) in open channels, canals, and irrigation systems."
   },
   {
@@ -1616,8 +1616,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "An offset in chain surveying is a measurement taken:",
-    options: ["Along the main chain line in soil management", "Along a diagonal to the main line under field conditions", "Parallel to the boundary of the survey area for soil fertility", "Perpendicular (or nearly so) to the main chain line to locate a detail point"],
-    correct: 3,
+    options: ["Along the main chain line in soil management", "Along a diagonal to the main line under field conditions", "Perpendicular (or nearly so) to the main chain line to locate a detail point", "Parallel to the boundary of the survey area for soil fertility"],
+    correct: 2,
     explanation: "An offset is a lateral measurement taken perpendicular (or oblique) to the main chain line to locate detail points (boundaries, objects) that are away from the chain line."
   },
   {
@@ -1626,8 +1626,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Invar tape has a very low coefficient of thermal expansion of:",
-    options: ["0.06 × 10⁻⁴ per °C", "6.0 × 10⁻⁴ per °C", "0.6 × 10⁻⁴ per °C", "60 × 10⁻⁴ per °C"],
-    correct: 2,
+    options: ["0.06 × 10⁻⁴ per °C", "6.0 × 10⁻⁴ per °C", "60 × 10⁻⁴ per °C", "0.6 × 10⁻⁴ per °C"],
+    correct: 3,
     explanation: "Invar tape has a very low coefficient of thermal expansion of 0.6 × 10⁻⁴ per °C (compared to ~1.2 × 10⁻⁵ for steel), making it ideal for base line measurements in triangulation."
   },
   {
@@ -1646,8 +1646,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-27",
     lectureNo: 27,
     question: "Shade nets used in horticulture are classified based on:",
-    options: ["The percentage of shade they provide", "The type of irrigation used under them", "The material of the frame structure", "The height of the structure"],
-    correct: 0,
+    options: ["The height of the structure", "The type of irrigation used under them", "The material of the frame structure", "The percentage of shade they provide"],
+    correct: 3,
     explanation: "Shade nets are classified based on the percentage of light they block (e.g., 25%, 35%, 50%, 75% shade). Different crops require different shade levels depending on their light requirements."
   },
   {
@@ -1686,8 +1686,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-21",
     lectureNo: 21,
     question: "Which component of a centrifugal pump converts velocity energy (kinetic energy) to pressure energy?",
-    options: ["Priming valve", "Volute casing", "Impeller", "Suction pipe"],
-    correct: 1,
+    options: ["Volute casing", "Priming valve", "Impeller", "Suction pipe"],
+    correct: 0,
     explanation: "In a centrifugal pump, the impeller imparts velocity to water, and the volute casing (or diffuser) converts this velocity/kinetic energy into pressure energy."
   },
   {
@@ -1696,8 +1696,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-19",
     lectureNo: 19,
     question: "Which crop type is most suitable for sprinkler irrigation?",
-    options: ["Aquatic plants in soil management in agriculture", "Closely spaced field crops, vegetables, and orchards on undulating terrain", "Paddy (flooded field crops) under field conditions", "Crops requiring waterlogged conditions for soil fertility"],
-    correct: 1,
+    options: ["Closely spaced field crops, vegetables, and orchards on undulating terrain", "Aquatic plants in soil management in agriculture", "Paddy (flooded field crops) under field conditions", "Crops requiring waterlogged conditions for soil fertility"],
+    correct: 0,
     explanation: "Sprinkler irrigation is most suitable for closely spaced field crops, vegetables, orchards, and crops on undulating terrain where surface irrigation is impractical."
   },
   {
@@ -1716,8 +1716,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-27",
     lectureNo: 27,
     question: "An uneven span greenhouse differs from an even span greenhouse in that:",
-    options: ["It is always attached to another building in soil management", "It has no roof ventilation under field conditions", "One side (south-facing) has a steeper pitch to maximize solar radiation capture", "It has both sides of equal pitch and width"],
-    correct: 2,
+    options: ["It is always attached to another building in soil management", "One side (south-facing) has a steeper pitch to maximize solar radiation capture", "It has no roof ventilation under field conditions", "It has both sides of equal pitch and width"],
+    correct: 1,
     explanation: "In an uneven span greenhouse, one side (usually south-facing) has a steeper pitch to maximize solar radiation capture in winter. An even span has both sides of equal pitch and width."
   },
   {
@@ -1726,8 +1726,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-28",
     lectureNo: 28,
     question: "The saw-tooth greenhouse design is advantageous because it provides:",
-    options: ["Better natural ventilation and more uniform light distribution", "The cheapest construction cost per unit area", "Maximum structural stability in high winds", "Maximum growing area with minimum shading"],
-    correct: 0,
+    options: ["Maximum growing area with minimum shading", "The cheapest construction cost per unit area", "Maximum structural stability in high winds", "Better natural ventilation and more uniform light distribution"],
+    correct: 3,
     explanation: "The saw-tooth greenhouse design provides better natural ventilation (through the vertical faces) and more uniform light distribution, especially suited for tropical and subtropical climates."
   },
   {
@@ -1736,8 +1736,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Errors in chaining are of two types: compensating (random) and cumulative (systematic). Which of the following is a cumulative error?",
-    options: ["Accidental omission of an arrow", "Improper ranging causing zigzag measurement", "Chain consistently longer or shorter than its standard length", "Wrong marking of chain length due to wind"],
-    correct: 2,
+    options: ["Accidental omission of an arrow", "Improper ranging causing zigzag measurement", "Wrong marking of chain length due to wind", "Chain consistently longer or shorter than its standard length"],
+    correct: 3,
     explanation: "A chain that is consistently longer or shorter than its standard length causes a cumulative (systematic) error. This type of error accumulates in one direction and can be corrected."
   },
   {
@@ -1766,8 +1766,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-20",
     lectureNo: 20,
     question: "The main advantage of non-pressure-compensating emitters in drip irrigation is:",
-    options: ["Self-cleaning mechanism for clogging prevention", "Uniform discharge at varying pressures", "Higher discharge rates at all times", "Lower cost and simplicity"],
-    correct: 3,
+    options: ["Lower cost and simplicity", "Uniform discharge at varying pressures", "Higher discharge rates at all times", "Self-cleaning mechanism for clogging prevention"],
+    correct: 0,
     explanation: "Non-pressure-compensating emitters are simpler and less expensive than pressure-compensating types. They are suitable for flat land where pressure variation along laterals is minimal."
   },
   {
@@ -1776,8 +1776,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "The area of a trapezoid with parallel sides 'a' and 'b' and height 'h' is:",
-    options: ["(a × b) / h", "(a + b) × h", "a × b × h", "(a + b) / 2 × h"],
-    correct: 3,
+    options: ["(a × b) / h", "(a + b) / 2 × h", "a × b × h", "(a + b) × h"],
+    correct: 1,
     explanation: "The area of a trapezoid = ½ × (sum of parallel sides) × height = (a + b)/2 × h. This formula is also applied in offset surveying (trapezoidal rule) to calculate irregular field areas."
   },
   {
@@ -1796,8 +1796,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-25",
     lectureNo: 25,
     question: "A current meter is an irrigation water measuring device used to measure:",
-    options: ["Pump discharge pressure", "Flow velocity in open channels", "Soil moisture content", "Water table depth"],
-    correct: 1,
+    options: ["Pump discharge pressure", "Water table depth", "Soil moisture content", "Flow velocity in open channels"],
+    correct: 3,
     explanation: "A current meter (velocity meter) is used to measure the velocity of water flow in open channels and rivers. Combined with cross-sectional area, it gives the discharge (flow rate)."
   },
   {
@@ -1826,8 +1826,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-32",
     lectureNo: 32,
     question: "The term 'consumptive use' in water engineering refers to:",
-    options: ["Water used for irrigation only", "Water consumed by evapotranspiration from crops and soil", "Total water applied to a field", "Water stored in soil profile"],
-    correct: 1,
+    options: ["Water used for irrigation only", "Total water applied to a field", "Water consumed by evapotranspiration from crops and soil", "Water stored in soil profile"],
+    correct: 2,
     explanation: "Consumptive use is the amount of water consumed by evapotranspiration (evaporation from soil + transpiration by plants) during a given period. It is used to calculate crop water requirements."
   },
   {
@@ -1836,8 +1836,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-32",
     lectureNo: 32,
     question: "Delta of a crop is defined as:",
-    options: ["The area of land irrigated", "The total depth of water required by crop during entire growing period", "The difference between inflow and outflow of water", "Water use efficiency of a crop"],
-    correct: 1,
+    options: ["The area of land irrigated", "The difference between inflow and outflow of water", "The total depth of water required by crop during entire growing period", "Water use efficiency of a crop"],
+    correct: 2,
     explanation: "Delta of a crop (Δ) is the total depth of water required by the crop during its entire growing period from sowing to harvesting, expressed in mm or cm."
   },
   {
@@ -1866,8 +1866,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-33",
     lectureNo: 33,
     question: "A weir is a hydraulic structure used to:",
-    options: ["Store large volumes of water underground", "Measure and control flow in open channels", "Filter suspended solids from water", "Pump water from rivers to fields"],
-    correct: 1,
+    options: ["Store large volumes of water underground", "Filter suspended solids from water", "Measure and control flow in open channels", "Pump water from rivers to fields"],
+    correct: 2,
     explanation: "A weir is a notch or overflow structure placed in an open channel to measure discharge and control water levels. The relationship between head and discharge is well-established for standard weir types."
   },
   {
@@ -1886,8 +1886,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-33",
     lectureNo: 33,
     question: "A Parshall flume is preferred over a weir for irrigation flow measurement because:",
-    options: ["It is cheaper to construct", "It works accurately with high sediment loads and low head loss", "It requires no calibration", "It measures groundwater flow"],
-    correct: 1,
+    options: ["It is cheaper to construct", "It measures groundwater flow", "It requires no calibration", "It works accurately with high sediment loads and low head loss"],
+    correct: 3,
     explanation: "Parshall flumes handle sediment-laden flows without clogging, operate with minimal head loss, and maintain accuracy over a wide flow range. They are widely used in irrigation canals and on-farm water management."
   },
   {
@@ -1896,8 +1896,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-33",
     lectureNo: 33,
     question: "The V-notch (triangular) weir is most suitable for measuring:",
-    options: ["Large flood discharges", "Small and variable low discharges", "Sedimented canal flows", "Sub-surface drainage flow"],
-    correct: 1,
+    options: ["Small and variable low discharges", "Large flood discharges", "Sedimented canal flows", "Sub-surface drainage flow"],
+    correct: 0,
     explanation: "The V-notch (triangular) weir is most accurate for small and variable discharges because even a small change in head produces a proportional change in the narrow water prism, giving good sensitivity at low flows."
   },
   {
@@ -1936,8 +1936,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-34",
     lectureNo: 34,
     question: "Fertigation in drip irrigation refers to:",
-    options: ["Applying fertilizer to soil before irrigation", "Injecting fertilizers directly into the irrigation water", "Foliar spraying of fertilizers", "Composting organic matter for drip application"],
-    correct: 1,
+    options: ["Applying fertilizer to soil before irrigation", "Foliar spraying of fertilizers", "Injecting fertilizers directly into the irrigation water", "Composting organic matter for drip application"],
+    correct: 2,
     explanation: "Fertigation is the technique of injecting soluble fertilizers directly into the irrigation water supply. In drip systems, this delivers nutrients precisely to the root zone, improving nutrient use efficiency significantly."
   },
   {
@@ -1946,8 +1946,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-35",
     lectureNo: 35,
     question: "Sprinkler irrigation is most suitable for which type of crops and terrain?",
-    options: ["Row crops on flat heavy-clay soils only", "Close-growing crops and uneven terrain where surface irrigation is difficult", "Paddy cultivation in waterlogged conditions", "Deep-rooted trees in sandy soils only"],
-    correct: 1,
+    options: ["Close-growing crops and uneven terrain where surface irrigation is difficult", "Row crops on flat heavy-clay soils only", "Paddy cultivation in waterlogged conditions", "Deep-rooted trees in sandy soils only"],
+    correct: 0,
     explanation: "Sprinkler irrigation suits close-growing crops (wheat, groundnut, vegetables) and undulating terrains where surface irrigation is impractical. It can be used on varying soil types and slopes up to 5–12%."
   },
   {
@@ -1956,8 +1956,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-35",
     lectureNo: 35,
     question: "The precipitation rate of a sprinkler system should not exceed the:",
-    options: ["Wilting point of the soil", "Infiltration rate of the soil", "Field capacity of the soil", "Hydraulic conductivity of the subsoil"],
-    correct: 1,
+    options: ["Wilting point of the soil", "Hydraulic conductivity of the subsoil", "Field capacity of the soil", "Infiltration rate of the soil"],
+    correct: 3,
     explanation: "The application rate of sprinklers must not exceed the soil's infiltration rate; otherwise, water ponds on the surface and causes runoff, erosion, and non-uniform distribution."
   },
   {
@@ -1976,8 +1976,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-36",
     lectureNo: 36,
     question: "Sub-surface drainage is used in agricultural fields primarily to:",
-    options: ["Increase surface runoff for reuse", "Remove excess water from the root zone to prevent waterlogging", "Store groundwater for dry season use", "Improve soil structural aggregation"],
-    correct: 1,
+    options: ["Increase surface runoff for reuse", "Improve soil structural aggregation", "Store groundwater for dry season use", "Remove excess water from the root zone to prevent waterlogging"],
+    correct: 3,
     explanation: "Sub-surface drainage (tile drains, mole drains, perforated pipes) removes excess water from the root zone, lowering the water table to prevent waterlogging, which causes anaerobic conditions harmful to crop roots."
   },
   {
@@ -1986,8 +1986,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-36",
     lectureNo: 36,
     question: "The spacing between parallel sub-surface drain pipes depends primarily on:",
-    options: ["Crop type and fertilizer requirement", "Soil hydraulic conductivity and desired water table depth", "Distance from the main canal", "Annual rainfall intensity only"],
-    correct: 1,
+    options: ["Crop type and fertilizer requirement", "Annual rainfall intensity only", "Distance from the main canal", "Soil hydraulic conductivity and desired water table depth"],
+    correct: 3,
     explanation: "Drain spacing is determined using the Hooghoudt equation, which relates drain spacing to soil hydraulic conductivity, drain depth, water table height midway between drains, and drainage coefficient."
   },
   {
@@ -1996,8 +1996,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-36",
     lectureNo: 36,
     question: "Drainage coefficient in sub-surface drainage design refers to:",
-    options: ["The ratio of drained area to total area", "The rate of water removal needed to lower the water table within a given time", "The hydraulic conductivity of drain pipe material", "The ratio of surface runoff to rainfall"],
-    correct: 1,
+    options: ["The rate of water removal needed to lower the water table within a given time", "The ratio of drained area to total area", "The hydraulic conductivity of drain pipe material", "The ratio of surface runoff to rainfall"],
+    correct: 0,
     explanation: "The drainage coefficient (q) is the depth of water (mm/day) that must be removed from the field to maintain the water table below the critical depth within a specified time frame, typically based on crop tolerance."
   },
   {
@@ -2016,8 +2016,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-37",
     lectureNo: 37,
     question: "A check dam is constructed across a stream or drainage channel primarily to:",
-    options: ["Generate electricity from streamflow", "Slow runoff velocity, trap sediment, and recharge groundwater", "Measure stream discharge", "Divert water to main irrigation canals"],
-    correct: 1,
+    options: ["Slow runoff velocity, trap sediment, and recharge groundwater", "Generate electricity from streamflow", "Measure stream discharge", "Divert water to main irrigation canals"],
+    correct: 0,
     explanation: "Check dams are small barriers built across drainage lines to reduce runoff velocity, trap eroded sediment, raise local water tables through percolation, and store water for dry-season use by cattle and crops."
   },
   {
@@ -2036,8 +2036,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-38",
     lectureNo: 38,
     question: "Rainwater harvesting through farm ponds is beneficial because:",
-    options: ["It increases evaporation losses from the catchment", "It stores runoff water for use during dry periods, supplementing irrigation", "It eliminates the need for any other irrigation source", "It raises the water table only in sandy soils"],
-    correct: 1,
+    options: ["It increases evaporation losses from the catchment", "It raises the water table only in sandy soils", "It eliminates the need for any other irrigation source", "It stores runoff water for use during dry periods, supplementing irrigation"],
+    correct: 3,
     explanation: "Farm ponds harvest surface runoff during rains for supplemental irrigation during dry spells. They also recharge groundwater, support fish culture, and provide water for livestock, improving overall farm productivity."
   },
   {
@@ -2056,8 +2056,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-38",
     lectureNo: 38,
     question: "Which is the most important factor determining the storage capacity needed for a farm pond?",
-    options: ["Colour of the soil in the catchment", "Crop water requirement during the dry period and expected runoff", "Distance of the pond from the field", "Soil pH of the watershed"],
-    correct: 1,
+    options: ["Colour of the soil in the catchment", "Distance of the pond from the field", "Crop water requirement during the dry period and expected runoff", "Soil pH of the watershed"],
+    correct: 2,
     explanation: "Farm pond capacity is designed based on crop water demand during dry periods and the expected seasonal runoff from the catchment. Insufficient capacity means water shortage; excess capacity increases construction cost."
   },
   {
@@ -2066,8 +2066,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-39",
     lectureNo: 39,
     question: "The hydraulic radius (R) of an irrigation canal cross-section is defined as:",
-    options: ["Width divided by depth of flow", "Cross-sectional area of flow divided by wetted perimeter", "Top width divided by wetted perimeter", "Hydraulic depth times flow velocity"],
-    correct: 1,
+    options: ["Cross-sectional area of flow divided by wetted perimeter", "Width divided by depth of flow", "Top width divided by wetted perimeter", "Hydraulic depth times flow velocity"],
+    correct: 0,
     explanation: "Hydraulic radius R = A/P, where A is the cross-sectional area of flow and P is the wetted perimeter. It is a key parameter in Manning's and Chezy's equations for open channel flow design."
   },
   {
@@ -2076,8 +2076,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-39",
     lectureNo: 39,
     question: "Manning's roughness coefficient 'n' for an irrigation canal lined with concrete is approximately:",
-    options: ["0.010–0.014", "0.025–0.030", "0.040–0.060", "0.100–0.150"],
-    correct: 0,
+    options: ["0.025–0.030", "0.010–0.014", "0.040–0.060", "0.100–0.150"],
+    correct: 1,
     explanation: "Manning's n for concrete-lined canals is 0.011–0.014. Unlined earth canals have n = 0.025–0.030. Higher n values indicate rougher surfaces causing slower flow for the same slope and hydraulic radius."
   },
   {
@@ -2086,8 +2086,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-39",
     lectureNo: 39,
     question: "The trapezoidal cross-section is preferred for earthen irrigation canals because:",
-    options: ["It is the easiest shape to excavate with any machine", "It provides stable side slopes and is hydraulically efficient", "It eliminates the need for canal lining", "It allows the highest velocity without scouring"],
-    correct: 1,
+    options: ["It is the easiest shape to excavate with any machine", "It eliminates the need for canal lining", "It provides stable side slopes and is hydraulically efficient", "It allows the highest velocity without scouring"],
+    correct: 2,
     explanation: "Trapezoidal cross-sections are stable in earthen materials (side slopes resist collapse), hydraulically efficient (approach semi-circular section), and easy to construct with standard equipment, making them standard for irrigation canals."
   },
   {
@@ -2126,8 +2126,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-40",
     lectureNo: 40,
     question: "The orientation of a greenhouse ridge (long axis) in the tropics should ideally be:",
-    options: ["North-South to maximize morning and afternoon sun exposure", "East-West to maximize solar radiation in winter months", "Northeast-Southwest at 45° to the prevailing wind", "Any direction since orientation does not matter in tropics"],
-    correct: 0,
+    options: ["East-West to maximize solar radiation in winter months", "North-South to maximize morning and afternoon sun exposure", "Northeast-Southwest at 45° to the prevailing wind", "Any direction since orientation does not matter in tropics"],
+    correct: 1,
     explanation: "In tropical regions, a North-South orientation allows both the east and west walls to receive sunlight throughout the day, giving more uniform light distribution compared to East-West orientation which favors one wall in the morning and another in the afternoon."
   },
   {
@@ -2136,8 +2136,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-41",
     lectureNo: 41,
     question: "In greenhouse technology, the term 'photoperiod' refers to:",
-    options: ["The total light intensity (lux) received per day", "The daily duration of light exposure affecting plant flowering", "The wavelength of light used for photosynthesis", "The number of days between planting and flowering"],
-    correct: 1,
+    options: ["The total light intensity (lux) received per day", "The wavelength of light used for photosynthesis", "The daily duration of light exposure affecting plant flowering", "The number of days between planting and flowering"],
+    correct: 2,
     explanation: "Photoperiod is the number of hours of light per day that triggers flowering in photoperiodic plants. Short-day plants flower when nights are long; long-day plants flower when days are long. Greenhouses can manipulate photoperiod artificially."
   },
   {
@@ -2156,8 +2156,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-41",
     lectureNo: 41,
     question: "Pad and fan cooling system in a greenhouse works on the principle of:",
-    options: ["Refrigeration using freon gas", "Evaporative cooling — dry hot air passes through wet cellulose pads", "Compression and expansion of air through vents", "Solar-powered Peltier cooling modules"],
-    correct: 1,
+    options: ["Evaporative cooling — dry hot air passes through wet cellulose pads", "Refrigeration using freon gas", "Compression and expansion of air through vents", "Solar-powered Peltier cooling modules"],
+    correct: 0,
     explanation: "The pad-and-fan system draws outside hot dry air through water-wetted cellulose pads. Evaporation of water absorbs heat (latent heat), cooling the air by 5–12°C before it enters the greenhouse. It is effective in hot, arid climates."
   },
   {
@@ -2166,8 +2166,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-41",
     lectureNo: 41,
     question: "Relative humidity inside a greenhouse should ideally be maintained between:",
-    options: ["20–40%", "50–70%", "80–100%", "10–20%"],
-    correct: 1,
+    options: ["50–70%", "20–40%", "80–100%", "10–20%"],
+    correct: 0,
     explanation: "Optimal RH for most greenhouse crops is 50–70%. Above 80–85%, fungal diseases (Botrytis, powdery mildew) proliferate. Below 40%, plants experience stomatal stress and water loss through transpiration increases excessively."
   },
   {
@@ -2176,8 +2176,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-42",
     lectureNo: 42,
     question: "Hydroponics is defined as growing plants:",
-    options: ["In high-humidity tropical environments outdoors", "Without soil, with roots in nutrient solution or inert media", "Using only organic composts without chemical fertilizers", "In submerged paddy fields with controlled water levels"],
-    correct: 1,
+    options: ["Without soil, with roots in nutrient solution or inert media", "In high-humidity tropical environments outdoors", "Using only organic composts without chemical fertilizers", "In submerged paddy fields with controlled water levels"],
+    correct: 0,
     explanation: "Hydroponics is soilless cultivation where plant roots grow either directly in a nutrient solution (NFT, DWC) or in an inert growing medium (rockwool, perlite, coco coir) with nutrients supplied through the irrigation water."
   },
   {
@@ -2186,8 +2186,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-42",
     lectureNo: 42,
     question: "In the Nutrient Film Technique (NFT) hydroponic system:",
-    options: ["Plants are grown in deep pools of nutrient solution", "A thin film of nutrient solution continuously flows over bare roots in channels", "Nutrient solution is sprayed as mist onto suspended roots", "Plants are grown in inert media with periodic flooding and draining"],
-    correct: 1,
+    options: ["A thin film of nutrient solution continuously flows over bare roots in channels", "Plants are grown in deep pools of nutrient solution", "Nutrient solution is sprayed as mist onto suspended roots", "Plants are grown in inert media with periodic flooding and draining"],
+    correct: 0,
     explanation: "In NFT, a thin (2–3 mm) stream of nutrient solution flows continuously over bare plant roots lying in slightly sloped channels (gutters). The upper roots are in air (aerobic) while lower roots absorb nutrients from the film."
   },
   {
@@ -2196,8 +2196,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-42",
     lectureNo: 42,
     question: "The main advantage of hydroponics over soil cultivation is:",
-    options: ["No need for any water or nutrients", "Faster plant growth, higher yields per unit area, and year-round production", "Lower initial investment than conventional farming", "No requirement for pest or disease management"],
-    correct: 1,
+    options: ["Faster plant growth, higher yields per unit area, and year-round production", "No need for any water or nutrients", "Lower initial investment than conventional farming", "No requirement for pest or disease management"],
+    correct: 0,
     explanation: "Hydroponics provides optimized nutrients directly to roots, allowing 30–50% faster growth, 3–10× higher yields per unit area, year-round production in controlled environments, and significantly reduced pesticide use."
   },
   {
@@ -2206,8 +2206,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-42",
     lectureNo: 42,
     question: "Aeroponic cultivation differs from hydroponics in that:",
-    options: ["Plants are grown in soil with nutrient supplementation", "Roots are suspended in air and nutrient solution is sprayed as a fine mist", "Only organic nutrients dissolved in water are used", "Plants float on the surface of a deep water tank"],
-    correct: 1,
+    options: ["Plants are grown in soil with nutrient supplementation", "Plants float on the surface of a deep water tank", "Only organic nutrients dissolved in water are used", "Roots are suspended in air and nutrient solution is sprayed as a fine mist"],
+    correct: 3,
     explanation: "In aeroponics, plant roots hang in an enclosed air/mist environment and are periodically sprayed with fine nutrient mist (every 1–5 minutes). This maximizes oxygen at the root zone, promoting rapid growth and very high yields."
   },
   {
@@ -2216,8 +2216,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-43",
     lectureNo: 43,
     question: "Shade nets used in protected cultivation are primarily used to:",
-    options: ["Increase temperature inside the structure", "Reduce incoming solar radiation and temperature to protect sensitive crops", "Prevent groundwater contamination", "Store water on the net surface for plant use"],
-    correct: 1,
+    options: ["Reduce incoming solar radiation and temperature to protect sensitive crops", "Increase temperature inside the structure", "Prevent groundwater contamination", "Store water on the net surface for plant use"],
+    correct: 0,
     explanation: "Shade nets (25–75% shade factor) reduce incident solar radiation and temperature inside, protecting crops like vegetables, flowers, and nursery plants from heat stress, sunburn, and hail damage in summer or high-altitude conditions."
   },
   {
@@ -2226,8 +2226,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-43",
     lectureNo: 43,
     question: "Anti-insect nets used in protected cultivation have mesh size typically of:",
-    options: ["50–100 mm openings", "10–25 mm openings", "0.4–1.0 mm openings (50–100 mesh)", "0.1–0.3 mm (microfiltration)"],
-    correct: 2,
+    options: ["50–100 mm openings", "10–25 mm openings", "0.1–0.3 mm (microfiltration)", "0.4–1.0 mm openings (50–100 mesh)"],
+    correct: 3,
     explanation: "Anti-insect nets have fine mesh of 50–100 mesh (0.4–1.0 mm openings) to exclude thrips, aphids, whiteflies, and other small vectors while still allowing adequate airflow, light, and CO₂ exchange for the crop."
   },
   {
@@ -2236,8 +2236,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-43",
     lectureNo: 43,
     question: "Mulching in protected horticulture serves all of the following purposes EXCEPT:",
-    options: ["Conserving soil moisture", "Controlling weeds", "Increasing soil temperature uniformly across all seasons", "Reducing soil-borne disease splash"],
-    correct: 2,
+    options: ["Conserving soil moisture", "Controlling weeds", "Reducing soil-borne disease splash", "Increasing soil temperature uniformly across all seasons"],
+    correct: 3,
     explanation: "Mulching conserves moisture, suppresses weeds, reduces disease splash, and modifies soil temperature — but black plastic mulch increases soil temperature in cool conditions while silver/white mulch reflects radiation in summer. It does not uniformly increase temperature across all seasons."
   },
   {
@@ -2246,8 +2246,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-44",
     lectureNo: 44,
     question: "The growth medium 'Rockwool' used in hydroponic systems is made from:",
-    options: ["Crushed granite rock and organic compost", "Melted and spun basalt rock and chalk fibres", "Compressed coconut coir and perlite", "Clay expanded into lightweight aggregates"],
-    correct: 1,
+    options: ["Melted and spun basalt rock and chalk fibres", "Crushed granite rock and organic compost", "Compressed coconut coir and perlite", "Clay expanded into lightweight aggregates"],
+    correct: 0,
     explanation: "Rockwool (stonewool) is made by melting basalt rock and chalk at 1600°C, then spinning the molten material into fibres. It has high water retention (80%), good air porosity (15%), is sterile, and has a neutral pH — ideal for hydroponics."
   },
   {
@@ -2266,8 +2266,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-44",
     lectureNo: 44,
     question: "EC (Electrical Conductivity) of the nutrient solution in a hydroponic system is monitored to:",
-    options: ["Measure dissolved oxygen levels at the root zone", "Assess the total dissolved salt (nutrient) concentration in the solution", "Monitor water temperature for optimal root function", "Detect pathogen contamination in the water supply"],
-    correct: 1,
+    options: ["Measure dissolved oxygen levels at the root zone", "Monitor water temperature for optimal root function", "Assess the total dissolved salt (nutrient) concentration in the solution", "Detect pathogen contamination in the water supply"],
+    correct: 2,
     explanation: "EC is a proxy for total dissolved nutrient concentration. Low EC = nutrient deficiency; high EC = salt stress. Most vegetable crops require EC 1.5–3.5 mS/cm. EC is monitored continuously with sensors and adjusted by adding water or concentrate."
   },
   {
@@ -2276,8 +2276,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-45",
     lectureNo: 45,
     question: "Integrated pest management (IPM) in greenhouses uses all of the following EXCEPT:",
-    options: ["Biological control agents (parasitoids, predators)", "Sticky yellow traps for monitoring and mass trapping", "Continuous prophylactic spraying of broad-spectrum pesticides", "Crop scouting and threshold-based interventions"],
-    correct: 2,
+    options: ["Continuous prophylactic spraying of broad-spectrum pesticides", "Sticky yellow traps for monitoring and mass trapping", "Biological control agents (parasitoids, predators)", "Crop scouting and threshold-based interventions"],
+    correct: 0,
     explanation: "IPM integrates biological control, physical traps, scouting, and targeted chemical use only when pest populations exceed economic thresholds. Continuous broad-spectrum spraying is contrary to IPM principles — it kills natural enemies and encourages resistance."
   },
   {
@@ -2286,8 +2286,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-45",
     lectureNo: 45,
     question: "Which beneficial insect is commercially released in greenhouses for biological control of whiteflies?",
-    options: ["Apis mellifera (honey bee)", "Encarsia formosa (parasitic wasp)", "Coccinella septempunctata (ladybird beetle)", "Chrysoperla carnea (green lacewing)"],
-    correct: 1,
+    options: ["Apis mellifera (honey bee)", "Coccinella septempunctata (ladybird beetle)", "Encarsia formosa (parasitic wasp)", "Chrysoperla carnea (green lacewing)"],
+    correct: 2,
     explanation: "Encarsia formosa is a tiny parasitic wasp (1–1.5 mm) that parasitizes greenhouse whitefly (Trialeurodes vaporariorum) nymphs. It is widely used commercially in tomato and cucumber greenhouses as a highly effective biological control agent."
   },
   {
@@ -2296,8 +2296,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-45",
     lectureNo: 45,
     question: "The main advantage of biological control over chemical pesticides in greenhouses is:",
-    options: ["Lower cost per application", "Selectivity, no chemical residues, and sustainability without resistance development in pests", "Faster knockdown of large pest populations", "Effectiveness against all pest and disease problems simultaneously"],
-    correct: 1,
+    options: ["Lower cost per application", "Effectiveness against all pest and disease problems simultaneously", "Faster knockdown of large pest populations", "Selectivity, no chemical residues, and sustainability without resistance development in pests"],
+    correct: 3,
     explanation: "Biological control agents are selective (target specific pests), leave no chemical residues (important for export crops), do not contribute to pesticide resistance, and can establish self-sustaining populations — providing long-term, sustainable pest suppression."
   },
   {
@@ -2316,8 +2316,8 @@ export const da252LectureQuestions: Question[] = [
     lecture: "lecture-46",
     lectureNo: 46,
     question: "CO₂ enrichment in greenhouses is carried out to:",
-    options: ["Replace oxygen in the structure during night hours", "Enhance photosynthesis rates and improve crop yield and quality", "Cool the greenhouse by absorbing solar radiation", "Sterilize the growing media before planting"],
-    correct: 1,
+    options: ["Replace oxygen in the structure during night hours", "Sterilize the growing media before planting", "Cool the greenhouse by absorbing solar radiation", "Enhance photosynthesis rates and improve crop yield and quality"],
+    correct: 3,
     explanation: "Ambient CO₂ (~420 ppm) is often the limiting factor in closed greenhouses. Enrichment to 800–1200 ppm increases photosynthesis by 20–30%, improving yield, fruit quality, and dry matter accumulation, especially in well-lit, well-managed polyhouse systems."
   }
 ];
