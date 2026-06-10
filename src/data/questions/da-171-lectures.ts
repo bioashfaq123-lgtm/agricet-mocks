@@ -5,8 +5,8 @@ export const da171LectureQuestions: Question[] = [
   {
     id: "d171l_001", subject: "da-171", lecture: "lecture-1", lectureNo: 1,
     question: "Plant pathology is defined as the study of:",
-    options: ["Plant diseases and their management", "Plant nutrition", "Insect pests of plants", "Animal diseases"],
-    correct: 0,
+    options: ["Insect pests of plants", "Plant nutrition", "Plant diseases and their management", "Animal diseases"],
+    correct: 2,
     explanation: "Plant pathology (phytopathology) is the science that studies plant diseases — their causes, mechanisms, and management.",
     difficulty: "easy"
   },
@@ -21,48 +21,48 @@ export const da171LectureQuestions: Question[] = [
   {
     id: "d171l_003", subject: "da-171", lecture: "lecture-1", lectureNo: 1,
     question: "Which is NOT a biotic cause of plant disease?",
-    options: ["Fungi", "Bacteria", "Virus", "Nutrient deficiency"],
-    correct: 3,
+    options: ["Fungi", "Bacteria", "Nutrient deficiency", "Virus"],
+    correct: 2,
     explanation: "Nutrient deficiency is an abiotic (non-living) cause of plant disease. Fungi, bacteria, and viruses are biotic (living) pathogens.",
     difficulty: "easy"
   },
   {
     id: "d171l_004", subject: "da-171", lecture: "lecture-1", lectureNo: 1,
     question: "The disease triangle concept includes:",
-    options: ["Soil, Water, Air", "Temperature, Humidity, Wind", "Host, Pathogen, Environment", "Plant, Insect, Soil"],
-    correct: 2,
+    options: ["Soil, Water, Air", "Temperature, Humidity, Wind", "Plant, Insect, Soil", "Host, Pathogen, Environment"],
+    correct: 3,
     explanation: "The disease triangle states that disease develops when a susceptible host, virulent pathogen, and favorable environment interact.",
     difficulty: "easy"
   },
   {
     id: "d171l_005", subject: "da-171", lecture: "lecture-1", lectureNo: 1,
     question: "Koch's postulates were proposed to:",
-    options: ["Prove that a specific microorganism causes a specific disease", "Study plant viruses in plant pathology", "Classify fungi in disease management", "Develop pesticides for crop protection"],
-    correct: 0,
+    options: ["Develop pesticides for crop protection", "Study plant viruses in plant pathology", "Classify fungi in disease management", "Prove that a specific microorganism causes a specific disease"],
+    correct: 3,
     explanation: "Koch's postulates establish a causal relationship between a microorganism and a disease.",
     difficulty: "medium"
   },
   {
     id: "d171l_006", subject: "da-171", lecture: "lecture-1", lectureNo: 1,
     question: "The science of identifying plant diseases is called:",
-    options: ["Epidemiology", "Etiology", "Diagnosis", "Taxonomy"],
-    correct: 2,
+    options: ["Epidemiology", "Etiology", "Taxonomy", "Diagnosis"],
+    correct: 3,
     explanation: "Diagnosis is the process of identifying the causal agent and nature of a plant disease.",
     difficulty: "easy"
   },
   {
     id: "d171l_007", subject: "da-171", lecture: "lecture-1", lectureNo: 1,
     question: "Etiology in plant pathology refers to:",
-    options: ["Study of causal agents of diseases", "Study of disease spread", "Study of disease symptoms", "Study of resistant varieties"],
-    correct: 0,
+    options: ["Study of disease spread", "Study of causal agents of diseases", "Study of disease symptoms", "Study of resistant varieties"],
+    correct: 1,
     explanation: "Etiology is the study of the causes and origins of plant diseases.",
     difficulty: "medium"
   },
   {
     id: "d171l_008", subject: "da-171", lecture: "lecture-1", lectureNo: 1,
     question: "The first step in Koch's postulates is:",
-    options: ["Reisolate the pathogen", "Associate the organism with diseased plant", "Inoculate healthy plant", "Grow the organism in pure culture"],
-    correct: 1,
+    options: ["Associate the organism with diseased plant", "Reisolate the pathogen", "Inoculate healthy plant", "Grow the organism in pure culture"],
+    correct: 0,
     explanation: "The first step is to consistently find and associate the suspected pathogen with every case of the disease.",
     difficulty: "medium"
   },
@@ -93,8 +93,8 @@ export const da171LectureQuestions: Question[] = [
   {
     id: "d171l_012", subject: "da-171", lecture: "lecture-1", lectureNo: 1,
     question: "Symptomatology is the study of:",
-    options: ["Causal agents of disease", "Signs and symptoms of plant diseases", "Pathogen genetics", "Disease control methods"],
-    correct: 1,
+    options: ["Causal agents of disease", "Pathogen genetics", "Signs and symptoms of plant diseases", "Disease control methods"],
+    correct: 2,
     explanation: "Symptomatology deals with the recognition and description of disease symptoms.",
     difficulty: "easy"
   },
@@ -111,64 +111,64 @@ export const da171LectureQuestions: Question[] = [
   {
     id: "d171l_014", subject: "da-171", lecture: "lecture-2", lectureNo: 2,
     question: "The vegetative body of a fungus is called:",
-    options: ["Mycelium", "Conidium", "Sporangium", "Thallus"],
-    correct: 0,
+    options: ["Thallus", "Conidium", "Sporangium", "Mycelium"],
+    correct: 3,
     explanation: "The vegetative body of a fungus consists of thread-like hyphae collectively called mycelium.",
     difficulty: "easy"
   },
   {
     id: "d171l_015", subject: "da-171", lecture: "lecture-2", lectureNo: 2,
     question: "The cell wall of fungi is made up of:",
-    options: ["Lignin", "Chitin", "Peptidoglycan", "Cellulose"],
-    correct: 1,
+    options: ["Lignin", "Peptidoglycan", "Chitin", "Cellulose"],
+    correct: 2,
     explanation: "Fungal cell walls are composed primarily of chitin, unlike plant cell walls (cellulose).",
     difficulty: "easy"
   },
   {
     id: "d171l_016", subject: "da-171", lecture: "lecture-2", lectureNo: 2,
     question: "Asexual spores produced externally on conidiophores are called:",
-    options: ["Basidiospores", "Oospores", "Ascospores", "Conidia"],
-    correct: 3,
+    options: ["Conidia", "Oospores", "Ascospores", "Basidiospores"],
+    correct: 0,
     explanation: "Conidia are asexual spores produced externally on specialized hyphae called conidiophores.",
     difficulty: "easy"
   },
   {
     id: "d171l_017", subject: "da-171", lecture: "lecture-2", lectureNo: 2,
     question: "Oomycetes (water molds) have cell walls made of:",
-    options: ["Neither", "Both chitin and cellulose", "Chitin", "Cellulose"],
-    correct: 3,
+    options: ["Cellulose", "Both chitin and cellulose", "Chitin", "Neither"],
+    correct: 0,
     explanation: "Oomycetes have cellulose cell walls, distinguishing them from true fungi (chitin).",
     difficulty: "medium"
   },
   {
     id: "d171l_018", subject: "da-171", lecture: "lecture-2", lectureNo: 2,
     question: "Phytophthora belongs to which class:",
-    options: ["Zygomycetes", "Basidiomycetes", "Oomycetes", "Ascomycetes"],
-    correct: 2,
+    options: ["Zygomycetes", "Oomycetes", "Basidiomycetes", "Ascomycetes"],
+    correct: 1,
     explanation: "Phytophthora is an oomycete (water mold), classified in kingdom Chromista (formerly grouped with fungi).",
     difficulty: "medium"
   },
   {
     id: "d171l_019", subject: "da-171", lecture: "lecture-2", lectureNo: 2,
     question: "Rust fungi belong to:",
-    options: ["Ascomycetes", "Oomycetes", "Basidiomycetes", "Deuteromycetes"],
-    correct: 2,
+    options: ["Ascomycetes", "Basidiomycetes", "Oomycetes", "Deuteromycetes"],
+    correct: 1,
     explanation: "Rust fungi (Puccinia, Uromyces, etc.) belong to Basidiomycetes.",
     difficulty: "medium"
   },
   {
     id: "d171l_020", subject: "da-171", lecture: "lecture-2", lectureNo: 2,
     question: "Deuteromycetes (Fungi Imperfecti) are fungi that:",
-    options: ["Are all plant pathogens", "Only reproduce sexually", "Have no cell wall", "Have no known sexual stage"],
-    correct: 3,
+    options: ["Are all plant pathogens", "Only reproduce sexually", "Have no known sexual stage", "Have no cell wall"],
+    correct: 2,
     explanation: "Deuteromycetes have no known sexual reproduction stage and reproduce only asexually.",
     difficulty: "medium"
   },
   {
     id: "d171l_021", subject: "da-171", lecture: "lecture-2", lectureNo: 2,
     question: "The sexual spore of Ascomycetes is called:",
-    options: ["Basidiospore", "Oospore", "Zygospore", "Ascospore"],
-    correct: 3,
+    options: ["Basidiospore", "Ascospore", "Zygospore", "Oospore"],
+    correct: 1,
     explanation: "Ascospores are sexual spores of Ascomycetes, produced within an ascus.",
     difficulty: "easy"
   },
@@ -183,16 +183,16 @@ export const da171LectureQuestions: Question[] = [
   {
     id: "d171l_022b", subject: "da-171", lecture: "lecture-2", lectureNo: 2,
     question: "Sporangiospores are produced inside:",
-    options: ["Asci", "Sporangia", "Conidia", "Basidia"],
-    correct: 1,
+    options: ["Asci", "Basidia", "Conidia", "Sporangia"],
+    correct: 3,
     explanation: "Sporangiospores are asexual spores produced within a sac-like structure called sporangium.",
     difficulty: "medium"
   },
   {
     id: "d171l_023", subject: "da-171", lecture: "lecture-2", lectureNo: 2,
     question: "Powdery mildew fungi belong to:",
-    options: ["Zygomycetes", "Oomycetes", "Ascomycetes (order Erysiphales)", "Basidiomycetes"],
-    correct: 2,
+    options: ["Zygomycetes", "Oomycetes", "Basidiomycetes", "Ascomycetes (order Erysiphales)"],
+    correct: 3,
     explanation: "Powdery mildew fungi (Erysiphe, Sphaerotheca, Uncinula) belong to Ascomycetes.",
     difficulty: "medium"
   },
@@ -201,16 +201,16 @@ export const da171LectureQuestions: Question[] = [
   {
     id: "d171l_024", subject: "da-171", lecture: "lecture-3", lectureNo: 3,
     question: "Plant pathogenic bacteria are generally:",
-    options: ["Spore-forming anaerobes", "Acid-fast bacteria", "Gram-negative rods", "Gram-positive cocci"],
-    correct: 2,
+    options: ["Spore-forming anaerobes", "Acid-fast bacteria", "Gram-positive cocci", "Gram-negative rods"],
+    correct: 3,
     explanation: "Most plant pathogenic bacteria are Gram-negative rods (e.g., Xanthomonas, Pseudomonas, Erwinia).",
     difficulty: "medium"
   },
   {
     id: "d171l_025", subject: "da-171", lecture: "lecture-3", lectureNo: 3,
     question: "Citrus canker is caused by:",
-    options: ["Pseudomonas syringae", "Agrobacterium tumefaciens", "Erwinia carotovora", "Xanthomonas axonopodis pv. citri"],
-    correct: 3,
+    options: ["Xanthomonas axonopodis pv. citri", "Agrobacterium tumefaciens", "Erwinia carotovora", "Pseudomonas syringae"],
+    correct: 0,
     explanation: "Citrus canker is caused by the bacterium Xanthomonas axonopodis pv. citri.",
     difficulty: "medium"
   },
@@ -225,72 +225,72 @@ export const da171LectureQuestions: Question[] = [
   {
     id: "d171l_027", subject: "da-171", lecture: "lecture-3", lectureNo: 3,
     question: "Bacterial blight of rice is caused by:",
-    options: ["Burkholderia glumae", "Xanthomonas oryzae pv. oryzae", "Erwinia oryzae", "Pseudomonas glumae"],
-    correct: 1,
+    options: ["Burkholderia glumae", "Erwinia oryzae", "Xanthomonas oryzae pv. oryzae", "Pseudomonas glumae"],
+    correct: 2,
     explanation: "Bacterial blight of rice (Kresek / leaf scorch) is caused by Xanthomonas oryzae pv. oryzae.",
     difficulty: "medium"
   },
   {
     id: "d171l_028", subject: "da-171", lecture: "lecture-3", lectureNo: 3,
     question: "Phytoplasmas are transmitted by:",
-    options: ["Soil contact", "Leafhoppers (Cicadellidae)", "Wind", "Water"],
-    correct: 1,
+    options: ["Leafhoppers (Cicadellidae)", "Soil contact", "Wind", "Water"],
+    correct: 0,
     explanation: "Phytoplasmas are obligate intracellular parasites transmitted by phloem-feeding leafhoppers.",
     difficulty: "medium"
   },
   {
     id: "d171l_029", subject: "da-171", lecture: "lecture-3", lectureNo: 3,
     question: "Soft rot of vegetables is caused by:",
-    options: ["Erwinia carotovora", "Xanthomonas campestris", "Rhizoctonia solani", "Fusarium solani"],
-    correct: 0,
+    options: ["Rhizoctonia solani", "Xanthomonas campestris", "Erwinia carotovora", "Fusarium solani"],
+    correct: 2,
     explanation: "Bacterial soft rot of vegetables is caused by Erwinia carotovora (now Pectobacterium carotovorum).",
     difficulty: "medium"
   },
   {
     id: "d171l_030", subject: "da-171", lecture: "lecture-3", lectureNo: 3,
     question: "Phytoplasmas lack:",
-    options: ["Ribosomes", "Cell wall", "DNA", "Membrane"],
-    correct: 1,
+    options: ["Ribosomes", "Membrane", "DNA", "Cell wall"],
+    correct: 3,
     explanation: "Phytoplasmas are cell wall-less bacteria (mollicutes) that live in plant phloem.",
     difficulty: "medium"
   },
   {
     id: "d171l_031", subject: "da-171", lecture: "lecture-3", lectureNo: 3,
     question: "Little leaf disease of brinjal is caused by:",
-    options: ["Fungus", "Bacterium", "Phytoplasma", "Virus"],
-    correct: 2,
+    options: ["Phytoplasma", "Bacterium", "Fungus", "Virus"],
+    correct: 0,
     explanation: "Little leaf disease of brinjal is a phytoplasma disease transmitted by leafhopper Hishimonus phycitis.",
     difficulty: "medium"
   },
   {
     id: "d171l_032", subject: "da-171", lecture: "lecture-3", lectureNo: 3,
     question: "The characteristic symptom of bacterial disease on leaves is often:",
-    options: ["Orange-brown pustules", "Dark sooty mold", "Water-soaked lesions that turn necrotic", "White powdery coating"],
-    correct: 2,
+    options: ["Orange-brown pustules", "Water-soaked lesions that turn necrotic", "Dark sooty mold", "White powdery coating"],
+    correct: 1,
     explanation: "Bacterial infections typically cause water-soaked, greasy-looking lesions that turn necrotic.",
     difficulty: "medium"
   },
   {
     id: "d171l_033", subject: "da-171", lecture: "lecture-3", lectureNo: 3,
     question: "Wildfire disease of tobacco is caused by:",
-    options: ["Xanthomonas axonopodis", "Agrobacterium rhizogenes", "Erwinia", "Pseudomonas syringae pv. tabaci"],
-    correct: 3,
+    options: ["Xanthomonas axonopodis", "Pseudomonas syringae pv. tabaci", "Erwinia", "Agrobacterium rhizogenes"],
+    correct: 1,
     explanation: "Wildfire of tobacco is caused by Pseudomonas syringae pv. tabaci.",
     difficulty: "hard"
   },
   {
     id: "d171l_034", subject: "da-171", lecture: "lecture-3", lectureNo: 3,
     question: "Bacteria enter plants through:",
-    options: ["Stomata, hydathodes, and wounds", "All intact surfaces", "Cuticle only", "Root epidermis"],
-    correct: 0,
+    options: ["All intact surfaces", "Stomata, hydathodes, and wounds", "Cuticle only", "Root epidermis"],
+    correct: 1,
     explanation: "Bacteria typically enter plants through natural openings (stomata, hydathodes) or wounds.",
     difficulty: "medium"
   },
   {
     id: "d171l_035", subject: "da-171", lecture: "lecture-3", lectureNo: 3,
     question: "Antibiotic used to control bacterial plant diseases is:",
-    options: ["Streptomycin sulfate", "Carbendazim", "Monocrotophos", "Mancozeb"],
-    correct: 0,
+    options: ["Mancozeb", "Carbendazim", "Monocrotophos", "Streptomycin sulfate"],
+    correct: 3,
     explanation: "Streptomycin sulfate (often mixed with tetracycline) is used to control bacterial diseases in plants.",
     difficulty: "medium"
   },
@@ -299,32 +299,32 @@ export const da171LectureQuestions: Question[] = [
   {
     id: "d171l_036", subject: "da-171", lecture: "lecture-4", lectureNo: 4,
     question: "Plant viruses are composed of:",
-    options: ["DNA/RNA + protein coat (capsid)", "Peptidoglycan", "Chitin and protein", "Cellulose + lipid"],
-    correct: 0,
+    options: ["Chitin and protein", "Peptidoglycan", "DNA/RNA + protein coat (capsid)", "Cellulose + lipid"],
+    correct: 2,
     explanation: "Viruses consist of nucleic acid (DNA or RNA) surrounded by a protein coat called capsid.",
     difficulty: "easy"
   },
   {
     id: "d171l_037", subject: "da-171", lecture: "lecture-4", lectureNo: 4,
     question: "Tobacco mosaic virus (TMV) was the first virus to be:",
-    options: ["Transmitted by a vector", "Crystallized", "Cloned", "Photographed by electron microscopy"],
-    correct: 1,
+    options: ["Crystallized", "Transmitted by a vector", "Cloned", "Photographed by electron microscopy"],
+    correct: 0,
     explanation: "TMV was the first virus to be crystallized (by Wendell Stanley in 1935), proving viruses are chemical entities.",
     difficulty: "medium"
   },
   {
     id: "d171l_038", subject: "da-171", lecture: "lecture-4", lectureNo: 4,
     question: "Most plant viruses have _____ nucleic acid:",
-    options: ["Double-stranded DNA", "Double-stranded RNA", "Single-stranded DNA", "Single-stranded RNA"],
-    correct: 3,
+    options: ["Single-stranded RNA", "Double-stranded RNA", "Single-stranded DNA", "Double-stranded DNA"],
+    correct: 0,
     explanation: "The majority of plant viruses have single-stranded RNA as their genetic material.",
     difficulty: "medium"
   },
   {
     id: "d171l_039", subject: "da-171", lecture: "lecture-4", lectureNo: 4,
     question: "Viroids are:",
-    options: ["Small viruses for crop protection", "Modified bacteria in plant pathology", "Phytoplasmas in disease management", "Naked RNA molecules without protein coat"],
-    correct: 3,
+    options: ["Small viruses for crop protection", "Naked RNA molecules without protein coat", "Phytoplasmas in disease management", "Modified bacteria in plant pathology"],
+    correct: 1,
     explanation: "Viroids are the smallest known pathogens — small, circular RNA molecules with no protein coat.",
     difficulty: "medium"
   },
@@ -355,40 +355,40 @@ export const da171LectureQuestions: Question[] = [
   {
     id: "d171l_043", subject: "da-171", lecture: "lecture-4", lectureNo: 4,
     question: "Viruses can be transmitted by all of the following EXCEPT:",
-    options: ["Infected seed", "Insects (aphids, whitefly)", "Mechanical contact", "Soil bacteria directly"],
-    correct: 3,
+    options: ["Infected seed", "Insects (aphids, whitefly)", "Soil bacteria directly", "Mechanical contact"],
+    correct: 2,
     explanation: "Viruses are transmitted by insect vectors, infected propagating material, mechanical inoculation, and soil nematodes — not soil bacteria.",
     difficulty: "medium"
   },
   {
     id: "d171l_044", subject: "da-171", lecture: "lecture-4", lectureNo: 4,
     question: "The protein coat of a virus is called:",
-    options: ["Nucleoprotein", "Capsid", "Capsomere", "Nucleocapsid"],
-    correct: 1,
+    options: ["Nucleoprotein", "Nucleocapsid", "Capsomere", "Capsid"],
+    correct: 3,
     explanation: "The protein coat surrounding viral nucleic acid is called the capsid.",
     difficulty: "easy"
   },
   {
     id: "d171l_045", subject: "da-171", lecture: "lecture-4", lectureNo: 4,
     question: "Yellow mosaic disease of mungbean is caused by:",
-    options: ["Bean common mosaic virus", "Soybean mosaic virus", "Mungbean yellow mosaic virus (MYMV)", "Cowpea mosaic virus"],
-    correct: 2,
+    options: ["Bean common mosaic virus", "Soybean mosaic virus", "Cowpea mosaic virus", "Mungbean yellow mosaic virus (MYMV)"],
+    correct: 3,
     explanation: "Yellow mosaic of mungbean is caused by Mungbean yellow mosaic virus, transmitted by whitefly.",
     difficulty: "medium"
   },
   {
     id: "d171l_046", subject: "da-171", lecture: "lecture-4", lectureNo: 4,
     question: "Mosaic symptoms in virus-infected plants are due to:",
-    options: ["Uneven chlorophyll distribution", "Excess water", "Nutrient toxicity", "Fungal pigmentation"],
-    correct: 0,
+    options: ["Fungal pigmentation", "Excess water", "Nutrient toxicity", "Uneven chlorophyll distribution"],
+    correct: 3,
     explanation: "Mosaic symptoms result from uneven distribution of chlorophyll causing alternating green and yellow patches.",
     difficulty: "medium"
   },
   {
     id: "d171l_047", subject: "da-171", lecture: "lecture-4", lectureNo: 4,
     question: "Grassy shoot disease of sugarcane is caused by:",
-    options: ["Virus", "Phytoplasma", "Bacterium", "Fungus"],
-    correct: 1,
+    options: ["Virus", "Fungus", "Bacterium", "Phytoplasma"],
+    correct: 3,
     explanation: "Grassy shoot disease of sugarcane is caused by a phytoplasma, transmitted by leafhopper.",
     difficulty: "medium"
   },
@@ -405,32 +405,32 @@ export const da171LectureQuestions: Question[] = [
   {
     id: "d171l_049", subject: "da-171", lecture: "lecture-5", lectureNo: 5,
     question: "Covered smut / bunt of wheat is caused by:",
-    options: ["Ustilago nuda", "Ustilago tritici", "Puccinia graminis", "Tilletia caries"],
-    correct: 3,
+    options: ["Tilletia caries", "Ustilago tritici", "Puccinia graminis", "Ustilago nuda"],
+    correct: 0,
     explanation: "Covered smut (bunt) of wheat is caused by Tilletia caries (and T. foetida).",
     difficulty: "medium"
   },
   {
     id: "d171l_050", subject: "da-171", lecture: "lecture-5", lectureNo: 5,
     question: "Seed treatment with Carboxin + Thiram controls:",
-    options: ["Seed-borne smut diseases of cereals", "Viral diseases", "Soil-borne diseases only", "Nematodes"],
-    correct: 0,
+    options: ["Soil-borne diseases only", "Viral diseases", "Seed-borne smut diseases of cereals", "Nematodes"],
+    correct: 2,
     explanation: "Carboxin + Thiram seed treatment is effective against seed-borne smut diseases of cereals.",
     difficulty: "medium"
   },
   {
     id: "d171l_051", subject: "da-171", lecture: "lecture-5", lectureNo: 5,
     question: "Damping-off of seedlings is caused by:",
-    options: ["Pythium spp. and Rhizoctonia solani", "Xanthomonas spp.", "Alternaria spp.", "Puccinia spp."],
-    correct: 0,
+    options: ["Xanthomonas spp.", "Pythium spp. and Rhizoctonia solani", "Alternaria spp.", "Puccinia spp."],
+    correct: 1,
     explanation: "Damping-off is caused mainly by Pythium spp. (pre-emergence) and Rhizoctonia solani (post-emergence).",
     difficulty: "medium"
   },
   {
     id: "d171l_052", subject: "da-171", lecture: "lecture-5", lectureNo: 5,
     question: "Soil solarization is used to control:",
-    options: ["Viral diseases", "Soil-borne pathogens", "Bacterial leaf diseases", "Insect pests"],
-    correct: 1,
+    options: ["Soil-borne pathogens", "Viral diseases", "Bacterial leaf diseases", "Insect pests"],
+    correct: 0,
     explanation: "Soil solarization uses solar heat (by covering with polythene) to kill soil-borne pathogens, nematodes, and weed seeds.",
     difficulty: "medium"
   },
@@ -445,24 +445,24 @@ export const da171LectureQuestions: Question[] = [
   {
     id: "d171l_054", subject: "da-171", lecture: "lecture-5", lectureNo: 5,
     question: "Wilt disease is characteristically caused by:",
-    options: ["Foliar pathogens for crop protection", "Leaf-spotting fungi in plant pathology", "Root surface pathogens in disease management", "Vascular pathogens that block xylem (Fusarium, Verticillium)"],
-    correct: 3,
+    options: ["Foliar pathogens for crop protection", "Vascular pathogens that block xylem (Fusarium, Verticillium)", "Root surface pathogens in disease management", "Leaf-spotting fungi in plant pathology"],
+    correct: 1,
     explanation: "Wilt diseases are caused by vascular pathogens (Fusarium, Verticillium) that colonize and block xylem vessels.",
     difficulty: "medium"
   },
   {
     id: "d171l_055", subject: "da-171", lecture: "lecture-5", lectureNo: 5,
     question: "Hot water treatment of seeds is used to eradicate:",
-    options: ["Viruses inside seed", "All pathogens", "Surface-borne fungi and bacteria", "Nematodes in soil"],
-    correct: 2,
+    options: ["Viruses inside seed", "Surface-borne fungi and bacteria", "All pathogens", "Nematodes in soil"],
+    correct: 1,
     explanation: "Hot water seed treatment (50–55°C) eliminates externally and internally seed-borne fungi and bacteria.",
     difficulty: "medium"
   },
   {
     id: "d171l_056", subject: "da-171", lecture: "lecture-5", lectureNo: 5,
     question: "Biological control of soil-borne diseases uses:",
-    options: ["Insecticides in plant pathology", "Growth regulators", "Trichoderma viride and Pseudomonas fluorescens", "Synthetic fungicides"],
-    correct: 2,
+    options: ["Trichoderma viride and Pseudomonas fluorescens", "Growth regulators", "Insecticides in plant pathology", "Synthetic fungicides"],
+    correct: 0,
     explanation: "Trichoderma viride and P. fluorescens are bioagents used against soil-borne fungal pathogens.",
     difficulty: "medium"
   },
@@ -477,8 +477,8 @@ export const da171LectureQuestions: Question[] = [
   {
     id: "d171l_058", subject: "da-171", lecture: "lecture-5", lectureNo: 5,
     question: "Trichoderma viride is used as a:",
-    options: ["Plant growth promoter only", "Biocontrol agent against soil-borne pathogens", "Chemical fungicide", "Insecticide"],
-    correct: 1,
+    options: ["Biocontrol agent against soil-borne pathogens", "Plant growth promoter only", "Chemical fungicide", "Insecticide"],
+    correct: 0,
     explanation: "Trichoderma viride is a mycoparasite and antibiotic producer used for biocontrol of soil-borne pathogens.",
     difficulty: "medium"
   },
@@ -511,40 +511,40 @@ export const da171LectureQuestions: Question[] = [
   {
     id: "d171l_062", subject: "da-171", lecture: "lecture-6", lectureNo: 6,
     question: "Late blight of potato is caused by:",
-    options: ["Fusarium solani", "Phytophthora infestans", "Botrytis cinerea", "Alternaria solani"],
-    correct: 1,
+    options: ["Phytophthora infestans", "Fusarium solani", "Botrytis cinerea", "Alternaria solani"],
+    correct: 0,
     explanation: "Late blight of potato is caused by the oomycete Phytophthora infestans.",
     difficulty: "easy"
   },
   {
     id: "d171l_063", subject: "da-171", lecture: "lecture-6", lectureNo: 6,
     question: "Early blight of potato is caused by:",
-    options: ["Phytophthora infestans", "Cercospora solani", "Fusarium oxysporum", "Alternaria solani"],
-    correct: 3,
+    options: ["Phytophthora infestans", "Cercospora solani", "Alternaria solani", "Fusarium oxysporum"],
+    correct: 2,
     explanation: "Early blight of potato is caused by Alternaria solani.",
     difficulty: "medium"
   },
   {
     id: "d171l_064", subject: "da-171", lecture: "lecture-6", lectureNo: 6,
     question: "Powdery mildew is an _____ disease (based on mode of spread):",
-    options: ["Seed-borne", "Air-borne", "Soil-borne", "Water-borne"],
-    correct: 1,
+    options: ["Seed-borne", "Water-borne", "Soil-borne", "Air-borne"],
+    correct: 3,
     explanation: "Powdery mildew is an air-borne disease — conidia are spread by wind from infected plants.",
     difficulty: "easy"
   },
   {
     id: "d171l_065", subject: "da-171", lecture: "lecture-6", lectureNo: 6,
     question: "Downy mildew differs from powdery mildew in that downy mildew is caused by:",
-    options: ["Ascomycetes", "Oomycetes (Sclerospora, Peronosclerospora)", "Basidiomycetes", "Deuteromycetes"],
-    correct: 1,
+    options: ["Ascomycetes", "Deuteromycetes", "Basidiomycetes", "Oomycetes (Sclerospora, Peronosclerospora)"],
+    correct: 3,
     explanation: "Downy mildews are caused by oomycetes, while powdery mildews are caused by Ascomycetes (Erysiphales).",
     difficulty: "medium"
   },
   {
     id: "d171l_066", subject: "da-171", lecture: "lecture-6", lectureNo: 6,
     question: "Bordeaux mixture is a combination of:",
-    options: ["Carbendazim + mancozeb", "Copper sulphate + lime", "Sulphur + copper", "Zineb + thiram"],
-    correct: 1,
+    options: ["Carbendazim + mancozeb", "Sulphur + copper", "Copper sulphate + lime", "Zineb + thiram"],
+    correct: 2,
     explanation: "Bordeaux mixture = copper sulphate + slaked lime (Ca(OH)₂), a classical fungicide.",
     difficulty: "easy"
   },
@@ -559,8 +559,8 @@ export const da171LectureQuestions: Question[] = [
   {
     id: "d171l_068", subject: "da-171", lecture: "lecture-6", lectureNo: 6,
     question: "Cercospora leaf spot of groundnut is also called:",
-    options: ["Rust", "Blight", "Scorch", "Tikka disease"],
-    correct: 3,
+    options: ["Tikka disease", "Blight", "Scorch", "Rust"],
+    correct: 0,
     explanation: "Tikka disease refers to early and late leaf spots of groundnut caused by Cercospora spp.",
     difficulty: "easy"
   },
@@ -569,8 +569,8 @@ export const da171LectureQuestions: Question[] = [
   {
     id: "d171l_069", subject: "da-171", lecture: "lecture-7", lectureNo: 7,
     question: "A fungicide that inhibits ergosterol biosynthesis is:",
-    options: ["Bordeaux mixture", "Mancozeb (contact)", "Copper oxychloride", "Propiconazole (systemic)"],
-    correct: 3,
+    options: ["Bordeaux mixture", "Mancozeb (contact)", "Propiconazole (systemic)", "Copper oxychloride"],
+    correct: 2,
     explanation: "Propiconazole (a triazole) inhibits ergosterol biosynthesis in fungal cell membranes.",
     difficulty: "medium"
   },
@@ -601,8 +601,8 @@ export const da171LectureQuestions: Question[] = [
   {
     id: "d171l_073", subject: "da-171", lecture: "lecture-7", lectureNo: 7,
     question: "Carbendazim belongs to which group of fungicides?",
-    options: ["Benzimidazoles", "Organochlorines", "Triazoles", "Dithiocarbamates"],
-    correct: 0,
+    options: ["Organochlorines", "Benzimidazoles", "Triazoles", "Dithiocarbamates"],
+    correct: 1,
     explanation: "Carbendazim is a benzimidazole fungicide that inhibits tubulin polymerization.",
     difficulty: "medium"
   },
@@ -617,16 +617,16 @@ export const da171LectureQuestions: Question[] = [
   {
     id: "d171l_075", subject: "da-171", lecture: "lecture-7", lectureNo: 7,
     question: "Which cultural practice helps prevent soil-borne diseases?",
-    options: ["Monocropping", "Close plant spacing", "Crop rotation", "Heavy fertilization"],
-    correct: 2,
+    options: ["Monocropping", "Crop rotation", "Close plant spacing", "Heavy fertilization"],
+    correct: 1,
     explanation: "Crop rotation breaks the disease cycle by removing the host plant and reducing pathogen buildup in soil.",
     difficulty: "easy"
   },
   {
     id: "d171l_076", subject: "da-171", lecture: "lecture-7", lectureNo: 7,
     question: "Strobilurin fungicides work by:",
-    options: ["Inhibiting ergosterol synthesis", "Disrupting cell membranes", "Inhibiting mitochondrial respiration (Qo site)", "Inhibiting tubulin"],
-    correct: 2,
+    options: ["Inhibiting ergosterol synthesis", "Disrupting cell membranes", "Inhibiting tubulin", "Inhibiting mitochondrial respiration (Qo site)"],
+    correct: 3,
     explanation: "Strobilurin fungicides (azoxystrobin, trifloxystrobin) inhibit electron transfer in mitochondria.",
     difficulty: "hard"
   },
@@ -641,8 +641,8 @@ export const da171LectureQuestions: Question[] = [
   {
     id: "d171l_078", subject: "da-171", lecture: "lecture-7", lectureNo: 7,
     question: "Hypersensitive reaction (HR) in plants is a form of:",
-    options: ["Nutrient uptake", "Disease resistance mechanism", "Photosynthesis", "Susceptibility"],
-    correct: 1,
+    options: ["Disease resistance mechanism", "Nutrient uptake", "Photosynthesis", "Susceptibility"],
+    correct: 0,
     explanation: "Hypersensitive reaction is a rapid cell death response at infection site that limits pathogen spread.",
     difficulty: "medium"
   },
@@ -651,8 +651,8 @@ export const da171LectureQuestions: Question[] = [
   {
     id: "d171l_079", subject: "da-171", lecture: "lecture-8", lectureNo: 8,
     question: "Rhizobium forms symbiotic association with:",
-    options: ["All grasses", "Rice roots", "Legume roots for N₂ fixation", "Mycorrhizal fungi"],
-    correct: 2,
+    options: ["All grasses", "Legume roots for N₂ fixation", "Rice roots", "Mycorrhizal fungi"],
+    correct: 1,
     explanation: "Rhizobium bacteria form symbiotic nitrogen-fixing nodules on the roots of leguminous plants.",
     difficulty: "easy"
   },
@@ -675,16 +675,16 @@ export const da171LectureQuestions: Question[] = [
   {
     id: "d171l_082", subject: "da-171", lecture: "lecture-8", lectureNo: 8,
     question: "Azolla is used as a biofertilizer in rice because it:",
-    options: ["Releases potassium in plant pathology", "Fixes phosphorus in disease management", "Controls weeds for crop protection", "Has symbiotic cyanobacterium Anabaena that fixes N₂"],
-    correct: 3,
+    options: ["Has symbiotic cyanobacterium Anabaena that fixes N₂", "Fixes phosphorus in disease management", "Controls weeds for crop protection", "Releases potassium in plant pathology"],
+    correct: 0,
     explanation: "Azolla (water fern) contains the cyanobacterium Anabaena azollae which fixes atmospheric nitrogen.",
     difficulty: "medium"
   },
   {
     id: "d171l_083", subject: "da-171", lecture: "lecture-8", lectureNo: 8,
     question: "Phosphate Solubilizing Bacteria (PSB) improve plant nutrition by:",
-    options: ["Controlling soil pH", "Fixing nitrogen", "Solubilizing insoluble phosphates to plant-available forms", "Producing growth hormones only"],
-    correct: 2,
+    options: ["Controlling soil pH", "Solubilizing insoluble phosphates to plant-available forms", "Fixing nitrogen", "Producing growth hormones only"],
+    correct: 1,
     explanation: "PSB (Bacillus, Pseudomonas) solubilize fixed soil phosphates through organic acid production.",
     difficulty: "medium"
   },
@@ -707,40 +707,40 @@ export const da171LectureQuestions: Question[] = [
   {
     id: "d171l_086", subject: "da-171", lecture: "lecture-8", lectureNo: 8,
     question: "Vesicular Arbuscular Mycorrhiza (VAM) is especially important for:",
-    options: ["Phosphorus uptake in low-P soils", "Nitrogen fixation", "Water exclusion", "Carbon dioxide fixation"],
-    correct: 0,
+    options: ["Carbon dioxide fixation", "Nitrogen fixation", "Water exclusion", "Phosphorus uptake in low-P soils"],
+    correct: 3,
     explanation: "VAM fungi greatly enhance phosphorus uptake by extending the root absorption area via external hyphae.",
     difficulty: "medium"
   },
   {
     id: "d171l_087", subject: "da-171", lecture: "lecture-8", lectureNo: 8,
     question: "Vermicomposting uses:",
-    options: ["Fungi only", "Earthworms to decompose organic matter", "High temperature composting", "Chemical reactions"],
-    correct: 1,
+    options: ["Earthworms to decompose organic matter", "Fungi only", "High temperature composting", "Chemical reactions"],
+    correct: 0,
     explanation: "Vermicomposting uses earthworms (Eisenia foetida, Lumbricus) to decompose organic waste into nutrient-rich compost.",
     difficulty: "easy"
   },
   {
     id: "d171l_088", subject: "da-171", lecture: "lecture-8", lectureNo: 8,
     question: "Pseudomonas fluorescens is used as a biocontrol agent against:",
-    options: ["Insects in plant pathology", "Viral diseases", "Nematodes in disease management", "Soil-borne fungal pathogens (produces antibiotics)"],
-    correct: 3,
+    options: ["Insects in plant pathology", "Soil-borne fungal pathogens (produces antibiotics)", "Nematodes in disease management", "Viral diseases"],
+    correct: 1,
     explanation: "P. fluorescens produces antibiotics (phenazines, 2,4-DAPG) and siderophores effective against soil-borne pathogens.",
     difficulty: "medium"
   },
   {
     id: "d171l_089", subject: "da-171", lecture: "lecture-8", lectureNo: 8,
     question: "Bacillus thuringiensis (Bt) is used to control:",
-    options: ["Bacterial diseases", "Lepidopteran pests (caterpillars)", "Fungal diseases", "Nematodes"],
-    correct: 1,
+    options: ["Bacterial diseases", "Fungal diseases", "Lepidopteran pests (caterpillars)", "Nematodes"],
+    correct: 2,
     explanation: "Bt produces crystal proteins (Cry toxins) that are specifically toxic to caterpillars and some other insects.",
     difficulty: "easy"
   },
   {
     id: "d171l_090", subject: "da-171", lecture: "lecture-8", lectureNo: 8,
     question: "The enzyme responsible for biological nitrogen fixation is:",
-    options: ["Urease", "Nitrogenase", "Nitrate reductase", "Amylase"],
-    correct: 1,
+    options: ["Nitrogenase", "Urease", "Nitrate reductase", "Amylase"],
+    correct: 0,
     explanation: "Nitrogenase enzyme complex (Mo-Fe protein + Fe protein) catalyzes the conversion of N₂ to NH₃.",
     difficulty: "medium"
   },
@@ -762,8 +762,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Fungi are eukaryotic, spore bearing, achlorophyllous organisms whose cell walls consist of",
-    options: ["lignin and suberin", "chitin or cellulose or both", "cellulose only", "peptidoglycan"],
-    correct: 1,
+    options: ["lignin and suberin", "peptidoglycan", "cellulose only", "chitin or cellulose or both"],
+    correct: 3,
     explanation: "As per DA-171 notes: Fungi are eukaryotic, spore bearing, achlorophyllous organisms with filamentous structures typically surrounded by cell walls consisting chitin or cellulose or both."
   },
   {
@@ -772,8 +772,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Bacteria infect plants through",
-    options: ["wounds or natural openings (stomata and lenticels)", "haustoria in disease management", "cuticle penetration only in plant pathology", "root nodules for crop protection"],
-    correct: 0,
+    options: ["cuticle penetration only in plant pathology", "haustoria in disease management", "wounds or natural openings (stomata and lenticels)", "root nodules for crop protection"],
+    correct: 2,
     explanation: "As per DA-171 notes: Bacteria infect plants through wounds or natural openings (eg stomata and lenticels)."
   },
   {
@@ -782,8 +782,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Phytoplasmas are found in which plant tissue?",
-    options: ["xylem vessels", "mesophyll in plant pathology", "epidermis in disease management", "sieve tube cells of phloem"],
-    correct: 3,
+    options: ["xylem vessels", "sieve tube cells of phloem", "epidermis in disease management", "mesophyll in plant pathology"],
+    correct: 1,
     explanation: "As per DA-171 notes: Phytoplasmas are found in the sieve tube cells of plant phloem tissue."
   },
   {
@@ -792,8 +792,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Phytoplasmas are mainly transmitted by",
-    options: ["aphids only", "phloem-feeding leafhoppers and plant hoppers", "whiteflies in disease management", "thrips in plant pathology"],
-    correct: 1,
+    options: ["aphids only", "thrips in plant pathology", "whiteflies in disease management", "phloem-feeding leafhoppers and plant hoppers"],
+    correct: 3,
     explanation: "As per DA-171 notes: Most phytoplasmas are transmitted by phloem-feeding leafhoppers and plant hoppers."
   },
   {
@@ -802,8 +802,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "A virus consists of nucleic acid surrounded by a protein coat called",
-    options: ["capsid", "cell wall", "membrane", "coat protein"],
-    correct: 0,
+    options: ["membrane", "cell wall", "capsid", "coat protein"],
+    correct: 2,
     explanation: "As per DA-171 notes: Viruses are comprised of a protein coat or shell called a capsid, surrounding a genome of RNA or DNA."
   },
   {
@@ -812,8 +812,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Nematodes obtain food from living plants using",
-    options: ["spears or stylets", "haustoria", "hyphae", "enzymes"],
-    correct: 0,
+    options: ["hyphae", "haustoria", "spears or stylets", "enzymes"],
+    correct: 2,
     explanation: "As per DA-171 notes: Plant pathogenic nematodes obtain their food from living plants using spears or stylets thereby causing diseases."
   },
   {
@@ -832,8 +832,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Cuscuta is an example of which type of phanerogamic parasite?",
-    options: ["Stem parasite", "Root parasite", "Leaf parasite", "Fruit parasite"],
-    correct: 0,
+    options: ["Leaf parasite", "Root parasite", "Stem parasite", "Fruit parasite"],
+    correct: 2,
     explanation: "As per DA-171 notes: Stem parasites - Cuscuta, Loranthus; Root parasites - Orabanche, Striga."
   },
   {
@@ -842,8 +842,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Sign in plant pathology refers to",
-    options: ["loss of yield in plant pathology", "disease severity according to plant pathology and disease management science", "pathogen or its parts or products seen on host plant", "symptom on the plant for crop protection"],
-    correct: 2,
+    options: ["loss of yield in plant pathology", "disease severity according to plant pathology and disease management science", "symptom on the plant for crop protection", "pathogen or its parts or products seen on host plant"],
+    correct: 3,
     explanation: "As per DA-171 notes: Sign = the pathogen or its parts or products seen on a host plant."
   },
   {
@@ -852,8 +852,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Inoculum in plant pathology refers to",
-    options: ["any foreign material according to plant pathology and disease management science", "the part of the pathogen which on contact with susceptible host causes infection", "the symptom according to plant pathology and disease management science", "the chemical used for control in disease management"],
-    correct: 1,
+    options: ["any foreign material according to plant pathology and disease management science", "the symptom according to plant pathology and disease management science", "the part of the pathogen which on contact with susceptible host causes infection", "the chemical used for control in disease management"],
+    correct: 2,
     explanation: "As per DA-171 notes: Inoculum is the part of the pathogen which on contact with susceptible host plant causes infection."
   },
   {
@@ -862,8 +862,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "An epidemic disease example is Late Blight of potato which caused the Irish famine in",
-    options: ["1830", "1900", "1845", "1865"],
-    correct: 2,
+    options: ["1845", "1900", "1830", "1865"],
+    correct: 0,
     explanation: "As per DA-171 notes: Epidemic disease - usually occurs widely but periodically in destructive form. Ex: Late blight of potato - Irish famine (1845)."
   },
   {
@@ -872,8 +872,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "An endemic disease is one that is",
-    options: ["occurs periodically in destructive form in plant pathology", "constantly present in moderate to severe form confined to particular area", "occurs at irregular intervals in disease management", "very sporadic according to plant pathology and disease management science"],
-    correct: 1,
+    options: ["occurs periodically in destructive form in plant pathology", "very sporadic according to plant pathology and disease management science", "occurs at irregular intervals in disease management", "constantly present in moderate to severe form confined to particular area"],
+    correct: 3,
     explanation: "As per DA-171 notes: Endemic - constantly present in moderate to severe form and confined to a particular country or district. Ex: Club root of cabbage in Nilgiris."
   },
   {
@@ -882,8 +882,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Downy mildews develop under which conditions?",
-    options: ["Low temperature and humid conditions", "Dry and hot conditions", "High temperature, high humidity", "High temperature, low humidity"],
-    correct: 0,
+    options: ["High temperature, low humidity", "Dry and hot conditions", "High temperature, high humidity", "Low temperature and humid conditions"],
+    correct: 3,
     explanation: "As per DA-171 notes: Downy mildews develop under low temperature and humid conditions, white or grey bloom on under surface of leaves."
   },
   {
@@ -892,8 +892,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Smut affected plant parts show",
-    options: ["yellow spots in plant pathology", "red pustules in disease management", "black or purplish black dusty mass on floral organs", "white powdery mass for crop protection"],
-    correct: 2,
+    options: ["yellow spots in plant pathology", "black or purplish black dusty mass on floral organs", "red pustules in disease management", "white powdery mass for crop protection"],
+    correct: 1,
     explanation: "As per DA-171 notes: Smuts - smut affected parts show a black or purplish black dusty mass usually appearing on floral organs."
   },
   {
@@ -902,8 +902,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Damping-off is caused by which pathogens?",
-    options: ["Ustilago and Tilletia", "Pythium, Phytophthora, Fusarium", "Alternaria and Cercospora", "Erysiphe and Peronospora"],
-    correct: 1,
+    options: ["Pythium, Phytophthora, Fusarium", "Ustilago and Tilletia", "Alternaria and Cercospora", "Erysiphe and Peronospora"],
+    correct: 0,
     explanation: "As per DA-171 notes: Damping-off is caused by Pythium, Phytophthora, Fusarium."
   },
   {
@@ -922,8 +922,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Vein clearing viral disease shows",
-    options: ["uniform yellowing in plant pathology", "tissue along vein is green, between veins is chlorotic", "tissue close to vein is yellow, remaining area is green", "circular chlorosis with green centre in disease management"],
-    correct: 2,
+    options: ["uniform yellowing in plant pathology", "tissue close to vein is yellow, remaining area is green", "tissue along vein is green, between veins is chlorotic", "circular chlorosis with green centre in disease management"],
+    correct: 1,
     explanation: "As per DA-171 notes: Vein clearing - tissue close to vein is yellow and remaining area is green. Eg vein clearing of bhendi."
   },
   {
@@ -932,8 +932,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Bacterial soft rot is characterized by",
-    options: ["powdery masses in plant pathology", "dry corky tissue in disease management", "soft, watery tissue with slimy foul smelling ooze", "black pustules for crop protection"],
-    correct: 2,
+    options: ["powdery masses in plant pathology", "dry corky tissue in disease management", "black pustules for crop protection", "soft, watery tissue with slimy foul smelling ooze"],
+    correct: 3,
     explanation: "As per DA-171 notes: Bacterial soft rots - bacteria produce enzymes causing disintegration of cells and rotting of tissue becomes soft and watery, contains slimy foul smelling ooze."
   },
   {
@@ -952,8 +952,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Soils which are saturated by soil borne pathogens are called",
-    options: ["infected soils", "diseased soils", "dead soils", "sick soils"],
-    correct: 3,
+    options: ["sick soils", "diseased soils", "dead soils", "infected soils"],
+    correct: 0,
     explanation: "As per DA-171 notes: Soils which are saturated by the pathogen are often referred as sick soils - crop rotation is adopted to reduce severity."
   },
   {
@@ -992,8 +992,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "In Avoidance principle of disease management, sick soils refer to fields with",
-    options: ["continuous cultivation of same crop causing pathogen saturation", "waterlogging according to plant pathology and disease management science", "high pH in disease management", "chemical toxicity for crop protection"],
-    correct: 0,
+    options: ["high pH in disease management", "waterlogging according to plant pathology and disease management science", "continuous cultivation of same crop causing pathogen saturation", "chemical toxicity for crop protection"],
+    correct: 2,
     explanation: "As per DA-171 notes: Continuous cultivation of same crop in same field helps perpetuation of pathogen in soil; such soils are called sick soils."
   },
   {
@@ -1012,8 +1012,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Biological control agent Trichoderma viride is used in plant disease management for which principle?",
-    options: ["Protection", "Avoidance", "Eradication", "Exclusion"],
-    correct: 2,
+    options: ["Protection", "Avoidance", "Exclusion", "Eradication"],
+    correct: 3,
     explanation: "As per DA-171 notes: Biological methods under Eradication principle - Trichoderma viride, Pseudomonas fluorescens reduce intensity of pathogen."
   },
   {
@@ -1022,8 +1022,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Seed treatment with Metalaxyl (Apron 35 SD) @ 4g/kg seed is recommended for management of",
-    options: ["Powdery mildews", "Rusts", "Downy mildews", "Smuts"],
-    correct: 2,
+    options: ["Downy mildews", "Rusts", "Powdery mildews", "Smuts"],
+    correct: 0,
     explanation: "As per DA-171 notes: Downy mildews management includes seed treatment with Metalaxyl (Apron 35 SD) @4g/kg seed."
   },
   {
@@ -1032,8 +1032,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Carbendazim @ 2g/kg seed is used for seed treatment for management of",
-    options: ["Rusts", "Wilts", "Downy mildews", "Smuts"],
-    correct: 1,
+    options: ["Wilts", "Rusts", "Downy mildews", "Smuts"],
+    correct: 0,
     explanation: "As per DA-171 notes: Wilts management includes seed treatment with carbendazim @ 2g/kg seed."
   },
   {
@@ -1052,8 +1052,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Plant quarantine is a principle applied under which disease management strategy?",
-    options: ["Exclusion", "Eradication", "Avoidance", "Protection"],
-    correct: 0,
+    options: ["Protection", "Eradication", "Avoidance", "Exclusion"],
+    correct: 3,
     explanation: "As per DA-171 notes: Exclusion methods include plant quarantine regulations - legal restriction on movement of agricultural commodities for excluding pests and diseases."
   },
   {
@@ -1062,8 +1062,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-12",
     lectureNo: 12,
     question: "Wilting of plants is caused by",
-    options: ["excess water according to plant pathology and disease management science", "viral infection only according to plant pathology and disease management science", "insect damage only according to plant pathology and disease management science", "injury to root system, plugging of vessels or toxic substances from pathogen"],
-    correct: 3,
+    options: ["excess water according to plant pathology and disease management science", "viral infection only according to plant pathology and disease management science", "injury to root system, plugging of vessels or toxic substances from pathogen", "insect damage only according to plant pathology and disease management science"],
+    correct: 2,
     explanation: "As per DA-171 notes: Wilting may be result of injury to root system, partial plugging of water conducting vessels or toxic substances secreted by pathogen."
   },
   {
@@ -1072,8 +1072,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Rusts appear as relatively small pustules of spores in which colours?",
-    options: ["Green or blue", "White or grey", "Black or purplish", "Red, brown, yellow or black"],
-    correct: 3,
+    options: ["Red, brown, yellow or black", "White or grey", "Black or purplish", "Green or blue"],
+    correct: 0,
     explanation: "As per DA-171 notes: Rusts appear as relatively small pustules of spores, red, brown, yellow or black in colour."
   },
   {
@@ -1092,8 +1092,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Anthracnose disease appears as",
-    options: ["circular to angular spots occurring along leaf veins, petioles, stems and fruits", "downy growth according to plant pathology and disease management science", "powdery growth according to plant pathology and disease management science", "yellow patches according to plant pathology and disease management science"],
-    correct: 0,
+    options: ["yellow patches according to plant pathology and disease management science", "downy growth according to plant pathology and disease management science", "powdery growth according to plant pathology and disease management science", "circular to angular spots occurring along leaf veins, petioles, stems and fruits"],
+    correct: 3,
     explanation: "As per DA-171 notes: Anthracnose - circular to angular, sometimes irregular spots occurring along the leaf veins, petioles, stems and fruits."
   },
   {
@@ -1122,8 +1122,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-17",
     lectureNo: 17,
     question: "Paddy Tungro disease is transmitted by which insect vector?",
-    options: ["Green leafhopper", "Whitefly", "Thrips", "Brown plant hopper"],
-    correct: 0,
+    options: ["Brown plant hopper", "Whitefly", "Thrips", "Green leafhopper"],
+    correct: 3,
     explanation: "As per DA-171 notes: Paddy - Tungro virus disease is transmitted by green leafhopper."
   },
   {
@@ -1132,8 +1132,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-21",
     lectureNo: 21,
     question: "Red rot of sugarcane is caused by which pathogen?",
-    options: ["Phytoplasma", "Colletotrichum falcatum (fungus)", "Xanthomonas albilineans", "Ustilago scitaminea"],
-    correct: 1,
+    options: ["Phytoplasma", "Ustilago scitaminea", "Xanthomonas albilineans", "Colletotrichum falcatum (fungus)"],
+    correct: 3,
     explanation: "As per DA-171 notes: Sugarcane - Red rot is caused by Colletotrichum falcatum, a fungal pathogen."
   },
   {
@@ -1142,8 +1142,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-22",
     lectureNo: 22,
     question: "Groundnut Tikka disease is caused by",
-    options: ["Tomato spotted wilt virus in plant pathology", "Aspergillus niger in disease management", "Puccinia arachidis for crop protection", "Cercospora arachidicola (early Tikka) and Cercosporidium personatum (late Tikka)"],
-    correct: 3,
+    options: ["Tomato spotted wilt virus in plant pathology", "Cercospora arachidicola (early Tikka) and Cercosporidium personatum (late Tikka)", "Puccinia arachidis for crop protection", "Aspergillus niger in disease management"],
+    correct: 1,
     explanation: "As per DA-171 notes: Groundnut - Tikka spot (early and late leaf spots) are major fungal diseases of groundnut caused by Cercospora species."
   },
   {
@@ -1152,8 +1152,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-26",
     lectureNo: 26,
     question: "Sterility Mosaic is a major viral disease of",
-    options: ["Redgram (pigeonpea)", "Cotton", "Green gram", "Sunflower"],
-    correct: 0,
+    options: ["Green gram", "Cotton", "Redgram (pigeonpea)", "Sunflower"],
+    correct: 2,
     explanation: "As per DA-171 notes: Redgram - wilt, sterility mosaic, bacterial leaf spot are major diseases."
   },
   {
@@ -1162,8 +1162,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-28",
     lectureNo: 28,
     question: "Ascochyta blight is a major disease of",
-    options: ["Green gram", "Redgram", "Bengal gram (chickpea)", "Black gram"],
-    correct: 2,
+    options: ["Bengal gram (chickpea)", "Redgram", "Green gram", "Black gram"],
+    correct: 0,
     explanation: "As per DA-171 notes: Lecture 28 - Bengal gram (chickpea) - wilt, Ascocyta blight are major diseases."
   },
   {
@@ -1172,8 +1172,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-27",
     lectureNo: 27,
     question: "Yellow mosaic is a major disease of",
-    options: ["Sorghum for crop protection", "Sunflower in plant pathology", "Castor in disease management", "Green gram and Black gram"],
-    correct: 3,
+    options: ["Sorghum for crop protection", "Green gram and Black gram", "Castor in disease management", "Sunflower in plant pathology"],
+    correct: 1,
     explanation: "As per DA-171 notes: Green gram and Black gram - yellow mosaic is listed as a major disease."
   },
   {
@@ -1182,8 +1182,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-43",
     lectureNo: 43,
     question: "Phytophthora blight is a major disease of",
-    options: ["Cucurbits", "Bhendi", "Tomato", "Brinjal"],
-    correct: 2,
+    options: ["Tomato", "Bhendi", "Cucurbits", "Brinjal"],
+    correct: 0,
     explanation: "As per DA-171 notes: Lecture 43 - Tomato: Phytophthora blight, Alternaria blight, Fusarium wilt, Bacterial wilt are major diseases."
   },
   {
@@ -1192,8 +1192,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-41",
     lectureNo: 41,
     question: "Yellow Vein Mosaic is a major disease of",
-    options: ["Chilli", "Cucumber", "Bhendi", "Tomato"],
-    correct: 2,
+    options: ["Chilli", "Bhendi", "Cucumber", "Tomato"],
+    correct: 1,
     explanation: "As per DA-171 notes: Lecture 41 - Bhendi - Powdery mildew, Yellow vein mosaic are major diseases."
   },
   {
@@ -1202,8 +1202,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-45",
     lectureNo: 45,
     question: "Ganoderma root rot is a major disease of",
-    options: ["Guava", "Coconut", "Banana", "Mango"],
-    correct: 1,
+    options: ["Guava", "Banana", "Coconut", "Mango"],
+    correct: 2,
     explanation: "As per DA-171 notes: Lecture 45 - Coconut: Budrot, Ganoderma root rot, stem bleeding are major diseases."
   },
   {
@@ -1212,8 +1212,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-35",
     lectureNo: 35,
     question: "Sigatoka leaf spot is a major disease of",
-    options: ["Papaya", "Banana", "Mango", "Guava"],
-    correct: 1,
+    options: ["Banana", "Papaya", "Mango", "Guava"],
+    correct: 0,
     explanation: "As per DA-171 notes: Lecture 35 - Banana: Anthracnose, Sigatoka leaf spot are major diseases."
   },
   {
@@ -1222,8 +1222,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-39",
     lectureNo: 39,
     question: "Dieback disease is a major problem in",
-    options: ["Cotton and Wheat", "Rice and Maize", "Mango and Chilli", "Banana and Coconut"],
-    correct: 2,
+    options: ["Cotton and Wheat", "Rice and Maize", "Banana and Coconut", "Mango and Chilli"],
+    correct: 3,
     explanation: "As per DA-171 notes: Chilli - seedling rot, Dieback, Fruit rot are major diseases. Also rose dieback is listed."
   },
   {
@@ -1242,8 +1242,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-33",
     lectureNo: 33,
     question: "Canker and wilt are major diseases of",
-    options: ["Papaya", "Citrus", "Mango", "Guava"],
-    correct: 3,
+    options: ["Papaya", "Citrus", "Guava", "Mango"],
+    correct: 2,
     explanation: "As per DA-171 notes: Lecture 33 - Guava: canker, wilt are major diseases."
   },
   {
@@ -1252,8 +1252,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-19",
     lectureNo: 19,
     question: "Stem rot is a disease of which crop?",
-    options: ["Maize", "Cotton", "Groundnut", "Paddy"],
-    correct: 0,
+    options: ["Cotton", "Maize", "Groundnut", "Paddy"],
+    correct: 1,
     explanation: "As per DA-171 notes: Lecture 19 - Maize: Leaf blight, stem rot, sheath blight are major diseases."
   },
   {
@@ -1262,8 +1262,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-20",
     lectureNo: 20,
     question: "Green ear of pearl millet (Bajra) is an example of which symptom type?",
-    options: ["Damping-off in plant pathology", "Wilt in disease management", "Blight for crop protection", "Hypertrophy - transformation of plant parts"],
-    correct: 3,
+    options: ["Hypertrophy - transformation of plant parts", "Wilt in disease management", "Blight for crop protection", "Damping-off in plant pathology"],
+    correct: 0,
     explanation: "As per DA-171 notes: Transformation of plant parts - earheads converted into green leaf like structures. Eg: Green ear of pearl millet."
   },
   {
@@ -1272,8 +1272,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Club root of cabbage is an example of which disease symptom?",
-    options: ["Wilt", "Blight", "Gall formation (hypertrophy)", "Damping-off"],
-    correct: 2,
+    options: ["Wilt", "Gall formation (hypertrophy)", "Blight", "Damping-off"],
+    correct: 1,
     explanation: "As per DA-171 notes: Galls are malformations of globose, elongate or irregular shape. Eg: Club root of cabbage, Stem gall of coriander."
   },
   {
@@ -1282,8 +1282,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-23",
     lectureNo: 23,
     question: "Botrytis is a major disease of",
-    options: ["Gingelly", "Castor", "Sunflower", "Groundnut"],
-    correct: 1,
+    options: ["Gingelly", "Sunflower", "Castor", "Groundnut"],
+    correct: 2,
     explanation: "As per DA-171 notes: Lecture 23 - Castor: Wilt, Botrytis are major diseases."
   },
   {
@@ -1292,8 +1292,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-24",
     lectureNo: 24,
     question: "Phyllody is a major disease of",
-    options: ["Castor", "Cotton", "Sunflower", "Gingelly (Sesame)"],
-    correct: 3,
+    options: ["Castor", "Cotton", "Gingelly (Sesame)", "Sunflower"],
+    correct: 2,
     explanation: "As per DA-171 notes: Lecture 24 - Gingelly (Sesame): diseases include Powdery mildew, cercospora spot, Alternaria spot, Bacterial leaf blight, Root and stem rot, phyllody."
   },
   {
@@ -1302,8 +1302,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Bacteria enter plants most frequently through",
-    options: ["wounds and less frequently through natural openings", "haustorium formation in disease management", "direct cuticle penetration in plant pathology", "special infection pegs for crop protection"],
-    correct: 0,
+    options: ["special infection pegs for crop protection", "haustorium formation in disease management", "direct cuticle penetration in plant pathology", "wounds and less frequently through natural openings"],
+    correct: 3,
     explanation: "As per DA-171 notes: Bacteria enter plants mostly through wounds and less frequently through natural openings."
   },
   {
@@ -1322,8 +1322,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Soil solarization is a method used for management of",
-    options: ["Powdery mildews", "Rusts", "Wilts", "Downy mildews"],
-    correct: 2,
+    options: ["Wilts", "Rusts", "Powdery mildews", "Downy mildews"],
+    correct: 0,
     explanation: "As per DA-171 notes: Wilts management includes soil solarization."
   },
   {
@@ -1332,8 +1332,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Addition of heavy doses of organic matter (green manure crops) to soil helps in wilt management by",
-    options: ["killing the pathogen directly", "alkalizing the soil in plant pathology", "acidifying the soil in disease management", "enhancing antagonistic micro-organisms that suppress pathogen activity"],
-    correct: 3,
+    options: ["enhancing antagonistic micro-organisms that suppress pathogen activity", "alkalizing the soil in plant pathology", "acidifying the soil in disease management", "killing the pathogen directly"],
+    correct: 0,
     explanation: "As per DA-171 notes: Addition of heavy doses of organic matter to soil suppresses wilt pathogen activity by enhancing antagonistic micro-organisms."
   },
   {
@@ -1342,8 +1342,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Spray application of Karathane 0.1% (Dinocap) is recommended for management of",
-    options: ["Powdery mildews", "Downy mildews", "Bacterial blights", "Root rots"],
-    correct: 0,
+    options: ["Bacterial blights", "Downy mildews", "Powdery mildews", "Root rots"],
+    correct: 2,
     explanation: "As per DA-171 notes: Powdery mildews management includes spraying with Karathane 0.1% (Dinocap) or Benomyl."
   },
   {
@@ -1352,8 +1352,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Loose smut of wheat is caused by",
-    options: ["Alternaria triticina", "Ustilago tritici", "Puccinia graminis", "Erysiphe tritici"],
-    correct: 1,
+    options: ["Alternaria triticina", "Puccinia graminis", "Ustilago tritici", "Erysiphe tritici"],
+    correct: 2,
     explanation: "As per DA-171 notes: Loose smut of wheat - Ustilago tritici is an example of smut disease."
   },
   {
@@ -1362,8 +1362,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Nematodes belong to which phylum?",
-    options: ["Arthropoda", "Annelida", "Nematoda", "Mollusca"],
-    correct: 2,
+    options: ["Arthropoda", "Annelida", "Mollusca", "Nematoda"],
+    correct: 3,
     explanation: "As per DA-171 notes: All parasitic nematodes belong to the Phylum Nematoda."
   },
   {
@@ -1372,8 +1372,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Crown gall of apple is caused by which type of pathogen?",
-    options: ["Bacteria", "Virus", "Fungus", "Nematode"],
-    correct: 0,
+    options: ["Virus", "Bacteria", "Fungus", "Nematode"],
+    correct: 1,
     explanation: "As per DA-171 notes: Bacterial Galls/tumors - bacteria present in soil gain entry through wounds. Ex: Crown gall of Apple."
   },
   {
@@ -1392,8 +1392,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Sporadic disease occurs",
-    options: ["periodically in destructive form", "at very irregular intervals in fewer instances", "every crop season in plant pathology", "constantly in one region"],
-    correct: 1,
+    options: ["at very irregular intervals in fewer instances", "periodically in destructive form", "every crop season in plant pathology", "constantly in one region"],
+    correct: 0,
     explanation: "As per DA-171 notes: Sporadic disease - occurs at very irregular intervals and locations and in relatively fewer instances. Ex: Udbatta disease of rice."
   },
   {
@@ -1412,8 +1412,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-36",
     lectureNo: 36,
     question: "Banana bacterial wilt is caused by which pathogen type?",
-    options: ["Virus", "Fungus", "Bacteria", "Nematode"],
-    correct: 2,
+    options: ["Bacteria", "Fungus", "Virus", "Nematode"],
+    correct: 0,
     explanation: "As per DA-171 notes: Lecture 36 - Banana: Bacterial wilt, mosaic are major diseases."
   },
   {
@@ -1422,8 +1422,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Bajra cultivation in wet areas is not profitable due to",
-    options: ["smut and ergot diseases", "heat stress", "root rot", "leaf blight"],
-    correct: 0,
+    options: ["root rot", "heat stress", "smut and ergot diseases", "leaf blight"],
+    correct: 2,
     explanation: "As per DA-171 notes: Cultivation of bajra in wet areas is not profitable due to smut and ergot (disease avoidance principle)."
   },
   {
@@ -1442,8 +1442,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-30",
     lectureNo: 30,
     question: "Citrus Tristeza virus is a major disease of",
-    options: ["Citrus", "Papaya", "Mango", "Guava"],
-    correct: 0,
+    options: ["Papaya", "Citrus", "Mango", "Guava"],
+    correct: 1,
     explanation: "As per DA-171 notes: Lecture 30 - Citrus: Tristeza, Mosaic, Bud union creze are major viral diseases."
   },
   {
@@ -1452,8 +1452,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Assertion (A): Bacteria are most important in tropical and subtropical areas.\nReason (R): Bacteria favour moist or warm conditions prevailing in these climatic zones.",
-    options: ["A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false"],
-    correct: 2,
+    options: ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true", "A is true but R is false"],
+    correct: 0,
     explanation: "As per DA-171 notes: Bacteria are of most importance in tropical, subtropical and warm-temperate areas as they favour moist or warm conditions."
   },
   {
@@ -1462,8 +1462,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Assertion (A): Phytoplasmas cannot be grown in culture media.\nReason (R): Phytoplasmas are obligate parasites that lack a rigid cell wall and cannot live freely in the environment.",
-    options: ["Both A and R are true and R is the correct explanation of A", "A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
-    correct: 0,
+    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
+    correct: 1,
     explanation: "As per DA-171 notes: Phytoplasmas have not been grown in culture - they are obligate parasites lacking rigid cell wall and cannot live freely in environment."
   },
   {
@@ -1472,8 +1472,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Assertion (A): Viruses multiply only in living cells.\nReason (R): Energy resources of the plant are redirected to reproduce viruses impairing normal plant functions.",
-    options: ["Both A and R are true and R is the correct explanation of A", "A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
-    correct: 0,
+    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
+    correct: 1,
     explanation: "As per DA-171 notes: Viruses can only multiply in living cells in infected plant; energy resources of plant are redirected to reproduce viruses."
   },
   {
@@ -1482,8 +1482,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Assertion (A): Fungi are the only organisms that produce spores for inactive survival.\nReason (R): These dormant spores act as source of primary infection when conditions become favourable.",
-    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
-    correct: 1,
+    options: ["Both A and R are true and R is the correct explanation of A", "A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
+    correct: 0,
     explanation: "As per DA-171 notes: Fungi are the only organisms that produce spores for their inactive survival and in favorable conditions act as source of primary infection."
   },
   {
@@ -1492,8 +1492,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Assertion (A): Non-specialized pathogens like Pythium require high density of inoculum for infection.\nReason (R): Specialized pathogens even a single spore can cause successful infection.",
-    options: ["Both A and R are true and R is the correct explanation of A", "A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
-    correct: 0,
+    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
+    correct: 1,
     explanation: "As per DA-171 notes: Specialized pathogens - very few or even one spore capable of causing infection; non-specialized pathogens as Pythium, Phytophthora require high density of inoculum for infection."
   },
   {
@@ -1502,8 +1502,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Assertion (A): Crop rotation is an effective method to manage soil borne diseases.\nReason (R): Continuous cultivation of same crop in same field leads to soil saturation by the pathogen.",
-    options: ["Both A and R are true and R is the correct explanation of A", "A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
-    correct: 0,
+    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
+    correct: 1,
     explanation: "As per DA-171 notes: Continuous cultivation of same crop helps perpetuation of pathogen in soil (sick soils). Crop rotation adopted to reduce incidence of soil borne diseases."
   },
   {
@@ -1512,8 +1512,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Assertion (A): Plant quarantine prevents introduction of new pests and diseases.\nReason (R): It legally restricts movement of agricultural commodities to exclude, prevent or delay spread of plant pests.",
-    options: ["A is false but R is true", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
-    correct: 3,
+    options: ["A is false but R is true", "A is true but R is false", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
+    correct: 2,
     explanation: "As per DA-171 notes: Plant quarantine is defined as a legal restriction on movement of agricultural commodities for exclusion, prevention or delaying spread of plant pests and diseases."
   },
   {
@@ -1532,8 +1532,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Assertion (A): Wind and irrigation water are inanimate agents of pathogen dispersal.\nReason (R): These physical agents can carry pathogen propagules from infected to healthy plants.",
-    options: ["A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false"],
-    correct: 2,
+    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
+    correct: 1,
     explanation: "As per DA-171 notes: Inanimate agents of passive dispersal include Wind and Irrigation water."
   },
   {
@@ -1542,8 +1542,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Assertion (A): Nematodes show orientation towards root surface before penetration.\nReason (R): This chemotactic response towards root exudates is part of pre-penetration activity.",
-    options: ["A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false"],
-    correct: 2,
+    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
+    correct: 1,
     explanation: "As per DA-171 notes: Nematodes show some orientation towards root surface before actual penetration - this is pre-penetration activity."
   },
   {
@@ -1552,8 +1552,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-12",
     lectureNo: 12,
     question: "Assertion (A): Masked viral symptoms appear in plants that contain the virus.\nReason (R): Symptoms are absent under unfavourable conditions but reappear under favourable conditions.",
-    options: ["Both A and R are true and R is the correct explanation of A", "A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
-    correct: 0,
+    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
+    correct: 1,
     explanation: "As per DA-171 notes: Masked symptoms - plants contain virus but are symptomless under unfavourable conditions; symptoms reappear under favourable conditions."
   },
   {
@@ -1562,8 +1562,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Assertion (A): Scab lesions are not deep seated.\nReason (R): Sunken lesions are produced in scab, unlike cankers where infection may be deep seated.",
-    options: ["A is false but R is true", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
-    correct: 3,
+    options: ["A is false but R is true", "A is true but R is false", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
+    correct: 2,
     explanation: "As per DA-171 notes: Scab - infection is not deep seated; sunken lesions are produced. Cankers - infection may be deep seated."
   },
   {
@@ -1572,8 +1572,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Assertion (A): Eradication of alternate hosts helps manage many plant diseases.\nReason (R): Alternate hosts provide off-season survival for pathogens when crop host is absent.",
-    options: ["A is false but R is true", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
-    correct: 3,
+    options: ["A is false but R is true", "A is true but R is false", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
+    correct: 2,
     explanation: "As per DA-171 notes: Eradication of alternate and collateral hosts helps management of plant diseases; alternate hosts provide off-season survival."
   },
   {
@@ -1582,8 +1582,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Assertion (A): Time of sowing affects disease incidence in crops.\nReason (R): Alteration of sowing date helps avoid coincidence of susceptible host stage with favourable conditions for pathogen.",
-    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
-    correct: 1,
+    options: ["Both A and R are true and R is the correct explanation of A", "A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
+    correct: 0,
     explanation: "As per DA-171 notes: Time of sowing - Alteration of date helps in avoidance of coincidence of susceptible stage of host plant with favourable conditions for pathogen."
   },
   {
@@ -1602,8 +1602,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Match the pathogen with its unique feature:\nA-Fungi, B-Bacteria, C-Phytoplasma\n1-Found in phloem sieve tubes, 2-Eukaryotic spore bearing organisms, 3-Prokaryotic rigid cell wall",
-    options: ["A-2, B-3, C-1", "A-1, B-2, C-3", "A-3, B-2, C-1", "A-2, B-1, C-3"],
-    correct: 0,
+    options: ["A-3, B-2, C-1", "A-1, B-2, C-3", "A-2, B-3, C-1", "A-2, B-1, C-3"],
+    correct: 2,
     explanation: "As per DA-171 notes: Fungi-eukaryotic spore bearing; Bacteria-prokaryotic with rigid cell wall; Phytoplasma-found in phloem sieve tube cells."
   },
   {
@@ -1612,8 +1612,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Match the fungal disease symptom with description:\nA-Downy mildew, B-Powdery mildew, C-Smut\n1-Powdery/dusty appearance on host surface, 2-Black/purplish dusty mass on floral organs, 3-White/grey bloom on underside of leaves",
-    options: ["A-2, B-3, C-1", "A-3, B-1, C-2", "A-3, B-2, C-1", "A-1, B-2, C-3"],
-    correct: 1,
+    options: ["A-3, B-1, C-2", "A-2, B-3, C-1", "A-3, B-2, C-1", "A-1, B-2, C-3"],
+    correct: 0,
     explanation: "As per DA-171 notes: Downy mildew-white or grey bloom on under surface of leaves; Powdery mildew-powdery/dusty appearance; Smut-black/purplish dusty mass on floral organs."
   },
   {
@@ -1622,8 +1622,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Match the viral symptom with description:\nA-Mosaic, B-Vein clearing, C-Vein banding\n1-Tissue along vein green, between veins chlorotic, 2-Alternate green and yellow patches, 3-Tissue close to vein yellow, rest green",
-    options: ["A-2, B-3, C-1", "A-1, B-2, C-3", "A-3, B-2, C-1", "A-2, B-1, C-3"],
-    correct: 0,
+    options: ["A-3, B-2, C-1", "A-1, B-2, C-3", "A-2, B-3, C-1", "A-2, B-1, C-3"],
+    correct: 2,
     explanation: "As per DA-171 notes: Mosaic-alternate green and yellow patches, Vein clearing-tissue near vein yellow rest green, Vein banding-tissue along vein green between veins chlorotic."
   },
   {
@@ -1632,8 +1632,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Match the disease management principle with example:\nA-Avoidance, B-Exclusion, C-Eradication\n1-Rouging of diseased plants, 2-Plant quarantine, 3-Proper selection of geographical area",
-    options: ["A-1, B-2, C-3", "A-3, B-2, C-1", "A-3, B-1, C-2", "A-2, B-3, C-1"],
-    correct: 1,
+    options: ["A-1, B-2, C-3", "A-2, B-3, C-1", "A-3, B-1, C-2", "A-3, B-2, C-1"],
+    correct: 3,
     explanation: "As per DA-171 notes: Avoidance-proper selection of geographical area; Exclusion-plant quarantine regulation; Eradication-rouging of diseased plants."
   },
   {
@@ -1642,8 +1642,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Match the phanerogamic parasite with type:\nA-Cuscuta, B-Orabanche, C-Loranthus\n1-Stem parasite (hemi-parasite), 2-Root parasite, 3-Stem parasite (holoparasite)",
-    options: ["A-1, B-2, C-3", "A-2, B-3, C-1", "A-3, B-1, C-2", "A-3, B-2, C-1"],
-    correct: 3,
+    options: ["A-1, B-2, C-3", "A-3, B-2, C-1", "A-3, B-1, C-2", "A-2, B-3, C-1"],
+    correct: 1,
     explanation: "As per DA-171 notes: Stem parasites-Cuscuta (holoparasite), Loranthus (hemiparasite); Root parasites-Orabanche, Striga."
   },
   {
@@ -1652,8 +1652,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Match the disease symptom with example:\nA-Gall, B-Wart, C-Leaf curl\n1-Leaves twisted and curled, 2-Black wart of potato, 3-Club root of cabbage",
-    options: ["A-3, B-2, C-1", "A-1, B-3, C-2", "A-2, B-3, C-1", "A-3, B-1, C-2"],
-    correct: 0,
+    options: ["A-3, B-1, C-2", "A-1, B-3, C-2", "A-2, B-3, C-1", "A-3, B-2, C-1"],
+    correct: 3,
     explanation: "As per DA-171 notes: Gall-club root of cabbage; Wart-black wart of potato; Leaf curl-leaves twisted and distorted due to localized growth."
   },
   {
@@ -1672,8 +1672,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-21",
     lectureNo: 21,
     question: "Match the sugarcane disease with causal organism:\nA-Red rot, B-Smut, C-Mycoplasma disease\n1-Phytoplasma/mycoplasma, 2-Ustilago scitaminea (fungus), 3-Colletotrichum falcatum (fungus)",
-    options: ["A-1, B-2, C-3", "A-2, B-3, C-1", "A-2, B-1, C-3", "A-3, B-2, C-1"],
-    correct: 3,
+    options: ["A-1, B-2, C-3", "A-3, B-2, C-1", "A-2, B-1, C-3", "A-2, B-3, C-1"],
+    correct: 1,
     explanation: "As per DA-171 notes: Sugarcane - Red rot (Colletotrichum falcatum), Smut (Ustilago scitaminea), Mycoplasma disease (Phytoplasma)."
   },
   {
@@ -1682,8 +1682,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Match the pathogen survival source with example:\nA-Seed borne, B-Collateral hosts, C-Alternate hosts\n1-Wild hosts of other families (wide host range pathogens), 2-Weed hosts bridging gap between crop seasons, 3-Loose smut of wheat",
-    options: ["A-1, B-2, C-3", "A-3, B-2, C-1", "A-3, B-1, C-2", "A-2, B-3, C-1"],
-    correct: 1,
+    options: ["A-3, B-2, C-1", "A-1, B-2, C-3", "A-3, B-1, C-2", "A-2, B-3, C-1"],
+    correct: 0,
     explanation: "As per DA-171 notes: Seed borne-pathogens survive in seed (eg loose smut of wheat); Collateral hosts-weed hosts bridging gap between seasons; Alternate hosts-wild hosts of other families for wide host range pathogens."
   },
   {
@@ -1722,8 +1722,8 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-27",
     lectureNo: 27,
     question: "Match the pulse crop disease:\nA-Redgram, B-Green gram, C-Bengal gram\n1-Ascochyta blight, 2-Sterility mosaic, 3-Yellow mosaic",
-    options: ["A-2, B-1, C-3", "A-1, B-2, C-3", "A-3, B-2, C-1", "A-2, B-3, C-1"],
-    correct: 3,
+    options: ["A-2, B-3, C-1", "A-1, B-2, C-3", "A-3, B-2, C-1", "A-2, B-1, C-3"],
+    correct: 0,
     explanation: "As per DA-171 notes: Redgram-sterility mosaic; Green gram-yellow mosaic; Bengal gram-Ascochyta blight."
   },
   {
@@ -1742,9 +1742,88 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-45",
     lectureNo: 45,
     question: "Match the plantation crop with unique disease:\nA-Coconut, B-Rose, C-Turmeric\n1-Leaf spot and rhizome rot, 2-Budrot and Ganoderma root rot, 3-Powdery mildew and black spot",
-    options: ["A-2, B-3, C-1", "A-1, B-2, C-3", "A-3, B-2, C-1", "A-2, B-1, C-3"],
-    correct: 0,
+    options: ["A-1, B-2, C-3", "A-2, B-3, C-1", "A-3, B-2, C-1", "A-2, B-1, C-3"],
+    correct: 1,
     explanation: "As per DA-171 notes: Coconut-Budrot, Ganoderma root rot, stem bleeding; Rose-Powdery mildew, Dieback, black spot; Turmeric-Leaf spot, rhizome rot."
   },
-
+  {
+    id: "d171z_001", subject: "da-171", lecture: "lecture-10", lectureNo: 10,
+    question: "Bordeaux mixture, used widely as a fungicide, is prepared by mixing:",
+    options: ["Sulphur dust and copper oxychloride", "Copper sulphate and hydrated lime", "Mancozeb and Zineb in equal proportions", "Ferrous sulphate and caustic soda"],
+    correct: 1,
+    explanation: "Bordeaux mixture = CuSO₄ + Ca(OH)₂ in water (commonly 1:1:100 ratio). It is a protective contact fungicide effective against downy mildew, late blight, leaf spots, and bacterial diseases.",
+    difficulty: "easy"
+  },
+  {
+    id: "d171z_002", subject: "da-171", lecture: "lecture-10", lectureNo: 10,
+    question: "Systemic fungicides differ from contact fungicides in that they:",
+    options: ["Kill spores only on the leaf surface without penetrating tissues", "Are absorbed and translocated within plant to control internal pathogens", "Are only used as seed treatments before sowing", "Act by disrupting the host cell wall rather than the pathogen"],
+    correct: 1,
+    explanation: "Systemic (curative) fungicides are absorbed by plant tissues and translocated upward (acropetal) or bidirectionally to reach pathogens inside plant cells. Contact fungicides remain on the surface and prevent infection only.",
+    difficulty: "medium"
+  },
+  {
+    id: "d171z_003", subject: "da-171", lecture: "lecture-10", lectureNo: 10,
+    question: "Soil solarization as a cultural disease management practice involves:",
+    options: ["Spraying UV-absorbing chemicals on soil before planting", "Deep ploughing to expose soil to UV radiation in summer", "Flooding fields with saline water to eliminate soil-borne fungi", "Covering moist soil with transparent polyethylene film to trap solar heat and kill pathogens"],
+    correct: 3,
+    explanation: "Soil solarization uses transparent polythene film to trap solar radiation and raise soil temperature to 40–55°C for 4–6 weeks during summer, killing soil-borne pathogens (Fusarium, Sclerotium, Pythium), nematodes, and weed seeds.",
+    difficulty: "medium"
+  },
+  {
+    id: "d171z_004", subject: "da-171", lecture: "lecture-10", lectureNo: 10,
+    question: "Trichoderma viride is used as a biocontrol agent primarily against:",
+    options: ["Airborne viral diseases of crops", "Soil-borne fungal pathogens like Fusarium, Rhizoctonia, and Sclerotium", "Nematodes attacking root systems", "Bacterial leaf blight pathogens in rice"],
+    correct: 2,
+    explanation: "Trichoderma viride and T. harzianum are mycoparasitic fungi that colonize and kill soil-borne pathogens (Fusarium wilt, Rhizoctonia root rot, Sclerotium stem rot) through antibiosis and mycoparasitism. They are applied as seed treatment or soil drench.",
+    difficulty: "medium"
+  },
+  {
+    id: "d171z_005", subject: "da-171", lecture: "lecture-10", lectureNo: 10,
+    question: "Plant quarantine measures in disease management are aimed at:",
+    options: ["Restricting the use of chemical pesticides in border areas", "Preventing introduction of exotic pathogens into disease-free regions or countries", "Fumigating irrigation water supplies to remove water-borne pathogens", "Destroying diseased plants within a farm immediately after diagnosis"],
+    correct: 0,
+    explanation: "Plant quarantine prevents entry of exotic pests and diseases across national/state borders through import inspections, phytosanitary certificates, treatment protocols, and embargoes on infected material.",
+    difficulty: "easy"
+  },
+  {
+    id: "d171z_006", subject: "da-171", lecture: "lecture-10", lectureNo: 10,
+    question: "Crop rotation is most effective in managing diseases caused by:",
+    options: ["Soil-borne pathogens with a narrow host range that build up under monoculture", "Wind-dispersed airborne pathogens with a wide host range", "Seed-borne virus diseases transmitted through infected seeds", "Systemic bacterial diseases spread by grafting tools"],
+    correct: 0,
+    explanation: "Crop rotation breaks the disease cycle of soil-borne specialists like Fusarium wilt, clubroot (Plasmodiophora), and Sclerotinia. Without the host crop, inoculum levels in soil decline to sub-economic levels over 2–4 years.",
+    difficulty: "easy"
+  },
+  {
+    id: "d171z_007", subject: "da-171", lecture: "lecture-10", lectureNo: 10,
+    question: "Mancozeb belongs to which group of fungicides?",
+    options: ["Dithiocarbamates (multi-site contact fungicides)", "Benzimidazoles (tubulin inhibitors)", "Triazoles (sterol biosynthesis inhibitors)", "Strobilurins (respiration inhibitors)"],
+    correct: 0,
+    explanation: "Mancozeb (manganese-zinc ethylenebisdithiocarbamate) is a dithiocarbamate broad-spectrum contact protectant fungicide. It inhibits multiple enzyme systems in fungi and is used against early blight, late blight, and downy mildew.",
+    difficulty: "hard"
+  },
+  {
+    id: "d171z_008", subject: "da-171", lecture: "lecture-10", lectureNo: 10,
+    question: "Pseudomonas fluorescens used in biological disease management primarily suppresses pathogens by:",
+    options: ["Parasitizing fungal hyphae and consuming their cell walls", "Secreting ethylene that triggers hypersensitive response in roots", "Competing with pathogens for nitrogen in the rhizosphere only", "Producing antibiotics and siderophores and inducing systemic resistance in plants"],
+    correct: 3,
+    explanation: "P. fluorescens produces antibiotics (2,4-DAPG), siderophores (pyoverdine), and HCN that suppress soil-borne pathogens. It also triggers Induced Systemic Resistance (ISR), priming plants to better tolerate subsequent infections.",
+    difficulty: "hard"
+  },
+  {
+    id: "d171z_009", subject: "da-171", lecture: "lecture-10", lectureNo: 10,
+    question: "The term 'eradicant fungicide' refers to a compound that:",
+    options: ["Prevents pathogen entry into plants when applied before infection", "Destroys established infections within plant tissues after symptoms appear", "Eradicates the host plant to eliminate the disease source", "Prevents sporulation of pathogens without killing them"],
+    correct: 1,
+    explanation: "Eradicant (curative) fungicides are applied after infection to kill the pathogen already inside host tissues. Protectant fungicides are applied before infection. Systemic fungicides can be both protectant and eradicant.",
+    difficulty: "medium"
+  },
+  {
+    id: "d171z_010", subject: "da-171", lecture: "lecture-10", lectureNo: 10,
+    question: "Integrated Disease Management (IDM) in crops means:",
+    options: ["Using only high doses of chemical fungicides to eliminate all pathogens", "Applying fungicides on a fixed calendar schedule regardless of disease incidence", "Removing and burning all diseased plants immediately after first symptoms", "Combining cultural, biological, physical, and chemical measures to keep disease below economic threshold levels"],
+    correct: 3,
+    explanation: "IDM rationally integrates: resistant varieties, crop rotation, sanitation (cultural), bioagents like Trichoderma/Pseudomonas (biological), and targeted chemicals only when disease crosses economic thresholds — reducing chemical dependency and resistance.",
+    difficulty: "medium"
+  }
 ];
