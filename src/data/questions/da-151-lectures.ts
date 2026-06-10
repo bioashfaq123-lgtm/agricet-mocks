@@ -10,8 +10,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "One horsepower is equal to how many watts?",
-    options: ["550 watts", "1341 watts", "1000 watts", "746 watts"],
-    correct: 3,
+    options: ["550 watts", "746 watts", "1000 watts", "1341 watts"],
+    correct: 1,
     explanation: "1 HP = 746 watts. This is the standard mechanical horsepower used in farm power calculations. Knowing this conversion is essential for comparing engine ratings."
   },
   {
@@ -20,8 +20,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "What is the typical engine power range of a power tiller?",
-    options: ["25–35 HP", "8–12 HP", "15–20 HP", "2–5 HP"],
-    correct: 1,
+    options: ["25–35 HP", "15–20 HP", "8–12 HP", "2–5 HP"],
+    correct: 2,
     explanation: "A power tiller (walk-behind two-wheel tractor) typically has an engine of 8–12 HP. It is widely used in small holdings and wet paddy fields where a four-wheel tractor cannot manoeuvre easily."
   },
   {
@@ -30,8 +30,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "Which unit is the SI unit of power used in modern farm machinery specifications?",
-    options: ["Joule (J)", "Kilowatt (kW)", "Newton (N)", "Horsepower (HP)"],
-    correct: 1,
+    options: ["Kilowatt (kW)", "Joule (J)", "Newton (N)", "Horsepower (HP)"],
+    correct: 0,
     explanation: "The SI unit of power is the kilowatt (kW). While horsepower is still widely used in India, kW is the internationally recognised SI unit. 1 kW = 1.341 HP."
   },
   {
@@ -40,8 +40,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "Which type of farm power is classified as 'animate power'?",
-    options: ["Bullock draft power", "Diesel engines", "Electric motors", "Solar energy"],
-    correct: 0,
+    options: ["Diesel engines", "Bullock draft power", "Electric motors", "Solar energy"],
+    correct: 1,
     explanation: "Animate (biological) power includes human labour and draught animals such as bullocks, buffaloes, camels and horses. Bullock draft power is the most common animate farm power source in India."
   },
   {
@@ -80,8 +80,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "The average human being can deliver power at the rate of approximately:",
-    options: ["0.1 HP for 8 hours", "1.0 HP for 8 hours", "0.05 HP for 8 hours", "0.5 HP for 8 hours"],
-    correct: 0,
+    options: ["0.05 HP for 8 hours", "1.0 HP for 8 hours", "0.1 HP for 8 hours", "0.5 HP for 8 hours"],
+    correct: 2,
     explanation: "A healthy adult male can sustain about 0.1 HP (75 W) over a full working day of 8 hours. Short bursts can reach 0.5 HP but cannot be maintained. This low output explains the need for mechanisation."
   },
   {
@@ -110,8 +110,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "Wind energy in farm mechanisation is most commonly used for:",
-    options: ["Lifting water from wells", "Primary tillage", "Combine harvesting", "Seed sowing"],
-    correct: 0,
+    options: ["Primary tillage", "Lifting water from wells", "Combine harvesting", "Seed sowing"],
+    correct: 1,
     explanation: "Traditional windmills have long been used to lift water from open wells for irrigation. Modern wind turbines can generate electricity for farm use, but direct windmill-based water lifting is the classical application."
   },
   {
@@ -120,8 +120,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "Farm power availability in India (HP/ha) has increased significantly. What was the approximate value in 2022?",
-    options: ["4.0 kW/ha", "2.5 kW/ha", "1.5 kW/ha", "0.5 kW/ha"],
-    correct: 1,
+    options: ["4.0 kW/ha", "0.5 kW/ha", "1.5 kW/ha", "2.5 kW/ha"],
+    correct: 3,
     explanation: "India's farm power availability increased from about 0.3 kW/ha in 1960–61 to approximately 2.5 kW/ha in recent years, reflecting rapid farm mechanisation. The target is 4 kW/ha."
   },
   {
@@ -130,8 +130,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "A biogas plant on a farm primarily converts:",
-    options: ["Crop residues to ethanol", "Solar radiation to electricity", "Organic waste to methane for cooking/power", "Wind energy to mechanical power"],
-    correct: 2,
+    options: ["Crop residues to ethanol", "Solar radiation to electricity", "Wind energy to mechanical power", "Organic waste to methane for cooking/power"],
+    correct: 3,
     explanation: "A biogas plant converts organic farm waste (cattle dung, crop residues) into methane-rich biogas through anaerobic digestion. The gas can be used for cooking, lighting and running dual-fuel engines."
   },
   {
@@ -140,8 +140,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "Which of the following best defines 'draft' in the context of farm power?",
-    options: ["Engine torque at the crankshaft in plant breeding", "Total weight of the implement for crop improvement", "Horizontal pull required to move an implement through soil", "Vertical force on the tractor rear axle"],
-    correct: 2,
+    options: ["Engine torque at the crankshaft in plant breeding", "Total weight of the implement for crop improvement", "Vertical force on the tractor rear axle", "Horizontal pull required to move an implement through soil"],
+    correct: 3,
     explanation: "Draft is the horizontal pull (force) required to move an implement through the soil at a specified speed and depth. It is measured in Newtons (N) or kilogram-force (kgf) and is a key parameter in tractor-implement matching."
   },
   {
@@ -150,8 +150,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "Power tillers are most suitable for which type of farming condition?",
-    options: ["Orchards requiring canopy management", "Dryland farms needing deep tillage", "Small and marginal farms with wet paddy fields", "Large farm holdings of 10+ ha"],
-    correct: 2,
+    options: ["Orchards requiring canopy management", "Dryland farms needing deep tillage", "Large farm holdings of 10+ ha", "Small and marginal farms with wet paddy fields"],
+    correct: 3,
     explanation: "Power tillers are ideal for small and marginal holdings (< 2 ha) and wet paddy cultivation because of their compact size, light weight, manoeuvrability and ability to operate in flooded fields."
   },
   {
@@ -182,8 +182,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "What is the standard PTO speed for most farm tractors in India?",
-    options: ["540 RPM at 21-spline shaft", "750 RPM at 6-spline shaft", "1000 RPM at 6-spline shaft", "540 RPM at 6-spline shaft"],
-    correct: 3,
+    options: ["540 RPM at 6-spline shaft", "750 RPM at 6-spline shaft", "1000 RPM at 6-spline shaft", "540 RPM at 21-spline shaft"],
+    correct: 0,
     explanation: "The standard PTO speed is 540 RPM (for older implements) and 1000 RPM (for high-speed implements) on a 6-spline shaft. 540 RPM PTO is the most common standard in India for medium tractors."
   },
   {
@@ -202,8 +202,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Which tractor HP class is most suitable for small holdings of 1–3 ha in India?",
-    options: ["Below 20 HP (mini tractors)", "36–50 HP", "Above 75 HP", "20–35 HP"],
-    correct: 3,
+    options: ["Below 20 HP (mini tractors)", "36–50 HP", "20–35 HP", "Above 75 HP"],
+    correct: 2,
     explanation: "Tractors in the 20–35 HP range are most widely sold in India for small to medium holdings. Mini tractors (<20 HP) suit very small plots, while 36–50 HP suits medium farms and above 50 HP suits large commercial farms."
   },
   {
@@ -222,8 +222,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "The rated engine speed of a farm tractor engine is typically:",
-    options: ["1800–2200 RPM", "1200–1500 RPM", "3000–3600 RPM", "500–800 RPM"],
-    correct: 0,
+    options: ["500–800 RPM", "1200–1500 RPM", "3000–3600 RPM", "1800–2200 RPM"],
+    correct: 3,
     explanation: "Farm tractor diesel engines have a rated (governed) speed of 1800–2200 RPM. At this speed, maximum rated power is developed. Governors prevent over-speeding beyond this rated speed."
   },
   {
@@ -242,8 +242,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Wheel slip in a tractor should ideally be maintained at:",
-    options: ["50% for maximum drawbar pull", "8–12% for optimum traction efficiency", "25–30% for maximum grip", "0% for best efficiency"],
-    correct: 1,
+    options: ["50% for maximum drawbar pull", "25–30% for maximum grip", "8–12% for optimum traction efficiency", "0% for best efficiency"],
+    correct: 2,
     explanation: "Optimum traction efficiency is achieved at 8–12% wheel slip. Zero slip is impractical; higher slip (>20%) wastes power and damages soil structure. This range balances traction and power loss."
   },
   {
@@ -262,8 +262,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "What does 'tractor HP class' primarily help a farmer decide?",
-    options: ["Number of gears in the transmission", "Fuel tank capacity in plant breeding", "Colour and brand of the tractor", "Matching tractor size to farm area and implement requirements"],
-    correct: 3,
+    options: ["Number of gears in the transmission", "Matching tractor size to farm area and implement requirements", "Colour and brand of the tractor", "Fuel tank capacity in plant breeding"],
+    correct: 1,
     explanation: "HP class guides implement matching and farm suitability. A small HP tractor cannot pull heavy implements efficiently; an oversized tractor is uneconomical on small farms. Correct matching improves efficiency and economics."
   },
   {
@@ -272,8 +272,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Which factor is NOT considered while selecting a tractor for a farm?",
-    options: ["Farm size and topography", "Colour of the tractor body", "Type of crops grown", "Type of implements to be used"],
-    correct: 1,
+    options: ["Colour of the tractor body", "Farm size and topography", "Type of crops grown", "Type of implements to be used"],
+    correct: 0,
     explanation: "Tractor selection is based on farm area, soil type, topography, type of operations, implements needed, power requirement, availability of service, and cost. Colour has no bearing on the selection criteria."
   },
   {
@@ -282,8 +282,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Engine HP is always greater than drawbar HP because:",
-    options: ["Drawbar HP includes additional fuel consumption in plant breeding", "Transmission losses, rolling resistance and implement weight reduce available power at drawbar", "Drawbar is operated at higher speeds for crop improvement", "Engine HP does not include governor losses in variety development"],
-    correct: 1,
+    options: ["Drawbar HP includes additional fuel consumption in plant breeding", "Drawbar is operated at higher speeds for crop improvement", "Transmission losses, rolling resistance and implement weight reduce available power at drawbar", "Engine HP does not include governor losses in variety development"],
+    correct: 2,
     explanation: "Engine HP is the gross power. By the time power reaches the drawbar, losses occur in the transmission (gearbox, differential), rolling resistance of tractor tyres, and implement weight. DBHP = Engine HP × 0.75–0.80 approximately."
   },
   {
@@ -312,8 +312,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "What is the function of the three-point linkage on a tractor?",
-    options: ["To connect the trailer for road transport", "To attach and hydraulically control mounted implements", "To apply brakes on all four wheels", "To drive the PTO shaft"],
-    correct: 1,
+    options: ["To connect the trailer for road transport", "To drive the PTO shaft", "To apply brakes on all four wheels", "To attach and hydraulically control mounted implements"],
+    correct: 3,
     explanation: "The three-point linkage (Category I, II, III) allows mounted implements (ploughs, cultivators, rotavators) to be attached to the tractor and raised/lowered hydraulically. It also enables draft and position control of implements."
   },
   {
@@ -334,8 +334,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "In a 4-stroke diesel engine, the correct sequence of strokes is:",
-    options: ["Compression → Suction → Power → Exhaust", "Suction → Power → Compression → Exhaust", "Power → Suction → Compression → Exhaust", "Suction → Compression → Power → Exhaust"],
-    correct: 3,
+    options: ["Compression → Suction → Power → Exhaust", "Suction → Power → Compression → Exhaust", "Suction → Compression → Power → Exhaust", "Power → Suction → Compression → Exhaust"],
+    correct: 2,
     explanation: "The correct sequence in a 4-stroke diesel engine is: (1) Suction/Induction, (2) Compression, (3) Power/Expansion, (4) Exhaust. One power stroke occurs every two revolutions of the crankshaft."
   },
   {
@@ -344,8 +344,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "In a diesel engine, fuel ignition is caused by:",
-    options: ["Glow plug continuously", "Spark plug igniting fuel-air mixture", "Heat of compressed air (compression ignition)", "Electric arc between electrodes"],
-    correct: 2,
+    options: ["Heat of compressed air (compression ignition)", "Spark plug igniting fuel-air mixture", "Glow plug continuously", "Electric arc between electrodes"],
+    correct: 0,
     explanation: "Diesel engines use compression ignition (CI). Air is compressed to a very high pressure (16:1 to 22:1 compression ratio), raising its temperature to 500–700°C. Diesel fuel injected into this hot compressed air ignites spontaneously."
   },
   {
@@ -354,8 +354,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Which cooling system is most common in modern farm tractors?",
-    options: ["Air cooling only", "Evaporative cooling", "Water (liquid) cooling with radiator", "Oil cooling only"],
-    correct: 2,
+    options: ["Air cooling only", "Water (liquid) cooling with radiator", "Evaporative cooling", "Oil cooling only"],
+    correct: 1,
     explanation: "Most farm tractors use water (liquid) cooling with a radiator, water pump, thermostat and fan. Water cooling maintains more uniform cylinder temperatures and handles higher engine outputs better than air cooling."
   },
   {
@@ -364,8 +364,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The differential in a tractor transmission allows:",
-    options: ["Automatic gear changes based on load", "The PTO to operate independently of ground speed", "Both rear wheels to rotate at different speeds while turning", "Equal power to both rear wheels at all times"],
-    correct: 2,
+    options: ["Both rear wheels to rotate at different speeds while turning", "The PTO to operate independently of ground speed", "Automatic gear changes based on load", "Equal power to both rear wheels at all times"],
+    correct: 0,
     explanation: "The differential allows the two rear wheels to rotate at different speeds when the tractor turns, preventing tyre scrubbing and loss of control. When engaged (differential lock), both wheels are forced to rotate at the same speed for better traction in mud."
   },
   {
@@ -374,8 +374,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "What is the compression ratio of a typical farm tractor diesel engine?",
-    options: ["10:1 to 12:1", "6:1 to 8:1", "25:1 to 30:1", "16:1 to 22:1"],
-    correct: 3,
+    options: ["16:1 to 22:1", "6:1 to 8:1", "25:1 to 30:1", "10:1 to 12:1"],
+    correct: 0,
     explanation: "Diesel engines have high compression ratios of 16:1 to 22:1 to generate sufficient heat for autoignition of the fuel. Petrol engines have lower compression ratios of 8:1 to 12:1 and require spark plugs."
   },
   {
@@ -384,8 +384,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The function of the fuel injection pump in a diesel engine is to:",
-    options: ["Cool the fuel before combustion in plant breeding", "Filter impurities from diesel for crop improvement", "Pressurise the crankcase in variety development", "Deliver metered, high-pressure fuel to injectors at correct timing"],
-    correct: 3,
+    options: ["Deliver metered, high-pressure fuel to injectors at correct timing", "Filter impurities from diesel for crop improvement", "Pressurise the crankcase in variety development", "Cool the fuel before combustion in plant breeding"],
+    correct: 0,
     explanation: "The fuel injection pump (FIP) delivers precisely metered quantities of diesel at very high pressure (150–300 bar) to the fuel injectors at exactly the right moment in the compression stroke for efficient combustion."
   },
   {
@@ -394,8 +394,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Air-cooled engines are used in power tillers mainly because they are:",
-    options: ["Simpler, lighter and require less maintenance", "More powerful than water-cooled", "Better suited for high ambient temperatures", "More fuel efficient"],
-    correct: 0,
+    options: ["More fuel efficient", "More powerful than water-cooled", "Better suited for high ambient temperatures", "Simpler, lighter and require less maintenance"],
+    correct: 3,
     explanation: "Air-cooled engines are simpler (no radiator, water pump, hoses), lighter, cheaper and require less maintenance. These advantages are critical for small power tillers used by resource-poor farmers."
   },
   {
@@ -414,8 +414,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The lubrication system in a tractor engine serves to:",
-    options: ["Clean the air filter in plant breeding", "Reduce friction, prevent wear, cool components and seal piston rings", "Cool the engine only for crop improvement", "Increase fuel efficiency by burning oil"],
-    correct: 1,
+    options: ["Clean the air filter in plant breeding", "Increase fuel efficiency by burning oil", "Cool the engine only for crop improvement", "Reduce friction, prevent wear, cool components and seal piston rings"],
+    correct: 3,
     explanation: "Engine oil reduces metal-to-metal friction, prevents wear, helps cool components (especially pistons and bearings), seals piston rings against blow-by, and removes contaminants. Regular oil changes maintain these functions."
   },
   {
@@ -424,8 +424,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Live PTO means:",
-    options: ["PTO is driven by a separate small engine", "PTO speed varies with ground speed", "PTO operates only when the tractor is moving", "PTO can be engaged/disengaged independently of the clutch"],
-    correct: 3,
+    options: ["PTO is driven by a separate small engine", "PTO speed varies with ground speed", "PTO can be engaged/disengaged independently of the clutch", "PTO operates only when the tractor is moving"],
+    correct: 2,
     explanation: "A live (independent) PTO uses a two-stage clutch or separate clutch, allowing the PTO to run even when the tractor is stationary or when the main clutch is disengaged. This is essential for ground-driven equipment that must not stop when the tractor stops."
   },
   {
@@ -434,8 +434,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Ground-driven (ground speed) PTO differs from independent PTO because:",
-    options: ["It requires a separate diesel engine in plant breeding", "It has no safety guards for crop improvement", "It runs at 540 RPM always in variety development", "Its speed is proportional to forward speed of the tractor"],
-    correct: 3,
+    options: ["It requires a separate diesel engine in plant breeding", "It has no safety guards for crop improvement", "Its speed is proportional to forward speed of the tractor", "It runs at 540 RPM always in variety development"],
+    correct: 2,
     explanation: "Ground-driven (or live ground) PTO speed is proportional to the tractor's forward speed, not to engine RPM. This is useful for seed drills and fertiliser applicators where seed/fertiliser rate must be matched to forward travel speed."
   },
   {
@@ -444,8 +444,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "What is the purpose of the thermostat in the tractor cooling system?",
-    options: ["Measure fuel temperature before injection", "Prevent engine from overheating by releasing coolant to the atmosphere", "Control the speed of the cooling fan", "Maintain optimum engine operating temperature by regulating coolant flow"],
-    correct: 3,
+    options: ["Maintain optimum engine operating temperature by regulating coolant flow", "Prevent engine from overheating by releasing coolant to the atmosphere", "Control the speed of the cooling fan", "Measure fuel temperature before injection"],
+    correct: 0,
     explanation: "The thermostat regulates coolant temperature by blocking flow to the radiator when the engine is cold (helping it warm up quickly) and opening to allow full flow when operating temperature (75–85°C) is reached."
   },
   {
@@ -454,8 +454,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The final drive in a tractor transmission:",
-    options: ["Controls the hydraulic system in plant breeding", "Further reduces speed and increases torque to the rear axle", "Transfers power from the engine to the gearbox", "Drives the PTO shaft for crop improvement"],
-    correct: 1,
+    options: ["Further reduces speed and increases torque to the rear axle", "Controls the hydraulic system in plant breeding", "Transfers power from the engine to the gearbox", "Drives the PTO shaft for crop improvement"],
+    correct: 0,
     explanation: "The final drive (bull gear and pinion) provides the last stage of speed reduction and torque multiplication before power reaches the rear axle and wheels. It typically uses spur or helical gears in a large reduction ratio."
   },
   {
@@ -464,8 +464,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "A turbocharger on a tractor engine primarily helps to:",
-    options: ["Improve fuel filtration in plant breeding", "Reduce engine noise for crop improvement", "Increase power output by forcing more air into the cylinders", "Cool the engine oil in variety development"],
-    correct: 2,
+    options: ["Increase power output by forcing more air into the cylinders", "Reduce engine noise for crop improvement", "Improve fuel filtration in plant breeding", "Cool the engine oil in variety development"],
+    correct: 0,
     explanation: "A turbocharger uses exhaust gas energy to drive a compressor that forces more air into the cylinders, enabling more fuel to be burned and increasing power output by 30–40% without increasing engine displacement."
   },
   {
@@ -484,8 +484,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The hydraulic system of a tractor is primarily used for:",
-    options: ["Starting the engine", "Cooling the engine", "Lifting and controlling mounted implements", "Filtering the fuel"],
-    correct: 2,
+    options: ["Lifting and controlling mounted implements", "Cooling the engine", "Starting the engine", "Filtering the fuel"],
+    correct: 0,
     explanation: "The tractor's hydraulic system uses an oil pump, control valve, and hydraulic cylinder to raise, lower and control the depth of mounted implements via the three-point linkage. It also powers some trailed equipment."
   },
 
@@ -516,8 +516,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "A subsoiler is used primarily for:",
-    options: ["Forming ridges and furrows in plant breeding", "Surface tillage and seedbed preparation for crop improvement", "Breaking hard pan and compacted layers below normal ploughing depth", "Harrowing and clod breaking in variety development"],
-    correct: 2,
+    options: ["Forming ridges and furrows in plant breeding", "Breaking hard pan and compacted layers below normal ploughing depth", "Surface tillage and seedbed preparation for crop improvement", "Harrowing and clod breaking in variety development"],
+    correct: 1,
     explanation: "A subsoiler breaks hard pan and compacted subsoil layers at depths of 45–90 cm without inverting soil. This improves water infiltration and root penetration. It requires high draft (2–4× more than MB plough)."
   },
   {
@@ -536,8 +536,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "What is the typical ploughing depth of a disc plough?",
-    options: ["5–10 cm", "10–15 cm", "15–25 cm", "30–50 cm"],
-    correct: 2,
+    options: ["5–10 cm", "15–25 cm", "10–15 cm", "30–50 cm"],
+    correct: 1,
     explanation: "A disc plough typically operates at 15–25 cm depth for primary tillage. It is preferred in hard, dry soils and stony fields where a mould board plough would have difficulty operating and suffer more wear."
   },
   {
@@ -546,8 +546,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Draft of a plough increases with:",
-    options: ["Decreasing ploughing depth", "Increasing ploughing speed and depth", "Smaller plough share", "Lighter soil type"],
-    correct: 1,
+    options: ["Decreasing ploughing depth", "Lighter soil type", "Smaller plough share", "Increasing ploughing speed and depth"],
+    correct: 3,
     explanation: "Draft increases with greater ploughing depth (more soil to cut and turn), higher speed (inertia forces increase), heavier soil type, and wider plough. Specific draft (kN/m²) is used to compare soil resistance."
   },
   {
@@ -556,8 +556,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "A chisel plough differs from a mould board plough in that it:",
-    options: ["Inverts the soil completely in plant breeding", "Leaves crop residues on the surface and does not invert the soil", "Requires no tractor to operate for crop improvement", "Can only operate in paddy fields in variety development"],
-    correct: 1,
+    options: ["Inverts the soil completely in plant breeding", "Requires no tractor to operate for crop improvement", "Leaves crop residues on the surface and does not invert the soil", "Can only operate in paddy fields in variety development"],
+    correct: 2,
     explanation: "A chisel plough breaks and loosens the soil without inversion, leaving most crop residues on or near the surface. This conserves moisture, reduces erosion and maintains organic matter, making it suitable for conservation tillage."
   },
   {
@@ -566,8 +566,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "The 'furrow wheel' in a mould board plough assembly helps to:",
-    options: ["Attach the plough to the tractor in plant breeding", "Pulverise clods behind the plough for crop improvement", "Guide the plough into the next furrow and control ploughing width", "Support the rear of the plough on the road"],
-    correct: 2,
+    options: ["Attach the plough to the tractor in plant breeding", "Pulverise clods behind the plough for crop improvement", "Support the rear of the plough on the road", "Guide the plough into the next furrow and control ploughing width"],
+    correct: 3,
     explanation: "The furrow wheel runs in the open furrow and helps guide the plough at correct width and depth, controlling the width of cut and preventing the plough from deflecting sideways. It also reduces side thrust on the operator."
   },
   {
@@ -576,8 +576,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Deep tillage (subsoiling) is recommended primarily when:",
-    options: ["Soil is already well-aerated in plant breeding", "A hardpan exists below 20 cm that restricts root growth", "Crop requires shallow root development for crop improvement", "Soil is loose and sandy in variety development"],
-    correct: 1,
+    options: ["Soil is already well-aerated in plant breeding", "Soil is loose and sandy in variety development", "Crop requires shallow root development for crop improvement", "A hardpan exists below 20 cm that restricts root growth"],
+    correct: 3,
     explanation: "Deep tillage/subsoiling breaks impervious hardpan layers (plough pan, clay pan) at 30–90 cm depth that restrict root penetration and water drainage. It is recommended every 3–5 years in fields with such compaction."
   },
   {
@@ -586,8 +586,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Which type of plough is preferred in stony or previously unploughed land (virgin soil)?",
-    options: ["Chisel plough", "Mould board plough", "Disc plough", "Rotary plough"],
-    correct: 2,
+    options: ["Disc plough", "Mould board plough", "Chisel plough", "Rotary plough"],
+    correct: 0,
     explanation: "Disc ploughs are preferred in stony, stumpy or hard uncultivated land because the freely rotating discs ride over obstacles rather than breaking. Disc blades are self-sharpening and can penetrate hard dry soils better than rigid shares."
   },
   {
@@ -596,8 +596,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "The plough share (in MB plough) is primarily responsible for:",
-    options: ["Turning the soil upside down in plant breeding", "Cutting and lifting the furrow slice from the bottom", "Pressing the soil to form a firm seedbed", "Supporting the plough body for crop improvement"],
-    correct: 1,
+    options: ["Cutting and lifting the furrow slice from the bottom", "Turning the soil upside down in plant breeding", "Pressing the soil to form a firm seedbed", "Supporting the plough body for crop improvement"],
+    correct: 0,
     explanation: "The share is the cutting edge at the front bottom of the plough. It cuts horizontally under the furrow slice and lifts it, passing it to the mould board. Shares are hardened steel and replaceable when worn."
   },
   {
@@ -606,8 +606,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "In terms of soil inversion, which plough gives the best weed and residue burial?",
-    options: ["Mould board plough", "Disc plough", "Subsoiler", "Chisel plough"],
-    correct: 0,
+    options: ["Chisel plough", "Disc plough", "Subsoiler", "Mould board plough"],
+    correct: 3,
     explanation: "The mould board plough provides complete soil inversion (turns the furrow slice 135–180°), burying all surface weeds, crop residues and pests. Disc ploughs give partial inversion; chisel and subsoiler give no inversion."
   },
   {
@@ -626,8 +626,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "How many bottoms (bodies) does a standard single-bottom mould board plough have?",
-    options: ["One", "Four", "Three", "Two"],
-    correct: 0,
+    options: ["Four", "One", "Three", "Two"],
+    correct: 1,
     explanation: "A single-bottom mould board plough has one plough body (share + mould board + land side) and ploughs one furrow at a time. Multi-bottom ploughs (2, 3, 4 bottoms) are used with more powerful tractors for faster ploughing."
   },
   {
@@ -636,8 +636,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Primary tillage is defined as:",
-    options: ["The first tillage to open the soil after harvest to a good depth", "Cultivation between crop rows during the season in plant breeding", "Tillage done with hand tools only for crop improvement", "Fine seedbed preparation after primary tillage in variety development"],
-    correct: 0,
+    options: ["Cultivation between crop rows during the season in plant breeding", "The first tillage to open the soil after harvest to a good depth", "Tillage done with hand tools only for crop improvement", "Fine seedbed preparation after primary tillage in variety development"],
+    correct: 1,
     explanation: "Primary tillage is the initial deep tillage of the soil after harvest (or before planting) using ploughs to break, invert and loosen the soil to a depth of 15–30 cm. Secondary tillage refines the seedbed afterward."
   },
   {
@@ -646,8 +646,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "The 'land side' of a mould board plough prevents:",
-    options: ["Lateral (sideways) displacement of the plough in the furrow", "Vertical penetration of the share", "The share from wearing too fast", "The furrow slice from crumbling too much"],
-    correct: 0,
+    options: ["The furrow slice from crumbling too much", "Vertical penetration of the share", "The share from wearing too fast", "Lateral (sideways) displacement of the plough in the furrow"],
+    correct: 3,
     explanation: "The land side is a flat plate on the plough body that presses against the unploughed furrow wall, resisting the lateral (side) thrust created as soil is pushed against the mould board. It stabilises the plough during operation."
   },
 
@@ -668,8 +668,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "A rotavator (rotary tiller) is unique because it:",
-    options: ["Requires no tractor PTO connection", "Only works in dry conditions", "Performs primary and secondary tillage in a single pass", "Uses a cutter bar to slice crop residues"],
-    correct: 2,
+    options: ["Requires no tractor PTO connection", "Performs primary and secondary tillage in a single pass", "Only works in dry conditions", "Uses a cutter bar to slice crop residues"],
+    correct: 1,
     explanation: "A rotavator uses PTO-driven rotating L-shaped blades to cut, mix and pulverise the soil in one pass, combining primary and secondary tillage. It produces a fine seedbed quickly but consumes more power than passive implements."
   },
   {
@@ -678,8 +678,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "A spring-tyne cultivator is preferred over a rigid-tyne cultivator in:",
-    options: ["Stony or hard soils where tynes might break", "Wet paddy field intercultivation in plant breeding", "Deep ploughing operations for crop improvement", "Primary tillage after harvest in variety development"],
-    correct: 0,
+    options: ["Wet paddy field intercultivation in plant breeding", "Stony or hard soils where tynes might break", "Deep ploughing operations for crop improvement", "Primary tillage after harvest in variety development"],
+    correct: 1,
     explanation: "Spring-tyne cultivators have flexible spring-steel tynes that deflect when they hit stones or hard clods, preventing breakage. Rigid-tyne cultivators are better for loose soils. Spring tynes also have a vibrating action that helps break clods."
   },
   {
@@ -688,8 +688,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Secondary tillage is carried out primarily to:",
-    options: ["Turn and invert the soil for pest control", "Prepare a fine seedbed, incorporate fertilisers and control weeds", "Form drainage channels in plant breeding", "Break subsoil hardpan for crop improvement"],
-    correct: 1,
+    options: ["Prepare a fine seedbed, incorporate fertilisers and control weeds", "Turn and invert the soil for pest control", "Form drainage channels in plant breeding", "Break subsoil hardpan for crop improvement"],
+    correct: 0,
     explanation: "Secondary tillage (harrowing, cultivating) follows primary tillage to break clods, prepare a fine and firm seedbed, incorporate manure and fertilisers, and control weeds before sowing. It is shallower than primary tillage."
   },
   {
@@ -698,8 +698,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "What is the purpose of a land leveller (blade harrow/grader)?",
-    options: ["To remove large stones from the field", "To cut soil to uniform depth for planting", "To form raised beds for vegetable crops", "To smooth and level the field surface for uniform irrigation"],
-    correct: 3,
+    options: ["To remove large stones from the field", "To cut soil to uniform depth for planting", "To smooth and level the field surface for uniform irrigation", "To form raised beds for vegetable crops"],
+    correct: 2,
     explanation: "A land leveller or grader blade is used to smooth and level the field surface, eliminating undulations. Laser land levelling saves 20–30% irrigation water by ensuring uniform water distribution across the field."
   },
   {
@@ -718,8 +718,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "A ridger (furrower) is used for:",
-    options: ["Harvesting root crops in plant breeding", "Levelling the field before sowing for crop improvement", "Forming ridges and furrows for planting row crops and irrigation", "Primary deep ploughing in variety development"],
-    correct: 2,
+    options: ["Harvesting root crops in plant breeding", "Levelling the field before sowing for crop improvement", "Primary deep ploughing in variety development", "Forming ridges and furrows for planting row crops and irrigation"],
+    correct: 3,
     explanation: "A ridger forms ridges (raised beds) and furrows in the field for planting row crops (sugarcane, cotton, maize), facilitating furrow irrigation between rows and providing good drainage to plant roots."
   },
   {
@@ -728,8 +728,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "The standard row spacing for wide-row crops like cotton and sugarcane when using a cultivator is:",
-    options: ["60–90 cm", "15–22 cm", "120–150 cm", "30–45 cm"],
-    correct: 0,
+    options: ["120–150 cm", "15–22 cm", "60–90 cm", "30–45 cm"],
+    correct: 2,
     explanation: "Wide-row crops like cotton, maize and sugarcane are planted at 60–90 cm row spacing to allow intercultivation with tractor-drawn cultivators. Closer rows do not permit mechanised intercultivation."
   },
   {
@@ -758,8 +758,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Which secondary tillage implement is best for clod crushing and smoothing after ploughing?",
-    options: ["Rotary tiller", "Roller/clod crusher", "Subsoiler", "Disc plough"],
-    correct: 1,
+    options: ["Rotary tiller", "Disc plough", "Subsoiler", "Roller/clod crusher"],
+    correct: 3,
     explanation: "A roller or clod crusher consists of a heavy cylinder that breaks clods and firms/levels the seedbed. Cambridge rollers (ridged) are particularly effective for clod crushing in clay soils."
   },
   {
@@ -788,8 +788,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "A powered rotary cultivator used for intercultivation between rows is called:",
-    options: ["Power harrow", "Rotary hoe", "Mouldboard plough", "Subsoiler"],
-    correct: 1,
+    options: ["Rotary hoe", "Power harrow", "Mouldboard plough", "Subsoiler"],
+    correct: 0,
     explanation: "A rotary hoe uses PTO-driven rotating tines/hoes for intercultivation between crop rows. It is more effective than passive cultivators in breaking soil crust and killing weeds, especially in paddy fields."
   },
   {
@@ -798,8 +798,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "A blade harrow (sweep) used in dryland farming primarily:",
-    options: ["Cuts weeds below the surface without disturbing the soil much", "Creates ridges for irrigation in plant breeding", "Cuts soil deep and inverts it for crop improvement", "Pulverises surface into fine tilth in variety development"],
-    correct: 0,
+    options: ["Pulverises surface into fine tilth in variety development", "Creates ridges for irrigation in plant breeding", "Cuts soil deep and inverts it for crop improvement", "Cuts weeds below the surface without disturbing the soil much"],
+    correct: 3,
     explanation: "Blade harrows (duck-foot or sweep cultivators) have flat, V-shaped blades that cut weeds just below the soil surface without inverting the soil, conserving surface mulch for moisture retention in dryland areas."
   },
   {
@@ -808,8 +808,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "What is the main purpose of 'earthing up' in sugarcane cultivation?",
-    options: ["Removing excess soil from roots in plant breeding according to plant breeding and genetics science principles", "Making ridges for drainage only according to plant breeding and genetics science principles", "Aerating roots by removing soil in variety development according to plant breeding and genetics science principles", "Building up soil around the base of sugarcane plants to support stalks and cover fertiliser"],
-    correct: 3,
+    options: ["Removing excess soil from roots in plant breeding according to plant breeding and genetics science principles", "Building up soil around the base of sugarcane plants to support stalks and cover fertiliser", "Aerating roots by removing soil in variety development according to plant breeding and genetics science principles", "Making ridges for drainage only according to plant breeding and genetics science principles"],
+    correct: 1,
     explanation: "Earthing up (banking up) in sugarcane uses a ridger to build soil around the base of cane plants at 30–45 days. This supports tall stalks, covers applied fertiliser, suppresses weeds and improves drainage."
   },
 
@@ -820,8 +820,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "The most common seed metering mechanism in grain drills used in India is the:",
-    options: ["Plate/cell wheel metering", "Belt conveyor metering", "Air seeder mechanism", "Fluted roller (force feed) mechanism"],
-    correct: 3,
+    options: ["Plate/cell wheel metering", "Fluted roller (force feed) mechanism", "Air seeder mechanism", "Belt conveyor metering"],
+    correct: 1,
     explanation: "The fluted roller (also called force-feed or corrugated roller) mechanism is the most common in Indian grain drills. The flutes on the roller catch and drop seeds positively, giving more uniform metering than plain rollers."
   },
   {
@@ -830,8 +830,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "A zero-till drill (ZTD) is designed to:",
-    options: ["Apply fertiliser without seeds in plant breeding", "Plough deep before sowing for crop improvement", "Sow seeds directly into undisturbed crop residue without prior tillage", "Plant rice seedlings in puddle mud"],
-    correct: 2,
+    options: ["Sow seeds directly into undisturbed crop residue without prior tillage", "Plough deep before sowing for crop improvement", "Apply fertiliser without seeds in plant breeding", "Plant rice seedlings in puddle mud"],
+    correct: 0,
     explanation: "A zero-till drill cuts through crop residue and undisturbed soil using narrow inverted-T or disc openers, places seeds and fertiliser at correct depth and spacing without any prior tillage. It saves time, fuel and moisture."
   },
   {
@@ -850,8 +850,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Seed rate adjustment in a seed drill is achieved by:",
-    options: ["Changing tractor speed only in plant breeding", "Adjusting the furrow opener angle for crop improvement", "Varying the exposed length of the fluted roller", "Changing seed hopper size in variety development"],
-    correct: 2,
+    options: ["Changing tractor speed only in plant breeding", "Adjusting the furrow opener angle for crop improvement", "Changing seed hopper size in variety development", "Varying the exposed length of the fluted roller"],
+    correct: 3,
     explanation: "Seed rate is adjusted by changing the effective length of the fluted/force-feed roller exposed to the seed flow, or by changing sprocket/gear ratios on the ground wheel drive. Both methods change seeds delivered per unit area."
   },
   {
@@ -860,8 +860,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "A precision planter differs from a seed drill in that it:",
-    options: ["Broadcasts seeds uniformly in plant breeding according to plant breeding and genetics science principles", "Places individual seeds at pre-set spacing within the row, reducing need for thinning", "Sows only in puddled soils for crop improvement", "Sows seeds in rows at uniform spacing in variety development"],
-    correct: 1,
+    options: ["Places individual seeds at pre-set spacing within the row, reducing need for thinning", "Broadcasts seeds uniformly in plant breeding according to plant breeding and genetics science principles", "Sows only in puddled soils for crop improvement", "Sows seeds in rows at uniform spacing in variety development"],
+    correct: 0,
     explanation: "A precision planter (cell wheel or air planter) places individual seeds at exact within-row spacing (e.g., one seed every 20–30 cm), eliminating the need for thinning. Seed drills sow continuously without inter-seed spacing control."
   },
   {
@@ -870,8 +870,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "The function of press wheels (covering wheels) in a seed drill is to:",
-    options: ["Drive the seed metering mechanism in plant breeding", "Apply fertiliser beside the seed for crop improvement", "Open the furrow for seed placement", "Cover seeds with soil and ensure good seed-soil contact"],
-    correct: 3,
+    options: ["Drive the seed metering mechanism in plant breeding", "Cover seeds with soil and ensure good seed-soil contact", "Open the furrow for seed placement", "Apply fertiliser beside the seed for crop improvement"],
+    correct: 1,
     explanation: "Press/covering wheels close the furrow over seeds and firm the soil around them, ensuring good seed-soil contact for capillary moisture movement and uniform germination. They follow the furrow openers."
   },
   {
@@ -880,8 +880,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Which type of furrow opener is best suited for sowing in crop residue-covered fields?",
-    options: ["Hoe/shoe opener", "Single disc opener", "Double disc opener", "Runner opener"],
-    correct: 2,
+    options: ["Double disc opener", "Single disc opener", "Hoe/shoe opener", "Runner opener"],
+    correct: 0,
     explanation: "Double disc (twin disc) openers are preferred for residue-covered (conservation tillage) fields because the two angled discs cut through residues cleanly without clogging, whereas hoe openers tend to accumulate residue."
   },
   {
@@ -890,8 +890,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "The seed-cum-fertiliser drill places fertiliser:",
-    options: ["On top of seeds in plant breeding", "Broadcast on the surface for crop improvement", "Separately below and to the side of the seed", "Mixed with seeds in the same furrow"],
-    correct: 2,
+    options: ["On top of seeds in plant breeding", "Broadcast on the surface for crop improvement", "Mixed with seeds in the same furrow", "Separately below and to the side of the seed"],
+    correct: 3,
     explanation: "A seed-cum-fertiliser drill places fertiliser 2–3 cm below and 3–5 cm to the side of the seed furrow (band placement). This placement prevents seed burn from direct fertiliser contact while keeping nutrients near the root zone."
   },
   {
@@ -900,8 +900,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "The nursery mat preparation required for mechanised rice transplanting requires seedlings of:",
-    options: ["18–25 days old", "30–35 days old", "10–15 days old", "5–7 days old"],
-    correct: 0,
+    options: ["30–35 days old", "18–25 days old", "10–15 days old", "5–7 days old"],
+    correct: 1,
     explanation: "Mechanised rice transplanters require mat-type nursery seedlings raised in flat trays for 18–25 days. The seedlings form a dense root mat that can be picked up and transplanted by the machine's picking fingers."
   },
   {
@@ -910,8 +910,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Air seeder (pneumatic seed drill) uses air to:",
-    options: ["Clean seeds before sowing in plant breeding", "Germinate seeds in the field for crop improvement", "Transport seeds from the hopper to the furrow openers through tubes", "Apply herbicides with seeds in variety development"],
-    correct: 2,
+    options: ["Clean seeds before sowing in plant breeding", "Transport seeds from the hopper to the furrow openers through tubes", "Germinate seeds in the field for crop improvement", "Apply herbicides with seeds in variety development"],
+    correct: 1,
     explanation: "Pneumatic/air seeders use a fan/blower to create an airstream that carries seeds metered by a central meter through flexible tubes to individual row units. This allows a single, large central hopper and even seed distribution at high speed."
   },
   {
@@ -920,8 +920,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "The recommended seed rate for wheat sown by a seed drill in India is approximately:",
-    options: ["50 kg/ha", "100 kg/ha", "150 kg/ha", "200 kg/ha"],
-    correct: 1,
+    options: ["50 kg/ha", "200 kg/ha", "150 kg/ha", "100 kg/ha"],
+    correct: 3,
     explanation: "The recommended seed rate for wheat (normal sowing) is 100 kg/ha when sown by a seed drill at 22.5 cm row spacing. Late sowing may require up to 125 kg/ha. Broadcasting requires 125–150 kg/ha as it is less efficient."
   },
   {
@@ -930,8 +930,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "A potato planter compared to a seed drill operates with:",
-    options: ["Smaller tubers placed deeper using cup-type metering", "Seeds blown pneumatically into deep furrows", "Fine seeds placed at shallow depth using fluted rollers", "Large seeds broadcast on surface"],
-    correct: 0,
+    options: ["Large seeds broadcast on surface", "Seeds blown pneumatically into deep furrows", "Fine seeds placed at shallow depth using fluted rollers", "Smaller tubers placed deeper using cup-type metering"],
+    correct: 3,
     explanation: "A potato planter uses large cups or spoons on a rotating disc to pick individual seed pieces (tubers) from the hopper and drop them into furrows at 20–30 cm spacing and 8–10 cm depth, which is not possible with conventional seed drills."
   },
   {
@@ -940,8 +940,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "What is the optimum sowing depth for small seeds like wheat and mustard?",
-    options: ["1–2 cm", "3–5 cm", "12–15 cm", "8–10 cm"],
-    correct: 1,
+    options: ["1–2 cm", "12–15 cm", "3–5 cm", "8–10 cm"],
+    correct: 2,
     explanation: "Small seeds like wheat, barley and mustard should be sown at 3–5 cm depth. Shallower sowing risks drying before germination; deeper sowing exhausts seed food reserves before the seedling emerges."
   },
   {
@@ -950,8 +950,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Which instrument is used to calibrate a seed drill before field operation?",
-    options: ["Refractometer in plant breeding according to plant breeding and genetics science principles", "Soil test kit according to plant breeding and genetics science principles", "Hygrometer in variety development according to plant breeding and genetics science principles", "Canvas sheet or collection tray to count seeds dropped in measured revolutions"],
-    correct: 3,
+    options: ["Refractometer in plant breeding according to plant breeding and genetics science principles", "Soil test kit according to plant breeding and genetics science principles", "Canvas sheet or collection tray to count seeds dropped in measured revolutions", "Hygrometer in variety development according to plant breeding and genetics science principles"],
+    correct: 2,
     explanation: "A seed drill is calibrated by driving the ground wheel (with rear raised) for a measured number of revolutions or distance, collecting seeds on a canvas sheet, counting/weighing them and comparing to target seed rate, then adjusting roller length."
   },
   {
@@ -992,8 +992,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "A flat fan nozzle produces a spray pattern best suited for:",
-    options: ["Soil applications and band spraying", "Tree and orchard spraying", "Broadcast foliar spraying on row crops", "Applying granules"],
-    correct: 2,
+    options: ["Soil applications and band spraying", "Broadcast foliar spraying on row crops", "Tree and orchard spraying", "Applying granules"],
+    correct: 1,
     explanation: "Flat fan nozzles produce a flat, fan-shaped pattern with even distribution across the swath. They are ideal for broadcast foliar applications on row crops with a boom sprayer at 30–60 cm height."
   },
   {
@@ -1002,8 +1002,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "A mist blower (motorised knapsack mist-duster) differs from a power sprayer in that it:",
-    options: ["Applies only dry dust formulations in plant breeding", "Requires no engine for crop improvement", "Uses high pressure to atomise liquid in variety development", "Uses a high-speed air blast to break liquid into"],
-    correct: 3,
+    options: ["Uses a high-speed air blast to break liquid into", "Requires no engine for crop improvement", "Uses high pressure to atomise liquid in variety development", "Applies only dry dust formulations in plant breeding"],
+    correct: 0,
     explanation: "A mist blower uses a centrifugal blower/fan to generate a high-velocity air stream that atomises the spray liquid into fine mist droplets (50–100 µm) and carries them into the crop canopy. This provides better penetration than hydraulic sprayers in dense canopies."
   },
   {
@@ -1012,8 +1012,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Sprayer calibration refers to:",
-    options: ["Adjusting the pH of the spray solution in plant breeding", "Selecting the type of pesticide to use for crop improvement", "Determining and adjusting the volume of spray liquid applied per unit area", "Cleaning the nozzles after use in variety development"],
-    correct: 2,
+    options: ["Adjusting the pH of the spray solution in plant breeding", "Determining and adjusting the volume of spray liquid applied per unit area", "Selecting the type of pesticide to use for crop improvement", "Cleaning the nozzles after use in variety development"],
+    correct: 1,
     explanation: "Sprayer calibration is the process of determining (measuring) and adjusting the spray volume applied per unit area (litres/ha) to match the recommended dose. It involves nozzle output rate, forward speed and swath width."
   },
   {
@@ -1032,8 +1032,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "What is the main advantage of a boom sprayer over a knapsack sprayer?",
-    options: ["Lower cost in plant breeding", "Wider field coverage per unit time with uniform application", "Works without a power source", "No need for water for crop improvement"],
-    correct: 1,
+    options: ["Lower cost in plant breeding", "No need for water for crop improvement", "Works without a power source", "Wider field coverage per unit time with uniform application"],
+    correct: 3,
     explanation: "Boom sprayers cover swaths of 6–24 m wide using multiple nozzles on a horizontal boom, achieving very high output (20–50 ha/day). Knapsack sprayers cover only 0.5–1 ha/day. Boom sprayers also give more uniform application."
   },
   {
@@ -1042,8 +1042,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Droplet size in spraying: smaller droplets (< 100 µm) have which disadvantage?",
-    options: ["Poor coverage of leaf surface in plant breeding", "Too heavy to be carried by the pump", "Greater risk of drift and evaporation before reaching the target", "They cannot carry systemic pesticides for crop improvement"],
-    correct: 2,
+    options: ["Poor coverage of leaf surface in plant breeding", "Too heavy to be carried by the pump", "They cannot carry systemic pesticides for crop improvement", "Greater risk of drift and evaporation before reaching the target"],
+    correct: 3,
     explanation: "Very fine droplets (<100 µm) are susceptible to wind drift (they remain airborne longer) and evaporate before reaching the target, reducing efficacy and causing off-target contamination. Coarser droplets (200–400 µm) are less drift-prone."
   },
   {
@@ -1052,8 +1052,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "An ultra-low volume (ULV) sprayer applies pesticide at:",
-    options: ["Moderate volume (200–500 L/ha) in plant breeding", "Only as dry dust for crop improvement", "High volume (>500 L/ha) in water", "Very low volume (0.5–5 L/ha) of concentrated formulation"],
-    correct: 3,
+    options: ["Moderate volume (200–500 L/ha) in plant breeding", "Very low volume (0.5–5 L/ha) of concentrated formulation", "High volume (>500 L/ha) in water", "Only as dry dust for crop improvement"],
+    correct: 1,
     explanation: "ULV sprayers apply 0.5–5 litres per hectare of highly concentrated pesticide formulation (oil-based) using spinning disc atomisers to produce very fine, uniform droplets. They are used in aerial and large-scale applications."
   },
   {
@@ -1062,8 +1062,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "What safety equipment is mandatory when operating a knapsack sprayer with toxic pesticides?",
-    options: ["Sunglasses and hat in plant breeding", "Life jacket for crop improvement", "Helmet and boots only", "Gloves, face shield/goggles, protective clothing, and respirator/mask"],
-    correct: 3,
+    options: ["Sunglasses and hat in plant breeding", "Gloves, face shield/goggles, protective clothing, and respirator/mask", "Helmet and boots only", "Life jacket for crop improvement"],
+    correct: 1,
     explanation: "When applying toxic pesticides, the operator must wear chemical-resistant gloves, face shield or goggles, protective coverall, boots, and respirator/nose-mouth mask to prevent dermal absorption, eye splash and inhalation of pesticide vapours."
   },
   {
@@ -1072,8 +1072,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "A duster (power duster) is used when:",
-    options: ["Pesticide formulation is in dust form and dry application is required", "Application is in flooded field only in plant breeding", "Very high pressure spraying is needed for crop improvement", "Pesticide must be dissolved in water first in variety development"],
-    correct: 0,
+    options: ["Very high pressure spraying is needed for crop improvement", "Application is in flooded field only in plant breeding", "Pesticide formulation is in dust form and dry application is required", "Pesticide must be dissolved in water first in variety development"],
+    correct: 2,
     explanation: "Power dusters apply dry pesticide dust formulations (WP, DP) directly using a blower. Dusting is faster than spraying (no water needed), useful when water is scarce, but dust drift and coverage are less precise."
   },
   {
@@ -1082,8 +1082,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "The formula for calculating spray volume (L/ha) from a boom sprayer is:",
-    options: ["Nozzle output (L/min) ÷ (Speed × Swath) in plant breeding", "Speed × Swath ÷ Nozzle output for crop improvement", "Nozzle output (L/min) × 600 ÷ (Speed km/h × Swath m)", "Nozzle output × Pressure × Swath in variety development"],
-    correct: 2,
+    options: ["Nozzle output (L/min) ÷ (Speed × Swath) in plant breeding", "Speed × Swath ÷ Nozzle output for crop improvement", "Nozzle output × Pressure × Swath in variety development", "Nozzle output (L/min) × 600 ÷ (Speed km/h × Swath m)"],
+    correct: 3,
     explanation: "Application rate (L/ha) = [Nozzle output (L/min) × 600] ÷ [Forward speed (km/h) × Nozzle spacing (m)]. This formula converts per-minute nozzle output to per-hectare volume based on travel speed and coverage width."
   },
   {
@@ -1092,8 +1092,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Drone sprayers in modern agriculture offer the advantage of:",
-    options: ["Applying fertiliser to soil only in plant breeding", "Deep soil penetration like a plough for crop improvement", "No requirement for pesticide formulation in variety development", "Aerial application in tall/inaccessible crops with GPS guidance and reduced labour"],
-    correct: 3,
+    options: ["Applying fertiliser to soil only in plant breeding", "Deep soil penetration like a plough for crop improvement", "Aerial application in tall/inaccessible crops with GPS guidance and reduced labour", "No requirement for pesticide formulation in variety development"],
+    correct: 2,
     explanation: "Agricultural drones (UAV sprayers) can spray pesticides, fungicides and nano-fertilisers from above the crop canopy with GPS precision, especially in tall or hilly crops inaccessible to ground sprayers. They save labour and reduce operator exposure."
   },
   {
@@ -1102,8 +1102,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "The operating pressure of a typical knapsack sprayer pump is:",
-    options: ["20–30 bar", "8–12 bar", "1.5–4 bar", "0.1–0.5 bar"],
-    correct: 2,
+    options: ["1.5–4 bar", "8–12 bar", "20–30 bar", "0.1–0.5 bar"],
+    correct: 0,
     explanation: "Knapsack sprayers typically operate at 1.5–4 bar pressure. This is adequate for foliar spraying with standard nozzles. High-pressure sprayers for tree washing or horticultural use operate at 10–30 bar."
   },
   {
@@ -1132,8 +1132,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "The 'swath width' in boom spraying refers to:",
-    options: ["Width of the tractor in plant breeding", "Width of land covered per pass by the sprayer", "Depth of spray penetration into the canopy for crop improvement", "Length of the boom pipe in variety development"],
-    correct: 1,
+    options: ["Width of the tractor in plant breeding", "Length of the boom pipe in variety development", "Depth of spray penetration into the canopy for crop improvement", "Width of land covered per pass by the sprayer"],
+    correct: 3,
     explanation: "Swath width is the effective width of crop covered per pass, equal to the number of nozzles × nozzle spacing. A boom with 12 nozzles at 50 cm spacing has a 6 m swath. It determines field capacity along with forward speed."
   },
 
@@ -1144,8 +1144,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "The impeller of a centrifugal pump:",
-    options: ["Filters sediment from irrigation water in plant breeding", "Controls water flow rate at the outlet for crop improvement", "Reciprocates to push water through valves in variety development", "Rotates at high speed to impart velocity and centrifugal force to water"],
-    correct: 3,
+    options: ["Filters sediment from irrigation water in plant breeding", "Controls water flow rate at the outlet for crop improvement", "Rotates at high speed to impart velocity and centrifugal force to water", "Reciprocates to push water through valves in variety development"],
+    correct: 2,
     explanation: "The impeller is the rotating element of a centrifugal pump. It has vanes that spin at high speed, imparting velocity (kinetic energy) to water by centrifugal action. The diffuser/volute then converts velocity to pressure head."
   },
   {
@@ -1154,8 +1154,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "A submersible pump differs from a centrifugal pump in that it:",
-    options: ["Uses only wind energy in plant breeding according to plant breeding and genetics science principles", "Is installed below water level in the borewell; motor and pump are in one sealed unit", "Cannot pump more than 1 m3/hr according to plant breeding and genetics science principles", "Is installed at the surface; pump and motor are separate in variety development"],
-    correct: 1,
+    options: ["Uses only wind energy in plant breeding according to plant breeding and genetics science principles", "Cannot pump more than 1 m3/hr according to plant breeding and genetics science principles", "Is installed below water level in the borewell; motor and pump are in one sealed unit", "Is installed at the surface; pump and motor are separate in variety development"],
+    correct: 2,
     explanation: "A submersible pump has the motor and pump combined in one sealed, waterproof unit installed below the water surface in borewells/deepwells. Water cools the motor. This is preferred for borewells where the water table is deep."
   },
   {
@@ -1174,8 +1174,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Sprinkler irrigation achieves a water use efficiency (WUE) of approximately:",
-    options: ["95–100%", "60–70%", "40–50%", "75–85%"],
-    correct: 3,
+    options: ["75–85%", "60–70%", "40–50%", "95–100%"],
+    correct: 0,
     explanation: "Sprinkler irrigation has WUE of 75–85%, compared to 40–50% for surface (flood) irrigation and 90–95% for drip irrigation. Sprinklers reduce deep percolation and runoff losses compared to flood irrigation."
   },
   {
@@ -1184,8 +1184,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "The hydraulic head (total head) a pump must overcome is the sum of:",
-    options: ["Suction head only in plant breeding according to plant breeding and genetics science principles", "Suction lift + delivery head + friction losses + velocity head", "Only pipe friction losses for crop improvement", "Delivery head minus suction head in variety development"],
-    correct: 1,
+    options: ["Suction head only in plant breeding according to plant breeding and genetics science principles", "Only pipe friction losses for crop improvement", "Suction lift + delivery head + friction losses + velocity head", "Delivery head minus suction head in variety development"],
+    correct: 2,
     explanation: "Total head = static head (suction lift + delivery height) + friction head losses in pipes and fittings + velocity head (minor term). The pump must develop sufficient head to lift water from source to delivery point against all these resistances."
   },
   {
@@ -1194,8 +1194,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Cavitation in a centrifugal pump occurs when:",
-    options: ["Suction head is too high and water vaporises at the inlet, forming bubbles that implode", "Too much water is available in plant breeding according to plant breeding and genetics science principles", "Water temperature is too cold according to plant breeding and genetics science principles", "The impeller speed is too low in variety development"],
-    correct: 0,
+    options: ["The impeller speed is too low in variety development", "Too much water is available in plant breeding according to plant breeding and genetics science principles", "Water temperature is too cold according to plant breeding and genetics science principles", "Suction head is too high and water vaporises at the inlet, forming bubbles that implode"],
+    correct: 3,
     explanation: "Cavitation occurs when suction lift is too high or suction line is obstructed, causing pressure at the impeller eye to fall below the vapour pressure of water. Vapour bubbles form and then implode violently, causing noise, vibration, and impeller damage."
   },
   {
@@ -1204,8 +1204,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "The maximum practical suction lift for a centrifugal pump at sea level is approximately:",
-    options: ["3 m", "7–8 m", "15 m", "25 m"],
-    correct: 1,
+    options: ["3 m", "15 m", "7–8 m", "25 m"],
+    correct: 2,
     explanation: "The theoretical maximum suction lift at sea level is 10.3 m (atmospheric pressure head). Practically, accounting for friction and vapour pressure, the safe maximum suction lift is 7–8 m. Beyond this, cavitation occurs."
   },
   {
@@ -1224,8 +1224,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Fertigation refers to:",
-    options: ["Soil testing before fertiliser application in plant breeding", "Applying fertilisers by broadcasting for crop improvement", "Injecting soluble fertilisers into the irrigation system for simultaneous application with water", "Fermenting organic matter for fertiliser in variety development"],
-    correct: 2,
+    options: ["Soil testing before fertiliser application in plant breeding", "Applying fertilisers by broadcasting for crop improvement", "Fermenting organic matter for fertiliser in variety development", "Injecting soluble fertilisers into the irrigation system for simultaneous application with water"],
+    correct: 3,
     explanation: "Fertigation is the application of water-soluble fertilisers through the drip or sprinkler irrigation system. It improves nutrient use efficiency (NUE) by placing nutrients precisely in the root zone at the right time, reducing losses."
   },
   {
@@ -1234,8 +1234,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "The discharge of a centrifugal pump is expressed in:",
-    options: ["Kilograms per second in plant breeding", "Litres per second (L/s) or cubic metres per hour (m³/hr)", "Metres of head for crop improvement", "Kilowatts in variety development according to plant breeding and genetics science principles"],
-    correct: 1,
+    options: ["Litres per second (L/s) or cubic metres per hour (m³/hr)", "Kilograms per second in plant breeding", "Metres of head for crop improvement", "Kilowatts in variety development according to plant breeding and genetics science principles"],
+    correct: 0,
     explanation: "Pump discharge (flow rate) is measured in litres per second (L/s), litres per minute (L/min) or m³/hour. Head is measured in metres. Power is in kilowatts. These three (flow rate, head, power) define pump performance."
   },
   {
@@ -1264,8 +1264,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Which pump type is most suitable for lifting water from deep borewells (>50 m)?",
-    options: ["Submersible pump", "Centrifugal (surface) pump", "Axial flow pump", "Reciprocating hand pump"],
-    correct: 0,
+    options: ["Axial flow pump", "Centrifugal (surface) pump", "Submersible pump", "Reciprocating hand pump"],
+    correct: 2,
     explanation: "Submersible pumps are designed for deep borewells. They are installed below the water surface in the borewell and can lift water from depths of 50–300+ m. Surface centrifugal pumps are impractical for depths beyond 7–8 m (suction limit)."
   },
   {
@@ -1274,8 +1274,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "A filter in a drip irrigation system is essential to:",
-    options: ["Increase water pressure in plant breeding", "Add fertiliser to the water for crop improvement", "Control timing of irrigation in variety development", "Prevent clogging of emitters by removing suspended particles and algae"],
-    correct: 3,
+    options: ["Increase water pressure in plant breeding", "Add fertiliser to the water for crop improvement", "Prevent clogging of emitters by removing suspended particles and algae", "Control timing of irrigation in variety development"],
+    correct: 2,
     explanation: "Drip emitters have very small openings (0.5–1.5 mm) that clog easily with sand, silt, algae and mineral deposits. Screen, disc or sand media filters are mandatory to remove particles >130 µm before the water enters the lateral lines."
   },
   {
@@ -1284,8 +1284,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "The uniformity coefficient of a sprinkler/drip system indicates:",
-    options: ["The energy efficiency of the pump motor", "How evenly water is distributed across the field", "The chemical quality of irrigation water", "How uniform the water pressure is in the pump"],
-    correct: 1,
+    options: ["The energy efficiency of the pump motor", "The chemical quality of irrigation water", "How evenly water is distributed across the field", "How uniform the water pressure is in the pump"],
+    correct: 2,
     explanation: "The distribution uniformity coefficient (DU) or Christiansen's uniformity coefficient (CU) measures how evenly water is applied across the irrigated area. A CU > 80% is acceptable; > 90% is excellent. Low uniformity means some areas are over- or under-irrigated."
   },
   {
@@ -1294,8 +1294,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "An axial flow (propeller) pump is best suited for:",
-    options: ["Deep borewell applications in plant breeding", "Very high head, low discharge applications", "Very low head, very high discharge (drainage, flood irrigation)", "Sprinkler irrigation requiring 5–7 bar for crop improvement"],
-    correct: 2,
+    options: ["Very low head, very high discharge (drainage, flood irrigation)", "Very high head, low discharge applications", "Deep borewell applications in plant breeding", "Sprinkler irrigation requiring 5–7 bar for crop improvement"],
+    correct: 0,
     explanation: "Axial flow (propeller) pumps move large volumes of water at very low heads (1–5 m). They are ideal for drainage, flood irrigation, and pumping from rivers or canals where the static lift is very small but high flow rates are required."
   },
 
@@ -1306,8 +1306,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "The cutter bar on a reaper/combine harvester operates using:",
-    options: ["Rotating blades like a lawn mower", "Laser cutting in plant breeding", "Reciprocating sickle sections between stationary counter-cutters (finger bars)", "Flails on a rotating drum"],
-    correct: 2,
+    options: ["Rotating blades like a lawn mower", "Reciprocating sickle sections between stationary counter-cutters (finger bars)", "Laser cutting in plant breeding", "Flails on a rotating drum"],
+    correct: 1,
     explanation: "The cutter bar uses reciprocating (back-and-forth) knife sections mounted between fixed guards/counter-cutters to shear the crop stem. The knife is driven by a pitman arm or wobble box mechanism from the PTO or ground drive."
   },
   {
@@ -1316,8 +1316,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "A combine harvester combines which three operations?",
-    options: ["Threshing, drying and bagging in plant breeding", "Cutting, baling and transport for crop improvement", "Harvesting (cutting), threshing and cleaning/separation in one pass", "Ploughing, sowing and harvesting in variety development"],
-    correct: 2,
+    options: ["Harvesting (cutting), threshing and cleaning/separation in one pass", "Cutting, baling and transport for crop improvement", "Threshing, drying and bagging in plant breeding", "Ploughing, sowing and harvesting in variety development"],
+    correct: 0,
     explanation: "A combine harvester simultaneously performs: (1) Cutting – header cuts the crop, (2) Threshing – threshing drum/cylinder separates grain from straw, (3) Separation/Cleaning – sieves and fans separate grain from chaff."
   },
   {
@@ -1326,8 +1326,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "The threshing drum in a combine harvester operates at approximately:",
-    options: ["100–200 RPM", "700–1200 RPM", "2000–3000 RPM", "300–500 RPM"],
-    correct: 1,
+    options: ["100–200 RPM", "2000–3000 RPM", "700–1200 RPM", "300–500 RPM"],
+    correct: 2,
     explanation: "The threshing cylinder/drum of a combine operates at 700–1200 RPM (wheat) to 300–600 RPM (rice). The concave clearance and drum speed are adjusted for different crops to maximise threshing with minimal grain damage."
   },
   {
@@ -1336,8 +1336,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "The 'header' on a combine harvester includes:",
-    options: ["Reel, cutter bar, auger and feeder house for gathering", "Only the threshing drum in plant breeding", "The grain tank and auger only for crop improvement", "The cleaning sieves in variety development"],
-    correct: 0,
+    options: ["The grain tank and auger only for crop improvement", "Only the threshing drum in plant breeding", "Reel, cutter bar, auger and feeder house for gathering", "The cleaning sieves in variety development"],
+    correct: 2,
     explanation: "The header includes: (1) Crop reel – gathers and holds crop against cutter bar, (2) Cutter bar – cuts the crop, (3) Platform auger – consolidates cut crop towards the centre, (4) Feeder house – elevates crop to the threshing unit."
   },
   {
@@ -1346,8 +1346,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "A paddy (axial flow) thresher uses which principle to separate grain from panicle?",
-    options: ["Beating with hammers in plant breeding", "Electrostatic separation for crop improvement", "Sucking grain with a fan", "Rubbing and impact between rotating rasp bars and concave"],
-    correct: 3,
+    options: ["Beating with hammers in plant breeding", "Electrostatic separation for crop improvement", "Rubbing and impact between rotating rasp bars and concave", "Sucking grain with a fan"],
+    correct: 2,
     explanation: "Axial flow paddy threshers use rotating rasp bars or spike-tooth cylinders that rub and impact the paddy panicles against a concave (wire/bar), separating grains by impact, rubbing and stripping action. Some use wire-loop cylinders."
   },
   {
@@ -1356,8 +1356,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "The cleaning unit in a combine harvester uses:",
-    options: ["Cyclones only in plant breeding", "Magnets to separate grain for crop improvement", "Only water to wash grain in variety development", "Wind from a fan and oscillating sieves"],
-    correct: 3,
+    options: ["Wind from a fan and oscillating sieves", "Magnets to separate grain for crop improvement", "Only water to wash grain in variety development", "Cyclones only in plant breeding"],
+    correct: 0,
     explanation: "The cleaning unit uses an adjustable fan (winnowing) and two oscillating sieves (upper: chaffer sieve, lower: grain sieve). The fan blows chaff, light material and dust away while grain sifts through the sieves to the grain auger below."
   },
   {
@@ -1366,8 +1366,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "A grain auger (elevator) in a combine harvester:",
-    options: ["Cuts and transports straw in plant breeding", "Drives the threshing drum for crop improvement", "Conveys threshed and cleaned grain from sieves to the grain tank", "Applies herbicide to harvested grain in variety development"],
-    correct: 2,
+    options: ["Cuts and transports straw in plant breeding", "Drives the threshing drum for crop improvement", "Applies herbicide to harvested grain in variety development", "Conveys threshed and cleaned grain from sieves to the grain tank"],
+    correct: 3,
     explanation: "The grain auger (also called the clean grain elevator) is a screw conveyor that transports cleaned, threshed grain from the cleaning unit below up to the grain storage tank on top of the combine harvester."
   },
   {
@@ -1376,8 +1376,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Harvesting losses in a combine harvester are classified as:",
-    options: ["Only grain tank losses in plant breeding", "Header losses (cutterbar, reel), threshing losses, and separation/cleaning losses", "Only header losses for crop improvement", "Fuel losses only in variety development"],
-    correct: 1,
+    options: ["Only grain tank losses in plant breeding", "Fuel losses only in variety development", "Only header losses for crop improvement", "Header losses (cutterbar, reel), threshing losses, and separation/cleaning losses"],
+    correct: 3,
     explanation: "Combine harvesting losses include: Header losses (shatter from reel, cutting and conveying), Threshing losses (unthreshed grain), and Separation/cleaning losses (grain blown or carried over with straw/chaff). Total losses should be <1% for cereals."
   },
   {
@@ -1386,8 +1386,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "A self-propelled combine is preferred over a tractor-drawn combine because:",
-    options: ["It can harvest crops at any moisture content without adjustments", "It has better manoeuvrability, wider cut, and the operator has better visibility and control", "It requires no skilled operator in plant breeding according to plant breeding and genetics science principles", "It is cheaper to purchase according to plant breeding and genetics science principles"],
-    correct: 1,
+    options: ["It can harvest crops at any moisture content without adjustments", "It is cheaper to purchase according to plant breeding and genetics science principles", "It requires no skilled operator in plant breeding according to plant breeding and genetics science principles", "It has better manoeuvrability, wider cut, and the operator has better visibility and control"],
+    correct: 3,
     explanation: "Self-propelled combines have the cab and controls integrated with the harvesting unit, giving the operator better visibility of the header, easier manoeuvring, wider cutting widths (5–9 m) and smoother power transmission than PTO-driven tractor-drawn models."
   },
   {
@@ -1396,8 +1396,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "The optimum grain moisture content for mechanical harvesting of wheat with a combine is:",
-    options: ["<10%", ">35%", "14–20%", "25–30%"],
-    correct: 2,
+    options: ["14–20%", ">35%", "<10%", "25–30%"],
+    correct: 0,
     explanation: "Wheat should be harvested when grain moisture is 14–20% (physiological to near-commercial maturity). At very low moisture (<12%), grains are brittle and shatter easily. At high moisture (>20%), grains don't thresh cleanly and may clog the machine."
   },
   {
@@ -1406,8 +1406,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "The concave clearance in a threshing unit of a combine is adjusted to:",
-    options: ["Control the gap between cylinder and concave, affecting threshing intensity and grain damage", "Control fan speed for cleaning in plant breeding", "Change the width of the header for crop improvement", "Set the height of the reel in variety development"],
-    correct: 0,
+    options: ["Control fan speed for cleaning in plant breeding", "Control the gap between cylinder and concave, affecting threshing intensity and grain damage", "Change the width of the header for crop improvement", "Set the height of the reel in variety development"],
+    correct: 1,
     explanation: "Concave clearance (gap between the rotating threshing cylinder and the fixed concave) determines threshing intensity. Smaller gap → more aggressive threshing (may damage grain); larger gap → gentler threshing (may leave unthreshed grain). Adjusted by crop type."
   },
   {
@@ -1416,8 +1416,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "A crop reaper-binder simultaneously cuts the crop and:",
-    options: ["Ties cut crop into bundles with twine for collection and stooking", "Loads bundles onto a trailer automatically in plant breeding", "Applies herbicide to cut stubble for crop improvement", "Threshes and cleans the grain in variety development"],
-    correct: 0,
+    options: ["Loads bundles onto a trailer automatically in plant breeding", "Ties cut crop into bundles with twine for collection and stooking", "Applies herbicide to cut stubble for crop improvement", "Threshes and cleans the grain in variety development"],
+    correct: 1,
     explanation: "A reaper-binder cuts the standing crop with a reciprocating cutter bar, gathers it with a conveyor canvas and ties it into bundles with sisal or synthetic twine using a knotter mechanism. Bundles are ejected for manual collection."
   },
   {
@@ -1436,8 +1436,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Track-type (crawler) combine harvesters are designed for:",
-    options: ["Orchard harvesting under trees in plant breeding", "Harvesting tall sorghum for crop improvement", "Dry upland wheat harvesting in variety development", "Wet paddy fields where wheeled combines would sink or slip"],
-    correct: 3,
+    options: ["Orchard harvesting under trees in plant breeding", "Harvesting tall sorghum for crop improvement", "Wet paddy fields where wheeled combines would sink or slip", "Dry upland wheat harvesting in variety development"],
+    correct: 2,
     explanation: "Track-type (crawler) combine harvesters distribute the machine weight over a large track area, preventing sinking in wet, muddy paddy fields. They are widely used in West Bengal, Eastern India and Southeast Asia for wet paddy harvesting."
   },
   {
@@ -1446,8 +1446,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Groundnut combine (digger-shaker-windrower) does which operation first?",
-    options: ["Picks pods from the soil and threshes on the spot in plant breeding", "Sprays fungicide on pods according to plant breeding and genetics science principles", "Broadcasts seeds for the next crop in variety development according to plant breeding and genetics science principles", "Digs the groundnut plants from the soil, shakes off soil and lays them in windrows for drying"],
-    correct: 3,
+    options: ["Picks pods from the soil and threshes on the spot in plant breeding", "Digs the groundnut plants from the soil, shakes off soil and lays them in windrows for drying", "Broadcasts seeds for the next crop in variety development according to plant breeding and genetics science principles", "Sprays fungicide on pods according to plant breeding and genetics science principles"],
+    correct: 1,
     explanation: "A groundnut digger-shaker-windrower first uses blades/shares to dig the plant out of soil, then shakers remove loose soil from roots and pods, and the machine winrows the dug plants for field drying before pod stripping."
   },
   {
@@ -1456,8 +1456,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "The purpose of a straw chopper/spreader on a combine harvester is:",
-    options: ["To separate straw from grain in the cleaning unit in plant breeding", "To load straw directly into a trailer for crop improvement", "To chop and uniformly spread straw on the field for mulching or incorporation", "To collect straw in a bundle for sale in variety development"],
-    correct: 2,
+    options: ["To separate straw from grain in the cleaning unit in plant breeding", "To load straw directly into a trailer for crop improvement", "To collect straw in a bundle for sale in variety development", "To chop and uniformly spread straw on the field for mulching or incorporation"],
+    correct: 3,
     explanation: "The straw chopper attachment behind the straw walkers of a combine chops the straw into short pieces and spreads it uniformly across the field width. This facilitates faster decomposition, acts as mulch, and improves organic matter over time."
   },
 
@@ -1468,8 +1468,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "A PTO safety guard (shield) is mandatory because:",
-    options: ["It protects the PTO shaft from rain and rust", "It prevents clothing or body parts from getting entangled in the rotating PTO shaft", "It improves PTO power transmission efficiency in plant breeding", "It increases PTO speed according to plant breeding and genetics science principles"],
-    correct: 1,
+    options: ["It prevents clothing or body parts from getting entangled in the rotating PTO shaft", "It protects the PTO shaft from rain and rust", "It improves PTO power transmission efficiency in plant breeding", "It increases PTO speed according to plant breeding and genetics science principles"],
+    correct: 0,
     explanation: "The rotating PTO shaft (540 RPM) is an extremely dangerous entanglement hazard. Loose clothing, hair or limbs caught in an unguarded PTO shaft cause severe injuries. The plastic or metal shield covers the shaft and universal joints completely."
   },
   {
@@ -1488,8 +1488,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "The most common cause of tractor rollover (overturning) is:",
-    options: ["Operating on steep slopes, turning too fast", "Parking on flat ground in plant breeding", "Travelling at low speed on level ground for crop improvement", "Operating in soft soil at low speed in variety development"],
-    correct: 0,
+    options: ["Travelling at low speed on level ground for crop improvement", "Parking on flat ground in plant breeding", "Operating on steep slopes, turning too fast", "Operating in soft soil at low speed in variety development"],
+    correct: 2,
     explanation: "Tractor rollovers occur due to: side slopes, sharp turns at speed, sudden steering on hills, rear rearing when a drawbar load is too heavy (attached too high), and front end rearing when front implements are lifted too high. Side rollovers are most common."
   },
   {
@@ -1498,8 +1498,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Engine oil in a farm tractor should typically be changed after every:",
-    options: ["10 hours of operation", "200–250 hours of operation", "1000 hours of operation", "50 hours of operation"],
-    correct: 1,
+    options: ["10 hours of operation", "50 hours of operation", "1000 hours of operation", "200–250 hours of operation"],
+    correct: 3,
     explanation: "Engine oil should be changed every 200–250 hours of operation (or per manufacturer's recommendation), along with the oil filter. More frequent changes (100 hrs) are needed in dusty conditions. Daily checks of oil level are essential."
   },
   {
@@ -1528,8 +1528,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Before transporting an implement on a public road, the operator should:",
-    options: ["Raise and lock the implement in transport position and attach safety SMV emblem", "Remove all lubricants from the implement in plant breeding", "Leave the PTO engaged for fast travel for crop improvement", "Keep the implement in the lowest position and at full working depth"],
-    correct: 0,
+    options: ["Remove all lubricants from the implement in plant breeding", "Raise and lock the implement in transport position and attach safety SMV emblem", "Leave the PTO engaged for fast travel for crop improvement", "Keep the implement in the lowest position and at full working depth"],
+    correct: 1,
     explanation: "Before road travel, mounted implements must be raised and locked in transport position (top link adjusted, transport locks engaged), PTO disengaged, and a Slow-Moving Vehicle (SMV) emblem and lights attached for road safety."
   },
   {
@@ -1538,8 +1538,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "The air cleaner on a tractor engine must be serviced regularly because:",
-    options: ["It cools the engine oil in plant breeding", "It removes water from diesel fuel for crop improvement", "It slows down the engine to save fuel in variety development", "Dust and debris block airflow, causing rich mixture"],
-    correct: 3,
+    options: ["It cools the engine oil in plant breeding", "It removes water from diesel fuel for crop improvement", "Dust and debris block airflow, causing rich mixture", "It slows down the engine to save fuel in variety development"],
+    correct: 2,
     explanation: "The air cleaner prevents abrasive dust from entering the engine. In dusty farm conditions, it clogs rapidly, restricting air intake. This causes incomplete combustion, loss of power, increased fuel consumption and severe cylinder/piston wear if neglected."
   },
   {
@@ -1548,8 +1548,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Greasing (lubricating) of tractor and implement bearing points should be done:",
-    options: ["Every 500 hours in plant breeding", "Every 8–10 operating hours (daily or as per manufacturer schedule)", "Once a year during off-season for crop improvement", "Only when the bearing squeaks in variety development"],
-    correct: 1,
+    options: ["Every 8–10 operating hours (daily or as per manufacturer schedule)", "Every 500 hours in plant breeding", "Once a year during off-season for crop improvement", "Only when the bearing squeaks in variety development"],
+    correct: 0,
     explanation: "Bearing greasing should be done every 8–10 hours (daily). Grease gun is used to inject grease through Zerk/grease fittings at all pivot points, bearings, joints and moving parts. Neglected greasing causes rapid bearing failure."
   },
   {
@@ -1558,8 +1558,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "When should a tractor's valve clearances (tappet clearances) be adjusted?",
-    options: ["Every 2000 hours or never in plant breeding", "Every 50 hours for crop improvement", "Every 250–500 hours or when engine becomes noisy (tapping sound)", "Only at initial assembly in variety development"],
-    correct: 2,
+    options: ["Every 2000 hours or never in plant breeding", "Every 250–500 hours or when engine becomes noisy (tapping sound)", "Every 50 hours for crop improvement", "Only at initial assembly in variety development"],
+    correct: 1,
     explanation: "Valve (tappet) clearances are checked and adjusted every 250–500 hours of operation or when a characteristic ticking/tapping sound is heard. Incorrect clearances cause poor engine performance, overheating and valve burning."
   },
   {
@@ -1568,8 +1568,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "The fuel filter in a diesel tractor must be replaced periodically to:",
-    options: ["Remove water and particles from diesel before it reaches the injection pump, preventing costly damage", "Increase fuel injection pressure in plant breeding according to plant breeding and genetics science principles", "Add cetane improver to the fuel for crop improvement", "Warm the fuel in cold weather in variety development"],
-    correct: 0,
+    options: ["Add cetane improver to the fuel for crop improvement", "Increase fuel injection pressure in plant breeding according to plant breeding and genetics science principles", "Remove water and particles from diesel before it reaches the injection pump, preventing costly damage", "Warm the fuel in cold weather in variety development"],
+    correct: 2,
     explanation: "Diesel fuel often contains water and fine particles. The fuel filter removes these before diesel reaches the high-precision fuel injection pump. Water and sediment in the FIP cause accelerated wear and failure of the injectors and pump, which are very expensive to repair."
   },
   {
@@ -1588,8 +1588,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "To winterise (long-term storage) a tractor, the operator should:",
-    options: ["Leave the fuel tank empty to prevent fuel degradation only in plant breeding", "Fill the fuel tank completely and leave the engine unlubricated for crop improvement", "Drain coolant, add antifreeze, change oil, lubricate all points, coat exposed metal, charge battery and store under cover", "Just remove the battery and leave everything else in variety development"],
-    correct: 2,
+    options: ["Leave the fuel tank empty to prevent fuel degradation only in plant breeding", "Fill the fuel tank completely and leave the engine unlubricated for crop improvement", "Just remove the battery and leave everything else in variety development", "Drain coolant, add antifreeze, change oil, lubricate all points, coat exposed metal, charge battery and store under cover"],
+    correct: 3,
     explanation: "Long-term storage winterisation includes: draining and replacing engine oil, adding antifreeze to the cooling system, lubing all grease points, protecting exposed metal with rust preventive, disconnecting/charging the battery and storing under a protective cover."
   },
 
@@ -1632,8 +1632,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "Nearly what percentage of total draft power used in world agriculture is still provided by animals?",
-    options: ["90%", "60%", "40%", "80%"],
-    correct: 3,
+    options: ["90%", "60%", "80%", "40%"],
+    correct: 2,
     explanation: "As per DA-151 notes: Nearly 80% of the total draft power used in agriculture throughout the World is still provided by animals."
   },
   {
@@ -1642,8 +1642,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "Wind turbines require minimum wind speed of how many km per hour to operate?",
-    options: ["15-20 km/h", "25-30 km/h", "3-5 km/h", "8-10 km/h"],
-    correct: 3,
+    options: ["15-20 km/h", "8-10 km/h", "3-5 km/h", "25-30 km/h"],
+    correct: 1,
     explanation: "As per DA-151 notes: Wind speeds must be 8 to 10 km per hour to operate the wind turbines."
   },
   {
@@ -1652,8 +1652,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Thermal efficiency of diesel engine varies from",
-    options: ["20-25%", "32-38%", "25-32%", "40-50%"],
-    correct: 1,
+    options: ["20-25%", "40-50%", "25-32%", "32-38%"],
+    correct: 3,
     explanation: "As per DA-151 notes: Thermal efficiency of diesel engine varies from 32 to 38 per cent."
   },
   {
@@ -1662,8 +1662,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Thermal efficiency of petrol engine varies from",
-    options: ["32-38%", "25-32%", "40-50%", "15-20%"],
-    correct: 1,
+    options: ["32-38%", "40-50%", "25-32%", "15-20%"],
+    correct: 2,
     explanation: "As per DA-151 notes: Thermal efficiency of petrol engine varies from 25 to 32 per cent."
   },
   {
@@ -1672,8 +1672,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "In a four stroke cycle engine, the cycle is completed in how many revolutions of the crankshaft?",
-    options: ["4", "3", "1", "2"],
-    correct: 3,
+    options: ["2", "3", "1", "4"],
+    correct: 0,
     explanation: "As per DA-151 notes: When the cycle is completed in two revolutions of the crankshaft, it is called four stroke cycle engines."
   },
   {
@@ -1702,8 +1702,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The piston pin is also called",
-    options: ["crank pin", "connecting pin", "gudgeon pin", "main journal"],
-    correct: 2,
+    options: ["gudgeon pin", "connecting pin", "crank pin", "main journal"],
+    correct: 0,
     explanation: "As per DA-151 notes: Piston pin is also called wrist pin or gudgeon pin, used to join the connecting rod to the piston."
   },
   {
@@ -1712,8 +1712,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The crankshaft is usually made of",
-    options: ["cast iron in plant breeding", "aluminum alloy for crop improvement", "drop forged steel or cast steel", "copper alloy in variety development"],
-    correct: 2,
+    options: ["cast iron in plant breeding", "aluminum alloy for crop improvement", "copper alloy in variety development", "drop forged steel or cast steel"],
+    correct: 3,
     explanation: "As per DA-151 notes: Usually the crankshaft is made of drop forged steel or cast steel."
   },
   {
@@ -1722,8 +1722,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The flywheel is made of",
-    options: ["cast iron", "drop forged steel", "aluminum", "copper"],
-    correct: 0,
+    options: ["copper", "drop forged steel", "aluminum", "cast iron"],
+    correct: 3,
     explanation: "As per DA-151 notes: Fly wheel is made of cast iron."
   },
   {
@@ -1732,8 +1732,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The camshaft speed is exactly half the speed of the crankshaft in",
-    options: ["two stroke engine", "petrol engine only", "diesel engine only", "four stroke engine"],
-    correct: 3,
+    options: ["two stroke engine", "four stroke engine", "diesel engine only", "petrol engine only"],
+    correct: 1,
     explanation: "As per DA-151 notes: The speed of the camshaft is exactly half the speed of the crankshaft in four stroke engine."
   },
   {
@@ -1742,8 +1742,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Timing gear is also called Half time gear because",
-    options: ["it is half the size in plant breeding", "camshaft gear has twice as many teeth as crankshaft gear", "it works for half time for crop improvement", "it has half efficiency in variety development"],
-    correct: 1,
+    options: ["it is half the size in plant breeding", "it works for half time for crop improvement", "camshaft gear has twice as many teeth as crankshaft gear", "it has half efficiency in variety development"],
+    correct: 2,
     explanation: "As per DA-151 notes: Camshaft gear has twice as many teeth as crankshaft gear, hence commonly called Half time gear."
   },
   {
@@ -1752,8 +1752,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "In a four stroke engine, out of four strokes, power strokes are",
-    options: ["one", "two", "three", "four"],
-    correct: 0,
+    options: ["three", "two", "one", "four"],
+    correct: 2,
     explanation: "As per DA-151 notes: Out of four strokes, there is only one power stroke and three idle strokes."
   },
   {
@@ -1762,8 +1762,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "During the suction stroke of a four stroke engine, which valve remains closed?",
-    options: ["Exhaust valve", "Inlet valve", "Neither valve", "Both valves"],
-    correct: 0,
+    options: ["Inlet valve", "Exhaust valve", "Neither valve", "Both valves"],
+    correct: 1,
     explanation: "As per DA-151 notes: During suction stroke, inlet valve remains open while exhaust valve remains closed."
   },
   {
@@ -1772,8 +1772,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "During power stroke of four stroke engine, the condition of valves is",
-    options: ["inlet open, exhaust closed", "inlet closed, exhaust open", "both closed", "both open"],
-    correct: 2,
+    options: ["both closed", "inlet closed, exhaust open", "inlet open, exhaust closed", "both open"],
+    correct: 0,
     explanation: "As per DA-151 notes: Both valves are closed during power stroke."
   },
   {
@@ -1812,8 +1812,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Which fuel has the highest calorific value (kcal/kg)?",
-    options: ["Power kerosene", "High speed diesel oil", "Petrol", "Light diesel oil"],
-    correct: 2,
+    options: ["Petrol", "High speed diesel oil", "Power kerosene", "Light diesel oil"],
+    correct: 0,
     explanation: "As per DA-151 notes: Petrol has the highest calorific value of 11,100 kcal/kg."
   },
   {
@@ -1832,8 +1832,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Cetane number is the measure of which property?",
-    options: ["Viscosity in plant breeding", "Interval between injection and auto-ignition", "Calorific value", "Boiling point"],
-    correct: 1,
+    options: ["Viscosity in plant breeding", "Calorific value", "Interval between injection and auto-ignition", "Boiling point"],
+    correct: 2,
     explanation: "As per DA-151 notes: Cetane number is the relative measure of the interval between beginning of injection and auto-ignition of fuel."
   },
   {
@@ -1842,8 +1842,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "The fuel injection pump creates pressure varying from",
-    options: ["10-50 kg/cm2", "120-300 kg/cm2", "50-100 kg/cm2", "400-500 kg/cm2"],
-    correct: 1,
+    options: ["10-50 kg/cm2", "50-100 kg/cm2", "120-300 kg/cm2", "400-500 kg/cm2"],
+    correct: 2,
     explanation: "As per DA-151 notes: Fuel injection pump is used to create pressure varying from 120 kg/cm2 to 300 kg/cm2."
   },
   {
@@ -1852,8 +1852,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "The primary fuel filter in diesel engine removes",
-    options: ["carbon deposits", "coarse materials, water and dust", "only water", "fine dust particles"],
-    correct: 1,
+    options: ["carbon deposits", "fine dust particles", "only water", "coarse materials, water and dust"],
+    correct: 3,
     explanation: "As per DA-151 notes: Primary filter removes coarse materials, water and dust while secondary filter removes fine dust particles."
   },
   {
@@ -1882,8 +1882,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "The forced feed lubrication system is commonly used on",
-    options: ["high speed multi-cylinder engines in tractors", "two stroke engines", "single cylinder engines", "air cooled engines"],
-    correct: 0,
+    options: ["single cylinder engines", "two stroke engines", "high speed multi-cylinder engines in tractors", "air cooled engines"],
+    correct: 2,
     explanation: "As per DA-151 notes: Forced feed system is commonly used on high speed multi-cylinder engine in tractors, trucks and automobiles."
   },
   {
@@ -1912,8 +1912,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "What percentage of total heat produced in IC engine is used for producing useful power?",
-    options: ["20%", "10%", "30%", "40%"],
-    correct: 2,
+    options: ["30%", "10%", "20%", "40%"],
+    correct: 0,
     explanation: "As per DA-151 notes: Only about 30% of total heat produced is used to produce useful power; 40% via exhaust, 30% removed by cooling system."
   },
   {
@@ -1922,8 +1922,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Best operating temperature of IC engine lies between",
-    options: ["200-250°F", "80-100°F", "100-120°F", "140-200°F"],
-    correct: 3,
+    options: ["200-250°F", "80-100°F", "140-200°F", "100-120°F"],
+    correct: 2,
     explanation: "As per DA-151 notes: Best operating temperature of IC engine lies between 140°F to 200°F."
   },
   {
@@ -1932,8 +1932,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "In air cooled engines, cylinders have fins to",
-    options: ["increase area of contact of air for speedy cooling", "prevent rusting in plant breeding", "reduce weight for crop improvement", "strengthen the cylinder in variety development"],
-    correct: 0,
+    options: ["prevent rusting in plant breeding", "increase area of contact of air for speedy cooling", "reduce weight for crop improvement", "strengthen the cylinder in variety development"],
+    correct: 1,
     explanation: "As per DA-151 notes: The cylinder of an air cooled engine has fins to increase the area of contact of air for speedy cooling."
   },
   {
@@ -1942,8 +1942,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "The sheet metal casing enclosing air cooled engine cylinder is called",
-    options: ["baffle", "shroud", "cowling", "cooling jacket"],
-    correct: 2,
+    options: ["cowling", "shroud", "baffle", "cooling jacket"],
+    correct: 0,
     explanation: "As per DA-151 notes: The cylinder is normally enclosed in a sheet metal casing called Cowling in air cooled engines."
   },
   {
@@ -1952,8 +1952,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "In a diesel engine, fuel ignition takes place due to",
-    options: ["chemical reaction", "high pressure and temperature", "catalytic conversion", "electric spark"],
-    correct: 1,
+    options: ["chemical reaction", "catalytic conversion", "high pressure and temperature", "electric spark"],
+    correct: 2,
     explanation: "As per DA-151 notes: In diesel engine, fuel is injected into superheated air and ignition takes place due to high pressure and temperature."
   },
   {
@@ -1962,8 +1962,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "External combustion engine examples include",
-    options: ["Motor car engine", "Diesel engine", "Railway engine and steam engine", "Oil engine"],
-    correct: 2,
+    options: ["Motor car engine", "Diesel engine", "Oil engine", "Railway engine and steam engine"],
+    correct: 3,
     explanation: "As per DA-151 notes: External combustion engine examples are railway engine and steam engine."
   },
   {
@@ -1972,8 +1972,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Cylinders in IC engines are usually made of",
-    options: ["aluminum alloy", "copper", "stainless steel", "high grade cast-iron"],
-    correct: 3,
+    options: ["aluminum alloy", "copper", "high grade cast-iron", "stainless steel"],
+    correct: 2,
     explanation: "As per DA-151 notes: Cylinders are usually made of high grade cast-iron."
   },
   {
@@ -1992,8 +1992,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Two stroke cycle engine produces how much more power than 4-stroke engine for same cylinder volume?",
-    options: ["About 3 times more", "Same power", "About 2 times more", "About 1.5 times more"],
-    correct: 3,
+    options: ["About 3 times more", "About 1.5 times more", "About 2 times more", "Same power"],
+    correct: 1,
     explanation: "As per DA-151 notes: Two stroke engine produces large power - about 1.5 times of 4 stroke for same cylinder volume."
   },
   {
@@ -2022,8 +2022,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "The lubricating oil pump type commonly used in forced feed system is",
-    options: ["centrifugal or impeller type", "diaphragm type", "gear type or vane type", "piston type"],
-    correct: 2,
+    options: ["centrifugal or impeller type", "diaphragm type", "piston type", "gear type or vane type"],
+    correct: 3,
     explanation: "As per DA-151 notes: Lubricating oil pump is a positive displacement pump, usually gear type or vane type."
   },
   {
@@ -2032,8 +2032,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "About what fraction of total electrical power generated in India is used for farm work?",
-    options: ["1/5", "1/15", "1/20", "1/10"],
-    correct: 3,
+    options: ["1/10", "1/15", "1/20", "1/5"],
+    correct: 0,
     explanation: "As per DA-151 notes: About 1/10th of the total electrical power generated in India is consumed for farm work (approximately 4600 megawatt)."
   },
   {
@@ -2042,8 +2042,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "Biomass energy can be converted into producer gas using which process?",
-    options: ["Pyrolysis", "Distillation", "Fermentation", "Gasification"],
-    correct: 3,
+    options: ["Pyrolysis", "Gasification", "Fermentation", "Distillation"],
+    correct: 1,
     explanation: "As per DA-151 notes: Biomass energy - Gasifiers produce producer gas, pyrolysis produces liquid fuels, Biogas etc."
   },
   {
@@ -2052,8 +2052,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The connecting rod is usually made of",
-    options: ["cast iron", "copper", "drop forged steel", "aluminum alloy"],
-    correct: 2,
+    options: ["cast iron", "drop forged steel", "copper", "aluminum alloy"],
+    correct: 1,
     explanation: "As per DA-151 notes: The connecting rod is usually made of drop forged steel."
   },
   {
@@ -2062,8 +2062,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The gasket inserted between cylinder and cylinder head is made of",
-    options: ["rubber", "asbestos or copper sheet", "leather", "neoprene"],
-    correct: 1,
+    options: ["rubber", "neoprene", "leather", "asbestos or copper sheet"],
+    correct: 3,
     explanation: "As per DA-151 notes: A gasket made of copper sheet or asbestos is inserted between the cylinder and the cylinder head."
   },
   {
@@ -2082,8 +2082,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Specific fuel consumption of diesel engine is about",
-    options: ["0.15 kg/BHP/hour", "0.2 kg/BHP/hour", "0.29 kg/BHP/hour", "0.35 kg/BHP/hour"],
-    correct: 1,
+    options: ["0.2 kg/BHP/hour", "0.15 kg/BHP/hour", "0.29 kg/BHP/hour", "0.35 kg/BHP/hour"],
+    correct: 0,
     explanation: "As per DA-151 notes: Specific fuel consumption of diesel engine is about 0.2 kg per BHP per hour."
   },
   {
@@ -2092,8 +2092,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Specific fuel consumption of petrol engine is about",
-    options: ["0.15 kg/BHP/hour", "0.2 kg/BHP/hour", "0.29 kg/BHP/hour", "0.35 kg/BHP/hour"],
-    correct: 2,
+    options: ["0.15 kg/BHP/hour", "0.29 kg/BHP/hour", "0.2 kg/BHP/hour", "0.35 kg/BHP/hour"],
+    correct: 1,
     explanation: "As per DA-151 notes: Specific fuel consumption of petrol engine is about 0.29 kg per BHP per hour."
   },
   {
@@ -2102,8 +2102,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "During exhaust stroke of four stroke engine, which valve is open?",
-    options: ["Exhaust valve", "Inlet valve", "Neither valve", "Both valves"],
-    correct: 0,
+    options: ["Inlet valve", "Exhaust valve", "Neither valve", "Both valves"],
+    correct: 1,
     explanation: "As per DA-151 notes: During exhaust stroke, exhaust gases go out through exhaust valves; inlet valve is closed."
   },
   {
@@ -2112,8 +2112,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The piston in petrol engine is preferred to be made of cast iron due to its",
-    options: ["high compressive strength and low expansion", "conductivity in plant breeding", "lightness for crop improvement", "low cost only"],
-    correct: 0,
+    options: ["low cost only", "conductivity in plant breeding", "lightness for crop improvement", "high compressive strength and low expansion"],
+    correct: 3,
     explanation: "As per DA-151 notes: Cast iron is chosen for pistons due to high compressive strength, low coefficient of expansion, resistance to high temperature, ease of casting and low cost."
   },
   {
@@ -2132,8 +2132,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Excessive oil pressure in lubrication system can be caused by",
-    options: ["thin oil", "worn oil pump", "weak relief valve spring", "stuck relief valve"],
-    correct: 3,
+    options: ["thin oil", "stuck relief valve", "weak relief valve spring", "worn oil pump"],
+    correct: 1,
     explanation: "As per DA-151 notes: Excessive oil pressure may result due to stuck relief valve, strong valve spring, clogged oil line and very heavy oil."
   },
   {
@@ -2142,8 +2142,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "About what percentage of total heat in IC engine is passed to atmosphere via exhaust?",
-    options: ["20%", "30%", "50%", "40%"],
-    correct: 3,
+    options: ["20%", "30%", "40%", "50%"],
+    correct: 2,
     explanation: "As per DA-151 notes: About 40% of total heat produced is passed to the atmosphere via exhaust."
   },
   {
@@ -2152,8 +2152,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Two stroke engine has how much more fuel consumption compared to four stroke?",
-    options: ["10% more", "5% more", "20% more", "15% more"],
-    correct: 3,
+    options: ["15% more", "5% more", "20% more", "10% more"],
+    correct: 0,
     explanation: "As per DA-151 notes: Fuel consumption of two stroke engine is about 15% more than four stroke engine."
   },
   {
@@ -2162,8 +2162,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "Human power is described as which type of power in comparison to other sources?",
-    options: ["Cheapest", "Costliest", "Most efficient", "Fastest"],
-    correct: 1,
+    options: ["Costliest", "Cheapest", "Most efficient", "Fastest"],
+    correct: 0,
     explanation: "As per DA-151 notes: Human power disadvantage - Costliest power compared to all other forms of power."
   },
   {
@@ -2172,8 +2172,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "In carburetor type petrol engine, air-fuel ratio is approximately",
-    options: ["25:1", "20:1", "15:1", "10:1"],
-    correct: 2,
+    options: ["15:1", "20:1", "25:1", "10:1"],
+    correct: 0,
     explanation: "As per DA-151 notes: In petrol engine, air and fuel are almost always in the ratio of 15:1."
   },
   {
@@ -2182,8 +2182,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "With diesel engine, 4.5 litres of fuel is sufficient for nearly how many hp-hours?",
-    options: ["10", "15", "25", "20"],
-    correct: 3,
+    options: ["20", "15", "25", "10"],
+    correct: 0,
     explanation: "As per DA-151 notes: 4.5 litres of diesel fuel is sufficient for nearly 20 hp hours."
   },
   {
@@ -2192,8 +2192,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The function of flywheel in IC engine includes storing energy during power stroke and",
-    options: ["lubricating parts in plant breeding", "pumping fuel for crop improvement", "cooling the engine in variety development", "providing uniform rotary motion by virtue of its inertia"],
-    correct: 3,
+    options: ["lubricating parts in plant breeding", "providing uniform rotary motion by virtue of its inertia", "cooling the engine in variety development", "pumping fuel for crop improvement"],
+    correct: 1,
     explanation: "As per DA-151 notes: Flywheel stores energy during power stroke and returns same energy during idle strokes, providing uniform rotary motion by virtue of its inertia."
   },
   {
@@ -2202,8 +2202,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The crankcase provides a reservoir for",
-    options: ["fuel", "cooling water", "compressed air", "lubricating oil"],
-    correct: 3,
+    options: ["lubricating oil", "cooling water", "compressed air", "fuel"],
+    correct: 0,
     explanation: "As per DA-151 notes: The crankcase provides a reservoir for the lubricating oil of the engine."
   },
   {
@@ -2212,8 +2212,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Fuels with low cetane numbers result in",
-    options: ["better fuel economy", "difficult starting, noise and exhaust smoke", "reduced power output", "easy starting in plant breeding"],
-    correct: 1,
+    options: ["difficult starting, noise and exhaust smoke", "better fuel economy", "reduced power output", "easy starting in plant breeding"],
+    correct: 0,
     explanation: "As per DA-151 notes: Fuels with low cetane numbers will result in difficult starting, noise and exhaust smoke."
   },
   {
@@ -2222,8 +2222,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Over-cooling of IC engine is undesirable because",
-    options: ["it creates noise in plant breeding", "neither overheating nor over-cooling is desirable for satisfactory performance", "it increases fuel consumption only", "it wastes water for crop improvement"],
-    correct: 1,
+    options: ["it creates noise in plant breeding", "it wastes water for crop improvement", "it increases fuel consumption only", "neither overheating nor over-cooling is desirable for satisfactory performance"],
+    correct: 3,
     explanation: "As per DA-151 notes: For satisfactory performance, neither overheating nor over-cooling is desirable."
   },
   {
@@ -2232,8 +2232,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Which statement about two stroke engine is correct?",
-    options: ["Has valve mechanism", "Complicated and expensive", "Has independent lubricating oil circuit", "Simple and cheap construction"],
-    correct: 3,
+    options: ["Has valve mechanism", "Simple and cheap construction", "Has independent lubricating oil circuit", "Complicated and expensive"],
+    correct: 1,
     explanation: "As per DA-151 notes: Two stroke engine - Simple, cheap construction (vs four stroke - complicated and expensive)."
   },
   {
@@ -2252,8 +2252,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Engine timing marks are usually stamped on the",
-    options: ["flywheel", "crankshaft", "cylinder head", "connecting rod"],
-    correct: 0,
+    options: ["crankshaft", "flywheel", "cylinder head", "connecting rod"],
+    correct: 1,
     explanation: "As per DA-151 notes: Engine timing marks are usually stamped on the flywheel, which helps in adjusting the timing of the engine."
   },
   {
@@ -2272,8 +2272,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Pre-ignition of fuel mixture in IC engine causes",
-    options: ["engine knocking and loss of power", "increased efficiency in plant breeding", "better cooling for crop improvement", "lower exhaust emissions"],
-    correct: 0,
+    options: ["increased efficiency in plant breeding", "engine knocking and loss of power", "better cooling for crop improvement", "lower exhaust emissions"],
+    correct: 1,
     explanation: "As per DA-151 notes: Pre-ignition of fuel mixture would cause engine knocking as well as loss of power - a bad effect of high temperature."
   },
   {
@@ -2282,8 +2282,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "About what percentage of total rural population in India is involved for farm work?",
-    options: ["50%", "20%", "10%", "30%"],
-    correct: 3,
+    options: ["50%", "30%", "10%", "20%"],
+    correct: 1,
     explanation: "As per DA-151 notes: Of the total rural population in India, only 30% are involved for farm work."
   },
   {
@@ -2292,8 +2292,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "In India, what percentage of population depends on agriculture as main employment?",
-    options: ["55-65%", "45-55%", "65-75%", "75-85%"],
-    correct: 2,
+    options: ["55-65%", "45-55%", "75-85%", "65-75%"],
+    correct: 3,
     explanation: "As per DA-151 notes: 65 to 75% population in India depends on agriculture as main employment."
   },
   {
@@ -2302,8 +2302,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Assertion (A): Diesel engines are more fuel efficient than petrol engines.\nReason (R): Diesel engines have thermal efficiency of 32-38% versus 25-32% for petrol engines.",
-    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
-    correct: 1,
+    options: ["A is false but R is true", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
+    correct: 3,
     explanation: "As per DA-151 notes: Diesel engine thermal efficiency 32-38%, petrol engine 25-32%."
   },
   {
@@ -2312,8 +2312,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Assertion (A): Petrol engines start more easily than diesel engines in cold weather.\nReason (R): Petrol vaporizes quicker than diesel oil in the engine cylinder.",
-    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
-    correct: 1,
+    options: ["Both A and R are true and R is the correct explanation of A", "A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
+    correct: 0,
     explanation: "As per DA-151 notes: Petrol vaporizes quicker than diesel oil in the engine cylinder, helping easy starting of petrol engines."
   },
   {
@@ -2342,8 +2342,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Assertion (A): Lubrication oil has a cleaning effect on the engine.\nReason (R): Lubrication keeps the engine clean by removing dirt or carbon from inside of the engine along with the oil.",
-    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
-    correct: 1,
+    options: ["A is false but R is true", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
+    correct: 3,
     explanation: "As per DA-151 notes: Lubrication keeps the engine clean by removing dirt or carbon from inside of the engine along with the oil - cleaning effect."
   },
   {
@@ -2362,8 +2362,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Assertion (A): Compression rings are placed in grooves nearest to the piston head.\nReason (R): They prevent leakage of gases from the cylinder and help increasing compression pressure.",
-    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
-    correct: 1,
+    options: ["A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false"],
+    correct: 2,
     explanation: "As per DA-151 notes: Compression rings are always placed in grooves of piston nearest to the piston head; they prevent leakage and help increasing compression pressure."
   },
   {
@@ -2372,8 +2372,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Assertion (A): Diesel engine develops more torque when heavily loaded.\nReason (R): This characteristic is not present in carburetor/petrol engines.",
-    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
-    correct: 1,
+    options: ["Both A and R are true and R is the correct explanation of A", "A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
+    correct: 0,
     explanation: "As per DA-151 notes: Diesel engine develops more torque when heavily loaded; this characteristic is not present in carburetor engines."
   },
   {
@@ -2382,8 +2382,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "Assertion (A): Animal power is most important farm power source particularly in India.\nReason (R): 80% of total draft power in world agriculture is still provided by animals.",
-    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
-    correct: 1,
+    options: ["A is false but R is true", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
+    correct: 3,
     explanation: "As per DA-151 notes: Animal is the most important source of power on farm and nearly 80% of total draft power in agriculture throughout World is still provided by animals."
   },
   {
@@ -2392,8 +2392,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Assertion (A): In diesel engine, only air is taken in during suction stroke.\nReason (R): Fuel is injected separately into the compressed hot air at the end of compression stroke.",
-    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
-    correct: 1,
+    options: ["Both A and R are true and R is the correct explanation of A", "A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
+    correct: 0,
     explanation: "As per DA-151 notes: In diesel engine, air alone is taken in during suction stroke; fuel is injected through fuel injectors and ignited by heat of compression."
   },
   {
@@ -2402,8 +2402,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Assertion (A): High temperature in IC engine can cause piston seizure.\nReason (R): Cylinder and piston may expand to such an extent that piston seizes in cylinder.",
-    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
-    correct: 1,
+    options: ["A is false but R is true", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
+    correct: 3,
     explanation: "As per DA-151 notes: Cylinder and piston may expand to such an extent that piston would seize in the cylinder and stop the engine - a bad effect of high temperature."
   },
   {
@@ -2412,8 +2412,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Assertion (A): Forced feed lubrication system is used in tractors and trucks.\nReason (R): This system is suitable for high speed multi-cylinder engines.",
-    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
-    correct: 1,
+    options: ["A is false but R is true", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
+    correct: 3,
     explanation: "As per DA-151 notes: Forced feed system is commonly used on high speed multi-cylinder engine in tractors, trucks and automobiles."
   },
   {
@@ -2432,8 +2432,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Assertion (A): Camshaft gear is called half time gear.\nReason (R): The camshaft gear has twice as many teeth as the crankshaft gear.",
-    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
-    correct: 1,
+    options: ["A is false but R is true", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
+    correct: 3,
     explanation: "As per DA-151 notes: Camshaft gear is bigger and has twice as many teeth as crankshaft gear, hence called Half time gear."
   },
   {
@@ -2442,8 +2442,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Assertion (A): Air cooled engines use fins on cylinders.\nReason (R): Fins increase the area of contact with air for speedy cooling of the cylinder.",
-    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
-    correct: 1,
+    options: ["A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false"],
+    correct: 2,
     explanation: "As per DA-151 notes: The cylinder of an air cooled engine has fins to increase the area of contact of air for speedy cooling."
   },
   {
@@ -2462,8 +2462,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Match the engine with ignition type:\nA-Petrol engine, B-Diesel engine, C-Steam engine\n1-External combustion, 2-Compression ignition, 3-Spark ignition",
-    options: ["A-1, B-2, C-3", "A-3, B-2, C-1", "A-3, B-1, C-2", "A-2, B-3, C-1"],
-    correct: 1,
+    options: ["A-1, B-2, C-3", "A-2, B-3, C-1", "A-3, B-1, C-2", "A-3, B-2, C-1"],
+    correct: 3,
     explanation: "As per DA-151 notes: Petrol engine-spark ignition, Diesel engine-compression ignition, Steam engine-external combustion."
   },
   {
@@ -2482,8 +2482,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Match the IC engine stroke with valve status:\nA-Suction, B-Compression, C-Power\n1-Both valves closed, 2-Exhaust closed inlet open, 3-Both valves closed",
-    options: ["A-1, B-2, C-3", "A-2, B-1, C-3", "A-3, B-1, C-2", "A-2, B-3, C-1"],
-    correct: 1,
+    options: ["A-1, B-2, C-3", "A-3, B-1, C-2", "A-2, B-1, C-3", "A-2, B-3, C-1"],
+    correct: 2,
     explanation: "As per DA-151 notes: Suction stroke-inlet open, exhaust closed; Compression stroke-both valves closed; Power stroke-both valves closed."
   },
   {
@@ -2502,8 +2502,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Match the lubrication effect with description:\nA-Reducing friction, B-Sealing effect, C-Cleaning effect\n1-Removes dirt and carbon, 2-Prevents gas leakage, 3-Forms oil film between surfaces",
-    options: ["A-1, B-2, C-3", "A-3, B-2, C-1", "A-3, B-1, C-2", "A-2, B-3, C-1"],
-    correct: 1,
+    options: ["A-1, B-2, C-3", "A-2, B-3, C-1", "A-3, B-1, C-2", "A-3, B-2, C-1"],
+    correct: 3,
     explanation: "As per DA-151 notes: Reducing friction - forms oil film between surfaces; Sealing - prevents gas leakage from cylinder; Cleaning - removes dirt and carbon."
   },
   {
@@ -2512,8 +2512,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Match the heat distribution in IC engine with percentage:\nA-Exhaust heat loss, B-Cooling system removal, C-Useful power\n1-30%, 2-40%, 3-30%",
-    options: ["A-2, B-3, C-1", "A-1, B-2, C-3", "A-3, B-2, C-1", "A-2, B-1, C-3"],
-    correct: 0,
+    options: ["A-3, B-2, C-1", "A-1, B-2, C-3", "A-2, B-3, C-1", "A-2, B-1, C-3"],
+    correct: 2,
     explanation: "As per DA-151 notes: 40% via exhaust, 30% removed by cooling system, only 30% used to produce useful power."
   },
   {
@@ -2522,8 +2522,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Match the engine type with fuel consumption characteristic:\nA-Four stroke, B-Two stroke, C-Diesel vs petrol\n1-Diesel uses less fuel than petrol, 2-Little fuel consumption, 3-High fuel consumption (15% more)",
-    options: ["A-2, B-3, C-1", "A-1, B-2, C-3", "A-3, B-2, C-1", "A-2, B-1, C-3"],
-    correct: 0,
+    options: ["A-2, B-1, C-3", "A-1, B-2, C-3", "A-3, B-2, C-1", "A-2, B-3, C-1"],
+    correct: 3,
     explanation: "As per DA-151 notes: Four stroke-little fuel consumption, Two stroke-high (15% more), Diesel-less fuel than petrol."
   },
   {
@@ -2532,8 +2532,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Match the diesel fuel system component with function:\nA-Fuel lift pump, B-Fuel injection pump, C-Fuel injector\n1-Delivers atomized fuel to combustion chamber, 2-Supplies high pressure fuel to injectors, 3-Transfers fuel from tank to injection pump",
-    options: ["A-1, B-2, C-3", "A-3, B-2, C-1", "A-3, B-1, C-2", "A-2, B-3, C-1"],
-    correct: 1,
+    options: ["A-1, B-2, C-3", "A-3, B-1, C-2", "A-3, B-2, C-1", "A-2, B-3, C-1"],
+    correct: 2,
     explanation: "As per DA-151 notes: Fuel lift pump-transfers fuel from tank to injection pump, Injection pump-supplies high pressure fuel, Fuel injector-delivers atomized fuel to combustion chamber."
   },
   {
@@ -2542,8 +2542,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Match the piston ring type with function:\nA-Compression ring, B-Oil ring, C-Both ring types\n1-Controls oil distribution, 2-Prevents gas leakage, 3-Placed in piston grooves",
-    options: ["A-1, B-2, C-3", "A-2, B-1, C-3", "A-3, B-1, C-2", "A-2, B-3, C-1"],
-    correct: 1,
+    options: ["A-1, B-2, C-3", "A-3, B-1, C-2", "A-2, B-1, C-3", "A-2, B-3, C-1"],
+    correct: 2,
     explanation: "As per DA-151 notes: Compression ring-prevents gas leakage from cylinder; Oil ring-controls distribution of lubricating oil; Both types placed in piston grooves."
   },
   {
@@ -2552,8 +2552,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Match the engine parameter with diesel vs petrol comparison:\nA-Compression ratio, B-Engine weight/hp, C-Operating cost\n1-High for diesel, low for petrol, 2-High for petrol, low for diesel, 3-Low for diesel, high for petrol",
-    options: ["A-3, B-2, C-1", "A-1, B-1, C-3", "A-2, B-1, C-3", "A-1, B-2, C-3"],
-    correct: 3,
+    options: ["A-1, B-2, C-3", "A-1, B-1, C-3", "A-2, B-1, C-3", "A-3, B-2, C-1"],
+    correct: 0,
     explanation: "As per DA-151 notes: Compression ratio-diesel 14:1-20:1 (high), petrol 5:1-8:1 (low); Engine weight/hp-diesel high, petrol low; Operating cost-diesel low, petrol high."
   },
   {
@@ -2562,8 +2562,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "Match the renewable energy source with application:\nA-Solar energy, B-Wind energy, C-Biogas\n1-Domestic cooking and lighting, 2-Solar dryers and cooker, 3-Water pumping and electricity",
-    options: ["A-2, B-3, C-1", "A-1, B-2, C-3", "A-3, B-2, C-1", "A-2, B-1, C-3"],
-    correct: 0,
+    options: ["A-1, B-2, C-3", "A-2, B-3, C-1", "A-3, B-2, C-1", "A-2, B-1, C-3"],
+    correct: 1,
     explanation: "As per DA-151 notes: Solar energy-solar dryers, lantern, cooker; Wind energy-water pumping, electricity generation; Biomass/Biogas-gasification, cooking and lighting."
   },
   {
@@ -2572,8 +2572,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Match the oil pressure problem with cause:\nA-Low oil pressure, B-Excessive oil pressure, C-Excessive oil consumption\n1-Oil entering combustion chamber, 2-Stuck relief valve, 3-Worn oil pump",
-    options: ["A-1, B-2, C-3", "A-3, B-2, C-1", "A-3, B-1, C-2", "A-2, B-3, C-1"],
-    correct: 1,
+    options: ["A-1, B-2, C-3", "A-2, B-3, C-1", "A-3, B-1, C-2", "A-3, B-2, C-1"],
+    correct: 3,
     explanation: "As per DA-151 notes: Low oil pressure-worn oil pump; Excessive oil pressure-stuck relief valve; Excessive oil consumption-oil entering combustion chamber."
   },
   {
@@ -2582,8 +2582,8 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Match the engine classification basis with types:\nA-Based on fuel, B-Based on cooling, C-Based on combustion\n1-Internal and external, 2-Diesel, petrol, gas, 3-Air cooled and water cooled",
-    options: ["A-2, B-3, C-1", "A-1, B-2, C-3", "A-3, B-2, C-1", "A-2, B-1, C-3"],
-    correct: 0,
+    options: ["A-3, B-2, C-1", "A-1, B-2, C-3", "A-2, B-3, C-1", "A-2, B-1, C-3"],
+    correct: 2,
     explanation: "As per DA-151 notes: Based on fuel-diesel/petrol/gas engines; Based on cooling-air cooled and water cooled; Based on combustion-internal and external combustion."
   },
   {

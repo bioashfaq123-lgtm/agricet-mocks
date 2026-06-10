@@ -5,16 +5,16 @@ export const extensionQuestions: Question[] = [
     id: "ext001",
     subject: "extension",
     question: "Agricultural Extension is defined as:",
-    options: ["Teaching farmers in classroom in extension education", "An informal educational process that helps farmers improve methods and techniques", "Selling agricultural inputs to farmers in rural development", "Government policy for agriculture for farming communities"],
-    correct: 1,
+    options: ["Teaching farmers in classroom in extension education", "Selling agricultural inputs to farmers in rural development", "An informal educational process that helps farmers improve methods and techniques", "Government policy for agriculture for farming communities"],
+    correct: 2,
     explanation: "Agricultural Extension is a non-formal educational system that helps farmers learn improved agricultural methods, make better decisions, and improve their standard of living through voluntary change."
   },
   {
     id: "ext002",
     subject: "extension",
     question: "The father of Extension Education in India is:",
-    options: ["Dr. M.S. Swaminathan", "Dr. K.N. Singh", "Albert Mayer", "Dr. V.S. Vyas"],
-    correct: 2,
+    options: ["Dr. M.S. Swaminathan", "Albert Mayer", "Dr. K.N. Singh", "Dr. V.S. Vyas"],
+    correct: 1,
     explanation: "Albert Mayer, an American town planner, initiated the Etawah Pilot Project in 1948 in Uttar Pradesh, which became the foundation of community development and extension education in India."
   },
   {
@@ -37,48 +37,48 @@ export const extensionQuestions: Question[] = [
     id: "ext005",
     subject: "extension",
     question: "The adoption process of an innovation has how many stages?",
-    options: ["3", "4", "5", "6"],
-    correct: 2,
+    options: ["3", "4", "6", "5"],
+    correct: 3,
     explanation: "The adoption process has 5 stages: Awareness → Interest → Evaluation → Trial → Adoption. Farmers go through all these stages before fully adopting a new technology."
   },
   {
     id: "ext006",
     subject: "extension",
     question: "Innovators in the adopter categories are approximately what percentage of the population?",
-    options: ["2.5%", "13.5%", "34%", "16%"],
-    correct: 0,
+    options: ["16%", "13.5%", "34%", "2.5%"],
+    correct: 3,
     explanation: "According to Rogers' diffusion of innovation theory, Innovators constitute approximately 2.5% of the population. They are the first to adopt new ideas and are willing to take risks."
   },
   {
     id: "ext007",
     subject: "extension",
     question: "The S-shaped curve in adoption of innovations represents:",
-    options: ["Declining adoption over time in extension education", "Cumulative adoption showing slow start, rapid growth, then leveling off", "Constant rate of adoption in rural development", "Adoption declining after innovation for farming communities"],
-    correct: 1,
+    options: ["Cumulative adoption showing slow start, rapid growth, then leveling off", "Declining adoption over time in extension education", "Constant rate of adoption in rural development", "Adoption declining after innovation for farming communities"],
+    correct: 0,
     explanation: "The S-shaped (sigmoid) curve shows cumulative adoption of innovations - slow initial adoption by innovators, rapid growth in the middle by majority, then leveling off as laggards finally adopt."
   },
   {
     id: "ext008",
     subject: "extension",
     question: "KVK stands for:",
-    options: ["Krishi Vigyan Kendra", "Kisan Vikas Kendra", "Krishi Vikas Karyalay", "Kisan Vigyan Kendra"],
-    correct: 0,
+    options: ["Krishi Vikas Karyalay", "Kisan Vikas Kendra", "Krishi Vigyan Kendra", "Kisan Vigyan Kendra"],
+    correct: 2,
     explanation: "KVK - Krishi Vigyan Kendra (Farm Science Centre) is a district-level technology transfer centre established by ICAR to bridge the gap between research and farmers."
   },
   {
     id: "ext009",
     subject: "extension",
     question: "ATMA stands for:",
-    options: ["Agricultural Technology Management Agency", "Agricultural Training and Management Authority", "Agri Technology Marketing Agency", "Agricultural Transfer and Management Act"],
-    correct: 0,
+    options: ["Agricultural Training and Management Authority", "Agricultural Technology Management Agency", "Agri Technology Marketing Agency", "Agricultural Transfer and Management Act"],
+    correct: 1,
     explanation: "ATMA - Agricultural Technology Management Agency is a registered society at the district level established under the National Agricultural Extension and Technology Mission to coordinate extension activities."
   },
   {
     id: "ext010",
     subject: "extension",
     question: "The most important principle of extension education is:",
-    options: ["Compulsion", "Voluntary participation and self-help", "Subsidization", "Mechanization"],
-    correct: 1,
+    options: ["Voluntary participation and self-help", "Compulsion", "Subsidization", "Mechanization"],
+    correct: 0,
     explanation: "Voluntary participation is the cornerstone of extension education. Farmers participate willingly and adopt technologies based on their own decisions, not compulsion."
   },
   {
@@ -93,16 +93,16 @@ export const extensionQuestions: Question[] = [
     id: "ext012",
     subject: "extension",
     question: "Rural sociology studies:",
-    options: ["Farming techniques in extension education", "Social structure, institutions, processes, and behavior in rural communities", "Agricultural economics in rural development", "Soil science for farming communities"],
-    correct: 1,
+    options: ["Farming techniques in extension education", "Agricultural economics in rural development", "Social structure, institutions, processes, and behavior in rural communities", "Soil science for farming communities"],
+    correct: 2,
     explanation: "Rural sociology is the scientific study of social structure, institutions, social processes, and social behavior in rural areas and communities. It helps extension workers understand the social context of farming."
   },
   {
     id: "ext013",
     subject: "extension",
     question: "Opinion leaders in a village are important because they:",
-    options: ["Oppose new technologies in extension education", "Influence others' opinions and decisions about adopting innovations", "Work in government offices in rural development", "Have highest landholdings for farming communities"],
-    correct: 1,
+    options: ["Oppose new technologies in extension education", "Work in government offices in rural development", "Influence others' opinions and decisions about adopting innovations", "Have highest landholdings for farming communities"],
+    correct: 2,
     explanation: "Opinion leaders are respected community members who influence the beliefs and actions of others. Extension workers target them as change agents because their adoption encourages others to follow."
   },
   {
@@ -117,64 +117,64 @@ export const extensionQuestions: Question[] = [
     id: "ext015",
     subject: "extension",
     question: "The most effective extension method for teaching a skill is:",
-    options: ["Lecture", "Demonstration", "Circular letter", "Newspaper"],
-    correct: 1,
+    options: ["Demonstration", "Lecture", "Circular letter", "Newspaper"],
+    correct: 0,
     explanation: "Method demonstration is the most effective way to teach skills because it shows the 'how' of doing something. Farmers learn by seeing and doing, which is more effective than just hearing or reading."
   },
   {
     id: "ext016",
     subject: "extension",
     question: "Diffusion of innovation means:",
-    options: ["Manufacturing innovations according to extension education and rural development science", "Spread of new ideas, practices or technologies through a social system over time", "Testing innovations in laboratory in rural development according to extension education and rural development science", "Abandoning old practices according to extension education and rural development science"],
-    correct: 1,
+    options: ["Spread of new ideas, practices or technologies through a social system over time", "Manufacturing innovations according to extension education and rural development science", "Testing innovations in laboratory in rural development according to extension education and rural development science", "Abandoning old practices according to extension education and rural development science"],
+    correct: 0,
     explanation: "Diffusion is the process by which an innovation is communicated through certain channels over time among members of a social system. It studies how new ideas spread in communities."
   },
   {
     id: "ext017",
     subject: "extension",
     question: "NABARD was established in:",
-    options: ["1950", "1964", "1982", "1995"],
-    correct: 2,
+    options: ["1982", "1964", "1950", "1995"],
+    correct: 0,
     explanation: "NABARD (National Bank for Agriculture and Rural Development) was established on July 12, 1982, on the recommendations of the Shivaraman Committee, to provide credit for agricultural development."
   },
   {
     id: "ext018",
     subject: "extension",
     question: "Farmer Field School (FFS) was first developed for:",
-    options: ["Wheat production in extension education", "Integrated Pest Management in rice in Southeast Asia", "Dairy farming in rural development", "Vegetable growing for farming communities"],
-    correct: 1,
+    options: ["Wheat production in extension education", "Dairy farming in rural development", "Integrated Pest Management in rice in Southeast Asia", "Vegetable growing for farming communities"],
+    correct: 2,
     explanation: "Farmer Field School (FFS) was developed by FAO in the late 1980s for Integrated Pest Management (IPM) in rice in Southeast Asia. It uses group learning through observation in the field."
   },
   {
     id: "ext019",
     subject: "extension",
     question: "Communication in extension education involves:",
-    options: ["One-way information transfer only in extension education", "Two-way process of sharing information, ideas and feelings between communicator and audience", "Only written communication in rural development according to extension education and rural development science", "Only visual methods according to extension education and rural development science"],
-    correct: 1,
+    options: ["One-way information transfer only in extension education", "Only visual methods according to extension education and rural development science", "Only written communication in rural development according to extension education and rural development science", "Two-way process of sharing information, ideas and feelings between communicator and audience"],
+    correct: 3,
     explanation: "Effective extension communication is a two-way process where information, ideas, and feelings are shared between the extension worker and farmers with feedback from both sides."
   },
   {
     id: "ext020",
     subject: "extension",
     question: "The 'laggards' in adopter categories are characterized by:",
-    options: ["Quick adoption of innovations in extension education", "Traditional values, suspicious of change, last to adopt", "Highest income level in rural development", "Opinion leaders in community for farming communities"],
-    correct: 1,
+    options: ["Quick adoption of innovations in extension education", "Opinion leaders in community for farming communities", "Highest income level in rural development", "Traditional values, suspicious of change, last to adopt"],
+    correct: 3,
     explanation: "Laggards constitute about 16% of the population and are tradition-bound, suspicious of innovations, have limited social interaction, and are the last to adopt new technologies."
   },
   {
     id: "ext021",
     subject: "extension",
     question: "MANAGE stands for:",
-    options: ["National Academy of Management and Agricultural Growth", "National Academy of Agricultural Research and Extension", "Management Academy for National Agricultural Growth and Education", "National Academy of Agricultural Research Management and Extension"],
-    correct: 3,
+    options: ["National Academy of Agricultural Research Management and Extension", "National Academy of Agricultural Research and Extension", "Management Academy for National Agricultural Growth and Education", "National Academy of Management and Agricultural Growth"],
+    correct: 0,
     explanation: "MANAGE - National Academy of Agricultural Research Management and Extension, Hyderabad is the apex institution for training agricultural extension managers and researchers in India."
   },
   {
     id: "ext022",
     subject: "extension",
     question: "The Etawah Pilot Project was started in which state?",
-    options: ["Maharashtra", "Punjab", "Uttar Pradesh", "Andhra Pradesh"],
-    correct: 2,
+    options: ["Maharashtra", "Punjab", "Andhra Pradesh", "Uttar Pradesh"],
+    correct: 3,
     explanation: "The Etawah Pilot Project was started in Etawah district of Uttar Pradesh in 1948 by Albert Mayer and S.K. Dey. It became the model for India's Community Development Programme."
   },
   {
@@ -189,16 +189,16 @@ export const extensionQuestions: Question[] = [
     id: "ext024",
     subject: "extension",
     question: "The most common barrier to adoption of improved technologies by farmers is:",
-    options: ["Laziness according to extension education and rural development science", "Limited resources (capital, land), risk aversion, and lack of information", "Education level only in rural development", "Age of farmer for farming communities"],
-    correct: 1,
+    options: ["Limited resources (capital, land), risk aversion, and lack of information", "Laziness according to extension education and rural development science", "Education level only in rural development", "Age of farmer for farming communities"],
+    correct: 0,
     explanation: "Main barriers to adoption include limited financial resources, small landholdings, risk aversion (fear of crop failure), limited access to credit, and lack of information about new technologies."
   },
   {
     id: "ext025",
     subject: "extension",
     question: "A kisan mela (farmer fair) is an example of which extension method?",
-    options: ["Individual method", "Group method", "Mass contact method", "Demonstration method"],
-    correct: 2,
+    options: ["Individual method", "Group method", "Demonstration method", "Mass contact method"],
+    correct: 3,
     explanation: "Kisan mela (farmer fair/exhibition) is a mass contact method where large numbers of farmers gather to see demonstrations, exhibits, and get information about new technologies in a festive atmosphere."
   },
   {
@@ -213,40 +213,40 @@ export const extensionQuestions: Question[] = [
     id: "ext027",
     subject: "extension",
     question: "ATIC (Agricultural Technology Information Centre) is established at:",
-    options: ["Village level", "Block level", "ICAR institutes/SAU level", "International level"],
-    correct: 2,
+    options: ["Village level", "Block level", "International level", "ICAR institutes/SAU level"],
+    correct: 3,
     explanation: "ATICs are established at ICAR institutes and State Agricultural Universities to serve as a single window system providing information, technologies, seeds, and other farm inputs to farmers and extension workers."
   },
   {
     id: "ext028",
     subject: "extension",
     question: "SHG (Self Help Group) in rural areas typically consists of:",
-    options: ["50-100 farmers according to extension education and rural development science", "10-20 members from the same village with similar socio-economic status", "All farmers of a district in rural development", "Government employees according to extension education and rural development science"],
-    correct: 1,
+    options: ["50-100 farmers according to extension education and rural development science", "Government employees according to extension education and rural development science", "All farmers of a district in rural development", "10-20 members from the same village with similar socio-economic status"],
+    correct: 3,
     explanation: "A Self Help Group (SHG) typically consists of 10-20 members (usually women) from the same village with similar socio-economic backgrounds who save collectively and provide micro-credit to members."
   },
   {
     id: "ext029",
     subject: "extension",
     question: "Which of the following is an individual contact method of extension?",
-    options: ["Result demonstration", "Farm and home visit", "Radio broadcast", "Kisan mela"],
-    correct: 1,
+    options: ["Farm and home visit", "Result demonstration", "Radio broadcast", "Kisan mela"],
+    correct: 0,
     explanation: "Farm and home visit is an individual contact method where the extension worker personally visits the farmer's field or home to provide advice. It is most effective but time-consuming."
   },
   {
     id: "ext030",
     subject: "extension",
     question: "The concept of 'Lab to Land' in extension refers to:",
-    options: ["Building laboratories in farms in extension education", "Transferring technologies from research stations to farmers' fields", "Laboratory testing of farm produce", "Bringing farmers to laboratories in rural development"],
-    correct: 1,
+    options: ["Building laboratories in farms in extension education", "Laboratory testing of farm produce", "Transferring technologies from research stations to farmers' fields", "Bringing farmers to laboratories in rural development"],
+    correct: 2,
     explanation: "'Lab to Land' refers to the process of transferring technologies developed at research stations (labs) to farmers' fields (land) through the extension system to improve farm productivity."
   },
   {
     id: "ext031",
     subject: "extension",
     question: "Agricultural journalism is concerned with:",
-    options: ["Only news about crop prices in extension education", "Writing, editing and disseminating agricultural information through print and electronic media", "Government agricultural policies in rural development according to extension education and rural development science", "Farm record keeping according to extension education and rural development science"],
-    correct: 1,
+    options: ["Writing, editing and disseminating agricultural information through print and electronic media", "Only news about crop prices in extension education", "Government agricultural policies in rural development according to extension education and rural development science", "Farm record keeping according to extension education and rural development science"],
+    correct: 0,
     explanation: "Agricultural journalism involves writing, editing, and disseminating agricultural information through newspapers, magazines, radio, TV, and digital media to educate and inform farmers and the public."
   },
   {
@@ -261,32 +261,32 @@ export const extensionQuestions: Question[] = [
     id: "ext033",
     subject: "extension",
     question: "The communication model involving sender, message, channel and receiver was developed by:",
-    options: ["Rogers", "Lewin", "Shannon and Weaver", "Lasswell"],
-    correct: 2,
+    options: ["Rogers", "Shannon and Weaver", "Lewin", "Lasswell"],
+    correct: 1,
     explanation: "The Shannon-Weaver model (1949) of communication identifies sender, encoding, message, channel, decoding, receiver, noise, and feedback as key components of the communication process."
   },
   {
     id: "ext034",
     subject: "extension",
     question: "E-Choupal is an initiative of:",
-    options: ["Government of India", "ITC Limited (private company)", "NABARD", "ICAR"],
-    correct: 1,
+    options: ["ITC Limited (private company)", "Government of India", "NABARD", "ICAR"],
+    correct: 0,
     explanation: "e-Choupal is an initiative by ITC Limited that uses internet kiosks in villages to provide farmers with real-time information on prices, weather, and best practices, and for direct procurement."
   },
   {
     id: "ext035",
     subject: "extension",
     question: "Participatory Rural Appraisal (PRA) involves:",
-    options: ["Government officials assessing villages in extension education", "Farmers and community members analyzing their own situation using visual tools", "Academic research only in rural development according to extension education and rural development science", "Market survey according to extension education and rural development science"],
-    correct: 1,
+    options: ["Farmers and community members analyzing their own situation using visual tools", "Government officials assessing villages in extension education", "Academic research only in rural development according to extension education and rural development science", "Market survey according to extension education and rural development science"],
+    correct: 0,
     explanation: "PRA is a community-based approach where farmers and villagers analyze their own situation using visual tools (maps, diagrams) to identify problems and plan development activities with facilitation from outside."
   },
   {
     id: "ext036",
     subject: "extension",
     question: "Which award is given to outstanding farmers in India for agricultural achievement?",
-    options: ["Bharat Ratna in extension education", "Krishi Pandit / Kisan Shree award", "Padma Vibhushan only", "Nobel Prize in rural development"],
-    correct: 1,
+    options: ["Bharat Ratna in extension education", "Padma Vibhushan only", "Krishi Pandit / Kisan Shree award", "Nobel Prize in rural development"],
+    correct: 2,
     explanation: "Various awards like Krishi Pandit, Kisan Shree, and state-level awards are given to farmers for excellence in agriculture. The national level Padma Shri is also awarded to outstanding farmers."
   },
   {
@@ -309,16 +309,16 @@ export const extensionQuestions: Question[] = [
     id: "ext039",
     subject: "extension",
     question: "ICT (Information and Communication Technology) in agricultural extension includes:",
-    options: ["Only mobile phones according to extension education and rural development science", "Internet, mobile phones, computers, radio, TV, and digital tools for knowledge sharing", "Traditional media only in rural development according to extension education and rural development science", "Only government websites according to extension education and rural development science"],
-    correct: 1,
+    options: ["Internet, mobile phones, computers, radio, TV, and digital tools for knowledge sharing", "Only mobile phones according to extension education and rural development science", "Traditional media only in rural development according to extension education and rural development science", "Only government websites according to extension education and rural development science"],
+    correct: 0,
     explanation: "ICT in extension includes the internet, mobile phones (SMS, apps), computers, radio, TV, and digital platforms used to disseminate agricultural information to farmers efficiently."
   },
   {
     id: "ext040",
     subject: "extension",
     question: "The Rapid Rural Appraisal (RRA) differs from PRA in that:",
-    options: ["RRA involves farmers more according to extension education and rural development science", "RRA is mainly done by outside experts gathering information quickly, while PRA is participatory", "RRA takes more time in rural development according to extension education and rural development science", "RRA is more expensive according to extension education and rural development science"],
-    correct: 1,
+    options: ["RRA involves farmers more according to extension education and rural development science", "RRA is more expensive according to extension education and rural development science", "RRA takes more time in rural development according to extension education and rural development science", "RRA is mainly done by outside experts gathering information quickly, while PRA is participatory"],
+    correct: 3,
     explanation: "RRA is mainly conducted by outside researchers/experts who quickly gather information from rural communities. PRA is participatory - community members themselves analyze and plan with facilitation."
   },
   {
@@ -341,24 +341,24 @@ export const extensionQuestions: Question[] = [
     id: "ext043",
     subject: "extension",
     question: "Market-led extension gives priority to:",
-    options: ["Government subsidy programs in extension education", "Connecting farmers to markets and aligning production with market demand", "Traditional farming practices in rural development", "Research activities according to extension education and rural development science"],
-    correct: 1,
+    options: ["Government subsidy programs in extension education", "Research activities according to extension education and rural development science", "Traditional farming practices in rural development", "Connecting farmers to markets and aligning production with market demand"],
+    correct: 3,
     explanation: "Market-led extension links farmers to markets, helps them understand market demands, improve product quality, access market information, and connect with buyers and value chains."
   },
   {
     id: "ext044",
     subject: "extension",
     question: "FPO (Farmer Producer Organization) helps farmers by:",
-    options: ["Individual marketing according to extension education and rural development science", "Collective bargaining, pooling resources, and market access for better prices", "Government subsidies only in rural development", "Insurance services according to extension education and rural development science"],
-    correct: 1,
+    options: ["Individual marketing according to extension education and rural development science", "Government subsidies only in rural development", "Collective bargaining, pooling resources, and market access for better prices", "Insurance services according to extension education and rural development science"],
+    correct: 2,
     explanation: "FPOs (Farmer Producer Organizations) enable farmers to collectively market their produce, get better prices through bargaining power, pool resources for inputs, and access credit and markets."
   },
   {
     id: "ext045",
     subject: "extension",
     question: "Social change in rural India is mainly influenced by:",
-    options: ["Only government policies according to extension education and rural development science", "Education, migration, mass media, economic development, and contact with outside world", "Religious factors only in rural development according to extension education and rural development science", "Climate change according to extension education and rural development science"],
-    correct: 1,
+    options: ["Education, migration, mass media, economic development, and contact with outside world", "Only government policies according to extension education and rural development science", "Religious factors only in rural development according to extension education and rural development science", "Climate change according to extension education and rural development science"],
+    correct: 0,
     explanation: "Rural social change occurs through multiple drivers: education raising aspirations, rural-urban migration bringing new ideas, mass media exposure, economic development, and modernization processes."
   },
   {
@@ -381,24 +381,24 @@ export const extensionQuestions: Question[] = [
     id: "ext048",
     subject: "extension",
     question: "PM-KISAN scheme provides:",
-    options: ["Free agricultural equipment according to extension education and rural development science", "₹6000 per year directly to farmer bank accounts in three installments", "Crop insurance in rural development according to extension education and rural development science", "Free irrigation according to extension education and rural development science"],
-    correct: 1,
+    options: ["Free agricultural equipment according to extension education and rural development science", "Crop insurance in rural development according to extension education and rural development science", "₹6000 per year directly to farmer bank accounts in three installments", "Free irrigation according to extension education and rural development science"],
+    correct: 2,
     explanation: "PM-KISAN (Pradhan Mantri Kisan Samman Nidhi) provides ₹6000 per year in three equal installments of ₹2000 directly to the bank accounts of eligible farmer families."
   },
   {
     id: "ext049",
     subject: "extension",
     question: "The main objective of farmer training programmes at KVKs is:",
-    options: ["Research on crops according to extension education and rural development science", "Updating farmers and farm women with latest agricultural technologies through hands-on training", "Marketing of farm produce in rural development", "Record keeping according to extension education and rural development science"],
-    correct: 1,
+    options: ["Research on crops according to extension education and rural development science", "Record keeping according to extension education and rural development science", "Marketing of farm produce in rural development", "Updating farmers and farm women with latest agricultural technologies through hands-on training"],
+    correct: 3,
     explanation: "KVK training programmes update farmers and farm women with latest agricultural technologies through short-term (2-7 day) and long-term (1-3 month) hands-on vocational training programmes."
   },
   {
     id: "ext050",
     subject: "extension",
     question: "Which of the following is NOT a characteristic of extension education?",
-    options: ["It is voluntary in extension education", "It is informal in rural development", "It is compulsory and examinations are conducted", "It aims at behavioral change"],
-    correct: 2,
+    options: ["It is voluntary in extension education", "It is informal in rural development", "It aims at behavioral change", "It is compulsory and examinations are conducted"],
+    correct: 3,
     explanation: "Extension education is informal, voluntary, and does not have formal examinations or compulsory attendance. It aims to bring voluntary behavioral change in farming practices and farm family life."
   },
 ];

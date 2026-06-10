@@ -5,32 +5,32 @@ export const meteorologyQuestions: Question[] = [
     id: "met001",
     subject: "meteorology",
     question: "Meteorology is the science that deals with:",
-    options: ["Soil study in agricultural meteorology in meteorology", "Study of atmosphere and its phenomena including weather and climate", "Water bodies under atmospheric conditions", "Crop production in weather analysis in weather forecasting"],
-    correct: 1,
+    options: ["Study of atmosphere and its phenomena including weather and climate", "Soil study in agricultural meteorology in meteorology", "Water bodies under atmospheric conditions", "Crop production in weather analysis in weather forecasting"],
+    correct: 0,
     explanation: "Meteorology is the scientific study of the atmosphere, atmospheric phenomena, and weather patterns. Agricultural meteorology applies these principles to crop production."
   },
   {
     id: "met002",
     subject: "meteorology",
     question: "The standard instrument shelter used to house thermometers is called:",
-    options: ["Barometer screen", "Stevenson screen", "Hygrometer box", "Rain gauge shelter"],
-    correct: 1,
+    options: ["Barometer screen", "Hygrometer box", "Stevenson screen", "Rain gauge shelter"],
+    correct: 2,
     explanation: "The Stevenson screen is a standardized white louvred wooden box that houses thermometers and other instruments. It protects instruments from direct sunlight while allowing air circulation."
   },
   {
     id: "met003",
     subject: "meteorology",
     question: "Relative Humidity (RH) is defined as:",
-    options: ["Actual water vapor in air in agricultural meteorology in meteorology", "Ratio of actual vapor pressure to saturated vapor pressure at same temperature × 100", "Dew point temperature according to standard agro-meteorological science principles", "Total rainfall per year in weather analysis in weather forecasting"],
-    correct: 1,
+    options: ["Actual water vapor in air in agricultural meteorology in meteorology", "Dew point temperature according to standard agro-meteorological science principles", "Ratio of actual vapor pressure to saturated vapor pressure at same temperature × 100", "Total rainfall per year in weather analysis in weather forecasting"],
+    correct: 2,
     explanation: "Relative Humidity = (Actual vapor pressure / Saturated vapor pressure at same temperature) × 100. It expresses the percentage of moisture in air compared to maximum it can hold at that temperature."
   },
   {
     id: "met004",
     subject: "meteorology",
     question: "The instrument used to measure rainfall is:",
-    options: ["Barometer", "Hygrometer", "Rain gauge", "Anemometer"],
-    correct: 2,
+    options: ["Rain gauge", "Hygrometer", "Barometer", "Anemometer"],
+    correct: 0,
     explanation: "A rain gauge (pluviometer) measures the amount of rainfall (precipitation) in millimeters. The standard Indian Meteorological Department rain gauge has a 127mm (5 inch) diameter funnel."
   },
   {
@@ -45,24 +45,24 @@ export const meteorologyQuestions: Question[] = [
     id: "met006",
     subject: "meteorology",
     question: "Class A pan evaporimeter measures:",
-    options: ["Rainfall", "Open water evaporation", "Transpiration", "Soil moisture"],
-    correct: 1,
+    options: ["Rainfall", "Transpiration", "Open water evaporation", "Soil moisture"],
+    correct: 2,
     explanation: "Class A pan evaporimeter (1.21m diameter, 25.4cm deep) measures open water (pan) evaporation. Pan evaporation × pan coefficient gives reference evapotranspiration."
   },
   {
     id: "met007",
     subject: "meteorology",
     question: "Normal Indian monsoon brings rainfall from:",
-    options: ["October to February", "June to September (Southwest monsoon)", "March to May", "Year-round"],
-    correct: 1,
+    options: ["June to September (Southwest monsoon)", "October to February", "March to May", "Year-round"],
+    correct: 0,
     explanation: "The Southwest monsoon (June-September) brings 75-80% of India's annual rainfall. The Northeast monsoon (October-December) brings rainfall to southeastern India."
   },
   {
     id: "met008",
     subject: "meteorology",
     question: "Average annual rainfall of India is approximately:",
-    options: ["500 mm", "1000 mm", "1197 mm", "2000 mm"],
-    correct: 2,
+    options: ["1197 mm", "1000 mm", "500 mm", "2000 mm"],
+    correct: 0,
     explanation: "India's average annual rainfall is approximately 1197 mm, but distribution is highly uneven - ranging from less than 100 mm in western Rajasthan to over 11,000 mm in Cherrapunji, Meghalaya."
   },
   {
@@ -77,8 +77,8 @@ export const meteorologyQuestions: Question[] = [
     id: "met010",
     subject: "meteorology",
     question: "The Bowen ratio in energy balance studies is the ratio of:",
-    options: ["Rainfall to evaporation", "Sensible heat flux to latent heat flux", "Incoming to outgoing radiation", "Day temperature to night temperature"],
-    correct: 1,
+    options: ["Rainfall to evaporation", "Day temperature to night temperature", "Incoming to outgoing radiation", "Sensible heat flux to latent heat flux"],
+    correct: 3,
     explanation: "Bowen Ratio (β) = Sensible heat flux (H) / Latent heat flux (LE). It indicates the partitioning of available energy between sensible and latent heat. Lower β indicates more energy used for evapotranspiration."
   },
   {
@@ -93,32 +93,32 @@ export const meteorologyQuestions: Question[] = [
     id: "met012",
     subject: "meteorology",
     question: "Wind speed is measured by:",
-    options: ["Barometer", "Anemometer", "Hygrometer", "Thermometer"],
-    correct: 1,
+    options: ["Barometer", "Hygrometer", "Anemometer", "Thermometer"],
+    correct: 2,
     explanation: "An anemometer measures wind speed. Cup anemometers (3 or 4 cups on horizontal axis) are most common. Wind direction is measured by a wind vane (weather vane)."
   },
   {
     id: "met013",
     subject: "meteorology",
     question: "The Beaufort scale measures:",
-    options: ["Rainfall intensity in agricultural meteorology", "Wind force/speed from 0 (calm) to 12 (hurricane)", "Temperature range under atmospheric conditions", "Humidity in weather analysis in meteorology"],
-    correct: 1,
+    options: ["Rainfall intensity in agricultural meteorology", "Humidity in weather analysis in meteorology", "Temperature range under atmospheric conditions", "Wind force/speed from 0 (calm) to 12 (hurricane)"],
+    correct: 3,
     explanation: "The Beaufort scale is a empirical measure of wind intensity based on observable conditions. Scale 0 = calm (< 1 km/h) to Scale 12 = hurricane force (> 118 km/h)."
   },
   {
     id: "met014",
     subject: "meteorology",
     question: "Dew point temperature is the temperature at which:",
-    options: ["Maximum temperature occurs in agricultural meteorology", "Air becomes saturated and condensation begins when cooled", "Evaporation stops under atmospheric conditions", "Frost forms in weather analysis"],
-    correct: 1,
+    options: ["Maximum temperature occurs in agricultural meteorology", "Evaporation stops under atmospheric conditions", "Air becomes saturated and condensation begins when cooled", "Frost forms in weather analysis"],
+    correct: 2,
     explanation: "Dew point is the temperature to which air must be cooled (at constant pressure and water vapor content) for saturation to occur. Below dew point, dew or frost forms."
   },
   {
     id: "met015",
     subject: "meteorology",
     question: "Insolation refers to:",
-    options: ["Soil insulation in agricultural meteorology in meteorology", "Incoming solar radiation received on a unit horizontal surface", "Night temperature under atmospheric conditions", "Wind patterns in weather analysis in weather forecasting"],
-    correct: 1,
+    options: ["Soil insulation in agricultural meteorology in meteorology", "Night temperature under atmospheric conditions", "Incoming solar radiation received on a unit horizontal surface", "Wind patterns in weather analysis in weather forecasting"],
+    correct: 2,
     explanation: "Insolation (INcoming SOLar radiATION) is the solar radiation energy received on a unit horizontal area on Earth's surface. It is expressed in MJ/m²/day or Langleys."
   },
   {
@@ -133,56 +133,56 @@ export const meteorologyQuestions: Question[] = [
     id: "met017",
     subject: "meteorology",
     question: "In India, IMD stands for:",
-    options: ["Indian Meteorological Data", "India Meteorological Department", "Integrated Monsoon Data", "Indian Monitoring of Droughts"],
-    correct: 1,
+    options: ["India Meteorological Department", "Indian Meteorological Data", "Integrated Monsoon Data", "Indian Monitoring of Droughts"],
+    correct: 0,
     explanation: "IMD - India Meteorological Department (headquartered in Pune) is responsible for weather observation, forecasting, and research in India. It was established in 1875."
   },
   {
     id: "met018",
     subject: "meteorology",
     question: "The greenhouse effect in the atmosphere is caused by:",
-    options: ["Ozone only in agricultural meteorology in meteorology", "CO₂, CH₄, N₂O, and water vapor absorbing outgoing longwave radiation", "Solar radiation directly under atmospheric conditions", "Wind patterns in weather analysis in weather forecasting"],
-    correct: 1,
+    options: ["Ozone only in agricultural meteorology in meteorology", "Wind patterns in weather analysis in weather forecasting", "Solar radiation directly under atmospheric conditions", "CO₂, CH₄, N₂O, and water vapor absorbing outgoing longwave radiation"],
+    correct: 3,
     explanation: "Greenhouse gases (CO₂, CH₄, N₂O, H₂O vapor, CFCs) absorb outgoing longwave (infrared) radiation from Earth's surface and re-emit it, warming the lower atmosphere."
   },
   {
     id: "met019",
     subject: "meteorology",
     question: "Soil heat flux is maximum in which soil condition?",
-    options: ["Wet soil in agricultural meteorology", "Dry sandy soil (high conductivity when dry)", "Clay soil under atmospheric conditions", "Organic matter rich soil"],
-    correct: 1,
+    options: ["Dry sandy soil (high conductivity when dry)", "Wet soil in agricultural meteorology", "Clay soil under atmospheric conditions", "Organic matter rich soil"],
+    correct: 0,
     explanation: "Dry sandy soils have relatively higher thermal conductivity per unit heat than wet soils. However, moist soils generally have higher thermal conductivity than dry soils. Bare soils have higher flux than vegetated."
   },
   {
     id: "met020",
     subject: "meteorology",
     question: "The annual rainfall pattern that divides India into arid, semi-arid, and humid regions uses which threshold?",
-    options: ["< 250 mm = arid, 250-750 mm = semi-arid, > 750 mm = humid", "< 500 mm = arid, 500-1000 mm = semi-arid, > 1000 mm = humid", "< 100 mm = arid, 100-400 mm = semi-arid, > 400 mm = humid", "Regional standards apply"],
-    correct: 0,
+    options: ["< 500 mm = arid, 500-1000 mm = semi-arid, > 1000 mm = humid", "< 250 mm = arid, 250-750 mm = semi-arid, > 750 mm = humid", "< 100 mm = arid, 100-400 mm = semi-arid, > 400 mm = humid", "Regional standards apply"],
+    correct: 1,
     explanation: "Classification: < 250 mm = Arid/Desert, 250-500 mm = Semi-arid (dryland), 500-750 mm = Sub-humid, 750-2000 mm = Humid, > 2000 mm = Per-humid regions."
   },
   {
     id: "met021",
     subject: "meteorology",
     question: "Albedo of a surface is:",
-    options: ["Total solar radiation received in agricultural meteorology", "Fraction of incoming solar radiation reflected by the surface", "Night temperature under atmospheric conditions", "Soil thermal capacity in weather analysis"],
-    correct: 1,
+    options: ["Total solar radiation received in agricultural meteorology", "Soil thermal capacity in weather analysis", "Night temperature under atmospheric conditions", "Fraction of incoming solar radiation reflected by the surface"],
+    correct: 3,
     explanation: "Albedo is the reflectivity of a surface - the ratio of reflected to incident solar radiation. Fresh snow has albedo 0.80-0.90; forest 0.10-0.20; crop land 0.15-0.25; water 0.05-0.10."
   },
   {
     id: "met022",
     subject: "meteorology",
     question: "The ENSO phenomenon refers to:",
-    options: ["Eastern North Sea Oscillation in agricultural meteorology in meteorology", "El Niño Southern Oscillation - Pacific Ocean temperature anomaly affecting global weather", "Equatorial North South Oscillation under atmospheric conditions", "Environmental Neutral Solar Output in weather analysis in weather forecasting"],
-    correct: 1,
+    options: ["Eastern North Sea Oscillation in agricultural meteorology in meteorology", "Environmental Neutral Solar Output in weather analysis in weather forecasting", "Equatorial North South Oscillation under atmospheric conditions", "El Niño Southern Oscillation - Pacific Ocean temperature anomaly affecting global weather"],
+    correct: 3,
     explanation: "ENSO (El Niño Southern Oscillation) is irregular warming (El Niño) or cooling (La Niña) of the Pacific Ocean near the equator, significantly affecting global weather including Indian monsoon rainfall."
   },
   {
     id: "met023",
     subject: "meteorology",
     question: "Thermal infrared radiation from Earth is also called:",
-    options: ["Shortwave radiation", "Longwave or terrestrial radiation", "UV radiation", "Visible light"],
-    correct: 1,
+    options: ["Shortwave radiation", "Visible light", "UV radiation", "Longwave or terrestrial radiation"],
+    correct: 3,
     explanation: "Earth emits longwave (terrestrial/infrared) radiation in wavelengths of 4-100 μm. The Sun emits shortwave radiation (0.15-4 μm). This difference drives the greenhouse effect."
   },
   {
@@ -197,8 +197,8 @@ export const meteorologyQuestions: Question[] = [
     id: "met025",
     subject: "meteorology",
     question: "Agrometeorological advisory service (AAS) provided to farmers includes:",
-    options: ["Only rainfall data in agricultural meteorology in meteorology", "Weather-based advisories on sowing time, irrigation, crop protection, and harvest", "Soil analysis under atmospheric conditions", "Fertilizer recommendations only in weather analysis in weather forecasting"],
-    correct: 1,
+    options: ["Only rainfall data in agricultural meteorology in meteorology", "Fertilizer recommendations only in weather analysis in weather forecasting", "Soil analysis under atmospheric conditions", "Weather-based advisories on sowing time, irrigation, crop protection, and harvest"],
+    correct: 3,
     explanation: "AAS provides weather-based farm advisory on optimal sowing window, irrigation scheduling, pest and disease warnings, spray timing, and harvest/post-harvest operations based on weather forecasts."
   },
   {
@@ -229,16 +229,16 @@ export const meteorologyQuestions: Question[] = [
     id: "met029",
     subject: "meteorology",
     question: "Frost damage to crops occurs when air temperature falls below:",
-    options: ["5°C in agricultural meteorology", "0°C (freezing point of water)", "10°C under atmospheric conditions", "15°C in weather analysis"],
-    correct: 1,
+    options: ["0°C (freezing point of water)", "5°C in agricultural meteorology", "10°C under atmospheric conditions", "15°C in weather analysis"],
+    correct: 0,
     explanation: "Frost occurs when temperature drops to 0°C or below, causing ice crystal formation in plant tissues. Tender plants can be damaged by radiation frost (clear nights) or advection frost (cold winds)."
   },
   {
     id: "met030",
     subject: "meteorology",
     question: "Hailstorm damage to crops is primarily caused by:",
-    options: ["Strong winds in agricultural meteorology in meteorology", "Ice pellets (hail) falling at high velocity causing physical damage to plants", "Lightning according to standard agro-meteorological science principles", "Heavy rainfall in weather analysis in weather forecasting"],
-    correct: 1,
+    options: ["Strong winds in agricultural meteorology in meteorology", "Lightning according to standard agro-meteorological science principles", "Ice pellets (hail) falling at high velocity causing physical damage to plants", "Heavy rainfall in weather analysis in weather forecasting"],
+    correct: 2,
     explanation: "Hailstorms cause severe physical damage to crops through impact of ice balls (hailstones) ranging from 5mm to over 100mm diameter, destroying leaves, breaking stems, and bruising fruits."
   },
   {
@@ -269,16 +269,16 @@ export const meteorologyQuestions: Question[] = [
     id: "met034",
     subject: "meteorology",
     question: "The normal onset date of Southwest monsoon over Kerala is:",
-    options: ["April 15", "June 1", "July 15", "August 1"],
-    correct: 1,
+    options: ["April 15", "August 1", "July 15", "June 1"],
+    correct: 3,
     explanation: "The normal onset date of the Southwest monsoon over Kerala (southernmost landmass) is June 1. It then progresses northward, reaching Delhi by around July 1 and covering entire India by July 15."
   },
   {
     id: "met035",
     subject: "meteorology",
     question: "Heat index (apparent temperature) accounts for:",
-    options: ["Only temperature in agricultural meteorology in meteorology", "Combined effect of air temperature and humidity on human/crop thermal comfort", "Wind speed only under atmospheric conditions", "Solar radiation only in weather analysis in weather forecasting"],
-    correct: 1,
+    options: ["Only temperature in agricultural meteorology in meteorology", "Solar radiation only in weather analysis in weather forecasting", "Wind speed only under atmospheric conditions", "Combined effect of air temperature and humidity on human/crop thermal comfort"],
+    correct: 3,
     explanation: "Heat index combines air temperature and relative humidity to estimate the 'feels like' temperature. High humidity reduces evaporative cooling, making hot weather more stressful for crops and humans."
   },
   {
@@ -293,8 +293,8 @@ export const meteorologyQuestions: Question[] = [
     id: "met037",
     subject: "meteorology",
     question: "IMD classifies drought in India based on:",
-    options: ["Only temperature in agricultural meteorology in meteorology", "Meteorological drought when rainfall deficiency is ≥25% of normal", "Only soil moisture under atmospheric conditions", "Crop yield only in weather analysis"],
-    correct: 1,
+    options: ["Meteorological drought when rainfall deficiency is ≥25% of normal", "Only temperature in agricultural meteorology in meteorology", "Only soil moisture under atmospheric conditions", "Crop yield only in weather analysis"],
+    correct: 0,
     explanation: "IMD defines meteorological drought when rainfall deficiency from normal is 26-50% (moderate drought) or > 50% (severe drought). Hydrological and agricultural droughts are also classified."
   },
   {
@@ -309,48 +309,48 @@ export const meteorologyQuestions: Question[] = [
     id: "met039",
     subject: "meteorology",
     question: "The crop season Kharif in India corresponds to:",
-    options: ["November to March", "June to November (summer monsoon season)", "March to June", "All year in agricultural meteorology"],
-    correct: 1,
+    options: ["June to November (summer monsoon season)", "November to March", "March to June", "All year in agricultural meteorology"],
+    correct: 0,
     explanation: "Kharif season crops are sown in June-July with the onset of monsoon and harvested in September-November. Major crops: rice, sorghum, maize, cotton, groundnut, soybean."
   },
   {
     id: "met040",
     subject: "meteorology",
     question: "Agroclimate classification of India identifies how many agroclimatic zones?",
-    options: ["5", "10", "15", "20"],
-    correct: 2,
+    options: ["15", "10", "5", "20"],
+    correct: 0,
     explanation: "The Planning Commission of India identified 15 agroclimatic zones based on physiography, climate, and soils. ICAR also has a 127 agroclimatic sub-zone classification for agricultural planning."
   },
   {
     id: "met041",
     subject: "meteorology",
     question: "The Normalized Difference Vegetation Index (NDVI) uses:",
-    options: ["Only visible light in agricultural meteorology in meteorology", "Near-infrared (NIR) and red band reflectance to assess vegetation density and health", "Thermal infrared only according to standard agro-meteorological science principles", "Microwave radiation in weather analysis in weather forecasting"],
-    correct: 1,
+    options: ["Only visible light in agricultural meteorology in meteorology", "Thermal infrared only according to standard agro-meteorological science principles", "Near-infrared (NIR) and red band reflectance to assess vegetation density and health", "Microwave radiation in weather analysis in weather forecasting"],
+    correct: 2,
     explanation: "NDVI = (NIR - Red) / (NIR + Red). Healthy green vegetation has high NIR reflectance and low red reflectance, giving NDVI values of 0.6-0.9. Used in remote sensing to monitor crop growth."
   },
   {
     id: "met042",
     subject: "meteorology",
     question: "Fog formation requires:",
-    options: ["High wind speed in agricultural meteorology in meteorology", "Near-saturated air (high RH) with cooling at low levels, calm conditions", "High temperature according to standard agro-meteorological science principles", "Low humidity in weather analysis in weather forecasting"],
-    correct: 1,
+    options: ["Near-saturated air (high RH) with cooling at low levels, calm conditions", "High wind speed in agricultural meteorology in meteorology", "High temperature according to standard agro-meteorological science principles", "Low humidity in weather analysis in weather forecasting"],
+    correct: 0,
     explanation: "Fog forms when air near the surface is cooled to its dew point, causing water vapor to condense into tiny droplets. It requires high relative humidity, gentle winds, and suitable cooling mechanisms."
   },
   {
     id: "met043",
     subject: "meteorology",
     question: "The Stefan-Boltzmann law states that radiation emitted by a body is proportional to:",
-    options: ["Temperature (T) in agricultural meteorology", "T⁴ (fourth power of absolute temperature)", "T² under atmospheric conditions", "1/T in weather analysis"],
-    correct: 1,
+    options: ["Temperature (T) in agricultural meteorology", "1/T in weather analysis", "T² under atmospheric conditions", "T⁴ (fourth power of absolute temperature)"],
+    correct: 3,
     explanation: "Stefan-Boltzmann law: E = σT⁴, where E is energy emitted per unit area, σ = 5.67 × 10⁻⁸ W/m²K⁴ (Stefan-Boltzmann constant), and T = absolute temperature in Kelvin."
   },
   {
     id: "met044",
     subject: "meteorology",
     question: "Percolation of water in soil is affected by:",
-    options: ["Only rainfall intensity in agricultural meteorology in meteorology", "Soil texture, structure, porosity, organic matter, and prior moisture content", "Temperature only under atmospheric conditions", "Crop type in weather analysis in weather forecasting"],
-    correct: 1,
+    options: ["Only rainfall intensity in agricultural meteorology in meteorology", "Temperature only under atmospheric conditions", "Soil texture, structure, porosity, organic matter, and prior moisture content", "Crop type in weather analysis in weather forecasting"],
+    correct: 2,
     explanation: "Soil water percolation depends on texture (sandy soils faster), structure (aggregate stability), porosity, organic matter content, and antecedent soil moisture. These determine infiltration rate."
   },
   {
@@ -365,32 +365,32 @@ export const meteorologyQuestions: Question[] = [
     id: "met046",
     subject: "meteorology",
     question: "Photosynthetically Active Radiation (PAR) is in the wavelength range of:",
-    options: ["100-300 nm (UV)", "400-700 nm (visible light)", "700-1000 nm (near IR)", "1000-3000 nm"],
-    correct: 1,
+    options: ["100-300 nm (UV)", "700-1000 nm (near IR)", "400-700 nm (visible light)", "1000-3000 nm"],
+    correct: 2,
     explanation: "PAR is radiation in the 400-700 nm wavelength range (visible spectrum) that plants use for photosynthesis. It includes blue light (400-500 nm) and red light (600-700 nm)."
   },
   {
     id: "met047",
     subject: "meteorology",
     question: "Agrometeorological stations record all EXCEPT:",
-    options: ["Rainfall and temperature", "Soil temperature and evaporation", "Crop prices and market data", "Solar radiation and humidity"],
-    correct: 2,
+    options: ["Rainfall and temperature", "Soil temperature and evaporation", "Solar radiation and humidity", "Crop prices and market data"],
+    correct: 3,
     explanation: "Agrometeorological stations record weather parameters: rainfall, min/max temperature, soil temperature at depths, evaporation, sunshine hours, humidity, wind speed, and solar radiation. Not market prices."
   },
   {
     id: "met048",
     subject: "meteorology",
     question: "Cloud seeding is done using which material to induce artificial rainfall?",
-    options: ["Common salt (NaCl) in agricultural meteorology", "Silver iodide (AgI) and dry ice (solid CO₂)", "Urea under atmospheric conditions", "Calcium carbide in weather analysis"],
-    correct: 1,
+    options: ["Common salt (NaCl) in agricultural meteorology", "Urea under atmospheric conditions", "Silver iodide (AgI) and dry ice (solid CO₂)", "Calcium carbide in weather analysis"],
+    correct: 2,
     explanation: "Cloud seeding uses silver iodide (AgI) or dry ice (solid CO₂) dispersed into clouds to provide condensation nuclei. AgI has a crystal structure similar to ice and promotes ice crystal formation."
   },
   {
     id: "met049",
     subject: "meteorology",
     question: "The sunshine recorder used in meteorology is called:",
-    options: ["Pyranometer", "Campbell-Stokes sunshine recorder", "Pyrheliometer", "Actinometer"],
-    correct: 1,
+    options: ["Pyranometer", "Actinometer", "Pyrheliometer", "Campbell-Stokes sunshine recorder"],
+    correct: 3,
     explanation: "The Campbell-Stokes sunshine recorder uses a glass sphere to focus sunlight onto a paper card, burning a trace during sunshine hours. The length of burnt trace gives daily sunshine hours."
   },
   {

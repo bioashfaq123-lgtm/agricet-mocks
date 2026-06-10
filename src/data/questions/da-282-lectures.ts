@@ -10,8 +10,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "The variety of Mango known as 'King of Mangoes' cultivated mainly in Maharashtra and Gujarat is:",
-    options: ["Banganapalli", "Dashehari", "Langra", "Alphonso (Hapus)"],
-    correct: 3,
+    options: ["Banganapalli", "Dashehari", "Alphonso (Hapus)", "Langra"],
+    correct: 2,
     explanation: "Alphonso (Hapus) mango from Ratnagiri, Maharashtra is called the 'King of Mangoes' due to its superior flavor, aroma and export quality. It has GI tag."
   },
   {
@@ -20,8 +20,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "The standard spacing recommended for mango orchard planting is:",
-    options: ["5×5 m", "10×10 m", "8×8 m", "15×15 m"],
-    correct: 1,
+    options: ["5×5 m", "8×8 m", "10×10 m", "15×15 m"],
+    correct: 2,
     explanation: "The standard spacing for mango cultivation is 10×10 m, accommodating 100 trees per hectare. High density planting can use 5×5 m spacing with 400 plants/ha."
   },
   {
@@ -30,8 +30,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "Veneer grafting in mango is preferred because:",
-    options: ["It is simple, has high success rate and can be done at any time", "It requires no skill or expertise in horticultural practices in agriculture", "It produces seedling plants quickly for vegetable cultivation under field conditions", "It requires no rootstock in orchard management for crop production"],
-    correct: 0,
+    options: ["It requires no rootstock in orchard management for crop production", "It requires no skill or expertise in horticultural practices in agriculture", "It produces seedling plants quickly for vegetable cultivation under field conditions", "It is simple, has high success rate and can be done at any time"],
+    correct: 3,
     explanation: "Veneer grafting in mango has a high success rate, can be performed year-round on young rootstocks, and is widely used in nurseries to produce true-to-type plants quickly."
   },
   {
@@ -40,8 +40,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "Mango malformation disease is caused by:",
-    options: ["Colletotrichum gloeosporioides", "Xanthomonas campestris", "Fusarium mangiferae (fungus)", "Alternaria alternata"],
-    correct: 2,
+    options: ["Fusarium mangiferae (fungus)", "Xanthomonas campestris", "Colletotrichum gloeosporioides", "Alternaria alternata"],
+    correct: 0,
     explanation: "Mango malformation disease (vegetative malformation and floral malformation) is caused by Fusarium mangiferae. It affects flower clusters and young shoots, causing sterile bunchy growths."
   },
   {
@@ -50,8 +50,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "The main commercial mango variety of Andhra Pradesh and Telangana is:",
-    options: ["Dashehari", "Alphonso", "Banganapalli (Benishan)", "Mallika"],
-    correct: 2,
+    options: ["Dashehari", "Banganapalli (Benishan)", "Alphonso", "Mallika"],
+    correct: 1,
     explanation: "Banganapalli (also called Benishan or Safeda) is the most important commercial mango variety of Andhra Pradesh and Telangana, known for its large size, golden yellow color and excellent taste."
   },
   {
@@ -100,8 +100,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "Dashehari mango is mainly grown in which state of India?",
-    options: ["Andhra Pradesh", "Karnataka", "Uttar Pradesh", "Maharashtra"],
-    correct: 2,
+    options: ["Andhra Pradesh", "Uttar Pradesh", "Karnataka", "Maharashtra"],
+    correct: 1,
     explanation: "Dashehari is the most popular mango variety of Uttar Pradesh, named after Dashehari village near Lucknow. It is a mid-season variety with small-medium sized, sweet fruits."
   },
   {
@@ -130,8 +130,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "The best rootstock species commonly used for mango grafting in India is:",
-    options: ["Mangifera odorata", "Mangifera foetida", "Mangifera indica (polyembryonic varieties)", "Mangifera sylvatica"],
-    correct: 2,
+    options: ["Mangifera odorata", "Mangifera indica (polyembryonic varieties)", "Mangifera foetida", "Mangifera sylvatica"],
+    correct: 1,
     explanation: "Polyembryonic varieties of Mangifera indica (e.g., Olour, Bappakai) are used as rootstocks for mango grafting because their seedlings are genetically uniform and true-to-type from nucellar embryos."
   },
   {
@@ -140,8 +140,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "Mango is botanically classified as:",
-    options: ["A berry", "A drupe (stone fruit)", "A hesperidium", "An aggregate fruit"],
-    correct: 1,
+    options: ["A berry", "A hesperidium", "A drupe (stone fruit)", "An aggregate fruit"],
+    correct: 2,
     explanation: "Mango is a drupe (stone fruit) where the outer layer is the pericarp (skin + pulp) and the inner layer is the endocarp (stone/pit) enclosing the seed."
   },
   {
@@ -172,8 +172,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Grand Naine banana variety belongs to which genomic group?",
-    options: ["AAA (triploid)", "AA (diploid)", "AAAB (tetraploid)", "AAB (triploid)"],
-    correct: 0,
+    options: ["AAB (triploid)", "AA (diploid)", "AAAB (tetraploid)", "AAA (triploid)"],
+    correct: 3,
     explanation: "Grand Naine (also called William Hybrid or Cavendish group) belongs to the AAA genome group (Cavendish subgroup). It is the most widely exported banana variety globally."
   },
   {
@@ -182,8 +182,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "The preferred planting material for commercial banana cultivation now is:",
-    options: ["Tissue culture plants", "Sword suckers", "Rhizome cuttings", "Corm pieces"],
-    correct: 0,
+    options: ["Rhizome cuttings", "Sword suckers", "Tissue culture plants", "Corm pieces"],
+    correct: 2,
     explanation: "Tissue culture (TC) plants are preferred for commercial banana because they are disease-free (especially from Panama wilt/Fusarium), genetically uniform, produce uniform crops and give higher yield."
   },
   {
@@ -192,8 +192,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Papaya is classified as which type of plant with respect to flower sex?",
-    options: ["Wind pollinated annual", "Hermaphrodite only", "Dioecious or trioecious", "Monoecious only"],
-    correct: 2,
+    options: ["Wind pollinated annual", "Hermaphrodite only", "Monoecious only", "Dioecious or trioecious"],
+    correct: 3,
     explanation: "Papaya (Carica papaya) is a dioecious or trioecious plant – plants can be male (staminate), female (pistillate) or hermaphrodite (bisexual). This complicates commercial cultivation."
   },
   {
@@ -202,8 +202,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Papain, the proteolytic enzyme from papaya, is extracted from:",
-    options: ["Leaves and stems", "Ripe fruits", "Seeds only", "Green (unripe) fruits by tapping"],
-    correct: 3,
+    options: ["Leaves and stems", "Ripe fruits", "Green (unripe) fruits by tapping", "Seeds only"],
+    correct: 2,
     explanation: "Papain is extracted from the latex of unripe (green) papaya fruits by making shallow incisions (tapping) on the fruit surface. The latex is collected, dried and processed into papain powder."
   },
   {
@@ -222,8 +222,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "CO-1 is a popular papaya variety developed at:",
-    options: ["IIHR, Bengaluru in horticultural practices", "Tamil Nadu Agricultural University (TNAU), Coimbatore", "Punjab Agricultural University", "IARI, New Delhi"],
-    correct: 1,
+    options: ["IIHR, Bengaluru in horticultural practices", "IARI, New Delhi", "Punjab Agricultural University", "Tamil Nadu Agricultural University (TNAU), Coimbatore"],
+    correct: 3,
     explanation: "CO-1 is a papaya variety developed at TNAU (Tamil Nadu Agricultural University), Coimbatore. It is a gynodioecious variety producing mostly female and hermaphrodite plants."
   },
   {
@@ -232,8 +232,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Red Lady is a popular hybrid papaya variety known for:",
-    options: ["Exclusively male plants in the crop in horticultural practices", "Its red skin color when ripe for vegetable cultivation", "Very large fruit size over 5 kg", "Its red flesh (flesh) and high yield and disease tolerance"],
-    correct: 3,
+    options: ["Exclusively male plants in the crop in horticultural practices", "Its red flesh (flesh) and high yield and disease tolerance", "Very large fruit size over 5 kg", "Its red skin color when ripe for vegetable cultivation"],
+    correct: 1,
     explanation: "Red Lady is a Taiwanese hybrid papaya variety with deep red-orange flesh, small seed cavity, high yield, tolerance to papaya ring spot virus and good shelf life. It produces hermaphrodite plants."
   },
   {
@@ -252,8 +252,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Panama wilt disease of banana is caused by:",
-    options: ["Fusarium oxysporum f.sp. cubense", "Mycosphaerella musicola (fungus)", "Radopholus similis (nematode)", "Banana streak virus"],
-    correct: 0,
+    options: ["Banana streak virus", "Mycosphaerella musicola (fungus)", "Radopholus similis (nematode)", "Fusarium oxysporum f.sp. cubense"],
+    correct: 3,
     explanation: "Panama wilt (Fusarium wilt) of banana is caused by Fusarium oxysporum f.sp. cubense (Foc). Race 4 (TR4) is threatening Cavendish bananas worldwide. Tissue culture plants help avoid this disease."
   },
   {
@@ -282,8 +282,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Papaya plants start bearing fruit after planting in approximately:",
-    options: ["12–15 months", "18–24 months", "6–9 months", "3–4 months"],
-    correct: 2,
+    options: ["6–9 months", "18–24 months", "12–15 months", "3–4 months"],
+    correct: 0,
     explanation: "Papaya plants are extremely precocious and start bearing fruit within 6–9 months of transplanting. This makes papaya one of the fastest fruit crops to come into production."
   },
   {
@@ -292,8 +292,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Nendran banana popular in Kerala belongs to which genomic group?",
-    options: ["ABB", "AAA", "AAB", "AAAB"],
-    correct: 2,
+    options: ["ABB", "AAB", "AAA", "AAAB"],
+    correct: 1,
     explanation: "Nendran belongs to the AAB genomic group (Plantain subgroup). It is popular in Kerala and is mainly used for making chips, halwa and other processed products."
   },
   {
@@ -302,8 +302,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "The recommended seed rate for papaya nursery raising per hectare of main crop is:",
-    options: ["100–150 g", "500–600 g", "1000 g", "250–300 g"],
-    correct: 3,
+    options: ["100–150 g", "500–600 g", "250–300 g", "1000 g"],
+    correct: 2,
     explanation: "For papaya, approximately 250–300 g seeds are required per hectare of the main crop, raised in polybags or nursery beds before transplanting at 2–3 months age."
   },
   {
@@ -312,8 +312,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Which state of India leads in banana production?",
-    options: ["Andhra Pradesh", "Tamil Nadu", "Maharashtra", "Kerala"],
-    correct: 0,
+    options: ["Tamil Nadu", "Andhra Pradesh", "Maharashtra", "Kerala"],
+    correct: 1,
     explanation: "Andhra Pradesh leads in banana production in India, followed by Gujarat, Tamil Nadu and Maharashtra. India is the world's largest banana producer."
   },
   {
@@ -322,8 +322,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "The botanical name of Banana is:",
-    options: ["Psidium guajava in horticultural practices", "Carica papaya for vegetable cultivation", "Musa acuminata and M. balbisiana (parents)", "Annona squamosa in orchard management"],
-    correct: 2,
+    options: ["Psidium guajava in horticultural practices", "Musa acuminata and M. balbisiana (parents)", "Carica papaya for vegetable cultivation", "Annona squamosa in orchard management"],
+    correct: 1,
     explanation: "Commercial bananas are derived from two wild species: Musa acuminata (providing A genome) and M. balbisiana (B genome). Most cultivated bananas are triploid hybrids of these two species."
   },
 
@@ -344,8 +344,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Citrus greening disease (Huanglongbing – HLB) is caused by:",
-    options: ["Candidatus Liberibacter asiaticus (bacteria)", "Citrus Tristeza Virus (CTV)", "Xanthomonas campestris", "Phytophthora parasitica (fungus)"],
-    correct: 0,
+    options: ["Xanthomonas campestris", "Citrus Tristeza Virus (CTV)", "Candidatus Liberibacter asiaticus (bacteria)", "Phytophthora parasitica (fungus)"],
+    correct: 2,
     explanation: "Citrus greening (Huanglongbing/HLB) is caused by the bacterium Candidatus Liberibacter asiaticus, transmitted by the psyllid insect Diaphorina citri. It is the most destructive citrus disease globally."
   },
   {
@@ -354,8 +354,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "T-budding (shield budding) in citrus is mainly performed in:",
-    options: ["Post-harvest period only in horticultural practices", "Summer (May–June) for vegetable cultivation", "Winter (December–January) in orchard management", "During active growth flush (February–March or August–September)"],
-    correct: 3,
+    options: ["Post-harvest period only in horticultural practices", "During active growth flush (February–March or August–September)", "Winter (December–January) in orchard management", "Summer (May–June) for vegetable cultivation"],
+    correct: 1,
     explanation: "T-budding in citrus is most successfully done when the rootstock bark is slipping easily (during active growth), which occurs in February–March or August–September in India."
   },
   {
@@ -364,8 +364,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Mosambi (Sweet Lime) is botanically known as:",
-    options: ["Citrus aurantium", "Citrus sinensis", "Citrus limetta", "Citrus reticulata"],
-    correct: 2,
+    options: ["Citrus aurantium", "Citrus sinensis", "Citrus reticulata", "Citrus limetta"],
+    correct: 3,
     explanation: "Mosambi (Sweet Lime/Malta) is botanically classified as Citrus limetta (or sometimes Citrus sinensis var. limetta). It is widely grown in Maharashtra, Andhra Pradesh and Karnataka."
   },
   {
@@ -374,8 +374,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Acid lime (Kagzi Nimboo) used for lemon juice in India has the botanical name:",
-    options: ["Citrus limetta", "Citrus aurantifolia", "Citrus limon", "Citrus medica"],
-    correct: 1,
+    options: ["Citrus aurantifolia", "Citrus limetta", "Citrus limon", "Citrus medica"],
+    correct: 0,
     explanation: "Acid lime (Kagzi Nimboo) is Citrus aurantifolia. It is different from lemon (Citrus limon). Acid lime is the most important citrus crop in Andhra Pradesh and Tamil Nadu."
   },
   {
@@ -384,8 +384,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The standard spacing for citrus orchard planting is:",
-    options: ["6×6 m", "4×4 m", "10×10 m", "3×3 m"],
-    correct: 0,
+    options: ["3×3 m", "4×4 m", "10×10 m", "6×6 m"],
+    correct: 3,
     explanation: "The standard spacing for citrus crops is 6×6 m, accommodating approximately 277 plants per hectare. This spacing allows adequate sunlight, aeration and working space."
   },
   {
@@ -394,8 +394,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The main cause of fruit drop in citrus is:",
-    options: ["Hormonal imbalance – low auxin levels in developing fruits", "Nitrogen deficiency alone in horticultural practices", "Potassium excess for vegetable cultivation in agriculture", "Excess irrigation in orchard management under field conditions"],
-    correct: 0,
+    options: ["Excess irrigation in orchard management under field conditions", "Nitrogen deficiency alone in horticultural practices", "Potassium excess for vegetable cultivation in agriculture", "Hormonal imbalance – low auxin levels in developing fruits"],
+    correct: 3,
     explanation: "Citrus fruit drop is mainly due to hormonal imbalance – declining auxin levels in developing fruits. Foliar spray of 2,4-D or NAA at 10–20 ppm helps retain fruits by maintaining auxin levels."
   },
   {
@@ -414,8 +414,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The best rootstock for citrus in waterlogged conditions is:",
-    options: ["Rangpur lime", "Rough lemon (Citrus jambhiri)", "Cleopatra mandarin", "Trifoliate orange (Poncirus trifoliata)"],
-    correct: 3,
+    options: ["Trifoliate orange (Poncirus trifoliata)", "Rough lemon (Citrus jambhiri)", "Cleopatra mandarin", "Rangpur lime"],
+    correct: 0,
     explanation: "Trifoliate orange (Poncirus trifoliata) is tolerant of waterlogged conditions and imparts dwarfness and disease resistance, making it valuable as a rootstock in high-rainfall, waterlogged areas."
   },
   {
@@ -424,8 +424,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The commercial life of a citrus orchard is approximately:",
-    options: ["5–8 years", "20–30 years", "40–50 years", "10–15 years"],
-    correct: 1,
+    options: ["5–8 years", "10–15 years", "40–50 years", "20–30 years"],
+    correct: 3,
     explanation: "A well-maintained citrus orchard has a productive commercial life of approximately 20–30 years. Regular pruning, nutrition, disease management and irrigation are essential for longevity."
   },
   {
@@ -444,8 +444,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Which type of citrus fruit is classified as a hesperidium?",
-    options: ["Only grapefruit is a hesperidium", "All citrus fruits are hesperidia", "Only orange and lemon are hesperidia", "Citrus fruits are classified as berries only"],
-    correct: 1,
+    options: ["Only grapefruit is a hesperidium", "Citrus fruits are classified as berries only", "Only orange and lemon are hesperidia", "All citrus fruits are hesperidia"],
+    correct: 3,
     explanation: "All citrus fruits are classified as hesperidia – a type of modified berry with a thick, leathery rind (exocarp and mesocarp) and fleshy segments (endocarp) containing juice vesicles."
   },
   {
@@ -454,8 +454,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The fertilizer recommendation for bearing citrus (Mandarin) per tree per year is approximately:",
-    options: ["1000:500:500 g NPK", "100:50:50 g NPK", "500:200:200 g NPK", "200:100:100 g NPK"],
-    correct: 2,
+    options: ["500:200:200 g NPK", "100:50:50 g NPK", "1000:500:500 g NPK", "200:100:100 g NPK"],
+    correct: 0,
     explanation: "A bearing Mandarin tree typically receives 500 g N, 200 g P2O5 and 200 g K2O per year. Micronutrients like zinc, iron and manganese are applied as foliar sprays."
   },
   {
@@ -464,8 +464,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Citrus is predominantly a subtropical/tropical crop that requires soil pH of:",
-    options: ["7.0–8.0 (neutral to alkaline)", "4.5–5.5 (strongly acidic)", "Above 8.5 (alkaline)", "5.5–6.5 (slightly acidic)"],
-    correct: 3,
+    options: ["7.0–8.0 (neutral to alkaline)", "5.5–6.5 (slightly acidic)", "Above 8.5 (alkaline)", "4.5–5.5 (strongly acidic)"],
+    correct: 1,
     explanation: "Citrus grows best in slightly acidic soil with pH 5.5–6.5. Very acidic or alkaline soils reduce nutrient availability (especially micronutrients) and affect tree health and production."
   },
   {
@@ -474,8 +474,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "India is the world's ______ largest producer of citrus fruits.",
-    options: ["Eighth largest", "Largest (1st)", "Second largest", "Fifth largest"],
-    correct: 2,
+    options: ["Eighth largest", "Largest (1st)", "Fifth largest", "Second largest"],
+    correct: 3,
     explanation: "India is the second largest producer of citrus in the world after China. Andhra Pradesh, Maharashtra, Rajasthan and Karnataka are the leading citrus-producing states."
   },
   {
@@ -484,8 +484,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The Kinnow mandarin variety widely grown in Punjab is a hybrid between:",
-    options: ["Satsuma and Clementine", "Common Mandarin and Sweet Orange", "King and Willow Leaf mandarins", "Washington Navel and Valencia"],
-    correct: 2,
+    options: ["Satsuma and Clementine", "Common Mandarin and Sweet Orange", "Washington Navel and Valencia", "King and Willow Leaf mandarins"],
+    correct: 3,
     explanation: "Kinnow is a mandarin hybrid between King (Citrus nobilis) and Willow Leaf (Citrus deliciosa), developed in California. It is very popular in Punjab, Haryana and Rajasthan."
   },
 
@@ -496,8 +496,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "L-49 (Lucknow 49) guava variety is characterized by:",
-    options: ["Medium-sized pink-fleshed fruits in horticultural practices", "Large, white-fleshed, seedless fruits with high Vitamin C", "Small, red-skinned sweet fruits for vegetable cultivation", "Small fruits with red flesh"],
-    correct: 1,
+    options: ["Large, white-fleshed, seedless fruits with high Vitamin C", "Medium-sized pink-fleshed fruits in horticultural practices", "Small, red-skinned sweet fruits for vegetable cultivation", "Small fruits with red flesh"],
+    correct: 0,
     explanation: "L-49 (Lucknow 49) is the most popular guava variety with large, white-fleshed fruits containing very few seeds, excellent flavor and very high Vitamin C content (200–300 mg/100g)."
   },
   {
@@ -506,8 +506,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "The best method of propagation for sapota is:",
-    options: ["Stem cuttings", "Air layering (Gootee/Marcotting)", "Budding only", "Seeds (true-to-type)"],
-    correct: 1,
+    options: ["Air layering (Gootee/Marcotting)", "Stem cuttings", "Budding only", "Seeds (true-to-type)"],
+    correct: 0,
     explanation: "Air layering (Gootee/Marcotting) is the best method for propagating sapota because sapota seeds are polyembryonic and seedling variation is common. Air layers maintain parent plant characteristics."
   },
   {
@@ -516,8 +516,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "The commercial pomegranate variety 'Bhagwa' is characterized by:",
-    options: ["Small fruits with many seeds and low juice", "Bright red (saffron) skin with dark red, juicy arils and high yield", "White skin with white arils and mild taste", "Yellow skin with white arils and soft rind"],
-    correct: 1,
+    options: ["Small fruits with many seeds and low juice", "Yellow skin with white arils and soft rind", "White skin with white arils and mild taste", "Bright red (saffron) skin with dark red, juicy arils and high yield"],
+    correct: 3,
     explanation: "Bhagwa (Shendri) is the leading commercial pomegranate variety from Maharashtra, with bright saffron-red skin, deep red arils, high juice content (78%), excellent export quality and high yield."
   },
   {
@@ -526,8 +526,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "The maturity index used for sapota harvest is:",
-    options: ["Surface color change from greenish-brown to full brown and hardness check", "Skin color turns from green to yellow", "Days from flowering (90–120 days) in horticultural practices", "TSS above 20 Brix for vegetable cultivation"],
-    correct: 0,
+    options: ["Days from flowering (90–120 days) in horticultural practices", "Skin color turns from green to yellow", "Surface color change from greenish-brown to full brown and hardness check", "TSS above 20 Brix for vegetable cultivation"],
+    correct: 2,
     explanation: "Sapota maturity is judged by change of surface scurf color from greenish-brown to full brown (rusty) and the loss of milky latex. Fruits are scratched to check color change beneath the skin."
   },
   {
@@ -536,8 +536,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Bacterial blight (Oily spot disease) in pomegranate is caused by:",
-    options: ["Xanthomonas axonopodis pv. punicae", "Phytophthora palmivora", "Colletotrichum gloeosporioides", "Cercospora punicae"],
-    correct: 0,
+    options: ["Colletotrichum gloeosporioides", "Phytophthora palmivora", "Xanthomonas axonopodis pv. punicae", "Cercospora punicae"],
+    correct: 2,
     explanation: "Bacterial blight of pomegranate (oily spot disease) is caused by Xanthomonas axonopodis pv. punicae. It causes dark oily spots on fruit leading to severe losses in Maharashtra and Karnataka."
   },
   {
@@ -556,8 +556,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Cricket Ball sapota variety is mainly grown in which state?",
-    options: ["Tamil Nadu and Andhra Pradesh", "Maharashtra in horticultural practices", "Karnataka for vegetable cultivation", "Gujarat in orchard management"],
-    correct: 0,
+    options: ["Maharashtra in horticultural practices", "Tamil Nadu and Andhra Pradesh", "Karnataka for vegetable cultivation", "Gujarat in orchard management"],
+    correct: 1,
     explanation: "Cricket Ball (large round sapota) is mainly grown in Tamil Nadu and Andhra Pradesh. Kalipatti is the main variety in Maharashtra and Gujarat."
   },
   {
@@ -576,8 +576,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "The Ganesh variety of pomegranate is mainly grown in:",
-    options: ["Andhra Pradesh", "Gujarat", "Rajasthan", "Maharashtra (Sangli, Solapur)"],
-    correct: 3,
+    options: ["Andhra Pradesh", "Gujarat", "Maharashtra (Sangli, Solapur)", "Rajasthan"],
+    correct: 2,
     explanation: "Ganesh is an old and important pomegranate variety of Maharashtra (Sangli, Solapur districts). It has soft-seeded, pink-aril fruits with mild sweet-acidic flavor."
   },
   {
@@ -596,8 +596,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Propagation of pomegranate is mainly done by:",
-    options: ["Seeds in horticultural practices", "Budding only for vegetable cultivation", "Hard wood stem cuttings (30–45 cm)", "Air layering and grafting"],
-    correct: 2,
+    options: ["Hard wood stem cuttings (30–45 cm)", "Budding only for vegetable cultivation", "Seeds in horticultural practices", "Air layering and grafting"],
+    correct: 0,
     explanation: "Pomegranate is mainly propagated by hard wood stem cuttings of 30–45 cm length, which root easily. It can also be propagated by air layering, suckers and softwood cuttings."
   },
   {
@@ -606,8 +606,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "The 'Bahar' treatment in pomegranate refers to:",
-    options: ["A rooting hormone application in horticultural practices", "A variety developed at BARC for vegetable cultivation", "A disease control treatment in orchard management", "Stress treatment to induce flowering at a desired time"],
-    correct: 3,
+    options: ["Stress treatment to induce flowering at a desired time", "A variety developed at BARC for vegetable cultivation", "A disease control treatment in orchard management", "A rooting hormone application in horticultural practices"],
+    correct: 0,
     explanation: "Bahar treatment involves withholding irrigation and defoliation to induce stress, followed by resumption of irrigation and fertilizer to synchronize and advance flowering for better market timing."
   },
   {
@@ -616,8 +616,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Sapota (Chiku) is botanically known as:",
-    options: ["Diospyros kaki", "Manilkara zapota", "Psidium guajava", "Annona reticulata"],
-    correct: 1,
+    options: ["Diospyros kaki", "Psidium guajava", "Manilkara zapota", "Annona reticulata"],
+    correct: 2,
     explanation: "Sapota (Chiku) is botanically Manilkara zapota (formerly Achras zapota/Manilkara achras), belonging to family Sapotaceae. It is native to southern Mexico and Central America."
   },
   {
@@ -636,8 +636,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "The spacing recommended for guava cultivation is:",
-    options: ["3×3 m (1111 plants/ha)", "10×10 m (100 plants/ha)", "1×1 m (10000 plants/ha)", "6×6 m (277 plants/ha)"],
-    correct: 3,
+    options: ["3×3 m (1111 plants/ha)", "6×6 m (277 plants/ha)", "1×1 m (10000 plants/ha)", "10×10 m (100 plants/ha)"],
+    correct: 1,
     explanation: "Standard spacing for guava is 6×6 m (277 plants/ha). High-density planting may use 3×3 m (1111 plants/ha) with dwarfing rootstocks or pruning management."
   },
   {
@@ -646,8 +646,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Pomegranate fruit type is classified botanically as:",
-    options: ["Berry in horticultural practices", "Hesperidium for vegetable cultivation", "Balusta (a type of false berry)", "Drupe in orchard management"],
-    correct: 2,
+    options: ["Berry in horticultural practices", "Hesperidium for vegetable cultivation", "Drupe in orchard management", "Balusta (a type of false berry)"],
+    correct: 3,
     explanation: "Pomegranate fruit is classified as a balusta – a special type of berry with a tough leathery rind (pericarp) and multiple arils (juicy seed coats) arranged in chambers."
   },
 
@@ -668,8 +668,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "The recommended spacing for tomato transplanting in the main field is:",
-    options: ["100×100 cm", "30×30 cm", "45×60 cm", "75×75 cm"],
-    correct: 2,
+    options: ["100×100 cm", "30×30 cm", "75×75 cm", "45×60 cm"],
+    correct: 3,
     explanation: "Tomato is transplanted at a spacing of 45×60 cm (row to row 60 cm × plant to plant 45 cm), giving approximately 37,000 plants per hectare."
   },
   {
@@ -678,8 +678,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Fruit fly (Bactrocera dorsalis) damage in tomato is characterized by:",
-    options: ["Maggots inside fruits causing rotting and premature fruit drop", "Stunting of growing tips in horticultural practices", "Leaf curling and yellowing for vegetable cultivation", "Wilting of entire plant in orchard management"],
-    correct: 0,
+    options: ["Wilting of entire plant in orchard management", "Stunting of growing tips in horticultural practices", "Leaf curling and yellowing for vegetable cultivation", "Maggots inside fruits causing rotting and premature fruit drop"],
+    correct: 3,
     explanation: "The Oriental fruit fly (Bactrocera dorsalis) lays eggs in developing tomato fruits. The larvae (maggots) feed inside, causing rotting, premature drop and complete fruit loss."
   },
   {
@@ -688,8 +688,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Pusa Ruby is a tomato variety developed at:",
-    options: ["IIHR, Bengaluru", "IIVR, Varanasi", "TNAU, Coimbatore", "IARI, New Delhi"],
-    correct: 3,
+    options: ["IIHR, Bengaluru", "IARI, New Delhi", "TNAU, Coimbatore", "IIVR, Varanasi"],
+    correct: 1,
     explanation: "Pusa Ruby is an open-pollinated tomato variety developed at IARI (Indian Agricultural Research Institute), New Delhi. It is an early maturing, determinate variety with red fruits."
   },
   {
@@ -698,8 +698,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "The recommended nitrogen dose for tomato crop is approximately:",
-    options: ["120 kg N/ha", "250 kg N/ha", "200 kg N/ha", "60 kg N/ha"],
-    correct: 0,
+    options: ["60 kg N/ha", "250 kg N/ha", "200 kg N/ha", "120 kg N/ha"],
+    correct: 3,
     explanation: "Tomato requires approximately 120 kg N, 60 kg P2O5, and 60 kg K2O per hectare. Full P and K and half N is applied at transplanting; remaining N is applied in splits."
   },
   {
@@ -718,8 +718,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Tomato leaf curl is caused by:",
-    options: ["Alternaria blight pathogen", "Aphid feeding alone", "Fusarium oxysporum fungus", "Tomato Leaf Curl Virus (ToLCV)"],
-    correct: 3,
+    options: ["Alternaria blight pathogen", "Tomato Leaf Curl Virus (ToLCV)", "Fusarium oxysporum fungus", "Aphid feeding alone"],
+    correct: 1,
     explanation: "Tomato Leaf Curl Virus (ToLCV) is a begomovirus transmitted by whitefly (Bemisia tabaci). Infected plants show severe leaf curl, stunting, yellowing and drastic yield reduction."
   },
   {
@@ -748,8 +748,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Tomato is botanically a:",
-    options: ["Stem vegetable", "Leafy vegetable", "Root vegetable", "Fruit vegetable (berry)"],
-    correct: 3,
+    options: ["Fruit vegetable (berry)", "Leafy vegetable", "Root vegetable", "Stem vegetable"],
+    correct: 0,
     explanation: "Botanically, tomato is a fruit (berry) since it develops from the ovary of the flower. However, legally (in trade/culinary contexts) it is classified as a vegetable in many countries."
   },
   {
@@ -758,8 +758,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "The average yield of tomato under good management is approximately:",
-    options: ["80–100 t/ha", "50–60 t/ha", "5–10 t/ha", "20–25 t/ha"],
-    correct: 3,
+    options: ["80–100 t/ha", "20–25 t/ha", "5–10 t/ha", "50–60 t/ha"],
+    correct: 1,
     explanation: "Open-pollinated tomato varieties yield approximately 20–25 t/ha while hybrids can yield 40–60 t/ha under good management with protected cultivation yielding even higher."
   },
   {
@@ -768,8 +768,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Damping off in tomato nursery is caused by:",
-    options: ["Pythium, Phytophthora and Rhizoctonia species (soil-borne fungi)", "Bacterial canker in horticultural practices", "Leaf curl virus for vegetable cultivation", "Phytophthora parasitica only in orchard management"],
-    correct: 0,
+    options: ["Phytophthora parasitica only in orchard management", "Bacterial canker in horticultural practices", "Leaf curl virus for vegetable cultivation", "Pythium, Phytophthora and Rhizoctonia species (soil-borne fungi)"],
+    correct: 3,
     explanation: "Damping off in tomato nursery is caused by soil-borne fungi including Pythium aphanidermatum, Phytophthora parasitica and Rhizoctonia solani, causing seedling collapse at soil level."
   },
   {
@@ -778,8 +778,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Tomato belongs to the family:",
-    options: ["Cucurbitaceae", "Asteraceae", "Fabaceae", "Solanaceae"],
-    correct: 3,
+    options: ["Cucurbitaceae", "Solanaceae", "Fabaceae", "Asteraceae"],
+    correct: 1,
     explanation: "Tomato (Solanum lycopersicum, formerly Lycopersicon esculentum) belongs to the family Solanaceae (nightshade family), along with potato, brinjal, chilli and pepper."
   },
   {
@@ -788,8 +788,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "The nutrient responsible for fruit setting and fruit quality in tomato is:",
-    options: ["Calcium and Boron", "Potassium alone", "Nitrogen", "Phosphorus"],
-    correct: 0,
+    options: ["Phosphorus", "Potassium alone", "Nitrogen", "Calcium and Boron"],
+    correct: 3,
     explanation: "Calcium and Boron are critical for fruit set, pollen germination and fruit quality in tomato. Calcium deficiency causes Blossom End Rot (BER), and Boron deficiency causes poor fruit set."
   },
   {
@@ -798,8 +798,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Blossom End Rot (BER) in tomato is caused by:",
-    options: ["High humidity during fruit development", "Calcium deficiency in developing fruits (physiological disorder)", "Bacterial infection", "Fungal infection at blossom end"],
-    correct: 1,
+    options: ["Calcium deficiency in developing fruits (physiological disorder)", "High humidity during fruit development", "Bacterial infection", "Fungal infection at blossom end"],
+    correct: 0,
     explanation: "Blossom End Rot (BER) is a physiological disorder of tomato caused by calcium deficiency in developing fruits, often linked to irregular irrigation causing inconsistent calcium uptake."
   },
   {
@@ -808,8 +808,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "The nursery age of tomato seedlings for transplanting is:",
-    options: ["10–15 days", "70–80 days", "25–30 days (4–6 leaf stage)", "45–60 days"],
-    correct: 2,
+    options: ["25–30 days (4–6 leaf stage)", "70–80 days", "10–15 days", "45–60 days"],
+    correct: 0,
     explanation: "Tomato seedlings are ready for transplanting at 25–30 days after sowing when they are at the 4–6 true leaf stage (pencil-thick stem). Older seedlings do not establish well."
   },
 
@@ -820,8 +820,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "The pungency in chilli is due to the compound:",
-    options: ["Allicin", "Cucurbitacin", "Capsaicin", "Lycopene"],
-    correct: 2,
+    options: ["Capsaicin", "Cucurbitacin", "Allicin", "Lycopene"],
+    correct: 0,
     explanation: "Capsaicin is the compound responsible for pungency (hotness) in chilli peppers. It is measured in Scoville Heat Units (SHU). Capsaicin is found in the placenta and veins of the fruit."
   },
   {
@@ -830,8 +830,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Byadgi chilli, a GI-tagged variety, is grown mainly in:",
-    options: ["Karnataka", "Rajasthan", "Tamil Nadu", "Andhra Pradesh"],
-    correct: 0,
+    options: ["Tamil Nadu", "Rajasthan", "Karnataka", "Andhra Pradesh"],
+    correct: 2,
     explanation: "Byadgi chilli is grown in Haveri, Dharwad, Uttara Kannada and Gadag districts of Karnataka. It is known for its deep red color, low pungency and high oleoresin content used in food colors."
   },
   {
@@ -840,8 +840,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Pepper Mottle Virus (PMW/PepMV) infecting chilli is transmitted by:",
-    options: ["Whiteflies (Bemisia tabaci)", "Aphids in non-persistent manner", "Thrips (Thrips palmi)", "Soil nematodes"],
-    correct: 1,
+    options: ["Whiteflies (Bemisia tabaci)", "Soil nematodes", "Thrips (Thrips palmi)", "Aphids in non-persistent manner"],
+    correct: 3,
     explanation: "Pepper Mottle Virus (PepMoV) is a potyvirus transmitted by aphids in a non-persistent manner. It causes mosaic, mottling and stunting in chilli and capsicum."
   },
   {
@@ -850,8 +850,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Anthracnose (Dieback disease) of chilli is caused by:",
-    options: ["Colletotrichum capsici", "Alternaria alternata", "Phytophthora capsici", "Cercospora capsici"],
-    correct: 0,
+    options: ["Phytophthora capsici", "Alternaria alternata", "Colletotrichum capsici", "Cercospora capsici"],
+    correct: 2,
     explanation: "Anthracnose (dieback/fruit rot) of chilli is caused by Colletotrichum capsici (and other Colletotrichum spp.). It causes dark sunken lesions on ripening fruits leading to significant losses."
   },
   {
@@ -860,8 +860,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "The seed rate recommended for chilli nursery per acre of main crop is:",
-    options: ["1000 g", "500 g", "100 g", "200–250 g"],
-    correct: 3,
+    options: ["1000 g", "200–250 g", "100 g", "500 g"],
+    correct: 1,
     explanation: "For chilli cultivation, 200–250 g of seed is required to raise nursery seedlings for transplanting in one acre of main field."
   },
   {
@@ -870,8 +870,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "LCA-206 is a popular chilli variety released in which state?",
-    options: ["Tamil Nadu", "Andhra Pradesh", "Maharashtra", "Karnataka"],
-    correct: 1,
+    options: ["Andhra Pradesh", "Tamil Nadu", "Maharashtra", "Karnataka"],
+    correct: 0,
     explanation: "LCA-206 is a popular chilli variety released by Acharya N.G. Ranga Agricultural University (ANGRAU), Andhra Pradesh. It is widely grown for dry chilli production."
   },
   {
@@ -900,8 +900,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Guntur Sannam, a GI-tagged chilli variety, is grown in:",
-    options: ["Warangal, Telangana", "Mysuru, Karnataka", "Raichur, Karnataka", "Guntur, Andhra Pradesh"],
-    correct: 3,
+    options: ["Warangal, Telangana", "Guntur, Andhra Pradesh", "Raichur, Karnataka", "Mysuru, Karnataka"],
+    correct: 1,
     explanation: "Guntur Sannam chilli (S4 variety) is grown extensively in Guntur district of Andhra Pradesh. It is one of the world's most important commercial dry chilli varieties with high pungency and color."
   },
   {
@@ -910,8 +910,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Thrips tabaci and Scirtothrips dorsalis on chilli cause damage by:",
-    options: ["Transmitting soil-borne diseases in horticultural practices", "Chewing leaves and stems for vegetable cultivation", "Boring into fruits in orchard management", "Sucking plant sap causing leaf curling and fruit deformation"],
-    correct: 3,
+    options: ["Transmitting soil-borne diseases in horticultural practices", "Chewing leaves and stems for vegetable cultivation", "Sucking plant sap causing leaf curling and fruit deformation", "Boring into fruits in orchard management"],
+    correct: 2,
     explanation: "Thrips on chilli feed by rasping and sucking plant sap, causing leaf curl, distortion, silvery appearance on leaves ('chilli thrips silvering') and transmit Tomato Spotted Wilt Virus (TSWV)."
   },
   {
@@ -930,8 +930,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Phytophthora blight (Foot rot/Root rot) of chilli in waterlogged conditions is caused by:",
-    options: ["Colletotrichum capsici", "Phytophthora capsici", "Sclerotium rolfsii", "Fusarium oxysporum"],
-    correct: 1,
+    options: ["Colletotrichum capsici", "Sclerotium rolfsii", "Phytophthora capsici", "Fusarium oxysporum"],
+    correct: 2,
     explanation: "Phytophthora capsici causes phytophthora blight/collar rot/root rot of chilli, particularly in waterlogged and poorly drained soils. It spreads rapidly in humid conditions."
   },
   {
@@ -940,8 +940,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "The best method for drying red chilli for quality preservation is:",
-    options: ["Shade drying on clean platforms", "Sun drying directly on bare ground", "Kiln drying at high temperature", "Mechanical hot air drying at controlled temperature"],
-    correct: 3,
+    options: ["Shade drying on clean platforms", "Sun drying directly on bare ground", "Mechanical hot air drying at controlled temperature", "Kiln drying at high temperature"],
+    correct: 2,
     explanation: "Mechanical hot air drying at controlled temperature (60–65°C) gives best quality dried chilli with uniform color, minimum microbial contamination and good shelf life compared to sun drying."
   },
   {
@@ -950,8 +950,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Pusa Jwala chilli variety is characterized by:",
-    options: ["Purple-colored fruits in horticultural practices in agriculture", "Round, bell pepper type fruits for vegetable cultivation", "High pungency, long and curved fruits for dry chilli production", "Very low pungency for vegetable use under field conditions"],
-    correct: 2,
+    options: ["High pungency, long and curved fruits for dry chilli production", "Round, bell pepper type fruits for vegetable cultivation", "Purple-colored fruits in horticultural practices in agriculture", "Very low pungency for vegetable use under field conditions"],
+    correct: 0,
     explanation: "Pusa Jwala is a high-yielding, high-pungency chilli variety developed at IARI, suitable for both fresh and dry chilli production. It has long, slender, curved fruits."
   },
   {
@@ -960,8 +960,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "The nitrogen requirement for chilli crop is approximately:",
-    options: ["150 kg N/ha", "100 kg N/ha", "50 kg N/ha", "200 kg N/ha"],
-    correct: 1,
+    options: ["100 kg N/ha", "150 kg N/ha", "50 kg N/ha", "200 kg N/ha"],
+    correct: 0,
     explanation: "The recommended nitrogen dose for chilli is approximately 100–120 kg N/ha, along with 50 kg P2O5 and 50 kg K2O/ha. N is applied in 3–4 splits during the crop period."
   },
   {
@@ -970,8 +970,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "G-4 is a popular chilli variety known for:",
-    options: ["Disease resistance to Phytophthora in horticultural practices", "Low pungency for capsicum market", "Export quality appearance for vegetable cultivation", "Very high yield and suitability for Andhra Pradesh"],
-    correct: 3,
+    options: ["Disease resistance to Phytophthora in horticultural practices", "Low pungency for capsicum market", "Very high yield and suitability for Andhra Pradesh", "Export quality appearance for vegetable cultivation"],
+    correct: 2,
     explanation: "G-4 (Gujarat-4) is a high-yielding chilli variety developed in Gujarat, suitable for dry chilli production with good color and pungency. It is grown in Gujarat, Rajasthan and surrounding states."
   },
 
@@ -982,8 +982,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "The main commercial onion variety grown in Maharashtra for export is:",
-    options: ["Agrifound Dark Red", "N-2-4-1", "Bellary Red", "Pusa Red"],
-    correct: 0,
+    options: ["Pusa Red", "N-2-4-1", "Bellary Red", "Agrifound Dark Red"],
+    correct: 3,
     explanation: "Agrifound Dark Red is the most important commercial onion variety developed by NHRDF (National Horticultural Research and Development Foundation), widely grown for export from Maharashtra."
   },
   {
@@ -992,8 +992,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Onion seed rate for nursery raising per acre of main field is approximately:",
-    options: ["0.5–1.0 kg", "8–10 kg", "15–20 kg", "3–4 kg"],
-    correct: 3,
+    options: ["0.5–1.0 kg", "8–10 kg", "3–4 kg", "15–20 kg"],
+    correct: 2,
     explanation: "For transplanted onion crop, 3–4 kg of seed is required to raise nursery seedlings sufficient for transplanting in one acre of main field."
   },
   {
@@ -1002,8 +1002,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "The spacing recommended for onion crop (transplanted) is:",
-    options: ["45×30 cm", "15×10 cm", "30×20 cm", "10×10 cm"],
-    correct: 1,
+    options: ["15×10 cm", "45×30 cm", "30×20 cm", "10×10 cm"],
+    correct: 0,
     explanation: "Onion is transplanted at 15×10 cm spacing (15 cm between rows, 10 cm between plants), giving approximately 6.67 lakh plants per hectare."
   },
   {
@@ -1022,8 +1022,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Curing of onion bulbs after harvest is done to:",
-    options: ["Increase bulb size in horticultural practices", "Dry the outer scales and neck to improve storage quality", "Remove soil adhering to bulbs for vegetable cultivation", "Increase pungency of bulbs in orchard management"],
-    correct: 1,
+    options: ["Increase bulb size in horticultural practices", "Increase pungency of bulbs in orchard management", "Remove soil adhering to bulbs for vegetable cultivation", "Dry the outer scales and neck to improve storage quality"],
+    correct: 3,
     explanation: "Curing of onion involves drying the outer skin (scales) and neck region under shade or in field (sun curing) for 10–15 days to prevent fungal infection and improve storage life."
   },
   {
@@ -1052,8 +1052,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "The average yield of onion under good cultivation practices is:",
-    options: ["50–60 t/ha", "30–35 t/ha", "10–15 t/ha", "20–25 t/ha"],
-    correct: 1,
+    options: ["50–60 t/ha", "20–25 t/ha", "10–15 t/ha", "30–35 t/ha"],
+    correct: 3,
     explanation: "The average yield of onion in India is 25–35 t/ha under good management. Maharashtra, Madhya Pradesh and Karnataka are the leading onion-producing states."
   },
   {
@@ -1062,8 +1062,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Garlic is propagated mainly by:",
-    options: ["Air layering in horticultural practices", "Stem cuttings for vegetable cultivation", "Cloves (individual segments of the bulb)", "Seeds in orchard management"],
-    correct: 2,
+    options: ["Cloves (individual segments of the bulb)", "Stem cuttings for vegetable cultivation", "Air layering in horticultural practices", "Seeds in orchard management"],
+    correct: 0,
     explanation: "Garlic is propagated vegetatively by cloves (individual segments of the garlic bulb) because garlic rarely produces viable seeds. Each clove gives rise to a new plant."
   },
   {
@@ -1072,8 +1072,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "The compound allicin in garlic responsible for medicinal and antimicrobial properties is released when:",
-    options: ["Garlic is kept in acidic solutions", "Garlic cloves are crushed, chopped or chewed (activates allinase)", "Garlic is stored in cool temperatures", "Garlic is cooked at high temperature"],
-    correct: 1,
+    options: ["Garlic is kept in acidic solutions", "Garlic is stored in cool temperatures", "Garlic cloves are crushed, chopped or chewed (activates allinase)", "Garlic is cooked at high temperature"],
+    correct: 2,
     explanation: "Allicin is produced when alliinase enzyme (released upon cell disruption) converts alliin to allicin. Crushing or chopping garlic activates this enzyme. Cooking destroys allinase, reducing allicin."
   },
   {
@@ -1082,8 +1082,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Onion and Garlic belong to the genus:",
-    options: ["Allium", "Lactuca", "Brassica", "Lycopersicon"],
-    correct: 0,
+    options: ["Brassica", "Lactuca", "Allium", "Lycopersicon"],
+    correct: 2,
     explanation: "Onion (Allium cepa) and Garlic (Allium sativum) both belong to the genus Allium, family Amaryllidaceae (formerly Alliaceae). This genus also includes leek, chive and shallot."
   },
   {
@@ -1092,8 +1092,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "The main onion export destination from India is:",
-    options: ["Malaysia, Bangladesh, Sri Lanka and Middle East countries", "USA and Europe mainly in horticultural practices", "China and Japan for vegetable cultivation", "African countries only in orchard management"],
-    correct: 0,
+    options: ["China and Japan for vegetable cultivation", "USA and Europe mainly in horticultural practices", "Malaysia, Bangladesh, Sri Lanka and Middle East countries", "African countries only in orchard management"],
+    correct: 2,
     explanation: "India exports onion mainly to neighboring countries like Bangladesh, Malaysia, Sri Lanka, Pakistan and Middle Eastern countries. India is the world's largest onion exporter."
   },
   {
@@ -1122,8 +1122,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Madhya Pradesh leads India in garlic production; the main garlic-growing district there is:",
-    options: ["Mandsaur and Neemuch", "Gwalior and Morena", "Jabalpur and Sagar", "Bhopal and Indore"],
-    correct: 0,
+    options: ["Jabalpur and Sagar", "Gwalior and Morena", "Mandsaur and Neemuch", "Bhopal and Indore"],
+    correct: 2,
     explanation: "Mandsaur and Neemuch districts of Madhya Pradesh are the major garlic-growing areas in India. MP produces about 50% of India's total garlic production."
   },
   {
@@ -1132,8 +1132,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Which maturity indicator is used to harvest onion bulbs?",
-    options: ["Bulb size reaches 5 cm diameter", "Tops (leaves) naturally fall over (neck fall)", "Color changes to dark red", "70 days after transplanting regardless of neck condition"],
-    correct: 1,
+    options: ["Bulb size reaches 5 cm diameter", "Color changes to dark red", "Tops (leaves) naturally fall over (neck fall)", "70 days after transplanting regardless of neck condition"],
+    correct: 2,
     explanation: "Onion harvest maturity is indicated by 'neck fall' – when 50–75% of the tops naturally topple (fall over). This indicates cessation of bulb growth and appropriate time for harvest."
   },
 
@@ -1144,8 +1144,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Pusa Chetki is a popular variety of which vegetable?",
-    options: ["Carrot", "Beetroot", "Radish", "Turnip"],
-    correct: 2,
+    options: ["Carrot", "Beetroot", "Turnip", "Radish"],
+    correct: 3,
     explanation: "Pusa Chetki is a popular radish (Raphanus sativus) variety developed at IARI, New Delhi. It is a fast-maturing summer variety that can be grown even in hot conditions."
   },
   {
@@ -1154,8 +1154,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Spinach (Spinacia oleracea) is a good source of which mineral element?",
-    options: ["Potassium and Vitamin B12", "Sodium and Vitamin A", "Calcium and Vitamin D", "Iron (Fe) and Vitamin C"],
-    correct: 3,
+    options: ["Iron (Fe) and Vitamin C", "Sodium and Vitamin A", "Calcium and Vitamin D", "Potassium and Vitamin B12"],
+    correct: 0,
     explanation: "Spinach is an excellent source of iron, calcium, Vitamin C, Vitamin K and folate. However, the presence of oxalic acid reduces iron bioavailability. It is also rich in carotenoids."
   },
   {
@@ -1184,8 +1184,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Amaranthus (Chaulai/Tandalja) as a leafy vegetable is classified under which category based on its nutritional profile?",
-    options: ["Fatty acid-rich oil seed crop in horticultural practices", "Energy food with high starch for vegetable cultivation", "High protein leafy vegetable with high iron and calcium", "Low nutrient cool season crop in orchard management"],
-    correct: 2,
+    options: ["Fatty acid-rich oil seed crop in horticultural practices", "Energy food with high starch for vegetable cultivation", "Low nutrient cool season crop in orchard management", "High protein leafy vegetable with high iron and calcium"],
+    correct: 3,
     explanation: "Amaranthus leaves are rich in protein (4.0%), iron, calcium, Vitamin A (carotene) and Vitamin C, making them an excellent nutritional food for combating malnutrition, especially in children."
   },
   {
@@ -1194,8 +1194,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "The carrot root is botanically classified as:",
-    options: ["A true root (tap root)", "A swollen hypocotyl", "Both taproot and hypocotyl", "A modified stem (corm)"],
-    correct: 2,
+    options: ["Both taproot and hypocotyl", "A swollen hypocotyl", "A true root (tap root)", "A modified stem (corm)"],
+    correct: 0,
     explanation: "The edible part of carrot consists of both the swollen taproot and a portion of the hypocotyl (stem between seed leaf scars and root). The upper shoulder region is hypocotyl and lower is taproot."
   },
   {
@@ -1204,8 +1204,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "The red/purple color in beetroot (Beta vulgaris) is due to:",
-    options: ["Carotenoids", "Betalains (betacyanins and betaxanthins)", "Anthocyanins", "Lycopene"],
-    correct: 1,
+    options: ["Carotenoids", "Anthocyanins", "Betalains (betacyanins and betaxanthins)", "Lycopene"],
+    correct: 2,
     explanation: "Beetroot's characteristic red/purple color is due to betalain pigments (betacyanins like betanin). These are different from anthocyanins and are unique to the order Caryophyllales."
   },
   {
@@ -1214,8 +1214,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "The recommended spacing for radish cultivation is:",
-    options: ["10×10 cm", "45×30 cm", "60×45 cm", "30×10 cm"],
-    correct: 3,
+    options: ["10×10 cm", "45×30 cm", "30×10 cm", "60×45 cm"],
+    correct: 2,
     explanation: "Radish is cultivated at a spacing of 30×10 cm (30 cm between rows and 10 cm between plants). Closer spacing reduces root size while wider spacing increases root development."
   },
   {
@@ -1234,8 +1234,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Which of the following leafy vegetables is a good source of Vitamin K important for blood clotting?",
-    options: ["Carrot (Gajar)", "Spinach (Palak)", "Radish (Mooli)", "Beetroot (Chukandar)"],
-    correct: 1,
+    options: ["Carrot (Gajar)", "Beetroot (Chukandar)", "Radish (Mooli)", "Spinach (Palak)"],
+    correct: 3,
     explanation: "Spinach is an excellent source of Vitamin K1 (phylloquinone), which is essential for blood clotting. 100 g of spinach provides more than 400% of daily Vitamin K requirement."
   },
   {
@@ -1244,8 +1244,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Palak (Spinach – Spinacia oleracea) grows best in:",
-    options: ["Arid desert conditions in horticultural practices", "Hot humid tropical conditions", "Waterlogged and marshy areas", "Cool weather (15–20°C) with well-drained fertile soil"],
-    correct: 3,
+    options: ["Arid desert conditions in horticultural practices", "Hot humid tropical conditions", "Cool weather (15–20°C) with well-drained fertile soil", "Waterlogged and marshy areas"],
+    correct: 2,
     explanation: "Spinach is a cool-season crop that grows best at 15–20°C. Hot weather (above 25°C) and long days induce bolting (premature flowering), reducing leaf quality and yield."
   },
   {
@@ -1284,8 +1284,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Which root vegetable is a rich source of nitrates that improve athletic performance?",
-    options: ["Radish", "Carrot", "Turnip", "Beetroot"],
-    correct: 3,
+    options: ["Radish", "Carrot", "Beetroot", "Turnip"],
+    correct: 2,
     explanation: "Beetroot (Beta vulgaris) is the richest vegetable source of dietary nitrates, which are converted to nitric oxide in the body, improving blood flow and athletic/exercise performance."
   },
   {
@@ -1294,8 +1294,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "The edible part of carrot and radish is:",
-    options: ["Swollen rhizome", "Corm (underground stem)", "Modified stem", "Swollen taproot (fleshy storage root)"],
-    correct: 3,
+    options: ["Swollen rhizome", "Corm (underground stem)", "Swollen taproot (fleshy storage root)", "Modified stem"],
+    correct: 2,
     explanation: "The edible part of carrot (Daucus carota) and radish (Raphanus sativus) is the swollen, fleshy taproot (and hypocotyl in carrot) that serves as a storage organ for the plant."
   },
 
@@ -1316,8 +1316,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Marigold is botanically classified as which type of flower?",
-    options: ["Simple flower with single petals", "Spike inflorescence", "Cymose inflorescence", "Composite/Capitulum inflorescence (head of multiple florets)"],
-    correct: 3,
+    options: ["Composite/Capitulum inflorescence (head of multiple florets)", "Spike inflorescence", "Cymose inflorescence", "Simple flower with single petals"],
+    correct: 0,
     explanation: "Marigold (Tagetes spp.) belongs to family Asteraceae (Compositae) and has a capitulum (head) inflorescence consisting of many ray florets (outer) and disc florets (inner)."
   },
   {
@@ -1326,8 +1326,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Jasmine (Jasminum sambac) flowers are harvested for:",
-    options: ["Cut flower market and essential oil extraction", "Making herbal tea only", "Seed production in horticultural practices", "Vegetable use in cooking"],
-    correct: 0,
+    options: ["Making herbal tea only", "Cut flower market and essential oil extraction", "Seed production in horticultural practices", "Vegetable use in cooking"],
+    correct: 1,
     explanation: "Jasmine flowers (particularly Jasminum sambac – Arabian jasmine/Mogra and J. grandiflorum) are harvested for fresh flower garlands and for extraction of jasmine oil used in perfumery."
   },
   {
@@ -1336,8 +1336,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "The popular rose variety 'Gruss an Teplitz' is known as:",
-    options: ["A white cut flower rose", "The 'Crimson Glory' of Indian rose gardens", "A yellow climber rose variety", "A miniature rose variety"],
-    correct: 1,
+    options: ["A white cut flower rose", "A yellow climber rose variety", "The 'Crimson Glory' of Indian rose gardens", "A miniature rose variety"],
+    correct: 2,
     explanation: "Gruss an Teplitz is a heritage climbing rose known for its deep crimson-red, fragrant flowers. It is one of the oldest and most popular rose varieties in Indian gardens."
   },
   {
@@ -1356,8 +1356,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Tuberose (Rajnigandha – Polianthes tuberosa) bears which type of inflorescence?",
-    options: ["Spike (sessile flowers on elongated axis)", "Raceme (spike-like with pedicellate flowers)", "Capitulum in horticultural practices", "Umbel for vegetable cultivation"],
-    correct: 0,
+    options: ["Umbel for vegetable cultivation", "Raceme (spike-like with pedicellate flowers)", "Capitulum in horticultural practices", "Spike (sessile flowers on elongated axis)"],
+    correct: 3,
     explanation: "Tuberose (Polianthes tuberosa) bears flowers in a spike inflorescence – sessile flowers arranged on an elongated, unbranched axis. Single and Double flowered varieties exist."
   },
   {
@@ -1366,8 +1366,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "The optimal time to harvest marigold flowers for the fresh flower market is:",
-    options: ["Fully wilted stage", "Half-open to fully-open stage, early morning", "At noon when turgor is maximum", "Tight bud stage (before opening)"],
-    correct: 1,
+    options: ["Fully wilted stage", "Tight bud stage (before opening)", "At noon when turgor is maximum", "Half-open to fully-open stage, early morning"],
+    correct: 3,
     explanation: "Marigold flowers for the fresh market are harvested at the half-open to fully-open stage, early in the morning to avoid heat stress. This ensures freshness and longer vase life."
   },
   {
@@ -1376,8 +1376,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Rose propagation for cut flower production in India is mainly done by:",
-    options: ["T-budding on rootstocks (Rosa indica or Rosa multiflora)", "Seeds in horticultural practices", "Stem cuttings only for vegetable cultivation", "Tissue culture only in orchard management"],
-    correct: 0,
+    options: ["Tissue culture only in orchard management", "Seeds in horticultural practices", "Stem cuttings only for vegetable cultivation", "T-budding on rootstocks (Rosa indica or Rosa multiflora)"],
+    correct: 3,
     explanation: "Commercial roses for cut flower production are propagated by T-budding on rootstocks (Rosa indica var. odorata, R. multiflora, R. canina). This gives vigor, disease resistance and uniform plants."
   },
   {
@@ -1386,8 +1386,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "India's largest flower market for fresh flower trading is located at:",
-    options: ["Delhi (Ghazipur)", "Mumbai (Dadar flower market)", "Bengaluru (K.R. Market)", "Kolkata (Mullick Ghat)"],
-    correct: 3,
+    options: ["Kolkata (Mullick Ghat)", "Mumbai (Dadar flower market)", "Bengaluru (K.R. Market)", "Delhi (Ghazipur)"],
+    correct: 0,
     explanation: "Mullick Ghat flower market in Kolkata is one of Asia's largest flower markets. However, Bengaluru and Chennai also have very large commercial flower trading markets in India."
   },
   {
@@ -1416,8 +1416,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "The tuberose (Polianthes tuberosa) is propagated commercially by:",
-    options: ["Seeds", "Stem cuttings", "Air layering", "Daughter bulbs/offsets from clumps"],
-    correct: 3,
+    options: ["Seeds", "Stem cuttings", "Daughter bulbs/offsets from clumps", "Air layering"],
+    correct: 2,
     explanation: "Tuberose is propagated commercially by daughter bulbs (offsets) that develop around the mother bulb. Bulbs of 2–2.5 cm diameter are used for planting to get good flowering."
   },
   {
@@ -1426,8 +1426,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Which state of India leads in flower production (area and value)?",
-    options: ["Maharashtra", "Tamil Nadu", "Andhra Pradesh", "Karnataka"],
-    correct: 3,
+    options: ["Karnataka", "Tamil Nadu", "Andhra Pradesh", "Maharashtra"],
+    correct: 0,
     explanation: "Karnataka leads India in commercial flower production (roses, chrysanthemum, marigold, jasmine) both in area and value, followed by Tamil Nadu and Andhra Pradesh."
   },
   {
@@ -1436,8 +1436,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Pusa Basanti Gainda is a French marigold (Tagetes patula) variety with:",
-    options: ["Yellow flowers", "Bicolored flowers", "Red flowers", "Orange flowers"],
-    correct: 0,
+    options: ["Orange flowers", "Bicolored flowers", "Red flowers", "Yellow flowers"],
+    correct: 3,
     explanation: "Pusa Basanti Gainda is an African marigold (Tagetes erecta) variety with bright yellow flowers developed at IARI. It is popular for garlands, decoration and as a cut flower."
   },
   {
@@ -1446,8 +1446,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "The spacing recommended for marigold cultivation is:",
-    options: ["15×15 cm", "90×90 cm", "1×1 m", "45×30 cm"],
-    correct: 3,
+    options: ["45×30 cm", "90×90 cm", "1×1 m", "15×15 cm"],
+    correct: 0,
     explanation: "Marigold (African type) is transplanted at 45×30 cm spacing (45 cm row to row, 30 cm plant to plant), giving approximately 74,000 plants per hectare."
   },
   {
@@ -1468,8 +1468,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "The TSS (Total Soluble Solids) content measured by refractometer (Brix) is used as a maturity index for:",
-    options: ["Legume crops at harvest", "All cereal crops", "Root and tuber crops", "Fruits like grapes, mango and citrus"],
-    correct: 3,
+    options: ["Fruits like grapes, mango and citrus", "All cereal crops", "Root and tuber crops", "Legume crops at harvest"],
+    correct: 0,
     explanation: "TSS (°Brix) measured by hand refractometer is a common maturity index for fruits. Grapes are harvested at 16–20°Brix, mango at 10–12°Brix and citrus at 8–10°Brix."
   },
   {
@@ -1478,8 +1478,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Pre-cooling of fruits and vegetables after harvest is done to:",
-    options: ["Improve color development in the fruit in horticultural practices", "Increase sugar content before storage for vegetable cultivation", "Kill surface pathogens in orchard management", "Remove field heat and slow down respiration to extend shelf life"],
-    correct: 3,
+    options: ["Improve color development in the fruit in horticultural practices", "Remove field heat and slow down respiration to extend shelf life", "Kill surface pathogens in orchard management", "Increase sugar content before storage for vegetable cultivation"],
+    correct: 1,
     explanation: "Pre-cooling rapidly removes field heat from freshly harvested produce, slowing down respiration, metabolism and microbial growth, significantly extending shelf life before cold storage."
   },
   {
@@ -1488,8 +1488,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Controlled Atmosphere (CA) storage for apples typically maintains oxygen at:",
-    options: ["3–5% O2 and 1–3% CO2", "10–15% O2 and 5% CO2", "21% (normal air)", "0.1–0.5% O2 only"],
-    correct: 0,
+    options: ["21% (normal air)", "10–15% O2 and 5% CO2", "3–5% O2 and 1–3% CO2", "0.1–0.5% O2 only"],
+    correct: 2,
     explanation: "CA storage for apples maintains 3–5% O2 and 1–3% CO2 (compared to 21% O2 in air), which reduces respiration, delays ripening and extends storage life by 6–12 months."
   },
   {
@@ -1498,8 +1498,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "The starch-iodine test is used as a maturity index for which fruit?",
-    options: ["Mango", "Banana", "Apple", "Grape"],
-    correct: 2,
+    options: ["Apple", "Banana", "Mango", "Grape"],
+    correct: 0,
     explanation: "The starch-iodine test (cut surface stained with iodine solution) is used for apple maturity. Starch (dark blue-black) converts to sugar (light color) as the fruit matures."
   },
   {
@@ -1508,8 +1508,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Ethylene is used commercially in horticulture to:",
-    options: ["Prevent post-harvest diseases in horticultural practices", "Delay ripening in climacteric fruits for vegetable cultivation", "Induce uniform ripening and degreening of citrus and banana", "Extend shelf life of vegetables in orchard management"],
-    correct: 2,
+    options: ["Prevent post-harvest diseases in horticultural practices", "Delay ripening in climacteric fruits for vegetable cultivation", "Extend shelf life of vegetables in orchard management", "Induce uniform ripening and degreening of citrus and banana"],
+    correct: 3,
     explanation: "Ethylene gas is used commercially to induce uniform ripening in climacteric fruits (banana, mango), degreening of citrus and for synchronizing harvest. Ethephon is a common ethylene-releasing compound."
   },
   {
@@ -1518,8 +1518,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "The cold storage temperature recommended for storing apples is approximately:",
-    options: ["10 to 15°C", "0 to 2°C", "5 to 8°C", "-5 to -2°C"],
-    correct: 1,
+    options: ["0 to 2°C", "10 to 15°C", "5 to 8°C", "-5 to -2°C"],
+    correct: 0,
     explanation: "Apples are stored at 0–2°C (close to freezing but not frozen) with 90–95% relative humidity for long-term storage. This temperature significantly reduces respiration and ethylene production."
   },
   {
@@ -1538,8 +1538,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "The 'breaker stage' maturity index for tomato harvest means:",
-    options: ["Completely green fruit at full size in horticultural practices", "First visible color break from green to yellow-pink on fruit surface", "Fruit with TSS above 5°Brix for vegetable cultivation", "Fully ripe red fruit in orchard management"],
-    correct: 1,
+    options: ["First visible color break from green to yellow-pink on fruit surface", "Completely green fruit at full size in horticultural practices", "Fruit with TSS above 5°Brix for vegetable cultivation", "Fully ripe red fruit in orchard management"],
+    correct: 0,
     explanation: "The breaker stage is when the first color break (pink-yellow blush) appears on 10% or less of the fruit surface. Fruits harvested at this stage can tolerate long-distance transport."
   },
   {
@@ -1548,8 +1548,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Post-harvest losses in India for fruits and vegetables are estimated at approximately:",
-    options: ["5–10%", "40–50%", "15–20%", "25–30%"],
-    correct: 3,
+    options: ["25–30%", "40–50%", "15–20%", "5–10%"],
+    correct: 0,
     explanation: "India experiences post-harvest losses of approximately 25–30% for fruits and vegetables due to inadequate cold storage, transportation infrastructure and post-harvest handling facilities."
   },
   {
@@ -1558,8 +1558,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Waxing of citrus fruits in post-harvest handling is done to:",
-    options: ["Increase TSS content in horticultural practices", "Reduce water loss (transpiration) and improve appearance", "Add chemical preservatives for vegetable cultivation", "Delay harvest maturity in orchard management"],
-    correct: 1,
+    options: ["Increase TSS content in horticultural practices", "Add chemical preservatives for vegetable cultivation", "Reduce water loss (transpiration) and improve appearance", "Delay harvest maturity in orchard management"],
+    correct: 2,
     explanation: "Waxing applies a thin layer of edible wax (carnauba wax, shellac) on citrus fruit surface to reduce moisture loss (weight loss), improve gloss/appearance and extend shelf life."
   },
   {
@@ -1568,8 +1568,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Grading of fruits and vegetables for market is done based on:",
-    options: ["Color and appearance only in horticultural practices", "Only weight criteria for vegetable cultivation", "Only country of origin in orchard management", "Size, color, weight, shape and freedom from blemishes/defects"],
-    correct: 3,
+    options: ["Color and appearance only in horticultural practices", "Size, color, weight, shape and freedom from blemishes/defects", "Only country of origin in orchard management", "Only weight criteria for vegetable cultivation"],
+    correct: 1,
     explanation: "Grading classifies produce into uniform lots based on size, color, shape, weight, maturity and freedom from defects/diseases. This improves market value and satisfies consumer preferences."
   },
   {
@@ -1578,8 +1578,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "1-Methylcyclopropene (1-MCP) in post-harvest technology is used as:",
-    options: ["A growth regulator for pre-harvest use only", "An ethylene action inhibitor to delay ripening", "A fungicide for post-harvest disease control", "A waxing compound for cosmetic treatment"],
-    correct: 1,
+    options: ["A growth regulator for pre-harvest use only", "A waxing compound for cosmetic treatment", "A fungicide for post-harvest disease control", "An ethylene action inhibitor to delay ripening"],
+    correct: 3,
     explanation: "1-MCP (sold as SmartFresh) is an ethylene action inhibitor that binds irreversibly to ethylene receptors, blocking ethylene's effects, thereby delaying ripening and extending shelf life of climacteric fruits."
   },
   {
@@ -1608,8 +1608,8 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "The technique of 'vacuum cooling' used for post-harvest cooling of leafy vegetables works by:",
-    options: ["Immersion in liquid nitrogen", "Cooling with ice water immersion", "Blowing cold air at high velocity", "Reducing atmospheric pressure causing rapid evaporation and cooling"],
-    correct: 3,
+    options: ["Immersion in liquid nitrogen", "Reducing atmospheric pressure causing rapid evaporation and cooling", "Blowing cold air at high velocity", "Cooling with ice water immersion"],
+    correct: 1,
     explanation: "Vacuum cooling reduces the atmospheric pressure around the produce, causing rapid evaporation of surface moisture, which removes latent heat and rapidly cools leafy vegetables like lettuce, spinach and herbs."
   },
   {
@@ -1618,39 +1618,39 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "The maturity index 'Days from Full Bloom' is used for:",
-    options: ["Root crops only", "Leafy vegetables", "All tropical fruits", "Apple and pear (temperate fruits)"],
-    correct: 3,
+    options: ["Apple and pear (temperate fruits)", "Leafy vegetables", "All tropical fruits", "Root crops only"],
+    correct: 0,
     explanation: "Days from full bloom (DFFB) is a reliable maturity index for apples and pears. Different varieties have characteristic DFFB values (e.g., Red Delicious apple: 150–155 days from full bloom)."
   },,
   {
     id: "d282l_161", subject: "da-282", lecture: "lecture-11", lectureNo: 11,
     question: "The word horticulture is derived from Latin words meaning:",
-    options: ["Study of plants", "Plant biology", "Garden cultivation (hortus=garden + colere=cultivation)", "Science of farming"],
-    correct: 2,
+    options: ["Study of plants", "Garden cultivation (hortus=garden + colere=cultivation)", "Plant biology", "Science of farming"],
+    correct: 1,
     explanation: "Horticulture comes from Latin hortus (garden) + colere (to cultivate). It is the science and art of garden crop production.",
     difficulty: "medium"
   },
   {
     id: "d282l_162", subject: "da-282", lecture: "lecture-11", lectureNo: 11,
     question: "Pomology is the branch of horticulture dealing with:",
-    options: ["Vegetable cultivation", "Spice production", "Fruit crop cultivation and study", "Flower cultivation"],
-    correct: 2,
+    options: ["Vegetable cultivation", "Fruit crop cultivation and study", "Spice production", "Flower cultivation"],
+    correct: 1,
     explanation: "Pomology is the branch of horticulture concerned with the science and practice of growing fruit crops.",
     difficulty: "easy"
   },
   {
     id: "d282l_163", subject: "da-282", lecture: "lecture-11", lectureNo: 11,
     question: "Olericulture is the branch of horticulture dealing with:",
-    options: ["Vegetable crops", "Fruit crops", "Flower crops", "Plantation crops"],
-    correct: 0,
+    options: ["Flower crops", "Fruit crops", "Vegetable crops", "Plantation crops"],
+    correct: 2,
     explanation: "Olericulture is the branch of horticulture dealing with the production, storage, and marketing of vegetables.",
     difficulty: "easy"
   },
   {
     id: "d282l_164", subject: "da-282", lecture: "lecture-11", lectureNo: 11,
     question: "Floriculture is the branch of horticulture concerned with:",
-    options: ["Flower and ornamental plant production", "Spice production", "Vegetable production", "Fruit production"],
-    correct: 0,
+    options: ["Fruit production", "Spice production", "Vegetable production", "Flower and ornamental plant production"],
+    correct: 3,
     explanation: "Floriculture deals with the cultivation of flowers and ornamental plants for decorative purposes, bouquets, and gardens.",
     difficulty: "easy"
   },
@@ -1665,56 +1665,56 @@ export const da282LectureQuestions: Question[] = [
   {
     id: "d282l_166", subject: "da-282", lecture: "lecture-11", lectureNo: 11,
     question: "Match horticulture branches (Col A) with focus crops (Col B) and examples (Col C): Col A: 1-Pomology, 2-Olericulture, 3-Floriculture, 4-Spices. Col B: P-condiments, Q-fruits, R-flowers, S-vegetables. Col C: i-rose, ii-mango, iii-tomato, iv-cardamom",
-    options: ["1-P-iv, 2-Q-ii, 3-S-iii, 4-R-i", "1-R-i, 2-P-iv, 3-Q-ii, 4-S-iii", "1-S-iii, 2-R-i, 3-P-iv, 4-Q-ii", "1-Q-ii, 2-S-iii, 3-R-i, 4-P-iv"],
-    correct: 3,
+    options: ["1-P-iv, 2-Q-ii, 3-S-iii, 4-R-i", "1-Q-ii, 2-S-iii, 3-R-i, 4-P-iv", "1-S-iii, 2-R-i, 3-P-iv, 4-Q-ii", "1-R-i, 2-P-iv, 3-Q-ii, 4-S-iii"],
+    correct: 1,
     explanation: "Pomology (fruits=mango=ii), Olericulture (vegetables=tomato=iii), Floriculture (flowers=rose=i), Spices (condiments=cardamom=iv).",
     difficulty: "hard"
   },
   {
     id: "d282l_167", subject: "da-282", lecture: "lecture-12", lectureNo: 12,
     question: "The botanical name of mango is:",
-    options: ["Citrus sinensis", "Musa paradisiaca", "Mangifera indica", "Psidium guajava"],
-    correct: 2,
+    options: ["Mangifera indica", "Musa paradisiaca", "Citrus sinensis", "Psidium guajava"],
+    correct: 0,
     explanation: "Mango (Mangifera indica) belongs to the family Anacardiaceae. It is the national fruit of India.",
     difficulty: "easy"
   },
   {
     id: "d282l_168", subject: "da-282", lecture: "lecture-12", lectureNo: 12,
     question: "The botanical name of banana is:",
-    options: ["Carica papaya", "Vitis vinifera", "Musa paradisiaca", "Mangifera indica"],
-    correct: 2,
+    options: ["Musa paradisiaca", "Vitis vinifera", "Carica papaya", "Mangifera indica"],
+    correct: 0,
     explanation: "Banana (Musa paradisiaca) belongs to the family Musaceae. It is one of the most widely consumed fruits globally.",
     difficulty: "easy"
   },
   {
     id: "d282l_169", subject: "da-282", lecture: "lecture-12", lectureNo: 12,
     question: "Grapes belong to which botanical family?",
-    options: ["Musaceae", "Vitaceae", "Anacardiaceae", "Rutaceae"],
-    correct: 1,
+    options: ["Musaceae", "Anacardiaceae", "Vitaceae", "Rutaceae"],
+    correct: 2,
     explanation: "Grapes (Vitis vinifera) belong to the family Vitaceae. Grapes are used for fresh consumption, wine, raisins, and juice.",
     difficulty: "medium"
   },
   {
     id: "d282l_170", subject: "da-282", lecture: "lecture-12", lectureNo: 12,
     question: "Which fruit is known as the Queen of Fruits?",
-    options: ["Papaya", "Banana", "Mangosteen", "Mango"],
-    correct: 2,
+    options: ["Papaya", "Mangosteen", "Banana", "Mango"],
+    correct: 1,
     explanation: "Mangosteen (Garcinia mangostana) is called the Queen of Fruits due to its delicious taste and nutritional value.",
     difficulty: "medium"
   },
   {
     id: "d282l_171", subject: "da-282", lecture: "lecture-12", lectureNo: 12,
     question: "Pomegranate (Punica granatum) is rich in which nutrient?",
-    options: ["Fat in horticultural practices", "Calcium for vegetable cultivation", "Vitamin A in orchard management", "Vitamin C and antioxidants (punicalagins and anthocyanins)"],
-    correct: 3,
+    options: ["Fat in horticultural practices", "Vitamin C and antioxidants (punicalagins and anthocyanins)", "Vitamin A in orchard management", "Calcium for vegetable cultivation"],
+    correct: 1,
     explanation: "Pomegranate is rich in Vitamin C, antioxidants (punicalagins, punicic acid, anthocyanins), and is used for heart health and immunity.",
     difficulty: "medium"
   },
   {
     id: "d282l_172", subject: "da-282", lecture: "lecture-12", lectureNo: 12,
     question: "ASSERTION-REASON: Assertion (A): Banana is a climacteric fruit. Reason (R): Climacteric fruits show a sharp rise in respiration (climacteric rise) and ethylene production during ripening, and can ripen after harvest.",
-    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A"],
-    correct: 1,
+    options: ["A is false but R is true", "A is true but R is false", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
+    correct: 2,
     explanation: "Banana is climacteric — it ripens after harvest with a rise in ethylene. R correctly defines and explains climacteric behavior.",
     difficulty: "medium"
   },
@@ -1737,8 +1737,8 @@ export const da282LectureQuestions: Question[] = [
   {
     id: "d282l_175", subject: "da-282", lecture: "lecture-13", lectureNo: 13,
     question: "Bhendi (Ladyfinger/Okra) belongs to which family?",
-    options: ["Cucurbitaceae", "Malvaceae", "Leguminosae", "Solanaceae"],
-    correct: 1,
+    options: ["Malvaceae", "Cucurbitaceae", "Leguminosae", "Solanaceae"],
+    correct: 0,
     explanation: "Bhendi/Okra (Abelmoschus esculentus) belongs to the family Malvaceae (Hibiscus family). It is rich in fiber and vitamins.",
     difficulty: "medium"
   },
@@ -1769,8 +1769,8 @@ export const da282LectureQuestions: Question[] = [
   {
     id: "d282l_179", subject: "da-282", lecture: "lecture-14", lectureNo: 14,
     question: "Jasmine (Mogra) used in garlands in India belongs to which family?",
-    options: ["Rosaceae", "Malvaceae", "Asteraceae", "Oleaceae"],
-    correct: 3,
+    options: ["Rosaceae", "Malvaceae", "Oleaceae", "Asteraceae"],
+    correct: 2,
     explanation: "Jasmine (Jasminum sambac) belongs to the family Oleaceae (Olive family). It is India's most important cut flower and garland flower.",
     difficulty: "medium"
   },
@@ -1785,40 +1785,40 @@ export const da282LectureQuestions: Question[] = [
   {
     id: "d282l_181", subject: "da-282", lecture: "lecture-14", lectureNo: 14,
     question: "ASSERTION-REASON: Assertion (A): Post-harvest losses in horticultural crops are higher than in field crops. Reason (R): Horticultural produce (fruits, vegetables, flowers) are perishable, having high moisture content and being prone to mechanical damage and microbial spoilage.",
-    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A"],
-    correct: 1,
+    options: ["Both A and R are true and R is the correct explanation of A", "A is false but R is true", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A"],
+    correct: 0,
     explanation: "Post-harvest losses in horticulture are 20-40%. R correctly explains the cause — perishable nature, high moisture, and susceptibility to spoilage.",
     difficulty: "medium"
   },
   {
     id: "d282l_182", subject: "da-282", lecture: "lecture-14", lectureNo: 14,
     question: "Match flowers (Col A) with families (Col B) and uses (Col C): Col A: 1-Rose, 2-Jasmine, 3-Marigold, 4-Chrysanthemum. Col B: P-Asteraceae, Q-Rosaceae, R-Oleaceae, S-Asteraceae. Col C: i-temple/festival offerings, ii-garland and cut flower, iii-perfume and garland, iv-cut flower",
-    options: ["1-P-i, 2-Q-ii, 3-R-iii, 4-S-iv", "1-S-iv, 2-P-i, 3-Q-ii, 4-R-iii", "1-R-iii, 2-P-i, 3-S-iv, 4-Q-ii", "1-Q-ii, 2-R-iii, 3-P-i, 4-S-iv"],
-    correct: 3,
+    options: ["1-P-i, 2-Q-ii, 3-R-iii, 4-S-iv", "1-S-iv, 2-P-i, 3-Q-ii, 4-R-iii", "1-Q-ii, 2-R-iii, 3-P-i, 4-S-iv", "1-R-iii, 2-P-i, 3-S-iv, 4-Q-ii"],
+    correct: 2,
     explanation: "Rose (Rosaceae=cut flower/garland=ii), Jasmine (Oleaceae=perfume/garland=iii), Marigold (Asteraceae=festival=i), Chrysanthemum (Asteraceae=cut flower=iv).",
     difficulty: "hard"
   },
   {
     id: "d282l_183", subject: "da-282", lecture: "lecture-15", lectureNo: 15,
     question: "Cardamom (Elettaria cardamomum) is called:",
-    options: ["Queen of Spices", "King of Fruits", "Spice King", "King of Spices"],
-    correct: 0,
+    options: ["Spice King", "King of Fruits", "Queen of Spices", "King of Spices"],
+    correct: 2,
     explanation: "Cardamom is called the Queen of Spices. It belongs to family Zingiberaceae and is the third most expensive spice in the world.",
     difficulty: "medium"
   },
   {
     id: "d282l_184", subject: "da-282", lecture: "lecture-15", lectureNo: 15,
     question: "Black pepper (Piper nigrum) is called:",
-    options: ["Black Gold", "Prince of Spices", "King of Spices", "Queen of Spices"],
-    correct: 2,
+    options: ["King of Spices", "Prince of Spices", "Black Gold", "Queen of Spices"],
+    correct: 0,
     explanation: "Black pepper (Piper nigrum) is called the King of Spices and also Black Gold. It is the most widely traded spice in the world.",
     difficulty: "medium"
   },
   {
     id: "d282l_185", subject: "da-282", lecture: "lecture-15", lectureNo: 15,
     question: "Coconut is botanically classified as a:",
-    options: ["Drupe (stone fruit)", "True fruit", "Nut", "Berry"],
-    correct: 0,
+    options: ["Berry", "True fruit", "Nut", "Drupe (stone fruit)"],
+    correct: 3,
     explanation: "Coconut (Cocos nucifera) is botanically a drupe (stone fruit) with a fibrous outer husk (exocarp), a hard shell (endocarp), and edible flesh.",
     difficulty: "hard"
   },
@@ -1833,24 +1833,24 @@ export const da282LectureQuestions: Question[] = [
   {
     id: "d282l_187", subject: "da-282", lecture: "lecture-15", lectureNo: 15,
     question: "Match spices (Col A) with botanical names (Col B) and families (Col C): Col A: 1-Cardamom, 2-Black pepper, 3-Turmeric, 4-Ginger. Col B: P-Zingiber officinale, Q-Curcuma longa, R-Piper nigrum, S-Elettaria cardamomum. Col C: i-Piperaceae, ii-Zingiberaceae, iii-Zingiberaceae, iv-Zingiberaceae",
-    options: ["1-R-i, 2-S-iv, 3-P-ii, 4-Q-iii", "1-S-iv, 2-R-i, 3-Q-iii, 4-P-ii", "1-P-ii, 2-Q-iii, 3-R-i, 4-S-iv", "1-Q-iii, 2-P-ii, 3-S-iv, 4-R-i"],
-    correct: 1,
+    options: ["1-R-i, 2-S-iv, 3-P-ii, 4-Q-iii", "1-P-ii, 2-Q-iii, 3-R-i, 4-S-iv", "1-S-iv, 2-R-i, 3-Q-iii, 4-P-ii", "1-Q-iii, 2-P-ii, 3-S-iv, 4-R-i"],
+    correct: 2,
     explanation: "Cardamom (Elettaria cardamomum=Zingiberaceae=iv), Black pepper (Piper nigrum=Piperaceae=i), Turmeric (Curcuma longa=Zingiberaceae=iii), Ginger (Zingiber officinale=Zingiberaceae=ii).",
     difficulty: "hard"
   },
   {
     id: "d282l_188", subject: "da-282", lecture: "lecture-15", lectureNo: 15,
     question: "The edible part of cauliflower is the:",
-    options: ["Stem", "Curd (compact flower head)", "Leaf", "Root"],
-    correct: 1,
+    options: ["Curd (compact flower head)", "Stem", "Leaf", "Root"],
+    correct: 0,
     explanation: "The edible part of cauliflower is the curd — a compact, immature flower head (inflorescence) of the plant Brassica oleracea var. botrytis.",
     difficulty: "easy"
   },
   {
     id: "d282l_189", subject: "da-282", lecture: "lecture-15", lectureNo: 15,
     question: "Which vegetable is known as the poor man's apple due to its high nutritional value and wide availability?",
-    options: ["Onion", "Tomato", "Brinjal", "Bitter gourd"],
-    correct: 1,
+    options: ["Tomato", "Onion", "Brinjal", "Bitter gourd"],
+    correct: 0,
     explanation: "Tomato is called the poor man's apple due to its high content of Vitamin C, lycopene (antioxidant), and wide availability at affordable prices.",
     difficulty: "medium"
   },
@@ -1865,8 +1865,8 @@ export const da282LectureQuestions: Question[] = [
   {
     id: "d282l_191", subject: "da-282", lecture: "lecture-12", lectureNo: 12,
     question: "Citrus fruits belong to which botanical family?",
-    options: ["Vitaceae", "Anacardiaceae", "Rutaceae", "Rosaceae"],
-    correct: 2,
+    options: ["Vitaceae", "Rutaceae", "Anacardiaceae", "Rosaceae"],
+    correct: 1,
     explanation: "Citrus fruits (orange, lemon, lime, grapefruit) belong to the family Rutaceae. The genus Citrus includes most common citrus fruits.",
     difficulty: "medium"
   },
@@ -1881,8 +1881,8 @@ export const da282LectureQuestions: Question[] = [
   {
     id: "d282l_193", subject: "da-282", lecture: "lecture-13", lectureNo: 13,
     question: "The edible part of potato is a:",
-    options: ["Root", "Bulb", "Tuber (modified underground stem)", "Fruit"],
-    correct: 2,
+    options: ["Root", "Bulb", "Fruit", "Tuber (modified underground stem)"],
+    correct: 3,
     explanation: "Potato (Solanum tuberosum) edible part is a tuber — a swollen underground stem with stored starch, bearing eyes (buds) for propagation.",
     difficulty: "easy"
   },
@@ -1937,8 +1937,8 @@ export const da282LectureQuestions: Question[] = [
   {
     id: "d282l_200", subject: "da-282", lecture: "lecture-13", lectureNo: 13,
     question: "ASSERTION-REASON: Assertion (A): Bitter gourd is used medicinally to control blood sugar. Reason (R): Bitter gourd (Momordica charantia) contains insulin-like compounds (charantin, polypeptide-p) that help lower blood glucose levels.",
-    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A"],
-    correct: 1,
+    options: ["A is false but R is true", "A is true but R is false", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
+    correct: 2,
     explanation: "Bitter gourd is widely used in Ayurveda for diabetes management. R correctly explains the biochemical basis — charantin and polypeptide-p.",
     difficulty: "medium"
   }
