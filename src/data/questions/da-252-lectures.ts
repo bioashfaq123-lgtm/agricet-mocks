@@ -1819,5 +1819,505 @@ export const da252LectureQuestions: Question[] = [
     options: ["Fiberglass reinforced plastic (FRP)", "Polycarbonate (double wall)", "Polyethylene film (PE)", "Glass"],
     correct: 3,
     explanation: "Glass provides the best long-term light transmission (90%+), is UV resistant, and maintains optical clarity, but it is the most expensive, heaviest, and most fragile covering material."
+  },
+  {
+    id: "d252y_001",
+    subject: "da-252",
+    lecture: "lecture-32",
+    lectureNo: 32,
+    question: "The term 'consumptive use' in water engineering refers to:",
+    options: ["Water used for irrigation only", "Water consumed by evapotranspiration from crops and soil", "Total water applied to a field", "Water stored in soil profile"],
+    correct: 1,
+    explanation: "Consumptive use is the amount of water consumed by evapotranspiration (evaporation from soil + transpiration by plants) during a given period. It is used to calculate crop water requirements."
+  },
+  {
+    id: "d252y_002",
+    subject: "da-252",
+    lecture: "lecture-32",
+    lectureNo: 32,
+    question: "Delta of a crop is defined as:",
+    options: ["The area of land irrigated", "The total depth of water required by crop during entire growing period", "The difference between inflow and outflow of water", "Water use efficiency of a crop"],
+    correct: 1,
+    explanation: "Delta of a crop (Δ) is the total depth of water required by the crop during its entire growing period from sowing to harvesting, expressed in mm or cm."
+  },
+  {
+    id: "d252y_003",
+    subject: "da-252",
+    lecture: "lecture-32",
+    lectureNo: 32,
+    question: "Duty of water is defined as the area of land that can be irrigated by a unit discharge of water flowing continuously for the entire base period. Its unit is:",
+    options: ["hectares per cumec", "litres per second", "cubic metres per hectare", "mm per day"],
+    correct: 0,
+    explanation: "Duty (D) is expressed as hectares per cumec (ha/cumec), meaning the number of hectares that can be irrigated by one cumec (1 m³/s) of water flowing for the entire base period."
+  },
+  {
+    id: "d252y_004",
+    subject: "da-252",
+    lecture: "lecture-32",
+    lectureNo: 32,
+    question: "The relationship between duty (D), delta (Δ), and base period (B) is:",
+    options: ["D = 8.64 × B / Δ", "D = Δ × B / 8.64", "D = 8.64 / (B × Δ)", "D = B / (8.64 × Δ)"],
+    correct: 0,
+    explanation: "The standard relation is D = 8.64 × B / Δ, where D = duty (ha/cumec), B = base period (days), Δ = delta (m). The constant 8.64 comes from unit conversion (86400 sec/day ÷ 10000 m²/ha)."
+  },
+  {
+    id: "d252y_005",
+    subject: "da-252",
+    lecture: "lecture-33",
+    lectureNo: 33,
+    question: "A weir is a hydraulic structure used to:",
+    options: ["Store large volumes of water underground", "Measure and control flow in open channels", "Filter suspended solids from water", "Pump water from rivers to fields"],
+    correct: 1,
+    explanation: "A weir is a notch or overflow structure placed in an open channel to measure discharge and control water levels. The relationship between head and discharge is well-established for standard weir types."
+  },
+  {
+    id: "d252y_006",
+    subject: "da-252",
+    lecture: "lecture-33",
+    lectureNo: 33,
+    question: "For a rectangular weir, the discharge formula is Q = C × L × H^(3/2). What does 'H' represent?",
+    options: ["Width of the weir crest", "Head of water over the weir crest", "Height of weir from channel bed", "Depth of water in the channel"],
+    correct: 1,
+    explanation: "In the rectangular weir formula, H is the head of water measured above the weir crest (the still-water surface elevation above the crest level). L is the length of the crest and C is the discharge coefficient."
+  },
+  {
+    id: "d252y_007",
+    subject: "da-252",
+    lecture: "lecture-33",
+    lectureNo: 33,
+    question: "A Parshall flume is preferred over a weir for irrigation flow measurement because:",
+    options: ["It is cheaper to construct", "It works accurately with high sediment loads and low head loss", "It requires no calibration", "It measures groundwater flow"],
+    correct: 1,
+    explanation: "Parshall flumes handle sediment-laden flows without clogging, operate with minimal head loss, and maintain accuracy over a wide flow range. They are widely used in irrigation canals and on-farm water management."
+  },
+  {
+    id: "d252y_008",
+    subject: "da-252",
+    lecture: "lecture-33",
+    lectureNo: 33,
+    question: "The V-notch (triangular) weir is most suitable for measuring:",
+    options: ["Large flood discharges", "Small and variable low discharges", "Sedimented canal flows", "Sub-surface drainage flow"],
+    correct: 1,
+    explanation: "The V-notch (triangular) weir is most accurate for small and variable discharges because even a small change in head produces a proportional change in the narrow water prism, giving good sensitivity at low flows."
+  },
+  {
+    id: "d252y_009",
+    subject: "da-252",
+    lecture: "lecture-34",
+    lectureNo: 34,
+    question: "Drip irrigation is also known as:",
+    options: ["Sprinkler irrigation", "Trickle irrigation", "Furrow irrigation", "Basin irrigation"],
+    correct: 1,
+    explanation: "Drip irrigation is also called trickle irrigation because water is applied drop by drop or in a slow trickle directly to the root zone through emitters, minimizing evaporation and runoff losses."
+  },
+  {
+    id: "d252y_010",
+    subject: "da-252",
+    lecture: "lecture-34",
+    lectureNo: 34,
+    question: "Water application efficiency in drip irrigation is typically:",
+    options: ["40–50%", "55–65%", "70–80%", "90–95%"],
+    correct: 3,
+    explanation: "Drip irrigation achieves 90–95% water application efficiency because water is delivered directly to the root zone with minimal evaporation, deep percolation, or surface runoff losses."
+  },
+  {
+    id: "d252y_011",
+    subject: "da-252",
+    lecture: "lecture-34",
+    lectureNo: 34,
+    question: "The component of a drip irrigation system that regulates flow to individual plants is called:",
+    options: ["Main line", "Sub-main", "Lateral", "Emitter (dripper)"],
+    correct: 3,
+    explanation: "The emitter (dripper) is the critical component that delivers water at a controlled, slow rate (usually 2–8 L/hr) directly to each plant's root zone. Emitters are installed on laterals running along the crop rows."
+  },
+  {
+    id: "d252y_012",
+    subject: "da-252",
+    lecture: "lecture-34",
+    lectureNo: 34,
+    question: "Fertigation in drip irrigation refers to:",
+    options: ["Applying fertilizer to soil before irrigation", "Injecting fertilizers directly into the irrigation water", "Foliar spraying of fertilizers", "Composting organic matter for drip application"],
+    correct: 1,
+    explanation: "Fertigation is the technique of injecting soluble fertilizers directly into the irrigation water supply. In drip systems, this delivers nutrients precisely to the root zone, improving nutrient use efficiency significantly."
+  },
+  {
+    id: "d252y_013",
+    subject: "da-252",
+    lecture: "lecture-35",
+    lectureNo: 35,
+    question: "Sprinkler irrigation is most suitable for which type of crops and terrain?",
+    options: ["Row crops on flat heavy-clay soils only", "Close-growing crops and uneven terrain where surface irrigation is difficult", "Paddy cultivation in waterlogged conditions", "Deep-rooted trees in sandy soils only"],
+    correct: 1,
+    explanation: "Sprinkler irrigation suits close-growing crops (wheat, groundnut, vegetables) and undulating terrains where surface irrigation is impractical. It can be used on varying soil types and slopes up to 5–12%."
+  },
+  {
+    id: "d252y_014",
+    subject: "da-252",
+    lecture: "lecture-35",
+    lectureNo: 35,
+    question: "The precipitation rate of a sprinkler system should not exceed the:",
+    options: ["Wilting point of the soil", "Infiltration rate of the soil", "Field capacity of the soil", "Hydraulic conductivity of the subsoil"],
+    correct: 1,
+    explanation: "The application rate of sprinklers must not exceed the soil's infiltration rate; otherwise, water ponds on the surface and causes runoff, erosion, and non-uniform distribution."
+  },
+  {
+    id: "d252y_015",
+    subject: "da-252",
+    lecture: "lecture-35",
+    lectureNo: 35,
+    question: "Distribution uniformity (DU) in a sprinkler system is used to measure:",
+    options: ["Pump pressure uniformity", "How evenly water is distributed over the irrigated area", "Fertilizer distribution in the field", "Soil moisture uniformity before irrigation"],
+    correct: 1,
+    explanation: "Distribution uniformity (DU) is the ratio of the lowest quarter average depth applied to the overall average depth. A DU of 80% or higher is generally considered acceptable for sprinkler systems."
+  },
+  {
+    id: "d252y_016",
+    subject: "da-252",
+    lecture: "lecture-36",
+    lectureNo: 36,
+    question: "Sub-surface drainage is used in agricultural fields primarily to:",
+    options: ["Increase surface runoff for reuse", "Remove excess water from the root zone to prevent waterlogging", "Store groundwater for dry season use", "Improve soil structural aggregation"],
+    correct: 1,
+    explanation: "Sub-surface drainage (tile drains, mole drains, perforated pipes) removes excess water from the root zone, lowering the water table to prevent waterlogging, which causes anaerobic conditions harmful to crop roots."
+  },
+  {
+    id: "d252y_017",
+    subject: "da-252",
+    lecture: "lecture-36",
+    lectureNo: 36,
+    question: "The spacing between parallel sub-surface drain pipes depends primarily on:",
+    options: ["Crop type and fertilizer requirement", "Soil hydraulic conductivity and desired water table depth", "Distance from the main canal", "Annual rainfall intensity only"],
+    correct: 1,
+    explanation: "Drain spacing is determined using the Hooghoudt equation, which relates drain spacing to soil hydraulic conductivity, drain depth, water table height midway between drains, and drainage coefficient."
+  },
+  {
+    id: "d252y_018",
+    subject: "da-252",
+    lecture: "lecture-36",
+    lectureNo: 36,
+    question: "Drainage coefficient in sub-surface drainage design refers to:",
+    options: ["The ratio of drained area to total area", "The rate of water removal needed to lower the water table within a given time", "The hydraulic conductivity of drain pipe material", "The ratio of surface runoff to rainfall"],
+    correct: 1,
+    explanation: "The drainage coefficient (q) is the depth of water (mm/day) that must be removed from the field to maintain the water table below the critical depth within a specified time frame, typically based on crop tolerance."
+  },
+  {
+    id: "d252y_019",
+    subject: "da-252",
+    lecture: "lecture-37",
+    lectureNo: 37,
+    question: "Watershed management aims to:",
+    options: ["Increase surface runoff for hydropower generation only", "Conserve soil and water, reduce erosion, and improve productivity of land and water resources", "Drain excess water from paddy fields", "Maximize fertilizer application in rain-fed areas"],
+    correct: 1,
+    explanation: "Watershed management integrates soil and water conservation practices (check dams, contour bunds, vegetative barriers) to reduce erosion, improve groundwater recharge, enhance productivity, and ensure sustainable land use."
+  },
+  {
+    id: "d252y_020",
+    subject: "da-252",
+    lecture: "lecture-37",
+    lectureNo: 37,
+    question: "A check dam is constructed across a stream or drainage channel primarily to:",
+    options: ["Generate electricity from streamflow", "Slow runoff velocity, trap sediment, and recharge groundwater", "Measure stream discharge", "Divert water to main irrigation canals"],
+    correct: 1,
+    explanation: "Check dams are small barriers built across drainage lines to reduce runoff velocity, trap eroded sediment, raise local water tables through percolation, and store water for dry-season use by cattle and crops."
+  },
+  {
+    id: "d252y_021",
+    subject: "da-252",
+    lecture: "lecture-37",
+    lectureNo: 37,
+    question: "Contour bunds are constructed:",
+    options: ["Along the maximum slope direction", "Across the slope following contour lines to intercept runoff", "Along drainage lines to channel excess water", "Around individual trees in orchards"],
+    correct: 1,
+    explanation: "Contour bunds (earthen embankments) are constructed along contour lines (perpendicular to the slope direction) to intercept surface runoff, reduce flow velocity, encourage infiltration, and prevent soil erosion on sloping land."
+  },
+  {
+    id: "d252y_022",
+    subject: "da-252",
+    lecture: "lecture-38",
+    lectureNo: 38,
+    question: "Rainwater harvesting through farm ponds is beneficial because:",
+    options: ["It increases evaporation losses from the catchment", "It stores runoff water for use during dry periods, supplementing irrigation", "It eliminates the need for any other irrigation source", "It raises the water table only in sandy soils"],
+    correct: 1,
+    explanation: "Farm ponds harvest surface runoff during rains for supplemental irrigation during dry spells. They also recharge groundwater, support fish culture, and provide water for livestock, improving overall farm productivity."
+  },
+  {
+    id: "d252y_023",
+    subject: "da-252",
+    lecture: "lecture-38",
+    lectureNo: 38,
+    question: "The catchment efficiency in rainwater harvesting refers to:",
+    options: ["Percent of total rainfall converted to usable runoff collected in the storage", "Total area of the pond surface", "Ratio of pond depth to catchment area", "Fraction of water lost to evaporation"],
+    correct: 0,
+    explanation: "Catchment efficiency (or runoff coefficient) is the proportion of total rainfall from the catchment area that is actually collected as runoff and stored in the pond. It depends on soil type, slope, and land cover."
+  },
+  {
+    id: "d252y_024",
+    subject: "da-252",
+    lecture: "lecture-38",
+    lectureNo: 38,
+    question: "Which is the most important factor determining the storage capacity needed for a farm pond?",
+    options: ["Colour of the soil in the catchment", "Crop water requirement during the dry period and expected runoff", "Distance of the pond from the field", "Soil pH of the watershed"],
+    correct: 1,
+    explanation: "Farm pond capacity is designed based on crop water demand during dry periods and the expected seasonal runoff from the catchment. Insufficient capacity means water shortage; excess capacity increases construction cost."
+  },
+  {
+    id: "d252y_025",
+    subject: "da-252",
+    lecture: "lecture-39",
+    lectureNo: 39,
+    question: "The hydraulic radius (R) of an irrigation canal cross-section is defined as:",
+    options: ["Width divided by depth of flow", "Cross-sectional area of flow divided by wetted perimeter", "Top width divided by wetted perimeter", "Hydraulic depth times flow velocity"],
+    correct: 1,
+    explanation: "Hydraulic radius R = A/P, where A is the cross-sectional area of flow and P is the wetted perimeter. It is a key parameter in Manning's and Chezy's equations for open channel flow design."
+  },
+  {
+    id: "d252y_026",
+    subject: "da-252",
+    lecture: "lecture-39",
+    lectureNo: 39,
+    question: "Manning's roughness coefficient 'n' for an irrigation canal lined with concrete is approximately:",
+    options: ["0.010–0.014", "0.025–0.030", "0.040–0.060", "0.100–0.150"],
+    correct: 0,
+    explanation: "Manning's n for concrete-lined canals is 0.011–0.014. Unlined earth canals have n = 0.025–0.030. Higher n values indicate rougher surfaces causing slower flow for the same slope and hydraulic radius."
+  },
+  {
+    id: "d252y_027",
+    subject: "da-252",
+    lecture: "lecture-39",
+    lectureNo: 39,
+    question: "The trapezoidal cross-section is preferred for earthen irrigation canals because:",
+    options: ["It is the easiest shape to excavate with any machine", "It provides stable side slopes and is hydraulically efficient", "It eliminates the need for canal lining", "It allows the highest velocity without scouring"],
+    correct: 1,
+    explanation: "Trapezoidal cross-sections are stable in earthen materials (side slopes resist collapse), hydraulically efficient (approach semi-circular section), and easy to construct with standard equipment, making them standard for irrigation canals."
+  },
+  {
+    id: "d252y_028",
+    subject: "da-252",
+    lecture: "lecture-40",
+    lectureNo: 40,
+    question: "A greenhouse is a structure used primarily to:",
+    options: ["Store harvested crops at ambient temperature", "Grow plants under controlled environmental conditions", "Dry agricultural produce using solar energy", "House farm equipment and machinery"],
+    correct: 1,
+    explanation: "A greenhouse (glasshouse or polyhouse) is an enclosed structure where temperature, humidity, light, and CO₂ can be controlled to grow plants year-round, extend growing seasons, or cultivate crops not suited to local outdoor conditions."
+  },
+  {
+    id: "d252y_029",
+    subject: "da-252",
+    lecture: "lecture-40",
+    lectureNo: 40,
+    question: "The greenhouse effect inside a polyhouse occurs because:",
+    options: ["Plants release heat during photosynthesis", "The covering material traps long-wave radiation emitted by the soil and plants", "The enclosed space prevents wind cooling", "Artificial lights add heat to the structure"],
+    correct: 1,
+    explanation: "Short-wave solar radiation passes through the glazing material and is absorbed by plants and soil. The soil re-emits long-wave infrared radiation, which the covering material does not transmit, trapping heat inside — the greenhouse effect."
+  },
+  {
+    id: "d252y_030",
+    subject: "da-252",
+    lecture: "lecture-40",
+    lectureNo: 40,
+    question: "In India, the most commonly used covering material for low-cost polyhouses is:",
+    options: ["Glass panes", "Polycarbonate sheets", "Polyethylene (PE) film", "Fiberglass panels"],
+    correct: 2,
+    explanation: "Polyethylene (PE) film (200–800 micron UV-stabilized) is the most widely used covering material for low-cost polyhouses in India due to its low cost, light weight, ease of installation, and adequate light transmission (85–90%)."
+  },
+  {
+    id: "d252y_031",
+    subject: "da-252",
+    lecture: "lecture-40",
+    lectureNo: 40,
+    question: "The orientation of a greenhouse ridge (long axis) in the tropics should ideally be:",
+    options: ["North-South to maximize morning and afternoon sun exposure", "East-West to maximize solar radiation in winter months", "Northeast-Southwest at 45° to the prevailing wind", "Any direction since orientation does not matter in tropics"],
+    correct: 0,
+    explanation: "In tropical regions, a North-South orientation allows both the east and west walls to receive sunlight throughout the day, giving more uniform light distribution compared to East-West orientation which favors one wall in the morning and another in the afternoon."
+  },
+  {
+    id: "d252y_032",
+    subject: "da-252",
+    lecture: "lecture-41",
+    lectureNo: 41,
+    question: "In greenhouse technology, the term 'photoperiod' refers to:",
+    options: ["The total light intensity (lux) received per day", "The daily duration of light exposure affecting plant flowering", "The wavelength of light used for photosynthesis", "The number of days between planting and flowering"],
+    correct: 1,
+    explanation: "Photoperiod is the number of hours of light per day that triggers flowering in photoperiodic plants. Short-day plants flower when nights are long; long-day plants flower when days are long. Greenhouses can manipulate photoperiod artificially."
+  },
+  {
+    id: "d252y_033",
+    subject: "da-252",
+    lecture: "lecture-41",
+    lectureNo: 41,
+    question: "Ventilation in a greenhouse is necessary primarily to:",
+    options: ["Increase carbon dioxide concentration for faster growth", "Control temperature and humidity and replenish CO₂", "Prevent insects from entering the structure", "Reduce light intensity during summer months"],
+    correct: 1,
+    explanation: "Ventilation controls temperature (prevents overheating), regulates humidity (reduces disease risk), and replenishes CO₂ consumed by photosynthesis. Natural ventilation uses roof vents and side openings; forced ventilation uses exhaust fans with cooling pads."
+  },
+  {
+    id: "d252y_034",
+    subject: "da-252",
+    lecture: "lecture-41",
+    lectureNo: 41,
+    question: "Pad and fan cooling system in a greenhouse works on the principle of:",
+    options: ["Refrigeration using freon gas", "Evaporative cooling — dry hot air passes through wet cellulose pads", "Compression and expansion of air through vents", "Solar-powered Peltier cooling modules"],
+    correct: 1,
+    explanation: "The pad-and-fan system draws outside hot dry air through water-wetted cellulose pads. Evaporation of water absorbs heat (latent heat), cooling the air by 5–12°C before it enters the greenhouse. It is effective in hot, arid climates."
+  },
+  {
+    id: "d252y_035",
+    subject: "da-252",
+    lecture: "lecture-41",
+    lectureNo: 41,
+    question: "Relative humidity inside a greenhouse should ideally be maintained between:",
+    options: ["20–40%", "50–70%", "80–100%", "10–20%"],
+    correct: 1,
+    explanation: "Optimal RH for most greenhouse crops is 50–70%. Above 80–85%, fungal diseases (Botrytis, powdery mildew) proliferate. Below 40%, plants experience stomatal stress and water loss through transpiration increases excessively."
+  },
+  {
+    id: "d252y_036",
+    subject: "da-252",
+    lecture: "lecture-42",
+    lectureNo: 42,
+    question: "Hydroponics is defined as growing plants:",
+    options: ["In high-humidity tropical environments outdoors", "Without soil, with roots in nutrient solution or inert media", "Using only organic composts without chemical fertilizers", "In submerged paddy fields with controlled water levels"],
+    correct: 1,
+    explanation: "Hydroponics is soilless cultivation where plant roots grow either directly in a nutrient solution (NFT, DWC) or in an inert growing medium (rockwool, perlite, coco coir) with nutrients supplied through the irrigation water."
+  },
+  {
+    id: "d252y_037",
+    subject: "da-252",
+    lecture: "lecture-42",
+    lectureNo: 42,
+    question: "In the Nutrient Film Technique (NFT) hydroponic system:",
+    options: ["Plants are grown in deep pools of nutrient solution", "A thin film of nutrient solution continuously flows over bare roots in channels", "Nutrient solution is sprayed as mist onto suspended roots", "Plants are grown in inert media with periodic flooding and draining"],
+    correct: 1,
+    explanation: "In NFT, a thin (2–3 mm) stream of nutrient solution flows continuously over bare plant roots lying in slightly sloped channels (gutters). The upper roots are in air (aerobic) while lower roots absorb nutrients from the film."
+  },
+  {
+    id: "d252y_038",
+    subject: "da-252",
+    lecture: "lecture-42",
+    lectureNo: 42,
+    question: "The main advantage of hydroponics over soil cultivation is:",
+    options: ["No need for any water or nutrients", "Faster plant growth, higher yields per unit area, and year-round production", "Lower initial investment than conventional farming", "No requirement for pest or disease management"],
+    correct: 1,
+    explanation: "Hydroponics provides optimized nutrients directly to roots, allowing 30–50% faster growth, 3–10× higher yields per unit area, year-round production in controlled environments, and significantly reduced pesticide use."
+  },
+  {
+    id: "d252y_039",
+    subject: "da-252",
+    lecture: "lecture-42",
+    lectureNo: 42,
+    question: "Aeroponic cultivation differs from hydroponics in that:",
+    options: ["Plants are grown in soil with nutrient supplementation", "Roots are suspended in air and nutrient solution is sprayed as a fine mist", "Only organic nutrients dissolved in water are used", "Plants float on the surface of a deep water tank"],
+    correct: 1,
+    explanation: "In aeroponics, plant roots hang in an enclosed air/mist environment and are periodically sprayed with fine nutrient mist (every 1–5 minutes). This maximizes oxygen at the root zone, promoting rapid growth and very high yields."
+  },
+  {
+    id: "d252y_040",
+    subject: "da-252",
+    lecture: "lecture-43",
+    lectureNo: 43,
+    question: "Shade nets used in protected cultivation are primarily used to:",
+    options: ["Increase temperature inside the structure", "Reduce incoming solar radiation and temperature to protect sensitive crops", "Prevent groundwater contamination", "Store water on the net surface for plant use"],
+    correct: 1,
+    explanation: "Shade nets (25–75% shade factor) reduce incident solar radiation and temperature inside, protecting crops like vegetables, flowers, and nursery plants from heat stress, sunburn, and hail damage in summer or high-altitude conditions."
+  },
+  {
+    id: "d252y_041",
+    subject: "da-252",
+    lecture: "lecture-43",
+    lectureNo: 43,
+    question: "Anti-insect nets used in protected cultivation have mesh size typically of:",
+    options: ["50–100 mm openings", "10–25 mm openings", "0.4–1.0 mm openings (50–100 mesh)", "0.1–0.3 mm (microfiltration)"],
+    correct: 2,
+    explanation: "Anti-insect nets have fine mesh of 50–100 mesh (0.4–1.0 mm openings) to exclude thrips, aphids, whiteflies, and other small vectors while still allowing adequate airflow, light, and CO₂ exchange for the crop."
+  },
+  {
+    id: "d252y_042",
+    subject: "da-252",
+    lecture: "lecture-43",
+    lectureNo: 43,
+    question: "Mulching in protected horticulture serves all of the following purposes EXCEPT:",
+    options: ["Conserving soil moisture", "Controlling weeds", "Increasing soil temperature uniformly across all seasons", "Reducing soil-borne disease splash"],
+    correct: 2,
+    explanation: "Mulching conserves moisture, suppresses weeds, reduces disease splash, and modifies soil temperature — but black plastic mulch increases soil temperature in cool conditions while silver/white mulch reflects radiation in summer. It does not uniformly increase temperature across all seasons."
+  },
+  {
+    id: "d252y_043",
+    subject: "da-252",
+    lecture: "lecture-44",
+    lectureNo: 44,
+    question: "The growth medium 'Rockwool' used in hydroponic systems is made from:",
+    options: ["Crushed granite rock and organic compost", "Melted and spun basalt rock and chalk fibres", "Compressed coconut coir and perlite", "Clay expanded into lightweight aggregates"],
+    correct: 1,
+    explanation: "Rockwool (stonewool) is made by melting basalt rock and chalk at 1600°C, then spinning the molten material into fibres. It has high water retention (80%), good air porosity (15%), is sterile, and has a neutral pH — ideal for hydroponics."
+  },
+  {
+    id: "d252y_044",
+    subject: "da-252",
+    lecture: "lecture-44",
+    lectureNo: 44,
+    question: "Coco peat (cocopeat) as a growing medium is preferred because:",
+    options: ["It is completely sterile and has zero water retention", "It is a renewable by-product of coconut with good water retention and aeration", "It supplies all major nutrients to the plant roots", "It has a very low pH making it suitable for alkaline-loving crops"],
+    correct: 1,
+    explanation: "Coco peat (coir pith) is a renewable by-product of coconut husk processing. It has excellent water retention (8–9× its weight), good porosity, neutral to slightly acidic pH (5.8–6.5), and good cation exchange capacity, making it ideal as a soilless growing medium."
+  },
+  {
+    id: "d252y_045",
+    subject: "da-252",
+    lecture: "lecture-44",
+    lectureNo: 44,
+    question: "EC (Electrical Conductivity) of the nutrient solution in a hydroponic system is monitored to:",
+    options: ["Measure dissolved oxygen levels at the root zone", "Assess the total dissolved salt (nutrient) concentration in the solution", "Monitor water temperature for optimal root function", "Detect pathogen contamination in the water supply"],
+    correct: 1,
+    explanation: "EC is a proxy for total dissolved nutrient concentration. Low EC = nutrient deficiency; high EC = salt stress. Most vegetable crops require EC 1.5–3.5 mS/cm. EC is monitored continuously with sensors and adjusted by adding water or concentrate."
+  },
+  {
+    id: "d252y_046",
+    subject: "da-252",
+    lecture: "lecture-45",
+    lectureNo: 45,
+    question: "Integrated pest management (IPM) in greenhouses uses all of the following EXCEPT:",
+    options: ["Biological control agents (parasitoids, predators)", "Sticky yellow traps for monitoring and mass trapping", "Continuous prophylactic spraying of broad-spectrum pesticides", "Crop scouting and threshold-based interventions"],
+    correct: 2,
+    explanation: "IPM integrates biological control, physical traps, scouting, and targeted chemical use only when pest populations exceed economic thresholds. Continuous broad-spectrum spraying is contrary to IPM principles — it kills natural enemies and encourages resistance."
+  },
+  {
+    id: "d252y_047",
+    subject: "da-252",
+    lecture: "lecture-45",
+    lectureNo: 45,
+    question: "Which beneficial insect is commercially released in greenhouses for biological control of whiteflies?",
+    options: ["Apis mellifera (honey bee)", "Encarsia formosa (parasitic wasp)", "Coccinella septempunctata (ladybird beetle)", "Chrysoperla carnea (green lacewing)"],
+    correct: 1,
+    explanation: "Encarsia formosa is a tiny parasitic wasp (1–1.5 mm) that parasitizes greenhouse whitefly (Trialeurodes vaporariorum) nymphs. It is widely used commercially in tomato and cucumber greenhouses as a highly effective biological control agent."
+  },
+  {
+    id: "d252y_048",
+    subject: "da-252",
+    lecture: "lecture-45",
+    lectureNo: 45,
+    question: "The main advantage of biological control over chemical pesticides in greenhouses is:",
+    options: ["Lower cost per application", "Selectivity, no chemical residues, and sustainability without resistance development in pests", "Faster knockdown of large pest populations", "Effectiveness against all pest and disease problems simultaneously"],
+    correct: 1,
+    explanation: "Biological control agents are selective (target specific pests), leave no chemical residues (important for export crops), do not contribute to pesticide resistance, and can establish self-sustaining populations — providing long-term, sustainable pest suppression."
+  },
+  {
+    id: "d252y_049",
+    subject: "da-252",
+    lecture: "lecture-46",
+    lectureNo: 46,
+    question: "For greenhouse tomato production, the recommended day/night temperature regime is approximately:",
+    options: ["10°C/5°C", "18–24°C day / 13–17°C night", "30–35°C day / 25–28°C night", "40°C day / 35°C night"],
+    correct: 1,
+    explanation: "Greenhouse tomatoes grow optimally at 18–24°C during the day and 13–17°C at night. The day-night differential (DIF) influences internodal elongation and plant architecture. Temperatures above 35°C or below 10°C impair pollination and fruit set."
+  },
+  {
+    id: "d252y_050",
+    subject: "da-252",
+    lecture: "lecture-46",
+    lectureNo: 46,
+    question: "CO₂ enrichment in greenhouses is carried out to:",
+    options: ["Replace oxygen in the structure during night hours", "Enhance photosynthesis rates and improve crop yield and quality", "Cool the greenhouse by absorbing solar radiation", "Sterilize the growing media before planting"],
+    correct: 1,
+    explanation: "Ambient CO₂ (~420 ppm) is often the limiting factor in closed greenhouses. Enrichment to 800–1200 ppm increases photosynthesis by 20–30%, improving yield, fruit quality, and dry matter accumulation, especially in well-lit, well-managed polyhouse systems."
   }
 ];
