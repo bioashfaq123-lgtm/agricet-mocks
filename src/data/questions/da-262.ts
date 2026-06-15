@@ -1540,7 +1540,7 @@ export const da262Questions: Question[] = [
     lectureNo: 14,
     question: "Text formatting in word processing includes all EXCEPT:",
     options: ["Setting left and right margins", "Creating computer viruses", "Selecting font specifications", "Line spacing"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-262 notes: Text formatting includes setting margins, paragraph settings, line spacing, font specifications, footnotes etc."
   },
   {

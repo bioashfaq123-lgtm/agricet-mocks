@@ -1275,7 +1275,7 @@ export const da241Questions: Question[] = [
     subject: "da-241",
     question: "The second phase costs in production economics are:",
     options: ["Social costs (externalities)", "Establishment costs (plant construction)", "Variable costs (raw materials, labour, power, maintenance)", "Fixed costs (land rent, taxes, depreciation)"],
-    correct: 2,
+    correct: 1,
     explanation: "Variable costs are called 'second phase costs.' Fixed costs include establishment costs as first phase costs. Variable costs include raw materials, labour, power, repairs, maintenance charges - these are also called working costs, operating costs, direct costs."
   },
   {

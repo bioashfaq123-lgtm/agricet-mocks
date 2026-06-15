@@ -1252,7 +1252,7 @@ export const da122Questions: Question[] = [
     lectureNo: 25,
     question: "Fertilizer Use Efficiency (FUE) can be improved by:",
     options: ["Applying all fertilizer at once in one split", "Using only urea as nitrogen source", "Split application, placement near root zone, and matching supply with crop demand", "Applying fertilizers before planting only"],
-    correct: 0,
+    correct: 2,
     explanation: "As per DA-122 notes: FUE can be improved by split application, placing fertilizer near the root zone (band placement), timing with crop demand, and using slow-release fertilizers."
   },
   {
@@ -1382,7 +1382,7 @@ export const da122Questions: Question[] = [
     lectureNo: 29,
     question: "One of the goals of Integrated Nutrient Management (INM) is:",
     options: ["To reduce crop yields", "To increase soil salinity", "To eliminate all chemical fertilizer use", "To maintain or improve soil health while meeting crop nutrient demands economically"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-122 notes: INM goal is to maintain or improve soil health while meeting crop nutrient demands economically and in an environmentally sustainable manner."
   },
   {

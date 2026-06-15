@@ -622,7 +622,7 @@ export const da291Questions: Question[] = [
     subject: "da-291",
     question: "Which of the following is NOT a function of Krishi Vigyan Kendra (KVK)?",
     options: ["Issuing of land records and revenue certificates (Pahani)", "On-farm testing of new agricultural technologies in farmers' conditions", "Vocational training for farm youth in agri-enterprises", "Front Line Demonstrations of improved varieties and practices"],
-    correct: 0,
+    correct: 2,
     explanation: "KVK functions include: on-farm testing, FLDs, vocational training, farm advisory services, and seed/input distribution. Issuing land records (Pahani) is NOT a KVK function — it is done by the Revenue Department (VRO/MRO)."
   },
   {
@@ -1117,7 +1117,7 @@ export const da291Questions: Question[] = [
     id: "d291_140", subject: "Agricultural Extension Education",
     question: "The scope of agricultural extension in developing countries covers all EXCEPT:",
     options: ["Export promotion and international trade policies", "Cooperative societies and gram panchayats", "Agriculture and animal husbandry", "Health, women and child welfare"],
-    correct: 0,
+    correct: 1,
     explanation: "Agricultural extension scope in developing countries covers agriculture, animal husbandry, cooperative societies, gram panchayaths, social education, industries, health, women & child welfare, and fisheries - not export/trade policies.",
     difficulty: "medium"
   },

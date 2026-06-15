@@ -141,7 +141,7 @@ export const da201LectureQuestions: Question[] = [
     lectureNo: 1,
     question: "The average national productivity of wheat in India is approximately:",
     options: ["5.0 t/ha", "2.0 t/ha", "1.5 t/ha", "3.2 t/ha"],
-    correct: 3,
+    correct: 0,
     explanation: "India's national average wheat yield is approximately 3.2–3.5 t/ha. Punjab and Haryana achieve 4.5–5.0 t/ha with full packages; central and peninsular India average 2.5–3.0 t/ha due to heat stress at grain fill."
   },
   {
@@ -1991,7 +1991,7 @@ export const da201LectureQuestions: Question[] = [
     lectureNo: 7,
     question: "Sunflower oil is rich in which fatty acid that helps in reducing cholesterol in coronary arteries?",
     options: ["Palmitic acid", "Linoleic acid at 64 percent", "Oleic acid", "Stearic acid"],
-    correct: 1,
+    correct: 2,
     explanation: "According to DA-201 notes, sunflower is a rich source of linoleic acid (64%) which helps in reducing cholesterol deposition in the coronary arteries of the heart."
   },
   {

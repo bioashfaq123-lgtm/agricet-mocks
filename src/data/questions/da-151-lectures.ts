@@ -2043,7 +2043,7 @@ export const da151LectureQuestions: Question[] = [
     lectureNo: 1,
     question: "Biomass energy can be converted into producer gas using which process?",
     options: ["Pyrolysis", "Gasification", "Fermentation", "Distillation"],
-    correct: 1,
+    correct: 0,
     explanation: "As per DA-151 notes: Biomass energy - Gasifiers produce producer gas, pyrolysis produces liquid fuels, Biogas etc."
   },
   {

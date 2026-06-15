@@ -1264,7 +1264,7 @@ export const da111Questions: Question[] = [
     lectureNo: 18,
     question: "Which organisation in India is responsible for plant variety protection?",
     options: ["ICAR", "Protection of Plant Varieties and Farmers Rights Authority (PPV&FRA)", "NBPGR", "NSC"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-111 notes: The Protection of Plant Varieties and Farmers Rights Authority (PPV&FRA) under the PPV&FR Act 2001 is responsible for plant variety protection in India."
   },
   {
@@ -1304,7 +1304,7 @@ export const da111Questions: Question[] = [
     lectureNo: 37,
     question: "The tag colour for Certified seed is:",
     options: ["Red", "Blue", "White", "Golden yellow"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-111 notes: Certified seed has a Blue tag. Foundation seed has White tag and Breeder seed has Golden yellow tag."
   },
   {

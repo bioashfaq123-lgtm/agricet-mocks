@@ -580,7 +580,7 @@ export const da263LectureQuestions: Question[] = [
     id: "d263l_083", subject: "english-communication", lecture: "lecture-15", lectureNo: 15,
     question: "Which of the following is a DISTRIBUTIVE pronoun?",
     options: ["Everyone", "Both", "Neither", "Each"],
-    correct: 3,
+    correct: 2,
     explanation: "Distributive pronouns refer to persons or things one at a time — each, either, neither are distributive pronouns.",
     difficulty: "medium"
   },  {

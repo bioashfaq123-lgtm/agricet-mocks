@@ -232,7 +232,7 @@ export const da102LectureQuestions: Question[] = [
     id: "d102l_029", subject: "da-102", lecture: "lecture-2", lectureNo: 2,
     question: "The ear (cob) in maize bears:",
     options: ["Vegetative buds", "Male flowers", "Both male and female", "Female flowers (pistillate)"],
-    correct: 3,
+    correct: 1,
     explanation: "The ear bears female flowers; silk represents the stigma and style.",
     difficulty: "easy"
   },
@@ -1579,7 +1579,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 1,
     question: "In storage, minor millets can be safely stored for how long without pest and disease infestation?",
     options: ["6 months to 1 year", "3-5 years", "1-2 years", "2-3 years"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-102 notes: In storage, minor millets are safely stored for 2-3 years without any pest and disease infestation."
   },
   {
@@ -1589,7 +1589,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 2,
     question: "For rice nursery raising for machine transplanting, seed rate per 100 m² is:",
     options: ["18-25 kg", "30-35 kg", "10-12 kg", "5-8 kg"],
-    correct: 3,
+    correct: 0,
     explanation: "As per DA-102 notes: For machine transplanting, use 18-25 kg of good seed per 100 m² of nursery for each ha."
   },
   {
@@ -1609,7 +1609,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 4,
     question: "The seed dormancy period of Telangana Sona rice variety is:",
     options: ["10 days", "21 days", "7 days", "15 days"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-102 notes: Telangana Sona (R.N.R 15048) has a seed dormancy period of 15 days."
   },
   {
@@ -1619,7 +1619,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 4,
     question: "Kunaramsannalu (KNM 118) rice variety has a crop duration of:",
     options: ["110-115 days", "90-100 days", "150 days", "125 days"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-102 notes: Kunaramsannalu (KNM 118) is suitable for both kharif and rabi with 125 days crop duration."
   },
   {
@@ -1659,7 +1659,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 1,
     question: "Rice bran oil is used in which industry?",
     options: ["Paint industry", "Soap industry", "Fertiliser industry", "Textile industry"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-102 notes: Rice bran oil is used in the soap industry. Refined oil can also be used for cooking."
   },
   {
@@ -1669,7 +1669,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 1,
     question: "Paddy straw is used in which industry as insulating and cementing agent?",
     options: ["Steel industry", "Chemical industry", "Cardboard making industry", "Textile industry"],
-    correct: 3,
+    correct: 2,
     explanation: "As per DA-102 notes: Paddy straw is used in cardboard making industry as insulating and cementing agent."
   },
   {
@@ -1679,7 +1679,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 8,
     question: "Barley malt is the basic raw material for:",
     options: ["Beer making", "Bread making", "Wine making", "Vinegar making"],
-    correct: 1,
+    correct: 0,
     explanation: "As per DA-102 notes: Barley malt is the basic raw material for beer making."
   },
   {
@@ -1689,7 +1689,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 30,
     question: "Lucerne (Alfalfa) is botanically known as:",
     options: ["Stylosanthes hamata", "Pennisetum purpureum", "Trifolium alexandrinum", "Medicago sativa"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-102 notes: Lucerne (Alfalfa) is botanically known as Medicago sativa and is an important perennial fodder crop."
   },
   {
@@ -1699,7 +1699,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 31,
     question: "Berseem (Egyptian clover) is botanically known as:",
     options: ["Medicago sativa", "Trifolium alexandrinum", "Stylosanthes hamata", "Pennisetum purpureum"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-102 notes: Berseem is botanically known as Trifolium alexandrinum (Egyptian clover), an important winter fodder crop."
   },
   {
@@ -1719,7 +1719,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 2,
     question: "SRI nursery soil mix contains 70% soil + 20% organic matter + 10%:",
     options: ["Vermiculite", "Sand", "Cocopeat", "Rice hull"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-102 notes: SRI nursery soil mix is 70% soil + 20% well-decomposed pressmud/FYM + 10% rice hull."
   },
   {
@@ -1729,7 +1729,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 3,
     question: "For long duration rice varieties (more than 150 days), the transplanting distance is:",
     options: ["15×10 cm", "20×15 cm", "25×20 cm", "15×15 cm"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-102 notes: Long duration varieties (>150 days) are transplanted at 20×15 cm spacing giving 33 tillers/m²."
   },
   {
@@ -1739,7 +1739,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 5,
     question: "Somnath (WGL 347) rice variety has a crop duration of:",
     options: ["120-125 days", "150 days", "130-135 days", "100-110 days"],
-    correct: 3,
+    correct: 2,
     explanation: "As per DA-102 notes: Somnath (WGL.347) has medium duration of 130-135 days and can tolerate rice gall midge."
   },
   {
@@ -1759,7 +1759,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 2,
     question: "Rice seedlings in SRI nursery are ready for transplanting in how many days?",
     options: ["10-12 days", "15 days", "25-30 days", "7-10 days"],
-    correct: 3,
+    correct: 1,
     explanation: "As per DA-102 notes: In SRI nursery, seedlings reach sufficient height for planting at 15 days."
   },
   {
@@ -1789,7 +1789,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 2,
     question: "Single Super Phosphate (SSP) is applied during puddling to facilitate:",
     options: ["Reducing salinity", "Weed control", "Nitrogen fixation", "Good decomposition of green manure"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-102 notes: SSP should be applied during puddling to facilitate good decomposition of green manures incorporated."
   },
   {
@@ -1809,7 +1809,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 4,
     question: "Bathukamma (JGL 18047) rice variety was developed as an alternative for which popular variety?",
     options: ["Sambamashuri", "Somnath", "MTU-1010", "Siddi"],
-    correct: 0,
+    correct: 2,
     explanation: "As per DA-102 notes: Bathukamma (JGL 18047) is an alternative variety for MTU-1010, especially in Rabi as MTU-1010 has grain shedding character."
   },
   {
@@ -1839,7 +1839,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 4,
     question: "Seed rate for dry paddy (direct seeded) is:",
     options: ["10-15 kg/acre", "20-25 kg/acre", "40-50 kg/acre", "30-36 kg/acre"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-102 notes: Seed rate for dry paddy is 20-25 kg per acre, while seed drill (rainfed) requires 30-36 kg/acre."
   },
   {
@@ -1879,7 +1879,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 1,
     question: "Rice husk is used in poultry industry as:",
     options: ["Water filtration", "Disease treatment", "Feed", "Litter"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-102 notes: Rice husk is used in poultry industry as 'litter'; after decomposition this litter can be used as bulky organic manure."
   },
   {
@@ -1889,7 +1889,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 2,
     question: "Green manures should be puddled how many days prior to transplanting for good decomposition?",
     options: ["20-25 days", "15 days", "30-35 days", "5-10 days"],
-    correct: 3,
+    correct: 0,
     explanation: "As per DA-102 notes: Green manures should be puddled 20-25 days prior to transplanting to facilitate good decomposition."
   },
   {
@@ -1919,7 +1919,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 3,
     question: "Temperature for rice grain ripening should be between:",
     options: ["15-18°C", "18-20°C", "20-25°C", "25-30°C"],
-    correct: 0,
+    correct: 2,
     explanation: "As per DA-102 notes: At the time of ripening, the temperature should be between 20-25°C for proper grain filling."
   },
   {

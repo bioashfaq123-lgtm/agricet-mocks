@@ -1576,7 +1576,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 1,
     question: "Rice crop removes approximately how much N, P, K (kg) to produce 3 tonnes of yield?",
     options: ["175-35-175", "120-20-120", "85-15-90", "60-10-60"],
-    correct: 3,
+    correct: 2,
     explanation: "As per DA-122 notes: Rice crop removes 85-15-90 kg of N, P, and K respectively to produce 3 tonnes of yield."
   },
   {
@@ -1586,7 +1586,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 2,
     question: "The word 'Manure' is derived from the French word 'MANOEUVRER' which means:",
     options: ["To dig", "Work with soil", "Animal excreta", "To fertilise crops"],
-    correct: 3,
+    correct: 1,
     explanation: "As per DA-122 notes: The word Manure is originated from the French word 'MANOEUVRER' which refers to 'work with soil'."
   },
   {
@@ -1626,7 +1626,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 3,
     question: "In the heap method of FYM preparation, maximum losses of nutrients occur because:",
     options: ["Too much water is added", "Animals eat the manure", "Too many microorganisms attack the manure", "Direct exposure to sunshine and rainfall causes dryness and rapid oxidation"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-122 notes: In heap method, maximum nutrient losses occur due to direct exposure to sunshine and rainfall causing dryness and rapid oxidation."
   },
   {
@@ -1636,7 +1636,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 4,
     question: "Composting is the process of:",
     options: ["Storing organic waste without decomposition", "Biological decomposition of organic materials under controlled conditions", "Burning organic waste", "Chemical treatment of organic waste"],
-    correct: 2,
+    correct: 1,
     explanation: "As per DA-122 notes: Composting is the biological decomposition of organic materials under controlled conditions to produce stable, humus-rich material."
   },
   {
@@ -1656,7 +1656,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 6,
     question: "Biogas is mainly composed of:",
     options: ["Nitrogen", "Carbon dioxide", "Methane (CH4)", "Hydrogen"],
-    correct: 3,
+    correct: 1,
     explanation: "As per DA-122 notes: Biogas is mainly composed of Methane (CH4, approximately 55-65%) and Carbon dioxide (35-45%), produced by anaerobic digestion of organic matter."
   },
   {
@@ -1666,7 +1666,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 6,
     question: "The slurry remaining after biogas production is used as:",
     options: ["Fuel", "Animal feed", "Pesticide", "Organic manure rich in nutrients"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-122 notes: Biogas slurry is the remaining material after biogas production and is a valuable organic manure rich in plant nutrients."
   },
   {
@@ -1686,7 +1686,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 8,
     question: "Vermicompost has which advantage over regular compost?",
     options: ["Available in large quantities", "Lower nutrient content", "Cheaper to produce", "Faster nutrient release, better plant growth hormones, and more beneficial microorganisms"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-122 notes: Vermicompost has faster nutrient release, contains plant growth hormones (auxins, cytokinins), and has more beneficial microorganisms compared to regular compost."
   },
   {
@@ -1706,7 +1706,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 9,
     question: "The nitrogen content in green manure crops (leguminous) is approximately:",
     options: ["1.5-3.5%", "5-7%", "0.5-0.8%", "8-10%"],
-    correct: 2,
+    correct: 0,
     explanation: "As per DA-122 notes: Green manure crops (leguminous) typically contain 1.5-3.5% nitrogen, which is released on decomposition after incorporation."
   },
   {
@@ -1716,7 +1716,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 11,
     question: "Which of the following is a green leaf manure crop?",
     options: ["Gliricidia", "Pillipesara", "Dhaincha (Sesbania)", "Crotalaria"],
-    correct: 2,
+    correct: 0,
     explanation: "As per DA-122 notes: Gliricidia, Neem, Pongamia, and Ipomea are green leaf manure crops (branches and leaves brought from outside). Dhaincha and Pillipesara are in situ green manure crops."
   },
   {
@@ -1726,7 +1726,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 12,
     question: "Non-edible oil cakes suitable for crop fertilization include:",
     options: ["Mustard cake, coconut cake", "Sesame cake, sunflower cake (edible)", "Groundnut cake, linseed cake", "Neem cake, castor cake, cotton cake"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-122 notes: Non-edible oil cakes suitable for crop fertilization include Neem cake, Castor cake, Sunflower cake, Safflower cake, Cotton cake, and Mahua cake."
   },
   {
@@ -1736,7 +1736,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 12,
     question: "Edible oil cakes (suitable for cattle feed) include:",
     options: ["Mahua cake", "Cotton cake, sunflower cake", "Mustard cake, linseed cake, groundnut cake, coconut cake", "Neem cake, castor cake"],
-    correct: 3,
+    correct: 2,
     explanation: "As per DA-122 notes: Edible oil cakes include Mustard cake, Linseed cake, Sesame cake, Coconut cake, and Groundnut cake - suitable for cattle and poultry feeding."
   },
   {
@@ -1746,7 +1746,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 13,
     question: "Blood meal is a concentrated organic manure that contains approximately what percentage of nitrogen?",
     options: ["12-14%", "10-12%", "16-18%", "5-7%"],
-    correct: 3,
+    correct: 0,
     explanation: "As per DA-122 notes: Blood meal is a concentrated organic manure containing approximately 12-14% nitrogen, making it one of the richest organic nitrogen sources."
   },
   {
@@ -1796,7 +1796,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 16,
     question: "VAM (Vesicular Arbuscular Mycorrhizae) fungi are classified as phosphorus:",
     options: ["Fixers", "Solubilizers", "Leachers", "Absorbers"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-122 notes: VAM fungi are phosphate absorbers - they extend the root surface area by forming a network of hyphae that absorb phosphorus from a larger soil volume."
   },
   {
@@ -1806,7 +1806,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 17,
     question: "Urea is classified as which type of nitrogenous fertilizer?",
     options: ["Nitrate fertilizer", "Slow release fertilizer", "Amide fertilizer", "Ammonical fertilizer"],
-    correct: 3,
+    correct: 2,
     explanation: "As per DA-122 notes: Urea [CO(NH2)2] is classified as an Amide fertilizer. It contains 46% N and is the most commonly used nitrogenous fertilizer."
   },
   {
@@ -1826,7 +1826,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 18,
     question: "Single Super Phosphate (SSP) contains approximately what percentage of P2O5?",
     options: ["10-12%", "16-18%", "28-30%", "46-48%"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-122 notes: Single Super Phosphate (SSP) contains approximately 16-18% P2O5 (water-soluble) and also supplies about 12% Sulphur."
   },
   {
@@ -1896,7 +1896,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 25,
     question: "Fertilizer Use Efficiency (FUE) can be improved by:",
     options: ["Applying fertilizers before planting only", "Applying all fertilizer at once in one split", "Split application, placement near root zone, and matching supply with crop demand", "Using only urea as nitrogen source"],
-    correct: 1,
+    correct: 2,
     explanation: "As per DA-122 notes: FUE can be improved by split application, placing fertilizer near the root zone (band placement), timing with crop demand, and using slow-release fertilizers."
   },
   {
@@ -1926,7 +1926,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 28,
     question: "Band placement of fertilizers is preferred over broadcasting because it:",
     options: ["Reduces fertilizer efficiency", "Is easier to apply", "Wastes more fertilizer", "Places nutrients closer to root zone, reducing fixation and improving efficiency"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-122 notes: Band placement is preferred because it places nutrients close to the root zone, reducing fixation/leaching and improving fertilizer use efficiency."
   },
   {
@@ -1956,7 +1956,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 18,
     question: "Ammonium nitrate contains what percentage of nitrogen?",
     options: ["46%", "33-34%", "21%", "26%"],
-    correct: 2,
+    correct: 1,
     explanation: "As per DA-122 notes: Ammonium nitrate [NH4NO3] contains approximately 33-34% nitrogen (equal parts from ammonical and nitrate forms)."
   },
   {
@@ -1976,7 +1976,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 19,
     question: "Rock phosphate is a phosphatic fertilizer that is classified as:",
     options: ["Citric acid soluble P", "Water soluble P", "Citric acid insoluble P", "All of the above"],
-    correct: 1,
+    correct: 2,
     explanation: "As per DA-122 notes: Rock phosphate is classified as citric acid insoluble phosphate. It is not readily soluble and is used mainly in acidic soils."
   },
   {
@@ -1986,7 +1986,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 19,
     question: "Sulphate of Potash (SOP) is preferred over Muriate of Potash (MOP) for which crops?",
     options: ["Paddy and wheat", "Pulses and oilseeds", "Sugarcane", "Chloride-sensitive crops like fruits, vegetables, and tobacco"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-122 notes: Sulphate of Potash (K2SO4) is preferred for chloride-sensitive crops like fruits, vegetables, and tobacco as it doesn't contain chloride."
   },
   {
@@ -2016,7 +2016,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 31,
     question: "Organic farming avoids the use of:",
     options: ["Synthetic chemical pesticides and fertilizers", "Biofertilizers", "Compost and vermicompost", "Green manures"],
-    correct: 2,
+    correct: 0,
     explanation: "As per DA-122 notes: Organic farming avoids synthetic chemical pesticides and fertilizers, relying instead on organic manures, biofertilizers, and biological pest control."
   },
   {
@@ -2026,7 +2026,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 29,
     question: "One of the goals of Integrated Nutrient Management (INM) is:",
     options: ["To eliminate all chemical fertilizer use", "To reduce crop yields", "To increase soil salinity", "To maintain or improve soil health while meeting crop nutrient demands economically"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-122 notes: INM goal is to maintain or improve soil health while meeting crop nutrient demands economically and in an environmentally sustainable manner."
   },
   {
@@ -2046,7 +2046,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 5,
     question: "Urban compost is prepared from:",
     options: ["Only food processing waste", "Only crop residues", "Municipal waste including rubbish, street sweepings, and market wastes", "Industrial waste"],
-    correct: 1,
+    correct: 2,
     explanation: "As per DA-122 notes: Urban compost is prepared from municipal waste including municipal rubbish, street sweepings, and market wastes."
   },
   {
@@ -2056,7 +2056,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 3,
     question: "In the covered pit method, the pit bottom and sides are lined with:",
     options: ["Plastic sheets", "Granite stone lining (non-absorbent)", "Cement", "Clay bricks"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-122 notes: In covered pit method, the bottom and sides of the pit are made non-absorbent by granite stone lining to prevent nutrient loss."
   },
   {
@@ -2076,7 +2076,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 1,
     question: "Maize crop requires approximately how much N, P, K (kg) to produce 5 tonnes of yield?",
     options: ["60-10-60", "120-25-120", "85-15-90", "175-35-175"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-122 notes: Maize requires 175-35-175 kg of nitrogen, phosphorus and potassium respectively to give 5 tonnes of yield."
   },
   {
@@ -2086,7 +2086,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 16,
     question: "The Bacillus and Pseudomonas species used as biofertilizers are classified as:",
     options: ["Phosphate absorbers", "Free-living N fixers", "Phosphate solubilizers", "Symbiotic N fixers"],
-    correct: 3,
+    correct: 2,
     explanation: "As per DA-122 notes: Bacillus and Pseudomonas species act as Phosphate Solubilizers - they dissolve insoluble phosphates in soil making them available to plants."
   },
   {
@@ -2106,7 +2106,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 28,
     question: "Foliar application of fertilizers is done when:",
     options: ["Crop is at harvest stage", "Seeds are being treated", "Quick correction of nutrient deficiency is needed or soil application is not effective", "Soil is well supplied with nutrients"],
-    correct: 3,
+    correct: 2,
     explanation: "As per DA-122 notes: Foliar application is done for quick correction of nutrient deficiencies or when soil pH makes soil application ineffective (e.g., micronutrients in alkaline soils)."
   },
   {
@@ -2156,7 +2156,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 25,
     question: "Nitrification inhibitors like Neem-coated urea are used to:",
     options: ["Speed up conversion of urea to nitrate", "Kill soil microorganisms", "Increase alkalinity of soil", "Slow down nitrification, preventing N loss through leaching and denitrification"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-122 notes: Nitrification inhibitors (like Neem-coated urea) slow down nitrification, keeping nitrogen in the ammonium form longer, reducing losses through leaching and denitrification."
   },
   {
@@ -2176,7 +2176,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 9,
     question: "Pillipesara is botanically known as:",
     options: ["Sesbania aculeata", "Tephrosia purpurea", "Vigna radiata var. sublobata", "Crotalaria juncea"],
-    correct: 3,
+    correct: 2,
     explanation: "As per DA-122 notes: Pillipesara is botanically known as Vigna radiata var. sublobata (also called wild greengram), used as an important green manure crop."
   },
   {
@@ -2186,7 +2186,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 7,
     question: "Vermicompost beds should be maintained at a moisture content of approximately:",
     options: ["60-70%", "20-30%", "80-90%", "40-50%"],
-    correct: 1,
+    correct: 0,
     explanation: "As per DA-122 notes: Vermicompost beds should be maintained at 60-70% moisture content for optimal earthworm activity and decomposition."
   },
   {
@@ -2196,7 +2196,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 11,
     question: "Which of the following is an advantage of green leaf manuring over in situ green manuring?",
     options: ["Requires more time to decompose", "More expensive", "Lower nitrogen content", "Can be applied to already standing crops (e.g., transplanted paddy) without losing a season"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-122 notes: An advantage of green leaf manuring is that it can be applied to already standing crops without losing a season, unlike in situ green manuring which requires a separate season."
   },
   {
@@ -2216,7 +2216,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 17,
     question: "Straight fertilizers supply:",
     options: ["Only one plant nutrient element", "Organic matter along with nutrients", "All three major nutrients (NPK)", "Two or more plant nutrients"],
-    correct: 3,
+    correct: 0,
     explanation: "As per DA-122 notes: Straight fertilizers supply only one plant nutrient element (e.g., urea supplies only N, SSP supplies only P). Complex fertilizers supply two or more nutrients."
   },
   {
@@ -2226,7 +2226,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 24,
     question: "Which complex fertilizer grade is used as a complete fertilizer for rice in Telangana?",
     options: ["17-17-17", "10-26-26", "28-28-0", "18-46-0 (DAP)"],
-    correct: 3,
+    correct: 0,
     explanation: "As per DA-122 notes: 17-17-17 (NPK complex) is commonly used as a complete fertilizer providing equal proportions of N, P2O5, and K2O for many crops including rice."
   },
   {
@@ -2246,7 +2246,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 2,
     question: "Night soil is classified under which category of organic manures?",
     options: ["Animal origin manures", "Human habitation waste", "Municipal waste", "Plant origin manures"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-122 notes: Night soil (human excreta) is classified under human habitation waste category of organic manures. It is rich in nutrients but must be properly treated before use."
   },
   {

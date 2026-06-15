@@ -110,7 +110,7 @@ export const computerApplicationsQuestions: Question[] = [
     subject: "computer-applications",
     question: "What is the storage capacity of a standard CD-ROM?",
     options: ["100 MB", "270 MB", "650-700 MB", "4.7 GB"],
-    correct: 2,
+    correct: 3,
     explanation: "The storage capacity of most CD-ROMs is approximately 650 MB or 700 MB. DVD has larger capacity starting from 4.7 GB. CD-ROM stands for Compact Disk-Read Only Memory."
   },
   {

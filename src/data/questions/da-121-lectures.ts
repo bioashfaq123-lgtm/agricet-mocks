@@ -1556,7 +1556,7 @@ export const da121LectureQuestions: Question[] = [
     lectureNo: 1,
     question: "The word 'soil' is derived from the Latin word 'solum' which means:",
     options: ["Rock", "Cultivation", "Floor or ground", "Nutrients"],
-    correct: 1,
+    correct: 2,
     explanation: "As per DA-121 notes: The noun soil is derived through old French from the Latin word solum, which means floor or ground."
   },
   {
@@ -1606,7 +1606,7 @@ export const da121LectureQuestions: Question[] = [
     lectureNo: 3,
     question: "Sand particles range in size from:",
     options: ["0.2-2.0 mm", "0.002-0.02 mm", "0.02-0.2 mm", "< 0.002 mm"],
-    correct: 3,
+    correct: 0,
     explanation: "As per DA-121 notes: Sand (gritty) particles are 0.2-2.0 mm in size and are visible directly with naked eye."
   },
   {
@@ -1616,7 +1616,7 @@ export const da121LectureQuestions: Question[] = [
     lectureNo: 3,
     question: "Clay particles are defined as having a size less than:",
     options: ["0.002 mm", "0.00002 mm", "0.02 mm", "0.0002 mm"],
-    correct: 2,
+    correct: 0,
     explanation: "As per DA-121 notes: Clay (sticky) particles are < 0.002 mm and are visible only with Electron Microscope."
   },
   {
@@ -1626,7 +1626,7 @@ export const da121LectureQuestions: Question[] = [
     lectureNo: 3,
     question: "Silt particles range in size from:",
     options: ["0.2-2.0 mm", "0.02-0.2 mm", "< 0.002 mm", "0.002-0.02 mm"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-121 notes: Silt (powdery) particles are 0.002-0.02 mm and are visible with a regular microscope."
   },
   {
@@ -1636,7 +1636,7 @@ export const da121LectureQuestions: Question[] = [
     lectureNo: 2,
     question: "The surface soil depth is defined as:",
     options: ["0-30 cm", "30-60 cm", "> 30 cm", "0-15 cm"],
-    correct: 2,
+    correct: 0,
     explanation: "As per DA-121 notes: Surface soil depth is 0-30 cm, which has more organic matter, porosity, biological activity, and nutrient availability than subsoil."
   },
   {
@@ -1646,7 +1646,7 @@ export const da121LectureQuestions: Question[] = [
     lectureNo: 4,
     question: "Soil texture refers to the relative proportions of:",
     options: ["Sand, silt and clay in the soil", "Nitrogen, phosphorus and potassium", "Macro and micro aggregates", "Organic matter, minerals, water and air"],
-    correct: 3,
+    correct: 0,
     explanation: "As per DA-121 notes: Soil texture refers to the relative proportions of different sized particles (sand, silt and clay) in the soil."
   },
   {
@@ -1716,7 +1716,7 @@ export const da121LectureQuestions: Question[] = [
     lectureNo: 8,
     question: "The Permanent Wilting Point (PWP) occurs at a soil moisture tension of approximately:",
     options: ["0.33 bar", "15 bar", "0.1 bar", "1 bar"],
-    correct: 2,
+    correct: 1,
     explanation: "As per DA-121 notes: The Permanent Wilting Point (PWP) occurs at approximately 15 bars tension, at which plants can no longer extract water from soil and wilt permanently."
   },
   {
@@ -1766,7 +1766,7 @@ export const da121LectureQuestions: Question[] = [
     lectureNo: 13,
     question: "Humus refers to:",
     options: ["Living soil microorganisms", "Stable, dark-coloured, colloidal end product of organic matter decomposition", "Fresh undecomposed plant material", "Clay minerals in soil"],
-    correct: 2,
+    correct: 1,
     explanation: "As per DA-121 notes: Humus is the stable, dark-coloured, colloidal end product of organic matter decomposition. It improves soil structure, water-holding capacity, and nutrient availability."
   },
   {
@@ -1856,7 +1856,7 @@ export const da121LectureQuestions: Question[] = [
     lectureNo: 21,
     question: "Saline soils are characterized by an Electrical Conductivity (EC) greater than:",
     options: ["8 dS/m", "2 dS/m", "12 dS/m", "4 dS/m"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-121 notes: Saline soils have an Electrical Conductivity (EC) greater than 4 dS/m (mmhos/cm), with pH below 8.5."
   },
   {
@@ -1886,7 +1886,7 @@ export const da121LectureQuestions: Question[] = [
     lectureNo: 22,
     question: "Lime (CaCO3) is used for reclamation of:",
     options: ["Waterlogged soils", "Sodic soils", "Acid soils", "Saline soils"],
-    correct: 1,
+    correct: 2,
     explanation: "As per DA-121 notes: Agricultural lime (CaCO3) is used for reclamation of acid soils by neutralizing acidity and increasing pH."
   },
   {
@@ -1906,7 +1906,7 @@ export const da121LectureQuestions: Question[] = [
     lectureNo: 23,
     question: "Laterite soils are formed due to:",
     options: ["Deposition of river sediments", "Volcanic activity", "Intensive leaching in high rainfall areas leaving Fe and Al oxides", "Wind deposition"],
-    correct: 0,
+    correct: 2,
     explanation: "As per DA-121 notes: Laterite soils are formed due to intensive leaching in high rainfall areas, leaving iron and aluminium oxides. They are low in fertility."
   },
   {
@@ -1946,7 +1946,7 @@ export const da121LectureQuestions: Question[] = [
     lectureNo: 26,
     question: "Phosphorus deficiency in plants shows:",
     options: ["Interveinal chlorosis", "Yellowing of older leaves", "Purple or reddish coloration of leaves (due to anthocyanin accumulation)", "Tip burn"],
-    correct: 1,
+    correct: 2,
     explanation: "As per DA-121 notes: Phosphorus deficiency causes purple or reddish coloration of leaves due to accumulation of anthocyanins. Roots are also stunted."
   },
   {
@@ -1966,7 +1966,7 @@ export const da121LectureQuestions: Question[] = [
     lectureNo: 26,
     question: "Calcium deficiency primarily affects:",
     options: ["Stem tissues only", "Only the roots", "Older mature leaves", "Young tissues and growing points (meristematic tissues)"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-121 notes: Calcium is immobile in plants, so deficiency first appears in young tissues and growing points (meristems), causing tip burn in lettuce, blossom-end rot in tomato."
   },
   {
@@ -1976,7 +1976,7 @@ export const da121LectureQuestions: Question[] = [
     lectureNo: 27,
     question: "Iron deficiency shows which characteristic symptom?",
     options: ["Yellowing starting from old leaves", "Marginal burning of leaves", "Purple coloration", "Interveinal chlorosis on young leaves (veins remain green, between veins turn yellow)"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-121 notes: Iron deficiency causes interveinal chlorosis on young leaves where veins remain green but the area between veins turns yellow."
   },
   {
@@ -1996,7 +1996,7 @@ export const da121LectureQuestions: Question[] = [
     lectureNo: 27,
     question: "Boron deficiency causes which characteristic symptoms?",
     options: ["Purple leaf coloration", "Brown leaf tips", "Death of growing points, malformation of fruits and hollow heart in crops like cauliflower", "Interveinal chlorosis"],
-    correct: 3,
+    correct: 2,
     explanation: "As per DA-121 notes: Boron deficiency causes death of growing points (terminal buds), malformation of fruits, and hollow heart disease in cauliflower and beet."
   },
   {
@@ -2016,7 +2016,7 @@ export const da121LectureQuestions: Question[] = [
     lectureNo: 30,
     question: "Site Specific Nutrient Management (SSNM) is based on:",
     options: ["Using only organic fertilisers", "Applying maximum possible nutrients", "Applying uniform fertiliser to entire farm", "Tailoring nutrient application based on specific soil and crop needs of each location"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-121 notes: SSNM involves tailoring nutrient applications to match the specific needs of the crop and the supply from the soil at each site for optimal efficiency."
   },
   {
@@ -2026,7 +2026,7 @@ export const da121LectureQuestions: Question[] = [
     lectureNo: 31,
     question: "Soil pollution is primarily caused by:",
     options: ["Natural weathering of rocks", "Excessive use of agrochemicals, industrial waste, and heavy metals", "Water movement", "Wind action"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-121 notes: Soil pollution is primarily caused by excessive use of agrochemicals (pesticides, fertilizers), industrial waste, heavy metals, and plastic pollution."
   },
   {
@@ -2116,7 +2116,7 @@ export const da121LectureQuestions: Question[] = [
     lectureNo: 27,
     question: "Manganese deficiency appears as:",
     options: ["Interveinal chlorosis on young leaves with grey or tan spots", "Necrotic tips", "Yellowing from older leaves", "Purple coloration"],
-    correct: 2,
+    correct: 0,
     explanation: "As per DA-121 notes: Manganese deficiency causes interveinal chlorosis on young leaves with grey or tan-coloured spots (grey speck disease in oats)."
   },
   {
@@ -2136,7 +2136,7 @@ export const da121LectureQuestions: Question[] = [
     lectureNo: 28,
     question: "The correct sequence of nutrient availability at different pH levels shows that phosphorus availability is maximum at pH:",
     options: ["4-5", "5-6", "6.5-7.5", "8-9"],
-    correct: 0,
+    correct: 2,
     explanation: "As per DA-121 notes: Phosphorus availability is maximum at pH 6.5-7.5. Below 5.5, P is fixed by Fe and Al; above 7.5, P is fixed by Ca."
   },
   {
@@ -2186,7 +2186,7 @@ export const da121LectureQuestions: Question[] = [
     lectureNo: 3,
     question: "Organic matter in soil improves which property?",
     options: ["Only colour", "Only soil pH", "Only drainage", "Soil structure, water holding capacity, CEC, and microbial activity"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-121 notes: Soil organic matter improves soil structure, water holding capacity, CEC, microbial activity, nutrient availability and reduces erosion."
   },
   {
@@ -2206,7 +2206,7 @@ export const da121LectureQuestions: Question[] = [
     lectureNo: 23,
     question: "Red soils of India are red due to:",
     options: ["High copper content", "Low organic matter", "High manganese content", "Presence of iron oxide (Fe2O3)"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-121 notes: Red soils are red due to the presence of iron oxide (Fe2O3 - haematite) which gives them their characteristic reddish colour."
   },
   {
@@ -2216,7 +2216,7 @@ export const da121LectureQuestions: Question[] = [
     lectureNo: 5,
     question: "The main agent responsible for improving soil aggregate stability is:",
     options: ["Organic matter and microbial activity", "Soil temperature", "Inorganic salts", "Sand particles"],
-    correct: 3,
+    correct: 0,
     explanation: "As per DA-121 notes: Organic matter and microbial exudates (polysaccharides, fungal hyphae) are the main agents responsible for improving soil aggregate stability."
   },
   {
@@ -2236,7 +2236,7 @@ export const da121LectureQuestions: Question[] = [
     lectureNo: 17,
     question: "Anion Exchange Capacity (AEC) is primarily found in:",
     options: ["Clay-dominated alkaline soils", "Sandy soils", "Black cotton soils", "Highly weathered tropical soils with iron and aluminium oxides"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-121 notes: AEC is found primarily in highly weathered tropical soils rich in iron and aluminium oxides which can carry positive charges and adsorb anions."
   },
   {

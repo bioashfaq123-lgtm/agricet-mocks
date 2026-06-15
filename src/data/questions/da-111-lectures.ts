@@ -563,7 +563,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 4,
     question: "The bulk method of breeding self-pollinated crops differs from the pedigree method in that:",
     options: ["Backcrossing is used repeatedly to the better adapted parent", "F2-F5 populations are grown in bulk without individual selection", "Individual plant selection and pedigree records are maintained strictly", "Single seeds from each F2 plant are selected to advance generations"],
-    correct: 1,
+    correct: 2,
     explanation: "In the bulk method, F2 to F5 populations are grown in bulk (mass). Seeds are harvested together without individual plant selection. Natural selection operates during this period. Individual plant selection and line development begins only in F5 or F6."
   },
   {
@@ -1551,7 +1551,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 1,
     question: "The process of bringing a wild species under human management is called:",
     options: ["Selection", "Domestication", "Hybridization", "Mutation"],
-    correct: 2,
+    correct: 1,
     explanation: "As per DA-111 notes: The process of bringing a wild species under human management is referred to as domestication. Domestication may be the most basic method of plant breeding."
   },
   {
@@ -1571,7 +1571,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 1,
     question: "Who is known as the 'Father of Botany'?",
     options: ["Theophrastus", "Gregor John Mendel", "Charles Darwin", "Hugo de Vries"],
-    correct: 1,
+    correct: 0,
     explanation: "As per DA-111 notes: Theophrastus (300 BC) is known as the Father of Botany."
   },
   {
@@ -1601,7 +1601,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 1,
     question: "Watson and Crick proposed which structure in 1953?",
     options: ["Genetic code", "Double helix structure of DNA", "Pureline theory", "Chromosome theory"],
-    correct: 3,
+    correct: 1,
     explanation: "As per DA-111 notes: Watson and Crick (1953) proposed the double helix structure of the DNA molecule."
   },
   {
@@ -1611,7 +1611,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 1,
     question: "Who proposed the pureline theory in 1903?",
     options: ["H.J. Muller", "Hugo de Vries", "G.H. Shull", "W.L. Johannsen"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-111 notes: W.L. Johannsen (1903) proposed the pureline theory that provided the genetic basis for individual plant selection."
   },
   {
@@ -1631,7 +1631,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 1,
     question: "Who coined the term 'Biotechnology'?",
     options: ["Watson and Crick", "Karl Ereky", "Hugo de Vries", "Har Gobind Khorana"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-111 notes: Karl Ereky coined the term Biotechnology."
   },
   {
@@ -1691,7 +1691,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 2,
     question: "In cotton, crop maturity has been reduced from 270 days to approximately:",
     options: ["180 days", "200 days", "120 days", "170 days"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-111 notes: Through plant breeding, maturity has been reduced from 270 days to 170 days in cotton."
   },
   {
@@ -1701,7 +1701,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 2,
     question: "In pigeonpea (redgram), crop maturity has been reduced from 270 days to:",
     options: ["180 days", "90 days", "150 days", "120 days"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-111 notes: Through plant breeding, maturity in pigeonpea has been reduced from 270 days to 120 days."
   },
   {
@@ -1721,7 +1721,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 2,
     question: "Gossypol, a toxic substance found in cotton seeds, is harmful for:",
     options: ["Human consumption", "Root fungi", "Soil bacteria", "Bees"],
-    correct: 3,
+    correct: 0,
     explanation: "As per DA-111 notes: Gossypol from cotton seed is harmful for human consumption. Removal of gossypol from cotton seed would increase its nutritional value."
   },
   {
@@ -1751,7 +1751,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 3,
     question: "Plants having male and female flowers borne on separate plants are called:",
     options: ["Dioecious", "Bisexual", "Monoecious", "Hermaphrodite"],
-    correct: 2,
+    correct: 0,
     explanation: "As per DA-111 notes: Species with male and female flowers borne on separate plants are termed dioecious (two homes). Examples: Papaya, Cannabis, date palm."
   },
   {
@@ -1761,7 +1761,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 3,
     question: "Corn (maize) is an example of which type of plant?",
     options: ["Monoecious", "Hermaphrodite", "Dioecious", "Bisexual"],
-    correct: 2,
+    correct: 0,
     explanation: "As per DA-111 notes: If both male and female flowers are borne on the same plant, the species is called monoecious. Examples include corn, pea, colocasia, castor, coconut."
   },
   {
@@ -1771,7 +1771,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 3,
     question: "The female reproductive organ of a flower is called:",
     options: ["Perianth", "Gynoecium", "Corolla", "Androecium"],
-    correct: 3,
+    correct: 1,
     explanation: "As per DA-111 notes: The innermost group of structures in the flower is the gynoecium, or the female reproductive component(s)."
   },
   {
@@ -1821,7 +1821,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 3,
     question: "The finger-like protruded structures present on synergids are called:",
     options: ["Micropyle", "Funicle", "Raphe", "Filiform apparatus"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-111 notes: Finger-like protruded structures present on synergids are called filiform apparatus. Synergids help guide the pollen tube for successful fertilization."
   },
   {
@@ -1871,7 +1871,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 6,
     question: "Pure Line Selection is effective in which type of crop?",
     options: ["Cross-pollinated crops", "Self-pollinated crops", "Vegetatively propagated crops", "Dioecious crops"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-111 notes: Pure Line Selection is most effective in self-pollinated crops where a pure line represents a genetically uniform population."
   },
   {
@@ -1891,7 +1891,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 8,
     question: "The variety that results from crossing two genetically different parents and their F1 hybrid is used directly is called:",
     options: ["Multiline variety", "Single cross hybrid", "Pure line variety", "Composite variety"],
-    correct: 2,
+    correct: 1,
     explanation: "As per DA-111 notes: A single cross hybrid is obtained by crossing two inbred lines (parents); the resulting F1 generation is used directly as the commercial hybrid variety."
   },
   {
@@ -1911,7 +1911,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 10,
     question: "Backcross breeding is used mainly for:",
     options: ["Developing new crop species", "Inducing mutations", "Transferring one or few genes into an adapted variety", "Creating all new genetic combinations"],
-    correct: 0,
+    correct: 2,
     explanation: "As per DA-111 notes: Backcross breeding is used for transferring one or a few genes (like disease resistance) into an already adapted variety without changing other characteristics."
   },
   {
@@ -1941,7 +1941,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 13,
     question: "Tissue culture in plant breeding is used for:",
     options: ["Weather forecasting", "Rapid multiplication, production of disease-free plants, and haploid production", "Only disease diagnosis", "Chemical analysis of plants"],
-    correct: 2,
+    correct: 1,
     explanation: "As per DA-111 notes: Tissue culture is used for rapid multiplication, production of disease-free plants, haploid production via anther culture, and somatic hybridization."
   },
   {
@@ -1981,7 +1981,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 17,
     question: "A germplasm collection is maintained to:",
     options: ["Test herbicides on different varieties", "Preserve genetic diversity and provide material for breeding programs", "Measure productivity of different varieties", "Produce commercial seeds only"],
-    correct: 3,
+    correct: 1,
     explanation: "As per DA-111 notes: Germplasm collections (gene banks) are maintained to preserve genetic diversity and provide breeding material for crop improvement programs."
   },
   {
@@ -1991,7 +1991,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 18,
     question: "Which organisation in India is responsible for plant variety protection?",
     options: ["NSC", "Protection of Plant Varieties and Farmers Rights Authority (PPV&FRA)", "ICAR", "NBPGR"],
-    correct: 2,
+    correct: 1,
     explanation: "As per DA-111 notes: The Protection of Plant Varieties and Farmers Rights Authority (PPV&FRA) under the PPV&FR Act 2001 is responsible for plant variety protection in India."
   },
   {
@@ -2071,7 +2071,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 40,
     question: "Seed certification is done by:",
     options: ["State Seed Certification Agency", "Private companies only", "Farmers themselves", "ICAR directly"],
-    correct: 2,
+    correct: 0,
     explanation: "As per DA-111 notes: Seed certification is done by State Seed Certification Agencies (SSCAs) established in each state."
   },
   {
@@ -2081,7 +2081,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 41,
     question: "Which method is used to test seed moisture content?",
     options: ["Cut test", "Hot air oven method", "Sand germination test", "Tetrazolium test"],
-    correct: 3,
+    correct: 1,
     explanation: "As per DA-111 notes: Seed moisture content is measured using the hot air oven method (standard method) or electric moisture meters."
   },
   {
@@ -2091,7 +2091,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 42,
     question: "The tetrazolium test (TZ test) is used to determine:",
     options: ["Seed germination percentage", "Seed viability and vigour (quick test)", "Seed purity", "Seed moisture content"],
-    correct: 3,
+    correct: 1,
     explanation: "As per DA-111 notes: The tetrazolium test (TZ test) is used to quickly determine seed viability and vigor. Living cells reduce TZ solution to red-colored formazan."
   },
   {
@@ -2101,7 +2101,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 43,
     question: "Seed dormancy is defined as:",
     options: ["Loss of seed viability", "Physical hardness of seed coat", "A state in which seeds fail to germinate even under favorable conditions", "The ability of a seed to germinate immediately after harvest"],
-    correct: 3,
+    correct: 2,
     explanation: "As per DA-111 notes: Seed dormancy is a state in which seeds fail to germinate even under apparently favorable environmental conditions."
   },
   {
@@ -2111,7 +2111,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 44,
     question: "Hard seed coat is a type of seed dormancy in which seeds fail to germinate because:",
     options: ["Seeds lack nutrition", "Seeds have inhibitory chemicals", "Embryo is immature", "Seed coat is impermeable to water and gases"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-111 notes: Hard seed dormancy (physical dormancy) occurs because the seed coat is impermeable to water and gases, preventing germination. Scarification helps break it."
   },
   {
@@ -2141,7 +2141,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 47,
     question: "Seed priming involves:",
     options: ["Storing seeds at high temperature", "Mechanical scarification of seeds", "Controlled hydration of seeds to pre-germination stage without radicle emergence", "Coating seeds with fungicides"],
-    correct: 3,
+    correct: 2,
     explanation: "As per DA-111 notes: Seed priming involves controlled hydration of seeds to allow pre-germinative metabolic processes to occur without radicle protrusion, improving germination speed and uniformity."
   },
   {
@@ -2171,7 +2171,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 36,
     question: "Which act governs seed quality and regulation in India?",
     options: ["Prevention of Food Adulteration Act", "Seeds Act, 1966", "Plant Quarantine Act", "Insecticides Act, 1968"],
-    correct: 2,
+    correct: 1,
     explanation: "As per DA-111 notes: The Seeds Act, 1966 is the main legislation that governs seed quality, certification, and regulation in India."
   },
   {
@@ -2181,7 +2181,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 3,
     question: "The opening in the integuments of an ovule through which the pollen tube enters is called:",
     options: ["Hilum", "Raphe", "Funicle", "Micropyle"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-111 notes: The integuments enclose the nucellus and leave an opening at the top of the ovule called micropyle. The pollen tube enters the embryo sac through the micropyle."
   },
   {
@@ -2191,7 +2191,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 19,
     question: "Suvin cotton variety with 120 counts is equivalent to which country's cotton?",
     options: ["Brazilian cotton", "American cotton", "Egyptian cotton", "Chinese cotton"],
-    correct: 1,
+    correct: 2,
     explanation: "As per DA-111 notes: Suvin cotton with 120 counts is as equivalent to Egyptian cotton in quality. It was one of the greatest achievements in Cotton Research in India."
   },
   {
@@ -2201,7 +2201,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 1,
     question: "Har Gobind Khorana is known for:",
     options: ["Artificial synthesis of gene", "Inventing electron microscope", "Proposing double helix DNA structure", "Proposing chromosome theory"],
-    correct: 2,
+    correct: 0,
     explanation: "As per DA-111 notes: Har Gobind Khorana is known for the artificial synthesis of gene, one of the landmark achievements in molecular biology."
   },
   {
@@ -2211,7 +2211,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 1,
     question: "Knoll and Ruska (1932) built the first:",
     options: ["Light microscope", "Scanning electron microscope", "Phase contrast microscope", "Transmission electron microscope"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-111 notes: Knoll and Ruska (1932) built the first transmission electron microscope, making study of cells and cell organelles easier."
   },
   {

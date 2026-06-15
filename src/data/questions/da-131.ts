@@ -662,7 +662,7 @@ export const da131Questions: Question[] = [
     subject: "da-131",
     question: "In mechanical methods of pest control, tin bands fixed over coconut palms are used to prevent damage by:",
     options: ["Coconut black headed caterpillar", "Rats", "Mealybugs", "Rhinoceros beetle"],
-    correct: 1,
+    correct: 3,
     explanation: "Tin bands are fixed over coconut palms to prevent damage by rats. Extraction of adult Rhinoceros beetle (Oryctes rhinoceros) from the crown of coconut trees uses an arrow headed rod/hook. Alkathene bands around mango tree trunks check migration of mealybug nymphs."
   },
   {

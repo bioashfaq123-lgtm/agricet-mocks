@@ -902,7 +902,7 @@ export const da241LectureQuestions: Question[] = [
     lectureNo: 4,
     question: "When Total Product (TP) is at its maximum, the Marginal Product (MP) is:",
     options: ["Maximum", "Negative", "Zero", "Equal to Average Product"],
-    correct: 2,
+    correct: 0,
     explanation: "When Marginal Product is zero, the Total Physical Product is maximum. When MP declines to zero, TP reaches its peak. After that, MP becomes negative and TP starts declining."
   },
   {
@@ -1792,7 +1792,7 @@ export const da241LectureQuestions: Question[] = [
     lectureNo: 39,
     question: "Why does the price of agricultural products fluctuate substantially compared to manufactured goods?",
     options: ["Manufactured goods have more substitutes", "Irregular and uncertain supply combined with relatively constant demand", "Agricultural products have higher quality than manufactured goods", "Government interference in agricultural markets is excessive"],
-    correct: 1,
+    correct: 2,
     explanation: "Supply of agricultural products is uncertain and irregular because of dependence on natural conditions. With varying supply and demand remaining almost constant, prices of agricultural products fluctuate substantially. Manufactured goods can adjust supply to be uniform throughout the year."
   },
   {

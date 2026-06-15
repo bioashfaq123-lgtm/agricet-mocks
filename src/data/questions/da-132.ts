@@ -774,7 +774,7 @@ export const da132Questions: Question[] = [
     subject: "da-132",
     question: "The Mango Hopper management spray schedule recommends that insecticides should NOT be sprayed during:",
     options: ["At flower bud initiation stage", "Fruit development stage", "During anthesis (flower opening) and pollination", "After fruit set at pea size"],
-    correct: 2,
+    correct: 0,
     explanation: "Mango Hopper spray schedule: at flower bud initiation — carbaryl 3 g/l; at emergence of inflorescence stalks and before anthesis — dimethoate 2 ml/l or thiamethoxam 0.3 g/l. Insecticides should NOT be sprayed during anthesis and pollination to protect pollinators."
   },
   {

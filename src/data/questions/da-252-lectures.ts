@@ -2077,7 +2077,7 @@ export const da252LectureQuestions: Question[] = [
     lectureNo: 39,
     question: "Manning's roughness coefficient 'n' for an irrigation canal lined with concrete is approximately:",
     options: ["0.025–0.030", "0.100–0.150", "0.040–0.060", "0.010–0.014"],
-    correct: 3,
+    correct: 0,
     explanation: "Manning's n for concrete-lined canals is 0.011–0.014. Unlined earth canals have n = 0.025–0.030. Higher n values indicate rougher surfaces causing slower flow for the same slope and hydraulic radius."
   },
   {
