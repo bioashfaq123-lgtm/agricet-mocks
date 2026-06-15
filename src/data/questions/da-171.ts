@@ -1793,9 +1793,8 @@ export const da171Questions: Question[] = [
     correct: 2,
     explanation: "As per DA-171 notes: Coconut-Budrot, Ganoderma root rot, stem bleeding; Rose-Powdery mildew, Dieback, black spot; Turmeric-Leaf spot, rhizome rot."
   },
-
   {
-    id: "d171x_039",
+    id: "d171x_104",
     subject: "da-171",
     lecture: "lecture-1",
     lectureNo: 1,

@@ -1927,7 +1927,7 @@ export const da281LectureQuestions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d281l_168",
+    id: "d281l_201",
     subject: "da-281",
     lecture: "lecture-1",
     lectureNo: 1,

@@ -1793,9 +1793,8 @@ export const da132Questions: Question[] = [
     correct: 2,
     explanation: "As per DA-132 notes: Rice-rice gall midge, Mango-leaf gallmidge, Sesamum-gall fly."
   },
-
   {
-    id: "d132x_011",
+    id: "d132x_104",
     subject: "da-132",
     lecture: "lecture-1",
     lectureNo: 1,

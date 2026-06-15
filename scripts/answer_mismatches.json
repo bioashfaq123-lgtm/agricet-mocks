@@ -1,0 +1,994 @@
+{
+  "computer-applications.ts": [
+    {
+      "id": "ca022",
+      "currentCorrect": 1,
+      "currentOpt": "DIR",
+      "suggestedCorrect": 2,
+      "suggestedOpt": "FORMAT",
+      "opts": [
+        "COPY",
+        "DIR",
+        "FORMAT",
+        "DEL"
+      ],
+      "explanation": "DIR command in DOS displays the directory of file names, file size, date and time of creation. DIR/P pauses after each s"
+    },
+    {
+      "id": "ca046",
+      "currentCorrect": 0,
+      "currentOpt": "Machine languages (1st generation)",
+      "suggestedCorrect": 2,
+      "suggestedOpt": "High-level languages (3rd generation)",
+      "opts": [
+        "Machine languages (1st generation)",
+        "Assembly languages (2nd generation)",
+        "High-level languages (3rd generation)",
+        "4th generation languages"
+      ],
+      "explanation": "Machine Languages (1st generation) use binary codes (0 and 1). They are machine dependent. Assembly Languages (2nd gener"
+    }
+  ],
+  "crop-physiology.ts": [
+    {
+      "id": "cp044",
+      "currentCorrect": 1,
+      "currentOpt": "Blue light and low CO₂",
+      "suggestedCorrect": 0,
+      "suggestedOpt": "Darkness",
+      "opts": [
+        "Darkness",
+        "Blue light and low CO₂",
+        "High CO₂ concentration",
+        "ABA treatment"
+      ],
+      "explanation": "Stomata open in response to blue light (which activates proton pumps in guard cells) and low CO₂ concentration. They clo"
+    }
+  ],
+  "da-101-lectures.ts": [
+    {
+      "id": "d101l_023",
+      "currentCorrect": 1,
+      "currentOpt": "September–November",
+      "suggestedCorrect": 0,
+      "suggestedOpt": "February–March",
+      "opts": [
+        "February–March",
+        "September–November",
+        "April–May",
+        "June–July"
+      ],
+      "explanation": "Rabi crops are sown in October–November after the monsoon recedes and are harvested in February–March."
+    },
+    {
+      "id": "d101l_067",
+      "currentCorrect": 2,
+      "currentOpt": "Applying nitrogen fertilizer to standing crops after establishment",
+      "suggestedCorrect": 0,
+      "suggestedOpt": "Applying fertilizer at the time of last ploughing under standard field conditions",
+      "opts": [
+        "Applying fertilizer at the time of last ploughing under standard field conditions",
+        "Foliar application of micronutrients under standard field conditions",
+        "Applying nitrogen fertilizer to standing crops after establishment",
+        "Deep placement of phosphate fertilizers under standard field conditions"
+      ],
+      "explanation": "Top dressing is applying fertilizers (mainly N) to standing crops after establishment (e.g., at tillering, jointing stag"
+    }
+  ],
+  "da-101.ts": [
+    {
+      "id": "d101_096",
+      "currentCorrect": 0,
+      "currentOpt": "Both Northern and Central Telangana Zones",
+      "suggestedCorrect": 2,
+      "suggestedOpt": "Central Telangana Zone only",
+      "opts": [
+        "Both Northern and Central Telangana Zones",
+        "Southern Telangana Zone only",
+        "Central Telangana Zone only",
+        "All three Telangana zones equally"
+      ],
+      "explanation": "Red chalka soils are predominant in both the Northern Telangana Zone and the Central Telangana Zone. Southern Telangana "
+    }
+  ],
+  "da-102-lectures.ts": [
+    {
+      "id": "d102l_029",
+      "currentCorrect": 3,
+      "currentOpt": "Female flowers (pistillate)",
+      "suggestedCorrect": 1,
+      "suggestedOpt": "Male flowers",
+      "opts": [
+        "Vegetative buds",
+        "Male flowers",
+        "Both male and female",
+        "Female flowers (pistillate)"
+      ],
+      "explanation": "The ear bears female flowers; silk represents the stigma and style."
+    },
+    {
+      "id": "d102l_059",
+      "currentCorrect": 0,
+      "currentOpt": "Both A and B",
+      "suggestedCorrect": 1,
+      "suggestedOpt": "Mancozeb",
+      "opts": [
+        "Both A and B",
+        "Mancozeb",
+        "Neither A nor B",
+        "Carbendazim"
+      ],
+      "explanation": "Both carbendazim and mancozeb are effective against Tikka/leaf spot of groundnut."
+    },
+    {
+      "id": "d102l_102",
+      "currentCorrect": 2,
+      "currentOpt": "All of the above",
+      "suggestedCorrect": 0,
+      "suggestedOpt": "MGG-347",
+      "opts": [
+        "MGG-347",
+        "CO-4",
+        "All of the above",
+        "Pusa Vishal"
+      ],
+      "explanation": "Several varieties like Pusa Vishal, MGG-347, and others have tolerance/resistance to YMV."
+    },
+    {
+      "id": "d102x_062",
+      "currentCorrect": 1,
+      "currentOpt": "20-25 kg/acre",
+      "suggestedCorrect": 3,
+      "suggestedOpt": "30-36 kg/acre",
+      "opts": [
+        "10-15 kg/acre",
+        "20-25 kg/acre",
+        "40-50 kg/acre",
+        "30-36 kg/acre"
+      ],
+      "explanation": "As per DA-102 notes: Seed rate for dry paddy is 20-25 kg per acre, while seed drill (rainfed) requires 30-36 kg/acre."
+    }
+  ],
+  "da-102.ts": [
+    {
+      "id": "d102_093",
+      "currentCorrect": 3,
+      "currentOpt": "60×60 cm spacing for napier",
+      "suggestedCorrect": 1,
+      "suggestedOpt": "90×90 cm for intercropping napier",
+      "opts": [
+        "30×30 cm spacing for napier",
+        "90×90 cm for intercropping napier",
+        "50×50 cm spacing for napier",
+        "60×60 cm spacing for napier"
+      ],
+      "explanation": "Napier grass spacing is 60×60 cm, and 80,000 rooted slips or stem cuttings per ha are required. 90×90 cm for intercroppi"
+    },
+    {
+      "id": "d102x_062",
+      "currentCorrect": 2,
+      "currentOpt": "20-25 kg/acre",
+      "suggestedCorrect": 3,
+      "suggestedOpt": "30-36 kg/acre",
+      "opts": [
+        "10-15 kg/acre",
+        "40-50 kg/acre",
+        "20-25 kg/acre",
+        "30-36 kg/acre"
+      ],
+      "explanation": "As per DA-102 notes: Seed rate for dry paddy is 20-25 kg per acre, while seed drill (rainfed) requires 30-36 kg/acre."
+    }
+  ],
+  "da-111-lectures.ts": [
+    {
+      "id": "d111l_109",
+      "currentCorrect": 3,
+      "currentOpt": "The treated generation itself — seeds or plants exposed to mutagen",
+      "suggestedCorrect": 2,
+      "suggestedOpt": "First selfed generation after mutagen treatment (first selection generation)",
+      "opts": [
+        "First generation after crossing two mutation-treated parents",
+        "The commercially released mutant variety after multi-location testing",
+        "First selfed generation after mutagen treatment (first selection generation)",
+        "The treated generation itself — seeds or plants exposed to mutagen"
+      ],
+      "explanation": "M1 is the first generation — the seeds or plants directly treated with the mutagen. M1 plants are chimeric (mutations in"
+    },
+    {
+      "id": "d111l_123",
+      "currentCorrect": 2,
+      "currentOpt": "Wild paddy (Oryza sativa var. fatua) in rice fields",
+      "suggestedCorrect": 1,
+      "suggestedOpt": "Convolvulus arvensis found in wheat seed crop fields",
+      "opts": [
+        "Chicory (Cichorium intybus) found in berseem fields",
+        "Convolvulus arvensis found in wheat seed crop fields",
+        "Wild paddy (Oryza sativa var. fatua) in rice fields",
+        "Argemone mexicana found in mustard seed crop fields"
+      ],
+      "explanation": "Wild paddy (Oryza sativa var. fatua) is the objectionable weed in paddy seed crops. It contaminates the variety and redu"
+    }
+  ],
+  "da-111.ts": [
+    {
+      "id": "d111_054",
+      "currentCorrect": 0,
+      "currentOpt": "Spindle fibre formation during anaphase of meiosis",
+      "suggestedCorrect": 2,
+      "suggestedOpt": "Chromosome replication in dividing plant cells",
+      "opts": [
+        "Spindle fibre formation during anaphase of meiosis",
+        "Protein synthesis in the ribosomal machinery",
+        "Chromosome replication in dividing plant cells",
+        "DNA replication during the S phase of cell cycle"
+      ],
+      "explanation": "In anaphase of meiosis division, colchicine inhibits formation of spindle fibres, but does not inhibit chromosome replic"
+    },
+    {
+      "id": "d111_098",
+      "currentCorrect": 1,
+      "currentOpt": "Wild paddy (Oryza sativa var. Fatua) rice weed",
+      "suggestedCorrect": 0,
+      "suggestedOpt": "Convolvulus arvensis found in wheat fields",
+      "opts": [
+        "Convolvulus arvensis found in wheat fields",
+        "Wild paddy (Oryza sativa var. Fatua) rice weed",
+        "Argemone mexicana found in mustard crop",
+        "Chicory (Chicorum intybus) found in berseem"
+      ],
+      "explanation": "The objectionable weed in paddy seed crop is Wild paddy (Oryza sativa var. Fatua). In wheat, it is Convolvulus arvensis "
+    }
+  ],
+  "da-121-lectures.ts": [
+    {
+      "id": "d121l_069",
+      "currentCorrect": 1,
+      "currentOpt": "Is insoluble in dilute acid but soluble in alkali",
+      "suggestedCorrect": 0,
+      "suggestedOpt": "Is insoluble in both acid and alkali",
+      "opts": [
+        "Is insoluble in both acid and alkali",
+        "Is insoluble in dilute acid but soluble in alkali",
+        "Is soluble in both acid and alkali",
+        "Is soluble in dilute acid but precipitates in alkali"
+      ],
+      "explanation": "Humic acid precipitates when the alkaline extract is acidified (insoluble at pH < 2) but dissolves in alkali. Fulvic aci"
+    },
+    {
+      "id": "d121l_125",
+      "currentCorrect": 0,
+      "currentOpt": "Osmotic stress reducing water uptake ('physiological drought')",
+      "suggestedCorrect": 2,
+      "suggestedOpt": "Specific ion toxicity of Cl⁻ and Na⁺ only",
+      "opts": [
+        "Osmotic stress reducing water uptake ('physiological drought')",
+        "Increase in soil pH reducing nutrient availability",
+        "Specific ion toxicity of Cl⁻ and Na⁺ only",
+        "Destruction of root mycorrhizal associations"
+      ],
+      "explanation": "The primary effect of soil salinity is osmotic — high salt concentration in soil solution lowers water potential, reduci"
+    }
+  ],
+  "da-121.ts": [
+    {
+      "id": "d121_087",
+      "currentCorrect": 3,
+      "currentOpt": "High cation exchange capacity due to large specific surface area per gram",
+      "suggestedCorrect": 0,
+      "suggestedOpt": "High percolation rate and good drainage and air movement facilitation",
+      "opts": [
+        "High percolation rate and good drainage and air movement facilitation",
+        "Non-plastic and non-sticky behavior with low influence of moisture changes",
+        "Chief component is quartz making them chemically inactive and insoluble",
+        "High cation exchange capacity due to large specific surface area per gram"
+      ],
+      "explanation": "Sand particles have LOW cation exchange capacity due to small specific surface area. They are non-plastic, non-sticky, h"
+    },
+    {
+      "id": "d121_093",
+      "currentCorrect": 3,
+      "currentOpt": "Bacteria prefer near neutral to slightly alkaline pH (6.5-8.0); actinomycetes also prefer neutral to alkaline conditions",
+      "suggestedCorrect": 0,
+      "suggestedOpt": "Actinomycetes prefer pH 4.5-6.5 while bacteria prefer strongly alkaline conditions above pH 8.0",
+      "opts": [
+        "Actinomycetes prefer pH 4.5-6.5 while bacteria prefer strongly alkaline conditions above pH 8.0",
+        "Bacteria are active below pH 5.5; actinomycetes prefer strongly acidic conditions below pH 4.5",
+        "Both bacteria and actinomycetes are most active at acidic pH between 4.5 and 6.5",
+        "Bacteria prefer near neutral to slightly alkaline pH (6.5-8.0); actinomycetes also prefer neutral to alkaline conditions"
+      ],
+      "explanation": "Bacteria and actinomycetes prefer near neutral to slightly alkaline reaction (pH 6.5-8.0). They are less active in acidi"
+    }
+  ],
+  "da-122-lectures.ts": [
+    {
+      "id": "d122l_017",
+      "currentCorrect": 0,
+      "currentOpt": "Nutrients in vermicompost are in microbially processed, plant-available forms and it contains plant growth hormones",
+      "suggestedCorrect": 1,
+      "suggestedOpt": "Vermicompost contains higher total nutrient percentages than FYM in soil science under standard field conditions",
+      "opts": [
+        "Nutrients in vermicompost are in microbially processed, plant-available forms and it contains plant growth hormones",
+        "Vermicompost contains higher total nutrient percentages than FYM in soil science under standard field conditions",
+        "Vermicompost is sterile, free from all microorganisms for soil management under standard field conditions",
+        "Vermicompost has higher C:N ratio, releasing nutrients more slowly in soil fertility under standard field conditions"
+      ],
+      "explanation": "Vermicompost contains nutrients (N, P, K) in readily plant-available forms, abundant beneficial microbes, plant growth r"
+    },
+    {
+      "id": "d122l_094",
+      "currentCorrect": 0,
+      "currentOpt": "Convenience of single application, uniform distribution of all nutrients, and often higher nutrient concentration",
+      "suggestedCorrect": 1,
+      "suggestedOpt": "Complex fertilizers are always less expensive than separate fertilizers in soil science",
+      "opts": [
+        "Convenience of single application, uniform distribution of all nutrients, and often higher nutrient concentration",
+        "Complex fertilizers are always less expensive than separate fertilizers in soil science",
+        "Complex fertilizers always contain higher N than separate sources for soil management",
+        "Complex fertilizers contain organic matter unlike individual fertilizers in soil fertility"
+      ],
+      "explanation": "Complex fertilizers offer: single-trip application saving labour, uniform nutrient distribution per granule, higher tota"
+    },
+    {
+      "id": "d122l_098",
+      "currentCorrect": 3,
+      "currentOpt": "Inert material (sand, gypsum, dolomite) added to achieve the desired grade and weight",
+      "suggestedCorrect": 2,
+      "suggestedOpt": "Active nutrient material added to the blend for soil management under standard field conditions",
+      "opts": [
+        "Coating material applied to granules in soil science under standard field conditions",
+        "Micronutrient supplement added at low doses in soil fertility under standard field conditions",
+        "Active nutrient material added to the blend for soil management under standard field conditions",
+        "Inert material (sand, gypsum, dolomite) added to achieve the desired grade and weight"
+      ],
+      "explanation": "Filler materials (sand, gypsum, dolomite) are added to fertilizer blends to make up the weight when active nutrient mate"
+    },
+    {
+      "id": "d122x_011",
+      "currentCorrect": 2,
+      "currentOpt": "Methane (CH4)",
+      "suggestedCorrect": 1,
+      "suggestedOpt": "Carbon dioxide",
+      "opts": [
+        "Nitrogen",
+        "Carbon dioxide",
+        "Methane (CH4)",
+        "Hydrogen"
+      ],
+      "explanation": "As per DA-122 notes: Biogas is mainly composed of Methane (CH4, approximately 55-65%) and Carbon dioxide (35-45%), produ"
+    },
+    {
+      "id": "d122x_015",
+      "currentCorrect": 2,
+      "currentOpt": "Sesbania (Dhaincha)",
+      "suggestedCorrect": 3,
+      "suggestedOpt": "Pongamia",
+      "opts": [
+        "Neem",
+        "Gliricidia",
+        "Sesbania (Dhaincha)",
+        "Pongamia"
+      ],
+      "explanation": "As per DA-122 notes: Sesbania (Dhaincha), Pillipesara, Crotalaria, Horsegram are used as green manure crops in situ. Nee"
+    }
+  ],
+  "da-122.ts": [
+    {
+      "id": "d122x_011",
+      "currentCorrect": 1,
+      "currentOpt": "Methane (CH4)",
+      "suggestedCorrect": 3,
+      "suggestedOpt": "Carbon dioxide",
+      "opts": [
+        "Nitrogen",
+        "Methane (CH4)",
+        "Hydrogen",
+        "Carbon dioxide"
+      ],
+      "explanation": "As per DA-122 notes: Biogas is mainly composed of Methane (CH4, approximately 55-65%) and Carbon dioxide (35-45%), produ"
+    },
+    {
+      "id": "d122x_015",
+      "currentCorrect": 1,
+      "currentOpt": "Sesbania (Dhaincha)",
+      "suggestedCorrect": 2,
+      "suggestedOpt": "Pongamia",
+      "opts": [
+        "Gliricidia",
+        "Sesbania (Dhaincha)",
+        "Pongamia",
+        "Neem"
+      ],
+      "explanation": "As per DA-122 notes: Sesbania (Dhaincha), Pillipesara, Crotalaria, Horsegram are used as green manure crops in situ. Nee"
+    }
+  ],
+  "da-131-lectures.ts": [
+    {
+      "id": "d131l_079",
+      "currentCorrect": 3,
+      "currentOpt": "Coiled proboscis (siphoning)",
+      "suggestedCorrect": 2,
+      "suggestedOpt": "Chewing mouthparts",
+      "opts": [
+        "Piercing and sucking",
+        "Sponging",
+        "Chewing mouthparts",
+        "Coiled proboscis (siphoning)"
+      ],
+      "explanation": "Adult Lepidoptera have coiled siphoning mouthparts (proboscis) for sucking nectar. Larvae have chewing mouthparts."
+    }
+  ],
+  "da-131.ts": [
+    {
+      "id": "d131_071",
+      "currentCorrect": 1,
+      "currentOpt": "Brown Plant Hopper (BPH)",
+      "suggestedCorrect": 0,
+      "suggestedOpt": "Stem borer",
+      "opts": [
+        "Stem borer",
+        "Brown Plant Hopper (BPH)",
+        "Rice hispa leaf miner",
+        "Rice gall midge"
+      ],
+      "explanation": "GEB-24 and MTU-5249 show resistance to paddy BPH (Brown Plant Hopper). Surekha variety is resistant to gall midge, and T"
+    }
+  ],
+  "da-132-lectures.ts": [
+    {
+      "id": "d132l_092",
+      "currentCorrect": 2,
+      "currentOpt": "Acaricides (miticides) like dicofol, spiromesifen, abamectin",
+      "suggestedCorrect": 3,
+      "suggestedOpt": "Conventional insecticides for field crops under standard field conditions",
+      "opts": [
+        "Bt formulations in crop protection under standard field conditions",
+        "NPV in pest management under standard field conditions",
+        "Acaricides (miticides) like dicofol, spiromesifen, abamectin",
+        "Conventional insecticides for field crops under standard field conditions"
+      ],
+      "explanation": "Mites are controlled by specific acaricides (miticides) like dicofol, propargite, abamectin, spiromesifen. Most conventi"
+    }
+  ],
+  "da-132.ts": [
+    {
+      "id": "d132_087",
+      "currentCorrect": 3,
+      "currentOpt": "Platygaster oryzae and Polygnotus sp.",
+      "suggestedCorrect": 1,
+      "suggestedOpt": "Trichogramma chilonis",
+      "opts": [
+        "Bracon brevicornis",
+        "Trichogramma chilonis",
+        "Xanthopimpla emaculata",
+        "Platygaster oryzae and Polygnotus sp."
+      ],
+      "explanation": "Rice Gall Midge (Orseolia oryzae) larvae are naturally parasitised by Platygaster oryzae, Polygnotus sp., and Propicrosc"
+    }
+  ],
+  "da-151-lectures.ts": [
+    {
+      "id": "d151l_016",
+      "currentCorrect": 1,
+      "currentOpt": "High Speed Diesel (HSD)",
+      "suggestedCorrect": 2,
+      "suggestedOpt": "Petrol",
+      "opts": [
+        "CNG",
+        "High Speed Diesel (HSD)",
+        "Petrol",
+        "LPG"
+      ],
+      "explanation": "Virtually all farm tractors in India use High Speed Diesel (HSD) because diesel engines have higher thermal efficiency ("
+    },
+    {
+      "id": "d151x_064",
+      "currentCorrect": 1,
+      "currentOpt": "Simple and cheap construction",
+      "suggestedCorrect": 3,
+      "suggestedOpt": "Complicated and expensive",
+      "opts": [
+        "Has valve mechanism",
+        "Simple and cheap construction",
+        "Has independent lubricating oil circuit",
+        "Complicated and expensive"
+      ],
+      "explanation": "As per DA-151 notes: Two stroke engine - Simple, cheap construction (vs four stroke - complicated and expensive)."
+    }
+  ],
+  "da-151.ts": [
+    {
+      "id": "d151_021",
+      "currentCorrect": 0,
+      "currentOpt": "About 0.20 kg per BHP per hour",
+      "suggestedCorrect": 3,
+      "suggestedOpt": "About 0.29 kg per BHP per hour",
+      "opts": [
+        "About 0.20 kg per BHP per hour",
+        "About 0.50 kg per BHP per hour",
+        "About 0.35 kg per BHP per hour",
+        "About 0.29 kg per BHP per hour"
+      ],
+      "explanation": "The specific fuel consumption of a diesel engine is about 0.2 kg per BHP per hour, while petrol engines consume about 0."
+    },
+    {
+      "id": "d151x_064",
+      "currentCorrect": 2,
+      "currentOpt": "Simple and cheap construction",
+      "suggestedCorrect": 1,
+      "suggestedOpt": "Complicated and expensive",
+      "opts": [
+        "Has valve mechanism",
+        "Complicated and expensive",
+        "Simple and cheap construction",
+        "Has independent lubricating oil circuit"
+      ],
+      "explanation": "As per DA-151 notes: Two stroke engine - Simple, cheap construction (vs four stroke - complicated and expensive)."
+    }
+  ],
+  "da-171.ts": [
+    {
+      "id": "d171_081",
+      "currentCorrect": 3,
+      "currentOpt": "The pathogen itself or its parts or products visible on the diseased host",
+      "suggestedCorrect": 1,
+      "suggestedOpt": "External or internal alteration of the plant due to pathogenic disease",
+      "opts": [
+        "External reaction of the host plant as result of the pathogenic infection",
+        "External or internal alteration of the plant due to pathogenic disease",
+        "Any environmental factor that predisposes the plant to disease infection",
+        "The pathogen itself or its parts or products visible on the diseased host"
+      ],
+      "explanation": "A 'Sign' is the pathogen or its parts or products visible on a diseased host plant (e.g., mycelium, spores, pycnidia, ba"
+    }
+  ],
+  "da-201-lectures.ts": [
+    {
+      "id": "d201l_038",
+      "currentCorrect": 0,
+      "currentOpt": "Pusa Jaikisan (Varuna)",
+      "suggestedCorrect": 1,
+      "suggestedOpt": "Kranti",
+      "opts": [
+        "Pusa Jaikisan (Varuna)",
+        "Kranti",
+        "Pusa Bold",
+        "RH-30"
+      ],
+      "explanation": "Pusa Jaikisan (based on Varuna cross) and RH-30 have improved fatty acid profiles. However, proper 'double zero' (low er"
+    },
+    {
+      "id": "d201l_066",
+      "currentCorrect": 1,
+      "currentOpt": "90×60 cm",
+      "suggestedCorrect": 2,
+      "suggestedOpt": "60×45 cm",
+      "opts": [
+        "120×90 cm",
+        "90×60 cm",
+        "60×45 cm",
+        "30×10 cm"
+      ],
+      "explanation": "Castor hybrids are planted at 90 cm × 60 cm spacing (rows 90 cm apart, plants 60 cm apart) for good canopy development. "
+    },
+    {
+      "id": "d201x_040",
+      "currentCorrect": 1,
+      "currentOpt": "Linoleic acid at 64 percent",
+      "suggestedCorrect": 2,
+      "suggestedOpt": "Oleic acid",
+      "opts": [
+        "Palmitic acid",
+        "Linoleic acid at 64 percent",
+        "Oleic acid",
+        "Stearic acid"
+      ],
+      "explanation": "According to DA-201 notes, sunflower is a rich source of linoleic acid (64%) which helps in reducing cholesterol deposit"
+    }
+  ],
+  "da-201.ts": [
+    {
+      "id": "d201_086",
+      "currentCorrect": 0,
+      "currentOpt": "Long duration variety group",
+      "suggestedCorrect": 2,
+      "suggestedOpt": "Medium duration variety group",
+      "opts": [
+        "Long duration variety group",
+        "Very short duration variety group",
+        "Medium duration variety group",
+        "Short duration variety group"
+      ],
+      "explanation": "Long duration turmeric varieties include Mydukur, Tekuripeta, CLL 326, Armur, Duggirala erupu, Guntur telupu. Medium dur"
+    },
+    {
+      "id": "d201_094",
+      "currentCorrect": 0,
+      "currentOpt": "Extra long staple 32 mm above",
+      "suggestedCorrect": 1,
+      "suggestedOpt": "Superior long staple 27-29.5 mm",
+      "opts": [
+        "Extra long staple 32 mm above",
+        "Superior long staple 27-29.5 mm",
+        "Long staple 24.5-26.5 mm group",
+        "Medium long staple 22-24 mm"
+      ],
+      "explanation": "Extra long staple cotton has fibre length of 32 mm and above. Long staple is 24.5-26.5 mm, Superior long staple is 27.0-"
+    },
+    {
+      "id": "d201x_040",
+      "currentCorrect": 0,
+      "currentOpt": "Stearic acid",
+      "suggestedCorrect": 2,
+      "suggestedOpt": "Oleic acid",
+      "opts": [
+        "Stearic acid",
+        "Linoleic acid (64%)",
+        "Oleic acid",
+        "Palmitic acid"
+      ],
+      "explanation": "According to DA-201 notes, sunflower is a rich source of linoleic acid (64%) which helps in reducing cholesterol deposit"
+    }
+  ],
+  "da-241-lectures.ts": [
+    {
+      "id": "d241x_047",
+      "currentCorrect": 2,
+      "currentOpt": "Single entry system",
+      "suggestedCorrect": 1,
+      "suggestedOpt": "Double entry system",
+      "opts": [
+        "Triple entry system",
+        "Double entry system",
+        "Single entry system",
+        "Cash basis only system"
+      ],
+      "explanation": "Single-entry system is suitable for majority of small Indian farmers. For big farms with many transactions, double entry"
+    }
+  ],
+  "da-241.ts": [
+    {
+      "id": "d241_005",
+      "currentCorrect": 0,
+      "currentOpt": "Net profit (farm income)",
+      "suggestedCorrect": 2,
+      "suggestedOpt": "Total revenue",
+      "opts": [
+        "Net profit (farm income)",
+        "Gross margin",
+        "Total revenue",
+        "Gross income"
+      ],
+      "explanation": "Net profit (farm income) = Total revenue – Total costs (fixed + variable). It represents the actual earnings of the farm"
+    },
+    {
+      "id": "d241_044",
+      "currentCorrect": 0,
+      "currentOpt": "Every rupee of farm income generates additional income in the rest of the economy through backward and forward linkages",
+      "suggestedCorrect": 3,
+      "suggestedOpt": "Agricultural income is progressively reduced by taxes causing decline in rural purchasing power for farm income analysis",
+      "opts": [
+        "Every rupee of farm income generates additional income in the rest of the economy through backward and forward linkages",
+        "Government spending on agriculture subsidies multiplies to create rural non-farm employment in the agricultural economy",
+        "Crop price inflation compounds annually to generate multiple times the original farm income in rural economic context",
+        "Agricultural income is progressively reduced by taxes causing decline in rural purchasing power for farm income analysis"
+      ],
+      "explanation": "Agricultural income multiplier: farm income stimulates demand for non-farm goods and services. Farmers buy: inputs (fert"
+    },
+    {
+      "id": "d241c_067",
+      "currentCorrect": 0,
+      "currentOpt": "The difference between original purchase price and current price of the same asset",
+      "suggestedCorrect": 3,
+      "suggestedOpt": "The original purchase price of an asset in the agricultural economy",
+      "opts": [
+        "The difference between original purchase price and current price of the same asset",
+        "The depreciation charged each year in rural economic context",
+        "The cost of maintaining farm equipment for farm income analysis",
+        "The original purchase price of an asset in the agricultural economy"
+      ],
+      "explanation": "Replacement costs: difference between the purchase price of the asset and the current price of the same asset. Example: "
+    }
+  ],
+  "da-252-lectures.ts": [
+    {
+      "id": "d252y_011",
+      "currentCorrect": 1,
+      "currentOpt": "Emitter (dripper)",
+      "suggestedCorrect": 2,
+      "suggestedOpt": "Lateral",
+      "opts": [
+        "Sub-main",
+        "Emitter (dripper)",
+        "Lateral",
+        "Main line"
+      ],
+      "explanation": "The emitter (dripper) is the critical component that delivers water at a controlled, slow rate (usually 2–8 L/hr) direct"
+    },
+    {
+      "id": "d252z_012",
+      "currentCorrect": 1,
+      "currentOpt": "Field capacity and permanent wilting point",
+      "suggestedCorrect": 2,
+      "suggestedOpt": "Permanent wilting point and oven-dry condition",
+      "opts": [
+        "Saturation point and field capacity",
+        "Field capacity and permanent wilting point",
+        "Permanent wilting point and oven-dry condition",
+        "Field capacity and saturation point"
+      ],
+      "explanation": "AWC = Field Capacity (FC) − Permanent Wilting Point (PWP). This is the water available to plants. FC is at −0.33 bar ten"
+    },
+    {
+      "id": "d252z_016",
+      "currentCorrect": 3,
+      "currentOpt": "Crop water requirement minus effective rainfall",
+      "suggestedCorrect": 0,
+      "suggestedOpt": "Gross irrigation requirement minus conveyance losses",
+      "opts": [
+        "Gross irrigation requirement minus conveyance losses",
+        "Available water capacity minus current soil water content",
+        "Total water applied minus deep percolation losses",
+        "Crop water requirement minus effective rainfall"
+      ],
+      "explanation": "NIR = ETc − Pe, where ETc is crop evapotranspiration and Pe is effective precipitation (usable rainfall). NIR represents"
+    }
+  ],
+  "da-252.ts": [
+    {
+      "id": "d252_025",
+      "currentCorrect": 3,
+      "currentOpt": "Parabolic curves",
+      "suggestedCorrect": 2,
+      "suggestedOpt": "Straight lines",
+      "opts": [
+        "Circular arcs",
+        "Elliptical curves",
+        "Straight lines",
+        "Parabolic curves"
+      ],
+      "explanation": "Simpson's rule assumes that the different parts are portions of parabolic areas, whereas the Trapezoidal rule and other "
+    }
+  ],
+  "da-263-lectures.ts": [
+    {
+      "id": "d263l_015",
+      "currentCorrect": 1,
+      "currentOpt": "will have completed",
+      "suggestedCorrect": 0,
+      "suggestedOpt": "completed",
+      "opts": [
+        "completed",
+        "will have completed",
+        "complete",
+        "have completed"
+      ],
+      "explanation": "Future Perfect (will have + past participle) is used for actions that will be completed before a future time."
+    }
+  ],
+  "da-263.ts": [
+    {
+      "id": "d263_015",
+      "currentCorrect": 1,
+      "currentOpt": "will have completed",
+      "suggestedCorrect": 2,
+      "suggestedOpt": "completed",
+      "opts": [
+        "have completed",
+        "will have completed",
+        "completed",
+        "complete"
+      ],
+      "explanation": "Future Perfect (will have + past participle) is used for actions that will be completed before a future time."
+    },
+    {
+      "id": "d263_151",
+      "currentCorrect": 3,
+      "currentOpt": "Literal dictionary meaning of a word",
+      "suggestedCorrect": 2,
+      "suggestedOpt": "Emotional associations of a word",
+      "opts": [
+        "Sound patterns of a word",
+        "Figurative meaning in context",
+        "Emotional associations of a word",
+        "Literal dictionary meaning of a word"
+      ],
+      "explanation": "Denotation is the direct, literal meaning of a word as found in the dictionary, without emotional associations."
+    }
+  ],
+  "da-281-lectures.ts": [
+    {
+      "id": "d281l_107",
+      "currentCorrect": 2,
+      "currentOpt": "All of the above conditions",
+      "suggestedCorrect": 1,
+      "suggestedOpt": "Rheumatism and blood disorders",
+      "opts": [
+        "Diabetes and skin diseases",
+        "Rheumatism and blood disorders",
+        "All of the above conditions",
+        "Malaria and leprosy"
+      ],
+      "explanation": "Neem bark is used in Ayurveda for multiple conditions including diabetes, malaria, skin diseases, leprosy, rheumatism an"
+    },
+    {
+      "id": "d281l_116",
+      "currentCorrect": 3,
+      "currentOpt": "Both A and C",
+      "suggestedCorrect": 0,
+      "suggestedOpt": "Chrysopogon zizanioides",
+      "opts": [
+        "Chrysopogon zizanioides",
+        "Cymbopogon nardus",
+        "Vetiveria zizanioides",
+        "Both A and C"
+      ],
+      "explanation": "Vetiver/Khus grass was formerly called Vetiveria zizanioides and is now classified as Chrysopogon zizanioides. Both name"
+    }
+  ],
+  "da-282-lectures.ts": [
+    {
+      "id": "d282l_058",
+      "currentCorrect": 2,
+      "currentOpt": "Vitamin C (Ascorbic acid)",
+      "suggestedCorrect": 1,
+      "suggestedOpt": "Vitamin A",
+      "opts": [
+        "Vitamin D",
+        "Vitamin A",
+        "Vitamin C (Ascorbic acid)",
+        "Vitamin B12"
+      ],
+      "explanation": "Guava is one of the richest sources of Vitamin C, containing 200–300 mg per 100 g of fruit, which is 4–5 times more than"
+    },
+    {
+      "id": "d282l_076",
+      "currentCorrect": 3,
+      "currentOpt": "Pythium, Phytophthora and Rhizoctonia species (soil-borne fungi)",
+      "suggestedCorrect": 0,
+      "suggestedOpt": "Phytophthora parasitica only in orchard management",
+      "opts": [
+        "Phytophthora parasitica only in orchard management",
+        "Bacterial canker in horticultural practices",
+        "Leaf curl virus for vegetable cultivation",
+        "Pythium, Phytophthora and Rhizoctonia species (soil-borne fungi)"
+      ],
+      "explanation": "Damping off in tomato nursery is caused by soil-borne fungi including Pythium aphanidermatum, Phytophthora parasitica an"
+    }
+  ],
+  "da-282.ts": [
+    {
+      "id": "d282_011",
+      "currentCorrect": 0,
+      "currentOpt": "Both A and B (different species)",
+      "suggestedCorrect": 1,
+      "suggestedOpt": "Capsicum frutescens for vegetable cultivation",
+      "opts": [
+        "Both A and B (different species)",
+        "Capsicum frutescens for vegetable cultivation",
+        "Capsicum annuum in horticultural practices",
+        "Solanum lycopersicum in orchard management"
+      ],
+      "explanation": "Chilli belongs to genus Capsicum. Sweet pepper and mild chilli are Capsicum annuum. Hot (pungent) chilli is Capsicum fru"
+    },
+    {
+      "id": "d282_208",
+      "currentCorrect": 1,
+      "currentOpt": "Gibberellic acid (GA3)",
+      "suggestedCorrect": 0,
+      "suggestedOpt": "Maleic hydrazide",
+      "opts": [
+        "Maleic hydrazide",
+        "Gibberellic acid (GA3)",
+        "NAA (Naphthalene Acetic Acid)",
+        "Ethephon"
+      ],
+      "explanation": "Gibberellic acid (GA3) at 1-5 ppm is used to break dormancy of potato seed tubers and promote early, uniform sprouting. "
+    },
+    {
+      "id": "d282_209",
+      "currentCorrect": 0,
+      "currentOpt": "Fragaria x ananassa",
+      "suggestedCorrect": 1,
+      "suggestedOpt": "Rubus idaeus",
+      "opts": [
+        "Fragaria x ananassa",
+        "Rubus idaeus",
+        "Vaccinium corymbosum",
+        "Ribes nigrum"
+      ],
+      "explanation": "The cultivated garden strawberry is Fragaria × ananassa, a hybrid of two wild species (F. virginiana × F. chiloensis). R"
+    }
+  ],
+  "da-291-lectures.ts": [
+    {
+      "id": "d291l_056",
+      "currentCorrect": 2,
+      "currentOpt": "Gap between research potential yield and farmers' actual yield",
+      "suggestedCorrect": 0,
+      "suggestedOpt": "Difference between rabi and kharif yields under standard field conditions",
+      "opts": [
+        "Difference between rabi and kharif yields under standard field conditions",
+        "Difference between different crop yields under standard field conditions",
+        "Gap between research potential yield and farmers' actual yield",
+        "Gap between rich and poor farmer yields under standard field conditions"
+      ],
+      "explanation": "Yield gap = difference between research (potential) yield and farmer's actual field yield. FLDs aim to fill this gap by "
+    }
+  ],
+  "da-291.ts": [
+    {
+      "id": "d291_008",
+      "currentCorrect": 3,
+      "currentOpt": "Both method and result demonstrations as two distinct types",
+      "suggestedCorrect": 1,
+      "suggestedOpt": "Method demonstration only showing the process of a practice",
+      "opts": [
+        "Lecture demonstration combining oral explanation with visual aids",
+        "Method demonstration only showing the process of a practice",
+        "Result demonstration only showing the output of a practice",
+        "Both method and result demonstrations as two distinct types"
+      ],
+      "explanation": "Demonstrations are of two types: (1) Result demonstration — shows the end result of a recommended practice (e.g., high y"
+    },
+    {
+      "id": "d291_158",
+      "currentCorrect": 0,
+      "currentOpt": "12-20% of total cost",
+      "suggestedCorrect": 1,
+      "suggestedOpt": "60-70% of total cost",
+      "opts": [
+        "12-20% of total cost",
+        "60-70% of total cost",
+        "80-90% of total cost",
+        "40-50% of total cost"
+      ],
+      "explanation": "The cost of printing in page is 12-20% of total production cost, while paper should not exceed 60-70% of total cost."
+    }
+  ],
+  "meteorology.ts": [
+    {
+      "id": "met006",
+      "currentCorrect": 2,
+      "currentOpt": "Open water evaporation",
+      "suggestedCorrect": 1,
+      "suggestedOpt": "Transpiration",
+      "opts": [
+        "Rainfall",
+        "Transpiration",
+        "Open water evaporation",
+        "Soil moisture"
+      ],
+      "explanation": "Class A pan evaporimeter (1.21m diameter, 25.4cm deep) measures open water (pan) evaporation. Pan evaporation × pan coef"
+    },
+    {
+      "id": "met023",
+      "currentCorrect": 3,
+      "currentOpt": "Longwave or terrestrial radiation",
+      "suggestedCorrect": 0,
+      "suggestedOpt": "Shortwave radiation",
+      "opts": [
+        "Shortwave radiation",
+        "Visible light",
+        "UV radiation",
+        "Longwave or terrestrial radiation"
+      ],
+      "explanation": "Earth emits longwave (terrestrial/infrared) radiation in wavelengths of 4-100 μm. The Sun emits shortwave radiation (0.1"
+    }
+  ],
+  "seed-technology.ts": [
+    {
+      "id": "st005",
+      "currentCorrect": 3,
+      "currentOpt": "Blue",
+      "suggestedCorrect": 0,
+      "suggestedOpt": "Golden yellow",
+      "opts": [
+        "Golden yellow",
+        "White",
+        "Green (Azure blue)",
+        "Blue"
+      ],
+      "explanation": "Certified seeds have BLUE coloured tags in India. Foundation seeds have WHITE tags, Breeder seeds have GOLDEN YELLOW tag"
+    }
+  ]
+}

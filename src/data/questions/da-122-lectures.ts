@@ -2539,9 +2539,8 @@ export const da122LectureQuestions: Question[] = [
     correct: 3,
     explanation: "As per DA-122 notes: INM advantages include improved soil health (OM, microbes), reduced pollution, and optimised resource use. Constraints include transport of bulky manures, slow nutrient release, and higher labour/initial investment."
   },
-
   {
-    id: "d122x_070",
+    id: "d122x_104",
     subject: "da-122",
     lecture: "lecture-20",
     lectureNo: 20,

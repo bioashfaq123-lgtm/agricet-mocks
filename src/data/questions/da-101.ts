@@ -1783,9 +1783,8 @@ export const da101Questions: Question[] = [
     correct: 2,
     explanation: "As per DA-101 notes: Vermicompost (earthworm-processed, improves structure); Biopesticide (Trichoderma, disease control); Green manure (Sesbania/Crotalaria, N enrichment); Compost (FYM+residue, recycles nutrients)."
   },
-
   {
-    id: "d101x_048",
+    id: "d101x_104",
     subject: "da-101",
     lecture: "lecture-1",
     lectureNo: 1,
@@ -1796,7 +1795,7 @@ export const da101Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d101x_049",
+    id: "d101x_105",
     subject: "da-101",
     lecture: "lecture-2",
     lectureNo: 2,

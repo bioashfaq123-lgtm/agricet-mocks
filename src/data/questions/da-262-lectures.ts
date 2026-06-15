@@ -1801,7 +1801,7 @@ export const da262LectureQuestions: Question[] = [
     explanation: "As per DA-262 notes: FORTRAN=FORmula TRANslation, COBOL=Common Business Oriented Language, BASIC=Beginner's All purpose Symbolic Instruction Code, ALGOL=ALGOrithmic Language."
   },
   {
-    id: "d262x_040",
+    id: "d262x_104",
     subject: "da-262",
     lecture: "lecture-1",
     lectureNo: 1,
@@ -1812,7 +1812,7 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262x_041",
+    id: "d262x_105",
     subject: "da-262",
     lecture: "lecture-2",
     lectureNo: 2,

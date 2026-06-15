@@ -1773,9 +1773,8 @@ export const da102Questions: Question[] = [
     correct: 2,
     explanation: "As per DA-102 notes: FYM or compost=12.5 t/ha; Green manure in-situ=20 kg/ha; Green leaf manure=6.25 t/ha; Urea at first puddling=22 kg/ha for stubble decomposition."
   },
-
   {
-    id: "d102x_072",
+    id: "d102x_104",
     subject: "da-102",
     lecture: "lecture-1",
     lectureNo: 1,
@@ -1786,7 +1785,7 @@ export const da102Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102x_073",
+    id: "d102x_105",
     subject: "da-102",
     lecture: "lecture-6",
     lectureNo: 6,
@@ -1797,7 +1796,7 @@ export const da102Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102x_074",
+    id: "d102x_106",
     subject: "da-102",
     lecture: "lecture-10",
     lectureNo: 10,
