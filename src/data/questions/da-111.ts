@@ -1274,7 +1274,7 @@ export const da111Questions: Question[] = [
     lectureNo: 37,
     question: "The tag colour for Certified seed is:",
     options: ["Red", "Blue", "White", "Golden yellow"],
-    correct: 3,
+    correct: 1,
     explanation: "As per DA-111 notes: Certified seed has a Blue tag. Foundation seed has White tag and Breeder seed has Golden yellow tag."
   },
   {
