@@ -1777,9 +1777,8 @@ export const da111Questions: Question[] = [
     correct: 2,
     explanation: "As per DA-111 notes: Thiram (contact fungicide, soil/seed-borne fungi); Carbendazim (systemic fungicide, blast/blight); Imidacloprid (neonicotinoid insecticide, sucking pests); Trichoderma viride (biocontrol, soil-borne fungi)."
   },
-
   {
-    id: "d111x_071",
+    id: "d111x_101",
     subject: "da-111",
     lecture: "lecture-8",
     lectureNo: 8,
@@ -1790,7 +1789,7 @@ export const da111Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d111x_072",
+    id: "d111x_102",
     subject: "da-111",
     lecture: "lecture-9",
     lectureNo: 9,
@@ -1801,7 +1800,7 @@ export const da111Questions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d111x_073",
+    id: "d111x_103",
     subject: "da-111",
     lecture: "lecture-10",
     lectureNo: 10,
