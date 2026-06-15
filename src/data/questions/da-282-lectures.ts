@@ -1621,7 +1621,7 @@ export const da282LectureQuestions: Question[] = [
     options: ["Apple and pear (temperate fruits)", "Leafy vegetables", "All tropical fruits", "Root crops only"],
     correct: 0,
     explanation: "Days from full bloom (DFFB) is a reliable maturity index for apples and pears. Different varieties have characteristic DFFB values (e.g., Red Delicious apple: 150–155 days from full bloom)."
-  },,
+  },
   {
     id: "d282l_161", subject: "da-282", lecture: "lecture-11", lectureNo: 11,
     question: "The word horticulture is derived from Latin words meaning:",

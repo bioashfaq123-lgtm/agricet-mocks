@@ -1621,7 +1621,7 @@ export const da291LectureQuestions: Question[] = [
     options: ["2022", "2025", "2030", "2020"],
     correct: 0,
     explanation: "The government announced the target of doubling farmers' real income by 2022 (Kisan Samridhi in the 75th Independence year). The Dalwai Committee was constituted to develop a strategy for DFI."
-  },,
+  },
   {
     id: "d291l_161", subject: "da-291", lecture: "lecture-11", lectureNo: 11,
     question: "A leaflet in extension education is defined as:",

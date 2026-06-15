@@ -800,7 +800,7 @@ export const da282Questions: Question[] = [
     options: ["Rice — major cereal export though classified as non-horticulture", "Spices (pepper, cardamom, chilli)", "Banana — exported primarily to Middle East and Southeast Asia", "Mango — fresh and processed exports to Gulf and European markets"],
     correct: 1,
     explanation: "Among horticultural exports, spices — particularly black pepper, cardamom, chilli (paprika), turmeric, ginger, and coriander — contribute maximum foreign exchange earnings. India is called the 'Spice Bowl of the World' and the largest producer/exporter of spices globally."
-  },,
+  },
   {
     id: "d282_101", subject: "da-282",
     question: "Horticulture is derived from Latin words hortus and colere meaning:",

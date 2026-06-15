@@ -800,7 +800,7 @@ export const da291Questions: Question[] = [
     options: ["Stopping adoption of foreign agricultural technology and farm inputs", "Digital tools, AI-driven advisory, FPOs, and market-linked extension approach", "Reducing the number of agricultural extension workers and offices", "Returning exclusively to traditional organic farming without external inputs"],
     correct: 1,
     explanation: "Agriculture 2.0 (Digital Agriculture Mission) envisions AI/ML, satellite data, IoT-based advisory, FPO strengthening, direct market linkage, and outcome-based digital extension services. It shifts from supply-driven to demand-driven extension using data analytics."
-  },,
+  },
   {
     id: "d291_101", subject: "Agricultural Extension Education",
     question: "The word 'Extension' is derived from Latin roots meaning:",
