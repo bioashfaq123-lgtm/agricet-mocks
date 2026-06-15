@@ -1793,4 +1793,15 @@ export const da201Questions: Question[] = [
     correct: 2,
     explanation: "Sunflower: N for rabi hybrids 30 kg/ha in 3 splits (sowing, 30 DAS, 50-60 DAS); P 24-36 kg/ha as basal; K 12 kg/ha as basal; Sulphur 25 kg/ha at last ploughing. SSP is best source for P as it also supplies sulphur."
   },
+  {
+    id: "d201x_101",
+    subject: "da-201",
+    lecture: "lecture-6",
+    lectureNo: 6,
+    question: "FCV (Flue Cured Virginia) tobacco used for cigarettes is primarily grown in India in:",
+    options: ["Uttar Pradesh and Bihar", "Andhra Pradesh and Karnataka", "Rajasthan and Gujarat", "West Bengal and Odisha"],
+    correct: 1,
+    explanation: "FCV (Flue Cured Virginia) tobacco is primarily grown in Andhra Pradesh (Guntur, Krishna, West Godavari districts) and Karnataka (Mysore region). Andhra Pradesh accounts for about 75% of India's FCV tobacco production. Tobacco Board of India is headquartered at Guntur.",
+    difficulty: "medium"
+  },
 ];

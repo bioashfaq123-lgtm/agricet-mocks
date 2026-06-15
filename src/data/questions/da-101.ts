@@ -1784,4 +1784,26 @@ export const da101Questions: Question[] = [
     explanation: "As per DA-101 notes: Vermicompost (earthworm-processed, improves structure); Biopesticide (Trichoderma, disease control); Green manure (Sesbania/Crotalaria, N enrichment); Compost (FYM+residue, recycles nutrients)."
   },
 
+  {
+    id: "d101x_048",
+    subject: "da-101",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "Precision farming involves:",
+    options: ["Uniform application of inputs across the entire field irrespective of spatial variation", "Site-specific management of inputs based on spatial variability within a field using GPS and GIS", "Farming only in small precision-measured plots of exactly one acre", "Using high-precision hand tools instead of machinery"],
+    correct: 1,
+    explanation: "Precision farming (precision agriculture) involves site-specific management — applying inputs (fertilizers, water, pesticides) at the right time, right place, and right rate based on spatial variability in soil properties and crop needs within a field, using GPS, GIS, and remote sensing technologies.",
+    difficulty: "medium"
+  },
+  {
+    id: "d101x_049",
+    subject: "da-101",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "A watershed in the context of land and water conservation refers to:",
+    options: ["A large water storage tank used for supplemental irrigation", "An area of land that drains all surface and subsurface water to a common outlet point", "The catchment area only upstream of a dam or reservoir", "The quantity of water lost from a crop through transpiration"],
+    correct: 1,
+    explanation: "A watershed (drainage basin / catchment) is an area of land from which all surface runoff and subsurface drainage flows to a common outlet (stream, river, lake). Watershed management treats the entire land-water system as a unit to conserve soil and water.",
+    difficulty: "medium"
+  },
 ];

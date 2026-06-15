@@ -1794,4 +1794,15 @@ export const da171Questions: Question[] = [
     explanation: "As per DA-171 notes: Coconut-Budrot, Ganoderma root rot, stem bleeding; Rose-Powdery mildew, Dieback, black spot; Turmeric-Leaf spot, rhizome rot."
   },
 
+  {
+    id: "d171x_039",
+    subject: "da-171",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "Rice blast disease is caused by:",
+    options: ["Xanthomonas oryzae pv. oryzae", "Rhizoctonia solani", "Magnaporthe oryzae (Pyricularia oryzae)", "Helminthosporium oryzae"],
+    correct: 2,
+    explanation: "Rice blast disease is caused by Magnaporthe oryzae (anamorph: Pyricularia oryzae). It is the most destructive disease of rice worldwide, causing leaf blast, node blast, and neck blast (which destroys the panicle). Blast-resistant varieties and tricyclazole fungicide are used for management.",
+    difficulty: "easy"
+  },
 ];

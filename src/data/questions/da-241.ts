@@ -1599,4 +1599,15 @@ export const da241Questions: Question[] = [
     explanation: "According to Professor Galbraith, credit is the 'temporary transfer of asset from one who has to other who has not.' The word 'credit' comes from Latin 'Credo' meaning 'I believe.' Credit is based on belief, confidence, trust and faith."
   },
 
+  {
+    id: "d241_200",
+    subject: "da-241",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "Minimum Support Price (MSP) in Indian agricultural policy is announced by:",
+    options: ["State governments based on local market surveys", "Central Government on the recommendation of CACP (Commission for Agricultural Costs and Prices)", "RBI based on inflation targets", "FCI based on procurement needs"],
+    correct: 1,
+    explanation: "MSP is announced by the Central Government of India based on the recommendations of CACP (Commission for Agricultural Costs and Prices), which considers cost of production, demand-supply situation, inter-crop price parity, and terms of trade. CACP recommends MSP for 23 mandated crops.",
+    difficulty: "medium"
+  },
 ];

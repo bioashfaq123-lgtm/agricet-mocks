@@ -1794,4 +1794,15 @@ export const da132Questions: Question[] = [
     explanation: "As per DA-132 notes: Rice-rice gall midge, Mango-leaf gallmidge, Sesamum-gall fly."
   },
 
+  {
+    id: "d132x_011",
+    subject: "da-132",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "American bollworm (Helicoverpa armigera) attacking cotton and chickpea belongs to the order:",
+    options: ["Coleoptera", "Hemiptera", "Lepidoptera", "Diptera"],
+    correct: 2,
+    explanation: "Helicoverpa armigera (American bollworm / gram pod borer) belongs to Order Lepidoptera, Family Noctuidae. It is a highly polyphagous pest attacking cotton bolls, chickpea pods, tomato fruits, and many other crops. The larvae are the damaging stage.",
+    difficulty: "easy"
+  },
 ];

@@ -1686,4 +1686,26 @@ export const da262Questions: Question[] = [
     correct: 2,
     explanation: "As per DA-262 notes: FORTRAN=FORmula TRANslation, COBOL=Common Business Oriented Language, BASIC=Beginner's All purpose Symbolic Instruction Code, ALGOL=ALGOrithmic Language."
   },
+  {
+    id: "d262_199",
+    subject: "da-262",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "RAM (Random Access Memory) differs from ROM (Read Only Memory) in that:",
+    options: ["RAM is permanent storage while ROM is temporary", "RAM is volatile (loses data when power is off) while ROM is non-volatile", "RAM stores only the operating system while ROM stores user data", "RAM is slower than ROM in data access speed"],
+    correct: 1,
+    explanation: "RAM is volatile memory — data is lost when power is off. It is used for temporary working memory during program execution. ROM is non-volatile — data is permanently stored (e.g., BIOS/UEFI firmware) and retained without power. Modern RAM (DDR4) is actually faster than ROM.",
+    difficulty: "easy"
+  },
+  {
+    id: "d262_200",
+    subject: "da-262",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "An IPv4 address consists of:",
+    options: ["32 bits arranged as 4 groups of 8 bits each (e.g., 192.168.1.1)", "64 bits arranged as 8 groups of 8 bits", "16 bits arranged as 2 groups of 8 bits", "128 bits arranged as 16 groups of 8 bits"],
+    correct: 0,
+    explanation: "An IPv4 (Internet Protocol version 4) address consists of 32 bits, written as four decimal octets (0-255) separated by dots, e.g., 192.168.1.1. IPv6 uses 128 bits written as 8 groups of 4 hexadecimal digits.",
+    difficulty: "medium"
+  },
 ];

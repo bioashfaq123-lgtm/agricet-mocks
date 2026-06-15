@@ -1800,4 +1800,26 @@ export const da262LectureQuestions: Question[] = [
     correct: 2,
     explanation: "As per DA-262 notes: FORTRAN=FORmula TRANslation, COBOL=Common Business Oriented Language, BASIC=Beginner's All purpose Symbolic Instruction Code, ALGOL=ALGOrithmic Language."
   },
+  {
+    id: "d262x_040",
+    subject: "da-262",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "URL stands for:",
+    options: ["Universal Resource Locator", "Uniform Resource Locator", "Unified Remote Link", "Universal Remote Link"],
+    correct: 1,
+    explanation: "URL stands for Uniform Resource Locator. It is the complete web address used to locate a specific resource on the internet (e.g., https://www.example.com/page). It includes the protocol (http/https), domain name, and path.",
+    difficulty: "easy"
+  },
+  {
+    id: "d262x_041",
+    subject: "da-262",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "System software differs from application software in that system software:",
+    options: ["Is written in high-level languages while application software uses machine code", "Manages hardware resources and provides a platform; application software performs specific end-user tasks", "Is always free while application software is always paid", "Only runs on servers while application software runs on personal computers"],
+    correct: 1,
+    explanation: "System software (OS, device drivers, BIOS, utilities) manages hardware resources, memory, and processes, and provides a platform for other software. Application software (word processors, browsers, spreadsheets) performs specific tasks for end users and runs on top of the system software.",
+    difficulty: "easy"
+  },
 ];

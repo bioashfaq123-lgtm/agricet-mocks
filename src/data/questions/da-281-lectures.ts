@@ -1925,6 +1925,16 @@ export const da281LectureQuestions: Question[] = [
     correct: 2,
     explanation: "Carbon sequestration (stores CO2=climate mitigation=i), Soil conservation (roots bind soil=erosion prevention=ii), Water table (roots recharge=well level=iv), Biodiversity (habitat=animals=iii).",
     difficulty: "hard"
-  }
-
+  },
+  {
+    id: "d281l_168",
+    subject: "da-281",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "Late blight of potato and tomato is caused by:",
+    options: ["Alternaria solani (Early blight)", "Phytophthora infestans (water mould/oomycete)", "Fusarium oxysporum (wilt)", "Sclerotium rolfsii (collar rot)"],
+    correct: 1,
+    explanation: "Late blight of potato and tomato is caused by Phytophthora infestans, an oomycete (water mould). It was responsible for the Irish Potato Famine (1845-49). It thrives in cool, moist conditions. Early blight is caused by Alternaria solani. Mancozeb and metalaxyl are used for management.",
+    difficulty: "easy"
+  },
 ] as Question[];

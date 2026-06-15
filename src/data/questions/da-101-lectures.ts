@@ -2424,4 +2424,26 @@ export const da101LectureQuestions: Question[] = [
     explanation: "As per DA-101 notes: Vermicompost (earthworm-processed, improves structure); Biopesticide (Trichoderma, disease control); Green manure (Sesbania/Crotalaria, N enrichment); Compost (FYM+residue, recycles nutrients)."
   },
 
+  {
+    id: "d101x_048",
+    subject: "da-101",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "Zero tillage (no-till) farming primarily benefits soil health by:",
+    options: ["Increasing soil bulk density for better drainage", "Preserving soil aggregate structure, organic matter, and beneficial soil organisms", "Eliminating all weed seeds from the plough layer", "Reducing soil pH to levels optimal for most crops"],
+    correct: 1,
+    explanation: "Zero (no) tillage avoids soil inversion and disturbance, thereby preserving soil aggregate structure, maintaining organic matter content, conserving moisture, and protecting beneficial organisms like earthworms and soil microbes. It also reduces soil erosion and fuel costs.",
+    difficulty: "medium"
+  },
+  {
+    id: "d101x_049",
+    subject: "da-101",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "The critical period for crop-weed competition in most field crops is approximately:",
+    options: ["At flowering stage only", "First 30-45 days after sowing during early vegetative stage", "Last 30 days before harvest", "Throughout the entire crop growth period equally"],
+    correct: 1,
+    explanation: "The critical period for crop-weed competition is the growth stage during which weeds must be controlled to prevent significant yield loss. For most field crops this is the first 30-45 days after sowing/emergence when crops are small and most susceptible to competition for light, water, and nutrients.",
+    difficulty: "medium"
+  },
 ];

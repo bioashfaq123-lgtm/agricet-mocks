@@ -1933,6 +1933,16 @@ export const da282LectureQuestions: Question[] = [
     correct: 2,
     explanation: "Bitter gourd is widely used in Ayurveda for diabetes management. R correctly explains the biochemical basis — charantin and polypeptide-p.",
     difficulty: "medium"
-  }
-
+  },
+  {
+    id: "d282l_169",
+    subject: "da-282",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "Stone grafting (epicotyl grafting) in mango is best performed during which season in India?",
+    options: ["Post-monsoon (October-November)", "Summer (March-May) when fresh seeds are available and sap is actively flowing", "Winter (December-January) for best callus formation", "Rainy season (July-August) for highest humidity and success rates"],
+    correct: 1,
+    explanation: "Stone grafting (epicotyl grafting) in mango is performed in summer (March-May) when fresh mango seeds (stones) are available from the fruit season. Freshly germinated seedlings used as rootstock are grafted immediately; warm temperatures promote rapid callus formation giving 80-90% success.",
+    difficulty: "hard"
+  },
 ];

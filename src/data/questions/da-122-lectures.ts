@@ -2540,4 +2540,15 @@ export const da122LectureQuestions: Question[] = [
     explanation: "As per DA-122 notes: INM advantages include improved soil health (OM, microbes), reduced pollution, and optimised resource use. Constraints include transport of bulky manures, slow nutrient release, and higher labour/initial investment."
   },
 
+  {
+    id: "d122x_070",
+    subject: "da-122",
+    lecture: "lecture-20",
+    lectureNo: 20,
+    question: "Copper sulphate (CuSO4) is applied as a fertilizer to correct which micronutrient deficiency?",
+    options: ["Manganese deficiency in acidic soils", "Copper deficiency especially in organic/peaty soils and newly reclaimed soils", "Boron deficiency in oilseed crops", "Zinc deficiency in rice causing Khaira disease"],
+    correct: 1,
+    explanation: "Copper sulphate (CuSO4.5H2O, blue vitriol) is used to correct copper (Cu) deficiency. Copper deficiency is most common in organic/peaty soils, sandy soils, and newly reclaimed soils. It causes reclamation disease in cereals and dieback in citrus and other fruit crops.",
+    difficulty: "hard"
+  },
 ];

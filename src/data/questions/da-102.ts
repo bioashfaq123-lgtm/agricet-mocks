@@ -1774,4 +1774,37 @@ export const da102Questions: Question[] = [
     explanation: "As per DA-102 notes: FYM or compost=12.5 t/ha; Green manure in-situ=20 kg/ha; Green leaf manure=6.25 t/ha; Urea at first puddling=22 kg/ha for stubble decomposition."
   },
 
+  {
+    id: "d102x_072",
+    subject: "da-102",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "The phenomenon of lodging in cereal crops refers to:",
+    options: ["Failure of crop to germinate due to poor seedbed preparation", "Permanent displacement of stems from their vertical position due to wind or rain", "Yellowing of leaves due to nitrogen deficiency", "Early senescence of flag leaf before grain filling is complete"],
+    correct: 1,
+    explanation: "Lodging is the permanent displacement of crop stems (leaning or falling) from their vertical position due to wind, rain, or heavy panicle weight. It reduces yield by reducing photosynthesis and making harvest difficult. Semi-dwarf varieties with strong culms are more lodging-resistant.",
+    difficulty: "medium"
+  },
+  {
+    id: "d102x_073",
+    subject: "da-102",
+    lecture: "lecture-6",
+    lectureNo: 6,
+    question: "Maize (Zea mays) is classified as a C4 crop because it:",
+    options: ["Uses only the Calvin (C3) cycle with low photorespiration", "Uses the C4 (Hatch-Slack) pathway concentrating CO2 in bundle sheath cells, giving superior photosynthetic efficiency at high light and temperature", "Opens stomata only at night to fix CO2 (CAM pathway)", "Has a special C2 pathway intermediate between C3 and C4"],
+    correct: 1,
+    explanation: "Maize is a C4 plant — it uses the Hatch-Slack pathway to concentrate CO2 in bundle sheath cells, suppressing photorespiration and giving 5-10% higher photosynthetic efficiency than C3 crops at high light and temperature. This makes maize one of the highest-yielding grain crops.",
+    difficulty: "medium"
+  },
+  {
+    id: "d102x_074",
+    subject: "da-102",
+    lecture: "lecture-10",
+    lectureNo: 10,
+    question: "Blackgram and greengram fix atmospheric nitrogen through symbiosis with which microorganism?",
+    options: ["Azospirillum brasilense (free-living associative fixer)", "Rhizobium / Bradyrhizobium species forming root nodules", "Frankia species forming actinorhizal nodules", "Anabaena azollae (blue-green algae)"],
+    correct: 1,
+    explanation: "Blackgram (Vigna mungo) and greengram (Vigna radiata) fix atmospheric nitrogen through symbiosis with Bradyrhizobium / Rhizobium bacteria that form nodules on roots. This biological nitrogen fixation can contribute 40-100 kg N/ha per season, reducing fertilizer requirements.",
+    difficulty: "easy"
+  },
 ];

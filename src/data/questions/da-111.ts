@@ -1778,4 +1778,37 @@ export const da111Questions: Question[] = [
     explanation: "As per DA-111 notes: Thiram (contact fungicide, soil/seed-borne fungi); Carbendazim (systemic fungicide, blast/blight); Imidacloprid (neonicotinoid insecticide, sucking pests); Trichoderma viride (biocontrol, soil-borne fungi)."
   },
 
+  {
+    id: "d111x_071",
+    subject: "da-111",
+    lecture: "lecture-8",
+    lectureNo: 8,
+    question: "Breeder seed in the seed production chain is produced by:",
+    options: ["State seed corporations under government supervision", "The original plant breeder or designated institution under direct supervision of the breeder", "Certified seed producers registered with NSC", "Farmers selected by the State Agriculture Department"],
+    correct: 1,
+    explanation: "Breeder seed is produced by or under the direct supervision of the plant breeder (agricultural university or research institution) who developed the variety. It is the progeny of nucleus seed and is the source for foundation seed production. It has the highest genetic purity.",
+    difficulty: "medium"
+  },
+  {
+    id: "d111x_072",
+    subject: "da-111",
+    lecture: "lecture-9",
+    lectureNo: 9,
+    question: "A test cross in genetics (crossing a dominant-phenotype individual with a homozygous recessive parent) is used to:",
+    options: ["Produce commercial hybrid seed for farmers", "Determine whether the dominant-phenotype individual is homozygous (AA) or heterozygous (Aa)", "Increase heterozygosity of the breeding population", "Estimate general combining ability (GCA) of inbred lines"],
+    correct: 1,
+    explanation: "A test cross (dominant phenotype × homozygous recessive aabb...) reveals the genotype of the dominant parent. If progeny ratio is 1:1 (dominant:recessive), the tested parent is heterozygous (Aa); if all progeny show dominant phenotype, the tested parent is homozygous (AA).",
+    difficulty: "hard"
+  },
+  {
+    id: "d111x_073",
+    subject: "da-111",
+    lecture: "lecture-10",
+    lectureNo: 10,
+    question: "Heterosis (hybrid vigour) is defined as the:",
+    options: ["Uniform performance of all plants in a pure line variety", "Superiority of F1 hybrids over the better parent for yield and vigour", "Inbreeding depression observed after selfing cross-pollinated crops", "Additive gene effects accumulating over generations of selection"],
+    correct: 1,
+    explanation: "Heterosis (hybrid vigour), coined by G.H. Shull (1914), is the superiority of F1 hybrids over the better parent (or mid-parent) in traits like yield, growth rate, disease resistance, and adaptability. It is commercially exploited in maize, sorghum, bajra, cotton, and vegetable hybrids.",
+    difficulty: "easy"
+  },
 ];

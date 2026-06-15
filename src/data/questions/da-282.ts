@@ -1520,6 +1520,115 @@ export const da282Questions: Question[] = [
     correct: 2,
     explanation: "Pickling (salt/acid=mango pickle=i), Canning (heat sterilization=tomato can=ii), Drying (dehydration=raisin=iii), Jam (sugar preservation=strawberry jam=iv).",
     difficulty: "hard"
-  }
-
+  },
+  {
+    id: "d282_201",
+    subject: "da-282",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "Climacteric fruits show a characteristic rise in respiration rate at ripening and can be harvested mature-green. Which of the following is a climacteric fruit?",
+    options: ["Grape", "Citrus", "Mango", "Watermelon"],
+    correct: 2,
+    explanation: "Mango is a classic climacteric fruit — it shows a sharp ethylene-triggered rise in respiration during ripening and can ripen off the tree. Grape, citrus, and watermelon are non-climacteric fruits that must ripen on the plant.",
+    difficulty: "medium"
+  },
+  {
+    id: "d282_202",
+    subject: "da-282",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "Polyembryony — occurrence of more than one embryo in a seed — is a common characteristic feature of which fruit crop?",
+    options: ["Papaya", "Mango", "Banana", "Guava"],
+    correct: 1,
+    explanation: "Mango (Mangifera indica) commonly exhibits polyembryony. Many mango varieties produce seeds with multiple embryos: one zygotic embryo (sexual) and several nucellar (apomictic) embryos that are clones of the mother plant.",
+    difficulty: "medium"
+  },
+  {
+    id: "d282_203",
+    subject: "da-282",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "The Brix value (°Bx) measured by a refractometer in fruit quality assessment indicates:",
+    options: ["Fruit firmness in kg/cm²", "Total soluble solids (TSS) percentage", "Titratable acidity percentage", "Moisture content percentage"],
+    correct: 1,
+    explanation: "Brix (°Bx) measured by a refractometer indicates the Total Soluble Solids (TSS) — mainly sugars — in fruit juice, expressed as a percentage. It is a key maturity and quality index for fruits like grapes, mangoes, and citrus.",
+    difficulty: "easy"
+  },
+  {
+    id: "d282_204",
+    subject: "da-282",
+    lecture: "lecture-4",
+    lectureNo: 4,
+    question: "Rejuvenation pruning in horticulture is practiced to:",
+    options: ["Reduce transplant shock in young seedlings", "Restore productivity of old unproductive orchards by heavy pruning of main branches", "Stimulate rooting in nursery cuttings", "Enhance bud initiation in flower crops"],
+    correct: 1,
+    explanation: "Rejuvenation pruning involves heavy pruning of main branches in old, unproductive orchards (mango, guava, citrus) to stimulate new vigorous vegetative growth and restore their fruit-bearing capacity.",
+    difficulty: "medium"
+  },
+  {
+    id: "d282_205",
+    subject: "da-282",
+    lecture: "lecture-5",
+    lectureNo: 5,
+    question: "Which chemical is used for artificial/uniform ripening of banana at commercial scale?",
+    options: ["Gibberellic acid (GA3)", "Ethephon (Ethrel)", "Maleic hydrazide", "Cycocel (CCC)"],
+    correct: 1,
+    explanation: "Ethephon (Ethrel / 2-chloroethylphosphonic acid) releases ethylene on application and is used commercially for uniform ripening of bananas. It is applied as a post-harvest dip or spray at 500-1000 ppm.",
+    difficulty: "medium"
+  },
+  {
+    id: "d282_206",
+    subject: "da-282",
+    lecture: "lecture-6",
+    lectureNo: 6,
+    question: "The National Horticulture Mission (NHM) was launched by the Government of India in:",
+    options: ["1997-98", "2001-02", "2005-06", "2010-11"],
+    correct: 2,
+    explanation: "The National Horticulture Mission (NHM) was launched in 2005-06 under the 10th Five-Year Plan to promote holistic growth of the horticulture sector — covering fruits, vegetables, flowers, spices, plantation crops and medicinal/aromatic plants.",
+    difficulty: "medium"
+  },
+  {
+    id: "d282_207",
+    subject: "da-282",
+    lecture: "lecture-7",
+    lectureNo: 7,
+    question: "In vegetable processing, blanching before freezing or canning is done to:",
+    options: ["Improve colour by adding pigments", "Inactivate deteriorative enzymes and reduce microbial load", "Increase the sugar content of vegetables", "Tenderise vegetable tissue for easy packing"],
+    correct: 1,
+    explanation: "Blanching (brief exposure to boiling water or steam, 2-5 min) before freezing or canning inactivates enzymes like peroxidase and lipoxygenase that cause off-colour, off-flavour, and texture degradation, and also reduces surface microbial load.",
+    difficulty: "medium"
+  },
+  {
+    id: "d282_208",
+    subject: "da-282",
+    lecture: "lecture-8",
+    lectureNo: 8,
+    question: "Which growth regulator is used to break dormancy of potato tubers and induce early sprouting?",
+    options: ["Maleic hydrazide", "Gibberellic acid (GA3)", "NAA (Naphthalene Acetic Acid)", "Ethephon"],
+    correct: 1,
+    explanation: "Gibberellic acid (GA3) at 1-5 ppm is used to break dormancy of potato seed tubers and promote early, uniform sprouting. Conversely, maleic hydrazide (MH) suppresses sprouting during long-term cold storage.",
+    difficulty: "hard"
+  },
+  {
+    id: "d282_209",
+    subject: "da-282",
+    lecture: "lecture-9",
+    lectureNo: 9,
+    question: "The scientific (botanical) name of strawberry is:",
+    options: ["Fragaria x ananassa", "Rubus idaeus", "Vaccinium corymbosum", "Ribes nigrum"],
+    correct: 0,
+    explanation: "The cultivated garden strawberry is Fragaria × ananassa, a hybrid of two wild species (F. virginiana × F. chiloensis). Rubus idaeus is raspberry, Vaccinium corymbosum is blueberry, and Ribes nigrum is blackcurrant.",
+    difficulty: "easy"
+  },
+  {
+    id: "d282_210",
+    subject: "da-282",
+    lecture: "lecture-10",
+    lectureNo: 10,
+    question: "India ranks first in the world in production of which fruit crop?",
+    options: ["Citrus", "Grapes", "Banana", "Apple"],
+    correct: 2,
+    explanation: "India is the world's largest producer of bananas, contributing about 26% of global production. India is also the top producer of mangoes and papayas. China leads in citrus, grapes, and apples.",
+    difficulty: "easy"
+  },
 ];
