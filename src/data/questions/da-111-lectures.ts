@@ -563,7 +563,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 4,
     question: "The bulk method of breeding self-pollinated crops differs from the pedigree method in that:",
     options: ["Backcrossing is used repeatedly to the better adapted parent", "F2-F5 populations are grown in bulk without individual selection", "Individual plant selection and pedigree records are maintained strictly", "Single seeds from each F2 plant are selected to advance generations"],
-    correct: 2,
+    correct: 1,
     explanation: "In the bulk method, F2 to F5 populations are grown in bulk (mass). Seeds are harvested together without individual plant selection. Natural selection operates during this period. Individual plant selection and line development begins only in F5 or F6."
   },
   {
