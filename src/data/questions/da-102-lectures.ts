@@ -1629,7 +1629,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 4,
     question: "Siddi (WGL-44) rice variety is suitable for:",
     options: ["Perennial cultivation", "Kharif season only", "Rabi season only", "Both kharif and rabi"],
-    correct: 2,
+    correct: 1,
     explanation: "As per DA-102 notes: Siddi (WGL-44) is suitable for kharif only, with a crop duration of 150 days."
   },
   {
@@ -1639,7 +1639,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 4,
     question: "To break seed dormancy in rice, concentrated nitric acid is used at the rate of:",
     options: ["4 ml/litre", "10 ml/litre", "2 ml/litre", "6.3 ml/litre"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-102 notes: To break seed dormancy, 6.3 ml of concentrated nitric acid per litre water is used for less dormant seeds."
   },
   {
@@ -1749,7 +1749,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 4,
     question: "The average yield of Kunaramsannalu rice variety is:",
     options: ["1.5-2.0 tons/acre", "3.5-4.0 tons/acre", "2.0-2.5 tons/acre", "2.8-3.2 tons/acre"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-102 notes: Kunaramsannalu (KNM 118) has an average yield of 2.8-3.2 tons per acre."
   },
   {
@@ -1769,7 +1769,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 5,
     question: "Green manure if raised in-situ is incorporated at what depth?",
     options: ["10 cm", "5 cm", "20 cm", "15 cm"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-102 notes: Green manure raised at 20 kg/ha should be incorporated to a depth of 15 cm using a green manure trampler or tractor."
   },
   {
@@ -1779,7 +1779,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 1,
     question: "Rice bran is rich in protein and can be used in the preparation of:",
     options: ["Beer and wine", "Cooking oil only", "Biscuits and cattle feed", "Bread and pasta"],
-    correct: 3,
+    correct: 2,
     explanation: "As per DA-102 notes: Defatted rice bran, rich in protein, can be used in the preparation of biscuits and as cattle feed."
   },
   {
@@ -1829,7 +1829,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 4,
     question: "The seed rate for broadcasting rice is:",
     options: ["10-15 kg/acre", "35-40 kg/acre", "20-25 kg/acre", "24-30 kg/acre"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-102 notes: Seed rate for broadcasting rice is 24-30 kg per acre."
   },
   {
@@ -1839,7 +1839,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 4,
     question: "Seed rate for dry paddy (direct seeded) is:",
     options: ["10-15 kg/acre", "20-25 kg/acre", "40-50 kg/acre", "30-36 kg/acre"],
-    correct: 3,
+    correct: 1,
     explanation: "As per DA-102 notes: Seed rate for dry paddy is 20-25 kg per acre, while seed drill (rainfed) requires 30-36 kg/acre."
   },
   {
@@ -1869,7 +1869,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 3,
     question: "The temperature requirement for rice blooming (flowering) is:",
     options: ["24-26°C", "30-35°C", "20-23°C", "26.5-29.5°C"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-102 notes: The temperature requirement for rice blooming is in the range of 26.5 to 29.5°C."
   },
   {
@@ -1899,7 +1899,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 4,
     question: "Siddi (WGL-44) rice variety has an average yield of:",
     options: ["2.4-3.0 tons/acre", "3.2-3.8 tons/acre", "2.0-2.3 tons/acre", "1.5-2.0 tons/acre"],
-    correct: 3,
+    correct: 0,
     explanation: "As per DA-102 notes: Siddi (WGL-44) has a yield of 2.4-3.0 tons per acre with 150 days crop duration."
   },
   {
@@ -1909,7 +1909,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 5,
     question: "Azospirillum and Phosphobacteria are applied in rice at the rate of:",
     options: ["5 packets (1000 g)/ha each", "20 packets (4000 g)/ha each", "15 packets/ha each", "10 packets (2000 g)/ha each"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-102 notes: Mix 10 packets (2000 g)/ha of Azospirillum and 10 packets (2000 g)/ha of Phosphobacteria with 25 kg FYM for broadcast in rice."
   },
   {

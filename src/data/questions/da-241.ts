@@ -282,14 +282,6 @@ export const da241Questions: Question[] = [
     explanation: "e-NAM (Electronic National Agriculture Market) was launched on 14 April 2016 by PM Modi. It is an online trading platform connecting 1,000+ APMC mandis across India for transparent price discovery. Farmers can sell their produce to buyers across the country through the portal."
   },
   {
-    id: "d241_036",
-    subject: "da-241",
-    question: "APMC stands for:",
-    options: ["Agricultural Price Monitoring Commission", "Agricultural Produce Management Corporation", "Agricultural Production Management Council", "Agricultural Produce Marketing Committee"],
-    correct: 3,
-    explanation: "APMC (Agricultural Produce Marketing Committee) is a statutory market established by state governments under APMC Acts. They operate regulated wholesale markets (mandis) where agricultural produce must be sold. Reforms aim to allow farmers to sell directly to buyers outside APMC."
-  },
-  {
     id: "d241_037",
     subject: "da-241",
     question: "The 'cost of production' in farming includes:",

@@ -844,16 +844,6 @@ export const da101Questions: Question[] = [
     explanation: "As per DA-101 notes: The Imperial Agricultural Research Institute was established at Pusa, Bihar in 1903."
   },
   {
-    id: "d101x_005",
-    subject: "da-101",
-    lecture: "lecture-1",
-    lectureNo: 1,
-    question: "NABARD (National Bank for Agriculture and Rural Development) was established in:",
-    options: ["1982", "1979", "1986", "1974"],
-    correct: 0,
-    explanation: "As per DA-101 notes: NABARD was established in 1982."
-  },
-  {
     id: "d101x_006",
     subject: "da-101",
     lecture: "lecture-1",
@@ -862,16 +852,6 @@ export const da101Questions: Question[] = [
     options: ["1980", "1970", "1975", "1966"],
     correct: 2,
     explanation: "As per DA-101 notes: The first cotton hybrid in India was released in 1975."
-  },
-  {
-    id: "d101x_007",
-    subject: "da-101",
-    lecture: "lecture-1",
-    lectureNo: 1,
-    question: "NRCWS (National Research Centre for Weed Science) is located at:",
-    options: ["Nagpur, Maharashtra", "Coimbatore, Tamil Nadu", "Jabalpur, M.P.", "Hyderabad, Telangana"],
-    correct: 2,
-    explanation: "As per DA-101 notes: NRCWS is located at Jabalpur, M.P."
   },
   {
     id: "d101x_008",

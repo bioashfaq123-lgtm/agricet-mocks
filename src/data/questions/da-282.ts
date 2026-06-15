@@ -242,14 +242,6 @@ export const da282Questions: Question[] = [
     explanation: "Zinc deficiency causes 'little leaf' (small, narrow leaves with shortened internodes) and 'mottle leaf' in citrus and mango. It is corrected by soil application of zinc sulphate (ZnSO₄) or foliar spray of 0.5% ZnSO₄ solution."
   },
   {
-    id: "d282_031",
-    subject: "da-282",
-    question: "The botanical name of Papaya is:",
-    options: ["Annona squamosa", "Carica papaya", "Punica granatum", "Psidium guajava"],
-    correct: 1,
-    explanation: "Papaya (Carica papaya) belongs to family Caricaceae. It is a fast-growing, short-duration fruit crop. It is rich in Vitamin C, Vitamin A, and the enzyme papain (used in meat tenderising and pharmaceutical industries). India is the largest producer."
-  },
-  {
     id: "d282_032",
     subject: "da-282",
     question: "The 'Alphonso' mango variety is GI-tagged and is famous from which state?",
@@ -280,14 +272,6 @@ export const da282Questions: Question[] = [
     options: ["Suckers / Rhizomes (sword suckers)", "Air layering (gootti) using moist media wrapped around stem", "Grafting of scion budwood onto selected seedling rootstock", "Seeds — harvested from open-pollinated mother plants"],
     correct: 0,
     explanation: "Banana is propagated vegetatively using suckers (sword suckers are preferred over water suckers), rhizome bits, and tissue culture plantlets. Sword suckers are narrow-leaved, vigorous suckers arising near the base of the mother plant and give best results."
-  },
-  {
-    id: "d282_036",
-    subject: "da-282",
-    question: "The botanical name of Guava is:",
-    options: ["Syzygium cumini", "Annona squamosa", "Averrhoa carambola", "Psidium guajava"],
-    correct: 3,
-    explanation: "Guava (Psidium guajava) belongs to family Myrtaceae. It is called 'Apple of the tropics' and is the richest source of Vitamin C among common fruits (212 mg/100g). India is the second-largest producer. Popular varieties: Allahabad Safeda, Lucknow-49 (Sardar)."
   },
   {
     id: "d282_037",
@@ -360,14 +344,6 @@ export const da282Questions: Question[] = [
     options: ["October to February (post-kharif transition period)", "March to May (pre-monsoon summer season)", "November to February (winter rabi season)", "June to September"],
     correct: 3,
     explanation: "Kharif season (June–September) is the monsoon growing season. Kharif vegetables include tomato, brinjal, bhindi (okra), chillies, ridge gourd, bottle gourd, and cluster beans. Rabi (winter) season vegetables: potato, cabbage, cauliflower, peas."
-  },
-  {
-    id: "d282_046",
-    subject: "da-282",
-    question: "The botanical name of Tomato is:",
-    options: ["Capsicum annuum", "Cucumis sativus", "Solanum melongena", "Lycopersicon esculentum (Solanum lycopersicum)"],
-    correct: 3,
-    explanation: "Tomato — Lycopersicon esculentum (now reclassified as Solanum lycopersicum) — belongs to family Solanaceae. It is the second most important vegetable after potato. Rich in Vitamin C and lycopene (antioxidant). India: 3rd largest producer globally."
   },
   {
     id: "d282_047",
@@ -456,14 +432,6 @@ export const da282Questions: Question[] = [
     options: ["Flies and midges (Diptera)", "Honey bee (Apis mellifera, A. cerana)", "Wind — cross-pollination through air movement", "Butterflies and moths (Lepidoptera)"],
     correct: 0,
     explanation: "Mango flowers (panicles) have a strong unpleasant odour that primarily attracts flies, midges, and other Diptera insects as pollinators. Honey bees and other insects also visit, but flies and midges are the primary pollinators of mango."
-  },
-  {
-    id: "d282_058",
-    subject: "da-282",
-    question: "The botanical name of Onion is:",
-    options: ["Allium fistulosum", "Allium sativum", "Allium porrum", "Allium cepa"],
-    correct: 3,
-    explanation: "Onion — Allium cepa — belongs to family Alliaceae (or Liliaceae). Garlic is Allium sativum. Leek is Allium porrum. India is the second-largest onion producer globally after China. Maharashtra, Karnataka, and MP are major producing states."
   },
   {
     id: "d282_059",
@@ -826,22 +794,6 @@ export const da282Questions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d282_104", subject: "da-282",
-    question: "The botanical name of mango is:",
-    options: ["Mangifera indica", "Psidium guajava", "Citrus sinensis", "Musa paradisiaca"],
-    correct: 0,
-    explanation: "Mango (Mangifera indica) belongs to family Anacardiaceae. It is the national fruit of India.",
-    difficulty: "easy"
-  },
-  {
-    id: "d282_105", subject: "da-282",
-    question: "The botanical name of banana is:",
-    options: ["Musa paradisiaca", "Vitis vinifera", "Carica papaya", "Mangifera indica"],
-    correct: 0,
-    explanation: "Banana (Musa paradisiaca) belongs to family Musaceae and is one of the world's most widely consumed fruits.",
-    difficulty: "easy"
-  },
-  {
     id: "d282_106", subject: "da-282",
     question: "ASSERTION-REASON: Assertion (A): Mango is called the King of Fruits. Reason (R): Mango is the national fruit of India with high economic importance and wide cultivation.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
@@ -856,14 +808,6 @@ export const da282Questions: Question[] = [
     correct: 2,
     explanation: "Pomology (fruits=mango=ii), Olericulture (vegetables=tomato=iii), Floriculture (flowers=rose=i), Spices (condiments=cardamom=iv).",
     difficulty: "hard"
-  },
-  {
-    id: "d282_108", subject: "da-282",
-    question: "The botanical name of tomato is:",
-    options: ["Capsicum annuum", "Solanum lycopersicum", "Solanum melongena", "Abelmoschus esculentus"],
-    correct: 1,
-    explanation: "Tomato (Solanum lycopersicum) belongs to family Solanaceae. It is the most widely grown vegetable globally.",
-    difficulty: "easy"
   },
   {
     id: "d282_109", subject: "da-282",
@@ -936,14 +880,6 @@ export const da282Questions: Question[] = [
     correct: 0,
     explanation: "Guava has the highest Vitamin C content among common fruits — about 4-5 times more than oranges.",
     difficulty: "medium"
-  },
-  {
-    id: "d282_118", subject: "da-282",
-    question: "The botanical name of brinjal (eggplant) is:",
-    options: ["Abelmoschus esculentus", "Solanum lycopersicum", "Solanum melongena", "Cucumis sativus"],
-    correct: 2,
-    explanation: "Brinjal/Eggplant (Solanum melongena) belongs to family Solanaceae along with tomato, potato, and chilli.",
-    difficulty: "easy"
   },
   {
     id: "d282_119", subject: "da-282",
@@ -1176,14 +1112,6 @@ export const da282Questions: Question[] = [
     correct: 1,
     explanation: "Grape is non-climacteric — it does not continue to ripen after harvest. Non-climacteric fruits must be harvested at full ripeness.",
     difficulty: "hard"
-  },
-  {
-    id: "d282_148", subject: "da-282",
-    question: "The botanical name of papaya is:",
-    options: ["Punica granatum", "Musa paradisiaca", "Carica papaya", "Mangifera indica"],
-    correct: 2,
-    explanation: "Papaya (Carica papaya) belongs to family Caricaceae. It is a tropical fruit rich in Vitamin C, Vitamin A, and the enzyme papain.",
-    difficulty: "easy"
   },
   {
     id: "d282_149", subject: "da-282",
@@ -1455,14 +1383,6 @@ export const da282Questions: Question[] = [
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "Organic horticulture is growing due to premium prices and consumer health consciousness. R correctly explains the market and consumer drivers.",
-    difficulty: "easy"
-  },
-  {
-    id: "d282_183", subject: "da-282",
-    question: "The botanical name of coconut is:",
-    options: ["Artocarpus integrifolia", "Carica papaya", "Cocos nucifera", "Mangifera indica"],
-    correct: 2,
-    explanation: "Coconut (Cocos nucifera) belongs to family Arecaceae (palm family). It is called Kalpavriksha due to its multiple uses.",
     difficulty: "easy"
   },
   {

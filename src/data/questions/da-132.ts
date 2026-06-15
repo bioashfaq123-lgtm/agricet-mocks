@@ -894,16 +894,6 @@ export const da132Questions: Question[] = [
     explanation: "As per DA-132 notes: N.virescens transmits rice tungro, rice transitory yellowing and rice yellow dwarf."
   },
   {
-    id: "d132x_010",
-    subject: "da-132",
-    lecture: "lecture-2",
-    lectureNo: 2,
-    question: "Rice Hispa (Dicladispa armigera) belongs to which order?",
-    options: ["Lepidoptera", "Hemiptera", "Coleoptera", "Diptera"],
-    correct: 2,
-    explanation: "As per DA-132 notes: Rice Hispa - Scientific Name: Dicladispa armigera, Order: Coleoptera."
-  },
-  {
     id: "d132x_011",
     subject: "da-132",
     lecture: "lecture-3",

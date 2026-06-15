@@ -1679,14 +1679,6 @@ export const da282LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d282l_168", subject: "da-282", lecture: "lecture-12", lectureNo: 12,
-    question: "The botanical name of banana is:",
-    options: ["Musa paradisiaca", "Vitis vinifera", "Carica papaya", "Mangifera indica"],
-    correct: 0,
-    explanation: "Banana (Musa paradisiaca) belongs to the family Musaceae. It is one of the most widely consumed fruits globally.",
-    difficulty: "easy"
-  },
-  {
     id: "d282l_169", subject: "da-282", lecture: "lecture-12", lectureNo: 12,
     question: "Grapes belong to which botanical family?",
     options: ["Musaceae", "Anacardiaceae", "Vitaceae", "Rutaceae"],

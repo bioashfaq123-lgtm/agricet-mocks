@@ -793,14 +793,6 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d262l_098", subject: "da-262", lecture: "lecture-16", lectureNo: 16,
-    question: "BIOS stands for:",
-    options: ["Basic Integrated Operating System", "Binary Integrated Output System", "Basic Input Output System", "Binary Input Output System"],
-    correct: 2,
-    explanation: "As per DA-262 notes: BIOS stands for Basic Input Output System. It is a software residing on ROM chip that carries out the booting of the computer. When PC is switched on, BIOS searches for the operating system.",
-    difficulty: "easy"
-  },
-  {
     id: "d262l_099", subject: "da-262", lecture: "lecture-16", lectureNo: 16,
     question: "Which of the following is NOT a General Purpose data analysis software package?",
     options: ["WORDSTAR", "SPSS (Statistical Package for Social Science)", "GENSTAT", "MSTAT"],
@@ -1197,16 +1189,6 @@ export const da262LectureQuestions: Question[] = [
     options: ["Running BIOS update for general office use", "Pressing Ctrl+Alt+Del in basic computer operations", "Switching OFF and then switching ON after some time", "Formatting the hard disk for data management only"],
     correct: 2,
     explanation: "As per DA-262 notes: Cold Booting means switching OFF the system and after some time again switching ON."
-  },
-  {
-    id: "d262x_039",
-    subject: "da-262",
-    lecture: "lecture-10",
-    lectureNo: 10,
-    question: "BIOS stands for:",
-    options: ["Binary Input Output Software", "Basic Input Output System", "Binary Integrated Output Software", "Basic Integrated Operating System"],
-    correct: 1,
-    explanation: "As per DA-262 notes: BIOS = Basic Input Output System, a software residing on ROM chip that carries out the booting process."
   },
   {
     id: "d262x_040",

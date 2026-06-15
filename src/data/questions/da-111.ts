@@ -808,26 +808,6 @@ export const da111Questions: Question[] = [
 
   // ── BATCH 2: Additional 100 questions from PJTSAU DA-111 Theory Notes (Plant Breeding, Seed Production & Certification) ──
   {
-    id: "d111x_001",
-    subject: "da-111",
-    lecture: "lecture-1",
-    lectureNo: 1,
-    question: "Plant breeding is defined as the art, science and technology of:",
-    options: ["Developing new farming practices in crop production", "Improving the genetic makeup of plants for economic use", "Cultivating plants in controlled conditions for agricultural purposes", "Studying plant diseases and pests in field conditions"],
-    correct: 1,
-    explanation: "As per DA-111 notes: Plant breeding is defined as an art, a science, and technology of improving the genetic makeup of plants in relation to their economic use for mankind."
-  },
-  {
-    id: "d111x_002",
-    subject: "da-111",
-    lecture: "lecture-1",
-    lectureNo: 1,
-    question: "The process of bringing a wild species under human management is called:",
-    options: ["Selection", "Mutation", "Domestication", "Hybridization"],
-    correct: 2,
-    explanation: "As per DA-111 notes: The process of bringing a wild species under human management is referred to as domestication. Domestication may be the most basic method of plant breeding."
-  },
-  {
     id: "d111x_003",
     subject: "da-111",
     lecture: "lecture-1",
@@ -1086,16 +1066,6 @@ export const da111Questions: Question[] = [
     options: ["Eight cells", "Five cells", "Seven cells", "Six cells"],
     correct: 2,
     explanation: "As per DA-111 notes: The haploid megaspore undergoes mitosis to produce an eight-nucleate, seven-cell female gametophyte (embryo sac)."
-  },
-  {
-    id: "d111x_029",
-    subject: "da-111",
-    lecture: "lecture-3",
-    lectureNo: 3,
-    question: "The finger-like protruded structures present on synergids are called:",
-    options: ["Filiform apparatus", "Funicle", "Micropyle", "Raphe"],
-    correct: 0,
-    explanation: "As per DA-111 notes: Finger-like protruded structures present on synergids are called filiform apparatus. Synergids help guide the pollen tube for successful fertilization."
   },
   {
     id: "d111x_030",

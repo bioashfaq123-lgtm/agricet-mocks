@@ -1663,14 +1663,6 @@ export const da281LectureQuestions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d281l_167", subject: "da-281", lecture: "lecture-12", lectureNo: 12,
-    question: "The botanical name of neem is:",
-    options: ["Azadirachta indica", "Dalbergia latifolia", "Shorea robusta", "Tectona grandis"],
-    correct: 0,
-    explanation: "Neem (Azadirachta indica) is a multipurpose tree known for medicinal, pesticidal, and timber uses. It is called the village pharmacy.",
-    difficulty: "easy"
-  },
-  {
     id: "d281l_168", subject: "da-281", lecture: "lecture-12", lectureNo: 12,
     question: "Bamboo belongs to which plant family?",
     options: ["Gramineae (Poaceae)", "Leguminosae", "Rubiaceae", "Euphorbiaceae"],

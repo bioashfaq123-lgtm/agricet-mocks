@@ -1174,16 +1174,6 @@ export const da171Questions: Question[] = [
     explanation: "As per DA-171 notes: Paddy - Bacterial leaf blight is caused by Xanthomonas oryzae pv. oryzae (bacterial disease)."
   },
   {
-    id: "d171x_038",
-    subject: "da-171",
-    lecture: "lecture-17",
-    lectureNo: 17,
-    question: "Paddy Tungro disease is transmitted by which insect vector?",
-    options: ["Whitefly", "Thrips", "Brown plant hopper", "Green leafhopper"],
-    correct: 3,
-    explanation: "As per DA-171 notes: Paddy - Tungro virus disease is transmitted by green leafhopper."
-  },
-  {
     id: "d171x_039",
     subject: "da-171",
     lecture: "lecture-21",

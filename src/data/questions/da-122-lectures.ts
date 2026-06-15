@@ -1566,7 +1566,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 1,
     question: "A fertile soil in an arid region without water is an example showing that fertile soil is not necessarily:",
     options: ["High in pH", "Poor in texture", "Rich in micronutrients", "A productive soil"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-122 notes: Soils in arid regions may be fertile but not productive. Fertility is one factor; water, temperature, pH etc. also affect productivity."
   },
   {
@@ -1596,7 +1596,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 2,
     question: "Which of the following is NOT a characteristic difference between manures and fertilizers?",
     options: ["Both manures and fertilizers are quick acting", "Manures improve physical properties, fertilizers generally do not", "Manures are organic, fertilizers are inorganic", "Manures are bulky, fertilizers are non-bulky"],
-    correct: 2,
+    correct: 0,
     explanation: "As per DA-122 notes: Fertilizers are quick acting while manures are slow acting. This is a key difference, not a similarity."
   },
   {
@@ -1646,7 +1646,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 5,
     question: "Rural compost is prepared from:",
     options: ["Industrial waste", "Agricultural waste, crop residues, weeds, and farmyard waste", "Municipal garbage only", "Only animal excreta"],
-    correct: 3,
+    correct: 1,
     explanation: "As per DA-122 notes: Rural compost is prepared from agricultural waste like crop residues, weeds, farmyard waste, and other organic materials available in villages."
   },
   {
@@ -1656,7 +1656,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 6,
     question: "Biogas is mainly composed of:",
     options: ["Nitrogen", "Carbon dioxide", "Methane (CH4)", "Hydrogen"],
-    correct: 1,
+    correct: 2,
     explanation: "As per DA-122 notes: Biogas is mainly composed of Methane (CH4, approximately 55-65%) and Carbon dioxide (35-45%), produced by anaerobic digestion of organic matter."
   },
   {
@@ -1676,7 +1676,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 7,
     question: "The most suitable earthworm species for vermicomposting is:",
     options: ["Lumbricus terrestris", "Eisenia fetida (Red wriggler)", "Aporrectodea caliginosa", "Pheretima posthuma"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-122 notes: Eisenia fetida (Red wriggler or Red earthworm) is the most widely used species for vermicomposting due to its high decomposition rate."
   },
   {
@@ -1756,7 +1756,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 13,
     question: "Bone meal is a concentrated organic manure rich in which nutrients?",
     options: ["P and Ca", "N and K", "N and P", "K and Ca"],
-    correct: 1,
+    correct: 0,
     explanation: "As per DA-122 notes: Bone meal is rich in Phosphorus (P) and Calcium (Ca). It contains approximately 20-25% P2O5 and 20-30% CaO."
   },
   {
@@ -1776,7 +1776,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 15,
     question: "Azospirillum is an example of which type of nitrogen-fixing biofertilizer?",
     options: ["Phosphorus mobilizer", "Free-living fixer", "Symbiotic fixer", "Associative fixer"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-122 notes: Azospirillum is an associative nitrogen fixer that lives in close association with plant roots (but not forming true symbiosis like Rhizobium)."
   },
   {
@@ -1786,7 +1786,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 15,
     question: "Azotobacter is classified as which type of nitrogen fixer?",
     options: ["Symbiotic", "Free-living", "Obligate", "Associative"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-122 notes: Azotobacter is a free-living (non-symbiotic) nitrogen-fixing bacterium that fixes atmospheric nitrogen independently in soil."
   },
   {
@@ -1816,7 +1816,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 18,
     question: "Ammonium sulphate contains what percentage of nitrogen?",
     options: ["16%", "20%", "46%", "21%"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-122 notes: Ammonium sulphate [(NH4)2SO4] contains approximately 20.6% (21%) nitrogen and also supplies 24% sulphur."
   },
   {
@@ -1836,7 +1836,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 19,
     question: "Triple Super Phosphate (TSP) contains approximately what percentage of P2O5?",
     options: ["16-18%", "46-48%", "28-32%", "38-44%"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-122 notes: Triple Super Phosphate (TSP) contains approximately 46% P2O5, which is the highest among phosphatic fertilizers."
   },
   {
@@ -1846,7 +1846,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 19,
     question: "Muriate of Potash (MOP) contains approximately what percentage of K2O?",
     options: ["30%", "60%", "50%", "20%"],
-    correct: 3,
+    correct: 1,
     explanation: "As per DA-122 notes: Muriate of Potash (Potassium Chloride, KCl) contains approximately 60% K2O, making it the most concentrated potassic fertilizer."
   },
   {
@@ -1856,7 +1856,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 20,
     question: "Which fertilizer is the best source of both calcium and sulphur?",
     options: ["Urea", "Muriate of potash", "Gypsum (CaSO4)", "Ammonium nitrate"],
-    correct: 1,
+    correct: 2,
     explanation: "As per DA-122 notes: Gypsum (CaSO4·2H2O) is a secondary nutrient fertilizer that supplies both Calcium (23%) and Sulphur (18%)."
   },
   {
@@ -1906,7 +1906,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 26,
     question: "Volatilization loss of nitrogen occurs when urea is applied to:",
     options: ["Acidic soils with rain", "Aerobic sandy soils", "Flooded paddy fields with low temperature", "Alkaline soils (high pH) with high temperature"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-122 notes: Volatilization of nitrogen (as NH3 gas) from urea is high in alkaline soils, at high temperatures, especially in flooded paddy conditions."
   },
   {
@@ -1916,7 +1916,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 27,
     question: "Broadcasting of fertilizer refers to:",
     options: ["Spraying liquid fertilizer on leaves", "Placing fertilizer in holes near plant base", "Spreading fertilizer uniformly over the soil surface", "Applying fertilizer in bands near seeds"],
-    correct: 3,
+    correct: 2,
     explanation: "As per DA-122 notes: Broadcasting is a method of fertilizer application where fertilizer is spread uniformly over the soil surface before or after planting."
   },
   {
@@ -1930,23 +1930,13 @@ export const da122LectureQuestions: Question[] = [
     explanation: "As per DA-122 notes: Band placement is preferred because it places nutrients close to the root zone, reducing fixation/leaching and improving fertilizer use efficiency."
   },
   {
-    id: "d122x_039",
-    subject: "da-122",
-    lecture: "lecture-29",
-    lectureNo: 29,
-    question: "Integrated Nutrient Management (INM) is defined as:",
-    options: ["Use of only biofertilizers", "Combined use of organic manures, biofertilizers and chemical fertilizers for sustainable crop production", "Use of chemical fertilizers only", "Application of only organic manures"],
-    correct: 1,
-    explanation: "As per DA-122 notes: INM is the combined use of organic manures, biofertilizers, and chemical fertilizers to maintain and improve soil fertility for sustainable crop production."
-  },
-  {
     id: "d122x_040",
     subject: "da-122",
     lecture: "lecture-32",
     lectureNo: 32,
     question: "The Fertilizer Control Order (FCO) in India was established in:",
     options: ["1974", "1945", "1985", "1957"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-122 notes: The Fertilizer Control Order (FCO) was established in 1985 to regulate the quality, prices, and sale of fertilizers in India."
   },
   {
@@ -1966,7 +1956,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 18,
     question: "Which nitrogenous fertilizer has the highest nitrogen content?",
     options: ["Ammonium nitrate (34%)", "Urea (46%)", "Ammonium sulphate (21%)", "Calcium ammonium nitrate (25%)"],
-    correct: 2,
+    correct: 1,
     explanation: "As per DA-122 notes: Urea [CO(NH2)2] has the highest nitrogen content at 46% among all commonly used nitrogenous fertilizers."
   },
   {
@@ -1996,7 +1986,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 20,
     question: "Borax and boric acid are the main fertilizer sources of which micronutrient?",
     options: ["Boron", "Copper", "Zinc", "Iron"],
-    correct: 3,
+    correct: 0,
     explanation: "As per DA-122 notes: Borax (Na2B4O7·10H2O) and Boric acid are the main fertilizer sources used to correct Boron deficiency."
   },
   {
@@ -2006,7 +1996,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 21,
     question: "Chelated micronutrients are preferred over mineral salts because:",
     options: ["They are more stable and available at a wider pH range, preventing fixation", "They are cheaper", "They contain higher percentage of micronutrients", "They are easier to manufacture"],
-    correct: 1,
+    correct: 0,
     explanation: "As per DA-122 notes: Chelated micronutrients are preferred because the chelating agent (like EDTA) protects micronutrients from fixation and keeps them available over a wider pH range."
   },
   {
@@ -2036,7 +2026,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 13,
     question: "Guano is a concentrated organic manure derived from:",
     options: ["Blood of slaughtered animals", "Droppings (excreta) of sea birds/bats", "Crop residues", "Fish waste"],
-    correct: 3,
+    correct: 1,
     explanation: "As per DA-122 notes: Guano is a concentrated organic manure derived from the droppings (excreta) of sea birds or bats. It is rich in nitrogen and phosphorus."
   },
   {
@@ -2116,7 +2106,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 20,
     question: "Epsomite (MgSO4·7H2O) is a fertilizer used to supply:",
     options: ["Calcium and Sulphur", "Magnesium and Sulphur", "Iron and Sulphur", "Zinc and Sulphur"],
-    correct: 2,
+    correct: 1,
     explanation: "As per DA-122 notes: Epsomite (Epsom salt, MgSO4·7H2O) is a secondary nutrient fertilizer used to supply Magnesium (10%) and Sulphur (13%)."
   },
   {
@@ -2126,7 +2116,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 22,
     question: "Mixed fertilizers are prepared by:",
     options: ["Manufacturing in factories only", "Mechanical mixing (blending) of individual fertilizers on the farm", "Chemical reaction of individual fertilizer components", "Using ore minerals directly"],
-    correct: 2,
+    correct: 1,
     explanation: "As per DA-122 notes: Mixed fertilizers include farm-made mixtures (prepared by blending) and factory-made granular/pulverised mixtures of individual fertilizer components."
   },
   {
@@ -2136,7 +2126,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 30,
     question: "One constraint of INM is:",
     options: ["It improves soil health", "Availability and transportation of bulky organic manures is a major challenge", "It eliminates the need for chemical fertilizers", "It reduces crop yields"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-122 notes: A major constraint of INM is the availability, transportation, and high cost of bulky organic manures, making it difficult for farmers to adopt on a large scale."
   },
   {
@@ -2146,7 +2136,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 6,
     question: "The biogas plant digester is constructed to maintain which type of conditions for optimal methane production?",
     options: ["Partially aerobic conditions", "Aerobic conditions", "Anaerobic conditions", "Dry conditions"],
-    correct: 1,
+    correct: 2,
     explanation: "As per DA-122 notes: The biogas plant digester is maintained under strict anaerobic conditions for optimal methane production by methanogenic bacteria."
   },
   {
@@ -2166,7 +2156,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 26,
     question: "Leaching loss of nitrogen is maximum for which type of fertilizer?",
     options: ["Ammonium sulphate", "Ammonium nitrate", "Calcium nitrate and other nitrate forms", "Urea"],
-    correct: 0,
+    correct: 2,
     explanation: "As per DA-122 notes: Nitrate forms of nitrogen (like calcium nitrate) are most susceptible to leaching as they carry negative charges and are not held by negatively-charged soil colloids."
   },
   {
@@ -2206,7 +2196,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 14,
     question: "Blue Green Algae (BGA) used as biofertilizer in rice can fix atmospheric nitrogen because it:",
     options: ["Dissolves phosphates", "Works only with legume roots", "Lives in soil permanently", "Photosynthesises and fixes N2 through heterocysts (specialised cells)"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-122 notes: Blue Green Algae (cyanobacteria) photosynthesize and fix atmospheric nitrogen through specialised cells called heterocysts. BGA is commonly used in flooded rice fields."
   },
   {
@@ -2236,7 +2226,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 4,
     question: "The most important factor that affects the rate of composting is:",
     options: ["Wind speed", "Moisture content and temperature of the composting mass", "Altitude", "Soil type"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-122 notes: The most important factors affecting composting rate are moisture content (optimum 50-60%) and temperature (optimum 55-65°C for thermophilic phase)."
   },
   {

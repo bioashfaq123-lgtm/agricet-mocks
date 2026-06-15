@@ -934,16 +934,6 @@ export const da102Questions: Question[] = [
     explanation: "As per DA-102 notes: Seeds should be treated with Carbendazim @ 3 g/l water for 1 kg of seeds before sowing in nursery."
   },
   {
-    id: "d102x_014",
-    subject: "da-102",
-    lecture: "lecture-4",
-    lectureNo: 4,
-    question: "The seed rate for SRI method of rice cultivation per acre is:",
-    options: ["2 kg", "30-36 kg", "20-25 kg", "10-15 kg"],
-    correct: 0,
-    explanation: "As per DA-102 notes: SRI method of rice cultivation requires only 2 kg seed per acre, much lower than conventional methods."
-  },
-  {
     id: "d102x_015",
     subject: "da-102",
     lecture: "lecture-4",
@@ -1012,16 +1002,6 @@ export const da102Questions: Question[] = [
     options: ["Fish and shrimp", "Rabbits only", "Horses only", "Poultry and livestock"],
     correct: 3,
     explanation: "As per DA-102 notes: Maize is mainly used as feed for poultry and livestock, though also consumed as sweet corn, pop corn and baby corn."
-  },
-  {
-    id: "d102x_022",
-    subject: "da-102",
-    lecture: "lecture-12",
-    lectureNo: 12,
-    question: "The scientific name of Sorghum is:",
-    options: ["Oryza sativa", "Pennisetum glaucum", "Sorghum bicolor", "Zea mays"],
-    correct: 2,
-    explanation: "As per DA-102 notes: The scientific name of Sorghum is Sorghum bicolor."
   },
   {
     id: "d102x_023",
@@ -1132,16 +1112,6 @@ export const da102Questions: Question[] = [
     options: ["Vigna radiata", "Cajanus cajan", "Macrotyloma uniflorum", "Cicer arietinum"],
     correct: 2,
     explanation: "As per DA-102 notes: The scientific name of Horsegram is Macrotyloma uniflorum (Dolichos biflorus)."
-  },
-  {
-    id: "d102x_034",
-    subject: "da-102",
-    lecture: "lecture-26",
-    lectureNo: 26,
-    question: "The scientific name of Cowpea is:",
-    options: ["Vigna unguiculata", "Cajanus cajan", "Vigna radiata", "Glycine max"],
-    correct: 0,
-    explanation: "As per DA-102 notes: The scientific name of Cowpea is Vigna unguiculata."
   },
   {
     id: "d102x_035",

@@ -1561,7 +1561,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 1,
     question: "Mendel's laws of inheritance were rediscovered in which year?",
     options: ["1865", "1900", "1927", "1914"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-111 notes: In 1900, Mendel's laws of inheritance were rediscovered and laid the foundation for the development of plant breeding."
   },
   {
@@ -1581,7 +1581,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 1,
     question: "Who coined the term 'heterosis'?",
     options: ["W.L. Johannsen", "H.J. Muller", "G.H. Shull (1914)", "Hugo de Vries"],
-    correct: 1,
+    correct: 2,
     explanation: "As per DA-111 notes: G.H. Shull (1914) coined the term heterosis. In maize, loss of vigor occurs due to self-pollination and hybrid vigor is more due to cross-pollination."
   },
   {
@@ -1591,7 +1591,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 1,
     question: "Who invented mutations in plants?",
     options: ["Charles Darwin", "Hugo de Vries (1900)", "Watson and Crick", "G.H. Shull"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-111 notes: Hugo de Vries (1900) used the term mutation first time and invented/discovered mutations in plants."
   },
   {
@@ -1641,7 +1641,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 1,
     question: "The first hybrid maize in India (Ganga-1) was released in:",
     options: ["1957", "1965", "1961", "1952"],
-    correct: 3,
+    correct: 2,
     explanation: "As per DA-111 notes: In collaboration with Rockefeller foundation, the first maize hybrid Ganga-1 was released in 1961 in India."
   },
   {
@@ -1651,7 +1651,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 1,
     question: "Sugarcane Breeding Institute was established at Coimbatore in:",
     options: ["1920", "1912", "1906", "1900"],
-    correct: 3,
+    correct: 1,
     explanation: "As per DA-111 notes: Sugarcane Breeding Institute was established in 1912 at Coimbatore. The CO prefix is used before sugarcane varieties released from there."
   },
   {
@@ -1661,7 +1661,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 1,
     question: "Central Potato Research Institute was originally established at Simla in:",
     options: ["1928", "1946", "1935", "1922"],
-    correct: 3,
+    correct: 2,
     explanation: "As per DA-111 notes: Central Breeding Station was established in 1935 at Simla, later changed to Central Potato Research Institute. Kufri name is used before varieties from this centre."
   },
   {
@@ -1671,7 +1671,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 1,
     question: "The first hybrid cotton (H4) for commercial cultivation was released from:",
     options: ["Hyderabad", "Surat", "Nagpur", "Dharwar"],
-    correct: 3,
+    correct: 1,
     explanation: "As per DA-111 notes: Hybrid Cotton H4 from Surat was the world's first hybrid released for commercial cultivation. Later, Varalaxmi hybrid was released from Dharwar."
   },
   {
@@ -1681,7 +1681,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 2,
     question: "Which objective of plant breeding involves developing varieties tolerant to drought and salinity?",
     options: ["Biotic resistance", "Determinate growth", "Quality improvement", "Abiotic resistance"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-111 notes: Abiotic resistance breeding aims to develop resistant varieties for drought, soil salinity, extreme temperatures, heat, wind, cold and frost."
   },
   {
@@ -1711,7 +1711,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 2,
     question: "The toxic substance in Khesari (Lathyrus sativus) that causes paralysis of lower limbs is:",
     options: ["Aflatoxin", "Neurotoxin (ODAP)", "Erucic acid", "Gossypol"],
-    correct: 2,
+    correct: 1,
     explanation: "As per DA-111 notes: Neurotoxin (ODAP - Oxalyl Diaminopropionic Acid) in Khesari (Lathyrus sativus) leads to paralysis of lower limbs. Its elimination is an objective of plant breeding."
   },
   {
@@ -1741,7 +1741,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 3,
     question: "The collective term for sepals is called:",
     options: ["Calyx", "Corolla", "Perianth", "Androecium"],
-    correct: 1,
+    correct: 0,
     explanation: "As per DA-111 notes: The sepals, collectively called the calyx, help to protect the unopened bud."
   },
   {
@@ -1791,7 +1791,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 3,
     question: "Each Pollen Mother Cell (PMC) produces how many microspores?",
     options: ["Four", "Two", "Eight", "Three"],
-    correct: 1,
+    correct: 0,
     explanation: "As per DA-111 notes: Pollen Mother Cells are in diploid (2n) condition and each PMC produces four microspores through meiosis."
   },
   {
@@ -1801,7 +1801,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 3,
     question: "Each Megaspore Mother Cell (MMC) produces four megaspores, of which how many survive?",
     options: ["One", "Four", "Three", "Two"],
-    correct: 1,
+    correct: 0,
     explanation: "As per DA-111 notes: Each MMC produces four megaspores, out of which three degenerate, resulting in a single functional megaspore."
   },
   {
@@ -1811,7 +1811,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 3,
     question: "The female gametophyte (embryo sac) is an eight-nucleate, how many-celled structure?",
     options: ["Seven cells", "Eight cells", "Five cells", "Six cells"],
-    correct: 2,
+    correct: 0,
     explanation: "As per DA-111 notes: The haploid megaspore undergoes mitosis to produce an eight-nucleate, seven-cell female gametophyte (embryo sac)."
   },
   {
@@ -1831,7 +1831,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 3,
     question: "The attachment of funicle with the body of the ovule is called:",
     options: ["Raphe", "Chalaza", "Micropyle", "Hilum"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-111 notes: The point of attachment of funicle with the body of the ovule is called hilum."
   },
   {
@@ -1841,7 +1841,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 4,
     question: "The fusion of one sperm with the egg cell to produce a diploid zygote is called:",
     options: ["Parthenogenesis", "Triple fusion", "Double fertilization", "Syngamy (Generative fertilization)"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-111 notes: The fusion of one of the two sperms with the egg cell producing a diploid zygote is known as fertilization (syngamy or generative fertilization)."
   },
   {
@@ -1851,7 +1851,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 4,
     question: "In double fertilization in angiosperms, the endosperm is formed by the fusion of:",
     options: ["Two sperm nuclei together", "Egg + polar nuclei", "Egg + one sperm nucleus", "Second sperm + diploid polar nuclei (central cell)"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-111 notes: In double fertilization, the second sperm fuses with the diploid central cell (two polar nuclei fused) to form the triploid endosperm."
   },
   {
@@ -1861,7 +1861,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 5,
     question: "Self-pollination (autogamy) is most common in which type of crops?",
     options: ["Castor and coconut", "Rice, wheat, and peas", "Maize and sorghum", "Papaya and date palm"],
-    correct: 2,
+    correct: 1,
     explanation: "As per DA-111 notes: Self-pollination (autogamy) is most common in rice, wheat, peas and other cereal and pulse crops."
   },
   {
@@ -1881,7 +1881,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 7,
     question: "Mass selection involves selection of plants based on:",
     options: ["DNA markers only", "Both genotype and genotype", "Only phenotype", "Only genotype"],
-    correct: 3,
+    correct: 2,
     explanation: "As per DA-111 notes: Mass selection involves selecting plants based on phenotype (observable characteristics) and is the simplest and oldest method of plant improvement."
   },
   {
@@ -1921,7 +1921,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 11,
     question: "Mutation breeding uses which type of agents to induce mutations?",
     options: ["Temperature extremes only", "Natural selection only", "Hormones only", "Physical (X-rays, gamma rays) and chemical (EMS, colchicine) mutagens"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-111 notes: Mutation breeding uses physical mutagens (X-rays, gamma rays) and chemical mutagens (EMS, colchicine) to induce mutations and create genetic variability."
   },
   {
@@ -1931,7 +1931,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 12,
     question: "Polyploidy involves:",
     options: ["Point mutation in single gene", "Multiplication of entire chromosome sets", "Transfer of gene between species", "Reduction in chromosome number"],
-    correct: 3,
+    correct: 1,
     explanation: "As per DA-111 notes: Polyploidy refers to the condition of having more than two complete sets of chromosomes in the nucleus. Colchicine is used to induce polyploidy."
   },
   {
@@ -1951,7 +1951,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 14,
     question: "Male sterility in plants refers to:",
     options: ["Plants unable to produce female gametes", "Plants unable to produce viable pollen", "Plants with no flowers", "Plants with sterile seeds"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-111 notes: Male sterility refers to plants that cannot produce functional/viable pollen. It is used in hybrid seed production to prevent self-pollination of the seed parent."
   },
   {
@@ -1961,7 +1961,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 15,
     question: "Cytoplasmic Male Sterility (CMS) is inherited through:",
     options: ["Cytoplasm (maternal inheritance)", "Both nuclear and cytoplasmic factors equally", "Paternal inheritance only", "Nuclear chromosomes only"],
-    correct: 3,
+    correct: 0,
     explanation: "As per DA-111 notes: Cytoplasmic Male Sterility (CMS) is determined by cytoplasmic (mitochondrial) genes and follows maternal (cytoplasmic) inheritance pattern."
   },
   {
@@ -2001,7 +2001,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 36,
     question: "The seed chain follows the sequence:",
     options: ["Nucleus → Breeder → Foundation → Certified", "Certified → Foundation → Breeder → Nucleus", "Foundation → Breeder → Certified → Nucleus", "Breeder → Nucleus → Foundation → Certified"],
-    correct: 2,
+    correct: 0,
     explanation: "As per DA-111 notes: The seed production chain follows: Nucleus seed → Breeder seed → Foundation seed → Certified seed."
   },
   {
@@ -2011,7 +2011,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 36,
     question: "Nucleus seed is maintained by:",
     options: ["Original breeder/plant breeder who developed the variety", "Farmers themselves", "National Seeds Corporation", "State Seed Corporation"],
-    correct: 3,
+    correct: 0,
     explanation: "As per DA-111 notes: Nucleus seed is maintained by the original plant breeder who developed the variety. It is the source of all other seed classes."
   },
   {
@@ -2021,7 +2021,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 37,
     question: "The tag colour for Foundation seed (class I) is:",
     options: ["Red", "Golden yellow", "White", "Blue"],
-    correct: 1,
+    correct: 2,
     explanation: "As per DA-111 notes: Foundation seed (Class I) has a White tag, while Certified seed has Blue tag."
   },
   {
@@ -2031,7 +2031,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 37,
     question: "The tag colour for Certified seed is:",
     options: ["Golden yellow", "Red", "White", "Blue"],
-    correct: 2,
+    correct: 0,
     explanation: "As per DA-111 notes: Certified seed has a Blue tag. Foundation seed has White tag and Breeder seed has Golden yellow tag."
   },
   {
@@ -2061,7 +2061,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 39,
     question: "The minimum germination percentage required for certified seed of rice is:",
     options: ["75%", "70%", "85%", "80%"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-111 notes: The minimum germination percentage required for certified seed of rice is 80%."
   },
   {
@@ -2121,7 +2121,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 45,
     question: "Stratification is a method to break dormancy in which seeds are treated with:",
     options: ["Strong acids", "Hot water for 30 minutes", "Mechanical scarification", "Cold and moist conditions for a period"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-111 notes: Stratification involves exposing seeds to cold moist conditions (0-10°C) for a period to break dormancy in many tree species."
   },
   {
@@ -2131,7 +2131,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 46,
     question: "Seed vigour refers to:",
     options: ["The overall physical condition of seed", "Weight of seeds per unit volume", "Only germination percentage", "Potential of seeds for rapid, uniform germination and seedling emergence"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-111 notes: Seed vigour refers to the sum total of properties that determine the potential for rapid, uniform germination and seedling development under a wide range of field conditions."
   },
   {
@@ -2161,7 +2161,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 48,
     question: "Which chemical is commonly used as seed treatment fungicide?",
     options: ["2,4-D", "Paraquat", "Thiram (TMTD)", "DDT"],
-    correct: 3,
+    correct: 2,
     explanation: "As per DA-111 notes: Thiram (TMTD - Tetramethyl thiuram disulfide) is a commonly used seed treatment fungicide to protect seeds from soil-borne and seed-borne pathogens."
   },
   {
@@ -2221,7 +2221,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 1,
     question: "Norin 10 dwarfing gene in wheat was used to develop which types of varieties?",
     options: ["Disease-resistant varieties", "Long-duration varieties", "Early maturing varieties", "Semi-dwarf high-yielding varieties"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-111 notes: After the invention of Norin 10-dwarfing gene, development of semi-dwarf varieties of wheat was started, which became the basis of the Green Revolution."
   },
   {
@@ -2231,7 +2231,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 2,
     question: "Phytoremediation is the use of plants to:",
     options: ["Produce medicinal compounds", "Control weeds naturally", "Improve soil organic matter", "Remove toxic substances from soil and water"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-111 notes: Phytoremediation involves using plants to remove, degrade, or contain toxic substances (heavy metals, pollutants) from contaminated soil and water."
   },
   {

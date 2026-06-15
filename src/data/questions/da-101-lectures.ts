@@ -1714,16 +1714,6 @@ export const da101LectureQuestions: Question[] = [
     explanation: "As per DA-101 notes: Hygrometer (or Psychrometer) is used to measure relative humidity."
   },
   {
-    id: "d101x_028",
-    subject: "da-101",
-    lecture: "lecture-5",
-    lectureNo: 5,
-    question: "Wind speed is measured by:",
-    options: ["Hygrometer", "Barometer", "Thermometer", "Anemometer"],
-    correct: 3,
-    explanation: "As per DA-101 notes: Anemometer is the instrument used to measure wind speed."
-  },
-  {
     id: "d101x_029",
     subject: "da-101",
     lecture: "lecture-5",
@@ -1892,16 +1882,6 @@ export const da101LectureQuestions: Question[] = [
     options: ["Trickle irrigation", "Furrow irrigation", "Flood irrigation", "Sprinkler irrigation"],
     correct: 0,
     explanation: "As per DA-101 notes: Drip irrigation is also known as trickle irrigation as water is applied drop by drop near the plant roots."
-  },
-  {
-    id: "d101x_046",
-    subject: "da-101",
-    lecture: "lecture-11",
-    lectureNo: 11,
-    question: "Sprinkler irrigation is most suitable for:",
-    options: ["Heavy clay soils only under standard field conditions", "Waterlogged areas under standard field conditions", "Sandy and undulating lands with irregular topography", "Flooded paddy fields under standard field conditions"],
-    correct: 2,
-    explanation: "As per DA-101 notes: Sprinkler irrigation is most suitable for sandy and undulating lands with irregular topography."
   },
   {
     id: "d101x_047",
