@@ -1606,7 +1606,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 3,
     question: "The best method for FYM preparation among heap, pit and covered pit methods is:",
     options: ["Covered pit method", "Pit method", "All are equally good", "Heap method"],
-    correct: 3,
+    correct: 0,
     explanation: "As per DA-122 notes: Of all the methods, the covered pit method is the best method for FYM preparation as it minimises nutrient losses."
   },
   {
@@ -1616,7 +1616,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 3,
     question: "Good quality manure can be obtained from each pair of cattle per annum (pit method) as approximately:",
     options: ["12-15 tonnes", "5-6 tonnes", "2-3 tonnes", "8-10 tonnes"],
-    correct: 2,
+    correct: 1,
     explanation: "As per DA-122 notes: About 5-6 tonnes of good quality manure can be obtained from each animal per annum using the pit method."
   },
   {
@@ -1696,7 +1696,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 9,
     question: "Which of the following is used as a green manure crop in situ?",
     options: ["Neem", "Gliricidia", "Sesbania (Dhaincha)", "Pongamia"],
-    correct: 0,
+    correct: 2,
     explanation: "As per DA-122 notes: Sesbania (Dhaincha), Pillipesara, Crotalaria, Horsegram are used as green manure crops in situ. Neem and Pongamia are green leaf manure crops."
   },
   {
@@ -1866,7 +1866,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 20,
     question: "Zinc sulphate (ZnSO4) is the most commonly used fertilizer to correct:",
     options: ["Zinc deficiency", "Boron deficiency", "Iron deficiency", "Manganese deficiency"],
-    correct: 2,
+    correct: 0,
     explanation: "As per DA-122 notes: Zinc sulphate (ZnSO4) is the most commonly used fertilizer to correct zinc deficiency, especially in rice (Khaira disease)."
   },
   {
@@ -1936,7 +1936,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 29,
     question: "Integrated Nutrient Management (INM) is defined as:",
     options: ["Use of only biofertilizers", "Combined use of organic manures, biofertilizers and chemical fertilizers for sustainable crop production", "Use of chemical fertilizers only", "Application of only organic manures"],
-    correct: 2,
+    correct: 1,
     explanation: "As per DA-122 notes: INM is the combined use of organic manures, biofertilizers, and chemical fertilizers to maintain and improve soil fertility for sustainable crop production."
   },
   {

@@ -1621,7 +1621,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 1,
     question: "Sir T.S. Venkatraman transferred thick stem and high sugar content from tropical noble cane to North Indian canes. This process is called:",
     options: ["Mutation breeding", "Hybridization", "Backcross breeding", "Noblization of sugarcane"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-111 notes: Sir T.S. Venkatraman transferred thick stem and high sugar contents from tropical noble cane to North Indian canes. This process is known as noblization of sugarcane."
   },
   {
@@ -2151,7 +2151,7 @@ export const da111LectureQuestions: Question[] = [
     lectureNo: 48,
     question: "Safe storage moisture content for cereals (wheat, rice) is:",
     options: ["15-18%", "Below 9%", "Above 20%", "12% or below"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-111 notes: For safe storage of cereal seeds, moisture content should be maintained at 12% or below to prevent deterioration and fungal growth."
   },
   {

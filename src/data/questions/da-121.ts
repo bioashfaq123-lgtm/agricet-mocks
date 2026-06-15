@@ -830,7 +830,7 @@ export const da121Questions: Question[] = [
     lectureNo: 1,
     question: "Shifting cultivation is an agricultural practice approximately how many years old?",
     options: ["3000 years", "9000 years", "12000 years", "5000 years"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-121 notes: Shifting cultivation is the first step in transition from food gathering to food production, nearly 9000 years old agricultural practice."
   },
   {
@@ -910,7 +910,7 @@ export const da121Questions: Question[] = [
     lectureNo: 4,
     question: "The hydrometer method is used for:",
     options: ["Determining soil organic matter", "Measuring soil pH", "Estimating soil texture by particle size analysis", "Measuring soil moisture"],
-    correct: 1,
+    correct: 2,
     explanation: "As per DA-121 notes: The hydrometer method (Bouyoucos method) is used for estimating soil texture by measuring the sedimentation rate of soil particles."
   },
   {
@@ -940,7 +940,7 @@ export const da121Questions: Question[] = [
     lectureNo: 6,
     question: "Particle density (true density) of most mineral soils is approximately:",
     options: ["1.0-1.2 g/cm³", "1.5-1.8 g/cm³", "3.5 g/cm³", "2.65 g/cm³"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-121 notes: Particle density (true density) is the weight per unit volume of solid particles only. For most mineral soils, it is approximately 2.65 g/cm³."
   },
   {
@@ -960,7 +960,7 @@ export const da121Questions: Question[] = [
     lectureNo: 8,
     question: "Field capacity (FC) is the soil moisture content after:",
     options: ["All water has drained from soil", "Complete air drying", "Plants wilt permanently", "Gravitational water has drained away (typically 1-3 days after saturation)"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-121 notes: Field capacity is the moisture content retained by soil after gravitational water has drained away (typically 1/3 bar tension for clay, 1/10 bar for sandy soils)."
   },
   {
@@ -1130,7 +1130,7 @@ export const da121Questions: Question[] = [
     lectureNo: 22,
     question: "Gypsum is used for reclamation of:",
     options: ["Saline soils", "Sandy soils", "Acid soils", "Sodic/alkaline soils"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-121 notes: Gypsum (CaSO4) is used for reclamation of sodic/alkaline soils. Calcium from gypsum replaces sodium from the exchange complex."
   },
   {
@@ -1360,7 +1360,7 @@ export const da121Questions: Question[] = [
     lectureNo: 26,
     question: "Sulphur deficiency symptom closely resembles:",
     options: ["Iron deficiency", "Phosphorus deficiency", "Potassium deficiency", "Nitrogen deficiency (yellowing)"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-121 notes: Sulphur deficiency causes yellowing of young leaves (as it is immobile), which resembles nitrogen deficiency but appears first in young leaves."
   },
   {

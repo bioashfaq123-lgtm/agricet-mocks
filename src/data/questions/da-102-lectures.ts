@@ -232,7 +232,7 @@ export const da102LectureQuestions: Question[] = [
     id: "d102l_029", subject: "da-102", lecture: "lecture-2", lectureNo: 2,
     question: "The ear (cob) in maize bears:",
     options: ["Vegetative buds", "Male flowers", "Both male and female", "Female flowers (pistillate)"],
-    correct: 1,
+    correct: 3,
     explanation: "The ear bears female flowers; silk represents the stigma and style.",
     difficulty: "easy"
   },
@@ -1599,7 +1599,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 3,
     question: "After transplanting, alley ways of 20 cm should be maintained at every:",
     options: ["2 metres", "3 metres", "1 metre", "5 metres"],
-    correct: 2,
+    correct: 0,
     explanation: "As per DA-102 notes: Paths/alleyways of 20 cm at every 2 metres after transplanting help aeration, ventilation and reduce pests."
   },
   {
@@ -1649,7 +1649,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 5,
     question: "Azolla is inoculated in rice at what rate?",
     options: ["500 kg/ha", "100 kg/ha", "150 kg/ha", "250 kg/ha"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-102 notes: Raise Azolla as a dual crop by inoculating 250 kg/ha 3 to 5 DAT in rice for the wet season crop."
   },
   {
@@ -1799,7 +1799,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 5,
     question: "Pseudomonas fluorescens (Pf1) is applied in rice at the rate of:",
     options: ["5 kg/ha", "10 kg/ha", "1 kg/ha", "2.5 kg/ha"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-102 notes: Pseudomonas fluorescens (Pf1) is applied at 2.5 kg/ha mixed with 50 kg FYM and 25 kg soil and broadcast before transplanting."
   },
   {
@@ -1819,7 +1819,7 @@ export const da102LectureQuestions: Question[] = [
     lectureNo: 3,
     question: "For aged seedlings in rice, the top leaf sheath that should be removed is:",
     options: ["3-4 inches", "1-2 inches", "5-6 inches", "7-8 inches"],
-    correct: 1,
+    correct: 0,
     explanation: "As per DA-102 notes: For aged seedlings, the top 3-4 inches leaf sheath should be removed before transplanting."
   },
   {

@@ -310,7 +310,7 @@ export const irrigationQuestions: Question[] = [
     subject: "irrigation",
     question: "Net irrigation requirement (NIR) is calculated as:",
     options: ["Gross irrigation requirement - rainfall", "Both B and C", "Total ET - rainfall", "Crop water requirement - effective rainfall"],
-    correct: 1,
+    correct: 3,
     explanation: "Net Irrigation Requirement = Crop water requirement (ET) - Effective rainfall. This is the amount of water that must be applied through irrigation to meet crop needs not fulfilled by rainfall."
   },
   {
