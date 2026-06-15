@@ -1792,4 +1792,5 @@ export const da201Questions: Question[] = [
     options: ["A-2-i, B-3-ii, C-1-iii, D-4-iv", "A-1-iii, B-2-i, C-3-ii, D-4-iv", "A-1-i, B-2-ii, C-3-iii, D-4-iv", "A-4-i, B-3-ii, C-2-iii, D-1-iv"],
     correct: 2,
     explanation: "Sunflower: N for rabi hybrids 30 kg/ha in 3 splits (sowing, 30 DAS, 50-60 DAS); P 24-36 kg/ha as basal; K 12 kg/ha as basal; Sulphur 25 kg/ha at last ploughing. SSP is best source for P as it also supplies sulphur."
+  },
 ];
