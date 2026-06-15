@@ -80,7 +80,7 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "Stone grafting in mango is performed using:",
-    options: ["Softwood scion on hardwood rootstock", "Leaf bud as scion on mature rootstock", "Air layering followed by grafting", "Mature hardwood scion on freshly germinated rootstock seedling"],
+    options: ["Softwood scion on hardwood rootstock under standard field conditions", "Leaf bud as scion on mature rootstock under standard field conditions", "Air layering followed by grafting under standard field conditions", "Mature hardwood scion on freshly germinated rootstock seedling"],
     correct: 3,
     explanation: "Stone grafting uses hardened scion wood grafted onto a seedling whose stone (seed) is just germinating. The cotyledons still provide nutrition, giving high success rates."
   },
@@ -130,7 +130,7 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "The best rootstock species commonly used for mango grafting in India is:",
-    options: ["Mangifera odorata", "Mangifera indica (polyembryonic varieties)", "Mangifera foetida", "Mangifera sylvatica"],
+    options: ["Mangifera odorata under standard field conditions", "Mangifera indica (polyembryonic varieties)", "Mangifera foetida under standard field conditions", "Mangifera sylvatica under standard field conditions"],
     correct: 1,
     explanation: "Polyembryonic varieties of Mangifera indica (e.g., Olour, Bappakai) are used as rootstocks for mango grafting because their seedlings are genetically uniform and true-to-type from nucellar embryos."
   },
@@ -222,7 +222,7 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "CO-1 is a popular papaya variety developed at:",
-    options: ["IIHR, Bengaluru in horticultural practices", "IARI, New Delhi", "Punjab Agricultural University", "Tamil Nadu Agricultural University (TNAU), Coimbatore"],
+    options: ["IIHR, Bengaluru in horticultural practices", "IARI, New Delhi under standard field conditions", "Punjab Agricultural University under standard field conditions", "Tamil Nadu Agricultural University (TNAU), Coimbatore"],
     correct: 3,
     explanation: "CO-1 is a papaya variety developed at TNAU (Tamil Nadu Agricultural University), Coimbatore. It is a gynodioecious variety producing mostly female and hermaphrodite plants."
   },
@@ -516,7 +516,7 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "The commercial pomegranate variety 'Bhagwa' is characterized by:",
-    options: ["Small fruits with many seeds and low juice", "Yellow skin with white arils and soft rind", "White skin with white arils and mild taste", "Bright red (saffron) skin with dark red, juicy arils and high yield"],
+    options: ["Small fruits with many seeds and low juice under standard field conditions", "Yellow skin with white arils and soft rind under standard field conditions", "White skin with white arils and mild taste under standard field conditions", "Bright red (saffron) skin with dark red, juicy arils and high yield"],
     correct: 3,
     explanation: "Bhagwa (Shendri) is the leading commercial pomegranate variety from Maharashtra, with bright saffron-red skin, deep red arils, high juice content (78%), excellent export quality and high yield."
   },
@@ -526,7 +526,7 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "The maturity index used for sapota harvest is:",
-    options: ["Days from flowering (90–120 days) in horticultural practices", "Skin color turns from green to yellow", "Surface color change from greenish-brown to full brown and hardness check", "TSS above 20 Brix for vegetable cultivation"],
+    options: ["Days from flowering (90–120 days) in horticultural practices", "Skin color turns from green to yellow under standard field conditions", "Surface color change from greenish-brown to full brown and hardness check", "TSS above 20 Brix for vegetable cultivation under standard field conditions"],
     correct: 2,
     explanation: "Sapota maturity is judged by change of surface scurf color from greenish-brown to full brown (rusty) and the loss of milky latex. Fruits are scratched to check color change beneath the skin."
   },
@@ -798,7 +798,7 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Blossom End Rot (BER) in tomato is caused by:",
-    options: ["Calcium deficiency in developing fruits (physiological disorder)", "High humidity during fruit development", "Bacterial infection", "Fungal infection at blossom end"],
+    options: ["Calcium deficiency in developing fruits (physiological disorder)", "High humidity during fruit development under standard field conditions", "Bacterial infection in irrigated crop production systems", "Fungal infection at blossom end under standard field conditions"],
     correct: 0,
     explanation: "Blossom End Rot (BER) is a physiological disorder of tomato caused by calcium deficiency in developing fruits, often linked to irregular irrigation causing inconsistent calcium uptake."
   },
@@ -1032,7 +1032,7 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "The pungency in onion is due to which sulfur compound?",
-    options: ["Allicin in horticultural practices in agriculture", "Sinigrin for vegetable cultivation under field conditions", "Capsaicin in orchard management for crop production", "Propanethial S-oxide (Lachrymatory factor) and alkenyl cysteine sulfoxides"],
+    options: ["Allicin in horticultural practices in agriculture under standard field conditions", "Sinigrin for vegetable cultivation under field conditions under standard field conditions", "Capsaicin in orchard management for crop production under standard field conditions", "Propanethial S-oxide (Lachrymatory factor) and alkenyl cysteine sulfoxides"],
     correct: 3,
     explanation: "Onion pungency is due to alkenyl cysteine sulfoxides (mainly S-1-propenyl-L-cysteine sulfoxide). When cells are damaged, allinase enzyme converts these to the lachrymatory factor (propanethial S-oxide) and pyruvate."
   },
@@ -1072,7 +1072,7 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "The compound allicin in garlic responsible for medicinal and antimicrobial properties is released when:",
-    options: ["Garlic is kept in acidic solutions", "Garlic is stored in cool temperatures", "Garlic cloves are crushed, chopped or chewed (activates allinase)", "Garlic is cooked at high temperature"],
+    options: ["Garlic is kept in acidic solutions under standard field conditions", "Garlic is stored in cool temperatures under standard field conditions", "Garlic cloves are crushed, chopped or chewed (activates allinase)", "Garlic is cooked at high temperature under standard field conditions"],
     correct: 2,
     explanation: "Allicin is produced when alliinase enzyme (released upon cell disruption) converts alliin to allicin. Crushing or chopping garlic activates this enzyme. Cooking destroys allinase, reducing allicin."
   },
@@ -1204,7 +1204,7 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "The red/purple color in beetroot (Beta vulgaris) is due to:",
-    options: ["Carotenoids", "Anthocyanins", "Betalains (betacyanins and betaxanthins)", "Lycopene"],
+    options: ["Carotenoids under standard field conditions", "Anthocyanins under standard field conditions", "Betalains (betacyanins and betaxanthins)", "Lycopene under standard field conditions"],
     correct: 2,
     explanation: "Beetroot's characteristic red/purple color is due to betalain pigments (betacyanins like betanin). These are different from anthocyanins and are unique to the order Caryophyllales."
   },
@@ -1274,7 +1274,7 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Bitter gourd (Karela – Momordica charantia) is important in treating which medical condition?",
-    options: ["Arthritis", "Anemia", "Hypertension", "Diabetes (as antidiabetic vegetable)"],
+    options: ["Arthritis under standard field conditions", "Anemia under standard field conditions", "Hypertension under standard field conditions", "Diabetes (as antidiabetic vegetable)"],
     correct: 3,
     explanation: "Bitter gourd (karela) is known for its antidiabetic properties. It contains charantin, vicine and polypeptide-p (plant insulin), which help lower blood glucose levels."
   },
@@ -1316,7 +1316,7 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Marigold is botanically classified as which type of flower?",
-    options: ["Composite/Capitulum inflorescence (head of multiple florets)", "Spike inflorescence", "Cymose inflorescence", "Simple flower with single petals"],
+    options: ["Composite/Capitulum inflorescence (head of multiple florets)", "Spike inflorescence under standard field conditions", "Cymose inflorescence under standard field conditions", "Simple flower with single petals under standard field conditions"],
     correct: 0,
     explanation: "Marigold (Tagetes spp.) belongs to family Asteraceae (Compositae) and has a capitulum (head) inflorescence consisting of many ray florets (outer) and disc florets (inner)."
   },
@@ -1416,7 +1416,7 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "The tuberose (Polianthes tuberosa) is propagated commercially by:",
-    options: ["Seeds", "Stem cuttings", "Daughter bulbs/offsets from clumps", "Air layering"],
+    options: ["Seeds under standard field conditions", "Stem cuttings under standard field conditions", "Daughter bulbs/offsets from clumps", "Air layering under standard field conditions"],
     correct: 2,
     explanation: "Tuberose is propagated commercially by daughter bulbs (offsets) that develop around the mother bulb. Bulbs of 2–2.5 cm diameter are used for planting to get good flowering."
   },
@@ -1598,7 +1598,7 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Agmark grading standard for agricultural produce in India is governed by:",
-    options: ["Agricultural Produce (Grading and Marking) Act 1937 (AGMARK)", "Food Safety and Standards Authority of India (FSSAI)", "Export Inspection Council (EIC)", "Bureau of Indian Standards (BIS)"],
+    options: ["Agricultural Produce (Grading and Marking) Act 1937 (AGMARK)", "Food Safety and Standards Authority of India (FSSAI)", "Export Inspection Council (EIC) under standard field conditions", "Bureau of Indian Standards (BIS) under standard field conditions"],
     correct: 0,
     explanation: "AGMARK grading standards are established under the Agricultural Produce (Grading and Marking) Act 1937. The AGMARK logo certifies that produce meets the prescribed quality standards."
   },
@@ -1608,7 +1608,7 @@ export const da282LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "The technique of 'vacuum cooling' used for post-harvest cooling of leafy vegetables works by:",
-    options: ["Immersion in liquid nitrogen", "Reducing atmospheric pressure causing rapid evaporation and cooling", "Blowing cold air at high velocity", "Cooling with ice water immersion"],
+    options: ["Immersion in liquid nitrogen under standard field conditions", "Reducing atmospheric pressure causing rapid evaporation and cooling", "Blowing cold air at high velocity under standard field conditions", "Cooling with ice water immersion under standard field conditions"],
     correct: 1,
     explanation: "Vacuum cooling reduces the atmospheric pressure around the produce, causing rapid evaporation of surface moisture, which removes latent heat and rapidly cools leafy vegetables like lettuce, spinach and herbs."
   },
@@ -1625,7 +1625,7 @@ export const da282LectureQuestions: Question[] = [
   {
     id: "d282l_161", subject: "da-282", lecture: "lecture-11", lectureNo: 11,
     question: "The word horticulture is derived from Latin words meaning:",
-    options: ["Study of plants", "Garden cultivation (hortus=garden + colere=cultivation)", "Plant biology", "Science of farming"],
+    options: ["Study of plants under standard field conditions", "Garden cultivation (hortus=garden + colere=cultivation)", "Plant biology as recommended by ICAR guidelines", "Science of farming under standard field conditions"],
     correct: 1,
     explanation: "Horticulture comes from Latin hortus (garden) + colere (to cultivate). It is the science and art of garden crop production.",
     difficulty: "medium"
@@ -1649,7 +1649,7 @@ export const da282LectureQuestions: Question[] = [
   {
     id: "d282l_164", subject: "da-282", lecture: "lecture-11", lectureNo: 11,
     question: "Floriculture is the branch of horticulture concerned with:",
-    options: ["Fruit production", "Spice production", "Vegetable production", "Flower and ornamental plant production"],
+    options: ["Fruit production under standard field conditions", "Spice production under standard field conditions", "Vegetable production under standard field conditions", "Flower and ornamental plant production"],
     correct: 3,
     explanation: "Floriculture deals with the cultivation of flowers and ornamental plants for decorative purposes, bouquets, and gardens.",
     difficulty: "easy"
@@ -1657,7 +1657,7 @@ export const da282LectureQuestions: Question[] = [
   {
     id: "d282l_165", subject: "da-282", lecture: "lecture-11", lectureNo: 11,
     question: "ASSERTION-REASON: Assertion (A): Mango is called the King of Fruits in India. Reason (R): Mango is the national fruit of India, widely cultivated, and consumed across the country with high economic importance.",
-    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A"],
+    options: ["A is false but R is true under standard field conditions", "Both A and R are true and R is the correct explanation of A", "A is true but R is false under standard field conditions", "Both A and R are true but R is not the correct explanation of A"],
     correct: 1,
     explanation: "Mango (Mangifera indica) is the national fruit of India and called the King of Fruits due to its wide cultivation, variety, and economic importance. R explains A.",
     difficulty: "easy"
@@ -1705,7 +1705,7 @@ export const da282LectureQuestions: Question[] = [
   {
     id: "d282l_171", subject: "da-282", lecture: "lecture-12", lectureNo: 12,
     question: "Pomegranate (Punica granatum) is rich in which nutrient?",
-    options: ["Fat in horticultural practices", "Vitamin C and antioxidants (punicalagins and anthocyanins)", "Vitamin A in orchard management", "Calcium for vegetable cultivation"],
+    options: ["Fat in horticultural practices under standard field conditions", "Vitamin C and antioxidants (punicalagins and anthocyanins)", "Vitamin A in orchard management under standard field conditions", "Calcium for vegetable cultivation under standard field conditions"],
     correct: 1,
     explanation: "Pomegranate is rich in Vitamin C, antioxidants (punicalagins, punicic acid, anthocyanins), and is used for heart health and immunity.",
     difficulty: "medium"
@@ -1713,7 +1713,7 @@ export const da282LectureQuestions: Question[] = [
   {
     id: "d282l_172", subject: "da-282", lecture: "lecture-12", lectureNo: 12,
     question: "ASSERTION-REASON: Assertion (A): Banana is a climacteric fruit. Reason (R): Climacteric fruits show a sharp rise in respiration (climacteric rise) and ethylene production during ripening, and can ripen after harvest.",
-    options: ["A is false but R is true", "A is true but R is false", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
+    options: ["A is false but R is true under standard field conditions", "A is true but R is false under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
     correct: 2,
     explanation: "Banana is climacteric — it ripens after harvest with a rise in ethylene. R correctly defines and explains climacteric behavior.",
     difficulty: "medium"
@@ -1745,7 +1745,7 @@ export const da282LectureQuestions: Question[] = [
   {
     id: "d282l_176", subject: "da-282", lecture: "lecture-13", lectureNo: 13,
     question: "ASSERTION-REASON: Assertion (A): Onion is a modified underground stem (bulb). Reason (R): Onion consists of fleshy scale leaves surrounding a central bud, all attached to a flattened stem (disc).",
-    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A"],
+    options: ["A is false but R is true under standard field conditions", "Both A and R are true and R is the correct explanation of A", "A is true but R is false under standard field conditions", "Both A and R are true but R is not the correct explanation of A"],
     correct: 1,
     explanation: "Onion is a tunicated bulb — a modified stem with fleshy scale leaves on a compressed disc. R correctly explains the botanical structure.",
     difficulty: "medium"
@@ -1785,7 +1785,7 @@ export const da282LectureQuestions: Question[] = [
   {
     id: "d282l_181", subject: "da-282", lecture: "lecture-14", lectureNo: 14,
     question: "ASSERTION-REASON: Assertion (A): Post-harvest losses in horticultural crops are higher than in field crops. Reason (R): Horticultural produce (fruits, vegetables, flowers) are perishable, having high moisture content and being prone to mechanical damage and microbial spoilage.",
-    options: ["Both A and R are true and R is the correct explanation of A", "A is false but R is true", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A"],
+    options: ["Both A and R are true and R is the correct explanation of A", "A is false but R is true under standard field conditions", "A is true but R is false under standard field conditions", "Both A and R are true but R is not the correct explanation of A"],
     correct: 0,
     explanation: "Post-harvest losses in horticulture are 20-40%. R correctly explains the cause — perishable nature, high moisture, and susceptibility to spoilage.",
     difficulty: "medium"
@@ -1825,7 +1825,7 @@ export const da282LectureQuestions: Question[] = [
   {
     id: "d282l_186", subject: "da-282", lecture: "lecture-15", lectureNo: 15,
     question: "ASSERTION-REASON: Assertion (A): Chilli is a vegetable and also a spice. Reason (R): Green chilli is used as a vegetable while dry red chilli is used as a spice; both come from the same plant Capsicum annuum.",
-    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A"],
+    options: ["A is false but R is true under standard field conditions", "Both A and R are true and R is the correct explanation of A", "A is true but R is false under standard field conditions", "Both A and R are true but R is not the correct explanation of A"],
     correct: 1,
     explanation: "Chilli is dual-purpose — green fruit as vegetable, dry red fruit as spice. R correctly explains that both uses come from Capsicum annuum.",
     difficulty: "medium"
@@ -1841,7 +1841,7 @@ export const da282LectureQuestions: Question[] = [
   {
     id: "d282l_188", subject: "da-282", lecture: "lecture-15", lectureNo: 15,
     question: "The edible part of cauliflower is the:",
-    options: ["Curd (compact flower head)", "Stem", "Leaf", "Root"],
+    options: ["Curd (compact flower head)", "Stem under standard field conditions", "Leaf under standard field conditions", "Root under standard field conditions"],
     correct: 0,
     explanation: "The edible part of cauliflower is the curd — a compact, immature flower head (inflorescence) of the plant Brassica oleracea var. botrytis.",
     difficulty: "easy"
@@ -1881,7 +1881,7 @@ export const da282LectureQuestions: Question[] = [
   {
     id: "d282l_193", subject: "da-282", lecture: "lecture-13", lectureNo: 13,
     question: "The edible part of potato is a:",
-    options: ["Root", "Bulb", "Fruit", "Tuber (modified underground stem)"],
+    options: ["Root under standard field conditions", "Bulb under standard field conditions", "Fruit under standard field conditions", "Tuber (modified underground stem)"],
     correct: 3,
     explanation: "Potato (Solanum tuberosum) edible part is a tuber — a swollen underground stem with stored starch, bearing eyes (buds) for propagation.",
     difficulty: "easy"
@@ -1897,7 +1897,7 @@ export const da282LectureQuestions: Question[] = [
   {
     id: "d282l_195", subject: "da-282", lecture: "lecture-14", lectureNo: 14,
     question: "ASSERTION-REASON: Assertion (A): Drip irrigation is highly suitable for horticultural crops. Reason (R): Drip irrigation delivers water directly to the root zone, reducing water loss and improving water use efficiency for fruit and vegetable crops.",
-    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A"],
+    options: ["A is false but R is true under standard field conditions", "Both A and R are true and R is the correct explanation of A", "A is true but R is false under standard field conditions", "Both A and R are true but R is not the correct explanation of A"],
     correct: 1,
     explanation: "Drip irrigation is ideal for horticulture because it precisely delivers water to roots, reducing evaporation and weed growth. R correctly explains A.",
     difficulty: "easy"
@@ -1937,7 +1937,7 @@ export const da282LectureQuestions: Question[] = [
   {
     id: "d282l_200", subject: "da-282", lecture: "lecture-13", lectureNo: 13,
     question: "ASSERTION-REASON: Assertion (A): Bitter gourd is used medicinally to control blood sugar. Reason (R): Bitter gourd (Momordica charantia) contains insulin-like compounds (charantin, polypeptide-p) that help lower blood glucose levels.",
-    options: ["A is false but R is true", "A is true but R is false", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
+    options: ["A is false but R is true under standard field conditions", "A is true but R is false under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
     correct: 2,
     explanation: "Bitter gourd is widely used in Ayurveda for diabetes management. R correctly explains the biochemical basis — charantin and polypeptide-p.",
     difficulty: "medium"

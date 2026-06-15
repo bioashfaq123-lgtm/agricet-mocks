@@ -103,7 +103,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_013", subject: "da-241", lecture: "lecture-2", lectureNo: 2,
     question: "The law of demand states that:",
-    options: ["Supply determines demand in the agricultural economy", "As price increases, quantity demanded decreases (inverse relationship)", "As price increases, demand increases", "Demand is always constant in rural economic context"],
+    options: ["Supply determines demand in the agricultural economy under standard field conditions", "As price increases, quantity demanded decreases (inverse relationship)", "As price increases, demand increases under standard field conditions", "Demand is always constant in rural economic context under standard field conditions"],
     correct: 1,
     explanation: "The law of demand: there is an inverse relationship between price and quantity demanded, ceteris paribus.",
     difficulty: "easy"
@@ -111,7 +111,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_014", subject: "da-241", lecture: "lecture-2", lectureNo: 2,
     question: "Price elasticity of demand measures:",
-    options: ["Change in income due to price", "Profit margin", "Responsiveness of quantity demanded to price change", "Change in supply due to price"],
+    options: ["Change in income due to price under standard field conditions", "Profit margin under standard field conditions", "Responsiveness of quantity demanded to price change", "Change in supply due to price under standard field conditions"],
     correct: 2,
     explanation: "Price elasticity of demand = % change in quantity demanded ÷ % change in price.",
     difficulty: "medium"
@@ -127,7 +127,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_016", subject: "da-241", lecture: "lecture-2", lectureNo: 2,
     question: "The law of supply states that:",
-    options: ["Supply is fixed in the agricultural economy", "As price decreases, supply increases", "Supply and price are unrelated", "As price increases, quantity supplied increases (positive relationship)"],
+    options: ["Supply is fixed in the agricultural economy under standard field conditions", "As price decreases, supply increases under standard field conditions", "Supply and price are unrelated under standard field conditions", "As price increases, quantity supplied increases (positive relationship)"],
     correct: 3,
     explanation: "The law of supply: there is a positive relationship between price and quantity supplied, ceteris paribus.",
     difficulty: "easy"
@@ -135,7 +135,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_017", subject: "da-241", lecture: "lecture-2", lectureNo: 2,
     question: "Market equilibrium occurs when:",
-    options: ["Demand exceeds supply", "Price is zero", "Supply exceeds demand", "Quantity demanded equals quantity supplied"],
+    options: ["Demand exceeds supply under standard field conditions", "Price is zero under standard field conditions", "Supply exceeds demand under standard field conditions", "Quantity demanded equals quantity supplied"],
     correct: 3,
     explanation: "Market equilibrium is the price at which quantity demanded equals quantity supplied.",
     difficulty: "easy"
@@ -201,7 +201,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_025", subject: "da-241", lecture: "lecture-3", lectureNo: 3,
     question: "Variable costs in farming include:",
-    options: ["Land rent", "Depreciation of equipment", "Property tax", "Seeds, fertilizers, labour, irrigation charges"],
+    options: ["Land rent under standard field conditions", "Depreciation of equipment under standard field conditions", "Property tax under standard field conditions", "Seeds, fertilizers, labour, irrigation charges"],
     correct: 3,
     explanation: "Variable costs change with the level of production — seeds, fertilizers, hired labour, fuel.",
     difficulty: "easy"
@@ -225,7 +225,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_028", subject: "da-241", lecture: "lecture-3", lectureNo: 3,
     question: "A farmer maximizes profit when:",
-    options: ["Marginal Revenue (MR) equals Marginal Cost (MC)", "Total output is maximum", "Fixed costs are zero", "Market price is highest"],
+    options: ["Marginal Revenue (MR) equals Marginal Cost (MC)", "Total output is maximum under standard field conditions", "Fixed costs are zero under standard field conditions", "Market price is highest under standard field conditions"],
     correct: 0,
     explanation: "Profit maximization occurs when MR = MC; any further production would add more cost than revenue.",
     difficulty: "medium"
@@ -291,7 +291,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_036", subject: "da-241", lecture: "lecture-4", lectureNo: 4,
     question: "Market margin in agricultural marketing is:",
-    options: ["Taxes paid in the agricultural economy", "Transportation cost only for farm income analysis", "Farmer's profit in rural economic context", "Difference between consumer price and producer price (middlemen's share)"],
+    options: ["Taxes paid in the agricultural economy under standard field conditions", "Transportation cost only for farm income analysis under standard field conditions", "Farmer's profit in rural economic context under standard field conditions", "Difference between consumer price and producer price (middlemen's share)"],
     correct: 3,
     explanation: "Market margin = retail price − farm gate price; it includes costs and profits of all marketing intermediaries.",
     difficulty: "medium"
@@ -307,7 +307,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_038", subject: "da-241", lecture: "lecture-4", lectureNo: 4,
     question: "MSP (Minimum Support Price) is announced by:",
-    options: ["State government only in the agricultural economy", "RBI in rural economic context", "NABARD for farm income analysis", "Government of India (Cabinet Committee on Economic Affairs)"],
+    options: ["State government only in the agricultural economy", "RBI in rural economic context under standard field conditions", "NABARD for farm income analysis under standard field conditions", "Government of India (Cabinet Committee on Economic Affairs)"],
     correct: 3,
     explanation: "MSP is announced by the Government of India (CCEA) based on recommendations of CACP.",
     difficulty: "medium"
@@ -323,7 +323,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_040", subject: "da-241", lecture: "lecture-4", lectureNo: 4,
     question: "e-NAM (National Agriculture Market) is:",
-    options: ["An online trading platform for agricultural commodities", "A government farm scheme", "A rural employment scheme", "A crop insurance scheme"],
+    options: ["An online trading platform for agricultural commodities", "A government farm scheme under standard field conditions", "A rural employment scheme under standard field conditions", "A crop insurance scheme under standard field conditions"],
     correct: 0,
     explanation: "e-NAM is an online platform that integrates existing APMCs and enables farmers to trade electronically across India.",
     difficulty: "medium"
@@ -373,7 +373,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_046", subject: "da-241", lecture: "lecture-5", lectureNo: 5,
     question: "Agricultural cooperative societies help farmers by:",
-    options: ["Increasing land size in the agricultural economy", "Providing collective bargaining, inputs, credit, and marketing services", "Reducing crop diversity for farm income analysis", "Replacing individual farming in rural economic context"],
+    options: ["Increasing land size in the agricultural economy under standard field conditions", "Providing collective bargaining, inputs, credit, and marketing services", "Reducing crop diversity for farm income analysis under standard field conditions", "Replacing individual farming in rural economic context under standard field conditions"],
     correct: 1,
     explanation: "Cooperatives pool resources and bargaining power to help farmers access inputs, credit, and better market prices.",
     difficulty: "easy"
@@ -397,7 +397,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_049", subject: "da-241", lecture: "lecture-5", lectureNo: 5,
     question: "The main source of agricultural credit in rural India is:",
-    options: ["Moneylenders (informal) and commercial banks/cooperatives (formal)", "Government directly in the agricultural economy", "Foreign banks only", "NGOs only in rural economic context"],
+    options: ["Moneylenders (informal) and commercial banks/cooperatives (formal)", "Government directly in the agricultural economy under standard field conditions", "Foreign banks only under tropical agricultural conditions", "NGOs only in rural economic context under standard field conditions"],
     correct: 0,
     explanation: "Both formal (banks, cooperatives) and informal (moneylenders) sources provide agricultural credit in rural India.",
     difficulty: "medium"
@@ -447,7 +447,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_055", subject: "da-241", lecture: "lecture-6", lectureNo: 6,
     question: "Which organization publishes Agricultural Statistics in India?",
-    options: ["SEBI in the agricultural economy in agriculture", "Directorate of Economics and Statistics (DESA), Ministry of Agriculture", "NABARD in rural economic context under field conditions", "RBI for farm income analysis for crop production"],
+    options: ["SEBI in the agricultural economy in agriculture under standard field conditions", "Directorate of Economics and Statistics (DESA), Ministry of Agriculture", "NABARD in rural economic context under field conditions", "RBI for farm income analysis for crop production under standard field conditions"],
     correct: 1,
     explanation: "The Directorate of Economics and Statistics under the Ministry of Agriculture publishes agricultural statistics.",
     difficulty: "medium"
@@ -455,7 +455,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_056", subject: "da-241", lecture: "lecture-6", lectureNo: 6,
     question: "WTO's Agreement on Agriculture (AoA) covers:",
-    options: ["Forest products only in the agricultural economy", "Fisheries in rural economic context", "Market access, domestic support, and export subsidies in agriculture", "Only domestic food safety for farm income analysis"],
+    options: ["Forest products only in the agricultural economy under standard field conditions", "Fisheries in rural economic context under standard field conditions", "Market access, domestic support, and export subsidies in agriculture", "Only domestic food safety for farm income analysis under standard field conditions"],
     correct: 2,
     explanation: "WTO's AoA has three pillars: market access (tariff reduction), domestic support (subsidy limits), and export subsidies.",
     difficulty: "medium"
@@ -481,7 +481,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_059", subject: "da-241", lecture: "lecture-7", lectureNo: 7,
     question: "PM-KISAN scheme provides:",
-    options: ["₹6,000 per year income support in three installments to eligible farmers", "Free seeds to farmers in the agricultural economy", "Soil testing services in rural economic context", "Crop insurance premium subsidy for farm income analysis"],
+    options: ["₹6,000 per year income support in three installments to eligible farmers", "Free seeds to farmers in the agricultural economy under standard field conditions", "Soil testing services in rural economic context under standard field conditions", "Crop insurance premium subsidy for farm income analysis under standard field conditions"],
     correct: 0,
     explanation: "PM-KISAN provides direct income support of ₹6,000/year in three installments to eligible small and marginal farmers.",
     difficulty: "easy"
@@ -489,7 +489,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_060", subject: "da-241", lecture: "lecture-7", lectureNo: 7,
     question: "Micro-finance refers to:",
-    options: ["Small financial services (credit, savings, insurance) to the rural poor", "Foreign direct investment in the agricultural economy", "Large loans to corporations in rural economic context", "Government grants for farm income analysis"],
+    options: ["Small financial services (credit, savings, insurance) to the rural poor", "Foreign direct investment in the agricultural economy under standard field conditions", "Large loans to corporations in rural economic context under standard field conditions", "Government grants for farm income analysis under standard field conditions"],
     correct: 0,
     explanation: "Micro-finance provides small-scale financial services to low-income individuals who lack access to traditional banking.",
     difficulty: "easy"
@@ -547,7 +547,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_067", subject: "da-241", lecture: "lecture-8", lectureNo: 8,
     question: "Value chain in agriculture refers to:",
-    options: ["Farm gate price only in the agricultural economy in agriculture", "Export price for farm income analysis for crop production", "Retail price only in rural economic context under field conditions", "Entire sequence of activities from production to final consumption, adding value at each stage"],
+    options: ["Farm gate price only in the agricultural economy in agriculture under standard field conditions", "Export price for farm income analysis for crop production under standard field conditions", "Retail price only in rural economic context under field conditions under standard field conditions", "Entire sequence of activities from production to final consumption, adding value at each stage"],
     correct: 3,
     explanation: "Agricultural value chain includes input supply, production, processing, marketing, and retail — value is added at each stage.",
     difficulty: "medium"
@@ -555,7 +555,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_068", subject: "da-241", lecture: "lecture-8", lectureNo: 8,
     question: "Contract farming means:",
-    options: ["Cooperative farming in the agricultural economy in agriculture", "Agreement between farmer and buyer/processor specifying price and quality before harvest", "Renting farm land in rural economic context under field conditions", "Government takeover of farms for farm income analysis"],
+    options: ["Cooperative farming in the agricultural economy in agriculture under standard field conditions", "Agreement between farmer and buyer/processor specifying price and quality before harvest", "Renting farm land in rural economic context under field conditions under standard field conditions", "Government takeover of farms for farm income analysis under standard field conditions"],
     correct: 1,
     explanation: "Contract farming is a pre-harvest arrangement between farmer and buyer/company specifying quality, quantity, and price.",
     difficulty: "medium"
@@ -573,7 +573,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_070", subject: "da-241", lecture: "lecture-9", lectureNo: 9,
     question: "Agribusiness includes:",
-    options: ["Import of food only in the agricultural economy", "All commercial activities related to agricultural production, processing, and distribution", "Urban food retail for farm income analysis", "Farming only in rural economic context"],
+    options: ["Import of food only in the agricultural economy under standard field conditions", "All commercial activities related to agricultural production, processing, and distribution", "Urban food retail for farm income analysis in irrigated crop production systems", "Farming only in rural economic context under tropical agricultural conditions"],
     correct: 1,
     explanation: "Agribusiness encompasses input supply, farm production, processing, marketing, and distribution of agricultural products.",
     difficulty: "easy"
@@ -581,7 +581,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_071", subject: "da-241", lecture: "lecture-9", lectureNo: 9,
     question: "India's top agricultural export commodity (by value) is:",
-    options: ["Cotton", "Rice (basmati and non-basmati)", "Wheat", "Sugar"],
+    options: ["Cotton under standard field conditions", "Rice (basmati and non-basmati)", "Wheat under standard field conditions", "Sugar under standard field conditions"],
     correct: 1,
     explanation: "Rice (basmati and non-basmati) is India's top agricultural export by value.",
     difficulty: "medium"
@@ -631,7 +631,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_077", subject: "da-241", lecture: "lecture-10", lectureNo: 10,
     question: "Natural capital in agriculture refers to:",
-    options: ["Financial capital in the agricultural economy", "Natural resources (soil, water, biodiversity) that provide ecosystem services", "Farm machinery in rural economic context", "Human resources for farm income analysis"],
+    options: ["Financial capital in the agricultural economy under standard field conditions", "Natural resources (soil, water, biodiversity) that provide ecosystem services", "Farm machinery in rural economic context under standard field conditions", "Human resources for farm income analysis under standard field conditions"],
     correct: 1,
     explanation: "Natural capital includes soil health, water resources, and biodiversity that underpin agricultural productivity.",
     difficulty: "medium"
@@ -647,7 +647,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_079", subject: "da-241", lecture: "lecture-10", lectureNo: 10,
     question: "Carbon credits in agriculture are earned by:",
-    options: ["Sequestering carbon through improved farming practices", "Burning crop residue", "Using more groundwater", "Increasing synthetic fertilizer use"],
+    options: ["Sequestering carbon through improved farming practices", "Burning crop residue under standard field conditions", "Using more groundwater under standard field conditions", "Increasing synthetic fertilizer use under standard field conditions"],
     correct: 0,
     explanation: "Farmers can earn carbon credits by adopting practices that sequester atmospheric CO₂ in soil and biomass.",
     difficulty: "medium"
@@ -655,7 +655,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_080", subject: "da-241", lecture: "lecture-10", lectureNo: 10,
     question: "Climate-smart agriculture aims to:",
-    options: ["Achieve food security while adapting to climate change and reducing emissions", "Expand farm size indefinitely in the agricultural economy", "Promote only traditional farming in rural economic context", "Maximize chemical use for farm income analysis"],
+    options: ["Achieve food security while adapting to climate change and reducing emissions", "Expand farm size indefinitely in the agricultural economy under standard field conditions", "Promote only traditional farming in rural economic context under standard field conditions", "Maximize chemical use for farm income analysis under standard field conditions"],
     correct: 0,
     explanation: "Climate-smart agriculture pursues productivity, resilience to climate change, and reduction of greenhouse gas emissions.",
     difficulty: "medium"
@@ -665,7 +665,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_081", subject: "da-241", lecture: "lecture-11", lectureNo: 11,
     question: "The elasticity of production (Ep) is calculated as:",
-    options: ["Marginal Physical Product / Average Physical Product", "Average Product / Marginal Cost", "Total Revenue / Total Cost", "Total Product / Total Input"],
+    options: ["Marginal Physical Product / Average Physical Product", "Average Product / Marginal Cost under standard field conditions", "Total Revenue / Total Cost under standard field conditions", "Total Product / Total Input under standard field conditions"],
     correct: 0,
     explanation: "As per DA-241 notes: Elasticity of production Ep = MPP/APP (Marginal Physical Product divided by Average Physical Product). It measures responsiveness of output to input changes.",
     difficulty: "medium"
@@ -761,7 +761,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_093", subject: "da-241", lecture: "lecture-15", lectureNo: 15,
     question: "Assertion (A): In double entry bookkeeping, two entries are made for each transaction.\nReason (R): Every transaction has two aspects - one account receives value (debit) and another gives value (credit).",
-    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
+    options: ["A is true but R is false under standard field conditions", "A is false but R is true under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-241 notes: Double entry system records each transaction in two-fold aspects (debit and credit). Receiving account is debtor and giving account is creditor.",
     difficulty: "medium"
@@ -769,7 +769,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_094", subject: "da-241", lecture: "lecture-15", lectureNo: 15,
     question: "Assertion (A): A firm in equilibrium under perfect competition maximizes profit at MC = MR.\nReason (R): To the left of equilibrium output, MR > MC, meaning each additional unit adds more to revenue than cost.",
-    options: ["Both A and R are true and R is the correct explanation of A", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false"],
+    options: ["Both A and R are true and R is the correct explanation of A", "A is false but R is true under standard field conditions", "Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false under standard field conditions"],
     correct: 0,
     explanation: "As per DA-241 notes: The firm maximizes profit at MC = MR. To the left of equilibrium, MR > MC so output should be expanded. Both assertion and reason are correct.",
     difficulty: "medium"
@@ -801,7 +801,7 @@ export const da241LectureQuestions: Question[] = [
   {
     id: "d241l_098", subject: "da-241", lecture: "lecture-17", lectureNo: 17,
     question: "Assertion (A): AFC curve is continuously declining and hyperbola-shaped.\nReason (R): Total Fixed Cost (TFC) is constant, so as output increases, AFC = TFC/Q keeps falling.",
-    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
+    options: ["A is true but R is false under standard field conditions", "A is false but R is true under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-241 notes: AFC = TFC/Q. Since TFC is constant, AFC continuously falls as output Q increases, giving it a hyperbolic shape.",
     difficulty: "medium"
@@ -851,7 +851,7 @@ export const da241LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "Assertion (A): A tractor with 10-year life can be considered both a flow and stock resource.\nReason (R): Resources can be classified differently based on the length of time under consideration.",
-    options: ["Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is false but R is true", "A is true but R is false"],
+    options: ["Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is false but R is true under standard field conditions", "A is true but R is false under standard field conditions"],
     correct: 1,
     explanation: "A tractor is a stock resource over its entire useful life of 10 years, but also provides services every day making it a flow resource. The classification depends on the time period considered, so R correctly explains A."
   },
@@ -1161,7 +1161,7 @@ export const da241LectureQuestions: Question[] = [
     lecture: "lecture-23",
     lectureNo: 23,
     question: "Assertion (A): The All India Rural Credit Survey Committee concluded that 'Cooperation has failed in India but must succeed.'\nReason (R): Cooperative credit was found to be unevenly distributed and inadequate, mostly benefiting large cultivators.",
-    options: ["Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A"],
+    options: ["Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false under standard field conditions", "A is false but R is true under standard field conditions", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "AIRCSC under Sri. A.D. Gorwala noted two main drawbacks: cooperative credit was unevenly distributed and was inadequate, mostly lent to asset-oriented large cultivators. These failures led to the famous conclusion but also recommendations to restructure cooperatives."
   },
@@ -1461,7 +1461,7 @@ export const da241LectureQuestions: Question[] = [
     lecture: "lecture-19",
     lectureNo: 19,
     question: "'Specialized farming' advantage of 'Allows Better Marketing' means:",
-    options: ["Farmer has to search for many different markets in the agricultural economy", "Government support is available only for specialized farmers for farm income analysis", "Prices are always higher in specialized markets in rural economic context", "Farmer is saved from finding markets for diversified products, allowing better assembling, grading and financing"],
+    options: ["Farmer has to search for many different markets in the agricultural economy under standard field conditions", "Government support is available only for specialized farmers for farm income analysis under standard field conditions", "Prices are always higher in specialized markets in rural economic context under standard field conditions", "Farmer is saved from finding markets for diversified products, allowing better assembling, grading and financing"],
     correct: 3,
     explanation: "Under specialized farming, on marketing front, the farmer is better placed - saved from the pressure of finding market if selling diversified products. It allows better marketing functions including assembling, grading, financing, etc."
   },
@@ -1531,7 +1531,7 @@ export const da241LectureQuestions: Question[] = [
     lecture: "lecture-28",
     lectureNo: 28,
     question: "Farmer Cooperative Societies (FCS) are classified into types based on:",
-    options: ["Size of farm holding only in the agricultural economy", "Need - credit societies, marketing societies, land acquisition, and sakalarta societies", "Geographic location only in rural economic context", "Government regulation type for farm income analysis"],
+    options: ["Size of farm holding only in the agricultural economy under standard field conditions", "Need - credit societies, marketing societies, land acquisition, and sakalarta societies", "Geographic location only in rural economic context under standard field conditions", "Government regulation type for farm income analysis under standard field conditions"],
     correct: 1,
     explanation: "Based on need, FCS are divided into: (1) Cooperative credit societies, (2) Marketing societies, (3) Land acquisition cooperative societies, and (4) Sakalarta agricultural cooperative societies (multi-purpose)."
   },
@@ -1551,7 +1551,7 @@ export const da241LectureQuestions: Question[] = [
     lecture: "lecture-30",
     lectureNo: 30,
     question: "Murray (1953) defined Agricultural Finance as:",
-    options: ["A branch of agricultural economics dealing with financial resources of individual farm units in the agricultural economy", "The study of money markets for agricultural commodities in rural economic context", "An economic study of borrowing funds by farmers, organization of farm lending agencies, and society's interest in credit for agriculture", "The analysis of government subsidies in agriculture for farm income analysis"],
+    options: ["A branch of agricultural economics dealing with financial resources of individual farm units in the agricultural economy", "The study of money markets for agricultural commodities in rural economic context in irrigated crop production systems", "An economic study of borrowing funds by farmers, organization of farm lending agencies, and society's interest in credit for agriculture", "The analysis of government subsidies in agriculture for farm income analysis based on conventional agronomic practices"],
     correct: 2,
     explanation: "Murray (1953): Agricultural finance is 'an economic study of borrowing funds by farmers, the organization and operation of farm lending agencies and of society's interest in credit for agriculture.' Tandon and Dhondyal (1962) defined it as a branch of agricultural economics dealing with financial resources of individual farm units."
   },
@@ -1601,7 +1601,7 @@ export const da241LectureQuestions: Question[] = [
     lecture: "lecture-11",
     lectureNo: 11,
     question: "Assertion (A): Average Fixed Cost (AFC) curve is continuously declining and has the shape of a hyperbola.\nReason (R): Total Fixed Cost remains constant regardless of output level, so as output increases, AFC (TFC/Q) continuously falls.",
-    options: ["Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false", "Both A and R are true and R is the correct explanation of A", "A is false but R is true"],
+    options: ["Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false under standard field conditions", "Both A and R are true and R is the correct explanation of A", "A is false but R is true under standard field conditions"],
     correct: 2,
     explanation: "AFC = TFC/Q. Since TFC is constant, as output Q increases, AFC decreases continuously, forming a hyperbola (never reaches zero). R correctly explains A - the constant TFC distributed over increasing output causes the continuous decline."
   },
@@ -1641,7 +1641,7 @@ export const da241LectureQuestions: Question[] = [
     lecture: "lecture-43",
     lectureNo: 43,
     question: "Dara Sale Method in agricultural marketing has a disadvantage that:",
-    options: ["It requires government intervention in the agricultural economy", "It is only available in regulated markets in rural economic context", "Good quality and poor quality produce fetch the same price, reducing incentive for quality production", "It takes too long to sell produce for farm income analysis"],
+    options: ["It requires government intervention in the agricultural economy under standard field conditions", "It is only available in regulated markets in rural economic context under standard field conditions", "Good quality and poor quality produce fetch the same price, reducing incentive for quality production", "It takes too long to sell produce for farm income analysis under standard field conditions"],
     correct: 2,
     explanation: "Dara Sale Method: produce in different lots is mixed and sold as one lot. Disadvantage: produce of good quality and poor quality fetch the SAME price. This causes loss of incentive for the farmer to cultivate good quality products. This method is common for crops like zeera."
   },
@@ -1681,7 +1681,7 @@ export const da241LectureQuestions: Question[] = [
     lecture: "lecture-44",
     lectureNo: 44,
     question: "Assertion (A): In perfect market, costs of production do not enter into the calculation of the seller in a market period.\nReason (R): In a market period, the supply is fixed (cannot be increased), so price is determined only by demand forces.",
-    options: ["Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is false but R is true", "A is true but R is false"],
+    options: ["Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is false but R is true under standard field conditions", "A is true but R is false under standard field conditions"],
     correct: 1,
     explanation: "In the very short run/market period, the stock is limited and cannot be produced to meet increased demand. Supply is fixed (period too short to change production). Hence the market price is determined mainly by demand, and production costs are irrelevant. R correctly explains A."
   },
@@ -1701,7 +1701,7 @@ export const da241LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "According to Agricultural Production Economics, the subject matter relates to:",
-    options: ["Choice of production patterns and resource use to maximize farmer's objective within limited resources", "Only maximizing single crop production in rural economic context", "Government policy on farm subsidies in the agricultural economy", "Import and export of agricultural commodities for farm income analysis"],
+    options: ["Choice of production patterns and resource use to maximize farmer's objective within limited resources", "Only maximizing single crop production in rural economic context under standard field conditions", "Government policy on farm subsidies in the agricultural economy under standard field conditions", "Import and export of agricultural commodities for farm income analysis under standard field conditions"],
     correct: 0,
     explanation: "Agricultural Production Economics is concerned with the choice of production patterns and resource use in order to maximize the objective function of farmers, their families, the society or the nation within a framework of limited resources. It is applied principles of choice on capital, labour, land and management."
   },
@@ -1811,7 +1811,7 @@ export const da241LectureQuestions: Question[] = [
     lecture: "lecture-43",
     lectureNo: 43,
     question: "'Grading and Standardization' as a marketing function primarily helps in:",
-    options: ["Providing time utility to farm produce in rural economic context", "Reducing the number of intermediaries in marketing channel in the agricultural economy", "Facilitating movement of produce by establishing grades enabling buyers to buy without inspecting every lot", "Increasing the physical quantity of farm produce for farm income analysis"],
+    options: ["Providing time utility to farm produce in rural economic context under standard field conditions", "Reducing the number of intermediaries in marketing channel in the agricultural economy under standard field conditions", "Facilitating movement of produce by establishing grades enabling buyers to buy without inspecting every lot", "Increasing the physical quantity of farm produce for farm income analysis under standard field conditions"],
     correct: 2,
     explanation: "Grading and standardization is a marketing function which facilitates movement of produce by establishing uniform grades. It enables buyers to purchase without inspecting every lot, and helps quality conscious producers get premium prices."
   },
@@ -1821,7 +1821,7 @@ export const da241LectureQuestions: Question[] = [
     lecture: "lecture-34",
     lectureNo: 34,
     question: "Assertion (A): The crop loan system treats the crop itself as security instead of immovable property like land.\nReason (R): The eligibility to receive a loan is measured not by ownership of land but by the fact that the farmer needs credit for cultivation.",
-    options: ["A is false but R is true", "A is true but R is false", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
+    options: ["A is false but R is true under standard field conditions", "A is true but R is false under standard field conditions", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 2,
     explanation: "Both A and R are true but R does NOT explain A. The twin objectives of the crop loan system are: (1) treating the crop as security instead of immovable property, and (2) fixing the scale of finance based on actual farm expenditure. The eligibility criterion (R) is a separate feature, not the reason for treating crop as security."
   },

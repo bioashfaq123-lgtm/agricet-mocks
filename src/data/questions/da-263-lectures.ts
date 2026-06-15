@@ -110,7 +110,7 @@ export const da263LectureQuestions: Question[] = [
   },  {
     id: "d263l_016", subject: "english-communication", lecture: "lecture-2", lectureNo: 2,
     question: "Present Perfect tense is formed as:",
-    options: ["Subject + had + V3", "Subject + is/am/are + V-ing", "Subject + V2", "Subject + has/have + V3 (past participle)"],
+    options: ["Subject + had + V3 under standard field conditions", "Subject + is/am/are + V-ing", "Subject + V2 under standard field conditions", "Subject + has/have + V3 (past participle)"],
     correct: 3,
     explanation: "Present Perfect = has/have + past participle (V3). Example: 'She has sown the seeds.'",
     difficulty: "medium"
@@ -229,7 +229,7 @@ export const da263LectureQuestions: Question[] = [
   },  {
     id: "d263l_033", subject: "english-communication", lecture: "lecture-4", lectureNo: 4,
     question: "A formal letter is written to:",
-    options: ["Friends and family (personal)", "Officials, organizations, or institutions (professional/official)", "Pen pals only", "Social media"],
+    options: ["Friends and family (personal) under standard field conditions", "Officials, organizations, or institutions (professional/official)", "Pen pals only during the critical growth period of crops", "Social media in the context of integrated farming systems"],
     correct: 1,
     explanation: "Formal (official) letters are written to government officials, companies, or institutions using formal language and format.",
     difficulty: "easy"
@@ -257,7 +257,7 @@ export const da263LectureQuestions: Question[] = [
   },  {
     id: "d263l_037", subject: "english-communication", lecture: "lecture-4", lectureNo: 4,
     question: "A report is a formal document that:",
-    options: ["Presents information, findings, or recommendations in a structured format", "Is written informally like a diary", "Has no headings in everyday communication", "Contains only opinions in formal language use"],
+    options: ["Presents information, findings, or recommendations in a structured format", "Is written informally like a diary under standard field conditions", "Has no headings in everyday communication under standard field conditions", "Contains only opinions in formal language use under standard field conditions"],
     correct: 0,
     explanation: "A report presents factual information, analysis, and conclusions in an organized structure for decision-making.",
     difficulty: "easy"
@@ -271,7 +271,7 @@ export const da263LectureQuestions: Question[] = [
   },  {
     id: "d263l_039", subject: "english-communication", lecture: "lecture-4", lectureNo: 4,
     question: "The 'subject line' in a formal letter or email:",
-    options: ["Is the sender's address", "Is the greeting in everyday communication", "Lists the enclosures in formal language use", "Identifies the topic/purpose of the communication concisely"],
+    options: ["Is the sender's address under standard field conditions", "Is the greeting in everyday communication under standard field conditions", "Lists the enclosures in formal language use", "Identifies the topic/purpose of the communication concisely"],
     correct: 3,
     explanation: "The subject line gives a brief description of the topic so the reader knows the purpose at a glance.",
     difficulty: "easy"
@@ -376,7 +376,7 @@ export const da263LectureQuestions: Question[] = [
   },  {
     id: "d263l_054", subject: "english-communication", lecture: "lecture-6", lectureNo: 6,
     question: "Non-verbal communication includes:",
-    options: ["Emails in everyday communication", "Body language, gestures, facial expressions", "Telephone calls", "Written memos"],
+    options: ["Emails in everyday communication", "Body language, gestures, facial expressions", "Telephone calls under standard field conditions", "Written memos under standard field conditions"],
     correct: 1,
     explanation: "Non-verbal communication conveys meaning through body language, gestures, eye contact, and tone rather than words.",
     difficulty: "easy"
@@ -390,14 +390,14 @@ export const da263LectureQuestions: Question[] = [
   },  {
     id: "d263l_056", subject: "english-communication", lecture: "lecture-6", lectureNo: 6,
     question: "Technical writing in agriculture means:",
-    options: ["Writing social media posts", "Creative fiction about farming", "Clear, precise writing for professional/technical audiences", "Writing poetry about crops"],
+    options: ["Writing social media posts under standard field conditions", "Creative fiction about farming under standard field conditions", "Clear, precise writing for professional/technical audiences", "Writing poetry about crops under standard field conditions"],
     correct: 2,
     explanation: "Technical writing communicates complex agricultural or scientific information clearly to a specific audience.",
     difficulty: "easy"
   },  {
     id: "d263l_057", subject: "english-communication", lecture: "lecture-6", lectureNo: 6,
     question: "A curriculum vitae (CV) or resume is used to:",
-    options: ["Apply for loans in everyday communication", "File complaints in formal language use", "Present qualifications, experience, and skills to a potential employer", "Apply for passports for language development"],
+    options: ["Apply for loans in everyday communication under standard field conditions", "File complaints in formal language use under standard field conditions", "Present qualifications, experience, and skills to a potential employer", "Apply for passports for language development under standard field conditions"],
     correct: 2,
     explanation: "A CV/resume summarizes education, work experience, and skills for job applications.",
     difficulty: "easy"
@@ -411,7 +411,7 @@ export const da263LectureQuestions: Question[] = [
   },  {
     id: "d263l_059", subject: "english-communication", lecture: "lecture-6", lectureNo: 6,
     question: "Feedback in communication is important because:",
-    options: ["It confirms whether the message was understood and allows correction of misunderstandings", "It is unnecessary noise in everyday communication", "It delays the message in formal language use", "It is only for formal communication for language development"],
+    options: ["It confirms whether the message was understood and allows correction of misunderstandings", "It is unnecessary noise in everyday communication under standard field conditions", "It delays the message in formal language use under standard field conditions", "It is only for formal communication for language development under standard field conditions"],
     correct: 0,
     explanation: "Feedback is the receiver's response that confirms understanding and helps the sender know if communication was effective.",
     difficulty: "easy"
@@ -481,7 +481,7 @@ export const da263LectureQuestions: Question[] = [
   },  {
     id: "d263l_069", subject: "english-communication", lecture: "lecture-7", lectureNo: 7,
     question: "'A stitch in time saves nine' implies:",
-    options: ["Save time for stitching", "Sewing is important", "Nine is a lucky number", "Timely action prevents bigger problems later"],
+    options: ["Save time for stitching under standard field conditions", "Sewing is important under standard field conditions", "Nine is a lucky number under standard field conditions", "Timely action prevents bigger problems later"],
     correct: 3,
     explanation: "This proverb means that dealing with a problem promptly prevents it from becoming much worse.",
     difficulty: "easy"
@@ -670,7 +670,7 @@ export const da263LectureQuestions: Question[] = [
   },  {
     id: "d263l_096", subject: "english-communication", lecture: "lecture-14", lectureNo: 14,
     question: "Assertion (A): 'Gold' is a material noun.\nReason (R): Material nouns name substances or raw materials from which things are made and are usually uncountable.",
-    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
+    options: ["A is true but R is false under standard field conditions", "A is false but R is true under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
     correct: 2,
     explanation: "Gold is indeed a material noun naming a substance. The reason correctly explains that material nouns name raw materials and are generally uncountable — both A and R are true and R explains A.",
     difficulty: "medium"
@@ -770,7 +770,7 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_109", subject: "english-communication", lecture: "lecture-6", lectureNo: 6,
     question: "ASSERTION-REASON: Assertion (A): Collective nouns take a singular verb when the group acts as one unit. Reason (R): A collective noun names a group of people, animals, or things.",
-    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
+    options: ["A is false but R is true under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false under standard field conditions"],
     correct: 1,
     explanation: "R correctly defines collective nouns and explains why they can take singular verbs when acting as a unified body.",
     difficulty: "medium"
@@ -850,7 +850,7 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_119", subject: "english-communication", lecture: "lecture-7", lectureNo: 7,
     question: "ASSERTION-REASON: Assertion (A): In English, adjectives do not change form for singular/plural nouns. Reason (R): Unlike verbs, adjectives in English are invariable in number.",
-    options: ["A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false"],
+    options: ["A is false but R is true under standard field conditions", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false under standard field conditions"],
     correct: 2,
     explanation: "English adjectives remain unchanged regardless of number (a tall tree, tall trees). R correctly explains this property.",
     difficulty: "medium"
@@ -1010,7 +1010,7 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_139", subject: "english-communication", lecture: "lecture-9", lectureNo: 9,
     question: "ASSERTION-REASON: Assertion (A): A CV is longer and more detailed than a resume. Reason (R): A CV includes complete academic and professional history, while a resume is a brief summary.",
-    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
+    options: ["A is false but R is true under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false under standard field conditions"],
     correct: 1,
     explanation: "Both statements are true. R correctly explains why a CV is longer — it provides complete academic and career details.",
     difficulty: "medium"
@@ -1090,7 +1090,7 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_149", subject: "english-communication", lecture: "lecture-10", lectureNo: 10,
     question: "ASSERTION-REASON: Assertion (A): Effective communication requires feedback. Reason (R): Without feedback, the sender cannot confirm whether the message was correctly understood.",
-    options: ["A is false but R is true", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
+    options: ["A is false but R is true under standard field conditions", "A is true but R is false under standard field conditions", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "Feedback is essential to confirm message receipt and understanding. R is the correct explanation of why feedback makes communication effective.",
     difficulty: "medium"
@@ -1154,7 +1154,7 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_157", subject: "english-communication", lecture: "lecture-9", lectureNo: 9,
     question: "A business email must include:",
-    options: ["Date and signature only", "Header image and footer only", "Only body text", "Subject line, salutation, body, and closing"],
+    options: ["Date and signature only under standard field conditions", "Header image and footer only", "Only body text under standard field conditions", "Subject line, salutation, body, and closing"],
     correct: 3,
     explanation: "A professional business email must include a clear subject line, appropriate salutation, body of message, and a closing.",
     difficulty: "easy"
@@ -1282,7 +1282,7 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_173", subject: "english-communication", lecture: "lecture-9", lectureNo: 9,
     question: "The minutes of a meeting record:",
-    options: ["Only the names of attendees", "Only the agenda items", "Discussion points, decisions made, and action items", "Financial reports in everyday communication"],
+    options: ["Only the names of attendees under standard field conditions", "Only the agenda items under standard field conditions", "Discussion points, decisions made, and action items", "Financial reports in everyday communication"],
     correct: 2,
     explanation: "Minutes of a meeting are official records of discussion points, decisions taken, and action items to be followed up.",
     difficulty: "easy"
@@ -1330,7 +1330,7 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_179", subject: "english-communication", lecture: "lecture-10", lectureNo: 10,
     question: "ASSERTION-REASON: Assertion (A): Public speaking is primarily a one-way communication form. Reason (R): In public speaking, the speaker transmits messages to an audience with limited immediate feedback.",
-    options: ["A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false"],
+    options: ["A is false but R is true under standard field conditions", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false under standard field conditions"],
     correct: 2,
     explanation: "In a speech the speaker talks to the audience (one-way dominant). R correctly explains why — audience feedback is limited during the speech.",
     difficulty: "medium"
@@ -1426,7 +1426,7 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_191", subject: "english-communication", lecture: "lecture-9", lectureNo: 9,
     question: "ASSERTION-REASON: Assertion (A): Empathy is important in agricultural extension communication. Reason (R): When extension workers understand farmers from their perspective, communication becomes more effective.",
-    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
+    options: ["A is false but R is true under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false under standard field conditions"],
     correct: 1,
     explanation: "Empathy helps extension workers understand farmers context, building trust and making communication relevant — R correctly explains A.",
     difficulty: "medium"
@@ -1482,7 +1482,7 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_198", subject: "english-communication", lecture: "lecture-8", lectureNo: 8,
     question: "ASSERTION-REASON: Assertion (A): Written communication creates a permanent record. Reason (R): Unlike oral communication, written messages can be stored, retrieved, and referenced later.",
-    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
+    options: ["A is false but R is true under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false under standard field conditions"],
     correct: 1,
     explanation: "Written communication (letters, reports, emails) leaves a permanent record. R correctly explains why — documents can be stored and referred to later.",
     difficulty: "easy"

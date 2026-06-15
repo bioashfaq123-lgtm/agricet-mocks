@@ -252,7 +252,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "The power take-off (PTO) is used to operate which type of implements?",
-    options: ["Passive implements like mould board plough", "Rotary implements requiring external power (rotavator, sprayer, combine)", "Trailed disc ploughs only in plant breeding", "Land levellers only for crop improvement"],
+    options: ["Passive implements like mould board plough under standard field conditions", "Rotary implements requiring external power (rotavator, sprayer, combine)", "Trailed disc ploughs only in plant breeding under standard field conditions", "Land levellers only for crop improvement under standard field conditions"],
     correct: 1,
     explanation: "PTO drives active (powered) implements like rotavators, seed drills with power metering, mist blowers, hydraulically driven sprayers, forage harvesters and combine threshing drums that need rotary power from the tractor."
   },
@@ -262,7 +262,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "What does 'tractor HP class' primarily help a farmer decide?",
-    options: ["Number of gears in the transmission", "Matching tractor size to farm area and implement requirements", "Colour and brand of the tractor", "Fuel tank capacity in plant breeding"],
+    options: ["Number of gears in the transmission under standard field conditions", "Matching tractor size to farm area and implement requirements", "Colour and brand of the tractor under standard field conditions", "Fuel tank capacity in plant breeding under standard field conditions"],
     correct: 1,
     explanation: "HP class guides implement matching and farm suitability. A small HP tractor cannot pull heavy implements efficiently; an oversized tractor is uneconomical on small farms. Correct matching improves efficiency and economics."
   },
@@ -282,7 +282,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Engine HP is always greater than drawbar HP because:",
-    options: ["Drawbar HP includes additional fuel consumption in plant breeding", "Drawbar is operated at higher speeds for crop improvement", "Transmission losses, rolling resistance and implement weight reduce available power at drawbar", "Engine HP does not include governor losses in variety development"],
+    options: ["Drawbar HP includes additional fuel consumption in plant breeding under standard field conditions", "Drawbar is operated at higher speeds for crop improvement under standard field conditions", "Transmission losses, rolling resistance and implement weight reduce available power at drawbar", "Engine HP does not include governor losses in variety development under standard field conditions"],
     correct: 2,
     explanation: "Engine HP is the gross power. By the time power reaches the drawbar, losses occur in the transmission (gearbox, differential), rolling resistance of tractor tyres, and implement weight. DBHP = Engine HP × 0.75–0.80 approximately."
   },
@@ -312,7 +312,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "What is the function of the three-point linkage on a tractor?",
-    options: ["To connect the trailer for road transport", "To drive the PTO shaft", "To apply brakes on all four wheels", "To attach and hydraulically control mounted implements"],
+    options: ["To connect the trailer for road transport", "To drive the PTO shaft under standard field conditions", "To apply brakes on all four wheels under standard field conditions", "To attach and hydraulically control mounted implements"],
     correct: 3,
     explanation: "The three-point linkage (Category I, II, III) allows mounted implements (ploughs, cultivators, rotavators) to be attached to the tractor and raised/lowered hydraulically. It also enables draft and position control of implements."
   },
@@ -414,7 +414,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The lubrication system in a tractor engine serves to:",
-    options: ["Clean the air filter in plant breeding", "Increase fuel efficiency by burning oil", "Cool the engine only for crop improvement", "Reduce friction, prevent wear, cool components and seal piston rings"],
+    options: ["Clean the air filter in plant breeding under standard field conditions", "Increase fuel efficiency by burning oil under standard field conditions", "Cool the engine only for crop improvement under standard field conditions", "Reduce friction, prevent wear, cool components and seal piston rings"],
     correct: 3,
     explanation: "Engine oil reduces metal-to-metal friction, prevents wear, helps cool components (especially pistons and bearings), seals piston rings against blow-by, and removes contaminants. Regular oil changes maintain these functions."
   },
@@ -444,7 +444,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "What is the purpose of the thermostat in the tractor cooling system?",
-    options: ["Maintain optimum engine operating temperature by regulating coolant flow", "Prevent engine from overheating by releasing coolant to the atmosphere", "Control the speed of the cooling fan", "Measure fuel temperature before injection"],
+    options: ["Maintain optimum engine operating temperature by regulating coolant flow", "Prevent engine from overheating by releasing coolant to the atmosphere", "Control the speed of the cooling fan under standard field conditions", "Measure fuel temperature before injection under standard field conditions"],
     correct: 0,
     explanation: "The thermostat regulates coolant temperature by blocking flow to the radiator when the engine is cold (helping it warm up quickly) and opening to allow full flow when operating temperature (75–85°C) is reached."
   },
@@ -484,7 +484,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The hydraulic system of a tractor is primarily used for:",
-    options: ["Lifting and controlling mounted implements", "Cooling the engine", "Starting the engine", "Filtering the fuel"],
+    options: ["Lifting and controlling mounted implements", "Cooling the engine under standard field conditions", "Starting the engine under standard field conditions", "Filtering the fuel under standard field conditions"],
     correct: 0,
     explanation: "The tractor's hydraulic system uses an oil pump, control valve, and hydraulic cylinder to raise, lower and control the depth of mounted implements via the three-point linkage. It also powers some trailed equipment."
   },
@@ -506,7 +506,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "The disc angle of a disc plough refers to:",
-    options: ["Angle of the plough with the soil surface", "Angle between disc face and vertical plane parallel to direction of travel", "Angle between successive discs in plant breeding", "Angle of tilt of the disc from vertical"],
+    options: ["Angle of the plough with the soil surface under standard field conditions", "Angle between disc face and vertical plane parallel to direction of travel", "Angle between successive discs in plant breeding under standard field conditions", "Angle of tilt of the disc from vertical under standard field conditions"],
     correct: 1,
     explanation: "Disc angle (also called plan angle) is the acute angle between the disc face (plane) and the vertical plane parallel to the direction of travel. It typically ranges from 42–45°. Larger disc angle increases penetration but also draft."
   },
@@ -646,7 +646,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "The 'land side' of a mould board plough prevents:",
-    options: ["The furrow slice from crumbling too much", "Vertical penetration of the share", "The share from wearing too fast", "Lateral (sideways) displacement of the plough in the furrow"],
+    options: ["The furrow slice from crumbling too much under standard field conditions", "Vertical penetration of the share under standard field conditions", "The share from wearing too fast under standard field conditions", "Lateral (sideways) displacement of the plough in the furrow"],
     correct: 3,
     explanation: "The land side is a flat plate on the plough body that presses against the unploughed furrow wall, resisting the lateral (side) thrust created as soil is pushed against the mould board. It stabilises the plough during operation."
   },
@@ -668,7 +668,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "A rotavator (rotary tiller) is unique because it:",
-    options: ["Requires no tractor PTO connection", "Performs primary and secondary tillage in a single pass", "Only works in dry conditions", "Uses a cutter bar to slice crop residues"],
+    options: ["Requires no tractor PTO connection under standard field conditions", "Performs primary and secondary tillage in a single pass", "Only works in dry conditions under standard field conditions", "Uses a cutter bar to slice crop residues"],
     correct: 1,
     explanation: "A rotavator uses PTO-driven rotating L-shaped blades to cut, mix and pulverise the soil in one pass, combining primary and secondary tillage. It produces a fine seedbed quickly but consumes more power than passive implements."
   },
@@ -688,7 +688,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Secondary tillage is carried out primarily to:",
-    options: ["Prepare a fine seedbed, incorporate fertilisers and control weeds", "Turn and invert the soil for pest control", "Form drainage channels in plant breeding", "Break subsoil hardpan for crop improvement"],
+    options: ["Prepare a fine seedbed, incorporate fertilisers and control weeds", "Turn and invert the soil for pest control under standard field conditions", "Form drainage channels in plant breeding under standard field conditions", "Break subsoil hardpan for crop improvement under standard field conditions"],
     correct: 0,
     explanation: "Secondary tillage (harrowing, cultivating) follows primary tillage to break clods, prepare a fine and firm seedbed, incorporate manure and fertilisers, and control weeds before sowing. It is shallower than primary tillage."
   },
@@ -698,7 +698,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "What is the purpose of a land leveller (blade harrow/grader)?",
-    options: ["To remove large stones from the field", "To cut soil to uniform depth for planting", "To smooth and level the field surface for uniform irrigation", "To form raised beds for vegetable crops"],
+    options: ["To remove large stones from the field under standard field conditions", "To cut soil to uniform depth for planting under standard field conditions", "To smooth and level the field surface for uniform irrigation", "To form raised beds for vegetable crops under standard field conditions"],
     correct: 2,
     explanation: "A land leveller or grader blade is used to smooth and level the field surface, eliminating undulations. Laser land levelling saves 20–30% irrigation water by ensuring uniform water distribution across the field."
   },
@@ -768,7 +768,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "The number of passes of secondary tillage implements required after primary tillage depends on:",
-    options: ["Initial clod size, soil moisture content and required seedbed fineness", "Brand of tractor used in plant breeding", "Number of workers available for crop improvement", "Colour of the soil in variety development"],
+    options: ["Initial clod size, soil moisture content and required seedbed fineness", "Brand of tractor used in plant breeding under standard field conditions", "Number of workers available for crop improvement under standard field conditions", "Colour of the soil in variety development under standard field conditions"],
     correct: 0,
     explanation: "More passes are needed when clods are large, soil is very dry or wet, or when a very fine seedbed is required (e.g., for small-seeded crops). Over-tillage destroys soil structure and wastes fuel and time."
   },
@@ -778,7 +778,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Conservation tillage (minimum tillage / zero tillage) is practised to:",
-    options: ["Invert soil for better weed burial", "Reduce soil disturbance, conserve moisture and reduce erosion", "Increase tractor usage in plant breeding", "Maximise number of tillage passes"],
+    options: ["Invert soil for better weed burial under standard field conditions", "Reduce soil disturbance, conserve moisture and reduce erosion", "Increase tractor usage in plant breeding under standard field conditions", "Maximise number of tillage passes under standard field conditions"],
     correct: 1,
     explanation: "Conservation tillage minimises soil disturbance, leaving at least 30% crop residue cover, to conserve soil moisture, reduce erosion, improve soil biology and reduce energy costs. Zero tillage drills seed directly into undisturbed soil."
   },
@@ -830,7 +830,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "A zero-till drill (ZTD) is designed to:",
-    options: ["Sow seeds directly into undisturbed crop residue without prior tillage", "Plough deep before sowing for crop improvement", "Apply fertiliser without seeds in plant breeding", "Plant rice seedlings in puddle mud"],
+    options: ["Sow seeds directly into undisturbed crop residue without prior tillage", "Plough deep before sowing for crop improvement under standard field conditions", "Apply fertiliser without seeds in plant breeding under standard field conditions", "Plant rice seedlings in puddle mud under standard field conditions"],
     correct: 0,
     explanation: "A zero-till drill cuts through crop residue and undisturbed soil using narrow inverted-T or disc openers, places seeds and fertiliser at correct depth and spacing without any prior tillage. It saves time, fuel and moisture."
   },
@@ -970,7 +970,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "A drum seeder for direct-seeded rice sows pre-germinated seeds by:",
-    options: ["Drilling seeds into puddled soil with furrow openers", "Rolling perforated drums that release seeds in rows on puddled soil surface", "Broadcasting seeds from a hopper in plant breeding", "Transplanting seedlings from a mat for crop improvement"],
+    options: ["Drilling seeds into puddled soil with furrow openers under standard field conditions", "Rolling perforated drums that release seeds in rows on puddled soil surface", "Broadcasting seeds from a hopper in plant breeding under standard field conditions", "Transplanting seedlings from a mat for crop improvement under standard field conditions"],
     correct: 1,
     explanation: "A drum seeder consists of perforated plastic/metal drums that roll on the puddled field surface, depositing pre-germinated rice seeds through holes in rows 20–25 cm apart. It is simple, low-cost and suitable for small farms."
   },
@@ -1032,7 +1032,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "What is the main advantage of a boom sprayer over a knapsack sprayer?",
-    options: ["Lower cost in plant breeding", "No need for water for crop improvement", "Works without a power source", "Wider field coverage per unit time with uniform application"],
+    options: ["Lower cost in plant breeding under standard field conditions", "No need for water for crop improvement under standard field conditions", "Works without a power source under standard field conditions", "Wider field coverage per unit time with uniform application"],
     correct: 3,
     explanation: "Boom sprayers cover swaths of 6–24 m wide using multiple nozzles on a horizontal boom, achieving very high output (20–50 ha/day). Knapsack sprayers cover only 0.5–1 ha/day. Boom sprayers also give more uniform application."
   },
@@ -1062,7 +1062,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "What safety equipment is mandatory when operating a knapsack sprayer with toxic pesticides?",
-    options: ["Sunglasses and hat in plant breeding", "Gloves, face shield/goggles, protective clothing, and respirator/mask", "Helmet and boots only", "Life jacket for crop improvement"],
+    options: ["Sunglasses and hat in plant breeding under standard field conditions", "Gloves, face shield/goggles, protective clothing, and respirator/mask", "Helmet and boots only under tropical agricultural conditions", "Life jacket for crop improvement under standard field conditions"],
     correct: 1,
     explanation: "When applying toxic pesticides, the operator must wear chemical-resistant gloves, face shield or goggles, protective coverall, boots, and respirator/nose-mouth mask to prevent dermal absorption, eye splash and inhalation of pesticide vapours."
   },
@@ -1092,7 +1092,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Drone sprayers in modern agriculture offer the advantage of:",
-    options: ["Applying fertiliser to soil only in plant breeding", "Deep soil penetration like a plough for crop improvement", "Aerial application in tall/inaccessible crops with GPS guidance and reduced labour", "No requirement for pesticide formulation in variety development"],
+    options: ["Applying fertiliser to soil only in plant breeding under standard field conditions", "Deep soil penetration like a plough for crop improvement under standard field conditions", "Aerial application in tall/inaccessible crops with GPS guidance and reduced labour", "No requirement for pesticide formulation in variety development under standard field conditions"],
     correct: 2,
     explanation: "Agricultural drones (UAV sprayers) can spray pesticides, fungicides and nano-fertilisers from above the crop canopy with GPS precision, especially in tall or hilly crops inaccessible to ground sprayers. They save labour and reduce operator exposure."
   },
@@ -1122,7 +1122,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "A flood jet nozzle is used for applying:",
-    options: ["Herbicides in coarse droplets directly to soil (pre-emergence) or as band spray", "Insecticides in orchards in plant breeding", "Fungicides in fine mist on leaf surface for crop improvement", "Fertiliser solution at high pressure in variety development"],
+    options: ["Herbicides in coarse droplets directly to soil (pre-emergence) or as band spray", "Insecticides in orchards in plant breeding under standard field conditions", "Fungicides in fine mist on leaf surface for crop improvement under standard field conditions", "Fertiliser solution at high pressure in variety development under standard field conditions"],
     correct: 0,
     explanation: "Flood jet (even-flat-fan) nozzles produce large, coarse droplets that reduce drift, ideal for pre-emergence herbicide applications where soil coverage rather than leaf coverage is needed, and where drift to adjacent crops is a concern."
   },
@@ -1224,7 +1224,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Fertigation refers to:",
-    options: ["Soil testing before fertiliser application in plant breeding", "Applying fertilisers by broadcasting for crop improvement", "Fermenting organic matter for fertiliser in variety development", "Injecting soluble fertilisers into the irrigation system for simultaneous application with water"],
+    options: ["Soil testing before fertiliser application in plant breeding under standard field conditions", "Applying fertilisers by broadcasting for crop improvement under standard field conditions", "Fermenting organic matter for fertiliser in variety development under standard field conditions", "Injecting soluble fertilisers into the irrigation system for simultaneous application with water"],
     correct: 3,
     explanation: "Fertigation is the application of water-soluble fertilisers through the drip or sprinkler irrigation system. It improves nutrient use efficiency (NUE) by placing nutrients precisely in the root zone at the right time, reducing losses."
   },
@@ -1274,7 +1274,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "A filter in a drip irrigation system is essential to:",
-    options: ["Increase water pressure in plant breeding", "Add fertiliser to the water for crop improvement", "Prevent clogging of emitters by removing suspended particles and algae", "Control timing of irrigation in variety development"],
+    options: ["Increase water pressure in plant breeding under standard field conditions", "Add fertiliser to the water for crop improvement under standard field conditions", "Prevent clogging of emitters by removing suspended particles and algae", "Control timing of irrigation in variety development under standard field conditions"],
     correct: 2,
     explanation: "Drip emitters have very small openings (0.5–1.5 mm) that clog easily with sand, silt, algae and mineral deposits. Screen, disc or sand media filters are mandatory to remove particles >130 µm before the water enters the lateral lines."
   },
@@ -1306,7 +1306,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "The cutter bar on a reaper/combine harvester operates using:",
-    options: ["Rotating blades like a lawn mower", "Reciprocating sickle sections between stationary counter-cutters (finger bars)", "Laser cutting in plant breeding", "Flails on a rotating drum"],
+    options: ["Rotating blades like a lawn mower as recommended by ICAR guidelines", "Reciprocating sickle sections between stationary counter-cutters (finger bars)", "Laser cutting in plant breeding in irrigated crop production systems", "Flails on a rotating drum based on conventional agronomic practices"],
     correct: 1,
     explanation: "The cutter bar uses reciprocating (back-and-forth) knife sections mounted between fixed guards/counter-cutters to shear the crop stem. The knife is driven by a pitman arm or wobble box mechanism from the PTO or ground drive."
   },
@@ -1346,7 +1346,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "A paddy (axial flow) thresher uses which principle to separate grain from panicle?",
-    options: ["Beating with hammers in plant breeding", "Electrostatic separation for crop improvement", "Rubbing and impact between rotating rasp bars and concave", "Sucking grain with a fan"],
+    options: ["Beating with hammers in plant breeding under standard field conditions", "Electrostatic separation for crop improvement", "Rubbing and impact between rotating rasp bars and concave", "Sucking grain with a fan under standard field conditions"],
     correct: 2,
     explanation: "Axial flow paddy threshers use rotating rasp bars or spike-tooth cylinders that rub and impact the paddy panicles against a concave (wire/bar), separating grains by impact, rubbing and stripping action. Some use wire-loop cylinders."
   },
@@ -1376,7 +1376,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Harvesting losses in a combine harvester are classified as:",
-    options: ["Only grain tank losses in plant breeding", "Fuel losses only in variety development", "Only header losses for crop improvement", "Header losses (cutterbar, reel), threshing losses, and separation/cleaning losses"],
+    options: ["Only grain tank losses in plant breeding under standard field conditions", "Fuel losses only in variety development under standard field conditions", "Only header losses for crop improvement under standard field conditions", "Header losses (cutterbar, reel), threshing losses, and separation/cleaning losses"],
     correct: 3,
     explanation: "Combine harvesting losses include: Header losses (shatter from reel, cutting and conveying), Threshing losses (unthreshed grain), and Separation/cleaning losses (grain blown or carried over with straw/chaff). Total losses should be <1% for cereals."
   },
@@ -1406,7 +1406,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "The concave clearance in a threshing unit of a combine is adjusted to:",
-    options: ["Control fan speed for cleaning in plant breeding", "Control the gap between cylinder and concave, affecting threshing intensity and grain damage", "Change the width of the header for crop improvement", "Set the height of the reel in variety development"],
+    options: ["Control fan speed for cleaning in plant breeding under standard field conditions", "Control the gap between cylinder and concave, affecting threshing intensity and grain damage", "Change the width of the header for crop improvement under standard field conditions", "Set the height of the reel in variety development under standard field conditions"],
     correct: 1,
     explanation: "Concave clearance (gap between the rotating threshing cylinder and the fixed concave) determines threshing intensity. Smaller gap → more aggressive threshing (may damage grain); larger gap → gentler threshing (may leave unthreshed grain). Adjusted by crop type."
   },
@@ -1548,7 +1548,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Greasing (lubricating) of tractor and implement bearing points should be done:",
-    options: ["Every 8–10 operating hours (daily or as per manufacturer schedule)", "Every 500 hours in plant breeding", "Once a year during off-season for crop improvement", "Only when the bearing squeaks in variety development"],
+    options: ["Every 8–10 operating hours (daily or as per manufacturer schedule)", "Every 500 hours in plant breeding under standard field conditions", "Once a year during off-season for crop improvement", "Only when the bearing squeaks in variety development"],
     correct: 0,
     explanation: "Bearing greasing should be done every 8–10 hours (daily). Grease gun is used to inject grease through Zerk/grease fittings at all pivot points, bearings, joints and moving parts. Neglected greasing causes rapid bearing failure."
   },
@@ -1558,7 +1558,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "When should a tractor's valve clearances (tappet clearances) be adjusted?",
-    options: ["Every 2000 hours or never in plant breeding", "Every 250–500 hours or when engine becomes noisy (tapping sound)", "Every 50 hours for crop improvement", "Only at initial assembly in variety development"],
+    options: ["Every 2000 hours or never in plant breeding under standard field conditions", "Every 250–500 hours or when engine becomes noisy (tapping sound)", "Every 50 hours for crop improvement under standard field conditions", "Only at initial assembly in variety development under standard field conditions"],
     correct: 1,
     explanation: "Valve (tappet) clearances are checked and adjusted every 250–500 hours of operation or when a characteristic ticking/tapping sound is heard. Incorrect clearances cause poor engine performance, overheating and valve burning."
   },
@@ -1568,7 +1568,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "The fuel filter in a diesel tractor must be replaced periodically to:",
-    options: ["Add cetane improver to the fuel for crop improvement", "Increase fuel injection pressure in plant breeding according to plant breeding and genetics science principles", "Remove water and particles from diesel before it reaches the injection pump, preventing costly damage", "Warm the fuel in cold weather in variety development"],
+    options: ["Add cetane improver to the fuel for crop improvement as recommended by ICAR guidelines", "Increase fuel injection pressure in plant breeding according to plant breeding and genetics science principles", "Remove water and particles from diesel before it reaches the injection pump, preventing costly damage", "Warm the fuel in cold weather in variety development as recommended by ICAR guidelines"],
     correct: 2,
     explanation: "Diesel fuel often contains water and fine particles. The fuel filter removes these before diesel reaches the high-precision fuel injection pump. Water and sediment in the FIP cause accelerated wear and failure of the injectors and pump, which are very expensive to repair."
   },
@@ -1578,7 +1578,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "A Slow Moving Vehicle (SMV) emblem fitted to farm equipment is:",
-    options: ["A green light indicating the engine is running in plant breeding", "A speed limit sign for the driver for crop improvement", "A red triangular reflective sign warning road users that the vehicle travels at <40 km/h", "A regulatory plate showing the engine HP in variety development"],
+    options: ["A green light indicating the engine is running in plant breeding under standard field conditions", "A speed limit sign for the driver for crop improvement under standard field conditions", "A red triangular reflective sign warning road users that the vehicle travels at <40 km/h", "A regulatory plate showing the engine HP in variety development under standard field conditions"],
     correct: 2,
     explanation: "The SMV (Slow Moving Vehicle) emblem is a distinctive fluorescent orange-red equilateral triangle with retro-reflective border, mounted on the rear of tractors and machinery to warn road traffic that the vehicle moves at less than 40 km/h."
   },
@@ -1588,7 +1588,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "To winterise (long-term storage) a tractor, the operator should:",
-    options: ["Leave the fuel tank empty to prevent fuel degradation only in plant breeding", "Fill the fuel tank completely and leave the engine unlubricated for crop improvement", "Just remove the battery and leave everything else in variety development", "Drain coolant, add antifreeze, change oil, lubricate all points, coat exposed metal, charge battery and store under cover"],
+    options: ["Leave the fuel tank empty to prevent fuel degradation only in plant breeding under standard field conditions", "Fill the fuel tank completely and leave the engine unlubricated for crop improvement under standard field conditions", "Just remove the battery and leave everything else in variety development under standard field conditions", "Drain coolant, add antifreeze, change oil, lubricate all points, coat exposed metal, charge battery and store under cover"],
     correct: 3,
     explanation: "Long-term storage winterisation includes: draining and replacing engine oil, adding antifreeze to the cooling system, lubing all grease points, protecting exposed metal with rust preventive, disconnecting/charging the battery and storing under a protective cover."
   },
@@ -1832,7 +1832,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Cetane number is the measure of which property?",
-    options: ["Viscosity in plant breeding", "Calorific value", "Interval between injection and auto-ignition", "Boiling point"],
+    options: ["Viscosity in plant breeding under standard field conditions", "Calorific value under standard field conditions", "Interval between injection and auto-ignition", "Boiling point under standard field conditions"],
     correct: 2,
     explanation: "As per DA-151 notes: Cetane number is the relative measure of the interval between beginning of injection and auto-ignition of fuel."
   },
@@ -1882,7 +1882,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "The forced feed lubrication system is commonly used on",
-    options: ["single cylinder engines", "two stroke engines", "high speed multi-cylinder engines in tractors", "air cooled engines"],
+    options: ["single cylinder engines under standard field conditions", "two stroke engines under standard field conditions", "high speed multi-cylinder engines in tractors", "air cooled engines under standard field conditions"],
     correct: 2,
     explanation: "As per DA-151 notes: Forced feed system is commonly used on high speed multi-cylinder engine in tractors, trucks and automobiles."
   },
@@ -2222,7 +2222,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Over-cooling of IC engine is undesirable because",
-    options: ["it creates noise in plant breeding", "it wastes water for crop improvement", "it increases fuel consumption only", "neither overheating nor over-cooling is desirable for satisfactory performance"],
+    options: ["it creates noise in plant breeding as recommended by ICAR guidelines", "it wastes water for crop improvement under standard field conditions", "it increases fuel consumption only as recommended by ICAR guidelines", "neither overheating nor over-cooling is desirable for satisfactory performance"],
     correct: 3,
     explanation: "As per DA-151 notes: For satisfactory performance, neither overheating nor over-cooling is desirable."
   },
@@ -2302,7 +2302,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Assertion (A): Diesel engines are more fuel efficient than petrol engines.\nReason (R): Diesel engines have thermal efficiency of 32-38% versus 25-32% for petrol engines.",
-    options: ["A is false but R is true", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
+    options: ["A is false but R is true under standard field conditions", "A is true but R is false under standard field conditions", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-151 notes: Diesel engine thermal efficiency 32-38%, petrol engine 25-32%."
   },
@@ -2312,7 +2312,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Assertion (A): Petrol engines start more easily than diesel engines in cold weather.\nReason (R): Petrol vaporizes quicker than diesel oil in the engine cylinder.",
-    options: ["Both A and R are true and R is the correct explanation of A", "A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
+    options: ["Both A and R are true and R is the correct explanation of A", "A is false but R is true under standard field conditions", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false under standard field conditions"],
     correct: 0,
     explanation: "As per DA-151 notes: Petrol vaporizes quicker than diesel oil in the engine cylinder, helping easy starting of petrol engines."
   },
@@ -2322,7 +2322,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Assertion (A): Two stroke engines produce about 1.5 times more power than four stroke for same cylinder size.\nReason (R): Two stroke engine completes a power stroke in every revolution of crankshaft.",
-    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
+    options: ["A is false but R is true under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false under standard field conditions"],
     correct: 1,
     explanation: "As per DA-151 notes: Two stroke engine has one power stroke per revolution while four stroke has one per two revolutions, giving 1.5 times more power."
   },
@@ -2332,7 +2332,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Assertion (A): Flywheel provides uniform rotary motion in IC engine.\nReason (R): Flywheel stores energy during power stroke and returns it during idle strokes.",
-    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
+    options: ["A is false but R is true under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false under standard field conditions"],
     correct: 1,
     explanation: "As per DA-151 notes: Flywheel stores energy during power stroke and returns same energy during idle strokes, providing uniform rotary motion by virtue of its inertia."
   },
@@ -2342,7 +2342,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Assertion (A): Lubrication oil has a cleaning effect on the engine.\nReason (R): Lubrication keeps the engine clean by removing dirt or carbon from inside of the engine along with the oil.",
-    options: ["A is false but R is true", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
+    options: ["A is false but R is true under standard field conditions", "A is true but R is false under standard field conditions", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-151 notes: Lubrication keeps the engine clean by removing dirt or carbon from inside of the engine along with the oil - cleaning effect."
   },
@@ -2352,7 +2352,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Assertion (A): Only 30% of heat in IC engine is used for useful power.\nReason (R): 40% of heat is lost via exhaust gases and 30% is removed by the cooling system.",
-    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
+    options: ["A is false but R is true under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false under standard field conditions"],
     correct: 1,
     explanation: "As per DA-151 notes: 40% of total heat produced is passed to atmosphere via exhaust, 30% removed by cooling system and only 30% used to produce useful power."
   },
@@ -2362,7 +2362,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Assertion (A): Compression rings are placed in grooves nearest to the piston head.\nReason (R): They prevent leakage of gases from the cylinder and help increasing compression pressure.",
-    options: ["A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false"],
+    options: ["A is false but R is true under standard field conditions", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false under standard field conditions"],
     correct: 2,
     explanation: "As per DA-151 notes: Compression rings are always placed in grooves of piston nearest to the piston head; they prevent leakage and help increasing compression pressure."
   },
@@ -2372,7 +2372,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Assertion (A): Diesel engine develops more torque when heavily loaded.\nReason (R): This characteristic is not present in carburetor/petrol engines.",
-    options: ["Both A and R are true and R is the correct explanation of A", "A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
+    options: ["Both A and R are true and R is the correct explanation of A", "A is false but R is true under standard field conditions", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false under standard field conditions"],
     correct: 0,
     explanation: "As per DA-151 notes: Diesel engine develops more torque when heavily loaded; this characteristic is not present in carburetor engines."
   },
@@ -2382,7 +2382,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "Assertion (A): Animal power is most important farm power source particularly in India.\nReason (R): 80% of total draft power in world agriculture is still provided by animals.",
-    options: ["A is false but R is true", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
+    options: ["A is false but R is true under standard field conditions", "A is true but R is false under standard field conditions", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-151 notes: Animal is the most important source of power on farm and nearly 80% of total draft power in agriculture throughout World is still provided by animals."
   },
@@ -2392,7 +2392,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Assertion (A): In diesel engine, only air is taken in during suction stroke.\nReason (R): Fuel is injected separately into the compressed hot air at the end of compression stroke.",
-    options: ["Both A and R are true and R is the correct explanation of A", "A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
+    options: ["Both A and R are true and R is the correct explanation of A", "A is false but R is true under standard field conditions", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false under standard field conditions"],
     correct: 0,
     explanation: "As per DA-151 notes: In diesel engine, air alone is taken in during suction stroke; fuel is injected through fuel injectors and ignited by heat of compression."
   },
@@ -2402,7 +2402,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Assertion (A): High temperature in IC engine can cause piston seizure.\nReason (R): Cylinder and piston may expand to such an extent that piston seizes in cylinder.",
-    options: ["A is false but R is true", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
+    options: ["A is false but R is true under standard field conditions", "A is true but R is false under standard field conditions", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-151 notes: Cylinder and piston may expand to such an extent that piston would seize in the cylinder and stop the engine - a bad effect of high temperature."
   },
@@ -2412,7 +2412,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Assertion (A): Forced feed lubrication system is used in tractors and trucks.\nReason (R): This system is suitable for high speed multi-cylinder engines.",
-    options: ["A is false but R is true", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
+    options: ["A is false but R is true under standard field conditions", "A is true but R is false under standard field conditions", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-151 notes: Forced feed system is commonly used on high speed multi-cylinder engine in tractors, trucks and automobiles."
   },
@@ -2422,7 +2422,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Assertion (A): Higher cetane number fuels have better combustibility.\nReason (R): Higher cetane number means shorter delay interval between injection and auto-ignition.",
-    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
+    options: ["A is false but R is true under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false under standard field conditions"],
     correct: 1,
     explanation: "As per DA-151 notes: The higher the cetane number, the shorter the delay interval and the greater its combustibility."
   },
@@ -2432,7 +2432,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Assertion (A): Camshaft gear is called half time gear.\nReason (R): The camshaft gear has twice as many teeth as the crankshaft gear.",
-    options: ["A is false but R is true", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
+    options: ["A is false but R is true under standard field conditions", "A is true but R is false under standard field conditions", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-151 notes: Camshaft gear is bigger and has twice as many teeth as crankshaft gear, hence called Half time gear."
   },
@@ -2442,7 +2442,7 @@ export const da151LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Assertion (A): Air cooled engines use fins on cylinders.\nReason (R): Fins increase the area of contact with air for speedy cooling of the cylinder.",
-    options: ["A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false"],
+    options: ["A is false but R is true under standard field conditions", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false under standard field conditions"],
     correct: 2,
     explanation: "As per DA-151 notes: The cylinder of an air cooled engine has fins to increase the area of contact of air for speedy cooling."
   },

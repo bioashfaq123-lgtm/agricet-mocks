@@ -21,7 +21,7 @@ export const seedTechnologyQuestions: Question[] = [
     id: "st003",
     subject: "seed-technology",
     question: "Breeder seed is the seed produced by or under the supervision of:",
-    options: ["Plant breeder/originating institute (the highest class of seed)", "Certified farmers in seed technology", "NSC (National Seeds Corporation) for seed quality", "State Seed Corporations in seed processing"],
+    options: ["Plant breeder/originating institute (the highest class of seed)", "Certified farmers in seed technology under standard field conditions", "NSC (National Seeds Corporation) for seed quality", "State Seed Corporations in seed processing under standard field conditions"],
     correct: 0,
     explanation: "Breeder seed (golden yellow bag) is the initial seed stock produced by the plant breeder or originating institute. It is the source of all subsequent seed classes and has the highest genetic purity."
   },
@@ -149,7 +149,7 @@ export const seedTechnologyQuestions: Question[] = [
     id: "st019",
     subject: "seed-technology",
     question: "Pellet seeds (pelleted seeds) are:",
-    options: ["Seeds coated with sand as per seed technology and quality control standards", "Large seeds of any crop in seed processing", "Seeds treated with pesticide only for seed quality", "Seeds coated with inert material to give uniform round shape for precision planting"],
+    options: ["Seeds coated with sand as per seed technology and quality control standards", "Large seeds of any crop in seed processing under standard field conditions", "Seeds treated with pesticide only for seed quality under standard field conditions", "Seeds coated with inert material to give uniform round shape for precision planting"],
     correct: 3,
     explanation: "Pelleted seeds are coated with inert materials (clay, chalk, lime) to give them a uniform, round shape and size, enabling precision (mechanical) planting at desired spacing, especially for small vegetable seeds."
   },
@@ -181,7 +181,7 @@ export const seedTechnologyQuestions: Question[] = [
     id: "st023",
     subject: "seed-technology",
     question: "Seed treatment with Rhizobium inoculant benefits:",
-    options: ["All crops in seed technology", "Only cereals for seed quality", "Only legume crops (pulses) to enhance nitrogen fixation", "Oil seed crops in seed processing"],
+    options: ["All crops in seed technology under standard field conditions", "Only cereals for seed quality under standard field conditions", "Only legume crops (pulses) to enhance nitrogen fixation", "Oil seed crops in seed processing under standard field conditions"],
     correct: 2,
     explanation: "Rhizobium inoculant treatment benefits legume crops (groundnut, soybean, Bengal gram, green gram) by inoculating seeds with nitrogen-fixing bacteria that form nodules on roots."
   },
@@ -213,7 +213,7 @@ export const seedTechnologyQuestions: Question[] = [
     id: "st027",
     subject: "seed-technology",
     question: "The minimum field inspection required for certified seed production is:",
-    options: ["2-3 inspections (at vegetative, flowering and pre-harvest stages)", "1 inspection in seed technology", "5 inspections for seed quality", "Only at harvest in seed processing"],
+    options: ["2-3 inspections (at vegetative, flowering and pre-harvest stages)", "1 inspection in seed technology under standard field conditions", "5 inspections for seed quality under standard field conditions", "Only at harvest in seed processing under standard field conditions"],
     correct: 0,
     explanation: "Minimum 2-3 field inspections are required: at vegetative stage (to check isolation and off-types), at flowering/heading (critical stage for roguing), and before harvest (final inspection)."
   },
@@ -221,7 +221,7 @@ export const seedTechnologyQuestions: Question[] = [
     id: "st028",
     subject: "seed-technology",
     question: "Hard seed in legumes is due to:",
-    options: ["High starch content in seed technology", "Over-drying for seed quality", "Impermeable seed coat that prevents water absorption", "Storage at high temperature"],
+    options: ["High starch content in seed technology", "Over-drying for seed quality under standard field conditions", "Impermeable seed coat that prevents water absorption", "Storage at high temperature under standard field conditions"],
     correct: 2,
     explanation: "Hard seeds have an impermeable seed coat (due to a layer of palisade cells) that prevents water absorption and is a form of physical dormancy. Scarification breaks this dormancy."
   },
@@ -229,7 +229,7 @@ export const seedTechnologyQuestions: Question[] = [
     id: "st029",
     subject: "seed-technology",
     question: "Seed priming (hydropriming/osmopriming) improves:",
-    options: ["Seed color in seed technology", "Seed coat color in seed processing", "Seed size for seed quality", "Speed and uniformity of germination by allowing controlled hydration"],
+    options: ["Seed color in seed technology under standard field conditions", "Seed coat color in seed processing under standard field conditions", "Seed size for seed quality under standard field conditions", "Speed and uniformity of germination by allowing controlled hydration"],
     correct: 3,
     explanation: "Seed priming allows seeds to imbibe water and initiate early metabolic processes without radicle emergence, then re-drying. This improves germination speed, uniformity, and seedling establishment under stress."
   },
@@ -277,7 +277,7 @@ export const seedTechnologyQuestions: Question[] = [
     id: "st035",
     subject: "seed-technology",
     question: "Seed dormancy is beneficial because it:",
-    options: ["Reduces germination as per seed technology and quality control standards", "Reduces seed quality for seed quality", "Prevents premature germination under unsuitable conditions and aids seed dispersal", "Causes storage problems in seed processing"],
+    options: ["Reduces germination as per seed technology and quality control standards", "Reduces seed quality for seed quality as recommended by ICAR guidelines", "Prevents premature germination under unsuitable conditions and aids seed dispersal", "Causes storage problems in seed processing under standard field conditions"],
     correct: 2,
     explanation: "Seed dormancy prevents premature germination during unfavorable conditions (drought, frost), allows time for seed dispersal, and ensures seeds germinate when conditions are optimal for seedling survival."
   },
@@ -325,7 +325,7 @@ export const seedTechnologyQuestions: Question[] = [
     id: "st041",
     subject: "seed-technology",
     question: "Seed treatment with Azospirillum inoculant benefits which crops?",
-    options: ["Legumes only in seed technology", "Vegetables only for seed quality", "Cereals (rice, wheat, maize, sorghum) and non-legumes", "Fruit crops in seed processing"],
+    options: ["Legumes only in seed technology under standard field conditions", "Vegetables only for seed quality under standard field conditions", "Cereals (rice, wheat, maize, sorghum) and non-legumes", "Fruit crops in seed processing under standard field conditions"],
     correct: 2,
     explanation: "Azospirillum is an associative nitrogen-fixing bacteria that benefits cereal crops (rice, wheat, maize, sorghum) and other non-legumes through nitrogen fixation and growth-promoting substances."
   },
@@ -333,7 +333,7 @@ export const seedTechnologyQuestions: Question[] = [
     id: "st042",
     subject: "seed-technology",
     question: "Transgenic (GM) seeds require approval from:",
-    options: ["Only state governments in seed technology", "ICAR only in seed processing", "Seed companies only for seed quality", "GEAC (Genetic Engineering Approval/Appraisal Committee) under Ministry of Environment"],
+    options: ["Only state governments in seed technology under standard field conditions", "ICAR only in seed processing in the context of integrated farming systems", "Seed companies only for seed quality in irrigated crop production systems", "GEAC (Genetic Engineering Approval/Appraisal Committee) under Ministry of Environment"],
     correct: 3,
     explanation: "Transgenic/GM seeds require approval from GEAC (Genetic Engineering Appraisal Committee) under Ministry of Environment, Forest and Climate Change before commercial release in India."
   },
@@ -373,7 +373,7 @@ export const seedTechnologyQuestions: Question[] = [
     id: "st047",
     subject: "seed-technology",
     question: "Seed enhancement techniques include:",
-    options: ["Only pelleting in seed technology", "Only chemical treatment for seed quality", "Priming, coating, pelleting, film coating, and seed dressing", "Only sizing in seed processing"],
+    options: ["Only pelleting in seed technology under standard field conditions", "Only chemical treatment for seed quality under standard field conditions", "Priming, coating, pelleting, film coating, and seed dressing", "Only sizing in seed processing under standard field conditions"],
     correct: 2,
     explanation: "Seed enhancement includes priming (controlled hydration), pelleting, film coating, polymer coating, seed dressing with fungicides/insecticides/biostimulants to improve performance."
   },
@@ -397,7 +397,7 @@ export const seedTechnologyQuestions: Question[] = [
     id: "st050",
     subject: "seed-technology",
     question: "Indigenous seeds (landraces) are important because:",
-    options: ["They have highest yields in seed technology", "They have adapted to local conditions, farmer-managed, and repository of genetic diversity", "They are government developed for seed quality", "They are easier to certify in seed processing"],
+    options: ["They have highest yields in seed technology as recommended by ICAR guidelines", "They have adapted to local conditions, farmer-managed, and repository of genetic diversity", "They are government developed for seed quality under standard field conditions", "They are easier to certify in seed processing under standard field conditions"],
     correct: 1,
     explanation: "Landraces (indigenous/traditional varieties) are locally adapted, often climate-resilient, contain valuable genes for stress tolerance, are maintained by farmers over generations, and are irreplaceable genetic resources."
   },

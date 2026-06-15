@@ -374,7 +374,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Gravitational water is water that:",
-    options: ["Moves through macropores under gravity and drains out of the root zone", "Is held tightly by clay particles and unavailable to plants", "Is retained at field capacity for plant use", "Is adsorbed as a monolayer on soil surfaces"],
+    options: ["Moves through macropores under gravity and drains out of the root zone", "Is held tightly by clay particles and unavailable to plants", "Is retained at field capacity for plant use under standard field conditions", "Is adsorbed as a monolayer on soil surfaces under standard field conditions"],
     correct: 0,
     explanation: "Gravitational water occupies large macropores and drains out of the soil under gravity after a rain event. It is generally not available for plant use as it moves too quickly through the profile."
   },
@@ -434,7 +434,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Tensiometers are field instruments used to measure:",
-    options: ["Electrical conductivity of soil moisture", "Soil matric potential (tension/suction) for irrigation scheduling", "Soil bulk density in situ", "Total dissolved salts in soil water"],
+    options: ["Electrical conductivity of soil moisture under standard field conditions", "Soil matric potential (tension/suction) for irrigation scheduling", "Soil bulk density in situ under standard field conditions", "Total dissolved salts in soil water under standard field conditions"],
     correct: 1,
     explanation: "A tensiometer measures soil matric potential by equilibrating with soil water through a porous ceramic cup. It is widely used for irrigation scheduling when pF is below 2.8 (~6 bar)."
   },
@@ -478,7 +478,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "The Cation Exchange Capacity (CEC) of a soil is expressed in units of:",
-    options: ["meq per 100 g (equivalent to cmol(+) kg⁻¹)", "mmol L⁻¹", "mg kg⁻¹", "cmol(+) kg⁻¹ (centimoles of charge per kg)"],
+    options: ["meq per 100 g (equivalent to cmol(+) kg⁻¹)", "mmol L⁻¹ under standard field conditions", "mg kg⁻¹ under standard field conditions", "cmol(+) kg⁻¹ (centimoles of charge per kg)"],
     correct: 3,
     explanation: "CEC is expressed as cmol(+) kg⁻¹ of soil (equivalent to the older unit meq/100 g). It measures the capacity of soil to hold exchangeable cations."
   },
@@ -548,7 +548,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "The negative charge on soil colloids arises primarily from:",
-    options: ["Adsorption of anions from soil solution in soil science", "Oxidation of organic matter for soil management", "Protonation of OH groups at mineral edges", "Isomorphous substitution of higher-valence cations by lower-valence cations in clay lattice"],
+    options: ["Adsorption of anions from soil solution in soil science under standard field conditions", "Oxidation of organic matter for soil management under standard field conditions", "Protonation of OH groups at mineral edges in irrigated crop production systems", "Isomorphous substitution of higher-valence cations by lower-valence cations in clay lattice"],
     correct: 3,
     explanation: "Permanent negative charge on 2:1 clay minerals arises from isomorphous substitution (e.g., Mg²⁺ replacing Al³⁺ in octahedral sheets or Al³⁺ replacing Si⁴⁺ in tetrahedral sheets) without altering crystal structure."
   },
@@ -578,7 +578,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Anion exchange capacity (AEC) in soils is mainly associated with:",
-    options: ["Montmorillonite clay under alkaline conditions in soil science", "Calcium carbonate at high pH in soil fertility", "Organic matter at neutral pH for soil management", "Variable-charge surfaces of iron/aluminium oxides and kaolinite edges at low pH"],
+    options: ["Montmorillonite clay under alkaline conditions in soil science under standard field conditions", "Calcium carbonate at high pH in soil fertility under standard field conditions", "Organic matter at neutral pH for soil management under standard field conditions", "Variable-charge surfaces of iron/aluminium oxides and kaolinite edges at low pH"],
     correct: 3,
     explanation: "AEC is found mainly on iron/aluminium oxide surfaces and kaolinite edges that carry positive charge at low pH, allowing anion (Cl⁻, NO₃⁻, SO₄²⁻) adsorption. It is prominent in highly weathered Oxisols."
   },
@@ -762,7 +762,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "The ratio of soil organic carbon to nitrogen in soil organic matter determines the rate of:",
-    options: ["Nitrogen mineralisation or immobilisation upon decomposition", "Phosphorus fixation in the soil", "Potassium leaching from the profile", "Water infiltration rate"],
+    options: ["Nitrogen mineralisation or immobilisation upon decomposition", "Phosphorus fixation in the soil under standard field conditions", "Potassium leaching from the profile under standard field conditions", "Water infiltration rate under standard field conditions"],
     correct: 0,
     explanation: "When C:N > 25–30, microbes immobilise available N (net immobilisation); when C:N < 20, mineralisation exceeds immobilisation (net N release). This controls N availability after organic matter addition."
   },
@@ -796,7 +796,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "The classic deficiency symptom of nitrogen in plants is:",
-    options: ["Uniform yellowing (chlorosis) starting from older (lower) leaves, proceeding upward", "Purpling of leaves due to anthocyanin accumulation", "Interveinal chlorosis starting from youngest leaves in soil science", "Brown scorched leaf margins and tips for soil management"],
+    options: ["Uniform yellowing (chlorosis) starting from older (lower) leaves, proceeding upward", "Purpling of leaves due to anthocyanin accumulation under standard field conditions", "Interveinal chlorosis starting from youngest leaves in soil science", "Brown scorched leaf margins and tips for soil management under standard field conditions"],
     correct: 0,
     explanation: "N is mobile in the phloem, so it is remobilised from older leaves to younger growing tissues. Deficiency shows as uniform yellowing of older (lower) leaves first, moving upward."
   },
@@ -816,7 +816,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Which role does potassium play in plant physiology that directly improves crop quality?",
-    options: ["It is part of the ATP molecule, providing energy for photosynthesis", "It fixes atmospheric CO₂ in the Calvin cycle", "It is a structural component of chlorophyll molecule", "It activates > 60 enzymes and regulates stomatal opening, improving water use efficiency"],
+    options: ["It is part of the ATP molecule, providing energy for photosynthesis under standard field conditions", "It fixes atmospheric CO₂ in the Calvin cycle under standard field conditions", "It is a structural component of chlorophyll molecule under standard field conditions", "It activates > 60 enzymes and regulates stomatal opening, improving water use efficiency"],
     correct: 3,
     explanation: "K⁺ activates over 60 enzymes involved in plant metabolism and regulates guard cell turgor (stomatal opening/closing). It improves drought tolerance, fruit quality, disease resistance, and translocation of sugars."
   },
@@ -836,7 +836,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Phosphorus deficiency in plants typically shows as:",
-    options: ["Yellow-green chlorosis of young leaves in soil science", "Interveinal chlorosis with green veins for soil management", "Brown necrotic spots on leaf margins in soil fertility", "Purple or reddish discolouration of leaves and stems due to anthocyanin accumulation"],
+    options: ["Yellow-green chlorosis of young leaves in soil science under standard field conditions", "Interveinal chlorosis with green veins for soil management under standard field conditions", "Brown necrotic spots on leaf margins in soil fertility under standard field conditions", "Purple or reddish discolouration of leaves and stems due to anthocyanin accumulation"],
     correct: 3,
     explanation: "P deficiency causes purplish-red discolouration due to accumulation of anthocyanins (promoted by carbohydrate accumulation and blocked synthesis). Older leaves may appear dark green initially."
   },
@@ -886,7 +886,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Potassium deficiency symptoms in plants appear first on:",
-    options: ["Older (lower) leaves, showing marginal and tip scorch (brown scorching)", "Flowers and fruits, causing poor fruit set", "Young, newly expanded leaves at the shoot apex", "Root tips, causing stunted root growth"],
+    options: ["Older (lower) leaves, showing marginal and tip scorch (brown scorching)", "Flowers and fruits, causing poor fruit set under standard field conditions", "Young, newly expanded leaves at the shoot apex under standard field conditions", "Root tips, causing stunted root growth under standard field conditions"],
     correct: 0,
     explanation: "K is phloem-mobile, so it is remobilised from older leaves to growing tips. Deficiency first appears as tip and marginal scorch (necrosis) on older leaves, sometimes with interveinal chlorosis."
   },
@@ -896,7 +896,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Phosphorus moves to plant roots mainly by which mechanism?",
-    options: ["Root interception only in soil science", "Diffusion (due to very low concentration and small diffusion coefficient)", "Mass flow in soil solution (convective flow)", "Active pumping by root hairs only for soil management"],
+    options: ["Root interception only in soil science under standard field conditions", "Diffusion (due to very low concentration and small diffusion coefficient)", "Mass flow in soil solution (convective flow) under standard field conditions", "Active pumping by root hairs only for soil management under standard field conditions"],
     correct: 1,
     explanation: "P moves primarily by diffusion because its concentration in soil solution is very low (< 1 ppm) and mass flow accounts for only a tiny fraction of P supply. Diffusion accounts for 90%+ of P uptake by roots."
   },
@@ -940,7 +940,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Calcium deficiency in plants typically causes:",
-    options: ["Marginal scorch of older leaves for soil management", "Purple discolouration of older leaves in soil science", "Death of growing points (meristems), curling and scorching of young leaf tips", "Interveinal chlorosis of mature leaves in soil fertility"],
+    options: ["Marginal scorch of older leaves for soil management under standard field conditions", "Purple discolouration of older leaves in soil science under standard field conditions", "Death of growing points (meristems), curling and scorching of young leaf tips", "Interveinal chlorosis of mature leaves in soil fertility under standard field conditions"],
     correct: 2,
     explanation: "Ca is immobile in phloem; it cannot be retranslocated from older to younger tissue. Deficiency therefore affects young, rapidly growing meristematic tissues first — tip burn, blossom-end rot, bitter pit."
   },
@@ -1010,7 +1010,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "The recommended method of correction for zinc deficiency in paddy nursery soil is:",
-    options: ["Application of zinc chelate (Zn-EDTA) at 2 kg ha⁻¹ in soil science", "Liming the soil to pH 7.0 for soil management", "Foliar spray of 0.5% ZnSO₄ alone in soil fertility", "Soil application of ZnSO₄ at 25 kg ha⁻¹ or seedling root dip in 2% ZnO suspension"],
+    options: ["Application of zinc chelate (Zn-EDTA) at 2 kg ha⁻¹ in soil science", "Liming the soil to pH 7.0 for soil management under standard field conditions", "Foliar spray of 0.5% ZnSO₄ alone in soil fertility under standard field conditions", "Soil application of ZnSO₄ at 25 kg ha⁻¹ or seedling root dip in 2% ZnO suspension"],
     correct: 3,
     explanation: "Standard recommendations for Zn deficiency in rice include: soil application of ZnSO₄ (21%) at 25 kg ha⁻¹ or seedling root dip in 2–4% ZnO (or 2% ZnSO₄) suspension for 10–12 hours before transplanting."
   },
@@ -1020,7 +1020,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Copper deficiency disease in cereals is known as:",
-    options: ["Marsh spot", "Reclamation disease (or Wither tip)", "Grey speck", "Khaira disease"],
+    options: ["Marsh spot under standard field conditions", "Reclamation disease (or Wither tip)", "Grey speck under standard field conditions", "Khaira disease under standard field conditions"],
     correct: 1,
     explanation: "Cu deficiency causes 'reclamation disease' (Heyns disease) in cereals — wilting, withering, and die-back of leaf tips; sometimes called 'wither tip' in wheat. It is common in organic peaty soils."
   },
@@ -1080,7 +1080,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Chlorine (Cl) as a micronutrient is essential for which plant process?",
-    options: ["Phosphate transport across root cell membranes", "Photosystem II water-splitting (oxygen evolution) reaction", "Protein synthesis in ribosomes", "Nitrogen fixation in root nodules"],
+    options: ["Phosphate transport across root cell membranes", "Photosystem II water-splitting (oxygen evolution) reaction", "Protein synthesis in ribosomes under standard field conditions", "Nitrogen fixation in root nodules under standard field conditions"],
     correct: 1,
     explanation: "Cl⁻ is required as a cofactor for the oxygen-evolving complex in Photosystem II (water splitting during light reactions of photosynthesis). Cl also regulates stomatal function."
   },
@@ -1104,7 +1104,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "The Soil Test Crop Response (STCR) approach to fertilizer recommendation is based on:",
-    options: ["Laboratory analysis of plant tissue alone in soil science", "Blanket (fixed) recommendations irrespective of soil test values", "Targeted yield approach correlating soil test values with crop response to fertilizers", "Farmer experience and traditional practices for soil management"],
+    options: ["Laboratory analysis of plant tissue alone in soil science under standard field conditions", "Blanket (fixed) recommendations irrespective of soil test values under standard field conditions", "Targeted yield approach correlating soil test values with crop response to fertilizers", "Farmer experience and traditional practices for soil management under standard field conditions"],
     correct: 2,
     explanation: "STCR uses regression equations relating soil nutrient status to crop response, recommending fertilizer dose to achieve a pre-set target yield based on available soil nutrient supply plus fertilizer need."
   },
@@ -1164,7 +1164,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Soil fertility maps prepared by systematic soil testing across a district are used primarily for:",
-    options: ["Calculating rainfall patterns for irrigation planning", "Identifying spatial variability and guiding site-specific fertilizer recommendations", "Estimating soil erosion rates in watersheds", "Determining soil pH for liming recommendations only"],
+    options: ["Calculating rainfall patterns for irrigation planning under standard field conditions", "Identifying spatial variability and guiding site-specific fertilizer recommendations", "Estimating soil erosion rates in watersheds under standard field conditions", "Determining soil pH for liming recommendations only under standard field conditions"],
     correct: 1,
     explanation: "Soil fertility maps reveal spatial patterns of nutrient deficiency/sufficiency across landscape units, enabling site-specific nutrient management (SSNM) to optimise fertilizer use efficiency."
   },
@@ -1214,7 +1214,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "The Mitscherlich equation describes the relationship between:",
-    options: ["Soil pH and nutrient availability in soil science", "Crop yield and irrigation water applied for soil management", "Crop yield and quantity of a limiting nutrient applied (law of diminishing returns)", "Soil texture and water holding capacity in soil fertility"],
+    options: ["Soil pH and nutrient availability in soil science under standard field conditions", "Crop yield and irrigation water applied for soil management under standard field conditions", "Crop yield and quantity of a limiting nutrient applied (law of diminishing returns)", "Soil texture and water holding capacity in soil fertility under standard field conditions"],
     correct: 2,
     explanation: "Mitscherlich's equation (Y = A[1 – e^(–cx)]) describes the diminishing yield response as a nutrient is added in increasing amounts — the mathematical basis of fertilizer response curves."
   },
@@ -1268,7 +1268,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Reclamation of sodic (alkali) soils is accomplished primarily by applying:",
-    options: ["Agricultural lime (CaCO₃) to increase pH", "Gypsum (CaSO₄·2H₂O) to replace Na⁺ with Ca²⁺ on exchange sites", "Sulphur (S) to directly neutralise Na⁺", "MOP (muriate of potash) to replace Na⁺ with K⁺"],
+    options: ["Agricultural lime (CaCO₃) to increase pH under standard field conditions", "Gypsum (CaSO₄·2H₂O) to replace Na⁺ with Ca²⁺ on exchange sites", "Sulphur (S) to directly neutralise Na⁺ under standard field conditions", "MOP (muriate of potash) to replace Na⁺ with K⁺"],
     correct: 1,
     explanation: "Gypsum (CaSO₄·2H₂O) provides Ca²⁺ to replace Na⁺ on exchange sites. The displaced Na₂SO₄ is then leached out with irrigation water. Elemental S lowers pH in calcareous sodic soils (S → H₂SO₄ → CaSO₄)."
   },
@@ -1318,7 +1318,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Leaching requirement (LR) in saline soil management refers to:",
-    options: ["Amount of lime needed to neutralise soil acidity in soil science", "Fraction of applied irrigation water that must pass through the root zone to prevent salt accumulation", "Electrical conductivity threshold for crop selection for soil management", "Rate of salt movement from subsoil to surface by capillary rise"],
+    options: ["Amount of lime needed to neutralise soil acidity in soil science under standard field conditions", "Fraction of applied irrigation water that must pass through the root zone to prevent salt accumulation", "Electrical conductivity threshold for crop selection for soil management under standard field conditions", "Rate of salt movement from subsoil to surface by capillary rise under standard field conditions"],
     correct: 1,
     explanation: "Leaching requirement = ECw / (5 × ECe threshold – ECw), representing the fraction of irrigation water that must drain below the root zone to maintain root zone salinity at or below the crop tolerance threshold."
   },
@@ -1368,7 +1368,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "The salt tolerance of crop plants is ranked correctly as:",
-    options: ["Rice = Barley (equally most tolerant) > Beans > Cotton", "Groundnut > Wheat > Maize > Cotton (most to least tolerant)", "Barley > Wheat > Rice > Sugarbeet (most to least tolerant)", "Sugarbeet > Barley > Cotton > Wheat > Rice > Beans (approximate tolerance order)"],
+    options: ["Rice = Barley (equally most tolerant) > Beans > Cotton under standard field conditions", "Groundnut > Wheat > Maize > Cotton (most to least tolerant) under standard field conditions", "Barley > Wheat > Rice > Sugarbeet (most to least tolerant) under standard field conditions", "Sugarbeet > Barley > Cotton > Wheat > Rice > Beans (approximate tolerance order)"],
     correct: 3,
     explanation: "General salt tolerance order: Sugarbeet > Barley > Cotton > Wheat > Maize > Rice > Beans. Rice is moderately sensitive; beans are sensitive. Barley is among the most salt-tolerant cereals."
   },
@@ -1378,7 +1378,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Elemental sulphur (S) can be used for reclamation of calcareous sodic soils because:",
-    options: ["Microbial oxidation of S produces H₂SO₄ which reacts with CaCO₃ to release Ca²⁺ for Na⁺ replacement", "S directly precipitates Na⁺ as Na₂SO₄ in soil science", "S provides sulphur nutrition to crops growing in alkaline soils for soil management", "S raises soil pH, improving structure in soil fertility"],
+    options: ["Microbial oxidation of S produces H₂SO₄ which reacts with CaCO₃ to release Ca²⁺ for Na⁺ replacement", "S directly precipitates Na⁺ as Na₂SO₄ in soil science under standard field conditions", "S provides sulphur nutrition to crops growing in alkaline soils for soil management", "S raises soil pH, improving structure in soil fertility under standard field conditions"],
     correct: 0,
     explanation: "In calcareous sodic soils: S + O₂ + H₂O → H₂SO₄ (microbial); H₂SO₄ + CaCO₃ → CaSO₄ + H₂O + CO₂. The CaSO₄ formed acts like applied gypsum to displace Na⁺ from exchange sites."
   },
@@ -1388,7 +1388,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Saline soils in India are predominantly found in which states/regions?",
-    options: ["Gujarat, Rajasthan, Haryana, Punjab, Maharashtra coastal areas", "West Bengal and Assam (high rainfall areas)", "Himachal Pradesh and Uttarakhand (hill states)", "Kerala and Karnataka humid zones"],
+    options: ["Gujarat, Rajasthan, Haryana, Punjab, Maharashtra coastal areas", "West Bengal and Assam (high rainfall areas) under standard field conditions", "Himachal Pradesh and Uttarakhand (hill states)", "Kerala and Karnataka humid zones under standard field conditions"],
     correct: 0,
     explanation: "Saline soils (and sodic soils) are concentrated in arid/semi-arid regions: Gujarat (Rann of Kutch), Rajasthan, Haryana, Punjab (canal irrigation areas), and Maharashtra's coastal/inland saline tracts."
   },
@@ -1402,7 +1402,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "The Universal Soil Loss Equation (USLE) estimates annual soil loss as A = R × K × L × S × C × P. What does the K factor represent?",
-    options: ["Rainfall erosivity factor in soil science", "Soil erodibility factor (resistance of soil to erosion and transport)", "Crop and management factor for soil management", "Slope length and steepness factor in soil fertility"],
+    options: ["Rainfall erosivity factor in soil science under standard field conditions", "Soil erodibility factor (resistance of soil to erosion and transport)", "Crop and management factor for soil management under standard field conditions", "Slope length and steepness factor in soil fertility under standard field conditions"],
     correct: 1,
     explanation: "K is the soil erodibility factor in USLE — the susceptibility of a specific soil to erosion based on texture, structure, organic matter, and permeability. Higher K = more erodible soil."
   },
@@ -1412,7 +1412,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Sheet erosion refers to:",
-    options: ["Wind removal of fine particles from the soil surface in soil fertility", "Removal of soil in distinct channels cut by concentrated water flow in soil science", "Large-scale mass movement of soil on steep slopes for soil management", "Relatively uniform removal of a thin layer of soil over a broad area by raindrop splash and surface runoff"],
+    options: ["Wind removal of fine particles from the soil surface in soil fertility under standard field conditions", "Removal of soil in distinct channels cut by concentrated water flow in soil science under standard field conditions", "Large-scale mass movement of soil on steep slopes for soil management under standard field conditions", "Relatively uniform removal of a thin layer of soil over a broad area by raindrop splash and surface runoff"],
     correct: 3,
     explanation: "Sheet erosion is the least visible but most widespread erosion type — uniform removal of a thin soil layer over a wide area by rainfall splash and shallow overland flow, often going unnoticed until subsoil is exposed."
   },
@@ -1422,7 +1422,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "The T value (soil loss tolerance) in soil conservation planning refers to:",
-    options: ["Threshold rainfall intensity triggering erosion in soil science", "Maximum tolerable soil temperature for crop growth for soil management", "Total organic matter needed to maintain soil fertility", "Maximum rate of soil erosion (in t ha⁻¹ yr⁻¹) that still permits sustained crop productivity"],
+    options: ["Threshold rainfall intensity triggering erosion in soil science under standard field conditions", "Maximum tolerable soil temperature for crop growth for soil management under standard field conditions", "Total organic matter needed to maintain soil fertility under standard field conditions", "Maximum rate of soil erosion (in t ha⁻¹ yr⁻¹) that still permits sustained crop productivity"],
     correct: 3,
     explanation: "T value is the maximum permissible soil loss that allows maintaining long-term soil productivity. In India, T values range from 2.5–12.5 t ha⁻¹ yr⁻¹ depending on soil depth and productivity potential."
   },
@@ -1432,7 +1432,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Contour bunding is a soil conservation measure that works by:",
-    options: ["Planting trees along ridgelines to break wind velocity", "Constructing earthen embankments along contour lines to impede downslope water flow", "Deep ploughing to break impervious hardpan layers", "Applying chemical soil stabilisers to the surface"],
+    options: ["Planting trees along ridgelines to break wind velocity under standard field conditions", "Constructing earthen embankments along contour lines to impede downslope water flow", "Deep ploughing to break impervious hardpan layers under standard field conditions", "Applying chemical soil stabilisers to the surface under standard field conditions"],
     correct: 1,
     explanation: "Contour bunds are earthen embankments constructed along contour lines (equal elevation) across slopes. They slow runoff, reduce rill and gully erosion, and promote infiltration and moisture conservation."
   },
@@ -1442,7 +1442,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Rill erosion differs from gully erosion in that:",
-    options: ["Rills form in sandy soils while gullies form only in clay soils", "Rills are small, shallow channels that can be removed by normal tillage; gullies are large, deep channels that cannot", "Rills are deeper (> 30 cm) and cannot be obliterated by normal tillage", "Rill erosion occurs only on flat land, gully erosion only on steep slopes"],
+    options: ["Rills form in sandy soils while gullies form only in clay soils in irrigated crop production systems", "Rills are small, shallow channels that can be removed by normal tillage; gullies are large, deep channels that cannot", "Rills are deeper (> 30 cm) and cannot be obliterated by normal tillage under standard field conditions", "Rill erosion occurs only on flat land, gully erosion only on steep slopes under standard field conditions"],
     correct: 1,
     explanation: "Rills are small (< 30 cm deep) channels removed by tillage; gullies are large (> 30 cm) incised channels that cannot be crossed by machinery and require major engineering structures to control."
   },
@@ -1492,7 +1492,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "The most effective biological measure for controlling soil erosion on degraded lands is:",
-    options: ["Construction of concrete check dams in soil science", "Deep ploughing to bury eroded material", "Application of chemical soil conditioners for soil management", "Establishment of grass cover, contour grass strips (vegetative barriers)"],
+    options: ["Construction of concrete check dams in soil science under standard field conditions", "Deep ploughing to bury eroded material under standard field conditions", "Application of chemical soil conditioners for soil management", "Establishment of grass cover, contour grass strips (vegetative barriers)"],
     correct: 3,
     explanation: "Permanent grass/vegetation cover is the most effective biological measure — plant roots bind soil, canopy intercepts raindrops reducing splash, and stems slow runoff. Vetiver grass strips are widely used in India."
   },
@@ -1512,7 +1512,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Mulching as a soil conservation technique helps by:",
-    options: ["Protecting soil surface from raindrop impact, reducing runoff, and improving infiltration", "Compacting the surface to prevent wind erosion in soil science", "Adding nitrogen to the soil through biological fixation", "Increasing soil pH to reduce erosion for soil management"],
+    options: ["Protecting soil surface from raindrop impact, reducing runoff, and improving infiltration", "Compacting the surface to prevent wind erosion in soil science under standard field conditions", "Adding nitrogen to the soil through biological fixation under standard field conditions", "Increasing soil pH to reduce erosion for soil management under standard field conditions"],
     correct: 0,
     explanation: "Mulches (crop residues, straw, plastic film) protect the soil from raindrop splash, reduce surface runoff velocity, maintain moisture, moderate temperature, and add organic matter — all reducing erosion."
   },
@@ -1522,7 +1522,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Strip cropping for erosion control involves:",
-    options: ["Planting crops in single rows perpendicular to slope direction", "Alternating strips of erosion-permitting (row crops) and erosion-resisting (grasses/legumes) crops along contours", "Removing all vegetation in strips to allow rainwater infiltration", "Growing a single crop in a wide strip across the entire field"],
+    options: ["Planting crops in single rows perpendicular to slope direction in irrigated crop production systems", "Alternating strips of erosion-permitting (row crops) and erosion-resisting (grasses/legumes) crops along contours", "Removing all vegetation in strips to allow rainwater infiltration under standard field conditions", "Growing a single crop in a wide strip across the entire field in irrigated crop production systems"],
     correct: 1,
     explanation: "Strip cropping alternates close-growing crops (grasses, legumes — which slow runoff and filter sediment) with erosion-susceptible row crops in strips along contours, reducing net soil loss."
   },
@@ -1532,7 +1532,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Watershed management as a soil and water conservation strategy works at the level of:",
-    options: ["Individual farm plot only in soil science", "Individual tree planting programs for soil management", "An entire natural drainage unit (catchment) treating land and water resources holistically", "State-level policy for irrigation allocation in soil fertility"],
+    options: ["Individual farm plot only in soil science in irrigated crop production systems", "Individual tree planting programs for soil management under standard field conditions", "An entire natural drainage unit (catchment) treating land and water resources holistically", "State-level policy for irrigation allocation in soil fertility under standard field conditions"],
     correct: 2,
     explanation: "Watershed management treats the entire catchment (watershed) as a unit, integrating conservation measures from ridge to valley — treating upper catchment (vegetation, contour bunds) and lower areas (check dams) to conserve soil and water."
   },
@@ -2005,7 +2005,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-28",
     lectureNo: 28,
     question: "Soil test helps in:",
-    options: ["Measuring crop yield in soil science", "Diagnosing soil nutrient status and making fertilizer recommendations", "Predicting pest outbreaks for soil management", "Weather forecasting in soil fertility"],
+    options: ["Measuring crop yield in soil science under standard field conditions", "Diagnosing soil nutrient status and making fertilizer recommendations", "Predicting pest outbreaks for soil management under standard field conditions", "Weather forecasting in soil fertility under standard field conditions"],
     correct: 1,
     explanation: "As per DA-121 notes: Soil testing helps determine the nutritional status of soil and makes balanced fertilizer recommendations to achieve optimum crop production."
   },
@@ -2255,7 +2255,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Assertion (A): Surface soil (0-30 cm) has higher CEC than subsoil.\nReason (R): Surface soil contains more organic matter and clay colloids which have high negative charge and thus higher CEC.",
-    options: ["A is true but R is false", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true"],
+    options: ["A is true but R is false under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true under standard field conditions"],
     correct: 1,
     explanation: "As per DA-121 notes: Surface soil has higher CEC due to more organic matter and clay colloids. Both A and R are true; R correctly explains A."
   },
@@ -2265,7 +2265,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Assertion (A): Clay soils have very high surface area per unit weight.\nReason (R): Clay particles are very small (<0.002 mm), giving them enormous surface area compared to sand or silt particles.",
-    options: ["Both A and R are true and R is the correct explanation of A", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false"],
+    options: ["Both A and R are true and R is the correct explanation of A", "A is false but R is true under standard field conditions", "Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false under standard field conditions"],
     correct: 0,
     explanation: "As per DA-121 notes: Clay particles (<0.002 mm) have surface area of 23,000 sq.cm/g vs sand's 21 sq.cm/g. Both A and R are true; R explains A."
   },
@@ -2275,7 +2275,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-12",
     lectureNo: 12,
     question: "Assertion (A): Adding straw with wide C:N ratio to soil may temporarily reduce available nitrogen.\nReason (R): Microorganisms decomposing straw immobilize soil nitrogen in their bodies because straw has insufficient N for microbial growth.",
-    options: ["Both A and R are true and R is the correct explanation of A", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false"],
+    options: ["Both A and R are true and R is the correct explanation of A", "A is false but R is true under standard field conditions", "Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false under standard field conditions"],
     correct: 0,
     explanation: "As per DA-121 notes: Straw with wide C:N ratio causes N immobilization. Microorganisms use soil N for their growth, temporarily reducing N availability. Both A and R are true."
   },
@@ -2285,7 +2285,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-19",
     lectureNo: 19,
     question: "Assertion (A): Soil pH affects the availability of plant nutrients.\nReason (R): At different pH levels, nutrients change their chemical form - some become more soluble and available while others become fixed/insoluble.",
-    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
+    options: ["A is true but R is false under standard field conditions", "A is false but R is true under standard field conditions", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-121 notes: pH greatly affects nutrient solubility and availability. Both A and R are true; R correctly explains A."
   },
@@ -2295,7 +2295,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-22",
     lectureNo: 22,
     question: "Assertion (A): Gypsum is used to reclaim sodic soils.\nReason (R): Gypsum provides calcium which replaces sodium on the soil exchange complex, and the resulting sodium sulphate can be leached out.",
-    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
+    options: ["A is true but R is false under standard field conditions", "A is false but R is true under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-121 notes: Gypsum (CaSO4) provides Ca which replaces Na from exchange sites, and NaSO4 is leached. Both A and R are true; R correctly explains A."
   },
@@ -2305,7 +2305,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-24",
     lectureNo: 24,
     question: "Assertion (A): There are 17 essential plant nutrients.\nReason (R): Essential nutrients must satisfy three criteria: deficiency prevents normal growth, the deficiency is specific to that element, and it is directly involved in plant metabolism.",
-    options: ["A is true but R is false", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true"],
+    options: ["A is true but R is false under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true under standard field conditions"],
     correct: 1,
     explanation: "As per DA-121 notes: 17 essential nutrients are accepted. Arnon's three criteria for essentiality are as stated. Both A and R are true."
   },
@@ -2315,7 +2315,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-26",
     lectureNo: 26,
     question: "Assertion (A): Nitrogen deficiency symptoms appear first on older (lower) leaves.\nReason (R): Nitrogen is a mobile nutrient in plants; when deficient, it is relocated from older leaves to younger, growing tissues.",
-    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
+    options: ["A is true but R is false under standard field conditions", "A is false but R is true under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-121 notes: N is mobile in plants, so deficiency symptoms appear on older leaves first. Both A and R are true; R correctly explains A."
   },
@@ -2325,7 +2325,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-27",
     lectureNo: 27,
     question: "Assertion (A): Iron deficiency symptoms appear first on young leaves.\nReason (R): Iron is immobile in plants and cannot be translocated from older to younger leaves when deficient.",
-    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
+    options: ["A is true but R is false under standard field conditions", "A is false but R is true under standard field conditions", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-121 notes: Fe is immobile in plants, so deficiency appears first on young leaves. Both A and R are true; R correctly explains A."
   },
@@ -2335,7 +2335,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-21",
     lectureNo: 21,
     question: "Assertion (A): Saline soils have higher osmotic pressure than sodic soils.\nReason (R): High salt concentrations in saline soils create high osmotic pressure, making it difficult for plants to absorb water.",
-    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
+    options: ["A is true but R is false under standard field conditions", "A is false but R is true under standard field conditions", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-121 notes: Saline soils have high salt content (EC >4 dS/m) creating high osmotic pressure. Plants suffer from physiological drought. Both A and R are true."
   },
@@ -2345,7 +2345,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Assertion (A): Granular (crumb) soil structure is ideal for crop production.\nReason (R): Granular structure provides optimal balance of pore space for aeration and water retention, and allows easy root penetration.",
-    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
+    options: ["A is true but R is false under standard field conditions", "A is false but R is true under standard field conditions", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-121 notes: Granular structure is best for crop production. Both A and R are true; R correctly explains A."
   },
@@ -2355,7 +2355,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-32",
     lectureNo: 32,
     question: "Assertion (A): Rice paddies are a significant source of methane (CH4) emissions.\nReason (R): Under anaerobic (flooded) conditions in rice paddies, methanogenic bacteria produce methane from organic matter decomposition.",
-    options: ["A is true but R is false", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true"],
+    options: ["A is true but R is false under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true under standard field conditions"],
     correct: 1,
     explanation: "As per DA-121 notes: Rice paddies emit CH4 from methanogenic bacteria under anaerobic conditions. Both A and R are true; R correctly explains A."
   },
@@ -2365,7 +2365,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-16",
     lectureNo: 16,
     question: "Assertion (A): Sandy soils have lower CEC than clayey soils.\nReason (R): Sand particles are large, have small surface area per unit weight, and carry little negative charge compared to clay particles.",
-    options: ["A is true but R is false", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true"],
+    options: ["A is true but R is false under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true under standard field conditions"],
     correct: 1,
     explanation: "As per DA-121 notes: Sandy soils have much lower CEC due to small surface area of sand particles. Both A and R are true; R correctly explains A."
   },
@@ -2375,7 +2375,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-11",
     lectureNo: 11,
     question: "Assertion (A): Organic matter improves soil structure.\nReason (R): Organic matter acts as a binding agent, helping to glue soil particles into stable aggregates through microbial action and humus formation.",
-    options: ["A is true but R is false", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true"],
+    options: ["A is true but R is false under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true under standard field conditions"],
     correct: 1,
     explanation: "As per DA-121 notes: Organic matter improves soil structure through aggregate formation. Both A and R are true; R correctly explains A."
   },
@@ -2385,7 +2385,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-20",
     lectureNo: 20,
     question: "Assertion (A): Micronutrients become deficient in highly alkaline (calcareous) soils even if present in the soil.\nReason (R): At high pH, micronutrients like Fe, Mn, Zn precipitate as insoluble hydroxides and carbonates, making them unavailable to plants.",
-    options: ["A is true but R is false", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true"],
+    options: ["A is true but R is false under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true under standard field conditions"],
     correct: 1,
     explanation: "As per DA-121 notes: Micronutrient deficiency in calcareous soils occurs because high pH causes them to precipitate as insoluble compounds. Both A and R are true."
   },
@@ -2395,7 +2395,7 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Assertion (A): Biological nitrogen fixation is an important source of nitrogen for agricultural soils.\nReason (R): Nitrogen-fixing organisms like Rhizobium and Azotobacter convert atmospheric nitrogen gas (N2) into plant-available ammonium, enriching soil nitrogen.",
-    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
+    options: ["A is true but R is false under standard field conditions", "A is false but R is true under standard field conditions", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-121 notes: Biological N fixation by Rhizobium, Azotobacter etc. converts N2 to NH4+, enriching soil. Both A and R are true; R explains A."
   },

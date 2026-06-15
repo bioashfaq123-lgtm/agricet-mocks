@@ -100,7 +100,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "The most critical irrigation stage in wheat for grain filling is:",
-    options: ["Grain filling (milky dough) stage", "Tillering stage", "Jointing stage", "CRI stage"],
+    options: ["Grain filling (milky dough) stage", "Tillering stage under standard field conditions", "Jointing stage under standard field conditions", "CRI stage under standard field conditions"],
     correct: 0,
     explanation: "While CRI is most critical for plant establishment, the grain filling (milky to dough) stage is most critical for yield because water stress at this stage directly reduces grain size and final yield. Both CRI and grain fill are critical."
   },
@@ -192,7 +192,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Rhizobium inoculation of chickpea seed is recommended because:",
-    options: ["It promotes biological N fixation through root nodule bacteria, reducing fertiliser N requirement", "It increases seed size in crop production in agriculture", "It controls pod borer attack in field conditions under field conditions", "It improves germination speed for agricultural purposes for crop production"],
+    options: ["It promotes biological N fixation through root nodule bacteria, reducing fertiliser N requirement", "It increases seed size in crop production in agriculture under standard field conditions", "It controls pod borer attack in field conditions under field conditions under standard field conditions", "It improves germination speed for agricultural purposes for crop production under standard field conditions"],
     correct: 0,
     explanation: "Chickpea is nodulated by Mesorhizobium ciceri. Inoculation with the specific Rhizobium culture fixes atmospheric N2 biologically (50–150 kg N/ha), reducing the need for chemical N fertiliser by up to 60–80% and improving soil fertility."
   },
@@ -222,7 +222,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Helicoverpa armigera (pod borer) is the most serious pest of chickpea. The recommended control measure is:",
-    options: ["Only furadan granules in soil in field conditions", "No control needed as damage is minimal", "Ploughing only in crop production", "HaNPV (nuclear polyhedrosis virus) spray or chemical insecticides like indoxacarb/emamectin"],
+    options: ["Only furadan granules in soil in field conditions under standard field conditions", "No control needed as damage is minimal based on conventional agronomic practices", "Ploughing only in crop production in the context of integrated farming systems", "HaNPV (nuclear polyhedrosis virus) spray or chemical insecticides like indoxacarb/emamectin"],
     correct: 3,
     explanation: "Helicoverpa pod borer is the most destructive pest of chickpea causing 50–100% loss. Integrated management includes HaNPV (Helicoverpa armigera NPV) biopesticide (250 LE/ha), pheromone traps, and chemical insecticides like indoxacarb 14.5 SC at 0.5 mL/L."
   },
@@ -374,7 +374,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Mustard (Brassica juncea) is primarily a:",
-    options: ["Cross-pollinated crop (insects, especially bees)", "Wind-pollinated crop only", "Vegetatively propagated crop", "Self-pollinated crop"],
+    options: ["Cross-pollinated crop (insects, especially bees)", "Wind-pollinated crop only under standard field conditions", "Vegetatively propagated crop under standard field conditions", "Self-pollinated crop under standard field conditions"],
     correct: 0,
     explanation: "Indian mustard (B. juncea) is predominantly cross-pollinated by insects, especially honey bees. Approximately 85–90% cross-pollination occurs. This is why placing bee hives in mustard fields increases seed set and yield by 20–30%."
   },
@@ -404,7 +404,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The most critical irrigation stage for mustard is:",
-    options: ["After pod maturity", "Germination stage", "Pre-flowering (rosette) and flowering stage", "Pre-sowing irrigation only"],
+    options: ["After pod maturity under standard field conditions", "Germination stage under standard field conditions", "Pre-flowering (rosette) and flowering stage", "Pre-sowing irrigation only under standard field conditions"],
     correct: 2,
     explanation: "Mustard is most sensitive to drought at pre-flowering and flowering (siliqua initiation) stages. Irrigation at these stages is critical for pod set and seed fill. Generally 2–3 irrigations are given: at 25–30 DAS and at flowering (55–60 DAS)."
   },
@@ -434,7 +434,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Brassica napus (rapeseed) differs from B. juncea (Indian mustard) in that B. napus:",
-    options: ["Is exclusively grown in south India in crop production", "Has more pungent oil and is preferred in India", "Is tetraploid (AACC genome, 2n=38) and produces canola-quality oil with low erucic acid", "Is purely self-pollinated with very low yield in field conditions"],
+    options: ["Is exclusively grown in south India in crop production under standard field conditions", "Has more pungent oil and is preferred in India under standard field conditions", "Is tetraploid (AACC genome, 2n=38) and produces canola-quality oil with low erucic acid", "Is purely self-pollinated with very low yield in field conditions under standard field conditions"],
     correct: 2,
     explanation: "B. napus (rapeseed) is a tetraploid (2n=38, AACC) and is the source of canola (low erucic acid + low glucosinolate) oil, widely grown in Europe and Canada. B. juncea (Indian mustard, 2n=36, AABB) is the major Indian oilseed, has higher erucic acid and pungent flavour."
   },
@@ -516,7 +516,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Sunflower requires irrigation most critically at:",
-    options: ["Only once at germination", "Branching/bud formation and flowering (head opening) stages", "At physiological maturity", "Only at sowing (pre-sowing irrigation)"],
+    options: ["Only once at germination under standard field conditions", "Branching/bud formation and flowering (head opening) stages", "At physiological maturity under standard field conditions", "Only at sowing (pre-sowing irrigation) under standard field conditions"],
     correct: 1,
     explanation: "The most critical irrigation stages in sunflower are: (1) branching/bud initiation stage and (2) flowering (head opening/anthesis) stage. Drought at flowering reduces pollination, seed set and oil content. 3–4 irrigations are generally given."
   },
@@ -526,7 +526,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "The Morden variety of sunflower is:",
-    options: ["A standard early sunflower variety adapted to Telangana conditions", "A late-maturing variety not suited for peninsular India", "An open-pollinated high oleic acid variety", "A safflower hybrid in crop production"],
+    options: ["A standard early sunflower variety adapted to Telangana conditions", "A late-maturing variety not suited for peninsular India", "An open-pollinated high oleic acid variety under standard field conditions", "A safflower hybrid in crop production under standard field conditions"],
     correct: 0,
     explanation: "Morden is an open-pollinated sunflower variety (released from Canada, adapted in India). It is used as a parent in hybrids and as a variety itself in some areas. It is an early to medium duration variety suitable for rabi season in peninsular India."
   },
@@ -576,7 +576,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "The spiny nature of safflower leaves makes which operation difficult?",
-    options: ["Fertiliser application", "Ploughing before sowing", "Irrigation", "Machine harvesting and manual weeding/intercultivation"],
+    options: ["Fertiliser application under standard field conditions", "Ploughing before sowing under standard field conditions", "Irrigation in irrigated crop production systems", "Machine harvesting and manual weeding/intercultivation"],
     correct: 3,
     explanation: "Safflower plants have sharp spines on leaf margins that make manual weeding, intercultivation and harvesting uncomfortable and slow. Spine-free varieties have been developed to facilitate hand operations and increase labour efficiency."
   },
@@ -586,7 +586,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Sunflower head borer (Homolosoma metaxella) is controlled by:",
-    options: ["Spraying with systemic insecticide at head formation", "Seed treatment only", "No control as damage is minor", "Burning the field after harvest"],
+    options: ["Spraying with systemic insecticide at head formation", "Seed treatment only under standard field conditions", "No control as damage is minor under standard field conditions", "Burning the field after harvest under standard field conditions"],
     correct: 0,
     explanation: "Safflower and sunflower head borers (Homolosoma spp., Helicoverpa) are controlled by spraying endosulfan, chlorpyriphos or emamectin benzoate at 50% head emergence and head opening stages. Early detection with pheromone traps helps time applications."
   },
@@ -646,7 +646,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Which of the following is a characteristic feature of sunflower that makes it suitable as a short-duration rabi crop?",
-    options: ["It is a strict short-day plant in crop production", "It requires very long days to flower for agricultural purposes", "It flowers only in summer in field conditions", "It is insensitive to photoperiod (day-neutral) and can flower at any day length"],
+    options: ["It is a strict short-day plant in crop production under standard field conditions", "It requires very long days to flower for agricultural purposes under standard field conditions", "It flowers only in summer in field conditions under standard field conditions", "It is insensitive to photoperiod (day-neutral) and can flower at any day length"],
     correct: 3,
     explanation: "Sunflower is a day-neutral (photoperiod-insensitive) crop. It can flower and mature regardless of day length, making it adaptable as a kharif, rabi or summer crop. Temperature is the more important factor than photoperiod for sunflower."
   },
@@ -698,7 +698,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "GCH-4 is a castor hybrid developed by:",
-    options: ["IARI, New Delhi", "UAS, Dharwad", "Gujarat Agricultural University (GAU), Anand", "PJTSAU, Hyderabad"],
+    options: ["IARI, New Delhi under standard field conditions", "UAS, Dharwad under standard field conditions", "Gujarat Agricultural University (GAU), Anand", "PJTSAU, Hyderabad under standard field conditions"],
     correct: 2,
     explanation: "GCH-4 (Gujarat Castor Hybrid 4) was developed by Gujarat Agricultural University, Anand. Gujarat and Telangana/AP are the two major castor-growing states. India produces over 80% of world's castor."
   },
@@ -738,7 +738,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "The major insect pest of castor is:",
-    options: ["Tobacco caterpillar (Spodoptera litura) and semi-looper (Achaea janata)", "Aphid in crop production in agriculture", "Whitefly only in field conditions", "Grasshopper for agricultural purposes under field conditions"],
+    options: ["Tobacco caterpillar (Spodoptera litura) and semi-looper (Achaea janata)", "Aphid in crop production in agriculture under standard field conditions", "Whitefly only in field conditions under standard field conditions", "Grasshopper for agricultural purposes under field conditions"],
     correct: 0,
     explanation: "Semi-looper (Achaea janata) and tobacco caterpillar (Spodoptera litura) are the most destructive caterpillar pests of castor, causing complete defoliation. Castor capsule borer (Dichocrocis punctiferalis) damages developing seeds in capsules."
   },
@@ -758,7 +758,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "What is the unique property of castor oil that makes it valuable for industrial use?",
-    options: ["It has the highest caloric value of any vegetable oil in crop production", "It solidifies at room temperature like coconut oil for agricultural purposes", "It contains omega-3 fatty acids for health supplements in field conditions", "It contains ricinoleic acid (12-hydroxy oleic acid) which gives it unique viscosity and chemical properties"],
+    options: ["It has the highest caloric value of any vegetable oil in crop production under standard field conditions", "It solidifies at room temperature like coconut oil for agricultural purposes under standard field conditions", "It contains omega-3 fatty acids for health supplements in field conditions under standard field conditions", "It contains ricinoleic acid (12-hydroxy oleic acid) which gives it unique viscosity and chemical properties"],
     correct: 3,
     explanation: "Castor oil's uniqueness comes from ricinoleic acid (85–90% of total fatty acids), a hydroxy fatty acid with the OH group at C-12 position. This gives castor oil exceptional viscosity, lubricity, and reactivity for polymer/nylon synthesis that no other vegetable oil provides."
   },
@@ -808,7 +808,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Castor wilt (Fusarium oxysporum f.sp. ricini) can be managed by:",
-    options: ["Flooding the field in crop production", "Seed treatment with Trichoderma viride, crop rotation and wilt-resistant varieties", "Only chemical soil sterilisation in field conditions", "Overhead irrigation with anti-fungal solution for agricultural purposes"],
+    options: ["Flooding the field in crop production as recommended by ICAR guidelines", "Seed treatment with Trichoderma viride, crop rotation and wilt-resistant varieties", "Only chemical soil sterilisation in field conditions under standard field conditions", "Overhead irrigation with anti-fungal solution for agricultural purposes"],
     correct: 1,
     explanation: "Castor wilt management includes: seed treatment with Trichoderma viride (4 g/kg) + Carbendazim (2 g/kg), crop rotation with non-host crops, use of resistant/tolerant hybrids, and avoiding field operations that spread the pathogen."
   },
@@ -850,7 +850,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Niger (Guizotia abyssinica) or ramtil is mainly grown in:",
-    options: ["Punjab and Haryana as a rabi crop in crop production", "Tamil Nadu paddy fallows in field conditions in agriculture", "Gujarat as an irrigated crop for agricultural purposes under field conditions", "Tribal and upland areas of Chhattisgarh, Odisha, and Jharkhand as a kharif/pre-rabi crop"],
+    options: ["Punjab and Haryana as a rabi crop in crop production under standard field conditions", "Tamil Nadu paddy fallows in field conditions in agriculture under standard field conditions", "Gujarat as an irrigated crop for agricultural purposes under field conditions", "Tribal and upland areas of Chhattisgarh, Odisha, and Jharkhand as a kharif/pre-rabi crop"],
     correct: 3,
     explanation: "Niger (ramtil) is primarily grown in tribal upland areas of Chhattisgarh, Odisha, Jharkhand, Maharashtra and Andhra Pradesh. It is a hardy crop adapted to shallow, poor, and laterite soils with very low inputs."
   },
@@ -890,7 +890,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Linseed rust, caused by Melampsora lini, can be managed by:",
-    options: ["Flooding the field repeatedly in crop production", "Removing all plant residues by burning only in field conditions", "Copper fungicide sprays only for agricultural purposes", "Using resistant varieties, seed treatment and foliar sprays of Zineb or Mancozeb"],
+    options: ["Flooding the field repeatedly in crop production under standard field conditions", "Removing all plant residues by burning only in field conditions under standard field conditions", "Copper fungicide sprays only for agricultural purposes under standard field conditions", "Using resistant varieties, seed treatment and foliar sprays of Zineb or Mancozeb"],
     correct: 3,
     explanation: "Linseed rust (Melampsora lini) is a major foliar disease. Management includes: use of rust-resistant varieties (Gaurav, T-397 are moderately resistant), Zineb or Mancozeb sprays at 15-day intervals, removal and burning of infected crop debris."
   },
@@ -900,7 +900,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "The major producing states of linseed in India are:",
-    options: ["Rajasthan and Gujarat", "Madhya Pradesh, Chhattisgarh, Bihar and UP", "Punjab, Haryana, UP", "Karnataka and Tamil Nadu"],
+    options: ["Rajasthan and Gujarat under standard field conditions", "Madhya Pradesh, Chhattisgarh, Bihar and UP", "Punjab, Haryana, UP under standard field conditions", "Karnataka and Tamil Nadu under standard field conditions"],
     correct: 1,
     explanation: "Madhya Pradesh, Chhattisgarh, Uttar Pradesh and Bihar are the major linseed-growing states of India. Linseed occupies small areas mainly as an intercrop with wheat or on residual moisture soils."
   },
@@ -940,7 +940,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Flaxseed (linseed) is increasingly used as a health food ingredient because:",
-    options: ["It has the highest protein content of any oilseed in crop production", "It is used as natural sweetener in field conditions", "It is rich in omega-3 ALA, dietary fibre (mucilage) and lignans with anti-cancer properties", "It contains high starch for energy for agricultural purposes"],
+    options: ["It has the highest protein content of any oilseed in crop production under standard field conditions", "It is used as natural sweetener in field conditions under standard field conditions", "It is rich in omega-3 ALA, dietary fibre (mucilage) and lignans with anti-cancer properties", "It contains high starch for energy for agricultural purposes under standard field conditions"],
     correct: 2,
     explanation: "Flaxseed is a functional food: rich in alpha-linolenic acid (omega-3, 50–60% of oil), soluble fibre (mucilage in seed coat), and plant lignans (SDG) that have demonstrated antioxidant and potential anti-cancer properties in research."
   },
@@ -970,7 +970,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "In which state is niger crop locally called 'Ramtil'?",
-    options: ["Assam", "Chhattisgarh and Jharkhand", "Kerala", "Punjab"],
+    options: ["Assam under standard field conditions", "Chhattisgarh and Jharkhand", "Kerala under standard field conditions", "Punjab under standard field conditions"],
     correct: 1,
     explanation: "Niger is locally known as 'Ramtil' in Chhattisgarh, Jharkhand and parts of Odisha. It is also called 'Sarguja' in Chhattisgarh. In Karnataka and Maharashtra it is called 'Uchhelu' or 'Kadu hesaru'."
   },
@@ -982,7 +982,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Co-86032 is a popular sugarcane variety known for:",
-    options: ["Suitability for rainfed conditions only", "Poor milling quality but high yield", "Very high sucrose content, good yield and wide adaptability", "Very short crop duration of 6 months"],
+    options: ["Suitability for rainfed conditions only under standard field conditions", "Poor milling quality but high yield under standard field conditions", "Very high sucrose content, good yield and wide adaptability", "Very short crop duration of 6 months under standard field conditions"],
     correct: 2,
     explanation: "Co-86032 is one of the most widely cultivated sugarcane varieties in South India (Telangana, AP, Karnataka, Tamil Nadu). It has high cane yield (300–400 q/ha), good sucrose content (CCS 10–11%), good ratoon-ability and ratooning ability."
   },
@@ -1082,7 +1082,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "The Grand Growth Phase in sugarcane corresponds to:",
-    options: ["Ratooning phase after first harvest in crop production", "Ripening phase (last 2 months before harvest) for agricultural purposes", "Initial 30 days after planting (germination) in field conditions", "Rapid elongation of internodes (3–7 months after planting) when maximum biomass is accumulated"],
+    options: ["Ratooning phase after first harvest in crop production under standard field conditions", "Ripening phase (last 2 months before harvest) for agricultural purposes under standard field conditions", "Initial 30 days after planting (germination) in field conditions under standard field conditions", "Rapid elongation of internodes (3–7 months after planting) when maximum biomass is accumulated"],
     correct: 3,
     explanation: "The Grand Growth Period (3–7 months after planting) is when sugarcane elongates rapidly, adding 5–10 cm/week in height. This phase requires maximum water, nutrients and sunlight. Most of the cane mass and fibre is accumulated during this period."
   },
@@ -1102,7 +1102,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "The sugarcane variety 87A298 is specifically known for:",
-    options: ["High sucrose content and suitability for peninsular India (co-developed for Telangana)", "Cold tolerance for North India in field conditions", "Very high fibre content for paper making in crop production", "Tolerance to waterlogging in coastal areas for agricultural purposes"],
+    options: ["High sucrose content and suitability for peninsular India (co-developed for Telangana)", "Cold tolerance for North India in field conditions under standard field conditions", "Very high fibre content for paper making in crop production under standard field conditions", "Tolerance to waterlogging in coastal areas for agricultural purposes under standard field conditions"],
     correct: 0,
     explanation: "87A298 is a high-sucrose sugarcane variety recommended for Telangana and Andhra Pradesh. It has high CCS (commercial cane sugar) percentage and good yield, making it a preferred choice for sugar mills in the peninsular zone."
   },
@@ -1132,7 +1132,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "The recommended row spacing for sugarcane under tropical irrigated conditions is:",
-    options: ["45 cm", "2.0 m", "75–90 cm", "1.2–1.5 m (wide row/trench method)"],
+    options: ["45 cm under standard field conditions", "2.0 m under standard field conditions", "75–90 cm under standard field conditions", "1.2–1.5 m (wide row/trench method)"],
     correct: 3,
     explanation: "In tropical India, wide-row (120–150 cm) trench planting is recommended for better light interception, ease of inter-row operations, drip irrigation installation and better ratoon management. 75–90 cm spacing is used in subtropical North India."
   },
@@ -1144,7 +1144,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "The Napier-Bajra hybrid (NB-21) is a cross between:",
-    options: ["Sorghum × Maize in crop production", "Berseem × Oat in field conditions", "Napier grass (Pennisetum purpureum) × Pearl millet (Pennisetum glaucum)", "Oat × Barley for agricultural purposes"],
+    options: ["Sorghum × Maize in crop production under standard field conditions", "Berseem × Oat in field conditions under standard field conditions", "Napier grass (Pennisetum purpureum) × Pearl millet (Pennisetum glaucum)", "Oat × Barley for agricultural purposes under standard field conditions"],
     correct: 2,
     explanation: "NB-21 is the interspecific hybrid between Napier grass (Pennisetum purpureum, elephant grass) and pearl millet (Pennisetum glaucum). It combines the high biomass of Napier with the palatability and nutritive value of pearl millet."
   },
@@ -1154,7 +1154,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Berseem (Trifolium alexandrinum) is an important rabi fodder crop because:",
-    options: ["It grows only in waterlogged conditions in paddy season in crop production", "It is a perennial crop that requires no replanting for 10 years", "It is a legume that fixes N, produces high-quality protein-rich green fodder and can be multi-cut", "It is a cereal with high energy content in field conditions"],
+    options: ["It grows only in waterlogged conditions in paddy season in crop production under standard field conditions", "It is a perennial crop that requires no replanting for 10 years under standard field conditions", "It is a legume that fixes N, produces high-quality protein-rich green fodder and can be multi-cut", "It is a cereal with high energy content in field conditions under standard field conditions"],
     correct: 2,
     explanation: "Berseem (Egyptian clover) is a high-quality legume fodder with 18–22% crude protein. It can be cut 4–6 times per season (multi-cut), fixes atmospheric nitrogen (80–100 kg N/ha), and improves soil fertility. It is the most important rabi fodder in North India."
   },
@@ -1174,7 +1174,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Maize silage is prepared by:",
-    options: ["Fermenting chopped green maize plants (at milk to dough stage) in airtight silos", "Cooking maize grains with water in crop production", "Mixing maize with urea in open pits in field conditions", "Sun-drying maize plants after harvest for agricultural purposes"],
+    options: ["Fermenting chopped green maize plants (at milk to dough stage) in airtight silos", "Cooking maize grains with water in crop production under standard field conditions", "Mixing maize with urea in open pits in field conditions under standard field conditions", "Sun-drying maize plants after harvest for agricultural purposes under standard field conditions"],
     correct: 0,
     explanation: "Maize silage is made by harvesting whole-plant maize at milk-to-dough grain stage (whole plant moisture 65–70%), chopping to 1–2 cm pieces, packing tightly in airtight silos/pits and fermenting anaerobically for 3–6 weeks. Lactic acid fermentation preserves the silage."
   },
@@ -1204,7 +1204,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "The 'Jowar-Cowpea' intercropping system is popular for fodder because:",
-    options: ["Both fix nitrogen equally in crop production in agriculture", "No mixing of protein and carbohydrates is needed in animal feed under field conditions", "Jowar supplies energy and structural carbohydrates; cowpea fixes N and supplies protein, improving overall fodder quality", "Jowar supplies protein; cowpea supplies energy in field conditions for crop production"],
+    options: ["Both fix nitrogen equally in crop production in agriculture in the context of integrated farming systems", "No mixing of protein and carbohydrates is needed in animal feed under field conditions under standard field conditions", "Jowar supplies energy and structural carbohydrates; cowpea fixes N and supplies protein, improving overall fodder quality", "Jowar supplies protein; cowpea supplies energy in field conditions for crop production under standard field conditions"],
     correct: 2,
     explanation: "Sorghum (jowar) is a high-yielding cereal fodder rich in energy but low in protein. Intercropping with cowpea (a legume) adds protein (18–22% CP in cowpea vs 7–9% in sorghum alone), gives a balanced ration, and cowpea also fixes 50–80 kg N/ha."
   },
@@ -1254,7 +1254,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Which fodder crop is known as the 'Queen of Fodder Crops' in India?",
-    options: ["Cowpea", "Oat", "Sorghum", "Berseem (Trifolium alexandrinum)"],
+    options: ["Cowpea under standard field conditions", "Oat under standard field conditions", "Sorghum under standard field conditions", "Berseem (Trifolium alexandrinum)"],
     correct: 3,
     explanation: "Berseem (Trifolium alexandrinum) is called the 'Queen of Fodder Crops' in India because of its excellent nutritive value, palatability, high protein content (18–22% CP), multi-cut ability, nitrogen-fixing ability, and high green fodder yield."
   },
@@ -1336,7 +1336,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "The pungency of chilli is measured in Scoville Heat Units (SHU) and is due to:",
-    options: ["Essential oils (terpenes)", "Capsanthin (pigment)", "Capsaicin and dihydrocapsaicin (capsaicinoids)", "Ascorbic acid (vitamin C)"],
+    options: ["Essential oils (terpenes) under standard field conditions", "Capsanthin (pigment) under standard field conditions", "Capsaicin and dihydrocapsaicin (capsaicinoids)", "Ascorbic acid (vitamin C) under standard field conditions"],
     correct: 2,
     explanation: "Chilli pungency (heat) is due to capsaicinoids, primarily capsaicin (~69%) and dihydrocapsaicin (~22%). Capsanthin gives the red colour (it is not pungent). Scoville units measure pungency: mild = 0–1000 SHU; hot = 50,000–500,000 SHU; very hot = >1,000,000 SHU."
   },
@@ -1346,7 +1346,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "The variety Rajendra Swathi is an improved variety of:",
-    options: ["Fenugreek", "Cumin", "Coriander (Coriandrum sativum)", "Fennel"],
+    options: ["Fenugreek under standard field conditions", "Cumin under standard field conditions", "Coriander (Coriandrum sativum)", "Fennel under standard field conditions"],
     correct: 2,
     explanation: "Rajendra Swathi is a coriander (dhaniya) variety developed by BAU, Ranchi. It is recommended for medium to high-altitude areas. Coriander is grown for both dry seed (spice) and fresh green leaves (herb)."
   },
@@ -1356,7 +1356,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Turmeric variety Duggirala is famous for:",
-    options: ["Golden-yellow colour with high curcumin content, specific to Duggirala region of AP", "Purple colour and mild flavour in crop production", "High yield suitable for humid north-east India only", "Very small rhizome size for culinary use in field conditions"],
+    options: ["Golden-yellow colour with high curcumin content, specific to Duggirala region of AP", "Purple colour and mild flavour in crop production under standard field conditions", "High yield suitable for humid north-east India only under standard field conditions", "Very small rhizome size for culinary use in field conditions under standard field conditions"],
     correct: 0,
     explanation: "Duggirala turmeric (Curcuma longa) from Krishna district, Andhra Pradesh, is highly valued for its intense golden-yellow colour (high curcumin content), good aroma and large rhizomes. It commands premium prices in domestic and export markets."
   },
@@ -1416,7 +1416,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Nematode wilt of chilli is managed by:",
-    options: ["Burning crop residues only in crop production", "Chemical nematicide (carbofuran) soil treatment and biocontrol with Paecilomyces lilacinus", "Overhead irrigation for agricultural purposes in agriculture", "Applying urea in excess in field conditions"],
+    options: ["Burning crop residues only in crop production under standard field conditions", "Chemical nematicide (carbofuran) soil treatment and biocontrol with Paecilomyces lilacinus", "Overhead irrigation for agricultural purposes in agriculture under standard field conditions", "Applying urea in excess in field conditions as recommended by ICAR guidelines"],
     correct: 1,
     explanation: "Root knot nematode (Meloidogyne incognita) causes severe wilt of chilli. Management: carbofuran 3G @ 1 kg a.i./ha at transplanting, soil application of Paecilomyces lilacinus bioagent, summer deep ploughing, and resistant rootstock grafting."
   },
@@ -1426,7 +1426,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "The main product derived from turmeric that has pharmaceutical importance is:",
-    options: ["Turmerone (essential oil) in crop production", "Curcumin (polyphenol with anti-inflammatory and antioxidant properties)", "Gingerol (phenolic) in field conditions", "Thymol (monoterpene) for agricultural purposes"],
+    options: ["Turmerone (essential oil) in crop production under standard field conditions", "Curcumin (polyphenol with anti-inflammatory and antioxidant properties)", "Gingerol (phenolic) in field conditions under standard field conditions", "Thymol (monoterpene) for agricultural purposes under standard field conditions"],
     correct: 1,
     explanation: "Curcumin (diferuloylmethane) is the principal bioactive polyphenol of turmeric (2–5% in dry rhizome). Extensive research shows anti-inflammatory, antioxidant, anti-cancer and neuroprotective properties, making it the subject of hundreds of pharmaceutical trials."
   },
@@ -1488,7 +1488,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Bidi tobacco is different from FCV tobacco because:",
-    options: ["Bidi tobacco has no nicotine", "Bidi tobacco is exclusively grown in Andhra Pradesh only", "Bidi tobacco uses very large leaves for wrapping bidis; cured by sun/air", "Bidi tobacco is the same as FCV but with different packaging"],
+    options: ["Bidi tobacco has no nicotine as recommended by ICAR guidelines", "Bidi tobacco is exclusively grown in Andhra Pradesh only", "Bidi tobacco uses very large leaves for wrapping bidis; cured by sun/air", "Bidi tobacco is the same as FCV but with different packaging"],
     correct: 2,
     explanation: "Bidi tobacco (mainly Nicotiana tabacum, NLS/Nipali type) produces large, flat leaves used to wrap bidi cigarettes. It is sun-cured or air-cured, has high nicotine, and is mainly grown in Gujarat (Kheda, Anand), Karnataka and West Bengal."
   },
@@ -1588,7 +1588,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "The main reason tobacco should not be grown continuously on the same land is:",
-    options: ["Tobacco exhausts all soil water in one season in crop production", "Tobacco improves soil fertility and doesn't need rotation in field conditions", "Tobacco is a perennial crop that naturally occupies land for many years", "Build-up of soilborne pathogens (black shank, nematodes, wilt), and soil chemical changes affecting leaf quality"],
+    options: ["Tobacco exhausts all soil water in one season in crop production under standard field conditions", "Tobacco improves soil fertility and doesn't need rotation in field conditions under standard field conditions", "Tobacco is a perennial crop that naturally occupies land for many years under standard field conditions", "Build-up of soilborne pathogens (black shank, nematodes, wilt), and soil chemical changes affecting leaf quality"],
     correct: 3,
     explanation: "Continuous tobacco cultivation builds up soilborne pathogens (Phytophthora black shank, Ralstonia wilt, Meloidogyne nematodes), depletes specific soil nutrients, and tobacco-specific chemicals alter the soil microbiome. Rotation with non-host crops for 2–3 years is essential."
   },
@@ -1790,7 +1790,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "If groundnut seed moisture content exceeds the critical level of 9%, which problem occurs?",
-    options: ["Loss of oil content", "Sprouting of seeds in storage", "Seed coat cracking", "Aflatoxin production due to Aspergillus flavus"],
+    options: ["Loss of oil content under standard field conditions", "Sprouting of seeds in storage under standard field conditions", "Seed coat cracking under standard field conditions", "Aflatoxin production due to Aspergillus flavus"],
     correct: 3,
     explanation: "As per DA-201 notes, if seed moisture content exceeds 9%, Aflatoxin production due to Aspergillus flavus occurs during post-harvest drying."
   },
@@ -2060,7 +2060,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "The dye Carthamin extracted from safflower petals is:",
-    options: ["Yellow pigment soluble in water in crop production", "Red dye soluble in both water and alcohol", "Blue dye used in textiles in field conditions", "Orange-red dye insoluble in water but soluble in alkaline solution"],
+    options: ["Yellow pigment soluble in water in crop production", "Red dye soluble in both water and alcohol under standard field conditions", "Blue dye used in textiles in field conditions under standard field conditions", "Orange-red dye insoluble in water but soluble in alkaline solution"],
     correct: 3,
     explanation: "As per DA-201 notes, safflower florets contain Carthamin - an orange-red dye (2%) insoluble in water but soluble in alkaline solution, used as food, beverage, and cosmetics additive."
   },
@@ -2270,7 +2270,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-16",
     lectureNo: 16,
     question: "In sugarcane, the Partha method of planting is recommended for:",
-    options: ["Saline soils", "Areas subjected to waterlogging after planting", "Dry soil conditions only", "Farms with drip irrigation"],
+    options: ["Saline soils under standard field conditions", "Areas subjected to waterlogging after planting", "Dry soil conditions only under standard field conditions", "Farms with drip irrigation under standard field conditions"],
     correct: 1,
     explanation: "As per DA-201 notes, Partha method is specifically recommended for areas subjected to water logging immediately after planting."
   },
@@ -2300,7 +2300,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-18",
     lectureNo: 18,
     question: "Assertion (A): Detrashing in sugarcane is done at 150 DAP.\nReason (R): Detrashing improves air movement, reduces pest infestation and provides trash for mulching.",
-    options: ["Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true", "A is true but R is false", "Both A and R are true and R is the correct explanation of A"],
+    options: ["Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true under standard field conditions", "A is true but R is false under standard field conditions", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "Both statements are correct. Detrashing (removal of dry and green leaves) at 150 DAP enhances air movement, reduces pests like scales and mealy bugs, and provides trash for mulching."
   },
@@ -2310,7 +2310,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-18",
     lectureNo: 18,
     question: "Assertion (A): Trash-twist propping is practiced in sugarcane.\nReason (R): Propping prevents crop lodging due to heavy winds by tying cane stalks using dry leaves twisted into a rope.",
-    options: ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false", "A is false but R is true"],
+    options: ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false under standard field conditions", "A is false but R is true under standard field conditions"],
     correct: 0,
     explanation: "Both statements are correct. Trash-twist propping involves twisting trash into a rope and tying cane stalks together to prevent lodging due to heavy winds."
   },
@@ -2320,7 +2320,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-19",
     lectureNo: 19,
     question: "Assertion (A): Ratoon crop of sugarcane occupies 50-55% of total cane area in India.\nReason (R): Ratooning reduces operational costs for seed and preparatory tillage by 25-30%.",
-    options: ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false", "A is false but R is true"],
+    options: ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false under standard field conditions", "A is false but R is true under standard field conditions"],
     correct: 1,
     explanation: "Both statements are true but R is not the sole explanation for A. Ratoon occupies 50-55% of area due to multiple benefits including economic savings, early maturity, and equal or higher yields."
   },
@@ -2330,7 +2330,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-20",
     lectureNo: 20,
     question: "Assertion (A): FCV tobacco is grown in Andhra Pradesh and Karnataka.\nReason (R): FCV stands for Flue-Cured Virginia tobacco requiring specific soil and climate conditions.",
-    options: ["Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true"],
+    options: ["Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false under standard field conditions", "A is false but R is true under standard field conditions"],
     correct: 1,
     explanation: "Both A and R are true. FCV tobacco is grown in AP and Karnataka as these regions have the specific light soils and climate required for high-quality FCV tobacco production."
   },
@@ -2340,7 +2340,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-21",
     lectureNo: 21,
     question: "Assertion (A): Tobacco seeds are unsuitable for direct field sowing and are raised in nurseries first.\nReason (R): Tobacco seeds are very small (0.75 mm long) and emerging seedlings are tiny and delicate.",
-    options: ["Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true", "A is true but R is false", "Both A and R are true and R is the correct explanation of A"],
+    options: ["Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true under standard field conditions", "A is true but R is false under standard field conditions", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "Both A and R are correct. The extremely small size of tobacco seeds (0.75 mm long) and the delicate nature of emerging seedlings make nursery raising essential before transplanting."
   },
@@ -2350,7 +2350,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Assertion (A): In groundnut, sulphur is highly essential for quality production.\nReason (R): Sulphur is directly involved in the biosynthesis of oil and improves nodulation of Rhizobium.",
-    options: ["Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true"],
+    options: ["Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false under standard field conditions", "A is false but R is true under standard field conditions"],
     correct: 1,
     explanation: "Both A and R are correct. Sulphur is directly involved in oil biosynthesis, improves nodulation of Rhizobium, prevents premature leaf fall and increases pod and oil yield in groundnut."
   },
@@ -2360,7 +2360,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Assertion (A): Sesame is a short day plant.\nReason (R): High light intensity increases the number of capsules per plant in sesame.",
-    options: ["A is true but R is false", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true"],
+    options: ["A is true but R is false under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true under standard field conditions"],
     correct: 2,
     explanation: "Both statements are true but R is not the explanation for A. Sesame is a short day plant while high light intensity increasing capsule number is a separate yield factor."
   },
@@ -2370,7 +2370,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Assertion (A): Safflower is xerophytic in nature.\nReason (R): Spiny type of safflower has higher oil content than non-spiny type.",
-    options: ["Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true"],
+    options: ["Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false under standard field conditions", "A is false but R is true under standard field conditions"],
     correct: 0,
     explanation: "Both A and R are true but R is not the explanation for A. Safflower being xerophytic relates to drought tolerance, while oil content difference between spiny and non-spiny types is an unrelated genetic characteristic."
   },
@@ -2380,7 +2380,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Assertion (A): Sunflower is a photo-insensitive crop.\nReason (R): Sunflower can be cultivated in all seasons as it flowers at wide range of photoperiods.",
-    options: ["Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true", "A is true but R is false", "Both A and R are true and R is the correct explanation of A"],
+    options: ["Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true under standard field conditions", "A is true but R is false under standard field conditions", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "Both A and R are correct and R explains A. The photo-insensitivity of sunflower enables its cultivation in all seasons (kharif, rabi, summer) as it flowers across a wide range of photoperiods."
   },
@@ -2390,7 +2390,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Assertion (A): Cotton cultivation is traced to the Indus Valley civilization.\nReason (R): Every available evidence proves India is the original habitat of cotton.",
-    options: ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false", "A is false but R is true"],
+    options: ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false under standard field conditions", "A is false but R is true under standard field conditions"],
     correct: 0,
     explanation: "Both statements are true and R explains A. India appears to have been the centre of an important cotton industry as early as 1500 BC and every available evidence proves India is the original habitat."
   },
@@ -2400,7 +2400,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Assertion (A): Castor is a deep-rooted plant requiring deep ploughing during land preparation.\nReason (R): Castor tap root extends beyond 2-3 meters for extraction of soil moisture from deep layers.",
-    options: ["Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true", "A is true but R is false", "Both A and R are true and R is the correct explanation of A"],
+    options: ["Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true under standard field conditions", "A is true but R is false under standard field conditions", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "Both A and R are correct. Castor being deep-rooted with tap roots extending to 2-3 meters necessitates deep ploughing (less than 45 cm) for adequate root support and moisture access."
   },
@@ -2410,7 +2410,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-20",
     lectureNo: 20,
     question: "Assertion (A): Tobacco was introduced into India in the beginning of the 17th century.\nReason (R): Christopher Columbus discovered the narcotic qualities of tobacco in 1492.",
-    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is NOT the correct explanation of A"],
+    options: ["A is false but R is true under standard field conditions", "Both A and R are true and R is the correct explanation of A", "A is true but R is false under standard field conditions", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 3,
     explanation: "Both statements are true but R does not explain A. Columbus discovered tobacco in 1492, but tobacco was introduced to India specifically in the beginning of the 17th century."
   },
@@ -2420,7 +2420,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-17",
     lectureNo: 17,
     question: "Assertion (A): Late application of nitrogen beyond 120 days in sugarcane should be avoided.\nReason (R): Late N application reduces juice quality, increases soluble N in juice and forms water shoots.",
-    options: ["Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true"],
+    options: ["Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false under standard field conditions", "A is false but R is true under standard field conditions"],
     correct: 1,
     explanation: "Both A and R are correct. As per DA-201 notes, late N application beyond 120 days reduces juice quality, increases soluble N in juice and leads to formation of water shoots."
   },
@@ -2430,7 +2430,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-14",
     lectureNo: 14,
     question: "Assertion (A): Gossypium hirsutum occupies more than 90% of cotton cultivation area.\nReason (R): G. hirsutum (American cotton) has medium coarse fibre of 27-30 mm length and is widely adaptable.",
-    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is NOT the correct explanation of A"],
+    options: ["A is false but R is true under standard field conditions", "Both A and R are true and R is the correct explanation of A", "A is true but R is false under standard field conditions", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 3,
     explanation: "Both statements are true but R is not the complete explanation for A. G. hirsutum dominates in area due to multiple factors including yield potential, adaptation and fibre quality."
   },
@@ -2440,7 +2440,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Assertion (A): Groundnut performs best in sandy loam soils.\nReason (R): Heavy and stiff clay soils interfere with peg penetration and make harvesting difficult in groundnut.",
-    options: ["Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false", "Both A and R are true and R is the correct explanation of A", "A is false but R is true"],
+    options: ["Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false under standard field conditions", "Both A and R are true and R is the correct explanation of A", "A is false but R is true under standard field conditions"],
     correct: 2,
     explanation: "Both A and R are correct. Sandy loam is ideal for groundnut as heavy clay soils become hard in dry weather, interfering with peg penetration and making harvesting difficult."
   },

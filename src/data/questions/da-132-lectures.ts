@@ -50,7 +50,7 @@ export const da132LectureQuestions: Question[] = [
 
   { id:"d132l_010", subject:"da-132", lecture:"lecture-1", lectureNo:1,
     question:"Rice hispa (Dicladispa armigera) causes damage by:",
-    options:["Sucking sap from phloem in crop protection", "Feeding on roots in pest management", "Mining inside leaves (larvae) and scraping upper epidermis (adults)", "Boring into stems for field crops"],
+    options:["Sucking sap from phloem in crop protection under standard field conditions", "Feeding on roots in pest management under standard field conditions", "Mining inside leaves (larvae) and scraping upper epidermis (adults)", "Boring into stems for field crops under standard field conditions"],
     correct: 2, explanation:"Hispa adults scrape upper epidermis of rice leaves (white patches); larvae mine inside leaves causing blotchy mines." },
 
   { id:"d132l_011", subject:"da-132", lecture:"lecture-1", lectureNo:1,
@@ -106,12 +106,12 @@ export const da132LectureQuestions: Question[] = [
 
   { id:"d132l_021", subject:"da-132", lecture:"lecture-2", lectureNo:2,
     question:"Sorghum midge (Contarinia sorghicola) attacks:",
-    options:["Stem", "Seedlings", "Roots", "Florets/spikelets during flowering"],
+    options:["Stem under standard field conditions", "Seedlings under standard field conditions", "Roots under standard field conditions", "Florets/spikelets during flowering"],
     correct: 3, explanation:"Sorghum midge larva feeds on developing grain inside glumes during flowering, resulting in chaffy grain ('blasted grain')." },
 
   { id:"d132l_022", subject:"da-132", lecture:"lecture-2", lectureNo:2,
     question:"'Dead heart' in sorghum seedlings is caused by:",
-    options:["Aphid", "Sorghum midge", "Shoot fly (Atherigona soccata)", "Stem borer"],
+    options:["Aphid under standard field conditions", "Sorghum midge under standard field conditions", "Shoot fly (Atherigona soccata)", "Stem borer under standard field conditions"],
     correct:2, explanation:"Shoot fly maggot cuts the growing point of sorghum seedlings (< 30 days), causing central shoot to dry – called dead heart." },
 
   { id:"d132l_023", subject:"da-132", lecture:"lecture-2", lectureNo:2,
@@ -172,7 +172,7 @@ export const da132LectureQuestions: Question[] = [
 
   { id:"d132l_034", subject:"da-132", lecture:"lecture-3", lectureNo:3,
     question:"Cotton jassid (Amrasca biguttula biguttula) causes damage by:",
-    options:["Mining leaves in pest management", "Feeding on roots", "Boring into bolls", "Sucking sap from leaves causing 'hopperburn'"],
+    options:["Mining leaves in pest management", "Feeding on roots under standard field conditions", "Boring into bolls under standard field conditions", "Sucking sap from leaves causing 'hopperburn'"],
     correct:3, explanation:"Cotton jassid sucks phloem sap from leaves. Saliva is toxic, causing marginal reddening and upward curling of leaves ('hopper burn')." },
 
   { id:"d132l_035", subject:"da-132", lecture:"lecture-3", lectureNo:3,
@@ -182,12 +182,12 @@ export const da132LectureQuestions: Question[] = [
 
   { id:"d132l_036", subject:"da-132", lecture:"lecture-3", lectureNo:3,
     question:"Whitefly (Bemisia tabaci) is important in cotton because it:",
-    options:["Bores into bolls", "Transmits Cotton Leaf Curl Virus (CLCuV)", "Causes direct damage only", "Attacks roots"],
+    options:["Bores into bolls under standard field conditions", "Transmits Cotton Leaf Curl Virus (CLCuV)", "Causes direct damage only", "Attacks roots under standard field conditions"],
     correct: 1, explanation:"Whitefly (Bemisia tabaci) transmits Cotton Leaf Curl Virus (CLCuV), causing leaf curling, vein darkening and yield loss." },
 
   { id:"d132l_037", subject:"da-132", lecture:"lecture-3", lectureNo:3,
     question:"Cotton mealybug (Phenacoccus solenopsis) was introduced in India from:",
-    options:["Pakistan (via invasive route from Americas)", "China in crop protection", "Africa for field crops", "USA in pest management"],
+    options:["Pakistan (via invasive route from Americas)", "China in crop protection under standard field conditions", "Africa for field crops under standard field conditions", "USA in pest management under standard field conditions"],
     correct: 0, explanation:"Papaya/cotton mealybug P. solenopsis invaded India through Pakistan, first reported in Gujarat in 2005, then spread across India." },
 
   { id:"d132l_038", subject:"da-132", lecture:"lecture-3", lectureNo:3,
@@ -212,12 +212,12 @@ export const da132LectureQuestions: Question[] = [
 
   { id:"d132l_042", subject:"da-132", lecture:"lecture-3", lectureNo:3,
     question:"Helicoverpa armigera is called polyphagous because:",
-    options:["It resists all pesticides in pest management", "It breeds very fast for field crops", "It has multiple generations in crop protection", "It has many host plants (cotton, tomato, chickpea, maize, chilli etc.)"],
+    options:["It resists all pesticides in pest management under standard field conditions", "It breeds very fast for field crops under standard field conditions", "It has multiple generations in crop protection under standard field conditions", "It has many host plants (cotton, tomato, chickpea, maize, chilli etc.)"],
     correct: 3, explanation:"Helicoverpa armigera is polyphagous – it attacks over 100 host plants including cotton, tomato, chickpea, maize, chilli, sorghum." },
 
   { id:"d132l_043", subject:"da-132", lecture:"lecture-3", lectureNo:3,
     question:"Which insecticide is recommended for first spray against bollworms in cotton?",
-    options:["Bt (Bacillus thuringiensis var. kurstaki) formulations", "Endosulfan in pest management", "DDT in crop protection", "Parathion for field crops"],
+    options:["Bt (Bacillus thuringiensis var. kurstaki) formulations", "Endosulfan in pest management under standard field conditions", "DDT in crop protection under standard field conditions", "Parathion for field crops under standard field conditions"],
     correct: 0, explanation:"Bt (Bacillus thuringiensis var. kurstaki) formulation is recommended as first spray against young bollworm larvae in cotton IPM." },
 
   { id:"d132l_044", subject:"da-132", lecture:"lecture-3", lectureNo:3,
@@ -283,7 +283,7 @@ export const da132LectureQuestions: Question[] = [
 
   { id:"d132l_056", subject:"da-132", lecture:"lecture-4", lectureNo:4,
     question:"Tur pod borer (Exelastis atomosa) is different from Helicoverpa because:",
-    options:["It attacks stems for field crops", "It is larger in pest management", "It is a fly in crop protection", "It is a moth (Lepidoptera, Pterophoridae) – feathery winged moth"],
+    options:["It attacks stems for field crops under standard field conditions", "It is larger in pest management under standard field conditions", "It is a fly in crop protection under standard field conditions", "It is a moth (Lepidoptera, Pterophoridae) – feathery winged moth"],
     correct: 3, explanation:"Tur/pigeon pea pod borer Exelastis atomosa is a plume moth (Pterophoridae) with distinctive feather-like divided wings." },
 
   { id:"d132l_057", subject:"da-132", lecture:"lecture-4", lectureNo:4,
@@ -319,12 +319,12 @@ export const da132LectureQuestions: Question[] = [
 
   { id:"d132l_063", subject:"da-132", lecture:"lecture-5", lectureNo:5,
     question:"Tobacco caterpillar (Spodoptera litura) is a serious pest of:",
-    options:["Tobacco and groundnut (polyphagous)", "Rice only", "Sugarcane only", "Wheat only"],
+    options:["Tobacco and groundnut (polyphagous)", "Rice only under standard field conditions", "Sugarcane only under standard field conditions", "Wheat only under standard field conditions"],
     correct: 0, explanation:"Spodoptera litura is highly polyphagous – it attacks tobacco, groundnut, castor, cotton, soybean and many other crops." },
 
   { id:"d132l_064", subject:"da-132", lecture:"lecture-5", lectureNo:5,
     question:"Thrips (Scirtothrips dorsalis) are important vectors of which groundnut disease?",
-    options:["Rust", "Peanut Bud Necrosis Virus (PBNV)", "Tikka leaf spot", "Collar rot"],
+    options:["Rust under standard field conditions", "Peanut Bud Necrosis Virus (PBNV)", "Tikka leaf spot under standard field conditions", "Collar rot under standard field conditions"],
     correct: 1, explanation:"Thrips (Scirtothrips dorsalis) transmit Peanut Bud Necrosis Virus (PBNV), causing bud necrosis disease in groundnut." },
 
   { id:"d132l_065", subject:"da-132", lecture:"lecture-5", lectureNo:5,
@@ -349,7 +349,7 @@ export const da132LectureQuestions: Question[] = [
 
   { id:"d132l_069", subject:"da-132", lecture:"lecture-5", lectureNo:5,
     question:"Sunflower head borer (Helicoverpa armigera) attack on sunflower leads to:",
-    options:["Leaf curling in pest management", "Leaf damage only in crop protection", "Boring into capitulum/head, causing damaged florets and empty achenes", "Stem rotting for field crops"],
+    options:["Leaf curling in pest management under standard field conditions", "Leaf damage only in crop protection under standard field conditions", "Boring into capitulum/head, causing damaged florets and empty achenes", "Stem rotting for field crops under standard field conditions"],
     correct: 2, explanation:"Helicoverpa larvae bore into sunflower capitulum, feeding on developing florets and seeds, causing significant yield loss." },
 
   { id:"d132l_070", subject:"da-132", lecture:"lecture-5", lectureNo:5,
@@ -375,7 +375,7 @@ export const da132LectureQuestions: Question[] = [
 
   { id:"d132l_074", subject:"da-132", lecture:"lecture-6", lectureNo:6,
     question:"Epilachna beetle (Henosepilachna vigintioctopunctata) is a pest of:",
-    options:["Brinjal and cucurbitaceous vegetables", "Rice", "Cotton", "Groundnut"],
+    options:["Brinjal and cucurbitaceous vegetables", "Rice under standard field conditions", "Cotton under standard field conditions", "Groundnut under standard field conditions"],
     correct: 0, explanation:"Epilachna beetle (hadda beetle) feeds on leaves of brinjal, bitter gourd and other cucurbits. Both larvae and adults are pests." },
 
   { id:"d132l_075", subject:"da-132", lecture:"lecture-6", lectureNo:6,
@@ -385,12 +385,12 @@ export const da132LectureQuestions: Question[] = [
 
   { id:"d132l_076", subject:"da-132", lecture:"lecture-6", lectureNo:6,
     question:"Cucurbit fruit fly (Bactrocera cucurbitae) lays eggs:",
-    options:["In soil in pest management", "On flower petals", "Into developing fruits through oviposition puncture", "On leaves in crop protection"],
+    options:["In soil in pest management under standard field conditions", "On flower petals under standard field conditions", "Into developing fruits through oviposition puncture", "On leaves in crop protection under standard field conditions"],
     correct: 2, explanation:"Female cucurbit fruit fly pierces the skin of developing fruits and lays eggs. Larvae feed inside, causing rotting and premature fruit fall." },
 
   { id:"d132l_077", subject:"da-132", lecture:"lecture-6", lectureNo:6,
     question:"Cue-lure is used in fruit fly management for:",
-    options:["Attracting male Bactrocera cucurbitae (cucurbit fruit fly)", "Repelling flies in pest management", "Attracting female flies in crop protection", "Killing eggs for field crops"],
+    options:["Attracting male Bactrocera cucurbitae (cucurbit fruit fly)", "Repelling flies in pest management under standard field conditions", "Attracting female flies in crop protection", "Killing eggs for field crops under standard field conditions"],
     correct:0, explanation:"Cue-lure (4-(p-Hydroxyphenyl)-2-butanone acetate) attracts male Bactrocera cucurbitae and is used in monitoring and mass trapping." },
 
   { id:"d132l_078", subject:"da-132", lecture:"lecture-6", lectureNo:6,
@@ -400,7 +400,7 @@ export const da132LectureQuestions: Question[] = [
 
   { id:"d132l_079", subject:"da-132", lecture:"lecture-6", lectureNo:6,
     question:"Spiral nematode and root-knot nematode in vegetables are managed by:",
-    options:["Mancozeb spray in pest management", "Copper spray in crop protection", "Carbaryl spray for field crops", "Carbofuran (soil application) + crop rotation with non-hosts"],
+    options:["Mancozeb spray in pest management under standard field conditions", "Copper spray in crop protection under standard field conditions", "Carbaryl spray for field crops under standard field conditions", "Carbofuran (soil application) + crop rotation with non-hosts"],
     correct:3, explanation:"Nematode management includes soil application of carbofuran/phorate, crop rotation with resistant/non-host crops, summer ploughing." },
 
   { id:"d132l_080", subject:"da-132", lecture:"lecture-6", lectureNo:6,
@@ -416,7 +416,7 @@ export const da132LectureQuestions: Question[] = [
 
   { id:"d132l_082", subject:"da-132", lecture:"lecture-7", lectureNo:7,
     question:"Lesser grain borer (Rhyzopertha dominica) attacks which type of stored grain?",
-    options:["Only rice", "Only maize", "Wheat and other cereals primarily", "Only pulses"],
+    options:["Only rice under standard field conditions", "Only maize under standard field conditions", "Wheat and other cereals primarily", "Only pulses under standard field conditions"],
     correct: 2, explanation:"Rhyzopertha dominica (Coleoptera: Bostrichidae) primarily attacks hard-grained cereals like wheat. Both adults and larvae damage grain." },
 
   { id:"d132l_083", subject:"da-132", lecture:"lecture-7", lectureNo:7,
@@ -441,7 +441,7 @@ export const da132LectureQuestions: Question[] = [
 
   { id:"d132l_087", subject:"da-132", lecture:"lecture-7", lectureNo:7,
     question:"The flat grain beetle (Oryzaephilus surinamensis) is a:",
-    options:["Fungal feeder in pest management", "Primary pest in crop protection", "Neither pest for field crops", "Secondary (feeds on grain damaged by primary pests)"],
+    options:["Fungal feeder in pest management under standard field conditions", "Primary pest in crop protection under standard field conditions", "Neither pest for field crops under standard field conditions", "Secondary (feeds on grain damaged by primary pests)"],
     correct:3, explanation:"Saw-toothed grain beetle is a secondary pest that invades grain already damaged by primary pests or fungal growth." },
 
   { id:"d132l_088", subject:"da-132", lecture:"lecture-7", lectureNo:7,
@@ -462,12 +462,12 @@ export const da132LectureQuestions: Question[] = [
   // ── LECTURE 8: Mites & Nematodes ─────────────────────────────────────────
   { id:"d132l_091", subject:"da-132", lecture:"lecture-8", lectureNo:8,
     question:"Red spider mite (Tetranychus urticae) causes damage to crops by:",
-    options:["Feeding on leaf undersurface causing stippling, bronzing and webbing", "Damaging roots in crop protection", "Boring into stems for field crops", "Sucking phloem in pest management"],
+    options:["Feeding on leaf undersurface causing stippling, bronzing and webbing", "Damaging roots in crop protection under standard field conditions", "Boring into stems for field crops under standard field conditions", "Sucking phloem in pest management under standard field conditions"],
     correct: 0, explanation:"Red spider mites feed on the undersurface of leaves, causing silver stippling, bronzing and fine webbing. Severe attacks cause leaf drop." },
 
   { id:"d132l_092", subject:"da-132", lecture:"lecture-8", lectureNo:8,
     question:"Mites are controlled by:",
-    options:["Bt formulations in crop protection", "NPV in pest management", "Acaricides (miticides) like dicofol, spiromesifen, abamectin", "Conventional insecticides for field crops"],
+    options:["Bt formulations in crop protection under standard field conditions", "NPV in pest management under standard field conditions", "Acaricides (miticides) like dicofol, spiromesifen, abamectin", "Conventional insecticides for field crops under standard field conditions"],
     correct: 2, explanation:"Mites are controlled by specific acaricides (miticides) like dicofol, propargite, abamectin, spiromesifen. Most conventional insecticides are ineffective." },
 
   { id:"d132l_093", subject:"da-132", lecture:"lecture-8", lectureNo:8,
@@ -482,7 +482,7 @@ export const da132LectureQuestions: Question[] = [
 
   { id:"d132l_095", subject:"da-132", lecture:"lecture-8", lectureNo:8,
     question:"Yellow mite (Polyphagotarsonemus latus) is a serious pest of:",
-    options:["Rice in pest management", "Chilli, paprika and other solanaceous crops", "Maize in crop protection", "Wheat for field crops"],
+    options:["Rice in pest management under standard field conditions", "Chilli, paprika and other solanaceous crops", "Maize in crop protection under standard field conditions", "Wheat for field crops under standard field conditions"],
     correct:1, explanation:"Yellow mite (broad mite) attacks chilli, paprika, cotton and other crops. It causes leaf deformation, curling and distortion of growing points." },
 
   { id:"d132l_096", subject:"da-132", lecture:"lecture-8", lectureNo:8,
@@ -492,7 +492,7 @@ export const da132LectureQuestions: Question[] = [
 
   { id:"d132l_097", subject:"da-132", lecture:"lecture-8", lectureNo:8,
     question:"The spiral nematode (Helicotylenchus) differs from root-knot nematode because it is:",
-    options:["A beneficial organism", "A sedentary endoparasite", "A migratory ectoparasite/semi-endoparasite", "Larger in size"],
+    options:["A beneficial organism under standard field conditions", "A sedentary endoparasite under standard field conditions", "A migratory ectoparasite/semi-endoparasite", "Larger in size under standard field conditions"],
     correct:2, explanation:"Spiral nematodes are migratory – they move through soil and feed on roots from outside or partially enter. Root-knot nematodes are sedentary endoparasites." },
 
   { id:"d132l_098", subject:"da-132", lecture:"lecture-8", lectureNo:8,
@@ -502,23 +502,23 @@ export const da132LectureQuestions: Question[] = [
 
   { id:"d132l_099", subject:"da-132", lecture:"lecture-8", lectureNo:8,
     question:"Carbofuran 3G (soil application) is used to manage:",
-    options:["Leaf miners", "Root-knot nematodes and soil insects", "Stored grain pests", "Aphids"],
+    options:["Leaf miners under standard field conditions", "Root-knot nematodes and soil insects", "Stored grain pests under standard field conditions", "Aphids under standard field conditions"],
     correct:1, explanation:"Carbofuran 3G applied at 33 kg/ha controls root-knot nematodes and soil-borne insects like white grub and rootworms." },
 
   { id:"d132l_100", subject:"da-132", lecture:"lecture-8", lectureNo:8,
     question:"Eriophyid mite (Aceria cajani) causes which symptom in pigeonpea?",
-    options:["Leaf mining in pest management", "Sterility mosaic disease (transmitted by the mite)", "Pod boring in crop protection", "Root galls for field crops"],
+    options:["Leaf mining in pest management under standard field conditions", "Sterility mosaic disease (transmitted by the mite)", "Pod boring in crop protection under standard field conditions", "Root galls for field crops under standard field conditions"],
     correct: 1, explanation:"Eriophyid mite (Aceria cajani) transmits Pigeonpea Sterility Mosaic Virus (PPSMV), causing sterility mosaic disease." },
 
   // ── LECTURE 9: Biological Control ────────────────────────────────────────
   { id:"d132l_101", subject:"da-132", lecture:"lecture-9", lectureNo:9,
     question:"Trichogramma chilonis is used as a biocontrol agent of:",
-    options:["Mites in pest management", "Eggs of Lepidoptera pests (stem borer, bollworm)", "Nematodes for field crops", "Aphids in crop protection"],
+    options:["Mites in pest management under standard field conditions", "Eggs of Lepidoptera pests (stem borer, bollworm)", "Nematodes for field crops under standard field conditions", "Aphids in crop protection under standard field conditions"],
     correct: 1, explanation:"Trichogramma chilonis is a tiny egg parasitoid wasp used to control eggs of Lepidopteran pests like stem borer, bollworm." },
 
   { id:"d132l_102", subject:"da-132", lecture:"lecture-9", lectureNo:9,
     question:"Chrysoperla carnea (green lacewing) larva feeds on:",
-    options:["Soil fungi in pest management", "Plant roots in crop protection", "Soft-bodied insects like aphids, mites, whiteflies, thrips", "Grain in storage for field crops"],
+    options:["Soil fungi in pest management under standard field conditions", "Plant roots in crop protection under standard field conditions", "Soft-bodied insects like aphids, mites, whiteflies, thrips", "Grain in storage for field crops under standard field conditions"],
     correct: 2, explanation:"Chrysoperla carnea larva is a voracious predator of soft-bodied insects – aphids, mites, whitefly nymphs, thrips, small caterpillars." },
 
   { id:"d132l_103", subject:"da-132", lecture:"lecture-9", lectureNo:9,
@@ -543,12 +543,12 @@ export const da132LectureQuestions: Question[] = [
 
   { id:"d132l_107", subject:"da-132", lecture:"lecture-9", lectureNo:9,
     question:"Cotesia flavipes released @ 50,000/ha controls which pest?",
-    options:["Cotton bollworm in pest management", "Fall armyworm in crop protection", "Rice stem borer", "Sugarcane internode borer (Chilo sacchariphagus indicus)"],
+    options:["Cotton bollworm in pest management under standard field conditions", "Fall armyworm in crop protection under standard field conditions", "Rice stem borer as recommended by ICAR guidelines", "Sugarcane internode borer (Chilo sacchariphagus indicus)"],
     correct:3, explanation:"Cotesia flavipes (braconid wasp) is a larval parasitoid of sugarcane internode borer. Mass release @ 50,000 parasitoids/ha is recommended." },
 
   { id:"d132l_108", subject:"da-132", lecture:"lecture-9", lectureNo:9,
     question:"Which of the following is a predatory beetle used in biological control?",
-    options:["Sitophilus oryzae", "Coccinella septempunctata (seven-spotted ladybird)", "Callosobruchus chinensis", "Helicoverpa armigera"],
+    options:["Sitophilus oryzae under standard field conditions", "Coccinella septempunctata (seven-spotted ladybird)", "Callosobruchus chinensis under standard field conditions", "Helicoverpa armigera under standard field conditions"],
     correct:1, explanation:"Coccinella septempunctata (seven-spotted ladybird beetle) is a predator of aphids. Both adults and larvae consume large numbers of aphids." },
 
   { id:"d132l_109", subject:"da-132", lecture:"lecture-9", lectureNo:9,
@@ -564,7 +564,7 @@ export const da132LectureQuestions: Question[] = [
   // ── LECTURE 10: IPM Principles & Pesticide Safety ─────────────────────────
   { id:"d132l_111", subject:"da-132", lecture:"lecture-10", lectureNo:10,
     question:"MRL (Maximum Residue Limit) in food means:",
-    options:["Maximum yield of a crop in pest management", "Minimum required level of pesticide in crop protection", "Maximum quantity of pesticide allowed in food legally safe for consumption", "Maximum legal pesticide application for field crops"],
+    options:["Maximum yield of a crop in pest management under standard field conditions", "Minimum required level of pesticide in crop protection under standard field conditions", "Maximum quantity of pesticide allowed in food legally safe for consumption", "Maximum legal pesticide application for field crops under standard field conditions"],
     correct: 2, explanation:"MRL is the highest legally permissible concentration of pesticide residue in food/feed, set to ensure consumer safety." },
 
   { id:"d132l_112", subject:"da-132", lecture:"lecture-10", lectureNo:10,
@@ -584,7 +584,7 @@ export const da132LectureQuestions: Question[] = [
 
   { id:"d132l_115", subject:"da-132", lecture:"lecture-10", lectureNo:10,
     question:"Empty pesticide containers should be:",
-    options:["Reused for storing food or water", "Burned in open field", "Left in fields", "Triple-rinsed and punctured/crushed before proper disposal"],
+    options:["Reused for storing food or water under standard field conditions", "Burned in open field under standard field conditions", "Left in fields in irrigated crop production systems", "Triple-rinsed and punctured/crushed before proper disposal"],
     correct:3, explanation:"Empty pesticide containers must be triple-rinsed (rinse water added to spray tank), punctured/crushed to prevent reuse, then disposed of safely." },
 
   { id:"d132l_116", subject:"da-132", lecture:"lecture-10", lectureNo:10,
@@ -594,12 +594,12 @@ export const da132LectureQuestions: Question[] = [
 
   { id:"d132l_117", subject:"da-132", lecture:"lecture-10", lectureNo:10,
     question:"Farmer Field School (FFS) is an extension method used to teach:",
-    options:["Soil testing in pest management", "IPM principles through field observation and group learning", "Modern marketing in crop protection", "Post-harvest management for field crops"],
+    options:["Soil testing in pest management under standard field conditions", "IPM principles through field observation and group learning", "Modern marketing in crop protection under standard field conditions", "Post-harvest management for field crops under standard field conditions"],
     correct: 1, explanation:"FFS (Farmer Field School) groups farmers to observe crop-pest-natural enemy interactions weekly, promoting IPM-based decisions." },
 
   { id:"d132l_118", subject:"da-132", lecture:"lecture-10", lectureNo:10,
     question:"Personal Protective Equipment (PPE) during pesticide application must include:",
-    options:["Rubber gloves only in pest management", "Gloves, mask/respirator, full-body coverall, goggles, rubber boots", "Any clothing for field crops", "Hat only in crop protection"],
+    options:["Rubber gloves only in pest management under standard field conditions", "Gloves, mask/respirator, full-body coverall, goggles, rubber boots", "Any clothing for field crops under standard field conditions", "Hat only in crop protection under standard field conditions"],
     correct: 1, explanation:"Full PPE includes chemical-resistant gloves, face mask/respirator, full-body coverall, safety goggles and rubber boots." },
 
   { id:"d132l_119", subject:"da-132", lecture:"lecture-10", lectureNo:10,
@@ -609,7 +609,7 @@ export const da132LectureQuestions: Question[] = [
 
   { id:"d132l_120", subject:"da-132", lecture:"lecture-10", lectureNo:10,
     question:"Resistance management in pest control involves:",
-    options:["Avoiding all pesticides in pest management", "Rotating pesticides of different modes of action to delay resistance development", "Using higher doses of the same pesticide", "Using the same pesticide every season in crop protection"],
+    options:["Avoiding all pesticides in pest management under standard field conditions", "Rotating pesticides of different modes of action to delay resistance development", "Using higher doses of the same pesticide under standard field conditions", "Using the same pesticide every season in crop protection under standard field conditions"],
     correct:1, explanation:"Resistance management involves rotating insecticide groups with different modes of action, using mixtures, and combining with non-chemical methods." },
 
   // ── BATCH 2: Additional 100 questions from PJTSAU DA-132 Theory Notes ──
@@ -1319,7 +1319,7 @@ export const da132LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Assertion (A): Rice stem borer is difficult to control with insecticides.\nReason (R): Its monophagous nature and peculiar boring habits inside the stem make chemical control difficult.",
-    options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
+    options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false under standard field conditions", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true under standard field conditions"],
     correct: 0,
     explanation: "As per DA-132 notes: Monophagous nature and peculiar boring habits of yellow stem borer make control with insecticides difficult."
   },
@@ -1329,7 +1329,7 @@ export const da132LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Assertion (A): Rice gall midge mainly infests kharif crop.\nReason (R): It is a major pest in Telangana and North Coastal Andhra Pradesh, endemic mainly to kharif season.",
-    options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
+    options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false under standard field conditions", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true under standard field conditions"],
     correct: 0,
     explanation: "As per DA-132 notes: Rice gall midge is endemic and distributed in most parts of India, a major pest in Telangana, North Coastal AP and mainly a pest of kharif."
   },
@@ -1339,7 +1339,7 @@ export const da132LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Assertion (A): Seedling root-dip with chlorpyriphos 0.02% provides protection against multiple pests.\nReason (R): The treatment is effective for 30 days against stem borer, gall midge, BPH and GLH.",
-    options: ["A is true but R is false", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
+    options: ["A is true but R is false under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true under standard field conditions"],
     correct: 1,
     explanation: "As per DA-132 notes: Seedling root-dip is effective for 30 days in the main field against stem borer, gall midge, BPH and GLH."
   },
@@ -1349,7 +1349,7 @@ export const da132LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Assertion (A): Brown Plant Hopper causes affected rice stems to turn soft and unfit for straw use.\nReason (R): BPH sucks sap from basal portion injecting toxic saliva causing hopper burn.",
-    options: ["A is false but R is true", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
+    options: ["A is false but R is true under standard field conditions", "A is true but R is false under standard field conditions", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-132 notes: BPH - affected stems turn soft and are unfit for use as straw; they inject toxic saliva causing hopper burn."
   },
@@ -1359,7 +1359,7 @@ export const da132LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Assertion (A): Green Leafhopper (N.virescens) causes more damage to rice than N.nigropictus.\nReason (R): N.virescens transmits multiple virus diseases including rice tungro.",
-    options: ["A is true but R is false", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
+    options: ["A is true but R is false under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true under standard field conditions"],
     correct: 1,
     explanation: "As per DA-132 notes: N.virescens causes more damage to rice than N.nigropictus and transmits rice tungro, rice transitory yellowing and rice yellow dwarf."
   },
@@ -1369,7 +1369,7 @@ export const da132LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Assertion (A): Rice leaf folder larva folds leaves longitudinally forming tubes.\nReason (R): The larva lives in tubes formed by folding leaf margins with silken threads and feeds on chlorophyll within.",
-    options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
+    options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false under standard field conditions", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true under standard field conditions"],
     correct: 0,
     explanation: "As per DA-132 notes: Rice leaf folder - folds leaf longitudinally bringing together margins with silken threads, feeds on chlorophyll from within."
   },
@@ -1379,7 +1379,7 @@ export const da132LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Assertion (A): Sorghum shootfly dead heart has an offensive smell.\nReason (R): The maggot destroys the growing point which begins to decay, and the maggot feeds on rotting matter.",
-    options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
+    options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false under standard field conditions", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true under standard field conditions"],
     correct: 0,
     explanation: "As per DA-132 notes: Shootfly - central succulent core begins to decay, maggot feeds on rotting matter; dead heart gives offensive smell at cut end."
   },
@@ -1389,7 +1389,7 @@ export const da132LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Assertion (A): Red Hairy Caterpillar is more serious in red soils.\nReason (R): Red soils provide suitable pupation conditions for this pest.",
-    options: ["A is false but R is true", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
+    options: ["A is false but R is true under standard field conditions", "A is true but R is false under standard field conditions", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-132 notes: Red soils are more suitable for Red Hairy Caterpillar. The red soil pupation connection makes both statements true."
   },
@@ -1399,7 +1399,7 @@ export const da132LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Assertion (A): Sorghum midge attacks earheads during flowering.\nReason (R): Maggots feed on ovaries and destroy developing grains causing chaffy grains.",
-    options: ["A is false but R is true", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
+    options: ["A is false but R is true under standard field conditions", "A is true but R is false under standard field conditions", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-132 notes: Sorghum midge maggots feed on ovaries and destroy developing grains causing flattening of florets and chaffy grains."
   },
@@ -1409,7 +1409,7 @@ export const da132LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Assertion (A): Trichogramma egg parasitoids are released inundatively in rice IPM.\nReason (R): They parasitise eggs of rice stem borer and leaf folder reducing larval population.",
-    options: ["A is true but R is false", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
+    options: ["A is true but R is false under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true under standard field conditions"],
     correct: 1,
     explanation: "As per DA-132 notes: Inundative release of Trichogramma egg parasitoids @ 20,000/ac three times within 30-45 DAT in rice IPM."
   },
@@ -1419,7 +1419,7 @@ export const da132LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Assertion (A): Rice Hispa grubs cause blister spots towards leaf tip.\nReason (R): Grubs feed on leaf tissue inside the leaf mine causing blister spots.",
-    options: ["Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "Both A and R are true and R is the correct explanation of A", "A is false but R is true"],
+    options: ["Both A and R are true but R is not the correct explanation of A", "A is true but R is false under standard field conditions", "Both A and R are true and R is the correct explanation of A", "A is false but R is true under standard field conditions"],
     correct: 2,
     explanation: "As per DA-132 notes: Rice Hispa - grubs feed on leaf tissue inside the leaf mine causing blister spots towards leaf tip."
   },
@@ -1429,7 +1429,7 @@ export const da132LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Assertion (A): Uniform date of sowing is recommended for sorghum midge management.\nReason (R): This makes varieties flower at the same time preventing continuous availability of host for the midge.",
-    options: ["Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "Both A and R are true and R is the correct explanation of A", "A is false but R is true"],
+    options: ["Both A and R are true but R is not the correct explanation of A", "A is true but R is false under standard field conditions", "Both A and R are true and R is the correct explanation of A", "A is false but R is true under standard field conditions"],
     correct: 2,
     explanation: "As per DA-132 notes: Adoption of uniform date of sowing to make varieties flower at same time for sorghum midge management."
   },
@@ -1439,7 +1439,7 @@ export const da132LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Assertion (A): Gall midge infestation leads to vigorous subsidiary tillering in early growth period.\nReason (R): Infested tillers do not bear panicles and the plant compensates by producing more tillers.",
-    options: ["Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "Both A and R are true and R is the correct explanation of A", "A is false but R is true"],
+    options: ["Both A and R are true but R is not the correct explanation of A", "A is true but R is false under standard field conditions", "Both A and R are true and R is the correct explanation of A", "A is false but R is true under standard field conditions"],
     correct: 2,
     explanation: "As per DA-132 notes: Gall midge - vigorous subsidiary tillering if infested in early growth period; infested tillers do not bear panicles."
   },
@@ -1449,7 +1449,7 @@ export const da132LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Assertion (A): Sheath mite causes sterile and discoloured grains in the panicle.\nReason (R): At panicle emergence, mites enter florets and feed on ovaries and stamens causing grain sterility.",
-    options: ["A is true but R is false", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
+    options: ["A is true but R is false under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true under standard field conditions"],
     correct: 1,
     explanation: "As per DA-132 notes: At panicle emergence, sheath mites enter florets, feed on ovaries and stamens causing sterile and discoloured grains."
   },
@@ -1459,7 +1459,7 @@ export const da132LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Assertion (A): Cowpea and castor are used as trap crops for red hairy caterpillar.\nReason (R): These crops are preferred hosts that attract the pest away from the main crop.",
-    options: ["Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "Both A and R are true and R is the correct explanation of A", "A is false but R is true"],
+    options: ["Both A and R are true but R is not the correct explanation of A", "A is true but R is false under standard field conditions", "Both A and R are true and R is the correct explanation of A", "A is false but R is true under standard field conditions"],
     correct: 2,
     explanation: "As per DA-132 notes: Growing cowpea or castor as trap crops for red hairy caterpillar management."
   },
