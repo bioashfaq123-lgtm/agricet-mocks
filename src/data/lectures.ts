@@ -263,6 +263,11 @@ export const DA291_LECTURES: Lecture[] = [
   lec("da-291", 8, "Government Schemes for Farmers", "PM-KISAN, PMFBY, Rythu Bandhu, Rythu Bima, e-NAM, soil health card"),
   lec("da-291", 9, "Rural Credit & Cooperative Movement", "PACS, cooperative banks, NABARD, RRB, self-help groups, microfinance"),
   lec("da-291", 10, "National Development Programmes", "MGNREGS, PMGSY, NHM, RKVY, ATMA, Green Revolution to Evergreen Revolution"),
+  lec("da-291", 11, "Agricultural Information Materials", "Extension publications, leaflets, bulletins, posters, flip charts, audio-visual aids"),
+  lec("da-291", 12, "Programme Planning & Development", "Extension programme planning steps, felt needs, PRA, participatory approaches"),
+  lec("da-291", 13, "Community Development", "Community development programme, CD blocks, community mobilization, social capital"),
+  lec("da-291", 14, "Developmental Programmes", "IRDP, TRYSEM, DWCRA, Swarnajayanti Gram Swarozgar Yojana, DAY-NRLM"),
+  lec("da-291", 15, "Panchayati Raj System", "Three-tier structure, 73rd Amendment, functions of Gram Panchayat, ward sabha"),
 ];
 
 // ── DA-262: Computer Applications ───────────────────────────────────────────

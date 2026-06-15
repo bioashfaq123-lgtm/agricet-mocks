@@ -1,9 +1,9 @@
-// ===== FILE: da-291-lectures.ts =====
+﻿// ===== FILE: da-291-lectures.ts =====
 import { Question } from "@/types";
 
 export const da291LectureQuestions: Question[] = [
 
-  // ── Lecture 1: Introduction to Extension Education ────────────────────────
+  // â”€â”€ Lecture 1: Introduction to Extension Education â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
   {
     id: "d291l_001",
     subject: "da-291",
@@ -22,7 +22,7 @@ export const da291LectureQuestions: Question[] = [
     question: "The word 'Extension' in agricultural context was first used in which country?",
     options: ["Canada", "United States of America", "United Kingdom (England)", "India"],
     correct: 2,
-    explanation: "The term 'Extension' in an agricultural education context was first used in England in 1866–67 for university extension programmes run by Cambridge and Oxford universities for rural communities."
+    explanation: "The term 'Extension' in an agricultural education context was first used in England in 1866â€“67 for university extension programmes run by Cambridge and Oxford universities for rural communities."
   },
   {
     id: "d291l_003",
@@ -165,7 +165,7 @@ export const da291LectureQuestions: Question[] = [
     explanation: "Sustainable development (Brundtland Commission 1987 definition) means development that meets the needs of present generations without compromising future generations' ability to meet their own needs."
   },
 
-  // ── Lecture 2: Individual Extension Methods ────────────────────────────────
+  // â”€â”€ Lecture 2: Individual Extension Methods â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
   {
     id: "d291l_017",
     subject: "da-291",
@@ -224,7 +224,7 @@ export const da291LectureQuestions: Question[] = [
     question: "The main limitation of individual extension methods (farm visits, office calls) is:",
     options: ["Farmers cannot ask questions or interact in extension education", "They are very cheap and unlimited in scale under this extension approach", "They are very effective for technology transfer in rural development programmes", "They can reach only a limited number of farmers at one time"],
     correct: 3,
-    explanation: "The main limitation of individual methods is low reach – only one or a few farmers can be reached at one time. Extension workers with large jurisdictions cannot visit all farmers regularly."
+    explanation: "The main limitation of individual methods is low reach â€“ only one or a few farmers can be reached at one time. Extension workers with large jurisdictions cannot visit all farmers regularly."
   },
   {
     id: "d291l_023",
@@ -264,7 +264,7 @@ export const da291LectureQuestions: Question[] = [
     question: "A 'Contact Farmer' in the T&V extension system is:",
     options: ["A progressive farmer who receives information and passes it to neighbors", "A farmer who contacts scientists directly in rural development programmes", "A government agricultural department employee in extension education", "The extension officer at district level under this extension approach"],
     correct: 0,
-    explanation: "In the T&V system, contact farmers (progressive farmers) receive fortnightly training from VEW (Village Extension Worker) and are expected to share this information with 8–10 neighboring farmers."
+    explanation: "In the T&V system, contact farmers (progressive farmers) receive fortnightly training from VEW (Village Extension Worker) and are expected to share this information with 8â€“10 neighboring farmers."
   },
   {
     id: "d291l_027",
@@ -272,9 +272,9 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "The number of farm families normally assigned to one Village Extension Worker (VEW) under T&V system is:",
-    options: ["600–800 farmers", "Above 5000 farmers", "50–100 farmers", "1000–2000 farmers"],
+    options: ["600â€“800 farmers", "Above 5000 farmers", "50â€“100 farmers", "1000â€“2000 farmers"],
     correct: 0,
-    explanation: "Under the T&V system, each VEW (Village Extension Worker) is responsible for 600–800 farm families in approximately 8–10 villages, visiting them on a fixed fortnightly schedule."
+    explanation: "Under the T&V system, each VEW (Village Extension Worker) is responsible for 600â€“800 farm families in approximately 8â€“10 villages, visiting them on a fixed fortnightly schedule."
   },
   {
     id: "d291l_028",
@@ -292,9 +292,9 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "In a result demonstration, the size of the demonstration plot is typically:",
-    options: ["5–10 ha", "0.2–0.4 ha (0.5–1 acre)", "10–20 ha", "0.01 ha (100 sq m)"],
+    options: ["5â€“10 ha", "0.2â€“0.4 ha (0.5â€“1 acre)", "10â€“20 ha", "0.01 ha (100 sq m)"],
     correct: 1,
-    explanation: "Result demonstrations are typically conducted on 0.2–0.4 ha (0.5–1 acre) plots under actual farm conditions to show realistic results that neighboring farmers can relate to."
+    explanation: "Result demonstrations are typically conducted on 0.2â€“0.4 ha (0.5â€“1 acre) plots under actual farm conditions to show realistic results that neighboring farmers can relate to."
   },
   {
     id: "d291l_030",
@@ -327,7 +327,7 @@ export const da291LectureQuestions: Question[] = [
     explanation: "During pest or disease emergencies, immediate individual contact (farm visit or telephone) provides timely, specific and actionable advice to the affected farmer."
   },
 
-  // ── Lecture 3: Group & Mass Media Methods ─────────────────────────────────
+  // â”€â”€ Lecture 3: Group & Mass Media Methods â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
   {
     id: "d291l_033",
     subject: "da-291",
@@ -346,7 +346,7 @@ export const da291LectureQuestions: Question[] = [
     question: "Which government television channel in India is exclusively dedicated to agriculture?",
     options: ["DD Sports", "DD News", "Doordarshan Kisan (DD Kisan)", "DD National"],
     correct: 2,
-    explanation: "DD Kisan (Doordarshan Kisan) is a 24×7 satellite TV channel launched in 2015 exclusively for farmers, providing agricultural information, crop advice, market prices and weather forecasts."
+    explanation: "DD Kisan (Doordarshan Kisan) is a 24Ã—7 satellite TV channel launched in 2015 exclusively for farmers, providing agricultural information, crop advice, market prices and weather forecasts."
   },
   {
     id: "d291l_035",
@@ -433,10 +433,10 @@ export const da291LectureQuestions: Question[] = [
     subject: "da-291",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "The Kisan Call Centre (KCC – 1800-180-1551) was established to:",
+    question: "The Kisan Call Centre (KCC â€“ 1800-180-1551) was established to:",
     options: ["Provide free agricultural advisory to farmers through toll-free helpline", "Market agricultural produce online in extension education", "Recruit agricultural extension workers in rural development programmes", "Provide farm credit over phone under this extension approach"],
     correct: 0,
-    explanation: "Kisan Call Centre (KCC) – toll-free number 1800-180-1551 – provides free, immediate agricultural advisory in local languages to farmers who call with queries on crop production, disease, marketing etc."
+    explanation: "Kisan Call Centre (KCC) â€“ toll-free number 1800-180-1551 â€“ provides free, immediate agricultural advisory in local languages to farmers who call with queries on crop production, disease, marketing etc."
   },
   {
     id: "d291l_044",
@@ -489,7 +489,7 @@ export const da291LectureQuestions: Question[] = [
     explanation: "Agri Clinics and Agri Business Centres (ACABC) scheme promotes agripreneurship by supporting agriculture graduates to set up private extension clinics providing fee-based advisory and input services to farmers."
   },
 
-  // ── Lecture 4: Technology Transfer ────────────────────────────────────────
+  // â”€â”€ Lecture 4: Technology Transfer â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
   {
     id: "d291l_049",
     subject: "da-291",
@@ -516,9 +516,9 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "The 5 stages of the Adoption-Diffusion Process (Rogers, 1962) are in the correct order:",
-    options: ["Awareness → Trial → Interest → Evaluation → Adoption", "Evaluation → Awareness → Interest → Trial → Adoption", "Interest → Awareness → Trial → Evaluation → Adoption", "Awareness → Interest → Evaluation → Trial → Adoption"],
+    options: ["Awareness â†’ Trial â†’ Interest â†’ Evaluation â†’ Adoption", "Evaluation â†’ Awareness â†’ Interest â†’ Trial â†’ Adoption", "Interest â†’ Awareness â†’ Trial â†’ Evaluation â†’ Adoption", "Awareness â†’ Interest â†’ Evaluation â†’ Trial â†’ Adoption"],
     correct: 3,
-    explanation: "Rogers' adoption process: Awareness (first hears about it) → Interest (wants to know more) → Evaluation (mentally tries it) → Trial (small-scale trial) → Adoption (full-scale adoption)."
+    explanation: "Rogers' adoption process: Awareness (first hears about it) â†’ Interest (wants to know more) â†’ Evaluation (mentally tries it) â†’ Trial (small-scale trial) â†’ Adoption (full-scale adoption)."
   },
   {
     id: "d291l_052",
@@ -556,9 +556,9 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "The technology transfer chain from research to farmers is typically:",
-    options: ["Farmer → KVK → SAU → ICAR (reversed)", "ICAR → SAU → KVK → Extension Department → Farmer", "International organizations → Government → Farmers in rural development programmes", "ICAR directly to farmers only in extension education"],
+    options: ["Farmer â†’ KVK â†’ SAU â†’ ICAR (reversed)", "ICAR â†’ SAU â†’ KVK â†’ Extension Department â†’ Farmer", "International organizations â†’ Government â†’ Farmers in rural development programmes", "ICAR directly to farmers only in extension education"],
     correct: 1,
-    explanation: "The technology transfer chain: ICAR (national research) → SAU (state research adaptation) → KVK (location testing and FLD) → State Extension Department (mass dissemination) → Farmer (adoption)."
+    explanation: "The technology transfer chain: ICAR (national research) â†’ SAU (state research adaptation) â†’ KVK (location testing and FLD) â†’ State Extension Department (mass dissemination) â†’ Farmer (adoption)."
   },
   {
     id: "d291l_056",
@@ -648,10 +648,10 @@ export const da291LectureQuestions: Question[] = [
     question: "Which Indian programme linked village adoption of new agricultural technology with the 'package of practices'?",
     options: ["T&V System", "Community Development Programme", "National Extension Service 1953", "Intensive Agricultural District Programme (IADP)"],
     correct: 3,
-    explanation: "The Intensive Agricultural District Programme (IADP – 1961) was the first concentrated attempt to introduce a 'package of improved practices' to selected progressive districts for rapid technology adoption."
+    explanation: "The Intensive Agricultural District Programme (IADP â€“ 1961) was the first concentrated attempt to introduce a 'package of improved practices' to selected progressive districts for rapid technology adoption."
   },
 
-  // ── Lecture 5: Rural Sociology ─────────────────────────────────────────────
+  // â”€â”€ Lecture 5: Rural Sociology â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
   {
     id: "d291l_065",
     subject: "da-291",
@@ -730,7 +730,7 @@ export const da291LectureQuestions: Question[] = [
     question: "The 'Dominant Caste' concept in Indian village was given by sociologist:",
     options: ["B.R. Ambedkar", "Karl Marx", "Emile Durkheim", "M.N. Srinivas"],
     correct: 3,
-    explanation: "M.N. Srinivas introduced the concept of 'Dominant Caste' – a caste that is numerically large, owns most agricultural land and exercises power in the village despite not being at the top of ritual hierarchy."
+    explanation: "M.N. Srinivas introduced the concept of 'Dominant Caste' â€“ a caste that is numerically large, owns most agricultural land and exercises power in the village despite not being at the top of ritual hierarchy."
   },
   {
     id: "d291l_073",
@@ -813,7 +813,7 @@ export const da291LectureQuestions: Question[] = [
     explanation: "MKSP (Mahila Kisan Sashaktikaran Pariyojana) under DAY-NRLM and dedicated women extension workers, SHG-based extension and training programmes have improved women's participation in agricultural extension."
   },
 
-  // ── Lecture 6: Panchayati Raj System ──────────────────────────────────────
+  // â”€â”€ Lecture 6: Panchayati Raj System â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
   {
     id: "d291l_081",
     subject: "da-291",
@@ -832,7 +832,7 @@ export const da291LectureQuestions: Question[] = [
     question: "Gram Sabha, the base of Panchayati Raj, consists of:",
     options: ["Only tax-paying residents of the gram panchayat area in extension education", "All adult males in the village only in rural development programmes", "All voters (adults) registered in the electoral rolls of the village/gram panchayat", "All elected members of Gram Panchayat only under this extension approach"],
     correct: 2,
-    explanation: "Gram Sabha consists of all persons registered in the electoral rolls of the Gram Panchayat area (all adult voters – male and female). It is the primary forum of direct democracy at village level."
+    explanation: "Gram Sabha consists of all persons registered in the electoral rolls of the Gram Panchayat area (all adult voters â€“ male and female). It is the primary forum of direct democracy at village level."
   },
   {
     id: "d291l_083",
@@ -975,7 +975,7 @@ export const da291LectureQuestions: Question[] = [
     explanation: "National Panchayati Raj Day (Rashtriya Panchayati Raj Diwas) is celebrated on April 24 every year, commemorating the day the 73rd Constitutional Amendment Act came into force in 1993."
   },
 
-  // ── Lecture 7: Farmer Training & FPOs ─────────────────────────────────────
+  // â”€â”€ Lecture 7: Farmer Training & FPOs â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
   {
     id: "d291l_097",
     subject: "da-291",
@@ -1002,9 +1002,9 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "KVK training programmes are classified as:",
-    options: ["Short-term (1–5 days), medium-term (2–4 weeks) and long-term (3–6 months) training", "Only on-farm demonstration training in rural development programmes", "Only in-house training at KVK in extension education", "Only online e-learning under this extension approach"],
+    options: ["Short-term (1â€“5 days), medium-term (2â€“4 weeks) and long-term (3â€“6 months) training", "Only on-farm demonstration training in rural development programmes", "Only in-house training at KVK in extension education", "Only online e-learning under this extension approach"],
     correct: 0,
-    explanation: "KVK training programmes include short-term (1–5 days for awareness/skill), medium-term (2–4 weeks) and long-term (3–6 months vocational) training for farmers, farm women, youth and extension workers."
+    explanation: "KVK training programmes include short-term (1â€“5 days for awareness/skill), medium-term (2â€“4 weeks) and long-term (3â€“6 months vocational) training for farmers, farm women, youth and extension workers."
   },
   {
     id: "d291l_100",
@@ -1014,7 +1014,7 @@ export const da291LectureQuestions: Question[] = [
     question: "Farmer clubs (Krishak Clubs) are linked to NABARD and are established to:",
     options: ["Manage government procurement in extension education in agriculture", "Promote collective farming, peer learning and help link farmers to rural development agencies", "Produce seed for distribution in rural development programmes under field conditions", "Provide banking services to farmers under this extension approach"],
     correct: 1,
-    explanation: "NABARD-supported Farmer Clubs (Krishak Clubs) are informal groups of 10–20 farmers promoted to facilitate collective learning, peer exchange, technology adoption and linkage with banks and government programmes."
+    explanation: "NABARD-supported Farmer Clubs (Krishak Clubs) are informal groups of 10â€“20 farmers promoted to facilitate collective learning, peer exchange, technology adoption and linkage with banks and government programmes."
   },
   {
     id: "d291l_101",
@@ -1094,7 +1094,7 @@ export const da291LectureQuestions: Question[] = [
     question: "Farmer Field School (FFS) is a participatory extension methodology where:",
     options: ["Farmers watch videos about farming practices in extension education", "Scientists teach farmers in a classroom setting in rural development programmes", "Farmers learn by doing and discovery-based learning in their own fields through the crop season", "Extension workers demonstrate on research farms under this extension approach"],
     correct: 2,
-    explanation: "Farmer Field Schools (FFS) are groups of 25–30 farmers who meet weekly in their fields throughout the crop season to learn by doing (IPM, agroecosystem analysis), promoted by FAO globally."
+    explanation: "Farmer Field Schools (FFS) are groups of 25â€“30 farmers who meet weekly in their fields throughout the crop season to learn by doing (IPM, agroecosystem analysis), promoted by FAO globally."
   },
   {
     id: "d291l_109",
@@ -1137,7 +1137,7 @@ export const da291LectureQuestions: Question[] = [
     explanation: "Major extension challenges in India: inadequate trained extension manpower, poor technology adoption by small/marginal farmers, insufficient budget, infrastructure gap, digital divide and technology-recommendation mismatch."
   },
 
-  // ── Lecture 8: Government Schemes ─────────────────────────────────────────
+  // â”€â”€ Lecture 8: Government Schemes â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
   {
     id: "d291l_113",
     subject: "da-291",
@@ -1166,7 +1166,7 @@ export const da291LectureQuestions: Question[] = [
     question: "Rythu Bandhu scheme in Telangana provides farmers with:",
     options: ["Crop insurance at zero premium in extension education", "Rs. 10,000 per acre per season (kharif and rabi) as investment support", "Free drip irrigation systems in rural development programmes", "Free seeds and fertilizers under this extension approach"],
     correct: 1,
-    explanation: "Rythu Bandhu (Farmers' Investment Support Scheme) of Telangana provides Rs. 10,000 per acre per season (Rs. 5,000 per acre × 2 seasons = Rs. 10,000/acre/year) as pre-sowing investment support."
+    explanation: "Rythu Bandhu (Farmers' Investment Support Scheme) of Telangana provides Rs. 10,000 per acre per season (Rs. 5,000 per acre Ã— 2 seasons = Rs. 10,000/acre/year) as pre-sowing investment support."
   },
   {
     id: "d291l_116",
@@ -1176,7 +1176,7 @@ export const da291LectureQuestions: Question[] = [
     question: "Rythu Bima scheme in Telangana provides:",
     options: ["Crop insurance for paddy only in extension education", "Health insurance for farmers in rural development programmes", "Livestock insurance for dairy farmers under this extension approach", "Life insurance of Rs. 5 lakh to farmer family on farmer's death"],
     correct: 3,
-    explanation: "Rythu Bima is a group life insurance scheme in Telangana providing Rs. 5 lakh life insurance coverage to farmers (5–59 years) benefiting under Rythu Bandhu. The government pays the premium."
+    explanation: "Rythu Bima is a group life insurance scheme in Telangana providing Rs. 5 lakh life insurance coverage to farmers (5â€“59 years) benefiting under Rythu Bandhu. The government pays the premium."
   },
   {
     id: "d291l_117",
@@ -1299,7 +1299,7 @@ export const da291LectureQuestions: Question[] = [
     explanation: "Soil Health Card Scheme is implemented by the Department of Agriculture & Farmers Welfare through state governments, which establish soil testing laboratories, conduct testing and issue cards to farmers."
   },
 
-  // ── Lecture 9: Rural Credit & Cooperative Movement ────────────────────────
+  // â”€â”€ Lecture 9: Rural Credit & Cooperative Movement â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
   {
     id: "d291l_129",
     subject: "da-291",
@@ -1326,9 +1326,9 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "The three-tier short-term cooperative credit structure in India is:",
-    options: ["RRB → DCCB → PACS in extension education", "PACS → DCCB (District Central Cooperative Bank) → STCB (State Cooperative Bank)", "NABARD → Commercial Banks → PACS in rural development programmes", "Cooperative Society → NABARD → RBI under this extension approach"],
+    options: ["RRB â†’ DCCB â†’ PACS in extension education", "PACS â†’ DCCB (District Central Cooperative Bank) â†’ STCB (State Cooperative Bank)", "NABARD â†’ Commercial Banks â†’ PACS in rural development programmes", "Cooperative Society â†’ NABARD â†’ RBI under this extension approach"],
     correct: 1,
-    explanation: "Short-term cooperative credit: PACS (village) → DCCB/CCB (district) → STCB (state). NABARD refinances the State Cooperative Banks which on-lend to DCCBs which lend to PACS."
+    explanation: "Short-term cooperative credit: PACS (village) â†’ DCCB/CCB (district) â†’ STCB (state). NABARD refinances the State Cooperative Banks which on-lend to DCCBs which lend to PACS."
   },
   {
     id: "d291l_132",
@@ -1336,9 +1336,9 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Self Help Groups (SHGs) typically consist of how many members?",
-    options: ["50–100 members", "200–300 members", "10–20 members", "3–5 members"],
+    options: ["50â€“100 members", "200â€“300 members", "10â€“20 members", "3â€“5 members"],
     correct: 2,
-    explanation: "SHGs typically consist of 10–20 persons (usually women) from homogeneous socio-economic backgrounds who voluntarily come together to save regularly and access credit for livelihood activities."
+    explanation: "SHGs typically consist of 10â€“20 persons (usually women) from homogeneous socio-economic backgrounds who voluntarily come together to save regularly and access credit for livelihood activities."
   },
   {
     id: "d291l_133",
@@ -1461,7 +1461,7 @@ export const da291LectureQuestions: Question[] = [
     explanation: "IFFCO is a farmer-owned fertilizer cooperative that manufactures and supplies fertilizers (urea, DAP) to its member PACS and cooperatives at cost-effective prices. It is the world's largest cooperative fertilizer company."
   },
 
-  // ── Lecture 10: Development Programmes ────────────────────────────────────
+  // â”€â”€ Lecture 10: Development Programmes â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
   {
     id: "d291l_145",
     subject: "da-291",
@@ -1478,9 +1478,9 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "The current wage rate under MGNREGS (approximately 2023-24) is approximately:",
-    options: ["Rs. 500/day", "Rs. 221–350/day (varies by state)", "Rs. 800/day", "Rs. 100/day"],
+    options: ["Rs. 500/day", "Rs. 221â€“350/day (varies by state)", "Rs. 800/day", "Rs. 100/day"],
     correct: 1,
-    explanation: "MGNREGS wage rates vary by state (indexed to state minimum wage for agricultural labor). The national average is approximately Rs. 221–350/day with different rates for different states."
+    explanation: "MGNREGS wage rates vary by state (indexed to state minimum wage for agricultural labor). The national average is approximately Rs. 221â€“350/day with different rates for different states."
   },
   {
     id: "d291l_147",
@@ -1588,9 +1588,9 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "PM POSHAN (formerly Mid Day Meal) scheme provides:",
-    options: ["Free food grains to all farmers in extension education", "Nutritional supplements to pregnant women only under this extension approach", "Free meals to MGNREGS workers in rural development programmes", "Hot cooked nutritious meals to school children (Class I–VIII) in government schools"],
+    options: ["Free food grains to all farmers in extension education", "Nutritional supplements to pregnant women only under this extension approach", "Free meals to MGNREGS workers in rural development programmes", "Hot cooked nutritious meals to school children (Class Iâ€“VIII) in government schools"],
     correct: 3,
-    explanation: "PM POSHAN (Pradhan Mantri Poshan Shakti Nirman, formerly Mid Day Meal Scheme) provides one hot cooked nutritious meal to children in Class I–VIII (and pre-primary) in all government/aided schools."
+    explanation: "PM POSHAN (Pradhan Mantri Poshan Shakti Nirman, formerly Mid Day Meal Scheme) provides one hot cooked nutritious meal to children in Class Iâ€“VIII (and pre-primary) in all government/aided schools."
   },
   {
     id: "d291l_158",
@@ -1608,7 +1608,7 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "National Food Security Act (NFSA) 2013 entitles which beneficiaries to subsidized food grains?",
-    options: ["All Indian citizens without exception in extension education in agriculture", "Priority Households (5 kg/person/month at Rs. 1–3) and Antyodaya Anna Yojana households (35 kg/family/month)", "Only urban poor families in rural development programmes under field conditions", "Only BPL families in rural areas under this extension approach"],
+    options: ["All Indian citizens without exception in extension education in agriculture", "Priority Households (5 kg/person/month at Rs. 1â€“3) and Antyodaya Anna Yojana households (35 kg/family/month)", "Only urban poor families in rural development programmes under field conditions", "Only BPL families in rural areas under this extension approach"],
     correct: 1,
     explanation: "NFSA 2013 entitles Priority Household (PHH) members to 5 kg/person/month at Rs. 3/2/1 per kg (rice/wheat/coarse grains) and AAY households (poorest) to 35 kg/family/month."
   },
@@ -1623,7 +1623,7 @@ export const da291LectureQuestions: Question[] = [
     explanation: "The government announced the target of doubling farmers' real income by 2022 (Kisan Samridhi in the 75th Independence year). The Dalwai Committee was constituted to develop a strategy for DFI."
   },,
   {
-    id: "d291l_161", subject: "Agricultural Extension Education", lecture: "Agricultural Information Materials", lectureNo: 11,
+    id: "d291l_161", subject: "da-291", lecture: "lecture-11", lectureNo: 11,
     question: "A leaflet in extension education is defined as:",
     options: ["A bound booklet of 20-30 pages with detailed technical information", "A single sheet of paper printed on one or both sides with brief information", "A monthly newsletter published by agricultural universities in extension education", "A large poster displayed at village entry points in rural development programmes"],
     correct: 1,
@@ -1631,7 +1631,7 @@ export const da291LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d291l_162", subject: "Agricultural Extension Education", lecture: "Agricultural Information Materials", lectureNo: 11,
+    id: "d291l_162", subject: "da-291", lecture: "lecture-11", lectureNo: 11,
     question: "Which of the following is the correct sequence of agricultural information materials in increasing order of size/detail?",
     options: ["Bulletin < Pamphlet < Folder < Leaflet", "Leaflet < Folder < Pamphlet < Bulletin", "Pamphlet < Folder < Bulletin < Leaflet", "Folder < Leaflet < Bulletin < Pamphlet"],
     correct: 1,
@@ -1639,7 +1639,7 @@ export const da291LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d291l_163", subject: "Agricultural Extension Education", lecture: "Agricultural Information Materials", lectureNo: 11,
+    id: "d291l_163", subject: "da-291", lecture: "lecture-11", lectureNo: 11,
     question: "Assertion (A): Printed agricultural information materials should be written in simple local language.\nReason (R): Farmers are a heterogeneous group with varying educational levels, including many illiterates.",
     options: ["A is false but R is true", "A is true but R is false", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
     correct: 2,
@@ -1647,7 +1647,7 @@ export const da291LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d291l_164", subject: "Agricultural Extension Education", lecture: "Agricultural Information Materials", lectureNo: 11,
+    id: "d291l_164", subject: "da-291", lecture: "lecture-11", lectureNo: 11,
     question: "A folder in extension materials is characterized by:",
     options: ["A large printed chart displayed on walls in extension education", "A collection of loose sheets tied together in rural development programmes", "A bound publication similar to a magazine with multiple articles under this extension approach", "A sheet folded into sections, providing more information than a leaflet but less than a pamphlet"],
     correct: 3,
@@ -1655,7 +1655,7 @@ export const da291LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d291l_165", subject: "Agricultural Extension Education", lecture: "Agricultural Information Materials", lectureNo: 11,
+    id: "d291l_165", subject: "da-291", lecture: "lecture-11", lectureNo: 11,
     question: "The cost of paper in printing agricultural information materials should not exceed:",
     options: ["10-20% of total production cost", "60-70% of total production cost", "30-40% of total production cost", "80-90% of total production cost"],
     correct: 1,
@@ -1663,7 +1663,7 @@ export const da291LectureQuestions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d291l_166", subject: "Agricultural Extension Education", lecture: "Agricultural Information Materials", lectureNo: 11,
+    id: "d291l_166", subject: "da-291", lecture: "lecture-11", lectureNo: 11,
     question: "Which of the following is a limitation of printed agricultural information materials?",
     options: ["Information cannot be disseminated to large groups", "Illiterates cannot read and understand the information", "Repeated reading is not possible", "People do not believe printed information"],
     correct: 1,
@@ -1671,7 +1671,7 @@ export const da291LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d291l_167", subject: "Agricultural Extension Education", lecture: "Agricultural Information Materials", lectureNo: 11,
+    id: "d291l_167", subject: "da-291", lecture: "lecture-11", lectureNo: 11,
     question: "Three-column matching: Match the extension information material, its feature, and its use:\nCol A: 1-Bulletin, 2-Newsletter, 3-Wall newspaper\nCol B: P-Monthly/quarterly publication, Q-Comprehensive technical document, R-Displayed in public places\nCol C: i-For scientific community, ii-For general awareness, iii-For keeping people informed",
     options: ["1-Q-i, 2-P-iii, 3-R-ii", "1-Q-iii, 2-R-i, 3-P-ii", "1-P-i, 2-Q-ii, 3-R-iii", "1-R-iii, 2-P-i, 3-Q-ii"],
     correct: 0,
@@ -1679,7 +1679,7 @@ export const da291LectureQuestions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d291l_168", subject: "Agricultural Extension Education", lecture: "Agricultural Information Materials", lectureNo: 11,
+    id: "d291l_168", subject: "da-291", lecture: "lecture-11", lectureNo: 11,
     question: "A circular letter in extension education is used to:",
     options: ["Send the same information to many recipients simultaneously", "Replace face-to-face farm and home visits", "Circulate within government departments only", "Present research findings in tabular format"],
     correct: 0,
@@ -1687,7 +1687,7 @@ export const da291LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d291l_169", subject: "Agricultural Extension Education", lecture: "Programme Planning and Development", lectureNo: 12,
+    id: "d291l_169", subject: "da-291", lecture: "lecture-12", lectureNo: 12,
     question: "The first step in the extension educational process according to the DA-291 course material is:",
     options: ["Teaching", "Evaluation", "Analysis of the situation", "Deciding upon objectives"],
     correct: 2,
@@ -1695,7 +1695,7 @@ export const da291LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d291l_170", subject: "Agricultural Extension Education", lecture: "Programme Planning and Development", lectureNo: 12,
+    id: "d291l_170", subject: "da-291", lecture: "lecture-12", lectureNo: 12,
     question: "Assertion (A): Extension objectives should express behavioral changes in people as well as economic or social outcomes.\nReason (R): The extension educational process is linear and does not repeat once evaluation is complete.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true", "Both A and R are true but R is not the correct explanation of A"],
     correct: 1,
@@ -1703,7 +1703,7 @@ export const da291LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d291l_171", subject: "Agricultural Extension Education", lecture: "Programme Planning and Development", lectureNo: 12,
+    id: "d291l_171", subject: "da-291", lecture: "lecture-12", lectureNo: 12,
     question: "The fifth phase of the extension educational process is:",
     options: ["Situation analysis", "Reconsideration", "Teaching", "Evaluation"],
     correct: 1,
@@ -1711,7 +1711,7 @@ export const da291LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d291l_172", subject: "Agricultural Extension Education", lecture: "Programme Planning and Development", lectureNo: 12,
+    id: "d291l_172", subject: "da-291", lecture: "lecture-12", lectureNo: 12,
     question: "In extension education, the teaching phase involves choosing:",
     options: ["Only the demonstration plots and experimental sites", "Financial resources and government schemes", "Content to be taught and methods/techniques of teaching", "Only the beneficiaries and target groups"],
     correct: 2,
@@ -1719,7 +1719,7 @@ export const da291LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d291l_173", subject: "Agricultural Extension Education", lecture: "Programme Planning and Development", lectureNo: 12,
+    id: "d291l_173", subject: "da-291", lecture: "lecture-12", lectureNo: 12,
     question: "The basic objective of extension is classified under three categories. Which of the following is NOT one of them?",
     options: ["Material: Enhancement in production and income", "Social and cultural: Development of community", "Financial: obtaining maximum profit from farming", "Related to education: Change in outlook of people"],
     correct: 2,
@@ -1727,7 +1727,7 @@ export const da291LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d291l_174", subject: "Agricultural Extension Education", lecture: "Programme Planning and Development", lectureNo: 12,
+    id: "d291l_174", subject: "da-291", lecture: "lecture-12", lectureNo: 12,
     question: "Three-column matching: Match the extension objective type, its focus, and its example:\nCol A: 1-Material, 2-Educational, 3-Social & Cultural\nCol B: P-Change in people's outlook, Q-Community development, R-Enhancement in production\nCol C: i-Higher crop yields, ii-Formation of cooperatives, iii-Positive attitude towards new technology",
     options: ["1-P-ii, 2-R-i, 3-Q-iii", "1-Q-iii, 2-P-i, 3-R-ii", "1-R-iii, 2-Q-i, 3-P-ii", "1-R-i, 2-P-iii, 3-Q-ii"],
     correct: 3,
@@ -1735,7 +1735,7 @@ export const da291LectureQuestions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d291l_175", subject: "Agricultural Extension Education", lecture: "Programme Planning and Development", lectureNo: 12,
+    id: "d291l_175", subject: "da-291", lecture: "lecture-12", lectureNo: 12,
     question: "Extension education was first used in agriculture and home science in:",
     options: ["America", "Sweden", "Norway", "India"],
     correct: 0,
@@ -1743,7 +1743,7 @@ export const da291LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d291l_176", subject: "Agricultural Extension Education", lecture: "Programme Planning and Development", lectureNo: 12,
+    id: "d291l_176", subject: "da-291", lecture: "lecture-12", lectureNo: 12,
     question: "The land grant college method of extension, which was later adopted by almost all universities in India, was implemented for the first time in:",
     options: ["Japan", "USA", "UK", "Germany"],
     correct: 1,
@@ -1751,7 +1751,7 @@ export const da291LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d291l_177", subject: "Agricultural Extension Education", lecture: "Developmental Programmes", lectureNo: 13,
+    id: "d291l_177", subject: "da-291", lecture: "lecture-14", lectureNo: 13,
     question: "The Srinikethan project, considered the first attempt at rural development in India, was started in:",
     options: ["1952", "1921", "1947", "1914"],
     correct: 3,
@@ -1759,7 +1759,7 @@ export const da291LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d291l_178", subject: "Agricultural Extension Education", lecture: "Developmental Programmes", lectureNo: 13,
+    id: "d291l_178", subject: "da-291", lecture: "lecture-14", lectureNo: 13,
     question: "The Srinikethan project was started by:",
     options: ["Mahatma Gandhi", "Dr. Spencer H", "Rabindranath Tagore", "F L B Brown"],
     correct: 2,
@@ -1767,7 +1767,7 @@ export const da291LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d291l_179", subject: "Agricultural Extension Education", lecture: "Developmental Programmes", lectureNo: 13,
+    id: "d291l_179", subject: "da-291", lecture: "lecture-14", lectureNo: 13,
     question: "The Sevagram rural development programme was started in:",
     options: ["Gurugram district of Punjab", "Marthandam of Kerala", "Vaardha district of Maharashtra", "Srinikethan of West Bengal"],
     correct: 2,
@@ -1775,7 +1775,7 @@ export const da291LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d291l_180", subject: "Agricultural Extension Education", lecture: "Developmental Programmes", lectureNo: 13,
+    id: "d291l_180", subject: "da-291", lecture: "lecture-14", lectureNo: 13,
     question: "The educational system introduced by Gandhiji at Sevagram for children and adults was called:",
     options: ["NAVODAYA", "NAYATHALIM", "NAVBHARAT", "NAITIK SHIKSHA"],
     correct: 1,
@@ -1783,7 +1783,7 @@ export const da291LectureQuestions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d291l_181", subject: "Agricultural Extension Education", lecture: "Developmental Programmes", lectureNo: 13,
+    id: "d291l_181", subject: "da-291", lecture: "lecture-14", lectureNo: 13,
     question: "The Gurugram experiment was initiated by deputy commissioner 'F L B Brown' in:",
     options: ["Gurugram district of Punjab", "Marthandam of Kerala", "Vaardha district of Maharashtra", "Etawah district of Uttar Pradesh"],
     correct: 0,
@@ -1791,7 +1791,7 @@ export const da291LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d291l_182", subject: "Agricultural Extension Education", lecture: "Developmental Programmes", lectureNo: 13,
+    id: "d291l_182", subject: "da-291", lecture: "lecture-14", lectureNo: 13,
     question: "Assertion (A): The Firka development scheme was introduced by Tongutar Prakasham Panthulu in 1946.\nReason (R): The Firka scheme aimed at 'All round development of rural life' and was later merged into the community development scheme.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 2,
@@ -1799,7 +1799,7 @@ export const da291LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d291l_183", subject: "Agricultural Extension Education", lecture: "Developmental Programmes", lectureNo: 13,
+    id: "d291l_183", subject: "da-291", lecture: "lecture-14", lectureNo: 13,
     question: "The Etawah project was set up in coordination with Albert Mayer at Etawah district of Uttar Pradesh in:",
     options: ["1952", "1921", "1948", "1946"],
     correct: 2,
@@ -1807,7 +1807,7 @@ export const da291LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d291l_184", subject: "Agricultural Extension Education", lecture: "Developmental Programmes", lectureNo: 13,
+    id: "d291l_184", subject: "da-291", lecture: "lecture-14", lectureNo: 13,
     question: "Three-column matching: Match the pre-independence rural development project, its year, and its founder/location:\nCol A: 1-Srinikethan, 2-Sevagram, 3-Gurugram experiment\nCol B: P-1914, Q-1921, R-1920s\nCol C: i-F L B Brown/Punjab, ii-Rabindranath Tagore/West Bengal, iii-Gandhiji/Maharashtra",
     options: ["1-P-ii, 2-Q-iii, 3-R-i", "1-P-iii, 2-Q-i, 3-R-ii", "1-R-i, 2-P-ii, 3-Q-iii", "1-Q-ii, 2-P-iii, 3-R-i"],
     correct: 0,
@@ -1815,7 +1815,7 @@ export const da291LectureQuestions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d291l_185", subject: "Agricultural Extension Education", lecture: "Developmental Programmes", lectureNo: 13,
+    id: "d291l_185", subject: "da-291", lecture: "lecture-14", lectureNo: 13,
     question: "The Nilokheri scheme (1947) was called:",
     options: ["NAYATHALIM", "Etawah Model", "Firka Development", "Mazdoor Manzil"],
     correct: 3,
@@ -1823,7 +1823,7 @@ export const da291LectureQuestions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d291l_186", subject: "Agricultural Extension Education", lecture: "Community Development", lectureNo: 14,
+    id: "d291l_186", subject: "da-291", lecture: "lecture-13", lectureNo: 14,
     question: "The Community Development Programme (CDP) was launched in India on:",
     options: ["26th January 1950", "2nd October 1952", "15th August 1947", "2nd October 1959"],
     correct: 1,
@@ -1831,7 +1831,7 @@ export const da291LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d291l_187", subject: "Agricultural Extension Education", lecture: "Community Development", lectureNo: 14,
+    id: "d291l_187", subject: "da-291", lecture: "lecture-13", lectureNo: 14,
     question: "Each community development project under CDP (1952) consisted of approximately:",
     options: ["100 villages, 50,000 population, 50,000 acres of land", "200 villages, 1 lakh population, 1,00,000 acres of land", "300 villages, 2 lakh population, 1,50,000 acres of agricultural land", "500 villages, 5 lakh population, 3,00,000 acres of land"],
     correct: 2,
@@ -1839,7 +1839,7 @@ export const da291LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d291l_188", subject: "Agricultural Extension Education", lecture: "Community Development", lectureNo: 14,
+    id: "d291l_188", subject: "da-291", lecture: "lecture-13", lectureNo: 14,
     question: "Assertion (A): Community development is defined as a process of government efforts united with those of the people to improve social, cultural and economic conditions.\nReason (R): Community development involves technically aided and locally organized self-help.",
     options: ["Both A and R are true but R is not the correct explanation of A", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "A is true but R is false"],
     correct: 0,
@@ -1847,7 +1847,7 @@ export const da291LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d291l_189", subject: "Agricultural Extension Education", lecture: "Community Development", lectureNo: 14,
+    id: "d291l_189", subject: "da-291", lecture: "lecture-13", lectureNo: 14,
     question: "The three important objectives of community development are:",
     options: ["Economic development, Social justice, Democratic progress", "Agricultural production, Industrial growth, Urban development", "Education, Health, Infrastructure", "Land reform, Women empowerment, Tribal welfare"],
     correct: 0,
@@ -1855,7 +1855,7 @@ export const da291LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d291l_190", subject: "Agricultural Extension Education", lecture: "Community Development", lectureNo: 14,
+    id: "d291l_190", subject: "da-291", lecture: "lecture-13", lectureNo: 14,
     question: "Each block in the Community Development Programme consisted of:",
     options: ["100 villages with 60,000 to 70,000 population", "50 villages with 25,000 population", "200 villages with 1 lakh population", "300 villages with 2 lakh population"],
     correct: 0,
@@ -1863,7 +1863,7 @@ export const da291LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d291l_191", subject: "Agricultural Extension Education", lecture: "Community Development", lectureNo: 14,
+    id: "d291l_191", subject: "da-291", lecture: "lecture-13", lectureNo: 14,
     question: "In Andhra Pradesh, CDP was implemented in three locations. Which of the following was NOT one of them?",
     options: ["Kurnool and Kadapa (K.C. canal area)", "Visakhapatnam", "East Godavari (Kakinada and Peddapuram)", "Nallagonda (Miryalguda and Huzurnagar)"],
     correct: 1,
@@ -1871,7 +1871,7 @@ export const da291LectureQuestions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d291l_192", subject: "Agricultural Extension Education", lecture: "Community Development", lectureNo: 14,
+    id: "d291l_192", subject: "da-291", lecture: "lecture-13", lectureNo: 14,
     question: "Three-column matching: Match the phase of CDP, its stage number, and its activity:\nCol A: 1-Emergence phase, 2-Work phase, 3-Final stage\nCol B: P-Stage 1, Q-Stage 3, R-Stage 5\nCol C: i-Finishing touches to all works, ii-Area selection, survey and planning, iii-Implementation of targeted programmes",
     options: ["1-P-i, 2-R-ii, 3-Q-iii", "1-R-i, 2-P-ii, 3-Q-iii", "1-Q-iii, 2-P-i, 3-R-ii", "1-P-ii, 2-Q-iii, 3-R-i"],
     correct: 3,
@@ -1879,7 +1879,7 @@ export const da291LectureQuestions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d291l_193", subject: "Agricultural Extension Education", lecture: "Panchayati Raj System", lectureNo: 15,
+    id: "d291l_193", subject: "da-291", lecture: "lecture-15", lectureNo: 15,
     question: "The local government in India is enshrined in which article of the Indian Constitution?",
     options: ["Article 370 of Part XXI", "Article 21 of Part III", "Article 356 of Part XVIII", "Article 40 of Part IV"],
     correct: 3,
@@ -1887,7 +1887,7 @@ export const da291LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d291l_194", subject: "Agricultural Extension Education", lecture: "Panchayati Raj System", lectureNo: 15,
+    id: "d291l_194", subject: "da-291", lecture: "lecture-15", lectureNo: 15,
     question: "The Balvantrai Mehta Committee, which recommended the three-tier Panchayati Raj system, was constituted on:",
     options: ["16th January 1956", "15th August 1947", "26th November 1949", "2nd October 1952"],
     correct: 0,
@@ -1895,7 +1895,7 @@ export const da291LectureQuestions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d291l_195", subject: "Agricultural Extension Education", lecture: "Panchayati Raj System", lectureNo: 15,
+    id: "d291l_195", subject: "da-291", lecture: "lecture-15", lectureNo: 15,
     question: "The three tiers of the Panchayati Raj system are:",
     options: ["Gram Sabha, Block Panchayat, District Board", "Gram Panchayat, Panchayat Samiti, Zilla Parishad", "Village Council, Taluk Board, District Council", "Ward Sabha, Mandal Parishad, Zilla Parishad"],
     correct: 1,
@@ -1903,7 +1903,7 @@ export const da291LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d291l_196", subject: "Agricultural Extension Education", lecture: "Panchayati Raj System", lectureNo: 15,
+    id: "d291l_196", subject: "da-291", lecture: "lecture-15", lectureNo: 15,
     question: "Lord Ripon, who fundamentally shaped local government bodies in India in 1882, is called:",
     options: ["Father of Panchayati Raj", "Father of local governance", "Father of community development", "Father of Indian democracy"],
     correct: 1,
@@ -1911,7 +1911,7 @@ export const da291LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d291l_197", subject: "Agricultural Extension Education", lecture: "Panchayati Raj System", lectureNo: 15,
+    id: "d291l_197", subject: "da-291", lecture: "lecture-15", lectureNo: 15,
     question: "Assertion (A): A gram panchayat is formed if the minimum population of a village is 250.\nReason (R): Today every village with a population of 500 has one panchayat.",
     options: ["A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is false but R is true"],
     correct: 1,
@@ -1919,7 +1919,7 @@ export const da291LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d291l_198", subject: "Agricultural Extension Education", lecture: "Panchayati Raj System", lectureNo: 15,
+    id: "d291l_198", subject: "da-291", lecture: "lecture-15", lectureNo: 15,
     question: "The number of gram panchayats in combined Andhra Pradesh state (before bifurcation) was:",
     options: ["12,765", "27,445", "18,000", "35,000"],
     correct: 1,
@@ -1927,7 +1927,7 @@ export const da291LectureQuestions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d291l_199", subject: "Agricultural Extension Education", lecture: "Panchayati Raj System", lectureNo: 15,
+    id: "d291l_199", subject: "da-291", lecture: "lecture-15", lectureNo: 15,
     question: "Three-column matching: Match the Panchayati Raj tier, its level, and its geographic unit:\nCol A: 1-Gram Panchayat, 2-Panchayat Samiti, 3-Zilla Parishad\nCol B: P-Intermediate/Block level, Q-Lower/Village level, R-Upper/District level\nCol C: i-District, ii-Village, iii-Block",
     options: ["1-Q-i, 2-R-ii, 3-P-iii", "1-R-i, 2-Q-ii, 3-P-iii", "1-Q-ii, 2-P-iii, 3-R-i", "1-P-ii, 2-Q-iii, 3-R-i"],
     correct: 2,
@@ -1935,7 +1935,7 @@ export const da291LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d291l_200", subject: "Agricultural Extension Education", lecture: "Panchayati Raj System", lectureNo: 15,
+    id: "d291l_200", subject: "da-291", lecture: "lecture-15", lectureNo: 15,
     question: "The functions of Gram Panchayat include all of the following EXCEPT:",
     options: ["Birth and deaths registrations", "Public health and sanitation", "Collection of state income tax", "Water supply and street lights"],
     correct: 2,
