@@ -1825,5 +1825,84 @@ export const da241LectureQuestions: Question[] = [
     correct: 2,
     explanation: "Both A and R are true but R does NOT explain A. The twin objectives of the crop loan system are: (1) treating the crop as security instead of immovable property, and (2) fixing the scale of finance based on actual farm expenditure. The eligibility criterion (R) is a separate feature, not the reason for treating crop as security."
   },
-
+  {
+    id: "d241l_101",
+    subject: "da-241",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "In production economics, anything that aids in production is called a:",
+    options: ["Resource", "Liability", "Revenue", "Subsidy"],
+    correct: 0,
+    explanation: "As per DA-241 notes: Anything that aids in production is called a resource."
+  },
+  {
+    id: "d241l_102",
+    subject: "da-241",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "Resources that remain unchanged irrespective of the level of production are called:",
+    options: ["Variable resources", "Fixed resources", "Stock resources", "Flow resources"],
+    correct: 1,
+    explanation: "As per DA-241 notes: The resources that remain unchanged irrespective of the level of production are called fixed resources, and their costs are fixed costs."
+  },
+  {
+    id: "d241l_103",
+    subject: "da-241",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "Resources that vary with the level of production are called:",
+    options: ["Fixed resources", "Implicit resources", "Variable resources", "Joint resources"],
+    correct: 2,
+    explanation: "As per DA-241 notes: The resources that vary with the level of production are called variable resources, and their costs are variable costs."
+  },
+  {
+    id: "d241l_104",
+    subject: "da-241",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "Total product expressed in terms of physical units like kg, quintals or tonnes is termed:",
+    options: ["Total Value Product", "Marginal Value Product", "Average Revenue", "Total Physical Product"],
+    correct: 3,
+    explanation: "As per DA-241 notes: Total product expressed in terms of physical units like kgs, quintals, tonnes is termed Total Physical Product (TPP)."
+  },
+  {
+    id: "d241l_105",
+    subject: "da-241",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "When Total Physical Product (TPP) is expressed in terms of monetary value, it is called:",
+    options: ["Total Value Product", "Total Fixed Cost", "Average Physical Product", "Net revenue"],
+    correct: 0,
+    explanation: "As per DA-241 notes: The expression of TPP in terms of monetary value is called Total Value Product (TVP)."
+  },
+  {
+    id: "d241l_106",
+    subject: "da-241",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "The costs of self-owned and self-employed resources of a farmer are known as:",
+    options: ["Explicit costs", "Implicit costs", "Deflated costs", "Historical costs"],
+    correct: 1,
+    explanation: "As per DA-241 notes: Costs of self-owned and self-employed resources are known as implicit costs."
+  },
+  {
+    id: "d241l_107",
+    subject: "da-241",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "Social costs arising from production activities are also called:",
+    options: ["Fixed costs", "Joint costs", "Externalities", "Establishment costs"],
+    correct: 2,
+    explanation: "As per DA-241 notes: Social costs are also called as externalities."
+  },
+  {
+    id: "d241l_108",
+    subject: "da-241",
+    lecture: "lecture-4",
+    lectureNo: 4,
+    question: "The amount of money that a firm receives from the sale of certain quantities of a good at various prices is called:",
+    options: ["Cost", "Profit", "Investment", "Revenue"],
+    correct: 3,
+    explanation: "As per DA-241 notes: The amount of money that the firm receives from the sale of certain quantities of a good at various prices is called revenue."
+  }
 ];

@@ -2594,5 +2594,84 @@ export const da201LectureQuestions: Question[] = [
     correct: 0,
     explanation: "Sunflower: N for rabi hybrids 30 kg/ha in 3 splits (sowing, 30 DAS, 50-60 DAS); P 24-36 kg/ha as basal; K 12 kg/ha as basal; Sulphur 25 kg/ha at last ploughing. SSP is best source for P as it also supplies sulphur."
   },
-
+  {
+    id: "d201l_158",
+    subject: "da-201",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "Crops that are cultivated for the production of oils are known as:",
+    options: ["Oilseed crops", "Fibre crops", "Forage crops", "Plantation crops"],
+    correct: 0,
+    explanation: "As per DA-201 notes: The crops that are cultivated for the production of oils are known as oilseed crops."
+  },
+  {
+    id: "d201l_159",
+    subject: "da-201",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "The Technology Mission on Oilseeds (TMO), which brought a dramatic change in India's oilseed scenario, was initiated in the year:",
+    options: ["1966", "1986", "1998", "2005"],
+    correct: 1,
+    explanation: "As per DA-201 notes: The oilseed scenario in India underwent a dramatic change with the initiation of the TMO (Technology Mission on Oilseeds) in 1986 (May)."
+  },
+  {
+    id: "d201l_160",
+    subject: "da-201",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "Groundnut, being a legume, can fix atmospheric nitrogen within one season to the extent of about:",
+    options: ["5-10 kg N/ha", "20-25 kg N/ha", "60-100 kg N/ha", "200-250 kg N/ha"],
+    correct: 2,
+    explanation: "As per DA-201 notes: Groundnut is able to fix atmospheric nitrogen at 60-100 kg N/ha within one season."
+  },
+  {
+    id: "d201l_161",
+    subject: "da-201",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "In groundnut, flowering usually takes place after sowing within:",
+    options: ["5 to 10 days", "60 to 70 days", "90 to 100 days", "24 to 30 days"],
+    correct: 3,
+    explanation: "As per DA-201 notes: In groundnut, flowering usually takes place between 24 to 30 days after sowing."
+  },
+  {
+    id: "d201l_162",
+    subject: "da-201",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "To break seed dormancy in groundnut, the seed is soaked for 12 hours in a solution of:",
+    options: ["Ethrel", "Gibberellic acid", "Sodium chloride", "Sulphuric acid"],
+    correct: 0,
+    explanation: "As per DA-201 notes: For removal of dormancy in groundnut, the seed is soaked for 12 hours in Ethrel (5 ml/10 lit) solution and then shade dried."
+  },
+  {
+    id: "d201l_163",
+    subject: "da-201",
+    lecture: "lecture-4",
+    lectureNo: 4,
+    question: "Spreading-type groundnut varieties generally come to maturity in:",
+    options: ["50-60 days", "125-135 days", "100-105 days", "180-200 days"],
+    correct: 1,
+    explanation: "As per DA-201 notes: Bunch and semi-spreading types mature by 100-105 days, whereas the spreading type matures in 125-135 days."
+  },
+  {
+    id: "d201l_164",
+    subject: "da-201",
+    lecture: "lecture-4",
+    lectureNo: 4,
+    question: "The critical limit of available zinc (Zn) in soil, below which deficiency occurs, is:",
+    options: ["6.0 ppm", "2.0 ppm", "Less than 0.6 ppm", "15 ppm"],
+    correct: 2,
+    explanation: "As per DA-201 notes: The critical limit of available Zn in soil is less than 0.6 ppm; deficiency is corrected by ZnSO4 at 2 kg/ha once in 2 years."
+  },
+  {
+    id: "d201l_165",
+    subject: "da-201",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "For groundnut, the optimum depth of ploughing during tillage is:",
+    options: ["2-3 cm", "5-7 cm", "30-40 cm", "15-20 cm"],
+    correct: 3,
+    explanation: "As per DA-201 notes: For groundnut, the optimum depth of ploughing is 15-20 cm."
+  }
 ];

@@ -2509,5 +2509,75 @@ export const da252LectureQuestions: Question[] = [
     options: ["The natural ground slope is less than the designed canal bed slope under standard field conditions", "The canal crosses a road and must reduce velocity for safety as recommended by ICAR guidelines", "The canal changes direction at a bend by more than 45° based on conventional agronomic practices", "The natural ground slope is steeper than the designed canal bed slope, requiring the canal to descend in steps"],
     correct: 3,
     explanation: "When the natural ground slope exceeds the design canal bed slope, the canal would cut below ground level. A fall (drop structure) dissipates excess head in a controlled manner, maintaining the canal at or near ground level and preventing scour downstream."
+  },
+  {
+    id: "d252l_101",
+    subject: "da-252",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "A representation of the ground drawn to a large scale is called a:",
+    options: ["Plan", "Map", "Chart", "Sketch"],
+    correct: 0,
+    explanation: "As per DA-252 notes: The representation is called a map if the scale is small, and a plan if the scale is large."
+  },
+  {
+    id: "d252l_102",
+    subject: "da-252",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "The operation of measuring distance with the help of a chain or a tape is called:",
+    options: ["Ranging", "Chaining", "Levelling", "Plotting"],
+    correct: 1,
+    explanation: "As per DA-252 notes: The operation of measuring distance with the help of a chain or a tape is called chaining."
+  },
+  {
+    id: "d252l_103",
+    subject: "da-252",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "In a metric chain, the length of each link is:",
+    options: ["1 metre", "0.5 metre", "0.2 metre", "2 metres"],
+    correct: 2,
+    explanation: "As per DA-252 notes: In a metric chain the length of each link is 0.2 m (20 cm); a 20 m chain has 100 links and a 30 m chain has 150 links."
+  },
+  {
+    id: "d252l_104",
+    subject: "da-252",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "The Invar tape, used for precise measurements, is made of an alloy of steel (64%) and:",
+    options: ["Copper", "Aluminium", "Zinc", "Nickel (36%)"],
+    correct: 3,
+    explanation: "As per DA-252 notes: The Invar tape is made of an alloy of steel (64%) and nickel (36%) and possesses a very low coefficient of thermal expansion."
+  },
+  {
+    id: "d252l_105",
+    subject: "da-252",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "In chaining, the chainman at the forward end of the chain is called the:",
+    options: ["Leader (head chainman)", "Follower (rear chainman)", "Surveyor", "Ranger"],
+    correct: 0,
+    explanation: "As per DA-252 notes: The chainman at the forward end of the chain is called the leader or head chainman, while the one at the rear end is the follower or rear chainman."
+  },
+  {
+    id: "d252l_106",
+    subject: "da-252",
+    lecture: "lecture-4",
+    lectureNo: 4,
+    question: "The operation of establishing intermediate points on a straight line between the terminal points is known as:",
+    options: ["Chaining", "Ranging", "Offsetting", "Booking"],
+    correct: 1,
+    explanation: "As per DA-252 notes: The operation of establishing intermediate points on a straight line between the terminal points is known as ranging."
+  },
+  {
+    id: "d252l_107",
+    subject: "da-252",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "In a 20 m metric chain, the total number of links provided is:",
+    options: ["50", "75", "100", "200"],
+    correct: 2,
+    explanation: "As per DA-252 notes: A 20 m metric chain is provided with 100 links, and a 30 m chain is divided into 150 links."
   }
 ];

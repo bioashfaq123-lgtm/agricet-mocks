@@ -1822,4 +1822,84 @@ export const da262LectureQuestions: Question[] = [
     explanation: "System software (OS, device drivers, BIOS, utilities) manages hardware resources, memory, and processes, and provides a platform for other software. Application software (word processors, browsers, spreadsheets) performs specific tasks for end users and runs on top of the system software.",
     difficulty: "easy"
   },
+  {
+    id: "d262l_101",
+    subject: "da-262",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "The Central Processing Unit (CPU) is often referred to as the:",
+    options: ["Brain of the computer", "Memory of the computer", "Window of the computer", "Gateway of the computer"],
+    correct: 0,
+    explanation: "As per DA-262 notes: The CPU performs all processing and is therefore known as the 'brain' of the computer."
+  },
+  {
+    id: "d262l_102",
+    subject: "da-262",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "The type of memory from which information can only be read but not written or changed is:",
+    options: ["RAM", "ROM", "Cache", "Register"],
+    correct: 1,
+    explanation: "As per DA-262 notes: ROM is called Read-Only Memory because information can only be read from and not written or changed onto ROM."
+  },
+  {
+    id: "d262l_103",
+    subject: "da-262",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "Computers that combine the features of both analog and digital computers are known as:",
+    options: ["Super computers", "Micro computers", "Hybrid computers", "Mainframe computers"],
+    correct: 2,
+    explanation: "As per DA-262 notes: Computers which combine the features of analog and digital computers are known as hybrid computers."
+  },
+  {
+    id: "d262l_104",
+    subject: "da-262",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "The software that manages the resources of a computer system and schedules its operation is called the:",
+    options: ["Application software", "Translator", "Utility program", "Operating system"],
+    correct: 3,
+    explanation: "As per DA-262 notes: The software that manages the resources of a computer system and schedules its operation is called the operating system."
+  },
+  {
+    id: "d262l_105",
+    subject: "da-262",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "The physical components of a computer are collectively known as:",
+    options: ["Hardware", "Software", "Firmware", "Freeware"],
+    correct: 0,
+    explanation: "As per DA-262 notes: The physical components of the computer are known as hardware, while the programs are software."
+  },
+  {
+    id: "d262l_106",
+    subject: "da-262",
+    lecture: "lecture-4",
+    lectureNo: 4,
+    question: "Files with the extension .COM or .EXE are called:",
+    options: ["Batch files", "Executable files", "Text files", "System files"],
+    correct: 1,
+    explanation: "As per DA-262 notes: The files with the extension of either .COM or .EXE are called executable files."
+  },
+  {
+    id: "d262l_107",
+    subject: "da-262",
+    lecture: "lecture-4",
+    lectureNo: 4,
+    question: "In a spreadsheet, the intersection of a row and a column is known as a:",
+    options: ["Range", "Sheet", "Cell", "Field"],
+    correct: 2,
+    explanation: "As per DA-262 notes: An intersection of a row and a column is known as a cell."
+  },
+  {
+    id: "d262l_108",
+    subject: "da-262",
+    lecture: "lecture-5",
+    lectureNo: 5,
+    question: "In MS-Excel, a document (the whole file) is called a:",
+    options: ["Worksheet", "Cell", "Database", "Workbook"],
+    correct: 3,
+    explanation: "As per DA-262 notes: An Excel document is called a workbook, which contains worksheets made up of cells."
+  }
 ];
