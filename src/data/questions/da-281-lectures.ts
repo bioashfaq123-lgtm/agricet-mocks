@@ -1937,7 +1937,6 @@ export const da281LectureQuestions: Question[] = [
     explanation: "Late blight of potato and tomato is caused by Phytophthora infestans, an oomycete (water mould). It was responsible for the Irish Potato Famine (1845-49). It thrives in cool, moist conditions. Early blight is caused by Alternaria solani. Mancozeb and metalaxyl are used for management.",
     difficulty: "easy"
   },
-] as Question[,
   {
     id: "d281l_202",
     subject: "da-281",
