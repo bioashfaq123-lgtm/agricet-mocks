@@ -476,7 +476,7 @@ export default function GrandTestPage() {
             </div>
 
             {/* Question text */}
-            <p className="text-gray-900 font-semibold text-base sm:text-lg leading-relaxed mb-3">
+            <p className="text-gray-900 font-semibold text-base sm:text-lg leading-relaxed mb-3 whitespace-pre-line">
               {current?.question}
             </p>
 

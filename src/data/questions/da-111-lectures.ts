@@ -491,7 +491,7 @@ export const da111LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Polygenic inheritance (quantitative traits) differs from Mendelian traits because:",
-    options: ["The trait shows only two discrete phenotypic classes", "The environment has no effect on phenotype expression", "Multiple genes each contributing a small additive effect control the trait", "Only one gene controls the trait with complete dominance"],
+    options: ["The trait shows only two or three discrete phenotypic classes", "The surrounding environment has no effect at all on phenotype expression", "Multiple genes each contributing a small additive effect control the trait", "Only a single gene controls the trait showing complete dominance"],
     correct: 2,
     explanation: "Polygenic (quantitative) traits are controlled by multiple genes each contributing a small additive effect, often influenced by environment. They show continuous variation (bell-curve distribution) rather than discrete Mendelian ratios. Examples: yield, height, oil content."
   },
@@ -642,7 +642,7 @@ export const da111LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "The main limitation of the pure line selection method is:",
-    options: ["It cannot create new genetic variability; it can only exploit existing variation", "It requires expensive laboratory equipment for implementation", "It cannot be applied to self-pollinated crop species", "It takes only 3 years which is too short for thorough evaluation"],
+    options: ["It cannot create new genetic variability; it can only exploit existing variation", "It requires costly laboratory equipment and tissue culture facilities", "It cannot be applied at all to self-pollinated crop species", "It takes only 3 years which is too short for thorough evaluation"],
     correct: 0,
     explanation: "The main limitation of pure line selection is that it cannot create new genetic variability — it can only identify and fix superior genotypes already present in the base population. Once all superior pure lines are identified, further progress stops without new crosses."
   },
@@ -753,7 +753,7 @@ export const da111LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Reciprocal recurrent selection (RRS) is designed to improve:",
-    options: ["Resistance to a specific disease in one target population", "Both general combining ability and specific combining ability simultaneously", "Vegetative vigor and seed yield in open-pollinated varieties", "Additive genetic variance within a single breed or population"],
+    options: ["Resistance to one specific disease within a single target population", "Both general combining ability and specific combining ability simultaneously", "Vegetative vigor and seed yield in open-pollinated varieties", "Additive genetic variance within a single breed or population"],
     correct: 1,
     explanation: "Reciprocal Recurrent Selection (RRS) improves both GCA (additive effects) and SCA (dominance and epistatic effects) simultaneously by selecting in two populations for their combining ability with each other. Useful for improving cross-pollinated crops."
   },
@@ -1146,7 +1146,7 @@ export const da111LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "The colour of the certification tag issued for Certified seed is:",
-    options: ["Blue (azure blue, ISI shade 104) — issued by certification agency", "Opal green — issued as truthfully labelled seed", "White — issued by the Seed Certification Agency", "Golden yellow — issued by the producing agency"],
+    options: ["Blue (azure blue, ISI shade 104) — issued by certification agency", "Opal green — issued for the truthfully labelled seed class", "White — issued by the agency for the foundation seed class", "Golden yellow — issued by the producing agency for breeder seed"],
     correct: 0,
     explanation: "The Seed Certification Agency issues a blue (azure blue, ISI shade No. 104) colour tag for Certified seed. Certified seed has a minimum genetic purity of 99% and is the class sold directly to farmers for crop production."
   },
@@ -1850,7 +1850,7 @@ export const da111LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "In double fertilization in angiosperms, the endosperm is formed by the fusion of:",
-    options: ["Two sperm nuclei together", "Egg + polar nuclei", "Egg + one sperm nucleus", "Second sperm + diploid polar nuclei (central cell)"],
+    options: ["Both male sperm nuclei fusing with each other", "Egg cell fusing directly with the two polar nuclei", "Egg cell with one of the two male sperm nuclei", "Second sperm + diploid polar nuclei (central cell)"],
     correct: 3,
     explanation: "As per DA-111 notes: In double fertilization, the second sperm fuses with the diploid central cell (two polar nuclei fused) to form the triploid endosperm."
   },
@@ -1910,7 +1910,7 @@ export const da111LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Backcross breeding is used mainly for:",
-    options: ["Developing new crop species", "Inducing mutations", "Transferring one or few genes into an adapted variety", "Creating all new genetic combinations"],
+    options: ["Developing an entirely new crop species by polyploidy", "Inducing useful mutations using gamma irradiation", "Transferring one or few genes into an adapted variety", "Creating entirely new genetic recombinations at random"],
     correct: 2,
     explanation: "As per DA-111 notes: Backcross breeding is used for transferring one or a few genes (like disease resistance) into an already adapted variety without changing other characteristics."
   },
@@ -1920,7 +1920,7 @@ export const da111LectureQuestions: Question[] = [
     lecture: "lecture-11",
     lectureNo: 11,
     question: "Mutation breeding uses which type of agents to induce mutations?",
-    options: ["Temperature extremes only", "Natural selection only", "Hormones only", "Physical (X-rays, gamma rays) and chemical (EMS, colchicine) mutagens"],
+    options: ["Only high temperature and drought stress during growth", "Natural selection acting over many generations only", "Growth hormones such as auxins and cytokinins only", "Physical (X-rays, gamma rays) and chemical (EMS, colchicine) mutagens"],
     correct: 3,
     explanation: "As per DA-111 notes: Mutation breeding uses physical mutagens (X-rays, gamma rays) and chemical mutagens (EMS, colchicine) to induce mutations and create genetic variability."
   },
@@ -1940,7 +1940,7 @@ export const da111LectureQuestions: Question[] = [
     lecture: "lecture-13",
     lectureNo: 13,
     question: "Tissue culture in plant breeding is used for:",
-    options: ["Weather forecasting", "Rapid multiplication, production of disease-free plants, and haploid production", "Only disease diagnosis", "Chemical analysis of plants"],
+    options: ["Long-range seasonal weather forecasting for sowing", "Rapid multiplication, production of disease-free plants, and haploid production", "Field diagnosis of insect pests and fungal diseases", "Quantitative chemical analysis of soil and plant tissue"],
     correct: 1,
     explanation: "As per DA-111 notes: Tissue culture is used for rapid multiplication, production of disease-free plants, haploid production via anther culture, and somatic hybridization."
   },
@@ -1970,7 +1970,7 @@ export const da111LectureQuestions: Question[] = [
     lecture: "lecture-16",
     lectureNo: 16,
     question: "Genetic erosion refers to:",
-    options: ["Reduction in crop area due to urbanization under field conditions", "Mutation-induced loss of genetic information in agriculture", "Loss of genetic diversity due to replacement of traditional varieties by modern varieties", "Physical erosion of soil reducing crop production for crop production"],
+    options: ["Reduction in total cultivated crop area caused by rapid urbanization", "Loss of stored seed viability inside genebanks due to poor storage", "Loss of genetic diversity due to replacement of traditional varieties by modern varieties", "Physical washing away of fertile topsoil by wind and water erosion"],
     correct: 2,
     explanation: "As per DA-111 notes: Genetic erosion refers to the loss of genetic diversity when traditional varieties are replaced by modern high-yielding varieties. Conservation of genetic diversity through gene banks is important."
   },
@@ -1980,7 +1980,7 @@ export const da111LectureQuestions: Question[] = [
     lecture: "lecture-17",
     lectureNo: 17,
     question: "A germplasm collection is maintained to:",
-    options: ["Test herbicides on different varieties", "Preserve genetic diversity and provide material for breeding programs", "Measure productivity of different varieties", "Produce commercial seeds only"],
+    options: ["Test the effect of new herbicides on different crop varieties", "Preserve genetic diversity and provide material for breeding programs", "Measure and rank the productivity of released crop varieties", "Multiply and supply commercial certified seed to farmers"],
     correct: 1,
     explanation: "As per DA-111 notes: Germplasm collections (gene banks) are maintained to preserve genetic diversity and provide breeding material for crop improvement programs."
   },
@@ -1990,7 +1990,7 @@ export const da111LectureQuestions: Question[] = [
     lecture: "lecture-18",
     lectureNo: 18,
     question: "Which organisation in India is responsible for plant variety protection?",
-    options: ["NSC", "Protection of Plant Varieties and Farmers Rights Authority (PPV&FRA)", "ICAR", "NBPGR"],
+    options: ["National Seeds Corporation (NSC), Government of India", "Protection of Plant Varieties and Farmers Rights Authority (PPV&FRA)", "Indian Council of Agricultural Research (ICAR), New Delhi", "National Bureau of Plant Genetic Resources (NBPGR)"],
     correct: 1,
     explanation: "As per DA-111 notes: The Protection of Plant Varieties and Farmers Rights Authority (PPV&FRA) under the PPV&FR Act 2001 is responsible for plant variety protection in India."
   },
@@ -2010,7 +2010,7 @@ export const da111LectureQuestions: Question[] = [
     lecture: "lecture-36",
     lectureNo: 36,
     question: "Nucleus seed is maintained by:",
-    options: ["Original breeder/plant breeder who developed the variety", "Farmers themselves", "National Seeds Corporation", "State Seed Corporation"],
+    options: ["Original breeder/plant breeder who developed the variety", "Registered progressive farmers in seed villages", "National Seeds Corporation through its regional units", "State Seed Corporation under the State Government"],
     correct: 0,
     explanation: "As per DA-111 notes: Nucleus seed is maintained by the original plant breeder who developed the variety. It is the source of all other seed classes."
   },
@@ -2130,7 +2130,7 @@ export const da111LectureQuestions: Question[] = [
     lecture: "lecture-46",
     lectureNo: 46,
     question: "Seed vigour refers to:",
-    options: ["The overall physical condition of seed", "Weight of seeds per unit volume", "Only germination percentage", "Potential of seeds for rapid, uniform germination and seedling emergence"],
+    options: ["The external physical appearance and colour of the seeds", "The bulk weight of a seed lot per unit storage volume", "Only the final germination percentage measured in the lab", "Potential of seeds for rapid, uniform germination and seedling emergence"],
     correct: 3,
     explanation: "As per DA-111 notes: Seed vigour refers to the sum total of properties that determine the potential for rapid, uniform germination and seedling development under a wide range of field conditions."
   },
@@ -2140,7 +2140,7 @@ export const da111LectureQuestions: Question[] = [
     lecture: "lecture-47",
     lectureNo: 47,
     question: "Seed priming involves:",
-    options: ["Storing seeds at high temperature", "Mechanical scarification of seeds", "Controlled hydration of seeds to pre-germination stage without radicle emergence", "Coating seeds with fungicides"],
+    options: ["Storing seeds at high temperature to break seed dormancy", "Mechanical scarification of hard seed coats before sowing", "Controlled hydration of seeds to pre-germination stage without radicle emergence", "Coating seeds with protective fungicides before sowing them"],
     correct: 2,
     explanation: "As per DA-111 notes: Seed priming involves controlled hydration of seeds to allow pre-germinative metabolic processes to occur without radicle protrusion, improving germination speed and uniformity."
   },
@@ -2230,7 +2230,7 @@ export const da111LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Phytoremediation is the use of plants to:",
-    options: ["Produce medicinal compounds", "Control weeds naturally", "Improve soil organic matter", "Remove toxic substances from soil and water"],
+    options: ["Produce valuable medicinal and aromatic compounds", "Suppress weed growth in cropped fields naturally", "Improve soil organic matter and microbial activity", "Remove toxic substances from soil and water"],
     correct: 3,
     explanation: "As per DA-111 notes: Phytoremediation involves using plants to remove, degrade, or contain toxic substances (heavy metals, pollutants) from contaminated soil and water."
   },

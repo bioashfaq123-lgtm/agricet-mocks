@@ -1093,7 +1093,7 @@ export const da111Questions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "In double fertilization in angiosperms, the endosperm is formed by the fusion of:",
-    options: ["Egg + one sperm nucleus", "Second sperm + diploid polar nuclei (central cell)", "Egg + polar nuclei", "Two sperm nuclei together"],
+    options: ["Egg cell with one of the two male sperm nuclei", "Second sperm + diploid polar nuclei (central cell)", "Egg cell fusing directly with the two polar nuclei", "Both male sperm nuclei fusing with each other"],
     correct: 1,
     explanation: "As per DA-111 notes: In double fertilization, the second sperm fuses with the diploid central cell (two polar nuclei fused) to form the triploid endosperm."
   },
@@ -1153,7 +1153,7 @@ export const da111Questions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Backcross breeding is used mainly for:",
-    options: ["Inducing mutations", "Creating all new genetic combinations", "Developing new crop species", "Transferring one or few genes into an adapted variety"],
+    options: ["Inducing useful mutations using gamma irradiation", "Creating entirely new genetic recombinations at random", "Developing an entirely new crop species by polyploidy", "Transferring one or few genes into an adapted variety"],
     correct: 3,
     explanation: "As per DA-111 notes: Backcross breeding is used for transferring one or a few genes (like disease resistance) into an already adapted variety without changing other characteristics."
   },
@@ -1163,7 +1163,7 @@ export const da111Questions: Question[] = [
     lecture: "lecture-11",
     lectureNo: 11,
     question: "Mutation breeding uses which type of agents to induce mutations?",
-    options: ["Temperature extremes only", "Hormones only", "Physical (X-rays, gamma rays) and chemical (EMS, colchicine) mutagens", "Natural selection only"],
+    options: ["Only high temperature and drought stress during growth", "Growth hormones such as auxins and cytokinins only", "Physical (X-rays, gamma rays) and chemical (EMS, colchicine) mutagens", "Natural selection acting over many generations only"],
     correct: 2,
     explanation: "As per DA-111 notes: Mutation breeding uses physical mutagens (X-rays, gamma rays) and chemical mutagens (EMS, colchicine) to induce mutations and create genetic variability."
   },
@@ -1183,7 +1183,7 @@ export const da111Questions: Question[] = [
     lecture: "lecture-13",
     lectureNo: 13,
     question: "Tissue culture in plant breeding is used for:",
-    options: ["Weather forecasting", "Chemical analysis of plants", "Only disease diagnosis", "Rapid multiplication, production of disease-free plants, and haploid production"],
+    options: ["Long-range seasonal weather forecasting for sowing", "Quantitative chemical analysis of soil and plant tissue", "Field diagnosis of insect pests and fungal diseases", "Rapid multiplication, production of disease-free plants, and haploid production"],
     correct: 3,
     explanation: "As per DA-111 notes: Tissue culture is used for rapid multiplication, production of disease-free plants, haploid production via anther culture, and somatic hybridization."
   },
@@ -1213,7 +1213,7 @@ export const da111Questions: Question[] = [
     lecture: "lecture-16",
     lectureNo: 16,
     question: "Genetic erosion refers to:",
-    options: ["Loss of genetic diversity due to replacement of traditional varieties by modern varieties", "Physical erosion of soil reducing crop production in crop production", "Reduction in crop area due to urbanization in field conditions", "Mutation-induced loss of genetic information for agricultural purposes"],
+    options: ["Loss of genetic diversity due to replacement of traditional varieties by modern varieties", "Physical washing away of fertile topsoil by wind and water erosion", "Reduction in total cultivated crop area caused by rapid urbanization", "Loss of stored seed viability inside genebanks due to poor storage"],
     correct: 0,
     explanation: "As per DA-111 notes: Genetic erosion refers to the loss of genetic diversity when traditional varieties are replaced by modern high-yielding varieties. Conservation of genetic diversity through gene banks is important."
   },
@@ -1223,7 +1223,7 @@ export const da111Questions: Question[] = [
     lecture: "lecture-17",
     lectureNo: 17,
     question: "A germplasm collection is maintained to:",
-    options: ["Test herbicides on different varieties", "Measure productivity of different varieties", "Produce commercial seeds only", "Preserve genetic diversity and provide material for breeding programs"],
+    options: ["Test the effect of new herbicides on different crop varieties", "Measure and rank the productivity of released crop varieties", "Multiply and supply commercial certified seed to farmers", "Preserve genetic diversity and provide material for breeding programs"],
     correct: 3,
     explanation: "As per DA-111 notes: Germplasm collections (gene banks) are maintained to preserve genetic diversity and provide breeding material for crop improvement programs."
   },
@@ -1233,7 +1233,7 @@ export const da111Questions: Question[] = [
     lecture: "lecture-18",
     lectureNo: 18,
     question: "Which organisation in India is responsible for plant variety protection?",
-    options: ["ICAR", "Protection of Plant Varieties and Farmers Rights Authority (PPV&FRA)", "NBPGR", "NSC"],
+    options: ["Indian Council of Agricultural Research (ICAR), New Delhi", "Protection of Plant Varieties and Farmers Rights Authority (PPV&FRA)", "National Bureau of Plant Genetic Resources (NBPGR)", "National Seeds Corporation (NSC), Government of India"],
     correct: 1,
     explanation: "As per DA-111 notes: The Protection of Plant Varieties and Farmers Rights Authority (PPV&FRA) under the PPV&FR Act 2001 is responsible for plant variety protection in India."
   },
@@ -1253,7 +1253,7 @@ export const da111Questions: Question[] = [
     lecture: "lecture-36",
     lectureNo: 36,
     question: "Nucleus seed is maintained by:",
-    options: ["State Seed Corporation", "National Seeds Corporation", "Original breeder/plant breeder who developed the variety", "Farmers themselves"],
+    options: ["State Seed Corporation under the State Government", "National Seeds Corporation through its regional units", "Original breeder/plant breeder who developed the variety", "Registered progressive farmers in seed villages"],
     correct: 2,
     explanation: "As per DA-111 notes: Nucleus seed is maintained by the original plant breeder who developed the variety. It is the source of all other seed classes."
   },
@@ -1373,7 +1373,7 @@ export const da111Questions: Question[] = [
     lecture: "lecture-46",
     lectureNo: 46,
     question: "Seed vigour refers to:",
-    options: ["Only germination percentage", "Weight of seeds per unit volume", "Potential of seeds for rapid, uniform germination and seedling emergence", "The overall physical condition of seed"],
+    options: ["Only the final germination percentage measured in the lab", "The bulk weight of a seed lot per unit storage volume", "Potential of seeds for rapid, uniform germination and seedling emergence", "The external physical appearance and colour of the seeds"],
     correct: 2,
     explanation: "As per DA-111 notes: Seed vigour refers to the sum total of properties that determine the potential for rapid, uniform germination and seedling development under a wide range of field conditions."
   },
@@ -1383,7 +1383,7 @@ export const da111Questions: Question[] = [
     lecture: "lecture-47",
     lectureNo: 47,
     question: "Seed priming involves:",
-    options: ["Coating seeds with fungicides", "Storing seeds at high temperature", "Controlled hydration of seeds to pre-germination stage without radicle emergence", "Mechanical scarification of seeds"],
+    options: ["Coating seeds with protective fungicides before sowing them", "Storing seeds at high temperature to break seed dormancy", "Controlled hydration of seeds to pre-germination stage without radicle emergence", "Mechanical scarification of hard seed coats before sowing"],
     correct: 2,
     explanation: "As per DA-111 notes: Seed priming involves controlled hydration of seeds to allow pre-germinative metabolic processes to occur without radicle protrusion, improving germination speed and uniformity."
   },
@@ -1473,7 +1473,7 @@ export const da111Questions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Phytoremediation is the use of plants to:",
-    options: ["Produce medicinal compounds", "Remove toxic substances from soil and water", "Improve soil organic matter", "Control weeds naturally"],
+    options: ["Produce valuable medicinal and aromatic compounds", "Remove toxic substances from soil and water", "Improve soil organic matter and microbial activity", "Suppress weed growth in cropped fields naturally"],
     correct: 1,
     explanation: "As per DA-111 notes: Phytoremediation involves using plants to remove, degrade, or contain toxic substances (heavy metals, pollutants) from contaminated soil and water."
   },
@@ -1783,7 +1783,7 @@ export const da111Questions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Breeder seed in the seed production chain is produced by:",
-    options: ["State seed corporations under government supervision", "The original plant breeder or designated institution under direct supervision of the breeder", "Certified seed producers registered with NSC", "Farmers selected by the State Agriculture Department"],
+    options: ["State seed corporations operating under direct government supervision", "The original plant breeder or designated institution under direct supervision of the breeder", "Certified seed producers registered and licensed with the NSC", "Progressive farmers specially selected by the State Agriculture Department"],
     correct: 1,
     explanation: "Breeder seed is produced by or under the direct supervision of the plant breeder (agricultural university or research institution) who developed the variety. It is the progeny of nucleus seed and is the source for foundation seed production. It has the highest genetic purity.",
     difficulty: "medium"
@@ -1794,7 +1794,7 @@ export const da111Questions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "A test cross in genetics (crossing a dominant-phenotype individual with a homozygous recessive parent) is used to:",
-    options: ["Produce commercial hybrid seed for farmers", "Determine whether the dominant-phenotype individual is homozygous (AA) or heterozygous (Aa)", "Increase heterozygosity of the breeding population", "Estimate general combining ability (GCA) of inbred lines"],
+    options: ["Produce large quantities of commercial hybrid seed for farmers", "Determine whether the dominant-phenotype individual is homozygous (AA) or heterozygous (Aa)", "Increase the overall heterozygosity of the entire breeding population", "Estimate the general combining ability (GCA) of selected inbred lines"],
     correct: 1,
     explanation: "A test cross (dominant phenotype × homozygous recessive aabb...) reveals the genotype of the dominant parent. If progeny ratio is 1:1 (dominant:recessive), the tested parent is heterozygous (Aa); if all progeny show dominant phenotype, the tested parent is homozygous (AA).",
     difficulty: "hard"

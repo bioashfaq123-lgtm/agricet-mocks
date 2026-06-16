@@ -114,7 +114,7 @@ export default function DemoPage() {
             <span className="text-gray-400 text-sm">of {questions.length} — Agronomy Demo</span>
           </div>
 
-          <p className="text-gray-900 font-medium text-lg leading-relaxed mb-6">{current?.question}</p>
+          <p className="text-gray-900 font-medium text-lg leading-relaxed mb-6 whitespace-pre-line">{current?.question}</p>
 
           <div className="space-y-3">
             {current?.options.map((opt, idx) => {

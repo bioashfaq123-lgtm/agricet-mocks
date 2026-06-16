@@ -135,7 +135,7 @@ export default function PreviousYearTestPage() {
             <span className="badge bg-blue-100 text-blue-700 text-xs ml-2">{current?.subject}</span>
           </div>
 
-          <p className="text-gray-900 font-medium text-lg leading-relaxed mb-6">{current?.question}</p>
+          <p className="text-gray-900 font-medium text-lg leading-relaxed mb-6 whitespace-pre-line">{current?.question}</p>
 
           {/* correct === -1 means answer key not yet available (review-only mode) */}
           {(() => {

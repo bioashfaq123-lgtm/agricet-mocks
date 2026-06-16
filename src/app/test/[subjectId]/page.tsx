@@ -219,7 +219,7 @@ export default function TestPage() {
               <span className="text-gray-400 text-sm">of {questions.length}</span>
             </div>
 
-            <p className="text-gray-900 font-medium text-base md:text-lg leading-relaxed mb-6">
+            <p className="text-gray-900 font-medium text-base md:text-lg leading-relaxed mb-6 whitespace-pre-line">
               {current?.question}
             </p>
 
