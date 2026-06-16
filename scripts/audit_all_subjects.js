@@ -64,8 +64,9 @@ for (const f of files) {
     }
     if (altIdx !== -1) {
       totalFlags++;
+      const optLines = q.opts.map((o, i) => `        ${i === q.correct ? ">>" : "  "}${i}: ${o}`).join("\n");
       (flagsBySubject[f] = flagsBySubject[f] || []).push(
-        `[${q.id}] ${q.q.slice(0,55)}\n      cur[${q.correct}]: ${opt.slice(0,45)}\n      alt[${altIdx}]: ${q.opts[altIdx].slice(0,45)}\n      exp: ${q.expl.slice(0,90)}`);
+        `[${q.id}] ${q.q}\n${optLines}\n      EXP: ${q.expl}`);
     }
   }
 }

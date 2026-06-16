@@ -1901,5 +1901,185 @@ export const da262LectureQuestions: Question[] = [
     options: ["Worksheet", "Cell", "Database", "Workbook"],
     correct: 3,
     explanation: "As per DA-262 notes: An Excel document is called a workbook, which contains worksheets made up of cells."
+  },
+  {
+    id: "d262l_109",
+    subject: "da-262",
+    lecture: "lecture-8",
+    lectureNo: 8,
+    question: "A computer network confined to a single location such as a single building or office is called a:",
+    options: ["Local Area Network (LAN)", "Wide Area Network (WAN)", "Metropolitan Area Network (MAN)", "Internet"],
+    correct: 0,
+    explanation: "As per DA-262 notes: If a network is confined to a single location, typically a building, it is called a Local Area Network (LAN)."
+  },
+  {
+    id: "d262l_110",
+    subject: "da-262",
+    lecture: "lecture-8",
+    lectureNo: 8,
+    question: "A network spread over wide areas such as cities, states or countries is called a:",
+    options: ["Local Area Network (LAN)", "Wide Area Network (WAN)", "Personal Area Network (PAN)", "Campus Area Network"],
+    correct: 1,
+    explanation: "As per DA-262 notes: When a network is located over wide areas such as cities, states, countries it is called a Wide Area Network (WAN)."
+  },
+  {
+    id: "d262l_111",
+    subject: "da-262",
+    lecture: "lecture-8",
+    lectureNo: 8,
+    question: "A network that is larger than a LAN and typically spans a city is called a:",
+    options: ["Wide Area Network (WAN)", "Local Area Network (LAN)", "Metropolitan Area Network (MAN)", "Home Area Network"],
+    correct: 2,
+    explanation: "As per DA-262 notes: A Metropolitan Area Network (MAN) is a network that is larger than a LAN, typically covering a city or metropolitan area."
+  },
+  {
+    id: "d262l_112",
+    subject: "da-262",
+    lecture: "lecture-8",
+    lectureNo: 8,
+    question: "In computer networking, TCP/IP stands for:",
+    options: ["Transfer Control Protocol / Internet Provider", "Total Communication Protocol / Internet Program", "Terminal Control Program / Internet Path", "Transmission Control Protocol / Internet Protocol"],
+    correct: 3,
+    explanation: "As per DA-262 notes: TCP/IP stands for Transmission Control Protocol / Internet Protocol, the basic communication protocol of the Internet."
+  },
+  {
+    id: "d262l_113",
+    subject: "da-262",
+    lecture: "lecture-8",
+    lectureNo: 8,
+    question: "The World Wide Web (WWW) uses which protocol for transferring web pages?",
+    options: ["HTTP (Hyper Text Transfer Protocol)", "SMTP (Simple Mail Transfer Protocol)", "TCP (Transmission Control Protocol)", "FTP (File Transfer Protocol)"],
+    correct: 0,
+    explanation: "As per DA-262 notes: The WWW supports a protocol called HTTP (Hyper Text Transfer Protocol) used to transfer web pages on the World Wide Web."
+  },
+  {
+    id: "d262l_114",
+    subject: "da-262",
+    lecture: "lecture-8",
+    lectureNo: 8,
+    question: "The peripheral device that allows a computer to connect and communicate over telephone lines by converting digital and analog signals is a:",
+    options: ["Scanner", "Modem", "Plotter", "Router switch"],
+    correct: 1,
+    explanation: "As per DA-262 notes: A modem is a peripheral device that allows a computer to connect and communicate (over telephone lines) by modulating and demodulating digital and analog signals."
+  },
+  {
+    id: "d262l_115",
+    subject: "da-262",
+    lecture: "lecture-9",
+    lectureNo: 9,
+    question: "In agriculture, GIS stands for:",
+    options: ["Global Information Service", "Grid Imaging Software", "Geographic Information System", "General Internet Server"],
+    correct: 2,
+    explanation: "As per DA-262 syllabus: GIS stands for Geographic Information System, a computer system used to capture, store, analyse and display spatial/geographic data for applications like soil and crop mapping."
+  },
+  {
+    id: "d262l_116",
+    subject: "da-262",
+    lecture: "lecture-9",
+    lectureNo: 9,
+    question: "Acquiring information about the earth's surface (crops, soil, water) without being in physical contact with it, usually through satellites, is called:",
+    options: ["Tele-conferencing", "Data mining", "Word processing", "Remote sensing"],
+    correct: 3,
+    explanation: "As per DA-262 syllabus: Remote sensing is the science of acquiring information about objects on the earth's surface without being in physical contact, commonly using satellites and aerial sensors in agriculture."
+  },
+  {
+    id: "d262l_117",
+    subject: "da-262",
+    lecture: "lecture-9",
+    lectureNo: 9,
+    question: "The satellite-based system used to determine precise location (latitude/longitude) for precision farming is:",
+    options: ["GPS (Global Positioning System)", "LAN", "HTTP", "RAM"],
+    correct: 0,
+    explanation: "As per DA-262 syllabus: GPS (Global Positioning System) is a satellite-based navigation system that provides precise location, used in precision agriculture for site-specific field operations."
+  },
+  {
+    id: "d262l_118",
+    subject: "da-262",
+    lecture: "lecture-9",
+    lectureNo: 9,
+    question: "e-NAM, the online trading platform for agricultural commodities in India, stands for electronic:",
+    options: ["National Animal Management", "National Agriculture Market", "Network of Agri Machinery", "New Agricultural Mission"],
+    correct: 1,
+    explanation: "As per DA-262 syllabus: e-NAM stands for electronic National Agriculture Market, a pan-India electronic trading portal (launched 2016) that networks agricultural produce market committees (APMCs)."
+  },
+  {
+    id: "d262l_119",
+    subject: "da-262",
+    lecture: "lecture-9",
+    lectureNo: 9,
+    question: "Site-specific crop management that uses GPS, GIS and remote sensing to apply inputs precisely where needed is called:",
+    options: ["Subsistence farming", "Shifting cultivation", "Precision agriculture", "Mixed farming"],
+    correct: 2,
+    explanation: "As per DA-262 syllabus: Precision agriculture (precision farming) uses information technology such as GPS, GIS and remote sensing to manage spatial variability and apply inputs precisely, improving efficiency."
+  },
+  {
+    id: "d262l_120",
+    subject: "da-262",
+    lecture: "lecture-9",
+    lectureNo: 9,
+    question: "A spreadsheet package like MS-Excel is widely used in agriculture mainly for:",
+    options: ["Designing irrigation pumps", "Controlling tractor engines", "Spraying pesticides", "Storing, calculating and analysing farm data"],
+    correct: 3,
+    explanation: "As per DA-262 syllabus: Spreadsheet software (MS-Excel) is used in agriculture to store, calculate and analyse farm data such as yields, costs and inputs using formulas, functions and charts."
+  },
+  {
+    id: "d262l_121",
+    subject: "da-262",
+    lecture: "lecture-10",
+    lectureNo: 10,
+    question: "In emerging technologies, AI stands for:",
+    options: ["Artificial Intelligence", "Automated Internet", "Advanced Information", "Analog Interface"],
+    correct: 0,
+    explanation: "As per DA-262 syllabus: AI stands for Artificial Intelligence — the capability of machines to perform tasks that normally require human intelligence, increasingly applied in agriculture for disease detection and decision support."
+  },
+  {
+    id: "d262l_122",
+    subject: "da-262",
+    lecture: "lecture-10",
+    lectureNo: 10,
+    question: "The network of physical devices and sensors connected to the internet to collect and exchange data, used in smart farming, is called:",
+    options: ["Read Only Memory", "Internet of Things (IoT)", "Local Area Network", "Operating System"],
+    correct: 1,
+    explanation: "As per DA-262 syllabus: IoT (Internet of Things) is a network of internet-connected sensors and devices that collect and exchange data, used in smart/precision farming for monitoring soil moisture, weather and crops."
+  },
+  {
+    id: "d262l_123",
+    subject: "da-262",
+    lecture: "lecture-10",
+    lectureNo: 10,
+    question: "Unmanned aerial vehicles (UAVs) increasingly used in agriculture for crop monitoring and spraying are commonly known as:",
+    options: ["Routers", "Modems", "Drones", "Servers"],
+    correct: 2,
+    explanation: "As per DA-262 syllabus: Drones (UAVs - unmanned aerial vehicles) are used in agriculture for aerial crop monitoring, mapping, and spraying of fertilizers and pesticides."
+  },
+  {
+    id: "d262l_124",
+    subject: "da-262",
+    lecture: "lecture-10",
+    lectureNo: 10,
+    question: "Machine Learning (ML), used in agricultural prediction models, is best described as a subset of:",
+    options: ["Word processing", "Computer hardware", "Spreadsheet software", "Artificial Intelligence"],
+    correct: 3,
+    explanation: "As per DA-262 syllabus: Machine Learning (ML) is a subset of Artificial Intelligence in which computer systems learn patterns from data to make predictions, used in agriculture for yield and pest forecasting."
+  },
+  {
+    id: "d262l_125",
+    subject: "da-262",
+    lecture: "lecture-10",
+    lectureNo: 10,
+    question: "Large and complex data sets analysed to reveal patterns and trends (e.g., for agricultural decision-making) are referred to as:",
+    options: ["Big Data", "Floppy disk", "Megabyte", "Cache memory"],
+    correct: 0,
+    explanation: "As per DA-262 syllabus: Big Data refers to extremely large and complex data sets that are analysed computationally to reveal patterns and trends, supporting data-driven decisions in agriculture."
+  },
+  {
+    id: "d262l_126",
+    subject: "da-262",
+    lecture: "lecture-10",
+    lectureNo: 10,
+    question: "Satellite and drone imagery analysed over time to monitor crop health relies mainly on the technology of:",
+    options: ["Word processing", "Remote sensing", "Disk formatting", "Keyboarding"],
+    correct: 1,
+    explanation: "As per DA-262 syllabus: Remote sensing using satellite and drone imagery is used to monitor crop health, vigour and stress over time through analysis of reflected radiation (e.g., NDVI)."
   }
 ];

@@ -1526,8 +1526,8 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_203",
     subject: "da-263",
-    lecture: "lecture-2",
-    lectureNo: 2,
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "Nouns which we can count (e.g., book, pen, boy) are called:",
     options: ["Abstract nouns", "Material nouns", "Countable (count) nouns", "Collective nouns"],
     correct: 2,
@@ -1536,8 +1536,8 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_204",
     subject: "da-263",
-    lecture: "lecture-2",
-    lectureNo: 2,
+    lecture: "lecture-5",
+    lectureNo: 5,
     question: "When the actual words of a speaker are reported within quotation marks, it is called:",
     options: ["Indirect speech", "Reported speech", "Passive voice", "Direct speech"],
     correct: 3,
@@ -1546,8 +1546,8 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_205",
     subject: "da-263",
-    lecture: "lecture-3",
-    lectureNo: 3,
+    lecture: "lecture-4",
+    lectureNo: 4,
     question: "In the sentence 'Penicillin was discovered by Alexander Fleming', the scientist credited with the discovery is:",
     options: ["Alexander Fleming", "John Baird", "Lewis Waterman", "Edward Jenner"],
     correct: 0,
@@ -1556,8 +1556,8 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_206",
     subject: "da-263",
-    lecture: "lecture-3",
-    lectureNo: 3,
+    lecture: "lecture-4",
+    lectureNo: 4,
     question: "As per the passive-voice example in the notes, Television was invented by:",
     options: ["Thomas Edison", "John Baird", "Alexander Fleming", "Graham Bell"],
     correct: 1,
@@ -1566,11 +1566,51 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_207",
     subject: "da-263",
-    lecture: "lecture-3",
-    lectureNo: 3,
+    lecture: "lecture-4",
+    lectureNo: 4,
     question: "According to the notes, the Fountain pen was invented in 1884 by:",
     options: ["John Baird", "Alexander Fleming", "Waterman", "Biro"],
     correct: 2,
     explanation: "As per DA-263 notes (passive voice example): Waterman invented the Fountain pen in 1884; i.e., the fountain pen was invented by Waterman in 1884."
+  },
+  {
+    id: "d263l_208",
+    subject: "da-263",
+    lecture: "lecture-4",
+    lectureNo: 4,
+    question: "Convert to passive voice: 'Shah Jehan built the Taj Mahal.' The correct passive form is:",
+    options: ["The Taj Mahal was built by Shah Jehan", "The Taj Mahal is building by Shah Jehan", "Shah Jehan was built the Taj Mahal", "The Taj Mahal has build by Shah Jehan"],
+    correct: 0,
+    explanation: "As per DA-263 notes (passive voice): 'Shah Jehan built the Taj Mahal' becomes 'The Taj Mahal was built by Shah Jehan' in the passive voice."
+  },
+  {
+    id: "d263l_209",
+    subject: "da-263",
+    lecture: "lecture-4",
+    lectureNo: 4,
+    question: "In the passive sentence 'The Guide was written by R.K. Narayan', the subject of the active voice would be:",
+    options: ["The Guide", "The reader", "A publisher", "R.K. Narayan"],
+    correct: 3,
+    explanation: "As per DA-263 notes (passive voice): 'The Guide was written by R.K. Narayan' — the agent (doer) is R.K. Narayan, who would be the subject in the active voice ('R.K. Narayan wrote The Guide')."
+  },
+  {
+    id: "d263l_210",
+    subject: "da-263",
+    lecture: "lecture-5",
+    lectureNo: 5,
+    question: "In direct speech, the exact words of the speaker are enclosed within:",
+    options: ["Brackets ( )", "Quotation marks", "Hyphens", "Full stops"],
+    correct: 1,
+    explanation: "As per DA-263 notes: In direct speech, the actual words spoken by a person are placed within quotation marks (\\\" \\\")."
+  },
+  {
+    id: "d263l_211",
+    subject: "da-263",
+    lecture: "lecture-5",
+    lectureNo: 5,
+    question: "When direct speech is changed to indirect speech after a reporting verb in the past tense, the tense of the reported verb is generally:",
+    options: ["Kept unchanged in present tense", "Changed to future tense", "Changed (back-shifted) to the past tense", "Removed completely"],
+    correct: 2,
+    explanation: "As per DA-263 notes: In indirect (reported) speech, after a verb of saying in the past tense, the reported verb is back-shifted — present tense changes to the corresponding past tense."
   }
 ];
