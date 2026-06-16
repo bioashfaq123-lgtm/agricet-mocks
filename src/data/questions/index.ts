@@ -42,28 +42,63 @@ import { da291LectureQuestions } from "./da-291-lectures";
 import { da262LectureQuestions } from "./da-262-lectures";
 import { da263LectureQuestions } from "./da-263-lectures";
 
+/**
+ * De-duplicate a combined question bank.
+ * The `dXXXx_` series exists in BOTH the main file and the lectures file
+ * (same id, options sometimes in a different order). Without de-duplication
+ * the same question appears twice in a test — and because the two copies can
+ * have the answer in a different position, it looks like the answer is wrong.
+ * We keep the FIRST occurrence (main-file copy, which carries the lecture tag)
+ * and drop later copies by id, then also drop any exact question-text repeats.
+ */
+function dedupe(questions: Question[]): Question[] {
+  // 1) Drop exact id duplicates (keep first occurrence).
+  const seenIds = new Set<string>();
+  const idDeduped: Question[] = [];
+  for (const q of questions) {
+    if (seenIds.has(q.id)) continue;
+    seenIds.add(q.id);
+    idDeduped.push(q);
+  }
+  // 2) Drop exact question-text repeats, but PREFER the copy carrying a
+  //    lecture tag so lecture-wise practice keeps the question.
+  const textIndex = new Map<string, number>();
+  const out: Question[] = [];
+  for (const q of idDeduped) {
+    const textKey = q.question.replace(/\s+/g, " ").trim().toLowerCase();
+    if (textIndex.has(textKey)) {
+      const idx = textIndex.get(textKey)!;
+      if (!out[idx].lecture && q.lecture) out[idx] = q; // upgrade to tagged copy
+      continue;
+    }
+    textIndex.set(textKey, out.length);
+    out.push(q);
+  }
+  return out;
+}
+
 export const ALL_QUESTIONS: Record<string, Question[]> = {
   // 15 PJTSAU Diploma syllabus subjects — combined 200 Qs + lecture Qs
-  "da-101": [...da101Questions, ...da101LectureQuestions],
-  "da-102": [...da102Questions, ...da102LectureQuestions],
-  "da-111": [...da111Questions, ...da111LectureQuestions],
-  "da-121": [...da121Questions, ...da121LectureQuestions],
-  "da-122": [...da122Questions, ...da122LectureQuestions],
-  "da-131": [...da131Questions, ...da131LectureQuestions],
-  "da-132": [...da132Questions, ...da132LectureQuestions],
-  "da-151": [...da151Questions, ...da151LectureQuestions],
-  "da-171": [...da171Questions, ...da171LectureQuestions],
-  "da-201": [...da201Questions, ...da201LectureQuestions],
-  "da-241": [...da241Questions, ...da241LectureQuestions],
-  "da-252": [...da252Questions, ...da252LectureQuestions],
-  "da-281": [...da281Questions, ...da281LectureQuestions],
-  "da-282": [...da282Questions, ...da282LectureQuestions],
-  "da-291": [...da291Questions, ...da291LectureQuestions],
+  "da-101": dedupe([...da101Questions, ...da101LectureQuestions]),
+  "da-102": dedupe([...da102Questions, ...da102LectureQuestions]),
+  "da-111": dedupe([...da111Questions, ...da111LectureQuestions]),
+  "da-121": dedupe([...da121Questions, ...da121LectureQuestions]),
+  "da-122": dedupe([...da122Questions, ...da122LectureQuestions]),
+  "da-131": dedupe([...da131Questions, ...da131LectureQuestions]),
+  "da-132": dedupe([...da132Questions, ...da132LectureQuestions]),
+  "da-151": dedupe([...da151Questions, ...da151LectureQuestions]),
+  "da-171": dedupe([...da171Questions, ...da171LectureQuestions]),
+  "da-201": dedupe([...da201Questions, ...da201LectureQuestions]),
+  "da-241": dedupe([...da241Questions, ...da241LectureQuestions]),
+  "da-252": dedupe([...da252Questions, ...da252LectureQuestions]),
+  "da-281": dedupe([...da281Questions, ...da281LectureQuestions]),
+  "da-282": dedupe([...da282Questions, ...da282LectureQuestions]),
+  "da-291": dedupe([...da291Questions, ...da291LectureQuestions]),
   // DA-262 / DA-263 — merged combined bank + old bank + lecture questions
-  "computer-applications": [...da262Questions, ...computerApplicationsQuestions, ...da262LectureQuestions],
-  "english-communication": [...da263Questions, ...englishCommunicationQuestions, ...da263LectureQuestions],
+  "computer-applications": dedupe([...da262Questions, ...computerApplicationsQuestions, ...da262LectureQuestions]),
+  "english-communication": dedupe([...da263Questions, ...englishCommunicationQuestions, ...da263LectureQuestions]),
   // General Agriculture
-  "general-agriculture": generalAgricultureQuestions,
+  "general-agriculture": dedupe(generalAgricultureQuestions),
 };
 
 export function getShuffledQuestions(subjectId: string, count = 50): Question[] {
