@@ -1825,5 +1825,75 @@ export const da171LectureQuestions: Question[] = [
     correct: 3,
     explanation: "IDM rationally integrates: resistant varieties, crop rotation, sanitation (cultural), bioagents like Trichoderma/Pseudomonas (biological), and targeted chemicals only when disease crosses economic thresholds — reducing chemical dependency and resistance.",
     difficulty: "medium"
+  },
+  {
+    id: "d171l_201",
+    subject: "da-171",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "When an entire leaf blade, bud or other plant part dies quickly as a whole, the symptom is known as:",
+    options: ["Blast", "Wilt", "Canker", "Mosaic"],
+    correct: 0,
+    explanation: "As per DA-171 notes: When the entire leaf blade, bud or other plant part is involved resulting in quick death of the part or plant as a whole, it is known as blast."
+  },
+  {
+    id: "d171l_202",
+    subject: "da-171",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "Smaller galls produced on plant parts, as in black wart of potato, are called:",
+    options: ["Pustules", "Warts", "Cankers", "Scabs"],
+    correct: 1,
+    explanation: "As per DA-171 notes: Smaller galls are called warts, e.g., black wart of potato."
+  },
+  {
+    id: "d171l_203",
+    subject: "da-171",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "The propagules of a pathogen that cause the initial (primary) infection in a crop are called the:",
+    options: ["Secondary inoculum", "Resting spores", "Primary inoculum", "Vector load"],
+    correct: 2,
+    explanation: "As per DA-171 notes: The initial infection occurring from the sources of pathogen survival is the primary infection, and the propagules that cause it are called the primary inoculum."
+  },
+  {
+    id: "d171l_204",
+    subject: "da-171",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "The transport of inoculum from one host to another at various distances, resulting in spread of disease, is called:",
+    options: ["Inoculation", "Penetration", "Colonization", "Dispersal of plant pathogens"],
+    correct: 3,
+    explanation: "As per DA-171 notes: The transport of inoculum from one host to another at various distances, resulting in the spread of disease, is called dispersal of plant pathogens."
+  },
+  {
+    id: "d171l_205",
+    subject: "da-171",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "Direct parasitism, lysis or death of a pathogen by another micro-organism while the pathogen is in its parasitic phase is known as:",
+    options: ["Hyperparasitism", "Antibiosis", "Competition", "Predation"],
+    correct: 0,
+    explanation: "As per DA-171 notes: Hyperparasitism is the direct parasitism or lysis and death of the pathogen by another micro-organism when the pathogen is in its parasitic phase."
+  },
+  {
+    id: "d171l_206",
+    subject: "da-171",
+    lecture: "lecture-4",
+    lectureNo: 4,
+    question: "Contact fungicides which kill the pathogen present on the host surface when it comes in contact with the host are called:",
+    options: ["Systemics", "Eradicants", "Protectants", "Antibiotics"],
+    correct: 2,
+    explanation: "As per DA-171 notes: Contact fungicides which kill the pathogen present on the host surface when it comes in contact with the host are called protectants."
+  },
+  {
+    id: "d171l_207",
+    subject: "da-171",
+    lecture: "lecture-4",
+    lectureNo: 4,
+    question: "For controlling sett-borne diseases of sugarcane, hot water treatment of setts is commonly done at:",
+    options: ["80 degrees C for 10 minutes", "52 degrees C for 30 minutes", "100 degrees C for 5 minutes", "30 degrees C for 2 hours"],
+    correct: 1,
+    explanation: "As per DA-171 notes: Hot water treatment of sugarcane setts at 52 degrees C for 30 minutes (followed by steeping in 0.1% carbendazim) controls sett-borne diseases."
   }
 ];

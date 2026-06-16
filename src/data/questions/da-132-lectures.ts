@@ -1613,5 +1613,94 @@ export const da132LectureQuestions: Question[] = [
     correct: 1,
     explanation: "As per DA-132 notes: Rice-rice gall midge, Mango-leaf gallmidge, Sesamum-gall fly."
   },
-
+  {
+    id: "d132l_121",
+    subject: "da-132",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "The scientific name of the Rice Stem Borer is:",
+    options: ["Scirpophaga incertulas", "Orseolia oryzae", "Nilaparvata lugens", "Cnaphalocrocis medinalis"],
+    correct: 0,
+    explanation: "As per DA-132 notes: The scientific name of the Rice Stem Borer is Scirpophaga incertulas; it is a monophagous pest of rice."
+  },
+  {
+    id: "d132l_122",
+    subject: "da-132",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "The scientific name of the Rice Gall Midge is:",
+    options: ["Dicladispa armigera", "Orseolia oryzae", "Mythimna separata", "Nephotettix nigropictus"],
+    correct: 1,
+    explanation: "As per DA-132 notes: The scientific name of the Rice Gall Midge is Orseolia oryzae; the adult fly is mosquito-like and 3-3.5 mm long."
+  },
+  {
+    id: "d132l_123",
+    subject: "da-132",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "The Brown Planthopper of rice has the scientific name:",
+    options: ["Cnaphalocrocis medinalis", "Amsacta albistriga", "Nilaparvata lugens", "Oligonychus oryzae"],
+    correct: 2,
+    explanation: "As per DA-132 notes: The scientific name of the Brown Planthopper (BPH) of rice is Nilaparvata lugens."
+  },
+  {
+    id: "d132l_124",
+    subject: "da-132",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "The scientific name of the Rice Leaf Folder is:",
+    options: ["Scirpophaga incertulas", "Nilaparvata lugens", "Dicladispa armigera", "Cnaphalocrocis medinalis"],
+    correct: 3,
+    explanation: "As per DA-132 notes: The scientific name of the Rice Leaf Folder is Cnaphalocrocis medinalis."
+  },
+  {
+    id: "d132l_125",
+    subject: "da-132",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "The scientific name of Rice Hispa is:",
+    options: ["Dicladispa armigera", "Orseolia oryzae", "Mythimna separata", "Meloidogyne spp."],
+    correct: 0,
+    explanation: "As per DA-132 notes: The scientific name of Rice Hispa is Dicladispa armigera."
+  },
+  {
+    id: "d132l_126",
+    subject: "da-132",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "The Rice Green Leafhopper has the scientific name:",
+    options: ["Nilaparvata lugens", "Nephotettix nigropictus", "Cnaphalocrocis medinalis", "Amsacta albistriga"],
+    correct: 1,
+    explanation: "As per DA-132 notes: The scientific name of the Rice Green Leafhopper is Nephotettix nigropictus; it is about 5 mm long with black spots in males."
+  },
+  {
+    id: "d132l_127",
+    subject: "da-132",
+    lecture: "lecture-4",
+    lectureNo: 4,
+    question: "The Red Hairy Caterpillar, a polyphagous pest, has the scientific name:",
+    options: ["Orseolia oryzae", "Dicladispa armigera", "Amsacta albistriga", "Nilaparvata lugens"],
+    correct: 2,
+    explanation: "As per DA-132 notes: The scientific name of the Red Hairy Caterpillar is Amsacta albistriga (and A. moorei)."
+  },
+  {
+    id: "d132l_128",
+    subject: "da-132",
+    lecture: "lecture-4",
+    lectureNo: 4,
+    question: "The Root Knot Nematode that attacks many crops belongs to the genus:",
+    options: ["Scirpophaga", "Nephotettix", "Cnaphalocrocis", "Meloidogyne"],
+    correct: 3,
+    explanation: "As per DA-132 notes: The scientific name of the Root Knot Nematode is Meloidogyne spp."
+  },
+  {
+    id: "d132l_129",
+    subject: "da-132",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "The adult of the rice gall midge resembles which insect and measures about 3-3.5 mm long?",
+    options: ["A mosquito", "A honeybee", "A butterfly", "A grasshopper"],
+    correct: 0,
+    explanation: "As per DA-132 notes: The rice gall midge fly is mosquito-like and is 3-3.5 mm long."
+  }
 ];

@@ -1688,5 +1688,104 @@ export const da131LectureQuestions: Question[] = [
     correct: 0,
     explanation: "As per DA-131 notes: Anal cerci-paired jointed outgrowths from 10th tergum sensitive to sound/vibration, Anal styles-paired thin unjointed from 9th sternum of male, Gonapophyses-sclerites surrounding genital aperture."
   },
-
+  {
+    id: "d131l_136",
+    subject: "da-131",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "Among all known animal species, the proportion that are arthropods is over:",
+    options: ["85 per cent", "25 per cent", "50 per cent", "10 per cent"],
+    correct: 0,
+    explanation: "As per DA-131 notes: Over 85 percent of all known animal species are arthropods, making them the largest group in the animal kingdom."
+  },
+  {
+    id: "d131l_137",
+    subject: "da-131",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "In insects, the body cavity filled with colourless/white blood (haemolymph) is called the:",
+    options: ["Coelom", "Haemocoel", "Pericardium", "Spiracle"],
+    correct: 1,
+    explanation: "As per DA-131 notes: In insects the body cavity is filled with white coloured blood and is known as the haemocoel."
+  },
+  {
+    id: "d131l_138",
+    subject: "da-131",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "The grouping of insect body segments into distinct regions (head, thorax, abdomen) is known as:",
+    options: ["Metamerism", "Sclerotization", "Tagmosis", "Moulting"],
+    correct: 2,
+    explanation: "As per DA-131 notes: The grouping of body segments into regions (head, thorax, abdomen) is known as tagmosis."
+  },
+  {
+    id: "d131l_139",
+    subject: "da-131",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "The labium of an insect mouthpart, also called the lower lip, is also known as the:",
+    options: ["First maxillae", "Hypopharynx", "Labrum", "Second maxillae"],
+    correct: 3,
+    explanation: "As per DA-131 notes: The labium is known as the lower lip and is also called the second maxillae."
+  },
+  {
+    id: "d131l_140",
+    subject: "da-131",
+    lecture: "lecture-4",
+    lectureNo: 4,
+    question: "Integrated Pest Management (IPM) as a pest management system was first defined by the FAO in the year:",
+    options: ["1967", "1914", "1985", "1947"],
+    correct: 0,
+    explanation: "As per DA-131 notes: According to FAO (1967), IPM was defined as a pest management system in the context of the associated environment and population dynamics of the pest species."
+  },
+  {
+    id: "d131l_141",
+    subject: "da-131",
+    lecture: "lecture-5",
+    lectureNo: 5,
+    question: "The Destructive Insects and Pests Act, enacted to prevent the introduction of pests into India, was passed in the year:",
+    options: ["1947", "1914", "1966", "1985"],
+    correct: 1,
+    explanation: "As per DA-131 notes: The Government of India passed the 'Destructive Insects and Pests Act of 1914' to prevent the introduction of any insect, fungus or other pest into the country."
+  },
+  {
+    id: "d131l_142",
+    subject: "da-131",
+    lecture: "lecture-5",
+    lectureNo: 5,
+    question: "The Directorate of Plant Protection, Quarantine and Storage (DPPQS) was established at Faridabad in the year:",
+    options: ["1905", "1914", "1946", "1966"],
+    correct: 2,
+    explanation: "As per DA-131 notes: The Directorate of Plant Protection, Quarantine and Storage (DPPQS) was established at Faridabad in 1946."
+  },
+  {
+    id: "d131l_143",
+    subject: "da-131",
+    lecture: "lecture-5",
+    lectureNo: 5,
+    question: "The certificate issued to declare that exported plant material is free from pests and diseases is called the:",
+    options: ["Health certificate", "Origin certificate", "Fumigation certificate", "Phytosanitary certificate"],
+    correct: 3,
+    explanation: "As per DA-131 notes: The certificate declaring plant material to be free from pests and diseases is called the 'Phytosanitary certificate'."
+  },
+  {
+    id: "d131l_144",
+    subject: "da-131",
+    lecture: "lecture-6",
+    lectureNo: 6,
+    question: "The first Quarantine Act in the world came into operation in the USA in the year:",
+    options: ["1905", "1914", "1946", "1875"],
+    correct: 0,
+    explanation: "As per DA-131 notes: The first Quarantine Act in the USA came into operation in 1905."
+  },
+  {
+    id: "d131l_145",
+    subject: "da-131",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "In the insect abdomen, the last (terminal) segment, as seen in Protura, is known as the:",
+    options: ["Propodaeum", "Telson", "Pleuron", "Notum"],
+    correct: 1,
+    explanation: "As per DA-131 notes: The last segment of the abdomen is known as the telson or tail, as in the case of Protura."
+  }
 ];

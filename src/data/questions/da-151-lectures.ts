@@ -2596,5 +2596,94 @@ export const da151LectureQuestions: Question[] = [
     correct: 0,
     explanation: "As per DA-151 notes: Connecting rod-drop forged steel; Piston rings-cast iron or pressed steel alloy; Flywheel-cast iron."
   },
-
+  {
+    id: "d151l_158",
+    subject: "da-151",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "The power developed by an average pair of bullocks for usual farm work is about:",
+    options: ["1 hp", "10 hp", "0.1 hp", "5 hp"],
+    correct: 0,
+    explanation: "As per DA-151 notes: The power developed by an average pair of bullocks is about 1 hp for usual farm work."
+  },
+  {
+    id: "d151l_159",
+    subject: "da-151",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "An engine in which the working cycle is completed in two revolutions of the crankshaft is called a:",
+    options: ["Two stroke cycle engine", "Four stroke cycle engine", "External combustion engine", "Rotary engine"],
+    correct: 1,
+    explanation: "As per DA-151 notes: When the cycle is completed in two revolutions of the crankshaft it is called a four stroke cycle engine; in one revolution it is a two stroke cycle engine."
+  },
+  {
+    id: "d151l_160",
+    subject: "da-151",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "The process of removal of burnt or exhaust gases from the engine cylinder is known as:",
+    options: ["Combustion", "Compression", "Scavenging", "Ignition"],
+    correct: 2,
+    explanation: "As per DA-151 notes: The process of removal of burnt or exhaust gases from the engine cylinder is known as scavenging."
+  },
+  {
+    id: "d151l_161",
+    subject: "da-151",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "The complete path of power transmission from the engine to the wheels of a tractor is called the:",
+    options: ["Drawbar", "Clutch", "Differential", "Power train"],
+    correct: 3,
+    explanation: "As per DA-151 notes: The complete path of power from the engine to the wheels is called the power train."
+  },
+  {
+    id: "d151l_162",
+    subject: "da-151",
+    lecture: "lecture-4",
+    lectureNo: 4,
+    question: "The word 'tractor' first appeared on record in a patent in the year:",
+    options: ["1890", "1906", "1936", "1960"],
+    correct: 0,
+    explanation: "As per DA-151 notes: In 1890 the word tractor appeared first on record in a patent issued for a tractor invented by George H. Harris of Chicago."
+  },
+  {
+    id: "d151l_163",
+    subject: "da-151",
+    lecture: "lecture-4",
+    lectureNo: 4,
+    question: "Tractor manufacturing in India was started in 1960-61 by the first manufacturer:",
+    options: ["Escorts Ltd", "M/s Eicher Good Earth", "Mahindra & Mahindra", "TAFE"],
+    correct: 1,
+    explanation: "As per DA-151 notes: In 1960-61, tractor manufacturing was started in India by the first manufacturer M/s Eicher Good Earth."
+  },
+  {
+    id: "d151l_164",
+    subject: "da-151",
+    lecture: "lecture-5",
+    lectureNo: 5,
+    question: "Two-wheel tractors used for small farms, hilly areas and gardening are also called:",
+    options: ["Crawler tractors", "Garden tractors", "Power tillers", "Walking ploughs"],
+    correct: 2,
+    explanation: "As per DA-151 notes: Two-wheel tractors are used for small farms, hilly areas and gardening purposes and are called power tillers."
+  },
+  {
+    id: "d151l_165",
+    subject: "da-151",
+    lecture: "lecture-6",
+    lectureNo: 6,
+    question: "The amount of heat liberated by the complete combustion of a fuel is known as its:",
+    options: ["Flash point", "Octane number", "Viscosity", "Calorific value"],
+    correct: 3,
+    explanation: "As per DA-151 notes: The heat liberated by combustion of a fuel is known as the calorific value or heat value of the fuel."
+  },
+  {
+    id: "d151l_166",
+    subject: "da-151",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "An engine in which the working cycle is completed in one revolution of the crankshaft is a:",
+    options: ["Two stroke cycle engine", "Four stroke cycle engine", "Diesel four stroke engine", "External combustion engine"],
+    correct: 0,
+    explanation: "As per DA-151 notes: When the cycle is completed in one revolution of the crankshaft it is called a two stroke cycle engine."
+  }
 ];
