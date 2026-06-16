@@ -37,6 +37,11 @@ const FIXES = [
   ["d252_048", "Zero or negligible"],
   ["d252_070", "35°C"],
   ["d291_078", "Issuing of land records"],
+  // found by relaxed audit (gap>=1)
+  ["d122x_052", "Fast-growing, leguminous"],
+  ["d122x_055", "through irrigation water"],
+  // found by numeric audit
+  ["d122x_040", "1985"],
 ];
 
 const files = fs.readdirSync(dir).filter(f => /^da-\d/.test(f) && f.endsWith(".ts"));

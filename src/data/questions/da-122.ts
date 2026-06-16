@@ -1302,7 +1302,7 @@ export const da122Questions: Question[] = [
     lectureNo: 32,
     question: "The Fertilizer Control Order (FCO) in India was established in:",
     options: ["1957", "1985", "1945", "1974"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-122 notes: The Fertilizer Control Order (FCO) was originally passed on 28th April 1957 under the Essential Commodities Act of 1955. It was later revised in 1985 with effect from 25-9-1985."
   },
   {
@@ -1422,7 +1422,7 @@ export const da122Questions: Question[] = [
     lectureNo: 9,
     question: "The most important criterion for selection of a green manure crop is:",
     options: ["Resistant to all pests", "Long duration crop", "Fast-growing, leguminous, high biomass-producing, and easy to decompose", "Drought-tolerant"],
-    correct: 1,
+    correct: 2,
     explanation: "As per DA-122 notes: Green manure crops should be fast-growing, preferably leguminous, high biomass-producing, and easy to decompose to benefit the subsequent crop."
   },
   {
@@ -1452,7 +1452,7 @@ export const da122Questions: Question[] = [
     lectureNo: 28,
     question: "Fertigation refers to:",
     options: ["Foliar application of fertilizer", "Broadcasting fertilizer", "Application of fertilizer through irrigation water", "Deep placement of fertilizer"],
-    correct: 1,
+    correct: 2,
     explanation: "As per DA-122 notes: Fertigation is the technique of applying fertilizers through irrigation water (especially drip irrigation), allowing precise nutrient delivery to the root zone."
   },
   {
