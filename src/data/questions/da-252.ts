@@ -110,7 +110,7 @@ export const da252Questions: Question[] = [
     subject: "da-252",
     question: "Ranging rods are painted alternately in which colors to make them visible at a distance?",
     options: ["Red and white or black and white", "Brown and grey alternately", "Blue and yellow alternately", "Green and orange alternately"],
-    correct: 1,
+    correct: 0,
     explanation: "Ranging rods are painted alternately black and white, or red and white, or red, white and black successively to make them visible at a distance. Flags may also be attached at the top."
   },
   {
@@ -382,7 +382,7 @@ export const da252Questions: Question[] = [
     subject: "da-252",
     question: "In border strip irrigation, the transverse slope should be:",
     options: ["Between 1% and 3% for uniform flow", "Greater than 2% for good drainage", "Equal to the longitudinal slope", "Zero or negligible (less than 0.03%)"],
-    correct: 2,
+    correct: 3,
     explanation: "In border strip irrigation, the longitudinal slope must be uniform and the transverse slope must be zero or negligible (< 0.03%). Border strips are generally 5 to 15 m wide and 75 to 300 m long."
   },
   {
@@ -558,7 +558,7 @@ export const da252Questions: Question[] = [
     subject: "da-252",
     question: "Air temperatures above which are generally not suited for crops in greenhouses:",
     options: ["40°C", "35°C", "25°C", "30°C"],
-    correct: 0,
+    correct: 1,
     explanation: "Air temperatures above 35°C are generally not suited for crops in greenhouses. It is possible to bring greenhouse air temperature below this upper limit during spring and autumn simply by providing adequate ventilation."
   },
   {

@@ -1586,7 +1586,7 @@ export const da121LectureQuestions: Question[] = [
     lectureNo: 2,
     question: "In a representative loam surface soil, the solid mineral particles comprise approximately what percentage of soil volume?",
     options: ["45%", "55%", "35%", "25%"],
-    correct: 3,
+    correct: 0,
     explanation: "As per DA-121 notes: In a representative loam surface soil, the solid mineral particles comprise about 45% of the soil volume and organic matter 5%."
   },
   {
@@ -1676,7 +1676,7 @@ export const da121LectureQuestions: Question[] = [
     lectureNo: 6,
     question: "Bulk density of soil is defined as the weight of dry soil per unit of:",
     options: ["Particle volume", "Total volume (including pore space)", "Organic matter volume", "Water volume"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-121 notes: Bulk density is the mass of dry soil per unit of total volume (including pore space). It ranges from 1.0-1.8 g/cm³ for mineral soils."
   },
   {
@@ -1696,7 +1696,7 @@ export const da121LectureQuestions: Question[] = [
     lectureNo: 7,
     question: "Soil porosity is calculated as:",
     options: ["(BD/PD) × 100", "(1 - BD/PD) × 100", "BD × PD × 100", "(PD - BD) × 100"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-121 notes: Porosity (%) = (1 - Bulk Density/Particle Density) × 100."
   },
   {
@@ -1736,7 +1736,7 @@ export const da121LectureQuestions: Question[] = [
     lectureNo: 10,
     question: "Denitrification is the process by which:",
     options: ["Nitrates are converted back to gaseous nitrogen (N2) by microorganisms", "Ammonium is converted to nitrate", "Organic nitrogen is converted to ammonium", "Atmospheric nitrogen is fixed into soil"],
-    correct: 3,
+    correct: 0,
     explanation: "As per DA-121 notes: Denitrification is the biological process in which nitrates/nitrites are reduced to gaseous nitrogen (N2 or N2O) by denitrifying bacteria under anaerobic conditions."
   },
   {
@@ -1746,7 +1746,7 @@ export const da121LectureQuestions: Question[] = [
     lectureNo: 11,
     question: "The C:N ratio of a material affects its decomposition rate. A material with a wide C:N ratio (e.g., > 30:1):",
     options: ["Increases soil pH significantly", "Does not decompose at all", "Decomposes slowly and may cause temporary nitrogen immobilization", "Decomposes rapidly releasing nitrogen"],
-    correct: 3,
+    correct: 2,
     explanation: "As per DA-121 notes: Materials with wide C:N ratio (>30:1) like wheat straw decompose slowly and may cause temporary nitrogen immobilization by microorganisms."
   },
   {
@@ -1756,7 +1756,7 @@ export const da121LectureQuestions: Question[] = [
     lectureNo: 12,
     question: "The ideal C:N ratio of humus is approximately:",
     options: ["10:1", "5:1", "50:1", "25:1"],
-    correct: 1,
+    correct: 0,
     explanation: "As per DA-121 notes: The C:N ratio of stable humus is approximately 10:1 (range 10-12:1), indicating a fairly nitrogen-rich material."
   },
   {
@@ -1776,7 +1776,7 @@ export const da121LectureQuestions: Question[] = [
     lectureNo: 14,
     question: "Soil colloids are important in soil because they:",
     options: ["Reduce water infiltration", "Increase soil bulk density", "Only reduce soil aeration", "Have large surface area and carry negative charges attracting cations"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-121 notes: Soil colloids (clay and humus) are important because of their large surface area and ability to carry negative charges, which attract and hold cations (nutrients)."
   },
   {
@@ -1786,7 +1786,7 @@ export const da121LectureQuestions: Question[] = [
     lectureNo: 15,
     question: "Cation Exchange is the ability of soil to:",
     options: ["Release anions into solution", "Exchange or substitute cations between soil solution and soil particles", "Convert ammonium to nitrate", "Fix nitrogen from atmosphere"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-121 notes: Cation exchange is the ability of soil particles (colloids) to adsorb cations reversibly and exchange them with cations in soil solution."
   },
   {
@@ -1826,7 +1826,7 @@ export const da121LectureQuestions: Question[] = [
     lectureNo: 19,
     question: "The optimum soil pH range for most crop plants is:",
     options: ["3-5", "6-7.5", "8-10", "5-6"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-121 notes: The optimum soil pH range for most crop plants is 6-7.5 where most nutrients are available."
   },
   {
@@ -1896,7 +1896,7 @@ export const da121LectureQuestions: Question[] = [
     lectureNo: 23,
     question: "Black cotton soils of India are also known as:",
     options: ["Entisols", "Laterite soils", "Vertisols (regur soils)", "Alfisols"],
-    correct: 1,
+    correct: 2,
     explanation: "As per DA-121 notes: Black cotton soils are also known as Vertisols or Regur soils. They are rich in montmorillonite clay and swell when wet, crack when dry."
   },
   {
@@ -1936,7 +1936,7 @@ export const da121LectureQuestions: Question[] = [
     lectureNo: 25,
     question: "Nitrogen deficiency in plants shows which symptoms?",
     options: ["Yellowing (chlorosis) starting from older/lower leaves", "Brown scorching of leaf margins", "Purple coloration of leaves", "Interveinal chlorosis"],
-    correct: 2,
+    correct: 0,
     explanation: "As per DA-121 notes: Nitrogen deficiency causes yellowing (chlorosis) starting from older/lower leaves and spreads upward as nitrogen is mobile and moves from older to younger leaves."
   },
   {
@@ -1956,7 +1956,7 @@ export const da121LectureQuestions: Question[] = [
     lectureNo: 26,
     question: "Potassium deficiency primarily shows:",
     options: ["Brown scorching/burning of leaf tips and margins (tip burn)", "Purple coloration", "Yellow spots on young leaves", "White striping on leaves"],
-    correct: 2,
+    correct: 0,
     explanation: "As per DA-121 notes: Potassium deficiency causes brown scorching or burning of leaf tips and margins (tip burn), starting with older leaves."
   },
   {
@@ -2086,7 +2086,7 @@ export const da121LectureQuestions: Question[] = [
     lectureNo: 25,
     question: "Nitrogen is absorbed by plants primarily in which form?",
     options: ["Organic nitrogen", "NO3- (nitrate) and NH4+ (ammonium)", "Urea directly", "N2 gas"],
-    correct: 3,
+    correct: 1,
     explanation: "As per DA-121 notes: Plants absorb nitrogen primarily as nitrate (NO3-) and ammonium (NH4+) ions from soil solution."
   },
   {
@@ -2156,7 +2156,7 @@ export const da121LectureQuestions: Question[] = [
     lectureNo: 7,
     question: "Munsell color system is used in soil science to:",
     options: ["Measure soil temperature", "Describe soil color using hue, value and chroma", "Classify soil texture", "Measure soil moisture"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-121 notes: The Munsell Color System describes soil color using three parameters: hue (spectral color), value (lightness), and chroma (color purity/saturation)."
   },
   {
@@ -2166,7 +2166,7 @@ export const da121LectureQuestions: Question[] = [
     lectureNo: 8,
     question: "Infiltration rate refers to:",
     options: ["The rate at which water evaporates from soil", "The rate at which water enters the soil from surface", "The rate at which roots absorb water", "The rate of water movement below the root zone"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-121 notes: Infiltration rate is the rate at which water enters the soil from the surface. It depends on soil texture, structure, and initial moisture content."
   },
   {
@@ -2176,7 +2176,7 @@ export const da121LectureQuestions: Question[] = [
     lectureNo: 6,
     question: "High bulk density of soil indicates:",
     options: ["High organic matter content", "Sandy texture", "Compaction, reduced porosity and poor root growth", "Good porosity and aeration"],
-    correct: 3,
+    correct: 2,
     explanation: "As per DA-121 notes: High bulk density indicates soil compaction with reduced porosity, poor aeration, and restricted root growth."
   },
   {
@@ -2196,7 +2196,7 @@ export const da121LectureQuestions: Question[] = [
     lectureNo: 32,
     question: "The greenhouse effect causes global warming primarily because:",
     options: ["Green plants absorb more sunlight", "Ocean temperatures decrease", "The sun's radiation becomes more intense", "Greenhouse gases trap long-wave radiation from Earth's surface, preventing heat loss to space"],
-    correct: 2,
+    correct: 3,
     explanation: "As per DA-121 notes: Greenhouse gases (CO2, CH4, N2O) trap outgoing long-wave radiation from Earth's surface, preventing heat from escaping to space and causing global warming."
   },
   {
@@ -2226,7 +2226,7 @@ export const da121LectureQuestions: Question[] = [
     lectureNo: 29,
     question: "A soil test is important before fertilizer application because:",
     options: ["It measures crop potential only", "It predicts the weather", "It helps determine the existing nutrient levels and avoid over/under application", "It tells us only about soil texture"],
-    correct: 3,
+    correct: 2,
     explanation: "As per DA-121 notes: Soil testing helps determine existing nutrient levels in soil, enabling balanced fertilizer recommendations that avoid both deficiency and over-application."
   },
   {
@@ -2246,7 +2246,7 @@ export const da121LectureQuestions: Question[] = [
     lectureNo: 18,
     question: "Base Saturation percentage (BSP) refers to the proportion of CEC occupied by:",
     options: ["Hydrogen and aluminium ions only", "Basic cations (Ca2+, Mg2+, K+, Na+)", "Sodium only", "Iron and manganese"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-121 notes: Base Saturation % = (Basic cations: Ca2+, Mg2+, K+, Na+) / CEC × 100. High BSP indicates fertile, well-buffered soil."
   },
   {

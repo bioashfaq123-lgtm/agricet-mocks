@@ -622,7 +622,7 @@ export const da291Questions: Question[] = [
     subject: "da-291",
     question: "Which of the following is NOT a function of Krishi Vigyan Kendra (KVK)?",
     options: ["Issuing of land records and revenue certificates (Pahani)", "On-farm testing of new agricultural technologies in farmers' conditions", "Vocational training for farm youth in agri-enterprises", "Front Line Demonstrations of improved varieties and practices"],
-    correct: 2,
+    correct: 0,
     explanation: "KVK functions include: on-farm testing, FLDs, vocational training, farm advisory services, and seed/input distribution. Issuing land records (Pahani) is NOT a KVK function — it is done by the Revenue Department (VRO/MRO)."
   },
   {

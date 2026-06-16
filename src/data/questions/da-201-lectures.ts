@@ -1991,7 +1991,7 @@ export const da201LectureQuestions: Question[] = [
     lectureNo: 7,
     question: "Sunflower oil is rich in which fatty acid that helps in reducing cholesterol in coronary arteries?",
     options: ["Palmitic acid", "Linoleic acid at 64 percent", "Oleic acid", "Stearic acid"],
-    correct: 3,
+    correct: 1,
     explanation: "According to DA-201 notes, sunflower is a rich source of linoleic acid (64%) which helps in reducing cholesterol deposition in the coronary arteries of the heart."
   },
   {

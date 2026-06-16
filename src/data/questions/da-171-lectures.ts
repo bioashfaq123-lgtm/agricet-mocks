@@ -1774,7 +1774,7 @@ export const da171LectureQuestions: Question[] = [
     id: "d171z_004", subject: "da-171", lecture: "lecture-10", lectureNo: 10,
     question: "Trichoderma viride is used as a biocontrol agent primarily against:",
     options: ["Airborne viral diseases of crops", "Soil-borne fungal pathogens like Fusarium, Rhizoctonia, and Sclerotium", "Nematodes attacking root systems", "Bacterial leaf blight pathogens in rice"],
-    correct: 2,
+    correct: 1,
     explanation: "Trichoderma viride and T. harzianum are mycoparasitic fungi that colonize and kill soil-borne pathogens (Fusarium wilt, Rhizoctonia root rot, Sclerotium stem rot) through antibiosis and mycoparasitism. They are applied as seed treatment or soil drench.",
     difficulty: "medium"
   },
