@@ -1502,6 +1502,75 @@ export const da263LectureQuestions: Question[] = [
     correct: 2,
     explanation: "A felt need is a need that farmers themselves are aware of and feel — it is subjective and expressed by the beneficiaries themselves.",
     difficulty: "medium"
+  },
+  {
+    id: "d263l_201",
+    subject: "da-263",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "The words 'a', 'an' and 'the' belong to which part of speech?",
+    options: ["Articles", "Pronouns", "Prepositions", "Conjunctions"],
+    correct: 0,
+    explanation: "As per DA-263 notes: 'A', 'an' and 'the' are called the articles; 'a' or 'an' is the indefinite article and 'the' is the definite article."
+  },
+  {
+    id: "d263l_202",
+    subject: "da-263",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "In English grammar, 'a' and 'an' are known as the:",
+    options: ["Definite article", "Indefinite article", "Demonstrative article", "Possessive article"],
+    correct: 1,
+    explanation: "As per DA-263 notes: 'A' or 'an' is called the indefinite article and 'the' is called the definite article."
+  },
+  {
+    id: "d263l_203",
+    subject: "da-263",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "Nouns which we can count (e.g., book, pen, boy) are called:",
+    options: ["Abstract nouns", "Material nouns", "Countable (count) nouns", "Collective nouns"],
+    correct: 2,
+    explanation: "As per DA-263 notes: Nouns which we can count are called count (countable) nouns, while nouns which we cannot count are called uncount nouns."
+  },
+  {
+    id: "d263l_204",
+    subject: "da-263",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "When the actual words of a speaker are reported within quotation marks, it is called:",
+    options: ["Indirect speech", "Reported speech", "Passive voice", "Direct speech"],
+    correct: 3,
+    explanation: "As per DA-263 notes: Reporting the actual words of the speaker (within quotation marks) is called direct speech; reporting in one's own words is indirect or reported speech."
+  },
+  {
+    id: "d263l_205",
+    subject: "da-263",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "In the sentence 'Penicillin was discovered by Alexander Fleming', the scientist credited with the discovery is:",
+    options: ["Alexander Fleming", "John Baird", "Lewis Waterman", "Edward Jenner"],
+    correct: 0,
+    explanation: "As per DA-263 notes (passive voice example): Penicillin was discovered by Alexander Fleming."
+  },
+  {
+    id: "d263l_206",
+    subject: "da-263",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "As per the passive-voice example in the notes, Television was invented by:",
+    options: ["Thomas Edison", "John Baird", "Alexander Fleming", "Graham Bell"],
+    correct: 1,
+    explanation: "As per DA-263 notes (passive voice example): John Baird invented Television in 1925, i.e., Television was invented by John Baird in 1925."
+  },
+  {
+    id: "d263l_207",
+    subject: "da-263",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "According to the notes, the Fountain pen was invented in 1884 by:",
+    options: ["John Baird", "Alexander Fleming", "Waterman", "Biro"],
+    correct: 2,
+    explanation: "As per DA-263 notes (passive voice example): Waterman invented the Fountain pen in 1884; i.e., the fountain pen was invented by Waterman in 1884."
   }
-
 ];

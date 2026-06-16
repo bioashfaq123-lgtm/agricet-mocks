@@ -1937,4 +1937,75 @@ export const da281LectureQuestions: Question[] = [
     explanation: "Late blight of potato and tomato is caused by Phytophthora infestans, an oomycete (water mould). It was responsible for the Irish Potato Famine (1845-49). It thrives in cool, moist conditions. Early blight is caused by Alternaria solani. Mancozeb and metalaxyl are used for management.",
     difficulty: "easy"
   },
-] as Question[];
+] as Question[,
+  {
+    id: "d281l_202",
+    subject: "da-281",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "The first National Forest Policy of India was enunciated on 19th October of which year?",
+    options: ["1894", "1864", "1927", "1952"],
+    correct: 0,
+    explanation: "As per DA-281 notes: The first forest policy of India was enunciated on 19th October, 1894."
+  },
+  {
+    id: "d281l_203",
+    subject: "da-281",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "The upper branchy part of a tree above the bole, comprising branches and foliage, is defined as the:",
+    options: ["Bole", "Crown", "Buttress", "Canopy gap"],
+    correct: 1,
+    explanation: "As per DA-281 notes: Crown is defined as the upper branchy part of a tree above the bole comprising of branches and foliage springing from the bole."
+  },
+  {
+    id: "d281l_204",
+    subject: "da-281",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "The lower portion of the stem up to the point where the main branches are given off is known as the:",
+    options: ["Crown", "Taper", "Bole", "Buttress"],
+    correct: 2,
+    explanation: "As per DA-281 notes: The lower portion of the stem up to the point where the main branches are given off is known as the bole."
+  },
+  {
+    id: "d281l_205",
+    subject: "da-281",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "The theory and practice of raising forest crops is known as:",
+    options: ["Sericulture", "Horticulture", "Olericulture", "Silviculture"],
+    correct: 3,
+    explanation: "As per DA-281 notes: Silviculture is the theory and practice of raising forest crops."
+  },
+  {
+    id: "d281l_206",
+    subject: "da-281",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "The symbiotic composite structure formed by the association of fungal hyphae with plant rootlets is called:",
+    options: ["Mycorrhiza", "Rhizobium nodule", "Lichen", "Haustorium"],
+    correct: 0,
+    explanation: "As per DA-281 notes: The composite structure of fungus and invaded rootlets is called Mycorrhiza."
+  },
+  {
+    id: "d281l_207",
+    subject: "da-281",
+    lecture: "lecture-4",
+    lectureNo: 4,
+    question: "Growing of plants for beautification of the surroundings is known as:",
+    options: ["Social forestry", "Bio-aesthetic plantation", "Agro-forestry", "Farm forestry"],
+    correct: 1,
+    explanation: "As per DA-281 notes: Growing of plants for beautification of the surroundings is known as bio-aesthetic plantation."
+  },
+  {
+    id: "d281l_208",
+    subject: "da-281",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "Against the world average of 1.6 hectares, the per capita forest area available in India is only about:",
+    options: ["1.0 ha", "0.5 ha", "0.11 ha", "2.5 ha"],
+    correct: 2,
+    explanation: "As per DA-281 notes: As compared to the world average of 1.6 hectares per capita forest area, India has only 0.11 ha per capita forest area."
+  }
+];

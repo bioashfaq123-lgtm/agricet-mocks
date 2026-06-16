@@ -1941,6 +1941,65 @@ export const da291LectureQuestions: Question[] = [
     correct: 2,
     explanation: "Gram Panchayat functions include public health, water supply, street lights, birth/death registration, women/child care, roads/tanks/wells, primary education, and hospitals. Income tax collection is a central/state government function.",
     difficulty: "easy"
+  },
+  {
+    id: "d291l_201",
+    subject: "da-291",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "Education is defined as the process of bringing a desirable change in the:",
+    options: ["Behaviour of a human being", "Soil fertility status", "Market price of produce", "Climate of a region"],
+    correct: 0,
+    explanation: "As per DA-291 notes: Education is the process of bringing desirable change in the behaviour of human beings."
+  },
+  {
+    id: "d291l_202",
+    subject: "da-291",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "The hierarchically structured education system running from kindergarten through the university is called:",
+    options: ["Informal education", "Formal education", "Non-formal education", "Distance education"],
+    correct: 1,
+    explanation: "As per DA-291 notes: Formal education refers to the hierarchically structured education system running from kindergarten through the university."
+  },
+  {
+    id: "d291l_203",
+    subject: "da-291",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "Organized and systematic educational activity carried on outside the framework of the formal system for a particular group is called:",
+    options: ["Formal education", "Incidental education", "Non-formal education", "Primary education"],
+    correct: 2,
+    explanation: "As per DA-291 notes: Non-formal education is the organized and systematic education activity carried on outside the framework of the formal system to provide selected learning to a particular group."
+  },
+  {
+    id: "d291l_204",
+    subject: "da-291",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "In formal education attendance is compulsory, whereas in non-formal education participation is:",
+    options: ["Compulsory", "Penalised", "Prohibited", "Voluntary"],
+    correct: 3,
+    explanation: "As per DA-291 notes: In formal education attendance is compulsory, while in non-formal education participation is voluntary."
+  },
+  {
+    id: "d291l_205",
+    subject: "da-291",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "In agricultural extension, 'PRA' stands for:",
+    options: ["Participatory Rural Appraisal", "Public Resource Allocation", "Planned Rural Administration", "Primary Rural Agency"],
+    correct: 0,
+    explanation: "As per DA-291 notes: PRA stands for Participatory Rural Appraisal, a method with salient features, principles and techniques used in rural development."
+  },
+  {
+    id: "d291l_206",
+    subject: "da-291",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "Education that is lifelong, incidental, spontaneous and not pre-planned, gained from daily experiences, is called:",
+    options: ["Formal education", "Informal education", "Non-formal education", "Technical education"],
+    correct: 1,
+    explanation: "As per DA-291 notes: Informal education is a lifelong process which is incidental and spontaneous, not pre-planned, and not imparted by any specialized agency."
   }
-
 ];

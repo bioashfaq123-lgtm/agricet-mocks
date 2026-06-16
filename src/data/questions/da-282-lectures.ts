@@ -1945,4 +1945,74 @@ export const da282LectureQuestions: Question[] = [
     explanation: "Stone grafting (epicotyl grafting) in mango is performed in summer (March-May) when fresh mango seeds (stones) are available from the fruit season. Freshly germinated seedlings used as rootstock are grafted immediately; warm temperatures promote rapid callus formation giving 80-90% success.",
     difficulty: "hard"
   },
+  {
+    id: "d282l_202",
+    subject: "da-282",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "The arrangement of plants in an orchard is known as the:",
+    options: ["Lay-out", "Spacing", "Pruning", "Training"],
+    correct: 0,
+    explanation: "As per DA-282 notes: The arrangement of plants in the orchard is known as the lay-out."
+  },
+  {
+    id: "d282l_203",
+    subject: "da-282",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "The bud or part that develops into the framework, branches, flowers and fruits of a grafted plant is termed the:",
+    options: ["Rootstock", "Scion", "Interstock", "Sucker"],
+    correct: 1,
+    explanation: "As per DA-282 notes: The bud which develops framework branches, flowers and fruits is termed the scion, while the supporting stem and root portion is the rootstock."
+  },
+  {
+    id: "d282l_204",
+    subject: "da-282",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "The portion that provides the supportive stem and root system to a grafted/budded plant is termed the:",
+    options: ["Scion", "Bud", "Root stock (stock)", "Bulbil"],
+    correct: 2,
+    explanation: "As per DA-282 notes: The portion over which the bud is united, which provides the supportive stem and root system, is termed the root stock or stock."
+  },
+  {
+    id: "d282l_205",
+    subject: "da-282",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "The process of connecting a scion (a single bud) and a rootstock so that they unite and grow as one plant is called:",
+    options: ["Layering", "Cutting", "Grafting", "Budding"],
+    correct: 3,
+    explanation: "As per DA-282 notes: The process of connecting a scion, which is a bud, and a rootstock so that they unite and grow successfully as one plant is termed budding."
+  },
+  {
+    id: "d282l_206",
+    subject: "da-282",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "The small bulb-like structures produced in the aerial portion of the stem are termed:",
+    options: ["Bulbils", "Offsets", "Corms", "Tubers"],
+    correct: 0,
+    explanation: "As per DA-282 notes: The bulblets which are produced in the aerial portion of the stem are termed bulbils; full-grown bulblets are termed offsets."
+  },
+  {
+    id: "d282l_207",
+    subject: "da-282",
+    lecture: "lecture-4",
+    lectureNo: 4,
+    question: "Mango seedlings take 8-10 years to come to bearing, whereas grafted mango trees bear in about:",
+    options: ["8-10 years", "3-4 years", "15-20 years", "1 year"],
+    correct: 1,
+    explanation: "As per DA-282 notes: Mango seedlings take 8-10 years to come to bearing, compared with 3-4 years for grafted trees."
+  },
+  {
+    id: "d282l_208",
+    subject: "da-282",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "Based on depth, black soils are classified as shallow (30 cm or less), medium (30-100 cm) and deep when the depth is:",
+    options: ["Less than 10 cm", "Exactly 30 cm", "Over 100 cm", "50 cm"],
+    correct: 2,
+    explanation: "As per DA-282 notes: Black soils are distinguished into shallow (30 cm or less), medium (30-100 cm) and deep (over 100 cm)."
+  }
 ];
