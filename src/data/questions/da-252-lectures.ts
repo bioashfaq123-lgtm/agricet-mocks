@@ -2464,7 +2464,7 @@ export const da252LectureQuestions: Question[] = [
     id: "d252z_021", subject: "da-252", lecture: "lecture-23", lectureNo: 23,
     question: "The most common lining material used for irrigation canals in India is:",
     options: ["Brick masonry with cement plaster", "Concrete (cement concrete or shotcrete)", "Polyethylene geomembrane", "Compacted bentonite clay"],
-    correct: 3,
+    correct: 1,
     explanation: "Concrete lining (cement concrete, M15 or M20 grade) is the most widely used lining material in India for irrigation canals due to its durability, low Manning's n (0.011–0.014), negligible seepage, and relatively low maintenance cost.",
     difficulty: "medium"
   },

@@ -190,7 +190,7 @@ export const da252Questions: Question[] = [
     subject: "da-252",
     question: "A field book used for noting survey readings opens:",
     options: ["Length-wise with single or double red lines", "Width-wise with vertical red lines", "Like a regular notebook vertically", "With a grid pattern for plotting"],
-    correct: 3,
+    correct: 0,
     explanation: "A field book is about 22.5 cm long and 12.5 cm wide and opens lengthwise. Single or double red lines are drawn in the middle, with chainage lengths noted between them. Booking commences from the bottom of the page upward."
   },
   {

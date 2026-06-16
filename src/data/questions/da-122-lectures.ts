@@ -405,7 +405,7 @@ export const da122LectureQuestions: Question[] = [
     lectureNo: 3,
     question: "The nitrogen-fixing capacity of Rhizobium in symbiosis with soybean under optimum conditions is approximately:",
     options: ["10–20 kg N ha⁻¹ per crop", "50–100 kg N ha⁻¹ per crop", "200–300 kg N ha⁻¹ per crop", "500–600 kg N ha⁻¹ per crop"],
-    correct: 1,
+    correct: 2,
     explanation: "Rhizobium–soybean symbiosis can fix 100–300 kg N ha⁻¹ per season under optimal conditions, meeting 60–80% of the crop's nitrogen need. Groundnut symbiosis typically fixes 100–200 kg N ha⁻¹."
   },
   {

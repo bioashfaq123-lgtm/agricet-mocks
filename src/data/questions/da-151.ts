@@ -134,7 +134,7 @@ export const da151Questions: Question[] = [
     subject: "da-151",
     question: "Which type of seed metering mechanism is most commonly used in seed drills?",
     options: ["Fluted roller or internal double run type mechanism", "Picker wheel mechanism with individual pickers", "Cup feed mechanism with rotating cup elements", "Brush feed mechanism using rotating brush parts"],
-    correct: 3,
+    correct: 0,
     explanation: "The most common type of metering devices that deliver a continuous flow of seeds are fluted roller type or internal double run type. These are driven by the ground wheel and are commercially popular."
   },
   {

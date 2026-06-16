@@ -799,7 +799,7 @@ export const da281LectureQuestions: Question[] = [
     lectureNo: 5,
     question: "Green India Mission (GIM) aims to increase forest cover by how many million hectares?",
     options: ["10 million ha", "5 million ha", "3 million ha", "2 million ha"],
-    correct: 0,
+    correct: 1,
     explanation: "Green India Mission (one of 8 missions under NAPCC) aims to increase forest and tree cover by 5 million hectares and improve quality of forest cover on another 5 million hectares."
   },
   {

@@ -820,7 +820,7 @@ export const da121Questions: Question[] = [
     lectureNo: 1,
     question: "Who is known as the 'Father of Soil Science'?",
     options: ["Dokuchaev (1900)", "Buckman and Brady", "Jenny (1941)", "Tisdale"],
-    correct: 2,
+    correct: 0,
     explanation: "As per DA-121 notes: Dokuchaev (1900), a Russian scientist, is known as the Father of Soil Science."
   },
   {
@@ -850,7 +850,7 @@ export const da121Questions: Question[] = [
     lectureNo: 2,
     question: "At optimum moisture for plant growth, soil pore space is divided roughly in half. Each half comprises approximately:",
     options: ["10% water + 10% air", "30% water + 30% air", "20% water + 20% air", "25% water + 25% air"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-121 notes: At optimum moisture, pore space is divided in half: 25% of volume being water and 25% air."
   },
   {
@@ -920,7 +920,7 @@ export const da121Questions: Question[] = [
     lectureNo: 5,
     question: "The best soil structure for crop production is:",
     options: ["Blocky", "Granular/Crumb", "Columnar", "Platy"],
-    correct: 3,
+    correct: 1,
     explanation: "As per DA-121 notes: Granular (crumb) structure is the best for crop production as it provides good aeration, water holding, and easy root penetration."
   },
   {
@@ -1060,7 +1060,7 @@ export const da121Questions: Question[] = [
     lectureNo: 16,
     question: "Which soil fraction has the highest CEC?",
     options: ["Silt", "Clay and humus (organic matter)", "Sand", "Gravel"],
-    correct: 2,
+    correct: 1,
     explanation: "As per DA-121 notes: Clay and humus (organic matter) have the highest CEC due to their large surface area and high negative charge density."
   },
   {
@@ -1090,7 +1090,7 @@ export const da121Questions: Question[] = [
     lectureNo: 20,
     question: "At pH below 5.5, which element becomes toxic to most plants?",
     options: ["Calcium", "Iron", "Magnesium", "Aluminium (Al) and Manganese (Mn)"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-121 notes: At pH below 5.5, Aluminium (Al) and Manganese (Mn) become soluble and toxic to most crops. Fe toxicity also occurs at very low pH."
   },
   {
@@ -1100,7 +1100,7 @@ export const da121Questions: Question[] = [
     lectureNo: 20,
     question: "At high pH (> 8.0), which micronutrients become deficient?",
     options: ["Fe, Mn, Zn, Cu, B (micronutrients become less available)", "Manganese and zinc only", "Potassium and calcium", "Nitrogen and phosphorus"],
-    correct: 1,
+    correct: 0,
     explanation: "As per DA-121 notes: At high pH (>8.0), micronutrients like Fe, Mn, Zn, Cu and B become less soluble and hence deficient in plants."
   },
   {
@@ -1290,7 +1290,7 @@ export const da121Questions: Question[] = [
     lectureNo: 32,
     question: "The main greenhouse gas emitted from rice paddies is:",
     options: ["Water vapour", "Carbon dioxide (CO2)", "Nitrous oxide (N2O)", "Methane (CH4)"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-121 notes: Rice paddies emit significant amounts of methane (CH4) under anaerobic (flooded) conditions, making it a major agricultural source of greenhouse gases."
   },
   {
@@ -1310,7 +1310,7 @@ export const da121Questions: Question[] = [
     lectureNo: 21,
     question: "The white efflorescence seen on the surface of saline soils is mainly due to:",
     options: ["Iron oxide", "Aluminium sulphate", "Sodium chloride and sodium sulphate salts", "Calcium carbonate"],
-    correct: 3,
+    correct: 2,
     explanation: "As per DA-121 notes: White efflorescence (salt crust) on saline soil surface is due to sodium chloride (NaCl), sodium sulphate (Na2SO4) and other soluble salts."
   },
   {
@@ -1320,7 +1320,7 @@ export const da121Questions: Question[] = [
     lectureNo: 23,
     question: "Alluvial soils are mainly found in:",
     options: ["Rajasthan desert", "Deccan Plateau", "Coastal areas only", "Himalayan foothills and river plains"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-121 notes: Alluvial soils are mainly found in river plains and deltas, particularly in the Indo-Gangetic plains and river deltas. They are the most fertile soils in India."
   },
   {
@@ -1350,7 +1350,7 @@ export const da121Questions: Question[] = [
     lectureNo: 25,
     question: "Phosphorus is mainly absorbed by plants as:",
     options: ["Organic phosphate", "H3PO4", "H2PO4- and HPO4²-", "P2O5"],
-    correct: 1,
+    correct: 2,
     explanation: "As per DA-121 notes: Phosphorus is mainly absorbed by plants as H2PO4- (dihydrogen phosphate) and HPO4²- (hydrogen phosphate) ions from soil solution."
   },
   {
@@ -1380,7 +1380,7 @@ export const da121Questions: Question[] = [
     lectureNo: 27,
     question: "Copper deficiency in plants causes:",
     options: ["Interveinal chlorosis", "Root nodule formation", "Yellowing and withering of young leaves (die-back of shoots, reclamation disease)", "Purple stems"],
-    correct: 0,
+    correct: 2,
     explanation: "As per DA-121 notes: Copper deficiency causes yellowing and wilting of young leaves, die-back of shoots, and reclamation disease in cereals grown on peat soils."
   },
   {
