@@ -2445,4 +2445,104 @@ export const da101LectureQuestions: Question[] = [
     explanation: "The critical period for crop-weed competition is the growth stage during which weeds must be controlled to prevent significant yield loss. For most field crops this is the first 30-45 days after sowing/emergence when crops are small and most susceptible to competition for light, water, and nutrients.",
     difficulty: "medium"
   },
+  {
+    id: "d101l_141",
+    subject: "da-101",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "Meteorology is defined as the science of:",
+    options: ["The atmosphere and its phenomena", "The soil and its physical properties", "Ocean currents and tides only", "Plant growth and development"],
+    correct: 0,
+    explanation: "As per DA-101 notes: Meteorology is defined as 'the science of the atmosphere'."
+  },
+  {
+    id: "d101l_142",
+    subject: "da-101",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "The branch of science dealing with the factors that determine and control the distribution of climate over the earth's surface is:",
+    options: ["Agronomy", "Climatology", "Edaphology", "Hydrology"],
+    correct: 1,
+    explanation: "As per DA-101 notes: Climatology is defined as the science dealing with the factors which determine and control the distribution of climate over the earth's surface."
+  },
+  {
+    id: "d101l_143",
+    subject: "da-101",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "The lowermost layer of the atmosphere, called the 'seat of weather phenomena', is the:",
+    options: ["Stratosphere", "Mesosphere", "Troposphere", "Ionosphere"],
+    correct: 2,
+    explanation: "As per DA-101 notes: The troposphere is the lowermost layer and is called the 'seat of weather phenomena' as almost all weather changes occur here."
+  },
+  {
+    id: "d101l_144",
+    subject: "da-101",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "The stratosphere is known as the:",
+    options: ["Seat of weather phenomena", "Seat of solar radiation", "Seat of magnetic storms", "Seat of photochemical reactions"],
+    correct: 3,
+    explanation: "As per DA-101 notes: The stratosphere is called the 'seat of photochemical reactions'. The troposphere is the seat of weather phenomena."
+  },
+  {
+    id: "d101l_145",
+    subject: "da-101",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "The average adiabatic lapse rate of the atmosphere is approximately:",
+    options: ["6.5 degrees C per kilometre", "1.0 degrees C per kilometre", "10 degrees C per kilometre", "0.1 degrees C per kilometre"],
+    correct: 0,
+    explanation: "As per DA-101 notes: The average adiabatic lapse rate is 6.5 degrees C per kilometre (assumed as 0.5 degrees C per 100 m)."
+  },
+  {
+    id: "d101l_146",
+    subject: "da-101",
+    lecture: "lecture-4",
+    lectureNo: 4,
+    question: "The Campbell-Stokes sunshine recorder was invented in 1853 by:",
+    options: ["Sir George Gabriel Stokes", "John Francis Campbell", "Edmund Halley", "John Dalton"],
+    correct: 1,
+    explanation: "As per DA-101 notes: The sunshine recorder was invented by John Francis Campbell in 1853 and modified in 1879 by Sir George Gabriel Stokes."
+  },
+  {
+    id: "d101l_147",
+    subject: "da-101",
+    lecture: "lecture-5",
+    lectureNo: 5,
+    question: "The thermal concept explaining the origin of the monsoon was proposed in 1636 by:",
+    options: ["Koppen", "Flohn", "Halley", "Thornthwaite"],
+    correct: 2,
+    explanation: "As per DA-101 notes: The 'Thermal concept' of the monsoon proposed by Halley in 1636 is of more practical relevance than other concepts."
+  },
+  {
+    id: "d101l_148",
+    subject: "da-101",
+    lecture: "lecture-6",
+    lectureNo: 6,
+    question: "The Indian Meteorological Department (IMD) was established in the year:",
+    options: ["1924", "1947", "1901", "1875"],
+    correct: 3,
+    explanation: "As per DA-101 notes: The Indian Meteorological Department was established in 1875 (at Pune)."
+  },
+  {
+    id: "d101l_149",
+    subject: "da-101",
+    lecture: "lecture-6",
+    lectureNo: 6,
+    question: "Tornadoes that occur over water bodies are known as:",
+    options: ["Waterspouts", "Whirlwinds", "Cyclones", "Typhoons"],
+    correct: 0,
+    explanation: "As per DA-101 notes: The tornadoes occurring on water are known as 'waterspouts'."
+  },
+  {
+    id: "d101l_150",
+    subject: "da-101",
+    lecture: "lecture-7",
+    lectureNo: 7,
+    question: "The anti-clockwise movement of air, associated with adverse climatic situations, is called:",
+    options: ["Veering wind", "Backing wind", "Geostrophic wind", "Trade wind"],
+    correct: 1,
+    explanation: "As per DA-101 notes: Clockwise movement of air is 'veering wind' and anti-clockwise movement is 'backing wind'; adverse climatic situations occur in backing wind."
+  }
 ];

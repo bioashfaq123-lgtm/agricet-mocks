@@ -2222,5 +2222,84 @@ export const da102LectureQuestions: Question[] = [
     correct: 3,
     explanation: "As per DA-102 notes: FYM or compost=12.5 t/ha; Green manure in-situ=20 kg/ha; Green leaf manure=6.25 t/ha; Urea at first puddling=22 kg/ha for stubble decomposition."
   },
-
+  {
+    id: "d102l_151",
+    subject: "da-102",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "In India, rice cultivation extends across the latitude range of:",
+    options: ["8 to 35 degrees N", "20 to 40 degrees N", "0 to 10 degrees N", "35 to 50 degrees N"],
+    correct: 0,
+    explanation: "As per DA-102 notes: Rice cultivation in India extends from 8 to 35 degrees N latitude and from sea level to as high as 3000 metres."
+  },
+  {
+    id: "d102l_152",
+    subject: "da-102",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "The favourable temperature range for blooming (flowering) in rice is:",
+    options: ["15 to 20 degrees C", "26.5 to 29.5 degrees C", "35 to 40 degrees C", "5 to 10 degrees C"],
+    correct: 1,
+    explanation: "As per DA-102 notes: The temperature requirement for blooming in rice is in the range of 26.5 to 29.5 degrees C."
+  },
+  {
+    id: "d102l_153",
+    subject: "da-102",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "At the time of ripening of the rice crop, the optimum temperature should be:",
+    options: ["30 to 35 degrees C", "10 to 15 degrees C", "20 to 25 degrees C", "40 to 45 degrees C"],
+    correct: 2,
+    explanation: "As per DA-102 notes: At the time of ripening of rice, the temperature should be between 20-25 degrees C."
+  },
+  {
+    id: "d102l_154",
+    subject: "da-102",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "In rice cultivation, puddling of the field should ideally be completed before transplanting by:",
+    options: ["45 days", "2 months", "1 day", "15 days"],
+    correct: 3,
+    explanation: "As per DA-102 notes: Land preparation for transplanting - puddling should be done before 15 days of transplanting (or completed 2 days before in black cotton soils)."
+  },
+  {
+    id: "d102l_155",
+    subject: "da-102",
+    lecture: "lecture-4",
+    lectureNo: 4,
+    question: "In the System of Rice Intensification (SRI), the nursery area required to plant one hectare is about:",
+    options: ["100 m2", "1000 m2", "10 m2", "5000 m2"],
+    correct: 0,
+    explanation: "As per DA-102 notes: In SRI, prepare a 100 m2 nursery to plant 1 ha area, using much less seed than conventional methods."
+  },
+  {
+    id: "d102l_156",
+    subject: "da-102",
+    lecture: "lecture-4",
+    lectureNo: 4,
+    question: "For seed treatment of paddy, the recommended dose of Carbendazim is:",
+    options: ["30 g per kg of seed", "3 g per kg of seed", "0.3 g per kg of seed", "100 g per kg of seed"],
+    correct: 1,
+    explanation: "As per DA-102 notes: Seed treatment - 3 grams of Carbendazim should be mixed with 1 kg paddy seeds, and sowing done after 24 hours in nursery."
+  },
+  {
+    id: "d102l_157",
+    subject: "da-102",
+    lecture: "lecture-5",
+    lectureNo: 5,
+    question: "In rice nursery management, seedlings older than how many days should not be planted?",
+    options: ["30 days", "90 days", "60 days", "120 days"],
+    correct: 2,
+    explanation: "As per DA-102 notes: For healthy nursery raising, nursery/seedlings beyond 60 days should not be planted."
+  },
+  {
+    id: "d102l_158",
+    subject: "da-102",
+    lecture: "lecture-6",
+    lectureNo: 6,
+    question: "Minor millets can be safely stored without pest and disease infestation for a period of:",
+    options: ["1 month", "6 months", "10-12 years", "2-3 years"],
+    correct: 3,
+    explanation: "As per DA-102 notes: In storage, minor millets are safely stored for 2-3 years without any pest and disease infestation."
+  }
 ];

@@ -2550,4 +2550,94 @@ export const da122LectureQuestions: Question[] = [
     explanation: "Copper sulphate (CuSO4.5H2O, blue vitriol) is used to correct copper (Cu) deficiency. Copper deficiency is most common in organic/peaty soils, sandy soils, and newly reclaimed soils. It causes reclamation disease in cereals and dieback in citrus and other fruit crops.",
     difficulty: "hard"
   },
+  {
+    id: "d122l_151",
+    subject: "da-122",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "Compost prepared using farm organic wastes with fresh dung and/or urine-soaked earth as a starter is called:",
+    options: ["Rural compost", "Urban compost", "Green manure", "Vermicompost"],
+    correct: 0,
+    explanation: "As per DA-122 notes: Compost prepared using farm organic wastes and fresh dung and/or urine soaked earth as a starter is called Rural Compost."
+  },
+  {
+    id: "d122l_152",
+    subject: "da-122",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "The popular household biogas unit promoted in villages is commonly called:",
+    options: ["Surya Jyoti", "Gruha Lakshmi", "Annapurna", "Kamadhenu"],
+    correct: 1,
+    explanation: "As per DA-122 notes: The biogas unit is popularly called as 'Gruha Lakshmi', helping village development."
+  },
+  {
+    id: "d122l_153",
+    subject: "da-122",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "In the symbiotic association in root nodules, Rhizobium fixes atmospheric nitrogen to the extent of:",
+    options: ["2-5 kg nitrogen per acre", "200-300 kg nitrogen per acre", "25-50 kg nitrogen per acre", "1-2 kg nitrogen per acre"],
+    correct: 2,
+    explanation: "As per DA-122 notes: Rhizobium fixes 25-50 kg nitrogen per acre in their root nodules, reducing nitrogen loss from soil."
+  },
+  {
+    id: "d122l_154",
+    subject: "da-122",
+    lecture: "lecture-4",
+    lectureNo: 4,
+    question: "In vermicomposting, the turnover (out-turn) of compost obtained from the residue is approximately:",
+    options: ["50 per cent", "100 per cent", "25 per cent", "75 per cent"],
+    correct: 3,
+    explanation: "As per DA-122 notes: The turnover of vermicompost is 75% (of 1000 kg material accommodated in the pit, the out-turn is 750 kg)."
+  },
+  {
+    id: "d122l_155",
+    subject: "da-122",
+    lecture: "lecture-5",
+    lectureNo: 5,
+    question: "The symbiotic association of Azolla pinnata and Anabaena azollae is termed the:",
+    options: ["Azolla-Anabaena complex", "Rhizobium-legume symbiosis", "Mycorrhizal association", "Frankia complex"],
+    correct: 0,
+    explanation: "As per DA-122 notes: The symbiotic association of Azolla pinnata and Anabaena azollae is termed the Azolla-Anabaena complex; it is used as green manure for rice."
+  },
+  {
+    id: "d122l_156",
+    subject: "da-122",
+    lecture: "lecture-5",
+    lectureNo: 5,
+    question: "Azolla is recommended as a green manure for rice mainly because of its large biomass and high nitrogen content of:",
+    options: ["0.5-1 per cent N", "4-6 per cent N", "10-12 per cent N", "20-25 per cent N"],
+    correct: 1,
+    explanation: "As per DA-122 notes: Azolla is recommended as green manure because of its large biomass and high N content (4-6% N) for submerged rice fields."
+  },
+  {
+    id: "d122l_157",
+    subject: "da-122",
+    lecture: "lecture-6",
+    lectureNo: 6,
+    question: "Green leaf manuring should be carried out before sowing of the main crop by about:",
+    options: ["1 day", "2-3 months", "15-20 days", "90 days"],
+    correct: 2,
+    explanation: "As per DA-122 notes: In dry and rainfed areas, green leaf manuring should be done 15-20 days prior to sowing of the main crop."
+  },
+  {
+    id: "d122l_158",
+    subject: "da-122",
+    lecture: "lecture-7",
+    lectureNo: 7,
+    question: "To neutralise the acidity caused by 100 kg of ammonium sulphate, the quantity of calcium carbonate required is:",
+    options: ["50 kg", "10 kg", "250 kg", "110 kg"],
+    correct: 3,
+    explanation: "As per DA-122 notes: To neutralize the acidity, for every 100 kg of ammonium sulphate, 110 kg of calcium carbonate is required."
+  },
+  {
+    id: "d122l_159",
+    subject: "da-122",
+    lecture: "lecture-6",
+    lectureNo: 6,
+    question: "The oil cake known as 'castor pomace' is:",
+    options: ["Castor cake", "Neem cake", "Mustard cake", "Cotton seed cake"],
+    correct: 0,
+    explanation: "As per DA-122 notes: Among non-edible oil cakes, castor cake is also called castor pomace."
+  }
 ];

@@ -2549,5 +2549,94 @@ export const da121LectureQuestions: Question[] = [
     correct: 3,
     explanation: "As per DA-121 notes: Heavy metals (industrial effluents, bioaccumulation); Persistent pesticides (overuse, accumulate in food chain); Nitrates (excess fertilizers, groundwater contamination); Plastic (packaging/mulching, blocks water/air)."
   },
-
+  {
+    id: "d121l_151",
+    subject: "da-121",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "Soil separates are defined as individual size groups of mineral soil particles which are:",
+    options: ["2 mm or less in diameter", "More than 5 mm in diameter", "Exactly 1 cm in diameter", "Larger than gravel"],
+    correct: 0,
+    explanation: "As per DA-121 notes: Soil separates may be defined as the individual size groups of mineral soil particles which are 2 mm or less in diameter."
+  },
+  {
+    id: "d121l_152",
+    subject: "da-121",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "According to the soil-separate size limits, the clay fraction has a particle size of:",
+    options: ["2.0 to 0.2 mm", "Less than 0.002 mm", "0.2 to 0.02 mm", "More than 2 mm"],
+    correct: 1,
+    explanation: "As per DA-121 notes: The clay fraction is less than 0.002 mm in size and forms the decisive fraction of the soil with most influence on soil behaviour."
+  },
+  {
+    id: "d121l_153",
+    subject: "da-121",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "Available soil water is defined as the portion of water retained in the soil between:",
+    options: ["Hygroscopic coefficient and oven-dry", "Saturation and field capacity", "Field capacity and permanent wilting point", "Maximum water-holding capacity and saturation"],
+    correct: 2,
+    explanation: "As per DA-121 notes: Available water is defined as that portion of water which is retained in the soil between field capacity and the permanent wilting point."
+  },
+  {
+    id: "d121l_154",
+    subject: "da-121",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "The study of living organisms in the soil (from Greek bios = life, logos = study) is called:",
+    options: ["Soil physics", "Pedology", "Soil chemistry", "Soil biology"],
+    correct: 3,
+    explanation: "As per DA-121 notes: From the Greek words bios = life and logos = study, the study of living organisms in soil is called soil biology."
+  },
+  {
+    id: "d121l_155",
+    subject: "da-121",
+    lecture: "lecture-4",
+    lectureNo: 4,
+    question: "The ratio of the weight of organic carbon to the weight of total nitrogen in soil or organic material is known as the:",
+    options: ["C:N ratio", "Base saturation", "Exchange capacity", "Bulk density"],
+    correct: 0,
+    explanation: "As per DA-121 notes: The ratio of the weight of organic carbon to the weight of total nitrogen in a soil or organic material is known as the C:N ratio."
+  },
+  {
+    id: "d121l_156",
+    subject: "da-121",
+    lecture: "lecture-4",
+    lectureNo: 4,
+    question: "The microbial conversion of organic forms of C, N, P and S to inorganic (mineral) forms is called:",
+    options: ["Immobilization", "Mineralization", "Nitrification", "Humification"],
+    correct: 1,
+    explanation: "As per DA-121 notes: Mineralization is the conversion of organic forms of C, N, P and S to inorganic or mineral forms as a result of microbial decomposition."
+  },
+  {
+    id: "d121l_157",
+    subject: "da-121",
+    lecture: "lecture-4",
+    lectureNo: 4,
+    question: "Denitrification is defined as the microbial reduction of nitrate and nitrite with the release and loss of:",
+    options: ["Sulphur dioxide", "Carbon dioxide", "Molecular nitrogen", "Ammonia"],
+    correct: 2,
+    explanation: "As per DA-121 notes: Denitrification is the microbial reduction of nitrate and nitrite with the release and loss of molecular nitrogen."
+  },
+  {
+    id: "d121l_158",
+    subject: "da-121",
+    lecture: "lecture-5",
+    lectureNo: 5,
+    question: "Soil particles that possess colloidal properties are generally less than which size?",
+    options: ["0.1 mm", "2 mm", "0.5 mm", "0.001 mm"],
+    correct: 3,
+    explanation: "As per DA-121 notes: Soil particles less than 0.001 mm in size possess colloidal properties and are known as soil colloids."
+  },
+  {
+    id: "d121l_159",
+    subject: "da-121",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "When two or three colours occur in patches within a soil, the condition is called:",
+    options: ["Mottling", "Leaching", "Gleization", "Eluviation"],
+    correct: 0,
+    explanation: "As per DA-121 notes: Frequently two or three colours occur in patches in a soil, which is called 'mottling'."
+  }
 ];
