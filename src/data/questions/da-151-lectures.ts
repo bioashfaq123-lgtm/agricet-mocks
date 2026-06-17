@@ -2043,7 +2043,7 @@ export const da151LectureQuestions: Question[] = [
     lectureNo: 1,
     question: "Biomass energy can be converted into producer gas using which process?",
     options: ["Pyrolysis", "Gasification", "Fermentation", "Distillation"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-151 notes: Biomass energy - Gasifiers produce producer gas, pyrolysis produces liquid fuels, Biogas etc."
   },
   {
@@ -2553,7 +2553,7 @@ export const da151LectureQuestions: Question[] = [
     lectureNo: 3,
     question: "Match the engine parameter with diesel vs petrol comparison:\nA-Compression ratio, B-Engine weight/hp, C-Operating cost\n1-High for diesel, low for petrol, 2-High for petrol, low for diesel, 3-Low for diesel, high for petrol",
     options: ["A-1, B-2, C-3", "A-1, B-1, C-3", "A-2, B-1, C-3", "A-3, B-2, C-1"],
-    correct: 0,
+    correct: 1,
     explanation: "As per DA-151 notes: Compression ratio-diesel 14:1-20:1 (high), petrol 5:1-8:1 (low); Engine weight/hp-diesel high, petrol low; Operating cost-diesel low, petrol high."
   },
   {
