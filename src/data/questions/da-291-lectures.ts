@@ -1164,9 +1164,9 @@ export const da291LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Rythu Bandhu scheme in Telangana provides farmers with:",
-    options: ["Crop insurance at zero premium in extension education", "Rs. 10,000 per acre per season (kharif and rabi) as investment support", "Free drip irrigation systems in rural development programmes", "Free seeds and fertilizers under this extension approach"],
+    options: ["Crop insurance at zero premium in extension education", "Rs. 10,000 per acre per year (Rs. 5,000 each for kharif and rabi) as investment support", "Free drip irrigation systems in rural development programmes", "Free seeds and fertilizers under this extension approach"],
     correct: 1,
-    explanation: "Rythu Bandhu (Farmers' Investment Support Scheme) of Telangana provides Rs. 10,000 per acre per season (Rs. 5,000 per acre Ã— 2 seasons = Rs. 10,000/acre/year) as pre-sowing investment support."
+    explanation: "Rythu Bandhu (Farmers' Investment Support Scheme) of Telangana provides Rs. 5,000 per acre per season, i.e. Rs. 10,000 per acre per year across the kharif and rabi seasons, as pre-sowing investment support."
   },
   {
     id: "d291l_116",
