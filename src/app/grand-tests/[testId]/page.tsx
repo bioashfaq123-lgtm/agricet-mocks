@@ -20,6 +20,7 @@ import { GRAND_TEST_7  } from "@/data/grandTest7";
 import { GRAND_TEST_8  } from "@/data/grandTest8";
 import { GRAND_TEST_9  } from "@/data/grandTest9";
 import { GRAND_TEST_10 } from "@/data/grandTest10";
+import { GRAND_TEST_11 } from "@/data/grandTest11";
 import { GRAND_TEST_LIVE } from "@/data/grandTestLive";
 
 const TEST_DATA: Record<string, GrandTestQuestion[]> = {
@@ -33,6 +34,7 @@ const TEST_DATA: Record<string, GrandTestQuestion[]> = {
   gt8:    GRAND_TEST_8,
   gt9:    GRAND_TEST_9,
   gt10:   GRAND_TEST_10,
+  gt11:   GRAND_TEST_11,
   gtlive: GRAND_TEST_LIVE,
 };
 
