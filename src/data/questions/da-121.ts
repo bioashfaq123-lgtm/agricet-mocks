@@ -1050,7 +1050,7 @@ export const da121Questions: Question[] = [
     lectureNo: 16,
     question: "The Cation Exchange Capacity (CEC) is expressed as:",
     options: ["cmol(p+)/kg (or meq/100g)", "mg/100g of soil", "ppm", "% by weight"],
-    correct: 1,
+    correct: 0,
     explanation: "As per DA-121 notes: CEC is expressed as cmol(p+)/kg (centimoles of positive charge per kg) or meq/100g of soil."
   },
   {
@@ -1070,7 +1070,7 @@ export const da121Questions: Question[] = [
     lectureNo: 19,
     question: "The soil pH scale ranges from:",
     options: ["0-7", "1-14", "0-14", "4-10"],
-    correct: 0,
+    correct: 2,
     explanation: "As per DA-121 notes: The pH scale ranges from 0-14. pH 7 is neutral, below 7 is acidic and above 7 is alkaline."
   },
   {
@@ -1120,7 +1120,7 @@ export const da121Questions: Question[] = [
     lectureNo: 21,
     question: "Sodic (alkali) soils are characterized by Exchangeable Sodium Percentage (ESP) greater than:",
     options: ["25%", "5%", "10%", "15%"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-121 notes: Sodic (alkali) soils have ESP greater than 15%, with pH above 8.5 and poor soil structure."
   },
   {
@@ -1170,7 +1170,7 @@ export const da121Questions: Question[] = [
     lectureNo: 24,
     question: "How many essential nutrients are required by plants?",
     options: ["12", "14", "17", "20"],
-    correct: 0,
+    correct: 2,
     explanation: "As per DA-121 notes: There are 17 essential nutrients required by plants: C, H, O, N, P, K, Ca, Mg, S (macronutrients) and Fe, Mn, Zn, Cu, Mo, B, Cl, Ni (micronutrients)."
   },
   {
@@ -1180,7 +1180,7 @@ export const da121Questions: Question[] = [
     lectureNo: 24,
     question: "The criteria of essentiality of a nutrient includes which of the following?",
     options: ["It must be produced by the plant itself", "It must be present in large quantities", "The plant cannot complete its life cycle without it and no other element can substitute for it", "Its absence causes no visible deficiency"],
-    correct: 3,
+    correct: 2,
     explanation: "As per DA-121 notes: Arnon's criteria of essentiality: (1) Deficiency prevents normal growth/reproduction; (2) The deficiency symptom is specific to that element; (3) The element is directly involved in plant metabolism."
   },
   {
@@ -1330,7 +1330,7 @@ export const da121Questions: Question[] = [
     lectureNo: 24,
     question: "Elements supplied by air and water to plants are:",
     options: ["C, H, O", "N, P, K", "Ca, Mg, S", "Fe, Mn, Zn"],
-    correct: 1,
+    correct: 0,
     explanation: "As per DA-121 notes: Carbon (CO2 from air) and Hydrogen and Oxygen (from water) are supplied by air and water. All other essential nutrients come from soil."
   },
   {
@@ -1400,7 +1400,7 @@ export const da121Questions: Question[] = [
     lectureNo: 10,
     question: "Symbiotic nitrogen fixation occurs between legumes and which organism?",
     options: ["Anabaena", "Rhizobium", "Azotobacter", "Clostridium"],
-    correct: 2,
+    correct: 1,
     explanation: "As per DA-121 notes: Symbiotic nitrogen fixation occurs between legumes and Rhizobium bacteria in root nodules. Free-living fixation is by Azotobacter, Clostridium etc."
   },
   {

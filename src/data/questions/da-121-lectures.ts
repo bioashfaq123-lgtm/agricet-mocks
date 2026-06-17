@@ -1114,9 +1114,9 @@ export const da121LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "The critical limit of available soil phosphorus (Olsen P) below which fertilizer P application gives economic response is:",
-    options: ["< 1 mg kg⁻¹", "< 25 mg kg⁻¹", "< 50 mg kg⁻¹", "< 5 mg kg⁻¹ (medium or lower)"],
+    options: ["< 1 mg kg⁻¹", "< 25 mg kg⁻¹", "< 50 mg kg⁻¹", "< 5 mg kg⁻¹ (low/responsive)"],
     correct: 3,
-    explanation: "The critical Olsen P for most crops is approximately 10–12 mg kg⁻¹ (varies by crop and soil). Soils with Olsen P < 10 mg kg⁻¹ are considered low (responsive to P fertilization)."
+    explanation: "The critical limit of available P (Olsen P) is about 5 mg kg⁻¹. Soils testing below ~5 mg kg⁻¹ fall in the low category and respond economically to P fertilization; 5–10 mg kg⁻¹ is medium and > 10 mg kg⁻¹ is high (generally non-responsive)."
   },
   {
     id: "d121l_109",
@@ -1796,7 +1796,7 @@ export const da121LectureQuestions: Question[] = [
     lectureNo: 16,
     question: "The Cation Exchange Capacity (CEC) is expressed as:",
     options: ["mg/100g of soil", "% by weight", "cmol(p+)/kg (or meq/100g)", "ppm"],
-    correct: 0,
+    correct: 2,
     explanation: "As per DA-121 notes: CEC is expressed as cmol(p+)/kg (centimoles of positive charge per kg) or meq/100g of soil."
   },
   {
@@ -1816,7 +1816,7 @@ export const da121LectureQuestions: Question[] = [
     lectureNo: 19,
     question: "The soil pH scale ranges from:",
     options: ["0-7", "4-10", "1-14", "0-14"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-121 notes: The pH scale ranges from 0-14. pH 7 is neutral, below 7 is acidic and above 7 is alkaline."
   },
   {
@@ -1866,7 +1866,7 @@ export const da121LectureQuestions: Question[] = [
     lectureNo: 21,
     question: "Sodic (alkali) soils are characterized by Exchangeable Sodium Percentage (ESP) greater than:",
     options: ["10%", "15%", "5%", "25%"],
-    correct: 2,
+    correct: 1,
     explanation: "As per DA-121 notes: Sodic (alkali) soils have ESP greater than 15%, with pH above 8.5 and poor soil structure."
   },
   {
@@ -1916,7 +1916,7 @@ export const da121LectureQuestions: Question[] = [
     lectureNo: 24,
     question: "How many essential nutrients are required by plants?",
     options: ["14", "20", "17", "12"],
-    correct: 3,
+    correct: 2,
     explanation: "As per DA-121 notes: There are 17 essential nutrients required by plants: C, H, O, N, P, K, Ca, Mg, S (macronutrients) and Fe, Mn, Zn, Cu, Mo, B, Cl, Ni (micronutrients)."
   },
   {
@@ -1926,7 +1926,7 @@ export const da121LectureQuestions: Question[] = [
     lectureNo: 24,
     question: "The criteria of essentiality of a nutrient includes which of the following?",
     options: ["The plant cannot complete its life cycle without it and no other element can substitute for it", "It must be produced by the plant itself", "Its absence causes no visible deficiency", "It must be present in large quantities"],
-    correct: 2,
+    correct: 0,
     explanation: "As per DA-121 notes: Arnon's criteria of essentiality: (1) Deficiency prevents normal growth/reproduction; (2) The deficiency symptom is specific to that element; (3) The element is directly involved in plant metabolism."
   },
   {
@@ -2076,7 +2076,7 @@ export const da121LectureQuestions: Question[] = [
     lectureNo: 24,
     question: "Elements supplied by air and water to plants are:",
     options: ["N, P, K", "Fe, Mn, Zn", "Ca, Mg, S", "C, H, O"],
-    correct: 0,
+    correct: 3,
     explanation: "As per DA-121 notes: Carbon (CO2 from air) and Hydrogen and Oxygen (from water) are supplied by air and water. All other essential nutrients come from soil."
   },
   {
@@ -2146,7 +2146,7 @@ export const da121LectureQuestions: Question[] = [
     lectureNo: 10,
     question: "Symbiotic nitrogen fixation occurs between legumes and which organism?",
     options: ["Clostridium", "Azotobacter", "Anabaena", "Rhizobium"],
-    correct: 1,
+    correct: 3,
     explanation: "As per DA-121 notes: Symbiotic nitrogen fixation occurs between legumes and Rhizobium bacteria in root nodules. Free-living fixation is by Azotobacter, Clostridium etc."
   },
   {

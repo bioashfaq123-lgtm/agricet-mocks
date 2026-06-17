@@ -42,6 +42,14 @@ const FIXES = [
   ["d122x_055", "through irrigation water"],
   // found by numeric audit
   ["d122x_040", "1985"],
+  // found by manual line-by-line read of DA-121 (audits missed: substring/semantic false negatives)
+  ["d121x_025", "cmol(p+)/kg"],
+  ["d121x_027", "0-14"],
+  ["d121x_032", "15%"],
+  ["d121x_037", "17"],
+  ["d121x_038", "cannot complete its life cycle"],
+  ["d121x_053", "C, H, O"],
+  ["d121x_060", "Rhizobium"],
 ];
 
 const files = fs.readdirSync(dir).filter(f => /^da-\d/.test(f) && f.endsWith(".ts"));
