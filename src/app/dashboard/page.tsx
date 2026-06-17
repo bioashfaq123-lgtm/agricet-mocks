@@ -59,7 +59,7 @@ function LiveTestBanner() {
         <span className="bg-yellow-400 text-black text-xs font-black px-2 py-0.5 rounded-full">UPCOMING</span>
       </div>
       <h3 className="text-base font-black text-white mb-1">FREE Live Mock Test — 19th June 2026 (Friday)</h3>
-      <p className="text-gray-400 text-xs mb-3">8 PM (19th) – 12 PM (20th) IST · 100 Questions · Very Hard · All Telangana Rank · Absolutely FREE</p>
+      <p className="text-gray-400 text-xs mb-3">8 PM (19th) – 12 PM (20th) IST · 100 Questions · All Telangana Rank · Absolutely FREE</p>
       <div className="grid grid-cols-4 gap-2 mb-3">
         {[{v:d,l:"Days"},{v:h,l:"Hrs"},{v:m,l:"Min"},{v:s,l:"Sec"}].map(({v,l}) => (
           <div key={l} className="bg-gray-700 rounded-xl p-2 text-center border border-gray-600">
