@@ -1782,7 +1782,7 @@ export const da171LectureQuestions: Question[] = [
     id: "d171z_005", subject: "da-171", lecture: "lecture-10", lectureNo: 10,
     question: "Plant quarantine measures in disease management are aimed at:",
     options: ["Restricting the use of chemical pesticides in border areas", "Preventing introduction of exotic pathogens into disease-free regions or countries", "Fumigating irrigation water supplies to remove water-borne pathogens", "Destroying diseased plants within a farm immediately after diagnosis"],
-    correct: 0,
+    correct: 1,
     explanation: "Plant quarantine prevents entry of exotic pests and diseases across national/state borders through import inspections, phytosanitary certificates, treatment protocols, and embargoes on infected material.",
     difficulty: "easy"
   },
