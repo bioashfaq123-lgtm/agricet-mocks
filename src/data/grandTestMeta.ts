@@ -20,7 +20,7 @@ export const GRAND_TESTS: GrandTestMeta[] = [
   { id: "gt8",  title: "Grand Test 8",  totalQuestions: 100, duration: 100,                              difficulty: "Mixed",  description: "Farm Machinery, Surveying and Agricultural Economics edition.", subjects: 17 },
   { id: "gt9",  title: "Grand Test 9",  totalQuestions: 100, duration: 100,                              difficulty: "Hard",   description: "Near-exam difficulty — competitive questions across all subjects.", subjects: 17 },
   { id: "gt10",   title: "Grand Test 10",        totalQuestions: 100, duration: 100, badge: "🔥 Final Revision",  difficulty: "Mixed",  description: "Final full-length revision test — best to attempt last.", subjects: 17 },
-  { id: "gtlive", title: "FREE Live Mock Test",  totalQuestions: 100, duration: 100, badge: "🔴 LIVE • 8 June",   difficulty: "Mixed",  description: "Official free live mock test for all AGRICET aspirants across Telangana — Monday, 8th June 2026, 8 PM to 9th June 2026, 12:00 PM.", subjects: 17 },
+  { id: "gtlive", title: "FREE Live Mock Test",  totalQuestions: 100, duration: 100, badge: "🔴 LIVE • 19 June",  difficulty: "Hard",   description: "Official free live mock test for all AGRICET aspirants across Telangana — very hard, exam-level — Friday, 19th June 2026, 8 PM to 20th June 2026, 12:00 PM.", subjects: 17 },
 ];
 
 export interface GrandTestQuestion {

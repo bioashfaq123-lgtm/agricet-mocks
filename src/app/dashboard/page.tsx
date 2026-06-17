@@ -13,8 +13,8 @@ import Navbar from "@/components/Navbar";
 import PaymentButton from "@/components/PaymentButton";
 
 // ── Live test date gate ──────────────────────────────────────────────────────
-const LIVE_START = new Date("2026-06-08T14:30:00Z"); // 8 PM IST
-const LIVE_END   = new Date("2026-06-08T16:10:00Z"); // 9:40 PM IST
+const LIVE_START = new Date("2026-06-19T14:30:00Z"); // 8 PM IST, 19 June
+const LIVE_END   = new Date("2026-06-20T06:30:00Z"); // 12:00 PM IST, 20 June
 
 function LiveTestBanner() {
   const [now, setNow] = useState(() => new Date());
@@ -58,8 +58,8 @@ function LiveTestBanner() {
         <span className="bg-green-500 text-white text-xs font-black px-2 py-0.5 rounded-full">FREE</span>
         <span className="bg-yellow-400 text-black text-xs font-black px-2 py-0.5 rounded-full">UPCOMING</span>
       </div>
-      <h3 className="text-base font-black text-white mb-1">FREE Live Mock Test — 8th June 2026 (Monday)</h3>
-      <p className="text-gray-400 text-xs mb-3">8 PM – 9:40 PM IST · 100 Questions · All Telangana Rank · Absolutely FREE</p>
+      <h3 className="text-base font-black text-white mb-1">FREE Live Mock Test — 19th June 2026 (Friday)</h3>
+      <p className="text-gray-400 text-xs mb-3">8 PM (19th) – 12 PM (20th) IST · 100 Questions · Very Hard · All Telangana Rank · Absolutely FREE</p>
       <div className="grid grid-cols-4 gap-2 mb-3">
         {[{v:d,l:"Days"},{v:h,l:"Hrs"},{v:m,l:"Min"},{v:s,l:"Sec"}].map(({v,l}) => (
           <div key={l} className="bg-gray-700 rounded-xl p-2 text-center border border-gray-600">
