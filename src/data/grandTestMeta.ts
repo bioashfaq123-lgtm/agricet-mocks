@@ -32,9 +32,10 @@ export interface GrandTestQuestion {
   options: string[];
   correct: number;   // 0-indexed
   explanation: string;
-  /** Optional structured match-the-following table for "match the columns" type questions */
+  /** Optional structured match-the-following table for "match the columns" type
+   * questions. Supports 2 columns (List-I / List-II) or 3 columns. */
   matchTable?: {
-    headers: [string, string, string];
-    rows: [string, string, string][];
+    headers: string[];
+    rows: string[][];
   };
 }
