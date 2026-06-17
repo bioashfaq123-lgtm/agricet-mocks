@@ -1792,7 +1792,7 @@ export const da241LectureQuestions: Question[] = [
     lectureNo: 39,
     question: "Why does the price of agricultural products fluctuate substantially compared to manufactured goods?",
     options: ["Manufactured goods have more substitutes", "Irregular and uncertain supply combined with relatively constant demand", "Agricultural products have higher quality than manufactured goods", "Government interference in agricultural markets is excessive"],
-    correct: 2,
+    correct: 1,
     explanation: "Supply of agricultural products is uncertain and irregular because of dependence on natural conditions. With varying supply and demand remaining almost constant, prices of agricultural products fluctuate substantially. Manufactured goods can adjust supply to be uniform throughout the year."
   },
   {
