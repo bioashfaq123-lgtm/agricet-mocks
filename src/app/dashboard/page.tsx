@@ -34,7 +34,7 @@ function LiveTestBanner() {
           <span className="bg-white/25 text-white text-xs font-bold px-2 py-0.5 rounded-full">100% FREE</span>
         </div>
         <h3 className="text-lg font-black mb-1">FREE Live Mock Test is LIVE!</h3>
-        <p className="text-green-100 text-xs mb-4">100 Questions · 100 Minutes · All Telangana Rank · Ends 9:40 PM IST</p>
+        <p className="text-green-100 text-xs mb-4">100 Questions · 100 Minutes · All Telangana Rank · Open till 12 PM IST (20th June)</p>
         <Link href="/grand-tests/gtlive"
           className="inline-flex items-center gap-2 bg-white text-green-700 font-black px-5 py-2.5 rounded-xl text-sm hover:bg-green-50 transition-all hover:scale-105 shadow">
           Start FREE Test Now <ChevronRight className="w-4 h-4" />
