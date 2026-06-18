@@ -4,7 +4,7 @@ import { useParams, useRouter } from "next/navigation";
 import Link from "next/link";
 import {
   ChevronLeft, ChevronRight, CheckCircle, X, AlertCircle,
-  Clock, LayoutGrid, Trophy, RotateCcw,
+  Clock, LayoutGrid, Trophy, RotateCcw, Star,
 } from "lucide-react";
 import { useAuth } from "@/contexts/AuthContext";
 import { db } from "@/lib/firebase";
@@ -106,6 +106,9 @@ export default function GrandTestPage() {
   const [finished, setFinished]       = useState(false);
   const [showNavigator, setShowNavigator] = useState(false);
   const [timeLeft, setTimeLeft]       = useState((meta?.duration ?? 100) * 60);
+  const [rating, setRating]           = useState(0);
+  const [ratingHover, setRatingHover] = useState(0);
+  const [ratingSent, setRatingSent]   = useState(false);
 
   const countdown = useCountdown(LIVE_START_UTC);
 
@@ -209,6 +212,22 @@ export default function GrandTestPage() {
     return () => { cancelled = true; };
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [finished]);
+
+  // Submit the student's star rating of the live mock test (best-effort; never blocks).
+  const submitRating = async (stars: number) => {
+    if (ratingSent || !user) return;
+    setRating(stars);
+    setRatingSent(true);
+    try {
+      await fetch("/api/live-rating", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ uid: user.uid, rating: stars }),
+      });
+    } catch (e) {
+      console.error("Failed to submit rating:", e);
+    }
+  };
 
   // Auth / access guard — wait for Firebase to finish loading first
   if (loading) {
@@ -419,6 +438,7 @@ export default function GrandTestPage() {
 
           <div className="space-y-3">
             {isLive ? (
+              <>
               <div className="bg-blue-50 border border-blue-200 rounded-xl p-4 text-center">
                 <p className="text-sm text-blue-800 font-semibold mb-1">📧 Answers &amp; explanations emailed to you</p>
                 <p className="text-xs text-blue-600 leading-relaxed">
@@ -427,6 +447,26 @@ export default function GrandTestPage() {
                   (Check your spam folder if you don&apos;t see it.)
                 </p>
               </div>
+              <div className="bg-amber-50 border border-amber-200 rounded-xl p-4 text-center">
+                {ratingSent ? (
+                  <p className="text-sm text-amber-800 font-semibold">🙏 Thank you for your feedback!</p>
+                ) : (
+                  <>
+                    <p className="text-sm text-amber-800 font-semibold mb-2">How was the live mock test?</p>
+                    <div className="flex items-center justify-center gap-1">
+                      {[1, 2, 3, 4, 5].map(s => (
+                        <button key={s} type="button" onClick={() => submitRating(s)}
+                          onMouseEnter={() => setRatingHover(s)} onMouseLeave={() => setRatingHover(0)}
+                          className="p-1" aria-label={`${s} star`}>
+                          <Star className={`w-7 h-7 transition-colors ${(ratingHover || rating) >= s ? "fill-amber-400 text-amber-400" : "text-gray-300"}`} />
+                        </button>
+                      ))}
+                    </div>
+                    <p className="text-xs text-amber-600 mt-1.5">Tap a star to rate</p>
+                  </>
+                )}
+              </div>
+              </>
             ) : (
               <button
                 onClick={() => {

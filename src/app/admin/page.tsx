@@ -9,7 +9,7 @@ import {
   RefreshCw, TrendingUp, ShieldCheck, Download,
   ToggleLeft, ToggleRight, ChevronUp, ChevronDown,
   UserPlus, CreditCard, Activity, BarChart2, Clock,
-  Radio, Mail, Trophy, ListChecks, ChevronRight,
+  Radio, Mail, Trophy, ListChecks, ChevronRight, Star,
 } from "lucide-react";
 import { GRAND_TEST_LIVE } from "@/data/grandTestLive";
 import {
@@ -74,6 +74,7 @@ interface LiveAttempt {
   unattempted: number;
   total: number;
   emailSent?: boolean;
+  rating?: number | null;
   completedAt: Timestamp | null;
 }
 
@@ -110,7 +111,7 @@ export default function AdminPage() {
       const list: LiveAttempt[] = (json.docs ?? []).map((d: {
         id: string; uid: string; name: string; email: string;
         score: number; correct: number; wrong: number; unattempted: number;
-        total: number; emailSent: boolean; completedAt: number | null;
+        total: number; emailSent: boolean; rating: number | null; completedAt: number | null;
       }) => ({
         ...d,
         completedAt: d.completedAt ? Timestamp.fromMillis(d.completedAt) : null,
@@ -813,7 +814,7 @@ export default function AdminPage() {
               </div>
             </div>
             {/* Stat cards */}
-            <div className="grid grid-cols-2 sm:grid-cols-4 gap-4">
+            <div className="grid grid-cols-2 sm:grid-cols-5 gap-4">
               <div className="bg-white rounded-2xl border border-gray-200 p-5">
                 <div className="flex items-center gap-2 text-gray-400 text-xs font-semibold uppercase tracking-wide mb-2">
                   <Radio className="w-4 h-4 text-red-500 animate-pulse" /> Live Attempts
@@ -849,6 +850,16 @@ export default function AdminPage() {
                   {liveAttempts.filter(a => a.emailSent).length} / {liveAttempts.length}
                 </div>
                 <p className="text-xs text-gray-400 mt-1">Auto-sent after submission</p>
+              </div>
+              <div className="bg-white rounded-2xl border border-gray-200 p-5">
+                <div className="flex items-center gap-2 text-gray-400 text-xs font-semibold uppercase tracking-wide mb-2">
+                  <Star className="w-4 h-4 text-amber-400" /> Avg Rating
+                </div>
+                <div className="text-3xl font-black text-gray-900">
+                  {(() => { const r = liveAttempts.filter(a => typeof a.rating === "number"); return r.length ? (r.reduce((s, a) => s + (a.rating || 0), 0) / r.length).toFixed(1) : "—"; })()}
+                  <span className="text-base text-gray-400 font-bold"> / 5</span>
+                </div>
+                <p className="text-xs text-gray-400 mt-1">{liveAttempts.filter(a => typeof a.rating === "number").length} rated</p>
               </div>
             </div>
 

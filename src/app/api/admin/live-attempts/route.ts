@@ -44,6 +44,7 @@ export async function GET(req: NextRequest) {
       unattempted: v.unattempted ?? 0,
       total: v.total ?? 0,
       emailSent: v.emailSent ?? false,
+      rating: typeof v.rating === "number" ? v.rating : null,
       completedAt: v.completedAt ? (v.completedAt as admin.firestore.Timestamp).toMillis() : null,
     };
   });
