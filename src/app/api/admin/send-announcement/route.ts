@@ -24,16 +24,16 @@ function announcementHtml() {
     </div>
 
     <div style="background:#FEF3C7;border:1px solid #F59E0B;border-radius:16px;padding:16px 18px;margin-top:14px;">
-      <p style="margin:0 0 6px;font-size:16px;font-weight:800;color:#92400E;">&#128231; Sign in with your email to attend</p>
-      <p style="margin:0;font-size:14px;color:#78350F;line-height:1.6;">
-        Log in (or create your free account) <b>before</b> the test. Your result &mdash; with the full answer key and
-        explanations &mdash; is sent to your registered email afterwards. The test can be attempted <b>once per student</b>.
-      </p>
+      <p style="margin:0 0 8px;font-size:16px;font-weight:800;color:#92400E;">&#128231; How to join</p>
+      <p style="margin:0 0 6px;font-size:14px;color:#78350F;line-height:1.6;"><b>1. Register</b> using the form link below.</p>
+      <p style="margin:0 0 6px;font-size:14px;color:#78350F;line-height:1.6;"><b>2.</b> The live test is conducted <b>in our website / app itself</b> &mdash; on 19 June, sign in with your email at <b>agricet-mocks-8mry.vercel.app</b> before 8 PM and take the test there.</p>
+      <p style="margin:0;font-size:14px;color:#78350F;line-height:1.6;"><b>3.</b> Your result &mdash; with the full answer key and explanations &mdash; is emailed to you afterwards. One attempt per student.</p>
     </div>
 
     <div style="text-align:center;margin:20px 0;">
-      <a href="https://agricet-mocks-8mry.vercel.app/" style="display:inline-block;background:#FBBF24;color:#422006;font-weight:800;font-size:16px;padding:13px 30px;border-radius:12px;text-decoration:none;">Register &amp; attend &mdash; it's free &rarr;</a>
-      <p style="margin:10px 0 0;font-size:13px;color:#6b7280;">https://agricet-mocks-8mry.vercel.app/</p>
+      <a href="https://forms.gle/EndZYo4HAE1DCpYY7" style="display:inline-block;background:#FBBF24;color:#422006;font-weight:800;font-size:16px;padding:13px 30px;border-radius:12px;text-decoration:none;">Register now (free) &rarr;</a>
+      <p style="margin:10px 0 0;font-size:13px;color:#6b7280;">Registration form: https://forms.gle/EndZYo4HAE1DCpYY7</p>
+      <p style="margin:10px 0 0;font-size:14px;color:#0B5E37;font-weight:700;">&#128241; Test venue: the website / app itself &mdash; agricet-mocks-8mry.vercel.app</p>
     </div>
 
     <div style="background:#fef2f2;border:1px solid #fecaca;border-radius:14px;padding:16px;text-align:center;">
