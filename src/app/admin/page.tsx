@@ -92,6 +92,7 @@ export default function AdminPage() {
   const [tab, setTab]           = useState<Tab>("overview");
   const [liveAttempts, setLiveAttempts] = useState<LiveAttempt[]>([]);
   const [liveLoading,  setLiveLoading]  = useState(true);
+  const [announceSending, setAnnounceSending] = useState(false);
   const [qSearch,      setQSearch]      = useState("");
   const [qSubject,     setQSubject]     = useState("all");
   const [qExpanded,    setQExpanded]    = useState<string | null>(null);
@@ -136,6 +137,24 @@ export default function AdminPage() {
       if (res.ok) { setLiveAttempts([]); window.alert(`Cleared ${json.deleted ?? 0} attempt(s).`); }
       else window.alert("Could not clear attempts. Please try again.");
     } catch { window.alert("Could not clear attempts. Please try again."); }
+  };
+
+  // Email the FREE live-test announcement to every registered student (BCC, admin only).
+  const sendAnnouncement = async () => {
+    if (!user || user.email !== ADMIN_EMAIL) return;
+    if (!window.confirm(
+      `Email the FREE live mock test announcement to ALL ${users.length} registered students now?\n\n` +
+      `This sends a real email to every signed-up user and cannot be undone.`
+    )) return;
+    setAnnounceSending(true);
+    try {
+      const token = await user.getIdToken();
+      const res = await fetch("/api/admin/send-announcement", { method: "POST", headers: { Authorization: `Bearer ${token}` } });
+      const json = await res.json().catch(() => ({}));
+      if (res.ok) window.alert(`Announcement sent to ${json.sent ?? 0} of ${json.recipients ?? 0} students.`);
+      else window.alert("Could not send: " + (json.error || ("HTTP " + res.status)));
+    } catch { window.alert("Could not send the announcement. Please try again."); }
+    setAnnounceSending(false);
   };
 
   useEffect(() => {
@@ -762,6 +781,20 @@ export default function AdminPage() {
         {/* ════════════════════════════════════════════════════════════ */}
         {tab === "live" && (
           <div className="space-y-6">
+            {/* Announce to all students */}
+            <div className="bg-white rounded-2xl border border-gray-200 p-5 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3">
+              <div>
+                <div className="flex items-center gap-2 text-gray-900 font-bold"><Mail className="w-4 h-4 text-primary-600" /> Notify students by email</div>
+                <p className="text-xs text-gray-400 mt-1">Sends the FREE live-test announcement (date, login reminder, link) to all {users.length} registered students.</p>
+              </div>
+              <button
+                onClick={sendAnnouncement}
+                disabled={announceSending || users.length === 0}
+                className="inline-flex items-center gap-2 bg-primary-600 hover:bg-primary-700 disabled:opacity-50 text-white text-sm font-bold px-4 py-2.5 rounded-xl transition-colors whitespace-nowrap"
+              >
+                <Mail className="w-4 h-4" /> {announceSending ? "Sending…" : "Email all students now"}
+              </button>
+            </div>
             {/* Stat cards */}
             <div className="grid grid-cols-2 sm:grid-cols-4 gap-4">
               <div className="bg-white rounded-2xl border border-gray-200 p-5">
