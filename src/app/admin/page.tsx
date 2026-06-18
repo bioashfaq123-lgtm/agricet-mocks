@@ -119,6 +119,25 @@ export default function AdminPage() {
     } catch { setLiveLoading(false); }
   }, [user]);
 
+  // Delete ALL live-test attempts (reset the rank list before a new live test).
+  const clearLiveAttempts = async () => {
+    if (!user || user.email !== ADMIN_EMAIL) return;
+    if (!window.confirm(
+      "Permanently delete ALL live-test attempt records (the rank list)?\n\n" +
+      "Do this only to reset before a new live test. This cannot be undone."
+    )) return;
+    try {
+      const token = await user.getIdToken();
+      const res = await fetch("/api/admin/live-attempts", {
+        method: "DELETE",
+        headers: { Authorization: `Bearer ${token}` },
+      });
+      const json = await res.json().catch(() => ({}));
+      if (res.ok) { setLiveAttempts([]); window.alert(`Cleared ${json.deleted ?? 0} attempt(s).`); }
+      else window.alert("Could not clear attempts. Please try again.");
+    } catch { window.alert("Could not clear attempts. Please try again."); }
+  };
+
   useEffect(() => {
     if (!user || user.email !== ADMIN_EMAIL) return;
     fetchLiveAttempts();
@@ -816,6 +835,14 @@ export default function AdminPage() {
                       className="inline-flex items-center gap-1.5 bg-primary-600 hover:bg-primary-700 text-white text-xs font-bold px-3 py-1.5 rounded-lg transition-colors"
                     >
                       <Download className="w-3.5 h-3.5" /> Export Rank List CSV
+                    </button>
+                  )}
+                  {liveAttempts.length > 0 && (
+                    <button
+                      onClick={clearLiveAttempts}
+                      className="inline-flex items-center gap-1.5 bg-red-50 hover:bg-red-100 text-red-700 border border-red-200 text-xs font-bold px-3 py-1.5 rounded-lg transition-colors"
+                    >
+                      <XCircle className="w-3.5 h-3.5" /> Clear attempts
                     </button>
                   )}
                 </div>

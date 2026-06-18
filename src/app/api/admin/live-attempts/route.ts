@@ -50,3 +50,36 @@ export async function GET(req: NextRequest) {
 
   return NextResponse.json({ docs });
 }
+
+// Delete ALL live-test attempt records (admin only). Used to reset the
+// attendee/rank list before a new live test. Uses the Admin SDK (bypasses
+// Firestore rules). Does not touch user docs or the gtliveAttempted flag.
+export async function DELETE(req: NextRequest) {
+  const authHeader = req.headers.get("Authorization") ?? "";
+  const idToken = authHeader.startsWith("Bearer ") ? authHeader.slice(7) : null;
+  if (!idToken) {
+    return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
+  }
+  try {
+    const decoded = await admin.auth().verifyIdToken(idToken);
+    if (decoded.email !== ADMIN_EMAIL) {
+      return NextResponse.json({ error: "Forbidden" }, { status: 403 });
+    }
+  } catch {
+    return NextResponse.json({ error: "Invalid token" }, { status: 401 });
+  }
+
+  if (!adminDb) {
+    return NextResponse.json({ error: "Admin DB unavailable" }, { status: 500 });
+  }
+
+  const snap = await adminDb.collection("liveTestAttempts").get();
+  const docs = snap.docs;
+  let deleted = 0;
+  for (let i = 0; i < docs.length; i += 450) {
+    const batch = adminDb.batch();
+    docs.slice(i, i + 450).forEach(d => { batch.delete(d.ref); deleted++; });
+    await batch.commit();
+  }
+  return NextResponse.json({ deleted });
+}
