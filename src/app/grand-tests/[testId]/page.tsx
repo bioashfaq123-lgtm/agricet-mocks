@@ -22,6 +22,7 @@ import { GRAND_TEST_9  } from "@/data/grandTest9";
 import { GRAND_TEST_10 } from "@/data/grandTest10";
 import { GRAND_TEST_11 } from "@/data/grandTest11";
 import { GRAND_TEST_LIVE } from "@/data/grandTestLive";
+import { LIVE_START_UTC, getLiveStatus } from "@/lib/liveTest";
 
 const TEST_DATA: Record<string, GrandTestQuestion[]> = {
   gt1:    GRAND_TEST_1,
@@ -70,18 +71,6 @@ function formatTime(secs: number) {
   const m = Math.floor(secs / 60);
   const s = secs % 60;
   return `${String(m).padStart(2, "0")}:${String(s).padStart(2, "0")}`;
-}
-
-// ── Live test window (IST = UTC+5:30) ───────────────────────────────────────
-// June 19 2026  20:00 IST → UTC 14:30 (start)  |  June 20 12:00 IST → UTC 06:30 (end)
-const LIVE_START_UTC = new Date("2026-06-19T14:30:00Z"); // 8 PM IST, 19 June
-const LIVE_END_UTC   = new Date("2026-06-20T06:30:00Z"); // 12:00 PM IST, 20 June
-
-function getLiveStatus(): "before" | "live" | "ended" {
-  const now = new Date();
-  if (now < LIVE_START_UTC) return "before";
-  if (now > LIVE_END_UTC)   return "ended";
-  return "live";
 }
 
 function useCountdown(target: Date) {
@@ -272,6 +261,14 @@ export default function GrandTestPage() {
             <div className="flex items-center gap-2 text-green-400 text-sm">
               <span>💰</span><span className="font-semibold">Absolutely FREE</span>
             </div>
+          </div>
+
+          <div className="bg-yellow-400/10 border border-yellow-500/40 rounded-xl p-4 mb-6 text-left">
+            <p className="text-yellow-300 text-sm font-bold mb-1">📧 Results are sent to your email</p>
+            <p className="text-yellow-100/80 text-xs leading-relaxed">
+              Stay signed in with a valid email ID. After you finish, your full answer key and explanations
+              are emailed to you — they are not shown on screen. The test can be attempted <span className="font-bold">only once</span>.
+            </p>
           </div>
 
           <Link href="/grand-tests" className="text-sm text-gray-500 hover:text-gray-300">

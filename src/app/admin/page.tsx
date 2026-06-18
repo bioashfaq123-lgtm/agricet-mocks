@@ -832,6 +832,7 @@ export default function AdminPage() {
                   <table className="w-full text-sm">
                     <thead className="bg-gray-50 text-gray-400 text-xs uppercase tracking-wide">
                       <tr>
+                        <th className="text-center px-5 py-3">Rank</th>
                         <th className="text-left px-5 py-3">Student</th>
                         <th className="text-left px-5 py-3">Email</th>
                         <th className="text-center px-5 py-3">Score</th>
@@ -843,8 +844,11 @@ export default function AdminPage() {
                       </tr>
                     </thead>
                     <tbody className="divide-y divide-gray-50">
-                      {liveAttempts.map(a => (
+                      {liveAttempts.map(a => {
+                        const rank = liveAttempts.filter(x => x.score > a.score || (x.score === a.score && x.correct > a.correct)).length + 1;
+                        return (
                         <tr key={a.id} className="hover:bg-gray-50/60">
+                          <td className="px-5 py-3 text-center font-black text-gray-700">{rank}</td>
                           <td className="px-5 py-3 font-semibold text-gray-900">{a.name}</td>
                           <td className="px-5 py-3 text-gray-500">{a.email}</td>
                           <td className="px-5 py-3 text-center">
@@ -866,7 +870,8 @@ export default function AdminPage() {
                             {a.completedAt ? timeAgo(a.completedAt.toDate().toISOString()) : "—"}
                           </td>
                         </tr>
-                      ))}
+                        );
+                      })}
                     </tbody>
                   </table>
                 </div>

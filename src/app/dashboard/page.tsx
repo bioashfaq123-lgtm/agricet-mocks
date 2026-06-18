@@ -11,10 +11,7 @@ import { SUBJECTS, DEMO_SUBJECT_ID } from "@/data/subjects";
 import { PREVIOUS_YEAR_PAPERS } from "@/data/previousYearPapers";
 import Navbar from "@/components/Navbar";
 import PaymentButton from "@/components/PaymentButton";
-
-// ── Live test date gate ──────────────────────────────────────────────────────
-const LIVE_START = new Date("2026-06-19T14:30:00Z"); // 8 PM IST, 19 June
-const LIVE_END   = new Date("2026-06-20T06:30:00Z"); // 12:00 PM IST, 20 June
+import { LIVE_START_UTC as LIVE_START, LIVE_END_UTC as LIVE_END } from "@/lib/liveTest";
 
 function LiveTestBanner() {
   const [now, setNow] = useState(() => new Date());
@@ -67,6 +64,13 @@ function LiveTestBanner() {
             <div className="text-gray-400 text-xs">{l}</div>
           </div>
         ))}
+      </div>
+      <div className="bg-yellow-400/15 border border-yellow-400/40 rounded-xl p-3 mb-3">
+        <p className="text-yellow-300 text-xs font-bold mb-0.5">⚠️ Sign in / create your account before the test starts</p>
+        <p className="text-yellow-100/80 text-xs leading-relaxed">
+          Register with a <span className="font-bold">valid email ID</span> — your result, with the full answer key &amp;
+          explanations, is sent only to your email. The test can be attempted <span className="font-bold">once per student</span>.
+        </p>
       </div>
       <p className="text-gray-500 text-xs">📢 Share with friends — Open to all Diploma students across Telangana</p>
     </div>

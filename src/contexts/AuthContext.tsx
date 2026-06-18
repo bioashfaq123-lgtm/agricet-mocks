@@ -11,6 +11,7 @@ import {
 } from "firebase/auth";
 import { doc, setDoc, getDoc, updateDoc, onSnapshot, serverTimestamp } from "firebase/firestore";
 import { auth, db } from "@/lib/firebase";
+import { isWithinLiveWindow } from "@/lib/liveTest";
 import toast from "react-hot-toast";
 
 interface UserData {
@@ -65,6 +66,9 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
       setUserData(data);
       // Skip single-session enforcement for admin account
       if (email === ADMIN_EMAIL) return;
+      // Don't sign students out during the FREE live mock test window — a login
+      // on a second device/tab must never kick a student out mid-exam.
+      if (isWithinLiveWindow()) return;
       const localToken = typeof window !== "undefined" ? localStorage.getItem("agricet_session") : null;
       if (localToken && data.sessionToken && data.sessionToken !== localToken) {
         // Another device logged in — force sign out this device
