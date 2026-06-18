@@ -66,8 +66,13 @@ export async function POST(req: NextRequest) {
   }
   if (!adminDb) return NextResponse.json({ error: "Admin DB unavailable" }, { status: 500 });
 
-  // ── Collect recipients NOT already notified (deduped by a per-user flag, so
-  // clicking the button again is harmless — it only catches new sign-ups). ──
+  // mode "all" = reminder blast to EVERY student (ignores the already-notified
+  // flag); default "new" = only students not yet emailed.
+  const body = await req.json().catch(() => ({})) as { mode?: string };
+  const reminder = body?.mode === "all";
+
+  // ── Collect recipients. In default mode, skip anyone already notified (so a
+  // repeat click only catches new sign-ups). In reminder mode, include all. ──
   const snap = await adminDb.collection("users").get();
   const pending: { ref: FirebaseFirestore.DocumentReference; email: string }[] = [];
   const seenEmail = new Set<string>();
@@ -77,7 +82,7 @@ export async function POST(req: NextRequest) {
     const e = (data.email ?? "").toString().trim().toLowerCase();
     if (!e || !/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(e)) continue;
     validTotal++;
-    if (data.liveAnnounceSent === true) { alreadyNotified++; continue; }
+    if (!reminder && data.liveAnnounceSent === true) { alreadyNotified++; continue; }
     if (seenEmail.has(e)) continue;
     seenEmail.add(e);
     pending.push({ ref: d.ref, email: e });
@@ -94,7 +99,9 @@ export async function POST(req: NextRequest) {
     maxConnections: 1,
   });
   const html = announcementHtml();
-  const subject = "🔴 FREE Live Mock Test — 19th June, 8 PM IST | AGRICET 2026";
+  const subject = reminder
+    ? "⏰ Reminder: FREE Live Mock Test today — 19th June, 8 PM IST | AGRICET 2026"
+    : "🔴 FREE Live Mock Test — 19th June, 8 PM IST | AGRICET 2026";
   const CHUNK = 90;
   let sent = 0, batches = 0;
   for (let i = 0; i < pending.length; i += CHUNK) {

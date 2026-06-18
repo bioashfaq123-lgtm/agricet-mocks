@@ -140,18 +140,26 @@ export default function AdminPage() {
   };
 
   // Email the FREE live-test announcement to every registered student (BCC, admin only).
-  const sendAnnouncement = async () => {
+  const sendAnnouncement = async (mode: "new" | "all" = "new") => {
     if (!user || user.email !== ADMIN_EMAIL) return;
+    const isAll = mode === "all";
     if (!window.confirm(
-      `Email the FREE live mock test announcement to students who haven't received it yet?\n\n` +
-      `Students already emailed earlier are automatically skipped, so it's safe to click again. This sends a real email and cannot be undone.`
+      isAll
+        ? `Send a REMINDER to ALL ${users.length} registered students, including those already emailed?\n\nUse this only for a final reminder (e.g. on test day). It emails everyone again and cannot be undone.`
+        : `Email the FREE live mock test announcement to students who haven't received it yet?\n\nStudents already emailed are automatically skipped, so it's safe to click again. This sends a real email and cannot be undone.`
     )) return;
     setAnnounceSending(true);
     try {
       const token = await user.getIdToken();
-      const res = await fetch("/api/admin/send-announcement", { method: "POST", headers: { Authorization: `Bearer ${token}` } });
+      const res = await fetch("/api/admin/send-announcement", {
+        method: "POST",
+        headers: { Authorization: `Bearer ${token}`, "Content-Type": "application/json" },
+        body: JSON.stringify({ mode }),
+      });
       const json = await res.json().catch(() => ({}));
-      if (res.ok) window.alert(`Sent to ${json.newlyEmailed ?? 0} new student(s). ${json.alreadyNotified ?? 0} were already notified earlier.`);
+      if (res.ok) window.alert(isAll
+        ? `Reminder sent to ${json.sent ?? 0} student(s).`
+        : `Sent to ${json.newlyEmailed ?? 0} new student(s). ${json.alreadyNotified ?? 0} were already notified earlier.`);
       else window.alert("Could not send: " + (json.error || ("HTTP " + res.status)));
     } catch { window.alert("Could not send the announcement. Please try again."); }
     setAnnounceSending(false);
@@ -787,13 +795,22 @@ export default function AdminPage() {
                 <div className="flex items-center gap-2 text-gray-900 font-bold"><Mail className="w-4 h-4 text-primary-600" /> Notify students by email</div>
                 <p className="text-xs text-gray-400 mt-1">Emails the FREE live-test announcement (date, link, login reminder) to registered students. Already-notified students are skipped, so it is safe to click again.</p>
               </div>
-              <button
-                onClick={sendAnnouncement}
-                disabled={announceSending || users.length === 0}
-                className="inline-flex items-center gap-2 bg-primary-600 hover:bg-primary-700 disabled:opacity-50 text-white text-sm font-bold px-4 py-2.5 rounded-xl transition-colors whitespace-nowrap"
-              >
-                <Mail className="w-4 h-4" /> {announceSending ? "Sending…" : "Email all students now"}
-              </button>
+              <div className="flex flex-col sm:flex-row gap-2 shrink-0">
+                <button
+                  onClick={() => sendAnnouncement("new")}
+                  disabled={announceSending || users.length === 0}
+                  className="inline-flex items-center justify-center gap-2 bg-primary-600 hover:bg-primary-700 disabled:opacity-50 text-white text-sm font-bold px-4 py-2.5 rounded-xl transition-colors whitespace-nowrap"
+                >
+                  <Mail className="w-4 h-4" /> {announceSending ? "Sending…" : "Email all students now"}
+                </button>
+                <button
+                  onClick={() => sendAnnouncement("all")}
+                  disabled={announceSending || users.length === 0}
+                  className="inline-flex items-center justify-center gap-2 bg-amber-50 hover:bg-amber-100 disabled:opacity-50 text-amber-700 border border-amber-200 text-sm font-bold px-4 py-2.5 rounded-xl transition-colors whitespace-nowrap"
+                >
+                  <Mail className="w-4 h-4" /> Send reminder to all
+                </button>
+              </div>
             </div>
             {/* Stat cards */}
             <div className="grid grid-cols-2 sm:grid-cols-4 gap-4">
