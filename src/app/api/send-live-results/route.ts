@@ -133,6 +133,17 @@ export async function POST(req: NextRequest) {
       console.warn("send-live-results: adminDb unavailable — skipping server-side persistence");
     }
 
+    // ── One-attempt lock: flag the student so the live test cannot be retaken.
+    // Written with the Admin SDK so it holds even if client-side writes are
+    // denied by security rules. The client reads users/{uid}.gtliveAttempted. ──
+    if (adminDb && uid) {
+      try {
+        await adminDb.collection("users").doc(uid).set({ gtliveAttempted: true }, { merge: true });
+      } catch (e) {
+        console.error("send-live-results: failed to set gtliveAttempted flag:", e);
+      }
+    }
+
     const grade =
       score >= 85 ? "🏆 Excellent!" :
       score >= 70 ? "🎉 Great Work!" :

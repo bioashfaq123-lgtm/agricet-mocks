@@ -8,7 +8,7 @@ import {
 } from "lucide-react";
 import { useAuth } from "@/contexts/AuthContext";
 import { db } from "@/lib/firebase";
-import { collection, addDoc, serverTimestamp } from "firebase/firestore";
+import { collection, addDoc, serverTimestamp, doc, updateDoc } from "firebase/firestore";
 import { GRAND_TESTS, GrandTestQuestion } from "@/data/grandTestMeta";
 import { GRAND_TEST_1  } from "@/data/grandTest1";
 import { GRAND_TEST_2  } from "@/data/grandTest2";
@@ -203,6 +203,16 @@ export default function GrandTestPage() {
         } catch (writeErr) {
           console.error("Client-side liveTestAttempts write failed (expected if rules restrict it):", writeErr);
         }
+
+        // ── One-attempt lock: flag this student as having attempted the live
+        // mock test. The server route (Admin SDK) also sets this; either path
+        // is enough. The gate below reads userData.gtliveAttempted (kept in
+        // sync by the AuthContext onSnapshot) to block any re-attempt. ──
+        try {
+          await updateDoc(doc(db, "users", user.uid), { gtliveAttempted: true });
+        } catch (flagErr) {
+          console.error("Failed to set gtliveAttempted flag:", flagErr);
+        }
       } catch (e) {
         console.error("Failed to save/email live test result:", e);
       }
@@ -219,6 +229,9 @@ export default function GrandTestPage() {
       </div>
     );
   }
+  // Live mock test requires login — needed to enforce one attempt per student
+  // and to email each student their personal answer key + explanations.
+  if (isLive && !user) { router.push("/login"); return null; }
   if (!user && !isFree) { router.push("/login"); return null; }
   if (user && !isPaid && !isFree) { router.push("/grand-tests"); return null; }
 
@@ -291,6 +304,29 @@ export default function GrandTestPage() {
       </div>
     );
   }
+  // ── One attempt only: block any student who has already attempted the live
+  // mock test (flag set on submission). `!finished` keeps the just-completed
+  // student on their score screen this session; on any later visit they are
+  // blocked here. ──
+  if (isLive && liveStatus === "live" && !finished && userData?.gtliveAttempted) {
+    return (
+      <div className="min-h-screen bg-gray-900 flex items-center justify-center p-4">
+        <div className="max-w-md w-full text-center">
+          <div className="text-6xl mb-4">✅</div>
+          <h1 className="text-2xl font-black text-white mb-2">You have already attempted</h1>
+          <p className="text-gray-400 text-sm mb-6">
+            The FREE Live Mock Test can be attempted only <span className="text-white font-semibold">once</span> per student.
+            Your detailed result — with the correct answers and explanations — has been sent to your registered email ID.
+          </p>
+          <div className="bg-gray-800 rounded-xl p-4 mb-6 text-left text-sm text-gray-300 space-y-1 border border-gray-700">
+            <p>📧 Answer key &amp; explanations: check your email inbox (and spam folder)</p>
+            <p>🏆 All Telangana ranking will be shared after the test window closes</p>
+          </div>
+          <Link href="/grand-tests" className="btn-primary inline-block px-6 py-3">Explore More Tests →</Link>
+        </div>
+      </div>
+    );
+  }
   if (!meta || questions.length === 0) {
     return (
       <div className="min-h-screen bg-gray-50 flex items-center justify-center p-4">
@@ -320,9 +356,12 @@ export default function GrandTestPage() {
   const attempted = Object.keys(answers).length;
 
   const handleAnswer = useCallback((idx: number) => {
-    if (answers[current.id] !== undefined) return;
+    // In practice/grand tests the answer locks once chosen (immediate feedback).
+    // In the live exam there is no feedback, so the student may change their
+    // choice freely until they finish.
+    if (!isLive && answers[current.id] !== undefined) return;
     setAnswers(prev => ({ ...prev, [current.id]: idx }));
-  }, [answers, current]);
+  }, [answers, current, isLive]);
 
   // ── Score Screen ──────────────────────────────────────────────────────────
   if (finished) {
@@ -382,15 +421,26 @@ export default function GrandTestPage() {
           </div>
 
           <div className="space-y-3">
-            <button
-              onClick={() => {
-                setAnswers({}); setCurrentIdx(0); setFinished(false);
-                setTimeLeft(meta.duration * 60);
-              }}
-              className="btn-outline w-full flex items-center justify-center gap-2"
-            >
-              <RotateCcw className="w-4 h-4" /> Retry Test
-            </button>
+            {isLive ? (
+              <div className="bg-blue-50 border border-blue-200 rounded-xl p-4 text-center">
+                <p className="text-sm text-blue-800 font-semibold mb-1">📧 Answers &amp; explanations emailed to you</p>
+                <p className="text-xs text-blue-600 leading-relaxed">
+                  A detailed, question-by-question solution with the correct answers and explanations has been
+                  sent to your registered email ID. This is a one-time attempt, so the answer key is not shown here.
+                  (Check your spam folder if you don&apos;t see it.)
+                </p>
+              </div>
+            ) : (
+              <button
+                onClick={() => {
+                  setAnswers({}); setCurrentIdx(0); setFinished(false);
+                  setTimeLeft(meta.duration * 60);
+                }}
+                className="btn-outline w-full flex items-center justify-center gap-2"
+              >
+                <RotateCcw className="w-4 h-4" /> Retry Test
+              </button>
+            )}
             <Link href="/grand-tests" className="btn-primary w-full text-center flex items-center justify-center gap-2">
               <Trophy className="w-4 h-4" /> All Grand Tests
             </Link>
@@ -514,7 +564,12 @@ export default function GrandTestPage() {
             <div className="space-y-3">
               {current?.options?.map((opt, idx) => {
                 let cls = "w-full text-left flex items-start gap-3 px-4 py-3.5 rounded-xl border-2 transition-all cursor-pointer ";
-                if (answered === undefined) {
+                if (isLive) {
+                  // Live exam: no correct/wrong reveal — only highlight the chosen option.
+                  cls += idx === answered
+                    ? "border-primary-500 bg-primary-50 text-primary-900"
+                    : "border-gray-200 hover:border-primary-400 hover:bg-primary-50 bg-white";
+                } else if (answered === undefined) {
                   cls += "border-gray-200 hover:border-primary-400 hover:bg-primary-50 bg-white";
                 } else if (idx === current.correct) {
                   cls += "border-green-400 bg-green-50 text-green-900";
@@ -528,11 +583,12 @@ export default function GrandTestPage() {
                   <button
                     key={idx}
                     onClick={() => handleAnswer(idx)}
-                    disabled={answered !== undefined}
+                    disabled={!isLive && answered !== undefined}
                     className={cls}
                   >
                     <span className={`w-7 h-7 rounded-full border-2 flex items-center justify-center text-xs font-bold flex-shrink-0 mt-0.5 ${
-                      answered === undefined ? "border-gray-300 text-gray-500"
+                      isLive ? (idx === answered ? "border-primary-500 text-primary-700 bg-primary-100" : "border-gray-300 text-gray-500")
+                      : answered === undefined ? "border-gray-300 text-gray-500"
                       : idx === current.correct ? "border-green-500 text-green-700 bg-green-100"
                       : idx === answered ? "border-red-500 text-red-700 bg-red-100"
                       : "border-gray-200 text-gray-400"
@@ -540,10 +596,10 @@ export default function GrandTestPage() {
                       {String.fromCharCode(65 + idx)}
                     </span>
                     <span className="flex-1 leading-relaxed text-sm sm:text-base pt-0.5">{opt}</span>
-                    {answered !== undefined && idx === current.correct && (
+                    {!isLive && answered !== undefined && idx === current.correct && (
                       <CheckCircle className="w-5 h-5 text-green-600 flex-shrink-0 mt-0.5" />
                     )}
-                    {answered !== undefined && idx === answered && idx !== current.correct && (
+                    {!isLive && answered !== undefined && idx === answered && idx !== current.correct && (
                       <X className="w-5 h-5 text-red-500 flex-shrink-0 mt-0.5" />
                     )}
                   </button>
@@ -551,8 +607,8 @@ export default function GrandTestPage() {
               })}
             </div>
 
-            {/* Explanation */}
-            {answered !== undefined && current?.explanation && (
+            {/* Explanation — hidden in the live exam (emailed afterwards instead) */}
+            {!isLive && answered !== undefined && current?.explanation && (
               <div className="mt-5 p-4 bg-blue-50 border border-blue-200 rounded-xl">
                 <div className="flex items-center gap-2 mb-2">
                   <AlertCircle className="w-4 h-4 text-blue-600 flex-shrink-0" />
@@ -610,9 +666,18 @@ export default function GrandTestPage() {
 
             {/* Legend */}
             <div className="flex flex-wrap gap-2 mb-3 text-xs">
-              <span className="flex items-center gap-1 text-gray-500"><span className="w-3 h-3 rounded bg-green-400 inline-block" />Correct</span>
-              <span className="flex items-center gap-1 text-gray-500"><span className="w-3 h-3 rounded bg-red-400 inline-block" />Wrong</span>
-              <span className="flex items-center gap-1 text-gray-500"><span className="w-3 h-3 rounded bg-gray-200 inline-block" />Not attempted</span>
+              {isLive ? (
+                <>
+                  <span className="flex items-center gap-1 text-gray-500"><span className="w-3 h-3 rounded bg-primary-500 inline-block" />Answered</span>
+                  <span className="flex items-center gap-1 text-gray-500"><span className="w-3 h-3 rounded bg-gray-200 inline-block" />Not answered</span>
+                </>
+              ) : (
+                <>
+                  <span className="flex items-center gap-1 text-gray-500"><span className="w-3 h-3 rounded bg-green-400 inline-block" />Correct</span>
+                  <span className="flex items-center gap-1 text-gray-500"><span className="w-3 h-3 rounded bg-red-400 inline-block" />Wrong</span>
+                  <span className="flex items-center gap-1 text-gray-500"><span className="w-3 h-3 rounded bg-gray-200 inline-block" />Not attempted</span>
+                </>
+              )}
             </div>
 
             {/* Grid */}
@@ -625,6 +690,8 @@ export default function GrandTestPage() {
                 }
                 if (ans === undefined) {
                   btnCls += "bg-gray-100 text-gray-500 hover:bg-primary-100 hover:text-primary-600";
+                } else if (isLive) {
+                  btnCls += "bg-primary-500 text-white";
                 } else if (ans === q.correct) {
                   btnCls += "bg-green-400 text-white";
                 } else {
@@ -644,27 +711,40 @@ export default function GrandTestPage() {
               })}
             </div>
 
-            {/* Summary stats */}
-            <div className="mt-3 pt-3 border-t border-gray-100 grid grid-cols-3 gap-2 text-center text-xs">
-              <div>
-                <div className="font-black text-green-600">
-                  {questions.filter(q => answers[q.id] === q.correct).length}
+            {/* Summary stats — live exam hides correct/wrong, shows answered/left only */}
+            {isLive ? (
+              <div className="mt-3 pt-3 border-t border-gray-100 grid grid-cols-2 gap-2 text-center text-xs">
+                <div>
+                  <div className="font-black text-primary-600">{Object.keys(answers).length}</div>
+                  <div className="text-gray-400">Answered</div>
                 </div>
-                <div className="text-gray-400">Correct</div>
-              </div>
-              <div>
-                <div className="font-black text-red-500">
-                  {Object.keys(answers).length - questions.filter(q => answers[q.id] === q.correct).length}
+                <div>
+                  <div className="font-black text-gray-400">{questions.length - Object.keys(answers).length}</div>
+                  <div className="text-gray-400">Left</div>
                 </div>
-                <div className="text-gray-400">Wrong</div>
               </div>
-              <div>
-                <div className="font-black text-gray-400">
-                  {questions.length - Object.keys(answers).length}
+            ) : (
+              <div className="mt-3 pt-3 border-t border-gray-100 grid grid-cols-3 gap-2 text-center text-xs">
+                <div>
+                  <div className="font-black text-green-600">
+                    {questions.filter(q => answers[q.id] === q.correct).length}
+                  </div>
+                  <div className="text-gray-400">Correct</div>
                 </div>
-                <div className="text-gray-400">Left</div>
+                <div>
+                  <div className="font-black text-red-500">
+                    {Object.keys(answers).length - questions.filter(q => answers[q.id] === q.correct).length}
+                  </div>
+                  <div className="text-gray-400">Wrong</div>
+                </div>
+                <div>
+                  <div className="font-black text-gray-400">
+                    {questions.length - Object.keys(answers).length}
+                  </div>
+                  <div className="text-gray-400">Left</div>
+                </div>
               </div>
-            </div>
+            )}
 
             <button
               onClick={() => setFinished(true)}
