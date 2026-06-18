@@ -142,16 +142,18 @@ export default function SubjectPracticePage({
             );
             setPaying(false); return;
           }
-          await updateDoc(doc(db, "users", user.uid), {
-            isBookPaid:    true,
-            bookPaymentId: response.razorpay_payment_id,
-            bookOrderId:   response.razorpay_order_id,
-            bookPaidAt:    new Date().toISOString(),
-          });
-          await refreshUserData();
+          try {
+            await updateDoc(doc(db, "users", user.uid), {
+              isBookPaid:    true,
+              bookPaymentId: response.razorpay_payment_id,
+              bookOrderId:   response.razorpay_order_id,
+              bookPaidAt:    new Date().toISOString(),
+            });
+          } catch { /* rules may forbid client isBookPaid writes — server already granted */ }
+          try { await refreshUserData(); } catch { /* onSnapshot will sync */ }
           toast.success("🎉 Book unlocked! You can now practice all subjects.");
         } catch {
-          toast.error("Payment recorded but access update failed. Call +91 90593 36236");
+          toast.error(`Payment received — book access will activate shortly. If not, call +91 90593 36236 (Payment ID: ${response.razorpay_payment_id})`);
         }
         setPaying(false);
       },

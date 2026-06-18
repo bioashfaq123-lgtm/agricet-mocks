@@ -164,20 +164,27 @@ export default function PaymentButton({ userId, userEmail, userName }: Props) {
           }
 
           setLoadingMsg("Activating access...");
-          await updateDoc(doc(db, "users", userId), {
-            isPaid:    true,
-            paymentId: response.razorpay_payment_id,
-            orderId:   response.razorpay_order_id,
-            paidAt:    new Date().toISOString(),
-          });
-          await refreshUserData();
+          // Access is already granted server-side by /api/verify-payment (Admin
+          // SDK). This client write is a best-effort instant-UX optimisation —
+          // if Firestore rules forbid clients from setting isPaid, ignore the
+          // error; the server grant stands and AuthContext's onSnapshot will
+          // sync isPaid to the UI within a moment.
+          try {
+            await updateDoc(doc(db, "users", userId), {
+              isPaid:    true,
+              paymentId: response.razorpay_payment_id,
+              orderId:   response.razorpay_order_id,
+              paidAt:    new Date().toISOString(),
+            });
+          } catch { /* rules may forbid client isPaid writes — server already granted */ }
+          try { await refreshUserData(); } catch { /* onSnapshot will sync */ }
           toast.success("🎉 Payment successful! Full access unlocked!", { duration: 8000 });
         } catch (err: unknown) {
           const isAbort = err instanceof Error && err.name === "AbortError";
           toast.error(
             isAbort
-              ? "Access update timed out. Your payment was received. Please refresh the page or call +91 90593 36236."
-              : "Payment done but access update failed. Please refresh the page. If problem persists call +91 90593 36236.",
+              ? "Verification timed out. Your payment was received — access will activate shortly. If not, call +91 90593 36236 (Payment ID: " + response.razorpay_payment_id + ")."
+              : "Payment received but verification couldn't complete here. Access will activate shortly. If not, call +91 90593 36236 (Payment ID: " + response.razorpay_payment_id + ").",
             { duration: 15000 }
           );
         }
