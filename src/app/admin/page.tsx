@@ -143,15 +143,15 @@ export default function AdminPage() {
   const sendAnnouncement = async () => {
     if (!user || user.email !== ADMIN_EMAIL) return;
     if (!window.confirm(
-      `Email the FREE live mock test announcement to ALL ${users.length} registered students now?\n\n` +
-      `This sends a real email to every signed-up user and cannot be undone.`
+      `Email the FREE live mock test announcement to students who haven't received it yet?\n\n` +
+      `Students already emailed earlier are automatically skipped, so it's safe to click again. This sends a real email and cannot be undone.`
     )) return;
     setAnnounceSending(true);
     try {
       const token = await user.getIdToken();
       const res = await fetch("/api/admin/send-announcement", { method: "POST", headers: { Authorization: `Bearer ${token}` } });
       const json = await res.json().catch(() => ({}));
-      if (res.ok) window.alert(`Announcement sent to ${json.sent ?? 0} of ${json.recipients ?? 0} students.`);
+      if (res.ok) window.alert(`Sent to ${json.newlyEmailed ?? 0} new student(s). ${json.alreadyNotified ?? 0} were already notified earlier.`);
       else window.alert("Could not send: " + (json.error || ("HTTP " + res.status)));
     } catch { window.alert("Could not send the announcement. Please try again."); }
     setAnnounceSending(false);
@@ -785,7 +785,7 @@ export default function AdminPage() {
             <div className="bg-white rounded-2xl border border-gray-200 p-5 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3">
               <div>
                 <div className="flex items-center gap-2 text-gray-900 font-bold"><Mail className="w-4 h-4 text-primary-600" /> Notify students by email</div>
-                <p className="text-xs text-gray-400 mt-1">Sends the FREE live-test announcement (date, login reminder, link) to all {users.length} registered students.</p>
+                <p className="text-xs text-gray-400 mt-1">Emails the FREE live-test announcement (date, link, login reminder) to registered students. Already-notified students are skipped, so it is safe to click again.</p>
               </div>
               <button
                 onClick={sendAnnouncement}

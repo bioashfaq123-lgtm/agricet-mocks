@@ -66,15 +66,25 @@ export async function POST(req: NextRequest) {
   }
   if (!adminDb) return NextResponse.json({ error: "Admin DB unavailable" }, { status: 500 });
 
-  // ── Collect unique, valid recipient emails ──
+  // ── Collect recipients NOT already notified (deduped by a per-user flag, so
+  // clicking the button again is harmless — it only catches new sign-ups). ──
   const snap = await adminDb.collection("users").get();
-  const seen = new Set<string>();
+  const pending: { ref: FirebaseFirestore.DocumentReference; email: string }[] = [];
+  const seenEmail = new Set<string>();
+  let validTotal = 0, alreadyNotified = 0;
   for (const d of snap.docs) {
-    const e = (d.data().email ?? "").toString().trim().toLowerCase();
-    if (e && /^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(e)) seen.add(e);
+    const data = d.data();
+    const e = (data.email ?? "").toString().trim().toLowerCase();
+    if (!e || !/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(e)) continue;
+    validTotal++;
+    if (data.liveAnnounceSent === true) { alreadyNotified++; continue; }
+    if (seenEmail.has(e)) continue;
+    seenEmail.add(e);
+    pending.push({ ref: d.ref, email: e });
   }
-  const emails = [...seen];
-  if (emails.length === 0) return NextResponse.json({ recipients: 0, batches: 0 });
+  if (pending.length === 0) {
+    return NextResponse.json({ sent: 0, newlyEmailed: 0, alreadyNotified, total: validTotal });
+  }
 
   // ── Send in BCC batches (<=90 per message to stay under Gmail's limit) ──
   const transporter = nodemailer.createTransport({
@@ -87,22 +97,27 @@ export async function POST(req: NextRequest) {
   const subject = "🔴 FREE Live Mock Test — 19th June, 8 PM IST | AGRICET 2026";
   const CHUNK = 90;
   let sent = 0, batches = 0;
-  for (let i = 0; i < emails.length; i += CHUNK) {
-    const bcc = emails.slice(i, i + CHUNK);
+  for (let i = 0; i < pending.length; i += CHUNK) {
+    const group = pending.slice(i, i + CHUNK);
     try {
       await transporter.sendMail({
         from: `"AgriCareer Academy" <${gmailUser}>`,
         to: gmailUser,
-        bcc,
+        bcc: group.map(g => g.email),
         subject,
         html,
       });
-      sent += bcc.length;
+      sent += group.length;
       batches++;
+      // Mark these students as notified so a repeat click won't email them again.
+      const wb = adminDb.batch();
+      const now = new Date().toISOString();
+      group.forEach(g => wb.set(g.ref, { liveAnnounceSent: true, liveAnnounceAt: now }, { merge: true }));
+      await wb.commit();
     } catch (e) {
       console.error("send-announcement: batch failed", e);
     }
   }
   transporter.close();
-  return NextResponse.json({ recipients: emails.length, sent, batches });
+  return NextResponse.json({ sent, newlyEmailed: sent, alreadyNotified, total: validTotal, batches });
 }
