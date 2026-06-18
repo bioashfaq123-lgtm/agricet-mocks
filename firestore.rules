@@ -1,0 +1,75 @@
+rules_version = '2';
+
+// AGRICET Mocks — Firestore security rules.
+// Derived from the app's actual client operations. Server code uses the
+// Firebase Admin SDK, which BYPASSES these rules, so all privileged writes
+// (granting isPaid/isBookPaid, saving live-test attempts, etc.) keep working.
+//
+// Test in the Firebase console "Rules Playground" before publishing, and
+// keep the previous version handy — the console lets you roll back instantly.
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    function isSignedIn() {
+      return request.auth != null;
+    }
+
+    // Admin is identified by email (must match ADMIN_EMAIL used in the app).
+    function isAdmin() {
+      return isSignedIn() && request.auth.token.email == 'bioashfaq123@gmail.com';
+    }
+
+    // True when `field` has the same value in the incoming write as in the
+    // stored document (i.e. the client is not changing it).
+    function keeps(field) {
+      return request.resource.data.get(field, false) == resource.data.get(field, false);
+    }
+
+    // ── users: profile + access flags ──────────────────────────────────────
+    match /users/{uid} {
+      // A user reads only their own doc; the admin can read all (admin dashboard).
+      allow read: if isAdmin() || (isSignedIn() && request.auth.uid == uid);
+
+      // Signup creates the user's own doc and must NOT self-grant paid access.
+      allow create: if isAdmin() || (
+        isSignedIn() && request.auth.uid == uid &&
+        request.resource.data.get('isPaid', false) == false &&
+        request.resource.data.get('isBookPaid', false) == false
+      );
+
+      // A user may update their own profile (name, sessionToken, progress,
+      // gtliveAttempted, …) but CANNOT change isPaid / isBookPaid — those are
+      // granted only by the server (verify routes / webhook via the Admin SDK).
+      allow update: if isAdmin() || (
+        isSignedIn() && request.auth.uid == uid &&
+        keeps('isPaid') && keeps('isBookPaid')
+      );
+
+      allow delete: if isAdmin();
+    }
+
+    // ── liveTestAttempts: one row per student (admin reads via the Admin SDK) ─
+    match /liveTestAttempts/{docId} {
+      allow create: if isSignedIn() && request.resource.data.uid == request.auth.uid;
+      allow read, update, delete: if isAdmin();
+    }
+
+    // ── testResults: practice/grand-test results (create-only from the client) ─
+    match /testResults/{docId} {
+      allow create: if isSignedIn() && request.resource.data.userId == request.auth.uid;
+      allow read, update, delete: if isAdmin();
+    }
+
+    // ── manualPayments: user-submitted UPI transaction IDs for manual review ──
+    match /manualPayments/{docId} {
+      allow create: if isSignedIn() && request.resource.data.userId == request.auth.uid;
+      allow read, update, delete: if isAdmin();
+    }
+
+    // Any other path is denied by default.
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}
