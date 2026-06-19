@@ -2,6 +2,7 @@ import { NextRequest, NextResponse } from "next/server";
 import nodemailer from "nodemailer";
 import { adminDb } from "@/lib/firebase-admin";
 import admin from "firebase-admin";
+import { EMAIL_SENDING_PAUSED } from "@/lib/emailConfig";
 
 export const maxDuration = 60;
 
@@ -65,6 +66,13 @@ export async function POST(req: NextRequest) {
     return NextResponse.json({ error: "Email service not configured" }, { status: 500 });
   }
   if (!adminDb) return NextResponse.json({ error: "Admin DB unavailable" }, { status: 500 });
+
+  // Account-safety pause: bulk BCC blasts from a personal Gmail are exactly what
+  // trips Google's abuse detection and disables the account. Hard-block this
+  // route until sending is moved to a dedicated transactional email service.
+  if (EMAIL_SENDING_PAUSED) {
+    return NextResponse.json({ error: "Email sending is PAUSED to protect the Gmail account from being disabled for bulk sending. Move to a dedicated email service before re-enabling.", paused: true }, { status: 423 });
+  }
 
   // mode "all" = reminder blast to EVERY student (ignores the already-notified
   // flag); default "new" = only students not yet emailed.

@@ -285,8 +285,8 @@ export default function GrandTestPage() {
           <div className="bg-yellow-400/10 border border-yellow-500/40 rounded-xl p-4 mb-6 text-left">
             <p className="text-yellow-300 text-sm font-bold mb-1">📧 Results are sent to your email</p>
             <p className="text-yellow-100/80 text-xs leading-relaxed">
-              Stay signed in with a valid email ID. After you finish, your full answer key and explanations
-              are emailed to you — they are not shown on screen. The test can be attempted <span className="font-bold">only once</span>.
+              Stay signed in with a valid email ID. After you finish, your full answer key, explanations and ranking
+              will be e-mailed to you after the test closes — they are not shown on screen. The test can be attempted <span className="font-bold">only once</span>.
             </p>
           </div>
 
@@ -332,10 +332,10 @@ export default function GrandTestPage() {
           <h1 className="text-2xl font-black text-white mb-2">You have already attempted</h1>
           <p className="text-gray-400 text-sm mb-6">
             The FREE Live Mock Test can be attempted only <span className="text-white font-semibold">once</span> per student.
-            Your detailed result — with the correct answers and explanations — has been sent to your registered email ID.
+            Your detailed result — with the correct answers and explanations — will be e-mailed to your registered email ID after the test closes.
           </p>
           <div className="bg-gray-800 rounded-xl p-4 mb-6 text-left text-sm text-gray-300 space-y-1 border border-gray-700">
-            <p>📧 Answer key &amp; explanations: check your email inbox (and spam folder)</p>
+            <p>📧 Answer key &amp; explanations: e-mailed after the test window closes</p>
             <p>🏆 All Telangana ranking will be shared after the test window closes</p>
           </div>
           <Link href="/grand-tests" className="btn-primary inline-block px-6 py-3">Explore More Tests →</Link>
@@ -440,11 +440,11 @@ export default function GrandTestPage() {
             {isLive ? (
               <>
               <div className="bg-blue-50 border border-blue-200 rounded-xl p-4 text-center">
-                <p className="text-sm text-blue-800 font-semibold mb-1">📧 Answers &amp; explanations emailed to you</p>
+                <p className="text-sm text-blue-800 font-semibold mb-1">📧 Your result will be e-mailed to you</p>
                 <p className="text-xs text-blue-600 leading-relaxed">
-                  A detailed, question-by-question solution with the correct answers and explanations has been
-                  sent to your registered email ID. This is a one-time attempt, so the answer key is not shown here.
-                  (Check your spam folder if you don&apos;t see it.)
+                  Your detailed result — with the correct answers, explanations and overall ranking — will be
+                  e-mailed to your registered email ID after the live test closes (by 20 June). This is a one-time
+                  attempt, so the answer key is not shown here.
                 </p>
               </div>
               <div className="bg-amber-50 border border-amber-200 rounded-xl p-4 text-center">

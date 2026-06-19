@@ -2,6 +2,7 @@ import { NextRequest, NextResponse } from "next/server";
 import nodemailer from "nodemailer";
 import { adminDb } from "@/lib/firebase-admin";
 import admin from "firebase-admin";
+import { EMAIL_SENDING_PAUSED } from "@/lib/emailConfig";
 
 export const maxDuration = 30;
 
@@ -233,22 +234,29 @@ export async function POST(req: NextRequest) {
       </p>
     </div>`;
 
-    await transporter.sendMail({
-      from: `"AgriCareer Academy" <${gmailUser}>`,
-      to,
-      subject: `📊 Your AGRICET Live Mock Test Result — ${score}% (${correct}/${total} correct)`,
-      html,
-    });
+    // Account-safety pause: when paused, skip the actual Gmail send. The attempt
+    // and the student's full answers are already persisted above via the Admin
+    // SDK, so the result can be e-mailed later from a dedicated email service —
+    // no student data is lost. This protects the Gmail account from being
+    // flagged/disabled for automated bulk sending.
+    if (!EMAIL_SENDING_PAUSED) {
+      await transporter.sendMail({
+        from: `"AgriCareer Academy" <${gmailUser}>`,
+        to,
+        subject: `📊 Your AGRICET Live Mock Test Result — ${score}% (${correct}/${total} correct)`,
+        html,
+      });
 
-    if (adminDb && attemptDocId) {
-      try {
-        await adminDb.collection("liveTestAttempts").doc(attemptDocId).set({ emailSent: true }, { merge: true });
-      } catch (e) {
-        console.error("send-live-results: failed to mark emailSent:", e);
+      if (adminDb && attemptDocId) {
+        try {
+          await adminDb.collection("liveTestAttempts").doc(attemptDocId).set({ emailSent: true }, { merge: true });
+        } catch (e) {
+          console.error("send-live-results: failed to mark emailSent:", e);
+        }
       }
     }
 
-    return NextResponse.json({ success: true, attemptDocId });
+    return NextResponse.json({ success: true, attemptDocId, emailPaused: EMAIL_SENDING_PAUSED });
   } catch (err) {
     console.error("send-live-results failed:", err);
     return NextResponse.json({ success: false, error: "Failed to send result email" }, { status: 500 });
