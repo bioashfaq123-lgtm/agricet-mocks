@@ -94,6 +94,7 @@ export default function AdminPage() {
   const [liveAttempts, setLiveAttempts] = useState<LiveAttempt[]>([]);
   const [liveLoading,  setLiveLoading]  = useState(true);
   const [announceSending, setAnnounceSending] = useState(false);
+  const [resultsSending, setResultsSending] = useState(false);
   const [qSearch,      setQSearch]      = useState("");
   const [qSubject,     setQSubject]     = useState("all");
   const [qExpanded,    setQExpanded]    = useState<string | null>(null);
@@ -164,6 +165,41 @@ export default function AdminPage() {
       else window.alert("Could not send: " + (json.error || ("HTTP " + res.status)));
     } catch { window.alert("Could not send the announcement. Please try again."); }
     setAnnounceSending(false);
+  };
+
+  // Send result + ranking emails via the dedicated email service (Resend/Brevo),
+  // NOT Gmail. "test" sends one sample to the admin; "all" sends to every student
+  // who attempted, in idempotent batches (safe to re-run; already-sent skipped).
+  const sendAllResults = async (mode: "test" | "all") => {
+    if (!user || user.email !== ADMIN_EMAIL) return;
+    if (mode === "all" && !window.confirm(
+      `Send result + ranking emails to all students who attempted?\n\nThis uses your Resend / Brevo email service (not Gmail). Send a TEST to yourself first and check it looks right. Already-sent students are skipped, so it is safe to re-run.`
+    )) return;
+    setResultsSending(true);
+    try {
+      const token = await user.getIdToken();
+      const call = (m: string) => fetch("/api/admin/send-all-results", {
+        method: "POST",
+        headers: { Authorization: `Bearer ${token}`, "Content-Type": "application/json" },
+        body: JSON.stringify({ mode: m }),
+      }).then(r => r.json());
+      if (mode === "test") {
+        const j = await call("test");
+        window.alert(j.ok ? `Test result e-mailed to ${j.sentTo} via ${j.provider}. Check your inbox (and spam).` : ("Could not send test: " + (j.error || "unknown")));
+      } else {
+        let total = 0, guard = 0;
+        for (;;) {
+          const j = await call("all");
+          if (!j.ok) { window.alert("Could not send: " + (j.error || "unknown")); break; }
+          total += j.sent || 0;
+          if ((j.remaining || 0) <= 0 || ++guard > 25) {
+            window.alert(`Done. Sent ${total} result email(s) via ${j.provider}.` + (j.failed ? ` ${j.failed} failed.` : ""));
+            break;
+          }
+        }
+      }
+    } catch { window.alert("Could not send results. Please try again."); }
+    setResultsSending(false);
   };
 
   useEffect(() => {
@@ -810,6 +846,30 @@ export default function AdminPage() {
                   className="inline-flex items-center justify-center gap-2 bg-amber-50 hover:bg-amber-100 disabled:opacity-50 text-amber-700 border border-amber-200 text-sm font-bold px-4 py-2.5 rounded-xl transition-colors whitespace-nowrap"
                 >
                   <Mail className="w-4 h-4" /> Send reminder to all
+                </button>
+              </div>
+            </div>
+
+            {/* Send results + ranking (after the test closes) via Resend / Brevo — NOT Gmail */}
+            <div className="bg-white rounded-2xl border border-gray-200 p-5 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3">
+              <div>
+                <div className="flex items-center gap-2 text-gray-900 font-bold"><Trophy className="w-4 h-4 text-amber-500" /> Send results + ranking</div>
+                <p className="text-xs text-gray-400 mt-1">After the test closes, e-mail every student their score, answer key and overall All-Telangana rank — via your Resend / Brevo service (not Gmail). Send a test to yourself first; re-running skips already-sent students.</p>
+              </div>
+              <div className="flex flex-col sm:flex-row gap-2 shrink-0">
+                <button
+                  onClick={() => sendAllResults("test")}
+                  disabled={resultsSending || liveAttempts.length === 0}
+                  className="inline-flex items-center justify-center gap-2 bg-blue-50 hover:bg-blue-100 disabled:opacity-50 text-blue-700 border border-blue-200 text-sm font-bold px-4 py-2.5 rounded-xl transition-colors whitespace-nowrap"
+                >
+                  <Mail className="w-4 h-4" /> Send test to me
+                </button>
+                <button
+                  onClick={() => sendAllResults("all")}
+                  disabled={resultsSending || liveAttempts.length === 0}
+                  className="inline-flex items-center justify-center gap-2 bg-primary-600 hover:bg-primary-700 disabled:opacity-50 text-white text-sm font-bold px-4 py-2.5 rounded-xl transition-colors whitespace-nowrap"
+                >
+                  <Trophy className="w-4 h-4" /> {resultsSending ? "Sending…" : "Send results to all"}
                 </button>
               </div>
             </div>
