@@ -20,7 +20,27 @@ function LiveTestBanner() {
     return () => clearInterval(t);
   }, []);
 
-  if (now > LIVE_END) return null; // Hide after test ends
+  // After the test ends, show links to the published ranking + answer key.
+  if (now > LIVE_END) {
+    return (
+      <div className="mb-6 rounded-2xl bg-gradient-to-br from-green-700 to-emerald-800 p-5 text-white shadow-xl border-2 border-green-300">
+        <div className="flex items-center gap-2 mb-2">
+          <span className="text-xl">🏆</span>
+          <span className="bg-amber-400 text-black text-xs font-black px-2 py-0.5 rounded-full">RESULTS OUT</span>
+        </div>
+        <h3 className="text-lg font-black mb-1">FREE Live Mock Test — Results are published!</h3>
+        <p className="text-green-100 text-xs mb-4">See your overall All-Telangana ranking and the full answer key with explanations.</p>
+        <div className="flex flex-wrap gap-2">
+          <Link href="/ranking" className="inline-flex items-center gap-2 bg-white text-green-700 font-black px-4 py-2.5 rounded-xl text-sm hover:bg-green-50 transition-all shadow">
+            🏆 View Ranking
+          </Link>
+          <Link href="/answer-key" className="inline-flex items-center gap-2 bg-amber-300 text-amber-900 font-black px-4 py-2.5 rounded-xl text-sm hover:bg-amber-200 transition-all shadow">
+            📖 Answer Key
+          </Link>
+        </div>
+      </div>
+    );
+  }
 
   if (now >= LIVE_START && now <= LIVE_END) {
     return (
