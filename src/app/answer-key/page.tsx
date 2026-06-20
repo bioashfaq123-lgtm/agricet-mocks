@@ -1,39 +1,11 @@
 "use client";
-import { useEffect, useState } from "react";
 import Link from "next/link";
 import { BookOpen, CheckCircle, ArrowLeft, Trophy } from "lucide-react";
-import { getLiveStatus } from "@/lib/liveTest";
 import { GRAND_TEST_LIVE } from "@/data/grandTestLive";
 
-type Status = "before" | "live" | "ended";
 const letter = (i: number) => String.fromCharCode(65 + i);
 
 export default function AnswerKeyPage() {
-  const [status, setStatus] = useState<Status | null>(null);
-  useEffect(() => { setStatus(getLiveStatus()); }, []);
-
-  if (status === null) {
-    return <div className="min-h-screen flex items-center justify-center text-gray-400">Loading…</div>;
-  }
-
-  if (status !== "ended") {
-    return (
-      <div className="min-h-screen bg-gray-50 flex items-center justify-center p-4">
-        <div className="bg-white rounded-2xl shadow-sm border border-gray-200 p-8 max-w-md w-full text-center">
-          <BookOpen className="w-12 h-12 mx-auto text-blue-400 mb-3" />
-          <h1 className="text-xl font-black text-gray-900 mb-2">Answer key not released yet</h1>
-          <p className="text-gray-500 text-sm leading-relaxed">
-            The full answer key with explanations will be published here <span className="font-bold text-gray-700">after the
-            test closes — 12 PM (noon) on 20 June</span>. This keeps the test fair for everyone still taking it.
-          </p>
-          <Link href="/dashboard" className="inline-flex items-center gap-2 mt-6 text-primary-600 font-semibold text-sm hover:underline">
-            <ArrowLeft className="w-4 h-4" /> Back to Dashboard
-          </Link>
-        </div>
-      </div>
-    );
-  }
-
   return (
     <div className="min-h-screen bg-gray-50">
       <div className="bg-gradient-to-br from-blue-800 to-blue-600 text-white">
@@ -98,8 +70,8 @@ export default function AnswerKeyPage() {
         ))}
 
         <div className="text-center pt-2 pb-8">
-          <Link href="/dashboard" className="inline-flex items-center gap-2 text-gray-400 text-sm hover:underline">
-            <ArrowLeft className="w-4 h-4" /> Back to Dashboard
+          <Link href="/ranking" className="inline-flex items-center gap-2 text-gray-400 text-sm hover:underline">
+            <ArrowLeft className="w-4 h-4" /> Back to Ranking
           </Link>
         </div>
       </div>

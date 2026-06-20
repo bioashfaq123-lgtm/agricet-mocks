@@ -26,8 +26,8 @@ export default function RankingPage() {
       </div>
 
       <div className="max-w-3xl mx-auto px-4 py-6">
-        <div className="flex flex-col sm:flex-row gap-3 mb-4">
-          <div className="relative flex-1">
+        <div className="mb-4">
+          <div className="relative">
             <Search className="w-4 h-4 absolute left-3 top-1/2 -translate-y-1/2 text-gray-400" />
             <input
               value={q} onChange={e => setQ(e.target.value)}
@@ -35,9 +35,6 @@ export default function RankingPage() {
               className="w-full pl-9 pr-3 py-2.5 rounded-xl border border-gray-200 text-sm focus:outline-none focus:ring-2 focus:ring-primary-300"
             />
           </div>
-          <Link href="/answer-key" className="inline-flex items-center justify-center gap-2 bg-blue-50 hover:bg-blue-100 text-blue-700 border border-blue-200 text-sm font-bold px-4 py-2.5 rounded-xl whitespace-nowrap">
-            <BookOpen className="w-4 h-4" /> View Answer Key
-          </Link>
         </div>
 
         <div className="bg-white rounded-2xl border border-gray-200 overflow-hidden">
@@ -71,6 +68,11 @@ export default function RankingPage() {
         </div>
 
         <div className="text-center mt-6">
+          <Link href="/answer-key" className="inline-flex items-center gap-2 bg-blue-600 hover:bg-blue-700 text-white text-sm font-bold px-6 py-3 rounded-xl shadow-sm transition-colors">
+            <BookOpen className="w-4 h-4" /> View Full Answer Key &amp; Explanations
+          </Link>
+        </div>
+        <div className="text-center mt-4">
           <Link href="/dashboard" className="inline-flex items-center gap-2 text-gray-400 text-sm hover:underline">
             <ArrowLeft className="w-4 h-4" /> Back to Dashboard
           </Link>
