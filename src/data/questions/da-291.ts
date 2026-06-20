@@ -844,7 +844,7 @@ export const da291Questions: Question[] = [
   {
     id: "d291_106", subject: "Agricultural Extension Education",
     question: "Non-formal education is defined as:",
-    options: ["Hierarchically structured education from kindergarten through university in extension education in agriculture", "Lifelong incidental learning from daily experiences in rural development programmes under field conditions", "Organized and systematic education activity carried on outside the formal system to provide selected type of learning to particular groups", "Online education using modern technology under this extension approach for crop production"],
+    options: ["Hierarchically structured education from kindergarten through university in extension education in agriculture", "Lifelong incidental learning from daily experiences in rural development programmes", "Organized and systematic education activity carried on outside the formal system to provide selected type of learning to particular groups", "Online education using modern technology under this extension approach for crop production"],
     correct: 2,
     explanation: "Non-formal education is organized and systematic education activity outside the formal system, targeting specific groups with selected learning outside schools and colleges.",
     difficulty: "easy"
@@ -1292,7 +1292,7 @@ export const da291Questions: Question[] = [
   {
     id: "d291_162", subject: "Agricultural Extension Education",
     question: "The concept that extension workers act as 'salesmen' for improved technology means they must:",
-    options: ["Collect market data and set prices for farm produce", "Promote government-owned agribusinesses in extension education in agriculture", "Convince farmers about the benefits of new technologies similar to commercial salesmanship", "Sell agricultural inputs at subsidized rates to farmers under field conditions"],
+    options: ["Collect market data and set prices for farm produce", "Promote government-owned agribusinesses in extension education in agriculture", "Convince farmers about the benefits of new technologies similar to commercial salesmanship", "Sell agricultural inputs at subsidized rates to farmers"],
     correct: 2,
     explanation: "Extension education is compared to commercial salesmanship where extension workers must convince (sell the idea of) new technologies to farmers, overcoming resistance to change.",
     difficulty: "medium"

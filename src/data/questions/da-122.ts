@@ -1880,7 +1880,7 @@ export const da122Questions: Question[] = [
     subject: "da-122",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "Match the reasons for soil fertility decline with their mechanisms:\n     Column-I (Reason)           |  Column-II (Mechanism)       |  Column-III (Prevention)\nA.  Volatilization               |  1.  Loss of top fertile soil |  i.   Erosion control\nB.  Soil erosion                 |  2.  NH3 gas loss from urea   |  ii.  Deep placement, acidic soil\nC.  Leaching                     |  3.  Downward movement of NO3-|  iii. Split application\nD.  Crop removal                 |  4.  Nutrient removal with produce|  iv. Replenishment via fertilizers",
+    question: "Match the reasons decline with their mechanisms:\n     Column-I (Reason)           |  Column-II (Mechanism)       |  Column-III (Prevention)\nA.  Volatilization               |  1.  Loss of top fertile soil |  i.   Erosion control\nB.  Soil erosion                 |  2.  NH3 gas loss from urea   |  ii.  Deep placement, acidic soil\nC.  Leaching                     |  3.  Downward movement of NO3-|  iii. Split application\nD.  Crop removal                 |  4.  Nutrient removal with produce|  iv. Replenishment via fertilizers",
     options: ["A-3-iii, B-4-iv, C-1-i,    D-2-ii", "A-4-iv, B-2-ii,  C-1-i,    D-3-iii", "A-1-i,  B-3-iii, C-2-ii,   D-4-iv", "A-2-ii, B-1-i,   C-3-iii,  D-4-iv"],
     correct: 3,
     explanation: "As per DA-122 notes: Volatilization (NH3 gas from urea, prevented by deep placement); Soil erosion (top soil loss, erosion control); Leaching (NO3- moved downward, split application); Crop removal (nutrients taken away, replenish via fertilizers)."

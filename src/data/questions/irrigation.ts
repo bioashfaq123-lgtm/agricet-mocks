@@ -13,7 +13,7 @@ export const irrigationQuestions: Question[] = [
     id: "irr002",
     subject: "irrigation",
     question: "The term 'Delta' in irrigation refers to:",
-    options: ["Total area irrigated in irrigation management", "Depth of water applied per irrigation for water application", "Water lost through evaporation under field conditions", "Total depth of water required by crop during entire growing period"],
+    options: ["Total area irrigated in irrigation management", "Depth of water applied per irrigation for water application", "Water lost through evaporation", "Total depth of water required by crop during entire growing period"],
     correct: 3,
     explanation: "Delta is the total depth of water (in cm) required by a crop during its entire growing period from sowing to harvest."
   },
@@ -61,7 +61,7 @@ export const irrigationQuestions: Question[] = [
     id: "irr008",
     subject: "irrigation",
     question: "Permanent Wilting Point (PWP) is the soil moisture content at which:",
-    options: ["Plants wilt temporarily in irrigation management", "Maximum plant growth occurs under field conditions", "Soil drainage stops for water application", "Plants wilt permanently and cannot recover even with water"],
+    options: ["Plants wilt temporarily in irrigation management", "Maximum plant growth occurs", "Soil drainage stops for water application", "Plants wilt permanently and cannot recover even with water"],
     correct: 3,
     explanation: "Permanent Wilting Point is the soil moisture content at which plants wilt permanently and cannot recover even when placed in a humid atmosphere. It is approximately -15 bar soil moisture tension."
   },
@@ -117,7 +117,7 @@ export const irrigationQuestions: Question[] = [
     id: "irr015",
     subject: "irrigation",
     question: "Evapotranspiration (ET) is the combination of:",
-    options: ["Infiltration + Drainage under field conditions", "Rainfall + Irrigation in irrigation management", "Runoff + Percolation for water application", "Evaporation from soil + Transpiration from plants"],
+    options: ["Infiltration + Drainage", "Rainfall + Irrigation in irrigation management", "Runoff + Percolation for water application", "Evaporation from soil + Transpiration from plants"],
     correct: 3,
     explanation: "Evapotranspiration is the total water lost from a cropped surface through evaporation from soil and transpiration from plant leaves combined."
   },
@@ -165,7 +165,7 @@ export const irrigationQuestions: Question[] = [
     id: "irr021",
     subject: "irrigation",
     question: "Sprinkler irrigation is most suitable for:",
-    options: ["Undulating lands with sandy soils and row crops", "Rice and sugarcane in irrigation management", "Heavy clay soils for water application", "Lowland paddy under field conditions"],
+    options: ["Undulating lands with sandy soils and row crops", "Rice and sugarcane in irrigation management", "Heavy clay soils for water application", "Lowland paddy"],
     correct: 0,
     explanation: "Sprinkler irrigation is ideal for undulating lands, sandy and light-textured soils where surface irrigation is difficult, and for row crops, vegetables, and orchards."
   },
@@ -181,7 +181,7 @@ export const irrigationQuestions: Question[] = [
     id: "irr023",
     subject: "irrigation",
     question: "Water use efficiency (WUE) is defined as:",
-    options: ["Crop yield per unit area in irrigation management", "Evapotranspiration / Rainfall under field conditions", "Total water applied per crop for water application", "Crop yield per unit of water consumed or applied"],
+    options: ["Crop yield per unit area in irrigation management", "Evapotranspiration / Rainfall", "Total water applied per crop for water application", "Crop yield per unit of water consumed or applied"],
     correct: 3,
     explanation: "Water Use Efficiency = Crop yield / Water consumed (ET) or water applied. It measures how efficiently water is converted to crop biomass or yield."
   },
@@ -221,7 +221,7 @@ export const irrigationQuestions: Question[] = [
     id: "irr028",
     subject: "irrigation",
     question: "Sub-surface drip irrigation (SDI) places emitters:",
-    options: ["Above the canopy in irrigation management", "Below the soil surface in the root zone", "At soil surface for water application", "In overhead pipes under field conditions"],
+    options: ["Above the canopy in irrigation management", "Below the soil surface in the root zone", "At soil surface for water application", "In overhead pipes"],
     correct: 1,
     explanation: "Sub-surface drip irrigation places drip emitters/laterals below the soil surface (15-45 cm depth) directly in the root zone, reducing evaporation losses and allowing farming operations without moving the system."
   },
@@ -341,7 +341,7 @@ export const irrigationQuestions: Question[] = [
     id: "irr043",
     subject: "irrigation",
     question: "Crop coefficient (Kc) is used to:",
-    options: ["Measure soil moisture in irrigation management", "Calculate irrigation duration for water application", "Convert reference ET (ET₀) to crop ET (ETc)", "Determine fertilizer dose under field conditions"],
+    options: ["Measure soil moisture in irrigation management", "Calculate irrigation duration for water application", "Convert reference ET (ET₀) to crop ET (ETc)", "Determine fertilizer dose"],
     correct: 2,
     explanation: "Crop coefficient (Kc) relates reference evapotranspiration (ET₀) to actual crop evapotranspiration (ETc = Kc × ET₀). It varies with crop type and growth stage."
   },
@@ -381,7 +381,7 @@ export const irrigationQuestions: Question[] = [
     id: "irr048",
     subject: "irrigation",
     question: "Rain gun is a type of:",
-    options: ["High pressure rotating sprinkler for large areas", "Drip emitter in irrigation management", "Micro-sprinkler for water application", "Subsurface irrigator under field conditions"],
+    options: ["High pressure rotating sprinkler for large areas", "Drip emitter in irrigation management", "Micro-sprinkler for water application", "Subsurface irrigator"],
     correct: 0,
     explanation: "A rain gun is a high-pressure, large-diameter rotating sprinkler that can cover a large area (up to 80m radius). It is used for sugarcane, paddy, and other field crops."
   },
@@ -389,7 +389,7 @@ export const irrigationQuestions: Question[] = [
     id: "irr049",
     subject: "irrigation",
     question: "Critical irrigation for sugarcane is required during:",
-    options: ["Grand growth period (tillering to elongation)", "Germination period in irrigation management", "Maturity for water application", "Harvesting under field conditions"],
+    options: ["Grand growth period (tillering to elongation)", "Germination period in irrigation management", "Maturity for water application", "Harvesting"],
     correct: 0,
     explanation: "The grand growth period (tillering to cane elongation) is the critical stage for sugarcane irrigation. This period requires maximum water for cell elongation and sucrose accumulation."
   },

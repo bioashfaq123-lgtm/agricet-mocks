@@ -1209,7 +1209,7 @@ export const da201Questions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Sesame is regarded as 'Queen of Oilseeds' because of:",
-    options: ["Its quality (fatty acid composition) and resistance to oxidation and rancidity", "Its drought tolerance in crop production in agriculture", "Its high yield potential in field conditions under field conditions", "Its wide adaptability for agricultural purposes for crop production"],
+    options: ["Its quality (fatty acid composition) and resistance to oxidation and rancidity", "Its drought tolerance in crop production in agriculture", "Its high yield potential in field conditions", "Its wide adaptability for agricultural purposes for crop production"],
     correct: 0,
     explanation: "As per DA-201 notes, sesame is regarded as 'queen of oilseeds' because of its quality (fatty acid composition) and its resistance to oxidation and rancidity."
   },

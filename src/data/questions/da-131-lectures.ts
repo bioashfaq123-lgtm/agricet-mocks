@@ -445,17 +445,17 @@ export const da131LectureQuestions: Question[] = [
 
   { id:"d131l_088", subject:"da-131", lecture:"lecture-6", lectureNo:6,
     question:"Distinguishing feature of butterflies from moths is:",
-    options:["Clubbed antennae and diurnal habit", "Wing size under standard field conditions", "Body colour under standard field conditions", "Number of legs under standard field conditions"],
+    options:["Clubbed antennae and diurnal habit", "Wing size", "Body colour", "Number of legs"],
     correct:0, explanation:"Butterflies have clubbed (clavate) antennae and are active during daytime (diurnal). Moths have feathery/filiform antennae and are mostly nocturnal." },
 
   { id:"d131l_089", subject:"da-131", lecture:"lecture-6", lectureNo:6,
     question:"The wasp Cotesia flavipes is a parasitoid of:",
-    options:["Rice stem borer (Chilo suppressalis)", "Sugarcane internode borer (Chilo sacchariphagus)", "Cotton bollworm under standard field conditions", "Tomato fruit borer under standard field conditions"],
+    options:["Rice stem borer (Chilo suppressalis)", "Sugarcane internode borer (Chilo sacchariphagus)", "Cotton bollworm", "Tomato fruit borer"],
     correct: 1, explanation:"Cotesia flavipes is a larval parasitoid of sugarcane internode borer, used in biological control of sugarcane pests." },
 
   { id:"d131l_090", subject:"da-131", lecture:"lecture-6", lectureNo:6,
     question:"The number of wings in order Diptera is:",
-    options:["2 (only fore wings functional)", "0 under standard field conditions", "4 but fore wings are elytra", "4 under standard field conditions"],
+    options:["2 (only fore wings functional)", "0", "4 but fore wings are elytra", "4"],
     correct: 0, explanation:"Diptera have only one pair of functional wings (fore wings). Hind wings are reduced to halteres." },
 
   // ── LECTURE 7: Beneficial Insects ────────────────────────────────────────
@@ -481,7 +481,7 @@ export const da131LectureQuestions: Question[] = [
 
   { id:"d131l_095", subject:"da-131", lecture:"lecture-7", lectureNo:7,
     question:"Propolis (bee glue) in honeybee hive is used for:",
-    options:["Larval food under standard field conditions", "Sealing cracks and sterilising hive", "Queen rearing under standard field conditions", "Food storage under standard field conditions"],
+    options:["Larval food", "Sealing cracks and sterilising hive", "Queen rearing", "Food storage"],
     correct: 1, explanation:"Propolis is a resinous mixture collected by bees from tree buds, used to seal gaps in the hive and has antimicrobial properties." },
 
   { id:"d131l_096", subject:"da-131", lecture:"lecture-7", lectureNo:7,
@@ -496,7 +496,7 @@ export const da131LectureQuestions: Question[] = [
 
   { id:"d131l_098", subject:"da-131", lecture:"lecture-7", lectureNo:7,
     question:"Shellac is produced from lac resin of Kerria lacca. The main host trees include:",
-    options:["Cotton and tobacco in entomology under standard field conditions", "Mango and banana in crop protection under standard field conditions", "Rice and wheat for field crops under standard field conditions", "Palas (Butea monosperma) and Ber (Ziziphus mauritiana)"],
+    options:["Cotton and tobacco in entomology", "Mango and banana in crop protection", "Rice and wheat for field crops", "Palas (Butea monosperma) and Ber (Ziziphus mauritiana)"],
     correct: 3, explanation:"Kerria lacca is mainly reared on Palas (flame of the forest) and Ber. Other hosts include kusum and ghont." },
 
   { id:"d131l_099", subject:"da-131", lecture:"lecture-7", lectureNo:7,
@@ -547,7 +547,7 @@ export const da131LectureQuestions: Question[] = [
 
   { id:"d131l_108", subject:"da-131", lecture:"lecture-8", lectureNo:8,
     question:"Biotic potential of insects refers to:",
-    options:["Death rate in irrigated crop production systems", "Maximum reproductive capacity under ideal conditions", "Resistance to pesticides under standard field conditions", "Actual rate of increase under standard field conditions"],
+    options:["Death rate in irrigated crop production systems", "Maximum reproductive capacity under ideal conditions", "Resistance to pesticides", "Actual rate of increase"],
     correct: 1, explanation:"Biotic potential is the maximum reproductive capacity of an insect under ideal conditions (unlimited food, no predators, optimum temp)." },
 
   { id:"d131l_109", subject:"da-131", lecture:"lecture-8", lectureNo:8,
@@ -567,7 +567,7 @@ export const da131LectureQuestions: Question[] = [
 
   { id:"d131l_112", subject:"da-131", lecture:"lecture-8", lectureNo:8,
     question:"Pest resurgence is caused by:",
-    options:["Crop rotation in entomology under standard field conditions", "Indiscriminate use of pesticides killing natural enemies", "Balanced fertilizer use in crop protection", "Use of resistant varieties under standard field conditions"],
+    options:["Crop rotation in entomology", "Indiscriminate use of pesticides killing natural enemies", "Balanced fertilizer use in crop protection", "Use of resistant varieties"],
     correct:1, explanation:"Pest resurgence occurs when pesticides kill natural enemies, allowing the target pest to rebound to higher levels than before treatment." },
 
   { id:"d131l_113", subject:"da-131", lecture:"lecture-8", lectureNo:8,
@@ -588,7 +588,7 @@ export const da131LectureQuestions: Question[] = [
   // ── LECTURE 9: Pesticides ─────────────────────────────────────────────────
   { id:"d131l_116", subject:"da-131", lecture:"lecture-9", lectureNo:9,
     question:"Organochlorine insecticides act by:",
-    options:["Blocking nicotinic receptors under standard field conditions", "Disrupting nerve impulse transmission (sodium channel)", "Inhibiting acetylcholinesterase in entomology", "Inhibiting chitin synthesis under standard field conditions"],
+    options:["Blocking nicotinic receptors", "Disrupting nerve impulse transmission (sodium channel)", "Inhibiting acetylcholinesterase in entomology", "Inhibiting chitin synthesis"],
     correct: 1, explanation:"Organochlorines (DDT, BHC) disrupt sodium channel function in nerve cells, causing hyperexcitability and death." },
 
   { id:"d131l_117", subject:"da-131", lecture:"lecture-9", lectureNo:9,
@@ -614,11 +614,11 @@ export const da131LectureQuestions: Question[] = [
   { id:"d131l_121", subject:"da-131", lecture:"lecture-9", lectureNo:9,
     question:"The LD50 of a pesticide refers to:",
     options:["Effective dose for crop protection", "Lethal dose killing 100% of test organisms", "Dose killing 50% of test population", "Maximum residue limit"],
-    correct: 2, explanation:"LD50 (Lethal Dose 50) is the dose of pesticide that kills 50% of a test population under standard conditions. Lower LD50 = more toxic." },
+    correct: 2, explanation:"LD50 (Lethal Dose 50) is the dose of pesticide that kills 50% of a test population. Lower LD50 = more toxic." },
 
   { id:"d131l_122", subject:"da-131", lecture:"lecture-9", lectureNo:9,
     question:"GR formulation (Granule) is applied by:",
-    options:["Dusting from air under standard field conditions", "Broadcasting or incorporation into soil", "Spraying with water under standard field conditions", "Dipping of seeds under standard field conditions"],
+    options:["Dusting from air", "Broadcasting or incorporation into soil", "Spraying with water", "Dipping of seeds"],
     correct: 1, explanation:"Granule (GR) formulations are applied by broadcasting in soil or between rows. They are used for soil insects and rootworms." },
 
   { id:"d131l_123", subject:"da-131", lecture:"lecture-9", lectureNo:9,
@@ -669,7 +669,7 @@ export const da131LectureQuestions: Question[] = [
 
   { id:"d131l_132", subject:"da-131", lecture:"lecture-10", lectureNo:10,
     question:"The use of resistant crop varieties is a ________ method of pest control:",
-    options:["Biological under standard field conditions", "Chemical under standard field conditions", "Cultural/Host plant resistance", "Mechanical under standard field conditions"],
+    options:["Biological", "Chemical", "Cultural/Host plant resistance", "Mechanical"],
     correct: 2, explanation:"Use of resistant varieties is a host plant resistance method under cultural control, providing non-preference, antibiosis or tolerance." },
 
   { id:"d131l_133", subject:"da-131", lecture:"lecture-10", lectureNo:10,
@@ -1184,7 +1184,7 @@ export const da131LectureQuestions: Question[] = [
     lecture: "lecture-15",
     lectureNo: 15,
     question: "Marigold is used as trap crop against which pest in cotton?",
-    options: ["Mealybug under standard field conditions", "Bollworm (Helicoverpa armigera)", "Aphid under standard field conditions", "Whitefly under standard field conditions"],
+    options: ["Mealybug", "Bollworm (Helicoverpa armigera)", "Aphid", "Whitefly"],
     correct: 1,
     explanation: "As per DA-131 notes: Marigold is used as trap crop against American bollworm (Helicoverpa armigera) in cotton."
   },
@@ -1394,7 +1394,7 @@ export const da131LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "Assertion (A): Arthropods are the most successful animals on Earth.\nReason (R): They include more species than all other animal groups combined, living in widest range of habitats.",
-    options: ["Both A and R are true but R is not the correct explanation of A", "A is true but R is false under standard field conditions", "Both A and R are true and R is the correct explanation of A", "A is false but R is true under standard field conditions"],
+    options: ["Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "Both A and R are true and R is the correct explanation of A", "A is false but R is true"],
     correct: 2,
     explanation: "As per DA-131 notes: Arthropods are considered most successful animals on Earth - they include more species and individuals than all other groups combined."
   },
@@ -1404,7 +1404,7 @@ export const da131LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Assertion (A): Apterygota insects are considered primitive compared to Pterygota.\nReason (R): Apterygota are primarily wingless, have pregenital abdominal appendages and simple or absent metamorphosis.",
-    options: ["Both A and R are true but R is not the correct explanation of A", "A is true but R is false under standard field conditions", "Both A and R are true and R is the correct explanation of A", "A is false but R is true under standard field conditions"],
+    options: ["Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "Both A and R are true and R is the correct explanation of A", "A is false but R is true"],
     correct: 2,
     explanation: "As per DA-131 notes: Apterygota are small and primitive insects, primarily wingless with pregenital abdominal appendages and simple/absent metamorphosis."
   },
@@ -1414,7 +1414,7 @@ export const da131LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Assertion (A): Orthoptera insects are hemimetabolous.\nReason (R): They have three developmental stages: egg, nymph and adult, with nymphs resembling small adults.",
-    options: ["Both A and R are true but R is not the correct explanation of A", "A is true but R is false under standard field conditions", "Both A and R are true and R is the correct explanation of A", "A is false but R is true under standard field conditions"],
+    options: ["Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "Both A and R are true and R is the correct explanation of A", "A is false but R is true"],
     correct: 2,
     explanation: "As per DA-131 notes: Orthoptera is Hemimetabolous - egg, nymph and adult stages, nymphs look like small adults with no pupa."
   },
@@ -1424,7 +1424,7 @@ export const da131LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Assertion (A): Thysanoptera (thrips) reproduce by parthenogenesis.\nReason (R): In many thrips species, males are rare and parthenogenetic reproduction is very common.",
-    options: ["A is false but R is true under standard field conditions", "A is true but R is false under standard field conditions", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
+    options: ["A is false but R is true", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-131 notes: Parthenogenesis reproduction is very common in Thysanoptera and in many species males are rare."
   },
@@ -1434,7 +1434,7 @@ export const da131LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Assertion (A): Adult Lepidoptera (butterflies and moths) are generally harmless.\nReason (R): They have siphoning type mouthparts suitable only for nectar feeding, except citrus fruit sucking moths.",
-    options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false under standard field conditions", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true under standard field conditions"],
+    options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 0,
     explanation: "As per DA-131 notes: Adults of Lepidoptera are harmless, except citrus fruit sucking moths and castor semilooper."
   },
@@ -1444,7 +1444,7 @@ export const da131LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Assertion (A): Diptera insects have only one functional pair of wings.\nReason (R): The hind pair of wings is modified into halteres which function as gyroscopic balancers.",
-    options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false under standard field conditions", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true under standard field conditions"],
+    options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 0,
     explanation: "As per DA-131 notes: In Diptera only front pair of wings is present; hind pair modified into halteres which act as balancers."
   },
@@ -1454,7 +1454,7 @@ export const da131LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Assertion (A): Cockroach (Periplaneta americana) is classified as omnivorous.\nReason (R): Being a scavenger, cockroaches feed on various types of food materials.",
-    options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false under standard field conditions", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true under standard field conditions"],
+    options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 0,
     explanation: "As per DA-131 notes: Periplaneta americana - they are omnivorous and scavenger insects."
   },
@@ -1464,7 +1464,7 @@ export const da131LectureQuestions: Question[] = [
     lecture: "lecture-14",
     lectureNo: 14,
     question: "Assertion (A): White ear symptom occurs in paddy during reproductive stage.\nReason (R): Stem borer larvae feed inside the stem and the affected part wilts during reproductive stage.",
-    options: ["Both A and R are true but R is not the correct explanation of A", "A is true but R is false under standard field conditions", "Both A and R are true and R is the correct explanation of A", "A is false but R is true under standard field conditions"],
+    options: ["Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "Both A and R are true and R is the correct explanation of A", "A is false but R is true"],
     correct: 2,
     explanation: "As per DA-131 notes: Stem borers cause white ear during reproductive stage and dead heart during vegetative stage in paddy."
   },
@@ -1474,7 +1474,7 @@ export const da131LectureQuestions: Question[] = [
     lecture: "lecture-15",
     lectureNo: 15,
     question: "Assertion (A): Cultural methods are the cheapest pest control method.\nReason (R): They involve manipulation of farming practices without additional cost of chemicals.",
-    options: ["Both A and R are true but R is not the correct explanation of A", "A is true but R is false under standard field conditions", "Both A and R are true and R is the correct explanation of A", "A is false but R is true under standard field conditions"],
+    options: ["Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "Both A and R are true and R is the correct explanation of A", "A is false but R is true"],
     correct: 2,
     explanation: "As per DA-131 notes: Cultural practices make environment less favorable for pests and it is the cheapest of all methods."
   },
@@ -1484,7 +1484,7 @@ export const da131LectureQuestions: Question[] = [
     lecture: "lecture-17",
     lectureNo: 17,
     question: "Assertion (A): Grapevine phylloxera introduced into France from America caused severe damage.\nReason (R): Foreign pests inflict greater damage than indigenous ones as they lack natural enemies in the new region.",
-    options: ["Both A and R are true but R is not the correct explanation of A", "A is true but R is false under standard field conditions", "Both A and R are true and R is the correct explanation of A", "A is false but R is true under standard field conditions"],
+    options: ["Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "Both A and R are true and R is the correct explanation of A", "A is false but R is true"],
     correct: 2,
     explanation: "As per DA-131 notes: Grapevine phylloxera got introduced into France from America by about 1860; foreign pests frequently inflict greater damage than indigenous ones."
   },
@@ -1494,7 +1494,7 @@ export const da131LectureQuestions: Question[] = [
     lecture: "lecture-18",
     lectureNo: 18,
     question: "Assertion (A): Bt (Bacillus thuringiensis) is effective against more than 150 insect species.\nReason (R): Bt infects through ingestion affecting midgut epithelia cells and entering haemolymph causing septicemia.",
-    options: ["A is true but R is false under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true under standard field conditions"],
+    options: ["A is true but R is false", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 1,
     explanation: "As per DA-131 notes: B.t. can infect more than 150 species; entry is by ingestion infecting midgut epithelia cells and entering haemolymph to sporulate causing septicemia."
   },
@@ -1504,7 +1504,7 @@ export const da131LectureQuestions: Question[] = [
     lecture: "lecture-18",
     lectureNo: 18,
     question: "Assertion (A): Entomopathogenic fungi infect insects through the cuticle.\nReason (R): They produce cuticle-digesting enzymes including proteases, lipases and chitinases.",
-    options: ["Both A and R are true but R is not the correct explanation of A", "A is true but R is false under standard field conditions", "Both A and R are true and R is the correct explanation of A", "A is false but R is true under standard field conditions"],
+    options: ["Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "Both A and R are true and R is the correct explanation of A", "A is false but R is true"],
     correct: 2,
     explanation: "As per DA-131 notes: Most entomopathogenic fungi infect hosts by penetration of cuticle by producing cuticle digesting enzymes (proteases, lipases, chitinases)."
   },
@@ -1514,7 +1514,7 @@ export const da131LectureQuestions: Question[] = [
     lecture: "lecture-19",
     lectureNo: 19,
     question: "Assertion (A): Spraying insecticide in the evening is more effective for nocturnal insects.\nReason (R): Stomata remain open in the evening facilitating better absorption.",
-    options: ["A is false but R is true under standard field conditions", "A is true but R is false under standard field conditions", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
+    options: ["A is false but R is true", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-131 notes: Insecticide should be sprayed in the evening when stomata will be open; spraying in evening more effective on nocturnal insects."
   },
@@ -1524,7 +1524,7 @@ export const da131LectureQuestions: Question[] = [
     lecture: "lecture-13",
     lectureNo: 13,
     question: "Assertion (A): In rasping and sucking mouthparts of thrips, right mandible is rudimentary.\nReason (R): Rasping and sucking type is considered asymmetrical because of this characteristic.",
-    options: ["Both A and R are true but R is not the correct explanation of A", "A is true but R is false under standard field conditions", "Both A and R are true and R is the correct explanation of A", "A is false but R is true under standard field conditions"],
+    options: ["Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "Both A and R are true and R is the correct explanation of A", "A is false but R is true"],
     correct: 2,
     explanation: "As per DA-131 notes: Rasping and sucking type is called asymmetrical type because right mandible is rudimentary."
   },
@@ -1534,7 +1534,7 @@ export const da131LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Assertion (A): Coleoptera is the order with sheathed winged insects.\nReason (R): The forewings of Coleoptera called elytra are horny and leathery, not used for flight but protecting hind wings.",
-    options: ["A is true but R is false under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true under standard field conditions"],
+    options: ["A is true but R is false", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
     correct: 1,
     explanation: "As per DA-131 notes: Coleoptera (Coleo: sheath, Ptera: wings) - forewings are horny, leathery not used for flight known as elytra."
   },

@@ -37,7 +37,7 @@ export const da171LectureQuestions: Question[] = [
   {
     id: "d171l_005", subject: "da-171", lecture: "lecture-1", lectureNo: 1,
     question: "Koch's postulates were proposed to:",
-    options: ["Develop pesticides for crop protection under standard field conditions", "Study plant viruses in plant pathology under standard field conditions", "Classify fungi in disease management under standard field conditions", "Prove that a specific microorganism causes a specific disease"],
+    options: ["Develop pesticides for crop protection", "Study plant viruses in plant pathology", "Classify fungi in disease management", "Prove that a specific microorganism causes a specific disease"],
     correct: 3,
     explanation: "Koch's postulates establish a causal relationship between a microorganism and a disease.",
     difficulty: "medium"
@@ -421,7 +421,7 @@ export const da171LectureQuestions: Question[] = [
   {
     id: "d171l_051", subject: "da-171", lecture: "lecture-5", lectureNo: 5,
     question: "Damping-off of seedlings is caused by:",
-    options: ["Xanthomonas spp. under standard field conditions", "Pythium spp. and Rhizoctonia solani", "Alternaria spp. under standard field conditions", "Puccinia spp. under standard field conditions"],
+    options: ["Xanthomonas spp.", "Pythium spp. and Rhizoctonia solani", "Alternaria spp.", "Puccinia spp."],
     correct: 1,
     explanation: "Damping-off is caused mainly by Pythium spp. (pre-emergence) and Rhizoctonia solani (post-emergence).",
     difficulty: "medium"
@@ -445,7 +445,7 @@ export const da171LectureQuestions: Question[] = [
   {
     id: "d171l_054", subject: "da-171", lecture: "lecture-5", lectureNo: 5,
     question: "Wilt disease is characteristically caused by:",
-    options: ["Foliar pathogens for crop protection under standard field conditions", "Vascular pathogens that block xylem (Fusarium, Verticillium)", "Root surface pathogens in disease management", "Leaf-spotting fungi in plant pathology under standard field conditions"],
+    options: ["Foliar pathogens for crop protection", "Vascular pathogens that block xylem (Fusarium, Verticillium)", "Root surface pathogens in disease management", "Leaf-spotting fungi in plant pathology"],
     correct: 1,
     explanation: "Wilt diseases are caused by vascular pathogens (Fusarium, Verticillium) that colonize and block xylem vessels.",
     difficulty: "medium"
@@ -461,7 +461,7 @@ export const da171LectureQuestions: Question[] = [
   {
     id: "d171l_056", subject: "da-171", lecture: "lecture-5", lectureNo: 5,
     question: "Biological control of soil-borne diseases uses:",
-    options: ["Trichoderma viride and Pseudomonas fluorescens", "Growth regulators under standard field conditions", "Insecticides in plant pathology", "Synthetic fungicides under standard field conditions"],
+    options: ["Trichoderma viride and Pseudomonas fluorescens", "Growth regulators", "Insecticides in plant pathology", "Synthetic fungicides"],
     correct: 0,
     explanation: "Trichoderma viride and P. fluorescens are bioagents used against soil-borne fungal pathogens.",
     difficulty: "medium"
@@ -477,7 +477,7 @@ export const da171LectureQuestions: Question[] = [
   {
     id: "d171l_058", subject: "da-171", lecture: "lecture-5", lectureNo: 5,
     question: "Trichoderma viride is used as a:",
-    options: ["Biocontrol agent against soil-borne pathogens", "Plant growth promoter only under standard field conditions", "Chemical fungicide under standard field conditions", "Insecticide under standard field conditions"],
+    options: ["Biocontrol agent against soil-borne pathogens", "Plant growth promoter only", "Chemical fungicide", "Insecticide"],
     correct: 0,
     explanation: "Trichoderma viride is a mycoparasite and antibiotic producer used for biocontrol of soil-borne pathogens.",
     difficulty: "medium"
@@ -535,7 +535,7 @@ export const da171LectureQuestions: Question[] = [
   {
     id: "d171l_065", subject: "da-171", lecture: "lecture-6", lectureNo: 6,
     question: "Downy mildew differs from powdery mildew in that downy mildew is caused by:",
-    options: ["Ascomycetes under standard field conditions", "Deuteromycetes under standard field conditions", "Basidiomycetes under standard field conditions", "Oomycetes (Sclerospora, Peronosclerospora)"],
+    options: ["Ascomycetes", "Deuteromycetes", "Basidiomycetes", "Oomycetes (Sclerospora, Peronosclerospora)"],
     correct: 3,
     explanation: "Downy mildews are caused by oomycetes, while powdery mildews are caused by Ascomycetes (Erysiphales).",
     difficulty: "medium"
@@ -577,7 +577,7 @@ export const da171LectureQuestions: Question[] = [
   {
     id: "d171l_070", subject: "da-171", lecture: "lecture-7", lectureNo: 7,
     question: "Systemic fungicides move through the plant's:",
-    options: ["Xylem (acropetal) and/or phloem (basipetal)", "Phloem only under standard field conditions", "Epidermis in plant pathology", "Cell wall under standard field conditions"],
+    options: ["Xylem (acropetal) and/or phloem (basipetal)", "Phloem only", "Epidermis in plant pathology", "Cell wall"],
     correct: 0,
     explanation: "Systemic fungicides translocate through vascular tissue — most through xylem (acropetal).",
     difficulty: "medium"
@@ -609,7 +609,7 @@ export const da171LectureQuestions: Question[] = [
   {
     id: "d171l_074", subject: "da-171", lecture: "lecture-7", lectureNo: 7,
     question: "Metalaxyl is specifically used against:",
-    options: ["Bacteria under standard field conditions", "Viruses under standard field conditions", "True fungi under standard field conditions", "Oomycetes (downy mildews, Phytophthora)"],
+    options: ["Bacteria", "Viruses", "True fungi", "Oomycetes (downy mildews, Phytophthora)"],
     correct: 3,
     explanation: "Metalaxyl (a phenylamide) is specific against Oomycetes (Phytophthora, Pythium, downy mildews).",
     difficulty: "medium"
@@ -625,7 +625,7 @@ export const da171LectureQuestions: Question[] = [
   {
     id: "d171l_076", subject: "da-171", lecture: "lecture-7", lectureNo: 7,
     question: "Strobilurin fungicides work by:",
-    options: ["Inhibiting ergosterol synthesis", "Disrupting cell membranes under standard field conditions", "Inhibiting tubulin under standard field conditions", "Inhibiting mitochondrial respiration (Qo site)"],
+    options: ["Inhibiting ergosterol synthesis", "Disrupting cell membranes", "Inhibiting tubulin", "Inhibiting mitochondrial respiration (Qo site)"],
     correct: 3,
     explanation: "Strobilurin fungicides (azoxystrobin, trifloxystrobin) inhibit electron transfer in mitochondria.",
     difficulty: "hard"
@@ -633,7 +633,7 @@ export const da171LectureQuestions: Question[] = [
   {
     id: "d171l_077", subject: "da-171", lecture: "lecture-7", lectureNo: 7,
     question: "Resistance in plants to disease is broadly classified as:",
-    options: ["Temporary and permanent resistance under standard field conditions", "Chemical and biological resistance under standard field conditions", "Passive and aggressive resistance under standard field conditions", "Horizontal (field) resistance and vertical (race-specific) resistance"],
+    options: ["Temporary and permanent resistance", "Chemical and biological resistance", "Passive and aggressive resistance", "Horizontal (field) resistance and vertical (race-specific) resistance"],
     correct: 3,
     explanation: "Horizontal resistance is general/broad-spectrum; vertical resistance is specific to pathogen races.",
     difficulty: "medium"
@@ -659,7 +659,7 @@ export const da171LectureQuestions: Question[] = [
   {
     id: "d171l_080", subject: "da-171", lecture: "lecture-8", lectureNo: 8,
     question: "Azospirillum is a:",
-    options: ["Free-living / associative N₂ fixer in rhizosphere of cereals", "Mycorrhizal fungus in plant pathology under standard field conditions", "Phosphate solubilizer only in disease management", "Symbiotic N₂ fixer in legumes under standard field conditions"],
+    options: ["Free-living / associative N₂ fixer in rhizosphere of cereals", "Mycorrhizal fungus in plant pathology", "Phosphate solubilizer only in disease management", "Symbiotic N₂ fixer in legumes"],
     correct: 0,
     explanation: "Azospirillum is an associative N₂-fixing bacterium found in the rhizosphere of cereals and grasses.",
     difficulty: "medium"
@@ -683,7 +683,7 @@ export const da171LectureQuestions: Question[] = [
   {
     id: "d171l_083", subject: "da-171", lecture: "lecture-8", lectureNo: 8,
     question: "Phosphate Solubilizing Bacteria (PSB) improve plant nutrition by:",
-    options: ["Controlling soil pH under standard field conditions", "Solubilizing insoluble phosphates to plant-available forms", "Fixing nitrogen in irrigated crop production systems", "Producing growth hormones only under standard field conditions"],
+    options: ["Controlling soil pH", "Solubilizing insoluble phosphates to plant-available forms", "Fixing nitrogen in irrigated crop production systems", "Producing growth hormones only"],
     correct: 1,
     explanation: "PSB (Bacillus, Pseudomonas) solubilize fixed soil phosphates through organic acid production.",
     difficulty: "medium"
@@ -691,7 +691,7 @@ export const da171LectureQuestions: Question[] = [
   {
     id: "d171l_084", subject: "da-171", lecture: "lecture-8", lectureNo: 8,
     question: "Frankia forms symbiotic N₂-fixing nodules on:",
-    options: ["Legumes under standard field conditions", "Rice under standard field conditions", "Cotton under standard field conditions", "Non-leguminous plants (Casuarina, Alnus)"],
+    options: ["Legumes", "Rice", "Cotton", "Non-leguminous plants (Casuarina, Alnus)"],
     correct: 3,
     explanation: "Frankia (actinomycete) forms actinorhizal nodules on non-leguminous trees like Casuarina and Alnus.",
     difficulty: "hard"
@@ -723,7 +723,7 @@ export const da171LectureQuestions: Question[] = [
   {
     id: "d171l_088", subject: "da-171", lecture: "lecture-8", lectureNo: 8,
     question: "Pseudomonas fluorescens is used as a biocontrol agent against:",
-    options: ["Insects in plant pathology under standard field conditions", "Soil-borne fungal pathogens (produces antibiotics)", "Nematodes in disease management under standard field conditions", "Viral diseases under standard field conditions"],
+    options: ["Insects in plant pathology", "Soil-borne fungal pathogens (produces antibiotics)", "Nematodes in disease management", "Viral diseases"],
     correct: 1,
     explanation: "P. fluorescens produces antibiotics (phenazines, 2,4-DAPG) and siderophores effective against soil-borne pathogens.",
     difficulty: "medium"
@@ -792,7 +792,7 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Phytoplasmas are mainly transmitted by",
-    options: ["aphids only under standard field conditions", "thrips in plant pathology under standard field conditions", "whiteflies in disease management", "phloem-feeding leafhoppers and plant hoppers"],
+    options: ["aphids only", "thrips in plant pathology", "whiteflies in disease management", "phloem-feeding leafhoppers and plant hoppers"],
     correct: 3,
     explanation: "As per DA-171 notes: Most phytoplasmas are transmitted by phloem-feeding leafhoppers and plant hoppers."
   },
@@ -1142,7 +1142,7 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-22",
     lectureNo: 22,
     question: "Groundnut Tikka disease is caused by",
-    options: ["Tomato spotted wilt virus in plant pathology under standard field conditions", "Cercospora arachidicola (early Tikka) and Cercosporidium personatum (late Tikka)", "Puccinia arachidis for crop protection under standard field conditions", "Aspergillus niger in disease management under standard field conditions"],
+    options: ["Tomato spotted wilt virus in plant pathology", "Cercospora arachidicola (early Tikka) and Cercosporidium personatum (late Tikka)", "Puccinia arachidis for crop protection", "Aspergillus niger in disease management"],
     correct: 1,
     explanation: "As per DA-171 notes: Groundnut - Tikka spot (early and late leaf spots) are major fungal diseases of groundnut caused by Cercospora species."
   },
@@ -1272,7 +1272,7 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Club root of cabbage is an example of which disease symptom?",
-    options: ["Wilt under standard field conditions", "Gall formation (hypertrophy)", "Blight under standard field conditions", "Damping-off under standard field conditions"],
+    options: ["Wilt", "Gall formation (hypertrophy)", "Blight", "Damping-off"],
     correct: 1,
     explanation: "As per DA-171 notes: Galls are malformations of globose, elongate or irregular shape. Eg: Club root of cabbage, Stem gall of coriander."
   },
@@ -1332,7 +1332,7 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Addition of heavy doses of organic matter (green manure crops) to soil helps in wilt management by",
-    options: ["enhancing antagonistic micro-organisms that suppress pathogen activity", "alkalizing the soil in plant pathology under standard field conditions", "acidifying the soil in disease management under standard field conditions", "killing the pathogen directly under standard field conditions"],
+    options: ["enhancing antagonistic micro-organisms that suppress pathogen activity", "alkalizing the soil in plant pathology", "acidifying the soil in disease management", "killing the pathogen directly"],
     correct: 0,
     explanation: "As per DA-171 notes: Addition of heavy doses of organic matter to soil suppresses wilt pathogen activity by enhancing antagonistic micro-organisms."
   },
@@ -1452,7 +1452,7 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Assertion (A): Bacteria are most important in tropical and subtropical areas.\nReason (R): Bacteria favour moist or warm conditions prevailing in these climatic zones.",
-    options: ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true under standard field conditions", "A is true but R is false under standard field conditions"],
+    options: ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true", "A is true but R is false"],
     correct: 0,
     explanation: "As per DA-171 notes: Bacteria are of most importance in tropical, subtropical and warm-temperate areas as they favour moist or warm conditions."
   },
@@ -1462,7 +1462,7 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Assertion (A): Phytoplasmas cannot be grown in culture media.\nReason (R): Phytoplasmas are obligate parasites that lack a rigid cell wall and cannot live freely in the environment.",
-    options: ["A is false but R is true under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false under standard field conditions"],
+    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
     correct: 1,
     explanation: "As per DA-171 notes: Phytoplasmas have not been grown in culture - they are obligate parasites lacking rigid cell wall and cannot live freely in environment."
   },
@@ -1472,7 +1472,7 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Assertion (A): Viruses multiply only in living cells.\nReason (R): Energy resources of the plant are redirected to reproduce viruses impairing normal plant functions.",
-    options: ["A is false but R is true under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false under standard field conditions"],
+    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
     correct: 1,
     explanation: "As per DA-171 notes: Viruses can only multiply in living cells in infected plant; energy resources of plant are redirected to reproduce viruses."
   },
@@ -1482,7 +1482,7 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Assertion (A): Fungi are the only organisms that produce spores for inactive survival.\nReason (R): These dormant spores act as source of primary infection when conditions become favourable.",
-    options: ["Both A and R are true and R is the correct explanation of A", "A is false but R is true under standard field conditions", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false under standard field conditions"],
+    options: ["Both A and R are true and R is the correct explanation of A", "A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
     correct: 0,
     explanation: "As per DA-171 notes: Fungi are the only organisms that produce spores for their inactive survival and in favorable conditions act as source of primary infection."
   },
@@ -1492,7 +1492,7 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Assertion (A): Non-specialized pathogens like Pythium require high density of inoculum for infection.\nReason (R): Specialized pathogens even a single spore can cause successful infection.",
-    options: ["A is false but R is true under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false under standard field conditions"],
+    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
     correct: 1,
     explanation: "As per DA-171 notes: Specialized pathogens - very few or even one spore capable of causing infection; non-specialized pathogens as Pythium, Phytophthora require high density of inoculum for infection."
   },
@@ -1502,7 +1502,7 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Assertion (A): Crop rotation is an effective method to manage soil borne diseases.\nReason (R): Continuous cultivation of same crop in same field leads to soil saturation by the pathogen.",
-    options: ["A is false but R is true under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false under standard field conditions"],
+    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
     correct: 1,
     explanation: "As per DA-171 notes: Continuous cultivation of same crop helps perpetuation of pathogen in soil (sick soils). Crop rotation adopted to reduce incidence of soil borne diseases."
   },
@@ -1512,7 +1512,7 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Assertion (A): Plant quarantine prevents introduction of new pests and diseases.\nReason (R): It legally restricts movement of agricultural commodities to exclude, prevent or delay spread of plant pests.",
-    options: ["A is false but R is true under standard field conditions", "A is true but R is false under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
+    options: ["A is false but R is true", "A is true but R is false", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-171 notes: Plant quarantine is defined as a legal restriction on movement of agricultural commodities for exclusion, prevention or delaying spread of plant pests and diseases."
   },
@@ -1522,7 +1522,7 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Assertion (A): Damping-off affects seedlings at or near the soil surface.\nReason (R): The affected portion becomes constricted and weak, causing seedlings to topple down and die.",
-    options: ["A is false but R is true under standard field conditions", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false under standard field conditions"],
+    options: ["A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false"],
     correct: 2,
     explanation: "As per DA-171 notes: Damping-off - stem is attacked near soil surface; affected portion becomes constricted and weak causing seedlings to topple down and die."
   },
@@ -1532,7 +1532,7 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Assertion (A): Wind and irrigation water are inanimate agents of pathogen dispersal.\nReason (R): These physical agents can carry pathogen propagules from infected to healthy plants.",
-    options: ["A is false but R is true under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false under standard field conditions"],
+    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
     correct: 1,
     explanation: "As per DA-171 notes: Inanimate agents of passive dispersal include Wind and Irrigation water."
   },
@@ -1542,7 +1542,7 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Assertion (A): Nematodes show orientation towards root surface before penetration.\nReason (R): This chemotactic response towards root exudates is part of pre-penetration activity.",
-    options: ["A is false but R is true under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false under standard field conditions"],
+    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
     correct: 1,
     explanation: "As per DA-171 notes: Nematodes show some orientation towards root surface before actual penetration - this is pre-penetration activity."
   },
@@ -1552,7 +1552,7 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-12",
     lectureNo: 12,
     question: "Assertion (A): Masked viral symptoms appear in plants that contain the virus.\nReason (R): Symptoms are absent under unfavourable conditions but reappear under favourable conditions.",
-    options: ["A is false but R is true under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false under standard field conditions"],
+    options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
     correct: 1,
     explanation: "As per DA-171 notes: Masked symptoms - plants contain virus but are symptomless under unfavourable conditions; symptoms reappear under favourable conditions."
   },
@@ -1562,7 +1562,7 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Assertion (A): Scab lesions are not deep seated.\nReason (R): Sunken lesions are produced in scab, unlike cankers where infection may be deep seated.",
-    options: ["A is false but R is true under standard field conditions", "A is true but R is false under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
+    options: ["A is false but R is true", "A is true but R is false", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-171 notes: Scab - infection is not deep seated; sunken lesions are produced. Cankers - infection may be deep seated."
   },
@@ -1572,7 +1572,7 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Assertion (A): Eradication of alternate hosts helps manage many plant diseases.\nReason (R): Alternate hosts provide off-season survival for pathogens when crop host is absent.",
-    options: ["A is false but R is true under standard field conditions", "A is true but R is false under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
+    options: ["A is false but R is true", "A is true but R is false", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-171 notes: Eradication of alternate and collateral hosts helps management of plant diseases; alternate hosts provide off-season survival."
   },
@@ -1582,7 +1582,7 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Assertion (A): Time of sowing affects disease incidence in crops.\nReason (R): Alteration of sowing date helps avoid coincidence of susceptible host stage with favourable conditions for pathogen.",
-    options: ["Both A and R are true and R is the correct explanation of A", "A is false but R is true under standard field conditions", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false under standard field conditions"],
+    options: ["Both A and R are true and R is the correct explanation of A", "A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
     correct: 0,
     explanation: "As per DA-171 notes: Time of sowing - Alteration of date helps in avoidance of coincidence of susceptible stage of host plant with favourable conditions for pathogen."
   },
@@ -1592,7 +1592,7 @@ export const da171LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Assertion (A): Disorder (non-infectious disease) cannot be transmitted from diseased to healthy plants.\nReason (R): Disorders occur in the absence of pathogens, due to abiotic causes like adverse soil and environmental conditions.",
-    options: ["A is false but R is true under standard field conditions", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false under standard field conditions"],
+    options: ["A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false"],
     correct: 2,
     explanation: "As per DA-171 notes: Disorder - non-infectious plant diseases due to abiotic causes; occur in absence of pathogens and cannot be transmitted from diseased to healthy plants."
   },
@@ -1765,7 +1765,7 @@ export const da171LectureQuestions: Question[] = [
   {
     id: "d171z_003", subject: "da-171", lecture: "lecture-10", lectureNo: 10,
     question: "Soil solarization as a cultural disease management practice involves:",
-    options: ["Spraying UV-absorbing chemicals on soil before planting under standard field conditions", "Deep ploughing to expose soil to UV radiation in summer under standard field conditions", "Flooding fields with saline water to eliminate soil-borne fungi under standard field conditions", "Covering moist soil with transparent polyethylene film to trap solar heat and kill pathogens"],
+    options: ["Spraying UV-absorbing chemicals on soil before planting", "Deep ploughing to expose soil to UV radiation in summer", "Flooding fields with saline water to eliminate soil-borne fungi", "Covering moist soil with transparent polyethylene film to trap solar heat and kill pathogens"],
     correct: 3,
     explanation: "Soil solarization uses transparent polythene film to trap solar radiation and raise soil temperature to 40–55°C for 4–6 weeks during summer, killing soil-borne pathogens (Fusarium, Sclerotium, Pythium), nematodes, and weed seeds.",
     difficulty: "medium"
@@ -1821,7 +1821,7 @@ export const da171LectureQuestions: Question[] = [
   {
     id: "d171z_010", subject: "da-171", lecture: "lecture-10", lectureNo: 10,
     question: "Integrated Disease Management (IDM) in crops means:",
-    options: ["Using only high doses of chemical fungicides to eliminate all pathogens under standard field conditions", "Applying fungicides on a fixed calendar schedule regardless of disease incidence under standard field conditions", "Removing and burning all diseased plants immediately after first symptoms under standard field conditions", "Combining cultural, biological, physical, and chemical measures to keep disease below economic threshold levels"],
+    options: ["Using only high doses of chemical fungicides to eliminate all pathogens", "Applying fungicides on a fixed calendar schedule regardless of disease incidence", "Removing and burning all diseased plants immediately after first symptoms", "Combining cultural, biological, physical, and chemical measures to keep disease below economic threshold levels"],
     correct: 3,
     explanation: "IDM rationally integrates: resistant varieties, crop rotation, sanitation (cultural), bioagents like Trichoderma/Pseudomonas (biological), and targeted chemicals only when disease crosses economic thresholds — reducing chemical dependency and resistance.",
     difficulty: "medium"

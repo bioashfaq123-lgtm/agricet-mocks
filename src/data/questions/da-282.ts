@@ -1268,7 +1268,7 @@ export const da282Questions: Question[] = [
   {
     id: "d282_168", subject: "da-282",
     question: "Integrated Pest Management (IPM) in horticulture involves:",
-    options: ["Eliminating all insects from the farm in horticultural practices", "Using only chemical pesticides in orchard management under field conditions", "Using only biological control for vegetable cultivation in agriculture", "Combining biological, cultural, and chemical methods to manage pests with minimal pesticide use"],
+    options: ["Eliminating all insects from the farm in horticultural practices", "Using only chemical pesticides in orchard management", "Using only biological control for vegetable cultivation in agriculture", "Combining biological, cultural, and chemical methods to manage pests with minimal pesticide use"],
     correct: 3,
     explanation: "IPM combines biological (natural enemies), cultural (crop rotation), mechanical, and chemical (when needed) methods for sustainable pest management.",
     difficulty: "medium"

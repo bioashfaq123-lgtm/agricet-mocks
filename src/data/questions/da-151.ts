@@ -1141,7 +1141,7 @@ export const da151Questions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "In air cooled engines, cylinders have fins to",
-    options: ["increase area of contact of air for speedy cooling", "strengthen the cylinder in field conditions", "prevent rusting for agricultural purposes under field conditions", "reduce weight in crop production in agriculture"],
+    options: ["increase area of contact of air for speedy cooling", "strengthen the cylinder in field conditions", "prevent rusting for agricultural purposes", "reduce weight in crop production in agriculture"],
     correct: 0,
     explanation: "As per DA-151 notes: The cylinder of an air cooled engine has fins to increase the area of contact of air for speedy cooling."
   },
@@ -1401,7 +1401,7 @@ export const da151Questions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The function of flywheel in IC engine includes storing energy during power stroke and",
-    options: ["pumping fuel in crop production in agriculture", "lubricating parts in field conditions under field conditions", "providing uniform rotary motion by virtue of its inertia", "cooling the engine for agricultural purposes"],
+    options: ["pumping fuel in crop production in agriculture", "lubricating parts in field conditions", "providing uniform rotary motion by virtue of its inertia", "cooling the engine for agricultural purposes"],
     correct: 2,
     explanation: "As per DA-151 notes: Flywheel stores energy during power stroke and returns same energy during idle strokes, providing uniform rotary motion by virtue of its inertia."
   },

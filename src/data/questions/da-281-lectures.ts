@@ -232,7 +232,7 @@ export const da281LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "In forest nurseries, the practice of 'pricking out' refers to:",
-    options: ["Sowing seeds at wide spacing under standard field conditions", "Transplanting seedlings from germination bed to spacing beds", "Making holes in hardened seed coat under standard field conditions", "Removing competing weeds in horticultural practices"],
+    options: ["Sowing seeds at wide spacing", "Transplanting seedlings from germination bed to spacing beds", "Making holes in hardened seed coat", "Removing competing weeds in horticultural practices"],
     correct: 1,
     explanation: "Pricking out is the operation of transplanting tiny seedlings from a crowded germination bed to nursery beds at wider spacing to allow proper development."
   },
@@ -292,7 +292,7 @@ export const da281LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Which silvicultural system is best suited for Teak forests?",
-    options: ["Coppice system under standard field conditions", "Clear felling with artificial regeneration", "Selection system under standard field conditions", "Shelterwood compartment system"],
+    options: ["Coppice system", "Clear felling with artificial regeneration", "Selection system", "Shelterwood compartment system"],
     correct: 1,
     explanation: "Teak plantations are managed under the clear felling system followed by artificial regeneration (planting) since Teak is light demanding and does not regenerate under shade."
   },
@@ -384,7 +384,7 @@ export const da281LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The ICRAF definition of agroforestry includes which key components?",
-    options: ["Natural forest management for agriculture under standard field conditions", "Trees with crops only on arable land under standard field conditions", "Growing trees in blocks separate from farmland under standard field conditions", "Deliberate integration of trees/shrubs with crops and/or animals"],
+    options: ["Natural forest management for agriculture", "Trees with crops only on arable land", "Growing trees in blocks separate from farmland", "Deliberate integration of trees/shrubs with crops and/or animals"],
     correct: 3,
     explanation: "ICRAF (World Agroforestry Centre) defines agroforestry as a collective name for land-use systems involving deliberate integration of woody perennials with crops and/or animals on the same land."
   },
@@ -576,7 +576,7 @@ export const da281LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Which property makes Eucalyptus wood less suitable for high-quality furniture?",
-    options: ["It is susceptible to termite attack under standard field conditions", "It is too soft and weak under standard field conditions", "It checks (cracks) and warps severely during seasoning", "It grows too slowly for commercial use"],
+    options: ["It is susceptible to termite attack", "It is too soft and weak", "It checks (cracks) and warps severely during seasoning", "It grows too slowly for commercial use"],
     correct: 2,
     explanation: "Eucalyptus wood tends to check (develop surface cracks) and warp severely during seasoning (drying), which limits its use for furniture but makes it suitable for pulpwood and poles."
   },
@@ -626,7 +626,7 @@ export const da281LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "The tree Pongamia pinnata is valued in agroforestry mainly for:",
-    options: ["High quality timber production under standard field conditions", "Excellent fodder for livestock under standard field conditions", "Production of lac and resin under standard field conditions", "Biofuel (biodiesel) from seeds and nitrogen fixation"],
+    options: ["High quality timber production", "Excellent fodder for livestock", "Production of lac and resin", "Biofuel (biodiesel) from seeds and nitrogen fixation"],
     correct: 3,
     explanation: "Pongamia pinnata (Karanj) is valued for its seed oil as biodiesel (bio-energy), nitrogen fixation through root nodules, and green manure. It is widely used in wasteland development."
   },
@@ -718,7 +718,7 @@ export const da281LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "The concept of 'protected areas' in India includes which categories?",
-    options: ["National Parks only in horticultural practices under standard field conditions", "National Parks, Wildlife Sanctuaries, Conservation Reserves and Community Reserves", "Reserved Forests and Protected Forests for vegetable cultivation under standard field conditions", "Tiger Reserves and Elephant Reserves only under standard field conditions"],
+    options: ["National Parks only in horticultural practices", "National Parks, Wildlife Sanctuaries, Conservation Reserves and Community Reserves", "Reserved Forests and Protected Forests for vegetable cultivation", "Tiger Reserves and Elephant Reserves only"],
     correct: 1,
     explanation: "Protected Areas in India under Wildlife Protection Act 1972 (amended 2002) include National Parks, Wildlife Sanctuaries, Conservation Reserves and Community Reserves."
   },
@@ -890,7 +890,7 @@ export const da281LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Senna is commercially cultivated in India mainly in:",
-    options: ["Uttar Pradesh and Bihar under standard field conditions", "Kerala and Karnataka under standard field conditions", "Punjab and Haryana under standard field conditions", "Rajasthan and Tamil Nadu (Tinnevelly region)"],
+    options: ["Uttar Pradesh and Bihar", "Kerala and Karnataka", "Punjab and Haryana", "Rajasthan and Tamil Nadu (Tinnevelly region)"],
     correct: 3,
     explanation: "Senna (Cassia angustifolia) is mainly cultivated in Rajasthan (Jodhpur area) and Tamil Nadu (Tinnevelly/Tirunelveli region), which supply most of India's senna production."
   },
@@ -950,7 +950,7 @@ export const da281LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Kalmegh (Andrographis paniculata) is used in traditional medicine primarily for:",
-    options: ["Liver protection and antimalarial activity", "Hormonal regulation under standard field conditions", "Memory enhancement under standard field conditions", "Cardiac strengthening under standard field conditions"],
+    options: ["Liver protection and antimalarial activity", "Hormonal regulation", "Memory enhancement", "Cardiac strengthening"],
     correct: 0,
     explanation: "Kalmegh (Andrographis paniculata) is used for liver disorders (hepatoprotective), fever (antimalarial/antipyretic) and as an immunostimulant. Active compound is andrographolide."
   },
@@ -1022,7 +1022,7 @@ export const da281LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Stevia is used as a natural sweetener because it contains compounds called:",
-    options: ["Saccharin analogues under standard field conditions", "Sucrose esters under standard field conditions", "Glucose and fructose mixtures", "Steviol glycosides (Stevioside, Rebaudioside)"],
+    options: ["Saccharin analogues", "Sucrose esters", "Glucose and fructose mixtures", "Steviol glycosides (Stevioside, Rebaudioside)"],
     correct: 3,
     explanation: "Stevia contains steviol glycosides (primarily stevioside and rebaudioside A), which are 200–300 times sweeter than sucrose but calorie-free, making it valuable for diabetics."
   },
@@ -1042,7 +1042,7 @@ export const da281LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Neem cake (seed meal after oil extraction) is used in agriculture as:",
-    options: ["Soil acidifier under standard field conditions", "Organic nitrogen fertilizer and nematicide", "Animal feed supplement under standard field conditions", "Insecticide spray material"],
+    options: ["Soil acidifier", "Organic nitrogen fertilizer and nematicide", "Animal feed supplement", "Insecticide spray material"],
     correct: 1,
     explanation: "Neem cake is the residue after extracting oil from neem seeds. It contains nitrogen (5%) and neem compounds that inhibit nitrification, control soil nematodes and soil insects."
   },
@@ -1062,7 +1062,7 @@ export const da281LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Two varieties of Tulsi (Holy Basil) cultivated in India are:",
-    options: ["Rama Tulsi (green) and Shyama/Krishna Tulsi (purple)", "Mountain and valley ecotypes under standard field conditions", "Sativa and indica varieties under standard field conditions", "Male and female types only under standard field conditions"],
+    options: ["Rama Tulsi (green) and Shyama/Krishna Tulsi (purple)", "Mountain and valley ecotypes", "Sativa and indica varieties", "Male and female types only"],
     correct: 0,
     explanation: "Rama Tulsi (Ocimum tenuiflorum) has green leaves and Shyama/Krishna Tulsi has dark purple leaves. Both are varieties of Holy Basil with slightly different medicinal compositions."
   },
@@ -1092,7 +1092,7 @@ export const da281LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "The active compound andrographolide found in Kalmegh is known for its:",
-    options: ["Steroidal anabolic properties under standard field conditions", "Sedative and hypnotic effects under standard field conditions", "Bitter taste, hepatoprotective and immunostimulant properties", "Stimulant properties only under standard field conditions"],
+    options: ["Steroidal anabolic properties", "Sedative and hypnotic effects", "Bitter taste, hepatoprotective and immunostimulant properties", "Stimulant properties only"],
     correct: 2,
     explanation: "Andrographolide is a bitter diterpenoid lactone responsible for Kalmegh's hepatoprotective (liver protecting), anti-inflammatory, antifever and immune-stimulating properties."
   },
@@ -1122,7 +1122,7 @@ export const da281LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Tulsi is revered in Hinduism and is extensively used for which medicinal purposes?",
-    options: ["Pain relief and anesthesia under standard field conditions", "Anti-cancer only under standard field conditions", "Anti-stress, immune-boosting, and respiratory disorders", "Anticoagulant therapy under standard field conditions"],
+    options: ["Pain relief and anesthesia", "Anti-cancer only", "Anti-stress, immune-boosting, and respiratory disorders", "Anticoagulant therapy"],
     correct: 2,
     explanation: "Tulsi (Holy Basil) is used for anti-stress (adaptogenic), respiratory disorders (cough, cold, asthma), fever, immune-boosting and antimicrobial purposes in traditional Indian medicine."
   },
@@ -1184,7 +1184,7 @@ export const da281LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Steam distillation is the most common method for extracting essential oils because:",
-    options: ["Steam increases oil concentration in plant under standard field conditions", "It requires no equipment or skill under standard field conditions", "It produces the highest yield of any method under standard field conditions", "It is inexpensive and preserves heat-sensitive aromatic compounds"],
+    options: ["Steam increases oil concentration in plant", "It requires no equipment or skill", "It produces the highest yield of any method", "It is inexpensive and preserves heat-sensitive aromatic compounds"],
     correct: 3,
     explanation: "Steam distillation is preferred because steam at relatively low temperatures (100°C) carries volatile aromatic compounds from plant material without degrading heat-sensitive components."
   },
@@ -1406,7 +1406,7 @@ export const da281LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Sacred groves (Dev vans) in India represent:",
-    options: ["Social forestry plantations in horticultural practices under standard field conditions", "Patches of forest protected by local communities for cultural/religious reasons", "Government reserved forests for vegetable cultivation under standard field conditions", "Forests reserved for timber production in orchard management under standard field conditions"],
+    options: ["Social forestry plantations in horticultural practices", "Patches of forest protected by local communities for cultural/religious reasons", "Government reserved forests for vegetable cultivation", "Forests reserved for timber production in orchard management"],
     correct: 1,
     explanation: "Sacred groves (Dev vans, Devaravana, Orans) are patches of forest protected by local communities due to cultural, religious or traditional beliefs. They are important for biodiversity conservation."
   },
@@ -1558,7 +1558,7 @@ export const da281LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "The policy of nationalizing Tendu leaf collection in some states of India was done to:",
-    options: ["Reduce tribal income from NTFP collection under standard field conditions", "Increase government revenue from bidi industry under standard field conditions", "Eliminate middlemen and ensure fair prices for tribal collectors", "Reduce the area of Tendu leaf collection under standard field conditions"],
+    options: ["Reduce tribal income from NTFP collection", "Increase government revenue from bidi industry", "Eliminate middlemen and ensure fair prices for tribal collectors", "Reduce the area of Tendu leaf collection"],
     correct: 2,
     explanation: "Several states (MP, Chhattisgarh, Odisha) nationalized Tendu leaf trade to eliminate exploitative middlemen, ensure minimum prices for tribal collectors and use surplus for tribal welfare."
   },
@@ -1641,7 +1641,7 @@ export const da281LectureQuestions: Question[] = [
   {
     id: "d281l_164", subject: "da-281", lecture: "lecture-11", lectureNo: 11,
     question: "Silviculture in forestry refers to:",
-    options: ["Study of forest animals in orchard management for crop production", "Study of forest soils in horticultural practices in agriculture", "Measurement of timber volumes for vegetable cultivation under field conditions", "Art and science of controlling the establishment, growth, composition and quality of forests"],
+    options: ["Study of forest animals in orchard management for crop production", "Study of forest soils in horticultural practices in agriculture", "Measurement of timber volumes for vegetable cultivation", "Art and science of controlling the establishment, growth, composition and quality of forests"],
     correct: 3,
     explanation: "Silviculture is the art and science of controlling the establishment, growth, composition, health, and quality of forests to meet diverse needs.",
     difficulty: "medium"
@@ -1649,7 +1649,7 @@ export const da281LectureQuestions: Question[] = [
   {
     id: "d281l_165", subject: "da-281", lecture: "lecture-11", lectureNo: 11,
     question: "ASSERTION-REASON: Assertion (A): Forests play a crucial role in maintaining the water cycle. Reason (R): Trees absorb water from the soil and release it into the atmosphere through transpiration.",
-    options: ["Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is false but R is true under standard field conditions", "A is true but R is false under standard field conditions"],
+    options: ["Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is false but R is true", "A is true but R is false"],
     correct: 1,
     explanation: "Forests maintain the water cycle through transpiration, reducing surface runoff, and promoting rainfall. R correctly explains A.",
     difficulty: "medium"
@@ -1697,7 +1697,7 @@ export const da281LectureQuestions: Question[] = [
   {
     id: "d281l_172", subject: "da-281", lecture: "lecture-12", lectureNo: 12,
     question: "ASSERTION-REASON: Assertion (A): Neem is called the village pharmacy in India. Reason (R): Almost every part of neem (leaves, bark, seeds, oil) has medicinal, pesticidal, or agricultural uses.",
-    options: ["Both A and R are true but R is not the correct explanation of A", "A is false but R is true under standard field conditions", "Both A and R are true and R is the correct explanation of A", "A is true but R is false under standard field conditions"],
+    options: ["Both A and R are true but R is not the correct explanation of A", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "A is true but R is false"],
     correct: 2,
     explanation: "Neem is called the village pharmacy because its leaves, bark, seeds, and oil are used for medicine, biopesticides, and agriculture. R explains A.",
     difficulty: "easy"
@@ -1705,7 +1705,7 @@ export const da281LectureQuestions: Question[] = [
   {
     id: "d281l_173", subject: "da-281", lecture: "lecture-13", lectureNo: 13,
     question: "Agroforestry is defined as:",
-    options: ["Cultivation of medicinal plants only in horticultural practices in agriculture", "Cultivation of forest trees only for vegetable cultivation under field conditions", "A land use system where trees are combined with crops or livestock on the same unit of land", "Growing trees in monoculture in orchard management for crop production"],
+    options: ["Cultivation of medicinal plants only in horticultural practices in agriculture", "Cultivation of forest trees only for vegetable cultivation", "A land use system where trees are combined with crops or livestock on the same unit of land", "Growing trees in monoculture in orchard management for crop production"],
     correct: 2,
     explanation: "Agroforestry is a land use management system that combines trees with crops and/or livestock on the same land unit, providing multiple benefits.",
     difficulty: "easy"
@@ -1745,7 +1745,7 @@ export const da281LectureQuestions: Question[] = [
   {
     id: "d281l_178", subject: "da-281", lecture: "lecture-14", lectureNo: 14,
     question: "Social forestry in India refers to:",
-    options: ["Forestry activities only within reserved forests for vegetable cultivation under field conditions", "Commercial timber plantation only in horticultural practices in agriculture", "Growing trees on community, government wastelands, and farm boundaries for the benefit of local communities", "Forest conservation for wild animals only in orchard management for crop production"],
+    options: ["Forestry activities only within reserved forests for vegetable cultivation", "Commercial timber plantation only in horticultural practices in agriculture", "Growing trees on community, government wastelands, and farm boundaries for the benefit of local communities", "Forest conservation for wild animals only in orchard management for crop production"],
     correct: 2,
     explanation: "Social forestry involves growing trees on village/community land, road sides, and farm boundaries to meet local needs for fuelwood, fodder, and timber.",
     difficulty: "easy"
@@ -1753,7 +1753,7 @@ export const da281LectureQuestions: Question[] = [
   {
     id: "d281l_179", subject: "da-281", lecture: "lecture-14", lectureNo: 14,
     question: "Non-Timber Forest Products (NTFPs) include:",
-    options: ["Logs and planks only in horticultural practices", "Chemical fertilizers for vegetable cultivation in agriculture", "Bamboo, honey, medicinal plants, gums, and resins (all non-wood products)", "Heavy machinery materials in orchard management under field conditions"],
+    options: ["Logs and planks only in horticultural practices", "Chemical fertilizers for vegetable cultivation in agriculture", "Bamboo, honey, medicinal plants, gums, and resins (all non-wood products)", "Heavy machinery materials in orchard management"],
     correct: 2,
     explanation: "NTFPs are all forest products other than timber — including bamboo, honey, lac, gums, resins, medicinal plants, and wild fruits.",
     difficulty: "easy"
@@ -1761,7 +1761,7 @@ export const da281LectureQuestions: Question[] = [
   {
     id: "d281l_180", subject: "da-281", lecture: "lecture-14", lectureNo: 14,
     question: "Tamarind (Tamarindus indica) is used for:",
-    options: ["Paper pulp only in horticultural practices under standard field conditions", "Edible fruit, medicinal uses, and food industry (souring agent)", "Timber and fuel only in orchard management under standard field conditions", "Fodder only for vegetable cultivation under standard field conditions"],
+    options: ["Paper pulp only in horticultural practices", "Edible fruit, medicinal uses, and food industry (souring agent)", "Timber and fuel only in orchard management", "Fodder only for vegetable cultivation"],
     correct: 1,
     explanation: "Tamarind is used as a souring agent in cooking, in medicines, for jam/candy production, and its wood is used for fuel and tools.",
     difficulty: "easy"
@@ -1769,7 +1769,7 @@ export const da281LectureQuestions: Question[] = [
   {
     id: "d281l_181", subject: "da-281", lecture: "lecture-14", lectureNo: 14,
     question: "ASSERTION-REASON: Assertion (A): Eucalyptus is a controversial tree for agroforestry in India. Reason (R): Eucalyptus is known to deplete groundwater and soil nutrients while providing fast growth and high biomass.",
-    options: ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true under standard field conditions", "A is true but R is false under standard field conditions"],
+    options: ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true", "A is true but R is false"],
     correct: 0,
     explanation: "Eucalyptus is controversial because while it grows fast and yields biomass, it depletes groundwater and impoverishes soil. R explains the controversy.",
     difficulty: "medium"
@@ -1785,7 +1785,7 @@ export const da281LectureQuestions: Question[] = [
   {
     id: "d281l_183", subject: "da-281", lecture: "lecture-14", lectureNo: 14,
     question: "Lemongrass (Cymbopogon citratus) is grown primarily for:",
-    options: ["Timber for vegetable cultivation under field conditions", "Fuelwood in horticultural practices in agriculture", "Essential oil used in cosmetics, food flavoring, and aromatherapy", "Fodder for cattle in orchard management"],
+    options: ["Timber for vegetable cultivation", "Fuelwood in horticultural practices in agriculture", "Essential oil used in cosmetics, food flavoring, and aromatherapy", "Fodder for cattle in orchard management"],
     correct: 2,
     explanation: "Lemongrass is cultivated for its aromatic essential oil, which is used in cosmetics, food flavoring, mosquito repellents, and aromatherapy.",
     difficulty: "medium"
@@ -1817,7 +1817,7 @@ export const da281LectureQuestions: Question[] = [
   {
     id: "d281l_187", subject: "da-281", lecture: "lecture-15", lectureNo: 15,
     question: "ASSERTION-REASON: Assertion (A): Forests help in prevention of soil erosion. Reason (R): Tree roots bind the soil particles together and the canopy reduces the impact of rainfall on the soil surface.",
-    options: ["Both A and R are true but R is not the correct explanation of A", "A is false but R is true under standard field conditions", "Both A and R are true and R is the correct explanation of A", "A is true but R is false under standard field conditions"],
+    options: ["Both A and R are true but R is not the correct explanation of A", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "A is true but R is false"],
     correct: 2,
     explanation: "Forests prevent soil erosion through roots binding soil and canopy intercepting raindrops. R correctly explains the mechanism behind A.",
     difficulty: "easy"
@@ -1833,7 +1833,7 @@ export const da281LectureQuestions: Question[] = [
   {
     id: "d281l_189", subject: "da-281", lecture: "lecture-15", lectureNo: 15,
     question: "The main objective of Joint Forest Management (JFM) in India is:",
-    options: ["Involving local communities in forest protection and management for shared benefits", "Converting forests to agriculture for vegetable cultivation in agriculture", "Complete protection without human use in horticultural practices", "Commercial timber exploitation in orchard management under field conditions"],
+    options: ["Involving local communities in forest protection and management for shared benefits", "Converting forests to agriculture for vegetable cultivation in agriculture", "Complete protection without human use in horticultural practices", "Commercial timber exploitation in orchard management"],
     correct: 0,
     explanation: "JFM was introduced in 1990 to involve local communities (through Village Forest Committees) in forest protection and management, sharing the benefits.",
     difficulty: "medium"
@@ -1841,7 +1841,7 @@ export const da281LectureQuestions: Question[] = [
   {
     id: "d281l_190", subject: "da-281", lecture: "lecture-10", lectureNo: 10,
     question: "The State tree of Telangana is:",
-    options: ["Jammi tree (Prosopis cineraria)", "Teak under standard field conditions", "Banyan under standard field conditions", "Neem under standard field conditions"],
+    options: ["Jammi tree (Prosopis cineraria)", "Teak", "Banyan", "Neem"],
     correct: 0,
     explanation: "The Jammi tree (Prosopis cineraria), also called Shami tree, is the State tree of Telangana. It is associated with the Dussehra festival.",
     difficulty: "medium"
@@ -1889,7 +1889,7 @@ export const da281LectureQuestions: Question[] = [
   {
     id: "d281l_196", subject: "da-281", lecture: "lecture-11", lectureNo: 11,
     question: "ASSERTION-REASON: Assertion (A): Deforestation leads to increased carbon dioxide in the atmosphere. Reason (R): Trees absorb CO2 during photosynthesis; when trees are cut, this absorption capacity is lost and CO2 released.",
-    options: ["Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is false but R is true under standard field conditions", "A is true but R is false under standard field conditions"],
+    options: ["Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is false but R is true", "A is true but R is false"],
     correct: 1,
     explanation: "Deforestation releases stored carbon and removes CO2-absorbing trees. R correctly explains the mechanism by which deforestation increases atmospheric CO2.",
     difficulty: "medium"

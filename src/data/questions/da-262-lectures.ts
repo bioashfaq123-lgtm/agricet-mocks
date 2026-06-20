@@ -103,7 +103,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_013", subject: "computer-applications", lecture: "lecture-2", lectureNo: 2,
     question: "An operating system is:",
-    options: ["A hardware component for general office use under standard field conditions", "System software that manages computer hardware and provides services to programs", "An application program in basic computer operations under standard field conditions", "A type of memory for data management only under standard field conditions"],
+    options: ["A hardware component for general office use", "System software that manages computer hardware and provides services to programs", "An application program in basic computer operations", "A type of memory for data management only"],
     correct: 1,
     explanation: "OS (Operating System) is system software that manages hardware resources and provides a platform for application software.",
     difficulty: "easy"
@@ -135,7 +135,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_017", subject: "computer-applications", lecture: "lecture-2", lectureNo: 2,
     question: "Open source software means:",
-    options: ["Paid proprietary software for general office use in agriculture", "Software that has no purpose for data management only for crop production", "Software for outdoor activities in basic computer operations under field conditions", "Software that is free to use and whose source code is openly available"],
+    options: ["Paid proprietary software for general office use in agriculture", "Software that has no purpose for data management only for crop production", "Software for outdoor activities in basic computer operations", "Software that is free to use and whose source code is openly available"],
     correct: 3,
     explanation: "Open source software has publicly available source code that can be freely used, modified, and distributed.",
     difficulty: "easy"
@@ -143,7 +143,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_018", subject: "computer-applications", lecture: "lecture-2", lectureNo: 2,
     question: "Android is an operating system designed for:",
-    options: ["Servers only under standard field conditions", "Desktop computers only under standard field conditions", "Mobile devices (smartphones and tablets)", "Supercomputers under standard field conditions"],
+    options: ["Servers only", "Desktop computers only", "Mobile devices (smartphones and tablets)", "Supercomputers"],
     correct: 2,
     explanation: "Android is an open-source operating system developed by Google for mobile devices.",
     difficulty: "easy"
@@ -159,7 +159,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_020", subject: "computer-applications", lecture: "lecture-2", lectureNo: 2,
     question: "Antivirus software is used to:",
-    options: ["Speed up the computer under standard field conditions", "Connect to the internet under standard field conditions", "Detect, prevent, and remove malicious software", "Create documents under standard field conditions"],
+    options: ["Speed up the computer", "Connect to the internet", "Detect, prevent, and remove malicious software", "Create documents"],
     correct: 2,
     explanation: "Antivirus software scans, detects, and removes malware (viruses, trojans, worms, spyware).",
     difficulty: "easy"
@@ -175,7 +175,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_022", subject: "computer-applications", lecture: "lecture-2", lectureNo: 2,
     question: "Multitasking in an operating system means:",
-    options: ["Only one program runs at a time under standard field conditions", "The computer runs at multiple speeds under standard field conditions", "Multiple users can log in under standard field conditions", "Multiple programs run simultaneously (concurrent execution)"],
+    options: ["Only one program runs at a time", "The computer runs at multiple speeds", "Multiple users can log in", "Multiple programs run simultaneously (concurrent execution)"],
     correct: 3,
     explanation: "Multitasking allows multiple programs to run concurrently by rapidly switching CPU time between them.",
     difficulty: "medium"
@@ -217,7 +217,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_027", subject: "computer-applications", lecture: "lecture-3", lectureNo: 3,
     question: "Mail Merge in MS Word is used for:",
-    options: ["Creating personalized letters for multiple recipients using a data source", "Merging footnotes in basic computer operations under standard field conditions", "Merging two documents into one for general office use under standard field conditions", "Combining cells in a table for data management only under standard field conditions"],
+    options: ["Creating personalized letters for multiple recipients using a data source", "Merging footnotes in basic computer operations", "Merging two documents into one for general office use", "Combining cells in a table for data management only"],
     correct: 0,
     explanation: "Mail Merge combines a template document with a data source (Excel, Access) to produce personalized mass mailings.",
     difficulty: "medium"
@@ -323,7 +323,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_040", subject: "computer-applications", lecture: "lecture-4", lectureNo: 4,
     question: "VLOOKUP function in Excel is used to:",
-    options: ["Look up a value in a column and return a value", "Create vertical charts in basic computer operations under field conditions", "Calculate vertical sums for data management only for crop production", "Validate data for general office use in agriculture"],
+    options: ["Look up a value in a column and return a value", "Create vertical charts in basic computer operations", "Calculate vertical sums for data management only for crop production", "Validate data for general office use in agriculture"],
     correct: 0,
     explanation: "VLOOKUP searches vertically in the first column of a table and returns a value from a specified column in the same row.",
     difficulty: "medium"
@@ -331,7 +331,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_041", subject: "computer-applications", lecture: "lecture-4", lectureNo: 4,
     question: "Pivot Table in Excel is used for:",
-    options: ["Summarizing, analyzing, and presenting large data sets interactively", "Inserting images for general office use under standard field conditions", "Rotating the worksheet in basic computer operations under standard field conditions", "Setting print margins for data management only under standard field conditions"],
+    options: ["Summarizing, analyzing, and presenting large data sets interactively", "Inserting images for general office use", "Rotating the worksheet in basic computer operations", "Setting print margins for data management only"],
     correct: 0,
     explanation: "Pivot Tables allow interactive summarization and cross-tabulation of large data sets for analysis.",
     difficulty: "medium"
@@ -365,7 +365,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_045", subject: "computer-applications", lecture: "lecture-5", lectureNo: 5,
     question: "Slide Transition in PowerPoint refers to:",
-    options: ["The visual effect when moving from one slide to the next", "The slide master for general office use in agriculture", "The animation of objects within a slide under field conditions", "The design template in basic computer operations for crop production"],
+    options: ["The visual effect when moving from one slide to the next", "The slide master for general office use in agriculture", "The animation of objects within a slide", "The design template in basic computer operations for crop production"],
     correct: 0,
     explanation: "Slide transition is the animation/effect applied when switching between slides during a presentation.",
     difficulty: "easy"
@@ -463,7 +463,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_057", subject: "computer-applications", lecture: "lecture-6", lectureNo: 6,
     question: "Precision agriculture uses technology for:",
-    options: ["One-size-fits-all farming for general office use in agriculture", "Reducing farm area in basic computer operations under field conditions", "Variable rate application of inputs based on spatial variability in fields", "Manual observation only for data management only for crop production"],
+    options: ["One-size-fits-all farming for general office use in agriculture", "Reducing farm area in basic computer operations", "Variable rate application of inputs based on spatial variability in fields", "Manual observation only for data management only for crop production"],
     correct: 2,
     explanation: "Precision agriculture uses GPS, sensors, and GIS to optimize input application according to field variability.",
     difficulty: "medium"
@@ -479,7 +479,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_059", subject: "computer-applications", lecture: "lecture-6", lectureNo: 6,
     question: "e-Crop advisory services in agriculture provide:",
-    options: ["Real-time crop production advice, pest alerts, and weather updates to farmers", "Free seeds for general office use in agriculture", "Government job notifications in basic computer operations under field conditions", "Direct loans for data management only for crop production"],
+    options: ["Real-time crop production advice, pest alerts, and weather updates to farmers", "Free seeds for general office use in agriculture", "Government job notifications in basic computer operations", "Direct loans for data management only for crop production"],
     correct: 0,
     explanation: "e-Crop advisory services (via apps, SMS, internet) give farmers timely advice on crop management and market prices.",
     difficulty: "easy"
@@ -487,7 +487,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_060", subject: "computer-applications", lecture: "lecture-6", lectureNo: 6,
     question: "GIS in agriculture is used for:",
-    options: ["Mapping soil variability, crop health, land use, and planning irrigation", "Playing games in basic computer operations under field conditions", "Word processing for general office use in agriculture", "Accounting for data management only for crop production"],
+    options: ["Mapping soil variability, crop health, land use, and planning irrigation", "Playing games in basic computer operations", "Word processing for general office use in agriculture", "Accounting for data management only for crop production"],
     correct: 0,
     explanation: "GIS (Geographic Information System) integrates spatial data for precision farming, land use planning, and resource management.",
     difficulty: "medium"
@@ -521,7 +521,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_064", subject: "computer-applications", lecture: "lecture-7", lectureNo: 7,
     question: "Aadhaar is a:",
-    options: ["Bank account for general office use under standard field conditions", "Voter ID for data management only under standard field conditions", "Passport number in basic computer operations under standard field conditions", "12-digit unique biometric identity number issued to Indian residents"],
+    options: ["Bank account for general office use", "Voter ID for data management only", "Passport number in basic computer operations", "12-digit unique biometric identity number issued to Indian residents"],
     correct: 3,
     explanation: "Aadhaar is India's biometric UID (Unique Identification) 12-digit number issued by UIDAI.",
     difficulty: "easy"
@@ -537,7 +537,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_066", subject: "computer-applications", lecture: "lecture-7", lectureNo: 7,
     question: "mKisan (Mobile for Agriculture) portal provides:",
-    options: ["Mobile games for general office use under standard field conditions", "Social media access in basic computer operations under standard field conditions", "Mobile banking only for data management only under standard field conditions", "SMS-based crop advisory, weather alerts, and market prices to farmers"],
+    options: ["Mobile games for general office use", "Social media access in basic computer operations", "Mobile banking only for data management only", "SMS-based crop advisory, weather alerts, and market prices to farmers"],
     correct: 3,
     explanation: "mKisan portal delivers agricultural information directly to farmers' mobile phones via SMS in local languages.",
     difficulty: "medium"
@@ -545,7 +545,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_067", subject: "computer-applications", lecture: "lecture-7", lectureNo: 7,
     question: "IoT (Internet of Things) in agriculture refers to:",
-    options: ["Traditional farming methods for general office use in agriculture", "Only internet browsing on farm in basic computer operations under field conditions", "International trade of crops for data management only for crop production", "Connected sensors, devices, and systems that collect and exchange data for smart farming"],
+    options: ["Traditional farming methods for general office use in agriculture", "Only internet browsing on farm in basic computer operations", "International trade of crops for data management only for crop production", "Connected sensors, devices, and systems that collect and exchange data for smart farming"],
     correct: 3,
     explanation: "Agricultural IoT connects field sensors, weather stations, and drones to collect and analyze farm data in real time.",
     difficulty: "medium"
@@ -561,7 +561,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_069", subject: "computer-applications", lecture: "lecture-7", lectureNo: 7,
     question: "Blockchain technology in agriculture can improve:",
-    options: ["Water quality for general office use under standard field conditions", "Weather prediction in basic computer operations under standard field conditions", "Soil fertility for data management only under standard field conditions", "Traceability and transparency in food supply chain and transactions"],
+    options: ["Water quality for general office use", "Weather prediction in basic computer operations", "Soil fertility for data management only", "Traceability and transparency in food supply chain and transactions"],
     correct: 3,
     explanation: "Blockchain provides an immutable record of transactions, enabling traceability from farm to consumer in food supply chains.",
     difficulty: "hard"
@@ -569,7 +569,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_070", subject: "computer-applications", lecture: "lecture-7", lectureNo: 7,
     question: "Agri-Stack is an initiative in India to create:",
-    options: ["Agricultural building codes for general office use under standard field conditions", "A federated farmers' database and digital infrastructure for agricultural services", "Grain storage stacks in basic computer operations under standard field conditions", "Fertilizer stacking guidelines for data management only under standard field conditions"],
+    options: ["Agricultural building codes for general office use", "A federated farmers' database and digital infrastructure for agricultural services", "Grain storage stacks in basic computer operations", "Fertilizer stacking guidelines for data management only"],
     correct: 1,
     explanation: "Agri-Stack is a digital public infrastructure to create a digital identity and data layer for farmers to access services.",
     difficulty: "hard"
@@ -627,7 +627,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_077", subject: "da-262", lecture: "lecture-9", lectureNo: 9,
     question: "The AUTOEXEC.BAT file in DOS is special because:",
-    options: ["It stores all user passwords for general office use under standard field conditions", "It is automatically executed when the computer is switched on or during booting", "It contains antivirus programs in basic computer operations under standard field conditions", "It cannot be deleted or modified for data management only under standard field conditions"],
+    options: ["It stores all user passwords for general office use", "It is automatically executed when the computer is switched on or during booting", "It contains antivirus programs in basic computer operations", "It cannot be deleted or modified for data management only"],
     correct: 1,
     explanation: "As per DA-262 notes: If a batch file is given the special name AUTOEXEC.BAT, it is automatically executed when the computer is switched on or during booting.",
     difficulty: "medium"
@@ -635,7 +635,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_078", subject: "da-262", lecture: "lecture-9", lectureNo: 9,
     question: "In Windows, the 'Recycle Bin' is used for:",
-    options: ["Storing temporary internet files for general office use in agriculture", "Storing system backup files in basic computer operations under field conditions", "Organizing downloaded files for data management only for crop production", "Storing all files and folders deleted from Windows temporarily, which can be restored"],
+    options: ["Storing temporary internet files for general office use in agriculture", "Storing system backup files in basic computer operations", "Organizing downloaded files for data management only for crop production", "Storing all files and folders deleted from Windows temporarily, which can be restored"],
     correct: 3,
     explanation: "As per DA-262 notes: Recycle Bin is a folder that stores all the files and folders deleted from Windows temporarily, which can be restored again if needed.",
     difficulty: "easy"
@@ -667,7 +667,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_082", subject: "da-262", lecture: "lecture-10", lectureNo: 10,
     question: "Assertion (A): Computer viruses reside in executable files (.COM or .EXE).\nReason (R): When the PC is switched on, the virus enters RAM through COMMAND.COM and starts destructive work.",
-    options: ["A is true but R is false under standard field conditions", "A is false but R is true under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
+    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-262 notes: Viruses reside in executable files (.COM or .EXE). When PC is switched on, virus enters RAM through .COM file and starts destroying data and program files.",
     difficulty: "medium"
@@ -675,7 +675,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_083", subject: "da-262", lecture: "lecture-10", lectureNo: 10,
     question: "Assertion (A): Windows OS supports file names up to 255 characters long.\nReason (R): MS-DOS was limited to 8 characters with 3-character extension (8:3 format), which Windows overcame.",
-    options: ["A is true but R is false under standard field conditions", "A is false but R is true under standard field conditions", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
+    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-262 notes: Windows supports long file names up to 255 characters long, unlike DOS which was limited to 8:3 (8 character name + 3 character extension) format.",
     difficulty: "medium"
@@ -723,7 +723,7 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_089", subject: "da-262", lecture: "lecture-13", lectureNo: 13,
     question: "The key difference between a Compiler and an Interpreter is:",
-    options: ["Compiler is faster; Interpreter is slower because it compiles twice under standard field conditions", "Compiler translates the whole program before execution; Interpreter translates one statement at a time", "There is no difference; both do the same work based on conventional agronomic practices", "Compiler works only with BASIC; Interpreter works with all languages under standard field conditions"],
+    options: ["Compiler is faster; Interpreter is slower because it compiles twice", "Compiler translates the whole program before execution; Interpreter translates one statement at a time", "There is no difference; both do the same work based on conventional agronomic practices", "Compiler works only with BASIC; Interpreter works with all languages"],
     correct: 1,
     explanation: "As per DA-262 notes: A compiler translates the whole program before execution and produces a list of all errors at the end. An interpreter translates one statement at a time and executes it immediately if error-free.",
     difficulty: "medium"
@@ -826,7 +826,7 @@ export const da262LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "Which of the following is NOT an advantage of computers?",
-    options: ["Accuracy under standard field conditions", "High speed under standard field conditions", "Diligence under standard field conditions", "Ability to think independently"],
+    options: ["Accuracy", "High speed", "Diligence", "Ability to think independently"],
     correct: 3,
     explanation: "As per DA-262 notes: Computers cannot think. They need clear and complete instructions."
   },
@@ -1456,7 +1456,7 @@ export const da262LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Secondary memory is also referred to as:",
-    options: ["Cache memory under standard field conditions", "Backup storage or auxiliary storage", "Primary storage under standard field conditions", "Register memory under standard field conditions"],
+    options: ["Cache memory", "Backup storage or auxiliary storage", "Primary storage", "Register memory"],
     correct: 1,
     explanation: "As per DA-262 notes: Secondary memory is also referred as auxiliary or secondary memory - also called backup storage."
   },
@@ -1506,7 +1506,7 @@ export const da262LectureQuestions: Question[] = [
     lecture: "lecture-11",
     lectureNo: 11,
     question: "The difference between TREE and DIR commands in DOS is that:",
-    options: ["TREE is for hard disk; DIR is for floppy in agriculture under standard field conditions", "TREE displays directories and sub-directories without files; DIR shows files with size date time", "Both are identical for general office use under field conditions under standard field conditions", "TREE shows files; DIR shows folders in basic computer operations under standard field conditions"],
+    options: ["TREE is for hard disk; DIR is for floppy in agriculture", "TREE displays directories and sub-directories without files; DIR shows files with size date time", "Both are identical for general office use", "TREE shows files; DIR shows folders in basic computer operations"],
     correct: 1,
     explanation: "As per DA-262 notes: TREE displays directories and sub-directories without files; DIR displays all files with size, date and time of creation."
   },
@@ -1666,7 +1666,7 @@ export const da262LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "Information is best described as:",
-    options: ["Raw data in basic computer operations under field conditions", "Binary code for general office use in agriculture", "Data that is processed and presented in an organized manner", "A computer program for data management only"],
+    options: ["Raw data in basic computer operations", "Binary code for general office use in agriculture", "Data that is processed and presented in an organized manner", "A computer program for data management only"],
     correct: 2,
     explanation: "As per DA-262 notes: Information is data that is processed and presented in an organized manner."
   },
@@ -1706,7 +1706,7 @@ export const da262LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "Assertion (A): Computers reduce paper work and human effort, thereby reducing costs.\nReason (R): Computers have the property of Cost effectiveness as they perform tasks automatically.",
-    options: ["Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is false but R is true under standard field conditions", "A is true but R is false under standard field conditions"],
+    options: ["Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is false but R is true", "A is true but R is false"],
     correct: 1,
     explanation: "As per DA-262 notes: Cost effectiveness - computers reduce paper work and human effort, reducing costs. This is the correct explanation."
   },
@@ -1716,7 +1716,7 @@ export const da262LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Assertion (A): RAM is called volatile memory.\nReason (R): Data stored in RAM disappears as soon as the power to the computer is switched off.",
-    options: ["Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false under standard field conditions", "A is false but R is true under standard field conditions", "Both A and R are true and R is the correct explanation of A"],
+    options: ["Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-262 notes: RAM storage of data and instructions is temporary. It disappears from RAM when power is switched off - hence volatile."
   },
@@ -1726,7 +1726,7 @@ export const da262LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Assertion (A): High Level Languages are machine independent.\nReason (R): A program written in HLL can run on computers of different types without any modifications.",
-    options: ["Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false under standard field conditions", "A is false but R is true under standard field conditions", "Both A and R are true and R is the correct explanation of A"],
+    options: ["Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-262 notes: HLLs are machine independent - a program written in any HLL can run on computers of different types without modifications."
   },
@@ -1736,7 +1736,7 @@ export const da262LectureQuestions: Question[] = [
     lecture: "lecture-12",
     lectureNo: 12,
     question: "Assertion (A): Windows OS provides multitasking capabilities to the PC.\nReason (R): Windows runs each program or document or application in its own separate window.",
-    options: ["Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false under standard field conditions", "A is false but R is true under standard field conditions", "Both A and R are true and R is the correct explanation of A"],
+    options: ["Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A"],
     correct: 0,
     explanation: "As per DA-262 notes: Both are true. Windows provides multitasking (A) and runs each program in its own window (R), but R explains the naming, not the multitasking capability."
   },
@@ -1746,7 +1746,7 @@ export const da262LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Assertion (A): Warm Booting is preferable to Cold Booting.\nReason (R): Warm Booting safeguards the system from sudden power fluctuations resulting from switching ON and OFF.",
-    options: ["Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is false but R is true under standard field conditions", "A is true but R is false under standard field conditions"],
+    options: ["Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is false but R is true", "A is true but R is false"],
     correct: 1,
     explanation: "As per DA-262 notes: Warm booting (Ctrl+Alt+Del) is preferable to cold booting as it safeguards the system from sudden power fluctuations."
   },
@@ -1756,7 +1756,7 @@ export const da262LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Assertion (A): Ink jet printers are slower than dot-matrix printers.\nReason (R): Ink jet printers work by spraying ionized ink and operate at only 90 CPS.",
-    options: ["Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is false but R is true under standard field conditions", "A is true but R is false under standard field conditions"],
+    options: ["Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is false but R is true", "A is true but R is false"],
     correct: 1,
     explanation: "As per DA-262 notes: Ink jet printer is slow at 90 CPS; Dot-matrix is 200/300 to 700 CPS. So ink jet is slower and R correctly explains A."
   },
@@ -1766,7 +1766,7 @@ export const da262LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Assertion (A): Hybrid computers combine features of both analog and digital computers.\nReason (R): Hybrid computers can both measure and count, making them useful in specialized applications.",
-    options: ["Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is false but R is true under standard field conditions", "A is true but R is false under standard field conditions"],
+    options: ["Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is false but R is true", "A is true but R is false"],
     correct: 1,
     explanation: "As per DA-262 notes: Hybrid computers combine features of analog and digital computers - they can both measure (analog) and count (digital)."
   },

@@ -228,7 +228,7 @@ export const da263Questions: Question[] = [
   {
     id: "d263_029", subject: "english-communication",
     question: "Skimming a text means:",
-    options: ["Reading aloud in everyday communication in agriculture", "Reading quickly to get the general idea or main points", "Reading backwards for language development under field conditions", "Reading every word carefully in formal language use"],
+    options: ["Reading aloud in everyday communication in agriculture", "Reading quickly to get the general idea or main points", "Reading backwards for language development", "Reading every word carefully in formal language use"],
     correct: 1,
     explanation: "Skimming is a rapid reading technique to get the gist or main ideas without reading every word.",
     difficulty: "easy"
@@ -244,7 +244,7 @@ export const da263Questions: Question[] = [
   {
     id: "d263_031", subject: "english-communication",
     question: "The word 'precipitation' in a weather report refers to:",
-    options: ["Temperature in everyday communication in agriculture", "Any form of water falling from the atmosphere (rain, snow, hail)", "Humidity level for language development for crop production", "Wind speed in formal language use under field conditions"],
+    options: ["Temperature in everyday communication in agriculture", "Any form of water falling from the atmosphere (rain, snow, hail)", "Humidity level for language development for crop production", "Wind speed in formal language use"],
     correct: 1,
     explanation: "Precipitation is any form of water (rain, snow, drizzle) falling from clouds.",
     difficulty: "medium"
@@ -284,7 +284,7 @@ export const da263Questions: Question[] = [
   {
     id: "d263_036", subject: "english-communication",
     question: "An application letter for a job should include:",
-    options: ["Complaints about other candidates in everyday communication in agriculture", "Irrelevant personal information for language development for crop production", "Personal gossip in formal language use under field conditions", "Applicant's qualifications, experience, and why they are suitable for the post"],
+    options: ["Complaints about other candidates in everyday communication in agriculture", "Irrelevant personal information for language development for crop production", "Personal gossip in formal language use", "Applicant's qualifications, experience, and why they are suitable for the post"],
     correct: 3,
     explanation: "A job application letter highlights relevant qualifications, skills, and experience matching the job requirements.",
     difficulty: "easy"
@@ -324,7 +324,7 @@ export const da263Questions: Question[] = [
   {
     id: "d263_041", subject: "english-communication",
     question: "A complaint letter should be:",
-    options: ["Humorous in everyday communication in agriculture", "Aggressive and threatening in formal language use", "Polite, factual, and clearly state the problem and desired resolution", "Long and filled with personal opinions under field conditions"],
+    options: ["Humorous in everyday communication in agriculture", "Aggressive and threatening in formal language use", "Polite, factual, and clearly state the problem and desired resolution", "Long and filled with personal opinions"],
     correct: 2,
     explanation: "Effective complaint letters are firm but polite, state facts clearly, and request specific remedial action.",
     difficulty: "easy"
@@ -332,7 +332,7 @@ export const da263Questions: Question[] = [
   {
     id: "d263_042", subject: "english-communication",
     question: "An official circular is issued to:",
-    options: ["A group of people within an organization informing them of policy/decisions", "Foreign organizations in formal language use under field conditions", "One person only in everyday communication in agriculture", "Unknown public for language development for crop production"],
+    options: ["A group of people within an organization informing them of policy/decisions", "Foreign organizations in formal language use", "One person only in everyday communication in agriculture", "Unknown public for language development for crop production"],
     correct: 0,
     explanation: "A circular is an official communication distributed to multiple people within or across departments.",
     difficulty: "easy"
@@ -436,7 +436,7 @@ export const da263Questions: Question[] = [
   {
     id: "d263_055", subject: "english-communication",
     question: "Active listening involves:",
-    options: ["Only hearing words in everyday communication in agriculture", "Thinking about other things while someone speaks", "Paying full attention, understanding, and responding appropriately to the speaker", "Interrupting frequently in formal language use under field conditions"],
+    options: ["Only hearing words in everyday communication in agriculture", "Thinking about other things while someone speaks", "Paying full attention, understanding, and responding appropriately to the speaker", "Interrupting frequently in formal language use"],
     correct: 2,
     explanation: "Active listening is a communication skill requiring full focus, understanding, and thoughtful response.",
     difficulty: "easy"
@@ -492,7 +492,7 @@ export const da263Questions: Question[] = [
   {
     id: "d263_062", subject: "english-communication",
     question: "Plagiarism in writing means:",
-    options: ["Writing original content in everyday communication in agriculture", "Copying others' work and presenting it as your own without acknowledgment", "Paraphrasing correctly in formal language use under field conditions", "Citing sources properly for language development for crop production"],
+    options: ["Writing original content in everyday communication in agriculture", "Copying others' work and presenting it as your own without acknowledgment", "Paraphrasing correctly in formal language use", "Citing sources properly for language development for crop production"],
     correct: 1,
     explanation: "Plagiarism is using someone else's ideas or writing without proper credit — it is considered academic dishonesty.",
     difficulty: "easy"

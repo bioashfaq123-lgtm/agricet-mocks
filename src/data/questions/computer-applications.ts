@@ -5,7 +5,7 @@ export const computerApplicationsQuestions: Question[] = [
     id: "ca001",
     subject: "computer-applications",
     question: "A computer is defined as an electronic device that can perform activities involving:",
-    options: ["Only mathematical operations under standard field conditions", "Mathematical, logical and graphical manipulations", "Only data storage under standard field conditions", "Only printing operations under standard field conditions"],
+    options: ["Only mathematical operations", "Mathematical, logical and graphical manipulations", "Only data storage", "Only printing operations"],
     correct: 1,
     explanation: "As per the DA-262 course material, a computer is an electronic device that can perform activities involving Mathematical, Logical and graphical manipulations. It receives data, processes it, and provides output."
   },
@@ -29,7 +29,7 @@ export const computerApplicationsQuestions: Question[] = [
     id: "ca004",
     subject: "computer-applications",
     question: "The 'brain' of the computer is the:",
-    options: ["Monitor under standard field conditions", "Keyboard under standard field conditions", "Central Processing Unit (CPU)", "Hard disk under standard field conditions"],
+    options: ["Monitor", "Keyboard", "Central Processing Unit (CPU)", "Hard disk"],
     correct: 2,
     explanation: "The CPU (Central Processing Unit) is called the 'brain' of the computer. It reads and executes program instructions and consists of the Memory Unit, ALU, and Control Unit."
   },
@@ -45,7 +45,7 @@ export const computerApplicationsQuestions: Question[] = [
     id: "ca006",
     subject: "computer-applications",
     question: "The Control Unit (CU) in a computer:",
-    options: ["Stores data permanently in computer systems under standard field conditions", "Displays output in data processing under standard field conditions", "Performs calculations for office applications under standard field conditions", "Interprets program instructions and controls input/output devices"],
+    options: ["Stores data permanently in computer systems", "Displays output in data processing", "Performs calculations for office applications", "Interprets program instructions and controls input/output devices"],
     correct: 3,
     explanation: "The Control Unit acts as the central nervous system of the computer. It interprets program instructions, ensures correct sequence of execution, and coordinates all input and output devices."
   },
@@ -93,7 +93,7 @@ export const computerApplicationsQuestions: Question[] = [
     id: "ca012",
     subject: "computer-applications",
     question: "ROM (Read Only Memory) is:",
-    options: ["Non-volatile memory that retains data without power supply", "Volatile memory that loses data when power is off", "Used for temporary data storage under standard field conditions", "An input device in irrigated crop production systems"],
+    options: ["Non-volatile memory that retains data without power supply", "Volatile memory that loses data when power is off", "Used for temporary data storage", "An input device in irrigated crop production systems"],
     correct: 0,
     explanation: "ROM (Read Only Memory) is non-volatile memory — it retains data even without power. It stores basic input-output instructions (BIOS) put by the manufacturer. Data in ROM is permanent and cannot be easily changed."
   },
@@ -141,7 +141,7 @@ export const computerApplicationsQuestions: Question[] = [
     id: "ca018",
     subject: "computer-applications",
     question: "The Operating System (OS) acts as:",
-    options: ["Only a word processor in computer systems under standard field conditions", "Interface between hardware and user programs, managing computer resources", "Only an antivirus program for office applications under standard field conditions", "A spreadsheet application in data processing under standard field conditions"],
+    options: ["Only a word processor in computer systems", "Interface between hardware and user programs, managing computer resources", "Only an antivirus program for office applications", "A spreadsheet application in data processing"],
     correct: 1,
     explanation: "The Operating System is a bridge (interface) between the user and the hardware. It manages processor, memory, input/output operations, and file management to facilitate program execution."
   },
@@ -157,7 +157,7 @@ export const computerApplicationsQuestions: Question[] = [
     id: "ca020",
     subject: "computer-applications",
     question: "Which of the following is an example of system software?",
-    options: ["Operating System (Windows/DOS)", "MS Excel under standard field conditions", "MS Word under standard field conditions", "Tally under standard field conditions"],
+    options: ["Operating System (Windows/DOS)", "MS Excel", "MS Word", "Tally"],
     correct: 0,
     explanation: "Operating Systems (Windows, DOS, Linux) are system software. MS Word, MS Excel are application software. The OS manages hardware resources and provides platform for application software."
   },
@@ -221,7 +221,7 @@ export const computerApplicationsQuestions: Question[] = [
     id: "ca028",
     subject: "computer-applications",
     question: "MS Word is used for:",
-    options: ["Word processing — creating, editing, formatting and printing documents", "Database management for office applications under standard field conditions", "Creating spreadsheets in computer systems under standard field conditions", "Creating presentations in data processing under standard field conditions"],
+    options: ["Word processing — creating, editing, formatting and printing documents", "Database management for office applications", "Creating spreadsheets in computer systems", "Creating presentations in data processing"],
     correct: 0,
     explanation: "MS Word is a word processor used for creating, editing, formatting, and printing documents. The extension of MS Word files is .doc or .docx. It allows inserting pictures, tables, and charts."
   },
@@ -261,7 +261,7 @@ export const computerApplicationsQuestions: Question[] = [
     id: "ca033",
     subject: "computer-applications",
     question: "A computer virus is:",
-    options: ["A biological organism in computer systems under standard field conditions", "A set of instructions/program prepared to destroy data and packages", "A hardware malfunction for office applications under standard field conditions", "A type of printer error in data processing under standard field conditions"],
+    options: ["A biological organism in computer systems", "A set of instructions/program prepared to destroy data and packages", "A hardware malfunction for office applications", "A type of printer error in data processing"],
     correct: 1,
     explanation: "A computer virus is a set of instructions (program) prepared to destroy data and program packages. Viruses reside in executable files and spread to other programs when those files are executed."
   },
@@ -357,7 +357,7 @@ export const computerApplicationsQuestions: Question[] = [
     id: "ca045",
     subject: "computer-applications",
     question: "The difference between a Compiler and Interpreter is that:",
-    options: ["Compiler is faster at writing programs in computer systems under standard field conditions", "Both work identically in data processing in the context of integrated farming systems", "Interpreter produces machine code; Compiler produces source code for office applications", "Compiler translates whole program before execution; Interpreter translates one statement at a time"],
+    options: ["Compiler is faster at writing programs in computer systems", "Both work identically in data processing in the context of integrated farming systems", "Interpreter produces machine code; Compiler produces source code for office applications", "Compiler translates whole program before execution; Interpreter translates one statement at a time"],
     correct: 3,
     explanation: "A Compiler translates the complete program to machine code before execution and gives a full error list at end. An Interpreter translates and executes one statement at a time, making error correction easier but execution slower."
   },
@@ -381,7 +381,7 @@ export const computerApplicationsQuestions: Question[] = [
     id: "ca048",
     subject: "computer-applications",
     question: "The Internet is best described as:",
-    options: ["A single large computer in computer systems under standard field conditions", "A global network of interconnected computers sharing information", "A type of software for office applications under standard field conditions", "An operating system in data processing under standard field conditions"],
+    options: ["A single large computer in computer systems", "A global network of interconnected computers sharing information", "A type of software for office applications", "An operating system in data processing"],
     correct: 1,
     explanation: "The Internet is a global network of interconnected computers that share information. Internet Explorer is an application used to browse the internet using search engines."
   },

@@ -361,7 +361,7 @@ export const da111LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Mendel's Law of Segregation states that during gamete formation:",
-    options: ["Genes on the same chromosome always segregate together for crop production", "Dominant alleles always suppress recessive alleles in F2 in agriculture", "Alleles of two different genes assort independently under field conditions", "The two alleles of a gene separate and go to different gametes"],
+    options: ["Genes on the same chromosome always segregate together for crop production", "Dominant alleles always suppress recessive alleles in F2 in agriculture", "Alleles of two different genes assort independently", "The two alleles of a gene separate and go to different gametes"],
     correct: 3,
     explanation: "Mendel's Law of Segregation (First Law) states that each individual has two alleles for each trait and these alleles separate (segregate) during gamete formation so each gamete carries only one allele."
   },
@@ -1540,7 +1540,7 @@ export const da111LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "Plant breeding is defined as the art, science and technology of:",
-    options: ["Cultivating plants in controlled conditions in agriculture", "Studying plant diseases and pests under field conditions", "Improving the genetic makeup of plants for economic use", "Developing new farming practices for crop production"],
+    options: ["Cultivating plants in controlled conditions in agriculture", "Studying plant diseases and pests", "Improving the genetic makeup of plants for economic use", "Developing new farming practices for crop production"],
     correct: 2,
     explanation: "As per DA-111 notes: Plant breeding is defined as an art, a science, and technology of improving the genetic makeup of plants in relation to their economic use for mankind."
   },
@@ -2050,7 +2050,7 @@ export const da111LectureQuestions: Question[] = [
     lecture: "lecture-38",
     lectureNo: 38,
     question: "Seed viability refers to:",
-    options: ["The weight of 1000 seeds in agriculture", "The ability of a seed to germinate under favorable conditions", "The resistance of seed to diseases under field conditions", "The shelf life of seed in storage"],
+    options: ["The weight of 1000 seeds in agriculture", "The ability of a seed to germinate under favorable conditions", "The resistance of seed to diseases", "The shelf life of seed in storage"],
     correct: 1,
     explanation: "As per DA-111 notes: Seed viability refers to the ability of a seed to germinate under favorable conditions. It is a measure of the living status of seeds."
   },
@@ -2240,7 +2240,7 @@ export const da111LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "Assertion (A): Domestication is considered the most basic method of plant breeding.\nReason (R): Domestication involves bringing wild species under human management and selecting them for desired traits over generations.",
-    options: ["A is true but R is false under standard field conditions", "A is false but R is true under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
+    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-111 notes: Domestication is the most basic method of plant breeding. Both A and R are true; R correctly explains A."
   },
@@ -2250,7 +2250,7 @@ export const da111LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Assertion (A): Dwarfness in cereal varieties is associated with lodging resistance.\nReason (R): Dwarf varieties have shorter, stronger stems that can support the weight of heavy grain panicles without falling over.",
-    options: ["Both A and R are true and R is the correct explanation of A", "A is false but R is true under standard field conditions", "Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false under standard field conditions"],
+    options: ["Both A and R are true and R is the correct explanation of A", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false"],
     correct: 0,
     explanation: "As per DA-111 notes: Dwarfness in cereals is generally associated with lodging resistance and better fertilizer response. Both A and R are true; R explains A."
   },
@@ -2260,7 +2260,7 @@ export const da111LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Assertion (A): Monoecious plants have both male and female flowers on the same plant.\nReason (R): Monoecious means 'one home' where both sexes are housed in the same individual plant.",
-    options: ["Both A and R are true and R is the correct explanation of A", "A is false but R is true under standard field conditions", "Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false under standard field conditions"],
+    options: ["Both A and R are true and R is the correct explanation of A", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false"],
     correct: 0,
     explanation: "As per DA-111 notes: Monoecious plants have both male and female flowers on the same plant. The term means 'one home'. Both A and R are true."
   },
@@ -2270,7 +2270,7 @@ export const da111LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Assertion (A): Each Megaspore Mother Cell (MMC) ultimately produces only one functional megaspore.\nReason (R): MMC undergoes meiosis to produce four megaspores, but three of them degenerate, leaving only one functional megaspore.",
-    options: ["Both A and R are true and R is the correct explanation of A", "A is false but R is true under standard field conditions", "Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false under standard field conditions"],
+    options: ["Both A and R are true and R is the correct explanation of A", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false"],
     correct: 0,
     explanation: "As per DA-111 notes: MMC produces four megaspores through meiosis; three degenerate, leaving one functional megaspore. Both A and R are true."
   },
@@ -2280,7 +2280,7 @@ export const da111LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Assertion (A): F1 hybrids show heterosis (hybrid vigor) in terms of yield and growth.\nReason (R): Heterosis occurs due to the combination of superior alleles from both parents and dominance/overdominance effects in the F1 generation.",
-    options: ["A is true but R is false under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true under standard field conditions"],
+    options: ["A is true but R is false", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true"],
     correct: 1,
     explanation: "As per DA-111 notes: F1 hybrids show heterosis due to combination of superior alleles and dominance effects. Both A and R are true; R explains A."
   },
@@ -2290,7 +2290,7 @@ export const da111LectureQuestions: Question[] = [
     lecture: "lecture-11",
     lectureNo: 11,
     question: "Assertion (A): Mutation breeding uses both physical and chemical mutagens.\nReason (R): Physical mutagens like X-rays and gamma rays and chemical mutagens like EMS alter DNA structure, creating new genetic variants.",
-    options: ["A is true but R is false under standard field conditions", "A is false but R is true under standard field conditions", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
+    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-111 notes: Mutation breeding uses both types of mutagens. H.J. Muller (1927) and L.J. Stadler (1928) laid the foundation for mutation breeding. Both A and R are true."
   },
@@ -2300,7 +2300,7 @@ export const da111LectureQuestions: Question[] = [
     lecture: "lecture-14",
     lectureNo: 14,
     question: "Assertion (A): Male sterility is extensively used in hybrid seed production.\nReason (R): Male sterile plants cannot produce pollen, so they must be fertilized by pollen from another line, ensuring all seeds are hybrids.",
-    options: ["Both A and R are true and R is the correct explanation of A", "A is false but R is true under standard field conditions", "Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false under standard field conditions"],
+    options: ["Both A and R are true and R is the correct explanation of A", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false"],
     correct: 0,
     explanation: "As per DA-111 notes: Male sterility prevents self-pollination, ensuring hybrid seed production when pollinated by fertile lines. Both A and R are true; R explains A."
   },
@@ -2310,7 +2310,7 @@ export const da111LectureQuestions: Question[] = [
     lecture: "lecture-36",
     lectureNo: 36,
     question: "Assertion (A): Nucleus seed is the highest quality class in the seed production chain.\nReason (R): Nucleus seed is produced and maintained by the original plant breeder; it is the source from which all other seed classes are derived.",
-    options: ["A is true but R is false under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true under standard field conditions"],
+    options: ["A is true but R is false", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true"],
     correct: 1,
     explanation: "As per DA-111 notes: Nucleus seed is the highest quality class maintained by the breeder. All other seed classes (breeder, foundation, certified) are derived from it. Both A and R are true."
   },
@@ -2320,7 +2320,7 @@ export const da111LectureQuestions: Question[] = [
     lecture: "lecture-40",
     lectureNo: 40,
     question: "Assertion (A): Seed certification ensures that only high quality seeds of notified varieties reach the farmer.\nReason (R): Seed certification agencies conduct field inspections and laboratory tests to verify that seeds meet prescribed standards for genetic purity and quality.",
-    options: ["A is true but R is false under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true under standard field conditions"],
+    options: ["A is true but R is false", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true"],
     correct: 1,
     explanation: "As per DA-111 notes: Seed certification ensures quality through field inspections and lab tests. Both A and R are true; R correctly explains A."
   },
@@ -2330,7 +2330,7 @@ export const da111LectureQuestions: Question[] = [
     lecture: "lecture-44",
     lectureNo: 44,
     question: "Assertion (A): Some pulse seeds have a hard seed coat that prevents germination.\nReason (R): Hard seed dormancy is due to an impermeable seed coat that prevents water and gas uptake necessary for germination.",
-    options: ["A is true but R is false under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true under standard field conditions"],
+    options: ["A is true but R is false", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true"],
     correct: 1,
     explanation: "As per DA-111 notes: Hard seed coat prevents water/gas uptake in many pulse seeds. Both A and R are true; R correctly explains A."
   },
@@ -2340,7 +2340,7 @@ export const da111LectureQuestions: Question[] = [
     lecture: "lecture-48",
     lectureNo: 48,
     question: "Assertion (A): Seeds should be stored at low moisture content to maintain viability.\nReason (R): High moisture content promotes microbial activity, respiration, and fungal growth which rapidly deteriorate seeds in storage.",
-    options: ["A is true but R is false under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true under standard field conditions"],
+    options: ["A is true but R is false", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true"],
     correct: 1,
     explanation: "As per DA-111 notes: Seeds at high moisture content lose viability quickly due to microbial growth and respiration. Low moisture (≤12%) is required for safe storage. Both A and R are true."
   },
@@ -2350,7 +2350,7 @@ export const da111LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Assertion (A): Non-shattering characteristic is an important breeding objective in greengram.\nReason (R): Shattering of pods at maturity causes significant yield loss in greengram before and during harvest.",
-    options: ["A is true but R is false under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true under standard field conditions"],
+    options: ["A is true but R is false", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true"],
     correct: 1,
     explanation: "As per DA-111 notes: Pod shattering is a serious problem in greengram, causing yield losses. Non-shattering is an important breeding objective. Both A and R are true."
   },
@@ -2360,7 +2360,7 @@ export const da111LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Assertion (A): Development of photo and thermo-insensitive varieties helps in expanding crop cultivation area.\nReason (R): Varieties sensitive to photoperiod and temperature are restricted to specific regions; insensitive varieties can be grown across different latitudes and seasons.",
-    options: ["A is true but R is false under standard field conditions", "A is false but R is true under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
+    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-111 notes: Photo and thermo-insensitive varieties of wheat and rice allowed their cultivation in new areas. Both A and R are true; R correctly explains A."
   },
@@ -2370,7 +2370,7 @@ export const da111LectureQuestions: Question[] = [
     lecture: "lecture-42",
     lectureNo: 42,
     question: "Assertion (A): The tetrazolium (TZ) test is a quick method to assess seed viability.\nReason (R): TZ salt is reduced to red-colored formazan by living (respiring) cells, staining viable embryo tissues red while dead tissue remains unstained.",
-    options: ["A is true but R is false under standard field conditions", "A is false but R is true under standard field conditions", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
+    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-111 notes: TZ test is a quick viability test. Living cells reduce TZ to red formazan; dead cells don't stain. Both A and R are true; R correctly explains A."
   },
@@ -2380,7 +2380,7 @@ export const da111LectureQuestions: Question[] = [
     lecture: "lecture-61",
     lectureNo: 61,
     question: "Assertion (A): Seed priming improves germination speed and uniformity.\nReason (R): During priming, pre-germination metabolic activities occur within the seed, making it metabolically ready to germinate quickly when conditions are favorable.",
-    options: ["Both A and R are true and R is the correct explanation of A", "A is false but R is true under standard field conditions", "Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false under standard field conditions"],
+    options: ["Both A and R are true and R is the correct explanation of A", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false"],
     correct: 0,
     explanation: "As per DA-111 notes: Seed priming allows pre-germinative activities, improving germination speed and uniformity. Both A and R are true."
   },

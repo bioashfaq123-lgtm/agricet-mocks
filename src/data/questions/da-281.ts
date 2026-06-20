@@ -900,7 +900,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_113", subject: "da-281",
     question: "Agroforestry is best defined as:",
-    options: ["Cultivation of forest trees only in horticultural practices in agriculture", "Cultivation of medicinal plants only in orchard management for crop production", "Growing trees in monoculture for vegetable cultivation under field conditions", "A land use system combining trees with crops or livestock on the same unit of land"],
+    options: ["Cultivation of forest trees only in horticultural practices in agriculture", "Cultivation of medicinal plants only in orchard management for crop production", "Growing trees in monoculture for vegetable cultivation", "A land use system combining trees with crops or livestock on the same unit of land"],
     correct: 3,
     explanation: "Agroforestry combines trees with crops and/or livestock on the same land unit, providing multiple benefits.",
     difficulty: "easy"
@@ -940,7 +940,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_118", subject: "da-281",
     question: "Lemongrass is cultivated primarily for its:",
-    options: ["Fodder for cattle in horticultural practices", "Fuelwood for vegetable cultivation in agriculture", "Essential oil used in cosmetics and food flavoring", "Timber in orchard management under field conditions"],
+    options: ["Fodder for cattle in horticultural practices", "Fuelwood for vegetable cultivation in agriculture", "Essential oil used in cosmetics and food flavoring", "Timber in orchard management"],
     correct: 2,
     explanation: "Lemongrass (Cymbopogon citratus) is grown for its aromatic essential oil used in cosmetics, food, and aromatherapy.",
     difficulty: "medium"
@@ -964,7 +964,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_121", subject: "da-281",
     question: "Social forestry involves growing trees on:",
-    options: ["Himalayan forests only in horticultural practices in agriculture", "Commercial forest plantations only in orchard management", "Reserved forests only for vegetable cultivation under field conditions", "Village community land, roadsides, and farm boundaries for local needs"],
+    options: ["Himalayan forests only in horticultural practices in agriculture", "Commercial forest plantations only in orchard management", "Reserved forests only for vegetable cultivation", "Village community land, roadsides, and farm boundaries for local needs"],
     correct: 3,
     explanation: "Social forestry grows trees on community lands, roadsides, and farm boundaries to meet local needs for fuelwood, fodder, and timber.",
     difficulty: "easy"
@@ -1164,7 +1164,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_146", subject: "da-281",
     question: "The primary purpose of windbreaks in agriculture is to:",
-    options: ["Reduce wind speed and protect crops and soil from wind damage", "Supply timber for vegetable cultivation in agriculture", "Provide fuelwood in orchard management under field conditions", "Provide shade to crops in horticultural practices"],
+    options: ["Reduce wind speed and protect crops and soil from wind damage", "Supply timber for vegetable cultivation in agriculture", "Provide fuelwood in orchard management", "Provide shade to crops in horticultural practices"],
     correct: 0,
     explanation: "Windbreaks (shelterbelts) are rows of trees planted perpendicular to prevailing winds to reduce wind speed, protecting crops, soil, and livestock.",
     difficulty: "easy"
@@ -1308,7 +1308,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_164", subject: "da-281",
     question: "Which of the following statements about teak is correct?",
-    options: ["Teak is an evergreen tree in horticultural practices in agriculture", "Teak belongs to the grass family for vegetable cultivation under field conditions", "Teak is a deciduous tree native to South and Southeast Asia with high timber value", "Teak grows best in wet tropical conditions with waterlogged soil for crop production"],
+    options: ["Teak is an evergreen tree in horticultural practices in agriculture", "Teak belongs to the grass family for vegetable cultivation", "Teak is a deciduous tree native to South and Southeast Asia with high timber value", "Teak grows best in wet tropical conditions with waterlogged soil for crop production"],
     correct: 2,
     explanation: "Teak (Tectona grandis) is a deciduous hardwood native to South and Southeast Asia, highly valued for its durability and resistance to decay.",
     difficulty: "medium"
@@ -1460,7 +1460,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_183", subject: "da-281",
     question: "The main products from bamboo include:",
-    options: ["Only paper for vegetable cultivation under field conditions", "Only food in horticultural practices in agriculture", "Construction, crafts, paper pulp, food (bamboo shoots), and biofuel", "Only furniture in orchard management for crop production"],
+    options: ["Only paper for vegetable cultivation", "Only food in horticultural practices in agriculture", "Construction, crafts, paper pulp, food (bamboo shoots), and biofuel", "Only furniture in orchard management for crop production"],
     correct: 2,
     explanation: "Bamboo is a versatile green material used for construction, furniture, handicrafts, paper pulp, bamboo shoots (food), and bioenergy.",
     difficulty: "easy"
@@ -1508,7 +1508,7 @@ export const da281Questions: Question[] = [
   {
     id: "d281_189", subject: "da-281",
     question: "Why is forest cover important for watershed management?",
-    options: ["Forests only produce timber in horticultural practices in agriculture", "Forests block rainfall for vegetable cultivation under field conditions", "Forests reduce surface runoff, promote groundwater recharge, and regulate stream flow", "Forests only provide shade in orchard management for crop production"],
+    options: ["Forests only produce timber in horticultural practices in agriculture", "Forests block rainfall for vegetable cultivation", "Forests reduce surface runoff, promote groundwater recharge, and regulate stream flow", "Forests only provide shade in orchard management for crop production"],
     correct: 2,
     explanation: "Forests in watersheds reduce surface runoff, increase groundwater recharge, regulate stream flow, and prevent flooding and droughts.",
     difficulty: "medium"

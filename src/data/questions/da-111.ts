@@ -600,7 +600,7 @@ export const da111Questions: Question[] = [
   {
     id: "d111_075",
     subject: "da-111",
-    question: "In rice, the pollen viability duration under field conditions is only about:",
+    question: "In rice, the pollen viability duration is only about:",
     options: ["10 minutes under field temperature conditions", "60 minutes under normal field temperature", "45 minutes at peak flowering time daily", "30 minutes under humid field conditions"],
     correct: 0,
     explanation: "Pollen viability in rice is 10 minutes. This very short pollen viability makes timing of pollination critical in rice hybridization and hybrid seed production."
@@ -683,7 +683,7 @@ export const da111Questions: Question[] = [
     question: "In Sorghum (Jowar), the flowering starts from the tip of panicle and proceeds:",
     options: ["Upward (acropetal) from base to the apex tip", "Simultaneously across all branches of the panicle", "Downward (basipetal) from tip toward the base", "From middle outward toward the panicle periphery"],
     correct: 2,
-    explanation: "In Sorghum, flowering starts from the tip of the panicle and proceeds downwards (basipetal). Flowering completes in 7 days and pollen is viable for 10 to 20 minutes under field conditions."
+    explanation: "In Sorghum, flowering starts from the tip of the panicle and proceeds downwards (basipetal). Flowering completes in 7 days and pollen is viable for 10 to 20 minutes."
   },
   {
     id: "d111_086",

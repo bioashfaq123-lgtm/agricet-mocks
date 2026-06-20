@@ -101,7 +101,7 @@ export const da102LectureQuestions: Question[] = [
   {
     id: "d102l_013", subject: "da-102", lecture: "lecture-1", lectureNo: 1,
     question: "The critical stage of rice for moisture stress is:",
-    options: ["Tillering under standard field conditions", "Ripening under standard field conditions", "Panicle initiation and flowering", "Germination under standard field conditions"],
+    options: ["Tillering", "Ripening", "Panicle initiation and flowering", "Germination"],
     correct: 2,
     explanation: "Rice is most sensitive to water stress during panicle initiation and flowering stages.",
     difficulty: "medium"
@@ -403,7 +403,7 @@ export const da102LectureQuestions: Question[] = [
   {
     id: "d102l_050", subject: "da-102", lecture: "lecture-4", lectureNo: 4,
     question: "Tikka disease of groundnut is caused by:",
-    options: ["Puccinia arachidis under standard field conditions", "Sclerotium rolfsii under standard field conditions", "Aspergillus flavus under standard field conditions", "Cercospora arachidicola & C. personatum"],
+    options: ["Puccinia arachidis", "Sclerotium rolfsii", "Aspergillus flavus", "Cercospora arachidicola & C. personatum"],
     correct: 3,
     explanation: "Early leaf spot (C. arachidicola) and late leaf spot (C. personatum) together cause Tikka disease.",
     difficulty: "medium"
@@ -517,7 +517,7 @@ export const da102LectureQuestions: Question[] = [
   {
     id: "d102l_064", subject: "da-102", lecture: "lecture-5", lectureNo: 5,
     question: "Cotton fibre is derived from:",
-    options: ["Stem bark under standard field conditions", "Seed coat epidermis (trichomes)", "Roots under standard field conditions", "Leaves under standard field conditions"],
+    options: ["Stem bark", "Seed coat epidermis (trichomes)", "Roots", "Leaves"],
     correct: 1,
     explanation: "Cotton fibres are elongated trichomes from the epidermis of the seed coat.",
     difficulty: "easy"
@@ -565,7 +565,7 @@ export const da102LectureQuestions: Question[] = [
   {
     id: "d102l_070", subject: "da-102", lecture: "lecture-5", lectureNo: 5,
     question: "'Topping' in cotton is done to:",
-    options: ["Apply growth regulators in agricultural meteorology under standard field conditions", "Remove lower leaves under atmospheric conditions under standard field conditions", "Remove apical meristem to promote lateral branching and boll development", "Remove roots in weather analysis under standard field conditions"],
+    options: ["Apply growth regulators in agricultural meteorology", "Remove lower leaves under atmospheric conditions", "Remove apical meristem to promote lateral branching and boll development", "Remove roots in weather analysis"],
     correct: 2,
     explanation: "Topping removes the terminal bud to stop upward growth and improve boll formation on laterals.",
     difficulty: "medium"
@@ -679,7 +679,7 @@ export const da102LectureQuestions: Question[] = [
   {
     id: "d102l_084", subject: "da-102", lecture: "lecture-6", lectureNo: 6,
     question: "Sterility mosaic of pigeonpea is spread by:",
-    options: ["Thrips under standard field conditions", "Aphids under standard field conditions", "Whitefly under standard field conditions", "Eriophyid mites (Aceria cajani)"],
+    options: ["Thrips", "Aphids", "Whitefly", "Eriophyid mites (Aceria cajani)"],
     correct: 3,
     explanation: "Sterility mosaic virus of pigeonpea is transmitted by the eriophyid mite Aceria cajani.",
     difficulty: "hard"
@@ -1005,7 +1005,7 @@ export const da102LectureQuestions: Question[] = [
   {
     id: "d102l_124", subject: "da-102", lecture: "lecture-9", lectureNo: 9,
     question: "Ricin, a highly toxic compound, is found in:",
-    options: ["Linseed under standard field conditions", "Sunflower under standard field conditions", "Castor bean (Ricinus communis)", "Sesame under standard field conditions"],
+    options: ["Linseed", "Sunflower", "Castor bean (Ricinus communis)", "Sesame"],
     correct: 2,
     explanation: "Ricin is a toxin found in castor beans that is lethal in small quantities.",
     difficulty: "medium"
@@ -1013,7 +1013,7 @@ export const da102LectureQuestions: Question[] = [
   {
     id: "d102l_125", subject: "da-102", lecture: "lecture-9", lectureNo: 9,
     question: "The major use of castor oil is in:",
-    options: ["Industrial lubricants and pharmaceuticals", "Food industry under standard field conditions", "Animal feed under standard field conditions", "Perfumery only under standard field conditions"],
+    options: ["Industrial lubricants and pharmaceuticals", "Food industry", "Animal feed", "Perfumery only"],
     correct: 0,
     explanation: "Castor oil is primarily used in industrial lubricants, pharmaceuticals, and plastics.",
     difficulty: "easy"
@@ -1928,7 +1928,7 @@ export const da102LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "Assertion (A): Rice is the most important food crop for Asian countries.\nReason (R): 90% of world rice is cultivated in Asian countries, and it is the staple food for over 60% of the world population.",
-    options: ["A is true but R is false under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true under standard field conditions"],
+    options: ["A is true but R is false", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true"],
     correct: 1,
     explanation: "As per DA-102 notes: Both statements are true. 90% of rice is grown in Asia and it feeds 60%+ of world population. R correctly explains A."
   },
@@ -1938,7 +1938,7 @@ export const da102LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "Assertion (A): Rice is a short-day plant.\nReason (R): Rice requires long nights (short days) to initiate flowering, though modern improved varieties are often non-sensitive to photoperiod.",
-    options: ["Both A and R are true and R is the correct explanation of A", "A is false but R is true under standard field conditions", "Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false under standard field conditions"],
+    options: ["Both A and R are true and R is the correct explanation of A", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false"],
     correct: 0,
     explanation: "As per DA-102 notes: Rice is photoperiodically a short-day plant, though many modern varieties are non-sensitive. Both A and R are true."
   },
@@ -1948,7 +1948,7 @@ export const da102LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Assertion (A): Dry nursery for rice is prepared in dry soil conditions.\nReason (R): Dry nursery is particularly useful during periods of delayed canal water availability.",
-    options: ["Both A and R are true and R is the correct explanation of A", "A is false but R is true under standard field conditions", "Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false under standard field conditions"],
+    options: ["Both A and R are true and R is the correct explanation of A", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false"],
     correct: 0,
     explanation: "As per DA-102 notes: Dry nursery is prepared in dry conditions and is handy in times of delayed receipt of canal water. Both A and R are true."
   },
@@ -1958,7 +1958,7 @@ export const da102LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Assertion (A): Shallow planting (3 cm depth) is recommended for rice transplanting.\nReason (R): Shallow planting promotes quick establishment and encourages formation of more tillers.",
-    options: ["A is true but R is false under standard field conditions", "A is false but R is true under standard field conditions", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
+    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-102 notes: Shallow planting at 3 cm ensures quick establishment and more tillers. Both A and R are true; R correctly explains A."
   },
@@ -1968,7 +1968,7 @@ export const da102LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Assertion (A): Azolla is raised as a dual crop in rice for the wet season.\nReason (R): Azolla fixes atmospheric nitrogen and adds organic matter when incorporated, benefiting rice crop.",
-    options: ["A is true but R is false under standard field conditions", "A is false but R is true under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
+    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-102 notes: Azolla is raised as a dual crop in wet season rice and incorporated during weeding. It fixes N and adds OM. Both A and R are true."
   },
@@ -1978,7 +1978,7 @@ export const da102LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Assertion (A): Maize has the highest productivity among all grain crops.\nReason (R): Maize is a C4 plant with high photosynthetic efficiency and responds well to improved management practices.",
-    options: ["A is true but R is false under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true under standard field conditions"],
+    options: ["A is true but R is false", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true"],
     correct: 1,
     explanation: "As per DA-102 notes: Maize has highest productivity among grain crops. Its C4 photosynthesis contributes to high efficiency. Both A and R are true."
   },
@@ -1988,7 +1988,7 @@ export const da102LectureQuestions: Question[] = [
     lecture: "lecture-17",
     lectureNo: 17,
     question: "Assertion (A): Ragi is considered a healthy food for diabetic patients.\nReason (R): Ragi has a low glycaemic index and is rich in dietary fibre, which helps control blood sugar levels.",
-    options: ["A is true but R is false under standard field conditions", "A is false but R is true under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
+    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-102 notes: Ragi is one of the important foods for diabetic patients. Its high fibre content helps control diabetes. Both A and R are true."
   },
@@ -1998,7 +1998,7 @@ export const da102LectureQuestions: Question[] = [
     lecture: "lecture-18",
     lectureNo: 18,
     question: "Assertion (A): Pulse crops generally have lower yields than cereal crops.\nReason (R): Pulses have indeterminate growth habit, susceptibility to lodging, and pod shattering which reduce harvestable yield.",
-    options: ["A is true but R is false under standard field conditions", "A is false but R is true under standard field conditions", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
+    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-102 notes: Pulses have lower yields than cereals due to indeterminate growth, lodging, and pod shattering. Both A and R are true; R explains A."
   },
@@ -2008,7 +2008,7 @@ export const da102LectureQuestions: Question[] = [
     lecture: "lecture-23",
     lectureNo: 23,
     question: "Assertion (A): Minor millets are major staple food for tribal people in drought and hilly areas.\nReason (R): Minor millets are drought-tolerant crops that can survive in low rainfall conditions and can be stored for 2-3 years.",
-    options: ["A is true but R is false under standard field conditions", "A is false but R is true under standard field conditions", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
+    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-102 notes: Minor millets are staple food for tribal people in drought areas. They are drought-tolerant and storable for 2-3 years. Both A and R are true."
   },
@@ -2018,7 +2018,7 @@ export const da102LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Assertion (A): The SRI method of rice cultivation uses very low seed rate (2 kg/acre).\nReason (R): In SRI, young (15 days) single seedlings are transplanted with wide spacing, requiring much less seed than conventional methods.",
-    options: ["A is true but R is false under standard field conditions", "A is false but R is true under standard field conditions", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
+    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-102 notes: SRI uses only 2 kg/acre seed because young single seedlings are transplanted at wide spacing. Both A and R are true; R explains A."
   },
@@ -2028,7 +2028,7 @@ export const da102LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Assertion (A): Nursery/seedlings beyond 60 days should not be planted in rice.\nReason (R): Aged seedlings have reduced tillering capacity and transplanting shock is severe, leading to poor crop establishment.",
-    options: ["A is true but R is false under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true under standard field conditions"],
+    options: ["A is true but R is false", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true"],
     correct: 1,
     explanation: "As per DA-102 notes: Seedlings beyond 60 days should not be planted. Yield will be reduced with aged seedlings. Both A and R are true."
   },
@@ -2038,7 +2038,7 @@ export const da102LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Assertion (A): N and K are applied in four equal splits in rice.\nReason (R): Split application reduces nutrient loss through leaching and volatilization, ensuring nutrients are available at critical growth stages.",
-    options: ["A is true but R is false under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true under standard field conditions"],
+    options: ["A is true but R is false", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true"],
     correct: 1,
     explanation: "As per DA-102 notes: N and K are applied in four equal splits (basal, tillering, PI, heading) to match crop demand and reduce losses. Both A and R are true."
   },
@@ -2048,7 +2048,7 @@ export const da102LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "Assertion (A): Rice cultivation extends from 8°N to 35°N latitude in India.\nReason (R): Rice is adapted to widely varying conditions of altitude and climate, being grown from sea level up to 3000 metres.",
-    options: ["A is true but R is false under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true under standard field conditions"],
+    options: ["A is true but R is false", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true"],
     correct: 1,
     explanation: "As per DA-102 notes: Rice cultivation in India extends from 8° to 35°N latitude and from sea level to 3000 m altitude. Both A and R are true."
   },
@@ -2058,7 +2058,7 @@ export const da102LectureQuestions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "Assertion (A): Heavy clay soils are preferred for rice cultivation.\nReason (R): Rice requires good water retention in the soil due to its semi-aquatic nature and high water demand.",
-    options: ["A is true but R is false under standard field conditions", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true under standard field conditions"],
+    options: ["A is true but R is false", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true"],
     correct: 1,
     explanation: "As per DA-102 notes: Soils with good water retention (heavy soils with clay and organic matter) are ideal for rice due to its semi-aquatic nature. Both A and R are true."
   },
@@ -2068,7 +2068,7 @@ export const da102LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Assertion (A): MTU-1010 was replaced by Bathukamma in Rabi paddy cultivation in Telangana.\nReason (R): MTU-1010 has a grain shedding character at harvesting time during Rabi season, causing significant yield losses.",
-    options: ["A is true but R is false under standard field conditions", "A is false but R is true under standard field conditions", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
+    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-102 notes: Bathukamma (JGL 18047) was released as alternative to MTU-1010 because MTU-1010 has grain shedding character in Rabi. Both A and R are true."
   },
