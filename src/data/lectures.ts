@@ -46,7 +46,7 @@ export const DA102_LECTURES: Lecture[] = [
 export const DA111_LECTURES: Lecture[] = [
   lec("da-111", 1, "Floral Biology & Pollination", "Flower structure, types of pollination, self-pollination, cross-pollination, pollination agents"),
   lec("da-111", 2, "Modes of Reproduction", "Sexual, asexual, vegetative propagation, apomixis, importance in breeding"),
-  lec("da-111", 3, "Mendelian Genetics", "Laws of inheritance, monohybrid, dihybrid crosses, incomplete dominance, codominance"),
+  lec("da-111", 3, "Male Sterility & Self-Incompatibility", "Types of male sterility (GMS, CMS, CGMS), self-incompatibility, mechanisms promoting cross-pollination"),
   lec("da-111", 4, "Breeding Methods – Self-Pollinated Crops", "Introduction, selection, pure line selection, mass selection, pedigree method, bulk method"),
   lec("da-111", 5, "Breeding Methods – Cross-Pollinated Crops", "Mass selection, ear-to-row, recurrent selection, synthetic varieties, composite varieties"),
   lec("da-111", 6, "Hybridization & Heterosis", "Types of hybridization, hybrid vigor, methods of hybridization, F1 seed production, CMS"),

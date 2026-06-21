@@ -1,8 +1,5 @@
+// ===== FILE: da-111.ts =====
 import { Question } from "@/types";
-
-// DA-111: Basic Principles of Plant Breeding, Seed Production, Testing & Certification
-// 100 questions strictly from pdf_da111.txt (PJTSAU Diploma syllabus)
-// Answer distribution: Q1→0, Q2→2, Q3→1, Q4→3 repeating = 25 each A/B/C/D
 
 export const da111Questions: Question[] = [
   {
@@ -64,10 +61,10 @@ export const da111Questions: Question[] = [
   {
     id: "d111_008",
     subject: "da-111",
-    question: "The double helix structure of the DNA molecule was proposed by:",
-    options: ["Fraenkel-Conrat who proposed RNA structure", "Nirenberg and Khorana for nucleic acid code", "Hugo de Vries and Stadler in mutation work", "Watson and Crick in the year 1953"],
-    correct: 3,
-    explanation: "Watson and Crick (1953) proposed the double helix structure of the DNA molecule, which became the foundation of molecular genetics and modern plant breeding."
+    question: "The term 'mutation' was first coined (in 1900, while working on Oenothera lamarckiana) by:",
+    options: ["G.H. Shull", "Watson and Crick", "Hugo de Vries", "Gregor Mendel"],
+    correct: 2,
+    explanation: "The term mutation was coined by Hugo de Vries in 1900 while working on Oenothera lamarckiana (evening primrose); the word derives from the Latin 'mutare', to change."
   },
   {
     id: "d111_009",
@@ -805,8 +802,6 @@ export const da111Questions: Question[] = [
     correct: 1,
     explanation: "Seed should be compulsorily certified/truthful labelled. Grain has no such condition. Seed should be viable, have maximum genetic and physical purity, and should satisfy minimum seed certification standards."
   },
-
-  // ── BATCH 2: Additional 100 questions from PJTSAU DA-111 Theory Notes (Plant Breeding, Seed Production & Certification) ──
   {
     id: "d111x_003",
     subject: "da-111",
@@ -852,10 +847,10 @@ export const da111Questions: Question[] = [
     subject: "da-111",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "Watson and Crick proposed which structure in 1953?",
-    options: ["Chromosome theory", "Genetic code", "Double helix structure of DNA", "Pureline theory"],
+    question: "If all four whorls (calyx, corolla, androecium and gynoecium) are present, the flower is described as:",
+    options: ["Staminate", "Incomplete", "Complete", "Carpellate"],
     correct: 2,
-    explanation: "As per DA-111 notes: Watson and Crick (1953) proposed the double helix structure of the DNA molecule."
+    explanation: "If all four whorls are present the flower is complete; if any whorl is missing it is incomplete. A flower with both androecium and gynoecium is called perfect/hermaphrodite."
   },
   {
     id: "d111x_008",
@@ -1522,10 +1517,10 @@ export const da111Questions: Question[] = [
     subject: "da-111",
     lecture: "lecture-9",
     lectureNo: 9,
-    question: "Assertion (A): F1 hybrids show heterosis (hybrid vigor) in terms of yield and growth.\nReason (R): Heterosis occurs due to the combination of superior alleles from both parents and dominance/overdominance effects in the F1 generation.",
-    options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
-    correct: 2,
-    explanation: "As per DA-111 notes: F1 hybrids show heterosis due to combination of superior alleles and dominance effects. Both A and R are true; R explains A."
+    question: "Assertion (A): Self-incompatibility promotes cross-pollination in plants.\nReason (R): Self-incompatibility prevents self-pollination in bisexual flowers even though viable pollen is produced.",
+    options: ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"],
+    correct: 0,
+    explanation: "Self-incompatibility is the most effective method to promote cross-pollination by preventing self-pollination in bisexual flowers, even though the pollen grains are viable. Both A and R are true and R explains A."
   },
   {
     id: "d111x_076",
@@ -1632,10 +1627,10 @@ export const da111Questions: Question[] = [
     subject: "da-111",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "Match the scientists with their contributions:\n     Column-I (Scientist)        |  Column-II (Year)            |  Column-III (Contribution)\nA.  Gregor John Mendel           |  1.  1953                     |  i.   Double helix DNA\nB.  Watson and Crick             |  2.  1914                     |  ii.  Coined 'heterosis'\nC.  G.H. Shull                   |  3.  1850                     |  iii. Laws of inheritance\nD.  Hugo de Vries                |  4.  1900                     |  iv.  First used term mutation",
-    options: ["A-1-i,   B-2-ii,  C-3-iii,  D-4-iv", "A-3-iii, B-1-i,   C-2-ii,   D-4-iv", "A-4-iv,  B-3-iii, C-1-i,    D-2-ii", "A-2-ii,  B-4-iv,  C-1-i,    D-3-iii"],
-    correct: 1,
-    explanation: "As per DA-111 notes: Mendel (1850) - Laws of inheritance; Watson & Crick (1953) - Double helix DNA; G.H. Shull (1914) - Coined heterosis; Hugo de Vries (1900) - First used term mutation."
+    question: "Match the scientists with their contributions:\n     Column-I (Scientist)        |  Column-II (Year)            |  Column-III (Contribution)\nA.  Hugo de Vries                |  1.  1914                     |  i.   Rediscovery of laws of inheritance\nB.  G.H. Shull                   |  2.  1900                     |  ii.  Coined the term 'heterosis'\nC.  Mendel's laws                |  3.  1927                     |  iii. Coined the term 'mutation'\nD.  H.J. Muller                  |  4.  1900                     |  iv.  Induced mutations using X-rays",
+    options: ["A-2-iii, B-1-ii, C-4-i, D-3-iv", "A-1-ii, B-2-iii, C-3-i, D-4-iv", "A-4-i, B-3-ii, C-2-iii, D-1-iv", "A-3-iv, B-4-i, C-1-ii, D-2-iii"],
+    correct: 0,
+    explanation: "Hugo de Vries coined 'mutation' (1900); G.H. Shull coined 'heterosis' (1914); Mendel's laws of inheritance were rediscovered in 1900; H.J. Muller induced mutations using X-rays (1927)."
   },
   {
     id: "d111x_087",
@@ -1762,10 +1757,10 @@ export const da111Questions: Question[] = [
     subject: "da-111",
     lecture: "lecture-37",
     lectureNo: 37,
-    question: "Match the seed quality parameters with their importance:\n     Column-I (Parameter)        |  Column-II (Standard)        |  Column-III (Test used)\nA.  Germination (rice certified) |  1.  12% or below             |  i.   Hot air oven\nB.  Germination (wheat certified)|  2.  80% minimum              |  ii.  Blotter/sand germination\nC.  Moisture content (cereals)   |  3.  85% minimum              |  iii. Blotter/sand germination\nD.  Seed vigour                  |  4.  Not fixed, high preferred|  iv.  Accelerated aging test",
-    options: ["A-3-iii, B-2-ii,  C-1-i,   D-4-iv", "A-4-iv,  B-1-i,   C-3-iii,  D-2-ii", "A-1-i,   B-4-iv,  C-2-ii,  D-3-iii", "A-2-ii, B-3-iii,  C-1-i,   D-4-iv"],
-    correct: 3,
-    explanation: "As per DA-111 notes: Germination rice certified seed: 80% minimum; Germination wheat certified: 85% minimum; Moisture cereals: 12% or below (hot air oven); Seed vigour: accelerated aging test."
+    question: "The minimum germination standard prescribed for certified paddy (rice) seed is:",
+    options: ["95%", "50%", "80%", "30%"],
+    correct: 2,
+    explanation: "As per seed certification standards, the minimum germination for certified paddy/cereal seed is 80%, with a maximum moisture content limit for safe storage."
   },
   {
     id: "d111x_100",
@@ -1793,10 +1788,10 @@ export const da111Questions: Question[] = [
     subject: "da-111",
     lecture: "lecture-9",
     lectureNo: 9,
-    question: "A test cross in genetics (crossing a dominant-phenotype individual with a homozygous recessive parent) is used to:",
-    options: ["Produce large quantities of commercial hybrid seed for farmers", "Determine whether the dominant-phenotype individual is homozygous (AA) or heterozygous (Aa)", "Increase the overall heterozygosity of the entire breeding population", "Estimate the general combining ability (GCA) of selected inbred lines"],
-    correct: 1,
-    explanation: "A test cross (dominant phenotype × homozygous recessive aabb...) reveals the genotype of the dominant parent. If progeny ratio is 1:1 (dominant:recessive), the tested parent is heterozygous (Aa); if all progeny show dominant phenotype, the tested parent is homozygous (AA).",
+    question: "Seed moisture content for certification is most accurately determined by the:",
+    options: ["Blotter germination test", "Accelerated ageing test", "Hot air oven method", "Tetrazolium test"],
+    correct: 2,
+    explanation: "Seed moisture content is determined by the hot air oven method; the moisture must be reduced to the prescribed maximum for safe storage of the seed lot.",
     difficulty: "hard"
   },
   {

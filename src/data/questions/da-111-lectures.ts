@@ -2,7 +2,6 @@
 import { Question } from "@/types";
 
 export const da111LectureQuestions: Question[] = [
-  // ==================== LECTURE 1: Floral Biology & Pollination ====================
   {
     id: "d111l_001",
     subject: "da-111",
@@ -203,7 +202,6 @@ export const da111LectureQuestions: Question[] = [
     correct: 3,
     explanation: "In double fertilization, one sperm nucleus fuses with the egg cell (syngamy) to form the zygote, while the second sperm fuses with the two polar nuclei (triple fusion) to form the triploid (3n) primary endosperm nucleus."
   },
-  // ==================== LECTURE 2: Modes of Reproduction ====================
   {
     id: "d111l_021",
     subject: "da-111",
@@ -354,168 +352,166 @@ export const da111LectureQuestions: Question[] = [
     correct: 3,
     explanation: "Sexual reproduction generates genetic recombination, creating new allelic combinations that can be selected by breeders for improved traits. This genetic variability is the raw material for plant breeding."
   },
-  // ==================== LECTURE 3: Mendelian Genetics ====================
   {
     id: "d111l_036",
     subject: "da-111",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Mendel's Law of Segregation states that during gamete formation:",
-    options: ["Genes on the same chromosome always segregate together for crop production", "Dominant alleles always suppress recessive alleles in F2 in agriculture", "Alleles of two different genes assort independently", "The two alleles of a gene separate and go to different gametes"],
-    correct: 3,
-    explanation: "Mendel's Law of Segregation (First Law) states that each individual has two alleles for each trait and these alleles separate (segregate) during gamete formation so each gamete carries only one allele."
+    question: "Male sterility is characterized by:",
+    options: ["Both male and female gametes being non-functional", "Non-functional female gametes, while pollen is viable", "Non-functional pollen grains, while female gametes function normally", "Absence of flowers altogether"],
+    correct: 2,
+    explanation: "Male sterility is characterized by non-functional pollen grains, while the female gametes function normally. It occurs sporadically in nature."
   },
   {
     id: "d111l_037",
     subject: "da-111",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "In a monohybrid cross (Tt × Tt), the phenotypic ratio in F2 is:",
-    options: ["1 Tall : 1 Dwarf without any intermediate type", "All tall with no dwarf plants appearing", "3 Tall : 1 Dwarf (3:1)", "1 Tall : 2 Medium : 1 Dwarf (1:2:1)"],
+    question: "The three basic kinds of male sterility based on the origin of the abnormality are true, functional and:",
+    options: ["Hybrid", "Permanent", "Induced", "Maternal"],
     correct: 2,
-    explanation: "In a monohybrid cross Tt × Tt, the F2 genotypic ratio is 1 TT : 2 Tt : 1 tt, but the phenotypic ratio is 3 Tall (T_) : 1 Dwarf (tt) because T is dominant over t."
+    explanation: "Based on the origin of the abnormality, the three basic kinds are true male sterility, functional male sterility and induced male sterility (induced by chemicals by breeders)."
   },
   {
     id: "d111l_038",
     subject: "da-111",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "The Law of Independent Assortment (Mendel's Second Law) applies when two genes:",
-    options: ["Are located on different (non-homologous) chromosomes", "Show incomplete dominance where neither masks the other", "Are multiple alleles of the same gene locus", "Are located very close together on the same chromosome"],
-    correct: 0,
-    explanation: "Mendel's Law of Independent Assortment states that genes located on different (non-homologous) chromosomes assort independently during gamete formation, producing a 9:3:3:1 ratio in F2 of a dihybrid cross."
+    question: "In which type of male sterility do the anthers fail to release their contents even though the pollen is fertile?",
+    options: ["Genetic male sterility", "Cytoplasmic male sterility", "Functional male sterility", "Induced male sterility"],
+    correct: 2,
+    explanation: "In functional male sterility the anthers fail to release their contents even though the pollen is fertile."
   },
   {
     id: "d111l_039",
     subject: "da-111",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "In a dihybrid cross (AaBb × AaBb), the expected F2 phenotypic ratio is:",
-    options: ["9:3:3:1 with four distinct phenotypic classes", "1:2:1 showing three phenotypic classes", "1:1:1:1 with four equal phenotypic classes", "3:1 with only two phenotypic classes appearing"],
-    correct: 0,
-    explanation: "A dihybrid cross AaBb × AaBb produces an F2 phenotypic ratio of 9 A_B_ : 3 A_bb : 3 aaB_ : 1 aabb, or 9:3:3:1, when genes assort independently and dominance is complete."
+    question: "True male sterility (conditioned by cytoplasmic/genetic factors) is classified into CMS, CGMS and:",
+    options: ["Induced male sterility", "Functional male sterility", "GMS (genetic male sterility)", "Mechanical male sterility"],
+    correct: 2,
+    explanation: "True male sterility is classified into cytoplasmic male sterility (CMS), cytoplasmic-genetic male sterility (CGMS) and genetic male sterility (GMS)."
   },
   {
     id: "d111l_040",
     subject: "da-111",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Incomplete dominance in a cross between red (RR) and white (rr) flowers produces F1 plants that are:",
-    options: ["Red and white in equal 1:1 proportion", "All white like the recessive parent", "All red like the dominant parent", "Pink (intermediate) between the two parents"],
-    correct: 3,
-    explanation: "Incomplete dominance occurs when neither allele is completely dominant. The F1 (Rr) shows an intermediate pink phenotype between red (RR) and white (rr). F2 shows 1 Red : 2 Pink : 1 White (1:2:1) phenotypic ratio."
+    question: "Genetic male sterility (GMS) is found in which crops?",
+    options: ["Cotton, jute, sugarcane only", "Wheat, bajra, sunflower only", "Tomato, barley, brinjal, paddy, soybean", "Mango, banana, citrus only"],
+    correct: 2,
+    explanation: "Genetic male sterility (GMS) examples include tomato, barley, brinjal, paddy and soybean; due to maintenance problems GMS is not widely used in crop improvement."
   },
   {
     id: "d111l_041",
     subject: "da-111",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Codominance differs from incomplete dominance in that codominant alleles:",
-    options: ["Completely suppress the effect of the other allele always", "Both express fully and simultaneously in the heterozygote", "Interact to produce a phenotype unlike either parent", "Produce an intermediate blended phenotype in heterozygotes"],
-    correct: 1,
-    explanation: "In codominance, both alleles are fully expressed simultaneously in the heterozygote with no blending. Example: AB blood group where both A and B antigens are present on red blood cells."
+    question: "TGMS, a type of environment-sensitive genic male sterility, is sensitive to:",
+    options: ["Light only", "Soil pH", "Temperature (thermosensitive)", "Humidity only"],
+    correct: 2,
+    explanation: "Environment-sensitive genic male sterility includes TGMS (thermosensitive, temperature) and PGMS (photosensitive, light), plus photo-thermo sensitive types."
   },
   {
     id: "d111l_042",
     subject: "da-111",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Epistasis differs from dominance in that epistasis involves interactions between:",
-    options: ["Environmental factors and a single gene determining phenotype", "Two alleles at the same gene locus in a diploid organism", "Genes on the same chromosome forming linkage groups", "Alleles at different loci where one gene masks another gene"],
-    correct: 3,
-    explanation: "Epistasis is an interaction between alleles at different gene loci where one gene (epistatic) masks or suppresses the expression of another gene (hypostatic). It modifies the standard 9:3:3:1 dihybrid ratio."
+    question: "PGMS (a type of environment-sensitive genic male sterility) is sensitive to:",
+    options: ["Wind speed", "Temperature", "Photoperiod / light", "Soil salinity"],
+    correct: 2,
+    explanation: "PGMS is photoperiod-sensitive (light) genic male sterility; TGMS is thermosensitive (temperature)."
   },
   {
     id: "d111l_043",
     subject: "da-111",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Duplicate dominant epistasis produces an F2 ratio of:",
-    options: ["12 : 3 : 1 in three phenotypic classes", "15 dominant phenotype : 1 double recessive", "9 : 7 where recessive epistasis masks expression", "9 : 6 : 1 in three phenotypic classes"],
-    correct: 1,
-    explanation: "Duplicate dominant epistasis (A_B_ + A_bb + aaB_ : aabb) produces a 15:1 F2 ratio. If at least one dominant allele at either locus produces the same phenotype, only double recessives show the alternative phenotype."
+    question: "Cytoplasmic-genetic male sterility (CGMS) is utilised in which crops?",
+    options: ["Only mango and guava", "Only onion and garlic", "Bajra, maize, wheat, paddy, jowar and sunflower", "Only sugarcane and cotton"],
+    correct: 2,
+    explanation: "CGMS examples include bajra, carrot, chillies, maize, wheat, paddy, jowar and sunflower."
   },
   {
     id: "d111l_044",
     subject: "da-111",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Recessive epistasis (9:3:4) occurs when:",
-    options: ["Homozygous dominant at one locus suppresses the other gene", "One gene shows codominance while the other shows dominance", "Both loci show incomplete dominance simultaneously", "The recessive homozygous condition at one locus is epistatic"],
-    correct: 3,
-    explanation: "Recessive epistasis occurs when the homozygous recessive condition (aa) at one locus suppresses the expression of alleles at the other locus. This gives a 9 A_B_ : 3 A_bb : 4 aa__ ratio in F2."
+    question: "In which crop is cytoplasmic male sterility (CMS) typically cited?",
+    options: ["Wheat", "Onion", "Paddy", "Soybean"],
+    correct: 1,
+    explanation: "Cytoplasmic male sterility is cited in onion; CMS is useful for hybrid seed in ornamentals or crops where a vegetative part is economic, but not where seed is the economic part."
   },
   {
     id: "d111l_045",
     subject: "da-111",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Mendel's Law of Dominance states that in a cross between two pure lines:",
-    options: ["F1 shows both traits separately in 1:1 ratio", "F1 shows blending of both parent traits equally", "F1 shows only the recessive parental trait", "F1 shows only the dominant parental trait"],
-    correct: 3,
-    explanation: "Mendel's Law of Dominance states that in a cross between two contrasting pure lines, F1 shows only one parental trait (dominant trait). The recessive trait is masked but not lost and reappears in F2."
+    question: "Why is CMS of no use in crop plants where the seed is the economic part?",
+    options: ["Because it increases the cost of seed", "Because it lowers germination", "Because the hybrid progeny would be male sterile", "Because the female gametes become sterile"],
+    correct: 2,
+    explanation: "In crops where seed is the economic part, CMS is of no use because the hybrid progeny would itself be male sterile (and thus not set seed)."
   },
   {
     id: "d111l_046",
     subject: "da-111",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "A testcross involves crossing an organism of unknown genotype with:",
-    options: ["A homozygous dominant individual to confirm dominance", "Its F1 sibling to determine heterozygosity level", "A homozygous recessive individual to reveal genotype", "An F2 plant to generate a 9:3:3:1 ratio in offspring"],
-    correct: 2,
-    explanation: "A testcross involves crossing an individual with an unknown genotype with a homozygous recessive individual (aabb). The offspring phenotypic ratios reveal whether the unknown parent was homozygous (all dominant offspring) or heterozygous (1:1 ratio)."
+    question: "In self-incompatible plants, the pollen grains are:",
+    options: ["Able to fertilise only the same flower", "Completely non-viable and transparent", "Unable to be produced at all", "Viable but fail to fertilise the same or another flower of the same plant"],
+    correct: 3,
+    explanation: "In self-incompatibility the flowers produce functional/viable pollen grains which fail to fertilise the same flower or any other flower of the same plant."
   },
   {
     id: "d111l_047",
     subject: "da-111",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Gregor Johann Mendel conducted his landmark genetics experiments using:",
-    options: ["Zea mays (maize) with different kernel colors and textures", "Oenothera lamarkiana (evening primrose) plants", "Pisum sativum (garden pea) with seven contrasting traits", "Drosophila melanogaster (fruit fly) with multiple characters"],
-    correct: 2,
-    explanation: "Mendel worked with Pisum sativum (garden pea) studying seven pairs of contrasting characters: seed shape, seed color, seed coat color, pod shape, pod color, flower position and plant height."
+    question: "Self-incompatibility, the most effective mechanism preventing self-pollination, is reported in nearly how many genera of plants?",
+    options: ["About 50 genera", "About 3000 genera", "About 10 genera", "About 300000 genera"],
+    correct: 1,
+    explanation: "Self-incompatibility is reported in nearly 3000 genera, including families like Leguminaceae, Rosaceae, Solanaceae, Compositae, Cruciferaceae and Graminae."
   },
   {
     id: "d111l_048",
     subject: "da-111",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Pleiotropy refers to a condition where a single gene controls:",
-    options: ["A single trait influenced by many different gene loci", "Quantitative traits with additive effects from many genes", "Multiple different phenotypic traits simultaneously", "Expression of genes on the same chromosome always"],
+    question: "Self-incompatibility is broadly of two types: homomorphic and:",
+    options: ["Functional", "Cytoplasmic", "Heteromorphic", "Induced"],
     correct: 2,
-    explanation: "Pleiotropy is the phenomenon where a single gene controls multiple phenotypic traits. Example: the gene for body color in Drosophila also affects wing length and other characters. Many disease-resistance genes in crops are pleiotropic."
+    explanation: "Self-incompatibility is of two types - homomorphic (gametophytic and sporophytic) and heteromorphic (distyly and tristyly)."
   },
   {
     id: "d111l_049",
     subject: "da-111",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Polygenic inheritance (quantitative traits) differs from Mendelian traits because:",
-    options: ["The trait shows only two or three discrete phenotypic classes", "The surrounding environment has no effect at all on phenotype expression", "Multiple genes each contributing a small additive effect control the trait", "Only a single gene controls the trait showing complete dominance"],
-    correct: 2,
-    explanation: "Polygenic (quantitative) traits are controlled by multiple genes each contributing a small additive effect, often influenced by environment. They show continuous variation (bell-curve distribution) rather than discrete Mendelian ratios. Examples: yield, height, oil content."
+    question: "Which is an example of gametophytic (homomorphic) self-incompatibility?",
+    options: ["Lythrum", "Brassica oleracea", "Primula", "Tomato, mango, tobacco"],
+    correct: 3,
+    explanation: "Gametophytic homomorphic self-incompatibility is seen in tomato, mango, tobacco, pear, peaches, etc.; sporophytic type is seen in Brassica oleracea, Brassica campestris and Cosmos."
   },
   {
     id: "d111l_050",
     subject: "da-111",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Heritability (h²) in the broad sense measures:",
-    options: ["The coefficient of variation of a trait across environments", "The proportion of phenotypic variance due to all genetic effects", "The fraction of phenotypic variation due to additive genetic effects only", "The proportion of variance due to environmental effects only"],
-    correct: 1,
-    explanation: "Broad-sense heritability (H²) = VG/VP (genetic variance / phenotypic variance). It measures the proportion of total phenotypic variation attributable to all genetic effects (additive, dominance and epistatic). Narrow-sense heritability uses only additive variance."
+    question: "Heteromorphic self-incompatibility involving two style lengths (e.g., in Primula) is called:",
+    options: ["Distyly", "Tristyly", "Sporophytic", "Gametophytic"],
+    correct: 0,
+    explanation: "Heteromorphic self-incompatibility is of two kinds: distyly (two style lengths, e.g. Primula) and tristyly (three, e.g. Lythrum and Linum)."
   },
   {
     id: "d111l_051",
     subject: "da-111",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Complementary gene interaction (9:7 ratio) occurs when:",
-    options: ["Both genes are on the same chromosome forming a linkage group", "One recessive gene masks the effect of the other gene locus", "Dominant alleles at both loci are needed to produce the trait", "A dominant allele at either locus alone can produce the trait"],
-    correct: 2,
-    explanation: "Complementary gene interaction gives a 9:7 F2 ratio where dominant alleles at both loci (A_B_) are required to produce one phenotype. Plants with recessive homozygous condition at either or both loci show the alternative phenotype. Example: flower color in sweet pea."
+    question: "A major use of male sterility / self-incompatibility in plant breeding is that it:",
+    options: ["Increases the seed moisture content", "Avoids hand emasculation during hybrid seed production", "Eliminates the need for isolation distance", "Removes the need for any pollination"],
+    correct: 1,
+    explanation: "Male sterility and self-incompatibility allow hand emasculation to be avoided and are useful in double-cross hybrid production."
   },
-  // ==================== LECTURE 4: Breeding Self-Pollinated Crops ====================
   {
     id: "d111l_052",
     subject: "da-111",
@@ -656,7 +652,6 @@ export const da111LectureQuestions: Question[] = [
     correct: 0,
     explanation: "Emasculation involves removing anthers from the flower designated as the female parent before pollen sheds, to prevent self-pollination. In self-pollinated crops this is necessary to ensure the cross is made with desired male parent's pollen."
   },
-  // ==================== LECTURE 5: Breeding Cross-Pollinated Crops ====================
   {
     id: "d111l_066",
     subject: "da-111",
@@ -807,7 +802,6 @@ export const da111LectureQuestions: Question[] = [
     correct: 3,
     explanation: "Open-pollinated varieties are maintained by growing in isolation (to prevent contamination from other varieties) and allowing natural random cross-pollination among plants of the same variety. Seeds are harvested and used for the next crop."
   },
-  // ==================== LECTURE 6: Hybridization & Heterosis ====================
   {
     id: "d111l_081",
     subject: "da-111",
@@ -833,10 +827,10 @@ export const da111LectureQuestions: Question[] = [
     subject: "da-111",
     lecture: "lecture-6",
     lectureNo: 6,
-    question: "The dominance hypothesis of heterosis proposes that hybrid vigor results from:",
-    options: ["Overdominance where heterozygous state is superior to either homozygote", "Complementation of dominant alleles from each parent masking deleterious recessives", "Greater metabolic efficiency due to increased enzyme activity in hybrids", "Epistatic interactions between non-allelic genes in the hybrid genome"],
-    correct: 1,
-    explanation: "The dominance hypothesis states that heterosis occurs because dominant alleles from each parent complement (mask) the deleterious recessive alleles of the other parent. The F1 hybrid benefits from both parents' dominant alleles at most loci."
+    question: "The term 'heterosis' was first used by:",
+    options: ["Hugo de Vries in 1900", "Gregor Mendel in 1865", "G.H. Shull in 1914", "Charles Darwin in 1859"],
+    correct: 2,
+    explanation: "The term heterosis was first used by G.H. Shull in 1914. Heterosis is the superiority of the F1 hybrid over its parents in vigour, size, growth rate or yield."
   },
   {
     id: "d111l_084",
@@ -933,10 +927,10 @@ export const da111LectureQuestions: Question[] = [
     subject: "da-111",
     lecture: "lecture-6",
     lectureNo: 6,
-    question: "The overdominance hypothesis of heterosis proposes that:",
-    options: ["Non-allelic gene interactions (epistasis) cause superior F1 performance", "The heterozygous state (Aa) is inherently superior to both AA and aa", "Dominant alleles from parents complement each other in F1 hybrid", "Environmental factors interact with hybrid genotype to boost yield"],
-    correct: 1,
-    explanation: "The overdominance hypothesis proposes that the heterozygous state at a locus (Aa) is inherently superior to either homozygous state (AA or aa). This is also called single-locus heterosis. Shull and East originally proposed this hypothesis."
+    question: "'Hybrid vigour' is best described as:",
+    options: ["A reduction in chromosome number", "The loss of vigour on selfing", "The fixation of recessive traits", "The superiority of hybrids over their parents"],
+    correct: 3,
+    explanation: "Hybrid vigour describes only the superiority of hybrids over their parents, whereas heterosis is a broader term; most cases of heterosis are cases of hybrid vigour."
   },
   {
     id: "d111l_094",
@@ -958,7 +952,6 @@ export const da111LectureQuestions: Question[] = [
     correct: 0,
     explanation: "In maize hybrid seed production, a 4:1 ratio (four female rows: one male row) is commonly used. Some programs use 3:1 or 4:2. This ratio ensures sufficient pollen supply from male rows while maximizing the area harvested as hybrid seed from female rows."
   },
-  // ==================== LECTURE 7: Mutation & Polyploidy Breeding ====================
   {
     id: "d111l_096",
     subject: "da-111",
@@ -1104,12 +1097,11 @@ export const da111LectureQuestions: Question[] = [
     subject: "da-111",
     lecture: "lecture-7",
     lectureNo: 7,
-    question: "The gamma ray source most commonly used for mutation breeding in plant materials is:",
-    options: ["Cobalt-60 or Cesium-137 installed in gamma chambers", "Uranium-235 found in nuclear reactors and power plants", "Radium-226 used in early radiation experiments worldwide", "Polonium-210 used for alpha particle emission in research"],
+    question: "The ionising physical mutagens used in mutation breeding are:",
+    options: ["X-rays, beta rays and gamma rays", "Ultraviolet rays only", "Colchicine and EMS", "Visible light and infrared rays"],
     correct: 0,
-    explanation: "Cobalt-60 (⁶⁰Co) and Cesium-137 (¹³⁷Cs) are the standard gamma ray sources used in gamma chambers for plant mutation breeding. They emit high-energy gamma rays that penetrate plant tissue and cause DNA damage leading to mutations."
+    explanation: "Physical mutagens are ionising radiations (X-rays, beta rays, gamma rays) and non-ionising radiations (ultraviolet rays). Chemical mutagens include colchicine, formaldehyde, EMS and maleic hydrazide."
   },
-  // ==================== LECTURE 8: Seed Production Principles ====================
   {
     id: "d111l_111",
     subject: "da-111",
@@ -1260,7 +1252,6 @@ export const da111LectureQuestions: Question[] = [
     correct: 0,
     explanation: "Long-term seed storage requires 6-8% moisture content. Short-term storage uses 10-13% moisture. Lower moisture content slows down seed metabolic processes, reduces respiration and prevents fungal growth, extending seed viability."
   },
-  // ==================== LECTURE 9: Seed Testing & Quality ====================
   {
     id: "d111l_126",
     subject: "da-111",
@@ -1411,7 +1402,6 @@ export const da111LectureQuestions: Question[] = [
     correct: 3,
     explanation: "The Electrical Conductivity test measures the leakage of electrolytes (ions) from seeds soaked in distilled water. Low vigour seeds have damaged membranes that leak more electrolytes, resulting in higher electrical conductivity of the soak water. High EC = low vigour."
   },
-  // ==================== LECTURE 10: Seed Certification & Laws ====================
   {
     id: "d111l_141",
     subject: "da-111",
@@ -1532,8 +1522,6 @@ export const da111LectureQuestions: Question[] = [
     correct: 3,
     explanation: "Seed must be compulsorily certified or truthfully labelled to meet minimum quality standards, while grain has no such requirement. Seed must also be viable with maximum genetic and physical purity, and must satisfy minimum seed certification standards."
   },
-
-  // ── BATCH 2: Additional 100 questions from PJTSAU DA-111 Theory Notes (Plant Breeding, Seed Production & Certification) ──
   {
     id: "d111x_001",
     subject: "da-111",
@@ -1599,10 +1587,10 @@ export const da111LectureQuestions: Question[] = [
     subject: "da-111",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "Watson and Crick proposed which structure in 1953?",
-    options: ["Genetic code", "Double helix structure of DNA", "Pureline theory", "Chromosome theory"],
+    question: "If all four whorls (calyx, corolla, androecium and gynoecium) are present, the flower is described as:",
+    options: ["Incomplete", "Complete", "Staminate", "Carpellate"],
     correct: 1,
-    explanation: "As per DA-111 notes: Watson and Crick (1953) proposed the double helix structure of the DNA molecule."
+    explanation: "If all four whorls are present the flower is complete; if any whorl is missing it is incomplete. A flower with both androecium and gynoecium is called perfect/hermaphrodite."
   },
   {
     id: "d111x_008",
@@ -2279,10 +2267,10 @@ export const da111LectureQuestions: Question[] = [
     subject: "da-111",
     lecture: "lecture-9",
     lectureNo: 9,
-    question: "Assertion (A): F1 hybrids show heterosis (hybrid vigor) in terms of yield and growth.\nReason (R): Heterosis occurs due to the combination of superior alleles from both parents and dominance/overdominance effects in the F1 generation.",
-    options: ["A is true but R is false", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true"],
-    correct: 1,
-    explanation: "As per DA-111 notes: F1 hybrids show heterosis due to combination of superior alleles and dominance effects. Both A and R are true; R explains A."
+    question: "Assertion (A): Self-incompatibility promotes cross-pollination in plants.\nReason (R): Self-incompatibility prevents self-pollination in bisexual flowers even though viable pollen is produced.",
+    options: ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"],
+    correct: 0,
+    explanation: "Self-incompatibility is the most effective method to promote cross-pollination by preventing self-pollination in bisexual flowers, even though the pollen grains are viable. Both A and R are true and R explains A."
   },
   {
     id: "d111x_076",
@@ -2389,10 +2377,10 @@ export const da111LectureQuestions: Question[] = [
     subject: "da-111",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "Match the scientists with their contributions:\n     Column-I (Scientist)        |  Column-II (Year)            |  Column-III (Contribution)\nA.  Gregor John Mendel           |  1.  1953                     |  i.   Double helix DNA\nB.  Watson and Crick             |  2.  1914                     |  ii.  Coined 'heterosis'\nC.  G.H. Shull                   |  3.  1850                     |  iii. Laws of inheritance\nD.  Hugo de Vries                |  4.  1900                     |  iv.  First used term mutation",
-    options: ["A-1-i,   B-2-ii,  C-3-iii,  D-4-iv", "A-3-iii, B-1-i,   C-2-ii,   D-4-iv", "A-2-ii,  B-4-iv,  C-1-i,    D-3-iii", "A-4-iv,  B-3-iii, C-1-i,    D-2-ii"],
-    correct: 1,
-    explanation: "As per DA-111 notes: Mendel (1850) - Laws of inheritance; Watson & Crick (1953) - Double helix DNA; G.H. Shull (1914) - Coined heterosis; Hugo de Vries (1900) - First used term mutation."
+    question: "Match the scientists with their contributions:\n     Column-I (Scientist)        |  Column-II (Year)            |  Column-III (Contribution)\nA.  Hugo de Vries                |  1.  1914                     |  i.   Rediscovery of laws of inheritance\nB.  G.H. Shull                   |  2.  1900                     |  ii.  Coined the term 'heterosis'\nC.  Mendel's laws                |  3.  1927                     |  iii. Coined the term 'mutation'\nD.  H.J. Muller                  |  4.  1900                     |  iv.  Induced mutations using X-rays",
+    options: ["A-2-iii, B-1-ii, C-4-i, D-3-iv", "A-1-ii, B-2-iii, C-3-i, D-4-iv", "A-4-i, B-3-ii, C-2-iii, D-1-iv", "A-3-iv, B-4-i, C-1-ii, D-2-iii"],
+    correct: 0,
+    explanation: "Hugo de Vries coined 'mutation' (1900); G.H. Shull coined 'heterosis' (1914); Mendel's laws of inheritance were rediscovered in 1900; H.J. Muller induced mutations using X-rays (1927)."
   },
   {
     id: "d111x_087",
@@ -2519,10 +2507,10 @@ export const da111LectureQuestions: Question[] = [
     subject: "da-111",
     lecture: "lecture-37",
     lectureNo: 37,
-    question: "Match the seed quality parameters with their importance:\n     Column-I (Parameter)        |  Column-II (Standard)        |  Column-III (Test used)\nA.  Germination (rice certified) |  1.  12% or below             |  i.   Hot air oven\nB.  Germination (wheat certified)|  2.  80% minimum              |  ii.  Blotter/sand germination\nC.  Moisture content (cereals)   |  3.  85% minimum              |  iii. Blotter/sand germination\nD.  Seed vigour                  |  4.  Not fixed, high preferred|  iv.  Accelerated aging test",
-    options: ["A-4-iv,  B-1-i,   C-3-iii,  D-2-ii", "A-3-iii, B-2-ii,  C-1-i,   D-4-iv", "A-2-ii, B-3-iii,  C-1-i,   D-4-iv", "A-1-i,   B-4-iv,  C-2-ii,  D-3-iii"],
+    question: "The minimum germination standard prescribed for certified paddy (rice) seed is:",
+    options: ["95%", "50%", "80%", "30%"],
     correct: 2,
-    explanation: "As per DA-111 notes: Germination rice certified seed: 80% minimum; Germination wheat certified: 85% minimum; Moisture cereals: 12% or below (hot air oven); Seed vigour: accelerated aging test."
+    explanation: "As per seed certification standards, the minimum germination for certified paddy/cereal seed is 80%, with a maximum moisture content limit for safe storage."
   },
   {
     id: "d111x_100",
@@ -2863,5 +2851,5 @@ export const da111LectureQuestions: Question[] = [
     options: ["15 per cent", "25 per cent", "30 per cent", "40 per cent"],
     correct: 0,
     explanation: "As per DA-111 notes (Lecture 21): If machines are used for harvesting, the seed moisture content should not be more than 15%, and mechanical damage to seed is generally low when moisture is below 20%."
-  }
+  },
 ];
