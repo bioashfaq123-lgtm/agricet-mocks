@@ -38,8 +38,8 @@ export const DA102_LECTURES: Lecture[] = [
   lec("da-102", 6, "Red Gram (Pigeonpea) Cultivation", "Origin, varieties, sowing, spacing, nutrient management, irrigation, harvest"),
   lec("da-102", 7, "Blackgram & Greengram Cultivation", "Importance, varieties, sowing, nutrient management, irrigation, harvest, uses"),
   lec("da-102", 8, "Soybean Cultivation", "Origin, climate, varieties, sowing, nutrition, irrigation, harvest, uses"),
-  lec("da-102", 9, "Sesamum & Castor (Kharif Oilseeds)", "Importance, varieties, sowing, nutrient management, irrigation, harvest"),
-  lec("da-102", 10, "Sunflower & Minor Kharif Crops", "Sunflower, foxtail millet, small millet cultivation details"),
+  lec("da-102", 9, "Cowpea & Horsegram (Kharif Pulses)", "Cowpea and horsegram: botany, importance, climate, soils, seed rate, season, cropping systems"),
+  lec("da-102", 10, "Finger Millet (Ragi) & Minor Millets", "Finger millet (ragi) and minor millets: importance, production, season, irrigation, yield, storage"),
 ];
 
 // ── DA-111: Plant Breeding & Seed Technology ─────────────────────────────────
