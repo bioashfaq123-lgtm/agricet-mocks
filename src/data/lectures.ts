@@ -121,7 +121,7 @@ export const DA151_LECTURES: Lecture[] = [
   lec("da-151", 5, "Secondary Tillage & Intercultivation", "Disc harrow, cultivator, rotavator, leveller, ridger – types and uses"),
   lec("da-151", 6, "Sowing & Planting Machinery", "Seed drill, zero-till drill, rice transplanter, dibbler, planter – types and adjustment"),
   lec("da-151", 7, "Plant Protection Equipment", "Knapsack sprayer, power sprayer, mist blower, dusters – calibration, maintenance"),
-  lec("da-151", 8, "Irrigation Equipment & Pumps", "Centrifugal pump, submersible pump, drip irrigation, sprinkler – components and efficiency"),
+  lec("da-151", 8, "Processing & Storage Machinery", "Decorticators, maize sheller, winnower, chaff cutter, sugarcane crusher, drying & LSU dryer, rice milling, godowns & silos"),
   lec("da-151", 9, "Harvesting & Threshing Machinery", "Reaper, combine harvester, thresher, paddy thresher – parts and operation"),
   lec("da-151", 10, "Farm Safety, Maintenance & Records", "Tractor safety rules, farm accidents, lubrication schedule, machinery records"),
 ];

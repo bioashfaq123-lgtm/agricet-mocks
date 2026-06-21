@@ -2,17 +2,15 @@
 import { Question } from "@/types";
 
 export const da151LectureQuestions: Question[] = [
-
-  // ── Lecture 1: Farm Power Sources ──────────────────────────────────────────
   {
     id: "d151l_001",
     subject: "da-151",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "One horsepower is equal to how many watts?",
-    options: ["550 watts", "746 watts", "1000 watts", "1341 watts"],
-    correct: 1,
-    explanation: "1 HP = 746 watts. This is the standard mechanical horsepower used in farm power calculations. Knowing this conversion is essential for comparing engine ratings."
+    question: "On an average, how much horse power does a man develop?",
+    options: ["About 0.5 hp", "About 1.0 hp", "About 5 hp", "About 0.1 hp"],
+    correct: 3,
+    explanation: "On an average a man develops nearly 0.1 horse power (hp); human power is the costliest form of farm power with very low efficiency."
   },
   {
     id: "d151l_002",
@@ -49,10 +47,10 @@ export const da151LectureQuestions: Question[] = [
     subject: "da-151",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "What is the approximate work capacity of a pair of bullocks in a day?",
-    options: ["4–5 ha/day", "2–3 ha/day", "1–1.5 ha/day", "0.5–0.75 ha/day"],
-    correct: 3,
-    explanation: "A pair of bullocks can plough about 0.5–0.75 ha per day under normal field conditions. This low output is one reason for mechanisation of Indian agriculture."
+    question: "The power developed by an average pair of bullocks for usual farm work is about:",
+    options: ["0.1 hp", "5 hp", "1 hp", "10 hp"],
+    correct: 2,
+    explanation: "The power developed by an average pair of bullocks is about 1 hp for usual farm work; the average force a bullock exerts is nearly one-tenth of its body weight."
   },
   {
     id: "d151l_006",
@@ -89,20 +87,20 @@ export const da151LectureQuestions: Question[] = [
     subject: "da-151",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "Which of the following power sources has the highest efficiency for converting input energy to useful mechanical work?",
-    options: ["Electric motor (85–95%)", "Diesel engine (32–38%)", "Steam engine (15–20%)", "Petrol engine (25–32%)"],
-    correct: 0,
-    explanation: "Electric motors are the most efficient prime movers, converting 85–95% of electrical energy to mechanical work. Diesel engines convert 32–38% and petrol engines 25–32%, while steam engines are the least efficient at 15–20%."
+    question: "The thermal efficiency of a diesel engine varies from:",
+    options: ["70 to 80 percent", "10 to 15 percent", "55 to 60 percent", "32 to 38 percent"],
+    correct: 3,
+    explanation: "The thermal efficiency of a diesel engine varies from 32 to 38 percent, while that of a petrol engine varies from 25 to 32 percent."
   },
   {
     id: "d151l_010",
     subject: "da-151",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "What is the relationship between 1 kW and HP?",
-    options: ["1 kW = 1.341 HP", "1 kW = 0.746 HP", "1 kW = 0.5 HP", "1 kW = 2.0 HP"],
-    correct: 0,
-    explanation: "1 kW = 1.341 HP (or equivalently 1 HP = 0.746 kW). This conversion is frequently tested: a 10 HP engine = 7.46 kW."
+    question: "The thermal efficiency of a petrol engine varies from:",
+    options: ["5 to 10 percent", "40 to 50 percent", "25 to 32 percent", "60 to 70 percent"],
+    correct: 2,
+    explanation: "The thermal efficiency of a petrol (spark ignition) engine varies from 25 to 32 percent, lower than the 32-38 percent of a diesel engine."
   },
   {
     id: "d151l_011",
@@ -119,10 +117,10 @@ export const da151LectureQuestions: Question[] = [
     subject: "da-151",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "Farm power availability in India (HP/ha) has increased significantly. What was the approximate value in 2022?",
-    options: ["4.0 kW/ha", "0.5 kW/ha", "1.5 kW/ha", "2.5 kW/ha"],
+    question: "Approximately what percentage of the total draft power used in world agriculture is still provided by animals?",
+    options: ["About 10%", "About 20%", "About 50%", "About 80%"],
     correct: 3,
-    explanation: "India's farm power availability increased from about 0.3 kW/ha in 1960–61 to approximately 2.5 kW/ha in recent years, reflecting rapid farm mechanisation. The target is 4 kW/ha."
+    explanation: "It is estimated that nearly 80% of the total draft power used in agriculture throughout the world is still provided by animals; India has the highest cattle population (22.68 crore)."
   },
   {
     id: "d151l_013",
@@ -164,8 +162,6 @@ export const da151LectureQuestions: Question[] = [
     correct: 1,
     explanation: "Virtually all farm tractors in India use High Speed Diesel (HSD) because diesel engines have higher thermal efficiency (32–38%), lower fuel cost per unit energy, and better torque at low RPM compared to petrol engines."
   },
-
-  // ── Lecture 2: Tractors – Types & Selection ─────────────────────────────────
   {
     id: "d151l_017",
     subject: "da-151",
@@ -221,10 +217,10 @@ export const da151LectureQuestions: Question[] = [
     subject: "da-151",
     lecture: "lecture-2",
     lectureNo: 2,
-    question: "The rated engine speed of a farm tractor engine is typically:",
-    options: ["500–800 RPM", "1200–1500 RPM", "3000–3600 RPM", "1800–2200 RPM"],
-    correct: 3,
-    explanation: "Farm tractor diesel engines have a rated (governed) speed of 1800–2200 RPM. At this speed, maximum rated power is developed. Governors prevent over-speeding beyond this rated speed."
+    question: "Based on the type of fuel/ignition used, IC engines are broadly classified as compression ignition and:",
+    options: ["Spark ignition engines", "External combustion engines", "Steam engines", "Gas turbine engines"],
+    correct: 0,
+    explanation: "IC engines are broadly classified into spark ignition engines (petrol/kerosene) and compression ignition engines (diesel)."
   },
   {
     id: "d151l_023",
@@ -326,8 +322,6 @@ export const da151LectureQuestions: Question[] = [
     correct: 1,
     explanation: "The governor automatically regulates fuel supply to maintain near-constant engine speed when load changes. Without a governor, the engine would overspeed when load decreases and stall when load increases."
   },
-
-  // ── Lecture 3: Tractor Engine & Systems ─────────────────────────────────────
   {
     id: "d151l_033",
     subject: "da-151",
@@ -488,8 +482,6 @@ export const da151LectureQuestions: Question[] = [
     correct: 0,
     explanation: "The tractor's hydraulic system uses an oil pump, control valve, and hydraulic cylinder to raise, lower and control the depth of mounted implements via the three-point linkage. It also powers some trailed equipment."
   },
-
-  // ── Lecture 4: Primary Tillage Implements ───────────────────────────────────
   {
     id: "d151l_049",
     subject: "da-151",
@@ -650,8 +642,6 @@ export const da151LectureQuestions: Question[] = [
     correct: 3,
     explanation: "The land side is a flat plate on the plough body that presses against the unploughed furrow wall, resisting the lateral (side) thrust created as soil is pushed against the mould board. It stabilises the plough during operation."
   },
-
-  // ── Lecture 5: Secondary Tillage & Intercultivation ─────────────────────────
   {
     id: "d151l_065",
     subject: "da-151",
@@ -812,8 +802,6 @@ export const da151LectureQuestions: Question[] = [
     correct: 1,
     explanation: "Earthing up (banking up) in sugarcane uses a ridger to build soil around the base of cane plants at 30–45 days. This supports tall stalks, covers applied fertiliser, suppresses weeds and improves drainage."
   },
-
-  // ── Lecture 6: Sowing & Planting Machinery ──────────────────────────────────
   {
     id: "d151l_081",
     subject: "da-151",
@@ -974,8 +962,6 @@ export const da151LectureQuestions: Question[] = [
     correct: 1,
     explanation: "A drum seeder consists of perforated plastic/metal drums that roll on the puddled field surface, depositing pre-germinated rice seeds through holes in rows 20–25 cm apart. It is simple, low-cost and suitable for small farms."
   },
-
-  // ── Lecture 7: Plant Protection Equipment ───────────────────────────────────
   {
     id: "d151l_097",
     subject: "da-151",
@@ -1136,170 +1122,166 @@ export const da151LectureQuestions: Question[] = [
     correct: 3,
     explanation: "Swath width is the effective width of crop covered per pass, equal to the number of nozzles × nozzle spacing. A boom with 12 nozzles at 50 cm spacing has a 6 m swath. It determines field capacity along with forward speed."
   },
-
-  // ── Lecture 8: Irrigation Equipment & Pumps ─────────────────────────────────
   {
     id: "d151l_113",
     subject: "da-151",
     lecture: "lecture-8",
     lectureNo: 8,
-    question: "The impeller of a centrifugal pump:",
-    options: ["Filters sediment from irrigation water in plant breeding", "Controls water flow rate at the outlet for crop improvement", "Rotates at high speed to impart velocity and centrifugal force to water", "Reciprocates to push water through valves in variety development"],
+    question: "Rice milling is the process of removing the husk and which layer to produce white rice?",
+    options: ["Aleurone starch core", "Endosperm", "Bran layer", "Pericarp wax"],
     correct: 2,
-    explanation: "The impeller is the rotating element of a centrifugal pump. It has vanes that spin at high speed, imparting velocity (kinetic energy) to water by centrifugal action. The diffuser/volute then converts velocity to pressure head."
+    explanation: "Rice milling removes the husk and the bran layer to produce white rice; removal of the husk is called deshelling and removal of bran is called whitening/polishing."
   },
   {
     id: "d151l_114",
     subject: "da-151",
     lecture: "lecture-8",
     lectureNo: 8,
-    question: "A submersible pump differs from a centrifugal pump in that it:",
-    options: ["Uses only wind energy in plant breeding according to plant breeding and genetics science principles", "Cannot pump more than 1 m3/hr according to plant breeding and genetics science principles", "Is installed below water level in the borewell; motor and pump are in one sealed unit", "Is installed at the surface; pump and motor are separate in variety development"],
-    correct: 2,
-    explanation: "A submersible pump has the motor and pump combined in one sealed, waterproof unit installed below the water surface in borewells/deepwells. Water cools the motor. This is preferred for borewells where the water table is deep."
+    question: "Which is the most efficient rice hulling machine?",
+    options: ["Stone grinder", "Steel huller", "Under-runner disc sheller", "Rubber roller huller"],
+    correct: 3,
+    explanation: "The rubber-roller huller is the most efficient hulling machine; two rubber rollers of the same diameter run at different speeds to remove the husk with minimum breakage."
   },
   {
     id: "d151l_115",
     subject: "da-151",
     lecture: "lecture-8",
     lectureNo: 8,
-    question: "Drip irrigation emitters deliver water at a flow rate of:",
-    options: ["2–8 litres/hour", "10–20 litres/hour", "50–100 litres/hour", "0.1–0.5 litres/hour"],
+    question: "The hulling efficiency of an under-runner disc sheller is about:",
+    options: ["85 to 90 percent", "40 to 50 percent", "60 to 65 percent", "99 to 100 percent"],
     correct: 0,
-    explanation: "Drip emitters (drippers) typically discharge 2–8 litres per hour (most commonly 4 L/hr) directly at the plant base. This slow, precise application minimises evaporation and maintains optimal soil moisture near the root zone."
+    explanation: "The under-runner disc sheller has a hulling efficiency of about 85-90%, producing a moderate amount of cracked or broken grain."
   },
   {
     id: "d151l_116",
     subject: "da-151",
     lecture: "lecture-8",
     lectureNo: 8,
-    question: "Sprinkler irrigation achieves a water use efficiency (WUE) of approximately:",
-    options: ["75–85%", "60–70%", "40–50%", "95–100%"],
-    correct: 0,
-    explanation: "Sprinkler irrigation has WUE of 75–85%, compared to 40–50% for surface (flood) irrigation and 90–95% for drip irrigation. Sprinklers reduce deep percolation and runoff losses compared to flood irrigation."
+    question: "The LSU continuous-flow grain dryer was developed at:",
+    options: ["IIT Kharagpur", "Punjab Agricultural University", "Louisiana State University, Baton Rouge (USA)", "University of Manila"],
+    correct: 2,
+    explanation: "The Louisiana State University (LSU) dryer is a continuous-flow mixing type grain dryer developed at Louisiana State University, Baton Rouge, USA in 1949; it is popular in India and the USA."
   },
   {
     id: "d151l_117",
     subject: "da-151",
     lecture: "lecture-8",
     lectureNo: 8,
-    question: "The hydraulic head (total head) a pump must overcome is the sum of:",
-    options: ["Suction head only in plant breeding according to plant breeding and genetics science principles", "Only pipe friction losses for crop improvement", "Suction lift + delivery head + friction losses + velocity head", "Delivery head minus suction head in variety development"],
-    correct: 2,
-    explanation: "Total head = static head (suction lift + delivery height) + friction head losses in pipes and fittings + velocity head (minor term). The pump must develop sufficient head to lift water from source to delivery point against all these resistances."
+    question: "Grain is harvested at 24-25% moisture but must be dried to which level for safe long-term storage?",
+    options: ["30 to 35 percent", "20 to 22 percent", "2 to 5 percent", "12 to 14 percent"],
+    correct: 3,
+    explanation: "Although grain is harvested at 24-25% moisture content, it must be dried to a safe moisture content of 12-14% for long-term storage without deterioration."
   },
   {
     id: "d151l_118",
     subject: "da-151",
     lecture: "lecture-8",
     lectureNo: 8,
-    question: "Cavitation in a centrifugal pump occurs when:",
-    options: ["The impeller speed is too low in variety development", "Too much water is available in plant breeding according to plant breeding and genetics science principles", "Water temperature is too cold according to plant breeding and genetics science principles", "Suction head is too high and water vaporises at the inlet, forming bubbles that implode"],
-    correct: 3,
-    explanation: "Cavitation occurs when suction lift is too high or suction line is obstructed, causing pressure at the impeller eye to fall below the vapour pressure of water. Vapour bubbles form and then implode violently, causing noise, vibration, and impeller damage."
+    question: "In thin-layer drying, the grain depth should not exceed:",
+    options: ["20 cm", "100 cm", "5 cm", "50 cm"],
+    correct: 0,
+    explanation: "In thin-layer drying the grain depth should not be more than 20 cm; if air must pass through more than 20 cm of grain, it is called deep-bed drying."
   },
   {
     id: "d151l_119",
     subject: "da-151",
     lecture: "lecture-8",
     lectureNo: 8,
-    question: "The maximum practical suction lift for a centrifugal pump at sea level is approximately:",
-    options: ["3 m", "15 m", "7–8 m", "25 m"],
+    question: "A maize sheller is used to:",
+    options: ["Cut fodder into small pieces", "Remove the husk from paddy", "Separate the grain (kernels) from the cobs", "Crush sugarcane for juice"],
     correct: 2,
-    explanation: "The theoretical maximum suction lift at sea level is 10.3 m (atmospheric pressure head). Practically, accounting for friction and vapour pressure, the safe maximum suction lift is 7–8 m. Beyond this, cavitation occurs."
+    explanation: "A maize sheller separates the grain (kernels) from the cobs; before shelling, the foliage is removed manually. Spring-type and cylinder-type shellers are used."
   },
   {
     id: "d151l_120",
     subject: "da-151",
     lecture: "lecture-8",
     lectureNo: 8,
-    question: "Micro-sprinklers (mini sprinklers) are best suited for:",
-    options: ["Large field crops like wheat in plant breeding", "Greenhouse cooling only for crop improvement", "Orchards and horticultural crops requiring targeted irrigation close to trees", "Paddy fields in variety development according to plant breeding and genetics science principles"],
-    correct: 2,
-    explanation: "Micro-sprinklers/mini sprinklers irrigate a small radius (1–3 m) around individual trees in orchards. They provide more uniform wetting than drip (covers wider area) but use less water than conventional sprinklers, ideal for fruit trees."
+    question: "The cylinder speed of a power-operated maize sheller is maintained at:",
+    options: ["60 to 120 rpm", "50 to 100 rpm", "1500 to 2000 rpm", "500 to 600 rpm"],
+    correct: 3,
+    explanation: "A power-operated maize sheller uses a 30-36 cm diameter cylinder of 80-100 cm length, with the cylinder speed maintained between 500-600 rpm."
   },
   {
     id: "d151l_121",
     subject: "da-151",
     lecture: "lecture-8",
     lectureNo: 8,
-    question: "Fertigation refers to:",
-    options: ["Soil testing before fertiliser application in plant breeding", "Applying fertilisers by broadcasting for crop improvement", "Fermenting organic matter for fertiliser in variety development", "Injecting soluble fertilisers into the irrigation system for simultaneous application with water"],
-    correct: 3,
-    explanation: "Fertigation is the application of water-soluble fertilisers through the drip or sprinkler irrigation system. It improves nutrient use efficiency (NUE) by placing nutrients precisely in the root zone at the right time, reducing losses."
+    question: "A groundnut decorticator is used to:",
+    options: ["Remove the kernels from the pods", "Separate grain from chaff", "Polish brown rice", "Dry the harvested grain"],
+    correct: 0,
+    explanation: "A groundnut decorticator is used to take out the groundnut kernels from the pods; it can be operated by a tractor PTO, an electric motor or a diesel engine."
   },
   {
     id: "d151l_122",
     subject: "da-151",
     lecture: "lecture-8",
     lectureNo: 8,
-    question: "The discharge of a centrifugal pump is expressed in:",
-    options: ["Litres per second (L/s) or cubic metres per hour (m³/hr)", "Kilograms per second in plant breeding", "Metres of head for crop improvement", "Kilowatts in variety development according to plant breeding and genetics science principles"],
-    correct: 0,
-    explanation: "Pump discharge (flow rate) is measured in litres per second (L/s), litres per minute (L/min) or m³/hour. Head is measured in metres. Power is in kilowatts. These three (flow rate, head, power) define pump performance."
+    question: "The capacity of the castor sheller-cum-winnower unit is about:",
+    options: ["2500 kg/hr", "25 kg/hr", "250 kg/hr", "10 kg/hr"],
+    correct: 2,
+    explanation: "The castor sheller-cum-winnower (with teakwood cylinder, concave, blower, sieve assembly and a 2 hp motor) has a capacity of about 250 kg/hr."
   },
   {
     id: "d151l_123",
     subject: "da-151",
     lecture: "lecture-8",
     lectureNo: 8,
-    question: "A pumpset for flood irrigation of paddy typically requires:",
-    options: ["Low head, high discharge", "High head, low discharge", "Very low head, very low discharge", "High head, high discharge"],
-    correct: 0,
-    explanation: "Paddy (surface) irrigation needs large volumes of water at low delivery height (low total head). Therefore a high-discharge, low-head centrifugal pump (axial or mixed flow type) is suitable. Deep borewell irrigation needs high head, moderate discharge."
+    question: "Winnowing is the process of separating:",
+    options: ["Oil from seed", "Husk from bran", "Kernels from pods", "Quality grain from chaff"],
+    correct: 3,
+    explanation: "Winnowing is the process of separating quality grains from the chaff, using wind or a winnowing fan; it is effective only when there is wind or an air blast."
   },
   {
     id: "d151l_124",
     subject: "da-151",
     lecture: "lecture-8",
     lectureNo: 8,
-    question: "The application rate of a sprinkler system must be less than:",
-    options: ["The wind speed in plant breeding", "The crop evapotranspiration rate for crop improvement", "The atmospheric humidity in variety development", "The soil's basic infiltration rate (to avoid runoff and ponding)"],
-    correct: 3,
-    explanation: "The sprinkler application rate (mm/hr) must not exceed the soil's steady-state (basic) infiltration rate. If application is faster than infiltration, water ponds on the surface, causes runoff and erosion, and reduces efficiency."
+    question: "In a flywheel-type chaff cutter, the number of knives varies from:",
+    options: ["Two to six", "Eight to ten", "One only", "Twelve to fifteen"],
+    correct: 0,
+    explanation: "In a flywheel-type chaff cutter the number of knives varies from two to six depending on the type of cutter and size of chaff; hand-operated cutters have only two knives."
   },
   {
     id: "d151l_125",
     subject: "da-151",
     lecture: "lecture-8",
     lectureNo: 8,
-    question: "Which pump type is most suitable for lifting water from deep borewells (>50 m)?",
-    options: ["Axial flow pump", "Centrifugal (surface) pump", "Submersible pump", "Reciprocating hand pump"],
+    question: "The length of cut of silage produced by a chaff cutter varies from:",
+    options: ["100 to 150 mm", "1 to 2 mm", "20 to 40 mm", "60 to 80 cm"],
     correct: 2,
-    explanation: "Submersible pumps are designed for deep borewells. They are installed below the water surface in the borewell and can lift water from depths of 50–300+ m. Surface centrifugal pumps are impractical for depths beyond 7–8 m (suction limit)."
+    explanation: "The length of cut of silage varies from 20-40 mm and that of green fodder from 25-50 mm; it can be changed by altering the feed-roller speed or number of knives."
   },
   {
     id: "d151l_126",
     subject: "da-151",
     lecture: "lecture-8",
     lectureNo: 8,
-    question: "A filter in a drip irrigation system is essential to:",
-    options: ["Increase water pressure in plant breeding", "Add fertiliser to the water for crop improvement", "Prevent clogging of emitters by removing suspended particles and algae", "Control timing of irrigation in variety development"],
-    correct: 2,
-    explanation: "Drip emitters have very small openings (0.5–1.5 mm) that clog easily with sand, silt, algae and mineral deposits. Screen, disc or sand media filters are mandatory to remove particles >130 µm before the water enters the lateral lines."
+    question: "The Morai type storage structure (shaped like an inverted cone) is used to store:",
+    options: ["Cotton lint", "Only liquid milk", "Vegetables and fruits", "Paddy, maize and sorghum"],
+    correct: 3,
+    explanation: "The Morai type structure, shaped like an inverted cone with a capacity of 3.5-18 tonnes, is used for storing paddy, maize and sorghum (jowar) in rural eastern and southern India."
   },
   {
     id: "d151l_127",
     subject: "da-151",
     lecture: "lecture-8",
     lectureNo: 8,
-    question: "The uniformity coefficient of a sprinkler/drip system indicates:",
-    options: ["The energy efficiency of the pump motor", "The chemical quality of irrigation water", "How evenly water is distributed across the field", "How uniform the water pressure is in the pump"],
-    correct: 2,
-    explanation: "The distribution uniformity coefficient (DU) or Christiansen's uniformity coefficient (CU) measures how evenly water is applied across the irrigated area. A CU > 80% is acceptable; > 90% is excellent. Low uniformity means some areas are over- or under-irrigated."
+    question: "The Kothar type grain storage structure has a capacity ranging from:",
+    options: ["9 to 35 tonnes", "1 to 2 tonnes", "100 to 200 tonnes", "0.5 to 1 tonne"],
+    correct: 0,
+    explanation: "The Kothar is a box-like wooden storage structure raised on pillars, with a capacity varying between 9 and 35 tonnes, used to store paddy, maize, sorghum and wheat."
   },
   {
     id: "d151l_128",
     subject: "da-151",
     lecture: "lecture-8",
     lectureNo: 8,
-    question: "An axial flow (propeller) pump is best suited for:",
-    options: ["Very low head, very high discharge (drainage, flood irrigation)", "Very high head, low discharge applications", "Deep borewell applications in plant breeding", "Sprinkler irrigation requiring 5–7 bar for crop improvement"],
-    correct: 0,
-    explanation: "Axial flow (propeller) pumps move large volumes of water at very low heads (1–5 m). They are ideal for drainage, flood irrigation, and pumping from rivers or canals where the static lift is very small but high flow rates are required."
+    question: "Rat-proofing cones are provided on the support pillars of grain storage structures in order to:",
+    options: ["Increase the storage capacity", "Prevent rats from entering the storage structure", "Improve air circulation", "Support the conical roof"],
+    correct: 1,
+    explanation: "Rat-proofing cones are placed on the support pillars (Bukhari, Kothar etc.) raised about 1.5 m above ground to prevent rats from entering the storage structure."
   },
-
-  // ── Lecture 9: Harvesting & Threshing Machinery ─────────────────────────────
   {
     id: "d151l_129",
     subject: "da-151",
@@ -1460,8 +1442,6 @@ export const da151LectureQuestions: Question[] = [
     correct: 3,
     explanation: "The straw chopper attachment behind the straw walkers of a combine chops the straw into short pieces and spreads it uniformly across the field width. This facilitates faster decomposition, acts as mulch, and improves organic matter over time."
   },
-
-  // ── Lecture 10: Farm Safety & Maintenance ───────────────────────────────────
   {
     id: "d151l_145",
     subject: "da-151",
@@ -1592,10 +1572,6 @@ export const da151LectureQuestions: Question[] = [
     correct: 3,
     explanation: "Long-term storage winterisation includes: draining and replacing engine oil, adding antifreeze to the cooling system, lubing all grease points, protecting exposed metal with rust preventive, disconnecting/charging the battery and storing under a protective cover."
   },
-
-
-
-  // ── BATCH 2: Additional 100 questions from PJTSAU DA-151 Theory Notes ──
   {
     id: "d151x_001",
     subject: "da-151",
@@ -2685,5 +2661,5 @@ export const da151LectureQuestions: Question[] = [
     options: ["Two stroke cycle engine", "Four stroke cycle engine", "Diesel four stroke engine", "External combustion engine"],
     correct: 0,
     explanation: "As per DA-151 notes: When the cycle is completed in one revolution of the crankshaft it is called a two stroke cycle engine."
-  }
+  },
 ];
