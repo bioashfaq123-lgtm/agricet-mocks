@@ -30,10 +30,10 @@ export const da101LectureQuestions: Question[] = [
     subject: "da-101",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "Who is known as the 'Father of Agronomy'?",
-    options: ["Justus von Liebig under normal field conditions", "M.S. Swaminathan", "Norman Borlaug", "Pietro de'Crescenzi"],
-    correct: 3,
-    explanation: "Pietro de'Crescenzi of Italy (1230–1320 AD) is regarded as the Father of Agronomy for his systematic work on crop production."
+    question: "Agriculture may be defined as the art, the science and the business of producing crops and livestock for:",
+    options: ["Export to foreign markets only", "Man’s use and employment", "Industrial raw material only", "Soil conservation alone"],
+    correct: 1,
+    explanation: "Source defines agriculture as the art, science and business of producing crops and livestock for man’s use and employment."
   },
   {
     id: "d101l_004",
@@ -110,10 +110,10 @@ export const da101LectureQuestions: Question[] = [
     subject: "da-101",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "Who is called the 'Father of Indian Agriculture'?",
-    options: ["Norman Borlaug as recommended in agronomic practice", "N.G. Ranga", "M.S. Swaminathan", "B.P. Pal"],
+    question: "Among the factors influencing agriculture, which one is beyond the control of man?",
+    options: ["Soil", "Irrigation", "Climate", "Manuring"],
     correct: 2,
-    explanation: "Dr. M.S. Swaminathan is widely called the Father of Indian Agriculture due to his transformative contributions to Indian farming."
+    explanation: "Some factors influencing agriculture can be controlled by man (soil, irrigation) while others such as climate are beyond his control."
   },
   {
     id: "d101l_012",
@@ -160,10 +160,10 @@ export const da101LectureQuestions: Question[] = [
     subject: "da-101",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "Who is known as the 'Father of Soil Science'?",
-    options: ["M.S. Swaminathan", "Justus von Liebig", "Dokuchaev", "C.F. Marbut"],
-    correct: 2,
-    explanation: "V.V. Dokuchaev, a Russian scientist, is known as the Father of Soil Science for his pioneering work on pedology."
+    question: "Agronomy is described as a synthesis of several disciplines. Which of these is one of them?",
+    options: ["Veterinary medicine", "Crop physiology", "Mechanical engineering", "Civil construction"],
+    correct: 1,
+    explanation: "Agronomy is a synthesis of several disciplines like soil science, agricultural chemistry, crop physiology, plant ecology, biochemistry and economics."
   },
   {
     id: "d101l_017",
@@ -448,10 +448,10 @@ export const da101LectureQuestions: Question[] = [
     subject: "da-101",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Deep ploughing (subsoiling) is recommended for:",
-    options: ["Controlling weeds between rows", "Incorporating surface-applied fertilizers for line-sown kharif crops", "Preparing a fine seedbed for small seeds", "Breaking the hardpan and improving root penetration"],
-    correct: 3,
-    explanation: "Subsoiling breaks the hardpan below tillage depth, improving root penetration, water infiltration, and drainage in compact soils."
+    question: "Deep ploughing or chiselling during land preparation has been found effective in:",
+    options: ["Reducing soil erosion", "Increasing weed-seed germination", "Raising the ground-water table", "Reducing soil organic matter"],
+    correct: 0,
+    explanation: "Land preparation including post-harvest tillage influences erosion; deep ploughing or chiselling has been found effective in reducing erosion."
   },
   {
     id: "d101l_045",
@@ -488,10 +488,10 @@ export const da101LectureQuestions: Question[] = [
     subject: "da-101",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "The optimum bulk density range for most crop soils is:",
-    options: ["0.5–0.8 g/cc", "1.1–1.3 g/cc", "1.6–1.8 g/cc", "2.0–2.2 g/cc"],
+    question: "Soils having a bulk density of less than 1.0 are considered as:",
+    options: ["Ideal soils for puddling", "Problem soils for puddling", "The most fertile soils", "Well-drained upland soils"],
     correct: 1,
-    explanation: "Most crops grow well in soils with bulk density of 1.1–1.3 g/cc. Above 1.6 g/cc, root penetration becomes difficult."
+    explanation: "Soils with bulk density less than 1.0 are considered as problem soils, as puddling with animal-drawn implements becomes difficult."
   },
 
   // ─────────────────────────────────────────────────────────────────────────────
@@ -666,10 +666,10 @@ export const da101LectureQuestions: Question[] = [
     subject: "da-101",
     lecture: "lecture-5",
     lectureNo: 5,
-    question: "The 'Law of Minimum' was given by:",
-    options: ["C.G. Hopkins as recommended in agronomic practice", "Blackman", "J.B. Lawes", "Justus von Liebig"],
-    correct: 3,
-    explanation: "Justus von Liebig proposed the Law of Minimum – crop growth is limited by the nutrient in shortest supply relative to crop requirement."
+    question: "Top dressing of fertilizers is carried out as part of which group of farm operations?",
+    options: ["Primary tillage operations", "Intercultural operations", "Harvesting operations", "Seed-bed preparation"],
+    correct: 1,
+    explanation: "Intercultural operations include gap filling, thinning, weeding, mulching and top dressing of fertilizers."
   },
   {
     id: "d101l_066",
@@ -870,10 +870,10 @@ export const da101LectureQuestions: Question[] = [
     subject: "da-101",
     lecture: "lecture-6",
     lectureNo: 6,
-    question: "Cyperus rotundus (purple nutsedge / nutgrass) belongs to which weed category?",
-    options: ["Grass weeds", "Sedge weeds", "Broadleaf weeds", "Aquatic weeds"],
+    question: "Hay fever, asthma and skin allergy in humans are caused by which weed?",
+    options: ["Cyperus rotundus", "Parthenium hysterophorus", "Cynodon dactylon", "Echinochloa colona"],
     correct: 1,
-    explanation: "Cyperus rotundus (nutgrass / motha) is the most problematic sedge weed, belonging to family Cyperaceae. It is very difficult to control due to tubers."
+    explanation: "Weeds cause human health problems; allergy (hay fever, asthma) is caused by Parthenium hysterophorus."
   },
   {
     id: "d101l_086",
@@ -920,10 +920,10 @@ export const da101LectureQuestions: Question[] = [
     subject: "da-101",
     lecture: "lecture-6",
     lectureNo: 6,
-    question: "The most problematic aquatic weed in rice paddies of Telangana is:",
-    options: ["Cyperus difformis", "Ageratum conyzoides", "Parthenium", "Eichhornia crassipes (water hyacinth)"],
-    correct: 0,
-    explanation: "Cyperus difformis (flat sedge) and Echinochloa species are major paddy weeds, while Eichhornia clogs canals and reservoirs but Cyperus difformis is the key rice-paddy sedge."
+    question: "Of the total annual agricultural losses in India, weeds account for approximately:",
+    options: ["20 percent", "30 percent", "45 percent", "5 percent"],
+    correct: 2,
+    explanation: "Among the annual agricultural losses in India, weeds account for 45%, insects 30%, diseases 20% and others 5%."
   },
   {
     id: "d101l_091",
@@ -1074,10 +1074,10 @@ export const da101LectureQuestions: Question[] = [
     subject: "da-101",
     lecture: "lecture-7",
     lectureNo: 7,
-    question: "Micro-irrigation (drip and sprinkler) is promoted under which Government scheme in India?",
-    options: ["Pradhan Mantri Krishi Sinchayee Yojana (PMKSY)", "MGNREGS", "RKVY in agronomy", "PMFBY for crop production during the critical crop-growth stage"],
+    question: "The main drawback of the micro-irrigation (drip) system is:",
+    options: ["High initial cost of the system", "Very low water-use efficiency", "Heavy water-conveyance losses", "Unsuitability for uneven soils"],
     correct: 0,
-    explanation: "PMKSY (Pradhan Mantri Krishi Sinchayee Yojana) with 'Har Khet Ko Pani' and 'More Crop Per Drop' components promotes micro-irrigation across India."
+    explanation: "Micro-irrigation delivers water efficiently even on uneven soils without conveyance losses; its main drawback is the high initial cost of the system."
   },
 
   // ─────────────────────────────────────────────────────────────────────────────
@@ -1302,10 +1302,10 @@ export const da101LectureQuestions: Question[] = [
     subject: "da-101",
     lecture: "lecture-9",
     lectureNo: 9,
-    question: "The advantage of sole cropping is:",
-    options: ["Simpler management and easier mechanization", "Better resource use efficiency", "Higher LER than intercropping", "Better pest control through diversity under a cereal-legume rotation"],
-    correct: 0,
-    explanation: "Sole cropping (growing one crop per field) is simpler to manage, allows full mechanization, and makes pest/disease management uniform and straightforward."
+    question: "Growing more number of crops on the same piece of land to increase yield is the practice of:",
+    options: ["Sole cropping", "Intensive cropping", "Shifting cultivation", "Dry farming"],
+    correct: 1,
+    explanation: "As population pressure increases while cultivated area is static, more crops are grown on the same land; this is intensive cropping."
   },
   {
     id: "d101l_128",
@@ -1336,10 +1336,10 @@ export const da101LectureQuestions: Question[] = [
     subject: "da-101",
     lecture: "lecture-10",
     lectureNo: 10,
-    question: "The Harvest Index of modern high-yielding rice varieties is approximately:",
-    options: ["0.60–0.70", "0.35–0.50", "0.80–0.90", "0.2–0.3"],
-    correct: 1,
-    explanation: "Modern HYV rice has a Harvest Index of 0.35–0.50, compared to 0.20–0.30 for traditional tall varieties. This improved HI was key to Green Revolution gains."
+    question: "In India, the post-harvest losses of crops average up to approximately:",
+    options: ["10 percent", "45 percent", "30 percent", "60 percent"],
+    correct: 0,
+    explanation: "In India the total annual pre-harvest losses range from 10 to 100 percent, while the post-harvest losses average up to about 10 percent."
   },
   {
     id: "d101l_131",
@@ -1416,10 +1416,10 @@ export const da101LectureQuestions: Question[] = [
     subject: "da-101",
     lecture: "lecture-10",
     lectureNo: 10,
-    question: "Aflatoxin contamination in stored groundnut is caused by:",
-    options: ["Aspergillus flavus", "Rhizopus stolonifer", "Claviceps purpurea", "Fusarium moniliforme"],
-    correct: 0,
-    explanation: "Aspergillus flavus and A. parasiticus produce aflatoxins in stored groundnut, maize, and other grains, especially under high moisture (>14%) and temperature."
+    question: "Spraying of salt on harvested paddy is done in order to:",
+    options: ["Increase the grain weight", "Prevent germination/sprouting of the harvested produce", "Improve the grain colour", "Add nutritional value to grain"],
+    correct: 1,
+    explanation: "Spraying of salt on harvested paddy is done to prevent the germination or sprouting of the harvested produce."
   },
   {
     id: "d101l_139",
@@ -2088,10 +2088,10 @@ export const da101LectureQuestions: Question[] = [
     subject: "da-101",
     lecture: "lecture-20",
     lectureNo: 20,
-    question: "VAM (Vesicular Arbuscular Mycorrhizae) is a:",
-    options: ["Algal biofertiliser", "Bacterial biofertiliser for the prevailing crop season", "Fungal biofertiliser that helps in phosphorus uptake", "Chemical fertiliser"],
-    correct: 2,
-    explanation: "As per DA-101 notes: VAM is a fungal biofertiliser (mycorrhizal fungus) that forms association with plant roots and enhances phosphorus uptake."
+    question: "Green manure is generally applied to the field of which crop and incorporated by trampling/puddling?",
+    options: ["Wheat", "Rice", "Cotton", "Sorghum"],
+    correct: 1,
+    explanation: "Generally, green manure is applied to the rice field, which is incorporated into the soil by a green-manure trample during puddling."
   },
   {
     id: "d101x_068",

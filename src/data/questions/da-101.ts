@@ -1448,10 +1448,10 @@ export const da101Questions: Question[] = [
     subject: "da-101",
     lecture: "lecture-20",
     lectureNo: 20,
-    question: "VAM (Vesicular Arbuscular Mycorrhizae) is a:",
-    options: ["Chemical fertiliser", "Fungal biofertiliser that helps in phosphorus uptake", "Bacterial biofertiliser for the prevailing crop season", "Algal biofertiliser"],
+    question: "Green manure is generally applied to the field of which crop and incorporated by trampling/puddling?",
+    options: ["Wheat", "Rice", "Cotton", "Sorghum"],
     correct: 1,
-    explanation: "As per DA-101 notes: VAM is a fungal biofertiliser (mycorrhizal fungus) that forms association with plant roots and enhances phosphorus uptake."
+    explanation: "Generally, green manure is applied to the rice field, which is incorporated into the soil by a green-manure trample during puddling."
   },
   {
     id: "d101x_068",
