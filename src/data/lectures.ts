@@ -142,16 +142,16 @@ export const DA171_LECTURES: Lecture[] = [
 
 // ── DA-201: Crop Production-II (Rabi & Oilseeds) ────────────────────────────
 export const DA201_LECTURES: Lecture[] = [
-  lec("da-201", 1, "Wheat Cultivation", "Importance, varieties, sowing time, seed rate, nutrition, irrigation, harvest"),
-  lec("da-201", 2, "Chickpea & Lentil Cultivation", "Climate, varieties, sowing, nutrition, irrigation, harvest, uses"),
-  lec("da-201", 3, "Mustard & Rapeseed Cultivation", "Importance, varieties, sowing, spacing, nutrition, irrigation, harvest"),
-  lec("da-201", 4, "Sunflower (Rabi) & Safflower", "Climate, varieties, sowing, spacing, nutrition, irrigation, harvest"),
+  lec("da-201", 1, "Turmeric (Spice Crop)", "Botany, area & production, climate, seed rate, spacing, mulching, harvest, curing & varieties"),
+  lec("da-201", 2, "Chilli (Spice Crop)", "Botany, pungency & colour, climate, nursery, spacing, nutrition, pickings, varieties"),
+  lec("da-201", 3, "Coriander (Seed Spice)", "Botany, RARS Lam varieties, climate, soils, seed treatment, spacing, nutrition, harvest"),
+  lec("da-201", 4, "Sunflower & Safflower", "Climate, varieties, sowing, spacing, nutrition, irrigation, harvest"),
   lec("da-201", 5, "Castor Cultivation", "Importance, varieties, sowing, spacing, nutrition, irrigation, harvest"),
-  lec("da-201", 6, "Linseed & Minor Rabi Oilseeds", "Linseed, niger – cultivation details, importance"),
+  lec("da-201", 6, "Cotton (Fibre Crop)", "Species, origin, fibre quality & micronaire, delinting, climate, soils, seed treatment"),
   lec("da-201", 7, "Sugarcane Cultivation", "Importance, varieties, planting methods, nutrition, irrigation, harvest, by-products"),
-  lec("da-201", 8, "Fodder Crops", "Sorghum, maize, cowpea, Napier grass, berseem – cultivation for fodder"),
-  lec("da-201", 9, "Spices – Chilli, Coriander, Fenugreek", "Cultivation details, varieties, nutrition, harvest, post-harvest"),
-  lec("da-201", 10, "Plantation & Commercial Crops", "Tobacco cultivation details; minor plantation crops in Telangana"),
+  lec("da-201", 8, "Tobacco – Types & Operations", "Types of tobacco, climate, soils, topping & desuckering, FCV varieties"),
+  lec("da-201", 9, "Chilli & Coriander (Spices)", "Cultivation details, varieties, nutrition, harvest, post-harvest"),
+  lec("da-201", 10, "Tobacco – Cultivation & Curing", "Tobacco nursery, transplanting, curing methods, commercial aspects"),
 ];
 
 // ── DA-241: Agricultural Economics ──────────────────────────────────────────

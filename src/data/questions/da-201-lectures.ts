@@ -2,494 +2,486 @@
 import { Question } from "@/types";
 
 export const da201LectureQuestions: Question[] = [
-
-  // ── Lecture 1: Wheat Cultivation ────────────────────────────────────────────
   {
     id: "d201l_001",
     subject: "da-201",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "Which wheat variety is most widely cultivated in Telangana for its high yield potential?",
-    options: ["GW-496", "HD-2781", "PBW-343", "K-9107"],
-    correct: 1,
-    explanation: "HD-2781 (Raj 4120) is one of the most popular wheat varieties in Telangana and Andhra Pradesh, known for its high yield potential, rust resistance, and wide adaptability. GW-496 is Gujarat-specific."
+    question: "The botanical name of turmeric is:",
+    options: ["Curcuma longa", "Zingiber officinale", "Coriandrum sativum", "Capsicum annuum"],
+    correct: 0,
+    explanation: "Turmeric is botanically Curcuma longa, belonging to the family Zingiberaceae. It is an important spice grown in India since ancient times."
   },
   {
     id: "d201l_002",
     subject: "da-201",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "The recommended row spacing for wheat cultivation in India is:",
-    options: ["30 cm", "45 cm", "22.5 cm", "15 cm"],
-    correct: 2,
-    explanation: "Wheat is sown at 22.5 cm row spacing using a seed drill for good crop density and ease of intercultivation. Wider spacing reduces yield; narrower spacing causes lodging. This is the standard for all recommended packages."
+    question: "Turmeric belongs to which family?",
+    options: ["Zingiberaceae", "Apiaceae", "Solanaceae", "Malvaceae"],
+    correct: 0,
+    explanation: "Turmeric (Curcuma longa) belongs to the family Zingiberaceae (the ginger family)."
   },
   {
     id: "d201l_003",
     subject: "da-201",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "Recommended seed rate for timely sown wheat is:",
-    options: ["100 kg/ha", "150 kg/ha", "50 kg/ha", "75 kg/ha"],
-    correct: 0,
-    explanation: "The recommended seed rate for timely sown wheat (November) is 100 kg/ha. For late-sown wheat (December onwards), the seed rate is increased to 125 kg/ha to compensate for reduced tillering due to shorter growing period."
+    question: "Turmeric is commonly referred to as:",
+    options: ["King of spices", "Queen of oilseeds", "Indian saffron (Haldi)", "White gold"],
+    correct: 2,
+    explanation: "Turmeric is referred to as Indian saffron and is commonly called Haldi. India is the largest producer, consumer and exporter of turmeric in the world."
   },
   {
     id: "d201l_004",
     subject: "da-201",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "The recommended nitrogen dose for wheat cultivation is:",
-    options: ["180 kg N/ha", "120 kg N/ha", "60 kg N/ha", "90 kg N/ha"],
-    correct: 1,
-    explanation: "120 kg N/ha is recommended for irrigated wheat. N is applied in three splits: 50% as basal + 25% at CRI + 25% at jointing. Late-sown wheat gets 80 kg N/ha due to shorter crop duration."
+    question: "India contributes approximately what share of world turmeric production?",
+    options: ["80%", "60%", "40%", "25%"],
+    correct: 0,
+    explanation: "India dominates world turmeric production contributing about 80%, followed by China (8%), Myanmar (4%), Nigeria (3%) and Bangladesh (3%)."
   },
   {
     id: "d201l_005",
     subject: "da-201",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "The CRI (Crown Root Initiation) stage in wheat occurs at approximately:",
-    options: ["1–2 days after sowing", "45–50 days after sowing", "At heading stage", "20–21 days after sowing"],
-    correct: 3,
-    explanation: "CRI (Crown Root Initiation) stage occurs 20–21 days after sowing when the crown (nodal) roots begin to emerge. The first irrigation must be given at CRI stage as this is the most critical moisture-sensitive stage in wheat."
+    question: "The largest turmeric producing state in India is:",
+    options: ["Tamil Nadu", "Maharashtra", "Telangana", "Odisha"],
+    correct: 2,
+    explanation: "Telangana, with about 55,443 ha, is the largest turmeric growing state in India, followed by Odisha and Tamil Nadu."
   },
   {
     id: "d201l_006",
     subject: "da-201",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "How many irrigations are generally recommended for wheat cultivation in Telangana?",
-    options: ["2 irrigations", "6 irrigations", "8 irrigations", "4 irrigations"],
-    correct: 1,
-    explanation: "Six irrigations are recommended at: (1) CRI, (2) Tillering, (3) Jointing, (4) Flowering/Boot leaf, (5) Milky stage, (6) Dough stage. Critical stages are CRI and grain filling. Total water requirement is 450–500 mm."
+    question: "The largest turmeric growing district in Telangana is:",
+    options: ["Jagtial", "Nizamabad", "Warangal", "Nirmal"],
+    correct: 0,
+    explanation: "Jagtial (13,707 ha) is the major turmeric growing district in Telangana, closely followed by Nizamabad (13,549 ha)."
   },
   {
     id: "d201l_007",
     subject: "da-201",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "Recommended phosphorus dose for wheat cultivation is:",
-    options: ["120 kg P₂O₅/ha", "30 kg P₂O₅/ha", "90 kg P₂O₅/ha", "60 kg P₂O₅/ha"],
-    correct: 3,
-    explanation: "60 kg P₂O₅/ha is recommended for wheat. The full phosphorus dose is applied as basal (at sowing) since phosphorus moves very little in the soil and must be placed near the seed zone during preparation."
+    question: "The productivity of turmeric in Telangana (2019-20) was about:",
+    options: ["2243 kg/ha", "7500 kg/ha", "5543 kg/ha", "3070 kg/ha"],
+    correct: 2,
+    explanation: "As per Telangana State 3rd advance estimates, turmeric productivity in 2019-20 was 5543 kg/ha (2243 kg/acre)."
   },
   {
     id: "d201l_008",
     subject: "da-201",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "The GW-496 variety of wheat is primarily grown in:",
-    options: ["Telangana and Andhra Pradesh", "Punjab and Haryana", "Gujarat and Rajasthan", "Assam and West Bengal"],
-    correct: 2,
-    explanation: "GW-496 (Gujarat Wheat 496) is a semi-dwarf variety developed by GAU, Gujarat. It is suited for Gujarat, Rajasthan, and parts of Western India. It has good bread-making quality and is drought-tolerant under limited water conditions."
+    question: "The optimum rainfall for turmeric cultivation is:",
+    options: ["600-700 mm", "1000-1200 mm", "300-400 mm", "1500-2000 mm"],
+    correct: 0,
+    explanation: "Turmeric requires a warm and moist climate with rainfall of 600-700 mm and a temperature range of 25-30°C."
   },
   {
     id: "d201l_009",
     subject: "da-201",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "Lodging in wheat is primarily caused by:",
-    options: ["Excess nitrogen + irrigation, causing tall, weak stems that fall over", "Excess phosphorus application in field conditions", "Deficiency of potassium in crop production in agriculture", "Late sowing of the crop for agricultural purposes"],
-    correct: 0,
-    explanation: "Lodging (plants falling over) occurs when excess nitrogen or high plant population creates tall, soft, weak stems that cannot support the heavy grain head in combination with strong winds or heavy rain. Dwarf varieties resist lodging better."
+    question: "The seed rate of turmeric (mother and finger rhizomes) is about:",
+    options: ["250 kg/acre", "50 kg/acre", "1000 kg/acre", "5000 kg/acre"],
+    correct: 2,
+    explanation: "Turmeric is propagated through rhizomes at a seed rate of about 1000 kg/acre (finger rhizome seed rate of about 2000 kg/ha)."
   },
   {
     id: "d201l_010",
     subject: "da-201",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "The most critical irrigation stage in wheat for grain filling is:",
-    options: ["Grain filling (milky dough) stage", "Tillering stage", "Jointing stage", "CRI stage"],
+    question: "The recommended spacing for turmeric is:",
+    options: ["45 x 15 cm", "90 x 60 cm", "30 x 10 cm", "120 x 60 cm"],
     correct: 0,
-    explanation: "While CRI is most critical for plant establishment, the grain filling (milky to dough) stage is most critical for yield because water stress at this stage directly reduces grain size and final yield. Both CRI and grain fill are critical."
+    explanation: "Turmeric is planted at 45 x 15 cm spacing, with rhizomes of 25-30 g weight dibbled at a depth of 4 cm."
   },
   {
     id: "d201l_011",
     subject: "da-201",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "Which fungal disease is the most serious threat to wheat production?",
-    options: ["Charcoal rot in crop production in agriculture", "Yellow (stripe) rust, brown (leaf) rust, and black (stem) rust", "Alternaria blight in field conditions", "Sclerotinia stem rot for agricultural purposes for crop production"],
-    correct: 1,
-    explanation: "Rusts (caused by Puccinia spp.) are the most devastating wheat diseases. Yellow/stripe rust (P. striiformis), Brown/leaf rust (P. triticina) and Black/stem rust (P. graminis) can cause 10–100% yield loss in susceptible varieties under epidemic conditions."
+    question: "Turmeric rhizomes are dibbled at a depth of:",
+    options: ["1 cm", "15 cm", "4 cm", "25 cm"],
+    correct: 2,
+    explanation: "Rhizomes weighing 25-30 g are dibbled at a depth of about 4 cm at 45 x 15 cm spacing."
   },
   {
     id: "d201l_012",
     subject: "da-201",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "Wheat is classified as a:",
-    options: ["Zaid crop sown in March", "Kharif crop sown in June–July", "Perennial crop grown year-round", "Rabi crop sown in October–November"],
-    correct: 3,
-    explanation: "Wheat is a Rabi (winter) season crop in India, sown in October–November and harvested in March–April. It requires cool weather (15–20°C) during vegetative stage and warm, dry weather at maturity for good grain development."
+    question: "Depending on the variety, turmeric comes to harvest in:",
+    options: ["7-9 months", "3-4 months", "12-14 months", "18 months"],
+    correct: 0,
+    explanation: "Turmeric matures in 7-9 months depending on the variety, with the main harvesting season falling in February-April."
   },
   {
     id: "d201l_013",
     subject: "da-201",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "K-9107 wheat variety is recommended for:",
-    options: ["Rainfed upland conditions in field conditions", "Very late sowing only", "Waterlogged conditions in crop production", "Timely sown, irrigated conditions in peninsular India"],
-    correct: 3,
-    explanation: "K-9107 (released by CSAUAT, Kanpur) is recommended for timely sown, irrigated conditions in the Peninsular Zone (Telangana, Andhra, Karnataka, Maharashtra). It has good grain quality and moderate resistance to rusts."
+    question: "The maturity indication in turmeric is:",
+    options: ["Drooping of leaves only", "Flowering of the crop", "Complete yellowing and drying of plants", "Reddening of leaf tips"],
+    correct: 2,
+    explanation: "Maturity in turmeric is indicated by complete yellowing and drying up of the plants; above-ground parts are then cut close to the ground and rhizomes are dug out."
   },
   {
     id: "d201l_014",
     subject: "da-201",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "The average national productivity of wheat in India is approximately:",
-    options: ["5.0 t/ha", "2.0 t/ha", "1.5 t/ha", "3.2 t/ha"],
+    question: "Curing of turmeric rhizomes involves:",
+    options: ["Boiling, drying and polishing", "Only sun drying", "Cold storage", "Fermentation"],
     correct: 0,
-    explanation: "India's national average wheat yield is approximately 3.2–3.5 t/ha. Punjab and Haryana achieve 4.5–5.0 t/ha with full packages; central and peninsular India average 2.5–3.0 t/ha due to heat stress at grain fill."
+    explanation: "Fresh turmeric rhizomes are not marketable; curing makes them marketable. Curing involves boiling, drying and polishing."
   },
   {
     id: "d201l_015",
     subject: "da-201",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "Seed treatment of wheat before sowing with Carboxin or Thiram is done to:",
-    options: ["Fix atmospheric nitrogen in the soil in crop production", "Repel rodents from the field in field conditions", "Improve germination rate by hormone treatment for agricultural purposes", "Control seed-borne diseases like Karnal bunt, loose smut and flag smut"],
-    correct: 3,
-    explanation: "Seed treatment with systemic fungicides (Carboxin 37.5% + Thiram 37.5% @ 3 g/kg seed) controls seed-borne fungal diseases like Loose smut (Ustilago segetum var. tritici), Karnal bunt (Tilletia indica) and Flag smut. This is done before Rhizobium inoculation."
+    question: "After drying, cured turmeric should retain a moisture content of about:",
+    options: ["2-3%", "20-25%", "8-10%", "35%"],
+    correct: 2,
+    explanation: "Boiled rhizomes are sun dried until hard and brittle (breaking with a metallic sound), retaining only 8-10% moisture."
   },
   {
     id: "d201l_016",
     subject: "da-201",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "The tillering stage in wheat is important because:",
-    options: ["It is when deep root growth stops in crop production", "It determines the number of productive shoots and hence yield components", "It is when rusts first appear for agricultural purposes", "It determines the final plant height in field conditions"],
-    correct: 1,
-    explanation: "Tillering determines the number of productive tillers per plant, which directly determines the number of ears and thus yield. Adequate N and moisture during tillering (25–40 DAS) promotes maximum tillering and yield potential."
+    question: "Which is a long-duration variety of turmeric?",
+    options: ["Armur", "Kasturi", "Sindhu", "G-4"],
+    correct: 0,
+    explanation: "Armur and Duggirala erupu are long-duration turmeric varieties, while Kasturi and Suguna are short-duration varieties."
   },
-
-  // ── Lecture 2: Chickpea & Lentil ────────────────────────────────────────────
   {
     id: "d201l_017",
     subject: "da-201",
     lecture: "lecture-2",
     lectureNo: 2,
-    question: "JG-11 is an improved variety of:",
-    options: ["Lentil", "Cowpea", "Chickpea (Bengal gram)", "Pea"],
+    question: "The botanical name of chilli is:",
+    options: ["Piper nigrum", "Solanum melongena", "Capsicum annuum", "Curcuma longa"],
     correct: 2,
-    explanation: "JG-11 (Jawaharlal Gram 11) is an improved chickpea (Bengal gram/Cicer arietinum) variety developed by JNKVV, Jabalpur. It is recommended for Central India and is known for bold seeds, good yield and resistance to wilt."
+    explanation: "Chilli is botanically Capsicum annuum, belonging to the family Solanaceae."
   },
   {
     id: "d201l_018",
     subject: "da-201",
     lecture: "lecture-2",
     lectureNo: 2,
-    question: "The recommended seed rate for chickpea is:",
-    options: ["60–75 kg/ha", "30–40 kg/ha", "100–120 kg/ha", "150 kg/ha"],
+    question: "Chilli belongs to which family?",
+    options: ["Solanaceae", "Malvaceae", "Apiaceae", "Zingiberaceae"],
     correct: 0,
-    explanation: "Chickpea seed rate is 60–75 kg/ha depending on seed size. Small-seeded desi varieties need 60 kg/ha and bold kabuli types need up to 90 kg/ha. Higher seed rates are used for late sowing to compensate for reduced plant growth."
+    explanation: "Chilli (Capsicum annuum) belongs to the family Solanaceae."
   },
   {
     id: "d201l_019",
     subject: "da-201",
     lecture: "lecture-2",
     lectureNo: 2,
-    question: "Rhizobium inoculation of chickpea seed is recommended because:",
-    options: ["It promotes biological N fixation through root nodule bacteria, reducing fertiliser N requirement", "It increases seed size in crop production in agriculture", "It controls pod borer attack in field conditions", "It improves germination speed for agricultural purposes for crop production"],
-    correct: 0,
-    explanation: "Chickpea is nodulated by Mesorhizobium ciceri. Inoculation with the specific Rhizobium culture fixes atmospheric N2 biologically (50–150 kg N/ha), reducing the need for chemical N fertiliser by up to 60–80% and improving soil fertility."
+    question: "The pungency of chillies is due to:",
+    options: ["Capsanthin", "Curcumin", "Capsaicin", "Rutin"],
+    correct: 2,
+    explanation: "Pungency of chillies is due to the compound capsaicin, while the colour (pigment) is due to capsanthin."
   },
   {
     id: "d201l_020",
     subject: "da-201",
     lecture: "lecture-2",
     lectureNo: 2,
-    question: "The critical irrigation stage for chickpea is:",
-    options: ["Maturity/harvest stage", "Pre-flowering stage", "Pod filling (seed development) stage", "Seed germination (immediately after sowing)"],
-    correct: 2,
-    explanation: "The most critical irrigation in chickpea is at pod filling stage (when seeds are developing inside pods). Water stress at this stage causes pod abortion and grain shrivelling, severely reducing yield. One pre-flowering irrigation also helps."
+    question: "The red colour (pigment) in chillies is due to:",
+    options: ["Capsaicin", "Anthocyanin", "Carthamin", "Capsanthin"],
+    correct: 3,
+    explanation: "The colour in chillies is due to the pigment capsanthin; pungency is separately due to capsaicin."
   },
   {
     id: "d201l_021",
     subject: "da-201",
     lecture: "lecture-2",
     lectureNo: 2,
-    question: "ICCC-37 is a:",
-    options: ["Lentil variety", "Sunflower hybrid", "Mustard variety", "Kabuli-type chickpea variety"],
-    correct: 3,
-    explanation: "ICCC-37 is a kabuli (large, cream-coloured seeded) chickpea variety released from ICRISAT, Patancheru. Kabuli chickpea commands premium prices in export markets. India grows mainly desi type but kabuli export is growing."
+    question: "Green chillies are a rich source of which pharmaceutically useful compound?",
+    options: ["Rutin", "Ricin", "Gossypol", "Curcumin"],
+    correct: 0,
+    explanation: "Green chillies are rich in Rutin, which has pharmaceutical use, and are also rich in Vitamin C."
   },
   {
     id: "d201l_022",
     subject: "da-201",
     lecture: "lecture-2",
     lectureNo: 2,
-    question: "Helicoverpa armigera (pod borer) is the most serious pest of chickpea. The recommended control measure is:",
-    options: ["Only furadan granules in soil in field conditions", "No control needed as damage is minimal based on conventional agronomic practices", "Ploughing only in crop production in the context of integrated farming systems", "HaNPV (nuclear polyhedrosis virus) spray or chemical insecticides like indoxacarb/emamectin"],
-    correct: 3,
-    explanation: "Helicoverpa pod borer is the most destructive pest of chickpea causing 50–100% loss. Integrated management includes HaNPV (Helicoverpa armigera NPV) biopesticide (250 LE/ha), pheromone traps, and chemical insecticides like indoxacarb 14.5 SC at 0.5 mL/L."
+    question: "The well-distributed annual rainfall suitable for chilli is about:",
+    options: ["200-300 mm", "1200-1500 mm", "500-900 mm", "1800-2000 mm"],
+    correct: 2,
+    explanation: "Chilli requires a well-distributed annual rainfall of about 500-900 mm. Heavy rainfall leads to poor fruit set and fruit rot."
   },
   {
     id: "d201l_023",
     subject: "da-201",
     lecture: "lecture-2",
     lectureNo: 2,
-    question: "Lentil (Lens culinaris) belongs to which family?",
-    options: ["Poaceae (grass family)", "Cruciferae (Brassicaceae)", "Leguminosae (Fabaceae – legume family)", "Solanaceae"],
-    correct: 2,
-    explanation: "Lentil belongs to the family Leguminosae (Fabaceae), subfamily Papilionoideae. Like all legumes, it forms root nodules with Rhizobium for biological nitrogen fixation. It is a cool-season rabi crop."
+    question: "The seed required to raise chilli seedlings for one acre is about:",
+    options: ["2 kg", "5 kg", "100 g", "650 g"],
+    correct: 3,
+    explanation: "About 650 g of chilli seed is required to raise seedlings for one acre in the nursery."
   },
   {
     id: "d201l_024",
     subject: "da-201",
     lecture: "lecture-2",
     lectureNo: 2,
-    question: "NBeG-3 is a variety of:",
-    options: ["Grass pea", "Lentil", "Chickpea", "Field pea"],
-    correct: 2,
-    explanation: "NBeG-3 (Nandyal Bengal gram 3) is a chickpea variety recommended for Telangana and Andhra Pradesh. It is a desi-type with short duration and good yield under southern conditions."
+    question: "The optimum age for transplanting chilli seedlings is:",
+    options: ["6 weeks", "2 weeks", "12 weeks", "3 days"],
+    correct: 0,
+    explanation: "The optimum age of chilli seedlings for transplanting is about 6 weeks."
   },
   {
     id: "d201l_025",
     subject: "da-201",
     lecture: "lecture-2",
     lectureNo: 2,
-    question: "Chickpea (desi) is predominantly grown in which soil type?",
-    options: ["Heavy clay waterlogged soils", "Sandy loam, well-drained soils", "Saline-sodic soils", "Acidic laterite soils"],
-    correct: 1,
-    explanation: "Chickpea grows best in sandy loam to loam, well-drained soils with pH 6.0–7.5. It is very sensitive to waterlogging. Heavy clay soils with poor drainage cause root rot. Medium black soils (deep Vertisols) with good drainage also suit chickpea."
+    question: "The recommended spacing for chilli varieties is:",
+    options: ["30 x 10 cm", "90 x 90 cm", "60 x 45 cm", "120 x 120 cm"],
+    correct: 2,
+    explanation: "Chilli varieties are spaced at 60 x 45 cm, whereas hybrids are spaced wider at 75 x 60 cm."
   },
   {
     id: "d201l_026",
     subject: "da-201",
     lecture: "lecture-2",
     lectureNo: 2,
-    question: "The average yield of chickpea in India under irrigated conditions is approximately:",
-    options: ["3000–4000 kg/ha", "1500–2000 kg/ha", "500–700 kg/ha", "800–1000 kg/ha"],
-    correct: 1,
-    explanation: "Chickpea yield under irrigated conditions with proper management is 1500–2000 kg/ha. National average is only 800–900 kg/ha due to rainfed conditions, pest damage and poor inputs. Improved varieties under irrigation can yield 2.5–3.0 t/ha."
+    question: "The FYM applied for chilli field preparation is:",
+    options: ["1 t/ha", "5 t/ha", "50 t/ha", "25 t/ha"],
+    correct: 3,
+    explanation: "The field is prepared with FYM @ 25 t/ha, forming ridges and furrows at 60 cm spacing before transplanting."
   },
   {
     id: "d201l_027",
     subject: "da-201",
     lecture: "lecture-2",
     lectureNo: 2,
-    question: "Wilt disease of chickpea is caused by:",
-    options: ["Fusarium oxysporum f.sp. ciceri (fungus)", "Cassava mosaic virus", "Helicoverpa armigera (insect)", "Xanthomonas citri (bacteria)"],
+    question: "The recommended N-P-K (kg/ha) for chilli is:",
+    options: ["60-40-50", "120-60-40", "20-20-20", "100-50-50"],
     correct: 0,
-    explanation: "Chickpea wilt is caused by the soilborne fungus Fusarium oxysporum f.sp. ciceri. It is a major constraint in chickpea production. Management includes wilt-resistant varieties (JG-11), Trichoderma seed treatment and crop rotation."
+    explanation: "Besides 10 tonnes FYM, chilli is given 60 kg N, 40 kg P and 50 kg K per ha."
   },
   {
     id: "d201l_028",
     subject: "da-201",
     lecture: "lecture-2",
     lectureNo: 2,
-    question: "Lentil is most commonly cultivated in which Indian states?",
-    options: ["Tamil Nadu and Kerala", "Assam and Manipur", "Madhya Pradesh and Uttar Pradesh", "Gujarat and Rajasthan"],
+    question: "The number of pickings in rabi chilli is about:",
+    options: ["3-4", "1-2", "6-8", "10-12"],
     correct: 2,
-    explanation: "Lentil is predominantly grown in Madhya Pradesh, Uttar Pradesh, Bihar and Rajasthan. MP alone contributes >55% of India's lentil production. India is the world's second largest lentil producer after Canada."
+    explanation: "Rabi chilli gives 6-8 pickings, whereas kharif chilli gives only 3-4 pickings."
   },
   {
     id: "d201l_029",
     subject: "da-201",
     lecture: "lecture-2",
     lectureNo: 2,
-    question: "Chickpea is photoperiod-sensitive. It is primarily a:",
-    options: ["Day-neutral plant", "Long day plant", "Short day plant", "Obligate short day plant"],
-    correct: 1,
-    explanation: "Chickpea is a long day plant – flowering is promoted by long days (photoperiods >12 hours). However, desi varieties are less sensitive than kabuli. This explains why chickpea is grown in winter (short days initially for vegetative growth, then longer days induce flowering)."
+    question: "Damping-off disease in the chilli nursery is controlled by drenching with:",
+    options: ["Common salt", "Urea", "Gypsum", "Copper oxychloride"],
+    correct: 3,
+    explanation: "The nursery is drenched with Copper oxychloride @ 2.5 g/litre at 15-day intervals to control damping-off disease."
   },
   {
     id: "d201l_030",
     subject: "da-201",
     lecture: "lecture-2",
     lectureNo: 2,
-    question: "The protein content of chickpea (Bengal gram) seeds is approximately:",
-    options: ["10–12%", "15–20%", "35–40%", "21–25%"],
-    correct: 3,
-    explanation: "Chickpea seeds contain approximately 21–25% crude protein (on dry weight basis), making them an important plant protein source in vegetarian diets. They are also rich in carbohydrates (50–55%), fibre, minerals and B-vitamins."
+    question: "Which of the following is a popular chilli variety?",
+    options: ["LCA 305", "HD-2781", "Co-86032", "Pusa Jaikisan"],
+    correct: 0,
+    explanation: "LCA 305 (along with G-3/4/5, Sindhur, Aparna, LCA 235) is a popular chilli variety."
   },
   {
     id: "d201l_031",
     subject: "da-201",
     lecture: "lecture-2",
     lectureNo: 2,
-    question: "Phosphorus is applied to chickpea/lentil at the time of:",
-    options: ["During irrigation", "Top dressing at 30 DAS", "Foliar spray at flowering", "Basal application at sowing"],
-    correct: 3,
-    explanation: "Phosphorus (20–40 kg P₂O₅/ha) is applied as basal dose at sowing. Phosphorus improves root nodule development, early root growth and pod setting. Full P dose is always applied at sowing as it is immobile in soil."
+    question: "Chilli seeds are treated for the nursery with:",
+    options: ["Sodium chloride", "Trichoderma viride or Pseudomonas fluorescens", "Gibberellic acid", "Potassium nitrate"],
+    correct: 1,
+    explanation: "Chilli seeds are treated with Trichoderma viride @ 4 g/kg or Pseudomonas fluorescens @ 10 g/kg before sowing in the nursery."
   },
   {
     id: "d201l_032",
     subject: "da-201",
     lecture: "lecture-2",
     lectureNo: 2,
-    question: "The sowing time for chickpea in Telangana/Andhra Pradesh is:",
-    options: ["February–March", "October–November", "August–September", "June–July"],
-    correct: 1,
-    explanation: "Chickpea is a rabi crop sown in October–November in Telangana. Sowing after mid-November increases the risk of heat stress during pod filling (February–March) leading to lower yields."
+    question: "The transplanting time for kharif chilli is:",
+    options: ["March-April", "December-January", "July-August", "October-November"],
+    correct: 2,
+    explanation: "Kharif chilli is transplanted in July-August, while rabi chilli is transplanted in October-November."
   },
-
-  // ── Lecture 3: Mustard & Rapeseed ───────────────────────────────────────────
   {
     id: "d201l_033",
     subject: "da-201",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Pusa Bold is a variety of:",
-    options: ["Safflower", "Rapeseed (Brassica napus)", "Indian mustard (Brassica juncea)", "Sunflower"],
-    correct: 2,
-    explanation: "Pusa Bold (NB-9-3) is a high-yielding variety of Indian mustard (Brassica juncea) released by IARI, New Delhi. It is bold-seeded (large seed size), early maturing and widely grown in North India for its high oil content."
+    question: "The botanical name of coriander is:",
+    options: ["Capsicum annuum", "Cuminum cyminum", "Curcuma longa", "Coriandrum sativum"],
+    correct: 3,
+    explanation: "Coriander is botanically Coriandrum sativum, belonging to the family Apiaceae."
   },
   {
     id: "d201l_034",
     subject: "da-201",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Recommended seed rate for mustard cultivation is:",
-    options: ["5–6 kg/ha", "1–2 kg/ha", "20–25 kg/ha", "10–12 kg/ha"],
+    question: "Coriander belongs to which family?",
+    options: ["Apiaceae", "Solanaceae", "Zingiberaceae", "Compositae"],
     correct: 0,
-    explanation: "Mustard is sown at 5–6 kg/ha (line sowing) or up to 10 kg/ha (broadcast). The small seed size means even this low rate gives adequate plant population. Seed should be treated with Thiram @ 2.5 g/kg before sowing."
+    explanation: "Coriander (Coriandrum sativum) belongs to the family Apiaceae."
   },
   {
     id: "d201l_035",
     subject: "da-201",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "The recommended spacing for mustard cultivation is:",
-    options: ["15×5 cm", "45×15 cm", "60×30 cm", "30×10 cm"],
+    question: "The improved varieties of coriander were released from:",
+    options: ["CTRI, Rajahmundry", "RARS, Lam", "IARI, New Delhi", "AICRP, Sholapur"],
     correct: 1,
-    explanation: "Standard spacing for mustard is 45 cm between rows × 15 cm between plants (after thinning). Row spacing of 30–45 cm allows intercultivation and ensures adequate light penetration to the lower canopy."
+    explanation: "The improved coriander varieties (Lam CS 2 Sindhu, CS 4 Sadhana, CS 6 Swathi) were released from RARS, Lam."
   },
   {
     id: "d201l_036",
     subject: "da-201",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "The recommended nitrogen dose for mustard cultivation is approximately:",
-    options: ["80 kg N/ha", "120 kg N/ha", "160 kg N/ha", "40 kg N/ha"],
-    correct: 0,
-    explanation: "80 kg N/ha is recommended for irrigated mustard. N is applied in two splits: half as basal + half at first irrigation (25–30 DAS). This promotes good vegetative growth and higher oil content."
+    question: "The coriander variety Lam CS 2 is also known as:",
+    options: ["Swathi", "Sadhana", "Sindhu", "Sudha"],
+    correct: 2,
+    explanation: "Lam CS 2 (Sindhu) is a medium-tall coriander variety yielding about 1300-1400 kg/ha with a duration of 105-110 days."
   },
   {
     id: "d201l_037",
     subject: "da-201",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Mustard (Brassica juncea) is primarily a:",
-    options: ["Cross-pollinated crop (insects, especially bees)", "Wind-pollinated crop only", "Vegetatively propagated crop", "Self-pollinated crop"],
-    correct: 0,
-    explanation: "Indian mustard (B. juncea) is predominantly cross-pollinated by insects, especially honey bees. Approximately 85–90% cross-pollination occurs. This is why placing bee hives in mustard fields increases seed set and yield by 20–30%."
+    question: "Which coriander variety escapes powdery mildew disease?",
+    options: ["Lam CS 7", "Lam CS 2 (Sindhu)", "Lam CS 4 (Sadhana)", "Lam CS 6 (Swathi)"],
+    correct: 3,
+    explanation: "Lam CS 6 (Swathi) is an early, short-duration (80-85 days) coriander variety that escapes powdery mildew disease."
   },
   {
     id: "d201l_038",
     subject: "da-201",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Which mustard variety is known for low erucic acid (double zero/canola quality)?",
-    options: ["Pusa Jaikisan (Varuna)", "Kranti", "Pusa Bold", "RH-30"],
+    question: "The seed rate of coriander in Andhra Pradesh is:",
+    options: ["12-15 kg/ha", "40-50 kg/ha", "5-6 kg/ha", "100 kg/ha"],
     correct: 0,
-    explanation: "Pusa Jaikisan (based on Varuna cross) and RH-30 have improved fatty acid profiles. However, proper 'double zero' (low erucic acid + low glucosinolate = canola quality) mustard varieties have been developed more recently. Kranti is standard high-erucic type."
+    explanation: "Coriander needs about 12-15 kg seed per ha in AP. The seeds are crushed gently to separate the pericarps before sowing."
   },
   {
     id: "d201l_039",
     subject: "da-201",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "The oil content of Indian mustard seeds is approximately:",
-    options: ["15–20%", "25–30%", "55–60%", "38–44%"],
-    correct: 3,
-    explanation: "Indian mustard (Brassica juncea) seeds contain 38–44% oil (on dry weight basis). This makes it the primary edible oil crop of North India. Oil content is also influenced by variety, growing conditions and seed maturity."
+    question: "Before sowing, coriander seeds are gently crushed or trampled in order to:",
+    options: ["Increase oil content", "Separate the two pericarps (mericarps)", "Remove the seed coat colour", "Kill insect eggs"],
+    correct: 1,
+    explanation: "Coriander fruit is a schizocarp; seeds are crushed or trampled gently to separate the pericarps (into two mericarps), then soaked for 12-21 hours before sowing."
   },
   {
     id: "d201l_040",
     subject: "da-201",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "The most critical irrigation stage for mustard is:",
-    options: ["After pod maturity", "Germination stage", "Pre-flowering (rosette) and flowering stage", "Pre-sowing irrigation only"],
+    question: "Coriander seed is treated against seed-borne diseases with:",
+    options: ["Copper sulphate", "Streptomycin", "Thiram @ 2 g/kg", "Carbofuran"],
     correct: 2,
-    explanation: "Mustard is most sensitive to drought at pre-flowering and flowering (siliqua initiation) stages. Irrigation at these stages is critical for pod set and seed fill. Generally 2–3 irrigations are given: at 25–30 DAS and at flowering (55–60 DAS)."
+    explanation: "Coriander seed is treated with Thiram @ 2 g per kg of seed and shade-dried before sowing."
   },
   {
     id: "d201l_041",
     subject: "da-201",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "The variety RH-30 is a:",
-    options: ["Safflower variety in crop production", "Sunflower hybrid in field conditions", "Rapeseed (Brassica napus) variety", "Indian mustard (Brassica juncea) variety from Haryana"],
+    question: "The spacing adopted for an irrigated coriander crop is:",
+    options: ["90 x 60 cm", "60 x 45 cm", "45 x 15 cm", "30 x 15 cm"],
     correct: 3,
-    explanation: "RH-30 (Rohtak Hybrid 30) is an Indian mustard (B. juncea) variety developed by CCS HAU, Hisar, Haryana. It is an early-maturing variety suitable for limited moisture conditions and is widely grown in Haryana and Rajasthan."
+    explanation: "A spacing of about 30 x 15 cm is adopted for an irrigated coriander crop; rainfed crops are broadcast sown."
   },
   {
     id: "d201l_042",
     subject: "da-201",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "The major pest of mustard crop is:",
-    options: ["Brown plant hopper", "Leaf roller", "Aphids (Lipaphis erysimi)", "Helicoverpa armigera"],
-    correct: 2,
-    explanation: "Mustard aphid (Lipaphis erysimi) is the most serious pest of mustard, capable of causing 10–70% yield loss. Aphids suck plant sap from tender shoots and pods. Spraying with imidacloprid or dimethoate at ETL (76 aphids/6 cm terminal shoot) is recommended."
+    question: "Which soils are particularly suited to coriander cultivation?",
+    options: ["Heavy black cotton soils of the Deccan", "Sandy desert soils", "Waterlogged marshy soils", "Saline coastal soils"],
+    correct: 0,
+    explanation: "Coriander can be grown in sandy loams to heavy soils, but the heavy black cotton soils of the Deccan and South India are particularly suited."
   },
   {
     id: "d201l_043",
     subject: "da-201",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Brassica napus (rapeseed) differs from B. juncea (Indian mustard) in that B. napus:",
-    options: ["Is exclusively grown in south India in crop production", "Has more pungent oil and is preferred in India", "Is tetraploid (AACC genome, 2n=38) and produces canola-quality oil with low erucic acid", "Is purely self-pollinated with very low yield in field conditions"],
-    correct: 2,
-    explanation: "B. napus (rapeseed) is a tetraploid (2n=38, AACC) and is the source of canola (low erucic acid + low glucosinolate) oil, widely grown in Europe and Canada. B. juncea (Indian mustard, 2n=36, AABB) is the major Indian oilseed, has higher erucic acid and pungent flavour."
+    question: "The coriander crop is ready for harvest in about:",
+    options: ["150-180 days", "80-120 days", "45-60 days", "200-220 days"],
+    correct: 1,
+    explanation: "Coriander is ready for harvest in 80-120 days; kharif crops come to harvest earlier than rabi crops."
   },
   {
     id: "d201l_044",
     subject: "da-201",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "The sowing time for mustard in North India (Punjab, Haryana, Rajasthan) is:",
-    options: ["September–October (before wheat)", "February–March", "June–July", "November–December"],
-    correct: 0,
-    explanation: "Mustard is sown in September–October in North India (earlier than wheat) to utilise the cooler days optimally. Early sowing avoids aphid attack and heat stress during grain filling. In Telangana, rabi mustard is sown in November."
+    question: "The coriander variety Lam CS 4 (Sadhana) is valued because it is:",
+    options: ["A fibre-yielding variety", "A purely ornamental variety", "A dual-purpose (seed and leaf) variety", "An oilseed variety"],
+    correct: 2,
+    explanation: "Lam CS 4 (Sadhana) is a fairly tall, dual-purpose coriander variety yielding 1400-1500 kg/ha with a duration of 115-120 days."
   },
   {
     id: "d201l_045",
     subject: "da-201",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "The siliqua (pod) of mustard typically matures in how many days from sowing?",
-    options: ["90–110 days", "160–180 days", "130–150 days", "45–60 days"],
-    correct: 0,
-    explanation: "Mustard is a short-duration rabi crop maturing in 90–110 days (early varieties) to 130–140 days (late varieties). This allows it to be harvested before wheat needs the field, making it an ideal rabi crop in rotations."
+    question: "The yield of the coriander variety Lam CS 2 (Sindhu) is about:",
+    options: ["250-300 kg/ha", "500-600 kg/ha", "2500-3000 kg/ha", "1300-1400 kg/ha"],
+    correct: 3,
+    explanation: "Lam CS 2 (Sindhu) yields about 1300-1400 kg/ha over a crop duration of 105-110 days."
   },
   {
     id: "d201l_046",
     subject: "da-201",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "The Kranti variety of mustard is known for:",
-    options: ["Medium duration, high yield and tolerance to late sowing", "Very small seed size and low oil content", "Exclusive suitability for south India only", "Very late maturity and high water requirement"],
+    question: "The climatic requirement of coriander is:",
+    options: ["Cool climate in early stages and warm dry weather at maturity", "Hot humid climate throughout", "Continuous rainfall at flowering", "Frost during flowering"],
     correct: 0,
-    explanation: "Kranti is a popular Indian mustard variety (B. juncea) with medium duration (125–135 days), high yield potential (2.0–2.5 t/ha under irrigation) and reasonable adaptability to late sowing. It is grown in MP, Rajasthan and UP."
+    explanation: "Coriander requires a cool climate in early stages and warm dry weather at maturity; heavy rains at flowering and fruit setting damage the crop."
   },
   {
     id: "d201l_047",
     subject: "da-201",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "In mustard/rapeseed, thinning is done at:",
-    options: ["At flowering stage in crop production", "15–20 DAS, leaving one plant every 15 cm within the row", "Sowing time itself by using low seed rate only", "No thinning is required in field conditions"],
+    question: "Coriander is cultivated for:",
+    options: ["Only fibre", "Both seed and leaves", "Only oil", "Only dye"],
     correct: 1,
-    explanation: "Thinning (roguing excess seedlings) is done at 15–20 DAS when seedlings are 10–15 cm tall, maintaining 15 cm plant-to-plant distance within rows (at 45 cm row spacing). Dense stands cause lodging, poor pollination and reduced yield."
+    explanation: "Coriander is cultivated both for seed and for leaves; it is a minor seed spice grown widely in India."
   },
   {
     id: "d201l_048",
     subject: "da-201",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "White rust (Albugo candida) causes serious damage to mustard by affecting:",
-    options: ["Leaves, stems, flowers and siliquae causing distortion and yield loss", "Only seeds reducing oil quality in field conditions", "Root nodules reducing nitrogen fixation in crop production", "Roots and stem base causing wilt for agricultural purposes"],
-    correct: 0,
-    explanation: "White rust (Albugo candida) causes white blistered pustules on leaves, stems, flowers and siliquae of mustard. The fungus causes 'staghead' deformity of floral parts, severely reducing seed set and yield. Spraying Metalaxyl + Mancozeb controls it."
+    question: "The FYM recommended as a basal dose for coriander is:",
+    options: ["1-2 t/ha", "25 t/ha", "10-15 t/ha", "40 t/ha"],
+    correct: 2,
+    explanation: "Coriander is given 10-15 tonnes FYM along with 20-30 kg N, 40 kg P2O5 and 20 kg K2O per ha as basal dose."
   },
-
-  // ── Lecture 4: Sunflower (Rabi) & Safflower ─────────────────────────────────
   {
     id: "d201l_049",
     subject: "da-201",
@@ -605,10 +597,10 @@ export const da201LectureQuestions: Question[] = [
     subject: "da-201",
     lecture: "lecture-4",
     lectureNo: 4,
-    question: "Downy mildew of sunflower is caused by:",
-    options: ["Pseudomonas syringae (bacterium)", "Sunflower mosaic virus", "Fusarium oxysporum (fungus)", "Plasmopara halstedii (oomycete)"],
+    question: "Sunflower oil is rich in which fatty acid that helps in reducing cholesterol?",
+    options: ["Lauric acid", "Erucic acid", "Ricinoleic acid", "Linoleic acid (about 64%)"],
     correct: 3,
-    explanation: "Downy mildew of sunflower is caused by Plasmopara halstedii, an oomycete. Infected seedlings are stunted with yellowing and white fluffy growth on the underside of leaves. Seed treatment with Metalaxyl controls this disease."
+    explanation: "Sunflower is a rich source of linoleic acid (about 64%), which helps in reducing blood cholesterol."
   },
   {
     id: "d201l_061",
@@ -650,8 +642,6 @@ export const da201LectureQuestions: Question[] = [
     correct: 3,
     explanation: "Sunflower is a day-neutral (photoperiod-insensitive) crop. It can flower and mature regardless of day length, making it adaptable as a kharif, rabi or summer crop. Temperature is the more important factor than photoperiod for sunflower."
   },
-
-  // ── Lecture 5: Castor Cultivation ───────────────────────────────────────────
   {
     id: "d201l_065",
     subject: "da-201",
@@ -747,10 +737,10 @@ export const da201LectureQuestions: Question[] = [
     subject: "da-201",
     lecture: "lecture-5",
     lectureNo: 5,
-    question: "The average yield of castor hybrid in Telangana under irrigated conditions is approximately:",
-    options: ["1500–2000 kg/ha", "5000 kg/ha", "500–800 kg/ha", "2500–3500 kg/ha"],
-    correct: 3,
-    explanation: "Improved castor hybrids (DCH-177, GCH-4) yield 2500–3500 kg/ha under irrigated conditions with recommended inputs. Rainfed castor yields 1000–1500 kg/ha. National average is around 1300–1400 kg/ha."
+    question: "Castor oil is valued as a lubricant in high-speed engines and aeroplanes because it:",
+    options: ["Can tolerate very low temperatures without freezing", "Has a very high boiling point", "Is edible and tasteless", "Solidifies quickly when cooled"],
+    correct: 0,
+    explanation: "Castor oil can tolerate temperatures as low as about -16.5°C and does not freeze, which is why it is used as a lubricant in high-speed engines and aeroplanes."
   },
   {
     id: "d201l_075",
@@ -812,179 +802,175 @@ export const da201LectureQuestions: Question[] = [
     correct: 1,
     explanation: "Castor wilt management includes: seed treatment with Trichoderma viride (4 g/kg) + Carbendazim (2 g/kg), crop rotation with non-host crops, use of resistant/tolerant hybrids, and avoiding field operations that spread the pathogen."
   },
-
-  // ── Lecture 6: Linseed & Minor Rabi Oilseeds ─────────────────────────────────
   {
     id: "d201l_081",
     subject: "da-201",
     lecture: "lecture-6",
     lectureNo: 6,
-    question: "The recommended seed rate for linseed (Linum usitatissimum) is:",
-    options: ["60 kg/ha", "30 kg/ha", "100 kg/ha", "10 kg/ha"],
+    question: "Cotton is popularly referred to as:",
+    options: ["Queen of Oilseeds", "King of Fibres", "Indian Saffron", "King of Cereals"],
     correct: 1,
-    explanation: "Linseed is sown at 30 kg/ha for line sowing (22.5–30 cm rows). Small seed size requires careful depth control (2–3 cm). Seed rate can be reduced to 20–25 kg/ha with seed treatment and good seedbed."
+    explanation: "Cotton is referred to as the 'King of Fibres' and also known as 'White Gold'. It is the most important fibre crop of the world."
   },
   {
     id: "d201l_082",
     subject: "da-201",
     lecture: "lecture-6",
     lectureNo: 6,
-    question: "The Gaurav variety of linseed is known for:",
-    options: ["High seed yield and oil content, suitable for Central India", "Very long fibres suitable for linen in crop production", "Resistance to all rusts in field conditions", "Extra-early maturity in <60 days for agricultural purposes"],
-    correct: 0,
-    explanation: "Gaurav is a high-yielding linseed variety recommended for Central India (MP, UP, Bihar, Rajasthan). It has good oil content (39–42%) and is suited for rabi season under limited irrigation."
+    question: "Cotton belongs to which family?",
+    options: ["Pedaliaceae", "Solanaceae", "Malvaceae", "Compositae"],
+    correct: 2,
+    explanation: "Cotton (genus Gossypium) belongs to the family Malvaceae."
   },
   {
     id: "d201l_083",
     subject: "da-201",
     lecture: "lecture-6",
     lectureNo: 6,
-    question: "Linseed oil is rich in which fatty acid?",
-    options: ["Alpha-linolenic acid (ALA, omega-3)", "Lauric acid (saturated)", "Ricinoleic acid", "Erucic acid"],
-    correct: 0,
-    explanation: "Linseed (flaxseed) oil is exceptionally rich in alpha-linolenic acid (ALA, an omega-3 fatty acid) at 50–60% of total fatty acids. This makes it valuable for health supplements and industrial drying oil (paints, varnishes)."
+    question: "How many cultivated species of cotton are grown commercially in India?",
+    options: ["1", "2", "6", "4"],
+    correct: 3,
+    explanation: "India grows all four cultivated species of cotton commercially: G. hirsutum, G. barbadense, G. arboreum and G. herbaceum."
   },
   {
     id: "d201l_084",
     subject: "da-201",
     lecture: "lecture-6",
     lectureNo: 6,
-    question: "Niger (Guizotia abyssinica) or ramtil is mainly grown in:",
-    options: ["Punjab and Haryana as a rabi crop in crop production", "Tamil Nadu paddy fallows in field conditions in agriculture", "Gujarat as an irrigated crop for agricultural purposes", "Tribal and upland areas of Chhattisgarh, Odisha, and Jharkhand as a kharif/pre-rabi crop"],
-    correct: 3,
-    explanation: "Niger (ramtil) is primarily grown in tribal upland areas of Chhattisgarh, Odisha, Jharkhand, Maharashtra and Andhra Pradesh. It is a hardy crop adapted to shallow, poor, and laterite soils with very low inputs."
+    question: "Apart from 'King of Fibres', cotton is also called:",
+    options: ["White Gold", "Black Gold", "Golden Fibre", "Green Gold"],
+    correct: 0,
+    explanation: "Cotton is also known as 'White Gold'. (Jute, by contrast, is called the 'Golden Fibre'.)"
   },
   {
     id: "d201l_085",
     subject: "da-201",
     lecture: "lecture-6",
     lectureNo: 6,
-    question: "Indira Niger-1 is a variety of:",
-    options: ["Niger (Guizotia abyssinica / ramtil)", "Sunflower in field conditions", "Safflower in crop production", "Sesame for agricultural purposes"],
-    correct: 0,
-    explanation: "Indira Niger-1 is an improved variety of niger (ramtil, Guizotia abyssinica) released from IGAU, Raipur (Chhattisgarh). Niger seeds contain 35–40% oil with good edible oil quality and yield 400–600 kg/ha under dryland conditions."
+    question: "The tap root of cotton can extend to a depth of:",
+    options: ["30-40 cm", "200-250 cm", "500 cm", "10 cm"],
+    correct: 1,
+    explanation: "Cotton is a deep-rooted crop; its tap root extends even up to a depth of 200-250 cm, so deep soils are ideal."
   },
   {
     id: "d201l_086",
     subject: "da-201",
     lecture: "lecture-6",
     lectureNo: 6,
-    question: "The T-397 variety of linseed was developed at:",
-    options: ["UAS Dharwad", "CSAUAT, Kanpur", "GBPUAT, Pantnagar", "ICAR-NIANP Bangalore"],
-    correct: 1,
-    explanation: "T-397 (Terai 397) is a linseed variety developed by CSAUAT (now CSAUA&T), Kanpur, Uttar Pradesh. It is an older but still-relevant variety recommended for UP, Bihar and Jharkhand conditions."
+    question: "The Old World cotton species are:",
+    options: ["G. hirsutum and G. arboreum", "G. hirsutum and G. barbadense", "G. arboreum and G. herbaceum", "G. barbadense and G. herbaceum"],
+    correct: 2,
+    explanation: "Old World cottons are G. arboreum and G. herbaceum (India is their centre of origin). New World cottons are G. barbadense and G. hirsutum."
   },
   {
     id: "d201l_087",
     subject: "da-201",
     lecture: "lecture-6",
     lectureNo: 6,
-    question: "The dual-purpose use of linseed refers to:",
-    options: ["Both seed (oil) and stalk (fibre/linen) utilization in the same crop", "Both cooking oil and biodiesel in crop production", "Both human food and animal feed from seed only", "Both kharif and rabi season sowing in field conditions"],
-    correct: 0,
-    explanation: "Linseed (flax) is a dual-purpose crop: (1) Oil type – selected for maximum seed yield and oil; (2) Fibre type – selected for long, strong bast fibres from the stem (flax fibre = linen). Some varieties are intermediate (multipurpose)."
+    question: "Sea Island cotton, the longest and finest of all cultivated cottons, belongs to:",
+    options: ["G. herbaceum", "G. hirsutum", "G. arboreum", "G. barbadense"],
+    correct: 3,
+    explanation: "Sea Island Cotton was developed from G. barbadense (a perennial cotton native to Peru) and has the longest, finest fibre of all cultivated cottons."
   },
   {
     id: "d201l_088",
     subject: "da-201",
     lecture: "lecture-6",
     lectureNo: 6,
-    question: "Linseed rust, caused by Melampsora lini, can be managed by:",
-    options: ["Flooding the field repeatedly in crop production", "Removing all plant residues by burning only in field conditions", "Copper fungicide sprays only for agricultural purposes", "Using resistant varieties, seed treatment and foliar sprays of Zineb or Mancozeb"],
-    correct: 3,
-    explanation: "Linseed rust (Melampsora lini) is a major foliar disease. Management includes: use of rust-resistant varieties (Gaurav, T-397 are moderately resistant), Zineb or Mancozeb sprays at 15-day intervals, removal and burning of infected crop debris."
+    question: "The removal of fuzz from cotton seed (often using acid) is called:",
+    options: ["Delinting", "Ginning", "Retting", "Ratooning"],
+    correct: 0,
+    explanation: "Removal of the short fibre (fuzz) covering cotton seed is called delinting; it can be done chemically with acid or mechanically."
   },
   {
     id: "d201l_089",
     subject: "da-201",
     lecture: "lecture-6",
     lectureNo: 6,
-    question: "The major producing states of linseed in India are:",
-    options: ["Rajasthan and Gujarat", "Madhya Pradesh, Chhattisgarh, Bihar and UP", "Punjab, Haryana, UP", "Karnataka and Tamil Nadu"],
+    question: "The acid used for chemical delinting of cotton seed is:",
+    options: ["Hydrochloric acid", "Sulphuric acid (H2SO4)", "Nitric acid", "Acetic acid"],
     correct: 1,
-    explanation: "Madhya Pradesh, Chhattisgarh, Uttar Pradesh and Bihar are the major linseed-growing states of India. Linseed occupies small areas mainly as an intercrop with wheat or on residual moisture soils."
+    explanation: "For chemical delinting, about 100 ml H2SO4 is poured per kg of seed to burn off the fuzz, after which the seed is washed and neutralised with lime water."
   },
   {
     id: "d201l_090",
     subject: "da-201",
     lecture: "lecture-6",
     lectureNo: 6,
-    question: "The oil content of linseed seeds is approximately:",
-    options: ["25–30%", "38–45%", "55–65%", "15–20%"],
-    correct: 1,
-    explanation: "Linseed seeds contain 38–45% oil. The oil is a semi-drying to drying oil due to high ALA content. Beyond edible use, linseed oil is extensively used industrially in paints, varnishes, linoleum, putty, and printing inks."
+    question: "Fineness of cotton fibre is expressed as:",
+    options: ["Number of fibres per cm²", "Tenacity in g/tex", "Micronaire value (microgram/inch)", "Millimetres per gram"],
+    correct: 2,
+    explanation: "Fibre fineness is measured by weight per unit length, expressed as microgram/inch of fibre, also called the micronaire value."
   },
   {
     id: "d201l_091",
     subject: "da-201",
     lecture: "lecture-6",
     lectureNo: 6,
-    question: "Powdery mildew of linseed is caused by:",
-    options: ["Fusarium oxysporum", "Phytophthora infestans", "Alternaria lini", "Oidium lini"],
+    question: "Cotton is highly sensitive to which condition that can kill plant cells?",
+    options: ["Mild drought", "Bright sunshine", "Temperature of 43°C", "Frost"],
     correct: 3,
-    explanation: "Powdery mildew of linseed is caused by Oidium lini. White powdery growth appears on leaves and stems. It is managed by sulphur-based fungicide sprays. Alternaria lini causes pasmo disease (leaf spotting and stem cankering)."
+    explanation: "Cotton is highly sensitive to frost; even a short frost kills plant cells and severe frost causes death of the entire plant. It is otherwise heat- and sun-loving (heliophyte)."
   },
   {
     id: "d201l_092",
     subject: "da-201",
     lecture: "lecture-6",
     lectureNo: 6,
-    question: "Niger crop is typically sown at a very low seed rate of:",
-    options: ["5–8 kg/ha", "30–35 kg/ha", "15–20 kg/ha", "0.5–1 kg/ha"],
-    correct: 3,
-    explanation: "Niger has extremely small seeds (1000 seed weight = 3–4 g) and is sown at 0.5–1 kg/ha in broadcast or 1–2 kg/ha in line sowing. This small quantity gives adequate plant population because of the tiny seed size."
+    question: "The nitrogen content of cotton seed cake is about:",
+    options: ["6.4% N", "2.2% N", "0.5% N", "12% N"],
+    correct: 0,
+    explanation: "Cotton seed cake (after oil extraction) is a good organic manure containing about 6.4% N, 2.9% P2O5 and 2.2% K2O."
   },
   {
     id: "d201l_093",
     subject: "da-201",
     lecture: "lecture-6",
     lectureNo: 6,
-    question: "Flaxseed (linseed) is increasingly used as a health food ingredient because:",
-    options: ["It has the highest protein content of any oilseed in crop production", "It is used as natural sweetener in field conditions", "It is rich in omega-3 ALA, dietary fibre (mucilage) and lignans with anti-cancer properties", "It contains high starch for energy for agricultural purposes"],
-    correct: 2,
-    explanation: "Flaxseed is a functional food: rich in alpha-linolenic acid (omega-3, 50–60% of oil), soluble fibre (mucilage in seed coat), and plant lignans (SDG) that have demonstrated antioxidant and potential anti-cancer properties in research."
+    question: "Cotton requires a frost-free period of a minimum of:",
+    options: ["60-90 days", "180-200 days", "300-330 days", "45 days"],
+    correct: 1,
+    explanation: "For a successful crop, cotton requires a frost-free period of a minimum of 180-200 days, starting from emergence."
   },
   {
     id: "d201l_094",
     subject: "da-201",
     lecture: "lecture-6",
     lectureNo: 6,
-    question: "The crop duration of linseed is approximately:",
-    options: ["130–160 days", "180–200 days", "90–120 days", "45–60 days"],
+    question: "The oil content of cotton seed ranges from:",
+    options: ["5-8%", "40-50%", "15-25%", "60-70%"],
     correct: 2,
-    explanation: "Linseed is a medium-duration rabi crop maturing in 90–120 days depending on variety and season. Early varieties mature in 90–100 days; late varieties may take 110–120 days. This fits well in wheat-linseed rotation in Central India."
+    explanation: "Oil content of cotton seed ranges from 15-25%. The seed is also used for extraction of oil besides the fibre."
   },
   {
     id: "d201l_095",
     subject: "da-201",
     lecture: "lecture-6",
     lectureNo: 6,
-    question: "When linseed and lentil are grown as intercrop, what is the typical row arrangement?",
-    options: ["Broadcast mixture with no defined ratio", "1:1 (one row linseed, one row lentil)", "Linseed as border crop only", "2:1 or 4:2 (linseed: lentil)"],
+    question: "Cotton can tolerate a soil pH range of:",
+    options: ["6.0 to 6.5", "3.0 to 4.0", "9.0 to 10.0", "5.5 to 8.5"],
     correct: 3,
-    explanation: "Linseed–lentil intercropping in 2:1 or 4:2 row arrangement (linseed:lentil) is common in Central India. The legume (lentil) fixes nitrogen benefiting the companion crop, and the mixture reduces overall pest/disease pressure."
+    explanation: "Cotton can tolerate a soil pH of 5.5 to 8.5, but soils must be well drained and well aerated as it is sensitive to water-logging."
   },
   {
     id: "d201l_096",
     subject: "da-201",
     lecture: "lecture-6",
     lectureNo: 6,
-    question: "In which state is niger crop locally called 'Ramtil'?",
-    options: ["Assam", "Chhattisgarh and Jharkhand", "Kerala", "Punjab"],
-    correct: 1,
-    explanation: "Niger is locally known as 'Ramtil' in Chhattisgarh, Jharkhand and parts of Odisha. It is also called 'Sarguja' in Chhattisgarh. In Karnataka and Maharashtra it is called 'Uchhelu' or 'Kadu hesaru'."
+    question: "The minimum temperature required for cotton seed germination is:",
+    options: ["16°C", "5°C", "30°C", "43°C"],
+    correct: 0,
+    explanation: "A daily minimum temperature of 16°C is required for germination and 21-27°C for proper vegetative growth; cotton can tolerate up to 43°C."
   },
-
-  // ── Lecture 7: Sugarcane Cultivation ────────────────────────────────────────
   {
     id: "d201l_097",
     subject: "da-201",
     lecture: "lecture-7",
     lectureNo: 7,
-    question: "Co-86032 is a popular sugarcane variety known for:",
-    options: ["Suitability for rainfed conditions only", "Poor milling quality but high yield", "Very high sucrose content, good yield and wide adaptability", "Very short crop duration of 6 months"],
-    correct: 2,
-    explanation: "Co-86032 is one of the most widely cultivated sugarcane varieties in South India (Telangana, AP, Karnataka, Tamil Nadu). It has high cane yield (300–400 q/ha), good sucrose content (CCS 10–11%), good ratoon-ability and ratooning ability."
+    question: "The sugar industry is the second largest agro-based industry in India, next only to:",
+    options: ["Paper", "Textiles", "Cement", "Leather"],
+    correct: 1,
+    explanation: "The sugar (sugarcane) industry is the second largest agro-based industry in India, next only to textiles."
   },
   {
     id: "d201l_098",
@@ -1061,20 +1047,20 @@ export const da201LectureQuestions: Question[] = [
     subject: "da-201",
     lecture: "lecture-7",
     lectureNo: 7,
-    question: "Pyrilla (sugarcane leafhopper) is an important pest of sugarcane. Its biological control agent is:",
-    options: ["Trichoderma viride", "Epiricania melanoleuca (an egg parasite", "Chrysoperla carnea", "Bacillus thuringiensis"],
-    correct: 1,
-    explanation: "Pyrilla (Pyrilla perpusilla) is effectively controlled by the biological agent Epiricania melanoleuca, a parasite whose larvae feed on Pyrilla egg masses. Mass releases of Epiricania are done in India as a classical biocontrol success story."
+    question: "Which by-product of sugar mills is the main raw material for alcohol production?",
+    options: ["Press mud", "Bagasse", "Molasses", "Green leaves"],
+    correct: 2,
+    explanation: "Molasses is the main raw material for alcohol production, while bagasse is used as fuel/power in sugar mills."
   },
   {
     id: "d201l_106",
     subject: "da-201",
     lecture: "lecture-7",
     lectureNo: 7,
-    question: "Red rot of sugarcane is caused by:",
-    options: ["Puccinia melanocephala (fungus)", "Xanthomonas vasicola (bacterium)", "Colletotrichum falcatum (Glomerella tucumanensis)", "Ratoon stunting disease (RSD) virus"],
-    correct: 2,
-    explanation: "Red rot, the most serious sugarcane disease in India, is caused by Colletotrichum falcatum (sexual stage Glomerella tucumanensis). Internally, the cane shows red discoloration with white patches. Management: resistant varieties, hot water treatment of setts at 50°C/2 hrs."
+    question: "In sugarcane area and production, India ranks ___ in the world:",
+    options: ["Tenth", "First", "Fifth", "Second (after Brazil)"],
+    correct: 3,
+    explanation: "India ranks second in the world, after Brazil, in terms of both sugarcane area and production."
   },
   {
     id: "d201l_107",
@@ -1136,37 +1122,35 @@ export const da201LectureQuestions: Question[] = [
     correct: 3,
     explanation: "In tropical India, wide-row (120–150 cm) trench planting is recommended for better light interception, ease of inter-row operations, drip irrigation installation and better ratoon management. 75–90 cm spacing is used in subtropical North India."
   },
-
-  // ── Lecture 8: Fodder Crops ──────────────────────────────────────────────────
   {
     id: "d201l_113",
     subject: "da-201",
     lecture: "lecture-8",
     lectureNo: 8,
-    question: "The Napier-Bajra hybrid (NB-21) is a cross between:",
-    options: ["Sorghum × Maize in crop production", "Berseem × Oat in field conditions", "Napier grass (Pennisetum purpureum) × Pearl millet (Pennisetum glaucum)", "Oat × Barley for agricultural purposes"],
-    correct: 2,
-    explanation: "NB-21 is the interspecific hybrid between Napier grass (Pennisetum purpureum, elephant grass) and pearl millet (Pennisetum glaucum). It combines the high biomass of Napier with the palatability and nutritive value of pearl millet."
+    question: "The scientific name of cultivated tobacco is:",
+    options: ["Nicotiana tabacum", "Capsicum annuum", "Curcuma longa", "Gossypium hirsutum"],
+    correct: 0,
+    explanation: "Tobacco is botanically Nicotiana tabacum (and N. rustica), belonging to the family Solanaceae."
   },
   {
     id: "d201l_114",
     subject: "da-201",
     lecture: "lecture-8",
     lectureNo: 8,
-    question: "Berseem (Trifolium alexandrinum) is an important rabi fodder crop because:",
-    options: ["It grows only in waterlogged conditions in paddy season in crop production", "It is a perennial crop that requires no replanting for 10 years", "It is a legume that fixes N, produces high-quality protein-rich green fodder and can be multi-cut", "It is a cereal with high energy content in field conditions"],
-    correct: 2,
-    explanation: "Berseem (Egyptian clover) is a high-quality legume fodder with 18–22% crude protein. It can be cut 4–6 times per season (multi-cut), fixes atmospheric nitrogen (80–100 kg N/ha), and improves soil fertility. It is the most important rabi fodder in North India."
+    question: "Tobacco belongs to which family?",
+    options: ["Malvaceae", "Solanaceae", "Pedaliaceae", "Apiaceae"],
+    correct: 1,
+    explanation: "Tobacco (Nicotiana tabacum) belongs to the family Solanaceae."
   },
   {
     id: "d201l_115",
     subject: "da-201",
     lecture: "lecture-8",
     lectureNo: 8,
-    question: "The oat variety Kent is primarily grown as:",
-    options: ["Green fodder oat with high yield and good palatability for livestock", "Oil crop for omega-3 extraction in field conditions", "Industrial oat for paper pulp in crop production", "Grain oat for human consumption for agricultural purposes"],
-    correct: 0,
-    explanation: "Kent is a popular green-fodder oat variety grown during rabi season in India. Oat fodder is highly palatable, nutritious and can be cut 2–3 times. It is important for dairy farmers in North and Peninsular India during winter."
+    question: "FCV (Flue-Cured Virginia) tobacco is mainly grown in:",
+    options: ["Assam & Bihar", "Gujarat & Rajasthan", "Andhra Pradesh & Karnataka", "Punjab & Haryana"],
+    correct: 2,
+    explanation: "FCV tobacco is grown mainly in Andhra Pradesh and Karnataka, while bidi tobacco is grown in Gujarat and parts of Karnataka and AP."
   },
   {
     id: "d201l_116",
@@ -1183,100 +1167,100 @@ export const da201LectureQuestions: Question[] = [
     subject: "da-201",
     lecture: "lecture-8",
     lectureNo: 8,
-    question: "FC-1 is a fodder cowpea variety. Its main advantage is:",
-    options: ["Tolerance to frost in crop production in agriculture", "Suitability for rabi season only in field conditions", "High green fodder yield with good protein content (18–22%) in a short duration", "Very high seed yield for grain production for agricultural purposes"],
-    correct: 2,
-    explanation: "FC-1 (Fodder Cowpea 1) produces high green fodder yield in a short duration (60–70 days). Cowpea is a legume fodder with 18–22% crude protein, improving livestock milk production and growth rates. It is grown in both kharif and summer seasons."
+    question: "Who is credited with discovering the narcotic qualities of tobacco?",
+    options: ["Norman Borlaug", "Vasco da Gama", "Robert Koch", "Christopher Columbus"],
+    correct: 3,
+    explanation: "Christopher Columbus discovered the narcotic qualities of tobacco during his American voyage in 1492, after which it was introduced into Europe."
   },
   {
     id: "d201l_118",
     subject: "da-201",
     lecture: "lecture-8",
     lectureNo: 8,
-    question: "The sorghum variety S-1049 is recommended for:",
-    options: ["Grain production with bold seeds", "Seed spice production", "Sugar extraction like sugarcane", "High green fodder yield in kharif season"],
-    correct: 3,
-    explanation: "S-1049 (Sorghum for fodder) is a dual-purpose or dedicated fodder sorghum variety with high tillering ability for multi-cut green fodder production. It gives 400–500 q/ha green fodder in kharif season over 3–4 cuts."
+    question: "FCV tobacco varieties in India are mainly developed at:",
+    options: ["CTRI, Rajahmundry", "RARS, Lam", "AICRP, Sholapur", "IARI, New Delhi"],
+    correct: 0,
+    explanation: "FCV tobacco varieties such as Kanakaprabha, Godavari and Jayasri were developed at CTRI, Rajahmundry."
   },
   {
     id: "d201l_119",
     subject: "da-201",
     lecture: "lecture-8",
     lectureNo: 8,
-    question: "The 'Jowar-Cowpea' intercropping system is popular for fodder because:",
-    options: ["Both fix nitrogen equally in crop production in agriculture in the context of integrated farming systems", "No mixing of protein and carbohydrates is needed in animal feed", "Jowar supplies energy and structural carbohydrates; cowpea fixes N and supplies protein, improving overall fodder quality", "Jowar supplies protein; cowpea supplies energy in field conditions for crop production"],
-    correct: 2,
-    explanation: "Sorghum (jowar) is a high-yielding cereal fodder rich in energy but low in protein. Intercropping with cowpea (a legume) adds protein (18–22% CP in cowpea vs 7–9% in sorghum alone), gives a balanced ration, and cowpea also fixes 50–80 kg N/ha."
+    question: "The desirable soil pH for tobacco cultivation is:",
+    options: ["8.5 to 9.0", "5.0 to 6.0", "3.0 to 4.0", "9.5 to 10.0"],
+    correct: 1,
+    explanation: "The desirable soil pH for tobacco is 5.0 to 6.0, though it is also grown successfully on slightly alkaline black soils (pH 7.5-8.8)."
   },
   {
     id: "d201l_120",
     subject: "da-201",
     lecture: "lecture-8",
     lectureNo: 8,
-    question: "Napier-Bajra hybrid (NB-21) is propagated vegetatively using:",
-    options: ["Rhizomes from mother plant", "Root pieces in crop production", "Stem cuttings or slips (3–4 node sections)", "Seeds only in field conditions"],
+    question: "Removal of the terminal flower head of the tobacco plant is called:",
+    options: ["Ratooning", "Delinting", "Topping", "Layering"],
     correct: 2,
-    explanation: "NB-21 hybrid is sterile (triploid-like interspecific hybrid) and does not produce viable seeds. It is propagated vegetatively by stem cuttings (3–4 node sections) or rooted slips. Cuttings are planted in furrows at 60–90 cm spacing."
+    explanation: "Topping is the removal of the terminal flower bud; it arrests apical dominance and increases the nicotine and nitrogen content of the leaf."
   },
   {
     id: "d201l_121",
     subject: "da-201",
     lecture: "lecture-8",
     lectureNo: 8,
-    question: "At what crop stage should jowar (sorghum) fodder be harvested for maximum nutritive value?",
-    options: ["Flowering (anthesis) stage when crude protein is still high", "At full physiological maturity when DM content is maximum", "At 50% flowering stage", "When 50–75% of heads are in milk/early dough stage"],
+    question: "Removal of side shoots after topping in tobacco is called:",
+    options: ["Defoliation", "Detrashing", "Dehusking", "Desuckering"],
     correct: 3,
-    explanation: "Fodder sorghum is harvested at 50–75% head formation to milk stage for optimum balance of yield (DM), digestibility, and palatability. Harvesting too early gives good quality but low yield; too late (grain stage) reduces digestibility."
+    explanation: "Desuckering is the removal of suckers (side shoots) after topping. Topping and desuckering form a composite operation - if suckers are not removed, topping is of no use."
   },
   {
     id: "d201l_122",
     subject: "da-201",
     lecture: "lecture-8",
     lectureNo: 8,
-    question: "Prussic acid (HCN) poisoning in livestock fed on sorghum fodder occurs when:",
-    options: ["Young, stressed (drought, frost) or regrowth sorghum plants are fed as there is high dhurrin content", "Silage-preserved sorghum is fed in field conditions", "Plants are fully mature with high dry matter in crop production in agriculture", "Plants are harvested at flowering stage for agricultural purposes for crop production"],
+    question: "Bidi tobacco is mainly grown in:",
+    options: ["Gujarat", "Tamil Nadu", "Assam", "West Bengal"],
     correct: 0,
-    explanation: "Young sorghum plants and regrowth (ratoon) shoots contain high dhurrin (cyanogenic glucoside) that hydrolyses to HCN under stress (drought, frost, nutrient deficiency). HCN causes prussic acid poisoning in livestock. Silage fermentation destroys most HCN."
+    explanation: "Bidi tobacco is grown mainly in Gujarat, the Nipani area of Karnataka, and the Nandyal area of Andhra Pradesh."
   },
   {
     id: "d201l_123",
     subject: "da-201",
     lecture: "lecture-8",
     lectureNo: 8,
-    question: "The recommended seed rate for berseem fodder is:",
-    options: ["20–25 kg/ha", "50–60 kg/ha", "5 kg/ha", "100 kg/ha"],
-    correct: 0,
-    explanation: "Berseem is sown at 20–25 kg/ha broadcast in a well-prepared, fine-tilled seedbed after mixing with 3–4 times sand for uniform distribution. The small seed (1000 seed weight = 3.5 g) requires a very fine, firm seedbed for good germination."
+    question: "Tobacco was introduced into India in the beginning of the:",
+    options: ["20th century", "17th century", "12th century", "19th century"],
+    correct: 1,
+    explanation: "Tobacco is said to have been introduced into India in the beginning of the 17th century."
   },
   {
     id: "d201l_124",
     subject: "da-201",
     lecture: "lecture-8",
     lectureNo: 8,
-    question: "Which fodder crop is known as the 'Queen of Fodder Crops' in India?",
-    options: ["Cowpea", "Oat", "Sorghum", "Berseem (Trifolium alexandrinum)"],
-    correct: 3,
-    explanation: "Berseem (Trifolium alexandrinum) is called the 'Queen of Fodder Crops' in India because of its excellent nutritive value, palatability, high protein content (18–22% CP), multi-cut ability, nitrogen-fixing ability, and high green fodder yield."
+    question: "Cigar and cheroot tobacco is mainly grown in:",
+    options: ["Gujarat", "Andhra Pradesh & Karnataka", "Tamil Nadu & West Bengal", "Punjab"],
+    correct: 2,
+    explanation: "Cigar and cheroot tobacco is grown in Tamil Nadu and West Bengal, while hookah tobacco is grown in Assam, WB, Bihar, UP and Gujarat."
   },
   {
     id: "d201l_125",
     subject: "da-201",
     lecture: "lecture-8",
     lectureNo: 8,
-    question: "What is the average green fodder yield of Napier-Bajra hybrid NB-21 per year?",
-    options: ["300–400 t/ha/year", "50–80 t/ha/year", "100–250 t/ha/year", "20–30 t/ha/year"],
-    correct: 2,
-    explanation: "NB-21 Napier-Bajra hybrid is one of the highest-yielding perennial fodder crops, producing 100–250 tonnes of green fodder per hectare per year over 6–8 cuts annually. This extraordinary yield potential makes it indispensable for dairy farms."
+    question: "The relative humidity favourable for production of high-quality tobacco leaf is:",
+    options: ["10-20%", "30-40%", "90-100%", "70-80%"],
+    correct: 3,
+    explanation: "Ideal conditions for high-quality tobacco leaf include well-distributed rainfall during active growth, long day lengths and a high relative humidity of 70-80%."
   },
   {
     id: "d201l_126",
     subject: "da-201",
     lecture: "lecture-8",
     lectureNo: 8,
-    question: "Stylosanthes hamata (stylo) is a tropical legume fodder used for:",
-    options: ["Coffee shade plant in crop production in agriculture", "Irrigated cultivation only in field conditions", "Dryland/rangeland improvement and as a protein bank for cattle grazing", "Making silage only for agricultural purposes for crop production"],
-    correct: 2,
-    explanation: "Stylosanthes (stylo) is a drought-hardy tropical legume used to improve degraded pastures and rangeland. It establishes on poor, acidic soils, fixes nitrogen (80–100 kg N/ha), provides nutritious protein-rich fodder even in dry conditions."
+    question: "Which of the following is a released FCV tobacco variety?",
+    options: ["Godavari", "Sindhu", "Armur", "LCA 305"],
+    correct: 0,
+    explanation: "Godavari (and Kanakaprabha, Jayasri, CTRI Special) are released FCV tobacco varieties developed at CTRI, Rajahmundry."
   },
   {
     id: "d201l_127",
@@ -1298,8 +1282,6 @@ export const da201LectureQuestions: Question[] = [
     correct: 0,
     explanation: "Hay-making (sun-drying to <15% moisture) requires no airtight silo, special equipment or acidification. It is simple, low-cost and can be stored for months without special infrastructure. Silage needs airtight silos, is heavier, and requires larger quantities for efficient fermentation."
   },
-
-  // ── Lecture 9: Spices ────────────────────────────────────────────────────────
   {
     id: "d201l_129",
     subject: "da-201",
@@ -1365,10 +1347,10 @@ export const da201LectureQuestions: Question[] = [
     subject: "da-201",
     lecture: "lecture-9",
     lectureNo: 9,
-    question: "The fenugreek variety RMt-1 (Rajasthan Methi-1) was developed at:",
-    options: ["KAU, Thrissur", "UAS, Dharwad", "IARI, New Delhi", "SKRAU, Bikaner, Rajasthan"],
-    correct: 3,
-    explanation: "RMt-1 (Rajasthan Methi-1) was developed by SKN College of Agriculture (under SKRAU), Jobner/Bikaner, Rajasthan. Rajasthan is the largest fenugreek (methi) producing state, with Sikar, Nagaur and Rajsamand as major districts."
+    question: "Coriander seeds are soaked in water before sowing for about:",
+    options: ["1-2 hours", "12-21 hours", "3-4 days", "just a few minutes"],
+    correct: 1,
+    explanation: "After crushing to separate the pericarps, coriander seeds are soaked in water for about 12-21 hours and treated with Thiram before sowing."
   },
   {
     id: "d201l_136",
@@ -1435,10 +1417,10 @@ export const da201LectureQuestions: Question[] = [
     subject: "da-201",
     lecture: "lecture-9",
     lectureNo: 9,
-    question: "The sowing time for fenugreek (methi) in Rajasthan for rabi season is:",
-    options: ["June–July", "March–April", "September–November", "January–February"],
+    question: "In chilli, average night temperature favours a high content of:",
+    options: ["Carthamin", "Curcumin", "Capsaicin", "Ricin"],
     correct: 2,
-    explanation: "Fenugreek is sown in September–November in Rajasthan and North India as a rabi crop. In Telangana it is sown in October–November. Early sowing (September–October) gives maximum seed yield; later sowing gives more green leaf (methi) yield."
+    explanation: "Average night temperature favours high capsaicin content in chilli. Capsaicin is responsible for the pungency of chillies."
   },
   {
     id: "d201l_143",
@@ -1460,8 +1442,6 @@ export const da201LectureQuestions: Question[] = [
     correct: 3,
     explanation: "Coriander is sown at 12–15 kg/ha in line sowing (30 cm rows) after rubbing the split seeds to separate them. Coriander seeds are actually schizocarps (split fruits) with two mericarps, and rubbing before sowing improves germination uniformity."
   },
-
-  // ── Lecture 10: Plantation & Commercial Crops (Tobacco) ─────────────────────
   {
     id: "d201l_145",
     subject: "da-201",
@@ -1527,10 +1507,10 @@ export const da201LectureQuestions: Question[] = [
     subject: "da-201",
     lecture: "lecture-10",
     lectureNo: 10,
-    question: "Granville wilt (bacterial wilt) of tobacco is caused by:",
-    options: ["Phytophthora nicotianae (oomycete)", "Ralstonia solanacearum (bacterium)", "Tobacco mosaic virus (TMV)", "Fusarium oxysporum (fungus)"],
-    correct: 1,
-    explanation: "Granville wilt (southern bacterial wilt) is caused by Ralstonia solanacearum, a soilborne bacterium that colonises the vascular system. Diagnosis: dip cut stem end in water – milky bacterial streaming. Management: resistant varieties, crop rotation, soil solarisation."
+    question: "Along with China, India, Brazil, USA and Zimbabwe, which is a leading tobacco growing country?",
+    options: ["Norway", "Japan", "Canada", "Turkey"],
+    correct: 3,
+    explanation: "The leading tobacco growing countries are China, India, Brazil, USA, Zimbabwe and Turkey."
   },
   {
     id: "d201l_152",
@@ -1577,10 +1557,10 @@ export const da201LectureQuestions: Question[] = [
     subject: "da-201",
     lecture: "lecture-10",
     lectureNo: 10,
-    question: "Blue mould of tobacco in seedbeds is caused by:",
-    options: ["Cercospora nicotianae (fungus)", "Phytoplasma", "Peronospora tabacina (oomycete)", "Tobacco etch virus (TEV)"],
-    correct: 2,
-    explanation: "Blue mould of tobacco is caused by Peronospora tabacina, a downy mildew pathogen (oomycete). It appears as blue-grey sporulation on the underside of leaves. Metalaxyl or dimethomorph fungicides control blue mould in tobacco seedbeds."
+    question: "Besides Nicotiana tabacum, the other cultivated species of tobacco is:",
+    options: ["Nicotiana rustica", "Nicotiana glauca", "Nicotiana sylvestris", "Nicotiana benthamiana"],
+    correct: 0,
+    explanation: "The two cultivated species of tobacco are Nicotiana tabacum and Nicotiana rustica."
   },
   {
     id: "d201l_157",
@@ -1592,8 +1572,6 @@ export const da201LectureQuestions: Question[] = [
     correct: 3,
     explanation: "Continuous tobacco cultivation builds up soilborne pathogens (Phytophthora black shank, Ralstonia wilt, Meloidogyne nematodes), depletes specific soil nutrients, and tobacco-specific chemicals alter the soil microbiome. Rotation with non-host crops for 2–3 years is essential."
   },
-
-  // ── BATCH 2: Additional questions from PJTSAU Theory Notes (DA-201) ──────
   {
     id: "d201x_001",
     subject: "da-201",
@@ -2673,5 +2651,5 @@ export const da201LectureQuestions: Question[] = [
     options: ["2-3 cm", "5-7 cm", "30-40 cm", "15-20 cm"],
     correct: 3,
     explanation: "As per DA-201 notes: For groundnut, the optimum depth of ploughing is 15-20 cm."
-  }
+  },
 ];
