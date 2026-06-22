@@ -33,7 +33,7 @@ export const SUBJECTS: Subject[] = [
   { id: "english-communication", code: "DA-263", name: "Communication Skills in English",       icon: "📝", color: "rose",  description: "Grammar, tenses, voices, letter writing, vocabulary", totalQuestions: 200, category: "General" },
 
   // ── General Agriculture (separate bank) ──
-  { id: "general-agriculture",   code: "GEN-AGRI", name: "General Agriculture",                 icon: "🌍", color: "green", description: "Current affairs, agri schemes, history, FAO/ICAR/PJTSAU, awards, general knowledge", totalQuestions: 100, category: "General" },
+  { id: "general-agriculture",   code: "GEN-AGRI", name: "General Agriculture",                 icon: "🌍", color: "green", description: "Current affairs, govt schemes (PM-KISAN, MSP, WTO, MGNREGS), modern agri-tech, history, FAO/ICAR/PJTSAU, awards, cross-subject GK", totalQuestions: 600, category: "General" },
 ];
 
 export const DEMO_SUBJECT_ID = "da-102";
