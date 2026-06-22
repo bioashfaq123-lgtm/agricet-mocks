@@ -37,10 +37,10 @@ export const da291Questions: Question[] = [
   {
     id: "d291_005",
     subject: "da-291",
-    question: "The T&V (Training and Visit) system of agricultural extension was introduced in India in:",
-    options: ["1974–75 with World Bank financial support for extension reforms", "2000 under the ATMA extension reform framework", "1952 as part of the Community Development Programme by Government", "1991 under the economic liberalisation policy of India"],
-    correct: 0,
-    explanation: "The Training and Visit (T&V) system was introduced in India in 1974–75 with World Bank support. Designed by Daniel Benor, it involves regular fortnightly training of Village Level Workers (VLWs) and scheduled bi-weekly farm visits."
+    question: "Education has been defined as the process of bringing about desirable changes in the:",
+    options: ["Climate of a region", "Soil structure of fields", "Behaviour of human beings", "Prices of commodities"],
+    correct: 2,
+    explanation: "Education is the process of bringing about desirable changes in the behaviour (knowledge, skills, attitudes) of human beings."
   },
   {
     id: "d291_006",
@@ -93,10 +93,10 @@ export const da291Questions: Question[] = [
   {
     id: "d291_012",
     subject: "da-291",
-    question: "Innovators and early adopters in the adoption process represent approximately what percentage of farmers?",
-    options: ["50% each representing majority of farming community", "2.5% and 13.5% respectively in Rogers' diffusion model", "5% and 5% respectively in Rogers' adoption categories", "20% and 40% respectively in the normal adoption curve"],
-    correct: 1,
-    explanation: "Everett Rogers' Diffusion of Innovations categorises adopters as: Innovators (2.5%), Early Adopters (13.5%), Early Majority (34%), Late Majority (34%), and Laggards (16%). Innovators take risks; laggards are last to adopt."
+    question: "Formal education is best described as a system that is:",
+    options: ["Without any curriculum", "Incidental and not pre-planned", "Outside any institution", "Hierarchically structured, running from kindergarten to university"],
+    correct: 3,
+    explanation: "Formal education is the hierarchically structured, graded education system running from kindergarten through the university, including technical and professional institutions."
   },
   {
     id: "d291_013",
@@ -165,10 +165,10 @@ export const da291Questions: Question[] = [
   {
     id: "d291_021",
     subject: "da-291",
-    question: "The 73rd Constitutional Amendment (1992) is related to:",
-    options: ["Panchayati Raj as a three-tier rural local self-government system", "Agricultural land reforms and tenancy regulation in rural areas", "Urban local bodies and municipal governance in Indian cities", "Environmental protection and forest conservation laws in India"],
+    question: "In formal education, attendance is _____, whereas in non-formal (extension) education participation is _____.",
+    options: ["compulsory; voluntary", "voluntary; compulsory", "optional; optional", "banned; banned"],
     correct: 0,
-    explanation: "The 73rd Constitutional Amendment (1992) gave constitutional status to Panchayati Raj Institutions (PRIs) — a three-tier system: Gram Panchayat (village), Panchayat Samiti (block), and Zila Parishad (district). Reservations for women (1/3) and SCs/STs were mandated."
+    explanation: "A key difference is that in formal education attendance is compulsory, while in non-formal education participation is voluntary."
   },
   {
     id: "d291_022",
@@ -221,10 +221,10 @@ export const da291Questions: Question[] = [
   {
     id: "d291_028",
     subject: "da-291",
-    question: "The Community Development Programme (CDP) in India was launched in:",
-    options: ["1962", "1947", "1965", "1952"],
-    correct: 3,
-    explanation: "The Community Development Programme (CDP) was launched on October 2, 1952 (Gandhi Jayanti). It was the first major programme for rural development in independent India, aiming at comprehensive village development through community participation."
+    question: "Education that is incidental, spontaneous, lifelong and not imparted by any specialised agency is called:",
+    options: ["Formal education", "Informal education", "Non-formal education", "Technical education"],
+    correct: 1,
+    explanation: "Informal education is a lifelong, incidental and spontaneous process (e.g. learning at home) that is not pre-planned and is not imparted by any specialised agency."
   },
   {
     id: "d291_029",
@@ -405,18 +405,18 @@ export const da291Questions: Question[] = [
   {
     id: "d291_051",
     subject: "da-291",
-    question: "The IADP (Intensive Agricultural District Programme) was launched in India in:",
-    options: ["1960–61 as a pilot in 7 districts with package of improved inputs", "1985 as a district-level food security programme in food-deficit states", "1975 as part of the Twenty-Point Programme of national development", "1952 as the Community Development Programme phase of rural development"],
-    correct: 0,
-    explanation: "IADP was launched in 1960–61 in 7 pilot districts as India's first intensive agricultural development programme ('Package Programme'). It bundled improved inputs (seeds, fertilizers, credit, extension) to achieve rapid yield increases in selected districts."
+    question: "Compared with formal education, learners in non-formal (extension) education are generally:",
+    options: ["All small children", "Perfectly identical in age and ability", "More heterogeneous in age, education and experience", "All university graduates"],
+    correct: 2,
+    explanation: "In non-formal education the learners are relatively more heterogeneous in age, educational qualification, experience and living conditions, and are often illiterate, so suitable teaching methods are required."
   },
   {
     id: "d291_052",
     subject: "da-291",
-    question: "The IAAP (Intensive Agricultural Area Programme) extended coverage from IADP by:",
-    options: ["Introducing private sector involvement in agricultural extension services", "Focusing exclusively on rice cultivation in coastal agricultural districts", "Extending the package approach from 7 to 114 districts covering crop-specific areas (1964)", "Restricting coverage to smaller pilot zones within existing IADP districts"],
-    correct: 2,
-    explanation: "IAAP (1964) extended the intensive district-based package approach from 7 to 114 districts, covering all major crop areas across India. While IADP covered whole districts, IAAP targeted specific crop areas rather than all crops."
+    question: "Non-formal education is best described as organised, systematic education carried on:",
+    options: ["Only for children below 5 years", "Only inside university lecture halls", "Without any objective", "Outside the framework of the formal school system"],
+    correct: 3,
+    explanation: "Non-formal education is organised, systematic educational activity carried on outside the framework of the formal system to provide a selected type of learning to a particular group."
   },
   {
     id: "d291_053",
@@ -557,10 +557,10 @@ export const da291Questions: Question[] = [
   {
     id: "d291_070",
     subject: "da-291",
-    question: "Agricultural Extension Education as a formal course was introduced in India modelled after:",
-    options: ["University of Illinois and US Land-Grant university model after 1950s", "IARI, New Delhi's agricultural research and extension programme", "Punjab Agricultural University, Ludhiana's extension division (1962)", "TNAU, Coimbatore's early agricultural training programmes in 1906"],
+    question: "A challenge in teaching adults (non-formal education) compared with children is that adults:",
+    options: ["Often have preconceived ideas from past experience", "Have no experience at all", "Cannot learn anything new", "Are always illiterate"],
     correct: 0,
-    explanation: "Agricultural Extension Education as a formal course was introduced in Indian State Agricultural Universities (SAUs) modelled after the US Land-Grant University system. The First Education Commission (1949) and Indo-US cooperation led to establishing SAUs with extension as a core function."
+    explanation: "Adult learners generally have preconceived ideas and notions because of their past experiences, which makes extension teaching more challenging than teaching children with no preconceptions."
   },
   {
     id: "d291_071",
@@ -605,10 +605,10 @@ export const da291Questions: Question[] = [
   {
     id: "d291_076",
     subject: "da-291",
-    question: "The Village Level Worker (VLW) or 'Gram Sevak' was part of which extension system?",
-    options: ["ATMA district-level extension reform framework of 2000s", "National Horticulture Mission state-level extension programme", "Community Development Programme (CDP) block-based extension (1952)", "T&V (Training and Visit) fortnightly extension training system"],
-    correct: 2,
-    explanation: "The Village Level Worker (VLW), also called Gram Sevak or Multi-Purpose Village Worker, was the field-level extension worker in the Community Development Programme (1952). Each VLW covered 5–10 villages and was responsible for all aspects of rural development."
+    question: "The success of an extension programme ultimately depends on the people's:",
+    options: ["Compulsory attendance", "Voluntary participation and felt needs", "Payment of fees", "Examination marks"],
+    correct: 1,
+    explanation: "Because extension is non-formal and voluntary, its success depends on the people's willing participation and on addressing their felt needs."
   },
   {
     id: "d291_077",
@@ -709,10 +709,10 @@ export const da291Questions: Question[] = [
   {
     id: "d291_089",
     subject: "da-291",
-    question: "Farmer Field Schools were originally developed for IPM in rice in:",
-    options: ["India in 1975 as part of the Integrated Pest Management programme", "Mexico in 1960 during the Green Revolution for wheat pest management", "Indonesia in 1989 by FAO in response to pesticide overuse", "USA in 1985 for cotton integrated pest management training"],
+    question: "Agricultural extension is essentially a _____ process between research and the farmer.",
+    options: ["Closed", "One-way", "Two-way", "Secret"],
     correct: 2,
-    explanation: "Farmer Field Schools were developed by FAO in Indonesia (1989) for IPM in rice as a response to pesticide overuse and pest resistance. Farmers meet weekly in their field, observe crop ecosystem, conduct group analysis, and make pest management decisions."
+    explanation: "Agricultural extension is a two-way process: it carries research findings to farmers and takes farmers' problems back to research for solution."
   },
   {
     id: "d291_090",
@@ -749,10 +749,10 @@ export const da291Questions: Question[] = [
   {
     id: "d291_094",
     subject: "da-291",
-    question: "The first agricultural university in India was established at:",
-    options: ["G.B. Pant University of Agriculture and Technology, Pantnagar (1960)", "IARI, New Delhi, established in 1905 as a central research institute", "TNAU, Coimbatore, established in 1906 as Madras Agriculture College", "Punjab Agricultural University, Ludhiana, established in 1962"],
-    correct: 0,
-    explanation: "G.B. Pant University of Agriculture and Technology (GBPUAT), Pantnagar (established 1960) was India's first Agricultural University modelled after US Land-Grant Universities, with extension education as a core function. Established with USAID and Rockefeller Foundation support."
+    question: "The ultimate aim of agricultural extension is to help rural people to:",
+    options: ["Stop farming", "Depend permanently on the government", "Migrate to cities", "Help themselves through their own efforts ('self-help')"],
+    correct: 3,
+    explanation: "Extension follows the principle of 'helping people to help themselves' - developing their ability to solve their own problems using their own resources."
   },
   {
     id: "d291_095",
@@ -797,10 +797,10 @@ export const da291Questions: Question[] = [
   {
     id: "d291_100",
     subject: "da-291",
-    question: "India's 'Agriculture 2.0' (Digital Agriculture Mission) vision emphasises:",
-    options: ["Stopping adoption of foreign agricultural technology and farm inputs", "Digital tools, AI-driven advisory, FPOs, and market-linked extension approach", "Reducing the number of agricultural extension workers and offices", "Returning exclusively to traditional organic farming without external inputs"],
-    correct: 1,
-    explanation: "Agriculture 2.0 (Digital Agriculture Mission) envisions AI/ML, satellite data, IoT-based advisory, FPO strengthening, direct market linkage, and outcome-based digital extension services. It shifts from supply-driven to demand-driven extension using data analytics."
+    question: "Which is a recognised individual-contact extension teaching method?",
+    options: ["Farm and home visit", "Group meeting", "Exhibition", "Radio broadcast"],
+    correct: 0,
+    explanation: "Farm and home visits, office calls and personal letters are individual-contact methods; group meetings are group methods and exhibitions/radio are mass methods."
   },
   {
     id: "d291_101",
@@ -1039,10 +1039,10 @@ export const da291Questions: Question[] = [
   {
     id: "d291_127",
     subject: "Agricultural Extension Education",
-    question: "The number of community development projects started initially under the CDP of 1952 was:",
-    options: ["55", "25", "200", "100"],
-    correct: 0,
-    explanation: "As part of the Community Development Programme started on 2nd October 1952, 55 community development projects were initially organized across the country.",
+    question: "A major demerit of individual-contact extension methods is that they:",
+    options: ["Cannot build personal rapport", "Reach only a few people and are costly per contact", "Provide no feedback", "Are illegal"],
+    correct: 1,
+    explanation: "Individual-contact methods build close rapport and give good feedback, but their demerit is that they reach only a few people and are expensive (time/cost) per contact.",
     difficulty: "medium"
   },
   {
@@ -1147,10 +1147,10 @@ export const da291Questions: Question[] = [
   {
     id: "d291_139",
     subject: "Agricultural Extension Education",
-    question: "Three-column matching: Match the development programme, its year, and its key feature:\nCol A: 1-CDP, 2-Panchayati Raj, 3-NES\nCol B: P-1952, Q-1953, R-1959\nCol C: i-Three tier local governance, ii-55 projects with 300 villages each, iii-National Extension Service",
-    options: ["1-P-iii, 2-R-ii, 3-Q-i", "1-R-i, 2-Q-iii, 3-P-ii", "1-P-ii, 2-R-i, 3-Q-iii", "1-Q-iii, 2-P-ii, 3-R-i"],
+    question: "The chief merit of mass-contact extension methods (radio, publications, campaigns) is that they:",
+    options: ["Always change behaviour permanently", "Give individual personal attention", "Reach a very large number of people quickly", "Require no preparation"],
     correct: 2,
-    explanation: "CDP was started in 1952 (P) with 55 projects of 300 villages each (ii); Panchayati Raj was 1959 (R) with three-tier governance (i); NES was National Extension Service 1953 (Q-iii).",
+    explanation: "Mass methods reach a very large number of people in a short time at low cost per head, though their influence on behaviour change per person is less than individual methods.",
     difficulty: "hard"
   },
   {
@@ -1291,10 +1291,10 @@ export const da291Questions: Question[] = [
   {
     id: "d291_155",
     subject: "Agricultural Extension Education",
-    question: "Assertion (A): The Community Development Programme was launched on Gandhi Jayanti (2nd October) 1952.\nReason (R): Gandhi Jayanti was chosen because Gandhiji's Sevagram experiment in 1921 inspired the CDP model.",
-    options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
-    correct: 1,
-    explanation: "A is true - CDP was launched on 2nd October 1952 (Gandhi Jayanti). R is speculative/false - the official reason for choosing this date is to honor Gandhi's birthday and his legacy of rural development, but the CDP was based on the Etawah project model, not directly the Sevagram model.",
+    question: "A 'pamphlet' as an extension publication is generally:",
+    options: ["A radio script", "A folded single sheet (folder)", "A wall display", "A small printed booklet on a single subject"],
+    correct: 3,
+    explanation: "A pamphlet is a small printed booklet giving information on a single subject; a leaflet/folder is a single (folded) sheet and a bulletin gives more detailed information.",
     difficulty: "hard"
   },
   {

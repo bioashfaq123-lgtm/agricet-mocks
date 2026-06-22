@@ -267,10 +267,10 @@ export const da291LectureQuestions: Question[] = [
     subject: "da-291",
     lecture: "lecture-2",
     lectureNo: 2,
-    question: "The number of farm families normally assigned to one Village Extension Worker (VEW) under T&V system is:",
-    options: ["600â€“800 farmers", "Above 5000 farmers", "50â€“100 farmers", "1000â€“2000 farmers"],
+    question: "Instructional aids that provide learning through hearing only are called:",
+    options: ["Audio aids", "Visual aids", "Audio-visual aids", "Edible aids"],
     correct: 0,
-    explanation: "Under the T&V system, each VEW (Village Extension Worker) is responsible for 600â€“800 farm families in approximately 8â€“10 villages, visiting them on a fixed fortnightly schedule."
+    explanation: "Audio aids (e.g. radio, audio recordings) provide learning through hearing; visual aids through seeing; audio-visual aids through both hearing and watching."
   },
   {
     id: "d291l_028",
@@ -287,10 +287,10 @@ export const da291LectureQuestions: Question[] = [
     subject: "da-291",
     lecture: "lecture-2",
     lectureNo: 2,
-    question: "In a result demonstration, the size of the demonstration plot is typically:",
-    options: ["5â€“10 ha", "0.2â€“0.4 ha (0.5â€“1 acre)", "10â€“20 ha", "0.01 ha (100 sq m)"],
+    question: "In Edgar Dale's Cone of Experience, the most concrete (effective) learning experiences are placed at the:",
+    options: ["Top of the cone (verbal symbols)", "Base of the cone (direct, purposeful experience)", "Outside the cone", "Centre as printed words"],
     correct: 1,
-    explanation: "Result demonstrations are typically conducted on 0.2â€“0.4 ha (0.5â€“1 acre) plots under actual farm conditions to show realistic results that neighboring farmers can relate to."
+    explanation: "In Edgar Dale's Cone of Experience, direct purposeful (concrete) experiences are at the base and abstract verbal symbols at the apex; learning is more effective with concrete experiences."
   },
   {
     id: "d291l_030",
@@ -507,20 +507,20 @@ export const da291LectureQuestions: Question[] = [
     subject: "da-291",
     lecture: "lecture-4",
     lectureNo: 4,
-    question: "The 5 stages of the Adoption-Diffusion Process (Rogers, 1962) are in the correct order:",
-    options: ["Awareness â†’ Trial â†’ Interest â†’ Evaluation â†’ Adoption", "Evaluation â†’ Awareness â†’ Interest â†’ Trial â†’ Adoption", "Interest â†’ Awareness â†’ Trial â†’ Evaluation â†’ Adoption", "Awareness â†’ Interest â†’ Evaluation â†’ Trial â†’ Adoption"],
-    correct: 3,
-    explanation: "Rogers' adoption process: Awareness (first hears about it) â†’ Interest (wants to know more) â†’ Evaluation (mentally tries it) â†’ Trial (small-scale trial) â†’ Adoption (full-scale adoption)."
+    question: "In extension programme planning, a 'project' refers to:",
+    options: ["A single farmer's field", "The entire national plan", "A specific activity undertaken to achieve a defined objective", "A printed leaflet"],
+    correct: 2,
+    explanation: "A project is a specific, time-bound activity or set of activities undertaken to achieve a defined objective within the broader extension programme."
   },
   {
     id: "d291l_052",
     subject: "da-291",
     lecture: "lecture-4",
     lectureNo: 4,
-    question: "Innovators (the first to adopt new technology) constitute approximately what percentage of a community?",
-    options: ["34%", "13.5%", "2.5%", "16%"],
-    correct: 2,
-    explanation: "Rogers' Diffusion of Innovation categorizes adopter categories: Innovators (2.5%), Early Adopters (13.5%), Early Majority (34%), Late Majority (34%) and Laggards (16%)."
+    question: "A sound extension programme should be based on an analysis of the:",
+    options: ["Urban market only", "Wishes of the extension officer alone", "Random guesses", "Facts of the situation and the people's needs"],
+    correct: 3,
+    explanation: "A principle of programme planning is that the programme must be based on an analysis of the facts of the situation and the felt needs of the people."
   },
   {
     id: "d291l_053",
@@ -577,10 +577,10 @@ export const da291LectureQuestions: Question[] = [
     subject: "da-291",
     lecture: "lecture-4",
     lectureNo: 4,
-    question: "The number of KVKs currently operational in India is approximately:",
-    options: ["100", "1000", "731", "300"],
-    correct: 2,
-    explanation: "As of 2023, there are 731 KVKs operational in India, one in each district (with some districts having two). They are the frontline technology transfer institutions of ICAR."
+    question: "'Evaluation' in extension is essentially the process of:",
+    options: ["Determining the extent to which objectives have been achieved", "Collecting taxes from farmers", "Printing more leaflets", "Electing village leaders"],
+    correct: 0,
+    explanation: "Evaluation is the process of determining the extent to which the objectives of an extension programme have been achieved, so that improvements can be made."
   },
   {
     id: "d291l_059",
@@ -807,10 +807,10 @@ export const da291LectureQuestions: Question[] = [
     subject: "da-291",
     lecture: "lecture-6",
     lectureNo: 6,
-    question: "The 73rd Constitutional Amendment Act 1992 related to Panchayati Raj was enacted in which year?",
-    options: ["1992", "1996", "1990", "1994"],
-    correct: 0,
-    explanation: "The 73rd Constitutional Amendment Act was passed in 1992 and came into force on April 24, 1993. It gave constitutional status to Panchayati Raj Institutions (PRIs) in India."
+    question: "Which is an essential element considered in extension evaluation?",
+    options: ["The colour of the office building", "The objectives against which progress is measured", "The price of petrol", "The number of cars"],
+    correct: 1,
+    explanation: "Evaluation involves elements such as clearly stated objectives, evidence of change, and criteria/standards against which the achievement of objectives is judged."
   },
   {
     id: "d291l_082",
@@ -837,40 +837,40 @@ export const da291LectureQuestions: Question[] = [
     subject: "da-291",
     lecture: "lecture-6",
     lectureNo: 6,
-    question: "What minimum reservation for women is mandatory in Panchayati Raj Institutions under the 73rd Amendment?",
-    options: ["25%", "15%", "33% (one-third)", "50%"],
+    question: "Rural society, compared with urban society, is generally characterised by:",
+    options: ["Highly heterogeneous, anonymous living", "Industry as the main occupation", "Agriculture as the main occupation and a simple, homogeneous life", "Absence of any occupation"],
     correct: 2,
-    explanation: "The 73rd Amendment mandates not less than 1/3rd (33%) reservation for women in seats and offices of Sarpanch in PRIs. Many states have increased this to 50%."
+    explanation: "Rural society is marked by agriculture as the dominant occupation, simpler and relatively homogeneous social life, close (primary) relationships and strong traditions."
   },
   {
     id: "d291l_085",
     subject: "da-291",
     lecture: "lecture-6",
     lectureNo: 6,
-    question: "The 11th Schedule of the Indian Constitution (added by 73rd Amendment) lists how many subjects to be assigned to Panchayats?",
-    options: ["18 subjects", "29 subjects", "66 subjects", "52 subjects"],
-    correct: 1,
-    explanation: "The 11th Schedule lists 29 subjects including agriculture, land improvement, minor irrigation, animal husbandry, fisheries, social forestry, cottage industries, rural housing and primary education."
+    question: "Primary (face-to-face, intimate) relationships are MORE typical of:",
+    options: ["International airports", "Large industrial cities", "Stock exchanges", "Rural communities"],
+    correct: 3,
+    explanation: "Rural communities are characterised by primary (close, face-to-face, personal) relationships, whereas urban communities tend to have secondary, impersonal relationships."
   },
   {
     id: "d291l_086",
     subject: "da-291",
     lecture: "lecture-6",
     lectureNo: 6,
-    question: "The duration of each Panchayati Raj Institution's term as mandated by the 73rd Amendment is:",
-    options: ["5 years", "2 years", "6 years", "3 years"],
+    question: "A major problem of rural development in India is:",
+    options: ["Poverty, illiteracy and inadequate infrastructure in villages", "Excess of skyscrapers", "Too many stock markets", "Surplus of industries"],
     correct: 0,
-    explanation: "The 73rd Constitutional Amendment mandates a 5-year term for all Panchayati Raj Institutions. If dissolved earlier, fresh elections must be conducted within 6 months."
+    explanation: "Rural development must tackle problems such as widespread rural poverty, illiteracy, unemployment/underemployment and inadequate infrastructure and services."
   },
   {
     id: "d291l_087",
     subject: "da-291",
     lecture: "lecture-6",
     lectureNo: 6,
-    question: "State Election Commission (SEC) as required by the 73rd Amendment supervises:",
-    options: ["Elections to Panchayati Raj Institutions and Urban Local Bodies", "State Assembly elections in extension education", "Cooperative society elections in rural development programmes", "Parliamentary elections in rural areas"],
-    correct: 0,
-    explanation: "Each state's State Election Commission (SEC) is responsible for superintendence, direction and control of preparation of electoral rolls and conduct of elections to PRIs and Urban Local Bodies."
+    question: "Participatory Rural Appraisal (PRA) emphasises that the analysis is done:",
+    options: ["Only by outside experts", "By the rural people themselves, with the worker as a facilitator", "Only by the government", "Without involving villagers"],
+    correct: 1,
+    explanation: "PRA reverses the conventional approach: rural people themselves appraise, analyse and plan, while the extension worker acts only as a facilitator/learner."
   },
   {
     id: "d291l_088",
@@ -907,10 +907,10 @@ export const da291LectureQuestions: Question[] = [
     subject: "da-291",
     lecture: "lecture-6",
     lectureNo: 6,
-    question: "Which committee recommended the establishment of three-tier Panchayati Raj in India (1957)?",
-    options: ["Ashok Mehta Committee", "L.M. Singhvi Committee", "Kelkar Committee", "Balwantrai Mehta Committee"],
-    correct: 3,
-    explanation: "The Balwantrai Mehta Committee (1957) recommended a three-tier democratic decentralization structure (Panchayati Raj) with Gram Panchayat, Panchayat Samiti and Zilla Parishad."
+    question: "Which is a commonly used PRA technique?",
+    options: ["DNA sequencing", "Soil chemical titration", "Social/resource mapping by villagers", "Satellite launching"],
+    correct: 2,
+    explanation: "PRA techniques include social and resource mapping, transect walks, seasonal calendars, Venn (chapati) diagrams and matrix/wealth ranking, carried out with the villagers."
   },
   {
     id: "d291l_092",
@@ -927,10 +927,10 @@ export const da291LectureQuestions: Question[] = [
     subject: "da-291",
     lecture: "lecture-6",
     lectureNo: 6,
-    question: "Under the 73rd Amendment, which constitutional body is responsible for recommending devolution of state revenue to PRIs?",
-    options: ["Inter-State Council", "CAG (Comptroller and Auditor General)", "Finance Commission (State Finance Commission", "Planning Commission"],
-    correct: 2,
-    explanation: "Each state must constitute a State Finance Commission (SFC) every 5 years to review the financial position of PRIs and recommend principles for devolution of state taxes and grants to them."
+    question: "Leadership in which decisions are taken with the participation and consent of the group is called:",
+    options: ["Absentee leadership", "Autocratic leadership", "Laissez-faire leadership", "Democratic leadership"],
+    correct: 3,
+    explanation: "In democratic (participative) leadership, decisions are taken with the involvement and consent of the group; in autocratic leadership the leader decides alone."
   },
   {
     id: "d291l_094",
@@ -947,10 +947,10 @@ export const da291LectureQuestions: Question[] = [
     subject: "da-291",
     lecture: "lecture-6",
     lectureNo: 6,
-    question: "The 73rd Amendment was significant for agriculture because it:",
-    options: ["Transferred 29 subjects including agriculture to Panchayats for local governance", "Nationalized all agricultural land in extension education", "Established NABARD in rural development programmes", "Abolished all agricultural taxes under this extension approach"],
+    question: "A 'laissez-faire' (free-rein) leader is one who:",
+    options: ["Gives the group full freedom with minimum interference", "Controls every action tightly", "Takes all decisions alone", "Never allows any meeting"],
     correct: 0,
-    explanation: "The 73rd Amendment transferred 29 subjects (including agriculture, minor irrigation, animal husbandry, social forestry, poverty alleviation) to Panchayats, enabling local governance of rural development."
+    explanation: "A laissez-faire (free-rein) leader gives the group maximum freedom and exercises minimum control or direction, leaving decisions largely to the members."
   },
   {
     id: "d291l_096",
@@ -977,10 +977,10 @@ export const da291LectureQuestions: Question[] = [
     subject: "da-291",
     lecture: "lecture-7",
     lectureNo: 7,
-    question: "The Government of India scheme to form 10,000 new FPOs was launched in which year?",
-    options: ["2022", "2018", "2020", "2015"],
-    correct: 2,
-    explanation: "The Central Government launched the '10,000 FPOs Scheme' in February 2020 with a budget of Rs. 6865 crore to form and promote 10,000 Farmer Producer Organizations across India by 2027-28."
+    question: "Training of local leaders is valuable in extension because trained leaders:",
+    options: ["Replace the gram panchayat election", "Multiply the reach of extension by guiding fellow villagers", "Fix the market price of crops", "Issue land titles"],
+    correct: 1,
+    explanation: "Selecting and training local leaders multiplies extension's reach, as they communicate messages effectively to fellow villagers and sustain programmes after the worker leaves."
   },
   {
     id: "d291l_099",
@@ -1037,10 +1037,10 @@ export const da291LectureQuestions: Question[] = [
     subject: "da-291",
     lecture: "lecture-7",
     lectureNo: 7,
-    question: "The Revised Guidelines on ATMA (2010) proposed that State Farmer Advisory Committees include:",
-    options: ["Only research scientists in extension education in agriculture", "Only government officials in rural development programmes", "Only large farmers and industry representatives", "At least 60% farmer representation (including women and marginalized farmers)"],
-    correct: 3,
-    explanation: "ATMA revised guidelines (2010) require Farmer Advisory Committees at district, block and village levels with at least 60% farmer representatives including women, small/marginal farmers and SHGs."
+    question: "Community development is fundamentally a programme of:",
+    options: ["Industrial expansion", "Government action without people", "People's participation for their own all-round development", "Urban housing only"],
+    correct: 2,
+    explanation: "Community development is a process and programme in which people participate, with government assistance, to bring about their own economic, social and cultural development."
   },
   {
     id: "d291l_105",
@@ -1287,10 +1287,10 @@ export const da291LectureQuestions: Question[] = [
     subject: "da-291",
     lecture: "lecture-9",
     lectureNo: 9,
-    question: "NABARD (National Bank for Agriculture and Rural Development) was established in:",
-    options: ["1990", "1965", "1982", "1945"],
-    correct: 2,
-    explanation: "NABARD was established on July 12, 1982, based on the recommendations of the Committee to Review Arrangements for Institutional Credit for Agriculture and Rural Development (CRAFICARD) chaired by B. Sivaraman."
+    question: "The intermediate (block/mandal) tier of the three-tier Panchayat Raj system is the:",
+    options: ["State Legislature", "Gram Panchayat", "Zilla Parishad", "Mandal/Panchayat Samiti"],
+    correct: 3,
+    explanation: "The intermediate tier of Panchayat Raj is the Mandal Parishad/Panchayat Samiti (block level), between the Gram Panchayat (village) and the Zilla Parishad (district)."
   },
   {
     id: "d291l_130",
@@ -1347,20 +1347,20 @@ export const da291LectureQuestions: Question[] = [
     subject: "da-291",
     lecture: "lecture-9",
     lectureNo: 9,
-    question: "The cooperative movement in India got its first legal framework through:",
-    options: ["National Bank Act 1982", "RBI Act 1934", "Cooperative Societies Act 1912", "Cooperative Societies Act 1904"],
-    correct: 3,
-    explanation: "The Cooperative Credit Societies Act 1904 was India's first legislation for cooperatives, leading to the formation of agricultural credit cooperatives. The Cooperative Societies Act 1912 gave further impetus."
+    question: "The general body of all adult voters of a village in the Panchayat Raj system is the:",
+    options: ["Gram Sabha", "Zilla Parishad", "Lok Sabha", "Rajya Sabha"],
+    correct: 0,
+    explanation: "The Gram Sabha consists of all adult voters of a village (panchayat) and is the foundation of the Panchayat Raj system."
   },
   {
     id: "d291l_136",
     subject: "da-291",
     lecture: "lecture-9",
     lectureNo: 9,
-    question: "Regional Rural Banks (RRBs) were established in India in:",
-    options: ["1990", "1982", "1959", "1975"],
-    correct: 3,
-    explanation: "RRBs were established in October 1975 (first RRB: Prathama Bank in Moradabad, UP) under RRB Act 1976, combining the strengths of cooperative societies and commercial banks to serve rural areas."
+    question: "Under the ATMA model, extension is made:",
+    options: ["Top-down and centralised at the national level", "Bottom-up, farmer-driven and decentralised at the district level", "Purely commercial with no farmers", "Run only from foreign countries"],
+    correct: 1,
+    explanation: "ATMA (Agricultural Technology Management Agency) decentralises extension to the district level, making it bottom-up, participatory and farmer-driven (and market-led)."
   },
   {
     id: "d291l_137",
@@ -1417,10 +1417,10 @@ export const da291LectureQuestions: Question[] = [
     subject: "da-291",
     lecture: "lecture-9",
     lectureNo: 9,
-    question: "Vaidyanathan Committee report (2004) recommended revival of which cooperative credit institution?",
-    options: ["Commercial banks", "RRBs only as recommended by ICAR guidelines", "NABARD itself", "Primary Agricultural Cooperative Societies (PACS)"],
-    correct: 3,
-    explanation: "The Vaidyanathan Task Force/Committee on revival of rural cooperative credit structure (2004) recommended revival of PACS, DCCBs and SCBs with government financial support for recapitalization and reforms."
+    question: "The 'felt needs' principle of extension means programmes should start from:",
+    options: ["The needs of city consumers", "The needs decided only by scientists", "The needs that the people themselves recognise and feel", "Needs imposed by law"],
+    correct: 2,
+    explanation: "Extension should begin with the felt needs - the needs that the people themselves recognise - so that they are motivated to participate and act."
   },
   {
     id: "d291l_143",
@@ -1487,10 +1487,10 @@ export const da291LectureQuestions: Question[] = [
     subject: "da-291",
     lecture: "lecture-10",
     lectureNo: 10,
-    question: "National Horticulture Mission (NHM) was launched in India in:",
-    options: ["2009", "2014", "2001", "2005"],
+    question: "Which is a merit of a result demonstration in extension?",
+    options: ["It works only indoors", "It teaches a manual skill step by step", "It needs no land or inputs", "It convinces farmers by showing actual results and builds confidence"],
     correct: 3,
-    explanation: "National Horticulture Mission (NHM) was launched in 2005-06 during the 10th Five Year Plan to promote holistic development of horticulture sector including fruits, vegetables, flowers, spices and medicinal plants."
+    explanation: "A result demonstration convinces farmers of the worth of an improved practice by showing actual results in the field, building their confidence to adopt it."
   },
   {
     id: "d291l_150",
@@ -1527,10 +1527,10 @@ export const da291LectureQuestions: Question[] = [
     subject: "da-291",
     lecture: "lecture-10",
     lectureNo: 10,
-    question: "The Green Revolution in India was mainly associated with which crop and state in the 1960s?",
-    options: ["Wheat in Punjab and rice in West Bengal", "Pulses in Rajasthan in rural development programmes", "Cotton in Gujarat in extension education", "Sorghum in Andhra Pradesh under this extension approach"],
+    question: "In a method demonstration, the emphasis is on teaching the farmer:",
+    options: ["How to do a particular operation or skill", "The history of agriculture", "The price of land", "The names of officials"],
     correct: 0,
-    explanation: "The Green Revolution (late 1960s) was associated with HYV wheat (Sonora-64, Lerma Roja) in Punjab, Haryana and Western UP, and HYV rice (IR-8) initially. Norman Borlaug and M.S. Swaminathan are credited."
+    explanation: "A method demonstration teaches 'how to do' a particular operation/skill through seeing, listening and doing, so the learner can perform it himself."
   },
   {
     id: "d291l_154",
@@ -1577,10 +1577,10 @@ export const da291LectureQuestions: Question[] = [
     subject: "da-291",
     lecture: "lecture-10",
     lectureNo: 10,
-    question: "Community Development Programme (CDP) in India was launched in:",
-    options: ["1952", "1960", "1947", "1965"],
-    correct: 0,
-    explanation: "Community Development Programme (CDP) was launched on October 2, 1952 (Gandhi Jayanti) to bring about integrated rural development through local self-government, community participation and administrative support."
+    question: "The extension worker functions mainly as a _____ between research and farmers.",
+    options: ["Tax collector", "Link / bridge (communicator)", "Money lender", "Land surveyor"],
+    correct: 1,
+    explanation: "The extension worker is the vital link/bridge that communicates research findings to farmers and conveys farmers' problems back to research."
   },
   {
     id: "d291l_159",
@@ -1860,10 +1860,10 @@ export const da291LectureQuestions: Question[] = [
     subject: "da-291",
     lecture: "lecture-14",
     lectureNo: 13,
-    question: "Three-column matching: Match the pre-independence rural development project, its year, and its founder/location:\nCol A: 1-Srinikethan, 2-Sevagram, 3-Gurugram experiment\nCol B: P-1914, Q-1921, R-1920s\nCol C: i-F L B Brown/Punjab, ii-Rabindranath Tagore/West Bengal, iii-Gandhiji/Maharashtra",
-    options: ["1-P-ii, 2-Q-iii, 3-R-i", "1-P-iii, 2-Q-i, 3-R-ii", "1-R-i, 2-P-ii, 3-Q-iii", "1-Q-ii, 2-P-iii, 3-R-i"],
-    correct: 0,
-    explanation: "Srinikethan (P-1914, ii-Tagore/West Bengal); Sevagram (Q-1921, iii-Gandhiji/Maharashtra); Gurugram experiment (R-1920s, i-F L B Brown/Punjab).",
+    question: "A 'calendar of work' differs from a 'plan of work' in that the calendar mainly fixes the:",
+    options: ["Names of voters", "Money to be spent only", "Time schedule (when each activity is done)", "Soil type"],
+    correct: 2,
+    explanation: "The plan of work states what is to be done, how and by whom; the calendar of work arranges those activities according to the time/season when each is to be carried out.",
     difficulty: "hard"
   },
   {
@@ -1882,10 +1882,10 @@ export const da291LectureQuestions: Question[] = [
     subject: "da-291",
     lecture: "lecture-13",
     lectureNo: 14,
-    question: "The Community Development Programme (CDP) was launched in India on:",
-    options: ["26th January 1950", "2nd October 1952", "15th August 1947", "2nd October 1959"],
-    correct: 1,
-    explanation: "The Community Development Programme was started in India on 2nd October 1952 (Gandhi Jayanti), with 55 community development projects organized across the country.",
+    question: "Mass extension methods are MOST appropriate when the objective is to:",
+    options: ["Audit accounts", "Teach a complex skill to one farmer", "Settle a land dispute", "Create awareness among a large number of people"],
+    correct: 3,
+    explanation: "Mass methods (radio, publications, campaigns, exhibitions) are best for creating awareness and disseminating information to large numbers, the first step in the adoption process.",
     difficulty: "easy"
   },
   {
@@ -1893,10 +1893,10 @@ export const da291LectureQuestions: Question[] = [
     subject: "da-291",
     lecture: "lecture-13",
     lectureNo: 14,
-    question: "Each community development project under CDP (1952) consisted of approximately:",
-    options: ["100 villages, 50,000 population, 50,000 acres of land", "200 villages, 1 lakh population, 1,00,000 acres of land", "300 villages, 2 lakh population, 1,50,000 acres of agricultural land", "500 villages, 5 lakh population, 3,00,000 acres of land"],
-    correct: 2,
-    explanation: "Each CDP project consisted of 300 villages, 2 lakh population and 1,50,000 acres of agricultural land, divided into 3 blocks of 100 villages each.",
+    question: "The principle of 'working with people, not for them' in extension implies:",
+    options: ["Involving people actively in planning and executing programmes", "Doing everything for the people without their effort", "Ignoring the people's views", "Working only with officials"],
+    correct: 0,
+    explanation: "Extension works WITH the people - involving them in identifying problems, planning and carrying out programmes - rather than doing things FOR them, which builds self-reliance.",
     difficulty: "medium"
   },
   {
