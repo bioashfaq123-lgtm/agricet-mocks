@@ -162,10 +162,10 @@ export const DA241_LECTURES: Lecture[] = [
   lec("da-241", 4, "Agricultural Marketing", "Meaning, functions, marketing channels, regulated markets (APMC), grading, MSP"),
   lec("da-241", 5, "Agricultural Credit & Finance", "Short/medium/long term credit, NABARD, Kisan Credit Card, cooperative credit"),
   lec("da-241", 6, "Agricultural Cooperatives", "Types, structure, IFFCO, KRIBHCO, cooperative societies in Telangana"),
-  lec("da-241", 7, "Government Schemes & Subsidies", "PM-KISAN, PMFBY, Rythu Bandhu, Rythu Bima, Fasal Bima Yojana"),
-  lec("da-241", 8, "MSP & Procurement Policies", "MSP determination, CACP, PDS, food security, procurement agencies"),
-  lec("da-241", 9, "International Trade & WTO", "Export-import of agricultural commodities, WTO agreements, trade policy"),
-  lec("da-241", 10, "Rural Development & Poverty", "Rural poverty, MGNREGS, rural development programmes, SHGs"),
+  lec("da-241", 7, "Theory of Costs", "Cost concepts – fixed, variable, total, average & marginal costs; opportunity, implicit & explicit costs"),
+  lec("da-241", 8, "Revenue & Market Structures", "TR, AR, MR; perfect competition vs monopoly; elasticity of production; stages of production"),
+  lec("da-241", 9, "Agricultural Marketing & Markets", "Market classification, marketing functions, characteristics of agricultural commodities"),
+  lec("da-241", 10, "Production Economics & Returns", "Production function, TP/AP/MP, law of returns, returns to scale, economies of scale"),
 ];
 
 // ── DA-252: Survey, Levelling & Field Measurements ──────────────────────────

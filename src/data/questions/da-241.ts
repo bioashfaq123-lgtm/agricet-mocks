@@ -1,3 +1,4 @@
+// ===== FILE: da-241.ts =====
 import { Question } from "@/types";
 
 export const da241Questions: Question[] = [
@@ -52,26 +53,26 @@ export const da241Questions: Question[] = [
   {
     id: "d241_007",
     subject: "da-241",
-    question: "The National Food Security Act (NFSA) in India was enacted in:",
-    options: ["2010", "2013", "2016", "2005"],
-    correct: 1,
-    explanation: "The National Food Security Act (NFSA) was enacted in 2013. It provides legal right to subsidised food grains to approximately 75% rural and 50% urban population — covering about 67% of India's total population."
+    question: "A tractor was purchased 10 years ago for Rs 1,50,000; its present price is Rs 2,50,000. The replacement cost is:",
+    options: ["Rs 4,00,000", "Rs 2,50,000", "Rs 1,50,000", "Rs 1,00,000"],
+    correct: 3,
+    explanation: "Replacement cost is the difference between the purchase price of an asset and its current price: Rs 2,50,000 − Rs 1,50,000 = Rs 1,00,000."
   },
   {
     id: "d241_008",
     subject: "da-241",
-    question: "The Minimum Support Price (MSP) is announced by:",
-    options: ["State Agriculture Departments after consulting district-level farmer advisory bodies", "Farmer producer organisations based on aggregated production cost survey data", "NABARD after evaluating crop production costs in consultation with state governments", "Central government based on CACP recommendations"],
+    question: "Costs that remain the same irrespective of the level of production are called:",
+    options: ["Prime costs", "Variable costs", "Marginal costs", "Fixed costs"],
     correct: 3,
-    explanation: "The Minimum Support Price (MSP) is announced by the Central Government based on recommendations of the Commission for Agricultural Costs and Prices (CACP). It ensures remunerative prices to farmers and food security."
+    explanation: "Fixed costs remain the same irrespective of the level of output; they include taxes, insurance, depreciation and salaries, and are also called indirect, sunk or overhead costs."
   },
   {
     id: "d241_009",
     subject: "da-241",
-    question: "The Green Revolution in India is associated with which period?",
-    options: ["Early 1950s post-independence period", "1980s liberalisation decade", "1990s economic reforms period", "Late 1960s and 1970s"],
+    question: "Total Fixed Cost (TFC) curve is graphically represented as:",
+    options: ["A downward sloping straight line", "An inverse-S shaped curve", "A U-shaped curve", "A horizontal straight line parallel to the X-axis"],
     correct: 3,
-    explanation: "The Green Revolution in India occurred in the late 1960s and 1970s. It was driven by introduction of HYV seeds (wheat, rice), chemical fertilizers, irrigation, and pesticides. It made India self-sufficient in food grains."
+    explanation: "Since fixed costs do not change with output, the Total Fixed Cost (TFC) curve is a horizontal straight line parallel to the X-axis."
   },
   {
     id: "d241_010",
@@ -108,18 +109,18 @@ export const da241Questions: Question[] = [
   {
     id: "d241_014",
     subject: "da-241",
-    question: "The government scheme that provides crop insurance to farmers in India is:",
-    options: ["MNREGA in the agricultural economy", "Pradhan Mantri Fasal Bima Yojana (PMFBY)", "Kisan Credit Card", "PM-KISAN in rural economic context"],
-    correct: 1,
-    explanation: "Pradhan Mantri Fasal Bima Yojana (PMFBY) was launched in 2016 to provide comprehensive crop insurance against natural calamities. Premium is subsidised — farmers pay 1.5–2% for rabi and 2% for kharif crops."
+    question: "Variable costs (raw materials, labour, power) are also known as:",
+    options: ["Indirect costs", "Sunk costs", "Overhead costs", "Working or operating costs"],
+    correct: 3,
+    explanation: "Variable costs vary with output and are also called working, operating, direct, prime, circulating or running costs; their summation is Total Variable Cost (TVC), which has an inverse-S shape."
   },
   {
     id: "d241_015",
     subject: "da-241",
-    question: "PM-KISAN scheme provides financial assistance of _______ per year to farmer families:",
-    options: ["₹2,000", "₹6,000", "₹12,000", "₹4,000"],
-    correct: 1,
-    explanation: "PM-KISAN (Pradhan Mantri Kisan Samman Nidhi) was launched in 2019. It provides ₹6,000 per year (in three installments of ₹2,000 each) as income support to all landholding farmer families."
+    question: "The value of return sacrificed from the next best alternative use of a resource is called:",
+    options: ["Opportunity cost", "Explicit cost", "Social cost", "Historical cost"],
+    correct: 0,
+    explanation: "Opportunity cost is the value of return foregone from the next best alternative activity; owned farm resources are valued on this basis in cost analysis."
   },
   {
     id: "d241_016",
@@ -140,18 +141,18 @@ export const da241Questions: Question[] = [
   {
     id: "d241_018",
     subject: "da-241",
-    question: "The 'e-NAM' platform in India was launched for:",
-    options: ["Digital agricultural education and training programmes for rural youth", "Online savings and loan banking services for rural farmer communities", "National Agriculture Market — online trading of agricultural produce", "Digitization of land records and property registration for farmers"],
-    correct: 2,
-    explanation: "e-NAM (National Agriculture Market) is an online trading portal launched in 2016 that connects APMC mandis across India. It enables farmers to sell produce online to buyers across the country, ensuring competitive prices."
+    question: "The profit-maximising rule for a firm (marginal analysis) is reached where:",
+    options: ["MP = AP", "AC = AR", "TC = TR", "MC = MR"],
+    correct: 3,
+    explanation: "The profit-maximising rule, determined through marginal analysis, is that a firm is in equilibrium where Marginal Cost equals Marginal Revenue (MC = MR)."
   },
   {
     id: "d241_019",
     subject: "da-241",
-    question: "Land reform refers to:",
-    options: ["Redistribution of land from large landowners to landless poor", "Construction of field channels, check dams, and irrigation infrastructure", "Physical levelling and grading of agricultural land for uniform irrigation", "Improvement of soil fertility through organic manures, lime, and micronutrient application"],
+    question: "Costs of self-owned and self-employed resources of a farmer are called:",
+    options: ["Implicit costs", "Explicit costs", "Cash costs", "Paid-out costs"],
     correct: 0,
-    explanation: "Land reform includes measures like land ceiling (maximum land one can hold), abolition of zamindari (intermediary land tenure), redistribution of surplus land to landless poor, and tenancy reforms (security for tenant farmers)."
+    explanation: "Implicit costs are the value of owned resources (family labour, owned land/machinery). Explicit costs are paid-out or cash costs for purchased/hired inputs."
   },
   {
     id: "d241_020",
@@ -196,10 +197,10 @@ export const da241Questions: Question[] = [
   {
     id: "d241_025",
     subject: "da-241",
-    question: "Food Corporation of India (FCI) was established in:",
-    options: ["1975", "1956", "1947", "1965"],
+    question: "Total Revenue (TR) of a firm is obtained as:",
+    options: ["Price ÷ quantity", "Total cost ÷ output", "Change in revenue ÷ change in output", "Price × Quantity sold (P × Q)"],
     correct: 3,
-    explanation: "Food Corporation of India (FCI) was established in 1965 to implement the government's food policy — procurement of food grains at MSP, maintenance of buffer stock, and distribution through the Public Distribution System (PDS)."
+    explanation: "Total Revenue is the total income from the sale of output: TR = P × Q, where P is price and Q is quantity sold."
   },
   {
     id: "d241_026",
@@ -220,18 +221,18 @@ export const da241Questions: Question[] = [
   {
     id: "d241_028",
     subject: "da-241",
-    question: "The main objective of the Public Distribution System (PDS) is:",
-    options: ["To generate revenue for the government through commodity taxation and trade margins", "To control domestic food price inflation by imposing statutory ceilings on traders", "To export surplus food grains to international markets and earn foreign exchange", "To provide food grains at subsidised prices to the poor"],
-    correct: 3,
-    explanation: "The Public Distribution System (PDS) distributes food grains (rice, wheat, sugar, kerosene) at subsidised prices through Fair Price Shops (ration shops) to Below Poverty Line (BPL) and Antyodaya households."
+    question: "Average Revenue (AR) of a firm is always equal to:",
+    options: ["Price of the commodity", "Marginal cost", "Total revenue", "Quantity sold"],
+    correct: 0,
+    explanation: "AR = TR/Q = (P·Q)/Q = P. Thus average revenue equals price, and the demand/price curve is the average revenue curve."
   },
   {
     id: "d241_029",
     subject: "da-241",
-    question: "Which body recommends the Minimum Support Price (MSP) to the central government?",
-    options: ["NITI Aayog in the agricultural economy", "Commission for Agricultural Costs and Prices (CACP)", "NABARD in rural economic context", "RBI for farm income analysis"],
-    correct: 1,
-    explanation: "The Commission for Agricultural Costs and Prices (CACP) is a statutory body that recommends MSP for 22 mandated crops including Kharif, Rabi crops, and commercial crops. The final MSP is announced by the Cabinet Committee on Economic Affairs."
+    question: "Marginal Revenue (MR) is defined as:",
+    options: ["Price multiplied by quantity", "The total sale proceeds of a firm", "The revenue per unit of output sold", "The net addition to total revenue from selling an additional unit"],
+    correct: 3,
+    explanation: "Marginal Revenue is the net addition to total revenue from selling one more unit: MR = ∆TR/∆Q = TRn − TR(n−1)."
   },
   {
     id: "d241_030",
@@ -276,10 +277,10 @@ export const da241Questions: Question[] = [
   {
     id: "d241_035",
     subject: "da-241",
-    question: "The 'National Agricultural Market' (e-NAM) portal was launched in:",
-    options: ["2016", "2012", "2014", "2018"],
+    question: "Under perfect competition, the demand curve facing an individual firm is:",
+    options: ["Perfectly (infinitely) elastic", "Perfectly inelastic", "Downward sloping and steep", "Upward sloping"],
     correct: 0,
-    explanation: "e-NAM (Electronic National Agriculture Market) was launched on 14 April 2016 by PM Modi. It is an online trading platform connecting 1,000+ APMC mandis across India for transparent price discovery. Farmers can sell their produce to buyers across the country through the portal."
+    explanation: "Under perfect competition there are many buyers and sellers of a homogeneous product and a single price prevails, so the firm's demand curve is infinitely elastic; AR = MR = price."
   },
   {
     id: "d241_037",
@@ -332,10 +333,10 @@ export const da241Questions: Question[] = [
   {
     id: "d241_043",
     subject: "da-241",
-    question: "The 'Pradhan Mantri Fasal Bima Yojana' (PMFBY) provides:",
-    options: ["Complete loan waiver for crop loans taken from cooperative banks and RRBs", "Crop insurance at low premium rates with government subsidy on insurance premium", "Free irrigation water through canal distribution during kharif and rabi seasons", "Free certified seeds of improved varieties distributed to all registered farmers"],
+    question: "Under perfect competition, for an individual firm:",
+    options: ["AR > MR", "AR = MR = Price", "MR > AR", "AR = MC only"],
     correct: 1,
-    explanation: "PMFBY (Pradhan Mantri Fasal Bima Yojana) launched 2016: crop insurance at farmer premium of 2% for Kharif, 1.5% for Rabi, 5% for commercial/horticulture. Government pays the balance premium. Covers losses from natural calamities, pests, and diseases."
+    explanation: "Under perfect competition the firm sells any quantity at the prevailing market price, so Average Revenue = Marginal Revenue = Price."
   },
   {
     id: "d241_044",
@@ -372,18 +373,18 @@ export const da241Questions: Question[] = [
   {
     id: "d241_048",
     subject: "da-241",
-    question: "The 'terms of trade' for agriculture (Tott) refers to:",
-    options: ["Volume of agricultural commodities traded between local farming communities annually in the agricultural economy", "Bilateral trade agreements between countries governing agricultural tariffs and quotas in rural economic context", "The ratio of prices received by farmers (output prices) to prices paid by farmers (input prices)", "Government export-import policy determining duty structure on agricultural products for farm income analysis"],
-    correct: 2,
-    explanation: "Terms of Trade (ToT) for agriculture = (Index of prices received by farmers) / (Index of prices paid by farmers) × 100. When ToT < 100, agriculture is in unfavourable terms of trade — farmers' purchasing power for inputs has declined. ToT improvement is a policy goal."
+    question: "Elasticity of production (Ep) is the ratio of:",
+    options: ["Total revenue to total cost", "Total product to marginal product", "Price to quantity", "Marginal Physical Product to Average Physical Product"],
+    correct: 3,
+    explanation: "Elasticity of production (Ep) measures the responsiveness of output to input changes and equals the ratio of Marginal Physical Product (MPP) to Average Physical Product (APP)."
   },
   {
     id: "d241_049",
     subject: "da-241",
-    question: "The APMC Act reforms allowing private markets and direct farmer-to-processor sales were promoted by:",
-    options: ["WTO Agreement on Agriculture requiring mandatory removal of state trading restrictions", "Model APMC Act (2003), Model Contract Farming Act (2018), and Farm Laws (2020 — later withdrawn)", "RBI monetary policy framework for agricultural credit and rural market development", "State governments acting independently based on their own agricultural marketing legislation"],
-    correct: 1,
-    explanation: "Central government promoted APMC reforms through: Model APMC Act (2003) — for private markets, FDI in agri marketing; Model Contract Farming Act (2018); and three Farm Laws (2020 — withdrawn in 2021). States like Bihar abolished APMC entirely; most are reforming partially."
+    question: "Average Fixed Cost (AFC) is calculated as:",
+    options: ["Total Fixed Cost ÷ Output", "Total Variable Cost ÷ Output", "Total Cost × Output", "Marginal Cost ÷ Price"],
+    correct: 0,
+    explanation: "Average Fixed Cost (AFC) is the fixed cost per unit of output = Total Fixed Cost ÷ Output (TFC/Q); it falls continuously as output rises."
   },
   {
     id: "d241_050",
@@ -396,18 +397,18 @@ export const da241Questions: Question[] = [
   {
     id: "d241_051",
     subject: "da-241",
-    question: "The 'Rashtriya Krishi Vikas Yojana' (RKVY) was launched in:",
-    options: ["2007–08", "2005–06", "2012–13", "2010–11"],
-    correct: 0,
-    explanation: "RKVY (Rashtriya Krishi Vikas Yojana) was launched in 2007–08 to incentivize states to increase public investment in agriculture. States increasing agriculture budget share received additional central grants. It funds infrastructure, technology, and productivity improvement projects."
+    question: "Costs incurred in the purchase of durable goods like land, buildings and machinery are called:",
+    options: ["Variable costs", "Historical costs", "Social costs", "Prime costs"],
+    correct: 1,
+    explanation: "Historical costs are the costs involved in purchasing durable assets (land, buildings, machinery); the purchase price of the asset is considered as its historical cost in analysis."
   },
   {
     id: "d241_052",
     subject: "da-241",
-    question: "The 'Green Box' subsidies in WTO/GATT agriculture agreement are:",
-    options: ["Price support payments tied directly to production output with AMS reduction obligations", "Direct payments under production-limiting programmes subject to Blue Box conditions", "Non-trade distorting subsidies (R&D, extension, food security stockholding, disaster relief) — exempt from reduction", "Trade-distorting production subsidies that must be reduced under Amber Box commitments"],
-    correct: 2,
-    explanation: "WTO Agreement on Agriculture (1995) categorizes subsidies: Green Box = non-distorting (R&D, extension, food security stocks, disaster relief, environmental programs) — no reduction obligation; Amber Box = trade-distorting (price support, input subsidies) — must be reduced; Blue Box = partially distorting."
+    question: "In the production function, the rational stage of production (Stage II) is where:",
+    options: ["Marginal product is negative", "Elasticity of production is greater than one", "Elasticity of production is less than zero", "Elasticity of production lies between one and zero"],
+    correct: 3,
+    explanation: "In Stage II (the rational stage), elasticity of production lies between 1 and 0, MPP is positive but falling, and production decisions (MR = MC) are made here."
   },
   {
     id: "d241_053",
@@ -444,10 +445,10 @@ export const da241Questions: Question[] = [
   {
     id: "d241_057",
     subject: "da-241",
-    question: "PM-KISAN (Pradhan Mantri Kisan Samman Nidhi) provides an annual direct income support of:",
-    options: ["₹6,000/year (₹2,000 every 4 months)", "₹10,000/year in the agricultural economy", "₹4,000/year in rural economic context", "₹2,000/year for farm income analysis"],
+    question: "Resources that cannot be stored and must be used as and when available are called:",
+    options: ["Flow resources", "Stock resources", "Fixed resources", "Variable resources"],
     correct: 0,
-    explanation: "PM-KISAN (launched December 2018): provides ₹6,000 per year to all farmer families owning cultivable land (small, marginal, and large farmers), paid in three equal installments of ₹2,000 every four months directly into bank accounts through DBT."
+    explanation: "Flow resources cannot be stored and must be used as and when available (e.g. labour services). Stock resources can be stored for later use, e.g. seeds."
   },
   {
     id: "d241_058",
@@ -492,10 +493,10 @@ export const da241Questions: Question[] = [
   {
     id: "d241_063",
     subject: "da-241",
-    question: "The 'buffer stock' maintained by FCI (Food Corporation of India) is used for:",
-    options: ["Supplying subsidised grain to poultry industry and feedlot operators at reduced cost", "Production and distribution of certified foundation seeds through cooperative outlets", "Exporting surplus grain to international markets to earn foreign exchange revenue", "Maintaining food security (distribution through PDS) and market price stabilization"],
-    correct: 3,
-    explanation: "FCI maintains buffer stocks (strategic reserves) of wheat and rice to: 1) Ensure food security through PDS distribution, 2) Stabilize market prices (release stock when prices rise, hold when prices fall), 3) Meet emergency food requirements. Buffer stock norms are set by the government."
+    question: "Resources that can be stored for use later on (e.g. seeds) are called:",
+    options: ["Flow resources", "Stock resources", "Fixed resources", "Divisible resources"],
+    correct: 1,
+    explanation: "Stock resources can be stored for use later (e.g. seeds), unlike flow resources which must be used as and when available."
   },
   {
     id: "d241_064",
@@ -516,42 +517,42 @@ export const da241Questions: Question[] = [
   {
     id: "d241_066",
     subject: "da-241",
-    question: "The 'Agricultural Price Policy' in India aims to:",
-    options: ["Eliminate all government price support and allow purely market-determined agricultural prices", "Balance interests of producers (remunerative prices) and consumers (affordable food prices) through MSP and public distribution", "Provide all food items completely free to consumers by eliminating retail food prices", "Maximise farmers' income by maintaining consistently high food prices throughout the year"],
-    correct: 1,
-    explanation: "India's agricultural price policy aims to: 1) Provide remunerative prices to farmers (MSP, FRP), 2) Maintain affordable food prices for consumers (PDS, buffer stocks), and 3) Control food inflation. CACP recommends MSP balancing cost of production and market conditions."
+    question: "Economies of scale were classified into internal and external economies by:",
+    options: ["J.M. Keynes", "Adam Smith", "David Ricardo", "Alfred Marshall"],
+    correct: 3,
+    explanation: "Prof. Alfred Marshall classified economies of scale into internal economies (arising within the firm) and external economies (arising outside the firm in the industry)."
   },
   {
     id: "d241_067",
     subject: "da-241",
-    question: "The 'land tenure' reforms after Indian independence included:",
-    options: ["Zamindari abolition, tenancy reforms, land ceiling laws, and consolidation of holdings to improve land distribution equity", "Increasing landlord power over tenant cultivators through codified regulatory framework in the agricultural economy", "Maintaining the existing zamindari system with minor administrative modifications only in rural economic context", "Encouraging large-scale absentee landlordism and corporate farming on consolidated estates for farm income analysis"],
+    question: "Farm management was defined as 'the science of organisation and management of farm enterprises for securing maximum continuous profits' by:",
+    options: ["G.F. Warren", "L.C. Gray", "Efferson", "Adam Smith"],
     correct: 0,
-    explanation: "Post-independence land reforms: Zamindari abolition (1950s), Tenancy reforms (tenants got security of tenure and ownership rights), Land ceiling legislation (limiting individual holdings to 4–18 ha), Consolidation of fragmented holdings, and Bhoodan/Gramdan movements (voluntary land redistribution)."
+    explanation: "G.F. Warren defined farm management as the science of organisation and management of farm enterprises for securing the maximum continuous profits."
   },
   {
     id: "d241_068",
     subject: "da-241",
-    question: "The 'green marketing' of agricultural produce involves:",
-    options: ["Using only biodegradable packaging materials for all agricultural commodity distribution", "Selling certified produce exclusively through government-operated organic produce mandis", "Selling eco-friendly, sustainably produced, and certified organic products at premium prices", "Marketing exclusively green-coloured vegetables and leafy greens in specialty retail stores"],
-    correct: 2,
-    explanation: "Green marketing (eco-marketing) involves producing and marketing agricultural products that are environmentally friendly: organic farming certification, fair trade labels, sustainable packaging, reduced carbon footprint, and marketing at price premiums to conscious consumers."
+    question: "On the basis of time span, markets that are held for only a few hours for highly perishable products are called:",
+    options: ["Secular markets", "Short-period markets", "Capital markets", "Forward markets"],
+    correct: 1,
+    explanation: "Short-period markets are held for a few hours for highly perishable products (fish, vegetables, milk); here prices are governed mainly by demand rather than supply."
   },
   {
     id: "d241_069",
     subject: "da-241",
-    question: "The 'NITI Aayog' replaced which body in 2015?",
-    options: ["Planning Commission of India", "NABARD", "CACP", "Finance Commission"],
-    correct: 0,
-    explanation: "NITI Aayog (National Institution for Transforming India) replaced the Planning Commission from January 1, 2015. Unlike the Planning Commission (which allocated resources through Five-Year Plans), NITI Aayog serves as a policy think tank, advisory body, and platform for cooperative federalism."
+    question: "A farm on which no single enterprise contributes as much as 50 per cent of the total income is called a:",
+    options: ["Dry farm", "Specialized farm", "Ranch", "Diversified farm"],
+    correct: 3,
+    explanation: "In diversified (general) farming the farm has several enterprises and no single enterprise contributes as much as 50% of total income, which helps spread risk."
   },
   {
     id: "d241_070",
     subject: "da-241",
-    question: "The 'Bharat Krishi Vigyan Kendra' (KVK) network is maintained by:",
-    options: ["ICAR (Indian Council of Agricultural Research) — India has 731 KVKs at district level", "State Agriculture Universities through their field-level agricultural outreach programmes", "Ministry of Rural Development through District Rural Development Agencies at block level", "NABARD through its Rural Infrastructure Development Fund technical assistance programmes"],
+    question: "NABARD was formed by merging ARDC, the Agricultural Credit Department (ACD) and which cell of the RBI?",
+    options: ["Rural Planning and Credit Cell (RPCC)", "Department of Banking Supervision", "Monetary Policy Cell", "Foreign Exchange Department"],
     correct: 0,
-    explanation: "KVKs (Krishi Vigyan Kendras — Farm Science Centres) are district-level technology demonstration units funded by ICAR. India has 731 KVKs (one per district). They demonstrate improved technologies, train farmers, and test new varieties under local field conditions."
+    explanation: "NABARD was formed by merging the Agricultural Refinance and Development Corporation (ARDC), the Agricultural Credit Department (ACD) and the Rural Planning and Credit Cell (RPCC) of the RBI."
   },
   {
     id: "d241_071",
@@ -564,10 +565,10 @@ export const da241Questions: Question[] = [
   {
     id: "d241_072",
     subject: "da-241",
-    question: "The 'Integrated Farming System' (IFS) approach integrates:",
-    options: ["Crop cultivation + livestock + fishery + horticulture on the same farm for better income and sustainability", "Coordination of central government agricultural schemes for comprehensive rural development in the agricultural economy", "Animal husbandry alone integrated with crop residue utilisation for fodder production in rural economic context", "Exclusive crop production optimised through soil-specific nutrient management protocols for farm income analysis"],
-    correct: 0,
-    explanation: "Integrated Farming System combines crop (cereals, vegetables, oilseeds) + livestock (dairy, poultry, sheep/goat) + fishery (pond) + horticulture + apiculture on the same farm. Waste from one enterprise becomes input for another. Enhances income, employment, and environmental sustainability."
+    question: "Markets of a permanent nature dealing in durable goods (e.g. machinery) are classified as:",
+    options: ["Short-period markets", "Secular markets", "Spot markets", "Local markets"],
+    correct: 1,
+    explanation: "On the basis of time span, secular markets are of a permanent nature and deal in durable goods that can be stored for many years, such as machinery and manufactured goods."
   },
   {
     id: "d241_073",
@@ -580,10 +581,10 @@ export const da241Questions: Question[] = [
   {
     id: "d241_074",
     subject: "da-241",
-    question: "The 'Soil Health Card' scheme aims to:",
-    options: ["Provide soil test-based fertilizer recommendations to improve nutrient use efficiency and reduce over-fertilization", "Assess crop damage and yield loss for crop insurance settlement under PMFBY", "Map groundwater availability and aquifer depth across agricultural districts of India", "Provide health and accident insurance coverage to all registered farming households"],
-    correct: 0,
-    explanation: "Soil Health Card (SHC) scheme (launched 2015): tests soil for 12 parameters (NPK, pH, EC, OC, S, Zn, Fe, Cu, Mn, B) every 3 years. Farmers receive card with soil status and fertilizer recommendations to optimize nutrient application and reduce cost."
+    question: "Farm management is essentially described as a science of:",
+    options: ["Land redistribution", "Maximising exports", "Choice or decision making", "Price fixation"],
+    correct: 2,
+    explanation: "Farm management deals with business principles at the level of the individual farm and is, in short, a science of choice or decision making."
   },
   {
     id: "d241_075",
@@ -596,18 +597,18 @@ export const da241Questions: Question[] = [
   {
     id: "d241_076",
     subject: "da-241",
-    question: "The 'Andhra Pradesh Rythu Bharosa' scheme provides what benefit to farmers?",
-    options: ["Complete waiver of all agricultural debts including cooperative and bank loans outstanding", "Distribution of certified paddy and kharif crop seeds free of cost to all registered farmers", "Annual income support of ₹13,500 per farmer (in addition to PM-KISAN ₹6,000)", "Free electricity supply for agricultural irrigation pump sets up to 7.5 HP per farmer"],
-    correct: 2,
-    explanation: "Andhra Pradesh Rythu Bharosa scheme provides ₹13,500/year direct income support per farmer family — including ₹7,500 as state share + ₹6,000 as PM-KISAN central share. Total: ₹13,500/year. Telangana has a similar scheme called 'Rythu Bandhu' (₹10,000/acre/year)."
+    question: "In its scope, farm management is generally considered to be:",
+    options: ["Concerned only with international trade", "Macroeconomic — dealing with the whole economy", "Concerned only with national policy", "Microeconomic — dealing with the individual farm"],
+    correct: 3,
+    explanation: "Farm management is microeconomic in scope; it deals with the allocation of resources at the level of the individual farm as a unit."
   },
   {
     id: "d241_077",
     subject: "da-241",
-    question: "The 'Telangana Rythu Bandhu' scheme provides:",
-    options: ["Investment support of ₹10,000 per acre per year to land-owning farmers (two instalments of ₹5,000)", "Free electricity for agricultural irrigation pumps up to 9 HP connected load", "Subsidised distribution of seeds, fertilizers, and pesticides to all registered farmers", "Comprehensive crop insurance coverage without any farmer premium payment required"],
+    question: "A farm that derives more than 50 per cent of its income from a single enterprise is called a:",
+    options: ["Specialized farm", "Diversified farm", "Mixed farm", "Ranch"],
     correct: 0,
-    explanation: "Rythu Bandhu (Telangana): Provides ₹10,000 per acre per year (₹5,000 before Kharif + ₹5,000 before Rabi) to all land-owning farmers. Launched 2018. It is unique — first investment support scheme tied to landholding rather than crop loss. Excludes tenant farmers (who don't own land)."
+    explanation: "When a farm business unit derives more than 50% of its income from a single enterprise it is called a specialized farm (e.g. paddy, sugarcane or poultry farming)."
   },
   {
     id: "d241_078",
@@ -620,50 +621,50 @@ export const da241Questions: Question[] = [
   {
     id: "d241_079",
     subject: "da-241",
-    question: "India's 'Doubling Farmers Income' target (DFI) was set for the year:",
-    options: ["2022", "2025", "2020", "2030"],
-    correct: 0,
-    explanation: "PM Modi announced the goal to 'Double Farmers Income by 2022–23' (from 2015–16 base). The Dalwai Committee (2017) outlined strategies including: increasing crop productivity, better prices, and reducing post-harvest losses. Despite progress, full doubling was not achieved by 2022."
+    question: "Explicit costs of a firm (payments for purchased/hired inputs) are also called:",
+    options: ["Implicit costs", "Paid-out or cash costs", "Opportunity costs", "Social costs"],
+    correct: 1,
+    explanation: "Explicit costs are payments made by the entrepreneur for purchasing and hiring inputs; they are also called paid-out costs or cash costs. Implicit costs are the value of owned resources."
   },
   {
     id: "d241_080",
     subject: "da-241",
-    question: "The 'WTO Agreement on Agriculture' (AoA) signed in 1995 aims at:",
-    options: ["Harmonising crop production methods and quality standards across all member nations", "Increasing agricultural import tariff barriers to protect domestic farmers from foreign competition", "Reducing domestic support subsidies, export subsidies, and import tariff barriers through multilateral negotiations", "Mandating all WTO member nations to adopt certified organic farming production standards"],
+    question: "Which of the following is a major type of farming?",
+    options: ["Vertical farming", "Contract farming", "Mixed farming", "Hydroponic farming"],
     correct: 2,
-    explanation: "WTO AoA (1995): bound by three pillars — 1) Market Access (reduce tariffs, increase tariff-rate quotas), 2) Domestic Support (reduce trade-distorting Amber Box subsidies, allow Green Box), 3) Export Competition (reduce export subsidies). Developing countries get special and differential treatment."
+    explanation: "The major types of farming are specialized, diversified, mixed, dry farming and ranching."
   },
   {
     id: "d241_081",
     subject: "da-241",
-    question: "The 'Farmer Producer Organization' (FPO) concept helps small farmers by:",
-    options: ["Removing all agricultural middlemen through mandatory producer-to-consumer direct sales in the agricultural economy", "Providing free agricultural mechanization services financed entirely through government grants in rural economic context", "Enabling direct government procurement from each individual farmer household separately for farm income analysis", "Aggregating small farmers into collectively organized entities for better market power, input access, and credit"],
+    question: "The motto of co-operation is:",
+    options: ["'One nation one market'", "'Profit before service'", "'Survival of the fittest'", "'Each for all and all for each'"],
     correct: 3,
-    explanation: "FPOs (Farmer Producer Companies/Cooperatives): aggregate small/marginal farmers to achieve economies of scale in: bulk input purchasing (fertilizer, seeds), collective marketing (better prices, direct sales to processors), accessing finance, and adopting technology. Government targets 10,000 FPOs by 2024."
+    explanation: "Co-operation is a voluntary association of persons for a common goal; its motto is 'Each for all and all for each'."
   },
   {
     id: "d241_082",
     subject: "da-241",
-    question: "The 'Index of Prices Received by Farmers (IARF)' is computed to:",
-    options: ["Provide guidelines for fixing MSP based on current input costs and market price trends", "Determine actuarial risk for crop insurance premium fixation by insurance companies", "Compute annual growth rate of agricultural production across different crop seasons", "Track changes in farm gate prices received by farmers over time — used in terms of trade analysis"],
-    correct: 3,
-    explanation: "IARF (Index of Prices Received by Farmers) tracks changes in farm gate prices of agricultural produce over time. It is compared with the Index of Prices Paid by Farmers (IAPF — input prices) to compute agricultural terms of trade (ToT = IARF/IAPF × 100)."
+    question: "'Co-operation is self-help made effective by organization' was stated by:",
+    options: ["Sir Horace Plunkett", "Huber Calvert", "Frederick Nicholson", "Alfred Marshall"],
+    correct: 0,
+    explanation: "Sir Horace Plunkett defined co-operation as 'self-help made effective by organization'."
   },
   {
     id: "d241_083",
     subject: "da-241",
-    question: "The 'Direct Benefit Transfer' (DBT) system for agricultural subsidies aims to:",
-    options: ["Channel all subsidies exclusively through fertilizer manufacturers and input supply chains", "Eliminate leakages by transferring subsidies directly to beneficiaries' bank accounts, bypassing intermediaries", "Increase total government fiscal expenditure on agricultural development and infrastructure", "Provide technology-based crop advisory services through mobile and digital platforms"],
+    question: "The important democratic principle of co-operation is:",
+    options: ["One share one vote", "One man one vote", "Votes proportional to capital", "Voting only by office bearers"],
     correct: 1,
-    explanation: "DBT (Direct Benefit Transfer) system: government transfers subsidies (PM-KISAN, fertilizer subsidy, PMFBY compensation, KCC interest subvention) directly to farmer bank accounts linked to Aadhaar. It eliminates leakages, reduces corruption, and ensures subsidy reaches intended beneficiaries."
+    explanation: "Co-operatives follow the democratic principle of 'one man one vote' — each member has an equal right to vote irrespective of share capital."
   },
   {
     id: "d241_084",
     subject: "da-241",
-    question: "The 'input subsidy' to farmers in India includes:",
-    options: ["Government paying only certified seed costs for approved varieties to registered farmers", "Subsidy on seeds, fertilizers, irrigation electricity, and credit interest — amounting to crores annually", "Government paying fertilizer costs only through direct benefit transfer to bank accounts", "Government paying all farming costs including labour, machinery, and harvesting charges"],
-    correct: 1,
-    explanation: "Input subsidies to Indian farmers include: Fertilizer subsidy (highest — ~₹1.5 lakh crore/yr), Power subsidy (free/subsidized electricity for irrigation pumps — state governments), Seed subsidy (subsidized certified seeds), and Interest subvention on KCC loans (2–5% interest rate reduction)."
+    question: "The Rochdale pioneers, who designed the famous principles of co-operation, were a group of:",
+    options: ["Bankers in Germany", "Farmers in Maharashtra", "28 weavers and artisans in England", "Merchants in France"],
+    correct: 2,
+    explanation: "The Rochdale pioneers were a group of 28 weavers and other artisans in the Rochdale region of England who designed the Rochdale principles of co-operation."
   },
   {
     id: "d241_085",
@@ -692,10 +693,10 @@ export const da241Questions: Question[] = [
   {
     id: "d241_088",
     subject: "da-241",
-    question: "The 'agricultural value chain' concept includes:",
-    options: ["Primary crop production stage alone including land preparation and crop management in the agricultural economy", "Government procurement stage from FCI mandis at minimum support price operations only in rural economic context", "Retail distribution stage from APMC regulated markets to final consumer outlets only for farm income analysis", "All stages from production to consumption: inputs → production → harvest → storage → processing → marketing → retail → consumer"],
+    question: "The Cooperative Credit Societies Act in India was enacted in the year:",
+    options: ["1982", "1919", "1947", "1904"],
     correct: 3,
-    explanation: "Agricultural value chain: Input suppliers → Farmers (production) → Post-harvest handling → Storage → Processing → Wholesale trade → Retail → Consumer. Value is added at each stage. Value chain development reduces losses, improves income sharing, and connects farmers to markets."
+    explanation: "The Cooperative Credit Societies Act was enacted in 1904, marking the start of the organised cooperative movement in India (initiation phase, 1904-1911)."
   },
   {
     id: "d241_089",
@@ -716,10 +717,10 @@ export const da241Questions: Question[] = [
   {
     id: "d241_091",
     subject: "da-241",
-    question: "The 'Gramin Bhandaran Yojana' (Rural Godown scheme) provides subsidy for:",
-    options: ["Construction of irrigation channels, check dams, and farm ponds for water conservation", "Rural electrification through solar microgrids for uninterrupted household power supply", "Building concrete village road networks linking farm areas to state highway junctions", "Construction of scientific storage structures (godowns/warehouses) in rural areas for farmers"],
-    correct: 3,
-    explanation: "Gramin Bhandaran Yojana (Rural Storage Scheme): provides capital investment subsidy (25% for general category, 33.33% for SC/ST) for construction of rural godowns/warehouses to prevent post-harvest losses and help farmers sell when prices are favourable rather than in distress immediately after harvest."
+    question: "NABARD (National Bank for Agriculture and Rural Development) came into existence on:",
+    options: ["12 July 1982", "1 April 1935", "26 January 1950", "15 August 1965"],
+    correct: 0,
+    explanation: "NABARD came into existence on 12 July 1982 on the recommendation of CRAFICARD (chaired by B. Sivaraman), with a share capital of Rs 500 crore contributed equally by the Government of India and RBI."
   },
   {
     id: "d241_092",
@@ -748,18 +749,18 @@ export const da241Questions: Question[] = [
   {
     id: "d241_095",
     subject: "da-241",
-    question: "The 'agri-export zones' (AEZ) in India were established for:",
-    options: ["Industrial development in peri-urban zones near major agricultural production belts", "Creating food security reserve zones to ensure year-round food availability in emergencies", "Developing clusters of commodity production with facilities for processing, packaging, and export of specific commodities", "Maintaining strategic import buffer stocks for essential agricultural goods in shortage"],
-    correct: 2,
-    explanation: "Agri-Export Zones (AEZ): established from 2001 to develop integrated production clusters for specific commodities (mango/AP, basmati/Punjab, pepper/Kerala, grapes/Maharashtra) with: contract farming, cold chain infrastructure, certification, packaging, and export linkages."
+    question: "NABARD was set up on the recommendation of which committee?",
+    options: ["Narasimham Committee", "CRAFICARD", "Kelkar Committee", "Swaminathan Committee"],
+    correct: 1,
+    explanation: "NABARD was established on the recommendation of CRAFICARD (Committee to Review Arrangements for Institutional Credit in Agriculture and Rural Development), chaired by Sri B. Sivaraman."
   },
   {
     id: "d241_096",
     subject: "da-241",
-    question: "The 'Minimum Support Price' (MSP) is fixed for how many crops in India?",
-    options: ["23 crops", "All agricultural crops", "14 crops", "5 crops"],
-    correct: 0,
-    explanation: "MSP is fixed for 23 crops: 14 Kharif crops (paddy, jowar, bajra, maize, ragi, arhar, moong, urad, groundnut, sunflower, soybean, sesamum, nigerseed, cotton), 6 Rabi crops (wheat, barley, gram, masur, rapeseed/mustard, safflower), and 2 commercial crops (jute, copra) + sugarcane (FRP)."
+    question: "The head office of NABARD is located at:",
+    options: ["Kolkata", "New Delhi", "Mumbai", "Hyderabad"],
+    correct: 2,
+    explanation: "NABARD operates through its head office at Mumbai, along with regional and district offices across the country."
   },
   {
     id: "d241_097",
@@ -772,18 +773,18 @@ export const da241Questions: Question[] = [
   {
     id: "d241_098",
     subject: "da-241",
-    question: "The 'Green Revolution' period in India (1960s–70s) increased production through:",
-    options: ["Adopting natural farming techniques with improved traditional seed varieties and organic manures", "HYV seeds + chemical fertilizers + assured irrigation — primarily wheat in Punjab, Haryana, UP", "Expanding total cultivated area through reclamation of fallow and forest land only", "Redistributing agricultural land from large holdings equally to small and landless farmers"],
-    correct: 1,
-    explanation: "Green Revolution (1960s–70s): HYV wheat (Sonalika, Kalyan Sona) + high fertilizer use + tube-well/canal irrigation in north Indian plains. Wheat production tripled. Later extended to rice (IR-8 variety). However, it was geographically limited (mainly Punjab, Haryana) and crop-limited (wheat, rice)."
+    question: "Short-term refinance provided by NABARD for agricultural production is for a period of:",
+    options: ["25 years", "5 years", "15 years", "12 months"],
+    correct: 3,
+    explanation: "NABARD's short-term refinance (for crop production and marketing) is for 12 months; medium- and long-term refinance extends up to a maximum of 15 years through land development banks."
   },
   {
     id: "d241_099",
     subject: "da-241",
-    question: "India's share of agriculture in GDP has declined from ~55% (1950) to approximately:",
-    options: ["30% in 2023", "40% in 2023", "5% in 2023", "15–18% in 2023"],
-    correct: 3,
-    explanation: "Agriculture's share in India's GDP declined from ~55% in 1950 to ~15–18% in 2022–23, reflecting structural transformation as industry and services grew faster. However, agriculture still employs ~44% of workforce — productivity gap between agriculture and other sectors remains."
+    question: "The expression of Average Physical Product (APP) in terms of money value is called:",
+    options: ["Average Value Product (AVP)", "Total Value Product (TVP)", "Marginal Value Product (MVP)", "Total Physical Product (TPP)"],
+    correct: 0,
+    explanation: "Average Value Product (AVP) is the expression of Average Physical Product (APP) in terms of money; similarly MVP is MPP expressed in money."
   },
   {
     id: "d241_100",
@@ -793,15 +794,13 @@ export const da241Questions: Question[] = [
     correct: 1,
     explanation: "India's land utilization: Total geographic area = 328.7 Mha. Net sown area = ~140 Mha (42%). Gross cropped area (including double cropped) = ~200 Mha. Forest area = ~72 Mha. Fallow lands = ~25 Mha. Cultivable waste = ~14 Mha. India has the 4th largest agricultural area in the world."
   },
-
-
   {
     id: "d241_101",
     subject: "da-241",
     question: "The elasticity of production (Ep) is calculated as:",
     options: ["Total Revenue / Total Cost", "Marginal Physical Product / Average Physical Product", "Total Product / Total Input", "Average Product / Marginal Cost"],
     correct: 1,
-    explanation: "As per DA-241 notes: Elasticity of production Ep = MPP/APP. In Stage I: Ep > 1; Stage II: 0 < Ep < 1; Stage III: Ep < 0.",
+    explanation: "As per DA-241 notes: Elasticity of production Ep = MPP/APP. In Stage I: Ep > 1; Stage II: 0 < Ep < 1; Stage III: Ep < 0."
   },
   {
     id: "d241_102",
@@ -809,7 +808,7 @@ export const da241Questions: Question[] = [
     question: "Under perfect competition, the relationship between Price (P), Average Revenue (AR) and Marginal Revenue (MR) is:",
     options: ["P = AR > MR", "P > AR > MR", "P = AR = MR", "P < AR = MR"],
     correct: 2,
-    explanation: "As per DA-241 notes: Under perfect competition, P = AR = MR. All units are sold at the same constant price.",
+    explanation: "As per DA-241 notes: Under perfect competition, P = AR = MR. All units are sold at the same constant price."
   },
   {
     id: "d241_103",
@@ -817,7 +816,7 @@ export const da241Questions: Question[] = [
     question: "Who established the empirical relationship between price elasticity, AR and MR in 'The Economics of Imperfect Competition'?",
     options: ["Mrs. Joan Robinson", "Paul Samuelson", "Adam Smith", "Alfred Marshall"],
     correct: 0,
-    explanation: "As per DA-241 notes: Mrs. Joan Robinson established MR = AR((e-1)/e) in her book 'The Economics of Imperfect Competition'.",
+    explanation: "As per DA-241 notes: Mrs. Joan Robinson established MR = AR((e-1)/e) in her book 'The Economics of Imperfect Competition'."
   },
   {
     id: "d241_104",
@@ -825,7 +824,7 @@ export const da241Questions: Question[] = [
     question: "The Cooperative Credit Societies Act of 1904 was based on which model?",
     options: ["Raiffeissen model", "Rochdale model", "Luzzatti model", "Schulze-Delitzsch model"],
     correct: 0,
-    explanation: "As per DA-241 notes: The 1904 Act was enacted based on the Raiffeissen model of cooperative credit.",
+    explanation: "As per DA-241 notes: The 1904 Act was enacted based on the Raiffeissen model of cooperative credit."
   },
   {
     id: "d241_105",
@@ -833,7 +832,7 @@ export const da241Questions: Question[] = [
     question: "What percentage of cooperative profits is kept as reserve fund?",
     options: ["25%", "15%", "10%", "50%"],
     correct: 0,
-    explanation: "As per DA-241 notes: 25 per cent of profits is kept as reserve fund; remaining 75 per cent distributed among members as dividend.",
+    explanation: "As per DA-241 notes: 25 per cent of profits is kept as reserve fund; remaining 75 per cent distributed among members as dividend."
   },
   {
     id: "d241_106",
@@ -841,7 +840,7 @@ export const da241Questions: Question[] = [
     question: "Short-term agricultural loans are to be repaid within:",
     options: ["More than 10 years", "5 to 10 years", "6 to 18 months", "18 months to 5 years"],
     correct: 2,
-    explanation: "As per DA-241 notes: Short-term loans cover ongoing farm operations and must be repaid within 6 to 18 months.",
+    explanation: "As per DA-241 notes: Short-term loans cover ongoing farm operations and must be repaid within 6 to 18 months."
   },
   {
     id: "d241_107",
@@ -849,7 +848,7 @@ export const da241Questions: Question[] = [
     question: "Scale of Finance for a crop is fixed by:",
     options: ["NABARD Board", "Agricultural Prices Commission", "District Level Technical Committee (DLTC)", "State Level Bankers Committee (SLBC)"],
     correct: 2,
-    explanation: "As per DA-241 notes: Scale of Finance is fixed by District Level Technical Committee (DLTC), chaired by the District Collector.",
+    explanation: "As per DA-241 notes: Scale of Finance is fixed by District Level Technical Committee (DLTC), chaired by the District Collector."
   },
   {
     id: "d241_108",
@@ -857,7 +856,7 @@ export const da241Questions: Question[] = [
     question: "Assertion (A): AFC curve is continuously declining and hyperbola-shaped.\nReason (R): TFC is constant, so as output increases, AFC = TFC/Q keeps falling.",
     options: ["A is true but R is false", "Both A and R are true and R is the correct explanation of A", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 1,
-    explanation: "As per DA-241 notes: Since TFC is constant, AFC continuously falls as output increases, giving it a hyperbolic shape.",
+    explanation: "As per DA-241 notes: Since TFC is constant, AFC continuously falls as output increases, giving it a hyperbolic shape."
   },
   {
     id: "d241_109",
@@ -865,7 +864,7 @@ export const da241Questions: Question[] = [
     question: "Assertion (A): The crop loan system treats the crop as security instead of immovable property.\nReason (R): This enables real cultivators (including tenants) to access institutional credit regardless of land ownership.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
-    explanation: "As per DA-241 notes: The crop loan system treats crop as security and eligibility is based on being a real farmer, not land ownership - enabling access for tenant farmers.",
+    explanation: "As per DA-241 notes: The crop loan system treats crop as security and eligibility is based on being a real farmer, not land ownership - enabling access for tenant farmers."
   },
   {
     id: "d241_110",
@@ -873,7 +872,7 @@ export const da241Questions: Question[] = [
     question: "Assertion (A): Under monopoly, MR declines at a faster rate than AR.\nReason (R): When AR falls by Rs.1, MR falls by Rs.2 because the monopolist must reduce price to sell more units.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
-    explanation: "As per DA-241 notes: Under monopoly, AR falls by Rs.1 but MR falls by Rs.2. The reason correctly explains this phenomenon.",
+    explanation: "As per DA-241 notes: Under monopoly, AR falls by Rs.1 but MR falls by Rs.2. The reason correctly explains this phenomenon."
   },
   {
     id: "d241_111",
@@ -881,7 +880,7 @@ export const da241Questions: Question[] = [
     question: "Match the following types of agricultural credit:\n     Column-I (Credit type)    |  Column-II (Period)       |  Column-III (Purpose)\nA.  Short-term loans          |  1.  6-18 months          |  i.   Crop production\nB.  Medium-term loans         |  2.  18 months to 5 years |  ii.  Implements, cattle\nC.  Long-term loans           |  3.  5 to 20+ years       |  iii. Land reclamation\nD.  Consumption loans         |  4.  Up to 2.5 years      |  iv.  Non-production use",
     options: ["A-2-ii, B-1-i,  C-4-iv,  D-3-iii", "A-1-i,  B-2-ii,  C-3-iii,  D-4-iv", "A-3-i,  B-4-ii,  C-1-iii,  D-2-iv", "A-1-iii, B-3-i, C-2-iv,  D-4-ii"],
     correct: 1,
-    explanation: "As per DA-241 notes: Short-term (6-18 months) for crop production; Medium-term for implements/cattle; Long-term for land reclamation; Consumption loans for non-production expenses.",
+    explanation: "As per DA-241 notes: Short-term (6-18 months) for crop production; Medium-term for implements/cattle; Long-term for land reclamation; Consumption loans for non-production expenses."
   },
   {
     id: "d241_112",
@@ -889,7 +888,7 @@ export const da241Questions: Question[] = [
     question: "Match the following principles of cooperation:\n     Column-I (Principle)          |  Column-II (Key feature)      |  Column-III (Goal)\nA.  Open & voluntary membership  |  1.  No caste/religion bar    |  i.   Universal access\nB.  Democratic organization      |  2.  One man one vote         |  ii.  Equal governance\nC.  Principle of thrift          |  3.  Savings encouraged       |  iii. Self-sufficiency\nD.  Principle of service         |  4.  Not profit-oriented      |  iv.  Member welfare",
     options: ["A-2-ii, B-1-i,  C-4-iv,  D-3-iii", "A-3-iii, B-4-iv, C-1-i,  D-2-ii", "A-4-iv, B-3-iii, C-2-ii, D-1-i", "A-1-i,  B-2-ii,  C-3-iii,  D-4-iv"],
     correct: 3,
-    explanation: "As per DA-241 notes: Open membership - universal access (no discrimination); Democratic org - one man one vote; Thrift - savings encouraged; Service principle - member welfare over profit.",
+    explanation: "As per DA-241 notes: Open membership - universal access (no discrimination); Democratic org - one man one vote; Thrift - savings encouraged; Service principle - member welfare over profit."
   },
   {
     id: "d241_113",
@@ -897,7 +896,7 @@ export const da241Questions: Question[] = [
     question: "Match the stages of production function:\n     Column-I (Stage)   |  Column-II (MPP status)    |  Column-III (Zone)\nA.  Stage I            |  1.  MPP > APP             |  i.   Sub-optimal\nB.  Stage II           |  2.  0 < MPP < APP         |  ii.  Rational\nC.  Stage III          |  3.  MPP is negative        |  iii. Supra-optimal\nD.  End of Stage I     |  4.  MPP = APP              |  iv.  APP maximum",
     options: ["A-1-ii, B-2-iii, C-3-i,  D-4-iv", "A-2-ii, B-3-iii, C-1-i,  D-4-iv", "A-3-iii, B-1-i, C-2-ii, D-4-iv", "A-1-i,  B-2-ii,  C-3-iii,  D-4-iv"],
     correct: 3,
-    explanation: "As per DA-241 notes: Stage I: MPP > APP - sub-optimal; Stage II: 0 < MPP < APP - rational (producer should operate here); Stage III: MPP negative - supra-optimal; End of Stage I: MPP = APP where APP is maximum.",
+    explanation: "As per DA-241 notes: Stage I: MPP > APP - sub-optimal; Stage II: 0 < MPP < APP - rational (producer should operate here); Stage III: MPP negative - supra-optimal; End of Stage I: MPP = APP where APP is maximum."
   },
   {
     id: "d241_114",
@@ -905,7 +904,7 @@ export const da241Questions: Question[] = [
     question: "The word 'credit' is derived from Latin 'Credo' meaning:",
     options: ["I believe", "I promise", "I repay", "I borrow"],
     correct: 0,
-    explanation: "As per DA-241 notes: 'Credo' means 'I believe'. Credit is based upon belief, confidence, trust and faith.",
+    explanation: "As per DA-241 notes: 'Credo' means 'I believe'. Credit is based upon belief, confidence, trust and faith."
   },
   {
     id: "d241_115",
@@ -913,7 +912,7 @@ export const da241Questions: Question[] = [
     question: "Macro-level agricultural finance deals with:",
     options: ["Personal savings of farmers in the agricultural economy", "Total credit needs of the agricultural sector and lending by institutions", "Day-to-day farm expenditure for farm income analysis", "Financial management of individual farm units in rural economic context"],
     correct: 1,
-    explanation: "As per DA-241 notes: Macro-finance deals with total credit needs of the agricultural sector, terms and conditions, and methods of use of total credit for agricultural development.",
+    explanation: "As per DA-241 notes: Macro-finance deals with total credit needs of the agricultural sector, terms and conditions, and methods of use of total credit for agricultural development."
   },
   {
     id: "d241_116",
@@ -921,7 +920,7 @@ export const da241Questions: Question[] = [
     question: "The crop loan system was introduced in Andhra Pradesh from:",
     options: ["Kharif 1966", "Kharif 1960", "Kharif 1970", "Kharif 1954"],
     correct: 0,
-    explanation: "As per DA-241 notes: The crop loan system was implemented throughout India in 1965 and introduced in Andhra Pradesh from Kharif 1966.",
+    explanation: "As per DA-241 notes: The crop loan system was implemented throughout India in 1965 and introduced in Andhra Pradesh from Kharif 1966."
   },
   {
     id: "d241_117",
@@ -929,7 +928,7 @@ export const da241Questions: Question[] = [
     question: "The Mac Lagan Committee (1914-1915) was appointed to review the performance of:",
     options: ["Cooperative societies under the 1912 Act", "NABARD activities in rural economic context", "Commercial banks in the agricultural economy", "Nationalized banks for farm income analysis"],
     correct: 0,
-    explanation: "As per DA-241 notes: In 1914, a committee under Edward Mac Lagan was appointed to review cooperative societies formed after the 1912 Cooperative Societies Act.",
+    explanation: "As per DA-241 notes: In 1914, a committee under Edward Mac Lagan was appointed to review cooperative societies formed after the 1912 Cooperative Societies Act."
   },
   {
     id: "d241_118",
@@ -937,7 +936,7 @@ export const da241Questions: Question[] = [
     question: "In farm bookkeeping, a Trial Balance is prepared to:",
     options: ["List all farm assets", "Record daily transactions", "Check arithmetical accuracy of ledger postings", "Calculate net profit"],
     correct: 2,
-    explanation: "As per DA-241 notes: Trial balance is prepared to check arithmetical accuracy of ledger postings and detect errors before preparing profit & loss account.",
+    explanation: "As per DA-241 notes: Trial balance is prepared to check arithmetical accuracy of ledger postings and detect errors before preparing profit & loss account."
   },
   {
     id: "d241_119",
@@ -945,7 +944,7 @@ export const da241Questions: Question[] = [
     question: "Complete farm planning (whole farm planning) is adopted when:",
     options: ["Minor resource substitution is needed in the agricultural economy", "Only pest management is revised in rural economic context", "Only one enterprise needs improvement for farm income analysis", "Major changes are contemplated in the entire farm organization"],
     correct: 3,
-    explanation: "As per DA-241 notes: Complete or whole farm planning is adopted when major changes are contemplated in existing farm organization. Simple farm planning is for minor single-enterprise changes.",
+    explanation: "As per DA-241 notes: Complete or whole farm planning is adopted when major changes are contemplated in existing farm organization. Simple farm planning is for minor single-enterprise changes."
   },
   {
     id: "d241_120",
@@ -953,11 +952,8 @@ export const da241Questions: Question[] = [
     question: "In hypothecated loans, the borrower retains ownership but the banker has:",
     options: ["Full ownership of the property in the agricultural economy", "Legal right to possess and sell the property on default", "Right to collect rent in rural economic context", "No rights over the property for farm income analysis"],
     correct: 1,
-    explanation: "As per DA-241 notes: In hypothecated loans (tractor, machinery loans), borrower has ownership rights on movable property, but the banker has legal right to take possession and sell it on default.",
+    explanation: "As per DA-241 notes: In hypothecated loans (tractor, machinery loans), borrower has ownership rights on movable property, but the banker has legal right to take possession and sell it on default."
   },
-
-
-
   {
     id: "d241c_001",
     subject: "da-241",
@@ -1598,16 +1594,15 @@ export const da241Questions: Question[] = [
     correct: 2,
     explanation: "According to Professor Galbraith, credit is the 'temporary transfer of asset from one who has to other who has not.' The word 'credit' comes from Latin 'Credo' meaning 'I believe.' Credit is based on belief, confidence, trust and faith."
   },
-
   {
     id: "d241_200",
     subject: "da-241",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "Minimum Support Price (MSP) in Indian agricultural policy is announced by:",
-    options: ["State governments based on local market surveys", "Central Government on the recommendation of CACP (Commission for Agricultural Costs and Prices)", "RBI based on inflation targets", "FCI based on procurement needs"],
+    question: "The word 'market' is derived from the Latin word 'marcatus', which means:",
+    options: ["A government office", "Merchandise, trade or a place of business", "A storage warehouse", "A unit of currency"],
     correct: 1,
-    explanation: "MSP is announced by the Central Government of India based on the recommendations of CACP (Commission for Agricultural Costs and Prices), which considers cost of production, demand-supply situation, inter-crop price parity, and terms of trade. CACP recommends MSP for 23 mandated crops.",
+    explanation: "'Market' comes from the Latin word 'marcatus', meaning merchandise, trade or a place where business is conducted.",
     difficulty: "medium"
   },
 ];
