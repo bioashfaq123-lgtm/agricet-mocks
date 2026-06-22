@@ -30,88 +30,47 @@ export default function AppSplashScreen({ children }: { children: React.ReactNod
       {/* Actual app — always rendered underneath */}
       {children}
 
-      {/* Splash overlay */}
+      {/* Splash overlay — shows the app icon centered */}
       {visible && (
         <div
           className="fixed inset-0 z-[9999] flex flex-col items-center justify-center overflow-hidden select-none"
           style={{
             transition: "opacity 0.5s ease",
             opacity: fading ? 0 : 1,
-            background: "#080808",
+            background: "#0a0a0a",
           }}
         >
-          {/* ── Red geometric layers (CSS polygons) ── */}
-
-          {/* Big red top shape */}
-          <div
-            className="absolute inset-0"
+          <img
+            src="/icons/icon-512x512.png"
+            alt="AEO & AGRICET Mock Test Series"
+            className="splash-icon"
             style={{
-              background: "#DC1C1C",
-              clipPath: "polygon(0 0, 100% 0, 100% 42%, 55% 50%, 0 28%)",
+              width: "clamp(150px, 46vw, 250px)",
+              height: "auto",
+              borderRadius: "22%",
+              boxShadow: "0 12px 40px rgba(0,0,0,0.55)",
             }}
           />
-
-          {/* Dark shadow strip */}
-          <div
-            className="absolute inset-0"
-            style={{
-              background: "#141414",
-              clipPath: "polygon(0 28%, 55% 50%, 59% 55%, 0 33%)",
-            }}
-          />
-
-          {/* Thin red diagonal stripe */}
-          <div
-            className="absolute inset-0"
-            style={{
-              background: "#B01515",
-              clipPath: "polygon(0 33%, 46% 50%, 49% 56%, 0 39%)",
-            }}
-          />
-
-          {/* Dark shadow strip 2 */}
-          <div
-            className="absolute inset-0"
-            style={{
-              background: "#0e0e0e",
-              clipPath: "polygon(0 39%, 49% 56%, 51% 60%, 0 43%)",
-            }}
-          />
-
-          {/* ── Text block ── */}
-          <div className="relative z-10 flex flex-col items-center text-center px-8">
-            {/* AEO badge above */}
-            <div
-              className="font-black tracking-widest mb-2"
-              style={{ fontSize: "clamp(0.9rem, 3.5vw, 1.5rem)", color: "#FFC828", textShadow: "0 2px 8px rgba(0,0,0,0.8)", letterSpacing: "0.25em" }}
-            >
-              AEO &amp;
-            </div>
-            <h1
-              className="font-black text-white leading-none tracking-wide"
-              style={{ fontSize: "clamp(2.8rem, 12vw, 5.5rem)", textShadow: "0 2px 12px rgba(0,0,0,0.8)" }}
-            >
-              AGRICET
-            </h1>
-            <p
-              className="font-bold text-white mt-1 tracking-wider"
-              style={{ fontSize: "clamp(1.1rem, 5vw, 2.2rem)", textShadow: "0 2px 8px rgba(0,0,0,0.8)" }}
-            >
-              MOCK TEST
-            </p>
-            <p
-              className="font-bold text-white tracking-widest"
-              style={{ fontSize: "clamp(1.1rem, 5vw, 2.2rem)", textShadow: "0 2px 8px rgba(0,0,0,0.8)" }}
-            >
-              SERIES
-            </p>
-
-            {/* Gold underline */}
-            <div
-              className="mt-4 rounded-full"
-              style={{ height: "3px", width: "clamp(120px, 40vw, 280px)", background: "#FFC828" }}
-            />
+          {/* Loading dots */}
+          <div className="mt-8 flex gap-2">
+            {[0, 1, 2].map((i) => (
+              <span
+                key={i}
+                className="splash-dot"
+                style={{
+                  width: 8, height: 8, borderRadius: "50%", background: "#cc1e1e",
+                  animationDelay: `${i * 0.18}s`,
+                }}
+              />
+            ))}
           </div>
+
+          <style>{`
+            @keyframes splashPop { 0% { transform: scale(0.82); opacity: 0 } 100% { transform: scale(1); opacity: 1 } }
+            @keyframes splashBlink { 0%,80%,100% { opacity: 0.25 } 40% { opacity: 1 } }
+            .splash-icon { animation: splashPop 0.55s cubic-bezier(0.2,0.8,0.2,1) both; }
+            .splash-dot  { display:inline-block; animation: splashBlink 1s infinite ease-in-out; }
+          `}</style>
         </div>
       )}
     </>
