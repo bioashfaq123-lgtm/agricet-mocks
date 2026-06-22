@@ -2,8 +2,6 @@
 import { Question } from "@/types";
 
 export const da282LectureQuestions: Question[] = [
-
-  // ── Lecture 1: Mango Cultivation ───────────────────────────────────────────
   {
     id: "d282l_001",
     subject: "da-282",
@@ -164,8 +162,6 @@ export const da282LectureQuestions: Question[] = [
     correct: 3,
     explanation: "Langra is a popular North Indian mango variety cultivated around Varanasi (UP) and Patna (Bihar). It has medium-sized, greenish-yellow fruits with fiber-free, sweet pulp and distinctive aroma."
   },
-
-  // ── Lecture 2: Banana & Papaya ─────────────────────────────────────────────
   {
     id: "d282l_017",
     subject: "da-282",
@@ -321,13 +317,11 @@ export const da282LectureQuestions: Question[] = [
     subject: "da-282",
     lecture: "lecture-2",
     lectureNo: 2,
-    question: "The botanical name of Banana is:",
-    options: ["Psidium guajava in horticultural practices", "Musa acuminata and M. balbisiana (parents)", "Carica papaya for vegetable cultivation", "Annona squamosa in orchard management"],
-    correct: 1,
-    explanation: "Commercial bananas are derived from two wild species: Musa acuminata (providing A genome) and M. balbisiana (B genome). Most cultivated bananas are triploid hybrids of these two species."
+    question: "Banana is botanically known as:",
+    options: ["Punica granatum", "Carica papaya", "Mangifera indica", "Musa spp. (family Musaceae)"],
+    correct: 3,
+    explanation: "Banana is botanically Musa spp., belonging to the family Musaceae. The species Musa textilis is well known for its strong fibre."
   },
-
-  // ── Lecture 3: Citrus ──────────────────────────────────────────────────────
   {
     id: "d282l_033",
     subject: "da-282",
@@ -343,10 +337,10 @@ export const da282LectureQuestions: Question[] = [
     subject: "da-282",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Citrus greening disease (Huanglongbing – HLB) is caused by:",
-    options: ["Xanthomonas campestris", "Citrus Tristeza Virus (CTV)", "Candidatus Liberibacter asiaticus (bacteria)", "Phytophthora parasitica (fungus)"],
-    correct: 2,
-    explanation: "Citrus greening (Huanglongbing/HLB) is caused by the bacterium Candidatus Liberibacter asiaticus, transmitted by the psyllid insect Diaphorina citri. It is the most destructive citrus disease globally."
+    question: "The citrus species 'mandarin orange' is botanically known as:",
+    options: ["Citrus reticulata", "Citrus sinensis", "Citrus aurantifolia", "Citrus maxima"],
+    correct: 0,
+    explanation: "Mandarin orange is Citrus reticulata; sweet orange is Citrus sinensis and acid lime is Citrus aurantifolia. In India citrus is the third most important fruit crop."
   },
   {
     id: "d282l_035",
@@ -488,8 +482,6 @@ export const da282LectureQuestions: Question[] = [
     correct: 3,
     explanation: "Kinnow is a mandarin hybrid between King (Citrus nobilis) and Willow Leaf (Citrus deliciosa), developed in California. It is very popular in Punjab, Haryana and Rajasthan."
   },
-
-  // ── Lecture 4: Guava, Sapota & Pomegranate ────────────────────────────────
   {
     id: "d282l_049",
     subject: "da-282",
@@ -615,10 +607,10 @@ export const da282LectureQuestions: Question[] = [
     subject: "da-282",
     lecture: "lecture-4",
     lectureNo: 4,
-    question: "Sapota (Chiku) is botanically known as:",
-    options: ["Diospyros kaki", "Psidium guajava", "Manilkara zapota", "Annona reticulata"],
+    question: "Guava is botanically known as:",
+    options: ["Punica granatum", "Manilkara zapota", "Psidium guajava", "Mangifera indica"],
     correct: 2,
-    explanation: "Sapota (Chiku) is botanically Manilkara zapota (formerly Achras zapota/Manilkara achras), belonging to family Sapotaceae. It is native to southern Mexico and Central America."
+    explanation: "Guava is botanically Psidium guajava. It is a hardy fruit crop that can be propagated by air or ground layering."
   },
   {
     id: "d282l_062",
@@ -635,10 +627,10 @@ export const da282LectureQuestions: Question[] = [
     subject: "da-282",
     lecture: "lecture-4",
     lectureNo: 4,
-    question: "The spacing recommended for guava cultivation is:",
-    options: ["3×3 m (1111 plants/ha)", "6×6 m (277 plants/ha)", "1×1 m (10000 plants/ha)", "10×10 m (100 plants/ha)"],
-    correct: 1,
-    explanation: "Standard spacing for guava is 6×6 m (277 plants/ha). High-density planting may use 3×3 m (1111 plants/ha) with dwarfing rootstocks or pruning management."
+    question: "Guava is commonly propagated by:",
+    options: ["Suckers", "Seed only", "Tissue culture only", "Air layering or ground layering"],
+    correct: 3,
+    explanation: "Guava can be multiplied by air layering or ground layering; it is a hardy plant whose yield and quality improve markedly with summer irrigation."
   },
   {
     id: "d282l_064",
@@ -650,8 +642,6 @@ export const da282LectureQuestions: Question[] = [
     correct: 3,
     explanation: "Pomegranate fruit is classified as a balusta – a special type of berry with a tough leathery rind (pericarp) and multiple arils (juicy seed coats) arranged in chambers."
   },
-
-  // ── Lecture 5: Tomato ──────────────────────────────────────────────────────
   {
     id: "d282l_065",
     subject: "da-282",
@@ -812,8 +802,6 @@ export const da282LectureQuestions: Question[] = [
     correct: 0,
     explanation: "Tomato seedlings are ready for transplanting at 25–30 days after sowing when they are at the 4–6 true leaf stage (pencil-thick stem). Older seedlings do not establish well."
   },
-
-  // ── Lecture 6: Chilli & Capsicum ──────────────────────────────────────────
   {
     id: "d282l_081",
     subject: "da-282",
@@ -869,10 +857,10 @@ export const da282LectureQuestions: Question[] = [
     subject: "da-282",
     lecture: "lecture-6",
     lectureNo: 6,
-    question: "LCA-206 is a popular chilli variety released in which state?",
-    options: ["Andhra Pradesh", "Tamil Nadu", "Maharashtra", "Karnataka"],
+    question: "The chilli variety G-4 is also known as:",
+    options: ["Bhagyalaxmi", "Andhrajyothi", "Sindhur", "Bhaskar"],
     correct: 0,
-    explanation: "LCA-206 is a popular chilli variety released by Acharya N.G. Ranga Agricultural University (ANGRAU), Andhra Pradesh. It is widely grown for dry chilli production."
+    explanation: "G-4 (Bhagyalaxmi) is a long-fruited chilli used for both green and red chilli purposes; G-5 is Andhrajyothi and C.A.960 is Sindhur."
   },
   {
     id: "d282l_087",
@@ -899,10 +887,10 @@ export const da282LectureQuestions: Question[] = [
     subject: "da-282",
     lecture: "lecture-6",
     lectureNo: 6,
-    question: "Guntur Sannam, a GI-tagged chilli variety, is grown in:",
-    options: ["Warangal, Telangana", "Guntur, Andhra Pradesh", "Raichur, Karnataka", "Mysuru, Karnataka"],
-    correct: 1,
-    explanation: "Guntur Sannam chilli (S4 variety) is grown extensively in Guntur district of Andhra Pradesh. It is one of the world's most important commercial dry chilli varieties with high pungency and color."
+    question: "The chilli variety G-5 (Andhrajyothi) produces fruits that are:",
+    options: ["Seedless", "Very long and thin, low yielding", "Short, called 'gundu' type, yielding 40-50 q/acre", "Purple coloured"],
+    correct: 2,
+    explanation: "G-5 (Andhrajyothi) produces short 'gundu' type fruits and yields about 40-50 q/acre."
   },
   {
     id: "d282l_090",
@@ -974,8 +962,6 @@ export const da282LectureQuestions: Question[] = [
     correct: 2,
     explanation: "G-4 (Gujarat-4) is a high-yielding chilli variety developed in Gujarat, suitable for dry chilli production with good color and pungency. It is grown in Gujarat, Rajasthan and surrounding states."
   },
-
-  // ── Lecture 7: Onion & Garlic ──────────────────────────────────────────────
   {
     id: "d282l_097",
     subject: "da-282",
@@ -1136,8 +1122,6 @@ export const da282LectureQuestions: Question[] = [
     correct: 2,
     explanation: "Onion harvest maturity is indicated by 'neck fall' – when 50–75% of the tops naturally topple (fall over). This indicates cessation of bulb growth and appropriate time for harvest."
   },
-
-  // ── Lecture 8: Leafy & Root Vegetables ────────────────────────────────────
   {
     id: "d282l_113",
     subject: "da-282",
@@ -1193,10 +1177,10 @@ export const da282LectureQuestions: Question[] = [
     subject: "da-282",
     lecture: "lecture-8",
     lectureNo: 8,
-    question: "The carrot root is botanically classified as:",
-    options: ["Both taproot and hypocotyl", "A swollen hypocotyl", "A true root (tap root)", "A modified stem (corm)"],
-    correct: 0,
-    explanation: "The edible part of carrot consists of both the swollen taproot and a portion of the hypocotyl (stem between seed leaf scars and root). The upper shoulder region is hypocotyl and lower is taproot."
+    question: "Carrot is classified as which type of vegetable?",
+    options: ["Bulb vegetable", "Leafy vegetable", "Fruit vegetable", "Root vegetable"],
+    correct: 3,
+    explanation: "Carrot is a root vegetable; root and tuber crops such as carrot are often grown along the bund side in vegetable gardens."
   },
   {
     id: "d282l_119",
@@ -1298,8 +1282,6 @@ export const da282LectureQuestions: Question[] = [
     correct: 2,
     explanation: "The edible part of carrot (Daucus carota) and radish (Raphanus sativus) is the swollen, fleshy taproot (and hypocotyl in carrot) that serves as a storage organ for the plant."
   },
-
-  // ── Lecture 9: Flower Crops ────────────────────────────────────────────────
   {
     id: "d282l_129",
     subject: "da-282",
@@ -1335,10 +1317,10 @@ export const da282LectureQuestions: Question[] = [
     subject: "da-282",
     lecture: "lecture-9",
     lectureNo: 9,
-    question: "The popular rose variety 'Gruss an Teplitz' is known as:",
-    options: ["A white cut flower rose", "A yellow climber rose variety", "The 'Crimson Glory' of Indian rose gardens", "A miniature rose variety"],
-    correct: 2,
-    explanation: "Gruss an Teplitz is a heritage climbing rose known for its deep crimson-red, fragrant flowers. It is one of the oldest and most popular rose varieties in Indian gardens."
+    question: "Rose belongs to which botanical family?",
+    options: ["Rosaceae", "Compositae", "Rutaceae", "Musaceae"],
+    correct: 0,
+    explanation: "Rose is botanically Rosa species, belonging to the family Rosaceae."
   },
   {
     id: "d282l_133",
@@ -1460,8 +1442,6 @@ export const da282LectureQuestions: Question[] = [
     correct: 0,
     explanation: "Pinching in chrysanthemum involves removing the growing shoot tip (2–3 cm) to encourage multiple lateral branches, each producing flower buds, resulting in more flowers per plant."
   },
-
-  // ── Lecture 10: Post-Harvest Management ───────────────────────────────────
   {
     id: "d282l_145",
     subject: "da-282",
@@ -1597,10 +1577,10 @@ export const da282LectureQuestions: Question[] = [
     subject: "da-282",
     lecture: "lecture-10",
     lectureNo: 10,
-    question: "Agmark grading standard for agricultural produce in India is governed by:",
-    options: ["Agricultural Produce (Grading and Marking) Act 1937 (AGMARK)", "Food Safety and Standards Authority of India (FSSAI)", "Export Inspection Council (EIC)", "Bureau of Indian Standards (BIS)"],
-    correct: 0,
-    explanation: "AGMARK grading standards are established under the Agricultural Produce (Grading and Marking) Act 1937. The AGMARK logo certifies that produce meets the prescribed quality standards."
+    question: "Corrugated fibre board (CFB) boxes are commonly used for packaging:",
+    options: ["Only flowers", "Only food grains", "Apples, oranges, grapes and sapota", "Liquid milk"],
+    correct: 2,
+    explanation: "Corrugated fibre board (CFB) boxes are used for packaging fruits such as apples, oranges, grapes and sapota for safe transport and storage."
   },
   {
     id: "d282l_159",
@@ -1623,7 +1603,10 @@ export const da282LectureQuestions: Question[] = [
     explanation: "Days from full bloom (DFFB) is a reliable maturity index for apples and pears. Different varieties have characteristic DFFB values (e.g., Red Delicious apple: 150–155 days from full bloom)."
   },
   {
-    id: "d282l_161", subject: "da-282", lecture: "lecture-11", lectureNo: 11,
+    id: "d282l_161",
+    subject: "da-282",
+    lecture: "lecture-11",
+    lectureNo: 11,
     question: "The word horticulture is derived from Latin words meaning:",
     options: ["Study of plants", "Garden cultivation (hortus=garden + colere=cultivation)", "Plant biology as recommended by ICAR guidelines", "Science of farming"],
     correct: 1,
@@ -1631,7 +1614,10 @@ export const da282LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282l_162", subject: "da-282", lecture: "lecture-11", lectureNo: 11,
+    id: "d282l_162",
+    subject: "da-282",
+    lecture: "lecture-11",
+    lectureNo: 11,
     question: "Pomology is the branch of horticulture dealing with:",
     options: ["Vegetable cultivation", "Fruit crop cultivation and study", "Spice production", "Flower cultivation"],
     correct: 1,
@@ -1639,7 +1625,10 @@ export const da282LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d282l_163", subject: "da-282", lecture: "lecture-11", lectureNo: 11,
+    id: "d282l_163",
+    subject: "da-282",
+    lecture: "lecture-11",
+    lectureNo: 11,
     question: "Olericulture is the branch of horticulture dealing with:",
     options: ["Flower crops", "Fruit crops", "Vegetable crops", "Plantation crops"],
     correct: 2,
@@ -1647,7 +1636,10 @@ export const da282LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d282l_164", subject: "da-282", lecture: "lecture-11", lectureNo: 11,
+    id: "d282l_164",
+    subject: "da-282",
+    lecture: "lecture-11",
+    lectureNo: 11,
     question: "Floriculture is the branch of horticulture concerned with:",
     options: ["Fruit production", "Spice production", "Vegetable production", "Flower and ornamental plant production"],
     correct: 3,
@@ -1655,7 +1647,10 @@ export const da282LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d282l_165", subject: "da-282", lecture: "lecture-11", lectureNo: 11,
+    id: "d282l_165",
+    subject: "da-282",
+    lecture: "lecture-11",
+    lectureNo: 11,
     question: "ASSERTION-REASON: Assertion (A): Mango is called the King of Fruits in India. Reason (R): Mango is the national fruit of India, widely cultivated, and consumed across the country with high economic importance.",
     options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A"],
     correct: 1,
@@ -1663,7 +1658,10 @@ export const da282LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d282l_166", subject: "da-282", lecture: "lecture-11", lectureNo: 11,
+    id: "d282l_166",
+    subject: "da-282",
+    lecture: "lecture-11",
+    lectureNo: 11,
     question: "Match horticulture branches (Col A) with focus crops (Col B) and examples (Col C): Col A: 1-Pomology, 2-Olericulture, 3-Floriculture, 4-Spices. Col B: P-condiments, Q-fruits, R-flowers, S-vegetables. Col C: i-rose, ii-mango, iii-tomato, iv-cardamom",
     options: ["1-P-iv, 2-Q-ii, 3-S-iii, 4-R-i", "1-Q-ii, 2-S-iii, 3-R-i, 4-P-iv", "1-S-iii, 2-R-i, 3-P-iv, 4-Q-ii", "1-R-i, 2-P-iv, 3-Q-ii, 4-S-iii"],
     correct: 1,
@@ -1671,7 +1669,10 @@ export const da282LectureQuestions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d282l_167", subject: "da-282", lecture: "lecture-12", lectureNo: 12,
+    id: "d282l_167",
+    subject: "da-282",
+    lecture: "lecture-12",
+    lectureNo: 12,
     question: "The botanical name of mango is:",
     options: ["Mangifera indica", "Musa paradisiaca", "Citrus sinensis", "Psidium guajava"],
     correct: 0,
@@ -1679,7 +1680,10 @@ export const da282LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d282l_169", subject: "da-282", lecture: "lecture-12", lectureNo: 12,
+    id: "d282l_169",
+    subject: "da-282",
+    lecture: "lecture-12",
+    lectureNo: 12,
     question: "Grapes belong to which botanical family?",
     options: ["Musaceae", "Anacardiaceae", "Vitaceae", "Rutaceae"],
     correct: 2,
@@ -1687,7 +1691,10 @@ export const da282LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282l_170", subject: "da-282", lecture: "lecture-12", lectureNo: 12,
+    id: "d282l_170",
+    subject: "da-282",
+    lecture: "lecture-12",
+    lectureNo: 12,
     question: "Which fruit is known as the Queen of Fruits?",
     options: ["Papaya", "Mangosteen", "Banana", "Mango"],
     correct: 1,
@@ -1695,7 +1702,10 @@ export const da282LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282l_171", subject: "da-282", lecture: "lecture-12", lectureNo: 12,
+    id: "d282l_171",
+    subject: "da-282",
+    lecture: "lecture-12",
+    lectureNo: 12,
     question: "Pomegranate (Punica granatum) is rich in which nutrient?",
     options: ["Fat in horticultural practices", "Vitamin C and antioxidants (punicalagins and anthocyanins)", "Vitamin A in orchard management", "Calcium for vegetable cultivation"],
     correct: 1,
@@ -1703,7 +1713,10 @@ export const da282LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282l_172", subject: "da-282", lecture: "lecture-12", lectureNo: 12,
+    id: "d282l_172",
+    subject: "da-282",
+    lecture: "lecture-12",
+    lectureNo: 12,
     question: "ASSERTION-REASON: Assertion (A): Banana is a climacteric fruit. Reason (R): Climacteric fruits show a sharp rise in respiration (climacteric rise) and ethylene production during ripening, and can ripen after harvest.",
     options: ["A is false but R is true", "A is true but R is false", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
     correct: 2,
@@ -1711,7 +1724,10 @@ export const da282LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282l_173", subject: "da-282", lecture: "lecture-13", lectureNo: 13,
+    id: "d282l_173",
+    subject: "da-282",
+    lecture: "lecture-13",
+    lectureNo: 13,
     question: "The botanical name of tomato is:",
     options: ["Capsicum annuum", "Abelmoschus esculentus", "Solanum lycopersicum", "Solanum melongena"],
     correct: 2,
@@ -1719,7 +1735,10 @@ export const da282LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d282l_174", subject: "da-282", lecture: "lecture-13", lectureNo: 13,
+    id: "d282l_174",
+    subject: "da-282",
+    lecture: "lecture-13",
+    lectureNo: 13,
     question: "The botanical name of brinjal (eggplant) is:",
     options: ["Cucumis sativus", "Abelmoschus esculentus", "Solanum lycopersicum", "Solanum melongena"],
     correct: 3,
@@ -1727,7 +1746,10 @@ export const da282LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d282l_175", subject: "da-282", lecture: "lecture-13", lectureNo: 13,
+    id: "d282l_175",
+    subject: "da-282",
+    lecture: "lecture-13",
+    lectureNo: 13,
     question: "Bhendi (Ladyfinger/Okra) belongs to which family?",
     options: ["Malvaceae", "Cucurbitaceae", "Leguminosae", "Solanaceae"],
     correct: 0,
@@ -1735,7 +1757,10 @@ export const da282LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282l_176", subject: "da-282", lecture: "lecture-13", lectureNo: 13,
+    id: "d282l_176",
+    subject: "da-282",
+    lecture: "lecture-13",
+    lectureNo: 13,
     question: "ASSERTION-REASON: Assertion (A): Onion is a modified underground stem (bulb). Reason (R): Onion consists of fleshy scale leaves surrounding a central bud, all attached to a flattened stem (disc).",
     options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A"],
     correct: 1,
@@ -1743,7 +1768,10 @@ export const da282LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282l_177", subject: "da-282", lecture: "lecture-13", lectureNo: 13,
+    id: "d282l_177",
+    subject: "da-282",
+    lecture: "lecture-13",
+    lectureNo: 13,
     question: "Match vegetables (Col A) with families (Col B) and edible parts (Col C): Col A: 1-Tomato, 2-Onion, 3-Bhendi, 4-Cabbage. Col B: P-Brassicaceae, Q-Solanaceae, R-Malvaceae, S-Liliaceae. Col C: i-leaves, ii-bulb, iii-fruit, iv-capsule fruit",
     options: ["1-S-ii, 2-R-iv, 3-P-i, 4-Q-iii", "1-P-i, 2-Q-iii, 3-S-ii, 4-R-iv", "1-R-iv, 2-P-i, 3-Q-iii, 4-S-ii", "1-Q-iii, 2-S-ii, 3-R-iv, 4-P-i"],
     correct: 3,
@@ -1751,7 +1779,10 @@ export const da282LectureQuestions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d282l_178", subject: "da-282", lecture: "lecture-14", lectureNo: 14,
+    id: "d282l_178",
+    subject: "da-282",
+    lecture: "lecture-14",
+    lectureNo: 14,
     question: "The botanical name of rose is:",
     options: ["Chrysanthemum morifolium", "Jasminum sambac", "Rosa indica", "Tagetes erecta"],
     correct: 2,
@@ -1759,7 +1790,10 @@ export const da282LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d282l_179", subject: "da-282", lecture: "lecture-14", lectureNo: 14,
+    id: "d282l_179",
+    subject: "da-282",
+    lecture: "lecture-14",
+    lectureNo: 14,
     question: "Jasmine (Mogra) used in garlands in India belongs to which family?",
     options: ["Rosaceae", "Malvaceae", "Oleaceae", "Asteraceae"],
     correct: 2,
@@ -1767,7 +1801,10 @@ export const da282LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282l_180", subject: "da-282", lecture: "lecture-14", lectureNo: 14,
+    id: "d282l_180",
+    subject: "da-282",
+    lecture: "lecture-14",
+    lectureNo: 14,
     question: "Marigold (Genda phool) is botanically known as:",
     options: ["Rosa indica", "Tagetes erecta", "Chrysanthemum morifolium", "Jasminum sambac"],
     correct: 1,
@@ -1775,7 +1812,10 @@ export const da282LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d282l_181", subject: "da-282", lecture: "lecture-14", lectureNo: 14,
+    id: "d282l_181",
+    subject: "da-282",
+    lecture: "lecture-14",
+    lectureNo: 14,
     question: "ASSERTION-REASON: Assertion (A): Post-harvest losses in horticultural crops are higher than in field crops. Reason (R): Horticultural produce (fruits, vegetables, flowers) are perishable, having high moisture content and being prone to mechanical damage and microbial spoilage.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is false but R is true", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A"],
     correct: 0,
@@ -1783,7 +1823,10 @@ export const da282LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282l_182", subject: "da-282", lecture: "lecture-14", lectureNo: 14,
+    id: "d282l_182",
+    subject: "da-282",
+    lecture: "lecture-14",
+    lectureNo: 14,
     question: "Match flowers (Col A) with families (Col B) and uses (Col C): Col A: 1-Rose, 2-Jasmine, 3-Marigold, 4-Chrysanthemum. Col B: P-Asteraceae, Q-Rosaceae, R-Oleaceae, S-Asteraceae. Col C: i-temple/festival offerings, ii-garland and cut flower, iii-perfume and garland, iv-cut flower",
     options: ["1-P-i, 2-Q-ii, 3-R-iii, 4-S-iv", "1-S-iv, 2-P-i, 3-Q-ii, 4-R-iii", "1-Q-ii, 2-R-iii, 3-P-i, 4-S-iv", "1-R-iii, 2-P-i, 3-S-iv, 4-Q-ii"],
     correct: 2,
@@ -1791,7 +1834,10 @@ export const da282LectureQuestions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d282l_183", subject: "da-282", lecture: "lecture-15", lectureNo: 15,
+    id: "d282l_183",
+    subject: "da-282",
+    lecture: "lecture-15",
+    lectureNo: 15,
     question: "Cardamom (Elettaria cardamomum) is called:",
     options: ["Spice King", "King of Fruits", "Queen of Spices", "King of Spices"],
     correct: 2,
@@ -1799,7 +1845,10 @@ export const da282LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282l_184", subject: "da-282", lecture: "lecture-15", lectureNo: 15,
+    id: "d282l_184",
+    subject: "da-282",
+    lecture: "lecture-15",
+    lectureNo: 15,
     question: "Black pepper (Piper nigrum) is called:",
     options: ["King of Spices", "Prince of Spices", "Black Gold", "Queen of Spices"],
     correct: 0,
@@ -1807,7 +1856,10 @@ export const da282LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282l_185", subject: "da-282", lecture: "lecture-15", lectureNo: 15,
+    id: "d282l_185",
+    subject: "da-282",
+    lecture: "lecture-15",
+    lectureNo: 15,
     question: "Coconut is botanically classified as a:",
     options: ["Berry", "True fruit", "Nut", "Drupe (stone fruit)"],
     correct: 3,
@@ -1815,7 +1867,10 @@ export const da282LectureQuestions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d282l_186", subject: "da-282", lecture: "lecture-15", lectureNo: 15,
+    id: "d282l_186",
+    subject: "da-282",
+    lecture: "lecture-15",
+    lectureNo: 15,
     question: "ASSERTION-REASON: Assertion (A): Chilli is a vegetable and also a spice. Reason (R): Green chilli is used as a vegetable while dry red chilli is used as a spice; both come from the same plant Capsicum annuum.",
     options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A"],
     correct: 1,
@@ -1823,7 +1878,10 @@ export const da282LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282l_187", subject: "da-282", lecture: "lecture-15", lectureNo: 15,
+    id: "d282l_187",
+    subject: "da-282",
+    lecture: "lecture-15",
+    lectureNo: 15,
     question: "Match spices (Col A) with botanical names (Col B) and families (Col C): Col A: 1-Cardamom, 2-Black pepper, 3-Turmeric, 4-Ginger. Col B: P-Zingiber officinale, Q-Curcuma longa, R-Piper nigrum, S-Elettaria cardamomum. Col C: i-Piperaceae, ii-Zingiberaceae, iii-Zingiberaceae, iv-Zingiberaceae",
     options: ["1-R-i, 2-S-iv, 3-P-ii, 4-Q-iii", "1-P-ii, 2-Q-iii, 3-R-i, 4-S-iv", "1-S-iv, 2-R-i, 3-Q-iii, 4-P-ii", "1-Q-iii, 2-P-ii, 3-S-iv, 4-R-i"],
     correct: 2,
@@ -1831,7 +1889,10 @@ export const da282LectureQuestions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d282l_188", subject: "da-282", lecture: "lecture-15", lectureNo: 15,
+    id: "d282l_188",
+    subject: "da-282",
+    lecture: "lecture-15",
+    lectureNo: 15,
     question: "The edible part of cauliflower is the:",
     options: ["Curd (compact flower head)", "Stem", "Leaf", "Root"],
     correct: 0,
@@ -1839,7 +1900,10 @@ export const da282LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d282l_189", subject: "da-282", lecture: "lecture-15", lectureNo: 15,
+    id: "d282l_189",
+    subject: "da-282",
+    lecture: "lecture-15",
+    lectureNo: 15,
     question: "Which vegetable is known as the poor man's apple due to its high nutritional value and wide availability?",
     options: ["Tomato", "Onion", "Brinjal", "Bitter gourd"],
     correct: 0,
@@ -1847,7 +1911,10 @@ export const da282LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282l_190", subject: "da-282", lecture: "lecture-15", lectureNo: 15,
+    id: "d282l_190",
+    subject: "da-282",
+    lecture: "lecture-15",
+    lectureNo: 15,
     question: "Guava (Psidium guajava) is rich in:",
     options: ["Vitamin C (highest among common fruits)", "Iron in horticultural practices", "Vitamin A for vegetable cultivation", "Calcium in orchard management"],
     correct: 0,
@@ -1855,7 +1922,10 @@ export const da282LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282l_191", subject: "da-282", lecture: "lecture-12", lectureNo: 12,
+    id: "d282l_191",
+    subject: "da-282",
+    lecture: "lecture-12",
+    lectureNo: 12,
     question: "Citrus fruits belong to which botanical family?",
     options: ["Vitaceae", "Rutaceae", "Anacardiaceae", "Rosaceae"],
     correct: 1,
@@ -1863,7 +1933,10 @@ export const da282LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282l_192", subject: "da-282", lecture: "lecture-13", lectureNo: 13,
+    id: "d282l_192",
+    subject: "da-282",
+    lecture: "lecture-13",
+    lectureNo: 13,
     question: "Cucumber (Cucumis sativus) belongs to which family?",
     options: ["Solanaceae", "Malvaceae", "Brassicaceae", "Cucurbitaceae"],
     correct: 3,
@@ -1871,7 +1944,10 @@ export const da282LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282l_193", subject: "da-282", lecture: "lecture-13", lectureNo: 13,
+    id: "d282l_193",
+    subject: "da-282",
+    lecture: "lecture-13",
+    lectureNo: 13,
     question: "The edible part of potato is a:",
     options: ["Root", "Bulb", "Fruit", "Tuber (modified underground stem)"],
     correct: 3,
@@ -1879,7 +1955,10 @@ export const da282LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d282l_194", subject: "da-282", lecture: "lecture-14", lectureNo: 14,
+    id: "d282l_194",
+    subject: "da-282",
+    lecture: "lecture-14",
+    lectureNo: 14,
     question: "Chrysanthemum is commercially important for:",
     options: ["Cut flowers, loose flowers for garlands, and potted plants", "Food production in horticultural practices in agriculture", "Spice production for vegetable cultivation", "Timber in orchard management for crop production"],
     correct: 0,
@@ -1887,7 +1966,10 @@ export const da282LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d282l_195", subject: "da-282", lecture: "lecture-14", lectureNo: 14,
+    id: "d282l_195",
+    subject: "da-282",
+    lecture: "lecture-14",
+    lectureNo: 14,
     question: "ASSERTION-REASON: Assertion (A): Drip irrigation is highly suitable for horticultural crops. Reason (R): Drip irrigation delivers water directly to the root zone, reducing water loss and improving water use efficiency for fruit and vegetable crops.",
     options: ["A is false but R is true", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A"],
     correct: 1,
@@ -1895,7 +1977,10 @@ export const da282LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d282l_196", subject: "da-282", lecture: "lecture-15", lectureNo: 15,
+    id: "d282l_196",
+    subject: "da-282",
+    lecture: "lecture-15",
+    lectureNo: 15,
     question: "Turmeric (Curcuma longa) is propagated by:",
     options: ["Seeds", "Rhizomes", "Grafting", "Stem cuttings"],
     correct: 1,
@@ -1903,7 +1988,10 @@ export const da282LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282l_197", subject: "da-282", lecture: "lecture-15", lectureNo: 15,
+    id: "d282l_197",
+    subject: "da-282",
+    lecture: "lecture-15",
+    lectureNo: 15,
     question: "Which of the following is a plantation crop?",
     options: ["Paddy", "Coconut", "Marigold", "Tomato"],
     correct: 1,
@@ -1911,7 +1999,10 @@ export const da282LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d282l_198", subject: "da-282", lecture: "lecture-12", lectureNo: 12,
+    id: "d282l_198",
+    subject: "da-282",
+    lecture: "lecture-12",
+    lectureNo: 12,
     question: "Match fruit types: Col A: 1-Mango, 2-Banana, 3-Grape, 4-Guava. Col B: P-Vitaceae, Q-Myrtaceae, R-Anacardiaceae, S-Musaceae. Col C: i-Mangifera indica, ii-Psidium guajava, iii-Vitis vinifera, iv-Musa paradisiaca",
     options: ["1-S-iv, 2-R-i, 3-Q-ii, 4-P-iii", "1-R-i, 2-S-iv, 3-P-iii, 4-Q-ii", "1-P-iii, 2-Q-ii, 3-R-i, 4-S-iv", "1-Q-ii, 2-P-iii, 3-S-iv, 4-R-i"],
     correct: 1,
@@ -1919,7 +2010,10 @@ export const da282LectureQuestions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d282l_199", subject: "da-282", lecture: "lecture-13", lectureNo: 13,
+    id: "d282l_199",
+    subject: "da-282",
+    lecture: "lecture-13",
+    lectureNo: 13,
     question: "The edible part of carrot is a:",
     options: ["Tuber", "Corm", "Taproot", "Bulb"],
     correct: 2,
@@ -1927,7 +2021,10 @@ export const da282LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d282l_200", subject: "da-282", lecture: "lecture-13", lectureNo: 13,
+    id: "d282l_200",
+    subject: "da-282",
+    lecture: "lecture-13",
+    lectureNo: 13,
     question: "ASSERTION-REASON: Assertion (A): Bitter gourd is used medicinally to control blood sugar. Reason (R): Bitter gourd (Momordica charantia) contains insulin-like compounds (charantin, polypeptide-p) that help lower blood glucose levels.",
     options: ["A is false but R is true", "A is true but R is false", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
     correct: 2,
@@ -2014,5 +2111,5 @@ export const da282LectureQuestions: Question[] = [
     options: ["Less than 10 cm", "Exactly 30 cm", "Over 100 cm", "50 cm"],
     correct: 2,
     explanation: "As per DA-282 notes: Black soils are distinguished into shallow (30 cm or less), medium (30-100 cm) and deep (over 100 cm)."
-  }
+  },
 ];

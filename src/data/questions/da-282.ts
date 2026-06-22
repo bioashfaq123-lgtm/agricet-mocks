@@ -1,3 +1,4 @@
+// ===== FILE: da-282.ts =====
 import { Question } from "@/types";
 
 export const da282Questions: Question[] = [
@@ -428,10 +429,10 @@ export const da282Questions: Question[] = [
   {
     id: "d282_057",
     subject: "da-282",
-    question: "The main pollinator of mango flowers is:",
-    options: ["Flies and midges (Diptera)", "Honey bee (Apis mellifera, A. cerana)", "Wind — cross-pollination through air movement", "Butterflies and moths (Lepidoptera)"],
+    question: "The botanical name of mango is:",
+    options: ["Mangifera indica", "Musa spp.", "Psidium guajava", "Punica granatum"],
     correct: 0,
-    explanation: "Mango flowers (panicles) have a strong unpleasant odour that primarily attracts flies, midges, and other Diptera insects as pollinators. Honey bees and other insects also visit, but flies and midges are the primary pollinators of mango."
+    explanation: "Mango is botanically Mangifera indica. It is a highly heterozygous and cross-pollinated fruit crop."
   },
   {
     id: "d282_059",
@@ -524,10 +525,10 @@ export const da282Questions: Question[] = [
   {
     id: "d282_070",
     subject: "da-282",
-    question: "The National Horticulture Mission (NHM) was launched in India in:",
-    options: ["2005–06", "1991–92", "2000–01", "2010–11"],
+    question: "The word 'Horticulture' is derived from two Latin words 'Hortus' and 'colere', meaning:",
+    options: ["Garden and cultivation", "Fruit and science", "Soil and water", "Flower and trade"],
     correct: 0,
-    explanation: "National Horticulture Mission (NHM) was launched in 2005–06 (10th Five Year Plan) to promote holistic growth of the horticulture sector — covering fruits, vegetables, flowers, spices, mushrooms, plantation crops, and bamboo. It provides subsidies for area expansion, nurseries, cold storage, and market infrastructure."
+    explanation: "Horticulture is derived from the Latin words 'Hortus' (garden) and 'colere' (cultivation); it is the intensive cultivation of fruits, vegetables, ornamentals, spices and plantation crops."
   },
   {
     id: "d282_071",
@@ -572,18 +573,18 @@ export const da282Questions: Question[] = [
   {
     id: "d282_076",
     subject: "da-282",
-    question: "The botanical name of Tuberose (Rajnigandha) is:",
-    options: ["Gladiolus grandiflorus", "Lilium longiflorum", "Polianthes tuberosa", "Rosa hybrida"],
-    correct: 2,
-    explanation: "Tuberose — Polianthes tuberosa (family Agavaceae/Asparagaceae) — is one of the most fragrant flowers used for garlands, religious offerings, and perfume industry. It is propagated by bulbs. India is the 2nd largest producer. WB, TN, Karnataka, and AP are major producers."
+    question: "African marigold is botanically known as:",
+    options: ["Tagetes erecta", "Tagetes patula", "Rosa species", "Polianthes spp."],
+    correct: 0,
+    explanation: "African marigold is Tagetes erecta (tall with strong stem), while French marigold is Tagetes patula (a dwarf, bushy type)."
   },
   {
     id: "d282_077",
     subject: "da-282",
-    question: "The 'Pradhan Mantri Fasal Bima Yojana' (PMFBY) for horticulture crops is implemented through:",
-    options: ["Insurance companies with central-state government premium subsidy", "State-level agricultural cooperatives solely without government premium support", "National Horticulture Mission alone without any insurance company involvement", "Commercial banks acting as both insurers and premium subsidy providers"],
-    correct: 0,
-    explanation: "PMFBY provides affordable crop insurance to farmers against losses from natural calamities, pests, and diseases. For horticulture crops, premium is 5% of sum insured (others 1.5–2%). Central and state governments share premium subsidy. Insurance companies settle claims based on CCE/area approach."
+    question: "The branch of horticulture dealing with flower production is:",
+    options: ["Arboriculture", "Pomology", "Olericulture", "Floriculture"],
+    correct: 3,
+    explanation: "Floriculture is the science of flower production; it is one of the branches of horticulture along with pomology (fruits) and olericulture (vegetables)."
   },
   {
     id: "d282_078",
@@ -596,10 +597,10 @@ export const da282Questions: Question[] = [
   {
     id: "d282_079",
     subject: "da-282",
-    question: "The 'Somatic hybridisation' technique in horticulture is also known as:",
-    options: ["Protoplast fusion", "Polyploidy breeding using colchicine to double chromosome number", "Mutation breeding using gamma radiation or chemical mutagens", "Conventional hybridisation through controlled hand-pollination"],
+    question: "The branch of horticulture that deals with the study/cultivation of fruit crops is:",
+    options: ["Pomology", "Olericulture", "Floriculture", "Arboriculture"],
     correct: 0,
-    explanation: "Somatic hybridisation involves fusion of protoplasts (cells without cell walls) from two different plants, typically interspecific or intergeneric combinations difficult by conventional crossing. Used in Solanum species, citrus, and other horticultural crops for wide hybridisation."
+    explanation: "Pomology is the study or cultivation of fruit crops (e.g. mango, sapota, guava, grape, banana); olericulture deals with vegetables and floriculture with flowers."
   },
   {
     id: "d282_080",
@@ -708,10 +709,10 @@ export const da282Questions: Question[] = [
   {
     id: "d282_093",
     subject: "da-282",
-    question: "The major aphid pest of citrus that also transmits tristeza virus is:",
-    options: ["Aphis gossypii (Cotton melon aphid) causing direct feeding damage", "Pentalonia nigronervosa (Banana aphid) transmitting BBTV", "Myzus persicae (Green peach aphid) transmitting CMV and other viruses", "Toxoptera citricida (Brown citrus aphid)"],
+    question: "The important citrus species 'sweet orange' is botanically known as:",
+    options: ["Citrus limon", "Citrus reticulata", "Citrus aurantifolia", "Citrus sinensis"],
     correct: 3,
-    explanation: "Toxoptera citricida (Brown Citrus Aphid) is the most efficient vector of Citrus Tristeza Virus (CTV), which causes 'quick decline' and 'stem pitting' in citrus. Control: aphicide sprays, mild strain cross-protection, and resistant rootstocks."
+    explanation: "Among important citrus species, sweet orange is Citrus sinensis, mandarin orange is Citrus reticulata and acid lime is Citrus aurantifolia. Citrus belongs to the family Rutaceae."
   },
   {
     id: "d282_094",
@@ -748,10 +749,10 @@ export const da282Questions: Question[] = [
   {
     id: "d282_098",
     subject: "da-282",
-    question: "The botanical name of Tamarind (Chintapandu) is:",
-    options: ["Emblica officinalis (Indian Gooseberry — Amla)", "Tamarindus indica", "Ziziphus mauritiana (Indian Jujube — Ber)", "Phyllanthus emblica (Amla — family Phyllanthaceae)"],
-    correct: 1,
-    explanation: "Tamarind — Tamarindus indica — belongs to family Fabaceae (Caesalpinioideae). It is used as a souring agent in cooking (especially South Indian cuisine), in beverages, chutneys, and has medicinal properties. AP and Telangana have large tamarind resources."
+    question: "The table mango variety known for being a regular and heavy bearer is:",
+    options: ["Totapuri", "Neelum", "Rumani", "Baramasi"],
+    correct: 0,
+    explanation: "Totapuri is a regular and heavy-bearing table mango with medium to large fruits. Table varieties include Baneshan, Totapuri, Kesar and Hemayath."
   },
   {
     id: "d282_099",
@@ -770,7 +771,8 @@ export const da282Questions: Question[] = [
     explanation: "Among horticultural exports, spices — particularly black pepper, cardamom, chilli (paprika), turmeric, ginger, and coriander — contribute maximum foreign exchange earnings. India is called the 'Spice Bowl of the World' and the largest producer/exporter of spices globally."
   },
   {
-    id: "d282_101", subject: "da-282",
+    id: "d282_101",
+    subject: "da-282",
     question: "Horticulture is derived from Latin words hortus and colere meaning:",
     options: ["Science of farming", "Garden cultivation", "Study of plants", "Plant biology"],
     correct: 1,
@@ -778,7 +780,8 @@ export const da282Questions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d282_102", subject: "da-282",
+    id: "d282_102",
+    subject: "da-282",
     question: "Which branch of horticulture deals with fruit crop cultivation?",
     options: ["Spiciculture", "Floriculture", "Pomology", "Olericulture"],
     correct: 2,
@@ -786,7 +789,8 @@ export const da282Questions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d282_103", subject: "da-282",
+    id: "d282_103",
+    subject: "da-282",
     question: "Which branch of horticulture deals with vegetable cultivation?",
     options: ["Olericulture", "Floriculture", "Pomology", "Plantation crops"],
     correct: 0,
@@ -794,7 +798,8 @@ export const da282Questions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d282_106", subject: "da-282",
+    id: "d282_106",
+    subject: "da-282",
     question: "ASSERTION-REASON: Assertion (A): Mango is called the King of Fruits. Reason (R): Mango is the national fruit of India with high economic importance and wide cultivation.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
     correct: 2,
@@ -802,7 +807,8 @@ export const da282Questions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d282_107", subject: "da-282",
+    id: "d282_107",
+    subject: "da-282",
     question: "Match horticulture branches: Col A: 1-Pomology, 2-Olericulture, 3-Floriculture, 4-Spices. Col B: P-condiments, Q-fruits, R-flowers, S-vegetables. Col C: i-rose, ii-mango, iii-tomato, iv-cardamom",
     options: ["1-S-iii, 2-R-i, 3-P-iv, 4-Q-ii", "1-R-i, 2-P-iv, 3-Q-ii, 4-S-iii", "1-Q-ii, 2-S-iii, 3-R-i, 4-P-iv", "1-P-iv, 2-Q-ii, 3-S-iii, 4-R-i"],
     correct: 2,
@@ -810,7 +816,8 @@ export const da282Questions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d282_109", subject: "da-282",
+    id: "d282_109",
+    subject: "da-282",
     question: "Bhendi (Okra/Ladyfinger) belongs to which plant family?",
     options: ["Cucurbitaceae", "Solanaceae", "Malvaceae", "Leguminosae"],
     correct: 2,
@@ -818,7 +825,8 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_110", subject: "da-282",
+    id: "d282_110",
+    subject: "da-282",
     question: "The botanical name of rose is:",
     options: ["Jasminum sambac", "Tagetes erecta", "Rosa indica", "Chrysanthemum morifolium"],
     correct: 2,
@@ -826,7 +834,8 @@ export const da282Questions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d282_111", subject: "da-282",
+    id: "d282_111",
+    subject: "da-282",
     question: "Marigold is botanically known as:",
     options: ["Chrysanthemum morifolium", "Tagetes erecta", "Jasminum sambac", "Rosa indica"],
     correct: 1,
@@ -834,7 +843,8 @@ export const da282Questions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d282_112", subject: "da-282",
+    id: "d282_112",
+    subject: "da-282",
     question: "ASSERTION-REASON: Assertion (A): Post-harvest losses in horticultural crops are high (20-40%). Reason (R): Fruits, vegetables, and flowers are perishable with high moisture content, prone to mechanical damage and microbial spoilage.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
@@ -842,7 +852,8 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_113", subject: "da-282",
+    id: "d282_113",
+    subject: "da-282",
     question: "Black pepper (Piper nigrum) is called:",
     options: ["Queen of Spices", "Black Gold", "Prince of Spices", "King of Spices"],
     correct: 3,
@@ -850,7 +861,8 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_114", subject: "da-282",
+    id: "d282_114",
+    subject: "da-282",
     question: "Cardamom is called the:",
     options: ["Queen of Spices", "King of Spices", "King of Fruits", "Spice King"],
     correct: 0,
@@ -858,7 +870,8 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_115", subject: "da-282",
+    id: "d282_115",
+    subject: "da-282",
     question: "Match vegetables: Col A: 1-Tomato, 2-Onion, 3-Bhendi, 4-Cabbage. Col B: P-Brassicaceae, Q-Solanaceae, R-Malvaceae, S-Liliaceae. Col C: i-leaves, ii-bulb, iii-fruit, iv-capsule fruit",
     options: ["1-P-i, 2-Q-iii, 3-S-ii, 4-R-iv", "1-Q-iii, 2-S-ii, 3-R-iv, 4-P-i", "1-R-iv, 2-P-i, 3-Q-iii, 4-S-ii", "1-S-ii, 2-R-iv, 3-P-i, 4-Q-iii"],
     correct: 1,
@@ -866,7 +879,8 @@ export const da282Questions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d282_116", subject: "da-282",
+    id: "d282_116",
+    subject: "da-282",
     question: "The edible part of cauliflower is the:",
     options: ["Curd (compact flower head)", "Leaf", "Root", "Stem"],
     correct: 0,
@@ -874,7 +888,8 @@ export const da282Questions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d282_117", subject: "da-282",
+    id: "d282_117",
+    subject: "da-282",
     question: "Guava (Psidium guajava) is considered a nutritious fruit because it is high in:",
     options: ["Vitamin C (highest among common fruits)", "Calcium in horticultural practices", "Fat for vegetable cultivation", "Vitamin A in orchard management"],
     correct: 0,
@@ -882,7 +897,8 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_119", subject: "da-282",
+    id: "d282_119",
+    subject: "da-282",
     question: "ASSERTION-REASON: Assertion (A): Onion is a modified underground stem. Reason (R): Onion consists of fleshy scale leaves surrounding a central bud, all attached to a flattened compressed disc (stem).",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
@@ -890,15 +906,17 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_120", subject: "da-282",
-    question: "Match spices: Col A: 1-Cardamom, 2-Black pepper, 3-Turmeric, 4-Ginger. Col B: P-Zingiber officinale, Q-Curcuma longa, R-Piper nigrum, S-Elettaria cardamomum. Col C: i-Piperaceae, ii-Zingiberaceae family member, iii-Zingiberaceae, iv-Zingiberaceae",
-    options: ["1-R-i, 2-S-iv, 3-P-ii, 4-Q-iii", "1-S-iv, 2-R-i, 3-Q-iii, 4-P-ii", "1-Q-iii, 2-P-ii, 3-S-iv, 4-R-i", "1-P-ii, 2-Q-iii, 3-R-i, 4-S-iv"],
-    correct: 1,
-    explanation: "Cardamom (Elettaria=Zingiberaceae=iv), Black pepper (Piper=Piperaceae=i), Turmeric (Curcuma=Zingiberaceae=iii), Ginger (Zingiber=Zingiberaceae=ii).",
+    id: "d282_120",
+    subject: "da-282",
+    question: "Pepper, cardamom, clove and nutmeg are examples of:",
+    options: ["Aromatic plants", "Condiments", "Spices", "Plantation crops"],
+    correct: 2,
+    explanation: "Spices are natural plant products used to improve the flavour, aroma, taste and colour of food (e.g. pepper, cardamom, clove, nutmeg). Condiments (coriander, cumin) add taste only.",
     difficulty: "hard"
   },
   {
-    id: "d282_121", subject: "da-282",
+    id: "d282_121",
+    subject: "da-282",
     question: "Floriculture deals with:",
     options: ["Vegetable production", "Fruit production", "Spice production", "Flower and ornamental plant production"],
     correct: 3,
@@ -906,7 +924,8 @@ export const da282Questions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d282_122", subject: "da-282",
+    id: "d282_122",
+    subject: "da-282",
     question: "Grapes (Vitis vinifera) belong to which family?",
     options: ["Rutaceae", "Musaceae", "Vitaceae", "Anacardiaceae"],
     correct: 2,
@@ -914,7 +933,8 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_123", subject: "da-282",
+    id: "d282_123",
+    subject: "da-282",
     question: "Tomato is called the poor man's apple because:",
     options: ["It resembles an apple in shape in horticultural practices", "It is inexpensive and low in nutrition for vegetable cultivation", "It is high in Vitamin C, lycopene, and widely available at affordable prices", "It is grown only by poor farmers in orchard management"],
     correct: 2,
@@ -922,7 +942,8 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_124", subject: "da-282",
+    id: "d282_124",
+    subject: "da-282",
     question: "ASSERTION-REASON: Assertion (A): Banana is a climacteric fruit. Reason (R): Climacteric fruits show a rise in respiration rate and ethylene production during ripening, and can ripen after harvest.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
     correct: 2,
@@ -930,7 +951,8 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_125", subject: "da-282",
+    id: "d282_125",
+    subject: "da-282",
     question: "Coconut is botanically classified as a:",
     options: ["True fruit", "Drupe (stone fruit)", "Berry", "Nut"],
     correct: 1,
@@ -938,7 +960,8 @@ export const da282Questions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d282_126", subject: "da-282",
+    id: "d282_126",
+    subject: "da-282",
     question: "Which is a plantation crop in horticulture?",
     options: ["Marigold", "Paddy", "Coconut", "Tomato"],
     correct: 2,
@@ -946,7 +969,8 @@ export const da282Questions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d282_127", subject: "da-282",
+    id: "d282_127",
+    subject: "da-282",
     question: "Turmeric (Curcuma longa) is propagated commercially by:",
     options: ["Rhizomes", "Seeds", "Grafting", "Stem cuttings"],
     correct: 0,
@@ -954,7 +978,8 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_128", subject: "da-282",
+    id: "d282_128",
+    subject: "da-282",
     question: "ASSERTION-REASON: Assertion (A): Drip irrigation is highly suitable for horticultural crops. Reason (R): Drip irrigation delivers water directly to the root zone, reducing water loss and improving water use efficiency.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
     correct: 2,
@@ -962,7 +987,8 @@ export const da282Questions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d282_129", subject: "da-282",
+    id: "d282_129",
+    subject: "da-282",
     question: "Jasmine (Mogra) used in garlands belongs to which family?",
     options: ["Oleaceae", "Malvaceae", "Rosaceae", "Asteraceae"],
     correct: 0,
@@ -970,7 +996,8 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_130", subject: "da-282",
+    id: "d282_130",
+    subject: "da-282",
     question: "Match fruit types: Col A: 1-Mango, 2-Banana, 3-Grape, 4-Guava. Col B: P-Vitaceae, Q-Myrtaceae, R-Anacardiaceae, S-Musaceae. Col C: i-Mangifera indica, ii-Psidium guajava, iii-Vitis vinifera, iv-Musa paradisiaca",
     options: ["1-P-iii, 2-Q-ii, 3-R-i, 4-S-iv", "1-R-i, 2-S-iv, 3-P-iii, 4-Q-ii", "1-Q-ii, 2-P-iii, 3-S-iv, 4-R-i", "1-S-iv, 2-R-i, 3-Q-ii, 4-P-iii"],
     correct: 1,
@@ -978,7 +1005,8 @@ export const da282Questions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d282_131", subject: "da-282",
+    id: "d282_131",
+    subject: "da-282",
     question: "The edible part of potato (Solanum tuberosum) is a:",
     options: ["Fruit", "Tuber (modified underground stem)", "Bulb", "Root"],
     correct: 1,
@@ -986,7 +1014,8 @@ export const da282Questions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d282_132", subject: "da-282",
+    id: "d282_132",
+    subject: "da-282",
     question: "Citrus fruits belong to which botanical family?",
     options: ["Rosaceae", "Rutaceae", "Anacardiaceae", "Vitaceae"],
     correct: 1,
@@ -994,7 +1023,8 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_133", subject: "da-282",
+    id: "d282_133",
+    subject: "da-282",
     question: "The edible part of carrot is a:",
     options: ["Tuber", "Bulb", "Taproot", "Corm"],
     correct: 2,
@@ -1002,7 +1032,8 @@ export const da282Questions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d282_134", subject: "da-282",
+    id: "d282_134",
+    subject: "da-282",
     question: "ASSERTION-REASON: Assertion (A): Chilli is both a vegetable and a spice. Reason (R): Green chilli is used as a vegetable while dry red chilli is used as a spice; both come from Capsicum annuum.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is false but R is true", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A"],
     correct: 0,
@@ -1010,7 +1041,8 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_135", subject: "da-282",
+    id: "d282_135",
+    subject: "da-282",
     question: "Cucumber (Cucumis sativus) belongs to family:",
     options: ["Cucurbitaceae", "Brassicaceae", "Solanaceae", "Malvaceae"],
     correct: 0,
@@ -1018,7 +1050,8 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_136", subject: "da-282",
+    id: "d282_136",
+    subject: "da-282",
     question: "Pomegranate (Punica granatum) is used medicinally because it is rich in:",
     options: ["Antioxidants including punicalagins and anthocyanins", "Vitamin D", "Calcium only", "Carbohydrates in horticultural practices"],
     correct: 0,
@@ -1026,7 +1059,8 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_137", subject: "da-282",
+    id: "d282_137",
+    subject: "da-282",
     question: "Match flowers: Col A: 1-Rose, 2-Jasmine, 3-Marigold, 4-Chrysanthemum. Col B: P-Asteraceae, Q-Rosaceae, R-Oleaceae, S-Asteraceae. Col C: i-temple offerings, ii-garland and cut flower, iii-perfume and garland, iv-cut flower",
     options: ["1-Q-ii, 2-R-iii, 3-P-i, 4-S-iv", "1-S-iv, 2-P-i, 3-Q-ii, 4-R-iii", "1-R-iii, 2-P-i, 3-S-iv, 4-Q-ii", "1-P-i, 2-Q-ii, 3-R-iii, 4-S-iv"],
     correct: 0,
@@ -1034,7 +1068,8 @@ export const da282Questions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d282_138", subject: "da-282",
+    id: "d282_138",
+    subject: "da-282",
     question: "Which queen of spice is the third most expensive spice in the world?",
     options: ["Turmeric", "Ginger", "Black pepper", "Cardamom"],
     correct: 3,
@@ -1042,7 +1077,8 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_139", subject: "da-282",
+    id: "d282_139",
+    subject: "da-282",
     question: "ASSERTION-REASON: Assertion (A): Bitter gourd is used to control blood sugar. Reason (R): Bitter gourd (Momordica charantia) contains insulin-like compounds (charantin, polypeptide-p) that lower blood glucose.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
     correct: 2,
@@ -1050,7 +1086,8 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_140", subject: "da-282",
+    id: "d282_140",
+    subject: "da-282",
     question: "Which fruit is known as the Queen of Fruits?",
     options: ["Mangosteen", "Mango", "Papaya", "Banana"],
     correct: 0,
@@ -1058,7 +1095,8 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_141", subject: "da-282",
+    id: "d282_141",
+    subject: "da-282",
     question: "The active antioxidant compound lycopene is found mainly in:",
     options: ["Mango", "Banana", "Cabbage", "Tomato (especially cooked/processed)"],
     correct: 3,
@@ -1066,7 +1104,8 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_142", subject: "da-282",
+    id: "d282_142",
+    subject: "da-282",
     question: "Ginger (Zingiber officinale) is propagated by:",
     options: ["Layering", "Seeds", "Stem cuttings", "Rhizomes"],
     correct: 3,
@@ -1074,7 +1113,8 @@ export const da282Questions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d282_143", subject: "da-282",
+    id: "d282_143",
+    subject: "da-282",
     question: "ASSERTION-REASON: Assertion (A): Tissue culture is used in horticulture for rapid propagation of plants. Reason (R): Tissue culture produces large numbers of disease-free, genetically uniform plants quickly from a small tissue sample.",
     options: ["A is true but R is false", "Both A and R are true and R is the correct explanation of A", "A is false but R is true", "Both A and R are true but R is not the correct explanation of A"],
     correct: 1,
@@ -1082,7 +1122,8 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_144", subject: "da-282",
+    id: "d282_144",
+    subject: "da-282",
     question: "Which vegetable is botanically a fruit (has seeds inside)?",
     options: ["Tomato", "Potato", "Carrot", "Cabbage"],
     correct: 0,
@@ -1090,7 +1131,8 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_145", subject: "da-282",
+    id: "d282_145",
+    subject: "da-282",
     question: "The major coconut producing states in India include:",
     options: ["Bihar, West Bengal, Assam", "Punjab, Haryana, UP", "Rajasthan, Gujarat, Maharashtra", "Kerala, Karnataka, Tamil Nadu, Andhra Pradesh"],
     correct: 3,
@@ -1098,7 +1140,8 @@ export const da282Questions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d282_146", subject: "da-282",
+    id: "d282_146",
+    subject: "da-282",
     question: "Match edible parts of vegetables: Col A: 1-Carrot, 2-Potato, 3-Onion, 4-Cauliflower. Col B: P-bulb, Q-curd, R-taproot, S-tuber. Col C: i-modified stem, ii-modified stem-leaves, iii-modified root, iv-flower head",
     options: ["1-R-iii, 2-S-i, 3-P-ii, 4-Q-iv", "1-S-i, 2-P-ii, 3-Q-iv, 4-R-iii", "1-P-ii, 2-Q-iv, 3-R-iii, 4-S-i", "1-Q-iv, 2-R-iii, 3-S-i, 4-P-ii"],
     correct: 0,
@@ -1106,7 +1149,8 @@ export const da282Questions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d282_147", subject: "da-282",
+    id: "d282_147",
+    subject: "da-282",
     question: "Which is a non-climacteric fruit that does NOT ripen further after harvest?",
     options: ["Papaya", "Grape", "Mango", "Banana"],
     correct: 1,
@@ -1114,7 +1158,8 @@ export const da282Questions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d282_149", subject: "da-282",
+    id: "d282_149",
+    subject: "da-282",
     question: "ASSERTION-REASON: Assertion (A): Rose is the most important commercial flower crop in India. Reason (R): Rose has the highest demand for cut flowers, loose flowers, rose water, and essential oil, making it commercially most valuable.",
     options: ["A is true but R is false", "Both A and R are true and R is the correct explanation of A", "A is false but R is true", "Both A and R are true but R is not the correct explanation of A"],
     correct: 1,
@@ -1122,7 +1167,8 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_150", subject: "da-282",
+    id: "d282_150",
+    subject: "da-282",
     question: "Match plantation crops: Col A: 1-Coconut, 2-Coffee, 3-Tea, 4-Rubber. Col B: P-Euphorbiaceae, Q-Arecaceae, R-Rubiaceae, S-Theaceae. Col C: i-Hevea brasiliensis, ii-Cocos nucifera, iii-Coffea arabica, iv-Camellia sinensis",
     options: ["1-P-i, 2-Q-ii, 3-R-iii, 4-S-iv", "1-Q-ii, 2-R-iii, 3-S-iv, 4-P-i", "1-S-iv, 2-P-i, 3-Q-ii, 4-R-iii", "1-R-iii, 2-S-iv, 3-P-i, 4-Q-ii"],
     correct: 1,
@@ -1130,7 +1176,8 @@ export const da282Questions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d282_151", subject: "da-282",
+    id: "d282_151",
+    subject: "da-282",
     question: "The enzyme papain found in papaya is commercially used for:",
     options: ["Paper production", "Pesticide making", "Making wine", "Meat tenderizing and pharmaceutical industry"],
     correct: 3,
@@ -1138,7 +1185,8 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_152", subject: "da-282",
+    id: "d282_152",
+    subject: "da-282",
     question: "Which part of the onion plant is used as a spice?",
     options: ["Stem", "Bulb (modified underground stem)", "Leaf", "Root"],
     correct: 1,
@@ -1146,7 +1194,8 @@ export const da282Questions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d282_153", subject: "da-282",
+    id: "d282_153",
+    subject: "da-282",
     question: "ASSERTION-REASON: Assertion (A): Cold storage is essential for extending shelf life of horticultural produce. Reason (R): Low temperatures slow down respiration, enzymatic activity, and microbial growth in perishable horticultural crops.",
     options: ["A is true but R is false", "Both A and R are true and R is the correct explanation of A", "A is false but R is true", "Both A and R are true but R is not the correct explanation of A"],
     correct: 1,
@@ -1154,7 +1203,8 @@ export const da282Questions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d282_154", subject: "da-282",
+    id: "d282_154",
+    subject: "da-282",
     question: "Which compound in turmeric has anti-inflammatory and antioxidant properties?",
     options: ["Piperine", "Curcumin", "Capsaicin", "Allicin"],
     correct: 1,
@@ -1162,7 +1212,8 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_155", subject: "da-282",
+    id: "d282_155",
+    subject: "da-282",
     question: "Cashew nut (Anacardium occidentale) belongs to which family?",
     options: ["Vitaceae", "Anacardiaceae", "Rutaceae", "Myrtaceae"],
     correct: 1,
@@ -1170,7 +1221,8 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_156", subject: "da-282",
+    id: "d282_156",
+    subject: "da-282",
     question: "Which of the following is a cruciferous vegetable (family Brassicaceae)?",
     options: ["Bhendi", "Tomato", "Cabbage", "Brinjal"],
     correct: 2,
@@ -1178,7 +1230,8 @@ export const da282Questions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d282_157", subject: "da-282",
+    id: "d282_157",
+    subject: "da-282",
     question: "ASSERTION-REASON: Assertion (A): Grafting is commonly used for propagating mango. Reason (R): Grafting ensures that the new plant has the same desirable characteristics as the parent plant and comes to bearing earlier than seedlings.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
@@ -1186,7 +1239,8 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_158", subject: "da-282",
+    id: "d282_158",
+    subject: "da-282",
     question: "The water requirement of drip irrigation compared to flood irrigation is:",
     options: ["Less water (saves 30-50%)", "More water (2x more)", "Same amount of water", "Depends on crop only"],
     correct: 0,
@@ -1194,7 +1248,8 @@ export const da282Questions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d282_159", subject: "da-282",
+    id: "d282_159",
+    subject: "da-282",
     question: "Which state is the largest producer of mango in India?",
     options: ["Tamil Nadu", "Karnataka", "Uttar Pradesh", "Maharashtra"],
     correct: 2,
@@ -1202,7 +1257,8 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_160", subject: "da-282",
+    id: "d282_160",
+    subject: "da-282",
     question: "Match: Col A: 1-Mango variety, 2-Banana variety, 3-Grape variety, 4-Citrus type. Col B: P-Robusta, Q-Bangalore Blue, R-Alphonso, S-Nagpur Orange. Col C: i-Maharashtra specialty, ii-Robusta tissue culture variety, iii-Hapus/prized mango, iv-wine grape from Karnataka",
     options: ["1-S-i, 2-R-iii, 3-P-ii, 4-Q-iv", "1-Q-iv, 2-S-i, 3-P-ii, 4-R-iii", "1-R-iii, 2-P-ii, 3-Q-iv, 4-S-i", "1-P-ii, 2-Q-iv, 3-R-iii, 4-S-i"],
     correct: 2,
@@ -1210,7 +1266,8 @@ export const da282Questions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d282_161", subject: "da-282",
+    id: "d282_161",
+    subject: "da-282",
     question: "The compound capsaicin that gives chilli its pungency belongs to which chemical class?",
     options: ["Carotenoid", "Flavonoid", "Alkaloid", "Terpene"],
     correct: 2,
@@ -1218,7 +1275,8 @@ export const da282Questions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d282_162", subject: "da-282",
+    id: "d282_162",
+    subject: "da-282",
     question: "ASSERTION-REASON: Assertion (A): Vegetables are broadly classified based on edible parts. Reason (R): Different parts of vegetables (roots, stems, leaves, flowers, fruits, seeds) are consumed, and crops are classified accordingly.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
     correct: 2,
@@ -1226,7 +1284,8 @@ export const da282Questions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d282_163", subject: "da-282",
+    id: "d282_163",
+    subject: "da-282",
     question: "Onion cultivation in India is most prominent in which state?",
     options: ["Maharashtra", "Uttar Pradesh", "Rajasthan", "Punjab"],
     correct: 0,
@@ -1234,7 +1293,8 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_164", subject: "da-282",
+    id: "d282_164",
+    subject: "da-282",
     question: "Which nutrient is highest in green leafy vegetables?",
     options: ["Fat in horticultural practices", "Carbohydrates for vegetable cultivation", "Iron, calcium, and Vitamin A (carotenoids)", "Vitamin C only"],
     correct: 2,
@@ -1242,7 +1302,8 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_165", subject: "da-282",
+    id: "d282_165",
+    subject: "da-282",
     question: "Match: Col A: 1-Pomology, 2-Olericulture, 3-Floriculture, 4-Plantation crops. Examples: 1-Alphonso mango, 2-Nashik tomato, 3-Pune rose, 4-Munnar tea. Which correctly matches?",
     options: ["1-Alphonso mango, 2-Nashik tomato, 3-Pune rose, 4-Munnar tea", "1-Pune rose, 2-Munnar tea, 3-Alphonso mango, 4-Nashik tomato", "1-Nashik tomato, 2-Alphonso mango, 3-Munnar tea, 4-Pune rose", "1-Munnar tea, 2-Pune rose, 3-Nashik tomato, 4-Alphonso mango"],
     correct: 0,
@@ -1250,7 +1311,8 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_166", subject: "da-282",
+    id: "d282_166",
+    subject: "da-282",
     question: "Chrysanthemum is commercially used for:",
     options: ["Cut flowers, loose flowers, and potted plants", "Timber production for vegetable cultivation", "Spice production in orchard management", "Food production in horticultural practices"],
     correct: 0,
@@ -1258,7 +1320,8 @@ export const da282Questions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d282_167", subject: "da-282",
+    id: "d282_167",
+    subject: "da-282",
     question: "ASSERTION-REASON: Assertion (A): Horticulture contributes significantly to India's export earnings. Reason (R): Horticultural products like grapes, mangoes, flowers, and spices are major export commodities from India.",
     options: ["A is true but R is false", "Both A and R are true and R is the correct explanation of A", "A is false but R is true", "Both A and R are true but R is not the correct explanation of A"],
     correct: 1,
@@ -1266,7 +1329,8 @@ export const da282Questions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d282_168", subject: "da-282",
+    id: "d282_168",
+    subject: "da-282",
     question: "Integrated Pest Management (IPM) in horticulture involves:",
     options: ["Eliminating all insects from the farm in horticultural practices", "Using only chemical pesticides in orchard management", "Using only biological control for vegetable cultivation in agriculture", "Combining biological, cultural, and chemical methods to manage pests with minimal pesticide use"],
     correct: 3,
@@ -1274,15 +1338,17 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_169", subject: "da-282",
-    question: "The fruit of pomegranate is botanically called a:",
-    options: ["Hesperidium", "Berry", "Drupe", "Balausta"],
+    id: "d282_169",
+    subject: "da-282",
+    question: "Pomegranate is botanically known as:",
+    options: ["Citrus sinensis", "Psidium guajava", "Mangifera indica", "Punica granatum"],
     correct: 3,
-    explanation: "Pomegranate fruit is botanically a balausta — a many-seeded berry with a tough leathery outer wall derived from fused sepals.",
+    explanation: "Pomegranate is botanically Punica granatum, belonging to the family Punicaceae.",
     difficulty: "hard"
   },
   {
-    id: "d282_170", subject: "da-282",
+    id: "d282_170",
+    subject: "da-282",
     question: "Match: Col A: 1-Vegetative propagation method, 2-Sexual propagation. What is correct? Col A: 1-Cutting, 2-Layering, 3-Grafting, 4-Seeds. Purpose: 1-new plant from stem, 2-root before detach, 3-join two plants, 4-genetic variation",
     options: ["1-Layering=join two plants, 2-Cutting=new plant from stem, 3-Seeds=root before detach, 4-Grafting=genetic variation", "1-Cutting=new plant from stem, 2-Layering=root before detach, 3-Grafting=join two plants, 4-Seeds=genetic variation", "1-Seeds=new plant from stem, 2-Grafting=root before detach, 3-Layering=join two plants, 4-Cutting=genetic variation", "1-Grafting=genetic variation, 2-Seeds=join two plants, 3-Cutting=root before detach, 4-Layering=new plant from stem"],
     correct: 1,
@@ -1290,7 +1356,8 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_171", subject: "da-282",
+    id: "d282_171",
+    subject: "da-282",
     question: "India is the _____ largest producer of fruits and vegetables in the world:",
     options: ["10th", "2nd", "1st", "5th"],
     correct: 1,
@@ -1298,7 +1365,8 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_172", subject: "da-282",
+    id: "d282_172",
+    subject: "da-282",
     question: "ASSERTION-REASON: Assertion (A): Protected cultivation (greenhouse/polyhouse) is used in horticulture. Reason (R): Protected cultivation provides controlled temperature, humidity, and light, enabling year-round production of high-value crops.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
     correct: 2,
@@ -1306,7 +1374,8 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_173", subject: "da-282",
+    id: "d282_173",
+    subject: "da-282",
     question: "Which spice is obtained from the dried stigmas of Crocus sativus flowers?",
     options: ["Black pepper", "Turmeric", "Cardamom", "Saffron"],
     correct: 3,
@@ -1314,7 +1383,8 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_174", subject: "da-282",
+    id: "d282_174",
+    subject: "da-282",
     question: "The Queen of spices cardamom is mainly grown in:",
     options: ["Maharashtra and Goa", "Rajasthan and Gujarat", "Punjab and Haryana", "Kerala and Karnataka (Cardamom Hills)"],
     correct: 3,
@@ -1322,7 +1392,8 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_175", subject: "da-282",
+    id: "d282_175",
+    subject: "da-282",
     question: "ASSERTION-REASON: Assertion (A): Onion causes tears when cut. Reason (R): Cutting onion releases volatile sulphur compounds (syn-propanethial-S-oxide) that irritate the eyes and trigger tear production.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
     correct: 2,
@@ -1330,7 +1401,8 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_176", subject: "da-282",
+    id: "d282_176",
+    subject: "da-282",
     question: "Sprinkler irrigation in horticulture is especially suitable for:",
     options: ["Sandy soils and undulating terrain with vegetables and flowers", "Heavy clay soils with flat terrain", "Only rice cultivation in horticultural practices", "Flooded paddy fields for vegetable cultivation"],
     correct: 0,
@@ -1338,7 +1410,8 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_177", subject: "da-282",
+    id: "d282_177",
+    subject: "da-282",
     question: "The edible part of peas (Pisum sativum) are the:",
     options: ["Stem", "Roots", "Leaves", "Seeds (inside the pod)"],
     correct: 3,
@@ -1346,7 +1419,8 @@ export const da282Questions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d282_178", subject: "da-282",
+    id: "d282_178",
+    subject: "da-282",
     question: "Match: Col A: 1-Alphonso, 2-Raspuri, 3-Dashehari, 4-Kesar. All are varieties of _____ crop.",
     options: ["Banana varieties", "Grape varieties", "Citrus varieties", "Mango varieties"],
     correct: 3,
@@ -1354,7 +1428,8 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_179", subject: "da-282",
+    id: "d282_179",
+    subject: "da-282",
     question: "ASSERTION-REASON: Assertion (A): Fruit ripening can be artificially induced by ethylene gas. Reason (R): Ethylene is a plant hormone that triggers the biochemical changes associated with fruit ripening, including softening and colour change.",
     options: ["A is true but R is false", "Both A and R are true and R is the correct explanation of A", "A is false but R is true", "Both A and R are true but R is not the correct explanation of A"],
     correct: 1,
@@ -1362,7 +1437,8 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_180", subject: "da-282",
+    id: "d282_180",
+    subject: "da-282",
     question: "Which of the following is an aromatic plant crop cultivated in horticulture?",
     options: ["Lemongrass (Cymbopogon citratus)", "Paddy", "Teak", "Bamboo"],
     correct: 0,
@@ -1370,7 +1446,8 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_181", subject: "da-282",
+    id: "d282_181",
+    subject: "da-282",
     question: "Bed formation in vegetable cultivation helps in:",
     options: ["Reducing plant density in horticultural practices", "Increasing weed growth for vegetable cultivation", "Improving drainage, aeration, and ease of cultivation operations", "Reducing fertilizer use in orchard management"],
     correct: 2,
@@ -1378,7 +1455,8 @@ export const da282Questions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d282_182", subject: "da-282",
+    id: "d282_182",
+    subject: "da-282",
     question: "ASSERTION-REASON: Assertion (A): Organic farming is gaining importance in horticulture. Reason (R): Organic horticultural products command premium prices in domestic and international markets, and consumers prefer chemical-free produce.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
@@ -1386,7 +1464,8 @@ export const da282Questions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d282_184", subject: "da-282",
+    id: "d282_184",
+    subject: "da-282",
     question: "Which state is India's largest grape producer?",
     options: ["Tamil Nadu", "Maharashtra", "Andhra Pradesh", "Punjab"],
     correct: 1,
@@ -1394,7 +1473,8 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_185", subject: "da-282",
+    id: "d282_185",
+    subject: "da-282",
     question: "Match propagation methods: Col A: 1-Rose, 2-Mango, 3-Banana, 4-Grape. Method: P-Suckers/rhizomes, Q-Cuttings/budding, R-Grafting/budding, S-Cuttings/hardwood. Col C: i-stone grafting, ii-tongue grafting, iii-sword sucker, iv-stem cutting",
     options: ["1-R-i, 2-P-iii, 3-Q-iv, 4-S-ii", "1-P-iii, 2-Q-iv, 3-S-ii, 4-R-i", "1-Q-iv, 2-R-i, 3-P-iii, 4-S-ii", "1-S-ii, 2-R-i, 3-Q-iv, 4-P-iii"],
     correct: 2,
@@ -1402,7 +1482,8 @@ export const da282Questions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d282_186", subject: "da-282",
+    id: "d282_186",
+    subject: "da-282",
     question: "Hydroponics in horticulture refers to:",
     options: ["Growing crops in very humid conditions", "Growing plants in nutrient-enriched water without soil", "Growing crops under water", "Growing crops in very alkaline soil"],
     correct: 1,
@@ -1410,7 +1491,8 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_187", subject: "da-282",
+    id: "d282_187",
+    subject: "da-282",
     question: "ASSERTION-REASON: Assertion (A): Brinjal (eggplant) is an indigenous crop of India. Reason (R): India is the primary centre of origin for brinjal (Solanum melongena), which has been cultivated here for thousands of years.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is false but R is true", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A"],
     correct: 0,
@@ -1418,7 +1500,8 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_188", subject: "da-282",
+    id: "d282_188",
+    subject: "da-282",
     question: "What is the role of mulching in horticulture?",
     options: ["Replaces fertilizer completely for vegetable cultivation", "Increases soil temperature only in horticultural practices", "Conserves soil moisture, controls weeds, and maintains soil temperature", "Provides nutrients directly to plants in orchard management"],
     correct: 2,
@@ -1426,7 +1509,8 @@ export const da282Questions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d282_189", subject: "da-282",
+    id: "d282_189",
+    subject: "da-282",
     question: "The Kiwi fruit (Actinidia deliciosa) is grown successfully in India in:",
     options: ["Rajasthan desert", "Coastal Tamil Nadu", "Himachal Pradesh and Uttarakhand hills", "Plains of Punjab"],
     correct: 2,
@@ -1434,7 +1518,8 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_190", subject: "da-282",
+    id: "d282_190",
+    subject: "da-282",
     question: "ASSERTION-REASON: Assertion (A): India has diverse agro-climatic zones suitable for growing a wide variety of horticultural crops. Reason (R): India's varied climate, soil, and altitude support tropical, subtropical, and temperate fruit and vegetable cultivation.",
     options: ["A is true but R is false", "Both A and R are true and R is the correct explanation of A", "A is false but R is true", "Both A and R are true but R is not the correct explanation of A"],
     correct: 1,
@@ -1442,7 +1527,8 @@ export const da282Questions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d282_191", subject: "da-282",
+    id: "d282_191",
+    subject: "da-282",
     question: "Which vegetable is the primary source of lycopene (a cancer-preventing antioxidant)?",
     options: ["Carrot", "Tomato", "Spinach", "Brinjal"],
     correct: 1,
@@ -1450,7 +1536,8 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_192", subject: "da-282",
+    id: "d282_192",
+    subject: "da-282",
     question: "Pineapple (Ananas comosus) belongs to which botanical family?",
     options: ["Arecaceae", "Musaceae", "Rutaceae", "Bromeliaceae"],
     correct: 3,
@@ -1458,7 +1545,8 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_193", subject: "da-282",
+    id: "d282_193",
+    subject: "da-282",
     question: "ASSERTION-REASON: Assertion (A): India is the world's largest producer of spices. Reason (R): India produces over 50 varieties of spices and is the largest exporter of spices globally, supplying about 23% of global spice exports.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
     correct: 2,
@@ -1466,7 +1554,8 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_194", subject: "da-282",
+    id: "d282_194",
+    subject: "da-282",
     question: "The botanical name of okra (bhendi) is:",
     options: ["Cucumis sativus", "Phaseolus vulgaris", "Abelmoschus esculentus", "Solanum lycopersicum"],
     correct: 2,
@@ -1474,7 +1563,8 @@ export const da282Questions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d282_195", subject: "da-282",
+    id: "d282_195",
+    subject: "da-282",
     question: "Which of the following is a correct feature of tropical fruits?",
     options: ["They require frost for quality development in horticultural practices", "They are always seedless for vegetable cultivation", "They cannot be stored in cold storage", "They grow best in temperatures above 20°C with high humidity"],
     correct: 3,
@@ -1482,15 +1572,17 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_196", subject: "da-282",
-    question: "Match aromatic and medicinal plants: Col A: 1-Lemongrass, 2-Turmeric, 3-Ginger, 4-Aloe vera. Use: P-skin healing, Q-anti-inflammatory, R-digestive/spice, S-essential oil. Botanical: i-Zingiber officinale, ii-Curcuma longa, iii-Aloe barbadensis, iv-Cymbopogon citratus",
-    options: ["1-R-i, 2-S-iv, 3-Q-ii, 4-P-iii", "1-P-iii, 2-R-i, 3-S-iv, 4-Q-ii", "1-Q-ii, 2-P-iii, 3-R-i, 4-S-iv", "1-S-iv, 2-Q-ii, 3-R-i, 4-P-iii"],
-    correct: 3,
-    explanation: "Lemongrass (essential oil=Cymbopogon=iv), Turmeric (anti-inflammatory=Curcuma=ii), Ginger (digestive/spice=Zingiber=i), Aloe vera (skin healing=Aloe barbadensis=iii).",
+    id: "d282_196",
+    subject: "da-282",
+    question: "Lemongrass, citronella, vetiver and geranium, which contain essential oils, are classified as:",
+    options: ["Aromatic plants", "Medicinal plants", "Spices", "Condiments"],
+    correct: 0,
+    explanation: "Aromatic plants contain essential oils (odoriferous, steam-volatile constituents); examples include lemongrass, citronella, palmrosa, vetiver, geranium and davanam.",
     difficulty: "hard"
   },
   {
-    id: "d282_197", subject: "da-282",
+    id: "d282_197",
+    subject: "da-282",
     question: "The process of removing flowers or immature fruits to improve quality of remaining fruits is called:",
     options: ["Budding", "Pruning", "Thinning", "Grafting"],
     correct: 2,
@@ -1498,7 +1590,8 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_198", subject: "da-282",
+    id: "d282_198",
+    subject: "da-282",
     question: "India's National Horticulture Board (NHB) was established to:",
     options: ["Set up cold storage only", "Regulate timber trade in horticultural practices", "Control pesticide use only for vegetable cultivation", "Promote integrated development of horticulture industry in India"],
     correct: 3,
@@ -1506,7 +1599,8 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_199", subject: "da-282",
+    id: "d282_199",
+    subject: "da-282",
     question: "ASSERTION-REASON: Assertion (A): Mango is propagated vegetatively rather than by seeds for commercial cultivation. Reason (R): Seed-grown mango plants do not come true to type and take longer to bear fruit (10-15 years vs 3-4 years for grafted plants).",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
@@ -1514,7 +1608,8 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_200", subject: "da-282",
+    id: "d282_200",
+    subject: "da-282",
     question: "Match: Col A: 1-Vegetable preservation method, 2-Fruit processing product. Examples: 1-Pickling, 2-Canning, 3-Drying, 4-Jam. Method: P-sugar preservation, Q-heat sterilization, R-salt/acid preservation, S-dehydration. C: i-mango pickle, ii-tomato ketchup can, iii-raisin from grape, iv-strawberry jam",
     options: ["1-S-iii, 2-P-iv, 3-R-i, 4-Q-ii", "1-P-iv, 2-R-i, 3-Q-ii, 4-S-iii", "1-R-i, 2-Q-ii, 3-S-iii, 4-P-iv", "1-Q-ii, 2-S-iii, 3-P-iv, 4-R-i"],
     correct: 2,
@@ -1581,10 +1676,10 @@ export const da282Questions: Question[] = [
     subject: "da-282",
     lecture: "lecture-6",
     lectureNo: 6,
-    question: "The National Horticulture Mission (NHM) was launched by the Government of India in:",
-    options: ["1997-98", "2001-02", "2005-06", "2010-11"],
+    question: "The science of cultivation of vegetable crops is called:",
+    options: ["Floriculture", "Pomology", "Olericulture", "Plantation"],
     correct: 2,
-    explanation: "The National Horticulture Mission (NHM) was launched in 2005-06 under the 10th Five-Year Plan to promote holistic growth of the horticulture sector — covering fruits, vegetables, flowers, spices, plantation crops and medicinal/aromatic plants.",
+    explanation: "Olericulture is the science of cultivation of vegetable crops (e.g. brinjal, okra, tomato, pumpkin).",
     difficulty: "medium"
   },
   {
