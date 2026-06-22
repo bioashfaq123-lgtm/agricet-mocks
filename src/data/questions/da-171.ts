@@ -1,3 +1,4 @@
+// ===== FILE: da-171.ts =====
 import { Question } from "@/types";
 
 export const da171Questions: Question[] = [
@@ -188,10 +189,10 @@ export const da171Questions: Question[] = [
   {
     id: "d171_024",
     subject: "da-171",
-    question: "The 'Disease Triangle' concept in plant pathology states that disease occurs when:",
-    options: ["Infected seed, poor drainage and excess nitrogen fertilizer interact", "Primary inoculum, secondary inoculum and vector all become active", "High rainfall, high temperature and dense planting coincide together", "Susceptible host, virulent pathogen and favourable environment interact"],
+    question: "The four principles of plant disease management are avoidance, exclusion, eradication and:",
+    options: ["Pollination", "Inoculation", "Fermentation", "Protection"],
     correct: 3,
-    explanation: "The Plant Disease Triangle states that disease occurs only when a susceptible host, virulent pathogen and favourable environment all interact simultaneously. Absence of any one factor prevents disease development."
+    explanation: "The four principles of plant disease management are avoidance, exclusion, eradication and protection (spraying chemicals to manage diseases and control vectors)."
   },
   {
     id: "d171_025",
@@ -420,10 +421,10 @@ export const da171Questions: Question[] = [
   {
     id: "d171_053",
     subject: "da-171",
-    question: "The Stinking Smut or Common Bunt of wheat is caused by:",
-    options: ["Ustilago tritici causing internally seedborne smutted earhead grains", "Urocystis tritici producing black smut stripes along the leaf blades", "Puccinia graminis producing red-brown uredinia on stems and leaves", "Tilletia caries and T. foetida with fishy smell from teliospores"],
-    correct: 3,
-    explanation: "Common Bunt (Stinking Smut) of wheat is caused by Tilletia caries and T. foetida. Infected grain is replaced by black powder (teliospores) with a fishy (trimethylamine) smell. Systemic seed treatment with carboxin + thiram controls it."
+    question: "Loose smut of wheat is caused by:",
+    options: ["Ustilago tritici", "Tilletia caries", "Puccinia graminis", "Fusarium oxysporum"],
+    correct: 0,
+    explanation: "Loose smut of wheat is caused by Ustilago tritici; it is an internally seed-borne disease managed by using disease-free seed and seed treatment."
   },
   {
     id: "d171_054",
@@ -548,10 +549,10 @@ export const da171Questions: Question[] = [
   {
     id: "d171_069",
     subject: "da-171",
-    question: "Koch's Postulates in plant pathology require which sequence of key steps?",
-    options: ["Isolate pathogen, inoculate healthy plant, reproduce disease, re-isolate pathogen", "Visual symptom description, microscopy and chemical pathogen testing only", "Cultural identification, host range testing and multi-location field validation trials", "Serological testing, PCR analysis and complete genomic sequencing of pathogen"],
-    correct: 0,
-    explanation: "Koch's Postulates: 1) Pathogen found associated with all diseased plants; 2) Isolate and grow in pure culture; 3) Inoculate healthy plant and reproduce the same disease; 4) Re-isolate the same pathogen. These four steps prove causal relationship."
+    question: "Elimination of the pathogen from an area by destroying the sources of inoculum is the principle of:",
+    options: ["Protection", "Avoidance", "Exclusion", "Eradication"],
+    correct: 3,
+    explanation: "Eradication is the elimination of the pathogen from an area by destruction of sources of inoculum, including eradication of alternate and collateral hosts."
   },
   {
     id: "d171_070",
@@ -801,8 +802,6 @@ export const da171Questions: Question[] = [
     correct: 1,
     explanation: "Corynespora Leaf Spot of black gram is caused by Corynespora cassicola. Lesions begin as dark reddish-brown circular spots on upper leaf surface at flowering stage, expanding with marked narrow concentric banding. Spots coalesce causing shotholing and severe defoliation."
   },
-
-  // ── BATCH 2: Additional 100 questions from PJTSAU DA-171 Theory Notes ──
   {
     id: "d171x_001",
     subject: "da-171",
@@ -918,10 +917,10 @@ export const da171Questions: Question[] = [
     subject: "da-171",
     lecture: "lecture-4",
     lectureNo: 4,
-    question: "An epidemic disease example is Late Blight of potato which caused the Irish famine in",
-    options: ["1900", "1830", "1865", "1845"],
-    correct: 3,
-    explanation: "As per DA-171 notes: Epidemic disease - usually occurs widely but periodically in destructive form. Ex: Late blight of potato - Irish famine (1845)."
+    question: "The part of the pathogen which, on contact with a susceptible host plant, causes infection is called:",
+    options: ["Inoculum", "Toxin", "Antibody", "Stomata"],
+    correct: 0,
+    explanation: "Inoculum is the part of the pathogen which, on contact with a susceptible host plant, causes infection; the propagules causing the first infection of the season are the primary inoculum."
   },
   {
     id: "d171x_013",
