@@ -1,693 +1,1357 @@
+// ===== FILE: da-131-lectures.ts =====
 import { Question } from "@/types";
 
 export const da131LectureQuestions: Question[] = [
-
-  // ── LECTURE 1: Introduction to Insects & Arthropoda ──────────────────────
-  { id:"d131l_001", subject:"da-131", lecture:"lecture-1", lectureNo:1,
-    question:"Insects belong to which phylum?",
-    options:["Mollusca", "Arthropoda", "Echinodermata", "Annelida"],
-    correct: 1, explanation:"Insects belong to phylum Arthropoda, characterised by jointed appendages and exoskeleton." },
-
-  { id:"d131l_002", subject:"da-131", lecture:"lecture-1", lectureNo:1,
-    question:"The class Insecta is distinguished from other Arthropods by having:",
-    options:["Book lungs in entomology", "Two pairs of antennae in crop protection", "Three pairs of legs and three body regions", "Four pairs of legs for field crops"],
-    correct: 2, explanation:"Insects (class Insecta) have 3 pairs of legs, 3 body regions (head, thorax, abdomen) and usually 1 pair of antennae." },
-
-  { id:"d131l_003", subject:"da-131", lecture:"lecture-1", lectureNo:1,
-    question:"Approximately how many described insect species exist on Earth?",
-    options:["5,000", "50,000", "1 million", "10 million"],
-    correct: 2, explanation:"About 1 million insect species have been described, making them the most species-rich group of animals." },
-
-  { id:"d131l_004", subject:"da-131", lecture:"lecture-1", lectureNo:1,
-    question:"Which of the following is NOT an insect?",
-    options:["Scorpion", "Grasshopper", "Honeybee", "Housefly"],
-    correct: 0, explanation:"Scorpion belongs to class Arachnida (8 legs, 2 body regions), not Insecta." },
-
-  { id:"d131l_005", subject:"da-131", lecture:"lecture-1", lectureNo:1,
-    question:"The study of insects is known as:",
-    options:["Entomology", "Ichthyology", "Herpetology", "Ornithology"],
-    correct: 0, explanation:"Entomology is the scientific study of insects." },
-
-  { id:"d131l_006", subject:"da-131", lecture:"lecture-1", lectureNo:1,
-    question:"Which arthropod class has the most agricultural importance as pests?",
-    options:["Arachnida", "Insecta", "Crustacea", "Diplopoda"],
-    correct: 1, explanation:"Class Insecta contains the largest number of agricultural pests." },
-
-  { id:"d131l_007", subject:"da-131", lecture:"lecture-1", lectureNo:1,
-    question:"Spider belongs to class:",
-    options:["Arachnida", "Myriapoda", "Insecta", "Crustacea"],
-    correct: 0, explanation:"Spiders belong to class Arachnida which has 4 pairs of legs and 2 body regions." },
-
-  { id:"d131l_008", subject:"da-131", lecture:"lecture-1", lectureNo:1,
-    question:"The exoskeleton of insects is primarily composed of:",
-    options:["Cellulose", "Keratin", "Collagen", "Chitin"],
-    correct:3, explanation:"Insect exoskeleton is made of chitin, a nitrogen-containing polysaccharide." },
-
-  { id:"d131l_009", subject:"da-131", lecture:"lecture-1", lectureNo:1,
-    question:"Which of the following is a beneficial insect in agriculture?",
-    options:["Ladybird beetle", "Whitefly", "Aphid", "Leafhopper"],
-    correct:0, explanation:"Ladybird beetles (Coccinellidae) are beneficial predators that feed on aphids and other soft-bodied pests." },
-
-  { id:"d131l_010", subject:"da-131", lecture:"lecture-1", lectureNo:1,
-    question:"Mites belong to class:",
-    options:["Crustacea", "Chilopoda", "Arachnida", "Insecta"],
-    correct: 2, explanation:"Mites belong to class Arachnida, order Acarina. They have 4 pairs of legs as adults." },
-
-  { id:"d131l_011", subject:"da-131", lecture:"lecture-1", lectureNo:1,
-    question:"The Father of Entomology in India is:",
-    options:["M.O.P. Iyengar", "T.V. Ramakrishna Ayyar", "C.F. Corbett", "H. Maxwell-Lefroy"],
-    correct: 1, explanation:"T.V. Ramakrishna Ayyar is regarded as the Father of Entomology in India." },
-
-  { id:"d131l_012", subject:"da-131", lecture:"lecture-1", lectureNo:1,
-    question:"Which of the following insects is used for silk production?",
-    options:["Chrysoperla carnea", "Apis mellifera", "Bombyx mori", "Kerria lacca"],
-    correct: 2, explanation:"Bombyx mori (mulberry silkworm) is used for commercial silk production." },
-
-  { id:"d131l_013", subject:"da-131", lecture:"lecture-1", lectureNo:1,
-    question:"Centipede belongs to which class of Arthropoda?",
-    options:["Arachnida", "Insecta", "Diplopoda", "Chilopoda"],
-    correct: 3, explanation:"Centipedes belong to class Chilopoda. They have one pair of legs per body segment." },
-
-  { id:"d131l_014", subject:"da-131", lecture:"lecture-1", lectureNo:1,
-    question:"The circulatory system in insects is:",
-    options:["Closed", "Double", "Open", "Both open and closed"],
-    correct:2, explanation:"Insects have an open circulatory system where haemolymph flows freely in body cavity (haemocoel)." },
-
-  { id:"d131l_015", subject:"da-131", lecture:"lecture-1", lectureNo:1,
-    question:"Which is the largest insect order by number of species?",
-    options:["Coleoptera", "Lepidoptera", "Hymenoptera", "Diptera"],
-    correct: 0, explanation:"Coleoptera (beetles) is the largest insect order with over 400,000 described species." },
-
-  // ── LECTURE 2: External Morphology ───────────────────────────────────────
-  { id:"d131l_016", subject:"da-131", lecture:"lecture-2", lectureNo:2,
-    question:"The type of mouthparts found in grasshopper is:",
-    options:["Sucking", "Chewing and biting", "Sponging", "Rasping and sucking"],
-    correct: 1, explanation:"Grasshopper has chewing and biting type mouthparts with well-developed mandibles." },
-
-  { id:"d131l_017", subject:"da-131", lecture:"lecture-2", lectureNo:2,
-    question:"Haustellate type mouthparts are found in:",
-    options:["Cockroach", "Mosquito", "Termite", "Grasshopper"],
-    correct: 1, explanation:"Mosquito has haustellate (piercing and sucking) mouthparts to suck blood or plant sap." },
-
-  { id:"d131l_018", subject:"da-131", lecture:"lecture-2", lectureNo:2,
-    question:"How many pairs of wings do most adult insects have?",
-    options:["1 pair", "4 pairs", "2 pairs", "3 pairs"],
-    correct: 2, explanation:"Most adult insects have 2 pairs of wings attached to the mesothorax and metathorax." },
-
-  { id:"d131l_019", subject:"da-131", lecture:"lecture-2", lectureNo:2,
-    question:"In beetles (Coleoptera), the fore wings are modified into hard wing covers called:",
-    options:["Tegmina", "Halteres", "Scales", "Elytra"],
-    correct: 3, explanation:"In beetles, the fore wings are hardened into elytra (wing covers) that protect the hind wings." },
-
-  { id:"d131l_020", subject:"da-131", lecture:"lecture-2", lectureNo:2,
-    question:"The type of antenna found in honeybee is:",
-    options:["Plumose", "Filiform", "Geniculate", "Clavate"],
-    correct: 2, explanation:"Honeybee has geniculate (elbowed/bent) antennae." },
-
-  { id:"d131l_021", subject:"da-131", lecture:"lecture-2", lectureNo:2,
-    question:"Halteres are modified hind wings found in:",
-    options:["Grasshoppers", "Beetles", "Butterflies", "Flies (Diptera)"],
-    correct: 3, explanation:"In Diptera (flies), the hind wings are reduced to small knob-like halteres that help in balancing during flight." },
-
-  { id:"d131l_022", subject:"da-131", lecture:"lecture-2", lectureNo:2,
-    question:"The compound eye of insects is made up of:",
-    options:["Ocelli", "Ommatidia", "Corneal lens only", "A single lens"],
-    correct: 1, explanation:"Compound eyes of insects are made up of many individual units called ommatidia." },
-
-  { id:"d131l_023", subject:"da-131", lecture:"lecture-2", lectureNo:2,
-    question:"The jumping leg type (cursorial) is found in:",
-    options:["Praying mantis", "Mole cricket", "Water strider", "Grasshopper"],
-    correct: 3, explanation:"Grasshoppers have saltatorial (jumping) hind legs with enlarged femora and tibiae." },
-
-  { id:"d131l_024", subject:"da-131", lecture:"lecture-2", lectureNo:2,
-    question:"Which part of the insect body bears the wings and legs?",
-    options:["Head", "Prothorax", "Thorax", "Abdomen"],
-    correct: 2, explanation:"Wings (in winged insects) and all 3 pairs of legs are attached to the thorax." },
-
-  { id:"d131l_025", subject:"da-131", lecture:"lecture-2", lectureNo:2,
-    question:"The rasping and sucking type mouthparts are found in:",
-    options:["Butterfly", "Mosquito", "Honeybee", "Thrips"],
-    correct: 3, explanation:"Thrips have asymmetrical rasping and sucking mouthparts used to rasp plant tissue and suck cell sap." },
-
-  { id:"d131l_026", subject:"da-131", lecture:"lecture-2", lectureNo:2,
-    question:"Siphoning mouthparts are found in:",
-    options:["Mosquito", "Butterfly", "Housefly", "Aphid"],
-    correct: 1, explanation:"Butterflies have coiled siphoning (suctorial) mouthparts (proboscis) for sucking nectar from flowers." },
-
-  { id:"d131l_027", subject:"da-131", lecture:"lecture-2", lectureNo:2,
-    question:"The number of segments in the insect thorax is:",
-    options:["2", "5", "4", "3"],
-    correct: 3, explanation:"Insect thorax has 3 segments: prothorax, mesothorax, and metathorax." },
-
-  { id:"d131l_028", subject:"da-131", lecture:"lecture-2", lectureNo:2,
-    question:"Tympanum (hearing organ) in insects is found in:",
-    options:["Antenna", "Ovipositor", "Compound eye", "Abdomen or fore tibia"],
-    correct:3, explanation:"Tympanum (ear drum) is located on the first abdominal segment in locusts and on the fore tibiae in crickets." },
-
-  { id:"d131l_029", subject:"da-131", lecture:"lecture-2", lectureNo:2,
-    question:"Filiform antennae are:",
-    options:["Club-shaped at tip", "Elbow-shaped", "Thread-like throughout", "Feather-like"],
-    correct:2, explanation:"Filiform antennae are thread-like (uniform width throughout), e.g., in cockroaches." },
-
-  { id:"d131l_030", subject:"da-131", lecture:"lecture-2", lectureNo:2,
-    question:"In Lepidoptera (moths and butterflies), the wings are covered with:",
-    options:["Scales", "Hair", "Wax", "Chitin plates"],
-    correct: 0, explanation:"Wings of Lepidoptera are covered with scales (flattened hairs), giving them their colourful patterns." },
-
-  // ── LECTURE 3: Internal Morphology & Physiology ──────────────────────────
-  { id:"d131l_031", subject:"da-131", lecture:"lecture-3", lectureNo:3,
-    question:"The excretory organs of insects are:",
-    options:["Flame cells", "Malpighian tubules", "Green glands", "Nephridia"],
-    correct: 1, explanation:"Malpighian tubules are the main excretory organs in insects, opening into the gut at midgut-hindgut junction." },
-
-  { id:"d131l_032", subject:"da-131", lecture:"lecture-3", lectureNo:3,
-    question:"The main nitrogenous excretory product of insects is:",
-    options:["Ammonia", "Creatinine", "Uric acid", "Urea"],
-    correct:2, explanation:"Insects excrete uric acid (uricotelic). This conserves water, important for terrestrial life." },
-
-  { id:"d131l_033", subject:"da-131", lecture:"lecture-3", lectureNo:3,
-    question:"Insects breathe through:",
-    options:["Gills", "Spiracles and tracheae", "Skin", "Lungs"],
-    correct: 1, explanation:"Insects have a tracheal system – air enters through spiracles and is distributed by tracheal tubes to all tissues." },
-
-  { id:"d131l_034", subject:"da-131", lecture:"lecture-3", lectureNo:3,
-    question:"The blood of insects is called:",
-    options:["Plasma", "Haemolymph", "Lymph", "Haemoglobin"],
-    correct: 1, explanation:"Insect blood is called haemolymph. It is usually colourless (lacks haemoglobin) and fills the haemocoel." },
-
-  { id:"d131l_035", subject:"da-131", lecture:"lecture-3", lectureNo:3,
-    question:"The heart of an insect is located in the:",
-    options:["Ventral abdomen", "Head", "Thorax", "Dorsal abdomen"],
-    correct: 3, explanation:"Insect heart (dorsal vessel) is a tubular structure located dorsally in the abdomen." },
-
-  { id:"d131l_036", subject:"da-131", lecture:"lecture-3", lectureNo:3,
-    question:"The crop in insect digestive system functions as:",
-    options:["Enzyme production", "Excretion", "Food storage", "Absorption"],
-    correct: 2, explanation:"The crop is a food storage organ in the foregut of insects." },
-
-  { id:"d131l_037", subject:"da-131", lecture:"lecture-3", lectureNo:3,
-    question:"Digestion and absorption in insects mainly takes place in:",
-    options:["Foregut", "Midgut", "Crop", "Hindgut"],
-    correct:1, explanation:"The midgut (mesenteron) is the main site of digestion and absorption in insects." },
-
-  { id:"d131l_038", subject:"da-131", lecture:"lecture-3", lectureNo:3,
-    question:"The number of spiracles in a typical insect is:",
-    options:["4", "8", "10", "20"],
-    correct: 2, explanation:"Most insects have 10 pairs of spiracles – 2 on thorax and 8 on abdomen." },
-
-  { id:"d131l_039", subject:"da-131", lecture:"lecture-3", lectureNo:3,
-    question:"The gland responsible for moulting hormone production in insects is:",
-    options:["Corpora allata", "Prothoracic gland", "Salivary gland", "Oenocyte"],
-    correct:1, explanation:"Prothoracic gland produces ecdysone (moulting hormone) that triggers moulting in insects." },
-
-  { id:"d131l_040", subject:"da-131", lecture:"lecture-3", lectureNo:3,
-    question:"Juvenile hormone in insects is secreted by:",
-    options:["Corpora allata", "Brain", "Prothoracic gland", "Oenocyte"],
-    correct: 0, explanation:"Corpora allata (a pair of endocrine glands near the brain) secrete juvenile hormone (JH) that maintains larval characteristics." },
-
-  { id:"d131l_041", subject:"da-131", lecture:"lecture-3", lectureNo:3,
-    question:"Silk glands in silkworm are modified:",
-    options:["Sweat glands", "Salivary glands", "Malpighian tubules", "Oenocyte"],
-    correct:1, explanation:"Silk glands in Bombyx mori (silkworm) are modified salivary glands that secrete fibroin and sericin." },
-
-  { id:"d131l_042", subject:"da-131", lecture:"lecture-3", lectureNo:3,
-    question:"The ventral nerve cord of insects has ganglia in each segment – this nervous system is called:",
-    options:["Centralised", "Decentralised/Ganglionated", "Diffuse", "Reticular"],
-    correct: 1, explanation:"Insects have a ganglionated ventral nerve cord with a pair of ganglia in each body segment." },
-
-  { id:"d131l_043", subject:"da-131", lecture:"lecture-3", lectureNo:3,
-    question:"The function of fat body in insects is:",
-    options:["Hormone secretion", "Food storage and metabolism", "Waste excretion", "Gas exchange"],
-    correct: 1, explanation:"Fat body in insects acts as the main metabolic tissue – stores glycogen, fat and protein; also detoxifies poisons." },
-
-  { id:"d131l_044", subject:"da-131", lecture:"lecture-3", lectureNo:3,
-    question:"The process of shedding of exoskeleton in insects is called:",
-    options:["Aestivation", "Diapause", "Metamorphosis", "Moulting (Ecdysis)"],
-    correct: 3, explanation:"Moulting (ecdysis) is the shedding of old cuticle to allow growth in insects." },
-
-  { id:"d131l_045", subject:"da-131", lecture:"lecture-3", lectureNo:3,
-    question:"Oenocytes in insects are associated with:",
-    options:["Cuticle synthesis and wax secretion", "Respiration in entomology", "Digestion in crop protection", "Reproduction for field crops"],
-    correct:0, explanation:"Oenocytes are large cells associated with cuticle wax secretion and lipid metabolism." },
-
-  // ── LECTURE 4: Life Cycles & Metamorphosis ───────────────────────────────
-  { id:"d131l_046", subject:"da-131", lecture:"lecture-4", lectureNo:4,
-    question:"Complete metamorphosis (holometabolism) involves stages:",
-    options:["Egg→Nymph→Pupa→Adult", "Egg→Nymph→Adult", "Egg→Adult", "Egg→Larva→Pupa→Adult"],
-    correct: 3, explanation:"Holometabolous insects (beetles, flies, moths) have 4 stages: egg, larva, pupa, adult." },
-
-  { id:"d131l_047", subject:"da-131", lecture:"lecture-4", lectureNo:4,
-    question:"Incomplete metamorphosis (hemimetabolism) involves stages:",
-    options:["Egg→Pre-pupa→Pupa→Adult", "Egg→Adult", "Egg→Nymph→Adult", "Egg→Larva→Pupa→Adult"],
-    correct: 2, explanation:"Hemimetabolous insects (grasshoppers, bugs, cockroaches) have 3 stages: egg, nymph, adult. No pupal stage." },
-
-  { id:"d131l_048", subject:"da-131", lecture:"lecture-4", lectureNo:4,
-    question:"The pupal stage of butterfly is called:",
-    options:["Pupa", "Chrysalis", "Cocoon", "Coarctate pupa"],
-    correct: 1, explanation:"The pupa of a butterfly is called chrysalis. It is naked (not covered by a cocoon)." },
-
-  { id:"d131l_049", subject:"da-131", lecture:"lecture-4", lectureNo:4,
-    question:"Silverfish (Lepisma) shows which type of metamorphosis?",
-    options:["Holometabola", "Hypermetamorphosis", "Hemimetabola", "Ametabola"],
-    correct: 3, explanation:"Silverfish (order Zygentoma) shows ametabola – no metamorphosis; young and adult are similar except in size." },
-
-  { id:"d131l_050", subject:"da-131", lecture:"lecture-4", lectureNo:4,
-    question:"The larva of butterfly is called:",
-    options:["Naiad", "Maggot", "Caterpillar", "Grub"],
-    correct: 2, explanation:"Caterpillar is the larva of butterflies and moths (Lepidoptera)." },
-
-  { id:"d131l_051", subject:"da-131", lecture:"lecture-4", lectureNo:4,
-    question:"The larva of flies (Diptera) is called:",
-    options:["Caterpillar", "Grub", "Wireworm", "Maggot"],
-    correct: 3, explanation:"Maggot is the larva of flies (Diptera). It is legless and usually whitish." },
-
-  { id:"d131l_052", subject:"da-131", lecture:"lecture-4", lectureNo:4,
-    question:"The larva of beetles (Coleoptera) is called:",
-    options:["Maggot", "Grub", "Nymph", "Caterpillar"],
-    correct: 1, explanation:"The larva of beetles is called grub. It is usually C-shaped with legs." },
-
-  { id:"d131l_053", subject:"da-131", lecture:"lecture-4", lectureNo:4,
-    question:"Diapause in insects is:",
-    options:["A type of metamorphosis for field crops", "A moulting process in entomology", "A feeding stage in crop protection", "A period of dormancy due to unfavourable conditions"],
-    correct: 3, explanation:"Diapause is a period of arrested development in insects triggered by environmental cues like photoperiod and temperature." },
-
-  { id:"d131l_054", subject:"da-131", lecture:"lecture-4", lectureNo:4,
-    question:"An insect that completes one generation per year is called:",
-    options:["Polyvoltine", "Bivoltine", "Univoltine", "Multivoltine"],
-    correct: 2, explanation:"Univoltine insects complete one generation per year. Bivoltine = 2 generations, Multivoltine = many generations." },
-
-  { id:"d131l_055", subject:"da-131", lecture:"lecture-4", lectureNo:4,
-    question:"Pupa of housefly is of which type?",
-    options:["Exarate", "Obtect", "Adecticous", "Coarctate"],
-    correct: 3, explanation:"Housefly (Musca domestica) pupa is coarctate type – enclosed within the hardened last larval skin (puparium)." },
-
-  { id:"d131l_056", subject:"da-131", lecture:"lecture-4", lectureNo:4,
-    question:"The immature stage of hemimetabolous insects is called:",
-    options:["Pupa", "Instar", "Nymph", "Larva"],
-    correct: 2, explanation:"In hemimetabolous insects, the immature stage resembling the adult is called nymph." },
-
-  { id:"d131l_057", subject:"da-131", lecture:"lecture-4", lectureNo:4,
-    question:"Silkworm (Bombyx mori) completes how many generations in a year under Indian conditions?",
-    options:["2-4", "6-8", "10-12", "1"],
-    correct:0, explanation:"Bombyx mori completes 2-4 generations per year in India (bivoltine to multivoltine depending on variety)." },
-
-  { id:"d131l_058", subject:"da-131", lecture:"lecture-4", lectureNo:4,
-    question:"The stage between two successive moults in insect larva is called:",
-    options:["Stadia", "Stadium", "Instar and stadium", "Instar"],
-    correct:3, explanation:"The larval stage between two moults is called an instar. The time period is called stadium." },
-
-  { id:"d131l_059", subject:"da-131", lecture:"lecture-4", lectureNo:4,
-    question:"Which insect order shows hypermetamorphosis?",
-    options:["Coleoptera (oil beetles – Meloe)", "Orthoptera in crop protection", "Lepidoptera in entomology", "Diptera for field crops"],
-    correct: 0, explanation:"Oil beetles (Meloe, Coleoptera) show hypermetamorphosis where the first instar is triungulid larva, later instars are grubs." },
-
-  { id:"d131l_060", subject:"da-131", lecture:"lecture-4", lectureNo:4,
-    question:"Nymphs of aquatic insects like mayflies are called:",
-    options:["Naiads", "Caterpillars", "Grubs", "Maggots"],
-    correct: 0, explanation:"Aquatic nymphs of hemimetabolous insects (mayflies, dragonflies) are called naiads." },
-
-  // ── LECTURE 5: Major Orders – I ──────────────────────────────────────────
-  { id:"d131l_061", subject:"da-131", lecture:"lecture-5", lectureNo:5,
-    question:"Which order of insects includes grasshoppers, locusts and crickets?",
-    options:["Hemiptera", "Orthoptera", "Coleoptera", "Diptera"],
-    correct:1, explanation:"Grasshoppers, locusts and crickets belong to order Orthoptera (straight-winged insects)." },
-
-  { id:"d131l_062", subject:"da-131", lecture:"lecture-5", lectureNo:5,
-    question:"The desert locust (Schistocerca gregaria) belongs to order:",
-    options:["Hemiptera", "Lepidoptera", "Isoptera", "Orthoptera"],
-    correct: 3, explanation:"Desert locust belongs to order Orthoptera, family Acrididae." },
-
-  { id:"d131l_063", subject:"da-131", lecture:"lecture-5", lectureNo:5,
-    question:"True bugs belong to order:",
-    options:["Diptera", "Coleoptera", "Hemiptera", "Orthoptera"],
-    correct: 2, explanation:"True bugs (shield bugs, bed bugs, stink bugs, aphids, whiteflies) belong to order Hemiptera." },
-
-  { id:"d131l_064", subject:"da-131", lecture:"lecture-5", lectureNo:5,
-    question:"Rice bug (Leptocorisa oratorius) belongs to order:",
-    options:["Orthoptera", "Hemiptera", "Coleoptera", "Lepidoptera"],
-    correct: 1, explanation:"Rice bug belongs to order Hemiptera, family Alydidae. It sucks grain sap causing chaffy grains." },
-
-  { id:"d131l_065", subject:"da-131", lecture:"lecture-5", lectureNo:5,
-    question:"Beetles belong to order:",
-    options:["Coleoptera", "Lepidoptera", "Diptera", "Hemiptera"],
-    correct:0, explanation:"Beetles belong to order Coleoptera (sheath-winged). It is the largest insect order." },
-
-  { id:"d131l_066", subject:"da-131", lecture:"lecture-5", lectureNo:5,
-    question:"Thrips belong to order:",
-    options:["Hemiptera", "Diptera", "Orthoptera", "Thysanoptera"],
-    correct: 3, explanation:"Thrips belong to order Thysanoptera (fringe-winged insects). They are tiny insects with fringed wings." },
-
-  { id:"d131l_067", subject:"da-131", lecture:"lecture-5", lectureNo:5,
-    question:"The characteristic feature of Hemiptera is:",
-    options:["Four membranous wings", "Hardened elytra in entomology", "Scaly wings in crop protection", "Piercing and sucking mouthparts with hemelytra"],
-    correct:3, explanation:"Hemiptera have piercing-sucking mouthparts and hemelytra (fore wings – basal half leathery, apical half membranous)." },
-
-  { id:"d131l_068", subject:"da-131", lecture:"lecture-5", lectureNo:5,
-    question:"Whiteflies belong to order:",
-    options:["Thysanoptera", "Diptera", "Lepidoptera", "Hemiptera"],
-    correct: 3, explanation:"Whiteflies (family Aleyrodidae) belong to order Hemiptera, sub-order Homoptera." },
-
-  { id:"d131l_069", subject:"da-131", lecture:"lecture-5", lectureNo:5,
-    question:"The mango weevil (Sternochetus mangiferae) belongs to order:",
-    options:["Coleoptera", "Lepidoptera", "Diptera", "Hemiptera"],
-    correct:0, explanation:"Mango weevil is a beetle belonging to order Coleoptera, family Curculionidae." },
-
-  { id:"d131l_070", subject:"da-131", lecture:"lecture-5", lectureNo:5,
-    question:"Termites (white ants) belong to order:",
-    options:["Hymenoptera", "Orthoptera", "Hemiptera", "Isoptera"],
-    correct:3, explanation:"Termites belong to order Isoptera (equal-winged). They live in colonies and are major wood/soil pests." },
-
-  { id:"d131l_071", subject:"da-131", lecture:"lecture-5", lectureNo:5,
-    question:"Blister beetles belong to order:",
-    options:["Hemiptera", "Diptera", "Coleoptera", "Lepidoptera"],
-    correct: 2, explanation:"Blister beetles (family Meloidae) belong to order Coleoptera. They secrete cantharidin causing skin blisters." },
-
-  { id:"d131l_072", subject:"da-131", lecture:"lecture-5", lectureNo:5,
-    question:"Distinguishing feature of order Orthoptera is:",
-    options:["Hind legs modified for jumping", "Scales on wings", "Hemelytra in entomology", "Elytra in crop protection"],
-    correct: 0, explanation:"Orthoptera (grasshoppers) have hind legs modified for jumping (saltatorial), with enlarged femora." },
-
-  { id:"d131l_073", subject:"da-131", lecture:"lecture-5", lectureNo:5,
-    question:"Aphids belong to order:",
-    options:["Lepidoptera", "Diptera", "Coleoptera", "Hemiptera"],
-    correct: 3, explanation:"Aphids (plant lice) belong to order Hemiptera, sub-order Homoptera. They suck plant sap." },
-
-  { id:"d131l_074", subject:"da-131", lecture:"lecture-5", lectureNo:5,
-    question:"Scale insects belong to order:",
-    options:["Hemiptera", "Lepidoptera", "Coleoptera", "Diptera"],
-    correct: 0, explanation:"Scale insects (mealybugs and soft/hard scales) belong to order Hemiptera, family Coccidae and Pseudococcidae." },
-
-  { id:"d131l_075", subject:"da-131", lecture:"lecture-5", lectureNo:5,
-    question:"The order Coleoptera gets its name from Greek words meaning:",
-    options:["Beautiful wings", "Scaly wings", "Sheath wings", "Fringe wings"],
-    correct: 2, explanation:"Coleoptera comes from Greek 'koleos' (sheath) + 'ptera' (wings), referring to hardened elytra covering hind wings." },
-
-  // ── LECTURE 6: Major Orders – II ─────────────────────────────────────────
-  { id:"d131l_076", subject:"da-131", lecture:"lecture-6", lectureNo:6,
-    question:"Moths and butterflies belong to order:",
-    options:["Lepidoptera", "Hymenoptera", "Coleoptera", "Diptera"],
-    correct: 0, explanation:"Moths and butterflies belong to order Lepidoptera (scale-winged insects)." },
-
-  { id:"d131l_077", subject:"da-131", lecture:"lecture-6", lectureNo:6,
-    question:"Flies and mosquitoes belong to order:",
-    options:["Hymenoptera", "Diptera", "Hemiptera", "Lepidoptera"],
-    correct:1, explanation:"Flies, mosquitoes, midges belong to order Diptera (two-winged insects). Hind wings are modified to halteres." },
-
-  { id:"d131l_078", subject:"da-131", lecture:"lecture-6", lectureNo:6,
-    question:"Bees, wasps and ants belong to order:",
-    options:["Hymenoptera", "Diptera", "Lepidoptera", "Coleoptera"],
-    correct: 0, explanation:"Bees, wasps and ants belong to order Hymenoptera (membrane-winged insects)." },
-
-  { id:"d131l_079", subject:"da-131", lecture:"lecture-6", lectureNo:6,
-    question:"The adult stage of Lepidoptera feeds through:",
-    options:["Piercing and sucking", "Sponging", "Chewing mouthparts", "Coiled proboscis (siphoning)"],
-    correct: 3, explanation:"Adult Lepidoptera have coiled siphoning mouthparts (proboscis) for sucking nectar. Larvae have chewing mouthparts." },
-
-  { id:"d131l_080", subject:"da-131", lecture:"lecture-6", lectureNo:6,
-    question:"The fruit fly (Bactrocera dorsalis) belongs to order:",
-    options:["Lepidoptera", "Diptera", "Hemiptera", "Coleoptera"],
-    correct: 1, explanation:"Fruit fly belongs to order Diptera, family Tephritidae." },
-
-  { id:"d131l_081", subject:"da-131", lecture:"lecture-6", lectureNo:6,
-    question:"Social insects among Hymenoptera include:",
-    options:["Moths only", "Honeybees, wasps and ants", "Solitary bees only", "Sawflies only"],
-    correct: 1, explanation:"Many Hymenoptera are social insects forming colonies – honeybees, bumblebees, wasps and ants." },
-
-  { id:"d131l_082", subject:"da-131", lecture:"lecture-6", lectureNo:6,
-    question:"The stinging organ in bees and wasps is a modified:",
-    options:["Labium", "Antenna", "Ovipositor", "Spiracle"],
-    correct:2, explanation:"The sting of bees and wasps is a modified ovipositor used for defence, not egg-laying." },
-
-  { id:"d131l_083", subject:"da-131", lecture:"lecture-6", lectureNo:6,
-    question:"Trichogramma (an egg parasitoid) belongs to order:",
-    options:["Hymenoptera", "Coleoptera", "Neuroptera", "Diptera"],
-    correct: 0, explanation:"Trichogramma is a tiny wasp belonging to order Hymenoptera, used as a biocontrol agent against Lepidoptera eggs." },
-
-  { id:"d131l_084", subject:"da-131", lecture:"lecture-6", lectureNo:6,
-    question:"Which Lepidopteran larva is a major cotton pest?",
-    options:["Plusia orichalcea", "Helicoverpa armigera", "Agrotis ipsilon", "Diamond back moth"],
-    correct: 1, explanation:"Helicoverpa armigera (American bollworm) larva is a major polyphagous pest attacking cotton, chilli, chickpea, tomato." },
-
-  { id:"d131l_085", subject:"da-131", lecture:"lecture-6", lectureNo:6,
-    question:"Chrysoperla carnea (green lacewing) belongs to order:",
-    options:["Diptera", "Neuroptera", "Hymenoptera", "Coleoptera"],
-    correct: 1, explanation:"Green lacewing Chrysoperla carnea belongs to order Neuroptera. Its larvae are voracious predators of soft-bodied insects." },
-
-  { id:"d131l_086", subject:"da-131", lecture:"lecture-6", lectureNo:6,
-    question:"Sawflies (Hymenoptera) are pests because:",
-    options:["Larvae feed on leaves like caterpillars", "Adults suck sap", "Adults bore into stems", "They transmit viruses"],
-    correct:0, explanation:"Sawfly larvae (false caterpillars) feed on leaves. They differ from true caterpillars by having more than 5 pairs of prolegs." },
-
-  { id:"d131l_087", subject:"da-131", lecture:"lecture-6", lectureNo:6,
-    question:"The stem fly (Agromyza phaseoli) on pulses belongs to order:",
-    options:["Diptera", "Coleoptera", "Lepidoptera", "Hymenoptera"],
-    correct: 0, explanation:"Stem flies belong to order Diptera, family Agromyzidae. The maggot mines into stems." },
-
-  { id:"d131l_088", subject:"da-131", lecture:"lecture-6", lectureNo:6,
-    question:"Distinguishing feature of butterflies from moths is:",
-    options:["Clubbed antennae and diurnal habit", "Wing size", "Body colour", "Number of legs"],
-    correct:0, explanation:"Butterflies have clubbed (clavate) antennae and are active during daytime (diurnal). Moths have feathery/filiform antennae and are mostly nocturnal." },
-
-  { id:"d131l_089", subject:"da-131", lecture:"lecture-6", lectureNo:6,
-    question:"The wasp Cotesia flavipes is a parasitoid of:",
-    options:["Rice stem borer (Chilo suppressalis)", "Sugarcane internode borer (Chilo sacchariphagus)", "Cotton bollworm", "Tomato fruit borer"],
-    correct: 1, explanation:"Cotesia flavipes is a larval parasitoid of sugarcane internode borer, used in biological control of sugarcane pests." },
-
-  { id:"d131l_090", subject:"da-131", lecture:"lecture-6", lectureNo:6,
-    question:"The number of wings in order Diptera is:",
-    options:["2 (only fore wings functional)", "0", "4 but fore wings are elytra", "4"],
-    correct: 0, explanation:"Diptera have only one pair of functional wings (fore wings). Hind wings are reduced to halteres." },
-
-  // ── LECTURE 7: Beneficial Insects ────────────────────────────────────────
-  { id:"d131l_091", subject:"da-131", lecture:"lecture-7", lectureNo:7,
-    question:"The Indian honeybee is:",
-    options:["Apis florea", "Apis cerana indica", "Apis mellifera", "Apis dorsata"],
-    correct: 1, explanation:"Apis cerana indica is the Indian (Asian) honeybee. Apis mellifera is the European honeybee introduced into India." },
-
-  { id:"d131l_092", subject:"da-131", lecture:"lecture-7", lectureNo:7,
-    question:"The caste responsible for egg-laying in a honeybee colony is:",
-    options:["All three", "Queen", "Worker", "Drone"],
-    correct: 1, explanation:"The queen is the only egg-laying female in the honeybee colony. Workers are sterile females; drones are males." },
-
-  { id:"d131l_093", subject:"da-131", lecture:"lecture-7", lectureNo:7,
-    question:"Beeswax is secreted by which caste of honeybee?",
-    options:["Worker", "Queen", "All castes equally", "Drone"],
-    correct: 0, explanation:"Worker bees secrete beeswax from wax glands on their abdomen, used to build honeycomb." },
-
-  { id:"d131l_094", subject:"da-131", lecture:"lecture-7", lectureNo:7,
-    question:"The main food of drone honeybee is:",
-    options:["Pollen only", "Royal jelly throughout life", "Only water", "Honey and pollen"],
-    correct: 3, explanation:"Drones (male honeybees) consume honey and pollen. They do not collect food and rely on workers for feeding." },
-
-  { id:"d131l_095", subject:"da-131", lecture:"lecture-7", lectureNo:7,
-    question:"Propolis (bee glue) in honeybee hive is used for:",
-    options:["Larval food", "Sealing cracks and sterilising hive", "Queen rearing", "Food storage"],
-    correct: 1, explanation:"Propolis is a resinous mixture collected by bees from tree buds, used to seal gaps in the hive and has antimicrobial properties." },
-
-  { id:"d131l_096", subject:"da-131", lecture:"lecture-7", lectureNo:7,
-    question:"The commercial silk producing insect is:",
-    options:["Bombyx mori", "Philosamia ricini", "Antheraea paphia", "Attacus atlas"],
-    correct:0, explanation:"Bombyx mori (mulberry silkworm) is the primary commercial silk producer. It feeds on mulberry leaves." },
-
-  { id:"d131l_097", subject:"da-131", lecture:"lecture-7", lectureNo:7,
-    question:"The lac insect (Kerria lacca) belongs to order:",
-    options:["Lepidoptera", "Coleoptera", "Hemiptera", "Hymenoptera"],
-    correct: 2, explanation:"Lac insect Kerria lacca (formerly Laccifer lacca) belongs to order Hemiptera, family Kerriidae." },
-
-  { id:"d131l_098", subject:"da-131", lecture:"lecture-7", lectureNo:7,
-    question:"Shellac is produced from lac resin of Kerria lacca. The main host trees include:",
-    options:["Cotton and tobacco in entomology", "Mango and banana in crop protection", "Rice and wheat for field crops", "Palas (Butea monosperma) and Ber (Ziziphus mauritiana)"],
-    correct: 3, explanation:"Kerria lacca is mainly reared on Palas (flame of the forest) and Ber. Other hosts include kusum and ghont." },
-
-  { id:"d131l_099", subject:"da-131", lecture:"lecture-7", lectureNo:7,
-    question:"Royal jelly is fed to:",
-    options:["All larvae for first 3 days, then queens exclusively", "All adult bees in entomology", "Drones only in crop protection", "Workers throughout larval stage for field crops"],
-    correct:0, explanation:"All larvae receive royal jelly for the first 3 days. After that, only queen-destined larvae continue to receive it throughout development." },
-
-  { id:"d131l_100", subject:"da-131", lecture:"lecture-7", lectureNo:7,
-    question:"Eri silk is produced by:",
-    options:["Antheraea assama", "Bombyx mori", "Philosamia ricini", "Antheraea mylitta"],
-    correct: 2, explanation:"Eri silk is produced by Philosamia ricini (Samia cynthia ricini), which feeds on castor leaves." },
-
-  { id:"d131l_101", subject:"da-131", lecture:"lecture-7", lectureNo:7,
-    question:"Muga silk (golden silk) is produced by:",
-    options:["Attacus atlas", "Bombyx mori", "Antheraea assama", "Philosamia ricini"],
-    correct: 2, explanation:"Muga silk, the golden yellow silk produced in Assam, comes from Antheraea assama silkworm feeding on som and sualu trees." },
-
-  { id:"d131l_102", subject:"da-131", lecture:"lecture-7", lectureNo:7,
-    question:"Honey is hygroscopic and does not ferment because of its:",
-    options:["Presence of beeswax in crop protection", "Acidic pH only in entomology", "Low water content (17-20%) and high sugar content", "High water content for field crops"],
-    correct: 2, explanation:"Honey has low water content (17-20%) and high sugar concentration, which prevents fermentation by osmotic inhibition of microbes." },
-
-  { id:"d131l_103", subject:"da-131", lecture:"lecture-7", lectureNo:7,
-    question:"Tussah (wild silk) is produced by:",
-    options:["Antheraea mylitta", "Antheraea assama", "Philosamia ricini", "Bombyx mori"],
-    correct: 0, explanation:"Tussah (tasar) silk is produced by Antheraea mylitta (Indian tasar silkworm), which feeds on Terminalia and Shorea trees." },
-
-  { id:"d131l_104", subject:"da-131", lecture:"lecture-7", lectureNo:7,
-    question:"The process of removing silk filament from cocoon is called:",
-    options:["Reeling", "Degumming", "Spinning", "Weaving"],
-    correct:0, explanation:"Reeling is the process of unwinding silk filament from the cocoon in one continuous thread. Cocoons are first softened in hot water." },
-
-  { id:"d131l_105", subject:"da-131", lecture:"lecture-7", lectureNo:7,
-    question:"The substance that holds silk filaments together in cocoon is:",
-    options:["Fibroin", "Sericin", "Keratin", "Chitin"],
-    correct: 1, explanation:"Sericin (silk gum) holds silk fibroin filaments together in the cocoon. It is removed during degumming." },
-
-  // ── LECTURE 8: Insect Ecology & Population Dynamics ──────────────────────
-  { id:"d131l_106", subject:"da-131", lecture:"lecture-8", lectureNo:8,
-    question:"Economic Threshold Level (ETL) is defined as the pest density at which:",
-    options:["Crop is completely destroyed in entomology", "Control measures should be initiated to prevent reaching EIL", "All natural enemies are eliminated in crop protection", "No damage occurs for field crops"],
-    correct: 1, explanation:"ETL is the pest density at which control action must be started to prevent the population from reaching Economic Injury Level (EIL)." },
-
-  { id:"d131l_107", subject:"da-131", lecture:"lecture-8", lectureNo:8,
-    question:"Economic Injury Level (EIL) is:",
-    options:["Population level after which control is impossible", "Lowest pest density that causes economic damage justifying control cost", "Population level causing 100% damage in entomology", "Population at which all crops fail in crop protection"],
-    correct:1, explanation:"EIL is the pest population level at which the value of crop damage equals the cost of control measures." },
-
-  { id:"d131l_108", subject:"da-131", lecture:"lecture-8", lectureNo:8,
-    question:"Biotic potential of insects refers to:",
-    options:["Death rate in irrigated crop production systems", "Maximum reproductive capacity under ideal conditions", "Resistance to pesticides", "Actual rate of increase"],
-    correct: 1, explanation:"Biotic potential is the maximum reproductive capacity of an insect under ideal conditions (unlimited food, no predators, optimum temp)." },
-
-  { id:"d131l_109", subject:"da-131", lecture:"lecture-8", lectureNo:8,
-    question:"A pest that causes damage only occasionally under specific conditions is called:",
-    options:["Occasional pest", "Potential pest", "Key pest", "Major pest"],
-    correct: 0, explanation:"Occasional pests cause economic damage only under specific favourable conditions but are not regular pests." },
-
-  { id:"d131l_110", subject:"da-131", lecture:"lecture-8", lectureNo:8,
-    question:"The relationship between predator and prey population shows:",
-    options:["Prey increases first, then predator follows", "No relationship", "Predator increases before prey", "Both increase simultaneously"],
-    correct: 0, explanation:"In predator-prey relationships, prey population increases first, providing food for predators whose population then increases and reduces prey numbers." },
-
-  { id:"d131l_111", subject:"da-131", lecture:"lecture-8", lectureNo:8,
-    question:"A pest that is always present and causes significant damage is called:",
-    options:["Key/major pest", "Occasional pest", "Induced pest", "Potential pest"],
-    correct: 0, explanation:"Key pests (major pests) are those that occur every season and regularly cause economic damage." },
-
-  { id:"d131l_112", subject:"da-131", lecture:"lecture-8", lectureNo:8,
-    question:"Pest resurgence is caused by:",
-    options:["Crop rotation in entomology", "Indiscriminate use of pesticides killing natural enemies", "Balanced fertilizer use in crop protection", "Use of resistant varieties"],
-    correct:1, explanation:"Pest resurgence occurs when pesticides kill natural enemies, allowing the target pest to rebound to higher levels than before treatment." },
-
-  { id:"d131l_113", subject:"da-131", lecture:"lecture-8", lectureNo:8,
-    question:"An insect pest that is kept below EIL by natural enemies but can become a pest if control is disturbed is:",
-    options:["Major pest", "Occasional pest", "Secondary pest", "Potential pest"],
-    correct: 3, explanation:"Potential pests are naturally controlled below EIL by natural enemies but can become economic pests if natural control fails." },
-
-  { id:"d131l_114", subject:"da-131", lecture:"lecture-8", lectureNo:8,
-    question:"Environmental resistance includes:",
-    options:["Only temperature for field crops", "Only predators in entomology", "Only pesticides in crop protection", "Food, weather, natural enemies and disease"],
-    correct: 3, explanation:"Environmental resistance includes all biotic (predators, parasites, disease, competition) and abiotic (temperature, humidity, rainfall) factors that limit population growth." },
-
-  { id:"d131l_115", subject:"da-131", lecture:"lecture-8", lectureNo:8,
-    question:"'S' shaped (sigmoid) population growth curve represents:",
-    options:["Exponential growth without limits", "No population change", "Decline of pest population", "Logistic growth with carrying capacity"],
-    correct: 3, explanation:"S-shaped (logistic/sigmoid) growth curve shows population growth that levels off at the carrying capacity (K) of the environment." },
-
-  // ── LECTURE 9: Pesticides ─────────────────────────────────────────────────
-  { id:"d131l_116", subject:"da-131", lecture:"lecture-9", lectureNo:9,
-    question:"Organochlorine insecticides act by:",
-    options:["Blocking nicotinic receptors", "Disrupting nerve impulse transmission (sodium channel)", "Inhibiting acetylcholinesterase in entomology", "Inhibiting chitin synthesis"],
-    correct: 1, explanation:"Organochlorines (DDT, BHC) disrupt sodium channel function in nerve cells, causing hyperexcitability and death." },
-
-  { id:"d131l_117", subject:"da-131", lecture:"lecture-9", lectureNo:9,
-    question:"Organophosphate insecticides act by:",
-    options:["Blocking sodium channels", "Blocking GABA receptors", "Inhibiting chitin synthesis", "Inhibiting acetylcholinesterase enzyme"],
-    correct: 3, explanation:"Organophosphates (chlorpyrifos, monocrotophos) inhibit acetylcholinesterase, causing accumulation of acetylcholine and continuous nerve stimulation." },
-
-  { id:"d131l_118", subject:"da-131", lecture:"lecture-9", lectureNo:9,
-    question:"WP formulation of pesticide stands for:",
-    options:["Wettable Powder", "Water Proof", "Wet Pellet", "Water Penetrant"],
-    correct:0, explanation:"WP = Wettable Powder. It is mixed with water to form a spray suspension." },
-
-  { id:"d131l_119", subject:"da-131", lecture:"lecture-9", lectureNo:9,
-    question:"EC formulation of pesticide stands for:",
-    options:["Encapsulated Compound", "Enriched Crystal", "Effective Chemical", "Emulsifiable Concentrate"],
-    correct: 3, explanation:"EC = Emulsifiable Concentrate. The active ingredient is dissolved in organic solvent with emulsifier, diluted with water before use." },
-
-  { id:"d131l_120", subject:"da-131", lecture:"lecture-9", lectureNo:9,
-    question:"Neonicotinoid insecticides (e.g., imidacloprid) act on:",
-    options:["GABA receptors", "Acetylcholinesterase", "Nicotinic acetylcholine receptors", "Sodium channels"],
-    correct:2, explanation:"Neonicotinoids act on nicotinic acetylcholine receptors in the insect central nervous system, causing overstimulation and death." },
-
-  { id:"d131l_121", subject:"da-131", lecture:"lecture-9", lectureNo:9,
-    question:"The LD50 of a pesticide refers to:",
-    options:["Effective dose for crop protection", "Lethal dose killing 100% of test organisms", "Dose killing 50% of test population", "Maximum residue limit"],
-    correct: 2, explanation:"LD50 (Lethal Dose 50) is the dose of pesticide that kills 50% of a test population. Lower LD50 = more toxic." },
-
-  { id:"d131l_122", subject:"da-131", lecture:"lecture-9", lectureNo:9,
-    question:"GR formulation (Granule) is applied by:",
-    options:["Dusting from air", "Broadcasting or incorporation into soil", "Spraying with water", "Dipping of seeds"],
-    correct: 1, explanation:"Granule (GR) formulations are applied by broadcasting in soil or between rows. They are used for soil insects and rootworms." },
-
-  { id:"d131l_123", subject:"da-131", lecture:"lecture-9", lectureNo:9,
-    question:"Pyrethroid insecticides are derived from:",
-    options:["Rotenone plant", "Tobacco", "Neem", "Chrysanthemum flowers"],
-    correct: 3, explanation:"Pyrethroids are synthetic versions of pyrethrins, natural insecticides found in Chrysanthemum (Tanacetum cinerariaefolium) flowers." },
-
-  { id:"d131l_124", subject:"da-131", lecture:"lecture-9", lectureNo:9,
-    question:"Which of the following is a systemic insecticide?",
-    options:["Pyrethrin", "DDT", "Imidacloprid", "BHC"],
-    correct: 2, explanation:"Imidacloprid is a systemic insecticide absorbed by the plant and translocated to all parts, killing sucking pests." },
-
-  { id:"d131l_125", subject:"da-131", lecture:"lecture-9", lectureNo:9,
-    question:"Contact poison insecticide kills the insect when:",
-    options:["It contaminates water source", "It enters through breathing", "It is eaten", "The insecticide touches insect body"],
-    correct:3, explanation:"Contact poisons kill insects upon physical contact with their body surface (cuticle)." },
-
-  // ── LECTURE 10: Pest Management Methods ──────────────────────────────────
-  { id:"d131l_126", subject:"da-131", lecture:"lecture-10", lectureNo:10,
-    question:"Integrated Pest Management (IPM) is defined as a pest management system that:",
-    options:["Uses only chemical pesticides as per entomology and crop pest management principles", "Combines all suitable pest management tactics to keep pest populations below EIL", "Uses no pesticides at all for field crops", "Relies only on biological control in crop protection"],
-    correct: 1, explanation:"IPM combines cultural, biological, mechanical and chemical methods in a compatible manner to keep pest populations below EIL with minimum environmental impact." },
-
-  { id:"d131l_127", subject:"da-131", lecture:"lecture-10", lectureNo:10,
-    question:"Crop rotation is a ________ method of pest control:",
-    options:["Chemical", "Biological", "Cultural", "Mechanical"],
-    correct: 2, explanation:"Crop rotation is a cultural control method that disrupts pest life cycles by changing the host plant." },
-
-  { id:"d131l_128", subject:"da-131", lecture:"lecture-10", lectureNo:10,
-    question:"Light trap is a ________ method of pest management:",
-    options:["Mechanical/Physical", "Biological", "Chemical", "Cultural"],
-    correct:0, explanation:"Light traps attract and kill night-flying insects using light. It is a mechanical/physical control method." },
-
-  { id:"d131l_129", subject:"da-131", lecture:"lecture-10", lectureNo:10,
-    question:"The use of pheromone traps in pest management is an example of:",
-    options:["Biological control", "Mechanical control", "Behavioural/monitoring control", "Chemical control"],
-    correct: 2, explanation:"Pheromone traps use sex attractants to trap male insects. They are used for monitoring and mass trapping (behavioural control)." },
-
-  { id:"d131l_130", subject:"da-131", lecture:"lecture-10", lectureNo:10,
-    question:"Sterile Insect Technique (SIT) is used to control pests by:",
-    options:["Releasing sterile females as per entomology and crop pest management principles", "Releasing sterile males to mate with wild females producing no offspring", "Applying sterile pesticides as per entomology and crop pest management principles", "Using sterile soil as per entomology and crop pest management principles"],
-    correct: 1, explanation:"SIT involves mass-rearing, sterilising (by radiation) and releasing male insects. When they mate with wild females, no offspring are produced." },
-
-  { id:"d131l_131", subject:"da-131", lecture:"lecture-10", lectureNo:10,
-    question:"A parasitoid differs from a parasite in that:",
-    options:["It never harms the host", "It lives on the host surface only", "It is larger than the host", "It eventually kills the host"],
-    correct:3, explanation:"Parasitoids (like Trichogramma) lay eggs in/on host and larvae develop by consuming the host, eventually killing it." },
-
-  { id:"d131l_132", subject:"da-131", lecture:"lecture-10", lectureNo:10,
-    question:"The use of resistant crop varieties is a ________ method of pest control:",
-    options:["Biological", "Chemical", "Cultural/Host plant resistance", "Mechanical"],
-    correct: 2, explanation:"Use of resistant varieties is a host plant resistance method under cultural control, providing non-preference, antibiosis or tolerance." },
-
-  { id:"d131l_133", subject:"da-131", lecture:"lecture-10", lectureNo:10,
-    question:"Which cultural practice helps in reducing stem borer damage in rice?",
-    options:["Skip row sowing", "Clipping tips of seedlings during transplanting", "Flood irrigation in crop protection", "Broadcasting seeds in entomology"],
-    correct: 1, explanation:"Clipping the tips of seedlings during transplanting removes eggs of stem borers laid on leaf tips, reducing early infestation." },
-
-  { id:"d131l_134", subject:"da-131", lecture:"lecture-10", lectureNo:10,
-    question:"Deep summer ploughing helps in pest management by:",
-    options:["Exposing soil-dwelling pests, pupae and eggs to sun and predatory birds", "Improving water retention as per entomology and crop pest management principles", "Reducing weeds only as per entomology and crop pest management principles", "Improving soil fertility as per entomology and crop pest management principles"],
-    correct:0, explanation:"Deep summer ploughing exposes pupae, eggs and larvae of soil-dwelling pests to desiccation, extreme temperature and predators." },
-
-  { id:"d131l_135", subject:"da-131", lecture:"lecture-10", lectureNo:10,
-    question:"In IPM, the 'last resort' method is:",
-    options:["Physical control", "Chemical control", "Cultural control", "Biological control"],
-    correct: 1, explanation:"In IPM, chemical control using pesticides is considered the last resort, applied only when pest population exceeds ETL." },
-
-  // ── BATCH 2: Additional 100 questions from PJTSAU DA-131 Theory Notes ──
+  {
+    id: "d131l_001",
+    subject: "da-131",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "Insects belong to which phylum?",
+    options: ["Mollusca", "Arthropoda", "Echinodermata", "Annelida"],
+    correct: 1,
+    explanation: "Insects belong to phylum Arthropoda, characterised by jointed appendages and exoskeleton."
+  },
+  {
+    id: "d131l_002",
+    subject: "da-131",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "The class Insecta is distinguished from other Arthropods by having:",
+    options: ["Book lungs in entomology", "Two pairs of antennae in crop protection", "Three pairs of legs and three body regions", "Four pairs of legs for field crops"],
+    correct: 2,
+    explanation: "Insects (class Insecta) have 3 pairs of legs, 3 body regions (head, thorax, abdomen) and usually 1 pair of antennae."
+  },
+  {
+    id: "d131l_003",
+    subject: "da-131",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "Approximately how many described insect species exist on Earth?",
+    options: ["5,000", "50,000", "1 million", "10 million"],
+    correct: 2,
+    explanation: "About 1 million insect species have been described, making them the most species-rich group of animals."
+  },
+  {
+    id: "d131l_004",
+    subject: "da-131",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "Which of the following is NOT an insect?",
+    options: ["Scorpion", "Grasshopper", "Honeybee", "Housefly"],
+    correct: 0,
+    explanation: "Scorpion belongs to class Arachnida (8 legs, 2 body regions), not Insecta."
+  },
+  {
+    id: "d131l_005",
+    subject: "da-131",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "The study of insects is known as:",
+    options: ["Entomology", "Ichthyology", "Herpetology", "Ornithology"],
+    correct: 0,
+    explanation: "Entomology is the scientific study of insects."
+  },
+  {
+    id: "d131l_006",
+    subject: "da-131",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "Which arthropod class has the most agricultural importance as pests?",
+    options: ["Arachnida", "Insecta", "Crustacea", "Diplopoda"],
+    correct: 1,
+    explanation: "Class Insecta contains the largest number of agricultural pests."
+  },
+  {
+    id: "d131l_007",
+    subject: "da-131",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "Spider belongs to class:",
+    options: ["Arachnida", "Myriapoda", "Insecta", "Crustacea"],
+    correct: 0,
+    explanation: "Spiders belong to class Arachnida which has 4 pairs of legs and 2 body regions."
+  },
+  {
+    id: "d131l_008",
+    subject: "da-131",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "The exoskeleton of insects is primarily composed of:",
+    options: ["Cellulose", "Keratin", "Collagen", "Chitin"],
+    correct: 3,
+    explanation: "Insect exoskeleton is made of chitin, a nitrogen-containing polysaccharide."
+  },
+  {
+    id: "d131l_009",
+    subject: "da-131",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "Which of the following is a beneficial insect in agriculture?",
+    options: ["Ladybird beetle", "Whitefly", "Aphid", "Leafhopper"],
+    correct: 0,
+    explanation: "Ladybird beetles (Coccinellidae) are beneficial predators that feed on aphids and other soft-bodied pests."
+  },
+  {
+    id: "d131l_010",
+    subject: "da-131",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "Mites belong to class:",
+    options: ["Crustacea", "Chilopoda", "Arachnida", "Insecta"],
+    correct: 2,
+    explanation: "Mites belong to class Arachnida, order Acarina. They have 4 pairs of legs as adults."
+  },
+  {
+    id: "d131l_011",
+    subject: "da-131",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "The class Insecta is divided into two subclasses, namely:",
+    options: ["Apterygota and Pterygota", "Holometabola and Hemimetabola", "Heteroptera and Homoptera", "Larva and Pupa"],
+    correct: 0,
+    explanation: "The class Insecta is divided into two subclasses - Apterygota (primitively wingless) and Pterygota (winged or secondarily wingless) insects."
+  },
+  {
+    id: "d131l_012",
+    subject: "da-131",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "Which of the following insects is used for silk production?",
+    options: ["Chrysoperla carnea", "Apis mellifera", "Bombyx mori", "Kerria lacca"],
+    correct: 2,
+    explanation: "Bombyx mori (mulberry silkworm) is used for commercial silk production."
+  },
+  {
+    id: "d131l_013",
+    subject: "da-131",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "Centipede belongs to which class of Arthropoda?",
+    options: ["Arachnida", "Insecta", "Diplopoda", "Chilopoda"],
+    correct: 3,
+    explanation: "Centipedes belong to class Chilopoda. They have one pair of legs per body segment."
+  },
+  {
+    id: "d131l_014",
+    subject: "da-131",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "The circulatory system in insects is:",
+    options: ["Closed", "Double", "Open", "Both open and closed"],
+    correct: 2,
+    explanation: "Insects have an open circulatory system where haemolymph flows freely in body cavity (haemocoel)."
+  },
+  {
+    id: "d131l_015",
+    subject: "da-131",
+    lecture: "lecture-1",
+    lectureNo: 1,
+    question: "Which is the largest insect order by number of species?",
+    options: ["Coleoptera", "Lepidoptera", "Hymenoptera", "Diptera"],
+    correct: 0,
+    explanation: "Coleoptera (beetles) is the largest insect order with over 400,000 described species."
+  },
+  {
+    id: "d131l_016",
+    subject: "da-131",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "The type of mouthparts found in grasshopper is:",
+    options: ["Sucking", "Chewing and biting", "Sponging", "Rasping and sucking"],
+    correct: 1,
+    explanation: "Grasshopper has chewing and biting type mouthparts with well-developed mandibles."
+  },
+  {
+    id: "d131l_017",
+    subject: "da-131",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "Haustellate type mouthparts are found in:",
+    options: ["Cockroach", "Mosquito", "Termite", "Grasshopper"],
+    correct: 1,
+    explanation: "Mosquito has haustellate (piercing and sucking) mouthparts to suck blood or plant sap."
+  },
+  {
+    id: "d131l_018",
+    subject: "da-131",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "How many pairs of wings do most adult insects have?",
+    options: ["1 pair", "4 pairs", "2 pairs", "3 pairs"],
+    correct: 2,
+    explanation: "Most adult insects have 2 pairs of wings attached to the mesothorax and metathorax."
+  },
+  {
+    id: "d131l_019",
+    subject: "da-131",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "In beetles (Coleoptera), the fore wings are modified into hard wing covers called:",
+    options: ["Tegmina", "Halteres", "Scales", "Elytra"],
+    correct: 3,
+    explanation: "In beetles, the fore wings are hardened into elytra (wing covers) that protect the hind wings."
+  },
+  {
+    id: "d131l_020",
+    subject: "da-131",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "The type of antenna found in honeybee is:",
+    options: ["Plumose", "Filiform", "Geniculate", "Clavate"],
+    correct: 2,
+    explanation: "Honeybee has geniculate (elbowed/bent) antennae."
+  },
+  {
+    id: "d131l_021",
+    subject: "da-131",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "Halteres are modified hind wings found in:",
+    options: ["Grasshoppers", "Beetles", "Butterflies", "Flies (Diptera)"],
+    correct: 3,
+    explanation: "In Diptera (flies), the hind wings are reduced to small knob-like halteres that help in balancing during flight."
+  },
+  {
+    id: "d131l_022",
+    subject: "da-131",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "The compound eye of insects is made up of:",
+    options: ["Ocelli", "Ommatidia", "Corneal lens only", "A single lens"],
+    correct: 1,
+    explanation: "Compound eyes of insects are made up of many individual units called ommatidia."
+  },
+  {
+    id: "d131l_023",
+    subject: "da-131",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "The jumping leg type (cursorial) is found in:",
+    options: ["Praying mantis", "Mole cricket", "Water strider", "Grasshopper"],
+    correct: 3,
+    explanation: "Grasshoppers have saltatorial (jumping) hind legs with enlarged femora and tibiae."
+  },
+  {
+    id: "d131l_024",
+    subject: "da-131",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "Which part of the insect body bears the wings and legs?",
+    options: ["Head", "Prothorax", "Thorax", "Abdomen"],
+    correct: 2,
+    explanation: "Wings (in winged insects) and all 3 pairs of legs are attached to the thorax."
+  },
+  {
+    id: "d131l_025",
+    subject: "da-131",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "The rasping and sucking type mouthparts are found in:",
+    options: ["Butterfly", "Mosquito", "Honeybee", "Thrips"],
+    correct: 3,
+    explanation: "Thrips have asymmetrical rasping and sucking mouthparts used to rasp plant tissue and suck cell sap."
+  },
+  {
+    id: "d131l_026",
+    subject: "da-131",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "Siphoning mouthparts are found in:",
+    options: ["Mosquito", "Butterfly", "Housefly", "Aphid"],
+    correct: 1,
+    explanation: "Butterflies have coiled siphoning (suctorial) mouthparts (proboscis) for sucking nectar from flowers."
+  },
+  {
+    id: "d131l_027",
+    subject: "da-131",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "The number of segments in the insect thorax is:",
+    options: ["2", "5", "4", "3"],
+    correct: 3,
+    explanation: "Insect thorax has 3 segments: prothorax, mesothorax, and metathorax."
+  },
+  {
+    id: "d131l_028",
+    subject: "da-131",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "Tympanum (hearing organ) in insects is found in:",
+    options: ["Antenna", "Ovipositor", "Compound eye", "Abdomen or fore tibia"],
+    correct: 3,
+    explanation: "Tympanum (ear drum) is located on the first abdominal segment in locusts and on the fore tibiae in crickets."
+  },
+  {
+    id: "d131l_029",
+    subject: "da-131",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "Filiform antennae are:",
+    options: ["Club-shaped at tip", "Elbow-shaped", "Thread-like throughout", "Feather-like"],
+    correct: 2,
+    explanation: "Filiform antennae are thread-like (uniform width throughout), e.g., in cockroaches."
+  },
+  {
+    id: "d131l_030",
+    subject: "da-131",
+    lecture: "lecture-2",
+    lectureNo: 2,
+    question: "In Lepidoptera (moths and butterflies), the wings are covered with:",
+    options: ["Scales", "Hair", "Wax", "Chitin plates"],
+    correct: 0,
+    explanation: "Wings of Lepidoptera are covered with scales (flattened hairs), giving them their colourful patterns."
+  },
+  {
+    id: "d131l_031",
+    subject: "da-131",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "The excretory organs of insects are:",
+    options: ["Flame cells", "Malpighian tubules", "Green glands", "Nephridia"],
+    correct: 1,
+    explanation: "Malpighian tubules are the main excretory organs in insects, opening into the gut at midgut-hindgut junction."
+  },
+  {
+    id: "d131l_032",
+    subject: "da-131",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "The main nitrogenous excretory product of insects is:",
+    options: ["Ammonia", "Creatinine", "Uric acid", "Urea"],
+    correct: 2,
+    explanation: "Insects excrete uric acid (uricotelic). This conserves water, important for terrestrial life."
+  },
+  {
+    id: "d131l_033",
+    subject: "da-131",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "Insects breathe through:",
+    options: ["Gills", "Spiracles and tracheae", "Skin", "Lungs"],
+    correct: 1,
+    explanation: "Insects have a tracheal system – air enters through spiracles and is distributed by tracheal tubes to all tissues."
+  },
+  {
+    id: "d131l_034",
+    subject: "da-131",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "The blood of insects is called:",
+    options: ["Plasma", "Haemolymph", "Lymph", "Haemoglobin"],
+    correct: 1,
+    explanation: "Insect blood is called haemolymph. It is usually colourless (lacks haemoglobin) and fills the haemocoel."
+  },
+  {
+    id: "d131l_035",
+    subject: "da-131",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "The heart of an insect is located in the:",
+    options: ["Ventral abdomen", "Head", "Thorax", "Dorsal abdomen"],
+    correct: 3,
+    explanation: "Insect heart (dorsal vessel) is a tubular structure located dorsally in the abdomen."
+  },
+  {
+    id: "d131l_036",
+    subject: "da-131",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "The crop in insect digestive system functions as:",
+    options: ["Enzyme production", "Excretion", "Food storage", "Absorption"],
+    correct: 2,
+    explanation: "The crop is a food storage organ in the foregut of insects."
+  },
+  {
+    id: "d131l_037",
+    subject: "da-131",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "Digestion and absorption in insects mainly takes place in:",
+    options: ["Foregut", "Midgut", "Crop", "Hindgut"],
+    correct: 1,
+    explanation: "The midgut (mesenteron) is the main site of digestion and absorption in insects."
+  },
+  {
+    id: "d131l_038",
+    subject: "da-131",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "The number of spiracles in a typical insect is:",
+    options: ["4", "8", "10", "20"],
+    correct: 2,
+    explanation: "Most insects have 10 pairs of spiracles – 2 on thorax and 8 on abdomen."
+  },
+  {
+    id: "d131l_039",
+    subject: "da-131",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "The gland responsible for moulting hormone production in insects is:",
+    options: ["Corpora allata", "Prothoracic gland", "Salivary gland", "Oenocyte"],
+    correct: 1,
+    explanation: "Prothoracic gland produces ecdysone (moulting hormone) that triggers moulting in insects."
+  },
+  {
+    id: "d131l_040",
+    subject: "da-131",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "Juvenile hormone in insects is secreted by:",
+    options: ["Corpora allata", "Brain", "Prothoracic gland", "Oenocyte"],
+    correct: 0,
+    explanation: "Corpora allata (a pair of endocrine glands near the brain) secrete juvenile hormone (JH) that maintains larval characteristics."
+  },
+  {
+    id: "d131l_041",
+    subject: "da-131",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "Silk glands in silkworm are modified:",
+    options: ["Sweat glands", "Salivary glands", "Malpighian tubules", "Oenocyte"],
+    correct: 1,
+    explanation: "Silk glands in Bombyx mori (silkworm) are modified salivary glands that secrete fibroin and sericin."
+  },
+  {
+    id: "d131l_042",
+    subject: "da-131",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "The ventral nerve cord of insects has ganglia in each segment – this nervous system is called:",
+    options: ["Centralised", "Decentralised/Ganglionated", "Diffuse", "Reticular"],
+    correct: 1,
+    explanation: "Insects have a ganglionated ventral nerve cord with a pair of ganglia in each body segment."
+  },
+  {
+    id: "d131l_043",
+    subject: "da-131",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "The function of fat body in insects is:",
+    options: ["Hormone secretion", "Food storage and metabolism", "Waste excretion", "Gas exchange"],
+    correct: 1,
+    explanation: "Fat body in insects acts as the main metabolic tissue – stores glycogen, fat and protein; also detoxifies poisons."
+  },
+  {
+    id: "d131l_044",
+    subject: "da-131",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "The process of shedding of exoskeleton in insects is called:",
+    options: ["Aestivation", "Diapause", "Metamorphosis", "Moulting (Ecdysis)"],
+    correct: 3,
+    explanation: "Moulting (ecdysis) is the shedding of old cuticle to allow growth in insects."
+  },
+  {
+    id: "d131l_045",
+    subject: "da-131",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "The maxillae of an insect bear sensory structures that function as organs of taste and smell, called:",
+    options: ["Maxillary palps", "Antennal sclerites", "Anal cerci", "Tarsal claws"],
+    correct: 0,
+    explanation: "The maxillae bear maxillary palps which possess olfactory and gustatory sense receptors and function as sensory organs; the galea and lacinia help hold food."
+  },
+  {
+    id: "d131l_046",
+    subject: "da-131",
+    lecture: "lecture-4",
+    lectureNo: 4,
+    question: "Complete metamorphosis (holometabolism) involves stages:",
+    options: ["Egg→Nymph→Pupa→Adult", "Egg→Nymph→Adult", "Egg→Adult", "Egg→Larva→Pupa→Adult"],
+    correct: 3,
+    explanation: "Holometabolous insects (beetles, flies, moths) have 4 stages: egg, larva, pupa, adult."
+  },
+  {
+    id: "d131l_047",
+    subject: "da-131",
+    lecture: "lecture-4",
+    lectureNo: 4,
+    question: "Incomplete metamorphosis (hemimetabolism) involves stages:",
+    options: ["Egg→Pre-pupa→Pupa→Adult", "Egg→Adult", "Egg→Nymph→Adult", "Egg→Larva→Pupa→Adult"],
+    correct: 2,
+    explanation: "Hemimetabolous insects (grasshoppers, bugs, cockroaches) have 3 stages: egg, nymph, adult. No pupal stage."
+  },
+  {
+    id: "d131l_048",
+    subject: "da-131",
+    lecture: "lecture-4",
+    lectureNo: 4,
+    question: "The pupal stage of butterfly is called:",
+    options: ["Pupa", "Chrysalis", "Cocoon", "Coarctate pupa"],
+    correct: 1,
+    explanation: "The pupa of a butterfly is called chrysalis. It is naked (not covered by a cocoon)."
+  },
+  {
+    id: "d131l_049",
+    subject: "da-131",
+    lecture: "lecture-4",
+    lectureNo: 4,
+    question: "Silverfish (Lepisma) shows which type of metamorphosis?",
+    options: ["Holometabola", "Hypermetamorphosis", "Hemimetabola", "Ametabola"],
+    correct: 3,
+    explanation: "Silverfish (order Zygentoma) shows ametabola – no metamorphosis; young and adult are similar except in size."
+  },
+  {
+    id: "d131l_050",
+    subject: "da-131",
+    lecture: "lecture-4",
+    lectureNo: 4,
+    question: "The larva of butterfly is called:",
+    options: ["Naiad", "Maggot", "Caterpillar", "Grub"],
+    correct: 2,
+    explanation: "Caterpillar is the larva of butterflies and moths (Lepidoptera)."
+  },
+  {
+    id: "d131l_051",
+    subject: "da-131",
+    lecture: "lecture-4",
+    lectureNo: 4,
+    question: "The larva of flies (Diptera) is called:",
+    options: ["Caterpillar", "Grub", "Wireworm", "Maggot"],
+    correct: 3,
+    explanation: "Maggot is the larva of flies (Diptera). It is legless and usually whitish."
+  },
+  {
+    id: "d131l_052",
+    subject: "da-131",
+    lecture: "lecture-4",
+    lectureNo: 4,
+    question: "The larva of beetles (Coleoptera) is called:",
+    options: ["Maggot", "Grub", "Nymph", "Caterpillar"],
+    correct: 1,
+    explanation: "The larva of beetles is called grub. It is usually C-shaped with legs."
+  },
+  {
+    id: "d131l_053",
+    subject: "da-131",
+    lecture: "lecture-4",
+    lectureNo: 4,
+    question: "An insect life cycle that passes through egg, larva, pupa and adult (with a distinct pupal stage) shows:",
+    options: ["Paurometabolous development", "Incomplete metamorphosis (hemimetabolous)", "No metamorphosis (ametabolous)", "Complete metamorphosis (holometabolous)"],
+    correct: 3,
+    explanation: "Complete metamorphosis (holometabolous development) passes through egg, larva, pupa and adult, with a distinct pupal stage - seen in Lepidoptera, Coleoptera, Diptera and Hymenoptera."
+  },
+  {
+    id: "d131l_054",
+    subject: "da-131",
+    lecture: "lecture-4",
+    lectureNo: 4,
+    question: "In insects with incomplete metamorphosis, the immature stage that resembles the adult is called a:",
+    options: ["Nymph", "Pupa", "Grub", "Maggot"],
+    correct: 0,
+    explanation: "In incomplete metamorphosis (hemimetabolous development), the immature stage is a nymph that resembles the adult but lacks fully developed wings and genitalia (e.g. in Hemiptera, Orthoptera)."
+  },
+  {
+    id: "d131l_055",
+    subject: "da-131",
+    lecture: "lecture-4",
+    lectureNo: 4,
+    question: "Pupa of housefly is of which type?",
+    options: ["Exarate", "Obtect", "Adecticous", "Coarctate"],
+    correct: 3,
+    explanation: "Housefly (Musca domestica) pupa is coarctate type – enclosed within the hardened last larval skin (puparium)."
+  },
+  {
+    id: "d131l_056",
+    subject: "da-131",
+    lecture: "lecture-4",
+    lectureNo: 4,
+    question: "The immature stage of hemimetabolous insects is called:",
+    options: ["Pupa", "Instar", "Nymph", "Larva"],
+    correct: 2,
+    explanation: "In hemimetabolous insects, the immature stage resembling the adult is called nymph."
+  },
+  {
+    id: "d131l_057",
+    subject: "da-131",
+    lecture: "lecture-4",
+    lectureNo: 4,
+    question: "Silkworm (Bombyx mori) completes how many generations in a year under Indian conditions?",
+    options: ["2-4", "6-8", "10-12", "1"],
+    correct: 0,
+    explanation: "Bombyx mori completes 2-4 generations per year in India (bivoltine to multivoltine depending on variety)."
+  },
+  {
+    id: "d131l_058",
+    subject: "da-131",
+    lecture: "lecture-4",
+    lectureNo: 4,
+    question: "The stage between two successive moults in insect larva is called:",
+    options: ["Stadia", "Stadium", "Instar and stadium", "Instar"],
+    correct: 3,
+    explanation: "The larval stage between two moults is called an instar. The time period is called stadium."
+  },
+  {
+    id: "d131l_059",
+    subject: "da-131",
+    lecture: "lecture-4",
+    lectureNo: 4,
+    question: "Which insect order shows hypermetamorphosis?",
+    options: ["Coleoptera (oil beetles – Meloe)", "Orthoptera in crop protection", "Lepidoptera in entomology", "Diptera for field crops"],
+    correct: 0,
+    explanation: "Oil beetles (Meloe, Coleoptera) show hypermetamorphosis where the first instar is triungulid larva, later instars are grubs."
+  },
+  {
+    id: "d131l_060",
+    subject: "da-131",
+    lecture: "lecture-4",
+    lectureNo: 4,
+    question: "Nymphs of aquatic insects like mayflies are called:",
+    options: ["Naiads", "Caterpillars", "Grubs", "Maggots"],
+    correct: 0,
+    explanation: "Aquatic nymphs of hemimetabolous insects (mayflies, dragonflies) are called naiads."
+  },
+  {
+    id: "d131l_061",
+    subject: "da-131",
+    lecture: "lecture-5",
+    lectureNo: 5,
+    question: "Which order of insects includes grasshoppers, locusts and crickets?",
+    options: ["Hemiptera", "Orthoptera", "Coleoptera", "Diptera"],
+    correct: 1,
+    explanation: "Grasshoppers, locusts and crickets belong to order Orthoptera (straight-winged insects)."
+  },
+  {
+    id: "d131l_062",
+    subject: "da-131",
+    lecture: "lecture-5",
+    lectureNo: 5,
+    question: "The desert locust (Schistocerca gregaria) belongs to order:",
+    options: ["Hemiptera", "Lepidoptera", "Isoptera", "Orthoptera"],
+    correct: 3,
+    explanation: "Desert locust belongs to order Orthoptera, family Acrididae."
+  },
+  {
+    id: "d131l_063",
+    subject: "da-131",
+    lecture: "lecture-5",
+    lectureNo: 5,
+    question: "True bugs belong to order:",
+    options: ["Diptera", "Coleoptera", "Hemiptera", "Orthoptera"],
+    correct: 2,
+    explanation: "True bugs (shield bugs, bed bugs, stink bugs, aphids, whiteflies) belong to order Hemiptera."
+  },
+  {
+    id: "d131l_064",
+    subject: "da-131",
+    lecture: "lecture-5",
+    lectureNo: 5,
+    question: "Rice bug (Leptocorisa oratorius) belongs to order:",
+    options: ["Orthoptera", "Hemiptera", "Coleoptera", "Lepidoptera"],
+    correct: 1,
+    explanation: "Rice bug belongs to order Hemiptera, family Alydidae. It sucks grain sap causing chaffy grains."
+  },
+  {
+    id: "d131l_065",
+    subject: "da-131",
+    lecture: "lecture-5",
+    lectureNo: 5,
+    question: "Beetles belong to order:",
+    options: ["Coleoptera", "Lepidoptera", "Diptera", "Hemiptera"],
+    correct: 0,
+    explanation: "Beetles belong to order Coleoptera (sheath-winged). It is the largest insect order."
+  },
+  {
+    id: "d131l_066",
+    subject: "da-131",
+    lecture: "lecture-5",
+    lectureNo: 5,
+    question: "Thrips belong to order:",
+    options: ["Hemiptera", "Diptera", "Orthoptera", "Thysanoptera"],
+    correct: 3,
+    explanation: "Thrips belong to order Thysanoptera (fringe-winged insects). They are tiny insects with fringed wings."
+  },
+  {
+    id: "d131l_067",
+    subject: "da-131",
+    lecture: "lecture-5",
+    lectureNo: 5,
+    question: "The characteristic feature of Hemiptera is:",
+    options: ["Four membranous wings", "Hardened elytra in entomology", "Scaly wings in crop protection", "Piercing and sucking mouthparts with hemelytra"],
+    correct: 3,
+    explanation: "Hemiptera have piercing-sucking mouthparts and hemelytra (fore wings – basal half leathery, apical half membranous)."
+  },
+  {
+    id: "d131l_068",
+    subject: "da-131",
+    lecture: "lecture-5",
+    lectureNo: 5,
+    question: "Whiteflies belong to order:",
+    options: ["Thysanoptera", "Diptera", "Lepidoptera", "Hemiptera"],
+    correct: 3,
+    explanation: "Whiteflies (family Aleyrodidae) belong to order Hemiptera, sub-order Homoptera."
+  },
+  {
+    id: "d131l_069",
+    subject: "da-131",
+    lecture: "lecture-5",
+    lectureNo: 5,
+    question: "The mango weevil (Sternochetus mangiferae) belongs to order:",
+    options: ["Coleoptera", "Lepidoptera", "Diptera", "Hemiptera"],
+    correct: 0,
+    explanation: "Mango weevil is a beetle belonging to order Coleoptera, family Curculionidae."
+  },
+  {
+    id: "d131l_070",
+    subject: "da-131",
+    lecture: "lecture-5",
+    lectureNo: 5,
+    question: "Termites (white ants) belong to order:",
+    options: ["Hymenoptera", "Orthoptera", "Hemiptera", "Isoptera"],
+    correct: 3,
+    explanation: "Termites belong to order Isoptera (equal-winged). They live in colonies and are major wood/soil pests."
+  },
+  {
+    id: "d131l_071",
+    subject: "da-131",
+    lecture: "lecture-5",
+    lectureNo: 5,
+    question: "Blister beetles belong to order:",
+    options: ["Hemiptera", "Diptera", "Coleoptera", "Lepidoptera"],
+    correct: 2,
+    explanation: "Blister beetles (family Meloidae) belong to order Coleoptera. They secrete cantharidin causing skin blisters."
+  },
+  {
+    id: "d131l_072",
+    subject: "da-131",
+    lecture: "lecture-5",
+    lectureNo: 5,
+    question: "Distinguishing feature of order Orthoptera is:",
+    options: ["Hind legs modified for jumping", "Scales on wings", "Hemelytra in entomology", "Elytra in crop protection"],
+    correct: 0,
+    explanation: "Orthoptera (grasshoppers) have hind legs modified for jumping (saltatorial), with enlarged femora."
+  },
+  {
+    id: "d131l_073",
+    subject: "da-131",
+    lecture: "lecture-5",
+    lectureNo: 5,
+    question: "Aphids belong to order:",
+    options: ["Lepidoptera", "Diptera", "Coleoptera", "Hemiptera"],
+    correct: 3,
+    explanation: "Aphids (plant lice) belong to order Hemiptera, sub-order Homoptera. They suck plant sap."
+  },
+  {
+    id: "d131l_074",
+    subject: "da-131",
+    lecture: "lecture-5",
+    lectureNo: 5,
+    question: "Scale insects belong to order:",
+    options: ["Hemiptera", "Lepidoptera", "Coleoptera", "Diptera"],
+    correct: 0,
+    explanation: "Scale insects (mealybugs and soft/hard scales) belong to order Hemiptera, family Coccidae and Pseudococcidae."
+  },
+  {
+    id: "d131l_075",
+    subject: "da-131",
+    lecture: "lecture-5",
+    lectureNo: 5,
+    question: "The order Coleoptera gets its name from Greek words meaning:",
+    options: ["Beautiful wings", "Scaly wings", "Sheath wings", "Fringe wings"],
+    correct: 2,
+    explanation: "Coleoptera comes from Greek 'koleos' (sheath) + 'ptera' (wings), referring to hardened elytra covering hind wings."
+  },
+  {
+    id: "d131l_076",
+    subject: "da-131",
+    lecture: "lecture-6",
+    lectureNo: 6,
+    question: "Moths and butterflies belong to order:",
+    options: ["Lepidoptera", "Hymenoptera", "Coleoptera", "Diptera"],
+    correct: 0,
+    explanation: "Moths and butterflies belong to order Lepidoptera (scale-winged insects)."
+  },
+  {
+    id: "d131l_077",
+    subject: "da-131",
+    lecture: "lecture-6",
+    lectureNo: 6,
+    question: "Flies and mosquitoes belong to order:",
+    options: ["Hymenoptera", "Diptera", "Hemiptera", "Lepidoptera"],
+    correct: 1,
+    explanation: "Flies, mosquitoes, midges belong to order Diptera (two-winged insects). Hind wings are modified to halteres."
+  },
+  {
+    id: "d131l_078",
+    subject: "da-131",
+    lecture: "lecture-6",
+    lectureNo: 6,
+    question: "Bees, wasps and ants belong to order:",
+    options: ["Hymenoptera", "Diptera", "Lepidoptera", "Coleoptera"],
+    correct: 0,
+    explanation: "Bees, wasps and ants belong to order Hymenoptera (membrane-winged insects)."
+  },
+  {
+    id: "d131l_079",
+    subject: "da-131",
+    lecture: "lecture-6",
+    lectureNo: 6,
+    question: "The adult stage of Lepidoptera feeds through:",
+    options: ["Piercing and sucking", "Sponging", "Chewing mouthparts", "Coiled proboscis (siphoning)"],
+    correct: 3,
+    explanation: "Adult Lepidoptera have coiled siphoning mouthparts (proboscis) for sucking nectar. Larvae have chewing mouthparts."
+  },
+  {
+    id: "d131l_080",
+    subject: "da-131",
+    lecture: "lecture-6",
+    lectureNo: 6,
+    question: "The fruit fly (Bactrocera dorsalis) belongs to order:",
+    options: ["Lepidoptera", "Diptera", "Hemiptera", "Coleoptera"],
+    correct: 1,
+    explanation: "Fruit fly belongs to order Diptera, family Tephritidae."
+  },
+  {
+    id: "d131l_081",
+    subject: "da-131",
+    lecture: "lecture-6",
+    lectureNo: 6,
+    question: "Social insects among Hymenoptera include:",
+    options: ["Moths only", "Honeybees, wasps and ants", "Solitary bees only", "Sawflies only"],
+    correct: 1,
+    explanation: "Many Hymenoptera are social insects forming colonies – honeybees, bumblebees, wasps and ants."
+  },
+  {
+    id: "d131l_082",
+    subject: "da-131",
+    lecture: "lecture-6",
+    lectureNo: 6,
+    question: "The stinging organ in bees and wasps is a modified:",
+    options: ["Labium", "Antenna", "Ovipositor", "Spiracle"],
+    correct: 2,
+    explanation: "The sting of bees and wasps is a modified ovipositor used for defence, not egg-laying."
+  },
+  {
+    id: "d131l_083",
+    subject: "da-131",
+    lecture: "lecture-6",
+    lectureNo: 6,
+    question: "Trichogramma (an egg parasitoid) belongs to order:",
+    options: ["Hymenoptera", "Coleoptera", "Neuroptera", "Diptera"],
+    correct: 0,
+    explanation: "Trichogramma is a tiny wasp belonging to order Hymenoptera, used as a biocontrol agent against Lepidoptera eggs."
+  },
+  {
+    id: "d131l_084",
+    subject: "da-131",
+    lecture: "lecture-6",
+    lectureNo: 6,
+    question: "Which Lepidopteran larva is a major cotton pest?",
+    options: ["Plusia orichalcea", "Helicoverpa armigera", "Agrotis ipsilon", "Diamond back moth"],
+    correct: 1,
+    explanation: "Helicoverpa armigera (American bollworm) larva is a major polyphagous pest attacking cotton, chilli, chickpea, tomato."
+  },
+  {
+    id: "d131l_085",
+    subject: "da-131",
+    lecture: "lecture-6",
+    lectureNo: 6,
+    question: "Chrysoperla carnea (green lacewing) belongs to order:",
+    options: ["Diptera", "Neuroptera", "Hymenoptera", "Coleoptera"],
+    correct: 1,
+    explanation: "Green lacewing Chrysoperla carnea belongs to order Neuroptera. Its larvae are voracious predators of soft-bodied insects."
+  },
+  {
+    id: "d131l_086",
+    subject: "da-131",
+    lecture: "lecture-6",
+    lectureNo: 6,
+    question: "Sawflies (Hymenoptera) are pests because:",
+    options: ["Larvae feed on leaves like caterpillars", "Adults suck sap", "Adults bore into stems", "They transmit viruses"],
+    correct: 0,
+    explanation: "Sawfly larvae (false caterpillars) feed on leaves. They differ from true caterpillars by having more than 5 pairs of prolegs."
+  },
+  {
+    id: "d131l_087",
+    subject: "da-131",
+    lecture: "lecture-6",
+    lectureNo: 6,
+    question: "The stem fly (Agromyza phaseoli) on pulses belongs to order:",
+    options: ["Diptera", "Coleoptera", "Lepidoptera", "Hymenoptera"],
+    correct: 0,
+    explanation: "Stem flies belong to order Diptera, family Agromyzidae. The maggot mines into stems."
+  },
+  {
+    id: "d131l_088",
+    subject: "da-131",
+    lecture: "lecture-6",
+    lectureNo: 6,
+    question: "Distinguishing feature of butterflies from moths is:",
+    options: ["Clubbed antennae and diurnal habit", "Wing size", "Body colour", "Number of legs"],
+    correct: 0,
+    explanation: "Butterflies have clubbed (clavate) antennae and are active during daytime (diurnal). Moths have feathery/filiform antennae and are mostly nocturnal."
+  },
+  {
+    id: "d131l_089",
+    subject: "da-131",
+    lecture: "lecture-6",
+    lectureNo: 6,
+    question: "The wasp Cotesia flavipes is a parasitoid of:",
+    options: ["Rice stem borer (Chilo suppressalis)", "Sugarcane internode borer (Chilo sacchariphagus)", "Cotton bollworm", "Tomato fruit borer"],
+    correct: 1,
+    explanation: "Cotesia flavipes is a larval parasitoid of sugarcane internode borer, used in biological control of sugarcane pests."
+  },
+  {
+    id: "d131l_090",
+    subject: "da-131",
+    lecture: "lecture-6",
+    lectureNo: 6,
+    question: "The number of wings in order Diptera is:",
+    options: ["2 (only fore wings functional)", "0", "4 but fore wings are elytra", "4"],
+    correct: 0,
+    explanation: "Diptera have only one pair of functional wings (fore wings). Hind wings are reduced to halteres."
+  },
+  {
+    id: "d131l_091",
+    subject: "da-131",
+    lecture: "lecture-7",
+    lectureNo: 7,
+    question: "The Indian honeybee is:",
+    options: ["Apis florea", "Apis cerana indica", "Apis mellifera", "Apis dorsata"],
+    correct: 1,
+    explanation: "Apis cerana indica is the Indian (Asian) honeybee. Apis mellifera is the European honeybee introduced into India."
+  },
+  {
+    id: "d131l_092",
+    subject: "da-131",
+    lecture: "lecture-7",
+    lectureNo: 7,
+    question: "The scientific name of the cockroach commonly studied in entomology is:",
+    options: ["Kerria lacca", "Apis cerana indica", "Bombyx mori", "Periplaneta americana"],
+    correct: 3,
+    explanation: "The common cockroach is Periplaneta americana (order Blattodea, family Blattidae); it is an omnivorous, scavenging insect found all over the world."
+  },
+  {
+    id: "d131l_093",
+    subject: "da-131",
+    lecture: "lecture-7",
+    lectureNo: 7,
+    question: "The cockroach (Periplaneta americana) belongs to which order?",
+    options: ["Blattodea", "Hymenoptera", "Lepidoptera", "Coleoptera"],
+    correct: 0,
+    explanation: "Periplaneta americana belongs to the order Blattodea, family Blattidae, class Insecta."
+  },
+  {
+    id: "d131l_094",
+    subject: "da-131",
+    lecture: "lecture-7",
+    lectureNo: 7,
+    question: "The mouthparts of the cockroach are of which type?",
+    options: ["Siphoning type", "Biting and chewing type", "Sponging and sucking type", "Piercing and sucking type"],
+    correct: 1,
+    explanation: "The cockroach has 'biting and chewing' (mandibulate) mouthparts consisting of labrum, a pair of mandibles, a pair of maxillae, labium and hypopharynx."
+  },
+  {
+    id: "d131l_095",
+    subject: "da-131",
+    lecture: "lecture-7",
+    lectureNo: 7,
+    question: "The three segments of a cockroach antenna are:",
+    options: ["Labrum, mandible and maxilla", "Cardo, stipes and galea", "Scape, pedicel and flagellum", "Head, thorax and abdomen"],
+    correct: 2,
+    explanation: "Each antenna of the cockroach is formed of three segments - scape (largest), pedicel (narrow, elongated) and flagellum (long, slender, many-jointed) - and acts as a sense organ of touch and smell."
+  },
+  {
+    id: "d131l_096",
+    subject: "da-131",
+    lecture: "lecture-7",
+    lectureNo: 7,
+    question: "The head of the cockroach is bent downwards at 90° from the body axis. This position is called:",
+    options: ["Hyperthognathous", "Prognathous", "Opisthognathous", "Hypognathous"],
+    correct: 3,
+    explanation: "The cockroach head is bent downwards in a hypognathous position, i.e. at an angle of 90° from the long axis of the body."
+  },
+  {
+    id: "d131l_097",
+    subject: "da-131",
+    lecture: "lecture-7",
+    lectureNo: 7,
+    question: "The mandibles of the cockroach are attached to the head capsule by two joints known as:",
+    options: ["Ginglymus and condyle", "Cardo and stipes", "Galea and lacinia", "Scape and pedicel"],
+    correct: 0,
+    explanation: "The mandibles (the strongest, sclerotized jaws) are attached to the head capsule by two joints - the ginglymus and the condyle - and bear molars and incisors for cutting food."
+  },
+  {
+    id: "d131l_098",
+    subject: "da-131",
+    lecture: "lecture-7",
+    lectureNo: 7,
+    question: "Thrips (order Thysanoptera) have which type of mouthparts?",
+    options: ["Biting and chewing", "Rasping and sucking (right mandible absent)", "Siphoning", "Chewing and lapping"],
+    correct: 1,
+    explanation: "Thysanoptera (thrips) have asymmetrical, lacerating or rasping-and-sucking mouthparts in which the right mandible is absent."
+  },
+  {
+    id: "d131l_099",
+    subject: "da-131",
+    lecture: "lecture-7",
+    lectureNo: 7,
+    question: "Adult Lepidoptera (moths and butterflies) have which type of mouthparts?",
+    options: ["Piercing and sucking", "Biting and chewing", "Siphoning (long coiled proboscis)", "Sponging and sucking"],
+    correct: 2,
+    explanation: "Adult Lepidoptera have siphoning mouthparts - a long coiled proboscis formed by the galeae of the maxillae - used for sucking nectar."
+  },
+  {
+    id: "d131l_100",
+    subject: "da-131",
+    lecture: "lecture-7",
+    lectureNo: 7,
+    question: "Insects of the order Hemiptera (bugs) typically have which type of mouthparts?",
+    options: ["Sponging and sucking", "Biting and chewing", "Siphoning", "Piercing and sucking"],
+    correct: 3,
+    explanation: "Hemiptera (Heteroptera and Homoptera) have piercing-and-sucking mouthparts, with the rostrum/beak used to suck plant sap or blood from the host."
+  },
+  {
+    id: "d131l_101",
+    subject: "da-131",
+    lecture: "lecture-7",
+    lectureNo: 7,
+    question: "The house fly (order Diptera) has which type of mouthparts?",
+    options: ["Sponging and sucking", "Biting and chewing", "Siphoning", "Chewing and lapping"],
+    correct: 0,
+    explanation: "House flies have sponging-and-sucking mouthparts, whereas mosquitoes (also Diptera) have piercing-and-sucking mouthparts."
+  },
+  {
+    id: "d131l_102",
+    subject: "da-131",
+    lecture: "lecture-7",
+    lectureNo: 7,
+    question: "The honeybee (order Hymenoptera) has which type of mouthparts?",
+    options: ["Siphoning", "Chewing and lapping", "Piercing and sucking", "Rasping and sucking"],
+    correct: 1,
+    explanation: "Hymenoptera such as bees have mouthparts that are either chewing type or chewing-and-lapping type (for taking nectar)."
+  },
+  {
+    id: "d131l_103",
+    subject: "da-131",
+    lecture: "lecture-7",
+    lectureNo: 7,
+    question: "The body of the cockroach is divided into three regions (tagmata), namely:",
+    options: ["Labrum, clypeus and frons", "Scape, pedicel and flagellum", "Head, thorax and abdomen", "Cardo, stipes and palpifer"],
+    correct: 2,
+    explanation: "The cockroach body shows three tagmata - the head, thorax and abdomen."
+  },
+  {
+    id: "d131l_104",
+    subject: "da-131",
+    lecture: "lecture-7",
+    lectureNo: 7,
+    question: "Embryologically, the cockroach body is formed of how many segments?",
+    options: ["13 segments", "10 segments", "30 segments", "20 segments (6 head + 3 thorax + 11 abdomen)"],
+    correct: 3,
+    explanation: "Embryologically the cockroach body is formed of 20 segments: the first 6 form the head, the next 3 the thorax and the remaining 11 the abdomen (only 10 retained in the adult)."
+  },
+  {
+    id: "d131l_105",
+    subject: "da-131",
+    lecture: "lecture-7",
+    lectureNo: 7,
+    question: "The small sclerite that forms the upper lip of the mouth cavity in insects is the:",
+    options: ["Labrum", "Labium", "Clypeus", "Hypopharynx"],
+    correct: 0,
+    explanation: "The labrum is a small sclerite forming the upper lip of the mouth cavity; it protects the mandibles and guides food into the mouth. The labium forms the lower lip."
+  },
+  {
+    id: "d131l_106",
+    subject: "da-131",
+    lecture: "lecture-8",
+    lectureNo: 8,
+    question: "Economic Threshold Level (ETL) is defined as the pest density at which:",
+    options: ["Crop is completely destroyed in entomology", "Control measures should be initiated to prevent reaching EIL", "All natural enemies are eliminated in crop protection", "No damage occurs for field crops"],
+    correct: 1,
+    explanation: "ETL is the pest density at which control action must be started to prevent the population from reaching Economic Injury Level (EIL)."
+  },
+  {
+    id: "d131l_107",
+    subject: "da-131",
+    lecture: "lecture-8",
+    lectureNo: 8,
+    question: "Economic Injury Level (EIL) is:",
+    options: ["Population level after which control is impossible", "Lowest pest density that causes economic damage justifying control cost", "Population level causing 100% damage in entomology", "Population at which all crops fail in crop protection"],
+    correct: 1,
+    explanation: "EIL is the pest population level at which the value of crop damage equals the cost of control measures."
+  },
+  {
+    id: "d131l_108",
+    subject: "da-131",
+    lecture: "lecture-8",
+    lectureNo: 8,
+    question: "Insect larvae that feed on leaves completely, leaving only the veins, are called:",
+    options: ["Leaf miners", "Defoliators / skeletonizers", "Gall makers", "Root feeders"],
+    correct: 1,
+    explanation: "Defoliators/skeletonizers are larvae that feed on the leaves completely, leaving only the veins (skeleton) of the leaf."
+  },
+  {
+    id: "d131l_109",
+    subject: "da-131",
+    lecture: "lecture-8",
+    lectureNo: 8,
+    question: "Leaf miners cause damage by:",
+    options: ["Sucking sap from roots", "Boring into the stem", "Mining the leaf and feeding between the epidermal layers", "Forming galls on flower buds"],
+    correct: 2,
+    explanation: "Leaf miners mine leaves/leaflets between the epidermal layers and feed on the green tissue, forming galleries; examples include leaf miners of citrus, cashew and rice hispa."
+  },
+  {
+    id: "d131l_110",
+    subject: "da-131",
+    lecture: "lecture-8",
+    lectureNo: 8,
+    question: "The rice gall midge (Orseolia oryzae) damages the crop by:",
+    options: ["Sucking sap from grains", "Defoliating the leaves", "Cutting seedlings at ground level", "Stimulating excessive growth and forming galls (silver shoots)"],
+    correct: 3,
+    explanation: "Gall makers like the rice gall midge (Orseolia oryzae) feed inside the stem/tiller/leaf bud, stimulating excessive growth that forms a gall (silver shoot) sheltering the pest."
+  },
+  {
+    id: "d131l_111",
+    subject: "da-131",
+    lecture: "lecture-8",
+    lectureNo: 8,
+    question: "Microbial control of insects uses which organisms to infect pests?",
+    options: ["Viruses, bacteria and fungi", "Only chemical insecticides", "Only weeds", "Only earthworms"],
+    correct: 0,
+    explanation: "Some viruses, bacteria and fungi can infect and kill insects; using them, along with predators and parasites, forms the basis of biological/microbial control."
+  },
+  {
+    id: "d131l_112",
+    subject: "da-131",
+    lecture: "lecture-8",
+    lectureNo: 8,
+    question: "Natural enemies that catch and feed on other insects (prey) are called:",
+    options: ["Parasites", "Predators", "Hosts", "Vectors"],
+    correct: 1,
+    explanation: "Predators are natural enemies that catch and feed on other insects (their prey); parasites/parasitoids develop in or on the host insect. Both are used as bio-agents."
+  },
+  {
+    id: "d131l_113",
+    subject: "da-131",
+    lecture: "lecture-8",
+    lectureNo: 8,
+    question: "Proper preparatory cultivation helps control pests by:",
+    options: ["Increasing weed cover", "Adding nitrogen to the soil", "Exposing pests to the sun and to predators like birds", "Raising soil moisture"],
+    correct: 2,
+    explanation: "In cultural control, proper preparatory cultivation exposes soil-inhabiting pests to the sun and to predators such as birds, reducing pest damage to crops."
+  },
+  {
+    id: "d131l_114",
+    subject: "da-131",
+    lecture: "lecture-8",
+    lectureNo: 8,
+    question: "Integrated control (IPM) was defined by Stern et al. (1959) as applied pest control that combines:",
+    options: ["Only legislative control", "Only chemical control", "Only mechanical control", "Biological and chemical control"],
+    correct: 3,
+    explanation: "Stern et al. (1959) defined integrated control as applied pest control that combines and integrates biological and chemical control; modern IPM is based on ecological principles."
+  },
+  {
+    id: "d131l_115",
+    subject: "da-131",
+    lecture: "lecture-8",
+    lectureNo: 8,
+    question: "In sap-sucking insects, the mouthparts are modified into a structure called the:",
+    options: ["Rostrum / beak", "Proboscis (coiled)", "Galea", "Ovipositor"],
+    correct: 0,
+    explanation: "In piercing-and-sucking insects (e.g. Hemiptera), the mouthparts are represented by a rostrum/beak, a modification used to suck sap or blood from the host."
+  },
+  {
+    id: "d131l_116",
+    subject: "da-131",
+    lecture: "lecture-9",
+    lectureNo: 9,
+    question: "Organochlorine insecticides act by:",
+    options: ["Blocking nicotinic receptors", "Disrupting nerve impulse transmission (sodium channel)", "Inhibiting acetylcholinesterase in entomology", "Inhibiting chitin synthesis"],
+    correct: 1,
+    explanation: "Organochlorines (DDT, BHC) disrupt sodium channel function in nerve cells, causing hyperexcitability and death."
+  },
+  {
+    id: "d131l_117",
+    subject: "da-131",
+    lecture: "lecture-9",
+    lectureNo: 9,
+    question: "Organophosphate insecticides act by:",
+    options: ["Blocking sodium channels", "Blocking GABA receptors", "Inhibiting chitin synthesis", "Inhibiting acetylcholinesterase enzyme"],
+    correct: 3,
+    explanation: "Organophosphates (chlorpyrifos, monocrotophos) inhibit acetylcholinesterase, causing accumulation of acetylcholine and continuous nerve stimulation."
+  },
+  {
+    id: "d131l_118",
+    subject: "da-131",
+    lecture: "lecture-9",
+    lectureNo: 9,
+    question: "WP formulation of pesticide stands for:",
+    options: ["Wettable Powder", "Water Proof", "Wet Pellet", "Water Penetrant"],
+    correct: 0,
+    explanation: "WP = Wettable Powder. It is mixed with water to form a spray suspension."
+  },
+  {
+    id: "d131l_119",
+    subject: "da-131",
+    lecture: "lecture-9",
+    lectureNo: 9,
+    question: "EC formulation of pesticide stands for:",
+    options: ["Encapsulated Compound", "Enriched Crystal", "Effective Chemical", "Emulsifiable Concentrate"],
+    correct: 3,
+    explanation: "EC = Emulsifiable Concentrate. The active ingredient is dissolved in organic solvent with emulsifier, diluted with water before use."
+  },
+  {
+    id: "d131l_120",
+    subject: "da-131",
+    lecture: "lecture-9",
+    lectureNo: 9,
+    question: "Neonicotinoid insecticides (e.g., imidacloprid) act on:",
+    options: ["GABA receptors", "Acetylcholinesterase", "Nicotinic acetylcholine receptors", "Sodium channels"],
+    correct: 2,
+    explanation: "Neonicotinoids act on nicotinic acetylcholine receptors in the insect central nervous system, causing overstimulation and death."
+  },
+  {
+    id: "d131l_121",
+    subject: "da-131",
+    lecture: "lecture-9",
+    lectureNo: 9,
+    question: "The LD50 of a pesticide refers to:",
+    options: ["Effective dose for crop protection", "Lethal dose killing 100% of test organisms", "Dose killing 50% of test population", "Maximum residue limit"],
+    correct: 2,
+    explanation: "LD50 (Lethal Dose 50) is the dose of pesticide that kills 50% of a test population. Lower LD50 = more toxic."
+  },
+  {
+    id: "d131l_122",
+    subject: "da-131",
+    lecture: "lecture-9",
+    lectureNo: 9,
+    question: "GR formulation (Granule) is applied by:",
+    options: ["Dusting from air", "Broadcasting or incorporation into soil", "Spraying with water", "Dipping of seeds"],
+    correct: 1,
+    explanation: "Granule (GR) formulations are applied by broadcasting in soil or between rows. They are used for soil insects and rootworms."
+  },
+  {
+    id: "d131l_123",
+    subject: "da-131",
+    lecture: "lecture-9",
+    lectureNo: 9,
+    question: "Pyrethroid insecticides are derived from:",
+    options: ["Rotenone plant", "Tobacco", "Neem", "Chrysanthemum flowers"],
+    correct: 3,
+    explanation: "Pyrethroids are synthetic versions of pyrethrins, natural insecticides found in Chrysanthemum (Tanacetum cinerariaefolium) flowers."
+  },
+  {
+    id: "d131l_124",
+    subject: "da-131",
+    lecture: "lecture-9",
+    lectureNo: 9,
+    question: "Which of the following is a systemic insecticide?",
+    options: ["Pyrethrin", "DDT", "Imidacloprid", "BHC"],
+    correct: 2,
+    explanation: "Imidacloprid is a systemic insecticide absorbed by the plant and translocated to all parts, killing sucking pests."
+  },
+  {
+    id: "d131l_125",
+    subject: "da-131",
+    lecture: "lecture-9",
+    lectureNo: 9,
+    question: "Contact poison insecticide kills the insect when:",
+    options: ["It contaminates water source", "It enters through breathing", "It is eaten", "The insecticide touches insect body"],
+    correct: 3,
+    explanation: "Contact poisons kill insects upon physical contact with their body surface (cuticle)."
+  },
+  {
+    id: "d131l_126",
+    subject: "da-131",
+    lecture: "lecture-10",
+    lectureNo: 10,
+    question: "Integrated Pest Management (IPM) is defined as a pest management system that:",
+    options: ["Uses only chemical pesticides as per entomology and crop pest management principles", "Combines all suitable pest management tactics to keep pest populations below EIL", "Uses no pesticides at all for field crops", "Relies only on biological control in crop protection"],
+    correct: 1,
+    explanation: "IPM combines cultural, biological, mechanical and chemical methods in a compatible manner to keep pest populations below EIL with minimum environmental impact."
+  },
+  {
+    id: "d131l_127",
+    subject: "da-131",
+    lecture: "lecture-10",
+    lectureNo: 10,
+    question: "Crop rotation is a ________ method of pest control:",
+    options: ["Chemical", "Biological", "Cultural", "Mechanical"],
+    correct: 2,
+    explanation: "Crop rotation is a cultural control method that disrupts pest life cycles by changing the host plant."
+  },
+  {
+    id: "d131l_128",
+    subject: "da-131",
+    lecture: "lecture-10",
+    lectureNo: 10,
+    question: "Light trap is a ________ method of pest management:",
+    options: ["Mechanical/Physical", "Biological", "Chemical", "Cultural"],
+    correct: 0,
+    explanation: "Light traps attract and kill night-flying insects using light. It is a mechanical/physical control method."
+  },
+  {
+    id: "d131l_129",
+    subject: "da-131",
+    lecture: "lecture-10",
+    lectureNo: 10,
+    question: "The use of pheromone traps in pest management is an example of:",
+    options: ["Biological control", "Mechanical control", "Behavioural/monitoring control", "Chemical control"],
+    correct: 2,
+    explanation: "Pheromone traps use sex attractants to trap male insects. They are used for monitoring and mass trapping (behavioural control)."
+  },
+  {
+    id: "d131l_130",
+    subject: "da-131",
+    lecture: "lecture-10",
+    lectureNo: 10,
+    question: "Sterile Insect Technique (SIT) is used to control pests by:",
+    options: ["Releasing sterile females as per entomology and crop pest management principles", "Releasing sterile males to mate with wild females producing no offspring", "Applying sterile pesticides as per entomology and crop pest management principles", "Using sterile soil as per entomology and crop pest management principles"],
+    correct: 1,
+    explanation: "SIT involves mass-rearing, sterilising (by radiation) and releasing male insects. When they mate with wild females, no offspring are produced."
+  },
+  {
+    id: "d131l_131",
+    subject: "da-131",
+    lecture: "lecture-10",
+    lectureNo: 10,
+    question: "A parasitoid differs from a parasite in that:",
+    options: ["It never harms the host", "It lives on the host surface only", "It is larger than the host", "It eventually kills the host"],
+    correct: 3,
+    explanation: "Parasitoids (like Trichogramma) lay eggs in/on host and larvae develop by consuming the host, eventually killing it."
+  },
+  {
+    id: "d131l_132",
+    subject: "da-131",
+    lecture: "lecture-10",
+    lectureNo: 10,
+    question: "The use of resistant crop varieties is a ________ method of pest control:",
+    options: ["Biological", "Chemical", "Cultural/Host plant resistance", "Mechanical"],
+    correct: 2,
+    explanation: "Use of resistant varieties is a host plant resistance method under cultural control, providing non-preference, antibiosis or tolerance."
+  },
+  {
+    id: "d131l_133",
+    subject: "da-131",
+    lecture: "lecture-10",
+    lectureNo: 10,
+    question: "Which cultural practice helps in reducing stem borer damage in rice?",
+    options: ["Skip row sowing", "Clipping tips of seedlings during transplanting", "Flood irrigation in crop protection", "Broadcasting seeds in entomology"],
+    correct: 1,
+    explanation: "Clipping the tips of seedlings during transplanting removes eggs of stem borers laid on leaf tips, reducing early infestation."
+  },
+  {
+    id: "d131l_134",
+    subject: "da-131",
+    lecture: "lecture-10",
+    lectureNo: 10,
+    question: "Deep summer ploughing helps in pest management by:",
+    options: ["Exposing soil-dwelling pests, pupae and eggs to sun and predatory birds", "Improving water retention as per entomology and crop pest management principles", "Reducing weeds only as per entomology and crop pest management principles", "Improving soil fertility as per entomology and crop pest management principles"],
+    correct: 0,
+    explanation: "Deep summer ploughing exposes pupae, eggs and larvae of soil-dwelling pests to desiccation, extreme temperature and predators."
+  },
+  {
+    id: "d131l_135",
+    subject: "da-131",
+    lecture: "lecture-10",
+    lectureNo: 10,
+    question: "In IPM, the 'last resort' method is:",
+    options: ["Physical control", "Chemical control", "Cultural control", "Biological control"],
+    correct: 1,
+    explanation: "In IPM, chemical control using pesticides is considered the last resort, applied only when pest population exceeds ETL."
+  },
   {
     id: "d131x_001",
     subject: "da-131",
@@ -1787,5 +2451,5 @@ export const da131LectureQuestions: Question[] = [
     options: ["Propodaeum", "Telson", "Pleuron", "Notum"],
     correct: 1,
     explanation: "As per DA-131 notes: The last segment of the abdomen is known as the telson or tail, as in the case of Protura."
-  }
+  },
 ];

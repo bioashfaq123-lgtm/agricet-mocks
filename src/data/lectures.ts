@@ -92,8 +92,8 @@ export const DA131_LECTURES: Lecture[] = [
   lec("da-131", 4, "Life Cycles & Metamorphosis", "Complete metamorphosis (holometabola), incomplete (hemimetabola), ametabola, egg, larva, pupa, adult"),
   lec("da-131", 5, "Major Insect Orders – I", "Orthoptera (grasshopper), Hemiptera (bugs), Coleoptera (beetles), Thysanoptera (thrips)"),
   lec("da-131", 6, "Major Insect Orders – II", "Lepidoptera (moths, butterflies), Diptera (flies), Hymenoptera (bees, wasps, ants)"),
-  lec("da-131", 7, "Beneficial Insects", "Honeybee – castes and products; Silkworm – bombyx mori; Lac insect – Kerria lacca"),
-  lec("da-131", 8, "Insect Ecology & Population Dynamics", "Biotic potential, environmental resistance, population curves, pest status, economic threshold"),
+  lec("da-131", 7, "Insect Mouthparts & Cockroach Morphology", "Cockroach (Periplaneta) external characters; mouthpart types – biting/chewing, piercing-sucking, siphoning, sponging, rasping"),
+  lec("da-131", 8, "Insect Damage & Biological Control", "Types of insect injuries (defoliators, leaf miners, gall makers), parasitoids, predators, microbial control, IPM concept"),
   lec("da-131", 9, "Pesticides – Classification & Formulations", "Insecticides, fungicides, herbicides, formulations, mode of entry, toxicity"),
   lec("da-131", 10, "Pest Management Methods", "Cultural, mechanical, biological, chemical, IPM concept, ETL, EIL"),
 ];
