@@ -2,17 +2,15 @@
 import { Question } from "@/types";
 
 export const da281LectureQuestions: Question[] = [
-
-  // ── Lecture 1: Forest Types in India ──────────────────────────────────────
   {
     id: "d281l_001",
     subject: "da-281",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "Champion and Seth (1968) classified the forests of India into how many major forest types?",
-    options: ["10 major types", "5 major types", "16 major types", "8 major types"],
-    correct: 2,
-    explanation: "Champion and Seth (1968) classified Indian forests into 16 major forest types and 221 minor types based on climate, soil and vegetation."
+    question: "The branch of forestry dealing with the description, classification and identification of tree species is:",
+    options: ["Wood technology", "Mensuration", "Silviculture", "Dendrology"],
+    correct: 3,
+    explanation: "Dendrology is the study of description, classification and identification of various tree species."
   },
   {
     id: "d281l_002",
@@ -39,10 +37,10 @@ export const da281LectureQuestions: Question[] = [
     subject: "da-281",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "What percentage of India's total geographical area is covered by forests as per ISFR 2021?",
-    options: ["21.71%", "17.33%", "19.05%", "24.56%"],
-    correct: 0,
-    explanation: "According to the India State of Forest Report (ISFR) 2021, forest and tree cover together constitute 24.62% but forest cover alone is 21.71% of India's geographical area."
+    question: "The National Forest Policy 1988 aims to bring what fraction of land area under forest/tree cover?",
+    options: ["One-fifth", "One-third (33⅓%)", "Two-thirds", "One-tenth"],
+    correct: 1,
+    explanation: "As enunciated in the National Forest Policy 1988, the goal is to have one-third (33⅓%) of the country's land area under forest/tree cover."
   },
   {
     id: "d281l_005",
@@ -59,10 +57,10 @@ export const da281LectureQuestions: Question[] = [
     subject: "da-281",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "What is the total forest area of Telangana state?",
-    options: ["31,560 sq km", "18,240 sq km", "26,274 sq km", "22,800 sq km"],
+    question: "The forest area of Telangana state is approximately:",
+    options: ["75,000 sq km", "5,000 sq km", "28,854 sq km (about 25% of the state)", "1,12,077 sq km"],
     correct: 2,
-    explanation: "Telangana state has a total forest area of about 26,274 sq km, which is approximately 23.7% of the state's geographical area."
+    explanation: "Telangana has a geographical area of 1,12,077 sq km, of which the forest area is about 28,854 sq km, covering around 25.11% of the state's geographical area."
   },
   {
     id: "d281l_007",
@@ -119,20 +117,20 @@ export const da281LectureQuestions: Question[] = [
     subject: "da-281",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "Which type of forest is called 'Jungle' in the Champion & Seth classification?",
-    options: ["Tropical thorn", "Tropical moist deciduous", "Tropical dry deciduous", "Tropical wet evergreen"],
-    correct: 2,
-    explanation: "In the Champion & Seth classification, tropical dry deciduous forests are commonly referred to as 'Jungle' type forests due to their open scrubby nature."
+    question: "Forest mensuration is concerned with:",
+    options: ["Control of forest fires", "Identification of tree species", "Marketing of timber", "Measurement of forest produce"],
+    correct: 3,
+    explanation: "Forest mensuration deals with the measurement of forest produce such as the volume, girth, height and increment of trees and stands."
   },
   {
     id: "d281l_013",
     subject: "da-281",
     lecture: "lecture-1",
     lectureNo: 1,
-    question: "Alpine forests in India are found above the tree line at altitudes more than:",
-    options: ["3000 m", "3500 m", "4000 m", "2500 m"],
+    question: "The pole stage in the growth of a tree extends from:",
+    options: ["Germination to 1 m height", "Flowering to crown expansion", "Seed to germination", "Full maturity to death"],
     correct: 1,
-    explanation: "Alpine forests/vegetation in India is found above 3500 m altitude, beyond the tree line. They consist mainly of dwarf shrubs, mosses and lichens."
+    explanation: "The growth stages of a tree are seedling (germination to 1 m), sapling, pole (flowering to crown expansion) and tree."
   },
   {
     id: "d281l_014",
@@ -164,8 +162,6 @@ export const da281LectureQuestions: Question[] = [
     correct: 3,
     explanation: "Tropical semi-evergreen forests are transitional between tropical wet evergreen and tropical moist deciduous forests, occurring where rainfall is 150–200 cm."
   },
-
-  // ── Lecture 2: Silviculture ────────────────────────────────────────────────
   {
     id: "d281l_017",
     subject: "da-281",
@@ -326,8 +322,6 @@ export const da281LectureQuestions: Question[] = [
     correct: 1,
     explanation: "The onset of monsoon (June–July) is the ideal time for transplanting forest seedlings as adequate soil moisture reduces transplanting stress and supports establishment."
   },
-
-  // ── Lecture 3: Agroforestry ────────────────────────────────────────────────
   {
     id: "d281l_033",
     subject: "da-281",
@@ -383,10 +377,10 @@ export const da281LectureQuestions: Question[] = [
     subject: "da-281",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "The ICRAF definition of agroforestry includes which key components?",
-    options: ["Natural forest management for agriculture", "Trees with crops only on arable land", "Growing trees in blocks separate from farmland", "Deliberate integration of trees/shrubs with crops and/or animals"],
-    correct: 3,
-    explanation: "ICRAF (World Agroforestry Centre) defines agroforestry as a collective name for land-use systems involving deliberate integration of woody perennials with crops and/or animals on the same land."
+    question: "Agroforestry, as a land-use system, integrates crops, forest plants and:",
+    options: ["Only fish ponds", "Only ornamental flowers", "Animals/livestock on the same unit of land", "Only mushrooms"],
+    correct: 2,
+    explanation: "Agroforestry is a sustainable land-management system that combines the production of crops (including tree crops), forest plants and/or animals simultaneously or sequentially on the same unit of land."
   },
   {
     id: "d281l_039",
@@ -488,8 +482,6 @@ export const da281LectureQuestions: Question[] = [
     correct: 3,
     explanation: "In the semi-arid regions of Rajasthan, silvopastoral systems with Acacia species (Khejri – Prosopis cineraria) and drought-resistant grasses are most common and traditional."
   },
-
-  // ── Lecture 4: Timber & Multipurpose Trees ────────────────────────────────
   {
     id: "d281l_049",
     subject: "da-281",
@@ -650,17 +642,15 @@ export const da281LectureQuestions: Question[] = [
     correct: 3,
     explanation: "Heartwood is the inner, older part of the stem where cells are dead, filled with resins, tannins and oils making it harder, darker, more durable and more valuable than the outer sapwood."
   },
-
-  // ── Lecture 5: Social Forestry & JFM ──────────────────────────────────────
   {
     id: "d281l_065",
     subject: "da-281",
     lecture: "lecture-5",
     lectureNo: 5,
-    question: "Van Panchayats for community forest management were first established in which state?",
-    options: ["Madhya Pradesh", "Uttarakhand (formerly Uttar Pradesh hills)", "Himachal Pradesh", "Rajasthan in horticultural practices"],
-    correct: 1,
-    explanation: "Van Panchayats were established in the hill districts of Uttarakhand (then UP) under the UP Panchayat Forest Rules 1931. They are among the earliest community forest management systems in India."
+    question: "Which trees are highly suitable for raising windbreaks and shelterbelts?",
+    options: ["Only roses", "Only banana and papaya", "Only rice and wheat", "Eucalyptus, Sesbania and Parkinsonia"],
+    correct: 3,
+    explanation: "Eucalyptus, Sesbania and Parkinsonia aculeata are highly suitable for windbreaks and shelterbelts, which reduce wind speed and wind erosion."
   },
   {
     id: "d281l_066",
@@ -677,40 +667,40 @@ export const da281LectureQuestions: Question[] = [
     subject: "da-281",
     lecture: "lecture-5",
     lectureNo: 5,
-    question: "Joint Forest Management (JFM) in India was formally launched following the Government of India circular in:",
-    options: ["1980", "1988", "1996", "1990"],
-    correct: 3,
-    explanation: "Joint Forest Management was formally launched through a Government of India circular in 1990, providing a framework for states to involve local communities in forest protection and management."
+    question: "The Taungya system, an early agroforestry method, was first evolved in:",
+    options: ["Australia", "Burma (Myanmar)", "Brazil", "Canada"],
+    correct: 1,
+    explanation: "The Taungya system - a modification of shifting cultivation in which trees are grown along with agricultural crops - was first evolved in Burma."
   },
   {
     id: "d281l_068",
     subject: "da-281",
     lecture: "lecture-5",
     lectureNo: 5,
-    question: "The Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act was passed in the year:",
-    options: ["2002", "2006", "2010", "1996"],
-    correct: 1,
-    explanation: "The Forest Rights Act was passed in 2006 (came into effect 2008). It recognizes the rights of tribal and traditional forest-dwelling communities over forest land and resources."
+    question: "Shifting cultivation involves clearing forest, burning the felled material, cropping and then:",
+    options: ["Immediate re-cropping forever", "Permanent abandonment", "A fallow period (about 8-10 years)", "Flooding the land"],
+    correct: 2,
+    explanation: "In shifting cultivation, forest is cleared and burnt, crops are raised for one or more years, followed by a fallow period (8-10 years) during which forest trees rejuvenate the soil."
   },
   {
     id: "d281l_069",
     subject: "da-281",
     lecture: "lecture-5",
     lectureNo: 5,
-    question: "Vana Samrakshana Samithis (VSS) are village-level committees established in Telangana for:",
-    options: ["Supervising social welfare schemes", "Managing water user associations", "Organizing agricultural extension programmes", "Joint forest management and protection of forests"],
+    question: "Vanamahotsavam is a programme aimed at:",
+    options: ["Construction of dams", "Hunting of wild animals", "Harvesting of timber", "Mass tree planting to increase forest/tree cover"],
     correct: 3,
-    explanation: "Vana Samrakshana Samithis (VSS) are village-level forest protection committees in Telangana (and AP) established under Joint Forest Management for community participation in forest protection."
+    explanation: "Vanamahotsavam is the 'festival of trees' - a programme of mass tree planting to increase forest and tree cover."
   },
   {
     id: "d281l_070",
     subject: "da-281",
     lecture: "lecture-5",
     lectureNo: 5,
-    question: "Under the Forest Rights Act 2006, the minimum land that can be recognized as individual forest rights is up to:",
-    options: ["6 hectares", "4 hectares", "10 hectares", "2 hectares"],
+    question: "An agroforestry system that combines trees with pasture/livestock is called:",
+    options: ["Agrisilviculture", "Silvopastoral system", "Mono-cropping", "Hydroponics"],
     correct: 1,
-    explanation: "The Forest Rights Act 2006 recognizes individual forest rights for up to 4 hectares of forest land per nuclear family that has been cultivating it for at least three generations (75 years)."
+    explanation: "A silvopastoral system combines forest trees with pasture and livestock; agrisilviculture combines trees with agricultural crops."
   },
   {
     id: "d281l_071",
@@ -727,10 +717,10 @@ export const da281LectureQuestions: Question[] = [
     subject: "da-281",
     lecture: "lecture-5",
     lectureNo: 5,
-    question: "Under Joint Forest Management, what share of forest produce does the Village Forest Committee (VFC) typically receive?",
-    options: ["25%", "75%", "40%", "50%"],
-    correct: 3,
-    explanation: "Under most state JFM policies, the Village Forest Committee/Protection Committee receives 50% of the net proceeds from sale of forest produce from the protected area."
+    question: "A two-tier fruit-cum-fodder based agroforestry model is called:",
+    options: ["Taungya", "Agrisilviculture", "Horti-pastoral system", "Shifting cultivation"],
+    correct: 2,
+    explanation: "The horti-pastoral system is a two-tier model for fruit-cum-fodder based agroforestry (fruit trees with fodder/pasture beneath)."
   },
   {
     id: "d281l_073",
@@ -747,20 +737,20 @@ export const da281LectureQuestions: Question[] = [
     subject: "da-281",
     lecture: "lecture-5",
     lectureNo: 5,
-    question: "Which ministry administers the Forest Rights Act 2006 in India?",
-    options: ["Ministry of Tribal Affairs", "Ministry of Agriculture", "Ministry of Environment, Forest & Climate Change", "Ministry of Rural Development"],
-    correct: 0,
-    explanation: "The Ministry of Tribal Affairs administers the Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006."
+    question: "Windbreaks and shelterbelts are planted mainly to:",
+    options: ["Raise groundwater pollution", "Increase soil salinity", "Block all sunlight", "Reduce wind speed and wind erosion"],
+    correct: 3,
+    explanation: "Windbreaks and shelterbelts (e.g. of Eucalyptus, Sesbania, Parkinsonia) are planted mainly to reduce wind speed, protect crops and control wind erosion."
   },
   {
     id: "d281l_075",
     subject: "da-281",
     lecture: "lecture-5",
     lectureNo: 5,
-    question: "Community forest rights under the Forest Rights Act 2006 recognize tribal rights to:",
-    options: ["Sell timber commercially in horticultural practices", "Collect and use minor forest produce from community forests", "Individual ownership of forest land for vegetable cultivation", "Convert forest land to agricultural land"],
+    question: "Energy plantations are raised mainly to produce:",
+    options: ["Food grains", "Fuel wood / firewood", "Cut flowers", "Medicinal tablets"],
     correct: 1,
-    explanation: "Community forest rights recognize the rights of forest-dwelling communities to collect, use and dispose of minor forest produce, protect and manage community forest resources."
+    explanation: "Energy plantations are raised on waste/marginal lands mainly to produce fuel wood and firewood."
   },
   {
     id: "d281l_076",
@@ -777,20 +767,20 @@ export const da281LectureQuestions: Question[] = [
     subject: "da-281",
     lecture: "lecture-5",
     lectureNo: 5,
-    question: "The Chipko movement in India was related to:",
-    options: ["Anti-poaching campaign in tiger reserves", "Protest against deforestation in the Himalayas", "Tribal forest rights movement", "Social forestry plantation drive"],
-    correct: 1,
-    explanation: "The Chipko movement (1973) started in Uttarakhand where women hugged trees (chipko means hug) to prevent their felling by contractors, highlighting community forest rights and conservation."
+    question: "Agrisilviculture is an agroforestry system that combines:",
+    options: ["Only livestock with pasture", "Only trees with fish", "Agricultural crops with forest trees", "Only flowers with vegetables"],
+    correct: 2,
+    explanation: "Agrisilviculture combines agricultural crops with forest/multipurpose trees on the same land."
   },
   {
     id: "d281l_078",
     subject: "da-281",
     lecture: "lecture-5",
     lectureNo: 5,
-    question: "Under the Forest Rights Act, the Gram Sabha has the power to:",
-    options: ["Only review but not approve forest rights claims", "Refer all claims to district collector for decision", "Approve commercial timber extraction", "Grant or reject claims for individual forest rights"],
+    question: "Farm forestry is the raising of trees:",
+    options: ["Only in cities", "Only inside reserved forests", "Only on river beds", "On farmers' own (private) lands"],
     correct: 3,
-    explanation: "Under the Forest Rights Act 2006, the Gram Sabha has the power to initiate the process of determining individual and community forest rights and to receive, verify and approve/reject claims."
+    explanation: "Farm forestry is the practice of raising trees on farmers' own/private agricultural lands; it may be commercial or non-commercial."
   },
   {
     id: "d281l_079",
@@ -812,8 +802,6 @@ export const da281LectureQuestions: Question[] = [
     correct: 0,
     explanation: "Jim Corbett National Park in Uttarakhand was where the first Tiger Reserve was established in 1973 under Project Tiger, launched by Indira Gandhi."
   },
-
-  // ── Lecture 6: Medicinal Plants I ─────────────────────────────────────────
   {
     id: "d281l_081",
     subject: "da-281",
@@ -839,10 +827,10 @@ export const da281LectureQuestions: Question[] = [
     subject: "da-281",
     lecture: "lecture-6",
     lectureNo: 6,
-    question: "Brahmi (Bacopa monnieri) is mainly used in Ayurveda as:",
-    options: ["Antimalarial drug", "Anti-diabetic herb", "Diuretic and kidney tonic", "Brain tonic and memory enhancer"],
-    correct: 3,
-    explanation: "Brahmi (Bacopa monnieri) is primarily used as a brain tonic, memory enhancer and anti-anxiety herb in Ayurveda. Its active principles are bacosides A and B."
+    question: "Ashwagandha is botanically known as:",
+    options: ["Bacopa monnieri", "Withania somnifera", "Aloe barbadensis", "Ocimum sanctum"],
+    correct: 1,
+    explanation: "Ashwagandha is Withania somnifera; its roots are used as a tonic in Ayurveda."
   },
   {
     id: "d281l_084",
@@ -899,10 +887,10 @@ export const da281LectureQuestions: Question[] = [
     subject: "da-281",
     lecture: "lecture-6",
     lectureNo: 6,
-    question: "Brahmi (Bacopa monnieri) naturally grows in:",
-    options: ["Arid desert zones", "Waterlogged and marshy areas", "High altitude alpine meadows", "Tropical dry deciduous forests"],
-    correct: 1,
-    explanation: "Bacopa monnieri (Brahmi) is an aquatic/semi-aquatic herb that grows naturally in waterlogged, marshy and wetland areas. It is a creeping herb found throughout India near water bodies."
+    question: "Aloe vera is botanically known as:",
+    options: ["Cassia angustifolia", "Withania somnifera", "Aloe barbadensis", "Artemisia pallens"],
+    correct: 2,
+    explanation: "Aloe vera is botanically Aloe barbadensis; its leaf gel is widely used in medicine and cosmetics."
   },
   {
     id: "d281l_090",
@@ -974,8 +962,6 @@ export const da281LectureQuestions: Question[] = [
     correct: 2,
     explanation: "The National Medicinal Plants Board (NMPB) is under the Ministry of AYUSH (Ayurveda, Yoga, Unani, Siddha and Homeopathy) and supports cultivation and trade of medicinal plants."
   },
-
-  // ── Lecture 7: Medicinal Plants II ────────────────────────────────────────
   {
     id: "d281l_097",
     subject: "da-281",
@@ -1011,20 +997,20 @@ export const da281LectureQuestions: Question[] = [
     subject: "da-281",
     lecture: "lecture-7",
     lectureNo: 7,
-    question: "Isabgol (Psyllium) is obtained from which species?",
-    options: ["Cassia angustifolia", "Plantago ovata", "Plantago major", "Foeniculum vulgare"],
-    correct: 1,
-    explanation: "Isabgol (Psyllium husk) is derived from the seeds of Plantago ovata. It is a bulk-forming laxative containing mucilage and is used in treating constipation, diarrhea and IBS."
+    question: "Senna is botanically known as:",
+    options: ["Pelargonium graveolens", "Plantago ovata", "Andrographis paniculata", "Cassia angustifolia"],
+    correct: 3,
+    explanation: "Senna is Cassia angustifolia; its leaves and pods are used as a laxative/purgative."
   },
   {
     id: "d281l_101",
     subject: "da-281",
     lecture: "lecture-7",
     lectureNo: 7,
-    question: "Stevia is used as a natural sweetener because it contains compounds called:",
-    options: ["Saccharin analogues", "Sucrose esters", "Glucose and fructose mixtures", "Steviol glycosides (Stevioside, Rebaudioside)"],
-    correct: 3,
-    explanation: "Stevia contains steviol glycosides (primarily stevioside and rebaudioside A), which are 200–300 times sweeter than sucrose but calorie-free, making it valuable for diabetics."
+    question: "Kalmegh is botanically known as:",
+    options: ["Andrographis paniculata", "Stevia rebaudiana", "Bacopa monnieri", "Cymbopogon martini"],
+    correct: 0,
+    explanation: "Kalmegh is Andrographis paniculata, known as the 'King of bitters' and used for liver disorders and fevers."
   },
   {
     id: "d281l_102",
@@ -1051,10 +1037,10 @@ export const da281LectureQuestions: Question[] = [
     subject: "da-281",
     lecture: "lecture-7",
     lectureNo: 7,
-    question: "Isabgol (Plantago ovata) is mainly cultivated in which state of India?",
-    options: ["Karnataka", "Uttar Pradesh", "Andhra Pradesh", "Rajasthan and Gujarat"],
-    correct: 3,
-    explanation: "Isabgol is mainly cultivated in Rajasthan (especially in Jalore and Barmer districts) and Gujarat. India is the world's largest producer and exporter of psyllium husk."
+    question: "Sacred basil (Tulsi) is botanically known as:",
+    options: ["Plantago ovata", "Ocimum sanctum", "Aloe barbadensis", "Pogostemon cablin"],
+    correct: 1,
+    explanation: "Sacred basil (Tulsi) is Ocimum sanctum; it is grown in tropical/subtropical areas and harvested at full bloom."
   },
   {
     id: "d281l_105",
@@ -1071,10 +1057,10 @@ export const da281LectureQuestions: Question[] = [
     subject: "da-281",
     lecture: "lecture-7",
     lectureNo: 7,
-    question: "Stevia (Stevia rebaudiana) belongs to the plant family:",
-    options: ["Apiaceae", "Lamiaceae", "Asteraceae (Compositae)", "Solanaceae"],
+    question: "Kalmegh (Andrographis paniculata) is popularly known as the:",
+    options: ["'Wonder Tree'", "'Queen of oilseeds'", "'King of bitters'", "'Green Gold'"],
     correct: 2,
-    explanation: "Stevia rebaudiana belongs to the family Asteraceae (Compositae). It is a native of Paraguay and Brazil, now cultivated in India, China and other countries."
+    explanation: "Andrographis paniculata (Kalmegh) is known as the 'King of bitters' due to its intensely bitter taste; it is used medicinally for the liver and fevers."
   },
   {
     id: "d281l_107",
@@ -1111,10 +1097,10 @@ export const da281LectureQuestions: Question[] = [
     subject: "da-281",
     lecture: "lecture-7",
     lectureNo: 7,
-    question: "Isabgol husk (Psyllium) is composed mainly of:",
-    options: ["Mucilage (soluble dietary fiber)", "Starch and proteins", "Fatty acids and oils", "Alkaloids and terpenes"],
-    correct: 0,
-    explanation: "Isabgol husk contains about 70–85% mucilage (arabinoxylan, a soluble dietary fiber). This mucilage absorbs water and forms a gel, acting as a bulk-forming laxative."
+    question: "Sacred basil (Ocimum sanctum) is generally ready for its first harvest in about:",
+    options: ["6 months", "10 days", "2 years", "90-95 days after planting"],
+    correct: 3,
+    explanation: "Ocimum sanctum is ready for the first harvest in about 90-95 days after planting, with harvesting at full bloom being ideal."
   },
   {
     id: "d281l_111",
@@ -1131,13 +1117,11 @@ export const da281LectureQuestions: Question[] = [
     subject: "da-281",
     lecture: "lecture-7",
     lectureNo: 7,
-    question: "The natural habitat of Stevia (Stevia rebaudiana) is:",
-    options: ["African savanna grasslands", "Amazon rainforests of Brazil", "Semi-arid highlands of Paraguay and Brazil", "Himalayan alpine meadows"],
-    correct: 2,
-    explanation: "Stevia rebaudiana is native to the semi-arid highlands of northeastern Paraguay and southern Brazil. It is now cultivated worldwide as a natural zero-calorie sweetener."
+    question: "The part of Ashwagandha (Withania somnifera) used medicinally is the:",
+    options: ["Roots", "Flowers only", "Bark only", "Thorns"],
+    correct: 0,
+    explanation: "The roots of Ashwagandha (Withania somnifera) are the main part used medicinally, as a general tonic."
   },
-
-  // ── Lecture 8: Aromatic Plants ─────────────────────────────────────────────
   {
     id: "d281l_113",
     subject: "da-281",
@@ -1173,10 +1157,10 @@ export const da281LectureQuestions: Question[] = [
     subject: "da-281",
     lecture: "lecture-8",
     lectureNo: 8,
-    question: "Vetiver (Khus grass) used for essential oil extraction has the botanical name:",
-    options: ["Chrysopogon zizanioides", "Cymbopogon nardus", "Vetiveria zizanioides", "Both A and C"],
-    correct: 3,
-    explanation: "Vetiver/Khus grass was formerly called Vetiveria zizanioides and is now classified as Chrysopogon zizanioides. Both names refer to the same species used for vetiver oil and erosion control."
+    question: "Lemongrass and related aromatic grasses belong to which genus?",
+    options: ["Pelargonium", "Cymbopogon", "Artemisia", "Ocimum"],
+    correct: 1,
+    explanation: "Lemongrass, citronella and palmarosa all belong to the genus Cymbopogon; their essential oils are widely used in perfumery."
   },
   {
     id: "d281l_117",
@@ -1213,10 +1197,10 @@ export const da281LectureQuestions: Question[] = [
     subject: "da-281",
     lecture: "lecture-8",
     lectureNo: 8,
-    question: "Patchouli (Pogostemon cablin) essential oil is most commonly used in:",
-    options: ["Food flavoring and beverages", "Agricultural pesticide formulations in horticultural practices", "Perfumery as a fixative and in aromatherapy", "Pharmaceutical antibiotics for vegetable cultivation"],
+    question: "Java citronella oil, considered the superior type, is obtained from:",
+    options: ["Pelargonium graveolens", "Cymbopogon nardus", "Cymbopogon winterianus", "Artemisia pallens"],
     correct: 2,
-    explanation: "Patchouli oil (Pogostemon cablin) is widely used in perfumery as a fixative (slowing evaporation of other fragrances) and in aromatherapy, cosmetics and incense making."
+    explanation: "Java citronella oil (the superior type) is obtained from Cymbopogon winterianus, while Ceylon citronella oil comes from Cymbopogon nardus."
   },
   {
     id: "d281l_121",
@@ -1243,10 +1227,10 @@ export const da281LectureQuestions: Question[] = [
     subject: "da-281",
     lecture: "lecture-8",
     lectureNo: 8,
-    question: "Vetiver roots are used for making:",
-    options: ["Paper and cardboard only in horticultural practices", "Medicinal tinctures only for vegetable cultivation", "Khus mats, baskets and cooling screens (khas-khas tatties)", "Cosmetic hair oils only in orchard management"],
-    correct: 2,
-    explanation: "Vetiver (Khus) roots are used for making cooling screens, mats, baskets and handicrafts. When wet they give a pleasant earthy fragrance, and the roots also yield vetiver essential oil."
+    question: "Palmarosa is botanically known as:",
+    options: ["Ocimum sanctum", "Pelargonium graveolens", "Artemisia pallens", "Cymbopogon martini var. motia"],
+    correct: 3,
+    explanation: "Palmarosa is Cymbopogon martini var. motia; its oil (rich in geraniol) is used in perfumery and soaps."
   },
   {
     id: "d281l_124",
@@ -1298,17 +1282,15 @@ export const da281LectureQuestions: Question[] = [
     correct: 2,
     explanation: "CIMAP (Central Institute of Medicinal and Aromatic Plants) is located at Lucknow, Uttar Pradesh. It is an ICAR institute that conducts research on medicinal and aromatic plants."
   },
-
-  // ── Lecture 9: Conservation & Forest Policies ──────────────────────────────
   {
     id: "d281l_129",
     subject: "da-281",
     lecture: "lecture-9",
     lectureNo: 9,
-    question: "The Wildlife Protection Act was enacted by the Government of India in:",
-    options: ["1986", "1960", "1972", "1980"],
-    correct: 2,
-    explanation: "The Wildlife Protection Act was enacted in 1972 to provide legal protection to wildlife and their habitats in India. It has been amended several times, most significantly in 1991 and 2002."
+    question: "The National Forest Policy that set the goal of one-third land under forest was passed in:",
+    options: ["1988", "2006", "1972", "1992"],
+    correct: 0,
+    explanation: "The National Forest Policy 1988 set the goal of bringing one-third (33⅓%) of the country's land area under forest/tree cover."
   },
   {
     id: "d281l_130",
@@ -1345,20 +1327,20 @@ export const da281LectureQuestions: Question[] = [
     subject: "da-281",
     lecture: "lecture-9",
     lectureNo: 9,
-    question: "The Convention on Biological Diversity (CBD) was signed at:",
-    options: ["Stockholm, 1972 in horticultural practices", "Rio de Janeiro, 1992 (Earth Summit)", "Kyoto, 1997 for vegetable cultivation", "Paris, 2015 in orchard management"],
+    question: "Forest protection, as a branch of forestry, is concerned with:",
+    options: ["Marketing timber abroad", "Prevention and control of damage to forests", "Measuring tree height", "Cooking forest foods"],
     correct: 1,
-    explanation: "The Convention on Biological Diversity (CBD) was opened for signature at the Earth Summit in Rio de Janeiro in June 1992 and entered into force in December 1993."
+    explanation: "Forest protection is the branch concerned with activities directed towards the prevention and control of damage to forests (from fire, grazing, illicit felling, etc.)."
   },
   {
     id: "d281l_134",
     subject: "da-281",
     lecture: "lecture-9",
     lectureNo: 9,
-    question: "India's Biological Diversity Act was enacted in:",
-    options: ["2006", "1992", "2000", "2002"],
-    correct: 3,
-    explanation: "India's Biological Diversity Act was enacted in 2002 to give effect to the CBD. It provides for conservation of biological diversity, sustainable use and equitable sharing of benefits."
+    question: "Which of the following is a forest offence?",
+    options: ["Collecting fallen leaves with permission", "Planting trees on waste land", "Illegal grazing and unauthorised felling of trees", "Measuring tree girth"],
+    correct: 2,
+    explanation: "Forest offences include deforestation in restricted areas, illegal grazing, demolition/cutting of timber, firing of trees and unauthorised removal of bark or leaves."
   },
   {
     id: "d281l_135",
@@ -1415,30 +1397,30 @@ export const da281LectureQuestions: Question[] = [
     subject: "da-281",
     lecture: "lecture-9",
     lectureNo: 9,
-    question: "The Environment Protection Act in India was enacted in:",
-    options: ["1980", "1972", "1986", "1992"],
-    correct: 2,
-    explanation: "The Environment (Protection) Act was enacted in 1986 following the Bhopal Gas Tragedy (1984). It empowers the Central Government to protect and improve environmental quality."
+    question: "According to forest policy, forests that clothe steep slopes and river catchments should be:",
+    options: ["Converted to housing", "Cleared for agriculture", "Used for mining", "Protected"],
+    correct: 3,
+    explanation: "Forest policy states that forests clothing steep slopes and the catchments of rivers, lakes and reservoirs should be protected to prevent erosion and conserve water."
   },
   {
     id: "d281l_141",
     subject: "da-281",
     lecture: "lecture-9",
     lectureNo: 9,
-    question: "Which Schedule of the Wildlife Protection Act 1972 lists the most strictly protected animals?",
-    options: ["Schedule I", "Schedule II", "Schedule IV", "Schedule III"],
+    question: "Wood technology, as a branch of forestry, deals with:",
+    options: ["Structural, physical and mechanical properties of wood", "Marketing of medicinal plants", "Wildlife census", "Soil testing"],
     correct: 0,
-    explanation: "Schedule I of the Wildlife Protection Act 1972 lists species afforded the highest protection. Hunting or trade of Schedule I animals (like Tiger, Elephant, Lion) is strictly prohibited with maximum penalties."
+    explanation: "Wood technology deals with the structural, physical and mechanical properties and behaviour of wood."
   },
   {
     id: "d281l_142",
     subject: "da-281",
     lecture: "lecture-9",
     lectureNo: 9,
-    question: "Project Tiger was launched in India in which year?",
-    options: ["1980", "1970", "1988", "1973"],
-    correct: 3,
-    explanation: "Project Tiger was launched on April 1, 1973 by Prime Minister Indira Gandhi to protect tigers and their habitat. It started with 9 tiger reserves and now India has 53 tiger reserves."
+    question: "Vanamahotsavam (the festival of trees) is organised mainly to:",
+    options: ["Hunt wild animals", "Promote mass tree planting", "Auction timber", "Build roads"],
+    correct: 1,
+    explanation: "Vanamahotsavam is the festival of trees, organised to promote mass tree planting and increase green/forest cover."
   },
   {
     id: "d281l_143",
@@ -1460,8 +1442,6 @@ export const da281LectureQuestions: Question[] = [
     correct: 0,
     explanation: "ENVIS (Environmental Information System) is a network of information centers on environment established by the Ministry of Environment, Forest and Climate Change for dissemination of environmental information."
   },
-
-  // ── Lecture 10: Non-Timber Forest Products ─────────────────────────────────
   {
     id: "d281l_145",
     subject: "da-281",
@@ -1583,7 +1563,10 @@ export const da281LectureQuestions: Question[] = [
     explanation: "Amla is extremely rich in Vitamin C and is used in Ayurvedic medicines (Triphala, Chyawanprash), health products and Amla oil for hair care. Its collection is an important source of tribal income."
   },
   {
-    id: "d281l_157", subject: "da-281", lecture: "lecture-10", lectureNo: 10,
+    id: "d281l_157",
+    subject: "da-281",
+    lecture: "lecture-10",
+    lectureNo: 10,
     question: "The botanical name of teak is:",
     options: ["Acacia nilotica", "Eucalyptus globulus", "Azadirachta indica", "Tectona grandis"],
     correct: 3,
@@ -1591,7 +1574,10 @@ export const da281LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281l_158", subject: "da-281", lecture: "lecture-10", lectureNo: 10,
+    id: "d281l_158",
+    subject: "da-281",
+    lecture: "lecture-10",
+    lectureNo: 10,
     question: "The word forest is derived from the Latin word:",
     options: ["Foris meaning outside", "Forestis", "Foresta silva", "Foresta"],
     correct: 0,
@@ -1599,7 +1585,10 @@ export const da281LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281l_159", subject: "da-281", lecture: "lecture-10", lectureNo: 10,
+    id: "d281l_159",
+    subject: "da-281",
+    lecture: "lecture-10",
+    lectureNo: 10,
     question: "India's total forest cover as a percentage of its geographical area is approximately:",
     options: ["33%", "23%", "15%", "40%"],
     correct: 1,
@@ -1607,7 +1596,10 @@ export const da281LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281l_160", subject: "da-281", lecture: "lecture-10", lectureNo: 10,
+    id: "d281l_160",
+    subject: "da-281",
+    lecture: "lecture-10",
+    lectureNo: 10,
     question: "The per capita forest area in India compared to world average:",
     options: ["India 0.11 ha vs world average 1.6 ha", "India 1.6 ha vs world 0.11 ha", "India 2.0 ha vs world 1.0 ha", "India 0.5 ha vs world 0.5 ha"],
     correct: 0,
@@ -1615,7 +1607,10 @@ export const da281LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281l_161", subject: "da-281", lecture: "lecture-11", lectureNo: 11,
+    id: "d281l_161",
+    subject: "da-281",
+    lecture: "lecture-11",
+    lectureNo: 11,
     question: "Telangana's forest cover as a percentage of its total geographical area is approximately:",
     options: ["45.11%", "25.11%", "35.11%", "15.11%"],
     correct: 1,
@@ -1623,7 +1618,10 @@ export const da281LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281l_162", subject: "da-281", lecture: "lecture-11", lectureNo: 11,
+    id: "d281l_162",
+    subject: "da-281",
+    lecture: "lecture-11",
+    lectureNo: 11,
     question: "Which district of Telangana has the highest forest area?",
     options: ["Nizamabad", "Khammam", "Warangal", "Adilabad"],
     correct: 1,
@@ -1631,7 +1629,10 @@ export const da281LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281l_163", subject: "da-281", lecture: "lecture-11", lectureNo: 11,
+    id: "d281l_163",
+    subject: "da-281",
+    lecture: "lecture-11",
+    lectureNo: 11,
     question: "The branch of forestry that deals with the study of trees is called:",
     options: ["Silviculture", "Forest mensuration", "Dendrology", "Agroforestry"],
     correct: 2,
@@ -1639,7 +1640,10 @@ export const da281LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281l_164", subject: "da-281", lecture: "lecture-11", lectureNo: 11,
+    id: "d281l_164",
+    subject: "da-281",
+    lecture: "lecture-11",
+    lectureNo: 11,
     question: "Silviculture in forestry refers to:",
     options: ["Study of forest animals in orchard management for crop production", "Study of forest soils in horticultural practices in agriculture", "Measurement of timber volumes for vegetable cultivation", "Art and science of controlling the establishment, growth, composition and quality of forests"],
     correct: 3,
@@ -1647,7 +1651,10 @@ export const da281LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281l_165", subject: "da-281", lecture: "lecture-11", lectureNo: 11,
+    id: "d281l_165",
+    subject: "da-281",
+    lecture: "lecture-11",
+    lectureNo: 11,
     question: "ASSERTION-REASON: Assertion (A): Forests play a crucial role in maintaining the water cycle. Reason (R): Trees absorb water from the soil and release it into the atmosphere through transpiration.",
     options: ["Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is false but R is true", "A is true but R is false"],
     correct: 1,
@@ -1655,7 +1662,10 @@ export const da281LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281l_166", subject: "da-281", lecture: "lecture-11", lectureNo: 11,
+    id: "d281l_166",
+    subject: "da-281",
+    lecture: "lecture-11",
+    lectureNo: 11,
     question: "Match forest types (Col A) with characteristics (Col B) and examples (Col C): Col A: 1-Tropical wet evergreen, 2-Tropical dry deciduous, 3-Thorn forest, 4-Mangrove. Col B: P-coastal swampy, Q-rainfall below 75cm, R-rainfall over 200cm, S-rainfall 100-200cm. Col C: i-Sundarbans, ii-Rajasthan, iii-Western Ghats, iv-Central India",
     options: ["1-Q-ii, 2-P-i, 3-S-iv, 4-R-iii", "1-R-iii, 2-S-iv, 3-Q-ii, 4-P-i", "1-P-i, 2-Q-ii, 3-R-iii, 4-S-iv", "1-S-iv, 2-R-iii, 3-P-i, 4-Q-ii"],
     correct: 1,
@@ -1663,7 +1673,10 @@ export const da281LectureQuestions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d281l_168", subject: "da-281", lecture: "lecture-12", lectureNo: 12,
+    id: "d281l_168",
+    subject: "da-281",
+    lecture: "lecture-12",
+    lectureNo: 12,
     question: "Bamboo belongs to which plant family?",
     options: ["Gramineae (Poaceae)", "Leguminosae", "Rubiaceae", "Euphorbiaceae"],
     correct: 0,
@@ -1671,7 +1684,10 @@ export const da281LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281l_169", subject: "da-281", lecture: "lecture-12", lectureNo: 12,
+    id: "d281l_169",
+    subject: "da-281",
+    lecture: "lecture-12",
+    lectureNo: 12,
     question: "Subabul (Leucaena leucocephala) is primarily used for:",
     options: ["Only paper pulp in horticultural practices", "Only timber production for vegetable cultivation", "Fuelwood, fodder, and nitrogen fixation (multipurpose tree)", "Only ornamental purposes in orchard management"],
     correct: 2,
@@ -1679,7 +1695,10 @@ export const da281LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281l_170", subject: "da-281", lecture: "lecture-12", lectureNo: 12,
+    id: "d281l_170",
+    subject: "da-281",
+    lecture: "lecture-12",
+    lectureNo: 12,
     question: "Ashwagandha (Withania somnifera) is classified as a:",
     options: ["Agroforestry tree", "Medicinal plant", "Ornamental plant", "Timber tree"],
     correct: 1,
@@ -1687,7 +1706,10 @@ export const da281LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d281l_171", subject: "da-281", lecture: "lecture-12", lectureNo: 12,
+    id: "d281l_171",
+    subject: "da-281",
+    lecture: "lecture-12",
+    lectureNo: 12,
     question: "Aloe vera is used medicinally primarily for:",
     options: ["Timber production in horticultural practices", "Burn healing, skin care, and digestive health", "Windbreak protection in orchard management", "Soil nitrogen fixation for vegetable cultivation"],
     correct: 1,
@@ -1695,7 +1717,10 @@ export const da281LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d281l_172", subject: "da-281", lecture: "lecture-12", lectureNo: 12,
+    id: "d281l_172",
+    subject: "da-281",
+    lecture: "lecture-12",
+    lectureNo: 12,
     question: "ASSERTION-REASON: Assertion (A): Neem is called the village pharmacy in India. Reason (R): Almost every part of neem (leaves, bark, seeds, oil) has medicinal, pesticidal, or agricultural uses.",
     options: ["Both A and R are true but R is not the correct explanation of A", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "A is true but R is false"],
     correct: 2,
@@ -1703,7 +1728,10 @@ export const da281LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d281l_173", subject: "da-281", lecture: "lecture-13", lectureNo: 13,
+    id: "d281l_173",
+    subject: "da-281",
+    lecture: "lecture-13",
+    lectureNo: 13,
     question: "Agroforestry is defined as:",
     options: ["Cultivation of medicinal plants only in horticultural practices in agriculture", "Cultivation of forest trees only for vegetable cultivation", "A land use system where trees are combined with crops or livestock on the same unit of land", "Growing trees in monoculture in orchard management for crop production"],
     correct: 2,
@@ -1711,7 +1739,10 @@ export const da281LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d281l_174", subject: "da-281", lecture: "lecture-13", lectureNo: 13,
+    id: "d281l_174",
+    subject: "da-281",
+    lecture: "lecture-13",
+    lectureNo: 13,
     question: "Agrisilviculture refers to:",
     options: ["Trees + livestock combination", "Trees + beekeeping combination", "Trees + fish farming combination", "Trees + crops combination"],
     correct: 3,
@@ -1719,7 +1750,10 @@ export const da281LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281l_175", subject: "da-281", lecture: "lecture-13", lectureNo: 13,
+    id: "d281l_175",
+    subject: "da-281",
+    lecture: "lecture-13",
+    lectureNo: 13,
     question: "Silvopastoral agroforestry system combines:",
     options: ["Trees + livestock/pasture", "Trees + crops", "Trees + beekeeping", "Trees + fish farming"],
     correct: 0,
@@ -1727,7 +1761,10 @@ export const da281LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281l_176", subject: "da-281", lecture: "lecture-13", lectureNo: 13,
+    id: "d281l_176",
+    subject: "da-281",
+    lecture: "lecture-13",
+    lectureNo: 13,
     question: "Match agroforestry systems: Col A: 1-Agrisilviculture, 2-Silvopastoral, 3-Agrosilvopastoral, 4-Aquaforestry. Col B: P-trees+fish, Q-trees+crops+livestock, R-trees+livestock, S-trees+crops. Col C: i-paddy+fish ponds, ii-teak+paddy, iii-teak+sheep+grass, iv-teak+paddy+cattle",
     options: ["1-R-iii, 2-S-ii, 3-P-i, 4-Q-iv", "1-S-ii, 2-R-iii, 3-Q-iv, 4-P-i", "1-Q-iv, 2-P-i, 3-S-ii, 4-R-iii", "1-P-i, 2-Q-iv, 3-R-iii, 4-S-ii"],
     correct: 1,
@@ -1735,7 +1772,10 @@ export const da281LectureQuestions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d281l_177", subject: "da-281", lecture: "lecture-13", lectureNo: 13,
+    id: "d281l_177",
+    subject: "da-281",
+    lecture: "lecture-13",
+    lectureNo: 13,
     question: "The National Forest Policy of India recommends that _____ of total land area should be under forests:",
     options: ["10%", "20%", "50%", "33%"],
     correct: 3,
@@ -1743,7 +1783,10 @@ export const da281LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281l_178", subject: "da-281", lecture: "lecture-14", lectureNo: 14,
+    id: "d281l_178",
+    subject: "da-281",
+    lecture: "lecture-14",
+    lectureNo: 14,
     question: "Social forestry in India refers to:",
     options: ["Forestry activities only within reserved forests for vegetable cultivation", "Commercial timber plantation only in horticultural practices in agriculture", "Growing trees on community, government wastelands, and farm boundaries for the benefit of local communities", "Forest conservation for wild animals only in orchard management for crop production"],
     correct: 2,
@@ -1751,7 +1794,10 @@ export const da281LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d281l_179", subject: "da-281", lecture: "lecture-14", lectureNo: 14,
+    id: "d281l_179",
+    subject: "da-281",
+    lecture: "lecture-14",
+    lectureNo: 14,
     question: "Non-Timber Forest Products (NTFPs) include:",
     options: ["Logs and planks only in horticultural practices", "Chemical fertilizers for vegetable cultivation in agriculture", "Bamboo, honey, medicinal plants, gums, and resins (all non-wood products)", "Heavy machinery materials in orchard management"],
     correct: 2,
@@ -1759,7 +1805,10 @@ export const da281LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d281l_180", subject: "da-281", lecture: "lecture-14", lectureNo: 14,
+    id: "d281l_180",
+    subject: "da-281",
+    lecture: "lecture-14",
+    lectureNo: 14,
     question: "Tamarind (Tamarindus indica) is used for:",
     options: ["Paper pulp only in horticultural practices", "Edible fruit, medicinal uses, and food industry (souring agent)", "Timber and fuel only in orchard management", "Fodder only for vegetable cultivation"],
     correct: 1,
@@ -1767,7 +1816,10 @@ export const da281LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d281l_181", subject: "da-281", lecture: "lecture-14", lectureNo: 14,
+    id: "d281l_181",
+    subject: "da-281",
+    lecture: "lecture-14",
+    lectureNo: 14,
     question: "ASSERTION-REASON: Assertion (A): Eucalyptus is a controversial tree for agroforestry in India. Reason (R): Eucalyptus is known to deplete groundwater and soil nutrients while providing fast growth and high biomass.",
     options: ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true", "A is true but R is false"],
     correct: 0,
@@ -1775,7 +1827,10 @@ export const da281LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281l_182", subject: "da-281", lecture: "lecture-14", lectureNo: 14,
+    id: "d281l_182",
+    subject: "da-281",
+    lecture: "lecture-14",
+    lectureNo: 14,
     question: "Senna (Cassia angustifolia) is an important medicinal plant used primarily as a:",
     options: ["Wound healer", "Blood pressure regulator", "Natural laxative", "Fever reducer"],
     correct: 2,
@@ -1783,7 +1838,10 @@ export const da281LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281l_183", subject: "da-281", lecture: "lecture-14", lectureNo: 14,
+    id: "d281l_183",
+    subject: "da-281",
+    lecture: "lecture-14",
+    lectureNo: 14,
     question: "Lemongrass (Cymbopogon citratus) is grown primarily for:",
     options: ["Timber for vegetable cultivation", "Fuelwood in horticultural practices in agriculture", "Essential oil used in cosmetics, food flavoring, and aromatherapy", "Fodder for cattle in orchard management"],
     correct: 2,
@@ -1791,7 +1849,10 @@ export const da281LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281l_184", subject: "da-281", lecture: "lecture-15", lectureNo: 15,
+    id: "d281l_184",
+    subject: "da-281",
+    lecture: "lecture-15",
+    lectureNo: 15,
     question: "Forest mensuration deals with:",
     options: ["Measurement of timber volume, tree height, diameter, and forest area", "Study of forest diseases in horticultural practices", "Planting trees in degraded areas for vegetable cultivation", "Growing trees in forests in orchard management"],
     correct: 0,
@@ -1799,15 +1860,21 @@ export const da281LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281l_185", subject: "da-281", lecture: "lecture-15", lectureNo: 15,
-    question: "The girth of a tree is measured at a height of _____ from the ground (Diameter at Breast Height):",
-    options: ["2.0 m", "0.5 m", "3.0 m", "1.37 m"],
-    correct: 3,
-    explanation: "DBH (Diameter at Breast Height) is measured at 1.37 meters (4.5 feet) from the ground — the standard in forest mensuration.",
+    id: "d281l_185",
+    subject: "da-281",
+    lecture: "lecture-15",
+    lectureNo: 15,
+    question: "Davana is botanically known as:",
+    options: ["Cymbopogon nardus", "Pelargonium graveolens", "Artemisia pallens", "Withania somnifera"],
+    correct: 2,
+    explanation: "Davana is Artemisia pallens; its aromatic oil is used in perfumery and flavouring.",
     difficulty: "hard"
   },
   {
-    id: "d281l_186", subject: "da-281", lecture: "lecture-15", lectureNo: 15,
+    id: "d281l_186",
+    subject: "da-281",
+    lecture: "lecture-15",
+    lectureNo: 15,
     question: "Which is a fire resistant tree species?",
     options: ["Teak", "Sal (Shorea robusta)", "Bamboo", "Eucalyptus"],
     correct: 1,
@@ -1815,7 +1882,10 @@ export const da281LectureQuestions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d281l_187", subject: "da-281", lecture: "lecture-15", lectureNo: 15,
+    id: "d281l_187",
+    subject: "da-281",
+    lecture: "lecture-15",
+    lectureNo: 15,
     question: "ASSERTION-REASON: Assertion (A): Forests help in prevention of soil erosion. Reason (R): Tree roots bind the soil particles together and the canopy reduces the impact of rainfall on the soil surface.",
     options: ["Both A and R are true but R is not the correct explanation of A", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "A is true but R is false"],
     correct: 2,
@@ -1823,7 +1893,10 @@ export const da281LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d281l_188", subject: "da-281", lecture: "lecture-15", lectureNo: 15,
+    id: "d281l_188",
+    subject: "da-281",
+    lecture: "lecture-15",
+    lectureNo: 15,
     question: "Match medicinal plants: Col A: 1-Ashwagandha, 2-Aloe vera, 3-Senna, 4-Lemongrass. Col B: P-laxative, Q-skin healing, R-adaptogen, S-essential oil. Col C: i-Cymbopogon, ii-Cassia angustifolia, iii-Withania somnifera, iv-Aloe barbadensis",
     options: ["1-R-iii, 2-Q-iv, 3-P-ii, 4-S-i", "1-Q-iv, 2-S-i, 3-P-ii, 4-R-iii", "1-P-ii, 2-R-iii, 3-Q-iv, 4-S-i", "1-S-i, 2-P-ii, 3-R-iii, 4-Q-iv"],
     correct: 0,
@@ -1831,15 +1904,21 @@ export const da281LectureQuestions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d281l_189", subject: "da-281", lecture: "lecture-15", lectureNo: 15,
-    question: "The main objective of Joint Forest Management (JFM) in India is:",
-    options: ["Involving local communities in forest protection and management for shared benefits", "Converting forests to agriculture for vegetable cultivation in agriculture", "Complete protection without human use in horticultural practices", "Commercial timber exploitation in orchard management"],
-    correct: 0,
-    explanation: "JFM was introduced in 1990 to involve local communities (through Village Forest Committees) in forest protection and management, sharing the benefits.",
+    id: "d281l_189",
+    subject: "da-281",
+    lecture: "lecture-15",
+    lectureNo: 15,
+    question: "Neem is botanically known as:",
+    options: ["Leucaena leucocephala", "Tectona grandis", "Pongamia pinnata", "Azadirachta indica"],
+    correct: 3,
+    explanation: "Neem is Azadirachta indica (family Meliaceae), universally accepted as a 'Wonder Tree'; neem cake is rich in nitrogen and has pesticidal properties.",
     difficulty: "medium"
   },
   {
-    id: "d281l_190", subject: "da-281", lecture: "lecture-10", lectureNo: 10,
+    id: "d281l_190",
+    subject: "da-281",
+    lecture: "lecture-10",
+    lectureNo: 10,
     question: "The State tree of Telangana is:",
     options: ["Jammi tree (Prosopis cineraria)", "Teak", "Banyan", "Neem"],
     correct: 0,
@@ -1847,15 +1926,21 @@ export const da281LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281l_191", subject: "da-281", lecture: "lecture-11", lectureNo: 11,
-    question: "Forest cover of India includes:",
-    options: ["Commercial plantations only", "Reserved, protected, and unclassed forests", "Agroforestry areas only", "Reserved forests only"],
-    correct: 1,
-    explanation: "India classifies forests into Reserved Forests (strictly protected), Protected Forests, and Unclassed Forests based on the Indian Forest Act 1927.",
+    id: "d281l_191",
+    subject: "da-281",
+    lecture: "lecture-11",
+    lectureNo: 11,
+    question: "Geranium (a rose-scented aromatic plant) is botanically known as:",
+    options: ["Pelargonium graveolens", "Cymbopogon martini", "Artemisia pallens", "Ocimum sanctum"],
+    correct: 0,
+    explanation: "Geranium is Pelargonium graveolens; its rose-scented essential oil is valued in perfumery.",
     difficulty: "medium"
   },
   {
-    id: "d281l_192", subject: "da-281", lecture: "lecture-12", lectureNo: 12,
+    id: "d281l_192",
+    subject: "da-281",
+    lecture: "lecture-12",
+    lectureNo: 12,
     question: "Which tree is known as Green Gold due to its commercial importance?",
     options: ["Teak", "Neem", "Subabul (Leucaena leucocephala)", "Bamboo"],
     correct: 3,
@@ -1863,7 +1948,10 @@ export const da281LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281l_193", subject: "da-281", lecture: "lecture-13", lectureNo: 13,
+    id: "d281l_193",
+    subject: "da-281",
+    lecture: "lecture-13",
+    lectureNo: 13,
     question: "The ideal tree for windbreaks and shelterbelts is:",
     options: ["Teak", "Eucalyptus", "Bamboo", "Casuarina"],
     correct: 3,
@@ -1871,7 +1959,10 @@ export const da281LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281l_194", subject: "da-281", lecture: "lecture-14", lectureNo: 14,
+    id: "d281l_194",
+    subject: "da-281",
+    lecture: "lecture-14",
+    lectureNo: 14,
     question: "Lac is a forest product harvested from:",
     options: ["Secretions of lac insects on host trees", "Roots of Acacia species", "Leaves of teak trees", "Sap of eucalyptus trees"],
     correct: 0,
@@ -1879,7 +1970,10 @@ export const da281LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281l_195", subject: "da-281", lecture: "lecture-15", lectureNo: 15,
+    id: "d281l_195",
+    subject: "da-281",
+    lecture: "lecture-15",
+    lectureNo: 15,
     question: "Which of the following is a correct statement about mangrove forests?",
     options: ["They are deciduous and shed leaves in winter in horticultural practices", "They grow in coastal saline tidal areas and protect coastlines from erosion", "They are found only in Himalayan regions for vegetable cultivation", "They grow in dry arid conditions in orchard management"],
     correct: 1,
@@ -1887,7 +1981,10 @@ export const da281LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281l_196", subject: "da-281", lecture: "lecture-11", lectureNo: 11,
+    id: "d281l_196",
+    subject: "da-281",
+    lecture: "lecture-11",
+    lectureNo: 11,
     question: "ASSERTION-REASON: Assertion (A): Deforestation leads to increased carbon dioxide in the atmosphere. Reason (R): Trees absorb CO2 during photosynthesis; when trees are cut, this absorption capacity is lost and CO2 released.",
     options: ["Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is false but R is true", "A is true but R is false"],
     correct: 1,
@@ -1895,7 +1992,10 @@ export const da281LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281l_197", subject: "da-281", lecture: "lecture-12", lectureNo: 12,
+    id: "d281l_197",
+    subject: "da-281",
+    lecture: "lecture-12",
+    lectureNo: 12,
     question: "Match timber trees: Col A: 1-Teak, 2-Sandalwood, 3-Rosewood, 4-Sal. Col B: P-Dalbergia latifolia, Q-Shorea robusta, R-Tectona grandis, S-Santalum album. Col C: i-furniture, ii-fire resistant, iii-perfume/incense, iv-Karnataka rosewood",
     options: ["1-Q-ii, 2-P-iv, 3-S-iii, 4-R-i", "1-R-i, 2-S-iii, 3-P-iv, 4-Q-ii", "1-S-iii, 2-R-i, 3-Q-ii, 4-P-iv", "1-P-iv, 2-Q-ii, 3-R-i, 4-S-iii"],
     correct: 1,
@@ -1903,15 +2003,21 @@ export const da281LectureQuestions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d281l_198", subject: "da-281", lecture: "lecture-13", lectureNo: 13,
-    question: "The Chipko movement in India was a protest against:",
-    options: ["Forest fires in horticultural practices", "Commercial deforestation and felling of trees in Himalayas", "Industrial pollution of forests for vegetable cultivation", "Poaching of wildlife in orchard management"],
+    id: "d281l_198",
+    subject: "da-281",
+    lecture: "lecture-13",
+    lectureNo: 13,
+    question: "Citronella essential oil is obtained from species of which genus?",
+    options: ["Pelargonium", "Cymbopogon", "Withania", "Tectona"],
     correct: 1,
-    explanation: "Chipko movement (1973, Uttarakhand) was a non-violent protest where villagers hugged trees to prevent commercial felling — a landmark environmental movement.",
+    explanation: "Citronella oil is obtained from Cymbopogon winterianus (Java type) and Cymbopogon nardus (Ceylon type).",
     difficulty: "easy"
   },
   {
-    id: "d281l_199", subject: "da-281", lecture: "lecture-14", lectureNo: 14,
+    id: "d281l_199",
+    subject: "da-281",
+    lecture: "lecture-14",
+    lectureNo: 14,
     question: "Which international body monitors global forest resources and publishes the Global Forest Resources Assessment?",
     options: ["World Bank", "UNDP in horticultural practices", "FAO (Food and Agriculture Organization)", "UNEP for vegetable cultivation"],
     correct: 2,
@@ -1919,11 +2025,14 @@ export const da281LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281l_200", subject: "da-281", lecture: "lecture-15", lectureNo: 15,
-    question: "Match: Col A: 1-Carbon sequestration, 2-Soil conservation, 3-Water table, 4-Biodiversity. Functions of forests. Col B: P-root systems bind soil, Q-stores carbon dioxide, R-habitat for plants and animals, S-tree roots recharge groundwater. Col C: i-climate change mitigation, ii-erosion prevention, iii-animal habitats, iv-well water level",
-    options: ["1-R-iii, 2-S-iv, 3-Q-i, 4-P-ii", "1-P-ii, 2-Q-i, 3-R-iii, 4-S-iv", "1-Q-i, 2-P-ii, 3-S-iv, 4-R-iii", "1-S-iv, 2-R-iii, 3-P-ii, 4-Q-i"],
+    id: "d281l_200",
+    subject: "da-281",
+    lecture: "lecture-15",
+    lectureNo: 15,
+    question: "Karakkaya (chebulic myrobalan), a minor forest product, is botanically known as:",
+    options: ["Tectona grandis", "Tamarindus indica", "Terminalia chebula", "Aloe barbadensis"],
     correct: 2,
-    explanation: "Carbon sequestration (stores CO2=climate mitigation=i), Soil conservation (roots bind soil=erosion prevention=ii), Water table (roots recharge=well level=iv), Biodiversity (habitat=animals=iii).",
+    explanation: "Karakkaya / chebulic myrobalan is Terminalia chebula (family Combretaceae), valued for its tannin-rich fruits used in tanning and medicine.",
     difficulty: "hard"
   },
   {
@@ -2006,5 +2115,5 @@ export const da281LectureQuestions: Question[] = [
     options: ["1.0 ha", "0.5 ha", "0.11 ha", "2.5 ha"],
     correct: 2,
     explanation: "As per DA-281 notes: As compared to the world average of 1.6 hectares per capita forest area, India has only 0.11 ha per capita forest area."
-  }
+  },
 ];

@@ -1,3 +1,4 @@
+// ===== FILE: da-281.ts =====
 import { Question } from "@/types";
 
 export const da281Questions: Question[] = [
@@ -802,7 +803,8 @@ export const da281Questions: Question[] = [
     explanation: "About 75% of the fuel wood demand of rural people is met from the forests, which is a major reason for forest degradation."
   },
   {
-    id: "d281_101", subject: "da-281",
+    id: "d281_101",
+    subject: "da-281",
     question: "The word forest is derived from the Latin word foris meaning:",
     options: ["Timber trees", "Outside (uncultivated land outside village)", "Inside boundary", "Forest animals"],
     correct: 1,
@@ -810,7 +812,8 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_102", subject: "da-281",
+    id: "d281_102",
+    subject: "da-281",
     question: "India's forest and tree cover is approximately _____ of its total geographical area:",
     options: ["40%", "15%", "23%", "33%"],
     correct: 2,
@@ -818,7 +821,8 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_103", subject: "da-281",
+    id: "d281_103",
+    subject: "da-281",
     question: "Per capita forest area in India is:",
     options: ["0.11 ha", "3.2 ha", "1.6 ha", "0.5 ha"],
     correct: 0,
@@ -826,7 +830,8 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_104", subject: "da-281",
+    id: "d281_104",
+    subject: "da-281",
     question: "Telangana's forest area is approximately:",
     options: ["28,854 sq km", "18,000 sq km", "45,000 sq km", "10,000 sq km"],
     correct: 0,
@@ -834,7 +839,8 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_105", subject: "da-281",
+    id: "d281_105",
+    subject: "da-281",
     question: "The district of Telangana with the highest forest area is:",
     options: ["Khammam", "Adilabad", "Warangal", "Nizamabad"],
     correct: 0,
@@ -842,7 +848,8 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_106", subject: "da-281",
+    id: "d281_106",
+    subject: "da-281",
     question: "The botanical name of teak is:",
     options: ["Eucalyptus globulus", "Azadirachta indica", "Tectona grandis", "Dalbergia latifolia"],
     correct: 2,
@@ -850,7 +857,8 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_107", subject: "da-281",
+    id: "d281_107",
+    subject: "da-281",
     question: "Silviculture is the branch of forestry concerned with:",
     options: ["Timber measurement in horticultural practices", "Forest animal study for vegetable cultivation", "Controlling forest establishment, growth, composition and quality", "Tree identification in orchard management"],
     correct: 2,
@@ -858,7 +866,8 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_108", subject: "da-281",
+    id: "d281_108",
+    subject: "da-281",
     question: "Dendrology is the scientific study of:",
     options: ["Timber volumes", "Trees and woody plants", "Forest insects", "Forest soils"],
     correct: 1,
@@ -866,7 +875,8 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_109", subject: "da-281",
+    id: "d281_109",
+    subject: "da-281",
     question: "ASSERTION-REASON: Assertion (A): Forests help maintain the water cycle. Reason (R): Trees absorb water from soil and release it through transpiration, contributing to rainfall.",
     options: ["Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "Both A and R are true and R is the correct explanation of A", "A is false but R is true"],
     correct: 2,
@@ -874,7 +884,8 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_110", subject: "da-281",
+    id: "d281_110",
+    subject: "da-281",
     question: "Match forest types: Col A: 1-Tropical wet evergreen, 2-Tropical dry deciduous, 3-Thorn forest, 4-Mangrove. Col B: P-coastal, Q-rainfall below 75cm, R-rainfall over 200cm, S-rainfall 100-200cm. Col C: i-Sundarbans, ii-Rajasthan, iii-Western Ghats, iv-Central India",
     options: ["1-P-i, 2-Q-ii, 3-R-iii, 4-S-iv", "1-Q-ii, 2-P-i, 3-S-iv, 4-R-iii", "1-R-iii, 2-S-iv, 3-Q-ii, 4-P-i", "1-S-iv, 2-R-iii, 3-P-i, 4-Q-ii"],
     correct: 2,
@@ -882,7 +893,8 @@ export const da281Questions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d281_111", subject: "da-281",
+    id: "d281_111",
+    subject: "da-281",
     question: "The botanical name of neem is:",
     options: ["Tectona grandis", "Azadirachta indica", "Shorea robusta", "Dalbergia latifolia"],
     correct: 1,
@@ -890,7 +902,8 @@ export const da281Questions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d281_112", subject: "da-281",
+    id: "d281_112",
+    subject: "da-281",
     question: "Bamboo belongs to which plant family?",
     options: ["Euphorbiaceae", "Leguminosae", "Rubiaceae", "Gramineae (Poaceae)"],
     correct: 3,
@@ -898,7 +911,8 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_113", subject: "da-281",
+    id: "d281_113",
+    subject: "da-281",
     question: "Agroforestry is best defined as:",
     options: ["Cultivation of forest trees only in horticultural practices in agriculture", "Cultivation of medicinal plants only in orchard management for crop production", "Growing trees in monoculture for vegetable cultivation", "A land use system combining trees with crops or livestock on the same unit of land"],
     correct: 3,
@@ -906,7 +920,8 @@ export const da281Questions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d281_114", subject: "da-281",
+    id: "d281_114",
+    subject: "da-281",
     question: "Agrisilviculture combines:",
     options: ["Trees + crops", "Trees + fish", "Trees + beekeeping", "Trees + livestock"],
     correct: 0,
@@ -914,7 +929,8 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_115", subject: "da-281",
+    id: "d281_115",
+    subject: "da-281",
     question: "The National Forest Policy of India (1988) recommends that _____ of total land should be under forests:",
     options: ["20%", "33%", "50%", "10%"],
     correct: 1,
@@ -922,7 +938,8 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_116", subject: "da-281",
+    id: "d281_116",
+    subject: "da-281",
     question: "Ashwagandha (Withania somnifera) is primarily classified as a:",
     options: ["Medicinal plant (adaptogen)", "Timber tree", "Ornamental plant", "Commercial agroforestry tree"],
     correct: 0,
@@ -930,7 +947,8 @@ export const da281Questions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d281_117", subject: "da-281",
+    id: "d281_117",
+    subject: "da-281",
     question: "Senna (Cassia angustifolia) is used in medicine primarily as a:",
     options: ["Natural laxative", "Fever reducer", "Wound healer", "Blood pressure regulator"],
     correct: 0,
@@ -938,7 +956,8 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_118", subject: "da-281",
+    id: "d281_118",
+    subject: "da-281",
     question: "Lemongrass is cultivated primarily for its:",
     options: ["Fodder for cattle in horticultural practices", "Fuelwood for vegetable cultivation in agriculture", "Essential oil used in cosmetics and food flavoring", "Timber in orchard management"],
     correct: 2,
@@ -946,7 +965,8 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_119", subject: "da-281",
+    id: "d281_119",
+    subject: "da-281",
     question: "ASSERTION-REASON: Assertion (A): Neem is called the village pharmacy. Reason (R): Every part of neem has medicinal, pesticidal, or agricultural uses.",
     options: ["Both A and R are true but R is not the correct explanation of A", "A is false but R is true", "A is true but R is false", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
@@ -954,7 +974,8 @@ export const da281Questions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d281_120", subject: "da-281",
+    id: "d281_120",
+    subject: "da-281",
     question: "Match agroforestry systems: Col A: 1-Agrisilviculture, 2-Silvopastoral, 3-Agrosilvopastoral, 4-Aquaforestry. Col B: P-trees+fish, Q-trees+crops+livestock, R-trees+livestock, S-trees+crops. Col C: i-teak+fish ponds, ii-teak+paddy, iii-teak+sheep, iv-teak+paddy+cattle",
     options: ["1-P-i, 2-Q-iv, 3-R-iii, 4-S-ii", "1-S-ii, 2-R-iii, 3-Q-iv, 4-P-i", "1-Q-iv, 2-P-i, 3-S-ii, 4-R-iii", "1-R-iii, 2-S-ii, 3-P-i, 4-Q-iv"],
     correct: 1,
@@ -962,7 +983,8 @@ export const da281Questions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d281_121", subject: "da-281",
+    id: "d281_121",
+    subject: "da-281",
     question: "Social forestry involves growing trees on:",
     options: ["Himalayan forests only in horticultural practices in agriculture", "Commercial forest plantations only in orchard management", "Reserved forests only for vegetable cultivation", "Village community land, roadsides, and farm boundaries for local needs"],
     correct: 3,
@@ -970,7 +992,8 @@ export const da281Questions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d281_122", subject: "da-281",
+    id: "d281_122",
+    subject: "da-281",
     question: "Non-Timber Forest Products (NTFPs) include:",
     options: ["Heavy machinery materials in horticultural practices", "Logs and planks only", "Bamboo, honey, medicinal plants, gums, and resins", "Chemical fertilizers for vegetable cultivation"],
     correct: 2,
@@ -978,15 +1001,17 @@ export const da281Questions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d281_123", subject: "da-281",
-    question: "The Chipko movement in India was a protest against:",
-    options: ["Wildlife poaching in horticultural practices", "Forest fires for vegetable cultivation", "Commercial deforestation and tree felling in Himalayas", "Industrial pollution in orchard management"],
-    correct: 2,
-    explanation: "Chipko movement (1973, Uttarakhand) — villagers hugged trees to prevent commercial felling. It was a landmark environmental movement.",
+    id: "d281_123",
+    subject: "da-281",
+    question: "Silviculture is the branch of forestry that deals with:",
+    options: ["Wildlife photography", "The marketing of timber abroad", "The taxation of forest land", "The establishment, development and care of forests"],
+    correct: 3,
+    explanation: "Silviculture is the branch of forestry which deals with the establishment, development, care and reproduction of forest crops.",
     difficulty: "easy"
   },
   {
-    id: "d281_124", subject: "da-281",
+    id: "d281_124",
+    subject: "da-281",
     question: "Forest mensuration deals with:",
     options: ["Growing trees in forests in horticultural practices", "Planting trees in degraded areas for vegetable cultivation", "Measurement of timber volume, tree height, diameter, and forest area", "Study of forest diseases in orchard management"],
     correct: 2,
@@ -994,15 +1019,17 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_125", subject: "da-281",
-    question: "The Diameter at Breast Height (DBH) is measured at:",
-    options: ["3.0 m from ground", "1.37 m from ground", "2.0 m from ground", "0.5 m from ground"],
-    correct: 1,
-    explanation: "DBH (Diameter at Breast Height) is measured at 1.37 meters (4.5 feet) from the ground — standard in forest mensuration.",
+    id: "d281_125",
+    subject: "da-281",
+    question: "Forest mensuration is the branch of forestry that deals with:",
+    options: ["Forest taxation only", "The cooking of forest foods", "The painting of trees", "The measurement of forest produce"],
+    correct: 3,
+    explanation: "Forest mensuration deals with the measurement of forest produce (such as volume, height, girth and increment of trees).",
     difficulty: "hard"
   },
   {
-    id: "d281_126", subject: "da-281",
+    id: "d281_126",
+    subject: "da-281",
     question: "ASSERTION-REASON: Assertion (A): Deforestation leads to increased CO2 in the atmosphere. Reason (R): Trees absorb CO2 during photosynthesis; when cut, this absorption is lost and CO2 is released.",
     options: ["Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "Both A and R are true and R is the correct explanation of A", "A is false but R is true"],
     correct: 2,
@@ -1010,7 +1037,8 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_127", subject: "da-281",
+    id: "d281_127",
+    subject: "da-281",
     question: "Subabul (Leucaena leucocephala) is used for:",
     options: ["Fuelwood, fodder, nitrogen fixation (multipurpose)", "Only timber production", "Only paper pulp", "Only ornamental purposes"],
     correct: 0,
@@ -1018,15 +1046,17 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_128", subject: "da-281",
-    question: "Joint Forest Management (JFM) in India aims to:",
-    options: ["Convert forests to agriculture in horticultural practices", "Complete protection without human use for vegetable cultivation", "Involve local communities in forest protection for shared benefits", "Commercial timber exploitation in orchard management"],
+    id: "d281_128",
+    subject: "da-281",
+    question: "Agroforestry was defined (1978) by:",
+    options: ["Watson and Crick", "Champion and Seth", "King and Chander", "Mendel"],
     correct: 2,
-    explanation: "JFM (1990) involves local communities through Village Forest Committees in forest protection and management, sharing the benefits.",
+    explanation: "Agroforestry was defined by King & Chander (1978) as a sustainable land management system that combines production of crops, forest plants and/or animals on the same unit of land.",
     difficulty: "medium"
   },
   {
-    id: "d281_129", subject: "da-281",
+    id: "d281_129",
+    subject: "da-281",
     question: "Mangrove forests are found in:",
     options: ["Coastal saline tidal areas", "Himalayan alpine zones", "Dry deciduous regions", "Dry arid regions"],
     correct: 0,
@@ -1034,7 +1064,8 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_130", subject: "da-281",
+    id: "d281_130",
+    subject: "da-281",
     question: "Match medicinal plants: Col A: 1-Ashwagandha, 2-Aloe vera, 3-Senna, 4-Lemongrass. Col B: P-laxative, Q-skin healing, R-adaptogen, S-essential oil. Col C: i-Cymbopogon, ii-Cassia angustifolia, iii-Withania somnifera, iv-Aloe barbadensis",
     options: ["1-P-ii, 2-R-iii, 3-Q-iv, 4-S-i", "1-R-iii, 2-Q-iv, 3-P-ii, 4-S-i", "1-S-i, 2-P-ii, 3-R-iii, 4-Q-iv", "1-Q-iv, 2-S-i, 3-P-ii, 4-R-iii"],
     correct: 1,
@@ -1042,7 +1073,8 @@ export const da281Questions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d281_131", subject: "da-281",
+    id: "d281_131",
+    subject: "da-281",
     question: "The state tree of Telangana is:",
     options: ["Teak", "Jammi tree (Prosopis cineraria)", "Neem", "Banyan"],
     correct: 1,
@@ -1050,7 +1082,8 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_132", subject: "da-281",
+    id: "d281_132",
+    subject: "da-281",
     question: "Bamboo is called Green Gold because:",
     options: ["It has yellow color in horticultural practices", "Of its rapid growth, versatility, and high commercial value", "It is used only for gold extraction", "It stores water for vegetable cultivation"],
     correct: 1,
@@ -1058,15 +1091,17 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_133", subject: "da-281",
-    question: "India classifies its forests (Indian Forest Act 1927) into:",
-    options: ["Reserved forests only", "Commercial plantations only", "Reserved, protected, and unclassed forests", "Community and private forests only"],
-    correct: 2,
-    explanation: "India classifies forests into Reserved Forests (strictly protected), Protected Forests, and Unclassed Forests under the Indian Forest Act 1927.",
+    id: "d281_133",
+    subject: "da-281",
+    question: "The National Forest Policy aims to have what fraction of the country's land area under forest?",
+    options: ["One-half", "One-tenth", "Three-fourths", "One-third (33⅓%)"],
+    correct: 3,
+    explanation: "The National Forest Policy goal is to have one-third (33⅓%) of the total land area of the country under forest/tree cover to maintain ecological balance.",
     difficulty: "medium"
   },
   {
-    id: "d281_134", subject: "da-281",
+    id: "d281_134",
+    subject: "da-281",
     question: "ASSERTION-REASON: Assertion (A): Forests help prevent soil erosion. Reason (R): Tree roots bind soil particles and the canopy reduces the impact of rainfall on the soil surface.",
     options: ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"],
     correct: 0,
@@ -1074,7 +1109,8 @@ export const da281Questions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d281_135", subject: "da-281",
+    id: "d281_135",
+    subject: "da-281",
     question: "Lac is a forest product that is:",
     options: ["A resinous secretion of lac insects on host trees", "A root product of Acacia for vegetable cultivation", "A sap extracted from eucalyptus in orchard management", "A leaf extract from teak in horticultural practices"],
     correct: 0,
@@ -1082,7 +1118,8 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_136", subject: "da-281",
+    id: "d281_136",
+    subject: "da-281",
     question: "Tamarind (Tamarindus indica) in forestry and food is used for:",
     options: ["Edible fruit, souring agent in cooking, and medicine", "Timber and fuel only in horticultural practices", "Paper pulp only for vegetable cultivation", "Fodder only in orchard management"],
     correct: 0,
@@ -1090,7 +1127,8 @@ export const da281Questions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d281_137", subject: "da-281",
+    id: "d281_137",
+    subject: "da-281",
     question: "Which is a fire resistant timber tree?",
     options: ["Sal (Shorea robusta)", "Eucalyptus", "Bamboo", "Teak"],
     correct: 0,
@@ -1098,7 +1136,8 @@ export const da281Questions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d281_138", subject: "da-281",
+    id: "d281_138",
+    subject: "da-281",
     question: "Silvopastoral agroforestry system combines:",
     options: ["Trees + fish farming", "Trees + beekeeping", "Trees + crops", "Trees + livestock and pasture"],
     correct: 3,
@@ -1106,7 +1145,8 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_139", subject: "da-281",
+    id: "d281_139",
+    subject: "da-281",
     question: "The Casuarina tree is widely used for:",
     options: ["Spice production", "Edible fruits", "Coastal windbreaks and shelterbelts", "Gum extraction"],
     correct: 2,
@@ -1114,7 +1154,8 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_140", subject: "da-281",
+    id: "d281_140",
+    subject: "da-281",
     question: "Match timber trees: Col A: 1-Teak, 2-Sandalwood, 3-Rosewood, 4-Sal. Col B: P-Dalbergia latifolia, Q-Shorea robusta, R-Tectona grandis, S-Santalum album. Col C: i-furniture/timber, ii-fire resistant, iii-perfume/incense, iv-Karnataka",
     options: ["1-R-i, 2-S-iii, 3-P-iv, 4-Q-ii", "1-Q-ii, 2-P-iv, 3-S-iii, 4-R-i", "1-P-iv, 2-Q-ii, 3-R-i, 4-S-iii", "1-S-iii, 2-R-i, 3-Q-ii, 4-P-iv"],
     correct: 0,
@@ -1122,7 +1163,8 @@ export const da281Questions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d281_141", subject: "da-281",
+    id: "d281_141",
+    subject: "da-281",
     question: "Which organization publishes the Global Forest Resources Assessment?",
     options: ["UNDP", "UNEP", "World Bank", "FAO"],
     correct: 3,
@@ -1130,7 +1172,8 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_142", subject: "da-281",
+    id: "d281_142",
+    subject: "da-281",
     question: "Eucalyptus is controversial in agroforestry because:",
     options: ["It is difficult to plant in orchard management", "It does not provide shade in horticultural practices", "It grows very slowly for vegetable cultivation", "It depletes groundwater and soil nutrients despite fast growth"],
     correct: 3,
@@ -1138,7 +1181,8 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_143", subject: "da-281",
+    id: "d281_143",
+    subject: "da-281",
     question: "ASSERTION-REASON: Assertion (A): Eucalyptus is recommended for all agroforestry systems in India. Reason (R): Eucalyptus provides high biomass but is known to cause groundwater depletion and soil degradation.",
     options: ["Both A and R are true but R is not the correct explanation of A", "A is false but R is true", "A is true but R is false", "Both A and R are true and R is the correct explanation of A"],
     correct: 1,
@@ -1146,7 +1190,8 @@ export const da281Questions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d281_144", subject: "da-281",
+    id: "d281_144",
+    subject: "da-281",
     question: "The science of growing and tending to forests for human and environmental benefits is called:",
     options: ["Silviculture", "Ecology", "Pomology", "Dendrology"],
     correct: 0,
@@ -1154,7 +1199,8 @@ export const da281Questions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d281_145", subject: "da-281",
+    id: "d281_145",
+    subject: "da-281",
     question: "Which forest branch is concerned with financial aspects and long-term planning?",
     options: ["Dendrology", "Silviculture", "Forest mensuration", "Forest management"],
     correct: 3,
@@ -1162,7 +1208,8 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_146", subject: "da-281",
+    id: "d281_146",
+    subject: "da-281",
     question: "The primary purpose of windbreaks in agriculture is to:",
     options: ["Reduce wind speed and protect crops and soil from wind damage", "Supply timber for vegetable cultivation in agriculture", "Provide fuelwood in orchard management", "Provide shade to crops in horticultural practices"],
     correct: 0,
@@ -1170,7 +1217,8 @@ export const da281Questions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d281_147", subject: "da-281",
+    id: "d281_147",
+    subject: "da-281",
     question: "Aloe vera is primarily used for:",
     options: ["Windbreak protection in horticultural practices", "Burn healing, skin care, and digestive health", "Soil nitrogen fixation for vegetable cultivation", "Timber production in orchard management"],
     correct: 1,
@@ -1178,7 +1226,8 @@ export const da281Questions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d281_148", subject: "da-281",
+    id: "d281_148",
+    subject: "da-281",
     question: "ASSERTION-REASON: Assertion (A): Bamboo is the fastest growing woody plant. Reason (R): Some species of bamboo can grow up to 90 cm per day under ideal conditions.",
     options: ["Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "Both A and R are true and R is the correct explanation of A", "A is false but R is true"],
     correct: 2,
@@ -1186,7 +1235,8 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_149", subject: "da-281",
+    id: "d281_149",
+    subject: "da-281",
     question: "What is the main reason forests are essential for maintaining biodiversity?",
     options: ["Forests generate electricity in horticultural practices", "Forests provide habitat for plants, animals, microorganisms and protect ecosystems", "Forests provide only timber for vegetable cultivation", "Forests provide only medicinal plants in orchard management"],
     correct: 1,
@@ -1194,15 +1244,17 @@ export const da281Questions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d281_150", subject: "da-281",
-    question: "Match: Col A: 1-Carbon sequestration, 2-Soil conservation, 3-Water table, 4-Biodiversity. Functions of forests. Col B: P-roots bind soil, Q-stores CO2, R-habitat, S-roots recharge groundwater. Col C: i-climate mitigation, ii-erosion prevention, iii-animal habitats, iv-well water level",
-    options: ["1-S-iv, 2-R-iii, 3-P-ii, 4-Q-i", "1-Q-i, 2-P-ii, 3-S-iv, 4-R-iii", "1-P-ii, 2-Q-i, 3-R-iii, 4-S-iv", "1-R-iii, 2-S-iv, 3-Q-i, 4-P-ii"],
-    correct: 1,
-    explanation: "Carbon sequestration (stores CO2=climate mitigation=i), Soil conservation (roots bind=erosion prevention=ii), Water table (roots recharge=well level=iv), Biodiversity (habitat=animals=iii).",
+    id: "d281_150",
+    subject: "da-281",
+    question: "The seedling stage of a tree extends from germination up to a height of about:",
+    options: ["20 m", "10 m", "3 feet (1 m)", "30 cm"],
+    correct: 2,
+    explanation: "The growth stages of a tree are seedling (germination to 3 feet / 1 m), sapling, pole and tree.",
     difficulty: "hard"
   },
   {
-    id: "d281_151", subject: "da-281",
+    id: "d281_151",
+    subject: "da-281",
     question: "The botanical name of Indian rosewood used in furniture is:",
     options: ["Azadirachta indica", "Shorea robusta", "Tectona grandis", "Dalbergia latifolia"],
     correct: 3,
@@ -1210,15 +1262,17 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_152", subject: "da-281",
-    question: "Forests classified as Reserved Forests in India are:",
-    options: ["Open for all uses in horticultural practices", "Strictly protected with all activities restricted unless permitted", "Used only for tribal people", "Available for commercial logging for vegetable cultivation"],
-    correct: 1,
-    explanation: "Reserved Forests are the most strictly protected category under the Indian Forest Act 1927 — all activities are restricted unless specifically permitted.",
+    id: "d281_152",
+    subject: "da-281",
+    question: "Teak is botanically known as:",
+    options: ["Pongamia pinnata", "Azadirachta indica", "Tamarindus indica", "Tectona grandis"],
+    correct: 3,
+    explanation: "Teak is Tectona grandis (family Verbenaceae), one of the most famous timber species; its durability is partly due to the presence of 'Tectol'.",
     difficulty: "medium"
   },
   {
-    id: "d281_153", subject: "da-281",
+    id: "d281_153",
+    subject: "da-281",
     question: "Which tree is specifically mentioned in Indian scriptures and used during Dussehra festival?",
     options: ["Teak", "Jammi tree (Prosopis cineraria)", "Neem", "Banyan"],
     correct: 1,
@@ -1226,7 +1280,8 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_154", subject: "da-281",
+    id: "d281_154",
+    subject: "da-281",
     question: "ASSERTION-REASON: Assertion (A): Social forestry aims to grow trees for the benefit of local communities. Reason (R): Social forestry focuses only on commercial timber production in reserved forests.",
     options: ["Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "Both A and R are true and R is the correct explanation of A", "A is false but R is true"],
     correct: 1,
@@ -1234,7 +1289,8 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_155", subject: "da-281",
+    id: "d281_155",
+    subject: "da-281",
     question: "Forest mensuration tool used to measure diameter of a standing tree is:",
     options: ["Rangefinder in horticultural practices", "Biltmore stick or diameter tape", "Compass for vegetable cultivation", "Hypsometer in orchard management"],
     correct: 1,
@@ -1242,7 +1298,8 @@ export const da281Questions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d281_156", subject: "da-281",
+    id: "d281_156",
+    subject: "da-281",
     question: "What is the botanical name of sandalwood?",
     options: ["Tectona grandis", "Shorea robusta", "Santalum album", "Dalbergia latifolia"],
     correct: 2,
@@ -1250,7 +1307,8 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_157", subject: "da-281",
+    id: "d281_157",
+    subject: "da-281",
     question: "Aquaforestry is an agroforestry system combining:",
     options: ["Trees + livestock", "Trees + crops", "Trees + medicinal plants", "Trees + fish or aquatic organisms"],
     correct: 3,
@@ -1258,7 +1316,8 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_158", subject: "da-281",
+    id: "d281_158",
+    subject: "da-281",
     question: "The primary cause of deforestation in India is:",
     options: ["Agricultural expansion, urbanization, and commercial timber extraction", "Climate change only in horticultural practices", "Wildlife damage for vegetable cultivation", "Natural forest fires only"],
     correct: 0,
@@ -1266,7 +1325,8 @@ export const da281Questions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d281_159", subject: "da-281",
+    id: "d281_159",
+    subject: "da-281",
     question: "ASSERTION-REASON: Assertion (A): Agroforestry systems improve farm income and environmental sustainability simultaneously. Reason (R): Combining trees with crops or livestock provides multiple products and ecological services while using land more efficiently.",
     options: ["Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "Both A and R are true and R is the correct explanation of A", "A is false but R is true"],
     correct: 2,
@@ -1274,7 +1334,8 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_160", subject: "da-281",
+    id: "d281_160",
+    subject: "da-281",
     question: "Match forest products: Col A: 1-Timber, 2-Lac, 3-Bamboo, 4-Honey. Col B: P-NTFP from insects, Q-NTFP from grass family, R-wood for construction, S-NTFP from bees. Col C: i-furniture material, ii-insects on trees, iii-Gramineae family product, iv-beehive product",
     options: ["1-Q-iii, 2-S-iv, 3-R-i, 4-P-ii", "1-S-iv, 2-R-i, 3-P-ii, 4-Q-iii", "1-R-i, 2-P-ii, 3-Q-iii, 4-S-iv", "1-P-ii, 2-Q-iii, 3-S-iv, 4-R-i"],
     correct: 2,
@@ -1282,7 +1343,8 @@ export const da281Questions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d281_161", subject: "da-281",
+    id: "d281_161",
+    subject: "da-281",
     question: "The tree known as Kalpavriksha or tree of heaven due to multiple uses is:",
     options: ["Neem", "Bamboo", "Coconut", "Teak"],
     correct: 2,
@@ -1290,7 +1352,8 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_162", subject: "da-281",
+    id: "d281_162",
+    subject: "da-281",
     question: "Afforestation means:",
     options: ["Destroying existing forests", "Planting trees on land that was previously forested (reforestation)", "Planting trees on land that never had forests", "Clearing forests for agriculture"],
     correct: 2,
@@ -1298,7 +1361,8 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_163", subject: "da-281",
+    id: "d281_163",
+    subject: "da-281",
     question: "India's target for forest cover under the Paris Agreement (Nationally Determined Contributions) is:",
     options: ["2.5 to 3 billion tonnes additional carbon sink through forests", "0.5 billion tonnes additional carbon sink for vegetable cultivation", "1 billion tonnes additional carbon sink in orchard management", "5 billion tonnes additional carbon sink in horticultural practices"],
     correct: 0,
@@ -1306,7 +1370,8 @@ export const da281Questions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d281_164", subject: "da-281",
+    id: "d281_164",
+    subject: "da-281",
     question: "Which of the following statements about teak is correct?",
     options: ["Teak is an evergreen tree in horticultural practices in agriculture", "Teak belongs to the grass family for vegetable cultivation", "Teak is a deciduous tree native to South and Southeast Asia with high timber value", "Teak grows best in wet tropical conditions with waterlogged soil for crop production"],
     correct: 2,
@@ -1314,7 +1379,8 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_165", subject: "da-281",
+    id: "d281_165",
+    subject: "da-281",
     question: "ASSERTION-REASON: Assertion (A): Bamboo is considered a grass, not a tree. Reason (R): Bamboo belongs to the family Gramineae (Poaceae) and has hollow, jointed stems like other grasses.",
     options: ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"],
     correct: 0,
@@ -1322,7 +1388,8 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_166", subject: "da-281",
+    id: "d281_166",
+    subject: "da-281",
     question: "Which part of aloe vera is used medicinally?",
     options: ["Fleshy inner leaf gel", "Root only", "Bark only", "Seeds only"],
     correct: 0,
@@ -1330,7 +1397,8 @@ export const da281Questions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d281_167", subject: "da-281",
+    id: "d281_167",
+    subject: "da-281",
     question: "The Sundarbans is the world's largest:",
     options: ["Dry deciduous forest", "Mangrove forest", "Thorn forest", "Tropical wet evergreen forest"],
     correct: 1,
@@ -1338,7 +1406,8 @@ export const da281Questions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d281_168", subject: "da-281",
+    id: "d281_168",
+    subject: "da-281",
     question: "Nitrogen fixing trees used in agroforestry include:",
     options: ["Neem and tamarind", "Bamboo and eucalyptus", "Teak and sandalwood", "Subabul (Leucaena) and Acacia species"],
     correct: 3,
@@ -1346,7 +1415,8 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_169", subject: "da-281",
+    id: "d281_169",
+    subject: "da-281",
     question: "ASSERTION-REASON: Assertion (A): India is a mega-biodiversity country. Reason (R): India contains about 7-8% of the world's recorded species despite having only 2.4% of the world's land area.",
     options: ["Both A and R are true but R is not the correct explanation of A", "A is false but R is true", "A is true but R is false", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
@@ -1354,7 +1424,8 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_170", subject: "da-281",
+    id: "d281_170",
+    subject: "da-281",
     question: "Match: Col A: 1-Silviculture, 2-Forest mensuration, 3-Dendrology, 4-Forest management. Col B: P-tree identification, Q-financial planning, R-tree establishment/growth, S-volume measurement. Col C: i-growth rings, ii-yield table, iii-thinning operations, iv-forest working plan",
     options: ["1-P-i, 2-Q-iv, 3-R-iii, 4-S-ii", "1-R-iii, 2-S-ii, 3-P-i, 4-Q-iv", "1-Q-iv, 2-P-i, 3-S-ii, 4-R-iii", "1-S-ii, 2-R-iii, 3-Q-iv, 4-P-i"],
     correct: 1,
@@ -1362,7 +1433,8 @@ export const da281Questions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d281_171", subject: "da-281",
+    id: "d281_171",
+    subject: "da-281",
     question: "What is the main active compound in neem that makes it a biopesticide?",
     options: ["Curcumin", "Azadirachtin", "Tannin", "Quinine"],
     correct: 1,
@@ -1370,7 +1442,8 @@ export const da281Questions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d281_172", subject: "da-281",
+    id: "d281_172",
+    subject: "da-281",
     question: "Farm forestry refers to:",
     options: ["Growing trees only in forest departments in horticultural practices", "Growing trees only for wildlife for vegetable cultivation", "Growing trees on private farm land by farmers for economic benefits", "Only planting fruit trees in orchard management"],
     correct: 2,
@@ -1378,7 +1451,8 @@ export const da281Questions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d281_173", subject: "da-281",
+    id: "d281_173",
+    subject: "da-281",
     question: "Eucalyptus was introduced to India primarily from:",
     options: ["USA", "Africa", "Brazil", "Australia"],
     correct: 3,
@@ -1386,23 +1460,26 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_174", subject: "da-281",
-    question: "The term agroforestry was coined by:",
-    options: ["FAO in 1960 in orchard management", "National Forest Policy 1952 in horticultural practices", "Indian Forest Act 1927 for vegetable cultivation", "ICRAF (International Centre for Research in Agroforestry) in the 1970s"],
-    correct: 3,
-    explanation: "The term agroforestry was formally defined and popularized by ICRAF (now World Agroforestry Centre) in the 1970s.",
+    id: "d281_174",
+    subject: "da-281",
+    question: "Bamboo is popularly known by which names?",
+    options: ["'White Gold'", "'Green Gold' and 'Poor man's timber'", "'King of fibres'", "'Wonder Tree'"],
+    correct: 1,
+    explanation: "Bamboo (Dendrocalamus strictus, family Poaceae) is known as 'Green Gold' and, because of its many inexpensive uses, as 'Poor man's timber'.",
     difficulty: "hard"
   },
   {
-    id: "d281_175", subject: "da-281",
-    question: "ASSERTION-REASON: Assertion (A): The Chipko movement was initiated by women. Reason (R): Women in Uttarakhand hills were most affected by deforestation — losing fuelwood, fodder, and water sources.",
-    options: ["Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "Both A and R are true and R is the correct explanation of A", "A is false but R is true"],
-    correct: 2,
-    explanation: "Chipko was largely women-led because women suffer most from deforestation (collecting fuelwood, water, fodder). R correctly explains A.",
+    id: "d281_175",
+    subject: "da-281",
+    question: "Assertion (A): Agroforestry helps reduce soil erosion on farmland.\nReason (R): Trees grown on agricultural fields reduce run-off and conserve moisture.",
+    options: ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"],
+    correct: 0,
+    explanation: "Planting trees on agricultural fields reduces soil erosion, run-off and floods and conserves moisture, which benefits crop production. Both A and R are true and R explains A.",
     difficulty: "medium"
   },
   {
-    id: "d281_176", subject: "da-281",
+    id: "d281_176",
+    subject: "da-281",
     question: "Which state has the highest forest cover in India?",
     options: ["Madhya Pradesh", "Chhattisgarh", "Maharashtra", "Arunachal Pradesh"],
     correct: 0,
@@ -1410,7 +1487,8 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_177", subject: "da-281",
+    id: "d281_177",
+    subject: "da-281",
     question: "The main function of roots in preventing soil erosion is:",
     options: ["Absorbing sunlight in orchard management", "Releasing nutrients in horticultural practices", "Producing oxygen for vegetable cultivation", "Binding soil particles and increasing infiltration"],
     correct: 3,
@@ -1418,7 +1496,8 @@ export const da281Questions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d281_178", subject: "da-281",
+    id: "d281_178",
+    subject: "da-281",
     question: "Match NTFP types: Col A: 1-Gum/Resin, 2-Lac, 3-Honey, 4-Medicinal plant. Col B: P-insect product, Q-bee product, R-plant exudate, S-herbal product. Col C: i-Ashwagandha, ii-Kerria lacca secretion, iii-Acacia gum, iv-honeycomb",
     options: ["1-S-i, 2-R-iii, 3-P-ii, 4-Q-iv", "1-P-ii, 2-Q-iv, 3-R-iii, 4-S-i", "1-Q-iv, 2-S-i, 3-P-ii, 4-R-iii", "1-R-iii, 2-P-ii, 3-Q-iv, 4-S-i"],
     correct: 3,
@@ -1426,7 +1505,8 @@ export const da281Questions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d281_179", subject: "da-281",
+    id: "d281_179",
+    subject: "da-281",
     question: "The Indian Forest Act that governs forest management in India was enacted in:",
     options: ["1988", "1927", "1972", "1952"],
     correct: 1,
@@ -1434,7 +1514,8 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_180", subject: "da-281",
+    id: "d281_180",
+    subject: "da-281",
     question: "ASSERTION-REASON: Assertion (A): Forest management aims for sustained yield from forests. Reason (R): Sustained yield means harvesting forest products at a rate that allows forests to regenerate, ensuring permanent forest productivity.",
     options: ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"],
     correct: 0,
@@ -1442,7 +1523,8 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_181", subject: "da-281",
+    id: "d281_181",
+    subject: "da-281",
     question: "Which tree is used as the host plant for lac insects?",
     options: ["Eucalyptus in horticultural practices", "Teak for vegetable cultivation", "Ber (Ziziphus mauritiana) and Palas (Butea monosperma)", "Neem in orchard management"],
     correct: 2,
@@ -1450,7 +1532,8 @@ export const da281Questions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d281_182", subject: "da-281",
+    id: "d281_182",
+    subject: "da-281",
     question: "Which of the following is NOT a medicinal plant?",
     options: ["Ashwagandha", "Aloe vera", "Senna", "Eucalyptus (timber)"],
     correct: 3,
@@ -1458,7 +1541,8 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_183", subject: "da-281",
+    id: "d281_183",
+    subject: "da-281",
     question: "The main products from bamboo include:",
     options: ["Only paper for vegetable cultivation", "Only food in horticultural practices in agriculture", "Construction, crafts, paper pulp, food (bamboo shoots), and biofuel", "Only furniture in orchard management for crop production"],
     correct: 2,
@@ -1466,7 +1550,8 @@ export const da281Questions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d281_184", subject: "da-281",
+    id: "d281_184",
+    subject: "da-281",
     question: "ASSERTION-REASON: Assertion (A): Teak is one of the most commercially valuable timber species in India. Reason (R): Teak wood is highly durable, resistant to decay and termites, making it ideal for furniture, shipbuilding, and flooring.",
     options: ["Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true"],
     correct: 1,
@@ -1474,7 +1559,8 @@ export const da281Questions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d281_185", subject: "da-281",
+    id: "d281_185",
+    subject: "da-281",
     question: "The Vana Mahotsava (Festival of Trees) in India was initiated to promote:",
     options: ["Timber trade for vegetable cultivation", "Wildlife protection in horticultural practices", "Tree planting and afforestation across India", "Forest fire control"],
     correct: 2,
@@ -1482,7 +1568,8 @@ export const da281Questions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d281_186", subject: "da-281",
+    id: "d281_186",
+    subject: "da-281",
     question: "Which forest type is found in the Western Ghats and Northeast India with rainfall over 200 cm?",
     options: ["Tropical dry deciduous", "Tropical wet evergreen", "Mangrove forest", "Thorn forest"],
     correct: 1,
@@ -1490,7 +1577,8 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_187", subject: "da-281",
+    id: "d281_187",
+    subject: "da-281",
     question: "The Forest Survey of India (FSI) publishes the State of Forest Report every:",
     options: ["2 years", "Year", "10 years", "5 years"],
     correct: 0,
@@ -1498,7 +1586,8 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_188", subject: "da-281",
+    id: "d281_188",
+    subject: "da-281",
     question: "Match branches of forestry: Col A: 1-Silviculture, 2-Dendrology, 3-Forest mensuration, 4-Agroforestry. Col B: P-tree study, Q-tree+crop system, R-timber measurement, S-forest growth control. Col C: i-yield tables, ii-thinning, iii-wood anatomy, iv-alley cropping",
     options: ["1-Q-iv, 2-S-ii, 3-P-iii, 4-R-i", "1-P-iii, 2-R-i, 3-Q-iv, 4-S-ii", "1-S-ii, 2-P-iii, 3-R-i, 4-Q-iv", "1-R-i, 2-Q-iv, 3-P-iii, 4-S-ii"],
     correct: 2,
@@ -1506,7 +1595,8 @@ export const da281Questions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d281_189", subject: "da-281",
+    id: "d281_189",
+    subject: "da-281",
     question: "Why is forest cover important for watershed management?",
     options: ["Forests only produce timber in horticultural practices in agriculture", "Forests block rainfall for vegetable cultivation", "Forests reduce surface runoff, promote groundwater recharge, and regulate stream flow", "Forests only provide shade in orchard management for crop production"],
     correct: 2,
@@ -1514,7 +1604,8 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_190", subject: "da-281",
+    id: "d281_190",
+    subject: "da-281",
     question: "ASSERTION-REASON: Assertion (A): Medicinal plants are an important component of forest wealth. Reason (R): About 80% of the world's population depends on plant-based medicines for primary healthcare.",
     options: ["Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true"],
     correct: 1,
@@ -1522,7 +1613,8 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_191", subject: "da-281",
+    id: "d281_191",
+    subject: "da-281",
     question: "Acacia nilotica (babul tree) is primarily used for:",
     options: ["Ornamental purposes in horticultural practices", "Gum arabic, fuelwood, fodder, and tannin extraction", "Timber only for vegetable cultivation", "Edible fruits only in orchard management"],
     correct: 1,
@@ -1530,7 +1622,8 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_192", subject: "da-281",
+    id: "d281_192",
+    subject: "da-281",
     question: "The correct sequence of Forest Policy evolution in India is:",
     options: ["1988 → 1952 → 1894", "1927 → 1952 → 1994", "1952 → 1894 → 1988", "1894 → 1952 → 1988"],
     correct: 3,
@@ -1538,7 +1631,8 @@ export const da281Questions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d281_193", subject: "da-281",
+    id: "d281_193",
+    subject: "da-281",
     question: "Which is the fastest growing tree species used in commercial forestry?",
     options: ["Sal", "Sandalwood", "Eucalyptus and Casuarina", "Teak"],
     correct: 2,
@@ -1546,7 +1640,8 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_194", subject: "da-281",
+    id: "d281_194",
+    subject: "da-281",
     question: "Neem seeds contain neem oil used as a biopesticide; the main active compound is:",
     options: ["Curcumin", "Quinine", "Azadirachtin", "Allicin"],
     correct: 2,
@@ -1554,7 +1649,8 @@ export const da281Questions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d281_195", subject: "da-281",
+    id: "d281_195",
+    subject: "da-281",
     question: "ASSERTION-REASON: Assertion (A): Alley cropping is a type of agroforestry. Reason (R): In alley cropping, food crops are grown in alleys between rows of trees or shrubs, benefiting from shade, fallen leaves (mulch), and root competition being limited.",
     options: ["Both A and R are true but R is not the correct explanation of A", "A is false but R is true", "A is true but R is false", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
@@ -1562,7 +1658,8 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_196", subject: "da-281",
+    id: "d281_196",
+    subject: "da-281",
     question: "The primary role of forests in the global carbon cycle is:",
     options: ["Carbon emitters in horticultural practices", "Carbon neutral (no net effect)", "Carbon producers only for vegetable cultivation", "Carbon sinks that absorb CO2 through photosynthesis"],
     correct: 3,
@@ -1570,7 +1667,8 @@ export const da281Questions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d281_197", subject: "da-281",
+    id: "d281_197",
+    subject: "da-281",
     question: "Which Indian forest region is known as the Lungs of the Earth due to oxygen production?",
     options: ["Thar desert scrub forests", "Amazon Rainforest in South America (global reference)", "Western Ghats forests", "Sundarbans mangroves"],
     correct: 2,
@@ -1578,28 +1676,30 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_198", subject: "da-281",
-    question: "Match forest types to distribution: Col A: 1-Mangrove, 2-Alpine forest, 3-Dry thorn, 4-Tropical evergreen. Col B: P-Western Ghats, Q-Himalayas, R-Rajasthan, S-Sundarbans/coastal. Col C: i-above 3000m altitude, ii-rainfall >200cm, iii-saline tidal zone, iv-rainfall <75cm",
-    options: ["1-P-ii, 2-S-iii, 3-Q-i, 4-R-iv", "1-R-iv, 2-P-ii, 3-Q-i, 4-S-iii", "1-Q-i, 2-R-iv, 3-S-iii, 4-P-ii", "1-S-iii, 2-Q-i, 3-R-iv, 4-P-ii"],
-    correct: 3,
-    explanation: "Mangrove (saline tidal=Sundarbans=iii), Alpine (>3000m=Himalayas=i), Dry thorn (<75cm=Rajasthan=iv), Tropical evergreen (>200cm=Western Ghats=ii).",
+    id: "d281_198",
+    subject: "da-281",
+    question: "Subabul is botanically known as:",
+    options: ["Tectona grandis", "Eucalyptus tereticornis", "Leucaena leucocephala", "Withania somnifera"],
+    correct: 2,
+    explanation: "Subabul is Leucaena leucocephala (family Leguminaceae); it is a vigorous coppicer and responds well to pollarding, lopping and pruning.",
     difficulty: "hard"
   },
   {
-    id: "d281_199", subject: "da-281",
-    question: "ASSERTION-REASON: Assertion (A): Joint Forest Management (JFM) was introduced in India in 1990. Reason (R): JFM was introduced to recognize that top-down forest management alone had failed to protect forests and communities needed to be partners.",
-    options: ["Both A and R are true but R is not the correct explanation of A", "A is false but R is true", "A is true but R is false", "Both A and R are true and R is the correct explanation of A"],
-    correct: 3,
-    explanation: "JFM was introduced in 1990 recognizing the failure of centralized management. Community involvement through Village Forest Committees improved forest protection. R explains A.",
+    id: "d281_199",
+    subject: "da-281",
+    question: "Assertion (A): Neem is called the 'Wonder Tree' of the 21st century.\nReason (R): Almost every part of neem has medicinal or pesticidal value.",
+    options: ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false", "A is false but R is true"],
+    correct: 0,
+    explanation: "Neem (Azadirachta indica) is universally accepted as a 'Wonder Tree'; neem cake and other parts have nitrogenous and pesticidal value. Both A and R are true and R explains A.",
     difficulty: "medium"
   },
   {
-    id: "d281_200", subject: "da-281",
+    id: "d281_200",
+    subject: "da-281",
     question: "What percentage of India's medicinal plants are sourced from forests?",
     options: ["95%", "10%", "70%", "25%"],
     correct: 2,
     explanation: "Approximately 70% of India's medicinal plants used in traditional medicine (Ayurveda, Siddha, Unani) are sourced from forests and forest-adjacent areas.",
     difficulty: "hard"
-  }
-
-] as Question[];
+  },
+];
