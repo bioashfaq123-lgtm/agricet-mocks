@@ -1,15 +1,7 @@
 // ===== FILE: da-122-lectures.ts =====
 import { Question } from "@/types";
 
-// DA-122: Manures and Fertilizers — Lecture-wise Question Bank
-// Source: PJTSAU Diploma in Agriculture DA-122 course material
-// 150 questions (15 per lecture × 10 lectures)
-
 export const da122LectureQuestions: Question[] = [
-
-  // ─────────────────────────────────────────────────────────
-  // LECTURE 1: Farmyard Manure & Compost
-  // ─────────────────────────────────────────────────────────
   {
     id: "d122l_001",
     subject: "da-122",
@@ -160,10 +152,6 @@ export const da122LectureQuestions: Question[] = [
     correct: 2,
     explanation: "Turning aerates the heap, replenishing oxygen for aerobic microbes, exposing undecomposed outer material to the active centre, and ensuring uniform temperature and moisture distribution throughout the pile."
   },
-
-  // ─────────────────────────────────────────────────────────
-  // LECTURE 2: Vermicompost & Green Manures
-  // ─────────────────────────────────────────────────────────
   {
     id: "d122l_016",
     subject: "da-122",
@@ -314,10 +302,6 @@ export const da122LectureQuestions: Question[] = [
     correct: 2,
     explanation: "Mucuna pruriens is a vigorous cover crop that fixes 100–150 kg N ha⁻¹ through Rhizobium symbiosis, produces 20–30 t ha⁻¹ biomass, suppresses weeds, and is widely used in humid tropics for soil improvement."
   },
-
-  // ─────────────────────────────────────────────────────────
-  // LECTURE 3: Biofertilizers
-  // ─────────────────────────────────────────────────────────
   {
     id: "d122l_031",
     subject: "da-122",
@@ -468,10 +452,6 @@ export const da122LectureQuestions: Question[] = [
     correct: 2,
     explanation: "Azolla is introduced to the flooded field at 1 t ha⁻¹ (fresh weight) and allowed to multiply for 2–3 weeks, then incorporated as a basal N source, or maintained as a dual crop between rice rows throughout the season."
   },
-
-  // ─────────────────────────────────────────────────────────
-  // LECTURE 4: Nitrogen Fertilizers
-  // ─────────────────────────────────────────────────────────
   {
     id: "d122l_046",
     subject: "da-122",
@@ -487,10 +467,10 @@ export const da122LectureQuestions: Question[] = [
     subject: "da-122",
     lecture: "lecture-4",
     lectureNo: 4,
-    question: "Ammonium sulphate (AS) contains what percentage of nitrogen and what secondary nutrient?",
-    options: ["20.6% N and 24% Sulphur (S)", "15% N and 10% Magnesium (Mg)", "33% N and 18% Calcium (Ca)", "46% N; no secondary nutrient"],
+    question: "Ammonium sulphate (AS) fertilizer contains:",
+    options: ["21% N and 24% S", "46% N only", "18% N and 46% P", "12% N and 12% S"],
     correct: 0,
-    explanation: "Ammonium sulphate [(NH₄)₂SO₄] contains 20.6% N and 24% S. It is acidifying and preferred for alkaline soils and S-deficient crops like oilseeds, pulses, and rice."
+    explanation: "Ammonium sulphate contains 21% N and 24% S, making it a preferred nitrogen source that also supplies sulphur."
   },
   {
     id: "d122l_048",
@@ -517,10 +497,10 @@ export const da122LectureQuestions: Question[] = [
     subject: "da-122",
     lecture: "lecture-4",
     lectureNo: 4,
-    question: "Ammonium chloride (NH₄Cl) fertilizer contains approximately what percentage of nitrogen?",
-    options: ["33%", "46%", "20%", "25.5–26%"],
-    correct: 3,
-    explanation: "Ammonium chloride (NH₄Cl) contains 25.5–26% N. It is preferred for paddy rice in Japan and China but Cl toxicity limits its use for tobacco, potatoes, and other chlorine-sensitive crops."
+    question: "Ammonium chloride (NH₄Cl) fertilizer contains approximately:",
+    options: ["25% N", "46% N", "12% N", "60% N"],
+    correct: 0,
+    explanation: "Ammonium chloride contains about 25% N. On application it dissociates into ammonium and chlorine in the soil; it can be applied in wetlands but not for chloride-sensitive crops."
   },
   {
     id: "d122l_051",
@@ -547,10 +527,10 @@ export const da122LectureQuestions: Question[] = [
     subject: "da-122",
     lecture: "lecture-4",
     lectureNo: 4,
-    question: "The Neem-coated urea (NCU) policy mandated in India aims to:",
-    options: ["Add micronutrients (Zn, B) from neem seeds to the soil", "Improve neem tree cultivation by providing a market for neem oil", "Reduce urea theft for non-agricultural purposes by making it bitter", "Reduce urease activity and slow nitrification, improving N use efficiency by 5–10%"],
-    correct: 3,
-    explanation: "Neem-coated urea (2% neem oil) has dual benefits: neem oil contains nimbin/nimbidin that inhibit soil urease (reducing NH₃ volatilisation) and Nitrosomonas activity (slowing nitrification), improving NUE by 5–15%."
+    question: "Urea, the most widely used nitrogenous fertilizer, contains a minimum total nitrogen (as per FCO) of:",
+    options: ["44%", "21%", "26%", "18%"],
+    correct: 0,
+    explanation: "As per FCO specifications, urea must contain a minimum of 44% total nitrogen (commonly ~46% N), with maximum biuret content of 1.5%."
   },
   {
     id: "d122l_054",
@@ -622,10 +602,6 @@ export const da122LectureQuestions: Question[] = [
     correct: 1,
     explanation: "Urea [CO(NH₂)₂] is a diamide of carbonic acid — nitrogen is in the amide form (–NH₂). In soil, urease enzyme hydrolyses urea → NH₄⁺ + HCO₃⁻ within 1–3 days at normal temperature."
   },
-
-  // ─────────────────────────────────────────────────────────
-  // LECTURE 5: Phosphatic Fertilizers
-  // ─────────────────────────────────────────────────────────
   {
     id: "d122l_061",
     subject: "da-122",
@@ -701,10 +677,10 @@ export const da122LectureQuestions: Question[] = [
     subject: "da-122",
     lecture: "lecture-5",
     lectureNo: 5,
-    question: "Mussoorie rock phosphate (MRP) is a partially acidulated rock phosphate with P₂O₅ content of approximately:",
-    options: ["8%", "44%", "20%", "16%"],
-    correct: 2,
-    explanation: "Mussoorie Rock Phosphate from Uttarakhand contains approximately 20% P₂O₅. It is partially soluble and suitable for direct application to acid soils as a slow-release P source."
+    question: "As per FCO specifications, di-ammonium phosphate (DAP) contains a minimum of:",
+    options: ["18% N and 46% P₂O₅", "21% N and 24% S", "44% N only", "60% K₂O"],
+    correct: 0,
+    explanation: "As per FCO, DAP contains a minimum of 18% total nitrogen and 46% total phosphates (as P₂O₅), of which 41.6% is water-soluble."
   },
   {
     id: "d122l_069",
@@ -771,15 +747,11 @@ export const da122LectureQuestions: Question[] = [
     subject: "da-122",
     lecture: "lecture-5",
     lectureNo: 5,
-    question: "In Telangana, the prevalent Alfisols (red soils) have high P fixation capacity because they are rich in:",
-    options: ["Free iron (Fe₂O₃) and aluminium (Al₂O₃) oxides from intense weathering", "Montmorillonite clay with high CEC in soil science", "Organic matter with high phosphatase activity", "CaCO₃ and Mg²⁺ for soil management"],
+    question: "Single super phosphate (SSP) is manufactured by treating rock phosphate with:",
+    options: ["Sulphuric acid (H₂SO₄)", "Sodium hydroxide", "Ammonia gas", "Potassium chloride"],
     correct: 0,
-    explanation: "Alfisols (red soils) of Telangana are strongly weathered, rich in Fe₂O₃ (hematite, goethite) and Al₂O₃ oxides that have high P adsorption capacity, making P management critical in these soils."
+    explanation: "Single super phosphate is prepared by treating rock phosphate with concentrated sulphuric acid (H₂SO₄); it also supplies sulphur and calcium."
   },
-
-  // ─────────────────────────────────────────────────────────
-  // LECTURE 6: Potassic Fertilizers
-  // ─────────────────────────────────────────────────────────
   {
     id: "d122l_076",
     subject: "da-122",
@@ -915,10 +887,10 @@ export const da122LectureQuestions: Question[] = [
     subject: "da-122",
     lecture: "lecture-6",
     lectureNo: 6,
-    question: "India imports most of its potash requirement as MOP from which countries?",
-    options: ["USA and Australia", "Bangladesh and Sri Lanka", "Canada (Saskatchewan), Russia, Belarus, and Jordan", "China and Pakistan"],
-    correct: 2,
-    explanation: "India has no significant domestic potash deposits and imports nearly 100% of its MOP requirement from Canada (Canpotex), Russia, Belarus, and Jordan. This makes K the most import-dependent nutrient for Indian agriculture."
+    question: "Sulphate of potash (SOP) contains:",
+    options: ["18% N and 46% P", "60% potassium only", "46% nitrogen", "50% potassium and 18% sulphur"],
+    correct: 3,
+    explanation: "Sulphate of potash (SOP) contains 50% potassium and 18% sulphur; it is costlier than muriate of potash but preferred for chloride-sensitive crops."
   },
   {
     id: "d122l_090",
@@ -930,10 +902,6 @@ export const da122LectureQuestions: Question[] = [
     correct: 0,
     explanation: "Wood ash contains K₂CO₃ (potash), providing 5–10% K₂O along with Ca and Mg carbonates. It has an alkaline reaction and can substitute for lime in acid soils while providing K. It is a traditional fertilizer in India."
   },
-
-  // ─────────────────────────────────────────────────────────
-  // LECTURE 7: Complex & Mixed Fertilizers
-  // ─────────────────────────────────────────────────────────
   {
     id: "d122l_091",
     subject: "da-122",
@@ -1084,10 +1052,6 @@ export const da122LectureQuestions: Question[] = [
     correct: 1,
     explanation: "Each granule of a complex fertilizer contains all nutrients in fixed ratio, so broadcasting gives uniform nutrient distribution. Separately applied fertilizers can segregate, leading to uneven nutrient distribution across the field."
   },
-
-  // ─────────────────────────────────────────────────────────
-  // LECTURE 8: Micronutrient Fertilizers
-  // ─────────────────────────────────────────────────────────
   {
     id: "d122l_106",
     subject: "da-122",
@@ -1238,10 +1202,6 @@ export const da122LectureQuestions: Question[] = [
     correct: 2,
     explanation: "Borax soil application: 10–15 kg ha⁻¹ for B-deficient soils. Due to the narrow B deficiency-toxicity range, doses must be carefully calibrated. Sunflower, groundnut, and rapeseed are high-B requiring crops."
   },
-
-  // ─────────────────────────────────────────────────────────
-  // LECTURE 9: Integrated Nutrient Management (INM)
-  // ─────────────────────────────────────────────────────────
   {
     id: "d122l_121",
     subject: "da-122",
@@ -1392,10 +1352,6 @@ export const da122LectureQuestions: Question[] = [
     correct: 0,
     explanation: "Long-term INM adoption increases soil microbial biomass C, enzyme activity (dehydrogenase, urease, phosphatase), earthworm population, aggregate stability, and infiltration rate — all indicators of improved soil biological health."
   },
-
-  // ─────────────────────────────────────────────────────────
-  // LECTURE 10: Fertilizer Laws & Quality Control
-  // ─────────────────────────────────────────────────────────
   {
     id: "d122l_136",
     subject: "da-122",
@@ -1431,40 +1387,40 @@ export const da122LectureQuestions: Question[] = [
     subject: "da-122",
     lecture: "lecture-10",
     lectureNo: 10,
-    question: "The Soil Health Card (SHC) scheme in India was launched in which year?",
-    options: ["2020", "2015", "2010", "2005"],
-    correct: 1,
-    explanation: "The Soil Health Card Scheme was launched by the Government of India on 19 February 2015 under the Department of Agriculture, Cooperation and Farmers Welfare (DACFW) to promote soil testing and rational fertilizer use."
+    question: "The Fertilizer Control Order (FCO) in India was first passed in the year:",
+    options: ["1957", "1985", "2010", "1966"],
+    correct: 0,
+    explanation: "The Fertilizer Control Order (FCO) was passed on 28 April 1957 under the Essential Commodities Act, 1955, and came into effect from 18 May 1957."
   },
   {
     id: "d122l_140",
     subject: "da-122",
     lecture: "lecture-10",
     lectureNo: 10,
-    question: "The Direct Benefit Transfer (DBT) system for fertilizer subsidy in India was introduced to:",
-    options: ["Allow import of fertilizers without customs duty in soil science", "Ensure subsidy reaches genuine farmers by linking fertilizer purchase to Aadhaar/farmer identity at point of sale", "Eliminate all fertilizer subsidies to farmers for soil management according to soil fertility and water conservation principles", "Regulate fertilizer prices to match international market rates in soil fertility"],
-    correct: 1,
-    explanation: "DBT for fertilizers (PoS — Point of Sale machines linked to Aadhaar) ensures subsidy is released only on actual sale to verified farmers, preventing diversion. Fertilizer companies receive subsidy reimbursement from government after verified farmer sale."
+    question: "The Fertilizer Control Order (FCO) was revised in the year:",
+    options: ["2005", "1957", "1985", "1991"],
+    correct: 2,
+    explanation: "The FCO was revised in 1985, with effect from 25 September 1985; the Government of India delegated powers to state governments to implement the order."
   },
   {
     id: "d122l_141",
     subject: "da-122",
     lecture: "lecture-10",
     lectureNo: 10,
-    question: "The nutrient-based subsidy (NBS) scheme in India, implemented since 2010, covers which fertilizers?",
-    options: ["Urea and MOP only in soil science", "All P and K fertilizers (and SSP); urea remains under flat-rate subsidy separately", "All fertilizers including urea under a single scheme in soil fertility", "Only imported fertilizers excluding domestically produced ones for soil management"],
-    correct: 1,
-    explanation: "NBS scheme (from April 2010) provides fixed per-kg subsidy on P and K fertilizers (DAP, MOP, SSP, NPK complexes, etc.) based on their nutrient content. Urea continues under a separate concession scheme with MRP fixed by government."
+    question: "Under the FCO, a fertilizer manufacturer must obtain a licence from:",
+    options: ["The local police station", "The village panchayat", "Any private bank", "The Commissioner of Agriculture of the concerned state"],
+    correct: 3,
+    explanation: "Under FCO, fertilizer manufacturers must obtain a licence from the Commissioner of Agriculture of the concerned state government; dealers register with the Assistant Director of Agriculture (ADA)."
   },
   {
     id: "d122l_142",
     subject: "da-122",
     lecture: "lecture-10",
     lectureNo: 10,
-    question: "Under the FCO, the fertilizer inspector is empowered to:",
-    options: ["Import fertilizers directly on behalf of the government", "Fix the price of fertilizers in the market during the critical growth period of crops", "Approve new fertilizer factories in soil science in irrigated crop production systems", "Take samples, inspect premises, check quality, and initiate prosecution for substandard fertilizers"],
-    correct: 3,
-    explanation: "Fertilizer inspectors under FCO 1985 are authorised to collect samples, inspect dealer/manufacturer premises, check labelling, test quality, and file complaints/prosecute for violation of FCO provisions."
+    question: "As per FCO specifications, the minimum total nitrogen content of urea is:",
+    options: ["44%", "18%", "26%", "60%"],
+    correct: 0,
+    explanation: "As per FCO standards, urea must contain a minimum of 44% total nitrogen by weight, with maximum moisture of 1.0% and biuret of 1.5%."
   },
   {
     id: "d122l_143",
@@ -1511,10 +1467,10 @@ export const da122LectureQuestions: Question[] = [
     subject: "da-122",
     lecture: "lecture-10",
     lectureNo: 10,
-    question: "The Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) is related to fertilizer management in that it promotes:",
-    options: ["Micro-irrigation (drip/sprinkler) enabling precision fertigation and reducing fertilizer wastage", "Free fertilizer distribution to all farmers under tropical agricultural conditions", "Export of surplus fertilizers to neighboring countries", "Subsidy for organic fertilizer purchase only under tropical agricultural conditions"],
-    correct: 0,
-    explanation: "PMKSY promotes micro-irrigation (drip/sprinkler) adoption. Drip systems enable fertigation — delivering nutrients directly to the root zone through irrigation water — improving fertilizer use efficiency by 20–30% and reducing waste."
+    question: "The Fertilizer Movement Order (FMO), 1960 was passed in order to regulate:",
+    options: ["Seed certification", "The retail price of vegetables", "Interstate movement and export of fertilizers", "Pesticide registration"],
+    correct: 2,
+    explanation: "The Fertilizer Movement Order (FMO) was passed on 31 December 1960 (effective 1 January 1961) to regulate the interstate movement and export of fertilizers."
   },
   {
     id: "d122l_148",
@@ -1546,9 +1502,6 @@ export const da122LectureQuestions: Question[] = [
     correct: 1,
     explanation: "Telangana fertilizer recommendations are based on soil test-crop response (STCR) data from AICRP (All India Coordinated Research Project) experiments, PJTSAU research, and analyses by state soil testing laboratories, calibrated for local soils and crops."
   },
-
-
-  // ── BATCH 2: Additional 100 questions from PJTSAU DA-122 Theory Notes (Manures & Fertilizers) ──
   {
     id: "d122x_001",
     subject: "da-122",
@@ -2144,10 +2097,10 @@ export const da122LectureQuestions: Question[] = [
     subject: "da-122",
     lecture: "lecture-25",
     lectureNo: 25,
-    question: "Nitrification inhibitors like Neem-coated urea are used to:",
-    options: ["Speed up conversion of urea to nitrate", "Kill soil microorganisms", "Increase alkalinity of soil", "Slow down nitrification, preventing N loss through leaching and denitrification"],
+    question: "Calcium ammonium nitrate (CAN) fertilizer contains approximately:",
+    options: ["16% N", "44% N", "21% N", "26% N"],
     correct: 3,
-    explanation: "As per DA-122 notes: Nitrification inhibitors (like Neem-coated urea) slow down nitrification, keeping nitrogen in the ammonium form longer, reducing losses through leaching and denitrification."
+    explanation: "Calcium ammonium nitrate (CAN) contains about 26% N; ammonium sulphate nitrate also contains about 26% N."
   },
   {
     id: "d122x_062",
@@ -2164,10 +2117,10 @@ export const da122LectureQuestions: Question[] = [
     subject: "da-122",
     lecture: "lecture-9",
     lectureNo: 9,
-    question: "Pillipesara is botanically known as:",
-    options: ["Sesbania aculeata", "Tephrosia purpurea", "Vigna radiata var. sublobata", "Crotalaria juncea"],
-    correct: 2,
-    explanation: "As per DA-122 notes: Pillipesara is botanically known as Vigna radiata var. sublobata (also called wild greengram), used as an important green manure crop."
+    question: "Pillipesara, a green manure crop, is botanically known as:",
+    options: ["Phaseolus trilobus", "Sesbania aculeata", "Crotalaria juncea", "Vigna mungo"],
+    correct: 0,
+    explanation: "Pillipesara is botanically Phaseolus trilobus; it is used as an in-situ green manure and also as fodder for cattle (along with Crotalaria)."
   },
   {
     id: "d122x_064",
@@ -2639,5 +2592,5 @@ export const da122LectureQuestions: Question[] = [
     options: ["Castor cake", "Neem cake", "Mustard cake", "Cotton seed cake"],
     correct: 0,
     explanation: "As per DA-122 notes: Among non-edible oil cakes, castor cake is also called castor pomace."
-  }
+  },
 ];
