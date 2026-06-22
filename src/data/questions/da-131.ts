@@ -77,7 +77,7 @@ export const da131Questions: Question[] = [
     id: "d131_010",
     subject: "da-131",
     question: "In Order Orthoptera, auditory organs (tympanal organs) are located on:",
-    options: ["The base of antennae in field conditions in crop protection", "The compound eyes region in crop production in entomology", "Either side of the first abdominal segment or at the base of fore tibia", "The dorsal part of the thorax for agricultural purposes for field crops"],
+    options: ["The base of antennae", "The compound eyes region in crop production in entomology", "Either side of the first abdominal segment or at the base of fore tibia", "The dorsal part of the thorax"],
     correct: 2,
     explanation: "In Orthoptera, tympanal organs or auditory organs are located on either side of the first abdominal segment or at the base of fore tibia. Stridulation is produced by rubbing forewings against each other (alary type) or hind femora over tegmina."
   },
@@ -157,7 +157,7 @@ export const da131Questions: Question[] = [
     id: "d131_020",
     subject: "da-131",
     question: "The primary active compound in Ryania insecticide extracted from the stem of Ryania speciosa is:",
-    options: ["Alkaloid ryanodine (approximately 0.2% of dry weight of stem wood)", "Rotenone from stem bark in field conditions", "Nicotine from roots in crop production in entomology", "Azadirachtin from leaves for agricultural purposes in crop protection"],
+    options: ["Alkaloid ryanodine (approximately 0.2% of dry weight of stem wood)", "Rotenone from stem bark", "Nicotine from roots in crop production in entomology", "Azadirachtin from leaves"],
     correct: 0,
     explanation: "Ryania is extracted from the stem of Ryania speciosa. The most active compound in ryania is the alkaloid ryanodine, which constitutes approximately 0.2% of the dry weight of stem wood."
   },
@@ -165,7 +165,7 @@ export const da131Questions: Question[] = [
     id: "d131_021",
     subject: "da-131",
     question: "The Bacillus thuringiensis (B.t.) bacterial insecticide primarily infects insects by:",
-    options: ["Ingestion — bacteria infect mid gut epithelia cells then enter haemolymph to sporulate causing septicemia", "Contact through the cuticle surface in field conditions in crop protection", "Inhalation through spiracles for agricultural purposes for field crops", "Penetration through the compound eyes in crop production in entomology"],
+    options: ["Ingestion — bacteria infect mid gut epithelia cells then enter haemolymph to sporulate causing septicemia", "Contact through the cuticle surface", "Inhalation through spiracles", "Penetration through the compound eyes in crop production in entomology"],
     correct: 0,
     explanation: "B.t. (Bacillus thuringiensis) is known as a bacterial insecticide. Entry is by ingestion of the bacteria, which infect the mid gut epithelia cells and enter the haemolymph to sporulate and cause septicemia. It can infect more than 150 species of insects."
   },
@@ -173,7 +173,7 @@ export const da131Questions: Question[] = [
     id: "d131_022",
     subject: "da-131",
     question: "The typical symptom of fungal infection (mycosis) in insects is:",
-    options: ["Ruptured cuticle releasing coloured fluids in crop production", "Liquefied body hanging upside down from plant parts", "Mummified body covered with filamentous mycelium that does not disintegrate in water", "Black coloured body with no external changes in field conditions"],
+    options: ["Ruptured cuticle releasing coloured fluids in crop production", "Liquefied body hanging upside down from plant parts", "Mummified body covered with filamentous mycelium that does not disintegrate in water", "Black coloured body with no external changes"],
     correct: 2,
     explanation: "The typical symptoms of fungal infection (mycosis) in insects are a mummified body covered with filamentous mycelium. Unlike NPV infection, the body does not disintegrate in water. Important entomopathogenic fungi include Metarhizium, Beauveria, Nomuraea and Verticillium."
   },
@@ -205,7 +205,7 @@ export const da131Questions: Question[] = [
     id: "d131_026",
     subject: "da-131",
     question: "The post occipital suture is called the only real suture in the insect head because:",
-    options: ["It separates the head from the neck and is the only true separate structure", "It forms during pupal stage only in field conditions", "It is a cosmetic marking only in crop production", "It is the largest suture visible externally for agricultural purposes"],
+    options: ["It separates the head from the neck and is the only true separate structure", "It forms during pupal stage only", "It is a cosmetic marking only in crop production", "It is the largest suture visible externally"],
     correct: 0,
     explanation: "The post occipital suture is the only real suture in insect head. It is named as real suture because it separates the head from the neck. The posterior end of the head is marked by this suture to which the sclerites are attached."
   },
@@ -285,7 +285,7 @@ export const da131Questions: Question[] = [
     id: "d131_036",
     subject: "da-131",
     question: "The cockroach head is positioned in which orientation?",
-    options: ["Opisthognathous (backward facing) in crop production", "Prognathous (forward facing) for agricultural purposes", "Orthognathous (vertical) in field conditions", "Hypognathous at 90° from long axis of body"],
+    options: ["Opisthognathous (backward facing) in crop production", "Prognathous (forward facing)", "Orthognathous (vertical)", "Hypognathous at 90° from long axis of body"],
     correct: 3,
     explanation: "The cockroach head is bent downwards in a hypognathous position, i.e., at an angle of 90° from the long axis of the body. The head is triangular and formed by fusion of 6 chitinous or sclerite plates."
   },
@@ -293,7 +293,7 @@ export const da131Questions: Question[] = [
     id: "d131_037",
     subject: "da-131",
     question: "In the cockroach, the antenna consists of 3 segments, namely:",
-    options: ["Coxa, trochanter, and femur in crop production in entomology", "Scape (largest), pedicel (narrow and elongated), and flagellum (long slender with many joints)", "Frons, vertex, and epicranium in field conditions in crop protection", "Labrum, mandibles, and maxillae for agricultural purposes for field crops"],
+    options: ["Coxa, trochanter, and femur in crop production in entomology", "Scape (largest), pedicel (narrow and elongated), and flagellum (long slender with many joints)", "Frons, vertex, and epicranium", "Labrum, mandibles, and maxillae"],
     correct: 1,
     explanation: "Each antenna of the cockroach is formed of 3 segments: scape (largest), pedicel (narrow and elongated), and flagellum (the long and slender part which has many jointed parts bearing tactile sensory setae). Antennae act as sense organs of touch and smell."
   },
@@ -333,7 +333,7 @@ export const da131Questions: Question[] = [
     id: "d131_042",
     subject: "da-131",
     question: "The hypopharynx in insect mouthparts is described as:",
-    options: ["A tongue-like structure with salivary gland ducts opening at or near its base", "The upper lip protecting mandibles in crop production", "A lower lip closing the mouth from below in field conditions", "A paired structure for holding food for agricultural purposes"],
+    options: ["A tongue-like structure with salivary gland ducts opening at or near its base", "The upper lip protecting mandibles in crop production", "A lower lip closing the mouth from below", "A paired structure for holding food"],
     correct: 0,
     explanation: "The hypopharynx is a tongue-like structure situated between labrum and labium. The ducts of salivary glands open on or near its base. It is present in biting and chewing type and other mouthpart types."
   },
@@ -341,7 +341,7 @@ export const da131Questions: Question[] = [
     id: "d131_043",
     subject: "da-131",
     question: "In piercing and sucking mouthparts, the mandibular stylets form the outer pair and the maxillary stylets form the inner pair. Together they enclose a food channel divided into:",
-    options: ["Rostrum above and labellum below in crop production", "Upper cibarium (for sucking sap) and lower salivarium (for releasing saliva)", "Labrum above and labium below in field conditions", "Food tube and salivary tube separately for agricultural purposes"],
+    options: ["Rostrum above and labellum below in crop production", "Upper cibarium (for sucking sap) and lower salivarium (for releasing saliva)", "Labrum above and labium below", "Food tube and salivary tube separately"],
     correct: 1,
     explanation: "In piercing and sucking mouthparts, the mandibular stylets form the outer pair and maxillary stylets form the inner pair enclosing a food channel. The food channel is divided into an upper cibarium (for sucking sap) and lower salivarium (for releasing saliva)."
   },
@@ -357,7 +357,7 @@ export const da131Questions: Question[] = [
     id: "d131_045",
     subject: "da-131",
     question: "In siphoning type mouthparts of butterflies, the proboscis is formed by the galea of:",
-    options: ["Labrum and clypeus forming a cone in crop production", "Mandibles modified into stylets for agricultural purposes", "Labium into a coiled tube in field conditions", "Maxilla — the galea forms a slender hollow tubular coiled proboscis"],
+    options: ["Labrum and clypeus forming a cone in crop production", "Mandibles modified into stylets", "Labium into a coiled tube", "Maxilla — the galea forms a slender hollow tubular coiled proboscis"],
     correct: 3,
     explanation: "In siphoning type mouthparts, the galea of maxilla forms into a slender, hollow, tubular structure which remains as an elongated coiled proboscis underneath the head during non-feeding. Mandibles are totally absent. Used for taking nectar from flowers."
   },
@@ -381,7 +381,7 @@ export const da131Questions: Question[] = [
     id: "d131_048",
     subject: "da-131",
     question: "Under IPM, the term 'I' — Integration means:",
-    options: ["Individual pest control only in crop production in entomology", "Chemical integration with biological methods only in field conditions in crop protection", "Harmonious use of multiple methods to control the impact of single pest as well as multiple pests", "International cooperation in pest management for agricultural purposes for field crops"],
+    options: ["Individual pest control only in crop production in entomology", "Chemical integration with biological methods only", "Harmonious use of multiple methods to control the impact of single pest as well as multiple pests", "International cooperation"],
     correct: 2,
     explanation: "In IPM, I = Integration, which means harmonious use of multiple methods to control the impact of single pest as well as multiple pests. P = Pest (any organism detrimental to humans). M = Management (set of decisions based on ecological, economic and social considerations)."
   },
@@ -389,7 +389,7 @@ export const da131Questions: Question[] = [
     id: "d131_049",
     subject: "da-131",
     question: "Trichogramma australicum is an egg parasitoid used in IPM at a release rate of:",
-    options: ["5,000/ha/week for 2 weeks in crop production", "50,000/ha/week for 4-5 weeks from one month after planting", "500/ha/week throughout the season in field conditions", "1,00,000/ha/week for 10 weeks for agricultural purposes"],
+    options: ["5,000/ha/week for 2 weeks in crop production", "50,000/ha/week for 4-5 weeks from one month after planting", "500/ha/week throughout the season", "1,00,000/ha/week for 10 weeks"],
     correct: 1,
     explanation: "Trichogramma australicum is used as an egg parasitoid for control of shoot borers of sugarcane, cotton bollworms, stem borers of paddy and sorghum at 50,000/ha/week for 4-5 weeks from one month after planting."
   },
@@ -421,7 +421,7 @@ export const da131Questions: Question[] = [
     id: "d131_053",
     subject: "da-131",
     question: "Stem borers damage paddy by causing which specific symptoms?",
-    options: ["Leaf curling and yellowing in crop production", "Gall formation on stems for agricultural purposes", "Holes in fruits with excreta in field conditions", "Dead heart during vegetative stage and white ear during reproductive stage"],
+    options: ["Leaf curling and yellowing in crop production", "Gall formation on stems", "Holes in fruits with excreta", "Dead heart during vegetative stage and white ear during reproductive stage"],
     correct: 3,
     explanation: "Stem borers enter and feed on internal stem contents. The damaged part is cut off causing wilting and drying. In paddy, they cause dead heart during vegetative stage and white ear during reproductive stage. Larvae can be easily pulled out."
   },
@@ -437,7 +437,7 @@ export const da131Questions: Question[] = [
     id: "d131_055",
     subject: "da-131",
     question: "The damage type known as 'Bunchy top' in sugarcane is caused by:",
-    options: ["Leaf feeders scraping chlorophyll in crop production in entomology", "Root feeders causing poor tillering in field conditions in crop protection", "Stem borers destroying growing point activating side buds to produce a bunch of side shoots", "Sucking pests causing sooty mould for agricultural purposes for field crops"],
+    options: ["Leaf feeders scraping chlorophyll in crop production in entomology", "Root feeders causing poor tillering", "Stem borers destroying growing point activating side buds to produce a bunch of side shoots", "Sucking pests causing sooty mould"],
     correct: 2,
     explanation: "Bunchy top in sugarcane is caused by stem borers — destruction of the growing point results in activation of side buds just below the growing point and produces a bunch of side shoots called bunchy top."
   },
@@ -477,7 +477,7 @@ export const da131Questions: Question[] = [
     id: "d131_060",
     subject: "da-131",
     question: "The cottony cushion scale, Icerya purchasi on fruit trees was controlled by the predatory vedalia beetle, Rodolia cardinalis imported from:",
-    options: ["South Africa and Kenya in crop production", "California in 1929 and from Egypt in 1930", "Australia and Japan in field conditions", "England and France for agricultural purposes"],
+    options: ["South Africa and Kenya in crop production", "California in 1929 and from Egypt in 1930", "Australia and Japan", "England and France"],
     correct: 1,
     explanation: "Control of cottony cushion scale (Icerya purchasi) on fruit trees in Nilgiris was achieved by its predatory vedalia beetle (Rodolia cardinalis). The predator was imported from California in 1929 and from Egypt in 1930, multiplied in laboratory and released."
   },
@@ -509,7 +509,7 @@ export const da131Questions: Question[] = [
     id: "d131_064",
     subject: "da-131",
     question: "The Apterygota class of insects is characterized by:",
-    options: ["Winged but secondarily wingless with complete metamorphosis in field conditions for field crops", "Primarily wingless with mandibles articulating with head at two points (Dicondyle) in entomology", "Winged condition with complete metamorphosis in crop production in crop protection", "Primarily wingless and wingless secondarily with mandibles at one point (Monocondyle) and simple or absent metamorphosis"],
+    options: ["Winged but secondarily wingless with complete metamorphosis", "Primarily wingless with mandibles articulating with head at two points (Dicondyle) in entomology", "Winged condition with complete metamorphosis in crop production", "Primarily wingless and wingless secondarily with mandibles at one point (Monocondyle) and simple or absent metamorphosis"],
     correct: 3,
     explanation: "Apterygota (Ametabola) are small and primitive, primarily wingless insects. Adults have pregenital abdominal appendages. Metamorphosis is simple or absent. Mandibles articulate with head at a single point (Monocondyle). Examples: Protura, Diplura, Collembola, Thysanura."
   },
@@ -525,7 +525,7 @@ export const da131Questions: Question[] = [
     id: "d131_066",
     subject: "da-131",
     question: "In Order Thysanoptera, the tarsus is how many segmented with an arolium at the pretarsus?",
-    options: ["3 segmented in crop production", "Two segmented with arolium at pretarsus", "4 segmented in field conditions", "5 segmented for agricultural purposes"],
+    options: ["3 segmented in crop production", "Two segmented with arolium at pretarsus", "4 segmented", "5 segmented"],
     correct: 1,
     explanation: "In Order Thysanoptera, tarsus is two segmented with arolium at the pretarsus. Antennae are 6-10 segmented. The order name Thysanoptera means fringed wings (Thysano = fringed, Ptera = wings). Anal cerci are absent."
   },
@@ -541,7 +541,7 @@ export const da131Questions: Question[] = [
     id: "d131_068",
     subject: "da-131",
     question: "In Order Diptera, the mesothorax is large and the prothoracic and metathoracic segments are small. The tarsus is usually how many segmented?",
-    options: ["3 segmented in crop production", "4 segmented in field conditions", "5 segmented with pulvilli and empodium", "2 segmented for agricultural purposes"],
+    options: ["3 segmented in crop production", "4 segmented", "5 segmented with pulvilli and empodium", "2 segmented"],
     correct: 2,
     explanation: "In Order Diptera, the tarsus is usually 5 segmented with pulvilli and an empodium usually present. Mesothorax is large while prothoracic and metathoracic segments are small. Only front pair of wings is present; hind pair is modified into halteres."
   },
@@ -549,7 +549,7 @@ export const da131Questions: Question[] = [
     id: "d131_069",
     subject: "da-131",
     question: "The biting and chewing type mouthparts are considered the primitive type and are found in which orders?",
-    options: ["Orthoptera, Isoptera, Coleoptera, and larvae of Lepidoptera and Neuroptera", "Thysanoptera, Lepidoptera adults, and Diptera adults", "Hymenoptera adult bees only in crop production", "Lepidoptera, Diptera, and Hemiptera adults in field conditions"],
+    options: ["Orthoptera, Isoptera, Coleoptera, and larvae of Lepidoptera and Neuroptera", "Thysanoptera, Lepidoptera adults, and Diptera adults", "Hymenoptera adult bees only in crop production", "Lepidoptera, Diptera, and Hemiptera adults"],
     correct: 0,
     explanation: "Biting and chewing type of mouthparts is considered as primitive type and found in Orthoptera, Isoptera and Coleoptera, larvae of Lepidoptera and Neuroptera etc. It is the first type of sucking mouth parts listed in the classification."
   },
@@ -557,7 +557,7 @@ export const da131Questions: Question[] = [
     id: "d131_070",
     subject: "da-131",
     question: "Root feeders and grubs damage which part of the plant?",
-    options: ["Roots and root nodules resulting in stunted growth, poor tillering", "Stems causing dead heart symptoms in crop production in entomology", "Leaves causing skeletonization in field conditions in crop protection", "Fruits causing borer holes for agricultural purposes for field crops"],
+    options: ["Roots and root nodules resulting in stunted growth, poor tillering", "Stems causing dead heart symptoms in crop production in entomology", "Leaves causing skeletonization", "Fruits causing borer holes"],
     correct: 0,
     explanation: "Root grubs/feeders have larvae that feed on roots/root nodules resulting in stunted growth, poor tillering, and drying of plants in isolated patches. Examples include Rice root weevil, White Grub and Banana Rhizome weevil."
   },
@@ -613,7 +613,7 @@ export const da131Questions: Question[] = [
     id: "d131_077",
     subject: "da-131",
     question: "In insecticide formulations, Granules (G) have particle size ranging from:",
-    options: ["0.25 to 2.38 mm (250 to 1250 microns)", "0.1 to 30 microns in field conditions", "2 to 10 mm for agricultural purposes", "Less than 100 microns in crop production"],
+    options: ["0.25 to 2.38 mm (250 to 1250 microns)", "0.1 to 30 microns", "2 to 10 mm", "Less than 100 microns in crop production"],
     correct: 0,
     explanation: "Granules (G) have particle size ranging from 0.25 to 2.38 mm (250 to 1250 microns) and contain 1 to 10% concentration of the toxicant. They are applied in water or whorls of plants or in soil. There is very little drift and less residue problem."
   },
@@ -645,7 +645,7 @@ export const da131Questions: Question[] = [
     id: "d131_081",
     subject: "da-131",
     question: "The antifeedant Azadirachtin from neem disrupts insect growth by:",
-    options: ["Blocking cholinesterase enzyme activity in crop production", "Inhibiting ATP synthase in field conditions", "Blocking GABA gated chloride channel", "Antagonizing the insect hormone ecdysone and disrupting moulting"],
+    options: ["Blocking cholinesterase enzyme activity in crop production", "Inhibiting ATP synthase", "Blocking GABA gated chloride channel", "Antagonizing the insect hormone ecdysone and disrupting moulting"],
     correct: 3,
     explanation: "Azadirachtin disrupts moulting by antagonizing the insect hormone ecdysone. Neem (Azadirachta indica) possesses medicinal, insecticidal, insect repellent, antifeedant, growth regulatory, nematicidal and antifungal properties."
   },
@@ -685,7 +685,7 @@ export const da131Questions: Question[] = [
     id: "d131_086",
     subject: "da-131",
     question: "The LD50 (Lethal Dose) concept measures toxicity as the dose required to kill:",
-    options: ["Half (50%) members of a tested population after a specified test", "25% members of the tested population in field conditions", "All members of the tested population in crop production", "75% members of the tested population for agricultural purposes"],
+    options: ["Half (50%) members of a tested population after a specified test", "25% members of the tested population", "All members of the tested population in crop production", "75% members of the tested population"],
     correct: 0,
     explanation: "The value of LD50 for a substance is the dose required to kill half (50%) the members of a tested population after a specified test. This is used to measure toxicity. There are two types: LD50 Oral (by mouth) and LD50 Dermal (by contact)."
   },
@@ -693,7 +693,7 @@ export const da131Questions: Question[] = [
     id: "d131_087",
     subject: "da-131",
     question: "The phytosanitary certificate in plant quarantine is issued by:",
-    options: ["Customs authorities at ports of entry in crop production in entomology", "DPPQS officers in India only in field conditions in crop protection", "The importer's agricultural department for agricultural purposes for field crops", "Officers of the agriculture department of the exporting country confirming consignments are pest free"],
+    options: ["Customs authorities at ports of entry in crop production in entomology", "DPPQS officers in India only", "The importer's agricultural department", "Officers of the agriculture department of the exporting country confirming consignments are pest free"],
     correct: 3,
     explanation: "A phytosanitary certificate confirming that consignments are pest free is issued by the officers of the agriculture department of the exporting country. The consignment must be accompanied with this certificate and can only be imported through designated ports."
   },
@@ -709,7 +709,7 @@ export const da131Questions: Question[] = [
     id: "d131_089",
     subject: "da-131",
     question: "Juvenile Hormone (JH) Mimics as insecticides work by:",
-    options: ["Blocking moulting causing larvae to die in field conditions", "Repelling adult insects from egg laying in crop production", "Not allowing metamorphosis to take place, forcing larva to continue as larva", "Killing larvae by blocking nerve transmission for agricultural purposes"],
+    options: ["Blocking moulting causing larvae to die", "Repelling adult insects from egg laying in crop production", "Not allowing metamorphosis to take place, forcing larva to continue as larva", "Killing larvae by blocking nerve transmission"],
     correct: 2,
     explanation: "Juvenile Hormone (JH) Mimics do not allow Metamorphosis to take place thereby forcing larva to continue as a larva. Examples include Juvabione, Methoprene, Hydroprene and Kinoprene. In mosquitoes, they prevent metamorphosis forcing larvae to continue as larvae."
   },
@@ -725,7 +725,7 @@ export const da131Questions: Question[] = [
     id: "d131_091",
     subject: "da-131",
     question: "The Nicotine botanical insecticide found in leaves of Nicotiana tabacum and N. rustica works primarily as:",
-    options: ["Stomach poison only in crop production in entomology", "Systemic insecticide only in field conditions in crop protection", "Insect growth regulator for agricultural purposes for field crops", "Contact insecticide with marked fumigant action against sucking insects like aphids, thrips, and jassids"],
+    options: ["Stomach poison only in crop production in entomology", "Systemic insecticide only", "Insect growth regulator", "Contact insecticide with marked fumigant action against sucking insects like aphids, thrips, and jassids"],
     correct: 3,
     explanation: "Nicotine is found in leaves of Nicotiana tabacum and N. rustica from 2% to 14%. It works as a contact insecticide with marked fumigant action in control of sucking insects viz. aphids, thrips, psyllids, leafminers and jassids. It affects the ganglion blocking conduction."
   },
@@ -757,7 +757,7 @@ export const da131Questions: Question[] = [
     id: "d131_095",
     subject: "da-131",
     question: "In sex pheromone based pest management, mating disruption works by:",
-    options: ["Attracting males to traps for mass killing in crop production in entomology", "Releasing sterile males into the field in field conditions in crop protection", "Permeating the atmosphere with high concentration of pheromone to confuse the opposite sex making them unable to locate mates", "Marking females so males avoid them for agricultural purposes for field crops"],
+    options: ["Attracting males to traps for mass killing in crop production in entomology", "Releasing sterile males into the field", "Permeating the atmosphere with high concentration of pheromone to confuse the opposite sex making them unable to locate mates", "Marking females so males avoid them"],
     correct: 2,
     explanation: "Control of pest by mating disruption: By permeating the atmosphere with higher concentration of pheromone the opposite sex is rendered confused and unable to locate their mates. Four pheromone traps per acre is recommended for monitoring insect pests."
   },
@@ -789,7 +789,7 @@ export const da131Questions: Question[] = [
     id: "d131_099",
     subject: "da-131",
     question: "Indoxacarb (Oxadiazines) kills insects by:",
-    options: ["Inhibiting cholinesterase enzyme activity in crop production in entomology", "Activating GABA gated chloride channel in field conditions in crop protection", "Disrupting moulting by antagonizing ecdysone for agricultural purposes for field crops", "Inhibiting sodium ion entry into nerve cells resulting in paralysis and death"],
+    options: ["Inhibiting cholinesterase enzyme activity in crop production in entomology", "Activating GABA gated chloride channel", "Disrupting moulting by antagonizing ecdysone", "Inhibiting sodium ion entry into nerve cells resulting in paralysis and death"],
     correct: 3,
     explanation: "The active ingredient indoxacarb works by inhibiting sodium ion entry into nerve cells, resulting in paralysis and death of targeted pests. Formulations available are SC 14.5 and WDG 30."
   },
@@ -801,8 +801,6 @@ export const da131Questions: Question[] = [
     correct: 1,
     explanation: "Due to the outstanding characteristic of the cyclodienes being their longer stability in the body, most insecticides in this group are not used. Only endosulfan is used for the control of pest. However, endosulfan is poisonous to honeybees and natural enemies but not to fishes at recommended dose."
   },
-
-  // ── BATCH 2: Additional 100 questions from PJTSAU DA-131 Theory Notes ──
   {
     id: "d131x_001",
     subject: "da-131",
@@ -1803,5 +1801,4 @@ export const da131Questions: Question[] = [
     correct: 2,
     explanation: "As per DA-131 notes: Anal cerci-paired jointed outgrowths from 10th tergum sensitive to sound/vibration, Anal styles-paired thin unjointed from 9th sternum of male, Gonapophyses-sclerites surrounding genital aperture."
   },
-
 ];

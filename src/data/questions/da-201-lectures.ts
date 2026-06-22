@@ -1,4 +1,3 @@
-// ===== FILE: da-201-lectures.ts =====
 import { Question } from "@/types";
 
 export const da201LectureQuestions: Question[] = [
@@ -528,7 +527,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Sunflower (Helianthus annuus) is unique because it is a:",
-    options: ["Vegetatively propagated crop in crop production", "Cross-pollinated crop requiring insect (especially bee) pollination", "Self-pollinated crop for agricultural purposes", "Wind-pollinated crop exclusively in field conditions"],
+    options: ["Vegetatively propagated crop in crop production", "Cross-pollinated crop requiring insect (especially bee) pollination", "Self-pollinated crop", "Wind-pollinated crop exclusively"],
     correct: 1,
     explanation: "Sunflower is primarily cross-pollinated by insects (bees, butterflies). The disc florets mature from outer to inner (protandry) and require cross-pollination for good seed set. Placing 3–4 beehives/ha improves seed set by 15–25%."
   },
@@ -548,7 +547,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Safflower (Carthamus tinctorius) is particularly adapted to:",
-    options: ["Humid tropical rainforest conditions in field conditions", "Waterlogged paddy fields in crop production in agriculture", "Semi-arid and arid dryland areas with shallow to medium black soils", "High-altitude cold regions for agricultural purposes for crop production"],
+    options: ["Humid tropical rainforest conditions", "Waterlogged paddy fields in crop production in agriculture", "Semi-arid and arid dryland areas with shallow to medium black soils", "High-altitude cold regions for agricultural purposes for crop production"],
     correct: 2,
     explanation: "Safflower is one of the most drought-hardy oilseed crops, adapted to semi-arid dryland areas with black cotton soils. It can utilise stored soil moisture and is thus ideal for rainfed rabi conditions in Telangana, AP, Maharashtra and Karnataka."
   },
@@ -618,7 +617,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Safflower flowers (petals) are commercially used for:",
-    options: ["Medical surgery in crop production in agriculture", "Natural dye (carthamins), as dried petals for herbal tea, and in food colouring", "Biofuel production primarily in field conditions", "Extracting essential oil for cosmetics only for agricultural purposes"],
+    options: ["Medical surgery in crop production in agriculture", "Natural dye (carthamins), as dried petals for herbal tea, and in food colouring", "Biofuel production primarily", "Extracting essential oil for cosmetics only"],
     correct: 1,
     explanation: "Safflower petals contain carthamin (red-yellow dye) and water-soluble yellow carthamidin, used as natural food colouring, textile dye, cosmetics ingredient and in herbal tea (as a substitute for saffron in some regions). Seeds are pressed for oil."
   },
@@ -638,7 +637,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Which of the following is a characteristic feature of sunflower that makes it suitable as a short-duration rabi crop?",
-    options: ["It is a strict short-day plant in crop production", "It requires very long days to flower for agricultural purposes", "It flowers only in summer in field conditions", "It is insensitive to photoperiod (day-neutral) and can flower at any day length"],
+    options: ["It is a strict short-day plant in crop production", "It requires very long days to flower", "It flowers only in summer", "It is insensitive to photoperiod (day-neutral) and can flower at any day length"],
     correct: 3,
     explanation: "Sunflower is a day-neutral (photoperiod-insensitive) crop. It can flower and mature regardless of day length, making it adaptable as a kharif, rabi or summer crop. Temperature is the more important factor than photoperiod for sunflower."
   },
@@ -678,7 +677,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Non-dehiscent capsule varieties of castor are preferred for:",
-    options: ["Single mechanical harvesting as capsules do not shatter on maturity", "Higher oil content production in field conditions", "Rainfed conditions only in crop production", "Traditional hand-picking over multiple pickings for agricultural purposes"],
+    options: ["Single mechanical harvesting as capsules do not shatter on maturity", "Higher oil content production", "Rainfed conditions only in crop production", "Traditional hand-picking over multiple pickings"],
     correct: 0,
     explanation: "Non-dehiscent (shattering-resistant) castor varieties retain seeds in capsules even after maturity, enabling single-pass mechanical harvesting. Dehiscent varieties shatter when dry, requiring multiple manual pickings before full maturity."
   },
@@ -698,7 +697,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Castor plant (Ricinus communis) is primarily a:",
-    options: ["Cross-pollinated (monoecious) plant with separate male and female flowers on the same plant", "Vegetatively propagated perennial crop in field conditions", "Wind-pollinated annual with bisexual flowers in crop production in agriculture", "Self-pollinated annual crop for agricultural purposes for crop production"],
+    options: ["Cross-pollinated (monoecious) plant with separate male and female flowers on the same plant", "Vegetatively propagated perennial crop", "Wind-pollinated annual with bisexual flowers in crop production in agriculture", "Self-pollinated annual crop for agricultural purposes for crop production"],
     correct: 0,
     explanation: "Castor is monoecious – male and female flowers are separate but on the same plant (female flowers at the top of the spike, male below). It is predominantly cross-pollinated by wind and insects, which is exploited in hybrid seed production using CMS lines."
   },
@@ -708,7 +707,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "The toxic compound present in castor seed meal is:",
-    options: ["Aflatoxin in crop production", "Gossypol in field conditions", "Erucic acid", "Ricin (a highly toxic protein)"],
+    options: ["Aflatoxin in crop production", "Gossypol", "Erucic acid", "Ricin (a highly toxic protein)"],
     correct: 3,
     explanation: "Castor seed meal (after oil extraction) contains ricin, one of the most toxic biological substances known. De-toxification by steam autoclaving at 120°C destroys ricin, after which the high-protein meal can be used as animal feed or fertiliser."
   },
@@ -728,7 +727,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "The major insect pest of castor is:",
-    options: ["Tobacco caterpillar (Spodoptera litura) and semi-looper (Achaea janata)", "Aphid in crop production in agriculture", "Whitefly only in field conditions", "Grasshopper for agricultural purposes"],
+    options: ["Tobacco caterpillar (Spodoptera litura) and semi-looper (Achaea janata)", "Aphid in crop production in agriculture", "Whitefly only", "Grasshopper"],
     correct: 0,
     explanation: "Semi-looper (Achaea janata) and tobacco caterpillar (Spodoptera litura) are the most destructive caterpillar pests of castor, causing complete defoliation. Castor capsule borer (Dichocrocis punctiferalis) damages developing seeds in capsules."
   },
@@ -748,7 +747,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "What is the unique property of castor oil that makes it valuable for industrial use?",
-    options: ["It has the highest caloric value of any vegetable oil in crop production", "It solidifies at room temperature like coconut oil for agricultural purposes", "It contains omega-3 fatty acids for health supplements in field conditions", "It contains ricinoleic acid (12-hydroxy oleic acid) which gives it unique viscosity and chemical properties"],
+    options: ["It has the highest caloric value of any vegetable oil in crop production", "It solidifies at room temperature like coconut oil", "It contains omega-3 fatty acids for health supplements", "It contains ricinoleic acid (12-hydroxy oleic acid) which gives it unique viscosity and chemical properties"],
     correct: 3,
     explanation: "Castor oil's uniqueness comes from ricinoleic acid (85–90% of total fatty acids), a hydroxy fatty acid with the OH group at C-12 position. This gives castor oil exceptional viscosity, lubricity, and reactivity for polymer/nylon synthesis that no other vegetable oil provides."
   },
@@ -758,7 +757,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "The number of pickings required for a standard castor crop is:",
-    options: ["2–5 pickings at 15–20 day intervals as spikes mature progressively", "7–10 pickings at weekly intervals in field conditions", "Continuous harvest with machinery in crop production", "Only 1 picking at full maturity for agricultural purposes"],
+    options: ["2–5 pickings at 15–20 day intervals as spikes mature progressively", "7–10 pickings at weekly intervals", "Continuous harvest with machinery in crop production", "Only 1 picking at full maturity"],
     correct: 0,
     explanation: "Castor spikes (racemes) mature sequentially from primary to secondary to tertiary. In dehiscent varieties, 2–5 pickings are done at 15–20 day intervals, starting when the primary spike capsules turn brown. Non-dehiscent varieties allow single harvest."
   },
@@ -788,7 +787,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Male sterility in castor is exploited for:",
-    options: ["Vegetative propagation of elite plants in crop production", "Producing high oil content varieties in field conditions", "Producing disease-resistant open pollinated varieties for agricultural purposes", "Hybrid seed production – female (male-sterile) plants ensure all seed is cross-pollinated"],
+    options: ["Vegetative propagation of elite plants in crop production", "Producing high oil content varieties", "Producing disease-resistant open pollinated varieties", "Hybrid seed production – female (male-sterile) plants ensure all seed is cross-pollinated"],
     correct: 3,
     explanation: "Cytoplasmic male sterility (CMS) in castor is used for commercial hybrid seed production. Female rows (CMS lines) cannot self-pollinate and set seed only by cross-pollination from male rows (restorer lines), ensuring 100% hybrid seed."
   },
@@ -798,7 +797,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Castor wilt (Fusarium oxysporum f.sp. ricini) can be managed by:",
-    options: ["Flooding the field in crop production as recommended by ICAR guidelines", "Seed treatment with Trichoderma viride, crop rotation and wilt-resistant varieties", "Only chemical soil sterilisation in field conditions", "Overhead irrigation with anti-fungal solution for agricultural purposes"],
+    options: ["Flooding the field in crop production as recommended by ICAR guidelines", "Seed treatment with Trichoderma viride, crop rotation and wilt-resistant varieties", "Only chemical soil sterilisation", "Overhead irrigation with anti-fungal solution"],
     correct: 1,
     explanation: "Castor wilt management includes: seed treatment with Trichoderma viride (4 g/kg) + Carbendazim (2 g/kg), crop rotation with non-host crops, use of resistant/tolerant hybrids, and avoiding field operations that spread the pathogen."
   },
@@ -998,7 +997,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Trash mulching in sugarcane means:",
-    options: ["Adding trash to compost pits only in crop production in agriculture", "Spreading dried sugarcane leaf trash between rows as mulch to conserve moisture and control weeds", "Removing all leaves (topping) during growth in field conditions", "Burning dried sugarcane leaves before harvest for agricultural purposes for crop production"],
+    options: ["Adding trash to compost pits only in crop production in agriculture", "Spreading dried sugarcane leaf trash between rows as mulch to conserve moisture and control weeds", "Removing all leaves (topping) during growth", "Burning dried sugarcane leaves before harvest for agricultural purposes for crop production"],
     correct: 1,
     explanation: "Trash mulching involves spreading dried fallen sugarcane leaves (trash) between rows at 10 cm depth. It conserves soil moisture (reduces evaporation), suppresses weed growth, improves soil organic matter as it decomposes, and reduces irrigation frequency."
   },
@@ -1008,7 +1007,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Ratooning in sugarcane means:",
-    options: ["Planting cane in pits at wider spacing in field conditions", "Uprooting the first crop and replanting fresh setts in crop production", "Allowing the stubble (stool) of the harvested crop to re-grow as a second (ratoon) crop", "Cutting tops of growing cane for fodder for agricultural purposes"],
+    options: ["Planting cane in pits at wider spacing", "Uprooting the first crop and replanting fresh setts in crop production", "Allowing the stubble (stool) of the harvested crop to re-grow as a second (ratoon) crop", "Cutting tops of growing cane for fodder"],
     correct: 2,
     explanation: "After the plant crop is harvested, the roots and stubble are left in the field. These regrow as a ratoon crop without replanting. 2–4 ratoon crops can be taken in sequence, saving input cost. Ratoon crop yield is 80–90% of plant crop."
   },
@@ -1018,7 +1017,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "The bud chip planting method of sugarcane uses:",
-    options: ["Seed pieces from the top of the cane for agricultural purposes for crop production", "Root cuttings from mature stools in crop production in agriculture", "Full-length cane stalks planted horizontally in field conditions", "Single-bud chips (4–5 cm) cut from the cane stalk for nursery raising or direct field planting"],
+    options: ["Seed pieces from the top of the cane for agricultural purposes for crop production", "Root cuttings from mature stools in crop production in agriculture", "Full-length cane stalks planted horizontally", "Single-bud chips (4–5 cm) cut from the cane stalk for nursery raising or direct field planting"],
     correct: 3,
     explanation: "Bud chip planting uses single-bud chips of 4–5 cm cut with a special chip budder. These are used to raise nursery seedlings in pro-trays (STP technology) or planted directly. It saves 90% of seed cane over conventional sett method."
   },
@@ -1068,7 +1067,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "The Grand Growth Phase in sugarcane corresponds to:",
-    options: ["Ratooning phase after first harvest in crop production", "Ripening phase (last 2 months before harvest) for agricultural purposes", "Initial 30 days after planting (germination) in field conditions", "Rapid elongation of internodes (3–7 months after planting) when maximum biomass is accumulated"],
+    options: ["Ratooning phase after first harvest in crop production", "Ripening phase (last 2 months before harvest)", "Initial 30 days after planting (germination)", "Rapid elongation of internodes (3–7 months after planting) when maximum biomass is accumulated"],
     correct: 3,
     explanation: "The Grand Growth Period (3–7 months after planting) is when sugarcane elongates rapidly, adding 5–10 cm/week in height. This phase requires maximum water, nutrients and sunlight. Most of the cane mass and fibre is accumulated during this period."
   },
@@ -1078,7 +1077,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "What is the optimal time to harvest sugarcane for maximum sucrose content?",
-    options: ["Only after 18–24 months when all nodes are hardened in crop production in agriculture", "6–8 months after planting (before grand growth ends) in field conditions", "When brix (% total soluble solids) is 18–22% and juice sucrose is 12–14%", "Immediately after the monsoon starts for agricultural purposes for crop production"],
+    options: ["Only after 18–24 months when all nodes are hardened in crop production in agriculture", "6–8 months after planting (before grand growth ends)", "When brix (% total soluble solids) is 18–22% and juice sucrose is 12–14%", "Immediately after the monsoon starts for agricultural purposes for crop production"],
     correct: 2,
     explanation: "Sugarcane reaches maximum sucrose content at maturity (10–12 months for subtropical, 12–14 months for tropical), when brix is 18–22%, pol % cane is >10%, and refractometer reading is stable for 2–3 weeks. Harvesting at optimum maturity maximises sugar recovery."
   },
@@ -1088,7 +1087,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "The sugarcane variety 87A298 is specifically known for:",
-    options: ["High sucrose content and suitability for peninsular India (co-developed for Telangana)", "Cold tolerance for North India in field conditions", "Very high fibre content for paper making in crop production", "Tolerance to waterlogging in coastal areas for agricultural purposes"],
+    options: ["High sucrose content and suitability for peninsular India (co-developed for Telangana)", "Cold tolerance for North India", "Very high fibre content for paper making in crop production", "Tolerance to waterlogging in coastal areas"],
     correct: 0,
     explanation: "87A298 is a high-sucrose sugarcane variety recommended for Telangana and Andhra Pradesh. It has high CCS (commercial cane sugar) percentage and good yield, making it a preferred choice for sugar mills in the peninsular zone."
   },
@@ -1158,7 +1157,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Maize silage is prepared by:",
-    options: ["Fermenting chopped green maize plants (at milk to dough stage) in airtight silos", "Cooking maize grains with water in crop production", "Mixing maize with urea in open pits in field conditions", "Sun-drying maize plants after harvest for agricultural purposes"],
+    options: ["Fermenting chopped green maize plants (at milk to dough stage) in airtight silos", "Cooking maize grains with water in crop production", "Mixing maize with urea in open pits", "Sun-drying maize plants after harvest"],
     correct: 0,
     explanation: "Maize silage is made by harvesting whole-plant maize at milk-to-dough grain stage (whole plant moisture 65–70%), chopping to 1–2 cm pieces, packing tightly in airtight silos/pits and fermenting anaerobically for 3–6 weeks. Lactic acid fermentation preserves the silage."
   },
@@ -1268,7 +1267,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Maize used for silage is harvested at which grain development stage?",
-    options: ["Full physiological maturity (black layer) in crop production", "Silking (pollen shedding) stage in field conditions in agriculture", "Milk to early dough stage (30–35% dry matter in whole plant)", "Dent stage only for agricultural purposes"],
+    options: ["Full physiological maturity (black layer) in crop production", "Silking (pollen shedding) stage in field conditions in agriculture", "Milk to early dough stage (30–35% dry matter in whole plant)", "Dent stage only"],
     correct: 2,
     explanation: "Optimum maize silage harvest is at whole-plant 30–35% dry matter (65–70% moisture), corresponding to milk to early dough grain stage (approximately 100–110 DAS). At this stage, yield, starch content, digestibility and fermentation quality are all optimised."
   },
@@ -1278,7 +1277,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Which of the following is an advantage of hay-making over silage making?",
-    options: ["Hay-making requires no special equipment or airtight structure and can be done in small quantities", "Hay retains more water-soluble vitamins in crop production in agriculture", "Hay has higher digestibility than silage in field conditions", "Hay can be made from any moisture content without risk for crop production"],
+    options: ["Hay-making requires no special equipment or airtight structure and can be done in small quantities", "Hay retains more water-soluble vitamins in crop production in agriculture", "Hay has higher digestibility than silage", "Hay can be made from any moisture content without risk for crop production"],
     correct: 0,
     explanation: "Hay-making (sun-drying to <15% moisture) requires no airtight silo, special equipment or acidification. It is simple, low-cost and can be stored for months without special infrastructure. Silage needs airtight silos, is heavier, and requires larger quantities for efficient fermentation."
   },
@@ -1288,7 +1287,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Byadgi chilli is famous for:",
-    options: ["High pungency (high capsaicin content) in crop production", "Deep red colour with wrinkled fruits and low to medium pungency", "Yellow colour and very mild taste for agricultural purposes", "Very small fruit size suitable for export in field conditions"],
+    options: ["High pungency (high capsaicin content) in crop production", "Deep red colour with wrinkled fruits and low to medium pungency", "Yellow colour and very mild taste", "Very small fruit size suitable for export"],
     correct: 1,
     explanation: "Byadgi chilli (Capsicum annuum var. Byadagi, Karnataka) is world-famous for its deep red colour (high ASTA colour units) with wrinkled/corrugated fruits and low to medium pungency. It is highly valued by the food and oleoresin industry for red colouring."
   },
@@ -1308,7 +1307,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "LCA-206 is a high-yielding chilli variety recommended for:",
-    options: ["Export fresh market in crop production in agriculture", "Greenhouse cultivation only in field conditions", "Andhra Pradesh and Telangana with high colour value and yield", "North India only for agricultural purposes for crop production"],
+    options: ["Export fresh market in crop production in agriculture", "Greenhouse cultivation only", "Andhra Pradesh and Telangana with high colour value and yield", "North India only for agricultural purposes for crop production"],
     correct: 2,
     explanation: "LCA-206 is an improved chilli variety recommended for Andhra Pradesh and Telangana. AP is the leading chilli-producing state in India (Guntur, Krishna districts). LCA varieties are developed by PJTSAU/ANGRAU for AP conditions."
   },
@@ -1338,7 +1337,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Turmeric variety Duggirala is famous for:",
-    options: ["Golden-yellow colour with high curcumin content, specific to Duggirala region of AP", "Purple colour and mild flavour in crop production", "High yield suitable for humid north-east India only", "Very small rhizome size for culinary use in field conditions"],
+    options: ["Golden-yellow colour with high curcumin content, specific to Duggirala region of AP", "Purple colour and mild flavour in crop production", "High yield suitable for humid north-east India only", "Very small rhizome size for culinary use"],
     correct: 0,
     explanation: "Duggirala turmeric (Curcuma longa) from Krishna district, Andhra Pradesh, is highly valued for its intense golden-yellow colour (high curcumin content), good aroma and large rhizomes. It commands premium prices in domestic and export markets."
   },
@@ -1358,7 +1357,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "Ginger (Zingiber officinale) is propagated by:",
-    options: ["Stem cuttings in field conditions", "Tissue culture plantlets only", "Seeds in crop production", "Rhizome pieces (bits) with 2–3 buds each"],
+    options: ["Stem cuttings", "Tissue culture plantlets only", "Seeds in crop production", "Rhizome pieces (bits) with 2–3 buds each"],
     correct: 3,
     explanation: "Ginger is propagated vegetatively using rhizome pieces of 25–30 g each with 2–3 healthy buds. Seed rhizomes are selected from disease-free planting material. Seed rate is 1500–1800 kg/ha of rhizomes."
   },
@@ -1408,7 +1407,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "The main product derived from turmeric that has pharmaceutical importance is:",
-    options: ["Turmerone (essential oil) in crop production", "Curcumin (polyphenol with anti-inflammatory and antioxidant properties)", "Gingerol (phenolic) in field conditions", "Thymol (monoterpene) for agricultural purposes"],
+    options: ["Turmerone (essential oil) in crop production", "Curcumin (polyphenol with anti-inflammatory and antioxidant properties)", "Gingerol (phenolic)", "Thymol (monoterpene)"],
     correct: 1,
     explanation: "Curcumin (diferuloylmethane) is the principal bioactive polyphenol of turmeric (2–5% in dry rhizome). Extensive research shows anti-inflammatory, antioxidant, anti-cancer and neuroprotective properties, making it the subject of hundreds of pharmaceutical trials."
   },
@@ -1428,7 +1427,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "India's rank in world spice production is:",
-    options: ["2nd after China in crop production", "1st largest producer, exporter and consumer of spices", "3rd largest producer in field conditions", "5th largest producer for agricultural purposes"],
+    options: ["2nd after China in crop production", "1st largest producer, exporter and consumer of spices", "3rd largest producer", "5th largest producer"],
     correct: 1,
     explanation: "India is the world's largest producer, consumer and exporter of spices. India produces about 75 of the 109 spices listed by ISO and contributes approximately 70–75% of world spice production. The Spices Board of India promotes spice exports."
   },
@@ -1458,7 +1457,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Burley tobacco differs from FCV tobacco in its curing method:",
-    options: ["Fire cured with direct wood smoke in crop production in agriculture", "Air cured – hung in open, well-ventilated barns at ambient temperature for 4–8 weeks", "Sun cured in open fields in field conditions", "Flue cured in barns with indirect heat for agricultural purposes for crop production"],
+    options: ["Fire cured with direct wood smoke in crop production in agriculture", "Air cured – hung in open, well-ventilated barns at ambient temperature for 4–8 weeks", "Sun cured in open fields", "Flue cured in barns with indirect heat for agricultural purposes for crop production"],
     correct: 1,
     explanation: "Burley tobacco is air cured in open barns allowing natural air circulation for 4–8 weeks. Unlike FCV, no heat is applied. Burley is low in sugar, high in nicotine, and is the main cigarette filler tobacco in American-blend cigarettes."
   },
@@ -1478,7 +1477,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Pan (betel leaf) tobacco (Nicotiana rustica) is primarily grown in:",
-    options: ["Karnataka only for agricultural purposes", "Kurnool, AP (alongside FCV) in crop production", "Assam for export in field conditions", "Andhra Pradesh and UP, used as chewing tobacco (snus/zarda)"],
+    options: ["Karnataka only", "Kurnool, AP (alongside FCV) in crop production", "Assam for export", "Andhra Pradesh and UP, used as chewing tobacco (snus/zarda)"],
     correct: 3,
     explanation: "Chewing tobacco (Nicotiana rustica and some N. tabacum types) is grown in Andhra Pradesh (East Godavari) and UP for preparation of khaini, zarda, and snuff. N. rustica has very high nicotine content (8–10%) compared to N. tabacum (1–3%)."
   },
@@ -1518,7 +1517,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "The flue curing process in tobacco preserves which property in the leaf?",
-    options: ["High fibre content for paper in crop production in agriculture", "High protein content for nutrition in field conditions", "Natural yellow colour (starch to sugar conversion) and aroma by controlled temperature increase", "High moisture content for fermentation for agricultural purposes for crop production"],
+    options: ["High fibre content for paper in crop production in agriculture", "High protein content for nutrition", "Natural yellow colour (starch to sugar conversion) and aroma by controlled temperature increase", "High moisture content for fermentation for agricultural purposes for crop production"],
     correct: 2,
     explanation: "During flue curing (5–7 days), temperature is gradually raised: yellowing phase (38–45°C) → colour fixing phase (54–60°C) → leaf drying (71°C) → midrib drying (77°C). This converts starch to sugars (high sugar = mild smoke) and fixes the golden-yellow colour."
   },
@@ -1548,7 +1547,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Topping in tobacco cultivation refers to:",
-    options: ["Applying irrigation at the top of the field in crop production in agriculture", "Harvesting only the top leaves first in field conditions", "Removing the apical terminal bud/flower cluster to divert assimilates to leaf expansion and improve leaf size", "Applying top dressing of fertiliser for agricultural purposes for crop production"],
+    options: ["Applying irrigation at the top of the field in crop production in agriculture", "Harvesting only the top leaves first", "Removing the apical terminal bud/flower cluster to divert assimilates to leaf expansion and improve leaf size", "Applying top dressing of fertiliser for agricultural purposes for crop production"],
     correct: 2,
     explanation: "Topping (removing the flower head) in tobacco is done when 30–50% of plants begin to flower. This stops seed formation and redirects photoassimilates to leaf enlargement and quality improvement. Topping is usually followed by sucker removal (de-suckering)."
   },
@@ -1568,7 +1567,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "The main reason tobacco should not be grown continuously on the same land is:",
-    options: ["Tobacco exhausts all soil water in one season in crop production", "Tobacco improves soil fertility and doesn't need rotation in field conditions", "Tobacco is a perennial crop that naturally occupies land for many years", "Build-up of soilborne pathogens (black shank, nematodes, wilt), and soil chemical changes affecting leaf quality"],
+    options: ["Tobacco exhausts all soil water in one season in crop production", "Tobacco improves soil fertility and doesn't need rotation", "Tobacco is a perennial crop that naturally occupies land for many years", "Build-up of soilborne pathogens (black shank, nematodes, wilt), and soil chemical changes affecting leaf quality"],
     correct: 3,
     explanation: "Continuous tobacco cultivation builds up soilborne pathogens (Phytophthora black shank, Ralstonia wilt, Meloidogyne nematodes), depletes specific soil nutrients, and tobacco-specific chemicals alter the soil microbiome. Rotation with non-host crops for 2–3 years is essential."
   },
@@ -1758,7 +1757,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "In groundnut, calcium deficiency in pod zones leads to:",
-    options: ["Premature flowering in field conditions", "Root necrosis and stunting in crop production", "Unfilled pods called pops and darkening of plumules", "White leaf spots on young leaves"],
+    options: ["Premature flowering", "Root necrosis and stunting in crop production", "Unfilled pods called pops and darkening of plumules", "White leaf spots on young leaves"],
     correct: 2,
     explanation: "According to DA-201 notes, calcium deficiency in groundnut leads to unfilled pods called pops and darkening of plumules of embryo."
   },
@@ -1908,7 +1907,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "The seed hardening process in sunflower involves:",
-    options: ["Pelleting seeds with lime powder in crop production", "Soaking seeds in fresh water for 14 hours then shade drying", "Treating seed with hot water at 55 degrees C", "Treating seed with fungicide solution in field conditions"],
+    options: ["Pelleting seeds with lime powder in crop production", "Soaking seeds in fresh water for 14 hours then shade drying", "Treating seed with hot water at 55 degrees C", "Treating seed with fungicide solution"],
     correct: 1,
     explanation: "According to DA-201 notes, seed hardening in sunflower involves soaking seeds in fresh water for about 14 hours followed by shade drying, as sunflower seeds have thick hulls."
   },
@@ -1978,7 +1977,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Sesame is regarded as Queen of Oilseeds because of:",
-    options: ["Its drought tolerance in crop production in agriculture", "Its quality fatty acid composition and resistance to oxidation and rancidity", "Its wide adaptability for agricultural purposes for crop production", "Its high yield potential in field conditions"],
+    options: ["Its drought tolerance in crop production in agriculture", "Its quality fatty acid composition and resistance to oxidation and rancidity", "Its wide adaptability for agricultural purposes for crop production", "Its high yield potential"],
     correct: 1,
     explanation: "As per DA-201 notes, sesame is regarded as queen of oilseeds because of its quality (fatty acid composition) and its resistance to oxidation and rancidity."
   },
@@ -2038,7 +2037,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "The dye Carthamin extracted from safflower petals is:",
-    options: ["Yellow pigment soluble in water in crop production", "Red dye soluble in both water and alcohol", "Blue dye used in textiles in field conditions", "Orange-red dye insoluble in water but soluble in alkaline solution"],
+    options: ["Yellow pigment soluble in water in crop production", "Red dye soluble in both water and alcohol", "Blue dye used in textiles", "Orange-red dye insoluble in water but soluble in alkaline solution"],
     correct: 3,
     explanation: "As per DA-201 notes, safflower florets contain Carthamin - an orange-red dye (2%) insoluble in water but soluble in alkaline solution, used as food, beverage, and cosmetics additive."
   },
@@ -2058,7 +2057,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "The most critical stage of safflower crop growth for irrigation is:",
-    options: ["Rosette stage at 21 DAS or 4-6 leaf stage", "Seed filling stage in field conditions", "At sowing in crop production in agriculture", "Flowering stage for agricultural purposes"],
+    options: ["Rosette stage at 21 DAS or 4-6 leaf stage", "Seed filling stage", "At sowing in crop production in agriculture", "Flowering stage"],
     correct: 0,
     explanation: "As per DA-201 notes, rosette stage (21 DAS or 4-6 leaf stage) is the most critical stage of safflower and yield can be increased by 40-60% with irrigation at this stage."
   },
@@ -2068,7 +2067,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "In safflower, harvesting is traditionally done in early hours of the day before 10 AM because:",
-    options: ["Oil content is maximum in morning in crop production", "Spines are soft in morning and become stiff as day advances", "Aphids are inactive in morning in field conditions", "Dew prevents seed shattering for agricultural purposes"],
+    options: ["Oil content is maximum in morning in crop production", "Spines are soft in morning and become stiff as day advances", "Aphids are inactive in morning", "Dew prevents seed shattering"],
     correct: 1,
     explanation: "According to DA-201 notes, safflower plants are thorny and harvesting is done before 10 AM because spines are soft in early hours and become stiff as the day advances."
   },
@@ -2168,7 +2167,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-12",
     lectureNo: 12,
     question: "To prevent bud and boll shedding in cotton, NAA-Planofix at 10 ppm is sprayed at:",
-    options: ["30-40 DAS in crop production", "50-60 DAS and 15 days after first application", "100-110 DAS in field conditions", "80-90 DAS for agricultural purposes"],
+    options: ["30-40 DAS in crop production", "50-60 DAS and 15 days after first application", "100-110 DAS", "80-90 DAS"],
     correct: 1,
     explanation: "As per DA-201 notes, spraying of NAA-Planofix at 10 ppm at flower initiation (1 ml in 100 liter) at 50-60 DAS and 15 days after 1st application results in retention of more bolls."
   },
@@ -2258,7 +2257,7 @@ export const da201LectureQuestions: Question[] = [
     lecture: "lecture-17",
     lectureNo: 17,
     question: "In sugarcane fertilization, potassium should be applied along with nitrogen because:",
-    options: ["K reduces N volatilization in crop production", "Better utilization of N is achieved in presence of K", "K and N together improve soil pH", "K prevents N toxicity in field conditions"],
+    options: ["K reduces N volatilization in crop production", "Better utilization of N is achieved in presence of K", "K and N together improve soil pH", "K prevents N toxicity"],
     correct: 1,
     explanation: "According to DA-201 notes, potassium application is normally done along with N because of better utilization of N in the presence of K."
   },

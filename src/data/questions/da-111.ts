@@ -1,4 +1,3 @@
-// ===== FILE: da-111.ts =====
 import { Question } from "@/types";
 
 export const da111Questions: Question[] = [
@@ -1288,7 +1287,7 @@ export const da111Questions: Question[] = [
     lecture: "lecture-38",
     lectureNo: 38,
     question: "Seed viability refers to:",
-    options: ["The resistance of seed to diseases in crop production", "The ability of a seed to germinate under favorable conditions", "The weight of 1000 seeds in field conditions", "The shelf life of seed in storage"],
+    options: ["The resistance of seed to diseases in crop production", "The ability of a seed to germinate under favorable conditions", "The weight of 1000 seeds", "The shelf life of seed in storage"],
     correct: 1,
     explanation: "As per DA-111 notes: Seed viability refers to the ability of a seed to germinate under favorable conditions. It is a measure of the living status of seeds."
   },

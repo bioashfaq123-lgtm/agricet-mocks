@@ -801,10 +801,6 @@ export const da151Questions: Question[] = [
     correct: 1,
     explanation: "The depth of penetration of the rotavator can be adjusted up to 12.5 cm. It uses L-shaped blades on the rotor and is not meant for sandy soil. Power from the engine to rotor shaft is transmitted through a chain drive."
   },
-
-
-
-  // ── BATCH 2: Additional 100 questions from PJTSAU DA-151 Theory Notes ──
   {
     id: "d151x_001",
     subject: "da-151",
@@ -901,7 +897,7 @@ export const da151Questions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Piston rings are usually made of",
-    options: ["aluminum alloy in crop production", "copper in field conditions", "cast iron or pressed steel alloy", "drop forged steel"],
+    options: ["aluminum alloy in crop production", "copper", "cast iron or pressed steel alloy", "drop forged steel"],
     correct: 2,
     explanation: "As per DA-151 notes: Piston rings are usually made of cast iron or pressed steel alloy."
   },
@@ -921,7 +917,7 @@ export const da151Questions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The crankshaft is usually made of",
-    options: ["cast iron for agricultural purposes", "copper alloy in crop production", "aluminum alloy in field conditions", "drop forged steel or cast steel"],
+    options: ["cast iron", "copper alloy in crop production", "aluminum alloy", "drop forged steel or cast steel"],
     correct: 3,
     explanation: "As per DA-151 notes: Usually the crankshaft is made of drop forged steel or cast steel."
   },
@@ -951,7 +947,7 @@ export const da151Questions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Timing gear is also called Half time gear because",
-    options: ["it works for half time in crop production", "camshaft gear has twice as many teeth as crankshaft gear", "it is half the size in field conditions", "it has half efficiency for agricultural purposes"],
+    options: ["it works for half time in crop production", "camshaft gear has twice as many teeth as crankshaft gear", "it is half the size", "it has half efficiency"],
     correct: 1,
     explanation: "As per DA-151 notes: Camshaft gear has twice as many teeth as crankshaft gear, hence commonly called Half time gear."
   },
@@ -991,7 +987,7 @@ export const da151Questions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "Scavenging in IC engines refers to",
-    options: ["cooling of cylinder in crop production", "introduction of fresh fuel", "lubrication of parts in field conditions", "removal of burnt exhaust gases from cylinder"],
+    options: ["cooling of cylinder in crop production", "introduction of fresh fuel", "lubrication of parts", "removal of burnt exhaust gases from cylinder"],
     correct: 3,
     explanation: "As per DA-151 notes: Scavenging is the process of removal of burnt or exhaust gases from the engine cylinder."
   },
@@ -1081,7 +1077,7 @@ export const da151Questions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "In the splash lubrication system, the oil is splashed using",
-    options: ["a spray nozzle in crop production", "an oil fan in field conditions", "a dipper at the lower end of connecting rod", "an oil pump for agricultural purposes"],
+    options: ["a spray nozzle in crop production", "an oil fan", "a dipper at the lower end of connecting rod", "an oil pump"],
     correct: 2,
     explanation: "As per DA-151 notes: A dipper is provided at the lower end of the connecting rod, which dips into the oil trough and splashes oil."
   },
@@ -1141,7 +1137,7 @@ export const da151Questions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "In air cooled engines, cylinders have fins to",
-    options: ["increase area of contact of air for speedy cooling", "strengthen the cylinder in field conditions", "prevent rusting for agricultural purposes", "reduce weight in crop production in agriculture"],
+    options: ["increase area of contact of air for speedy cooling", "strengthen the cylinder", "prevent rusting", "reduce weight in crop production in agriculture"],
     correct: 0,
     explanation: "As per DA-151 notes: The cylinder of an air cooled engine has fins to increase the area of contact of air for speedy cooling."
   },
@@ -1221,7 +1217,7 @@ export const da151Questions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Air venting of diesel fuel system is done through",
-    options: ["fuel lift pump in crop production", "main filter for agricultural purposes", "overflow valve in field conditions", "priming pump through bleeding holes of injection pump"],
+    options: ["fuel lift pump in crop production", "main filter", "overflow valve", "priming pump through bleeding holes of injection pump"],
     correct: 3,
     explanation: "As per DA-151 notes: Air is removed by the priming pump through the bleeding holes of the injection pump."
   },
@@ -1321,7 +1317,7 @@ export const da151Questions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The piston in petrol engine is preferred to be made of cast iron due to its",
-    options: ["low cost only", "high compressive strength and low expansion", "lightness in crop production", "conductivity in field conditions"],
+    options: ["low cost only", "high compressive strength and low expansion", "lightness in crop production", "conductivity"],
     correct: 1,
     explanation: "As per DA-151 notes: Cast iron is chosen for pistons due to high compressive strength, low coefficient of expansion, resistance to high temperature, ease of casting and low cost."
   },
@@ -1331,7 +1327,7 @@ export const da151Questions: Question[] = [
     lecture: "lecture-6",
     lectureNo: 6,
     question: "Sealing effect of lubrication prevents",
-    options: ["overheating in crop production", "leakage of gases from engine cylinder", "friction in field conditions", "dirt accumulation for agricultural purposes"],
+    options: ["overheating in crop production", "leakage of gases from engine cylinder", "friction", "dirt accumulation"],
     correct: 1,
     explanation: "As per DA-151 notes: Sealing effect - lubricant enters gap between cylinder liner, piston and piston rings, preventing leakage of gases from engine cylinder."
   },
@@ -1401,7 +1397,7 @@ export const da151Questions: Question[] = [
     lecture: "lecture-3",
     lectureNo: 3,
     question: "The function of flywheel in IC engine includes storing energy during power stroke and",
-    options: ["pumping fuel in crop production in agriculture", "lubricating parts in field conditions", "providing uniform rotary motion by virtue of its inertia", "cooling the engine for agricultural purposes"],
+    options: ["pumping fuel in crop production in agriculture", "lubricating parts", "providing uniform rotary motion by virtue of its inertia", "cooling the engine"],
     correct: 2,
     explanation: "As per DA-151 notes: Flywheel stores energy during power stroke and returns same energy during idle strokes, providing uniform rotary motion by virtue of its inertia."
   },
@@ -1431,7 +1427,7 @@ export const da151Questions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Over-cooling of IC engine is undesirable because",
-    options: ["neither overheating nor over-cooling is desirable for satisfactory performance", "it creates noise in crop production", "it wastes water in field conditions", "it increases fuel consumption only in agriculture"],
+    options: ["neither overheating nor over-cooling is desirable for satisfactory performance", "it creates noise in crop production", "it wastes water", "it increases fuel consumption only in agriculture"],
     correct: 0,
     explanation: "As per DA-151 notes: For satisfactory performance, neither overheating nor over-cooling is desirable."
   },
@@ -1481,7 +1477,7 @@ export const da151Questions: Question[] = [
     lecture: "lecture-7",
     lectureNo: 7,
     question: "Pre-ignition of fuel mixture in IC engine causes",
-    options: ["better cooling in field conditions", "increased efficiency in crop production", "lower exhaust emissions", "engine knocking and loss of power"],
+    options: ["better cooling", "increased efficiency in crop production", "lower exhaust emissions", "engine knocking and loss of power"],
     correct: 3,
     explanation: "As per DA-151 notes: Pre-ignition of fuel mixture would cause engine knocking as well as loss of power - a bad effect of high temperature."
   },
@@ -1805,5 +1801,4 @@ export const da151Questions: Question[] = [
     correct: 2,
     explanation: "As per DA-151 notes: Connecting rod-drop forged steel; Piston rings-cast iron or pressed steel alloy; Flywheel-cast iron."
   },
-
 ];

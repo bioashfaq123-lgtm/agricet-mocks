@@ -801,8 +801,6 @@ export const da102Questions: Question[] = [
     correct: 1,
     explanation: "Cowpea grain yield is 3–4 q/ha. Fodder yield is much higher at 14 t/ha. Cowpea productivity averages 600–750 kg/ha in India."
   },
-
-  // ── BATCH 2: Additional 100 questions from PJTSAU DA-102 Theory Notes (Crop Production-I) ──
   {
     id: "d102x_001",
     subject: "da-102",
@@ -1409,7 +1407,7 @@ export const da102Questions: Question[] = [
     lecture: "lecture-2",
     lectureNo: 2,
     question: "If seedling growth is slow in SRI nursery, what is sprayed at 8-10 DAS?",
-    options: ["DAP solution in crop production", "Nitrogen fertiliser only", "0.5% urea + 0.5% zinc sulphate", "Phosphate solution in field conditions"],
+    options: ["DAP solution in crop production", "Nitrogen fertiliser only", "0.5% urea + 0.5% zinc sulphate", "Phosphate solution"],
     correct: 2,
     explanation: "As per DA-102 notes: If seedling growth is slow in SRI nursery, sprinkle 0.5% urea + 0.5% zinc sulphate solution at 8-10 DAS."
   },

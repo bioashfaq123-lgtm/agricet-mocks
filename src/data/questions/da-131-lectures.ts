@@ -1,4 +1,3 @@
-// ===== FILE: da-131-lectures.ts =====
 import { Question } from "@/types";
 
 export const da131LectureQuestions: Question[] = [
@@ -18,7 +17,7 @@ export const da131LectureQuestions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "The class Insecta is distinguished from other Arthropods by having:",
-    options: ["Book lungs in entomology", "Two pairs of antennae in crop protection", "Three pairs of legs and three body regions", "Four pairs of legs for field crops"],
+    options: ["Book lungs in entomology", "Two pairs of antennae", "Three pairs of legs and three body regions", "Four pairs of legs"],
     correct: 2,
     explanation: "Insects (class Insecta) have 3 pairs of legs, 3 body regions (head, thorax, abdomen) and usually 1 pair of antennae."
   },
@@ -588,7 +587,7 @@ export const da131LectureQuestions: Question[] = [
     lecture: "lecture-4",
     lectureNo: 4,
     question: "Which insect order shows hypermetamorphosis?",
-    options: ["Coleoptera (oil beetles – Meloe)", "Orthoptera in crop protection", "Lepidoptera in entomology", "Diptera for field crops"],
+    options: ["Coleoptera (oil beetles – Meloe)", "Orthoptera", "Lepidoptera in entomology", "Diptera"],
     correct: 0,
     explanation: "Oil beetles (Meloe, Coleoptera) show hypermetamorphosis where the first instar is triungulid larva, later instars are grubs."
   },
@@ -668,7 +667,7 @@ export const da131LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "The characteristic feature of Hemiptera is:",
-    options: ["Four membranous wings", "Hardened elytra in entomology", "Scaly wings in crop protection", "Piercing and sucking mouthparts with hemelytra"],
+    options: ["Four membranous wings", "Hardened elytra in entomology", "Scaly wings", "Piercing and sucking mouthparts with hemelytra"],
     correct: 3,
     explanation: "Hemiptera have piercing-sucking mouthparts and hemelytra (fore wings – basal half leathery, apical half membranous)."
   },
@@ -718,7 +717,7 @@ export const da131LectureQuestions: Question[] = [
     lecture: "lecture-5",
     lectureNo: 5,
     question: "Distinguishing feature of order Orthoptera is:",
-    options: ["Hind legs modified for jumping", "Scales on wings", "Hemelytra in entomology", "Elytra in crop protection"],
+    options: ["Hind legs modified for jumping", "Scales on wings", "Hemelytra in entomology", "Elytra"],
     correct: 0,
     explanation: "Orthoptera (grasshoppers) have hind legs modified for jumping (saltatorial), with enlarged femora."
   },
@@ -1058,7 +1057,7 @@ export const da131LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Economic Threshold Level (ETL) is defined as the pest density at which:",
-    options: ["Crop is completely destroyed in entomology", "Control measures should be initiated to prevent reaching EIL", "All natural enemies are eliminated in crop protection", "No damage occurs for field crops"],
+    options: ["Crop is completely destroyed in entomology", "Control measures should be initiated to prevent reaching EIL", "All natural enemies are eliminated", "No damage occurs"],
     correct: 1,
     explanation: "ETL is the pest density at which control action must be started to prevent the population from reaching Economic Injury Level (EIL)."
   },
@@ -1068,7 +1067,7 @@ export const da131LectureQuestions: Question[] = [
     lecture: "lecture-8",
     lectureNo: 8,
     question: "Economic Injury Level (EIL) is:",
-    options: ["Population level after which control is impossible", "Lowest pest density that causes economic damage justifying control cost", "Population level causing 100% damage in entomology", "Population at which all crops fail in crop protection"],
+    options: ["Population level after which control is impossible", "Lowest pest density that causes economic damage justifying control cost", "Population level causing 100% damage in entomology", "Population at which all crops fail"],
     correct: 1,
     explanation: "EIL is the pest population level at which the value of crop damage equals the cost of control measures."
   },
@@ -1208,7 +1207,7 @@ export const da131LectureQuestions: Question[] = [
     lecture: "lecture-9",
     lectureNo: 9,
     question: "The LD50 of a pesticide refers to:",
-    options: ["Effective dose for crop protection", "Lethal dose killing 100% of test organisms", "Dose killing 50% of test population", "Maximum residue limit"],
+    options: ["Effective dose", "Lethal dose killing 100% of test organisms", "Dose killing 50% of test population", "Maximum residue limit"],
     correct: 2,
     explanation: "LD50 (Lethal Dose 50) is the dose of pesticide that kills 50% of a test population. Lower LD50 = more toxic."
   },
@@ -1258,7 +1257,7 @@ export const da131LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Integrated Pest Management (IPM) is defined as a pest management system that:",
-    options: ["Uses only chemical pesticides as per entomology and crop pest management principles", "Combines all suitable pest management tactics to keep pest populations below EIL", "Uses no pesticides at all for field crops", "Relies only on biological control in crop protection"],
+    options: ["Uses only chemical pesticides as per entomology and crop pest management principles", "Combines all suitable pest management tactics to keep pest populations below EIL", "Uses no pesticides at all", "Relies only on biological control"],
     correct: 1,
     explanation: "IPM combines cultural, biological, mechanical and chemical methods in a compatible manner to keep pest populations below EIL with minimum environmental impact."
   },
@@ -1328,7 +1327,7 @@ export const da131LectureQuestions: Question[] = [
     lecture: "lecture-10",
     lectureNo: 10,
     question: "Which cultural practice helps in reducing stem borer damage in rice?",
-    options: ["Skip row sowing", "Clipping tips of seedlings during transplanting", "Flood irrigation in crop protection", "Broadcasting seeds in entomology"],
+    options: ["Skip row sowing", "Clipping tips of seedlings during transplanting", "Flood irrigation", "Broadcasting seeds in entomology"],
     correct: 1,
     explanation: "Clipping the tips of seedlings during transplanting removes eggs of stem borers laid on leaf tips, reducing early infestation."
   },

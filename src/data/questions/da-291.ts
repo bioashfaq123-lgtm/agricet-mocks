@@ -1,4 +1,3 @@
-// ===== FILE: da-291.ts =====
 import { Question } from "@/types";
 
 export const da291Questions: Question[] = [
@@ -654,7 +653,7 @@ export const da291Questions: Question[] = [
     id: "d291_082",
     subject: "da-291",
     question: "The Likert Scale is used in extension research to measure:",
-    options: ["Soil pH and nutrient concentration levels in agricultural fields", "Crop yield and production efficiency under different management systems", "Agricultural land area and field dimensions for planning purposes", "Farmer attitudes and opinions (strongly agree to strongly disagree scale)"],
+    options: ["Soil pH and nutrient concentration levels", "Crop yield and production efficiency under different management systems", "Agricultural land area and field dimensions for planning purposes", "Farmer attitudes and opinions (strongly agree to strongly disagree scale)"],
     correct: 3,
     explanation: "Likert scale (Rensis Likert, 1932) is a psychometric scale used to measure attitudes, perceptions, and opinions using a 5-point response scale: Strongly Agree (5) → Agree (4) → Neutral (3) → Disagree (2) → Strongly Disagree (1). Widely used in extension research to measure farmer attitudes."
   },
@@ -718,7 +717,7 @@ export const da291Questions: Question[] = [
     id: "d291_090",
     subject: "da-291",
     question: "The Gini Coefficient is used in extension research to measure:",
-    options: ["Seasonal variation in crop yield across different agro-climatic zones", "Rainfall distribution patterns and variability across agricultural seasons", "Soil fertility status and nutrient availability index in agricultural fields", "Inequality in income or land distribution among rural farming households"],
+    options: ["Seasonal variation in crop yield across different agro-climatic zones", "Rainfall distribution patterns and variability across agricultural seasons", "Soil fertility status and nutrient availability index", "Inequality in income or land distribution among rural farming households"],
     correct: 3,
     explanation: "The Gini Coefficient (0 to 1) measures inequality in distribution of income, land, or other resources. A value of 0 = perfect equality; 1 = perfect inequality. Used in rural sociology and extension research to analyse whether development programmes reach the poorest farmers."
   },

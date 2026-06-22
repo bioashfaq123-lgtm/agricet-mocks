@@ -1,4 +1,3 @@
-// ===== FILE: da-122.ts =====
 import { Question } from "@/types";
 
 export const da122Questions: Question[] = [
@@ -808,7 +807,7 @@ export const da122Questions: Question[] = [
     lecture: "lecture-1",
     lectureNo: 1,
     question: "Soil fertility is defined as the quality that enables soil to provide:",
-    options: ["Air for plant growth only in crop production", "Proper nutrients in proper amounts and balance for plant growth", "Water for plant growth only in field conditions", "Only physical support to plants for agricultural purposes"],
+    options: ["Air for plant growth only in crop production", "Proper nutrients in proper amounts and balance for plant growth", "Water for plant growth only", "Only physical support to plants"],
     correct: 1,
     explanation: "As per DA-122 notes: Soil fertility is defined as the quality that enables the soil to provide proper nutrient compounds in proper amounts and in proper balance for the growth of specified plants."
   },
