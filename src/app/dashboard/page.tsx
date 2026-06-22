@@ -11,97 +11,6 @@ import { SUBJECTS, DEMO_SUBJECT_ID } from "@/data/subjects";
 import { PREVIOUS_YEAR_PAPERS } from "@/data/previousYearPapers";
 import Navbar from "@/components/Navbar";
 import PaymentButton from "@/components/PaymentButton";
-import { LIVE_START_UTC as LIVE_START, LIVE_END_UTC as LIVE_END } from "@/lib/liveTest";
-
-function LiveTestBanner() {
-  const [now, setNow] = useState(() => new Date());
-  useEffect(() => {
-    const t = setInterval(() => setNow(new Date()), 1000);
-    return () => clearInterval(t);
-  }, []);
-
-  // After the test ends, show links to the published ranking + answer key.
-  if (now > LIVE_END) {
-    return (
-      <div className="mb-6 rounded-2xl bg-gradient-to-br from-green-700 to-emerald-800 p-5 text-white shadow-xl border-2 border-green-300">
-        <div className="flex items-center gap-2 mb-2">
-          <span className="text-xl">🏆</span>
-          <span className="bg-amber-400 text-black text-xs font-black px-2 py-0.5 rounded-full">RESULTS OUT</span>
-        </div>
-        <h3 className="text-lg font-black mb-1">FREE Live Mock Test — Results are published!</h3>
-        <p className="text-green-100 text-xs mb-4">See your overall All-Telangana ranking and the full answer key with explanations.</p>
-        <div className="flex flex-wrap gap-2">
-          <Link href="/ranking" className="inline-flex items-center gap-2 bg-white text-green-700 font-black px-4 py-2.5 rounded-xl text-sm hover:bg-green-50 transition-all shadow">
-            🏆 View Ranking
-          </Link>
-          <Link href="/answer-key" className="inline-flex items-center gap-2 bg-amber-300 text-amber-900 font-black px-4 py-2.5 rounded-xl text-sm hover:bg-amber-200 transition-all shadow">
-            📖 Answer Key
-          </Link>
-        </div>
-      </div>
-    );
-  }
-
-  if (now >= LIVE_START && now <= LIVE_END) {
-    return (
-      <div className="mb-6 rounded-2xl bg-gradient-to-br from-green-500 via-emerald-600 to-teal-700 p-5 text-white shadow-xl border-2 border-green-300">
-        <div className="flex items-center gap-2 mb-2">
-          <span className="text-xl">🔴</span>
-          <span className="bg-red-500 text-white text-xs font-black px-2 py-0.5 rounded-full animate-pulse">LIVE NOW</span>
-          <span className="bg-white/25 text-white text-xs font-bold px-2 py-0.5 rounded-full">100% FREE</span>
-        </div>
-        <h3 className="text-lg font-black mb-1">FREE Live Mock Test is LIVE!</h3>
-        <p className="text-green-100 text-xs mb-4">100 Questions · 100 Minutes · All Telangana Rank · Open till 12 PM IST (20th June)</p>
-        <div className="flex flex-wrap gap-2">
-          <Link href="/grand-tests/gtlive"
-            className="inline-flex items-center gap-2 bg-white text-green-700 font-black px-5 py-2.5 rounded-xl text-sm hover:bg-green-50 transition-all shadow">
-            Start FREE Test Now <ChevronRight className="w-4 h-4" />
-          </Link>
-          <Link href="/ranking"
-            className="inline-flex items-center gap-2 bg-amber-300 text-amber-900 font-black px-4 py-2.5 rounded-xl text-sm hover:bg-amber-200 transition-all shadow">
-            🏆 Live Ranking
-          </Link>
-        </div>
-      </div>
-    );
-  }
-
-  // Before test — show countdown
-  const diff   = Math.max(0, LIVE_START.getTime() - now.getTime());
-  const totSec = Math.floor(diff / 1000);
-  const d = Math.floor(totSec / 86400);
-  const h = Math.floor((totSec % 86400) / 3600);
-  const m = Math.floor((totSec % 3600) / 60);
-  const s = totSec % 60;
-  const pad = (n: number) => String(n).padStart(2, "0");
-
-  return (
-    <div className="mb-6 rounded-2xl bg-gradient-to-br from-gray-900 to-gray-800 p-5 text-white shadow-xl border-2 border-green-500">
-      <div className="flex items-center gap-2 mb-2">
-        <span className="bg-green-500 text-white text-xs font-black px-2 py-0.5 rounded-full">FREE</span>
-        <span className="bg-yellow-400 text-black text-xs font-black px-2 py-0.5 rounded-full">UPCOMING</span>
-      </div>
-      <h3 className="text-base font-black text-white mb-1">FREE Live Mock Test — 19th June 2026 (Friday)</h3>
-      <p className="text-gray-400 text-xs mb-3">8 PM (19th) – 12 PM (20th) IST · 100 Questions · All Telangana Rank · Absolutely FREE</p>
-      <div className="grid grid-cols-4 gap-2 mb-3">
-        {[{v:d,l:"Days"},{v:h,l:"Hrs"},{v:m,l:"Min"},{v:s,l:"Sec"}].map(({v,l}) => (
-          <div key={l} className="bg-gray-700 rounded-xl p-2 text-center border border-gray-600">
-            <div className="text-2xl font-black text-green-400">{pad(v)}</div>
-            <div className="text-gray-400 text-xs">{l}</div>
-          </div>
-        ))}
-      </div>
-      <div className="bg-yellow-400/15 border border-yellow-400/40 rounded-xl p-3 mb-3">
-        <p className="text-yellow-300 text-xs font-bold mb-0.5">⚠️ Sign in / create your account before the test starts</p>
-        <p className="text-yellow-100/80 text-xs leading-relaxed">
-          Register with a <span className="font-bold">valid email ID</span> — your result, with the full answer key &amp;
-          explanations, is sent only to your email. The test can be attempted <span className="font-bold">once per student</span>.
-        </p>
-      </div>
-      <p className="text-gray-500 text-xs">📢 Share with friends — Open to all Diploma students across Telangana</p>
-    </div>
-  );
-}
 
 export default function DashboardPage() {
   const { user, userData, loading } = useAuth();
@@ -217,9 +126,6 @@ export default function DashboardPage() {
             </Link>
           </div>
         </div>
-
-        {/* ── FREE LIVE MOCK TEST CARD ── */}
-        <LiveTestBanner />
 
         {/* Grand Tests */}
         <section className="mb-8">

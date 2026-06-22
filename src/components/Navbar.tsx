@@ -32,9 +32,6 @@ export default function Navbar() {
           <Link href="/grand-tests"    className="flex items-center gap-1 text-amber-600 hover:text-amber-700 font-bold text-sm transition-colors">
             <Trophy className="w-3.5 h-3.5" /> Grand Tests
           </Link>
-          <Link href="/ranking"        className="flex items-center gap-1 text-red-600 hover:text-red-700 font-bold text-sm transition-colors">
-            <Trophy className="w-3.5 h-3.5" /> Live Ranking
-          </Link>
           <Link href="/previous-years" className="text-gray-600 hover:text-primary-600 font-medium text-sm transition-colors">Previous Papers</Link>
           <Link href="/analysis"       className="text-gray-600 hover:text-primary-600 font-medium text-sm transition-colors">Weightage Analysis</Link>
           <Link href="/#pricing"       className="text-gray-600 hover:text-primary-600 font-medium text-sm transition-colors">Pricing</Link>
@@ -80,9 +77,6 @@ export default function Navbar() {
           <Link href="/#subjects"      className="block text-gray-700 font-medium py-2" onClick={() => setOpen(false)}>Subjects</Link>
           <Link href="/grand-tests"    className="flex items-center gap-2 text-amber-600 font-bold py-2" onClick={() => setOpen(false)}>
             <Trophy className="w-4 h-4" /> Grand Tests
-          </Link>
-          <Link href="/ranking"        className="flex items-center gap-2 text-red-600 font-bold py-2" onClick={() => setOpen(false)}>
-            <Trophy className="w-4 h-4" /> Live Ranking
           </Link>
           <Link href="/previous-years" className="block text-gray-700 font-medium py-2" onClick={() => setOpen(false)}>Previous Papers</Link>
           <Link href="/analysis"       className="block text-gray-700 font-medium py-2" onClick={() => setOpen(false)}>Weightage Analysis</Link>

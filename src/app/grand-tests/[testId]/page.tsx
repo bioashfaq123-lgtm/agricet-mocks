@@ -36,10 +36,10 @@ const TEST_DATA: Record<string, GrandTestQuestion[]> = {
   gt9:    GRAND_TEST_9,
   gt10:   GRAND_TEST_10,
   gt11:   GRAND_TEST_11,
-  gtlive: GRAND_TEST_LIVE,
+  gt12:   GRAND_TEST_LIVE,   // 19 June 2026 live test, now open for practice
 };
 
-const FREE_IDS: string[] = ["gtlive"]; // Live mock test is free for all
+const FREE_IDS: string[] = []; // live event over; replay (gt12) is a normal practice test
 
 // subject → short colour label
 const SUBJECT_COLORS: Record<string, string> = {
@@ -447,7 +447,6 @@ export default function GrandTestPage() {
                   answers are not shown here now.
                 </p>
                 <div className="flex gap-2 justify-center">
-                  <Link href="/ranking" className="inline-flex items-center gap-1.5 bg-amber-100 hover:bg-amber-200 text-amber-800 text-xs font-bold px-3 py-2 rounded-lg">🏆 View Ranking</Link>
                   <Link href="/answer-key" className="inline-flex items-center gap-1.5 bg-blue-100 hover:bg-blue-200 text-blue-800 text-xs font-bold px-3 py-2 rounded-lg">📖 Answer Key</Link>
                 </div>
               </div>

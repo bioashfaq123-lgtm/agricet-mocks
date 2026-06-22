@@ -15,8 +15,8 @@ export default function AnswerKeyPage() {
             <BookOpen className="w-7 h-7 text-blue-200" /> Answer Key &amp; Explanations
           </h1>
           <p className="text-blue-100 text-sm mt-1">AGRICET Free Live Mock Test — {GRAND_TEST_LIVE.length} questions</p>
-          <Link href="/ranking" className="inline-flex items-center gap-2 mt-4 bg-white/15 hover:bg-white/25 text-white text-sm font-bold px-4 py-2 rounded-xl">
-            <Trophy className="w-4 h-4 text-amber-300" /> View Final Ranking
+          <Link href="/grand-tests/gt12" className="inline-flex items-center gap-2 mt-4 bg-white/15 hover:bg-white/25 text-white text-sm font-bold px-4 py-2 rounded-xl">
+            <Trophy className="w-4 h-4 text-amber-300" /> Practice this test (Grand Test 12)
           </Link>
         </div>
       </div>
@@ -70,8 +70,8 @@ export default function AnswerKeyPage() {
         ))}
 
         <div className="text-center pt-2 pb-8">
-          <Link href="/ranking" className="inline-flex items-center gap-2 text-gray-400 text-sm hover:underline">
-            <ArrowLeft className="w-4 h-4" /> Back to Ranking
+          <Link href="/grand-tests" className="inline-flex items-center gap-2 text-gray-400 text-sm hover:underline">
+            <ArrowLeft className="w-4 h-4" /> Back to Grand Tests
           </Link>
         </div>
       </div>
