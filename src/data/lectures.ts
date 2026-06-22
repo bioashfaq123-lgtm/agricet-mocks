@@ -247,11 +247,11 @@ export const DA262_LECTURES: Lecture[] = [
   lec("computer-applications", 3, "Operating Systems", "DOS commands, Windows features, file management, booting, GUI vs CLI"),
   lec("computer-applications", 4, "MS Word – Word Processing", "Creating, editing, formatting, tables, mail merge, printing, templates"),
   lec("computer-applications", 5, "MS Excel – Spreadsheets", "Workbook, worksheet, formulas, functions, charts, sorting, filtering"),
-  lec("computer-applications", 6, "MS PowerPoint – Presentations", "Slides, layouts, transitions, animations, slide show, handouts"),
+  lec("computer-applications", 6, "Software & Programming Languages", "System/application/utility software, compilers & interpreters, machine/assembly/high-level languages"),
   lec("computer-applications", 7, "Internet & Email", "WWW, browser, search engines, email protocol, attachments, cyber safety"),
   lec("computer-applications", 8, "Computer Networking Basics", "LAN, WAN, MAN, TCP/IP, IP address, router, modem, types of networks"),
-  lec("computer-applications", 9, "Computer Applications in Agriculture", "e-Krishi, Kisan Suvidha, soil health portal, market price apps, GIS in agri"),
-  lec("computer-applications", 10, "Emerging Technologies", "Artificial intelligence, machine learning, IoT in agriculture, drones, remote sensing"),
+  lec("computer-applications", 9, "DOS Commands & File Management", "FORMAT, DIR, COPY, MD, CD, RD, DEL, TREE; file extensions (.COM, .EXE, .BAT, .SYS)"),
+  lec("computer-applications", 10, "Computer Generations & MS Office", "Generations (vacuum tubes to ULSI), CPU/ALU/control unit, MICR, MS Word/Excel/Access basics"),
 ];
 
 // ── DA-263: English Communication ───────────────────────────────────────────

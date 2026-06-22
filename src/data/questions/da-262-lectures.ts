@@ -1,9 +1,12 @@
+// ===== FILE: da-262-lectures.ts =====
 import { Question } from "@/types";
 
 export const da262LectureQuestions: Question[] = [
-  // ── LECTURE 1: Introduction to Computers ─────────────────────────────────
   {
-    id: "d262l_001", subject: "computer-applications", lecture: "lecture-1", lectureNo: 1,
+    id: "d262l_001",
+    subject: "computer-applications",
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "A computer is an electronic device that:",
     options: ["Only stores data in basic computer operations", "Only prints documents for general office use", "Processes data according to instructions and produces output", "Only plays games for data management only"],
     correct: 2,
@@ -11,7 +14,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_002", subject: "computer-applications", lecture: "lecture-1", lectureNo: 1,
+    id: "d262l_002",
+    subject: "computer-applications",
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "The full form of CPU is:",
     options: ["Computer Processing Unit", "Core Processing Unit", "Central Processing Unit", "Central Program Unit"],
     correct: 2,
@@ -19,7 +25,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_003", subject: "computer-applications", lecture: "lecture-1", lectureNo: 1,
+    id: "d262l_003",
+    subject: "computer-applications",
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "RAM stands for:",
     options: ["Remote Access Memory", "Read All Memory", "Rapid Access Module", "Random Access Memory"],
     correct: 3,
@@ -27,7 +36,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_004", subject: "computer-applications", lecture: "lecture-1", lectureNo: 1,
+    id: "d262l_004",
+    subject: "computer-applications",
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "Which generation of computers used transistors?",
     options: ["Second generation", "Third generation", "Fourth generation", "First generation"],
     correct: 0,
@@ -35,7 +47,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d262l_005", subject: "computer-applications", lecture: "lecture-1", lectureNo: 1,
+    id: "d262l_005",
+    subject: "computer-applications",
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "The binary number system uses digits:",
     options: ["0–7", "0 and 1", "A–F", "0–9"],
     correct: 1,
@@ -43,7 +58,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_006", subject: "computer-applications", lecture: "lecture-1", lectureNo: 1,
+    id: "d262l_006",
+    subject: "computer-applications",
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "1 byte =",
     options: ["4 bits", "16 bits", "8 bits", "1024 bits"],
     correct: 2,
@@ -51,7 +69,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_007", subject: "computer-applications", lecture: "lecture-1", lectureNo: 1,
+    id: "d262l_007",
+    subject: "computer-applications",
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "1 KB (Kilobyte) =",
     options: ["1,024 bytes", "1,000 bytes", "10,000 bytes", "100 bytes"],
     correct: 0,
@@ -59,7 +80,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_008", subject: "computer-applications", lecture: "lecture-1", lectureNo: 1,
+    id: "d262l_008",
+    subject: "computer-applications",
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "ROM stands for:",
     options: ["Random Output Memory", "Rapid Operating Memory", "Removable Output Module", "Read Only Memory"],
     correct: 3,
@@ -67,7 +91,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_009", subject: "computer-applications", lecture: "lecture-1", lectureNo: 1,
+    id: "d262l_009",
+    subject: "computer-applications",
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "Which of the following is an input device?",
     options: ["Printer", "Keyboard", "Monitor", "Speaker"],
     correct: 1,
@@ -75,7 +102,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_010", subject: "computer-applications", lecture: "lecture-1", lectureNo: 1,
+    id: "d262l_010",
+    subject: "computer-applications",
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "Which of the following is an output device?",
     options: ["Scanner", "Monitor", "Keyboard", "Mouse"],
     correct: 1,
@@ -83,7 +113,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_011", subject: "computer-applications", lecture: "lecture-1", lectureNo: 1,
+    id: "d262l_011",
+    subject: "computer-applications",
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "The motherboard of a computer is:",
     options: ["The main circuit board connecting all components", "The CPU only for general office use", "The hard disk in basic computer operations", "The power supply unit"],
     correct: 0,
@@ -91,17 +124,21 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_012", subject: "computer-applications", lecture: "lecture-1", lectureNo: 1,
+    id: "d262l_012",
+    subject: "computer-applications",
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "BIOS stands for:",
     options: ["Basic Integrated Operating System", "Basic Input Output Software", "Basic Input Output System", "Binary Input Output System"],
     correct: 2,
     explanation: "BIOS (Basic Input Output System) is firmware stored in ROM that initializes hardware during startup.",
     difficulty: "medium"
   },
-
-  // ── LECTURE 2: Operating System and Software ──────────────────────────────
   {
-    id: "d262l_013", subject: "computer-applications", lecture: "lecture-2", lectureNo: 2,
+    id: "d262l_013",
+    subject: "computer-applications",
+    lecture: "lecture-2",
+    lectureNo: 2,
     question: "An operating system is:",
     options: ["A hardware component for general office use", "System software that manages computer hardware and provides services to programs", "An application program in basic computer operations", "A type of memory for data management only"],
     correct: 1,
@@ -109,7 +146,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_014", subject: "computer-applications", lecture: "lecture-2", lectureNo: 2,
+    id: "d262l_014",
+    subject: "computer-applications",
+    lecture: "lecture-2",
+    lectureNo: 2,
     question: "Which is NOT an operating system?",
     options: ["MS-DOS", "Linux", "MS Excel", "Windows"],
     correct: 2,
@@ -117,7 +157,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_015", subject: "computer-applications", lecture: "lecture-2", lectureNo: 2,
+    id: "d262l_015",
+    subject: "computer-applications",
+    lecture: "lecture-2",
+    lectureNo: 2,
     question: "GUI stands for:",
     options: ["General User Interface", "Graphical User Interface", "Global User Interface", "Generated Utility Interface"],
     correct: 1,
@@ -125,7 +168,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_016", subject: "computer-applications", lecture: "lecture-2", lectureNo: 2,
+    id: "d262l_016",
+    subject: "computer-applications",
+    lecture: "lecture-2",
+    lectureNo: 2,
     question: "Which of the following is an application software?",
     options: ["Windows 10", "Linux", "Ubuntu", "MS Word"],
     correct: 3,
@@ -133,7 +179,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_017", subject: "computer-applications", lecture: "lecture-2", lectureNo: 2,
+    id: "d262l_017",
+    subject: "computer-applications",
+    lecture: "lecture-2",
+    lectureNo: 2,
     question: "Open source software means:",
     options: ["Paid proprietary software for general office use in agriculture", "Software that has no purpose for data management only for crop production", "Software for outdoor activities in basic computer operations", "Software that is free to use and whose source code is openly available"],
     correct: 3,
@@ -141,7 +190,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_018", subject: "computer-applications", lecture: "lecture-2", lectureNo: 2,
+    id: "d262l_018",
+    subject: "computer-applications",
+    lecture: "lecture-2",
+    lectureNo: 2,
     question: "Android is an operating system designed for:",
     options: ["Servers only", "Desktop computers only", "Mobile devices (smartphones and tablets)", "Supercomputers"],
     correct: 2,
@@ -149,7 +201,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_019", subject: "computer-applications", lecture: "lecture-2", lectureNo: 2,
+    id: "d262l_019",
+    subject: "computer-applications",
+    lecture: "lecture-2",
+    lectureNo: 2,
     question: "A virus in computer terms is:",
     options: ["A system driver for general office use", "An antivirus program for data management only", "A beneficial program in basic computer operations", "Malicious software that replicates and damages files/systems"],
     correct: 3,
@@ -157,7 +212,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_020", subject: "computer-applications", lecture: "lecture-2", lectureNo: 2,
+    id: "d262l_020",
+    subject: "computer-applications",
+    lecture: "lecture-2",
+    lectureNo: 2,
     question: "Antivirus software is used to:",
     options: ["Speed up the computer", "Connect to the internet", "Detect, prevent, and remove malicious software", "Create documents"],
     correct: 2,
@@ -165,7 +223,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_021", subject: "computer-applications", lecture: "lecture-2", lectureNo: 2,
+    id: "d262l_021",
+    subject: "computer-applications",
+    lecture: "lecture-2",
+    lectureNo: 2,
     question: "Booting a computer means:",
     options: ["Deleting files for general office use", "Starting the computer and loading the operating system", "Shutting down the computer", "Installing software in basic computer operations"],
     correct: 1,
@@ -173,17 +234,21 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_022", subject: "computer-applications", lecture: "lecture-2", lectureNo: 2,
+    id: "d262l_022",
+    subject: "computer-applications",
+    lecture: "lecture-2",
+    lectureNo: 2,
     question: "Multitasking in an operating system means:",
     options: ["Only one program runs at a time", "The computer runs at multiple speeds", "Multiple users can log in", "Multiple programs run simultaneously (concurrent execution)"],
     correct: 3,
     explanation: "Multitasking allows multiple programs to run concurrently by rapidly switching CPU time between them.",
     difficulty: "medium"
   },
-
-  // ── LECTURE 3: MS Word ────────────────────────────────────────────────────
   {
-    id: "d262l_023", subject: "computer-applications", lecture: "lecture-3", lectureNo: 3,
+    id: "d262l_023",
+    subject: "computer-applications",
+    lecture: "lecture-3",
+    lectureNo: 3,
     question: "MS Word is primarily used for:",
     options: ["Creating spreadsheets for general office use", "Word processing (creating, editing, formatting text documents)", "Graphic design in basic computer operations", "Database management for data management only"],
     correct: 1,
@@ -191,15 +256,21 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_024", subject: "computer-applications", lecture: "lecture-3", lectureNo: 3,
-    question: "The default file extension for MS Word 2016 documents is:",
-    options: [".docx", ".pdf", ".txt", ".doc"],
-    correct: 0,
-    explanation: "MS Word 2007 and later saves files in .docx format (XML-based). Older versions used .doc.",
+    id: "d262l_024",
+    subject: "computer-applications",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "Files with the extension .COM or .EXE are called:",
+    options: ["Backup files", "Executable files", "Batch files", "System files"],
+    correct: 1,
+    explanation: "Files with a .COM or .EXE extension are executable files - they are directly executed by typing their name. A .COM file is a command file and .EXE is an executable file.",
     difficulty: "easy"
   },
   {
-    id: "d262l_025", subject: "computer-applications", lecture: "lecture-3", lectureNo: 3,
+    id: "d262l_025",
+    subject: "computer-applications",
+    lecture: "lecture-3",
+    lectureNo: 3,
     question: "The shortcut key for 'Save' in MS Word is:",
     options: ["Alt + S", "Ctrl + P", "Ctrl + O", "Ctrl + S"],
     correct: 3,
@@ -207,7 +278,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_026", subject: "computer-applications", lecture: "lecture-3", lectureNo: 3,
+    id: "d262l_026",
+    subject: "computer-applications",
+    lecture: "lecture-3",
+    lectureNo: 3,
     question: "Which tab in MS Word contains font formatting options?",
     options: ["Home", "View", "Insert", "Page Layout"],
     correct: 0,
@@ -215,7 +289,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_027", subject: "computer-applications", lecture: "lecture-3", lectureNo: 3,
+    id: "d262l_027",
+    subject: "computer-applications",
+    lecture: "lecture-3",
+    lectureNo: 3,
     question: "Mail Merge in MS Word is used for:",
     options: ["Creating personalized letters for multiple recipients using a data source", "Merging footnotes in basic computer operations", "Merging two documents into one for general office use", "Combining cells in a table for data management only"],
     correct: 0,
@@ -223,7 +300,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d262l_028", subject: "computer-applications", lecture: "lecture-3", lectureNo: 3,
+    id: "d262l_028",
+    subject: "computer-applications",
+    lecture: "lecture-3",
+    lectureNo: 3,
     question: "The shortcut key for 'Bold' in MS Word is:",
     options: ["Ctrl + B", "Ctrl + I", "Ctrl + U", "Ctrl + D"],
     correct: 0,
@@ -231,7 +311,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_029", subject: "computer-applications", lecture: "lecture-3", lectureNo: 3,
+    id: "d262l_029",
+    subject: "computer-applications",
+    lecture: "lecture-3",
+    lectureNo: 3,
     question: "Which feature in MS Word checks spelling and grammar?",
     options: ["AutoFit", "Spelling & Grammar (F7)", "Track Changes", "AutoCorrect only"],
     correct: 1,
@@ -239,7 +322,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_030", subject: "computer-applications", lecture: "lecture-3", lectureNo: 3,
+    id: "d262l_030",
+    subject: "computer-applications",
+    lecture: "lecture-3",
+    lectureNo: 3,
     question: "Print Preview in MS Word allows:",
     options: ["Printing immediately for general office use", "Saving the document in basic computer operations", "Viewing how the document will look when printed before printing", "Editing the document for data management only"],
     correct: 2,
@@ -247,7 +333,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_031", subject: "computer-applications", lecture: "lecture-3", lectureNo: 3,
+    id: "d262l_031",
+    subject: "computer-applications",
+    lecture: "lecture-3",
+    lectureNo: 3,
     question: "Track Changes feature in MS Word is used to:",
     options: ["Track the time spent on a document", "Record and show changes made by multiple authors for review", "Track printing for general office use", "Monitor file size changes in basic computer operations"],
     correct: 1,
@@ -255,17 +344,21 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d262l_032", subject: "computer-applications", lecture: "lecture-3", lectureNo: 3,
-    question: "The maximum font size available in MS Word font size box is:",
-    options: ["400 pt", "1638 pt", "72 pt", "100 pt"],
-    correct: 1,
-    explanation: "MS Word allows font sizes from 1 to 1638 points (you can type the size directly).",
+    id: "d262l_032",
+    subject: "computer-applications",
+    lecture: "lecture-3",
+    lectureNo: 3,
+    question: "For paragraphs of text in a word processor, the best font size is generally:",
+    options: ["6 or 8", "36 or 48", "11 or 12", "72 or above"],
+    correct: 2,
+    explanation: "A font size of 11 or 12 is generally best for paragraphs of text; the font size is changed using the Font size box on the formatting toolbar.",
     difficulty: "hard"
   },
-
-  // ── LECTURE 4: MS Excel ───────────────────────────────────────────────────
   {
-    id: "d262l_033", subject: "computer-applications", lecture: "lecture-4", lectureNo: 4,
+    id: "d262l_033",
+    subject: "computer-applications",
+    lecture: "lecture-4",
+    lectureNo: 4,
     question: "MS Excel is primarily used for:",
     options: ["Email communication for general office use", "Creating, organizing, and analyzing data in spreadsheets", "Word processing in basic computer operations", "Presentation design for data management only"],
     correct: 1,
@@ -273,15 +366,21 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_034", subject: "computer-applications", lecture: "lecture-4", lectureNo: 4,
-    question: "The default file extension for MS Excel 2016 is:",
-    options: [".xls", ".xlm", ".xlsx", ".csv"],
-    correct: 2,
-    explanation: "Excel 2007 and later uses .xlsx format (XML-based). Older versions used .xls.",
+    id: "d262l_034",
+    subject: "computer-applications",
+    lecture: "lecture-4",
+    lectureNo: 4,
+    question: "A file that contains a set of commands executed one at a time in the order entered has which extension?",
+    options: [".PPT", ".DOC", ".XLS", ".BAT (batch file)"],
+    correct: 3,
+    explanation: "A file with the .BAT extension is a batch file - it contains a set of commands that are executed one at a time in the order entered.",
     difficulty: "easy"
   },
   {
-    id: "d262l_035", subject: "computer-applications", lecture: "lecture-4", lectureNo: 4,
+    id: "d262l_035",
+    subject: "computer-applications",
+    lecture: "lecture-4",
+    lectureNo: 4,
     question: "A cell in Excel is identified by:",
     options: ["Cell name only", "Column letter followed by row number", "Row number only", "Only row and column numbers"],
     correct: 1,
@@ -289,7 +388,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_036", subject: "computer-applications", lecture: "lecture-4", lectureNo: 4,
+    id: "d262l_036",
+    subject: "computer-applications",
+    lecture: "lecture-4",
+    lectureNo: 4,
     question: "In Excel, a formula must start with:",
     options: ["!", "#", "@", "="],
     correct: 3,
@@ -297,7 +399,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_037", subject: "computer-applications", lecture: "lecture-4", lectureNo: 4,
+    id: "d262l_037",
+    subject: "computer-applications",
+    lecture: "lecture-4",
+    lectureNo: 4,
     question: "The function =SUM(A1:A10) calculates:",
     options: ["Sum of values in cells A1 through A10", "Count of cells for general office use", "Average of A1 to A10", "Maximum value in basic computer operations"],
     correct: 0,
@@ -305,7 +410,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_038", subject: "computer-applications", lecture: "lecture-4", lectureNo: 4,
+    id: "d262l_038",
+    subject: "computer-applications",
+    lecture: "lecture-4",
+    lectureNo: 4,
     question: "The function =AVERAGE(B1:B5) computes:",
     options: ["Sum of B1 to B5", "Minimum value for general office use", "Number of cells in basic computer operations", "Arithmetic mean of values in B1 to B5"],
     correct: 3,
@@ -313,7 +421,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_039", subject: "computer-applications", lecture: "lecture-4", lectureNo: 4,
+    id: "d262l_039",
+    subject: "computer-applications",
+    lecture: "lecture-4",
+    lectureNo: 4,
     question: "Absolute cell reference in Excel is written as:",
     options: ["A1", "A$1", "Both B and C", "$A$1"],
     correct: 3,
@@ -321,7 +432,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d262l_040", subject: "computer-applications", lecture: "lecture-4", lectureNo: 4,
+    id: "d262l_040",
+    subject: "computer-applications",
+    lecture: "lecture-4",
+    lectureNo: 4,
     question: "VLOOKUP function in Excel is used to:",
     options: ["Look up a value in a column and return a value", "Create vertical charts in basic computer operations", "Calculate vertical sums for data management only for crop production", "Validate data for general office use in agriculture"],
     correct: 0,
@@ -329,7 +443,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d262l_041", subject: "computer-applications", lecture: "lecture-4", lectureNo: 4,
+    id: "d262l_041",
+    subject: "computer-applications",
+    lecture: "lecture-4",
+    lectureNo: 4,
     question: "Pivot Table in Excel is used for:",
     options: ["Summarizing, analyzing, and presenting large data sets interactively", "Inserting images for general office use", "Rotating the worksheet in basic computer operations", "Setting print margins for data management only"],
     correct: 0,
@@ -337,41 +454,54 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d262l_042", subject: "computer-applications", lecture: "lecture-4", lectureNo: 4,
+    id: "d262l_042",
+    subject: "computer-applications",
+    lecture: "lecture-4",
+    lectureNo: 4,
     question: "Conditional Formatting in Excel highlights cells based on:",
     options: ["File size for general office use", "Font type only for data management only", "Random selection in basic computer operations", "User-defined rules (cell value, text, date criteria)"],
     correct: 3,
     explanation: "Conditional Formatting automatically applies color or format to cells meeting specified conditions.",
     difficulty: "medium"
   },
-
-  // ── LECTURE 5: MS PowerPoint and Internet ────────────────────────────────
   {
-    id: "d262l_043", subject: "computer-applications", lecture: "lecture-5", lectureNo: 5,
-    question: "MS PowerPoint is used for:",
-    options: ["Creating slide-based presentations", "Word processing", "Spreadsheet calculations", "Database management"],
+    id: "d262l_043",
+    subject: "computer-applications",
+    lecture: "lecture-5",
+    lectureNo: 5,
+    question: "System software that translates a high-level language program into machine language is a:",
+    options: ["Compiler or interpreter", "Spreadsheet", "Word processor", "Database"],
     correct: 0,
-    explanation: "PowerPoint creates slide show presentations for lectures, meetings, and demonstrations.",
+    explanation: "Translators convert programs into machine language; the two types are compilers and interpreters. A compiler translates the whole program before execution; an interpreter translates one statement at a time.",
     difficulty: "easy"
   },
   {
-    id: "d262l_044", subject: "computer-applications", lecture: "lecture-5", lectureNo: 5,
-    question: "The default file format of MS PowerPoint 2016 is:",
-    options: [".ppt", ".pot", ".pps", ".pptx"],
-    correct: 3,
-    explanation: "PowerPoint 2007 and later uses .pptx format. Older format is .ppt.",
+    id: "d262l_044",
+    subject: "computer-applications",
+    lecture: "lecture-5",
+    lectureNo: 5,
+    question: "A compiler differs from an interpreter in that a compiler:",
+    options: ["Translates one statement at a time", "Translates the whole program before execution", "Cannot detect errors", "Runs only on the internet"],
+    correct: 1,
+    explanation: "A compiler checks and translates the entire source program into an object program before execution, whereas an interpreter translates and executes one statement at a time.",
     difficulty: "easy"
   },
   {
-    id: "d262l_045", subject: "computer-applications", lecture: "lecture-5", lectureNo: 5,
-    question: "Slide Transition in PowerPoint refers to:",
-    options: ["The visual effect when moving from one slide to the next", "The slide master for general office use in agriculture", "The animation of objects within a slide", "The design template in basic computer operations for crop production"],
-    correct: 0,
-    explanation: "Slide transition is the animation/effect applied when switching between slides during a presentation.",
+    id: "d262l_045",
+    subject: "computer-applications",
+    lecture: "lecture-5",
+    lectureNo: 5,
+    question: "Machine language, the only language a computer directly understands, is written in:",
+    options: ["Mnemonic codes", "English sentences", "Binary codes (0 and 1)", "Hexadecimal words only"],
+    correct: 2,
+    explanation: "Machine language is written in binary codes (0 and 1); it is a first-generation, machine-dependent language that is difficult and time-consuming to write.",
     difficulty: "easy"
   },
   {
-    id: "d262l_046", subject: "computer-applications", lecture: "lecture-5", lectureNo: 5,
+    id: "d262l_046",
+    subject: "computer-applications",
+    lecture: "lecture-5",
+    lectureNo: 5,
     question: "Internet is best described as:",
     options: ["A single computer for general office use", "A global network of interconnected computers and devices", "A local area network in basic computer operations", "A type of software for data management only"],
     correct: 1,
@@ -379,7 +509,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_047", subject: "computer-applications", lecture: "lecture-5", lectureNo: 5,
+    id: "d262l_047",
+    subject: "computer-applications",
+    lecture: "lecture-5",
+    lectureNo: 5,
     question: "WWW stands for:",
     options: ["World Wide Wire", "Web World Wide", "Wide Web Works", "World Wide Web"],
     correct: 3,
@@ -387,7 +520,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_048", subject: "computer-applications", lecture: "lecture-5", lectureNo: 5,
+    id: "d262l_048",
+    subject: "computer-applications",
+    lecture: "lecture-5",
+    lectureNo: 5,
     question: "HTTP stands for:",
     options: ["Hyperlink Text Transport Protocol", "High Transfer Text Protocol", "HyperText Transmission Program", "HyperText Transfer Protocol"],
     correct: 3,
@@ -395,7 +531,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_049", subject: "computer-applications", lecture: "lecture-5", lectureNo: 5,
+    id: "d262l_049",
+    subject: "computer-applications",
+    lecture: "lecture-5",
+    lectureNo: 5,
     question: "URL stands for:",
     options: ["Uniform Resource Locator", "Unified Resource Language", "Universal Remote Link", "Universal Resource Locator"],
     correct: 0,
@@ -403,7 +542,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_050", subject: "computer-applications", lecture: "lecture-5", lectureNo: 5,
+    id: "d262l_050",
+    subject: "computer-applications",
+    lecture: "lecture-5",
+    lectureNo: 5,
     question: "Email stands for:",
     options: ["Electronic Mail", "Express Mail", "Extended Mail", "Electrical Mail"],
     correct: 0,
@@ -411,7 +553,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_051", subject: "computer-applications", lecture: "lecture-5", lectureNo: 5,
+    id: "d262l_051",
+    subject: "computer-applications",
+    lecture: "lecture-5",
+    lectureNo: 5,
     question: "A browser is software used to:",
     options: ["Manage email for data management only", "Design websites for general office use", "Store files in basic computer operations", "Access and display web pages on the internet"],
     correct: 3,
@@ -419,17 +564,21 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_052", subject: "computer-applications", lecture: "lecture-5", lectureNo: 5,
+    id: "d262l_052",
+    subject: "computer-applications",
+    lecture: "lecture-5",
+    lectureNo: 5,
     question: "LAN stands for:",
     options: ["Long Area Network", "Large Access Network", "Local Area Network", "Linked Area Node"],
     correct: 2,
     explanation: "LAN (Local Area Network) connects computers within a limited area like a building or campus.",
     difficulty: "easy"
   },
-
-  // ── LECTURE 6: Database and Computer in Agriculture ───────────────────────
   {
-    id: "d262l_053", subject: "computer-applications", lecture: "lecture-6", lectureNo: 6,
+    id: "d262l_053",
+    subject: "computer-applications",
+    lecture: "lecture-6",
+    lectureNo: 6,
     question: "A database is:",
     options: ["An operating system for general office use", "A programming language in basic computer operations", "An organized collection of structured data stored electronically", "A type of computer for data management only"],
     correct: 2,
@@ -437,7 +586,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_054", subject: "computer-applications", lecture: "lecture-6", lectureNo: 6,
+    id: "d262l_054",
+    subject: "computer-applications",
+    lecture: "lecture-6",
+    lectureNo: 6,
     question: "DBMS stands for:",
     options: ["Digital Base Management System", "Database Management System", "Database Management Software", "Data Based Management Service"],
     correct: 1,
@@ -445,7 +597,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_055", subject: "computer-applications", lecture: "lecture-6", lectureNo: 6,
+    id: "d262l_055",
+    subject: "computer-applications",
+    lecture: "lecture-6",
+    lectureNo: 6,
     question: "SQL stands for:",
     options: ["Simple Query Language", "Structured Query Language", "Standard Query List", "System Query Logic"],
     correct: 1,
@@ -453,7 +608,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d262l_056", subject: "computer-applications", lecture: "lecture-6", lectureNo: 6,
+    id: "d262l_056",
+    subject: "computer-applications",
+    lecture: "lecture-6",
+    lectureNo: 6,
     question: "Which of the following is a popular DBMS?",
     options: ["Adobe Photoshop", "VLC Media Player", "MySQL", "MS Word"],
     correct: 2,
@@ -461,123 +619,164 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_057", subject: "computer-applications", lecture: "lecture-6", lectureNo: 6,
-    question: "Precision agriculture uses technology for:",
-    options: ["One-size-fits-all farming for general office use in agriculture", "Reducing farm area in basic computer operations", "Variable rate application of inputs based on spatial variability in fields", "Manual observation only for data management only for crop production"],
-    correct: 2,
-    explanation: "Precision agriculture uses GPS, sensors, and GIS to optimize input application according to field variability.",
+    id: "d262l_057",
+    subject: "computer-applications",
+    lecture: "lecture-6",
+    lectureNo: 6,
+    question: "Assembly language uses which type of codes instead of numeric codes?",
+    options: ["No codes at all", "Binary codes only", "Decimal codes only", "Mnemonic codes (e.g. ADD for addition)"],
+    correct: 3,
+    explanation: "Assembly language uses mnemonic codes (e.g. ADD or A for addition) instead of numeric codes; it is machine-dependent and requires a translator (assembler) to convert into machine language.",
     difficulty: "medium"
   },
   {
-    id: "d262l_058", subject: "computer-applications", lecture: "lecture-6", lectureNo: 6,
-    question: "Soil moisture sensors in precision agriculture help in:",
-    options: ["Weather forecasting", "Seed selection", "Optimizing irrigation scheduling", "Pest identification"],
-    correct: 2,
-    explanation: "Soil moisture sensors provide real-time data to trigger irrigation only when needed, saving water.",
-    difficulty: "easy"
-  },
-  {
-    id: "d262l_059", subject: "computer-applications", lecture: "lecture-6", lectureNo: 6,
-    question: "e-Crop advisory services in agriculture provide:",
-    options: ["Real-time crop production advice, pest alerts, and weather updates to farmers", "Free seeds for general office use in agriculture", "Government job notifications in basic computer operations", "Direct loans for data management only for crop production"],
+    id: "d262l_058",
+    subject: "computer-applications",
+    lecture: "lecture-6",
+    lectureNo: 6,
+    question: "High Level Languages (HLLs) are also known as:",
+    options: ["Problem Oriented Languages (third-generation)", "Machine languages (first-generation)", "Assembly languages (second-generation)", "Binary languages"],
     correct: 0,
-    explanation: "e-Crop advisory services (via apps, SMS, internet) give farmers timely advice on crop management and market prices.",
+    explanation: "High Level Languages are problem-oriented (third-generation) languages; they follow English-like rules, are machine-independent and need less time to write.",
     difficulty: "easy"
   },
   {
-    id: "d262l_060", subject: "computer-applications", lecture: "lecture-6", lectureNo: 6,
-    question: "GIS in agriculture is used for:",
-    options: ["Mapping soil variability, crop health, land use, and planning irrigation", "Playing games in basic computer operations", "Word processing for general office use in agriculture", "Accounting for data management only for crop production"],
-    correct: 0,
-    explanation: "GIS (Geographic Information System) integrates spatial data for precision farming, land use planning, and resource management.",
-    difficulty: "medium"
+    id: "d262l_059",
+    subject: "computer-applications",
+    lecture: "lecture-6",
+    lectureNo: 6,
+    question: "The high-level language FORTRAN stands for:",
+    options: ["Formatted Transmission", "FORmula TRANslation", "Forward Transaction", "File Transfer"],
+    correct: 1,
+    explanation: "FORTRAN stands for FORmula TRANslation; COBOL is Common Business Oriented Language and BASIC is Beginner's All-purpose Symbolic Instruction Code.",
+    difficulty: "easy"
   },
   {
-    id: "d262l_061", subject: "computer-applications", lecture: "lecture-6", lectureNo: 6,
-    question: "Cloud computing allows farmers to:",
-    options: ["Store data on local hard disks only", "Work without electricity for general office use", "Access data, apps, and services over the internet from anywhere", "Avoid using computers in basic computer operations"],
+    id: "d262l_060",
+    subject: "computer-applications",
+    lecture: "lecture-6",
+    lectureNo: 6,
+    question: "COBOL, a high-level language, stands for:",
+    options: ["Coded Binary Operating Language", "Computer Basic Oriented Logic", "Common Business Oriented Language", "Common Binary Output Line"],
     correct: 2,
-    explanation: "Cloud computing provides internet-based storage, software, and services accessible from any device.",
+    explanation: "COBOL stands for Common Business Oriented Language, widely used for business data processing.",
     difficulty: "medium"
   },
-
-  // ── LECTURE 7: Digital India and Smart Farming ────────────────────────────
   {
-    id: "d262l_062", subject: "computer-applications", lecture: "lecture-7", lectureNo: 7,
-    question: "Digital India programme was launched in:",
-    options: ["2005", "2020", "2010", "2015"],
+    id: "d262l_061",
+    subject: "computer-applications",
+    lecture: "lecture-6",
+    lectureNo: 6,
+    question: "BASIC programming language stands for:",
+    options: ["Business Automated Standard Instruction Code", "Binary Arithmetic Standard Input Code", "Basic Application System Integrated Computing", "Beginner's All-purpose Symbolic Instruction Code"],
     correct: 3,
-    explanation: "Digital India was launched by the Government of India on 1 July 2015 to transform India into a digitally empowered society.",
+    explanation: "BASIC stands for Beginner's All-purpose Symbolic Instruction Code, an easy-to-learn high-level language.",
+    difficulty: "medium"
+  },
+  {
+    id: "d262l_062",
+    subject: "computer-applications",
+    lecture: "lecture-7",
+    lectureNo: 7,
+    question: "Pre-written programs supplied by the manufacturer for day-to-day maintenance of the computer (e.g. COPY, SORT, virus scanning) are called:",
+    options: ["Utility programs", "Application programs", "Operating systems", "Compilers"],
+    correct: 0,
+    explanation: "Utility programs are pre-written programs supplied by the manufacturer for maintaining day-to-day activities of the computer system, e.g. COPY, SORT, MAILING and virus-scanning software.",
     difficulty: "easy"
   },
   {
-    id: "d262l_063", subject: "computer-applications", lecture: "lecture-7", lectureNo: 7,
-    question: "UPI (Unified Payments Interface) enables:",
-    options: ["Television broadcasting for general office use", "Instant real-time bank transfers using mobile phones", "Internet browsing in basic computer operations", "Satellite communication for data management only"],
+    id: "d262l_063",
+    subject: "computer-applications",
+    lecture: "lecture-7",
+    lectureNo: 7,
+    question: "User-written programs to do a specific job (e.g. Payroll, Billing, Railway Reservation) are called:",
+    options: ["Utility programs", "Application programs", "System software", "Translators"],
     correct: 1,
-    explanation: "UPI is a payment system that facilitates instant inter-bank transactions via smartphones, developed by NPCI.",
+    explanation: "Application programs are user-written programs to do a specific job (e.g. Payroll, Billing, Railway Reservation), often written in BASIC/C or using database packages like dBASE or Oracle.",
     difficulty: "easy"
   },
   {
-    id: "d262l_064", subject: "computer-applications", lecture: "lecture-7", lectureNo: 7,
-    question: "Aadhaar is a:",
-    options: ["Bank account for general office use", "Voter ID for data management only", "Passport number in basic computer operations", "12-digit unique biometric identity number issued to Indian residents"],
-    correct: 3,
-    explanation: "Aadhaar is India's biometric UID (Unique Identification) 12-digit number issued by UIDAI.",
+    id: "d262l_064",
+    subject: "computer-applications",
+    lecture: "lecture-7",
+    lectureNo: 7,
+    question: "SPSS, MSTAT and SAS are examples of which type of general-purpose package?",
+    options: ["Spreadsheet packages", "Word processing packages", "Data analysis packages", "Operating systems"],
+    correct: 2,
+    explanation: "SPSS (Statistical Package for Social Science), MSTAT, MICROSTAT, GENSTAT and SAS are data-analysis (statistical) general-purpose packages.",
     difficulty: "easy"
   },
   {
-    id: "d262l_065", subject: "computer-applications", lecture: "lecture-7", lectureNo: 7,
-    question: "PMGDISHA (Pradhan Mantri Gramin Digital Saksharta Abhiyan) aims to:",
-    options: ["Provide free computers to farmers", "Make rural households digitally literate across India", "Provide rural electricity for general office use", "Build rural roads in basic computer operations"],
+    id: "d262l_065",
+    subject: "computer-applications",
+    lecture: "lecture-7",
+    lectureNo: 7,
+    question: "WordStar, WordPerfect and MS-Word are examples of:",
+    options: ["Operating systems", "Spreadsheet packages", "Database packages", "Word-processing packages"],
+    correct: 3,
+    explanation: "WordStar, WordPerfect, MS-Word, Chiwriter and Norton Editor are word-processing general-purpose packages.",
+    difficulty: "medium"
+  },
+  {
+    id: "d262l_066",
+    subject: "computer-applications",
+    lecture: "lecture-7",
+    lectureNo: 7,
+    question: "Lotus, Symphony, VP-Planner and MS-Excel are examples of:",
+    options: ["Spreadsheet packages", "Word-processing packages", "Data-analysis packages", "Translators"],
+    correct: 0,
+    explanation: "Lotus, Qpro, VP-Planner, Symphony and MS-Excel are spreadsheet general-purpose packages.",
+    difficulty: "medium"
+  },
+  {
+    id: "d262l_067",
+    subject: "computer-applications",
+    lecture: "lecture-7",
+    lectureNo: 7,
+    question: "DOS (Disk Operating System) is best described as a:",
+    options: ["Multi-user, multi-task operating system", "Single-user, single-task operating system", "Spreadsheet package", "Programming language"],
     correct: 1,
-    explanation: "PMGDISHA aims to provide digital literacy skills to six crore rural households to enable them to use digital devices.",
+    explanation: "DOS is a single-user, single-task operating system suited for personal computers; Windows works with DOS as a single-user multitask system, while UNIX/XENIX are multi-user, multi-task systems.",
     difficulty: "medium"
   },
   {
-    id: "d262l_066", subject: "computer-applications", lecture: "lecture-7", lectureNo: 7,
-    question: "mKisan (Mobile for Agriculture) portal provides:",
-    options: ["Mobile games for general office use", "Social media access in basic computer operations", "Mobile banking only for data management only", "SMS-based crop advisory, weather alerts, and market prices to farmers"],
+    id: "d262l_068",
+    subject: "computer-applications",
+    lecture: "lecture-7",
+    lectureNo: 7,
+    question: "UNIX and XENIX operating systems are suited for:",
+    options: ["Only spreadsheet work", "Single-user, single-task systems", "Multi-user, multi-task systems", "Only word processing"],
+    correct: 2,
+    explanation: "UNIX and XENIX are operating systems suited for multi-user and multi-task environments, unlike DOS which is single-user single-task.",
+    difficulty: "medium"
+  },
+  {
+    id: "d262l_069",
+    subject: "computer-applications",
+    lecture: "lecture-7",
+    lectureNo: 7,
+    question: "The DOS command used to prepare (initialise) a disk for use is:",
+    options: ["TREE", "COPY", "DIR", "FORMAT"],
     correct: 3,
-    explanation: "mKisan portal delivers agricultural information directly to farmers' mobile phones via SMS in local languages.",
-    difficulty: "medium"
-  },
-  {
-    id: "d262l_067", subject: "computer-applications", lecture: "lecture-7", lectureNo: 7,
-    question: "IoT (Internet of Things) in agriculture refers to:",
-    options: ["Traditional farming methods for general office use in agriculture", "Only internet browsing on farm in basic computer operations", "International trade of crops for data management only for crop production", "Connected sensors, devices, and systems that collect and exchange data for smart farming"],
-    correct: 3,
-    explanation: "Agricultural IoT connects field sensors, weather stations, and drones to collect and analyze farm data in real time.",
-    difficulty: "medium"
-  },
-  {
-    id: "d262l_068", subject: "computer-applications", lecture: "lecture-7", lectureNo: 7,
-    question: "Artificial Intelligence (AI) in agriculture can help with:",
-    options: ["Manual irrigation for general office use", "Crop disease detection, yield prediction, and automated machinery", "Removing insects by hand in basic computer operations", "Manual weeding only for data management only"],
-    correct: 1,
-    explanation: "AI enables image-based disease diagnosis, yield forecasting, robotic harvesting, and smart irrigation management.",
-    difficulty: "medium"
-  },
-  {
-    id: "d262l_069", subject: "computer-applications", lecture: "lecture-7", lectureNo: 7,
-    question: "Blockchain technology in agriculture can improve:",
-    options: ["Water quality for general office use", "Weather prediction in basic computer operations", "Soil fertility for data management only", "Traceability and transparency in food supply chain and transactions"],
-    correct: 3,
-    explanation: "Blockchain provides an immutable record of transactions, enabling traceability from farm to consumer in food supply chains.",
+    explanation: "FORMAT is a fundamental DOS command used to format/prepare a disk; DIR lists the directory, COPY copies files, MD makes a directory and DEL deletes files.",
     difficulty: "hard"
   },
   {
-    id: "d262l_070", subject: "computer-applications", lecture: "lecture-7", lectureNo: 7,
+    id: "d262l_070",
+    subject: "computer-applications",
+    lecture: "lecture-7",
+    lectureNo: 7,
     question: "Agri-Stack is an initiative in India to create:",
     options: ["Agricultural building codes for general office use", "A federated farmers' database and digital infrastructure for agricultural services", "Grain storage stacks in basic computer operations", "Fertilizer stacking guidelines for data management only"],
     correct: 1,
     explanation: "Agri-Stack is a digital public infrastructure to create a digital identity and data layer for farmers to access services.",
     difficulty: "hard"
   },
-
-
   {
-    id: "d262l_071", subject: "da-262", lecture: "lecture-8", lectureNo: 8,
+    id: "d262l_071",
+    subject: "da-262",
+    lecture: "lecture-8",
+    lectureNo: 8,
     question: "The generations of computers and their corresponding components are correctly matched as:",
     options: ["First Generation - Transistors; Second Generation - Vacuum Tubes", "First Generation - Vacuum Tubes; Second Generation - Transistors; Third Generation - ICs", "First Generation - ICs; Second Generation - Vacuum Tubes; Third Generation - Transistors", "First Generation - Microprocessor; Second Generation - Transistors; Third Generation - ICs"],
     correct: 1,
@@ -585,7 +784,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d262l_072", subject: "da-262", lecture: "lecture-8", lectureNo: 8,
+    id: "d262l_072",
+    subject: "da-262",
+    lecture: "lecture-8",
+    lectureNo: 8,
     question: "The standard keyboard used with personal computers has how many keys?",
     options: ["96 keys", "84 keys", "101 keys", "104 keys"],
     correct: 3,
@@ -593,7 +795,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_073", subject: "da-262", lecture: "lecture-8", lectureNo: 8,
+    id: "d262l_073",
+    subject: "da-262",
+    lecture: "lecture-8",
+    lectureNo: 8,
     question: "MICR technology is primarily used in which industry?",
     options: ["Supermarkets for barcode scanning", "Railways for ticketing", "Libraries for cataloguing books", "Banking for processing cheques"],
     correct: 3,
@@ -601,7 +806,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_074", subject: "da-262", lecture: "lecture-8", lectureNo: 8,
+    id: "d262l_074",
+    subject: "da-262",
+    lecture: "lecture-8",
+    lectureNo: 8,
     question: "RAM (Random Access Memory) is called volatile memory because:",
     options: ["Data disappears from RAM as soon as power is switched off", "It stores data permanently without power for general office use", "It can read but not write data in basic computer operations", "It requires a battery to maintain data for data management only"],
     correct: 0,
@@ -609,7 +817,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_075", subject: "da-262", lecture: "lecture-8", lectureNo: 8,
+    id: "d262l_075",
+    subject: "da-262",
+    lecture: "lecture-8",
+    lectureNo: 8,
     question: "The storage capacity of a standard CD-ROM is approximately:",
     options: ["1.5 to 2 GB", "650 to 700 MB", "50 to 100 MB", "250 to 350 MB"],
     correct: 1,
@@ -617,7 +828,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_076", subject: "da-262", lecture: "lecture-9", lectureNo: 9,
+    id: "d262l_076",
+    subject: "da-262",
+    lecture: "lecture-9",
+    lectureNo: 9,
     question: "The first Intel microprocessor (8080) was introduced in which year?",
     options: ["1969", "1985", "1979", "1974"],
     correct: 3,
@@ -625,7 +839,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d262l_077", subject: "da-262", lecture: "lecture-9", lectureNo: 9,
+    id: "d262l_077",
+    subject: "da-262",
+    lecture: "lecture-9",
+    lectureNo: 9,
     question: "The AUTOEXEC.BAT file in DOS is special because:",
     options: ["It stores all user passwords for general office use", "It is automatically executed when the computer is switched on or during booting", "It contains antivirus programs in basic computer operations", "It cannot be deleted or modified for data management only"],
     correct: 1,
@@ -633,7 +850,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d262l_078", subject: "da-262", lecture: "lecture-9", lectureNo: 9,
+    id: "d262l_078",
+    subject: "da-262",
+    lecture: "lecture-9",
+    lectureNo: 9,
     question: "In Windows, the 'Recycle Bin' is used for:",
     options: ["Storing temporary internet files for general office use in agriculture", "Storing system backup files in basic computer operations", "Organizing downloaded files for data management only for crop production", "Storing all files and folders deleted from Windows temporarily, which can be restored"],
     correct: 3,
@@ -641,7 +861,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_079", subject: "da-262", lecture: "lecture-9", lectureNo: 9,
+    id: "d262l_079",
+    subject: "da-262",
+    lecture: "lecture-9",
+    lectureNo: 9,
     question: "Warm Booting of a computer is done by pressing which key combination?",
     options: ["Ctrl + Alt + Del", "Alt + F4", "Win + R", "Ctrl + Shift + Esc"],
     correct: 0,
@@ -649,7 +872,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_080", subject: "da-262", lecture: "lecture-10", lectureNo: 10,
+    id: "d262l_080",
+    subject: "da-262",
+    lecture: "lecture-10",
+    lectureNo: 10,
     question: "What does the DOS command 'FORMAT a:' do?",
     options: ["Organizes disk A into magnetic tracks and sectors readable by DOS", "Lists all files on drive A in basic computer operations", "Renames the drive A label for data management only", "Copies all files to drive A for general office use"],
     correct: 0,
@@ -657,7 +883,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d262l_081", subject: "da-262", lecture: "lecture-10", lectureNo: 10,
+    id: "d262l_081",
+    subject: "da-262",
+    lecture: "lecture-10",
+    lectureNo: 10,
     question: "The DOS command 'TREE' displays:",
     options: ["Directories and sub-directories in a drive without files", "Only hidden files for general office use", "Files in alphabetical order in basic computer operations", "All files with size, date and time"],
     correct: 0,
@@ -665,7 +894,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d262l_082", subject: "da-262", lecture: "lecture-10", lectureNo: 10,
+    id: "d262l_082",
+    subject: "da-262",
+    lecture: "lecture-10",
+    lectureNo: 10,
     question: "Assertion (A): Computer viruses reside in executable files (.COM or .EXE).\nReason (R): When the PC is switched on, the virus enters RAM through COMMAND.COM and starts destructive work.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
@@ -673,7 +905,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d262l_083", subject: "da-262", lecture: "lecture-10", lectureNo: 10,
+    id: "d262l_083",
+    subject: "da-262",
+    lecture: "lecture-10",
+    lectureNo: 10,
     question: "Assertion (A): Windows OS supports file names up to 255 characters long.\nReason (R): MS-DOS was limited to 8 characters with 3-character extension (8:3 format), which Windows overcame.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
@@ -681,7 +916,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d262l_084", subject: "da-262", lecture: "lecture-11", lectureNo: 11,
+    id: "d262l_084",
+    subject: "da-262",
+    lecture: "lecture-11",
+    lectureNo: 11,
     question: "Match the following computer generations with their components:\n     Column-I (Generation)  |  Column-II (Component)    |  Column-III (Years)\nA.  First Generation      |  1.  Vacuum Tubes         |  i.   1946-1954\nB.  Second Generation     |  2.  Transistors           |  ii.  1955-1965\nC.  Third Generation      |  3.  Integrated Circuits   |  iii. 1968-1975\nD.  Fourth Generation     |  4.  VLSI                  |  iv.  1976-1980",
     options: ["A-1-ii, B-2-i,  C-3-iv,  D-4-iii", "A-3-i,  B-4-ii,  C-1-iii,  D-2-iv", "A-1-i,  B-2-ii,  C-3-iii,  D-4-iv", "A-2-i,  B-1-ii,  C-4-iii,  D-3-iv"],
     correct: 2,
@@ -689,7 +927,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d262l_085", subject: "da-262", lecture: "lecture-11", lectureNo: 11,
+    id: "d262l_085",
+    subject: "da-262",
+    lecture: "lecture-11",
+    lectureNo: 11,
     question: "Match the following types of printers with their printing speeds:\n     Column-I (Printer type)  |  Column-II (Speed)     |  Column-III (Mechanism)\nA.  Dot Matrix printer     |  1.  200-700 CPS       |  i.   24-pin or 9-pin through ribbon\nB.  Ink Jet printer        |  2.  Slow, 90 CPS      |  ii.  Sprays ionized ink\nC.  Laser printer          |  3.  6-12 PPM          |  iii. Uses laser beam\nD.  Line printer           |  4.  300-600 LPM       |  iv.  Prints lines at a time",
     options: ["A-1-iii, B-2-i, C-3-ii,  D-4-iv", "A-1-i,  B-2-ii,  C-3-iii,  D-4-iv", "A-3-iii, B-1-i, C-2-ii,  D-4-iv", "A-2-ii, B-1-i,  C-4-iv,  D-3-iii"],
     correct: 1,
@@ -697,7 +938,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d262l_086", subject: "da-262", lecture: "lecture-12", lectureNo: 12,
+    id: "d262l_086",
+    subject: "da-262",
+    lecture: "lecture-12",
+    lectureNo: 12,
     question: "Match the following memory units and their storage capacities:\n     Column-I (Unit)   |  Column-II (Equivalent)       |  Column-III (Abbreviation)\nA.  8 bits             |  1.  1 Byte                   |  i.   B\nB.  1024 Bytes         |  2.  1 Kilobyte               |  ii.  KB\nC.  1024 KB            |  3.  1 Megabyte               |  iii. MB\nD.  1024 MB            |  4.  1 Gigabyte               |  iv.  GB",
     options: ["A-1-i,  B-2-ii,  C-3-iii,  D-4-iv", "A-2-i,  B-1-ii,  C-4-iii,  D-3-iv", "A-1-iii, B-2-ii, C-3-i,  D-4-iv", "A-4-i,  B-3-ii,  C-2-iii,  D-1-iv"],
     correct: 0,
@@ -705,7 +949,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_087", subject: "da-262", lecture: "lecture-12", lectureNo: 12,
+    id: "d262l_087",
+    subject: "da-262",
+    lecture: "lecture-12",
+    lectureNo: 12,
     question: "The Windows Explorer is divided into two panes. What does the left pane display?",
     options: ["The list of drives and folders on the computer", "The recently opened documents in basic computer operations", "The control panel settings for data management only", "The contents of selected files for general office use"],
     correct: 0,
@@ -713,7 +960,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_088", subject: "da-262", lecture: "lecture-13", lectureNo: 13,
+    id: "d262l_088",
+    subject: "da-262",
+    lecture: "lecture-13",
+    lectureNo: 13,
     question: "FORTRAN stands for:",
     options: ["Function Translation", "Formal Translation", "Forward Transfer", "Formula Translation"],
     correct: 3,
@@ -721,7 +971,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_089", subject: "da-262", lecture: "lecture-13", lectureNo: 13,
+    id: "d262l_089",
+    subject: "da-262",
+    lecture: "lecture-13",
+    lectureNo: 13,
     question: "The key difference between a Compiler and an Interpreter is:",
     options: ["Compiler is faster; Interpreter is slower because it compiles twice", "Compiler translates the whole program before execution; Interpreter translates one statement at a time", "There is no difference; both do the same work based on conventional agronomic practices", "Compiler works only with BASIC; Interpreter works with all languages"],
     correct: 1,
@@ -729,7 +982,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d262l_090", subject: "da-262", lecture: "lecture-13", lectureNo: 13,
+    id: "d262l_090",
+    subject: "da-262",
+    lecture: "lecture-13",
+    lectureNo: 13,
     question: "DVD stands for:",
     options: ["Digital Video Display", "Direct Video Disk", "Digital Versatile Disc", "Data Video Drive"],
     correct: 2,
@@ -737,7 +993,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_091", subject: "da-262", lecture: "lecture-14", lectureNo: 14,
+    id: "d262l_091",
+    subject: "da-262",
+    lecture: "lecture-14",
+    lectureNo: 14,
     question: "Which type of computer operates by 'measuring' instead of 'counting'?",
     options: ["Digital computers", "Hybrid computers", "Super computers", "Analog computers"],
     correct: 3,
@@ -745,7 +1004,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d262l_092", subject: "da-262", lecture: "lecture-14", lectureNo: 14,
+    id: "d262l_092",
+    subject: "da-262",
+    lecture: "lecture-14",
+    lectureNo: 14,
     question: "India's indigenous super computer was developed under the name:",
     options: ["CRAY", "TITAN", "PARAM", "JAGUAR"],
     correct: 2,
@@ -753,15 +1015,21 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_093", subject: "da-262", lecture: "lecture-15", lectureNo: 15,
+    id: "d262l_093",
+    subject: "da-262",
+    lecture: "lecture-15",
+    lectureNo: 15,
     question: "The DOS command 'REN' is used to:",
     options: ["Run an executable file", "Remove a directory for general office use", "Rename an old file with another name", "Restore deleted files in basic computer operations"],
     correct: 2,
-    explanation: "As per DA-262 notes: The REN command is used to rename the old file with another name. Example: C:\> REN MATHS.TXT RESULT.TXT renames MATHS.TXT to RESULT.TXT.",
+    explanation: "As per DA-262 notes: The REN command is used to rename the old file with another name. Example: C:> REN MATHS.TXT RESULT.TXT renames MATHS.TXT to RESULT.TXT.",
     difficulty: "easy"
   },
   {
-    id: "d262l_094", subject: "da-262", lecture: "lecture-15", lectureNo: 15,
+    id: "d262l_094",
+    subject: "da-262",
+    lecture: "lecture-15",
+    lectureNo: 15,
     question: "ASCII stands for:",
     options: ["American Standard Code for Information Interchange", "Advanced Standard Code for Information Interchange", "Applied Standard Code for International Interchange", "Automatic System Code for Integrated Information"],
     correct: 0,
@@ -769,7 +1037,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d262l_095", subject: "da-262", lecture: "lecture-15", lectureNo: 15,
+    id: "d262l_095",
+    subject: "da-262",
+    lecture: "lecture-15",
+    lectureNo: 15,
     question: "The Windows feature 'Object Linking and Embedding (OLE)' allows:",
     options: ["Pasting a portion of one document into another with advanced document linking", "Embedding antivirus protection in basic computer operations", "Linking hardware components to the OS for data management only", "Creating hyperlinks to websites for general office use"],
     correct: 0,
@@ -777,7 +1048,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d262l_096", subject: "da-262", lecture: "lecture-16", lectureNo: 16,
+    id: "d262l_096",
+    subject: "da-262",
+    lecture: "lecture-16",
+    lectureNo: 16,
     question: "MS-DOS was developed by Bill Gates at what age?",
     options: ["21 years", "14 years", "19 years", "17 years"],
     correct: 2,
@@ -785,7 +1059,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d262l_097", subject: "da-262", lecture: "lecture-16", lectureNo: 16,
+    id: "d262l_097",
+    subject: "da-262",
+    lecture: "lecture-16",
+    lectureNo: 16,
     question: "In DOS, the command 'DIR/P' is used for:",
     options: ["Displaying files sorted alphabetically for general office use", "Printing the directory listing in basic computer operations", "Displaying files in parallel/side-by-side format", "Pausing the listing whenever the screen is full"],
     correct: 3,
@@ -793,7 +1070,10 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d262l_099", subject: "da-262", lecture: "lecture-16", lectureNo: 16,
+    id: "d262l_099",
+    subject: "da-262",
+    lecture: "lecture-16",
+    lectureNo: 16,
     question: "Which of the following is NOT a General Purpose data analysis software package?",
     options: ["WORDSTAR", "SPSS (Statistical Package for Social Science)", "GENSTAT", "MSTAT"],
     correct: 0,
@@ -801,15 +1081,16 @@ export const da262LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d262l_100", subject: "da-262", lecture: "lecture-16", lectureNo: 16,
+    id: "d262l_100",
+    subject: "da-262",
+    lecture: "lecture-16",
+    lectureNo: 16,
     question: "The Windows feature 'Taskbar' is characterized by:",
     options: ["A vertical bar on the left side of the screen for general office use", "A horizontal bar at the bottom of screen with START menu on left and Notification area on right", "A floating toolbar that can be moved anywhere in basic computer operations", "A toolbar that appears only when the mouse hovers over it for data management only"],
     correct: 1,
     explanation: "As per DA-262 notes: Taskbar is the rectangular bar that runs horizontally across the bottom of the screen. It has the START menu on the left and the Notification area on the right. All open applications are shown on the Taskbar.",
     difficulty: "easy"
   },
-
-
   {
     id: "d262x_001",
     subject: "da-262",
@@ -1967,20 +2248,20 @@ export const da262LectureQuestions: Question[] = [
     subject: "da-262",
     lecture: "lecture-9",
     lectureNo: 9,
-    question: "In agriculture, GIS stands for:",
-    options: ["Global Information Service", "Grid Imaging Software", "Geographic Information System", "General Internet Server"],
-    correct: 2,
-    explanation: "As per DA-262 syllabus: GIS stands for Geographic Information System, a computer system used to capture, store, analyse and display spatial/geographic data for applications like soil and crop mapping."
+    question: "The DOS command used to display the list of files and sub-directories in a directory is:",
+    options: ["DIR", "DEL", "FORMAT", "VOL"],
+    correct: 0,
+    explanation: "DIR is the DOS command that displays the list of files and sub-directories; MD makes a directory, CD changes directory and RD removes a directory."
   },
   {
     id: "d262l_116",
     subject: "da-262",
     lecture: "lecture-9",
     lectureNo: 9,
-    question: "Acquiring information about the earth's surface (crops, soil, water) without being in physical contact with it, usually through satellites, is called:",
-    options: ["Tele-conferencing", "Data mining", "Word processing", "Remote sensing"],
-    correct: 3,
-    explanation: "As per DA-262 syllabus: Remote sensing is the science of acquiring information about objects on the earth's surface without being in physical contact, commonly using satellites and aerial sensors in agriculture."
+    question: "In DOS, the command 'MD' is used to:",
+    options: ["Delete a file", "Make (create) a new directory", "Format a disk", "Display the volume label"],
+    correct: 1,
+    explanation: "MD (Make Directory) creates a new directory; CD changes the current directory, RD removes a directory and DEL deletes files."
   },
   {
     id: "d262l_117",
@@ -1997,20 +2278,20 @@ export const da262LectureQuestions: Question[] = [
     subject: "da-262",
     lecture: "lecture-9",
     lectureNo: 9,
-    question: "e-NAM, the online trading platform for agricultural commodities in India, stands for electronic:",
-    options: ["National Animal Management", "National Agriculture Market", "Network of Agri Machinery", "New Agricultural Mission"],
-    correct: 1,
-    explanation: "As per DA-262 syllabus: e-NAM stands for electronic National Agriculture Market, a pan-India electronic trading portal (launched 2016) that networks agricultural produce market committees (APMCs)."
+    question: "The 'brain' of the computer, which reads and executes program instructions, is the:",
+    options: ["Keyboard", "Monitor", "Central Processing Unit (CPU)", "Printer"],
+    correct: 2,
+    explanation: "The Central Processing Unit (CPU) carries out and executes program instructions and is known as the 'brain' of the computer; it consists of the memory unit, ALU and control unit."
   },
   {
     id: "d262l_119",
     subject: "da-262",
     lecture: "lecture-9",
     lectureNo: 9,
-    question: "Site-specific crop management that uses GPS, GIS and remote sensing to apply inputs precisely where needed is called:",
-    options: ["Subsistence farming", "Shifting cultivation", "Precision agriculture", "Mixed farming"],
-    correct: 2,
-    explanation: "As per DA-262 syllabus: Precision agriculture (precision farming) uses information technology such as GPS, GIS and remote sensing to manage spatial variability and apply inputs precisely, improving efficiency."
+    question: "Within the CPU, all arithmetic and logical operations are carried out by the:",
+    options: ["Output unit", "Control unit", "Memory unit", "Arithmetic and Logic Unit (ALU)"],
+    correct: 3,
+    explanation: "The Arithmetic and Logic Unit (ALU) performs all arithmetic operations (addition, subtraction etc.) and logical comparisons; the control unit coordinates operations and the memory unit stores data."
   },
   {
     id: "d262l_120",
@@ -2027,59 +2308,59 @@ export const da262LectureQuestions: Question[] = [
     subject: "da-262",
     lecture: "lecture-10",
     lectureNo: 10,
-    question: "In emerging technologies, AI stands for:",
-    options: ["Artificial Intelligence", "Automated Internet", "Advanced Information", "Analog Interface"],
+    question: "The control unit of the CPU is often compared to the body's:",
+    options: ["Central nervous system", "Heart", "Lungs", "Skeleton"],
     correct: 0,
-    explanation: "As per DA-262 syllabus: AI stands for Artificial Intelligence — the capability of machines to perform tasks that normally require human intelligence, increasingly applied in agriculture for disease detection and decision support."
+    explanation: "The control unit acts as the central nervous system of the computer - it interprets instructions and controls/coordinates the input, output and storage units."
   },
   {
     id: "d262l_122",
     subject: "da-262",
     lecture: "lecture-10",
     lectureNo: 10,
-    question: "The network of physical devices and sensors connected to the internet to collect and exchange data, used in smart farming, is called:",
-    options: ["Read Only Memory", "Internet of Things (IoT)", "Local Area Network", "Operating System"],
+    question: "The first generation of computers (1946-1954) used which component?",
+    options: ["Transistors", "Vacuum tubes", "Integrated circuits", "Microprocessors"],
     correct: 1,
-    explanation: "As per DA-262 syllabus: IoT (Internet of Things) is a network of internet-connected sensors and devices that collect and exchange data, used in smart/precision farming for monitoring soil moisture, weather and crops."
+    explanation: "First-generation computers (1946-1954) used vacuum tubes; second generation used transistors, third used integrated circuits (IC), fourth used VLSI and fifth uses ULSI/microprocessors."
   },
   {
     id: "d262l_123",
     subject: "da-262",
     lecture: "lecture-10",
     lectureNo: 10,
-    question: "Unmanned aerial vehicles (UAVs) increasingly used in agriculture for crop monitoring and spraying are commonly known as:",
-    options: ["Routers", "Modems", "Drones", "Servers"],
+    question: "Second-generation computers (1955-1965) were built using:",
+    options: ["VLSI circuits", "Vacuum tubes", "Transistors", "ULSI circuits"],
     correct: 2,
-    explanation: "As per DA-262 syllabus: Drones (UAVs - unmanned aerial vehicles) are used in agriculture for aerial crop monitoring, mapping, and spraying of fertilizers and pesticides."
+    explanation: "Second-generation computers (1955-1965) used transistors, replacing the bulky vacuum tubes of the first generation."
   },
   {
     id: "d262l_124",
     subject: "da-262",
     lecture: "lecture-10",
     lectureNo: 10,
-    question: "Machine Learning (ML), used in agricultural prediction models, is best described as a subset of:",
-    options: ["Word processing", "Computer hardware", "Spreadsheet software", "Artificial Intelligence"],
+    question: "Third-generation computers used which electronic component?",
+    options: ["Mechanical gears", "Vacuum tubes", "Transistors", "Integrated Circuits (IC)"],
     correct: 3,
-    explanation: "As per DA-262 syllabus: Machine Learning (ML) is a subset of Artificial Intelligence in which computer systems learn patterns from data to make predictions, used in agriculture for yield and pest forecasting."
+    explanation: "Third-generation computers (1968-1975) used Integrated Circuits (IC); the fourth generation used Very Large Scale Integrated circuits (VLSI)."
   },
   {
     id: "d262l_125",
     subject: "da-262",
     lecture: "lecture-10",
     lectureNo: 10,
-    question: "Large and complex data sets analysed to reveal patterns and trends (e.g., for agricultural decision-making) are referred to as:",
-    options: ["Big Data", "Floppy disk", "Megabyte", "Cache memory"],
+    question: "A microprocessor, the heart of modern computers, is also known as a:",
+    options: ["Silicon chip", "Vacuum tube", "Magnetic drum", "Punched card"],
     correct: 0,
-    explanation: "As per DA-262 syllabus: Big Data refers to extremely large and complex data sets that are analysed computationally to reveal patterns and trends, supporting data-driven decisions in agriculture."
+    explanation: "The microprocessor (used from the fifth generation onwards) is a silicon chip containing ultra-large-scale integrated (ULSI) circuitry."
   },
   {
     id: "d262l_126",
     subject: "da-262",
     lecture: "lecture-10",
     lectureNo: 10,
-    question: "Satellite and drone imagery analysed over time to monitor crop health relies mainly on the technology of:",
-    options: ["Word processing", "Remote sensing", "Disk formatting", "Keyboarding"],
+    question: "MICR, a special input device that reads magnetic ink characters, is widely used in:",
+    options: ["Weather forecasting only", "Banks (for processing cheques)", "Gaming consoles", "Television sets"],
     correct: 1,
-    explanation: "As per DA-262 syllabus: Remote sensing using satellite and drone imagery is used to monitor crop health, vigour and stress over time through analysis of reflected radiation (e.g., NDVI)."
-  }
+    explanation: "MICR (Magnetic Ink Character Recognition) is an input device with a reader-sorter unit that translates magnetic ink information into characters; it is widely used in banks for processing cheques."
+  },
 ];

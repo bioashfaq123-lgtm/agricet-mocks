@@ -1,701 +1,799 @@
-import { Question } from '../types';
+// ===== FILE: da-262.ts =====
+import { Question } from "@/types";
 
 export const da262Questions: Question[] = [
-{
-    id: "d262_001", subject: "computer-applications",
+  {
+    id: "d262_001",
+    subject: "computer-applications",
     question: "A computer is an electronic device that:",
     options: ["Processes data according to instructions and produces output", "Only prints documents in basic computer operations", "Only plays games for data management only", "Only stores data for general office use"],
     correct: 0,
     explanation: "A computer accepts input data, processes it according to stored instructions (programs), and produces output."
   },
-{
-    id: "d262_002", subject: "computer-applications",
+  {
+    id: "d262_002",
+    subject: "computer-applications",
     question: "The full form of CPU is:",
     options: ["Central Program Unit", "Central Processing Unit", "Core Processing Unit", "Computer Processing Unit"],
     correct: 1,
     explanation: "CPU (Central Processing Unit) is the brain of the computer that executes instructions."
   },
-{
-    id: "d262_003", subject: "computer-applications",
+  {
+    id: "d262_003",
+    subject: "computer-applications",
     question: "RAM stands for:",
     options: ["Read All Memory", "Random Access Memory", "Remote Access Memory", "Rapid Access Module"],
     correct: 1,
     explanation: "RAM (Random Access Memory) is the primary working memory where data and programs are stored temporarily."
   },
-{
-    id: "d262_004", subject: "computer-applications",
+  {
+    id: "d262_004",
+    subject: "computer-applications",
     question: "Which generation of computers used transistors?",
     options: ["Fourth generation", "First generation", "Second generation", "Third generation"],
     correct: 2,
     explanation: "Second generation computers (1955–1964) used transistors, replacing vacuum tubes of the first generation."
   },
-{
-    id: "d262_005", subject: "computer-applications",
+  {
+    id: "d262_005",
+    subject: "computer-applications",
     question: "The binary number system uses digits:",
     options: ["0 and 1", "A–F", "0–9", "0–7"],
     correct: 0,
     explanation: "Binary (base-2) uses only two digits: 0 and 1. All computer data is ultimately represented in binary."
   },
-{
-    id: "d262_006", subject: "computer-applications",
+  {
+    id: "d262_006",
+    subject: "computer-applications",
     question: "1 byte =",
     options: ["4 bits", "8 bits", "1024 bits", "16 bits"],
     correct: 1,
     explanation: "1 byte = 8 bits. Bit is the smallest unit; byte is the basic unit of storage."
   },
-{
-    id: "d262_007", subject: "computer-applications",
+  {
+    id: "d262_007",
+    subject: "computer-applications",
     question: "1 KB (Kilobyte) =",
     options: ["100 bytes", "1,024 bytes", "1,000 bytes", "10,000 bytes"],
     correct: 1,
     explanation: "1 KB = 1,024 bytes (2¹⁰). 1 MB = 1,024 KB; 1 GB = 1,024 MB."
   },
-{
-    id: "d262_008", subject: "computer-applications",
+  {
+    id: "d262_008",
+    subject: "computer-applications",
     question: "ROM stands for:",
     options: ["Random Output Memory", "Removable Output Module", "Rapid Operating Memory", "Read Only Memory"],
     correct: 3,
     explanation: "ROM (Read Only Memory) stores permanent data that cannot be modified during normal computer operation."
   },
-{
-    id: "d262_009", subject: "computer-applications",
+  {
+    id: "d262_009",
+    subject: "computer-applications",
     question: "Which of the following is an input device?",
     options: ["Speaker", "Monitor", "Printer", "Keyboard"],
     correct: 3,
     explanation: "Keyboard is an input device. Monitor, printer, and speaker are output devices."
   },
-{
-    id: "d262_010", subject: "computer-applications",
+  {
+    id: "d262_010",
+    subject: "computer-applications",
     question: "Which of the following is an output device?",
     options: ["Scanner", "Keyboard", "Monitor", "Mouse"],
     correct: 2,
     explanation: "Monitor (VDU) is an output device that displays processed information."
   },
-{
-    id: "d262_011", subject: "computer-applications",
+  {
+    id: "d262_011",
+    subject: "computer-applications",
     question: "The motherboard of a computer is:",
     options: ["The main circuit board connecting all components", "The hard disk for general office use", "The CPU only in basic computer operations", "The power supply unit"],
     correct: 0,
     explanation: "Motherboard is the main PCB (Printed Circuit Board) that connects and allows communication among all computer components."
   },
-{
-    id: "d262_012", subject: "computer-applications",
+  {
+    id: "d262_012",
+    subject: "computer-applications",
     question: "BIOS stands for:",
     options: ["Basic Input Output Software", "Basic Input Output System", "Basic Integrated Operating System", "Binary Input Output System"],
     correct: 1,
     explanation: "BIOS (Basic Input Output System) is firmware stored in ROM that initializes hardware during startup."
   },
-{
-    id: "d262_013", subject: "computer-applications",
+  {
+    id: "d262_013",
+    subject: "computer-applications",
     question: "An operating system is:",
     options: ["A hardware component for general office use", "An application program in basic computer operations", "A type of memory for data management only", "System software that manages computer hardware and provides services to programs"],
     correct: 3,
     explanation: "OS (Operating System) is system software that manages hardware resources and provides a platform for application software."
   },
-{
-    id: "d262_014", subject: "computer-applications",
+  {
+    id: "d262_014",
+    subject: "computer-applications",
     question: "Which is NOT an operating system?",
     options: ["MS-DOS", "MS Excel", "Linux", "Windows"],
     correct: 1,
     explanation: "MS Excel is an application (spreadsheet) program. Windows, Linux, and MS-DOS are operating systems."
   },
-{
-    id: "d262_015", subject: "computer-applications",
+  {
+    id: "d262_015",
+    subject: "computer-applications",
     question: "GUI stands for:",
     options: ["Generated Utility Interface", "Graphical User Interface", "Global User Interface", "General User Interface"],
     correct: 1,
     explanation: "GUI (Graphical User Interface) allows users to interact with computers using icons, menus, and windows instead of text commands."
   },
-{
-    id: "d262_016", subject: "computer-applications",
+  {
+    id: "d262_016",
+    subject: "computer-applications",
     question: "Which of the following is an application software?",
     options: ["Linux", "MS Word", "Windows 10", "Ubuntu"],
     correct: 1,
     explanation: "MS Word is application software for word processing. Windows 10, Ubuntu, and Linux are operating systems."
   },
-{
-    id: "d262_017", subject: "computer-applications",
+  {
+    id: "d262_017",
+    subject: "computer-applications",
     question: "Open source software means:",
     options: ["Software for outdoor activities for general office use in agriculture", "Paid proprietary software for data management only for crop production", "Software that has no purpose in basic computer operations", "Software that is free to use and whose source code is openly available"],
     correct: 3,
     explanation: "Open source software has publicly available source code that can be freely used, modified, and distributed."
   },
-{
-    id: "d262_018", subject: "computer-applications",
+  {
+    id: "d262_018",
+    subject: "computer-applications",
     question: "Android is an operating system designed for:",
     options: ["Supercomputers", "Servers only", "Mobile devices (smartphones and tablets)", "Desktop computers only"],
     correct: 2,
     explanation: "Android is an open-source operating system developed by Google for mobile devices."
   },
-{
-    id: "d262_019", subject: "computer-applications",
+  {
+    id: "d262_019",
+    subject: "computer-applications",
     question: "A virus in computer terms is:",
     options: ["Malicious software that replicates and damages files/systems", "An antivirus program in basic computer operations", "A beneficial program for general office use", "A system driver for data management only"],
     correct: 0,
     explanation: "Computer virus is malware that attaches to programs/files, replicates itself, and may destroy data."
   },
-{
-    id: "d262_020", subject: "computer-applications",
+  {
+    id: "d262_020",
+    subject: "computer-applications",
     question: "Antivirus software is used to:",
     options: ["Detect, prevent, and remove malicious software", "Speed up the computer", "Connect to the internet", "Create documents"],
     correct: 0,
     explanation: "Antivirus software scans, detects, and removes malware (viruses, trojans, worms, spyware)."
   },
-{
-    id: "d262_021", subject: "computer-applications",
+  {
+    id: "d262_021",
+    subject: "computer-applications",
     question: "Booting a computer means:",
     options: ["Starting the computer and loading the operating system", "Installing software for general office use", "Shutting down the computer", "Deleting files in basic computer operations"],
     correct: 0,
     explanation: "Booting is the process of starting a computer and loading the operating system into RAM."
   },
-{
-    id: "d262_022", subject: "computer-applications",
+  {
+    id: "d262_022",
+    subject: "computer-applications",
     question: "Multitasking in an operating system means:",
     options: ["The computer runs at multiple speeds", "Multiple users can log in", "Multiple programs run simultaneously (concurrent execution)", "Only one program runs at a time"],
     correct: 2,
     explanation: "Multitasking allows multiple programs to run concurrently by rapidly switching CPU time between them."
   },
-{
-    id: "d262_023", subject: "computer-applications",
+  {
+    id: "d262_023",
+    subject: "computer-applications",
     question: "MS Word is primarily used for:",
     options: ["Database management for general office use", "Word processing (creating, editing, formatting text documents)", "Graphic design for data management only", "Creating spreadsheets in basic computer operations"],
     correct: 1,
     explanation: "MS Word is a word processor for creating letters, reports, essays, and other text-based documents."
   },
-{
-    id: "d262_024", subject: "computer-applications",
-    question: "The default file extension for MS Word 2016 documents is:",
-    options: [".txt", ".doc", ".pdf", ".docx"],
+  {
+    id: "d262_024",
+    subject: "computer-applications",
+    question: "Files with the extension .COM or .EXE are called:",
+    options: ["System files", "Backup files", "Batch files", "Executable files"],
     correct: 3,
-    explanation: "MS Word 2007 and later saves files in .docx format (XML-based). Older versions used .doc."
+    explanation: "Files with a .COM or .EXE extension are executable files - they are directly executed by typing their name. A .COM file is a command file and .EXE is an executable file."
   },
-{
-    id: "d262_025", subject: "computer-applications",
+  {
+    id: "d262_025",
+    subject: "computer-applications",
     question: "The shortcut key for 'Save' in MS Word is:",
     options: ["Ctrl + O", "Ctrl + P", "Alt + S", "Ctrl + S"],
     correct: 3,
     explanation: "Ctrl + S saves the current document in MS Word."
   },
-{
-    id: "d262_026", subject: "computer-applications",
+  {
+    id: "d262_026",
+    subject: "computer-applications",
     question: "Which tab in MS Word contains font formatting options?",
     options: ["Home", "Insert", "View", "Page Layout"],
     correct: 0,
     explanation: "The Home tab contains the Font and Paragraph groups for text formatting in MS Word."
   },
-{
-    id: "d262_027", subject: "computer-applications",
+  {
+    id: "d262_027",
+    subject: "computer-applications",
     question: "Mail Merge in MS Word is used for:",
     options: ["Combining cells in a table for general office use", "Merging two documents into one in basic computer operations", "Creating personalized letters for multiple recipients using a data source", "Merging footnotes for data management only"],
     correct: 2,
     explanation: "Mail Merge combines a template document with a data source (Excel, Access) to produce personalized mass mailings."
   },
-{
-    id: "d262_028", subject: "computer-applications",
+  {
+    id: "d262_028",
+    subject: "computer-applications",
     question: "The shortcut key for 'Bold' in MS Word is:",
     options: ["Ctrl + U", "Ctrl + I", "Ctrl + D", "Ctrl + B"],
     correct: 3,
     explanation: "Ctrl + B applies bold formatting in MS Word (Ctrl + I = Italic, Ctrl + U = Underline)."
   },
-{
-    id: "d262_029", subject: "computer-applications",
+  {
+    id: "d262_029",
+    subject: "computer-applications",
     question: "Which feature in MS Word checks spelling and grammar?",
     options: ["AutoFit", "Spelling & Grammar (F7)", "AutoCorrect only", "Track Changes"],
     correct: 1,
     explanation: "Spelling & Grammar check (F7 shortcut) reviews text for errors in MS Word."
   },
-{
-    id: "d262_030", subject: "computer-applications",
+  {
+    id: "d262_030",
+    subject: "computer-applications",
     question: "Print Preview in MS Word allows:",
     options: ["Editing the document for general office use", "Saving the document in basic computer operations", "Printing immediately for data management only", "Viewing how the document will look when printed before printing"],
     correct: 3,
     explanation: "Print Preview shows an on-screen representation of the printed page layout."
   },
-{
-    id: "d262_031", subject: "computer-applications",
+  {
+    id: "d262_031",
+    subject: "computer-applications",
     question: "Track Changes feature in MS Word is used to:",
     options: ["Monitor file size changes for general office use", "Record and show changes made by multiple authors for review", "Track the time spent on a document", "Track printing in basic computer operations"],
     correct: 1,
     explanation: "Track Changes records all edits (insertions, deletions) so authors or reviewers can see and accept/reject changes."
   },
-{
-    id: "d262_032", subject: "computer-applications",
-    question: "The maximum font size available in MS Word font size box is:",
-    options: ["400 pt", "72 pt", "100 pt", "1638 pt"],
+  {
+    id: "d262_032",
+    subject: "computer-applications",
+    question: "For paragraphs of text in a word processor, the best font size is generally:",
+    options: ["72 or above", "36 or 48", "6 or 8", "11 or 12"],
     correct: 3,
-    explanation: "MS Word allows font sizes from 1 to 1638 points (you can type the size directly)."
+    explanation: "A font size of 11 or 12 is generally best for paragraphs of text; the font size is changed using the Font size box on the formatting toolbar."
   },
-{
-    id: "d262_033", subject: "computer-applications",
+  {
+    id: "d262_033",
+    subject: "computer-applications",
     question: "MS Excel is primarily used for:",
     options: ["Word processing for general office use", "Email communication in basic computer operations", "Creating, organizing, and analyzing data in spreadsheets", "Presentation design for data management only"],
     correct: 2,
     explanation: "MS Excel is a spreadsheet application used for data entry, calculations, charts, and data analysis."
   },
-{
-    id: "d262_034", subject: "computer-applications",
-    question: "The default file extension for MS Excel 2016 is:",
-    options: [".csv", ".xls", ".xlsx", ".xlm"],
-    correct: 2,
-    explanation: "Excel 2007 and later uses .xlsx format (XML-based). Older versions used .xls."
+  {
+    id: "d262_034",
+    subject: "computer-applications",
+    question: "A file that contains a set of commands executed one at a time in the order entered has which extension?",
+    options: [".PPT", ".DOC", ".XLS", ".BAT (batch file)"],
+    correct: 3,
+    explanation: "A file with the .BAT extension is a batch file - it contains a set of commands that are executed one at a time in the order entered."
   },
-{
-    id: "d262_035", subject: "computer-applications",
+  {
+    id: "d262_035",
+    subject: "computer-applications",
     question: "A cell in Excel is identified by:",
     options: ["Column letter followed by row number (e.g., A1, B5)", "Cell name only for general office use", "Only row and column numbers", "Row number only in basic computer operations"],
     correct: 0,
     explanation: "Cell address = Column letter + Row number (e.g., A1, C15). Used in formulas and navigation."
   },
-{
-    id: "d262_036", subject: "computer-applications",
+  {
+    id: "d262_036",
+    subject: "computer-applications",
     question: "In Excel, a formula must start with:",
     options: ["!", "#", "@", "="],
     correct: 3,
     explanation: "All Excel formulas begin with '=' to distinguish them from regular text/data."
   },
-{
-    id: "d262_037", subject: "computer-applications",
+  {
+    id: "d262_037",
+    subject: "computer-applications",
     question: "The function =SUM(A1:A10) calculates:",
     options: ["Count of cells for general office use", "Sum of values in cells A1 through A10", "Average of A1 to A10", "Maximum value in basic computer operations"],
     correct: 1,
     explanation: "=SUM(A1:A10) adds all values in the range A1 to A10."
   },
-{
-    id: "d262_038", subject: "computer-applications",
+  {
+    id: "d262_038",
+    subject: "computer-applications",
     question: "The function =AVERAGE(B1:B5) computes:",
     options: ["Minimum value for general office use", "Number of cells in basic computer operations", "Sum of B1 to B5", "Arithmetic mean of values in B1 to B5"],
     correct: 3,
     explanation: "=AVERAGE() calculates the arithmetic mean (sum ÷ count) of specified cells."
   },
-{
-    id: "d262_039", subject: "computer-applications",
+  {
+    id: "d262_039",
+    subject: "computer-applications",
     question: "Absolute cell reference in Excel is written as:",
     options: ["Both B and C", "$A$1", "A1", "A$1"],
     correct: 1,
     explanation: "$A$1 is an absolute reference — the column (A) and row (1) are locked and don't change when the formula is copied."
   },
-{
-    id: "d262_040", subject: "computer-applications",
+  {
+    id: "d262_040",
+    subject: "computer-applications",
     question: "VLOOKUP function in Excel is used to:",
     options: ["Validate data for general office use in agriculture", "Create vertical charts in basic computer operations", "Calculate vertical sums for data management only for crop production", "Look up a value in a column and return a value"],
     correct: 3,
     explanation: "VLOOKUP searches vertically in the first column of a table and returns a value from a specified column in the same row."
   },
-{
-    id: "d262_041", subject: "computer-applications",
+  {
+    id: "d262_041",
+    subject: "computer-applications",
     question: "Pivot Table in Excel is used for:",
     options: ["Inserting images for general office use", "Rotating the worksheet in basic computer operations", "Summarizing, analyzing, and presenting large data sets interactively", "Setting print margins for data management only"],
     correct: 2,
     explanation: "Pivot Tables allow interactive summarization and cross-tabulation of large data sets for analysis."
   },
-{
-    id: "d262_042", subject: "computer-applications",
+  {
+    id: "d262_042",
+    subject: "computer-applications",
     question: "Conditional Formatting in Excel highlights cells based on:",
     options: ["User-defined rules (cell value, text, date criteria)", "Font type only for general office use", "Random selection in basic computer operations", "File size for data management only"],
     correct: 0,
     explanation: "Conditional Formatting automatically applies color or format to cells meeting specified conditions."
   },
-{
-    id: "d262_043", subject: "computer-applications",
-    question: "MS PowerPoint is used for:",
-    options: ["Spreadsheet calculations", "Creating slide-based presentations", "Word processing", "Database management"],
-    correct: 1,
-    explanation: "PowerPoint creates slide show presentations for lectures, meetings, and demonstrations."
-  },
-{
-    id: "d262_044", subject: "computer-applications",
-    question: "The default file format of MS PowerPoint 2016 is:",
-    options: [".pptx", ".pps", ".ppt", ".pot"],
-    correct: 0,
-    explanation: "PowerPoint 2007 and later uses .pptx format. Older format is .ppt."
-  },
-{
-    id: "d262_045", subject: "computer-applications",
-    question: "Slide Transition in PowerPoint refers to:",
-    options: ["The slide master in basic computer operations for crop production", "The animation of objects within a slide in agriculture", "The design template for general office use", "The visual effect when moving from one slide to the next"],
+  {
+    id: "d262_043",
+    subject: "computer-applications",
+    question: "System software that translates a high-level language program into machine language is a:",
+    options: ["Database", "Spreadsheet", "Word processor", "Compiler or interpreter"],
     correct: 3,
-    explanation: "Slide transition is the animation/effect applied when switching between slides during a presentation."
+    explanation: "Translators convert programs into machine language; the two types are compilers and interpreters. A compiler translates the whole program before execution; an interpreter translates one statement at a time."
   },
-{
-    id: "d262_046", subject: "computer-applications",
+  {
+    id: "d262_044",
+    subject: "computer-applications",
+    question: "A compiler differs from an interpreter in that a compiler:",
+    options: ["Translates the whole program before execution", "Translates one statement at a time", "Cannot detect errors", "Runs only on the internet"],
+    correct: 0,
+    explanation: "A compiler checks and translates the entire source program into an object program before execution, whereas an interpreter translates and executes one statement at a time."
+  },
+  {
+    id: "d262_045",
+    subject: "computer-applications",
+    question: "Machine language, the only language a computer directly understands, is written in:",
+    options: ["Hexadecimal words only", "English sentences", "Mnemonic codes", "Binary codes (0 and 1)"],
+    correct: 3,
+    explanation: "Machine language is written in binary codes (0 and 1); it is a first-generation, machine-dependent language that is difficult and time-consuming to write."
+  },
+  {
+    id: "d262_046",
+    subject: "computer-applications",
     question: "Internet is best described as:",
     options: ["A type of software for general office use", "A local area network in basic computer operations", "A single computer for data management only", "A global network of interconnected computers and devices"],
     correct: 3,
     explanation: "The Internet is a global system of interconnected computer networks that communicate via TCP/IP protocol."
   },
-{
-    id: "d262_047", subject: "computer-applications",
+  {
+    id: "d262_047",
+    subject: "computer-applications",
     question: "WWW stands for:",
     options: ["World Wide Web", "Wide Web Works", "World Wide Wire", "Web World Wide"],
     correct: 0,
     explanation: "WWW (World Wide Web) is a system of interconnected hypertext documents accessible via the Internet."
   },
-{
-    id: "d262_048", subject: "computer-applications",
+  {
+    id: "d262_048",
+    subject: "computer-applications",
     question: "HTTP stands for:",
     options: ["HyperText Transmission Program", "High Transfer Text Protocol", "HyperText Transfer Protocol", "Hyperlink Text Transport Protocol"],
     correct: 2,
     explanation: "HTTP (HyperText Transfer Protocol) is the protocol for transmitting web pages on the internet."
   },
-{
-    id: "d262_049", subject: "computer-applications",
+  {
+    id: "d262_049",
+    subject: "computer-applications",
     question: "URL stands for:",
     options: ["Universal Remote Link", "Uniform Resource Locator", "Unified Resource Language", "Universal Resource Locator"],
     correct: 1,
     explanation: "URL (Uniform Resource Locator) is the web address used to locate resources on the internet."
   },
-{
-    id: "d262_050", subject: "computer-applications",
+  {
+    id: "d262_050",
+    subject: "computer-applications",
     question: "Email stands for:",
     options: ["Electrical Mail", "Electronic Mail", "Extended Mail", "Express Mail"],
     correct: 1,
     explanation: "Email (Electronic Mail) is a method of exchanging digital messages over computer networks."
   },
-{
-    id: "d262_051", subject: "computer-applications",
+  {
+    id: "d262_051",
+    subject: "computer-applications",
     question: "A browser is software used to:",
     options: ["Access and display web pages on the internet", "Design websites in basic computer operations", "Store files for general office use", "Manage email for data management only"],
     correct: 0,
     explanation: "Web browsers (Chrome, Firefox, Edge, Safari) retrieve and display web pages from the internet."
   },
-{
-    id: "d262_052", subject: "computer-applications",
+  {
+    id: "d262_052",
+    subject: "computer-applications",
     question: "LAN stands for:",
     options: ["Long Area Network", "Linked Area Node", "Local Area Network", "Large Access Network"],
     correct: 2,
     explanation: "LAN (Local Area Network) connects computers within a limited area like a building or campus."
   },
-{
-    id: "d262_053", subject: "computer-applications",
+  {
+    id: "d262_053",
+    subject: "computer-applications",
     question: "A database is:",
     options: ["A programming language for data management only", "An operating system for general office use", "A type of computer in basic computer operations", "An organized collection of structured data stored electronically"],
     correct: 3,
     explanation: "A database is an organized collection of data that can be easily accessed, managed, and updated."
   },
-{
-    id: "d262_054", subject: "computer-applications",
+  {
+    id: "d262_054",
+    subject: "computer-applications",
     question: "DBMS stands for:",
     options: ["Database Management System", "Database Management Software", "Digital Base Management System", "Data Based Management Service"],
     correct: 0,
     explanation: "DBMS (Database Management System) software manages databases, controls access, and handles queries."
   },
-{
-    id: "d262_055", subject: "computer-applications",
+  {
+    id: "d262_055",
+    subject: "computer-applications",
     question: "SQL stands for:",
     options: ["System Query Logic", "Simple Query Language", "Structured Query Language", "Standard Query List"],
     correct: 2,
     explanation: "SQL (Structured Query Language) is the standard language for managing relational databases."
   },
-{
-    id: "d262_056", subject: "computer-applications",
+  {
+    id: "d262_056",
+    subject: "computer-applications",
     question: "Which of the following is a popular DBMS?",
     options: ["MySQL", "Adobe Photoshop", "MS Word", "VLC Media Player"],
     correct: 0,
     explanation: "MySQL is a popular open-source relational database management system."
   },
-{
-    id: "d262_057", subject: "computer-applications",
-    question: "Precision agriculture uses technology for:",
-    options: ["Variable rate application of inputs based on spatial variability in fields", "Reducing farm area for general office use in agriculture", "One-size-fits-all farming in basic computer operations", "Manual observation only for data management only for crop production"],
+  {
+    id: "d262_057",
+    subject: "computer-applications",
+    question: "Assembly language uses which type of codes instead of numeric codes?",
+    options: ["Mnemonic codes (e.g. ADD for addition)", "Binary codes only", "Decimal codes only", "No codes at all"],
     correct: 0,
-    explanation: "Precision agriculture uses GPS, sensors, and GIS to optimize input application according to field variability."
+    explanation: "Assembly language uses mnemonic codes (e.g. ADD or A for addition) instead of numeric codes; it is machine-dependent and requires a translator (assembler) to convert into machine language."
   },
-{
-    id: "d262_058", subject: "computer-applications",
-    question: "Soil moisture sensors in precision agriculture help in:",
-    options: ["Pest identification", "Seed selection", "Weather forecasting", "Optimizing irrigation scheduling"],
-    correct: 3,
-    explanation: "Soil moisture sensors provide real-time data to trigger irrigation only when needed, saving water."
-  },
-{
-    id: "d262_059", subject: "computer-applications",
-    question: "e-Crop advisory services in agriculture provide:",
-    options: ["Government job notifications for general office use in agriculture", "Free seeds in basic computer operations", "Direct loans for data management only for crop production", "Real-time crop production advice, pest alerts, and weather updates to farmers"],
-    correct: 3,
-    explanation: "e-Crop advisory services (via apps, SMS, internet) give farmers timely advice on crop management and market prices."
-  },
-{
-    id: "d262_060", subject: "computer-applications",
-    question: "GIS in agriculture is used for:",
-    options: ["Word processing for general office use in agriculture", "Mapping soil variability, crop health, land use, and planning irrigation", "Playing games for data management only for crop production", "Accounting in basic computer operations"],
+  {
+    id: "d262_058",
+    subject: "computer-applications",
+    question: "High Level Languages (HLLs) are also known as:",
+    options: ["Machine languages (first-generation)", "Problem Oriented Languages (third-generation)", "Assembly languages (second-generation)", "Binary languages"],
     correct: 1,
-    explanation: "GIS (Geographic Information System) integrates spatial data for precision farming, land use planning, and resource management."
+    explanation: "High Level Languages are problem-oriented (third-generation) languages; they follow English-like rules, are machine-independent and need less time to write."
   },
-{
-    id: "d262_061", subject: "computer-applications",
-    question: "Cloud computing allows farmers to:",
-    options: ["Access data, apps, and services over the internet from anywhere", "Work without electricity for general office use", "Avoid using computers in basic computer operations", "Store data on local hard disks only"],
-    correct: 0,
-    explanation: "Cloud computing provides internet-based storage, software, and services accessible from any device."
-  },
-{
-    id: "d262_062", subject: "computer-applications",
-    question: "Digital India programme was launched in:",
-    options: ["2010", "2015", "2020", "2005"],
-    correct: 1,
-    explanation: "Digital India was launched by the Government of India on 1 July 2015 to transform India into a digitally empowered society."
-  },
-{
-    id: "d262_063", subject: "computer-applications",
-    question: "UPI (Unified Payments Interface) enables:",
-    options: ["Internet browsing for general office use", "Television broadcasting in basic computer operations", "Satellite communication for data management only", "Instant real-time bank transfers using mobile phones"],
-    correct: 3,
-    explanation: "UPI is a payment system that facilitates instant inter-bank transactions via smartphones, developed by NPCI."
-  },
-{
-    id: "d262_064", subject: "computer-applications",
-    question: "Aadhaar is a:",
-    options: ["Bank account for general office use", "Passport number in basic computer operations", "Voter ID for data management only", "12-digit unique biometric identity number issued to Indian residents"],
-    correct: 3,
-    explanation: "Aadhaar is India's biometric UID (Unique Identification) 12-digit number issued by UIDAI."
-  },
-{
-    id: "d262_065", subject: "computer-applications",
-    question: "PMGDISHA (Pradhan Mantri Gramin Digital Saksharta Abhiyan) aims to:",
-    options: ["Build rural roads for general office use", "Provide free computers to farmers", "Provide rural electricity in basic computer operations", "Make rural households digitally literate across India"],
-    correct: 3,
-    explanation: "PMGDISHA aims to provide digital literacy skills to six crore rural households to enable them to use digital devices."
-  },
-{
-    id: "d262_066", subject: "computer-applications",
-    question: "mKisan (Mobile for Agriculture) portal provides:",
-    options: ["Mobile games for general office use", "SMS-based crop advisory, weather alerts, and market prices to farmers", "Social media access in basic computer operations", "Mobile banking only for data management only"],
-    correct: 1,
-    explanation: "mKisan portal delivers agricultural information directly to farmers' mobile phones via SMS in local languages."
-  },
-{
-    id: "d262_067", subject: "computer-applications",
-    question: "IoT (Internet of Things) in agriculture refers to:",
-    options: ["Connected sensors, devices, and systems that collect and exchange data for smart farming", "Traditional farming methods in basic computer operations", "Only internet browsing on farm for data management only for crop production", "International trade of crops for general office use in agriculture"],
-    correct: 0,
-    explanation: "Agricultural IoT connects field sensors, weather stations, and drones to collect and analyze farm data in real time."
-  },
-{
-    id: "d262_068", subject: "computer-applications",
-    question: "Artificial Intelligence (AI) in agriculture can help with:",
-    options: ["Removing insects by hand for general office use", "Manual irrigation in basic computer operations", "Crop disease detection, yield prediction, and automated machinery", "Manual weeding only for data management only"],
+  {
+    id: "d262_059",
+    subject: "computer-applications",
+    question: "The high-level language FORTRAN stands for:",
+    options: ["Forward Transaction", "Formatted Transmission", "FORmula TRANslation", "File Transfer"],
     correct: 2,
-    explanation: "AI enables image-based disease diagnosis, yield forecasting, robotic harvesting, and smart irrigation management."
+    explanation: "FORTRAN stands for FORmula TRANslation; COBOL is Common Business Oriented Language and BASIC is Beginner's All-purpose Symbolic Instruction Code."
   },
-{
-    id: "d262_069", subject: "computer-applications",
-    question: "Blockchain technology in agriculture can improve:",
-    options: ["Traceability and transparency in food supply chain and transactions", "Weather prediction in basic computer operations", "Water quality for general office use", "Soil fertility for data management only"],
+  {
+    id: "d262_060",
+    subject: "computer-applications",
+    question: "COBOL, a high-level language, stands for:",
+    options: ["Common Binary Output Line", "Computer Basic Oriented Logic", "Coded Binary Operating Language", "Common Business Oriented Language"],
+    correct: 3,
+    explanation: "COBOL stands for Common Business Oriented Language, widely used for business data processing."
+  },
+  {
+    id: "d262_061",
+    subject: "computer-applications",
+    question: "BASIC programming language stands for:",
+    options: ["Beginner's All-purpose Symbolic Instruction Code", "Binary Arithmetic Standard Input Code", "Basic Application System Integrated Computing", "Business Automated Standard Instruction Code"],
     correct: 0,
-    explanation: "Blockchain provides an immutable record of transactions, enabling traceability from farm to consumer in food supply chains."
+    explanation: "BASIC stands for Beginner's All-purpose Symbolic Instruction Code, an easy-to-learn high-level language."
   },
-{
-    id: "d262_070", subject: "computer-applications",
+  {
+    id: "d262_062",
+    subject: "computer-applications",
+    question: "Pre-written programs supplied by the manufacturer for day-to-day maintenance of the computer (e.g. COPY, SORT, virus scanning) are called:",
+    options: ["Application programs", "Utility programs", "Operating systems", "Compilers"],
+    correct: 1,
+    explanation: "Utility programs are pre-written programs supplied by the manufacturer for maintaining day-to-day activities of the computer system, e.g. COPY, SORT, MAILING and virus-scanning software."
+  },
+  {
+    id: "d262_063",
+    subject: "computer-applications",
+    question: "User-written programs to do a specific job (e.g. Payroll, Billing, Railway Reservation) are called:",
+    options: ["System software", "Utility programs", "Application programs", "Translators"],
+    correct: 2,
+    explanation: "Application programs are user-written programs to do a specific job (e.g. Payroll, Billing, Railway Reservation), often written in BASIC/C or using database packages like dBASE or Oracle."
+  },
+  {
+    id: "d262_064",
+    subject: "computer-applications",
+    question: "SPSS, MSTAT and SAS are examples of which type of general-purpose package?",
+    options: ["Operating systems", "Word processing packages", "Spreadsheet packages", "Data analysis packages"],
+    correct: 3,
+    explanation: "SPSS (Statistical Package for Social Science), MSTAT, MICROSTAT, GENSTAT and SAS are data-analysis (statistical) general-purpose packages."
+  },
+  {
+    id: "d262_065",
+    subject: "computer-applications",
+    question: "WordStar, WordPerfect and MS-Word are examples of:",
+    options: ["Word-processing packages", "Spreadsheet packages", "Database packages", "Operating systems"],
+    correct: 0,
+    explanation: "WordStar, WordPerfect, MS-Word, Chiwriter and Norton Editor are word-processing general-purpose packages."
+  },
+  {
+    id: "d262_066",
+    subject: "computer-applications",
+    question: "Lotus, Symphony, VP-Planner and MS-Excel are examples of:",
+    options: ["Word-processing packages", "Spreadsheet packages", "Data-analysis packages", "Translators"],
+    correct: 1,
+    explanation: "Lotus, Qpro, VP-Planner, Symphony and MS-Excel are spreadsheet general-purpose packages."
+  },
+  {
+    id: "d262_067",
+    subject: "computer-applications",
+    question: "DOS (Disk Operating System) is best described as a:",
+    options: ["Spreadsheet package", "Multi-user, multi-task operating system", "Single-user, single-task operating system", "Programming language"],
+    correct: 2,
+    explanation: "DOS is a single-user, single-task operating system suited for personal computers; Windows works with DOS as a single-user multitask system, while UNIX/XENIX are multi-user, multi-task systems."
+  },
+  {
+    id: "d262_068",
+    subject: "computer-applications",
+    question: "UNIX and XENIX operating systems are suited for:",
+    options: ["Only word processing", "Single-user, single-task systems", "Only spreadsheet work", "Multi-user, multi-task systems"],
+    correct: 3,
+    explanation: "UNIX and XENIX are operating systems suited for multi-user and multi-task environments, unlike DOS which is single-user single-task."
+  },
+  {
+    id: "d262_069",
+    subject: "computer-applications",
+    question: "The DOS command used to prepare (initialise) a disk for use is:",
+    options: ["FORMAT", "COPY", "DIR", "TREE"],
+    correct: 0,
+    explanation: "FORMAT is a fundamental DOS command used to format/prepare a disk; DIR lists the directory, COPY copies files, MD makes a directory and DEL deletes files."
+  },
+  {
+    id: "d262_070",
+    subject: "computer-applications",
     question: "Agri-Stack is an initiative in India to create:",
     options: ["A federated farmers' database and digital infrastructure for agricultural services", "Grain storage stacks in basic computer operations", "Fertilizer stacking guidelines for data management only", "Agricultural building codes for general office use"],
     correct: 0,
     explanation: "Agri-Stack is a digital public infrastructure to create a digital identity and data layer for farmers to access services."
   },
-{
-    id: "d262_071", subject: "da-262",
+  {
+    id: "d262_071",
+    subject: "da-262",
     question: "The generations of computers and their corresponding components are correctly matched as:",
     options: ["First Generation - Transistors; Second Generation - Vacuum Tubes", "First Generation - Vacuum Tubes; Second Generation - Transistors; Third Generation - ICs", "First Generation - Microprocessor; Second Generation - Transistors; Third Generation - ICs", "First Generation - ICs; Second Generation - Vacuum Tubes; Third Generation - Transistors"],
     correct: 1,
     explanation: "As per DA-262 notes: First Generation (1946-1954): Vacuum tubes; Second Generation (1955-1965): Transistors; Third Generation (1968-1975): Integrated Circuits (IC); Fourth Generation: VLSI; Fifth Generation: ULSI/Microprocessor."
   },
-{
-    id: "d262_072", subject: "da-262",
+  {
+    id: "d262_072",
+    subject: "da-262",
     question: "The standard keyboard used with personal computers has how many keys?",
     options: ["104 keys", "96 keys", "84 keys", "101 keys"],
     correct: 0,
     explanation: "As per DA-262 notes: The most commonly available computer keyboard has 104 keys. It includes alphanumeric keys, punctuation keys, special keys (arrow, control, function keys F1-F12, HOME, END)."
   },
-{
-    id: "d262_073", subject: "da-262",
+  {
+    id: "d262_073",
+    subject: "da-262",
     question: "MICR technology is primarily used in which industry?",
     options: ["Railways for ticketing", "Supermarkets for barcode scanning", "Banking for processing cheques", "Libraries for cataloguing books"],
     correct: 2,
     explanation: "As per DA-262 notes: MICR (Magnetic Ink Character Recognition) is a character recognition technology used primarily by the banking industry to facilitate the processing of cheques. It can scan about 2600 cheques per minute."
   },
-{
-    id: "d262_074", subject: "da-262",
+  {
+    id: "d262_074",
+    subject: "da-262",
     question: "RAM (Random Access Memory) is called volatile memory because:",
     options: ["Data disappears from RAM as soon as power is switched off", "It can read but not write data for general office use", "It stores data permanently without power in basic computer operations", "It requires a battery to maintain data for data management only"],
     correct: 0,
     explanation: "As per DA-262 notes: RAM is volatile memory - storage of data and instructions in RAM is temporary, till the time the computer is running. It disappears from RAM as soon as power is switched off."
   },
-{
-    id: "d262_075", subject: "da-262",
+  {
+    id: "d262_075",
+    subject: "da-262",
     question: "The storage capacity of a standard CD-ROM is approximately:",
     options: ["650 to 700 MB", "50 to 100 MB", "250 to 350 MB", "1.5 to 2 GB"],
     correct: 0,
     explanation: "As per DA-262 notes: The storage capacity of most CD-ROMs is approximately 650 MB or 700 MB."
   },
-{
-    id: "d262_076", subject: "da-262",
+  {
+    id: "d262_076",
+    subject: "da-262",
     question: "The first Intel microprocessor (8080) was introduced in which year?",
     options: ["1969", "1979", "1974", "1985"],
     correct: 2,
     explanation: "As per DA-262 notes: Intel 8080 was introduced in 1974 with 6000 transistors and 2 MHz clock speed."
   },
-{
-    id: "d262_077", subject: "da-262",
+  {
+    id: "d262_077",
+    subject: "da-262",
     question: "The AUTOEXEC.BAT file in DOS is special because:",
     options: ["It is automatically executed when the computer is switched on or during booting", "It contains antivirus programs in basic computer operations", "It stores all user passwords for general office use", "It cannot be deleted or modified for data management only"],
     correct: 0,
     explanation: "As per DA-262 notes: If a batch file is given the special name AUTOEXEC.BAT, it is automatically executed when the computer is switched on or during booting."
   },
-{
-    id: "d262_078", subject: "da-262",
+  {
+    id: "d262_078",
+    subject: "da-262",
     question: "In Windows, the 'Recycle Bin' is used for:",
     options: ["Storing all files and folders deleted from Windows temporarily, which can be restored", "Storing system backup files in basic computer operations", "Storing temporary internet files for general office use in agriculture", "Organizing downloaded files for data management only for crop production"],
     correct: 0,
     explanation: "As per DA-262 notes: Recycle Bin is a folder that stores all the files and folders deleted from Windows temporarily, which can be restored again if needed."
   },
-{
-    id: "d262_079", subject: "da-262",
+  {
+    id: "d262_079",
+    subject: "da-262",
     question: "Warm Booting of a computer is done by pressing which key combination?",
     options: ["Ctrl + Alt + Del", "Win + R", "Alt + F4", "Ctrl + Shift + Esc"],
     correct: 0,
     explanation: "As per DA-262 notes: Warm Booting is carried out by pressing Ctrl + Alt + Del simultaneously. It is preferable to cold booting as it safeguards the system from sudden power fluctuations."
   },
-{
-    id: "d262_080", subject: "da-262",
+  {
+    id: "d262_080",
+    subject: "da-262",
     question: "What does the DOS command 'FORMAT a:' do?",
     options: ["Renames the drive A label for general office use", "Copies all files to drive A in basic computer operations", "Organizes disk A into magnetic tracks and sectors readable by DOS", "Lists all files on drive A for data management only"],
     correct: 2,
     explanation: "As per DA-262 notes: FORMAT a: organizes the disk in drive A into magnetic tracks and sectors that are readable by DOS. Warning: formatting an old disk erases all existing files on it."
   },
-{
-    id: "d262_081", subject: "da-262",
+  {
+    id: "d262_081",
+    subject: "da-262",
     question: "The DOS command 'TREE' displays:",
     options: ["Only hidden files in basic computer operations", "Files in alphabetical order for general office use", "All files with size, date and time", "Directories and sub-directories in a drive without files"],
     correct: 3,
     explanation: "As per DA-262 notes: TREE displays directories and sub-directories in a drive WITHOUT files. DIR command displays all files with size, date and time, and shows directories with <DIR> symbol."
   },
-{
-    id: "d262_082", subject: "da-262",
+  {
+    id: "d262_082",
+    subject: "da-262",
     question: "Assertion (A): Computer viruses reside in executable files (.COM or .EXE).\nReason (R): When the PC is switched on, the virus enters RAM through COMMAND.COM and starts destructive work.",
     options: ["A is true but R is false", "Both A and R are true but R is NOT the correct explanation of A", "A is false but R is true", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "As per DA-262 notes: Viruses reside in executable files (.COM or .EXE). When PC is switched on, virus enters RAM through .COM file and starts destroying data and program files."
   },
-{
-    id: "d262_083", subject: "da-262",
+  {
+    id: "d262_083",
+    subject: "da-262",
     question: "Assertion (A): Windows OS supports file names up to 255 characters long.\nReason (R): MS-DOS was limited to 8 characters with 3-character extension (8:3 format), which Windows overcame.",
     options: ["A is true but R is false", "Both A and R are true and R is the correct explanation of A", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 1,
     explanation: "As per DA-262 notes: Windows supports long file names up to 255 characters long, unlike DOS which was limited to 8:3 (8 character name + 3 character extension) format."
   },
-{
-    id: "d262_084", subject: "da-262",
+  {
+    id: "d262_084",
+    subject: "da-262",
     question: "Match the following computer generations with their components:\n     Column-I (Generation)  |  Column-II (Component)    |  Column-III (Years)\nA.  First Generation      |  1.  Vacuum Tubes         |  i.   1946-1954\nB.  Second Generation     |  2.  Transistors           |  ii.  1955-1965\nC.  Third Generation      |  3.  Integrated Circuits   |  iii. 1968-1975\nD.  Fourth Generation     |  4.  VLSI                  |  iv.  1976-1980",
     options: ["A-3-i,  B-4-ii,  C-1-iii,  D-2-iv", "A-1-i,  B-2-ii,  C-3-iii,  D-4-iv", "A-2-i,  B-1-ii,  C-4-iii,  D-3-iv", "A-1-ii, B-2-i,  C-3-iv,  D-4-iii"],
     correct: 1,
     explanation: "As per DA-262 notes: First Gen (1946-1954) - Vacuum tubes; Second Gen (1955-1965) - Transistors; Third Gen (1968-1975) - ICs; Fourth Gen (1976-1980) - VLSI; Fifth Gen (1980-today) - ULSI/Microprocessor."
   },
-{
-    id: "d262_085", subject: "da-262",
+  {
+    id: "d262_085",
+    subject: "da-262",
     question: "Match the following types of printers with their printing speeds:\n     Column-I (Printer type)  |  Column-II (Speed)     |  Column-III (Mechanism)\nA.  Dot Matrix printer     |  1.  200-700 CPS       |  i.   24-pin or 9-pin through ribbon\nB.  Ink Jet printer        |  2.  Slow, 90 CPS      |  ii.  Sprays ionized ink\nC.  Laser printer          |  3.  6-12 PPM          |  iii. Uses laser beam\nD.  Line printer           |  4.  300-600 LPM       |  iv.  Prints lines at a time",
     options: ["A-3-iii, B-1-i, C-2-ii,  D-4-iv", "A-2-ii, B-1-i,  C-4-iv,  D-3-iii", "A-1-i,  B-2-ii,  C-3-iii,  D-4-iv", "A-1-iii, B-2-i, C-3-ii,  D-4-iv"],
     correct: 2,
     explanation: "As per DA-262 notes: Dot matrix: 200-700 CPS (24-pin/9-pin through ribbon); Ink jet: slow 90 CPS (sprays ionized ink); Laser: 6-12 PPM (laser beam); Line printer: 300-600 LPM (prints lines at a time)."
   },
-{
-    id: "d262_086", subject: "da-262",
+  {
+    id: "d262_086",
+    subject: "da-262",
     question: "Match the following memory units and their storage capacities:\n     Column-I (Unit)   |  Column-II (Equivalent)       |  Column-III (Abbreviation)\nA.  8 bits             |  1.  1 Byte                   |  i.   B\nB.  1024 Bytes         |  2.  1 Kilobyte               |  ii.  KB\nC.  1024 KB            |  3.  1 Megabyte               |  iii. MB\nD.  1024 MB            |  4.  1 Gigabyte               |  iv.  GB",
     options: ["A-1-i,  B-2-ii,  C-3-iii,  D-4-iv", "A-1-iii, B-2-ii, C-3-i,  D-4-iv", "A-2-i,  B-1-ii,  C-4-iii,  D-3-iv", "A-4-i,  B-3-ii,  C-2-iii,  D-1-iv"],
     correct: 0,
     explanation: "As per DA-262 notes: 8 bits = 1 Byte; 1024 Bytes = 1 KB; 1024 KB = 1 MB; 1024 MB = 1 GB."
   },
-{
-    id: "d262_087", subject: "da-262",
+  {
+    id: "d262_087",
+    subject: "da-262",
     question: "The Windows Explorer is divided into two panes. What does the left pane display?",
     options: ["The contents of selected files for general office use", "The recently opened documents in basic computer operations", "The control panel settings for data management only", "The list of drives and folders on the computer"],
     correct: 3,
     explanation: "As per DA-262 notes: Windows Explorer is divided into 2 panes. The left pane displays the list of drives and folders on the computer. The right pane displays the contents of the selected drive or folder."
   },
-{
-    id: "d262_088", subject: "da-262",
+  {
+    id: "d262_088",
+    subject: "da-262",
     question: "FORTRAN stands for:",
     options: ["Function Translation", "Formal Translation", "Forward Transfer", "Formula Translation"],
     correct: 3,
     explanation: "As per DA-262 notes: FORTRAN stands for FORmula TRANslation. Other programming languages: COBOL (Common Business Oriented Language), BASIC (Beginner's All purpose Symbolic Instruction Code), ALGOL (ALGOrithmic Language)."
   },
-{
-    id: "d262_089", subject: "da-262",
+  {
+    id: "d262_089",
+    subject: "da-262",
     question: "The key difference between a Compiler and an Interpreter is:",
     options: ["There is no difference; both do the same work", "Compiler is faster; Interpreter is slower because it compiles twice", "Compiler translates the whole program before execution; Interpreter translates one statement at a time", "Compiler works only with BASIC; Interpreter works with all languages"],
     correct: 2,
     explanation: "As per DA-262 notes: A compiler translates the whole program before execution and produces a list of all errors at the end. An interpreter translates one statement at a time and executes it immediately if error-free."
   },
-{
-    id: "d262_090", subject: "da-262",
+  {
+    id: "d262_090",
+    subject: "da-262",
     question: "DVD stands for:",
     options: ["Direct Video Disk", "Data Video Drive", "Digital Video Display", "Digital Versatile Disc"],
     correct: 3,
     explanation: "As per DA-262 notes: DVD stands for Digital Versatile Disc. Storage capacity is at least 4.7 GB, with DVDs storing up to 17 GB available. Used for large multimedia presentations and movies."
   },
-{
-    id: "d262_091", subject: "da-262",
+  {
+    id: "d262_091",
+    subject: "da-262",
     question: "Which type of computer operates by 'measuring' instead of 'counting'?",
     options: ["Super computers", "Digital computers", "Hybrid computers", "Analog computers"],
     correct: 3,
     explanation: "As per DA-262 notes: Analog computers operate by 'measuring' instead of 'counting'. The name is derived from Greek word 'analog' meaning similarity. They are powerful tools for solving differential equations."
   },
-{
-    id: "d262_092", subject: "da-262",
+  {
+    id: "d262_092",
+    subject: "da-262",
     question: "India's indigenous super computer was developed under the name:",
     options: ["JAGUAR", "PARAM", "TITAN", "CRAY"],
     correct: 1,
     explanation: "As per DA-262 notes: The first super computer was developed in USA by CRAY computers. In India, the indigenous super computer was developed under the name PARAM."
   },
-{
-    id: "d262_093", subject: "da-262",
+  {
+    id: "d262_093",
+    subject: "da-262",
     question: "The DOS command 'REN' is used to:",
     options: ["Run an executable file", "Remove a directory for general office use", "Restore deleted files in basic computer operations", "Rename an old file with another name"],
     correct: 3,
-    explanation: "As per DA-262 notes: The REN command is used to rename the old file with another name. Example: C:\> REN MATHS.TXT RESULT.TXT renames MATHS.TXT to RESULT.TXT."
+    explanation: "As per DA-262 notes: The REN command is used to rename the old file with another name. Example: C:> REN MATHS.TXT RESULT.TXT renames MATHS.TXT to RESULT.TXT."
   },
-{
-    id: "d262_094", subject: "da-262",
+  {
+    id: "d262_094",
+    subject: "da-262",
     question: "ASCII stands for:",
     options: ["American Standard Code for Information Interchange", "Applied Standard Code for International Interchange", "Advanced Standard Code for Information Interchange", "Automatic System Code for Integrated Information"],
     correct: 0,
     explanation: "As per DA-262 notes: ASCII stands for American Standard Code for Information Interchange. In ASCII, A=65, Z=90, a=97, z=121. These codes convert alphabets to digital and binary form."
   },
-{
-    id: "d262_095", subject: "da-262",
+  {
+    id: "d262_095",
+    subject: "da-262",
     question: "The Windows feature 'Object Linking and Embedding (OLE)' allows:",
     options: ["Embedding antivirus protection for general office use", "Linking hardware components to the OS in basic computer operations", "Pasting a portion of one document into another with advanced document linking", "Creating hyperlinks to websites for data management only"],
     correct: 2,
     explanation: "As per DA-262 notes: Windows provides advanced document linking features called Dynamic Data Exchange (DDE) and Object Linking and Embedding (OLE), which allow pasting portions of one document into another."
   },
-{
-    id: "d262_096", subject: "da-262",
+  {
+    id: "d262_096",
+    subject: "da-262",
     question: "MS-DOS was developed by Bill Gates at what age?",
     options: ["19 years", "14 years", "17 years", "21 years"],
     correct: 0,
     explanation: "As per DA-262 notes: MS-DOS (Disk Operating System) was developed as early as 1980 by Bill Gates at the age of 19. It is suited for personal computers and is a single user, single task operating system."
   },
-{
-    id: "d262_097", subject: "da-262",
+  {
+    id: "d262_097",
+    subject: "da-262",
     question: "In DOS, the command 'DIR/P' is used for:",
     options: ["Printing the directory listing for general office use", "Displaying files sorted alphabetically in basic computer operations", "Pausing the listing whenever the screen is full", "Displaying files in parallel/side-by-side format"],
     correct: 2,
     explanation: "As per DA-262 notes: DIR/P pauses the listing of the directory whenever the screen is full. The next screen load of files can be displayed by pressing any key. DIR/W displays files in a five-column format."
   },
-{
-    id: "d262_099", subject: "da-262",
+  {
+    id: "d262_099",
+    subject: "da-262",
     question: "Which of the following is NOT a General Purpose data analysis software package?",
     options: ["SPSS (Statistical Package for Social Science)", "GENSTAT", "MSTAT", "WORDSTAR"],
     correct: 3,
     explanation: "As per DA-262 notes: SPSS, MSTAT, MICROSTAT, GENSTAT, SAS are Data Analysis packages. WORDSTAR is a Word Processing package along with WORD PERFECT, MS-Word, etc."
   },
-{
-    id: "d262_100", subject: "da-262",
+  {
+    id: "d262_100",
+    subject: "da-262",
     question: "The Windows feature 'Taskbar' is characterized by:",
     options: ["A floating toolbar that can be moved anywhere for general office use", "A horizontal bar at the bottom of screen with START menu on left and Notification area on right", "A toolbar that appears only when the mouse hovers over it in basic computer operations", "A vertical bar on the left side of the screen for data management only"],
     correct: 1,
     explanation: "As per DA-262 notes: Taskbar is the rectangular bar that runs horizontally across the bottom of the screen. It has the START menu on the left and the Notification area on the right. All open applications are shown on the Taskbar."
   },
-
-
   {
     id: "d262c_001",
     subject: "da-262",
