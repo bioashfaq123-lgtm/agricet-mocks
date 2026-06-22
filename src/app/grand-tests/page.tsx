@@ -16,7 +16,7 @@ const difficultyConfig = {
 };
 
 const FEATURES = [
-  { icon: BookOpen,  text: "1,000 Questions" },
+  { icon: BookOpen,  text: "1,200 Questions" },
   { icon: Clock,     text: "100 min / Test" },
   { icon: Zap,       text: "Detailed Explanations" },
   { icon: BarChart2, text: "Score & Analysis" },

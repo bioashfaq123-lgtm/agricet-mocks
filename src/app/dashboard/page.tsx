@@ -139,13 +139,13 @@ export default function DashboardPage() {
             <div className="flex-1">
               <div className="flex items-center gap-2 mb-1">
                 <Trophy className="w-5 h-5 text-amber-300" />
-                <h3 className="font-black text-base">10 Full-Length AGRICET Grand Tests</h3>
+                <h3 className="font-black text-base">12 Full-Length AGRICET Grand Tests</h3>
               </div>
               <p className="text-primary-100 text-sm mb-3">
                 100 questions · 100 minutes · All 17 subjects · PJTSAU standard · With explanations
               </p>
               <div className="flex flex-wrap gap-2 text-xs">
-                <span className="bg-white/20 px-2 py-1 rounded-lg font-semibold">1,000 Questions</span>
+                <span className="bg-white/20 px-2 py-1 rounded-lg font-semibold">1,200 Questions</span>
                 <span className="bg-white/20 px-2 py-1 rounded-lg font-semibold">Question Navigator</span>
                 <span className="bg-white/20 px-2 py-1 rounded-lg font-semibold">Score Analysis</span>
               </div>

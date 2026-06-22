@@ -378,7 +378,7 @@ export default function LandingPage() {
                 </div>
 
                 <h3 className="text-3xl md:text-4xl font-black leading-tight mb-3">
-                  10 Full-Length<br />
+                  12 Full-Length<br />
                   <span className="text-amber-400">Grand Mock Tests 🏆</span>
                 </h3>
                 <p className="text-green-200 text-sm mb-5 leading-relaxed max-w-sm mx-auto md:mx-0">
@@ -388,7 +388,7 @@ export default function LandingPage() {
                 {/* Feature pills */}
                 <div className="flex flex-wrap gap-2 justify-center md:justify-start mb-6">
                   {[
-                    { icon: "📚", text: "1,000 MCQs" },
+                    { icon: "📚", text: "1,200 MCQs" },
                     { icon: "⏱️", text: "Auto Timer" },
                     { icon: "🗂️", text: "Q Navigator" },
                     { icon: "📊", text: "Score Analysis" },
@@ -424,12 +424,12 @@ export default function LandingPage() {
                   )}
                   <Link href="/grand-tests"
                     className="inline-flex items-center gap-2 bg-white/15 hover:bg-white/25 text-white font-bold px-6 py-3 rounded-xl text-sm transition-all border border-white/20">
-                    View All 10 Tests <ArrowRight className="w-4 h-4" />
+                    View All 12 Tests <ArrowRight className="w-4 h-4" />
                   </Link>
                 </div>
               </div>
 
-              {/* RIGHT: All 10 Grand Test cards in 2×5 grid */}
+              {/* RIGHT: All 12 Grand Test cards in 2×6 grid */}
               <div className="flex-shrink-0 grid grid-cols-2 gap-2 w-full md:w-60">
                 {[
                   { n: "Grand Test 1",  color: "from-emerald-500 to-green-700"   },
@@ -442,6 +442,8 @@ export default function LandingPage() {
                   { n: "Grand Test 8",  color: "from-indigo-600 to-indigo-900"   },
                   { n: "Grand Test 9",  color: "from-lime-600 to-green-800"      },
                   { n: "Grand Test 10", color: "from-amber-600 to-yellow-800"    },
+                  { n: "Grand Test 11", color: "from-fuchsia-600 to-purple-800" },
+                  { n: "Grand Test 12", color: "from-red-600 to-rose-800"        },
                 ].map((t) => (
                   <div key={t.n} className={`bg-gradient-to-br ${t.color} rounded-xl p-3 text-white text-center shadow-md`}>
                     <div className="text-xs font-black leading-tight">{t.n}</div>

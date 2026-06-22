@@ -45,13 +45,13 @@ export default function PromoPage() {
             </h1>
 
             <p className="text-primary-200 text-sm md:text-base mb-4 max-w-xs leading-relaxed">
-              10 Full-Length Tests · 1,000 MCQs · All 17 Subjects · PJTSAU Standard
+              12 Full-Length Tests · 1,200 MCQs · All 17 Subjects · PJTSAU Standard
             </p>
 
             {/* Feature pills */}
             <div className="flex flex-wrap gap-2 mb-6">
               {[
-                { icon: BookOpen, label: "1,000 Questions" },
+                { icon: BookOpen, label: "1,200 Questions" },
                 { icon: Clock, label: "100 Min / Test" },
                 { icon: Zap, label: "Explanations" },
                 { icon: BarChart2, label: "Score Analysis" },
@@ -138,15 +138,15 @@ export default function PromoPage() {
             <span className="text-amber-400">Now Live! 🎉</span>
           </h2>
           <p className="text-primary-200 text-base mb-6 max-w-sm leading-relaxed">
-            10 Full-Length AGRICET Grand Tests<br />
-            1,000 Questions · All 17 DA Subjects<br />
+            12 Full-Length AGRICET Grand Tests<br />
+            1,200 Questions · All 17 DA Subjects<br />
             100 Minutes · PJTSAU Standard
           </p>
 
           {/* Highlights */}
           <div className="grid grid-cols-2 gap-3 w-full mb-7">
             {[
-              { icon: "🏆", text: "10 Grand Tests" },
+              { icon: "🏆", text: "12 Grand Tests" },
               { icon: "📊", text: "Score Analysis" },
               { icon: "💡", text: "Explanations" },
               { icon: "⏱️", text: "Auto Timer" },
