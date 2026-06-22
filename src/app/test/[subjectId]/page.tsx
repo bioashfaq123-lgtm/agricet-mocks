@@ -7,6 +7,9 @@ import { useAuth } from "@/contexts/AuthContext";
 import { getShuffledQuestions } from "@/data/questions";
 import { SUBJECTS, DEMO_SUBJECT_ID, DEMO_QUESTION_LIMIT } from "@/data/subjects";
 import { Question } from "@/types";
+import { getTe } from "@/data/translations";
+import Bilingual from "@/components/Bilingual";
+import LanguageToggle from "@/components/LanguageToggle";
 import { doc, updateDoc, addDoc, collection, serverTimestamp } from "firebase/firestore";
 import { db } from "@/lib/firebase";
 import toast from "react-hot-toast";
@@ -132,6 +135,7 @@ export default function TestPage() {
   }
 
   const current   = questions[currentIdx];
+  const te        = current ? getTe(current.id) : undefined;
   const answered  = answers[current?.id];
   const isAnswered = answered !== undefined;
   const showExp   = revealed[current?.id];
@@ -189,8 +193,9 @@ export default function TestPage() {
             <span className="text-sm font-medium text-gray-700">{subject?.icon} {subject?.name}</span>
             <span className="badge bg-primary-100 text-primary-700 text-xs capitalize">{mode}</span>
           </div>
-          <div className="flex items-center gap-4">
-            <span className="text-sm text-gray-500">{answeredCount}/{questions.length} answered</span>
+          <div className="flex items-center gap-3">
+            <LanguageToggle />
+            <span className="text-sm text-gray-500 hidden sm:inline">{answeredCount}/{questions.length} answered</span>
             {mode === "timed" && (
               <div className={`flex items-center gap-1.5 font-mono font-bold px-3 py-1 rounded-lg text-sm ${timeLeft < 300 ? "bg-red-100 text-red-600" : "bg-primary-100 text-primary-700"}`}>
                 <Clock className="w-4 h-4" />
@@ -220,9 +225,13 @@ export default function TestPage() {
               <span className="text-gray-400 text-sm">of {questions.length}</span>
             </div>
 
-            <p className="text-gray-900 font-medium text-base md:text-lg leading-relaxed mb-6 whitespace-pre-line">
-              {current?.question}
-            </p>
+            <Bilingual
+              as="p"
+              en={current?.question ?? ""}
+              te={te?.q}
+              className="text-gray-900 font-medium text-base md:text-lg leading-relaxed mb-6 whitespace-pre-line"
+              teClassName="mt-1 font-semibold"
+            />
 
             {/* Options */}
             <div className="space-y-3">
@@ -243,7 +252,7 @@ export default function TestPage() {
                     <span className="w-7 h-7 rounded-full border-2 border-current flex items-center justify-center text-xs font-bold flex-shrink-0">
                       {String.fromCharCode(65 + idx)}
                     </span>
-                    <span className="text-sm md:text-base">{opt}</span>
+                    <Bilingual as="span" className="text-sm md:text-base" en={opt} te={te?.o?.[idx]} teClassName="mt-0.5" />
                     {isAnswered && idx === current.correct && (
                       <CheckCircle className="w-5 h-5 text-green-600 ml-auto flex-shrink-0" />
                     )}
@@ -262,7 +271,7 @@ export default function TestPage() {
                   <AlertCircle className="w-4 h-4 text-blue-600" />
                   <span className="text-blue-700 font-semibold text-sm">Explanation</span>
                 </div>
-                <p className="text-blue-800 text-sm leading-relaxed">{current.explanation}</p>
+                <Bilingual as="p" className="text-blue-800 text-sm leading-relaxed" en={current.explanation} te={te?.e} teClassName="mt-1" />
               </div>
             )}
 

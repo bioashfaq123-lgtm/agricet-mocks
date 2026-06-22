@@ -2,6 +2,7 @@
 import "./globals.css";
 import { Toaster } from "react-hot-toast";
 import { AuthProvider } from "@/contexts/AuthContext";
+import { LanguageProvider } from "@/contexts/LanguageContext";
 import AppSplashScreen from "@/components/AppSplashScreen";
 import ChatBot from "@/components/ChatBot";
 import AnnouncementBanner from "@/components/AnnouncementBanner";
@@ -46,9 +47,13 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <meta name="theme-color" content="#16a34a" />
         <link rel="manifest" href="/manifest.json" />
         <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Telugu:wght@400;500;600;700&display=swap" rel="stylesheet" />
       </head>
       <body className="bg-gray-50 text-gray-900 antialiased">
         <AuthProvider>
+          <LanguageProvider>
           <AnnouncementBanner />
           <PWAInstallBanner />
           <AppSplashScreen>
@@ -64,6 +69,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               error: { style: { background: "#fef2f2", color: "#dc2626", border: "1px solid #fca5a5" } },
             }}
           />
+          </LanguageProvider>
         </AuthProvider>
       </body>
     </html>
