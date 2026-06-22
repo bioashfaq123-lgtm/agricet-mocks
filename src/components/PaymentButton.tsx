@@ -17,6 +17,21 @@ declare global {
   }
 }
 
+// ── Direct UPI (FamPay / PhonePe / GPay) payment details ──
+const PAY_PHONE  = "9059336236";          // pay-to number — works in every UPI app
+const PAY_AMOUNT = 199;
+// Set NEXT_PUBLIC_UPI_VPA to the real UPI ID for this number (e.g. "9059336236@ybl",
+// "9059336236@paytm", "9059336236@okaxis"). When set, the "Open in UPI app" button
+// and the scannable QR appear. Leave empty and only the manual number flow shows —
+// so we never render a QR that points at an unverified address.
+const UPI_VPA = process.env.NEXT_PUBLIC_UPI_VPA || "";
+const UPI_LINK = UPI_VPA
+  ? `upi://pay?pa=${UPI_VPA}&pn=${encodeURIComponent("AEO AGRICET Mocks")}&am=${PAY_AMOUNT}.00&cu=INR&tn=${encodeURIComponent("AGRICET Subscription")}`
+  : "";
+const UPI_QR = UPI_LINK
+  ? `https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=${encodeURIComponent(UPI_LINK)}`
+  : "";
+
 const loadRazorpay = () =>
   new Promise<boolean>((resolve) => {
     if (typeof window !== "undefined" && window.Razorpay) { resolve(true); return; }
@@ -30,10 +45,20 @@ const loadRazorpay = () =>
 export default function PaymentButton({ userId, userEmail, userName }: Props) {
   const [loading, setLoading]         = useState(false);
   const [loadingMsg, setLoadingMsg]   = useState("Processing...");
-  const [showManual, setShowManual]   = useState(false);
   const [txnId, setTxnId]             = useState("");
   const [txnSubmitting, setTxnSubmitting] = useState(false);
+  const [copied, setCopied]           = useState(false);
   const { refreshUserData }           = useAuth();
+
+  const handleCopyNumber = async () => {
+    try {
+      await navigator.clipboard.writeText(PAY_PHONE);
+      setCopied(true);
+      setTimeout(() => setCopied(false), 2000);
+    } catch {
+      toast.error(`Copy this number manually: ${PAY_PHONE}`);
+    }
+  };
 
   // ── Manual UPI payment submission ──
   const handleManualSubmit = async () => {
@@ -272,39 +297,79 @@ export default function PaymentButton({ userId, userEmail, userName }: Props) {
         ) : "Unlock All – ₹199"}
       </button>
 
-      {/* Manual payment option */}
+      {/* ── FamPay / UPI direct-pay (works when card checkout fails) ── */}
       {!loading && (
-        <div className="w-full text-center">
-          <button
-            onClick={() => setShowManual(!showManual)}
-            className="text-xs text-primary-600 hover:underline font-medium"
-          >
-            💸 Paid to 9059336236 from another phone? Click here
-          </button>
+        <div className="w-full">
+          <div className="flex items-center gap-2 my-1">
+            <div className="h-px bg-gray-200 flex-1" />
+            <span className="text-[11px] font-bold text-gray-400">OR</span>
+            <div className="h-px bg-gray-200 flex-1" />
+          </div>
 
-          {showManual && (
-            <div className="mt-3 bg-amber-50 border border-amber-200 rounded-xl px-4 py-4 text-left">
-              <p className="text-xs font-semibold text-amber-800 mb-1">📲 Enter your Transaction ID</p>
-              <p className="text-xs text-amber-700 mb-3 leading-relaxed">
-                Paid via PhonePe / Google Pay / bank to <strong>+91 90593 36236</strong>?
-                Enter the transaction ID shown after payment. We will verify and activate your access shortly.
-              </p>
-              <input
-                type="text"
-                value={txnId}
-                onChange={(e) => setTxnId(e.target.value)}
-                placeholder="e.g. T2506251234567890"
-                className="w-full border border-amber-300 rounded-lg px-3 py-2 text-sm text-gray-800 bg-white focus:outline-none focus:ring-2 focus:ring-amber-400 mb-3"
-              />
+          <div className="bg-violet-50 border border-violet-200 rounded-xl px-4 py-4 text-left w-full">
+            <p className="text-sm font-bold text-violet-800 mb-0.5">💳 Pay with FamPay / PhonePe / GPay</p>
+            <p className="text-xs text-violet-600 mb-3 leading-relaxed">
+              Using <strong>FamPay</strong> or another UPI app? Pay <strong>₹{PAY_AMOUNT}</strong> directly to the
+              number below, then enter your transaction ID to unlock access.
+            </p>
+
+            {/* Pay-to number with copy */}
+            <div className="flex items-center justify-between gap-2 bg-white border border-violet-200 rounded-lg px-3 py-2 mb-3">
+              <div>
+                <p className="text-[11px] text-gray-400 leading-none mb-0.5">Pay ₹{PAY_AMOUNT} to this number</p>
+                <p className="text-base font-black text-gray-800 tracking-wide">{PAY_PHONE}</p>
+              </div>
               <button
-                onClick={handleManualSubmit}
-                disabled={txnSubmitting}
-                className="w-full bg-amber-500 hover:bg-amber-600 text-white font-bold py-2 rounded-lg text-sm transition-all disabled:opacity-60"
+                onClick={handleCopyNumber}
+                className="shrink-0 bg-violet-100 hover:bg-violet-200 text-violet-700 text-xs font-bold px-3 py-1.5 rounded-lg transition-all"
               >
-                {txnSubmitting ? "Submitting..." : "Submit Transaction ID"}
+                {copied ? "✓ Copied" : "Copy"}
               </button>
             </div>
-          )}
+
+            {/* One-tap UPI app intent + QR (shown once UPI_VPA is configured) */}
+            {UPI_LINK && (
+              <div className="mb-3">
+                <a
+                  href={UPI_LINK}
+                  className="block w-full text-center bg-violet-600 hover:bg-violet-700 text-white font-bold py-2 rounded-lg text-sm transition-all mb-2"
+                >
+                  📲 Open in FamPay / UPI app — Pay ₹{PAY_AMOUNT}
+                </a>
+                {UPI_QR && (
+                  <div className="flex flex-col items-center">
+                    <p className="text-[11px] text-gray-400 mb-1">On a computer? Scan this with FamPay / any UPI app</p>
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                    <img src={UPI_QR} alt="UPI payment QR" width={150} height={150} className="rounded-lg border border-violet-200" />
+                  </div>
+                )}
+              </div>
+            )}
+
+            {/* Steps */}
+            <ol className="text-xs text-violet-700 list-decimal list-inside space-y-0.5 mb-3">
+              <li>Open FamPay (or PhonePe / GPay) → <strong>Pay</strong></li>
+              <li>Enter <strong>{PAY_PHONE}</strong> and pay <strong>₹{PAY_AMOUNT}</strong></li>
+              <li>Copy the <strong>Transaction ID</strong> and paste it below</li>
+            </ol>
+
+            {/* Transaction ID submission */}
+            <input
+              type="text"
+              value={txnId}
+              onChange={(e) => setTxnId(e.target.value)}
+              placeholder="Transaction ID — e.g. T2506251234567890"
+              className="w-full border border-violet-300 rounded-lg px-3 py-2 text-sm text-gray-800 bg-white focus:outline-none focus:ring-2 focus:ring-violet-400 mb-2"
+            />
+            <button
+              onClick={handleManualSubmit}
+              disabled={txnSubmitting}
+              className="w-full bg-violet-600 hover:bg-violet-700 text-white font-bold py-2 rounded-lg text-sm transition-all disabled:opacity-60"
+            >
+              {txnSubmitting ? "Submitting..." : "Submit Transaction ID & Unlock"}
+            </button>
+            <p className="text-[11px] text-violet-500 mt-2 text-center">Access is activated after we verify — usually within a few hours.</p>
+          </div>
         </div>
       )}
 
