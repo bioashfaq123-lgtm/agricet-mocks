@@ -11,7 +11,7 @@ import { doc, updateDoc, addDoc, collection, serverTimestamp } from "firebase/fi
 import { db } from "@/lib/firebase";
 import toast from "react-hot-toast";
 
-const TEST_DURATION = 200 * 60; // 200 minutes for timed mode (1 min per question)
+const SECONDS_PER_QUESTION = 60; // timed mode gives exactly 1 minute per question
 
 export default function TestPage() {
   const params       = useParams();
@@ -31,7 +31,7 @@ export default function TestPage() {
   const [currentIdx, setCurrentIdx]     = useState(0);
   const [answers, setAnswers]           = useState<Record<string, number>>({});
   const [revealed, setRevealed]         = useState<Record<string, boolean>>({});
-  const [timeLeft, setTimeLeft]         = useState(TEST_DURATION);
+  const [timeLeft, setTimeLeft]         = useState(0);
   const [testStarted, setTestStarted]   = useState(false);
   const [testEnded, setTestEnded]       = useState(false);
   const [loading, setLoading]           = useState(true);
@@ -45,6 +45,7 @@ export default function TestPage() {
     if (!hasAccess) { router.push("/dashboard"); return; }
     const qs = getShuffledQuestions(subjectId, limit);
     setQuestions(qs);
+    setTimeLeft(qs.length * SECONDS_PER_QUESTION); // 1 minute per question
     setLoading(false);
   }, [subjectId, hasAccess, limit, router]);
 
@@ -72,7 +73,7 @@ export default function TestPage() {
     });
     const total  = questions.length;
     const score  = Math.round((correct / total) * 100);
-    const timeTaken = TEST_DURATION - timeLeft;
+    const timeTaken = questions.length * SECONDS_PER_QUESTION - timeLeft;
 
     // Save to Firestore if logged in
     if (user) {
@@ -150,7 +151,7 @@ export default function TestPage() {
               <div className="text-xs text-gray-500">Questions</div>
             </div>
             <div className="bg-primary-50 rounded-xl p-3">
-              <div className="text-xl font-black text-primary-700">200</div>
+              <div className="text-xl font-black text-primary-700">{limit}</div>
               <div className="text-xs text-gray-500">Minutes</div>
             </div>
             <div className="bg-primary-50 rounded-xl p-3">
