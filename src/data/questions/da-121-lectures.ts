@@ -1,15 +1,7 @@
 // ===== FILE: da-121-lectures.ts =====
 import { Question } from "@/types";
 
-// DA-121: Soil Chemistry & Fertility — Lecture-wise Question Bank
-// Source: PJTSAU Diploma in Agriculture DA-121 course material
-// 150 questions (15 per lecture × 10 lectures)
-
 export const da121LectureQuestions: Question[] = [
-
-  // ─────────────────────────────────────────────────────────
-  // LECTURE 1: Soil Formation & Profiles
-  // ─────────────────────────────────────────────────────────
   {
     id: "d121l_001",
     subject: "da-121",
@@ -160,10 +152,6 @@ export const da121LectureQuestions: Question[] = [
     correct: 2,
     explanation: "Recent alluvial deposits along river deltas are classified as Entisols (little or no horizon development) or Inceptisols (weakly developed horizons) in USDA Soil Taxonomy."
   },
-
-  // ─────────────────────────────────────────────────────────
-  // LECTURE 2: Soil Physical Properties
-  // ─────────────────────────────────────────────────────────
   {
     id: "d121l_016",
     subject: "da-121",
@@ -314,10 +302,6 @@ export const da121LectureQuestions: Question[] = [
     correct: 2,
     explanation: "Repeated tillage of dry soil destroys aggregates through mechanical disruption and oxidises organic matter, reducing soil structure. Organic matter, earthworms, and root exudates all promote aggregation."
   },
-
-  // ─────────────────────────────────────────────────────────
-  // LECTURE 3: Soil Water & Air
-  // ─────────────────────────────────────────────────────────
   {
     id: "d121l_031",
     subject: "da-121",
@@ -353,10 +337,10 @@ export const da121LectureQuestions: Question[] = [
     subject: "da-121",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Hygroscopic water in soil is held with a matric suction greater than:",
-    options: ["–3.1 MPa", "–0.3 MPa", "–1.5 MPa", "–0.033 MPa"],
-    correct: 0,
-    explanation: "Hygroscopic water is the thin film of water held tightly by soil particles at suctions greater than –3.1 MPa (31 bar) and is not available to plants."
+    question: "The soil moisture tension at the hygroscopic coefficient is:",
+    options: ["15 bars", "1/3 bar", "31 bars", "1000 bars"],
+    correct: 2,
+    explanation: "The soil moisture tension at the hygroscopic coefficient is 31 bars; this water is not available to plants but is available to certain microbes."
   },
   {
     id: "d121l_035",
@@ -403,10 +387,10 @@ export const da121LectureQuestions: Question[] = [
     subject: "da-121",
     lecture: "lecture-3",
     lectureNo: 3,
-    question: "Capillary water in soil is held between what suction range?",
-    options: ["0 to –0.033 MPa in soil science", "–0.033 MPa to –1.5 MPa (0.33 to 15 bar)", "–1.5 MPa to –3.1 MPa for soil management", "Greater than –3.1 MPa (31 bar)"],
-    correct: 1,
-    explanation: "Capillary water is held in micropores at suctions between –0.033 MPa (FC) and –1.5 MPa (PWP). This is the fraction available to plants."
+    question: "The soil moisture tension at field capacity is:",
+    options: ["1/3 bar", "15 bars", "31 bars", "zero"],
+    correct: 0,
+    explanation: "The moisture tension at field capacity is 1/3 bar; at this point water has drained from the macropores while micropores remain filled with water available to plants."
   },
   {
     id: "d121l_040",
@@ -468,10 +452,6 @@ export const da121LectureQuestions: Question[] = [
     correct: 2,
     explanation: "Water in soil moves from regions of higher (less negative) water potential to lower (more negative) water potential — from wet to dry — in the same way it flows downhill under gravity."
   },
-
-  // ─────────────────────────────────────────────────────────
-  // LECTURE 4: Soil Chemical Properties & pH
-  // ─────────────────────────────────────────────────────────
   {
     id: "d121l_046",
     subject: "da-121",
@@ -622,10 +602,6 @@ export const da121LectureQuestions: Question[] = [
     correct: 1,
     explanation: "SAR = Na⁺/√[(Ca²⁺+Mg²⁺)/2] (all in meq/L). High SAR irrigation water increases soil ESP, causing structural degradation. SAR > 13 is generally considered hazardous."
   },
-
-  // ─────────────────────────────────────────────────────────
-  // LECTURE 5: Soil Organic Matter
-  // ─────────────────────────────────────────────────────────
   {
     id: "d121l_061",
     subject: "da-121",
@@ -701,10 +677,10 @@ export const da121LectureQuestions: Question[] = [
     subject: "da-121",
     lecture: "lecture-5",
     lectureNo: 5,
-    question: "Soil organic matter content of most Indian agricultural soils is considered low (deficient) when it is below:",
-    options: ["3%", "0.1%", "0.75%", "5%"],
+    question: "The C:N ratio of stable soil humus is approximately:",
+    options: ["1:10", "100:1", "10:1 to 12:1", "50:1"],
     correct: 2,
-    explanation: "Indian agricultural soils are generally classified as low in organic carbon when OC < 0.5% (roughly OM < 0.87%). The ICAR critical limit for SOM is ~0.75% OM or ~0.4% OC for adequate fertility."
+    explanation: "The C:N ratio of humus is generally 10:1 to 12:1; as organic residues (often with a wide C:N ratio of ~100:1) decompose, the ratio narrows and stabilises at that of humus."
   },
   {
     id: "d121l_069",
@@ -776,10 +752,6 @@ export const da121LectureQuestions: Question[] = [
     correct: 0,
     explanation: "Building SOM requires reducing oxidation (less tillage), returning organic inputs (FYM, crop residues, green manures), and promoting microbial biomass — all combined in integrated nutrient management."
   },
-
-  // ─────────────────────────────────────────────────────────
-  // LECTURE 6: Essential Macro Nutrients (N, P, K)
-  // ─────────────────────────────────────────────────────────
   {
     id: "d121l_076",
     subject: "da-121",
@@ -855,10 +827,10 @@ export const da121LectureQuestions: Question[] = [
     subject: "da-121",
     lecture: "lecture-6",
     lectureNo: 6,
-    question: "The critical phosphorus concentration in soil solution for adequate crop growth is approximately:",
-    options: ["0.2–0.3 mg P L⁻¹", "< 0.01 mg P L⁻¹", "50–100 mg P L⁻¹", "5–10 mg P L⁻¹"],
+    question: "Soil testing helps to determine specific soil conditions that limit crop yields, such as:",
+    options: ["Alkalinity, salinity and acidity", "Soil colour and texture only", "Slope and aspect only", "Temperature only"],
     correct: 0,
-    explanation: "The critical P concentration in soil solution for most crops is about 0.2–0.3 mg L⁻¹ (ppm). Below this, plant P uptake is insufficient for maximum growth."
+    explanation: "One objective of soil testing is to determine specific soil conditions like alkalinity (alkali), salinity and acidity that limit crop yields."
   },
   {
     id: "d121l_084",
@@ -930,10 +902,6 @@ export const da121LectureQuestions: Question[] = [
     correct: 0,
     explanation: "NUE of urea in flooded rice is typically only 30–50% due to ammonia volatilisation, denitrification, and leaching losses. Slow-release coatings, deep placement, and split application improve NUE."
   },
-
-  // ─────────────────────────────────────────────────────────
-  // LECTURE 7: Secondary & Micronutrients
-  // ─────────────────────────────────────────────────────────
   {
     id: "d121l_091",
     subject: "da-121",
@@ -1039,20 +1007,20 @@ export const da121LectureQuestions: Question[] = [
     subject: "da-121",
     lecture: "lecture-7",
     lectureNo: 7,
-    question: "The critical limit of available zinc in soil (DTPA extractable Zn) below which crops show deficiency is:",
-    options: ["2.0 mg kg⁻¹", "0.6 mg kg⁻¹", "0.1 mg kg⁻¹", "5.0 mg kg⁻¹"],
-    correct: 1,
-    explanation: "The critical limit for DTPA-extractable Zn in soil is 0.6 mg kg⁻¹. Below this, most crops (especially rice, maize, wheat) will show deficiency requiring zinc fertilisation."
+    question: "The availability of micronutrients such as zinc, iron, copper and manganese is generally reduced in:",
+    options: ["Sandy soils only", "Strongly acidic soils", "Alkaline (high pH) soils", "Waterlogged soils only"],
+    correct: 2,
+    explanation: "The availability of micronutrients like zinc, iron, copper and manganese decreases in alkaline/high-pH soils (e.g. lime-induced chlorosis of iron and zinc)."
   },
   {
     id: "d121l_102",
     subject: "da-121",
     lecture: "lecture-7",
     lectureNo: 7,
-    question: "Iron toxicity in rice ('bronzing') occurs when Fe²⁺ concentration in soil solution exceeds approximately:",
-    options: ["0.5 mg L⁻¹", "500 mg L⁻¹", "100–300 mg L⁻¹", "0.01 mg L⁻¹"],
-    correct: 2,
-    explanation: "Fe²⁺ toxicity (bronzing) in rice occurs when soil solution Fe²⁺ exceeds about 100–300 mg L⁻¹ in waterlogged, highly reduced soils. Symptoms include reddish-brown leaf discolouration."
+    question: "The critical limit of iron in plants is about:",
+    options: ["30 ppm (sufficiency range ~50)", "300 ppm", "3 ppm", "1000 ppm"],
+    correct: 0,
+    explanation: "The critical limit of iron in plants is about 30 ppm, with a sufficiency range around 50 ppm; deficiency causes interveinal chlorosis of young leaves."
   },
   {
     id: "d121l_103",
@@ -1084,10 +1052,6 @@ export const da121LectureQuestions: Question[] = [
     correct: 1,
     explanation: "Cl⁻ is required as a cofactor for the oxygen-evolving complex in Photosystem II (water splitting during light reactions of photosynthesis). Cl also regulates stomatal function."
   },
-
-  // ─────────────────────────────────────────────────────────
-  // LECTURE 8: Soil Fertility Evaluation
-  // ─────────────────────────────────────────────────────────
   {
     id: "d121l_106",
     subject: "da-121",
@@ -1123,10 +1087,10 @@ export const da121LectureQuestions: Question[] = [
     subject: "da-121",
     lecture: "lecture-8",
     lectureNo: 8,
-    question: "Bray-P1 method for soil P extraction uses which extractant?",
-    options: ["1N NH₄OAc at pH 7", "0.1N H₂SO₄", "0.03N NH₄F + 0.025N HCl", "0.5M NaHCO₃ at pH 8.5"],
+    question: "Soil testing for fertilizer recommendations chiefly involves the analysis of:",
+    options: ["Only soil colour", "Only total nitrogen", "N, P, K and soil pH", "Only soil texture"],
     correct: 2,
-    explanation: "The Bray-P1 extraction uses 0.03N NH₄F + 0.025N HCl — the fluoride dissolves Al-P and Fe-P in acid soils. The Olsen method (NaHCO₃, pH 8.5) is preferred for neutral to alkaline soils."
+    explanation: "Three elements - N, P and K - are widely deficient in soils and soil pH is a common limitation, so soil testing chiefly involves N, P, K and pH; secondary and micronutrient analysis is done on a regional basis."
   },
   {
     id: "d121l_110",
@@ -1143,10 +1107,10 @@ export const da121LectureQuestions: Question[] = [
     subject: "da-121",
     lecture: "lecture-8",
     lectureNo: 8,
-    question: "The critical limit of available soil potassium (NH₄OAc extractable K) for most crops in Indian soils is:",
-    options: ["< 110–150 kg K₂O ha⁻¹", "< 300 kg K₂O ha⁻¹", "< 50 kg K₂O ha⁻¹", "< 500 kg K₂O ha⁻¹"],
+    question: "Site-Specific Nutrient Management (SSNM) is based on the '4 Rs', namely right product, right rate, right time and:",
+    options: ["Right place", "Right price", "Right person", "Right packaging"],
     correct: 0,
-    explanation: "The critical limit for exchangeable K is typically 110–150 kg K₂O ha⁻¹ (or about 0.2 cmol(+) kg⁻¹). Soils below this are classified as K-deficient in ICAR recommendations."
+    explanation: "SSNM follows the 4 Rs - Right product, Right rate, Right time and Right place - to match nutrient supply to crop demand and minimise losses."
   },
   {
     id: "d121l_112",
@@ -1203,10 +1167,10 @@ export const da121LectureQuestions: Question[] = [
     subject: "da-121",
     lecture: "lecture-8",
     lectureNo: 8,
-    question: "The DTPA extraction solution (Lindsay and Norvell, 1978) is used to determine plant-available:",
-    options: ["Iron (Fe), Manganese (Mn), Zinc (Zn), and Copper (Cu) micronutrients", "Calcium (Ca) and Magnesium (Mg) in soil science", "Boron (B) and Molybdenum (Mo) for soil management", "Nitrogen (N) and phosphorus (P) in soil fertility"],
-    correct: 0,
-    explanation: "DTPA (diethylenetriaminepentaacetic acid) at pH 7.3 is the standard chelating extractant for Fe, Mn, Zn, and Cu in neutral to alkaline soils. It mimics root chelation activity."
+    question: "Soil testing as a programme is divided into how many phases?",
+    options: ["Six", "Two", "Four", "Ten"],
+    correct: 2,
+    explanation: "Soil testing is a four-phase programme: (i) collecting soil samples, (ii) extraction and determination of available nutrients, (iii) calibration and interpretation of results, and (iv) making fertilizer recommendations."
   },
   {
     id: "d121l_118",
@@ -1238,10 +1202,6 @@ export const da121LectureQuestions: Question[] = [
     correct: 2,
     explanation: "The GOI Soil Health Card scheme mandates soil testing and issuance of SHCs once every 3 years (two-year cycle in some states) to track changes in soil fertility and update recommendations."
   },
-
-  // ─────────────────────────────────────────────────────────
-  // LECTURE 9: Problem Soils
-  // ─────────────────────────────────────────────────────────
   {
     id: "d121l_121",
     subject: "da-121",
@@ -1392,10 +1352,6 @@ export const da121LectureQuestions: Question[] = [
     correct: 0,
     explanation: "Saline soils (and sodic soils) are concentrated in arid/semi-arid regions: Gujarat (Rann of Kutch), Rajasthan, Haryana, Punjab (canal irrigation areas), and Maharashtra's coastal/inland saline tracts."
   },
-
-  // ─────────────────────────────────────────────────────────
-  // LECTURE 10: Soil Conservation & Erosion
-  // ─────────────────────────────────────────────────────────
   {
     id: "d121l_136",
     subject: "da-121",
@@ -1546,9 +1502,6 @@ export const da121LectureQuestions: Question[] = [
     correct: 1,
     explanation: "Contour tillage and planting (furrows and crop rows perpendicular to slope) creates a series of small barriers that slow runoff, increase infiltration, and reduce rill erosion — the simplest mechanical conservation practice."
   },
-
-
-  // ── BATCH 2: Additional 100 questions from PJTSAU DA-121 Theory Notes (Soil Chemistry & Fertility) ──
   {
     id: "d121x_001",
     subject: "da-121",
@@ -2484,10 +2437,10 @@ export const da121LectureQuestions: Question[] = [
     subject: "da-121",
     lecture: "lecture-8",
     lectureNo: 8,
-    question: "Match the soil moisture constants with their definitions:\n     Column-I (Moisture constant) |  Column-II (Tension)        |  Column-III (Significance)\nA.  Saturation                   |  1.  31 bars (~15 bars)       |  i.   Plants wilt permanently\nB.  Field capacity               |  2.  0 bar                    |  ii.  All pores filled, no plant use\nC.  Permanent Wilting Point      |  3.  0.1-0.33 bar             |  iii. Available water for plants\nD.  Available Water Capacity     |  4.  FC - PWP                 |  iv.  Water between FC and PWP",
-    options: ["A-2-ii, B-3-iii, C-1-i,   D-4-iv", "A-3-iii, B-2-ii, C-4-iv,   D-1-i", "A-4-iv, B-1-i,   C-3-iii,  D-2-ii", "A-1-i,  B-4-iv,  C-2-ii,   D-3-iii"],
+    question: "Available water in soil is defined as the portion of water retained between:",
+    options: ["Field capacity and permanent wilting point", "Saturation and field capacity", "Wilting point and oven-dry", "Saturation and hygroscopic coefficient"],
     correct: 0,
-    explanation: "As per DA-121 notes: Saturation (0 bar, all pores filled); Field capacity (0.1-0.33 bar); Permanent Wilting Point (~15 bar, plants wilt permanently); Available Water = FC - PWP."
+    explanation: "Available water is the portion of soil water retained between field capacity (1/3 bar) and the permanent wilting point (15 bars), and is the water available to plants."
   },
   {
     id: "d121x_095",
@@ -2524,10 +2477,10 @@ export const da121LectureQuestions: Question[] = [
     subject: "da-121",
     lecture: "lecture-32",
     lectureNo: 32,
-    question: "Match the greenhouse gases with their agricultural sources:\n     Column-I (Gas)              |  Column-II (Source)          |  Column-III (GWP relative to CO2)\nA.  Methane (CH4)                |  1.  Synthetic fertilizers    |  i.   298x (very high)\nB.  Nitrous oxide (N2O)          |  2.  Paddy fields             |  ii.  21x\nC.  Carbon dioxide (CO2)         |  3.  Organic matter burning   |  iii. 1x (reference)\nD.  Water vapour                 |  4.  Transpiration, evap.     |  iv.  Variable",
-    options: ["A-2-ii, B-1-i,   C-3-iii,  D-4-iv", "A-1-i,  B-4-iv,  C-2-ii,   D-3-iii", "A-4-iv, B-3-iii, C-2-ii,   D-1-i", "A-3-iii, B-2-ii, C-1-i,    D-4-iv"],
-    correct: 0,
-    explanation: "As per DA-121 notes: CH4 (paddy fields, 21x GWP); N2O (fertilizers, 298x GWP); CO2 (burning, 1x reference); Water vapour (transpiration, variable GWP)."
+    question: "Agriculture contributes approximately what percentage of nitrous oxide (N₂O) emissions?",
+    options: ["20-30%", "5-10%", "70-90%", "100%"],
+    correct: 2,
+    explanation: "Agriculture contributes about 70-90% of nitrous oxide (N₂O) emissions; better nutrient management (e.g. SSNM) helps reduce these emissions."
   },
   {
     id: "d121x_099",
@@ -2638,5 +2591,5 @@ export const da121LectureQuestions: Question[] = [
     options: ["Mottling", "Leaching", "Gleization", "Eluviation"],
     correct: 0,
     explanation: "As per DA-121 notes: Frequently two or three colours occur in patches in a soil, which is called 'mottling'."
-  }
+  },
 ];

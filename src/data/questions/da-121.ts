@@ -1,3 +1,4 @@
+// ===== FILE: da-121.ts =====
 import { Question } from "@/types";
 
 export const da121Questions: Question[] = [
@@ -801,8 +802,6 @@ export const da121Questions: Question[] = [
     correct: 1,
     explanation: "Soil testing is divided into four phases: (i) Collecting the soil samples, (ii) Extraction and determining available nutrients, (iii) Calibrating and interpreting the analytical results, and (iv) Making the fertilizer recommendations."
   },
-
-  // ── BATCH 2: Additional 100 questions from PJTSAU DA-121 Theory Notes (Soil Chemistry & Fertility) ──
   {
     id: "d121x_001",
     subject: "da-121",
@@ -1738,10 +1737,10 @@ export const da121Questions: Question[] = [
     subject: "da-121",
     lecture: "lecture-8",
     lectureNo: 8,
-    question: "Match the soil moisture constants with their definitions:\n     Column-I (Moisture constant) |  Column-II (Tension)        |  Column-III (Significance)\nA.  Saturation                   |  1.  31 bars (~15 bars)       |  i.   Plants wilt permanently\nB.  Field capacity               |  2.  0 bar                    |  ii.  All pores filled, no plant use\nC.  Permanent Wilting Point      |  3.  0.1-0.33 bar             |  iii. Available water for plants\nD.  Available Water Capacity     |  4.  FC - PWP                 |  iv.  Water between FC and PWP",
-    options: ["A-3-iii, B-2-ii, C-4-iv,   D-1-i", "A-4-iv, B-1-i,   C-3-iii,  D-2-ii", "A-2-ii, B-3-iii, C-1-i,   D-4-iv", "A-1-i,  B-4-iv,  C-2-ii,   D-3-iii"],
+    question: "Available water in soil is defined as the portion of water retained between:",
+    options: ["Wilting point and oven-dry", "Saturation and field capacity", "Field capacity and permanent wilting point", "Saturation and hygroscopic coefficient"],
     correct: 2,
-    explanation: "As per DA-121 notes: Saturation (0 bar, all pores filled); Field capacity (0.1-0.33 bar); Permanent Wilting Point (~15 bar, plants wilt permanently); Available Water = FC - PWP."
+    explanation: "Available water is the portion of soil water retained between field capacity (1/3 bar) and the permanent wilting point (15 bars), and is the water available to plants."
   },
   {
     id: "d121x_095",
@@ -1778,10 +1777,10 @@ export const da121Questions: Question[] = [
     subject: "da-121",
     lecture: "lecture-32",
     lectureNo: 32,
-    question: "Match the greenhouse gases with their agricultural sources:\n     Column-I (Gas)              |  Column-II (Source)          |  Column-III (GWP relative to CO2)\nA.  Methane (CH4)                |  1.  Synthetic fertilizers    |  i.   298x (very high)\nB.  Nitrous oxide (N2O)          |  2.  Paddy fields             |  ii.  21x\nC.  Carbon dioxide (CO2)         |  3.  Organic matter burning   |  iii. 1x (reference)\nD.  Water vapour                 |  4.  Transpiration, evap.     |  iv.  Variable",
-    options: ["A-4-iv, B-3-iii, C-2-ii,   D-1-i", "A-3-iii, B-2-ii, C-1-i,    D-4-iv", "A-1-i,  B-4-iv,  C-2-ii,   D-3-iii", "A-2-ii, B-1-i,   C-3-iii,  D-4-iv"],
-    correct: 3,
-    explanation: "As per DA-121 notes: CH4 (paddy fields, 21x GWP); N2O (fertilizers, 298x GWP); CO2 (burning, 1x reference); Water vapour (transpiration, variable GWP)."
+    question: "Agriculture contributes approximately what percentage of nitrous oxide (N₂O) emissions?",
+    options: ["20-30%", "5-10%", "70-90%", "100%"],
+    correct: 2,
+    explanation: "Agriculture contributes about 70-90% of nitrous oxide (N₂O) emissions; better nutrient management (e.g. SSNM) helps reduce these emissions."
   },
   {
     id: "d121x_099",
@@ -1803,5 +1802,4 @@ export const da121Questions: Question[] = [
     correct: 2,
     explanation: "As per DA-121 notes: Heavy metals (industrial effluents, bioaccumulation); Persistent pesticides (overuse, accumulate in food chain); Nitrates (excess fertilizers, groundwater contamination); Plastic (packaging/mulching, blocks water/air)."
   },
-
 ];
