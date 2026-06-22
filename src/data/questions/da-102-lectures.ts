@@ -1,9 +1,11 @@
 import { Question } from "@/types";
 
 export const da102LectureQuestions: Question[] = [
-  // ── LECTURE 1: Rice / Paddy Cultivation ──────────────────────────────────
   {
-    id: "d102l_001", subject: "da-102", lecture: "lecture-1", lectureNo: 1,
+    id: "d102l_001",
+    subject: "da-102",
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "Rice belongs to the family:",
     options: ["Solanaceae", "Cucurbitaceae", "Fabaceae", "Poaceae"],
     correct: 3,
@@ -11,7 +13,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_002", subject: "da-102", lecture: "lecture-1", lectureNo: 1,
+    id: "d102l_002",
+    subject: "da-102",
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "The chromosome number of cultivated rice (Oryza sativa) is:",
     options: ["2n = 48", "2n = 28", "2n = 24", "2n = 14"],
     correct: 2,
@@ -19,7 +24,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_003", subject: "da-102", lecture: "lecture-1", lectureNo: 1,
+    id: "d102l_003",
+    subject: "da-102",
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "Which state is the largest producer of rice in India?",
     options: ["Uttar Pradesh", "West Bengal", "Punjab", "Andhra Pradesh"],
     correct: 1,
@@ -27,7 +35,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_004", subject: "da-102", lecture: "lecture-1", lectureNo: 1,
+    id: "d102l_004",
+    subject: "da-102",
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "The optimum temperature for rice cultivation is:",
     options: ["10–15°C", "5–10°C", "20–30°C", "35–40°C"],
     correct: 2,
@@ -35,7 +46,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_005", subject: "da-102", lecture: "lecture-1", lectureNo: 1,
+    id: "d102l_005",
+    subject: "da-102",
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "The spacing recommended for transplanted rice is:",
     options: ["50×50 cm", "20×15 cm", "10×10 cm", "30×30 cm"],
     correct: 1,
@@ -43,7 +57,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_006", subject: "da-102", lecture: "lecture-1", lectureNo: 1,
+    id: "d102l_006",
+    subject: "da-102",
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "The nitrogen dose recommended for high-yielding varieties of rice is:",
     options: ["150–200 kg/ha", "40–60 kg/ha", "80–120 kg/ha", "20–30 kg/ha"],
     correct: 2,
@@ -51,7 +68,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_007", subject: "da-102", lecture: "lecture-1", lectureNo: 1,
+    id: "d102l_007",
+    subject: "da-102",
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "Which method of rice cultivation is water-efficient?",
     options: ["Transplanting in agricultural meteorology", "Dibbling under atmospheric conditions", "SRI (System of Rice Intensification)", "Broadcast sowing"],
     correct: 2,
@@ -59,7 +79,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_008", subject: "da-102", lecture: "lecture-1", lectureNo: 1,
+    id: "d102l_008",
+    subject: "da-102",
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "The age of seedlings for transplanting in normal rice cultivation is:",
     options: ["10–15 days", "60–70 days", "45–50 days", "25–30 days"],
     correct: 3,
@@ -67,7 +90,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_009", subject: "da-102", lecture: "lecture-1", lectureNo: 1,
+    id: "d102l_009",
+    subject: "da-102",
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "Which variety of rice was the first high-yielding variety (HYV) released in India?",
     options: ["Swarna", "Samba Mahsuri", "Jaya", "IR-8"],
     correct: 3,
@@ -75,7 +101,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_010", subject: "da-102", lecture: "lecture-1", lectureNo: 1,
+    id: "d102l_010",
+    subject: "da-102",
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "The grain yield of rice generally varies between:",
     options: ["1000 and 2000 kg/ha", "4000 and 6000 kg/ha", "500 and 800 kg/ha", "200 and 400 kg/ha"],
     correct: 1,
@@ -83,15 +112,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_011", subject: "da-102", lecture: "lecture-1", lectureNo: 1,
-    question: "The grain yield of rice generally varies between:",
-    options: ["1000 and 2000 kg/ha", "4000 and 6000 kg/ha", "500 and 800 kg/ha", "200 and 400 kg/ha"],
-    correct: 1,
-    explanation: "25–30 kg/ha seed rate is used for raising nursery sufficient to transplant one hectare.",
-    difficulty: "medium"
-  },
-  {
-    id: "d102l_012", subject: "da-102", lecture: "lecture-1", lectureNo: 1,
+    id: "d102l_012",
+    subject: "da-102",
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "Photoperiod-insensitive rice varieties flower based on:",
     options: ["Day length", "Age of the crop", "Rainfall", "Temperature"],
     correct: 1,
@@ -99,7 +123,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_013", subject: "da-102", lecture: "lecture-1", lectureNo: 1,
+    id: "d102l_013",
+    subject: "da-102",
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "The critical stage of rice for moisture stress is:",
     options: ["Tillering", "Ripening", "Panicle initiation and flowering", "Germination"],
     correct: 2,
@@ -107,7 +134,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_014", subject: "da-102", lecture: "lecture-1", lectureNo: 1,
+    id: "d102l_014",
+    subject: "da-102",
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "Harvesting of rice is done when grain moisture is:",
     options: ["40–45%", "5–10%", "18–22%", "30–35%"],
     correct: 2,
@@ -115,17 +145,21 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_015", subject: "da-102", lecture: "lecture-1", lectureNo: 1,
+    id: "d102l_015",
+    subject: "da-102",
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "Rice is a _____ day plant.",
     options: ["Day neutral", "Long day", "Short day", "Very long day"],
     correct: 2,
     explanation: "Traditional rice varieties are short-day plants that flower when day length decreases.",
     difficulty: "easy"
   },
-
-  // ── LECTURE 2: Maize Cultivation ─────────────────────────────────────────
   {
-    id: "d102l_016", subject: "da-102", lecture: "lecture-2", lectureNo: 2,
+    id: "d102l_016",
+    subject: "da-102",
+    lecture: "lecture-2",
+    lectureNo: 2,
     question: "Maize belongs to the genus:",
     options: ["Zea", "Triticum", "Sorghum", "Pennisetum"],
     correct: 0,
@@ -133,7 +167,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_017", subject: "da-102", lecture: "lecture-2", lectureNo: 2,
+    id: "d102l_017",
+    subject: "da-102",
+    lecture: "lecture-2",
+    lectureNo: 2,
     question: "Maize is a _____ plant (based on photosynthesis).",
     options: ["C4", "C3", "C2", "CAM"],
     correct: 0,
@@ -141,7 +178,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_018", subject: "da-102", lecture: "lecture-2", lectureNo: 2,
+    id: "d102l_018",
+    subject: "da-102",
+    lecture: "lecture-2",
+    lectureNo: 2,
     question: "The optimum pH for maize cultivation is:",
     options: ["4.5–5.0", "3.0–4.0", "8.0–9.0", "5.5–7.5"],
     correct: 3,
@@ -149,7 +189,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_019", subject: "da-102", lecture: "lecture-2", lectureNo: 2,
+    id: "d102l_019",
+    subject: "da-102",
+    lecture: "lecture-2",
+    lectureNo: 2,
     question: "Seed rate for maize cultivation is approximately:",
     options: ["80 kg/ha", "5 kg/ha", "20 kg/ha", "150 kg/ha"],
     correct: 2,
@@ -157,7 +200,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_020", subject: "da-102", lecture: "lecture-2", lectureNo: 2,
+    id: "d102l_020",
+    subject: "da-102",
+    lecture: "lecture-2",
+    lectureNo: 2,
     question: "Tassels in maize represent:",
     options: ["Female flowers", "Male flowers", "Leaves", "Seed pods"],
     correct: 1,
@@ -165,7 +211,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_021", subject: "da-102", lecture: "lecture-2", lectureNo: 2,
+    id: "d102l_021",
+    subject: "da-102",
+    lecture: "lecture-2",
+    lectureNo: 2,
     question: "The critical stage of maize for irrigation is:",
     options: ["Silking and tasseling", "Germination", "Maturity", "Knee-high stage"],
     correct: 0,
@@ -173,7 +222,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_022", subject: "da-102", lecture: "lecture-2", lectureNo: 2,
+    id: "d102l_022",
+    subject: "da-102",
+    lecture: "lecture-2",
+    lectureNo: 2,
     question: "Maize is popularly known as:",
     options: ["Queen of cereals", "King of cereals", "Miracle crop", "Wonder grain"],
     correct: 0,
@@ -181,7 +233,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_023", subject: "da-102", lecture: "lecture-2", lectureNo: 2,
+    id: "d102l_023",
+    subject: "da-102",
+    lecture: "lecture-2",
+    lectureNo: 2,
     question: "In maize, the most critical period for moisture stress is the:",
     options: ["Seedling stage", "Germination stage", "Flowering stage (tasselling and silking)", "Physiological maturity"],
     correct: 2,
@@ -189,15 +244,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d102l_024", subject: "da-102", lecture: "lecture-2", lectureNo: 2,
-    question: "In maize, the most critical period for moisture stress is the:",
-    options: ["Seedling stage", "Germination stage", "Flowering stage (tasselling and silking)", "Physiological maturity"],
-    correct: 2,
-    explanation: "QPM has increased levels of lysine and tryptophan, making it superior in protein quality.",
-    difficulty: "medium"
-  },
-  {
-    id: "d102l_025", subject: "da-102", lecture: "lecture-2", lectureNo: 2,
+    id: "d102l_025",
+    subject: "da-102",
+    lecture: "lecture-2",
+    lectureNo: 2,
     question: "Recommended spacing for maize is:",
     options: ["15×10 cm", "60×20–25 cm", "30×30 cm", "100×100 cm"],
     correct: 1,
@@ -205,7 +255,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_026", subject: "da-102", lecture: "lecture-2", lectureNo: 2,
+    id: "d102l_026",
+    subject: "da-102",
+    lecture: "lecture-2",
+    lectureNo: 2,
     question: "Fall Armyworm (Spodoptera frugiperda) was first reported in India in:",
     options: ["2023", "2012", "2005", "2018"],
     correct: 3,
@@ -213,7 +266,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_027", subject: "da-102", lecture: "lecture-2", lectureNo: 2,
+    id: "d102l_027",
+    subject: "da-102",
+    lecture: "lecture-2",
+    lectureNo: 2,
     question: "Maize is predominantly a _____ pollinated crop.",
     options: ["Cleistogamous", "Chasmogamous", "Self", "Cross"],
     correct: 3,
@@ -221,7 +277,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_028", subject: "da-102", lecture: "lecture-2", lectureNo: 2,
+    id: "d102l_028",
+    subject: "da-102",
+    lecture: "lecture-2",
+    lectureNo: 2,
     question: "Nitrogen requirement for hybrid maize per hectare is approximately:",
     options: ["30 kg", "250 kg", "150–180 kg", "80 kg"],
     correct: 2,
@@ -229,7 +288,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_029", subject: "da-102", lecture: "lecture-2", lectureNo: 2,
+    id: "d102l_029",
+    subject: "da-102",
+    lecture: "lecture-2",
+    lectureNo: 2,
     question: "The ear (cob) in maize bears:",
     options: ["Vegetative buds", "Male flowers", "Both male and female", "Female flowers (pistillate)"],
     correct: 3,
@@ -237,17 +299,21 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_030", subject: "da-102", lecture: "lecture-2", lectureNo: 2,
+    id: "d102l_030",
+    subject: "da-102",
+    lecture: "lecture-2",
+    lectureNo: 2,
     question: "Maize is harvested when grain moisture is:",
     options: ["40–50%", "5–10%", "15–20%", "30–35%"],
     correct: 2,
     explanation: "Maize is harvested at 15–20% moisture content to avoid field losses.",
     difficulty: "medium"
   },
-
-  // ── LECTURE 3: Sorghum & Pearl Millet ────────────────────────────────────
   {
-    id: "d102l_031", subject: "da-102", lecture: "lecture-3", lectureNo: 3,
+    id: "d102l_031",
+    subject: "da-102",
+    lecture: "lecture-3",
+    lectureNo: 3,
     question: "Sorghum is botanically known as:",
     options: ["Eleusine coracana", "Sorghum vulgare / S. bicolor", "Panicum miliaceum", "Pennisetum glaucum"],
     correct: 1,
@@ -255,7 +321,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_032", subject: "da-102", lecture: "lecture-3", lectureNo: 3,
+    id: "d102l_032",
+    subject: "da-102",
+    lecture: "lecture-3",
+    lectureNo: 3,
     question: "Pearl millet is botanically known as:",
     options: ["Panicum sumatrense", "Sorghum bicolor", "Pennisetum glaucum", "Setaria italica"],
     correct: 2,
@@ -263,7 +332,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_033", subject: "da-102", lecture: "lecture-3", lectureNo: 3,
+    id: "d102l_033",
+    subject: "da-102",
+    lecture: "lecture-3",
+    lectureNo: 3,
     question: "Sorghum is called _____ in Telugu:",
     options: ["Ragi", "Sajja", "Jonna", "Korralu"],
     correct: 2,
@@ -271,7 +343,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_034", subject: "da-102", lecture: "lecture-3", lectureNo: 3,
+    id: "d102l_034",
+    subject: "da-102",
+    lecture: "lecture-3",
+    lectureNo: 3,
     question: "The most drought-tolerant cereal crop is:",
     options: ["Pearl millet", "Maize", "Wheat", "Barley"],
     correct: 0,
@@ -279,7 +354,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_035", subject: "da-102", lecture: "lecture-3", lectureNo: 3,
+    id: "d102l_035",
+    subject: "da-102",
+    lecture: "lecture-3",
+    lectureNo: 3,
     question: "Charcoal rot of sorghum is caused by:",
     options: ["Macrophomina phaseolina", "Colletotrichum sublineolum", "Peronospora", "Fusarium oxysporum"],
     correct: 0,
@@ -287,7 +365,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d102l_036", subject: "da-102", lecture: "lecture-3", lectureNo: 3,
+    id: "d102l_036",
+    subject: "da-102",
+    lecture: "lecture-3",
+    lectureNo: 3,
     question: "Sorghum is the basic food crop in which regions of the world?",
     options: ["Europe and North America", "Asia and Africa", "Australia and Antarctica", "South America only"],
     correct: 1,
@@ -295,15 +376,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_037", subject: "da-102", lecture: "lecture-3", lectureNo: 3,
-    question: "Sorghum is the basic food crop in which regions of the world?",
-    options: ["Europe and North America", "Asia and Africa", "Australia and Antarctica", "South America only"],
-    correct: 1,
-    explanation: "Shoot fly (Atherigona soccata) is a serious pest of sorghum causing dead heart.",
-    difficulty: "medium"
-  },
-  {
-    id: "d102l_038", subject: "da-102", lecture: "lecture-3", lectureNo: 3,
+    id: "d102l_038",
+    subject: "da-102",
+    lecture: "lecture-3",
+    lectureNo: 3,
     question: "Seed rate of sorghum for kharif season is:",
     options: ["25 kg/ha", "10 kg/ha", "5 kg/ha", "50 kg/ha"],
     correct: 1,
@@ -311,7 +387,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_039", subject: "da-102", lecture: "lecture-3", lectureNo: 3,
+    id: "d102l_039",
+    subject: "da-102",
+    lecture: "lecture-3",
+    lectureNo: 3,
     question: "CSH-16 is a hybrid variety of:",
     options: ["Pearl millet", "Sorghum", "Maize", "Barley"],
     correct: 1,
@@ -319,7 +398,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_040", subject: "da-102", lecture: "lecture-3", lectureNo: 3,
+    id: "d102l_040",
+    subject: "da-102",
+    lecture: "lecture-3",
+    lectureNo: 3,
     question: "Spacing for pearl millet is:",
     options: ["100×60 cm", "45×15 cm", "5×5 cm", "15×10 cm"],
     correct: 1,
@@ -327,7 +409,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_041", subject: "da-102", lecture: "lecture-3", lectureNo: 3,
+    id: "d102l_041",
+    subject: "da-102",
+    lecture: "lecture-3",
+    lectureNo: 3,
     question: "Nitrogen requirement of irrigated sorghum is approximately:",
     options: ["20–30 kg/ha", "80–100 kg/ha", "150–200 kg/ha", "10 kg/ha"],
     correct: 1,
@@ -335,7 +420,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_042", subject: "da-102", lecture: "lecture-3", lectureNo: 3,
+    id: "d102l_042",
+    subject: "da-102",
+    lecture: "lecture-3",
+    lectureNo: 3,
     question: "Striga (witchweed) causes severe damage to:",
     options: ["Pulses", "Sorghum and millet", "Groundnut", "Cotton"],
     correct: 1,
@@ -343,7 +431,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_043", subject: "da-102", lecture: "lecture-3", lectureNo: 3,
+    id: "d102l_043",
+    subject: "da-102",
+    lecture: "lecture-3",
+    lectureNo: 3,
     question: "Sweet sorghum is used for production of:",
     options: ["Oil", "Fiber", "Ethanol / bioethanol", "Fodder only"],
     correct: 2,
@@ -351,7 +442,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_044", subject: "da-102", lecture: "lecture-3", lectureNo: 3,
+    id: "d102l_044",
+    subject: "da-102",
+    lecture: "lecture-3",
+    lectureNo: 3,
     question: "The grain of pearl millet is rich in:",
     options: ["Vitamin C", "Starch only", "Iron, zinc and protein", "Glucosinolates"],
     correct: 2,
@@ -359,25 +453,21 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_045", subject: "da-102", lecture: "lecture-3", lectureNo: 3,
+    id: "d102l_045",
+    subject: "da-102",
+    lecture: "lecture-3",
+    lectureNo: 3,
     question: "Pearl millet (bajra) is best described as a crop that:",
     options: ["Requires standing water", "Withstands harsh climates and is drought tolerant", "Grows only in cold temperate zones", "Needs heavy shade"],
     correct: 1,
     explanation: "Source: pearl millet is drought tolerant and endowed with greater ability to withstand harsh climatic conditions.",
     difficulty: "hard"
   },
-
-  // ── LECTURE 4: Groundnut ──────────────────────────────────────────────────
   {
-    id: "d102l_046", subject: "da-102", lecture: "lecture-4", lectureNo: 4,
-    question: "Pearl millet (bajra) is best described as a crop that:",
-    options: ["Solanaceae", "Poaceae", "Euphorbiaceae", "Fabaceae"],
-    correct: 3,
-    explanation: "Groundnut (Arachis hypogaea) belongs to the family Fabaceae (Leguminosae).",
-    difficulty: "easy"
-  },
-  {
-    id: "d102l_047", subject: "da-102", lecture: "lecture-4", lectureNo: 4,
+    id: "d102l_047",
+    subject: "da-102",
+    lecture: "lecture-4",
+    lectureNo: 4,
     question: "Groundnut is unique because its pods develop:",
     options: ["Underground (geocarpy)", "On leaves", "Above ground", "On stems"],
     correct: 0,
@@ -385,7 +475,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_048", subject: "da-102", lecture: "lecture-4", lectureNo: 4,
+    id: "d102l_048",
+    subject: "da-102",
+    lecture: "lecture-4",
+    lectureNo: 4,
     question: "The average oil content in groundnut seed is approximately:",
     options: ["45–55%", "10–15%", "25–30%", "70–80%"],
     correct: 0,
@@ -393,7 +486,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_049", subject: "da-102", lecture: "lecture-4", lectureNo: 4,
+    id: "d102l_049",
+    subject: "da-102",
+    lecture: "lecture-4",
+    lectureNo: 4,
     question: "Groundnut is predominantly grown in which soil type?",
     options: ["Heavy clay soils", "Waterlogged soils", "Saline soils", "Sandy loam soils"],
     correct: 3,
@@ -401,7 +497,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_050", subject: "da-102", lecture: "lecture-4", lectureNo: 4,
+    id: "d102l_050",
+    subject: "da-102",
+    lecture: "lecture-4",
+    lectureNo: 4,
     question: "Which crop rotation involving groundnut is given in the source?",
     options: ["Rice - Wheat", "Sugarcane - Paddy", "Groundnut - Horsegram", "Maize - Cotton"],
     correct: 2,
@@ -409,15 +508,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_051", subject: "da-102", lecture: "lecture-4", lectureNo: 4,
-    question: "Which crop rotation involving groundnut is given in the source?",
-    options: ["Rice - Wheat", "Sugarcane - Paddy", "Groundnut - Horsegram", "Maize - Cotton"],
-    correct: 2,
-    explanation: "Calcium is essential for pod development and preventing peg rot in groundnut.",
-    difficulty: "medium"
-  },
-  {
-    id: "d102l_052", subject: "da-102", lecture: "lecture-4", lectureNo: 4,
+    id: "d102l_052",
+    subject: "da-102",
+    lecture: "lecture-4",
+    lectureNo: 4,
     question: "Seed rate for bunch type groundnut is:",
     options: ["100 kg/ha", "250 kg/ha", "10 kg/ha", "50 kg/ha"],
     correct: 0,
@@ -425,7 +519,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_053", subject: "da-102", lecture: "lecture-4", lectureNo: 4,
+    id: "d102l_053",
+    subject: "da-102",
+    lecture: "lecture-4",
+    lectureNo: 4,
     question: "Being a short-duration crop, groundnut is commonly grown as:",
     options: ["A perennial plantation crop", "An intercrop", "An aquatic crop", "A greenhouse crop"],
     correct: 1,
@@ -433,7 +530,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_054", subject: "da-102", lecture: "lecture-4", lectureNo: 4,
+    id: "d102l_054",
+    subject: "da-102",
+    lecture: "lecture-4",
+    lectureNo: 4,
     question: "Which of the following is a recommended cropping system with groundnut?",
     options: ["Rice - groundnut", "Cotton - sugarcane", "Tea - coffee", "Rubber - cocoa"],
     correct: 0,
@@ -441,15 +541,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_055", subject: "da-102", lecture: "lecture-4", lectureNo: 4,
-    question: "Which of the following is a recommended cropping system with groundnut?",
-    options: ["Rice - groundnut", "Cotton - sugarcane", "Tea - coffee", "Rubber - cocoa"],
-    correct: 0,
-    explanation: "Gujarat is the leading state in groundnut production in India.",
-    difficulty: "easy"
-  },
-  {
-    id: "d102l_056", subject: "da-102", lecture: "lecture-4", lectureNo: 4,
+    id: "d102l_056",
+    subject: "da-102",
+    lecture: "lecture-4",
+    lectureNo: 4,
     question: "Groundnut crop duration (bunch type) is approximately:",
     options: ["45 days", "150 days", "200 days", "90–100 days"],
     correct: 3,
@@ -457,7 +552,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_057", subject: "da-102", lecture: "lecture-4", lectureNo: 4,
+    id: "d102l_057",
+    subject: "da-102",
+    lecture: "lecture-4",
+    lectureNo: 4,
     question: "Gypsum application in groundnut is recommended at the time of:",
     options: ["Harvesting", "Land preparation", "Sowing", "Flowering / pegging"],
     correct: 3,
@@ -465,7 +563,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_058", subject: "da-102", lecture: "lecture-4", lectureNo: 4,
+    id: "d102l_058",
+    subject: "da-102",
+    lecture: "lecture-4",
+    lectureNo: 4,
     question: "Spacing for groundnut (bunch type) is:",
     options: ["30×10 cm", "10×5 cm", "60×30 cm", "100×50 cm"],
     correct: 0,
@@ -473,7 +574,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_059", subject: "da-102", lecture: "lecture-4", lectureNo: 4,
+    id: "d102l_059",
+    subject: "da-102",
+    lecture: "lecture-4",
+    lectureNo: 4,
     question: "The leaf spot of groundnut can be controlled by spraying:",
     options: ["Both A and B", "Mancozeb", "Neither A nor B", "Carbendazim"],
     correct: 0,
@@ -481,17 +585,21 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_060", subject: "da-102", lecture: "lecture-4", lectureNo: 4,
+    id: "d102l_060",
+    subject: "da-102",
+    lecture: "lecture-4",
+    lectureNo: 4,
     question: "Groundnut is a _____ crop in terms of nitrogen fixation.",
     options: ["Non-fixing legume", "Leguminous with symbiotic N₂ fixation", "Non-leguminous, non-fixing", "Free-living N₂ fixer"],
     correct: 1,
     explanation: "Groundnut fixes atmospheric nitrogen through Rhizobium symbiosis in root nodules.",
     difficulty: "easy"
   },
-
-  // ── LECTURE 5: Cotton ─────────────────────────────────────────────────────
   {
-    id: "d102l_061", subject: "da-102", lecture: "lecture-5", lectureNo: 5,
+    id: "d102l_061",
+    subject: "da-102",
+    lecture: "lecture-5",
+    lectureNo: 5,
     question: "In a Soybean + cotton intercropping system, a recommended row ratio is:",
     options: ["10:1", "2:1 or 3:1", "1:9", "5:5"],
     correct: 1,
@@ -499,7 +607,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_062", subject: "da-102", lecture: "lecture-5", lectureNo: 5,
+    id: "d102l_062",
+    subject: "da-102",
+    lecture: "lecture-5",
+    lectureNo: 5,
     question: "Greengram can be grown as an intercrop in:",
     options: ["Cotton and red gram", "Rice and wheat", "Sugarcane and tobacco", "Tea and coffee"],
     correct: 0,
@@ -507,7 +618,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_063", subject: "da-102", lecture: "lecture-5", lectureNo: 5,
+    id: "d102l_063",
+    subject: "da-102",
+    lecture: "lecture-5",
+    lectureNo: 5,
     question: "In the Green gram + Cotton intercropping system, the recommended ratio is:",
     options: ["1:1", "9:1", "3:1", "7:7"],
     correct: 2,
@@ -515,7 +629,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_064", subject: "da-102", lecture: "lecture-5", lectureNo: 5,
+    id: "d102l_064",
+    subject: "da-102",
+    lecture: "lecture-5",
+    lectureNo: 5,
     question: "Cowpea - cotton - wheat is an example of a:",
     options: ["Single (sole) crop", "Crop rotation/sequence", "Mixed forest", "Permanent fallow"],
     correct: 1,
@@ -523,15 +640,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_065", subject: "da-102", lecture: "lecture-5", lectureNo: 5,
-    question: "Cowpea - cotton - wheat is an example of a:",
-    options: ["Single (sole) crop", "Crop rotation/sequence", "Mixed forest", "Permanent fallow"],
-    correct: 1,
-    explanation: "In cotton, the flower bud is called a 'square'.",
-    difficulty: "medium"
-  },
-  {
-    id: "d102l_066", subject: "da-102", lecture: "lecture-5", lectureNo: 5,
+    id: "d102l_066",
+    subject: "da-102",
+    lecture: "lecture-5",
+    lectureNo: 5,
     question: "Soybean is suitable for intercropping with:",
     options: ["Paddy and wheat", "Tea and rubber", "Cotton and redgram", "Coconut and arecanut"],
     correct: 2,
@@ -539,15 +651,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_067", subject: "da-102", lecture: "lecture-5", lectureNo: 5,
-    question: "Soybean is suitable for intercropping with:",
-    options: ["Paddy and wheat", "Tea and rubber", "Cotton and redgram", "Coconut and arecanut"],
-    correct: 2,
-    explanation: "Bt hybrid cotton seed is sold in 450 g packets that cover one acre. Per hectare this equals ~1.1 kg (since 1 ha ≈ 2.47 acres). The per-acre unit is the industry standard (CICR / seed company recommendations).",
-    difficulty: "medium"
-  },
-  {
-    id: "d102l_068", subject: "da-102", lecture: "lecture-5", lectureNo: 5,
+    id: "d102l_068",
+    subject: "da-102",
+    lecture: "lecture-5",
+    lectureNo: 5,
     question: "The spacing recommended for hybrid cotton is:",
     options: ["150×90 cm", "200×200 cm", "90×60 cm", "30×15 cm"],
     correct: 2,
@@ -555,7 +662,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_069", subject: "da-102", lecture: "lecture-5", lectureNo: 5,
+    id: "d102l_069",
+    subject: "da-102",
+    lecture: "lecture-5",
+    lectureNo: 5,
     question: "Cotton in Telangana is mainly grown on which type of soils?",
     options: ["Black cotton soils", "Saline coastal sands", "Peaty marsh soils", "Lateritic gravels"],
     correct: 0,
@@ -563,15 +673,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_070", subject: "da-102", lecture: "lecture-5", lectureNo: 5,
-    question: "Cotton in Telangana is mainly grown on which type of soils?",
-    options: ["Black cotton soils", "Saline coastal sands", "Peaty marsh soils", "Lateritic gravels"],
-    correct: 0,
-    explanation: "Topping removes the terminal bud to stop upward growth and improve boll formation on laterals.",
-    difficulty: "medium"
-  },
-  {
-    id: "d102l_071", subject: "da-102", lecture: "lecture-5", lectureNo: 5,
+    id: "d102l_071",
+    subject: "da-102",
+    lecture: "lecture-5",
+    lectureNo: 5,
     question: "Cotton is harvested by:",
     options: ["Hand picking", "Combine harvester", "Reaping", "Mechanical picker only"],
     correct: 0,
@@ -579,7 +684,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_072", subject: "da-102", lecture: "lecture-5", lectureNo: 5,
+    id: "d102l_072",
+    subject: "da-102",
+    lecture: "lecture-5",
+    lectureNo: 5,
     question: "The top producer of cotton in India is:",
     options: ["Maharashtra", "Andhra Pradesh", "Gujarat", "Punjab"],
     correct: 2,
@@ -587,7 +695,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_073", subject: "da-102", lecture: "lecture-5", lectureNo: 5,
+    id: "d102l_073",
+    subject: "da-102",
+    lecture: "lecture-5",
+    lectureNo: 5,
     question: "Nitrogen dose for hybrid Bt cotton is approximately:",
     options: ["300 kg/ha", "120–150 kg/ha", "200–250 kg/ha", "40 kg/ha"],
     correct: 1,
@@ -595,7 +706,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_074", subject: "da-102", lecture: "lecture-5", lectureNo: 5,
+    id: "d102l_074",
+    subject: "da-102",
+    lecture: "lecture-5",
+    lectureNo: 5,
     question: "Pink bollworm (Pectinophora gossypiella) is a pest of:",
     options: ["Cotton", "Sorghum", "Rice", "Maize"],
     correct: 0,
@@ -603,17 +717,21 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_075", subject: "da-102", lecture: "lecture-5", lectureNo: 5,
+    id: "d102l_075",
+    subject: "da-102",
+    lecture: "lecture-5",
+    lectureNo: 5,
     question: "CICR stands for:",
     options: ["Central Institute for Cotton Research", "Central Insecticide Control Research", "Central Indian Crop Research", "Cotton Institute of Crop Regulation"],
     correct: 0,
     explanation: "CICR (Central Institute for Cotton Research) is located at Nagpur.",
     difficulty: "easy"
   },
-
-  // ── LECTURE 6: Red Gram / Pigeonpea ──────────────────────────────────────
   {
-    id: "d102l_076", subject: "da-102", lecture: "lecture-6", lectureNo: 6,
+    id: "d102l_076",
+    subject: "da-102",
+    lecture: "lecture-6",
+    lectureNo: 6,
     question: "Red gram (Pigeonpea) is botanically known as:",
     options: ["Cicer arietinum", "Cajanus cajan", "Lens culinaris", "Vigna radiata"],
     correct: 1,
@@ -621,7 +739,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_077", subject: "da-102", lecture: "lecture-6", lectureNo: 6,
+    id: "d102l_077",
+    subject: "da-102",
+    lecture: "lecture-6",
+    lectureNo: 6,
     question: "The chromosome number of pigeonpea is:",
     options: ["2n = 22", "2n = 24", "2n = 44", "2n = 14"],
     correct: 0,
@@ -629,7 +750,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d102l_078", subject: "da-102", lecture: "lecture-6", lectureNo: 6,
+    id: "d102l_078",
+    subject: "da-102",
+    lecture: "lecture-6",
+    lectureNo: 6,
     question: "Wilt of pigeonpea is caused by:",
     options: ["Sclerotinia sclerotiorum", "Alternaria alternata", "Phytophthora drechsleri", "Fusarium udum"],
     correct: 3,
@@ -637,7 +761,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_079", subject: "da-102", lecture: "lecture-6", lectureNo: 6,
+    id: "d102l_079",
+    subject: "da-102",
+    lecture: "lecture-6",
+    lectureNo: 6,
     question: "Seed rate of pigeonpea is:",
     options: ["100 kg/ha", "5 kg/ha", "50 kg/ha", "15–20 kg/ha"],
     correct: 3,
@@ -645,7 +772,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_080", subject: "da-102", lecture: "lecture-6", lectureNo: 6,
+    id: "d102l_080",
+    subject: "da-102",
+    lecture: "lecture-6",
+    lectureNo: 6,
     question: "The top producing state of pigeonpea in India is:",
     options: ["West Bengal", "Maharashtra", "Gujarat", "Punjab"],
     correct: 1,
@@ -653,7 +783,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_081", subject: "da-102", lecture: "lecture-6", lectureNo: 6,
+    id: "d102l_081",
+    subject: "da-102",
+    lecture: "lecture-6",
+    lectureNo: 6,
     question: "Turk's cap (Hairy pod) characteristic is associated with:",
     options: ["Chickpea", "Cowpea", "Soybean", "Pigeonpea pod borer damage"],
     correct: 3,
@@ -661,7 +794,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d102l_082", subject: "da-102", lecture: "lecture-6", lectureNo: 6,
+    id: "d102l_082",
+    subject: "da-102",
+    lecture: "lecture-6",
+    lectureNo: 6,
     question: "Pigeonpea (redgram) is the second most important pulse crop of India after:",
     options: ["Soybean", "Chickpea", "Groundnut", "Cowpea"],
     correct: 1,
@@ -669,15 +805,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_083", subject: "da-102", lecture: "lecture-6", lectureNo: 6,
-    question: "Pigeonpea (redgram) is the second most important pulse crop of India after:",
-    options: ["Soybean", "Chickpea", "Groundnut", "Cowpea"],
-    correct: 1,
-    explanation: "Medium-duration pigeonpea is spaced at 75 cm × 25 cm.",
-    difficulty: "medium"
-  },
-  {
-    id: "d102l_084", subject: "da-102", lecture: "lecture-6", lectureNo: 6,
+    id: "d102l_084",
+    subject: "da-102",
+    lecture: "lecture-6",
+    lectureNo: 6,
     question: "Which state stands top in area of pigeonpea (redgram) cultivation in India?",
     options: ["Kerala", "Punjab", "Maharashtra", "Assam"],
     correct: 2,
@@ -685,15 +816,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d102l_085", subject: "da-102", lecture: "lecture-6", lectureNo: 6,
-    question: "Which state stands top in area of pigeonpea (redgram) cultivation in India?",
-    options: ["Kerala", "Punjab", "Maharashtra", "Assam"],
-    correct: 2,
-    explanation: "ICPL-87119 (Asha) is a wilt and sterility-mosaic resistant pigeonpea variety.",
-    difficulty: "medium"
-  },
-  {
-    id: "d102l_086", subject: "da-102", lecture: "lecture-6", lectureNo: 6,
+    id: "d102l_086",
+    subject: "da-102",
+    lecture: "lecture-6",
+    lectureNo: 6,
     question: "Pigeonpea is mainly a _____ pollinated crop.",
     options: ["Self", "Cross (10–20%)", "Obligate cross", "Wind"],
     correct: 0,
@@ -701,7 +827,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_087", subject: "da-102", lecture: "lecture-6", lectureNo: 6,
+    id: "d102l_087",
+    subject: "da-102",
+    lecture: "lecture-6",
+    lectureNo: 6,
     question: "The protein content in pigeonpea grain is approximately:",
     options: ["40%", "22%", "5%", "10%"],
     correct: 1,
@@ -709,7 +838,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_088", subject: "da-102", lecture: "lecture-6", lectureNo: 6,
+    id: "d102l_088",
+    subject: "da-102",
+    lecture: "lecture-6",
+    lectureNo: 6,
     question: "Pod borer (Helicoverpa armigera) damage in pigeonpea occurs at:",
     options: ["Harvesting in agricultural meteorology", "Flowering and pod formation stage", "Vegetative stage", "Germination under atmospheric conditions"],
     correct: 1,
@@ -717,7 +849,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_089", subject: "da-102", lecture: "lecture-6", lectureNo: 6,
+    id: "d102l_089",
+    subject: "da-102",
+    lecture: "lecture-6",
+    lectureNo: 6,
     question: "Duration of early maturing pigeonpea varieties is approximately:",
     options: ["270 days", "200 days", "100–130 days", "60–70 days"],
     correct: 2,
@@ -725,17 +860,21 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_090", subject: "da-102", lecture: "lecture-6", lectureNo: 6,
+    id: "d102l_090",
+    subject: "da-102",
+    lecture: "lecture-6",
+    lectureNo: 6,
     question: "Pigeonpea can fix approximately _____ kg N/ha per season through symbiosis:",
     options: ["40–80 kg", "5–10 kg", "300 kg", "200 kg"],
     correct: 0,
     explanation: "Pigeonpea fixes approximately 40–80 kg N/ha through Rhizobium symbiosis.",
     difficulty: "medium"
   },
-
-  // ── LECTURE 7: Blackgram & Greengram ─────────────────────────────────────
   {
-    id: "d102l_091", subject: "da-102", lecture: "lecture-7", lectureNo: 7,
+    id: "d102l_091",
+    subject: "da-102",
+    lecture: "lecture-7",
+    lectureNo: 7,
     question: "Blackgram is botanically known as:",
     options: ["Vigna radiata", "Phaseolus lunatus", "Vigna mungo", "Vigna unguiculata"],
     correct: 2,
@@ -743,7 +882,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_092", subject: "da-102", lecture: "lecture-7", lectureNo: 7,
+    id: "d102l_092",
+    subject: "da-102",
+    lecture: "lecture-7",
+    lectureNo: 7,
     question: "Greengram (Mung bean) is botanically known as:",
     options: ["Cajanus cajan", "Vigna mungo", "Vigna angularis", "Vigna radiata"],
     correct: 3,
@@ -751,7 +893,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_093", subject: "da-102", lecture: "lecture-7", lectureNo: 7,
+    id: "d102l_093",
+    subject: "da-102",
+    lecture: "lecture-7",
+    lectureNo: 7,
     question: "Greengram is the third most important pulse crop of India after chickpea and:",
     options: ["Pigeonpea", "Groundnut", "Soybean", "Cowpea"],
     correct: 0,
@@ -759,15 +904,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_094", subject: "da-102", lecture: "lecture-7", lectureNo: 7,
-    question: "Greengram is the third most important pulse crop of India after chickpea and:",
-    options: ["Pigeonpea", "Groundnut", "Soybean", "Cowpea"],
-    correct: 0,
-    explanation: "Blackgram seed rate is approximately 20 kg/ha.",
-    difficulty: "medium"
-  },
-  {
-    id: "d102l_095", subject: "da-102", lecture: "lecture-7", lectureNo: 7,
+    id: "d102l_095",
+    subject: "da-102",
+    lecture: "lecture-7",
+    lectureNo: 7,
     question: "Cercospora leaf spot of greengram is caused by:",
     options: ["Colletotrichum lindemuthianum", "Fusarium oxysporum", "Cercospora canescens", "Alternaria alternata"],
     correct: 2,
@@ -775,7 +915,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_096", subject: "da-102", lecture: "lecture-7", lectureNo: 7,
+    id: "d102l_096",
+    subject: "da-102",
+    lecture: "lecture-7",
+    lectureNo: 7,
     question: "Which state is the top producer of blackgram in India?",
     options: ["Andhra Pradesh & Telangana", "Rajasthan", "Punjab", "Bihar"],
     correct: 0,
@@ -783,7 +926,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_097", subject: "da-102", lecture: "lecture-7", lectureNo: 7,
+    id: "d102l_097",
+    subject: "da-102",
+    lecture: "lecture-7",
+    lectureNo: 7,
     question: "Duration of blackgram crop is approximately:",
     options: ["70–90 days", "200 days", "150 days", "30 days"],
     correct: 0,
@@ -791,7 +937,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_098", subject: "da-102", lecture: "lecture-7", lectureNo: 7,
+    id: "d102l_098",
+    subject: "da-102",
+    lecture: "lecture-7",
+    lectureNo: 7,
     question: "Protein content of greengram grain is approximately:",
     options: ["10%", "45%", "5%", "24%"],
     correct: 3,
@@ -799,7 +948,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_099", subject: "da-102", lecture: "lecture-7", lectureNo: 7,
+    id: "d102l_099",
+    subject: "da-102",
+    lecture: "lecture-7",
+    lectureNo: 7,
     question: "Spacing recommended for blackgram is:",
     options: ["100×60 cm", "30×10 cm", "60×30 cm", "10×5 cm"],
     correct: 1,
@@ -807,7 +959,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_100", subject: "da-102", lecture: "lecture-7", lectureNo: 7,
+    id: "d102l_100",
+    subject: "da-102",
+    lecture: "lecture-7",
+    lectureNo: 7,
     question: "The protein content of greengram is approximately:",
     options: ["5 percent", "60 percent", "24 percent", "10 percent"],
     correct: 2,
@@ -815,15 +970,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_101", subject: "da-102", lecture: "lecture-7", lectureNo: 7,
-    question: "The protein content of greengram is approximately:",
-    options: ["5 percent", "60 percent", "24 percent", "10 percent"],
-    correct: 2,
-    explanation: "Rhizobium phaseoli / R. vigna (cowpea type Rhizobium) forms nodules on blackgram and greengram.",
-    difficulty: "hard"
-  },
-  {
-    id: "d102l_102", subject: "da-102", lecture: "lecture-7", lectureNo: 7,
+    id: "d102l_102",
+    subject: "da-102",
+    lecture: "lecture-7",
+    lectureNo: 7,
     question: "Which variety of greengram is resistant to yellow mosaic virus?",
     options: ["MGG-347", "CO-4", "All of the above", "Pusa Vishal"],
     correct: 2,
@@ -831,7 +981,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_103", subject: "da-102", lecture: "lecture-7", lectureNo: 7,
+    id: "d102l_103",
+    subject: "da-102",
+    lecture: "lecture-7",
+    lectureNo: 7,
     question: "Harvesting of blackgram is done when:",
     options: ["All pods are green", "80–90% pods are ripe/dry", "Flower buds appear", "All pods have shattered"],
     correct: 1,
@@ -839,7 +992,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_104", subject: "da-102", lecture: "lecture-7", lectureNo: 7,
+    id: "d102l_104",
+    subject: "da-102",
+    lecture: "lecture-7",
+    lectureNo: 7,
     question: "Nitrogen dose for blackgram (starter dose) is:",
     options: ["20–25 kg/ha", "200 kg/ha", "100 kg/ha", "0 kg/ha (no N needed)"],
     correct: 0,
@@ -847,17 +1003,21 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_105", subject: "da-102", lecture: "lecture-7", lectureNo: 7,
+    id: "d102l_105",
+    subject: "da-102",
+    lecture: "lecture-7",
+    lectureNo: 7,
     question: "Pod shattering is a serious problem at maturity in:",
     options: ["Cotton", "Greengram", "Maize", "Rice"],
     correct: 1,
     explanation: "Greengram pods tend to shatter at maturity, so timely harvesting is essential.",
     difficulty: "easy"
   },
-
-  // ── LECTURE 8: Soybean ────────────────────────────────────────────────────
   {
-    id: "d102l_106", subject: "da-102", lecture: "lecture-8", lectureNo: 8,
+    id: "d102l_106",
+    subject: "da-102",
+    lecture: "lecture-8",
+    lectureNo: 8,
     question: "Soybean is botanically known as:",
     options: ["Glycine tomentella", "Glycine soja", "Glycine max", "Glycine wightii"],
     correct: 2,
@@ -865,7 +1025,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_107", subject: "da-102", lecture: "lecture-8", lectureNo: 8,
+    id: "d102l_107",
+    subject: "da-102",
+    lecture: "lecture-8",
+    lectureNo: 8,
     question: "Soybean seed contains approximately _____ % protein:",
     options: ["60%", "10%", "40%", "20%"],
     correct: 2,
@@ -873,7 +1036,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_108", subject: "da-102", lecture: "lecture-8", lectureNo: 8,
+    id: "d102l_108",
+    subject: "da-102",
+    lecture: "lecture-8",
+    lectureNo: 8,
     question: "Soybean oil content is approximately:",
     options: ["5%", "10%", "50%", "20%"],
     correct: 3,
@@ -881,23 +1047,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_109", subject: "da-102", lecture: "lecture-8", lectureNo: 8,
-    question: "Soybean is botanically known as:",
-    options: ["Glycine max", "Vigna mungo", "Cajanus cajan", "Cicer arietinum"],
-    correct: 0,
-    explanation: "Source: the scientific name of soybean is Glycine max (Family Fabaceae).",
-    difficulty: "medium"
-  },
-  {
-    id: "d102l_110", subject: "da-102", lecture: "lecture-8", lectureNo: 8,
-    question: "Soybean is botanically known as:",
-    options: ["Glycine max", "Vigna mungo", "Cajanus cajan", "Cicer arietinum"],
-    correct: 0,
-    explanation: "Recommended seed rate for soybean is about 75 kg/ha.",
-    difficulty: "medium"
-  },
-  {
-    id: "d102l_111", subject: "da-102", lecture: "lecture-8", lectureNo: 8,
+    id: "d102l_111",
+    subject: "da-102",
+    lecture: "lecture-8",
+    lectureNo: 8,
     question: "Soybean is called the 'Golden Bean' because of its:",
     options: ["High protein and oil content", "Origin in China", "Yellow seed coat", "Yellow flower colour"],
     correct: 0,
@@ -905,7 +1058,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_112", subject: "da-102", lecture: "lecture-8", lectureNo: 8,
+    id: "d102l_112",
+    subject: "da-102",
+    lecture: "lecture-8",
+    lectureNo: 8,
     question: "The leading soybean producing state in India is:",
     options: ["Rajasthan", "Madhya Pradesh", "Gujarat", "Maharashtra"],
     correct: 1,
@@ -913,7 +1069,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_113", subject: "da-102", lecture: "lecture-8", lectureNo: 8,
+    id: "d102l_113",
+    subject: "da-102",
+    lecture: "lecture-8",
+    lectureNo: 8,
     question: "Yellow mosaic disease of soybean is caused by:",
     options: ["Bean common mosaic virus", "Mungbean yellow mosaic virus (MYMV)", "Cowpea mosaic virus", "Soybean mosaic virus (SMV)"],
     correct: 1,
@@ -921,7 +1080,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_114", subject: "da-102", lecture: "lecture-8", lectureNo: 8,
+    id: "d102l_114",
+    subject: "da-102",
+    lecture: "lecture-8",
+    lectureNo: 8,
     question: "Soybean requires _____ soils for best growth:",
     options: ["Highly acidic (pH 4)", "Sandy in agricultural meteorology", "Waterlogged clay under atmospheric conditions", "Well-drained loamy soils with pH 6–7"],
     correct: 3,
@@ -929,7 +1091,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_115", subject: "da-102", lecture: "lecture-8", lectureNo: 8,
+    id: "d102l_115",
+    subject: "da-102",
+    lecture: "lecture-8",
+    lectureNo: 8,
     question: "Soybean is a _____ day plant:",
     options: ["Day neutral", "Very short day", "Long day", "Short day"],
     correct: 3,
@@ -937,7 +1102,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_116", subject: "da-102", lecture: "lecture-8", lectureNo: 8,
+    id: "d102l_116",
+    subject: "da-102",
+    lecture: "lecture-8",
+    lectureNo: 8,
     question: "The popular soybean variety released for central India is:",
     options: ["JS-335", "Bragg", "Pusa-16", "MACS-58"],
     correct: 0,
@@ -945,7 +1113,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_117", subject: "da-102", lecture: "lecture-8", lectureNo: 8,
+    id: "d102l_117",
+    subject: "da-102",
+    lecture: "lecture-8",
+    lectureNo: 8,
     question: "Spacing for soybean is:",
     options: ["45×5 cm", "10×5 cm", "200×100 cm", "100×50 cm"],
     correct: 0,
@@ -953,7 +1124,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_118", subject: "da-102", lecture: "lecture-8", lectureNo: 8,
+    id: "d102l_118",
+    subject: "da-102",
+    lecture: "lecture-8",
+    lectureNo: 8,
     question: "Soybean is harvested when:",
     options: ["All leaves are green", "60 DAS in agricultural meteorology", "Leaves start shedding and pods turn yellow/brown", "Flowers are blooming under atmospheric conditions"],
     correct: 2,
@@ -961,7 +1135,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_119", subject: "da-102", lecture: "lecture-8", lectureNo: 8,
+    id: "d102l_119",
+    subject: "da-102",
+    lecture: "lecture-8",
+    lectureNo: 8,
     question: "Soybean contains approximately how much oil and protein?",
     options: ["50% oil and 10% protein", "20% oil and 43% protein", "5% oil and 70% protein", "35% oil and 35% protein"],
     correct: 1,
@@ -969,17 +1146,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_120", subject: "da-102", lecture: "lecture-8", lectureNo: 8,
-    question: "Soybean contains approximately how much oil and protein?",
-    options: ["50% oil and 10% protein", "20% oil and 43% protein", "5% oil and 70% protein", "35% oil and 35% protein"],
-    correct: 1,
-    explanation: "Most soybean varieties mature in 90–110 days.",
-    difficulty: "easy"
-  },
-
-  // ── LECTURE 9: Sesamum & Castor ───────────────────────────────────────────
-  {
-    id: "d102l_121", subject: "da-102", lecture: "lecture-9", lectureNo: 9,
+    id: "d102l_121",
+    subject: "da-102",
+    lecture: "lecture-9",
+    lectureNo: 9,
     question: "Sesamum (gingelly) is botanically known as:",
     options: ["Sesamum indicum under atmospheric conditions", "Sesamum orientale in agricultural meteorology", "Both A and B (same species)", "Sesamum radiatum in weather analysis"],
     correct: 2,
@@ -987,7 +1157,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_122", subject: "da-102", lecture: "lecture-9", lectureNo: 9,
+    id: "d102l_122",
+    subject: "da-102",
+    lecture: "lecture-9",
+    lectureNo: 9,
     question: "Oil content in sesame seed is approximately:",
     options: ["50%", "25%", "75%", "10%"],
     correct: 0,
@@ -995,7 +1168,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_123", subject: "da-102", lecture: "lecture-9", lectureNo: 9,
+    id: "d102l_123",
+    subject: "da-102",
+    lecture: "lecture-9",
+    lectureNo: 9,
     question: "Cowpea is botanically known as:",
     options: ["Cajanus cajan", "Glycine max", "Vigna unguiculata", "Cicer arietinum"],
     correct: 2,
@@ -1003,7 +1179,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_124", subject: "da-102", lecture: "lecture-9", lectureNo: 9,
+    id: "d102l_124",
+    subject: "da-102",
+    lecture: "lecture-9",
+    lectureNo: 9,
     question: "Cowpea is also known as a:",
     options: ["Weed smothering crop", "King of pulses", "Queen of cereals", "Wonder oilseed"],
     correct: 0,
@@ -1011,7 +1190,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_125", subject: "da-102", lecture: "lecture-9", lectureNo: 9,
+    id: "d102l_125",
+    subject: "da-102",
+    lecture: "lecture-9",
+    lectureNo: 9,
     question: "The protein content of cowpea seeds is about:",
     options: ["5-6%", "45-50%", "23-24%", "10-12%"],
     correct: 2,
@@ -1019,15 +1201,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_126", subject: "da-102", lecture: "lecture-9", lectureNo: 9,
-    question: "The protein content of cowpea seeds is about:",
-    options: ["5-6%", "45-50%", "23-24%", "10-12%"],
-    correct: 2,
-    explanation: "Sesame seeds are very small (1000-seed weight ~3 g), so only 3–5 kg/ha is needed.",
-    difficulty: "easy"
-  },
-  {
-    id: "d102l_127", subject: "da-102", lecture: "lecture-9", lectureNo: 9,
+    id: "d102l_127",
+    subject: "da-102",
+    lecture: "lecture-9",
+    lectureNo: 9,
     question: "The leading state in sesame production in India is:",
     options: ["Rajasthan", "West Bengal", "Uttar Pradesh", "Gujarat"],
     correct: 3,
@@ -1035,7 +1212,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_128", subject: "da-102", lecture: "lecture-9", lectureNo: 9,
+    id: "d102l_128",
+    subject: "da-102",
+    lecture: "lecture-9",
+    lectureNo: 9,
     question: "Cowpea, being a warm-weather semi-arid crop, grows best between:",
     options: ["0 C and 10 C", "20 C and 30 C", "40 C and 50 C", "minus 5 C and 5 C"],
     correct: 1,
@@ -1043,7 +1223,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d102l_129", subject: "da-102", lecture: "lecture-9", lectureNo: 9,
+    id: "d102l_129",
+    subject: "da-102",
+    lecture: "lecture-9",
+    lectureNo: 9,
     question: "Horsegram is botanically known as:",
     options: ["Vigna radiata", "Dolichos biflorus (Macrotyloma uniflorum)", "Glycine max", "Cajanus cajan"],
     correct: 1,
@@ -1051,7 +1234,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_130", subject: "da-102", lecture: "lecture-9", lectureNo: 9,
+    id: "d102l_130",
+    subject: "da-102",
+    lecture: "lecture-9",
+    lectureNo: 9,
     question: "Horsegram is popularly described as a:",
     options: ["King of fruits", "Queen of spices", "Poor man's pulse and drought test crop", "Golden fibre crop"],
     correct: 2,
@@ -1059,7 +1245,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_131", subject: "da-102", lecture: "lecture-9", lectureNo: 9,
+    id: "d102l_131",
+    subject: "da-102",
+    lecture: "lecture-9",
+    lectureNo: 9,
     question: "The largest area under horsegram in India is in which state?",
     options: ["Karnataka", "Punjab", "West Bengal", "Gujarat"],
     correct: 0,
@@ -1067,7 +1256,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_132", subject: "da-102", lecture: "lecture-9", lectureNo: 9,
+    id: "d102l_132",
+    subject: "da-102",
+    lecture: "lecture-9",
+    lectureNo: 9,
     question: "The seed rate of horsegram for a kharif crop is about:",
     options: ["100-120 kg/ha", "15-16 kg/ha", "2-3 kg/ha", "50 kg/ha"],
     correct: 1,
@@ -1075,15 +1267,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_133", subject: "da-102", lecture: "lecture-9", lectureNo: 9,
-    question: "The seed rate of horsegram for a kharif crop is about:",
-    options: ["100-120 kg/ha", "15-16 kg/ha", "2-3 kg/ha", "50 kg/ha"],
-    correct: 1,
-    explanation: "Sesame is believed to have originated in Ethiopia/Africa and was one of the earliest cultivated oilseeds.",
-    difficulty: "hard"
-  },
-  {
-    id: "d102l_134", subject: "da-102", lecture: "lecture-9", lectureNo: 9,
+    id: "d102l_134",
+    subject: "da-102",
+    lecture: "lecture-9",
+    lectureNo: 9,
     question: "Horsegram is mainly cultivated as a:",
     options: ["Irrigated wetland crop", "Rainfed crop in low-rainfall areas", "Plantation crop", "Greenhouse crop"],
     correct: 1,
@@ -1091,17 +1278,21 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_135", subject: "da-102", lecture: "lecture-9", lectureNo: 9,
+    id: "d102l_135",
+    subject: "da-102",
+    lecture: "lecture-9",
+    lectureNo: 9,
     question: "Horsegram is mainly grown in which season?",
     options: ["August-November", "December-January", "Round the year under flooding", "Only in peak summer"],
     correct: 0,
     explanation: "Source: horsegram is grown mainly in August-November (and in February in summer).",
     difficulty: "hard"
   },
-
-  // ── LECTURE 10: Sunflower & Other Kharif Crops ────────────────────────────
   {
-    id: "d102l_136", subject: "da-102", lecture: "lecture-10", lectureNo: 10,
+    id: "d102l_136",
+    subject: "da-102",
+    lecture: "lecture-10",
+    lectureNo: 10,
     question: "Finger millet is commonly known as:",
     options: ["Bajra", "Jowar", "Ragi", "Korra"],
     correct: 2,
@@ -1109,7 +1300,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_137", subject: "da-102", lecture: "lecture-10", lectureNo: 10,
+    id: "d102l_137",
+    subject: "da-102",
+    lecture: "lecture-10",
+    lectureNo: 10,
     question: "Which state is the major producer of finger millet in India?",
     options: ["Karnataka", "Punjab", "Bihar", "Gujarat"],
     correct: 0,
@@ -1117,7 +1311,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_138", subject: "da-102", lecture: "lecture-10", lectureNo: 10,
+    id: "d102l_138",
+    subject: "da-102",
+    lecture: "lecture-10",
+    lectureNo: 10,
     question: "Finger millet contributes nearly what share of India's small millet produce?",
     options: ["5%", "90%", "40%", "15%"],
     correct: 2,
@@ -1125,7 +1322,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_139", subject: "da-102", lecture: "lecture-10", lectureNo: 10,
+    id: "d102l_139",
+    subject: "da-102",
+    lecture: "lecture-10",
+    lectureNo: 10,
     question: "The finger millet (ragi) crop matures in about:",
     options: ["1 month", "4 to 4.5 months", "8-9 months", "12 months"],
     correct: 1,
@@ -1133,7 +1333,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_140", subject: "da-102", lecture: "lecture-10", lectureNo: 10,
+    id: "d102l_140",
+    subject: "da-102",
+    lecture: "lecture-10",
+    lectureNo: 10,
     question: "The rainfed grain yield of finger millet is about:",
     options: ["7-8 q/ha", "30-35 q/ha", "1-2 q/ha", "50 q/ha"],
     correct: 0,
@@ -1141,7 +1344,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_141", subject: "da-102", lecture: "lecture-10", lectureNo: 10,
+    id: "d102l_141",
+    subject: "da-102",
+    lecture: "lecture-10",
+    lectureNo: 10,
     question: "Compared with other cereals, finger millet can better tolerate:",
     options: ["Waterlogging", "Frost", "Salinity", "Deep shade"],
     correct: 2,
@@ -1149,7 +1355,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "hard"
   },
   {
-    id: "d102l_142", subject: "da-102", lecture: "lecture-10", lectureNo: 10,
+    id: "d102l_142",
+    subject: "da-102",
+    lecture: "lecture-10",
+    lectureNo: 10,
     question: "Minor millets can be safely stored without pest/disease infestation for:",
     options: ["1 week", "6 months", "2-3 years", "10 years"],
     correct: 2,
@@ -1157,7 +1366,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_143", subject: "da-102", lecture: "lecture-10", lectureNo: 10,
+    id: "d102l_143",
+    subject: "da-102",
+    lecture: "lecture-10",
+    lectureNo: 10,
     question: "Minor millets are mainly grown in:",
     options: ["Drought and hilly areas", "Coastal wetlands", "Irrigated deltas", "Urban rooftops"],
     correct: 0,
@@ -1165,15 +1377,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_144", subject: "da-102", lecture: "lecture-10", lectureNo: 10,
-    question: "Minor millets are mainly grown in:",
-    options: ["Drought and hilly areas", "Coastal wetlands", "Irrigated deltas", "Urban rooftops"],
-    correct: 0,
-    explanation: "Cowpea is Vigna unguiculata.",
-    difficulty: "easy"
-  },
-  {
-    id: "d102l_145", subject: "da-102", lecture: "lecture-10", lectureNo: 10,
+    id: "d102l_145",
+    subject: "da-102",
+    lecture: "lecture-10",
+    lectureNo: 10,
     question: "Minor millets are an important staple food for:",
     options: ["Urban elites", "Tribal people", "Coastal fishermen", "Factory workers"],
     correct: 1,
@@ -1181,7 +1388,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_146", subject: "da-102", lecture: "lecture-10", lectureNo: 10,
+    id: "d102l_146",
+    subject: "da-102",
+    lecture: "lecture-10",
+    lectureNo: 10,
     question: "Minor millets are valued in the human diet for their high content of:",
     options: ["Cholesterol", "Saturated fat", "Fibre", "Refined sugar"],
     correct: 2,
@@ -1189,7 +1399,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_147", subject: "da-102", lecture: "lecture-10", lectureNo: 10,
+    id: "d102l_147",
+    subject: "da-102",
+    lecture: "lecture-10",
+    lectureNo: 10,
     question: "Finger millet is predominantly grown as a:",
     options: ["Dryland crop", "Deepwater crop", "Plantation crop", "Hydroponic crop"],
     correct: 0,
@@ -1197,7 +1410,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_148", subject: "da-102", lecture: "lecture-10", lectureNo: 10,
+    id: "d102l_148",
+    subject: "da-102",
+    lecture: "lecture-10",
+    lectureNo: 10,
     question: "Ragi sown during kharif generally:",
     options: ["Requires daily flooding", "Does not need any irrigation", "Needs greenhouse heating", "Requires sea water"],
     correct: 1,
@@ -1205,7 +1421,10 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d102l_149", subject: "da-102", lecture: "lecture-10", lectureNo: 10,
+    id: "d102l_149",
+    subject: "da-102",
+    lecture: "lecture-10",
+    lectureNo: 10,
     question: "With respect to season, finger millet is:",
     options: ["A strictly winter crop", "Not a season-bound crop", "An aquatic crop", "A biennial crop"],
     correct: 1,
@@ -1213,15 +1432,16 @@ export const da102LectureQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d102l_150", subject: "da-102", lecture: "lecture-10", lectureNo: 10,
+    id: "d102l_150",
+    subject: "da-102",
+    lecture: "lecture-10",
+    lectureNo: 10,
     question: "With respect to water requirement, minor millets are described as:",
     options: ["Drought tolerant", "Waterlogging dependent", "Irrigation intensive", "Flood requiring"],
     correct: 0,
     explanation: "Source: minor millets are drought tolerant crops.",
     difficulty: "medium"
   },
-
-  // ── BATCH 2: Additional 100 questions from PJTSAU DA-102 Theory Notes (Crop Production-I) ──
   {
     id: "d102x_001",
     subject: "da-102",
@@ -1435,8 +1655,8 @@ export const da102LectureQuestions: Question[] = [
   {
     id: "d102x_022",
     subject: "da-102",
-    lecture: "lecture-12",
-    lectureNo: 12,
+    lecture: "lecture-3",
+    lectureNo: 3,
     question: "The scientific name of Sorghum is:",
     options: ["Zea mays", "Pennisetum glaucum", "Sorghum bicolor", "Oryza sativa"],
     correct: 2,
@@ -1445,8 +1665,8 @@ export const da102LectureQuestions: Question[] = [
   {
     id: "d102x_023",
     subject: "da-102",
-    lecture: "lecture-12",
-    lectureNo: 12,
+    lecture: "lecture-3",
+    lectureNo: 3,
     question: "Sorghum is the basic food in:",
     options: ["Australia and Japan", "South America only", "Asia and Africa", "Europe and America"],
     correct: 2,
@@ -1455,8 +1675,8 @@ export const da102LectureQuestions: Question[] = [
   {
     id: "d102x_024",
     subject: "da-102",
-    lecture: "lecture-14",
-    lectureNo: 14,
+    lecture: "lecture-3",
+    lectureNo: 3,
     question: "The scientific name of Bajra (Pearl Millet) is:",
     options: ["Pennisetum glaucum", "Eleusine coracana", "Sorghum bicolor", "Oryza sativa"],
     correct: 0,
@@ -1465,8 +1685,8 @@ export const da102LectureQuestions: Question[] = [
   {
     id: "d102x_025",
     subject: "da-102",
-    lecture: "lecture-17",
-    lectureNo: 17,
+    lecture: "lecture-10",
+    lectureNo: 10,
     question: "The scientific name of Ragi (Finger Millet) is:",
     options: ["Eleusine coracana", "Sorghum bicolor", "Pennisetum glaucum", "Panicum miliaceum"],
     correct: 0,
@@ -1475,8 +1695,8 @@ export const da102LectureQuestions: Question[] = [
   {
     id: "d102x_026",
     subject: "da-102",
-    lecture: "lecture-17",
-    lectureNo: 17,
+    lecture: "lecture-10",
+    lectureNo: 10,
     question: "Ragi is considered beneficial for which type of patients:",
     options: ["Heart patients", "Liver patients", "Kidney patients", "Diabetic patients"],
     correct: 3,
@@ -1485,8 +1705,8 @@ export const da102LectureQuestions: Question[] = [
   {
     id: "d102x_027",
     subject: "da-102",
-    lecture: "lecture-18",
-    lectureNo: 18,
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "The scientific name of Redgram (Pigeon pea) is:",
     options: ["Cajanus cajan", "Vigna radiata", "Cicer arietinum", "Vigna mungo"],
     correct: 0,
@@ -1495,8 +1715,8 @@ export const da102LectureQuestions: Question[] = [
   {
     id: "d102x_028",
     subject: "da-102",
-    lecture: "lecture-20",
-    lectureNo: 20,
+    lecture: "lecture-6",
+    lectureNo: 6,
     question: "The scientific name of Bengal gram (Chickpea) is:",
     options: ["Cicer arietinum", "Cajanus cajan", "Glycine max", "Vigna mungo"],
     correct: 0,
@@ -1505,8 +1725,8 @@ export const da102LectureQuestions: Question[] = [
   {
     id: "d102x_029",
     subject: "da-102",
-    lecture: "lecture-20",
-    lectureNo: 20,
+    lecture: "lecture-2",
+    lectureNo: 2,
     question: "Kabuli chickpea differs from Desi chickpea in that it has:",
     options: ["Larger, cream-coloured seeds with smooth seed coat", "Better drought tolerance", "Higher protein content", "Smaller, dark-coloured seeds with rough coat"],
     correct: 0,
@@ -1515,8 +1735,8 @@ export const da102LectureQuestions: Question[] = [
   {
     id: "d102x_030",
     subject: "da-102",
-    lecture: "lecture-22",
-    lectureNo: 22,
+    lecture: "lecture-8",
+    lectureNo: 8,
     question: "The scientific name of Soybean is:",
     options: ["Cajanus cajan", "Vigna radiata", "Cicer arietinum", "Glycine max"],
     correct: 3,
@@ -1525,8 +1745,8 @@ export const da102LectureQuestions: Question[] = [
   {
     id: "d102x_031",
     subject: "da-102",
-    lecture: "lecture-23",
-    lectureNo: 23,
+    lecture: "lecture-6",
+    lectureNo: 6,
     question: "The scientific name of Black gram (Urad) is:",
     options: ["Vigna radiata", "Vigna mungo", "Cajanus cajan", "Cicer arietinum"],
     correct: 1,
@@ -1535,8 +1755,8 @@ export const da102LectureQuestions: Question[] = [
   {
     id: "d102x_032",
     subject: "da-102",
-    lecture: "lecture-24",
-    lectureNo: 24,
+    lecture: "lecture-6",
+    lectureNo: 6,
     question: "The scientific name of Green gram (Moong) is:",
     options: ["Glycine max", "Cicer arietinum", "Vigna radiata", "Vigna mungo"],
     correct: 2,
@@ -1545,8 +1765,8 @@ export const da102LectureQuestions: Question[] = [
   {
     id: "d102x_033",
     subject: "da-102",
-    lecture: "lecture-25",
-    lectureNo: 25,
+    lecture: "lecture-9",
+    lectureNo: 9,
     question: "The scientific name of Horsegram is:",
     options: ["Vigna radiata", "Macrotyloma uniflorum", "Cajanus cajan", "Cicer arietinum"],
     correct: 1,
@@ -1555,8 +1775,8 @@ export const da102LectureQuestions: Question[] = [
   {
     id: "d102x_034",
     subject: "da-102",
-    lecture: "lecture-26",
-    lectureNo: 26,
+    lecture: "lecture-9",
+    lectureNo: 9,
     question: "The scientific name of Cowpea is:",
     options: ["Vigna radiata", "Vigna unguiculata", "Cajanus cajan", "Glycine max"],
     correct: 1,
@@ -1565,8 +1785,8 @@ export const da102LectureQuestions: Question[] = [
   {
     id: "d102x_035",
     subject: "da-102",
-    lecture: "lecture-27",
-    lectureNo: 27,
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "Napier grass is also known as:",
     options: ["Guinea grass", "Elephant grass", "Sudan grass", "Rhodes grass"],
     correct: 1,
@@ -1685,8 +1905,8 @@ export const da102LectureQuestions: Question[] = [
   {
     id: "d102x_047",
     subject: "da-102",
-    lecture: "lecture-30",
-    lectureNo: 30,
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "Lucerne (Alfalfa) is botanically known as:",
     options: ["Stylosanthes hamata", "Pennisetum purpureum", "Trifolium alexandrinum", "Medicago sativa"],
     correct: 3,
@@ -1695,8 +1915,8 @@ export const da102LectureQuestions: Question[] = [
   {
     id: "d102x_048",
     subject: "da-102",
-    lecture: "lecture-31",
-    lectureNo: 31,
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "Berseem (Egyptian clover) is botanically known as:",
     options: ["Medicago sativa", "Trifolium alexandrinum", "Stylosanthes hamata", "Pennisetum purpureum"],
     correct: 1,
@@ -1705,8 +1925,8 @@ export const da102LectureQuestions: Question[] = [
   {
     id: "d102x_049",
     subject: "da-102",
-    lecture: "lecture-18",
-    lectureNo: 18,
+    lecture: "lecture-2",
+    lectureNo: 2,
     question: "Which of the following is NOT a reason for low yields in pulse crops?",
     options: ["Pod shattering at maturity", "Sensitivity to lodging", "Assured irrigation throughout the year", "Indeterminate growth habit"],
     correct: 3,
@@ -1985,8 +2205,8 @@ export const da102LectureQuestions: Question[] = [
   {
     id: "d102x_077",
     subject: "da-102",
-    lecture: "lecture-17",
-    lectureNo: 17,
+    lecture: "lecture-10",
+    lectureNo: 10,
     question: "Assertion (A): Ragi is considered a healthy food for diabetic patients.\nReason (R): Ragi has a low glycaemic index and is rich in dietary fibre, which helps control blood sugar levels.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
@@ -1995,8 +2215,8 @@ export const da102LectureQuestions: Question[] = [
   {
     id: "d102x_078",
     subject: "da-102",
-    lecture: "lecture-18",
-    lectureNo: 18,
+    lecture: "lecture-9",
+    lectureNo: 9,
     question: "Assertion (A): Pulse crops generally have lower yields than cereal crops.\nReason (R): Pulses have indeterminate growth habit, susceptibility to lodging, and pod shattering which reduce harvestable yield.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
@@ -2005,8 +2225,8 @@ export const da102LectureQuestions: Question[] = [
   {
     id: "d102x_079",
     subject: "da-102",
-    lecture: "lecture-23",
-    lectureNo: 23,
+    lecture: "lecture-10",
+    lectureNo: 10,
     question: "Assertion (A): Minor millets are major staple food for tribal people in drought and hilly areas.\nReason (R): Minor millets are drought-tolerant crops that can survive in low rainfall conditions and can be stored for 2-3 years.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
@@ -2301,5 +2521,5 @@ export const da102LectureQuestions: Question[] = [
     options: ["1 month", "6 months", "10-12 years", "2-3 years"],
     correct: 3,
     explanation: "As per DA-102 notes: In storage, minor millets are safely stored for 2-3 years without any pest and disease infestation."
-  }
+  },
 ];

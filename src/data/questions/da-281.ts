@@ -1,4 +1,3 @@
-// ===== FILE: da-281.ts =====
 import { Question } from "@/types";
 
 export const da281Questions: Question[] = [
@@ -848,15 +847,6 @@ export const da281Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d281_106",
-    subject: "da-281",
-    question: "The botanical name of teak is:",
-    options: ["Eucalyptus globulus", "Azadirachta indica", "Tectona grandis", "Dalbergia latifolia"],
-    correct: 2,
-    explanation: "Teak (Tectona grandis) is a tropical hardwood native to South and Southeast Asia, known for its durability.",
-    difficulty: "medium"
-  },
-  {
     id: "d281_107",
     subject: "da-281",
     question: "Silviculture is the branch of forestry concerned with:",
@@ -891,24 +881,6 @@ export const da281Questions: Question[] = [
     correct: 2,
     explanation: "Tropical wet evergreen (>200cm=Western Ghats=iii), Dry deciduous (100-200cm=Central India=iv), Thorn (<75cm=Rajasthan=ii), Mangrove (coastal=Sundarbans=i).",
     difficulty: "hard"
-  },
-  {
-    id: "d281_111",
-    subject: "da-281",
-    question: "The botanical name of neem is:",
-    options: ["Tectona grandis", "Azadirachta indica", "Shorea robusta", "Dalbergia latifolia"],
-    correct: 1,
-    explanation: "Neem (Azadirachta indica) is a multipurpose tree known for medicinal, pesticidal, and timber uses.",
-    difficulty: "easy"
-  },
-  {
-    id: "d281_112",
-    subject: "da-281",
-    question: "Bamboo belongs to which plant family?",
-    options: ["Euphorbiaceae", "Leguminosae", "Rubiaceae", "Gramineae (Poaceae)"],
-    correct: 3,
-    explanation: "Bamboo belongs to the grass family Gramineae (Poaceae). It is the fastest growing woody plant.",
-    difficulty: "medium"
   },
   {
     id: "d281_113",
@@ -992,15 +964,6 @@ export const da281Questions: Question[] = [
     difficulty: "easy"
   },
   {
-    id: "d281_122",
-    subject: "da-281",
-    question: "Non-Timber Forest Products (NTFPs) include:",
-    options: ["Heavy machinery materials in horticultural practices", "Logs and planks only", "Bamboo, honey, medicinal plants, gums, and resins", "Chemical fertilizers for vegetable cultivation"],
-    correct: 2,
-    explanation: "NTFPs are all forest products other than timber — including bamboo, honey, lac, gums, resins, medicinal plants, and wild fruits.",
-    difficulty: "easy"
-  },
-  {
     id: "d281_123",
     subject: "da-281",
     question: "Silviculture is the branch of forestry that deals with:",
@@ -1008,15 +971,6 @@ export const da281Questions: Question[] = [
     correct: 3,
     explanation: "Silviculture is the branch of forestry which deals with the establishment, development, care and reproduction of forest crops.",
     difficulty: "easy"
-  },
-  {
-    id: "d281_124",
-    subject: "da-281",
-    question: "Forest mensuration deals with:",
-    options: ["Growing trees in forests in horticultural practices", "Planting trees in degraded areas for vegetable cultivation", "Measurement of timber volume, tree height, diameter, and forest area", "Study of forest diseases in orchard management"],
-    correct: 2,
-    explanation: "Forest mensuration is the branch of forestry concerned with measuring timber volumes, tree dimensions, and forest area.",
-    difficulty: "medium"
   },
   {
     id: "d281_125",
@@ -1061,24 +1015,6 @@ export const da281Questions: Question[] = [
     options: ["Coastal saline tidal areas", "Himalayan alpine zones", "Dry deciduous regions", "Dry arid regions"],
     correct: 0,
     explanation: "Mangroves grow in coastal intertidal zones with saline water. They protect coastlines from erosion, cyclones, and tsunamis.",
-    difficulty: "medium"
-  },
-  {
-    id: "d281_130",
-    subject: "da-281",
-    question: "Match medicinal plants: Col A: 1-Ashwagandha, 2-Aloe vera, 3-Senna, 4-Lemongrass. Col B: P-laxative, Q-skin healing, R-adaptogen, S-essential oil. Col C: i-Cymbopogon, ii-Cassia angustifolia, iii-Withania somnifera, iv-Aloe barbadensis",
-    options: ["1-P-ii, 2-R-iii, 3-Q-iv, 4-S-i", "1-R-iii, 2-Q-iv, 3-P-ii, 4-S-i", "1-S-i, 2-P-ii, 3-R-iii, 4-Q-iv", "1-Q-iv, 2-S-i, 3-P-ii, 4-R-iii"],
-    correct: 1,
-    explanation: "Ashwagandha (adaptogen=Withania=iii), Aloe vera (skin=Aloe barbadensis=iv), Senna (laxative=Cassia=ii), Lemongrass (essential oil=Cymbopogon=i).",
-    difficulty: "hard"
-  },
-  {
-    id: "d281_131",
-    subject: "da-281",
-    question: "The state tree of Telangana is:",
-    options: ["Teak", "Jammi tree (Prosopis cineraria)", "Neem", "Banyan"],
-    correct: 1,
-    explanation: "The Jammi tree (Prosopis cineraria), also called Shami tree, is the State tree of Telangana, associated with Dussehra festival.",
     difficulty: "medium"
   },
   {
@@ -1134,15 +1070,6 @@ export const da281Questions: Question[] = [
     correct: 0,
     explanation: "Sal (Shorea robusta) is known for its fire resistance, making it valuable in forest management in fire-prone areas.",
     difficulty: "hard"
-  },
-  {
-    id: "d281_138",
-    subject: "da-281",
-    question: "Silvopastoral agroforestry system combines:",
-    options: ["Trees + fish farming", "Trees + beekeeping", "Trees + crops", "Trees + livestock and pasture"],
-    correct: 3,
-    explanation: "Silvopastoral combines trees (silvi) with pasture and livestock (pastoral), providing fodder, shade, and other tree products.",
-    difficulty: "medium"
   },
   {
     id: "d281_139",

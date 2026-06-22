@@ -1,10 +1,6 @@
-// ===== FILE: da-101-lectures.ts =====
 import { Question } from "@/types";
 
 export const da101LectureQuestions: Question[] = [
-  // ─────────────────────────────────────────────────────────────────────────────
-  // LECTURE 1: Introduction to Agriculture & Agronomy
-  // ─────────────────────────────────────────────────────────────────────────────
   {
     id: "d101l_001",
     subject: "da-101",
@@ -175,10 +171,6 @@ export const da101LectureQuestions: Question[] = [
     correct: 1,
     explanation: "MANAGE is located at Hyderabad, Telangana. It provides training in agricultural extension management."
   },
-
-  // ─────────────────────────────────────────────────────────────────────────────
-  // LECTURE 2: Weather, Climate & Agro-climatic Zones
-  // ─────────────────────────────────────────────────────────────────────────────
   {
     id: "d101l_018",
     subject: "da-101",
@@ -339,10 +331,6 @@ export const da101LectureQuestions: Question[] = [
     correct: 2,
     explanation: "The Southern Telangana Zone is dominated by red sandy and red loamy soils, covering districts like Mahabubnagar, Nagarkurnool, and Nalgonda."
   },
-
-  // ─────────────────────────────────────────────────────────────────────────────
-  // LECTURE 3: Soil Properties & Tillage
-  // ─────────────────────────────────────────────────────────────────────────────
   {
     id: "d101l_034",
     subject: "da-101",
@@ -493,10 +481,6 @@ export const da101LectureQuestions: Question[] = [
     correct: 1,
     explanation: "Soils with bulk density less than 1.0 are considered as problem soils, as puddling with animal-drawn implements becomes difficult."
   },
-
-  // ─────────────────────────────────────────────────────────────────────────────
-  // LECTURE 4: Sowing – Methods, Depth & Seed Rate
-  // ─────────────────────────────────────────────────────────────────────────────
   {
     id: "d101l_049",
     subject: "da-101",
@@ -647,10 +631,6 @@ export const da101LectureQuestions: Question[] = [
     correct: 1,
     explanation: "At 20×25 cm spacing (standard for transplanted rice), 10,000 m²/ha ÷ (0.20 × 0.25 m) = 2,00,000 hills/ha. At 25×25 cm it is 1,60,000/ha."
   },
-
-  // ─────────────────────────────────────────────────────────────────────────────
-  // LECTURE 5: Crop Nutrition & Fertilizer Application
-  // ─────────────────────────────────────────────────────────────────────────────
   {
     id: "d101l_064",
     subject: "da-101",
@@ -801,10 +781,6 @@ export const da101LectureQuestions: Question[] = [
     correct: 1,
     explanation: "Neem-coated urea has a neem oil coating that inhibits nitrification, releasing nitrogen slowly and improving NUE compared to plain urea."
   },
-
-  // ─────────────────────────────────────────────────────────────────────────────
-  // LECTURE 6: Weed Management
-  // ─────────────────────────────────────────────────────────────────────────────
   {
     id: "d101l_079",
     subject: "da-101",
@@ -955,10 +931,6 @@ export const da101LectureQuestions: Question[] = [
     correct: 3,
     explanation: "Post-emergence herbicides are applied after both the crop and weeds have emerged from the soil to selectively control weed growth."
   },
-
-  // ─────────────────────────────────────────────────────────────────────────────
-  // LECTURE 7: Irrigation & Water Management
-  // ─────────────────────────────────────────────────────────────────────────────
   {
     id: "d101l_094",
     subject: "da-101",
@@ -1079,10 +1051,6 @@ export const da101LectureQuestions: Question[] = [
     correct: 0,
     explanation: "Micro-irrigation delivers water efficiently even on uneven soils without conveyance losses; its main drawback is the high initial cost of the system."
   },
-
-  // ─────────────────────────────────────────────────────────────────────────────
-  // LECTURE 8: Dryland Farming
-  // ─────────────────────────────────────────────────────────────────────────────
   {
     id: "d101l_106",
     subject: "da-101",
@@ -1203,10 +1171,6 @@ export const da101LectureQuestions: Question[] = [
     correct: 2,
     explanation: "Fertilizer dose for dryland crops is lower than for irrigated crops because limited moisture restricts nutrient uptake and excessive fertilizer can cause osmotic stress."
   },
-
-  // ─────────────────────────────────────────────────────────────────────────────
-  // LECTURE 9: Cropping Systems
-  // ─────────────────────────────────────────────────────────────────────────────
   {
     id: "d101l_118",
     subject: "da-101",
@@ -1317,10 +1281,6 @@ export const da101LectureQuestions: Question[] = [
     correct: 3,
     explanation: "Sorghum + Redgram is a classic cereal-legume intercrop (4:2 or 2:1 row ratio) common in Telangana and AP, where legume fixes nitrogen benefiting the cereal."
   },
-
-  // ─────────────────────────────────────────────────────────────────────────────
-  // LECTURE 10: Harvest, Threshing & Post-Harvest
-  // ─────────────────────────────────────────────────────────────────────────────
   {
     id: "d101l_129",
     subject: "da-101",
@@ -1441,8 +1401,6 @@ export const da101LectureQuestions: Question[] = [
     correct: 1,
     explanation: "PUSA bin is a metallic storage structure developed by IARI that is airtight, protecting grains from moisture, insects, and to some extent rodents."
   },
-
-  // ── BATCH 2: Additional 100 questions from PJTSAU DA-101 Theory Notes ──
   {
     id: "d101x_001",
     subject: "da-101",
@@ -1866,8 +1824,8 @@ export const da101LectureQuestions: Question[] = [
   {
     id: "d101x_044",
     subject: "da-101",
-    lecture: "lecture-11",
-    lectureNo: 11,
+    lecture: "lecture-3",
+    lectureNo: 3,
     question: "The water requirement of rice (paddy) per crop season is approximately:",
     options: ["100-200 mm", "500-600 mm", "700-1000 mm when soil moisture is limiting", "1200-1500 mm"],
     correct: 3,
@@ -1876,8 +1834,8 @@ export const da101LectureQuestions: Question[] = [
   {
     id: "d101x_045",
     subject: "da-101",
-    lecture: "lecture-11",
-    lectureNo: 11,
+    lecture: "lecture-7",
+    lectureNo: 7,
     question: "Drip irrigation is also known as:",
     options: ["Trickle irrigation", "Furrow irrigation", "Flood irrigation", "Sprinkler irrigation"],
     correct: 0,
@@ -1886,8 +1844,8 @@ export const da101LectureQuestions: Question[] = [
   {
     id: "d101x_047",
     subject: "da-101",
-    lecture: "lecture-12",
-    lectureNo: 12,
+    lecture: "lecture-7",
+    lectureNo: 7,
     question: "The main objective of drainage is to:",
     options: ["Increase waterlogging", "Reduce crop growth", "Increase soil salinity in fully irrigated command areas", "Remove excess water from soil to improve aeration"],
     correct: 3,
@@ -1896,8 +1854,8 @@ export const da101LectureQuestions: Question[] = [
   {
     id: "d101x_048",
     subject: "da-101",
-    lecture: "lecture-12",
-    lectureNo: 12,
+    lecture: "lecture-7",
+    lectureNo: 7,
     question: "Sub-surface drainage (tile drainage) removes excess water from:",
     options: ["Surface of soil", "Air above soil", "Below the soil surface", "Irrigation channels when soil moisture is limiting"],
     correct: 2,
@@ -1906,8 +1864,8 @@ export const da101LectureQuestions: Question[] = [
   {
     id: "d101x_049",
     subject: "da-101",
-    lecture: "lecture-13",
-    lectureNo: 13,
+    lecture: "lecture-7",
+    lectureNo: 7,
     question: "Harvesting index (HI) is defined as the ratio of:",
     options: ["Grain yield to total biological yield", "Shoot weight to root weight", "Total yield to water applied for the prevailing crop season", "Total biomass to grain yield"],
     correct: 0,
@@ -1916,8 +1874,8 @@ export const da101LectureQuestions: Question[] = [
   {
     id: "d101x_050",
     subject: "da-101",
-    lecture: "lecture-13",
-    lectureNo: 13,
+    lecture: "lecture-10",
+    lectureNo: 10,
     question: "Threshing refers to:",
     options: ["Separating grain from the ear head or pod", "Drying of harvested crop", "Storage of harvested produce as recommended in agronomic practice", "Cutting the crop at maturity"],
     correct: 0,
@@ -1926,8 +1884,8 @@ export const da101LectureQuestions: Question[] = [
   {
     id: "d101x_051",
     subject: "da-101",
-    lecture: "lecture-14",
-    lectureNo: 14,
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "Dryland agriculture is practiced in areas with annual rainfall less than:",
     options: ["1000 mm", "1200 mm", "500 mm", "750 mm"],
     correct: 3,
@@ -1936,8 +1894,8 @@ export const da101LectureQuestions: Question[] = [
   {
     id: "d101x_052",
     subject: "da-101",
-    lecture: "lecture-14",
-    lectureNo: 14,
+    lecture: "lecture-8",
+    lectureNo: 8,
     question: "Which of the following is NOT a characteristic of dryland agriculture?",
     options: ["Assured irrigation throughout the year", "Low productivity per unit area", "Uneven distribution of rainfall for the prevailing crop season", "Moisture stress conditions"],
     correct: 0,
@@ -1946,8 +1904,8 @@ export const da101LectureQuestions: Question[] = [
   {
     id: "d101x_053",
     subject: "da-101",
-    lecture: "lecture-14",
-    lectureNo: 14,
+    lecture: "lecture-7",
+    lectureNo: 7,
     question: "Bunding in dryland agriculture is done to:",
     options: ["Reduce infiltration", "Increase soil erosion", "Conserve rainwater and prevent runoff", "Facilitate drainage of excess water as recommended in agronomic practice"],
     correct: 2,
@@ -1956,8 +1914,8 @@ export const da101LectureQuestions: Question[] = [
   {
     id: "d101x_054",
     subject: "da-101",
-    lecture: "lecture-15",
-    lectureNo: 15,
+    lecture: "lecture-7",
+    lectureNo: 7,
     question: "Water harvesting is defined as:",
     options: ["Collection and storage of rainwater runoff for later use", "Irrigation of crops using canals", "Use of underground water for irrigation in fully irrigated command areas", "Diversion of river water"],
     correct: 0,
@@ -1966,8 +1924,8 @@ export const da101LectureQuestions: Question[] = [
   {
     id: "d101x_055",
     subject: "da-101",
-    lecture: "lecture-15",
-    lectureNo: 15,
+    lecture: "lecture-8",
+    lectureNo: 8,
     question: "Contingency crop planning is done when:",
     options: ["Excess rainfall damages crops under normal field conditions as recommended in agronomic practice", "Monsoon is normal and timely", "Monsoon fails or is delayed and alternative crops need to be chosen", "Market prices of crops fall"],
     correct: 2,
@@ -1976,8 +1934,8 @@ export const da101LectureQuestions: Question[] = [
   {
     id: "d101x_056",
     subject: "da-101",
-    lecture: "lecture-16",
-    lectureNo: 16,
+    lecture: "lecture-8",
+    lectureNo: 8,
     question: "A watershed is defined as:",
     options: ["A water storage tank for irrigation under rainfed dryland farming", "A type of crop rotation", "A method of soil conservation", "An area that drains into a common outlet"],
     correct: 3,
@@ -1986,8 +1944,8 @@ export const da101LectureQuestions: Question[] = [
   {
     id: "d101x_057",
     subject: "da-101",
-    lecture: "lecture-16",
-    lectureNo: 16,
+    lecture: "lecture-8",
+    lectureNo: 8,
     question: "The principle of 'ridges and furrows' in soil conservation aims to:",
     options: ["Break the flow of water and reduce erosion", "Increase wind erosion", "Reduce soil moisture", "Increase surface runoff under continuous intensive cropping"],
     correct: 0,
@@ -1996,8 +1954,8 @@ export const da101LectureQuestions: Question[] = [
   {
     id: "d101x_058",
     subject: "da-101",
-    lecture: "lecture-17",
-    lectureNo: 17,
+    lecture: "lecture-9",
+    lectureNo: 9,
     question: "Intercropping differs from mixed cropping in that:",
     options: ["Crops are sown at different seasons", "Both crops are sown at the same time without any specific pattern for multiple cropping in a year", "Crops are grown in definite row arrangements with distinct inter-row spaces", "Only one crop is sown at a time as recommended by ICAR guidelines"],
     correct: 2,
@@ -2006,8 +1964,8 @@ export const da101LectureQuestions: Question[] = [
   {
     id: "d101x_059",
     subject: "da-101",
-    lecture: "lecture-17",
-    lectureNo: 17,
+    lecture: "lecture-9",
+    lectureNo: 9,
     question: "Relay cropping refers to:",
     options: ["Growing two crops sequentially without any overlap in a rainfed fallow sequence", "Sowing the second crop into the standing first crop before its harvest", "Growing only one crop per year", "Growing crops in glasshouses"],
     correct: 1,
@@ -2016,8 +1974,8 @@ export const da101LectureQuestions: Question[] = [
   {
     id: "d101x_060",
     subject: "da-101",
-    lecture: "lecture-17",
-    lectureNo: 17,
+    lecture: "lecture-9",
+    lectureNo: 9,
     question: "Multiple cropping refers to:",
     options: ["Growing crops in multiple countries under a cereal-legume rotation", "Growing more than one crop on the same land in the same year", "Growing the same crop repeatedly", "Growing only one crop per year"],
     correct: 1,
@@ -2026,8 +1984,8 @@ export const da101LectureQuestions: Question[] = [
   {
     id: "d101x_061",
     subject: "da-101",
-    lecture: "lecture-18",
-    lectureNo: 18,
+    lecture: "lecture-9",
+    lectureNo: 9,
     question: "Crop rotation helps in:",
     options: ["Depleting soil nutrients continuously", "Increasing pest and disease buildup", "Maintaining and improving soil fertility and breaking pest cycles", "Reducing crop diversity as recommended by ICAR guidelines for multiple cropping in a year"],
     correct: 2,
@@ -2036,8 +1994,8 @@ export const da101LectureQuestions: Question[] = [
   {
     id: "d101x_062",
     subject: "da-101",
-    lecture: "lecture-18",
-    lectureNo: 18,
+    lecture: "lecture-9",
+    lectureNo: 9,
     question: "Which of the following is a principle of crop rotation?",
     options: ["Deep-rooted crops should follow shallow-rooted crops", "Always grow the same crop in the same field", "Irrigated crops should always follow irrigated crops", "Leguminous crops should never be included"],
     correct: 0,
@@ -2046,8 +2004,8 @@ export const da101LectureQuestions: Question[] = [
   {
     id: "d101x_063",
     subject: "da-101",
-    lecture: "lecture-19",
-    lectureNo: 19,
+    lecture: "lecture-8",
+    lectureNo: 8,
     question: "Integrated Farming System (IFS) involves:",
     options: ["Growing a single crop throughout the year", "Using only chemical inputs in irrigated crop production systems under normal field conditions", "Combining crop production with livestock, fishery and other enterprises", "Only crop production based on conventional agronomic practices"],
     correct: 2,
@@ -2056,8 +2014,8 @@ export const da101LectureQuestions: Question[] = [
   {
     id: "d101x_064",
     subject: "da-101",
-    lecture: "lecture-19",
-    lectureNo: 19,
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "Sustainable agriculture aims to:",
     options: ["Eliminate traditional farming practices in irrigated crop production systems for the prevailing crop season", "Use maximum chemical fertilisers based on conventional agronomic practices", "Meet present needs without compromising future generations' ability to meet their needs", "Maximise production at any cost during the critical growth period of crops"],
     correct: 2,
@@ -2066,8 +2024,8 @@ export const da101LectureQuestions: Question[] = [
   {
     id: "d101x_065",
     subject: "da-101",
-    lecture: "lecture-20",
-    lectureNo: 20,
+    lecture: "lecture-8",
+    lectureNo: 8,
     question: "Organic farming relies primarily on:",
     options: ["Synthetic chemical fertilisers and pesticides for balanced nutrient management", "Genetically modified organisms", "Natural inputs like compost, FYM, biofertilisers and biopesticides", "High doses of nitrogen fertilisers"],
     correct: 2,
@@ -2076,8 +2034,8 @@ export const da101LectureQuestions: Question[] = [
   {
     id: "d101x_066",
     subject: "da-101",
-    lecture: "lecture-20",
-    lectureNo: 20,
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "The nodule bacteria that fix atmospheric nitrogen in legume root nodules are:",
     options: ["Rhizobium", "Azotobacter", "Blue-green algae", "Azospirillum"],
     correct: 0,
@@ -2086,8 +2044,8 @@ export const da101LectureQuestions: Question[] = [
   {
     id: "d101x_067",
     subject: "da-101",
-    lecture: "lecture-20",
-    lectureNo: 20,
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "Green manure is generally applied to the field of which crop and incorporated by trampling/puddling?",
     options: ["Wheat", "Rice", "Cotton", "Sorghum"],
     correct: 1,
@@ -2096,8 +2054,8 @@ export const da101LectureQuestions: Question[] = [
   {
     id: "d101x_068",
     subject: "da-101",
-    lecture: "lecture-21",
-    lectureNo: 21,
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "Certification of organic farm products in India is done by:",
     options: ["Ministry of Finance", "FCI as recommended by ICAR guidelines", "APEDA and accredited certification agencies", "ICAR as recommended by ICAR guidelines under continuous intensive cropping"],
     correct: 2,
@@ -2106,8 +2064,8 @@ export const da101LectureQuestions: Question[] = [
   {
     id: "d101x_069",
     subject: "da-101",
-    lecture: "lecture-21",
-    lectureNo: 21,
+    lecture: "lecture-2",
+    lectureNo: 2,
     question: "The National Project on Organic Farming (NPOF) was established at:",
     options: ["Nagpur, Maharashtra", "Ghaziabad, Uttar Pradesh", "Hyderabad, Telangana for balanced nutrient management", "New Delhi"],
     correct: 1,
@@ -2186,8 +2144,8 @@ export const da101LectureQuestions: Question[] = [
   {
     id: "d101x_077",
     subject: "da-101",
-    lecture: "lecture-11",
-    lectureNo: 11,
+    lecture: "lecture-7",
+    lectureNo: 7,
     question: "Assertion (A): Drip irrigation has the highest water use efficiency among all irrigation methods.\nReason (R): In drip irrigation, water is delivered directly to the root zone, minimising evaporation and runoff losses.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
@@ -2196,8 +2154,8 @@ export const da101LectureQuestions: Question[] = [
   {
     id: "d101x_078",
     subject: "da-101",
-    lecture: "lecture-12",
-    lectureNo: 12,
+    lecture: "lecture-3",
+    lectureNo: 3,
     question: "Assertion (A): Waterlogging reduces crop productivity.\nReason (R): Excess water in soil displaces air, creating anaerobic conditions that are harmful to most upland crops.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
@@ -2206,8 +2164,8 @@ export const da101LectureQuestions: Question[] = [
   {
     id: "d101x_079",
     subject: "da-101",
-    lecture: "lecture-14",
-    lectureNo: 14,
+    lecture: "lecture-8",
+    lectureNo: 8,
     question: "Assertion (A): Dryland agriculture is characterised by low and uncertain productivity.\nReason (R): Dryland areas depend entirely on rainfall which is erratic and insufficient, leading to frequent moisture stress.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
@@ -2216,8 +2174,8 @@ export const da101LectureQuestions: Question[] = [
   {
     id: "d101x_080",
     subject: "da-101",
-    lecture: "lecture-17",
-    lectureNo: 17,
+    lecture: "lecture-9",
+    lectureNo: 9,
     question: "Assertion (A): Intercropping results in higher land use efficiency compared to sole cropping.\nReason (R): In intercropping, different crops utilise space, light, and nutrients at different times and depths, improving resource utilisation.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
@@ -2226,8 +2184,8 @@ export const da101LectureQuestions: Question[] = [
   {
     id: "d101x_081",
     subject: "da-101",
-    lecture: "lecture-18",
-    lectureNo: 18,
+    lecture: "lecture-3",
+    lectureNo: 3,
     question: "Assertion (A): Including legumes in crop rotation improves soil fertility.\nReason (R): Leguminous crops fix atmospheric nitrogen through Rhizobium symbiosis, enriching the soil with nitrogen for subsequent crops.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
@@ -2236,8 +2194,8 @@ export const da101LectureQuestions: Question[] = [
   {
     id: "d101x_082",
     subject: "da-101",
-    lecture: "lecture-19",
-    lectureNo: 19,
+    lecture: "lecture-8",
+    lectureNo: 8,
     question: "Assertion (A): Integrated Farming System (IFS) improves farm income and reduces risk.\nReason (R): IFS combines crop, livestock and other enterprises so that failure in one enterprise is offset by income from others.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false"],
     correct: 0,
@@ -2246,8 +2204,8 @@ export const da101LectureQuestions: Question[] = [
   {
     id: "d101x_083",
     subject: "da-101",
-    lecture: "lecture-20",
-    lectureNo: 20,
+    lecture: "lecture-3",
+    lectureNo: 3,
     question: "Assertion (A): Organic farming does not use any chemical inputs.\nReason (R): Organic farming is based on the principle of using only natural and biological inputs to maintain soil health and crop productivity.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is NOT the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
@@ -2266,8 +2224,8 @@ export const da101LectureQuestions: Question[] = [
   {
     id: "d101x_085",
     subject: "da-101",
-    lecture: "lecture-15",
-    lectureNo: 15,
+    lecture: "lecture-3",
+    lectureNo: 3,
     question: "Assertion (A): Watershed management helps control soil erosion and conserve water.\nReason (R): Watershed management treats the entire catchment area through biological and engineering measures to check runoff and erosion.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
@@ -2356,8 +2314,8 @@ export const da101LectureQuestions: Question[] = [
   {
     id: "d101x_094",
     subject: "da-101",
-    lecture: "lecture-11",
-    lectureNo: 11,
+    lecture: "lecture-7",
+    lectureNo: 7,
     question: "Match the irrigation methods:\n     Column-I (Method)           |  Column-II (Water efficiency)|  Column-III (Best suited for)\nA.  Flood/Surface irrigation     |  1.  90-95%                   |  i.   Orchards, vegetables\nB.  Furrow irrigation            |  2.  70-80%                   |  ii.  Row crops, vegetables\nC.  Sprinkler irrigation         |  3.  60-70%                   |  iii. Sandy soils, undulating land\nD.  Drip irrigation              |  4.  40-50%                   |  iv.  Flat land, heavy soils",
     options: ["A-1-i,  B-2-ii,  C-3-iii,  D-4-iv", "A-2-ii, B-1-i,   C-4-iv,   D-3-iii", "A-3-iii, B-4-iv, C-1-i,    D-2-ii", "A-4-iv, B-3-ii,  C-2-iii,  D-1-i"],
     correct: 3,
@@ -2366,8 +2324,8 @@ export const da101LectureQuestions: Question[] = [
   {
     id: "d101x_095",
     subject: "da-101",
-    lecture: "lecture-17",
-    lectureNo: 17,
+    lecture: "lecture-9",
+    lectureNo: 9,
     question: "Match the cropping systems:\n     Column-I (System)           |  Column-II (Definition)      |  Column-III (Advantage)\nA.  Monocropping                 |  1.  Two crops in same season |  i.   Maximises resources use\nB.  Intercropping                |  2.  Single crop per year     |  ii.  Simple management\nC.  Sequence cropping            |  3.  One crop after another   |  iii. Continuous land use\nD.  Relay cropping               |  4.  2nd crop sown before 1st harvest |  iv. Time-saving, soil cover",
     options: ["A-4-iv, B-3-iii, C-2-ii,   D-1-i", "A-3-iii, B-4-iv, C-1-i,    D-2-ii", "A-2-ii, B-1-i,   C-3-iii,  D-4-iv", "A-1-i,  B-2-ii,  C-4-iv,   D-3-iii"],
     correct: 2,
@@ -2376,8 +2334,8 @@ export const da101LectureQuestions: Question[] = [
   {
     id: "d101x_096",
     subject: "da-101",
-    lecture: "lecture-18",
-    lectureNo: 18,
+    lecture: "lecture-8",
+    lectureNo: 8,
     question: "Match the soil conservation measures:\n     Column-I (Measure)          |  Column-II (Type)            |  Column-III (Controls)\nA.  Contour bunding              |  1.  Biological measure       |  i.   Wind erosion\nB.  Windbreaks/shelterbelts      |  2.  Agronomic measure        |  ii.  Water erosion (slopes)\nC.  Cover cropping               |  3.  Engineering measure      |  iii. Both wind and water erosion\nD.  Terrace farming              |  4.  Engineering measure      |  iv.  Steep slope water erosion",
     options: ["A-2-ii, B-3-i,   C-1-iii,  D-4-iv", "A-1-i,  B-2-ii,  C-3-iii,  D-4-iv", "A-4-iv, B-1-i,   C-3-iii,  D-2-ii", "A-3-ii, B-1-i,   C-2-iii,  D-4-iv"],
     correct: 3,
@@ -2406,8 +2364,8 @@ export const da101LectureQuestions: Question[] = [
   {
     id: "d101x_099",
     subject: "da-101",
-    lecture: "lecture-13",
-    lectureNo: 13,
+    lecture: "lecture-10",
+    lectureNo: 10,
     question: "Match the post-harvest operations:\n     Column-I (Operation)        |  Column-II (Definition)      |  Column-III (Equipment)\nA.  Harvesting                   |  1.  Separating grain from chaff |  i.  Winnowing fan\nB.  Threshing                    |  2.  Cutting crop at maturity   |  ii. Sickle or combine\nC.  Winnowing                    |  3.  Separating grain from stem |  iii. Thresher\nD.  Drying                       |  4.  Reducing moisture content  |  iv.  Sun drying floor",
     options: ["A-3-iii, B-4-iv, C-2-ii,   D-1-i", "A-4-iv, B-1-i,   C-2-ii,   D-3-iii", "A-1-i,  B-2-ii,  C-3-iii,  D-4-iv", "A-2-ii, B-3-iii, C-1-i,   D-4-iv"],
     correct: 3,
@@ -2416,8 +2374,8 @@ export const da101LectureQuestions: Question[] = [
   {
     id: "d101x_100",
     subject: "da-101",
-    lecture: "lecture-20",
-    lectureNo: 20,
+    lecture: "lecture-3",
+    lectureNo: 3,
     question: "Match the organic farming components:\n     Column-I (Component)        |  Column-II (Material/Method) |  Column-III (Benefit)\nA.  Vermicompost                 |  1.  Trichoderma viride       |  i.   Disease control\nB.  Biopesticide                 |  2.  Earthworm-processed waste|  ii.  Improves soil structure\nC.  Green manure                 |  3.  Sesbania, Crotalaria     |  iii. Nitrogen enrichment\nD.  Compost                      |  4.  FYM + crop residue       |  iv.  Recycles waste nutrients",
     options: ["A-1-i,  B-2-ii,  C-4-iii,  D-3-iv", "A-3-iii, B-4-iv, C-1-i,    D-2-ii", "A-4-iv, B-3-iii, C-2-ii,   D-1-i", "A-2-ii, B-1-i,   C-3-iii,  D-4-iv"],
     correct: 3,
@@ -2544,5 +2502,5 @@ export const da101LectureQuestions: Question[] = [
     options: ["Veering wind", "Backing wind", "Geostrophic wind", "Trade wind"],
     correct: 1,
     explanation: "As per DA-101 notes: Clockwise movement of air is 'veering wind' and anti-clockwise movement is 'backing wind'; adverse climatic situations occur in backing wind."
-  }
+  },
 ];

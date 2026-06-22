@@ -1,4 +1,3 @@
-// ===== FILE: da-281-lectures.ts =====
 import { Question } from "@/types";
 
 export const da281LectureQuestions: Question[] = [

@@ -1,15 +1,6 @@
-// ===== FILE: da-282.ts =====
 import { Question } from "@/types";
 
 export const da282Questions: Question[] = [
-  {
-    id: "d282_001",
-    subject: "da-282",
-    question: "The botanical name of Mango is:",
-    options: ["Mangifera indica", "Musa paradisiaca", "Carica papaya", "Psidium guajava"],
-    correct: 0,
-    explanation: "Mango (Mangifera indica) is the 'King of fruits' and the National fruit of India. It belongs to family Anacardiaceae. India is the largest producer of mango in the world."
-  },
   {
     id: "d282_002",
     subject: "da-282",
@@ -65,22 +56,6 @@ export const da282Questions: Question[] = [
     options: ["Mangifera indica", "Carica papaya", "Annona squamosa", "Psidium guajava"],
     correct: 3,
     explanation: "Guava (Psidium guajava) belongs to family Myrtaceae. It is called 'Apple of tropics' and 'Poor man's apple'. Rich in vitamin C (4–5 times more than orange). Major varieties: Allahabad Safeda, Lucknow 49 (L-49), Lalit."
-  },
-  {
-    id: "d282_009",
-    subject: "da-282",
-    question: "The botanical name of Tomato is:",
-    options: ["Lycopersicon esculentum", "Capsicum annuum", "Solanum melongena", "Solanum lycopersicum"],
-    correct: 3,
-    explanation: "Tomato (Solanum lycopersicum, formerly Lycopersicon esculentum) belongs to family Solanaceae. It is botanically a berry (fruit) but used as a vegetable. India is the 2nd largest tomato producer after China."
-  },
-  {
-    id: "d282_010",
-    subject: "da-282",
-    question: "The botanical name of Brinjal (Eggplant) is:",
-    options: ["Capsicum annuum", "Solanum lycopersicum", "Solanum melongena", "Abelmoschus esculentus"],
-    correct: 2,
-    explanation: "Brinjal / Eggplant (Solanum melongena) belongs to family Solanaceae. India is the largest producer of brinjal. It is called 'King of vegetables' in India. Brinjal is a perennial grown as annual."
   },
   {
     id: "d282_011",
@@ -155,28 +130,12 @@ export const da282Questions: Question[] = [
     explanation: "Common jasmine species: Jasminum sambac (Mogra/Arabian jasmine — most common in India), J. grandiflorum (Spanish jasmine, used for essential oil). Both are cultivated for garlands and perfume extraction."
   },
   {
-    id: "d282_020",
-    subject: "da-282",
-    question: "Mango malformation disease is caused by:",
-    options: ["Fungus (Fusarium mangiferae)", "Root-knot nematode (Meloidogyne incognita) causing root galling", "Erwinia mangiferae bacteria causing bacterial gall formation", "Mango malformation virus transmitted by insect vectors"],
-    correct: 0,
-    explanation: "Mango malformation disease is caused by the fungus Fusarium mangiferae (formerly F. subglutinans). It causes malformation of vegetative shoots (bunchy top) and floral panicles (panicle/floral malformation), reducing fruit set."
-  },
-  {
     id: "d282_021",
     subject: "da-282",
     question: "The Panama wilt disease of banana is caused by:",
     options: ["Fusarium oxysporum f.sp. cubense", "Xanthomonas campestris causing banana leaf blight", "Pseudomonas solanacearum causing Moko wilt", "Erwinia carotovora causing bacterial soft rot"],
     correct: 0,
     explanation: "Panama wilt (Fusarium wilt) of banana is caused by Fusarium oxysporum f.sp. cubense. Race 4 is devastating the Cavendish banana globally. Soil fumigation, resistant varieties (Grand Naine TR4-resistant), and tissue culture planting help manage it."
-  },
-  {
-    id: "d282_022",
-    subject: "da-282",
-    question: "Citrus canker is caused by:",
-    options: ["Colletotrichum gloeosporioides causing post-harvest anthracnose", "Citrus tristeza virus causing vein clearing and stem pitting", "Xanthomonas axonopodis pv. citri (bacteria)", "Phytophthora citrophthora causing gummosis and root rot"],
-    correct: 2,
-    explanation: "Citrus canker is caused by the bacterium Xanthomonas axonopodis pv. citri. It produces raised, corky lesions on leaves, stems, and fruits. Copper-based bactericides and removal of infected plant parts are used for management."
   },
   {
     id: "d282_023",
@@ -299,14 +258,6 @@ export const da282Questions: Question[] = [
     explanation: "Mangosteen (Garcinia mangostana) is called the 'Queen of fruits'. Mango is the 'King of fruits'. Mangosteen has exquisite flavour and is grown in Kerala, Tamil Nadu, and Karnataka in India. It is slow-growing and requires a tropical humid climate."
   },
   {
-    id: "d282_040",
-    subject: "da-282",
-    question: "Pomology is the branch of horticulture dealing with:",
-    options: ["Vegetable crops including roots, tubers, and leafy vegetables", "Ornamental plants, landscape design, and floral arrangements", "Spice crops and aromatic plant cultivation", "Fruit crops"],
-    correct: 3,
-    explanation: "Pomology (from Latin 'pomum' = fruit) is the branch of horticulture that deals with the study, cultivation, production, and processing of fruit crops. Olericulture deals with vegetables; Floriculture deals with flowers; Spice science with spices."
-  },
-  {
     id: "d282_041",
     subject: "da-282",
     question: "The 'Nagpur mandarin' orange is a GI-tagged product from:",
@@ -425,14 +376,6 @@ export const da282Questions: Question[] = [
     options: ["Altering the gas composition (O₂, CO₂, N₂) in storage/packaging to extend shelf life", "Multiple Ageing Process for controlled ripening of tropical fruits", "Maximum Approved Packaging standard set by FSSAI for food containers", "Material Added Preservation using chemical preservatives in packaging"],
     correct: 0,
     explanation: "MAP (Modified Atmosphere Packaging) involves modifying the gaseous composition inside a package (reducing O₂, increasing CO₂ and N₂) to slow respiration, ethylene production, and microbial growth, extending the shelf life of fresh produce."
-  },
-  {
-    id: "d282_057",
-    subject: "da-282",
-    question: "The botanical name of mango is:",
-    options: ["Mangifera indica", "Musa spp.", "Psidium guajava", "Punica granatum"],
-    correct: 0,
-    explanation: "Mango is botanically Mangifera indica. It is a highly heterozygous and cross-pollinated fruit crop."
   },
   {
     id: "d282_059",
@@ -825,15 +768,6 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_110",
-    subject: "da-282",
-    question: "The botanical name of rose is:",
-    options: ["Jasminum sambac", "Tagetes erecta", "Rosa indica", "Chrysanthemum morifolium"],
-    correct: 2,
-    explanation: "Rose (Rosa indica/Rosa hybrida) belongs to family Rosaceae and is the most important commercial flower crop.",
-    difficulty: "easy"
-  },
-  {
     id: "d282_111",
     subject: "da-282",
     question: "Marigold is botanically known as:",
@@ -849,15 +783,6 @@ export const da282Questions: Question[] = [
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A"],
     correct: 3,
     explanation: "Post-harvest losses in horticulture are 20-40%. R correctly explains the cause — perishable nature and susceptibility to spoilage.",
-    difficulty: "medium"
-  },
-  {
-    id: "d282_113",
-    subject: "da-282",
-    question: "Black pepper (Piper nigrum) is called:",
-    options: ["Queen of Spices", "Black Gold", "Prince of Spices", "King of Spices"],
-    correct: 3,
-    explanation: "Black pepper is called the King of Spices and also Black Gold. It is the most widely traded spice in the world.",
     difficulty: "medium"
   },
   {
@@ -877,15 +802,6 @@ export const da282Questions: Question[] = [
     correct: 1,
     explanation: "Tomato (Solanaceae=fruit=iii), Onion (Liliaceae=bulb=ii), Bhendi (Malvaceae=capsule fruit=iv), Cabbage (Brassicaceae=leaves=i).",
     difficulty: "hard"
-  },
-  {
-    id: "d282_116",
-    subject: "da-282",
-    question: "The edible part of cauliflower is the:",
-    options: ["Curd (compact flower head)", "Leaf", "Root", "Stem"],
-    correct: 0,
-    explanation: "The edible part of cauliflower (Brassica oleracea var. botrytis) is the curd — a compact, immature flower head.",
-    difficulty: "easy"
   },
   {
     id: "d282_117",
@@ -951,15 +867,6 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_125",
-    subject: "da-282",
-    question: "Coconut is botanically classified as a:",
-    options: ["True fruit", "Drupe (stone fruit)", "Berry", "Nut"],
-    correct: 1,
-    explanation: "Coconut (Cocos nucifera) is a drupe (stone fruit) with a fibrous outer husk (exocarp), hard shell (endocarp), and edible flesh (endosperm).",
-    difficulty: "hard"
-  },
-  {
     id: "d282_126",
     subject: "da-282",
     question: "Which is a plantation crop in horticulture?",
@@ -996,39 +903,12 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_130",
-    subject: "da-282",
-    question: "Match fruit types: Col A: 1-Mango, 2-Banana, 3-Grape, 4-Guava. Col B: P-Vitaceae, Q-Myrtaceae, R-Anacardiaceae, S-Musaceae. Col C: i-Mangifera indica, ii-Psidium guajava, iii-Vitis vinifera, iv-Musa paradisiaca",
-    options: ["1-P-iii, 2-Q-ii, 3-R-i, 4-S-iv", "1-R-i, 2-S-iv, 3-P-iii, 4-Q-ii", "1-Q-ii, 2-P-iii, 3-S-iv, 4-R-i", "1-S-iv, 2-R-i, 3-Q-ii, 4-P-iii"],
-    correct: 1,
-    explanation: "Mango (Anacardiaceae=Mangifera indica=i), Banana (Musaceae=Musa=iv), Grape (Vitaceae=Vitis vinifera=iii), Guava (Myrtaceae=Psidium=ii).",
-    difficulty: "hard"
-  },
-  {
     id: "d282_131",
     subject: "da-282",
     question: "The edible part of potato (Solanum tuberosum) is a:",
     options: ["Fruit", "Tuber (modified underground stem)", "Bulb", "Root"],
     correct: 1,
     explanation: "Potato's edible part is a tuber — a swollen underground stem with stored starch and eyes (buds) for vegetative propagation.",
-    difficulty: "easy"
-  },
-  {
-    id: "d282_132",
-    subject: "da-282",
-    question: "Citrus fruits belong to which botanical family?",
-    options: ["Rosaceae", "Rutaceae", "Anacardiaceae", "Vitaceae"],
-    correct: 1,
-    explanation: "Citrus fruits (orange, lemon, lime, grapefruit) belong to family Rutaceae. The genus Citrus includes most common citrus fruits.",
-    difficulty: "medium"
-  },
-  {
-    id: "d282_133",
-    subject: "da-282",
-    question: "The edible part of carrot is a:",
-    options: ["Tuber", "Bulb", "Taproot", "Corm"],
-    correct: 2,
-    explanation: "The edible part of carrot (Daucus carota) is a modified taproot that stores carbohydrates and beta-carotene (Vitamin A precursor).",
     difficulty: "easy"
   },
   {
@@ -1086,15 +966,6 @@ export const da282Questions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: "d282_140",
-    subject: "da-282",
-    question: "Which fruit is known as the Queen of Fruits?",
-    options: ["Mangosteen", "Mango", "Papaya", "Banana"],
-    correct: 0,
-    explanation: "Mangosteen (Garcinia mangostana) is called the Queen of Fruits due to its exquisite taste and nutritional value.",
-    difficulty: "medium"
-  },
-  {
     id: "d282_141",
     subject: "da-282",
     question: "The active antioxidant compound lycopene is found mainly in:",
@@ -1102,15 +973,6 @@ export const da282Questions: Question[] = [
     correct: 3,
     explanation: "Lycopene is a powerful antioxidant carotenoid found abundantly in tomatoes, especially in processed forms like tomato paste and ketchup.",
     difficulty: "medium"
-  },
-  {
-    id: "d282_142",
-    subject: "da-282",
-    question: "Ginger (Zingiber officinale) is propagated by:",
-    options: ["Layering", "Seeds", "Stem cuttings", "Rhizomes"],
-    correct: 3,
-    explanation: "Ginger is propagated vegetatively through rhizomes (underground stems). The rhizome pieces with nodes are planted for commercial cultivation.",
-    difficulty: "easy"
   },
   {
     id: "d282_143",

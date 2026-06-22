@@ -1,4 +1,3 @@
-// ===== FILE: da-241.ts =====
 import { Question } from "@/types";
 
 export const da241Questions: Question[] = [
@@ -9,14 +8,6 @@ export const da241Questions: Question[] = [
     options: ["Allocation of scarce resources in agricultural production, marketing, and consumption", "Management of farm machinery and mechanization of field operations", "Study of plant genetics and crop improvement through hybridization and biotechnology", "Planning and execution of agricultural land development and irrigation projects"],
     correct: 0,
     explanation: "Agricultural economics is the application of economic principles to the agricultural sector. It deals with allocation of scarce resources (land, labour, capital) in production, distribution, and consumption of agricultural goods."
-  },
-  {
-    id: "d241_002",
-    subject: "da-241",
-    question: "Farm management is defined as:",
-    options: ["Discipline of planning and executing government agricultural policy and schemes", "The science and art of organising, operating, and managing a farm for maximum profit", "Practice of record-keeping and bookkeeping in agricultural farm establishments", "Study of soil microbiology and nutrient cycles for improving crop productivity"],
-    correct: 1,
-    explanation: "Farm management is the science that deals with the organisation, operation, and management of a farm for maximum sustained profit consistent with the family welfare. It applies economic principles to farm decision-making."
   },
   {
     id: "d241_003",
@@ -67,28 +58,12 @@ export const da241Questions: Question[] = [
     explanation: "Fixed costs remain the same irrespective of the level of output; they include taxes, insurance, depreciation and salaries, and are also called indirect, sunk or overhead costs."
   },
   {
-    id: "d241_009",
-    subject: "da-241",
-    question: "Total Fixed Cost (TFC) curve is graphically represented as:",
-    options: ["A downward sloping straight line", "An inverse-S shaped curve", "A U-shaped curve", "A horizontal straight line parallel to the X-axis"],
-    correct: 3,
-    explanation: "Since fixed costs do not change with output, the Total Fixed Cost (TFC) curve is a horizontal straight line parallel to the X-axis."
-  },
-  {
     id: "d241_010",
     subject: "da-241",
     question: "A cooperative society is formed to:",
     options: ["Export surplus agricultural produce exclusively to international markets", "Generate maximum returns for equity shareholders through agricultural commodity trading", "Provide mutual benefit and economic protection to members", "Compete aggressively with private agri-companies to capture market share"],
     correct: 2,
     explanation: "A cooperative society is a voluntary association formed by economically weak people for their mutual economic benefit. In agriculture, cooperatives help in procurement of inputs, credit, marketing, and processing on a collective basis."
-  },
-  {
-    id: "d241_011",
-    subject: "da-241",
-    question: "APMC stands for:",
-    options: ["Agricultural Produce Market Committee", "Agricultural Price Monitoring Committee", "Agricultural Products Management Corporation", "Agri-Produce Marketing Council"],
-    correct: 0,
-    explanation: "APMC (Agricultural Produce Market Committee) regulates the marketing of agricultural produce. APMC mandis (regulated markets) provide a platform for farmers to sell their produce and ensure fair prices."
   },
   {
     id: "d241_012",
@@ -129,14 +104,6 @@ export const da241Questions: Question[] = [
     options: ["The additional cost of producing one more unit of output", "The value of the next best alternative forgone", "The combined fixed and variable cost of agricultural operations", "The total explicit cash expenditure incurred in production"],
     correct: 1,
     explanation: "Opportunity cost is the value of the next best alternative foregone when a choice is made. In farming, if a farmer grows rice instead of cotton, the expected profit from cotton is the opportunity cost of growing rice."
-  },
-  {
-    id: "d241_017",
-    subject: "da-241",
-    question: "The law of diminishing returns states that:",
-    options: ["Total output increases proportionately when all inputs are increased simultaneously", "Fixed overhead costs always decrease as level of farm output rises", "Adding more farm labour always results in proportionately more output produced", "As one variable input is increased while others remain constant, the marginal product eventually decreases"],
-    correct: 3,
-    explanation: "The Law of Diminishing Returns (Law of Variable Proportions) states that as more units of a variable input (e.g., fertilizer) are added to fixed inputs (land), the marginal product eventually declines. It is fundamental to farm management."
   },
   {
     id: "d241_018",
@@ -241,14 +208,6 @@ export const da241Questions: Question[] = [
     options: ["Government procurement of foodgrains at minimum support prices only", "Exclusive licensing of agricultural commodity exports through government agencies", "Direct purchase of agricultural produce from individual farm households only", "All activities from production to final consumption including processing, storage, transport, and sale"],
     correct: 3,
     explanation: "Agricultural marketing encompasses all activities involved in the movement of agricultural produce from the farm gate to the final consumer — including harvesting, threshing, storage, processing, grading, transportation, and sale."
-  },
-  {
-    id: "d241_031",
-    subject: "da-241",
-    question: "The 'law of demand' states that:",
-    options: ["Higher price leads to proportionately higher quantity demanded in normal markets", "As price increases, quantity demanded decreases (inverse relationship) — other things being equal", "Consumer income has no measurable effect on agricultural commodity demand", "Demand and supply always reach equilibrium at the prevailing market price"],
-    correct: 1,
-    explanation: "Law of Demand: ceteris paribus (all other factors constant), quantity demanded varies inversely with price. When price rises, demand falls; when price falls, demand rises. Exception: Giffen goods (inferior goods where demand rises with price). Represented by a downward-sloping demand curve."
   },
   {
     id: "d241_032",
@@ -369,14 +328,6 @@ export const da241Questions: Question[] = [
     options: ["Money received in future is worth less than money received today (time value of money)", "Government regulations require mandatory discounting of all future agricultural returns", "Future agricultural income is always uncertain and should be eliminated from calculations", "Inflation consistently increases the purchasing value of money received in the future"],
     correct: 0,
     explanation: "Time value of money: Rs. 100 today is worth more than Rs. 100 next year because today's Rs. 100 can earn interest (opportunity cost). NPV = Sum of (future net cash flows / (1+r)^t) where r = discount rate, t = year. Projects with NPV > 0 are economically viable."
-  },
-  {
-    id: "d241_048",
-    subject: "da-241",
-    question: "Elasticity of production (Ep) is the ratio of:",
-    options: ["Total revenue to total cost", "Total product to marginal product", "Price to quantity", "Marginal Physical Product to Average Physical Product"],
-    correct: 3,
-    explanation: "Elasticity of production (Ep) measures the responsiveness of output to input changes and equals the ratio of Marginal Physical Product (MPP) to Average Physical Product (APP)."
   },
   {
     id: "d241_049",
@@ -795,22 +746,6 @@ export const da241Questions: Question[] = [
     explanation: "India's land utilization: Total geographic area = 328.7 Mha. Net sown area = ~140 Mha (42%). Gross cropped area (including double cropped) = ~200 Mha. Forest area = ~72 Mha. Fallow lands = ~25 Mha. Cultivable waste = ~14 Mha. India has the 4th largest agricultural area in the world."
   },
   {
-    id: "d241_101",
-    subject: "da-241",
-    question: "The elasticity of production (Ep) is calculated as:",
-    options: ["Total Revenue / Total Cost", "Marginal Physical Product / Average Physical Product", "Total Product / Total Input", "Average Product / Marginal Cost"],
-    correct: 1,
-    explanation: "As per DA-241 notes: Elasticity of production Ep = MPP/APP. In Stage I: Ep > 1; Stage II: 0 < Ep < 1; Stage III: Ep < 0."
-  },
-  {
-    id: "d241_102",
-    subject: "da-241",
-    question: "Under perfect competition, the relationship between Price (P), Average Revenue (AR) and Marginal Revenue (MR) is:",
-    options: ["P = AR > MR", "P > AR > MR", "P = AR = MR", "P < AR = MR"],
-    correct: 2,
-    explanation: "As per DA-241 notes: Under perfect competition, P = AR = MR. All units are sold at the same constant price."
-  },
-  {
     id: "d241_103",
     subject: "da-241",
     question: "Who established the empirical relationship between price elasticity, AR and MR in 'The Economics of Imperfect Competition'?",
@@ -833,14 +768,6 @@ export const da241Questions: Question[] = [
     options: ["25%", "15%", "10%", "50%"],
     correct: 0,
     explanation: "As per DA-241 notes: 25 per cent of profits is kept as reserve fund; remaining 75 per cent distributed among members as dividend."
-  },
-  {
-    id: "d241_106",
-    subject: "da-241",
-    question: "Short-term agricultural loans are to be repaid within:",
-    options: ["More than 10 years", "5 to 10 years", "6 to 18 months", "18 months to 5 years"],
-    correct: 2,
-    explanation: "As per DA-241 notes: Short-term loans cover ongoing farm operations and must be repaid within 6 to 18 months."
   },
   {
     id: "d241_107",
@@ -873,14 +800,6 @@ export const da241Questions: Question[] = [
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is NOT the correct explanation of A"],
     correct: 2,
     explanation: "As per DA-241 notes: Under monopoly, AR falls by Rs.1 but MR falls by Rs.2. The reason correctly explains this phenomenon."
-  },
-  {
-    id: "d241_111",
-    subject: "da-241",
-    question: "Match the following types of agricultural credit:\n     Column-I (Credit type)    |  Column-II (Period)       |  Column-III (Purpose)\nA.  Short-term loans          |  1.  6-18 months          |  i.   Crop production\nB.  Medium-term loans         |  2.  18 months to 5 years |  ii.  Implements, cattle\nC.  Long-term loans           |  3.  5 to 20+ years       |  iii. Land reclamation\nD.  Consumption loans         |  4.  Up to 2.5 years      |  iv.  Non-production use",
-    options: ["A-2-ii, B-1-i,  C-4-iv,  D-3-iii", "A-1-i,  B-2-ii,  C-3-iii,  D-4-iv", "A-3-i,  B-4-ii,  C-1-iii,  D-2-iv", "A-1-iii, B-3-i, C-2-iv,  D-4-ii"],
-    correct: 1,
-    explanation: "As per DA-241 notes: Short-term (6-18 months) for crop production; Medium-term for implements/cattle; Long-term for land reclamation; Consumption loans for non-production expenses."
   },
   {
     id: "d241_112",
@@ -923,14 +842,6 @@ export const da241Questions: Question[] = [
     explanation: "As per DA-241 notes: The crop loan system was implemented throughout India in 1965 and introduced in Andhra Pradesh from Kharif 1966."
   },
   {
-    id: "d241_117",
-    subject: "da-241",
-    question: "The Mac Lagan Committee (1914-1915) was appointed to review the performance of:",
-    options: ["Cooperative societies under the 1912 Act", "NABARD activities in rural economic context", "Commercial banks in the agricultural economy", "Nationalized banks for farm income analysis"],
-    correct: 0,
-    explanation: "As per DA-241 notes: In 1914, a committee under Edward Mac Lagan was appointed to review cooperative societies formed after the 1912 Cooperative Societies Act."
-  },
-  {
     id: "d241_118",
     subject: "da-241",
     question: "In farm bookkeeping, a Trial Balance is prepared to:",
@@ -945,14 +856,6 @@ export const da241Questions: Question[] = [
     options: ["Minor resource substitution is needed in the agricultural economy", "Only pest management is revised in rural economic context", "Only one enterprise needs improvement for farm income analysis", "Major changes are contemplated in the entire farm organization"],
     correct: 3,
     explanation: "As per DA-241 notes: Complete or whole farm planning is adopted when major changes are contemplated in existing farm organization. Simple farm planning is for minor single-enterprise changes."
-  },
-  {
-    id: "d241_120",
-    subject: "da-241",
-    question: "In hypothecated loans, the borrower retains ownership but the banker has:",
-    options: ["Full ownership of the property in the agricultural economy", "Legal right to possess and sell the property on default", "Right to collect rent in rural economic context", "No rights over the property for farm income analysis"],
-    correct: 1,
-    explanation: "As per DA-241 notes: In hypothecated loans (tractor, machinery loans), borrower has ownership rights on movable property, but the banker has legal right to take possession and sell it on default."
   },
   {
     id: "d241c_001",

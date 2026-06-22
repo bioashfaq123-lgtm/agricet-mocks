@@ -1,4 +1,3 @@
-// ===== FILE: da-262-lectures.ts =====
 import { Question } from "@/types";
 
 export const da262LectureQuestions: Question[] = [
@@ -918,8 +917,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_084",
     subject: "da-262",
-    lecture: "lecture-11",
-    lectureNo: 11,
+    lecture: "lecture-10",
+    lectureNo: 10,
     question: "Match the following computer generations with their components:\n     Column-I (Generation)  |  Column-II (Component)    |  Column-III (Years)\nA.  First Generation      |  1.  Vacuum Tubes         |  i.   1946-1954\nB.  Second Generation     |  2.  Transistors           |  ii.  1955-1965\nC.  Third Generation      |  3.  Integrated Circuits   |  iii. 1968-1975\nD.  Fourth Generation     |  4.  VLSI                  |  iv.  1976-1980",
     options: ["A-1-ii, B-2-i,  C-3-iv,  D-4-iii", "A-3-i,  B-4-ii,  C-1-iii,  D-2-iv", "A-1-i,  B-2-ii,  C-3-iii,  D-4-iv", "A-2-i,  B-1-ii,  C-4-iii,  D-3-iv"],
     correct: 2,
@@ -929,8 +928,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_085",
     subject: "da-262",
-    lecture: "lecture-11",
-    lectureNo: 11,
+    lecture: "lecture-4",
+    lectureNo: 4,
     question: "Match the following types of printers with their printing speeds:\n     Column-I (Printer type)  |  Column-II (Speed)     |  Column-III (Mechanism)\nA.  Dot Matrix printer     |  1.  200-700 CPS       |  i.   24-pin or 9-pin through ribbon\nB.  Ink Jet printer        |  2.  Slow, 90 CPS      |  ii.  Sprays ionized ink\nC.  Laser printer          |  3.  6-12 PPM          |  iii. Uses laser beam\nD.  Line printer           |  4.  300-600 LPM       |  iv.  Prints lines at a time",
     options: ["A-1-iii, B-2-i, C-3-ii,  D-4-iv", "A-1-i,  B-2-ii,  C-3-iii,  D-4-iv", "A-3-iii, B-1-i, C-2-ii,  D-4-iv", "A-2-ii, B-1-i,  C-4-iv,  D-3-iii"],
     correct: 1,
@@ -940,8 +939,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_086",
     subject: "da-262",
-    lecture: "lecture-12",
-    lectureNo: 12,
+    lecture: "lecture-2",
+    lectureNo: 2,
     question: "Match the following memory units and their storage capacities:\n     Column-I (Unit)   |  Column-II (Equivalent)       |  Column-III (Abbreviation)\nA.  8 bits             |  1.  1 Byte                   |  i.   B\nB.  1024 Bytes         |  2.  1 Kilobyte               |  ii.  KB\nC.  1024 KB            |  3.  1 Megabyte               |  iii. MB\nD.  1024 MB            |  4.  1 Gigabyte               |  iv.  GB",
     options: ["A-1-i,  B-2-ii,  C-3-iii,  D-4-iv", "A-2-i,  B-1-ii,  C-4-iii,  D-3-iv", "A-1-iii, B-2-ii, C-3-i,  D-4-iv", "A-4-i,  B-3-ii,  C-2-iii,  D-1-iv"],
     correct: 0,
@@ -951,8 +950,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_087",
     subject: "da-262",
-    lecture: "lecture-12",
-    lectureNo: 12,
+    lecture: "lecture-10",
+    lectureNo: 10,
     question: "The Windows Explorer is divided into two panes. What does the left pane display?",
     options: ["The list of drives and folders on the computer", "The recently opened documents in basic computer operations", "The control panel settings for data management only", "The contents of selected files for general office use"],
     correct: 0,
@@ -962,8 +961,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_088",
     subject: "da-262",
-    lecture: "lecture-13",
-    lectureNo: 13,
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "FORTRAN stands for:",
     options: ["Function Translation", "Formal Translation", "Forward Transfer", "Formula Translation"],
     correct: 3,
@@ -973,8 +972,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_089",
     subject: "da-262",
-    lecture: "lecture-13",
-    lectureNo: 13,
+    lecture: "lecture-6",
+    lectureNo: 6,
     question: "The key difference between a Compiler and an Interpreter is:",
     options: ["Compiler is faster; Interpreter is slower because it compiles twice", "Compiler translates the whole program before execution; Interpreter translates one statement at a time", "There is no difference; both do the same work based on conventional agronomic practices", "Compiler works only with BASIC; Interpreter works with all languages"],
     correct: 1,
@@ -984,8 +983,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_090",
     subject: "da-262",
-    lecture: "lecture-13",
-    lectureNo: 13,
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "DVD stands for:",
     options: ["Digital Video Display", "Direct Video Disk", "Digital Versatile Disc", "Data Video Drive"],
     correct: 2,
@@ -995,8 +994,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_091",
     subject: "da-262",
-    lecture: "lecture-14",
-    lectureNo: 14,
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "Which type of computer operates by 'measuring' instead of 'counting'?",
     options: ["Digital computers", "Hybrid computers", "Super computers", "Analog computers"],
     correct: 3,
@@ -1006,8 +1005,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_092",
     subject: "da-262",
-    lecture: "lecture-14",
-    lectureNo: 14,
+    lecture: "lecture-2",
+    lectureNo: 2,
     question: "India's indigenous super computer was developed under the name:",
     options: ["CRAY", "TITAN", "PARAM", "JAGUAR"],
     correct: 2,
@@ -1017,8 +1016,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_093",
     subject: "da-262",
-    lecture: "lecture-15",
-    lectureNo: 15,
+    lecture: "lecture-10",
+    lectureNo: 10,
     question: "The DOS command 'REN' is used to:",
     options: ["Run an executable file", "Remove a directory for general office use", "Rename an old file with another name", "Restore deleted files in basic computer operations"],
     correct: 2,
@@ -1028,8 +1027,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_094",
     subject: "da-262",
-    lecture: "lecture-15",
-    lectureNo: 15,
+    lecture: "lecture-6",
+    lectureNo: 6,
     question: "ASCII stands for:",
     options: ["American Standard Code for Information Interchange", "Advanced Standard Code for Information Interchange", "Applied Standard Code for International Interchange", "Automatic System Code for Integrated Information"],
     correct: 0,
@@ -1039,8 +1038,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_095",
     subject: "da-262",
-    lecture: "lecture-15",
-    lectureNo: 15,
+    lecture: "lecture-2",
+    lectureNo: 2,
     question: "The Windows feature 'Object Linking and Embedding (OLE)' allows:",
     options: ["Pasting a portion of one document into another with advanced document linking", "Embedding antivirus protection in basic computer operations", "Linking hardware components to the OS for data management only", "Creating hyperlinks to websites for general office use"],
     correct: 0,
@@ -1050,8 +1049,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_096",
     subject: "da-262",
-    lecture: "lecture-16",
-    lectureNo: 16,
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "MS-DOS was developed by Bill Gates at what age?",
     options: ["21 years", "14 years", "19 years", "17 years"],
     correct: 2,
@@ -1061,8 +1060,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_097",
     subject: "da-262",
-    lecture: "lecture-16",
-    lectureNo: 16,
+    lecture: "lecture-10",
+    lectureNo: 10,
     question: "In DOS, the command 'DIR/P' is used for:",
     options: ["Displaying files sorted alphabetically for general office use", "Printing the directory listing in basic computer operations", "Displaying files in parallel/side-by-side format", "Pausing the listing whenever the screen is full"],
     correct: 3,
@@ -1072,8 +1071,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_099",
     subject: "da-262",
-    lecture: "lecture-16",
-    lectureNo: 16,
+    lecture: "lecture-6",
+    lectureNo: 6,
     question: "Which of the following is NOT a General Purpose data analysis software package?",
     options: ["WORDSTAR", "SPSS (Statistical Package for Social Science)", "GENSTAT", "MSTAT"],
     correct: 0,
@@ -1083,8 +1082,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262l_100",
     subject: "da-262",
-    lecture: "lecture-16",
-    lectureNo: 16,
+    lecture: "lecture-10",
+    lectureNo: 10,
     question: "The Windows feature 'Taskbar' is characterized by:",
     options: ["A vertical bar on the left side of the screen for general office use", "A horizontal bar at the bottom of screen with START menu on left and Notification area on right", "A floating toolbar that can be moved anywhere in basic computer operations", "A toolbar that appears only when the mouse hovers over it for data management only"],
     correct: 1,
@@ -1292,16 +1291,6 @@ export const da262LectureQuestions: Question[] = [
     explanation: "As per DA-262 notes: Without TV studio (software), the TV (hardware) is a dead machine - similar analogy."
   },
   {
-    id: "d262x_021",
-    subject: "da-262",
-    lecture: "lecture-5",
-    lectureNo: 5,
-    question: "UNIX and XENIX operating systems are suited for:",
-    options: ["Single user, single task", "Only gaming", "Single user, multi-task", "Multi-user and multi-task"],
-    correct: 3,
-    explanation: "As per DA-262 notes: UNIX AND XENIX are suited for multi-user and multi-task systems."
-  },
-  {
     id: "d262x_022",
     subject: "da-262",
     lecture: "lecture-6",
@@ -1494,8 +1483,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262x_042",
     subject: "da-262",
-    lecture: "lecture-11",
-    lectureNo: 11,
+    lecture: "lecture-10",
+    lectureNo: 10,
     question: "The DOS command DIR/W displays files in:",
     options: ["Alphabetical order for general office use", "Only hidden files in basic computer operations", "Reverse order for data management only", "A five column format without date and time"],
     correct: 3,
@@ -1504,8 +1493,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262x_043",
     subject: "da-262",
-    lecture: "lecture-11",
-    lectureNo: 11,
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "Batch files in DOS have the extension:",
     options: [".BAT", ".COM", ".EXE", ".SYS"],
     correct: 0,
@@ -1514,8 +1503,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262x_044",
     subject: "da-262",
-    lecture: "lecture-11",
-    lectureNo: 11,
+    lecture: "lecture-10",
+    lectureNo: 10,
     question: "The DOS command SORT arranges files in:",
     options: ["Alphanumeric order (A to Z or Z to A)", "Random order for general office use", "Date order in basic computer operations", "Size order for data management only"],
     correct: 0,
@@ -1524,8 +1513,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262x_045",
     subject: "da-262",
-    lecture: "lecture-11",
-    lectureNo: 11,
+    lecture: "lecture-4",
+    lectureNo: 4,
     question: "The DOS command MD is used to:",
     options: ["Make a new directory", "Modify a directory", "Move a directory", "Merge directories"],
     correct: 0,
@@ -1534,8 +1523,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262x_046",
     subject: "da-262",
-    lecture: "lecture-12",
-    lectureNo: 12,
+    lecture: "lecture-3",
+    lectureNo: 3,
     question: "In Windows, file names can have up to how many characters?",
     options: ["8 characters", "255 characters", "64 characters", "128 characters"],
     correct: 1,
@@ -1544,8 +1533,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262x_047",
     subject: "da-262",
-    lecture: "lecture-12",
-    lectureNo: 12,
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "DDE in Windows stands for:",
     options: ["Digital Data Encryption", "Distributed Data Execution", "Dynamic Data Exchange", "Direct Data Entry"],
     correct: 2,
@@ -1554,8 +1543,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262x_048",
     subject: "da-262",
-    lecture: "lecture-12",
-    lectureNo: 12,
+    lecture: "lecture-3",
+    lectureNo: 3,
     question: "Which minimum RAM is required to run Windows OS?",
     options: ["8 MB", "4 MB", "1 MB", "16 MB"],
     correct: 0,
@@ -1564,8 +1553,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262x_049",
     subject: "da-262",
-    lecture: "lecture-13",
-    lectureNo: 13,
+    lecture: "lecture-3",
+    lectureNo: 3,
     question: "Windows Explorer displays the contents of the entire system in:",
     options: ["Alphabetical order", "Chronological order", "Random order", "A hierarchical manner"],
     correct: 3,
@@ -1574,8 +1563,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262x_050",
     subject: "da-262",
-    lecture: "lecture-13",
-    lectureNo: 13,
+    lecture: "lecture-3",
+    lectureNo: 3,
     question: "In Windows Explorer, to select all files in a folder, the shortcut is:",
     options: ["Ctrl + A", "Ctrl + F", "Shift + A", "Ctrl + S"],
     correct: 0,
@@ -1584,8 +1573,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262x_051",
     subject: "da-262",
-    lecture: "lecture-13",
-    lectureNo: 13,
+    lecture: "lecture-3",
+    lectureNo: 3,
     question: "To permanently delete a file without moving to Recycle Bin in Windows:",
     options: ["Alt + Delete", "Shift + Delete", "Delete key only", "Ctrl + D"],
     correct: 1,
@@ -1594,8 +1583,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262x_052",
     subject: "da-262",
-    lecture: "lecture-14",
-    lectureNo: 14,
+    lecture: "lecture-10",
+    lectureNo: 10,
     question: "Word-wrap in word processing means:",
     options: ["Automatically moving to next line when current line is full", "Password protecting documents for general office use", "Wrapping text in a box in basic computer operations", "Wrapping files for transfer for data management only"],
     correct: 0,
@@ -1604,8 +1593,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262x_053",
     subject: "da-262",
-    lecture: "lecture-14",
-    lectureNo: 14,
+    lecture: "lecture-4",
+    lectureNo: 4,
     question: "Mail Merge printing is used to:",
     options: ["Print same letter with different addresses so each is original", "Sort mailing lists in basic computer operations", "Merge two documents into one for general office use", "Merge emails with attachments for data management only"],
     correct: 0,
@@ -1614,8 +1603,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262x_054",
     subject: "da-262",
-    lecture: "lecture-14",
-    lectureNo: 14,
+    lecture: "lecture-4",
+    lectureNo: 4,
     question: "Thesaurus in word processing provides:",
     options: ["Document templates for general office use", "Spell checking in basic computer operations", "Synonyms or words with similar meanings", "Grammar rules for data management only"],
     correct: 2,
@@ -1624,8 +1613,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262x_055",
     subject: "da-262",
-    lecture: "lecture-14",
-    lectureNo: 14,
+    lecture: "lecture-10",
+    lectureNo: 10,
     question: "A Macro in word processing is:",
     options: ["A table format for general office use", "A character or word representing a series of keystrokes", "A type of header/footer for data management only", "A large font size in basic computer operations"],
     correct: 1,
@@ -1634,8 +1623,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262x_056",
     subject: "da-262",
-    lecture: "lecture-15",
-    lectureNo: 15,
+    lecture: "lecture-4",
+    lectureNo: 4,
     question: "In MS Word, the Title Bar displays:",
     options: ["Document content", "Menu commands", "Formatting options", "Document name and application"],
     correct: 3,
@@ -1644,8 +1633,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262x_057",
     subject: "da-262",
-    lecture: "lecture-15",
-    lectureNo: 15,
+    lecture: "lecture-10",
+    lectureNo: 10,
     question: "In MS Word, the Formatting Toolbar contains:",
     options: ["Internet browser buttons for general office use", "Database connection tools for data management only", "File management options in basic computer operations", "Formatting options like font, size, bold, italic"],
     correct: 3,
@@ -1654,8 +1643,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262x_058",
     subject: "da-262",
-    lecture: "lecture-15",
-    lectureNo: 15,
+    lecture: "lecture-10",
+    lectureNo: 10,
     question: "In MS Word, the insertion point is:",
     options: ["A blinking vertical line indicating where text will be placed", "The cursor on taskbar in basic computer operations", "A status bar indicator for data management only", "A toolbar button for general office use"],
     correct: 0,
@@ -1664,8 +1653,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262x_059",
     subject: "da-262",
-    lecture: "lecture-15",
-    lectureNo: 15,
+    lecture: "lecture-3",
+    lectureNo: 3,
     question: "In MS Word File Menu, Save As Web page saves the document with extension:",
     options: [".txt", ".html", ".doc", ".pdf"],
     correct: 1,
@@ -1674,8 +1663,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262x_060",
     subject: "da-262",
-    lecture: "lecture-16",
-    lectureNo: 16,
+    lecture: "lecture-4",
+    lectureNo: 4,
     question: "In MS Word, to start a new page at any point, press:",
     options: ["Ctrl + Enter", "Tab + Enter", "Shift + Enter", "Alt + Enter"],
     correct: 0,
@@ -1684,8 +1673,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262x_061",
     subject: "da-262",
-    lecture: "lecture-16",
-    lectureNo: 16,
+    lecture: "lecture-4",
+    lectureNo: 4,
     question: "The Undo shortcut in MS Word Edit Menu is:",
     options: ["Alt + Z", "Ctrl + Z", "Ctrl + U", "Ctrl + Y"],
     correct: 1,
@@ -1694,8 +1683,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262x_062",
     subject: "da-262",
-    lecture: "lecture-16",
-    lectureNo: 16,
+    lecture: "lecture-4",
+    lectureNo: 4,
     question: "In MS Word Edit Menu, Go To shortcut is:",
     options: ["Ctrl + T", "Ctrl + G", "Ctrl + H", "Ctrl + F"],
     correct: 1,
@@ -1704,8 +1693,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262x_063",
     subject: "da-262",
-    lecture: "lecture-16",
-    lectureNo: 16,
+    lecture: "lecture-4",
+    lectureNo: 4,
     question: "In MS Word Format Menu, Drop Cap is used to:",
     options: ["Insert capital letters automatically", "Convert lowercase to uppercase", "Drop the letter to different lines", "Add drop shadow to text"],
     correct: 2,
@@ -1714,8 +1703,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262x_064",
     subject: "da-262",
-    lecture: "lecture-16",
-    lectureNo: 16,
+    lecture: "lecture-4",
+    lectureNo: 4,
     question: "In MS Word, Replace shortcut key is:",
     options: ["Ctrl + R", "Ctrl + F", "Ctrl + P", "Ctrl + H"],
     correct: 3,
@@ -1774,8 +1763,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262x_070",
     subject: "da-262",
-    lecture: "lecture-11",
-    lectureNo: 11,
+    lecture: "lecture-10",
+    lectureNo: 10,
     question: "The PATH command in DOS is used to:",
     options: ["List all files for general office use", "Provide access to files in other directories or disks", "Display directory tree in basic computer operations", "Format the disk for data management only"],
     correct: 1,
@@ -1784,8 +1773,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262x_071",
     subject: "da-262",
-    lecture: "lecture-11",
-    lectureNo: 11,
+    lecture: "lecture-9",
+    lectureNo: 9,
     question: "The difference between TREE and DIR commands in DOS is that:",
     options: ["TREE is for hard disk; DIR is for floppy in agriculture", "TREE displays directories and sub-directories without files; DIR shows files with size date time", "Both are identical for general office use", "TREE shows files; DIR shows folders in basic computer operations"],
     correct: 1,
@@ -1794,8 +1783,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262x_072",
     subject: "da-262",
-    lecture: "lecture-13",
-    lectureNo: 13,
+    lecture: "lecture-3",
+    lectureNo: 3,
     question: "To move files in Windows, the shortcut is:",
     options: ["Ctrl + A then Ctrl + V", "Ctrl + M then Ctrl + V", "Ctrl + X then Ctrl + V", "Ctrl + C then Ctrl + V"],
     correct: 2,
@@ -1864,8 +1853,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262x_079",
     subject: "da-262",
-    lecture: "lecture-12",
-    lectureNo: 12,
+    lecture: "lecture-3",
+    lectureNo: 3,
     question: "The Taskbar in Windows has the START menu on the:",
     options: ["Center", "Right side", "Left side", "Top"],
     correct: 2,
@@ -1874,8 +1863,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262x_080",
     subject: "da-262",
-    lecture: "lecture-12",
-    lectureNo: 12,
+    lecture: "lecture-10",
+    lectureNo: 10,
     question: "My Documents in Windows is:",
     options: ["The recycle bin for general office use", "The default storage location for files created in Windows", "The control panel in basic computer operations", "An internet browser for data management only"],
     correct: 1,
@@ -1884,8 +1873,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262x_081",
     subject: "da-262",
-    lecture: "lecture-13",
-    lectureNo: 13,
+    lecture: "lecture-3",
+    lectureNo: 3,
     question: "Network Neighborhood in Windows displays:",
     options: ["All computers connected in network with our computer", "Shared printers only in basic computer operations", "Internet websites for data management only", "Local file system for general office use"],
     correct: 0,
@@ -1894,8 +1883,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262x_082",
     subject: "da-262",
-    lecture: "lecture-15",
-    lectureNo: 15,
+    lecture: "lecture-10",
+    lectureNo: 10,
     question: "The Status bar in MS Word displays:",
     options: ["Formatting options in basic computer operations", "Internet connection status for general office use", "Page number, section number, line number, column number etc.", "File save options for data management only"],
     correct: 2,
@@ -1914,8 +1903,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262x_084",
     subject: "da-262",
-    lecture: "lecture-14",
-    lectureNo: 14,
+    lecture: "lecture-4",
+    lectureNo: 4,
     question: "Text formatting in word processing includes all EXCEPT:",
     options: ["Creating computer viruses", "Selecting font specifications", "Line spacing", "Setting left and right margins"],
     correct: 2,
@@ -2014,8 +2003,8 @@ export const da262LectureQuestions: Question[] = [
   {
     id: "d262x_094",
     subject: "da-262",
-    lecture: "lecture-12",
-    lectureNo: 12,
+    lecture: "lecture-3",
+    lectureNo: 3,
     question: "Assertion (A): Windows OS provides multitasking capabilities to the PC.\nReason (R): Windows runs each program or document or application in its own separate window.",
     options: ["Both A and R are true but R is NOT the correct explanation of A", "A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A"],
     correct: 0,
@@ -2082,17 +2071,6 @@ export const da262LectureQuestions: Question[] = [
     explanation: "As per DA-262 notes: FORTRAN=FORmula TRANslation, COBOL=Common Business Oriented Language, BASIC=Beginner's All purpose Symbolic Instruction Code, ALGOL=ALGOrithmic Language."
   },
   {
-    id: "d262x_104",
-    subject: "da-262",
-    lecture: "lecture-1",
-    lectureNo: 1,
-    question: "URL stands for:",
-    options: ["Universal Resource Locator", "Uniform Resource Locator", "Unified Remote Link", "Universal Remote Link"],
-    correct: 1,
-    explanation: "URL stands for Uniform Resource Locator. It is the complete web address used to locate a specific resource on the internet (e.g., https://www.example.com/page). It includes the protocol (http/https), domain name, and path.",
-    difficulty: "easy"
-  },
-  {
     id: "d262x_105",
     subject: "da-262",
     lecture: "lecture-2",
@@ -2152,16 +2130,6 @@ export const da262LectureQuestions: Question[] = [
     options: ["Hardware", "Software", "Firmware", "Freeware"],
     correct: 0,
     explanation: "As per DA-262 notes: The physical components of the computer are known as hardware, while the programs are software."
-  },
-  {
-    id: "d262l_106",
-    subject: "da-262",
-    lecture: "lecture-4",
-    lectureNo: 4,
-    question: "Files with the extension .COM or .EXE are called:",
-    options: ["Batch files", "Executable files", "Text files", "System files"],
-    correct: 1,
-    explanation: "As per DA-262 notes: The files with the extension of either .COM or .EXE are called executable files."
   },
   {
     id: "d262l_107",
@@ -2312,16 +2280,6 @@ export const da262LectureQuestions: Question[] = [
     options: ["Central nervous system", "Heart", "Lungs", "Skeleton"],
     correct: 0,
     explanation: "The control unit acts as the central nervous system of the computer - it interprets instructions and controls/coordinates the input, output and storage units."
-  },
-  {
-    id: "d262l_122",
-    subject: "da-262",
-    lecture: "lecture-10",
-    lectureNo: 10,
-    question: "The first generation of computers (1946-1954) used which component?",
-    options: ["Transistors", "Vacuum tubes", "Integrated circuits", "Microprocessors"],
-    correct: 1,
-    explanation: "First-generation computers (1946-1954) used vacuum tubes; second generation used transistors, third used integrated circuits (IC), fourth used VLSI and fifth uses ULSI/microprocessors."
   },
   {
     id: "d262l_123",

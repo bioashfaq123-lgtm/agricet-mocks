@@ -1,4 +1,3 @@
-// ===== FILE: da-151-lectures.ts =====
 import { Question } from "@/types";
 
 export const da151LectureQuestions: Question[] = [
@@ -2571,16 +2570,6 @@ export const da151LectureQuestions: Question[] = [
     options: ["A-2, B-3, C-1", "A-1, B-2, C-3", "A-3, B-2, C-1", "A-2, B-1, C-3"],
     correct: 0,
     explanation: "As per DA-151 notes: Connecting rod-drop forged steel; Piston rings-cast iron or pressed steel alloy; Flywheel-cast iron."
-  },
-  {
-    id: "d151l_158",
-    subject: "da-151",
-    lecture: "lecture-1",
-    lectureNo: 1,
-    question: "The power developed by an average pair of bullocks for usual farm work is about:",
-    options: ["1 hp", "10 hp", "0.1 hp", "5 hp"],
-    correct: 0,
-    explanation: "As per DA-151 notes: The power developed by an average pair of bullocks is about 1 hp for usual farm work."
   },
   {
     id: "d151l_159",

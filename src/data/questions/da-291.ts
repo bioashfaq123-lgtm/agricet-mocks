@@ -586,14 +586,6 @@ export const da291Questions: Question[] = [
     explanation: "The Sarpanch (Gram Panchayat President) is an elected local leader with influence over community decisions. Extension workers work with Sarpanch to organise programmes, get community land for demonstrations, mobilise farmers, and leverage Panchayat funds."
   },
   {
-    id: "d291_074",
-    subject: "da-291",
-    question: "MANAGE (National Institute of Agricultural Extension Management) is located at:",
-    options: ["Hyderabad (Rajendranagar) as an apex extension management institute", "Mumbai as a national agricultural policy and planning institute", "New Delhi as a central government institute under Ministry of Agriculture", "Bengaluru as part of the University of Agricultural Sciences campus"],
-    correct: 0,
-    explanation: "MANAGE (National Institute of Agricultural Extension Management), established in 1987, is located at Rajendranagar, Hyderabad. It is an apex national institute for training, research, and consultancy in agricultural extension management."
-  },
-  {
     id: "d291_075",
     subject: "da-291",
     question: "SAMETI (State Agricultural Management and Extension Training Institutes) are established at:",

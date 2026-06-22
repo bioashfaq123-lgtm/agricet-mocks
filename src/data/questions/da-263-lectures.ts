@@ -1,4 +1,3 @@
-// ===== FILE: da-263-lectures.ts =====
 import { Question } from "@/types";
 
 export const da263LectureQuestions: Question[] = [
@@ -808,8 +807,8 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_074",
     subject: "english-communication",
-    lecture: "lecture-14",
-    lectureNo: 14,
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "Which of the following is a MATERIAL noun?",
     options: ["Water", "Team", "Delhi", "Honesty"],
     correct: 0,
@@ -819,8 +818,8 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_075",
     subject: "english-communication",
-    lecture: "lecture-14",
-    lectureNo: 14,
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "Which noun names a quality, feeling, or idea that cannot be seen or touched?",
     options: ["Collective noun", "Abstract noun", "Common noun", "Proper noun"],
     correct: 1,
@@ -830,8 +829,8 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_076",
     subject: "english-communication",
-    lecture: "lecture-14",
-    lectureNo: 14,
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "The word 'flock' (as in 'a flock of birds') is an example of:",
     options: ["Common noun", "Abstract noun", "Material noun", "Collective noun"],
     correct: 3,
@@ -841,8 +840,8 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_077",
     subject: "english-communication",
-    lecture: "lecture-14",
-    lectureNo: 14,
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "Which of the following is a COUNTABLE noun?",
     options: ["Rice", "Chair", "Sand", "Milk"],
     correct: 1,
@@ -852,8 +851,8 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_078",
     subject: "english-communication",
-    lecture: "lecture-14",
-    lectureNo: 14,
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "Which of the following is an UNCOUNTABLE (mass) noun?",
     options: ["Book", "Farmer", "Village", "Advice"],
     correct: 3,
@@ -863,8 +862,8 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_079",
     subject: "english-communication",
-    lecture: "lecture-15",
-    lectureNo: 15,
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "In 'The students hurt themselves', the word 'themselves' is a:",
     options: ["Reflexive pronoun", "Possessive pronoun", "Reciprocal pronoun", "Emphatic pronoun"],
     correct: 0,
@@ -874,8 +873,8 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_080",
     subject: "english-communication",
-    lecture: "lecture-15",
-    lectureNo: 15,
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "Which pronoun is used to ask questions?",
     options: ["Interrogative pronoun", "Demonstrative pronoun", "Reflexive pronoun", "Indefinite pronoun"],
     correct: 0,
@@ -885,8 +884,8 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_081",
     subject: "english-communication",
-    lecture: "lecture-15",
-    lectureNo: 15,
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "In 'The boys helped each other', the phrase 'each other' is a:",
     options: ["Reciprocal pronoun", "Relative pronoun", "Indefinite pronoun", "Distributive pronoun"],
     correct: 0,
@@ -896,8 +895,8 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_082",
     subject: "english-communication",
-    lecture: "lecture-15",
-    lectureNo: 15,
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "In 'She herself solved the problem', the word 'herself' is a:",
     options: ["Reflexive pronoun", "Possessive pronoun", "Emphatic pronoun", "Relative pronoun"],
     correct: 2,
@@ -907,8 +906,8 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_083",
     subject: "english-communication",
-    lecture: "lecture-15",
-    lectureNo: 15,
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "Which of the following is a DISTRIBUTIVE pronoun?",
     options: ["Everyone", "Both", "Neither", "Each"],
     correct: 2,
@@ -918,8 +917,8 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_084",
     subject: "english-communication",
-    lecture: "lecture-16",
-    lectureNo: 16,
+    lecture: "lecture-2",
+    lectureNo: 2,
     question: "Which verb forms its past tense by adding '-ed' or '-d'?",
     options: ["Irregular verb", "Strong verb", "Regular (weak) verb", "Auxiliary verb"],
     correct: 2,
@@ -929,8 +928,8 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_085",
     subject: "english-communication",
-    lecture: "lecture-16",
-    lectureNo: 16,
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "Which of the following is an IRREGULAR verb?",
     options: ["Talked", "Went", "Played", "Worked"],
     correct: 1,
@@ -940,8 +939,8 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_086",
     subject: "english-communication",
-    lecture: "lecture-16",
-    lectureNo: 16,
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "Which verb is used as an auxiliary verb in 'She can swim'?",
     options: ["Can", "Swim", "None of these", "She"],
     correct: 0,
@@ -951,8 +950,8 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_087",
     subject: "english-communication",
-    lecture: "lecture-16",
-    lectureNo: 16,
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "The past tense of the verb 'bring' is:",
     options: ["Brought", "Brang", "Bringed", "Brung"],
     correct: 0,
@@ -962,8 +961,8 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_088",
     subject: "english-communication",
-    lecture: "lecture-17",
-    lectureNo: 17,
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "Which is an adjective of QUANTITY?",
     options: ["Second", "This", "Which", "Some"],
     correct: 3,
@@ -973,8 +972,8 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_089",
     subject: "english-communication",
-    lecture: "lecture-17",
-    lectureNo: 17,
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "Which is an adjective of NUMBER (numeral adjective)?",
     options: ["Much", "Three", "Some", "Beautiful"],
     correct: 1,
@@ -984,8 +983,8 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_090",
     subject: "english-communication",
-    lecture: "lecture-17",
-    lectureNo: 17,
+    lecture: "lecture-5",
+    lectureNo: 5,
     question: "The adverb 'there' in 'He lives there' is an adverb of:",
     options: ["Manner", "Time", "Place", "Degree"],
     correct: 2,
@@ -995,8 +994,8 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_091",
     subject: "english-communication",
-    lecture: "lecture-17",
-    lectureNo: 17,
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "The adverb 'very' in 'He is very tall' is an adverb of:",
     options: ["Time", "Number", "Affirmation", "Degree (quantity)"],
     correct: 3,
@@ -1006,8 +1005,8 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_092",
     subject: "english-communication",
-    lecture: "lecture-17",
-    lectureNo: 17,
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "Which adverb expresses NEGATION?",
     options: ["Hardly", "Twice", "Never", "Yesterday"],
     correct: 2,
@@ -1017,8 +1016,8 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_093",
     subject: "english-communication",
-    lecture: "lecture-18",
-    lectureNo: 18,
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "Which of the following is a COMPOUND preposition?",
     options: ["At", "On", "According to", "In"],
     correct: 2,
@@ -1028,8 +1027,8 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_094",
     subject: "english-communication",
-    lecture: "lecture-18",
-    lectureNo: 18,
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "Which of the following is a PARTICIPLE preposition?",
     options: ["Regarding", "Underneath", "Into", "Between"],
     correct: 0,
@@ -1039,8 +1038,8 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_095",
     subject: "english-communication",
-    lecture: "lecture-18",
-    lectureNo: 18,
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "Which of the following is a SIMPLE (one-word) preposition?",
     options: ["Below", "On account of", "With reference to", "In spite of"],
     correct: 0,
@@ -1050,8 +1049,8 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_096",
     subject: "english-communication",
-    lecture: "lecture-14",
-    lectureNo: 14,
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "Assertion (A): 'Gold' is a material noun.\nReason (R): Material nouns name substances or raw materials from which things are made and are usually uncountable.",
     options: ["A is true but R is false", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
     correct: 2,
@@ -1061,8 +1060,8 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_097",
     subject: "english-communication",
-    lecture: "lecture-16",
-    lectureNo: 16,
+    lecture: "lecture-2",
+    lectureNo: 2,
     question: "Assertion (A): 'Slept' is the past tense of 'sleep'.\nReason (R): 'Sleep' is a regular (weak) verb that forms its past tense by adding '-ed'.",
     options: ["Both A and R are true and R is the correct explanation of A", "A is false but R is true", "Both A and R are true but R is not the correct explanation of A", "A is true but R is false"],
     correct: 3,
@@ -1072,8 +1071,8 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_098",
     subject: "english-communication",
-    lecture: "lecture-17",
-    lectureNo: 17,
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "Assertion (A): Adverbs can modify verbs, adjectives, and other adverbs.\nReason (R): An adverb is a word that modifies a noun to describe or limit its meaning.",
     options: ["Both A and R are true but R is not the correct explanation of A", "A is false but R is true", "A is true but R is false", "Both A and R are true and R is the correct explanation of A"],
     correct: 2,
@@ -1083,8 +1082,8 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_099",
     subject: "english-communication",
-    lecture: "lecture-14",
-    lectureNo: 14,
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "Match the noun with its KIND:\nColumn A: 1. Courage  2. Milk  3. Orchestra  4. River\nColumn B: P. Collective  Q. Proper  R. Abstract  S. Material",
     options: ["1-R, 2-S, 3-P, 4-Q", "1-S, 2-R, 3-Q, 4-P", "1-R, 2-P, 3-S, 4-Q", "1-P, 2-Q, 3-R, 4-S"],
     correct: 0,
@@ -1094,8 +1093,8 @@ export const da263LectureQuestions: Question[] = [
   {
     id: "d263l_100",
     subject: "english-communication",
-    lecture: "lecture-17",
-    lectureNo: 17,
+    lecture: "lecture-1",
+    lectureNo: 1,
     question: "Match the adverb with its TYPE:\nColumn A: 1. Quickly  2. Yesterday  3. Twice  4. Yes\nColumn B: P. Number  Q. Affirmation  R. Time  S. Manner",
     options: ["1-P, 2-Q, 3-R, 4-S", "1-S, 2-R, 3-P, 4-Q", "1-R, 2-S, 3-Q, 4-P", "1-S, 2-P, 3-R, 4-Q"],
     correct: 1,
@@ -1386,17 +1385,6 @@ export const da263LectureQuestions: Question[] = [
     options: ["The teacher advised to work hard.", "The teacher said that work hard.", "The teacher told to work hard.", "The teacher said to work hard."],
     correct: 3,
     explanation: "For imperative sentences in indirect speech: said + to + infinitive. The teacher said to work hard is correct.",
-    difficulty: "medium"
-  },
-  {
-    id: "d263l_127",
-    subject: "english-communication",
-    lecture: "lecture-8",
-    lectureNo: 8,
-    question: "Which sentence uses affect and effect correctly?",
-    options: ["The drought will effect the crops badly.", "The drought has effect on crops.", "The drought will affect the crops badly.", "The drought will effecting the crops."],
-    correct: 2,
-    explanation: "Affect (verb) = to influence. Effect (noun) = result. Will affect the crops is the correct usage.",
     difficulty: "medium"
   },
   {
