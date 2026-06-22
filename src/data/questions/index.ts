@@ -18,8 +18,6 @@ import { da291Questions } from "./da-291";
 // DA-262 (Computer Applications) and DA-263 (English Communication) — combined banks
 import { da262Questions } from "./da-262";
 import { da263Questions } from "./da-263";
-import { computerApplicationsQuestions } from "./computer-applications";
-import { englishCommunicationQuestions } from "./english-communication";
 // General Agriculture (separate bank for current affairs / GK)
 import { generalAgricultureQuestions } from "./general-agriculture";
 
@@ -94,9 +92,9 @@ export const ALL_QUESTIONS: Record<string, Question[]> = {
   "da-281": dedupe([...da281Questions, ...da281LectureQuestions]),
   "da-282": dedupe([...da282Questions, ...da282LectureQuestions]),
   "da-291": dedupe([...da291Questions, ...da291LectureQuestions]),
-  // DA-262 / DA-263 — merged combined bank + old bank + lecture questions
-  "computer-applications": dedupe([...da262Questions, ...computerApplicationsQuestions, ...da262LectureQuestions]),
-  "english-communication": dedupe([...da263Questions, ...englishCommunicationQuestions, ...da263LectureQuestions]),
+  // DA-262 (Computer Applications) / DA-263 (English Communication) — main bank + lecture questions
+  "computer-applications": dedupe([...da262Questions, ...da262LectureQuestions]),
+  "english-communication": dedupe([...da263Questions, ...da263LectureQuestions]),
   // General Agriculture
   "general-agriculture": dedupe(generalAgricultureQuestions),
 };
