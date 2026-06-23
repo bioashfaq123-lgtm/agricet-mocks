@@ -754,10 +754,10 @@ export const da263LectureQuestions: Question[] = [
     subject: "english-communication",
     lecture: "lecture-7",
     lectureNo: 7,
-    question: "'A stitch in time saves nine' implies:",
-    options: ["Save time for stitching", "Sewing is important", "Nine is a lucky number", "Timely action prevents bigger problems later"],
-    correct: 3,
-    explanation: "This proverb means that dealing with a problem promptly prevents it from becoming much worse.",
+    question: "Choose the correct word: ___ house is very small.",
+    options: ["There", "Their", "They're", "Theirs"],
+    correct: 1,
+    explanation: "'Their' is the possessive determiner showing ownership — 'Their house is very small.' ('There' refers to a place; 'they're' means 'they are').",
     difficulty: "easy"
   },
   {
@@ -1238,10 +1238,10 @@ export const da263LectureQuestions: Question[] = [
     subject: "english-communication",
     lecture: "lecture-7",
     lectureNo: 7,
-    question: "Which is a transitive verb in: The extension worker taught the farmers new techniques?",
-    options: ["extension", "new", "farmers", "taught"],
-    correct: 3,
-    explanation: "A transitive verb takes a direct object. Taught takes farmers and new techniques as objects.",
+    question: "Which of the following is a possessive pronoun?",
+    options: ["Their", "Theirs", "They", "Them"],
+    correct: 1,
+    explanation: "Possessive pronouns include mine, ours, yours, his, hers and theirs. 'Theirs' is a possessive pronoun, whereas 'their' is a possessive determiner used before a noun.",
     difficulty: "medium"
   },
   {
@@ -1634,10 +1634,10 @@ export const da263LectureQuestions: Question[] = [
     subject: "english-communication",
     lecture: "lecture-10",
     lectureNo: 10,
-    question: "Match barriers: Col A: 1-Physical, 2-Semantic, 3-Psychological, 4-Organizational. Col B: P-attitudes, Q-distance/noise, R-hierarchy, S-language. Col C: i-prejudice, ii-jargon, iii-long command chain, iv-poor phone connection",
-    options: ["1-Q-iv, 2-S-ii, 3-P-i, 4-R-iii", "1-P-i, 2-Q-iv, 3-R-iii, 4-S-ii", "1-R-iii, 2-Q-iv, 3-S-ii, 4-P-i", "1-S-ii, 2-P-i, 3-Q-iv, 4-R-iii"],
+    question: "Change to passive voice: 'The committee is submitting its report tomorrow.'",
+    options: ["Its report is being submitted by the committee tomorrow", "Its report was submitted by the committee tomorrow", "The committee submits its report tomorrow", "Its report has been submitted by the committee tomorrow"],
     correct: 0,
-    explanation: "Physical (noise=poor phone=iv), Semantic (language=jargon=ii), Psychological (attitudes=prejudice=i), Organizational (hierarchy=long chain=iii).",
+    explanation: "In the passive voice, the present-continuous active 'is submitting' becomes 'is being submitted': 'Its report is being submitted by the committee tomorrow.'",
     difficulty: "hard"
   },
   {

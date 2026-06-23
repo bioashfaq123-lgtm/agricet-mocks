@@ -259,10 +259,10 @@ export const da102LectureQuestions: Question[] = [
     subject: "da-102",
     lecture: "lecture-2",
     lectureNo: 2,
-    question: "Fall Armyworm (Spodoptera frugiperda) was first reported in India in:",
-    options: ["2023", "2012", "2005", "2018"],
-    correct: 3,
-    explanation: "Fall Armyworm, an invasive pest, was first detected in India in 2018 in Karnataka.",
+    question: "Which type of maize is suitable for popping (popcorn)?",
+    options: ["Zea mays var everta", "Zea mays var indurata", "Zea mays var saccharata", "Zea mays var indentata"],
+    correct: 0,
+    explanation: "Popcorn (Zea mays var everta) has a hard endosperm that pops on heating. Maize is classified by endosperm into types such as flint (indurata), pop (everta), sweet (saccharata) and dent (indentata).",
     difficulty: "medium"
   },
   {
@@ -710,10 +710,10 @@ export const da102LectureQuestions: Question[] = [
     subject: "da-102",
     lecture: "lecture-5",
     lectureNo: 5,
-    question: "Pink bollworm (Pectinophora gossypiella) is a pest of:",
-    options: ["Cotton", "Sorghum", "Rice", "Maize"],
+    question: "In intercropping, the recommended row ratio of Green gram + Red gram is:",
+    options: ["7:1", "1:1", "3:3", "5:5"],
     correct: 0,
-    explanation: "Pink bollworm is a serious boll-feeding pest of cotton.",
+    explanation: "As per DA-102 notes, the Green gram + Red gram intercropping system is grown in a 7:1 row ratio (Green Gram + Cotton is 3:1).",
     difficulty: "easy"
   },
   {
