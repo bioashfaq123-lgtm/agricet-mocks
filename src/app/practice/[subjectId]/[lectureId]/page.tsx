@@ -7,6 +7,9 @@ import { useAuth } from "@/contexts/AuthContext";
 import { SUBJECTS } from "@/data/subjects";
 import { getLecture } from "@/data/lectures";
 import { ALL_QUESTIONS } from "@/data/questions";
+import { getTe } from "@/data/translations";
+import Bilingual from "@/components/Bilingual";
+import LanguageToggle from "@/components/LanguageToggle";
 import { Question } from "@/types";
 
 export default function LecturePracticePage() {
@@ -147,6 +150,7 @@ export default function LecturePracticePage() {
               {questions.map((q, i) => {
                 const userAns = answers[q.id];
                 const isCorrect = userAns === q.correct;
+                const qte = getTe(q.id);
                 return (
                   <div key={q.id} className="card p-4">
                     <div className="flex items-start gap-2 mb-3">
@@ -156,9 +160,10 @@ export default function LecturePracticePage() {
                           : <X className="w-5 h-5 text-red-500 flex-shrink-0 mt-0.5" />
                         : <AlertCircle className="w-5 h-5 text-gray-400 flex-shrink-0 mt-0.5" />
                       }
-                      <p className="text-sm font-medium text-gray-800 leading-relaxed">
-                        <span className="text-gray-400 mr-1">Q{i + 1}.</span> {q.question}
-                      </p>
+                      <div className="text-sm font-medium text-gray-800 leading-relaxed">
+                        <span className="text-gray-400 mr-1">Q{i + 1}.</span>
+                        <Bilingual as="span" en={q.question} te={qte?.q} teClassName="mt-1 font-semibold" />
+                      </div>
                     </div>
                     <div className="space-y-1.5 mb-3">
                       {q.options.map((opt, idx) => {
@@ -166,13 +171,13 @@ export default function LecturePracticePage() {
                         if (idx === q.correct)              cls += "bg-green-100 text-green-800 font-medium";
                         else if (idx === userAns)           cls += "bg-red-100 text-red-700";
                         else                                cls += "bg-gray-50 text-gray-600";
-                        return <div key={idx} className={cls}>{String.fromCharCode(65+idx)}. {opt}</div>;
+                        return <div key={idx} className={cls}>{String.fromCharCode(65+idx)}. <Bilingual as="span" en={opt} te={qte?.o?.[idx]} teClassName="mt-0.5" /></div>;
                       })}
                     </div>
                     {q.explanation && (
                       <div className="flex gap-2 p-2.5 bg-blue-50 rounded-lg">
                         <AlertCircle className="w-3.5 h-3.5 text-blue-500 flex-shrink-0 mt-0.5" />
-                        <p className="text-xs text-blue-700 leading-relaxed">{q.explanation}</p>
+                        <Bilingual as="p" className="text-xs text-blue-700 leading-relaxed" en={q.explanation} te={qte?.e} teClassName="mt-1" />
                       </div>
                     )}
                   </div>
@@ -187,6 +192,7 @@ export default function LecturePracticePage() {
 
   // Practice screen
   const current    = questions[currentIdx];
+  const te         = current ? getTe(current.id) : undefined;
   const isAnswered = answers[current?.id] !== undefined;
   const answered   = answers[current?.id];
   const answeredCount = Object.keys(answers).length;
@@ -205,8 +211,9 @@ export default function LecturePracticePage() {
               <p className="text-sm font-bold text-gray-900 truncate leading-tight">{lecture?.title}</p>
             </div>
           </div>
-          <div className="flex items-center gap-3 flex-shrink-0">
-            <span className="text-sm text-gray-500">{answeredCount}/{questions.length}</span>
+          <div className="flex items-center gap-2 flex-shrink-0">
+            <LanguageToggle />
+            <span className="text-sm text-gray-500 hidden sm:inline">{answeredCount}/{questions.length}</span>
             <button onClick={handleFinish}
               className="bg-green-600 hover:bg-green-700 text-white font-semibold px-3 py-1.5 rounded-lg text-xs transition-colors">
               Finish
@@ -229,9 +236,13 @@ export default function LecturePracticePage() {
               <span className="text-gray-400 text-sm">of {questions.length}</span>
             </div>
 
-            <p className="text-gray-900 font-medium text-base leading-relaxed mb-6 whitespace-pre-line">
-              {current?.question}
-            </p>
+            <Bilingual
+              as="p"
+              en={current?.question ?? ""}
+              te={te?.q}
+              className="text-gray-900 font-medium text-base leading-relaxed mb-6 whitespace-pre-line"
+              teClassName="mt-1 font-semibold"
+            />
 
             {/* Options */}
             <div className="space-y-3">
@@ -249,7 +260,7 @@ export default function LecturePracticePage() {
                     <span className="w-7 h-7 rounded-full border-2 border-current flex items-center justify-center text-xs font-bold flex-shrink-0">
                       {String.fromCharCode(65 + idx)}
                     </span>
-                    <span className="text-sm">{opt}</span>
+                    <Bilingual as="span" className="text-sm" en={opt} te={te?.o?.[idx]} teClassName="mt-0.5" />
                     {isAnswered && idx === current.correct && (
                       <CheckCircle className="w-5 h-5 text-green-600 ml-auto flex-shrink-0" />
                     )}
@@ -268,7 +279,7 @@ export default function LecturePracticePage() {
                   <AlertCircle className="w-4 h-4 text-blue-600" />
                   <span className="text-blue-700 font-semibold text-sm">Explanation</span>
                 </div>
-                <p className="text-blue-800 text-sm leading-relaxed">{current.explanation}</p>
+                <Bilingual as="p" className="text-blue-800 text-sm leading-relaxed" en={current.explanation} te={te?.e} teClassName="mt-1" />
               </div>
             )}
 
