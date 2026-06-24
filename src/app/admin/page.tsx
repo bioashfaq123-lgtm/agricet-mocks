@@ -12,6 +12,8 @@ import {
   Radio, Mail, Trophy, ListChecks, ChevronRight, Star,
 } from "lucide-react";
 import { GRAND_TEST_LIVE } from "@/data/grandTestLive";
+import { GRAND_TEST_13 } from "@/data/grandTest13";
+import { getTe } from "@/data/translations";
 import {
   AreaChart, Area, XAxis, YAxis, CartesianGrid,
   Tooltip, ResponsiveContainer, BarChart, Bar,
@@ -97,6 +99,7 @@ export default function AdminPage() {
   const [resultsSending, setResultsSending] = useState(false);
   const [qSearch,      setQSearch]      = useState("");
   const [qSubject,     setQSubject]     = useState("all");
+  const [qPaper,       setQPaper]       = useState<"gt13" | "gtlive19">("gt13");
   const [qExpanded,    setQExpanded]    = useState<string | null>(null);
 
   // Fetch live mock test attempts via server-side API (Admin SDK bypasses Firestore security rules)
@@ -1032,8 +1035,9 @@ export default function AdminPage() {
         {/* LIVE QUESTIONS TAB                                           */}
         {/* ════════════════════════════════════════════════════════════ */}
         {tab === "questions" && (() => {
-          const subjects = Array.from(new Set(GRAND_TEST_LIVE.map(q => q.subject)));
-          const filtered = GRAND_TEST_LIVE.filter(q => {
+          const PAPER = qPaper === "gt13" ? GRAND_TEST_13 : GRAND_TEST_LIVE;
+          const subjects = Array.from(new Set(PAPER.map(q => q.subject)));
+          const filtered = PAPER.filter(q => {
             const matchesSubject = qSubject === "all" || q.subject === qSubject;
             const s = qSearch.trim().toLowerCase();
             const matchesSearch = !s ||
@@ -1051,8 +1055,24 @@ export default function AdminPage() {
                   <h2 className="text-lg font-black text-gray-900">Live Mock Test — All Questions</h2>
                 </div>
                 <p className="text-sm text-gray-500">
-                  {GRAND_TEST_LIVE.length} questions total · showing {filtered.length}
+                  {PAPER.length} questions total · showing {filtered.length}
+                  {qPaper === "gt13" && <span className="ml-1 text-green-600 font-semibold">· 🌐 bilingual (English + తెలుగు)</span>}
                 </p>
+
+                {/* Paper selector */}
+                <div className="flex flex-wrap gap-2 mt-3">
+                  {([
+                    { id: "gt13",     label: "Grand Test 13 — 28 June (live)" },
+                    { id: "gtlive19", label: "19 June paper" },
+                  ] as { id: "gt13" | "gtlive19"; label: string }[]).map(p => (
+                    <button key={p.id} onClick={() => { setQPaper(p.id); setQExpanded(null); }}
+                      className={`px-3 py-1.5 rounded-lg text-xs font-bold transition-colors ${
+                        qPaper === p.id ? "bg-primary-600 text-white shadow-sm" : "bg-gray-100 text-gray-600 hover:bg-gray-200"
+                      }`}>
+                      {p.label}
+                    </button>
+                  ))}
+                </div>
 
                 <div className="flex flex-col sm:flex-row gap-3 mt-4">
                   <div className="relative flex-1">
@@ -1081,6 +1101,7 @@ export default function AdminPage() {
               <div className="space-y-3">
                 {filtered.map((q) => {
                   const isOpen = qExpanded === q.id;
+                  const te = getTe(q.id);
                   return (
                     <div key={q.id} className="bg-white rounded-2xl border border-gray-200 overflow-hidden">
                       <button
@@ -1096,7 +1117,8 @@ export default function AdminPage() {
                               {formatSubject(q.subject)}
                             </span>
                           </div>
-                          <p className="text-sm font-semibold text-gray-900 leading-relaxed">{q.question}</p>
+                          <p className="text-sm font-semibold text-gray-900 leading-relaxed whitespace-pre-line">{q.question}</p>
+                          {te?.q && <p className="text-sm text-blue-700 leading-relaxed mt-1" style={{ fontFamily: '"Noto Sans Telugu", "Nirmala UI", sans-serif' }}>{te.q}</p>}
                         </div>
                         <ChevronRight className={`w-5 h-5 text-gray-400 shrink-0 transition-transform ${isOpen ? "rotate-90" : ""}`} />
                       </button>
@@ -1137,12 +1159,14 @@ export default function AdminPage() {
                               <span className="font-bold mr-1.5">{String.fromCharCode(65 + i)}.</span>
                               {opt}
                               {i === q.correct && <span className="ml-2 text-xs font-bold text-green-600">✓ Correct Answer</span>}
+                              {te?.o?.[i] && <span className="block text-blue-700 mt-0.5" style={{ fontFamily: '"Noto Sans Telugu", "Nirmala UI", sans-serif' }}>{te.o[i]}</span>}
                             </div>
                           ))}
                           {q.explanation && (
                             <div className="bg-blue-50 border border-blue-100 rounded-lg px-3 py-2.5 mt-2">
                               <span className="text-xs font-bold text-blue-700">💡 Explanation: </span>
                               <span className="text-sm text-blue-900 leading-relaxed">{q.explanation}</span>
+                              {te?.e && <span className="block text-blue-700 mt-1" style={{ fontFamily: '"Noto Sans Telugu", "Nirmala UI", sans-serif' }}>{te.e}</span>}
                             </div>
                           )}
                         </div>
