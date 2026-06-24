@@ -114,7 +114,7 @@ export default function LandingPage() {
               </div>
               <h2 className="text-2xl md:text-3xl font-black text-white mb-2">FREE Live AGRICET Mock Test — 28th June 2026</h2>
               <p className="text-gray-300 text-sm mb-4 max-w-2xl">
-                100 hard, exam-level questions covering all 17 subjects · 100 minutes · Sunday 8 PM IST.
+                100 questions covering all 17 subjects · 100 minutes · Sunday 8 PM IST.
                 Every question and option is shown in <span className="font-bold text-green-300">both English and Telugu (తెలుగు)</span> —
                 ideal for Telugu-medium students. 100% FREE for all aspirants across Telangana.
               </p>

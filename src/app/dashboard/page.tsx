@@ -76,7 +76,6 @@ function LiveTestBanner() {
       <p className="text-gray-400 text-xs mb-2">8 PM (28th) – 12 PM (29th) IST · 100 Questions · All 17 Subjects · Absolutely FREE</p>
       <div className="flex flex-wrap gap-2 mb-3">
         <span className="inline-flex items-center gap-1 bg-green-500/20 text-green-300 text-xs font-bold px-2.5 py-1 rounded-full border border-green-500/40">🌐 Bilingual — English + తెలుగు</span>
-        <span className="inline-flex items-center gap-1 bg-red-500/20 text-red-300 text-xs font-bold px-2.5 py-1 rounded-full border border-red-500/40">🔥 Hard / AGRICET level</span>
       </div>
       <div className="grid grid-cols-4 gap-2 mb-3">
         {[{v:d,l:"Days"},{v:h,l:"Hrs"},{v:m,l:"Min"},{v:s,l:"Sec"}].map(({v,l}) => (
@@ -89,7 +88,7 @@ function LiveTestBanner() {
       <div className="bg-yellow-400/15 border border-yellow-400/40 rounded-xl p-3">
         <p className="text-yellow-300 text-xs font-bold mb-0.5">⚠️ Sign in / create your account before the test starts</p>
         <p className="text-yellow-100/80 text-xs leading-relaxed">
-          Hard, AGRICET-standard paper covering all 17 subjects. The test can be attempted
+          Full-length paper covering all 17 subjects. The test can be attempted
           <span className="font-bold"> once per student</span> during the live window.
         </p>
       </div>
