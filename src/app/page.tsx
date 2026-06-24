@@ -8,6 +8,7 @@ import {
 } from "lucide-react";
 import { SUBJECTS } from "@/data/subjects";
 import Navbar from "@/components/Navbar";
+import LiveTestBanner from "@/components/LiveTestBanner";
 import { useAuth } from "@/contexts/AuthContext";
 
 const MOTIVATIONAL = [
@@ -103,26 +104,9 @@ export default function LandingPage() {
       </section>
 
       {/* ── FREE LIVE MOCK TEST (28 June 2026) ── */}
-      <section className="py-12 bg-gradient-to-br from-gray-900 to-gray-800 border-y border-green-500/40">
-        <div className="max-w-4xl mx-auto px-4">
-          <div className="flex flex-col md:flex-row items-center gap-6 text-center md:text-left">
-            <div className="text-6xl flex-shrink-0">🔴</div>
-            <div className="flex-1">
-              <div className="flex flex-wrap gap-2 justify-center md:justify-start mb-3">
-                <span className="bg-red-500 text-white text-xs font-black px-3 py-1 rounded-full animate-pulse">FREE LIVE TEST</span>
-                <span className="bg-green-500/20 text-green-300 border border-green-500/40 text-xs font-bold px-3 py-1 rounded-full">🌐 Bilingual — English + తెలుగు</span>
-              </div>
-              <h2 className="text-2xl md:text-3xl font-black text-white mb-2">FREE Live AGRICET Mock Test — 28th June 2026</h2>
-              <p className="text-gray-300 text-sm mb-4 max-w-2xl">
-                100 questions covering all 17 subjects · 100 minutes · Sunday 8 PM IST.
-                Every question and option is shown in <span className="font-bold text-green-300">both English and Telugu (తెలుగు)</span> —
-                ideal for Telugu-medium students. 100% FREE for all aspirants across Telangana.
-              </p>
-              <Link href="/signup" className="inline-flex items-center gap-2 bg-green-500 hover:bg-green-400 text-gray-900 font-black px-6 py-3 rounded-xl text-sm transition-all hover:scale-105 shadow-lg">
-                Register Free to Participate <ArrowRight className="w-4 h-4" />
-              </Link>
-            </div>
-          </div>
+      <section className="py-10 bg-gray-50">
+        <div className="max-w-3xl mx-auto px-4">
+          <LiveTestBanner />
         </div>
       </section>
 
