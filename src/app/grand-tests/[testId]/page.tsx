@@ -23,6 +23,9 @@ import { GRAND_TEST_10 } from "@/data/grandTest10";
 import { GRAND_TEST_11 } from "@/data/grandTest11";
 import { GRAND_TEST_LIVE } from "@/data/grandTestLive";
 import { GRAND_TEST_13 } from "@/data/grandTest13";
+import { getTe } from "@/data/translations";
+import Bilingual from "@/components/Bilingual";
+import LanguageToggle from "@/components/LanguageToggle";
 import { LIVE_START_UTC, getLiveStatus } from "@/lib/liveTest";
 
 const TEST_DATA: Record<string, GrandTestQuestion[]> = {
@@ -358,6 +361,7 @@ export default function GrandTestPage() {
   }
 
   const current   = questions[currentIdx];
+  const te        = current ? getTe(current.id) : undefined;
 
   // Defensive guard — if for any reason the current question can't be resolved
   // (bad index, empty data, race condition on slow connections), show a
@@ -516,7 +520,8 @@ export default function GrandTestPage() {
 
           {/* Centre */}
           <div className="flex items-center gap-3">
-            <span className="text-xs text-gray-500 font-medium">{attempted}/{questions.length}</span>
+            <LanguageToggle />
+            <span className="text-xs text-gray-500 font-medium hidden sm:inline">{attempted}/{questions.length}</span>
             <div className={`flex items-center gap-1.5 font-mono font-bold px-3 py-1.5 rounded-lg text-sm ${
               timeLeft < 600 ? "bg-red-100 text-red-600 animate-pulse" : "bg-primary-100 text-primary-700"
             }`}>
@@ -570,11 +575,15 @@ export default function GrandTestPage() {
             </div>
 
             {/* Question text */}
-            <p className="text-gray-900 font-semibold text-base sm:text-lg leading-relaxed mb-3 whitespace-pre-line">
-              {current?.question}
-            </p>
+            <Bilingual
+              as="p"
+              en={current?.question ?? ""}
+              te={te?.q}
+              className="text-gray-900 font-semibold text-base sm:text-lg leading-relaxed mb-3 whitespace-pre-line"
+              teClassName="mt-1"
+            />
 
-            {/* Optional match-the-following table */}
+            {/* Optional match-the-following table (bilingual when translated) */}
             {current?.matchTable && (
               <div className="overflow-x-auto mb-6 rounded-xl border border-gray-200">
                 <table className="w-full text-sm">
@@ -582,7 +591,7 @@ export default function GrandTestPage() {
                     <tr className="bg-primary-50">
                       {current.matchTable.headers.map((h, i) => (
                         <th key={i} className="text-left font-bold text-primary-800 px-3 py-2.5 border-b border-gray-200">
-                          {h}
+                          <Bilingual as="span" en={h} te={te?.mt?.headers?.[i]} teClassName="mt-0.5 font-semibold" />
                         </th>
                       ))}
                     </tr>
@@ -592,7 +601,7 @@ export default function GrandTestPage() {
                       <tr key={ri} className={ri % 2 === 0 ? "bg-white" : "bg-gray-50"}>
                         {row.map((cell, ci) => (
                           <td key={ci} className="px-3 py-2.5 text-gray-700 border-b border-gray-100 last:border-b-0">
-                            {cell}
+                            <Bilingual as="span" en={cell} te={te?.mt?.rows?.[ri]?.[ci]} teClassName="mt-0.5" />
                           </td>
                         ))}
                       </tr>
@@ -637,7 +646,7 @@ export default function GrandTestPage() {
                     }`}>
                       {String.fromCharCode(65 + idx)}
                     </span>
-                    <span className="flex-1 leading-relaxed text-sm sm:text-base pt-0.5">{opt}</span>
+                    <Bilingual as="span" className="flex-1 leading-relaxed text-sm sm:text-base pt-0.5" en={opt} te={te?.o?.[idx]} teClassName="mt-0.5" />
                     {!isLive && answered !== undefined && idx === current.correct && (
                       <CheckCircle className="w-5 h-5 text-green-600 flex-shrink-0 mt-0.5" />
                     )}
@@ -656,7 +665,7 @@ export default function GrandTestPage() {
                   <AlertCircle className="w-4 h-4 text-blue-600 flex-shrink-0" />
                   <span className="text-blue-700 font-bold text-sm">Explanation</span>
                 </div>
-                <p className="text-blue-900 text-sm leading-relaxed">{current.explanation}</p>
+                <Bilingual as="p" className="text-blue-900 text-sm leading-relaxed" en={current.explanation} te={te?.e} teClassName="mt-1" />
               </div>
             )}
 

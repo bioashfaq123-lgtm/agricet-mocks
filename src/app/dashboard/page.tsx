@@ -47,7 +47,8 @@ function LiveTestBanner() {
           <span className="bg-white/25 text-white text-xs font-bold px-2 py-0.5 rounded-full">100% FREE</span>
         </div>
         <h3 className="text-lg font-black mb-1">FREE Live Mock Test is LIVE!</h3>
-        <p className="text-green-100 text-xs mb-4">100 Questions · 100 Minutes · All 17 Subjects · Open till 12 PM IST (29th June)</p>
+        <p className="text-green-100 text-xs mb-2">100 Questions · 100 Minutes · All 17 Subjects · Open till 12 PM IST (29th June)</p>
+        <p className="inline-flex items-center gap-1 bg-white/20 text-white text-xs font-bold px-2.5 py-1 rounded-full mb-4">🌐 Bilingual — English + తెలుగు</p>
         <Link href="/grand-tests/gtlive"
           className="inline-flex items-center gap-2 bg-white text-green-700 font-black px-5 py-2.5 rounded-xl text-sm hover:bg-green-50 transition-all shadow">
           Start FREE Test Now <ChevronRight className="w-4 h-4" />
@@ -72,7 +73,11 @@ function LiveTestBanner() {
         <span className="bg-yellow-400 text-black text-xs font-black px-2 py-0.5 rounded-full">UPCOMING</span>
       </div>
       <h3 className="text-base font-black text-white mb-1">FREE Live Mock Test — 28th June 2026 (Sunday)</h3>
-      <p className="text-gray-400 text-xs mb-3">8 PM (28th) – 12 PM (29th) IST · 100 Questions · All 17 Subjects · Absolutely FREE</p>
+      <p className="text-gray-400 text-xs mb-2">8 PM (28th) – 12 PM (29th) IST · 100 Questions · All 17 Subjects · Absolutely FREE</p>
+      <div className="flex flex-wrap gap-2 mb-3">
+        <span className="inline-flex items-center gap-1 bg-green-500/20 text-green-300 text-xs font-bold px-2.5 py-1 rounded-full border border-green-500/40">🌐 Bilingual — English + తెలుగు</span>
+        <span className="inline-flex items-center gap-1 bg-red-500/20 text-red-300 text-xs font-bold px-2.5 py-1 rounded-full border border-red-500/40">🔥 Hard / AGRICET level</span>
+      </div>
       <div className="grid grid-cols-4 gap-2 mb-3">
         {[{v:d,l:"Days"},{v:h,l:"Hrs"},{v:m,l:"Min"},{v:s,l:"Sec"}].map(({v,l}) => (
           <div key={l} className="bg-gray-700 rounded-xl p-2 text-center border border-gray-600">
