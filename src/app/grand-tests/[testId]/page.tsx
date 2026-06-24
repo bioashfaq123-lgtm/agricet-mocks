@@ -22,6 +22,7 @@ import { GRAND_TEST_9  } from "@/data/grandTest9";
 import { GRAND_TEST_10 } from "@/data/grandTest10";
 import { GRAND_TEST_11 } from "@/data/grandTest11";
 import { GRAND_TEST_LIVE } from "@/data/grandTestLive";
+import { GRAND_TEST_13 } from "@/data/grandTest13";
 import { LIVE_START_UTC, getLiveStatus } from "@/lib/liveTest";
 
 const TEST_DATA: Record<string, GrandTestQuestion[]> = {
@@ -37,9 +38,10 @@ const TEST_DATA: Record<string, GrandTestQuestion[]> = {
   gt10:   GRAND_TEST_10,
   gt11:   GRAND_TEST_11,
   gt12:   GRAND_TEST_LIVE,   // 19 June 2026 live test, now open for practice
+  gtlive: GRAND_TEST_13,     // 28 June 2026 FREE live test
 };
 
-const FREE_IDS: string[] = []; // live event over; replay (gt12) is a normal practice test
+const FREE_IDS: string[] = ["gtlive"]; // the 28 June live test is free for all
 
 // subject → short colour label
 const SUBJECT_COLORS: Record<string, string> = {
