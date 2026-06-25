@@ -1,11 +1,20 @@
 "use client";
 import { useState, useEffect } from "react";
-import { Smartphone, X, ChevronDown, ChevronUp } from "lucide-react";
+import { Smartphone, X, ChevronDown, ChevronUp, Download } from "lucide-react";
+
+/** The browser's deferred install prompt (Chrome/Edge/Android & desktop). */
+interface BeforeInstallPromptEvent extends Event {
+  prompt: () => Promise<void>;
+  userChoice: Promise<{ outcome: "accepted" | "dismissed" }>;
+}
 
 export default function PWAInstallBanner() {
   const [visible, setVisible]   = useState(false);
   const [expanded, setExpanded] = useState(false);
   const [tab, setTab]           = useState<"android" | "iphone">("android");
+  // When the browser supports one-tap install, it hands us this event.
+  const [deferredPrompt, setDeferredPrompt] = useState<BeforeInstallPromptEvent | null>(null);
+  const [installing, setInstalling] = useState(false);
 
   useEffect(() => {
     // Show ONLY to users who have NOT installed the app yet.
@@ -26,11 +35,46 @@ export default function PWAInstallBanner() {
     if (ua.includes("iphone") || ua.includes("ipad")) setTab("iphone");
 
     setVisible(true);
+
+    // Capture the native install prompt so we can trigger it with one tap.
+    const onBeforeInstall = (e: Event) => {
+      e.preventDefault();
+      setDeferredPrompt(e as BeforeInstallPromptEvent);
+    };
+    // Once installed, hide the banner immediately.
+    const onInstalled = () => {
+      setDeferredPrompt(null);
+      setVisible(false);
+    };
+    window.addEventListener("beforeinstallprompt", onBeforeInstall);
+    window.addEventListener("appinstalled", onInstalled);
+    return () => {
+      window.removeEventListener("beforeinstallprompt", onBeforeInstall);
+      window.removeEventListener("appinstalled", onInstalled);
+    };
   }, []);
 
   const dismiss = () => {
     sessionStorage.setItem("pwa_banner_dismissed", "1");
     setVisible(false);
+  };
+
+  // One-tap native install (Android Chrome/Edge, desktop Chrome/Edge).
+  const installNow = async () => {
+    if (!deferredPrompt) {
+      setExpanded(true); // no native prompt available → show manual steps
+      return;
+    }
+    setInstalling(true);
+    try {
+      await deferredPrompt.prompt();
+      await deferredPrompt.userChoice;
+    } catch {
+      /* user closed the prompt — ignore */
+    } finally {
+      setDeferredPrompt(null); // a prompt can only be used once
+      setInstalling(false);
+    }
   };
 
   if (!visible) return null;
@@ -56,14 +100,29 @@ export default function PWAInstallBanner() {
 
         {/* Actions */}
         <div className="flex items-center gap-2 flex-shrink-0">
+          {/* One-tap native install — only when the browser supports it */}
+          {deferredPrompt && (
+            <button
+              onClick={installNow}
+              disabled={installing}
+              className="inline-flex items-center gap-1 bg-white text-green-700 font-black text-xs px-3 py-1.5 rounded-full hover:bg-green-50 transition-colors shadow-sm disabled:opacity-60"
+            >
+              <Download className="w-3.5 h-3.5" />
+              {installing ? "Installing…" : "Install App"}
+            </button>
+          )}
           <button
             onClick={() => setExpanded((e) => !e)}
-            className="inline-flex items-center gap-1 bg-white text-green-700 font-bold text-xs px-3 py-1.5 rounded-full hover:bg-green-50 transition-colors shadow-sm"
+            className={`inline-flex items-center gap-1 font-bold text-xs px-3 py-1.5 rounded-full transition-colors shadow-sm ${
+              deferredPrompt
+                ? "bg-white/15 text-white hover:bg-white/25"
+                : "bg-white text-green-700 hover:bg-green-50"
+            }`}
           >
             {expanded ? (
               <><ChevronUp className="w-3 h-3" /> Hide</>
             ) : (
-              <><ChevronDown className="w-3 h-3" /> How to install</>
+              <><ChevronDown className="w-3 h-3" /> {deferredPrompt ? "Manual steps" : "How to install"}</>
             )}
           </button>
           <button
