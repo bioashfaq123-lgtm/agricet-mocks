@@ -487,6 +487,28 @@ export default function GrandTestPage() {
                   </>
                 )}
               </div>
+
+              {/* About the website + ₹199 upgrade promo */}
+              <div className="bg-gradient-to-br from-green-700 to-emerald-800 rounded-xl p-5 text-white text-left">
+                <h3 className="text-base font-black mb-1">🌾 AgriCareer Academy — your AGRICET & AEO prep partner</h3>
+                <p className="text-green-100 text-xs leading-relaxed mb-3">
+                  This website gives you <b>topic-wise &amp; subject-wise mock tests</b> across all <b>17 Diploma
+                  subjects</b> — Agronomy, Genetics, Entomology, Horticulture, Extension and more — with <b>3400+ MCQs</b>,
+                  previous-year papers, a detailed <b>answer key &amp; explanation</b> for every question, and full
+                  <b> English + తెలుగు</b> support. Practise anywhere, track your progress, and get instant results.
+                </p>
+                <div className="bg-white/10 border border-white/20 rounded-lg p-3 mb-3">
+                  <p className="text-sm font-bold">Want to practise more questions like these?</p>
+                  <p className="text-green-100 text-xs mt-0.5">Unlock <b>all 17 subjects</b> with a one-time payment of just <b className="text-amber-300 text-base">₹199</b> — full access, no recurring fees.</p>
+                </div>
+                <Link href="/dashboard" className="block w-full text-center bg-white text-green-700 font-black px-5 py-2.5 rounded-xl text-sm hover:bg-green-50 transition-all">
+                  🔓 Subscribe ₹199 — Unlock Full Access
+                </Link>
+                <a href="https://www.youtube.com/@AgriCareerAcademy" target="_blank" rel="noopener noreferrer"
+                  className="block w-full text-center mt-2 bg-red-600 hover:bg-red-700 text-white font-bold px-5 py-2 rounded-xl text-xs transition-all">
+                  ▶ Subscribe on YouTube for more FREE live tests
+                </a>
+              </div>
               </>
             ) : (
               <button

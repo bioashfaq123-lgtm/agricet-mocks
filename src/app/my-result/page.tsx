@@ -223,6 +223,19 @@ export default function MyResultPage() {
           </div>
         )}
 
+        {/* About the website + ₹199 upgrade promo */}
+        <div className="bg-gradient-to-br from-green-700 to-emerald-800 rounded-2xl p-6 text-white">
+          <h3 className="text-base font-black mb-1">🌾 Want to practise more questions like these?</h3>
+          <p className="text-green-100 text-xs leading-relaxed mb-3">
+            Get <b>topic-wise &amp; subject-wise mock tests</b> across all <b>17 Diploma subjects</b> — with <b>3400+ MCQs</b>,
+            previous-year papers, detailed <b>answer key &amp; explanations</b>, and full <b>English + తెలుగు</b> support.
+            Unlock everything with a one-time payment of just <b className="text-amber-300 text-base">₹199</b> — no recurring fees.
+          </p>
+          <Link href="/dashboard" className="block w-full text-center bg-white text-green-700 font-black px-5 py-2.5 rounded-xl text-sm hover:bg-green-50 transition-all">
+            🔓 Subscribe ₹199 — Unlock Full Access
+          </Link>
+        </div>
+
         <div className="text-center pt-2 pb-8">
           <Link href="/grand-tests" className="inline-flex items-center gap-2 text-gray-400 text-sm hover:underline">
             <ArrowLeft className="w-4 h-4" /> Back to Grand Tests

@@ -98,24 +98,19 @@ export async function POST(req: NextRequest) {
     // security rules denying the write), the result still lands in liveTestAttempts so
     // it shows up on the admin dashboard. De-duped by uid (one attempt per student).
     let attemptDocId: string | null = null;
+    // True when this student already has a saved attempt — the FIRST attempt is
+    // final, so a second submission (e.g. from a second open tab) must NOT
+    // overwrite the saved score and must NOT trigger another result email.
+    let alreadyAttempted = false;
     if (adminDb) {
       try {
         const existing = uid
           ? await adminDb.collection("liveTestAttempts").where("uid", "==", uid).limit(1).get()
           : null;
         if (existing && !existing.empty) {
+          // One attempt per student: keep the existing record untouched.
           attemptDocId = existing.docs[0].id;
-          await adminDb.collection("liveTestAttempts").doc(attemptDocId).set(
-            {
-              uid: uid ?? "",
-              name: name ?? "—",
-              email: to,
-              score, correct, wrong, unattempted, total,
-              answers: answers ?? {},
-              emailSent: false,
-            },
-            { merge: true }
-          );
+          alreadyAttempted = true;
         } else {
           const ref = await adminDb.collection("liveTestAttempts").add({
             uid: uid ?? "",
@@ -240,7 +235,8 @@ export async function POST(req: NextRequest) {
     // SDK, so the result can be e-mailed later from a dedicated email service —
     // no student data is lost. This protects the Gmail account from being
     // flagged/disabled for automated bulk sending.
-    if (!EMAIL_SENDING_PAUSED) {
+    // Skip emailing on a repeat submission — the first attempt was already handled.
+    if (!EMAIL_SENDING_PAUSED && !alreadyAttempted) {
       await transporter.sendMail({
         from: `"AgriCareer Academy" <${gmailUser}>`,
         to,
@@ -257,7 +253,7 @@ export async function POST(req: NextRequest) {
       }
     }
 
-    return NextResponse.json({ success: true, attemptDocId, emailPaused: EMAIL_SENDING_PAUSED });
+    return NextResponse.json({ success: true, attemptDocId, alreadyAttempted, emailPaused: EMAIL_SENDING_PAUSED });
   } catch (err) {
     console.error("send-live-results failed:", err);
     return NextResponse.json({ success: false, error: "Failed to send result email" }, { status: 500 });
