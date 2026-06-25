@@ -3,6 +3,8 @@ import { useState, useEffect, useCallback, useRef } from "react";
 import { useParams, useRouter } from "next/navigation";
 import Link from "next/link";
 import { ChevronLeft, ChevronRight, CheckCircle, X, AlertCircle, BookOpen, RotateCcw } from "lucide-react";
+import { doc, updateDoc, addDoc, collection, serverTimestamp } from "firebase/firestore";
+import { db } from "@/lib/firebase";
 import { useAuth } from "@/contexts/AuthContext";
 import { SUBJECTS } from "@/data/subjects";
 import { getLecture } from "@/data/lectures";
@@ -15,7 +17,7 @@ import { Question } from "@/types";
 export default function LecturePracticePage() {
   const params    = useParams();
   const router    = useRouter();
-  const { user, userData } = useAuth();
+  const { user, userData, refreshUserData } = useAuth();
 
   const subjectId = params.subjectId as string;
   const lectureId = params.lectureId as string;
@@ -31,6 +33,8 @@ export default function LecturePracticePage() {
   const [revealed, setRevealed]     = useState<Record<string, boolean>>({});
   const [finished, setFinished]     = useState(false);
   const [loading, setLoading]       = useState(true);
+  // Ensures each completed lecture practice is saved to Firestore only once.
+  const savedRef = useRef(false);
 
   useEffect(() => {
     if (!hasAccess) { router.push("/dashboard"); return; }
@@ -50,16 +54,52 @@ export default function LecturePracticePage() {
     setRevealed(prev => ({ ...prev, [qId]: true }));
   };
 
-  const handleFinish = useCallback(() => {
+  const handleFinish = useCallback(async () => {
     setFinished(true);
     window.scrollTo({ top: 0, behavior: "smooth" });
-  }, []);
+
+    // Record the practice attempt so it shows up in the student's progress and
+    // in the admin dashboard (Tests / Accuracy). Saved once per completion.
+    if (!user || savedRef.current) return;
+    const total = questions.length;
+    if (total === 0) return;
+    savedRef.current = true;
+
+    let correct = 0;
+    questions.forEach(q => { if (answers[q.id] === q.correct) correct++; });
+    const attempted = Object.keys(answers).length;
+    const score = Math.round((correct / total) * 100);
+
+    try {
+      await addDoc(collection(db, "testResults"), {
+        userId: user.uid, subjectId, lectureId, score, correct, total,
+        attempted, incorrect: attempted - correct,
+        mode: "lecture-practice", completedAt: serverTimestamp(),
+      });
+      const prev = userData?.progress?.[subjectId];
+      const newProgress = {
+        attempted: (prev?.attempted ?? 0) + total,
+        correct:   (prev?.correct   ?? 0) + correct,
+        lastScore: score,
+        bestScore: Math.max(prev?.bestScore ?? 0, score),
+        testCount: (prev?.testCount ?? 0) + 1,
+        lastAttempted: new Date(),
+      };
+      await updateDoc(doc(db, "users", user.uid), {
+        [`progress.${subjectId}`]: newProgress,
+      });
+      await refreshUserData();
+    } catch (e) {
+      console.error("Error saving practice result:", e);
+    }
+  }, [user, questions, answers, subjectId, lectureId, userData, refreshUserData]);
 
   const handleRestart = () => {
     setAnswers({});
     setRevealed({});
     setCurrentIdx(0);
     setFinished(false);
+    savedRef.current = false; // a fresh run can be saved again
     const allQs = ALL_QUESTIONS[subjectId] ?? [];
     const shuffled = [...allQs.filter(q => q.lecture === lectureId)].sort(() => Math.random() - 0.5);
     setQuestions(shuffled);
