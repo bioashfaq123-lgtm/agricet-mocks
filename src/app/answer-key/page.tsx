@@ -58,12 +58,22 @@ export default function AnswerKeyPage() {
                   <div className="overflow-x-auto mb-3 mt-2">
                     <table className="w-full text-xs border border-gray-200 rounded-lg">
                       <thead className="bg-gray-50 text-gray-500">
-                        <tr>{q.matchTable.headers.map((h, i) => <th key={i} className="text-left px-3 py-2 font-bold border-b border-gray-200">{h}</th>)}</tr>
+                        <tr>{q.matchTable.headers.map((h, i) => (
+                          <th key={i} className="text-left px-3 py-2 font-bold border-b border-gray-200">
+                            {h}
+                            {te?.mt?.headers?.[i] && <span className="te-text block font-semibold">{te.mt.headers[i]}</span>}
+                          </th>
+                        ))}</tr>
                       </thead>
                       <tbody>
                         {q.matchTable.rows.map((row, ri) => (
                           <tr key={ri} className="border-b border-gray-100 last:border-0">
-                            {row.map((c, ci) => <td key={ci} className="px-3 py-2 text-gray-700 align-top">{c}</td>)}
+                            {row.map((c, ci) => (
+                              <td key={ci} className="px-3 py-2 text-gray-700 align-top">
+                                {c}
+                                {te?.mt?.rows?.[ri]?.[ci] && <span className="te-text block">{te.mt.rows[ri][ci]}</span>}
+                              </td>
+                            ))}
                           </tr>
                         ))}
                       </tbody>
