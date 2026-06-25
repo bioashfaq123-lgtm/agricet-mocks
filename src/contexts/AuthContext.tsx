@@ -24,6 +24,7 @@ interface UserData {
   bookPaidAt?: string;
   sessionToken?: string;
   gtliveAttempted?: boolean;
+  gtliveAttemptedEdition?: string;
   createdAt?: unknown;
   progress?: Record<string, { attempted: number; correct: number; lastScore: number; bestScore: number; testCount: number; lastAttempted?: Date }>;
 }

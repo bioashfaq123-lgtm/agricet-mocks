@@ -3,6 +3,7 @@ import nodemailer from "nodemailer";
 import { adminDb } from "@/lib/firebase-admin";
 import admin from "firebase-admin";
 import { EMAIL_SENDING_PAUSED } from "@/lib/emailConfig";
+import { LIVE_EDITION } from "@/lib/liveTest";
 
 export const maxDuration = 30;
 
@@ -139,7 +140,7 @@ export async function POST(req: NextRequest) {
     // denied by security rules. The client reads users/{uid}.gtliveAttempted. ──
     if (adminDb && uid) {
       try {
-        await adminDb.collection("users").doc(uid).set({ gtliveAttempted: true }, { merge: true });
+        await adminDb.collection("users").doc(uid).set({ gtliveAttempted: true, gtliveAttemptedEdition: LIVE_EDITION }, { merge: true });
       } catch (e) {
         console.error("send-live-results: failed to set gtliveAttempted flag:", e);
       }

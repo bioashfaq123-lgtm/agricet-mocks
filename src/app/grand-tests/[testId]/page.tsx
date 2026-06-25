@@ -26,7 +26,7 @@ import { GRAND_TEST_13 } from "@/data/grandTest13";
 import { getTe } from "@/data/translations";
 import Bilingual from "@/components/Bilingual";
 import LanguageToggle from "@/components/LanguageToggle";
-import { LIVE_START_UTC, getLiveStatus } from "@/lib/liveTest";
+import { LIVE_START_UTC, getLiveStatus, LIVE_EDITION } from "@/lib/liveTest";
 
 const TEST_DATA: Record<string, GrandTestQuestion[]> = {
   gt1:    GRAND_TEST_1,
@@ -212,7 +212,7 @@ export default function GrandTestPage() {
         // is enough. The gate below reads userData.gtliveAttempted (kept in
         // sync by the AuthContext onSnapshot) to block any re-attempt. ──
         try {
-          await updateDoc(doc(db, "users", user.uid), { gtliveAttempted: true });
+          await updateDoc(doc(db, "users", user.uid), { gtliveAttempted: true, gtliveAttemptedEdition: LIVE_EDITION });
         } catch (flagErr) {
           console.error("Failed to set gtliveAttempted flag:", flagErr);
         }
@@ -335,7 +335,7 @@ export default function GrandTestPage() {
   // mock test (flag set on submission). `!finished` keeps the just-completed
   // student on their score screen this session; on any later visit they are
   // blocked here. ──
-  if (isLive && liveStatus === "live" && !finished && userData?.gtliveAttempted) {
+  if (isLive && liveStatus === "live" && !finished && userData?.gtliveAttemptedEdition === LIVE_EDITION) {
     return (
       <div className="min-h-screen bg-gray-900 flex items-center justify-center p-4">
         <div className="max-w-md w-full text-center">

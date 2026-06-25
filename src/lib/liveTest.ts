@@ -6,6 +6,11 @@ export const LIVE_TEST_ID   = "gtlive";
 export const LIVE_START_UTC = new Date("2026-06-28T14:30:00Z"); // 8 PM IST, 28 June
 export const LIVE_END_UTC   = new Date("2026-06-29T06:30:00Z"); // 12:00 PM IST, 29 June
 
+/** Unique id for THIS live-test edition. The one-attempt lock is stored per
+ *  edition (users/{uid}.gtliveAttemptedEdition), so students who took a previous
+ *  live test are NOT blocked from a new one. Bump this for every new live test. */
+export const LIVE_EDITION = "2026-06-28";
+
 export function getLiveStatus(now: Date = new Date()): "before" | "live" | "ended" {
   if (now < LIVE_START_UTC) return "before";
   if (now > LIVE_END_UTC)   return "ended";
