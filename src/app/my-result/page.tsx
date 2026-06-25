@@ -22,7 +22,8 @@ interface Attempt {
 }
 
 export default function MyResultPage() {
-  const { user, loading } = useAuth();
+  const { user, userData, loading } = useAuth();
+  const isPaid = userData?.isPaid ?? false;
   const router = useRouter();
 
   const [attempt, setAttempt]   = useState<Attempt | null>(null);
@@ -223,7 +224,8 @@ export default function MyResultPage() {
           </div>
         )}
 
-        {/* About the website + ₹199 upgrade promo */}
+        {/* About the website + ₹199 upgrade promo — hidden for paid students */}
+        {!isPaid && (
         <div className="bg-gradient-to-br from-green-700 to-emerald-800 rounded-2xl p-6 text-white">
           <h3 className="text-base font-black mb-1">🌾 Want to practise more questions like these?</h3>
           <p className="text-green-100 text-xs leading-relaxed mb-3">
@@ -235,6 +237,7 @@ export default function MyResultPage() {
             🔓 Subscribe ₹199 — Unlock Full Access
           </Link>
         </div>
+        )}
 
         <div className="text-center pt-2 pb-8">
           <Link href="/grand-tests" className="inline-flex items-center gap-2 text-gray-400 text-sm hover:underline">

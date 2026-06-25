@@ -488,7 +488,8 @@ export default function GrandTestPage() {
                 )}
               </div>
 
-              {/* About the website + ₹199 upgrade promo */}
+              {/* About the website + ₹199 upgrade promo — hidden for paid students */}
+              {!isPaid && (
               <div className="bg-gradient-to-br from-green-700 to-emerald-800 rounded-xl p-5 text-white text-left">
                 <h3 className="text-base font-black mb-1">🌾 AgriCareer Academy — your AGRICET & AEO prep partner</h3>
                 <p className="text-green-100 text-xs leading-relaxed mb-3">
@@ -509,6 +510,7 @@ export default function GrandTestPage() {
                   ▶ Subscribe on YouTube for more FREE live tests
                 </a>
               </div>
+              )}
               </>
             ) : (
               <button
