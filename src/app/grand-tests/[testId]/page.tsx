@@ -324,9 +324,11 @@ export default function GrandTestPage() {
             <p>📝 100 Questions · 100 Minutes</p>
             <p>🌐 agricet-mocks-8mry.vercel.app</p>
           </div>
-          <Link href="/grand-tests" className="btn-primary inline-block px-6 py-3">
-            Explore More Tests →
-          </Link>
+          <div className="flex gap-2 justify-center flex-wrap">
+            <Link href="/my-result" className="btn-primary inline-block px-6 py-3">🏆 View My Result</Link>
+            <Link href="/answer-key" className="inline-block px-6 py-3 bg-blue-600 text-white font-semibold rounded-xl hover:bg-blue-700">📖 Answer Key</Link>
+            <Link href="/grand-tests" className="inline-block px-6 py-3 bg-gray-800 text-gray-200 font-semibold rounded-xl hover:bg-gray-700">Explore More →</Link>
+          </div>
         </div>
       </div>
     );
@@ -349,7 +351,10 @@ export default function GrandTestPage() {
             <p>📖 Answer key &amp; explanations: on the website after the test closes</p>
             <p>🏆 All Telangana ranking will be shared after the test window closes</p>
           </div>
-          <Link href="/grand-tests" className="btn-primary inline-block px-6 py-3">Explore More Tests →</Link>
+          <div className="flex gap-2 justify-center flex-wrap">
+            <Link href="/my-result" className="btn-primary inline-block px-6 py-3">🏆 View My Result</Link>
+            <Link href="/grand-tests" className="inline-block px-6 py-3 bg-gray-800 text-gray-200 font-semibold rounded-xl hover:bg-gray-700">Explore More Tests →</Link>
+          </div>
         </div>
       </div>
     );
@@ -458,7 +463,8 @@ export default function GrandTestPage() {
                   on this website after the test closes — <b>12 PM (noon) on 29 June</b>. This is a one-time attempt, so the
                   answers are not shown here now.
                 </p>
-                <div className="flex gap-2 justify-center">
+                <div className="flex gap-2 justify-center flex-wrap">
+                  <Link href="/my-result" className="inline-flex items-center gap-1.5 bg-blue-600 hover:bg-blue-700 text-white text-xs font-bold px-3 py-2 rounded-lg">🏆 My Result</Link>
                   <Link href="/answer-key" className="inline-flex items-center gap-1.5 bg-blue-100 hover:bg-blue-200 text-blue-800 text-xs font-bold px-3 py-2 rounded-lg">📖 Answer Key</Link>
                 </div>
               </div>

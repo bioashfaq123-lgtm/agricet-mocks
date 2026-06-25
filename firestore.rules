@@ -49,10 +49,12 @@ service cloud.firestore {
       allow delete: if isAdmin();
     }
 
-    // ── liveTestAttempts: one row per student (admin reads via the Admin SDK) ─
+    // ── liveTestAttempts: one row per student (admin reads all via the Admin SDK) ─
     match /liveTestAttempts/{docId} {
       allow create: if isSignedIn() && request.resource.data.uid == request.auth.uid;
-      allow read, update, delete: if isAdmin();
+      // A student may read ONLY their own attempt (for the "My Live Result" page).
+      allow read:   if isAdmin() || (isSignedIn() && resource.data.uid == request.auth.uid);
+      allow update, delete: if isAdmin();
     }
 
     // ── testResults: practice/grand-test results (create-only from the client) ─
