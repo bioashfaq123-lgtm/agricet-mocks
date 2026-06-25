@@ -7,6 +7,7 @@ import AppSplashScreen from "@/components/AppSplashScreen";
 import ChatBot from "@/components/ChatBot";
 import AnnouncementBanner from "@/components/AnnouncementBanner";
 import PWAInstallBanner from "@/components/PWAInstallBanner";
+import GlobalLiveTestButton from "@/components/GlobalLiveTestButton";
 
 // themeColor must be in viewport export (not metadata) — Next.js 14 requirement
 export const viewport: Viewport = {
@@ -59,6 +60,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           <AppSplashScreen>
           {children}
           </AppSplashScreen>
+          <GlobalLiveTestButton />
           <ChatBot />
           <Toaster
             position="top-right"
