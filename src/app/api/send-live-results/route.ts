@@ -76,15 +76,12 @@ function buildQuestionHtml(q: QuestionResult, idx: number) {
 
 export async function POST(req: NextRequest) {
   try {
+    // Gmail creds are needed ONLY for the optional result email. Saving the
+    // attempt (the critical path) must never depend on them — so we read them
+    // here but do NOT abort if they're missing. The transporter is built later,
+    // only when an email actually needs to go out.
     const gmailUser = process.env.GMAIL_USER;
     const gmailPass = process.env.GMAIL_APP_PASSWORD;
-    if (!gmailUser || !gmailPass) {
-      return NextResponse.json({ success: false, error: "Email service not configured" }, { status: 500 });
-    }
-    const transporter = nodemailer.createTransport({
-      service: "gmail",
-      auth: { user: gmailUser, pass: gmailPass },
-    });
 
     const body: SendResultsBody = await req.json();
     const { to, name, score, correct, wrong, unattempted, total, questions, uid, answers } = body;
@@ -236,7 +233,13 @@ export async function POST(req: NextRequest) {
     // no student data is lost. This protects the Gmail account from being
     // flagged/disabled for automated bulk sending.
     // Skip emailing on a repeat submission — the first attempt was already handled.
-    if (!EMAIL_SENDING_PAUSED && !alreadyAttempted) {
+    // Build the transporter here (not at the top) so a missing Gmail credential
+    // can never block the attempt save above.
+    if (!EMAIL_SENDING_PAUSED && !alreadyAttempted && gmailUser && gmailPass) {
+      const transporter = nodemailer.createTransport({
+        service: "gmail",
+        auth: { user: gmailUser, pass: gmailPass },
+      });
       await transporter.sendMail({
         from: `"AgriCareer Academy" <${gmailUser}>`,
         to,
@@ -253,7 +256,10 @@ export async function POST(req: NextRequest) {
       }
     }
 
-    return NextResponse.json({ success: true, attemptDocId, alreadyAttempted, emailPaused: EMAIL_SENDING_PAUSED });
+    // `saved` tells the client whether the attempt was actually persisted on the
+    // server (Admin SDK). If false (e.g. Admin SDK not configured), the client
+    // does its own fallback write so no attempt is ever lost.
+    return NextResponse.json({ success: true, saved: !!attemptDocId, attemptDocId, alreadyAttempted, emailPaused: EMAIL_SENDING_PAUSED });
   } catch (err) {
     console.error("send-live-results failed:", err);
     return NextResponse.json({ success: false, error: "Failed to send result email" }, { status: 500 });

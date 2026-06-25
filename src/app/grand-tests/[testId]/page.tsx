@@ -177,7 +177,13 @@ export default function GrandTestPage() {
                 })),
               }),
             });
-            serverSaved = res.ok;
+            // Only treat as saved when the server confirms it actually persisted
+            // the attempt (saved === true). Otherwise fall through to the client
+            // write below so the attempt is never lost.
+            if (res.ok) {
+              try { const j = await res.json(); serverSaved = j?.saved === true; }
+              catch { serverSaved = false; }
+            }
             if (!res.ok) console.error("send-live-results API returned non-OK:", res.status);
           } catch (apiErr) {
             console.error("send-live-results API call failed:", apiErr);
