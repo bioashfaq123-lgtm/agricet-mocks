@@ -31,7 +31,7 @@ export async function GET(req: NextRequest) {
     .orderBy("completedAt", "desc")
     .get();
 
-  const docs = snap.docs.map(d => {
+  const all = snap.docs.map(d => {
     const v = d.data();
     return {
       id: d.id,
@@ -48,6 +48,23 @@ export async function GET(req: NextRequest) {
       completedAt: v.completedAt ? (v.completedAt as admin.firestore.Timestamp).toMillis() : null,
     };
   });
+
+  // ── Safety de-duplication: keep ONE record per student (uid) so the rank list
+  // never shows the same person twice, even if two attempt docs exist. Keep the
+  // best (highest score; ties broken by the most recent attempt). Records with no
+  // uid (legacy/anonymous) are kept as-is, keyed by their doc id. ──
+  const bestByKey = new Map<string, typeof all[number]>();
+  for (const r of all) {
+    const key = r.uid ? `uid:${r.uid}` : `id:${r.id}`;
+    const prev = bestByKey.get(key);
+    if (!prev ||
+        r.score > prev.score ||
+        (r.score === prev.score && (r.completedAt ?? 0) > (prev.completedAt ?? 0))) {
+      bestByKey.set(key, r);
+    }
+  }
+  const docs = Array.from(bestByKey.values())
+    .sort((a, b) => b.score - a.score || (b.completedAt ?? 0) - (a.completedAt ?? 0));
 
   return NextResponse.json({ docs });
 }

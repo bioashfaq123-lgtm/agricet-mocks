@@ -154,6 +154,7 @@ export default function GrandTestPage() {
         // depend on the client being able to write directly to Firestore — direct
         // client writes can silently fail (permission-denied) under strict rules,
         // which would otherwise block both the save AND the email. ──
+        let serverSaved = false;
         if (to) {
           try {
             const res = await fetch("/api/send-live-results", {
@@ -176,6 +177,7 @@ export default function GrandTestPage() {
                 })),
               }),
             });
+            serverSaved = res.ok;
             if (!res.ok) console.error("send-live-results API returned non-OK:", res.status);
           } catch (apiErr) {
             console.error("send-live-results API call failed:", apiErr);
@@ -183,22 +185,26 @@ export default function GrandTestPage() {
         }
         if (cancelled) return;
 
-        // ── Best-effort client-side write as a fallback (in case the Admin SDK
-        // is ever unavailable). Wrapped separately so its failure can never block
-        // the API call / email above. ──
-        try {
-          await addDoc(collection(db, "liveTestAttempts"), {
-            uid: user.uid,
-            name,
-            email: to,
-            score, correct, wrong, unattempted,
-            total: questions.length,
-            answers,
-            emailSent: true,
-            completedAt: serverTimestamp(),
-          });
-        } catch (writeErr) {
-          console.error("Client-side liveTestAttempts write failed (expected if rules restrict it):", writeErr);
+        // ── Client-side write ONLY as a fallback when the server (Admin SDK) save
+        // did NOT succeed. The server path already persists ONE de-duped attempt per
+        // student; writing here unconditionally would create a SECOND document for the
+        // same student and show duplicate names in the rank list — so we skip it when
+        // the server save was OK. ──
+        if (!serverSaved) {
+          try {
+            await addDoc(collection(db, "liveTestAttempts"), {
+              uid: user.uid,
+              name,
+              email: to,
+              score, correct, wrong, unattempted,
+              total: questions.length,
+              answers,
+              emailSent: false,
+              completedAt: serverTimestamp(),
+            });
+          } catch (writeErr) {
+            console.error("Client-side liveTestAttempts fallback write failed:", writeErr);
+          }
         }
 
         // ── One-attempt lock: flag this student as having attempted the live
@@ -271,10 +277,10 @@ export default function GrandTestPage() {
 
           <div className="bg-green-900/30 border border-green-700 rounded-xl p-4 mb-6 text-left space-y-2">
             <div className="flex items-center gap-2 text-green-400 text-sm">
-              <span>📅</span><span className="font-semibold">Date: 19th June 2026 (Friday)</span>
+              <span>📅</span><span className="font-semibold">Date: 28th June 2026 (Sunday)</span>
             </div>
             <div className="flex items-center gap-2 text-green-400 text-sm">
-              <span>⏰</span><span className="font-semibold">Time: 8 PM (19th) – 12:00 PM (20th June) IST</span>
+              <span>⏰</span><span className="font-semibold">Time: 8 PM (28th) – 12:00 PM (29th June) IST</span>
             </div>
             <div className="flex items-center gap-2 text-green-400 text-sm">
               <span>📝</span><span className="font-semibold">100 Questions · 100 Minutes</span>
@@ -291,7 +297,7 @@ export default function GrandTestPage() {
             <p className="text-yellow-300 text-sm font-bold mb-1">📊 Results published on the website</p>
             <p className="text-yellow-100/80 text-xs leading-relaxed">
               Stay signed in. After you finish, your overall ranking and the full answer key with explanations will be
-              published on this website after the test closes (12 PM, 20 June) — they are not shown on screen. The test can be attempted <span className="font-bold">only once</span>.
+              published on this website after the test closes (12 PM, 29 June) — they are not shown on screen. The test can be attempted <span className="font-bold">only once</span>.
             </p>
           </div>
 
@@ -310,11 +316,11 @@ export default function GrandTestPage() {
           <div className="text-6xl mb-4">🏁</div>
           <h1 className="text-2xl font-black text-white mb-2">Live Mock Test Has Ended</h1>
           <p className="text-gray-400 text-sm mb-6">
-            The FREE Live Mock Test conducted on 19th June 2026 has concluded.<br/>
+            The FREE Live Mock Test conducted on 28th June 2026 has concluded.<br/>
             Thank you to all students who participated!
           </p>
           <div className="bg-gray-800 rounded-xl p-4 mb-6 text-left text-sm text-gray-300 space-y-1 border border-gray-700">
-            <p>📅 Conducted: 19th June 2026, 8 PM – 20th June 2026, 12:00 PM IST</p>
+            <p>📅 Conducted: 28th June 2026, 8 PM – 29th June 2026, 12:00 PM IST</p>
             <p>📝 100 Questions · 100 Minutes</p>
             <p>🌐 agricet-mocks-8mry.vercel.app</p>
           </div>
@@ -337,7 +343,7 @@ export default function GrandTestPage() {
           <h1 className="text-2xl font-black text-white mb-2">You have already attempted</h1>
           <p className="text-gray-400 text-sm mb-6">
             The FREE Live Mock Test can be attempted only <span className="text-white font-semibold">once</span> per student.
-            Your overall ranking and the full answer key will be published on this website after the test closes (12 PM, 20 June).
+            Your overall ranking and the full answer key will be published on this website after the test closes (12 PM, 29 June).
           </p>
           <div className="bg-gray-800 rounded-xl p-4 mb-6 text-left text-sm text-gray-300 space-y-1 border border-gray-700">
             <p>📖 Answer key &amp; explanations: on the website after the test closes</p>
@@ -449,7 +455,7 @@ export default function GrandTestPage() {
                 <p className="text-sm text-blue-800 font-semibold mb-1">📊 Your result is saved!</p>
                 <p className="text-xs text-blue-600 leading-relaxed mb-3">
                   Your <b>overall All-Telangana ranking</b> and the full <b>answer key with explanations</b> will be published
-                  on this website after the test closes — <b>12 PM (noon) on 20 June</b>. This is a one-time attempt, so the
+                  on this website after the test closes — <b>12 PM (noon) on 29 June</b>. This is a one-time attempt, so the
                   answers are not shown here now.
                 </p>
                 <div className="flex gap-2 justify-center">
