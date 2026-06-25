@@ -8,15 +8,18 @@ export default function PWAInstallBanner() {
   const [tab, setTab]           = useState<"android" | "iphone">("android");
 
   useEffect(() => {
-    // Hide if already installed as PWA
+    // Show ONLY to users who have NOT installed the app yet.
+    // If the site is running as an installed PWA (standalone), never show.
     const isStandalone =
       window.matchMedia("(display-mode: standalone)").matches ||
       (window.navigator as any).standalone === true;
     if (isStandalone) return;
 
-    // Hide if user dismissed within last 7 days
-    const dismissed = localStorage.getItem("pwa_banner_dismissed");
-    if (dismissed && Date.now() - Number(dismissed) < 7 * 24 * 60 * 60 * 1000) return;
+    // Dismissal is per-session only (sessionStorage) — so a non-installed
+    // student who closes it still gets the install guideline again on their
+    // next visit. It keeps nudging until they actually install the app.
+    const dismissed = sessionStorage.getItem("pwa_banner_dismissed");
+    if (dismissed) return;
 
     // Detect device to pre-select the right tab
     const ua = navigator.userAgent.toLowerCase();
@@ -26,7 +29,7 @@ export default function PWAInstallBanner() {
   }, []);
 
   const dismiss = () => {
-    localStorage.setItem("pwa_banner_dismissed", String(Date.now()));
+    sessionStorage.setItem("pwa_banner_dismissed", "1");
     setVisible(false);
   };
 
