@@ -28,8 +28,10 @@ export default function GrandTestsPage() {
   const router = useRouter();
 
   const isPaid = userData?.isPaid ?? false;
-  const tests  = GRAND_TESTS.filter(t => t.id !== "gtlive");
   const [liveStatus, setLiveStatus] = useState<"before"|"live"|"ended"|"">("");
+  // Hide the live paper itself; the "Grand Test 13" practice replay appears only
+  // AFTER the live window closes, so its answers can't leak during the live test.
+  const tests  = GRAND_TESTS.filter(t => t.id !== "gtlive" && !(t.id === "gt13" && liveStatus !== "ended"));
 
   useEffect(() => {
     if (!loading && !user) router.replace("/login");

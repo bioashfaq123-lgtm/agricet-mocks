@@ -41,6 +41,7 @@ const TEST_DATA: Record<string, GrandTestQuestion[]> = {
   gt10:   GRAND_TEST_10,
   gt11:   GRAND_TEST_11,
   gt12:   GRAND_TEST_LIVE,   // 19 June 2026 live test, now open for practice
+  gt13:   GRAND_TEST_13,     // 28 June 2026 live test, now open for practice
   gtlive: GRAND_TEST_13,     // 28 June 2026 FREE live test
 };
 
@@ -259,6 +260,9 @@ export default function GrandTestPage() {
   if (isLive && !user) { router.push("/login"); return null; }
   if (!user && !isFree) { router.push("/login"); return null; }
   if (user && !isPaid && !isFree) { router.push("/grand-tests"); return null; }
+  // The "Grand Test 13" practice replay is the same paper as the live test — keep
+  // it sealed until the live window closes so its answers cannot leak.
+  if (testId === "gt13" && getLiveStatus() !== "ended") { router.push("/grand-tests"); return null; }
 
   // ── Date-gate for live test ──────────────────────────────────────────────
   if (isLive && liveStatus === "before") {

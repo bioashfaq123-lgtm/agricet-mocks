@@ -22,6 +22,7 @@ export const GRAND_TESTS: GrandTestMeta[] = [
   { id: "gt10",   title: "Grand Test 10",        totalQuestions: 100, duration: 100, badge: "🔥 Final Revision",  difficulty: "Mixed",  description: "Final full-length revision test — best to attempt last.", subjects: 17 },
   { id: "gt11",   title: "Grand Test 11",        totalQuestions: 100, duration: 100, badge: "🔁 Live Replay",     difficulty: "Mixed",  description: "Full-length mock — the official question paper from the 8th June 2026 FREE live test, now open for practice.", subjects: 17 },
   { id: "gt12",   title: "Grand Test 12",        totalQuestions: 100, duration: 100, badge: "🔁 Live Replay",     difficulty: "Hard",   description: "Full-length mock — the official question paper from the 19th June 2026 FREE live test, now open for practice.", subjects: 17 },
+  { id: "gt13",   title: "Grand Test 13",        totalQuestions: 100, duration: 100, badge: "🔁 Live Replay",     difficulty: "Hard",   description: "Full-length mock — the official question paper from the 28th June 2026 FREE live test, now open for practice.", subjects: 17 },
   { id: "gtlive", title: "FREE Live Mock Test",  totalQuestions: 100, duration: 100, badge: "🔴 LIVE • 28 June",  difficulty: "Hard",   description: "Official FREE live mock test for all AGRICET aspirants across Telangana — very hard, exam-level, all subjects — Sunday, 28th June 2026, 8 PM to 29th June 2026, 12:00 PM.", subjects: 17 },
 ];
 
