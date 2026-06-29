@@ -34,12 +34,12 @@ export default function GlobalLiveTestButton() {
     "fixed bottom-5 left-4 sm:left-5 z-50 flex items-center gap-2 rounded-full font-black shadow-2xl " +
     "px-4 py-3 text-sm transition-transform hover:scale-105 active:scale-95";
 
-  // ── After the window: practise ──
+  // ── After the window: show results / answer key ──
   if (now > LIVE_END) {
     return (
-      <Link href="/grand-tests/gtlive" className={`${base} bg-green-700 text-white border-2 border-green-300`}>
-        <span>✅</span>
-        <span>Practise the Live Paper</span>
+      <Link href="/answer-key" className={`${base} bg-green-700 text-white border-2 border-green-300`}>
+        <span>📊</span>
+        <span>Live Test Results &amp; Key</span>
       </Link>
     );
   }

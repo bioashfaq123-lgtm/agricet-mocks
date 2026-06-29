@@ -1,13 +1,14 @@
 "use client";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 import {
   Trophy, Clock, BookOpen, Zap,
   ChevronRight, BarChart2, Lock, CheckCircle, Star,
 } from "lucide-react";
 import { useAuth } from "@/contexts/AuthContext";
 import { GRAND_TESTS } from "@/data/grandTestMeta";
+import { getLiveStatus } from "@/lib/liveTest";
 
 const difficultyConfig = {
   Mixed:  { label: "Mixed",  color: "bg-blue-100 text-blue-700 border-blue-200" },
@@ -28,10 +29,13 @@ export default function GrandTestsPage() {
 
   const isPaid = userData?.isPaid ?? false;
   const tests  = GRAND_TESTS.filter(t => t.id !== "gtlive");
+  const [liveStatus, setLiveStatus] = useState<"before"|"live"|"ended"|"">("");
 
   useEffect(() => {
     if (!loading && !user) router.replace("/login");
   }, [loading, user, router]);
+
+  useEffect(() => { setLiveStatus(getLiveStatus()); }, []);
 
   if (loading || !user) {
     return (
@@ -57,6 +61,43 @@ export default function GrandTestsPage() {
       </div>
 
       <div className="max-w-4xl mx-auto px-4 py-6 space-y-5">
+
+        {/* ── FREE Live Mock Test — Results, Answer Key & Explanations ── */}
+        {liveStatus === "ended" ? (
+          <div className="rounded-2xl bg-gradient-to-br from-green-700 to-emerald-800 p-5 text-white shadow-lg border-2 border-green-300">
+            <div className="flex items-center gap-2 mb-1">
+              <CheckCircle className="w-5 h-5 text-green-200" />
+              <h2 className="text-lg font-black">FREE Live Mock Test — Results are out!</h2>
+            </div>
+            <p className="text-green-100 text-xs mb-4">
+              The full <b>answer key with explanations</b> (English &amp; తెలుగు) and your personal score are now available.
+            </p>
+            <div className="flex flex-wrap gap-2">
+              <Link href="/my-result" className="inline-flex items-center gap-1.5 bg-white text-green-700 font-black px-4 py-2.5 rounded-xl text-sm hover:bg-green-50">
+                <Trophy className="w-4 h-4" /> My Result
+              </Link>
+              <Link href="/answer-key" className="inline-flex items-center gap-1.5 bg-white/15 hover:bg-white/25 text-white font-bold px-4 py-2.5 rounded-xl text-sm">
+                <BookOpen className="w-4 h-4" /> Answer Key &amp; Explanations
+              </Link>
+            </div>
+          </div>
+        ) : liveStatus === "live" ? (
+          <div className="rounded-2xl bg-gradient-to-br from-green-500 to-teal-700 p-5 text-white shadow-lg border-2 border-green-300">
+            <div className="flex items-center gap-2 mb-1">
+              <span className="bg-red-500 text-white text-xs font-black px-2 py-0.5 rounded-full animate-pulse">LIVE NOW</span>
+              <h2 className="text-lg font-black">FREE Live Mock Test is live!</h2>
+            </div>
+            <p className="text-green-100 text-xs mb-4">Attempt it now. Your result, the answer key &amp; explanations will be published here after the test closes (12 PM, 29 June).</p>
+            <Link href="/grand-tests/gtlive" className="inline-flex items-center gap-1.5 bg-white text-green-700 font-black px-4 py-2.5 rounded-xl text-sm hover:bg-green-50">
+              Start FREE Test <ChevronRight className="w-4 h-4" />
+            </Link>
+          </div>
+        ) : liveStatus === "before" ? (
+          <div className="rounded-2xl bg-gray-900 p-5 text-white shadow-lg border-2 border-green-500">
+            <h2 className="text-lg font-black mb-1">FREE Live Mock Test — 28 June 2026, 8 PM</h2>
+            <p className="text-gray-300 text-xs">After the test closes, the <b>results, answer key &amp; explanations</b> (English &amp; తెలుగు) will be displayed here for everyone to review.</p>
+          </div>
+        ) : null}
 
         {/* ── Hero Banner ── */}
         <div className="rounded-2xl bg-gradient-to-br from-primary-700 via-primary-800 to-indigo-900 p-6 text-white shadow-lg">
