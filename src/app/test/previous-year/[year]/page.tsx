@@ -4,6 +4,7 @@ import { useParams, useRouter } from "next/navigation";
 import Link from "next/link";
 import { ChevronLeft, ChevronRight, CheckCircle, X, AlertCircle, Clock } from "lucide-react";
 import { useAuth } from "@/contexts/AuthContext";
+import ExplainButton from "@/components/ExplainButton";
 import { PYQ_2025, PYQ_2024, PYQ_2023, PYQ_2023_AP, PYQ_2024_AP, PYQ_2025_AP, AEO_PAPER1_GS, AEO_PAPER2_AGRI, PREVIOUS_YEAR_PAPERS, AEO_PAPERS } from "@/data/previousYearPapers";
 
 export default function PreviousYearTestPage() {
@@ -182,6 +183,14 @@ export default function PreviousYearTestPage() {
                 <span className="text-blue-700 font-semibold text-sm">Explanation</span>
               </div>
               <p className="text-blue-800 text-sm leading-relaxed">{current.explanation}</p>
+              <ExplainButton
+                question={current.question}
+                options={current.options}
+                correctIndex={current.correct}
+                userIndex={answered ?? null}
+                explanation={current.explanation}
+                subjectId={current.subject}
+              />
             </div>
           )}
 

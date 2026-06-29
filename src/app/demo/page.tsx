@@ -6,6 +6,7 @@ import { getShuffledQuestions } from "@/data/questions";
 import { DEMO_QUESTION_LIMIT, DEMO_SUBJECT_ID } from "@/data/subjects";
 import { Question } from "@/types";
 import { CheckCircle, X, AlertCircle, ChevronLeft, ChevronRight } from "lucide-react";
+import ExplainButton from "@/components/ExplainButton";
 
 export default function DemoPage() {
   const [questions, setQuestions] = useState<Question[]>([]);
@@ -145,6 +146,14 @@ export default function DemoPage() {
                 <span className="text-blue-700 font-semibold text-sm">Explanation</span>
               </div>
               <p className="text-blue-800 text-sm leading-relaxed">{current.explanation}</p>
+              <ExplainButton
+                question={current.question}
+                options={current.options}
+                correctIndex={current.correct}
+                userIndex={answered ?? null}
+                explanation={current.explanation}
+                subjectId={current.subject}
+              />
             </div>
           )}
 

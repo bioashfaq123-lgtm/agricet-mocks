@@ -12,6 +12,7 @@ import { ALL_QUESTIONS } from "@/data/questions";
 import { getTe } from "@/data/translations";
 import Bilingual from "@/components/Bilingual";
 import LanguageToggle from "@/components/LanguageToggle";
+import ExplainButton from "@/components/ExplainButton";
 import { Question } from "@/types";
 
 export default function LecturePracticePage() {
@@ -320,6 +321,14 @@ export default function LecturePracticePage() {
                   <span className="text-blue-700 font-semibold text-sm">Explanation</span>
                 </div>
                 <Bilingual as="p" className="text-blue-800 text-sm leading-relaxed" en={current.explanation} te={te?.e} teClassName="mt-1" />
+                <ExplainButton
+                  question={current.question}
+                  options={current.options}
+                  correctIndex={current.correct}
+                  userIndex={answered ?? null}
+                  explanation={current.explanation}
+                  subjectId={current.subject}
+                />
               </div>
             )}
 

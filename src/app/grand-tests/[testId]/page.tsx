@@ -26,6 +26,7 @@ import { GRAND_TEST_13 } from "@/data/grandTest13";
 import { getTe } from "@/data/translations";
 import Bilingual from "@/components/Bilingual";
 import LanguageToggle from "@/components/LanguageToggle";
+import ExplainButton from "@/components/ExplainButton";
 import { LIVE_START_UTC, getLiveStatus, LIVE_EDITION } from "@/lib/liveTest";
 
 const TEST_DATA: Record<string, GrandTestQuestion[]> = {
@@ -713,6 +714,14 @@ export default function GrandTestPage() {
                   <span className="text-blue-700 font-bold text-sm">Explanation</span>
                 </div>
                 <Bilingual as="p" className="text-blue-900 text-sm leading-relaxed" en={current.explanation} te={te?.e} teClassName="mt-1" />
+                <ExplainButton
+                  question={current.question}
+                  options={current.options}
+                  correctIndex={current.correct}
+                  userIndex={answered ?? null}
+                  explanation={current.explanation}
+                  subjectId={current.subject}
+                />
               </div>
             )}
 
