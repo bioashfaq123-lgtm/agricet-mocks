@@ -95,6 +95,9 @@ export default function AdminPage() {
   const [tab, setTab]           = useState<Tab>("overview");
   const [liveAttempts, setLiveAttempts] = useState<LiveAttempt[]>([]);
   const [liveLoading,  setLiveLoading]  = useState(true);
+  const [addName, setAddName]   = useState("");
+  const [addScore, setAddScore] = useState("");
+  const [adding, setAdding]     = useState(false);
   const [announceSending, setAnnounceSending] = useState(false);
   const [resultsSending, setResultsSending] = useState(false);
   const [qSearch,      setQSearch]      = useState("");
@@ -142,6 +145,28 @@ export default function AdminPage() {
       if (res.ok) { setLiveAttempts([]); window.alert(`Cleared ${json.deleted ?? 0} attempt(s).`); }
       else window.alert("Could not clear attempts. Please try again.");
     } catch { window.alert("Could not clear attempts. Please try again."); }
+  };
+
+  // Manually add a verified attempt (for a student whose submission failed to save).
+  const addManualAttempt = async () => {
+    if (!user || user.email !== ADMIN_EMAIL) return;
+    const name = addName.trim();
+    const score = Number(addScore);
+    if (!name || !Number.isFinite(score) || score < 0 || score > 100) {
+      window.alert("Enter a name and a score between 0 and 100."); return;
+    }
+    setAdding(true);
+    try {
+      const token = await user.getIdToken();
+      const res = await fetch("/api/admin/live-attempts", {
+        method: "POST",
+        headers: { Authorization: `Bearer ${token}`, "Content-Type": "application/json" },
+        body: JSON.stringify({ name, score }),
+      });
+      if (res.ok) { setAddName(""); setAddScore(""); await fetchLiveAttempts(); }
+      else window.alert("Could not add the attempt. Please try again.");
+    } catch { window.alert("Could not add the attempt. Please try again."); }
+    finally { setAdding(false); }
   };
 
   // Email the FREE live-test announcement to every registered student (BCC, admin only).
@@ -971,6 +996,33 @@ export default function AdminPage() {
                   )}
                 </div>
               </div>
+
+              {/* Manual add — for a student whose submission failed to save */}
+              <div className="px-5 py-3 bg-amber-50 border-b border-amber-100 flex flex-wrap items-center gap-2">
+                <span className="text-xs font-bold text-amber-800 mr-1">➕ Add attempt manually:</span>
+                <input
+                  value={addName}
+                  onChange={e => setAddName(e.target.value)}
+                  placeholder="Student name"
+                  className="text-sm border border-amber-300 rounded-lg px-3 py-1.5 w-52 focus:outline-none focus:ring-2 focus:ring-amber-400"
+                />
+                <input
+                  value={addScore}
+                  onChange={e => setAddScore(e.target.value.replace(/[^0-9]/g, ""))}
+                  placeholder="Score %"
+                  inputMode="numeric"
+                  className="text-sm border border-amber-300 rounded-lg px-3 py-1.5 w-24 focus:outline-none focus:ring-2 focus:ring-amber-400"
+                />
+                <button
+                  onClick={addManualAttempt}
+                  disabled={adding}
+                  className="inline-flex items-center gap-1.5 bg-amber-500 hover:bg-amber-600 disabled:opacity-60 text-white text-xs font-bold px-3 py-1.5 rounded-lg transition-colors"
+                >
+                  {adding ? "Adding…" : "Add to ranking"}
+                </button>
+                <span className="text-[11px] text-amber-700/80">Use only for verified scores; correct/total are set assuming a 100-question paper.</span>
+              </div>
+
               {liveLoading ? (
                 <div className="py-16 text-center text-gray-400 text-sm">Loading attempts…</div>
               ) : liveAttempts.length === 0 ? (

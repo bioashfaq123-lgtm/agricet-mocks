@@ -101,3 +101,51 @@ export async function DELETE(req: NextRequest) {
   }
   return NextResponse.json({ deleted });
 }
+
+// Manually add (or correct) one live-test attempt — admin only. For students
+// whose attempt failed to save (closed tab / lost network) but whose score the
+// admin has verified. Appears in the ranking like any other attempt.
+export async function POST(req: NextRequest) {
+  const authHeader = req.headers.get("Authorization") ?? "";
+  const idToken = authHeader.startsWith("Bearer ") ? authHeader.slice(7) : null;
+  if (!idToken) {
+    return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
+  }
+  try {
+    const decoded = await admin.auth().verifyIdToken(idToken);
+    if (decoded.email !== ADMIN_EMAIL) {
+      return NextResponse.json({ error: "Forbidden" }, { status: 403 });
+    }
+  } catch {
+    return NextResponse.json({ error: "Invalid token" }, { status: 401 });
+  }
+  if (!adminDb) {
+    return NextResponse.json({ error: "Admin DB unavailable" }, { status: 500 });
+  }
+
+  const body = await req.json().catch(() => null) as
+    | { name?: string; email?: string; score?: number; total?: number; correct?: number } | null;
+  if (!body || !body.name || typeof body.score !== "number") {
+    return NextResponse.json({ error: "name and score are required" }, { status: 400 });
+  }
+
+  const total = Number.isFinite(body.total) ? Math.round(body.total as number) : 100;
+  const score = Math.max(0, Math.min(100, Math.round(body.score)));
+  const correct = Number.isFinite(body.correct)
+    ? Math.round(body.correct as number)
+    : Math.round((score / 100) * total);
+  const wrong = Math.max(0, total - correct);
+
+  const ref = await adminDb.collection("liveTestAttempts").add({
+    uid: "",
+    name: body.name.trim(),
+    email: (body.email ?? "").trim(),
+    score, correct, wrong, unattempted: 0, total,
+    answers: {},
+    emailSent: false,
+    manual: true,                 // flag: added by admin, not a real submission
+    completedAt: admin.firestore.FieldValue.serverTimestamp(),
+  });
+
+  return NextResponse.json({ success: true, id: ref.id });
+}
