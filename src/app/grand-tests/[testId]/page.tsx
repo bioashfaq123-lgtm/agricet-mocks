@@ -331,9 +331,10 @@ export default function GrandTestPage() {
             <p>🌐 agricet-mocks-8mry.vercel.app</p>
           </div>
           <div className="flex gap-2 justify-center flex-wrap">
-            <Link href="/my-result" className="btn-primary inline-block px-6 py-3">🏆 View My Result</Link>
+            <Link href="/ranking" className="inline-block px-6 py-3 bg-amber-400 text-gray-900 font-black rounded-xl hover:bg-amber-300">🏆 Overall Ranking</Link>
+            <Link href="/my-result" className="btn-primary inline-block px-6 py-3">View My Result</Link>
             <Link href="/answer-key" className="inline-block px-6 py-3 bg-blue-600 text-white font-semibold rounded-xl hover:bg-blue-700">📖 Answer Key</Link>
-            <Link href="/grand-tests" className="inline-block px-6 py-3 bg-gray-800 text-gray-200 font-semibold rounded-xl hover:bg-gray-700">Explore More →</Link>
+            <Link href="/grand-tests" className="inline-block px-6 py-3 bg-gray-800 text-gray-200 font-semibold rounded-xl hover:bg-gray-700">More →</Link>
           </div>
         </div>
       </div>

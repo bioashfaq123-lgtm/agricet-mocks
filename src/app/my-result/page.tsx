@@ -249,8 +249,11 @@ export default function MyResultPage() {
         </div>
         )}
 
-        <div className="text-center pt-2 pb-8">
-          <Link href="/grand-tests" className="inline-flex items-center gap-2 text-gray-400 text-sm hover:underline">
+        <div className="flex flex-wrap gap-2 justify-center pt-2 pb-8">
+          <Link href="/ranking" className="inline-flex items-center gap-1.5 bg-amber-500 hover:bg-amber-600 text-white text-sm font-bold px-4 py-2 rounded-lg">
+            <Trophy className="w-4 h-4" /> Overall Ranking
+          </Link>
+          <Link href="/grand-tests" className="inline-flex items-center gap-2 text-gray-400 text-sm hover:underline px-4 py-2">
             <ArrowLeft className="w-4 h-4" /> Back to Grand Tests
           </Link>
         </div>

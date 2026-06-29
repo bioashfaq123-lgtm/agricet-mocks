@@ -73,8 +73,11 @@ export default function GrandTestsPage() {
               The full <b>answer key with explanations</b> (English &amp; తెలుగు) and your personal score are now available.
             </p>
             <div className="flex flex-wrap gap-2">
+              <Link href="/ranking" className="inline-flex items-center gap-1.5 bg-amber-400 text-gray-900 font-black px-4 py-2.5 rounded-xl text-sm hover:bg-amber-300">
+                <Trophy className="w-4 h-4" /> Overall Ranking
+              </Link>
               <Link href="/my-result" className="inline-flex items-center gap-1.5 bg-white text-green-700 font-black px-4 py-2.5 rounded-xl text-sm hover:bg-green-50">
-                <Trophy className="w-4 h-4" /> My Result
+                My Result
               </Link>
               <Link href="/answer-key" className="inline-flex items-center gap-1.5 bg-white/15 hover:bg-white/25 text-white font-bold px-4 py-2.5 rounded-xl text-sm">
                 <BookOpen className="w-4 h-4" /> Answer Key &amp; Explanations
