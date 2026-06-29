@@ -36,7 +36,12 @@ export async function GET() {
         total: v.total ?? 0,
         completedAt: ms,
       };
-    }).filter(r => r.completedAt !== null && r.completedAt >= startMs && r.completedAt <= endMs);
+    // Keep every attempt EXCEPT ones that clearly belong to a previous live test
+    // (i.e. a real timestamp from before this window opened). Attempts with a
+    // missing/unresolved timestamp, or finished right at the deadline, are kept
+    // so no genuine attendee is ever dropped from the results.
+    }).filter(r => r.completedAt === null || r.completedAt >= startMs);
+    void endMs;
 
     // One row per student (keep best score; ties broken by the earliest attempt).
     const best = new Map<string, typeof all[number]>();
