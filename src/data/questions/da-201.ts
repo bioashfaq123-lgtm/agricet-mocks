@@ -948,4 +948,7 @@ export const da201Questions: Question[] = [
     explanation: "FCV (Flue Cured Virginia) tobacco is primarily grown in Andhra Pradesh (Guntur, Krishna, West Godavari districts) and Karnataka (Mysore region). Andhra Pradesh accounts for about 75% of India's FCV tobacco production. Tobacco Board of India is headquartered at Guntur.",
     difficulty: "medium"
   },
+  { id: "d201_201", subject: "da-201", question: "Groundnut belongs to which botanical family?", options: ["Leguminosae (the pulse/legume family)", "Gramineae (the grass family)", "Solanaceae", "Malvaceae"], correct: 0, explanation: "As per DA-201 notes, groundnut is a member of the pulse or leguminaceae (Leguminosae) family and is a herbaceous annual." },
+  { id: "d201_202", subject: "da-201", question: "The centre of origin of groundnut is:", options: ["India", "South America (Brazil)", "Africa", "China"], correct: 1, explanation: "The notes state the centre of origin of groundnut is South America (Matograsso, a place in Brazil)." },
+  { id: "d201_203", subject: "da-201", question: "In India, about 90% of the groundnut area is cultivated during which season, mostly under rainfed conditions?", options: ["Rabi", "Summer", "Kharif", "Zaid"], correct: 2, explanation: "The notes state about 90% of the groundnut area is grown during kharif under rainfed conditions." }
 ];
