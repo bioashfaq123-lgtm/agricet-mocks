@@ -24,14 +24,9 @@ export default function AnswerKeyPage() {
           </h1>
           <p className="text-blue-100 text-sm mt-1">FREE Live AGRICET Mock Test (28 June 2026) — {GRAND_TEST_13.length} questions</p>
           {open && (
-            <div className="flex flex-wrap gap-2 justify-center mt-4">
-              <Link href="/ranking" className="inline-flex items-center gap-2 bg-amber-400 text-gray-900 text-sm font-black px-4 py-2 rounded-xl hover:bg-amber-300">
-                <Trophy className="w-4 h-4" /> Overall Ranking
-              </Link>
-              <Link href="/grand-tests/gtlive" className="inline-flex items-center gap-2 bg-white/15 hover:bg-white/25 text-white text-sm font-bold px-4 py-2 rounded-xl">
-                Practise this test
-              </Link>
-            </div>
+            <Link href="/grand-tests/gtlive" className="inline-flex items-center gap-2 mt-4 bg-white/15 hover:bg-white/25 text-white text-sm font-bold px-4 py-2 rounded-xl">
+              <Trophy className="w-4 h-4 text-amber-300" /> Practise this test
+            </Link>
           )}
         </div>
       </div>
