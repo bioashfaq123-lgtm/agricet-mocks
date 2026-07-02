@@ -26,6 +26,7 @@ export const DA101_LECTURES: Lecture[] = [
   lec("da-101", 8, "Dryland Farming", "Definition, characteristics, moisture conservation, contingency crops, watershed management"),
   lec("da-101", 9, "Cropping Systems", "Sole cropping, mixed cropping, intercropping, crop rotation, relay cropping, LER"),
   lec("da-101", 10, "Harvest, Threshing & Post-Harvest", "Harvest index, maturity indices, threshing, storage, post-harvest losses"),
+  lec("da-101", 11, "Agricultural Meteorology & the Atmosphere", "Meteorology & climatology; layers of atmosphere (troposphere, stratosphere); solar radiation & wavelengths; cardinal temperature; weather instruments (thermometers, anemometer, evaporimeter)"),
 ];
 
 // ── DA-102: Crop Production-I (Kharif Crops) ────────────────────────────────
