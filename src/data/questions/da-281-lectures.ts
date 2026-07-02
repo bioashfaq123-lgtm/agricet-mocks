@@ -2,2117 +2,2896 @@ import { Question } from "@/types";
 
 export const da281LectureQuestions: Question[] = [
   {
-    id: "d281l_001",
-    subject: "da-281",
-    lecture: "lecture-1",
-    lectureNo: 1,
-    question: "The branch of forestry dealing with the description, classification and identification of tree species is:",
-    options: ["Wood technology", "Mensuration", "Silviculture", "Dendrology"],
-    correct: 3,
-    explanation: "Dendrology is the study of description, classification and identification of various tree species."
-  },
-  {
-    id: "d281l_002",
-    subject: "da-281",
-    lecture: "lecture-1",
-    lectureNo: 1,
-    question: "Tropical wet evergreen forests in India receive annual rainfall of more than:",
-    options: ["100 cm", "250 cm", "200 cm", "150 cm"],
-    correct: 2,
-    explanation: "Tropical wet evergreen forests occur in areas receiving more than 200 cm of annual rainfall and are found in the Western Ghats, Andaman & Nicobar Islands and northeastern India."
-  },
-  {
-    id: "d281l_003",
-    subject: "da-281",
-    lecture: "lecture-1",
-    lectureNo: 1,
-    question: "Which of the following is the dominant species of tropical moist deciduous forests in India?",
-    options: ["Eucalyptus globulus", "Dalbergia sissoo", "Acacia nilotica", "Shorea robusta (Sal)"],
-    correct: 3,
-    explanation: "Shorea robusta (Sal) is the dominant species of tropical moist deciduous forests, particularly in the Gangetic plains and central India."
-  },
-  {
-    id: "d281l_004",
-    subject: "da-281",
-    lecture: "lecture-1",
-    lectureNo: 1,
-    question: "The National Forest Policy 1988 aims to bring what fraction of land area under forest/tree cover?",
-    options: ["One-fifth", "One-third (33⅓%)", "Two-thirds", "One-tenth"],
-    correct: 1,
-    explanation: "As enunciated in the National Forest Policy 1988, the goal is to have one-third (33⅓%) of the country's land area under forest/tree cover."
-  },
-  {
-    id: "d281l_005",
-    subject: "da-281",
-    lecture: "lecture-1",
-    lectureNo: 1,
-    question: "Tropical dry deciduous forests in India occur in areas with annual rainfall of:",
-    options: ["150–200 cm", "100–150 cm", "Less than 75 cm", "75–100 cm"],
-    correct: 1,
-    explanation: "Tropical dry deciduous forests occur where annual rainfall is between 100–150 cm. Teak is the dominant species in these forests."
-  },
-  {
-    id: "d281l_006",
-    subject: "da-281",
-    lecture: "lecture-1",
-    lectureNo: 1,
-    question: "The forest area of Telangana state is approximately:",
-    options: ["75,000 sq km", "5,000 sq km", "28,854 sq km (about 25% of the state)", "1,12,077 sq km"],
-    correct: 2,
-    explanation: "Telangana has a geographical area of 1,12,077 sq km, of which the forest area is about 28,854 sq km, covering around 25.11% of the state's geographical area."
-  },
-  {
-    id: "d281l_007",
-    subject: "da-281",
-    lecture: "lecture-1",
-    lectureNo: 1,
-    question: "Temperate forests in India are mainly found at altitudes of:",
-    options: ["2000–3000 m", "1000–2000 m", "3000–4000 m", "500–1000 m"],
-    correct: 0,
-    explanation: "Temperate forests (also called montane temperate forests) in India occur at altitudes between 2000–3000 m above sea level in the Himalayan regions and southern hills."
-  },
-  {
-    id: "d281l_008",
-    subject: "da-281",
-    lecture: "lecture-1",
-    lectureNo: 1,
-    question: "Tidal or mangrove forests in India are found along:",
-    options: ["Desert margins", "Mountain slopes", "River banks inland", "Coastal areas and deltas"],
-    correct: 3,
-    explanation: "Tidal/mangrove forests occur along coastal areas, estuaries and deltas where tidal action brings saline water. Sundarbans is the largest mangrove forest."
-  },
-  {
-    id: "d281l_009",
-    subject: "da-281",
-    lecture: "lecture-1",
-    lectureNo: 1,
-    question: "Which state of India has the highest forest cover?",
-    options: ["Maharashtra", "Arunachal Pradesh", "Madhya Pradesh", "Chhattisgarh"],
-    correct: 1,
-    explanation: "Arunachal Pradesh has the highest forest cover in terms of area among Indian states, followed by Madhya Pradesh and Chhattisgarh."
-  },
-  {
-    id: "d281l_010",
-    subject: "da-281",
-    lecture: "lecture-1",
-    lectureNo: 1,
-    question: "Dry thorn forests (tropical thorn forests) in India are found where annual rainfall is:",
-    options: ["100–125 cm", "50–75 cm", "Less than 50 cm", "75–100 cm"],
-    correct: 1,
-    explanation: "Tropical thorn forests occur in areas with annual rainfall of 50–75 cm. These are found in Rajasthan, Punjab, Gujarat and parts of Deccan plateau."
-  },
-  {
-    id: "d281l_011",
-    subject: "da-281",
-    lecture: "lecture-1",
-    lectureNo: 1,
-    question: "The National Forest Policy of India aims at maintaining forest cover of what percentage of total geographical area?",
-    options: ["33%", "20%", "40%", "25%"],
-    correct: 0,
-    explanation: "The National Forest Policy 1988 recommends maintaining 33% of the total geographical area under forests to maintain ecological balance."
-  },
-  {
-    id: "d281l_012",
-    subject: "da-281",
-    lecture: "lecture-1",
-    lectureNo: 1,
-    question: "Forest mensuration is concerned with:",
-    options: ["Control of forest fires", "Identification of tree species", "Marketing of timber", "Measurement of forest produce"],
-    correct: 3,
-    explanation: "Forest mensuration deals with the measurement of forest produce such as the volume, girth, height and increment of trees and stands."
-  },
-  {
-    id: "d281l_013",
-    subject: "da-281",
-    lecture: "lecture-1",
-    lectureNo: 1,
-    question: "The pole stage in the growth of a tree extends from:",
-    options: ["Germination to 1 m height", "Flowering to crown expansion", "Seed to germination", "Full maturity to death"],
-    correct: 1,
-    explanation: "The growth stages of a tree are seedling (germination to 1 m), sapling, pole (flowering to crown expansion) and tree."
-  },
-  {
-    id: "d281l_014",
-    subject: "da-281",
-    lecture: "lecture-1",
-    lectureNo: 1,
-    question: "The famous Sundarbans mangrove forest is located in which state?",
-    options: ["Andhra Pradesh", "Odisha", "West Bengal", "Tamil Nadu"],
-    correct: 2,
-    explanation: "Sundarbans, the world's largest mangrove forest, is located in West Bengal (also extending into Bangladesh). It is a UNESCO World Heritage Site."
-  },
-  {
-    id: "d281l_015",
-    subject: "da-281",
-    lecture: "lecture-1",
-    lectureNo: 1,
-    question: "In terms of percentage of total area, which district of Telangana has the highest forest cover?",
-    options: ["Nalgonda", "Kumuram Bheem Asifabad", "Rangareddy", "Khammam"],
-    correct: 1,
-    explanation: "Kumuram Bheem Asifabad (erstwhile Adilabad) district has the highest forest cover as a percentage of its total geographical area in Telangana."
-  },
-  {
-    id: "d281l_016",
-    subject: "da-281",
-    lecture: "lecture-1",
-    lectureNo: 1,
-    question: "Tropical semi-evergreen forests in India are transitional between which two forest types?",
-    options: ["Deciduous and dry thorn", "Alpine and temperate", "Thorn and desert", "Evergreen and deciduous"],
-    correct: 3,
-    explanation: "Tropical semi-evergreen forests are transitional between tropical wet evergreen and tropical moist deciduous forests, occurring where rainfall is 150–200 cm."
-  },
-  {
-    id: "d281l_017",
-    subject: "da-281",
-    lecture: "lecture-2",
-    lectureNo: 2,
-    question: "The silvicultural system in which all trees are harvested over the entire area in one operation is called:",
-    options: ["Coppice system", "Selection system", "Shelterwood system", "Clear felling system"],
-    correct: 3,
-    explanation: "In the clear felling system, all trees (merchantable and unmerchantable) are removed from the entire area at one time and the area is then regenerated artificially or naturally."
-  },
-  {
-    id: "d281l_018",
-    subject: "da-281",
-    lecture: "lecture-2",
-    lectureNo: 2,
-    question: "Afforestation refers to:",
-    options: ["Thinning of overcrowded stands", "Replanting of previously forested areas", "Planting trees on land without previous forest history", "Removal of trees from degraded lands"],
-    correct: 2,
-    explanation: "Afforestation means establishing a forest on land that has not been forested for a long time or has never had a forest. Reforestation means replanting on previously forested land."
-  },
-  {
-    id: "d281l_019",
-    subject: "da-281",
-    lecture: "lecture-2",
-    lectureNo: 2,
-    question: "The selection system of silviculture is most suitable for:",
-    options: ["Fast-growing plantation crops", "Even-aged crops requiring uniform light", "Grassland conversion to forest", "Uneven-aged mixed species forests"],
-    correct: 3,
-    explanation: "The selection system involves selective harvesting of individual trees or small groups, maintaining an uneven-aged mixed forest structure. It is ideal for shade-tolerant species."
-  },
-  {
-    id: "d281l_020",
-    subject: "da-281",
-    lecture: "lecture-2",
-    lectureNo: 2,
-    question: "In a nursery, seed germination percentage can be improved by a process called:",
-    options: ["Vernalization", "Vernation", "Scarification", "Stratification"],
-    correct: 2,
-    explanation: "Scarification is the mechanical or chemical treatment of hard seed coats to break dormancy and improve germination. Hard-coated forest tree seeds often require this treatment."
-  },
-  {
-    id: "d281l_021",
-    subject: "da-281",
-    lecture: "lecture-2",
-    lectureNo: 2,
-    question: "The coppice silvicultural system exploits the natural ability of many hardwood trees to:",
-    options: ["Propagate through vegetative runners", "Sprout new shoots from stumps or roots", "Colonize bare ground through natural fall", "Regenerate from seeds blown by wind"],
-    correct: 1,
-    explanation: "The coppice system relies on the ability of broadleaved trees to regenerate by sprouting from cut stumps (coppice shoots). It is widely used for firewood and small timber production."
-  },
-  {
-    id: "d281l_022",
-    subject: "da-281",
-    lecture: "lecture-2",
-    lectureNo: 2,
-    question: "The shelterwood system of silviculture involves:",
-    options: ["Removing all trees simultaneously in horticultural practices", "Burning of forest floor after harvest", "Using artificial regeneration only for vegetable cultivation", "Retaining some trees as seed bearers over the area"],
-    correct: 3,
-    explanation: "The shelterwood system involves the gradual removal of trees in a series of cuts, retaining enough trees to provide shelter, seed and light for regeneration before final removal."
-  },
-  {
-    id: "d281l_023",
-    subject: "da-281",
-    lecture: "lecture-2",
-    lectureNo: 2,
-    question: "In forest nurseries, the practice of 'pricking out' refers to:",
-    options: ["Sowing seeds at wide spacing", "Transplanting seedlings from germination bed to spacing beds", "Making holes in hardened seed coat", "Removing competing weeds in horticultural practices"],
-    correct: 1,
-    explanation: "Pricking out is the operation of transplanting tiny seedlings from a crowded germination bed to nursery beds at wider spacing to allow proper development."
-  },
-  {
-    id: "d281l_024",
-    subject: "da-281",
-    lecture: "lecture-2",
-    lectureNo: 2,
-    question: "Which of the following is the correct definition of 'rotation' in silviculture?",
-    options: ["The period between regeneration and final harvest", "The method of rotating different tree species", "The process of rotating crops with forests", "Rotation ploughing before planting"],
-    correct: 0,
-    explanation: "Rotation in silviculture is the period in years between the establishment of a crop and its final harvest. Different species have different rotation periods (e.g., Eucalyptus 7–8 years, Teak 80–120 years)."
-  },
-  {
-    id: "d281l_025",
-    subject: "da-281",
-    lecture: "lecture-2",
-    lectureNo: 2,
-    question: "Direct seeding in nurseries is most suitable for tree species with:",
-    options: ["Seeds requiring stratification", "All types of forest tree seeds", "Very small seeds", "Large seeds that do not transplant well"],
-    correct: 3,
-    explanation: "Direct seeding (sowing seeds directly in the field or large pots) is most suitable for species with large seeds (e.g., Sal, Teak) or those that do not tolerate transplanting."
-  },
-  {
-    id: "d281l_026",
-    subject: "da-281",
-    lecture: "lecture-2",
-    lectureNo: 2,
-    question: "Thinning in silviculture is carried out mainly to:",
-    options: ["Improve growth of remaining crop trees", "Harvest timber before rotation ends", "Convert uneven-aged stands to even-aged", "Remove all suppressed trees permanently"],
-    correct: 0,
-    explanation: "Thinning removes suppressed, diseased or competing trees to improve the spacing and growing conditions for the remaining crop trees, increasing their increment and quality."
-  },
-  {
-    id: "d281l_027",
-    subject: "da-281",
-    lecture: "lecture-2",
-    lectureNo: 2,
-    question: "Reforestation means:",
-    options: ["Restocking of cleared or degraded forest land", "Planting trees on land never previously forested", "Natural forest regeneration only", "Converting agricultural land to forest"],
-    correct: 0,
-    explanation: "Reforestation means restocking of existing forests and woodlands which have been depleted through deforestation, degradation or natural disasters."
-  },
-  {
-    id: "d281l_028",
-    subject: "da-281",
-    lecture: "lecture-2",
-    lectureNo: 2,
-    question: "The process of hardening nursery plants before transplanting to the field is called:",
-    options: ["Hardening off", "Vernalization", "Pricking out", "Stratification"],
-    correct: 0,
-    explanation: "Hardening off is the process of gradually acclimatizing nursery-grown seedlings to outdoor/field conditions before permanent transplanting to reduce transplanting shock."
-  },
-  {
-    id: "d281l_029",
-    subject: "da-281",
-    lecture: "lecture-2",
-    lectureNo: 2,
-    question: "Which silvicultural system is best suited for Teak forests?",
-    options: ["Coppice system", "Clear felling with artificial regeneration", "Selection system", "Shelterwood compartment system"],
-    correct: 1,
-    explanation: "Teak plantations are managed under the clear felling system followed by artificial regeneration (planting) since Teak is light demanding and does not regenerate under shade."
-  },
-  {
-    id: "d281l_030",
-    subject: "da-281",
-    lecture: "lecture-2",
-    lectureNo: 2,
-    question: "In forest nurseries, 'root trainers' are used to:",
-    options: ["Control nursery weeds chemically", "Train roots to grow downward only", "Produce quality seedlings with intact root systems", "Speed up germination of hard seeds"],
-    correct: 2,
-    explanation: "Root trainers are small ribbed containers that guide root growth downward and prevent spiraling, producing quality seedlings with intact root systems that have less transplant shock."
-  },
-  {
-    id: "d281l_031",
-    subject: "da-281",
-    lecture: "lecture-2",
-    lectureNo: 2,
-    question: "Stump planting in forestry means planting:",
-    options: ["Only the stump portion of a plant without shoots", "Bare-rooted seedlings with shoot and root retained", "Young seedlings with full shoot and root system", "Stumps of mature harvested trees"],
-    correct: 1,
-    explanation: "Stump planting involves bare-rooted planting material where the shoot is cut back to a stump (typically 2–4 cm height with 15–20 cm tap root). It is used for Teak and other species."
-  },
-  {
-    id: "d281l_032",
-    subject: "da-281",
-    lecture: "lecture-2",
-    lectureNo: 2,
-    question: "The ideal time for transplanting nursery raised seedlings in India is:",
-    options: ["Post-monsoon (October–November) in horticultural practices", "At the onset of monsoon (June–July)", "Winter (December–January) for vegetable cultivation", "Summer (April–May) in orchard management"],
-    correct: 1,
-    explanation: "The onset of monsoon (June–July) is the ideal time for transplanting forest seedlings as adequate soil moisture reduces transplanting stress and supports establishment."
-  },
-  {
-    id: "d281l_033",
-    subject: "da-281",
-    lecture: "lecture-3",
-    lectureNo: 3,
-    question: "Agrisilviculture is a type of agroforestry system that combines:",
-    options: ["Trees with livestock only", "Trees with crops only", "Trees with aquatic systems", "Trees, crops and livestock"],
-    correct: 1,
-    explanation: "Agrisilviculture combines trees/shrubs with agricultural crops on the same land unit. There is no deliberate component of livestock in this system."
-  },
-  {
-    id: "d281l_034",
-    subject: "da-281",
-    lecture: "lecture-3",
-    lectureNo: 3,
-    question: "Silvopastoral systems in agroforestry integrate:",
-    options: ["Trees and crops", "Crops and aquaculture", "Trees and pasture/livestock", "Trees, crops and fish"],
-    correct: 2,
-    explanation: "Silvopastoral systems combine trees or shrubs with forage plants and livestock production on the same land, providing multiple benefits including shade, timber and improved fodder."
-  },
-  {
-    id: "d281l_035",
-    subject: "da-281",
-    lecture: "lecture-3",
-    lectureNo: 3,
-    question: "The Wadi model of agroforestry was developed and popularized by which organization?",
-    options: ["FAO", "NABARD", "ICAR", "World Bank"],
-    correct: 1,
-    explanation: "The Wadi model was developed and popularized by NABARD (National Bank for Agriculture and Rural Development) in tribal areas of Gujarat and Rajasthan to improve tribal livelihoods."
-  },
-  {
-    id: "d281l_036",
-    subject: "da-281",
-    lecture: "lecture-3",
-    lectureNo: 3,
-    question: "Boundary planting in agroforestry refers to planting trees:",
-    options: ["In pure blocks within the farm", "In rows between crop fields", "At random throughout the field", "Along field boundaries, roads and water channels"],
-    correct: 3,
-    explanation: "Boundary planting involves growing trees along boundaries of fields, roads, bunds and water channels. It does not compete with main crops and provides multiple benefits."
-  },
-  {
-    id: "d281l_037",
-    subject: "da-281",
-    lecture: "lecture-3",
-    lectureNo: 3,
-    question: "Windbreaks are planted perpendicular to the prevailing wind direction primarily to:",
-    options: ["Reduce wind speed and protect crops from wind erosion", "Attract beneficial insects for pollination in horticultural practices", "Provide shade to crops in summer", "Increase humidity in the microclimate for vegetable cultivation"],
-    correct: 0,
-    explanation: "Windbreaks (also called shelterbelts) are planted at right angles to prevailing winds to reduce wind velocity, protecting crops, soil and livestock from wind damage and erosion."
-  },
-  {
-    id: "d281l_038",
-    subject: "da-281",
-    lecture: "lecture-3",
-    lectureNo: 3,
-    question: "Agroforestry, as a land-use system, integrates crops, forest plants and:",
-    options: ["Only fish ponds", "Only ornamental flowers", "Animals/livestock on the same unit of land", "Only mushrooms"],
-    correct: 2,
-    explanation: "Agroforestry is a sustainable land-management system that combines the production of crops (including tree crops), forest plants and/or animals simultaneously or sequentially on the same unit of land."
-  },
-  {
-    id: "d281l_039",
-    subject: "da-281",
-    lecture: "lecture-3",
-    lectureNo: 3,
-    question: "Taungya system is an agroforestry practice in which:",
-    options: ["Livestock are grazed in mature forests", "Crops are grown only in forest gaps", "Trees are grown only for fruit production", "Forest laborers grow crops between young tree plantations"],
-    correct: 3,
-    explanation: "The Taungya system involves growing agricultural crops between rows of young forest tree plantations. Forest laborers cultivate food crops and simultaneously tend the young trees."
-  },
-  {
-    id: "d281l_040",
-    subject: "da-281",
-    lecture: "lecture-3",
-    lectureNo: 3,
-    question: "Social forestry in India was formally launched during which Five Year Plan?",
-    options: ["Sixth Five Year Plan", "Fifth Five Year Plan", "Seventh Five Year Plan", "Third Five Year Plan"],
-    correct: 0,
-    explanation: "Social forestry was formally launched in India during the Sixth Five Year Plan (1980–85) to meet the domestic and agricultural needs of rural communities and improve the environment."
-  },
-  {
-    id: "d281l_041",
-    subject: "da-281",
-    lecture: "lecture-3",
-    lectureNo: 3,
-    question: "Alley cropping (Hedgerow intercropping) in agroforestry involves:",
-    options: ["Planting trees in alleys with crops between the tree rows", "Planting trees in alleys within grazing areas", "Random mixture of trees and crops for vegetable cultivation", "Growing crops in forested alleys in horticultural practices"],
-    correct: 0,
-    explanation: "Alley cropping involves growing food/forage crops in the alleys (spaces) between rows of fast-growing multipurpose trees or shrubs (hedgerows) that are periodically pruned."
-  },
-  {
-    id: "d281l_042",
-    subject: "da-281",
-    lecture: "lecture-3",
-    lectureNo: 3,
-    question: "Agrisilvipastoral systems in agroforestry combine:",
-    options: ["Trees and crops only", "Trees and livestock only", "Crops and aquatic organisms", "Trees, crops and livestock together"],
-    correct: 3,
-    explanation: "Agrisilvipastoral systems are the most complex agroforestry systems combining trees, agricultural crops AND livestock/animals on the same land management unit."
-  },
-  {
-    id: "d281l_043",
-    subject: "da-281",
-    lecture: "lecture-3",
-    lectureNo: 3,
-    question: "The primary benefit of shelterbelts in agricultural areas is:",
-    options: ["Protecting crops from wind and conserving soil moisture", "Attracting migratory birds for pest control", "Increasing crop diversity on the farm", "Providing timber for local use"],
-    correct: 0,
-    explanation: "Shelterbelts primarily protect crops, soil and livestock from wind damage. They reduce wind speed by 50–70%, conserve soil moisture, reduce evapotranspiration and improve crop yields."
-  },
-  {
-    id: "d281l_044",
-    subject: "da-281",
-    lecture: "lecture-3",
-    lectureNo: 3,
-    question: "The Wadi model integrates which main components on tribal farmland?",
-    options: ["Only fruit trees and forestry species", "Aquaculture with paddy cultivation for vegetable cultivation", "Livestock with pasture only in horticultural practices", "Horticultural trees with agricultural crops and soil conservation"],
-    correct: 3,
-    explanation: "The Wadi model integrates horticultural trees (mango, cashew, amla) with agricultural crops and soil/water conservation structures on tribal farmland, improving tribal income."
-  },
-  {
-    id: "d281l_045",
-    subject: "da-281",
-    lecture: "lecture-3",
-    lectureNo: 3,
-    question: "Which of the following is NOT a social forestry programme?",
-    options: ["Protection of natural forests", "Farm forestry", "Plantation forestry on government wastelands", "Extension forestry"],
-    correct: 0,
-    explanation: "Social forestry includes farm forestry, extension forestry and community forestry on government wastelands. Protection of natural forests is a conservation activity, not social forestry."
-  },
-  {
-    id: "d281l_046",
-    subject: "da-281",
-    lecture: "lecture-3",
-    lectureNo: 3,
-    question: "Home gardens as an agroforestry system are characterized by:",
-    options: ["Single species monocultures near houses", "Diverse mixture of trees, shrubs, crops near homesteads", "Grazing plots adjacent to homes", "Pure orchards for commercial production"],
-    correct: 1,
-    explanation: "Home gardens are a complex mixture of trees, shrubs and herbaceous plants maintained close to the homestead, providing diverse food, medicine, fodder and income throughout the year."
-  },
-  {
-    id: "d281l_047",
-    subject: "da-281",
-    lecture: "lecture-3",
-    lectureNo: 3,
-    question: "Subabul (Leucaena leucocephala) is widely used in agroforestry because it:",
-    options: ["Produces valuable hardwood timber only", "Requires very high inputs to establish", "Competes strongly with companion crops", "Is fast growing, nitrogen fixing and multipurpose"],
-    correct: 3,
-    explanation: "Leucaena leucocephala (Subabul) is fast growing, fixes atmospheric nitrogen, provides fodder, fuel wood, green manure and timber, making it ideal for agroforestry systems."
-  },
-  {
-    id: "d281l_048",
-    subject: "da-281",
-    lecture: "lecture-3",
-    lectureNo: 3,
-    question: "Which type of agroforestry system is most common in the semi-arid regions of Rajasthan?",
-    options: ["Agrisilviculture with teak", "Aquaforestry with mangroves", "Agrisilvipastoral with fruit trees", "Silvopastoral with Acacia and grasses"],
-    correct: 3,
-    explanation: "In the semi-arid regions of Rajasthan, silvopastoral systems with Acacia species (Khejri – Prosopis cineraria) and drought-resistant grasses are most common and traditional."
-  },
-  {
-    id: "d281l_049",
-    subject: "da-281",
-    lecture: "lecture-4",
-    lectureNo: 4,
-    question: "The botanical name of Teak, one of the most valuable timber trees in India, is:",
-    options: ["Tectona grandis", "Terminalia tomentosa", "Shorea robusta", "Dalbergia latifolia"],
-    correct: 0,
-    explanation: "Teak is botanically known as Tectona grandis, belonging to family Verbenaceae. It produces very durable, hard wood used for furniture, ship building and construction."
-  },
-  {
-    id: "d281l_050",
-    subject: "da-281",
-    lecture: "lecture-4",
-    lectureNo: 4,
-    question: "Eucalyptus camaldulensis (River Red Gum) is preferred in plantation forestry because:",
-    options: ["It is extremely fast growing and drought tolerant", "Its wood is preferred for making sports goods", "It produces highly durable timber for furniture", "It has nitrogen-fixing ability improving soil fertility"],
-    correct: 0,
-    explanation: "Eucalyptus camaldulensis is favored in plantation forestry for its very fast growth rate, drought tolerance, multiple uses (pulpwood, fuel, poles) and adaptability to varied conditions."
-  },
-  {
-    id: "d281l_051",
-    subject: "da-281",
-    lecture: "lecture-4",
-    lectureNo: 4,
-    question: "Casuarina equisetifolia is commonly known as:",
-    options: ["Indian Laurel", "Indian Rosewood", "White Cedar", "River Oak or Whistling Pine"],
-    correct: 3,
-    explanation: "Casuarina equisetifolia is commonly called River Oak, She-oak or Whistling Pine. It is fast growing, fixes nitrogen and is widely planted in coastal areas of Tamil Nadu and Andhra Pradesh."
-  },
-  {
-    id: "d281l_052",
-    subject: "da-281",
-    lecture: "lecture-4",
-    lectureNo: 4,
-    question: "The scientific name of Bamboo most commonly used in India is:",
-    options: ["Bambusa multiplex", "Phyllostachys aurea", "Bambusa bambos", "Dendrocalamus strictus"],
-    correct: 2,
-    explanation: "Bambusa bambos (formerly B. arundinacea) is the most common native bamboo species in India. Dendrocalamus strictus (solid bamboo) is also widely used."
-  },
-  {
-    id: "d281l_053",
-    subject: "da-281",
-    lecture: "lecture-4",
-    lectureNo: 4,
-    question: "Teak wood is highly valued because of its:",
-    options: ["Flexible and bending properties in horticultural practices", "Very fast growth and short rotation for vegetable cultivation", "High silica content making it naturally durable and weather resistant", "Light color and low density in orchard management"],
-    correct: 2,
-    explanation: "Teak wood is highly valued for its high natural oil and silica content which makes it extremely durable, weather and termite resistant, ideal for outdoor furniture and ship building."
-  },
-  {
-    id: "d281l_054",
-    subject: "da-281",
-    lecture: "lecture-4",
-    lectureNo: 4,
-    question: "Subabul (Leucaena leucocephala) is known as:",
-    options: ["Pongam or Karanj", "Miracle tree or Lamtoro", "Siris or Rain tree", "Khejri or Shami"],
-    correct: 1,
-    explanation: "Leucaena leucocephala is known as Subabul or Lamtoro and often called the 'Miracle tree' due to its multiple uses in fodder, fuel wood, timber, green manure and agroforestry."
-  },
-  {
-    id: "d281l_055",
-    subject: "da-281",
-    lecture: "lecture-4",
-    lectureNo: 4,
-    question: "Indian Rosewood (Shisham), a very valuable timber species, has the botanical name:",
-    options: ["Dalbergia latifolia", "Dalbergia sissoo", "Pterocarpus marsupium", "Tectona grandis"],
-    correct: 1,
-    explanation: "Dalbergia sissoo is Indian Rosewood (Shisham), widely used for furniture, agricultural implements and sports goods. Dalbergia latifolia is Bombay Blackwood or Indian Rosewood (a different species)."
-  },
-  {
-    id: "d281l_056",
-    subject: "da-281",
-    lecture: "lecture-4",
-    lectureNo: 4,
-    question: "Bamboo is botanically classified as a member of the family:",
-    options: ["Arecaceae", "Euphorbiaceae", "Poaceae (Gramineae)", "Fabaceae"],
-    correct: 2,
-    explanation: "Bamboo belongs to the family Poaceae (Gramineae) – the grass family. Despite its tree-like appearance, bamboo is essentially a giant grass."
-  },
-  {
-    id: "d281l_057",
-    subject: "da-281",
-    lecture: "lecture-4",
-    lectureNo: 4,
-    question: "Which property makes Eucalyptus wood less suitable for high-quality furniture?",
-    options: ["It is susceptible to termite attack", "It is too soft and weak", "It checks (cracks) and warps severely during seasoning", "It grows too slowly for commercial use"],
-    correct: 2,
-    explanation: "Eucalyptus wood tends to check (develop surface cracks) and warp severely during seasoning (drying), which limits its use for furniture but makes it suitable for pulpwood and poles."
-  },
-  {
-    id: "d281l_058",
-    subject: "da-281",
-    lecture: "lecture-4",
-    lectureNo: 4,
-    question: "The wood property 'specific gravity' indicates:",
-    options: ["The rate of drying of timber", "The resistance of wood to fungal attack", "The weight of wood relative to water", "The strength of wood under bending forces"],
-    correct: 2,
-    explanation: "Specific gravity of wood is the ratio of its density to water density. Higher specific gravity indicates harder, denser and generally stronger wood. Teak has specific gravity of about 0.67."
-  },
-  {
-    id: "d281l_059",
-    subject: "da-281",
-    lecture: "lecture-4",
-    lectureNo: 4,
-    question: "Casuarina is widely planted in coastal areas primarily because it:",
-    options: ["Tolerates salinity, fixes nitrogen and grows fast", "Provides excellent shade for coastal tourism", "Produces edible fruits and nuts", "Produces excellent furniture-grade timber"],
-    correct: 0,
-    explanation: "Casuarina is planted in coastal areas because it tolerates salinity, strong coastal winds and poor sandy soils, grows very fast, has nitrogen-fixing root nodules (actinomycetes) and provides fuel wood."
-  },
-  {
-    id: "d281l_060",
-    subject: "da-281",
-    lecture: "lecture-4",
-    lectureNo: 4,
-    question: "The process of converting green (freshly cut) timber to dry timber is called:",
-    options: ["Seasoning", "Preservation", "Conversion", "Impregnation"],
-    correct: 0,
-    explanation: "Seasoning is the process of drying green timber to reduce its moisture content to a level suitable for its intended use. Proper seasoning reduces warping, checking and increases strength."
-  },
-  {
-    id: "d281l_061",
-    subject: "da-281",
-    lecture: "lecture-4",
-    lectureNo: 4,
-    question: "Which state of India is the largest producer of Bamboo?",
-    options: ["Odisha", "Madhya Pradesh", "Assam", "Karnataka"],
-    correct: 2,
-    explanation: "Assam is the largest producer of bamboo in India, followed by Madhya Pradesh. India has the second largest bamboo reserves in the world after China."
-  },
-  {
-    id: "d281l_062",
-    subject: "da-281",
-    lecture: "lecture-4",
-    lectureNo: 4,
-    question: "The tree Pongamia pinnata is valued in agroforestry mainly for:",
-    options: ["High quality timber production", "Excellent fodder for livestock", "Production of lac and resin", "Biofuel (biodiesel) from seeds and nitrogen fixation"],
-    correct: 3,
-    explanation: "Pongamia pinnata (Karanj) is valued for its seed oil as biodiesel (bio-energy), nitrogen fixation through root nodules, and green manure. It is widely used in wasteland development."
-  },
-  {
-    id: "d281l_063",
-    subject: "da-281",
-    lecture: "lecture-4",
-    lectureNo: 4,
-    question: "The rotation period for Eucalyptus plantation grown for pulpwood is approximately:",
-    options: ["3–4 years", "7–8 years", "25–30 years", "15–20 years"],
-    correct: 1,
-    explanation: "Eucalyptus plantations grown for pulpwood are harvested on a 7–8 year rotation. For poles and fuel wood the rotation may be shorter (5–6 years) and for heavy timber longer."
-  },
-  {
-    id: "d281l_064",
-    subject: "da-281",
-    lecture: "lecture-4",
-    lectureNo: 4,
-    question: "Heartwood in timber is characterized by:",
-    options: ["Being the site of active cell division", "Active conduction of water and minerals", "Being lighter in color and less dense than sapwood", "Being dead, harder, darker and more durable than sapwood"],
-    correct: 3,
-    explanation: "Heartwood is the inner, older part of the stem where cells are dead, filled with resins, tannins and oils making it harder, darker, more durable and more valuable than the outer sapwood."
-  },
-  {
-    id: "d281l_065",
-    subject: "da-281",
-    lecture: "lecture-5",
-    lectureNo: 5,
-    question: "Which trees are highly suitable for raising windbreaks and shelterbelts?",
-    options: ["Only roses", "Only banana and papaya", "Only rice and wheat", "Eucalyptus, Sesbania and Parkinsonia"],
-    correct: 3,
-    explanation: "Eucalyptus, Sesbania and Parkinsonia aculeata are highly suitable for windbreaks and shelterbelts, which reduce wind speed and wind erosion."
-  },
-  {
-    id: "d281l_066",
-    subject: "da-281",
-    lecture: "lecture-5",
-    lectureNo: 5,
-    question: "The National Forest Policy 1988 shifted the priority of forest management from revenue generation to:",
-    options: ["Export of forest products", "Maximum timber production", "Industrial raw material supply", "Environmental stability and ecological balance"],
-    correct: 3,
-    explanation: "The National Forest Policy 1988 gave top priority to environmental stability and ecological balance, recognizing the need for forests as essential for survival of all living beings."
-  },
-  {
-    id: "d281l_067",
-    subject: "da-281",
-    lecture: "lecture-5",
-    lectureNo: 5,
-    question: "The Taungya system, an early agroforestry method, was first evolved in:",
-    options: ["Australia", "Burma (Myanmar)", "Brazil", "Canada"],
-    correct: 1,
-    explanation: "The Taungya system - a modification of shifting cultivation in which trees are grown along with agricultural crops - was first evolved in Burma."
-  },
-  {
-    id: "d281l_068",
-    subject: "da-281",
-    lecture: "lecture-5",
-    lectureNo: 5,
-    question: "Shifting cultivation involves clearing forest, burning the felled material, cropping and then:",
-    options: ["Immediate re-cropping forever", "Permanent abandonment", "A fallow period (about 8-10 years)", "Flooding the land"],
-    correct: 2,
-    explanation: "In shifting cultivation, forest is cleared and burnt, crops are raised for one or more years, followed by a fallow period (8-10 years) during which forest trees rejuvenate the soil."
-  },
-  {
-    id: "d281l_069",
-    subject: "da-281",
-    lecture: "lecture-5",
-    lectureNo: 5,
-    question: "Vanamahotsavam is a programme aimed at:",
-    options: ["Construction of dams", "Hunting of wild animals", "Harvesting of timber", "Mass tree planting to increase forest/tree cover"],
-    correct: 3,
-    explanation: "Vanamahotsavam is the 'festival of trees' - a programme of mass tree planting to increase forest and tree cover."
-  },
-  {
-    id: "d281l_070",
-    subject: "da-281",
-    lecture: "lecture-5",
-    lectureNo: 5,
-    question: "An agroforestry system that combines trees with pasture/livestock is called:",
-    options: ["Agrisilviculture", "Silvopastoral system", "Mono-cropping", "Hydroponics"],
-    correct: 1,
-    explanation: "A silvopastoral system combines forest trees with pasture and livestock; agrisilviculture combines trees with agricultural crops."
-  },
-  {
-    id: "d281l_071",
-    subject: "da-281",
-    lecture: "lecture-5",
-    lectureNo: 5,
-    question: "The concept of 'protected areas' in India includes which categories?",
-    options: ["National Parks only in horticultural practices", "National Parks, Wildlife Sanctuaries, Conservation Reserves and Community Reserves", "Reserved Forests and Protected Forests for vegetable cultivation", "Tiger Reserves and Elephant Reserves only"],
-    correct: 1,
-    explanation: "Protected Areas in India under Wildlife Protection Act 1972 (amended 2002) include National Parks, Wildlife Sanctuaries, Conservation Reserves and Community Reserves."
-  },
-  {
-    id: "d281l_072",
-    subject: "da-281",
-    lecture: "lecture-5",
-    lectureNo: 5,
-    question: "A two-tier fruit-cum-fodder based agroforestry model is called:",
-    options: ["Taungya", "Agrisilviculture", "Horti-pastoral system", "Shifting cultivation"],
-    correct: 2,
-    explanation: "The horti-pastoral system is a two-tier model for fruit-cum-fodder based agroforestry (fruit trees with fodder/pasture beneath)."
-  },
-  {
-    id: "d281l_073",
-    subject: "da-281",
-    lecture: "lecture-5",
-    lectureNo: 5,
-    question: "Social forestry aims primarily at:",
-    options: ["Converting all wastelands to commercial plantations", "Establishing luxury ecotourism facilities in horticultural practices", "Increasing timber export revenue for vegetable cultivation", "Meeting the fuel, fodder and timber needs of rural communities"],
-    correct: 3,
-    explanation: "Social forestry aims to meet the basic needs of rural communities (fuel, fodder, small timber, non-timber forest products) by planting trees on community and wastelands and farm bunds."
-  },
-  {
-    id: "d281l_074",
-    subject: "da-281",
-    lecture: "lecture-5",
-    lectureNo: 5,
-    question: "Windbreaks and shelterbelts are planted mainly to:",
-    options: ["Raise groundwater pollution", "Increase soil salinity", "Block all sunlight", "Reduce wind speed and wind erosion"],
-    correct: 3,
-    explanation: "Windbreaks and shelterbelts (e.g. of Eucalyptus, Sesbania, Parkinsonia) are planted mainly to reduce wind speed, protect crops and control wind erosion."
-  },
-  {
-    id: "d281l_075",
-    subject: "da-281",
-    lecture: "lecture-5",
-    lectureNo: 5,
-    question: "Energy plantations are raised mainly to produce:",
-    options: ["Food grains", "Fuel wood / firewood", "Cut flowers", "Medicinal tablets"],
-    correct: 1,
-    explanation: "Energy plantations are raised on waste/marginal lands mainly to produce fuel wood and firewood."
-  },
-  {
-    id: "d281l_076",
-    subject: "da-281",
-    lecture: "lecture-5",
-    lectureNo: 5,
-    question: "Farm forestry as part of social forestry involves:",
-    options: ["Cutting trees from farms for timber sale", "Government planting of trees on private farmlands", "Joint management of community wastelands", "Farmers voluntarily planting trees on their own land"],
-    correct: 3,
-    explanation: "Farm forestry involves individual farmers voluntarily planting and tending trees on their own private agricultural land for wood, fuel, fodder and income generation."
-  },
-  {
-    id: "d281l_077",
-    subject: "da-281",
-    lecture: "lecture-5",
-    lectureNo: 5,
-    question: "Agrisilviculture is an agroforestry system that combines:",
-    options: ["Only livestock with pasture", "Only trees with fish", "Agricultural crops with forest trees", "Only flowers with vegetables"],
-    correct: 2,
-    explanation: "Agrisilviculture combines agricultural crops with forest/multipurpose trees on the same land."
-  },
-  {
-    id: "d281l_078",
-    subject: "da-281",
-    lecture: "lecture-5",
-    lectureNo: 5,
-    question: "Farm forestry is the raising of trees:",
-    options: ["Only in cities", "Only inside reserved forests", "Only on river beds", "On farmers' own (private) lands"],
-    correct: 3,
-    explanation: "Farm forestry is the practice of raising trees on farmers' own/private agricultural lands; it may be commercial or non-commercial."
-  },
-  {
-    id: "d281l_079",
-    subject: "da-281",
-    lecture: "lecture-5",
-    lectureNo: 5,
-    question: "Green India Mission (GIM) aims to increase forest cover by how many million hectares?",
-    options: ["10 million ha", "5 million ha", "3 million ha", "2 million ha"],
-    correct: 1,
-    explanation: "Green India Mission (one of 8 missions under NAPCC) aims to increase forest and tree cover by 5 million hectares and improve quality of forest cover on another 5 million hectares."
-  },
-  {
-    id: "d281l_080",
-    subject: "da-281",
-    lecture: "lecture-5",
-    lectureNo: 5,
-    question: "The first Tiger Reserve in India was established at:",
-    options: ["Jim Corbett, Uttarakhand", "Periyar, Kerala", "Ranthambore, Rajasthan", "Sundarbans, West Bengal"],
-    correct: 0,
-    explanation: "Jim Corbett National Park in Uttarakhand was where the first Tiger Reserve was established in 1973 under Project Tiger, launched by Indira Gandhi."
-  },
-  {
-    id: "d281l_081",
-    subject: "da-281",
-    lecture: "lecture-6",
-    lectureNo: 6,
-    question: "The botanical name of Ashwagandha, an important Indian medicinal plant, is:",
-    options: ["Withania somnifera", "Bacopa monnieri", "Andrographis paniculata", "Ocimum sanctum"],
-    correct: 0,
-    explanation: "Ashwagandha is botanically known as Withania somnifera. It belongs to family Solanaceae and is a major adaptogenic herb in Ayurveda known as 'Indian Ginseng'."
-  },
-  {
-    id: "d281l_082",
-    subject: "da-281",
-    lecture: "lecture-6",
-    lectureNo: 6,
-    question: "The active principle of Ashwagandha responsible for its medicinal properties is:",
-    options: ["Allicin", "Bacoside", "Withanolides", "Curcumin"],
-    correct: 2,
-    explanation: "The active constituents of Ashwagandha (Withania somnifera) are withanolides (steroidal lactones). They are responsible for its adaptogenic, anti-stress, anti-inflammatory and immunomodulatory properties."
-  },
-  {
-    id: "d281l_083",
-    subject: "da-281",
-    lecture: "lecture-6",
-    lectureNo: 6,
-    question: "Ashwagandha is botanically known as:",
-    options: ["Bacopa monnieri", "Withania somnifera", "Aloe barbadensis", "Ocimum sanctum"],
-    correct: 1,
-    explanation: "Ashwagandha is Withania somnifera; its roots are used as a tonic in Ayurveda."
-  },
-  {
-    id: "d281l_084",
-    subject: "da-281",
-    lecture: "lecture-6",
-    lectureNo: 6,
-    question: "Aloe vera belongs to the family:",
-    options: ["Fabaceae", "Solanaceae", "Liliaceae (Asphodelaceae)", "Apocynaceae"],
-    correct: 2,
-    explanation: "Aloe vera belongs to the family Liliaceae (now placed in Asphodelaceae or Xanthorrhoeaceae). It is cultivated for its gel-containing leaves used in medicine and cosmetics."
-  },
-  {
-    id: "d281l_085",
-    subject: "da-281",
-    lecture: "lecture-6",
-    lectureNo: 6,
-    question: "Senna (Cassia angustifolia) is used mainly as:",
-    options: ["Antihypertensive drug", "Laxative and purgative agent", "Antimicrobial compound", "Anti-fever medicine"],
-    correct: 1,
-    explanation: "Senna (Cassia angustifolia) is widely used as a natural laxative and purgative. The active principles are sennosides (anthraquinone glycosides) found in the leaves and pods."
-  },
-  {
-    id: "d281l_086",
-    subject: "da-281",
-    lecture: "lecture-6",
-    lectureNo: 6,
-    question: "Aloe vera gel is harvested from which part of the plant?",
-    options: ["Inner parenchyma (pulp) of thick leaves", "Roots and rhizomes", "Stem bark and outer leaf", "Flower buds and petals"],
-    correct: 0,
-    explanation: "Aloe vera gel is extracted from the parenchyma (inner pulp) of the thick succulent leaves. It contains water, polysaccharides (acemannan), vitamins, minerals and amino acids."
-  },
-  {
-    id: "d281l_087",
-    subject: "da-281",
-    lecture: "lecture-6",
-    lectureNo: 6,
-    question: "The main active constituent of Aloe vera used in medicine is:",
-    options: ["Acemannan (aloe-emodin)", "Allicin", "Berberine", "Curcumin"],
-    correct: 0,
-    explanation: "Acemannan is the main active polysaccharide in Aloe vera gel, along with aloe-emodin (in the latex). These compounds have wound healing, immunostimulant and anti-inflammatory properties."
-  },
-  {
-    id: "d281l_088",
-    subject: "da-281",
-    lecture: "lecture-6",
-    lectureNo: 6,
-    question: "Senna is commercially cultivated in India mainly in:",
-    options: ["Uttar Pradesh and Bihar", "Kerala and Karnataka", "Punjab and Haryana", "Rajasthan and Tamil Nadu (Tinnevelly region)"],
-    correct: 3,
-    explanation: "Senna (Cassia angustifolia) is mainly cultivated in Rajasthan (Jodhpur area) and Tamil Nadu (Tinnevelly/Tirunelveli region), which supply most of India's senna production."
-  },
-  {
-    id: "d281l_089",
-    subject: "da-281",
-    lecture: "lecture-6",
-    lectureNo: 6,
-    question: "Aloe vera is botanically known as:",
-    options: ["Cassia angustifolia", "Withania somnifera", "Aloe barbadensis", "Artemisia pallens"],
-    correct: 2,
-    explanation: "Aloe vera is botanically Aloe barbadensis; its leaf gel is widely used in medicine and cosmetics."
-  },
-  {
-    id: "d281l_090",
-    subject: "da-281",
-    lecture: "lecture-6",
-    lectureNo: 6,
-    question: "Which part of Ashwagandha is most commonly used in medicine?",
-    options: ["Leaves and stem", "Seeds and flowers", "Roots", "Bark only"],
-    correct: 2,
-    explanation: "The roots of Ashwagandha (Withania somnifera) are the most valued medicinal part. They are dried, powdered and used in various Ayurvedic formulations."
-  },
-  {
-    id: "d281l_091",
-    subject: "da-281",
-    lecture: "lecture-6",
-    lectureNo: 6,
-    question: "Senna pods contain the medicinal compounds called:",
-    options: ["Terpene lactones", "Withanolide steroids", "Bacoside alkaloids", "Sennosides (anthraquinone glycosides)"],
-    correct: 3,
-    explanation: "Senna pods and leaves contain sennosides A and B, which are anthraquinone glycosides. These compounds are responsible for the laxative effect by stimulating bowel movement."
-  },
-  {
-    id: "d281l_092",
-    subject: "da-281",
-    lecture: "lecture-6",
-    lectureNo: 6,
-    question: "Which medicinal plant is called 'Ghritkumari' in Hindi and is widely used in hair care?",
-    options: ["Senna", "Brahmi", "Aloe vera", "Ashwagandha"],
-    correct: 2,
-    explanation: "Aloe vera is called 'Ghritkumari' in Hindi. Its gel is widely used in hair care products for promoting hair growth, reducing dandruff and conditioning hair."
-  },
-  {
-    id: "d281l_093",
-    subject: "da-281",
-    lecture: "lecture-6",
-    lectureNo: 6,
-    question: "The agro-climatic zone best suited for Ashwagandha cultivation is:",
-    options: ["Humid tropical coastal areas in horticultural practices", "High altitude temperate areas for vegetable cultivation", "Semi-arid tropical and subtropical areas with sandy loam soil", "Waterlogged alluvial plains in orchard management"],
-    correct: 2,
-    explanation: "Ashwagandha thrives in semi-arid tropical and subtropical conditions with sandy loam, well-drained soil. It is mainly grown in Rajasthan, Madhya Pradesh and Gujarat."
-  },
-  {
-    id: "d281l_094",
-    subject: "da-281",
-    lecture: "lecture-6",
-    lectureNo: 6,
-    question: "Kalmegh (Andrographis paniculata) is used in traditional medicine primarily for:",
-    options: ["Liver protection and antimalarial activity", "Hormonal regulation", "Memory enhancement", "Cardiac strengthening"],
-    correct: 0,
-    explanation: "Kalmegh (Andrographis paniculata) is used for liver disorders (hepatoprotective), fever (antimalarial/antipyretic) and as an immunostimulant. Active compound is andrographolide."
-  },
-  {
-    id: "d281l_095",
-    subject: "da-281",
-    lecture: "lecture-6",
-    lectureNo: 6,
-    question: "Tulsi (Ocimum sanctum) belongs to the family:",
-    options: ["Lamiaceae (Labiatae)", "Solanaceae", "Apiaceae", "Asteraceae"],
-    correct: 0,
-    explanation: "Tulsi (Ocimum sanctum/tenuiflorum) belongs to family Lamiaceae (Labiatae). It is the Holy Basil of India with numerous medicinal properties including antimicrobial and adaptogenic effects."
-  },
-  {
-    id: "d281l_096",
-    subject: "da-281",
-    lecture: "lecture-6",
-    lectureNo: 6,
-    question: "The National Medicinal Plants Board (NMPB) of India is under which ministry?",
-    options: ["Ministry of Science & Technology", "Ministry of Environment", "Ministry of AYUSH", "Ministry of Agriculture"],
-    correct: 2,
-    explanation: "The National Medicinal Plants Board (NMPB) is under the Ministry of AYUSH (Ayurveda, Yoga, Unani, Siddha and Homeopathy) and supports cultivation and trade of medicinal plants."
-  },
-  {
-    id: "d281l_097",
-    subject: "da-281",
-    lecture: "lecture-7",
-    lectureNo: 7,
-    question: "The botanical name of Neem is:",
-    options: ["Melia azedarach", "Pongamia pinnata", "Moringa oleifera", "Azadirachta indica"],
-    correct: 3,
-    explanation: "Neem is botanically known as Azadirachta indica, belonging to family Meliaceae. It is called the 'Village Pharmacy' of India for its wide-ranging medicinal and pesticidal properties."
-  },
-  {
-    id: "d281l_098",
-    subject: "da-281",
-    lecture: "lecture-7",
-    lectureNo: 7,
-    question: "The main active insecticidal compound in Neem is:",
-    options: ["Limonoids only", "Nimbin", "Azadirachtin", "Allicin"],
-    correct: 2,
-    explanation: "Azadirachtin is the most potent active insecticidal compound in neem seeds. It acts as an insect growth regulator disrupting molting and reproduction. Neem also contains nimbin, nimbidin and other compounds."
-  },
-  {
-    id: "d281l_099",
-    subject: "da-281",
-    lecture: "lecture-7",
-    lectureNo: 7,
-    question: "Tulsi (Ocimum sanctum) essential oil contains mainly which compound?",
-    options: ["Eugenol", "Berberine", "Reserpine", "Azadirachtin"],
-    correct: 0,
-    explanation: "Tulsi (Ocimum sanctum) essential oil contains mainly eugenol (70–80%) along with methyl eugenol, caryophyllene and other terpenoids. Eugenol has antimicrobial and anti-inflammatory properties."
-  },
-  {
-    id: "d281l_100",
-    subject: "da-281",
-    lecture: "lecture-7",
-    lectureNo: 7,
-    question: "Senna is botanically known as:",
-    options: ["Pelargonium graveolens", "Plantago ovata", "Andrographis paniculata", "Cassia angustifolia"],
-    correct: 3,
-    explanation: "Senna is Cassia angustifolia; its leaves and pods are used as a laxative/purgative."
-  },
-  {
-    id: "d281l_101",
-    subject: "da-281",
-    lecture: "lecture-7",
-    lectureNo: 7,
-    question: "Kalmegh is botanically known as:",
-    options: ["Andrographis paniculata", "Stevia rebaudiana", "Bacopa monnieri", "Cymbopogon martini"],
-    correct: 0,
-    explanation: "Kalmegh is Andrographis paniculata, known as the 'King of bitters' and used for liver disorders and fevers."
-  },
-  {
-    id: "d281l_102",
-    subject: "da-281",
-    lecture: "lecture-7",
-    lectureNo: 7,
-    question: "Kalmegh (Andrographis paniculata) is commonly known as:",
-    options: ["Mother of Herbs", "Indian Ginseng", "Holy Basil", "King of Bitters"],
-    correct: 3,
-    explanation: "Andrographis paniculata is called the 'King of Bitters' due to its extremely bitter taste from andrographolide. It is used for liver disorders, fever and as an immune booster."
-  },
-  {
-    id: "d281l_103",
-    subject: "da-281",
-    lecture: "lecture-7",
-    lectureNo: 7,
-    question: "Neem cake (seed meal after oil extraction) is used in agriculture as:",
-    options: ["Soil acidifier", "Organic nitrogen fertilizer and nematicide", "Animal feed supplement", "Insecticide spray material"],
-    correct: 1,
-    explanation: "Neem cake is the residue after extracting oil from neem seeds. It contains nitrogen (5%) and neem compounds that inhibit nitrification, control soil nematodes and soil insects."
-  },
-  {
-    id: "d281l_104",
-    subject: "da-281",
-    lecture: "lecture-7",
-    lectureNo: 7,
-    question: "Sacred basil (Tulsi) is botanically known as:",
-    options: ["Plantago ovata", "Ocimum sanctum", "Aloe barbadensis", "Pogostemon cablin"],
-    correct: 1,
-    explanation: "Sacred basil (Tulsi) is Ocimum sanctum; it is grown in tropical/subtropical areas and harvested at full bloom."
-  },
-  {
-    id: "d281l_105",
-    subject: "da-281",
-    lecture: "lecture-7",
-    lectureNo: 7,
-    question: "Two varieties of Tulsi (Holy Basil) cultivated in India are:",
-    options: ["Rama Tulsi (green) and Shyama/Krishna Tulsi (purple)", "Mountain and valley ecotypes", "Sativa and indica varieties", "Male and female types only"],
-    correct: 0,
-    explanation: "Rama Tulsi (Ocimum tenuiflorum) has green leaves and Shyama/Krishna Tulsi has dark purple leaves. Both are varieties of Holy Basil with slightly different medicinal compositions."
-  },
-  {
-    id: "d281l_106",
-    subject: "da-281",
-    lecture: "lecture-7",
-    lectureNo: 7,
-    question: "Kalmegh (Andrographis paniculata) is popularly known as the:",
-    options: ["'Wonder Tree'", "'Queen of oilseeds'", "'King of bitters'", "'Green Gold'"],
-    correct: 2,
-    explanation: "Andrographis paniculata (Kalmegh) is known as the 'King of bitters' due to its intensely bitter taste; it is used medicinally for the liver and fevers."
-  },
-  {
-    id: "d281l_107",
-    subject: "da-281",
-    lecture: "lecture-7",
-    lectureNo: 7,
-    question: "The bark of Neem is used in Ayurveda mainly for treating:",
-    options: ["Diabetes and skin diseases", "Rheumatism and blood disorders", "All of the above conditions", "Malaria and leprosy"],
-    correct: 2,
-    explanation: "Neem bark is used in Ayurveda for multiple conditions including diabetes, malaria, skin diseases, leprosy, rheumatism and blood purification. It has antipyretic, antibacterial and antifungal properties."
-  },
-  {
-    id: "d281l_108",
-    subject: "da-281",
-    lecture: "lecture-7",
-    lectureNo: 7,
-    question: "The active compound andrographolide found in Kalmegh is known for its:",
-    options: ["Steroidal anabolic properties", "Sedative and hypnotic effects", "Bitter taste, hepatoprotective and immunostimulant properties", "Stimulant properties only"],
-    correct: 2,
-    explanation: "Andrographolide is a bitter diterpenoid lactone responsible for Kalmegh's hepatoprotective (liver protecting), anti-inflammatory, antifever and immune-stimulating properties."
-  },
-  {
-    id: "d281l_109",
-    subject: "da-281",
-    lecture: "lecture-7",
-    lectureNo: 7,
-    question: "Which of the following is a major commercial product from Neem?",
-    options: ["Neem flowers for distillation", "Neem oil used as biopesticide", "Neem timber for furniture", "Neem fruits as food"],
-    correct: 1,
-    explanation: "Neem oil extracted from seeds is a major commercial product used as a biopesticide, in cosmetics, soap making and pharmaceuticals. TNAU's recommended formulation is 3% neem oil spray."
-  },
-  {
-    id: "d281l_110",
-    subject: "da-281",
-    lecture: "lecture-7",
-    lectureNo: 7,
-    question: "Sacred basil (Ocimum sanctum) is generally ready for its first harvest in about:",
-    options: ["6 months", "10 days", "2 years", "90-95 days after planting"],
-    correct: 3,
-    explanation: "Ocimum sanctum is ready for the first harvest in about 90-95 days after planting, with harvesting at full bloom being ideal."
-  },
-  {
-    id: "d281l_111",
-    subject: "da-281",
-    lecture: "lecture-7",
-    lectureNo: 7,
-    question: "Tulsi is revered in Hinduism and is extensively used for which medicinal purposes?",
-    options: ["Pain relief and anesthesia", "Anti-cancer only", "Anti-stress, immune-boosting, and respiratory disorders", "Anticoagulant therapy"],
-    correct: 2,
-    explanation: "Tulsi (Holy Basil) is used for anti-stress (adaptogenic), respiratory disorders (cough, cold, asthma), fever, immune-boosting and antimicrobial purposes in traditional Indian medicine."
-  },
-  {
-    id: "d281l_112",
-    subject: "da-281",
-    lecture: "lecture-7",
-    lectureNo: 7,
-    question: "The part of Ashwagandha (Withania somnifera) used medicinally is the:",
-    options: ["Roots", "Flowers only", "Bark only", "Thorns"],
-    correct: 0,
-    explanation: "The roots of Ashwagandha (Withania somnifera) are the main part used medicinally, as a general tonic."
-  },
-  {
-    id: "d281l_113",
-    subject: "da-281",
-    lecture: "lecture-8",
-    lectureNo: 8,
-    question: "The botanical name of Lemongrass widely cultivated in India is:",
-    options: ["Cymbopogon nardus", "Cymbopogon martinii", "Cymbopogon winterianus", "Cymbopogon flexuosus"],
-    correct: 3,
-    explanation: "East Indian Lemongrass (Malabar lemongrass) is Cymbopogon flexuosus. It is the main species cultivated in India for lemon-scented essential oil used in perfumery and food."
-  },
-  {
-    id: "d281l_114",
-    subject: "da-281",
-    lecture: "lecture-8",
-    lectureNo: 8,
-    question: "The main chemical component of Lemongrass essential oil is:",
-    options: ["Citral (a + b)", "Geraniol", "Eugenol", "Menthol"],
-    correct: 0,
-    explanation: "Lemongrass (Cymbopogon flexuosus) oil contains mainly citral (75–85%), which consists of geranial (citral-a) and neral (citral-b), responsible for its characteristic lemon aroma."
-  },
-  {
-    id: "d281l_115",
-    subject: "da-281",
-    lecture: "lecture-8",
-    lectureNo: 8,
-    question: "Palmarosa (Cymbopogon martinii var. motia) oil is mainly composed of:",
-    options: ["Citral", "Geraniol (75–95%)", "Azulene", "Linalool"],
-    correct: 1,
-    explanation: "Palmarosa oil contains 75–95% geraniol, making it valuable in perfumery and as an ingredient in rose-type fragrances. It is one of the most geraniol-rich essential oils."
-  },
-  {
-    id: "d281l_116",
-    subject: "da-281",
-    lecture: "lecture-8",
-    lectureNo: 8,
-    question: "Lemongrass and related aromatic grasses belong to which genus?",
-    options: ["Pelargonium", "Cymbopogon", "Artemisia", "Ocimum"],
-    correct: 1,
-    explanation: "Lemongrass, citronella and palmarosa all belong to the genus Cymbopogon; their essential oils are widely used in perfumery."
-  },
-  {
-    id: "d281l_117",
-    subject: "da-281",
-    lecture: "lecture-8",
-    lectureNo: 8,
-    question: "Steam distillation is the most common method for extracting essential oils because:",
-    options: ["Steam increases oil concentration in plant", "It requires no equipment or skill", "It produces the highest yield of any method", "It is inexpensive and preserves heat-sensitive aromatic compounds"],
-    correct: 3,
-    explanation: "Steam distillation is preferred because steam at relatively low temperatures (100°C) carries volatile aromatic compounds from plant material without degrading heat-sensitive components."
-  },
-  {
-    id: "d281l_118",
-    subject: "da-281",
-    lecture: "lecture-8",
-    lectureNo: 8,
-    question: "Geranium (Pelargonium graveolens) is mainly cultivated in India at:",
-    options: ["High altitude areas of Uttarakhand and Himachal Pradesh", "Semi-arid areas of Rajasthan for vegetable cultivation", "Coastal lowlands of Kerala in horticultural practices", "Tropical delta areas of Andhra Pradesh"],
-    correct: 0,
-    explanation: "Geranium (Pelargonium graveolens) is mainly cultivated in high altitude areas of Uttarakhand (Kumaon hills), Himachal Pradesh and some parts of Nilgiris at 1000–2000 m elevation."
-  },
-  {
-    id: "d281l_119",
-    subject: "da-281",
-    lecture: "lecture-8",
-    lectureNo: 8,
-    question: "Davana (Artemisia pallens) is an aromatic plant mainly cultivated in:",
-    options: ["Assam and Meghalaya", "Punjab and Haryana", "Karnataka (Mysore region)", "Gujarat and Rajasthan"],
-    correct: 2,
-    explanation: "Davana (Artemisia pallens) is mainly cultivated in Karnataka, especially in the Mysore region. The oil is used in perfumery and the flowers are used for religious purposes."
-  },
-  {
-    id: "d281l_120",
-    subject: "da-281",
-    lecture: "lecture-8",
-    lectureNo: 8,
-    question: "Java citronella oil, considered the superior type, is obtained from:",
-    options: ["Pelargonium graveolens", "Cymbopogon nardus", "Cymbopogon winterianus", "Artemisia pallens"],
-    correct: 2,
-    explanation: "Java citronella oil (the superior type) is obtained from Cymbopogon winterianus, while Ceylon citronella oil comes from Cymbopogon nardus."
-  },
-  {
-    id: "d281l_121",
-    subject: "da-281",
-    lecture: "lecture-8",
-    lectureNo: 8,
-    question: "The essential oil yield from steam distillation of Lemongrass is approximately:",
-    options: ["8–10%", "0.1–0.2%", "3–5%", "0.5–1.0%"],
-    correct: 3,
-    explanation: "Lemongrass (Cymbopogon flexuosus) yields approximately 0.5–1.0% essential oil by steam distillation of fresh leaves. Properly harvested and distilled material gives up to 0.8%."
-  },
-  {
-    id: "d281l_122",
-    subject: "da-281",
-    lecture: "lecture-8",
-    lectureNo: 8,
-    question: "Citronella oil used as mosquito repellent is extracted from which species?",
-    options: ["Cymbopogon flexuosus", "Cymbopogon martinii", "Vetiveria zizanioides", "Cymbopogon winterianus (Java citronella)"],
-    correct: 3,
-    explanation: "Java citronella oil used as a mosquito repellent is extracted from Cymbopogon winterianus (Java type). Ceylon citronella is from C. nardus. Both contain citronellal as the main component."
-  },
-  {
-    id: "d281l_123",
-    subject: "da-281",
-    lecture: "lecture-8",
-    lectureNo: 8,
-    question: "Palmarosa is botanically known as:",
-    options: ["Ocimum sanctum", "Pelargonium graveolens", "Artemisia pallens", "Cymbopogon martini var. motia"],
-    correct: 3,
-    explanation: "Palmarosa is Cymbopogon martini var. motia; its oil (rich in geraniol) is used in perfumery and soaps."
-  },
-  {
-    id: "d281l_124",
-    subject: "da-281",
-    lecture: "lecture-8",
-    lectureNo: 8,
-    question: "The main state in India producing Lemongrass for essential oil is:",
-    options: ["Rajasthan", "Kerala and Karnataka", "Uttar Pradesh and Uttarakhand", "Punjab"],
-    correct: 1,
-    explanation: "Kerala and Karnataka are the main states producing Lemongrass (Cymbopogon flexuosus) essential oil in India. CIMAP Lucknow has developed improved varieties like CKP-25."
-  },
-  {
-    id: "d281l_125",
-    subject: "da-281",
-    lecture: "lecture-8",
-    lectureNo: 8,
-    question: "Cold pressing (expression) method of essential oil extraction is mainly used for:",
-    options: ["Root and bark materials", "Grass and leaf materials", "Citrus fruit peels (orange, lemon, lime)", "Flower petals and buds"],
-    correct: 2,
-    explanation: "Cold pressing (expression) is used specifically for citrus peel oils (lemon, orange, bergamot, lime) since heat would damage the delicate citrus oil. The peel is mechanically pressed to release the oil."
-  },
-  {
-    id: "d281l_126",
-    subject: "da-281",
-    lecture: "lecture-8",
-    lectureNo: 8,
-    question: "Rose oil (Otto of Rose) produced by steam distillation comes mainly from which species?",
-    options: ["Rosa chinensis", "Rosa hybrida", "Rosa centifolia", "Rosa damascena"],
-    correct: 3,
-    explanation: "Rose otto (attar of roses) is distilled mainly from Rosa damascena (Damask Rose). It is one of the most expensive essential oils and is produced mainly in Bulgaria, Turkey and Morocco."
-  },
-  {
-    id: "d281l_127",
-    subject: "da-281",
-    lecture: "lecture-8",
-    lectureNo: 8,
-    question: "Solvent extraction method of essential oil is used mainly for:",
-    options: ["Grass and leaf essential oils", "Root and rhizome oils", "Delicate flowers like jasmine and tuberose", "Citrus peel oils"],
-    correct: 2,
-    explanation: "Solvent extraction using hexane or petroleum ether is used for heat-sensitive flowers like jasmine, tuberose and rose where steam distillation would damage the delicate aroma compounds."
-  },
-  {
-    id: "d281l_128",
-    subject: "da-281",
-    lecture: "lecture-8",
-    lectureNo: 8,
-    question: "The Central Institute of Medicinal and Aromatic Plants (CIMAP) is located at:",
-    options: ["Pune", "Bengaluru", "Lucknow", "Hyderabad"],
-    correct: 2,
-    explanation: "CIMAP (Central Institute of Medicinal and Aromatic Plants) is located at Lucknow, Uttar Pradesh. It is an ICAR institute that conducts research on medicinal and aromatic plants."
-  },
-  {
-    id: "d281l_129",
-    subject: "da-281",
-    lecture: "lecture-9",
-    lectureNo: 9,
-    question: "The National Forest Policy that set the goal of one-third land under forest was passed in:",
-    options: ["1988", "2006", "1972", "1992"],
-    correct: 0,
-    explanation: "The National Forest Policy 1988 set the goal of bringing one-third (33⅓%) of the country's land area under forest/tree cover."
-  },
-  {
-    id: "d281l_130",
-    subject: "da-281",
-    lecture: "lecture-9",
-    lectureNo: 9,
-    question: "CITES stands for:",
-    options: ["Convention on International Trade in Endangered Species", "Committee on International Timber Export Standards", "Congress on Indigenous Tree and Ecosystem Species", "Centre for International Tree and Ecosystem Studies"],
-    correct: 0,
-    explanation: "CITES stands for Convention on International Trade in Endangered Species of Wild Fauna and Flora. It is an international agreement between governments to regulate trade in endangered species."
-  },
-  {
-    id: "d281l_131",
-    subject: "da-281",
-    lecture: "lecture-9",
-    lectureNo: 9,
-    question: "Biodiversity hotspots in India recognized globally are:",
-    options: ["All 25 major forest divisions", "Himalaya, Western Ghats–Sri Lanka, Indo-Burma, Sundaland", "Himalaya, Eastern Ghats, Deccan Plateau, Thar Desert", "Western Ghats and Andaman Islands only"],
-    correct: 1,
-    explanation: "India has four globally recognized biodiversity hotspots: the Himalaya, Western Ghats–Sri Lanka, Indo-Burma, and Sundaland (covers Nicobar Islands). These are areas of high endemism and threats."
-  },
-  {
-    id: "d281l_132",
-    subject: "da-281",
-    lecture: "lecture-9",
-    lectureNo: 9,
-    question: "In situ conservation of plant genetic resources means:",
-    options: ["Conservation in gene banks, seed banks and botanical gardens", "Conservation as dried herbarium specimens", "Conservation of species in their natural habitat or ecosystem", "Conservation by tissue culture in laboratories"],
-    correct: 2,
-    explanation: "In situ conservation means protecting species in their natural habitats (national parks, wildlife sanctuaries, biosphere reserves). Ex situ conservation is in gene banks, botanical gardens and zoos."
-  },
-  {
-    id: "d281l_133",
-    subject: "da-281",
-    lecture: "lecture-9",
-    lectureNo: 9,
-    question: "Forest protection, as a branch of forestry, is concerned with:",
-    options: ["Marketing timber abroad", "Prevention and control of damage to forests", "Measuring tree height", "Cooking forest foods"],
-    correct: 1,
-    explanation: "Forest protection is the branch concerned with activities directed towards the prevention and control of damage to forests (from fire, grazing, illicit felling, etc.)."
-  },
-  {
-    id: "d281l_134",
-    subject: "da-281",
-    lecture: "lecture-9",
-    lectureNo: 9,
-    question: "Which of the following is a forest offence?",
-    options: ["Collecting fallen leaves with permission", "Planting trees on waste land", "Illegal grazing and unauthorised felling of trees", "Measuring tree girth"],
-    correct: 2,
-    explanation: "Forest offences include deforestation in restricted areas, illegal grazing, demolition/cutting of timber, firing of trees and unauthorised removal of bark or leaves."
-  },
-  {
-    id: "d281l_135",
-    subject: "da-281",
-    lecture: "lecture-9",
-    lectureNo: 9,
-    question: "Which of the following is the largest National Park in India?",
-    options: ["Jim Corbett National Park", "Kaziranga National Park", "Sundarbans National Park", "Hemis National Park"],
-    correct: 3,
-    explanation: "Hemis National Park in Ladakh is the largest National Park in India (area ~3350 sq km), known for snow leopards. It is also the largest protected area in South Asia."
-  },
-  {
-    id: "d281l_136",
-    subject: "da-281",
-    lecture: "lecture-9",
-    lectureNo: 9,
-    question: "Forest (Conservation) Act 1980 requires prior permission of the Central Government for:",
-    options: ["Collecting non-timber forest products", "Thinning operations in forests", "Scientific research in forests", "Diverting forest land to non-forest uses"],
-    correct: 3,
-    explanation: "The Forest Conservation Act 1980 prohibits diversion of forest land for non-forest purposes (mining, construction, industries) without prior approval of the Central Government."
-  },
-  {
-    id: "d281l_137",
-    subject: "da-281",
-    lecture: "lecture-9",
-    lectureNo: 9,
-    question: "Ex situ conservation of plant genetic resources is done in:",
-    options: ["Seed banks, tissue culture labs and botanical gardens", "National Parks and Wildlife Sanctuaries", "Sacred groves in horticultural practices", "Community forests only for vegetable cultivation"],
-    correct: 0,
-    explanation: "Ex situ conservation involves maintaining species outside their natural habitat in seed banks (National Gene Bank at NBPGR New Delhi), tissue culture labs, botanical gardens and zoos."
-  },
-  {
-    id: "d281l_138",
-    subject: "da-281",
-    lecture: "lecture-9",
-    lectureNo: 9,
-    question: "Biosphere Reserves in India are established for:",
-    options: ["Commercial forestry purposes in horticultural practices", "Exclusive settlement of tribal communities for vegetable cultivation", "Conservation of biodiversity including species, ecosystems and genetic diversity", "Industrial development in ecologically sensitive areas"],
-    correct: 2,
-    explanation: "Biosphere Reserves are protected areas designated for conservation of biodiversity, sustainable use of resources and research. India has 18 Biosphere Reserves recognized by UNESCO."
-  },
-  {
-    id: "d281l_139",
-    subject: "da-281",
-    lecture: "lecture-9",
-    lectureNo: 9,
-    question: "Sacred groves (Dev vans) in India represent:",
-    options: ["Social forestry plantations in horticultural practices", "Patches of forest protected by local communities for cultural/religious reasons", "Government reserved forests for vegetable cultivation", "Forests reserved for timber production in orchard management"],
-    correct: 1,
-    explanation: "Sacred groves (Dev vans, Devaravana, Orans) are patches of forest protected by local communities due to cultural, religious or traditional beliefs. They are important for biodiversity conservation."
-  },
-  {
-    id: "d281l_140",
-    subject: "da-281",
-    lecture: "lecture-9",
-    lectureNo: 9,
-    question: "According to forest policy, forests that clothe steep slopes and river catchments should be:",
-    options: ["Converted to housing", "Cleared for agriculture", "Used for mining", "Protected"],
-    correct: 3,
-    explanation: "Forest policy states that forests clothing steep slopes and the catchments of rivers, lakes and reservoirs should be protected to prevent erosion and conserve water."
-  },
-  {
-    id: "d281l_141",
-    subject: "da-281",
-    lecture: "lecture-9",
-    lectureNo: 9,
-    question: "Wood technology, as a branch of forestry, deals with:",
-    options: ["Structural, physical and mechanical properties of wood", "Marketing of medicinal plants", "Wildlife census", "Soil testing"],
-    correct: 0,
-    explanation: "Wood technology deals with the structural, physical and mechanical properties and behaviour of wood."
-  },
-  {
-    id: "d281l_142",
-    subject: "da-281",
-    lecture: "lecture-9",
-    lectureNo: 9,
-    question: "Vanamahotsavam (the festival of trees) is organised mainly to:",
-    options: ["Hunt wild animals", "Promote mass tree planting", "Auction timber", "Build roads"],
-    correct: 1,
-    explanation: "Vanamahotsavam is the festival of trees, organised to promote mass tree planting and increase green/forest cover."
-  },
-  {
-    id: "d281l_143",
-    subject: "da-281",
-    lecture: "lecture-9",
-    lectureNo: 9,
-    question: "The National Biodiversity Authority of India is headquartered at:",
-    options: ["Bengaluru (Chennai)", "Hyderabad", "New Delhi", "Mumbai"],
-    correct: 0,
-    explanation: "The National Biodiversity Authority (NBA) of India is headquartered in Chennai (previously Bengaluru was mentioned but it is Chennai). NBA regulates access to biological resources and benefit sharing."
-  },
-  {
-    id: "d281l_144",
-    subject: "da-281",
-    lecture: "lecture-9",
-    lectureNo: 9,
-    question: "ENVIS (Environmental Information System) is an initiative of which ministry?",
-    options: ["Ministry of Environment, Forest & Climate Change", "Ministry of Rural Development", "Ministry of Agriculture", "Ministry of Science & Technology"],
-    correct: 0,
-    explanation: "ENVIS (Environmental Information System) is a network of information centers on environment established by the Ministry of Environment, Forest and Climate Change for dissemination of environmental information."
-  },
-  {
-    id: "d281l_145",
-    subject: "da-281",
-    lecture: "lecture-10",
-    lectureNo: 10,
-    question: "Tendu leaves (Diospyros melanoxylon) are mainly used in India for:",
-    options: ["Wrapping bidis (hand-rolled cigarettes)", "Making herbal tea and beverages", "Tanning leather hides", "Making traditional medicines"],
-    correct: 0,
-    explanation: "Tendu leaves (Diospyros melanoxylon) are called the 'Green Gold' of Central India and are primarily used as wrappers for bidis (hand-rolled cigarettes). They are the most important NTFP for tribal income."
-  },
-  {
-    id: "d281l_146",
-    subject: "da-281",
-    lecture: "lecture-10",
-    lectureNo: 10,
-    question: "Lac is a natural resin produced by which insect?",
-    options: ["Silk worm (Bombyx mori)", "Lac insect (Kerria lacca/Laccifer lacca)", "Honey bee (Apis mellifera)", "Cochineal insect (Dactylopius coccus)"],
-    correct: 1,
-    explanation: "Lac is secreted by the lac insect Kerria lacca (Laccifer lacca) that lives on various host trees. India is the world's largest producer of lac used in shellac, varnishes and lacquers."
-  },
-  {
-    id: "d281l_147",
-    subject: "da-281",
-    lecture: "lecture-10",
-    lectureNo: 10,
-    question: "Gum karaya is exuded from which tree species?",
-    options: ["Commiphora mukul", "Acacia senegal", "Sterculia urens", "Boswellia serrata"],
-    correct: 2,
-    explanation: "Gum karaya (Indian tragacanth) is the dried exudate from Sterculia urens trees found in central India. It is used as a stabilizer, thickener and emulsifier in food and pharmaceutical industries."
-  },
-  {
-    id: "d281l_148",
-    subject: "da-281",
-    lecture: "lecture-10",
-    lectureNo: 10,
-    question: "Gum Arabic is obtained from which species?",
-    options: ["Acacia senegal", "Sterculia urens", "Butea monosperma", "Shorea robusta"],
-    correct: 0,
-    explanation: "Gum Arabic is the exudate from Acacia senegal and A. seyal trees. It is used extensively in food, pharmaceuticals, ink and cosmetics. India also produces gum from Acacia nilotica."
-  },
-  {
-    id: "d281l_149",
-    subject: "da-281",
-    lecture: "lecture-10",
-    lectureNo: 10,
-    question: "Which state of India leads in honey production?",
-    options: ["Rajasthan", "Himachal Pradesh", "Punjab", "Uttar Pradesh"],
-    correct: 3,
-    explanation: "Uttar Pradesh leads in honey production in India, followed by West Bengal and Punjab. India is also one of the major honey exporters globally."
-  },
-  {
-    id: "d281l_150",
-    subject: "da-281",
-    lecture: "lecture-10",
-    lectureNo: 10,
-    question: "NTFP (Non-Timber Forest Products) include which of the following?",
-    options: ["All forest products except timber", "Round timber and sawn wood", "Only firewood and charcoal", "Timber and bamboo only"],
-    correct: 0,
-    explanation: "NTFPs include all products from forests except round timber – gum, resin, lac, honey, beeswax, tendu leaves, bamboo, grasses, roots, bark, fruits, seeds, medicinal plants and mushrooms."
-  },
-  {
-    id: "d281l_151",
-    subject: "da-281",
-    lecture: "lecture-10",
-    lectureNo: 10,
-    question: "Mahua flowers (Madhuca latifolia/indica) are used by tribal communities mainly for:",
-    options: ["Only medicinal purposes in horticultural practices", "Making liquor, food, and Mahua oil from seeds", "Only in religious ceremonies in orchard management", "Only as animal fodder for vegetable cultivation"],
-    correct: 1,
-    explanation: "Mahua (Madhuca latifolia) is a multipurpose tree providing tribal communities with flowers (for liquor, food), seeds (for Mahua oil – cooking/lighting), leaves (for plates) and bark (for medicine)."
-  },
-  {
-    id: "d281l_152",
-    subject: "da-281",
-    lecture: "lecture-10",
-    lectureNo: 10,
-    question: "Sal resin (dhoop or sal dammar) collected from Shorea robusta is used for:",
-    options: ["Incense, varnish and caulking of boats", "Food preservation in horticultural practices", "Textile dyeing for vegetable cultivation", "Paper making in orchard management"],
-    correct: 0,
-    explanation: "Sal resin (dammar) is collected from Shorea robusta by tapping the bark. It is used as incense, in varnishes, caulking of boats and in medicine as an astringent."
-  },
-  {
-    id: "d281l_153",
-    subject: "da-281",
-    lecture: "lecture-10",
-    lectureNo: 10,
-    question: "Bamboo handicrafts as NTFPs are most prevalent in which region of India?",
-    options: ["Northeastern states of India", "Northern semi-arid plains", "Southern coastal plains", "Western Rajasthan"],
-    correct: 0,
-    explanation: "Bamboo handicrafts are most prevalent in the northeastern states of India (Assam, Manipur, Tripura, Meghalaya, Nagaland) where bamboo is abundantly available and craft traditions are strong."
-  },
-  {
-    id: "d281l_154",
-    subject: "da-281",
-    lecture: "lecture-10",
-    lectureNo: 10,
-    question: "The policy of nationalizing Tendu leaf collection in some states of India was done to:",
-    options: ["Reduce tribal income from NTFP collection", "Increase government revenue from bidi industry", "Eliminate middlemen and ensure fair prices for tribal collectors", "Reduce the area of Tendu leaf collection"],
-    correct: 2,
-    explanation: "Several states (MP, Chhattisgarh, Odisha) nationalized Tendu leaf trade to eliminate exploitative middlemen, ensure minimum prices for tribal collectors and use surplus for tribal welfare."
-  },
-  {
-    id: "d281l_155",
-    subject: "da-281",
-    lecture: "lecture-10",
-    lectureNo: 10,
-    question: "Which government initiative provides minimum support price (MSP) for minor forest produce?",
-    options: ["MGNREGS", "TRIFED MSP scheme for MFP", "NRLM forest cooperative", "PM-KISAN for tribal farmers"],
-    correct: 1,
-    explanation: "TRIFED (Tribal Cooperative Marketing Development Federation) implements the MSP scheme for Minor Forest Produce (MFP), providing tribal collectors with fair prices for 87 items of minor forest produce."
-  },
-  {
-    id: "d281l_156",
-    subject: "da-281",
-    lecture: "lecture-10",
-    lectureNo: 10,
-    question: "Amla (Phyllanthus emblica/Emblica officinalis) is an important NTFP collected from forests primarily for:",
-    options: ["Timber and wood products in horticultural practices", "Animal feed and fodder for vegetable cultivation", "Tanning of animal hides in orchard management", "Vitamin C content – used in health products and Triphala"],
-    correct: 3,
-    explanation: "Amla is extremely rich in Vitamin C and is used in Ayurvedic medicines (Triphala, Chyawanprash), health products and Amla oil for hair care. Its collection is an important source of tribal income."
-  },
-  {
-    id: "d281l_157",
-    subject: "da-281",
-    lecture: "lecture-10",
-    lectureNo: 10,
-    question: "The botanical name of teak is:",
-    options: ["Acacia nilotica", "Eucalyptus globulus", "Azadirachta indica", "Tectona grandis"],
-    correct: 3,
-    explanation: "Teak (Tectona grandis) is a tropical hardwood known for its durability and high timber value. It is the national tree of India.",
-    difficulty: "medium"
-  },
-  {
-    id: "d281l_158",
-    subject: "da-281",
-    lecture: "lecture-10",
-    lectureNo: 10,
-    question: "The word forest is derived from the Latin word:",
-    options: ["Foris meaning outside", "Forestis", "Foresta silva", "Foresta"],
-    correct: 0,
-    explanation: "The word forest comes from the Latin word foris meaning outside — referring to uncultivated land outside the village boundary.",
-    difficulty: "medium"
-  },
-  {
-    id: "d281l_159",
-    subject: "da-281",
-    lecture: "lecture-10",
-    lectureNo: 10,
-    question: "India's total forest cover as a percentage of its geographical area is approximately:",
-    options: ["33%", "23%", "15%", "40%"],
-    correct: 1,
-    explanation: "India's forest and tree cover is approximately 23% of its total geographical area of 327.7 million hectares (75.26 lakh sq km).",
-    difficulty: "medium"
-  },
-  {
-    id: "d281l_160",
-    subject: "da-281",
-    lecture: "lecture-10",
-    lectureNo: 10,
-    question: "The per capita forest area in India compared to world average:",
-    options: ["India 0.11 ha vs world average 1.6 ha", "India 1.6 ha vs world 0.11 ha", "India 2.0 ha vs world 1.0 ha", "India 0.5 ha vs world 0.5 ha"],
-    correct: 0,
-    explanation: "India has only 0.11 ha of forest per capita compared to the world average of 1.6 ha, showing India is far below the world average.",
-    difficulty: "medium"
-  },
-  {
-    id: "d281l_161",
-    subject: "da-281",
-    lecture: "lecture-11",
-    lectureNo: 11,
-    question: "Telangana's forest cover as a percentage of its total geographical area is approximately:",
-    options: ["45.11%", "25.11%", "35.11%", "15.11%"],
-    correct: 1,
-    explanation: "Telangana has a forest cover of about 25.11% (28,854 sq km) of its total geographical area.",
-    difficulty: "medium"
-  },
-  {
-    id: "d281l_162",
-    subject: "da-281",
-    lecture: "lecture-11",
-    lectureNo: 11,
-    question: "Which district of Telangana has the highest forest area?",
-    options: ["Nizamabad", "Khammam", "Warangal", "Adilabad"],
-    correct: 1,
-    explanation: "Khammam district has the highest forest area in Telangana at 7,945 sq km, making it the most forested district.",
-    difficulty: "medium"
-  },
-  {
-    id: "d281l_163",
-    subject: "da-281",
-    lecture: "lecture-11",
-    lectureNo: 11,
-    question: "The branch of forestry that deals with the study of trees is called:",
-    options: ["Silviculture", "Forest mensuration", "Dendrology", "Agroforestry"],
-    correct: 2,
-    explanation: "Dendrology is the scientific study of trees and woody plants — their identification, classification, and characteristics.",
-    difficulty: "medium"
-  },
-  {
-    id: "d281l_164",
-    subject: "da-281",
-    lecture: "lecture-11",
-    lectureNo: 11,
-    question: "Silviculture in forestry refers to:",
-    options: ["Study of forest animals in orchard management for crop production", "Study of forest soils in horticultural practices in agriculture", "Measurement of timber volumes for vegetable cultivation", "Art and science of controlling the establishment, growth, composition and quality of forests"],
-    correct: 3,
-    explanation: "Silviculture is the art and science of controlling the establishment, growth, composition, health, and quality of forests to meet diverse needs.",
-    difficulty: "medium"
-  },
-  {
-    id: "d281l_165",
-    subject: "da-281",
-    lecture: "lecture-11",
-    lectureNo: 11,
-    question: "ASSERTION-REASON: Assertion (A): Forests play a crucial role in maintaining the water cycle. Reason (R): Trees absorb water from the soil and release it into the atmosphere through transpiration.",
-    options: ["Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is false but R is true", "A is true but R is false"],
-    correct: 1,
-    explanation: "Forests maintain the water cycle through transpiration, reducing surface runoff, and promoting rainfall. R correctly explains A.",
-    difficulty: "medium"
-  },
-  {
-    id: "d281l_166",
-    subject: "da-281",
-    lecture: "lecture-11",
-    lectureNo: 11,
-    question: "Match forest types (Col A) with characteristics (Col B) and examples (Col C): Col A: 1-Tropical wet evergreen, 2-Tropical dry deciduous, 3-Thorn forest, 4-Mangrove. Col B: P-coastal swampy, Q-rainfall below 75cm, R-rainfall over 200cm, S-rainfall 100-200cm. Col C: i-Sundarbans, ii-Rajasthan, iii-Western Ghats, iv-Central India",
-    options: ["1-Q-ii, 2-P-i, 3-S-iv, 4-R-iii", "1-R-iii, 2-S-iv, 3-Q-ii, 4-P-i", "1-P-i, 2-Q-ii, 3-R-iii, 4-S-iv", "1-S-iv, 2-R-iii, 3-P-i, 4-Q-ii"],
-    correct: 1,
-    explanation: "Tropical wet evergreen (rainfall >200cm=Western Ghats=iii), Dry deciduous (100-200cm=Central India=iv), Thorn (<75cm=Rajasthan=ii), Mangrove (coastal=Sundarbans=i).",
-    difficulty: "hard"
-  },
-  {
-    id: "d281l_168",
-    subject: "da-281",
-    lecture: "lecture-12",
-    lectureNo: 12,
-    question: "Bamboo belongs to which plant family?",
-    options: ["Gramineae (Poaceae)", "Leguminosae", "Rubiaceae", "Euphorbiaceae"],
-    correct: 0,
-    explanation: "Bamboo belongs to the grass family Gramineae (Poaceae). It is the fastest growing woody plant and an important forest product.",
-    difficulty: "medium"
-  },
-  {
-    id: "d281l_169",
-    subject: "da-281",
-    lecture: "lecture-12",
-    lectureNo: 12,
-    question: "Subabul (Leucaena leucocephala) is primarily used for:",
-    options: ["Only paper pulp in horticultural practices", "Only timber production for vegetable cultivation", "Fuelwood, fodder, and nitrogen fixation (multipurpose tree)", "Only ornamental purposes in orchard management"],
-    correct: 2,
-    explanation: "Subabul is a multipurpose tree used for fuelwood, fodder, green manure, nitrogen fixation, and paper pulp — a key social forestry species.",
-    difficulty: "medium"
-  },
-  {
-    id: "d281l_170",
-    subject: "da-281",
-    lecture: "lecture-12",
-    lectureNo: 12,
-    question: "Ashwagandha (Withania somnifera) is classified as a:",
-    options: ["Agroforestry tree", "Medicinal plant", "Ornamental plant", "Timber tree"],
-    correct: 1,
-    explanation: "Ashwagandha is an important medicinal plant (adaptogen) used in Ayurveda for stress relief, strength enhancement, and immunity.",
-    difficulty: "easy"
-  },
-  {
-    id: "d281l_171",
-    subject: "da-281",
-    lecture: "lecture-12",
-    lectureNo: 12,
-    question: "Aloe vera is used medicinally primarily for:",
-    options: ["Timber production in horticultural practices", "Burn healing, skin care, and digestive health", "Windbreak protection in orchard management", "Soil nitrogen fixation for vegetable cultivation"],
-    correct: 1,
-    explanation: "Aloe vera (Aloe barbadensis) is a succulent medicinal plant widely used for treating burns, skin conditions, and digestive problems.",
-    difficulty: "easy"
-  },
-  {
-    id: "d281l_172",
-    subject: "da-281",
-    lecture: "lecture-12",
-    lectureNo: 12,
-    question: "ASSERTION-REASON: Assertion (A): Neem is called the village pharmacy in India. Reason (R): Almost every part of neem (leaves, bark, seeds, oil) has medicinal, pesticidal, or agricultural uses.",
-    options: ["Both A and R are true but R is not the correct explanation of A", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "A is true but R is false"],
-    correct: 2,
-    explanation: "Neem is called the village pharmacy because its leaves, bark, seeds, and oil are used for medicine, biopesticides, and agriculture. R explains A.",
-    difficulty: "easy"
-  },
-  {
-    id: "d281l_173",
-    subject: "da-281",
-    lecture: "lecture-13",
-    lectureNo: 13,
-    question: "Agroforestry is defined as:",
-    options: ["Cultivation of medicinal plants only in horticultural practices in agriculture", "Cultivation of forest trees only for vegetable cultivation", "A land use system where trees are combined with crops or livestock on the same unit of land", "Growing trees in monoculture in orchard management for crop production"],
-    correct: 2,
-    explanation: "Agroforestry is a land use management system that combines trees with crops and/or livestock on the same land unit, providing multiple benefits.",
-    difficulty: "easy"
-  },
-  {
-    id: "d281l_174",
-    subject: "da-281",
-    lecture: "lecture-13",
-    lectureNo: 13,
-    question: "Agrisilviculture refers to:",
-    options: ["Trees + livestock combination", "Trees + beekeeping combination", "Trees + fish farming combination", "Trees + crops combination"],
-    correct: 3,
-    explanation: "Agrisilviculture is an agroforestry system combining trees (silvi-) with agricultural crops on the same land.",
-    difficulty: "medium"
-  },
-  {
-    id: "d281l_175",
-    subject: "da-281",
-    lecture: "lecture-13",
-    lectureNo: 13,
-    question: "Silvopastoral agroforestry system combines:",
-    options: ["Trees + livestock/pasture", "Trees + crops", "Trees + beekeeping", "Trees + fish farming"],
-    correct: 0,
-    explanation: "Silvopastoral combines trees (silvi-) with pasture and livestock (pastoral), providing fodder, shade, and other tree products.",
-    difficulty: "medium"
-  },
-  {
-    id: "d281l_176",
-    subject: "da-281",
-    lecture: "lecture-13",
-    lectureNo: 13,
-    question: "Match agroforestry systems: Col A: 1-Agrisilviculture, 2-Silvopastoral, 3-Agrosilvopastoral, 4-Aquaforestry. Col B: P-trees+fish, Q-trees+crops+livestock, R-trees+livestock, S-trees+crops. Col C: i-paddy+fish ponds, ii-teak+paddy, iii-teak+sheep+grass, iv-teak+paddy+cattle",
-    options: ["1-R-iii, 2-S-ii, 3-P-i, 4-Q-iv", "1-S-ii, 2-R-iii, 3-Q-iv, 4-P-i", "1-Q-iv, 2-P-i, 3-S-ii, 4-R-iii", "1-P-i, 2-Q-iv, 3-R-iii, 4-S-ii"],
-    correct: 1,
-    explanation: "Agrisilviculture (trees+crops=teak+paddy=ii), Silvopastoral (trees+livestock=teak+sheep=iii), Agrosilvopastoral (trees+crops+livestock=iv), Aquaforestry (trees+fish=i).",
-    difficulty: "hard"
-  },
-  {
-    id: "d281l_177",
-    subject: "da-281",
-    lecture: "lecture-13",
-    lectureNo: 13,
-    question: "The National Forest Policy of India recommends that _____ of total land area should be under forests:",
-    options: ["10%", "20%", "50%", "33%"],
-    correct: 3,
-    explanation: "The National Forest Policy (1988) of India recommends that 33% of the total land area (including hills and mountains) should be under forest cover.",
-    difficulty: "medium"
-  },
-  {
-    id: "d281l_178",
-    subject: "da-281",
-    lecture: "lecture-14",
-    lectureNo: 14,
-    question: "Social forestry in India refers to:",
-    options: ["Forestry activities only within reserved forests for vegetable cultivation", "Commercial timber plantation only in horticultural practices in agriculture", "Growing trees on community, government wastelands, and farm boundaries for the benefit of local communities", "Forest conservation for wild animals only in orchard management for crop production"],
-    correct: 2,
-    explanation: "Social forestry involves growing trees on village/community land, road sides, and farm boundaries to meet local needs for fuelwood, fodder, and timber.",
-    difficulty: "easy"
-  },
-  {
-    id: "d281l_179",
-    subject: "da-281",
-    lecture: "lecture-14",
-    lectureNo: 14,
-    question: "Non-Timber Forest Products (NTFPs) include:",
-    options: ["Logs and planks only in horticultural practices", "Chemical fertilizers for vegetable cultivation in agriculture", "Bamboo, honey, medicinal plants, gums, and resins (all non-wood products)", "Heavy machinery materials in orchard management"],
-    correct: 2,
-    explanation: "NTFPs are all forest products other than timber — including bamboo, honey, lac, gums, resins, medicinal plants, and wild fruits.",
-    difficulty: "easy"
-  },
-  {
-    id: "d281l_180",
-    subject: "da-281",
-    lecture: "lecture-14",
-    lectureNo: 14,
-    question: "Tamarind (Tamarindus indica) is used for:",
-    options: ["Paper pulp only in horticultural practices", "Edible fruit, medicinal uses, and food industry (souring agent)", "Timber and fuel only in orchard management", "Fodder only for vegetable cultivation"],
-    correct: 1,
-    explanation: "Tamarind is used as a souring agent in cooking, in medicines, for jam/candy production, and its wood is used for fuel and tools.",
-    difficulty: "easy"
-  },
-  {
-    id: "d281l_181",
-    subject: "da-281",
-    lecture: "lecture-14",
-    lectureNo: 14,
-    question: "ASSERTION-REASON: Assertion (A): Eucalyptus is a controversial tree for agroforestry in India. Reason (R): Eucalyptus is known to deplete groundwater and soil nutrients while providing fast growth and high biomass.",
-    options: ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true", "A is true but R is false"],
-    correct: 0,
-    explanation: "Eucalyptus is controversial because while it grows fast and yields biomass, it depletes groundwater and impoverishes soil. R explains the controversy.",
-    difficulty: "medium"
-  },
-  {
-    id: "d281l_182",
-    subject: "da-281",
-    lecture: "lecture-14",
-    lectureNo: 14,
-    question: "Senna (Cassia angustifolia) is an important medicinal plant used primarily as a:",
-    options: ["Wound healer", "Blood pressure regulator", "Natural laxative", "Fever reducer"],
-    correct: 2,
-    explanation: "Senna leaves and pods contain sennosides which are powerful natural laxatives used in Ayurveda and modern medicine.",
-    difficulty: "medium"
-  },
-  {
-    id: "d281l_183",
-    subject: "da-281",
-    lecture: "lecture-14",
-    lectureNo: 14,
-    question: "Lemongrass (Cymbopogon citratus) is grown primarily for:",
-    options: ["Timber for vegetable cultivation", "Fuelwood in horticultural practices in agriculture", "Essential oil used in cosmetics, food flavoring, and aromatherapy", "Fodder for cattle in orchard management"],
-    correct: 2,
-    explanation: "Lemongrass is cultivated for its aromatic essential oil, which is used in cosmetics, food flavoring, mosquito repellents, and aromatherapy.",
-    difficulty: "medium"
-  },
-  {
-    id: "d281l_184",
-    subject: "da-281",
-    lecture: "lecture-15",
-    lectureNo: 15,
-    question: "Forest mensuration deals with:",
-    options: ["Measurement of timber volume, tree height, diameter, and forest area", "Study of forest diseases in horticultural practices", "Planting trees in degraded areas for vegetable cultivation", "Growing trees in forests in orchard management"],
-    correct: 0,
-    explanation: "Forest mensuration is the branch of forestry concerned with measuring timber volumes, tree dimensions, and forest area to assess forest resources.",
-    difficulty: "medium"
-  },
-  {
-    id: "d281l_185",
-    subject: "da-281",
-    lecture: "lecture-15",
-    lectureNo: 15,
-    question: "Davana is botanically known as:",
-    options: ["Cymbopogon nardus", "Pelargonium graveolens", "Artemisia pallens", "Withania somnifera"],
-    correct: 2,
-    explanation: "Davana is Artemisia pallens; its aromatic oil is used in perfumery and flavouring.",
-    difficulty: "hard"
-  },
-  {
-    id: "d281l_186",
-    subject: "da-281",
-    lecture: "lecture-15",
-    lectureNo: 15,
-    question: "Which is a fire resistant tree species?",
-    options: ["Teak", "Sal (Shorea robusta)", "Bamboo", "Eucalyptus"],
-    correct: 1,
-    explanation: "Sal (Shorea robusta) is known for its fire resistance. Teak also has some resistance, but Sal is specifically noted for withstanding forest fires.",
-    difficulty: "hard"
-  },
-  {
-    id: "d281l_187",
-    subject: "da-281",
-    lecture: "lecture-15",
-    lectureNo: 15,
-    question: "ASSERTION-REASON: Assertion (A): Forests help in prevention of soil erosion. Reason (R): Tree roots bind the soil particles together and the canopy reduces the impact of rainfall on the soil surface.",
-    options: ["Both A and R are true but R is not the correct explanation of A", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "A is true but R is false"],
-    correct: 2,
-    explanation: "Forests prevent soil erosion through roots binding soil and canopy intercepting raindrops. R correctly explains the mechanism behind A.",
-    difficulty: "easy"
-  },
-  {
-    id: "d281l_188",
-    subject: "da-281",
-    lecture: "lecture-15",
-    lectureNo: 15,
-    question: "Match medicinal plants: Col A: 1-Ashwagandha, 2-Aloe vera, 3-Senna, 4-Lemongrass. Col B: P-laxative, Q-skin healing, R-adaptogen, S-essential oil. Col C: i-Cymbopogon, ii-Cassia angustifolia, iii-Withania somnifera, iv-Aloe barbadensis",
-    options: ["1-R-iii, 2-Q-iv, 3-P-ii, 4-S-i", "1-Q-iv, 2-S-i, 3-P-ii, 4-R-iii", "1-P-ii, 2-R-iii, 3-Q-iv, 4-S-i", "1-S-i, 2-P-ii, 3-R-iii, 4-Q-iv"],
-    correct: 0,
-    explanation: "Ashwagandha (adaptogen=Withania somnifera=iii), Aloe vera (skin healing=Aloe barbadensis=iv), Senna (laxative=Cassia=ii), Lemongrass (essential oil=Cymbopogon=i).",
-    difficulty: "hard"
-  },
-  {
-    id: "d281l_189",
-    subject: "da-281",
-    lecture: "lecture-15",
-    lectureNo: 15,
-    question: "Neem is botanically known as:",
-    options: ["Leucaena leucocephala", "Tectona grandis", "Pongamia pinnata", "Azadirachta indica"],
-    correct: 3,
-    explanation: "Neem is Azadirachta indica (family Meliaceae), universally accepted as a 'Wonder Tree'; neem cake is rich in nitrogen and has pesticidal properties.",
-    difficulty: "medium"
-  },
-  {
-    id: "d281l_190",
-    subject: "da-281",
-    lecture: "lecture-10",
-    lectureNo: 10,
-    question: "The State tree of Telangana is:",
-    options: ["Jammi tree (Prosopis cineraria)", "Teak", "Banyan", "Neem"],
-    correct: 0,
-    explanation: "The Jammi tree (Prosopis cineraria), also called Shami tree, is the State tree of Telangana. It is associated with the Dussehra festival.",
-    difficulty: "medium"
-  },
-  {
-    id: "d281l_191",
-    subject: "da-281",
-    lecture: "lecture-11",
-    lectureNo: 11,
-    question: "Geranium (a rose-scented aromatic plant) is botanically known as:",
-    options: ["Pelargonium graveolens", "Cymbopogon martini", "Artemisia pallens", "Ocimum sanctum"],
-    correct: 0,
-    explanation: "Geranium is Pelargonium graveolens; its rose-scented essential oil is valued in perfumery.",
-    difficulty: "medium"
-  },
-  {
-    id: "d281l_192",
-    subject: "da-281",
-    lecture: "lecture-12",
-    lectureNo: 12,
-    question: "Which tree is known as Green Gold due to its commercial importance?",
-    options: ["Teak", "Neem", "Subabul (Leucaena leucocephala)", "Bamboo"],
-    correct: 3,
-    explanation: "Bamboo is called Green Gold because of its rapid growth, versatility, and commercial value in construction, crafts, pulp, and furniture.",
-    difficulty: "medium"
-  },
-  {
-    id: "d281l_193",
-    subject: "da-281",
-    lecture: "lecture-13",
-    lectureNo: 13,
-    question: "The ideal tree for windbreaks and shelterbelts is:",
-    options: ["Teak", "Eucalyptus", "Bamboo", "Casuarina"],
-    correct: 3,
-    explanation: "Casuarina (Casuarina equisetifolia) is widely used for coastal windbreaks and shelterbelts due to its fast growth and wind-tolerant nature.",
-    difficulty: "medium"
-  },
-  {
-    id: "d281l_194",
-    subject: "da-281",
-    lecture: "lecture-14",
-    lectureNo: 14,
-    question: "Lac is a forest product harvested from:",
-    options: ["Secretions of lac insects on host trees", "Roots of Acacia species", "Leaves of teak trees", "Sap of eucalyptus trees"],
-    correct: 0,
-    explanation: "Lac is a resinous secretion produced by the lac insect (Kerria lacca) on host trees like ber, kusum, and palash. It is an important NTFP.",
-    difficulty: "medium"
-  },
-  {
-    id: "d281l_195",
-    subject: "da-281",
-    lecture: "lecture-15",
-    lectureNo: 15,
-    question: "Which of the following is a correct statement about mangrove forests?",
-    options: ["They are deciduous and shed leaves in winter in horticultural practices", "They grow in coastal saline tidal areas and protect coastlines from erosion", "They are found only in Himalayan regions for vegetable cultivation", "They grow in dry arid conditions in orchard management"],
-    correct: 1,
-    explanation: "Mangroves grow in coastal intertidal zones with saline water. They protect coastlines from erosion, cyclones, and tsunamis (e.g., Sundarbans).",
-    difficulty: "medium"
-  },
-  {
-    id: "d281l_196",
-    subject: "da-281",
-    lecture: "lecture-11",
-    lectureNo: 11,
-    question: "ASSERTION-REASON: Assertion (A): Deforestation leads to increased carbon dioxide in the atmosphere. Reason (R): Trees absorb CO2 during photosynthesis; when trees are cut, this absorption capacity is lost and CO2 released.",
-    options: ["Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is false but R is true", "A is true but R is false"],
-    correct: 1,
-    explanation: "Deforestation releases stored carbon and removes CO2-absorbing trees. R correctly explains the mechanism by which deforestation increases atmospheric CO2.",
-    difficulty: "medium"
-  },
-  {
-    id: "d281l_197",
-    subject: "da-281",
-    lecture: "lecture-12",
-    lectureNo: 12,
-    question: "Match timber trees: Col A: 1-Teak, 2-Sandalwood, 3-Rosewood, 4-Sal. Col B: P-Dalbergia latifolia, Q-Shorea robusta, R-Tectona grandis, S-Santalum album. Col C: i-furniture, ii-fire resistant, iii-perfume/incense, iv-Karnataka rosewood",
-    options: ["1-Q-ii, 2-P-iv, 3-S-iii, 4-R-i", "1-R-i, 2-S-iii, 3-P-iv, 4-Q-ii", "1-S-iii, 2-R-i, 3-Q-ii, 4-P-iv", "1-P-iv, 2-Q-ii, 3-R-i, 4-S-iii"],
-    correct: 1,
-    explanation: "Teak (Tectona grandis=i-furniture), Sandalwood (Santalum album=iii-perfume), Rosewood (Dalbergia latifolia=iv-Karnataka), Sal (Shorea robusta=ii-fire resistant).",
-    difficulty: "hard"
-  },
-  {
-    id: "d281l_198",
-    subject: "da-281",
-    lecture: "lecture-13",
-    lectureNo: 13,
-    question: "Citronella essential oil is obtained from species of which genus?",
-    options: ["Pelargonium", "Cymbopogon", "Withania", "Tectona"],
-    correct: 1,
-    explanation: "Citronella oil is obtained from Cymbopogon winterianus (Java type) and Cymbopogon nardus (Ceylon type).",
-    difficulty: "easy"
-  },
-  {
-    id: "d281l_199",
-    subject: "da-281",
-    lecture: "lecture-14",
-    lectureNo: 14,
-    question: "Which international body monitors global forest resources and publishes the Global Forest Resources Assessment?",
-    options: ["World Bank", "UNDP in horticultural practices", "FAO (Food and Agriculture Organization)", "UNEP for vegetable cultivation"],
-    correct: 2,
-    explanation: "FAO (Food and Agriculture Organization of the United Nations) publishes the Global Forest Resources Assessment periodically.",
-    difficulty: "medium"
-  },
-  {
-    id: "d281l_200",
-    subject: "da-281",
-    lecture: "lecture-15",
-    lectureNo: 15,
-    question: "Karakkaya (chebulic myrobalan), a minor forest product, is botanically known as:",
-    options: ["Tectona grandis", "Tamarindus indica", "Terminalia chebula", "Aloe barbadensis"],
-    correct: 2,
-    explanation: "Karakkaya / chebulic myrobalan is Terminalia chebula (family Combretaceae), valued for its tannin-rich fruits used in tanning and medicine.",
-    difficulty: "hard"
-  },
-  {
-    id: "d281l_201",
-    subject: "da-281",
-    lecture: "lecture-1",
-    lectureNo: 1,
-    question: "Late blight of potato and tomato is caused by:",
-    options: ["Alternaria solani (Early blight)", "Phytophthora infestans (water mould/oomycete)", "Fusarium oxysporum (wilt)", "Sclerotium rolfsii (collar rot)"],
-    correct: 1,
-    explanation: "Late blight of potato and tomato is caused by Phytophthora infestans, an oomycete (water mould). It was responsible for the Irish Potato Famine (1845-49). It thrives in cool, moist conditions. Early blight is caused by Alternaria solani. Mancozeb and metalaxyl are used for management.",
-    difficulty: "easy"
-  },
-  {
-    id: "d281l_202",
-    subject: "da-281",
-    lecture: "lecture-1",
-    lectureNo: 1,
-    question: "The first National Forest Policy of India was enunciated on 19th October of which year?",
-    options: ["1894", "1864", "1927", "1952"],
-    correct: 0,
-    explanation: "As per DA-281 notes: The first forest policy of India was enunciated on 19th October, 1894."
-  },
-  {
-    id: "d281l_203",
-    subject: "da-281",
-    lecture: "lecture-2",
-    lectureNo: 2,
-    question: "The upper branchy part of a tree above the bole, comprising branches and foliage, is defined as the:",
-    options: ["Bole", "Crown", "Buttress", "Canopy gap"],
-    correct: 1,
-    explanation: "As per DA-281 notes: Crown is defined as the upper branchy part of a tree above the bole comprising of branches and foliage springing from the bole."
-  },
-  {
-    id: "d281l_204",
-    subject: "da-281",
-    lecture: "lecture-2",
-    lectureNo: 2,
-    question: "The lower portion of the stem up to the point where the main branches are given off is known as the:",
-    options: ["Crown", "Taper", "Bole", "Buttress"],
-    correct: 2,
-    explanation: "As per DA-281 notes: The lower portion of the stem up to the point where the main branches are given off is known as the bole."
-  },
-  {
-    id: "d281l_205",
-    subject: "da-281",
-    lecture: "lecture-3",
-    lectureNo: 3,
-    question: "The theory and practice of raising forest crops is known as:",
-    options: ["Sericulture", "Horticulture", "Olericulture", "Silviculture"],
-    correct: 3,
-    explanation: "As per DA-281 notes: Silviculture is the theory and practice of raising forest crops."
-  },
-  {
-    id: "d281l_206",
-    subject: "da-281",
-    lecture: "lecture-3",
-    lectureNo: 3,
-    question: "The symbiotic composite structure formed by the association of fungal hyphae with plant rootlets is called:",
-    options: ["Mycorrhiza", "Rhizobium nodule", "Lichen", "Haustorium"],
-    correct: 0,
-    explanation: "As per DA-281 notes: The composite structure of fungus and invaded rootlets is called Mycorrhiza."
-  },
-  {
-    id: "d281l_207",
-    subject: "da-281",
-    lecture: "lecture-4",
-    lectureNo: 4,
-    question: "Growing of plants for beautification of the surroundings is known as:",
-    options: ["Social forestry", "Bio-aesthetic plantation", "Agro-forestry", "Farm forestry"],
-    correct: 1,
-    explanation: "As per DA-281 notes: Growing of plants for beautification of the surroundings is known as bio-aesthetic plantation."
-  },
-  {
-    id: "d281l_208",
-    subject: "da-281",
-    lecture: "lecture-1",
-    lectureNo: 1,
-    question: "Against the world average of 1.6 hectares, the per capita forest area available in India is only about:",
-    options: ["1.0 ha", "0.5 ha", "0.11 ha", "2.5 ha"],
-    correct: 2,
-    explanation: "As per DA-281 notes: As compared to the world average of 1.6 hectares per capita forest area, India has only 0.11 ha per capita forest area."
-  },
+    "id": "d281l_001",
+    "subject": "da-281",
+    "lecture": "lecture-1",
+    "lectureNo": 1,
+    "question": "The branch of forestry dealing with the description, classification and identification of tree species is:",
+    "options": [
+      "Wood technology",
+      "Mensuration",
+      "Silviculture",
+      "Dendrology"
+    ],
+    "correct": 3,
+    "explanation": "Dendrology is the study of description, classification and identification of various tree species."
+  },
+  {
+    "id": "d281l_002",
+    "subject": "da-281",
+    "lecture": "lecture-1",
+    "lectureNo": 1,
+    "question": "Tropical wet evergreen forests in India receive annual rainfall of more than:",
+    "options": [
+      "100 cm",
+      "250 cm",
+      "200 cm",
+      "150 cm"
+    ],
+    "correct": 2,
+    "explanation": "Tropical wet evergreen forests occur in areas receiving more than 200 cm of annual rainfall and are found in the Western Ghats, Andaman & Nicobar Islands and northeastern India."
+  },
+  {
+    "id": "d281l_003",
+    "subject": "da-281",
+    "lecture": "lecture-1",
+    "lectureNo": 1,
+    "question": "Which of the following is the dominant species of tropical moist deciduous forests in India?",
+    "options": [
+      "Eucalyptus globulus",
+      "Dalbergia sissoo",
+      "Acacia nilotica",
+      "Shorea robusta (Sal)"
+    ],
+    "correct": 3,
+    "explanation": "Shorea robusta (Sal) is the dominant species of tropical moist deciduous forests, particularly in the Gangetic plains and central India."
+  },
+  {
+    "id": "d281l_004",
+    "subject": "da-281",
+    "lecture": "lecture-1",
+    "lectureNo": 1,
+    "question": "The National Forest Policy 1988 aims to bring what fraction of land area under forest/tree cover?",
+    "options": [
+      "One-fifth",
+      "One-third (33⅓%)",
+      "Two-thirds",
+      "One-tenth"
+    ],
+    "correct": 1,
+    "explanation": "As enunciated in the National Forest Policy 1988, the goal is to have one-third (33⅓%) of the country's land area under forest/tree cover."
+  },
+  {
+    "id": "d281l_005",
+    "subject": "da-281",
+    "lecture": "lecture-1",
+    "lectureNo": 1,
+    "question": "Tropical dry deciduous forests in India occur in areas with annual rainfall of:",
+    "options": [
+      "150–200 cm",
+      "100–150 cm",
+      "Less than 75 cm",
+      "75–100 cm"
+    ],
+    "correct": 1,
+    "explanation": "Tropical dry deciduous forests occur where annual rainfall is between 100–150 cm. Teak is the dominant species in these forests."
+  },
+  {
+    "id": "d281l_006",
+    "subject": "da-281",
+    "lecture": "lecture-1",
+    "lectureNo": 1,
+    "question": "The forest area of Telangana state is approximately:",
+    "options": [
+      "75,000 sq km",
+      "5,000 sq km",
+      "28,854 sq km (about 25% of the state)",
+      "1,12,077 sq km"
+    ],
+    "correct": 2,
+    "explanation": "Telangana has a geographical area of 1,12,077 sq km, of which the forest area is about 28,854 sq km, covering around 25.11% of the state's geographical area."
+  },
+  {
+    "id": "d281l_007",
+    "subject": "da-281",
+    "lecture": "lecture-1",
+    "lectureNo": 1,
+    "question": "Temperate forests in India are mainly found at altitudes of:",
+    "options": [
+      "2000–3000 m",
+      "1000–2000 m",
+      "3000–4000 m",
+      "500–1000 m"
+    ],
+    "correct": 0,
+    "explanation": "Temperate forests (also called montane temperate forests) in India occur at altitudes between 2000–3000 m above sea level in the Himalayan regions and southern hills."
+  },
+  {
+    "id": "d281l_008",
+    "subject": "da-281",
+    "lecture": "lecture-1",
+    "lectureNo": 1,
+    "question": "Tidal or mangrove forests in India are found along:",
+    "options": [
+      "Desert margins",
+      "Mountain slopes",
+      "River banks inland",
+      "Coastal areas and deltas"
+    ],
+    "correct": 3,
+    "explanation": "Tidal/mangrove forests occur along coastal areas, estuaries and deltas where tidal action brings saline water. Sundarbans is the largest mangrove forest."
+  },
+  {
+    "id": "d281l_010",
+    "subject": "da-281",
+    "lecture": "lecture-1",
+    "lectureNo": 1,
+    "question": "Dry thorn forests (tropical thorn forests) in India are found where annual rainfall is:",
+    "options": [
+      "100–125 cm",
+      "50–75 cm",
+      "Less than 50 cm",
+      "75–100 cm"
+    ],
+    "correct": 1,
+    "explanation": "Tropical thorn forests occur in areas with annual rainfall of 50–75 cm. These are found in Rajasthan, Punjab, Gujarat and parts of Deccan plateau."
+  },
+  {
+    "id": "d281l_011",
+    "subject": "da-281",
+    "lecture": "lecture-1",
+    "lectureNo": 1,
+    "question": "The National Forest Policy of India aims at maintaining forest cover of what percentage of total geographical area?",
+    "options": [
+      "33%",
+      "20%",
+      "40%",
+      "25%"
+    ],
+    "correct": 0,
+    "explanation": "The National Forest Policy 1988 recommends maintaining 33% of the total geographical area under forests to maintain ecological balance."
+  },
+  {
+    "id": "d281l_012",
+    "subject": "da-281",
+    "lecture": "lecture-1",
+    "lectureNo": 1,
+    "question": "Forest mensuration is concerned with:",
+    "options": [
+      "Control of forest fires",
+      "Identification of tree species",
+      "Marketing of timber",
+      "Measurement of forest produce"
+    ],
+    "correct": 3,
+    "explanation": "Forest mensuration deals with the measurement of forest produce such as the volume, girth, height and increment of trees and stands."
+  },
+  {
+    "id": "d281l_013",
+    "subject": "da-281",
+    "lecture": "lecture-1",
+    "lectureNo": 1,
+    "question": "The pole stage in the growth of a tree extends from:",
+    "options": [
+      "Germination to 1 m height",
+      "Flowering to crown expansion",
+      "Seed to germination",
+      "Full maturity to death"
+    ],
+    "correct": 1,
+    "explanation": "The growth stages of a tree are seedling (germination to 1 m), sapling, pole (flowering to crown expansion) and tree."
+  },
+  {
+    "id": "d281l_014",
+    "subject": "da-281",
+    "lecture": "lecture-1",
+    "lectureNo": 1,
+    "question": "The famous Sundarbans mangrove forest is located in which state?",
+    "options": [
+      "Andhra Pradesh",
+      "Odisha",
+      "West Bengal",
+      "Tamil Nadu"
+    ],
+    "correct": 2,
+    "explanation": "Sundarbans, the world's largest mangrove forest, is located in West Bengal (also extending into Bangladesh). It is a UNESCO World Heritage Site."
+  },
+  {
+    "id": "d281l_016",
+    "subject": "da-281",
+    "lecture": "lecture-1",
+    "lectureNo": 1,
+    "question": "Tropical semi-evergreen forests in India are transitional between which two forest types?",
+    "options": [
+      "Deciduous and dry thorn",
+      "Alpine and temperate",
+      "Thorn and desert",
+      "Evergreen and deciduous"
+    ],
+    "correct": 3,
+    "explanation": "Tropical semi-evergreen forests are transitional between tropical wet evergreen and tropical moist deciduous forests, occurring where rainfall is 150–200 cm."
+  },
+  {
+    "id": "d281l_017",
+    "subject": "da-281",
+    "lecture": "lecture-2",
+    "lectureNo": 2,
+    "question": "The silvicultural system in which all trees are harvested over the entire area in one operation is called:",
+    "options": [
+      "Coppice system",
+      "Selection system",
+      "Shelterwood system",
+      "Clear felling system"
+    ],
+    "correct": 3,
+    "explanation": "In the clear felling system, all trees (merchantable and unmerchantable) are removed from the entire area at one time and the area is then regenerated artificially or naturally."
+  },
+  {
+    "id": "d281l_018",
+    "subject": "da-281",
+    "lecture": "lecture-2",
+    "lectureNo": 2,
+    "question": "Afforestation refers to:",
+    "options": [
+      "Thinning of overcrowded stands",
+      "Replanting of previously forested areas",
+      "Planting trees on land without previous forest history",
+      "Removal of trees from degraded lands"
+    ],
+    "correct": 2,
+    "explanation": "Afforestation means establishing a forest on land that has not been forested for a long time or has never had a forest. Reforestation means replanting on previously forested land."
+  },
+  {
+    "id": "d281l_019",
+    "subject": "da-281",
+    "lecture": "lecture-2",
+    "lectureNo": 2,
+    "question": "The selection system of silviculture is most suitable for:",
+    "options": [
+      "Fast-growing plantation crops",
+      "Even-aged crops requiring uniform light",
+      "Grassland conversion to forest",
+      "Uneven-aged mixed species forests"
+    ],
+    "correct": 3,
+    "explanation": "The selection system involves selective harvesting of individual trees or small groups, maintaining an uneven-aged mixed forest structure. It is ideal for shade-tolerant species."
+  },
+  {
+    "id": "d281l_020",
+    "subject": "da-281",
+    "lecture": "lecture-2",
+    "lectureNo": 2,
+    "question": "In a nursery, seed germination percentage can be improved by a process called:",
+    "options": [
+      "Vernalization",
+      "Vernation",
+      "Scarification",
+      "Stratification"
+    ],
+    "correct": 2,
+    "explanation": "Scarification is the mechanical or chemical treatment of hard seed coats to break dormancy and improve germination. Hard-coated forest tree seeds often require this treatment."
+  },
+  {
+    "id": "d281l_021",
+    "subject": "da-281",
+    "lecture": "lecture-2",
+    "lectureNo": 2,
+    "question": "The coppice silvicultural system exploits the natural ability of many hardwood trees to:",
+    "options": [
+      "Propagate through vegetative runners",
+      "Sprout new shoots from stumps or roots",
+      "Colonize bare ground through natural fall",
+      "Regenerate from seeds blown by wind"
+    ],
+    "correct": 1,
+    "explanation": "The coppice system relies on the ability of broadleaved trees to regenerate by sprouting from cut stumps (coppice shoots). It is widely used for firewood and small timber production."
+  },
+  {
+    "id": "d281l_022",
+    "subject": "da-281",
+    "lecture": "lecture-2",
+    "lectureNo": 2,
+    "question": "The shelterwood system of silviculture involves:",
+    "options": [
+      "Removing all trees simultaneously in horticultural practices",
+      "Burning of forest floor after harvest",
+      "Using artificial regeneration only for vegetable cultivation",
+      "Retaining some trees as seed bearers over the area"
+    ],
+    "correct": 3,
+    "explanation": "The shelterwood system involves the gradual removal of trees in a series of cuts, retaining enough trees to provide shelter, seed and light for regeneration before final removal."
+  },
+  {
+    "id": "d281l_023",
+    "subject": "da-281",
+    "lecture": "lecture-2",
+    "lectureNo": 2,
+    "question": "In forest nurseries, the practice of 'pricking out' refers to:",
+    "options": [
+      "Sowing seeds at wide spacing",
+      "Transplanting seedlings from germination bed to spacing beds",
+      "Making holes in hardened seed coat",
+      "Removing competing weeds in horticultural practices"
+    ],
+    "correct": 1,
+    "explanation": "Pricking out is the operation of transplanting tiny seedlings from a crowded germination bed to nursery beds at wider spacing to allow proper development."
+  },
+  {
+    "id": "d281l_024",
+    "subject": "da-281",
+    "lecture": "lecture-2",
+    "lectureNo": 2,
+    "question": "Which of the following is the correct definition of 'rotation' in silviculture?",
+    "options": [
+      "The period between regeneration and final harvest",
+      "The method of rotating different tree species",
+      "The process of rotating crops with forests",
+      "Rotation ploughing before planting"
+    ],
+    "correct": 0,
+    "explanation": "Rotation in silviculture is the period in years between the establishment of a crop and its final harvest. Different species have different rotation periods (e.g., Eucalyptus 7–8 years, Teak 80–120 years)."
+  },
+  {
+    "id": "d281l_025",
+    "subject": "da-281",
+    "lecture": "lecture-2",
+    "lectureNo": 2,
+    "question": "Direct seeding in nurseries is most suitable for tree species with:",
+    "options": [
+      "Seeds requiring stratification",
+      "All types of forest tree seeds",
+      "Very small seeds",
+      "Large seeds that do not transplant well"
+    ],
+    "correct": 3,
+    "explanation": "Direct seeding (sowing seeds directly in the field or large pots) is most suitable for species with large seeds (e.g., Sal, Teak) or those that do not tolerate transplanting."
+  },
+  {
+    "id": "d281l_026",
+    "subject": "da-281",
+    "lecture": "lecture-2",
+    "lectureNo": 2,
+    "question": "Thinning in silviculture is carried out mainly to:",
+    "options": [
+      "Improve growth of remaining crop trees",
+      "Harvest timber before rotation ends",
+      "Convert uneven-aged stands to even-aged",
+      "Remove all suppressed trees permanently"
+    ],
+    "correct": 0,
+    "explanation": "Thinning removes suppressed, diseased or competing trees to improve the spacing and growing conditions for the remaining crop trees, increasing their increment and quality."
+  },
+  {
+    "id": "d281l_027",
+    "subject": "da-281",
+    "lecture": "lecture-2",
+    "lectureNo": 2,
+    "question": "Reforestation means:",
+    "options": [
+      "Restocking of cleared or degraded forest land",
+      "Planting trees on land never previously forested",
+      "Natural forest regeneration only",
+      "Converting agricultural land to forest"
+    ],
+    "correct": 0,
+    "explanation": "Reforestation means restocking of existing forests and woodlands which have been depleted through deforestation, degradation or natural disasters."
+  },
+  {
+    "id": "d281l_028",
+    "subject": "da-281",
+    "lecture": "lecture-2",
+    "lectureNo": 2,
+    "question": "The process of hardening nursery plants before transplanting to the field is called:",
+    "options": [
+      "Hardening off",
+      "Vernalization",
+      "Pricking out",
+      "Stratification"
+    ],
+    "correct": 0,
+    "explanation": "Hardening off is the process of gradually acclimatizing nursery-grown seedlings to outdoor/field conditions before permanent transplanting to reduce transplanting shock."
+  },
+  {
+    "id": "d281l_029",
+    "subject": "da-281",
+    "lecture": "lecture-2",
+    "lectureNo": 2,
+    "question": "Which silvicultural system is best suited for Teak forests?",
+    "options": [
+      "Coppice system",
+      "Clear felling with artificial regeneration",
+      "Selection system",
+      "Shelterwood compartment system"
+    ],
+    "correct": 1,
+    "explanation": "Teak plantations are managed under the clear felling system followed by artificial regeneration (planting) since Teak is light demanding and does not regenerate under shade."
+  },
+  {
+    "id": "d281l_030",
+    "subject": "da-281",
+    "lecture": "lecture-2",
+    "lectureNo": 2,
+    "question": "In forest nurseries, 'root trainers' are used to:",
+    "options": [
+      "Control nursery weeds chemically",
+      "Train roots to grow downward only",
+      "Produce quality seedlings with intact root systems",
+      "Speed up germination of hard seeds"
+    ],
+    "correct": 2,
+    "explanation": "Root trainers are small ribbed containers that guide root growth downward and prevent spiraling, producing quality seedlings with intact root systems that have less transplant shock."
+  },
+  {
+    "id": "d281l_031",
+    "subject": "da-281",
+    "lecture": "lecture-2",
+    "lectureNo": 2,
+    "question": "Stump planting in forestry means planting:",
+    "options": [
+      "Only the stump portion of a plant without shoots",
+      "Bare-rooted seedlings with shoot and root retained",
+      "Young seedlings with full shoot and root system",
+      "Stumps of mature harvested trees"
+    ],
+    "correct": 1,
+    "explanation": "Stump planting involves bare-rooted planting material where the shoot is cut back to a stump (typically 2–4 cm height with 15–20 cm tap root). It is used for Teak and other species."
+  },
+  {
+    "id": "d281l_032",
+    "subject": "da-281",
+    "lecture": "lecture-2",
+    "lectureNo": 2,
+    "question": "The ideal time for transplanting nursery raised seedlings in India is:",
+    "options": [
+      "Post-monsoon (October–November) in horticultural practices",
+      "At the onset of monsoon (June–July)",
+      "Winter (December–January) for vegetable cultivation",
+      "Summer (April–May) in orchard management"
+    ],
+    "correct": 1,
+    "explanation": "The onset of monsoon (June–July) is the ideal time for transplanting forest seedlings as adequate soil moisture reduces transplanting stress and supports establishment."
+  },
+  {
+    "id": "d281l_033",
+    "subject": "da-281",
+    "lecture": "lecture-3",
+    "lectureNo": 3,
+    "question": "Agrisilviculture is a type of agroforestry system that combines:",
+    "options": [
+      "Trees with livestock only",
+      "Trees with crops only",
+      "Trees with aquatic systems",
+      "Trees, crops and livestock"
+    ],
+    "correct": 1,
+    "explanation": "Agrisilviculture combines trees/shrubs with agricultural crops on the same land unit. There is no deliberate component of livestock in this system."
+  },
+  {
+    "id": "d281l_034",
+    "subject": "da-281",
+    "lecture": "lecture-3",
+    "lectureNo": 3,
+    "question": "Silvopastoral systems in agroforestry integrate:",
+    "options": [
+      "Trees and crops",
+      "Crops and aquaculture",
+      "Trees and pasture/livestock",
+      "Trees, crops and fish"
+    ],
+    "correct": 2,
+    "explanation": "Silvopastoral systems combine trees or shrubs with forage plants and livestock production on the same land, providing multiple benefits including shade, timber and improved fodder."
+  },
+  {
+    "id": "d281l_035",
+    "subject": "da-281",
+    "lecture": "lecture-3",
+    "lectureNo": 3,
+    "question": "The Wadi model of agroforestry was developed and popularized by which organization?",
+    "options": [
+      "FAO",
+      "NABARD",
+      "ICAR",
+      "World Bank"
+    ],
+    "correct": 1,
+    "explanation": "The Wadi model was developed and popularized by NABARD (National Bank for Agriculture and Rural Development) in tribal areas of Gujarat and Rajasthan to improve tribal livelihoods."
+  },
+  {
+    "id": "d281l_036",
+    "subject": "da-281",
+    "lecture": "lecture-3",
+    "lectureNo": 3,
+    "question": "Boundary planting in agroforestry refers to planting trees:",
+    "options": [
+      "In pure blocks within the farm",
+      "In rows between crop fields",
+      "At random throughout the field",
+      "Along field boundaries, roads and water channels"
+    ],
+    "correct": 3,
+    "explanation": "Boundary planting involves growing trees along boundaries of fields, roads, bunds and water channels. It does not compete with main crops and provides multiple benefits."
+  },
+  {
+    "id": "d281l_037",
+    "subject": "da-281",
+    "lecture": "lecture-3",
+    "lectureNo": 3,
+    "question": "Windbreaks are planted perpendicular to the prevailing wind direction primarily to:",
+    "options": [
+      "Reduce wind speed and protect crops from wind erosion",
+      "Attract beneficial insects for pollination in horticultural practices",
+      "Provide shade to crops in summer",
+      "Increase humidity in the microclimate for vegetable cultivation"
+    ],
+    "correct": 0,
+    "explanation": "Windbreaks (also called shelterbelts) are planted at right angles to prevailing winds to reduce wind velocity, protecting crops, soil and livestock from wind damage and erosion."
+  },
+  {
+    "id": "d281l_038",
+    "subject": "da-281",
+    "lecture": "lecture-3",
+    "lectureNo": 3,
+    "question": "Agroforestry, as a land-use system, integrates crops, forest plants and:",
+    "options": [
+      "Only fish ponds",
+      "Only ornamental flowers",
+      "Animals/livestock on the same unit of land",
+      "Only mushrooms"
+    ],
+    "correct": 2,
+    "explanation": "Agroforestry is a sustainable land-management system that combines the production of crops (including tree crops), forest plants and/or animals simultaneously or sequentially on the same unit of land."
+  },
+  {
+    "id": "d281l_039",
+    "subject": "da-281",
+    "lecture": "lecture-3",
+    "lectureNo": 3,
+    "question": "Taungya system is an agroforestry practice in which:",
+    "options": [
+      "Livestock are grazed in mature forests",
+      "Crops are grown only in forest gaps",
+      "Trees are grown only for fruit production",
+      "Forest laborers grow crops between young tree plantations"
+    ],
+    "correct": 3,
+    "explanation": "The Taungya system involves growing agricultural crops between rows of young forest tree plantations. Forest laborers cultivate food crops and simultaneously tend the young trees."
+  },
+  {
+    "id": "d281l_040",
+    "subject": "da-281",
+    "lecture": "lecture-3",
+    "lectureNo": 3,
+    "question": "Social forestry in India was formally launched during which Five Year Plan?",
+    "options": [
+      "Sixth Five Year Plan",
+      "Fifth Five Year Plan",
+      "Seventh Five Year Plan",
+      "Third Five Year Plan"
+    ],
+    "correct": 0,
+    "explanation": "Social forestry was formally launched in India during the Sixth Five Year Plan (1980–85) to meet the domestic and agricultural needs of rural communities and improve the environment."
+  },
+  {
+    "id": "d281l_041",
+    "subject": "da-281",
+    "lecture": "lecture-3",
+    "lectureNo": 3,
+    "question": "Alley cropping (Hedgerow intercropping) in agroforestry involves:",
+    "options": [
+      "Planting trees in alleys with crops between the tree rows",
+      "Planting trees in alleys within grazing areas",
+      "Random mixture of trees and crops for vegetable cultivation",
+      "Growing crops in forested alleys in horticultural practices"
+    ],
+    "correct": 0,
+    "explanation": "Alley cropping involves growing food/forage crops in the alleys (spaces) between rows of fast-growing multipurpose trees or shrubs (hedgerows) that are periodically pruned."
+  },
+  {
+    "id": "d281l_042",
+    "subject": "da-281",
+    "lecture": "lecture-3",
+    "lectureNo": 3,
+    "question": "Agrisilvipastoral systems in agroforestry combine:",
+    "options": [
+      "Trees and crops only",
+      "Trees and livestock only",
+      "Crops and aquatic organisms",
+      "Trees, crops and livestock together"
+    ],
+    "correct": 3,
+    "explanation": "Agrisilvipastoral systems are the most complex agroforestry systems combining trees, agricultural crops AND livestock/animals on the same land management unit."
+  },
+  {
+    "id": "d281l_043",
+    "subject": "da-281",
+    "lecture": "lecture-3",
+    "lectureNo": 3,
+    "question": "The primary benefit of shelterbelts in agricultural areas is:",
+    "options": [
+      "Protecting crops from wind and conserving soil moisture",
+      "Attracting migratory birds for pest control",
+      "Increasing crop diversity on the farm",
+      "Providing timber for local use"
+    ],
+    "correct": 0,
+    "explanation": "Shelterbelts primarily protect crops, soil and livestock from wind damage. They reduce wind speed by 50–70%, conserve soil moisture, reduce evapotranspiration and improve crop yields."
+  },
+  {
+    "id": "d281l_044",
+    "subject": "da-281",
+    "lecture": "lecture-3",
+    "lectureNo": 3,
+    "question": "The Wadi model integrates which main components on tribal farmland?",
+    "options": [
+      "Only fruit trees and forestry species",
+      "Aquaculture with paddy cultivation for vegetable cultivation",
+      "Livestock with pasture only in horticultural practices",
+      "Horticultural trees with agricultural crops and soil conservation"
+    ],
+    "correct": 3,
+    "explanation": "The Wadi model integrates horticultural trees (mango, cashew, amla) with agricultural crops and soil/water conservation structures on tribal farmland, improving tribal income."
+  },
+  {
+    "id": "d281l_045",
+    "subject": "da-281",
+    "lecture": "lecture-3",
+    "lectureNo": 3,
+    "question": "Which of the following is NOT a social forestry programme?",
+    "options": [
+      "Protection of natural forests",
+      "Farm forestry",
+      "Plantation forestry on government wastelands",
+      "Extension forestry"
+    ],
+    "correct": 0,
+    "explanation": "Social forestry includes farm forestry, extension forestry and community forestry on government wastelands. Protection of natural forests is a conservation activity, not social forestry."
+  },
+  {
+    "id": "d281l_046",
+    "subject": "da-281",
+    "lecture": "lecture-3",
+    "lectureNo": 3,
+    "question": "Home gardens as an agroforestry system are characterized by:",
+    "options": [
+      "Single species monocultures near houses",
+      "Diverse mixture of trees, shrubs, crops near homesteads",
+      "Grazing plots adjacent to homes",
+      "Pure orchards for commercial production"
+    ],
+    "correct": 1,
+    "explanation": "Home gardens are a complex mixture of trees, shrubs and herbaceous plants maintained close to the homestead, providing diverse food, medicine, fodder and income throughout the year."
+  },
+  {
+    "id": "d281l_047",
+    "subject": "da-281",
+    "lecture": "lecture-3",
+    "lectureNo": 3,
+    "question": "Subabul (Leucaena leucocephala) is widely used in agroforestry because it:",
+    "options": [
+      "Produces valuable hardwood timber only",
+      "Requires very high inputs to establish",
+      "Competes strongly with companion crops",
+      "Is fast growing, nitrogen fixing and multipurpose"
+    ],
+    "correct": 3,
+    "explanation": "Leucaena leucocephala (Subabul) is fast growing, fixes atmospheric nitrogen, provides fodder, fuel wood, green manure and timber, making it ideal for agroforestry systems."
+  },
+  {
+    "id": "d281l_048",
+    "subject": "da-281",
+    "lecture": "lecture-3",
+    "lectureNo": 3,
+    "question": "Which type of agroforestry system is most common in the semi-arid regions of Rajasthan?",
+    "options": [
+      "Agrisilviculture with teak",
+      "Aquaforestry with mangroves",
+      "Agrisilvipastoral with fruit trees",
+      "Silvopastoral with Acacia and grasses"
+    ],
+    "correct": 3,
+    "explanation": "In the semi-arid regions of Rajasthan, silvopastoral systems with Acacia species (Khejri – Prosopis cineraria) and drought-resistant grasses are most common and traditional."
+  },
+  {
+    "id": "d281l_049",
+    "subject": "da-281",
+    "lecture": "lecture-4",
+    "lectureNo": 4,
+    "question": "The botanical name of Teak, one of the most valuable timber trees in India, is:",
+    "options": [
+      "Tectona grandis",
+      "Terminalia tomentosa",
+      "Shorea robusta",
+      "Dalbergia latifolia"
+    ],
+    "correct": 0,
+    "explanation": "Teak is botanically known as Tectona grandis, belonging to family Verbenaceae. It produces very durable, hard wood used for furniture, ship building and construction."
+  },
+  {
+    "id": "d281l_050",
+    "subject": "da-281",
+    "lecture": "lecture-4",
+    "lectureNo": 4,
+    "question": "Eucalyptus camaldulensis (River Red Gum) is preferred in plantation forestry because:",
+    "options": [
+      "It is extremely fast growing and drought tolerant",
+      "Its wood is preferred for making sports goods",
+      "It produces highly durable timber for furniture",
+      "It has nitrogen-fixing ability improving soil fertility"
+    ],
+    "correct": 0,
+    "explanation": "Eucalyptus camaldulensis is favored in plantation forestry for its very fast growth rate, drought tolerance, multiple uses (pulpwood, fuel, poles) and adaptability to varied conditions."
+  },
+  {
+    "id": "d281l_053",
+    "subject": "da-281",
+    "lecture": "lecture-4",
+    "lectureNo": 4,
+    "question": "Teak wood is highly valued because of its:",
+    "options": [
+      "Flexible and bending properties in horticultural practices",
+      "Very fast growth and short rotation for vegetable cultivation",
+      "High silica content making it naturally durable and weather resistant",
+      "Light color and low density in orchard management"
+    ],
+    "correct": 2,
+    "explanation": "Teak wood is highly valued for its high natural oil and silica content which makes it extremely durable, weather and termite resistant, ideal for outdoor furniture and ship building."
+  },
+  {
+    "id": "d281l_055",
+    "subject": "da-281",
+    "lecture": "lecture-4",
+    "lectureNo": 4,
+    "question": "Indian Rosewood (Shisham), a very valuable timber species, has the botanical name:",
+    "options": [
+      "Dalbergia latifolia",
+      "Dalbergia sissoo",
+      "Pterocarpus marsupium",
+      "Tectona grandis"
+    ],
+    "correct": 1,
+    "explanation": "Dalbergia sissoo is Indian Rosewood (Shisham), widely used for furniture, agricultural implements and sports goods. Dalbergia latifolia is Bombay Blackwood or Indian Rosewood (a different species)."
+  },
+  {
+    "id": "d281l_057",
+    "subject": "da-281",
+    "lecture": "lecture-4",
+    "lectureNo": 4,
+    "question": "Which property makes Eucalyptus wood less suitable for high-quality furniture?",
+    "options": [
+      "It is susceptible to termite attack",
+      "It is too soft and weak",
+      "It checks (cracks) and warps severely during seasoning",
+      "It grows too slowly for commercial use"
+    ],
+    "correct": 2,
+    "explanation": "Eucalyptus wood tends to check (develop surface cracks) and warp severely during seasoning (drying), which limits its use for furniture but makes it suitable for pulpwood and poles."
+  },
+  {
+    "id": "d281l_058",
+    "subject": "da-281",
+    "lecture": "lecture-4",
+    "lectureNo": 4,
+    "question": "The wood property 'specific gravity' indicates:",
+    "options": [
+      "The rate of drying of timber",
+      "The resistance of wood to fungal attack",
+      "The weight of wood relative to water",
+      "The strength of wood under bending forces"
+    ],
+    "correct": 2,
+    "explanation": "Specific gravity of wood is the ratio of its density to water density. Higher specific gravity indicates harder, denser and generally stronger wood. Teak has specific gravity of about 0.67."
+  },
+  {
+    "id": "d281l_059",
+    "subject": "da-281",
+    "lecture": "lecture-4",
+    "lectureNo": 4,
+    "question": "Casuarina is widely planted in coastal areas primarily because it:",
+    "options": [
+      "Tolerates salinity, fixes nitrogen and grows fast",
+      "Provides excellent shade for coastal tourism",
+      "Produces edible fruits and nuts",
+      "Produces excellent furniture-grade timber"
+    ],
+    "correct": 0,
+    "explanation": "Casuarina is planted in coastal areas because it tolerates salinity, strong coastal winds and poor sandy soils, grows very fast, has nitrogen-fixing root nodules (actinomycetes) and provides fuel wood."
+  },
+  {
+    "id": "d281l_061",
+    "subject": "da-281",
+    "lecture": "lecture-4",
+    "lectureNo": 4,
+    "question": "Which state of India is the largest producer of Bamboo?",
+    "options": [
+      "Odisha",
+      "Madhya Pradesh",
+      "Assam",
+      "Karnataka"
+    ],
+    "correct": 2,
+    "explanation": "Assam is the largest producer of bamboo in India, followed by Madhya Pradesh. India has the second largest bamboo reserves in the world after China."
+  },
+  {
+    "id": "d281l_062",
+    "subject": "da-281",
+    "lecture": "lecture-4",
+    "lectureNo": 4,
+    "question": "The tree Pongamia pinnata is valued in agroforestry mainly for:",
+    "options": [
+      "High quality timber production",
+      "Excellent fodder for livestock",
+      "Production of lac and resin",
+      "Biofuel (biodiesel) from seeds and nitrogen fixation"
+    ],
+    "correct": 3,
+    "explanation": "Pongamia pinnata (Karanj) is valued for its seed oil as biodiesel (bio-energy), nitrogen fixation through root nodules, and green manure. It is widely used in wasteland development."
+  },
+  {
+    "id": "d281l_063",
+    "subject": "da-281",
+    "lecture": "lecture-4",
+    "lectureNo": 4,
+    "question": "The rotation period for Eucalyptus plantation grown for pulpwood is approximately:",
+    "options": [
+      "3–4 years",
+      "7–8 years",
+      "25–30 years",
+      "15–20 years"
+    ],
+    "correct": 1,
+    "explanation": "Eucalyptus plantations grown for pulpwood are harvested on a 7–8 year rotation. For poles and fuel wood the rotation may be shorter (5–6 years) and for heavy timber longer."
+  },
+  {
+    "id": "d281l_064",
+    "subject": "da-281",
+    "lecture": "lecture-4",
+    "lectureNo": 4,
+    "question": "Heartwood in timber is characterized by:",
+    "options": [
+      "Being the site of active cell division",
+      "Active conduction of water and minerals",
+      "Being lighter in color and less dense than sapwood",
+      "Being dead, harder, darker and more durable than sapwood"
+    ],
+    "correct": 3,
+    "explanation": "Heartwood is the inner, older part of the stem where cells are dead, filled with resins, tannins and oils making it harder, darker, more durable and more valuable than the outer sapwood."
+  },
+  {
+    "id": "d281l_065",
+    "subject": "da-281",
+    "lecture": "lecture-5",
+    "lectureNo": 5,
+    "question": "Which trees are highly suitable for raising windbreaks and shelterbelts?",
+    "options": [
+      "Only roses",
+      "Only banana and papaya",
+      "Only rice and wheat",
+      "Eucalyptus, Sesbania and Parkinsonia"
+    ],
+    "correct": 3,
+    "explanation": "Eucalyptus, Sesbania and Parkinsonia aculeata are highly suitable for windbreaks and shelterbelts, which reduce wind speed and wind erosion."
+  },
+  {
+    "id": "d281l_066",
+    "subject": "da-281",
+    "lecture": "lecture-5",
+    "lectureNo": 5,
+    "question": "The National Forest Policy 1988 shifted the priority of forest management from revenue generation to:",
+    "options": [
+      "Export of forest products",
+      "Maximum timber production",
+      "Industrial raw material supply",
+      "Environmental stability and ecological balance"
+    ],
+    "correct": 3,
+    "explanation": "The National Forest Policy 1988 gave top priority to environmental stability and ecological balance, recognizing the need for forests as essential for survival of all living beings."
+  },
+  {
+    "id": "d281l_067",
+    "subject": "da-281",
+    "lecture": "lecture-5",
+    "lectureNo": 5,
+    "question": "The Taungya system, an early agroforestry method, was first evolved in:",
+    "options": [
+      "Australia",
+      "Burma (Myanmar)",
+      "Brazil",
+      "Canada"
+    ],
+    "correct": 1,
+    "explanation": "The Taungya system - a modification of shifting cultivation in which trees are grown along with agricultural crops - was first evolved in Burma."
+  },
+  {
+    "id": "d281l_068",
+    "subject": "da-281",
+    "lecture": "lecture-5",
+    "lectureNo": 5,
+    "question": "Shifting cultivation involves clearing forest, burning the felled material, cropping and then:",
+    "options": [
+      "Immediate re-cropping forever",
+      "Permanent abandonment",
+      "A fallow period (about 8-10 years)",
+      "Flooding the land"
+    ],
+    "correct": 2,
+    "explanation": "In shifting cultivation, forest is cleared and burnt, crops are raised for one or more years, followed by a fallow period (8-10 years) during which forest trees rejuvenate the soil."
+  },
+  {
+    "id": "d281l_069",
+    "subject": "da-281",
+    "lecture": "lecture-5",
+    "lectureNo": 5,
+    "question": "Vanamahotsavam is a programme aimed at:",
+    "options": [
+      "Construction of dams",
+      "Hunting of wild animals",
+      "Harvesting of timber",
+      "Mass tree planting to increase forest/tree cover"
+    ],
+    "correct": 3,
+    "explanation": "Vanamahotsavam is the 'festival of trees' - a programme of mass tree planting to increase forest and tree cover."
+  },
+  {
+    "id": "d281l_071",
+    "subject": "da-281",
+    "lecture": "lecture-5",
+    "lectureNo": 5,
+    "question": "The concept of 'protected areas' in India includes which categories?",
+    "options": [
+      "National Parks only in horticultural practices",
+      "National Parks, Wildlife Sanctuaries, Conservation Reserves and Community Reserves",
+      "Reserved Forests and Protected Forests for vegetable cultivation",
+      "Tiger Reserves and Elephant Reserves only"
+    ],
+    "correct": 1,
+    "explanation": "Protected Areas in India under Wildlife Protection Act 1972 (amended 2002) include National Parks, Wildlife Sanctuaries, Conservation Reserves and Community Reserves."
+  },
+  {
+    "id": "d281l_072",
+    "subject": "da-281",
+    "lecture": "lecture-5",
+    "lectureNo": 5,
+    "question": "A two-tier fruit-cum-fodder based agroforestry model is called:",
+    "options": [
+      "Taungya",
+      "Agrisilviculture",
+      "Horti-pastoral system",
+      "Shifting cultivation"
+    ],
+    "correct": 2,
+    "explanation": "The horti-pastoral system is a two-tier model for fruit-cum-fodder based agroforestry (fruit trees with fodder/pasture beneath)."
+  },
+  {
+    "id": "d281l_073",
+    "subject": "da-281",
+    "lecture": "lecture-5",
+    "lectureNo": 5,
+    "question": "Social forestry aims primarily at:",
+    "options": [
+      "Converting all wastelands to commercial plantations",
+      "Establishing luxury ecotourism facilities in horticultural practices",
+      "Increasing timber export revenue for vegetable cultivation",
+      "Meeting the fuel, fodder and timber needs of rural communities"
+    ],
+    "correct": 3,
+    "explanation": "Social forestry aims to meet the basic needs of rural communities (fuel, fodder, small timber, non-timber forest products) by planting trees on community and wastelands and farm bunds."
+  },
+  {
+    "id": "d281l_074",
+    "subject": "da-281",
+    "lecture": "lecture-5",
+    "lectureNo": 5,
+    "question": "Windbreaks and shelterbelts are planted mainly to:",
+    "options": [
+      "Raise groundwater pollution",
+      "Increase soil salinity",
+      "Block all sunlight",
+      "Reduce wind speed and wind erosion"
+    ],
+    "correct": 3,
+    "explanation": "Windbreaks and shelterbelts (e.g. of Eucalyptus, Sesbania, Parkinsonia) are planted mainly to reduce wind speed, protect crops and control wind erosion."
+  },
+  {
+    "id": "d281l_075",
+    "subject": "da-281",
+    "lecture": "lecture-5",
+    "lectureNo": 5,
+    "question": "Energy plantations are raised mainly to produce:",
+    "options": [
+      "Food grains",
+      "Fuel wood / firewood",
+      "Cut flowers",
+      "Medicinal tablets"
+    ],
+    "correct": 1,
+    "explanation": "Energy plantations are raised on waste/marginal lands mainly to produce fuel wood and firewood."
+  },
+  {
+    "id": "d281l_076",
+    "subject": "da-281",
+    "lecture": "lecture-5",
+    "lectureNo": 5,
+    "question": "Farm forestry as part of social forestry involves:",
+    "options": [
+      "Cutting trees from farms for timber sale",
+      "Government planting of trees on private farmlands",
+      "Joint management of community wastelands",
+      "Farmers voluntarily planting trees on their own land"
+    ],
+    "correct": 3,
+    "explanation": "Farm forestry involves individual farmers voluntarily planting and tending trees on their own private agricultural land for wood, fuel, fodder and income generation."
+  },
+  {
+    "id": "d281l_077",
+    "subject": "da-281",
+    "lecture": "lecture-5",
+    "lectureNo": 5,
+    "question": "Agrisilviculture is an agroforestry system that combines:",
+    "options": [
+      "Only livestock with pasture",
+      "Only trees with fish",
+      "Agricultural crops with forest trees",
+      "Only flowers with vegetables"
+    ],
+    "correct": 2,
+    "explanation": "Agrisilviculture combines agricultural crops with forest/multipurpose trees on the same land."
+  },
+  {
+    "id": "d281l_078",
+    "subject": "da-281",
+    "lecture": "lecture-5",
+    "lectureNo": 5,
+    "question": "Farm forestry is the raising of trees:",
+    "options": [
+      "Only in cities",
+      "Only inside reserved forests",
+      "Only on river beds",
+      "On farmers' own (private) lands"
+    ],
+    "correct": 3,
+    "explanation": "Farm forestry is the practice of raising trees on farmers' own/private agricultural lands; it may be commercial or non-commercial."
+  },
+  {
+    "id": "d281l_079",
+    "subject": "da-281",
+    "lecture": "lecture-5",
+    "lectureNo": 5,
+    "question": "Green India Mission (GIM) aims to increase forest cover by how many million hectares?",
+    "options": [
+      "10 million ha",
+      "5 million ha",
+      "3 million ha",
+      "2 million ha"
+    ],
+    "correct": 1,
+    "explanation": "Green India Mission (one of 8 missions under NAPCC) aims to increase forest and tree cover by 5 million hectares and improve quality of forest cover on another 5 million hectares."
+  },
+  {
+    "id": "d281l_081",
+    "subject": "da-281",
+    "lecture": "lecture-6",
+    "lectureNo": 6,
+    "question": "The botanical name of Ashwagandha, an important Indian medicinal plant, is:",
+    "options": [
+      "Withania somnifera",
+      "Bacopa monnieri",
+      "Andrographis paniculata",
+      "Ocimum sanctum"
+    ],
+    "correct": 0,
+    "explanation": "Ashwagandha is botanically known as Withania somnifera. It belongs to family Solanaceae and is a major adaptogenic herb in Ayurveda known as 'Indian Ginseng'."
+  },
+  {
+    "id": "d281l_083",
+    "subject": "da-281",
+    "lecture": "lecture-6",
+    "lectureNo": 6,
+    "question": "Ashwagandha is botanically known as:",
+    "options": [
+      "Bacopa monnieri",
+      "Withania somnifera",
+      "Aloe barbadensis",
+      "Ocimum sanctum"
+    ],
+    "correct": 1,
+    "explanation": "Ashwagandha is Withania somnifera; its roots are used as a tonic in Ayurveda."
+  },
+  {
+    "id": "d281l_085",
+    "subject": "da-281",
+    "lecture": "lecture-6",
+    "lectureNo": 6,
+    "question": "Senna (Cassia angustifolia) is used mainly as:",
+    "options": [
+      "Antihypertensive drug",
+      "Laxative and purgative agent",
+      "Antimicrobial compound",
+      "Anti-fever medicine"
+    ],
+    "correct": 1,
+    "explanation": "Senna (Cassia angustifolia) is widely used as a natural laxative and purgative. The active principles are sennosides (anthraquinone glycosides) found in the leaves and pods."
+  },
+  {
+    "id": "d281l_086",
+    "subject": "da-281",
+    "lecture": "lecture-6",
+    "lectureNo": 6,
+    "question": "Aloe vera gel is harvested from which part of the plant?",
+    "options": [
+      "Inner parenchyma (pulp) of thick leaves",
+      "Roots and rhizomes",
+      "Stem bark and outer leaf",
+      "Flower buds and petals"
+    ],
+    "correct": 0,
+    "explanation": "Aloe vera gel is extracted from the parenchyma (inner pulp) of the thick succulent leaves. It contains water, polysaccharides (acemannan), vitamins, minerals and amino acids."
+  },
+  {
+    "id": "d281l_088",
+    "subject": "da-281",
+    "lecture": "lecture-6",
+    "lectureNo": 6,
+    "question": "Senna is commercially cultivated in India mainly in:",
+    "options": [
+      "Uttar Pradesh and Bihar",
+      "Kerala and Karnataka",
+      "Punjab and Haryana",
+      "Rajasthan and Tamil Nadu (Tinnevelly region)"
+    ],
+    "correct": 3,
+    "explanation": "Senna (Cassia angustifolia) is mainly cultivated in Rajasthan (Jodhpur area) and Tamil Nadu (Tinnevelly/Tirunelveli region), which supply most of India's senna production."
+  },
+  {
+    "id": "d281l_089",
+    "subject": "da-281",
+    "lecture": "lecture-6",
+    "lectureNo": 6,
+    "question": "Aloe vera is botanically known as:",
+    "options": [
+      "Cassia angustifolia",
+      "Withania somnifera",
+      "Aloe barbadensis",
+      "Artemisia pallens"
+    ],
+    "correct": 2,
+    "explanation": "Aloe vera is botanically Aloe barbadensis; its leaf gel is widely used in medicine and cosmetics."
+  },
+  {
+    "id": "d281l_090",
+    "subject": "da-281",
+    "lecture": "lecture-6",
+    "lectureNo": 6,
+    "question": "Which part of Ashwagandha is most commonly used in medicine?",
+    "options": [
+      "Leaves and stem",
+      "Seeds and flowers",
+      "Roots",
+      "Bark only"
+    ],
+    "correct": 2,
+    "explanation": "The roots of Ashwagandha (Withania somnifera) are the most valued medicinal part. They are dried, powdered and used in various Ayurvedic formulations."
+  },
+  {
+    "id": "d281l_091",
+    "subject": "da-281",
+    "lecture": "lecture-6",
+    "lectureNo": 6,
+    "question": "Senna pods contain the medicinal compounds called:",
+    "options": [
+      "Terpene lactones",
+      "Withanolide steroids",
+      "Bacoside alkaloids",
+      "Sennosides (anthraquinone glycosides)"
+    ],
+    "correct": 3,
+    "explanation": "Senna pods and leaves contain sennosides A and B, which are anthraquinone glycosides. These compounds are responsible for the laxative effect by stimulating bowel movement."
+  },
+  {
+    "id": "d281l_092",
+    "subject": "da-281",
+    "lecture": "lecture-6",
+    "lectureNo": 6,
+    "question": "Which medicinal plant is called 'Ghritkumari' in Hindi and is widely used in hair care?",
+    "options": [
+      "Senna",
+      "Brahmi",
+      "Aloe vera",
+      "Ashwagandha"
+    ],
+    "correct": 2,
+    "explanation": "Aloe vera is called 'Ghritkumari' in Hindi. Its gel is widely used in hair care products for promoting hair growth, reducing dandruff and conditioning hair."
+  },
+  {
+    "id": "d281l_093",
+    "subject": "da-281",
+    "lecture": "lecture-6",
+    "lectureNo": 6,
+    "question": "The agro-climatic zone best suited for Ashwagandha cultivation is:",
+    "options": [
+      "Humid tropical coastal areas in horticultural practices",
+      "High altitude temperate areas for vegetable cultivation",
+      "Semi-arid tropical and subtropical areas with sandy loam soil",
+      "Waterlogged alluvial plains in orchard management"
+    ],
+    "correct": 2,
+    "explanation": "Ashwagandha thrives in semi-arid tropical and subtropical conditions with sandy loam, well-drained soil. It is mainly grown in Rajasthan, Madhya Pradesh and Gujarat."
+  },
+  {
+    "id": "d281l_094",
+    "subject": "da-281",
+    "lecture": "lecture-6",
+    "lectureNo": 6,
+    "question": "Kalmegh (Andrographis paniculata) is used in traditional medicine primarily for:",
+    "options": [
+      "Liver protection and antimalarial activity",
+      "Hormonal regulation",
+      "Memory enhancement",
+      "Cardiac strengthening"
+    ],
+    "correct": 0,
+    "explanation": "Kalmegh (Andrographis paniculata) is used for liver disorders (hepatoprotective), fever (antimalarial/antipyretic) and as an immunostimulant. Active compound is andrographolide."
+  },
+  {
+    "id": "d281l_095",
+    "subject": "da-281",
+    "lecture": "lecture-6",
+    "lectureNo": 6,
+    "question": "Tulsi (Ocimum sanctum) belongs to the family:",
+    "options": [
+      "Lamiaceae (Labiatae)",
+      "Solanaceae",
+      "Apiaceae",
+      "Asteraceae"
+    ],
+    "correct": 0,
+    "explanation": "Tulsi (Ocimum sanctum/tenuiflorum) belongs to family Lamiaceae (Labiatae). It is the Holy Basil of India with numerous medicinal properties including antimicrobial and adaptogenic effects."
+  },
+  {
+    "id": "d281l_097",
+    "subject": "da-281",
+    "lecture": "lecture-7",
+    "lectureNo": 7,
+    "question": "The botanical name of Neem is:",
+    "options": [
+      "Melia azedarach",
+      "Pongamia pinnata",
+      "Moringa oleifera",
+      "Azadirachta indica"
+    ],
+    "correct": 3,
+    "explanation": "Neem is botanically known as Azadirachta indica, belonging to family Meliaceae. It is called the 'Village Pharmacy' of India for its wide-ranging medicinal and pesticidal properties."
+  },
+  {
+    "id": "d281l_098",
+    "subject": "da-281",
+    "lecture": "lecture-7",
+    "lectureNo": 7,
+    "question": "The main active insecticidal compound in Neem is:",
+    "options": [
+      "Limonoids only",
+      "Nimbin",
+      "Azadirachtin",
+      "Allicin"
+    ],
+    "correct": 2,
+    "explanation": "Azadirachtin is the most potent active insecticidal compound in neem seeds. It acts as an insect growth regulator disrupting molting and reproduction. Neem also contains nimbin, nimbidin and other compounds."
+  },
+  {
+    "id": "d281l_099",
+    "subject": "da-281",
+    "lecture": "lecture-7",
+    "lectureNo": 7,
+    "question": "Tulsi (Ocimum sanctum) essential oil contains mainly which compound?",
+    "options": [
+      "Eugenol",
+      "Berberine",
+      "Reserpine",
+      "Azadirachtin"
+    ],
+    "correct": 0,
+    "explanation": "Tulsi (Ocimum sanctum) essential oil contains mainly eugenol (70–80%) along with methyl eugenol, caryophyllene and other terpenoids. Eugenol has antimicrobial and anti-inflammatory properties."
+  },
+  {
+    "id": "d281l_100",
+    "subject": "da-281",
+    "lecture": "lecture-7",
+    "lectureNo": 7,
+    "question": "Senna is botanically known as:",
+    "options": [
+      "Pelargonium graveolens",
+      "Plantago ovata",
+      "Andrographis paniculata",
+      "Cassia angustifolia"
+    ],
+    "correct": 3,
+    "explanation": "Senna is Cassia angustifolia; its leaves and pods are used as a laxative/purgative."
+  },
+  {
+    "id": "d281l_101",
+    "subject": "da-281",
+    "lecture": "lecture-7",
+    "lectureNo": 7,
+    "question": "Kalmegh is botanically known as:",
+    "options": [
+      "Andrographis paniculata",
+      "Stevia rebaudiana",
+      "Bacopa monnieri",
+      "Cymbopogon martini"
+    ],
+    "correct": 0,
+    "explanation": "Kalmegh is Andrographis paniculata, known as the 'King of bitters' and used for liver disorders and fevers."
+  },
+  {
+    "id": "d281l_102",
+    "subject": "da-281",
+    "lecture": "lecture-7",
+    "lectureNo": 7,
+    "question": "Kalmegh (Andrographis paniculata) is commonly known as:",
+    "options": [
+      "Mother of Herbs",
+      "Indian Ginseng",
+      "Holy Basil",
+      "King of Bitters"
+    ],
+    "correct": 3,
+    "explanation": "Andrographis paniculata is called the 'King of Bitters' due to its extremely bitter taste from andrographolide. It is used for liver disorders, fever and as an immune booster."
+  },
+  {
+    "id": "d281l_103",
+    "subject": "da-281",
+    "lecture": "lecture-7",
+    "lectureNo": 7,
+    "question": "Neem cake (seed meal after oil extraction) is used in agriculture as:",
+    "options": [
+      "Soil acidifier",
+      "Organic nitrogen fertilizer and nematicide",
+      "Animal feed supplement",
+      "Insecticide spray material"
+    ],
+    "correct": 1,
+    "explanation": "Neem cake is the residue after extracting oil from neem seeds. It contains nitrogen (5%) and neem compounds that inhibit nitrification, control soil nematodes and soil insects."
+  },
+  {
+    "id": "d281l_104",
+    "subject": "da-281",
+    "lecture": "lecture-7",
+    "lectureNo": 7,
+    "question": "Sacred basil (Tulsi) is botanically known as:",
+    "options": [
+      "Plantago ovata",
+      "Ocimum sanctum",
+      "Aloe barbadensis",
+      "Pogostemon cablin"
+    ],
+    "correct": 1,
+    "explanation": "Sacred basil (Tulsi) is Ocimum sanctum; it is grown in tropical/subtropical areas and harvested at full bloom."
+  },
+  {
+    "id": "d281l_105",
+    "subject": "da-281",
+    "lecture": "lecture-7",
+    "lectureNo": 7,
+    "question": "Two varieties of Tulsi (Holy Basil) cultivated in India are:",
+    "options": [
+      "Rama Tulsi (green) and Shyama/Krishna Tulsi (purple)",
+      "Mountain and valley ecotypes",
+      "Sativa and indica varieties",
+      "Male and female types only"
+    ],
+    "correct": 0,
+    "explanation": "Rama Tulsi (Ocimum tenuiflorum) has green leaves and Shyama/Krishna Tulsi has dark purple leaves. Both are varieties of Holy Basil with slightly different medicinal compositions."
+  },
+  {
+    "id": "d281l_106",
+    "subject": "da-281",
+    "lecture": "lecture-7",
+    "lectureNo": 7,
+    "question": "Kalmegh (Andrographis paniculata) is popularly known as the:",
+    "options": [
+      "'Wonder Tree'",
+      "'Queen of oilseeds'",
+      "'King of bitters'",
+      "'Green Gold'"
+    ],
+    "correct": 2,
+    "explanation": "Andrographis paniculata (Kalmegh) is known as the 'King of bitters' due to its intensely bitter taste; it is used medicinally for the liver and fevers."
+  },
+  {
+    "id": "d281l_107",
+    "subject": "da-281",
+    "lecture": "lecture-7",
+    "lectureNo": 7,
+    "question": "The bark of Neem is used in Ayurveda mainly for treating:",
+    "options": [
+      "Diabetes and skin diseases",
+      "Rheumatism and blood disorders",
+      "All of the above conditions",
+      "Malaria and leprosy"
+    ],
+    "correct": 2,
+    "explanation": "Neem bark is used in Ayurveda for multiple conditions including diabetes, malaria, skin diseases, leprosy, rheumatism and blood purification. It has antipyretic, antibacterial and antifungal properties."
+  },
+  {
+    "id": "d281l_108",
+    "subject": "da-281",
+    "lecture": "lecture-7",
+    "lectureNo": 7,
+    "question": "The active compound andrographolide found in Kalmegh is known for its:",
+    "options": [
+      "Steroidal anabolic properties",
+      "Sedative and hypnotic effects",
+      "Bitter taste, hepatoprotective and immunostimulant properties",
+      "Stimulant properties only"
+    ],
+    "correct": 2,
+    "explanation": "Andrographolide is a bitter diterpenoid lactone responsible for Kalmegh's hepatoprotective (liver protecting), anti-inflammatory, antifever and immune-stimulating properties."
+  },
+  {
+    "id": "d281l_109",
+    "subject": "da-281",
+    "lecture": "lecture-7",
+    "lectureNo": 7,
+    "question": "Which of the following is a major commercial product from Neem?",
+    "options": [
+      "Neem flowers for distillation",
+      "Neem oil used as biopesticide",
+      "Neem timber for furniture",
+      "Neem fruits as food"
+    ],
+    "correct": 1,
+    "explanation": "Neem oil extracted from seeds is a major commercial product used as a biopesticide, in cosmetics, soap making and pharmaceuticals. TNAU's recommended formulation is 3% neem oil spray."
+  },
+  {
+    "id": "d281l_110",
+    "subject": "da-281",
+    "lecture": "lecture-7",
+    "lectureNo": 7,
+    "question": "Sacred basil (Ocimum sanctum) is generally ready for its first harvest in about:",
+    "options": [
+      "6 months",
+      "10 days",
+      "2 years",
+      "90-95 days after planting"
+    ],
+    "correct": 3,
+    "explanation": "Ocimum sanctum is ready for the first harvest in about 90-95 days after planting, with harvesting at full bloom being ideal."
+  },
+  {
+    "id": "d281l_111",
+    "subject": "da-281",
+    "lecture": "lecture-7",
+    "lectureNo": 7,
+    "question": "Tulsi is revered in Hinduism and is extensively used for which medicinal purposes?",
+    "options": [
+      "Pain relief and anesthesia",
+      "Anti-cancer only",
+      "Anti-stress, immune-boosting, and respiratory disorders",
+      "Anticoagulant therapy"
+    ],
+    "correct": 2,
+    "explanation": "Tulsi (Holy Basil) is used for anti-stress (adaptogenic), respiratory disorders (cough, cold, asthma), fever, immune-boosting and antimicrobial purposes in traditional Indian medicine."
+  },
+  {
+    "id": "d281l_112",
+    "subject": "da-281",
+    "lecture": "lecture-7",
+    "lectureNo": 7,
+    "question": "The part of Ashwagandha (Withania somnifera) used medicinally is the:",
+    "options": [
+      "Roots",
+      "Flowers only",
+      "Bark only",
+      "Thorns"
+    ],
+    "correct": 0,
+    "explanation": "The roots of Ashwagandha (Withania somnifera) are the main part used medicinally, as a general tonic."
+  },
+  {
+    "id": "d281l_113",
+    "subject": "da-281",
+    "lecture": "lecture-8",
+    "lectureNo": 8,
+    "question": "The botanical name of Lemongrass widely cultivated in India is:",
+    "options": [
+      "Cymbopogon nardus",
+      "Cymbopogon martinii",
+      "Cymbopogon winterianus",
+      "Cymbopogon flexuosus"
+    ],
+    "correct": 3,
+    "explanation": "East Indian Lemongrass (Malabar lemongrass) is Cymbopogon flexuosus. It is the main species cultivated in India for lemon-scented essential oil used in perfumery and food."
+  },
+  {
+    "id": "d281l_114",
+    "subject": "da-281",
+    "lecture": "lecture-8",
+    "lectureNo": 8,
+    "question": "The main chemical component of Lemongrass essential oil is:",
+    "options": [
+      "Citral (a + b)",
+      "Geraniol",
+      "Eugenol",
+      "Menthol"
+    ],
+    "correct": 0,
+    "explanation": "Lemongrass (Cymbopogon flexuosus) oil contains mainly citral (75–85%), which consists of geranial (citral-a) and neral (citral-b), responsible for its characteristic lemon aroma."
+  },
+  {
+    "id": "d281l_115",
+    "subject": "da-281",
+    "lecture": "lecture-8",
+    "lectureNo": 8,
+    "question": "Palmarosa (Cymbopogon martinii var. motia) oil is mainly composed of:",
+    "options": [
+      "Citral",
+      "Geraniol (75–95%)",
+      "Azulene",
+      "Linalool"
+    ],
+    "correct": 1,
+    "explanation": "Palmarosa oil contains 75–95% geraniol, making it valuable in perfumery and as an ingredient in rose-type fragrances. It is one of the most geraniol-rich essential oils."
+  },
+  {
+    "id": "d281l_116",
+    "subject": "da-281",
+    "lecture": "lecture-8",
+    "lectureNo": 8,
+    "question": "Lemongrass and related aromatic grasses belong to which genus?",
+    "options": [
+      "Pelargonium",
+      "Cymbopogon",
+      "Artemisia",
+      "Ocimum"
+    ],
+    "correct": 1,
+    "explanation": "Lemongrass, citronella and palmarosa all belong to the genus Cymbopogon; their essential oils are widely used in perfumery."
+  },
+  {
+    "id": "d281l_117",
+    "subject": "da-281",
+    "lecture": "lecture-8",
+    "lectureNo": 8,
+    "question": "Steam distillation is the most common method for extracting essential oils because:",
+    "options": [
+      "Steam increases oil concentration in plant",
+      "It requires no equipment or skill",
+      "It produces the highest yield of any method",
+      "It is inexpensive and preserves heat-sensitive aromatic compounds"
+    ],
+    "correct": 3,
+    "explanation": "Steam distillation is preferred because steam at relatively low temperatures (100°C) carries volatile aromatic compounds from plant material without degrading heat-sensitive components."
+  },
+  {
+    "id": "d281l_118",
+    "subject": "da-281",
+    "lecture": "lecture-8",
+    "lectureNo": 8,
+    "question": "Geranium (Pelargonium graveolens) is mainly cultivated in India at:",
+    "options": [
+      "High altitude areas of Uttarakhand and Himachal Pradesh",
+      "Semi-arid areas of Rajasthan for vegetable cultivation",
+      "Coastal lowlands of Kerala in horticultural practices",
+      "Tropical delta areas of Andhra Pradesh"
+    ],
+    "correct": 0,
+    "explanation": "Geranium (Pelargonium graveolens) is mainly cultivated in high altitude areas of Uttarakhand (Kumaon hills), Himachal Pradesh and some parts of Nilgiris at 1000–2000 m elevation."
+  },
+  {
+    "id": "d281l_119",
+    "subject": "da-281",
+    "lecture": "lecture-8",
+    "lectureNo": 8,
+    "question": "Davana (Artemisia pallens) is an aromatic plant mainly cultivated in:",
+    "options": [
+      "Assam and Meghalaya",
+      "Punjab and Haryana",
+      "Karnataka (Mysore region)",
+      "Gujarat and Rajasthan"
+    ],
+    "correct": 2,
+    "explanation": "Davana (Artemisia pallens) is mainly cultivated in Karnataka, especially in the Mysore region. The oil is used in perfumery and the flowers are used for religious purposes."
+  },
+  {
+    "id": "d281l_120",
+    "subject": "da-281",
+    "lecture": "lecture-8",
+    "lectureNo": 8,
+    "question": "Java citronella oil, considered the superior type, is obtained from:",
+    "options": [
+      "Pelargonium graveolens",
+      "Cymbopogon nardus",
+      "Cymbopogon winterianus",
+      "Artemisia pallens"
+    ],
+    "correct": 2,
+    "explanation": "Java citronella oil (the superior type) is obtained from Cymbopogon winterianus, while Ceylon citronella oil comes from Cymbopogon nardus."
+  },
+  {
+    "id": "d281l_121",
+    "subject": "da-281",
+    "lecture": "lecture-8",
+    "lectureNo": 8,
+    "question": "The essential oil yield from steam distillation of Lemongrass is approximately:",
+    "options": [
+      "8–10%",
+      "0.1–0.2%",
+      "3–5%",
+      "0.5–1.0%"
+    ],
+    "correct": 3,
+    "explanation": "Lemongrass (Cymbopogon flexuosus) yields approximately 0.5–1.0% essential oil by steam distillation of fresh leaves. Properly harvested and distilled material gives up to 0.8%."
+  },
+  {
+    "id": "d281l_122",
+    "subject": "da-281",
+    "lecture": "lecture-8",
+    "lectureNo": 8,
+    "question": "Citronella oil used as mosquito repellent is extracted from which species?",
+    "options": [
+      "Cymbopogon flexuosus",
+      "Cymbopogon martinii",
+      "Vetiveria zizanioides",
+      "Cymbopogon winterianus (Java citronella)"
+    ],
+    "correct": 3,
+    "explanation": "Java citronella oil used as a mosquito repellent is extracted from Cymbopogon winterianus (Java type). Ceylon citronella is from C. nardus. Both contain citronellal as the main component."
+  },
+  {
+    "id": "d281l_123",
+    "subject": "da-281",
+    "lecture": "lecture-8",
+    "lectureNo": 8,
+    "question": "Palmarosa is botanically known as:",
+    "options": [
+      "Ocimum sanctum",
+      "Pelargonium graveolens",
+      "Artemisia pallens",
+      "Cymbopogon martini var. motia"
+    ],
+    "correct": 3,
+    "explanation": "Palmarosa is Cymbopogon martini var. motia; its oil (rich in geraniol) is used in perfumery and soaps."
+  },
+  {
+    "id": "d281l_124",
+    "subject": "da-281",
+    "lecture": "lecture-8",
+    "lectureNo": 8,
+    "question": "The main state in India producing Lemongrass for essential oil is:",
+    "options": [
+      "Rajasthan",
+      "Kerala and Karnataka",
+      "Uttar Pradesh and Uttarakhand",
+      "Punjab"
+    ],
+    "correct": 1,
+    "explanation": "Kerala and Karnataka are the main states producing Lemongrass (Cymbopogon flexuosus) essential oil in India. CIMAP Lucknow has developed improved varieties like CKP-25."
+  },
+  {
+    "id": "d281l_125",
+    "subject": "da-281",
+    "lecture": "lecture-8",
+    "lectureNo": 8,
+    "question": "Cold pressing (expression) method of essential oil extraction is mainly used for:",
+    "options": [
+      "Root and bark materials",
+      "Grass and leaf materials",
+      "Citrus fruit peels (orange, lemon, lime)",
+      "Flower petals and buds"
+    ],
+    "correct": 2,
+    "explanation": "Cold pressing (expression) is used specifically for citrus peel oils (lemon, orange, bergamot, lime) since heat would damage the delicate citrus oil. The peel is mechanically pressed to release the oil."
+  },
+  {
+    "id": "d281l_127",
+    "subject": "da-281",
+    "lecture": "lecture-8",
+    "lectureNo": 8,
+    "question": "Solvent extraction method of essential oil is used mainly for:",
+    "options": [
+      "Grass and leaf essential oils",
+      "Root and rhizome oils",
+      "Delicate flowers like jasmine and tuberose",
+      "Citrus peel oils"
+    ],
+    "correct": 2,
+    "explanation": "Solvent extraction using hexane or petroleum ether is used for heat-sensitive flowers like jasmine, tuberose and rose where steam distillation would damage the delicate aroma compounds."
+  },
+  {
+    "id": "d281l_128",
+    "subject": "da-281",
+    "lecture": "lecture-8",
+    "lectureNo": 8,
+    "question": "The Central Institute of Medicinal and Aromatic Plants (CIMAP) is located at:",
+    "options": [
+      "Pune",
+      "Bengaluru",
+      "Lucknow",
+      "Hyderabad"
+    ],
+    "correct": 2,
+    "explanation": "CIMAP (Central Institute of Medicinal and Aromatic Plants) is located at Lucknow, Uttar Pradesh. It is an ICAR institute that conducts research on medicinal and aromatic plants."
+  },
+  {
+    "id": "d281l_129",
+    "subject": "da-281",
+    "lecture": "lecture-9",
+    "lectureNo": 9,
+    "question": "The National Forest Policy that set the goal of one-third land under forest was passed in:",
+    "options": [
+      "1988",
+      "2006",
+      "1972",
+      "1992"
+    ],
+    "correct": 0,
+    "explanation": "The National Forest Policy 1988 set the goal of bringing one-third (33⅓%) of the country's land area under forest/tree cover."
+  },
+  {
+    "id": "d281l_130",
+    "subject": "da-281",
+    "lecture": "lecture-9",
+    "lectureNo": 9,
+    "question": "CITES stands for:",
+    "options": [
+      "Convention on International Trade in Endangered Species",
+      "Committee on International Timber Export Standards",
+      "Congress on Indigenous Tree and Ecosystem Species",
+      "Centre for International Tree and Ecosystem Studies"
+    ],
+    "correct": 0,
+    "explanation": "CITES stands for Convention on International Trade in Endangered Species of Wild Fauna and Flora. It is an international agreement between governments to regulate trade in endangered species."
+  },
+  {
+    "id": "d281l_131",
+    "subject": "da-281",
+    "lecture": "lecture-9",
+    "lectureNo": 9,
+    "question": "Biodiversity hotspots in India recognized globally are:",
+    "options": [
+      "All 25 major forest divisions",
+      "Himalaya, Western Ghats–Sri Lanka, Indo-Burma, Sundaland",
+      "Himalaya, Eastern Ghats, Deccan Plateau, Thar Desert",
+      "Western Ghats and Andaman Islands only"
+    ],
+    "correct": 1,
+    "explanation": "India has four globally recognized biodiversity hotspots: the Himalaya, Western Ghats–Sri Lanka, Indo-Burma, and Sundaland (covers Nicobar Islands). These are areas of high endemism and threats."
+  },
+  {
+    "id": "d281l_132",
+    "subject": "da-281",
+    "lecture": "lecture-9",
+    "lectureNo": 9,
+    "question": "In situ conservation of plant genetic resources means:",
+    "options": [
+      "Conservation in gene banks, seed banks and botanical gardens",
+      "Conservation as dried herbarium specimens",
+      "Conservation of species in their natural habitat or ecosystem",
+      "Conservation by tissue culture in laboratories"
+    ],
+    "correct": 2,
+    "explanation": "In situ conservation means protecting species in their natural habitats (national parks, wildlife sanctuaries, biosphere reserves). Ex situ conservation is in gene banks, botanical gardens and zoos."
+  },
+  {
+    "id": "d281l_133",
+    "subject": "da-281",
+    "lecture": "lecture-9",
+    "lectureNo": 9,
+    "question": "Forest protection, as a branch of forestry, is concerned with:",
+    "options": [
+      "Marketing timber abroad",
+      "Prevention and control of damage to forests",
+      "Measuring tree height",
+      "Cooking forest foods"
+    ],
+    "correct": 1,
+    "explanation": "Forest protection is the branch concerned with activities directed towards the prevention and control of damage to forests (from fire, grazing, illicit felling, etc.)."
+  },
+  {
+    "id": "d281l_134",
+    "subject": "da-281",
+    "lecture": "lecture-9",
+    "lectureNo": 9,
+    "question": "Which of the following is a forest offence?",
+    "options": [
+      "Collecting fallen leaves with permission",
+      "Planting trees on waste land",
+      "Illegal grazing and unauthorised felling of trees",
+      "Measuring tree girth"
+    ],
+    "correct": 2,
+    "explanation": "Forest offences include deforestation in restricted areas, illegal grazing, demolition/cutting of timber, firing of trees and unauthorised removal of bark or leaves."
+  },
+  {
+    "id": "d281l_135",
+    "subject": "da-281",
+    "lecture": "lecture-9",
+    "lectureNo": 9,
+    "question": "Which of the following is the largest National Park in India?",
+    "options": [
+      "Jim Corbett National Park",
+      "Kaziranga National Park",
+      "Sundarbans National Park",
+      "Hemis National Park"
+    ],
+    "correct": 3,
+    "explanation": "Hemis National Park in Ladakh is the largest National Park in India (area ~3350 sq km), known for snow leopards. It is also the largest protected area in South Asia."
+  },
+  {
+    "id": "d281l_136",
+    "subject": "da-281",
+    "lecture": "lecture-9",
+    "lectureNo": 9,
+    "question": "Forest (Conservation) Act 1980 requires prior permission of the Central Government for:",
+    "options": [
+      "Collecting non-timber forest products",
+      "Thinning operations in forests",
+      "Scientific research in forests",
+      "Diverting forest land to non-forest uses"
+    ],
+    "correct": 3,
+    "explanation": "The Forest Conservation Act 1980 prohibits diversion of forest land for non-forest purposes (mining, construction, industries) without prior approval of the Central Government."
+  },
+  {
+    "id": "d281l_137",
+    "subject": "da-281",
+    "lecture": "lecture-9",
+    "lectureNo": 9,
+    "question": "Ex situ conservation of plant genetic resources is done in:",
+    "options": [
+      "Seed banks, tissue culture labs and botanical gardens",
+      "National Parks and Wildlife Sanctuaries",
+      "Sacred groves in horticultural practices",
+      "Community forests only for vegetable cultivation"
+    ],
+    "correct": 0,
+    "explanation": "Ex situ conservation involves maintaining species outside their natural habitat in seed banks (National Gene Bank at NBPGR New Delhi), tissue culture labs, botanical gardens and zoos."
+  },
+  {
+    "id": "d281l_138",
+    "subject": "da-281",
+    "lecture": "lecture-9",
+    "lectureNo": 9,
+    "question": "Biosphere Reserves in India are established for:",
+    "options": [
+      "Commercial forestry purposes in horticultural practices",
+      "Exclusive settlement of tribal communities for vegetable cultivation",
+      "Conservation of biodiversity including species, ecosystems and genetic diversity",
+      "Industrial development in ecologically sensitive areas"
+    ],
+    "correct": 2,
+    "explanation": "Biosphere Reserves are protected areas designated for conservation of biodiversity, sustainable use of resources and research. India has 18 Biosphere Reserves recognized by UNESCO."
+  },
+  {
+    "id": "d281l_139",
+    "subject": "da-281",
+    "lecture": "lecture-9",
+    "lectureNo": 9,
+    "question": "Sacred groves (Dev vans) in India represent:",
+    "options": [
+      "Social forestry plantations in horticultural practices",
+      "Patches of forest protected by local communities for cultural/religious reasons",
+      "Government reserved forests for vegetable cultivation",
+      "Forests reserved for timber production in orchard management"
+    ],
+    "correct": 1,
+    "explanation": "Sacred groves (Dev vans, Devaravana, Orans) are patches of forest protected by local communities due to cultural, religious or traditional beliefs. They are important for biodiversity conservation."
+  },
+  {
+    "id": "d281l_140",
+    "subject": "da-281",
+    "lecture": "lecture-9",
+    "lectureNo": 9,
+    "question": "According to forest policy, forests that clothe steep slopes and river catchments should be:",
+    "options": [
+      "Converted to housing",
+      "Cleared for agriculture",
+      "Used for mining",
+      "Protected"
+    ],
+    "correct": 3,
+    "explanation": "Forest policy states that forests clothing steep slopes and the catchments of rivers, lakes and reservoirs should be protected to prevent erosion and conserve water."
+  },
+  {
+    "id": "d281l_141",
+    "subject": "da-281",
+    "lecture": "lecture-9",
+    "lectureNo": 9,
+    "question": "Wood technology, as a branch of forestry, deals with:",
+    "options": [
+      "Structural, physical and mechanical properties of wood",
+      "Marketing of medicinal plants",
+      "Wildlife census",
+      "Soil testing"
+    ],
+    "correct": 0,
+    "explanation": "Wood technology deals with the structural, physical and mechanical properties and behaviour of wood."
+  },
+  {
+    "id": "d281l_142",
+    "subject": "da-281",
+    "lecture": "lecture-9",
+    "lectureNo": 9,
+    "question": "Vanamahotsavam (the festival of trees) is organised mainly to:",
+    "options": [
+      "Hunt wild animals",
+      "Promote mass tree planting",
+      "Auction timber",
+      "Build roads"
+    ],
+    "correct": 1,
+    "explanation": "Vanamahotsavam is the festival of trees, organised to promote mass tree planting and increase green/forest cover."
+  },
+  {
+    "id": "d281l_144",
+    "subject": "da-281",
+    "lecture": "lecture-9",
+    "lectureNo": 9,
+    "question": "ENVIS (Environmental Information System) is an initiative of which ministry?",
+    "options": [
+      "Ministry of Environment, Forest & Climate Change",
+      "Ministry of Rural Development",
+      "Ministry of Agriculture",
+      "Ministry of Science & Technology"
+    ],
+    "correct": 0,
+    "explanation": "ENVIS (Environmental Information System) is a network of information centers on environment established by the Ministry of Environment, Forest and Climate Change for dissemination of environmental information."
+  },
+  {
+    "id": "d281l_145",
+    "subject": "da-281",
+    "lecture": "lecture-10",
+    "lectureNo": 10,
+    "question": "Tendu leaves (Diospyros melanoxylon) are mainly used in India for:",
+    "options": [
+      "Wrapping bidis (hand-rolled cigarettes)",
+      "Making herbal tea and beverages",
+      "Tanning leather hides",
+      "Making traditional medicines"
+    ],
+    "correct": 0,
+    "explanation": "Tendu leaves (Diospyros melanoxylon) are called the 'Green Gold' of Central India and are primarily used as wrappers for bidis (hand-rolled cigarettes). They are the most important NTFP for tribal income."
+  },
+  {
+    "id": "d281l_146",
+    "subject": "da-281",
+    "lecture": "lecture-10",
+    "lectureNo": 10,
+    "question": "Lac is a natural resin produced by which insect?",
+    "options": [
+      "Silk worm (Bombyx mori)",
+      "Lac insect (Kerria lacca/Laccifer lacca)",
+      "Honey bee (Apis mellifera)",
+      "Cochineal insect (Dactylopius coccus)"
+    ],
+    "correct": 1,
+    "explanation": "Lac is secreted by the lac insect Kerria lacca (Laccifer lacca) that lives on various host trees. India is the world's largest producer of lac used in shellac, varnishes and lacquers."
+  },
+  {
+    "id": "d281l_147",
+    "subject": "da-281",
+    "lecture": "lecture-10",
+    "lectureNo": 10,
+    "question": "Gum karaya is exuded from which tree species?",
+    "options": [
+      "Commiphora mukul",
+      "Acacia senegal",
+      "Sterculia urens",
+      "Boswellia serrata"
+    ],
+    "correct": 2,
+    "explanation": "Gum karaya (Indian tragacanth) is the dried exudate from Sterculia urens trees found in central India. It is used as a stabilizer, thickener and emulsifier in food and pharmaceutical industries."
+  },
+  {
+    "id": "d281l_148",
+    "subject": "da-281",
+    "lecture": "lecture-10",
+    "lectureNo": 10,
+    "question": "Gum Arabic is obtained from which species?",
+    "options": [
+      "Acacia senegal",
+      "Sterculia urens",
+      "Butea monosperma",
+      "Shorea robusta"
+    ],
+    "correct": 0,
+    "explanation": "Gum Arabic is the exudate from Acacia senegal and A. seyal trees. It is used extensively in food, pharmaceuticals, ink and cosmetics. India also produces gum from Acacia nilotica."
+  },
+  {
+    "id": "d281l_149",
+    "subject": "da-281",
+    "lecture": "lecture-10",
+    "lectureNo": 10,
+    "question": "Which state of India leads in honey production?",
+    "options": [
+      "Rajasthan",
+      "Himachal Pradesh",
+      "Punjab",
+      "Uttar Pradesh"
+    ],
+    "correct": 3,
+    "explanation": "Uttar Pradesh leads in honey production in India, followed by West Bengal and Punjab. India is also one of the major honey exporters globally."
+  },
+  {
+    "id": "d281l_150",
+    "subject": "da-281",
+    "lecture": "lecture-10",
+    "lectureNo": 10,
+    "question": "NTFP (Non-Timber Forest Products) include which of the following?",
+    "options": [
+      "All forest products except timber",
+      "Round timber and sawn wood",
+      "Only firewood and charcoal",
+      "Timber and bamboo only"
+    ],
+    "correct": 0,
+    "explanation": "NTFPs include all products from forests except round timber – gum, resin, lac, honey, beeswax, tendu leaves, bamboo, grasses, roots, bark, fruits, seeds, medicinal plants and mushrooms."
+  },
+  {
+    "id": "d281l_151",
+    "subject": "da-281",
+    "lecture": "lecture-10",
+    "lectureNo": 10,
+    "question": "Mahua flowers (Madhuca latifolia/indica) are used by tribal communities mainly for:",
+    "options": [
+      "Only medicinal purposes in horticultural practices",
+      "Making liquor, food, and Mahua oil from seeds",
+      "Only in religious ceremonies in orchard management",
+      "Only as animal fodder for vegetable cultivation"
+    ],
+    "correct": 1,
+    "explanation": "Mahua (Madhuca latifolia) is a multipurpose tree providing tribal communities with flowers (for liquor, food), seeds (for Mahua oil – cooking/lighting), leaves (for plates) and bark (for medicine)."
+  },
+  {
+    "id": "d281l_152",
+    "subject": "da-281",
+    "lecture": "lecture-10",
+    "lectureNo": 10,
+    "question": "Sal resin (dhoop or sal dammar) collected from Shorea robusta is used for:",
+    "options": [
+      "Incense, varnish and caulking of boats",
+      "Food preservation in horticultural practices",
+      "Textile dyeing for vegetable cultivation",
+      "Paper making in orchard management"
+    ],
+    "correct": 0,
+    "explanation": "Sal resin (dammar) is collected from Shorea robusta by tapping the bark. It is used as incense, in varnishes, caulking of boats and in medicine as an astringent."
+  },
+  {
+    "id": "d281l_153",
+    "subject": "da-281",
+    "lecture": "lecture-10",
+    "lectureNo": 10,
+    "question": "Bamboo handicrafts as NTFPs are most prevalent in which region of India?",
+    "options": [
+      "Northeastern states of India",
+      "Northern semi-arid plains",
+      "Southern coastal plains",
+      "Western Rajasthan"
+    ],
+    "correct": 0,
+    "explanation": "Bamboo handicrafts are most prevalent in the northeastern states of India (Assam, Manipur, Tripura, Meghalaya, Nagaland) where bamboo is abundantly available and craft traditions are strong."
+  },
+  {
+    "id": "d281l_154",
+    "subject": "da-281",
+    "lecture": "lecture-10",
+    "lectureNo": 10,
+    "question": "The policy of nationalizing Tendu leaf collection in some states of India was done to:",
+    "options": [
+      "Reduce tribal income from NTFP collection",
+      "Increase government revenue from bidi industry",
+      "Eliminate middlemen and ensure fair prices for tribal collectors",
+      "Reduce the area of Tendu leaf collection"
+    ],
+    "correct": 2,
+    "explanation": "Several states (MP, Chhattisgarh, Odisha) nationalized Tendu leaf trade to eliminate exploitative middlemen, ensure minimum prices for tribal collectors and use surplus for tribal welfare."
+  },
+  {
+    "id": "d281l_156",
+    "subject": "da-281",
+    "lecture": "lecture-10",
+    "lectureNo": 10,
+    "question": "Amla (Phyllanthus emblica/Emblica officinalis) is an important NTFP collected from forests primarily for:",
+    "options": [
+      "Timber and wood products in horticultural practices",
+      "Animal feed and fodder for vegetable cultivation",
+      "Tanning of animal hides in orchard management",
+      "Vitamin C content – used in health products and Triphala"
+    ],
+    "correct": 3,
+    "explanation": "Amla is extremely rich in Vitamin C and is used in Ayurvedic medicines (Triphala, Chyawanprash), health products and Amla oil for hair care. Its collection is an important source of tribal income."
+  },
+  {
+    "id": "d281l_157",
+    "subject": "da-281",
+    "lecture": "lecture-10",
+    "lectureNo": 10,
+    "question": "The botanical name of teak is:",
+    "options": [
+      "Acacia nilotica",
+      "Eucalyptus globulus",
+      "Azadirachta indica",
+      "Tectona grandis"
+    ],
+    "correct": 3,
+    "explanation": "Teak (Tectona grandis) is a tropical hardwood known for its durability and high timber value. It is the national tree of India.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "d281l_158",
+    "subject": "da-281",
+    "lecture": "lecture-10",
+    "lectureNo": 10,
+    "question": "The word forest is derived from the Latin word:",
+    "options": [
+      "Foris meaning outside",
+      "Forestis",
+      "Foresta silva",
+      "Foresta"
+    ],
+    "correct": 0,
+    "explanation": "The word forest comes from the Latin word foris meaning outside — referring to uncultivated land outside the village boundary.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "d281l_159",
+    "subject": "da-281",
+    "lecture": "lecture-10",
+    "lectureNo": 10,
+    "question": "India's total forest cover as a percentage of its geographical area is approximately:",
+    "options": [
+      "33%",
+      "23%",
+      "15%",
+      "40%"
+    ],
+    "correct": 1,
+    "explanation": "India's forest and tree cover is approximately 23% of its total geographical area of 327.7 million hectares (75.26 lakh sq km).",
+    "difficulty": "medium"
+  },
+  {
+    "id": "d281l_160",
+    "subject": "da-281",
+    "lecture": "lecture-10",
+    "lectureNo": 10,
+    "question": "The per capita forest area in India compared to world average:",
+    "options": [
+      "India 0.11 ha vs world average 1.6 ha",
+      "India 1.6 ha vs world 0.11 ha",
+      "India 2.0 ha vs world 1.0 ha",
+      "India 0.5 ha vs world 0.5 ha"
+    ],
+    "correct": 0,
+    "explanation": "India has only 0.11 ha of forest per capita compared to the world average of 1.6 ha, showing India is far below the world average.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "d281l_161",
+    "subject": "da-281",
+    "lecture": "lecture-11",
+    "lectureNo": 11,
+    "question": "Telangana's forest cover as a percentage of its total geographical area is approximately:",
+    "options": [
+      "45.11%",
+      "25.11%",
+      "35.11%",
+      "15.11%"
+    ],
+    "correct": 1,
+    "explanation": "Telangana has a forest cover of about 25.11% (28,854 sq km) of its total geographical area.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "d281l_162",
+    "subject": "da-281",
+    "lecture": "lecture-11",
+    "lectureNo": 11,
+    "question": "Which district of Telangana has the highest forest area?",
+    "options": [
+      "Nizamabad",
+      "Khammam",
+      "Warangal",
+      "Adilabad"
+    ],
+    "correct": 1,
+    "explanation": "Khammam district has the highest forest area in Telangana at 7,945 sq km, making it the most forested district.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "d281l_163",
+    "subject": "da-281",
+    "lecture": "lecture-11",
+    "lectureNo": 11,
+    "question": "The branch of forestry that deals with the study of trees is called:",
+    "options": [
+      "Silviculture",
+      "Forest mensuration",
+      "Dendrology",
+      "Agroforestry"
+    ],
+    "correct": 2,
+    "explanation": "Dendrology is the scientific study of trees and woody plants — their identification, classification, and characteristics.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "d281l_164",
+    "subject": "da-281",
+    "lecture": "lecture-11",
+    "lectureNo": 11,
+    "question": "Silviculture in forestry refers to:",
+    "options": [
+      "Study of forest animals in orchard management for crop production",
+      "Study of forest soils in horticultural practices in agriculture",
+      "Measurement of timber volumes for vegetable cultivation",
+      "Art and science of controlling the establishment, growth, composition and quality of forests"
+    ],
+    "correct": 3,
+    "explanation": "Silviculture is the art and science of controlling the establishment, growth, composition, health, and quality of forests to meet diverse needs.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "d281l_165",
+    "subject": "da-281",
+    "lecture": "lecture-11",
+    "lectureNo": 11,
+    "question": "ASSERTION-REASON: Assertion (A): Forests play a crucial role in maintaining the water cycle. Reason (R): Trees absorb water from the soil and release it into the atmosphere through transpiration.",
+    "options": [
+      "Both A and R are true but R is not the correct explanation of A",
+      "Both A and R are true and R is the correct explanation of A",
+      "A is false but R is true",
+      "A is true but R is false"
+    ],
+    "correct": 1,
+    "explanation": "Forests maintain the water cycle through transpiration, reducing surface runoff, and promoting rainfall. R correctly explains A.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "d281l_166",
+    "subject": "da-281",
+    "lecture": "lecture-11",
+    "lectureNo": 11,
+    "question": "Match forest types (Col A) with characteristics (Col B) and examples (Col C): Col A: 1-Tropical wet evergreen, 2-Tropical dry deciduous, 3-Thorn forest, 4-Mangrove. Col B: P-coastal swampy, Q-rainfall below 75cm, R-rainfall over 200cm, S-rainfall 100-200cm. Col C: i-Sundarbans, ii-Rajasthan, iii-Western Ghats, iv-Central India",
+    "options": [
+      "1-Q-ii, 2-P-i, 3-S-iv, 4-R-iii",
+      "1-R-iii, 2-S-iv, 3-Q-ii, 4-P-i",
+      "1-P-i, 2-Q-ii, 3-R-iii, 4-S-iv",
+      "1-S-iv, 2-R-iii, 3-P-i, 4-Q-ii"
+    ],
+    "correct": 1,
+    "explanation": "Tropical wet evergreen (rainfall >200cm=Western Ghats=iii), Dry deciduous (100-200cm=Central India=iv), Thorn (<75cm=Rajasthan=ii), Mangrove (coastal=Sundarbans=i).",
+    "difficulty": "hard"
+  },
+  {
+    "id": "d281l_169",
+    "subject": "da-281",
+    "lecture": "lecture-12",
+    "lectureNo": 12,
+    "question": "Subabul (Leucaena leucocephala) is primarily used for:",
+    "options": [
+      "Only paper pulp in horticultural practices",
+      "Only timber production for vegetable cultivation",
+      "Fuelwood, fodder, and nitrogen fixation (multipurpose tree)",
+      "Only ornamental purposes in orchard management"
+    ],
+    "correct": 2,
+    "explanation": "Subabul is a multipurpose tree used for fuelwood, fodder, green manure, nitrogen fixation, and paper pulp — a key social forestry species.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "d281l_170",
+    "subject": "da-281",
+    "lecture": "lecture-12",
+    "lectureNo": 12,
+    "question": "Ashwagandha (Withania somnifera) is classified as a:",
+    "options": [
+      "Agroforestry tree",
+      "Medicinal plant",
+      "Ornamental plant",
+      "Timber tree"
+    ],
+    "correct": 1,
+    "explanation": "Ashwagandha is an important medicinal plant (adaptogen) used in Ayurveda for stress relief, strength enhancement, and immunity.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "d281l_171",
+    "subject": "da-281",
+    "lecture": "lecture-12",
+    "lectureNo": 12,
+    "question": "Aloe vera is used medicinally primarily for:",
+    "options": [
+      "Timber production in horticultural practices",
+      "Burn healing, skin care, and digestive health",
+      "Windbreak protection in orchard management",
+      "Soil nitrogen fixation for vegetable cultivation"
+    ],
+    "correct": 1,
+    "explanation": "Aloe vera (Aloe barbadensis) is a succulent medicinal plant widely used for treating burns, skin conditions, and digestive problems.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "d281l_172",
+    "subject": "da-281",
+    "lecture": "lecture-12",
+    "lectureNo": 12,
+    "question": "ASSERTION-REASON: Assertion (A): Neem is called the village pharmacy in India. Reason (R): Almost every part of neem (leaves, bark, seeds, oil) has medicinal, pesticidal, or agricultural uses.",
+    "options": [
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is false but R is true",
+      "Both A and R are true and R is the correct explanation of A",
+      "A is true but R is false"
+    ],
+    "correct": 2,
+    "explanation": "Neem is called the village pharmacy because its leaves, bark, seeds, and oil are used for medicine, biopesticides, and agriculture. R explains A.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "d281l_173",
+    "subject": "da-281",
+    "lecture": "lecture-13",
+    "lectureNo": 13,
+    "question": "Agroforestry is defined as:",
+    "options": [
+      "Cultivation of medicinal plants only in horticultural practices in agriculture",
+      "Cultivation of forest trees only for vegetable cultivation",
+      "A land use system where trees are combined with crops or livestock on the same unit of land",
+      "Growing trees in monoculture in orchard management for crop production"
+    ],
+    "correct": 2,
+    "explanation": "Agroforestry is a land use management system that combines trees with crops and/or livestock on the same land unit, providing multiple benefits.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "d281l_174",
+    "subject": "da-281",
+    "lecture": "lecture-13",
+    "lectureNo": 13,
+    "question": "Agrisilviculture refers to:",
+    "options": [
+      "Trees + livestock combination",
+      "Trees + beekeeping combination",
+      "Trees + fish farming combination",
+      "Trees + crops combination"
+    ],
+    "correct": 3,
+    "explanation": "Agrisilviculture is an agroforestry system combining trees (silvi-) with agricultural crops on the same land.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "d281l_175",
+    "subject": "da-281",
+    "lecture": "lecture-13",
+    "lectureNo": 13,
+    "question": "Silvopastoral agroforestry system combines:",
+    "options": [
+      "Trees + livestock/pasture",
+      "Trees + crops",
+      "Trees + beekeeping",
+      "Trees + fish farming"
+    ],
+    "correct": 0,
+    "explanation": "Silvopastoral combines trees (silvi-) with pasture and livestock (pastoral), providing fodder, shade, and other tree products.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "d281l_176",
+    "subject": "da-281",
+    "lecture": "lecture-13",
+    "lectureNo": 13,
+    "question": "Match agroforestry systems: Col A: 1-Agrisilviculture, 2-Silvopastoral, 3-Agrosilvopastoral, 4-Aquaforestry. Col B: P-trees+fish, Q-trees+crops+livestock, R-trees+livestock, S-trees+crops. Col C: i-paddy+fish ponds, ii-teak+paddy, iii-teak+sheep+grass, iv-teak+paddy+cattle",
+    "options": [
+      "1-R-iii, 2-S-ii, 3-P-i, 4-Q-iv",
+      "1-S-ii, 2-R-iii, 3-Q-iv, 4-P-i",
+      "1-Q-iv, 2-P-i, 3-S-ii, 4-R-iii",
+      "1-P-i, 2-Q-iv, 3-R-iii, 4-S-ii"
+    ],
+    "correct": 1,
+    "explanation": "Agrisilviculture (trees+crops=teak+paddy=ii), Silvopastoral (trees+livestock=teak+sheep=iii), Agrosilvopastoral (trees+crops+livestock=iv), Aquaforestry (trees+fish=i).",
+    "difficulty": "hard"
+  },
+  {
+    "id": "d281l_177",
+    "subject": "da-281",
+    "lecture": "lecture-13",
+    "lectureNo": 13,
+    "question": "The National Forest Policy of India recommends that _____ of total land area should be under forests:",
+    "options": [
+      "10%",
+      "20%",
+      "50%",
+      "33%"
+    ],
+    "correct": 3,
+    "explanation": "The National Forest Policy (1988) of India recommends that 33% of the total land area (including hills and mountains) should be under forest cover.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "d281l_178",
+    "subject": "da-281",
+    "lecture": "lecture-14",
+    "lectureNo": 14,
+    "question": "Social forestry in India refers to:",
+    "options": [
+      "Forestry activities only within reserved forests for vegetable cultivation",
+      "Commercial timber plantation only in horticultural practices in agriculture",
+      "Growing trees on community, government wastelands, and farm boundaries for the benefit of local communities",
+      "Forest conservation for wild animals only in orchard management for crop production"
+    ],
+    "correct": 2,
+    "explanation": "Social forestry involves growing trees on village/community land, road sides, and farm boundaries to meet local needs for fuelwood, fodder, and timber.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "d281l_179",
+    "subject": "da-281",
+    "lecture": "lecture-14",
+    "lectureNo": 14,
+    "question": "Non-Timber Forest Products (NTFPs) include:",
+    "options": [
+      "Logs and planks only in horticultural practices",
+      "Chemical fertilizers for vegetable cultivation in agriculture",
+      "Bamboo, honey, medicinal plants, gums, and resins (all non-wood products)",
+      "Heavy machinery materials in orchard management"
+    ],
+    "correct": 2,
+    "explanation": "NTFPs are all forest products other than timber — including bamboo, honey, lac, gums, resins, medicinal plants, and wild fruits.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "d281l_180",
+    "subject": "da-281",
+    "lecture": "lecture-14",
+    "lectureNo": 14,
+    "question": "Tamarind (Tamarindus indica) is used for:",
+    "options": [
+      "Paper pulp only in horticultural practices",
+      "Edible fruit, medicinal uses, and food industry (souring agent)",
+      "Timber and fuel only in orchard management",
+      "Fodder only for vegetable cultivation"
+    ],
+    "correct": 1,
+    "explanation": "Tamarind is used as a souring agent in cooking, in medicines, for jam/candy production, and its wood is used for fuel and tools.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "d281l_181",
+    "subject": "da-281",
+    "lecture": "lecture-14",
+    "lectureNo": 14,
+    "question": "ASSERTION-REASON: Assertion (A): Eucalyptus is a controversial tree for agroforestry in India. Reason (R): Eucalyptus is known to deplete groundwater and soil nutrients while providing fast growth and high biomass.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is false but R is true",
+      "A is true but R is false"
+    ],
+    "correct": 0,
+    "explanation": "Eucalyptus is controversial because while it grows fast and yields biomass, it depletes groundwater and impoverishes soil. R explains the controversy.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "d281l_182",
+    "subject": "da-281",
+    "lecture": "lecture-14",
+    "lectureNo": 14,
+    "question": "Senna (Cassia angustifolia) is an important medicinal plant used primarily as a:",
+    "options": [
+      "Wound healer",
+      "Blood pressure regulator",
+      "Natural laxative",
+      "Fever reducer"
+    ],
+    "correct": 2,
+    "explanation": "Senna leaves and pods contain sennosides which are powerful natural laxatives used in Ayurveda and modern medicine.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "d281l_183",
+    "subject": "da-281",
+    "lecture": "lecture-14",
+    "lectureNo": 14,
+    "question": "Lemongrass (Cymbopogon citratus) is grown primarily for:",
+    "options": [
+      "Timber for vegetable cultivation",
+      "Fuelwood in horticultural practices in agriculture",
+      "Essential oil used in cosmetics, food flavoring, and aromatherapy",
+      "Fodder for cattle in orchard management"
+    ],
+    "correct": 2,
+    "explanation": "Lemongrass is cultivated for its aromatic essential oil, which is used in cosmetics, food flavoring, mosquito repellents, and aromatherapy.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "d281l_184",
+    "subject": "da-281",
+    "lecture": "lecture-15",
+    "lectureNo": 15,
+    "question": "Forest mensuration deals with:",
+    "options": [
+      "Measurement of timber volume, tree height, diameter, and forest area",
+      "Study of forest diseases in horticultural practices",
+      "Planting trees in degraded areas for vegetable cultivation",
+      "Growing trees in forests in orchard management"
+    ],
+    "correct": 0,
+    "explanation": "Forest mensuration is the branch of forestry concerned with measuring timber volumes, tree dimensions, and forest area to assess forest resources.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "d281l_185",
+    "subject": "da-281",
+    "lecture": "lecture-15",
+    "lectureNo": 15,
+    "question": "Davana is botanically known as:",
+    "options": [
+      "Cymbopogon nardus",
+      "Pelargonium graveolens",
+      "Artemisia pallens",
+      "Withania somnifera"
+    ],
+    "correct": 2,
+    "explanation": "Davana is Artemisia pallens; its aromatic oil is used in perfumery and flavouring.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "d281l_186",
+    "subject": "da-281",
+    "lecture": "lecture-15",
+    "lectureNo": 15,
+    "question": "Which is a fire resistant tree species?",
+    "options": [
+      "Teak",
+      "Sal (Shorea robusta)",
+      "Bamboo",
+      "Eucalyptus"
+    ],
+    "correct": 1,
+    "explanation": "Sal (Shorea robusta) is known for its fire resistance. Teak also has some resistance, but Sal is specifically noted for withstanding forest fires.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "d281l_187",
+    "subject": "da-281",
+    "lecture": "lecture-15",
+    "lectureNo": 15,
+    "question": "ASSERTION-REASON: Assertion (A): Forests help in prevention of soil erosion. Reason (R): Tree roots bind the soil particles together and the canopy reduces the impact of rainfall on the soil surface.",
+    "options": [
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is false but R is true",
+      "Both A and R are true and R is the correct explanation of A",
+      "A is true but R is false"
+    ],
+    "correct": 2,
+    "explanation": "Forests prevent soil erosion through roots binding soil and canopy intercepting raindrops. R correctly explains the mechanism behind A.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "d281l_188",
+    "subject": "da-281",
+    "lecture": "lecture-15",
+    "lectureNo": 15,
+    "question": "Match medicinal plants: Col A: 1-Ashwagandha, 2-Aloe vera, 3-Senna, 4-Lemongrass. Col B: P-laxative, Q-skin healing, R-adaptogen, S-essential oil. Col C: i-Cymbopogon, ii-Cassia angustifolia, iii-Withania somnifera, iv-Aloe barbadensis",
+    "options": [
+      "1-R-iii, 2-Q-iv, 3-P-ii, 4-S-i",
+      "1-Q-iv, 2-S-i, 3-P-ii, 4-R-iii",
+      "1-P-ii, 2-R-iii, 3-Q-iv, 4-S-i",
+      "1-S-i, 2-P-ii, 3-R-iii, 4-Q-iv"
+    ],
+    "correct": 0,
+    "explanation": "Ashwagandha (adaptogen=Withania somnifera=iii), Aloe vera (skin healing=Aloe barbadensis=iv), Senna (laxative=Cassia=ii), Lemongrass (essential oil=Cymbopogon=i).",
+    "difficulty": "hard"
+  },
+  {
+    "id": "d281l_189",
+    "subject": "da-281",
+    "lecture": "lecture-15",
+    "lectureNo": 15,
+    "question": "Neem is botanically known as:",
+    "options": [
+      "Leucaena leucocephala",
+      "Tectona grandis",
+      "Pongamia pinnata",
+      "Azadirachta indica"
+    ],
+    "correct": 3,
+    "explanation": "Neem is Azadirachta indica (family Meliaceae), universally accepted as a 'Wonder Tree'; neem cake is rich in nitrogen and has pesticidal properties.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "d281l_190",
+    "subject": "da-281",
+    "lecture": "lecture-10",
+    "lectureNo": 10,
+    "question": "The State tree of Telangana is:",
+    "options": [
+      "Jammi tree (Prosopis cineraria)",
+      "Teak",
+      "Banyan",
+      "Neem"
+    ],
+    "correct": 0,
+    "explanation": "The Jammi tree (Prosopis cineraria), also called Shami tree, is the State tree of Telangana. It is associated with the Dussehra festival.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "d281l_191",
+    "subject": "da-281",
+    "lecture": "lecture-11",
+    "lectureNo": 11,
+    "question": "Geranium (a rose-scented aromatic plant) is botanically known as:",
+    "options": [
+      "Pelargonium graveolens",
+      "Cymbopogon martini",
+      "Artemisia pallens",
+      "Ocimum sanctum"
+    ],
+    "correct": 0,
+    "explanation": "Geranium is Pelargonium graveolens; its rose-scented essential oil is valued in perfumery.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "d281l_192",
+    "subject": "da-281",
+    "lecture": "lecture-12",
+    "lectureNo": 12,
+    "question": "Which tree is known as Green Gold due to its commercial importance?",
+    "options": [
+      "Teak",
+      "Neem",
+      "Subabul (Leucaena leucocephala)",
+      "Bamboo"
+    ],
+    "correct": 3,
+    "explanation": "Bamboo is called Green Gold because of its rapid growth, versatility, and commercial value in construction, crafts, pulp, and furniture.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "d281l_193",
+    "subject": "da-281",
+    "lecture": "lecture-13",
+    "lectureNo": 13,
+    "question": "The ideal tree for windbreaks and shelterbelts is:",
+    "options": [
+      "Teak",
+      "Eucalyptus",
+      "Bamboo",
+      "Casuarina"
+    ],
+    "correct": 3,
+    "explanation": "Casuarina (Casuarina equisetifolia) is widely used for coastal windbreaks and shelterbelts due to its fast growth and wind-tolerant nature.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "d281l_194",
+    "subject": "da-281",
+    "lecture": "lecture-14",
+    "lectureNo": 14,
+    "question": "Lac is a forest product harvested from:",
+    "options": [
+      "Secretions of lac insects on host trees",
+      "Roots of Acacia species",
+      "Leaves of teak trees",
+      "Sap of eucalyptus trees"
+    ],
+    "correct": 0,
+    "explanation": "Lac is a resinous secretion produced by the lac insect (Kerria lacca) on host trees like ber, kusum, and palash. It is an important NTFP.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "d281l_195",
+    "subject": "da-281",
+    "lecture": "lecture-15",
+    "lectureNo": 15,
+    "question": "Which of the following is a correct statement about mangrove forests?",
+    "options": [
+      "They are deciduous and shed leaves in winter in horticultural practices",
+      "They grow in coastal saline tidal areas and protect coastlines from erosion",
+      "They are found only in Himalayan regions for vegetable cultivation",
+      "They grow in dry arid conditions in orchard management"
+    ],
+    "correct": 1,
+    "explanation": "Mangroves grow in coastal intertidal zones with saline water. They protect coastlines from erosion, cyclones, and tsunamis (e.g., Sundarbans).",
+    "difficulty": "medium"
+  },
+  {
+    "id": "d281l_196",
+    "subject": "da-281",
+    "lecture": "lecture-11",
+    "lectureNo": 11,
+    "question": "ASSERTION-REASON: Assertion (A): Deforestation leads to increased carbon dioxide in the atmosphere. Reason (R): Trees absorb CO2 during photosynthesis; when trees are cut, this absorption capacity is lost and CO2 released.",
+    "options": [
+      "Both A and R are true but R is not the correct explanation of A",
+      "Both A and R are true and R is the correct explanation of A",
+      "A is false but R is true",
+      "A is true but R is false"
+    ],
+    "correct": 1,
+    "explanation": "Deforestation releases stored carbon and removes CO2-absorbing trees. R correctly explains the mechanism by which deforestation increases atmospheric CO2.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "d281l_197",
+    "subject": "da-281",
+    "lecture": "lecture-12",
+    "lectureNo": 12,
+    "question": "Match timber trees: Col A: 1-Teak, 2-Sandalwood, 3-Rosewood, 4-Sal. Col B: P-Dalbergia latifolia, Q-Shorea robusta, R-Tectona grandis, S-Santalum album. Col C: i-furniture, ii-fire resistant, iii-perfume/incense, iv-Karnataka rosewood",
+    "options": [
+      "1-Q-ii, 2-P-iv, 3-S-iii, 4-R-i",
+      "1-R-i, 2-S-iii, 3-P-iv, 4-Q-ii",
+      "1-S-iii, 2-R-i, 3-Q-ii, 4-P-iv",
+      "1-P-iv, 2-Q-ii, 3-R-i, 4-S-iii"
+    ],
+    "correct": 1,
+    "explanation": "Teak (Tectona grandis=i-furniture), Sandalwood (Santalum album=iii-perfume), Rosewood (Dalbergia latifolia=iv-Karnataka), Sal (Shorea robusta=ii-fire resistant).",
+    "difficulty": "hard"
+  },
+  {
+    "id": "d281l_198",
+    "subject": "da-281",
+    "lecture": "lecture-13",
+    "lectureNo": 13,
+    "question": "Citronella essential oil is obtained from species of which genus?",
+    "options": [
+      "Pelargonium",
+      "Cymbopogon",
+      "Withania",
+      "Tectona"
+    ],
+    "correct": 1,
+    "explanation": "Citronella oil is obtained from Cymbopogon winterianus (Java type) and Cymbopogon nardus (Ceylon type).",
+    "difficulty": "easy"
+  },
+  {
+    "id": "d281l_199",
+    "subject": "da-281",
+    "lecture": "lecture-14",
+    "lectureNo": 14,
+    "question": "Which international body monitors global forest resources and publishes the Global Forest Resources Assessment?",
+    "options": [
+      "World Bank",
+      "UNDP in horticultural practices",
+      "FAO (Food and Agriculture Organization)",
+      "UNEP for vegetable cultivation"
+    ],
+    "correct": 2,
+    "explanation": "FAO (Food and Agriculture Organization of the United Nations) publishes the Global Forest Resources Assessment periodically.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "d281l_200",
+    "subject": "da-281",
+    "lecture": "lecture-15",
+    "lectureNo": 15,
+    "question": "Karakkaya (chebulic myrobalan), a minor forest product, is botanically known as:",
+    "options": [
+      "Tectona grandis",
+      "Tamarindus indica",
+      "Terminalia chebula",
+      "Aloe barbadensis"
+    ],
+    "correct": 2,
+    "explanation": "Karakkaya / chebulic myrobalan is Terminalia chebula (family Combretaceae), valued for its tannin-rich fruits used in tanning and medicine.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "d281l_201",
+    "subject": "da-281",
+    "lecture": "lecture-1",
+    "lectureNo": 1,
+    "question": "Late blight of potato and tomato is caused by:",
+    "options": [
+      "Alternaria solani (Early blight)",
+      "Phytophthora infestans (water mould/oomycete)",
+      "Fusarium oxysporum (wilt)",
+      "Sclerotium rolfsii (collar rot)"
+    ],
+    "correct": 1,
+    "explanation": "Late blight of potato and tomato is caused by Phytophthora infestans, an oomycete (water mould). It was responsible for the Irish Potato Famine (1845-49). It thrives in cool, moist conditions. Early blight is caused by Alternaria solani. Mancozeb and metalaxyl are used for management.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "d281l_202",
+    "subject": "da-281",
+    "lecture": "lecture-1",
+    "lectureNo": 1,
+    "question": "The first National Forest Policy of India was enunciated on 19th October of which year?",
+    "options": [
+      "1894",
+      "1864",
+      "1927",
+      "1952"
+    ],
+    "correct": 0,
+    "explanation": "As per DA-281 notes: The first forest policy of India was enunciated on 19th October, 1894."
+  },
+  {
+    "id": "d281l_203",
+    "subject": "da-281",
+    "lecture": "lecture-2",
+    "lectureNo": 2,
+    "question": "The upper branchy part of a tree above the bole, comprising branches and foliage, is defined as the:",
+    "options": [
+      "Bole",
+      "Crown",
+      "Buttress",
+      "Canopy gap"
+    ],
+    "correct": 1,
+    "explanation": "As per DA-281 notes: Crown is defined as the upper branchy part of a tree above the bole comprising of branches and foliage springing from the bole."
+  },
+  {
+    "id": "d281l_204",
+    "subject": "da-281",
+    "lecture": "lecture-2",
+    "lectureNo": 2,
+    "question": "The lower portion of the stem up to the point where the main branches are given off is known as the:",
+    "options": [
+      "Crown",
+      "Taper",
+      "Bole",
+      "Buttress"
+    ],
+    "correct": 2,
+    "explanation": "As per DA-281 notes: The lower portion of the stem up to the point where the main branches are given off is known as the bole."
+  },
+  {
+    "id": "d281l_205",
+    "subject": "da-281",
+    "lecture": "lecture-3",
+    "lectureNo": 3,
+    "question": "The theory and practice of raising forest crops is known as:",
+    "options": [
+      "Sericulture",
+      "Horticulture",
+      "Olericulture",
+      "Silviculture"
+    ],
+    "correct": 3,
+    "explanation": "As per DA-281 notes: Silviculture is the theory and practice of raising forest crops."
+  },
+  {
+    "id": "d281l_206",
+    "subject": "da-281",
+    "lecture": "lecture-3",
+    "lectureNo": 3,
+    "question": "The symbiotic composite structure formed by the association of fungal hyphae with plant rootlets is called:",
+    "options": [
+      "Mycorrhiza",
+      "Rhizobium nodule",
+      "Lichen",
+      "Haustorium"
+    ],
+    "correct": 0,
+    "explanation": "As per DA-281 notes: The composite structure of fungus and invaded rootlets is called Mycorrhiza."
+  },
+  {
+    "id": "d281l_207",
+    "subject": "da-281",
+    "lecture": "lecture-4",
+    "lectureNo": 4,
+    "question": "Growing of plants for beautification of the surroundings is known as:",
+    "options": [
+      "Social forestry",
+      "Bio-aesthetic plantation",
+      "Agro-forestry",
+      "Farm forestry"
+    ],
+    "correct": 1,
+    "explanation": "As per DA-281 notes: Growing of plants for beautification of the surroundings is known as bio-aesthetic plantation."
+  },
+  {
+    "id": "d281l_208",
+    "subject": "da-281",
+    "lecture": "lecture-1",
+    "lectureNo": 1,
+    "question": "Against the world average of 1.6 hectares, the per capita forest area available in India is only about:",
+    "options": [
+      "1.0 ha",
+      "0.5 ha",
+      "0.11 ha",
+      "2.5 ha"
+    ],
+    "correct": 2,
+    "explanation": "As per DA-281 notes: As compared to the world average of 1.6 hectares per capita forest area, India has only 0.11 ha per capita forest area."
+  }
 ];

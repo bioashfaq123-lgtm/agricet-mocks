@@ -2,2103 +2,3058 @@ import { Question } from "@/types";
 
 export const da291LectureQuestions: Question[] = [
   {
-    id: "d291l_001",
-    subject: "da-291",
-    lecture: "lecture-1",
-    lectureNo: 1,
-    question: "Who gave the most widely accepted definition of Agricultural Extension?",
-    options: ["Mosher", "Daniel Mazmanian", "J.P. Leagans", "Malcolm Darling"],
-    correct: 2,
-    explanation: "J.P. Leagans (1961) gave the widely accepted definition: 'Extension is a service or system which assists farm people, through educational procedures, in improving farming methods and techniques, increasing production efficiency and income, bettering their levels of living.'"
-  },
-  {
-    id: "d291l_002",
-    subject: "da-291",
-    lecture: "lecture-1",
-    lectureNo: 1,
-    question: "The word 'Extension' in agricultural context was first used in which country?",
-    options: ["Canada", "United States of America", "United Kingdom (England)", "India"],
-    correct: 2,
-    explanation: "The term 'Extension' in an agricultural education context was first used in England in 1866â€“67 for university extension programmes run by Cambridge and Oxford universities for rural communities."
-  },
-  {
-    id: "d291l_003",
-    subject: "da-291",
-    lecture: "lecture-1",
-    lectureNo: 1,
-    question: "The primary philosophy of agricultural extension is based on which principle?",
-    options: ["Academic research dissemination without farmer feedback", "Government direction of farming practices through regulation", "Top-down transfer of technology from experts to farmers", "Bottom-up approach recognizing farmers' knowledge and building on local leadership"],
-    correct: 3,
-    explanation: "The philosophy of extension is based on grass-roots democracy, local leadership, self-help and recognizing that farmers have valuable knowledge. Extension facilitates rather than dictates."
-  },
-  {
-    id: "d291l_004",
-    subject: "da-291",
-    lecture: "lecture-1",
-    lectureNo: 1,
-    question: "How many principles of Agricultural Extension were identified by Leagans?",
-    options: ["7 principles", "12 principles", "10 principles", "5 principles"],
-    correct: 0,
-    explanation: "J.P. Leagans identified 7 principles of agricultural extension education including: interest and need of people, cultural differentiation, grass-roots organization, among others."
-  },
-  {
-    id: "d291l_005",
-    subject: "da-291",
-    lecture: "lecture-1",
-    lectureNo: 1,
-    question: "Which of the following is NOT an objective of Agricultural Extension?",
-    options: ["Develop local leadership", "Force farmers to adopt modern practices", "Improve the quality of life of rural people", "Increase farm production and income"],
-    correct: 1,
-    explanation: "Extension education never forces adoption of practices. It is a voluntary, educational process. Its objectives include improving production, income, quality of life and developing leadership."
-  },
-  {
-    id: "d291l_006",
-    subject: "da-291",
-    lecture: "lecture-1",
-    lectureNo: 1,
-    question: "Agricultural extension in India was formally started with the establishment of:",
-    options: ["ICAR in 1929", "KVK system in 1974", "National Extension Service (NES) in 1953", "T&V (Training and Visit) System in 1974"],
-    correct: 2,
-    explanation: "The National Extension Service (NES) was formally started in 1953 as part of the Community Development Programme, marking the formal beginning of organized agricultural extension in India."
-  },
-  {
-    id: "d291l_007",
-    subject: "da-291",
-    lecture: "lecture-1",
-    lectureNo: 1,
-    question: "The T&V (Training and Visit) System of agricultural extension was developed by:",
-    options: ["Daniel Benor and James Harrison (World Bank)", "J.P. Leagans in rural development programmes", "Dr. M.S. Swaminathan in extension education", "Dr. Norman Borlaug under this extension approach"],
-    correct: 0,
-    explanation: "The Training and Visit (T&V) System was developed by Daniel Benor and James Harrison with World Bank support. It was introduced in India (AP and Rajasthan) in 1974 and implemented nationwide by 1985."
-  },
-  {
-    id: "d291l_008",
-    subject: "da-291",
-    lecture: "lecture-1",
-    lectureNo: 1,
-    question: "The principle of 'Cultural Differentiation' in extension means:",
-    options: ["Teaching cultural arts alongside farming in extension education", "Using only modern cultural practices under this extension approach", "Differentiating between crop cultural practices in rural development programmes", "Recognizing and respecting the different cultural backgrounds of farm families"],
-    correct: 3,
-    explanation: "The principle of cultural differentiation recognizes that farm families differ in cultural background, values, customs and traditions. Extension programmes must respect and adapt to these differences."
-  },
-  {
-    id: "d291l_009",
-    subject: "da-291",
-    lecture: "lecture-1",
-    lectureNo: 1,
-    question: "Extension Education differs from formal education in that extension:",
-    options: ["Has no curriculum or learning objectives in extension education", "Is non-formal, voluntary, practical and aimed at solving real-life problems", "Focuses only on literacy in rural development programmes", "Is only for educated adults under this extension approach"],
-    correct: 1,
-    explanation: "Extension is non-formal education (no formal classroom, no degrees), voluntary, practical, problem-solving oriented and reaches farmers in their farms and villages throughout the year."
-  },
-  {
-    id: "d291l_010",
-    subject: "da-291",
-    lecture: "lecture-1",
-    lectureNo: 1,
-    question: "The main aim of the 'Integrated Approach' of extension is to:",
-    options: ["Focus exclusively on large farmers", "Address all aspects of rural life", "Focus only on crop production", "Integrate multiple government agencies without farmer involvement"],
-    correct: 1,
-    explanation: "The integrated approach addresses all aspects of rural life simultaneously (crop production, animal husbandry, rural health, education, credit, cooperative) in an integrated manner."
-  },
-  {
-    id: "d291l_011",
-    subject: "da-291",
-    lecture: "lecture-1",
-    lectureNo: 1,
-    question: "ATMA (Agricultural Technology Management Agency) was established to:",
-    options: ["Decentralize and integrate extension at the district level", "Manage agricultural research only in extension education", "Provide farm credit to farmers", "Replace all KVKs in India"],
-    correct: 0,
-    explanation: "ATMA was established under NATP (National Agricultural Technology Project) to decentralize and integrate extension services at the district level, bringing together all agricultural development departments."
-  },
-  {
-    id: "d291l_012",
-    subject: "da-291",
-    lecture: "lecture-1",
-    lectureNo: 1,
-    question: "The principle of 'Grass-Roots Organization' in extension means:",
-    options: ["Organization started from national/state level downward", "Forming groups of large farmers only", "Building organizations from the village level upward", "Organizing farmers only for protest activities"],
-    correct: 2,
-    explanation: "The grass-roots organization principle means building extension organizations from the village/community level (farmers, local leaders) upward, ensuring local ownership and participation."
-  },
-  {
-    id: "d291l_013",
-    subject: "da-291",
-    lecture: "lecture-1",
-    lectureNo: 1,
-    question: "Which approach of extension is based on 'whole family approach' emphasizing all family members?",
-    options: ["Project approach in extension education", "Whole family approach (Home economics approach)", "Commodity approach in rural development programmes", "Area development approach"],
-    correct: 1,
-    explanation: "The whole family approach involves all family members (men, women, youth) in extension activities, recognizing that agricultural decisions involve the entire household and not just the male farmer."
-  },
-  {
-    id: "d291l_014",
-    subject: "da-291",
-    lecture: "lecture-1",
-    lectureNo: 1,
-    question: "Communication in extension education involves which elements (Berlo's SMCR model)?",
-    options: ["Sender, Media, Content, Result", "Subject, Method, Content, Reaction", "Source, Message, Channel, Receiver", "Signal, Method, Coverage, Response"],
-    correct: 2,
-    explanation: "Berlo's SMCR model of communication in extension includes: Source (sender/extension worker), Message (technical information), Channel (method used) and Receiver (farmer/audience)."
-  },
-  {
-    id: "d291l_015",
-    subject: "da-291",
-    lecture: "lecture-1",
-    lectureNo: 1,
-    question: "What is the full form of SAU in the context of Indian agricultural education and extension?",
-    options: ["State Authority for Uplift", "State Agricultural University", "Special Agriculture Unit", "State Agriculture Unit"],
-    correct: 1,
-    explanation: "SAU stands for State Agricultural University. These institutions conduct research, education and extension activities in their respective states. India has 74 SAUs and 5 Deemed Universities."
-  },
-  {
-    id: "d291l_016",
-    subject: "da-291",
-    lecture: "lecture-1",
-    lectureNo: 1,
-    question: "The concept of 'sustainable development' in extension education means:",
-    options: ["Only economic development of farmers in extension education in agriculture", "State-funded development without farmer contribution in rural development programmes", "Development of sustainable irrigation systems only under this extension approach for crop production", "Development that meets present needs without compromising future generations' ability to meet their needs"],
-    correct: 3,
-    explanation: "Sustainable development (Brundtland Commission 1987 definition) means development that meets the needs of present generations without compromising future generations' ability to meet their own needs."
-  },
-  {
-    id: "d291l_017",
-    subject: "da-291",
-    lecture: "lecture-2",
-    lectureNo: 2,
-    question: "A 'Farm Visit' as an extension method involves:",
-    options: ["Farmer visiting the extension office", "Scientists visiting international farms", "Multiple farmers visiting an experiment station", "Extension worker visiting the farmer's field/home"],
-    correct: 3,
-    explanation: "Farm visit is an individual extension method where the extension worker visits the farmer's field or home to advise on specific problems, build personal rapport and observe farm conditions."
-  },
-  {
-    id: "d291l_018",
-    subject: "da-291",
-    lecture: "lecture-2",
-    lectureNo: 2,
-    question: "The main advantage of 'Office Call' as an extension method is:",
-    options: ["Messages can reach large audiences simultaneously in extension education", "Better demonstrations can be given on farm in rural development programmes", "Saves extension worker's travel time and multiple farmers can be served", "Extension worker can see actual farm conditions under this extension approach"],
-    correct: 2,
-    explanation: "Office call (farmer visiting extension office) saves the extension worker's travel time, allows handling multiple farmers in one location and provides access to reference materials and exhibits."
-  },
-  {
-    id: "d291l_019",
-    subject: "da-291",
-    lecture: "lecture-2",
-    lectureNo: 2,
-    question: "A 'Result Demonstration' shows farmers:",
-    options: ["How to do a specific operation correctly (method) in extension education", "A laboratory experiment under controlled conditions in rural development programmes", "Government-sponsored model farms under this extension approach", "The results and benefits of adopting a new practice compared to old practice"],
-    correct: 3,
-    explanation: "A result demonstration shows the results (yield, income) obtained by adopting a new practice compared to the traditional/old practice side by side on a farmer's field."
-  },
-  {
-    id: "d291l_020",
-    subject: "da-291",
-    lecture: "lecture-2",
-    lectureNo: 2,
-    question: "A 'Method Demonstration' is used to teach farmers:",
-    options: ["The final results of adopting new technology", "About government schemes and subsidies", "How to perform a specific skill or operation (step-by-step)", "The economic benefits of new practices"],
-    correct: 2,
-    explanation: "Method demonstration teaches HOW to do something (e.g., how to apply fertilizer, how to do T-budding) step-by-step through a live demonstration. It builds skills in farmers."
-  },
-  {
-    id: "d291l_021",
-    subject: "da-291",
-    lecture: "lecture-2",
-    lectureNo: 2,
-    question: "Personal letter as an extension method is most effective for communicating with:",
-    options: ["Illiterate farmers in mass", "Literate progressive farmers with specific questions", "Only women farmers", "All farmers simultaneously"],
-    correct: 1,
-    explanation: "Personal letter is suitable for literate progressive farmers or farmer leaders who have specific technical queries. It provides personalized response but requires literacy and time."
-  },
-  {
-    id: "d291l_022",
-    subject: "da-291",
-    lecture: "lecture-2",
-    lectureNo: 2,
-    question: "The main limitation of individual extension methods (farm visits, office calls) is:",
-    options: ["Farmers cannot ask questions or interact in extension education", "They are very cheap and unlimited in scale under this extension approach", "They are very effective for technology transfer in rural development programmes", "They can reach only a limited number of farmers at one time"],
-    correct: 3,
-    explanation: "The main limitation of individual methods is low reach â€“ only one or a few farmers can be reached at one time. Extension workers with large jurisdictions cannot visit all farmers regularly."
-  },
-  {
-    id: "d291l_023",
-    subject: "da-291",
-    lecture: "lecture-2",
-    lectureNo: 2,
-    question: "The frequency of farm visits recommended under the T&V system is:",
-    options: ["Annual visits to each farmer", "Every 14 days (fortnightly) to contact farmers", "Monthly visits only", "Daily visits to each farm"],
-    correct: 1,
-    explanation: "Under the Training and Visit (T&V) system, extension workers (Village Level Workers) are required to make contact visits to farmers every 14 days (fortnightly) following a fixed schedule."
-  },
-  {
-    id: "d291l_024",
-    subject: "da-291",
-    lecture: "lecture-2",
-    lectureNo: 2,
-    question: "Telephone/mobile phone as an extension method is classified as:",
-    options: ["Individual method (one-to-one communication)", "Audio-visual method", "Mass media method", "Group method"],
-    correct: 0,
-    explanation: "Telephone/mobile calls are individual extension methods providing one-to-one direct communication between extension worker and farmer. mKisan portal uses SMS as a mass method."
-  },
-  {
-    id: "d291l_025",
-    subject: "da-291",
-    lecture: "lecture-2",
-    lectureNo: 2,
-    question: "Which individual method provides farmers with written, lasting reference material?",
-    options: ["Method demonstration", "Farm visit", "Group meeting", "Personal letter and circulars"],
-    correct: 3,
-    explanation: "Personal letters, circulars and leaflets provide farmers with written, lasting reference material they can read at leisure, share with others and refer back to when needed."
-  },
-  {
-    id: "d291l_026",
-    subject: "da-291",
-    lecture: "lecture-2",
-    lectureNo: 2,
-    question: "A 'Contact Farmer' in the T&V extension system is:",
-    options: ["A progressive farmer who receives information and passes it to neighbors", "A farmer who contacts scientists directly in rural development programmes", "A government agricultural department employee in extension education", "The extension officer at district level under this extension approach"],
-    correct: 0,
-    explanation: "In the T&V system, contact farmers (progressive farmers) receive fortnightly training from VEW (Village Extension Worker) and are expected to share this information with 8â€“10 neighboring farmers."
-  },
-  {
-    id: "d291l_027",
-    subject: "da-291",
-    lecture: "lecture-2",
-    lectureNo: 2,
-    question: "Instructional aids that provide learning through hearing only are called:",
-    options: ["Audio aids", "Visual aids", "Audio-visual aids", "Edible aids"],
-    correct: 0,
-    explanation: "Audio aids (e.g. radio, audio recordings) provide learning through hearing; visual aids through seeing; audio-visual aids through both hearing and watching."
-  },
-  {
-    id: "d291l_028",
-    subject: "da-291",
-    lecture: "lecture-2",
-    lectureNo: 2,
-    question: "Which of the following is the most effective individual extension method for skill building?",
-    options: ["Method demonstration", "Personal letter", "Farm visit (informational only)", "Office call"],
-    correct: 0,
-    explanation: "Method demonstration is the most effective for building skills because farmers watch and practice the skill hands-on. It follows the principle 'I do, you watch; you do, I watch.'"
-  },
-  {
-    id: "d291l_029",
-    subject: "da-291",
-    lecture: "lecture-2",
-    lectureNo: 2,
-    question: "In Edgar Dale's Cone of Experience, the most concrete (effective) learning experiences are placed at the:",
-    options: ["Top of the cone (verbal symbols)", "Base of the cone (direct, purposeful experience)", "Outside the cone", "Centre as printed words"],
-    correct: 1,
-    explanation: "In Edgar Dale's Cone of Experience, direct purposeful (concrete) experiences are at the base and abstract verbal symbols at the apex; learning is more effective with concrete experiences."
-  },
-  {
-    id: "d291l_030",
-    subject: "da-291",
-    lecture: "lecture-2",
-    lectureNo: 2,
-    question: "The concept of 'Opinion Leader' in extension is a person who:",
-    options: ["Opposes all new agricultural practices", "Is always the village political leader", "Influences others' opinions and behavior in a community", "Is the wealthiest farmer in the village"],
-    correct: 2,
-    explanation: "An opinion leader is a person whose opinions and behaviors others in the community look to for guidance. They may or may not be the formal leader. They are key change agents in extension."
-  },
-  {
-    id: "d291l_031",
-    subject: "da-291",
-    lecture: "lecture-2",
-    lectureNo: 2,
-    question: "The 'Individual Approach' of extension has the highest impact on adoption because:",
-    options: ["It is the cheapest method of extension", "It is personalized, builds trust and addresses specific farmer problems", "It reaches the largest number of farmers simultaneously", "It requires no extension worker skill"],
-    correct: 1,
-    explanation: "Individual methods have highest adoption impact because they are personalized, build trust between extension worker and farmer, and address specific problems of individual farmers on their farms."
-  },
-  {
-    id: "d291l_032",
-    subject: "da-291",
-    lecture: "lecture-2",
-    lectureNo: 2,
-    question: "Which individual extension method is most appropriate for emergency advisory during pest/disease outbreak?",
-    options: ["Radio broadcast (mass media)", "Farm visit or telephone (immediate one-to-one advice)", "Personal letter (written communication)", "Result demonstration (takes a full season)"],
-    correct: 1,
-    explanation: "During pest or disease emergencies, immediate individual contact (farm visit or telephone) provides timely, specific and actionable advice to the affected farmer."
-  },
-  {
-    id: "d291l_033",
-    subject: "da-291",
-    lecture: "lecture-3",
-    lectureNo: 3,
-    question: "A 'Kisan Mela' (Farmer Fair/Agricultural Exhibition) is an example of which type of extension method?",
-    options: ["Individual method", "Mass contact method", "Group method", "Research method"],
-    correct: 1,
-    explanation: "Kisan Mela is a mass contact method that reaches thousands of farmers at one time by combining demonstrations, exhibitions, competitions and entertainment related to agriculture."
-  },
-  {
-    id: "d291l_034",
-    subject: "da-291",
-    lecture: "lecture-3",
-    lectureNo: 3,
-    question: "Which government television channel in India is exclusively dedicated to agriculture?",
-    options: ["DD Sports", "DD News", "Doordarshan Kisan (DD Kisan)", "DD National"],
-    correct: 2,
-    explanation: "DD Kisan (Doordarshan Kisan) is a 24Ã—7 satellite TV channel launched in 2015 exclusively for farmers, providing agricultural information, crop advice, market prices and weather forecasts."
-  },
-  {
-    id: "d291l_035",
-    subject: "da-291",
-    lecture: "lecture-3",
-    lectureNo: 3,
-    question: "A 'Field Day' in extension education involves:",
-    options: ["Online virtual agricultural exhibitions", "Farmers visiting demonstration plots to observe results", "Extension workers visiting farmers individually", "Mass media broadcasting of farming information"],
-    correct: 1,
-    explanation: "Field Day (Farmers' Day) brings groups of farmers to visit result demonstration plots to observe results, ask questions and interact with scientists and progressive farmers who conducted the demonstration."
-  },
-  {
-    id: "d291l_036",
-    subject: "da-291",
-    lecture: "lecture-3",
-    lectureNo: 3,
-    question: "Radio is preferred as an extension mass media method because it:",
-    options: ["Provides visual information to farmers in extension education", "Requires electricity always in rural development programmes", "Is very expensive and reaches few farmers under this extension approach", "Is cheap, reaches remote areas and can be used by illiterate farmers"],
-    correct: 3,
-    explanation: "Radio is widely used in extension because it is inexpensive, reaches remote and electrification-lacking areas and can be accessed by illiterate farmers. Farm and Home broadcast programmes are popular."
-  },
-  {
-    id: "d291l_037",
-    subject: "da-291",
-    lecture: "lecture-3",
-    lectureNo: 3,
-    question: "What is a 'Village Meeting' in extension and how often should it be held?",
-    options: ["Meeting of all farmers in a village for agricultural advisory, monthly or as needed", "Annual general body meeting for cooperative societies in extension education", "Meeting of farmers with bank officials only in rural development programmes", "Meeting of panchayat officials only, annually under this extension approach"],
-    correct: 0,
-    explanation: "A village meeting (Gram Sabha or informal village meeting) is a group extension method where all farmers in a village gather to discuss agricultural problems and receive advisory. Frequency varies with need."
-  },
-  {
-    id: "d291l_038",
-    subject: "da-291",
-    lecture: "lecture-3",
-    lectureNo: 3,
-    question: "Social media platforms like WhatsApp and YouTube are classified as which extension method type?",
-    options: ["Group method only", "Traditional mass media", "Individual method only", "New media / ICT-based extension method"],
-    correct: 3,
-    explanation: "Social media (WhatsApp groups, YouTube, Facebook) are ICT-based new media extension methods that can simultaneously serve as individual, group and mass contact methods depending on usage."
-  },
-  {
-    id: "d291l_039",
-    subject: "da-291",
-    lecture: "lecture-3",
-    lectureNo: 3,
-    question: "Farmers' Clubs (Krishak Clubs) organized under extension are meant to:",
-    options: ["Organize political activities in villages under this extension approach", "Only manage irrigation systems in extension education", "Provide only credit to farmers in rural development programmes", "Create a forum for group discussion, learning and collective action among farmers"],
-    correct: 3,
-    explanation: "Farmers' Clubs/Krishak Clubs create forums for collective discussion of agricultural problems, sharing of experiences, adoption of new practices, group demonstrations and accessing services collectively."
-  },
-  {
-    id: "d291l_040",
-    subject: "da-291",
-    lecture: "lecture-3",
-    lectureNo: 3,
-    question: "The main advantage of group extension methods over individual methods is:",
-    options: ["More farmers can be reached with less time and cost", "Higher quality of advice per farmer in extension education", "Better understanding by each individual farmer in rural development programmes", "No travel needed by extension worker under this extension approach"],
-    correct: 0,
-    explanation: "Group methods reach more farmers at one time compared to individual methods, making extension more cost-effective and time-efficient, though with somewhat less personalization."
-  },
-  {
-    id: "d291l_041",
-    subject: "da-291",
-    lecture: "lecture-3",
-    lectureNo: 3,
-    question: "mKisan SMS portal is used to:",
-    options: ["Send personalized SMS advisories on agriculture to registered farmers", "Provide farm loans to mobile phone holders", "Connect farmers with urban consumers directly", "Track farmer activity for government surveys"],
-    correct: 0,
-    explanation: "mKisan portal (mKisan.gov.in) sends crop-specific, location-specific SMS advisories, weather alerts and market information directly to registered farmers' mobile phones in their local language."
-  },
-  {
-    id: "d291l_042",
-    subject: "da-291",
-    lecture: "lecture-3",
-    lectureNo: 3,
-    question: "An 'Exhibition' as a mass extension method is most effective for:",
-    options: ["Resolving individual farm problems in extension education", "Providing personalized farm advice in rural development programmes", "Training farmers in specific skills under this extension approach", "Displaying new varieties, technology and products to large numbers of farmers"],
-    correct: 3,
-    explanation: "Agricultural exhibitions display new varieties, implements, technologies, successful models and success stories, reaching large numbers of farmers simultaneously to create awareness and interest."
-  },
-  {
-    id: "d291l_043",
-    subject: "da-291",
-    lecture: "lecture-3",
-    lectureNo: 3,
-    question: "The last category of farmers to adopt a new practice are called:",
-    options: ["Innovators", "Laggards", "Early adopters", "Early majority"],
-    correct: 1,
-    explanation: "Laggards are the last to adopt an innovation - they are traditional and the most resistant to change among the adopter categories."
-  },
-  {
-    id: "d291l_044",
-    subject: "da-291",
-    lecture: "lecture-3",
-    lectureNo: 3,
-    question: "Newspapers as an extension mass media method have the limitation that they:",
-    options: ["Are more effective than radio in remote areas", "Cannot carry technical agricultural information in extension education", "Are too expensive to publish in rural development programmes", "Can only reach literate farmers and those in areas with distribution"],
-    correct: 3,
-    explanation: "Newspapers can only reach literate farmers and are limited to areas where distribution is available. In India, where rural literacy is not universal and distribution is uneven, this limits their extension reach."
-  },
-  {
-    id: "d291l_045",
-    subject: "da-291",
-    lecture: "lecture-3",
-    lectureNo: 3,
-    question: "The five 'S' principles for effective method demonstrations are:",
-    options: ["Simple, Specific, Significant, Supervised, Successful", "Show, State, Supervise, Support, Summarize", "Slow, Simple, Supervised, Standard, Systematic", "Scale, Speed, Skill, Standard, Show"],
-    correct: 0,
-    explanation: "Effective demonstrations should be: Simple (easy to understand), Specific (one thing at a time), Significant (important to farmers), Supervised (properly guided) and Successful (achieve expected result)."
-  },
-  {
-    id: "d291l_046",
-    subject: "da-291",
-    lecture: "lecture-3",
-    lectureNo: 3,
-    question: "Puppet shows (Harikatha, street plays) used in extension in rural India are classified as:",
-    options: ["Individual extension methods", "Traditional/folk media methods of extension", "Electronic mass media", "Scientific demonstration methods"],
-    correct: 1,
-    explanation: "Traditional/folk media (puppet shows, harikatha, burrakatha, street plays, folk songs) are culturally familiar ways to communicate agricultural messages in entertaining, memorable ways to rural communities."
-  },
-  {
-    id: "d291l_047",
-    subject: "da-291",
-    lecture: "lecture-3",
-    lectureNo: 3,
-    question: "A 'Group Discussion' in extension is most appropriate when:",
-    options: ["Information must reach millions simultaneously", "Technical training in a new skill is needed", "A single expert needs to deliver a lecture", "Farmers need to share experiences and arrive at solutions collectively"],
-    correct: 3,
-    explanation: "Group discussion is most appropriate when farmers need to share experiences, analyze problems and arrive at collective solutions. It promotes active participation and peer learning."
-  },
-  {
-    id: "d291l_048",
-    subject: "da-291",
-    lecture: "lecture-3",
-    lectureNo: 3,
-    question: "Leadership in which the leader takes all decisions himself without consulting the group is called:",
-    options: ["Laissez-faire leadership", "Democratic leadership", "Autocratic leadership", "Bureaucratic leadership"],
-    correct: 2,
-    explanation: "In autocratic (authoritarian) leadership the leader takes decisions alone; in democratic leadership decisions are taken with group participation."
-  },
-  {
-    id: "d291l_049",
-    subject: "da-291",
-    lecture: "lecture-4",
-    lectureNo: 4,
-    question: "The lowest tier (village level) of the three-tier Panchayat Raj system is the:",
-    options: ["State Assembly", "Mandal/Block Panchayat", "Zilla Parishad", "Gram Panchayat"],
-    correct: 3,
-    explanation: "The Panchayat Raj system has three tiers: Gram Panchayat (village), Mandal/Block Panchayat (intermediate) and Zilla Parishad (district)."
-  },
-  {
-    id: "d291l_050",
-    subject: "da-291",
-    lecture: "lecture-4",
-    lectureNo: 4,
-    question: "FLD (Front Line Demonstration) is conducted by:",
-    options: ["Scientists/extension workers on farmers' fields with frontline technology", "Only ICAR research stations in extension education", "Individual farmers on their own initiative", "International agricultural organizations in rural development programmes"],
-    correct: 0,
-    explanation: "Front Line Demonstrations (FLDs) are conducted by scientists of ICAR/SAU on farmers' fields using frontline (latest) technology to demonstrate its superiority over farmers' practice, filling the yield gap."
-  },
-  {
-    id: "d291l_051",
-    subject: "da-291",
-    lecture: "lecture-4",
-    lectureNo: 4,
-    question: "In extension programme planning, a 'project' refers to:",
-    options: ["A single farmer's field", "The entire national plan", "A specific activity undertaken to achieve a defined objective", "A printed leaflet"],
-    correct: 2,
-    explanation: "A project is a specific, time-bound activity or set of activities undertaken to achieve a defined objective within the broader extension programme."
-  },
-  {
-    id: "d291l_052",
-    subject: "da-291",
-    lecture: "lecture-4",
-    lectureNo: 4,
-    question: "A sound extension programme should be based on an analysis of the:",
-    options: ["Urban market only", "Wishes of the extension officer alone", "Random guesses", "Facts of the situation and the people's needs"],
-    correct: 3,
-    explanation: "A principle of programme planning is that the programme must be based on an analysis of the facts of the situation and the felt needs of the people."
-  },
-  {
-    id: "d291l_053",
-    subject: "da-291",
-    lecture: "lecture-4",
-    lectureNo: 4,
-    question: "IVLP (Integrated Village Linkage Programme) was designed to:",
-    options: ["Integrate different crops in a village in rural development programmes", "Link irrigation villages to watershed programmes in extension education", "Assess location-specific technology on multi-location trials in villages before scaling", "Link villages to urban markets only under this extension approach"],
-    correct: 2,
-    explanation: "IVLP was designed to assess location-specific technologies through on-farm trials in villages with farmer participation, providing feedback to researchers on technology suitability before wider promotion."
-  },
-  {
-    id: "d291l_054",
-    subject: "da-291",
-    lecture: "lecture-4",
-    lectureNo: 4,
-    question: "In the three-tier Panchayat Raj system, the district-level body is the:",
-    options: ["Zilla Parishad", "Gram Panchayat", "Mandal Parishad", "Gram Sabha"],
-    correct: 0,
-    explanation: "The Zilla Parishad is the district-level (apex) tier of the three-tier Panchayat Raj system, above the Mandal Parishad and Gram Panchayat."
-  },
-  {
-    id: "d291l_055",
-    subject: "da-291",
-    lecture: "lecture-4",
-    lectureNo: 4,
-    question: "ATMA (Agricultural Technology Management Agency), an extension reform, mainly aims to:",
-    options: ["Fix minimum support prices", "Decentralise and integrate extension at the district level", "Build national highways", "Run commercial banks"],
-    correct: 1,
-    explanation: "ATMA is an extension reform that decentralises and integrates agricultural extension at the district level, promoting bottom-up, farmer-driven and market-led extension."
-  },
-  {
-    id: "d291l_056",
-    subject: "da-291",
-    lecture: "lecture-4",
-    lectureNo: 4,
-    question: "The 'yield gap' in agricultural extension refers to:",
-    options: ["Difference between rabi and kharif yields", "Difference between different crop yields", "Gap between research potential yield and farmers' actual yield", "Gap between rich and poor farmer yields"],
-    correct: 2,
-    explanation: "Yield gap = difference between research (potential) yield and farmer's actual field yield. FLDs aim to fill this gap by demonstrating best practices that increase farmers' productivity."
-  },
-  {
-    id: "d291l_057",
-    subject: "da-291",
-    lecture: "lecture-4",
-    lectureNo: 4,
-    question: "Innovators in Rogers' diffusion model are characterized by:",
-    options: ["Being risk-averse and waiting for proven results", "Opposing all new agricultural technologies in extension education", "Being venturesome, educated, financially able and having wide social networks", "Being the largest group in any community"],
-    correct: 2,
-    explanation: "Innovators (2.5%) are venturesome, educated, financially strong, have cosmopolite social networks (beyond local community) and can absorb failure of a new technology they try."
-  },
-  {
-    id: "d291l_058",
-    subject: "da-291",
-    lecture: "lecture-4",
-    lectureNo: 4,
-    question: "'Evaluation' in extension is essentially the process of:",
-    options: ["Determining the extent to which objectives have been achieved", "Collecting taxes from farmers", "Printing more leaflets", "Electing village leaders"],
-    correct: 0,
-    explanation: "Evaluation is the process of determining the extent to which the objectives of an extension programme have been achieved, so that improvements can be made."
-  },
-  {
-    id: "d291l_059",
-    subject: "da-291",
-    lecture: "lecture-4",
-    lectureNo: 4,
-    question: "The 'Relative Advantage' factor that influences technology adoption means:",
-    options: ["The degree to which innovation is perceived as better than the idea it supersedes", "Advantage of one crop over another in extension education", "Farmers' social status relative to neighbors in rural development programmes", "The cost advantage for rich farmers over poor under this extension approach"],
-    correct: 0,
-    explanation: "Relative advantage is one of Rogers' 5 characteristics of innovations: the degree to which a new technology is perceived to be better (more profitable, easier, superior) than what it replaces."
-  },
-  {
-    id: "d291l_060",
-    subject: "da-291",
-    lecture: "lecture-4",
-    lectureNo: 4,
-    question: "The other 4 characteristics of innovations (besides Relative Advantage) that influence adoption rate are:",
-    options: ["Compatibility, Complexity, Trialability, Observability", "Size, Color, Taste, Smell", "Cost, Availability, Government support, Media coverage", "Location, Climate, Soil type, Market access"],
-    correct: 0,
-    explanation: "Rogers' 5 characteristics affecting adoption rate: Relative Advantage, Compatibility (with existing values/practices), Complexity (difficulty of use), Trialability (can be tried on small scale) and Observability (visible results)."
-  },
-  {
-    id: "d291l_061",
-    subject: "da-291",
-    lecture: "lecture-4",
-    lectureNo: 4,
-    question: "ATMA (Agricultural Technology Management Agency) operates at which level?",
-    options: ["National level (ICAR)", "State level (Agriculture Department)", "District level", "Village/Gram Panchayat level"],
-    correct: 2,
-    explanation: "ATMA operates at the district level and is chaired by the District Collector. It integrates all line departments of agriculture (including livestock, fisheries, horticulture) for unified extension."
-  },
-  {
-    id: "d291l_062",
-    subject: "da-291",
-    lecture: "lecture-4",
-    lectureNo: 4,
-    question: "The difference between 'Laggards' and 'Late Majority' in Rogers' adoption categories is:",
-    options: ["Laggards are younger than Late Majority under this extension approach for crop production", "No significant difference between the two in extension education in agriculture", "Laggards adopt faster than Late Majority in rural development programmes", "Laggards have tradition-bound orientation and adopt last or never; Late Majority are skeptical but adopt after majority"],
-    correct: 3,
-    explanation: "Late Majority (34%) adopt after the average member of society, being skeptical and needing social pressure. Laggards (16%) are tradition-bound, suspicious of change and may never fully adopt."
-  },
-  {
-    id: "d291l_063",
-    subject: "da-291",
-    lecture: "lecture-4",
-    lectureNo: 4,
-    question: "Under the Farmers First Programme (FFP) of ICAR, the focus is on:",
-    options: ["Scientists conducting research only in extension education", "Farmer-scientist partnerships for technology development with farmer needs at center", "Government control of technology development in rural development programmes", "International collaboration for technology import under this extension approach"],
-    correct: 1,
-    explanation: "Farmers First Programme (FFP) of ICAR focuses on farmer-scientist partnerships where farmers' needs drive the research agenda, and scientists work closely with farmers in technology development and testing."
-  },
-  {
-    id: "d291l_064",
-    subject: "da-291",
-    lecture: "lecture-4",
-    lectureNo: 4,
-    question: "Which Indian programme linked village adoption of new agricultural technology with the 'package of practices'?",
-    options: ["T&V System", "Community Development Programme", "National Extension Service 1953", "Intensive Agricultural District Programme (IADP)"],
-    correct: 3,
-    explanation: "The Intensive Agricultural District Programme (IADP â€“ 1961) was the first concentrated attempt to introduce a 'package of improved practices' to selected progressive districts for rapid technology adoption."
-  },
-  {
-    id: "d291l_065",
-    subject: "da-291",
-    lecture: "lecture-5",
-    lectureNo: 5,
-    question: "Rural Sociology as a discipline was first formally recognized as an academic field in:",
-    options: ["Germany", "United States of America", "England", "France"],
-    correct: 1,
-    explanation: "Rural Sociology as a formal academic discipline developed in the United States, with the first Department of Rural Sociology established at Cornell University in 1911."
-  },
-  {
-    id: "d291l_066",
-    subject: "da-291",
-    lecture: "lecture-5",
-    lectureNo: 5,
-    question: "The characteristics of rural communities in India include:",
-    options: ["High population density, nuclear families, anonymous relationships", "Formal governance only, industrialized economy", "Uniform culture across all rural areas", "Low density, extended families, strong community ties, agriculture-based economy"],
-    correct: 3,
-    explanation: "Rural communities in India are characterized by low population density, joint/extended families, strong kinship ties, face-to-face relationships, agriculture-based economy, caste-based social structure and strong traditions."
-  },
-  {
-    id: "d291l_067",
-    subject: "da-291",
-    lecture: "lecture-5",
-    lectureNo: 5,
-    question: "Primary social groups in rural sociology are characterized by:",
-    options: ["Large size, formal rules and impersonal relationships", "Geographical dispersion and virtual interaction", "Temporary membership and contractual relationships", "Small size, intimate face-to-face relationships and lasting bonds"],
-    correct: 3,
-    explanation: "Primary groups (C.H. Cooley's concept) are small, intimate groups with face-to-face interaction, emotional bonds and lasting relationships. Family and close friendship groups are primary groups."
-  },
-  {
-    id: "d291l_068",
-    subject: "da-291",
-    lecture: "lecture-5",
-    lectureNo: 5,
-    question: "The caste system in rural India is primarily a form of:",
-    options: ["Economic class division only in extension education", "Stratification based on hereditary occupational and social hierarchy", "Racial classification in rural development programmes", "Religious affiliation only under this extension approach"],
-    correct: 1,
-    explanation: "The caste system is a form of social stratification based on heredity that classifies Hindus into hierarchical groups (varnas and jatis) associated with traditional occupations and social rules."
-  },
-  {
-    id: "d291l_069",
-    subject: "da-291",
-    lecture: "lecture-5",
-    lectureNo: 5,
-    question: "Rural-urban migration in India is mainly caused by:",
-    options: ["Only urbanization preference without economic reason in extension education in agriculture", "Only government policy pushing people to cities in rural development programmes", "Climate change alone under this extension approach", "Push factors (poverty, unemployment, lack of services) and pull factors (urban jobs, education, better wages)"],
-    correct: 3,
-    explanation: "Rural-urban migration is caused by both push factors (rural unemployment, low wages, poverty, lack of infrastructure) and pull factors (urban job opportunities, higher wages, better education and health services)."
-  },
-  {
-    id: "d291l_070",
-    subject: "da-291",
-    lecture: "lecture-5",
-    lectureNo: 5,
-    question: "Social change in rural communities can be brought about through:",
-    options: ["External force only in extension education in agriculture in irrigated crop production systems", "Education, demonstration effect, contact with outside world, economic improvement and government interventions", "Traditional systems alone in rural development programmes", "Only religious influence under this extension approach for crop production"],
-    correct: 1,
-    explanation: "Social change in rural communities occurs through education, demonstration effect (seeing neighbors benefit from changes), contact with outside world, economic improvement and government programmes."
-  },
-  {
-    id: "d291l_071",
-    subject: "da-291",
-    lecture: "lecture-5",
-    lectureNo: 5,
-    question: "The concept of 'Social Mobility' means:",
-    options: ["Physical movement of people between villages", "Movement of individuals or groups between different social strata/positions", "Movement of social groups during festivals", "Migration from rural to urban areas only"],
-    correct: 1,
-    explanation: "Social mobility refers to the movement of individuals, families or groups from one social status to another (upward or downward). Education, occupation and income affect social mobility."
-  },
-  {
-    id: "d291l_072",
-    subject: "da-291",
-    lecture: "lecture-5",
-    lectureNo: 5,
-    question: "The 'Dominant Caste' concept in Indian village was given by sociologist:",
-    options: ["B.R. Ambedkar", "Karl Marx", "Emile Durkheim", "M.N. Srinivas"],
-    correct: 3,
-    explanation: "M.N. Srinivas introduced the concept of 'Dominant Caste' â€“ a caste that is numerically large, owns most agricultural land and exercises power in the village despite not being at the top of ritual hierarchy."
-  },
-  {
-    id: "d291l_073",
-    subject: "da-291",
-    lecture: "lecture-5",
-    lectureNo: 5,
-    question: "A 'Change Agent' in the context of rural sociology is:",
-    options: ["A government officer imposing change in extension education in agriculture", "A political worker in rural development programmes", "Any new farmer in the village under this extension approach", "A professional who intentionally seeks to influence innovation decisions in a desired direction"],
-    correct: 3,
-    explanation: "A change agent (Rogers' term) is a professional (extension worker, KVK scientist, NGO worker) who intentionally seeks to influence people's innovation decisions and facilitate adoption of new practices."
-  },
-  {
-    id: "d291l_074",
-    subject: "da-291",
-    lecture: "lecture-5",
-    lectureNo: 5,
-    question: "The joint family system in rural India is advantageous because it:",
-    options: ["Provides social security, distributes family labor, reduces risk and maintains family bonds", "Is incompatible with modern agriculture in rural development programmes", "Prevents individual wealth accumulation under this extension approach", "Limits individual freedom excessively in extension education"],
-    correct: 0,
-    explanation: "The joint family system provides collective social security (elderly care, child care), distributes labor across the farm enterprise, shares economic risk and maintains strong social bonds."
-  },
-  {
-    id: "d291l_075",
-    subject: "da-291",
-    lecture: "lecture-5",
-    lectureNo: 5,
-    question: "Secondary social groups in rural sociology differ from primary groups in that they are:",
-    options: ["Family-based only in extension education under tropical agricultural conditions", "Larger, more formal, impersonal with specific purposes (cooperatives, farmer organizations)", "Always temporary and informal in rural development programmes", "Smaller and more intimate under this extension approach"],
-    correct: 1,
-    explanation: "Secondary groups are larger, more formal, have specific purposes (cooperative society, farmer's organization, union) with less intimate, role-based relationships governed by formal rules."
-  },
-  {
-    id: "d291l_076",
-    subject: "da-291",
-    lecture: "lecture-5",
-    lectureNo: 5,
-    question: "Sanskritization (concept by M.N. Srinivas) in Indian rural society means:",
-    options: ["Government scheme for rural literacy in Sanskrit language in extension education", "Teaching Sanskrit in village schools under this extension approach", "Tribal people adopting Hindu customs in rural development programmes in agriculture", "A process by which lower castes emulate the customs/practices of upper castes to rise socially"],
-    correct: 3,
-    explanation: "Sanskritization (M.N. Srinivas) is the process by which lower castes, tribes or other groups adopt the rituals, customs and way of life of upper castes (particularly Brahmins) to claim higher social status."
-  },
-  {
-    id: "d291l_077",
-    subject: "da-291",
-    lecture: "lecture-5",
-    lectureNo: 5,
-    question: "Leadership in rural communities can be classified as:",
-    options: ["Only caste-based hereditary leadership", "Formal (elected/appointed) and informal", "Only religious leadership", "Only formal political leadership"],
-    correct: 1,
-    explanation: "Rural leadership includes formal leaders (Sarpanch, MPP elected representatives) and informal leaders (respected community members, progressive farmers, religious figures, landlords) with natural influence."
-  },
-  {
-    id: "d291l_078",
-    subject: "da-291",
-    lecture: "lecture-5",
-    lectureNo: 5,
-    question: "The study of rural sociology helps extension workers by:",
-    options: ["Managing government funds and schemes under this extension approach", "Learning agricultural technology production methods in extension education", "Enabling them to conduct agricultural research in rural development programmes", "Understanding social structure, group dynamics and how to work effectively with rural communities"],
-    correct: 3,
-    explanation: "Rural sociology knowledge helps extension workers understand village power structures, social groups, informal leaders, barriers to change, communication networks and how to facilitate community participation."
-  },
-  {
-    id: "d291l_079",
-    subject: "da-291",
-    lecture: "lecture-5",
-    lectureNo: 5,
-    question: "The process of social change that occurs through direct contact between different cultures is called:",
-    options: ["Acculturation", "Sanskritization", "Assimilation", "Diffusion"],
-    correct: 0,
-    explanation: "Acculturation is the social change that occurs when groups with different cultures come into direct, continuous contact, resulting in changes in the original cultural patterns of one or both groups."
-  },
-  {
-    id: "d291l_080",
-    subject: "da-291",
-    lecture: "lecture-5",
-    lectureNo: 5,
-    question: "Women's participation in agricultural extension in India has been improved through which specific approach?",
-    options: ["Mahila Kisan Sashaktikaran Pariyojana (MKSP) and dedicated women-specific extension programmes", "Limiting extension to household activities only as recommended by ICAR guidelines", "Using only female extension workers for all extension", "Training male farmers to teach their wives under tropical agricultural conditions"],
-    correct: 0,
-    explanation: "MKSP (Mahila Kisan Sashaktikaran Pariyojana) under DAY-NRLM and dedicated women extension workers, SHG-based extension and training programmes have improved women's participation in agricultural extension."
-  },
-  {
-    id: "d291l_081",
-    subject: "da-291",
-    lecture: "lecture-6",
-    lectureNo: 6,
-    question: "Which is an essential element considered in extension evaluation?",
-    options: ["The colour of the office building", "The objectives against which progress is measured", "The price of petrol", "The number of cars"],
-    correct: 1,
-    explanation: "Evaluation involves elements such as clearly stated objectives, evidence of change, and criteria/standards against which the achievement of objectives is judged."
-  },
-  {
-    id: "d291l_082",
-    subject: "da-291",
-    lecture: "lecture-6",
-    lectureNo: 6,
-    question: "Gram Sabha, the base of Panchayati Raj, consists of:",
-    options: ["Only tax-paying residents of the gram panchayat area in extension education", "All adult males in the village only in rural development programmes", "All voters (adults) registered in the electoral rolls of the village/gram panchayat", "All elected members of Gram Panchayat only under this extension approach"],
-    correct: 2,
-    explanation: "Gram Sabha consists of all persons registered in the electoral rolls of the Gram Panchayat area (all adult voters â€“ male and female). It is the primary forum of direct democracy at village level."
-  },
-  {
-    id: "d291l_083",
-    subject: "da-291",
-    lecture: "lecture-6",
-    lectureNo: 6,
-    question: "How many tiers does the Panchayati Raj system have in most Indian states?",
-    options: ["Four tiers in rural development programmes", "Five tiers in extension education", "Two tiers (Gram Panchayat and Zilla Parishad)", "Three tiers (Gram Panchayat, Mandal/Block, Zilla Parishad)"],
-    correct: 3,
-    explanation: "The 73rd Amendment mandates a three-tier Panchayati Raj system: Gram Panchayat (village level), Intermediate Panchayat/Block/Mandal Parishad (block level) and Zilla Parishad (district level)."
-  },
-  {
-    id: "d291l_084",
-    subject: "da-291",
-    lecture: "lecture-6",
-    lectureNo: 6,
-    question: "Rural society, compared with urban society, is generally characterised by:",
-    options: ["Highly heterogeneous, anonymous living", "Industry as the main occupation", "Agriculture as the main occupation and a simple, homogeneous life", "Absence of any occupation"],
-    correct: 2,
-    explanation: "Rural society is marked by agriculture as the dominant occupation, simpler and relatively homogeneous social life, close (primary) relationships and strong traditions."
-  },
-  {
-    id: "d291l_085",
-    subject: "da-291",
-    lecture: "lecture-6",
-    lectureNo: 6,
-    question: "Primary (face-to-face, intimate) relationships are MORE typical of:",
-    options: ["International airports", "Large industrial cities", "Stock exchanges", "Rural communities"],
-    correct: 3,
-    explanation: "Rural communities are characterised by primary (close, face-to-face, personal) relationships, whereas urban communities tend to have secondary, impersonal relationships."
-  },
-  {
-    id: "d291l_086",
-    subject: "da-291",
-    lecture: "lecture-6",
-    lectureNo: 6,
-    question: "A major problem of rural development in India is:",
-    options: ["Poverty, illiteracy and inadequate infrastructure in villages", "Excess of skyscrapers", "Too many stock markets", "Surplus of industries"],
-    correct: 0,
-    explanation: "Rural development must tackle problems such as widespread rural poverty, illiteracy, unemployment/underemployment and inadequate infrastructure and services."
-  },
-  {
-    id: "d291l_087",
-    subject: "da-291",
-    lecture: "lecture-6",
-    lectureNo: 6,
-    question: "Participatory Rural Appraisal (PRA) emphasises that the analysis is done:",
-    options: ["Only by outside experts", "By the rural people themselves, with the worker as a facilitator", "Only by the government", "Without involving villagers"],
-    correct: 1,
-    explanation: "PRA reverses the conventional approach: rural people themselves appraise, analyse and plan, while the extension worker acts only as a facilitator/learner."
-  },
-  {
-    id: "d291l_088",
-    subject: "da-291",
-    lecture: "lecture-6",
-    lectureNo: 6,
-    question: "Ward Sabha in Telangana/Andhra Pradesh is a body consisting of:",
-    options: ["Only elected ward members in extension education", "All Gram Panchayat members in rural development programmes", "District Collector appointed committee under this extension approach", "All voters in a ward (sub-division of Gram Panchayat)"],
-    correct: 3,
-    explanation: "Ward Sabha consists of all persons registered as voters in a ward (the smallest division of Gram Panchayat). Each ward elects one ward member to the Gram Panchayat."
-  },
-  {
-    id: "d291l_089",
-    subject: "da-291",
-    lecture: "lecture-6",
-    lectureNo: 6,
-    question: "Mandal Parishad, the intermediate tier of Panchayati Raj in Telangana/Andhra Pradesh, is headed by:",
-    options: ["District Collector", "Mandal Parishad President (MPP)", "MLA of the constituency", "Gram Panchayat Sarpanch"],
-    correct: 1,
-    explanation: "The Mandal Parishad (intermediate-level PRI corresponding to a Mandal/Block) is headed by the Mandal Parishad President (MPP) who is directly elected."
-  },
-  {
-    id: "d291l_090",
-    subject: "da-291",
-    lecture: "lecture-6",
-    lectureNo: 6,
-    question: "Gram Panchayat's main sources of revenue include:",
-    options: ["Income tax collected from farmers in extension education", "Company dividends in rural development programmes", "Property tax, profession tax, water/drainage fees and government grants", "Export duties on agricultural produce under this extension approach"],
-    correct: 2,
-    explanation: "Gram Panchayats collect property tax, profession tax, water/drainage user fees and receive grants from state and central governments under Finance Commission recommendations and schemes like SFC grants."
-  },
-  {
-    id: "d291l_091",
-    subject: "da-291",
-    lecture: "lecture-6",
-    lectureNo: 6,
-    question: "Which is a commonly used PRA technique?",
-    options: ["DNA sequencing", "Soil chemical titration", "Social/resource mapping by villagers", "Satellite launching"],
-    correct: 2,
-    explanation: "PRA techniques include social and resource mapping, transect walks, seasonal calendars, Venn (chapati) diagrams and matrix/wealth ranking, carried out with the villagers."
-  },
-  {
-    id: "d291l_092",
-    subject: "da-291",
-    lecture: "lecture-6",
-    lectureNo: 6,
-    question: "First state in India to implement Panchayati Raj (based on Balwantrai Mehta recommendations) was:",
-    options: ["Uttar Pradesh", "Tamil Nadu", "Rajasthan", "Maharashtra"],
-    correct: 2,
-    explanation: "Rajasthan was the first state to implement Panchayati Raj on October 2, 1959 at Nagaur. PM Jawaharlal Nehru inaugurated this first Panchayati Raj in Rajasthan."
-  },
-  {
-    id: "d291l_093",
-    subject: "da-291",
-    lecture: "lecture-6",
-    lectureNo: 6,
-    question: "Leadership in which decisions are taken with the participation and consent of the group is called:",
-    options: ["Absentee leadership", "Autocratic leadership", "Laissez-faire leadership", "Democratic leadership"],
-    correct: 3,
-    explanation: "In democratic (participative) leadership, decisions are taken with the involvement and consent of the group; in autocratic leadership the leader decides alone."
-  },
-  {
-    id: "d291l_094",
-    subject: "da-291",
-    lecture: "lecture-6",
-    lectureNo: 6,
-    question: "Zilla Parishad (district-level Panchayati Raj body) is headed by:",
-    options: ["Zilla Parishad President/Chairman (elected)", "State Agriculture Minister", "District Collector (IAS officer)", "District Judge"],
-    correct: 0,
-    explanation: "Zilla Parishad is headed by the elected Zilla Parishad President/Chairman/Adhyaksha. The District Collector is the administrative head who assists but the elected President is the political head."
-  },
-  {
-    id: "d291l_095",
-    subject: "da-291",
-    lecture: "lecture-6",
-    lectureNo: 6,
-    question: "A 'laissez-faire' (free-rein) leader is one who:",
-    options: ["Gives the group full freedom with minimum interference", "Controls every action tightly", "Takes all decisions alone", "Never allows any meeting"],
-    correct: 0,
-    explanation: "A laissez-faire (free-rein) leader gives the group maximum freedom and exercises minimum control or direction, leaving decisions largely to the members."
-  },
-  {
-    id: "d291l_096",
-    subject: "da-291",
-    lecture: "lecture-6",
-    lectureNo: 6,
-    question: "National Panchayati Raj Day in India is celebrated on:",
-    options: ["August 15", "January 26", "April 24", "October 2"],
-    correct: 2,
-    explanation: "National Panchayati Raj Day (Rashtriya Panchayati Raj Diwas) is celebrated on April 24 every year, commemorating the day the 73rd Constitutional Amendment Act came into force in 1993."
-  },
-  {
-    id: "d291l_097",
-    subject: "da-291",
-    lecture: "lecture-7",
-    lectureNo: 7,
-    question: "Market-led extension differs from traditional extension in that it focuses on:",
-    options: ["Avoiding all contact with markets", "Only increasing production regardless of demand", "Helping farmers produce what the market demands and market it profitably", "Distributing free seeds only"],
-    correct: 2,
-    explanation: "Market-led extension reorients extension from production-led to demand/market-led, helping farmers decide what to grow based on market demand and to market produce profitably."
-  },
-  {
-    id: "d291l_098",
-    subject: "da-291",
-    lecture: "lecture-7",
-    lectureNo: 7,
-    question: "Training of local leaders is valuable in extension because trained leaders:",
-    options: ["Replace the gram panchayat election", "Multiply the reach of extension by guiding fellow villagers", "Fix the market price of crops", "Issue land titles"],
-    correct: 1,
-    explanation: "Selecting and training local leaders multiplies extension's reach, as they communicate messages effectively to fellow villagers and sustain programmes after the worker leaves."
-  },
-  {
-    id: "d291l_099",
-    subject: "da-291",
-    lecture: "lecture-7",
-    lectureNo: 7,
-    question: "Community development is essentially a process in which:",
-    options: ["Villages are merged into cities", "Only the government acts without people's participation", "Industries replace agriculture", "Communities participate to improve their own economic and social conditions"],
-    correct: 3,
-    explanation: "Community development is a process by which the people of a community participate, with government help, to improve their own economic, social and cultural conditions."
-  },
-  {
-    id: "d291l_100",
-    subject: "da-291",
-    lecture: "lecture-7",
-    lectureNo: 7,
-    question: "Farmer clubs (Krishak Clubs) are linked to NABARD and are established to:",
-    options: ["Manage government procurement in extension education in agriculture", "Promote collective farming, peer learning and help link farmers to rural development agencies", "Produce seed for distribution in rural development programmes", "Provide banking services to farmers under this extension approach"],
-    correct: 1,
-    explanation: "NABARD-supported Farmer Clubs (Krishak Clubs) are informal groups of 10â€“20 farmers promoted to facilitate collective learning, peer exchange, technology adoption and linkage with banks and government programmes."
-  },
-  {
-    id: "d291l_101",
-    subject: "da-291",
-    lecture: "lecture-7",
-    lectureNo: 7,
-    question: "Exposure visits (Study tours) as a training method expose farmers to:",
-    options: ["Government offices and bureaucratic procedures in extension education", "Urban markets and shopping centers under this extension approach", "Research station laboratories only in rural development programmes", "Success stories, progressive farms and new technology in other locations"],
-    correct: 3,
-    explanation: "Exposure visits/study tours take farmers to progressive farms, KVKs, research stations and success stories in other locations to inspire adoption of new practices through seeing positive real-world results."
-  },
-  {
-    id: "d291l_102",
-    subject: "da-291",
-    lecture: "lecture-7",
-    lectureNo: 7,
-    question: "Education that is systematic, classroom-based and certificate-oriented is called:",
-    options: ["Formal education", "Non-formal education", "Informal education", "Extension education"],
-    correct: 0,
-    explanation: "Formal education is systematic, institution/classroom-based and leads to certificates/degrees, unlike the flexible, need-based non-formal extension education."
-  },
-  {
-    id: "d291l_103",
-    subject: "da-291",
-    lecture: "lecture-7",
-    lectureNo: 7,
-    question: "Extension education is regarded as a type of:",
-    options: ["Formal degree education", "Non-formal, out-of-school education", "Compulsory primary schooling", "Religious instruction"],
-    correct: 1,
-    explanation: "Extension education is non-formal, out-of-school education that lies outside the realm of formal education and is based on the felt needs of the people."
-  },
-  {
-    id: "d291l_104",
-    subject: "da-291",
-    lecture: "lecture-7",
-    lectureNo: 7,
-    question: "Community development is fundamentally a programme of:",
-    options: ["Industrial expansion", "Government action without people", "People's participation for their own all-round development", "Urban housing only"],
-    correct: 2,
-    explanation: "Community development is a process and programme in which people participate, with government assistance, to bring about their own economic, social and cultural development."
-  },
-  {
-    id: "d291l_105",
-    subject: "da-291",
-    lecture: "lecture-7",
-    lectureNo: 7,
-    question: "MANAGE (National Institute of Agricultural Extension Management) is located at:",
-    options: ["Hyderabad (Rajendranagar)", "New Delhi", "Bengaluru", "Lucknow"],
-    correct: 0,
-    explanation: "MANAGE (National Institute of Agricultural Extension Management) is located at Rajendranagar, Hyderabad, Telangana. It is the apex institute for agricultural extension capacity building in India."
-  },
-  {
-    id: "d291l_106",
-    subject: "da-291",
-    lecture: "lecture-7",
-    lectureNo: 7,
-    question: "The SAMETI (State Agricultural Management and Extension Training Institute) provides:",
-    options: ["Research support to SAUs in rural development programmes", "Agricultural credit to farmers in extension education", "Training to mid-level agricultural extension functionaries at state level", "Marketing support for farm produce under this extension approach"],
-    correct: 2,
-    explanation: "SAMETI (State Agricultural Management and Extension Training Institute) provides in-service training to mid-level agricultural extension functionaries at the state level under the ATMA framework."
-  },
-  {
-    id: "d291l_107",
-    subject: "da-291",
-    lecture: "lecture-7",
-    lectureNo: 7,
-    question: "The principle that extension work should start with the people's felt needs is the principle of:",
-    options: ["Compulsory adoption", "Maximum taxation", "Felt needs (working with people, not for them)", "Centralised control"],
-    correct: 2,
-    explanation: "A key principle of extension is to begin with the felt needs and interests of the people and work with them (not for them) using their own resources."
-  },
-  {
-    id: "d291l_108",
-    subject: "da-291",
-    lecture: "lecture-7",
-    lectureNo: 7,
-    question: "Farmer Field School (FFS) is a participatory extension methodology where:",
-    options: ["Farmers watch videos about farming practices in extension education", "Scientists teach farmers in a classroom setting in rural development programmes", "Farmers learn by doing and discovery-based learning in their own fields through the crop season", "Extension workers demonstrate on research farms under this extension approach"],
-    correct: 2,
-    explanation: "Farmer Field Schools (FFS) are groups of 25â€“30 farmers who meet weekly in their fields throughout the crop season to learn by doing (IPM, agroecosystem analysis), promoted by FAO globally."
-  },
-  {
-    id: "d291l_109",
-    subject: "da-291",
-    lecture: "lecture-7",
-    lectureNo: 7,
-    question: "Para-extension workers (Krishi Sakhis, Pashu Sakhis) in India are:",
-    options: ["Corporate agricultural advisors in extension education in agriculture", "Community-based resource persons selected from SHG members trained for peer extension", "NGO employees only in rural development programmes", "Government extension officers under this extension approach for crop production"],
-    correct: 1,
-    explanation: "Para-extension workers (Krishi Sakhis for crop, Pashu Sakhis for livestock) are SHG members selected from the community, trained by KVKs/government and provide peer-level extension support to women farmers."
-  },
-  {
-    id: "d291l_110",
-    subject: "da-291",
-    lecture: "lecture-7",
-    lectureNo: 7,
-    question: "In extension, a 'meeting' addressed to a large, undifferentiated audience (e.g., a campaign or radio talk) is a:",
-    options: ["Farm visit", "Individual contact method", "Result demonstration", "Mass contact method"],
-    correct: 3,
-    explanation: "Mass contact methods (campaigns, exhibitions, radio, television, publications) reach a large number of people at the same time, though with less personal influence than individual methods."
-  },
-  {
-    id: "d291l_111",
-    subject: "da-291",
-    lecture: "lecture-7",
-    lectureNo: 7,
-    question: "Kisan Suvidha app was launched by the Government of India to provide farmers with:",
-    options: ["Aadhaar-linked farmer registration in extension education", "Digital land records only in rural development programmes", "Weather, market prices, agro-advisories, plant protection advice and crop insurance information", "Only farm loan information under this extension approach"],
-    correct: 2,
-    explanation: "Kisan Suvidha app provides farmers with location-specific weather forecasts, market prices, agro-advisories (crop and variety selection), plant protection advice, crop insurance information and dealers' list."
-  },
-  {
-    id: "d291l_112",
-    subject: "da-291",
-    lecture: "lecture-7",
-    lectureNo: 7,
-    question: "The major challenges in extension education in India include:",
-    options: ["Farmers refusing all new technologies in extension education", "Excess technology supply with no farmer demand in rural development programmes", "Inadequate trained manpower, poor adoption rate, low budget and technology access gap for small farmers", "Too many extension workers with nothing to do under this extension approach"],
-    correct: 2,
-    explanation: "Major extension challenges in India: inadequate trained extension manpower, poor technology adoption by small/marginal farmers, insufficient budget, infrastructure gap, digital divide and technology-recommendation mismatch."
-  },
-  {
-    id: "d291l_113",
-    subject: "da-291",
-    lecture: "lecture-8",
-    lectureNo: 8,
-    question: "The merit of individual contact methods in extension is that they:",
-    options: ["Build close personal rapport and allow tailored advice", "Reach the maximum number of people at once", "Require no extension worker", "Are the cheapest per contact"],
-    correct: 0,
-    explanation: "Individual contact methods (farm/home visits) build close personal rapport and allow advice tailored to the individual, though they reach fewer people and cost more per contact."
-  },
-  {
-    id: "d291l_114",
-    subject: "da-291",
-    lecture: "lecture-8",
-    lectureNo: 8,
-    question: "A 'circular letter' as an extension information material is used to:",
-    options: ["Give a single farmer private advice", "Send the same written message to many farmers at once", "Replace a result demonstration", "Conduct an election"],
-    correct: 1,
-    explanation: "A circular letter is a printed/duplicated letter carrying the same message sent to many people at once - a written mass-contact material."
-  },
-  {
-    id: "d291l_115",
-    subject: "da-291",
-    lecture: "lecture-8",
-    lectureNo: 8,
-    question: "Rythu Bandhu scheme in Telangana provides farmers with:",
-    options: ["Crop insurance at zero premium in extension education", "Rs. 10,000 per acre per year (Rs. 5,000 each for kharif and rabi) as investment support", "Free drip irrigation systems in rural development programmes", "Free seeds and fertilizers under this extension approach"],
-    correct: 1,
-    explanation: "Rythu Bandhu (Farmers' Investment Support Scheme) of Telangana provides Rs. 5,000 per acre per season, i.e. Rs. 10,000 per acre per year across the kharif and rabi seasons, as pre-sowing investment support."
-  },
-  {
-    id: "d291l_116",
-    subject: "da-291",
-    lecture: "lecture-8",
-    lectureNo: 8,
-    question: "Rythu Bima scheme in Telangana provides:",
-    options: ["Crop insurance for paddy only in extension education", "Health insurance for farmers in rural development programmes", "Livestock insurance for dairy farmers under this extension approach", "Life insurance of Rs. 5 lakh to farmer family on farmer's death"],
-    correct: 3,
-    explanation: "Rythu Bima is a group life insurance scheme in Telangana providing Rs. 5 lakh life insurance coverage to farmers (5â€“59 years) benefiting under Rythu Bandhu. The government pays the premium."
-  },
-  {
-    id: "d291l_117",
-    subject: "da-291",
-    lecture: "lecture-8",
-    lectureNo: 8,
-    question: "A bulletin, as an extension publication, generally contains:",
-    options: ["No text, only pictures", "Only a one-line slogan", "Detailed information on a subject", "Election results"],
-    correct: 2,
-    explanation: "A bulletin is a printed publication giving detailed information on a particular subject; leaflets and folders carry less information."
-  },
-  {
-    id: "d291l_118",
-    subject: "da-291",
-    lecture: "lecture-8",
-    lectureNo: 8,
-    question: "The ultimate objective of agricultural extension is to bring about desirable changes in:",
-    options: ["Crop prices fixed by government", "Soil colour only", "The weather", "Knowledge, skills and attitudes of rural people"],
-    correct: 3,
-    explanation: "Extension aims to bring about desirable changes in the knowledge, skills and attitudes (and ultimately the behaviour) of rural people for better living."
-  },
-  {
-    id: "d291l_119",
-    subject: "da-291",
-    lecture: "lecture-8",
-    lectureNo: 8,
-    question: "'Teaching is an art of creating situations in which the learner can learn' was associated with the work of:",
-    options: ["Leagans (extension teaching)", "Watson and Crick", "Alfred Marshall", "Carl Linnaeus"],
-    correct: 0,
-    explanation: "Leagans (1961) described extension teaching as creating situations and providing experiences in which effective learning can take place between an instructor and learner."
-  },
-  {
-    id: "d291l_120",
-    subject: "da-291",
-    lecture: "lecture-8",
-    lectureNo: 8,
-    question: "The advantage of result demonstrations is that they:",
-    options: ["Need no inputs or planning", "Help identify and develop local leadership and convince by results", "Always succeed without risk", "Replace all printed materials"],
-    correct: 1,
-    explanation: "Result demonstrations convince farmers by visible results, can be used to educate nearby villages, and help identify local leadership - though a failed demonstration can lose farmers' confidence."
-  },
-  {
-    id: "d291l_121",
-    subject: "da-291",
-    lecture: "lecture-8",
-    lectureNo: 8,
-    question: "Programme planning in extension is best described as a:",
-    options: ["Purely financial audit", "One-time event done only once", "Continuous process of analysing the situation and deciding what to do", "List of village voters"],
-    correct: 2,
-    explanation: "Programme planning is a continuous process involving analysis of the situation, deciding objectives, developing a plan of work and a calendar of work, implementation and evaluation."
-  },
-  {
-    id: "d291l_122",
-    subject: "da-291",
-    lecture: "lecture-8",
-    lectureNo: 8,
-    question: "In extension teaching, a 'campaign' is most useful for:",
-    options: ["Auditing accounts", "Teaching a complex manual skill to one person", "Replacing the gram panchayat", "Creating awareness on a specific topic among many people quickly"],
-    correct: 3,
-    explanation: "A campaign is an intensive mass-contact effort over a short period, suitable for creating awareness about a specific topic (e.g. rat control) among many people."
-  },
-  {
-    id: "d291l_123",
-    subject: "da-291",
-    lecture: "lecture-8",
-    lectureNo: 8,
-    question: "The 'plan of work' and 'calendar of work' are products of which extension function?",
-    options: ["Programme planning", "Soil testing", "Plant breeding", "Pest identification"],
-    correct: 0,
-    explanation: "The plan of work (what/how/who) and calendar of work (when) are prepared during the programme-planning function of extension."
-  },
-  {
-    id: "d291l_124",
-    subject: "da-291",
-    lecture: "lecture-8",
-    lectureNo: 8,
-    question: "National Food Security Mission (NFSM) focuses on increasing production of:",
-    options: ["Only horticultural crops in extension education", "Rice, Wheat, Pulses, Coarse Cereals and Nutri-Cereals", "All crops equally in rural development programmes", "Only export commodities under this extension approach"],
-    correct: 1,
-    explanation: "NFSM focuses on increasing production and productivity of Rice, Wheat, Pulses, Coarse Cereals (Maize) and Nutri-Cereals (Millets) through area expansion and productivity enhancement."
-  },
-  {
-    id: "d291l_125",
-    subject: "da-291",
-    lecture: "lecture-8",
-    lectureNo: 8,
-    question: "Which is a characteristic of rural society relevant to extension work?",
-    options: ["Predominance of heavy industry", "Predominance of agriculture and close-knit social relationships", "Complete absence of traditions", "Purely individualistic, anonymous living"],
-    correct: 1,
-    explanation: "Rural society is characterised by the predominance of agriculture as an occupation, close-knit (primary) relationships, joint families and strong adherence to customs and traditions."
-  },
-  {
-    id: "d291l_126",
-    subject: "da-291",
-    lecture: "lecture-8",
-    lectureNo: 8,
-    question: "Diffusion of an innovation refers to the process by which an innovation is:",
-    options: ["Banned by the government", "Kept secret from all farmers", "Communicated and spread among the members of a social system over time", "Destroyed after one season"],
-    correct: 2,
-    explanation: "Diffusion is the process by which an innovation is communicated through certain channels over time among the members of a social system, leading to its spread and adoption."
-  },
-  {
-    id: "d291l_127",
-    subject: "da-291",
-    lecture: "lecture-8",
-    lectureNo: 8,
-    question: "Paramparagat Krishi Vikas Yojana (PKVY) promotes:",
-    options: ["Chemical-intensive high yield farming in extension education", "GM crop cultivation in rural development programmes", "Organic farming through cluster-based approach with certification and marketing support", "Hydroponic cultivation under this extension approach"],
-    correct: 2,
-    explanation: "PKVY promotes organic farming through a cluster approach (50 acres, 50 farmers per cluster), providing Rs. 50,000 per ha over 3 years for organic conversion, certification (PGS-India) and marketing."
-  },
-  {
-    id: "d291l_128",
-    subject: "da-291",
-    lecture: "lecture-8",
-    lectureNo: 8,
-    question: "The five stages of the adoption process (Rogers) are awareness, interest, evaluation, trial and:",
-    options: ["Migration", "Rejection", "Taxation", "Adoption"],
-    correct: 3,
-    explanation: "The adoption process passes through five stages: awareness, interest, evaluation, trial and adoption."
-  },
-  {
-    id: "d291l_129",
-    subject: "da-291",
-    lecture: "lecture-9",
-    lectureNo: 9,
-    question: "The intermediate (block/mandal) tier of the three-tier Panchayat Raj system is the:",
-    options: ["State Legislature", "Gram Panchayat", "Zilla Parishad", "Mandal/Panchayat Samiti"],
-    correct: 3,
-    explanation: "The intermediate tier of Panchayat Raj is the Mandal Parishad/Panchayat Samiti (block level), between the Gram Panchayat (village) and the Zilla Parishad (district)."
-  },
-  {
-    id: "d291l_130",
-    subject: "da-291",
-    lecture: "lecture-9",
-    lectureNo: 9,
-    question: "PAC (Primary Agricultural Credit Society) is the base unit of the cooperative credit structure that:",
-    options: ["Provides short-term crop loans to farmers at the village level", "Provides only long-term land development loans", "Is managed by the Reserve Bank of India directly", "Only provides marketing services, no credit"],
-    correct: 0,
-    explanation: "PACs provide short-term agricultural credit (crop loans) to farmer members at the village level. They are the primary tier of the short-term cooperative credit structure."
-  },
-  {
-    id: "d291l_131",
-    subject: "da-291",
-    lecture: "lecture-9",
-    lectureNo: 9,
-    question: "The three-tier short-term cooperative credit structure in India is:",
-    options: ["RRB â†’ DCCB â†’ PACS in extension education", "PACS â†’ DCCB (District Central Cooperative Bank) â†’ STCB (State Cooperative Bank)", "NABARD â†’ Commercial Banks â†’ PACS in rural development programmes", "Cooperative Society â†’ NABARD â†’ RBI under this extension approach"],
-    correct: 1,
-    explanation: "Short-term cooperative credit: PACS (village) â†’ DCCB/CCB (district) â†’ STCB (state). NABARD refinances the State Cooperative Banks which on-lend to DCCBs which lend to PACS."
-  },
-  {
-    id: "d291l_132",
-    subject: "da-291",
-    lecture: "lecture-9",
-    lectureNo: 9,
-    question: "Self Help Groups (SHGs) typically consist of how many members?",
-    options: ["50â€“100 members", "200â€“300 members", "10â€“20 members", "3â€“5 members"],
-    correct: 2,
-    explanation: "SHGs typically consist of 10â€“20 persons (usually women) from homogeneous socio-economic backgrounds who voluntarily come together to save regularly and access credit for livelihood activities."
-  },
-  {
-    id: "d291l_133",
-    subject: "da-291",
-    lecture: "lecture-9",
-    lectureNo: 9,
-    question: "The stage of the adoption process in which a farmer tries a new practice on a small scale is the:",
-    options: ["Trial stage", "Awareness stage", "Adoption stage", "Interest stage"],
-    correct: 0,
-    explanation: "In the trial stage the farmer uses the innovation on a small scale to judge its usefulness before full adoption."
-  },
-  {
-    id: "d291l_134",
-    subject: "da-291",
-    lecture: "lecture-9",
-    lectureNo: 9,
-    question: "Microfinance in rural India provides financial services mainly to:",
-    options: ["Export-oriented agricultural enterprises in extension education", "Large corporate agribusinesses under this extension approach", "Government departments only in rural development programmes", "Poor and low-income households excluded from formal banking system"],
-    correct: 3,
-    explanation: "Microfinance provides small loans, savings, insurance and other financial services to poor and low-income households (especially women) who lack access to formal banking, often through SHG-Bank Linkage Programme."
-  },
-  {
-    id: "d291l_135",
-    subject: "da-291",
-    lecture: "lecture-9",
-    lectureNo: 9,
-    question: "The general body of all adult voters of a village in the Panchayat Raj system is the:",
-    options: ["Gram Sabha", "Zilla Parishad", "Lok Sabha", "Rajya Sabha"],
-    correct: 0,
-    explanation: "The Gram Sabha consists of all adult voters of a village (panchayat) and is the foundation of the Panchayat Raj system."
-  },
-  {
-    id: "d291l_136",
-    subject: "da-291",
-    lecture: "lecture-9",
-    lectureNo: 9,
-    question: "Under the ATMA model, extension is made:",
-    options: ["Top-down and centralised at the national level", "Bottom-up, farmer-driven and decentralised at the district level", "Purely commercial with no farmers", "Run only from foreign countries"],
-    correct: 1,
-    explanation: "ATMA (Agricultural Technology Management Agency) decentralises extension to the district level, making it bottom-up, participatory and farmer-driven (and market-led)."
-  },
-  {
-    id: "d291l_137",
-    subject: "da-291",
-    lecture: "lecture-9",
-    lectureNo: 9,
-    question: "Leadership in extension is important because local leaders:",
-    options: ["Replace the extension worker permanently", "Help diffuse new ideas and influence other community members", "Fix crop prices", "Conduct soil tests"],
-    correct: 1,
-    explanation: "Local (village) leaders influence the attitudes and behaviour of others, help diffuse new ideas and serve as a vital link between the extension agency and the community."
-  },
-  {
-    id: "d291l_138",
-    subject: "da-291",
-    lecture: "lecture-9",
-    lectureNo: 9,
-    question: "SREP (Strategic Research and Extension Plan) under ATMA is prepared at the:",
-    options: ["International level by the UN", "National level by Parliament", "District level through participatory methods", "Household level by each farmer"],
-    correct: 2,
-    explanation: "Under the ATMA model, a Strategic Research and Extension Plan (SREP) is prepared for each district through participatory methods (e.g. PRA) to guide research and extension."
-  },
-  {
-    id: "d291l_139",
-    subject: "da-291",
-    lecture: "lecture-9",
-    lectureNo: 9,
-    question: "Cooperative Credit Societies (CCS) follow the basic principles of Cooperation. The main principle is:",
-    options: ["Only agricultural credit, no other services in extension education", "One man, one vote (democratic management regardless of share capital)", "Profit maximization for shareholders in rural development programmes", "Government management of cooperative activities under this extension approach"],
-    correct: 1,
-    explanation: "The fundamental cooperative principle is 'one member, one vote' (democratic governance) regardless of share capital. This distinguishes cooperatives from joint stock companies where voting power is proportional to shares."
-  },
-  {
-    id: "d291l_140",
-    subject: "da-291",
-    lecture: "lecture-9",
-    lectureNo: 9,
-    question: "NABARD's main functions include:",
-    options: ["Only managing government agricultural schemes in extension education in agriculture", "Only providing direct loans to farmers in rural development programmes", "Refinancing of agricultural credit, development banking, supervision of RRBs and cooperative banks, and rural infrastructure financing", "Only providing crop insurance services under this extension approach for crop production"],
-    correct: 2,
-    explanation: "NABARD provides refinancing to cooperative banks, RRBs and commercial banks; supervises State Cooperative Banks and RRBs; finances rural infrastructure (RIDF); promotes SHGs and FPOs."
-  },
-  {
-    id: "d291l_141",
-    subject: "da-291",
-    lecture: "lecture-9",
-    lectureNo: 9,
-    question: "The interest subvention scheme for short-term crop loans in India provides loans at:",
-    options: ["7% per annum (or 4% for prompt payers)", "0% interest in extension education", "18% per annum in rural development programmes", "12% per annum under this extension approach"],
-    correct: 0,
-    explanation: "Interest subvention scheme provides short-term crop loans up to Rs. 3 lakh at 7% per annum. Farmers who repay promptly get an additional 3% subvention, effectively paying 4% per annum."
-  },
-  {
-    id: "d291l_142",
-    subject: "da-291",
-    lecture: "lecture-9",
-    lectureNo: 9,
-    question: "The 'felt needs' principle of extension means programmes should start from:",
-    options: ["The needs of city consumers", "The needs decided only by scientists", "The needs that the people themselves recognise and feel", "Needs imposed by law"],
-    correct: 2,
-    explanation: "Extension should begin with the felt needs - the needs that the people themselves recognise - so that they are motivated to participate and act."
-  },
-  {
-    id: "d291l_143",
-    subject: "da-291",
-    lecture: "lecture-9",
-    lectureNo: 9,
-    question: "The principle of 'learning by doing' in extension is best achieved through:",
-    options: ["Paying a subsidy", "Reading a single leaflet", "Listening to one radio talk", "Method demonstrations and practicals"],
-    correct: 3,
-    explanation: "'Learning by doing' is best achieved through method demonstrations and hands-on practicals, where the learner actually performs the skill."
-  },
-  {
-    id: "d291l_144",
-    subject: "da-291",
-    lecture: "lecture-9",
-    lectureNo: 9,
-    question: "IFFCO (Indian Farmers Fertilizer Cooperative) is an example of which type of cooperative?",
-    options: ["Input supply cooperative (fertilizer production and supply)", "Credit cooperative (lending money)", "Marketing cooperative (selling produce)", "Consumer cooperative (buying goods for members)"],
-    correct: 0,
-    explanation: "IFFCO is a farmer-owned fertilizer cooperative that manufactures and supplies fertilizers (urea, DAP) to its member PACS and cooperatives at cost-effective prices. It is the world's largest cooperative fertilizer company."
-  },
-  {
-    id: "d291l_145",
-    subject: "da-291",
-    lecture: "lecture-10",
-    lectureNo: 10,
-    question: "Non-formal education such as extension is characterised by being:",
-    options: ["Flexible, need-based and not bound by a rigid curriculum", "Rigid, examination-bound and certificate-oriented", "Available only to children", "Compulsory for all citizens"],
-    correct: 0,
-    explanation: "Non-formal (extension) education is flexible, need-based, learner-centred and not bound by a rigid curriculum or examinations, unlike formal education."
-  },
-  {
-    id: "d291l_146",
-    subject: "da-291",
-    lecture: "lecture-10",
-    lectureNo: 10,
-    question: "Agricultural extension's scope includes transferring improved technology from research stations to:",
-    options: ["Foreign countries only", "The farmers' fields (and farmers' problems back to research)", "Government treasuries", "City factories"],
-    correct: 1,
-    explanation: "The scope of agricultural extension is a two-way process: carrying useful research findings to farmers' fields and taking farmers' problems back to research for solutions."
-  },
-  {
-    id: "d291l_147",
-    subject: "da-291",
-    lecture: "lecture-10",
-    lectureNo: 10,
-    question: "An 'exhibition' as an extension method is effective because it:",
-    options: ["Requires no preparation", "Gives private advice to one farmer", "Shows ideas and objects visually to many people at once", "Is a printed circular"],
-    correct: 2,
-    explanation: "An exhibition is a systematic display of models, specimens, charts and information that conveys ideas visually to a large number of people, combining seeing with interest."
-  },
-  {
-    id: "d291l_148",
-    subject: "da-291",
-    lecture: "lecture-10",
-    lectureNo: 10,
-    question: "The Evergreen Revolution concept promoted by Dr. M.S. Swaminathan aims at:",
-    options: ["Increasing productivity while conserving biodiversity and natural resources for sustainability", "Converting all forests to agricultural land in extension education", "Continuous application of chemical fertilizers in rural development programmes", "Maximizing production regardless of environmental impact under this extension approach"],
-    correct: 0,
-    explanation: "The Evergreen Revolution (M.S. Swaminathan) aims for productivity improvement in perpetuity without ecological harm by integrating traditional ecological knowledge with frontier science."
-  },
-  {
-    id: "d291l_149",
-    subject: "da-291",
-    lecture: "lecture-10",
-    lectureNo: 10,
-    question: "Which is a merit of a result demonstration in extension?",
-    options: ["It works only indoors", "It teaches a manual skill step by step", "It needs no land or inputs", "It convinces farmers by showing actual results and builds confidence"],
-    correct: 3,
-    explanation: "A result demonstration convinces farmers of the worth of an improved practice by showing actual results in the field, building their confidence to adopt it."
-  },
-  {
-    id: "d291l_150",
-    subject: "da-291",
-    lecture: "lecture-10",
-    lectureNo: 10,
-    question: "The reconsideration (final) phase of the extension education process deals with:",
-    options: ["Construction of dams", "Collection of land tax", "Election of the sarpanch", "Unattained objectives and unaddressed problems for the next cycle"],
-    correct: 3,
-    explanation: "In the reconsideration phase, the unattained objectives and unaddressed problems are reconsidered and fed back into the next cycle of the extension education process."
-  },
-  {
-    id: "d291l_151",
-    subject: "da-291",
-    lecture: "lecture-10",
-    lectureNo: 10,
-    question: "Wall newspapers, as an extension information material, are useful for:",
-    options: ["Displaying current information at a public place for many to read", "Sending a private letter", "Conducting a method demonstration", "Testing soil samples"],
-    correct: 0,
-    explanation: "A wall newspaper displays brief, current information at a public place (e.g. a village centre) where many people can read it - a low-cost mass medium."
-  },
-  {
-    id: "d291l_152",
-    subject: "da-291",
-    lecture: "lecture-10",
-    lectureNo: 10,
-    question: "Integrated Child Development Services (ICDS) programme focuses on:",
-    options: ["Nutrition, health and early childhood education for children under 6 and pregnant/lactating mothers", "Vocational training for rural youth in rural development programmes", "Agricultural training for farm children under this extension approach", "Secondary education for rural children in extension education"],
-    correct: 0,
-    explanation: "ICDS provides an integrated package of nutrition (supplementary feeding), health (immunization, health check-up) and early childhood education to children under 6 years and pregnant/lactating mothers."
-  },
-  {
-    id: "d291l_153",
-    subject: "da-291",
-    lecture: "lecture-10",
-    lectureNo: 10,
-    question: "In a method demonstration, the emphasis is on teaching the farmer:",
-    options: ["How to do a particular operation or skill", "The history of agriculture", "The price of land", "The names of officials"],
-    correct: 0,
-    explanation: "A method demonstration teaches 'how to do' a particular operation/skill through seeing, listening and doing, so the learner can perform it himself."
-  },
-  {
-    id: "d291l_154",
-    subject: "da-291",
-    lecture: "lecture-10",
-    lectureNo: 10,
-    question: "Rural development aims primarily at improving the:",
-    options: ["Profits of urban industries", "Economic and social well-being of rural people", "Number of city skyscrapers", "Stock market index"],
-    correct: 1,
-    explanation: "Rural development aims at improving the economic and social well-being (income, employment, health, education, infrastructure) of people living in rural areas."
-  },
-  {
-    id: "d291l_155",
-    subject: "da-291",
-    lecture: "lecture-10",
-    lectureNo: 10,
-    question: "National Mission for Sustainable Agriculture (NMSA) focuses on:",
-    options: ["Increasing chemical fertilizer use in extension education in agriculture", "Climate-resilient agriculture through soil health, water use efficiency and integrated farming systems", "Only seed sector development in rural development programmes", "Organic farming only under this extension approach for crop production"],
-    correct: 1,
-    explanation: "NMSA (one of 8 National Missions under NAPCC) focuses on making agriculture climate-resilient through soil health management, water use efficiency, integrated farming, climate change adaptation and mitigation."
-  },
-  {
-    id: "d291l_156",
-    subject: "da-291",
-    lecture: "lecture-10",
-    lectureNo: 10,
-    question: "A key technique used in Participatory Rural Appraisal (PRA) is:",
-    options: ["Laboratory soil chemistry", "Stock-market analysis", "Resource mapping / transect walks with villagers", "Satellite launch"],
-    correct: 2,
-    explanation: "PRA techniques include resource mapping, transect walks, seasonal calendars, Venn diagrams and wealth ranking - carried out together with the villagers."
-  },
-  {
-    id: "d291l_157",
-    subject: "da-291",
-    lecture: "lecture-10",
-    lectureNo: 10,
-    question: "PM POSHAN (formerly Mid Day Meal) scheme provides:",
-    options: ["Free food grains to all farmers in extension education", "Nutritional supplements to pregnant women only under this extension approach", "Free meals to MGNREGS workers in rural development programmes", "Hot cooked nutritious meals to school children (Class Iâ€“VIII) in government schools"],
-    correct: 3,
-    explanation: "PM POSHAN (Pradhan Mantri Poshan Shakti Nirman, formerly Mid Day Meal Scheme) provides one hot cooked nutritious meal to children in Class Iâ€“VIII (and pre-primary) in all government/aided schools."
-  },
-  {
-    id: "d291l_158",
-    subject: "da-291",
-    lecture: "lecture-10",
-    lectureNo: 10,
-    question: "The extension worker functions mainly as a _____ between research and farmers.",
-    options: ["Tax collector", "Link / bridge (communicator)", "Money lender", "Land surveyor"],
-    correct: 1,
-    explanation: "The extension worker is the vital link/bridge that communicates research findings to farmers and conveys farmers' problems back to research."
-  },
-  {
-    id: "d291l_159",
-    subject: "da-291",
-    lecture: "lecture-10",
-    lectureNo: 10,
-    question: "The 'degrees of evaluation' in extension indicate:",
-    options: ["The price of fertilizer", "The temperature of the soil", "The number of villages", "The thoroughness/level at which a programme is evaluated"],
-    correct: 3,
-    explanation: "Evaluation in extension can be carried out at different degrees (levels of thoroughness), from informal observation to systematic measurement of objectives achieved."
-  },
-  {
-    id: "d291l_160",
-    subject: "da-291",
-    lecture: "lecture-10",
-    lectureNo: 10,
-    question: "Selection and training of local leaders is important in extension because trained leaders:",
-    options: ["Carry extension messages effectively to fellow villagers", "Replace the panchayat election", "Fix the price of milk", "Issue land titles"],
-    correct: 0,
-    explanation: "Selecting and training local leaders multiplies the reach of extension, as trained leaders communicate messages effectively to fellow villagers and sustain programmes."
-  },
-  {
-    id: "d291l_161",
-    subject: "da-291",
-    lecture: "lecture-11",
-    lectureNo: 11,
-    question: "A leaflet in extension education is defined as:",
-    options: ["A bound booklet of 20-30 pages with detailed technical information", "A single sheet of paper printed on one or both sides with brief information", "A monthly newsletter published by agricultural universities in extension education", "A large poster displayed at village entry points in rural development programmes"],
-    correct: 1,
-    explanation: "A leaflet is a single sheet of paper printed on one or both sides, used for disseminating brief agricultural information to farmers.",
-    difficulty: "easy"
-  },
-  {
-    id: "d291l_162",
-    subject: "da-291",
-    lecture: "lecture-11",
-    lectureNo: 11,
-    question: "Which of the following is the correct sequence of agricultural information materials in increasing order of size/detail?",
-    options: ["Bulletin < Pamphlet < Folder < Leaflet", "Leaflet < Folder < Pamphlet < Bulletin", "Pamphlet < Folder < Bulletin < Leaflet", "Folder < Leaflet < Bulletin < Pamphlet"],
-    correct: 1,
-    explanation: "Leaflet is smallest (single sheet), followed by folder (folded sheet), pamphlet (few pages), and bulletin (comprehensive document with more detail).",
-    difficulty: "medium"
-  },
-  {
-    id: "d291l_163",
-    subject: "da-291",
-    lecture: "lecture-11",
-    lectureNo: 11,
-    question: "Assertion (A): Printed agricultural information materials should be written in simple local language.\nReason (R): Farmers are a heterogeneous group with varying educational levels, including many illiterates.",
-    options: ["A is false but R is true", "A is true but R is false", "Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A"],
-    correct: 2,
-    explanation: "Simple local language is essential because farmers vary in education level and many are illiterate, making complex technical language a barrier to communication.",
-    difficulty: "medium"
-  },
-  {
-    id: "d291l_164",
-    subject: "da-291",
-    lecture: "lecture-11",
-    lectureNo: 11,
-    question: "A folder in extension materials is characterized by:",
-    options: ["A large printed chart displayed on walls in extension education", "A collection of loose sheets tied together in rural development programmes", "A bound publication similar to a magazine with multiple articles under this extension approach", "A sheet folded into sections, providing more information than a leaflet but less than a pamphlet"],
-    correct: 3,
-    explanation: "A folder is made by folding a sheet to create sections, offering intermediate detail between a leaflet and a pamphlet.",
-    difficulty: "easy"
-  },
-  {
-    id: "d291l_165",
-    subject: "da-291",
-    lecture: "lecture-11",
-    lectureNo: 11,
-    question: "The cost of paper in printing agricultural information materials should not exceed:",
-    options: ["10-20% of total production cost", "60-70% of total production cost", "30-40% of total production cost", "80-90% of total production cost"],
-    correct: 1,
-    explanation: "According to the DA-291 course material, the cost of paper should not cross 60-70% of the total publication cost to keep printing affordable.",
-    difficulty: "hard"
-  },
-  {
-    id: "d291l_166",
-    subject: "da-291",
-    lecture: "lecture-11",
-    lectureNo: 11,
-    question: "Which of the following is a limitation of printed agricultural information materials?",
-    options: ["Information cannot be disseminated to large groups", "Illiterates cannot read and understand the information", "Repeated reading is not possible", "People do not believe printed information"],
-    correct: 1,
-    explanation: "A major limitation of printed materials is that illiterate farmers cannot read or understand them, limiting their effectiveness in rural areas with high illiteracy.",
-    difficulty: "easy"
-  },
-  {
-    id: "d291l_167",
-    subject: "da-291",
-    lecture: "lecture-11",
-    lectureNo: 11,
-    question: "Three-column matching: Match the extension information material, its feature, and its use:\nCol A: 1-Bulletin, 2-Newsletter, 3-Wall newspaper\nCol B: P-Monthly/quarterly publication, Q-Comprehensive technical document, R-Displayed in public places\nCol C: i-For scientific community, ii-For general awareness, iii-For keeping people informed",
-    options: ["1-Q-i, 2-P-iii, 3-R-ii", "1-Q-iii, 2-R-i, 3-P-ii", "1-P-i, 2-Q-ii, 3-R-iii", "1-R-iii, 2-P-i, 3-Q-ii"],
-    correct: 0,
-    explanation: "Bulletin is a comprehensive technical document (Q) for scientific community (i); Newsletter is monthly/quarterly (P) to keep people informed (iii); Wall newspaper is displayed in public places (R) for general awareness (ii).",
-    difficulty: "hard"
-  },
-  {
-    id: "d291l_168",
-    subject: "da-291",
-    lecture: "lecture-11",
-    lectureNo: 11,
-    question: "A circular letter in extension education is used to:",
-    options: ["Send the same information to many recipients simultaneously", "Replace face-to-face farm and home visits", "Circulate within government departments only", "Present research findings in tabular format"],
-    correct: 0,
-    explanation: "A circular letter is a communication sent simultaneously to many recipients to convey the same information, making it efficient for mass dissemination.",
-    difficulty: "medium"
-  },
-  {
-    id: "d291l_169",
-    subject: "da-291",
-    lecture: "lecture-12",
-    lectureNo: 12,
-    question: "The first step in the extension educational process according to the DA-291 course material is:",
-    options: ["Teaching", "Evaluation", "Analysis of the situation", "Deciding upon objectives"],
-    correct: 2,
-    explanation: "The first phase is analysis of the situation, requiring facts about people's situation, interests, education, needs, social customs, type of farming, markets, etc.",
-    difficulty: "medium"
-  },
-  {
-    id: "d291l_170",
-    subject: "da-291",
-    lecture: "lecture-12",
-    lectureNo: 12,
-    question: "Assertion (A): Extension objectives should express behavioral changes in people as well as economic or social outcomes.\nReason (R): The extension educational process is linear and does not repeat once evaluation is complete.",
-    options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "A is false but R is true", "Both A and R are true but R is not the correct explanation of A"],
-    correct: 1,
-    explanation: "A is true - objectives should express behavioral AND economic/social outcomes. R is false - the extension process is cyclical; after evaluation comes reconsideration, and the process begins again.",
-    difficulty: "medium"
-  },
-  {
-    id: "d291l_171",
-    subject: "da-291",
-    lecture: "lecture-12",
-    lectureNo: 12,
-    question: "The fifth phase of the extension educational process is:",
-    options: ["Situation analysis", "Reconsideration", "Teaching", "Evaluation"],
-    correct: 1,
-    explanation: "The five phases are: (1) Analysis of situation, (2) Deciding objectives, (3) Teaching, (4) Evaluation, (5) Reconsideration - a review of previous efforts revealing a new situation.",
-    difficulty: "medium"
-  },
-  {
-    id: "d291l_172",
-    subject: "da-291",
-    lecture: "lecture-12",
-    lectureNo: 12,
-    question: "In extension education, the teaching phase involves choosing:",
-    options: ["Only the demonstration plots and experimental sites", "Financial resources and government schemes", "Content to be taught and methods/techniques of teaching", "Only the beneficiaries and target groups"],
-    correct: 2,
-    explanation: "The teaching phase involves choosing the content (what is to be taught) and methods/techniques of teaching, using six to nine different methods to stimulate learning.",
-    difficulty: "easy"
-  },
-  {
-    id: "d291l_173",
-    subject: "da-291",
-    lecture: "lecture-12",
-    lectureNo: 12,
-    question: "The basic objective of extension is classified under three categories. Which of the following is NOT one of them?",
-    options: ["Material: Enhancement in production and income", "Social and cultural: Development of community", "Financial: obtaining maximum profit from farming", "Related to education: Change in outlook of people"],
-    correct: 2,
-    explanation: "The three categories of extension objectives are: Material (production/income), Educational (change in outlook), and Social & Cultural (community development). Financial profit-maximization is not listed as a basic objective category.",
-    difficulty: "medium"
-  },
-  {
-    id: "d291l_174",
-    subject: "da-291",
-    lecture: "lecture-12",
-    lectureNo: 12,
-    question: "Three-column matching: Match the extension objective type, its focus, and its example:\nCol A: 1-Material, 2-Educational, 3-Social & Cultural\nCol B: P-Change in people's outlook, Q-Community development, R-Enhancement in production\nCol C: i-Higher crop yields, ii-Formation of cooperatives, iii-Positive attitude towards new technology",
-    options: ["1-P-ii, 2-R-i, 3-Q-iii", "1-Q-iii, 2-P-i, 3-R-ii", "1-R-iii, 2-Q-i, 3-P-ii", "1-R-i, 2-P-iii, 3-Q-ii"],
-    correct: 3,
-    explanation: "Material objective focuses on production enhancement (R) with higher crop yields (i); Educational objective focuses on change in outlook (P) with positive attitude (iii); Social & Cultural focuses on community development (Q) with cooperative formation (ii).",
-    difficulty: "hard"
-  },
-  {
-    id: "d291l_175",
-    subject: "da-291",
-    lecture: "lecture-12",
-    lectureNo: 12,
-    question: "Extension education was first used in agriculture and home science in:",
-    options: ["America", "Sweden", "Norway", "India"],
-    correct: 0,
-    explanation: "For the first time in America, Agricultural extension was used in agriculture and home science, after which the agricultural programs started and were extended to fish culture in Norway and Sweden.",
-    difficulty: "medium"
-  },
-  {
-    id: "d291l_176",
-    subject: "da-291",
-    lecture: "lecture-12",
-    lectureNo: 12,
-    question: "The land grant college method of extension, which was later adopted by almost all universities in India, was implemented for the first time in:",
-    options: ["Japan", "USA", "UK", "Germany"],
-    correct: 1,
-    explanation: "The land grant college model of village development programs was implemented for the first time in USA and was later adopted by almost all universities in India.",
-    difficulty: "easy"
-  },
-  {
-    id: "d291l_177",
-    subject: "da-291",
-    lecture: "lecture-14",
-    lectureNo: 13,
-    question: "The Srinikethan project, considered the first attempt at rural development in India, was started in:",
-    options: ["1952", "1921", "1947", "1914"],
-    correct: 3,
-    explanation: "Srinikethan was launched in 1914 by Rabindranath Tagore at Srinikethan, West Bengal, to improve economic and social conditions of rural people.",
-    difficulty: "medium"
-  },
-  {
-    id: "d291l_178",
-    subject: "da-291",
-    lecture: "lecture-14",
-    lectureNo: 13,
-    question: "The Srinikethan project was started by:",
-    options: ["Mahatma Gandhi", "Dr. Spencer H", "Rabindranath Tagore", "F L B Brown"],
-    correct: 2,
-    explanation: "Srinikethan project was started by Rabindranath Tagore at Srinikethan, West Bengal in 1914, as the first attempt of rural development in India.",
-    difficulty: "easy"
-  },
-  {
-    id: "d291l_179",
-    subject: "da-291",
-    lecture: "lecture-14",
-    lectureNo: 13,
-    question: "The Sevagram rural development programme was started in:",
-    options: ["Gurugram district of Punjab", "Marthandam of Kerala", "Vaardha district of Maharashtra", "Srinikethan of West Bengal"],
-    correct: 2,
-    explanation: "In 1921, Gandhiji started efforts for rural development at Sevagram of Vaardha district of Maharashtra, introducing organic fertilizer, hybrid livestock, and educational system called NAYATHALIM.",
-    difficulty: "medium"
-  },
-  {
-    id: "d291l_180",
-    subject: "da-291",
-    lecture: "lecture-14",
-    lectureNo: 13,
-    question: "The educational system introduced by Gandhiji at Sevagram for children and adults was called:",
-    options: ["NAVODAYA", "NAYATHALIM", "NAVBHARAT", "NAITIK SHIKSHA"],
-    correct: 1,
-    explanation: "Gandhiji introduced an educational system called NAYATHALIM for children and adults as part of the Sevagram rural development programme in 1921.",
-    difficulty: "hard"
-  },
-  {
-    id: "d291l_181",
-    subject: "da-291",
-    lecture: "lecture-14",
-    lectureNo: 13,
-    question: "The Gurugram experiment was initiated by deputy commissioner 'F L B Brown' in:",
-    options: ["Gurugram district of Punjab", "Marthandam of Kerala", "Vaardha district of Maharashtra", "Etawah district of Uttar Pradesh"],
-    correct: 0,
-    explanation: "The Gurugram experiment was initiated by deputy commissioner F L B Brown in Gurugram district of Punjab, establishing a school of rural economy to train village guides.",
-    difficulty: "medium"
-  },
-  {
-    id: "d291l_182",
-    subject: "da-291",
-    lecture: "lecture-14",
-    lectureNo: 13,
-    question: "Assertion (A): The Firka development scheme was introduced by Tongutar Prakasham Panthulu in 1946.\nReason (R): The Firka scheme aimed at 'All round development of rural life' and was later merged into the community development scheme.",
-    options: ["Both A and R are true and R is the correct explanation of A", "A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "A is false but R is true"],
-    correct: 2,
-    explanation: "Both A and R are true. The Firka scheme was introduced by Tongutar Prakasham Panthulu in 1946 with the aim of 'all round development of rural life' and was merged into the community development scheme, but R does not explain why A is true.",
-    difficulty: "medium"
-  },
-  {
-    id: "d291l_183",
-    subject: "da-291",
-    lecture: "lecture-14",
-    lectureNo: 13,
-    question: "The Etawah project was set up in coordination with Albert Mayer at Etawah district of Uttar Pradesh in:",
-    options: ["1952", "1921", "1948", "1946"],
-    correct: 2,
-    explanation: "The Etawah project was set up in 64 villages in coordination with Albert Mayer in 1948 at Etawah district of Uttar Pradesh, becoming the prototype for community development and NES programmes.",
-    difficulty: "medium"
-  },
-  {
-    id: "d291l_184",
-    subject: "da-291",
-    lecture: "lecture-14",
-    lectureNo: 13,
-    question: "A 'calendar of work' differs from a 'plan of work' in that the calendar mainly fixes the:",
-    options: ["Names of voters", "Money to be spent only", "Time schedule (when each activity is done)", "Soil type"],
-    correct: 2,
-    explanation: "The plan of work states what is to be done, how and by whom; the calendar of work arranges those activities according to the time/season when each is to be carried out.",
-    difficulty: "hard"
-  },
-  {
-    id: "d291l_185",
-    subject: "da-291",
-    lecture: "lecture-14",
-    lectureNo: 13,
-    question: "The Nilokheri scheme (1947) was called:",
-    options: ["NAYATHALIM", "Etawah Model", "Firka Development", "Mazdoor Manzil"],
-    correct: 3,
-    explanation: "The Nilokheri scheme of 1947 aimed at self-sufficiency through village organization connecting 7000 Pakistanis in 100 adjoining villages of India and was called 'Mazdoor Manzil'.",
-    difficulty: "hard"
-  },
-  {
-    id: "d291l_186",
-    subject: "da-291",
-    lecture: "lecture-13",
-    lectureNo: 14,
-    question: "Mass extension methods are MOST appropriate when the objective is to:",
-    options: ["Audit accounts", "Teach a complex skill to one farmer", "Settle a land dispute", "Create awareness among a large number of people"],
-    correct: 3,
-    explanation: "Mass methods (radio, publications, campaigns, exhibitions) are best for creating awareness and disseminating information to large numbers, the first step in the adoption process.",
-    difficulty: "easy"
-  },
-  {
-    id: "d291l_187",
-    subject: "da-291",
-    lecture: "lecture-13",
-    lectureNo: 14,
-    question: "The principle of 'working with people, not for them' in extension implies:",
-    options: ["Involving people actively in planning and executing programmes", "Doing everything for the people without their effort", "Ignoring the people's views", "Working only with officials"],
-    correct: 0,
-    explanation: "Extension works WITH the people - involving them in identifying problems, planning and carrying out programmes - rather than doing things FOR them, which builds self-reliance.",
-    difficulty: "medium"
-  },
-  {
-    id: "d291l_188",
-    subject: "da-291",
-    lecture: "lecture-13",
-    lectureNo: 14,
-    question: "Assertion (A): Community development is defined as a process of government efforts united with those of the people to improve social, cultural and economic conditions.\nReason (R): Community development involves technically aided and locally organized self-help.",
-    options: ["Both A and R are true but R is not the correct explanation of A", "A is false but R is true", "Both A and R are true and R is the correct explanation of A", "A is true but R is false"],
-    correct: 0,
-    explanation: "Both definitions are correct - A gives the official definition and R is an alternative description. But R (self-help aspect) does not explain A (government-people partnership), so they are complementary but R does not explain A.",
-    difficulty: "medium"
-  },
-  {
-    id: "d291l_189",
-    subject: "da-291",
-    lecture: "lecture-13",
-    lectureNo: 14,
-    question: "The three important objectives of community development are:",
-    options: ["Economic development, Social justice, Democratic progress", "Agricultural production, Industrial growth, Urban development", "Education, Health, Infrastructure", "Land reform, Women empowerment, Tribal welfare"],
-    correct: 0,
-    explanation: "The three important objectives of community development are: Economic development, Social justice, and Democratic progress.",
-    difficulty: "easy"
-  },
-  {
-    id: "d291l_190",
-    subject: "da-291",
-    lecture: "lecture-13",
-    lectureNo: 14,
-    question: "Each block in the Community Development Programme consisted of:",
-    options: ["100 villages with 60,000 to 70,000 population", "50 villages with 25,000 population", "200 villages with 1 lakh population", "300 villages with 2 lakh population"],
-    correct: 0,
-    explanation: "Each block in the CDP consisted of 100 villages with a population of 60,000 to 70,000.",
-    difficulty: "medium"
-  },
-  {
-    id: "d291l_191",
-    subject: "da-291",
-    lecture: "lecture-13",
-    lectureNo: 14,
-    question: "In Andhra Pradesh, CDP was implemented in three locations. Which of the following was NOT one of them?",
-    options: ["Kurnool and Kadapa (K.C. canal area)", "Visakhapatnam", "East Godavari (Kakinada and Peddapuram)", "Nallagonda (Miryalguda and Huzurnagar)"],
-    correct: 1,
-    explanation: "CDP in Andhra Pradesh was implemented at: East Godavari (Kakinada & Peddapuram), Kurnool and Kadapa (KC canal area), and Nallagonda (Miryalguda and Huzurnagar). Visakhapatnam was not among them.",
-    difficulty: "hard"
-  },
-  {
-    id: "d291l_192",
-    subject: "da-291",
-    lecture: "lecture-13",
-    lectureNo: 14,
-    question: "Three-column matching: Match the phase of CDP, its stage number, and its activity:\nCol A: 1-Emergence phase, 2-Work phase, 3-Final stage\nCol B: P-Stage 1, Q-Stage 3, R-Stage 5\nCol C: i-Finishing touches to all works, ii-Area selection, survey and planning, iii-Implementation of targeted programmes",
-    options: ["1-P-i, 2-R-ii, 3-Q-iii", "1-R-i, 2-P-ii, 3-Q-iii", "1-Q-iii, 2-P-i, 3-R-ii", "1-P-ii, 2-Q-iii, 3-R-i"],
-    correct: 3,
-    explanation: "Emergence phase is Stage 1 (P) with area selection/survey/planning (ii); Work phase is Stage 3 (Q) with implementation of programmes (iii); Final stage is Stage 5 (R) with finishing touches (i).",
-    difficulty: "hard"
-  },
-  {
-    id: "d291l_193",
-    subject: "da-291",
-    lecture: "lecture-15",
-    lectureNo: 15,
-    question: "The local government in India is enshrined in which article of the Indian Constitution?",
-    options: ["Article 370 of Part XXI", "Article 21 of Part III", "Article 356 of Part XVIII", "Article 40 of Part IV"],
-    correct: 3,
-    explanation: "The local government is enshrined in Article 40 of Part IV (Directive Principles of State Policy) of the Indian Constitution.",
-    difficulty: "medium"
-  },
-  {
-    id: "d291l_194",
-    subject: "da-291",
-    lecture: "lecture-15",
-    lectureNo: 15,
-    question: "The Balvantrai Mehta Committee, which recommended the three-tier Panchayati Raj system, was constituted on:",
-    options: ["16th January 1956", "15th August 1947", "26th November 1949", "2nd October 1952"],
-    correct: 0,
-    explanation: "The central government constituted the committee on 16th January 1956 under the chairmanship of Balvantrai Mehta, which recommended the three-tier Panchayati Raj system.",
-    difficulty: "hard"
-  },
-  {
-    id: "d291l_195",
-    subject: "da-291",
-    lecture: "lecture-15",
-    lectureNo: 15,
-    question: "The three tiers of the Panchayati Raj system are:",
-    options: ["Gram Sabha, Block Panchayat, District Board", "Gram Panchayat, Panchayat Samiti, Zilla Parishad", "Village Council, Taluk Board, District Council", "Ward Sabha, Mandal Parishad, Zilla Parishad"],
-    correct: 1,
-    explanation: "The three tiers of Panchayati Raj are: Gram Panchayat (village level), Panchayat Samiti (block level), and Zilla Parishad (district level).",
-    difficulty: "easy"
-  },
-  {
-    id: "d291l_196",
-    subject: "da-291",
-    lecture: "lecture-15",
-    lectureNo: 15,
-    question: "Lord Ripon, who fundamentally shaped local government bodies in India in 1882, is called:",
-    options: ["Father of Panchayati Raj", "Father of local governance", "Father of community development", "Father of Indian democracy"],
-    correct: 1,
-    explanation: "Lord Ripon fundamentally shaped local government bodies by following government laws in 1882 and is called the 'father of local governance' in India.",
-    difficulty: "medium"
-  },
-  {
-    id: "d291l_197",
-    subject: "da-291",
-    lecture: "lecture-15",
-    lectureNo: 15,
-    question: "Assertion (A): A gram panchayat is formed if the minimum population of a village is 250.\nReason (R): Today every village with a population of 500 has one panchayat.",
-    options: ["A is true but R is false", "Both A and R are true but R is not the correct explanation of A", "Both A and R are true and R is the correct explanation of A", "A is false but R is true"],
-    correct: 1,
-    explanation: "Both A and R are true - minimum 250 for formation, and today every village with 500 population has one panchayat. But R (current practice) does not explain A (formation criterion).",
-    difficulty: "medium"
-  },
-  {
-    id: "d291l_198",
-    subject: "da-291",
-    lecture: "lecture-15",
-    lectureNo: 15,
-    question: "The number of gram panchayats in combined Andhra Pradesh state (before bifurcation) was:",
-    options: ["12,765", "27,445", "18,000", "35,000"],
-    correct: 1,
-    explanation: "There were 27,445 gram panchayats in the combined state of Andhra Pradesh (Telangana state alone has 12,765).",
-    difficulty: "hard"
-  },
-  {
-    id: "d291l_199",
-    subject: "da-291",
-    lecture: "lecture-15",
-    lectureNo: 15,
-    question: "Three-column matching: Match the Panchayati Raj tier, its level, and its geographic unit:\nCol A: 1-Gram Panchayat, 2-Panchayat Samiti, 3-Zilla Parishad\nCol B: P-Intermediate/Block level, Q-Lower/Village level, R-Upper/District level\nCol C: i-District, ii-Village, iii-Block",
-    options: ["1-Q-i, 2-R-ii, 3-P-iii", "1-R-i, 2-Q-ii, 3-P-iii", "1-Q-ii, 2-P-iii, 3-R-i", "1-P-ii, 2-Q-iii, 3-R-i"],
-    correct: 2,
-    explanation: "Gram Panchayat is at lower/village level (Q-ii); Panchayat Samiti is at intermediate/block level (P-iii); Zilla Parishad is at upper/district level (R-i).",
-    difficulty: "medium"
-  },
-  {
-    id: "d291l_200",
-    subject: "da-291",
-    lecture: "lecture-15",
-    lectureNo: 15,
-    question: "The functions of Gram Panchayat include all of the following EXCEPT:",
-    options: ["Birth and deaths registrations", "Public health and sanitation", "Collection of state income tax", "Water supply and street lights"],
-    correct: 2,
-    explanation: "Gram Panchayat functions include public health, water supply, street lights, birth/death registration, women/child care, roads/tanks/wells, primary education, and hospitals. Income tax collection is a central/state government function.",
-    difficulty: "easy"
-  },
-  {
-    id: "d291l_201",
-    subject: "da-291",
-    lecture: "lecture-1",
-    lectureNo: 1,
-    question: "Education is defined as the process of bringing a desirable change in the:",
-    options: ["Behaviour of a human being", "Soil fertility status", "Market price of produce", "Climate of a region"],
-    correct: 0,
-    explanation: "As per DA-291 notes: Education is the process of bringing desirable change in the behaviour of human beings."
-  },
-  {
-    id: "d291l_202",
-    subject: "da-291",
-    lecture: "lecture-1",
-    lectureNo: 1,
-    question: "The hierarchically structured education system running from kindergarten through the university is called:",
-    options: ["Informal education", "Formal education", "Non-formal education", "Distance education"],
-    correct: 1,
-    explanation: "As per DA-291 notes: Formal education refers to the hierarchically structured education system running from kindergarten through the university."
-  },
-  {
-    id: "d291l_203",
-    subject: "da-291",
-    lecture: "lecture-1",
-    lectureNo: 1,
-    question: "Organized and systematic educational activity carried on outside the framework of the formal system for a particular group is called:",
-    options: ["Formal education", "Incidental education", "Non-formal education", "Primary education"],
-    correct: 2,
-    explanation: "As per DA-291 notes: Non-formal education is the organized and systematic education activity carried on outside the framework of the formal system to provide selected learning to a particular group."
-  },
-  {
-    id: "d291l_204",
-    subject: "da-291",
-    lecture: "lecture-2",
-    lectureNo: 2,
-    question: "In formal education attendance is compulsory, whereas in non-formal education participation is:",
-    options: ["Compulsory", "Penalised", "Prohibited", "Voluntary"],
-    correct: 3,
-    explanation: "As per DA-291 notes: In formal education attendance is compulsory, while in non-formal education participation is voluntary."
-  },
-  {
-    id: "d291l_205",
-    subject: "da-291",
-    lecture: "lecture-3",
-    lectureNo: 3,
-    question: "In agricultural extension, 'PRA' stands for:",
-    options: ["Participatory Rural Appraisal", "Public Resource Allocation", "Planned Rural Administration", "Primary Rural Agency"],
-    correct: 0,
-    explanation: "As per DA-291 notes: PRA stands for Participatory Rural Appraisal, a method with salient features, principles and techniques used in rural development."
-  },
-  {
-    id: "d291l_206",
-    subject: "da-291",
-    lecture: "lecture-1",
-    lectureNo: 1,
-    question: "Education that is lifelong, incidental, spontaneous and not pre-planned, gained from daily experiences, is called:",
-    options: ["Formal education", "Informal education", "Non-formal education", "Technical education"],
-    correct: 1,
-    explanation: "As per DA-291 notes: Informal education is a lifelong process which is incidental and spontaneous, not pre-planned, and not imparted by any specialized agency."
-  },
+    "id": "d291l_001",
+    "subject": "da-291",
+    "lecture": "lecture-1",
+    "lectureNo": 1,
+    "question": "Who gave the most widely accepted definition of Agricultural Extension?",
+    "options": [
+      "Mosher",
+      "Daniel Mazmanian",
+      "J.P. Leagans",
+      "Malcolm Darling"
+    ],
+    "correct": 2,
+    "explanation": "J.P. Leagans (1961) gave the widely accepted definition: 'Extension is a service or system which assists farm people, through educational procedures, in improving farming methods and techniques, increasing production efficiency and income, bettering their levels of living.'"
+  },
+  {
+    "id": "d291l_002",
+    "subject": "da-291",
+    "lecture": "lecture-1",
+    "lectureNo": 1,
+    "question": "The word 'Extension' in agricultural context was first used in which country?",
+    "options": [
+      "Canada",
+      "United States of America",
+      "United Kingdom (England)",
+      "India"
+    ],
+    "correct": 2,
+    "explanation": "The term 'Extension' in an agricultural education context was first used in England in 1866â€“67 for university extension programmes run by Cambridge and Oxford universities for rural communities."
+  },
+  {
+    "id": "d291l_003",
+    "subject": "da-291",
+    "lecture": "lecture-1",
+    "lectureNo": 1,
+    "question": "The primary philosophy of agricultural extension is based on which principle?",
+    "options": [
+      "Academic research dissemination without farmer feedback",
+      "Government direction of farming practices through regulation",
+      "Top-down transfer of technology from experts to farmers",
+      "Bottom-up approach recognizing farmers' knowledge and building on local leadership"
+    ],
+    "correct": 3,
+    "explanation": "The philosophy of extension is based on grass-roots democracy, local leadership, self-help and recognizing that farmers have valuable knowledge. Extension facilitates rather than dictates."
+  },
+  {
+    "id": "d291l_004",
+    "subject": "da-291",
+    "lecture": "lecture-1",
+    "lectureNo": 1,
+    "question": "How many principles of Agricultural Extension were identified by Leagans?",
+    "options": [
+      "7 principles",
+      "12 principles",
+      "10 principles",
+      "5 principles"
+    ],
+    "correct": 0,
+    "explanation": "J.P. Leagans identified 7 principles of agricultural extension education including: interest and need of people, cultural differentiation, grass-roots organization, among others."
+  },
+  {
+    "id": "d291l_005",
+    "subject": "da-291",
+    "lecture": "lecture-1",
+    "lectureNo": 1,
+    "question": "Which of the following is NOT an objective of Agricultural Extension?",
+    "options": [
+      "Develop local leadership",
+      "Force farmers to adopt modern practices",
+      "Improve the quality of life of rural people",
+      "Increase farm production and income"
+    ],
+    "correct": 1,
+    "explanation": "Extension education never forces adoption of practices. It is a voluntary, educational process. Its objectives include improving production, income, quality of life and developing leadership."
+  },
+  {
+    "id": "d291l_006",
+    "subject": "da-291",
+    "lecture": "lecture-1",
+    "lectureNo": 1,
+    "question": "Agricultural extension in India was formally started with the establishment of:",
+    "options": [
+      "ICAR in 1929",
+      "KVK system in 1974",
+      "National Extension Service (NES) in 1953",
+      "T&V (Training and Visit) System in 1974"
+    ],
+    "correct": 2,
+    "explanation": "The National Extension Service (NES) was formally started in 1953 as part of the Community Development Programme, marking the formal beginning of organized agricultural extension in India."
+  },
+  {
+    "id": "d291l_008",
+    "subject": "da-291",
+    "lecture": "lecture-1",
+    "lectureNo": 1,
+    "question": "The principle of 'Cultural Differentiation' in extension means:",
+    "options": [
+      "Teaching cultural arts alongside farming in extension education",
+      "Using only modern cultural practices under this extension approach",
+      "Differentiating between crop cultural practices in rural development programmes",
+      "Recognizing and respecting the different cultural backgrounds of farm families"
+    ],
+    "correct": 3,
+    "explanation": "The principle of cultural differentiation recognizes that farm families differ in cultural background, values, customs and traditions. Extension programmes must respect and adapt to these differences."
+  },
+  {
+    "id": "d291l_009",
+    "subject": "da-291",
+    "lecture": "lecture-1",
+    "lectureNo": 1,
+    "question": "Extension Education differs from formal education in that extension:",
+    "options": [
+      "Has no curriculum or learning objectives in extension education",
+      "Is non-formal, voluntary, practical and aimed at solving real-life problems",
+      "Focuses only on literacy in rural development programmes",
+      "Is only for educated adults under this extension approach"
+    ],
+    "correct": 1,
+    "explanation": "Extension is non-formal education (no formal classroom, no degrees), voluntary, practical, problem-solving oriented and reaches farmers in their farms and villages throughout the year."
+  },
+  {
+    "id": "d291l_010",
+    "subject": "da-291",
+    "lecture": "lecture-1",
+    "lectureNo": 1,
+    "question": "The main aim of the 'Integrated Approach' of extension is to:",
+    "options": [
+      "Focus exclusively on large farmers",
+      "Address all aspects of rural life",
+      "Focus only on crop production",
+      "Integrate multiple government agencies without farmer involvement"
+    ],
+    "correct": 1,
+    "explanation": "The integrated approach addresses all aspects of rural life simultaneously (crop production, animal husbandry, rural health, education, credit, cooperative) in an integrated manner."
+  },
+  {
+    "id": "d291l_011",
+    "subject": "da-291",
+    "lecture": "lecture-1",
+    "lectureNo": 1,
+    "question": "ATMA (Agricultural Technology Management Agency) was established to:",
+    "options": [
+      "Decentralize and integrate extension at the district level",
+      "Manage agricultural research only in extension education",
+      "Provide farm credit to farmers",
+      "Replace all KVKs in India"
+    ],
+    "correct": 0,
+    "explanation": "ATMA was established under NATP (National Agricultural Technology Project) to decentralize and integrate extension services at the district level, bringing together all agricultural development departments."
+  },
+  {
+    "id": "d291l_012",
+    "subject": "da-291",
+    "lecture": "lecture-1",
+    "lectureNo": 1,
+    "question": "The principle of 'Grass-Roots Organization' in extension means:",
+    "options": [
+      "Organization started from national/state level downward",
+      "Forming groups of large farmers only",
+      "Building organizations from the village level upward",
+      "Organizing farmers only for protest activities"
+    ],
+    "correct": 2,
+    "explanation": "The grass-roots organization principle means building extension organizations from the village/community level (farmers, local leaders) upward, ensuring local ownership and participation."
+  },
+  {
+    "id": "d291l_013",
+    "subject": "da-291",
+    "lecture": "lecture-1",
+    "lectureNo": 1,
+    "question": "Which approach of extension is based on 'whole family approach' emphasizing all family members?",
+    "options": [
+      "Project approach in extension education",
+      "Whole family approach (Home economics approach)",
+      "Commodity approach in rural development programmes",
+      "Area development approach"
+    ],
+    "correct": 1,
+    "explanation": "The whole family approach involves all family members (men, women, youth) in extension activities, recognizing that agricultural decisions involve the entire household and not just the male farmer."
+  },
+  {
+    "id": "d291l_014",
+    "subject": "da-291",
+    "lecture": "lecture-1",
+    "lectureNo": 1,
+    "question": "Communication in extension education involves which elements (Berlo's SMCR model)?",
+    "options": [
+      "Sender, Media, Content, Result",
+      "Subject, Method, Content, Reaction",
+      "Source, Message, Channel, Receiver",
+      "Signal, Method, Coverage, Response"
+    ],
+    "correct": 2,
+    "explanation": "Berlo's SMCR model of communication in extension includes: Source (sender/extension worker), Message (technical information), Channel (method used) and Receiver (farmer/audience)."
+  },
+  {
+    "id": "d291l_015",
+    "subject": "da-291",
+    "lecture": "lecture-1",
+    "lectureNo": 1,
+    "question": "What is the full form of SAU in the context of Indian agricultural education and extension?",
+    "options": [
+      "State Authority for Uplift",
+      "State Agricultural University",
+      "Special Agriculture Unit",
+      "State Agriculture Unit"
+    ],
+    "correct": 1,
+    "explanation": "SAU stands for State Agricultural University. These institutions conduct research, education and extension activities in their respective states. India has 74 SAUs and 5 Deemed Universities."
+  },
+  {
+    "id": "d291l_016",
+    "subject": "da-291",
+    "lecture": "lecture-1",
+    "lectureNo": 1,
+    "question": "The concept of 'sustainable development' in extension education means:",
+    "options": [
+      "Only economic development of farmers in extension education in agriculture",
+      "State-funded development without farmer contribution in rural development programmes",
+      "Development of sustainable irrigation systems only under this extension approach for crop production",
+      "Development that meets present needs without compromising future generations' ability to meet their needs"
+    ],
+    "correct": 3,
+    "explanation": "Sustainable development (Brundtland Commission 1987 definition) means development that meets the needs of present generations without compromising future generations' ability to meet their own needs."
+  },
+  {
+    "id": "d291l_017",
+    "subject": "da-291",
+    "lecture": "lecture-2",
+    "lectureNo": 2,
+    "question": "A 'Farm Visit' as an extension method involves:",
+    "options": [
+      "Farmer visiting the extension office",
+      "Scientists visiting international farms",
+      "Multiple farmers visiting an experiment station",
+      "Extension worker visiting the farmer's field/home"
+    ],
+    "correct": 3,
+    "explanation": "Farm visit is an individual extension method where the extension worker visits the farmer's field or home to advise on specific problems, build personal rapport and observe farm conditions."
+  },
+  {
+    "id": "d291l_018",
+    "subject": "da-291",
+    "lecture": "lecture-2",
+    "lectureNo": 2,
+    "question": "The main advantage of 'Office Call' as an extension method is:",
+    "options": [
+      "Messages can reach large audiences simultaneously in extension education",
+      "Better demonstrations can be given on farm in rural development programmes",
+      "Saves extension worker's travel time and multiple farmers can be served",
+      "Extension worker can see actual farm conditions under this extension approach"
+    ],
+    "correct": 2,
+    "explanation": "Office call (farmer visiting extension office) saves the extension worker's travel time, allows handling multiple farmers in one location and provides access to reference materials and exhibits."
+  },
+  {
+    "id": "d291l_019",
+    "subject": "da-291",
+    "lecture": "lecture-2",
+    "lectureNo": 2,
+    "question": "A 'Result Demonstration' shows farmers:",
+    "options": [
+      "How to do a specific operation correctly (method) in extension education",
+      "A laboratory experiment under controlled conditions in rural development programmes",
+      "Government-sponsored model farms under this extension approach",
+      "The results and benefits of adopting a new practice compared to old practice"
+    ],
+    "correct": 3,
+    "explanation": "A result demonstration shows the results (yield, income) obtained by adopting a new practice compared to the traditional/old practice side by side on a farmer's field."
+  },
+  {
+    "id": "d291l_020",
+    "subject": "da-291",
+    "lecture": "lecture-2",
+    "lectureNo": 2,
+    "question": "A 'Method Demonstration' is used to teach farmers:",
+    "options": [
+      "The final results of adopting new technology",
+      "About government schemes and subsidies",
+      "How to perform a specific skill or operation (step-by-step)",
+      "The economic benefits of new practices"
+    ],
+    "correct": 2,
+    "explanation": "Method demonstration teaches HOW to do something (e.g., how to apply fertilizer, how to do T-budding) step-by-step through a live demonstration. It builds skills in farmers."
+  },
+  {
+    "id": "d291l_021",
+    "subject": "da-291",
+    "lecture": "lecture-2",
+    "lectureNo": 2,
+    "question": "Personal letter as an extension method is most effective for communicating with:",
+    "options": [
+      "Illiterate farmers in mass",
+      "Literate progressive farmers with specific questions",
+      "Only women farmers",
+      "All farmers simultaneously"
+    ],
+    "correct": 1,
+    "explanation": "Personal letter is suitable for literate progressive farmers or farmer leaders who have specific technical queries. It provides personalized response but requires literacy and time."
+  },
+  {
+    "id": "d291l_022",
+    "subject": "da-291",
+    "lecture": "lecture-2",
+    "lectureNo": 2,
+    "question": "The main limitation of individual extension methods (farm visits, office calls) is:",
+    "options": [
+      "Farmers cannot ask questions or interact in extension education",
+      "They are very cheap and unlimited in scale under this extension approach",
+      "They are very effective for technology transfer in rural development programmes",
+      "They can reach only a limited number of farmers at one time"
+    ],
+    "correct": 3,
+    "explanation": "The main limitation of individual methods is low reach â€“ only one or a few farmers can be reached at one time. Extension workers with large jurisdictions cannot visit all farmers regularly."
+  },
+  {
+    "id": "d291l_023",
+    "subject": "da-291",
+    "lecture": "lecture-2",
+    "lectureNo": 2,
+    "question": "The frequency of farm visits recommended under the T&V system is:",
+    "options": [
+      "Annual visits to each farmer",
+      "Every 14 days (fortnightly) to contact farmers",
+      "Monthly visits only",
+      "Daily visits to each farm"
+    ],
+    "correct": 1,
+    "explanation": "Under the Training and Visit (T&V) system, extension workers (Village Level Workers) are required to make contact visits to farmers every 14 days (fortnightly) following a fixed schedule."
+  },
+  {
+    "id": "d291l_024",
+    "subject": "da-291",
+    "lecture": "lecture-2",
+    "lectureNo": 2,
+    "question": "Telephone/mobile phone as an extension method is classified as:",
+    "options": [
+      "Individual method (one-to-one communication)",
+      "Audio-visual method",
+      "Mass media method",
+      "Group method"
+    ],
+    "correct": 0,
+    "explanation": "Telephone/mobile calls are individual extension methods providing one-to-one direct communication between extension worker and farmer. mKisan portal uses SMS as a mass method."
+  },
+  {
+    "id": "d291l_025",
+    "subject": "da-291",
+    "lecture": "lecture-2",
+    "lectureNo": 2,
+    "question": "Which individual method provides farmers with written, lasting reference material?",
+    "options": [
+      "Method demonstration",
+      "Farm visit",
+      "Group meeting",
+      "Personal letter and circulars"
+    ],
+    "correct": 3,
+    "explanation": "Personal letters, circulars and leaflets provide farmers with written, lasting reference material they can read at leisure, share with others and refer back to when needed."
+  },
+  {
+    "id": "d291l_026",
+    "subject": "da-291",
+    "lecture": "lecture-2",
+    "lectureNo": 2,
+    "question": "A 'Contact Farmer' in the T&V extension system is:",
+    "options": [
+      "A progressive farmer who receives information and passes it to neighbors",
+      "A farmer who contacts scientists directly in rural development programmes",
+      "A government agricultural department employee in extension education",
+      "The extension officer at district level under this extension approach"
+    ],
+    "correct": 0,
+    "explanation": "In the T&V system, contact farmers (progressive farmers) receive fortnightly training from VEW (Village Extension Worker) and are expected to share this information with 8â€“10 neighboring farmers."
+  },
+  {
+    "id": "d291l_027",
+    "subject": "da-291",
+    "lecture": "lecture-2",
+    "lectureNo": 2,
+    "question": "Instructional aids that provide learning through hearing only are called:",
+    "options": [
+      "Audio aids",
+      "Visual aids",
+      "Audio-visual aids",
+      "Edible aids"
+    ],
+    "correct": 0,
+    "explanation": "Audio aids (e.g. radio, audio recordings) provide learning through hearing; visual aids through seeing; audio-visual aids through both hearing and watching."
+  },
+  {
+    "id": "d291l_028",
+    "subject": "da-291",
+    "lecture": "lecture-2",
+    "lectureNo": 2,
+    "question": "Which of the following is the most effective individual extension method for skill building?",
+    "options": [
+      "Method demonstration",
+      "Personal letter",
+      "Farm visit (informational only)",
+      "Office call"
+    ],
+    "correct": 0,
+    "explanation": "Method demonstration is the most effective for building skills because farmers watch and practice the skill hands-on. It follows the principle 'I do, you watch; you do, I watch.'"
+  },
+  {
+    "id": "d291l_029",
+    "subject": "da-291",
+    "lecture": "lecture-2",
+    "lectureNo": 2,
+    "question": "In Edgar Dale's Cone of Experience, the most concrete (effective) learning experiences are placed at the:",
+    "options": [
+      "Top of the cone (verbal symbols)",
+      "Base of the cone (direct, purposeful experience)",
+      "Outside the cone",
+      "Centre as printed words"
+    ],
+    "correct": 1,
+    "explanation": "In Edgar Dale's Cone of Experience, direct purposeful (concrete) experiences are at the base and abstract verbal symbols at the apex; learning is more effective with concrete experiences."
+  },
+  {
+    "id": "d291l_030",
+    "subject": "da-291",
+    "lecture": "lecture-2",
+    "lectureNo": 2,
+    "question": "The concept of 'Opinion Leader' in extension is a person who:",
+    "options": [
+      "Opposes all new agricultural practices",
+      "Is always the village political leader",
+      "Influences others' opinions and behavior in a community",
+      "Is the wealthiest farmer in the village"
+    ],
+    "correct": 2,
+    "explanation": "An opinion leader is a person whose opinions and behaviors others in the community look to for guidance. They may or may not be the formal leader. They are key change agents in extension."
+  },
+  {
+    "id": "d291l_031",
+    "subject": "da-291",
+    "lecture": "lecture-2",
+    "lectureNo": 2,
+    "question": "The 'Individual Approach' of extension has the highest impact on adoption because:",
+    "options": [
+      "It is the cheapest method of extension",
+      "It is personalized, builds trust and addresses specific farmer problems",
+      "It reaches the largest number of farmers simultaneously",
+      "It requires no extension worker skill"
+    ],
+    "correct": 1,
+    "explanation": "Individual methods have highest adoption impact because they are personalized, build trust between extension worker and farmer, and address specific problems of individual farmers on their farms."
+  },
+  {
+    "id": "d291l_032",
+    "subject": "da-291",
+    "lecture": "lecture-2",
+    "lectureNo": 2,
+    "question": "Which individual extension method is most appropriate for emergency advisory during pest/disease outbreak?",
+    "options": [
+      "Radio broadcast (mass media)",
+      "Farm visit or telephone (immediate one-to-one advice)",
+      "Personal letter (written communication)",
+      "Result demonstration (takes a full season)"
+    ],
+    "correct": 1,
+    "explanation": "During pest or disease emergencies, immediate individual contact (farm visit or telephone) provides timely, specific and actionable advice to the affected farmer."
+  },
+  {
+    "id": "d291l_033",
+    "subject": "da-291",
+    "lecture": "lecture-3",
+    "lectureNo": 3,
+    "question": "A 'Kisan Mela' (Farmer Fair/Agricultural Exhibition) is an example of which type of extension method?",
+    "options": [
+      "Individual method",
+      "Mass contact method",
+      "Group method",
+      "Research method"
+    ],
+    "correct": 1,
+    "explanation": "Kisan Mela is a mass contact method that reaches thousands of farmers at one time by combining demonstrations, exhibitions, competitions and entertainment related to agriculture."
+  },
+  {
+    "id": "d291l_034",
+    "subject": "da-291",
+    "lecture": "lecture-3",
+    "lectureNo": 3,
+    "question": "Which government television channel in India is exclusively dedicated to agriculture?",
+    "options": [
+      "DD Sports",
+      "DD News",
+      "Doordarshan Kisan (DD Kisan)",
+      "DD National"
+    ],
+    "correct": 2,
+    "explanation": "DD Kisan (Doordarshan Kisan) is a 24Ã—7 satellite TV channel launched in 2015 exclusively for farmers, providing agricultural information, crop advice, market prices and weather forecasts."
+  },
+  {
+    "id": "d291l_035",
+    "subject": "da-291",
+    "lecture": "lecture-3",
+    "lectureNo": 3,
+    "question": "A 'Field Day' in extension education involves:",
+    "options": [
+      "Online virtual agricultural exhibitions",
+      "Farmers visiting demonstration plots to observe results",
+      "Extension workers visiting farmers individually",
+      "Mass media broadcasting of farming information"
+    ],
+    "correct": 1,
+    "explanation": "Field Day (Farmers' Day) brings groups of farmers to visit result demonstration plots to observe results, ask questions and interact with scientists and progressive farmers who conducted the demonstration."
+  },
+  {
+    "id": "d291l_036",
+    "subject": "da-291",
+    "lecture": "lecture-3",
+    "lectureNo": 3,
+    "question": "Radio is preferred as an extension mass media method because it:",
+    "options": [
+      "Provides visual information to farmers in extension education",
+      "Requires electricity always in rural development programmes",
+      "Is very expensive and reaches few farmers under this extension approach",
+      "Is cheap, reaches remote areas and can be used by illiterate farmers"
+    ],
+    "correct": 3,
+    "explanation": "Radio is widely used in extension because it is inexpensive, reaches remote and electrification-lacking areas and can be accessed by illiterate farmers. Farm and Home broadcast programmes are popular."
+  },
+  {
+    "id": "d291l_037",
+    "subject": "da-291",
+    "lecture": "lecture-3",
+    "lectureNo": 3,
+    "question": "What is a 'Village Meeting' in extension and how often should it be held?",
+    "options": [
+      "Meeting of all farmers in a village for agricultural advisory, monthly or as needed",
+      "Annual general body meeting for cooperative societies in extension education",
+      "Meeting of farmers with bank officials only in rural development programmes",
+      "Meeting of panchayat officials only, annually under this extension approach"
+    ],
+    "correct": 0,
+    "explanation": "A village meeting (Gram Sabha or informal village meeting) is a group extension method where all farmers in a village gather to discuss agricultural problems and receive advisory. Frequency varies with need."
+  },
+  {
+    "id": "d291l_038",
+    "subject": "da-291",
+    "lecture": "lecture-3",
+    "lectureNo": 3,
+    "question": "Social media platforms like WhatsApp and YouTube are classified as which extension method type?",
+    "options": [
+      "Group method only",
+      "Traditional mass media",
+      "Individual method only",
+      "New media / ICT-based extension method"
+    ],
+    "correct": 3,
+    "explanation": "Social media (WhatsApp groups, YouTube, Facebook) are ICT-based new media extension methods that can simultaneously serve as individual, group and mass contact methods depending on usage."
+  },
+  {
+    "id": "d291l_039",
+    "subject": "da-291",
+    "lecture": "lecture-3",
+    "lectureNo": 3,
+    "question": "Farmers' Clubs (Krishak Clubs) organized under extension are meant to:",
+    "options": [
+      "Organize political activities in villages under this extension approach",
+      "Only manage irrigation systems in extension education",
+      "Provide only credit to farmers in rural development programmes",
+      "Create a forum for group discussion, learning and collective action among farmers"
+    ],
+    "correct": 3,
+    "explanation": "Farmers' Clubs/Krishak Clubs create forums for collective discussion of agricultural problems, sharing of experiences, adoption of new practices, group demonstrations and accessing services collectively."
+  },
+  {
+    "id": "d291l_040",
+    "subject": "da-291",
+    "lecture": "lecture-3",
+    "lectureNo": 3,
+    "question": "The main advantage of group extension methods over individual methods is:",
+    "options": [
+      "More farmers can be reached with less time and cost",
+      "Higher quality of advice per farmer in extension education",
+      "Better understanding by each individual farmer in rural development programmes",
+      "No travel needed by extension worker under this extension approach"
+    ],
+    "correct": 0,
+    "explanation": "Group methods reach more farmers at one time compared to individual methods, making extension more cost-effective and time-efficient, though with somewhat less personalization."
+  },
+  {
+    "id": "d291l_041",
+    "subject": "da-291",
+    "lecture": "lecture-3",
+    "lectureNo": 3,
+    "question": "mKisan SMS portal is used to:",
+    "options": [
+      "Send personalized SMS advisories on agriculture to registered farmers",
+      "Provide farm loans to mobile phone holders",
+      "Connect farmers with urban consumers directly",
+      "Track farmer activity for government surveys"
+    ],
+    "correct": 0,
+    "explanation": "mKisan portal (mKisan.gov.in) sends crop-specific, location-specific SMS advisories, weather alerts and market information directly to registered farmers' mobile phones in their local language."
+  },
+  {
+    "id": "d291l_042",
+    "subject": "da-291",
+    "lecture": "lecture-3",
+    "lectureNo": 3,
+    "question": "An 'Exhibition' as a mass extension method is most effective for:",
+    "options": [
+      "Resolving individual farm problems in extension education",
+      "Providing personalized farm advice in rural development programmes",
+      "Training farmers in specific skills under this extension approach",
+      "Displaying new varieties, technology and products to large numbers of farmers"
+    ],
+    "correct": 3,
+    "explanation": "Agricultural exhibitions display new varieties, implements, technologies, successful models and success stories, reaching large numbers of farmers simultaneously to create awareness and interest."
+  },
+  {
+    "id": "d291l_044",
+    "subject": "da-291",
+    "lecture": "lecture-3",
+    "lectureNo": 3,
+    "question": "Newspapers as an extension mass media method have the limitation that they:",
+    "options": [
+      "Are more effective than radio in remote areas",
+      "Cannot carry technical agricultural information in extension education",
+      "Are too expensive to publish in rural development programmes",
+      "Can only reach literate farmers and those in areas with distribution"
+    ],
+    "correct": 3,
+    "explanation": "Newspapers can only reach literate farmers and are limited to areas where distribution is available. In India, where rural literacy is not universal and distribution is uneven, this limits their extension reach."
+  },
+  {
+    "id": "d291l_045",
+    "subject": "da-291",
+    "lecture": "lecture-3",
+    "lectureNo": 3,
+    "question": "The five 'S' principles for effective method demonstrations are:",
+    "options": [
+      "Simple, Specific, Significant, Supervised, Successful",
+      "Show, State, Supervise, Support, Summarize",
+      "Slow, Simple, Supervised, Standard, Systematic",
+      "Scale, Speed, Skill, Standard, Show"
+    ],
+    "correct": 0,
+    "explanation": "Effective demonstrations should be: Simple (easy to understand), Specific (one thing at a time), Significant (important to farmers), Supervised (properly guided) and Successful (achieve expected result)."
+  },
+  {
+    "id": "d291l_046",
+    "subject": "da-291",
+    "lecture": "lecture-3",
+    "lectureNo": 3,
+    "question": "Puppet shows (Harikatha, street plays) used in extension in rural India are classified as:",
+    "options": [
+      "Individual extension methods",
+      "Traditional/folk media methods of extension",
+      "Electronic mass media",
+      "Scientific demonstration methods"
+    ],
+    "correct": 1,
+    "explanation": "Traditional/folk media (puppet shows, harikatha, burrakatha, street plays, folk songs) are culturally familiar ways to communicate agricultural messages in entertaining, memorable ways to rural communities."
+  },
+  {
+    "id": "d291l_047",
+    "subject": "da-291",
+    "lecture": "lecture-3",
+    "lectureNo": 3,
+    "question": "A 'Group Discussion' in extension is most appropriate when:",
+    "options": [
+      "Information must reach millions simultaneously",
+      "Technical training in a new skill is needed",
+      "A single expert needs to deliver a lecture",
+      "Farmers need to share experiences and arrive at solutions collectively"
+    ],
+    "correct": 3,
+    "explanation": "Group discussion is most appropriate when farmers need to share experiences, analyze problems and arrive at collective solutions. It promotes active participation and peer learning."
+  },
+  {
+    "id": "d291l_048",
+    "subject": "da-291",
+    "lecture": "lecture-3",
+    "lectureNo": 3,
+    "question": "Leadership in which the leader takes all decisions himself without consulting the group is called:",
+    "options": [
+      "Laissez-faire leadership",
+      "Democratic leadership",
+      "Autocratic leadership",
+      "Bureaucratic leadership"
+    ],
+    "correct": 2,
+    "explanation": "In autocratic (authoritarian) leadership the leader takes decisions alone; in democratic leadership decisions are taken with group participation."
+  },
+  {
+    "id": "d291l_049",
+    "subject": "da-291",
+    "lecture": "lecture-4",
+    "lectureNo": 4,
+    "question": "The lowest tier (village level) of the three-tier Panchayat Raj system is the:",
+    "options": [
+      "State Assembly",
+      "Mandal/Block Panchayat",
+      "Zilla Parishad",
+      "Gram Panchayat"
+    ],
+    "correct": 3,
+    "explanation": "The Panchayat Raj system has three tiers: Gram Panchayat (village), Mandal/Block Panchayat (intermediate) and Zilla Parishad (district)."
+  },
+  {
+    "id": "d291l_050",
+    "subject": "da-291",
+    "lecture": "lecture-4",
+    "lectureNo": 4,
+    "question": "FLD (Front Line Demonstration) is conducted by:",
+    "options": [
+      "Scientists/extension workers on farmers' fields with frontline technology",
+      "Only ICAR research stations in extension education",
+      "Individual farmers on their own initiative",
+      "International agricultural organizations in rural development programmes"
+    ],
+    "correct": 0,
+    "explanation": "Front Line Demonstrations (FLDs) are conducted by scientists of ICAR/SAU on farmers' fields using frontline (latest) technology to demonstrate its superiority over farmers' practice, filling the yield gap."
+  },
+  {
+    "id": "d291l_051",
+    "subject": "da-291",
+    "lecture": "lecture-4",
+    "lectureNo": 4,
+    "question": "In extension programme planning, a 'project' refers to:",
+    "options": [
+      "A single farmer's field",
+      "The entire national plan",
+      "A specific activity undertaken to achieve a defined objective",
+      "A printed leaflet"
+    ],
+    "correct": 2,
+    "explanation": "A project is a specific, time-bound activity or set of activities undertaken to achieve a defined objective within the broader extension programme."
+  },
+  {
+    "id": "d291l_052",
+    "subject": "da-291",
+    "lecture": "lecture-4",
+    "lectureNo": 4,
+    "question": "A sound extension programme should be based on an analysis of the:",
+    "options": [
+      "Urban market only",
+      "Wishes of the extension officer alone",
+      "Random guesses",
+      "Facts of the situation and the people's needs"
+    ],
+    "correct": 3,
+    "explanation": "A principle of programme planning is that the programme must be based on an analysis of the facts of the situation and the felt needs of the people."
+  },
+  {
+    "id": "d291l_053",
+    "subject": "da-291",
+    "lecture": "lecture-4",
+    "lectureNo": 4,
+    "question": "IVLP (Integrated Village Linkage Programme) was designed to:",
+    "options": [
+      "Integrate different crops in a village in rural development programmes",
+      "Link irrigation villages to watershed programmes in extension education",
+      "Assess location-specific technology on multi-location trials in villages before scaling",
+      "Link villages to urban markets only under this extension approach"
+    ],
+    "correct": 2,
+    "explanation": "IVLP was designed to assess location-specific technologies through on-farm trials in villages with farmer participation, providing feedback to researchers on technology suitability before wider promotion."
+  },
+  {
+    "id": "d291l_054",
+    "subject": "da-291",
+    "lecture": "lecture-4",
+    "lectureNo": 4,
+    "question": "In the three-tier Panchayat Raj system, the district-level body is the:",
+    "options": [
+      "Zilla Parishad",
+      "Gram Panchayat",
+      "Mandal Parishad",
+      "Gram Sabha"
+    ],
+    "correct": 0,
+    "explanation": "The Zilla Parishad is the district-level (apex) tier of the three-tier Panchayat Raj system, above the Mandal Parishad and Gram Panchayat."
+  },
+  {
+    "id": "d291l_055",
+    "subject": "da-291",
+    "lecture": "lecture-4",
+    "lectureNo": 4,
+    "question": "ATMA (Agricultural Technology Management Agency), an extension reform, mainly aims to:",
+    "options": [
+      "Fix minimum support prices",
+      "Decentralise and integrate extension at the district level",
+      "Build national highways",
+      "Run commercial banks"
+    ],
+    "correct": 1,
+    "explanation": "ATMA is an extension reform that decentralises and integrates agricultural extension at the district level, promoting bottom-up, farmer-driven and market-led extension."
+  },
+  {
+    "id": "d291l_056",
+    "subject": "da-291",
+    "lecture": "lecture-4",
+    "lectureNo": 4,
+    "question": "The 'yield gap' in agricultural extension refers to:",
+    "options": [
+      "Difference between rabi and kharif yields",
+      "Difference between different crop yields",
+      "Gap between research potential yield and farmers' actual yield",
+      "Gap between rich and poor farmer yields"
+    ],
+    "correct": 2,
+    "explanation": "Yield gap = difference between research (potential) yield and farmer's actual field yield. FLDs aim to fill this gap by demonstrating best practices that increase farmers' productivity."
+  },
+  {
+    "id": "d291l_057",
+    "subject": "da-291",
+    "lecture": "lecture-4",
+    "lectureNo": 4,
+    "question": "Innovators in Rogers' diffusion model are characterized by:",
+    "options": [
+      "Being risk-averse and waiting for proven results",
+      "Opposing all new agricultural technologies in extension education",
+      "Being venturesome, educated, financially able and having wide social networks",
+      "Being the largest group in any community"
+    ],
+    "correct": 2,
+    "explanation": "Innovators (2.5%) are venturesome, educated, financially strong, have cosmopolite social networks (beyond local community) and can absorb failure of a new technology they try."
+  },
+  {
+    "id": "d291l_058",
+    "subject": "da-291",
+    "lecture": "lecture-4",
+    "lectureNo": 4,
+    "question": "'Evaluation' in extension is essentially the process of:",
+    "options": [
+      "Determining the extent to which objectives have been achieved",
+      "Collecting taxes from farmers",
+      "Printing more leaflets",
+      "Electing village leaders"
+    ],
+    "correct": 0,
+    "explanation": "Evaluation is the process of determining the extent to which the objectives of an extension programme have been achieved, so that improvements can be made."
+  },
+  {
+    "id": "d291l_059",
+    "subject": "da-291",
+    "lecture": "lecture-4",
+    "lectureNo": 4,
+    "question": "The 'Relative Advantage' factor that influences technology adoption means:",
+    "options": [
+      "The degree to which innovation is perceived as better than the idea it supersedes",
+      "Advantage of one crop over another in extension education",
+      "Farmers' social status relative to neighbors in rural development programmes",
+      "The cost advantage for rich farmers over poor under this extension approach"
+    ],
+    "correct": 0,
+    "explanation": "Relative advantage is one of Rogers' 5 characteristics of innovations: the degree to which a new technology is perceived to be better (more profitable, easier, superior) than what it replaces."
+  },
+  {
+    "id": "d291l_061",
+    "subject": "da-291",
+    "lecture": "lecture-4",
+    "lectureNo": 4,
+    "question": "ATMA (Agricultural Technology Management Agency) operates at which level?",
+    "options": [
+      "National level (ICAR)",
+      "State level (Agriculture Department)",
+      "District level",
+      "Village/Gram Panchayat level"
+    ],
+    "correct": 2,
+    "explanation": "ATMA operates at the district level and is chaired by the District Collector. It integrates all line departments of agriculture (including livestock, fisheries, horticulture) for unified extension."
+  },
+  {
+    "id": "d291l_062",
+    "subject": "da-291",
+    "lecture": "lecture-4",
+    "lectureNo": 4,
+    "question": "The difference between 'Laggards' and 'Late Majority' in Rogers' adoption categories is:",
+    "options": [
+      "Laggards are younger than Late Majority under this extension approach for crop production",
+      "No significant difference between the two in extension education in agriculture",
+      "Laggards adopt faster than Late Majority in rural development programmes",
+      "Laggards have tradition-bound orientation and adopt last or never; Late Majority are skeptical but adopt after majority"
+    ],
+    "correct": 3,
+    "explanation": "Late Majority (34%) adopt after the average member of society, being skeptical and needing social pressure. Laggards (16%) are tradition-bound, suspicious of change and may never fully adopt."
+  },
+  {
+    "id": "d291l_063",
+    "subject": "da-291",
+    "lecture": "lecture-4",
+    "lectureNo": 4,
+    "question": "Under the Farmers First Programme (FFP) of ICAR, the focus is on:",
+    "options": [
+      "Scientists conducting research only in extension education",
+      "Farmer-scientist partnerships for technology development with farmer needs at center",
+      "Government control of technology development in rural development programmes",
+      "International collaboration for technology import under this extension approach"
+    ],
+    "correct": 1,
+    "explanation": "Farmers First Programme (FFP) of ICAR focuses on farmer-scientist partnerships where farmers' needs drive the research agenda, and scientists work closely with farmers in technology development and testing."
+  },
+  {
+    "id": "d291l_064",
+    "subject": "da-291",
+    "lecture": "lecture-4",
+    "lectureNo": 4,
+    "question": "Which Indian programme linked village adoption of new agricultural technology with the 'package of practices'?",
+    "options": [
+      "T&V System",
+      "Community Development Programme",
+      "National Extension Service 1953",
+      "Intensive Agricultural District Programme (IADP)"
+    ],
+    "correct": 3,
+    "explanation": "The Intensive Agricultural District Programme (IADP â€“ 1961) was the first concentrated attempt to introduce a 'package of improved practices' to selected progressive districts for rapid technology adoption."
+  },
+  {
+    "id": "d291l_065",
+    "subject": "da-291",
+    "lecture": "lecture-5",
+    "lectureNo": 5,
+    "question": "Rural Sociology as a discipline was first formally recognized as an academic field in:",
+    "options": [
+      "Germany",
+      "United States of America",
+      "England",
+      "France"
+    ],
+    "correct": 1,
+    "explanation": "Rural Sociology as a formal academic discipline developed in the United States, with the first Department of Rural Sociology established at Cornell University in 1911."
+  },
+  {
+    "id": "d291l_066",
+    "subject": "da-291",
+    "lecture": "lecture-5",
+    "lectureNo": 5,
+    "question": "The characteristics of rural communities in India include:",
+    "options": [
+      "High population density, nuclear families, anonymous relationships",
+      "Formal governance only, industrialized economy",
+      "Uniform culture across all rural areas",
+      "Low density, extended families, strong community ties, agriculture-based economy"
+    ],
+    "correct": 3,
+    "explanation": "Rural communities in India are characterized by low population density, joint/extended families, strong kinship ties, face-to-face relationships, agriculture-based economy, caste-based social structure and strong traditions."
+  },
+  {
+    "id": "d291l_067",
+    "subject": "da-291",
+    "lecture": "lecture-5",
+    "lectureNo": 5,
+    "question": "Primary social groups in rural sociology are characterized by:",
+    "options": [
+      "Large size, formal rules and impersonal relationships",
+      "Geographical dispersion and virtual interaction",
+      "Temporary membership and contractual relationships",
+      "Small size, intimate face-to-face relationships and lasting bonds"
+    ],
+    "correct": 3,
+    "explanation": "Primary groups (C.H. Cooley's concept) are small, intimate groups with face-to-face interaction, emotional bonds and lasting relationships. Family and close friendship groups are primary groups."
+  },
+  {
+    "id": "d291l_068",
+    "subject": "da-291",
+    "lecture": "lecture-5",
+    "lectureNo": 5,
+    "question": "The caste system in rural India is primarily a form of:",
+    "options": [
+      "Economic class division only in extension education",
+      "Stratification based on hereditary occupational and social hierarchy",
+      "Racial classification in rural development programmes",
+      "Religious affiliation only under this extension approach"
+    ],
+    "correct": 1,
+    "explanation": "The caste system is a form of social stratification based on heredity that classifies Hindus into hierarchical groups (varnas and jatis) associated with traditional occupations and social rules."
+  },
+  {
+    "id": "d291l_069",
+    "subject": "da-291",
+    "lecture": "lecture-5",
+    "lectureNo": 5,
+    "question": "Rural-urban migration in India is mainly caused by:",
+    "options": [
+      "Only urbanization preference without economic reason in extension education in agriculture",
+      "Only government policy pushing people to cities in rural development programmes",
+      "Climate change alone under this extension approach",
+      "Push factors (poverty, unemployment, lack of services) and pull factors (urban jobs, education, better wages)"
+    ],
+    "correct": 3,
+    "explanation": "Rural-urban migration is caused by both push factors (rural unemployment, low wages, poverty, lack of infrastructure) and pull factors (urban job opportunities, higher wages, better education and health services)."
+  },
+  {
+    "id": "d291l_070",
+    "subject": "da-291",
+    "lecture": "lecture-5",
+    "lectureNo": 5,
+    "question": "Social change in rural communities can be brought about through:",
+    "options": [
+      "External force only in extension education in agriculture in irrigated crop production systems",
+      "Education, demonstration effect, contact with outside world, economic improvement and government interventions",
+      "Traditional systems alone in rural development programmes",
+      "Only religious influence under this extension approach for crop production"
+    ],
+    "correct": 1,
+    "explanation": "Social change in rural communities occurs through education, demonstration effect (seeing neighbors benefit from changes), contact with outside world, economic improvement and government programmes."
+  },
+  {
+    "id": "d291l_071",
+    "subject": "da-291",
+    "lecture": "lecture-5",
+    "lectureNo": 5,
+    "question": "The concept of 'Social Mobility' means:",
+    "options": [
+      "Physical movement of people between villages",
+      "Movement of individuals or groups between different social strata/positions",
+      "Movement of social groups during festivals",
+      "Migration from rural to urban areas only"
+    ],
+    "correct": 1,
+    "explanation": "Social mobility refers to the movement of individuals, families or groups from one social status to another (upward or downward). Education, occupation and income affect social mobility."
+  },
+  {
+    "id": "d291l_072",
+    "subject": "da-291",
+    "lecture": "lecture-5",
+    "lectureNo": 5,
+    "question": "The 'Dominant Caste' concept in Indian village was given by sociologist:",
+    "options": [
+      "B.R. Ambedkar",
+      "Karl Marx",
+      "Emile Durkheim",
+      "M.N. Srinivas"
+    ],
+    "correct": 3,
+    "explanation": "M.N. Srinivas introduced the concept of 'Dominant Caste' â€“ a caste that is numerically large, owns most agricultural land and exercises power in the village despite not being at the top of ritual hierarchy."
+  },
+  {
+    "id": "d291l_073",
+    "subject": "da-291",
+    "lecture": "lecture-5",
+    "lectureNo": 5,
+    "question": "A 'Change Agent' in the context of rural sociology is:",
+    "options": [
+      "A government officer imposing change in extension education in agriculture",
+      "A political worker in rural development programmes",
+      "Any new farmer in the village under this extension approach",
+      "A professional who intentionally seeks to influence innovation decisions in a desired direction"
+    ],
+    "correct": 3,
+    "explanation": "A change agent (Rogers' term) is a professional (extension worker, KVK scientist, NGO worker) who intentionally seeks to influence people's innovation decisions and facilitate adoption of new practices."
+  },
+  {
+    "id": "d291l_074",
+    "subject": "da-291",
+    "lecture": "lecture-5",
+    "lectureNo": 5,
+    "question": "The joint family system in rural India is advantageous because it:",
+    "options": [
+      "Provides social security, distributes family labor, reduces risk and maintains family bonds",
+      "Is incompatible with modern agriculture in rural development programmes",
+      "Prevents individual wealth accumulation under this extension approach",
+      "Limits individual freedom excessively in extension education"
+    ],
+    "correct": 0,
+    "explanation": "The joint family system provides collective social security (elderly care, child care), distributes labor across the farm enterprise, shares economic risk and maintains strong social bonds."
+  },
+  {
+    "id": "d291l_075",
+    "subject": "da-291",
+    "lecture": "lecture-5",
+    "lectureNo": 5,
+    "question": "Secondary social groups in rural sociology differ from primary groups in that they are:",
+    "options": [
+      "Family-based only in extension education under tropical agricultural conditions",
+      "Larger, more formal, impersonal with specific purposes (cooperatives, farmer organizations)",
+      "Always temporary and informal in rural development programmes",
+      "Smaller and more intimate under this extension approach"
+    ],
+    "correct": 1,
+    "explanation": "Secondary groups are larger, more formal, have specific purposes (cooperative society, farmer's organization, union) with less intimate, role-based relationships governed by formal rules."
+  },
+  {
+    "id": "d291l_076",
+    "subject": "da-291",
+    "lecture": "lecture-5",
+    "lectureNo": 5,
+    "question": "Sanskritization (concept by M.N. Srinivas) in Indian rural society means:",
+    "options": [
+      "Government scheme for rural literacy in Sanskrit language in extension education",
+      "Teaching Sanskrit in village schools under this extension approach",
+      "Tribal people adopting Hindu customs in rural development programmes in agriculture",
+      "A process by which lower castes emulate the customs/practices of upper castes to rise socially"
+    ],
+    "correct": 3,
+    "explanation": "Sanskritization (M.N. Srinivas) is the process by which lower castes, tribes or other groups adopt the rituals, customs and way of life of upper castes (particularly Brahmins) to claim higher social status."
+  },
+  {
+    "id": "d291l_077",
+    "subject": "da-291",
+    "lecture": "lecture-5",
+    "lectureNo": 5,
+    "question": "Leadership in rural communities can be classified as:",
+    "options": [
+      "Only caste-based hereditary leadership",
+      "Formal (elected/appointed) and informal",
+      "Only religious leadership",
+      "Only formal political leadership"
+    ],
+    "correct": 1,
+    "explanation": "Rural leadership includes formal leaders (Sarpanch, MPP elected representatives) and informal leaders (respected community members, progressive farmers, religious figures, landlords) with natural influence."
+  },
+  {
+    "id": "d291l_078",
+    "subject": "da-291",
+    "lecture": "lecture-5",
+    "lectureNo": 5,
+    "question": "The study of rural sociology helps extension workers by:",
+    "options": [
+      "Managing government funds and schemes under this extension approach",
+      "Learning agricultural technology production methods in extension education",
+      "Enabling them to conduct agricultural research in rural development programmes",
+      "Understanding social structure, group dynamics and how to work effectively with rural communities"
+    ],
+    "correct": 3,
+    "explanation": "Rural sociology knowledge helps extension workers understand village power structures, social groups, informal leaders, barriers to change, communication networks and how to facilitate community participation."
+  },
+  {
+    "id": "d291l_080",
+    "subject": "da-291",
+    "lecture": "lecture-5",
+    "lectureNo": 5,
+    "question": "Women's participation in agricultural extension in India has been improved through which specific approach?",
+    "options": [
+      "Mahila Kisan Sashaktikaran Pariyojana (MKSP) and dedicated women-specific extension programmes",
+      "Limiting extension to household activities only as recommended by ICAR guidelines",
+      "Using only female extension workers for all extension",
+      "Training male farmers to teach their wives under tropical agricultural conditions"
+    ],
+    "correct": 0,
+    "explanation": "MKSP (Mahila Kisan Sashaktikaran Pariyojana) under DAY-NRLM and dedicated women extension workers, SHG-based extension and training programmes have improved women's participation in agricultural extension."
+  },
+  {
+    "id": "d291l_081",
+    "subject": "da-291",
+    "lecture": "lecture-6",
+    "lectureNo": 6,
+    "question": "Which is an essential element considered in extension evaluation?",
+    "options": [
+      "The colour of the office building",
+      "The objectives against which progress is measured",
+      "The price of petrol",
+      "The number of cars"
+    ],
+    "correct": 1,
+    "explanation": "Evaluation involves elements such as clearly stated objectives, evidence of change, and criteria/standards against which the achievement of objectives is judged."
+  },
+  {
+    "id": "d291l_082",
+    "subject": "da-291",
+    "lecture": "lecture-6",
+    "lectureNo": 6,
+    "question": "Gram Sabha, the base of Panchayati Raj, consists of:",
+    "options": [
+      "Only tax-paying residents of the gram panchayat area in extension education",
+      "All adult males in the village only in rural development programmes",
+      "All voters (adults) registered in the electoral rolls of the village/gram panchayat",
+      "All elected members of Gram Panchayat only under this extension approach"
+    ],
+    "correct": 2,
+    "explanation": "Gram Sabha consists of all persons registered in the electoral rolls of the Gram Panchayat area (all adult voters â€“ male and female). It is the primary forum of direct democracy at village level."
+  },
+  {
+    "id": "d291l_083",
+    "subject": "da-291",
+    "lecture": "lecture-6",
+    "lectureNo": 6,
+    "question": "How many tiers does the Panchayati Raj system have in most Indian states?",
+    "options": [
+      "Four tiers in rural development programmes",
+      "Five tiers in extension education",
+      "Two tiers (Gram Panchayat and Zilla Parishad)",
+      "Three tiers (Gram Panchayat, Mandal/Block, Zilla Parishad)"
+    ],
+    "correct": 3,
+    "explanation": "The 73rd Amendment mandates a three-tier Panchayati Raj system: Gram Panchayat (village level), Intermediate Panchayat/Block/Mandal Parishad (block level) and Zilla Parishad (district level)."
+  },
+  {
+    "id": "d291l_084",
+    "subject": "da-291",
+    "lecture": "lecture-6",
+    "lectureNo": 6,
+    "question": "Rural society, compared with urban society, is generally characterised by:",
+    "options": [
+      "Highly heterogeneous, anonymous living",
+      "Industry as the main occupation",
+      "Agriculture as the main occupation and a simple, homogeneous life",
+      "Absence of any occupation"
+    ],
+    "correct": 2,
+    "explanation": "Rural society is marked by agriculture as the dominant occupation, simpler and relatively homogeneous social life, close (primary) relationships and strong traditions."
+  },
+  {
+    "id": "d291l_085",
+    "subject": "da-291",
+    "lecture": "lecture-6",
+    "lectureNo": 6,
+    "question": "Primary (face-to-face, intimate) relationships are MORE typical of:",
+    "options": [
+      "International airports",
+      "Large industrial cities",
+      "Stock exchanges",
+      "Rural communities"
+    ],
+    "correct": 3,
+    "explanation": "Rural communities are characterised by primary (close, face-to-face, personal) relationships, whereas urban communities tend to have secondary, impersonal relationships."
+  },
+  {
+    "id": "d291l_086",
+    "subject": "da-291",
+    "lecture": "lecture-6",
+    "lectureNo": 6,
+    "question": "A major problem of rural development in India is:",
+    "options": [
+      "Poverty, illiteracy and inadequate infrastructure in villages",
+      "Excess of skyscrapers",
+      "Too many stock markets",
+      "Surplus of industries"
+    ],
+    "correct": 0,
+    "explanation": "Rural development must tackle problems such as widespread rural poverty, illiteracy, unemployment/underemployment and inadequate infrastructure and services."
+  },
+  {
+    "id": "d291l_087",
+    "subject": "da-291",
+    "lecture": "lecture-6",
+    "lectureNo": 6,
+    "question": "Participatory Rural Appraisal (PRA) emphasises that the analysis is done:",
+    "options": [
+      "Only by outside experts",
+      "By the rural people themselves, with the worker as a facilitator",
+      "Only by the government",
+      "Without involving villagers"
+    ],
+    "correct": 1,
+    "explanation": "PRA reverses the conventional approach: rural people themselves appraise, analyse and plan, while the extension worker acts only as a facilitator/learner."
+  },
+  {
+    "id": "d291l_088",
+    "subject": "da-291",
+    "lecture": "lecture-6",
+    "lectureNo": 6,
+    "question": "Ward Sabha in Telangana/Andhra Pradesh is a body consisting of:",
+    "options": [
+      "Only elected ward members in extension education",
+      "All Gram Panchayat members in rural development programmes",
+      "District Collector appointed committee under this extension approach",
+      "All voters in a ward (sub-division of Gram Panchayat)"
+    ],
+    "correct": 3,
+    "explanation": "Ward Sabha consists of all persons registered as voters in a ward (the smallest division of Gram Panchayat). Each ward elects one ward member to the Gram Panchayat."
+  },
+  {
+    "id": "d291l_089",
+    "subject": "da-291",
+    "lecture": "lecture-6",
+    "lectureNo": 6,
+    "question": "Mandal Parishad, the intermediate tier of Panchayati Raj in Telangana/Andhra Pradesh, is headed by:",
+    "options": [
+      "District Collector",
+      "Mandal Parishad President (MPP)",
+      "MLA of the constituency",
+      "Gram Panchayat Sarpanch"
+    ],
+    "correct": 1,
+    "explanation": "The Mandal Parishad (intermediate-level PRI corresponding to a Mandal/Block) is headed by the Mandal Parishad President (MPP) who is directly elected."
+  },
+  {
+    "id": "d291l_090",
+    "subject": "da-291",
+    "lecture": "lecture-6",
+    "lectureNo": 6,
+    "question": "Gram Panchayat's main sources of revenue include:",
+    "options": [
+      "Income tax collected from farmers in extension education",
+      "Company dividends in rural development programmes",
+      "Property tax, profession tax, water/drainage fees and government grants",
+      "Export duties on agricultural produce under this extension approach"
+    ],
+    "correct": 2,
+    "explanation": "Gram Panchayats collect property tax, profession tax, water/drainage user fees and receive grants from state and central governments under Finance Commission recommendations and schemes like SFC grants."
+  },
+  {
+    "id": "d291l_091",
+    "subject": "da-291",
+    "lecture": "lecture-6",
+    "lectureNo": 6,
+    "question": "Which is a commonly used PRA technique?",
+    "options": [
+      "DNA sequencing",
+      "Soil chemical titration",
+      "Social/resource mapping by villagers",
+      "Satellite launching"
+    ],
+    "correct": 2,
+    "explanation": "PRA techniques include social and resource mapping, transect walks, seasonal calendars, Venn (chapati) diagrams and matrix/wealth ranking, carried out with the villagers."
+  },
+  {
+    "id": "d291l_092",
+    "subject": "da-291",
+    "lecture": "lecture-6",
+    "lectureNo": 6,
+    "question": "First state in India to implement Panchayati Raj (based on Balwantrai Mehta recommendations) was:",
+    "options": [
+      "Uttar Pradesh",
+      "Tamil Nadu",
+      "Rajasthan",
+      "Maharashtra"
+    ],
+    "correct": 2,
+    "explanation": "Rajasthan was the first state to implement Panchayati Raj on October 2, 1959 at Nagaur. PM Jawaharlal Nehru inaugurated this first Panchayati Raj in Rajasthan."
+  },
+  {
+    "id": "d291l_093",
+    "subject": "da-291",
+    "lecture": "lecture-6",
+    "lectureNo": 6,
+    "question": "Leadership in which decisions are taken with the participation and consent of the group is called:",
+    "options": [
+      "Absentee leadership",
+      "Autocratic leadership",
+      "Laissez-faire leadership",
+      "Democratic leadership"
+    ],
+    "correct": 3,
+    "explanation": "In democratic (participative) leadership, decisions are taken with the involvement and consent of the group; in autocratic leadership the leader decides alone."
+  },
+  {
+    "id": "d291l_094",
+    "subject": "da-291",
+    "lecture": "lecture-6",
+    "lectureNo": 6,
+    "question": "Zilla Parishad (district-level Panchayati Raj body) is headed by:",
+    "options": [
+      "Zilla Parishad President/Chairman (elected)",
+      "State Agriculture Minister",
+      "District Collector (IAS officer)",
+      "District Judge"
+    ],
+    "correct": 0,
+    "explanation": "Zilla Parishad is headed by the elected Zilla Parishad President/Chairman/Adhyaksha. The District Collector is the administrative head who assists but the elected President is the political head."
+  },
+  {
+    "id": "d291l_095",
+    "subject": "da-291",
+    "lecture": "lecture-6",
+    "lectureNo": 6,
+    "question": "A 'laissez-faire' (free-rein) leader is one who:",
+    "options": [
+      "Gives the group full freedom with minimum interference",
+      "Controls every action tightly",
+      "Takes all decisions alone",
+      "Never allows any meeting"
+    ],
+    "correct": 0,
+    "explanation": "A laissez-faire (free-rein) leader gives the group maximum freedom and exercises minimum control or direction, leaving decisions largely to the members."
+  },
+  {
+    "id": "d291l_096",
+    "subject": "da-291",
+    "lecture": "lecture-6",
+    "lectureNo": 6,
+    "question": "National Panchayati Raj Day in India is celebrated on:",
+    "options": [
+      "August 15",
+      "January 26",
+      "April 24",
+      "October 2"
+    ],
+    "correct": 2,
+    "explanation": "National Panchayati Raj Day (Rashtriya Panchayati Raj Diwas) is celebrated on April 24 every year, commemorating the day the 73rd Constitutional Amendment Act came into force in 1993."
+  },
+  {
+    "id": "d291l_097",
+    "subject": "da-291",
+    "lecture": "lecture-7",
+    "lectureNo": 7,
+    "question": "Market-led extension differs from traditional extension in that it focuses on:",
+    "options": [
+      "Avoiding all contact with markets",
+      "Only increasing production regardless of demand",
+      "Helping farmers produce what the market demands and market it profitably",
+      "Distributing free seeds only"
+    ],
+    "correct": 2,
+    "explanation": "Market-led extension reorients extension from production-led to demand/market-led, helping farmers decide what to grow based on market demand and to market produce profitably."
+  },
+  {
+    "id": "d291l_098",
+    "subject": "da-291",
+    "lecture": "lecture-7",
+    "lectureNo": 7,
+    "question": "Training of local leaders is valuable in extension because trained leaders:",
+    "options": [
+      "Replace the gram panchayat election",
+      "Multiply the reach of extension by guiding fellow villagers",
+      "Fix the market price of crops",
+      "Issue land titles"
+    ],
+    "correct": 1,
+    "explanation": "Selecting and training local leaders multiplies extension's reach, as they communicate messages effectively to fellow villagers and sustain programmes after the worker leaves."
+  },
+  {
+    "id": "d291l_099",
+    "subject": "da-291",
+    "lecture": "lecture-7",
+    "lectureNo": 7,
+    "question": "Community development is essentially a process in which:",
+    "options": [
+      "Villages are merged into cities",
+      "Only the government acts without people's participation",
+      "Industries replace agriculture",
+      "Communities participate to improve their own economic and social conditions"
+    ],
+    "correct": 3,
+    "explanation": "Community development is a process by which the people of a community participate, with government help, to improve their own economic, social and cultural conditions."
+  },
+  {
+    "id": "d291l_100",
+    "subject": "da-291",
+    "lecture": "lecture-7",
+    "lectureNo": 7,
+    "question": "Farmer clubs (Krishak Clubs) are linked to NABARD and are established to:",
+    "options": [
+      "Manage government procurement in extension education in agriculture",
+      "Promote collective farming, peer learning and help link farmers to rural development agencies",
+      "Produce seed for distribution in rural development programmes",
+      "Provide banking services to farmers under this extension approach"
+    ],
+    "correct": 1,
+    "explanation": "NABARD-supported Farmer Clubs (Krishak Clubs) are informal groups of 10â€“20 farmers promoted to facilitate collective learning, peer exchange, technology adoption and linkage with banks and government programmes."
+  },
+  {
+    "id": "d291l_101",
+    "subject": "da-291",
+    "lecture": "lecture-7",
+    "lectureNo": 7,
+    "question": "Exposure visits (Study tours) as a training method expose farmers to:",
+    "options": [
+      "Government offices and bureaucratic procedures in extension education",
+      "Urban markets and shopping centers under this extension approach",
+      "Research station laboratories only in rural development programmes",
+      "Success stories, progressive farms and new technology in other locations"
+    ],
+    "correct": 3,
+    "explanation": "Exposure visits/study tours take farmers to progressive farms, KVKs, research stations and success stories in other locations to inspire adoption of new practices through seeing positive real-world results."
+  },
+  {
+    "id": "d291l_102",
+    "subject": "da-291",
+    "lecture": "lecture-7",
+    "lectureNo": 7,
+    "question": "Education that is systematic, classroom-based and certificate-oriented is called:",
+    "options": [
+      "Formal education",
+      "Non-formal education",
+      "Informal education",
+      "Extension education"
+    ],
+    "correct": 0,
+    "explanation": "Formal education is systematic, institution/classroom-based and leads to certificates/degrees, unlike the flexible, need-based non-formal extension education."
+  },
+  {
+    "id": "d291l_103",
+    "subject": "da-291",
+    "lecture": "lecture-7",
+    "lectureNo": 7,
+    "question": "Extension education is regarded as a type of:",
+    "options": [
+      "Formal degree education",
+      "Non-formal, out-of-school education",
+      "Compulsory primary schooling",
+      "Religious instruction"
+    ],
+    "correct": 1,
+    "explanation": "Extension education is non-formal, out-of-school education that lies outside the realm of formal education and is based on the felt needs of the people."
+  },
+  {
+    "id": "d291l_104",
+    "subject": "da-291",
+    "lecture": "lecture-7",
+    "lectureNo": 7,
+    "question": "Community development is fundamentally a programme of:",
+    "options": [
+      "Industrial expansion",
+      "Government action without people",
+      "People's participation for their own all-round development",
+      "Urban housing only"
+    ],
+    "correct": 2,
+    "explanation": "Community development is a process and programme in which people participate, with government assistance, to bring about their own economic, social and cultural development."
+  },
+  {
+    "id": "d291l_105",
+    "subject": "da-291",
+    "lecture": "lecture-7",
+    "lectureNo": 7,
+    "question": "MANAGE (National Institute of Agricultural Extension Management) is located at:",
+    "options": [
+      "Hyderabad (Rajendranagar)",
+      "New Delhi",
+      "Bengaluru",
+      "Lucknow"
+    ],
+    "correct": 0,
+    "explanation": "MANAGE (National Institute of Agricultural Extension Management) is located at Rajendranagar, Hyderabad, Telangana. It is the apex institute for agricultural extension capacity building in India."
+  },
+  {
+    "id": "d291l_106",
+    "subject": "da-291",
+    "lecture": "lecture-7",
+    "lectureNo": 7,
+    "question": "The SAMETI (State Agricultural Management and Extension Training Institute) provides:",
+    "options": [
+      "Research support to SAUs in rural development programmes",
+      "Agricultural credit to farmers in extension education",
+      "Training to mid-level agricultural extension functionaries at state level",
+      "Marketing support for farm produce under this extension approach"
+    ],
+    "correct": 2,
+    "explanation": "SAMETI (State Agricultural Management and Extension Training Institute) provides in-service training to mid-level agricultural extension functionaries at the state level under the ATMA framework."
+  },
+  {
+    "id": "d291l_107",
+    "subject": "da-291",
+    "lecture": "lecture-7",
+    "lectureNo": 7,
+    "question": "The principle that extension work should start with the people's felt needs is the principle of:",
+    "options": [
+      "Compulsory adoption",
+      "Maximum taxation",
+      "Felt needs (working with people, not for them)",
+      "Centralised control"
+    ],
+    "correct": 2,
+    "explanation": "A key principle of extension is to begin with the felt needs and interests of the people and work with them (not for them) using their own resources."
+  },
+  {
+    "id": "d291l_108",
+    "subject": "da-291",
+    "lecture": "lecture-7",
+    "lectureNo": 7,
+    "question": "Farmer Field School (FFS) is a participatory extension methodology where:",
+    "options": [
+      "Farmers watch videos about farming practices in extension education",
+      "Scientists teach farmers in a classroom setting in rural development programmes",
+      "Farmers learn by doing and discovery-based learning in their own fields through the crop season",
+      "Extension workers demonstrate on research farms under this extension approach"
+    ],
+    "correct": 2,
+    "explanation": "Farmer Field Schools (FFS) are groups of 25â€“30 farmers who meet weekly in their fields throughout the crop season to learn by doing (IPM, agroecosystem analysis), promoted by FAO globally."
+  },
+  {
+    "id": "d291l_109",
+    "subject": "da-291",
+    "lecture": "lecture-7",
+    "lectureNo": 7,
+    "question": "Para-extension workers (Krishi Sakhis, Pashu Sakhis) in India are:",
+    "options": [
+      "Corporate agricultural advisors in extension education in agriculture",
+      "Community-based resource persons selected from SHG members trained for peer extension",
+      "NGO employees only in rural development programmes",
+      "Government extension officers under this extension approach for crop production"
+    ],
+    "correct": 1,
+    "explanation": "Para-extension workers (Krishi Sakhis for crop, Pashu Sakhis for livestock) are SHG members selected from the community, trained by KVKs/government and provide peer-level extension support to women farmers."
+  },
+  {
+    "id": "d291l_110",
+    "subject": "da-291",
+    "lecture": "lecture-7",
+    "lectureNo": 7,
+    "question": "In extension, a 'meeting' addressed to a large, undifferentiated audience (e.g., a campaign or radio talk) is a:",
+    "options": [
+      "Farm visit",
+      "Individual contact method",
+      "Result demonstration",
+      "Mass contact method"
+    ],
+    "correct": 3,
+    "explanation": "Mass contact methods (campaigns, exhibitions, radio, television, publications) reach a large number of people at the same time, though with less personal influence than individual methods."
+  },
+  {
+    "id": "d291l_111",
+    "subject": "da-291",
+    "lecture": "lecture-7",
+    "lectureNo": 7,
+    "question": "Kisan Suvidha app was launched by the Government of India to provide farmers with:",
+    "options": [
+      "Aadhaar-linked farmer registration in extension education",
+      "Digital land records only in rural development programmes",
+      "Weather, market prices, agro-advisories, plant protection advice and crop insurance information",
+      "Only farm loan information under this extension approach"
+    ],
+    "correct": 2,
+    "explanation": "Kisan Suvidha app provides farmers with location-specific weather forecasts, market prices, agro-advisories (crop and variety selection), plant protection advice, crop insurance information and dealers' list."
+  },
+  {
+    "id": "d291l_112",
+    "subject": "da-291",
+    "lecture": "lecture-7",
+    "lectureNo": 7,
+    "question": "The major challenges in extension education in India include:",
+    "options": [
+      "Farmers refusing all new technologies in extension education",
+      "Excess technology supply with no farmer demand in rural development programmes",
+      "Inadequate trained manpower, poor adoption rate, low budget and technology access gap for small farmers",
+      "Too many extension workers with nothing to do under this extension approach"
+    ],
+    "correct": 2,
+    "explanation": "Major extension challenges in India: inadequate trained extension manpower, poor technology adoption by small/marginal farmers, insufficient budget, infrastructure gap, digital divide and technology-recommendation mismatch."
+  },
+  {
+    "id": "d291l_113",
+    "subject": "da-291",
+    "lecture": "lecture-8",
+    "lectureNo": 8,
+    "question": "The merit of individual contact methods in extension is that they:",
+    "options": [
+      "Build close personal rapport and allow tailored advice",
+      "Reach the maximum number of people at once",
+      "Require no extension worker",
+      "Are the cheapest per contact"
+    ],
+    "correct": 0,
+    "explanation": "Individual contact methods (farm/home visits) build close personal rapport and allow advice tailored to the individual, though they reach fewer people and cost more per contact."
+  },
+  {
+    "id": "d291l_114",
+    "subject": "da-291",
+    "lecture": "lecture-8",
+    "lectureNo": 8,
+    "question": "A 'circular letter' as an extension information material is used to:",
+    "options": [
+      "Give a single farmer private advice",
+      "Send the same written message to many farmers at once",
+      "Replace a result demonstration",
+      "Conduct an election"
+    ],
+    "correct": 1,
+    "explanation": "A circular letter is a printed/duplicated letter carrying the same message sent to many people at once - a written mass-contact material."
+  },
+  {
+    "id": "d291l_115",
+    "subject": "da-291",
+    "lecture": "lecture-8",
+    "lectureNo": 8,
+    "question": "Rythu Bandhu scheme in Telangana provides farmers with:",
+    "options": [
+      "Crop insurance at zero premium in extension education",
+      "Rs. 10,000 per acre per year (Rs. 5,000 each for kharif and rabi) as investment support",
+      "Free drip irrigation systems in rural development programmes",
+      "Free seeds and fertilizers under this extension approach"
+    ],
+    "correct": 1,
+    "explanation": "Rythu Bandhu (Farmers' Investment Support Scheme) of Telangana provides Rs. 5,000 per acre per season, i.e. Rs. 10,000 per acre per year across the kharif and rabi seasons, as pre-sowing investment support."
+  },
+  {
+    "id": "d291l_116",
+    "subject": "da-291",
+    "lecture": "lecture-8",
+    "lectureNo": 8,
+    "question": "Rythu Bima scheme in Telangana provides:",
+    "options": [
+      "Crop insurance for paddy only in extension education",
+      "Health insurance for farmers in rural development programmes",
+      "Livestock insurance for dairy farmers under this extension approach",
+      "Life insurance of Rs. 5 lakh to farmer family on farmer's death"
+    ],
+    "correct": 3,
+    "explanation": "Rythu Bima is a group life insurance scheme in Telangana providing Rs. 5 lakh life insurance coverage to farmers (5â€“59 years) benefiting under Rythu Bandhu. The government pays the premium."
+  },
+  {
+    "id": "d291l_117",
+    "subject": "da-291",
+    "lecture": "lecture-8",
+    "lectureNo": 8,
+    "question": "A bulletin, as an extension publication, generally contains:",
+    "options": [
+      "No text, only pictures",
+      "Only a one-line slogan",
+      "Detailed information on a subject",
+      "Election results"
+    ],
+    "correct": 2,
+    "explanation": "A bulletin is a printed publication giving detailed information on a particular subject; leaflets and folders carry less information."
+  },
+  {
+    "id": "d291l_118",
+    "subject": "da-291",
+    "lecture": "lecture-8",
+    "lectureNo": 8,
+    "question": "The ultimate objective of agricultural extension is to bring about desirable changes in:",
+    "options": [
+      "Crop prices fixed by government",
+      "Soil colour only",
+      "The weather",
+      "Knowledge, skills and attitudes of rural people"
+    ],
+    "correct": 3,
+    "explanation": "Extension aims to bring about desirable changes in the knowledge, skills and attitudes (and ultimately the behaviour) of rural people for better living."
+  },
+  {
+    "id": "d291l_119",
+    "subject": "da-291",
+    "lecture": "lecture-8",
+    "lectureNo": 8,
+    "question": "'Teaching is an art of creating situations in which the learner can learn' was associated with the work of:",
+    "options": [
+      "Leagans (extension teaching)",
+      "Watson and Crick",
+      "Alfred Marshall",
+      "Carl Linnaeus"
+    ],
+    "correct": 0,
+    "explanation": "Leagans (1961) described extension teaching as creating situations and providing experiences in which effective learning can take place between an instructor and learner."
+  },
+  {
+    "id": "d291l_120",
+    "subject": "da-291",
+    "lecture": "lecture-8",
+    "lectureNo": 8,
+    "question": "The advantage of result demonstrations is that they:",
+    "options": [
+      "Need no inputs or planning",
+      "Help identify and develop local leadership and convince by results",
+      "Always succeed without risk",
+      "Replace all printed materials"
+    ],
+    "correct": 1,
+    "explanation": "Result demonstrations convince farmers by visible results, can be used to educate nearby villages, and help identify local leadership - though a failed demonstration can lose farmers' confidence."
+  },
+  {
+    "id": "d291l_121",
+    "subject": "da-291",
+    "lecture": "lecture-8",
+    "lectureNo": 8,
+    "question": "Programme planning in extension is best described as a:",
+    "options": [
+      "Purely financial audit",
+      "One-time event done only once",
+      "Continuous process of analysing the situation and deciding what to do",
+      "List of village voters"
+    ],
+    "correct": 2,
+    "explanation": "Programme planning is a continuous process involving analysis of the situation, deciding objectives, developing a plan of work and a calendar of work, implementation and evaluation."
+  },
+  {
+    "id": "d291l_122",
+    "subject": "da-291",
+    "lecture": "lecture-8",
+    "lectureNo": 8,
+    "question": "In extension teaching, a 'campaign' is most useful for:",
+    "options": [
+      "Auditing accounts",
+      "Teaching a complex manual skill to one person",
+      "Replacing the gram panchayat",
+      "Creating awareness on a specific topic among many people quickly"
+    ],
+    "correct": 3,
+    "explanation": "A campaign is an intensive mass-contact effort over a short period, suitable for creating awareness about a specific topic (e.g. rat control) among many people."
+  },
+  {
+    "id": "d291l_123",
+    "subject": "da-291",
+    "lecture": "lecture-8",
+    "lectureNo": 8,
+    "question": "The 'plan of work' and 'calendar of work' are products of which extension function?",
+    "options": [
+      "Programme planning",
+      "Soil testing",
+      "Plant breeding",
+      "Pest identification"
+    ],
+    "correct": 0,
+    "explanation": "The plan of work (what/how/who) and calendar of work (when) are prepared during the programme-planning function of extension."
+  },
+  {
+    "id": "d291l_124",
+    "subject": "da-291",
+    "lecture": "lecture-8",
+    "lectureNo": 8,
+    "question": "National Food Security Mission (NFSM) focuses on increasing production of:",
+    "options": [
+      "Only horticultural crops in extension education",
+      "Rice, Wheat, Pulses, Coarse Cereals and Nutri-Cereals",
+      "All crops equally in rural development programmes",
+      "Only export commodities under this extension approach"
+    ],
+    "correct": 1,
+    "explanation": "NFSM focuses on increasing production and productivity of Rice, Wheat, Pulses, Coarse Cereals (Maize) and Nutri-Cereals (Millets) through area expansion and productivity enhancement."
+  },
+  {
+    "id": "d291l_125",
+    "subject": "da-291",
+    "lecture": "lecture-8",
+    "lectureNo": 8,
+    "question": "Which is a characteristic of rural society relevant to extension work?",
+    "options": [
+      "Predominance of heavy industry",
+      "Predominance of agriculture and close-knit social relationships",
+      "Complete absence of traditions",
+      "Purely individualistic, anonymous living"
+    ],
+    "correct": 1,
+    "explanation": "Rural society is characterised by the predominance of agriculture as an occupation, close-knit (primary) relationships, joint families and strong adherence to customs and traditions."
+  },
+  {
+    "id": "d291l_126",
+    "subject": "da-291",
+    "lecture": "lecture-8",
+    "lectureNo": 8,
+    "question": "Diffusion of an innovation refers to the process by which an innovation is:",
+    "options": [
+      "Banned by the government",
+      "Kept secret from all farmers",
+      "Communicated and spread among the members of a social system over time",
+      "Destroyed after one season"
+    ],
+    "correct": 2,
+    "explanation": "Diffusion is the process by which an innovation is communicated through certain channels over time among the members of a social system, leading to its spread and adoption."
+  },
+  {
+    "id": "d291l_127",
+    "subject": "da-291",
+    "lecture": "lecture-8",
+    "lectureNo": 8,
+    "question": "Paramparagat Krishi Vikas Yojana (PKVY) promotes:",
+    "options": [
+      "Chemical-intensive high yield farming in extension education",
+      "GM crop cultivation in rural development programmes",
+      "Organic farming through cluster-based approach with certification and marketing support",
+      "Hydroponic cultivation under this extension approach"
+    ],
+    "correct": 2,
+    "explanation": "PKVY promotes organic farming through a cluster approach (50 acres, 50 farmers per cluster), providing Rs. 50,000 per ha over 3 years for organic conversion, certification (PGS-India) and marketing."
+  },
+  {
+    "id": "d291l_128",
+    "subject": "da-291",
+    "lecture": "lecture-8",
+    "lectureNo": 8,
+    "question": "The five stages of the adoption process (Rogers) are awareness, interest, evaluation, trial and:",
+    "options": [
+      "Migration",
+      "Rejection",
+      "Taxation",
+      "Adoption"
+    ],
+    "correct": 3,
+    "explanation": "The adoption process passes through five stages: awareness, interest, evaluation, trial and adoption."
+  },
+  {
+    "id": "d291l_129",
+    "subject": "da-291",
+    "lecture": "lecture-9",
+    "lectureNo": 9,
+    "question": "The intermediate (block/mandal) tier of the three-tier Panchayat Raj system is the:",
+    "options": [
+      "State Legislature",
+      "Gram Panchayat",
+      "Zilla Parishad",
+      "Mandal/Panchayat Samiti"
+    ],
+    "correct": 3,
+    "explanation": "The intermediate tier of Panchayat Raj is the Mandal Parishad/Panchayat Samiti (block level), between the Gram Panchayat (village) and the Zilla Parishad (district)."
+  },
+  {
+    "id": "d291l_130",
+    "subject": "da-291",
+    "lecture": "lecture-9",
+    "lectureNo": 9,
+    "question": "PAC (Primary Agricultural Credit Society) is the base unit of the cooperative credit structure that:",
+    "options": [
+      "Provides short-term crop loans to farmers at the village level",
+      "Provides only long-term land development loans",
+      "Is managed by the Reserve Bank of India directly",
+      "Only provides marketing services, no credit"
+    ],
+    "correct": 0,
+    "explanation": "PACs provide short-term agricultural credit (crop loans) to farmer members at the village level. They are the primary tier of the short-term cooperative credit structure."
+  },
+  {
+    "id": "d291l_131",
+    "subject": "da-291",
+    "lecture": "lecture-9",
+    "lectureNo": 9,
+    "question": "The three-tier short-term cooperative credit structure in India is:",
+    "options": [
+      "RRB â†’ DCCB â†’ PACS in extension education",
+      "PACS â†’ DCCB (District Central Cooperative Bank) â†’ STCB (State Cooperative Bank)",
+      "NABARD â†’ Commercial Banks â†’ PACS in rural development programmes",
+      "Cooperative Society â†’ NABARD â†’ RBI under this extension approach"
+    ],
+    "correct": 1,
+    "explanation": "Short-term cooperative credit: PACS (village) â†’ DCCB/CCB (district) â†’ STCB (state). NABARD refinances the State Cooperative Banks which on-lend to DCCBs which lend to PACS."
+  },
+  {
+    "id": "d291l_132",
+    "subject": "da-291",
+    "lecture": "lecture-9",
+    "lectureNo": 9,
+    "question": "Self Help Groups (SHGs) typically consist of how many members?",
+    "options": [
+      "50â€“100 members",
+      "200â€“300 members",
+      "10â€“20 members",
+      "3â€“5 members"
+    ],
+    "correct": 2,
+    "explanation": "SHGs typically consist of 10â€“20 persons (usually women) from homogeneous socio-economic backgrounds who voluntarily come together to save regularly and access credit for livelihood activities."
+  },
+  {
+    "id": "d291l_133",
+    "subject": "da-291",
+    "lecture": "lecture-9",
+    "lectureNo": 9,
+    "question": "The stage of the adoption process in which a farmer tries a new practice on a small scale is the:",
+    "options": [
+      "Trial stage",
+      "Awareness stage",
+      "Adoption stage",
+      "Interest stage"
+    ],
+    "correct": 0,
+    "explanation": "In the trial stage the farmer uses the innovation on a small scale to judge its usefulness before full adoption."
+  },
+  {
+    "id": "d291l_134",
+    "subject": "da-291",
+    "lecture": "lecture-9",
+    "lectureNo": 9,
+    "question": "Microfinance in rural India provides financial services mainly to:",
+    "options": [
+      "Export-oriented agricultural enterprises in extension education",
+      "Large corporate agribusinesses under this extension approach",
+      "Government departments only in rural development programmes",
+      "Poor and low-income households excluded from formal banking system"
+    ],
+    "correct": 3,
+    "explanation": "Microfinance provides small loans, savings, insurance and other financial services to poor and low-income households (especially women) who lack access to formal banking, often through SHG-Bank Linkage Programme."
+  },
+  {
+    "id": "d291l_135",
+    "subject": "da-291",
+    "lecture": "lecture-9",
+    "lectureNo": 9,
+    "question": "The general body of all adult voters of a village in the Panchayat Raj system is the:",
+    "options": [
+      "Gram Sabha",
+      "Zilla Parishad",
+      "Lok Sabha",
+      "Rajya Sabha"
+    ],
+    "correct": 0,
+    "explanation": "The Gram Sabha consists of all adult voters of a village (panchayat) and is the foundation of the Panchayat Raj system."
+  },
+  {
+    "id": "d291l_136",
+    "subject": "da-291",
+    "lecture": "lecture-9",
+    "lectureNo": 9,
+    "question": "Under the ATMA model, extension is made:",
+    "options": [
+      "Top-down and centralised at the national level",
+      "Bottom-up, farmer-driven and decentralised at the district level",
+      "Purely commercial with no farmers",
+      "Run only from foreign countries"
+    ],
+    "correct": 1,
+    "explanation": "ATMA (Agricultural Technology Management Agency) decentralises extension to the district level, making it bottom-up, participatory and farmer-driven (and market-led)."
+  },
+  {
+    "id": "d291l_137",
+    "subject": "da-291",
+    "lecture": "lecture-9",
+    "lectureNo": 9,
+    "question": "Leadership in extension is important because local leaders:",
+    "options": [
+      "Replace the extension worker permanently",
+      "Help diffuse new ideas and influence other community members",
+      "Fix crop prices",
+      "Conduct soil tests"
+    ],
+    "correct": 1,
+    "explanation": "Local (village) leaders influence the attitudes and behaviour of others, help diffuse new ideas and serve as a vital link between the extension agency and the community."
+  },
+  {
+    "id": "d291l_138",
+    "subject": "da-291",
+    "lecture": "lecture-9",
+    "lectureNo": 9,
+    "question": "SREP (Strategic Research and Extension Plan) under ATMA is prepared at the:",
+    "options": [
+      "International level by the UN",
+      "National level by Parliament",
+      "District level through participatory methods",
+      "Household level by each farmer"
+    ],
+    "correct": 2,
+    "explanation": "Under the ATMA model, a Strategic Research and Extension Plan (SREP) is prepared for each district through participatory methods (e.g. PRA) to guide research and extension."
+  },
+  {
+    "id": "d291l_139",
+    "subject": "da-291",
+    "lecture": "lecture-9",
+    "lectureNo": 9,
+    "question": "Cooperative Credit Societies (CCS) follow the basic principles of Cooperation. The main principle is:",
+    "options": [
+      "Only agricultural credit, no other services in extension education",
+      "One man, one vote (democratic management regardless of share capital)",
+      "Profit maximization for shareholders in rural development programmes",
+      "Government management of cooperative activities under this extension approach"
+    ],
+    "correct": 1,
+    "explanation": "The fundamental cooperative principle is 'one member, one vote' (democratic governance) regardless of share capital. This distinguishes cooperatives from joint stock companies where voting power is proportional to shares."
+  },
+  {
+    "id": "d291l_140",
+    "subject": "da-291",
+    "lecture": "lecture-9",
+    "lectureNo": 9,
+    "question": "NABARD's main functions include:",
+    "options": [
+      "Only managing government agricultural schemes in extension education in agriculture",
+      "Only providing direct loans to farmers in rural development programmes",
+      "Refinancing of agricultural credit, development banking, supervision of RRBs and cooperative banks, and rural infrastructure financing",
+      "Only providing crop insurance services under this extension approach for crop production"
+    ],
+    "correct": 2,
+    "explanation": "NABARD provides refinancing to cooperative banks, RRBs and commercial banks; supervises State Cooperative Banks and RRBs; finances rural infrastructure (RIDF); promotes SHGs and FPOs."
+  },
+  {
+    "id": "d291l_141",
+    "subject": "da-291",
+    "lecture": "lecture-9",
+    "lectureNo": 9,
+    "question": "The interest subvention scheme for short-term crop loans in India provides loans at:",
+    "options": [
+      "7% per annum (or 4% for prompt payers)",
+      "0% interest in extension education",
+      "18% per annum in rural development programmes",
+      "12% per annum under this extension approach"
+    ],
+    "correct": 0,
+    "explanation": "Interest subvention scheme provides short-term crop loans up to Rs. 3 lakh at 7% per annum. Farmers who repay promptly get an additional 3% subvention, effectively paying 4% per annum."
+  },
+  {
+    "id": "d291l_142",
+    "subject": "da-291",
+    "lecture": "lecture-9",
+    "lectureNo": 9,
+    "question": "The 'felt needs' principle of extension means programmes should start from:",
+    "options": [
+      "The needs of city consumers",
+      "The needs decided only by scientists",
+      "The needs that the people themselves recognise and feel",
+      "Needs imposed by law"
+    ],
+    "correct": 2,
+    "explanation": "Extension should begin with the felt needs - the needs that the people themselves recognise - so that they are motivated to participate and act."
+  },
+  {
+    "id": "d291l_143",
+    "subject": "da-291",
+    "lecture": "lecture-9",
+    "lectureNo": 9,
+    "question": "The principle of 'learning by doing' in extension is best achieved through:",
+    "options": [
+      "Paying a subsidy",
+      "Reading a single leaflet",
+      "Listening to one radio talk",
+      "Method demonstrations and practicals"
+    ],
+    "correct": 3,
+    "explanation": "'Learning by doing' is best achieved through method demonstrations and hands-on practicals, where the learner actually performs the skill."
+  },
+  {
+    "id": "d291l_144",
+    "subject": "da-291",
+    "lecture": "lecture-9",
+    "lectureNo": 9,
+    "question": "IFFCO (Indian Farmers Fertilizer Cooperative) is an example of which type of cooperative?",
+    "options": [
+      "Input supply cooperative (fertilizer production and supply)",
+      "Credit cooperative (lending money)",
+      "Marketing cooperative (selling produce)",
+      "Consumer cooperative (buying goods for members)"
+    ],
+    "correct": 0,
+    "explanation": "IFFCO is a farmer-owned fertilizer cooperative that manufactures and supplies fertilizers (urea, DAP) to its member PACS and cooperatives at cost-effective prices. It is the world's largest cooperative fertilizer company."
+  },
+  {
+    "id": "d291l_145",
+    "subject": "da-291",
+    "lecture": "lecture-10",
+    "lectureNo": 10,
+    "question": "Non-formal education such as extension is characterised by being:",
+    "options": [
+      "Flexible, need-based and not bound by a rigid curriculum",
+      "Rigid, examination-bound and certificate-oriented",
+      "Available only to children",
+      "Compulsory for all citizens"
+    ],
+    "correct": 0,
+    "explanation": "Non-formal (extension) education is flexible, need-based, learner-centred and not bound by a rigid curriculum or examinations, unlike formal education."
+  },
+  {
+    "id": "d291l_146",
+    "subject": "da-291",
+    "lecture": "lecture-10",
+    "lectureNo": 10,
+    "question": "Agricultural extension's scope includes transferring improved technology from research stations to:",
+    "options": [
+      "Foreign countries only",
+      "The farmers' fields (and farmers' problems back to research)",
+      "Government treasuries",
+      "City factories"
+    ],
+    "correct": 1,
+    "explanation": "The scope of agricultural extension is a two-way process: carrying useful research findings to farmers' fields and taking farmers' problems back to research for solutions."
+  },
+  {
+    "id": "d291l_147",
+    "subject": "da-291",
+    "lecture": "lecture-10",
+    "lectureNo": 10,
+    "question": "An 'exhibition' as an extension method is effective because it:",
+    "options": [
+      "Requires no preparation",
+      "Gives private advice to one farmer",
+      "Shows ideas and objects visually to many people at once",
+      "Is a printed circular"
+    ],
+    "correct": 2,
+    "explanation": "An exhibition is a systematic display of models, specimens, charts and information that conveys ideas visually to a large number of people, combining seeing with interest."
+  },
+  {
+    "id": "d291l_148",
+    "subject": "da-291",
+    "lecture": "lecture-10",
+    "lectureNo": 10,
+    "question": "The Evergreen Revolution concept promoted by Dr. M.S. Swaminathan aims at:",
+    "options": [
+      "Increasing productivity while conserving biodiversity and natural resources for sustainability",
+      "Converting all forests to agricultural land in extension education",
+      "Continuous application of chemical fertilizers in rural development programmes",
+      "Maximizing production regardless of environmental impact under this extension approach"
+    ],
+    "correct": 0,
+    "explanation": "The Evergreen Revolution (M.S. Swaminathan) aims for productivity improvement in perpetuity without ecological harm by integrating traditional ecological knowledge with frontier science."
+  },
+  {
+    "id": "d291l_149",
+    "subject": "da-291",
+    "lecture": "lecture-10",
+    "lectureNo": 10,
+    "question": "Which is a merit of a result demonstration in extension?",
+    "options": [
+      "It works only indoors",
+      "It teaches a manual skill step by step",
+      "It needs no land or inputs",
+      "It convinces farmers by showing actual results and builds confidence"
+    ],
+    "correct": 3,
+    "explanation": "A result demonstration convinces farmers of the worth of an improved practice by showing actual results in the field, building their confidence to adopt it."
+  },
+  {
+    "id": "d291l_150",
+    "subject": "da-291",
+    "lecture": "lecture-10",
+    "lectureNo": 10,
+    "question": "The reconsideration (final) phase of the extension education process deals with:",
+    "options": [
+      "Construction of dams",
+      "Collection of land tax",
+      "Election of the sarpanch",
+      "Unattained objectives and unaddressed problems for the next cycle"
+    ],
+    "correct": 3,
+    "explanation": "In the reconsideration phase, the unattained objectives and unaddressed problems are reconsidered and fed back into the next cycle of the extension education process."
+  },
+  {
+    "id": "d291l_151",
+    "subject": "da-291",
+    "lecture": "lecture-10",
+    "lectureNo": 10,
+    "question": "Wall newspapers, as an extension information material, are useful for:",
+    "options": [
+      "Displaying current information at a public place for many to read",
+      "Sending a private letter",
+      "Conducting a method demonstration",
+      "Testing soil samples"
+    ],
+    "correct": 0,
+    "explanation": "A wall newspaper displays brief, current information at a public place (e.g. a village centre) where many people can read it - a low-cost mass medium."
+  },
+  {
+    "id": "d291l_152",
+    "subject": "da-291",
+    "lecture": "lecture-10",
+    "lectureNo": 10,
+    "question": "Integrated Child Development Services (ICDS) programme focuses on:",
+    "options": [
+      "Nutrition, health and early childhood education for children under 6 and pregnant/lactating mothers",
+      "Vocational training for rural youth in rural development programmes",
+      "Agricultural training for farm children under this extension approach",
+      "Secondary education for rural children in extension education"
+    ],
+    "correct": 0,
+    "explanation": "ICDS provides an integrated package of nutrition (supplementary feeding), health (immunization, health check-up) and early childhood education to children under 6 years and pregnant/lactating mothers."
+  },
+  {
+    "id": "d291l_153",
+    "subject": "da-291",
+    "lecture": "lecture-10",
+    "lectureNo": 10,
+    "question": "In a method demonstration, the emphasis is on teaching the farmer:",
+    "options": [
+      "How to do a particular operation or skill",
+      "The history of agriculture",
+      "The price of land",
+      "The names of officials"
+    ],
+    "correct": 0,
+    "explanation": "A method demonstration teaches 'how to do' a particular operation/skill through seeing, listening and doing, so the learner can perform it himself."
+  },
+  {
+    "id": "d291l_154",
+    "subject": "da-291",
+    "lecture": "lecture-10",
+    "lectureNo": 10,
+    "question": "Rural development aims primarily at improving the:",
+    "options": [
+      "Profits of urban industries",
+      "Economic and social well-being of rural people",
+      "Number of city skyscrapers",
+      "Stock market index"
+    ],
+    "correct": 1,
+    "explanation": "Rural development aims at improving the economic and social well-being (income, employment, health, education, infrastructure) of people living in rural areas."
+  },
+  {
+    "id": "d291l_155",
+    "subject": "da-291",
+    "lecture": "lecture-10",
+    "lectureNo": 10,
+    "question": "National Mission for Sustainable Agriculture (NMSA) focuses on:",
+    "options": [
+      "Increasing chemical fertilizer use in extension education in agriculture",
+      "Climate-resilient agriculture through soil health, water use efficiency and integrated farming systems",
+      "Only seed sector development in rural development programmes",
+      "Organic farming only under this extension approach for crop production"
+    ],
+    "correct": 1,
+    "explanation": "NMSA (one of 8 National Missions under NAPCC) focuses on making agriculture climate-resilient through soil health management, water use efficiency, integrated farming, climate change adaptation and mitigation."
+  },
+  {
+    "id": "d291l_156",
+    "subject": "da-291",
+    "lecture": "lecture-10",
+    "lectureNo": 10,
+    "question": "A key technique used in Participatory Rural Appraisal (PRA) is:",
+    "options": [
+      "Laboratory soil chemistry",
+      "Stock-market analysis",
+      "Resource mapping / transect walks with villagers",
+      "Satellite launch"
+    ],
+    "correct": 2,
+    "explanation": "PRA techniques include resource mapping, transect walks, seasonal calendars, Venn diagrams and wealth ranking - carried out together with the villagers."
+  },
+  {
+    "id": "d291l_157",
+    "subject": "da-291",
+    "lecture": "lecture-10",
+    "lectureNo": 10,
+    "question": "PM POSHAN (formerly Mid Day Meal) scheme provides:",
+    "options": [
+      "Free food grains to all farmers in extension education",
+      "Nutritional supplements to pregnant women only under this extension approach",
+      "Free meals to MGNREGS workers in rural development programmes",
+      "Hot cooked nutritious meals to school children (Class Iâ€“VIII) in government schools"
+    ],
+    "correct": 3,
+    "explanation": "PM POSHAN (Pradhan Mantri Poshan Shakti Nirman, formerly Mid Day Meal Scheme) provides one hot cooked nutritious meal to children in Class Iâ€“VIII (and pre-primary) in all government/aided schools."
+  },
+  {
+    "id": "d291l_159",
+    "subject": "da-291",
+    "lecture": "lecture-10",
+    "lectureNo": 10,
+    "question": "The 'degrees of evaluation' in extension indicate:",
+    "options": [
+      "The price of fertilizer",
+      "The temperature of the soil",
+      "The number of villages",
+      "The thoroughness/level at which a programme is evaluated"
+    ],
+    "correct": 3,
+    "explanation": "Evaluation in extension can be carried out at different degrees (levels of thoroughness), from informal observation to systematic measurement of objectives achieved."
+  },
+  {
+    "id": "d291l_160",
+    "subject": "da-291",
+    "lecture": "lecture-10",
+    "lectureNo": 10,
+    "question": "Selection and training of local leaders is important in extension because trained leaders:",
+    "options": [
+      "Carry extension messages effectively to fellow villagers",
+      "Replace the panchayat election",
+      "Fix the price of milk",
+      "Issue land titles"
+    ],
+    "correct": 0,
+    "explanation": "Selecting and training local leaders multiplies the reach of extension, as trained leaders communicate messages effectively to fellow villagers and sustain programmes."
+  },
+  {
+    "id": "d291l_161",
+    "subject": "da-291",
+    "lecture": "lecture-11",
+    "lectureNo": 11,
+    "question": "A leaflet in extension education is defined as:",
+    "options": [
+      "A bound booklet of 20-30 pages with detailed technical information",
+      "A single sheet of paper printed on one or both sides with brief information",
+      "A monthly newsletter published by agricultural universities in extension education",
+      "A large poster displayed at village entry points in rural development programmes"
+    ],
+    "correct": 1,
+    "explanation": "A leaflet is a single sheet of paper printed on one or both sides, used for disseminating brief agricultural information to farmers.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "d291l_162",
+    "subject": "da-291",
+    "lecture": "lecture-11",
+    "lectureNo": 11,
+    "question": "Which of the following is the correct sequence of agricultural information materials in increasing order of size/detail?",
+    "options": [
+      "Bulletin < Pamphlet < Folder < Leaflet",
+      "Leaflet < Folder < Pamphlet < Bulletin",
+      "Pamphlet < Folder < Bulletin < Leaflet",
+      "Folder < Leaflet < Bulletin < Pamphlet"
+    ],
+    "correct": 1,
+    "explanation": "Leaflet is smallest (single sheet), followed by folder (folded sheet), pamphlet (few pages), and bulletin (comprehensive document with more detail).",
+    "difficulty": "medium"
+  },
+  {
+    "id": "d291l_163",
+    "subject": "da-291",
+    "lecture": "lecture-11",
+    "lectureNo": 11,
+    "question": "Assertion (A): Printed agricultural information materials should be written in simple local language.\nReason (R): Farmers are a heterogeneous group with varying educational levels, including many illiterates.",
+    "options": [
+      "A is false but R is true",
+      "A is true but R is false",
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A"
+    ],
+    "correct": 2,
+    "explanation": "Simple local language is essential because farmers vary in education level and many are illiterate, making complex technical language a barrier to communication.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "d291l_164",
+    "subject": "da-291",
+    "lecture": "lecture-11",
+    "lectureNo": 11,
+    "question": "A folder in extension materials is characterized by:",
+    "options": [
+      "A large printed chart displayed on walls in extension education",
+      "A collection of loose sheets tied together in rural development programmes",
+      "A bound publication similar to a magazine with multiple articles under this extension approach",
+      "A sheet folded into sections, providing more information than a leaflet but less than a pamphlet"
+    ],
+    "correct": 3,
+    "explanation": "A folder is made by folding a sheet to create sections, offering intermediate detail between a leaflet and a pamphlet.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "d291l_165",
+    "subject": "da-291",
+    "lecture": "lecture-11",
+    "lectureNo": 11,
+    "question": "The cost of paper in printing agricultural information materials should not exceed:",
+    "options": [
+      "10-20% of total production cost",
+      "60-70% of total production cost",
+      "30-40% of total production cost",
+      "80-90% of total production cost"
+    ],
+    "correct": 1,
+    "explanation": "According to the DA-291 course material, the cost of paper should not cross 60-70% of the total publication cost to keep printing affordable.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "d291l_166",
+    "subject": "da-291",
+    "lecture": "lecture-11",
+    "lectureNo": 11,
+    "question": "Which of the following is a limitation of printed agricultural information materials?",
+    "options": [
+      "Information cannot be disseminated to large groups",
+      "Illiterates cannot read and understand the information",
+      "Repeated reading is not possible",
+      "People do not believe printed information"
+    ],
+    "correct": 1,
+    "explanation": "A major limitation of printed materials is that illiterate farmers cannot read or understand them, limiting their effectiveness in rural areas with high illiteracy.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "d291l_167",
+    "subject": "da-291",
+    "lecture": "lecture-11",
+    "lectureNo": 11,
+    "question": "Three-column matching: Match the extension information material, its feature, and its use:\nCol A: 1-Bulletin, 2-Newsletter, 3-Wall newspaper\nCol B: P-Monthly/quarterly publication, Q-Comprehensive technical document, R-Displayed in public places\nCol C: i-For scientific community, ii-For general awareness, iii-For keeping people informed",
+    "options": [
+      "1-Q-i, 2-P-iii, 3-R-ii",
+      "1-Q-iii, 2-R-i, 3-P-ii",
+      "1-P-i, 2-Q-ii, 3-R-iii",
+      "1-R-iii, 2-P-i, 3-Q-ii"
+    ],
+    "correct": 0,
+    "explanation": "Bulletin is a comprehensive technical document (Q) for scientific community (i); Newsletter is monthly/quarterly (P) to keep people informed (iii); Wall newspaper is displayed in public places (R) for general awareness (ii).",
+    "difficulty": "hard"
+  },
+  {
+    "id": "d291l_168",
+    "subject": "da-291",
+    "lecture": "lecture-11",
+    "lectureNo": 11,
+    "question": "A circular letter in extension education is used to:",
+    "options": [
+      "Send the same information to many recipients simultaneously",
+      "Replace face-to-face farm and home visits",
+      "Circulate within government departments only",
+      "Present research findings in tabular format"
+    ],
+    "correct": 0,
+    "explanation": "A circular letter is a communication sent simultaneously to many recipients to convey the same information, making it efficient for mass dissemination.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "d291l_169",
+    "subject": "da-291",
+    "lecture": "lecture-12",
+    "lectureNo": 12,
+    "question": "The first step in the extension educational process according to the DA-291 course material is:",
+    "options": [
+      "Teaching",
+      "Evaluation",
+      "Analysis of the situation",
+      "Deciding upon objectives"
+    ],
+    "correct": 2,
+    "explanation": "The first phase is analysis of the situation, requiring facts about people's situation, interests, education, needs, social customs, type of farming, markets, etc.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "d291l_170",
+    "subject": "da-291",
+    "lecture": "lecture-12",
+    "lectureNo": 12,
+    "question": "Assertion (A): Extension objectives should express behavioral changes in people as well as economic or social outcomes.\nReason (R): The extension educational process is linear and does not repeat once evaluation is complete.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are true but R is not the correct explanation of A"
+    ],
+    "correct": 1,
+    "explanation": "A is true - objectives should express behavioral AND economic/social outcomes. R is false - the extension process is cyclical; after evaluation comes reconsideration, and the process begins again.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "d291l_171",
+    "subject": "da-291",
+    "lecture": "lecture-12",
+    "lectureNo": 12,
+    "question": "The fifth phase of the extension educational process is:",
+    "options": [
+      "Situation analysis",
+      "Reconsideration",
+      "Teaching",
+      "Evaluation"
+    ],
+    "correct": 1,
+    "explanation": "The five phases are: (1) Analysis of situation, (2) Deciding objectives, (3) Teaching, (4) Evaluation, (5) Reconsideration - a review of previous efforts revealing a new situation.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "d291l_172",
+    "subject": "da-291",
+    "lecture": "lecture-12",
+    "lectureNo": 12,
+    "question": "In extension education, the teaching phase involves choosing:",
+    "options": [
+      "Only the demonstration plots and experimental sites",
+      "Financial resources and government schemes",
+      "Content to be taught and methods/techniques of teaching",
+      "Only the beneficiaries and target groups"
+    ],
+    "correct": 2,
+    "explanation": "The teaching phase involves choosing the content (what is to be taught) and methods/techniques of teaching, using six to nine different methods to stimulate learning.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "d291l_173",
+    "subject": "da-291",
+    "lecture": "lecture-12",
+    "lectureNo": 12,
+    "question": "The basic objective of extension is classified under three categories. Which of the following is NOT one of them?",
+    "options": [
+      "Material: Enhancement in production and income",
+      "Social and cultural: Development of community",
+      "Financial: obtaining maximum profit from farming",
+      "Related to education: Change in outlook of people"
+    ],
+    "correct": 2,
+    "explanation": "The three categories of extension objectives are: Material (production/income), Educational (change in outlook), and Social & Cultural (community development). Financial profit-maximization is not listed as a basic objective category.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "d291l_174",
+    "subject": "da-291",
+    "lecture": "lecture-12",
+    "lectureNo": 12,
+    "question": "Three-column matching: Match the extension objective type, its focus, and its example:\nCol A: 1-Material, 2-Educational, 3-Social & Cultural\nCol B: P-Change in people's outlook, Q-Community development, R-Enhancement in production\nCol C: i-Higher crop yields, ii-Formation of cooperatives, iii-Positive attitude towards new technology",
+    "options": [
+      "1-P-ii, 2-R-i, 3-Q-iii",
+      "1-Q-iii, 2-P-i, 3-R-ii",
+      "1-R-iii, 2-Q-i, 3-P-ii",
+      "1-R-i, 2-P-iii, 3-Q-ii"
+    ],
+    "correct": 3,
+    "explanation": "Material objective focuses on production enhancement (R) with higher crop yields (i); Educational objective focuses on change in outlook (P) with positive attitude (iii); Social & Cultural focuses on community development (Q) with cooperative formation (ii).",
+    "difficulty": "hard"
+  },
+  {
+    "id": "d291l_175",
+    "subject": "da-291",
+    "lecture": "lecture-12",
+    "lectureNo": 12,
+    "question": "Extension education was first used in agriculture and home science in:",
+    "options": [
+      "America",
+      "Sweden",
+      "Norway",
+      "India"
+    ],
+    "correct": 0,
+    "explanation": "For the first time in America, Agricultural extension was used in agriculture and home science, after which the agricultural programs started and were extended to fish culture in Norway and Sweden.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "d291l_176",
+    "subject": "da-291",
+    "lecture": "lecture-12",
+    "lectureNo": 12,
+    "question": "The land grant college method of extension, which was later adopted by almost all universities in India, was implemented for the first time in:",
+    "options": [
+      "Japan",
+      "USA",
+      "UK",
+      "Germany"
+    ],
+    "correct": 1,
+    "explanation": "The land grant college model of village development programs was implemented for the first time in USA and was later adopted by almost all universities in India.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "d291l_177",
+    "subject": "da-291",
+    "lecture": "lecture-14",
+    "lectureNo": 13,
+    "question": "The Srinikethan project, considered the first attempt at rural development in India, was started in:",
+    "options": [
+      "1952",
+      "1921",
+      "1947",
+      "1914"
+    ],
+    "correct": 3,
+    "explanation": "Srinikethan was launched in 1914 by Rabindranath Tagore at Srinikethan, West Bengal, to improve economic and social conditions of rural people.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "d291l_178",
+    "subject": "da-291",
+    "lecture": "lecture-14",
+    "lectureNo": 13,
+    "question": "The Srinikethan project was started by:",
+    "options": [
+      "Mahatma Gandhi",
+      "Dr. Spencer H",
+      "Rabindranath Tagore",
+      "F L B Brown"
+    ],
+    "correct": 2,
+    "explanation": "Srinikethan project was started by Rabindranath Tagore at Srinikethan, West Bengal in 1914, as the first attempt of rural development in India.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "d291l_179",
+    "subject": "da-291",
+    "lecture": "lecture-14",
+    "lectureNo": 13,
+    "question": "The Sevagram rural development programme was started in:",
+    "options": [
+      "Gurugram district of Punjab",
+      "Marthandam of Kerala",
+      "Vaardha district of Maharashtra",
+      "Srinikethan of West Bengal"
+    ],
+    "correct": 2,
+    "explanation": "In 1921, Gandhiji started efforts for rural development at Sevagram of Vaardha district of Maharashtra, introducing organic fertilizer, hybrid livestock, and educational system called NAYATHALIM.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "d291l_180",
+    "subject": "da-291",
+    "lecture": "lecture-14",
+    "lectureNo": 13,
+    "question": "The educational system introduced by Gandhiji at Sevagram for children and adults was called:",
+    "options": [
+      "NAVODAYA",
+      "NAYATHALIM",
+      "NAVBHARAT",
+      "NAITIK SHIKSHA"
+    ],
+    "correct": 1,
+    "explanation": "Gandhiji introduced an educational system called NAYATHALIM for children and adults as part of the Sevagram rural development programme in 1921.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "d291l_181",
+    "subject": "da-291",
+    "lecture": "lecture-14",
+    "lectureNo": 13,
+    "question": "The Gurugram experiment was initiated by deputy commissioner 'F L B Brown' in:",
+    "options": [
+      "Gurugram district of Punjab",
+      "Marthandam of Kerala",
+      "Vaardha district of Maharashtra",
+      "Etawah district of Uttar Pradesh"
+    ],
+    "correct": 0,
+    "explanation": "The Gurugram experiment was initiated by deputy commissioner F L B Brown in Gurugram district of Punjab, establishing a school of rural economy to train village guides.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "d291l_182",
+    "subject": "da-291",
+    "lecture": "lecture-14",
+    "lectureNo": 13,
+    "question": "Assertion (A): The Firka development scheme was introduced by Tongutar Prakasham Panthulu in 1946.\nReason (R): The Firka scheme aimed at 'All round development of rural life' and was later merged into the community development scheme.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "A is true but R is false",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is false but R is true"
+    ],
+    "correct": 2,
+    "explanation": "Both A and R are true. The Firka scheme was introduced by Tongutar Prakasham Panthulu in 1946 with the aim of 'all round development of rural life' and was merged into the community development scheme, but R does not explain why A is true.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "d291l_183",
+    "subject": "da-291",
+    "lecture": "lecture-14",
+    "lectureNo": 13,
+    "question": "The Etawah project was set up in coordination with Albert Mayer at Etawah district of Uttar Pradesh in:",
+    "options": [
+      "1952",
+      "1921",
+      "1948",
+      "1946"
+    ],
+    "correct": 2,
+    "explanation": "The Etawah project was set up in 64 villages in coordination with Albert Mayer in 1948 at Etawah district of Uttar Pradesh, becoming the prototype for community development and NES programmes.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "d291l_184",
+    "subject": "da-291",
+    "lecture": "lecture-14",
+    "lectureNo": 13,
+    "question": "A 'calendar of work' differs from a 'plan of work' in that the calendar mainly fixes the:",
+    "options": [
+      "Names of voters",
+      "Money to be spent only",
+      "Time schedule (when each activity is done)",
+      "Soil type"
+    ],
+    "correct": 2,
+    "explanation": "The plan of work states what is to be done, how and by whom; the calendar of work arranges those activities according to the time/season when each is to be carried out.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "d291l_185",
+    "subject": "da-291",
+    "lecture": "lecture-14",
+    "lectureNo": 13,
+    "question": "The Nilokheri scheme (1947) was called:",
+    "options": [
+      "NAYATHALIM",
+      "Etawah Model",
+      "Firka Development",
+      "Mazdoor Manzil"
+    ],
+    "correct": 3,
+    "explanation": "The Nilokheri scheme of 1947 aimed at self-sufficiency through village organization connecting 7000 Pakistanis in 100 adjoining villages of India and was called 'Mazdoor Manzil'.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "d291l_186",
+    "subject": "da-291",
+    "lecture": "lecture-13",
+    "lectureNo": 14,
+    "question": "Mass extension methods are MOST appropriate when the objective is to:",
+    "options": [
+      "Audit accounts",
+      "Teach a complex skill to one farmer",
+      "Settle a land dispute",
+      "Create awareness among a large number of people"
+    ],
+    "correct": 3,
+    "explanation": "Mass methods (radio, publications, campaigns, exhibitions) are best for creating awareness and disseminating information to large numbers, the first step in the adoption process.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "d291l_187",
+    "subject": "da-291",
+    "lecture": "lecture-13",
+    "lectureNo": 14,
+    "question": "The principle of 'working with people, not for them' in extension implies:",
+    "options": [
+      "Involving people actively in planning and executing programmes",
+      "Doing everything for the people without their effort",
+      "Ignoring the people's views",
+      "Working only with officials"
+    ],
+    "correct": 0,
+    "explanation": "Extension works WITH the people - involving them in identifying problems, planning and carrying out programmes - rather than doing things FOR them, which builds self-reliance.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "d291l_188",
+    "subject": "da-291",
+    "lecture": "lecture-13",
+    "lectureNo": 14,
+    "question": "Assertion (A): Community development is defined as a process of government efforts united with those of the people to improve social, cultural and economic conditions.\nReason (R): Community development involves technically aided and locally organized self-help.",
+    "options": [
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is false but R is true",
+      "Both A and R are true and R is the correct explanation of A",
+      "A is true but R is false"
+    ],
+    "correct": 0,
+    "explanation": "Both definitions are correct - A gives the official definition and R is an alternative description. But R (self-help aspect) does not explain A (government-people partnership), so they are complementary but R does not explain A.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "d291l_189",
+    "subject": "da-291",
+    "lecture": "lecture-13",
+    "lectureNo": 14,
+    "question": "The three important objectives of community development are:",
+    "options": [
+      "Economic development, Social justice, Democratic progress",
+      "Agricultural production, Industrial growth, Urban development",
+      "Education, Health, Infrastructure",
+      "Land reform, Women empowerment, Tribal welfare"
+    ],
+    "correct": 0,
+    "explanation": "The three important objectives of community development are: Economic development, Social justice, and Democratic progress.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "d291l_190",
+    "subject": "da-291",
+    "lecture": "lecture-13",
+    "lectureNo": 14,
+    "question": "Each block in the Community Development Programme consisted of:",
+    "options": [
+      "100 villages with 60,000 to 70,000 population",
+      "50 villages with 25,000 population",
+      "200 villages with 1 lakh population",
+      "300 villages with 2 lakh population"
+    ],
+    "correct": 0,
+    "explanation": "Each block in the CDP consisted of 100 villages with a population of 60,000 to 70,000.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "d291l_191",
+    "subject": "da-291",
+    "lecture": "lecture-13",
+    "lectureNo": 14,
+    "question": "In Andhra Pradesh, CDP was implemented in three locations. Which of the following was NOT one of them?",
+    "options": [
+      "Kurnool and Kadapa (K.C. canal area)",
+      "Visakhapatnam",
+      "East Godavari (Kakinada and Peddapuram)",
+      "Nallagonda (Miryalguda and Huzurnagar)"
+    ],
+    "correct": 1,
+    "explanation": "CDP in Andhra Pradesh was implemented at: East Godavari (Kakinada & Peddapuram), Kurnool and Kadapa (KC canal area), and Nallagonda (Miryalguda and Huzurnagar). Visakhapatnam was not among them.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "d291l_192",
+    "subject": "da-291",
+    "lecture": "lecture-13",
+    "lectureNo": 14,
+    "question": "Three-column matching: Match the phase of CDP, its stage number, and its activity:\nCol A: 1-Emergence phase, 2-Work phase, 3-Final stage\nCol B: P-Stage 1, Q-Stage 3, R-Stage 5\nCol C: i-Finishing touches to all works, ii-Area selection, survey and planning, iii-Implementation of targeted programmes",
+    "options": [
+      "1-P-i, 2-R-ii, 3-Q-iii",
+      "1-R-i, 2-P-ii, 3-Q-iii",
+      "1-Q-iii, 2-P-i, 3-R-ii",
+      "1-P-ii, 2-Q-iii, 3-R-i"
+    ],
+    "correct": 3,
+    "explanation": "Emergence phase is Stage 1 (P) with area selection/survey/planning (ii); Work phase is Stage 3 (Q) with implementation of programmes (iii); Final stage is Stage 5 (R) with finishing touches (i).",
+    "difficulty": "hard"
+  },
+  {
+    "id": "d291l_193",
+    "subject": "da-291",
+    "lecture": "lecture-15",
+    "lectureNo": 15,
+    "question": "The local government in India is enshrined in which article of the Indian Constitution?",
+    "options": [
+      "Article 370 of Part XXI",
+      "Article 21 of Part III",
+      "Article 356 of Part XVIII",
+      "Article 40 of Part IV"
+    ],
+    "correct": 3,
+    "explanation": "The local government is enshrined in Article 40 of Part IV (Directive Principles of State Policy) of the Indian Constitution.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "d291l_194",
+    "subject": "da-291",
+    "lecture": "lecture-15",
+    "lectureNo": 15,
+    "question": "The Balvantrai Mehta Committee, which recommended the three-tier Panchayati Raj system, was constituted on:",
+    "options": [
+      "16th January 1956",
+      "15th August 1947",
+      "26th November 1949",
+      "2nd October 1952"
+    ],
+    "correct": 0,
+    "explanation": "The central government constituted the committee on 16th January 1956 under the chairmanship of Balvantrai Mehta, which recommended the three-tier Panchayati Raj system.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "d291l_195",
+    "subject": "da-291",
+    "lecture": "lecture-15",
+    "lectureNo": 15,
+    "question": "The three tiers of the Panchayati Raj system are:",
+    "options": [
+      "Gram Sabha, Block Panchayat, District Board",
+      "Gram Panchayat, Panchayat Samiti, Zilla Parishad",
+      "Village Council, Taluk Board, District Council",
+      "Ward Sabha, Mandal Parishad, Zilla Parishad"
+    ],
+    "correct": 1,
+    "explanation": "The three tiers of Panchayati Raj are: Gram Panchayat (village level), Panchayat Samiti (block level), and Zilla Parishad (district level).",
+    "difficulty": "easy"
+  },
+  {
+    "id": "d291l_196",
+    "subject": "da-291",
+    "lecture": "lecture-15",
+    "lectureNo": 15,
+    "question": "Lord Ripon, who fundamentally shaped local government bodies in India in 1882, is called:",
+    "options": [
+      "Father of Panchayati Raj",
+      "Father of local governance",
+      "Father of community development",
+      "Father of Indian democracy"
+    ],
+    "correct": 1,
+    "explanation": "Lord Ripon fundamentally shaped local government bodies by following government laws in 1882 and is called the 'father of local governance' in India.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "d291l_197",
+    "subject": "da-291",
+    "lecture": "lecture-15",
+    "lectureNo": 15,
+    "question": "Assertion (A): A gram panchayat is formed if the minimum population of a village is 250.\nReason (R): Today every village with a population of 500 has one panchayat.",
+    "options": [
+      "A is true but R is false",
+      "Both A and R are true but R is not the correct explanation of A",
+      "Both A and R are true and R is the correct explanation of A",
+      "A is false but R is true"
+    ],
+    "correct": 1,
+    "explanation": "Both A and R are true - minimum 250 for formation, and today every village with 500 population has one panchayat. But R (current practice) does not explain A (formation criterion).",
+    "difficulty": "medium"
+  },
+  {
+    "id": "d291l_198",
+    "subject": "da-291",
+    "lecture": "lecture-15",
+    "lectureNo": 15,
+    "question": "The number of gram panchayats in combined Andhra Pradesh state (before bifurcation) was:",
+    "options": [
+      "12,765",
+      "27,445",
+      "18,000",
+      "35,000"
+    ],
+    "correct": 1,
+    "explanation": "There were 27,445 gram panchayats in the combined state of Andhra Pradesh (Telangana state alone has 12,765).",
+    "difficulty": "hard"
+  },
+  {
+    "id": "d291l_199",
+    "subject": "da-291",
+    "lecture": "lecture-15",
+    "lectureNo": 15,
+    "question": "Three-column matching: Match the Panchayati Raj tier, its level, and its geographic unit:\nCol A: 1-Gram Panchayat, 2-Panchayat Samiti, 3-Zilla Parishad\nCol B: P-Intermediate/Block level, Q-Lower/Village level, R-Upper/District level\nCol C: i-District, ii-Village, iii-Block",
+    "options": [
+      "1-Q-i, 2-R-ii, 3-P-iii",
+      "1-R-i, 2-Q-ii, 3-P-iii",
+      "1-Q-ii, 2-P-iii, 3-R-i",
+      "1-P-ii, 2-Q-iii, 3-R-i"
+    ],
+    "correct": 2,
+    "explanation": "Gram Panchayat is at lower/village level (Q-ii); Panchayat Samiti is at intermediate/block level (P-iii); Zilla Parishad is at upper/district level (R-i).",
+    "difficulty": "medium"
+  },
+  {
+    "id": "d291l_200",
+    "subject": "da-291",
+    "lecture": "lecture-15",
+    "lectureNo": 15,
+    "question": "The functions of Gram Panchayat include all of the following EXCEPT:",
+    "options": [
+      "Birth and deaths registrations",
+      "Public health and sanitation",
+      "Collection of state income tax",
+      "Water supply and street lights"
+    ],
+    "correct": 2,
+    "explanation": "Gram Panchayat functions include public health, water supply, street lights, birth/death registration, women/child care, roads/tanks/wells, primary education, and hospitals. Income tax collection is a central/state government function.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "d291l_201",
+    "subject": "da-291",
+    "lecture": "lecture-1",
+    "lectureNo": 1,
+    "question": "Education is defined as the process of bringing a desirable change in the:",
+    "options": [
+      "Behaviour of a human being",
+      "Soil fertility status",
+      "Market price of produce",
+      "Climate of a region"
+    ],
+    "correct": 0,
+    "explanation": "As per DA-291 notes: Education is the process of bringing desirable change in the behaviour of human beings."
+  },
+  {
+    "id": "d291l_202",
+    "subject": "da-291",
+    "lecture": "lecture-1",
+    "lectureNo": 1,
+    "question": "The hierarchically structured education system running from kindergarten through the university is called:",
+    "options": [
+      "Informal education",
+      "Formal education",
+      "Non-formal education",
+      "Distance education"
+    ],
+    "correct": 1,
+    "explanation": "As per DA-291 notes: Formal education refers to the hierarchically structured education system running from kindergarten through the university."
+  },
+  {
+    "id": "d291l_203",
+    "subject": "da-291",
+    "lecture": "lecture-1",
+    "lectureNo": 1,
+    "question": "Organized and systematic educational activity carried on outside the framework of the formal system for a particular group is called:",
+    "options": [
+      "Formal education",
+      "Incidental education",
+      "Non-formal education",
+      "Primary education"
+    ],
+    "correct": 2,
+    "explanation": "As per DA-291 notes: Non-formal education is the organized and systematic education activity carried on outside the framework of the formal system to provide selected learning to a particular group."
+  },
+  {
+    "id": "d291l_204",
+    "subject": "da-291",
+    "lecture": "lecture-2",
+    "lectureNo": 2,
+    "question": "In formal education attendance is compulsory, whereas in non-formal education participation is:",
+    "options": [
+      "Compulsory",
+      "Penalised",
+      "Prohibited",
+      "Voluntary"
+    ],
+    "correct": 3,
+    "explanation": "As per DA-291 notes: In formal education attendance is compulsory, while in non-formal education participation is voluntary."
+  },
+  {
+    "id": "d291l_205",
+    "subject": "da-291",
+    "lecture": "lecture-3",
+    "lectureNo": 3,
+    "question": "In agricultural extension, 'PRA' stands for:",
+    "options": [
+      "Participatory Rural Appraisal",
+      "Public Resource Allocation",
+      "Planned Rural Administration",
+      "Primary Rural Agency"
+    ],
+    "correct": 0,
+    "explanation": "As per DA-291 notes: PRA stands for Participatory Rural Appraisal, a method with salient features, principles and techniques used in rural development."
+  },
+  {
+    "id": "d291l_206",
+    "subject": "da-291",
+    "lecture": "lecture-1",
+    "lectureNo": 1,
+    "question": "Education that is lifelong, incidental, spontaneous and not pre-planned, gained from daily experiences, is called:",
+    "options": [
+      "Formal education",
+      "Informal education",
+      "Non-formal education",
+      "Technical education"
+    ],
+    "correct": 1,
+    "explanation": "As per DA-291 notes: Informal education is a lifelong process which is incidental and spontaneous, not pre-planned, and not imparted by any specialized agency."
+  }
 ];
