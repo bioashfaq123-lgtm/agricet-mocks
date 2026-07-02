@@ -2434,5 +2434,7 @@ export const da241Questions: Question[] = [
     "correct": 1,
     "explanation": "'Market' comes from the Latin word 'marcatus', meaning merchandise, trade or a place where business is conducted.",
     "difficulty": "medium"
-  }
+  },
+  { "id": "d241_201", "subject": "da-241", "question": "The law stating that as more units of a variable input are added to fixed inputs, the marginal product eventually declines is the:", "options": ["Law of variable proportions (returns to a factor)", "Law of demand", "Law of supply", "Law of equi-marginal returns"], "correct": 0, "explanation": "As per DA-241 notes, the law of variable proportions (returns to a factor) describes how marginal product changes as a variable input is added to fixed inputs." },
+  { "id": "d241_202", "subject": "da-241", "question": "The field of economics concerned with decisions on what to produce and how to produce on the farm is:", "options": ["Consumer economics", "Agricultural production economics", "International trade", "Public finance"], "correct": 1, "explanation": "The notes define agricultural production economics as the field concerned with production decisions on the farm." }
 ];

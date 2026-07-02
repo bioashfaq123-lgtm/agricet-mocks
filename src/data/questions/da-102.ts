@@ -1296,5 +1296,10 @@ export const da102Questions: Question[] = [
     "correct": 1,
     "explanation": "Blackgram (Vigna mungo) and greengram (Vigna radiata) fix atmospheric nitrogen through symbiosis with Bradyrhizobium / Rhizobium bacteria that form nodules on roots. This biological nitrogen fixation can contribute 40-100 kg N/ha per season, reducing fertilizer requirements.",
     "difficulty": "easy"
-  }
+  },
+  { "id": "d102_201", "subject": "da-102", "question": "Rice belongs to which botanical family?", "options": ["Poaceae", "Leguminosae", "Solanaceae", "Malvaceae"], "correct": 0, "explanation": "As per DA-102 notes, rice belongs to the family Poaceae." },
+  { "id": "d102_202", "subject": "da-102", "question": "Rice is an important staple food crop for approximately what share of the world population?", "options": ["More than 20%", "More than 60%", "About 5%", "About 90%"], "correct": 1, "explanation": "The notes state rice is a staple food for more than 60 per cent of the world population." },
+  { "id": "d102_203", "subject": "da-102", "question": "With respect to day length, the rice crop is generally:", "options": ["Day-neutral", "Insensitive to light", "Sensitive to photoperiodic conditions", "Grown only in darkness"], "correct": 2, "explanation": "The notes state rice is sensitive to photoperiodic conditions." },
+  { "id": "d102_204", "subject": "da-102", "question": "In India, in terms of area among cereals, wheat occupies which position?", "options": ["First", "Third", "Fourth", "Second (after rice)"], "correct": 3, "explanation": "The notes state in India wheat occupies the second place after rice." },
+  { "id": "d102_205", "subject": "da-102", "question": "Defatted rice bran, a by-product of rice milling that is rich in protein, is used mainly as:", "options": ["Cattle and poultry feed", "Human medicine", "Fuel wood", "Building material"], "correct": 0, "explanation": "The notes state rice bran is used in cattle and poultry feed, and defatted bran rich in protein is used similarly." }
 ];

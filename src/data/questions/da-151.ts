@@ -801,4 +801,6 @@ export const da151Questions: Question[] = [
     correct: 1,
     explanation: "The depth of penetration of the rotavator can be adjusted up to 12.5 cm. It uses L-shaped blades on the rotor and is not meant for sandy soil. Power from the engine to rotor shaft is transmitted through a chain drive."
   },
+  { id: "d151_201", subject: "da-151", question: "On an average, a man (human being) as a source of farm power develops nearly:", options: ["0.1 horse power", "5 horse power", "50 horse power", "1 horse power"], correct: 0, explanation: "As per DA-151 notes, on an average a man develops nearly 0.1 horse power (hp)." },
+  { id: "d151_202", subject: "da-151", question: "A diesel engine used on the farm is an example of a(n):", options: ["Spark ignition engine", "Compression ignition engine", "Electric motor", "Steam engine"], correct: 1, explanation: "The notes classify diesel engines as compression ignition engines (petrol/kerosene engines are spark ignition)." }
 ];

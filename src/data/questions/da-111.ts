@@ -770,4 +770,6 @@ export const da111Questions: Question[] = [
     explanation: "Heterosis (hybrid vigour), coined by G.H. Shull (1914), is the superiority of F1 hybrids over the better parent (or mid-parent) in traits like yield, growth rate, disease resistance, and adaptability. It is commercially exploited in maize, sorghum, bajra, cotton, and vegetable hybrids.",
     difficulty: "easy"
   },
+  { id: "d111_201", subject: "da-111", question: "Plant breeding is best defined as the art and science of:", options: ["Improving the heredity of plants for human benefit", "Manufacturing chemical fertilizers", "Controlling insect pests with sprays", "Surveying farm boundaries"], correct: 0, explanation: "As per DA-111 notes, plant breeding is the art and science of improving the heredity of plants for the benefit of mankind." },
+  { id: "d111_202", subject: "da-111", question: "Mendel's laws of inheritance, based on his research on the ___ plant, were rediscovered in the year 1900:", options: ["Maize", "Pea", "Wheat", "Rice"], correct: 1, explanation: "The notes state Gregor Mendel did research on pea, invented the laws of inheritance, and these were rediscovered in 1900." }
 ];
