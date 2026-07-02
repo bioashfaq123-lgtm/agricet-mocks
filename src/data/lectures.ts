@@ -27,6 +27,7 @@ export const DA101_LECTURES: Lecture[] = [
   lec("da-101", 9, "Cropping Systems", "Sole cropping, mixed cropping, intercropping, crop rotation, relay cropping, LER"),
   lec("da-101", 10, "Harvest, Threshing & Post-Harvest", "Harvest index, maturity indices, threshing, storage, post-harvest losses"),
   lec("da-101", 11, "Agricultural Meteorology & the Atmosphere", "Meteorology & climatology; layers of atmosphere (troposphere, stratosphere); solar radiation & wavelengths; cardinal temperature; weather instruments (thermometers, anemometer, evaporimeter)"),
+  lec("da-101", 12, "Light, Photoperiodism & Temperature Effects on Crops", "Functions of light in photosynthesis; light intensity; photoperiodism (long-day, short-day, day-neutral plants); cardinal temperatures; chilling injury"),
 ];
 
 // ── DA-102: Crop Production-I (Kharif Crops) ────────────────────────────────
