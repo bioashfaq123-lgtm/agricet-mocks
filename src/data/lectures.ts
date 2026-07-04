@@ -38,6 +38,7 @@ export const DA101_LECTURES: Lecture[] = [
   lec("da-101", 20, "Drainage, Harvesting & Post-Harvest", "Drainage (surface & sub-surface, mid-season in rice); harvesting definition; physiological vs harvest maturity; manual vs mechanical harvesting; combine harvester; threshing & winnowing; grain moisture for storage"),
   lec("da-101", 21, "Dryland Agriculture", "Dryland agriculture (rainfed); three categories — dry farming (<750 mm), dryland farming (>750 mm), rainfed farming (>1150 mm); growing periods; importance in India; contingency crop planning; problems"),
   lec("da-101", 22, "Water Harvesting & Watershed Management", "Water harvesting definition & three components (catchment, storage, command); runoff 10–40% of rainfall; traditional systems (tanka, nadi, khadin); farm ponds (excavated/embankment; square/rectangular/circular); percolation tanks; supplemental irrigation; watershed concept, classes (micro/small/large), principles & POWER objectives"),
+  lec("da-101", 23, "Cropping Systems & Crop Rotation", "Cropping pattern vs cropping system; mono-cropping; multiple cropping (inter-, mixed, sequence); intercropping row ratios; relay, ratoon & multi-storeyed cropping; intercropping vs mixed cropping; crop rotation definition, principles (legumes after non-legumes, same family not in succession) & advantages"),
 ];
 
 // ── DA-102: Crop Production-I (Kharif Crops) ────────────────────────────────
