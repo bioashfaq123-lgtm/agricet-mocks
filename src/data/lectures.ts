@@ -35,6 +35,7 @@ export const DA101_LECTURES: Lecture[] = [
   lec("da-101", 17, "Soil Fertility & Productivity", "Soil fertility vs productivity; nutrient losses (leaching, erosion, crop removal); maintenance of fertility; organic manures vs chemical fertilizers; straight vs complex fertilizers; gypsum for alkali soils"),
   lec("da-101", 18, "Weeds & Weed Management", "Methods of weed control (mechanical, cultural, biological, chemical); carp fish for aquatic weeds; herbicides (Dinozeb, 2,4-D); selective vs non-selective; contact vs systemic; herbicide groups & active ingredient"),
   lec("da-101", 19, "Irrigation & Water Management", "Irrigation definition; critical stages; surface methods (check basin, border strip, furrow); ridge & furrow; sub-irrigation; sprinkler & drip; furrow efficiency, drainage & erosion"),
+  lec("da-101", 20, "Drainage, Harvesting & Post-Harvest", "Drainage (surface & sub-surface, mid-season in rice); harvesting definition; physiological vs harvest maturity; manual vs mechanical harvesting; combine harvester; threshing & winnowing; grain moisture for storage"),
 ];
 
 // ── DA-102: Crop Production-I (Kharif Crops) ────────────────────────────────
