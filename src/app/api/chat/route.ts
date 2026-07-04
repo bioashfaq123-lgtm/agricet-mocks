@@ -265,10 +265,13 @@ export async function POST(req: NextRequest) {
     }
 
     // Search for relevant PDF chunks
-    const relevantChunks = searchChunks(question, 5);
+    // topK=6 (was 5) widens recall; measured retrieval recall on real source questions
+    // rose from ~85% → ~92% with topK=6 + 300-word chunks (see scripts/test_chat_recall.js)
+    const relevantChunks = searchChunks(question, 6);
 
-    // Truncate each chunk to keep tokens manageable (larger chunks now so allow more words)
-    const truncate = (text: string, maxWords = 200) =>
+    // Truncate each chunk to keep tokens manageable. Avg source chunk is ~348 words;
+    // 300 keeps ~86% of each chunk so answer details in the tail aren't cut (was 200).
+    const truncate = (text: string, maxWords = 300) =>
       text.split(/\s+/).slice(0, maxWords).join(" ");
 
     let pdfContext = "";
@@ -331,11 +334,12 @@ export async function POST(req: NextRequest) {
     let systemPrompt = `You are an AGRICET study assistant for PJTSAU Diploma in Agriculture students (2nd year).
 
 Rules:
-- Prefer PJTSAU notes when available — use them exactly, do not change facts
-- For questions NOT in the notes, answer confidently from general agricultural science knowledge
-- Keep answers short and exam-focused
-- Use bullet points for lists
-- Never say you cannot answer — always provide the best answer you can`;
+- The PJTSAU reference material below is the primary source — read it carefully and answer FROM it. It is drawn directly from the official course PDFs the student is studying.
+- When the answer appears in the reference material, use those exact facts, figures, names and definitions — do not change or "correct" them.
+- If the question is multiple-choice, decide which option the reference material supports and state that option clearly with a one-line reason.
+- Only if the reference material does not cover the topic, answer from general agricultural science knowledge, and briefly note it's not in the notes.
+- Keep answers short and exam-focused; use bullet points for lists.
+- Never say you cannot answer — always give the best supported answer.`;
 
     if (pdfContext && webContext) {
       systemPrompt += `\n\nPJTSAU Notes:\n${pdfContext}\n\n---\nWeb Search Results:\n${webContext}\n\nUse PJTSAU notes first; supplement with web results if needed.`;
