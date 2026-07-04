@@ -30,6 +30,7 @@ export const DA101_LECTURES: Lecture[] = [
   lec("da-101", 12, "Light, Photoperiodism & Temperature Effects on Crops", "Functions of light in photosynthesis; light intensity; photoperiodism (long-day, short-day, day-neutral plants); cardinal temperatures; chilling injury"),
   lec("da-101", 13, "Wind & Its Effects on Crops", "Wind (high to low pressure); wind vane & direction; wind velocity (kmph); effect of wind on crops — CO2 supply, pollination, winnowing, lodging, sand movement, desiccation"),
   lec("da-101", 14, "Rainfall, Precipitation & Monsoons", "Precipitation vs rainfall; condensation nuclei; fog; types of rainfall (convectional, orographic, cyclonic); condensation level; rain gauge; monsoons (SW & NE)"),
+  lec("da-101", 15, "Tillage & Tilth", "Tillage & tilth definitions; characteristics of good tilth; coarse vs fine tilth; preparatory tillage; primary vs secondary tillage; inter-cultivation; objectives of tillage"),
 ];
 
 // ── DA-102: Crop Production-I (Kharif Crops) ────────────────────────────────
