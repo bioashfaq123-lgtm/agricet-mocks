@@ -33,6 +33,7 @@ export const DA101_LECTURES: Lecture[] = [
   lec("da-101", 15, "Tillage & Tilth", "Tillage & tilth definitions; characteristics of good tilth; coarse vs fine tilth; preparatory tillage; primary vs secondary tillage; inter-cultivation; objectives of tillage"),
   lec("da-101", 16, "Sowing & Plant Density", "Plant density; time & depth of sowing; kharif/rabi sowing time; broadcasting vs seed drill; plant population effect on height/yield; spacing & rectangularity; seed treatment; transplanting"),
   lec("da-101", 17, "Soil Fertility & Productivity", "Soil fertility vs productivity; nutrient losses (leaching, erosion, crop removal); maintenance of fertility; organic manures vs chemical fertilizers; straight vs complex fertilizers; gypsum for alkali soils"),
+  lec("da-101", 18, "Weeds & Weed Management", "Methods of weed control (mechanical, cultural, biological, chemical); carp fish for aquatic weeds; herbicides (Dinozeb, 2,4-D); selective vs non-selective; contact vs systemic; herbicide groups & active ingredient"),
 ];
 
 // ── DA-102: Crop Production-I (Kharif Crops) ────────────────────────────────
