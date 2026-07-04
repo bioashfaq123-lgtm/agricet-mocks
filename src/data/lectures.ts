@@ -36,6 +36,7 @@ export const DA101_LECTURES: Lecture[] = [
   lec("da-101", 18, "Weeds & Weed Management", "Methods of weed control (mechanical, cultural, biological, chemical); carp fish for aquatic weeds; herbicides (Dinozeb, 2,4-D); selective vs non-selective; contact vs systemic; herbicide groups & active ingredient"),
   lec("da-101", 19, "Irrigation & Water Management", "Irrigation definition; critical stages; surface methods (check basin, border strip, furrow); ridge & furrow; sub-irrigation; sprinkler & drip; furrow efficiency, drainage & erosion"),
   lec("da-101", 20, "Drainage, Harvesting & Post-Harvest", "Drainage (surface & sub-surface, mid-season in rice); harvesting definition; physiological vs harvest maturity; manual vs mechanical harvesting; combine harvester; threshing & winnowing; grain moisture for storage"),
+  lec("da-101", 21, "Dryland Agriculture", "Dryland agriculture (rainfed); three categories — dry farming (<750 mm), dryland farming (>750 mm), rainfed farming (>1150 mm); growing periods; importance in India; contingency crop planning; problems"),
 ];
 
 // ── DA-102: Crop Production-I (Kharif Crops) ────────────────────────────────
